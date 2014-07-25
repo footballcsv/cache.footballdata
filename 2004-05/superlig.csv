@@ -1,0 +1,307 @@
+Date,Team 1,Team 2,FT,HT
+2004-08-06,Rizespor,Fenerbahçe,2-2,0-2
+2004-08-07,Denizlispor,Gaziantepspor,2-1,1-0
+2004-08-07,Gençlerbirliği,Sakaryaspor,1-0,1-0
+2004-08-07,Kayserispor,Trabzonspor,0-3,0-1
+2004-08-07,Malatyaspor,Beşiktaş,1-1,1-0
+2004-08-08,A. Sebatspor,Ankaraspor,1-3,0-1
+2004-08-08,Galatasaray,Konyaspor,3-1,2-1
+2004-08-08,Istanbulspor,Diyarbakirspor,1-1,0-0
+2004-08-08,Samsunspor,Ankaragucu,1-1,0-1
+2004-08-13,Gaziantepspor,Galatasaray,1-0,0-0
+2004-08-14,Ankaragucu,Istanbulspor,0-0,0-0
+2004-08-14,Ankaraspor,Malatyaspor,1-3,1-2
+2004-08-14,Diyarbakirspor,Kayserispor,2-1,1-0
+2004-08-14,Fenerbahçe,Samsunspor,2-1,0-0
+2004-08-15,Gençlerbirliği,Beşiktaş,1-1,0-0
+2004-08-15,Konyaspor,Rizespor,0-0,0-0
+2004-08-15,Sakaryaspor,Denizlispor,1-2,1-1
+2004-08-15,Trabzonspor,A. Sebatspor,3-1,1-0
+2004-08-21,Denizlispor,Beşiktaş,3-1,1-0
+2004-08-21,Gençlerbirliği,Ankaraspor,1-1,0-1
+2004-08-21,Istanbulspor,Fenerbahçe,0-3,0-0
+2004-08-21,Malatyaspor,Trabzonspor,3-4,1-2
+2004-08-21,Samsunspor,Konyaspor,1-1,1-0
+2004-08-22,A. Sebatspor,Diyarbakirspor,2-2,2-2
+2004-08-22,Galatasaray,Rizespor,2-1,2-1
+2004-08-22,Gaziantepspor,Sakaryaspor,1-0,0-0
+2004-08-22,Kayserispor,Ankaragucu,1-1,1-0
+2004-08-28,Ankaraspor,Denizlispor,3-2,1-1
+2004-08-28,Kayserispor,Fenerbahçe,0-2,0-1
+2004-08-28,Konyaspor,Istanbulspor,2-1,0-0
+2004-08-28,Rizespor,Samsunspor,2-0,2-0
+2004-08-28,Sakaryaspor,Galatasaray,1-2,1-1
+2004-08-29,Ankaragucu,A. Sebatspor,2-1,1-1
+2004-08-29,Beşiktaş,Gaziantepspor,3-4,0-2
+2004-08-29,Diyarbakirspor,Malatyaspor,1-2,0-1
+2004-08-29,Trabzonspor,Gençlerbirliği,3-1,2-0
+2004-09-11,A. Sebatspor,Fenerbahçe,1-4,0-1
+2004-09-11,Denizlispor,Trabzonspor,0-2,0-0
+2004-09-11,Gaziantepspor,Ankaraspor,2-1,0-0
+2004-09-11,Gençlerbirliği,Diyarbakirspor,2-0,0-0
+2004-09-12,Galatasaray,Samsunspor,3-1,0-1
+2004-09-12,Istanbulspor,Rizespor,0-3,0-0
+2004-09-12,Kayserispor,Konyaspor,2-2,1-0
+2004-09-12,Malatyaspor,Ankaragucu,1-0,0-0
+2004-09-12,Sakaryaspor,Beşiktaş,1-4,0-1
+2004-09-17,Diyarbakirspor,Denizlispor,0-1,0-0
+2004-09-18,Ankaraspor,Sakaryaspor,1-1,1-0
+2004-09-18,Fenerbahçe,Malatyaspor,3-1,1-1
+2004-09-18,Konyaspor,A. Sebatspor,3-3,1-2
+2004-09-18,Samsunspor,Istanbulspor,2-1,1-0
+2004-09-19,Ankaragucu,Gençlerbirliği,1-0,1-0
+2004-09-19,Beşiktaş,Galatasaray,0-0,0-0
+2004-09-19,Rizespor,Kayserispor,2-1,1-1
+2004-09-19,Trabzonspor,Gaziantepspor,0-0,0-0
+2004-09-24,Gençlerbirliği,Fenerbahçe,1-2,0-0
+2004-09-25,A. Sebatspor,Rizespor,0-0,0-0
+2004-09-25,Beşiktaş,Ankaraspor,2-3,0-1
+2004-09-25,Kayserispor,Samsunspor,1-4,0-1
+2004-09-25,Sakaryaspor,Trabzonspor,1-3,1-1
+2004-09-26,Denizlispor,Ankaragucu,2-0,0-0
+2004-09-26,Galatasaray,Istanbulspor,4-1,1-0
+2004-09-26,Gaziantepspor,Diyarbakirspor,1-1,0-0
+2004-09-26,Malatyaspor,Konyaspor,5-0,4-0
+2004-10-01,Ankaraspor,Galatasaray,0-2,0-1
+2004-10-02,Ankaragucu,Gaziantepspor,2-1,1-1
+2004-10-02,Diyarbakirspor,Sakaryaspor,1-0,0-0
+2004-10-02,Fenerbahçe,Denizlispor,2-0,0-0
+2004-10-02,Rizespor,Malatyaspor,0-1,0-1
+2004-10-03,Istanbulspor,Kayserispor,2-0,0-0
+2004-10-03,Konyaspor,Gençlerbirliği,3-2,1-1
+2004-10-03,Samsunspor,A. Sebatspor,3-0,1-0
+2004-10-03,Trabzonspor,Beşiktaş,1-0,1-0
+2004-10-16,Beşiktaş,Diyarbakirspor,4-0,2-0
+2004-10-16,Gaziantepspor,Fenerbahçe,0-1,0-0
+2004-10-16,Gençlerbirliği,Rizespor,2-1,2-0
+2004-10-16,Sakaryaspor,Ankaragucu,1-0,1-0
+2004-10-17,A. Sebatspor,Istanbulspor,2-2,1-2
+2004-10-17,Ankaraspor,Trabzonspor,1-1,0-0
+2004-10-17,Denizlispor,Konyaspor,2-1,1-0
+2004-10-17,Galatasaray,Kayserispor,5-1,2-0
+2004-10-17,Malatyaspor,Samsunspor,1-2,0-1
+2004-10-23,Istanbulspor,Malatyaspor,0-2,0-0
+2004-10-23,Konyaspor,Gaziantepspor,2-2,1-1
+2004-10-23,Samsunspor,Gençlerbirliği,2-0,1-0
+2004-10-23,Trabzonspor,Galatasaray,0-1,0-0
+2004-10-24,Ankaragucu,Beşiktaş,1-4,1-2
+2004-10-24,Diyarbakirspor,Ankaraspor,1-0,0-0
+2004-10-24,Fenerbahçe,Sakaryaspor,6-0,3-0
+2004-10-24,Kayserispor,A. Sebatspor,4-1,3-0
+2004-10-24,Rizespor,Denizlispor,2-0,1-0
+2004-10-29,Trabzonspor,Diyarbakirspor,4-1,2-0
+2004-10-30,Beşiktaş,Fenerbahçe,2-1,0-0
+2004-10-30,Denizlispor,Samsunspor,2-0,2-0
+2004-10-30,Gaziantepspor,Rizespor,0-1,0-1
+2004-10-30,Gençlerbirliği,Istanbulspor,1-0,1-0
+2004-10-31,Ankaraspor,Ankaragucu,2-0,1-0
+2004-10-31,Galatasaray,A. Sebatspor,2-0,0-0
+2004-10-31,Malatyaspor,Kayserispor,0-1,0-1
+2004-10-31,Sakaryaspor,Konyaspor,1-4,1-2
+2004-11-05,Diyarbakirspor,Galatasaray,2-0,1-0
+2004-11-06,A. Sebatspor,Malatyaspor,1-1,0-0
+2004-11-06,Fenerbahçe,Ankaraspor,1-0,1-0
+2004-11-06,Istanbulspor,Denizlispor,1-1,1-1
+2004-11-06,Samsunspor,Gaziantepspor,1-3,0-2
+2004-11-07,Ankaragucu,Trabzonspor,0-2,0-1
+2004-11-07,Kayserispor,Gençlerbirliği,1-2,1-1
+2004-11-07,Konyaspor,Beşiktaş,2-2,0-1
+2004-11-07,Rizespor,Sakaryaspor,2-0,1-0
+2004-11-20,Ankaraspor,Konyaspor,1-3,0-0
+2004-11-20,Galatasaray,Malatyaspor,1-1,0-1
+2004-11-20,Sakaryaspor,Samsunspor,4-2,3-0
+2004-11-20,Trabzonspor,Fenerbahçe,0-2,0-1
+2004-11-21,Beşiktaş,Rizespor,2-2,0-1
+2004-11-21,Denizlispor,Kayserispor,2-1,0-0
+2004-11-21,Diyarbakirspor,Ankaragucu,0-1,0-1
+2004-11-21,Gaziantepspor,Istanbulspor,0-1,0-0
+2004-11-21,Gençlerbirliği,A. Sebatspor,1-1,1-0
+2004-11-26,Ankaragucu,Galatasaray,0-1,0-1
+2004-11-27,Fenerbahçe,Diyarbakirspor,3-0,2-0
+2004-11-27,Kayserispor,Gaziantepspor,3-1,0-0
+2004-11-27,Konyaspor,Trabzonspor,1-1,0-1
+2004-11-27,Rizespor,Ankaraspor,2-1,0-1
+2004-11-28,A. Sebatspor,Denizlispor,2-1,1-0
+2004-11-28,Istanbulspor,Sakaryaspor,3-0,1-0
+2004-11-28,Malatyaspor,Gençlerbirliği,0-2,0-1
+2004-11-28,Samsunspor,Beşiktaş,2-4,0-0
+2004-12-03,Fenerbahçe,Ankaragucu,5-0,1-0
+2004-12-04,Denizlispor,Malatyaspor,0-0,0-0
+2004-12-04,Diyarbakirspor,Konyaspor,3-3,1-0
+2004-12-04,Gençlerbirliği,Galatasaray,1-3,0-1
+2004-12-04,Trabzonspor,Rizespor,1-0,1-0
+2004-12-05,Ankaraspor,Samsunspor,0-1,0-1
+2004-12-05,Beşiktaş,Istanbulspor,2-1,1-1
+2004-12-05,Gaziantepspor,A. Sebatspor,6-4,3-2
+2004-12-05,Sakaryaspor,Kayserispor,4-2,3-1
+2004-12-10,Kayserispor,Beşiktaş,1-2,1-0
+2004-12-11,A. Sebatspor,Sakaryaspor,0-1,0-0
+2004-12-11,Istanbulspor,Ankaraspor,1-1,1-0
+2004-12-11,Malatyaspor,Gaziantepspor,2-1,0-0
+2004-12-11,Samsunspor,Trabzonspor,0-4,0-1
+2004-12-12,Galatasaray,Fenerbahçe,1-0,0-0
+2004-12-12,Gençlerbirliği,Denizlispor,1-3,1-2
+2004-12-12,Konyaspor,Ankaragucu,3-4,1-1
+2004-12-12,Rizespor,Diyarbakirspor,3-0,1-0
+2004-12-17,Denizlispor,Galatasaray,0-0,0-0
+2004-12-18,Ankaragucu,Rizespor,0-0,0-0
+2004-12-18,Fenerbahçe,Konyaspor,3-0,1-0
+2004-12-18,Gaziantepspor,Gençlerbirliği,1-0,1-0
+2004-12-18,Trabzonspor,Istanbulspor,1-1,1-0
+2004-12-19,Ankaraspor,Kayserispor,4-1,1-0
+2004-12-19,Beşiktaş,A. Sebatspor,6-1,2-0
+2004-12-19,Diyarbakirspor,Samsunspor,3-0,1-0
+2004-12-19,Sakaryaspor,Malatyaspor,4-1,0-0
+2005-01-28,Konyaspor,Galatasaray,0-2,0-2
+2005-01-29,Ankaraspor,A. Sebatspor,2-1,1-0
+2005-01-29,Beşiktaş,Malatyaspor,1-0,0-0
+2005-01-29,Diyarbakirspor,Istanbulspor,1-0,0-0
+2005-01-29,Sakaryaspor,Gençlerbirliği,2-2,1-2
+2005-01-30,Ankaragucu,Samsunspor,1-2,0-0
+2005-01-30,Fenerbahçe,Rizespor,2-0,1-0
+2005-01-30,Gaziantepspor,Denizlispor,3-1,2-0
+2005-01-30,Trabzonspor,Kayserispor,3-1,1-0
+2005-02-04,Galatasaray,Gaziantepspor,5-1,4-0
+2005-02-05,Kayserispor,Diyarbakirspor,3-0,1-0
+2005-02-05,Malatyaspor,Ankaraspor,2-1,1-1
+2005-02-05,Rizespor,Konyaspor,1-1,1-0
+2005-02-05,Samsunspor,Fenerbahçe,1-1,0-0
+2005-02-06,A. Sebatspor,Trabzonspor,0-1,0-0
+2005-02-06,Denizlispor,Sakaryaspor,6-1,1-1
+2005-02-12,Ankaragucu,Kayserispor,2-2,0-1
+2005-02-12,Beşiktaş,Denizlispor,2-0,0-0
+2005-02-12,Konyaspor,Samsunspor,3-0,1-0
+2005-02-12,Rizespor,Galatasaray,0-3,0-0
+2005-02-13,Ankaraspor,Gençlerbirliği,2-1,1-1
+2005-02-13,Diyarbakirspor,A. Sebatspor,1-0,0-0
+2005-02-13,Fenerbahçe,Istanbulspor,4-0,1-0
+2005-02-13,Sakaryaspor,Gaziantepspor,2-2,2-0
+2005-02-13,Trabzonspor,Malatyaspor,3-0,1-0
+2005-02-18,Gaziantepspor,Beşiktaş,0-1,0-1
+2005-02-19,A. Sebatspor,Ankaragucu,0-0,0-0
+2005-02-19,Denizlispor,Ankaraspor,1-1,1-1
+2005-02-19,Galatasaray,Sakaryaspor,1-0,1-0
+2005-02-19,Istanbulspor,Konyaspor,2-2,1-2
+2005-02-20,Fenerbahçe,Kayserispor,7-0,1-0
+2005-02-20,Gençlerbirliği,Trabzonspor,0-1,0-0
+2005-02-20,Malatyaspor,Diyarbakirspor,2-1,1-1
+2005-02-20,Samsunspor,Rizespor,0-1,0-0
+2005-02-26,Ankaragucu,Malatyaspor,3-0,2-0
+2005-02-26,Diyarbakirspor,Gençlerbirliği,1-3,0-2
+2005-02-26,Rizespor,Istanbulspor,1-1,0-1
+2005-02-26,Samsunspor,Galatasaray,2-1,0-0
+2005-02-27,Ankaraspor,Gaziantepspor,1-0,1-0
+2005-02-27,Beşiktaş,Sakaryaspor,2-1,1-1
+2005-02-27,Fenerbahçe,A. Sebatspor,2-0,0-0
+2005-02-27,Konyaspor,Kayserispor,3-1,1-1
+2005-02-27,Trabzonspor,Denizlispor,3-0,2-0
+2005-03-05,Galatasaray,Beşiktaş,1-0,0-0
+2005-03-05,Gençlerbirliği,Ankaragucu,4-0,0-0
+2005-03-05,Istanbulspor,Samsunspor,1-1,0-0
+2005-03-05,Sakaryaspor,Ankaraspor,1-1,0-1
+2005-03-06,A. Sebatspor,Konyaspor,3-5,1-2
+2005-03-06,Denizlispor,Diyarbakirspor,0-0,0-0
+2005-03-06,Gaziantepspor,Trabzonspor,3-2,1-1
+2005-03-06,Kayserispor,Rizespor,2-1,0-0
+2005-03-06,Malatyaspor,Fenerbahçe,0-2,0-0
+2005-03-09,Beşiktaş,Gençlerbirliği,0-0,0-0
+2005-03-09,Istanbulspor,Ankaragucu,1-2,0-0
+2005-03-12,Ankaragucu,Denizlispor,1-1,1-0
+2005-03-12,Istanbulspor,Galatasaray,0-3,0-2
+2005-03-12,Konyaspor,Malatyaspor,2-0,0-0
+2005-03-12,Trabzonspor,Sakaryaspor,4-3,3-1
+2005-03-13,Ankaraspor,Beşiktaş,2-4,2-1
+2005-03-13,Diyarbakirspor,Gaziantepspor,3-0,0-0
+2005-03-13,Fenerbahçe,Gençlerbirliği,3-2,2-1
+2005-03-13,Rizespor,A. Sebatspor,2-1,1-1
+2005-03-13,Samsunspor,Kayserispor,3-3,1-2
+2005-03-18,Denizlispor,Fenerbahçe,2-0,1-0
+2005-03-19,Beşiktaş,Trabzonspor,1-0,0-0
+2005-03-19,Gaziantepspor,Ankaragucu,2-0,1-0
+2005-03-19,Kayserispor,Istanbulspor,0-0,0-0
+2005-03-19,Malatyaspor,Rizespor,0-1,0-0
+2005-03-20,A. Sebatspor,Samsunspor,3-0,0-0
+2005-03-20,Galatasaray,Ankaraspor,4-2,2-2
+2005-03-20,Gençlerbirliği,Konyaspor,2-1,1-0
+2005-03-20,Sakaryaspor,Diyarbakirspor,3-2,2-1
+2005-04-02,Ankaragucu,Sakaryaspor,2-7,1-3
+2005-04-02,Fenerbahçe,Gaziantepspor,2-0,1-0
+2005-04-02,Istanbulspor,A. Sebatspor,1-0,0-0
+2005-04-02,Rizespor,Gençlerbirliği,1-1,0-0
+2005-04-03,Diyarbakirspor,Beşiktaş,0-0,0-0
+2005-04-03,Kayserispor,Galatasaray,2-2,0-0
+2005-04-03,Konyaspor,Denizlispor,0-0,0-0
+2005-04-03,Samsunspor,Malatyaspor,0-1,0-0
+2005-04-03,Trabzonspor,Ankaraspor,2-2,0-2
+2005-04-08,Beşiktaş,Ankaragucu,4-1,3-1
+2005-04-09,A. Sebatspor,Kayserispor,0-0,0-0
+2005-04-09,Ankaraspor,Diyarbakirspor,3-0,0-0
+2005-04-09,Malatyaspor,Istanbulspor,2-0,0-0
+2005-04-09,Sakaryaspor,Fenerbahçe,0-1,0-0
+2005-04-10,Denizlispor,Rizespor,3-0,2-0
+2005-04-10,Galatasaray,Trabzonspor,0-2,0-1
+2005-04-10,Gaziantepspor,Konyaspor,2-0,0-0
+2005-04-10,Gençlerbirliği,Samsunspor,0-0,0-0
+2005-04-15,Diyarbakirspor,Trabzonspor,0-1,0-1
+2005-04-16,A. Sebatspor,Galatasaray,1-3,1-1
+2005-04-16,Kayserispor,Malatyaspor,1-1,0-1
+2005-04-16,Konyaspor,Sakaryaspor,2-0,1-0
+2005-04-16,Samsunspor,Denizlispor,4-0,2-0
+2005-04-17,Ankaragucu,Ankaraspor,2-5,2-1
+2005-04-17,Fenerbahçe,Beşiktaş,3-4,1-2
+2005-04-17,Istanbulspor,Gençlerbirliği,1-3,1-1
+2005-04-17,Rizespor,Gaziantepspor,1-1,0-1
+2005-04-23,Beşiktaş,Konyaspor,2-1,1-0
+2005-04-23,Gaziantepspor,Samsunspor,1-3,0-1
+2005-04-23,Gençlerbirliği,Kayserispor,0-0,0-0
+2005-04-23,Malatyaspor,A. Sebatspor,2-2,0-0
+2005-04-24,Ankaraspor,Fenerbahçe,0-1,0-1
+2005-04-24,Denizlispor,Istanbulspor,2-2,1-0
+2005-04-24,Galatasaray,Diyarbakirspor,1-0,1-0
+2005-04-24,Sakaryaspor,Rizespor,3-1,1-0
+2005-04-24,Trabzonspor,Ankaragucu,3-1,2-1
+2005-04-29,Istanbulspor,Gaziantepspor,1-3,1-0
+2005-04-29,Rizespor,Beşiktaş,0-1,0-1
+2005-04-30,Ankaragucu,Diyarbakirspor,4-1,3-1
+2005-04-30,Fenerbahçe,Trabzonspor,2-1,1-0
+2005-04-30,Kayserispor,Denizlispor,1-0,0-0
+2005-04-30,Samsunspor,Sakaryaspor,1-1,1-1
+2005-05-01,A. Sebatspor,Gençlerbirliği,0-5,0-2
+2005-05-01,Konyaspor,Ankaraspor,2-3,2-2
+2005-05-01,Malatyaspor,Galatasaray,0-1,0-0
+2005-05-07,Ankaraspor,Rizespor,1-0,1-0
+2005-05-07,Diyarbakirspor,Fenerbahçe,0-2,0-1
+2005-05-07,Galatasaray,Ankaragucu,2-1,2-0
+2005-05-07,Gaziantepspor,Kayserispor,1-2,1-1
+2005-05-07,Sakaryaspor,Istanbulspor,1-3,1-0
+2005-05-07,Trabzonspor,Konyaspor,4-2,3-0
+2005-05-08,Beşiktaş,Samsunspor,2-0,1-0
+2005-05-08,Denizlispor,A. Sebatspor,4-2,1-1
+2005-05-08,Gençlerbirliği,Malatyaspor,5-3,2-2
+2005-05-14,A. Sebatspor,Gaziantepspor,2-0,0-0
+2005-05-14,Malatyaspor,Denizlispor,2-2,0-0
+2005-05-14,Samsunspor,Ankaraspor,0-0,0-0
+2005-05-15,Ankaragucu,Fenerbahçe,1-0,0-0
+2005-05-15,Galatasaray,Gençlerbirliği,1-2,1-2
+2005-05-15,Istanbulspor,Beşiktaş,1-1,0-0
+2005-05-15,Kayserispor,Sakaryaspor,1-0,0-0
+2005-05-15,Konyaspor,Diyarbakirspor,2-1,2-0
+2005-05-15,Rizespor,Trabzonspor,1-2,1-1
+2005-05-21,Ankaragucu,Konyaspor,1-1,0-0
+2005-05-21,Ankaraspor,Istanbulspor,3-2,3-0
+2005-05-21,Beşiktaş,Kayserispor,3-2,3-1
+2005-05-21,Diyarbakirspor,Rizespor,1-1,1-1
+2005-05-21,Gaziantepspor,Malatyaspor,4-3,2-1
+2005-05-21,Sakaryaspor,A. Sebatspor,4-2,2-0
+2005-05-22,Denizlispor,Gençlerbirliği,1-1,0-0
+2005-05-22,Fenerbahçe,Galatasaray,1-0,0-0
+2005-05-22,Trabzonspor,Samsunspor,3-0,0-0
+2005-05-29,A. Sebatspor,Beşiktaş,2-2,2-2
+2005-05-29,Galatasaray,Denizlispor,4-0,1-0
+2005-05-29,Gençlerbirliği,Gaziantepspor,2-1,1-0
+2005-05-29,Istanbulspor,Trabzonspor,0-5,0-3
+2005-05-29,Kayserispor,Ankaraspor,0-0,0-0
+2005-05-29,Konyaspor,Fenerbahçe,4-2,4-1
+2005-05-29,Malatyaspor,Sakaryaspor,4-2,1-1
+2005-05-29,Rizespor,Ankaragucu,1-2,1-0
+2005-05-29,Samsunspor,Diyarbakirspor,0-1,0-0
