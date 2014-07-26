@@ -5,7 +5,7 @@ Football data for Turkey includes:
 - Süper Lig
 
 
-Example - [`2013-14/superlig.csv`](2013-14/superlig.csv):
+Example - [`2013-14/superlig.csv`](2013-14/1-superlig.csv):
 
 ~~~
 2013-08-16,Antalyaspor,Erciyesspor,0-0,0-0
