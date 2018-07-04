@@ -1,307 +1,307 @@
-Date,Team 1,Team 2,FT,HT
-2010-08-14,Bucaspor,Beşiktaş,0-1,0-0
-2010-08-14,Eskişehirspor,Gençlerbirliği,0-0,0-0
-2010-08-14,Gaziantepspor,Kasımpaşa,0-0,0-0
-2010-08-14,Sivasspor,Galatasaray,2-1,1-1
-2010-08-15,Ankaragucu,Trabzonspor,0-2,0-0
-2010-08-15,Fenerbahçe,Antalyaspor,4-0,4-0
-2010-08-15,Karabükspor,Manisaspor,2-1,0-0
-2010-08-16,Bursaspor,Konyaspor,1-0,1-0
-2010-08-16,Buyuksehyr,Kayserispor,0-2,0-0
-2010-08-20,Kayserispor,Karabükspor,1-0,1-0
-2010-08-20,Konyaspor,Eskişehirspor,2-1,1-0
-2010-08-21,Antalyaspor,Sivasspor,1-1,1-1
-2010-08-21,Beşiktaş,Buyuksehyr,0-2,0-0
-2010-08-22,Galatasaray,Bursaspor,0-2,0-1
-2010-08-22,Gençlerbirliği,Gaziantepspor,0-0,0-0
-2010-08-22,Manisaspor,Ankaragucu,0-3,0-1
-2010-08-23,Kasımpaşa,Bucaspor,0-0,0-0
-2010-08-23,Trabzonspor,Fenerbahçe,3-2,3-2
-2010-08-27,Ankaragucu,Kayserispor,1-1,0-1
-2010-08-27,Gaziantepspor,Konyaspor,2-2,1-1
-2010-08-28,Bucaspor,Gençlerbirliği,3-1,1-0
-2010-08-28,Buyuksehyr,Kasımpaşa,3-1,1-0
-2010-08-28,Sivasspor,Bursaspor,0-2,0-0
-2010-08-29,Eskişehirspor,Galatasaray,1-3,1-1
-2010-08-29,Fenerbahçe,Manisaspor,4-2,1-0
-2010-08-29,Karabükspor,Beşiktaş,1-4,1-2
-2010-08-30,Antalyaspor,Trabzonspor,0-0,0-0
-2010-09-10,Bursaspor,Eskişehirspor,2-1,0-1
-2010-09-11,Beşiktaş,Ankaragucu,4-0,1-0
-2010-09-11,Kayserispor,Fenerbahçe,2-0,0-0
-2010-09-11,Konyaspor,Bucaspor,1-1,0-1
-2010-09-11,Manisaspor,Antalyaspor,1-2,1-0
-2010-09-13,Galatasaray,Gaziantepspor,1-0,0-0
-2010-09-13,Gençlerbirliği,Buyuksehyr,2-1,1-1
-2010-09-13,Kasımpaşa,Karabükspor,1-2,0-1
-2010-09-13,Trabzonspor,Sivasspor,6-1,3-0
-2010-09-17,Trabzonspor,Manisaspor,1-3,1-2
-2010-09-18,Ankaragucu,Kasımpaşa,3-0,1-0
-2010-09-18,Antalyaspor,Kayserispor,2-1,1-1
-2010-09-18,Bucaspor,Galatasaray,0-1,0-0
-2010-09-18,Sivasspor,Eskişehirspor,1-1,1-0
-2010-09-19,Buyuksehyr,Konyaspor,1-0,0-0
-2010-09-19,Fenerbahçe,Beşiktaş,1-1,1-0
-2010-09-19,Karabükspor,Gençlerbirliği,3-0,1-0
-2010-09-20,Gaziantepspor,Bursaspor,0-3,
-2010-09-24,Bursaspor,Bucaspor,1-0,1-0
-2010-09-25,Beşiktaş,Antalyaspor,2-1,0-0
-2010-09-25,Eskişehirspor,Gaziantepspor,0-1,0-1
-2010-09-25,Gençlerbirliği,Ankaragucu,1-0,1-0
-2010-09-26,Galatasaray,Buyuksehyr,3-1,3-0
-2010-09-26,Kayserispor,Trabzonspor,0-0,0-0
-2010-09-26,Konyaspor,Karabükspor,2-2,1-1
-2010-09-26,Manisaspor,Sivasspor,3-0,1-0
-2010-09-27,Kasımpaşa,Fenerbahçe,2-6,2-3
-2010-10-01,Bucaspor,Eskişehirspor,0-0,0-0
-2010-10-01,Karabükspor,Galatasaray,2-1,2-0
-2010-10-02,Ankaragucu,Konyaspor,4-1,1-1
-2010-10-02,Fenerbahçe,Gençlerbirliği,3-0,2-0
-2010-10-02,Manisaspor,Kayserispor,0-2,0-1
-2010-10-03,Antalyaspor,Kasımpaşa,3-1,1-1
-2010-10-03,Buyuksehyr,Bursaspor,0-0,0-0
-2010-10-03,Sivasspor,Gaziantepspor,1-1,0-1
-2010-10-03,Trabzonspor,Beşiktaş,1-0,0-0
-2010-10-15,Bursaspor,Karabükspor,2-2,2-2
-2010-10-16,Beşiktaş,Manisaspor,2-3,1-1
-2010-10-16,Eskişehirspor,Buyuksehyr,1-0,1-0
-2010-10-16,Gaziantepspor,Bucaspor,2-0,2-0
-2010-10-17,Galatasaray,Ankaragucu,2-4,0-1
-2010-10-17,Gençlerbirliği,Antalyaspor,2-3,1-1
-2010-10-17,Kasımpaşa,Trabzonspor,0-7,0-3
-2010-10-17,Kayserispor,Sivasspor,4-1,1-1
-2010-10-18,Konyaspor,Fenerbahçe,1-4,1-3
-2010-10-22,Karabükspor,Eskişehirspor,1-2,0-2
-2010-10-22,Sivasspor,Bucaspor,1-1,0-1
-2010-10-23,Antalyaspor,Konyaspor,1-0,1-0
-2010-10-23,Buyuksehyr,Gaziantepspor,1-0,1-0
-2010-10-23,Trabzonspor,Gençlerbirliği,3-1,0-1
-2010-10-24,Ankaragucu,Bursaspor,1-5,1-5
-2010-10-24,Fenerbahçe,Galatasaray,0-0,0-0
-2010-10-24,Manisaspor,Kasımpaşa,2-1,2-1
-2010-10-25,Kayserispor,Beşiktaş,1-0,0-0
-2010-10-29,Bursaspor,Fenerbahçe,1-1,0-1
-2010-10-30,Eskişehirspor,Ankaragucu,0-0,0-0
-2010-10-30,Galatasaray,Antalyaspor,2-1,2-0
-2010-10-30,Gaziantepspor,Karabükspor,0-0,0-0
-2010-10-31,Beşiktaş,Sivasspor,2-1,2-0
-2010-10-31,Bucaspor,Buyuksehyr,0-2,0-0
-2010-10-31,Gençlerbirliği,Manisaspor,2-0,1-0
-2010-10-31,Kasımpaşa,Kayserispor,1-2,1-2
-2010-11-01,Konyaspor,Trabzonspor,1-2,1-1
-2010-11-05,Kayserispor,Gençlerbirliği,1-1,0-1
-2010-11-06,Ankaragucu,Gaziantepspor,0-2,0-0
-2010-11-06,Antalyaspor,Bursaspor,2-2,2-0
-2010-11-06,Fenerbahçe,Eskişehirspor,4-2,3-1
-2010-11-06,Karabükspor,Bucaspor,3-0,2-0
-2010-11-07,Manisaspor,Konyaspor,0-1,0-0
-2010-11-07,Sivasspor,Buyuksehyr,0-4,0-4
-2010-11-07,Trabzonspor,Galatasaray,2-0,0-0
-2010-11-08,Beşiktaş,Kasımpaşa,1-1,0-0
-2010-11-12,Konyaspor,Kayserispor,0-1,0-0
-2010-11-13,Bucaspor,Ankaragucu,0-0,0-0
-2010-11-13,Bursaspor,Trabzonspor,0-2,0-2
-2010-11-13,Eskişehirspor,Antalyaspor,0-0,0-0
-2010-11-13,Gaziantepspor,Fenerbahçe,2-1,0-1
-2010-11-14,Buyuksehyr,Karabükspor,2-1,0-0
-2010-11-14,Galatasaray,Manisaspor,0-2,0-1
-2010-11-14,Gençlerbirliği,Beşiktaş,0-2,0-1
-2010-11-14,Kasımpaşa,Sivasspor,2-0,0-0
-2010-11-20,Beşiktaş,Konyaspor,2-2,2-1
-2010-11-20,Kasımpaşa,Gençlerbirliği,1-1,1-0
-2010-11-20,Manisaspor,Bursaspor,0-2,0-2
-2010-11-20,Sivasspor,Karabükspor,5-1,2-1
-2010-11-21,Ankaragucu,Buyuksehyr,2-2,0-0
-2010-11-21,Antalyaspor,Gaziantepspor,0-1,0-1
-2010-11-21,Kayserispor,Galatasaray,0-0,0-0
-2010-11-21,Trabzonspor,Eskişehirspor,0-0,0-0
-2010-11-22,Fenerbahçe,Bucaspor,5-2,3-0
-2010-11-26,Eskişehirspor,Manisaspor,2-1,0-1
-2010-11-27,Buyuksehyr,Fenerbahçe,0-1,0-1
-2010-11-27,Gaziantepspor,Trabzonspor,1-3,1-2
-2010-11-27,Gençlerbirliği,Sivasspor,1-1,1-1
-2010-11-27,Konyaspor,Kasımpaşa,2-2,0-2
-2010-11-28,Bucaspor,Antalyaspor,1-0,0-0
-2010-11-28,Galatasaray,Beşiktaş,1-2,0-1
-2010-11-28,Karabükspor,Ankaragucu,5-1,1-0
-2010-11-29,Bursaspor,Kayserispor,2-0,0-0
-2010-12-03,Trabzonspor,Bucaspor,2-0,1-0
-2010-12-04,Ankaragucu,Sivasspor,1-1,1-0
-2010-12-04,Kasımpaşa,Galatasaray,0-3,0-2
-2010-12-04,Manisaspor,Gaziantepspor,2-0,2-0
-2010-12-05,Antalyaspor,Buyuksehyr,1-0,1-0
-2010-12-05,Beşiktaş,Bursaspor,1-0,0-0
-2010-12-05,Fenerbahçe,Karabükspor,2-1,2-0
-2010-12-05,Konyaspor,Gençlerbirliği,2-1,1-1
-2010-12-06,Kayserispor,Eskişehirspor,2-2,1-1
-2010-12-10,Eskişehirspor,Beşiktaş,2-0,0-0
-2010-12-11,Bucaspor,Manisaspor,1-1,0-0
-2010-12-11,Galatasaray,Gençlerbirliği,0-2,0-2
-2010-12-11,Karabükspor,Antalyaspor,2-0,0-0
-2010-12-12,Ankaragucu,Fenerbahçe,2-1,0-0
-2010-12-12,Buyuksehyr,Trabzonspor,1-3,1-1
-2010-12-12,Gaziantepspor,Kayserispor,2-0,0-0
-2010-12-12,Sivasspor,Konyaspor,1-0,0-0
-2010-12-13,Bursaspor,Kasımpaşa,2-1,1-1
-2010-12-17,Trabzonspor,Karabükspor,3-0,0-0
-2010-12-18,Antalyaspor,Ankaragucu,2-2,1-0
-2010-12-18,Fenerbahçe,Sivasspor,1-0,0-0
-2010-12-18,Gençlerbirliği,Bursaspor,1-5,1-3
-2010-12-18,Kayserispor,Bucaspor,2-0,0-0
-2010-12-19,Beşiktaş,Gaziantepspor,1-1,0-0
-2010-12-19,Kasımpaşa,Eskişehirspor,0-2,0-1
-2010-12-19,Konyaspor,Galatasaray,0-1,0-0
-2010-12-19,Manisaspor,Buyuksehyr,1-0,0-0
-2011-01-21,Beşiktaş,Bucaspor,5-1,3-0
-2011-01-22,Antalyaspor,Fenerbahçe,0-1,0-1
-2011-01-22,Gençlerbirliği,Eskişehirspor,0-1,0-0
-2011-01-22,Manisaspor,Karabükspor,4-2,1-1
-2011-01-22,Trabzonspor,Ankaragucu,1-1,1-0
-2011-01-23,Galatasaray,Sivasspor,1-0,0-0
-2011-01-23,Kasımpaşa,Gaziantepspor,0-1,0-1
-2011-01-23,Konyaspor,Bursaspor,0-0,0-0
-2011-01-24,Kayserispor,Buyuksehyr,3-2,2-0
-2011-01-29,Bucaspor,Kasımpaşa,4-0,3-0
-2011-01-29,Bursaspor,Galatasaray,2-0,2-0
-2011-01-29,Karabükspor,Kayserispor,0-0,0-0
-2011-01-29,Sivasspor,Antalyaspor,1-1,1-1
-2011-01-30,Ankaragucu,Manisaspor,1-3,1-1
-2011-01-30,Buyuksehyr,Beşiktaş,2-1,1-0
-2011-01-30,Fenerbahçe,Trabzonspor,2-0,2-0
-2011-01-30,Gaziantepspor,Gençlerbirliği,1-1,1-0
-2011-01-31,Eskişehirspor,Konyaspor,1-0,0-0
-2011-02-04,Bursaspor,Sivasspor,2-1,1-0
-2011-02-05,Beşiktaş,Karabükspor,1-1,0-0
-2011-02-05,Kasımpaşa,Buyuksehyr,1-3,1-1
-2011-02-05,Kayserispor,Ankaragucu,2-1,0-1
-2011-02-05,Manisaspor,Fenerbahçe,1-3,0-0
-2011-02-06,Galatasaray,Eskişehirspor,4-2,3-0
-2011-02-06,Gençlerbirliği,Bucaspor,1-0,0-0
-2011-02-06,Konyaspor,Gaziantepspor,0-2,0-0
-2011-02-06,Trabzonspor,Antalyaspor,0-0,0-0
-2011-02-12,Bucaspor,Konyaspor,3-2,1-0
-2011-02-12,Buyuksehyr,Gençlerbirliği,0-1,0-0
-2011-02-12,Gaziantepspor,Galatasaray,1-0,1-0
-2011-02-12,Sivasspor,Trabzonspor,2-3,0-1
-2011-02-13,Ankaragucu,Beşiktaş,1-0,1-0
-2011-02-13,Antalyaspor,Manisaspor,1-4,1-3
-2011-02-13,Eskişehirspor,Bursaspor,1-1,0-1
-2011-02-13,Karabükspor,Kasımpaşa,1-3,1-2
-2011-02-14,Fenerbahçe,Kayserispor,2-0,1-0
-2011-02-18,Eskişehirspor,Sivasspor,2-1,1-1
-2011-02-19,Bursaspor,Gaziantepspor,1-4,1-2
-2011-02-19,Galatasaray,Bucaspor,1-0,0-0
-2011-02-19,Gençlerbirliği,Karabükspor,2-3,1-1
-2011-02-19,Kasımpaşa,Ankaragucu,2-1,0-0
-2011-02-20,Beşiktaş,Fenerbahçe,2-4,1-1
-2011-02-20,Kayserispor,Antalyaspor,2-0,0-0
-2011-02-20,Konyaspor,Buyuksehyr,0-0,0-0
-2011-02-21,Manisaspor,Trabzonspor,1-2,1-0
-2011-02-25,Bucaspor,Bursaspor,0-2,0-0
-2011-02-26,Ankaragucu,Gençlerbirliği,2-4,0-0
-2011-02-26,Buyuksehyr,Galatasaray,3-1,0-1
-2011-02-26,Fenerbahçe,Kasımpaşa,2-0,1-0
-2011-02-26,Gaziantepspor,Eskişehirspor,2-1,2-0
-2011-02-27,Karabükspor,Konyaspor,2-1,2-1
-2011-02-27,Sivasspor,Manisaspor,4-2,1-0
-2011-02-27,Trabzonspor,Kayserispor,3-3,1-1
-2011-02-28,Antalyaspor,Beşiktaş,0-2,0-0
-2011-03-04,Kayserispor,Manisaspor,1-2,0-1
-2011-03-05,Galatasaray,Karabükspor,0-0,0-0
-2011-03-05,Gaziantepspor,Sivasspor,3-1,2-1
-2011-03-05,Konyaspor,Ankaragucu,0-2,0-2
-2011-03-06,Beşiktaş,Trabzonspor,1-2,0-0
-2011-03-06,Bursaspor,Buyuksehyr,1-1,1-0
-2011-03-06,Eskişehirspor,Bucaspor,1-0,0-0
-2011-03-06,Kasımpaşa,Antalyaspor,2-3,0-0
-2011-03-07,Gençlerbirliği,Fenerbahçe,2-4,2-2
-2011-03-11,Manisaspor,Beşiktaş,0-0,0-0
-2011-03-12,Buyuksehyr,Eskişehirspor,0-2,0-2
-2011-03-12,Karabükspor,Bursaspor,1-1,1-1
-2011-03-12,Trabzonspor,Kasımpaşa,1-0,1-0
-2011-03-13,Ankaragucu,Galatasaray,3-2,0-1
-2011-03-13,Antalyaspor,Gençlerbirliği,0-0,0-0
-2011-03-13,Bucaspor,Gaziantepspor,2-1,2-1
-2011-03-13,Fenerbahçe,Konyaspor,2-0,1-0
-2011-03-13,Sivasspor,Kayserispor,1-0,1-0
-2011-03-18,Galatasaray,Fenerbahçe,1-2,1-0
-2011-03-19,Beşiktaş,Kayserispor,4-2,0-1
-2011-03-19,Gaziantepspor,Buyuksehyr,4-1,2-0
-2011-03-19,Kasımpaşa,Manisaspor,1-0,0-0
-2011-03-19,Konyaspor,Antalyaspor,0-0,0-0
-2011-03-20,Bucaspor,Sivasspor,0-4,0-1
-2011-03-20,Eskişehirspor,Karabükspor,1-0,1-0
-2011-03-20,Gençlerbirliği,Trabzonspor,1-2,1-0
-2011-03-21,Bursaspor,Ankaragucu,0-0,0-0
-2011-04-02,Ankaragucu,Eskişehirspor,2-2,1-1
-2011-04-02,Karabükspor,Gaziantepspor,3-2,1-1
-2011-04-02,Sivasspor,Beşiktaş,1-0,0-0
-2011-04-02,Trabzonspor,Konyaspor,1-0,1-0
-2011-04-03,Buyuksehyr,Bucaspor,2-1,0-0
-2011-04-03,Fenerbahçe,Bursaspor,0-0,0-0
-2011-04-03,Kayserispor,Kasımpaşa,1-3,0-1
-2011-04-03,Manisaspor,Gençlerbirliği,0-3,0-1
-2011-04-04,Antalyaspor,Galatasaray,3-0,1-0
-2011-04-08,Bursaspor,Antalyaspor,2-3,1-0
-2011-04-09,Bucaspor,Karabükspor,2-1,2-1
-2011-04-09,Eskişehirspor,Fenerbahçe,1-3,1-2
-2011-04-09,Konyaspor,Manisaspor,0-0,0-0
-2011-04-10,Buyuksehyr,Sivasspor,1-2,0-1
-2011-04-10,Galatasaray,Trabzonspor,0-1,0-0
-2011-04-10,Gaziantepspor,Ankaragucu,3-2,0-0
-2011-04-10,Gençlerbirliği,Kayserispor,4-1,1-0
-2011-04-11,Kasımpaşa,Beşiktaş,0-1,0-1
-2011-04-15,Beşiktaş,Gençlerbirliği,2-2,1-0
-2011-04-16,Ankaragucu,Bucaspor,5-3,1-2
-2011-04-16,Fenerbahçe,Gaziantepspor,1-0,0-0
-2011-04-16,Karabükspor,Buyuksehyr,0-2,0-1
-2011-04-17,Antalyaspor,Eskişehirspor,2-2,1-1
-2011-04-17,Kayserispor,Konyaspor,1-3,0-0
-2011-04-17,Sivasspor,Kasımpaşa,1-1,0-0
-2011-04-17,Trabzonspor,Bursaspor,1-0,1-0
-2011-04-18,Manisaspor,Galatasaray,2-3,0-2
-2011-04-22,Eskişehirspor,Trabzonspor,0-0,0-0
-2011-04-23,Bursaspor,Manisaspor,2-1,2-1
-2011-04-23,Galatasaray,Kayserispor,1-1,1-1
-2011-04-23,Karabükspor,Sivasspor,2-1,1-0
-2011-04-24,Bucaspor,Fenerbahçe,3-5,2-1
-2011-04-24,Buyuksehyr,Ankaragucu,1-4,0-2
-2011-04-24,Gaziantepspor,Antalyaspor,2-1,0-0
-2011-04-24,Gençlerbirliği,Kasımpaşa,1-1,0-1
-2011-04-25,Konyaspor,Beşiktaş,1-1,1-0
-2011-04-29,Sivasspor,Gençlerbirliği,1-1,1-0
-2011-04-30,Antalyaspor,Bucaspor,3-3,1-1
-2011-04-30,Beşiktaş,Galatasaray,2-0,0-0
-2011-04-30,Kasımpaşa,Konyaspor,2-2,1-0
-2011-05-01,Fenerbahçe,Buyuksehyr,2-0,2-0
-2011-05-01,Kayserispor,Bursaspor,1-0,0-0
-2011-05-01,Manisaspor,Eskişehirspor,3-1,0-0
-2011-05-01,Trabzonspor,Gaziantepspor,3-0,3-0
-2011-05-02,Ankaragucu,Karabükspor,0-0,0-0
-2011-05-06,Eskişehirspor,Kayserispor,1-2,1-1
-2011-05-07,Bursaspor,Beşiktaş,0-3,
-2011-05-07,Buyuksehyr,Antalyaspor,1-1,0-1
-2011-05-07,Gaziantepspor,Manisaspor,1-0,0-0
-2011-05-08,Bucaspor,Trabzonspor,1-2,0-1
-2011-05-08,Gençlerbirliği,Konyaspor,2-1,1-0
-2011-05-08,Karabükspor,Fenerbahçe,0-1,0-0
-2011-05-08,Sivasspor,Ankaragucu,1-1,0-0
-2011-05-09,Galatasaray,Kasımpaşa,3-1,1-1
-2011-05-13,Antalyaspor,Karabükspor,1-2,1-0
-2011-05-14,Gençlerbirliği,Galatasaray,2-3,1-1
-2011-05-14,Konyaspor,Sivasspor,1-1,0-0
-2011-05-14,Manisaspor,Bucaspor,4-2,1-1
-2011-05-15,Fenerbahçe,Ankaragucu,6-0,2-0
-2011-05-15,Kasımpaşa,Bursaspor,0-3,0-1
-2011-05-15,Kayserispor,Gaziantepspor,1-2,0-0
-2011-05-15,Trabzonspor,Buyuksehyr,3-1,3-0
-2011-05-16,Beşiktaş,Eskişehirspor,3-1,1-1
-2011-05-20,Buyuksehyr,Manisaspor,0-0,0-0
-2011-05-20,Galatasaray,Konyaspor,2-0,2-0
-2011-05-21,Ankaragucu,Antalyaspor,2-3,0-3
-2011-05-21,Bucaspor,Kayserispor,3-3,1-2
-2011-05-21,Bursaspor,Gençlerbirliği,1-0,1-0
-2011-05-21,Gaziantepspor,Beşiktaş,0-0,0-0
-2011-05-22,Eskişehirspor,Kasımpaşa,4-0,1-0
-2011-05-22,Karabükspor,Trabzonspor,0-4,0-1
-2011-05-22,Sivasspor,Fenerbahçe,3-4,1-2
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sat) 14 Aug 2010 (32),Bucaspor (1),0-1,0-0,Beşiktaş (1)
+?,(Sat) 14 Aug 2010 (32),Eskişehirspor (1),0-0,0-0,Gençlerbirliği (1)
+?,(Sat) 14 Aug 2010 (32),Gaziantepspor (1),0-0,0-0,Kasımpaşa (1)
+?,(Sat) 14 Aug 2010 (32),Sivasspor (1),2-1,1-1,Galatasaray (1)
+?,(Sun) 15 Aug 2010 (32),Ankaragucu (1),0-2,0-0,Trabzonspor (1)
+?,(Sun) 15 Aug 2010 (32),Fenerbahçe (1),4-0,4-0,Antalyaspor (1)
+?,(Sun) 15 Aug 2010 (32),Karabükspor (1),2-1,0-0,Manisaspor (1)
+?,(Mon) 16 Aug 2010 (33),Bursaspor (1),1-0,1-0,Konyaspor (1)
+?,(Mon) 16 Aug 2010 (33),Buyuksehyr (1),0-2,0-0,Kayserispor (1)
+?,(Fri) 20 Aug 2010 (33),Kayserispor (2),1-0,1-0,Karabükspor (2)
+?,(Fri) 20 Aug 2010 (33),Konyaspor (2),2-1,1-0,Eskişehirspor (2)
+?,(Sat) 21 Aug 2010 (33),Antalyaspor (2),1-1,1-1,Sivasspor (2)
+?,(Sat) 21 Aug 2010 (33),Beşiktaş (2),0-2,0-0,Buyuksehyr (2)
+?,(Sun) 22 Aug 2010 (33),Galatasaray (2),0-2,0-1,Bursaspor (2)
+?,(Sun) 22 Aug 2010 (33),Gençlerbirliği (2),0-0,0-0,Gaziantepspor (2)
+?,(Sun) 22 Aug 2010 (33),Manisaspor (2),0-3,0-1,Ankaragucu (2)
+?,(Mon) 23 Aug 2010 (34),Kasımpaşa (2),0-0,0-0,Bucaspor (2)
+?,(Mon) 23 Aug 2010 (34),Trabzonspor (2),3-2,3-2,Fenerbahçe (2)
+?,(Fri) 27 Aug 2010 (34),Ankaragucu (3),1-1,0-1,Kayserispor (3)
+?,(Fri) 27 Aug 2010 (34),Gaziantepspor (3),2-2,1-1,Konyaspor (3)
+?,(Sat) 28 Aug 2010 (34),Bucaspor (3),3-1,1-0,Gençlerbirliği (3)
+?,(Sat) 28 Aug 2010 (34),Buyuksehyr (3),3-1,1-0,Kasımpaşa (3)
+?,(Sat) 28 Aug 2010 (34),Sivasspor (3),0-2,0-0,Bursaspor (3)
+?,(Sun) 29 Aug 2010 (34),Eskişehirspor (3),1-3,1-1,Galatasaray (3)
+?,(Sun) 29 Aug 2010 (34),Fenerbahçe (3),4-2,1-0,Manisaspor (3)
+?,(Sun) 29 Aug 2010 (34),Karabükspor (3),1-4,1-2,Beşiktaş (3)
+?,(Mon) 30 Aug 2010 (35),Antalyaspor (3),0-0,0-0,Trabzonspor (3)
+?,(Fri) 10 Sep 2010 (36),Bursaspor (4),2-1,0-1,Eskişehirspor (4)
+?,(Sat) 11 Sep 2010 (36),Beşiktaş (4),4-0,1-0,Ankaragucu (4)
+?,(Sat) 11 Sep 2010 (36),Kayserispor (4),2-0,0-0,Fenerbahçe (4)
+?,(Sat) 11 Sep 2010 (36),Konyaspor (4),1-1,0-1,Bucaspor (4)
+?,(Sat) 11 Sep 2010 (36),Manisaspor (4),1-2,1-0,Antalyaspor (4)
+?,(Mon) 13 Sep 2010 (37),Galatasaray (4),1-0,0-0,Gaziantepspor (4)
+?,(Mon) 13 Sep 2010 (37),Gençlerbirliği (4),2-1,1-1,Buyuksehyr (4)
+?,(Mon) 13 Sep 2010 (37),Kasımpaşa (4),1-2,0-1,Karabükspor (4)
+?,(Mon) 13 Sep 2010 (37),Trabzonspor (4),6-1,3-0,Sivasspor (4)
+?,(Fri) 17 Sep 2010 (37),Trabzonspor (5),1-3,1-2,Manisaspor (5)
+?,(Sat) 18 Sep 2010 (37),Ankaragucu (5),3-0,1-0,Kasımpaşa (5)
+?,(Sat) 18 Sep 2010 (37),Antalyaspor (5),2-1,1-1,Kayserispor (5)
+?,(Sat) 18 Sep 2010 (37),Bucaspor (5),0-1,0-0,Galatasaray (5)
+?,(Sat) 18 Sep 2010 (37),Sivasspor (5),1-1,1-0,Eskişehirspor (5)
+?,(Sun) 19 Sep 2010 (37),Buyuksehyr (5),1-0,0-0,Konyaspor (5)
+?,(Sun) 19 Sep 2010 (37),Fenerbahçe (5),1-1,1-0,Beşiktaş (5)
+?,(Sun) 19 Sep 2010 (37),Karabükspor (5),3-0,1-0,Gençlerbirliği (5)
+?,(Mon) 20 Sep 2010 (38),Gaziantepspor (5),0-3,?,Bursaspor (5)
+?,(Fri) 24 Sep 2010 (38),Bursaspor (6),1-0,1-0,Bucaspor (6)
+?,(Sat) 25 Sep 2010 (38),Beşiktaş (6),2-1,0-0,Antalyaspor (6)
+?,(Sat) 25 Sep 2010 (38),Eskişehirspor (6),0-1,0-1,Gaziantepspor (6)
+?,(Sat) 25 Sep 2010 (38),Gençlerbirliği (6),1-0,1-0,Ankaragucu (6)
+?,(Sun) 26 Sep 2010 (38),Galatasaray (6),3-1,3-0,Buyuksehyr (6)
+?,(Sun) 26 Sep 2010 (38),Kayserispor (6),0-0,0-0,Trabzonspor (6)
+?,(Sun) 26 Sep 2010 (38),Konyaspor (6),2-2,1-1,Karabükspor (6)
+?,(Sun) 26 Sep 2010 (38),Manisaspor (6),3-0,1-0,Sivasspor (6)
+?,(Mon) 27 Sep 2010 (39),Kasımpaşa (6),2-6,2-3,Fenerbahçe (6)
+?,(Fri) 1 Oct 2010 (39),Bucaspor (7),0-0,0-0,Eskişehirspor (7)
+?,(Fri) 1 Oct 2010 (39),Karabükspor (7),2-1,2-0,Galatasaray (7)
+?,(Sat) 2 Oct 2010 (39),Ankaragucu (7),4-1,1-1,Konyaspor (7)
+?,(Sat) 2 Oct 2010 (39),Fenerbahçe (7),3-0,2-0,Gençlerbirliği (7)
+?,(Sat) 2 Oct 2010 (39),Manisaspor (7),0-2,0-1,Kayserispor (7)
+?,(Sun) 3 Oct 2010 (39),Antalyaspor (7),3-1,1-1,Kasımpaşa (7)
+?,(Sun) 3 Oct 2010 (39),Buyuksehyr (7),0-0,0-0,Bursaspor (7)
+?,(Sun) 3 Oct 2010 (39),Sivasspor (7),1-1,0-1,Gaziantepspor (7)
+?,(Sun) 3 Oct 2010 (39),Trabzonspor (7),1-0,0-0,Beşiktaş (7)
+?,(Fri) 15 Oct 2010 (41),Bursaspor (8),2-2,2-2,Karabükspor (8)
+?,(Sat) 16 Oct 2010 (41),Beşiktaş (8),2-3,1-1,Manisaspor (8)
+?,(Sat) 16 Oct 2010 (41),Eskişehirspor (8),1-0,1-0,Buyuksehyr (8)
+?,(Sat) 16 Oct 2010 (41),Gaziantepspor (8),2-0,2-0,Bucaspor (8)
+?,(Sun) 17 Oct 2010 (41),Galatasaray (8),2-4,0-1,Ankaragucu (8)
+?,(Sun) 17 Oct 2010 (41),Gençlerbirliği (8),2-3,1-1,Antalyaspor (8)
+?,(Sun) 17 Oct 2010 (41),Kasımpaşa (8),0-7,0-3,Trabzonspor (8)
+?,(Sun) 17 Oct 2010 (41),Kayserispor (8),4-1,1-1,Sivasspor (8)
+?,(Mon) 18 Oct 2010 (42),Konyaspor (8),1-4,1-3,Fenerbahçe (8)
+?,(Fri) 22 Oct 2010 (42),Karabükspor (9),1-2,0-2,Eskişehirspor (9)
+?,(Fri) 22 Oct 2010 (42),Sivasspor (9),1-1,0-1,Bucaspor (9)
+?,(Sat) 23 Oct 2010 (42),Antalyaspor (9),1-0,1-0,Konyaspor (9)
+?,(Sat) 23 Oct 2010 (42),Buyuksehyr (9),1-0,1-0,Gaziantepspor (9)
+?,(Sat) 23 Oct 2010 (42),Trabzonspor (9),3-1,0-1,Gençlerbirliği (9)
+?,(Sun) 24 Oct 2010 (42),Ankaragucu (9),1-5,1-5,Bursaspor (9)
+?,(Sun) 24 Oct 2010 (42),Fenerbahçe (9),0-0,0-0,Galatasaray (9)
+?,(Sun) 24 Oct 2010 (42),Manisaspor (9),2-1,2-1,Kasımpaşa (9)
+?,(Mon) 25 Oct 2010 (43),Kayserispor (9),1-0,0-0,Beşiktaş (9)
+?,(Fri) 29 Oct 2010 (43),Bursaspor (10),1-1,0-1,Fenerbahçe (10)
+?,(Sat) 30 Oct 2010 (43),Eskişehirspor (10),0-0,0-0,Ankaragucu (10)
+?,(Sat) 30 Oct 2010 (43),Galatasaray (10),2-1,2-0,Antalyaspor (10)
+?,(Sat) 30 Oct 2010 (43),Gaziantepspor (10),0-0,0-0,Karabükspor (10)
+?,(Sun) 31 Oct 2010 (43),Beşiktaş (10),2-1,2-0,Sivasspor (10)
+?,(Sun) 31 Oct 2010 (43),Bucaspor (10),0-2,0-0,Buyuksehyr (10)
+?,(Sun) 31 Oct 2010 (43),Gençlerbirliği (10),2-0,1-0,Manisaspor (10)
+?,(Sun) 31 Oct 2010 (43),Kasımpaşa (10),1-2,1-2,Kayserispor (10)
+?,(Mon) 1 Nov 2010 (44),Konyaspor (10),1-2,1-1,Trabzonspor (10)
+?,(Fri) 5 Nov 2010 (44),Kayserispor (11),1-1,0-1,Gençlerbirliği (11)
+?,(Sat) 6 Nov 2010 (44),Ankaragucu (11),0-2,0-0,Gaziantepspor (11)
+?,(Sat) 6 Nov 2010 (44),Antalyaspor (11),2-2,2-0,Bursaspor (11)
+?,(Sat) 6 Nov 2010 (44),Fenerbahçe (11),4-2,3-1,Eskişehirspor (11)
+?,(Sat) 6 Nov 2010 (44),Karabükspor (11),3-0,2-0,Bucaspor (11)
+?,(Sun) 7 Nov 2010 (44),Manisaspor (11),0-1,0-0,Konyaspor (11)
+?,(Sun) 7 Nov 2010 (44),Sivasspor (11),0-4,0-4,Buyuksehyr (11)
+?,(Sun) 7 Nov 2010 (44),Trabzonspor (11),2-0,0-0,Galatasaray (11)
+?,(Mon) 8 Nov 2010 (45),Beşiktaş (11),1-1,0-0,Kasımpaşa (11)
+?,(Fri) 12 Nov 2010 (45),Konyaspor (12),0-1,0-0,Kayserispor (12)
+?,(Sat) 13 Nov 2010 (45),Bucaspor (12),0-0,0-0,Ankaragucu (12)
+?,(Sat) 13 Nov 2010 (45),Bursaspor (12),0-2,0-2,Trabzonspor (12)
+?,(Sat) 13 Nov 2010 (45),Eskişehirspor (12),0-0,0-0,Antalyaspor (12)
+?,(Sat) 13 Nov 2010 (45),Gaziantepspor (12),2-1,0-1,Fenerbahçe (12)
+?,(Sun) 14 Nov 2010 (45),Buyuksehyr (12),2-1,0-0,Karabükspor (12)
+?,(Sun) 14 Nov 2010 (45),Galatasaray (12),0-2,0-1,Manisaspor (12)
+?,(Sun) 14 Nov 2010 (45),Gençlerbirliği (12),0-2,0-1,Beşiktaş (12)
+?,(Sun) 14 Nov 2010 (45),Kasımpaşa (12),2-0,0-0,Sivasspor (12)
+?,(Sat) 20 Nov 2010 (46),Beşiktaş (13),2-2,2-1,Konyaspor (13)
+?,(Sat) 20 Nov 2010 (46),Kasımpaşa (13),1-1,1-0,Gençlerbirliği (13)
+?,(Sat) 20 Nov 2010 (46),Manisaspor (13),0-2,0-2,Bursaspor (13)
+?,(Sat) 20 Nov 2010 (46),Sivasspor (13),5-1,2-1,Karabükspor (13)
+?,(Sun) 21 Nov 2010 (46),Ankaragucu (13),2-2,0-0,Buyuksehyr (13)
+?,(Sun) 21 Nov 2010 (46),Antalyaspor (13),0-1,0-1,Gaziantepspor (13)
+?,(Sun) 21 Nov 2010 (46),Kayserispor (13),0-0,0-0,Galatasaray (13)
+?,(Sun) 21 Nov 2010 (46),Trabzonspor (13),0-0,0-0,Eskişehirspor (13)
+?,(Mon) 22 Nov 2010 (47),Fenerbahçe (13),5-2,3-0,Bucaspor (13)
+?,(Fri) 26 Nov 2010 (47),Eskişehirspor (14),2-1,0-1,Manisaspor (14)
+?,(Sat) 27 Nov 2010 (47),Buyuksehyr (14),0-1,0-1,Fenerbahçe (14)
+?,(Sat) 27 Nov 2010 (47),Gaziantepspor (14),1-3,1-2,Trabzonspor (14)
+?,(Sat) 27 Nov 2010 (47),Gençlerbirliği (14),1-1,1-1,Sivasspor (14)
+?,(Sat) 27 Nov 2010 (47),Konyaspor (14),2-2,0-2,Kasımpaşa (14)
+?,(Sun) 28 Nov 2010 (47),Bucaspor (14),1-0,0-0,Antalyaspor (14)
+?,(Sun) 28 Nov 2010 (47),Galatasaray (14),1-2,0-1,Beşiktaş (14)
+?,(Sun) 28 Nov 2010 (47),Karabükspor (14),5-1,1-0,Ankaragucu (14)
+?,(Mon) 29 Nov 2010 (48),Bursaspor (14),2-0,0-0,Kayserispor (14)
+?,(Fri) 3 Dec 2010 (48),Trabzonspor (15),2-0,1-0,Bucaspor (15)
+?,(Sat) 4 Dec 2010 (48),Ankaragucu (15),1-1,1-0,Sivasspor (15)
+?,(Sat) 4 Dec 2010 (48),Kasımpaşa (15),0-3,0-2,Galatasaray (15)
+?,(Sat) 4 Dec 2010 (48),Manisaspor (15),2-0,2-0,Gaziantepspor (15)
+?,(Sun) 5 Dec 2010 (48),Antalyaspor (15),1-0,1-0,Buyuksehyr (15)
+?,(Sun) 5 Dec 2010 (48),Beşiktaş (15),1-0,0-0,Bursaspor (15)
+?,(Sun) 5 Dec 2010 (48),Fenerbahçe (15),2-1,2-0,Karabükspor (15)
+?,(Sun) 5 Dec 2010 (48),Konyaspor (15),2-1,1-1,Gençlerbirliği (15)
+?,(Mon) 6 Dec 2010 (49),Kayserispor (15),2-2,1-1,Eskişehirspor (15)
+?,(Fri) 10 Dec 2010 (49),Eskişehirspor (16),2-0,0-0,Beşiktaş (16)
+?,(Sat) 11 Dec 2010 (49),Bucaspor (16),1-1,0-0,Manisaspor (16)
+?,(Sat) 11 Dec 2010 (49),Galatasaray (16),0-2,0-2,Gençlerbirliği (16)
+?,(Sat) 11 Dec 2010 (49),Karabükspor (16),2-0,0-0,Antalyaspor (16)
+?,(Sun) 12 Dec 2010 (49),Ankaragucu (16),2-1,0-0,Fenerbahçe (16)
+?,(Sun) 12 Dec 2010 (49),Buyuksehyr (16),1-3,1-1,Trabzonspor (16)
+?,(Sun) 12 Dec 2010 (49),Gaziantepspor (16),2-0,0-0,Kayserispor (16)
+?,(Sun) 12 Dec 2010 (49),Sivasspor (16),1-0,0-0,Konyaspor (16)
+?,(Mon) 13 Dec 2010 (50),Bursaspor (16),2-1,1-1,Kasımpaşa (16)
+?,(Fri) 17 Dec 2010 (50),Trabzonspor (17),3-0,0-0,Karabükspor (17)
+?,(Sat) 18 Dec 2010 (50),Antalyaspor (17),2-2,1-0,Ankaragucu (17)
+?,(Sat) 18 Dec 2010 (50),Fenerbahçe (17),1-0,0-0,Sivasspor (17)
+?,(Sat) 18 Dec 2010 (50),Gençlerbirliği (17),1-5,1-3,Bursaspor (17)
+?,(Sat) 18 Dec 2010 (50),Kayserispor (17),2-0,0-0,Bucaspor (17)
+?,(Sun) 19 Dec 2010 (50),Beşiktaş (17),1-1,0-0,Gaziantepspor (17)
+?,(Sun) 19 Dec 2010 (50),Kasımpaşa (17),0-2,0-1,Eskişehirspor (17)
+?,(Sun) 19 Dec 2010 (50),Konyaspor (17),0-1,0-0,Galatasaray (17)
+?,(Sun) 19 Dec 2010 (50),Manisaspor (17),1-0,0-0,Buyuksehyr (17)
+?,(Fri) 21 Jan 2011 (3),Beşiktaş (18),5-1,3-0,Bucaspor (18)
+?,(Sat) 22 Jan 2011 (3),Antalyaspor (18),0-1,0-1,Fenerbahçe (18)
+?,(Sat) 22 Jan 2011 (3),Gençlerbirliği (18),0-1,0-0,Eskişehirspor (18)
+?,(Sat) 22 Jan 2011 (3),Manisaspor (18),4-2,1-1,Karabükspor (18)
+?,(Sat) 22 Jan 2011 (3),Trabzonspor (18),1-1,1-0,Ankaragucu (18)
+?,(Sun) 23 Jan 2011 (3),Galatasaray (18),1-0,0-0,Sivasspor (18)
+?,(Sun) 23 Jan 2011 (3),Kasımpaşa (18),0-1,0-1,Gaziantepspor (18)
+?,(Sun) 23 Jan 2011 (3),Konyaspor (18),0-0,0-0,Bursaspor (18)
+?,(Mon) 24 Jan 2011 (4),Kayserispor (18),3-2,2-0,Buyuksehyr (18)
+?,(Sat) 29 Jan 2011 (4),Bucaspor (19),4-0,3-0,Kasımpaşa (19)
+?,(Sat) 29 Jan 2011 (4),Bursaspor (19),2-0,2-0,Galatasaray (19)
+?,(Sat) 29 Jan 2011 (4),Karabükspor (19),0-0,0-0,Kayserispor (19)
+?,(Sat) 29 Jan 2011 (4),Sivasspor (19),1-1,1-1,Antalyaspor (19)
+?,(Sun) 30 Jan 2011 (4),Ankaragucu (19),1-3,1-1,Manisaspor (19)
+?,(Sun) 30 Jan 2011 (4),Buyuksehyr (19),2-1,1-0,Beşiktaş (19)
+?,(Sun) 30 Jan 2011 (4),Fenerbahçe (19),2-0,2-0,Trabzonspor (19)
+?,(Sun) 30 Jan 2011 (4),Gaziantepspor (19),1-1,1-0,Gençlerbirliği (19)
+?,(Mon) 31 Jan 2011 (5),Eskişehirspor (19),1-0,0-0,Konyaspor (19)
+?,(Fri) 4 Feb 2011 (5),Bursaspor (20),2-1,1-0,Sivasspor (20)
+?,(Sat) 5 Feb 2011 (5),Beşiktaş (20),1-1,0-0,Karabükspor (20)
+?,(Sat) 5 Feb 2011 (5),Kasımpaşa (20),1-3,1-1,Buyuksehyr (20)
+?,(Sat) 5 Feb 2011 (5),Kayserispor (20),2-1,0-1,Ankaragucu (20)
+?,(Sat) 5 Feb 2011 (5),Manisaspor (20),1-3,0-0,Fenerbahçe (20)
+?,(Sun) 6 Feb 2011 (5),Galatasaray (20),4-2,3-0,Eskişehirspor (20)
+?,(Sun) 6 Feb 2011 (5),Gençlerbirliği (20),1-0,0-0,Bucaspor (20)
+?,(Sun) 6 Feb 2011 (5),Konyaspor (20),0-2,0-0,Gaziantepspor (20)
+?,(Sun) 6 Feb 2011 (5),Trabzonspor (20),0-0,0-0,Antalyaspor (20)
+?,(Sat) 12 Feb 2011 (6),Bucaspor (21),3-2,1-0,Konyaspor (21)
+?,(Sat) 12 Feb 2011 (6),Buyuksehyr (21),0-1,0-0,Gençlerbirliği (21)
+?,(Sat) 12 Feb 2011 (6),Gaziantepspor (21),1-0,1-0,Galatasaray (21)
+?,(Sat) 12 Feb 2011 (6),Sivasspor (21),2-3,0-1,Trabzonspor (21)
+?,(Sun) 13 Feb 2011 (6),Ankaragucu (21),1-0,1-0,Beşiktaş (21)
+?,(Sun) 13 Feb 2011 (6),Antalyaspor (21),1-4,1-3,Manisaspor (21)
+?,(Sun) 13 Feb 2011 (6),Eskişehirspor (21),1-1,0-1,Bursaspor (21)
+?,(Sun) 13 Feb 2011 (6),Karabükspor (21),1-3,1-2,Kasımpaşa (21)
+?,(Mon) 14 Feb 2011 (7),Fenerbahçe (21),2-0,1-0,Kayserispor (21)
+?,(Fri) 18 Feb 2011 (7),Eskişehirspor (22),2-1,1-1,Sivasspor (22)
+?,(Sat) 19 Feb 2011 (7),Bursaspor (22),1-4,1-2,Gaziantepspor (22)
+?,(Sat) 19 Feb 2011 (7),Galatasaray (22),1-0,0-0,Bucaspor (22)
+?,(Sat) 19 Feb 2011 (7),Gençlerbirliği (22),2-3,1-1,Karabükspor (22)
+?,(Sat) 19 Feb 2011 (7),Kasımpaşa (22),2-1,0-0,Ankaragucu (22)
+?,(Sun) 20 Feb 2011 (7),Beşiktaş (22),2-4,1-1,Fenerbahçe (22)
+?,(Sun) 20 Feb 2011 (7),Kayserispor (22),2-0,0-0,Antalyaspor (22)
+?,(Sun) 20 Feb 2011 (7),Konyaspor (22),0-0,0-0,Buyuksehyr (22)
+?,(Mon) 21 Feb 2011 (8),Manisaspor (22),1-2,1-0,Trabzonspor (22)
+?,(Fri) 25 Feb 2011 (8),Bucaspor (23),0-2,0-0,Bursaspor (23)
+?,(Sat) 26 Feb 2011 (8),Ankaragucu (23),2-4,0-0,Gençlerbirliği (23)
+?,(Sat) 26 Feb 2011 (8),Buyuksehyr (23),3-1,0-1,Galatasaray (23)
+?,(Sat) 26 Feb 2011 (8),Fenerbahçe (23),2-0,1-0,Kasımpaşa (23)
+?,(Sat) 26 Feb 2011 (8),Gaziantepspor (23),2-1,2-0,Eskişehirspor (23)
+?,(Sun) 27 Feb 2011 (8),Karabükspor (23),2-1,2-1,Konyaspor (23)
+?,(Sun) 27 Feb 2011 (8),Sivasspor (23),4-2,1-0,Manisaspor (23)
+?,(Sun) 27 Feb 2011 (8),Trabzonspor (23),3-3,1-1,Kayserispor (23)
+?,(Mon) 28 Feb 2011 (9),Antalyaspor (23),0-2,0-0,Beşiktaş (23)
+?,(Fri) 4 Mar 2011 (9),Kayserispor (24),1-2,0-1,Manisaspor (24)
+?,(Sat) 5 Mar 2011 (9),Galatasaray (24),0-0,0-0,Karabükspor (24)
+?,(Sat) 5 Mar 2011 (9),Gaziantepspor (24),3-1,2-1,Sivasspor (24)
+?,(Sat) 5 Mar 2011 (9),Konyaspor (24),0-2,0-2,Ankaragucu (24)
+?,(Sun) 6 Mar 2011 (9),Beşiktaş (24),1-2,0-0,Trabzonspor (24)
+?,(Sun) 6 Mar 2011 (9),Bursaspor (24),1-1,1-0,Buyuksehyr (24)
+?,(Sun) 6 Mar 2011 (9),Eskişehirspor (24),1-0,0-0,Bucaspor (24)
+?,(Sun) 6 Mar 2011 (9),Kasımpaşa (24),2-3,0-0,Antalyaspor (24)
+?,(Mon) 7 Mar 2011 (10),Gençlerbirliği (24),2-4,2-2,Fenerbahçe (24)
+?,(Fri) 11 Mar 2011 (10),Manisaspor (25),0-0,0-0,Beşiktaş (25)
+?,(Sat) 12 Mar 2011 (10),Buyuksehyr (25),0-2,0-2,Eskişehirspor (25)
+?,(Sat) 12 Mar 2011 (10),Karabükspor (25),1-1,1-1,Bursaspor (25)
+?,(Sat) 12 Mar 2011 (10),Trabzonspor (25),1-0,1-0,Kasımpaşa (25)
+?,(Sun) 13 Mar 2011 (10),Ankaragucu (25),3-2,0-1,Galatasaray (25)
+?,(Sun) 13 Mar 2011 (10),Antalyaspor (25),0-0,0-0,Gençlerbirliği (25)
+?,(Sun) 13 Mar 2011 (10),Bucaspor (25),2-1,2-1,Gaziantepspor (25)
+?,(Sun) 13 Mar 2011 (10),Fenerbahçe (25),2-0,1-0,Konyaspor (25)
+?,(Sun) 13 Mar 2011 (10),Sivasspor (25),1-0,1-0,Kayserispor (25)
+?,(Fri) 18 Mar 2011 (11),Galatasaray (26),1-2,1-0,Fenerbahçe (26)
+?,(Sat) 19 Mar 2011 (11),Beşiktaş (26),4-2,0-1,Kayserispor (26)
+?,(Sat) 19 Mar 2011 (11),Gaziantepspor (26),4-1,2-0,Buyuksehyr (26)
+?,(Sat) 19 Mar 2011 (11),Kasımpaşa (26),1-0,0-0,Manisaspor (26)
+?,(Sat) 19 Mar 2011 (11),Konyaspor (26),0-0,0-0,Antalyaspor (26)
+?,(Sun) 20 Mar 2011 (11),Bucaspor (26),0-4,0-1,Sivasspor (26)
+?,(Sun) 20 Mar 2011 (11),Eskişehirspor (26),1-0,1-0,Karabükspor (26)
+?,(Sun) 20 Mar 2011 (11),Gençlerbirliği (26),1-2,1-0,Trabzonspor (26)
+?,(Mon) 21 Mar 2011 (12),Bursaspor (26),0-0,0-0,Ankaragucu (26)
+?,(Sat) 2 Apr 2011 (13),Ankaragucu (27),2-2,1-1,Eskişehirspor (27)
+?,(Sat) 2 Apr 2011 (13),Karabükspor (27),3-2,1-1,Gaziantepspor (27)
+?,(Sat) 2 Apr 2011 (13),Sivasspor (27),1-0,0-0,Beşiktaş (27)
+?,(Sat) 2 Apr 2011 (13),Trabzonspor (27),1-0,1-0,Konyaspor (27)
+?,(Sun) 3 Apr 2011 (13),Buyuksehyr (27),2-1,0-0,Bucaspor (27)
+?,(Sun) 3 Apr 2011 (13),Fenerbahçe (27),0-0,0-0,Bursaspor (27)
+?,(Sun) 3 Apr 2011 (13),Kayserispor (27),1-3,0-1,Kasımpaşa (27)
+?,(Sun) 3 Apr 2011 (13),Manisaspor (27),0-3,0-1,Gençlerbirliği (27)
+?,(Mon) 4 Apr 2011 (14),Antalyaspor (27),3-0,1-0,Galatasaray (27)
+?,(Fri) 8 Apr 2011 (14),Bursaspor (28),2-3,1-0,Antalyaspor (28)
+?,(Sat) 9 Apr 2011 (14),Bucaspor (28),2-1,2-1,Karabükspor (28)
+?,(Sat) 9 Apr 2011 (14),Eskişehirspor (28),1-3,1-2,Fenerbahçe (28)
+?,(Sat) 9 Apr 2011 (14),Konyaspor (28),0-0,0-0,Manisaspor (28)
+?,(Sun) 10 Apr 2011 (14),Buyuksehyr (28),1-2,0-1,Sivasspor (28)
+?,(Sun) 10 Apr 2011 (14),Galatasaray (28),0-1,0-0,Trabzonspor (28)
+?,(Sun) 10 Apr 2011 (14),Gaziantepspor (28),3-2,0-0,Ankaragucu (28)
+?,(Sun) 10 Apr 2011 (14),Gençlerbirliği (28),4-1,1-0,Kayserispor (28)
+?,(Mon) 11 Apr 2011 (15),Kasımpaşa (28),0-1,0-1,Beşiktaş (28)
+?,(Fri) 15 Apr 2011 (15),Beşiktaş (29),2-2,1-0,Gençlerbirliği (29)
+?,(Sat) 16 Apr 2011 (15),Ankaragucu (29),5-3,1-2,Bucaspor (29)
+?,(Sat) 16 Apr 2011 (15),Fenerbahçe (29),1-0,0-0,Gaziantepspor (29)
+?,(Sat) 16 Apr 2011 (15),Karabükspor (29),0-2,0-1,Buyuksehyr (29)
+?,(Sun) 17 Apr 2011 (15),Antalyaspor (29),2-2,1-1,Eskişehirspor (29)
+?,(Sun) 17 Apr 2011 (15),Kayserispor (29),1-3,0-0,Konyaspor (29)
+?,(Sun) 17 Apr 2011 (15),Sivasspor (29),1-1,0-0,Kasımpaşa (29)
+?,(Sun) 17 Apr 2011 (15),Trabzonspor (29),1-0,1-0,Bursaspor (29)
+?,(Mon) 18 Apr 2011 (16),Manisaspor (29),2-3,0-2,Galatasaray (29)
+?,(Fri) 22 Apr 2011 (16),Eskişehirspor (30),0-0,0-0,Trabzonspor (30)
+?,(Sat) 23 Apr 2011 (16),Bursaspor (30),2-1,2-1,Manisaspor (30)
+?,(Sat) 23 Apr 2011 (16),Galatasaray (30),1-1,1-1,Kayserispor (30)
+?,(Sat) 23 Apr 2011 (16),Karabükspor (30),2-1,1-0,Sivasspor (30)
+?,(Sun) 24 Apr 2011 (16),Bucaspor (30),3-5,2-1,Fenerbahçe (30)
+?,(Sun) 24 Apr 2011 (16),Buyuksehyr (30),1-4,0-2,Ankaragucu (30)
+?,(Sun) 24 Apr 2011 (16),Gaziantepspor (30),2-1,0-0,Antalyaspor (30)
+?,(Sun) 24 Apr 2011 (16),Gençlerbirliği (30),1-1,0-1,Kasımpaşa (30)
+?,(Mon) 25 Apr 2011 (17),Konyaspor (30),1-1,1-0,Beşiktaş (30)
+?,(Fri) 29 Apr 2011 (17),Sivasspor (31),1-1,1-0,Gençlerbirliği (31)
+?,(Sat) 30 Apr 2011 (17),Antalyaspor (31),3-3,1-1,Bucaspor (31)
+?,(Sat) 30 Apr 2011 (17),Beşiktaş (31),2-0,0-0,Galatasaray (31)
+?,(Sat) 30 Apr 2011 (17),Kasımpaşa (31),2-2,1-0,Konyaspor (31)
+?,(Sun) 1 May 2011 (17),Fenerbahçe (31),2-0,2-0,Buyuksehyr (31)
+?,(Sun) 1 May 2011 (17),Kayserispor (31),1-0,0-0,Bursaspor (31)
+?,(Sun) 1 May 2011 (17),Manisaspor (31),3-1,0-0,Eskişehirspor (31)
+?,(Sun) 1 May 2011 (17),Trabzonspor (31),3-0,3-0,Gaziantepspor (31)
+?,(Mon) 2 May 2011 (18),Ankaragucu (31),0-0,0-0,Karabükspor (31)
+?,(Fri) 6 May 2011 (18),Eskişehirspor (32),1-2,1-1,Kayserispor (32)
+?,(Sat) 7 May 2011 (18),Bursaspor (32),0-3,?,Beşiktaş (32)
+?,(Sat) 7 May 2011 (18),Buyuksehyr (32),1-1,0-1,Antalyaspor (32)
+?,(Sat) 7 May 2011 (18),Gaziantepspor (32),1-0,0-0,Manisaspor (32)
+?,(Sun) 8 May 2011 (18),Bucaspor (32),1-2,0-1,Trabzonspor (32)
+?,(Sun) 8 May 2011 (18),Gençlerbirliği (32),2-1,1-0,Konyaspor (32)
+?,(Sun) 8 May 2011 (18),Karabükspor (32),0-1,0-0,Fenerbahçe (32)
+?,(Sun) 8 May 2011 (18),Sivasspor (32),1-1,0-0,Ankaragucu (32)
+?,(Mon) 9 May 2011 (19),Galatasaray (32),3-1,1-1,Kasımpaşa (32)
+?,(Fri) 13 May 2011 (19),Antalyaspor (33),1-2,1-0,Karabükspor (33)
+?,(Sat) 14 May 2011 (19),Gençlerbirliği (33),2-3,1-1,Galatasaray (33)
+?,(Sat) 14 May 2011 (19),Konyaspor (33),1-1,0-0,Sivasspor (33)
+?,(Sat) 14 May 2011 (19),Manisaspor (33),4-2,1-1,Bucaspor (33)
+?,(Sun) 15 May 2011 (19),Fenerbahçe (33),6-0,2-0,Ankaragucu (33)
+?,(Sun) 15 May 2011 (19),Kasımpaşa (33),0-3,0-1,Bursaspor (33)
+?,(Sun) 15 May 2011 (19),Kayserispor (33),1-2,0-0,Gaziantepspor (33)
+?,(Sun) 15 May 2011 (19),Trabzonspor (33),3-1,3-0,Buyuksehyr (33)
+?,(Mon) 16 May 2011 (20),Beşiktaş (33),3-1,1-1,Eskişehirspor (33)
+?,(Fri) 20 May 2011 (20),Buyuksehyr (34),0-0,0-0,Manisaspor (34)
+?,(Fri) 20 May 2011 (20),Galatasaray (34),2-0,2-0,Konyaspor (34)
+?,(Sat) 21 May 2011 (20),Ankaragucu (34),2-3,0-3,Antalyaspor (34)
+?,(Sat) 21 May 2011 (20),Bucaspor (34),3-3,1-2,Kayserispor (34)
+?,(Sat) 21 May 2011 (20),Bursaspor (34),1-0,1-0,Gençlerbirliği (34)
+?,(Sat) 21 May 2011 (20),Gaziantepspor (34),0-0,0-0,Beşiktaş (34)
+?,(Sun) 22 May 2011 (20),Eskişehirspor (34),4-0,1-0,Kasımpaşa (34)
+?,(Sun) 22 May 2011 (20),Karabükspor (34),0-4,0-1,Trabzonspor (34)
+?,(Sun) 22 May 2011 (20),Sivasspor (34),3-4,1-2,Fenerbahçe (34)

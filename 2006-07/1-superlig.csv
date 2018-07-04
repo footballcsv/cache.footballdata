@@ -1,307 +1,307 @@
-Date,Team 1,Team 2,FT,HT
-2020-08-04,Ankaraspor,Galatasaray,1-1,1-0
-2020-08-05,Fenerbahçe,Erciyesspor,6-0,2-0
-2020-08-05,Kayserispor,Trabzonspor,1-0,1-0
-2020-08-06,Antalyaspor,Rizespor,0-0,0-0
-2020-08-06,Bursaspor,Ankaragucu,0-0,0-0
-2020-08-06,Gaziantepspor,Denizlispor,1-1,1-0
-2020-08-06,Konyaspor,Sakaryaspor,1-1,1-0
-2020-08-06,Manisaspor,Beşiktaş,1-0,1-0
-2020-08-06,Sivasspor,Gençlerbirliği,1-2,1-1
-2020-08-11,Beşiktaş,Gaziantepspor,2-1,1-0
-2020-08-12,Gençlerbirliği,Fenerbahçe,0-2,0-2
-2020-08-13,Ankaragucu,Ankaraspor,1-1,0-1
-2020-08-13,Denizlispor,Konyaspor,0-1,0-1
-2020-08-13,Erciyesspor,Bursaspor,2-1,1-1
-2020-08-13,Galatasaray,Kayserispor,4-0,1-0
-2020-08-13,Rizespor,Sivasspor,1-1,0-1
-2020-08-13,Sakaryaspor,Antalyaspor,0-0,0-0
-2020-08-13,Trabzonspor,Manisaspor,1-1,1-1
-2020-08-19,Ankaraspor,Erciyesspor,2-2,1-1
-2020-08-19,Fenerbahçe,Rizespor,2-1,1-0
-2020-08-19,Manisaspor,Galatasaray,2-2,1-0
-2020-08-20,Bursaspor,Gençlerbirliği,0-0,0-0
-2020-08-20,Denizlispor,Beşiktaş,0-2,0-1
-2020-08-20,Gaziantepspor,Trabzonspor,2-1,1-0
-2020-08-20,Kayserispor,Ankaragucu,2-1,0-1
-2020-08-20,Konyaspor,Antalyaspor,0-0,0-0
-2020-08-20,Sivasspor,Sakaryaspor,0-2,0-1
-2020-08-25,Beşiktaş,Konyaspor,3-1,1-1
-2020-08-26,Galatasaray,Gaziantepspor,2-2,1-1
-2020-08-26,Gençlerbirliği,Ankaraspor,2-1,1-1
-2020-08-27,Ankaragucu,Manisaspor,0-1,0-0
-2020-08-27,Antalyaspor,Sivasspor,1-2,1-1
-2020-08-27,Erciyesspor,Kayserispor,0-4,0-1
-2020-08-27,Rizespor,Bursaspor,1-2,0-0
-2020-08-27,Sakaryaspor,Fenerbahçe,2-1,0-1
-2020-08-27,Trabzonspor,Denizlispor,1-0,1-0
-2020-09-09,Denizlispor,Galatasaray,1-1,1-1
-2020-09-09,Fenerbahçe,Antalyaspor,4-2,0-0
-2020-09-09,Kayserispor,Gençlerbirliği,0-0,0-0
-2020-09-10,Ankaraspor,Rizespor,2-1,1-0
-2020-09-10,Beşiktaş,Trabzonspor,2-3,1-1
-2020-09-10,Bursaspor,Sakaryaspor,3-1,2-1
-2020-09-10,Gaziantepspor,Ankaragucu,2-2,1-0
-2020-09-10,Konyaspor,Sivasspor,2-0,1-0
-2020-09-10,Manisaspor,Erciyesspor,5-1,1-1
-2020-09-15,Gençlerbirliği,Manisaspor,0-5,0-1
-2020-09-16,Ankaragucu,Denizlispor,0-0,0-0
-2020-09-16,Antalyaspor,Bursaspor,3-2,0-2
-2020-09-16,Sakaryaspor,Ankaraspor,0-0,0-0
-2020-09-17,Erciyesspor,Gaziantepspor,1-1,0-1
-2020-09-17,Galatasaray,Beşiktaş,1-0,1-0
-2020-09-17,Rizespor,Kayserispor,2-1,1-0
-2020-09-17,Sivasspor,Fenerbahçe,1-1,1-1
-2020-09-17,Trabzonspor,Konyaspor,1-1,1-1
-2020-09-22,Konyaspor,Fenerbahçe,0-1,0-1
-2020-09-23,Trabzonspor,Galatasaray,3-1,2-1
-2020-09-24,Ankaraspor,Antalyaspor,1-1,0-1
-2020-09-24,Beşiktaş,Ankaragucu,2-1,2-0
-2020-09-24,Bursaspor,Sivasspor,1-3,0-1
-2020-09-24,Denizlispor,Erciyesspor,2-1,0-0
-2020-09-24,Gaziantepspor,Gençlerbirliği,2-0,0-0
-2020-09-24,Kayserispor,Sakaryaspor,2-0,1-0
-2020-09-24,Manisaspor,Rizespor,2-0,1-0
-2020-09-30,Galatasaray,Konyaspor,3-3,1-1
-2020-09-30,Gençlerbirliği,Denizlispor,3-1,2-0
-2020-09-30,Rizespor,Gaziantepspor,2-0,2-0
-2020-09-30,Sivasspor,Ankaraspor,0-2,0-1
-2020-10-01,Antalyaspor,Kayserispor,1-0,0-0
-2020-10-01,Erciyesspor,Beşiktaş,1-1,0-1
-2020-10-01,Fenerbahçe,Bursaspor,0-1,0-1
-2020-10-01,Sakaryaspor,Manisaspor,0-1,0-1
-2020-10-02,Ankaragucu,Trabzonspor,2-2,2-1
-2020-10-14,Galatasaray,Ankaragucu,1-1,1-1
-2020-10-14,Gaziantepspor,Sakaryaspor,1-0,1-0
-2020-10-14,Konyaspor,Bursaspor,1-0,0-0
-2020-10-14,Trabzonspor,Erciyesspor,3-1,0-1
-2020-10-15,Ankaraspor,Fenerbahçe,2-2,0-2
-2020-10-15,Beşiktaş,Gençlerbirliği,1-0,0-0
-2020-10-15,Denizlispor,Rizespor,2-0,0-0
-2020-10-15,Kayserispor,Sivasspor,1-1,0-1
-2020-10-15,Manisaspor,Antalyaspor,3-2,2-1
-2020-10-20,Gençlerbirliği,Trabzonspor,3-0,1-0
-2020-10-20,Sivasspor,Manisaspor,3-2,0-1
-2020-10-21,Bursaspor,Ankaraspor,0-0,0-0
-2020-10-21,Erciyesspor,Galatasaray,1-2,0-1
-2020-10-21,Sakaryaspor,Denizlispor,1-2,1-0
-2020-10-22,Ankaragucu,Konyaspor,2-0,1-0
-2020-10-22,Antalyaspor,Gaziantepspor,0-0,0-0
-2020-10-22,Fenerbahçe,Kayserispor,4-1,2-0
-2020-10-22,Rizespor,Beşiktaş,0-1,0-0
-2020-10-28,Galatasaray,Gençlerbirliği,1-0,0-0
-2020-10-29,Ankaragucu,Erciyesspor,4-1,3-0
-2020-10-29,Beşiktaş,Sakaryaspor,0-0,0-0
-2020-10-29,Denizlispor,Antalyaspor,1-1,0-0
-2020-10-29,Gaziantepspor,Sivasspor,1-0,0-0
-2020-10-29,Kayserispor,Bursaspor,2-0,0-0
-2020-10-29,Konyaspor,Ankaraspor,2-2,1-0
-2020-10-29,Manisaspor,Fenerbahçe,2-3,1-2
-2020-10-30,Trabzonspor,Rizespor,0-1,0-0
-2020-11-03,Fenerbahçe,Gaziantepspor,4-1,0-0
-2020-11-04,Ankaraspor,Kayserispor,1-1,1-1
-2020-11-04,Erciyesspor,Konyaspor,1-2,0-1
-2020-11-04,Sakaryaspor,Trabzonspor,1-0,0-0
-2020-11-04,Sivasspor,Denizlispor,0-2,0-1
-2020-11-05,Antalyaspor,Beşiktaş,4-4,2-3
-2020-11-05,Bursaspor,Manisaspor,4-0,1-0
-2020-11-05,Gençlerbirliği,Ankaragucu,1-2,0-0
-2020-11-05,Rizespor,Galatasaray,2-1,2-1
-2020-11-10,Denizlispor,Fenerbahçe,0-0,0-0
-2020-11-11,Beşiktaş,Sivasspor,0-1,0-1
-2020-11-12,Ankaragucu,Rizespor,2-0,0-0
-2020-11-12,Erciyesspor,Gençlerbirliği,0-2,0-2
-2020-11-12,Galatasaray,Sakaryaspor,4-0,1-0
-2020-11-12,Gaziantepspor,Bursaspor,1-2,1-2
-2020-11-12,Konyaspor,Kayserispor,1-1,0-0
-2020-11-12,Manisaspor,Ankaraspor,1-3,1-0
-2020-11-12,Trabzonspor,Antalyaspor,0-0,0-0
-2020-11-18,Antalyaspor,Galatasaray,0-1,0-0
-2020-11-18,Gençlerbirliği,Konyaspor,4-1,2-0
-2020-11-18,Kayserispor,Manisaspor,2-2,1-1
-2020-11-18,Sakaryaspor,Ankaragucu,0-0,0-0
-2020-11-19,Ankaraspor,Gaziantepspor,2-0,0-0
-2020-11-19,Bursaspor,Denizlispor,1-0,0-0
-2020-11-19,Fenerbahçe,Beşiktaş,0-0,0-0
-2020-11-19,Rizespor,Erciyesspor,0-0,0-0
-2020-11-19,Sivasspor,Trabzonspor,1-0,0-0
-2020-11-24,Beşiktaş,Bursaspor,3-1,0-1
-2020-11-25,Denizlispor,Ankaraspor,1-1,1-0
-2020-11-25,Galatasaray,Sivasspor,3-1,3-0
-2020-11-25,Gaziantepspor,Kayserispor,1-2,0-1
-2020-11-25,Manisaspor,Konyaspor,0-1,0-1
-2020-11-26,Ankaragucu,Antalyaspor,1-0,0-0
-2020-11-26,Erciyesspor,Sakaryaspor,2-0,1-0
-2020-11-26,Rizespor,Gençlerbirliği,0-1,0-0
-2020-11-26,Trabzonspor,Fenerbahçe,1-2,0-1
-2020-12-01,Bursaspor,Trabzonspor,2-1,2-0
-2020-12-02,Ankaraspor,Beşiktaş,0-0,0-0
-2020-12-02,Kayserispor,Denizlispor,1-0,0-0
-2020-12-02,Konyaspor,Rizespor,2-0,1-0
-2020-12-02,Sivasspor,Ankaragucu,2-1,1-0
-2020-12-03,Antalyaspor,Erciyesspor,3-1,1-1
-2020-12-03,Fenerbahçe,Galatasaray,2-1,2-0
-2020-12-03,Manisaspor,Gaziantepspor,4-1,1-1
-2020-12-03,Sakaryaspor,Gençlerbirliği,1-1,0-1
-2020-12-08,Ankaragucu,Fenerbahçe,0-1,0-1
-2020-12-09,Beşiktaş,Kayserispor,2-1,0-0
-2020-12-09,Erciyesspor,Sivasspor,0-0,0-0
-2020-12-09,Rizespor,Sakaryaspor,3-1,2-0
-2020-12-10,Denizlispor,Manisaspor,0-0,0-0
-2020-12-10,Galatasaray,Bursaspor,3-1,0-1
-2020-12-10,Gaziantepspor,Konyaspor,1-0,1-0
-2020-12-10,Gençlerbirliği,Antalyaspor,1-0,0-0
-2020-12-10,Trabzonspor,Ankaraspor,3-0,1-0
-2020-01-27,Ankaragucu,Bursaspor,1-1,1-0
-2020-01-27,Beşiktaş,Manisaspor,3-1,2-0
-2020-01-27,Denizlispor,Gaziantepspor,0-2,0-0
-2020-01-27,Erciyesspor,Fenerbahçe,1-1,1-0
-2020-01-27,Galatasaray,Ankaraspor,2-0,1-0
-2020-01-27,Gençlerbirliği,Sivasspor,0-1,0-1
-2020-01-27,Rizespor,Antalyaspor,1-0,1-0
-2020-01-27,Sakaryaspor,Konyaspor,1-1,0-0
-2020-01-27,Trabzonspor,Kayserispor,0-0,0-0
-2020-02-02,Fenerbahçe,Gençlerbirliği,2-1,1-1
-2020-02-03,Antalyaspor,Sakaryaspor,1-0,0-0
-2020-02-03,Konyaspor,Denizlispor,5-1,3-0
-2020-02-03,Manisaspor,Trabzonspor,0-0,0-0
-2020-02-04,Ankaraspor,Ankaragucu,1-0,1-0
-2020-02-04,Bursaspor,Erciyesspor,0-0,0-0
-2020-02-04,Gaziantepspor,Beşiktaş,0-0,0-0
-2020-02-04,Kayserispor,Galatasaray,0-0,0-0
-2020-02-04,Sivasspor,Rizespor,1-0,0-0
-2020-02-10,Ankaragucu,Kayserispor,0-4,0-3
-2020-02-10,Beşiktaş,Denizlispor,2-0,1-0
-2020-02-10,Rizespor,Fenerbahçe,2-1,2-0
-2020-02-11,Antalyaspor,Konyaspor,1-0,0-0
-2020-02-11,Erciyesspor,Ankaraspor,1-0,0-0
-2020-02-11,Galatasaray,Manisaspor,4-0,1-0
-2020-02-11,Gençlerbirliği,Bursaspor,1-0,1-0
-2020-02-11,Sakaryaspor,Sivasspor,1-3,0-2
-2020-02-11,Trabzonspor,Gaziantepspor,2-0,1-0
-2020-02-16,Konyaspor,Beşiktaş,2-1,1-1
-2020-02-17,Bursaspor,Rizespor,1-0,1-0
-2020-02-17,Gaziantepspor,Galatasaray,1-0,0-0
-2020-02-18,Ankaraspor,Gençlerbirliği,1-2,0-1
-2020-02-18,Denizlispor,Trabzonspor,3-4,2-2
-2020-02-18,Fenerbahçe,Sakaryaspor,1-0,1-0
-2020-02-18,Kayserispor,Erciyesspor,1-0,0-0
-2020-02-18,Manisaspor,Ankaragucu,0-1,0-1
-2020-02-18,Sivasspor,Antalyaspor,0-1,0-0
-2020-02-23,Erciyesspor,Manisaspor,1-0,0-0
-2020-02-23,Galatasaray,Denizlispor,1-1,0-0
-2020-02-24,Ankaragucu,Gaziantepspor,2-1,1-1
-2020-02-24,Trabzonspor,Beşiktaş,3-2,0-2
-2020-02-25,Antalyaspor,Fenerbahçe,1-0,0-0
-2020-02-25,Gençlerbirliği,Kayserispor,2-2,1-0
-2020-02-25,Rizespor,Ankaraspor,1-1,1-0
-2020-02-25,Sakaryaspor,Bursaspor,1-3,1-1
-2020-02-25,Sivasspor,Konyaspor,1-3,1-0
-2020-03-02,Bursaspor,Antalyaspor,0-0,0-0
-2020-03-03,Beşiktaş,Galatasaray,2-1,1-0
-2020-03-03,Denizlispor,Ankaragucu,1-0,1-0
-2020-03-03,Kayserispor,Rizespor,1-0,0-0
-2020-03-04,Ankaraspor,Sakaryaspor,1-0,0-0
-2020-03-04,Fenerbahçe,Sivasspor,2-2,1-2
-2020-03-04,Gaziantepspor,Erciyesspor,0-1,0-0
-2020-03-04,Konyaspor,Trabzonspor,1-2,0-2
-2020-03-04,Manisaspor,Gençlerbirliği,0-3,0-1
-2020-03-09,Sakaryaspor,Kayserispor,3-3,1-2
-2020-03-10,Fenerbahçe,Konyaspor,3-0,1-0
-2020-03-10,Gençlerbirliği,Gaziantepspor,0-0,0-0
-2020-03-10,Sivasspor,Bursaspor,3-1,2-0
-2020-03-11,Ankaragucu,Beşiktaş,0-1,0-0
-2020-03-11,Antalyaspor,Ankaraspor,1-1,1-0
-2020-03-11,Erciyesspor,Denizlispor,2-0,1-0
-2020-03-11,Galatasaray,Trabzonspor,2-1,1-0
-2020-03-11,Rizespor,Manisaspor,3-1,2-0
-2020-03-16,Konyaspor,Galatasaray,2-2,1-1
-2020-03-17,Ankaraspor,Sivasspor,2-1,1-0
-2020-03-17,Bursaspor,Fenerbahçe,0-4,0-0
-2020-03-17,Denizlispor,Gençlerbirliği,3-2,1-0
-2020-03-17,Gaziantepspor,Rizespor,1-0,0-0
-2020-03-17,Kayserispor,Antalyaspor,4-4,3-1
-2020-03-17,Manisaspor,Sakaryaspor,0-3,
-2020-03-17,Trabzonspor,Ankaragucu,0-1,0-1
-2020-03-18,Beşiktaş,Erciyesspor,1-0,0-0
-2020-04-01,Ankaragucu,Galatasaray,1-2,0-0
-2020-04-01,Antalyaspor,Manisaspor,1-0,1-0
-2020-04-01,Bursaspor,Konyaspor,1-0,1-0
-2020-04-01,Fenerbahçe,Ankaraspor,2-1,1-1
-2020-04-01,Rizespor,Denizlispor,2-2,1-0
-2020-04-01,Sakaryaspor,Gaziantepspor,1-2,1-1
-2020-04-01,Sivasspor,Kayserispor,3-2,1-0
-2020-04-02,Erciyesspor,Trabzonspor,0-1,0-1
-2020-04-02,Gençlerbirliği,Beşiktaş,0-2,0-2
-2020-04-06,Galatasaray,Erciyesspor,0-1,0-1
-2020-04-07,Kayserispor,Fenerbahçe,2-2,1-1
-2020-04-07,Trabzonspor,Gençlerbirliği,4-3,2-1
-2020-04-08,Ankaraspor,Bursaspor,0-0,0-0
-2020-04-08,Beşiktaş,Rizespor,1-0,1-0
-2020-04-08,Denizlispor,Sakaryaspor,1-0,0-0
-2020-04-08,Gaziantepspor,Antalyaspor,0-0,0-0
-2020-04-08,Konyaspor,Ankaragucu,2-0,2-0
-2020-04-08,Manisaspor,Sivasspor,1-0,0-0
-2020-04-13,Gençlerbirliği,Galatasaray,1-3,0-2
-2020-04-14,Sakaryaspor,Beşiktaş,1-1,0-1
-2020-04-15,Ankaraspor,Konyaspor,4-2,2-0
-2020-04-15,Antalyaspor,Denizlispor,1-1,1-1
-2020-04-15,Bursaspor,Kayserispor,0-3,0-0
-2020-04-15,Erciyesspor,Ankaragucu,0-1,0-0
-2020-04-15,Fenerbahçe,Manisaspor,0-0,0-0
-2020-04-15,Rizespor,Trabzonspor,3-2,0-0
-2020-04-15,Sivasspor,Gaziantepspor,2-1,0-1
-2020-04-20,Gaziantepspor,Fenerbahçe,0-2,0-1
-2020-04-21,Beşiktaş,Antalyaspor,1-0,1-0
-2020-04-22,Ankaragucu,Gençlerbirliği,0-0,0-0
-2020-04-22,Denizlispor,Sivasspor,2-0,0-0
-2020-04-22,Galatasaray,Rizespor,3-1,1-1
-2020-04-22,Kayserispor,Ankaraspor,3-3,1-2
-2020-04-22,Konyaspor,Erciyesspor,1-1,0-1
-2020-04-22,Manisaspor,Bursaspor,4-1,0-0
-2020-04-22,Trabzonspor,Sakaryaspor,5-2,4-0
-2020-04-28,Ankaraspor,Manisaspor,1-1,0-1
-2020-04-28,Antalyaspor,Trabzonspor,1-2,0-0
-2020-04-28,Bursaspor,Gaziantepspor,1-1,1-1
-2020-04-28,Gençlerbirliği,Erciyesspor,1-2,0-1
-2020-04-28,Kayserispor,Konyaspor,2-1,2-0
-2020-04-28,Rizespor,Ankaragucu,3-1,2-0
-2020-04-28,Sakaryaspor,Galatasaray,0-3,0-3
-2020-04-29,Fenerbahçe,Denizlispor,2-2,1-0
-2020-04-29,Sivasspor,Beşiktaş,0-1,0-0
-2020-05-04,Trabzonspor,Sivasspor,2-0,1-0
-2020-05-05,Ankaragucu,Sakaryaspor,1-0,0-0
-2020-05-05,Beşiktaş,Fenerbahçe,0-1,0-1
-2020-05-05,Denizlispor,Bursaspor,0-0,0-0
-2020-05-05,Erciyesspor,Rizespor,1-1,1-0
-2020-05-05,Gaziantepspor,Ankaraspor,0-2,0-1
-2020-05-05,Konyaspor,Gençlerbirliği,2-1,0-0
-2020-05-05,Manisaspor,Kayserispor,1-0,0-0
-2020-05-06,Galatasaray,Antalyaspor,1-1,0-1
-2020-05-13,Ankaraspor,Denizlispor,1-1,0-1
-2020-05-13,Antalyaspor,Ankaragucu,0-1,0-0
-2020-05-13,Bursaspor,Beşiktaş,3-0,2-0
-2020-05-13,Fenerbahçe,Trabzonspor,2-2,1-2
-2020-05-13,Gençlerbirliği,Rizespor,2-1,0-0
-2020-05-13,Kayserispor,Gaziantepspor,1-2,1-1
-2020-05-13,Konyaspor,Manisaspor,1-0,0-0
-2020-05-13,Sakaryaspor,Erciyesspor,1-2,1-1
-2020-05-13,Sivasspor,Galatasaray,1-1,0-1
-2020-05-19,Beşiktaş,Ankaraspor,2-1,1-0
-2020-05-19,Galatasaray,Fenerbahçe,1-2,0-2
-2020-05-19,Gençlerbirliği,Sakaryaspor,1-0,0-0
-2020-05-20,Ankaragucu,Sivasspor,1-4,0-1
-2020-05-20,Denizlispor,Kayserispor,2-1,1-0
-2020-05-20,Erciyesspor,Antalyaspor,0-0,0-0
-2020-05-20,Gaziantepspor,Manisaspor,0-0,0-0
-2020-05-20,Rizespor,Konyaspor,1-0,1-0
-2020-05-20,Trabzonspor,Bursaspor,3-1,2-0
-2020-05-25,Ankaraspor,Trabzonspor,2-1,2-1
-2020-05-25,Bursaspor,Galatasaray,2-0,1-0
-2020-05-25,Kayserispor,Beşiktaş,3-0,2-0
-2020-05-26,Antalyaspor,Gençlerbirliği,1-3,0-0
-2020-05-26,Fenerbahçe,Ankaragucu,3-1,0-1
-2020-05-26,Konyaspor,Gaziantepspor,0-2,0-1
-2020-05-26,Manisaspor,Denizlispor,0-0,0-0
-2020-05-26,Sakaryaspor,Rizespor,1-1,1-1
-2020-05-26,Sivasspor,Erciyesspor,2-1,0-1
+Round,Date,Team 1,FT,HT,Team 2
+?,(Fri) 4 Aug 2006 (31),Ankaraspor (1),1-1,1-0,Galatasaray (1)
+?,(Sat) 5 Aug 2006 (31),Fenerbahçe (1),6-0,2-0,Erciyesspor (1)
+?,(Sat) 5 Aug 2006 (31),Kayserispor (1),1-0,1-0,Trabzonspor (1)
+?,(Sun) 6 Aug 2006 (31),Antalyaspor (1),0-0,0-0,Rizespor (1)
+?,(Sun) 6 Aug 2006 (31),Bursaspor (1),0-0,0-0,Ankaragucu (1)
+?,(Sun) 6 Aug 2006 (31),Gaziantepspor (1),1-1,1-0,Denizlispor (1)
+?,(Sun) 6 Aug 2006 (31),Konyaspor (1),1-1,1-0,Sakaryaspor (1)
+?,(Sun) 6 Aug 2006 (31),Manisaspor (1),1-0,1-0,Beşiktaş (1)
+?,(Sun) 6 Aug 2006 (31),Sivasspor (1),1-2,1-1,Gençlerbirliği (1)
+?,(Fri) 11 Aug 2006 (32),Beşiktaş (2),2-1,1-0,Gaziantepspor (2)
+?,(Sat) 12 Aug 2006 (32),Gençlerbirliği (2),0-2,0-2,Fenerbahçe (2)
+?,(Sun) 13 Aug 2006 (32),Ankaragucu (2),1-1,0-1,Ankaraspor (2)
+?,(Sun) 13 Aug 2006 (32),Denizlispor (2),0-1,0-1,Konyaspor (2)
+?,(Sun) 13 Aug 2006 (32),Erciyesspor (2),2-1,1-1,Bursaspor (2)
+?,(Sun) 13 Aug 2006 (32),Galatasaray (2),4-0,1-0,Kayserispor (2)
+?,(Sun) 13 Aug 2006 (32),Rizespor (2),1-1,0-1,Sivasspor (2)
+?,(Sun) 13 Aug 2006 (32),Sakaryaspor (2),0-0,0-0,Antalyaspor (2)
+?,(Sun) 13 Aug 2006 (32),Trabzonspor (2),1-1,1-1,Manisaspor (2)
+?,(Sat) 19 Aug 2006 (33),Ankaraspor (3),2-2,1-1,Erciyesspor (3)
+?,(Sat) 19 Aug 2006 (33),Fenerbahçe (3),2-1,1-0,Rizespor (3)
+?,(Sat) 19 Aug 2006 (33),Manisaspor (3),2-2,1-0,Galatasaray (3)
+?,(Sun) 20 Aug 2006 (33),Bursaspor (3),0-0,0-0,Gençlerbirliği (3)
+?,(Sun) 20 Aug 2006 (33),Denizlispor (3),0-2,0-1,Beşiktaş (3)
+?,(Sun) 20 Aug 2006 (33),Gaziantepspor (3),2-1,1-0,Trabzonspor (3)
+?,(Sun) 20 Aug 2006 (33),Kayserispor (3),2-1,0-1,Ankaragucu (3)
+?,(Sun) 20 Aug 2006 (33),Konyaspor (3),0-0,0-0,Antalyaspor (3)
+?,(Sun) 20 Aug 2006 (33),Sivasspor (3),0-2,0-1,Sakaryaspor (3)
+?,(Fri) 25 Aug 2006 (34),Beşiktaş (4),3-1,1-1,Konyaspor (4)
+?,(Sat) 26 Aug 2006 (34),Galatasaray (4),2-2,1-1,Gaziantepspor (4)
+?,(Sat) 26 Aug 2006 (34),Gençlerbirliği (4),2-1,1-1,Ankaraspor (4)
+?,(Sun) 27 Aug 2006 (34),Ankaragucu (4),0-1,0-0,Manisaspor (4)
+?,(Sun) 27 Aug 2006 (34),Antalyaspor (4),1-2,1-1,Sivasspor (4)
+?,(Sun) 27 Aug 2006 (34),Erciyesspor (4),0-4,0-1,Kayserispor (4)
+?,(Sun) 27 Aug 2006 (34),Rizespor (4),1-2,0-0,Bursaspor (4)
+?,(Sun) 27 Aug 2006 (34),Sakaryaspor (4),2-1,0-1,Fenerbahçe (4)
+?,(Sun) 27 Aug 2006 (34),Trabzonspor (4),1-0,1-0,Denizlispor (4)
+?,(Sat) 9 Sep 2006 (36),Denizlispor (5),1-1,1-1,Galatasaray (5)
+?,(Sat) 9 Sep 2006 (36),Fenerbahçe (5),4-2,0-0,Antalyaspor (5)
+?,(Sat) 9 Sep 2006 (36),Kayserispor (5),0-0,0-0,Gençlerbirliği (5)
+?,(Sun) 10 Sep 2006 (36),Ankaraspor (5),2-1,1-0,Rizespor (5)
+?,(Sun) 10 Sep 2006 (36),Beşiktaş (5),2-3,1-1,Trabzonspor (5)
+?,(Sun) 10 Sep 2006 (36),Bursaspor (5),3-1,2-1,Sakaryaspor (5)
+?,(Sun) 10 Sep 2006 (36),Gaziantepspor (5),2-2,1-0,Ankaragucu (5)
+?,(Sun) 10 Sep 2006 (36),Konyaspor (5),2-0,1-0,Sivasspor (5)
+?,(Sun) 10 Sep 2006 (36),Manisaspor (5),5-1,1-1,Erciyesspor (5)
+?,(Fri) 15 Sep 2006 (37),Gençlerbirliği (6),0-5,0-1,Manisaspor (6)
+?,(Sat) 16 Sep 2006 (37),Ankaragucu (6),0-0,0-0,Denizlispor (6)
+?,(Sat) 16 Sep 2006 (37),Antalyaspor (6),3-2,0-2,Bursaspor (6)
+?,(Sat) 16 Sep 2006 (37),Sakaryaspor (6),0-0,0-0,Ankaraspor (6)
+?,(Sun) 17 Sep 2006 (37),Erciyesspor (6),1-1,0-1,Gaziantepspor (6)
+?,(Sun) 17 Sep 2006 (37),Galatasaray (6),1-0,1-0,Beşiktaş (6)
+?,(Sun) 17 Sep 2006 (37),Rizespor (6),2-1,1-0,Kayserispor (6)
+?,(Sun) 17 Sep 2006 (37),Sivasspor (6),1-1,1-1,Fenerbahçe (6)
+?,(Sun) 17 Sep 2006 (37),Trabzonspor (6),1-1,1-1,Konyaspor (6)
+?,(Fri) 22 Sep 2006 (38),Konyaspor (7),0-1,0-1,Fenerbahçe (7)
+?,(Sat) 23 Sep 2006 (38),Trabzonspor (7),3-1,2-1,Galatasaray (7)
+?,(Sun) 24 Sep 2006 (38),Ankaraspor (7),1-1,0-1,Antalyaspor (7)
+?,(Sun) 24 Sep 2006 (38),Beşiktaş (7),2-1,2-0,Ankaragucu (7)
+?,(Sun) 24 Sep 2006 (38),Bursaspor (7),1-3,0-1,Sivasspor (7)
+?,(Sun) 24 Sep 2006 (38),Denizlispor (7),2-1,0-0,Erciyesspor (7)
+?,(Sun) 24 Sep 2006 (38),Gaziantepspor (7),2-0,0-0,Gençlerbirliği (7)
+?,(Sun) 24 Sep 2006 (38),Kayserispor (7),2-0,1-0,Sakaryaspor (7)
+?,(Sun) 24 Sep 2006 (38),Manisaspor (7),2-0,1-0,Rizespor (7)
+?,(Sat) 30 Sep 2006 (39),Galatasaray (8),3-3,1-1,Konyaspor (8)
+?,(Sat) 30 Sep 2006 (39),Gençlerbirliği (8),3-1,2-0,Denizlispor (8)
+?,(Sat) 30 Sep 2006 (39),Rizespor (8),2-0,2-0,Gaziantepspor (8)
+?,(Sat) 30 Sep 2006 (39),Sivasspor (8),0-2,0-1,Ankaraspor (8)
+?,(Sun) 1 Oct 2006 (39),Antalyaspor (8),1-0,0-0,Kayserispor (8)
+?,(Sun) 1 Oct 2006 (39),Erciyesspor (8),1-1,0-1,Beşiktaş (8)
+?,(Sun) 1 Oct 2006 (39),Fenerbahçe (8),0-1,0-1,Bursaspor (8)
+?,(Sun) 1 Oct 2006 (39),Sakaryaspor (8),0-1,0-1,Manisaspor (8)
+?,(Mon) 2 Oct 2006 (40),Ankaragucu (8),2-2,2-1,Trabzonspor (8)
+?,(Sat) 14 Oct 2006 (41),Galatasaray (9),1-1,1-1,Ankaragucu (9)
+?,(Sat) 14 Oct 2006 (41),Gaziantepspor (9),1-0,1-0,Sakaryaspor (9)
+?,(Sat) 14 Oct 2006 (41),Konyaspor (9),1-0,0-0,Bursaspor (9)
+?,(Sat) 14 Oct 2006 (41),Trabzonspor (9),3-1,0-1,Erciyesspor (9)
+?,(Sun) 15 Oct 2006 (41),Ankaraspor (9),2-2,0-2,Fenerbahçe (9)
+?,(Sun) 15 Oct 2006 (41),Beşiktaş (9),1-0,0-0,Gençlerbirliği (9)
+?,(Sun) 15 Oct 2006 (41),Denizlispor (9),2-0,0-0,Rizespor (9)
+?,(Sun) 15 Oct 2006 (41),Kayserispor (9),1-1,0-1,Sivasspor (9)
+?,(Sun) 15 Oct 2006 (41),Manisaspor (9),3-2,2-1,Antalyaspor (9)
+?,(Fri) 20 Oct 2006 (42),Gençlerbirliği (10),3-0,1-0,Trabzonspor (10)
+?,(Fri) 20 Oct 2006 (42),Sivasspor (10),3-2,0-1,Manisaspor (10)
+?,(Sat) 21 Oct 2006 (42),Bursaspor (10),0-0,0-0,Ankaraspor (10)
+?,(Sat) 21 Oct 2006 (42),Erciyesspor (10),1-2,0-1,Galatasaray (10)
+?,(Sat) 21 Oct 2006 (42),Sakaryaspor (10),1-2,1-0,Denizlispor (10)
+?,(Sun) 22 Oct 2006 (42),Ankaragucu (10),2-0,1-0,Konyaspor (10)
+?,(Sun) 22 Oct 2006 (42),Antalyaspor (10),0-0,0-0,Gaziantepspor (10)
+?,(Sun) 22 Oct 2006 (42),Fenerbahçe (10),4-1,2-0,Kayserispor (10)
+?,(Sun) 22 Oct 2006 (42),Rizespor (10),0-1,0-0,Beşiktaş (10)
+?,(Sat) 28 Oct 2006 (43),Galatasaray (11),1-0,0-0,Gençlerbirliği (11)
+?,(Sun) 29 Oct 2006 (43),Ankaragucu (11),4-1,3-0,Erciyesspor (11)
+?,(Sun) 29 Oct 2006 (43),Beşiktaş (11),0-0,0-0,Sakaryaspor (11)
+?,(Sun) 29 Oct 2006 (43),Denizlispor (11),1-1,0-0,Antalyaspor (11)
+?,(Sun) 29 Oct 2006 (43),Gaziantepspor (11),1-0,0-0,Sivasspor (11)
+?,(Sun) 29 Oct 2006 (43),Kayserispor (11),2-0,0-0,Bursaspor (11)
+?,(Sun) 29 Oct 2006 (43),Konyaspor (11),2-2,1-0,Ankaraspor (11)
+?,(Sun) 29 Oct 2006 (43),Manisaspor (11),2-3,1-2,Fenerbahçe (11)
+?,(Mon) 30 Oct 2006 (44),Trabzonspor (11),0-1,0-0,Rizespor (11)
+?,(Fri) 3 Nov 2006 (44),Fenerbahçe (12),4-1,0-0,Gaziantepspor (12)
+?,(Sat) 4 Nov 2006 (44),Ankaraspor (12),1-1,1-1,Kayserispor (12)
+?,(Sat) 4 Nov 2006 (44),Erciyesspor (12),1-2,0-1,Konyaspor (12)
+?,(Sat) 4 Nov 2006 (44),Sakaryaspor (12),1-0,0-0,Trabzonspor (12)
+?,(Sat) 4 Nov 2006 (44),Sivasspor (12),0-2,0-1,Denizlispor (12)
+?,(Sun) 5 Nov 2006 (44),Antalyaspor (12),4-4,2-3,Beşiktaş (12)
+?,(Sun) 5 Nov 2006 (44),Bursaspor (12),4-0,1-0,Manisaspor (12)
+?,(Sun) 5 Nov 2006 (44),Gençlerbirliği (12),1-2,0-0,Ankaragucu (12)
+?,(Sun) 5 Nov 2006 (44),Rizespor (12),2-1,2-1,Galatasaray (12)
+?,(Fri) 10 Nov 2006 (45),Denizlispor (13),0-0,0-0,Fenerbahçe (13)
+?,(Sat) 11 Nov 2006 (45),Beşiktaş (13),0-1,0-1,Sivasspor (13)
+?,(Sun) 12 Nov 2006 (45),Ankaragucu (13),2-0,0-0,Rizespor (13)
+?,(Sun) 12 Nov 2006 (45),Erciyesspor (13),0-2,0-2,Gençlerbirliği (13)
+?,(Sun) 12 Nov 2006 (45),Galatasaray (13),4-0,1-0,Sakaryaspor (13)
+?,(Sun) 12 Nov 2006 (45),Gaziantepspor (13),1-2,1-2,Bursaspor (13)
+?,(Sun) 12 Nov 2006 (45),Konyaspor (13),1-1,0-0,Kayserispor (13)
+?,(Sun) 12 Nov 2006 (45),Manisaspor (13),1-3,1-0,Ankaraspor (13)
+?,(Sun) 12 Nov 2006 (45),Trabzonspor (13),0-0,0-0,Antalyaspor (13)
+?,(Sat) 18 Nov 2006 (46),Antalyaspor (14),0-1,0-0,Galatasaray (14)
+?,(Sat) 18 Nov 2006 (46),Gençlerbirliği (14),4-1,2-0,Konyaspor (14)
+?,(Sat) 18 Nov 2006 (46),Kayserispor (14),2-2,1-1,Manisaspor (14)
+?,(Sat) 18 Nov 2006 (46),Sakaryaspor (14),0-0,0-0,Ankaragucu (14)
+?,(Sun) 19 Nov 2006 (46),Ankaraspor (14),2-0,0-0,Gaziantepspor (14)
+?,(Sun) 19 Nov 2006 (46),Bursaspor (14),1-0,0-0,Denizlispor (14)
+?,(Sun) 19 Nov 2006 (46),Fenerbahçe (14),0-0,0-0,Beşiktaş (14)
+?,(Sun) 19 Nov 2006 (46),Rizespor (14),0-0,0-0,Erciyesspor (14)
+?,(Sun) 19 Nov 2006 (46),Sivasspor (14),1-0,0-0,Trabzonspor (14)
+?,(Fri) 24 Nov 2006 (47),Beşiktaş (15),3-1,0-1,Bursaspor (15)
+?,(Sat) 25 Nov 2006 (47),Denizlispor (15),1-1,1-0,Ankaraspor (15)
+?,(Sat) 25 Nov 2006 (47),Galatasaray (15),3-1,3-0,Sivasspor (15)
+?,(Sat) 25 Nov 2006 (47),Gaziantepspor (15),1-2,0-1,Kayserispor (15)
+?,(Sat) 25 Nov 2006 (47),Manisaspor (15),0-1,0-1,Konyaspor (15)
+?,(Sun) 26 Nov 2006 (47),Ankaragucu (15),1-0,0-0,Antalyaspor (15)
+?,(Sun) 26 Nov 2006 (47),Erciyesspor (15),2-0,1-0,Sakaryaspor (15)
+?,(Sun) 26 Nov 2006 (47),Rizespor (15),0-1,0-0,Gençlerbirliği (15)
+?,(Sun) 26 Nov 2006 (47),Trabzonspor (15),1-2,0-1,Fenerbahçe (15)
+?,(Fri) 1 Dec 2006 (48),Bursaspor (16),2-1,2-0,Trabzonspor (16)
+?,(Sat) 2 Dec 2006 (48),Ankaraspor (16),0-0,0-0,Beşiktaş (16)
+?,(Sat) 2 Dec 2006 (48),Kayserispor (16),1-0,0-0,Denizlispor (16)
+?,(Sat) 2 Dec 2006 (48),Konyaspor (16),2-0,1-0,Rizespor (16)
+?,(Sat) 2 Dec 2006 (48),Sivasspor (16),2-1,1-0,Ankaragucu (16)
+?,(Sun) 3 Dec 2006 (48),Antalyaspor (16),3-1,1-1,Erciyesspor (16)
+?,(Sun) 3 Dec 2006 (48),Fenerbahçe (16),2-1,2-0,Galatasaray (16)
+?,(Sun) 3 Dec 2006 (48),Manisaspor (16),4-1,1-1,Gaziantepspor (16)
+?,(Sun) 3 Dec 2006 (48),Sakaryaspor (16),1-1,0-1,Gençlerbirliği (16)
+?,(Fri) 8 Dec 2006 (49),Ankaragucu (17),0-1,0-1,Fenerbahçe (17)
+?,(Sat) 9 Dec 2006 (49),Beşiktaş (17),2-1,0-0,Kayserispor (17)
+?,(Sat) 9 Dec 2006 (49),Erciyesspor (17),0-0,0-0,Sivasspor (17)
+?,(Sat) 9 Dec 2006 (49),Rizespor (17),3-1,2-0,Sakaryaspor (17)
+?,(Sun) 10 Dec 2006 (49),Denizlispor (17),0-0,0-0,Manisaspor (17)
+?,(Sun) 10 Dec 2006 (49),Galatasaray (17),3-1,0-1,Bursaspor (17)
+?,(Sun) 10 Dec 2006 (49),Gaziantepspor (17),1-0,1-0,Konyaspor (17)
+?,(Sun) 10 Dec 2006 (49),Gençlerbirliği (17),1-0,0-0,Antalyaspor (17)
+?,(Sun) 10 Dec 2006 (49),Trabzonspor (17),3-0,1-0,Ankaraspor (17)
+?,(Sat) 27 Jan 2007 (4),Ankaragucu (18),1-1,1-0,Bursaspor (18)
+?,(Sat) 27 Jan 2007 (4),Beşiktaş (18),3-1,2-0,Manisaspor (18)
+?,(Sat) 27 Jan 2007 (4),Denizlispor (18),0-2,0-0,Gaziantepspor (18)
+?,(Sat) 27 Jan 2007 (4),Erciyesspor (18),1-1,1-0,Fenerbahçe (18)
+?,(Sat) 27 Jan 2007 (4),Galatasaray (18),2-0,1-0,Ankaraspor (18)
+?,(Sat) 27 Jan 2007 (4),Gençlerbirliği (18),0-1,0-1,Sivasspor (18)
+?,(Sat) 27 Jan 2007 (4),Rizespor (18),1-0,1-0,Antalyaspor (18)
+?,(Sat) 27 Jan 2007 (4),Sakaryaspor (18),1-1,0-0,Konyaspor (18)
+?,(Sat) 27 Jan 2007 (4),Trabzonspor (18),0-0,0-0,Kayserispor (18)
+?,(Fri) 2 Feb 2007 (5),Fenerbahçe (19),2-1,1-1,Gençlerbirliği (19)
+?,(Sat) 3 Feb 2007 (5),Antalyaspor (19),1-0,0-0,Sakaryaspor (19)
+?,(Sat) 3 Feb 2007 (5),Konyaspor (19),5-1,3-0,Denizlispor (19)
+?,(Sat) 3 Feb 2007 (5),Manisaspor (19),0-0,0-0,Trabzonspor (19)
+?,(Sun) 4 Feb 2007 (5),Ankaraspor (19),1-0,1-0,Ankaragucu (19)
+?,(Sun) 4 Feb 2007 (5),Bursaspor (19),0-0,0-0,Erciyesspor (19)
+?,(Sun) 4 Feb 2007 (5),Gaziantepspor (19),0-0,0-0,Beşiktaş (19)
+?,(Sun) 4 Feb 2007 (5),Kayserispor (19),0-0,0-0,Galatasaray (19)
+?,(Sun) 4 Feb 2007 (5),Sivasspor (19),1-0,0-0,Rizespor (19)
+?,(Sat) 10 Feb 2007 (6),Ankaragucu (20),0-4,0-3,Kayserispor (20)
+?,(Sat) 10 Feb 2007 (6),Beşiktaş (20),2-0,1-0,Denizlispor (20)
+?,(Sat) 10 Feb 2007 (6),Rizespor (20),2-1,2-0,Fenerbahçe (20)
+?,(Sun) 11 Feb 2007 (6),Antalyaspor (20),1-0,0-0,Konyaspor (20)
+?,(Sun) 11 Feb 2007 (6),Erciyesspor (20),1-0,0-0,Ankaraspor (20)
+?,(Sun) 11 Feb 2007 (6),Galatasaray (20),4-0,1-0,Manisaspor (20)
+?,(Sun) 11 Feb 2007 (6),Gençlerbirliği (20),1-0,1-0,Bursaspor (20)
+?,(Sun) 11 Feb 2007 (6),Sakaryaspor (20),1-3,0-2,Sivasspor (20)
+?,(Sun) 11 Feb 2007 (6),Trabzonspor (20),2-0,1-0,Gaziantepspor (20)
+?,(Fri) 16 Feb 2007 (7),Konyaspor (21),2-1,1-1,Beşiktaş (21)
+?,(Sat) 17 Feb 2007 (7),Bursaspor (21),1-0,1-0,Rizespor (21)
+?,(Sat) 17 Feb 2007 (7),Gaziantepspor (21),1-0,0-0,Galatasaray (21)
+?,(Sun) 18 Feb 2007 (7),Ankaraspor (21),1-2,0-1,Gençlerbirliği (21)
+?,(Sun) 18 Feb 2007 (7),Denizlispor (21),3-4,2-2,Trabzonspor (21)
+?,(Sun) 18 Feb 2007 (7),Fenerbahçe (21),1-0,1-0,Sakaryaspor (21)
+?,(Sun) 18 Feb 2007 (7),Kayserispor (21),1-0,0-0,Erciyesspor (21)
+?,(Sun) 18 Feb 2007 (7),Manisaspor (21),0-1,0-1,Ankaragucu (21)
+?,(Sun) 18 Feb 2007 (7),Sivasspor (21),0-1,0-0,Antalyaspor (21)
+?,(Fri) 23 Feb 2007 (8),Erciyesspor (22),1-0,0-0,Manisaspor (22)
+?,(Fri) 23 Feb 2007 (8),Galatasaray (22),1-1,0-0,Denizlispor (22)
+?,(Sat) 24 Feb 2007 (8),Ankaragucu (22),2-1,1-1,Gaziantepspor (22)
+?,(Sat) 24 Feb 2007 (8),Trabzonspor (22),3-2,0-2,Beşiktaş (22)
+?,(Sun) 25 Feb 2007 (8),Antalyaspor (22),1-0,0-0,Fenerbahçe (22)
+?,(Sun) 25 Feb 2007 (8),Gençlerbirliği (22),2-2,1-0,Kayserispor (22)
+?,(Sun) 25 Feb 2007 (8),Rizespor (22),1-1,1-0,Ankaraspor (22)
+?,(Sun) 25 Feb 2007 (8),Sakaryaspor (22),1-3,1-1,Bursaspor (22)
+?,(Sun) 25 Feb 2007 (8),Sivasspor (22),1-3,1-0,Konyaspor (22)
+?,(Fri) 2 Mar 2007 (9),Bursaspor (23),0-0,0-0,Antalyaspor (23)
+?,(Sat) 3 Mar 2007 (9),Beşiktaş (23),2-1,1-0,Galatasaray (23)
+?,(Sat) 3 Mar 2007 (9),Denizlispor (23),1-0,1-0,Ankaragucu (23)
+?,(Sat) 3 Mar 2007 (9),Kayserispor (23),1-0,0-0,Rizespor (23)
+?,(Sun) 4 Mar 2007 (9),Ankaraspor (23),1-0,0-0,Sakaryaspor (23)
+?,(Sun) 4 Mar 2007 (9),Fenerbahçe (23),2-2,1-2,Sivasspor (23)
+?,(Sun) 4 Mar 2007 (9),Gaziantepspor (23),0-1,0-0,Erciyesspor (23)
+?,(Sun) 4 Mar 2007 (9),Konyaspor (23),1-2,0-2,Trabzonspor (23)
+?,(Sun) 4 Mar 2007 (9),Manisaspor (23),0-3,0-1,Gençlerbirliği (23)
+?,(Fri) 9 Mar 2007 (10),Sakaryaspor (24),3-3,1-2,Kayserispor (24)
+?,(Sat) 10 Mar 2007 (10),Fenerbahçe (24),3-0,1-0,Konyaspor (24)
+?,(Sat) 10 Mar 2007 (10),Gençlerbirliği (24),0-0,0-0,Gaziantepspor (24)
+?,(Sat) 10 Mar 2007 (10),Sivasspor (24),3-1,2-0,Bursaspor (24)
+?,(Sun) 11 Mar 2007 (10),Ankaragucu (24),0-1,0-0,Beşiktaş (24)
+?,(Sun) 11 Mar 2007 (10),Antalyaspor (24),1-1,1-0,Ankaraspor (24)
+?,(Sun) 11 Mar 2007 (10),Erciyesspor (24),2-0,1-0,Denizlispor (24)
+?,(Sun) 11 Mar 2007 (10),Galatasaray (24),2-1,1-0,Trabzonspor (24)
+?,(Sun) 11 Mar 2007 (10),Rizespor (24),3-1,2-0,Manisaspor (24)
+?,(Fri) 16 Mar 2007 (11),Konyaspor (25),2-2,1-1,Galatasaray (25)
+?,(Sat) 17 Mar 2007 (11),Ankaraspor (25),2-1,1-0,Sivasspor (25)
+?,(Sat) 17 Mar 2007 (11),Bursaspor (25),0-4,0-0,Fenerbahçe (25)
+?,(Sat) 17 Mar 2007 (11),Denizlispor (25),3-2,1-0,Gençlerbirliği (25)
+?,(Sat) 17 Mar 2007 (11),Gaziantepspor (25),1-0,0-0,Rizespor (25)
+?,(Sat) 17 Mar 2007 (11),Kayserispor (25),4-4,3-1,Antalyaspor (25)
+?,(Sat) 17 Mar 2007 (11),Manisaspor (25),0-3,?,Sakaryaspor (25)
+?,(Sat) 17 Mar 2007 (11),Trabzonspor (25),0-1,0-1,Ankaragucu (25)
+?,(Sun) 18 Mar 2007 (11),Beşiktaş (25),1-0,0-0,Erciyesspor (25)
+?,(Sun) 1 Apr 2007 (13),Ankaragucu (26),1-2,0-0,Galatasaray (26)
+?,(Sun) 1 Apr 2007 (13),Antalyaspor (26),1-0,1-0,Manisaspor (26)
+?,(Sun) 1 Apr 2007 (13),Bursaspor (26),1-0,1-0,Konyaspor (26)
+?,(Sun) 1 Apr 2007 (13),Fenerbahçe (26),2-1,1-1,Ankaraspor (26)
+?,(Sun) 1 Apr 2007 (13),Rizespor (26),2-2,1-0,Denizlispor (26)
+?,(Sun) 1 Apr 2007 (13),Sakaryaspor (26),1-2,1-1,Gaziantepspor (26)
+?,(Sun) 1 Apr 2007 (13),Sivasspor (26),3-2,1-0,Kayserispor (26)
+?,(Mon) 2 Apr 2007 (14),Erciyesspor (26),0-1,0-1,Trabzonspor (26)
+?,(Mon) 2 Apr 2007 (14),Gençlerbirliği (26),0-2,0-2,Beşiktaş (26)
+?,(Fri) 6 Apr 2007 (14),Galatasaray (27),0-1,0-1,Erciyesspor (27)
+?,(Sat) 7 Apr 2007 (14),Kayserispor (27),2-2,1-1,Fenerbahçe (27)
+?,(Sat) 7 Apr 2007 (14),Trabzonspor (27),4-3,2-1,Gençlerbirliği (27)
+?,(Sun) 8 Apr 2007 (14),Ankaraspor (27),0-0,0-0,Bursaspor (27)
+?,(Sun) 8 Apr 2007 (14),Beşiktaş (27),1-0,1-0,Rizespor (27)
+?,(Sun) 8 Apr 2007 (14),Denizlispor (27),1-0,0-0,Sakaryaspor (27)
+?,(Sun) 8 Apr 2007 (14),Gaziantepspor (27),0-0,0-0,Antalyaspor (27)
+?,(Sun) 8 Apr 2007 (14),Konyaspor (27),2-0,2-0,Ankaragucu (27)
+?,(Sun) 8 Apr 2007 (14),Manisaspor (27),1-0,0-0,Sivasspor (27)
+?,(Fri) 13 Apr 2007 (15),Gençlerbirliği (28),1-3,0-2,Galatasaray (28)
+?,(Sat) 14 Apr 2007 (15),Sakaryaspor (28),1-1,0-1,Beşiktaş (28)
+?,(Sun) 15 Apr 2007 (15),Ankaraspor (28),4-2,2-0,Konyaspor (28)
+?,(Sun) 15 Apr 2007 (15),Antalyaspor (28),1-1,1-1,Denizlispor (28)
+?,(Sun) 15 Apr 2007 (15),Bursaspor (28),0-3,0-0,Kayserispor (28)
+?,(Sun) 15 Apr 2007 (15),Erciyesspor (28),0-1,0-0,Ankaragucu (28)
+?,(Sun) 15 Apr 2007 (15),Fenerbahçe (28),0-0,0-0,Manisaspor (28)
+?,(Sun) 15 Apr 2007 (15),Rizespor (28),3-2,0-0,Trabzonspor (28)
+?,(Sun) 15 Apr 2007 (15),Sivasspor (28),2-1,0-1,Gaziantepspor (28)
+?,(Fri) 20 Apr 2007 (16),Gaziantepspor (29),0-2,0-1,Fenerbahçe (29)
+?,(Sat) 21 Apr 2007 (16),Beşiktaş (29),1-0,1-0,Antalyaspor (29)
+?,(Sun) 22 Apr 2007 (16),Ankaragucu (29),0-0,0-0,Gençlerbirliği (29)
+?,(Sun) 22 Apr 2007 (16),Denizlispor (29),2-0,0-0,Sivasspor (29)
+?,(Sun) 22 Apr 2007 (16),Galatasaray (29),3-1,1-1,Rizespor (29)
+?,(Sun) 22 Apr 2007 (16),Kayserispor (29),3-3,1-2,Ankaraspor (29)
+?,(Sun) 22 Apr 2007 (16),Konyaspor (29),1-1,0-1,Erciyesspor (29)
+?,(Sun) 22 Apr 2007 (16),Manisaspor (29),4-1,0-0,Bursaspor (29)
+?,(Sun) 22 Apr 2007 (16),Trabzonspor (29),5-2,4-0,Sakaryaspor (29)
+?,(Sat) 28 Apr 2007 (17),Ankaraspor (30),1-1,0-1,Manisaspor (30)
+?,(Sat) 28 Apr 2007 (17),Antalyaspor (30),1-2,0-0,Trabzonspor (30)
+?,(Sat) 28 Apr 2007 (17),Bursaspor (30),1-1,1-1,Gaziantepspor (30)
+?,(Sat) 28 Apr 2007 (17),Gençlerbirliği (30),1-2,0-1,Erciyesspor (30)
+?,(Sat) 28 Apr 2007 (17),Kayserispor (30),2-1,2-0,Konyaspor (30)
+?,(Sat) 28 Apr 2007 (17),Rizespor (30),3-1,2-0,Ankaragucu (30)
+?,(Sat) 28 Apr 2007 (17),Sakaryaspor (30),0-3,0-3,Galatasaray (30)
+?,(Sun) 29 Apr 2007 (17),Fenerbahçe (30),2-2,1-0,Denizlispor (30)
+?,(Sun) 29 Apr 2007 (17),Sivasspor (30),0-1,0-0,Beşiktaş (30)
+?,(Fri) 4 May 2007 (18),Trabzonspor (31),2-0,1-0,Sivasspor (31)
+?,(Sat) 5 May 2007 (18),Ankaragucu (31),1-0,0-0,Sakaryaspor (31)
+?,(Sat) 5 May 2007 (18),Beşiktaş (31),0-1,0-1,Fenerbahçe (31)
+?,(Sat) 5 May 2007 (18),Denizlispor (31),0-0,0-0,Bursaspor (31)
+?,(Sat) 5 May 2007 (18),Erciyesspor (31),1-1,1-0,Rizespor (31)
+?,(Sat) 5 May 2007 (18),Gaziantepspor (31),0-2,0-1,Ankaraspor (31)
+?,(Sat) 5 May 2007 (18),Konyaspor (31),2-1,0-0,Gençlerbirliği (31)
+?,(Sat) 5 May 2007 (18),Manisaspor (31),1-0,0-0,Kayserispor (31)
+?,(Sun) 6 May 2007 (18),Galatasaray (31),1-1,0-1,Antalyaspor (31)
+?,(Sun) 13 May 2007 (19),Ankaraspor (32),1-1,0-1,Denizlispor (32)
+?,(Sun) 13 May 2007 (19),Antalyaspor (32),0-1,0-0,Ankaragucu (32)
+?,(Sun) 13 May 2007 (19),Bursaspor (32),3-0,2-0,Beşiktaş (32)
+?,(Sun) 13 May 2007 (19),Fenerbahçe (32),2-2,1-2,Trabzonspor (32)
+?,(Sun) 13 May 2007 (19),Gençlerbirliği (32),2-1,0-0,Rizespor (32)
+?,(Sun) 13 May 2007 (19),Kayserispor (32),1-2,1-1,Gaziantepspor (32)
+?,(Sun) 13 May 2007 (19),Konyaspor (32),1-0,0-0,Manisaspor (32)
+?,(Sun) 13 May 2007 (19),Sakaryaspor (32),1-2,1-1,Erciyesspor (32)
+?,(Sun) 13 May 2007 (19),Sivasspor (32),1-1,0-1,Galatasaray (32)
+?,(Sat) 19 May 2007 (20),Beşiktaş (33),2-1,1-0,Ankaraspor (33)
+?,(Sat) 19 May 2007 (20),Galatasaray (33),1-2,0-2,Fenerbahçe (33)
+?,(Sat) 19 May 2007 (20),Gençlerbirliği (33),1-0,0-0,Sakaryaspor (33)
+?,(Sun) 20 May 2007 (20),Ankaragucu (33),1-4,0-1,Sivasspor (33)
+?,(Sun) 20 May 2007 (20),Denizlispor (33),2-1,1-0,Kayserispor (33)
+?,(Sun) 20 May 2007 (20),Erciyesspor (33),0-0,0-0,Antalyaspor (33)
+?,(Sun) 20 May 2007 (20),Gaziantepspor (33),0-0,0-0,Manisaspor (33)
+?,(Sun) 20 May 2007 (20),Rizespor (33),1-0,1-0,Konyaspor (33)
+?,(Sun) 20 May 2007 (20),Trabzonspor (33),3-1,2-0,Bursaspor (33)
+?,(Fri) 25 May 2007 (21),Ankaraspor (34),2-1,2-1,Trabzonspor (34)
+?,(Fri) 25 May 2007 (21),Bursaspor (34),2-0,1-0,Galatasaray (34)
+?,(Fri) 25 May 2007 (21),Kayserispor (34),3-0,2-0,Beşiktaş (34)
+?,(Sat) 26 May 2007 (21),Antalyaspor (34),1-3,0-0,Gençlerbirliği (34)
+?,(Sat) 26 May 2007 (21),Fenerbahçe (34),3-1,0-1,Ankaragucu (34)
+?,(Sat) 26 May 2007 (21),Konyaspor (34),0-2,0-1,Gaziantepspor (34)
+?,(Sat) 26 May 2007 (21),Manisaspor (34),0-0,0-0,Denizlispor (34)
+?,(Sat) 26 May 2007 (21),Sakaryaspor (34),1-1,1-1,Rizespor (34)
+?,(Sat) 26 May 2007 (21),Sivasspor (34),2-1,0-1,Erciyesspor (34)
