@@ -6,11 +6,11 @@
 ```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
- 1. Beşiktaş                      34  14  1  2  45:11   10  6  1  35:15    80:26  +54   79
- 2. Trabzonspor                   34  13  3  1  48:10   10  4  3  32:18    80:28  +52   76
- 3. Galatasaray                   34  12  2  3  38:15    9  4  4  38:23    76:38  +38   69
- 4. Fenerbahçe                    34  13  3  1  51:14    7  4  6  27:21    78:35  +43   67
- 5. Gençlerbirliği                34  11  4  2  33:17    6  4  7  27:28    60:45  +15   59
+ 1. Beşiktaş İstanbul JK          34  14  1  2  45:11   10  6  1  35:15    80:26  +54   79
+ 2. Trabzonspor AŞ                34  13  3  1  48:10   10  4  3  32:18    80:28  +52   76
+ 3. Galatasaray İstanbul AŞ       34  12  2  3  38:15    9  4  4  38:23    76:38  +38   69
+ 4. Fenerbahçe İstanbul SK        34  13  3  1  51:14    7  4  6  27:21    78:35  +43   67
+ 5. Gençlerbirliği Ankara SK      34  11  4  2  33:17    6  4  7  27:28    60:45  +15   59
  6. Bursaspor                     34  10  5  2  31:16    3  7  7  16:23    47:39   +8   51
  7. Gaziantepspor                 34  12  3  2  32:13    2  3 12  18:37    50:50        48
  8. Samsunspor                    34   8  5  4  37:24    4  4  9  17:36    54:60   -6   45
