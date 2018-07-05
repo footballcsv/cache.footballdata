@@ -35,144 +35,168 @@ Season [`1994-95`](1994-95):
 - [`1994-95/1-superlig.csv`](1994-95/1-superlig.csv) (1/1):
   - 306 matches, 944 goals - start: Sat 13 Aug 1994, end: Sun 21 May 1995
   - 18 teams: Ad. Demirspor (34) Altay (34) Ankaragucu (34) Antalya (34) Beşiktaş (34) Bursaspor (34) Denizlispor (34) Fenerbahçe (34) Galatasaray (34) Gaziantepspor (34) Gençlerbirliği (34) Kayseri (34) Kocaelispor (34) P. Ofisi (34) Samsunspor (34) Trabzonspor (34) Vanspor (34) Zeytinburnu (34) 
+    - 15 teams unknown / missing / ???: Ad. Demirspor, Altay, Ankaragucu, Antalya, Bursaspor, Denizlispor, Galatasaray, Gaziantepspor, Kayseri, Kocaelispor, P. Ofisi, Samsunspor, Trabzonspor, Vanspor, Zeytinburnu
 
 Season [`1995-96`](1995-96):
 
 - [`1995-96/1-superlig.csv`](1995-96/1-superlig.csv) (1/1):
   - 306 matches, 872 goals - start: Fri 11 Aug 1995, end: Sun 19 May 1996
   - 18 teams: Altay (34) Ankaragucu (34) Antalyaspor (34) Beşiktaş (34) Bursaspor (34) Denizlispor (34) Eskişehirspor (34) Fenerbahçe (34) Galatasaray (34) Gaziantepspor (34) Gençlerbirliği (34) Istanbulspor (34) Karsiyaka (34) Kayseri (34) Kocaelispor (34) Samsunspor (34) Trabzonspor (34) Vanspor (34) 
+    - 14 teams unknown / missing / ???: Altay, Ankaragucu, Antalyaspor, Bursaspor, Denizlispor, Galatasaray, Gaziantepspor, Istanbulspor, Karsiyaka, Kayseri, Kocaelispor, Samsunspor, Trabzonspor, Vanspor
 
 Season [`1996-97`](1996-97):
 
 - [`1996-97/1-superlig.csv`](1996-97/1-superlig.csv) (1/1):
   - 306 matches, 875 goals - start: Sun 11 Aug 1996, end: Sun 25 May 1997
   - 18 teams: Altay (34) Ankaragucu (34) Antalyaspor (34) Beşiktaş (34) Bursaspor (34) Dardanelspor (34) Denizlispor (34) Fenerbahçe (34) Galatasaray (34) Gaziantepspor (34) Gençlerbirliği (34) Istanbulspor (34) Kocaelispor (34) Samsunspor (34) Sariyer (34) Trabzonspor (34) Vanspor (34) Zeytinburnu (34) 
+    - 15 teams unknown / missing / ???: Altay, Ankaragucu, Antalyaspor, Bursaspor, Dardanelspor, Denizlispor, Galatasaray, Gaziantepspor, Istanbulspor, Kocaelispor, Samsunspor, Sariyer, Trabzonspor, Vanspor, Zeytinburnu
 
 Season [`1997-98`](1997-98):
 
 - [`1997-98/1-superlig.csv`](1997-98/1-superlig.csv) (1/1):
   - 306 matches, 860 goals - start: Sun 03 Aug 1997, end: Sun 10 May 1998
   - 18 teams: Altay (34) Ankaragucu (34) Antalyaspor (34) Beşiktaş (34) Bursaspor (34) Dardanelspor (34) Fenerbahçe (34) Galatasaray (34) Gaziantepspor (34) Gençlerbirliği (34) Istanbulspor (34) Karabükspor (34) Kayseri (34) Kocaelispor (34) Samsunspor (34) Sekerspor (34) Trabzonspor (34) Vanspor (34) 
+    - 14 teams unknown / missing / ???: Altay, Ankaragucu, Antalyaspor, Bursaspor, Dardanelspor, Galatasaray, Gaziantepspor, Istanbulspor, Kayseri, Kocaelispor, Samsunspor, Sekerspor, Trabzonspor, Vanspor
 
 Season [`1998-99`](1998-99):
 
 - [`1998-99/1-superlig.csv`](1998-99/1-superlig.csv) (1/1):
   - 306 matches, 875 goals - start: Fri 07 Aug 1998, end: Sun 30 May 1999
   - 18 teams: Adanaspor (34) Altay (34) Ankaragucu (34) Antalyaspor (34) Beşiktaş (34) Bursaspor (34) Dardanelspor (34) Erzurum (34) Fenerbahçe (34) Galatasaray (34) Gaziantepspor (34) Gençlerbirliği (34) Istanbulspor (34) Karabükspor (34) Kocaelispor (34) Sakaryaspor (34) Samsunspor (34) Trabzonspor (34) 
+    - 14 teams unknown / missing / ???: Adanaspor, Altay, Ankaragucu, Antalyaspor, Bursaspor, Dardanelspor, Erzurum, Galatasaray, Gaziantepspor, Istanbulspor, Kocaelispor, Sakaryaspor, Samsunspor, Trabzonspor
 
 Season [`1999-00`](1999-00):
 
 - [`1999-00/1-superlig.csv`](1999-00/1-superlig.csv) (1/1):
   - 306 matches, 878 goals - start: Fri 06 Aug 1999, end: Sun 21 May 2000
   - 18 teams: Adanaspor (34) Altay (34) Ankaragucu (34) Antalyaspor (34) Beşiktaş (34) Bursaspor (34) Denizlispor (34) Erzurumspor (34) Fenerbahçe (34) Galatasaray (34) Gaziantepspor (34) Gençlerbirliği (34) Goztep (34) Istanbulspor (34) Kocaelispor (34) Samsunspor (34) Trabzonspor (34) Vanspor (34) 
+    - 15 teams unknown / missing / ???: Adanaspor, Altay, Ankaragucu, Antalyaspor, Bursaspor, Denizlispor, Erzurumspor, Galatasaray, Gaziantepspor, Goztep, Istanbulspor, Kocaelispor, Samsunspor, Trabzonspor, Vanspor
 
 Season [`2000-01`](2000-01):
 
 - [`2000-01/1-superlig.csv`](2000-01/1-superlig.csv) (1/1):
   - 306 matches, 1015 goals - start: Fri 11 Aug 2000, end: Sat 26 May 2001
   - 18 teams: Adanaspor (34) Ankaragucu (34) Antalyaspor (34) Beşiktaş (34) Bursaspor (34) Denizlispor (34) Erzurumspor (34) Fenerbahçe (34) Galatasaray (34) Gaziantepspor (34) Gençlerbirliği (34) Istanbulspor (34) Kocaelispor (34) Rizespor (34) Samsunspor (34) Siirt Jet-PA (34) Trabzonspor (34) Yozgatspor (34) 
+    - 15 teams unknown / missing / ???: Adanaspor, Ankaragucu, Antalyaspor, Bursaspor, Denizlispor, Erzurumspor, Galatasaray, Gaziantepspor, Istanbulspor, Kocaelispor, Rizespor, Samsunspor, Siirt Jet-PA, Trabzonspor, Yozgatspor
 
 Season [`2001-02`](2001-02):
 
 - [`2001-02/1-superlig.csv`](2001-02/1-superlig.csv) (1/1):
   - 306 matches, 910 goals - start: Fri 10 Aug 2001, end: Sat 04 May 2002
   - 18 teams: Ankaragucu (34) Antalyaspor (34) Beşiktaş (34) Bursaspor (34) Denizlispor (34) Diyarbakirspor (34) Fenerbahçe (34) Galatasaray (34) Gaziantepspor (34) Gençlerbirliği (34) Goztep (34) Istanbulspor (34) Kocaelispor (34) Malatyaspor (34) Rizespor (34) Samsunspor (34) Trabzonspor (34) Yozgatspor (34) 
+    - 15 teams unknown / missing / ???: Ankaragucu, Antalyaspor, Bursaspor, Denizlispor, Diyarbakirspor, Galatasaray, Gaziantepspor, Goztep, Istanbulspor, Kocaelispor, Malatyaspor, Rizespor, Samsunspor, Trabzonspor, Yozgatspor
 
 Season [`2002-03`](2002-03):
 
 - [`2002-03/1-superlig.csv`](2002-03/1-superlig.csv) (1/1):
   - 306 matches, 853 goals - start: Fri 09 Aug 2002, end: Sat 31 May 2003
   - 18 teams: Adanaspor (34) Altay (34) Ankaragucu (34) Beşiktaş (34) Bursaspor (34) Denizlispor (34) Diyarbakirspor (34) Elazığspor (34) Fenerbahçe (34) Galatasaray (34) Gaziantepspor (34) Gençlerbirliği (34) Goztep (34) Istanbulspor (34) Kocaelispor (34) Malatyaspor (34) Samsunspor (34) Trabzonspor (34) 
+    - 14 teams unknown / missing / ???: Adanaspor, Altay, Ankaragucu, Bursaspor, Denizlispor, Diyarbakirspor, Galatasaray, Gaziantepspor, Goztep, Istanbulspor, Kocaelispor, Malatyaspor, Samsunspor, Trabzonspor
 
 Season [`2003-04`](2003-04):
 
 - [`2003-04/1-superlig.csv`](2003-04/1-superlig.csv) (1/1):
   - 306 matches, 907 goals - start: Fri 08 Aug 2003, end: Sat 15 May 2004
   - 18 teams: A. Sebatspor (34) Adanaspor (34) Ankaragucu (34) Beşiktaş (34) Bursaspor (34) Denizlispor (34) Diyarbakirspor (34) Elazığspor (34) Fenerbahçe (34) Galatasaray (34) Gaziantepspor (34) Gençlerbirliği (34) Istanbulspor (34) Konyaspor (34) Malatyaspor (34) Rizespor (34) Samsunspor (34) Trabzonspor (34) 
+    - 14 teams unknown / missing / ???: A. Sebatspor, Adanaspor, Ankaragucu, Bursaspor, Denizlispor, Diyarbakirspor, Galatasaray, Gaziantepspor, Istanbulspor, Konyaspor, Malatyaspor, Rizespor, Samsunspor, Trabzonspor
 
 Season [`2004-05`](2004-05):
 
 - [`2004-05/1-superlig.csv`](2004-05/1-superlig.csv) (1/1):
   - 306 matches, 901 goals - start: Fri 06 Aug 2004, end: Sun 29 May 2005
   - 18 teams: A. Sebatspor (34) Ankaragucu (34) Ankaraspor (34) Beşiktaş (34) Denizlispor (34) Diyarbakirspor (34) Fenerbahçe (34) Galatasaray (34) Gaziantepspor (34) Gençlerbirliği (34) Istanbulspor (34) Kayserispor (34) Konyaspor (34) Malatyaspor (34) Rizespor (34) Sakaryaspor (34) Samsunspor (34) Trabzonspor (34) 
+    - 15 teams unknown / missing / ???: A. Sebatspor, Ankaragucu, Ankaraspor, Denizlispor, Diyarbakirspor, Galatasaray, Gaziantepspor, Istanbulspor, Kayserispor, Konyaspor, Malatyaspor, Rizespor, Sakaryaspor, Samsunspor, Trabzonspor
 
 Season [`2005-06`](2005-06):
 
 - [`2005-06/1-superlig.csv`](2005-06/1-superlig.csv) (1/1):
   - 306 matches, 849 goals - start: Fri 05 Aug 2005, end: Sun 14 May 2006
   - 18 teams: Ankaragucu (34) Ankaraspor (34) Beşiktaş (34) Denizlispor (34) Diyarbakirspor (34) Erciyesspor (34) Fenerbahçe (34) Galatasaray (34) Gaziantepspor (34) Gençlerbirliği (34) Kayserispor (34) Konyaspor (34) Malatyaspor (34) Manisaspor (34) Rizespor (34) Samsunspor (34) Sivasspor (34) Trabzonspor (34) 
+    - 15 teams unknown / missing / ???: Ankaragucu, Ankaraspor, Denizlispor, Diyarbakirspor, Erciyesspor, Galatasaray, Gaziantepspor, Kayserispor, Konyaspor, Malatyaspor, Manisaspor, Rizespor, Samsunspor, Sivasspor, Trabzonspor
 
 Season [`2006-07`](2006-07):
 
 - [`2006-07/1-superlig.csv`](2006-07/1-superlig.csv) (1/1):
   - 306 matches, 736 goals - start: Fri 04 Aug 2006, end: Sat 26 May 2007
   - 18 teams: Ankaragucu (34) Ankaraspor (34) Antalyaspor (34) Beşiktaş (34) Bursaspor (34) Denizlispor (34) Erciyesspor (34) Fenerbahçe (34) Galatasaray (34) Gaziantepspor (34) Gençlerbirliği (34) Kayserispor (34) Konyaspor (34) Manisaspor (34) Rizespor (34) Sakaryaspor (34) Sivasspor (34) Trabzonspor (34) 
+    - 15 teams unknown / missing / ???: Ankaragucu, Ankaraspor, Antalyaspor, Bursaspor, Denizlispor, Erciyesspor, Galatasaray, Gaziantepspor, Kayserispor, Konyaspor, Manisaspor, Rizespor, Sakaryaspor, Sivasspor, Trabzonspor
 
 Season [`2007-08`](2007-08):
 
 - [`2007-08/1-superlig.csv`](2007-08/1-superlig.csv) (1/1):
   - 306 matches, 786 goals - start: Fri 10 Aug 2007, end: Sat 10 May 2008
   - 18 teams: Ankaragucu (34) Ankaraspor (34) Beşiktaş (34) Bursaspor (34) Buyuksehyr (34) Denizlispor (34) Fenerbahçe (34) Galatasaray (34) Gaziantepspor (34) Gençlerbirliği (34) Kasımpaşa (34) Kayserispor (34) Konyaspor (34) Manisaspor (34) Oftasspor (34) Rizespor (34) Sivasspor (34) Trabzonspor (34) 
+    - 14 teams unknown / missing / ???: Ankaragucu, Ankaraspor, Bursaspor, Buyuksehyr, Denizlispor, Galatasaray, Gaziantepspor, Kayserispor, Konyaspor, Manisaspor, Oftasspor, Rizespor, Sivasspor, Trabzonspor
 
 Season [`2008-09`](2008-09):
 
 - [`2008-09/1-superlig.csv`](2008-09/1-superlig.csv) (1/1):
   - 306 matches, 787 goals - start: Sat 23 Aug 2008, end: Sat 30 May 2009
   - 18 teams: Ankaragucu (34) Ankaraspor (34) Antalyaspor (34) Beşiktaş (34) Bursaspor (34) Buyuksehyr (34) Denizlispor (34) Eskişehirspor (34) Fenerbahçe (34) Galatasaray (34) Gaziantepspor (34) Gençlerbirliği (34) Hacettepespor (34) Kayserispor (34) Kocaelispor (34) Konyaspor (34) Sivasspor (34) Trabzonspor (34) 
+    - 14 teams unknown / missing / ???: Ankaragucu, Ankaraspor, Antalyaspor, Bursaspor, Buyuksehyr, Denizlispor, Galatasaray, Gaziantepspor, Hacettepespor, Kayserispor, Kocaelispor, Konyaspor, Sivasspor, Trabzonspor
 
 Season [`2009-10`](2009-10):
 
 - [`2009-10/1-superlig.csv`](2009-10/1-superlig.csv) (1/1):
   - 272 matches, 662 goals - start: Fri 07 Aug 2009, end: Sun 16 May 2010
   - 17 teams: Ankaragucu (32) Antalyaspor (32) Beşiktaş (32) Bursaspor (32) Buyuksehyr (32) Denizlispor (32) Diyarbakirspor (32) Eskişehirspor (32) Fenerbahçe (32) Galatasaray (32) Gaziantepspor (32) Gençlerbirliği (32) Kasımpaşa (32) Kayserispor (32) Manisaspor (32) Sivasspor (32) Trabzonspor (32) 
+    - 12 teams unknown / missing / ???: Ankaragucu, Antalyaspor, Bursaspor, Buyuksehyr, Denizlispor, Diyarbakirspor, Galatasaray, Gaziantepspor, Kayserispor, Manisaspor, Sivasspor, Trabzonspor
 
 Season [`2010-11`](2010-11):
 
 - [`2010-11/1-superlig.csv`](2010-11/1-superlig.csv) (1/1):
   - 306 matches, 838 goals - start: Sat 14 Aug 2010, end: Sun 22 May 2011
   - 18 teams: Ankaragucu (34) Antalyaspor (34) Beşiktaş (34) Bucaspor (34) Bursaspor (34) Buyuksehyr (34) Eskişehirspor (34) Fenerbahçe (34) Galatasaray (34) Gaziantepspor (34) Gençlerbirliği (34) Karabükspor (34) Kasımpaşa (34) Kayserispor (34) Konyaspor (34) Manisaspor (34) Sivasspor (34) Trabzonspor (34) 
+    - 12 teams unknown / missing / ???: Ankaragucu, Antalyaspor, Bucaspor, Bursaspor, Buyuksehyr, Galatasaray, Gaziantepspor, Kayserispor, Konyaspor, Manisaspor, Sivasspor, Trabzonspor
 
 Season [`2011-12`](2011-12):
 
 - [`2011-12/1-superlig.csv`](2011-12/1-superlig.csv) (1/1):
   - 306 matches, 789 goals - start: Sat 10 Sep 2011, end: Sun 08 Apr 2012
   - 18 teams: Ankaragucu (34) Antalyaspor (34) Beşiktaş (34) Bursaspor (34) Buyuksehyr (34) Eskişehirspor (34) Fenerbahçe (34) Galatasaray (34) Gaziantepspor (34) Gençlerbirliği (34) Karabükspor (34) Kayserispor (34) Manisaspor (34) Mersin Idman Yurdu (34) Orduspor (34) Samsunspor (34) Sivasspor (34) Trabzonspor (34) 
+    - 13 teams unknown / missing / ???: Ankaragucu, Antalyaspor, Bursaspor, Buyuksehyr, Galatasaray, Gaziantepspor, Kayserispor, Manisaspor, Mersin Idman Yurdu, Orduspor, Samsunspor, Sivasspor, Trabzonspor
 
 Season [`2012-13`](2012-13):
 
 - [`2012-13/1-superlig.csv`](2012-13/1-superlig.csv) (1/1):
   - 306 matches, 817 goals - start: Fri 17 Aug 2012, end: Sun 19 May 2013
   - 18 teams: Akhisar Belediyespor (34) Antalyaspor (34) Beşiktaş (34) Bursaspor (34) Buyuksehyr (34) Elazığspor (34) Eskişehirspor (34) Fenerbahçe (34) Galatasaray (34) Gaziantepspor (34) Gençlerbirliği (34) Karabükspor (34) Kasımpaşa (34) Kayserispor (34) Mersin Idman Yurdu (34) Orduspor (34) Sivasspor (34) Trabzonspor (34) 
+    - 11 teams unknown / missing / ???: Akhisar Belediyespor, Antalyaspor, Bursaspor, Buyuksehyr, Galatasaray, Gaziantepspor, Kayserispor, Mersin Idman Yurdu, Orduspor, Sivasspor, Trabzonspor
 
 Season [`2013-14`](2013-14):
 
 - [`2013-14/1-superlig.csv`](2013-14/1-superlig.csv) (1/1):
   - 306 matches, 809 goals - start: Fri 16 Aug 2013, end: Sun 18 May 2014
   - 18 teams: Akhisar Belediyespor (34) Antalyaspor (34) Beşiktaş (34) Bursaspor (34) Elazığspor (34) Erciyesspor (34) Eskişehirspor (34) Fenerbahçe (34) Galatasaray (34) Gaziantepspor (34) Gençlerbirliği (34) Karabükspor (34) Kasımpaşa (34) Kayserispor (34) Konyaspor (34) Rizespor (34) Sivasspor (34) Trabzonspor (34) 
+    - 11 teams unknown / missing / ???: Akhisar Belediyespor, Antalyaspor, Bursaspor, Erciyesspor, Galatasaray, Gaziantepspor, Kayserispor, Konyaspor, Rizespor, Sivasspor, Trabzonspor
 
 Season [`2014-15`](2014-15):
 
 - [`2014-15/1-superlig.csv`](2014-15/1-superlig.csv) (1/1):
   - 306 matches, 873 goals - start: Fri 29 Aug 2014, end: Sat 30 May 2015
   - 18 teams: Akhisar Belediyespor (34) Balikesirspor (34) Beşiktaş (34) Bursaspor (34) Buyuksehyr (34) Erciyesspor (34) Eskişehirspor (34) Fenerbahçe (34) Galatasaray (34) Gaziantepspor (34) Gençlerbirliği (34) Karabükspor (34) Kasımpaşa (34) Konyaspor (34) Mersin Idman Yurdu (34) Rizespor (34) Sivasspor (34) Trabzonspor (34) 
+    - 12 teams unknown / missing / ???: Akhisar Belediyespor, Balikesirspor, Bursaspor, Buyuksehyr, Erciyesspor, Galatasaray, Gaziantepspor, Konyaspor, Mersin Idman Yurdu, Rizespor, Sivasspor, Trabzonspor
 
 Season [`2015-16`](2015-16):
 
 - [`2015-16/1-superlig.csv`](2015-16/1-superlig.csv) (1/1):
   - 306 matches, 827 goals - start: Fri 14 Aug 2015, end: Thu 19 May 2016
   - 18 teams: Akhisar Belediyespor (34) Antalyaspor (34) Beşiktaş (34) Bursaspor (34) Buyuksehyr (34) Eskişehirspor (34) Fenerbahçe (34) Galatasaray (34) Gaziantepspor (34) Gençlerbirliği (34) Kasımpaşa (34) Kayserispor (34) Konyaspor (34) Mersin Idman Yurdu (34) Osmanlispor (34) Rizespor (34) Sivasspor (34) Trabzonspor (34) 
+    - 13 teams unknown / missing / ???: Akhisar Belediyespor, Antalyaspor, Bursaspor, Buyuksehyr, Galatasaray, Gaziantepspor, Kayserispor, Konyaspor, Mersin Idman Yurdu, Osmanlispor, Rizespor, Sivasspor, Trabzonspor
 
 Season [`2016-17`](2016-17):
 
 - [`2016-17/1-superlig.csv`](2016-17/1-superlig.csv) (1/1):
   - 306 matches, 828 goals - start: Fri 19 Aug 2016, end: Sat 03 Jun 2017
   - 18 teams: Adanaspor (34) Akhisar Belediyespor (34) Alanyaspor (34) Antalyaspor (34) Beşiktaş (34) Bursaspor (34) Buyuksehyr (34) Fenerbahçe (34) Galatasaray (34) Gaziantepspor (34) Gençlerbirliği (34) Karabükspor (34) Kasımpaşa (34) Kayserispor (34) Konyaspor (34) Osmanlispor (34) Rizespor (34) Trabzonspor (34) 
+    - 13 teams unknown / missing / ???: Adanaspor, Akhisar Belediyespor, Alanyaspor, Antalyaspor, Bursaspor, Buyuksehyr, Galatasaray, Gaziantepspor, Kayserispor, Konyaspor, Osmanlispor, Rizespor, Trabzonspor
 
 Season [`2017-18`](2017-18):
 
 - [`2017-18/1-superlig.csv`](2017-18/1-superlig.csv) (1/1):
   - 306 matches, 906 goals - start: Fri 11 Aug 2017, end: Sat 19 May 2018
   - 18 teams: Akhisar Belediyespor (34) Alanyaspor (34) Antalyaspor (34) Beşiktaş (34) Bursaspor (34) Buyuksehyr (34) Fenerbahçe (34) Galatasaray (34) Gençlerbirliği (34) Goztep (34) Karabükspor (34) Kasımpaşa (34) Kayserispor (34) Konyaspor (34) Osmanlispor (34) Sivasspor (34) Trabzonspor (34) Yeni Malatyaspor (34) 
+    - 13 teams unknown / missing / ???: Akhisar Belediyespor, Alanyaspor, Antalyaspor, Bursaspor, Buyuksehyr, Galatasaray, Goztep, Kayserispor, Konyaspor, Osmanlispor, Sivasspor, Trabzonspor, Yeni Malatyaspor
 
 
 
@@ -244,6 +268,59 @@ Season [`2017-18`](2017-18):
 Unknown / Missing / ??? (49):
 
 A. Sebatspor, Ad. Demirspor, Adanaspor, Akhisar Belediyespor, Alanyaspor, Altay, Ankaragucu, Ankaraspor, Antalya, Antalyaspor, Balikesirspor, Bucaspor, Bursaspor, Buyuksehyr, Dardanelspor, Denizlispor, Diyarbakirspor, Erciyesspor, Erzurum, Erzurumspor, Galatasaray, Gaziantepspor, Goztep, Hacettepespor, Istanbulspor, Karsiyaka, Kayseri, Kayserispor, Kocaelispor, Konyaspor, Malatyaspor, Manisaspor, Mersin Idman Yurdu, Oftasspor, Orduspor, Osmanlispor, P. Ofisi, Rizespor, Sakaryaspor, Samsunspor, Sariyer, Sekerspor, Siirt Jet-PA, Sivasspor, Trabzonspor, Vanspor, Yeni Malatyaspor, Yozgatspor, Zeytinburnu
+
+
+```
+  'A. Sebatspor' => '',
+  'Ad. Demirspor' => '',
+  'Adanaspor' => '',
+  'Akhisar Belediyespor' => '',
+  'Alanyaspor' => '',
+  'Altay' => '',
+  'Ankaragucu' => '',
+  'Ankaraspor' => '',
+  'Antalya' => '',
+  'Antalyaspor' => '',
+  'Balikesirspor' => '',
+  'Bucaspor' => '',
+  'Bursaspor' => '',
+  'Buyuksehyr' => '',
+  'Dardanelspor' => '',
+  'Denizlispor' => '',
+  'Diyarbakirspor' => '',
+  'Erciyesspor' => '',
+  'Erzurum' => '',
+  'Erzurumspor' => '',
+  'Galatasaray' => '',
+  'Gaziantepspor' => '',
+  'Goztep' => '',
+  'Hacettepespor' => '',
+  'Istanbulspor' => '',
+  'Karsiyaka' => '',
+  'Kayseri' => '',
+  'Kayserispor' => '',
+  'Kocaelispor' => '',
+  'Konyaspor' => '',
+  'Malatyaspor' => '',
+  'Manisaspor' => '',
+  'Mersin Idman Yurdu' => '',
+  'Oftasspor' => '',
+  'Orduspor' => '',
+  'Osmanlispor' => '',
+  'P. Ofisi' => '',
+  'Rizespor' => '',
+  'Sakaryaspor' => '',
+  'Samsunspor' => '',
+  'Sariyer' => '',
+  'Sekerspor' => '',
+  'Siirt Jet-PA' => '',
+  'Sivasspor' => '',
+  'Trabzonspor' => '',
+  'Vanspor' => '',
+  'Yeni Malatyaspor' => '',
+  'Yozgatspor' => '',
+  'Zeytinburnu' => '',
+```
 
 ### Season
 
