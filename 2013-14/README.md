@@ -26,7 +26,7 @@
 18. Kayserispor                   34   4  4  9  12:25    3  4 10  18:33    30:58  -28   29
 ```
 
-(Source: [`1-superlig.csv`](1-superlig.csv))
+(Source: [`tr.1.csv`](tr.1.csv))
 
 
 

@@ -26,7 +26,7 @@
 18. Hacettepespor                 34   5  2 10  19:31    0  5 12   5:32    24:63  -39   22
 ```
 
-(Source: [`1-superlig.csv`](1-superlig.csv))
+(Source: [`tr.1.csv`](tr.1.csv))
 
 
 

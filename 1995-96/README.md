@@ -26,7 +26,7 @@
 18. Karsiyaka                     34   5  3  9  16:29    2  3 12  10:36    26:65  -39   27
 ```
 
-(Source: [`1-superlig.csv`](1-superlig.csv))
+(Source: [`tr.1.csv`](tr.1.csv))
 
 
 

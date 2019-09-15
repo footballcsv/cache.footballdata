@@ -26,7 +26,7 @@
 18. Kardemir Karabükspor          34   3  1 13  10:41    0  2 15  10:45    20:86  -66   12
 ```
 
-(Source: [`1-superlig.csv`](1-superlig.csv))
+(Source: [`tr.1.csv`](tr.1.csv))
 
 
 

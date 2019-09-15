@@ -26,7 +26,7 @@
 18. Kocaelispor                   34   3  3 11  19:32    3  1 13  13:34    32:66  -34   22
 ```
 
-(Source: [`1-superlig.csv`](1-superlig.csv))
+(Source: [`tr.1.csv`](tr.1.csv))
 
 
 

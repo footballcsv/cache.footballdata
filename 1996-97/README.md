@@ -26,7 +26,7 @@
 18. Zeytinburnu                   34   2  2 13  12:38    0  3 14  13:48    25:86  -61   11
 ```
 
-(Source: [`1-superlig.csv`](1-superlig.csv))
+(Source: [`tr.1.csv`](tr.1.csv))
 
 
 

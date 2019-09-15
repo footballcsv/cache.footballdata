@@ -26,7 +26,7 @@
 18. Adanaspor                     34   1  8  8  27:42    1  2 14  24:49    51:91  -40   16
 ```
 
-(Source: [`1-superlig.csv`](1-superlig.csv))
+(Source: [`tr.1.csv`](tr.1.csv))
 
 
 

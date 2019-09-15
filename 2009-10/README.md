@@ -25,7 +25,7 @@
 17. Denizlispor                   32   3  7  6  14:17    1  1 14  10:32    24:49  -25   20
 ```
 
-(Source: [`1-superlig.csv`](1-superlig.csv))
+(Source: [`tr.1.csv`](tr.1.csv))
 
 
 

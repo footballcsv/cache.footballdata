@@ -26,7 +26,7 @@
 18. Sakaryaspor                   34   2  8  7  15:24    2  2 13  10:27    25:51  -26   22
 ```
 
-(Source: [`1-superlig.csv`](1-superlig.csv))
+(Source: [`tr.1.csv`](tr.1.csv))
 
 
 

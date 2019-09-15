@@ -26,7 +26,7 @@
 18. Balıkesirspor                 34   4  4  9  25:31    2  5 10  23:38    48:69  -21   27
 ```
 
-(Source: [`1-superlig.csv`](1-superlig.csv))
+(Source: [`tr.1.csv`](tr.1.csv))
 
 
 
