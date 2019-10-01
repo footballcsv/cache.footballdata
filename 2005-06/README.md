@@ -26,7 +26,7 @@
 18. Diyarbakirspor                34   5  2 10  15:30    3  3 11  16:39    31:69  -38   29
 ```
 
-(Source: [`1-superlig.csv`](1-superlig.csv))
+(Source: [`tr.1.csv`](tr.1.csv))
 
 
 

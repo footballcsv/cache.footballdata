@@ -26,7 +26,7 @@
 18. Ankaragucu                    34   1  3 13   7:36    1  2 14  15:41    22:77  -55   11
 ```
 
-(Source: [`1-superlig.csv`](1-superlig.csv))
+(Source: [`tr.1.csv`](tr.1.csv))
 
 
 

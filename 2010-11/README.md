@@ -26,7 +26,7 @@
 18. Kasımpaşa İstanbul SK         34   3  3 11  15:37    2  5 10  16:34    31:71  -40   23
 ```
 
-(Source: [`1-superlig.csv`](1-superlig.csv))
+(Source: [`tr.1.csv`](tr.1.csv))
 
 
 

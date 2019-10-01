@@ -26,7 +26,7 @@
 18. Ad. Demirspor                 34   3  4 10  16:33    0  2 15   9:48    25:81  -56   15
 ```
 
-(Source: [`1-superlig.csv`](1-superlig.csv))
+(Source: [`tr.1.csv`](tr.1.csv))
 
 
 

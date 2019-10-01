@@ -26,7 +26,7 @@
 18. Mersin İdmanyurdu             34   4  3 10  19:33    1  3 13  12:38    31:71  -40   21
 ```
 
-(Source: [`1-superlig.csv`](1-superlig.csv))
+(Source: [`tr.1.csv`](tr.1.csv))
 
 
 

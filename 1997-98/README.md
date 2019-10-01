@@ -26,7 +26,7 @@
 18. Vanspor                       34   4  6  7  11:22    1  3 13  15:48    26:70  -44   24
 ```
 
-(Source: [`1-superlig.csv`](1-superlig.csv))
+(Source: [`tr.1.csv`](tr.1.csv))
 
 
 

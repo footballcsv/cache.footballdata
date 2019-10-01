@@ -26,7 +26,7 @@
 18. Elazığspor                    34   3  6  8  18:28    2  1 14  19:51    37:79  -42   22
 ```
 
-(Source: [`1-superlig.csv`](1-superlig.csv))
+(Source: [`tr.1.csv`](tr.1.csv))
 
 
 

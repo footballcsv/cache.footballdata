@@ -26,7 +26,7 @@
 18. A. Sebatspor                  34   3  7  7  20:30    0  3 14  20:48    40:78  -38   19
 ```
 
-(Source: [`1-superlig.csv`](1-superlig.csv))
+(Source: [`tr.1.csv`](tr.1.csv))
 
 
 

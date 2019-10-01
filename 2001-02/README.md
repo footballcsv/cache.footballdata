@@ -26,7 +26,7 @@
 18. Yozgatspor                    34   6  3  8  29:27    0  6 11  17:40    46:67  -21   27
 ```
 
-(Source: [`1-superlig.csv`](1-superlig.csv))
+(Source: [`tr.1.csv`](tr.1.csv))
 
 
 

@@ -26,7 +26,7 @@
 18. Çaykur Rizespor               34   5  4  8  19:28    2  4 11  13:36    32:64  -32   29
 ```
 
-(Source: [`1-superlig.csv`](1-superlig.csv))
+(Source: [`tr.1.csv`](tr.1.csv))
 
 
 
