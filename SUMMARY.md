@@ -2,35 +2,40 @@
 
 26 seasons, 2 levels (1 2), 72 teams in 27 datafiles
 
-level 1
+## Level 1
+
 - 26 seasons: 2019-20 2018-19 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 2001-02 2000-01 1999-00 1998-99 1997-98 1996-97 1995-96 1994-95 
 - 60 teams: A. Sebatspor (2) Ad. Demirspor (1) Adanaspor (6) Akhisar Belediyespor (7) Alanyaspor (4) Altay (7) Ankaragucu (18) Ankaraspor (5) Antalya (1) Antalyaspor (19) BB Erzurumspor (1) Balıkesirspor (1) Beşiktaş İstanbul JK (26) Bucaspor (1) Bursaspor (23) Dardanelspor (3) Denizlispor (15) Diyarbakirspor (6) Elazığspor (4) Erzurum (1) Erzurumspor (2) Eskişehirspor (9) Fenerbahçe İstanbul SK (26) Galatasaray İstanbul AŞ (26) Gaziantepspor (23) Gazişehir Gaziantep FK (1) Gençlerbirliği Ankara SK (25) Göztepe Izmir (4) Göztepe İzmir (2) Hacettepespor (1) Istanbulspor (10) Kardemir Karabükspor (9) Karsiyaka (1) Kasımpaşa İstanbul SK (11) Kayseri (3) Kayseri Erciyesspor (4) Kayserispor (15) Kocaelispor (10) Konyaspor (14) MKE Ankaragücü (2) Malatyaspor (5) Manisaspor (6) Mersin İdmanyurdu (4) Oftasspor (1) Orduspor (2) Osmanlıspor Ankara (3) P. Ofisi (1) Sakaryaspor (3) Samsunspor (13) Sariyer (1) Sekerspor (1) Siirt Jet-PA (1) Sivasspor (14) Trabzonspor AŞ (26) Vanspor (5) Yeni Malatyaspor (3) Yozgatspor (2) Zeytinburnu (2) Çaykur Rizespor (13) İstanbul Başakşehir (12) 
-  - 26 seasons: **Beşiktaş İstanbul JK**, **Fenerbahçe İstanbul SK**, **Galatasaray İstanbul AŞ**, **Trabzonspor AŞ**
-  - 25 seasons: **Gençlerbirliği Ankara SK**
-  - 23 seasons: **Bursaspor**, **Gaziantepspor**
-  - 19 seasons: **Antalyaspor**
-  - 18 seasons: x Ankaragucu (???)
-  - 15 seasons: **Denizlispor**, **Kayserispor**
-  - 14 seasons: **Konyaspor**, **Sivasspor**
-  - 13 seasons: **Samsunspor**, **Çaykur Rizespor**
-  - 12 seasons: **İstanbul Başakşehir**
-  - 11 seasons: **Kasımpaşa İstanbul SK**
-  - 10 seasons: x Istanbulspor (???), **Kocaelispor**
-  - 9 seasons: **Eskişehirspor**, **Kardemir Karabükspor**
-  - 7 seasons: **Akhisar Belediyespor**, x Altay (???)
-  - 6 seasons: **Adanaspor**, x Diyarbakirspor (???), **Manisaspor**
-  - 5 seasons: x Ankaraspor (???), **Malatyaspor**, x Vanspor (???)
-  - 4 seasons: **Alanyaspor**, **Elazığspor**, x Göztepe Izmir (???), **Kayseri Erciyesspor**, **Mersin İdmanyurdu**
-  - 3 seasons: x Dardanelspor (???), x Kayseri (???), **Osmanlıspor Ankara**, **Sakaryaspor**, **Yeni Malatyaspor**
-  - 2 seasons: x A. Sebatspor (???), x Erzurumspor (???), **Göztepe İzmir**, **MKE Ankaragücü**, **Orduspor**, **Yozgatspor**, x Zeytinburnu (???)
-  - 1 seasons: x Ad. Demirspor (???), x Antalya (???), **BB Erzurumspor**, **Balıkesirspor**, **Bucaspor**, x Erzurum (???), **Gazişehir Gaziantep FK**, **Hacettepespor**, x Karsiyaka (???), x Oftasspor (???), x P. Ofisi (???), x Sariyer (???), x Sekerspor (???), x Siirt Jet-PA (???)
+  - 26 seasons: Beşiktaş İstanbul JK, Fenerbahçe İstanbul SK, Galatasaray İstanbul AŞ, Trabzonspor AŞ
+  - 25 seasons: Gençlerbirliği Ankara SK
+  - 23 seasons: Bursaspor, Gaziantepspor
+  - 19 seasons: Antalyaspor
+  - 18 seasons: Ankaragucu
+  - 15 seasons: Denizlispor, Kayserispor
+  - 14 seasons: Konyaspor, Sivasspor
+  - 13 seasons: Samsunspor, Çaykur Rizespor
+  - 12 seasons: İstanbul Başakşehir
+  - 11 seasons: Kasımpaşa İstanbul SK
+  - 10 seasons: Istanbulspor, Kocaelispor
+  - 9 seasons: Eskişehirspor, Kardemir Karabükspor
+  - 7 seasons: Akhisar Belediyespor, Altay
+  - 6 seasons: Adanaspor, Diyarbakirspor, Manisaspor
+  - 5 seasons: Ankaraspor, Malatyaspor, Vanspor
+  - 4 seasons: Alanyaspor, Elazığspor, Göztepe Izmir, Kayseri Erciyesspor, Mersin İdmanyurdu
+  - 3 seasons: Dardanelspor, Kayseri, Osmanlıspor Ankara, Sakaryaspor, Yeni Malatyaspor
+  - 2 seasons: A. Sebatspor, Erzurumspor, Göztepe İzmir, MKE Ankaragücü, Orduspor, Yozgatspor, Zeytinburnu
+  - 1 seasons: Ad. Demirspor, Antalya, BB Erzurumspor, Balıkesirspor, Bucaspor, Erzurum, Gazişehir Gaziantep FK, Hacettepespor, Karsiyaka, Oftasspor, P. Ofisi, Sariyer, Sekerspor, Siirt Jet-PA
 
 
-level 2
+## Level 2
+
 - 1 seasons: 2019-20 
 - 18 teams: Adana Demirspor (1) Adanaspor (1) Akhisarspor (1) Altay (1) Altınordu (1) BB Erzurumspor (1) Balıkesirspor (1) Boluspor (1) Bursaspor (1) CG Ümraniyespor (1) EG Menemenspor (1) Eskişehirspor (1) Fatih Karagümrük (1) Giresunspor (1) Hatayspor (1) Keçiörengücü (1) Osmanlıspor FK (1) İstanbulspor (1) 
-  - 1 seasons: **Adana Demirspor**, **Adanaspor**, x Akhisarspor (???), x Altay (???), **Altınordu**, **BB Erzurumspor**, **Balıkesirspor**, **Boluspor**, **Bursaspor**, x CG Ümraniyespor (???), x EG Menemenspor (???), **Eskişehirspor**, **Fatih Karagümrük**, **Giresunspor**, x Hatayspor (???), **Keçiörengücü**, x Osmanlıspor FK (???), **İstanbulspor**
+  - 1 seasons: Adana Demirspor, Adanaspor, Akhisarspor, Altay, Altınordu, BB Erzurumspor, Balıkesirspor, Boluspor, Bursaspor, CG Ümraniyespor, EG Menemenspor, Eskişehirspor, Fatih Karagümrük, Giresunspor, Hatayspor, Keçiörengücü, Osmanlıspor FK, İstanbulspor
 
+
+
+## Datafiles by Level
 
 level 1 - 26 seasons:
 - [`2019-20/tr.1.csv`](2019-20/tr.1.csv) =>  18 teams,  234 matches,  659 goals,  26 rounds,  Fri 16 Aug 2019 - Tue 17 Mar 2020
@@ -64,6 +69,9 @@ level 1 - 26 seasons:
 level 2 - 1 seasons:
 - [`2019-20/tr.2.csv`](2019-20/tr.2.csv) =>  18 teams,  72 matches,  180 goals,  8 rounds,  Fri 16 Aug 2019 - Mon 21 Oct 2019
 
+
+
+## Datafiles by Season
 
 2019-20 - 2 levels (1 2)
   - 1: [`2019-20/tr.1.csv`](2019-20/tr.1.csv) -  18 teams,  234 matches,  659 goals,  26 rounds,  Fri 16 Aug 2019 - Tue 17 Mar 2020

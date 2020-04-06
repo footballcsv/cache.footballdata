@@ -1,0 +1,73 @@
+# Clubs by Geo(graphy)
+
+- **İstanbul** (10): 
+  - Beşiktaş İstanbul JK  (4) Beşiktaş · Beşiktaş JK · Beşiktaş İst. · Beşiktaş İstanbul
+  - Ümraniyespor  (2) CG Ümraniyespor · Ümraniyespor Kulubu
+  - Fatih Karagümrük  (1) Fatih Karagümrük SK
+  - Fenerbahçe İstanbul SK  (5) Fenerbahçe · Fenerbahçe SK · Fenerbahçe Spor Kulübü · Fenerbahçe Sports Club · Fenerbahçe İstanbul
+  - Galatasaray İstanbul AŞ  (5) Galatasaray · Galatasar. İstanbul · Galatasaray İstanbul · Galatasaray AŞ · Galatasaray SK
+  - İstanbulspor  (1) İstanbulspor AS
+  - Kasımpaşa İstanbul SK  (3) Kasımpaşa · Kasımpaşa SK · Kasımpaşa İstanbul
+  - Sarıyer SK  (2) Sarıyer · Sarıyer Spor Kulübü
+  - Zeytinburnuspor  (2) Zeytinburnu · Zeytinburnu SK
+  - İstanbul Başakşehir  (8) Başakşehir · İ. Başakşehir · İst. Başakş · İstanb. Başakşehir · İstanbul Başakşeh. · İstanbul Başakşehir FK · Büyükşehyr · İstanbul Büyükşehir Belediyespor
+- **Ankara** (7): 
+  - MKE Ankaragücü  (1) Ankaragücü
+  - Osmanlıspor Ankara  (4) Osmanlıspor · Osmanlıspor FK · Ankaraspor · Ankaraspor AŞ
+  - Gençlerbirliği Ankara SK  (4) Gençlerbirliği · Gençlerbirliği Ankara · Gençlerbirliği SK · Gençlerbirliği Spor Kulübü
+  - Hacettepespor  (5) Hacettepe · Hacettepe SK · Hacettepe Spor Kulübü · Oftasspor · OFTAŞ
+  - Keçiörengücü  (2) Keçiörengücü SK · Keciöerengücü [de]
+  - Petrol Ofisi SK (1954-2010)  (2) P. Ofisi · Petrol Ofisi
+  - Turanspor  (2) Şekerspor · Beypazarı Şekerspor
+- **İzmir** (5): 
+  - Altay SK  (3) Altay · Altay Spor Kulübü · Altay İzmir
+  - Altınordu  (2) Altınordu FK · Altınordu Futbol Kulübü
+  - Bucaspor  (1) Bucaspor Kulübü
+  - Göztepe İzmir  (4) Göztepe · Göztepe SK · Göztep · Göztepespor
+  - Karşıyaka SK  (2) Karşıyaka · Karşıyaka Spor Kulübü
+- **Adana** (2): 
+  - Adana Demirspor  (2) Ad. Demirspor · Adana Demir Spor Kulübü
+  - Adanaspor  (1) Adanaspor AŞ
+- **Erzurum** (2): 
+  - BB Erzurumspor  (2) Erzurum BB · Büyükşehir Belediye Erzurumspor
+  - Erzurumspor (1968-2015)  (1) Erzurum
+- **Gaziantep** (2): 
+  - Gaziantepspor 
+  - Gazişehir Gaziantep FK  (5) Gaziantep · Gaziantep FK · Gazişehir Gaziantep · Gaziş. Gaziantep · Gazişehir Gaziantep Futbol Kulübü
+- **Kayseri** (2): 
+  - Kayserispor  (2) Kayseri · Kayseri Spor Kulübü
+  - Kayseri Erciyesspor  (1) Erciyesspor
+- **Malatya** (2): 
+  - Malatyaspor  (2) Malatya SK · Malatya Spor Kulübü
+  - Yeni Malatyaspor  (2) Y. Malatyaspor · Yeni Malatya Spor Kulübü
+- **Adapazarı** (1): Sakaryaspor  (1) Sakaryaspor Kulübü Derneği
+- **Akhisar** (1): Akhisarspor  (4) Akhisar · Akhisar Bld.spor · Akhisar Belediyespor · Akhisar Belediye Gençlik ve Spor Kulübü
+- **Akçaabat** (1): Akçaabat Sebatspor  (1) A. Sebatspor
+- **Alanya** (1): Alanyaspor 
+- **Antakya** (1): Hatayspor 
+- **Antalya** (1): Antalyaspor  (2) Antalya · Antalyaspor Kulübü
+- **Balıkesir** (1): Balıkesirspor 
+- **Bolu** (1): Boluspor 
+- **Bursa** (1): Bursaspor 
+- **Denizli** (1): Denizlispor  (1) Denizlispor Kulübü
+- **Diyarbakır** (1): Diyarbakırspor  (1) Diyarbekirspor AŞ
+- **Elazığ** (1): Elazığspor 
+- **Eskişehir** (1): Eskişehirspor 
+- **Giresun** (1): Giresunspor 
+- **Karabük** (1): Kardemir Karabükspor  (1) Karabükspor
+- **Konya** (1): Konyaspor  (1) Atiker Konyaspor
+- **Manisa** (1): Manisaspor 
+- **Menemen** (1): Menemenspor  (4) Menemen Spor Kulübü · Menemen Belediye · Menemen Belediyespor · EG Menemenspor
+- **Mersin** (1): Mersin İdmanyurdu  (1) Mersin İdman Yurdu
+- **Ordu** (1): Orduspor 
+- **Rize** (1): Çaykur Rizespor  (1) Rizespor
+- **Samsun** (1): Samsunspor  (1) Samsunspor Kulübü Derneği
+- **Siirt** (1): Siirtspor  (2) Siirt SK · Siirt Jet-PA
+- **Sivas** (1): Sivasspor 
+- **Trabzon** (1): Trabzonspor AŞ  (1) Trabzonspor
+- **Van** (1): Vanspor FK  (2) Vanspor · Van Büyükşehir Belediyespor
+- **Yozgat** (1): Yozgatspor  (1) Yozgatspor Kulübü
+- **Çanakkale** (1): Çanakkale Dardanelspor  (2) Dardanelspor · Çanakkale Dardanel SK
+- **İzmit** (1): Kocaelispor  (1) Kocaelispor Kulübü
+
+
