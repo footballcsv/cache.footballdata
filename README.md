@@ -62,7 +62,7 @@ The club names get copied as is incl. typos.
 
 The league codes (`E0`, `E1`, `D1`, `D2`, ...) get changed to
 the football.db "standard" using two letter ISO codes for countries
-and if now ISO code exists (e.g. for England, Scotland) than the three letter FIFA codes for countries (e.g. ENG, SCO) get used.
+and if no ISO code exists (e.g. for England, Scotland) than the three letter FIFA codes for countries (e.g. ENG, SCO) get used.
 
 The original football datasets come in two flavors / formats.
 The main leagues use season-by-season datafiles.
