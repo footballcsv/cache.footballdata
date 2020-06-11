@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 4 2018,Accrington,0-2,0-2,Gillingham
+Sat Aug 4 2018,Barnsley,4-0,2-0,Oxford
+Sat Aug 4 2018,Burton,1-2,0-2,Rochdale
+Sat Aug 4 2018,Coventry,1-2,0-0,Scunthorpe
+Sat Aug 4 2018,Fleetwood Town,0-1,0-0,AFC Wimbledon
+Sat Aug 4 2018,Peterboro,2-1,2-0,Bristol Rvs
+Sat Aug 4 2018,Portsmouth,1-0,1-0,Luton
+Sat Aug 4 2018,Shrewsbury,0-1,0-1,Bradford
+Sat Aug 4 2018,Southend,2-3,0-0,Doncaster
+Sat Aug 4 2018,Sunderland,2-1,0-1,Charlton
+Sat Aug 4 2018,Walsall,2-1,1-1,Plymouth
+Sat Aug 4 2018,Wycombe,0-0,0-0,Blackpool
+Sat Aug 11 2018,AFC Wimbledon,0-0,0-0,Coventry
+Sat Aug 11 2018,Blackpool,1-2,0-1,Portsmouth
+Sat Aug 11 2018,Bradford,0-2,0-1,Barnsley
+Sat Aug 11 2018,Bristol Rvs,1-2,0-1,Accrington
+Sat Aug 11 2018,Charlton,2-1,0-0,Shrewsbury
+Sat Aug 11 2018,Doncaster,3-0,0-0,Wycombe
+Sat Aug 11 2018,Gillingham,3-1,1-1,Burton
+Sat Aug 11 2018,Luton,1-1,0-1,Sunderland
+Sat Aug 11 2018,Oxford,0-2,0-1,Fleetwood Town
+Sat Aug 11 2018,Plymouth,1-1,1-1,Southend
+Sat Aug 11 2018,Rochdale,1-4,1-3,Peterboro
+Sat Aug 11 2018,Scunthorpe,1-1,0-0,Walsall
+Sat Aug 18 2018,Accrington,1-1,0-1,Charlton
+Sat Aug 18 2018,Barnsley,0-0,0-0,AFC Wimbledon
+Sat Aug 18 2018,Burton,1-0,0-0,Doncaster
+Sat Aug 18 2018,Coventry,1-0,1-0,Plymouth
+Sat Aug 18 2018,Fleetwood Town,2-2,1-0,Rochdale
+Sat Aug 18 2018,Peterboro,3-1,3-0,Luton
+Sat Aug 18 2018,Portsmouth,4-1,0-0,Oxford
+Sat Aug 18 2018,Shrewsbury,0-0,0-0,Blackpool
+Sat Aug 18 2018,Southend,2-0,0-0,Bradford
+Sat Aug 18 2018,Walsall,2-1,2-0,Gillingham
+Sat Aug 18 2018,Wycombe,1-2,0-2,Bristol Rvs
+Sun Aug 19 2018,Sunderland,3-0,3-0,Scunthorpe
+Tue Aug 21 2018,AFC Wimbledon,1-3,0-1,Walsall
+Tue Aug 21 2018,Blackpool,2-0,0-0,Coventry
+Tue Aug 21 2018,Bradford,1-0,1-0,Burton
+Tue Aug 21 2018,Bristol Rvs,1-2,0-1,Portsmouth
+Tue Aug 21 2018,Charlton,0-1,0-0,Peterboro
+Tue Aug 21 2018,Doncaster,0-0,0-0,Shrewsbury
+Tue Aug 21 2018,Luton,2-0,2-0,Southend
+Tue Aug 21 2018,Oxford,2-3,1-1,Accrington
+Tue Aug 21 2018,Plymouth,1-1,1-0,Wycombe
+Tue Aug 21 2018,Rochdale,0-4,0-2,Barnsley
+Wed Aug 22 2018,Gillingham,1-4,1-3,Sunderland
+Wed Aug 22 2018,Scunthorpe,0-5,0-4,Fleetwood Town
+Sat Aug 25 2018,AFC Wimbledon,1-2,1-0,Sunderland
+Sat Aug 25 2018,Blackpool,1-1,0-0,Accrington
+Sat Aug 25 2018,Bradford,1-2,0-1,Wycombe
+Sat Aug 25 2018,Bristol Rvs,0-1,0-1,Southend
+Sat Aug 25 2018,Charlton,0-0,0-0,Fleetwood Town
+Sat Aug 25 2018,Doncaster,0-0,0-0,Portsmouth
+Sat Aug 25 2018,Gillingham,1-1,0-0,Coventry
+Sat Aug 25 2018,Luton,3-2,0-1,Shrewsbury
+Sat Aug 25 2018,Oxford,3-1,1-1,Burton
+Sat Aug 25 2018,Plymouth,1-5,0-2,Peterboro
+Sat Aug 25 2018,Rochdale,1-2,0-1,Walsall
+Sat Aug 25 2018,Scunthorpe,2-2,1-0,Barnsley
+Sat Sep 1 2018,Accrington,1-1,0-0,Scunthorpe
+Sat Sep 1 2018,Barnsley,2-1,2-0,Gillingham
+Sat Sep 1 2018,Burton,3-0,1-0,AFC Wimbledon
+Sat Sep 1 2018,Coventry,0-1,0-0,Rochdale
+Sat Sep 1 2018,Fleetwood Town,2-1,1-1,Bradford
+Sat Sep 1 2018,Peterboro,1-1,0-1,Doncaster
+Sat Sep 1 2018,Portsmouth,3-0,1-0,Plymouth
+Sat Sep 1 2018,Shrewsbury,1-1,0-0,Bristol Rvs
+Sat Sep 1 2018,Southend,1-2,0-0,Charlton
+Sat Sep 1 2018,Sunderland,1-1,0-1,Oxford
+Sat Sep 1 2018,Walsall,0-0,0-0,Blackpool
+Sat Sep 1 2018,Wycombe,1-1,1-0,Luton
+Sat Sep 8 2018,Accrington,1-1,0-1,Burton
+Sat Sep 8 2018,Barnsley,1-1,0-0,Walsall
+Sat Sep 8 2018,Blackpool,3-2,0-0,Bradford
+Sat Sep 8 2018,Bristol Rvs,0-0,0-0,Plymouth
+Sat Sep 8 2018,Charlton,3-2,1-1,Wycombe
+Sat Sep 8 2018,Doncaster,2-1,1-1,Luton
+Sat Sep 8 2018,Gillingham,0-1,0-0,AFC Wimbledon
+Sat Sep 8 2018,Portsmouth,1-1,0-0,Shrewsbury
+Sat Sep 8 2018,Scunthorpe,3-3,2-0,Rochdale
+Sat Sep 8 2018,Southend,2-3,0-1,Peterboro
+Sat Sep 8 2018,Sunderland,1-1,1-1,Fleetwood Town
+Sun Sep 9 2018,Oxford,1-2,0-0,Coventry
+Sat Sep 15 2018,AFC Wimbledon,2-3,0-2,Scunthorpe
+Sat Sep 15 2018,Bradford,0-2,0-1,Charlton
+Sat Sep 15 2018,Burton,2-1,2-0,Sunderland
+Sat Sep 15 2018,Coventry,1-0,0-0,Barnsley
+Sat Sep 15 2018,Fleetwood Town,1-1,1-0,Accrington
+Sat Sep 15 2018,Luton,1-0,0-0,Bristol Rvs
+Sat Sep 15 2018,Peterboro,1-2,0-0,Portsmouth
+Sat Sep 15 2018,Plymouth,0-1,0-1,Blackpool
+Sat Sep 15 2018,Rochdale,3-0,2-0,Gillingham
+Sat Sep 15 2018,Shrewsbury,2-0,2-0,Southend
+Sat Sep 15 2018,Walsall,1-4,1-1,Doncaster
+Sat Sep 15 2018,Wycombe,0-0,0-0,Oxford
+Sat Sep 22 2018,Accrington,2-1,1-0,AFC Wimbledon
+Sat Sep 22 2018,Blackpool,0-0,0-0,Luton
+Sat Sep 22 2018,Bristol Rvs,3-1,3-1,Coventry
+Sat Sep 22 2018,Charlton,2-1,1-1,Plymouth
+Sat Sep 22 2018,Doncaster,2-1,1-0,Bradford
+Sat Sep 22 2018,Gillingham,2-4,0-1,Peterboro
+Sat Sep 22 2018,Oxford,1-2,0-1,Walsall
+Sat Sep 22 2018,Portsmouth,2-2,0-1,Wycombe
+Sat Sep 22 2018,Scunthorpe,1-0,0-0,Shrewsbury
+Sat Sep 22 2018,Southend,1-0,0-0,Fleetwood Town
+Sat Sep 22 2018,Sunderland,4-1,3-0,Rochdale
+Sat Sep 29 2018,AFC Wimbledon,2-1,2-1,Oxford
+Sat Sep 29 2018,Bradford,0-0,0-0,Bristol Rvs
+Sat Sep 29 2018,Burton,0-0,0-0,Scunthorpe
+Sat Sep 29 2018,Coventry,1-1,0-0,Sunderland
+Sat Sep 29 2018,Fleetwood Town,1-3,1-2,Barnsley
+Sat Sep 29 2018,Luton,2-2,0-1,Charlton
+Sat Sep 29 2018,Peterboro,2-2,1-0,Blackpool
+Sat Sep 29 2018,Plymouth,2-3,1-1,Doncaster
+Sat Sep 29 2018,Rochdale,1-3,1-1,Portsmouth
+Sat Sep 29 2018,Shrewsbury,2-2,0-1,Gillingham
+Sat Sep 29 2018,Walsall,0-1,0-1,Accrington
+Sat Sep 29 2018,Wycombe,2-3,0-1,Southend
+Tue Oct 2 2018,Accrington,1-0,0-0,Doncaster
+Tue Oct 2 2018,AFC Wimbledon,0-1,0-1,Bradford
+Tue Oct 2 2018,Barnsley,1-1,1-1,Plymouth
+Tue Oct 2 2018,Burton,1-2,1-0,Southend
+Tue Oct 2 2018,Coventry,0-1,0-1,Portsmouth
+Tue Oct 2 2018,Fleetwood Town,1-1,1-0,Wycombe
+Tue Oct 2 2018,Oxford,1-2,0-0,Luton
+Tue Oct 2 2018,Rochdale,0-0,0-0,Bristol Rvs
+Tue Oct 2 2018,Scunthorpe,5-3,3-2,Charlton
+Tue Oct 2 2018,Sunderland,2-2,1-0,Peterboro
+Tue Oct 2 2018,Walsall,0-0,0-0,Shrewsbury
+Sat Oct 6 2018,Blackpool,2-2,2-1,Rochdale
+Sat Oct 6 2018,Bradford,1-2,0-1,Sunderland
+Sat Oct 6 2018,Bristol Rvs,0-1,0-0,Walsall
+Sat Oct 6 2018,Charlton,1-2,1-0,Coventry
+Sat Oct 6 2018,Doncaster,0-4,0-3,Fleetwood Town
+Sat Oct 6 2018,Luton,3-2,2-1,Scunthorpe
+Sat Oct 6 2018,Peterboro,0-4,0-2,Barnsley
+Sat Oct 6 2018,Plymouth,1-0,0-0,AFC Wimbledon
+Sat Oct 6 2018,Portsmouth,0-2,0-2,Gillingham
+Sat Oct 6 2018,Shrewsbury,1-0,0-0,Accrington
+Sat Oct 6 2018,Southend,0-0,0-0,Oxford
+Sat Oct 6 2018,Wycombe,2-1,2-0,Burton
+Sat Oct 13 2018,Accrington,3-1,1-0,Bradford
+Sat Oct 13 2018,AFC Wimbledon,1-2,0-2,Portsmouth
+Sat Oct 13 2018,Barnsley,3-2,2-1,Luton
+Sat Oct 13 2018,Burton,1-0,0-0,Bristol Rvs
+Sat Oct 13 2018,Coventry,1-0,0-0,Wycombe
+Sat Oct 13 2018,Fleetwood Town,2-1,2-0,Shrewsbury
+Sat Oct 13 2018,Gillingham,0-2,0-0,Southend
+Sat Oct 13 2018,Oxford,2-0,1-0,Plymouth
+Sat Oct 13 2018,Rochdale,2-3,0-1,Doncaster
+Sat Oct 13 2018,Scunthorpe,0-2,0-0,Peterboro
+Sat Oct 20 2018,Blackpool,2-0,1-0,AFC Wimbledon
+Sat Oct 20 2018,Bradford,0-2,0-0,Rochdale
+Sat Oct 20 2018,Bristol Rvs,0-0,0-0,Oxford
+Sat Oct 20 2018,Charlton,2-0,1-0,Barnsley
+Sat Oct 20 2018,Doncaster,3-3,0-2,Gillingham
+Sat Oct 20 2018,Luton,2-0,1-0,Walsall
+Sat Oct 20 2018,Peterboro,0-1,0-1,Accrington
+Sat Oct 20 2018,Plymouth,2-3,2-2,Burton
+Sat Oct 20 2018,Portsmouth,1-0,0-0,Fleetwood Town
+Sat Oct 20 2018,Shrewsbury,0-2,0-0,Sunderland
+Sat Oct 20 2018,Southend,1-2,0-1,Coventry
+Sat Oct 20 2018,Wycombe,3-2,1-2,Scunthorpe
+Tue Oct 23 2018,Blackpool,1-0,1-0,Scunthorpe
+Tue Oct 23 2018,Bradford,2-4,0-2,Coventry
+Tue Oct 23 2018,Bristol Rvs,2-0,1-0,AFC Wimbledon
+Tue Oct 23 2018,Charlton,1-1,1-0,Oxford
+Tue Oct 23 2018,Doncaster,0-1,0-0,Sunderland
+Tue Oct 23 2018,Luton,4-1,1-1,Accrington
+Tue Oct 23 2018,Peterboro,1-0,0-0,Fleetwood Town
+Tue Oct 23 2018,Plymouth,3-1,2-0,Gillingham
+Tue Oct 23 2018,Portsmouth,2-2,1-0,Burton
+Tue Oct 23 2018,Shrewsbury,3-1,2-0,Barnsley
+Tue Oct 23 2018,Southend,3-0,1-0,Walsall
+Tue Oct 23 2018,Wycombe,3-0,1-0,Rochdale
+Sat Oct 27 2018,Accrington,1-1,0-0,Portsmouth
+Sat Oct 27 2018,AFC Wimbledon,0-2,0-0,Luton
+Sat Oct 27 2018,Barnsley,1-0,1-0,Bristol Rvs
+Sat Oct 27 2018,Burton,1-2,0-1,Peterboro
+Sat Oct 27 2018,Coventry,2-1,2-0,Doncaster
+Sat Oct 27 2018,Fleetwood Town,3-2,2-1,Blackpool
+Sat Oct 27 2018,Gillingham,4-0,0-0,Bradford
+Sat Oct 27 2018,Oxford,3-0,2-0,Shrewsbury
+Sat Oct 27 2018,Rochdale,1-0,1-0,Charlton
+Sat Oct 27 2018,Scunthorpe,1-4,0-2,Plymouth
+Sat Oct 27 2018,Sunderland,3-0,1-0,Southend
+Sat Oct 27 2018,Walsall,3-2,1-0,Wycombe
+Sat Nov 3 2018,AFC Wimbledon,1-2,1-0,Shrewsbury
+Sat Nov 3 2018,Barnsley,1-0,0-0,Southend
+Sat Nov 3 2018,Blackpool,0-3,0-0,Bristol Rvs
+Sat Nov 3 2018,Bradford,0-1,0-1,Portsmouth
+Sat Nov 3 2018,Charlton,2-0,2-0,Doncaster
+Sat Nov 3 2018,Coventry,1-1,0-0,Accrington
+Sat Nov 3 2018,Gillingham,3-0,2-0,Fleetwood Town
+Sat Nov 3 2018,Plymouth,0-2,0-0,Sunderland
+Sat Nov 3 2018,Rochdale,0-0,0-0,Luton
+Sat Nov 3 2018,Scunthorpe,3-3,0-1,Oxford
+Sat Nov 3 2018,Walsall,1-3,0-2,Burton
+Sat Nov 3 2018,Wycombe,1-0,0-0,Peterboro
+Tue Nov 6 2018,Gillingham,0-1,0-0,Blackpool
+Tue Nov 6 2018,Walsall,0-2,0-1,Charlton
+Sat Nov 17 2018,Accrington,0-2,0-1,Barnsley
+Sat Nov 17 2018,Bristol Rvs,1-2,1-1,Scunthorpe
+Sat Nov 17 2018,Burton,1-0,0-0,Coventry
+Sat Nov 17 2018,Doncaster,2-1,1-1,AFC Wimbledon
+Sat Nov 17 2018,Fleetwood Town,0-0,0-0,Walsall
+Sat Nov 17 2018,Luton,5-1,4-0,Plymouth
+Sat Nov 17 2018,Oxford,1-0,0-0,Gillingham
+Sat Nov 17 2018,Peterboro,1-1,0-1,Bradford
+Sat Nov 17 2018,Shrewsbury,3-2,1-1,Rochdale
+Sat Nov 17 2018,Southend,1-2,0-1,Blackpool
+Sat Nov 17 2018,Sunderland,1-1,0-0,Wycombe
+Fri Nov 23 2018,Coventry,1-1,0-0,Peterboro
+Sat Nov 24 2018,AFC Wimbledon,2-1,1-1,Southend
+Sat Nov 24 2018,Barnsley,1-1,0-0,Doncaster
+Sat Nov 24 2018,Blackpool,3-0,0-0,Burton
+Sat Nov 24 2018,Bradford,2-0,2-0,Oxford
+Sat Nov 24 2018,Charlton,3-1,2-1,Bristol Rvs
+Sat Nov 24 2018,Gillingham,1-3,0-1,Luton
+Sat Nov 24 2018,Plymouth,2-1,0-0,Fleetwood Town
+Sat Nov 24 2018,Rochdale,1-0,0-0,Accrington
+Sat Nov 24 2018,Scunthorpe,1-2,0-2,Portsmouth
+Sat Nov 24 2018,Walsall,2-2,0-0,Sunderland
+Sat Nov 24 2018,Wycombe,3-2,2-1,Shrewsbury
+Tue Nov 27 2018,Accrington,1-2,1-0,Wycombe
+Tue Nov 27 2018,Bristol Rvs,1-2,0-1,Gillingham
+Tue Nov 27 2018,Burton,1-2,1-1,Charlton
+Tue Nov 27 2018,Doncaster,2-0,1-0,Blackpool
+Tue Nov 27 2018,Fleetwood Town,3-0,0-0,Coventry
+Tue Nov 27 2018,Luton,4-0,3-0,Bradford
+Tue Nov 27 2018,Oxford,4-2,2-1,Rochdale
+Tue Nov 27 2018,Peterboro,1-0,0-0,AFC Wimbledon
+Tue Nov 27 2018,Portsmouth,2-0,1-0,Walsall
+Tue Nov 27 2018,Shrewsbury,2-0,1-0,Plymouth
+Tue Nov 27 2018,Southend,2-0,1-0,Scunthorpe
+Tue Nov 27 2018,Sunderland,4-2,3-1,Barnsley
+Sat Dec 8 2018,AFC Wimbledon,1-1,0-1,Rochdale
+Sat Dec 8 2018,Blackpool,2-1,1-0,Charlton
+Sat Dec 8 2018,Bristol Rvs,0-4,0-2,Doncaster
+Sat Dec 8 2018,Burton,2-1,1-0,Shrewsbury
+Sat Dec 8 2018,Luton,2-0,1-0,Fleetwood Town
+Sat Dec 8 2018,Peterboro,2-2,1-1,Oxford
+Sat Dec 8 2018,Plymouth,3-3,1-2,Bradford
+Sat Dec 8 2018,Portsmouth,2-0,2-0,Southend
+Sat Dec 8 2018,Scunthorpe,0-2,0-0,Gillingham
+Sat Dec 8 2018,Walsall,2-1,0-1,Coventry
+Sat Dec 8 2018,Wycombe,1-0,0-0,Barnsley
+Tue Dec 11 2018,Portsmouth,1-2,0-2,Charlton
+Sat Dec 15 2018,Barnsley,1-1,0-1,Portsmouth
+Sat Dec 15 2018,Bradford,4-0,1-0,Walsall
+Sat Dec 15 2018,Charlton,2-0,0-0,AFC Wimbledon
+Sat Dec 15 2018,Coventry,1-2,0-1,Luton
+Sat Dec 15 2018,Doncaster,3-0,2-0,Scunthorpe
+Sat Dec 15 2018,Fleetwood Town,1-0,0-0,Burton
+Sat Dec 15 2018,Gillingham,2-2,0-2,Wycombe
+Sat Dec 15 2018,Oxford,2-0,2-0,Blackpool
+Sat Dec 15 2018,Rochdale,1-2,0-0,Plymouth
+Sat Dec 15 2018,Shrewsbury,2-2,1-1,Peterboro
+Sat Dec 15 2018,Southend,3-0,2-0,Accrington
+Sat Dec 15 2018,Sunderland,2-1,1-1,Bristol Rvs
+Sat Dec 22 2018,Blackpool,0-1,0-0,Barnsley
+Sat Dec 22 2018,Bradford,2-0,2-0,Scunthorpe
+Sat Dec 22 2018,Bristol Rvs,2-1,1-1,Fleetwood Town
+Sat Dec 22 2018,Charlton,2-0,2-0,Gillingham
+Sat Dec 22 2018,Doncaster,2-2,1-0,Oxford
+Sat Dec 22 2018,Luton,2-0,1-0,Burton
+Sat Dec 22 2018,Peterboro,1-1,0-1,Walsall
+Sat Dec 22 2018,Plymouth,0-3,0-0,Accrington
+Sat Dec 22 2018,Portsmouth,3-1,0-0,Sunderland
+Sat Dec 22 2018,Shrewsbury,1-0,0-0,Coventry
+Sat Dec 22 2018,Southend,1-2,0-1,Rochdale
+Sat Dec 22 2018,Wycombe,1-2,0-1,AFC Wimbledon
+Wed Dec 26 2018,Accrington,2-1,2-0,Shrewsbury
+Wed Dec 26 2018,AFC Wimbledon,2-1,1-1,Plymouth
+Wed Dec 26 2018,Barnsley,2-0,1-0,Peterboro
+Wed Dec 26 2018,Burton,3-1,3-1,Wycombe
+Wed Dec 26 2018,Coventry,2-1,1-0,Charlton
+Wed Dec 26 2018,Fleetwood Town,3-0,1-0,Doncaster
+Wed Dec 26 2018,Gillingham,2-0,1-0,Portsmouth
+Wed Dec 26 2018,Oxford,0-1,0-0,Southend
+Wed Dec 26 2018,Rochdale,2-1,1-1,Blackpool
+Wed Dec 26 2018,Scunthorpe,0-2,0-1,Luton
+Wed Dec 26 2018,Sunderland,1-0,1-0,Bradford
+Wed Dec 26 2018,Walsall,1-3,1-2,Bristol Rvs
+Sat Dec 29 2018,Accrington,0-4,0-2,Peterboro
+Sat Dec 29 2018,AFC Wimbledon,0-0,0-0,Blackpool
+Sat Dec 29 2018,Barnsley,2-1,2-0,Charlton
+Sat Dec 29 2018,Burton,1-1,1-0,Plymouth
+Sat Dec 29 2018,Coventry,1-0,0-0,Southend
+Sat Dec 29 2018,Fleetwood Town,2-5,2-1,Portsmouth
+Sat Dec 29 2018,Gillingham,1-3,0-1,Doncaster
+Sat Dec 29 2018,Oxford,0-2,0-1,Bristol Rvs
+Sat Dec 29 2018,Rochdale,0-4,0-1,Bradford
+Sat Dec 29 2018,Scunthorpe,1-0,1-0,Wycombe
+Sat Dec 29 2018,Sunderland,1-1,1-1,Shrewsbury
+Sat Dec 29 2018,Walsall,2-2,1-0,Luton
+Tue Jan 1 2019,Blackpool,0-1,0-1,Sunderland
+Tue Jan 1 2019,Bradford,3-0,2-0,Accrington
+Tue Jan 1 2019,Bristol Rvs,0-0,0-0,Burton
+Tue Jan 1 2019,Charlton,2-1,2-0,Walsall
+Tue Jan 1 2019,Doncaster,5-0,3-0,Rochdale
+Tue Jan 1 2019,Luton,0-0,0-0,Barnsley
+Tue Jan 1 2019,Peterboro,0-2,0-1,Scunthorpe
+Tue Jan 1 2019,Plymouth,3-0,2-0,Oxford
+Tue Jan 1 2019,Portsmouth,2-1,1-0,AFC Wimbledon
+Tue Jan 1 2019,Shrewsbury,0-0,0-0,Fleetwood Town
+Tue Jan 1 2019,Southend,2-0,1-0,Gillingham
+Tue Jan 1 2019,Wycombe,0-2,0-1,Coventry
+Sat Jan 5 2019,Charlton,1-1,0-1,Sunderland
+Sat Jan 5 2019,Rochdale,0-4,0-2,Burton
+Sat Jan 5 2019,Scunthorpe,2-1,0-0,Coventry
+Sat Jan 12 2019,Accrington,0-0,0-0,Bristol Rvs
+Sat Jan 12 2019,Barnsley,3-0,2-0,Bradford
+Sat Jan 12 2019,Burton,2-3,0-2,Gillingham
+Sat Jan 12 2019,Coventry,1-1,0-1,AFC Wimbledon
+Sat Jan 12 2019,Fleetwood Town,2-2,2-0,Oxford
+Sat Jan 12 2019,Peterboro,2-1,1-0,Rochdale
+Sat Jan 12 2019,Portsmouth,0-1,0-0,Blackpool
+Sat Jan 12 2019,Shrewsbury,0-3,0-1,Charlton
+Sat Jan 12 2019,Southend,2-3,0-1,Plymouth
+Sat Jan 12 2019,Sunderland,1-1,1-0,Luton
+Sat Jan 12 2019,Walsall,1-2,0-1,Scunthorpe
+Sat Jan 12 2019,Wycombe,3-2,0-0,Doncaster
+Sat Jan 19 2019,AFC Wimbledon,1-4,1-1,Barnsley
+Sat Jan 19 2019,Blackpool,0-0,0-0,Shrewsbury
+Sat Jan 19 2019,Bradford,0-4,0-2,Southend
+Sat Jan 19 2019,Bristol Rvs,0-1,0-0,Wycombe
+Sat Jan 19 2019,Charlton,1-0,0-0,Accrington
+Sat Jan 19 2019,Doncaster,2-2,0-1,Burton
+Sat Jan 19 2019,Gillingham,0-3,0-2,Walsall
+Sat Jan 19 2019,Luton,4-0,2-0,Peterboro
+Sat Jan 19 2019,Oxford,2-1,2-0,Portsmouth
+Sat Jan 19 2019,Plymouth,2-1,0-0,Coventry
+Sat Jan 19 2019,Rochdale,1-1,0-1,Fleetwood Town
+Sat Jan 19 2019,Scunthorpe,1-1,0-0,Sunderland
+Tue Jan 22 2019,AFC Wimbledon,0-3,0-2,Fleetwood Town
+Tue Jan 22 2019,Plymouth,2-1,0-0,Walsall
+Sat Jan 26 2019,Barnsley,2-1,0-0,Rochdale
+Sat Jan 26 2019,Burton,1-1,1-0,Bradford
+Sat Jan 26 2019,Coventry,0-2,0-0,Blackpool
+Sat Jan 26 2019,Fleetwood Town,0-1,0-0,Scunthorpe
+Sat Jan 26 2019,Peterboro,0-0,0-0,Charlton
+Sat Jan 26 2019,Southend,0-1,0-1,Luton
+Sat Jan 26 2019,Wycombe,1-0,1-0,Plymouth
+Tue Jan 29 2019,Blackpool,2-2,0-1,Wycombe
+Tue Jan 29 2019,Bradford,4-3,2-1,Shrewsbury
+Tue Jan 29 2019,Bristol Rvs,2-2,2-1,Peterboro
+Tue Jan 29 2019,Gillingham,0-0,0-0,Accrington
+Tue Jan 29 2019,Luton,3-2,1-0,Portsmouth
+Tue Jan 29 2019,Oxford,2-2,1-0,Barnsley
+Sat Feb 2 2019,Barnsley,2-0,2-0,Scunthorpe
+Sat Feb 2 2019,Burton,0-0,0-0,Oxford
+Sat Feb 2 2019,Coventry,1-1,0-0,Gillingham
+Sat Feb 2 2019,Fleetwood Town,1-0,0-0,Charlton
+Sat Feb 2 2019,Peterboro,0-1,0-0,Plymouth
+Sat Feb 2 2019,Portsmouth,1-1,0-1,Doncaster
+Sat Feb 2 2019,Shrewsbury,0-3,0-1,Luton
+Sat Feb 2 2019,Southend,1-2,1-2,Bristol Rvs
+Sat Feb 2 2019,Sunderland,1-0,0-0,AFC Wimbledon
+Sat Feb 2 2019,Walsall,1-2,1-1,Rochdale
+Sat Feb 2 2019,Wycombe,0-0,0-0,Bradford
+Sat Feb 9 2019,AFC Wimbledon,0-2,0-1,Burton
+Sat Feb 9 2019,Blackpool,2-0,1-0,Walsall
+Sat Feb 9 2019,Bradford,0-1,0-1,Fleetwood Town
+Sat Feb 9 2019,Bristol Rvs,1-1,0-1,Shrewsbury
+Sat Feb 9 2019,Charlton,1-1,0-1,Southend
+Sat Feb 9 2019,Doncaster,3-1,0-1,Peterboro
+Sat Feb 9 2019,Gillingham,1-4,0-2,Barnsley
+Sat Feb 9 2019,Luton,3-0,1-0,Wycombe
+Sat Feb 9 2019,Oxford,1-1,0-1,Sunderland
+Sat Feb 9 2019,Plymouth,1-1,0-0,Portsmouth
+Sat Feb 9 2019,Rochdale,0-1,0-0,Coventry
+Sat Feb 9 2019,Scunthorpe,2-0,2-0,Accrington
+Tue Feb 12 2019,Doncaster,3-0,1-0,Southend
+Tue Feb 12 2019,Sunderland,1-1,0-1,Blackpool
+Tue Feb 12 2019,Walsall,0-1,0-0,AFC Wimbledon
+Fri Feb 15 2019,Sunderland,2-2,0-1,Accrington
+Sat Feb 16 2019,Barnsley,2-1,1-0,Wycombe
+Sat Feb 16 2019,Bradford,0-0,0-0,Plymouth
+Sat Feb 16 2019,Charlton,0-0,0-0,Blackpool
+Sat Feb 16 2019,Coventry,3-0,2-0,Walsall
+Sat Feb 16 2019,Fleetwood Town,1-2,0-1,Luton
+Sat Feb 16 2019,Gillingham,1-0,1-0,Scunthorpe
+Sat Feb 16 2019,Oxford,0-1,0-0,Peterboro
+Sat Feb 16 2019,Shrewsbury,1-1,1-1,Burton
+Sat Feb 16 2019,Southend,3-3,1-3,Portsmouth
+Tue Feb 19 2019,Accrington,4-2,1-0,Oxford
+Tue Feb 19 2019,Barnsley,0-0,0-0,Burton
+Tue Feb 19 2019,Portsmouth,1-1,0-1,Bristol Rvs
+Tue Feb 19 2019,Rochdale,3-4,2-1,AFC Wimbledon
+Tue Feb 19 2019,Sunderland,4-2,2-2,Gillingham
+Sat Feb 23 2019,Accrington,1-1,0-1,Southend
+Sat Feb 23 2019,AFC Wimbledon,1-2,1-0,Charlton
+Sat Feb 23 2019,Blackpool,0-1,0-1,Oxford
+Sat Feb 23 2019,Bristol Rvs,0-2,0-1,Sunderland
+Sat Feb 23 2019,Burton,0-1,0-0,Fleetwood Town
+Sat Feb 23 2019,Peterboro,1-2,1-2,Shrewsbury
+Sat Feb 23 2019,Plymouth,5-1,1-0,Rochdale
+Sat Feb 23 2019,Portsmouth,0-0,0-0,Barnsley
+Sat Feb 23 2019,Scunthorpe,1-1,0-1,Doncaster
+Sat Feb 23 2019,Walsall,3-2,1-1,Bradford
+Sat Feb 23 2019,Wycombe,0-1,0-0,Gillingham
+Sun Feb 24 2019,Luton,1-1,1-1,Coventry
+Tue Feb 26 2019,Shrewsbury,2-0,2-0,Doncaster
+Sat Mar 2 2019,Accrington,0-1,0-0,Coventry
+Sat Mar 2 2019,Bristol Rvs,4-0,2-0,Blackpool
+Sat Mar 2 2019,Burton,0-0,0-0,Walsall
+Sat Mar 2 2019,Doncaster,1-1,0-0,Charlton
+Sat Mar 2 2019,Fleetwood Town,1-1,0-0,Gillingham
+Sat Mar 2 2019,Luton,2-0,0-0,Rochdale
+Sat Mar 2 2019,Oxford,2-1,0-0,Scunthorpe
+Sat Mar 2 2019,Peterboro,4-2,3-2,Wycombe
+Sat Mar 2 2019,Portsmouth,5-1,2-0,Bradford
+Sat Mar 2 2019,Shrewsbury,0-0,0-0,AFC Wimbledon
+Sat Mar 2 2019,Southend,0-3,0-0,Barnsley
+Sat Mar 2 2019,Sunderland,2-0,1-0,Plymouth
+Tue Mar 5 2019,Accrington,1-2,1-1,Blackpool
+Fri Mar 8 2019,Coventry,1-2,0-1,Burton
+Sat Mar 9 2019,AFC Wimbledon,2-0,0-0,Doncaster
+Sat Mar 9 2019,Barnsley,2-0,2-0,Accrington
+Sat Mar 9 2019,Blackpool,2-2,1-1,Southend
+Sat Mar 9 2019,Bradford,3-1,0-0,Peterboro
+Sat Mar 9 2019,Charlton,2-1,1-1,Portsmouth
+Sat Mar 9 2019,Gillingham,1-0,0-0,Oxford
+Sat Mar 9 2019,Plymouth,0-0,0-0,Luton
+Sat Mar 9 2019,Rochdale,2-1,1-0,Shrewsbury
+Sat Mar 9 2019,Scunthorpe,0-1,0-1,Bristol Rvs
+Sat Mar 9 2019,Walsall,2-0,0-0,Fleetwood Town
+Sat Mar 9 2019,Wycombe,1-1,1-0,Sunderland
+Tue Mar 12 2019,AFC Wimbledon,1-0,0-0,Peterboro
+Tue Mar 12 2019,Barnsley,0-0,0-0,Sunderland
+Tue Mar 12 2019,Blackpool,1-1,0-0,Doncaster
+Tue Mar 12 2019,Bradford,0-1,0-1,Luton
+Tue Mar 12 2019,Charlton,2-1,2-1,Burton
+Tue Mar 12 2019,Coventry,2-1,2-1,Fleetwood Town
+Tue Mar 12 2019,Gillingham,0-1,0-0,Bristol Rvs
+Tue Mar 12 2019,Plymouth,2-1,1-0,Shrewsbury
+Tue Mar 12 2019,Rochdale,0-0,0-0,Oxford
+Tue Mar 12 2019,Scunthorpe,4-1,1-1,Southend
+Tue Mar 12 2019,Walsall,2-3,0-2,Portsmouth
+Tue Mar 12 2019,Wycombe,1-3,1-1,Accrington
+Fri Mar 15 2019,Doncaster,0-0,0-0,Barnsley
+Sat Mar 16 2019,Bristol Rvs,0-0,0-0,Charlton
+Sat Mar 16 2019,Burton,3-0,2-0,Blackpool
+Sat Mar 16 2019,Fleetwood Town,2-0,0-0,Plymouth
+Sat Mar 16 2019,Luton,2-2,1-0,Gillingham
+Sat Mar 16 2019,Oxford,1-0,0-0,Bradford
+Sat Mar 16 2019,Peterboro,1-2,0-1,Coventry
+Sat Mar 16 2019,Portsmouth,2-0,0-0,Scunthorpe
+Sat Mar 16 2019,Shrewsbury,2-1,0-0,Wycombe
+Sat Mar 16 2019,Southend,0-1,0-0,AFC Wimbledon
+Sat Mar 16 2019,Sunderland,2-1,1-1,Walsall
+Sat Mar 23 2019,AFC Wimbledon,2-4,1-2,Gillingham
+Sat Mar 23 2019,Bradford,1-4,0-1,Blackpool
+Sat Mar 23 2019,Burton,5-2,1-2,Accrington
+Sat Mar 23 2019,Coventry,0-1,0-0,Oxford
+Sat Mar 23 2019,Luton,4-0,1-0,Doncaster
+Sat Mar 23 2019,Peterboro,2-0,1-0,Southend
+Sat Mar 23 2019,Plymouth,2-2,0-0,Bristol Rvs
+Sat Mar 23 2019,Rochdale,3-1,1-1,Scunthorpe
+Sat Mar 23 2019,Shrewsbury,0-2,0-1,Portsmouth
+Sat Mar 23 2019,Walsall,0-1,0-0,Barnsley
+Tue Mar 26 2019,Doncaster,4-1,3-0,Bristol Rvs
+Sat Mar 30 2019,Accrington,0-1,0-0,Fleetwood Town
+Sat Mar 30 2019,Barnsley,2-2,1-1,Coventry
+Sat Mar 30 2019,Blackpool,2-2,0-1,Plymouth
+Sat Mar 30 2019,Bristol Rvs,1-2,1-2,Luton
+Sat Mar 30 2019,Charlton,1-0,1-0,Bradford
+Sat Mar 30 2019,Doncaster,3-1,3-1,Walsall
+Sat Mar 30 2019,Gillingham,1-1,1-1,Rochdale
+Sat Mar 30 2019,Oxford,2-1,1-1,Wycombe
+Sat Mar 30 2019,Scunthorpe,1-2,0-2,AFC Wimbledon
+Sat Mar 30 2019,Southend,0-2,0-0,Shrewsbury
+Wed Apr 3 2019,Accrington,0-3,0-2,Sunderland
+Sat Apr 6 2019,AFC Wimbledon,1-1,1-1,Accrington
+Sat Apr 6 2019,Bradford,0-1,0-0,Doncaster
+Sat Apr 6 2019,Burton,3-1,1-0,Barnsley
+Sat Apr 6 2019,Fleetwood Town,2-2,0-1,Southend
+Sat Apr 6 2019,Luton,2-2,1-1,Blackpool
+Sat Apr 6 2019,Peterboro,2-0,0-0,Gillingham
+Sat Apr 6 2019,Plymouth,0-2,0-1,Charlton
+Sat Apr 6 2019,Rochdale,1-2,1-0,Sunderland
+Sat Apr 6 2019,Shrewsbury,1-1,0-1,Scunthorpe
+Sat Apr 6 2019,Walsall,1-3,1-1,Oxford
+Sat Apr 6 2019,Wycombe,2-3,0-1,Portsmouth
+Sun Apr 7 2019,Coventry,0-0,0-0,Bristol Rvs
+Tue Apr 9 2019,Accrington,0-1,0-0,Rochdale
+Tue Apr 9 2019,Sunderland,1-1,1-1,Burton
+Tue Apr 9 2019,Wycombe,0-1,0-1,Charlton
+Sat Apr 13 2019,Accrington,2-1,1-1,Walsall
+Sat Apr 13 2019,Barnsley,4-2,2-0,Fleetwood Town
+Sat Apr 13 2019,Blackpool,0-1,0-1,Peterboro
+Sat Apr 13 2019,Bristol Rvs,3-2,1-1,Bradford
+Sat Apr 13 2019,Charlton,3-1,0-1,Luton
+Sat Apr 13 2019,Doncaster,2-0,2-0,Plymouth
+Sat Apr 13 2019,Gillingham,0-2,0-0,Shrewsbury
+Sat Apr 13 2019,Oxford,0-0,0-0,AFC Wimbledon
+Sat Apr 13 2019,Portsmouth,4-1,2-0,Rochdale
+Sat Apr 13 2019,Scunthorpe,0-3,0-1,Burton
+Sat Apr 13 2019,Southend,0-2,0-0,Wycombe
+Sat Apr 13 2019,Sunderland,4-5,3-3,Coventry
+Fri Apr 19 2019,AFC Wimbledon,1-1,1-0,Bristol Rvs
+Fri Apr 19 2019,Barnsley,2-1,1-1,Shrewsbury
+Fri Apr 19 2019,Burton,1-2,0-1,Portsmouth
+Fri Apr 19 2019,Coventry,2-0,1-0,Bradford
+Fri Apr 19 2019,Fleetwood Town,1-1,0-0,Peterboro
+Fri Apr 19 2019,Gillingham,3-1,0-1,Plymouth
+Fri Apr 19 2019,Oxford,2-1,2-1,Charlton
+Fri Apr 19 2019,Rochdale,1-0,0-0,Wycombe
+Fri Apr 19 2019,Scunthorpe,0-0,0-0,Blackpool
+Fri Apr 19 2019,Sunderland,2-0,2-0,Doncaster
+Fri Apr 19 2019,Walsall,1-1,0-1,Southend
+Sat Apr 20 2019,Accrington,0-3,0-1,Luton
+Mon Apr 22 2019,Blackpool,2-1,1-1,Fleetwood Town
+Mon Apr 22 2019,Bradford,1-1,1-0,Gillingham
+Mon Apr 22 2019,Bristol Rvs,0-1,0-0,Rochdale
+Mon Apr 22 2019,Charlton,4-0,1-0,Scunthorpe
+Mon Apr 22 2019,Peterboro,1-1,0-0,Sunderland
+Mon Apr 22 2019,Plymouth,0-3,0-3,Barnsley
+Mon Apr 22 2019,Portsmouth,2-1,0-1,Coventry
+Mon Apr 22 2019,Shrewsbury,2-3,2-1,Oxford
+Mon Apr 22 2019,Southend,3-2,1-0,Burton
+Mon Apr 22 2019,Wycombe,1-0,0-0,Walsall
+Tue Apr 23 2019,Doncaster,1-2,0-2,Accrington
+Tue Apr 23 2019,Luton,2-2,2-1,AFC Wimbledon
+Sat Apr 27 2019,Accrington,5-1,3-0,Plymouth
+Sat Apr 27 2019,AFC Wimbledon,2-1,1-0,Wycombe
+Sat Apr 27 2019,Barnsley,2-1,1-1,Blackpool
+Sat Apr 27 2019,Burton,2-1,0-1,Luton
+Sat Apr 27 2019,Fleetwood Town,0-0,0-0,Bristol Rvs
+Sat Apr 27 2019,Gillingham,0-2,0-2,Charlton
+Sat Apr 27 2019,Oxford,2-2,1-1,Doncaster
+Sat Apr 27 2019,Rochdale,1-0,0-0,Southend
+Sat Apr 27 2019,Scunthorpe,2-3,0-3,Bradford
+Sat Apr 27 2019,Sunderland,1-1,1-1,Portsmouth
+Sat Apr 27 2019,Walsall,3-0,1-0,Peterboro
+Sun Apr 28 2019,Coventry,1-1,1-0,Shrewsbury
+Tue Apr 30 2019,Fleetwood Town,2-1,0-1,Sunderland
+Tue Apr 30 2019,Portsmouth,2-3,1-2,Peterboro
+Sat May 4 2019,Blackpool,0-3,0-3,Gillingham
+Sat May 4 2019,Bradford,0-0,0-0,AFC Wimbledon
+Sat May 4 2019,Bristol Rvs,2-1,0-1,Barnsley
+Sat May 4 2019,Charlton,4-0,3-0,Rochdale
+Sat May 4 2019,Doncaster,2-0,1-0,Coventry
+Sat May 4 2019,Luton,3-1,1-0,Oxford
+Sat May 4 2019,Peterboro,3-1,2-0,Burton
+Sat May 4 2019,Plymouth,3-2,2-1,Scunthorpe
+Sat May 4 2019,Portsmouth,1-1,0-0,Accrington
+Sat May 4 2019,Shrewsbury,0-0,0-0,Walsall
+Sat May 4 2019,Southend,2-1,1-0,Sunderland
+Sat May 4 2019,Wycombe,1-0,0-0,Fleetwood Town

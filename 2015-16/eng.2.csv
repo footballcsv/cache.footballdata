@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 7 2015,Brighton,1-0,0-0,Nott'm Forest
+Sat Aug 8 2015,Birmingham,2-1,1-0,Reading
+Sat Aug 8 2015,Blackburn,1-2,1-2,Wolves
+Sat Aug 8 2015,Bolton,0-0,0-0,Derby
+Sat Aug 8 2015,Brentford,2-2,0-1,Ipswich
+Sat Aug 8 2015,Cardiff,1-1,0-0,Fulham
+Sat Aug 8 2015,Charlton,2-0,0-0,QPR
+Sat Aug 8 2015,Hull,2-0,1-0,Huddersfield
+Sat Aug 8 2015,Leeds,1-1,0-0,Burnley
+Sat Aug 8 2015,Rotherham,1-4,1-3,Milton Keynes Dons
+Sat Aug 8 2015,Sheffield Weds,2-0,0-0,Bristol City
+Sun Aug 9 2015,Preston,0-0,0-0,Middlesbrough
+Sat Aug 15 2015,Bristol City,2-4,2-2,Brentford
+Sat Aug 15 2015,Burnley,2-2,0-1,Birmingham
+Sat Aug 15 2015,Derby,1-1,0-0,Charlton
+Sat Aug 15 2015,Fulham,1-2,1-1,Brighton
+Sat Aug 15 2015,Huddersfield,1-1,1-0,Blackburn
+Sat Aug 15 2015,Ipswich,2-1,1-1,Sheffield Weds
+Sat Aug 15 2015,Middlesbrough,3-0,3-0,Bolton
+Sat Aug 15 2015,Milton Keynes Dons,0-1,0-1,Preston
+Sat Aug 15 2015,Nott'm Forest,2-1,1-1,Rotherham
+Sat Aug 15 2015,QPR,2-2,1-0,Cardiff
+Sun Aug 16 2015,Reading,0-0,0-0,Leeds
+Sun Aug 16 2015,Wolves,1-1,0-1,Hull
+Tue Aug 18 2015,Blackburn,1-1,0-1,Cardiff
+Tue Aug 18 2015,Derby,1-1,0-1,Middlesbrough
+Tue Aug 18 2015,Huddersfield,1-1,0-1,Brighton
+Tue Aug 18 2015,Ipswich,2-0,0-0,Burnley
+Tue Aug 18 2015,Milton Keynes Dons,1-0,0-0,Bolton
+Tue Aug 18 2015,Nott'm Forest,0-0,0-0,Charlton
+Tue Aug 18 2015,Rotherham,0-0,0-0,Preston
+Wed Aug 19 2015,Bristol City,2-2,0-1,Leeds
+Wed Aug 19 2015,Hull,2-1,1-0,Fulham
+Wed Aug 19 2015,Sheffield Weds,1-1,0-0,Reading
+Wed Aug 19 2015,Wolves,2-3,2-1,QPR
+Fri Aug 21 2015,Birmingham,1-1,1-0,Derby
+Sat Aug 22 2015,Bolton,1-1,0-0,Nott'm Forest
+Sat Aug 22 2015,Brighton,1-0,1-0,Blackburn
+Sat Aug 22 2015,Burnley,1-0,1-0,Brentford
+Sat Aug 22 2015,Cardiff,2-0,1-0,Wolves
+Sat Aug 22 2015,Charlton,2-1,0-0,Hull
+Sat Aug 22 2015,Fulham,1-1,0-0,Huddersfield
+Sat Aug 22 2015,Leeds,1-1,0-1,Sheffield Weds
+Sat Aug 22 2015,Middlesbrough,0-1,0-1,Bristol City
+Sat Aug 22 2015,Preston,1-2,1-1,Ipswich
+Sat Aug 22 2015,QPR,4-2,1-0,Rotherham
+Sat Aug 22 2015,Reading,0-0,0-0,Milton Keynes Dons
+Fri Aug 28 2015,Blackburn,0-0,0-0,Bolton
+Sat Aug 29 2015,Brentford,1-3,0-2,Reading
+Sat Aug 29 2015,Bristol City,1-2,0-2,Burnley
+Sat Aug 29 2015,Derby,1-2,0-1,Leeds
+Sat Aug 29 2015,Huddersfield,0-1,0-0,QPR
+Sat Aug 29 2015,Hull,2-0,1-0,Preston
+Sat Aug 29 2015,Ipswich,2-3,0-2,Brighton
+Sat Aug 29 2015,Milton Keynes Dons,0-2,0-0,Birmingham
+Sat Aug 29 2015,Nott'm Forest,1-2,0-1,Cardiff
+Sat Aug 29 2015,Rotherham,1-3,0-2,Fulham
+Sat Aug 29 2015,Sheffield Weds,1-3,0-1,Middlesbrough
+Sat Aug 29 2015,Wolves,2-1,0-0,Charlton
+Fri Sep 11 2015,Reading,5-1,2-1,Ipswich
+Sat Sep 12 2015,Birmingham,4-2,3-1,Bristol City
+Sat Sep 12 2015,Bolton,2-1,2-0,Wolves
+Sat Sep 12 2015,Brighton,1-0,1-0,Hull
+Sat Sep 12 2015,Burnley,3-1,1-1,Sheffield Weds
+Sat Sep 12 2015,Cardiff,2-0,0-0,Huddersfield
+Sat Sep 12 2015,Charlton,1-1,0-1,Rotherham
+Sat Sep 12 2015,Leeds,1-1,0-1,Brentford
+Sat Sep 12 2015,Middlesbrough,2-0,0-0,Milton Keynes Dons
+Sat Sep 12 2015,Preston,1-2,0-2,Derby
+Sat Sep 12 2015,QPR,1-2,0-0,Nott'm Forest
+Sun Sep 13 2015,Fulham,2-1,2-0,Blackburn
+Tue Sep 15 2015,Birmingham,0-1,0-0,Nott'm Forest
+Tue Sep 15 2015,Bolton,0-0,0-0,Sheffield Weds
+Tue Sep 15 2015,Brighton,2-1,1-0,Rotherham
+Tue Sep 15 2015,Burnley,2-1,1-1,Milton Keynes Dons
+Tue Sep 15 2015,Cardiff,0-2,0-1,Hull
+Tue Sep 15 2015,Charlton,1-2,1-2,Huddersfield
+Tue Sep 15 2015,Leeds,0-1,0-1,Ipswich
+Tue Sep 15 2015,Middlesbrough,3-1,1-0,Brentford
+Tue Sep 15 2015,Preston,1-1,0-0,Bristol City
+Tue Sep 15 2015,Reading,0-1,0-0,Derby
+Wed Sep 16 2015,QPR,2-2,0-1,Blackburn
+Fri Sep 18 2015,Ipswich,1-1,1-1,Birmingham
+Sat Sep 19 2015,Blackburn,3-0,1-0,Charlton
+Sat Sep 19 2015,Brentford,2-1,0-1,Preston
+Sat Sep 19 2015,Bristol City,0-2,0-2,Reading
+Sat Sep 19 2015,Huddersfield,4-1,1-1,Bolton
+Sat Sep 19 2015,Hull,1-1,1-1,QPR
+Sat Sep 19 2015,Milton Keynes Dons,1-2,0-2,Leeds
+Sat Sep 19 2015,Nott'm Forest,1-2,1-2,Middlesbrough
+Sat Sep 19 2015,Rotherham,2-1,1-1,Cardiff
+Sat Sep 19 2015,Sheffield Weds,3-2,2-1,Fulham
+Sat Sep 19 2015,Wolves,0-0,0-0,Brighton
+Mon Sep 21 2015,Derby,0-0,0-0,Burnley
+Thu Sep 24 2015,Huddersfield,1-1,0-1,Nott'm Forest
+Fri Sep 25 2015,Fulham,4-0,3-0,QPR
+Sat Sep 26 2015,Birmingham,0-2,0-1,Rotherham
+Sat Sep 26 2015,Bolton,2-2,1-2,Brighton
+Sat Sep 26 2015,Brentford,1-2,0-1,Sheffield Weds
+Sat Sep 26 2015,Burnley,1-2,0-2,Reading
+Sat Sep 26 2015,Cardiff,2-1,0-0,Charlton
+Sat Sep 26 2015,Hull,1-1,0-0,Blackburn
+Sat Sep 26 2015,Ipswich,2-2,0-0,Bristol City
+Sat Sep 26 2015,Milton Keynes Dons,1-3,0-0,Derby
+Sat Sep 26 2015,Preston,1-1,1-0,Wolves
+Sun Sep 27 2015,Middlesbrough,3-0,2-0,Leeds
+Tue Sep 29 2015,Brentford,0-2,0-0,Birmingham
+Tue Sep 29 2015,Fulham,0-3,0-0,Wolves
+Fri Oct 2 2015,Rotherham,1-2,0-1,Burnley
+Sat Oct 3 2015,Blackburn,2-0,2-0,Ipswich
+Sat Oct 3 2015,Brighton,1-1,1-1,Cardiff
+Sat Oct 3 2015,Bristol City,1-1,1-0,Milton Keynes Dons
+Sat Oct 3 2015,Derby,2-0,2-0,Brentford
+Sat Oct 3 2015,Leeds,0-2,0-1,Birmingham
+Sat Oct 3 2015,Nott'm Forest,0-1,0-1,Hull
+Sat Oct 3 2015,QPR,4-3,2-2,Bolton
+Sat Oct 3 2015,Reading,2-0,1-0,Middlesbrough
+Sat Oct 3 2015,Sheffield Weds,3-1,1-0,Preston
+Sat Oct 3 2015,Wolves,3-0,1-0,Huddersfield
+Sun Oct 4 2015,Charlton,2-2,0-1,Fulham
+Fri Oct 16 2015,Bristol City,2-0,2-0,Nott'm Forest
+Sat Oct 17 2015,Birmingham,2-1,1-1,QPR
+Sat Oct 17 2015,Brentford,2-1,1-0,Rotherham
+Sat Oct 17 2015,Burnley,2-0,0-0,Bolton
+Sat Oct 17 2015,Ipswich,0-0,0-0,Huddersfield
+Sat Oct 17 2015,Leeds,1-2,1-1,Brighton
+Sat Oct 17 2015,Middlesbrough,0-0,0-0,Fulham
+Sat Oct 17 2015,Milton Keynes Dons,3-0,1-0,Blackburn
+Sat Oct 17 2015,Preston,0-0,0-0,Cardiff
+Sat Oct 17 2015,Reading,1-0,0-0,Charlton
+Sat Oct 17 2015,Sheffield Weds,1-1,1-0,Hull
+Sun Oct 18 2015,Derby,4-2,3-1,Wolves
+Tue Oct 20 2015,Bolton,0-1,0-1,Birmingham
+Tue Oct 20 2015,Brighton,2-1,0-1,Bristol City
+Tue Oct 20 2015,Cardiff,1-0,0-0,Middlesbrough
+Tue Oct 20 2015,Charlton,0-3,0-2,Preston
+Tue Oct 20 2015,Huddersfield,2-0,0-0,Milton Keynes Dons
+Tue Oct 20 2015,Hull,3-0,2-0,Ipswich
+Tue Oct 20 2015,Nott'm Forest,1-1,0-0,Burnley
+Tue Oct 20 2015,QPR,0-0,0-0,Sheffield Weds
+Tue Oct 20 2015,Rotherham,1-1,0-1,Reading
+Wed Oct 21 2015,Blackburn,0-0,0-0,Derby
+Wed Oct 21 2015,Fulham,1-1,1-0,Leeds
+Wed Oct 21 2015,Wolves,0-2,0-1,Brentford
+Fri Oct 23 2015,Rotherham,1-2,0-0,Sheffield Weds
+Sat Oct 24 2015,Blackburn,0-1,0-0,Burnley
+Sat Oct 24 2015,Bolton,1-1,1-0,Leeds
+Sat Oct 24 2015,Brighton,0-0,0-0,Preston
+Sat Oct 24 2015,Charlton,0-3,0-1,Brentford
+Sat Oct 24 2015,Fulham,4-2,0-1,Reading
+Sat Oct 24 2015,Huddersfield,1-2,1-1,Derby
+Sat Oct 24 2015,Hull,2-0,2-0,Birmingham
+Sat Oct 24 2015,Nott'm Forest,1-1,0-0,Ipswich
+Sat Oct 24 2015,QPR,3-0,0-0,Milton Keynes Dons
+Sat Oct 24 2015,Wolves,1-3,1-0,Middlesbrough
+Mon Oct 26 2015,Cardiff,0-0,0-0,Bristol City
+Thu Oct 29 2015,Leeds,0-2,0-2,Blackburn
+Fri Oct 30 2015,Brentford,1-0,0-0,QPR
+Sat Oct 31 2015,Birmingham,0-2,0-1,Wolves
+Sat Oct 31 2015,Bristol City,1-4,0-4,Fulham
+Sat Oct 31 2015,Burnley,2-1,2-0,Huddersfield
+Sat Oct 31 2015,Derby,3-0,2-0,Rotherham
+Sat Oct 31 2015,Ipswich,0-0,0-0,Cardiff
+Sat Oct 31 2015,Middlesbrough,3-0,0-0,Charlton
+Sat Oct 31 2015,Milton Keynes Dons,0-2,0-1,Hull
+Sat Oct 31 2015,Preston,0-0,0-0,Bolton
+Sat Oct 31 2015,Reading,1-1,0-0,Brighton
+Sat Oct 31 2015,Sheffield Weds,1-0,0-0,Nott'm Forest
+Tue Nov 3 2015,Birmingham,0-0,0-0,Blackburn
+Tue Nov 3 2015,Brentford,0-2,0-0,Hull
+Tue Nov 3 2015,Bristol City,1-0,1-0,Wolves
+Tue Nov 3 2015,Burnley,3-1,2-0,Fulham
+Tue Nov 3 2015,Derby,1-0,0-0,QPR
+Tue Nov 3 2015,Ipswich,2-0,1-0,Bolton
+Tue Nov 3 2015,Leeds,1-0,0-0,Cardiff
+Tue Nov 3 2015,Middlesbrough,1-0,1-0,Rotherham
+Tue Nov 3 2015,Milton Keynes Dons,1-0,1-0,Charlton
+Tue Nov 3 2015,Preston,1-0,1-0,Nott'm Forest
+Tue Nov 3 2015,Reading,2-2,1-2,Huddersfield
+Tue Nov 3 2015,Sheffield Weds,0-0,0-0,Brighton
+Fri Nov 6 2015,Nott'm Forest,1-0,1-0,Derby
+Sat Nov 7 2015,Blackburn,1-1,1-1,Brentford
+Sat Nov 7 2015,Bolton,0-0,0-0,Bristol City
+Sat Nov 7 2015,Brighton,2-1,2-1,Milton Keynes Dons
+Sat Nov 7 2015,Cardiff,2-0,1-0,Reading
+Sat Nov 7 2015,Charlton,3-1,2-0,Sheffield Weds
+Sat Nov 7 2015,Fulham,2-5,0-3,Birmingham
+Sat Nov 7 2015,Huddersfield,0-3,0-2,Leeds
+Sat Nov 7 2015,Hull,3-0,1-0,Middlesbrough
+Sat Nov 7 2015,QPR,0-0,0-0,Preston
+Sat Nov 7 2015,Rotherham,2-5,0-3,Ipswich
+Sat Nov 7 2015,Wolves,0-0,0-0,Burnley
+Fri Nov 20 2015,Middlesbrough,1-0,0-0,QPR
+Sat Nov 21 2015,Birmingham,0-1,0-0,Charlton
+Sat Nov 21 2015,Brentford,2-1,0-0,Nott'm Forest
+Sat Nov 21 2015,Bristol City,1-1,1-0,Hull
+Sat Nov 21 2015,Derby,2-0,0-0,Cardiff
+Sat Nov 21 2015,Ipswich,2-2,1-1,Wolves
+Sat Nov 21 2015,Leeds,0-1,0-0,Rotherham
+Sat Nov 21 2015,Milton Keynes Dons,1-1,1-1,Fulham
+Sat Nov 21 2015,Preston,1-2,0-1,Blackburn
+Sat Nov 21 2015,Reading,2-1,2-0,Bolton
+Sat Nov 21 2015,Sheffield Weds,3-1,0-0,Huddersfield
+Sun Nov 22 2015,Burnley,1-1,1-1,Brighton
+Fri Nov 27 2015,Hull,0-2,0-2,Derby
+Sat Nov 28 2015,Blackburn,2-2,2-1,Sheffield Weds
+Sat Nov 28 2015,Brighton,2-1,1-1,Birmingham
+Sat Nov 28 2015,Cardiff,2-2,1-0,Burnley
+Sat Nov 28 2015,Charlton,0-3,0-2,Ipswich
+Sat Nov 28 2015,Fulham,1-1,0-1,Preston
+Sat Nov 28 2015,Huddersfield,0-2,0-1,Middlesbrough
+Sat Nov 28 2015,Nott'm Forest,3-1,2-1,Reading
+Sat Nov 28 2015,QPR,1-0,0-0,Leeds
+Sat Nov 28 2015,Rotherham,3-0,2-0,Bristol City
+Sat Nov 28 2015,Wolves,0-0,0-0,Milton Keynes Dons
+Mon Nov 30 2015,Bolton,1-1,0-1,Brentford
+Thu Dec 3 2015,Reading,0-1,0-0,QPR
+Fri Dec 4 2015,Ipswich,0-2,0-0,Middlesbrough
+Sat Dec 5 2015,Birmingham,0-2,0-1,Huddersfield
+Sat Dec 5 2015,Bolton,2-3,1-1,Cardiff
+Sat Dec 5 2015,Brentford,2-0,1-0,Milton Keynes Dons
+Sat Dec 5 2015,Brighton,3-2,0-2,Charlton
+Sat Dec 5 2015,Bristol City,0-2,0-0,Blackburn
+Sat Dec 5 2015,Burnley,0-2,0-0,Preston
+Sat Dec 5 2015,Leeds,2-1,2-0,Hull
+Sat Dec 5 2015,Nott'm Forest,3-0,1-0,Fulham
+Sat Dec 5 2015,Rotherham,1-2,1-2,Wolves
+Sun Dec 6 2015,Sheffield Weds,0-0,0-0,Derby
+Fri Dec 11 2015,Blackburn,1-0,1-0,Rotherham
+Fri Dec 11 2015,Wolves,1-1,1-0,Nott'm Forest
+Sat Dec 12 2015,Cardiff,2-2,2-0,Sheffield Weds
+Sat Dec 12 2015,Charlton,0-0,0-0,Leeds
+Sat Dec 12 2015,Derby,2-2,1-1,Brighton
+Sat Dec 12 2015,Fulham,2-2,1-1,Brentford
+Sat Dec 12 2015,Huddersfield,1-2,0-2,Bristol City
+Sat Dec 12 2015,Hull,1-0,1-0,Bolton
+Sat Dec 12 2015,Middlesbrough,0-0,0-0,Birmingham
+Sat Dec 12 2015,Milton Keynes Dons,0-1,0-1,Ipswich
+Sat Dec 12 2015,Preston,1-0,0-0,Reading
+Sat Dec 12 2015,QPR,0-0,0-0,Burnley
+Mon Dec 14 2015,Blackburn,0-0,0-0,Nott'm Forest
+Tue Dec 15 2015,Cardiff,3-2,2-0,Brentford
+Tue Dec 15 2015,Charlton,2-2,2-2,Bolton
+Tue Dec 15 2015,Derby,4-0,1-0,Bristol City
+Tue Dec 15 2015,Fulham,1-2,1-1,Ipswich
+Tue Dec 15 2015,Huddersfield,2-0,1-0,Rotherham
+Tue Dec 15 2015,Middlesbrough,1-0,0-0,Burnley
+Tue Dec 15 2015,Milton Keynes Dons,2-1,1-0,Sheffield Weds
+Tue Dec 15 2015,Preston,1-1,1-0,Birmingham
+Tue Dec 15 2015,QPR,2-2,0-0,Brighton
+Wed Dec 16 2015,Hull,2-1,0-1,Reading
+Thu Dec 17 2015,Wolves,2-3,1-1,Leeds
+Fri Dec 18 2015,Birmingham,1-0,1-0,Cardiff
+Sat Dec 19 2015,Bolton,2-2,0-1,Fulham
+Sat Dec 19 2015,Brentford,4-2,3-0,Huddersfield
+Sat Dec 19 2015,Brighton,0-3,0-2,Middlesbrough
+Sat Dec 19 2015,Bristol City,1-1,0-0,QPR
+Sat Dec 19 2015,Burnley,4-0,1-0,Charlton
+Sat Dec 19 2015,Ipswich,0-1,0-1,Derby
+Sat Dec 19 2015,Nott'm Forest,2-1,2-0,Milton Keynes Dons
+Sat Dec 19 2015,Rotherham,2-0,1-0,Hull
+Sun Dec 20 2015,Leeds,1-0,0-0,Preston
+Sun Dec 20 2015,Reading,1-0,1-0,Blackburn
+Sun Dec 20 2015,Sheffield Weds,4-1,2-1,Wolves
+Sat Dec 26 2015,Brentford,0-0,0-0,Brighton
+Sat Dec 26 2015,Bristol City,1-1,1-0,Charlton
+Sat Dec 26 2015,Derby,2-0,0-0,Fulham
+Sat Dec 26 2015,Huddersfield,3-1,1-0,Preston
+Sat Dec 26 2015,Hull,3-0,0-0,Burnley
+Sat Dec 26 2015,Ipswich,2-1,0-1,QPR
+Sat Dec 26 2015,Milton Keynes Dons,2-1,0-0,Cardiff
+Sat Dec 26 2015,Rotherham,4-0,0-0,Bolton
+Sat Dec 26 2015,Sheffield Weds,3-0,2-0,Birmingham
+Sat Dec 26 2015,Wolves,1-0,1-0,Reading
+Sun Dec 27 2015,Nott'm Forest,1-1,1-0,Leeds
+Mon Dec 28 2015,Birmingham,1-0,0-0,Milton Keynes Dons
+Mon Dec 28 2015,Bolton,1-0,0-0,Blackburn
+Mon Dec 28 2015,Burnley,4-0,2-0,Bristol City
+Mon Dec 28 2015,Charlton,0-2,0-0,Wolves
+Mon Dec 28 2015,Middlesbrough,1-0,1-0,Sheffield Weds
+Mon Dec 28 2015,Preston,1-0,0-0,Hull
+Mon Dec 28 2015,QPR,1-1,0-0,Huddersfield
+Mon Dec 28 2015,Reading,1-2,0-1,Brentford
+Tue Dec 29 2015,Brighton,0-1,0-1,Ipswich
+Tue Dec 29 2015,Cardiff,1-1,1-1,Nott'm Forest
+Tue Dec 29 2015,Fulham,4-1,2-1,Rotherham
+Tue Dec 29 2015,Leeds,2-2,1-1,Derby
+Fri Jan 1 2016,Brighton,0-1,0-1,Wolves
+Fri Jan 1 2016,QPR,1-2,0-0,Hull
+Sat Jan 2 2016,Birmingham,2-1,0-0,Brentford
+Sat Jan 2 2016,Bolton,0-2,0-0,Huddersfield
+Sat Jan 2 2016,Burnley,0-0,0-0,Ipswich
+Sat Jan 2 2016,Cardiff,1-0,0-0,Blackburn
+Sat Jan 2 2016,Charlton,1-1,0-1,Nott'm Forest
+Sat Jan 2 2016,Fulham,0-1,0-1,Sheffield Weds
+Sat Jan 2 2016,Leeds,1-1,0-1,Milton Keynes Dons
+Sat Jan 2 2016,Middlesbrough,2-0,0-0,Derby
+Sat Jan 2 2016,Preston,2-1,0-1,Rotherham
+Sat Jan 2 2016,Reading,1-0,0-0,Bristol City
+Tue Jan 12 2016,Blackburn,1-1,0-1,QPR
+Tue Jan 12 2016,Brentford,0-1,0-0,Middlesbrough
+Tue Jan 12 2016,Bristol City,1-2,0-0,Preston
+Tue Jan 12 2016,Derby,1-1,1-1,Reading
+Tue Jan 12 2016,Huddersfield,5-0,2-0,Charlton
+Tue Jan 12 2016,Ipswich,2-1,0-1,Leeds
+Tue Jan 12 2016,Milton Keynes Dons,0-5,0-1,Burnley
+Tue Jan 12 2016,Nott'm Forest,1-1,1-1,Birmingham
+Tue Jan 12 2016,Rotherham,2-0,1-0,Brighton
+Tue Jan 12 2016,Sheffield Weds,3-2,1-1,Bolton
+Tue Jan 12 2016,Wolves,3-2,2-1,Fulham
+Wed Jan 13 2016,Hull,2-0,1-0,Cardiff
+Fri Jan 15 2016,Brentford,1-3,0-3,Burnley
+Sat Jan 16 2016,Blackburn,0-1,0-1,Brighton
+Sat Jan 16 2016,Bristol City,1-0,0-0,Middlesbrough
+Sat Jan 16 2016,Derby,0-3,0-0,Birmingham
+Sat Jan 16 2016,Huddersfield,1-1,1-1,Fulham
+Sat Jan 16 2016,Hull,6-0,4-0,Charlton
+Sat Jan 16 2016,Ipswich,1-1,1-1,Preston
+Sat Jan 16 2016,Milton Keynes Dons,1-0,0-0,Reading
+Sat Jan 16 2016,Nott'm Forest,3-0,2-0,Bolton
+Sat Jan 16 2016,Rotherham,0-3,0-0,QPR
+Sat Jan 16 2016,Sheffield Weds,2-0,0-0,Leeds
+Sat Jan 16 2016,Wolves,1-3,1-2,Cardiff
+Sat Jan 23 2016,Birmingham,3-0,1-0,Ipswich
+Sat Jan 23 2016,Bolton,3-1,2-0,Milton Keynes Dons
+Sat Jan 23 2016,Brighton,2-1,1-1,Huddersfield
+Sat Jan 23 2016,Cardiff,2-2,1-1,Rotherham
+Sat Jan 23 2016,Charlton,1-1,1-1,Blackburn
+Sat Jan 23 2016,Fulham,0-1,0-0,Hull
+Sat Jan 23 2016,Leeds,1-0,0-0,Bristol City
+Sat Jan 23 2016,Middlesbrough,0-1,0-0,Nott'm Forest
+Sat Jan 23 2016,Preston,1-3,1-2,Brentford
+Sat Jan 23 2016,QPR,1-1,1-0,Wolves
+Sat Jan 23 2016,Reading,1-1,0-1,Sheffield Weds
+Mon Jan 25 2016,Burnley,4-1,1-1,Derby
+Tue Jan 26 2016,Brentford,1-1,1-0,Leeds
+Tue Jan 26 2016,Nott'm Forest,0-0,0-0,QPR
+Sat Jan 30 2016,Bristol City,0-0,0-0,Birmingham
+Sat Jan 30 2016,Huddersfield,2-3,1-1,Cardiff
+Sat Jan 30 2016,Rotherham,1-4,1-2,Charlton
+Tue Feb 2 2016,Derby,0-0,0-0,Preston
+Tue Feb 2 2016,Ipswich,2-1,0-0,Reading
+Tue Feb 2 2016,Sheffield Weds,1-1,0-1,Burnley
+Tue Feb 2 2016,Wolves,2-2,1-0,Bolton
+Fri Feb 5 2016,Brighton,3-0,2-0,Brentford
+Sat Feb 6 2016,Birmingham,1-2,1-0,Sheffield Weds
+Sat Feb 6 2016,Bolton,2-1,1-1,Rotherham
+Sat Feb 6 2016,Burnley,1-0,0-0,Hull
+Sat Feb 6 2016,Cardiff,0-0,0-0,Milton Keynes Dons
+Sat Feb 6 2016,Charlton,0-1,0-1,Bristol City
+Sat Feb 6 2016,Fulham,1-1,1-1,Derby
+Sat Feb 6 2016,Leeds,0-1,0-0,Nott'm Forest
+Sat Feb 6 2016,Middlesbrough,1-1,0-0,Blackburn
+Sat Feb 6 2016,Preston,2-1,0-0,Huddersfield
+Sat Feb 6 2016,QPR,1-0,0-0,Ipswich
+Sat Feb 6 2016,Reading,0-0,0-0,Wolves
+Tue Feb 9 2016,Milton Keynes Dons,1-1,1-0,Middlesbrough
+Sat Feb 13 2016,Blackburn,0-2,0-0,Hull
+Sat Feb 13 2016,Brighton,3-2,2-1,Bolton
+Sat Feb 13 2016,Bristol City,2-1,2-0,Ipswich
+Sat Feb 13 2016,Charlton,0-0,0-0,Cardiff
+Sat Feb 13 2016,Derby,0-1,0-0,Milton Keynes Dons
+Sat Feb 13 2016,Nott'm Forest,0-2,0-1,Huddersfield
+Sat Feb 13 2016,QPR,1-3,0-3,Fulham
+Sat Feb 13 2016,Reading,0-0,0-0,Burnley
+Sat Feb 13 2016,Rotherham,0-0,0-0,Birmingham
+Sat Feb 13 2016,Sheffield Weds,4-0,3-0,Brentford
+Sat Feb 13 2016,Wolves,1-2,0-1,Preston
+Mon Feb 15 2016,Leeds,0-0,0-0,Middlesbrough
+Tue Feb 16 2016,Blackburn,3-0,1-0,Fulham
+Tue Feb 16 2016,Hull,0-0,0-0,Brighton
+Sat Feb 20 2016,Bolton,1-1,0-0,QPR
+Sat Feb 20 2016,Brentford,1-3,0-0,Derby
+Sat Feb 20 2016,Burnley,2-0,1-0,Rotherham
+Sat Feb 20 2016,Cardiff,4-1,3-0,Brighton
+Sat Feb 20 2016,Fulham,3-0,1-0,Charlton
+Sat Feb 20 2016,Huddersfield,1-0,0-0,Wolves
+Sat Feb 20 2016,Milton Keynes Dons,0-2,0-1,Bristol City
+Sat Feb 20 2016,Preston,1-0,0-0,Sheffield Weds
+Tue Feb 23 2016,Birmingham,1-0,1-0,Bolton
+Tue Feb 23 2016,Brentford,3-0,1-0,Wolves
+Tue Feb 23 2016,Bristol City,0-4,0-2,Brighton
+Tue Feb 23 2016,Burnley,1-0,0-0,Nott'm Forest
+Tue Feb 23 2016,Ipswich,0-1,0-0,Hull
+Tue Feb 23 2016,Leeds,1-1,1-1,Fulham
+Tue Feb 23 2016,Middlesbrough,3-1,1-1,Cardiff
+Tue Feb 23 2016,Milton Keynes Dons,1-1,1-0,Huddersfield
+Tue Feb 23 2016,Preston,2-1,1-1,Charlton
+Tue Feb 23 2016,Reading,1-0,0-0,Rotherham
+Tue Feb 23 2016,Sheffield Weds,1-1,0-0,QPR
+Wed Feb 24 2016,Derby,1-0,1-0,Blackburn
+Fri Feb 26 2016,Hull,0-0,0-0,Sheffield Weds
+Sat Feb 27 2016,Blackburn,3-2,0-1,Milton Keynes Dons
+Sat Feb 27 2016,Bolton,1-2,0-0,Burnley
+Sat Feb 27 2016,Cardiff,2-1,1-0,Preston
+Sat Feb 27 2016,Charlton,3-4,1-3,Reading
+Sat Feb 27 2016,Fulham,0-2,0-2,Middlesbrough
+Sat Feb 27 2016,Huddersfield,0-1,0-1,Ipswich
+Sat Feb 27 2016,Nott'm Forest,1-2,1-1,Bristol City
+Sat Feb 27 2016,QPR,2-0,2-0,Birmingham
+Sat Feb 27 2016,Rotherham,2-1,1-1,Brentford
+Sat Feb 27 2016,Wolves,2-1,1-1,Derby
+Mon Feb 29 2016,Brighton,4-0,4-0,Leeds
+Tue Mar 1 2016,Blackburn,2-1,0-0,Middlesbrough
+Thu Mar 3 2016,Birmingham,1-0,1-0,Hull
+Fri Mar 4 2016,Middlesbrough,2-1,1-0,Wolves
+Sat Mar 5 2016,Brentford,1-2,1-1,Charlton
+Sat Mar 5 2016,Bristol City,0-2,0-1,Cardiff
+Sat Mar 5 2016,Burnley,1-0,1-0,Blackburn
+Sat Mar 5 2016,Derby,2-0,1-0,Huddersfield
+Sat Mar 5 2016,Ipswich,1-0,0-0,Nott'm Forest
+Sat Mar 5 2016,Leeds,2-1,1-0,Bolton
+Sat Mar 5 2016,Milton Keynes Dons,2-0,0-0,QPR
+Sat Mar 5 2016,Preston,0-0,0-0,Brighton
+Sat Mar 5 2016,Reading,2-2,2-1,Fulham
+Sat Mar 5 2016,Sheffield Weds,0-1,0-1,Rotherham
+Tue Mar 8 2016,Blackburn,2-0,2-0,Birmingham
+Tue Mar 8 2016,Bolton,2-2,0-1,Ipswich
+Tue Mar 8 2016,Brighton,0-0,0-0,Sheffield Weds
+Tue Mar 8 2016,Cardiff,0-2,0-1,Leeds
+Tue Mar 8 2016,Charlton,0-0,0-0,Milton Keynes Dons
+Tue Mar 8 2016,Fulham,2-3,2-1,Burnley
+Tue Mar 8 2016,Huddersfield,3-1,0-0,Reading
+Tue Mar 8 2016,Nott'm Forest,1-0,1-0,Preston
+Tue Mar 8 2016,QPR,2-0,1-0,Derby
+Tue Mar 8 2016,Rotherham,1-0,0-0,Middlesbrough
+Tue Mar 8 2016,Wolves,2-1,0-0,Bristol City
+Sat Mar 12 2016,Blackburn,1-2,0-1,Leeds
+Sat Mar 12 2016,Bolton,1-2,1-0,Preston
+Sat Mar 12 2016,Cardiff,1-0,1-0,Ipswich
+Sat Mar 12 2016,Fulham,1-2,1-0,Bristol City
+Sat Mar 12 2016,Huddersfield,1-3,1-3,Burnley
+Sat Mar 12 2016,Hull,1-1,0-0,Milton Keynes Dons
+Sat Mar 12 2016,Nott'm Forest,0-3,0-1,Sheffield Weds
+Sat Mar 12 2016,QPR,3-0,1-0,Brentford
+Sat Mar 12 2016,Rotherham,3-3,0-0,Derby
+Sun Mar 13 2016,Charlton,2-0,0-0,Middlesbrough
+Sun Mar 13 2016,Wolves,0-0,0-0,Birmingham
+Tue Mar 15 2016,Brighton,1-0,1-0,Reading
+Tue Mar 15 2016,Hull,1-1,0-1,Nott'm Forest
+Tue Mar 15 2016,Ipswich,2-0,0-0,Blackburn
+Fri Mar 18 2016,Middlesbrough,1-0,0-0,Hull
+Sat Mar 19 2016,Birmingham,1-1,0-1,Fulham
+Sat Mar 19 2016,Brentford,0-1,0-0,Blackburn
+Sat Mar 19 2016,Bristol City,6-0,2-0,Bolton
+Sat Mar 19 2016,Burnley,1-1,0-0,Wolves
+Sat Mar 19 2016,Derby,1-0,0-0,Nott'm Forest
+Sat Mar 19 2016,Ipswich,0-1,0-1,Rotherham
+Sat Mar 19 2016,Leeds,1-4,1-1,Huddersfield
+Sat Mar 19 2016,Milton Keynes Dons,1-2,0-0,Brighton
+Sat Mar 19 2016,Preston,1-1,0-1,QPR
+Sat Mar 19 2016,Reading,1-1,1-0,Cardiff
+Sat Mar 19 2016,Sheffield Weds,3-0,0-0,Charlton
+Fri Apr 1 2016,QPR,2-3,1-1,Middlesbrough
+Sat Apr 2 2016,Blackburn,1-2,1-2,Preston
+Sat Apr 2 2016,Bolton,0-1,0-0,Reading
+Sat Apr 2 2016,Brighton,2-2,2-1,Burnley
+Sat Apr 2 2016,Cardiff,2-1,1-0,Derby
+Sat Apr 2 2016,Charlton,2-1,1-1,Birmingham
+Sat Apr 2 2016,Fulham,2-1,0-0,Milton Keynes Dons
+Sat Apr 2 2016,Huddersfield,0-1,0-0,Sheffield Weds
+Sat Apr 2 2016,Hull,4-0,2-0,Bristol City
+Sat Apr 2 2016,Nott'm Forest,0-3,0-0,Brentford
+Sat Apr 2 2016,Rotherham,2-1,1-0,Leeds
+Sat Apr 2 2016,Wolves,0-0,0-0,Ipswich
+Tue Apr 5 2016,Birmingham,1-2,1-1,Brighton
+Tue Apr 5 2016,Brentford,3-1,3-0,Bolton
+Tue Apr 5 2016,Bristol City,1-1,0-1,Rotherham
+Tue Apr 5 2016,Burnley,0-0,0-0,Cardiff
+Tue Apr 5 2016,Derby,4-0,2-0,Hull
+Tue Apr 5 2016,Ipswich,0-0,0-0,Charlton
+Tue Apr 5 2016,Leeds,1-1,0-0,QPR
+Tue Apr 5 2016,Middlesbrough,3-0,2-0,Huddersfield
+Tue Apr 5 2016,Milton Keynes Dons,1-2,1-0,Wolves
+Tue Apr 5 2016,Preston,1-2,0-1,Fulham
+Tue Apr 5 2016,Reading,2-1,0-1,Nott'm Forest
+Tue Apr 5 2016,Sheffield Weds,2-1,0-0,Blackburn
+Sat Apr 9 2016,Bristol City,4-1,3-0,Sheffield Weds
+Sat Apr 9 2016,Burnley,1-0,1-0,Leeds
+Sat Apr 9 2016,Derby,4-1,2-0,Bolton
+Sat Apr 9 2016,Fulham,2-1,0-1,Cardiff
+Sat Apr 9 2016,Huddersfield,2-2,1-0,Hull
+Sat Apr 9 2016,Ipswich,1-3,0-1,Brentford
+Sat Apr 9 2016,Middlesbrough,1-0,1-0,Preston
+Sat Apr 9 2016,Milton Keynes Dons,0-4,0-2,Rotherham
+Sat Apr 9 2016,QPR,2-1,1-0,Charlton
+Sat Apr 9 2016,Reading,0-2,0-2,Birmingham
+Sat Apr 9 2016,Wolves,0-0,0-0,Blackburn
+Mon Apr 11 2016,Nott'm Forest,1-2,0-1,Brighton
+Tue Apr 12 2016,Birmingham,1-2,0-1,Leeds
+Tue Apr 12 2016,Middlesbrough,2-1,1-0,Reading
+Fri Apr 15 2016,Brighton,5-0,2-0,Fulham
+Fri Apr 15 2016,Hull,2-1,1-1,Wolves
+Sat Apr 16 2016,Birmingham,1-2,0-1,Burnley
+Sat Apr 16 2016,Blackburn,0-2,0-1,Huddersfield
+Sat Apr 16 2016,Bolton,1-2,0-0,Middlesbrough
+Sat Apr 16 2016,Brentford,1-1,0-1,Bristol City
+Sat Apr 16 2016,Cardiff,0-0,0-0,QPR
+Sat Apr 16 2016,Charlton,0-1,0-0,Derby
+Sat Apr 16 2016,Leeds,3-2,0-1,Reading
+Sat Apr 16 2016,Preston,1-1,1-0,Milton Keynes Dons
+Sat Apr 16 2016,Rotherham,0-0,0-0,Nott'm Forest
+Sat Apr 16 2016,Sheffield Weds,1-1,1-0,Ipswich
+Tue Apr 19 2016,Birmingham,2-2,1-0,Preston
+Tue Apr 19 2016,Bolton,0-0,0-0,Charlton
+Tue Apr 19 2016,Brentford,2-1,0-0,Cardiff
+Tue Apr 19 2016,Brighton,4-0,1-0,QPR
+Tue Apr 19 2016,Bristol City,2-3,2-1,Derby
+Tue Apr 19 2016,Burnley,1-1,0-0,Middlesbrough
+Tue Apr 19 2016,Ipswich,1-1,0-0,Fulham
+Tue Apr 19 2016,Leeds,2-1,0-0,Wolves
+Tue Apr 19 2016,Nott'm Forest,1-1,1-1,Blackburn
+Tue Apr 19 2016,Reading,1-2,1-1,Hull
+Tue Apr 19 2016,Rotherham,1-1,1-1,Huddersfield
+Tue Apr 19 2016,Sheffield Weds,0-0,0-0,Milton Keynes Dons
+Fri Apr 22 2016,Preston,0-1,0-1,Burnley
+Sat Apr 23 2016,Blackburn,2-2,1-0,Bristol City
+Sat Apr 23 2016,Cardiff,2-1,0-1,Bolton
+Sat Apr 23 2016,Charlton,1-3,0-1,Brighton
+Sat Apr 23 2016,Derby,1-1,0-0,Sheffield Weds
+Sat Apr 23 2016,Fulham,1-3,0-2,Nott'm Forest
+Sat Apr 23 2016,Huddersfield,1-1,0-0,Birmingham
+Sat Apr 23 2016,Hull,2-2,2-1,Leeds
+Sat Apr 23 2016,Middlesbrough,0-0,0-0,Ipswich
+Sat Apr 23 2016,Milton Keynes Dons,1-4,1-1,Brentford
+Sat Apr 23 2016,QPR,1-1,1-1,Reading
+Sat Apr 23 2016,Wolves,0-0,0-0,Rotherham
+Tue Apr 26 2016,Hull,2-0,2-0,Brentford
+Fri Apr 29 2016,Birmingham,2-2,1-1,Middlesbrough
+Sat Apr 30 2016,Bolton,1-0,0-0,Hull
+Sat Apr 30 2016,Brentford,3-0,3-0,Fulham
+Sat Apr 30 2016,Bristol City,4-0,1-0,Huddersfield
+Sat Apr 30 2016,Ipswich,3-2,1-1,Milton Keynes Dons
+Sat Apr 30 2016,Leeds,1-2,0-1,Charlton
+Sat Apr 30 2016,Nott'm Forest,1-1,0-0,Wolves
+Sat Apr 30 2016,Reading,1-2,0-0,Preston
+Sat Apr 30 2016,Rotherham,0-1,0-1,Blackburn
+Sat Apr 30 2016,Sheffield Weds,3-0,0-0,Cardiff
+Mon May 2 2016,Brighton,1-1,0-0,Derby
+Mon May 2 2016,Burnley,1-0,0-0,QPR
+Sat May 7 2016,Blackburn,3-1,2-1,Reading
+Sat May 7 2016,Cardiff,1-1,1-1,Birmingham
+Sat May 7 2016,Charlton,0-3,0-1,Burnley
+Sat May 7 2016,Derby,0-1,0-1,Ipswich
+Sat May 7 2016,Fulham,1-0,0-0,Bolton
+Sat May 7 2016,Huddersfield,1-5,0-1,Brentford
+Sat May 7 2016,Hull,5-1,4-1,Rotherham
+Sat May 7 2016,Middlesbrough,1-1,1-0,Brighton
+Sat May 7 2016,Milton Keynes Dons,1-2,1-1,Nott'm Forest
+Sat May 7 2016,Preston,1-1,0-0,Leeds
+Sat May 7 2016,QPR,1-0,0-0,Bristol City
+Sat May 7 2016,Wolves,2-1,2-0,Sheffield Weds

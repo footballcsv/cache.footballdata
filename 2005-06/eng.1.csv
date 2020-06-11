@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 13 2005,Aston Villa,2-2,2-2,Bolton
+Sat Aug 13 2005,Everton,0-2,0-1,Man United
+Sat Aug 13 2005,Fulham,0-0,0-0,Birmingham
+Sat Aug 13 2005,Man City,0-0,0-0,West Brom
+Sat Aug 13 2005,Middlesbrough,0-0,0-0,Liverpool
+Sat Aug 13 2005,Portsmouth,0-2,0-1,Tottenham
+Sat Aug 13 2005,Sunderland,1-3,1-1,Charlton
+Sat Aug 13 2005,West Ham,3-1,0-1,Blackburn
+Sun Aug 14 2005,Arsenal,2-0,0-0,Newcastle
+Sun Aug 14 2005,Wigan,0-1,0-0,Chelsea
+Sat Aug 20 2005,Birmingham,1-2,1-1,Man City
+Sat Aug 20 2005,Blackburn,2-1,1-0,Fulham
+Sat Aug 20 2005,Charlton,1-0,1-0,Wigan
+Sat Aug 20 2005,Liverpool,1-0,1-0,Sunderland
+Sat Aug 20 2005,Man United,1-0,0-0,Aston Villa
+Sat Aug 20 2005,Newcastle,0-0,0-0,West Ham
+Sat Aug 20 2005,Tottenham,2-0,0-0,Middlesbrough
+Sat Aug 20 2005,West Brom,2-1,1-0,Portsmouth
+Sun Aug 21 2005,Bolton,0-1,0-0,Everton
+Sun Aug 21 2005,Chelsea,1-0,0-0,Arsenal
+Tue Aug 23 2005,Birmingham,0-3,0-2,Middlesbrough
+Tue Aug 23 2005,Portsmouth,1-1,1-1,Aston Villa
+Tue Aug 23 2005,Sunderland,1-2,1-2,Man City
+Wed Aug 24 2005,Arsenal,4-1,1-1,Fulham
+Wed Aug 24 2005,Blackburn,0-0,0-0,Tottenham
+Wed Aug 24 2005,Bolton,2-0,1-0,Newcastle
+Wed Aug 24 2005,Chelsea,4-0,2-0,West Brom
+Sat Aug 27 2005,Aston Villa,1-0,1-0,Blackburn
+Sat Aug 27 2005,Fulham,1-0,0-0,Everton
+Sat Aug 27 2005,Man City,2-1,0-0,Portsmouth
+Sat Aug 27 2005,Tottenham,0-2,0-1,Chelsea
+Sat Aug 27 2005,West Brom,2-3,1-3,Birmingham
+Sat Aug 27 2005,West Ham,1-2,0-0,Bolton
+Sat Aug 27 2005,Wigan,1-0,1-0,Sunderland
+Sun Aug 28 2005,Middlesbrough,0-3,0-1,Charlton
+Sun Aug 28 2005,Newcastle,0-2,0-0,Man United
+Sat Sep 10 2005,Birmingham,0-1,0-1,Charlton
+Sat Sep 10 2005,Chelsea,2-0,0-0,Sunderland
+Sat Sep 10 2005,Everton,0-1,0-0,Portsmouth
+Sat Sep 10 2005,Man United,1-1,1-0,Man City
+Sat Sep 10 2005,Middlesbrough,2-1,1-0,Arsenal
+Sat Sep 10 2005,Newcastle,1-1,0-1,Fulham
+Sat Sep 10 2005,Tottenham,0-0,0-0,Liverpool
+Sat Sep 10 2005,West Brom,1-2,1-1,Wigan
+Sun Sep 11 2005,Bolton,0-0,0-0,Blackburn
+Mon Sep 12 2005,West Ham,4-0,2-0,Aston Villa
+Sat Sep 17 2005,Aston Villa,1-1,1-0,Tottenham
+Sat Sep 17 2005,Charlton,0-2,0-0,Chelsea
+Sat Sep 17 2005,Fulham,1-2,0-0,West Ham
+Sat Sep 17 2005,Portsmouth,1-1,1-1,Birmingham
+Sat Sep 17 2005,Sunderland,1-1,1-0,West Brom
+Sun Sep 18 2005,Blackburn,0-3,0-0,Newcastle
+Sun Sep 18 2005,Liverpool,0-0,0-0,Man United
+Sun Sep 18 2005,Man City,0-1,0-0,Bolton
+Sun Sep 18 2005,Wigan,1-1,0-1,Middlesbrough
+Mon Sep 19 2005,Arsenal,2-0,2-0,Everton
+Sat Sep 24 2005,Birmingham,2-2,0-0,Liverpool
+Sat Sep 24 2005,Bolton,1-0,1-0,Portsmouth
+Sat Sep 24 2005,Chelsea,2-1,1-1,Aston Villa
+Sat Sep 24 2005,Everton,0-1,0-0,Wigan
+Sat Sep 24 2005,Man United,1-2,0-1,Blackburn
+Sat Sep 24 2005,Newcastle,1-0,1-0,Man City
+Sat Sep 24 2005,West Brom,1-2,0-2,Charlton
+Sat Sep 24 2005,West Ham,0-0,0-0,Arsenal
+Sun Sep 25 2005,Middlesbrough,0-2,0-1,Sunderland
+Mon Sep 26 2005,Tottenham,1-0,1-0,Fulham
+Sat Oct 1 2005,Blackburn,2-0,0-0,West Brom
+Sat Oct 1 2005,Charlton,2-3,1-0,Tottenham
+Sat Oct 1 2005,Fulham,2-3,2-3,Man United
+Sat Oct 1 2005,Portsmouth,0-0,0-0,Newcastle
+Sat Oct 1 2005,Sunderland,1-1,1-0,West Ham
+Sun Oct 2 2005,Arsenal,1-0,0-0,Birmingham
+Sun Oct 2 2005,Aston Villa,2-3,0-1,Middlesbrough
+Sun Oct 2 2005,Liverpool,1-4,1-2,Chelsea
+Sun Oct 2 2005,Man City,2-0,0-0,Everton
+Sun Oct 2 2005,Wigan,2-1,0-0,Bolton
+Sat Oct 15 2005,Chelsea,5-1,0-1,Bolton
+Sat Oct 15 2005,Liverpool,1-0,0-0,Blackburn
+Sat Oct 15 2005,Middlesbrough,1-1,0-0,Portsmouth
+Sat Oct 15 2005,Sunderland,1-3,0-1,Man United
+Sat Oct 15 2005,Tottenham,2-0,0-0,Everton
+Sat Oct 15 2005,West Brom,2-1,1-1,Arsenal
+Sat Oct 15 2005,Wigan,1-0,1-0,Newcastle
+Sun Oct 16 2005,Birmingham,0-1,0-1,Aston Villa
+Sun Oct 16 2005,Man City,2-1,1-0,West Ham
+Mon Oct 17 2005,Charlton,1-1,0-1,Fulham
+Sat Oct 22 2005,Arsenal,1-0,0-0,Man City
+Sat Oct 22 2005,Aston Villa,0-2,0-1,Wigan
+Sat Oct 22 2005,Blackburn,2-0,0-0,Birmingham
+Sat Oct 22 2005,Fulham,2-0,1-0,Liverpool
+Sat Oct 22 2005,Man United,1-1,1-0,Tottenham
+Sat Oct 22 2005,Portsmouth,1-2,1-0,Charlton
+Sun Oct 23 2005,Bolton,2-0,0-0,West Brom
+Sun Oct 23 2005,Everton,1-1,1-0,Chelsea
+Sun Oct 23 2005,Newcastle,3-2,2-2,Sunderland
+Sun Oct 23 2005,West Ham,2-1,0-0,Middlesbrough
+Sat Oct 29 2005,Birmingham,0-1,0-1,Everton
+Sat Oct 29 2005,Charlton,0-1,0-0,Bolton
+Sat Oct 29 2005,Chelsea,4-2,2-2,Blackburn
+Sat Oct 29 2005,Liverpool,2-0,1-0,West Ham
+Sat Oct 29 2005,Middlesbrough,4-1,3-0,Man United
+Sat Oct 29 2005,Sunderland,1-4,1-0,Portsmouth
+Sat Oct 29 2005,Tottenham,1-1,1-0,Arsenal
+Sat Oct 29 2005,Wigan,1-0,0-0,Fulham
+Sun Oct 30 2005,West Brom,0-3,0-0,Newcastle
+Mon Oct 31 2005,Man City,3-1,2-0,Aston Villa
+Sat Nov 5 2005,Arsenal,3-1,2-0,Sunderland
+Sat Nov 5 2005,Aston Villa,0-2,0-0,Liverpool
+Sat Nov 5 2005,Blackburn,4-1,2-1,Charlton
+Sat Nov 5 2005,Fulham,2-1,2-1,Man City
+Sat Nov 5 2005,Newcastle,1-0,0-0,Birmingham
+Sat Nov 5 2005,Portsmouth,0-2,0-0,Wigan
+Sat Nov 5 2005,West Ham,1-0,0-0,West Brom
+Sun Nov 6 2005,Everton,1-0,1-0,Middlesbrough
+Sun Nov 6 2005,Man United,1-0,1-0,Chelsea
+Mon Nov 7 2005,Bolton,1-0,1-0,Tottenham
+Sat Nov 19 2005,Charlton,1-3,0-1,Man United
+Sat Nov 19 2005,Chelsea,3-0,0-0,Newcastle
+Sat Nov 19 2005,Liverpool,3-0,2-0,Portsmouth
+Sat Nov 19 2005,Man City,0-0,0-0,Blackburn
+Sat Nov 19 2005,Sunderland,1-3,0-0,Aston Villa
+Sat Nov 19 2005,West Brom,4-0,1-0,Everton
+Sat Nov 19 2005,Wigan,2-3,2-3,Arsenal
+Sun Nov 20 2005,Middlesbrough,3-2,0-1,Fulham
+Sun Nov 20 2005,Tottenham,1-1,1-0,West Ham
+Sat Nov 26 2005,Arsenal,3-0,2-0,Blackburn
+Sat Nov 26 2005,Aston Villa,1-0,0-0,Charlton
+Sat Nov 26 2005,Man City,0-1,0-0,Liverpool
+Sat Nov 26 2005,Portsmouth,0-2,0-1,Chelsea
+Sat Nov 26 2005,Sunderland,0-1,0-0,Birmingham
+Sat Nov 26 2005,Wigan,1-2,0-1,Tottenham
+Sun Nov 27 2005,Everton,1-0,0-0,Newcastle
+Sun Nov 27 2005,Fulham,2-1,2-0,Bolton
+Sun Nov 27 2005,Middlesbrough,2-2,1-1,West Brom
+Sun Nov 27 2005,West Ham,1-2,1-0,Man United
+Wed Nov 30 2005,Sunderland,0-2,0-2,Liverpool
+Sat Dec 3 2005,Blackburn,0-2,0-2,Everton
+Sat Dec 3 2005,Bolton,2-0,2-0,Arsenal
+Sat Dec 3 2005,Chelsea,1-0,0-0,Middlesbrough
+Sat Dec 3 2005,Liverpool,3-0,2-0,Wigan
+Sat Dec 3 2005,Man United,3-0,1-0,Portsmouth
+Sat Dec 3 2005,Newcastle,1-1,1-0,Aston Villa
+Sat Dec 3 2005,Tottenham,3-2,1-1,Sunderland
+Sat Dec 3 2005,West Brom,0-0,0-0,Fulham
+Sun Dec 4 2005,Charlton,2-5,1-2,Man City
+Mon Dec 5 2005,Birmingham,1-2,1-2,West Ham
+Sat Dec 10 2005,Birmingham,1-0,0-0,Fulham
+Sat Dec 10 2005,Blackburn,3-2,0-1,West Ham
+Sat Dec 10 2005,Bolton,1-1,0-0,Aston Villa
+Sat Dec 10 2005,Charlton,2-0,1-0,Sunderland
+Sat Dec 10 2005,Chelsea,1-0,0-0,Wigan
+Sat Dec 10 2005,Liverpool,2-0,0-0,Middlesbrough
+Sat Dec 10 2005,Newcastle,1-0,0-0,Arsenal
+Sat Dec 10 2005,West Brom,2-0,1-0,Man City
+Sun Dec 11 2005,Man United,1-1,1-1,Everton
+Mon Dec 12 2005,Tottenham,3-1,0-1,Portsmouth
+Wed Dec 14 2005,Everton,1-2,1-1,West Ham
+Wed Dec 14 2005,Man United,4-0,2-0,Wigan
+Sat Dec 17 2005,Aston Villa,0-2,0-1,Man United
+Sat Dec 17 2005,Everton,0-4,0-1,Bolton
+Sat Dec 17 2005,Fulham,2-1,1-0,Blackburn
+Sat Dec 17 2005,Man City,4-1,3-0,Birmingham
+Sat Dec 17 2005,Portsmouth,1-0,0-0,West Brom
+Sat Dec 17 2005,West Ham,2-4,1-2,Newcastle
+Sat Dec 17 2005,Wigan,3-0,1-0,Charlton
+Sun Dec 18 2005,Arsenal,0-2,0-1,Chelsea
+Sun Dec 18 2005,Middlesbrough,3-3,2-1,Tottenham
+Mon Dec 26 2005,Aston Villa,4-0,1-0,Everton
+Mon Dec 26 2005,Charlton,0-1,0-0,Arsenal
+Mon Dec 26 2005,Chelsea,3-2,2-1,Fulham
+Mon Dec 26 2005,Liverpool,2-0,2-0,Newcastle
+Mon Dec 26 2005,Man United,3-0,2-0,West Brom
+Mon Dec 26 2005,Middlesbrough,0-2,0-1,Blackburn
+Mon Dec 26 2005,Portsmouth,1-1,1-0,West Ham
+Mon Dec 26 2005,Sunderland,0-0,0-0,Bolton
+Mon Dec 26 2005,Tottenham,2-0,0-0,Birmingham
+Mon Dec 26 2005,Wigan,4-3,3-1,Man City
+Wed Dec 28 2005,Arsenal,4-0,4-0,Portsmouth
+Wed Dec 28 2005,Birmingham,2-2,1-1,Man United
+Wed Dec 28 2005,Everton,1-3,1-2,Liverpool
+Wed Dec 28 2005,Fulham,3-3,2-1,Aston Villa
+Wed Dec 28 2005,Man City,0-1,0-0,Chelsea
+Wed Dec 28 2005,West Brom,2-0,1-0,Tottenham
+Wed Dec 28 2005,West Ham,0-2,0-2,Wigan
+Sat Dec 31 2005,Aston Villa,0-0,0-0,Arsenal
+Sat Dec 31 2005,Charlton,2-0,1-0,West Ham
+Sat Dec 31 2005,Chelsea,2-0,2-0,Birmingham
+Sat Dec 31 2005,Liverpool,1-0,0-0,West Brom
+Sat Dec 31 2005,Man United,4-1,2-1,Bolton
+Sat Dec 31 2005,Middlesbrough,0-0,0-0,Man City
+Sat Dec 31 2005,Portsmouth,1-0,1-0,Fulham
+Sat Dec 31 2005,Sunderland,0-1,0-0,Everton
+Sat Dec 31 2005,Tottenham,2-0,1-0,Newcastle
+Sat Dec 31 2005,Wigan,0-3,0-1,Blackburn
+Mon Jan 2 2006,Birmingham,2-0,2-0,Wigan
+Mon Jan 2 2006,Blackburn,2-1,2-1,Portsmouth
+Mon Jan 2 2006,Bolton,2-2,1-0,Liverpool
+Mon Jan 2 2006,Everton,3-1,2-1,Charlton
+Mon Jan 2 2006,Fulham,2-1,1-1,Sunderland
+Mon Jan 2 2006,Newcastle,2-2,1-0,Middlesbrough
+Mon Jan 2 2006,West Brom,1-2,0-0,Aston Villa
+Mon Jan 2 2006,West Ham,1-3,0-1,Chelsea
+Tue Jan 3 2006,Arsenal,0-0,0-0,Man United
+Wed Jan 4 2006,Man City,0-2,0-1,Tottenham
+Sat Jan 14 2006,Arsenal,7-0,4-0,Middlesbrough
+Sat Jan 14 2006,Aston Villa,1-2,1-0,West Ham
+Sat Jan 14 2006,Blackburn,0-0,0-0,Bolton
+Sat Jan 14 2006,Charlton,2-0,1-0,Birmingham
+Sat Jan 14 2006,Fulham,1-0,0-0,Newcastle
+Sat Jan 14 2006,Liverpool,1-0,0-0,Tottenham
+Sat Jan 14 2006,Man City,3-1,2-0,Man United
+Sat Jan 14 2006,Portsmouth,0-1,0-1,Everton
+Sun Jan 15 2006,Sunderland,1-2,1-1,Chelsea
+Sun Jan 15 2006,Wigan,0-1,0-0,West Brom
+Sat Jan 21 2006,Birmingham,5-0,2-0,Portsmouth
+Sat Jan 21 2006,Bolton,2-0,2-0,Man City
+Sat Jan 21 2006,Everton,1-0,1-0,Arsenal
+Sat Jan 21 2006,Middlesbrough,2-3,0-2,Wigan
+Sat Jan 21 2006,Newcastle,0-1,0-0,Blackburn
+Sat Jan 21 2006,Tottenham,0-0,0-0,Aston Villa
+Sat Jan 21 2006,West Brom,0-1,0-0,Sunderland
+Sun Jan 22 2006,Chelsea,1-1,1-0,Charlton
+Sun Jan 22 2006,Man United,1-0,0-0,Liverpool
+Mon Jan 23 2006,West Ham,2-1,2-0,Fulham
+Tue Jan 31 2006,Charlton,0-0,0-0,West Brom
+Tue Jan 31 2006,Fulham,1-0,0-0,Tottenham
+Tue Jan 31 2006,Sunderland,0-3,0-2,Middlesbrough
+Tue Jan 31 2006,Wigan,1-1,1-1,Everton
+Wed Feb 1 2006,Arsenal,2-3,1-2,West Ham
+Wed Feb 1 2006,Aston Villa,1-1,0-1,Chelsea
+Wed Feb 1 2006,Blackburn,4-3,3-1,Man United
+Wed Feb 1 2006,Liverpool,1-1,0-0,Birmingham
+Wed Feb 1 2006,Man City,3-0,2-0,Newcastle
+Wed Feb 1 2006,Portsmouth,1-1,0-0,Bolton
+Sat Feb 4 2006,Birmingham,0-2,0-1,Arsenal
+Sat Feb 4 2006,Bolton,1-1,0-0,Wigan
+Sat Feb 4 2006,Everton,1-0,1-0,Man City
+Sat Feb 4 2006,Man United,4-2,3-2,Fulham
+Sat Feb 4 2006,Middlesbrough,0-4,0-2,Aston Villa
+Sat Feb 4 2006,Newcastle,2-0,1-0,Portsmouth
+Sat Feb 4 2006,West Brom,2-0,2-0,Blackburn
+Sat Feb 4 2006,West Ham,2-0,0-0,Sunderland
+Sun Feb 5 2006,Chelsea,2-0,1-0,Liverpool
+Sun Feb 5 2006,Tottenham,3-1,2-0,Charlton
+Wed Feb 8 2006,Charlton,2-0,2-0,Liverpool
+Sat Feb 11 2006,Arsenal,1-1,0-1,Bolton
+Sat Feb 11 2006,Aston Villa,1-2,1-2,Newcastle
+Sat Feb 11 2006,Everton,1-0,1-0,Blackburn
+Sat Feb 11 2006,Fulham,6-1,2-0,West Brom
+Sat Feb 11 2006,Middlesbrough,3-0,2-0,Chelsea
+Sat Feb 11 2006,Portsmouth,1-3,0-3,Man United
+Sat Feb 11 2006,Wigan,0-1,0-1,Liverpool
+Sun Feb 12 2006,Man City,3-2,1-0,Charlton
+Sun Feb 12 2006,Sunderland,1-1,0-1,Tottenham
+Mon Feb 13 2006,West Ham,3-0,1-0,Birmingham
+Tue Feb 14 2006,Liverpool,1-0,0-0,Arsenal
+Wed Feb 15 2006,Blackburn,2-0,1-0,Sunderland
+Sun Feb 19 2006,Tottenham,2-2,1-1,Wigan
+Wed Feb 22 2006,Newcastle,0-0,0-0,Charlton
+Sat Feb 25 2006,Birmingham,1-0,1-0,Sunderland
+Sat Feb 25 2006,Blackburn,1-0,1-0,Arsenal
+Sat Feb 25 2006,Charlton,0-0,0-0,Aston Villa
+Sat Feb 25 2006,Chelsea,2-0,0-0,Portsmouth
+Sat Feb 25 2006,Newcastle,2-0,0-0,Everton
+Sun Feb 26 2006,Bolton,2-1,1-1,Fulham
+Sun Feb 26 2006,Liverpool,1-0,1-0,Man City
+Sun Feb 26 2006,West Brom,0-2,0-2,Middlesbrough
+Sat Mar 4 2006,Aston Villa,1-0,1-0,Portsmouth
+Sat Mar 4 2006,Fulham,0-4,0-2,Arsenal
+Sat Mar 4 2006,Liverpool,0-0,0-0,Charlton
+Sat Mar 4 2006,Middlesbrough,1-0,1-0,Birmingham
+Sat Mar 4 2006,Newcastle,3-1,2-0,Bolton
+Sat Mar 4 2006,West Brom,1-2,0-0,Chelsea
+Sat Mar 4 2006,West Ham,2-2,2-1,Everton
+Sun Mar 5 2006,Man City,2-1,2-1,Sunderland
+Sun Mar 5 2006,Tottenham,3-2,2-1,Blackburn
+Mon Mar 6 2006,Wigan,1-2,0-0,Man United
+Sat Mar 11 2006,Birmingham,1-1,0-0,West Brom
+Sat Mar 11 2006,Blackburn,2-0,0-0,Aston Villa
+Sat Mar 11 2006,Bolton,4-1,3-0,West Ham
+Sat Mar 11 2006,Chelsea,2-1,1-1,Tottenham
+Sat Mar 11 2006,Everton,3-1,2-0,Fulham
+Sat Mar 11 2006,Portsmouth,2-1,0-0,Man City
+Sat Mar 11 2006,Sunderland,0-1,0-1,Wigan
+Sun Mar 12 2006,Arsenal,2-1,1-0,Liverpool
+Sun Mar 12 2006,Charlton,2-1,0-0,Middlesbrough
+Sun Mar 12 2006,Man United,2-0,2-0,Newcastle
+Wed Mar 15 2006,Liverpool,5-1,2-1,Fulham
+Sat Mar 18 2006,Arsenal,3-0,2-0,Charlton
+Sat Mar 18 2006,Birmingham,0-2,0-0,Tottenham
+Sat Mar 18 2006,Blackburn,3-2,2-1,Middlesbrough
+Sat Mar 18 2006,Bolton,2-0,0-0,Sunderland
+Sat Mar 18 2006,Everton,4-1,3-0,Aston Villa
+Sat Mar 18 2006,Man City,0-1,0-0,Wigan
+Sat Mar 18 2006,West Brom,1-2,0-1,Man United
+Sat Mar 18 2006,West Ham,2-4,0-3,Portsmouth
+Sun Mar 19 2006,Fulham,1-0,1-0,Chelsea
+Sun Mar 19 2006,Newcastle,1-3,1-2,Liverpool
+Sat Mar 25 2006,Aston Villa,0-0,0-0,Fulham
+Sat Mar 25 2006,Chelsea,2-0,2-0,Man City
+Sat Mar 25 2006,Liverpool,3-1,1-0,Everton
+Sat Mar 25 2006,Sunderland,0-1,0-1,Blackburn
+Sat Mar 25 2006,Wigan,1-2,1-0,West Ham
+Sun Mar 26 2006,Charlton,3-1,2-1,Newcastle
+Sun Mar 26 2006,Man United,3-0,2-0,Birmingham
+Sun Mar 26 2006,Middlesbrough,4-3,2-1,Bolton
+Mon Mar 27 2006,Tottenham,2-1,0-1,West Brom
+Wed Mar 29 2006,Man United,1-0,1-0,West Ham
+Sat Apr 1 2006,Arsenal,5-0,2-0,Aston Villa
+Sat Apr 1 2006,Birmingham,0-0,0-0,Chelsea
+Sat Apr 1 2006,Bolton,1-2,1-1,Man United
+Sat Apr 1 2006,Everton,2-2,2-1,Sunderland
+Sat Apr 1 2006,Fulham,1-3,1-2,Portsmouth
+Sat Apr 1 2006,Newcastle,3-1,3-1,Tottenham
+Sat Apr 1 2006,West Brom,0-2,0-2,Liverpool
+Sun Apr 2 2006,Man City,0-1,0-1,Middlesbrough
+Sun Apr 2 2006,West Ham,0-0,0-0,Charlton
+Mon Apr 3 2006,Blackburn,1-1,0-0,Wigan
+Tue Apr 4 2006,Birmingham,1-0,1-0,Bolton
+Sat Apr 8 2006,Charlton,0-0,0-0,Everton
+Sat Apr 8 2006,Portsmouth,2-2,1-1,Blackburn
+Sat Apr 8 2006,Tottenham,2-1,1-0,Man City
+Sat Apr 8 2006,Wigan,1-1,0-0,Birmingham
+Sun Apr 9 2006,Aston Villa,0-0,0-0,West Brom
+Sun Apr 9 2006,Chelsea,4-1,2-1,West Ham
+Sun Apr 9 2006,Liverpool,1-0,1-0,Bolton
+Sun Apr 9 2006,Man United,2-0,0-0,Arsenal
+Sun Apr 9 2006,Middlesbrough,1-2,0-2,Newcastle
+Wed Apr 12 2006,Portsmouth,1-1,0-1,Arsenal
+Fri Apr 14 2006,Man United,0-0,0-0,Sunderland
+Sat Apr 15 2006,Arsenal,3-1,1-0,West Brom
+Sat Apr 15 2006,Bolton,0-2,0-1,Chelsea
+Sat Apr 15 2006,Everton,0-1,0-1,Tottenham
+Sat Apr 15 2006,Fulham,2-1,2-1,Charlton
+Sat Apr 15 2006,Newcastle,3-1,2-1,Wigan
+Sat Apr 15 2006,Portsmouth,1-0,0-0,Middlesbrough
+Sat Apr 15 2006,West Ham,1-0,1-0,Man City
+Sun Apr 16 2006,Aston Villa,3-1,1-1,Birmingham
+Sun Apr 16 2006,Blackburn,0-1,0-1,Liverpool
+Mon Apr 17 2006,Charlton,2-1,0-1,Portsmouth
+Mon Apr 17 2006,Chelsea,3-0,1-0,Everton
+Mon Apr 17 2006,Middlesbrough,2-0,1-0,West Ham
+Mon Apr 17 2006,Sunderland,1-4,1-0,Newcastle
+Mon Apr 17 2006,Tottenham,1-2,0-2,Man United
+Mon Apr 17 2006,West Brom,0-0,0-0,Bolton
+Tue Apr 18 2006,Wigan,3-2,1-0,Aston Villa
+Wed Apr 19 2006,Birmingham,2-1,0-0,Blackburn
+Sat Apr 22 2006,Arsenal,1-1,0-0,Tottenham
+Sat Apr 22 2006,Bolton,4-1,3-0,Charlton
+Sat Apr 22 2006,Everton,0-0,0-0,Birmingham
+Sat Apr 22 2006,Newcastle,3-0,2-0,West Brom
+Sat Apr 22 2006,Portsmouth,2-1,0-0,Sunderland
+Mon Apr 24 2006,Fulham,1-0,1-0,Wigan
+Tue Apr 25 2006,Aston Villa,0-1,0-0,Man City
+Wed Apr 26 2006,West Ham,1-2,0-1,Liverpool
+Sat Apr 29 2006,Birmingham,0-0,0-0,Newcastle
+Sat Apr 29 2006,Charlton,0-2,0-1,Blackburn
+Sat Apr 29 2006,Chelsea,3-0,1-0,Man United
+Sat Apr 29 2006,Liverpool,3-1,1-0,Aston Villa
+Sat Apr 29 2006,Man City,1-2,0-0,Fulham
+Sat Apr 29 2006,Middlesbrough,0-1,0-0,Everton
+Sat Apr 29 2006,Wigan,1-2,1-0,Portsmouth
+Sun Apr 30 2006,Tottenham,1-0,0-0,Bolton
+Mon May 1 2006,Man United,0-0,0-0,Middlesbrough
+Mon May 1 2006,Sunderland,0-3,0-3,Arsenal
+Mon May 1 2006,West Brom,0-1,0-1,West Ham
+Tue May 2 2006,Blackburn,1-0,1-0,Chelsea
+Wed May 3 2006,Bolton,1-1,0-0,Middlesbrough
+Thu May 4 2006,Man City,1-3,1-1,Arsenal
+Thu May 4 2006,Sunderland,2-1,1-0,Fulham
+Sun May 7 2006,Arsenal,4-2,2-2,Wigan
+Sun May 7 2006,Aston Villa,2-1,1-0,Sunderland
+Sun May 7 2006,Blackburn,2-0,1-0,Man City
+Sun May 7 2006,Bolton,1-0,0-0,Birmingham
+Sun May 7 2006,Everton,2-2,0-1,West Brom
+Sun May 7 2006,Fulham,1-0,0-0,Middlesbrough
+Sun May 7 2006,Man United,4-0,3-0,Charlton
+Sun May 7 2006,Newcastle,1-0,0-0,Chelsea
+Sun May 7 2006,Portsmouth,1-3,0-0,Liverpool
+Sun May 7 2006,West Ham,2-1,1-1,Tottenham

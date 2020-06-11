@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 9 1997,Chester,2-0,?,Lincoln
+Sat Aug 9 1997,Colchester,2-1,?,Darlington
+Sat Aug 9 1997,Exeter,1-1,?,Hartlepool
+Sat Aug 9 1997,Leyton Orient,0-1,?,Cardiff
+Sat Aug 9 1997,Macclesfield,2-1,?,Torquay
+Sat Aug 9 1997,Mansfield,2-0,?,Hull
+Sat Aug 9 1997,Notts County,2-1,?,Rochdale
+Sat Aug 9 1997,Peterboro,0-1,?,Scunthorpe
+Sat Aug 9 1997,Rotherham,2-3,?,Barnet
+Sat Aug 9 1997,Scarborough,1-0,?,Cambridge
+Sat Aug 9 1997,Shrewsbury,2-1,?,Doncaster
+Sat Aug 9 1997,Swansea,1-0,?,Brighton
+Sat Aug 16 1997,Barnet,1-2,?,Exeter
+Sat Aug 16 1997,Brighton,1-1,?,Macclesfield
+Sat Aug 16 1997,Cambridge,2-1,?,Rotherham
+Sat Aug 16 1997,Doncaster,0-5,?,Peterboro
+Sat Aug 16 1997,Hartlepool,3-2,?,Colchester
+Sat Aug 16 1997,Hull,0-3,?,Notts County
+Sat Aug 16 1997,Lincoln,1-0,?,Shrewsbury
+Sat Aug 16 1997,Rochdale,2-0,?,Mansfield
+Sat Aug 16 1997,Scunthorpe,1-0,?,Leyton Orient
+Sat Aug 16 1997,Torquay,1-0,?,Scarborough
+Fri Aug 22 1997,Colchester,1-1,?,Barnet
+Fri Aug 22 1997,Scarborough,2-1,?,Brighton
+Sat Aug 23 1997,Chester,1-1,?,Cambridge
+Sat Aug 23 1997,Exeter,1-0,?,Darlington
+Sat Aug 23 1997,Leyton Orient,2-0,?,Rochdale
+Sat Aug 23 1997,Macclesfield,3-0,?,Doncaster
+Sat Aug 23 1997,Mansfield,1-2,?,Cardiff
+Sat Aug 23 1997,Notts County,1-2,?,Lincoln
+Sat Aug 23 1997,Peterboro,2-0,?,Hull
+Sat Aug 23 1997,Rotherham,2-1,?,Hartlepool
+Sat Aug 23 1997,Shrewsbury,1-2,?,Torquay
+Sat Aug 23 1997,Swansea,2-0,?,Scunthorpe
+Sat Aug 30 1997,Barnet,2-1,?,Chester
+Sat Aug 30 1997,Brighton,0-1,?,Leyton Orient
+Sat Aug 30 1997,Cambridge,4-3,?,Shrewsbury
+Sat Aug 30 1997,Cardiff,1-1,?,Notts County
+Sat Aug 30 1997,Darlington,1-1,?,Rotherham
+Sat Aug 30 1997,Doncaster,0-1,?,Exeter
+Sat Aug 30 1997,Hartlepool,0-0,?,Macclesfield
+Sat Aug 30 1997,Hull,7-4,?,Swansea
+Sat Aug 30 1997,Lincoln,3-3,?,Scarborough
+Sat Aug 30 1997,Rochdale,1-2,?,Peterboro
+Sat Aug 30 1997,Scunthorpe,1-0,?,Mansfield
+Sat Aug 30 1997,Torquay,1-1,?,Colchester
+Tue Sep 2 1997,Barnet,2-0,?,Swansea
+Tue Sep 2 1997,Cambridge,4-1,?,Colchester
+Tue Sep 2 1997,Cardiff,2-2,?,Shrewsbury
+Tue Sep 2 1997,Darlington,1-2,?,Scarborough
+Tue Sep 2 1997,Doncaster,1-4,?,Leyton Orient
+Tue Sep 2 1997,Hartlepool,1-1,?,Notts County
+Tue Sep 2 1997,Hull,0-0,?,Rotherham
+Tue Sep 2 1997,Lincoln,0-2,?,Mansfield
+Tue Sep 2 1997,Rochdale,2-0,?,Macclesfield
+Tue Sep 2 1997,Scunthorpe,2-1,?,Chester
+Tue Sep 2 1997,Torquay,1-2,?,Exeter
+Wed Sep 3 1997,Brighton,2-2,?,Peterboro
+Fri Sep 5 1997,Chester,1-0,?,Hull
+Fri Sep 5 1997,Leyton Orient,0-2,?,Cambridge
+Fri Sep 5 1997,Macclesfield,2-1,?,Darlington
+Fri Sep 5 1997,Mansfield,1-1,?,Doncaster
+Fri Sep 5 1997,Swansea,2-0,?,Torquay
+Sun Sep 7 1997,Notts County,2-1,?,Scunthorpe
+Sun Sep 7 1997,Peterboro,5-1,?,Barnet
+Sun Sep 7 1997,Scarborough,1-1,?,Hartlepool
+Mon Sep 8 1997,Colchester,3-1,?,Brighton
+Tue Sep 9 1997,Darlington,3-2,?,Swansea
+Tue Sep 9 1997,Exeter,1-1,?,Cardiff
+Tue Sep 9 1997,Shrewsbury,1-0,?,Rochdale
+Wed Sep 10 1997,Rotherham,3-1,?,Lincoln
+Fri Sep 12 1997,Colchester,1-0,?,Scarborough
+Sat Sep 13 1997,Brighton,0-0,?,Darlington
+Sat Sep 13 1997,Cambridge,1-3,?,Barnet
+Sat Sep 13 1997,Cardiff,2-1,?,Rochdale
+Sat Sep 13 1997,Chester,2-0,?,Shrewsbury
+Sat Sep 13 1997,Hartlepool,3-0,?,Torquay
+Sat Sep 13 1997,Hull,0-2,?,Lincoln
+Sat Sep 13 1997,Leyton Orient,1-0,?,Exeter
+Sat Sep 13 1997,Macclesfield,3-0,?,Swansea
+Sat Sep 13 1997,Notts County,1-0,?,Mansfield
+Sat Sep 13 1997,Rotherham,2-2,?,Peterboro
+Sat Sep 13 1997,Scunthorpe,1-1,?,Doncaster
+Tue Sep 16 1997,Cardiff,0-2,?,Chester
+Sat Sep 20 1997,Barnet,0-1,?,Scunthorpe
+Sat Sep 20 1997,Darlington,1-1,?,Hartlepool
+Sat Sep 20 1997,Doncaster,0-0,?,Cambridge
+Sat Sep 20 1997,Exeter,3-1,?,Rotherham
+Sat Sep 20 1997,Lincoln,1-0,?,Cardiff
+Sat Sep 20 1997,Mansfield,4-1,?,Chester
+Sat Sep 20 1997,Peterboro,2-0,?,Leyton Orient
+Sat Sep 20 1997,Rochdale,2-1,?,Hull
+Sat Sep 20 1997,Scarborough,2-1,?,Macclesfield
+Sat Sep 20 1997,Shrewsbury,1-2,?,Notts County
+Sat Sep 20 1997,Swansea,0-1,?,Colchester
+Sat Sep 20 1997,Torquay,3-0,?,Brighton
+Sat Sep 27 1997,Barnet,0-0,?,Lincoln
+Sat Sep 27 1997,Brighton,2-1,?,Rochdale
+Sat Sep 27 1997,Cambridge,2-2,?,Cardiff
+Sat Sep 27 1997,Colchester,1-2,?,Exeter
+Sat Sep 27 1997,Darlington,0-0,?,Mansfield
+Sat Sep 27 1997,Hartlepool,2-1,?,Shrewsbury
+Sat Sep 27 1997,Macclesfield,1-1,?,Peterboro
+Sat Sep 27 1997,Rotherham,4-2,?,Chester
+Sat Sep 27 1997,Scarborough,1-2,?,Notts County
+Sat Sep 27 1997,Scunthorpe,2-0,?,Hull
+Sat Sep 27 1997,Swansea,1-1,?,Leyton Orient
+Sat Sep 27 1997,Torquay,2-0,?,Doncaster
+Sat Oct 4 1997,Cardiff,1-1,?,Barnet
+Sat Oct 4 1997,Chester,3-1,?,Hartlepool
+Sat Oct 4 1997,Doncaster,1-3,?,Brighton
+Sat Oct 4 1997,Exeter,1-1,?,Scarborough
+Sat Oct 4 1997,Hull,3-3,?,Torquay
+Sat Oct 4 1997,Leyton Orient,1-1,?,Macclesfield
+Sat Oct 4 1997,Lincoln,0-0,?,Cambridge
+Sat Oct 4 1997,Mansfield,1-1,?,Colchester
+Sat Oct 4 1997,Notts County,1-1,?,Darlington
+Sat Oct 4 1997,Peterboro,3-1,?,Swansea
+Sat Oct 4 1997,Rochdale,2-0,?,Scunthorpe
+Sat Oct 4 1997,Shrewsbury,2-1,?,Rotherham
+Sat Oct 11 1997,Chester,2-0,?,Brighton
+Sat Oct 11 1997,Doncaster,2-2,?,Hartlepool
+Sat Oct 11 1997,Exeter,1-0,?,Swansea
+Sat Oct 11 1997,Hull,3-0,?,Scarborough
+Sat Oct 11 1997,Leyton Orient,1-1,?,Rotherham
+Sat Oct 11 1997,Lincoln,1-1,?,Torquay
+Sat Oct 11 1997,Mansfield,3-2,?,Cambridge
+Sat Oct 11 1997,Notts County,1-1,?,Macclesfield
+Sat Oct 11 1997,Peterboro,3-2,?,Colchester
+Sat Oct 11 1997,Rochdale,5-0,?,Darlington
+Sat Oct 11 1997,Shrewsbury,2-0,?,Barnet
+Sat Oct 18 1997,Barnet,2-0,?,Hull
+Sat Oct 18 1997,Brighton,1-3,?,Exeter
+Sat Oct 18 1997,Cambridge,1-1,?,Rochdale
+Sat Oct 18 1997,Colchester,1-1,?,Shrewsbury
+Sat Oct 18 1997,Darlington,5-1,?,Doncaster
+Sat Oct 18 1997,Hartlepool,2-2,?,Leyton Orient
+Sat Oct 18 1997,Macclesfield,1-0,?,Mansfield
+Sat Oct 18 1997,Rotherham,1-1,?,Cardiff
+Sat Oct 18 1997,Scarborough,1-3,?,Peterboro
+Sat Oct 18 1997,Scunthorpe,0-1,?,Lincoln
+Sat Oct 18 1997,Swansea,1-2,?,Notts County
+Sat Oct 18 1997,Torquay,3-1,?,Chester
+Tue Oct 21 1997,Barnet,3-1,?,Rochdale
+Tue Oct 21 1997,Cambridge,0-1,?,Hull
+Tue Oct 21 1997,Colchester,2-1,?,Doncaster
+Tue Oct 21 1997,Darlington,0-0,?,Cardiff
+Tue Oct 21 1997,Hartlepool,2-1,?,Peterboro
+Tue Oct 21 1997,Macclesfield,2-2,?,Exeter
+Tue Oct 21 1997,Rotherham,1-1,?,Notts County
+Tue Oct 21 1997,Scarborough,4-1,?,Chester
+Tue Oct 21 1997,Scunthorpe,1-1,?,Shrewsbury
+Tue Oct 21 1997,Swansea,0-1,?,Mansfield
+Tue Oct 21 1997,Torquay,1-1,?,Leyton Orient
+Wed Oct 22 1997,Brighton,0-1,?,Lincoln
+Thu Oct 23 1997,Doncaster,0-3,?,Swansea
+Sat Oct 25 1997,Cardiff,1-1,?,Hartlepool
+Sat Oct 25 1997,Chester,1-1,?,Macclesfield
+Sat Oct 25 1997,Exeter,2-3,?,Scunthorpe
+Sat Oct 25 1997,Hull,0-0,?,Brighton
+Sat Oct 25 1997,Leyton Orient,0-2,?,Colchester
+Sat Oct 25 1997,Lincoln,3-1,?,Darlington
+Sat Oct 25 1997,Mansfield,1-2,?,Barnet
+Sat Oct 25 1997,Notts County,1-0,?,Cambridge
+Sat Oct 25 1997,Peterboro,2-0,?,Torquay
+Sat Oct 25 1997,Rochdale,0-1,?,Rotherham
+Sat Oct 25 1997,Shrewsbury,0-1,?,Scarborough
+Fri Oct 31 1997,Colchester,3-3,?,Scunthorpe
+Sat Nov 1 1997,Barnet,1-2,?,Notts County
+Sat Nov 1 1997,Cambridge,1-1,?,Torquay
+Sat Nov 1 1997,Chester,4-0,?,Rochdale
+Sat Nov 1 1997,Darlington,4-3,?,Hull
+Sat Nov 1 1997,Exeter,0-0,?,Peterboro
+Sat Nov 1 1997,Hartlepool,0-0,?,Brighton
+Sat Nov 1 1997,Lincoln,1-0,?,Leyton Orient
+Sat Nov 1 1997,Rotherham,1-0,?,Macclesfield
+Sat Nov 1 1997,Scarborough,4-0,?,Doncaster
+Sat Nov 1 1997,Shrewsbury,3-2,?,Mansfield
+Sun Nov 2 1997,Cardiff,0-1,?,Swansea
+Tue Nov 4 1997,Doncaster,1-1,?,Cardiff
+Tue Nov 4 1997,Hull,3-2,?,Exeter
+Tue Nov 4 1997,Leyton Orient,3-1,?,Scarborough
+Tue Nov 4 1997,Macclesfield,0-0,?,Colchester
+Tue Nov 4 1997,Mansfield,3-3,?,Rotherham
+Tue Nov 4 1997,Notts County,1-2,?,Chester
+Tue Nov 4 1997,Peterboro,1-1,?,Shrewsbury
+Tue Nov 4 1997,Rochdale,0-0,?,Lincoln
+Tue Nov 4 1997,Scunthorpe,3-3,?,Cambridge
+Tue Nov 4 1997,Swansea,0-2,?,Hartlepool
+Tue Nov 4 1997,Torquay,2-1,?,Darlington
+Wed Nov 5 1997,Brighton,0-3,?,Barnet
+Sat Nov 8 1997,Barnet,1-1,?,Doncaster
+Sat Nov 8 1997,Brighton,1-2,?,Rotherham
+Sat Nov 8 1997,Cardiff,1-1,?,Torquay
+Sat Nov 8 1997,Hull,1-4,?,Shrewsbury
+Sat Nov 8 1997,Leyton Orient,1-0,?,Chester
+Sat Nov 8 1997,Macclesfield,3-1,?,Cambridge
+Sat Nov 8 1997,Mansfield,3-2,?,Scarborough
+Sat Nov 8 1997,Notts County,1-1,?,Exeter
+Sat Nov 8 1997,Peterboro,1-1,?,Darlington
+Sat Nov 8 1997,Rochdale,2-1,?,Colchester
+Sat Nov 8 1997,Scunthorpe,1-1,?,Hartlepool
+Sat Nov 8 1997,Swansea,0-0,?,Lincoln
+Tue Nov 11 1997,Cardiff,0-0,?,Scunthorpe
+Tue Nov 18 1997,Barnet,3-3,?,Torquay
+Tue Nov 18 1997,Cambridge,1-1,?,Brighton
+Tue Nov 18 1997,Cardiff,2-1,?,Hull
+Tue Nov 18 1997,Chester,0-0,?,Peterboro
+Tue Nov 18 1997,Colchester,2-0,?,Notts County
+Tue Nov 18 1997,Darlington,1-0,?,Leyton Orient
+Tue Nov 18 1997,Exeter,1-0,?,Mansfield
+Tue Nov 18 1997,Hartlepool,2-0,?,Rochdale
+Tue Nov 18 1997,Lincoln,2-1,?,Doncaster
+Tue Nov 18 1997,Rotherham,1-3,?,Scunthorpe
+Tue Nov 18 1997,Scarborough,3-2,?,Swansea
+Tue Nov 18 1997,Shrewsbury,4-3,?,Macclesfield
+Sat Nov 22 1997,Brighton,0-1,?,Cardiff
+Sat Nov 22 1997,Colchester,0-1,?,Lincoln
+Sat Nov 22 1997,Darlington,1-1,?,Cambridge
+Sat Nov 22 1997,Doncaster,0-3,?,Rochdale
+Sat Nov 22 1997,Exeter,2-2,?,Shrewsbury
+Sat Nov 22 1997,Hartlepool,2-0,?,Barnet
+Sat Nov 22 1997,Leyton Orient,1-1,?,Notts County
+Sat Nov 22 1997,Macclesfield,2-0,?,Hull
+Sat Nov 22 1997,Peterboro,1-1,?,Mansfield
+Sat Nov 22 1997,Scarborough,1-2,?,Rotherham
+Sat Nov 22 1997,Torquay,2-4,?,Scunthorpe
+Mon Nov 24 1997,Chester,2-0,?,Swansea
+Sat Nov 29 1997,Barnet,2-0,?,Darlington
+Sat Nov 29 1997,Cambridge,2-0,?,Hartlepool
+Sat Nov 29 1997,Cardiff,1-1,?,Scarborough
+Sat Nov 29 1997,Chester,1-1,?,Exeter
+Sat Nov 29 1997,Hull,3-0,?,Doncaster
+Sat Nov 29 1997,Lincoln,1-1,?,Macclesfield
+Sat Nov 29 1997,Mansfield,0-0,?,Leyton Orient
+Sat Nov 29 1997,Notts County,2-2,?,Peterboro
+Sat Nov 29 1997,Rochdale,0-1,?,Torquay
+Sat Nov 29 1997,Rotherham,3-2,?,Colchester
+Sat Nov 29 1997,Scunthorpe,0-2,?,Brighton
+Sat Nov 29 1997,Shrewsbury,0-1,?,Swansea
+Tue Dec 2 1997,Doncaster,2-1,?,Chester
+Tue Dec 2 1997,Exeter,1-2,?,Lincoln
+Tue Dec 2 1997,Hartlepool,2-2,?,Hull
+Tue Dec 2 1997,Leyton Orient,2-0,?,Barnet
+Tue Dec 2 1997,Peterboro,1-0,?,Cambridge
+Tue Dec 2 1997,Swansea,1-1,?,Rotherham
+Tue Dec 2 1997,Torquay,2-1,?,Mansfield
+Wed Dec 3 1997,Brighton,0-1,?,Notts County
+Sat Dec 6 1997,Scarborough,1-0,?,Rochdale
+Fri Dec 12 1997,Cambridge,2-1,?,Exeter
+Sat Dec 13 1997,Barnet,3-1,?,Macclesfield
+Sat Dec 13 1997,Cardiff,0-0,?,Peterboro
+Sat Dec 13 1997,Chester,2-1,?,Darlington
+Sat Dec 13 1997,Hull,3-1,?,Colchester
+Sat Dec 13 1997,Lincoln,1-1,?,Hartlepool
+Sat Dec 13 1997,Mansfield,1-1,?,Brighton
+Sat Dec 13 1997,Notts County,5-2,?,Doncaster
+Sat Dec 13 1997,Rochdale,3-0,?,Swansea
+Sat Dec 13 1997,Rotherham,0-1,?,Torquay
+Sat Dec 13 1997,Scunthorpe,1-3,?,Scarborough
+Sat Dec 13 1997,Shrewsbury,1-2,?,Leyton Orient
+Fri Dec 19 1997,Colchester,2-0,?,Chester
+Fri Dec 19 1997,Doncaster,0-3,?,Rotherham
+Fri Dec 19 1997,Scarborough,1-0,?,Barnet
+Sat Dec 20 1997,Brighton,0-0,?,Shrewsbury
+Sat Dec 20 1997,Darlington,1-0,?,Scunthorpe
+Sat Dec 20 1997,Exeter,3-0,?,Rochdale
+Sat Dec 20 1997,Hartlepool,2-2,?,Mansfield
+Sat Dec 20 1997,Leyton Orient,2-1,?,Hull
+Sat Dec 20 1997,Macclesfield,1-0,?,Cardiff
+Sat Dec 20 1997,Peterboro,5-1,?,Lincoln
+Sat Dec 20 1997,Swansea,1-1,?,Cambridge
+Sat Dec 20 1997,Torquay,0-2,?,Notts County
+Fri Dec 26 1997,Barnet,2-0,?,Peterboro
+Fri Dec 26 1997,Brighton,4-4,?,Colchester
+Fri Dec 26 1997,Cambridge,1-0,?,Leyton Orient
+Fri Dec 26 1997,Cardiff,1-1,?,Exeter
+Fri Dec 26 1997,Darlington,4-2,?,Macclesfield
+Fri Dec 26 1997,Hartlepool,3-0,?,Scarborough
+Fri Dec 26 1997,Hull,1-2,?,Chester
+Fri Dec 26 1997,Lincoln,0-1,?,Rotherham
+Fri Dec 26 1997,Rochdale,3-1,?,Shrewsbury
+Fri Dec 26 1997,Scunthorpe,1-2,?,Notts County
+Fri Dec 26 1997,Torquay,2-0,?,Swansea
+Sun Dec 28 1997,Chester,1-0,?,Scunthorpe
+Sun Dec 28 1997,Exeter,1-1,?,Torquay
+Sun Dec 28 1997,Leyton Orient,8-0,?,Doncaster
+Sun Dec 28 1997,Macclesfield,1-0,?,Rochdale
+Sun Dec 28 1997,Mansfield,2-2,?,Lincoln
+Sun Dec 28 1997,Notts County,2-0,?,Hartlepool
+Sun Dec 28 1997,Peterboro,1-2,?,Brighton
+Sun Dec 28 1997,Rotherham,5-4,?,Hull
+Sun Dec 28 1997,Shrewsbury,3-2,?,Cardiff
+Sun Dec 28 1997,Swansea,0-2,?,Barnet
+Mon Dec 29 1997,Colchester,3-2,?,Cambridge
+Sat Jan 3 1998,Colchester,1-2,?,Hartlepool
+Sat Jan 3 1998,Mansfield,3-0,?,Rochdale
+Tue Jan 6 1998,Scarborough,2-1,?,Darlington
+Sat Jan 10 1998,Barnet,0-0,?,Rotherham
+Sat Jan 10 1998,Brighton,0-1,?,Swansea
+Sat Jan 10 1998,Cambridge,2-3,?,Scarborough
+Sat Jan 10 1998,Cardiff,1-0,?,Leyton Orient
+Sat Jan 10 1998,Darlington,4-2,?,Colchester
+Sat Jan 10 1998,Doncaster,1-0,?,Shrewsbury
+Sat Jan 10 1998,Hartlepool,1-1,?,Exeter
+Sat Jan 10 1998,Hull,0-0,?,Mansfield
+Sat Jan 10 1998,Lincoln,1-3,?,Chester
+Sat Jan 10 1998,Rochdale,1-2,?,Notts County
+Sat Jan 10 1998,Scunthorpe,1-3,?,Peterboro
+Sat Jan 10 1998,Torquay,2-0,?,Macclesfield
+Fri Jan 16 1998,Colchester,1-0,?,Torquay
+Sat Jan 17 1998,Chester,0-1,?,Barnet
+Sat Jan 17 1998,Exeter,5-1,?,Doncaster
+Sat Jan 17 1998,Leyton Orient,3-1,?,Brighton
+Sat Jan 17 1998,Macclesfield,2-1,?,Hartlepool
+Sat Jan 17 1998,Mansfield,1-0,?,Scunthorpe
+Sat Jan 17 1998,Notts County,3-1,?,Cardiff
+Sat Jan 17 1998,Peterboro,3-1,?,Rochdale
+Sat Jan 17 1998,Rotherham,3-0,?,Darlington
+Sat Jan 17 1998,Scarborough,2-2,?,Lincoln
+Sat Jan 17 1998,Shrewsbury,1-1,?,Cambridge
+Sat Jan 17 1998,Swansea,2-0,?,Hull
+Tue Jan 20 1998,Colchester,2-1,?,Cardiff
+Tue Jan 20 1998,Exeter,0-0,?,Barnet
+Tue Jan 20 1998,Macclesfield,2-0,?,Scunthorpe
+Tue Jan 20 1998,Notts County,1-0,?,Hull
+Tue Jan 20 1998,Scarborough,4-1,?,Torquay
+Sat Jan 24 1998,Barnet,3-2,?,Colchester
+Sat Jan 24 1998,Brighton,1-1,?,Scarborough
+Sat Jan 24 1998,Cambridge,1-2,?,Chester
+Sat Jan 24 1998,Darlington,3-2,?,Exeter
+Sat Jan 24 1998,Doncaster,0-3,?,Macclesfield
+Sat Jan 24 1998,Hartlepool,0-0,?,Rotherham
+Sat Jan 24 1998,Hull,3-1,?,Peterboro
+Sat Jan 24 1998,Lincoln,3-5,?,Notts County
+Sat Jan 24 1998,Rochdale,0-2,?,Leyton Orient
+Sat Jan 24 1998,Scunthorpe,1-0,?,Swansea
+Sat Jan 24 1998,Torquay,3-0,?,Shrewsbury
+Tue Jan 27 1998,Chester,0-0,?,Cardiff
+Tue Jan 27 1998,Macclesfield,1-0,?,Brighton
+Tue Jan 27 1998,Rotherham,2-2,?,Cambridge
+Tue Jan 27 1998,Swansea,4-0,?,Darlington
+Fri Jan 30 1998,Doncaster,1-2,?,Scunthorpe
+Sat Jan 31 1998,Barnet,2-0,?,Cambridge
+Sat Jan 31 1998,Darlington,1-0,?,Brighton
+Sat Jan 31 1998,Exeter,2-2,?,Leyton Orient
+Sat Jan 31 1998,Lincoln,1-0,?,Hull
+Sat Jan 31 1998,Mansfield,0-2,?,Notts County
+Sat Jan 31 1998,Peterboro,1-0,?,Rotherham
+Sat Jan 31 1998,Rochdale,0-0,?,Cardiff
+Sat Jan 31 1998,Scarborough,1-1,?,Colchester
+Sat Jan 31 1998,Shrewsbury,1-1,?,Chester
+Sat Jan 31 1998,Swansea,1-1,?,Macclesfield
+Sat Jan 31 1998,Torquay,1-0,?,Hartlepool
+Tue Feb 3 1998,Doncaster,0-3,?,Mansfield
+Fri Feb 6 1998,Colchester,1-2,?,Swansea
+Fri Feb 6 1998,Leyton Orient,1-0,?,Peterboro
+Sat Feb 7 1998,Brighton,1-4,?,Torquay
+Sat Feb 7 1998,Cambridge,2-1,?,Doncaster
+Sat Feb 7 1998,Cardiff,0-1,?,Lincoln
+Sat Feb 7 1998,Chester,0-1,?,Mansfield
+Sat Feb 7 1998,Hartlepool,2-2,?,Darlington
+Sat Feb 7 1998,Hull,0-2,?,Rochdale
+Sat Feb 7 1998,Macclesfield,3-1,?,Scarborough
+Sat Feb 7 1998,Notts County,1-1,?,Shrewsbury
+Sat Feb 7 1998,Rotherham,1-0,?,Exeter
+Sat Feb 7 1998,Scunthorpe,1-1,?,Barnet
+Tue Feb 10 1998,Peterboro,0-1,?,Doncaster
+Fri Feb 13 1998,Cambridge,1-1,?,Lincoln
+Fri Feb 13 1998,Colchester,2-0,?,Mansfield
+Sat Feb 14 1998,Barnet,2-2,?,Cardiff
+Sat Feb 14 1998,Brighton,0-0,?,Doncaster
+Sat Feb 14 1998,Darlington,0-2,?,Notts County
+Sat Feb 14 1998,Hartlepool,0-0,?,Chester
+Sat Feb 14 1998,Macclesfield,1-0,?,Leyton Orient
+Sat Feb 14 1998,Rotherham,0-1,?,Shrewsbury
+Sat Feb 14 1998,Scarborough,4-1,?,Exeter
+Sat Feb 14 1998,Scunthorpe,2-0,?,Rochdale
+Sat Feb 14 1998,Swansea,0-1,?,Peterboro
+Sat Feb 14 1998,Torquay,5-1,?,Hull
+Tue Feb 17 1998,Cardiff,4-1,?,Mansfield
+Sat Feb 21 1998,Cardiff,0-0,?,Cambridge
+Sat Feb 21 1998,Chester,4-0,?,Rotherham
+Sat Feb 21 1998,Doncaster,0-1,?,Torquay
+Sat Feb 21 1998,Exeter,0-1,?,Colchester
+Sat Feb 21 1998,Hull,2-1,?,Scunthorpe
+Sat Feb 21 1998,Leyton Orient,2-2,?,Swansea
+Sat Feb 21 1998,Lincoln,2-0,?,Barnet
+Sat Feb 21 1998,Mansfield,4-0,?,Darlington
+Sat Feb 21 1998,Notts County,1-0,?,Scarborough
+Sat Feb 21 1998,Peterboro,0-1,?,Macclesfield
+Sat Feb 21 1998,Rochdale,2-0,?,Brighton
+Sat Feb 21 1998,Shrewsbury,1-0,?,Hartlepool
+Tue Feb 24 1998,Cardiff,2-2,?,Rotherham
+Tue Feb 24 1998,Chester,1-3,?,Torquay
+Tue Feb 24 1998,Doncaster,0-2,?,Darlington
+Tue Feb 24 1998,Exeter,2-1,?,Brighton
+Tue Feb 24 1998,Hull,0-2,?,Barnet
+Tue Feb 24 1998,Leyton Orient,2-1,?,Hartlepool
+Tue Feb 24 1998,Lincoln,1-1,?,Scunthorpe
+Tue Feb 24 1998,Mansfield,1-0,?,Macclesfield
+Tue Feb 24 1998,Notts County,2-1,?,Swansea
+Tue Feb 24 1998,Peterboro,0-0,?,Scarborough
+Tue Feb 24 1998,Rochdale,2-0,?,Cambridge
+Tue Feb 24 1998,Shrewsbury,0-2,?,Colchester
+Fri Feb 27 1998,Colchester,1-0,?,Peterboro
+Sat Feb 28 1998,Barnet,1-1,?,Shrewsbury
+Sat Feb 28 1998,Brighton,3-2,?,Chester
+Sat Feb 28 1998,Cambridge,2-0,?,Mansfield
+Sat Feb 28 1998,Darlington,1-0,?,Rochdale
+Sat Feb 28 1998,Hartlepool,3-1,?,Doncaster
+Sat Feb 28 1998,Macclesfield,2-0,?,Notts County
+Sat Feb 28 1998,Rotherham,2-1,?,Leyton Orient
+Sat Feb 28 1998,Scarborough,2-1,?,Hull
+Sat Feb 28 1998,Scunthorpe,3-3,?,Cardiff
+Sat Feb 28 1998,Swansea,2-1,?,Exeter
+Sat Feb 28 1998,Torquay,3-2,?,Lincoln
+Tue Mar 3 1998,Cambridge,0-0,?,Macclesfield
+Tue Mar 3 1998,Chester,1-1,?,Leyton Orient
+Tue Mar 3 1998,Colchester,0-0,?,Rochdale
+Tue Mar 3 1998,Darlington,3-1,?,Peterboro
+Tue Mar 3 1998,Doncaster,0-2,?,Barnet
+Tue Mar 3 1998,Exeter,2-5,?,Notts County
+Tue Mar 3 1998,Hartlepool,0-1,?,Scunthorpe
+Tue Mar 3 1998,Lincoln,1-1,?,Swansea
+Tue Mar 3 1998,Rotherham,0-0,?,Brighton
+Tue Mar 3 1998,Scarborough,2-2,?,Mansfield
+Tue Mar 3 1998,Shrewsbury,2-0,?,Hull
+Tue Mar 3 1998,Torquay,1-0,?,Cardiff
+Sat Mar 7 1998,Brighton,0-0,?,Hartlepool
+Sat Mar 7 1998,Hull,1-1,?,Darlington
+Sat Mar 7 1998,Leyton Orient,1-0,?,Lincoln
+Sat Mar 7 1998,Macclesfield,0-0,?,Rotherham
+Sat Mar 7 1998,Mansfield,1-1,?,Shrewsbury
+Sat Mar 7 1998,Notts County,2-0,?,Barnet
+Sat Mar 7 1998,Peterboro,1-1,?,Exeter
+Sat Mar 7 1998,Rochdale,1-1,?,Chester
+Sat Mar 7 1998,Scunthorpe,1-0,?,Colchester
+Sat Mar 7 1998,Torquay,0-3,?,Cambridge
+Sun Mar 8 1998,Swansea,1-1,?,Cardiff
+Tue Mar 10 1998,Doncaster,1-2,?,Scarborough
+Sat Mar 14 1998,Barnet,2-0,?,Brighton
+Sat Mar 14 1998,Cambridge,2-2,?,Scunthorpe
+Sat Mar 14 1998,Cardiff,7-1,?,Doncaster
+Sat Mar 14 1998,Chester,0-1,?,Notts County
+Sat Mar 14 1998,Colchester,5-1,?,Macclesfield
+Sat Mar 14 1998,Darlington,1-2,?,Torquay
+Sat Mar 14 1998,Exeter,3-0,?,Hull
+Sat Mar 14 1998,Hartlepool,4-2,?,Swansea
+Sat Mar 14 1998,Lincoln,2-0,?,Rochdale
+Sat Mar 14 1998,Rotherham,2-2,?,Mansfield
+Sat Mar 14 1998,Scarborough,2-0,?,Leyton Orient
+Sat Mar 14 1998,Shrewsbury,4-1,?,Peterboro
+Sat Mar 21 1998,Brighton,0-2,?,Cambridge
+Sat Mar 21 1998,Doncaster,2-4,?,Lincoln
+Sat Mar 21 1998,Hull,0-1,?,Cardiff
+Sat Mar 21 1998,Leyton Orient,2-0,?,Darlington
+Sat Mar 21 1998,Macclesfield,2-1,?,Shrewsbury
+Sat Mar 21 1998,Mansfield,3-2,?,Exeter
+Sat Mar 21 1998,Notts County,0-0,?,Colchester
+Sat Mar 21 1998,Peterboro,2-1,?,Chester
+Sat Mar 21 1998,Rochdale,2-1,?,Hartlepool
+Sat Mar 21 1998,Scunthorpe,1-1,?,Rotherham
+Sat Mar 21 1998,Swansea,0-0,?,Scarborough
+Sat Mar 21 1998,Torquay,0-0,?,Barnet
+Tue Mar 24 1998,Shrewsbury,0-2,?,Lincoln
+Sun Mar 29 1998,Barnet,1-1,?,Hartlepool
+Sun Mar 29 1998,Cambridge,1-0,?,Darlington
+Sun Mar 29 1998,Cardiff,0-0,?,Brighton
+Sun Mar 29 1998,Hull,0-0,?,Macclesfield
+Sun Mar 29 1998,Lincoln,0-1,?,Colchester
+Sun Mar 29 1998,Mansfield,2-0,?,Peterboro
+Sun Mar 29 1998,Notts County,1-0,?,Leyton Orient
+Sun Mar 29 1998,Rochdale,4-1,?,Doncaster
+Sun Mar 29 1998,Rotherham,0-0,?,Scarborough
+Sun Mar 29 1998,Scunthorpe,2-0,?,Torquay
+Sun Mar 29 1998,Shrewsbury,1-1,?,Exeter
+Sun Mar 29 1998,Swansea,2-0,?,Chester
+Tue Mar 31 1998,Darlington,3-1,?,Shrewsbury
+Fri Apr 3 1998,Colchester,2-1,?,Rotherham
+Fri Apr 3 1998,Peterboro,1-0,?,Notts County
+Fri Apr 3 1998,Scarborough,3-1,?,Cardiff
+Sat Apr 4 1998,Brighton,2-1,?,Scunthorpe
+Sat Apr 4 1998,Darlington,2-3,?,Barnet
+Sat Apr 4 1998,Doncaster,1-0,?,Hull
+Sat Apr 4 1998,Exeter,5-0,?,Chester
+Sat Apr 4 1998,Hartlepool,3-3,?,Cambridge
+Sat Apr 4 1998,Leyton Orient,2-2,?,Mansfield
+Sat Apr 4 1998,Macclesfield,1-0,?,Lincoln
+Sat Apr 4 1998,Swansea,0-1,?,Shrewsbury
+Sat Apr 4 1998,Torquay,0-0,?,Rochdale
+Sat Apr 11 1998,Barnet,1-2,?,Leyton Orient
+Sat Apr 11 1998,Cambridge,1-0,?,Peterboro
+Sat Apr 11 1998,Cardiff,0-2,?,Colchester
+Sat Apr 11 1998,Chester,2-1,?,Doncaster
+Sat Apr 11 1998,Hull,2-1,?,Hartlepool
+Sat Apr 11 1998,Mansfield,2-2,?,Torquay
+Sat Apr 11 1998,Notts County,2-2,?,Brighton
+Sat Apr 11 1998,Rochdale,4-0,?,Scarborough
+Sat Apr 11 1998,Rotherham,1-1,?,Swansea
+Sat Apr 11 1998,Scunthorpe,1-0,?,Macclesfield
+Sat Apr 11 1998,Shrewsbury,3-0,?,Darlington
+Mon Apr 13 1998,Brighton,1-1,?,Mansfield
+Mon Apr 13 1998,Colchester,4-3,?,Hull
+Mon Apr 13 1998,Darlington,1-0,?,Chester
+Mon Apr 13 1998,Doncaster,1-2,?,Notts County
+Mon Apr 13 1998,Exeter,1-0,?,Cambridge
+Mon Apr 13 1998,Hartlepool,1-1,?,Lincoln
+Mon Apr 13 1998,Leyton Orient,2-3,?,Shrewsbury
+Mon Apr 13 1998,Macclesfield,2-0,?,Barnet
+Mon Apr 13 1998,Peterboro,2-0,?,Cardiff
+Mon Apr 13 1998,Scarborough,0-0,?,Scunthorpe
+Mon Apr 13 1998,Swansea,3-0,?,Rochdale
+Mon Apr 13 1998,Torquay,1-2,?,Rotherham
+Sat Apr 18 1998,Barnet,1-1,?,Scarborough
+Sat Apr 18 1998,Cambridge,4-1,?,Swansea
+Sat Apr 18 1998,Cardiff,1-2,?,Macclesfield
+Sat Apr 18 1998,Chester,3-1,?,Colchester
+Sat Apr 18 1998,Hull,3-2,?,Leyton Orient
+Sat Apr 18 1998,Lincoln,3-0,?,Peterboro
+Sat Apr 18 1998,Mansfield,2-2,?,Hartlepool
+Sat Apr 18 1998,Notts County,3-0,?,Torquay
+Sat Apr 18 1998,Rochdale,3-0,?,Exeter
+Sat Apr 18 1998,Rotherham,3-0,?,Doncaster
+Sat Apr 18 1998,Scunthorpe,1-0,?,Darlington
+Sat Apr 18 1998,Shrewsbury,2-1,?,Brighton
+Tue Apr 21 1998,Leyton Orient,1-0,?,Scunthorpe
+Tue Apr 21 1998,Lincoln,2-1,?,Exeter
+Sat Apr 25 1998,Barnet,0-1,?,Mansfield
+Sat Apr 25 1998,Brighton,2-2,?,Hull
+Sat Apr 25 1998,Cambridge,2-2,?,Notts County
+Sat Apr 25 1998,Colchester,1-1,?,Leyton Orient
+Sat Apr 25 1998,Darlington,2-2,?,Lincoln
+Sat Apr 25 1998,Hartlepool,2-0,?,Cardiff
+Sat Apr 25 1998,Macclesfield,3-2,?,Chester
+Sat Apr 25 1998,Rotherham,2-2,?,Rochdale
+Sat Apr 25 1998,Scarborough,0-0,?,Shrewsbury
+Sat Apr 25 1998,Scunthorpe,2-1,?,Exeter
+Sat Apr 25 1998,Swansea,0-0,?,Doncaster
+Sat Apr 25 1998,Torquay,3-1,?,Peterboro
+Sat May 2 1998,Cardiff,0-0,?,Darlington
+Sat May 2 1998,Chester,1-1,?,Scarborough
+Sat May 2 1998,Doncaster,0-1,?,Colchester
+Sat May 2 1998,Exeter,1-3,?,Macclesfield
+Sat May 2 1998,Hull,1-0,?,Cambridge
+Sat May 2 1998,Leyton Orient,2-1,?,Torquay
+Sat May 2 1998,Lincoln,2-1,?,Brighton
+Sat May 2 1998,Mansfield,1-0,?,Swansea
+Sat May 2 1998,Notts County,5-2,?,Rotherham
+Sat May 2 1998,Peterboro,0-0,?,Hartlepool
+Sat May 2 1998,Rochdale,2-1,?,Barnet
+Sat May 2 1998,Shrewsbury,0-2,?,Scunthorpe

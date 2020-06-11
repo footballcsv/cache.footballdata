@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 7 2004,Boston,1-0,0-0,Oxford
+Sat Aug 7 2004,Bury,3-1,0-1,Yeovil
+Sat Aug 7 2004,Darlington,1-0,0-0,Grimsby
+Sat Aug 7 2004,Leyton Orient,1-3,0-1,Macclesfield
+Sat Aug 7 2004,Mansfield,0-2,0-1,Bristol Rvs
+Sat Aug 7 2004,Notts County,1-1,0-0,Chester
+Sat Aug 7 2004,Rushden & D,0-0,0-0,Kidderminster
+Sat Aug 7 2004,Scunthorpe,3-1,0-1,Rochdale
+Sat Aug 7 2004,Shrewsbury,0-1,0-0,Lincoln
+Sat Aug 7 2004,Southend,0-2,0-2,Cheltenham
+Sat Aug 7 2004,Swansea,0-2,0-1,Northampton
+Sat Aug 7 2004,Wycombe,2-1,0-0,Cambridge
+Tue Aug 10 2004,Bristol Rvs,2-2,1-1,Bury
+Tue Aug 10 2004,Cambridge,1-1,0-1,Leyton Orient
+Tue Aug 10 2004,Cheltenham,0-2,0-1,Scunthorpe
+Tue Aug 10 2004,Chester,0-2,0-1,Wycombe
+Tue Aug 10 2004,Grimsby,1-1,0-1,Boston
+Tue Aug 10 2004,Kidderminster,0-0,0-0,Notts County
+Tue Aug 10 2004,Lincoln,1-1,1-1,Southend
+Tue Aug 10 2004,Macclesfield,2-1,2-0,Shrewsbury
+Tue Aug 10 2004,Northampton,1-0,0-0,Rushden & D
+Tue Aug 10 2004,Rochdale,0-2,0-1,Swansea
+Tue Aug 10 2004,Yeovil,1-1,1-0,Darlington
+Wed Aug 11 2004,Oxford,1-0,1-0,Mansfield
+Sat Aug 14 2004,Bristol Rvs,2-1,0-0,Notts County
+Sat Aug 14 2004,Cambridge,1-0,0-0,Shrewsbury
+Sat Aug 14 2004,Cheltenham,1-2,0-1,Leyton Orient
+Sat Aug 14 2004,Chester,0-3,0-0,Mansfield
+Sat Aug 14 2004,Grimsby,5-1,1-1,Bury
+Sat Aug 14 2004,Kidderminster,1-0,0-0,Darlington
+Sat Aug 14 2004,Lincoln,1-3,0-1,Rushden & D
+Sat Aug 14 2004,Macclesfield,1-0,1-0,Swansea
+Sat Aug 14 2004,Northampton,1-1,0-1,Wycombe
+Sat Aug 14 2004,Oxford,1-1,0-1,Scunthorpe
+Sat Aug 14 2004,Rochdale,2-0,1-0,Southend
+Sat Aug 14 2004,Yeovil,2-0,0-0,Boston
+Sat Aug 21 2004,Boston,1-1,0-0,Macclesfield
+Sat Aug 21 2004,Bury,1-1,0-1,Chester
+Sat Aug 21 2004,Darlington,0-1,0-0,Bristol Rvs
+Sat Aug 21 2004,Leyton Orient,0-0,0-0,Oxford
+Sat Aug 21 2004,Mansfield,2-1,1-1,Kidderminster
+Sat Aug 21 2004,Notts County,1-2,0-0,Yeovil
+Sat Aug 21 2004,Rushden & D,1-0,0-0,Grimsby
+Sat Aug 21 2004,Scunthorpe,3-2,1-0,Lincoln
+Sat Aug 21 2004,Shrewsbury,2-0,0-0,Northampton
+Sat Aug 21 2004,Southend,0-0,0-0,Cambridge
+Sat Aug 21 2004,Swansea,1-1,0-1,Cheltenham
+Sat Aug 21 2004,Wycombe,0-3,0-0,Rochdale
+Fri Aug 27 2004,Bristol Rvs,2-1,1-0,Southend
+Sat Aug 28 2004,Cambridge,0-1,0-1,Swansea
+Sat Aug 28 2004,Cheltenham,1-0,0-0,Boston
+Sat Aug 28 2004,Chester,0-3,0-2,Darlington
+Sat Aug 28 2004,Grimsby,2-0,1-0,Mansfield
+Sat Aug 28 2004,Kidderminster,0-2,0-1,Wycombe
+Sat Aug 28 2004,Lincoln,1-2,0-1,Notts County
+Sat Aug 28 2004,Macclesfield,2-2,1-1,Scunthorpe
+Sat Aug 28 2004,Northampton,2-2,1-1,Leyton Orient
+Sat Aug 28 2004,Oxford,2-0,1-0,Shrewsbury
+Sat Aug 28 2004,Rochdale,0-3,0-1,Bury
+Sat Aug 28 2004,Yeovil,3-1,3-0,Rushden & D
+Mon Aug 30 2004,Boston,3-1,2-0,Chester
+Mon Aug 30 2004,Bury,4-0,2-0,Kidderminster
+Mon Aug 30 2004,Darlington,1-1,0-0,Cambridge
+Mon Aug 30 2004,Leyton Orient,2-1,1-0,Rochdale
+Mon Aug 30 2004,Mansfield,4-1,1-1,Yeovil
+Mon Aug 30 2004,Notts County,0-1,0-1,Oxford
+Mon Aug 30 2004,Rushden & D,0-0,0-0,Bristol Rvs
+Mon Aug 30 2004,Scunthorpe,2-0,1-0,Northampton
+Mon Aug 30 2004,Southend,2-1,1-0,Macclesfield
+Mon Aug 30 2004,Swansea,1-0,1-0,Lincoln
+Mon Aug 30 2004,Wycombe,2-0,1-0,Grimsby
+Tue Aug 31 2004,Shrewsbury,2-0,1-0,Cheltenham
+Fri Sep 3 2004,Wycombe,1-1,1-1,Oxford
+Sat Sep 4 2004,Boston,2-1,1-0,Cambridge
+Sat Sep 4 2004,Bristol Rvs,0-0,0-0,Shrewsbury
+Sat Sep 4 2004,Bury,0-1,0-1,Lincoln
+Sat Sep 4 2004,Chester,1-0,0-0,Macclesfield
+Sat Sep 4 2004,Darlington,0-0,0-0,Scunthorpe
+Sat Sep 4 2004,Grimsby,0-1,0-0,Rochdale
+Sat Sep 4 2004,Kidderminster,1-2,0-1,Leyton Orient
+Sat Sep 4 2004,Notts County,0-0,0-0,Cheltenham
+Sat Sep 4 2004,Rushden & D,1-4,0-1,Southend
+Sat Sep 4 2004,Yeovil,1-0,0-0,Swansea
+Sun Sep 5 2004,Mansfield,4-1,2-1,Northampton
+Sat Sep 11 2004,Cambridge,2-2,1-1,Mansfield
+Sat Sep 11 2004,Cheltenham,1-1,1-1,Yeovil
+Sat Sep 11 2004,Leyton Orient,4-2,1-1,Bristol Rvs
+Sat Sep 11 2004,Lincoln,2-2,1-0,Boston
+Sat Sep 11 2004,Macclesfield,3-1,0-1,Grimsby
+Sat Sep 11 2004,Northampton,0-0,0-0,Notts County
+Sat Sep 11 2004,Oxford,0-0,0-0,Rushden & D
+Sat Sep 11 2004,Rochdale,1-1,1-0,Darlington
+Sat Sep 11 2004,Scunthorpe,1-2,0-2,Chester
+Sat Sep 11 2004,Shrewsbury,2-2,0-1,Bury
+Sat Sep 11 2004,Southend,1-2,1-0,Wycombe
+Sat Sep 11 2004,Swansea,3-0,1-0,Kidderminster
+Sat Sep 18 2004,Boston,2-2,2-2,Shrewsbury
+Sat Sep 18 2004,Bristol Rvs,0-0,0-0,Lincoln
+Sat Sep 18 2004,Bury,0-1,0-0,Scunthorpe
+Sat Sep 18 2004,Chester,0-0,0-0,Cambridge
+Sat Sep 18 2004,Darlington,1-1,1-0,Northampton
+Sat Sep 18 2004,Grimsby,2-0,0-0,Leyton Orient
+Sat Sep 18 2004,Kidderminster,1-0,0-0,Macclesfield
+Sat Sep 18 2004,Mansfield,1-0,0-0,Rochdale
+Sat Sep 18 2004,Notts County,1-2,0-1,Southend
+Sat Sep 18 2004,Rushden & D,1-0,1-0,Cheltenham
+Sat Sep 18 2004,Wycombe,0-1,0-1,Swansea
+Sat Sep 18 2004,Yeovil,6-1,1-0,Oxford
+Sat Sep 25 2004,Cambridge,0-2,0-0,Grimsby
+Sat Sep 25 2004,Cheltenham,1-1,1-0,Wycombe
+Sat Sep 25 2004,Leyton Orient,0-0,0-0,Boston
+Sat Sep 25 2004,Lincoln,1-1,1-1,Chester
+Sat Sep 25 2004,Macclesfield,1-0,0-0,Darlington
+Sat Sep 25 2004,Northampton,2-1,2-0,Bristol Rvs
+Sat Sep 25 2004,Oxford,3-1,1-0,Bury
+Sat Sep 25 2004,Rochdale,0-3,0-1,Notts County
+Sat Sep 25 2004,Scunthorpe,1-1,1-0,Mansfield
+Sat Sep 25 2004,Shrewsbury,1-2,1-0,Yeovil
+Sat Sep 25 2004,Southend,1-0,1-0,Kidderminster
+Sat Sep 25 2004,Swansea,1-0,1-0,Rushden & D
+Fri Oct 1 2004,Grimsby,1-1,1-0,Cheltenham
+Sat Oct 2 2004,Boston,2-1,0-1,Scunthorpe
+Sat Oct 2 2004,Bristol Rvs,2-0,1-0,Oxford
+Sat Oct 2 2004,Bury,2-1,1-1,Macclesfield
+Sat Oct 2 2004,Chester,1-1,1-0,Swansea
+Sat Oct 2 2004,Darlington,4-0,3-0,Southend
+Sat Oct 2 2004,Kidderminster,1-1,0-0,Cambridge
+Sat Oct 2 2004,Mansfield,2-2,1-2,Lincoln
+Sat Oct 2 2004,Notts County,1-2,1-1,Leyton Orient
+Sat Oct 2 2004,Rushden & D,0-0,0-0,Rochdale
+Sat Oct 2 2004,Wycombe,1-1,0-1,Shrewsbury
+Sat Oct 2 2004,Yeovil,1-1,1-0,Northampton
+Fri Oct 8 2004,Cheltenham,0-0,0-0,Chester
+Fri Oct 8 2004,Northampton,0-1,0-0,Grimsby
+Fri Oct 8 2004,Rochdale,2-1,0-0,Yeovil
+Fri Oct 8 2004,Scunthorpe,2-0,2-0,Wycombe
+Fri Oct 8 2004,Shrewsbury,0-1,0-1,Rushden & D
+Fri Oct 8 2004,Southend,2-1,2-0,Boston
+Fri Oct 8 2004,Swansea,1-0,0-0,Mansfield
+Sat Oct 9 2004,Cambridge,1-0,0-0,Bristol Rvs
+Sat Oct 9 2004,Leyton Orient,1-1,1-0,Bury
+Sat Oct 9 2004,Lincoln,3-0,1-0,Kidderminster
+Sun Oct 10 2004,Macclesfield,1-2,1-0,Notts County
+Sun Oct 10 2004,Oxford,1-2,1-0,Darlington
+Fri Oct 15 2004,Cambridge,0-1,0-1,Northampton
+Sat Oct 16 2004,Boston,2-0,1-0,Wycombe
+Sat Oct 16 2004,Darlington,1-2,0-2,Bury
+Sat Oct 16 2004,Grimsby,0-0,0-0,Bristol Rvs
+Sat Oct 16 2004,Kidderminster,3-2,1-1,Scunthorpe
+Sat Oct 16 2004,Leyton Orient,4-1,3-0,Shrewsbury
+Sat Oct 16 2004,Mansfield,3-1,2-0,Notts County
+Sat Oct 16 2004,Oxford,0-1,0-1,Lincoln
+Sat Oct 16 2004,Rochdale,1-2,0-0,Cheltenham
+Sat Oct 16 2004,Rushden & D,0-1,0-0,Chester
+Sat Oct 16 2004,Southend,4-2,2-1,Swansea
+Sat Oct 16 2004,Yeovil,1-2,0-1,Macclesfield
+Tue Oct 19 2004,Bristol Rvs,2-2,0-1,Yeovil
+Tue Oct 19 2004,Bury,1-1,1-1,Boston
+Tue Oct 19 2004,Cheltenham,2-0,1-0,Mansfield
+Tue Oct 19 2004,Lincoln,1-1,0-0,Rochdale
+Tue Oct 19 2004,Macclesfield,1-1,0-1,Cambridge
+Tue Oct 19 2004,Northampton,1-0,0-0,Oxford
+Tue Oct 19 2004,Notts County,1-1,1-0,Darlington
+Tue Oct 19 2004,Scunthorpe,3-2,2-1,Southend
+Tue Oct 19 2004,Shrewsbury,1-1,0-1,Grimsby
+Tue Oct 19 2004,Swansea,1-0,1-0,Leyton Orient
+Tue Oct 19 2004,Wycombe,1-1,1-1,Rushden & D
+Sat Oct 23 2004,Bristol Rvs,2-0,1-0,Kidderminster
+Sat Oct 23 2004,Bury,1-1,0-0,Rushden & D
+Sat Oct 23 2004,Cheltenham,2-1,1-1,Cambridge
+Sat Oct 23 2004,Chester,2-1,2-1,Grimsby
+Sat Oct 23 2004,Lincoln,3-4,2-2,Leyton Orient
+Sat Oct 23 2004,Macclesfield,1-0,0-0,Oxford
+Sat Oct 23 2004,Northampton,5-1,3-0,Rochdale
+Sat Oct 23 2004,Notts County,2-1,1-0,Boston
+Sat Oct 23 2004,Scunthorpe,1-0,0-0,Yeovil
+Sat Oct 23 2004,Shrewsbury,1-1,1-0,Southend
+Sat Oct 23 2004,Wycombe,1-1,0-0,Mansfield
+Tue Oct 26 2004,Chester,3-0,1-0,Kidderminster
+Sat Oct 30 2004,Boston,2-2,0-0,Bristol Rvs
+Sat Oct 30 2004,Cambridge,0-1,0-0,Lincoln
+Sat Oct 30 2004,Darlington,1-0,1-0,Wycombe
+Sat Oct 30 2004,Grimsby,1-1,0-0,Swansea
+Sat Oct 30 2004,Kidderminster,0-1,0-0,Shrewsbury
+Sat Oct 30 2004,Leyton Orient,1-1,0-0,Scunthorpe
+Sat Oct 30 2004,Mansfield,0-0,0-0,Bury
+Sat Oct 30 2004,Oxford,1-0,1-0,Cheltenham
+Sat Oct 30 2004,Rochdale,3-0,1-0,Macclesfield
+Sat Oct 30 2004,Rushden & D,5-1,3-0,Notts County
+Sat Oct 30 2004,Southend,2-1,1-0,Northampton
+Sat Oct 30 2004,Yeovil,4-1,1-0,Chester
+Sat Nov 6 2004,Cheltenham,1-0,0-0,Bury
+Sat Nov 6 2004,Chester,1-1,0-1,Leyton Orient
+Sat Nov 6 2004,Kidderminster,0-4,0-0,Boston
+Sat Nov 6 2004,Lincoln,3-2,0-2,Northampton
+Sat Nov 6 2004,Mansfield,0-1,0-1,Macclesfield
+Sat Nov 6 2004,Notts County,3-0,1-0,Shrewsbury
+Sat Nov 6 2004,Rochdale,2-1,1-0,Cambridge
+Sat Nov 6 2004,Rushden & D,1-2,0-1,Darlington
+Sat Nov 6 2004,Scunthorpe,2-0,1-0,Grimsby
+Sat Nov 6 2004,Southend,4-0,0-0,Oxford
+Sat Nov 6 2004,Swansea,1-0,0-0,Bristol Rvs
+Sat Nov 6 2004,Wycombe,0-1,0-0,Yeovil
+Wed Nov 17 2004,Swansea,2-1,0-1,Darlington
+Fri Nov 19 2004,Northampton,1-1,1-1,Chester
+Sat Nov 20 2004,Boston,0-0,0-0,Mansfield
+Sat Nov 20 2004,Bristol Rvs,0-3,0-2,Scunthorpe
+Sat Nov 20 2004,Bury,1-0,1-0,Notts County
+Sat Nov 20 2004,Cambridge,3-1,2-1,Rushden & D
+Sat Nov 20 2004,Darlington,0-3,0-2,Lincoln
+Sat Nov 20 2004,Grimsby,2-1,2-0,Kidderminster
+Sat Nov 20 2004,Leyton Orient,1-2,1-0,Wycombe
+Sat Nov 20 2004,Macclesfield,0-2,0-0,Cheltenham
+Sat Nov 20 2004,Oxford,0-1,0-0,Rochdale
+Sat Nov 20 2004,Shrewsbury,2-0,1-0,Swansea
+Sat Nov 20 2004,Yeovil,3-1,1-0,Southend
+Fri Nov 26 2004,Cheltenham,0-2,0-1,Darlington
+Fri Nov 26 2004,Southend,1-1,0-1,Grimsby
+Sat Nov 27 2004,Chester,1-3,1-1,Oxford
+Sat Nov 27 2004,Kidderminster,0-2,0-1,Northampton
+Sat Nov 27 2004,Lincoln,3-1,2-0,Yeovil
+Sat Nov 27 2004,Mansfield,0-1,0-0,Leyton Orient
+Sat Nov 27 2004,Notts County,2-1,1-0,Cambridge
+Sat Nov 27 2004,Rochdale,2-0,0-0,Boston
+Sat Nov 27 2004,Rushden & D,0-2,0-1,Macclesfield
+Sat Nov 27 2004,Scunthorpe,3-1,1-0,Shrewsbury
+Sat Nov 27 2004,Swansea,1-3,1-2,Bury
+Sat Nov 27 2004,Wycombe,1-0,0-0,Bristol Rvs
+Tue Dec 7 2004,Bristol Rvs,4-1,2-1,Chester
+Tue Dec 7 2004,Bury,2-2,1-0,Wycombe
+Tue Dec 7 2004,Cambridge,1-2,1-0,Scunthorpe
+Tue Dec 7 2004,Darlington,2-1,0-1,Mansfield
+Tue Dec 7 2004,Grimsby,3-2,1-1,Notts County
+Tue Dec 7 2004,Leyton Orient,2-2,1-2,Southend
+Tue Dec 7 2004,Macclesfield,2-1,0-0,Lincoln
+Tue Dec 7 2004,Northampton,1-1,0-0,Cheltenham
+Tue Dec 7 2004,Shrewsbury,0-2,0-0,Rochdale
+Tue Dec 7 2004,Yeovil,2-1,1-1,Kidderminster
+Wed Dec 8 2004,Boston,1-0,1-0,Rushden & D
+Wed Dec 8 2004,Oxford,0-1,0-0,Swansea
+Sat Dec 11 2004,Bristol Rvs,0-0,0-0,Macclesfield
+Sat Dec 11 2004,Bury,0-1,0-1,Southend
+Sat Dec 11 2004,Chester,1-1,0-0,Shrewsbury
+Sat Dec 11 2004,Darlington,3-0,1-0,Leyton Orient
+Sat Dec 11 2004,Kidderminster,2-1,1-1,Rochdale
+Sat Dec 11 2004,Lincoln,0-0,0-0,Cheltenham
+Sat Dec 11 2004,Mansfield,0-0,0-0,Rushden & D
+Sat Dec 11 2004,Northampton,2-1,0-0,Boston
+Sat Dec 11 2004,Notts County,0-1,0-1,Wycombe
+Sat Dec 11 2004,Oxford,2-1,2-0,Cambridge
+Sat Dec 11 2004,Scunthorpe,1-0,1-0,Swansea
+Sat Dec 11 2004,Yeovil,2-1,1-0,Grimsby
+Fri Dec 17 2004,Grimsby,1-1,1-0,Oxford
+Fri Dec 17 2004,Southend,1-0,0-0,Chester
+Sat Dec 18 2004,Boston,3-1,3-0,Darlington
+Sat Dec 18 2004,Cambridge,1-1,0-0,Bury
+Sat Dec 18 2004,Cheltenham,2-0,0-0,Kidderminster
+Sat Dec 18 2004,Leyton Orient,2-3,0-2,Yeovil
+Sat Dec 18 2004,Macclesfield,1-3,0-0,Northampton
+Sat Dec 18 2004,Rochdale,0-0,0-0,Bristol Rvs
+Sat Dec 18 2004,Rushden & D,1-3,1-1,Scunthorpe
+Sat Dec 18 2004,Shrewsbury,0-2,0-1,Mansfield
+Sat Dec 18 2004,Swansea,4-0,1-0,Notts County
+Sat Dec 18 2004,Wycombe,1-0,0-0,Lincoln
+Sun Dec 26 2004,Bristol Rvs,1-1,0-1,Leyton Orient
+Sun Dec 26 2004,Chester,1-1,1-1,Scunthorpe
+Sun Dec 26 2004,Darlington,0-3,0-1,Rochdale
+Sun Dec 26 2004,Grimsby,0-0,0-0,Macclesfield
+Sun Dec 26 2004,Kidderminster,1-5,0-2,Swansea
+Sun Dec 26 2004,Rushden & D,3-3,1-2,Oxford
+Sun Dec 26 2004,Wycombe,0-1,0-1,Southend
+Sun Dec 26 2004,Yeovil,4-1,2-1,Cheltenham
+Tue Dec 28 2004,Cambridge,3-5,1-0,Yeovil
+Tue Dec 28 2004,Leyton Orient,2-2,0-1,Rushden & D
+Tue Dec 28 2004,Macclesfield,2-1,1-0,Wycombe
+Tue Dec 28 2004,Northampton,2-0,1-0,Bury
+Tue Dec 28 2004,Oxford,0-2,0-1,Kidderminster
+Tue Dec 28 2004,Rochdale,2-2,0-1,Chester
+Tue Dec 28 2004,Scunthorpe,0-0,0-0,Notts County
+Tue Dec 28 2004,Shrewsbury,4-0,3-0,Darlington
+Tue Dec 28 2004,Southend,0-1,0-0,Mansfield
+Tue Dec 28 2004,Swansea,3-1,3-0,Boston
+Wed Dec 29 2004,Cheltenham,1-1,1-1,Bristol Rvs
+Wed Dec 29 2004,Lincoln,0-0,0-0,Grimsby
+Sat Jan 1 2005,Cambridge,0-1,0-0,Boston
+Sat Jan 1 2005,Cheltenham,0-2,0-0,Notts County
+Sat Jan 1 2005,Leyton Orient,2-1,0-1,Kidderminster
+Sat Jan 1 2005,Lincoln,1-0,1-0,Bury
+Sat Jan 1 2005,Macclesfield,1-2,1-0,Chester
+Sat Jan 1 2005,Northampton,2-1,0-1,Mansfield
+Sat Jan 1 2005,Oxford,2-1,1-0,Wycombe
+Sat Jan 1 2005,Scunthorpe,0-1,0-0,Darlington
+Sat Jan 1 2005,Shrewsbury,2-0,0-0,Bristol Rvs
+Sat Jan 1 2005,Southend,3-0,1-0,Rushden & D
+Sat Jan 1 2005,Swansea,0-2,0-0,Yeovil
+Mon Jan 3 2005,Boston,2-2,0-1,Leyton Orient
+Mon Jan 3 2005,Bristol Rvs,3-1,1-0,Northampton
+Mon Jan 3 2005,Bury,0-0,0-0,Oxford
+Mon Jan 3 2005,Chester,0-1,0-0,Lincoln
+Mon Jan 3 2005,Darlington,3-1,2-1,Macclesfield
+Mon Jan 3 2005,Grimsby,3-0,2-0,Cambridge
+Mon Jan 3 2005,Kidderminster,1-3,0-1,Southend
+Mon Jan 3 2005,Mansfield,1-0,1-0,Scunthorpe
+Mon Jan 3 2005,Notts County,0-0,0-0,Rochdale
+Mon Jan 3 2005,Rushden & D,0-2,0-2,Swansea
+Mon Jan 3 2005,Wycombe,1-1,0-1,Cheltenham
+Mon Jan 3 2005,Yeovil,4-2,1-0,Shrewsbury
+Sat Jan 8 2005,Bristol Rvs,1-1,1-1,Cambridge
+Sat Jan 8 2005,Bury,0-0,0-0,Leyton Orient
+Sat Jan 8 2005,Darlington,1-1,1-1,Oxford
+Sat Jan 8 2005,Kidderminster,2-1,1-1,Lincoln
+Sat Jan 8 2005,Rushden & D,0-0,0-0,Shrewsbury
+Tue Jan 11 2005,Grimsby,1-2,1-0,Northampton
+Tue Jan 11 2005,Mansfield,0-0,0-0,Cambridge
+Wed Jan 12 2005,Boston,2-0,0-0,Southend
+Sat Jan 15 2005,Cambridge,0-0,0-0,Chester
+Sat Jan 15 2005,Cheltenham,4-1,2-1,Rushden & D
+Sat Jan 15 2005,Leyton Orient,1-2,0-1,Grimsby
+Sat Jan 15 2005,Lincoln,1-1,0-0,Bristol Rvs
+Sat Jan 15 2005,Macclesfield,2-0,1-0,Kidderminster
+Sat Jan 15 2005,Northampton,1-1,0-1,Darlington
+Sat Jan 15 2005,Oxford,2-1,1-0,Yeovil
+Sat Jan 15 2005,Rochdale,1-1,1-1,Mansfield
+Sat Jan 15 2005,Scunthorpe,3-2,1-1,Bury
+Sat Jan 15 2005,Shrewsbury,0-0,0-0,Boston
+Sat Jan 15 2005,Southend,0-0,0-0,Notts County
+Sat Jan 15 2005,Swansea,2-2,0-0,Wycombe
+Sat Jan 22 2005,Boston,2-3,1-0,Swansea
+Sat Jan 22 2005,Bristol Rvs,1-1,1-1,Cheltenham
+Sat Jan 22 2005,Bury,2-0,1-0,Northampton
+Sat Jan 22 2005,Chester,0-0,0-0,Rochdale
+Sat Jan 22 2005,Darlington,3-0,1-0,Shrewsbury
+Sat Jan 22 2005,Grimsby,2-4,0-2,Lincoln
+Sat Jan 22 2005,Kidderminster,1-3,0-2,Oxford
+Sat Jan 22 2005,Mansfield,1-1,0-0,Southend
+Sat Jan 22 2005,Notts County,2-0,1-0,Scunthorpe
+Sat Jan 22 2005,Rushden & D,2-0,0-0,Leyton Orient
+Sat Jan 22 2005,Wycombe,1-1,0-1,Macclesfield
+Sat Jan 22 2005,Yeovil,2-1,0-0,Cambridge
+Tue Jan 25 2005,Notts County,0-5,0-2,Macclesfield
+Tue Jan 25 2005,Yeovil,2-2,0-1,Rochdale
+Fri Jan 28 2005,Cheltenham,2-3,1-1,Grimsby
+Sat Jan 29 2005,Cambridge,1-3,1-1,Kidderminster
+Sat Jan 29 2005,Leyton Orient,2-0,0-0,Notts County
+Sat Jan 29 2005,Lincoln,2-0,0-0,Mansfield
+Sat Jan 29 2005,Macclesfield,2-1,0-1,Bury
+Sat Jan 29 2005,Oxford,3-2,2-0,Bristol Rvs
+Sat Jan 29 2005,Rochdale,2-0,0-0,Rushden & D
+Sat Jan 29 2005,Scunthorpe,1-1,0-0,Boston
+Sat Jan 29 2005,Shrewsbury,0-1,0-1,Wycombe
+Sat Jan 29 2005,Southend,2-0,0-0,Darlington
+Sat Jan 29 2005,Swansea,3-0,1-0,Chester
+Tue Feb 1 2005,Chester,0-3,0-1,Cheltenham
+Fri Feb 4 2005,Northampton,2-2,1-0,Cambridge
+Fri Feb 4 2005,Swansea,1-1,0-0,Southend
+Sat Feb 5 2005,Bristol Rvs,3-0,3-0,Grimsby
+Sat Feb 5 2005,Bury,0-1,0-1,Darlington
+Sat Feb 5 2005,Cheltenham,2-0,1-0,Rochdale
+Sat Feb 5 2005,Chester,3-1,2-0,Rushden & D
+Sat Feb 5 2005,Lincoln,3-0,1-0,Oxford
+Sat Feb 5 2005,Macclesfield,3-1,1-0,Yeovil
+Sat Feb 5 2005,Notts County,0-1,0-1,Mansfield
+Sat Feb 5 2005,Scunthorpe,2-1,1-0,Kidderminster
+Sat Feb 5 2005,Shrewsbury,4-1,1-0,Leyton Orient
+Sat Feb 5 2005,Wycombe,1-2,1-1,Boston
+Tue Feb 8 2005,Bury,0-0,0-0,Shrewsbury
+Tue Feb 8 2005,Mansfield,1-0,1-0,Swansea
+Fri Feb 11 2005,Southend,0-0,0-0,Scunthorpe
+Sat Feb 12 2005,Boston,2-2,2-1,Bury
+Sat Feb 12 2005,Cambridge,0-1,0-0,Macclesfield
+Sat Feb 12 2005,Darlington,1-2,1-0,Notts County
+Sat Feb 12 2005,Grimsby,0-1,0-1,Shrewsbury
+Sat Feb 12 2005,Kidderminster,0-1,0-0,Chester
+Sat Feb 12 2005,Leyton Orient,3-1,2-0,Swansea
+Sat Feb 12 2005,Mansfield,1-2,0-0,Cheltenham
+Sat Feb 12 2005,Oxford,1-2,0-0,Northampton
+Sat Feb 12 2005,Rochdale,3-1,1-1,Lincoln
+Sat Feb 12 2005,Rushden & D,1-2,0-0,Wycombe
+Sat Feb 12 2005,Yeovil,4-2,1-1,Bristol Rvs
+Tue Feb 15 2005,Notts County,0-0,0-0,Northampton
+Tue Feb 15 2005,Wycombe,2-1,2-0,Scunthorpe
+Wed Feb 16 2005,Boston,0-2,0-1,Lincoln
+Sat Feb 19 2005,Bristol Rvs,1-1,0-0,Boston
+Sat Feb 19 2005,Bury,0-2,0-1,Mansfield
+Sat Feb 19 2005,Cheltenham,0-1,0-0,Oxford
+Sat Feb 19 2005,Chester,0-2,0-2,Yeovil
+Sat Feb 19 2005,Lincoln,2-1,2-0,Cambridge
+Sat Feb 19 2005,Macclesfield,3-0,2-0,Rochdale
+Sat Feb 19 2005,Northampton,1-2,1-0,Southend
+Sat Feb 19 2005,Notts County,1-1,0-0,Rushden & D
+Sat Feb 19 2005,Scunthorpe,1-0,0-0,Leyton Orient
+Sat Feb 19 2005,Shrewsbury,4-2,3-2,Kidderminster
+Sat Feb 19 2005,Swansea,0-0,0-0,Grimsby
+Sat Feb 19 2005,Wycombe,1-1,1-1,Darlington
+Tue Feb 22 2005,Cambridge,1-0,0-0,Cheltenham
+Tue Feb 22 2005,Darlington,2-1,1-1,Swansea
+Tue Feb 22 2005,Grimsby,1-0,0-0,Chester
+Tue Feb 22 2005,Kidderminster,1-1,1-0,Bristol Rvs
+Tue Feb 22 2005,Leyton Orient,1-1,0-1,Lincoln
+Tue Feb 22 2005,Mansfield,1-4,0-0,Wycombe
+Tue Feb 22 2005,Rushden & D,3-0,3-0,Bury
+Tue Feb 22 2005,Southend,1-0,0-0,Shrewsbury
+Tue Feb 22 2005,Yeovil,4-3,1-2,Scunthorpe
+Sat Feb 26 2005,Boston,0-1,0-0,Northampton
+Sat Feb 26 2005,Cambridge,2-1,0-1,Oxford
+Sat Feb 26 2005,Cheltenham,1-0,0-0,Lincoln
+Sat Feb 26 2005,Grimsby,2-1,0-1,Yeovil
+Sat Feb 26 2005,Leyton Orient,1-0,1-0,Darlington
+Sat Feb 26 2005,Macclesfield,2-1,1-0,Bristol Rvs
+Sat Feb 26 2005,Rochdale,1-1,1-1,Kidderminster
+Sat Feb 26 2005,Rushden & D,0-0,0-0,Mansfield
+Sat Feb 26 2005,Shrewsbury,5-0,2-0,Chester
+Sat Feb 26 2005,Southend,1-0,1-0,Bury
+Sat Feb 26 2005,Swansea,2-1,1-1,Scunthorpe
+Sat Feb 26 2005,Wycombe,1-2,1-1,Notts County
+Tue Mar 1 2005,Northampton,1-1,0-1,Yeovil
+Tue Mar 1 2005,Rochdale,2-0,1-0,Grimsby
+Sat Mar 5 2005,Bristol Rvs,0-0,0-0,Rochdale
+Sat Mar 5 2005,Bury,2-1,0-1,Cambridge
+Sat Mar 5 2005,Chester,2-2,1-1,Southend
+Sat Mar 5 2005,Darlington,1-0,0-0,Boston
+Sat Mar 5 2005,Kidderminster,1-0,0-0,Cheltenham
+Sat Mar 5 2005,Lincoln,2-3,0-3,Wycombe
+Sat Mar 5 2005,Mansfield,1-1,0-0,Shrewsbury
+Sat Mar 5 2005,Northampton,1-0,1-0,Macclesfield
+Sat Mar 5 2005,Notts County,1-0,0-0,Swansea
+Sat Mar 5 2005,Oxford,1-2,1-0,Grimsby
+Sat Mar 5 2005,Scunthorpe,1-0,0-0,Rushden & D
+Sat Mar 5 2005,Yeovil,1-0,1-0,Leyton Orient
+Tue Mar 8 2005,Rochdale,1-0,0-0,Northampton
+Sat Mar 12 2005,Boston,1-1,1-0,Grimsby
+Sat Mar 12 2005,Bury,1-1,0-1,Bristol Rvs
+Sat Mar 12 2005,Darlington,2-1,1-0,Yeovil
+Sat Mar 12 2005,Leyton Orient,1-1,0-0,Cambridge
+Sat Mar 12 2005,Mansfield,1-3,0-2,Oxford
+Sat Mar 12 2005,Notts County,1-3,0-0,Kidderminster
+Sat Mar 12 2005,Rushden & D,3-2,1-1,Northampton
+Sat Mar 12 2005,Scunthorpe,4-1,1-0,Cheltenham
+Sat Mar 12 2005,Shrewsbury,0-1,0-0,Macclesfield
+Sat Mar 12 2005,Southend,1-1,0-0,Lincoln
+Sat Mar 12 2005,Swansea,2-2,0-1,Rochdale
+Sat Mar 12 2005,Wycombe,4-2,1-1,Chester
+Wed Mar 16 2005,Boston,4-0,0-0,Notts County
+Sat Mar 19 2005,Bristol Rvs,4-4,2-1,Mansfield
+Sat Mar 19 2005,Cambridge,2-1,2-1,Wycombe
+Sat Mar 19 2005,Cheltenham,0-3,0-2,Southend
+Sat Mar 19 2005,Chester,3-2,1-1,Notts County
+Sat Mar 19 2005,Grimsby,0-1,0-1,Darlington
+Sat Mar 19 2005,Kidderminster,0-0,0-0,Rushden & D
+Sat Mar 19 2005,Lincoln,2-0,2-0,Shrewsbury
+Sat Mar 19 2005,Macclesfield,3-1,1-0,Leyton Orient
+Sat Mar 19 2005,Northampton,2-2,2-1,Swansea
+Sat Mar 19 2005,Oxford,2-0,1-0,Boston
+Sat Mar 19 2005,Rochdale,0-0,0-0,Scunthorpe
+Sat Mar 19 2005,Yeovil,0-1,0-1,Bury
+Fri Mar 25 2005,Bury,3-1,2-0,Grimsby
+Fri Mar 25 2005,Leyton Orient,2-3,0-2,Cheltenham
+Fri Mar 25 2005,Mansfield,0-0,0-0,Chester
+Fri Mar 25 2005,Rushden & D,1-4,1-1,Lincoln
+Fri Mar 25 2005,Scunthorpe,1-1,0-1,Oxford
+Fri Mar 25 2005,Shrewsbury,0-0,0-0,Cambridge
+Fri Mar 25 2005,Southend,3-0,1-0,Rochdale
+Fri Mar 25 2005,Swansea,2-0,2-0,Macclesfield
+Fri Mar 25 2005,Wycombe,0-1,0-1,Northampton
+Sat Mar 26 2005,Boston,1-2,1-1,Yeovil
+Sat Mar 26 2005,Darlington,0-2,0-0,Kidderminster
+Sat Mar 26 2005,Notts County,1-2,1-1,Bristol Rvs
+Mon Mar 28 2005,Bristol Rvs,3-3,1-1,Darlington
+Mon Mar 28 2005,Cambridge,0-2,0-2,Southend
+Mon Mar 28 2005,Cheltenham,1-2,1-1,Swansea
+Mon Mar 28 2005,Chester,2-1,0-1,Bury
+Mon Mar 28 2005,Grimsby,0-0,0-0,Rushden & D
+Mon Mar 28 2005,Kidderminster,1-3,1-0,Mansfield
+Mon Mar 28 2005,Lincoln,2-0,1-0,Scunthorpe
+Mon Mar 28 2005,Macclesfield,1-1,0-1,Boston
+Mon Mar 28 2005,Northampton,2-0,2-0,Shrewsbury
+Mon Mar 28 2005,Oxford,2-2,1-1,Leyton Orient
+Mon Mar 28 2005,Rochdale,1-1,1-0,Wycombe
+Tue Mar 29 2005,Yeovil,1-3,0-2,Notts County
+Fri Apr 1 2005,Southend,2-0,2-0,Bristol Rvs
+Sat Apr 2 2005,Boston,2-1,1-0,Cheltenham
+Sat Apr 2 2005,Bury,0-0,0-0,Rochdale
+Sat Apr 2 2005,Darlington,1-0,0-0,Chester
+Sat Apr 2 2005,Leyton Orient,3-2,1-0,Northampton
+Sat Apr 2 2005,Mansfield,2-0,1-0,Grimsby
+Sat Apr 2 2005,Notts County,1-0,1-0,Lincoln
+Sat Apr 2 2005,Rushden & D,2-0,0-0,Yeovil
+Sat Apr 2 2005,Scunthorpe,0-0,0-0,Macclesfield
+Sat Apr 2 2005,Shrewsbury,3-0,0-0,Oxford
+Sat Apr 2 2005,Swansea,3-0,0-0,Cambridge
+Sat Apr 2 2005,Wycombe,3-0,2-0,Kidderminster
+Wed Apr 6 2005,Oxford,1-1,1-0,Macclesfield
+Fri Apr 8 2005,Cheltenham,1-1,0-0,Shrewsbury
+Sat Apr 9 2005,Bristol Rvs,3-0,1-0,Rushden & D
+Sat Apr 9 2005,Cambridge,3-1,1-1,Darlington
+Sat Apr 9 2005,Chester,2-1,1-1,Boston
+Sat Apr 9 2005,Grimsby,0-0,0-0,Wycombe
+Sat Apr 9 2005,Kidderminster,2-2,1-1,Bury
+Sat Apr 9 2005,Lincoln,1-0,0-0,Swansea
+Sat Apr 9 2005,Northampton,1-2,1-2,Scunthorpe
+Sat Apr 9 2005,Oxford,2-1,0-1,Notts County
+Sat Apr 9 2005,Rochdale,2-0,0-0,Leyton Orient
+Sat Apr 9 2005,Yeovil,5-2,1-1,Mansfield
+Fri Apr 15 2005,Southend,0-1,0-1,Leyton Orient
+Fri Apr 15 2005,Swansea,1-0,1-0,Oxford
+Sat Apr 16 2005,Cheltenham,1-0,1-0,Northampton
+Sat Apr 16 2005,Chester,2-2,0-2,Bristol Rvs
+Sat Apr 16 2005,Kidderminster,1-1,0-0,Yeovil
+Sat Apr 16 2005,Lincoln,2-0,1-0,Macclesfield
+Sat Apr 16 2005,Mansfield,1-1,0-0,Darlington
+Sat Apr 16 2005,Notts County,2-2,0-1,Grimsby
+Sat Apr 16 2005,Rochdale,1-1,1-1,Shrewsbury
+Sat Apr 16 2005,Rushden & D,4-2,1-2,Boston
+Sat Apr 16 2005,Scunthorpe,4-0,1-0,Cambridge
+Sat Apr 16 2005,Wycombe,1-2,1-1,Bury
+Tue Apr 19 2005,Macclesfield,1-2,1-1,Southend
+Sat Apr 23 2005,Boston,3-0,2-0,Kidderminster
+Sat Apr 23 2005,Bristol Rvs,2-0,2-0,Swansea
+Sat Apr 23 2005,Bury,3-1,3-0,Cheltenham
+Sat Apr 23 2005,Cambridge,0-0,0-0,Rochdale
+Sat Apr 23 2005,Darlington,2-0,0-0,Rushden & D
+Sat Apr 23 2005,Grimsby,0-0,0-0,Scunthorpe
+Sat Apr 23 2005,Leyton Orient,2-0,2-0,Chester
+Sat Apr 23 2005,Macclesfield,3-1,1-0,Mansfield
+Sat Apr 23 2005,Northampton,1-0,0-0,Lincoln
+Sat Apr 23 2005,Oxford,2-1,2-0,Southend
+Sat Apr 23 2005,Shrewsbury,1-1,0-1,Notts County
+Sat Apr 23 2005,Yeovil,1-1,1-1,Wycombe
+Sat Apr 30 2005,Cheltenham,3-0,1-0,Macclesfield
+Sat Apr 30 2005,Chester,0-2,0-1,Northampton
+Sat Apr 30 2005,Kidderminster,1-4,0-2,Grimsby
+Sat Apr 30 2005,Lincoln,0-0,0-0,Darlington
+Sat Apr 30 2005,Mansfield,3-2,0-0,Boston
+Sat Apr 30 2005,Notts County,0-1,0-0,Bury
+Sat Apr 30 2005,Rochdale,5-1,4-0,Oxford
+Sat Apr 30 2005,Rushden & D,0-1,0-1,Cambridge
+Sat Apr 30 2005,Scunthorpe,4-0,2-0,Bristol Rvs
+Sat Apr 30 2005,Southend,0-1,0-0,Yeovil
+Sat Apr 30 2005,Swansea,1-0,1-0,Shrewsbury
+Sat Apr 30 2005,Wycombe,3-2,3-0,Leyton Orient
+Sat May 7 2005,Boston,1-1,0-0,Rochdale
+Sat May 7 2005,Bristol Rvs,1-0,1-0,Wycombe
+Sat May 7 2005,Bury,0-1,0-1,Swansea
+Sat May 7 2005,Cambridge,0-0,0-0,Notts County
+Sat May 7 2005,Darlington,3-1,1-1,Cheltenham
+Sat May 7 2005,Grimsby,1-1,0-0,Southend
+Sat May 7 2005,Leyton Orient,2-1,2-0,Mansfield
+Sat May 7 2005,Macclesfield,1-0,0-0,Rushden & D
+Sat May 7 2005,Northampton,3-0,0-0,Kidderminster
+Sat May 7 2005,Oxford,0-1,0-0,Chester
+Sat May 7 2005,Shrewsbury,0-0,0-0,Scunthorpe
+Sat May 7 2005,Yeovil,3-0,1-0,Lincoln

@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 15 1998,Blackburn,0-0,0-0,Derby
+Sat Aug 15 1998,Coventry,2-1,2-1,Chelsea
+Sat Aug 15 1998,Everton,0-0,0-0,Aston Villa
+Sat Aug 15 1998,Man United,2-2,0-1,Leicester
+Sat Aug 15 1998,Middlesbrough,0-0,0-0,Leeds
+Sat Aug 15 1998,Newcastle,0-0,0-0,Charlton
+Sat Aug 15 1998,Sheffield Weds,0-1,0-0,West Ham
+Sat Aug 15 1998,Wimbledon,3-1,0-0,Tottenham
+Sun Aug 16 1998,Southampton,1-2,1-1,Liverpool
+Mon Aug 17 1998,Arsenal,2-1,0-0,Nott'm Forest
+Sat Aug 22 1998,Charlton,5-0,1-0,Southampton
+Sat Aug 22 1998,Chelsea,1-1,1-1,Newcastle
+Sat Aug 22 1998,Derby,0-0,0-0,Wimbledon
+Sat Aug 22 1998,Leicester,2-0,2-0,Everton
+Sat Aug 22 1998,Liverpool,0-0,0-0,Arsenal
+Sat Aug 22 1998,Nott'm Forest,1-0,0-0,Coventry
+Sat Aug 22 1998,Tottenham,0-3,0-2,Sheffield Weds
+Sat Aug 22 1998,West Ham,0-0,0-0,Man United
+Sun Aug 23 1998,Aston Villa,3-1,1-0,Middlesbrough
+Mon Aug 24 1998,Leeds,1-0,1-0,Blackburn
+Sat Aug 29 1998,Arsenal,0-0,0-0,Charlton
+Sat Aug 29 1998,Blackburn,1-0,1-0,Leicester
+Sat Aug 29 1998,Coventry,0-0,0-0,West Ham
+Sat Aug 29 1998,Everton,0-1,0-1,Tottenham
+Sat Aug 29 1998,Middlesbrough,1-1,0-1,Derby
+Sat Aug 29 1998,Sheffield Weds,0-1,0-1,Aston Villa
+Sat Aug 29 1998,Southampton,1-2,0-0,Nott'm Forest
+Sat Aug 29 1998,Wimbledon,1-1,0-0,Leeds
+Sun Aug 30 1998,Newcastle,1-4,1-4,Liverpool
+Tue Sep 8 1998,Leeds,3-0,1-0,Southampton
+Tue Sep 8 1998,Nott'm Forest,0-2,0-0,Everton
+Wed Sep 9 1998,Aston Villa,1-0,0-0,Newcastle
+Wed Sep 9 1998,Chelsea,0-0,0-0,Arsenal
+Wed Sep 9 1998,Derby,1-0,1-0,Sheffield Weds
+Wed Sep 9 1998,Leicester,0-1,0-1,Middlesbrough
+Wed Sep 9 1998,Liverpool,2-0,1-0,Coventry
+Wed Sep 9 1998,Man United,4-1,2-1,Charlton
+Wed Sep 9 1998,Tottenham,2-1,1-1,Blackburn
+Wed Sep 9 1998,West Ham,3-4,3-1,Wimbledon
+Sat Sep 12 1998,Aston Villa,2-0,1-0,Wimbledon
+Sat Sep 12 1998,Charlton,1-2,0-1,Derby
+Sat Sep 12 1998,Chelsea,2-1,2-0,Nott'm Forest
+Sat Sep 12 1998,Everton,0-0,0-0,Leeds
+Sat Sep 12 1998,Leicester,1-1,1-0,Arsenal
+Sat Sep 12 1998,Man United,2-0,1-0,Coventry
+Sat Sep 12 1998,Newcastle,4-0,2-0,Southampton
+Sat Sep 12 1998,Sheffield Weds,3-0,2-0,Blackburn
+Sat Sep 12 1998,West Ham,2-1,1-0,Liverpool
+Sun Sep 13 1998,Tottenham,0-3,0-2,Middlesbrough
+Sat Sep 19 1998,Coventry,1-5,1-3,Newcastle
+Sat Sep 19 1998,Derby,2-0,1-0,Leicester
+Sat Sep 19 1998,Leeds,0-0,0-0,Aston Villa
+Sat Sep 19 1998,Liverpool,3-3,1-1,Charlton
+Sat Sep 19 1998,Middlesbrough,2-2,2-0,Everton
+Sat Sep 19 1998,Nott'm Forest,0-0,0-0,West Ham
+Sat Sep 19 1998,Southampton,1-1,0-1,Tottenham
+Sat Sep 19 1998,Wimbledon,2-1,1-0,Sheffield Weds
+Sun Sep 20 1998,Arsenal,3-0,2-0,Man United
+Mon Sep 21 1998,Blackburn,3-4,1-1,Chelsea
+Thu Sep 24 1998,Man United,2-0,1-0,Liverpool
+Sat Sep 26 1998,Aston Villa,1-0,1-0,Derby
+Sat Sep 26 1998,Charlton,1-1,0-0,Coventry
+Sat Sep 26 1998,Chelsea,2-0,0-0,Middlesbrough
+Sat Sep 26 1998,Everton,0-0,0-0,Blackburn
+Sat Sep 26 1998,Newcastle,2-0,1-0,Nott'm Forest
+Sat Sep 26 1998,Sheffield Weds,1-0,0-0,Arsenal
+Sat Sep 26 1998,Tottenham,3-3,1-2,Leeds
+Sun Sep 27 1998,Leicester,1-1,0-0,Wimbledon
+Mon Sep 28 1998,West Ham,1-0,0-0,Southampton
+Sat Oct 3 1998,Blackburn,3-0,1-0,West Ham
+Sat Oct 3 1998,Coventry,1-2,0-2,Aston Villa
+Sat Oct 3 1998,Derby,0-1,0-0,Tottenham
+Sat Oct 3 1998,Leeds,0-1,0-0,Leicester
+Sat Oct 3 1998,Middlesbrough,4-0,2-0,Sheffield Weds
+Sat Oct 3 1998,Nott'm Forest,0-1,0-1,Charlton
+Sat Oct 3 1998,Southampton,0-3,0-1,Man United
+Sat Oct 3 1998,Wimbledon,1-2,1-1,Everton
+Sun Oct 4 1998,Arsenal,3-0,2-0,Newcastle
+Sun Oct 4 1998,Liverpool,1-1,0-1,Chelsea
+Sat Oct 17 1998,Arsenal,1-1,1-0,Southampton
+Sat Oct 17 1998,Chelsea,2-1,1-0,Charlton
+Sat Oct 17 1998,Everton,0-0,0-0,Liverpool
+Sat Oct 17 1998,Man United,5-1,2-1,Wimbledon
+Sat Oct 17 1998,Middlesbrough,2-1,0-0,Blackburn
+Sat Oct 17 1998,Newcastle,2-1,2-0,Derby
+Sat Oct 17 1998,Nott'm Forest,1-1,0-0,Leeds
+Sat Oct 17 1998,West Ham,0-0,0-0,Aston Villa
+Sun Oct 18 1998,Coventry,1-0,0-0,Sheffield Weds
+Mon Oct 19 1998,Leicester,2-1,1-1,Tottenham
+Sat Oct 24 1998,Aston Villa,1-1,0-1,Leicester
+Sat Oct 24 1998,Charlton,4-2,1-2,West Ham
+Sat Oct 24 1998,Derby,1-1,0-0,Man United
+Sat Oct 24 1998,Liverpool,5-1,3-1,Nott'm Forest
+Sat Oct 24 1998,Sheffield Weds,0-0,0-0,Everton
+Sat Oct 24 1998,Southampton,2-1,2-0,Coventry
+Sat Oct 24 1998,Tottenham,2-0,1-0,Newcastle
+Sat Oct 24 1998,Wimbledon,2-2,1-2,Middlesbrough
+Sun Oct 25 1998,Blackburn,1-2,0-2,Arsenal
+Sun Oct 25 1998,Leeds,0-0,0-0,Chelsea
+Sat Oct 31 1998,Coventry,0-1,0-0,Arsenal
+Sat Oct 31 1998,Derby,2-2,1-2,Leeds
+Sat Oct 31 1998,Everton,1-4,1-2,Man United
+Sat Oct 31 1998,Leicester,1-0,0-0,Liverpool
+Sat Oct 31 1998,Newcastle,0-3,0-0,West Ham
+Sat Oct 31 1998,Sheffield Weds,0-0,0-0,Southampton
+Sat Oct 31 1998,Wimbledon,1-1,0-0,Blackburn
+Sun Nov 1 1998,Middlesbrough,1-1,1-0,Nott'm Forest
+Mon Nov 2 1998,Tottenham,2-2,0-1,Charlton
+Sat Nov 7 1998,Aston Villa,3-2,2-0,Tottenham
+Sat Nov 7 1998,Blackburn,1-2,0-0,Coventry
+Sat Nov 7 1998,Charlton,0-0,0-0,Leicester
+Sat Nov 7 1998,Liverpool,1-2,0-2,Derby
+Sat Nov 7 1998,Nott'm Forest,0-1,0-1,Wimbledon
+Sat Nov 7 1998,Southampton,3-3,0-0,Middlesbrough
+Sun Nov 8 1998,Arsenal,1-0,1-0,Everton
+Sun Nov 8 1998,Leeds,2-1,1-1,Sheffield Weds
+Sun Nov 8 1998,Man United,0-0,0-0,Newcastle
+Sun Nov 8 1998,West Ham,1-1,1-0,Chelsea
+Sat Nov 14 1998,Arsenal,0-0,0-0,Tottenham
+Sat Nov 14 1998,Charlton,1-1,1-0,Middlesbrough
+Sat Nov 14 1998,Chelsea,3-0,1-0,Wimbledon
+Sat Nov 14 1998,Liverpool,1-3,0-0,Leeds
+Sat Nov 14 1998,Man United,3-2,2-0,Blackburn
+Sat Nov 14 1998,Newcastle,1-1,1-0,Sheffield Weds
+Sat Nov 14 1998,Southampton,1-4,0-1,Aston Villa
+Sat Nov 14 1998,West Ham,3-2,1-1,Leicester
+Sun Nov 15 1998,Coventry,3-0,1-0,Everton
+Mon Nov 16 1998,Nott'm Forest,2-2,0-0,Derby
+Sat Nov 21 1998,Aston Villa,2-4,0-2,Liverpool
+Sat Nov 21 1998,Blackburn,0-2,0-1,Southampton
+Sat Nov 21 1998,Leeds,4-1,1-0,Charlton
+Sat Nov 21 1998,Leicester,2-4,1-2,Chelsea
+Sat Nov 21 1998,Middlesbrough,2-0,0-0,Coventry
+Sat Nov 21 1998,Sheffield Weds,3-1,1-1,Man United
+Sat Nov 21 1998,Tottenham,2-0,0-0,Nott'm Forest
+Sat Nov 21 1998,Wimbledon,1-0,0-0,Arsenal
+Sun Nov 22 1998,Derby,0-2,0-1,West Ham
+Mon Nov 23 1998,Everton,1-0,1-0,Newcastle
+Sat Nov 28 1998,Charlton,1-2,0-1,Everton
+Sat Nov 28 1998,Chelsea,1-1,1-0,Sheffield Weds
+Sat Nov 28 1998,Coventry,1-1,0-0,Leicester
+Sat Nov 28 1998,Newcastle,3-1,1-1,Wimbledon
+Sat Nov 28 1998,Nott'm Forest,2-2,2-0,Aston Villa
+Sat Nov 28 1998,Southampton,0-1,0-1,Derby
+Sat Nov 28 1998,West Ham,2-1,1-0,Tottenham
+Sun Nov 29 1998,Arsenal,1-1,0-1,Middlesbrough
+Sun Nov 29 1998,Liverpool,2-0,2-0,Blackburn
+Sun Nov 29 1998,Man United,3-2,1-1,Leeds
+Sat Dec 5 1998,Aston Villa,1-1,0-0,Man United
+Sat Dec 5 1998,Blackburn,1-0,0-0,Charlton
+Sat Dec 5 1998,Derby,0-0,0-0,Arsenal
+Sat Dec 5 1998,Everton,0-0,0-0,Chelsea
+Sat Dec 5 1998,Leeds,4-0,1-0,West Ham
+Sat Dec 5 1998,Leicester,2-0,0-0,Southampton
+Sat Dec 5 1998,Tottenham,2-1,1-0,Liverpool
+Sat Dec 5 1998,Wimbledon,2-1,0-0,Coventry
+Sun Dec 6 1998,Middlesbrough,2-2,1-1,Newcastle
+Mon Dec 7 1998,Sheffield Weds,3-2,1-0,Nott'm Forest
+Wed Dec 9 1998,Chelsea,2-1,1-1,Aston Villa
+Sat Dec 12 1998,Blackburn,0-0,0-0,Newcastle
+Sat Dec 12 1998,Derby,2-2,1-0,Chelsea
+Sat Dec 12 1998,Everton,1-0,1-0,Southampton
+Sat Dec 12 1998,Leicester,3-1,1-1,Nott'm Forest
+Sat Dec 12 1998,Middlesbrough,1-0,1-0,West Ham
+Sat Dec 12 1998,Sheffield Weds,3-0,1-0,Charlton
+Sat Dec 12 1998,Tottenham,2-2,0-2,Man United
+Sun Dec 13 1998,Aston Villa,3-2,0-2,Arsenal
+Sun Dec 13 1998,Wimbledon,1-0,0-0,Liverpool
+Mon Dec 14 1998,Leeds,2-0,1-0,Coventry
+Wed Dec 16 1998,Man United,1-1,1-0,Chelsea
+Sat Dec 19 1998,Chelsea,2-0,0-0,Tottenham
+Sat Dec 19 1998,Coventry,1-1,1-0,Derby
+Sat Dec 19 1998,Liverpool,2-0,2-0,Sheffield Weds
+Sat Dec 19 1998,Man United,2-3,0-2,Middlesbrough
+Sat Dec 19 1998,Newcastle,1-0,0-0,Leicester
+Sat Dec 19 1998,Nott'm Forest,2-2,2-0,Blackburn
+Sat Dec 19 1998,Southampton,3-1,1-0,Wimbledon
+Sat Dec 19 1998,West Ham,2-1,1-0,Everton
+Sun Dec 20 1998,Arsenal,3-1,1-0,Leeds
+Mon Dec 21 1998,Charlton,0-1,0-1,Aston Villa
+Sat Dec 26 1998,Arsenal,1-0,1-0,West Ham
+Sat Dec 26 1998,Blackburn,2-1,1-0,Aston Villa
+Sat Dec 26 1998,Coventry,1-1,0-1,Tottenham
+Sat Dec 26 1998,Everton,0-0,0-0,Derby
+Sat Dec 26 1998,Man United,3-0,1-0,Nott'm Forest
+Sat Dec 26 1998,Middlesbrough,1-3,1-2,Liverpool
+Sat Dec 26 1998,Newcastle,0-3,0-1,Leeds
+Sat Dec 26 1998,Sheffield Weds,0-1,0-1,Leicester
+Sat Dec 26 1998,Southampton,0-2,0-1,Chelsea
+Sat Dec 26 1998,Wimbledon,2-1,1-1,Charlton
+Mon Dec 28 1998,Aston Villa,2-1,1-1,Sheffield Weds
+Mon Dec 28 1998,Charlton,0-1,0-0,Arsenal
+Mon Dec 28 1998,Derby,2-1,1-0,Middlesbrough
+Mon Dec 28 1998,Leicester,1-1,1-1,Blackburn
+Mon Dec 28 1998,Liverpool,4-2,0-1,Newcastle
+Mon Dec 28 1998,Nott'm Forest,1-1,0-0,Southampton
+Mon Dec 28 1998,Tottenham,4-1,1-1,Everton
+Mon Dec 28 1998,West Ham,2-0,1-0,Coventry
+Tue Dec 29 1998,Chelsea,0-0,0-0,Man United
+Tue Dec 29 1998,Leeds,2-2,1-1,Wimbledon
+Sat Jan 9 1999,Arsenal,0-0,0-0,Liverpool
+Sat Jan 9 1999,Blackburn,1-0,1-0,Leeds
+Sat Jan 9 1999,Coventry,4-0,1-0,Nott'm Forest
+Sat Jan 9 1999,Everton,0-0,0-0,Leicester
+Sat Jan 9 1999,Middlesbrough,0-0,0-0,Aston Villa
+Sat Jan 9 1999,Newcastle,0-1,0-1,Chelsea
+Sat Jan 9 1999,Sheffield Weds,0-0,0-0,Tottenham
+Sat Jan 9 1999,Southampton,3-1,1-1,Charlton
+Sat Jan 9 1999,Wimbledon,2-1,1-0,Derby
+Sun Jan 10 1999,Man United,4-1,2-0,West Ham
+Sat Jan 16 1999,Chelsea,2-1,1-1,Coventry
+Sat Jan 16 1999,Derby,1-0,0-0,Blackburn
+Sat Jan 16 1999,Leeds,2-0,2-0,Middlesbrough
+Sat Jan 16 1999,Leicester,2-6,1-1,Man United
+Sat Jan 16 1999,Liverpool,7-1,3-0,Southampton
+Sat Jan 16 1999,Nott'm Forest,0-1,0-1,Arsenal
+Sat Jan 16 1999,Tottenham,0-0,0-0,Wimbledon
+Sat Jan 16 1999,West Ham,0-4,0-2,Sheffield Weds
+Sun Jan 17 1999,Charlton,2-2,0-1,Newcastle
+Mon Jan 18 1999,Aston Villa,3-0,1-0,Everton
+Sat Jan 30 1999,Blackburn,1-1,1-0,Tottenham
+Sat Jan 30 1999,Coventry,2-1,0-0,Liverpool
+Sat Jan 30 1999,Everton,0-1,0-0,Nott'm Forest
+Sat Jan 30 1999,Middlesbrough,0-0,0-0,Leicester
+Sat Jan 30 1999,Newcastle,2-1,2-0,Aston Villa
+Sat Jan 30 1999,Sheffield Weds,0-1,0-0,Derby
+Sat Jan 30 1999,Southampton,3-0,1-0,Leeds
+Sat Jan 30 1999,Wimbledon,0-0,0-0,West Ham
+Sun Jan 31 1999,Arsenal,1-0,1-0,Chelsea
+Sun Jan 31 1999,Charlton,0-1,0-0,Man United
+Tue Feb 2 1999,Man United,1-0,0-0,Derby
+Sat Feb 6 1999,Aston Villa,1-3,0-1,Blackburn
+Sat Feb 6 1999,Chelsea,1-0,1-0,Southampton
+Sat Feb 6 1999,Leeds,0-1,0-0,Newcastle
+Sat Feb 6 1999,Leicester,0-2,0-0,Sheffield Weds
+Sat Feb 6 1999,Liverpool,3-1,3-0,Middlesbrough
+Sat Feb 6 1999,Nott'm Forest,1-8,1-2,Man United
+Sat Feb 6 1999,Tottenham,0-0,0-0,Coventry
+Sat Feb 6 1999,West Ham,0-4,0-2,Arsenal
+Sun Feb 7 1999,Derby,2-1,0-1,Everton
+Mon Feb 8 1999,Charlton,2-0,1-0,Wimbledon
+Sat Feb 13 1999,Charlton,1-0,0-0,Liverpool
+Sat Feb 13 1999,West Ham,2-1,2-0,Nott'm Forest
+Wed Feb 17 1999,Aston Villa,1-2,0-2,Leeds
+Wed Feb 17 1999,Chelsea,1-1,1-0,Blackburn
+Wed Feb 17 1999,Everton,5-0,2-0,Middlesbrough
+Wed Feb 17 1999,Man United,1-1,0-0,Arsenal
+Wed Feb 17 1999,Newcastle,4-1,1-1,Coventry
+Sat Feb 20 1999,Arsenal,5-0,4-0,Leicester
+Sat Feb 20 1999,Blackburn,1-4,0-3,Sheffield Weds
+Sat Feb 20 1999,Coventry,0-1,0-0,Man United
+Sat Feb 20 1999,Derby,0-2,0-0,Charlton
+Sat Feb 20 1999,Leeds,1-0,0-0,Everton
+Sat Feb 20 1999,Liverpool,2-2,2-1,West Ham
+Sat Feb 20 1999,Middlesbrough,0-0,0-0,Tottenham
+Sat Feb 20 1999,Nott'm Forest,1-3,1-2,Chelsea
+Sat Feb 20 1999,Southampton,2-1,2-0,Newcastle
+Sun Feb 21 1999,Wimbledon,0-0,0-0,Aston Villa
+Sat Feb 27 1999,Aston Villa,1-4,0-1,Coventry
+Sat Feb 27 1999,Charlton,0-0,0-0,Nott'm Forest
+Sat Feb 27 1999,Chelsea,2-1,2-0,Liverpool
+Sat Feb 27 1999,Everton,1-1,0-1,Wimbledon
+Sat Feb 27 1999,Man United,2-1,0-0,Southampton
+Sat Feb 27 1999,Sheffield Weds,3-1,1-0,Middlesbrough
+Sat Feb 27 1999,Tottenham,1-1,0-0,Derby
+Sat Feb 27 1999,West Ham,2-0,2-0,Blackburn
+Sun Feb 28 1999,Newcastle,1-1,0-1,Arsenal
+Mon Mar 1 1999,Leicester,1-2,0-1,Leeds
+Tue Mar 2 1999,Tottenham,3-0,1-0,Southampton
+Wed Mar 3 1999,Sheffield Weds,1-2,0-2,Wimbledon
+Sat Mar 6 1999,Coventry,2-1,0-0,Charlton
+Sat Mar 6 1999,Southampton,1-0,1-0,West Ham
+Sat Mar 6 1999,Wimbledon,0-1,0-1,Leicester
+Tue Mar 9 1999,Arsenal,3-0,0-0,Sheffield Weds
+Wed Mar 10 1999,Blackburn,1-2,1-1,Everton
+Wed Mar 10 1999,Derby,2-1,2-1,Aston Villa
+Wed Mar 10 1999,Leeds,2-0,1-0,Tottenham
+Wed Mar 10 1999,Nott'm Forest,1-2,1-1,Newcastle
+Sat Mar 13 1999,Chelsea,0-1,0-0,West Ham
+Sat Mar 13 1999,Coventry,1-1,1-0,Blackburn
+Sat Mar 13 1999,Derby,3-2,2-1,Liverpool
+Sat Mar 13 1999,Everton,0-2,0-1,Arsenal
+Sat Mar 13 1999,Leicester,1-1,0-0,Charlton
+Sat Mar 13 1999,Newcastle,1-2,1-1,Man United
+Sat Mar 13 1999,Sheffield Weds,0-2,0-1,Leeds
+Sat Mar 13 1999,Tottenham,1-0,0-0,Aston Villa
+Sat Mar 13 1999,Wimbledon,1-3,0-1,Nott'm Forest
+Sun Mar 14 1999,Middlesbrough,3-0,2-0,Southampton
+Sat Mar 20 1999,Arsenal,2-0,1-0,Coventry
+Sat Mar 20 1999,Blackburn,3-1,3-0,Wimbledon
+Sat Mar 20 1999,Leeds,4-1,3-1,Derby
+Sat Mar 20 1999,Nott'm Forest,1-2,1-1,Middlesbrough
+Sat Mar 20 1999,Southampton,1-0,1-0,Sheffield Weds
+Sat Mar 20 1999,West Ham,2-0,1-0,Newcastle
+Sun Mar 21 1999,Aston Villa,0-3,0-0,Chelsea
+Sun Mar 21 1999,Man United,3-1,0-0,Everton
+Fri Apr 2 1999,Aston Villa,0-0,0-0,West Ham
+Sat Apr 3 1999,Blackburn,0-0,0-0,Middlesbrough
+Sat Apr 3 1999,Charlton,0-1,0-1,Chelsea
+Sat Apr 3 1999,Derby,3-4,2-3,Newcastle
+Sat Apr 3 1999,Leeds,3-1,1-0,Nott'm Forest
+Sat Apr 3 1999,Liverpool,3-2,2-1,Everton
+Sat Apr 3 1999,Sheffield Weds,1-2,0-1,Coventry
+Sat Apr 3 1999,Southampton,0-0,0-0,Arsenal
+Sat Apr 3 1999,Tottenham,0-2,0-1,Leicester
+Sat Apr 3 1999,Wimbledon,1-1,1-1,Man United
+Mon Apr 5 1999,Coventry,1-0,0-0,Southampton
+Mon Apr 5 1999,Everton,1-2,1-0,Sheffield Weds
+Mon Apr 5 1999,Middlesbrough,3-1,3-0,Wimbledon
+Mon Apr 5 1999,Newcastle,1-1,0-0,Tottenham
+Mon Apr 5 1999,Nott'm Forest,2-2,0-1,Liverpool
+Mon Apr 5 1999,West Ham,0-1,0-0,Charlton
+Tue Apr 6 1999,Arsenal,1-0,1-0,Blackburn
+Tue Apr 6 1999,Leicester,2-2,0-1,Aston Villa
+Sat Apr 10 1999,Aston Villa,3-0,1-0,Southampton
+Sat Apr 10 1999,Derby,1-0,0-0,Nott'm Forest
+Sat Apr 10 1999,Leicester,0-0,0-0,West Ham
+Sat Apr 10 1999,Middlesbrough,2-0,1-0,Charlton
+Sun Apr 11 1999,Everton,2-0,1-0,Coventry
+Sun Apr 11 1999,Wimbledon,1-2,0-1,Chelsea
+Mon Apr 12 1999,Leeds,0-0,0-0,Liverpool
+Wed Apr 14 1999,Middlesbrough,0-0,0-0,Chelsea
+Sat Apr 17 1999,Charlton,1-1,1-1,Leeds
+Sat Apr 17 1999,Coventry,1-2,0-0,Middlesbrough
+Sat Apr 17 1999,Liverpool,0-1,0-1,Aston Villa
+Sat Apr 17 1999,Man United,3-0,2-0,Sheffield Weds
+Sat Apr 17 1999,Newcastle,1-3,0-2,Everton
+Sat Apr 17 1999,Nott'm Forest,0-1,0-0,Tottenham
+Sat Apr 17 1999,Southampton,3-3,1-2,Blackburn
+Sat Apr 17 1999,West Ham,5-1,2-0,Derby
+Sun Apr 18 1999,Chelsea,2-2,1-0,Leicester
+Mon Apr 19 1999,Arsenal,5-1,1-0,Wimbledon
+Tue Apr 20 1999,Charlton,1-4,1-0,Tottenham
+Wed Apr 21 1999,Liverpool,0-1,0-0,Leicester
+Wed Apr 21 1999,Sheffield Weds,1-1,0-1,Newcastle
+Sat Apr 24 1999,Aston Villa,2-0,1-0,Nott'm Forest
+Sat Apr 24 1999,Blackburn,1-3,0-3,Liverpool
+Sat Apr 24 1999,Derby,0-0,0-0,Southampton
+Sat Apr 24 1999,Everton,4-1,2-0,Charlton
+Sat Apr 24 1999,Leicester,1-0,1-0,Coventry
+Sat Apr 24 1999,Middlesbrough,1-6,0-3,Arsenal
+Sat Apr 24 1999,Tottenham,1-2,0-1,West Ham
+Sat Apr 24 1999,Wimbledon,1-1,1-1,Newcastle
+Sun Apr 25 1999,Leeds,1-1,1-0,Man United
+Sun Apr 25 1999,Sheffield Weds,0-0,0-0,Chelsea
+Sat May 1 1999,Charlton,0-0,0-0,Blackburn
+Sat May 1 1999,Chelsea,3-1,1-0,Everton
+Sat May 1 1999,Coventry,2-1,2-0,Wimbledon
+Sat May 1 1999,Liverpool,3-2,0-2,Tottenham
+Sat May 1 1999,Man United,2-1,1-1,Aston Villa
+Sat May 1 1999,Newcastle,1-1,0-0,Middlesbrough
+Sat May 1 1999,Nott'm Forest,2-0,2-0,Sheffield Weds
+Sat May 1 1999,Southampton,2-1,1-1,Leicester
+Sat May 1 1999,West Ham,1-5,0-2,Leeds
+Sun May 2 1999,Arsenal,1-0,1-0,Derby
+Wed May 5 1999,Chelsea,1-0,0-0,Leeds
+Wed May 5 1999,Leicester,1-2,1-1,Derby
+Wed May 5 1999,Liverpool,2-2,0-1,Man United
+Wed May 5 1999,Tottenham,1-3,1-2,Arsenal
+Sat May 8 1999,Aston Villa,3-4,1-1,Charlton
+Sat May 8 1999,Blackburn,1-2,1-1,Nott'm Forest
+Sat May 8 1999,Derby,0-0,0-0,Coventry
+Sat May 8 1999,Everton,6-0,3-0,West Ham
+Sat May 8 1999,Leicester,2-0,2-0,Newcastle
+Sat May 8 1999,Sheffield Weds,1-0,0-0,Liverpool
+Sat May 8 1999,Wimbledon,0-2,0-0,Southampton
+Sun May 9 1999,Middlesbrough,0-1,0-1,Man United
+Mon May 10 1999,Tottenham,2-2,1-1,Chelsea
+Tue May 11 1999,Leeds,1-0,0-0,Arsenal
+Wed May 12 1999,Blackburn,0-0,0-0,Man United
+Sun May 16 1999,Arsenal,1-0,0-0,Aston Villa
+Sun May 16 1999,Charlton,0-1,0-0,Sheffield Weds
+Sun May 16 1999,Chelsea,2-1,1-0,Derby
+Sun May 16 1999,Coventry,2-2,0-1,Leeds
+Sun May 16 1999,Liverpool,3-0,1-0,Wimbledon
+Sun May 16 1999,Man United,2-1,1-1,Tottenham
+Sun May 16 1999,Newcastle,1-1,0-1,Blackburn
+Sun May 16 1999,Nott'm Forest,1-0,0-0,Leicester
+Sun May 16 1999,Southampton,2-0,1-0,Everton
+Sun May 16 1999,West Ham,4-0,2-0,Middlesbrough

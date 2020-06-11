@@ -1,0 +1,441 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 3 2019,Salford,2-0,1-0,Stevenage
+Sat Aug 3 2019,Bradford,0-0,0-0,Cambridge
+Sat Aug 3 2019,Carlisle,2-1,2-1,Crawley Town
+Sat Aug 3 2019,Colchester,1-1,1-1,Port Vale
+Sat Aug 3 2019,Crewe,0-3,0-2,Plymouth
+Sat Aug 3 2019,Exeter,1-0,0-0,Macclesfield
+Sat Aug 3 2019,Forest Green,1-0,0-0,Oldham
+Sat Aug 3 2019,Leyton Orient,1-0,0-0,Cheltenham
+Sat Aug 3 2019,Morecambe,0-2,0-0,Grimsby
+Sat Aug 3 2019,Newport County,2-2,2-0,Mansfield
+Sat Aug 3 2019,Northampton,0-1,0-1,Walsall
+Sat Aug 3 2019,Scunthorpe,0-2,0-0,Swindon
+Sat Aug 10 2019,Grimsby,1-1,0-0,Bradford
+Sat Aug 10 2019,Cambridge,0-0,0-0,Newport County
+Sat Aug 10 2019,Cheltenham,4-1,0-0,Scunthorpe
+Sat Aug 10 2019,Crawley Town,2-0,1-0,Salford
+Sat Aug 10 2019,Macclesfield,3-0,1-0,Leyton Orient
+Sat Aug 10 2019,Mansfield,2-2,1-2,Morecambe
+Sat Aug 10 2019,Oldham,1-2,1-2,Crewe
+Sat Aug 10 2019,Plymouth,1-0,0-0,Colchester
+Sat Aug 10 2019,Port Vale,1-1,1-1,Northampton
+Sat Aug 10 2019,Stevenage,0-1,0-0,Exeter
+Sat Aug 10 2019,Swindon,3-2,0-0,Carlisle
+Sat Aug 10 2019,Walsall,1-1,0-1,Forest Green
+Sat Aug 17 2019,Bradford,3-0,2-0,Oldham
+Sat Aug 17 2019,Carlisle,0-2,0-2,Mansfield
+Sat Aug 17 2019,Colchester,1-2,1-0,Cambridge
+Sat Aug 17 2019,Crewe,1-0,0-0,Walsall
+Sat Aug 17 2019,Exeter,1-1,0-0,Swindon
+Sat Aug 17 2019,Forest Green,1-0,0-0,Grimsby
+Sat Aug 17 2019,Leyton Orient,0-0,0-0,Stevenage
+Sat Aug 17 2019,Morecambe,0-0,0-0,Cheltenham
+Sat Aug 17 2019,Newport County,1-0,0-0,Plymouth
+Sat Aug 17 2019,Northampton,1-2,0-1,Macclesfield
+Sat Aug 17 2019,Salford,1-1,0-0,Port Vale
+Sat Aug 17 2019,Scunthorpe,2-2,1-1,Crawley Town
+Tue Aug 20 2019,Cambridge,3-2,0-1,Scunthorpe
+Tue Aug 20 2019,Cheltenham,2-0,2-0,Carlisle
+Tue Aug 20 2019,Crawley Town,1-2,1-1,Crewe
+Tue Aug 20 2019,Grimsby,2-2,0-2,Colchester
+Tue Aug 20 2019,Macclesfield,0-1,0-0,Morecambe
+Tue Aug 20 2019,Mansfield,2-3,2-0,Leyton Orient
+Tue Aug 20 2019,Oldham,0-0,0-0,Exeter
+Tue Aug 20 2019,Plymouth,2-2,1-1,Salford
+Tue Aug 20 2019,Port Vale,2-1,2-1,Forest Green
+Tue Aug 20 2019,Stevenage,0-1,0-1,Bradford
+Tue Aug 20 2019,Swindon,0-1,0-0,Northampton
+Tue Aug 20 2019,Walsall,0-0,0-0,Newport County
+Sat Aug 24 2019,Bradford,0-1,0-0,Forest Green
+Sat Aug 24 2019,Cambridge,1-2,1-1,Oldham
+Sat Aug 24 2019,Carlisle,2-2,2-2,Salford
+Sat Aug 24 2019,Cheltenham,2-2,2-2,Swindon
+Sat Aug 24 2019,Colchester,1-0,0-0,Northampton
+Sat Aug 24 2019,Grimsby,5-2,1-1,Port Vale
+Sat Aug 24 2019,Leyton Orient,2-3,1-1,Crawley Town
+Sat Aug 24 2019,Macclesfield,1-0,0-0,Scunthorpe
+Sat Aug 24 2019,Mansfield,0-0,0-0,Stevenage
+Sat Aug 24 2019,Morecambe,2-3,1-2,Exeter
+Sat Aug 24 2019,Newport County,1-0,0-0,Crewe
+Sat Aug 24 2019,Plymouth,3-0,1-0,Walsall
+Sat Aug 31 2019,Crawley Town,1-0,0-0,Cheltenham
+Sat Aug 31 2019,Crewe,2-1,1-1,Bradford
+Sat Aug 31 2019,Exeter,1-0,1-0,Mansfield
+Sat Aug 31 2019,Forest Green,0-2,0-1,Newport County
+Sat Aug 31 2019,Northampton,3-1,3-1,Plymouth
+Sat Aug 31 2019,Oldham,0-1,0-1,Colchester
+Sat Aug 31 2019,Port Vale,1-0,0-0,Cambridge
+Sat Aug 31 2019,Salford,1-1,1-0,Leyton Orient
+Sat Aug 31 2019,Scunthorpe,0-1,0-0,Carlisle
+Sat Aug 31 2019,Stevenage,2-2,0-1,Macclesfield
+Sat Aug 31 2019,Swindon,3-1,3-1,Morecambe
+Sat Aug 31 2019,Walsall,1-3,1-1,Grimsby
+Sat Sep 7 2019,Bradford,2-1,0-1,Northampton
+Sat Sep 7 2019,Cambridge,0-1,0-0,Forest Green
+Sat Sep 7 2019,Carlisle,1-3,0-1,Exeter
+Sat Sep 7 2019,Cheltenham,4-2,1-0,Stevenage
+Sat Sep 7 2019,Colchester,0-0,0-0,Walsall
+Sat Sep 7 2019,Grimsby,0-2,0-0,Crewe
+Sat Sep 7 2019,Leyton Orient,1-3,0-3,Swindon
+Sat Sep 7 2019,Macclesfield,1-1,1-0,Crawley Town
+Sat Sep 7 2019,Mansfield,2-0,1-0,Scunthorpe
+Sat Sep 7 2019,Morecambe,2-2,0-1,Salford
+Sat Sep 7 2019,Newport County,1-0,0-0,Port Vale
+Sat Sep 7 2019,Plymouth,2-2,1-1,Oldham
+Sat Sep 14 2019,Crawley Town,1-0,0-0,Mansfield
+Sat Sep 14 2019,Crewe,2-3,0-1,Cambridge
+Sat Sep 14 2019,Exeter,2-2,1-1,Leyton Orient
+Sat Sep 14 2019,Forest Green,1-0,1-0,Colchester
+Sat Sep 14 2019,Northampton,2-0,1-0,Newport County
+Sat Sep 14 2019,Oldham,2-2,1-0,Grimsby
+Sat Sep 14 2019,Port Vale,1-0,0-0,Plymouth
+Sat Sep 14 2019,Salford,0-2,0-1,Cheltenham
+Sat Sep 14 2019,Scunthorpe,3-0,3-0,Morecambe
+Sat Sep 14 2019,Stevenage,2-3,1-1,Carlisle
+Sat Sep 14 2019,Swindon,3-0,2-0,Macclesfield
+Sat Sep 14 2019,Walsall,0-1,0-0,Bradford
+Tue Sep 17 2019,Carlisle,0-0,0-0,Forest Green
+Tue Sep 17 2019,Cheltenham,3-2,0-0,Bradford
+Tue Sep 17 2019,Crawley Town,2-2,1-0,Plymouth
+Tue Sep 17 2019,Exeter,2-0,0-0,Port Vale
+Tue Sep 17 2019,Leyton Orient,1-2,1-1,Crewe
+Tue Sep 17 2019,Macclesfield,1-1,1-1,Newport County
+Tue Sep 17 2019,Mansfield,0-4,0-0,Cambridge
+Tue Sep 17 2019,Morecambe,0-1,0-1,Walsall
+Tue Sep 17 2019,Salford,1-0,1-0,Grimsby
+Tue Sep 17 2019,Scunthorpe,2-2,0-0,Oldham
+Tue Sep 17 2019,Stevenage,0-1,0-0,Northampton
+Tue Sep 17 2019,Swindon,0-3,0-1,Colchester
+Sat Sep 21 2019,Bradford,3-1,2-1,Carlisle
+Sat Sep 21 2019,Cambridge,0-1,0-1,Swindon
+Sat Sep 21 2019,Colchester,2-1,2-1,Leyton Orient
+Sat Sep 21 2019,Crewe,4-1,0-1,Salford
+Sat Sep 21 2019,Forest Green,0-0,0-0,Stevenage
+Sat Sep 21 2019,Grimsby,1-0,0-0,Macclesfield
+Sat Sep 21 2019,Newport County,1-1,0-1,Exeter
+Sat Sep 21 2019,Northampton,2-2,1-0,Crawley Town
+Sat Sep 21 2019,Oldham,3-1,1-0,Morecambe
+Sat Sep 21 2019,Plymouth,0-2,0-1,Cheltenham
+Sat Sep 21 2019,Port Vale,2-2,1-1,Mansfield
+Sat Sep 21 2019,Walsall,1-0,0-0,Scunthorpe
+Sat Sep 28 2019,Carlisle,1-0,1-0,Oldham
+Sat Sep 28 2019,Cheltenham,1-1,1-1,Crewe
+Sat Sep 28 2019,Crawley Town,2-3,1-3,Walsall
+Sat Sep 28 2019,Exeter,1-3,0-1,Grimsby
+Sat Sep 28 2019,Leyton Orient,3-3,1-2,Port Vale
+Sat Sep 28 2019,Macclesfield,1-1,1-1,Colchester
+Sat Sep 28 2019,Mansfield,0-1,0-1,Plymouth
+Sat Sep 28 2019,Morecambe,2-2,0-2,Northampton
+Sat Sep 28 2019,Salford,0-4,0-3,Forest Green
+Sat Sep 28 2019,Scunthorpe,1-1,1-0,Bradford
+Sat Sep 28 2019,Stevenage,1-1,1-0,Cambridge
+Sat Sep 28 2019,Swindon,0-2,0-1,Newport County
+Sat Oct 5 2019,Bradford,2-1,0-0,Swindon
+Sat Oct 5 2019,Cambridge,2-2,1-0,Macclesfield
+Sat Oct 5 2019,Colchester,3-1,0-1,Stevenage
+Sat Oct 5 2019,Crewe,1-1,0-1,Exeter
+Sat Oct 5 2019,Forest Green,3-1,1-0,Crawley Town
+Sat Oct 5 2019,Grimsby,0-1,0-0,Mansfield
+Sat Oct 5 2019,Newport County,1-0,0-0,Carlisle
+Sat Oct 5 2019,Northampton,0-1,0-0,Leyton Orient
+Sat Oct 5 2019,Oldham,1-1,1-0,Cheltenham
+Sat Oct 5 2019,Plymouth,2-2,1-1,Scunthorpe
+Sat Oct 5 2019,Port Vale,3-1,0-1,Morecambe
+Sat Oct 5 2019,Walsall,0-3,0-1,Salford
+Sat Oct 12 2019,Carlisle,2-4,0-2,Crewe
+Sat Oct 12 2019,Crawley Town,2-1,0-1,Colchester
+Sat Oct 12 2019,Exeter,1-0,1-0,Forest Green
+Sat Oct 12 2019,Leyton Orient,3-1,0-1,Walsall
+Sat Oct 12 2019,Macclesfield,2-1,1-1,Port Vale
+Sat Oct 12 2019,Mansfield,6-1,3-1,Oldham
+Sat Oct 12 2019,Morecambe,1-2,0-0,Bradford
+Sat Oct 12 2019,Salford,1-0,0-0,Cambridge
+Sat Oct 12 2019,Scunthorpe,3-0,3-0,Northampton
+Sat Oct 12 2019,Stevenage,2-1,2-0,Grimsby
+Sat Oct 12 2019,Swindon,1-1,1-0,Plymouth
+Sat Oct 19 2019,Bradford,2-1,1-0,Crawley Town
+Sat Oct 19 2019,Cambridge,4-0,1-0,Exeter
+Sat Oct 19 2019,Colchester,0-1,0-0,Morecambe
+Sat Oct 19 2019,Crewe,3-1,0-1,Swindon
+Sat Oct 19 2019,Forest Green,2-2,1-0,Mansfield
+Sat Oct 19 2019,Grimsby,0-4,0-2,Leyton Orient
+Sat Oct 19 2019,Newport County,2-1,1-0,Scunthorpe
+Sat Oct 19 2019,Northampton,2-0,1-0,Salford
+Sat Oct 19 2019,Oldham,0-1,0-0,Macclesfield
+Sat Oct 19 2019,Plymouth,2-0,1-0,Carlisle
+Sat Oct 19 2019,Port Vale,1-1,1-1,Stevenage
+Sat Oct 19 2019,Walsall,1-2,0-1,Cheltenham
+Tue Oct 22 2019,Bradford,1-2,1-1,Port Vale
+Tue Oct 22 2019,Cambridge,0-0,0-0,Grimsby
+Tue Oct 22 2019,Carlisle,0-2,0-0,Northampton
+Tue Oct 22 2019,Cheltenham,3-0,1-0,Macclesfield
+Tue Oct 22 2019,Crewe,0-0,0-0,Colchester
+Tue Oct 22 2019,Mansfield,1-2,0-0,Salford
+Tue Oct 22 2019,Morecambe,0-2,0-0,Forest Green
+Tue Oct 22 2019,Newport County,1-1,0-1,Crawley Town
+Tue Oct 22 2019,Oldham,2-0,0-0,Walsall
+Tue Oct 22 2019,Plymouth,4-0,4-0,Leyton Orient
+Tue Oct 22 2019,Scunthorpe,3-1,2-1,Exeter
+Tue Oct 22 2019,Swindon,1-0,0-0,Stevenage
+Sat Oct 26 2019,Exeter,4-0,1-0,Plymouth
+Sat Oct 26 2019,Colchester,3-1,2-1,Newport County
+Sat Oct 26 2019,Crawley Town,0-4,0-2,Swindon
+Sat Oct 26 2019,Leyton Orient,1-1,1-0,Carlisle
+Sat Oct 26 2019,Northampton,2-0,2-0,Cambridge
+Sat Oct 26 2019,Port Vale,0-0,0-0,Oldham
+Sat Oct 26 2019,Salford,1-1,1-1,Scunthorpe
+Sat Oct 26 2019,Stevenage,1-0,0-0,Morecambe
+Sat Oct 26 2019,Walsall,1-2,1-1,Mansfield
+Sat Nov 2 2019,Bradford,2-0,2-0,Exeter
+Sat Nov 2 2019,Cambridge,2-1,0-0,Crawley Town
+Sat Nov 2 2019,Carlisle,2-1,1-1,Macclesfield
+Sat Nov 2 2019,Cheltenham,1-2,0-2,Forest Green
+Sat Nov 2 2019,Crewe,0-1,0-0,Port Vale
+Sat Nov 2 2019,Mansfield,2-3,1-1,Colchester
+Sat Nov 2 2019,Morecambe,1-0,0-0,Leyton Orient
+Sat Nov 2 2019,Newport County,1-2,1-1,Salford
+Sat Nov 2 2019,Oldham,2-2,0-1,Northampton
+Sat Nov 2 2019,Scunthorpe,0-0,0-0,Stevenage
+Sat Nov 2 2019,Swindon,2-1,1-0,Walsall
+Sat Nov 16 2019,Crawley Town,1-1,1-0,Morecambe
+Sat Nov 16 2019,Exeter,0-0,0-0,Cheltenham
+Sat Nov 16 2019,Forest Green,0-1,0-1,Plymouth
+Sat Nov 16 2019,Leyton Orient,0-2,0-1,Scunthorpe
+Sat Nov 16 2019,Macclesfield,0-0,0-0,Mansfield
+Sat Nov 16 2019,Northampton,4-1,3-1,Crewe
+Sat Nov 16 2019,Port Vale,2-1,0-1,Carlisle
+Sat Nov 16 2019,Salford,2-3,1-1,Swindon
+Sat Nov 16 2019,Walsall,2-1,2-0,Cambridge
+Sat Nov 23 2019,Carlisle,0-0,0-0,Cambridge
+Sat Nov 23 2019,Cheltenham,1-1,0-1,Colchester
+Sat Nov 23 2019,Crawley Town,0-1,0-0,Exeter
+Sat Nov 23 2019,Crewe,5-0,3-0,Morecambe
+Sat Nov 23 2019,Leyton Orient,2-4,0-3,Forest Green
+Sat Nov 23 2019,Newport County,0-1,0-1,Oldham
+Sat Nov 23 2019,Northampton,2-0,2-0,Grimsby
+Sat Nov 23 2019,Plymouth,2-1,2-0,Bradford
+Sat Nov 23 2019,Salford,0-0,0-0,Macclesfield
+Sat Nov 23 2019,Scunthorpe,2-1,1-1,Port Vale
+Sat Nov 23 2019,Swindon,1-0,1-0,Mansfield
+Sat Nov 23 2019,Walsall,0-0,0-0,Stevenage
+Tue Nov 26 2019,Forest Green,0-0,0-0,Crewe
+Tue Nov 26 2019,Grimsby,0-0,0-0,Cheltenham
+Sat Nov 30 2019,Macclesfield,1-1,1-0,Bradford
+Sat Dec 7 2019,Bradford,1-0,0-0,Newport County
+Sat Dec 7 2019,Cambridge,1-0,1-0,Plymouth
+Sat Dec 7 2019,Colchester,1-0,0-0,Salford
+Sat Dec 7 2019,Exeter,3-2,1-1,Northampton
+Sat Dec 7 2019,Forest Green,0-2,0-0,Scunthorpe
+Sat Dec 7 2019,Grimsby,0-3,0-2,Swindon
+Sat Dec 7 2019,Mansfield,0-3,0-1,Cheltenham
+Sat Dec 7 2019,Morecambe,1-1,0-0,Carlisle
+Sat Dec 7 2019,Oldham,1-1,1-1,Leyton Orient
+Sat Dec 7 2019,Port Vale,0-1,0-0,Walsall
+Sat Dec 7 2019,Stevenage,0-0,0-0,Crawley Town
+Sat Dec 14 2019,Carlisle,0-0,0-0,Grimsby
+Sat Dec 14 2019,Cheltenham,1-1,0-1,Cambridge
+Sat Dec 14 2019,Crawley Town,0-0,0-0,Port Vale
+Sat Dec 14 2019,Crewe,1-1,1-1,Mansfield
+Sat Dec 14 2019,Leyton Orient,0-0,0-0,Bradford
+Sat Dec 14 2019,Newport County,1-1,0-1,Stevenage
+Sat Dec 14 2019,Northampton,1-0,1-0,Forest Green
+Sat Dec 14 2019,Plymouth,3-0,2-0,Morecambe
+Sat Dec 14 2019,Salford,0-1,0-1,Exeter
+Sat Dec 14 2019,Scunthorpe,2-2,1-0,Colchester
+Sat Dec 14 2019,Swindon,2-0,1-0,Oldham
+Sat Dec 14 2019,Walsall,1-1,0-1,Macclesfield
+Sat Dec 21 2019,Grimsby,0-1,0-0,Scunthorpe
+Sat Dec 21 2019,Bradford,1-1,0-0,Salford
+Sat Dec 21 2019,Cambridge,2-3,0-3,Leyton Orient
+Sat Dec 21 2019,Colchester,3-0,2-0,Carlisle
+Sat Dec 21 2019,Exeter,3-3,2-3,Walsall
+Sat Dec 21 2019,Forest Green,2-2,0-2,Swindon
+Sat Dec 21 2019,Mansfield,1-1,0-0,Northampton
+Sat Dec 21 2019,Morecambe,2-1,0-1,Newport County
+Sat Dec 21 2019,Oldham,2-1,0-1,Crawley Town
+Sat Dec 21 2019,Port Vale,1-1,1-1,Cheltenham
+Sat Dec 21 2019,Stevenage,1-5,0-2,Crewe
+Thu Dec 26 2019,Leyton Orient,1-3,0-1,Colchester
+Thu Dec 26 2019,Carlisle,0-0,0-0,Bradford
+Thu Dec 26 2019,Cheltenham,0-1,0-1,Plymouth
+Thu Dec 26 2019,Crawley Town,4-0,1-0,Northampton
+Thu Dec 26 2019,Exeter,1-0,1-0,Newport County
+Thu Dec 26 2019,Macclesfield,1-1,0-0,Grimsby
+Thu Dec 26 2019,Mansfield,2-2,0-0,Port Vale
+Thu Dec 26 2019,Morecambe,1-2,0-1,Oldham
+Thu Dec 26 2019,Salford,3-1,2-0,Crewe
+Thu Dec 26 2019,Scunthorpe,0-2,0-1,Walsall
+Thu Dec 26 2019,Stevenage,0-0,0-0,Forest Green
+Thu Dec 26 2019,Swindon,4-0,3-0,Cambridge
+Sun Dec 29 2019,Bradford,2-0,1-0,Mansfield
+Sun Dec 29 2019,Cambridge,1-0,0-0,Morecambe
+Sun Dec 29 2019,Colchester,2-2,1-1,Exeter
+Sun Dec 29 2019,Crewe,3-1,2-0,Scunthorpe
+Sun Dec 29 2019,Forest Green,1-0,0-0,Macclesfield
+Sun Dec 29 2019,Grimsby,1-1,1-1,Crawley Town
+Sun Dec 29 2019,Newport County,1-1,0-1,Leyton Orient
+Sun Dec 29 2019,Northampton,1-1,1-1,Cheltenham
+Sun Dec 29 2019,Oldham,1-4,0-3,Salford
+Sun Dec 29 2019,Plymouth,2-1,1-0,Stevenage
+Sun Dec 29 2019,Port Vale,2-0,1-0,Swindon
+Sun Dec 29 2019,Walsall,1-2,0-0,Carlisle
+Wed Jan 1 2020,Bradford,1-0,0-0,Morecambe
+Wed Jan 1 2020,Cambridge,2-3,2-1,Mansfield
+Wed Jan 1 2020,Colchester,1-1,0-0,Crawley Town
+Wed Jan 1 2020,Crewe,4-1,4-0,Carlisle
+Wed Jan 1 2020,Forest Green,0-1,0-1,Exeter
+Wed Jan 1 2020,Grimsby,1-0,0-0,Salford
+Wed Jan 1 2020,Newport County,1-1,0-0,Cheltenham
+Wed Jan 1 2020,Northampton,1-0,0-0,Stevenage
+Wed Jan 1 2020,Oldham,0-2,0-1,Scunthorpe
+Wed Jan 1 2020,Plymouth,1-2,1-1,Swindon
+Wed Jan 1 2020,Port Vale,2-2,1-0,Macclesfield
+Wed Jan 1 2020,Walsall,1-0,1-0,Leyton Orient
+Sat Jan 4 2020,Cheltenham,3-0,1-0,Oldham
+Sat Jan 4 2020,Crawley Town,1-1,1-0,Forest Green
+Sat Jan 4 2020,Macclesfield,1-0,1-0,Cambridge
+Sat Jan 4 2020,Mansfield,0-1,0-0,Grimsby
+Sat Jan 4 2020,Salford,1-2,0-1,Walsall
+Sat Jan 4 2020,Scunthorpe,1-3,0-1,Plymouth
+Sat Jan 4 2020,Stevenage,0-0,0-0,Colchester
+Sat Jan 4 2020,Swindon,1-1,1-0,Bradford
+Sat Jan 11 2020,Carlisle,0-3,0-1,Plymouth
+Sat Jan 11 2020,Cheltenham,3-1,1-0,Walsall
+Sat Jan 11 2020,Crawley Town,2-1,2-0,Bradford
+Sat Jan 11 2020,Exeter,2-0,0-0,Cambridge
+Sat Jan 11 2020,Leyton Orient,1-1,0-0,Grimsby
+Sat Jan 11 2020,Macclesfield,1-1,0-0,Oldham
+Sat Jan 11 2020,Mansfield,3-4,2-1,Forest Green
+Sat Jan 11 2020,Morecambe,1-1,0-1,Colchester
+Sat Jan 11 2020,Salford,1-2,1-1,Northampton
+Sat Jan 11 2020,Scunthorpe,1-2,1-0,Newport County
+Sat Jan 11 2020,Stevenage,0-1,0-0,Port Vale
+Sat Jan 11 2020,Swindon,3-1,1-0,Crewe
+Tue Jan 14 2020,Morecambe,2-1,2-0,Port Vale
+Tue Jan 14 2020,Stevenage,0-0,0-0,Oldham
+Sat Jan 18 2020,Bradford,2-2,2-1,Scunthorpe
+Sat Jan 18 2020,Cambridge,0-4,0-1,Stevenage
+Sat Jan 18 2020,Colchester,2-1,2-0,Macclesfield
+Sat Jan 18 2020,Crewe,1-0,0-0,Cheltenham
+Sat Jan 18 2020,Forest Green,1-2,1-1,Salford
+Sat Jan 18 2020,Grimsby,0-1,0-0,Exeter
+Sat Jan 18 2020,Newport County,2-0,1-0,Swindon
+Sat Jan 18 2020,Northampton,4-1,2-0,Morecambe
+Sat Jan 18 2020,Oldham,1-1,1-1,Carlisle
+Sat Jan 18 2020,Plymouth,3-1,1-0,Mansfield
+Sat Jan 18 2020,Port Vale,1-0,0-0,Leyton Orient
+Sat Jan 18 2020,Walsall,2-1,0-1,Crawley Town
+Tue Jan 21 2020,Colchester,0-0,0-0,Bradford
+Tue Jan 21 2020,Leyton Orient,1-1,0-1,Northampton
+Tue Jan 21 2020,Macclesfield,1-1,1-0,Crewe
+Sat Jan 25 2020,Carlisle,2-1,2-0,Walsall
+Sat Jan 25 2020,Crawley Town,3-2,1-2,Grimsby
+Sat Jan 25 2020,Exeter,0-0,0-0,Colchester
+Sat Jan 25 2020,Leyton Orient,2-1,0-0,Newport County
+Sat Jan 25 2020,Macclesfield,2-1,0-1,Forest Green
+Sat Jan 25 2020,Mansfield,3-0,2-0,Bradford
+Sat Jan 25 2020,Morecambe,1-1,0-0,Cambridge
+Sat Jan 25 2020,Salford,1-1,1-0,Oldham
+Sat Jan 25 2020,Scunthorpe,2-2,1-0,Crewe
+Sat Jan 25 2020,Stevenage,1-2,0-0,Plymouth
+Sat Jan 25 2020,Swindon,3-0,2-0,Port Vale
+Tue Jan 28 2020,Bradford,1-1,1-0,Cheltenham
+Tue Jan 28 2020,Cambridge,0-4,0-1,Salford
+Tue Jan 28 2020,Colchester,3-1,0-0,Swindon
+Tue Jan 28 2020,Crewe,2-0,1-0,Leyton Orient
+Tue Jan 28 2020,Forest Green,1-4,0-2,Carlisle
+Tue Jan 28 2020,Grimsby,3-1,1-0,Stevenage
+Tue Jan 28 2020,Newport County,1-0,1-0,Macclesfield
+Tue Jan 28 2020,Northampton,3-0,1-0,Scunthorpe
+Tue Jan 28 2020,Oldham,3-1,2-0,Mansfield
+Tue Jan 28 2020,Plymouth,2-2,1-1,Crawley Town
+Tue Jan 28 2020,Port Vale,3-1,0-1,Exeter
+Tue Jan 28 2020,Walsall,0-2,0-0,Morecambe
+Sat Feb 1 2020,Cambridge,2-1,0-0,Colchester
+Sat Feb 1 2020,Cheltenham,2-1,2-0,Morecambe
+Sat Feb 1 2020,Crawley Town,3-1,3-0,Scunthorpe
+Sat Feb 1 2020,Grimsby,2-2,1-1,Forest Green
+Sat Feb 1 2020,Macclesfield,0-1,0-0,Northampton
+Sat Feb 1 2020,Mansfield,2-2,0-0,Carlisle
+Sat Feb 1 2020,Oldham,3-0,3-0,Bradford
+Sat Feb 1 2020,Plymouth,1-0,1-0,Newport County
+Sat Feb 1 2020,Port Vale,1-1,0-0,Salford
+Sat Feb 1 2020,Stevenage,0-3,0-1,Leyton Orient
+Sat Feb 1 2020,Swindon,2-1,2-1,Exeter
+Sat Feb 1 2020,Walsall,1-2,1-0,Crewe
+Sat Feb 8 2020,Bradford,1-1,0-0,Grimsby
+Sat Feb 8 2020,Carlisle,1-1,0-1,Swindon
+Sat Feb 8 2020,Colchester,3-0,3-0,Plymouth
+Sat Feb 8 2020,Crewe,2-1,0-0,Oldham
+Sat Feb 8 2020,Exeter,2-1,1-0,Stevenage
+Sat Feb 8 2020,Forest Green,1-2,0-0,Walsall
+Sat Feb 8 2020,Leyton Orient,1-1,0-0,Macclesfield
+Sat Feb 8 2020,Morecambe,1-1,0-0,Mansfield
+Sat Feb 8 2020,Newport County,0-1,0-0,Cambridge
+Sat Feb 8 2020,Northampton,0-1,0-0,Port Vale
+Sat Feb 8 2020,Salford,0-0,0-0,Crawley Town
+Sat Feb 8 2020,Scunthorpe,1-0,1-0,Cheltenham
+Tue Feb 11 2020,Bradford,3-1,0-1,Stevenage
+Tue Feb 11 2020,Carlisle,0-1,0-1,Cheltenham
+Tue Feb 11 2020,Colchester,2-3,2-1,Grimsby
+Tue Feb 11 2020,Crewe,2-1,0-0,Crawley Town
+Tue Feb 11 2020,Exeter,5-1,2-1,Oldham
+Tue Feb 11 2020,Forest Green,2-3,0-2,Port Vale
+Tue Feb 11 2020,Leyton Orient,2-1,1-0,Mansfield
+Tue Feb 11 2020,Morecambe,2-0,2-0,Macclesfield
+Tue Feb 11 2020,Newport County,0-0,0-0,Walsall
+Tue Feb 11 2020,Northampton,0-1,0-0,Swindon
+Tue Feb 11 2020,Salford,2-3,0-1,Plymouth
+Tue Feb 11 2020,Scunthorpe,0-2,0-1,Cambridge
+Sat Feb 15 2020,Cambridge,2-1,0-1,Bradford
+Sat Feb 15 2020,Cheltenham,2-1,1-1,Leyton Orient
+Sat Feb 15 2020,Crawley Town,0-0,0-0,Carlisle
+Sat Feb 15 2020,Grimsby,2-1,0-0,Morecambe
+Sat Feb 15 2020,Macclesfield,2-3,1-2,Exeter
+Sat Feb 15 2020,Mansfield,1-0,1-0,Newport County
+Sat Feb 15 2020,Oldham,1-1,0-0,Forest Green
+Sat Feb 15 2020,Plymouth,2-1,0-0,Crewe
+Sat Feb 15 2020,Port Vale,3-0,1-0,Colchester
+Sat Feb 15 2020,Stevenage,0-1,0-1,Salford
+Sat Feb 15 2020,Walsall,3-2,0-2,Northampton
+Tue Feb 18 2020,Macclesfield,1-1,1-0,Plymouth
+Sat Feb 22 2020,Carlisle,2-2,1-2,Morecambe
+Sat Feb 22 2020,Cheltenham,1-0,0-0,Mansfield
+Sat Feb 22 2020,Crawley Town,2-0,1-0,Stevenage
+Sat Feb 22 2020,Crewe,2-0,2-0,Macclesfield
+Sat Feb 22 2020,Leyton Orient,2-2,1-2,Oldham
+Sat Feb 22 2020,Newport County,2-1,2-1,Bradford
+Sat Feb 22 2020,Northampton,2-0,1-0,Exeter
+Sat Feb 22 2020,Plymouth,0-0,0-0,Cambridge
+Sat Feb 22 2020,Salford,1-2,1-2,Colchester
+Sat Feb 22 2020,Scunthorpe,1-0,0-0,Forest Green
+Sat Feb 22 2020,Swindon,3-1,0-0,Grimsby
+Sat Feb 22 2020,Walsall,2-2,1-2,Port Vale
+Tue Feb 25 2020,Cheltenham,2-1,1-1,Northampton
+Tue Feb 25 2020,Grimsby,4-2,2-1,Newport County
+Sat Feb 29 2020,Bradford,2-1,2-0,Plymouth
+Sat Feb 29 2020,Cambridge,1-2,0-1,Carlisle
+Sat Feb 29 2020,Colchester,0-2,0-1,Cheltenham
+Sat Feb 29 2020,Exeter,1-1,0-1,Crawley Town
+Sat Feb 29 2020,Grimsby,0-3,0-2,Northampton
+Sat Feb 29 2020,Macclesfield,0-2,0-2,Salford
+Sat Feb 29 2020,Morecambe,1-1,0-0,Crewe
+Sat Feb 29 2020,Oldham,5-0,2-0,Newport County
+Sat Feb 29 2020,Port Vale,2-2,1-0,Scunthorpe
+Tue Mar 3 2020,Exeter,1-1,1-0,Crewe
+Tue Mar 3 2020,Plymouth,3-0,3-0,Grimsby
+Tue Mar 3 2020,Swindon,2-0,1-0,Scunthorpe
+Sat Mar 7 2020,Scunthorpe,0-2,0-0,Grimsby
+Sat Mar 7 2020,Carlisle,0-3,0-2,Colchester
+Sat Mar 7 2020,Cheltenham,0-0,0-0,Port Vale
+Sat Mar 7 2020,Crawley Town,3-0,1-0,Oldham
+Sat Mar 7 2020,Crewe,3-1,1-0,Stevenage
+Sat Mar 7 2020,Leyton Orient,2-1,2-0,Cambridge
+Sat Mar 7 2020,Newport County,1-0,0-0,Morecambe
+Sat Mar 7 2020,Northampton,1-2,0-1,Mansfield
+Sat Mar 7 2020,Plymouth,3-0,1-0,Macclesfield
+Sat Mar 7 2020,Salford,2-0,1-0,Bradford
+Sat Mar 7 2020,Swindon,0-2,0-1,Forest Green
+Sat Mar 7 2020,Walsall,3-1,1-0,Exeter
+Tue Mar 10 2020,Carlisle,2-0,2-0,Newport County

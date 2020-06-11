@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 5 2006,Bournemouth,0-3,0-0,Chesterfield
+Sat Aug 5 2006,Brentford,1-0,0-0,Blackpool
+Sat Aug 5 2006,Bristol City,1-0,0-0,Scunthorpe
+Sat Aug 5 2006,Carlisle,1-0,1-0,Doncaster
+Sat Aug 5 2006,Crewe,2-2,2-2,Northampton
+Sat Aug 5 2006,Gillingham,2-1,0-0,Huddersfield
+Sat Aug 5 2006,Millwall,1-1,0-1,Yeovil
+Sat Aug 5 2006,Nott'm Forest,1-0,1-0,Bradford
+Sat Aug 5 2006,Port Vale,3-0,1-0,Leyton Orient
+Sat Aug 5 2006,Rotherham,0-1,0-1,Brighton
+Sat Aug 5 2006,Swansea,1-2,0-0,Cheltenham
+Sat Aug 5 2006,Tranmere,1-0,1-0,Oldham
+Tue Aug 8 2006,Blackpool,0-2,0-1,Nott'm Forest
+Tue Aug 8 2006,Bradford,2-1,2-1,Bristol City
+Tue Aug 8 2006,Brighton,1-0,0-0,Gillingham
+Tue Aug 8 2006,Cheltenham,1-0,1-0,Tranmere
+Tue Aug 8 2006,Doncaster,3-1,1-1,Crewe
+Tue Aug 8 2006,Huddersfield,3-0,2-0,Rotherham
+Tue Aug 8 2006,Leyton Orient,2-0,1-0,Millwall
+Tue Aug 8 2006,Northampton,0-1,0-0,Brentford
+Tue Aug 8 2006,Oldham,0-1,0-0,Port Vale
+Tue Aug 8 2006,Scunthorpe,2-2,0-1,Swansea
+Tue Aug 8 2006,Yeovil,0-0,0-0,Bournemouth
+Wed Aug 9 2006,Chesterfield,0-0,0-0,Carlisle
+Sat Aug 12 2006,Blackpool,0-1,0-0,Rotherham
+Sat Aug 12 2006,Bradford,4-2,1-2,Gillingham
+Sat Aug 12 2006,Brighton,2-2,2-1,Brentford
+Sat Aug 12 2006,Cheltenham,0-1,0-0,Port Vale
+Sat Aug 12 2006,Chesterfield,5-1,3-0,Millwall
+Sat Aug 12 2006,Doncaster,0-0,0-0,Tranmere
+Sat Aug 12 2006,Huddersfield,2-1,0-0,Bristol City
+Sat Aug 12 2006,Leyton Orient,3-2,1-0,Bournemouth
+Sat Aug 12 2006,Northampton,0-1,0-0,Nott'm Forest
+Sat Aug 12 2006,Oldham,1-0,0-0,Swansea
+Sat Aug 12 2006,Scunthorpe,2-2,1-1,Crewe
+Sat Aug 12 2006,Yeovil,2-1,2-1,Carlisle
+Sat Aug 19 2006,Bournemouth,2-1,1-1,Cheltenham
+Sat Aug 19 2006,Brentford,2-2,0-0,Huddersfield
+Sat Aug 19 2006,Bristol City,2-4,1-1,Blackpool
+Sat Aug 19 2006,Carlisle,3-1,1-0,Leyton Orient
+Sat Aug 19 2006,Crewe,0-3,0-1,Bradford
+Sat Aug 19 2006,Gillingham,0-1,0-1,Northampton
+Sat Aug 19 2006,Millwall,1-0,0-0,Oldham
+Sat Aug 19 2006,Nott'm Forest,2-1,0-1,Brighton
+Sat Aug 19 2006,Port Vale,3-2,1-1,Chesterfield
+Sat Aug 19 2006,Rotherham,2-1,2-1,Scunthorpe
+Sat Aug 19 2006,Swansea,2-0,0-0,Doncaster
+Sat Aug 19 2006,Tranmere,2-1,1-1,Yeovil
+Sat Aug 26 2006,Blackpool,1-1,1-1,Gillingham
+Sat Aug 26 2006,Bradford,1-1,0-1,Rotherham
+Sat Aug 26 2006,Cheltenham,3-2,1-2,Millwall
+Sat Aug 26 2006,Chesterfield,0-2,0-1,Tranmere
+Sat Aug 26 2006,Doncaster,1-1,0-0,Bournemouth
+Sat Aug 26 2006,Huddersfield,1-1,0-1,Nott'm Forest
+Sat Aug 26 2006,Leyton Orient,0-1,0-0,Swansea
+Sat Aug 26 2006,Scunthorpe,1-1,0-1,Brentford
+Sat Aug 26 2006,Yeovil,1-0,1-0,Port Vale
+Sun Aug 27 2006,Brighton,1-4,1-2,Crewe
+Sun Aug 27 2006,Oldham,0-0,0-0,Carlisle
+Tue Aug 29 2006,Northampton,1-3,1-1,Bristol City
+Fri Sep 1 2006,Gillingham,0-2,0-2,Scunthorpe
+Fri Sep 1 2006,Rotherham,1-2,1-0,Northampton
+Fri Sep 1 2006,Swansea,1-1,0-0,Yeovil
+Sat Sep 2 2006,Bournemouth,3-2,2-0,Oldham
+Sat Sep 2 2006,Brentford,2-1,0-1,Bradford
+Sat Sep 2 2006,Bristol City,1-0,1-0,Brighton
+Sat Sep 2 2006,Crewe,2-0,1-0,Huddersfield
+Sat Sep 2 2006,Millwall,0-0,0-0,Blackpool
+Sat Sep 2 2006,Nott'm Forest,4-0,2-0,Chesterfield
+Sat Sep 2 2006,Tranmere,3-0,2-0,Leyton Orient
+Sun Sep 3 2006,Carlisle,2-0,2-0,Cheltenham
+Sun Sep 3 2006,Port Vale,1-2,1-0,Doncaster
+Fri Sep 8 2006,Tranmere,1-0,0-0,Bristol City
+Sat Sep 9 2006,Bournemouth,1-0,1-0,Crewe
+Sat Sep 9 2006,Carlisle,1-1,0-0,Northampton
+Sat Sep 9 2006,Cheltenham,2-1,1-0,Huddersfield
+Sat Sep 9 2006,Chesterfield,2-1,2-1,Rotherham
+Sat Sep 9 2006,Doncaster,1-2,0-2,Gillingham
+Sat Sep 9 2006,Leyton Orient,1-1,1-0,Brentford
+Sat Sep 9 2006,Millwall,0-1,0-0,Brighton
+Sat Sep 9 2006,Oldham,1-0,1-0,Scunthorpe
+Sat Sep 9 2006,Port Vale,2-1,1-0,Blackpool
+Sat Sep 9 2006,Swansea,1-0,0-0,Bradford
+Sat Sep 9 2006,Yeovil,0-1,0-0,Nott'm Forest
+Tue Sep 12 2006,Blackpool,1-1,1-0,Chesterfield
+Tue Sep 12 2006,Bradford,1-1,1-0,Carlisle
+Tue Sep 12 2006,Brentford,0-2,0-1,Swansea
+Tue Sep 12 2006,Brighton,2-2,0-1,Bournemouth
+Tue Sep 12 2006,Bristol City,2-1,2-0,Leyton Orient
+Tue Sep 12 2006,Crewe,3-1,1-1,Cheltenham
+Tue Sep 12 2006,Gillingham,2-1,1-0,Millwall
+Tue Sep 12 2006,Huddersfield,0-0,0-0,Doncaster
+Tue Sep 12 2006,Northampton,1-1,1-0,Yeovil
+Tue Sep 12 2006,Nott'm Forest,0-2,0-2,Oldham
+Tue Sep 12 2006,Rotherham,2-1,2-1,Tranmere
+Tue Sep 12 2006,Scunthorpe,3-0,2-0,Port Vale
+Sat Sep 16 2006,Blackpool,2-2,1-0,Oldham
+Sat Sep 16 2006,Bradford,2-0,0-0,Port Vale
+Sat Sep 16 2006,Brentford,0-0,0-0,Bournemouth
+Sat Sep 16 2006,Brighton,4-1,3-0,Leyton Orient
+Sat Sep 16 2006,Bristol City,3-1,2-1,Chesterfield
+Sat Sep 16 2006,Crewe,1-0,0-0,Millwall
+Sat Sep 16 2006,Gillingham,3-1,2-0,Swansea
+Sat Sep 16 2006,Huddersfield,2-3,1-1,Yeovil
+Sat Sep 16 2006,Northampton,1-3,0-2,Tranmere
+Sat Sep 16 2006,Nott'm Forest,0-0,0-0,Carlisle
+Sat Sep 16 2006,Rotherham,0-0,0-0,Doncaster
+Sat Sep 16 2006,Scunthorpe,1-0,0-0,Cheltenham
+Sat Sep 23 2006,Bournemouth,1-1,1-1,Scunthorpe
+Sat Sep 23 2006,Carlisle,3-1,2-0,Brighton
+Sat Sep 23 2006,Cheltenham,1-2,1-0,Bradford
+Sat Sep 23 2006,Chesterfield,3-1,3-1,Brentford
+Sat Sep 23 2006,Doncaster,0-0,0-0,Blackpool
+Sat Sep 23 2006,Leyton Orient,2-3,1-2,Rotherham
+Sat Sep 23 2006,Millwall,0-1,0-1,Northampton
+Sat Sep 23 2006,Oldham,4-1,2-0,Gillingham
+Sat Sep 23 2006,Port Vale,0-2,0-1,Bristol City
+Sat Sep 23 2006,Swansea,1-2,0-0,Huddersfield
+Sat Sep 23 2006,Tranmere,0-0,0-0,Nott'm Forest
+Sat Sep 23 2006,Yeovil,2-0,1-0,Crewe
+Tue Sep 26 2006,Bournemouth,0-1,0-0,Bristol City
+Tue Sep 26 2006,Carlisle,2-0,1-0,Blackpool
+Tue Sep 26 2006,Cheltenham,0-2,0-0,Northampton
+Tue Sep 26 2006,Doncaster,3-3,1-2,Bradford
+Tue Sep 26 2006,Leyton Orient,3-3,0-2,Gillingham
+Tue Sep 26 2006,Millwall,1-1,1-1,Brentford
+Tue Sep 26 2006,Oldham,2-1,0-0,Rotherham
+Tue Sep 26 2006,Port Vale,1-1,1-1,Nott'm Forest
+Tue Sep 26 2006,Swansea,2-1,1-1,Crewe
+Tue Sep 26 2006,Tranmere,2-2,2-0,Huddersfield
+Tue Sep 26 2006,Yeovil,2-0,1-0,Brighton
+Wed Sep 27 2006,Chesterfield,0-1,0-1,Scunthorpe
+Sat Sep 30 2006,Blackpool,3-0,1-0,Leyton Orient
+Sat Sep 30 2006,Bradford,2-0,0-0,Tranmere
+Sat Sep 30 2006,Brentford,1-2,0-0,Yeovil
+Sat Sep 30 2006,Brighton,1-2,0-1,Chesterfield
+Sat Sep 30 2006,Bristol City,0-0,0-0,Oldham
+Sat Sep 30 2006,Crewe,5-1,2-1,Carlisle
+Sat Sep 30 2006,Gillingham,2-1,2-1,Cheltenham
+Sat Sep 30 2006,Huddersfield,2-2,1-1,Bournemouth
+Sat Sep 30 2006,Northampton,0-2,0-2,Port Vale
+Sat Sep 30 2006,Nott'm Forest,3-1,0-1,Swansea
+Sat Sep 30 2006,Rotherham,2-3,2-1,Millwall
+Sat Sep 30 2006,Scunthorpe,2-0,0-0,Doncaster
+Fri Oct 6 2006,Bournemouth,0-0,0-0,Northampton
+Fri Oct 6 2006,Doncaster,1-1,1-1,Oldham
+Fri Oct 6 2006,Swansea,0-0,0-0,Tranmere
+Fri Oct 6 2006,Yeovil,0-1,0-0,Cheltenham
+Sat Oct 7 2006,Bradford,0-1,0-1,Huddersfield
+Sat Oct 7 2006,Brentford,1-1,0-1,Bristol City
+Sat Oct 7 2006,Carlisle,1-2,1-2,Millwall
+Sat Oct 7 2006,Crewe,4-3,1-3,Gillingham
+Sat Oct 7 2006,Leyton Orient,0-0,0-0,Chesterfield
+Sat Oct 7 2006,Nott'm Forest,0-4,0-2,Scunthorpe
+Sun Oct 8 2006,Brighton,0-3,0-1,Blackpool
+Sun Oct 8 2006,Port Vale,1-3,0-0,Rotherham
+Fri Oct 13 2006,Northampton,0-0,0-0,Bradford
+Fri Oct 13 2006,Tranmere,1-2,0-2,Port Vale
+Sat Oct 14 2006,Blackpool,1-1,0-0,Yeovil
+Sat Oct 14 2006,Bristol City,2-1,2-0,Crewe
+Sat Oct 14 2006,Cheltenham,0-2,0-1,Doncaster
+Sat Oct 14 2006,Chesterfield,2-3,0-2,Swansea
+Sat Oct 14 2006,Gillingham,0-1,0-0,Nott'm Forest
+Sat Oct 14 2006,Huddersfield,2-1,2-1,Carlisle
+Sat Oct 14 2006,Millwall,1-0,1-0,Bournemouth
+Sat Oct 14 2006,Oldham,3-3,0-1,Leyton Orient
+Sat Oct 14 2006,Rotherham,2-0,0-0,Brentford
+Sat Oct 14 2006,Scunthorpe,1-2,1-1,Brighton
+Sat Oct 21 2006,Bournemouth,1-3,1-3,Rotherham
+Sat Oct 21 2006,Bradford,0-1,0-0,Scunthorpe
+Sat Oct 21 2006,Brentford,2-2,2-1,Gillingham
+Sat Oct 21 2006,Brighton,1-1,1-0,Northampton
+Sat Oct 21 2006,Carlisle,1-0,1-0,Tranmere
+Sat Oct 21 2006,Crewe,1-2,0-1,Blackpool
+Sat Oct 21 2006,Doncaster,1-0,1-0,Chesterfield
+Sat Oct 21 2006,Leyton Orient,2-0,1-0,Cheltenham
+Sat Oct 21 2006,Nott'm Forest,1-0,1-0,Bristol City
+Sat Oct 21 2006,Port Vale,1-2,1-0,Huddersfield
+Sat Oct 21 2006,Yeovil,1-0,1-0,Oldham
+Sun Oct 22 2006,Swansea,2-0,1-0,Millwall
+Sat Oct 28 2006,Blackpool,4-1,2-0,Bradford
+Sat Oct 28 2006,Bristol City,1-0,1-0,Doncaster
+Sat Oct 28 2006,Cheltenham,0-2,0-2,Nott'm Forest
+Sat Oct 28 2006,Chesterfield,1-1,0-0,Yeovil
+Sat Oct 28 2006,Gillingham,2-0,1-0,Carlisle
+Sat Oct 28 2006,Huddersfield,0-3,0-2,Brighton
+Sat Oct 28 2006,Millwall,1-1,1-0,Port Vale
+Sat Oct 28 2006,Northampton,1-0,0-0,Swansea
+Sat Oct 28 2006,Oldham,3-0,1-0,Brentford
+Sat Oct 28 2006,Rotherham,5-1,3-1,Crewe
+Sat Oct 28 2006,Scunthorpe,3-1,2-1,Leyton Orient
+Sat Oct 28 2006,Tranmere,1-0,1-0,Bournemouth
+Fri Nov 3 2006,Swansea,4-2,1-0,Bournemouth
+Fri Nov 3 2006,Tranmere,3-1,2-1,Millwall
+Sat Nov 4 2006,Bradford,2-3,0-1,Brighton
+Sat Nov 4 2006,Carlisle,1-1,0-1,Rotherham
+Sat Nov 4 2006,Cheltenham,1-2,0-2,Oldham
+Sat Nov 4 2006,Crewe,2-1,1-1,Port Vale
+Sat Nov 4 2006,Doncaster,0-0,0-0,Leyton Orient
+Sat Nov 4 2006,Gillingham,2-1,0-1,Chesterfield
+Sat Nov 4 2006,Huddersfield,1-1,0-0,Scunthorpe
+Sat Nov 4 2006,Northampton,1-1,0-1,Blackpool
+Sat Nov 4 2006,Nott'm Forest,2-0,2-0,Brentford
+Sat Nov 4 2006,Yeovil,2-1,0-0,Bristol City
+Sat Nov 18 2006,Blackpool,3-1,2-1,Huddersfield
+Sat Nov 18 2006,Bournemouth,0-1,0-1,Carlisle
+Sat Nov 18 2006,Brentford,0-4,0-1,Crewe
+Sat Nov 18 2006,Brighton,0-1,0-1,Tranmere
+Sat Nov 18 2006,Bristol City,3-1,1-1,Gillingham
+Sat Nov 18 2006,Chesterfield,1-0,0-0,Cheltenham
+Sat Nov 18 2006,Leyton Orient,0-0,0-0,Yeovil
+Sat Nov 18 2006,Millwall,2-2,1-1,Doncaster
+Sat Nov 18 2006,Oldham,2-0,0-0,Bradford
+Sat Nov 18 2006,Port Vale,0-2,0-0,Swansea
+Sat Nov 18 2006,Rotherham,1-1,0-0,Nott'm Forest
+Sat Nov 18 2006,Scunthorpe,1-0,0-0,Northampton
+Fri Nov 24 2006,Cheltenham,2-0,1-0,Brentford
+Fri Nov 24 2006,Tranmere,2-0,1-0,Blackpool
+Sat Nov 25 2006,Bradford,0-0,0-0,Bournemouth
+Sat Nov 25 2006,Carlisle,3-2,0-2,Port Vale
+Sat Nov 25 2006,Crewe,2-2,0-0,Chesterfield
+Sat Nov 25 2006,Doncaster,1-0,1-0,Brighton
+Sat Nov 25 2006,Gillingham,1-0,1-0,Rotherham
+Sat Nov 25 2006,Huddersfield,0-3,0-1,Oldham
+Sat Nov 25 2006,Nott'm Forest,3-1,0-1,Millwall
+Sat Nov 25 2006,Yeovil,0-2,0-1,Scunthorpe
+Sun Nov 26 2006,Swansea,0-0,0-0,Bristol City
+Sat Dec 2 2006,Rotherham,3-2,3-2,Yeovil
+Tue Dec 5 2006,Blackpool,2-1,1-1,Cheltenham
+Tue Dec 5 2006,Bournemouth,2-0,0-0,Nott'm Forest
+Tue Dec 5 2006,Brentford,0-4,0-1,Doncaster
+Tue Dec 5 2006,Brighton,3-2,1-0,Swansea
+Tue Dec 5 2006,Bristol City,1-0,0-0,Carlisle
+Tue Dec 5 2006,Leyton Orient,1-2,1-2,Bradford
+Tue Dec 5 2006,Millwall,0-0,0-0,Huddersfield
+Tue Dec 5 2006,Oldham,1-0,1-0,Crewe
+Tue Dec 5 2006,Port Vale,2-0,1-0,Gillingham
+Tue Dec 5 2006,Scunthorpe,1-1,1-0,Tranmere
+Wed Dec 6 2006,Chesterfield,0-0,0-0,Northampton
+Sat Dec 9 2006,Blackpool,1-1,0-1,Swansea
+Sat Dec 9 2006,Bournemouth,0-4,0-2,Port Vale
+Sat Dec 9 2006,Brentford,1-1,1-1,Tranmere
+Sat Dec 9 2006,Brighton,2-1,0-0,Cheltenham
+Sat Dec 9 2006,Carlisle,0-2,0-0,Scunthorpe
+Sat Dec 9 2006,Chesterfield,2-1,2-1,Oldham
+Sat Dec 9 2006,Crewe,1-4,1-4,Nott'm Forest
+Sat Dec 9 2006,Leyton Orient,1-0,1-0,Huddersfield
+Sat Dec 9 2006,Millwall,2-0,2-0,Bradford
+Sat Dec 9 2006,Northampton,0-2,0-0,Doncaster
+Sat Dec 9 2006,Rotherham,1-1,0-0,Bristol City
+Sat Dec 9 2006,Yeovil,2-0,1-0,Gillingham
+Fri Dec 15 2006,Scunthorpe,1-3,0-1,Blackpool
+Sat Dec 16 2006,Bradford,1-0,0-0,Chesterfield
+Sat Dec 16 2006,Bristol City,1-0,1-0,Millwall
+Sat Dec 16 2006,Cheltenham,2-0,0-0,Rotherham
+Sat Dec 16 2006,Gillingham,1-1,0-1,Bournemouth
+Sat Dec 16 2006,Huddersfield,1-1,0-1,Northampton
+Sat Dec 16 2006,Nott'm Forest,1-3,0-2,Leyton Orient
+Sat Dec 16 2006,Oldham,1-1,1-0,Brighton
+Sat Dec 16 2006,Port Vale,1-0,0-0,Brentford
+Sat Dec 16 2006,Swansea,5-0,3-0,Carlisle
+Tue Dec 19 2006,Northampton,0-1,0-0,Leyton Orient
+Fri Dec 22 2006,Millwall,0-1,0-0,Scunthorpe
+Sat Dec 23 2006,Bournemouth,1-3,0-0,Blackpool
+Sat Dec 23 2006,Carlisle,2-0,0-0,Brentford
+Sat Dec 23 2006,Cheltenham,2-2,2-0,Bristol City
+Sat Dec 23 2006,Chesterfield,0-0,0-0,Huddersfield
+Sat Dec 23 2006,Doncaster,1-0,0-0,Nott'm Forest
+Sat Dec 23 2006,Leyton Orient,1-1,0-1,Crewe
+Sat Dec 23 2006,Oldham,3-0,2-0,Northampton
+Sat Dec 23 2006,Port Vale,2-1,2-0,Brighton
+Sat Dec 23 2006,Swansea,1-1,0-0,Rotherham
+Sat Dec 23 2006,Tranmere,2-3,2-3,Gillingham
+Sat Dec 23 2006,Yeovil,0-0,0-0,Bradford
+Tue Dec 26 2006,Blackpool,2-1,2-0,Carlisle
+Tue Dec 26 2006,Bradford,0-1,0-1,Doncaster
+Tue Dec 26 2006,Brentford,1-4,0-1,Millwall
+Tue Dec 26 2006,Brighton,1-3,0-1,Yeovil
+Tue Dec 26 2006,Bristol City,2-2,0-1,Bournemouth
+Tue Dec 26 2006,Crewe,1-3,0-2,Swansea
+Tue Dec 26 2006,Gillingham,2-1,0-1,Leyton Orient
+Tue Dec 26 2006,Huddersfield,2-2,1-1,Tranmere
+Tue Dec 26 2006,Northampton,2-0,1-0,Cheltenham
+Tue Dec 26 2006,Nott'm Forest,3-0,1-0,Port Vale
+Tue Dec 26 2006,Rotherham,2-3,0-2,Oldham
+Tue Dec 26 2006,Scunthorpe,1-0,0-0,Chesterfield
+Sat Dec 30 2006,Blackpool,3-1,0-0,Doncaster
+Sat Dec 30 2006,Bradford,2-2,1-0,Cheltenham
+Sat Dec 30 2006,Brentford,2-1,1-0,Chesterfield
+Sat Dec 30 2006,Brighton,1-2,1-0,Carlisle
+Sat Dec 30 2006,Bristol City,2-1,0-0,Port Vale
+Sat Dec 30 2006,Crewe,2-3,0-2,Yeovil
+Sat Dec 30 2006,Gillingham,0-3,0-2,Oldham
+Sat Dec 30 2006,Huddersfield,3-2,0-2,Swansea
+Sat Dec 30 2006,Nott'm Forest,1-1,0-0,Tranmere
+Sat Dec 30 2006,Rotherham,2-2,0-1,Leyton Orient
+Sat Dec 30 2006,Scunthorpe,3-2,3-0,Bournemouth
+Mon Jan 1 2007,Bournemouth,1-0,0-0,Brighton
+Mon Jan 1 2007,Carlisle,1-0,1-0,Bradford
+Mon Jan 1 2007,Chesterfield,2-0,2-0,Blackpool
+Mon Jan 1 2007,Doncaster,3-0,1-0,Huddersfield
+Mon Jan 1 2007,Leyton Orient,1-1,0-0,Bristol City
+Mon Jan 1 2007,Millwall,4-1,1-1,Gillingham
+Mon Jan 1 2007,Oldham,5-0,3-0,Nott'm Forest
+Mon Jan 1 2007,Port Vale,0-0,0-0,Scunthorpe
+Mon Jan 1 2007,Swansea,2-0,2-0,Brentford
+Mon Jan 1 2007,Tranmere,2-1,2-0,Rotherham
+Mon Jan 1 2007,Yeovil,0-0,0-0,Northampton
+Tue Jan 2 2007,Cheltenham,1-1,1-1,Crewe
+Fri Jan 5 2007,Yeovil,3-1,3-0,Huddersfield
+Sat Jan 6 2007,Bournemouth,1-0,1-0,Brentford
+Sat Jan 6 2007,Port Vale,0-1,0-0,Bradford
+Sat Jan 6 2007,Tranmere,1-1,0-1,Northampton
+Sat Jan 13 2007,Blackpool,2-1,0-0,Port Vale
+Sat Jan 13 2007,Bradford,2-2,1-1,Swansea
+Sat Jan 13 2007,Brentford,2-2,0-1,Leyton Orient
+Sat Jan 13 2007,Brighton,0-1,0-1,Millwall
+Sat Jan 13 2007,Bristol City,3-2,0-2,Tranmere
+Sat Jan 13 2007,Crewe,2-0,1-0,Bournemouth
+Sat Jan 13 2007,Gillingham,0-2,0-0,Doncaster
+Sat Jan 13 2007,Huddersfield,2-0,2-0,Cheltenham
+Sat Jan 13 2007,Northampton,3-2,1-0,Carlisle
+Sat Jan 13 2007,Nott'm Forest,1-0,0-0,Yeovil
+Sat Jan 13 2007,Rotherham,0-1,0-1,Chesterfield
+Sat Jan 13 2007,Scunthorpe,1-1,0-0,Oldham
+Tue Jan 16 2007,Cheltenham,1-1,1-0,Scunthorpe
+Tue Jan 16 2007,Tranmere,1-0,1-0,Crewe
+Fri Jan 19 2007,Tranmere,1-1,1-1,Bradford
+Sat Jan 20 2007,Bournemouth,1-2,1-1,Huddersfield
+Sat Jan 20 2007,Carlisle,0-2,0-0,Crewe
+Sat Jan 20 2007,Cheltenham,1-1,1-1,Gillingham
+Sat Jan 20 2007,Chesterfield,0-1,0-0,Brighton
+Sat Jan 20 2007,Doncaster,2-2,0-2,Scunthorpe
+Sat Jan 20 2007,Leyton Orient,0-1,0-0,Blackpool
+Sat Jan 20 2007,Millwall,4-0,3-0,Rotherham
+Sat Jan 20 2007,Oldham,0-3,0-2,Bristol City
+Sat Jan 20 2007,Swansea,0-0,0-0,Nott'm Forest
+Sat Jan 20 2007,Yeovil,1-0,0-0,Brentford
+Tue Jan 23 2007,Northampton,3-0,0-0,Millwall
+Tue Jan 23 2007,Swansea,2-0,1-0,Gillingham
+Fri Jan 26 2007,Gillingham,2-0,2-0,Tranmere
+Sat Jan 27 2007,Bradford,0-2,0-1,Yeovil
+Sat Jan 27 2007,Brentford,0-0,0-0,Carlisle
+Sat Jan 27 2007,Brighton,0-0,0-0,Port Vale
+Sat Jan 27 2007,Crewe,0-4,0-1,Leyton Orient
+Sat Jan 27 2007,Doncaster,3-2,1-1,Rotherham
+Sat Jan 27 2007,Huddersfield,1-1,0-1,Chesterfield
+Sat Jan 27 2007,Scunthorpe,3-0,0-0,Millwall
+Sun Jan 28 2007,Northampton,2-3,1-2,Oldham
+Wed Jan 31 2007,Bristol City,0-1,0-1,Cheltenham
+Wed Jan 31 2007,Carlisle,1-0,1-0,Nott'm Forest
+Sat Feb 3 2007,Blackpool,1-3,0-3,Brentford
+Sat Feb 3 2007,Bradford,2-2,1-2,Nott'm Forest
+Sat Feb 3 2007,Brighton,0-0,0-0,Rotherham
+Sat Feb 3 2007,Cheltenham,2-1,1-1,Swansea
+Sat Feb 3 2007,Chesterfield,0-1,0-0,Bournemouth
+Sat Feb 3 2007,Doncaster,1-2,1-0,Carlisle
+Sat Feb 3 2007,Huddersfield,3-1,2-0,Gillingham
+Sat Feb 3 2007,Leyton Orient,2-1,0-1,Port Vale
+Sat Feb 3 2007,Northampton,1-2,0-1,Crewe
+Sat Feb 3 2007,Oldham,1-0,0-0,Tranmere
+Sat Feb 3 2007,Yeovil,0-1,0-1,Millwall
+Mon Feb 5 2007,Scunthorpe,1-0,1-0,Bristol City
+Tue Feb 6 2007,Port Vale,1-0,0-0,Northampton
+Sat Feb 10 2007,Bournemouth,5-0,2-0,Leyton Orient
+Sat Feb 10 2007,Brentford,1-0,1-0,Brighton
+Sat Feb 10 2007,Bristol City,1-1,0-0,Huddersfield
+Sat Feb 10 2007,Carlisle,1-4,1-0,Yeovil
+Sat Feb 10 2007,Gillingham,1-0,1-0,Bradford
+Sat Feb 10 2007,Millwall,2-1,1-0,Chesterfield
+Sat Feb 10 2007,Nott'm Forest,1-0,0-0,Northampton
+Sat Feb 10 2007,Swansea,0-1,0-1,Oldham
+Sat Feb 10 2007,Tranmere,1-0,1-0,Doncaster
+Tue Feb 13 2007,Leyton Orient,1-4,0-1,Brighton
+Fri Feb 16 2007,Northampton,1-1,0-0,Gillingham
+Sat Feb 17 2007,Blackpool,0-1,0-0,Bristol City
+Sat Feb 17 2007,Bradford,0-1,0-0,Crewe
+Sat Feb 17 2007,Brighton,2-1,0-0,Nott'm Forest
+Sat Feb 17 2007,Cheltenham,1-0,0-0,Bournemouth
+Sat Feb 17 2007,Chesterfield,3-0,1-0,Port Vale
+Sat Feb 17 2007,Doncaster,2-2,1-2,Swansea
+Sat Feb 17 2007,Huddersfield,0-2,0-0,Brentford
+Sat Feb 17 2007,Leyton Orient,1-1,0-1,Carlisle
+Sat Feb 17 2007,Oldham,1-2,0-0,Millwall
+Sat Feb 17 2007,Scunthorpe,1-0,1-0,Rotherham
+Sat Feb 17 2007,Yeovil,0-2,0-0,Tranmere
+Mon Feb 19 2007,Brentford,0-1,0-1,Northampton
+Tue Feb 20 2007,Bournemouth,0-2,0-1,Yeovil
+Tue Feb 20 2007,Carlisle,0-0,0-0,Chesterfield
+Tue Feb 20 2007,Crewe,2-1,0-0,Doncaster
+Tue Feb 20 2007,Gillingham,0-1,0-1,Brighton
+Tue Feb 20 2007,Millwall,2-5,0-3,Leyton Orient
+Tue Feb 20 2007,Nott'm Forest,1-1,1-0,Blackpool
+Tue Feb 20 2007,Port Vale,3-0,1-0,Oldham
+Tue Feb 20 2007,Rotherham,2-3,1-1,Huddersfield
+Tue Feb 20 2007,Swansea,0-2,0-1,Scunthorpe
+Tue Feb 20 2007,Tranmere,2-2,0-2,Cheltenham
+Sat Feb 24 2007,Blackpool,0-1,0-1,Millwall
+Sat Feb 24 2007,Bradford,1-1,0-0,Brentford
+Sat Feb 24 2007,Brighton,0-2,0-1,Bristol City
+Sat Feb 24 2007,Cheltenham,0-1,0-1,Carlisle
+Sat Feb 24 2007,Chesterfield,1-2,0-0,Nott'm Forest
+Sat Feb 24 2007,Doncaster,1-0,0-0,Port Vale
+Sat Feb 24 2007,Huddersfield,1-2,1-1,Crewe
+Sat Feb 24 2007,Leyton Orient,3-1,3-1,Tranmere
+Sat Feb 24 2007,Northampton,3-0,3-0,Rotherham
+Sat Feb 24 2007,Oldham,1-2,1-2,Bournemouth
+Sat Feb 24 2007,Scunthorpe,3-1,1-0,Gillingham
+Sat Feb 24 2007,Yeovil,1-0,0-0,Swansea
+Tue Feb 27 2007,Crewe,1-3,1-2,Scunthorpe
+Tue Feb 27 2007,Doncaster,0-0,0-0,Yeovil
+Tue Feb 27 2007,Oldham,0-1,0-0,Blackpool
+Tue Feb 27 2007,Rotherham,1-2,0-1,Swansea
+Fri Mar 2 2007,Tranmere,2-0,1-0,Chesterfield
+Sat Mar 3 2007,Bournemouth,2-0,1-0,Doncaster
+Sat Mar 3 2007,Brentford,0-2,0-1,Scunthorpe
+Sat Mar 3 2007,Bristol City,1-0,1-0,Northampton
+Sat Mar 3 2007,Carlisle,1-1,0-1,Oldham
+Sat Mar 3 2007,Crewe,1-1,1-1,Brighton
+Sat Mar 3 2007,Gillingham,2-2,2-1,Blackpool
+Sat Mar 3 2007,Millwall,2-0,2-0,Cheltenham
+Sat Mar 3 2007,Nott'm Forest,5-1,4-0,Huddersfield
+Sat Mar 3 2007,Port Vale,4-2,2-2,Yeovil
+Sat Mar 3 2007,Rotherham,4-1,1-0,Bradford
+Sat Mar 3 2007,Swansea,0-0,0-0,Leyton Orient
+Tue Mar 6 2007,Blackpool,2-0,1-0,Bournemouth
+Tue Mar 6 2007,Nott'm Forest,0-1,0-1,Doncaster
+Tue Mar 6 2007,Port Vale,1-1,1-0,Cheltenham
+Wed Mar 7 2007,Chesterfield,1-3,0-3,Bristol City
+Sat Mar 10 2007,Blackpool,0-0,0-0,Brighton
+Sat Mar 10 2007,Bristol City,1-0,1-0,Brentford
+Sat Mar 10 2007,Cheltenham,1-2,0-1,Yeovil
+Sat Mar 10 2007,Chesterfield,0-1,0-0,Leyton Orient
+Sat Mar 10 2007,Gillingham,1-0,0-0,Crewe
+Sat Mar 10 2007,Huddersfield,2-0,1-0,Bradford
+Sat Mar 10 2007,Millwall,2-0,0-0,Carlisle
+Sat Mar 10 2007,Northampton,3-1,1-0,Bournemouth
+Sat Mar 10 2007,Rotherham,1-5,0-4,Port Vale
+Sat Mar 10 2007,Scunthorpe,1-1,0-1,Nott'm Forest
+Sat Mar 10 2007,Tranmere,0-2,0-1,Swansea
+Sun Mar 11 2007,Oldham,4-0,1-0,Doncaster
+Tue Mar 13 2007,Bristol City,2-3,1-1,Bradford
+Tue Mar 13 2007,Millwall,2-2,1-1,Crewe
+Fri Mar 16 2007,Swansea,2-0,0-0,Chesterfield
+Sat Mar 17 2007,Bournemouth,1-0,1-0,Millwall
+Sat Mar 17 2007,Bradford,1-2,0-0,Northampton
+Sat Mar 17 2007,Brentford,0-1,0-1,Rotherham
+Sat Mar 17 2007,Brighton,1-1,0-0,Scunthorpe
+Sat Mar 17 2007,Carlisle,1-1,1-1,Huddersfield
+Sat Mar 17 2007,Crewe,0-1,0-0,Bristol City
+Sat Mar 17 2007,Doncaster,0-2,0-1,Cheltenham
+Sat Mar 17 2007,Leyton Orient,2-2,1-0,Oldham
+Sat Mar 17 2007,Nott'm Forest,1-0,0-0,Gillingham
+Sat Mar 17 2007,Port Vale,2-3,1-2,Tranmere
+Sat Mar 17 2007,Yeovil,0-1,0-0,Blackpool
+Wed Mar 21 2007,Chesterfield,1-1,1-1,Doncaster
+Sat Mar 24 2007,Bournemouth,2-0,1-0,Tranmere
+Sat Mar 24 2007,Bradford,1-3,0-1,Blackpool
+Sat Mar 24 2007,Brighton,0-0,0-0,Huddersfield
+Sat Mar 24 2007,Carlisle,5-0,1-0,Gillingham
+Sat Mar 24 2007,Crewe,1-0,1-0,Rotherham
+Sat Mar 24 2007,Doncaster,0-1,0-0,Bristol City
+Sat Mar 24 2007,Leyton Orient,2-2,1-0,Scunthorpe
+Sat Mar 24 2007,Nott'm Forest,3-0,1-0,Cheltenham
+Sat Mar 24 2007,Port Vale,2-0,1-0,Millwall
+Sat Mar 24 2007,Swansea,2-1,1-1,Northampton
+Sat Mar 24 2007,Yeovil,1-0,0-0,Chesterfield
+Sun Mar 25 2007,Brentford,2-2,0-0,Oldham
+Tue Mar 27 2007,Rotherham,1-0,0-0,Blackpool
+Fri Mar 30 2007,Tranmere,0-2,0-1,Carlisle
+Sat Mar 31 2007,Blackpool,2-1,1-0,Crewe
+Sat Mar 31 2007,Bristol City,1-1,1-1,Nott'm Forest
+Sat Mar 31 2007,Cheltenham,2-1,1-0,Leyton Orient
+Sat Mar 31 2007,Gillingham,2-1,1-1,Brentford
+Sat Mar 31 2007,Huddersfield,2-2,1-1,Port Vale
+Sat Mar 31 2007,Millwall,2-0,1-0,Swansea
+Sat Mar 31 2007,Northampton,0-2,0-0,Brighton
+Sat Mar 31 2007,Oldham,1-0,1-0,Yeovil
+Sat Mar 31 2007,Rotherham,0-2,0-2,Bournemouth
+Sat Mar 31 2007,Scunthorpe,2-0,0-0,Bradford
+Fri Apr 6 2007,Scunthorpe,1-0,1-0,Yeovil
+Sat Apr 7 2007,Blackpool,3-2,2-1,Tranmere
+Sat Apr 7 2007,Bournemouth,1-1,0-0,Bradford
+Sat Apr 7 2007,Brentford,0-2,0-1,Cheltenham
+Sat Apr 7 2007,Brighton,0-2,0-1,Doncaster
+Sat Apr 7 2007,Bristol City,0-0,0-0,Swansea
+Sat Apr 7 2007,Chesterfield,2-1,1-1,Crewe
+Sat Apr 7 2007,Leyton Orient,0-2,0-2,Northampton
+Sat Apr 7 2007,Millwall,1-0,0-0,Nott'm Forest
+Sat Apr 7 2007,Oldham,1-1,1-0,Huddersfield
+Sat Apr 7 2007,Port Vale,0-2,0-1,Carlisle
+Sat Apr 7 2007,Rotherham,3-2,1-2,Gillingham
+Mon Apr 9 2007,Bradford,1-1,0-0,Oldham
+Mon Apr 9 2007,Carlisle,3-1,2-0,Bournemouth
+Mon Apr 9 2007,Cheltenham,0-0,0-0,Chesterfield
+Mon Apr 9 2007,Crewe,3-1,2-0,Brentford
+Mon Apr 9 2007,Doncaster,1-2,1-1,Millwall
+Mon Apr 9 2007,Gillingham,1-0,0-0,Bristol City
+Mon Apr 9 2007,Huddersfield,0-2,0-1,Blackpool
+Mon Apr 9 2007,Northampton,2-1,1-0,Scunthorpe
+Mon Apr 9 2007,Nott'm Forest,1-1,1-1,Rotherham
+Mon Apr 9 2007,Swansea,3-0,2-0,Port Vale
+Mon Apr 9 2007,Tranmere,2-1,0-1,Brighton
+Mon Apr 9 2007,Yeovil,2-1,0-1,Leyton Orient
+Sat Apr 14 2007,Blackpool,4-1,0-1,Northampton
+Sat Apr 14 2007,Bournemouth,2-2,1-0,Swansea
+Sat Apr 14 2007,Brentford,2-4,1-0,Nott'm Forest
+Sat Apr 14 2007,Brighton,0-1,0-1,Bradford
+Sat Apr 14 2007,Bristol City,2-0,1-0,Yeovil
+Sat Apr 14 2007,Chesterfield,0-1,0-0,Gillingham
+Sat Apr 14 2007,Leyton Orient,1-1,1-0,Doncaster
+Sat Apr 14 2007,Millwall,2-2,0-1,Tranmere
+Sat Apr 14 2007,Oldham,0-2,0-2,Cheltenham
+Sat Apr 14 2007,Port Vale,3-0,1-0,Crewe
+Sat Apr 14 2007,Rotherham,0-1,0-0,Carlisle
+Sat Apr 14 2007,Scunthorpe,2-0,0-0,Huddersfield
+Sat Apr 21 2007,Bradford,0-2,0-0,Leyton Orient
+Sat Apr 21 2007,Carlisle,1-3,1-1,Bristol City
+Sat Apr 21 2007,Cheltenham,1-2,0-1,Blackpool
+Sat Apr 21 2007,Crewe,2-1,1-0,Oldham
+Sat Apr 21 2007,Doncaster,3-0,1-0,Brentford
+Sat Apr 21 2007,Gillingham,3-2,1-0,Port Vale
+Sat Apr 21 2007,Huddersfield,4-2,1-1,Millwall
+Sat Apr 21 2007,Northampton,1-0,0-0,Chesterfield
+Sat Apr 21 2007,Nott'm Forest,3-0,1-0,Bournemouth
+Sat Apr 21 2007,Swansea,2-1,2-1,Brighton
+Sat Apr 21 2007,Tranmere,0-2,0-0,Scunthorpe
+Sat Apr 21 2007,Yeovil,1-0,1-0,Rotherham
+Fri Apr 27 2007,Northampton,1-1,0-0,Huddersfield
+Sat Apr 28 2007,Blackpool,3-1,2-1,Scunthorpe
+Sat Apr 28 2007,Bournemouth,1-1,1-1,Gillingham
+Sat Apr 28 2007,Brentford,4-3,2-0,Port Vale
+Sat Apr 28 2007,Brighton,1-2,0-2,Oldham
+Sat Apr 28 2007,Carlisle,1-2,0-1,Swansea
+Sat Apr 28 2007,Chesterfield,3-0,2-0,Bradford
+Sat Apr 28 2007,Crewe,1-1,0-0,Tranmere
+Sat Apr 28 2007,Leyton Orient,1-3,1-2,Nott'm Forest
+Sat Apr 28 2007,Millwall,1-0,0-0,Bristol City
+Sat Apr 28 2007,Rotherham,2-4,2-1,Cheltenham
+Sat Apr 28 2007,Yeovil,1-0,0-0,Doncaster
+Sat May 5 2007,Bradford,2-2,1-0,Millwall
+Sat May 5 2007,Bristol City,3-1,2-0,Rotherham
+Sat May 5 2007,Cheltenham,1-1,0-1,Brighton
+Sat May 5 2007,Doncaster,2-2,1-1,Northampton
+Sat May 5 2007,Gillingham,0-2,0-0,Yeovil
+Sat May 5 2007,Huddersfield,3-1,3-0,Leyton Orient
+Sat May 5 2007,Nott'm Forest,0-0,0-0,Crewe
+Sat May 5 2007,Oldham,1-0,0-0,Chesterfield
+Sat May 5 2007,Port Vale,2-1,0-0,Bournemouth
+Sat May 5 2007,Scunthorpe,3-0,1-0,Carlisle
+Sat May 5 2007,Swansea,3-6,1-2,Blackpool
+Sat May 5 2007,Tranmere,3-1,3-1,Brentford

@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 10 2002,Burnley,1-3,0-1,Brighton
+Sat Aug 10 2002,Coventry,2-1,2-1,Sheffield United
+Sat Aug 10 2002,Derby,3-0,0-0,Reading
+Sat Aug 10 2002,Leicester,2-0,0-0,Watford
+Sat Aug 10 2002,Millwall,0-6,0-2,Rotherham
+Sat Aug 10 2002,Norwich,4-0,2-0,Grimsby
+Sat Aug 10 2002,Portsmouth,2-0,2-0,Nott'm Forest
+Sat Aug 10 2002,Preston,1-2,0-0,Crystal Palace
+Sat Aug 10 2002,Sheffield Weds,0-0,0-0,Stoke
+Sat Aug 10 2002,Walsall,0-2,0-1,Ipswich
+Sat Aug 10 2002,Wimbledon,0-1,0-0,Gillingham
+Sun Aug 11 2002,Bradford,0-0,0-0,Wolves
+Tue Aug 13 2002,Brighton,0-0,0-0,Coventry
+Tue Aug 13 2002,Crystal Palace,1-1,0-0,Bradford
+Tue Aug 13 2002,Gillingham,1-0,1-0,Derby
+Tue Aug 13 2002,Grimsby,0-0,0-0,Wimbledon
+Tue Aug 13 2002,Reading,2-1,0-1,Sheffield Weds
+Tue Aug 13 2002,Rotherham,1-1,0-0,Norwich
+Tue Aug 13 2002,Sheffield United,1-1,1-1,Portsmouth
+Tue Aug 13 2002,Watford,0-0,0-0,Millwall
+Wed Aug 14 2002,Nott'm Forest,2-2,0-1,Preston
+Wed Aug 14 2002,Stoke,0-1,0-1,Leicester
+Wed Aug 14 2002,Wolves,3-1,1-0,Walsall
+Sat Aug 17 2002,Brighton,0-2,0-0,Norwich
+Sat Aug 17 2002,Crystal Palace,2-3,2-0,Portsmouth
+Sat Aug 17 2002,Gillingham,1-0,0-0,Millwall
+Sat Aug 17 2002,Grimsby,1-2,1-1,Derby
+Sat Aug 17 2002,Nott'm Forest,4-0,1-0,Sheffield Weds
+Sat Aug 17 2002,Reading,1-2,1-0,Coventry
+Sat Aug 17 2002,Rotherham,0-0,0-0,Preston
+Sat Aug 17 2002,Sheffield United,1-1,1-1,Walsall
+Sat Aug 17 2002,Stoke,2-1,2-0,Bradford
+Sat Aug 17 2002,Watford,3-2,2-1,Wimbledon
+Sat Aug 17 2002,Wolves,3-0,1-0,Burnley
+Sun Aug 18 2002,Ipswich,6-1,1-1,Leicester
+Sat Aug 24 2002,Bradford,0-0,0-0,Grimsby
+Sat Aug 24 2002,Burnley,0-1,0-1,Sheffield United
+Sat Aug 24 2002,Coventry,1-0,1-0,Crystal Palace
+Sat Aug 24 2002,Derby,1-4,1-1,Wolves
+Sat Aug 24 2002,Leicester,2-1,2-1,Reading
+Sat Aug 24 2002,Millwall,1-1,1-0,Ipswich
+Sat Aug 24 2002,Norwich,1-0,1-0,Gillingham
+Sat Aug 24 2002,Portsmouth,3-0,2-0,Watford
+Sat Aug 24 2002,Preston,4-3,2-1,Stoke
+Sat Aug 24 2002,Sheffield Weds,1-2,1-1,Rotherham
+Sat Aug 24 2002,Walsall,2-1,1-0,Nott'm Forest
+Sat Aug 24 2002,Wimbledon,1-0,0-0,Brighton
+Mon Aug 26 2002,Brighton,0-2,0-2,Walsall
+Mon Aug 26 2002,Gillingham,1-1,0-0,Preston
+Mon Aug 26 2002,Grimsby,0-1,0-0,Portsmouth
+Mon Aug 26 2002,Ipswich,1-2,1-1,Bradford
+Mon Aug 26 2002,Rotherham,2-1,0-0,Derby
+Mon Aug 26 2002,Stoke,1-1,0-0,Norwich
+Mon Aug 26 2002,Watford,5-2,3-0,Coventry
+Tue Aug 27 2002,Crystal Palace,0-0,0-0,Leicester
+Tue Aug 27 2002,Reading,3-0,0-0,Burnley
+Tue Aug 27 2002,Sheffield United,3-1,0-0,Millwall
+Tue Aug 27 2002,Wolves,2-2,0-1,Sheffield Weds
+Wed Aug 28 2002,Nott'm Forest,2-0,2-0,Wimbledon
+Sat Aug 31 2002,Bradford,4-2,1-0,Rotherham
+Sat Aug 31 2002,Burnley,0-0,0-0,Crystal Palace
+Sat Aug 31 2002,Coventry,0-1,0-1,Nott'm Forest
+Sat Aug 31 2002,Derby,2-0,0-0,Stoke
+Sat Aug 31 2002,Leicester,2-0,2-0,Gillingham
+Sat Aug 31 2002,Millwall,2-0,1-0,Grimsby
+Sat Aug 31 2002,Norwich,4-0,1-0,Watford
+Sat Aug 31 2002,Portsmouth,4-2,3-2,Brighton
+Sat Aug 31 2002,Walsall,0-2,0-0,Reading
+Sat Aug 31 2002,Wimbledon,3-2,1-1,Wolves
+Sun Sep 1 2002,Preston,0-0,0-0,Ipswich
+Sun Sep 1 2002,Sheffield Weds,2-0,0-0,Sheffield United
+Sat Sep 7 2002,Derby,1-2,1-0,Burnley
+Sat Sep 7 2002,Gillingham,1-3,0-2,Portsmouth
+Sat Sep 7 2002,Millwall,1-0,0-0,Brighton
+Sat Sep 7 2002,Norwich,2-3,0-3,Sheffield United
+Sat Sep 7 2002,Rotherham,0-0,0-0,Reading
+Sat Sep 7 2002,Watford,2-0,0-0,Walsall
+Sat Sep 7 2002,Wimbledon,2-3,2-2,Leicester
+Sat Sep 14 2002,Brighton,2-4,1-3,Gillingham
+Sat Sep 14 2002,Burnley,2-1,0-0,Stoke
+Sat Sep 14 2002,Coventry,3-2,0-0,Grimsby
+Sat Sep 14 2002,Crystal Palace,4-2,2-1,Wolves
+Sat Sep 14 2002,Leicester,3-1,1-1,Derby
+Sat Sep 14 2002,Nott'm Forest,0-1,0-1,Watford
+Sat Sep 14 2002,Portsmouth,1-0,0-0,Millwall
+Sat Sep 14 2002,Preston,2-2,1-1,Sheffield Weds
+Sat Sep 14 2002,Reading,0-1,0-0,Wimbledon
+Sat Sep 14 2002,Sheffield United,1-0,0-0,Rotherham
+Sat Sep 14 2002,Walsall,0-1,0-0,Bradford
+Sun Sep 15 2002,Ipswich,1-1,0-0,Norwich
+Tue Sep 17 2002,Brighton,1-2,0-1,Stoke
+Tue Sep 17 2002,Burnley,2-2,1-1,Millwall
+Tue Sep 17 2002,Crystal Palace,0-1,0-0,Derby
+Tue Sep 17 2002,Leicester,4-0,2-0,Bradford
+Tue Sep 17 2002,Portsmouth,4-1,3-1,Wimbledon
+Tue Sep 17 2002,Preston,1-1,0-1,Watford
+Tue Sep 17 2002,Sheffield United,2-1,0-1,Grimsby
+Tue Sep 17 2002,Walsall,3-4,2-3,Rotherham
+Wed Sep 18 2002,Coventry,1-1,0-0,Sheffield Weds
+Wed Sep 18 2002,Nott'm Forest,4-1,3-1,Gillingham
+Wed Sep 18 2002,Reading,0-2,0-2,Norwich
+Sat Sep 21 2002,Bradford,2-2,1-0,Burnley
+Sat Sep 21 2002,Derby,0-2,0-1,Preston
+Sat Sep 21 2002,Gillingham,1-1,1-0,Sheffield United
+Sat Sep 21 2002,Grimsby,0-3,0-1,Nott'm Forest
+Sat Sep 21 2002,Millwall,0-3,0-2,Walsall
+Sat Sep 21 2002,Norwich,1-0,0-0,Portsmouth
+Sat Sep 21 2002,Rotherham,1-0,1-0,Brighton
+Sat Sep 21 2002,Sheffield Weds,0-0,0-0,Leicester
+Sat Sep 21 2002,Watford,3-3,2-3,Crystal Palace
+Sat Sep 21 2002,Wimbledon,0-1,0-1,Coventry
+Sat Sep 21 2002,Wolves,0-1,0-0,Reading
+Sun Sep 22 2002,Stoke,2-1,1-0,Ipswich
+Tue Sep 24 2002,Bradford,1-1,1-0,Coventry
+Tue Sep 24 2002,Wolves,4-0,2-0,Preston
+Wed Sep 25 2002,Sheffield Weds,0-0,0-0,Crystal Palace
+Wed Sep 25 2002,Stoke,2-2,1-2,Nott'm Forest
+Sat Sep 28 2002,Brighton,1-2,0-1,Grimsby
+Sat Sep 28 2002,Burnley,1-0,0-0,Wimbledon
+Sat Sep 28 2002,Coventry,2-3,2-1,Millwall
+Sat Sep 28 2002,Ipswich,0-1,0-1,Derby
+Sat Sep 28 2002,Leicester,1-0,1-0,Wolves
+Sat Sep 28 2002,Nott'm Forest,3-2,3-1,Rotherham
+Sat Sep 28 2002,Portsmouth,3-0,2-0,Bradford
+Sat Sep 28 2002,Preston,1-2,0-1,Norwich
+Sat Sep 28 2002,Reading,1-1,1-1,Stoke
+Sat Sep 28 2002,Sheffield United,1-2,1-2,Watford
+Sat Sep 28 2002,Walsall,1-0,1-0,Sheffield Weds
+Sun Sep 29 2002,Crystal Palace,2-2,0-1,Gillingham
+Sat Oct 5 2002,Bradford,1-1,1-1,Preston
+Sat Oct 5 2002,Derby,2-2,1-0,Walsall
+Sat Oct 5 2002,Gillingham,0-2,0-0,Coventry
+Sat Oct 5 2002,Grimsby,0-3,0-2,Reading
+Sat Oct 5 2002,Millwall,1-2,1-0,Nott'm Forest
+Sat Oct 5 2002,Norwich,0-0,0-0,Leicester
+Sat Oct 5 2002,Rotherham,2-3,1-3,Portsmouth
+Sat Oct 5 2002,Sheffield Weds,1-3,0-1,Burnley
+Sat Oct 5 2002,Stoke,1-1,0-0,Crystal Palace
+Sat Oct 5 2002,Watford,1-0,1-0,Brighton
+Sat Oct 5 2002,Wolves,1-3,1-1,Sheffield United
+Sun Oct 6 2002,Wimbledon,0-1,0-0,Ipswich
+Tue Oct 8 2002,Grimsby,3-0,2-0,Ipswich
+Sat Oct 12 2002,Bradford,0-0,0-0,Derby
+Sat Oct 12 2002,Burnley,2-1,1-0,Walsall
+Sat Oct 12 2002,Ipswich,2-1,2-0,Sheffield Weds
+Sat Oct 12 2002,Millwall,1-1,0-0,Wimbledon
+Sat Oct 12 2002,Rotherham,1-1,1-1,Gillingham
+Sat Oct 12 2002,Watford,2-0,1-0,Grimsby
+Sat Oct 19 2002,Brighton,2-4,2-0,Sheffield United
+Sat Oct 19 2002,Gillingham,3-0,2-0,Watford
+Sat Oct 19 2002,Grimsby,0-0,0-0,Rotherham
+Sat Oct 19 2002,Leicester,0-1,0-0,Burnley
+Sat Oct 19 2002,Norwich,3-1,1-0,Millwall
+Sat Oct 19 2002,Portsmouth,1-1,0-0,Coventry
+Sat Oct 19 2002,Reading,3-1,2-0,Ipswich
+Sat Oct 19 2002,Sheffield Weds,2-1,1-1,Bradford
+Sat Oct 19 2002,Stoke,0-2,0-0,Wolves
+Sat Oct 19 2002,Walsall,3-3,3-1,Preston
+Sat Oct 19 2002,Wimbledon,2-2,0-1,Crystal Palace
+Sun Oct 20 2002,Derby,0-0,0-0,Nott'm Forest
+Tue Oct 22 2002,Ipswich,2-2,2-1,Burnley
+Wed Oct 23 2002,Coventry,1-1,1-0,Norwich
+Wed Oct 23 2002,Sheffield United,2-1,0-0,Stoke
+Sat Oct 26 2002,Bradford,2-1,1-0,Norwich
+Sat Oct 26 2002,Burnley,0-3,0-1,Portsmouth
+Sat Oct 26 2002,Coventry,0-0,0-0,Walsall
+Sat Oct 26 2002,Crystal Palace,5-0,2-0,Brighton
+Sat Oct 26 2002,Ipswich,0-1,0-1,Gillingham
+Sat Oct 26 2002,Millwall,3-0,1-0,Derby
+Sat Oct 26 2002,Nott'm Forest,2-2,0-2,Leicester
+Sat Oct 26 2002,Preston,1-0,1-0,Reading
+Sat Oct 26 2002,Rotherham,4-0,2-0,Stoke
+Sat Oct 26 2002,Sheffield United,1-1,0-1,Wimbledon
+Sat Oct 26 2002,Watford,1-0,1-0,Sheffield Weds
+Sat Oct 26 2002,Wolves,4-1,1-1,Grimsby
+Tue Oct 29 2002,Gillingham,0-4,0-2,Wolves
+Tue Oct 29 2002,Grimsby,6-5,4-3,Burnley
+Tue Oct 29 2002,Leicester,2-1,0-0,Coventry
+Tue Oct 29 2002,Norwich,0-0,0-0,Nott'm Forest
+Tue Oct 29 2002,Portsmouth,3-2,3-1,Preston
+Tue Oct 29 2002,Reading,1-0,0-0,Bradford
+Tue Oct 29 2002,Walsall,3-4,2-1,Crystal Palace
+Tue Oct 29 2002,Wimbledon,2-1,1-0,Rotherham
+Wed Oct 30 2002,Derby,2-1,1-1,Sheffield United
+Wed Oct 30 2002,Sheffield Weds,0-1,0-1,Millwall
+Wed Oct 30 2002,Stoke,1-2,0-2,Watford
+Sat Nov 2 2002,Brighton,3-2,2-0,Bradford
+Sat Nov 2 2002,Coventry,2-1,1-1,Rotherham
+Sat Nov 2 2002,Grimsby,1-1,0-0,Gillingham
+Sat Nov 2 2002,Nott'm Forest,3-0,0-0,Sheffield United
+Sat Nov 2 2002,Portsmouth,0-2,0-2,Leicester
+Sat Nov 2 2002,Preston,3-1,1-0,Burnley
+Sat Nov 2 2002,Reading,2-0,1-0,Millwall
+Sat Nov 2 2002,Sheffield Weds,1-3,0-2,Derby
+Sat Nov 2 2002,Walsall,4-2,0-0,Stoke
+Sat Nov 2 2002,Watford,1-1,0-0,Wolves
+Sat Nov 2 2002,Wimbledon,4-2,3-0,Norwich
+Sun Nov 3 2002,Ipswich,1-2,1-1,Crystal Palace
+Wed Nov 6 2002,Wolves,1-1,0-0,Portsmouth
+Sat Nov 9 2002,Bradford,3-5,3-2,Wimbledon
+Sat Nov 9 2002,Burnley,3-1,2-0,Coventry
+Sat Nov 9 2002,Crystal Palace,0-0,0-0,Nott'm Forest
+Sat Nov 9 2002,Derby,1-2,1-1,Portsmouth
+Sat Nov 9 2002,Gillingham,0-1,0-0,Reading
+Sat Nov 9 2002,Leicester,2-0,0-0,Walsall
+Sat Nov 9 2002,Millwall,2-1,2-0,Preston
+Sat Nov 9 2002,Norwich,3-0,2-0,Sheffield Weds
+Sat Nov 9 2002,Rotherham,2-1,1-0,Watford
+Sat Nov 9 2002,Sheffield United,0-0,0-0,Ipswich
+Sat Nov 9 2002,Stoke,1-2,0-2,Grimsby
+Mon Nov 11 2002,Wolves,1-1,0-1,Brighton
+Sat Nov 16 2002,Brighton,1-0,0-0,Derby
+Sat Nov 16 2002,Coventry,0-2,0-1,Wolves
+Sat Nov 16 2002,Gillingham,1-1,1-0,Sheffield Weds
+Sat Nov 16 2002,Grimsby,3-3,1-1,Preston
+Sat Nov 16 2002,Millwall,2-2,1-2,Leicester
+Sat Nov 16 2002,Norwich,2-0,1-0,Crystal Palace
+Sat Nov 16 2002,Nott'm Forest,3-0,3-0,Bradford
+Sat Nov 16 2002,Portsmouth,3-0,0-0,Stoke
+Sat Nov 16 2002,Rotherham,0-0,0-0,Burnley
+Sat Nov 16 2002,Wimbledon,3-2,1-1,Walsall
+Sun Nov 17 2002,Watford,0-2,0-0,Ipswich
+Sat Nov 23 2002,Bradford,0-5,0-2,Sheffield United
+Sat Nov 23 2002,Burnley,2-0,0-0,Norwich
+Sat Nov 23 2002,Crystal Palace,2-0,1-0,Grimsby
+Sat Nov 23 2002,Ipswich,2-1,1-0,Coventry
+Sat Nov 23 2002,Leicester,2-1,0-0,Rotherham
+Sat Nov 23 2002,Preston,2-2,2-0,Brighton
+Sat Nov 23 2002,Reading,1-0,0-0,Watford
+Sat Nov 23 2002,Sheffield Weds,1-3,1-1,Portsmouth
+Sat Nov 23 2002,Stoke,0-1,0-1,Millwall
+Sat Nov 23 2002,Walsall,1-0,1-0,Gillingham
+Sat Nov 23 2002,Wolves,2-1,0-1,Nott'm Forest
+Mon Nov 25 2002,Derby,3-2,1-1,Wimbledon
+Tue Nov 26 2002,Crystal Palace,0-1,0-0,Reading
+Tue Nov 26 2002,Preston,2-0,0-0,Leicester
+Wed Nov 27 2002,Nott'm Forest,3-2,2-0,Brighton
+Sat Nov 30 2002,Brighton,0-1,0-1,Reading
+Sat Nov 30 2002,Coventry,1-2,0-1,Preston
+Sat Nov 30 2002,Gillingham,1-1,0-0,Stoke
+Sat Nov 30 2002,Grimsby,1-2,0-1,Leicester
+Sat Nov 30 2002,Millwall,1-0,0-0,Bradford
+Sat Nov 30 2002,Norwich,1-0,0-0,Derby
+Sat Nov 30 2002,Nott'm Forest,2-1,1-0,Ipswich
+Sat Nov 30 2002,Portsmouth,3-2,1-1,Walsall
+Sat Nov 30 2002,Rotherham,0-0,0-0,Wolves
+Sat Nov 30 2002,Sheffield United,2-1,1-0,Crystal Palace
+Sat Nov 30 2002,Watford,2-1,1-0,Burnley
+Sat Nov 30 2002,Wimbledon,3-0,1-0,Sheffield Weds
+Sat Dec 7 2002,Bradford,1-3,1-0,Gillingham
+Sat Dec 7 2002,Burnley,1-0,1-0,Nott'm Forest
+Sat Dec 7 2002,Crystal Palace,1-0,0-0,Millwall
+Sat Dec 7 2002,Derby,3-0,1-0,Watford
+Sat Dec 7 2002,Ipswich,1-2,1-2,Rotherham
+Sat Dec 7 2002,Leicester,0-0,0-0,Sheffield United
+Sat Dec 7 2002,Preston,3-5,2-1,Wimbledon
+Sat Dec 7 2002,Reading,0-0,0-0,Portsmouth
+Sat Dec 7 2002,Sheffield Weds,1-1,0-1,Brighton
+Sat Dec 7 2002,Stoke,1-2,1-2,Coventry
+Sat Dec 7 2002,Walsall,3-1,1-1,Grimsby
+Sat Dec 7 2002,Wolves,1-0,1-0,Norwich
+Tue Dec 10 2002,Brighton,1-1,1-0,Ipswich
+Sat Dec 14 2002,Bradford,1-0,1-0,Nott'm Forest
+Sat Dec 14 2002,Burnley,2-6,0-3,Rotherham
+Sat Dec 14 2002,Crystal Palace,2-0,2-0,Norwich
+Sat Dec 14 2002,Derby,1-0,1-0,Brighton
+Sat Dec 14 2002,Ipswich,4-2,2-0,Watford
+Sat Dec 14 2002,Leicester,4-1,2-1,Millwall
+Sat Dec 14 2002,Preston,3-0,2-0,Grimsby
+Sat Dec 14 2002,Reading,0-2,0-0,Sheffield United
+Sat Dec 14 2002,Sheffield Weds,0-2,0-1,Gillingham
+Sat Dec 14 2002,Stoke,1-1,1-0,Portsmouth
+Sat Dec 14 2002,Walsall,2-0,1-0,Wimbledon
+Sat Dec 14 2002,Wolves,0-2,0-1,Coventry
+Fri Dec 20 2002,Brighton,0-1,0-0,Leicester
+Sat Dec 21 2002,Coventry,3-0,2-0,Derby
+Sat Dec 21 2002,Gillingham,4-2,3-1,Burnley
+Sat Dec 21 2002,Grimsby,2-0,0-0,Sheffield Weds
+Sat Dec 21 2002,Millwall,1-1,1-1,Wolves
+Sat Dec 21 2002,Norwich,2-1,0-0,Walsall
+Sat Dec 21 2002,Nott'm Forest,2-0,1-0,Reading
+Sat Dec 21 2002,Portsmouth,1-1,1-0,Ipswich
+Sat Dec 21 2002,Sheffield United,1-0,0-0,Preston
+Sat Dec 21 2002,Watford,1-0,0-0,Bradford
+Sat Dec 21 2002,Wimbledon,1-1,0-0,Stoke
+Sun Dec 22 2002,Rotherham,1-3,0-2,Crystal Palace
+Thu Dec 26 2002,Bradford,4-2,1-2,Stoke
+Thu Dec 26 2002,Burnley,2-1,2-0,Wolves
+Thu Dec 26 2002,Coventry,2-0,1-0,Reading
+Thu Dec 26 2002,Derby,1-3,1-1,Grimsby
+Thu Dec 26 2002,Leicester,1-2,0-0,Ipswich
+Thu Dec 26 2002,Millwall,2-2,1-1,Gillingham
+Thu Dec 26 2002,Norwich,0-1,0-1,Brighton
+Thu Dec 26 2002,Portsmouth,1-1,1-1,Crystal Palace
+Thu Dec 26 2002,Preston,0-2,0-0,Rotherham
+Thu Dec 26 2002,Sheffield Weds,2-0,1-0,Nott'm Forest
+Thu Dec 26 2002,Walsall,0-1,0-0,Sheffield United
+Thu Dec 26 2002,Wimbledon,0-0,0-0,Watford
+Sat Dec 28 2002,Brighton,2-2,0-1,Burnley
+Sat Dec 28 2002,Crystal Palace,2-0,1-0,Preston
+Sat Dec 28 2002,Grimsby,1-1,0-0,Norwich
+Sat Dec 28 2002,Ipswich,3-2,1-0,Walsall
+Sat Dec 28 2002,Nott'm Forest,1-2,0-0,Portsmouth
+Sat Dec 28 2002,Reading,2-1,1-1,Derby
+Sat Dec 28 2002,Rotherham,1-3,0-1,Millwall
+Sat Dec 28 2002,Sheffield United,0-0,0-0,Coventry
+Sat Dec 28 2002,Stoke,3-2,1-1,Sheffield Weds
+Sat Dec 28 2002,Watford,1-2,1-1,Leicester
+Sat Dec 28 2002,Wolves,1-2,0-0,Bradford
+Wed Jan 1 2003,Crystal Palace,1-1,0-0,Coventry
+Wed Jan 1 2003,Ipswich,4-1,0-0,Millwall
+Wed Jan 1 2003,Nott'm Forest,1-1,1-0,Walsall
+Wed Jan 1 2003,Rotherham,0-2,0-0,Sheffield Weds
+Wed Jan 1 2003,Stoke,2-1,2-0,Preston
+Wed Jan 1 2003,Watford,2-2,0-0,Portsmouth
+Wed Jan 1 2003,Wolves,1-1,0-1,Derby
+Sat Jan 11 2003,Burnley,1-1,0-1,Ipswich
+Sat Jan 11 2003,Coventry,0-0,0-0,Brighton
+Sat Jan 11 2003,Derby,1-1,0-0,Gillingham
+Sat Jan 11 2003,Leicester,0-0,0-0,Stoke
+Sat Jan 11 2003,Millwall,4-0,2-0,Watford
+Sat Jan 11 2003,Norwich,1-1,0-1,Rotherham
+Sat Jan 11 2003,Sheffield Weds,3-2,0-2,Reading
+Sat Jan 11 2003,Walsall,0-1,0-0,Wolves
+Sat Jan 11 2003,Wimbledon,3-3,0-1,Grimsby
+Mon Jan 13 2003,Portsmouth,1-2,0-1,Sheffield United
+Fri Jan 17 2003,Sheffield United,3-1,0-0,Sheffield Weds
+Sat Jan 18 2003,Brighton,1-1,0-0,Portsmouth
+Sat Jan 18 2003,Crystal Palace,1-1,0-1,Burnley
+Sat Jan 18 2003,Gillingham,3-2,2-0,Leicester
+Sat Jan 18 2003,Grimsby,0-2,0-1,Millwall
+Sat Jan 18 2003,Ipswich,3-0,1-0,Preston
+Sat Jan 18 2003,Nott'm Forest,1-1,1-0,Coventry
+Sat Jan 18 2003,Reading,0-0,0-0,Walsall
+Sat Jan 18 2003,Rotherham,3-2,1-1,Bradford
+Sat Jan 18 2003,Stoke,1-3,0-0,Derby
+Sat Jan 18 2003,Wolves,1-1,1-0,Wimbledon
+Sun Jan 19 2003,Watford,2-1,1-0,Norwich
+Sat Jan 25 2003,Grimsby,1-2,1-0,Bradford
+Sat Jan 25 2003,Preston,1-1,1-1,Nott'm Forest
+Tue Jan 28 2003,Reading,1-3,0-3,Leicester
+Sat Feb 1 2003,Bradford,2-0,0-0,Ipswich
+Sat Feb 1 2003,Burnley,2-5,0-2,Reading
+Sat Feb 1 2003,Coventry,0-1,0-0,Watford
+Sat Feb 1 2003,Derby,3-0,2-0,Rotherham
+Sat Feb 1 2003,Leicester,1-0,0-0,Crystal Palace
+Sat Feb 1 2003,Millwall,1-0,0-0,Sheffield United
+Sat Feb 1 2003,Norwich,2-2,2-0,Stoke
+Sat Feb 1 2003,Portsmouth,3-0,1-0,Grimsby
+Sat Feb 1 2003,Preston,3-0,2-0,Gillingham
+Sat Feb 1 2003,Sheffield Weds,0-4,0-2,Wolves
+Sat Feb 1 2003,Walsall,1-0,1-0,Brighton
+Sat Feb 1 2003,Wimbledon,2-3,0-2,Nott'm Forest
+Tue Feb 4 2003,Brighton,2-3,1-1,Wimbledon
+Sat Feb 8 2003,Brighton,4-1,2-0,Wolves
+Sat Feb 8 2003,Coventry,0-1,0-1,Burnley
+Sat Feb 8 2003,Grimsby,2-0,2-0,Stoke
+Sat Feb 8 2003,Ipswich,3-2,0-1,Sheffield United
+Sat Feb 8 2003,Nott'm Forest,2-1,1-0,Crystal Palace
+Sat Feb 8 2003,Portsmouth,6-2,3-0,Derby
+Sat Feb 8 2003,Preston,2-1,2-0,Millwall
+Sat Feb 8 2003,Sheffield Weds,2-2,0-2,Norwich
+Sat Feb 8 2003,Walsall,1-4,0-2,Leicester
+Sat Feb 8 2003,Watford,1-2,0-0,Rotherham
+Sat Feb 8 2003,Wimbledon,2-2,0-1,Bradford
+Mon Feb 10 2003,Reading,2-1,1-1,Gillingham
+Sat Feb 15 2003,Bradford,0-1,0-1,Brighton
+Sat Feb 15 2003,Derby,2-2,0-1,Sheffield Weds
+Sat Feb 15 2003,Gillingham,3-0,3-0,Grimsby
+Sat Feb 15 2003,Millwall,0-2,0-1,Reading
+Sat Feb 15 2003,Rotherham,1-0,1-0,Coventry
+Mon Feb 17 2003,Leicester,1-1,1-0,Portsmouth
+Tue Feb 18 2003,Sheffield United,1-3,1-1,Reading
+Wed Feb 19 2003,Ipswich,2-4,2-1,Wolves
+Sat Feb 22 2003,Brighton,1-0,0-0,Millwall
+Sat Feb 22 2003,Burnley,2-0,2-0,Derby
+Sat Feb 22 2003,Coventry,0-2,0-1,Bradford
+Sat Feb 22 2003,Crystal Palace,0-0,0-0,Sheffield Weds
+Sat Feb 22 2003,Ipswich,2-2,1-2,Grimsby
+Sat Feb 22 2003,Leicester,4-0,2-0,Wimbledon
+Sat Feb 22 2003,Nott'm Forest,6-0,4-0,Stoke
+Sat Feb 22 2003,Portsmouth,1-0,0-0,Gillingham
+Sat Feb 22 2003,Preston,0-2,0-0,Wolves
+Sat Feb 22 2003,Reading,3-0,3-0,Rotherham
+Sat Feb 22 2003,Sheffield United,0-1,0-0,Norwich
+Sat Feb 22 2003,Walsall,2-0,1-0,Watford
+Tue Feb 25 2003,Gillingham,1-0,0-0,Norwich
+Tue Feb 25 2003,Wolves,0-0,0-0,Watford
+Wed Feb 26 2003,Stoke,1-0,1-0,Walsall
+Fri Feb 28 2003,Rotherham,1-2,0-1,Sheffield United
+Sat Mar 1 2003,Bradford,1-2,0-0,Walsall
+Sat Mar 1 2003,Derby,1-1,0-1,Leicester
+Sat Mar 1 2003,Gillingham,3-0,0-0,Brighton
+Sat Mar 1 2003,Grimsby,0-2,0-1,Coventry
+Sat Mar 1 2003,Millwall,0-5,0-4,Portsmouth
+Sat Mar 1 2003,Sheffield Weds,0-1,0-0,Preston
+Sat Mar 1 2003,Stoke,0-1,0-0,Burnley
+Sat Mar 1 2003,Watford,1-1,1-0,Nott'm Forest
+Sat Mar 1 2003,Wimbledon,2-0,1-0,Reading
+Sat Mar 1 2003,Wolves,4-0,1-0,Crystal Palace
+Sun Mar 2 2003,Norwich,0-2,0-0,Ipswich
+Tue Mar 4 2003,Bradford,0-0,0-0,Leicester
+Tue Mar 4 2003,Gillingham,1-4,0-2,Nott'm Forest
+Tue Mar 4 2003,Grimsby,1-4,1-3,Sheffield United
+Tue Mar 4 2003,Millwall,1-1,0-1,Burnley
+Tue Mar 4 2003,Rotherham,0-0,0-0,Walsall
+Tue Mar 4 2003,Watford,0-1,0-1,Preston
+Tue Mar 4 2003,Wimbledon,2-1,0-1,Portsmouth
+Wed Mar 5 2003,Derby,0-1,0-0,Crystal Palace
+Wed Mar 5 2003,Norwich,0-1,0-0,Reading
+Wed Mar 5 2003,Sheffield Weds,5-1,1-0,Coventry
+Wed Mar 5 2003,Stoke,1-0,0-0,Brighton
+Wed Mar 5 2003,Wolves,1-1,0-0,Ipswich
+Sat Mar 8 2003,Bradford,2-1,0-1,Crystal Palace
+Sat Mar 8 2003,Brighton,2-0,0-0,Rotherham
+Sat Mar 8 2003,Coventry,2-2,1-1,Wimbledon
+Sat Mar 8 2003,Ipswich,0-0,0-0,Stoke
+Sat Mar 8 2003,Leicester,1-1,0-1,Sheffield Weds
+Sat Mar 8 2003,Preston,4-2,3-0,Derby
+Sat Mar 8 2003,Walsall,1-2,0-0,Millwall
+Mon Mar 10 2003,Nott'm Forest,2-2,1-1,Grimsby
+Tue Mar 11 2003,Crystal Palace,1-1,1-0,Ipswich
+Tue Mar 11 2003,Gillingham,3-3,0-1,Wimbledon
+Wed Mar 12 2003,Portsmouth,3-2,0-0,Norwich
+Wed Mar 12 2003,Reading,0-1,0-1,Wolves
+Wed Mar 12 2003,Sheffield United,4-2,2-0,Burnley
+Sat Mar 15 2003,Brighton,1-0,1-0,Nott'm Forest
+Sat Mar 15 2003,Derby,1-2,1-1,Bradford
+Sat Mar 15 2003,Gillingham,1-1,1-1,Rotherham
+Sat Mar 15 2003,Grimsby,1-0,0-0,Watford
+Sat Mar 15 2003,Leicester,2-1,1-1,Preston
+Sat Mar 15 2003,Norwich,2-0,1-0,Coventry
+Sat Mar 15 2003,Portsmouth,1-0,1-0,Wolves
+Sat Mar 15 2003,Reading,2-1,0-0,Crystal Palace
+Sat Mar 15 2003,Sheffield Weds,0-1,0-1,Ipswich
+Sat Mar 15 2003,Stoke,0-0,0-0,Sheffield United
+Sat Mar 15 2003,Walsall,3-2,2-0,Burnley
+Sat Mar 15 2003,Wimbledon,2-0,1-0,Millwall
+Tue Mar 18 2003,Bradford,1-1,1-0,Sheffield Weds
+Tue Mar 18 2003,Burnley,1-2,0-0,Leicester
+Tue Mar 18 2003,Crystal Palace,0-1,0-1,Wimbledon
+Tue Mar 18 2003,Ipswich,3-1,2-1,Reading
+Tue Mar 18 2003,Millwall,0-2,0-2,Norwich
+Tue Mar 18 2003,Preston,5-0,2-0,Walsall
+Tue Mar 18 2003,Rotherham,0-1,0-0,Grimsby
+Tue Mar 18 2003,Sheffield United,2-1,2-1,Brighton
+Tue Mar 18 2003,Watford,0-1,0-0,Gillingham
+Tue Mar 18 2003,Wolves,0-0,0-0,Stoke
+Wed Mar 19 2003,Coventry,0-4,0-3,Portsmouth
+Wed Mar 19 2003,Nott'm Forest,3-0,2-0,Derby
+Sat Mar 22 2003,Bradford,0-1,0-0,Reading
+Sat Mar 22 2003,Burnley,1-1,0-1,Grimsby
+Sat Mar 22 2003,Coventry,1-2,0-0,Leicester
+Sat Mar 22 2003,Crystal Palace,2-0,1-0,Walsall
+Sat Mar 22 2003,Ipswich,2-2,1-0,Brighton
+Sat Mar 22 2003,Millwall,3-0,2-0,Sheffield Weds
+Sat Mar 22 2003,Nott'm Forest,4-0,2-0,Norwich
+Sat Mar 22 2003,Preston,1-1,0-1,Portsmouth
+Sat Mar 22 2003,Rotherham,2-1,1-0,Wimbledon
+Sat Mar 22 2003,Sheffield United,2-0,1-0,Derby
+Sat Mar 22 2003,Watford,1-2,0-1,Stoke
+Sat Mar 22 2003,Wolves,6-0,5-0,Gillingham
+Tue Mar 25 2003,Brighton,0-0,0-0,Crystal Palace
+Tue Mar 25 2003,Burnley,0-2,0-1,Bradford
+Tue Mar 25 2003,Norwich,1-0,1-0,Wimbledon
+Tue Mar 25 2003,Sheffield United,2-2,1-0,Gillingham
+Sat Mar 29 2003,Gillingham,1-3,1-1,Ipswich
+Sat Mar 29 2003,Norwich,3-2,0-1,Bradford
+Sat Mar 29 2003,Sheffield Weds,2-2,0-1,Watford
+Fri Apr 4 2003,Reading,1-2,0-1,Brighton
+Sat Apr 5 2003,Bradford,0-1,0-0,Millwall
+Sat Apr 5 2003,Burnley,4-7,4-5,Watford
+Sat Apr 5 2003,Crystal Palace,2-2,2-1,Sheffield United
+Sat Apr 5 2003,Derby,2-1,1-1,Norwich
+Sat Apr 5 2003,Ipswich,3-4,2-3,Nott'm Forest
+Sat Apr 5 2003,Leicester,2-0,0-0,Grimsby
+Sat Apr 5 2003,Preston,2-2,1-0,Coventry
+Sat Apr 5 2003,Sheffield Weds,4-2,1-0,Wimbledon
+Sat Apr 5 2003,Stoke,0-0,0-0,Gillingham
+Sat Apr 5 2003,Walsall,1-2,1-2,Portsmouth
+Sat Apr 5 2003,Wolves,0-0,0-0,Rotherham
+Mon Apr 7 2003,Wimbledon,1-0,1-0,Sheffield United
+Tue Apr 8 2003,Burnley,2-0,1-0,Preston
+Tue Apr 8 2003,Crystal Palace,0-1,0-1,Watford
+Tue Apr 8 2003,Grimsby,0-1,0-1,Wolves
+Tue Apr 8 2003,Leicester,1-0,1-0,Nott'm Forest
+Wed Apr 9 2003,Stoke,2-0,2-0,Rotherham
+Fri Apr 11 2003,Nott'm Forest,2-2,1-2,Wolves
+Sat Apr 12 2003,Brighton,0-2,0-0,Preston
+Sat Apr 12 2003,Coventry,2-4,2-0,Ipswich
+Sat Apr 12 2003,Gillingham,0-1,0-0,Walsall
+Sat Apr 12 2003,Grimsby,1-4,0-3,Crystal Palace
+Sat Apr 12 2003,Millwall,3-1,1-0,Stoke
+Sat Apr 12 2003,Norwich,2-0,1-0,Burnley
+Sat Apr 12 2003,Portsmouth,1-2,1-0,Sheffield Weds
+Sat Apr 12 2003,Rotherham,1-1,0-0,Leicester
+Sat Apr 12 2003,Wimbledon,0-2,0-1,Derby
+Tue Apr 15 2003,Portsmouth,1-0,0-0,Burnley
+Tue Apr 15 2003,Reading,5-1,2-0,Preston
+Tue Apr 15 2003,Sheffield United,1-0,0-0,Nott'm Forest
+Tue Apr 15 2003,Walsall,0-0,0-0,Coventry
+Wed Apr 16 2003,Derby,1-2,1-1,Millwall
+Fri Apr 18 2003,Ipswich,3-0,3-0,Portsmouth
+Fri Apr 18 2003,Reading,1-0,0-0,Nott'm Forest
+Sat Apr 19 2003,Bradford,2-1,2-1,Watford
+Sat Apr 19 2003,Burnley,2-0,1-0,Gillingham
+Sat Apr 19 2003,Crystal Palace,0-0,0-0,Rotherham
+Sat Apr 19 2003,Derby,1-0,0-0,Coventry
+Sat Apr 19 2003,Leicester,2-0,2-0,Brighton
+Sat Apr 19 2003,Preston,2-0,0-0,Sheffield United
+Sat Apr 19 2003,Sheffield Weds,0-0,0-0,Grimsby
+Sat Apr 19 2003,Stoke,2-1,2-0,Wimbledon
+Sat Apr 19 2003,Walsall,0-0,0-0,Norwich
+Sat Apr 19 2003,Wolves,3-0,1-0,Millwall
+Mon Apr 21 2003,Brighton,1-1,0-1,Sheffield Weds
+Mon Apr 21 2003,Coventry,0-1,0-0,Stoke
+Mon Apr 21 2003,Gillingham,1-0,1-0,Bradford
+Mon Apr 21 2003,Grimsby,0-1,0-0,Walsall
+Mon Apr 21 2003,Millwall,3-2,2-1,Crystal Palace
+Mon Apr 21 2003,Norwich,0-3,0-0,Wolves
+Mon Apr 21 2003,Nott'm Forest,2-0,0-0,Burnley
+Mon Apr 21 2003,Portsmouth,3-0,2-0,Reading
+Mon Apr 21 2003,Rotherham,2-1,0-1,Ipswich
+Mon Apr 21 2003,Sheffield United,2-1,1-1,Leicester
+Mon Apr 21 2003,Watford,2-0,1-0,Derby
+Mon Apr 21 2003,Wimbledon,2-0,0-0,Preston
+Sat Apr 26 2003,Brighton,4-0,2-0,Watford
+Sat Apr 26 2003,Burnley,2-7,1-3,Sheffield Weds
+Sat Apr 26 2003,Coventry,0-0,0-0,Gillingham
+Sat Apr 26 2003,Crystal Palace,1-0,0-0,Stoke
+Sat Apr 26 2003,Ipswich,1-5,0-1,Wimbledon
+Sat Apr 26 2003,Nott'm Forest,3-3,2-1,Millwall
+Sat Apr 26 2003,Preston,1-0,1-0,Bradford
+Sat Apr 26 2003,Reading,2-1,2-0,Grimsby
+Sat Apr 26 2003,Sheffield United,3-3,1-2,Wolves
+Sat Apr 26 2003,Walsall,3-2,1-0,Derby
+Sun Apr 27 2003,Leicester,1-1,1-0,Norwich
+Sun Apr 27 2003,Portsmouth,3-2,2-2,Rotherham
+Tue Apr 29 2003,Sheffield United,3-0,0-0,Bradford
+Wed Apr 30 2003,Watford,0-3,0-1,Reading
+Sun May 4 2003,Bradford,0-5,0-1,Portsmouth
+Sun May 4 2003,Derby,1-4,1-3,Ipswich
+Sun May 4 2003,Gillingham,2-1,2-1,Crystal Palace
+Sun May 4 2003,Grimsby,2-2,1-1,Brighton
+Sun May 4 2003,Millwall,2-0,0-0,Coventry
+Sun May 4 2003,Norwich,2-0,0-0,Preston
+Sun May 4 2003,Rotherham,2-2,0-0,Nott'm Forest
+Sun May 4 2003,Sheffield Weds,2-1,0-0,Walsall
+Sun May 4 2003,Stoke,1-0,0-0,Reading
+Sun May 4 2003,Watford,2-0,0-0,Sheffield United
+Sun May 4 2003,Wimbledon,2-1,0-1,Burnley
+Sun May 4 2003,Wolves,1-1,0-0,Leicester

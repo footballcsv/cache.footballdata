@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 11 2001,Blackpool,0-2,0-1,Reading
+Sat Aug 11 2001,Cambridge,0-0,0-0,Brighton
+Sat Aug 11 2001,Cardiff,1-0,1-0,Wycombe
+Sat Aug 11 2001,Chesterfield,3-6,1-3,Colchester
+Sat Aug 11 2001,Huddersfield,1-0,0-0,Bournemouth
+Sat Aug 11 2001,Northampton,0-3,0-3,Bristol City
+Sat Aug 11 2001,Port Vale,4-2,1-1,Notts County
+Sat Aug 11 2001,QPR,1-0,1-0,Stoke
+Sat Aug 11 2001,Swindon,0-0,0-0,Peterboro
+Sat Aug 11 2001,Tranmere,1-2,0-1,Bury
+Sat Aug 11 2001,Wigan,1-1,0-1,Brentford
+Sat Aug 11 2001,Wrexham,3-3,0-1,Oldham
+Sat Aug 18 2001,Bournemouth,0-1,0-1,Blackpool
+Sat Aug 18 2001,Brentford,2-0,0-0,Port Vale
+Sat Aug 18 2001,Brighton,2-1,1-1,Wigan
+Sat Aug 18 2001,Bristol City,3-1,1-0,Swindon
+Sat Aug 18 2001,Bury,1-2,1-1,QPR
+Sat Aug 18 2001,Colchester,2-1,0-0,Tranmere
+Sat Aug 18 2001,Notts County,2-1,1-0,Cambridge
+Sat Aug 18 2001,Oldham,1-1,1-0,Chesterfield
+Sat Aug 18 2001,Peterboro,1-1,1-1,Cardiff
+Sat Aug 18 2001,Reading,1-0,1-0,Huddersfield
+Sat Aug 18 2001,Stoke,2-0,0-0,Northampton
+Sat Aug 18 2001,Wycombe,5-2,4-0,Wrexham
+Sat Aug 25 2001,Blackpool,2-2,2-1,Wycombe
+Sat Aug 25 2001,Cambridge,0-2,0-0,Stoke
+Sat Aug 25 2001,Cardiff,2-2,1-0,Bournemouth
+Sat Aug 25 2001,Chesterfield,0-1,0-1,Brentford
+Sat Aug 25 2001,Huddersfield,2-0,0-0,Bury
+Sat Aug 25 2001,Northampton,0-2,0-1,Notts County
+Sat Aug 25 2001,Port Vale,4-1,1-0,Peterboro
+Sat Aug 25 2001,QPR,0-0,0-0,Reading
+Sat Aug 25 2001,Swindon,0-2,0-2,Oldham
+Sat Aug 25 2001,Tranmere,0-0,0-0,Brighton
+Sat Aug 25 2001,Wigan,1-2,0-0,Bristol City
+Sat Aug 25 2001,Wrexham,1-1,0-1,Colchester
+Mon Aug 27 2001,Brentford,2-1,1-0,Cambridge
+Mon Aug 27 2001,Brighton,4-0,1-0,Blackpool
+Mon Aug 27 2001,Bury,0-3,0-0,Swindon
+Mon Aug 27 2001,Colchester,2-0,1-0,Port Vale
+Mon Aug 27 2001,Notts County,1-1,0-0,Chesterfield
+Mon Aug 27 2001,Peterboro,1-2,0-0,Huddersfield
+Mon Aug 27 2001,Stoke,1-2,0-1,Tranmere
+Mon Aug 27 2001,Wycombe,1-0,0-0,QPR
+Tue Aug 28 2001,Oldham,4-2,2-0,Northampton
+Thu Aug 30 2001,QPR,0-0,0-0,Bristol City
+Fri Aug 31 2001,Northampton,2-0,1-0,Brighton
+Sat Sep 1 2001,Cambridge,2-2,0-0,Bournemouth
+Sat Sep 1 2001,Chesterfield,0-1,0-0,Peterboro
+Sat Sep 1 2001,Port Vale,0-2,0-1,Reading
+Sat Sep 1 2001,Swindon,1-0,0-0,Colchester
+Sat Sep 1 2001,Tranmere,2-2,1-1,Oldham
+Sun Sep 2 2001,Huddersfield,2-1,1-1,Wycombe
+Sat Sep 8 2001,Bournemouth,0-0,0-0,Swindon
+Sat Sep 8 2001,Brentford,4-0,1-0,Tranmere
+Sat Sep 8 2001,Brighton,2-1,0-0,QPR
+Sat Sep 8 2001,Bristol City,1-1,0-1,Port Vale
+Sat Sep 8 2001,Bury,0-2,0-1,Wigan
+Sat Sep 8 2001,Colchester,3-1,3-0,Northampton
+Sat Sep 8 2001,Notts County,2-2,2-1,Wrexham
+Sat Sep 8 2001,Oldham,2-1,1-0,Blackpool
+Sat Sep 8 2001,Peterboro,1-0,0-0,Cambridge
+Sat Sep 8 2001,Reading,1-2,1-2,Cardiff
+Sat Sep 8 2001,Stoke,1-1,0-1,Huddersfield
+Sat Sep 8 2001,Wycombe,0-0,0-0,Chesterfield
+Tue Sep 11 2001,Wrexham,1-0,0-0,Bury
+Fri Sep 14 2001,Wrexham,1-2,0-0,Brighton
+Sat Sep 15 2001,Bournemouth,3-2,2-2,Bury
+Sat Sep 15 2001,Bristol City,3-1,1-1,Colchester
+Sat Sep 15 2001,Cambridge,2-1,1-0,Cardiff
+Sat Sep 15 2001,Huddersfield,2-4,1-2,Blackpool
+Sat Sep 15 2001,Northampton,0-2,0-1,Chesterfield
+Sat Sep 15 2001,Notts County,0-0,0-0,Brentford
+Sat Sep 15 2001,Oldham,2-0,0-0,Peterboro
+Sat Sep 15 2001,QPR,4-1,0-0,Port Vale
+Sat Sep 15 2001,Stoke,2-0,2-0,Reading
+Sat Sep 15 2001,Swindon,2-2,1-1,Tranmere
+Sat Sep 15 2001,Wycombe,1-0,1-0,Wigan
+Tue Sep 18 2001,Blackpool,2-2,0-1,QPR
+Tue Sep 18 2001,Brentford,2-2,2-1,Bristol City
+Tue Sep 18 2001,Brighton,1-0,0-0,Stoke
+Tue Sep 18 2001,Cardiff,2-0,1-0,Northampton
+Tue Sep 18 2001,Chesterfield,3-2,1-0,Wrexham
+Tue Sep 18 2001,Colchester,2-1,2-0,Oldham
+Tue Sep 18 2001,Peterboro,6-0,3-0,Bournemouth
+Tue Sep 18 2001,Port Vale,0-2,0-1,Swindon
+Tue Sep 18 2001,Reading,1-0,0-0,Cambridge
+Tue Sep 18 2001,Tranmere,4-2,1-2,Notts County
+Tue Sep 18 2001,Wigan,1-0,0-0,Huddersfield
+Fri Sep 21 2001,Tranmere,5-0,1-0,Wrexham
+Sat Sep 22 2001,Blackpool,1-1,1-0,Cambridge
+Sat Sep 22 2001,Brentford,2-2,0-1,Oldham
+Sat Sep 22 2001,Brighton,2-1,1-0,Bournemouth
+Sat Sep 22 2001,Bury,0-1,0-1,Stoke
+Sat Sep 22 2001,Cardiff,1-2,1-1,Huddersfield
+Sat Sep 22 2001,Chesterfield,4-0,0-0,Swindon
+Sat Sep 22 2001,Colchester,0-1,0-0,Notts County
+Sat Sep 22 2001,Peterboro,4-1,3-0,Bristol City
+Sat Sep 22 2001,Port Vale,0-1,0-0,Northampton
+Sat Sep 22 2001,Reading,2-0,2-0,Wycombe
+Sat Sep 22 2001,Wigan,1-2,1-1,QPR
+Tue Sep 25 2001,Bournemouth,1-0,0-0,Reading
+Tue Sep 25 2001,Bristol City,2-0,2-0,Tranmere
+Tue Sep 25 2001,Cambridge,2-2,1-1,Wigan
+Tue Sep 25 2001,Huddersfield,0-0,0-0,Chesterfield
+Tue Sep 25 2001,Northampton,1-3,0-2,Blackpool
+Tue Sep 25 2001,Notts County,1-0,0-0,Peterboro
+Tue Sep 25 2001,Oldham,4-0,2-0,Bury
+Tue Sep 25 2001,QPR,2-1,0-1,Cardiff
+Tue Sep 25 2001,Swindon,2-0,1-0,Brentford
+Tue Sep 25 2001,Wrexham,1-3,0-1,Port Vale
+Tue Sep 25 2001,Wycombe,1-1,0-1,Brighton
+Wed Sep 26 2001,Stoke,3-0,1-0,Colchester
+Sat Sep 29 2001,Blackpool,3-1,1-0,Wigan
+Sat Sep 29 2001,Brentford,4-1,2-1,Colchester
+Sat Sep 29 2001,Cambridge,2-1,1-0,QPR
+Sat Sep 29 2001,Cardiff,1-1,0-1,Brighton
+Sat Sep 29 2001,Chesterfield,0-2,0-1,Tranmere
+Sat Sep 29 2001,Huddersfield,1-0,0-0,Bristol City
+Sat Sep 29 2001,Northampton,1-1,0-0,Swindon
+Sat Sep 29 2001,Oldham,4-1,2-0,Notts County
+Sat Sep 29 2001,Reading,1-1,1-0,Bury
+Sat Sep 29 2001,Stoke,2-0,1-0,Bournemouth
+Sat Sep 29 2001,Wrexham,1-2,0-0,Peterboro
+Sat Sep 29 2001,Wycombe,3-1,3-0,Port Vale
+Tue Oct 2 2001,Bury,1-1,1-1,Wycombe
+Thu Oct 4 2001,Tranmere,4-0,3-0,Blackpool
+Fri Oct 5 2001,Bournemouth,3-2,0-1,Oldham
+Fri Oct 5 2001,Brighton,1-2,0-1,Brentford
+Fri Oct 5 2001,Bristol City,3-0,2-0,Chesterfield
+Fri Oct 5 2001,Colchester,2-0,2-0,Reading
+Fri Oct 5 2001,Port Vale,5-0,1-0,Cambridge
+Sat Oct 6 2001,Notts County,0-1,0-0,Wycombe
+Sun Oct 7 2001,Peterboro,2-0,1-0,Northampton
+Sun Oct 7 2001,QPR,3-2,1-1,Huddersfield
+Tue Oct 9 2001,Bournemouth,2-0,1-0,Wigan
+Tue Oct 9 2001,Bristol City,1-1,0-1,Cardiff
+Fri Oct 12 2001,Cardiff,2-2,0-1,Wigan
+Sat Oct 13 2001,Blackpool,2-1,0-0,Colchester
+Sat Oct 13 2001,Brentford,2-1,2-0,Peterboro
+Sat Oct 13 2001,Cambridge,3-1,1-1,Bury
+Sat Oct 13 2001,Chesterfield,1-1,0-0,Port Vale
+Sat Oct 13 2001,Huddersfield,1-2,0-1,Brighton
+Sat Oct 13 2001,Northampton,4-1,2-1,Tranmere
+Sat Oct 13 2001,Oldham,0-1,0-1,Bristol City
+Sat Oct 13 2001,Reading,1-3,0-1,Swindon
+Sat Oct 13 2001,Stoke,1-0,0-0,Notts County
+Sat Oct 13 2001,Wrexham,1-0,1-0,QPR
+Sat Oct 13 2001,Wycombe,1-1,0-1,Bournemouth
+Sat Oct 20 2001,Bournemouth,0-2,0-1,Brentford
+Sat Oct 20 2001,Brighton,3-0,3-0,Oldham
+Sat Oct 20 2001,Bristol City,0-1,0-0,Wycombe
+Sat Oct 20 2001,Bury,2-1,0-1,Chesterfield
+Sat Oct 20 2001,Colchester,3-1,2-1,Cambridge
+Sat Oct 20 2001,Notts County,3-4,1-4,Reading
+Sat Oct 20 2001,Peterboro,3-2,1-2,Blackpool
+Sat Oct 20 2001,QPR,0-1,0-1,Northampton
+Sat Oct 20 2001,Tranmere,1-0,0-0,Huddersfield
+Sat Oct 20 2001,Wigan,2-3,1-1,Wrexham
+Sun Oct 21 2001,Port Vale,1-1,0-0,Stoke
+Sun Oct 21 2001,Swindon,0-3,0-1,Cardiff
+Tue Oct 23 2001,Brentford,5-1,2-0,Bury
+Tue Oct 23 2001,Bristol City,1-0,1-0,Bournemouth
+Tue Oct 23 2001,Chesterfield,1-2,0-0,Stoke
+Tue Oct 23 2001,Colchester,2-2,2-2,Wycombe
+Tue Oct 23 2001,Northampton,0-3,0-2,Huddersfield
+Tue Oct 23 2001,Notts County,2-2,1-0,Brighton
+Tue Oct 23 2001,Oldham,0-1,0-1,Reading
+Tue Oct 23 2001,Peterboro,4-1,2-1,QPR
+Tue Oct 23 2001,Tranmere,1-2,0-0,Wigan
+Tue Oct 23 2001,Wrexham,1-1,1-0,Blackpool
+Wed Oct 24 2001,Port Vale,0-2,0-2,Cardiff
+Wed Oct 24 2001,Swindon,2-0,0-0,Cambridge
+Sat Oct 27 2001,Blackpool,1-0,0-0,Chesterfield
+Sat Oct 27 2001,Bournemouth,4-2,3-2,Notts County
+Sat Oct 27 2001,Brighton,1-0,1-0,Colchester
+Sat Oct 27 2001,Bury,2-0,1-0,Peterboro
+Sat Oct 27 2001,Cambridge,3-3,3-1,Northampton
+Sat Oct 27 2001,Cardiff,1-1,1-0,Tranmere
+Sat Oct 27 2001,Huddersfield,5-1,1-1,Wrexham
+Sat Oct 27 2001,QPR,1-1,1-0,Oldham
+Sat Oct 27 2001,Reading,1-2,0-0,Brentford
+Sat Oct 27 2001,Stoke,1-0,0-0,Bristol City
+Sat Oct 27 2001,Wigan,0-1,0-1,Port Vale
+Sat Oct 27 2001,Wycombe,1-1,1-1,Swindon
+Sat Nov 3 2001,Brentford,2-0,0-0,Blackpool
+Sat Nov 3 2001,Bristol City,0-1,0-1,Brighton
+Sat Nov 3 2001,Chesterfield,2-0,0-0,Cambridge
+Sat Nov 3 2001,Colchester,1-2,1-2,Bournemouth
+Sat Nov 3 2001,Northampton,0-2,0-0,Reading
+Sat Nov 3 2001,Notts County,0-2,0-0,QPR
+Sat Nov 3 2001,Oldham,1-1,0-1,Huddersfield
+Sat Nov 3 2001,Peterboro,0-2,0-1,Wigan
+Sat Nov 3 2001,Port Vale,1-0,0-0,Bury
+Sat Nov 3 2001,Swindon,0-3,0-1,Stoke
+Sat Nov 3 2001,Tranmere,1-1,1-1,Wycombe
+Sun Nov 4 2001,Wrexham,1-3,1-2,Cardiff
+Tue Nov 6 2001,Blackpool,2-2,0-0,Stoke
+Tue Nov 6 2001,Reading,2-0,0-0,Wrexham
+Wed Nov 7 2001,Bury,3-0,1-0,Cardiff
+Fri Nov 9 2001,Huddersfield,2-2,1-0,Notts County
+Fri Nov 9 2001,Wigan,2-3,0-2,Colchester
+Sat Nov 10 2001,Blackpool,1-0,1-0,Swindon
+Sat Nov 10 2001,Bournemouth,3-0,2-0,Wrexham
+Sat Nov 10 2001,Brighton,1-0,0-0,Port Vale
+Sat Nov 10 2001,Cambridge,1-1,0-1,Oldham
+Sat Nov 10 2001,Cardiff,2-1,2-1,Chesterfield
+Sat Nov 10 2001,QPR,1-2,0-0,Tranmere
+Sat Nov 10 2001,Reading,3-2,2-1,Bristol City
+Sat Nov 10 2001,Stoke,3-2,1-1,Brentford
+Sat Nov 10 2001,Wycombe,3-0,1-0,Peterboro
+Sun Nov 11 2001,Bury,2-1,0-1,Northampton
+Tue Nov 13 2001,Wigan,6-1,3-1,Stoke
+Tue Nov 20 2001,Blackpool,0-0,0-0,Notts County
+Tue Nov 20 2001,Bournemouth,0-0,0-0,Port Vale
+Tue Nov 20 2001,Bury,2-2,1-1,Bristol City
+Tue Nov 20 2001,Cambridge,0-2,0-0,Wrexham
+Tue Nov 20 2001,Cardiff,1-1,1-0,Colchester
+Tue Nov 20 2001,Huddersfield,1-1,0-0,Brentford
+Tue Nov 20 2001,Reading,4-1,2-0,Tranmere
+Tue Nov 20 2001,Wigan,1-1,0-0,Chesterfield
+Tue Nov 20 2001,Wycombe,2-1,1-1,Northampton
+Wed Nov 21 2001,Brighton,1-1,1-1,Peterboro
+Wed Nov 21 2001,QPR,4-0,3-0,Swindon
+Wed Nov 21 2001,Stoke,0-0,0-0,Oldham
+Sat Nov 24 2001,Brentford,0-0,0-0,QPR
+Sat Nov 24 2001,Bristol City,2-1,1-0,Blackpool
+Sat Nov 24 2001,Chesterfield,2-1,1-1,Bournemouth
+Sat Nov 24 2001,Colchester,0-1,0-0,Bury
+Sat Nov 24 2001,Northampton,0-2,0-1,Wigan
+Sat Nov 24 2001,Notts County,0-0,0-0,Cardiff
+Sat Nov 24 2001,Oldham,2-0,2-0,Wycombe
+Sat Nov 24 2001,Peterboro,1-2,1-0,Reading
+Sat Nov 24 2001,Port Vale,1-1,0-0,Huddersfield
+Sat Nov 24 2001,Swindon,1-1,0-1,Brighton
+Sat Nov 24 2001,Tranmere,6-1,2-0,Cambridge
+Sat Nov 24 2001,Wrexham,0-1,0-0,Stoke
+Tue Nov 27 2001,Swindon,3-1,2-0,Wrexham
+Sat Dec 1 2001,Bournemouth,0-2,0-1,Tranmere
+Sat Dec 1 2001,Bristol City,3-2,1-0,Notts County
+Sat Dec 1 2001,Bury,0-2,0-1,Brighton
+Sat Dec 1 2001,Cardiff,3-1,1-0,Oldham
+Sat Dec 1 2001,Huddersfield,2-1,0-1,Cambridge
+Sat Dec 1 2001,Port Vale,1-1,0-1,Blackpool
+Sat Dec 1 2001,QPR,2-2,1-2,Colchester
+Sat Dec 1 2001,Reading,0-1,0-1,Chesterfield
+Sat Dec 1 2001,Wigan,1-0,0-0,Swindon
+Sat Dec 1 2001,Wrexham,3-2,1-1,Northampton
+Sat Dec 1 2001,Wycombe,5-3,1-2,Brentford
+Tue Dec 4 2001,Cardiff,3-1,2-0,Brentford
+Sun Dec 9 2001,Wrexham,0-2,0-0,Bristol City
+Tue Dec 11 2001,Wigan,1-1,1-0,Notts County
+Sat Dec 15 2001,Blackpool,1-1,0-0,Cardiff
+Sat Dec 15 2001,Brentford,3-0,1-0,Wrexham
+Sat Dec 15 2001,Cambridge,0-3,0-2,Bristol City
+Sat Dec 15 2001,Chesterfield,2-3,0-0,QPR
+Sat Dec 15 2001,Colchester,2-1,1-1,Peterboro
+Sat Dec 15 2001,Northampton,1-0,0-0,Bournemouth
+Sat Dec 15 2001,Notts County,1-2,0-2,Bury
+Sat Dec 15 2001,Oldham,1-1,0-0,Wigan
+Sat Dec 15 2001,Stoke,5-1,3-1,Wycombe
+Sat Dec 15 2001,Tranmere,3-1,2-1,Port Vale
+Wed Dec 19 2001,Stoke,1-1,0-0,Cardiff
+Fri Dec 21 2001,Brentford,3-0,0-0,Northampton
+Fri Dec 21 2001,Brighton,2-2,1-0,Chesterfield
+Fri Dec 21 2001,Notts County,3-1,2-1,Swindon
+Fri Dec 21 2001,Oldham,2-0,1-0,Port Vale
+Sat Dec 22 2001,Bournemouth,1-2,0-1,QPR
+Sat Dec 22 2001,Bristol City,1-0,0-0,Wrexham
+Sat Dec 22 2001,Bury,1-1,0-1,Blackpool
+Sat Dec 22 2001,Colchester,3-3,2-1,Huddersfield
+Sat Dec 22 2001,Reading,1-1,1-0,Wigan
+Sat Dec 22 2001,Wycombe,2-0,2-0,Cambridge
+Wed Dec 26 2001,Blackpool,0-2,0-0,Oldham
+Wed Dec 26 2001,Cambridge,2-1,0-1,Brentford
+Wed Dec 26 2001,Cardiff,2-2,1-0,Reading
+Wed Dec 26 2001,Huddersfield,3-1,1-0,Peterboro
+Wed Dec 26 2001,Northampton,2-3,1-1,Colchester
+Wed Dec 26 2001,Port Vale,1-0,0-0,Bristol City
+Wed Dec 26 2001,QPR,0-0,0-0,Brighton
+Wed Dec 26 2001,Swindon,0-0,0-0,Bournemouth
+Wed Dec 26 2001,Tranmere,2-2,1-1,Stoke
+Wed Dec 26 2001,Wigan,1-1,0-0,Bury
+Wed Dec 26 2001,Wrexham,2-1,1-1,Notts County
+Sat Dec 29 2001,Blackpool,2-2,0-2,Brighton
+Sat Dec 29 2001,Cambridge,0-0,0-0,Peterboro
+Sat Dec 29 2001,Cardiff,1-3,0-0,Bristol City
+Sat Dec 29 2001,Chesterfield,2-1,1-0,Notts County
+Sat Dec 29 2001,Huddersfield,0-0,0-0,Stoke
+Sat Dec 29 2001,Northampton,0-1,0-0,Oldham
+Sat Dec 29 2001,Port Vale,3-1,2-0,Colchester
+Sat Dec 29 2001,QPR,4-3,1-1,Wycombe
+Sat Dec 29 2001,Swindon,3-1,2-1,Bury
+Sat Dec 29 2001,Tranmere,1-0,0-0,Brentford
+Sat Dec 29 2001,Wigan,0-0,0-0,Bournemouth
+Sat Dec 29 2001,Wrexham,0-2,0-1,Reading
+Tue Jan 1 2002,Reading,2-0,0-0,Port Vale
+Tue Jan 1 2002,Stoke,2-0,1-0,Blackpool
+Sat Jan 5 2002,Bristol City,2-2,2-0,Wigan
+Sat Jan 5 2002,Colchester,2-1,1-1,Wrexham
+Sat Jan 5 2002,Reading,1-0,0-0,QPR
+Tue Jan 8 2002,Peterboro,3-0,1-0,Port Vale
+Sat Jan 12 2002,Blackpool,4-3,2-2,Bournemouth
+Sat Jan 12 2002,Cambridge,0-2,0-0,Notts County
+Sat Jan 12 2002,Cardiff,0-2,0-1,Peterboro
+Sat Jan 12 2002,Chesterfield,4-2,0-1,Oldham
+Sat Jan 12 2002,Huddersfield,0-1,0-0,Reading
+Sat Jan 12 2002,Port Vale,2-1,1-1,Brentford
+Sat Jan 12 2002,QPR,3-0,1-0,Bury
+Sat Jan 12 2002,Tranmere,0-0,0-0,Colchester
+Sat Jan 12 2002,Wigan,3-0,2-0,Brighton
+Sat Jan 12 2002,Wrexham,0-0,0-0,Wycombe
+Sun Jan 13 2002,Northampton,1-1,0-1,Stoke
+Sun Jan 13 2002,Swindon,1-2,0-1,Bristol City
+Tue Jan 15 2002,Bury,0-0,0-0,Huddersfield
+Wed Jan 16 2002,Oldham,2-0,1-0,Swindon
+Sat Jan 19 2002,Bournemouth,2-3,0-3,Huddersfield
+Sat Jan 19 2002,Brentford,0-1,0-0,Wigan
+Sat Jan 19 2002,Brighton,4-3,1-1,Cambridge
+Sat Jan 19 2002,Bristol City,1-3,0-2,Northampton
+Sat Jan 19 2002,Bury,0-1,0-1,Tranmere
+Sat Jan 19 2002,Colchester,1-2,0-1,Chesterfield
+Sat Jan 19 2002,Notts County,1-3,0-2,Port Vale
+Sat Jan 19 2002,Oldham,3-1,1-1,Wrexham
+Sat Jan 19 2002,Peterboro,1-1,0-1,Swindon
+Sat Jan 19 2002,Reading,3-0,2-0,Blackpool
+Sat Jan 19 2002,Stoke,0-1,0-0,QPR
+Sat Jan 19 2002,Wycombe,0-1,0-0,Cardiff
+Mon Jan 21 2002,Chesterfield,1-2,0-0,Brighton
+Tue Jan 22 2002,Cambridge,2-0,1-0,Wycombe
+Tue Jan 22 2002,Cardiff,2-0,1-0,Stoke
+Tue Jan 22 2002,Huddersfield,2-1,2-0,Colchester
+Tue Jan 22 2002,Northampton,1-0,0-0,Brentford
+Tue Jan 22 2002,Port Vale,3-2,2-0,Oldham
+Tue Jan 22 2002,QPR,1-1,1-0,Bournemouth
+Tue Jan 22 2002,Swindon,1-0,0-0,Notts County
+Tue Jan 22 2002,Tranmere,1-0,1-0,Peterboro
+Tue Jan 22 2002,Wigan,0-2,0-2,Reading
+Thu Jan 24 2002,Brentford,4-0,2-0,Brighton
+Sat Jan 26 2002,Blackpool,0-1,0-1,Bury
+Sat Jan 26 2002,Huddersfield,1-0,1-0,QPR
+Sat Jan 26 2002,Oldham,3-3,1-0,Bournemouth
+Sat Jan 26 2002,Reading,3-0,1-0,Colchester
+Sat Jan 26 2002,Stoke,2-2,1-2,Wigan
+Sat Jan 26 2002,Wrexham,2-2,1-0,Swindon
+Sat Jan 26 2002,Wycombe,3-0,1-0,Notts County
+Tue Jan 29 2002,Bury,2-2,1-2,Wrexham
+Tue Jan 29 2002,Notts County,0-3,0-1,Northampton
+Tue Jan 29 2002,Peterboro,1-2,1-1,Stoke
+Wed Jan 30 2002,Colchester,1-3,1-0,Swindon
+Thu Jan 31 2002,Brighton,1-0,1-0,Cardiff
+Sat Feb 2 2002,Bournemouth,3-1,2-0,Stoke
+Sat Feb 2 2002,Bristol City,1-1,0-0,Huddersfield
+Sat Feb 2 2002,Bury,1-1,1-0,Reading
+Sat Feb 2 2002,Colchester,1-1,0-1,Brentford
+Sat Feb 2 2002,Notts County,0-2,0-0,Oldham
+Sat Feb 2 2002,Peterboro,2-3,1-1,Wrexham
+Sat Feb 2 2002,Port Vale,1-1,1-0,Wycombe
+Sat Feb 2 2002,QPR,0-0,0-0,Cambridge
+Sat Feb 2 2002,Swindon,2-1,1-0,Northampton
+Sat Feb 2 2002,Tranmere,0-0,0-0,Chesterfield
+Sat Feb 2 2002,Wigan,0-1,0-1,Blackpool
+Tue Feb 5 2002,Bournemouth,1-3,0-2,Cardiff
+Tue Feb 5 2002,Brighton,1-0,0-0,Tranmere
+Tue Feb 5 2002,Bristol City,2-0,2-0,QPR
+Tue Feb 5 2002,Peterboro,1-1,0-1,Chesterfield
+Tue Feb 5 2002,Swindon,0-1,0-0,Huddersfield
+Wed Feb 6 2002,Stoke,5-0,2-0,Cambridge
+Sat Feb 9 2002,Blackpool,2-2,1-1,Peterboro
+Sat Feb 9 2002,Brentford,1-0,0-0,Bournemouth
+Sat Feb 9 2002,Cambridge,1-2,1-0,Colchester
+Sat Feb 9 2002,Cardiff,3-0,1-0,Swindon
+Sat Feb 9 2002,Chesterfield,2-0,0-0,Bury
+Sat Feb 9 2002,Huddersfield,2-1,0-1,Tranmere
+Sat Feb 9 2002,Northampton,2-2,0-2,QPR
+Sat Feb 9 2002,Oldham,2-0,1-0,Brighton
+Sat Feb 9 2002,Reading,2-1,1-1,Notts County
+Sat Feb 9 2002,Wrexham,2-0,1-0,Wigan
+Sat Feb 9 2002,Wycombe,2-1,0-0,Bristol City
+Sun Feb 10 2002,Stoke,0-1,0-1,Port Vale
+Mon Feb 11 2002,Brighton,3-1,0-0,Reading
+Tue Feb 12 2002,Brentford,2-1,0-1,Cardiff
+Tue Feb 12 2002,Chesterfield,0-1,0-0,Wycombe
+Tue Feb 12 2002,Tranmere,2-0,0-0,Northampton
+Wed Feb 13 2002,Cambridge,0-1,0-1,Port Vale
+Thu Feb 14 2002,Swindon,0-0,0-0,Reading
+Sat Feb 16 2002,Bournemouth,1-2,0-0,Wycombe
+Sat Feb 16 2002,Brighton,1-0,0-0,Huddersfield
+Sat Feb 16 2002,Bristol City,3-0,0-0,Oldham
+Sat Feb 16 2002,Bury,2-2,1-1,Cambridge
+Sat Feb 16 2002,Colchester,1-1,0-1,Blackpool
+Sat Feb 16 2002,Notts County,0-0,0-0,Stoke
+Sat Feb 16 2002,Peterboro,1-1,0-1,Brentford
+Sat Feb 16 2002,Port Vale,4-1,1-0,Chesterfield
+Sat Feb 16 2002,QPR,2-1,0-1,Wrexham
+Sat Feb 16 2002,Wigan,4-0,2-0,Cardiff
+Tue Feb 19 2002,Cardiff,1-0,1-0,Bury
+Tue Feb 19 2002,Northampton,2-1,2-1,Peterboro
+Tue Feb 19 2002,Notts County,1-3,0-1,Wigan
+Tue Feb 19 2002,Oldham,1-1,0-1,Tranmere
+Tue Feb 19 2002,Wycombe,1-4,0-2,Blackpool
+Fri Feb 22 2002,Tranmere,0-0,0-0,Swindon
+Sat Feb 23 2002,Blackpool,1-2,0-0,Huddersfield
+Sat Feb 23 2002,Brentford,2-1,0-0,Notts County
+Sat Feb 23 2002,Brighton,0-0,0-0,Wrexham
+Sat Feb 23 2002,Bury,2-1,1-1,Bournemouth
+Sat Feb 23 2002,Cardiff,2-0,1-0,Cambridge
+Sat Feb 23 2002,Chesterfield,2-2,1-2,Northampton
+Sat Feb 23 2002,Colchester,0-0,0-0,Bristol City
+Sat Feb 23 2002,Peterboro,2-2,1-2,Oldham
+Sat Feb 23 2002,Port Vale,1-0,1-0,QPR
+Sat Feb 23 2002,Reading,1-0,0-0,Stoke
+Sat Feb 23 2002,Wigan,0-0,0-0,Wycombe
+Tue Feb 26 2002,Bournemouth,1-1,1-1,Brighton
+Tue Feb 26 2002,Bristol City,1-0,1-0,Peterboro
+Tue Feb 26 2002,Cambridge,0-3,0-1,Blackpool
+Tue Feb 26 2002,Northampton,1-0,1-0,Port Vale
+Tue Feb 26 2002,Notts County,1-1,0-1,Colchester
+Tue Feb 26 2002,Oldham,3-2,1-1,Brentford
+Tue Feb 26 2002,QPR,1-1,0-0,Wigan
+Tue Feb 26 2002,Stoke,4-0,1-0,Bury
+Tue Feb 26 2002,Swindon,2-1,1-1,Chesterfield
+Tue Feb 26 2002,Wrexham,1-1,0-0,Tranmere
+Tue Feb 26 2002,Wycombe,0-2,0-0,Reading
+Fri Mar 1 2002,Stoke,3-1,1-0,Brighton
+Sat Mar 2 2002,Bournemouth,0-2,0-1,Peterboro
+Sat Mar 2 2002,Bristol City,0-2,0-0,Brentford
+Sat Mar 2 2002,Cambridge,2-2,2-0,Reading
+Sat Mar 2 2002,Huddersfield,0-0,0-0,Wigan
+Sat Mar 2 2002,Northampton,1-2,1-2,Cardiff
+Sat Mar 2 2002,Notts County,3-0,3-0,Tranmere
+Sat Mar 2 2002,Oldham,4-1,2-1,Colchester
+Sat Mar 2 2002,QPR,2-0,1-0,Blackpool
+Sat Mar 2 2002,Swindon,3-0,2-0,Port Vale
+Sat Mar 2 2002,Wrexham,0-1,0-1,Chesterfield
+Sat Mar 2 2002,Wycombe,0-2,0-0,Bury
+Tue Mar 5 2002,Blackpool,1-2,0-1,Northampton
+Tue Mar 5 2002,Brentford,2-0,1-0,Swindon
+Tue Mar 5 2002,Brighton,4-0,1-0,Wycombe
+Tue Mar 5 2002,Bury,1-1,1-0,Oldham
+Tue Mar 5 2002,Cardiff,1-1,0-1,QPR
+Tue Mar 5 2002,Chesterfield,1-1,1-0,Huddersfield
+Tue Mar 5 2002,Colchester,1-3,0-2,Stoke
+Tue Mar 5 2002,Peterboro,0-1,0-1,Notts County
+Tue Mar 5 2002,Port Vale,1-3,0-1,Wrexham
+Tue Mar 5 2002,Reading,2-2,1-0,Bournemouth
+Tue Mar 5 2002,Tranmere,1-0,1-0,Bristol City
+Tue Mar 5 2002,Wigan,4-1,1-0,Cambridge
+Sat Mar 9 2002,Bournemouth,5-1,1-1,Northampton
+Sat Mar 9 2002,Bristol City,2-0,2-0,Cambridge
+Sat Mar 9 2002,Bury,0-4,0-3,Notts County
+Sat Mar 9 2002,Cardiff,2-2,1-2,Blackpool
+Sat Mar 9 2002,Huddersfield,2-0,1-0,Swindon
+Sat Mar 9 2002,Peterboro,3-1,2-0,Colchester
+Sat Mar 9 2002,Port Vale,1-1,1-1,Tranmere
+Sat Mar 9 2002,QPR,0-0,0-0,Chesterfield
+Sat Mar 9 2002,Reading,0-0,0-0,Brighton
+Sat Mar 9 2002,Wigan,1-0,0-0,Oldham
+Sat Mar 9 2002,Wrexham,0-3,0-2,Brentford
+Sat Mar 9 2002,Wycombe,1-0,0-0,Stoke
+Tue Mar 12 2002,Blackpool,1-1,1-0,Tranmere
+Tue Mar 12 2002,Brentford,0-0,0-0,Chesterfield
+Tue Mar 12 2002,Brighton,2-0,1-0,Northampton
+Tue Mar 12 2002,Wycombe,2-4,0-2,Huddersfield
+Sat Mar 16 2002,Blackpool,4-0,0-0,Port Vale
+Sat Mar 16 2002,Brentford,1-0,1-0,Wycombe
+Sat Mar 16 2002,Brighton,2-1,2-0,Bury
+Sat Mar 16 2002,Cambridge,0-1,0-0,Huddersfield
+Sat Mar 16 2002,Chesterfield,0-2,0-2,Reading
+Sat Mar 16 2002,Colchester,3-1,1-0,QPR
+Sat Mar 16 2002,Northampton,4-1,1-1,Wrexham
+Sat Mar 16 2002,Notts County,2-0,1-0,Bristol City
+Sat Mar 16 2002,Oldham,1-7,0-5,Cardiff
+Sat Mar 16 2002,Stoke,1-0,1-0,Peterboro
+Sat Mar 16 2002,Swindon,1-1,0-0,Wigan
+Sat Mar 16 2002,Tranmere,0-0,0-0,Bournemouth
+Tue Mar 19 2002,Blackpool,1-3,0-2,Brentford
+Tue Mar 19 2002,Bournemouth,2-2,1-1,Cambridge
+Tue Mar 19 2002,Chesterfield,2-1,1-0,Bristol City
+Tue Mar 19 2002,Peterboro,5-0,3-0,Tranmere
+Fri Mar 22 2002,Cardiff,3-2,2-1,Wrexham
+Sat Mar 23 2002,Bournemouth,1-3,0-2,Bristol City
+Sat Mar 23 2002,Brighton,2-2,1-0,Notts County
+Sat Mar 23 2002,Bury,1-1,0-0,Port Vale
+Sat Mar 23 2002,Huddersfield,2-0,2-0,Northampton
+Sat Mar 23 2002,QPR,1-0,1-0,Peterboro
+Sat Mar 23 2002,Reading,2-2,2-1,Oldham
+Sat Mar 23 2002,Stoke,1-0,1-0,Chesterfield
+Sat Mar 23 2002,Wigan,1-2,1-1,Tranmere
+Sat Mar 23 2002,Wycombe,0-0,0-0,Colchester
+Fri Mar 29 2002,Northampton,1-0,0-0,Bury
+Sat Mar 30 2002,Brentford,1-0,0-0,Stoke
+Sat Mar 30 2002,Bristol City,3-3,2-3,Reading
+Sat Mar 30 2002,Chesterfield,0-2,0-2,Cardiff
+Sat Mar 30 2002,Colchester,1-4,0-3,Brighton
+Sat Mar 30 2002,Notts County,2-0,1-0,Bournemouth
+Sat Mar 30 2002,Oldham,2-2,1-1,Cambridge
+Sat Mar 30 2002,Peterboro,2-1,1-0,Wycombe
+Sat Mar 30 2002,Port Vale,1-0,1-0,Wigan
+Sat Mar 30 2002,Swindon,1-0,0-0,Blackpool
+Sat Mar 30 2002,Tranmere,2-3,0-1,QPR
+Sat Mar 30 2002,Wrexham,1-1,0-0,Huddersfield
+Mon Apr 1 2002,Blackpool,3-0,1-0,Wrexham
+Mon Apr 1 2002,Brighton,2-1,1-0,Bristol City
+Mon Apr 1 2002,Bury,2-0,0-0,Brentford
+Mon Apr 1 2002,Cardiff,1-0,0-0,Port Vale
+Mon Apr 1 2002,Huddersfield,0-0,0-0,Oldham
+Mon Apr 1 2002,QPR,3-2,1-2,Notts County
+Mon Apr 1 2002,Reading,0-0,0-0,Northampton
+Mon Apr 1 2002,Stoke,2-0,0-0,Swindon
+Mon Apr 1 2002,Wigan,2-1,2-0,Peterboro
+Mon Apr 1 2002,Wycombe,2-1,1-0,Tranmere
+Tue Apr 2 2002,Bournemouth,0-1,0-0,Colchester
+Tue Apr 2 2002,Cambridge,4-1,3-0,Chesterfield
+Sat Apr 6 2002,Brentford,3-0,3-0,Huddersfield
+Sat Apr 6 2002,Bristol City,2-0,0-0,Bury
+Sat Apr 6 2002,Chesterfield,1-2,1-2,Wigan
+Sat Apr 6 2002,Colchester,0-1,0-1,Cardiff
+Sat Apr 6 2002,Northampton,4-1,0-1,Wycombe
+Sat Apr 6 2002,Notts County,1-0,0-0,Blackpool
+Sat Apr 6 2002,Oldham,2-1,1-0,Stoke
+Sat Apr 6 2002,Peterboro,0-1,0-0,Brighton
+Sat Apr 6 2002,Port Vale,0-0,0-0,Bournemouth
+Sat Apr 6 2002,Swindon,0-1,0-0,QPR
+Sat Apr 6 2002,Wrexham,5-0,1-0,Cambridge
+Sun Apr 7 2002,Tranmere,2-2,1-0,Reading
+Tue Apr 9 2002,Cambridge,1-2,1-1,Swindon
+Tue Apr 9 2002,Huddersfield,2-2,0-1,Cardiff
+Sat Apr 13 2002,Blackpool,5-1,4-0,Bristol City
+Sat Apr 13 2002,Bournemouth,3-1,1-0,Chesterfield
+Sat Apr 13 2002,Brighton,0-0,0-0,Swindon
+Sat Apr 13 2002,Bury,1-3,0-1,Colchester
+Sat Apr 13 2002,Cambridge,2-1,0-1,Tranmere
+Sat Apr 13 2002,Cardiff,2-1,0-1,Notts County
+Sat Apr 13 2002,Huddersfield,2-1,1-1,Port Vale
+Sat Apr 13 2002,QPR,0-0,0-0,Brentford
+Sat Apr 13 2002,Reading,2-2,0-1,Peterboro
+Sat Apr 13 2002,Stoke,1-0,1-0,Wrexham
+Sat Apr 13 2002,Wigan,3-0,2-0,Northampton
+Sat Apr 13 2002,Wycombe,2-1,2-0,Oldham
+Sat Apr 20 2002,Brentford,1-1,0-0,Reading
+Sat Apr 20 2002,Bristol City,1-1,0-1,Stoke
+Sat Apr 20 2002,Chesterfield,2-1,1-0,Blackpool
+Sat Apr 20 2002,Colchester,2-2,2-0,Wigan
+Sat Apr 20 2002,Northampton,2-2,1-1,Cambridge
+Sat Apr 20 2002,Notts County,2-1,1-0,Huddersfield
+Sat Apr 20 2002,Oldham,1-0,1-0,QPR
+Sat Apr 20 2002,Peterboro,2-1,1-0,Bury
+Sat Apr 20 2002,Port Vale,0-1,0-0,Brighton
+Sat Apr 20 2002,Swindon,1-1,0-1,Wycombe
+Sat Apr 20 2002,Tranmere,0-1,0-0,Cardiff
+Sat Apr 20 2002,Wrexham,2-1,0-1,Bournemouth

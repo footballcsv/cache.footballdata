@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 6 2016,Barrow,1-0,1-0,Aldershot
+Sat Aug 6 2016,Boreham Wood,1-0,1-0,Forest Green
+Sat Aug 6 2016,Bromley,0-2,0-2,Tranmere
+Sat Aug 6 2016,Dag and Red,3-0,2-0,Southport
+Sat Aug 6 2016,Eastleigh,2-1,2-0,Guiseley
+Sat Aug 6 2016,Gateshead,3-0,0-0,Chester
+Sat Aug 6 2016,Macclesfield,2-0,1-0,Torquay
+Sat Aug 6 2016,Maidstone,1-1,1-0,York
+Sat Aug 6 2016,North Ferriby,0-0,0-0,Braintree Town
+Sat Aug 6 2016,Sutton,1-3,1-1,Solihull
+Sat Aug 6 2016,Woking,1-3,0-1,Lincoln
+Sat Aug 6 2016,Wrexham,0-0,0-0,Dover Athletic
+Tue Aug 9 2016,Aldershot,1-0,0-0,Maidstone
+Tue Aug 9 2016,Braintree Town,1-1,0-0,Eastleigh
+Tue Aug 9 2016,Chester,3-0,2-0,Dag and Red
+Tue Aug 9 2016,Dover Athletic,1-4,1-0,Boreham Wood
+Tue Aug 9 2016,Forest Green,1-1,1-0,Sutton
+Tue Aug 9 2016,Guiseley,2-3,1-1,Wrexham
+Tue Aug 9 2016,Lincoln,6-1,4-1,North Ferriby
+Tue Aug 9 2016,Solihull,2-2,0-1,Woking
+Tue Aug 9 2016,Southport,0-3,0-1,Gateshead
+Tue Aug 9 2016,Torquay,1-0,1-0,Bromley
+Tue Aug 9 2016,Tranmere,2-0,1-0,Barrow
+Tue Aug 9 2016,York,1-0,0-0,Macclesfield
+Sat Aug 13 2016,Aldershot,2-0,1-0,Wrexham
+Sat Aug 13 2016,Braintree Town,1-3,0-2,Macclesfield
+Sat Aug 13 2016,Chester,1-3,1-1,Maidstone
+Sat Aug 13 2016,Dover Athletic,2-0,1-0,North Ferriby
+Sat Aug 13 2016,Forest Green,1-0,0-0,Gateshead
+Sat Aug 13 2016,Guiseley,0-2,0-1,Dag and Red
+Sat Aug 13 2016,Lincoln,1-3,0-1,Sutton
+Sat Aug 13 2016,Solihull,1-0,1-0,Bromley
+Sat Aug 13 2016,Southport,2-1,1-1,Woking
+Sat Aug 13 2016,Torquay,1-1,1-0,Barrow
+Sat Aug 13 2016,Tranmere,2-1,1-1,Eastleigh
+Sat Aug 13 2016,York,1-1,0-0,Boreham Wood
+Tue Aug 16 2016,Barrow,3-2,2-0,Chester
+Tue Aug 16 2016,Boreham Wood,0-1,0-1,Tranmere
+Tue Aug 16 2016,Bromley,2-2,1-2,Aldershot
+Tue Aug 16 2016,Dag and Red,1-0,1-0,Lincoln
+Tue Aug 16 2016,Eastleigh,2-4,0-0,Dover Athletic
+Tue Aug 16 2016,Gateshead,6-1,1-1,York
+Tue Aug 16 2016,Macclesfield,3-1,3-0,Southport
+Tue Aug 16 2016,Maidstone,2-1,2-0,Braintree Town
+Tue Aug 16 2016,North Ferriby,3-2,2-1,Guiseley
+Tue Aug 16 2016,Sutton,2-0,1-0,Torquay
+Tue Aug 16 2016,Woking,0-1,0-1,Forest Green
+Tue Aug 16 2016,Wrexham,1-0,0-0,Solihull
+Sat Aug 20 2016,Boreham Wood,1-1,1-0,Chester
+Sat Aug 20 2016,Braintree Town,2-0,1-0,Aldershot
+Sat Aug 20 2016,Bromley,3-2,3-1,Gateshead
+Sat Aug 20 2016,Dover Athletic,3-1,1-0,Barrow
+Sat Aug 20 2016,Forest Green,2-1,1-1,York
+Sat Aug 20 2016,Lincoln,4-0,3-0,Southport
+Sat Aug 20 2016,North Ferriby,1-0,0-0,Torquay
+Sat Aug 20 2016,Solihull,3-2,1-1,Guiseley
+Sat Aug 20 2016,Sutton,2-0,2-0,Macclesfield
+Sat Aug 20 2016,Tranmere,2-1,1-0,Maidstone
+Sat Aug 20 2016,Woking,1-3,0-3,Dag and Red
+Sat Aug 20 2016,Wrexham,0-0,0-0,Eastleigh
+Sat Aug 27 2016,Aldershot,2-0,2-0,North Ferriby
+Sat Aug 27 2016,Barrow,2-1,1-1,Braintree Town
+Sat Aug 27 2016,Chester,4-0,2-0,Sutton
+Sat Aug 27 2016,Dag and Red,3-0,3-0,Wrexham
+Sat Aug 27 2016,Eastleigh,2-0,0-0,Solihull
+Sat Aug 27 2016,Gateshead,1-1,1-1,Boreham Wood
+Sat Aug 27 2016,Guiseley,1-4,0-0,Bromley
+Sat Aug 27 2016,Macclesfield,1-2,1-0,Lincoln
+Sat Aug 27 2016,Maidstone,1-4,1-2,Forest Green
+Sat Aug 27 2016,Southport,1-1,0-0,Tranmere
+Sat Aug 27 2016,Torquay,2-1,0-0,Dover Athletic
+Sat Aug 27 2016,York,4-1,4-1,Woking
+Mon Aug 29 2016,Boreham Wood,0-1,0-0,Maidstone
+Mon Aug 29 2016,Braintree Town,1-3,1-2,Torquay
+Mon Aug 29 2016,Bromley,0-5,0-2,Eastleigh
+Mon Aug 29 2016,Dover Athletic,1-2,1-2,Aldershot
+Mon Aug 29 2016,Forest Green,5-1,2-0,Southport
+Mon Aug 29 2016,Lincoln,3-0,1-0,Gateshead
+Mon Aug 29 2016,North Ferriby,0-1,0-0,Barrow
+Mon Aug 29 2016,Solihull,2-3,2-1,Macclesfield
+Mon Aug 29 2016,Sutton,1-0,1-0,Dag and Red
+Mon Aug 29 2016,Tranmere,1-0,1-0,Guiseley
+Mon Aug 29 2016,Woking,3-1,2-1,Chester
+Mon Aug 29 2016,Wrexham,2-1,1-1,York
+Sat Sep 3 2016,Aldershot,3-1,1-1,Tranmere
+Sat Sep 3 2016,Barrow,1-1,1-0,Bromley
+Sat Sep 3 2016,Chester,1-2,0-1,Forest Green
+Sat Sep 3 2016,Dag and Red,0-2,0-0,Boreham Wood
+Sat Sep 3 2016,Eastleigh,2-0,1-0,North Ferriby
+Sat Sep 3 2016,Gateshead,1-0,0-0,Sutton
+Sat Sep 3 2016,Guiseley,0-0,0-0,Braintree Town
+Sat Sep 3 2016,Macclesfield,3-1,2-0,Woking
+Sat Sep 3 2016,Maidstone,2-2,1-1,Wrexham
+Sat Sep 3 2016,Southport,0-1,0-1,Dover Athletic
+Sat Sep 3 2016,Torquay,1-2,1-1,Lincoln
+Sat Sep 3 2016,York,4-0,1-0,Solihull
+Sat Sep 10 2016,Aldershot,0-0,0-0,Chester
+Sat Sep 10 2016,Barrow,1-1,0-0,Boreham Wood
+Sat Sep 10 2016,Braintree Town,1-4,0-1,Gateshead
+Sat Sep 10 2016,Bromley,0-1,0-1,Macclesfield
+Sat Sep 10 2016,Dover Athletic,4-3,1-1,Forest Green
+Sat Sep 10 2016,Eastleigh,1-1,0-0,Southport
+Sat Sep 10 2016,Guiseley,1-1,0-0,Woking
+Sat Sep 10 2016,North Ferriby,0-2,0-1,Maidstone
+Sat Sep 10 2016,Solihull,2-5,0-2,Dag and Red
+Sat Sep 10 2016,Torquay,2-0,2-0,York
+Sat Sep 10 2016,Tranmere,0-1,0-0,Lincoln
+Sat Sep 10 2016,Wrexham,1-0,0-0,Sutton
+Tue Sep 13 2016,Boreham Wood,1-1,0-0,Aldershot
+Tue Sep 13 2016,Chester,2-0,0-0,Guiseley
+Tue Sep 13 2016,Dag and Red,2-0,2-0,Dover Athletic
+Tue Sep 13 2016,Forest Green,1-1,0-0,Eastleigh
+Tue Sep 13 2016,Gateshead,0-1,0-0,North Ferriby
+Tue Sep 13 2016,Lincoln,0-0,0-0,Solihull
+Tue Sep 13 2016,Maidstone,0-2,0-1,Bromley
+Tue Sep 13 2016,Southport,1-4,0-2,Barrow
+Tue Sep 13 2016,Sutton,1-2,1-1,Braintree Town
+Tue Sep 13 2016,Woking,3-1,0-1,Torquay
+Tue Sep 13 2016,York,0-0,0-0,Tranmere
+Sat Sep 17 2016,Boreham Wood,2-0,2-0,Torquay
+Sat Sep 17 2016,Chester,1-0,1-0,Braintree Town
+Sat Sep 17 2016,Dag and Red,2-0,1-0,North Ferriby
+Sat Sep 17 2016,Forest Green,1-0,0-0,Bromley
+Sat Sep 17 2016,Gateshead,0-0,0-0,Solihull
+Sat Sep 17 2016,Lincoln,1-2,1-1,Barrow
+Sat Sep 17 2016,Macclesfield,0-1,0-0,Eastleigh
+Sat Sep 17 2016,Maidstone,1-1,1-0,Guiseley
+Sat Sep 17 2016,Southport,1-1,0-0,Aldershot
+Sat Sep 17 2016,Sutton,1-0,0-0,Tranmere
+Sat Sep 17 2016,Woking,2-0,0-0,Wrexham
+Sat Sep 17 2016,York,0-1,0-1,Dover Athletic
+Sat Sep 24 2016,Aldershot,3-0,0-0,Gateshead
+Sat Sep 24 2016,Barrow,2-0,0-0,York
+Sat Sep 24 2016,Braintree Town,0-1,0-1,Forest Green
+Sat Sep 24 2016,Bromley,1-3,0-1,Dag and Red
+Sat Sep 24 2016,Dover Athletic,2-0,1-0,Lincoln
+Sat Sep 24 2016,Eastleigh,2-1,0-0,Sutton
+Sat Sep 24 2016,Guiseley,1-2,1-2,Macclesfield
+Sat Sep 24 2016,North Ferriby,0-1,0-1,Southport
+Sat Sep 24 2016,Solihull,1-1,0-0,Boreham Wood
+Sat Sep 24 2016,Torquay,2-3,1-2,Maidstone
+Sat Sep 24 2016,Tranmere,3-1,1-0,Woking
+Sat Sep 24 2016,Wrexham,0-0,0-0,Chester
+Tue Sep 27 2016,Macclesfield,3-0,1-0,Wrexham
+Sat Oct 1 2016,Boreham Wood,0-1,0-0,Wrexham
+Sat Oct 1 2016,Chester,5-0,0-0,Dover Athletic
+Sat Oct 1 2016,Dag and Red,0-0,0-0,Tranmere
+Sat Oct 1 2016,Forest Green,0-0,0-0,Barrow
+Sat Oct 1 2016,Gateshead,0-0,0-0,Torquay
+Sat Oct 1 2016,Lincoln,3-0,1-0,Braintree Town
+Sat Oct 1 2016,Macclesfield,1-0,1-0,North Ferriby
+Sat Oct 1 2016,Maidstone,2-4,2-3,Solihull
+Sat Oct 1 2016,Southport,1-2,0-2,Bromley
+Sat Oct 1 2016,Sutton,1-0,1-0,Guiseley
+Sat Oct 1 2016,Woking,3-3,1-3,Eastleigh
+Sat Oct 1 2016,York,0-1,0-1,Aldershot
+Tue Oct 4 2016,Aldershot,0-4,0-4,Forest Green
+Tue Oct 4 2016,Barrow,1-1,0-0,Macclesfield
+Tue Oct 4 2016,Braintree Town,1-2,0-1,Boreham Wood
+Tue Oct 4 2016,Bromley,2-1,1-1,Woking
+Tue Oct 4 2016,Dover Athletic,3-1,1-0,Sutton
+Tue Oct 4 2016,Eastleigh,3-0,2-0,Maidstone
+Tue Oct 4 2016,Guiseley,6-1,4-1,York
+Tue Oct 4 2016,North Ferriby,0-1,0-0,Chester
+Tue Oct 4 2016,Solihull,4-0,0-0,Southport
+Tue Oct 4 2016,Torquay,1-0,1-0,Dag and Red
+Tue Oct 4 2016,Tranmere,0-1,0-0,Gateshead
+Tue Oct 4 2016,Wrexham,1-2,0-2,Lincoln
+Sat Oct 8 2016,Aldershot,2-0,0-0,Solihull
+Sat Oct 8 2016,Barrow,3-0,1-0,Maidstone
+Sat Oct 8 2016,Braintree Town,1-1,0-1,York
+Sat Oct 8 2016,Bromley,1-1,0-0,Lincoln
+Sat Oct 8 2016,Chester,1-0,1-0,Torquay
+Sat Oct 8 2016,Eastleigh,0-1,0-0,Dag and Red
+Sat Oct 8 2016,Gateshead,4-2,2-1,Dover Athletic
+Sat Oct 8 2016,Guiseley,2-1,0-0,Southport
+Sat Oct 8 2016,Macclesfield,0-2,0-0,Boreham Wood
+Sat Oct 8 2016,North Ferriby,0-3,0-1,Forest Green
+Sat Oct 8 2016,Sutton,4-1,2-0,Woking
+Sat Oct 8 2016,Tranmere,2-0,0-0,Wrexham
+Sat Oct 22 2016,Boreham Wood,1-0,0-0,North Ferriby
+Sat Oct 22 2016,Dag and Red,1-1,1-0,Macclesfield
+Sat Oct 22 2016,Dover Athletic,6-1,5-1,Braintree Town
+Sat Oct 22 2016,Forest Green,3-0,1-0,Guiseley
+Sat Oct 22 2016,Lincoln,0-0,0-0,Eastleigh
+Sat Oct 22 2016,Maidstone,0-2,0-1,Gateshead
+Sat Oct 22 2016,Solihull,0-3,0-1,Tranmere
+Sat Oct 22 2016,Southport,1-1,1-0,Sutton
+Sat Oct 22 2016,Torquay,0-0,0-0,Aldershot
+Sat Oct 22 2016,Woking,1-1,0-1,Barrow
+Sat Oct 22 2016,Wrexham,2-1,1-0,Bromley
+Sat Oct 22 2016,York,1-1,0-0,Chester
+Tue Oct 25 2016,Bromley,0-2,0-2,Dover Athletic
+Tue Oct 25 2016,Dag and Red,1-0,0-0,Aldershot
+Tue Oct 25 2016,Eastleigh,3-0,0-0,Torquay
+Tue Oct 25 2016,Guiseley,1-1,0-0,Gateshead
+Tue Oct 25 2016,Lincoln,2-0,1-0,Boreham Wood
+Tue Oct 25 2016,Macclesfield,0-0,0-0,Chester
+Tue Oct 25 2016,Solihull,0-1,0-0,Forest Green
+Tue Oct 25 2016,Southport,2-0,0-0,York
+Tue Oct 25 2016,Sutton,2-2,2-2,Maidstone
+Tue Oct 25 2016,Tranmere,1-0,0-0,North Ferriby
+Tue Oct 25 2016,Woking,2-3,2-1,Braintree Town
+Tue Oct 25 2016,Wrexham,2-2,1-1,Barrow
+Sat Oct 29 2016,Aldershot,1-0,0-0,Guiseley
+Sat Oct 29 2016,Barrow,4-0,0-0,Eastleigh
+Sat Oct 29 2016,Boreham Wood,2-1,0-1,Woking
+Sat Oct 29 2016,Braintree Town,0-1,0-0,Solihull
+Sat Oct 29 2016,Chester,2-5,2-2,Lincoln
+Sat Oct 29 2016,Dover Athletic,1-4,1-1,Tranmere
+Sat Oct 29 2016,Forest Green,1-1,0-0,Dag and Red
+Sat Oct 29 2016,Gateshead,2-2,1-0,Wrexham
+Sat Oct 29 2016,Maidstone,2-1,1-1,Macclesfield
+Sat Oct 29 2016,North Ferriby,1-2,0-0,Bromley
+Sat Oct 29 2016,Torquay,1-2,1-0,Southport
+Sat Oct 29 2016,York,2-2,1-1,Sutton
+Sat Nov 5 2016,Forest Green,2-1,1-0,Aldershot
+Sat Nov 5 2016,North Ferriby,0-0,0-0,Wrexham
+Sat Nov 12 2016,Bromley,1-0,1-0,Boreham Wood
+Sat Nov 12 2016,Dag and Red,0-5,0-1,Gateshead
+Sat Nov 12 2016,Eastleigh,1-1,0-0,York
+Sat Nov 12 2016,Guiseley,2-0,2-0,Torquay
+Sat Nov 12 2016,Lincoln,3-3,2-1,Aldershot
+Sat Nov 12 2016,Macclesfield,0-1,0-1,Forest Green
+Sat Nov 12 2016,Solihull,2-3,1-0,Dover Athletic
+Sat Nov 12 2016,Southport,3-2,2-0,Maidstone
+Sat Nov 12 2016,Sutton,0-0,0-0,Barrow
+Sat Nov 12 2016,Tranmere,2-2,2-0,Chester
+Sat Nov 12 2016,Woking,1-1,0-1,North Ferriby
+Sat Nov 12 2016,Wrexham,0-1,0-1,Braintree Town
+Sat Nov 19 2016,Aldershot,1-2,0-1,Macclesfield
+Sat Nov 19 2016,Barrow,2-1,2-0,Solihull
+Sat Nov 19 2016,Boreham Wood,2-0,1-0,Southport
+Sat Nov 19 2016,Braintree Town,0-1,0-0,Tranmere
+Sat Nov 19 2016,Chester,1-1,0-1,Bromley
+Sat Nov 19 2016,Dover Athletic,2-0,0-0,Guiseley
+Sat Nov 19 2016,Forest Green,2-3,1-0,Lincoln
+Sat Nov 19 2016,Gateshead,2-2,0-2,Eastleigh
+Sat Nov 19 2016,Maidstone,0-3,0-2,Woking
+Sat Nov 19 2016,North Ferriby,2-1,1-0,Sutton
+Sat Nov 19 2016,Torquay,1-1,0-1,Wrexham
+Sat Nov 19 2016,York,0-2,0-2,Dag and Red
+Tue Nov 22 2016,Aldershot,0-1,0-1,Eastleigh
+Tue Nov 22 2016,Barrow,3-0,2-0,Guiseley
+Tue Nov 22 2016,Boreham Wood,1-0,1-0,Sutton
+Tue Nov 22 2016,Braintree Town,2-2,1-1,Bromley
+Tue Nov 22 2016,Chester,2-2,2-0,Southport
+Tue Nov 22 2016,Dover Athletic,3-1,2-0,Woking
+Tue Nov 22 2016,Forest Green,2-2,2-1,Tranmere
+Tue Nov 22 2016,Gateshead,1-1,1-1,Macclesfield
+Tue Nov 22 2016,Maidstone,0-1,0-1,Dag and Red
+Tue Nov 22 2016,Torquay,3-0,1-0,Solihull
+Tue Nov 22 2016,York,1-4,0-2,Lincoln
+Sat Nov 26 2016,Bromley,3-0,2-0,York
+Sat Nov 26 2016,Dag and Red,1-4,0-2,Barrow
+Sat Nov 26 2016,Eastleigh,0-3,0-1,Chester
+Sat Nov 26 2016,Guiseley,3-1,0-0,Boreham Wood
+Sat Nov 26 2016,Lincoln,2-0,0-0,Maidstone
+Sat Nov 26 2016,Solihull,2-0,1-0,North Ferriby
+Sat Nov 26 2016,Southport,4-5,3-4,Braintree Town
+Sat Nov 26 2016,Sutton,2-0,0-0,Aldershot
+Sat Nov 26 2016,Tranmere,2-1,1-0,Torquay
+Sat Nov 26 2016,Woking,3-0,1-0,Gateshead
+Sat Nov 26 2016,Wrexham,3-1,2-0,Forest Green
+Tue Nov 29 2016,Chester,3-0,0-0,North Ferriby
+Tue Nov 29 2016,Dag and Red,0-1,0-0,Torquay
+Tue Nov 29 2016,Gateshead,0-1,0-1,Tranmere
+Tue Nov 29 2016,Lincoln,1-0,1-0,Wrexham
+Tue Nov 29 2016,Maidstone,2-1,1-0,Eastleigh
+Tue Nov 29 2016,Southport,0-0,0-0,Solihull
+Tue Nov 29 2016,Sutton,0-6,0-4,Dover Athletic
+Tue Nov 29 2016,Woking,2-1,1-1,Bromley
+Tue Nov 29 2016,York,1-1,0-0,Guiseley
+Sat Dec 3 2016,Aldershot,2-0,1-0,Boreham Wood
+Sat Dec 3 2016,Bromley,2-0,1-0,Maidstone
+Sat Dec 3 2016,Dover Athletic,1-2,0-2,Dag and Red
+Sat Dec 3 2016,Guiseley,1-1,0-1,Chester
+Sat Dec 3 2016,North Ferriby,1-0,1-0,Gateshead
+Sat Dec 3 2016,Tranmere,1-0,0-0,York
+Tue Dec 6 2016,Wrexham,0-3,0-0,Macclesfield
+Sat Dec 17 2016,Boreham Wood,1-1,0-0,Barrow
+Sat Dec 17 2016,Chester,2-0,1-0,Aldershot
+Sat Dec 17 2016,Dag and Red,4-4,2-3,Solihull
+Sat Dec 17 2016,Forest Green,1-1,0-0,Dover Athletic
+Sat Dec 17 2016,Gateshead,1-1,0-0,Braintree Town
+Sat Dec 17 2016,Lincoln,2-1,1-1,Tranmere
+Sat Dec 17 2016,Macclesfield,1-2,0-1,Bromley
+Sat Dec 17 2016,Maidstone,1-2,0-2,North Ferriby
+Sat Dec 17 2016,Southport,4-3,2-1,Eastleigh
+Sat Dec 17 2016,Sutton,1-0,1-0,Wrexham
+Sat Dec 17 2016,Woking,0-0,0-0,Guiseley
+Sat Dec 17 2016,York,0-0,0-0,Torquay
+Tue Dec 20 2016,Boreham Wood,0-1,0-0,Braintree Town
+Mon Dec 26 2016,Aldershot,4-0,4-0,Woking
+Mon Dec 26 2016,Barrow,0-0,0-0,Gateshead
+Mon Dec 26 2016,Braintree Town,3-2,2-1,Dag and Red
+Mon Dec 26 2016,Bromley,1-0,0-0,Sutton
+Mon Dec 26 2016,Dover Athletic,1-1,1-0,Maidstone
+Mon Dec 26 2016,Guiseley,2-1,1-1,Lincoln
+Mon Dec 26 2016,North Ferriby,0-1,0-1,York
+Mon Dec 26 2016,Solihull,3-2,1-1,Chester
+Mon Dec 26 2016,Torquay,4-3,0-0,Forest Green
+Mon Dec 26 2016,Tranmere,1-0,0-0,Macclesfield
+Mon Dec 26 2016,Wrexham,1-0,0-0,Southport
+Tue Dec 27 2016,Eastleigh,2-2,1-0,Boreham Wood
+Sat Dec 31 2016,Boreham Wood,0-1,0-0,Eastleigh
+Sat Dec 31 2016,Gateshead,4-1,2-1,Barrow
+Sun Jan 1 2017,Chester,0-3,0-1,Solihull
+Sun Jan 1 2017,Forest Green,5-5,2-3,Torquay
+Sun Jan 1 2017,Lincoln,3-1,0-1,Guiseley
+Sun Jan 1 2017,Macclesfield,4-2,1-2,Tranmere
+Sun Jan 1 2017,Maidstone,1-4,0-1,Dover Athletic
+Sun Jan 1 2017,Southport,3-2,2-1,Wrexham
+Sun Jan 1 2017,Sutton,2-0,1-0,Bromley
+Sun Jan 1 2017,Woking,1-2,0-0,Aldershot
+Sun Jan 1 2017,York,0-1,0-1,North Ferriby
+Mon Jan 2 2017,Dag and Red,3-0,2-0,Braintree Town
+Sat Jan 7 2017,Aldershot,2-1,1-0,Southport
+Sat Jan 7 2017,Braintree Town,1-2,1-0,Chester
+Sat Jan 7 2017,Bromley,1-5,0-2,Forest Green
+Sat Jan 7 2017,Dover Athletic,2-2,1-1,York
+Sat Jan 7 2017,Guiseley,2-1,1-0,Maidstone
+Sat Jan 7 2017,North Ferriby,0-4,0-3,Dag and Red
+Sat Jan 7 2017,Solihull,0-2,0-1,Gateshead
+Sat Jan 7 2017,Torquay,0-1,0-0,Boreham Wood
+Sat Jan 7 2017,Wrexham,2-1,0-0,Woking
+Tue Jan 10 2017,Barrow,0-1,0-1,Southport
+Tue Jan 10 2017,Braintree Town,1-0,1-0,Sutton
+Tue Jan 10 2017,Eastleigh,1-1,1-1,Forest Green
+Tue Jan 10 2017,Macclesfield,2-1,0-1,Dover Athletic
+Sat Jan 14 2017,Torquay,1-2,0-2,Woking
+Sat Jan 14 2017,Wrexham,1-0,1-0,North Ferriby
+Fri Jan 20 2017,Lincoln,2-0,1-0,Dover Athletic
+Sat Jan 21 2017,Boreham Wood,0-0,0-0,Solihull
+Sat Jan 21 2017,Chester,1-1,0-0,Wrexham
+Sat Jan 21 2017,Forest Green,1-1,0-1,Braintree Town
+Sat Jan 21 2017,Gateshead,1-1,1-1,Aldershot
+Sat Jan 21 2017,Macclesfield,1-2,1-1,Guiseley
+Sat Jan 21 2017,Maidstone,2-1,0-0,Torquay
+Sat Jan 21 2017,Southport,2-4,0-1,North Ferriby
+Sat Jan 21 2017,Sutton,1-1,0-1,Eastleigh
+Sat Jan 21 2017,York,2-1,1-0,Barrow
+Tue Jan 24 2017,Barrow,3-0,1-0,Lincoln
+Sat Jan 28 2017,Aldershot,0-0,0-0,York
+Sat Jan 28 2017,Barrow,2-3,1-1,Forest Green
+Sat Jan 28 2017,Bromley,3-1,1-1,Southport
+Sat Jan 28 2017,Dover Athletic,3-1,1-1,Chester
+Sat Jan 28 2017,Eastleigh,0-1,0-1,Woking
+Sat Jan 28 2017,North Ferriby,0-2,0-2,Macclesfield
+Sat Jan 28 2017,Solihull,2-0,2-0,Maidstone
+Sat Jan 28 2017,Torquay,3-1,1-0,Gateshead
+Sat Jan 28 2017,Tranmere,0-2,0-1,Dag and Red
+Sat Jan 28 2017,Wrexham,2-1,1-0,Boreham Wood
+Tue Jan 31 2017,Solihull,0-1,0-0,Lincoln
+Tue Jan 31 2017,Woking,0-3,0-0,Tranmere
+Sat Feb 4 2017,Bromley,1-0,1-0,Torquay
+Sat Feb 4 2017,Dag and Red,3-2,1-0,Chester
+Sat Feb 4 2017,Gateshead,3-0,2-0,Southport
+Sat Feb 4 2017,Maidstone,0-2,0-1,Aldershot
+Sat Feb 4 2017,Wrexham,3-1,1-1,Guiseley
+Sat Feb 11 2017,Aldershot,2-2,2-0,Barrow
+Sat Feb 11 2017,Braintree Town,1-0,0-0,North Ferriby
+Sat Feb 11 2017,Chester,1-2,1-1,Gateshead
+Sat Feb 11 2017,Dover Athletic,1-1,0-0,Wrexham
+Sat Feb 11 2017,Forest Green,2-0,0-0,Boreham Wood
+Sat Feb 11 2017,Guiseley,1-1,0-1,Eastleigh
+Sat Feb 11 2017,Lincoln,3-2,1-1,Woking
+Sat Feb 11 2017,Solihull,3-0,2-0,Sutton
+Sat Feb 11 2017,Southport,1-4,1-3,Dag and Red
+Sat Feb 11 2017,Torquay,1-1,0-1,Macclesfield
+Sat Feb 11 2017,Tranmere,2-2,2-0,Bromley
+Sat Feb 11 2017,York,1-1,1-0,Maidstone
+Tue Feb 14 2017,Eastleigh,0-2,0-1,Braintree Town
+Tue Feb 14 2017,Guiseley,2-1,1-1,Sutton
+Tue Feb 14 2017,Woking,2-1,1-0,Solihull
+Wed Feb 15 2017,Macclesfield,0-1,0-0,Barrow
+Sat Feb 18 2017,Barrow,0-0,0-0,Torquay
+Sat Feb 18 2017,Boreham Wood,1-1,1-1,York
+Sat Feb 18 2017,Bromley,0-1,0-1,Solihull
+Sat Feb 18 2017,Dag and Red,1-2,0-1,Guiseley
+Sat Feb 18 2017,Eastleigh,0-2,0-0,Tranmere
+Sat Feb 18 2017,Gateshead,3-1,2-0,Forest Green
+Sat Feb 18 2017,Macclesfield,2-0,0-0,Braintree Town
+Sat Feb 18 2017,Maidstone,4-2,4-0,Chester
+Sat Feb 18 2017,North Ferriby,1-2,0-0,Dover Athletic
+Sat Feb 18 2017,Woking,0-0,0-0,Southport
+Sat Feb 18 2017,Wrexham,0-2,0-0,Aldershot
+Tue Feb 21 2017,Dag and Red,2-1,1-1,Bromley
+Tue Feb 21 2017,Eastleigh,0-1,0-1,Macclesfield
+Tue Feb 21 2017,North Ferriby,0-1,0-1,Lincoln
+Tue Feb 21 2017,Tranmere,2-1,2-0,Boreham Wood
+Tue Feb 21 2017,York,1-3,1-2,Gateshead
+Sat Feb 25 2017,Aldershot,4-0,2-0,Bromley
+Sat Feb 25 2017,Braintree Town,0-0,0-0,Maidstone
+Sat Feb 25 2017,Dover Athletic,3-0,1-0,Eastleigh
+Sat Feb 25 2017,Forest Green,4-3,1-1,Woking
+Sat Feb 25 2017,Guiseley,1-2,1-0,North Ferriby
+Sat Feb 25 2017,Solihull,0-1,0-1,Wrexham
+Sat Feb 25 2017,Southport,0-1,0-0,Chester
+Sat Feb 25 2017,Torquay,2-3,1-1,Sutton
+Tue Feb 28 2017,Bromley,0-5,0-3,Braintree Town
+Tue Feb 28 2017,Dag and Red,0-2,0-1,Maidstone
+Tue Feb 28 2017,Eastleigh,1-1,0-1,Aldershot
+Tue Feb 28 2017,Guiseley,1-0,1-0,Barrow
+Tue Feb 28 2017,Lincoln,1-1,0-1,York
+Tue Feb 28 2017,Sutton,1-0,1-0,Boreham Wood
+Tue Feb 28 2017,Woking,1-0,0-0,Dover Athletic
+Fri Mar 3 2017,Chester,2-3,1-0,Tranmere
+Sat Mar 4 2017,Aldershot,0-0,0-0,Lincoln
+Sat Mar 4 2017,Barrow,0-0,0-0,Sutton
+Sat Mar 4 2017,Boreham Wood,0-0,0-0,Bromley
+Sat Mar 4 2017,Braintree Town,1-2,1-1,Wrexham
+Sat Mar 4 2017,Dover Athletic,0-0,0-0,Solihull
+Sat Mar 4 2017,Forest Green,3-0,1-0,Macclesfield
+Sat Mar 4 2017,Gateshead,1-0,0-0,Dag and Red
+Sat Mar 4 2017,Maidstone,4-2,2-1,Southport
+Sat Mar 4 2017,North Ferriby,2-1,1-1,Woking
+Sat Mar 4 2017,Torquay,1-2,1-0,Guiseley
+Sat Mar 4 2017,York,3-1,2-1,Eastleigh
+Tue Mar 7 2017,Barrow,2-1,0-1,Tranmere
+Tue Mar 7 2017,Braintree Town,0-4,0-2,Lincoln
+Sat Mar 11 2017,Bromley,3-0,1-0,North Ferriby
+Sat Mar 11 2017,Dag and Red,2-1,0-0,Forest Green
+Sat Mar 11 2017,Eastleigh,2-0,1-0,Barrow
+Sat Mar 11 2017,Guiseley,1-0,0-0,Aldershot
+Sat Mar 11 2017,Solihull,3-3,1-3,Braintree Town
+Sat Mar 11 2017,Southport,1-2,0-1,Torquay
+Sat Mar 11 2017,Sutton,2-2,0-0,York
+Sat Mar 11 2017,Woking,0-0,0-0,Boreham Wood
+Sat Mar 11 2017,Wrexham,0-2,0-0,Gateshead
+Tue Mar 14 2017,Boreham Wood,5-0,0-0,Dover Athletic
+Tue Mar 14 2017,Macclesfield,1-1,0-0,Gateshead
+Tue Mar 14 2017,Sutton,1-2,0-2,Forest Green
+Tue Mar 14 2017,Torquay,0-0,0-0,Tranmere
+Sat Mar 18 2017,Aldershot,2-0,1-0,Sutton
+Sat Mar 18 2017,Barrow,2-1,1-1,Dag and Red
+Sat Mar 18 2017,Boreham Wood,0-0,0-0,Guiseley
+Sat Mar 18 2017,Braintree Town,2-0,1-0,Southport
+Sat Mar 18 2017,Chester,0-1,0-0,Eastleigh
+Sat Mar 18 2017,Dover Athletic,1-0,0-0,Bromley
+Sat Mar 18 2017,Forest Green,3-0,1-0,Wrexham
+Sat Mar 18 2017,Gateshead,2-1,0-1,Woking
+Sat Mar 18 2017,North Ferriby,1-4,1-1,Solihull
+Tue Mar 21 2017,Aldershot,3-1,2-0,Dag and Red
+Tue Mar 21 2017,Barrow,1-1,0-0,Wrexham
+Tue Mar 21 2017,Boreham Wood,2-0,0-0,Lincoln
+Tue Mar 21 2017,Braintree Town,1-3,1-2,Woking
+Tue Mar 21 2017,Chester,2-3,1-2,Macclesfield
+Tue Mar 21 2017,Forest Green,2-1,1-0,Solihull
+Tue Mar 21 2017,Gateshead,1-1,0-1,Guiseley
+Tue Mar 21 2017,Maidstone,1-1,0-0,Sutton
+Tue Mar 21 2017,North Ferriby,1-4,1-2,Tranmere
+Tue Mar 21 2017,Torquay,2-3,0-1,Eastleigh
+Tue Mar 21 2017,York,5-3,2-3,Southport
+Sat Mar 25 2017,Bromley,0-1,0-0,Chester
+Sat Mar 25 2017,Dag and Red,1-0,0-0,York
+Sat Mar 25 2017,Eastleigh,1-1,0-0,Gateshead
+Sat Mar 25 2017,Guiseley,0-4,0-1,Dover Athletic
+Sat Mar 25 2017,Lincoln,3-1,0-1,Forest Green
+Sat Mar 25 2017,Macclesfield,0-2,0-0,Aldershot
+Sat Mar 25 2017,Solihull,2-4,0-3,Barrow
+Sat Mar 25 2017,Southport,1-0,0-0,Boreham Wood
+Sat Mar 25 2017,Sutton,5-1,3-0,North Ferriby
+Sat Mar 25 2017,Tranmere,1-0,0-0,Braintree Town
+Sat Mar 25 2017,Woking,2-4,2-1,Maidstone
+Sat Mar 25 2017,Wrexham,1-1,0-0,Torquay
+Tue Mar 28 2017,Chester,1-2,0-1,Barrow
+Tue Mar 28 2017,Macclesfield,1-3,0-2,York
+Tue Mar 28 2017,Solihull,0-1,0-0,Torquay
+Tue Mar 28 2017,Sutton,1-1,0-0,Lincoln
+Tue Mar 28 2017,Tranmere,1-0,0-0,Dover Athletic
+Sat Apr 1 2017,Boreham Wood,2-4,1-4,Macclesfield
+Sat Apr 1 2017,Dag and Red,4-0,3-0,Eastleigh
+Sat Apr 1 2017,Dover Athletic,2-0,1-0,Gateshead
+Sat Apr 1 2017,Forest Green,0-1,0-0,North Ferriby
+Sat Apr 1 2017,Lincoln,1-0,0-0,Bromley
+Sat Apr 1 2017,Maidstone,2-1,1-1,Barrow
+Sat Apr 1 2017,Solihull,0-2,0-1,Aldershot
+Sat Apr 1 2017,Southport,0-1,0-0,Guiseley
+Sat Apr 1 2017,Torquay,0-1,0-0,Chester
+Sat Apr 1 2017,Woking,2-1,1-0,Sutton
+Sat Apr 1 2017,Wrexham,0-1,0-1,Tranmere
+Sat Apr 1 2017,York,3-0,2-0,Braintree Town
+Mon Apr 3 2017,Lincoln,2-0,0-0,Dag and Red
+Tue Apr 4 2017,Southport,1-2,1-2,Macclesfield
+Tue Apr 4 2017,Tranmere,3-2,1-0,Sutton
+Tue Apr 4 2017,York,0-2,0-1,Bromley
+Sat Apr 8 2017,Aldershot,1-1,0-1,Torquay
+Sat Apr 8 2017,Barrow,2-2,0-1,Woking
+Sat Apr 8 2017,Braintree Town,1-2,1-0,Dover Athletic
+Sat Apr 8 2017,Bromley,4-3,2-0,Wrexham
+Sat Apr 8 2017,Chester,0-2,0-1,York
+Sat Apr 8 2017,Eastleigh,0-1,0-0,Lincoln
+Sat Apr 8 2017,Gateshead,1-2,1-0,Maidstone
+Sat Apr 8 2017,Guiseley,0-1,0-1,Forest Green
+Sat Apr 8 2017,Macclesfield,1-4,1-1,Dag and Red
+Sat Apr 8 2017,North Ferriby,2-4,0-2,Boreham Wood
+Sat Apr 8 2017,Sutton,2-2,1-0,Southport
+Sat Apr 8 2017,Tranmere,9-0,3-0,Solihull
+Tue Apr 11 2017,Lincoln,1-0,1-0,Chester
+Tue Apr 11 2017,Macclesfield,3-0,1-0,Maidstone
+Tue Apr 11 2017,Tranmere,0-1,0-0,Forest Green
+Fri Apr 14 2017,Boreham Wood,1-3,1-1,Dag and Red
+Fri Apr 14 2017,Braintree Town,2-0,0-0,Guiseley
+Fri Apr 14 2017,Bromley,4-1,3-1,Barrow
+Fri Apr 14 2017,Dover Athletic,3-0,1-0,Southport
+Fri Apr 14 2017,Forest Green,2-0,0-0,Chester
+Fri Apr 14 2017,Lincoln,2-1,0-0,Torquay
+Fri Apr 14 2017,North Ferriby,2-1,1-0,Eastleigh
+Fri Apr 14 2017,Solihull,1-2,1-2,York
+Fri Apr 14 2017,Sutton,3-0,1-0,Gateshead
+Fri Apr 14 2017,Tranmere,2-2,2-2,Aldershot
+Fri Apr 14 2017,Woking,1-0,0-0,Macclesfield
+Fri Apr 14 2017,Wrexham,1-3,1-1,Maidstone
+Mon Apr 17 2017,Aldershot,1-0,0-0,Dover Athletic
+Mon Apr 17 2017,Barrow,3-1,3-1,North Ferriby
+Mon Apr 17 2017,Chester,2-3,0-0,Woking
+Mon Apr 17 2017,Dag and Red,2-2,2-0,Sutton
+Mon Apr 17 2017,Eastleigh,2-1,1-0,Bromley
+Mon Apr 17 2017,Gateshead,1-2,1-0,Lincoln
+Mon Apr 17 2017,Guiseley,1-2,1-0,Tranmere
+Mon Apr 17 2017,Macclesfield,1-3,0-0,Solihull
+Mon Apr 17 2017,Maidstone,1-0,0-0,Boreham Wood
+Mon Apr 17 2017,Southport,2-0,0-0,Forest Green
+Mon Apr 17 2017,Torquay,3-1,1-1,Braintree Town
+Mon Apr 17 2017,York,1-3,1-1,Wrexham
+Sat Apr 22 2017,Boreham Wood,0-4,0-2,Gateshead
+Sat Apr 22 2017,Braintree Town,0-2,0-0,Barrow
+Sat Apr 22 2017,Bromley,1-1,1-0,Guiseley
+Sat Apr 22 2017,Dover Athletic,1-2,0-1,Torquay
+Sat Apr 22 2017,Forest Green,2-2,1-0,Maidstone
+Sat Apr 22 2017,Lincoln,2-1,1-1,Macclesfield
+Sat Apr 22 2017,North Ferriby,0-3,0-1,Aldershot
+Sat Apr 22 2017,Solihull,2-0,2-0,Eastleigh
+Sat Apr 22 2017,Sutton,5-2,3-0,Chester
+Sat Apr 22 2017,Tranmere,4-1,1-0,Southport
+Sat Apr 22 2017,Woking,1-1,0-0,York
+Sat Apr 22 2017,Wrexham,0-1,0-1,Dag and Red
+Tue Apr 25 2017,Dover Athletic,2-2,1-1,Macclesfield
+Tue Apr 25 2017,Maidstone,0-0,0-0,Lincoln
+Sat Apr 29 2017,Aldershot,2-0,0-0,Braintree Town
+Sat Apr 29 2017,Barrow,2-3,1-1,Dover Athletic
+Sat Apr 29 2017,Chester,0-2,0-1,Boreham Wood
+Sat Apr 29 2017,Dag and Red,1-1,0-1,Woking
+Sat Apr 29 2017,Eastleigh,1-1,0-0,Wrexham
+Sat Apr 29 2017,Gateshead,0-2,0-0,Bromley
+Sat Apr 29 2017,Guiseley,1-1,0-1,Solihull
+Sat Apr 29 2017,Macclesfield,0-0,0-0,Sutton
+Sat Apr 29 2017,Maidstone,0-1,0-0,Tranmere
+Sat Apr 29 2017,Southport,1-1,0-1,Lincoln
+Sat Apr 29 2017,Torquay,2-0,0-0,North Ferriby
+Sat Apr 29 2017,York,2-2,1-2,Forest Green

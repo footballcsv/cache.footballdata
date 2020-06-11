@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 6 2005,Crewe,2-1,1-0,Burnley
+Sat Aug 6 2005,Crystal Palace,1-2,0-1,Luton
+Sat Aug 6 2005,Derby,1-1,1-1,Brighton
+Sat Aug 6 2005,Hull,0-0,0-0,QPR
+Sat Aug 6 2005,Ipswich,1-0,0-0,Cardiff
+Sat Aug 6 2005,Norwich,1-1,1-0,Coventry
+Sat Aug 6 2005,Reading,1-2,0-1,Plymouth
+Sat Aug 6 2005,Sheffield United,4-1,1-0,Leicester
+Sat Aug 6 2005,Southampton,0-0,0-0,Wolves
+Sat Aug 6 2005,Stoke,0-0,0-0,Sheffield Weds
+Sat Aug 6 2005,Watford,1-2,1-2,Preston
+Sun Aug 7 2005,Leeds,2-1,1-0,Millwall
+Mon Aug 8 2005,Preston,1-1,1-1,Derby
+Tue Aug 9 2005,Brighton,0-2,0-1,Reading
+Tue Aug 9 2005,Burnley,1-2,0-2,Sheffield United
+Tue Aug 9 2005,Cardiff,2-1,0-1,Leeds
+Tue Aug 9 2005,Leicester,4-2,1-0,Stoke
+Tue Aug 9 2005,Luton,3-2,1-2,Southampton
+Tue Aug 9 2005,Millwall,0-0,0-0,Coventry
+Tue Aug 9 2005,Norwich,1-1,0-1,Crewe
+Tue Aug 9 2005,Plymouth,3-3,3-1,Watford
+Tue Aug 9 2005,QPR,2-1,2-0,Ipswich
+Tue Aug 9 2005,Sheffield Weds,1-1,1-1,Hull
+Tue Aug 9 2005,Wolves,2-1,1-1,Crystal Palace
+Fri Aug 12 2005,Cardiff,1-3,0-1,Watford
+Sat Aug 13 2005,Brighton,2-2,1-0,Crewe
+Sat Aug 13 2005,Burnley,4-0,2-0,Coventry
+Sat Aug 13 2005,Leicester,0-0,0-0,Ipswich
+Sat Aug 13 2005,Luton,0-0,0-0,Leeds
+Sat Aug 13 2005,Millwall,0-1,0-1,Stoke
+Sat Aug 13 2005,Norwich,1-1,1-1,Crystal Palace
+Sat Aug 13 2005,Plymouth,0-2,0-2,Derby
+Sat Aug 13 2005,Preston,0-3,0-1,Reading
+Sat Aug 13 2005,QPR,2-1,0-0,Sheffield United
+Sat Aug 13 2005,Sheffield Weds,0-1,0-1,Southampton
+Sat Aug 13 2005,Wolves,1-0,1-0,Hull
+Sat Aug 20 2005,Coventry,3-0,3-0,QPR
+Sat Aug 20 2005,Crewe,2-2,2-1,Leicester
+Sat Aug 20 2005,Crystal Palace,1-0,0-0,Plymouth
+Sat Aug 20 2005,Derby,2-1,2-0,Cardiff
+Sat Aug 20 2005,Hull,2-0,1-0,Brighton
+Sat Aug 20 2005,Ipswich,2-1,1-0,Sheffield Weds
+Sat Aug 20 2005,Leeds,2-0,1-0,Wolves
+Sat Aug 20 2005,Reading,5-0,4-0,Millwall
+Sat Aug 20 2005,Sheffield United,2-1,1-1,Preston
+Sat Aug 20 2005,Southampton,1-0,1-0,Norwich
+Sat Aug 20 2005,Stoke,2-1,0-1,Luton
+Sat Aug 20 2005,Watford,3-1,2-1,Burnley
+Fri Aug 26 2005,QPR,0-0,0-0,Sheffield Weds
+Sat Aug 27 2005,Burnley,2-2,0-1,Derby
+Sat Aug 27 2005,Cardiff,2-2,1-0,Wolves
+Sat Aug 27 2005,Crystal Palace,2-0,1-0,Stoke
+Sat Aug 27 2005,Leicester,0-2,0-1,Luton
+Sat Aug 27 2005,Millwall,1-2,0-1,Ipswich
+Sat Aug 27 2005,Norwich,0-1,0-0,Leeds
+Sat Aug 27 2005,Plymouth,0-1,0-0,Hull
+Sat Aug 27 2005,Preston,0-0,0-0,Brighton
+Sat Aug 27 2005,Sheffield United,2-1,1-1,Coventry
+Sat Aug 27 2005,Southampton,2-0,1-0,Crewe
+Sat Aug 27 2005,Watford,0-0,0-0,Reading
+Mon Aug 29 2005,Brighton,2-0,1-0,Plymouth
+Mon Aug 29 2005,Coventry,1-1,1-1,Southampton
+Mon Aug 29 2005,Crewe,1-3,1-1,Sheffield United
+Mon Aug 29 2005,Derby,1-2,1-0,Watford
+Mon Aug 29 2005,Hull,1-1,0-0,Leicester
+Mon Aug 29 2005,Ipswich,0-4,0-3,Preston
+Mon Aug 29 2005,Luton,2-1,1-0,Millwall
+Mon Aug 29 2005,Reading,2-1,1-1,Burnley
+Mon Aug 29 2005,Stoke,3-1,2-1,Norwich
+Tue Aug 30 2005,Wolves,3-1,2-1,QPR
+Sat Sep 10 2005,Burnley,3-3,2-2,Cardiff
+Sat Sep 10 2005,Coventry,1-1,0-0,Reading
+Sat Sep 10 2005,Crystal Palace,2-0,1-0,Hull
+Sat Sep 10 2005,Leeds,3-3,0-1,Brighton
+Sat Sep 10 2005,Leicester,2-0,2-0,Sheffield Weds
+Sat Sep 10 2005,Luton,1-1,0-1,Wolves
+Sat Sep 10 2005,Millwall,1-2,0-1,Preston
+Sat Sep 10 2005,Norwich,2-0,2-0,Plymouth
+Sat Sep 10 2005,Sheffield United,2-0,1-0,Ipswich
+Sat Sep 10 2005,Southampton,1-1,1-1,QPR
+Sat Sep 10 2005,Stoke,0-3,0-1,Watford
+Sun Sep 11 2005,Crewe,1-1,1-0,Derby
+Tue Sep 13 2005,Brighton,0-1,0-1,Sheffield United
+Tue Sep 13 2005,Cardiff,1-0,1-0,Leicester
+Tue Sep 13 2005,Hull,0-1,0-0,Stoke
+Tue Sep 13 2005,Ipswich,2-2,1-0,Southampton
+Tue Sep 13 2005,Plymouth,1-1,1-1,Crewe
+Tue Sep 13 2005,Preston,0-0,0-0,Burnley
+Tue Sep 13 2005,QPR,1-0,0-0,Luton
+Tue Sep 13 2005,Reading,3-2,1-1,Crystal Palace
+Tue Sep 13 2005,Sheffield Weds,1-0,1-0,Leeds
+Tue Sep 13 2005,Watford,2-1,2-0,Norwich
+Tue Sep 13 2005,Wolves,1-2,1-1,Millwall
+Wed Sep 14 2005,Derby,1-1,1-0,Coventry
+Fri Sep 16 2005,Preston,0-1,0-0,Stoke
+Sat Sep 17 2005,Brighton,2-2,0-1,Coventry
+Sat Sep 17 2005,Cardiff,1-0,1-0,Crystal Palace
+Sat Sep 17 2005,Hull,0-1,0-0,Luton
+Sat Sep 17 2005,Plymouth,1-0,0-0,Burnley
+Sat Sep 17 2005,QPR,0-1,0-1,Leeds
+Sat Sep 17 2005,Reading,1-0,0-0,Crewe
+Sat Sep 17 2005,Sheffield Weds,1-2,0-0,Millwall
+Sat Sep 17 2005,Watford,2-3,1-0,Sheffield United
+Sat Sep 17 2005,Wolves,0-0,0-0,Leicester
+Sun Sep 18 2005,Derby,2-2,0-0,Southampton
+Sun Sep 18 2005,Ipswich,0-1,0-0,Norwich
+Fri Sep 23 2005,Luton,2-2,1-1,Sheffield Weds
+Sat Sep 24 2005,Burnley,1-1,1-1,Brighton
+Sat Sep 24 2005,Coventry,0-2,0-1,Hull
+Sat Sep 24 2005,Crewe,0-0,0-0,Watford
+Sat Sep 24 2005,Crystal Palace,1-1,0-1,Preston
+Sat Sep 24 2005,Leeds,0-2,0-1,Ipswich
+Sat Sep 24 2005,Leicester,1-2,0-1,QPR
+Sat Sep 24 2005,Millwall,0-0,0-0,Cardiff
+Sat Sep 24 2005,Norwich,0-1,0-0,Reading
+Sat Sep 24 2005,Sheffield United,2-1,2-0,Derby
+Sat Sep 24 2005,Southampton,0-0,0-0,Plymouth
+Sat Sep 24 2005,Stoke,1-3,0-1,Wolves
+Tue Sep 27 2005,Burnley,3-0,1-0,Ipswich
+Tue Sep 27 2005,Crewe,0-4,0-4,Wolves
+Tue Sep 27 2005,Crystal Palace,2-0,1-0,Sheffield Weds
+Tue Sep 27 2005,Leicester,0-0,0-0,Brighton
+Tue Sep 27 2005,Luton,3-0,3-0,Preston
+Tue Sep 27 2005,Millwall,1-1,1-1,QPR
+Tue Sep 27 2005,Norwich,2-1,2-1,Hull
+Tue Sep 27 2005,Sheffield United,2-0,2-0,Plymouth
+Tue Sep 27 2005,Stoke,0-3,0-3,Cardiff
+Wed Sep 28 2005,Coventry,3-1,2-0,Watford
+Wed Sep 28 2005,Leeds,3-1,3-0,Derby
+Wed Sep 28 2005,Southampton,0-0,0-0,Reading
+Fri Sep 30 2005,Hull,1-1,0-0,Millwall
+Fri Sep 30 2005,Wolves,0-1,0-1,Burnley
+Sat Oct 1 2005,Brighton,1-3,0-2,Norwich
+Sat Oct 1 2005,Cardiff,1-2,1-1,Luton
+Sat Oct 1 2005,Derby,1-1,0-0,Leicester
+Sat Oct 1 2005,Ipswich,2-1,0-1,Crewe
+Sat Oct 1 2005,Plymouth,2-1,0-0,Stoke
+Sat Oct 1 2005,Preston,1-1,0-1,Southampton
+Sat Oct 1 2005,Reading,2-1,1-1,Sheffield United
+Sat Oct 1 2005,Sheffield Weds,3-2,2-1,Coventry
+Sat Oct 1 2005,Watford,0-0,0-0,Leeds
+Mon Oct 3 2005,QPR,1-3,1-2,Crystal Palace
+Sat Oct 15 2005,Brighton,1-2,0-1,Cardiff
+Sat Oct 15 2005,Burnley,1-2,0-0,Leeds
+Sat Oct 15 2005,Coventry,1-4,1-2,Crystal Palace
+Sat Oct 15 2005,Crewe,3-1,1-1,Luton
+Sat Oct 15 2005,Derby,2-1,1-0,Stoke
+Sat Oct 15 2005,Norwich,1-1,0-1,Millwall
+Sat Oct 15 2005,Plymouth,1-1,0-1,Sheffield Weds
+Sat Oct 15 2005,Preston,1-1,0-0,QPR
+Sat Oct 15 2005,Sheffield United,1-0,1-0,Wolves
+Sat Oct 15 2005,Southampton,1-1,1-0,Hull
+Sat Oct 15 2005,Watford,1-2,0-1,Leicester
+Sun Oct 16 2005,Reading,2-0,1-0,Ipswich
+Tue Oct 18 2005,Cardiff,2-2,1-0,Preston
+Tue Oct 18 2005,Crystal Palace,0-1,0-0,Brighton
+Tue Oct 18 2005,Hull,1-1,0-0,Reading
+Tue Oct 18 2005,Ipswich,2-2,2-1,Coventry
+Tue Oct 18 2005,Leeds,2-1,2-1,Southampton
+Tue Oct 18 2005,Leicester,0-1,0-0,Burnley
+Tue Oct 18 2005,Luton,4-2,4-0,Norwich
+Tue Oct 18 2005,Millwall,0-4,0-2,Sheffield United
+Tue Oct 18 2005,QPR,1-1,0-1,Plymouth
+Tue Oct 18 2005,Sheffield Weds,1-1,0-0,Watford
+Tue Oct 18 2005,Stoke,2-0,1-0,Crewe
+Tue Oct 18 2005,Wolves,1-1,1-0,Derby
+Fri Oct 21 2005,Leeds,1-1,0-0,Sheffield United
+Sat Oct 22 2005,Cardiff,6-1,1-1,Crewe
+Sat Oct 22 2005,Crystal Palace,2-0,1-0,Burnley
+Sat Oct 22 2005,Hull,2-1,1-0,Derby
+Sat Oct 22 2005,Ipswich,0-1,0-0,Watford
+Sat Oct 22 2005,Luton,1-1,0-0,Plymouth
+Sat Oct 22 2005,Millwall,0-2,0-2,Southampton
+Sat Oct 22 2005,QPR,3-0,3-0,Norwich
+Sat Oct 22 2005,Stoke,0-1,0-0,Reading
+Sat Oct 22 2005,Wolves,1-1,0-1,Preston
+Sun Oct 23 2005,Leicester,2-1,1-1,Coventry
+Mon Oct 24 2005,Sheffield Weds,1-1,0-0,Brighton
+Fri Oct 28 2005,Burnley,1-0,1-0,Hull
+Sat Oct 29 2005,Brighton,1-1,1-1,Ipswich
+Sat Oct 29 2005,Coventry,1-0,0-0,Luton
+Sat Oct 29 2005,Crewe,2-2,1-0,Crystal Palace
+Sat Oct 29 2005,Derby,1-2,0-1,QPR
+Sat Oct 29 2005,Norwich,0-1,0-0,Sheffield Weds
+Sat Oct 29 2005,Preston,0-0,0-0,Leicester
+Sat Oct 29 2005,Reading,1-1,0-0,Leeds
+Sat Oct 29 2005,Sheffield United,0-0,0-0,Cardiff
+Sat Oct 29 2005,Southampton,2-0,1-0,Stoke
+Sat Oct 29 2005,Watford,3-1,0-0,Wolves
+Sun Oct 30 2005,Plymouth,0-0,0-0,Millwall
+Tue Nov 1 2005,Brighton,1-1,1-0,Wolves
+Tue Nov 1 2005,Burnley,2-1,0-1,Millwall
+Tue Nov 1 2005,Crewe,1-0,1-0,Leeds
+Tue Nov 1 2005,Norwich,1-0,0-0,Cardiff
+Tue Nov 1 2005,Preston,3-0,0-0,Hull
+Tue Nov 1 2005,Reading,2-0,1-0,Sheffield Weds
+Tue Nov 1 2005,Sheffield United,4-0,1-0,Luton
+Tue Nov 1 2005,Watford,3-1,1-0,QPR
+Wed Nov 2 2005,Coventry,1-2,1-1,Stoke
+Wed Nov 2 2005,Derby,3-3,2-2,Ipswich
+Sat Nov 5 2005,Crystal Palace,2-3,1-2,Sheffield United
+Sat Nov 5 2005,Hull,1-2,1-2,Watford
+Sat Nov 5 2005,Ipswich,3-1,2-0,Plymouth
+Sat Nov 5 2005,Leeds,0-0,0-0,Preston
+Sat Nov 5 2005,Leicester,0-0,0-0,Southampton
+Sat Nov 5 2005,Luton,2-3,1-2,Burnley
+Sat Nov 5 2005,Millwall,1-3,1-1,Crewe
+Sat Nov 5 2005,QPR,1-2,0-1,Reading
+Sat Nov 5 2005,Sheffield Weds,2-1,0-1,Derby
+Sat Nov 5 2005,Stoke,3-0,1-0,Brighton
+Sat Nov 5 2005,Wolves,2-0,2-0,Norwich
+Sun Nov 6 2005,Cardiff,0-0,0-0,Coventry
+Wed Nov 9 2005,Sheffield Weds,1-3,0-3,Cardiff
+Fri Nov 18 2005,Derby,0-3,0-0,Wolves
+Sat Nov 19 2005,Burnley,1-0,1-0,Leicester
+Sat Nov 19 2005,Coventry,1-1,0-0,Ipswich
+Sat Nov 19 2005,Crewe,1-2,0-1,Stoke
+Sat Nov 19 2005,Norwich,2-0,2-0,Luton
+Sat Nov 19 2005,Plymouth,3-1,2-0,QPR
+Sat Nov 19 2005,Preston,2-1,2-0,Cardiff
+Sat Nov 19 2005,Reading,3-1,1-0,Hull
+Sat Nov 19 2005,Sheffield United,2-2,1-1,Millwall
+Sat Nov 19 2005,Southampton,3-4,3-0,Leeds
+Sat Nov 19 2005,Watford,2-1,2-0,Sheffield Weds
+Sun Nov 20 2005,Brighton,2-3,1-1,Crystal Palace
+Tue Nov 22 2005,Cardiff,1-1,0-0,Brighton
+Tue Nov 22 2005,Crystal Palace,2-0,2-0,Coventry
+Tue Nov 22 2005,Hull,1-1,1-1,Southampton
+Tue Nov 22 2005,Ipswich,0-3,0-1,Reading
+Tue Nov 22 2005,Leeds,2-0,0-0,Burnley
+Tue Nov 22 2005,Leicester,2-2,2-1,Watford
+Tue Nov 22 2005,Luton,4-1,0-0,Crewe
+Tue Nov 22 2005,Millwall,1-0,0-0,Norwich
+Tue Nov 22 2005,QPR,0-2,0-0,Preston
+Tue Nov 22 2005,Sheffield Weds,0-0,0-0,Plymouth
+Tue Nov 22 2005,Stoke,1-2,1-0,Derby
+Tue Nov 22 2005,Wolves,0-0,0-0,Sheffield United
+Sat Nov 26 2005,Brighton,0-0,0-0,Derby
+Sat Nov 26 2005,Burnley,3-0,1-0,Crewe
+Sat Nov 26 2005,Coventry,2-2,2-1,Norwich
+Sat Nov 26 2005,Leicester,4-2,2-0,Sheffield United
+Sat Nov 26 2005,Luton,2-0,2-0,Crystal Palace
+Sat Nov 26 2005,Millwall,0-1,0-0,Leeds
+Sat Nov 26 2005,Plymouth,0-2,0-1,Reading
+Sat Nov 26 2005,Preston,1-1,1-1,Watford
+Sat Nov 26 2005,QPR,2-2,0-1,Hull
+Sat Nov 26 2005,Sheffield Weds,0-2,0-1,Stoke
+Sat Nov 26 2005,Wolves,0-0,0-0,Southampton
+Mon Nov 28 2005,Cardiff,2-1,1-0,Ipswich
+Sat Dec 3 2005,Coventry,3-1,2-1,Plymouth
+Sat Dec 3 2005,Crewe,0-2,0-2,Preston
+Sat Dec 3 2005,Crystal Palace,1-1,0-1,Millwall
+Sat Dec 3 2005,Derby,2-0,1-0,Norwich
+Sat Dec 3 2005,Hull,2-0,0-0,Cardiff
+Sat Dec 3 2005,Ipswich,1-1,0-0,Wolves
+Sat Dec 3 2005,Leeds,2-1,1-0,Leicester
+Sat Dec 3 2005,Reading,3-0,1-0,Luton
+Sat Dec 3 2005,Sheffield United,1-0,1-0,Sheffield Weds
+Sat Dec 3 2005,Southampton,1-1,1-0,Burnley
+Sat Dec 3 2005,Stoke,1-2,1-1,QPR
+Sat Dec 3 2005,Watford,1-1,1-0,Brighton
+Fri Dec 9 2005,Stoke,3-2,1-1,Leicester
+Sat Dec 10 2005,Coventry,1-0,1-0,Millwall
+Sat Dec 10 2005,Crewe,1-2,1-0,Norwich
+Sat Dec 10 2005,Crystal Palace,1-1,1-1,Wolves
+Sat Dec 10 2005,Derby,1-1,0-0,Preston
+Sat Dec 10 2005,Hull,1-0,0-0,Sheffield Weds
+Sat Dec 10 2005,Ipswich,2-2,1-2,QPR
+Sat Dec 10 2005,Leeds,0-1,0-1,Cardiff
+Sat Dec 10 2005,Reading,5-1,1-0,Brighton
+Sat Dec 10 2005,Sheffield United,3-0,2-0,Burnley
+Sat Dec 10 2005,Watford,1-1,0-0,Plymouth
+Sun Dec 11 2005,Southampton,1-0,1-0,Luton
+Fri Dec 16 2005,Brighton,2-1,2-1,Hull
+Fri Dec 16 2005,Preston,0-0,0-0,Sheffield United
+Sat Dec 17 2005,Burnley,4-1,2-0,Watford
+Sat Dec 17 2005,Cardiff,0-0,0-0,Derby
+Sat Dec 17 2005,Leicester,1-1,0-1,Crewe
+Sat Dec 17 2005,Luton,2-3,1-1,Stoke
+Sat Dec 17 2005,Millwall,0-2,0-1,Reading
+Sat Dec 17 2005,Norwich,3-1,1-1,Southampton
+Sat Dec 17 2005,Plymouth,2-0,1-0,Crystal Palace
+Sat Dec 17 2005,Sheffield Weds,0-1,0-0,Ipswich
+Sat Dec 17 2005,Wolves,1-0,1-0,Leeds
+Mon Dec 19 2005,QPR,0-1,0-0,Coventry
+Mon Dec 26 2005,Brighton,1-0,1-0,QPR
+Mon Dec 26 2005,Burnley,1-0,0-0,Stoke
+Mon Dec 26 2005,Cardiff,0-2,0-0,Plymouth
+Mon Dec 26 2005,Crewe,2-2,2-1,Hull
+Mon Dec 26 2005,Derby,1-1,0-0,Luton
+Mon Dec 26 2005,Ipswich,0-2,0-1,Crystal Palace
+Mon Dec 26 2005,Leeds,3-1,1-0,Coventry
+Mon Dec 26 2005,Leicester,1-1,0-1,Millwall
+Mon Dec 26 2005,Preston,0-0,0-0,Sheffield Weds
+Mon Dec 26 2005,Sheffield United,1-3,1-1,Norwich
+Mon Dec 26 2005,Watford,3-0,2-0,Southampton
+Mon Dec 26 2005,Wolves,0-2,0-1,Reading
+Wed Dec 28 2005,Coventry,1-1,1-0,Crewe
+Wed Dec 28 2005,Crystal Palace,2-0,2-0,Derby
+Wed Dec 28 2005,Hull,2-0,0-0,Ipswich
+Wed Dec 28 2005,Luton,3-0,2-0,Brighton
+Wed Dec 28 2005,Millwall,0-0,0-0,Watford
+Wed Dec 28 2005,Norwich,2-1,2-0,Burnley
+Wed Dec 28 2005,QPR,1-0,0-0,Cardiff
+Wed Dec 28 2005,Reading,2-0,0-0,Leicester
+Wed Dec 28 2005,Sheffield Weds,0-2,0-1,Wolves
+Wed Dec 28 2005,Southampton,0-1,0-0,Sheffield United
+Wed Dec 28 2005,Stoke,0-1,0-0,Leeds
+Sat Dec 31 2005,Brighton,1-2,1-0,Millwall
+Sat Dec 31 2005,Burnley,1-2,0-1,Sheffield Weds
+Sat Dec 31 2005,Cardiff,2-1,2-1,Southampton
+Sat Dec 31 2005,Crewe,3-4,3-2,QPR
+Sat Dec 31 2005,Derby,2-2,1-1,Reading
+Sat Dec 31 2005,Ipswich,1-0,0-0,Luton
+Sat Dec 31 2005,Leeds,2-0,1-0,Hull
+Sat Dec 31 2005,Leicester,0-1,0-0,Norwich
+Sat Dec 31 2005,Preston,3-1,3-0,Coventry
+Sat Dec 31 2005,Sheffield United,2-1,1-0,Stoke
+Sat Dec 31 2005,Watford,1-2,0-1,Crystal Palace
+Sat Dec 31 2005,Wolves,1-1,1-1,Plymouth
+Mon Jan 2 2006,Coventry,2-0,2-0,Wolves
+Mon Jan 2 2006,Crystal Palace,2-0,0-0,Leicester
+Mon Jan 2 2006,Luton,1-2,0-2,Watford
+Mon Jan 2 2006,Millwall,2-1,0-0,Derby
+Mon Jan 2 2006,Norwich,0-3,0-1,Preston
+Mon Jan 2 2006,Plymouth,0-3,0-0,Leeds
+Mon Jan 2 2006,QPR,1-1,1-1,Burnley
+Mon Jan 2 2006,Reading,5-1,2-0,Cardiff
+Mon Jan 2 2006,Sheffield Weds,3-0,1-0,Crewe
+Mon Jan 2 2006,Southampton,2-1,1-1,Brighton
+Mon Jan 2 2006,Stoke,2-2,1-2,Ipswich
+Tue Jan 3 2006,Hull,1-3,1-2,Sheffield United
+Fri Jan 13 2006,Wolves,2-1,0-0,Luton
+Sat Jan 14 2006,Brighton,2-1,1-1,Leeds
+Sat Jan 14 2006,Cardiff,3-0,0-0,Burnley
+Sat Jan 14 2006,Derby,5-1,2-0,Crewe
+Sat Jan 14 2006,Hull,1-2,1-2,Crystal Palace
+Sat Jan 14 2006,Ipswich,1-1,0-0,Sheffield United
+Sat Jan 14 2006,Plymouth,1-1,1-0,Norwich
+Sat Jan 14 2006,Preston,2-0,1-0,Millwall
+Sat Jan 14 2006,QPR,1-0,1-0,Southampton
+Sat Jan 14 2006,Reading,2-0,0-0,Coventry
+Sat Jan 14 2006,Sheffield Weds,2-1,2-1,Leicester
+Mon Jan 16 2006,Watford,1-0,0-0,Stoke
+Fri Jan 20 2006,Crystal Palace,1-1,0-0,Reading
+Sat Jan 21 2006,Burnley,0-2,0-1,Preston
+Sat Jan 21 2006,Coventry,6-1,1-1,Derby
+Sat Jan 21 2006,Crewe,1-2,0-2,Plymouth
+Sat Jan 21 2006,Leeds,3-0,0-0,Sheffield Weds
+Sat Jan 21 2006,Leicester,1-2,1-1,Cardiff
+Sat Jan 21 2006,Luton,2-0,1-0,QPR
+Sat Jan 21 2006,Millwall,0-0,0-0,Wolves
+Sat Jan 21 2006,Norwich,2-3,1-0,Watford
+Sat Jan 21 2006,Sheffield United,3-1,0-0,Brighton
+Sat Jan 21 2006,Southampton,0-2,0-1,Ipswich
+Sat Jan 21 2006,Stoke,0-3,0-1,Hull
+Tue Jan 24 2006,Plymouth,1-0,0-0,Leicester
+Wed Jan 25 2006,Southampton,0-0,0-0,Crystal Palace
+Sat Jan 28 2006,Watford,4-1,2-0,Crewe
+Tue Jan 31 2006,Brighton,0-0,0-0,Burnley
+Tue Jan 31 2006,Cardiff,1-1,1-0,Millwall
+Tue Jan 31 2006,Hull,1-2,1-0,Coventry
+Tue Jan 31 2006,Ipswich,1-1,0-0,Leeds
+Tue Jan 31 2006,Plymouth,2-1,1-0,Southampton
+Tue Jan 31 2006,Preston,2-0,1-0,Crystal Palace
+Tue Jan 31 2006,QPR,2-3,1-1,Leicester
+Tue Jan 31 2006,Reading,4-0,2-0,Norwich
+Tue Jan 31 2006,Sheffield Weds,0-2,0-0,Luton
+Wed Feb 1 2006,Derby,0-1,0-1,Sheffield United
+Sat Feb 4 2006,Burnley,1-0,1-0,Plymouth
+Sat Feb 4 2006,Coventry,2-0,1-0,Brighton
+Sat Feb 4 2006,Crewe,3-4,1-3,Reading
+Sat Feb 4 2006,Crystal Palace,1-0,0-0,Cardiff
+Sat Feb 4 2006,Leeds,2-0,1-0,QPR
+Sat Feb 4 2006,Leicester,1-0,0-0,Wolves
+Sat Feb 4 2006,Luton,2-3,1-3,Hull
+Sat Feb 4 2006,Millwall,0-1,0-0,Sheffield Weds
+Sat Feb 4 2006,Southampton,0-0,0-0,Derby
+Sat Feb 4 2006,Stoke,0-0,0-0,Preston
+Sun Feb 5 2006,Norwich,1-2,1-1,Ipswich
+Mon Feb 6 2006,Sheffield United,1-4,0-1,Watford
+Fri Feb 10 2006,Reading,2-0,2-0,Southampton
+Sat Feb 11 2006,Brighton,1-2,0-2,Leicester
+Sat Feb 11 2006,Cardiff,3-0,2-0,Stoke
+Sat Feb 11 2006,Derby,0-0,0-0,Leeds
+Sat Feb 11 2006,Hull,1-1,1-0,Norwich
+Sat Feb 11 2006,Ipswich,2-1,0-1,Burnley
+Sat Feb 11 2006,Plymouth,0-0,0-0,Sheffield United
+Sat Feb 11 2006,Preston,5-1,1-0,Luton
+Sat Feb 11 2006,QPR,1-0,0-0,Millwall
+Sat Feb 11 2006,Sheffield Weds,0-0,0-0,Crystal Palace
+Sat Feb 11 2006,Watford,4-0,1-0,Coventry
+Sat Feb 11 2006,Wolves,1-1,1-1,Crewe
+Tue Feb 14 2006,Burnley,0-1,0-1,Wolves
+Tue Feb 14 2006,Crewe,1-2,1-1,Ipswich
+Tue Feb 14 2006,Crystal Palace,2-1,2-0,QPR
+Tue Feb 14 2006,Leeds,2-1,0-1,Watford
+Tue Feb 14 2006,Leicester,2-2,1-1,Derby
+Tue Feb 14 2006,Luton,3-3,2-0,Cardiff
+Tue Feb 14 2006,Millwall,1-1,0-0,Hull
+Tue Feb 14 2006,Norwich,3-0,1-0,Brighton
+Tue Feb 14 2006,Sheffield United,1-1,1-1,Reading
+Tue Feb 14 2006,Stoke,0-0,0-0,Plymouth
+Wed Feb 15 2006,Coventry,2-1,1-0,Sheffield Weds
+Wed Feb 15 2006,Southampton,0-0,0-0,Preston
+Fri Feb 17 2006,Luton,3-2,2-1,Reading
+Sat Feb 18 2006,Brighton,0-1,0-1,Watford
+Sat Feb 18 2006,Cardiff,1-0,1-0,Hull
+Sat Feb 18 2006,Leicester,1-1,1-1,Leeds
+Sat Feb 18 2006,Millwall,1-1,0-0,Crystal Palace
+Sat Feb 18 2006,Norwich,2-0,1-0,Derby
+Sat Feb 18 2006,Plymouth,3-1,2-0,Coventry
+Sat Feb 18 2006,Sheffield Weds,1-2,0-2,Sheffield United
+Sat Feb 18 2006,Wolves,1-0,0-0,Ipswich
+Sat Feb 25 2006,Coventry,1-0,0-0,Burnley
+Sat Feb 25 2006,Crewe,2-1,0-1,Brighton
+Sat Feb 25 2006,Crystal Palace,4-1,2-0,Norwich
+Sat Feb 25 2006,Derby,1-0,1-0,Plymouth
+Sat Feb 25 2006,Hull,2-3,0-1,Wolves
+Sat Feb 25 2006,Ipswich,2-0,0-0,Leicester
+Sat Feb 25 2006,Leeds,2-1,0-0,Luton
+Sat Feb 25 2006,Reading,2-1,2-1,Preston
+Sat Feb 25 2006,Sheffield United,2-3,2-1,QPR
+Sat Feb 25 2006,Southampton,3-0,1-0,Sheffield Weds
+Sat Feb 25 2006,Stoke,2-1,1-1,Millwall
+Sat Feb 25 2006,Watford,2-1,0-0,Cardiff
+Fri Mar 3 2006,Sheffield United,0-0,0-0,Crewe
+Sat Mar 4 2006,Burnley,0-3,0-1,Reading
+Sat Mar 4 2006,Cardiff,1-0,1-0,Sheffield Weds
+Sat Mar 4 2006,Crystal Palace,1-2,0-1,Leeds
+Sat Mar 4 2006,Leicester,3-2,1-1,Hull
+Sat Mar 4 2006,Millwall,2-1,1-0,Luton
+Sat Mar 4 2006,Norwich,2-1,0-0,Stoke
+Sat Mar 4 2006,Plymouth,1-0,1-0,Brighton
+Sat Mar 4 2006,QPR,0-0,0-0,Wolves
+Sat Mar 4 2006,Southampton,1-1,0-0,Coventry
+Sat Mar 4 2006,Watford,2-2,1-1,Derby
+Tue Mar 7 2006,Plymouth,0-0,0-0,Preston
+Tue Mar 7 2006,Wolves,0-0,0-0,Stoke
+Sat Mar 11 2006,Brighton,0-0,0-0,Preston
+Sat Mar 11 2006,Coventry,2-0,2-0,Sheffield United
+Sat Mar 11 2006,Crewe,1-1,0-0,Southampton
+Sat Mar 11 2006,Derby,3-0,3-0,Burnley
+Sat Mar 11 2006,Hull,1-0,0-0,Plymouth
+Sat Mar 11 2006,Ipswich,1-1,1-0,Millwall
+Sat Mar 11 2006,Leeds,2-2,1-0,Norwich
+Sat Mar 11 2006,Luton,1-2,0-1,Leicester
+Sat Mar 11 2006,Reading,0-0,0-0,Watford
+Sat Mar 11 2006,Sheffield Weds,1-1,1-1,QPR
+Sat Mar 11 2006,Wolves,2-0,1-0,Cardiff
+Mon Mar 13 2006,Stoke,1-3,0-1,Crystal Palace
+Tue Mar 14 2006,Preston,3-1,0-1,Ipswich
+Sat Mar 18 2006,Coventry,1-1,1-0,Leeds
+Sat Mar 18 2006,Crystal Palace,2-2,1-1,Ipswich
+Sat Mar 18 2006,Hull,1-0,1-0,Crewe
+Sat Mar 18 2006,Luton,1-0,0-0,Derby
+Sat Mar 18 2006,Millwall,0-1,0-1,Leicester
+Sat Mar 18 2006,Norwich,2-1,2-1,Sheffield United
+Sat Mar 18 2006,Plymouth,0-1,0-1,Cardiff
+Sat Mar 18 2006,QPR,1-1,1-0,Brighton
+Sat Mar 18 2006,Reading,1-1,1-0,Wolves
+Sat Mar 18 2006,Sheffield Weds,2-0,1-0,Preston
+Sat Mar 18 2006,Stoke,1-0,0-0,Burnley
+Mon Mar 20 2006,Southampton,1-3,0-1,Watford
+Tue Mar 21 2006,Leeds,0-1,0-1,Crystal Palace
+Fri Mar 24 2006,Burnley,2-0,1-0,Norwich
+Sat Mar 25 2006,Brighton,1-1,1-0,Luton
+Sat Mar 25 2006,Cardiff,0-0,0-0,QPR
+Sat Mar 25 2006,Crewe,4-1,3-1,Coventry
+Sat Mar 25 2006,Derby,2-1,1-1,Crystal Palace
+Sat Mar 25 2006,Ipswich,1-1,1-0,Hull
+Sat Mar 25 2006,Leeds,0-0,0-0,Stoke
+Sat Mar 25 2006,Leicester,1-1,1-0,Reading
+Sat Mar 25 2006,Preston,0-0,0-0,Plymouth
+Sat Mar 25 2006,Sheffield United,3-0,2-0,Southampton
+Sat Mar 25 2006,Watford,0-2,0-0,Millwall
+Sat Mar 25 2006,Wolves,1-3,0-1,Sheffield Weds
+Tue Mar 28 2006,Burnley,1-1,1-1,Southampton
+Tue Mar 28 2006,Preston,1-0,1-0,Crewe
+Wed Mar 29 2006,QPR,1-2,1-0,Stoke
+Fri Mar 31 2006,Crystal Palace,3-1,0-1,Watford
+Sat Apr 1 2006,Coventry,0-1,0-1,Preston
+Sat Apr 1 2006,Hull,1-0,0-0,Leeds
+Sat Apr 1 2006,Luton,1-0,0-0,Ipswich
+Sat Apr 1 2006,Millwall,0-2,0-2,Brighton
+Sat Apr 1 2006,Norwich,2-1,1-0,Leicester
+Sat Apr 1 2006,Plymouth,2-0,1-0,Wolves
+Sat Apr 1 2006,QPR,1-2,0-1,Crewe
+Sat Apr 1 2006,Reading,5-0,0-0,Derby
+Sat Apr 1 2006,Sheffield Weds,0-0,0-0,Burnley
+Sat Apr 1 2006,Southampton,3-2,0-0,Cardiff
+Sat Apr 1 2006,Stoke,1-1,1-0,Sheffield United
+Fri Apr 7 2006,Leicester,2-0,1-0,Crystal Palace
+Sat Apr 8 2006,Brighton,0-2,0-1,Southampton
+Sat Apr 8 2006,Burnley,1-0,0-0,QPR
+Sat Apr 8 2006,Cardiff,2-5,0-2,Reading
+Sat Apr 8 2006,Crewe,2-0,2-0,Sheffield Weds
+Sat Apr 8 2006,Derby,1-0,1-0,Millwall
+Sat Apr 8 2006,Ipswich,1-4,0-0,Stoke
+Sat Apr 8 2006,Leeds,0-0,0-0,Plymouth
+Sat Apr 8 2006,Preston,2-0,2-0,Norwich
+Sat Apr 8 2006,Sheffield United,3-2,1-0,Hull
+Sat Apr 8 2006,Wolves,2-2,2-1,Coventry
+Sun Apr 9 2006,Watford,1-1,1-0,Luton
+Fri Apr 14 2006,Cardiff,0-1,0-0,Sheffield United
+Fri Apr 14 2006,Wolves,1-1,1-0,Watford
+Sat Apr 15 2006,Crystal Palace,2-2,2-0,Crewe
+Sat Apr 15 2006,Hull,0-0,0-0,Burnley
+Sat Apr 15 2006,Ipswich,1-2,0-1,Brighton
+Sat Apr 15 2006,Leeds,1-1,0-0,Reading
+Sat Apr 15 2006,Leicester,1-2,1-1,Preston
+Sat Apr 15 2006,Luton,1-2,0-2,Coventry
+Sat Apr 15 2006,Millwall,1-1,1-1,Plymouth
+Sat Apr 15 2006,QPR,1-1,0-0,Derby
+Sat Apr 15 2006,Sheffield Weds,1-0,1-0,Norwich
+Sat Apr 15 2006,Stoke,1-2,0-2,Southampton
+Mon Apr 17 2006,Brighton,0-2,0-1,Sheffield Weds
+Mon Apr 17 2006,Burnley,0-0,0-0,Crystal Palace
+Mon Apr 17 2006,Coventry,1-1,1-1,Leicester
+Mon Apr 17 2006,Crewe,1-1,0-0,Cardiff
+Mon Apr 17 2006,Derby,1-1,0-1,Hull
+Mon Apr 17 2006,Norwich,3-2,0-1,QPR
+Mon Apr 17 2006,Plymouth,1-2,0-0,Luton
+Mon Apr 17 2006,Preston,2-0,1-0,Wolves
+Mon Apr 17 2006,Reading,3-1,1-0,Stoke
+Mon Apr 17 2006,Southampton,2-0,1-0,Millwall
+Mon Apr 17 2006,Watford,2-1,1-0,Ipswich
+Tue Apr 18 2006,Sheffield United,1-1,1-1,Leeds
+Sat Apr 22 2006,Cardiff,0-1,0-1,Norwich
+Sat Apr 22 2006,Crystal Palace,2-1,0-0,Southampton
+Sat Apr 22 2006,Hull,1-1,1-1,Preston
+Sat Apr 22 2006,Ipswich,2-0,0-0,Derby
+Sat Apr 22 2006,Leeds,1-0,0-0,Crewe
+Sat Apr 22 2006,Leicester,1-0,0-0,Plymouth
+Sat Apr 22 2006,Luton,1-1,0-0,Sheffield United
+Sat Apr 22 2006,Millwall,1-0,1-0,Burnley
+Sat Apr 22 2006,QPR,1-2,1-1,Watford
+Sat Apr 22 2006,Sheffield Weds,1-1,0-1,Reading
+Sat Apr 22 2006,Stoke,0-1,0-0,Coventry
+Sat Apr 22 2006,Wolves,1-0,1-0,Brighton
+Sun Apr 30 2006,Brighton,1-5,0-3,Stoke
+Sun Apr 30 2006,Burnley,1-1,0-1,Luton
+Sun Apr 30 2006,Coventry,3-1,1-1,Cardiff
+Sun Apr 30 2006,Crewe,4-2,1-1,Millwall
+Sun Apr 30 2006,Derby,0-2,0-1,Sheffield Weds
+Sun Apr 30 2006,Norwich,1-2,0-1,Wolves
+Sun Apr 30 2006,Plymouth,2-1,1-1,Ipswich
+Sun Apr 30 2006,Preston,2-0,1-0,Leeds
+Sun Apr 30 2006,Reading,2-1,1-0,QPR
+Sun Apr 30 2006,Sheffield United,1-0,0-0,Crystal Palace
+Sun Apr 30 2006,Southampton,2-0,2-0,Leicester
+Sun Apr 30 2006,Watford,0-0,0-0,Hull

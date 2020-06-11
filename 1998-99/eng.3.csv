@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 8 1998,Bournemouth,2-0,?,Lincoln
+Sat Aug 8 1998,Burnley,2-1,?,Bristol Rvs
+Sat Aug 8 1998,Colchester,1-0,?,Chesterfield
+Sat Aug 8 1998,Gillingham,0-1,?,Walsall
+Sat Aug 8 1998,Macclesfield,0-1,?,Fulham
+Sat Aug 8 1998,Man City,3-0,?,Blackpool
+Sat Aug 8 1998,Northampton,1-3,?,Stoke
+Sat Aug 8 1998,Oldham,1-3,?,Notts County
+Sat Aug 8 1998,Preston,3-0,?,York
+Sat Aug 8 1998,Wigan,0-1,?,Millwall
+Sat Aug 8 1998,Wrexham,3-0,?,Reading
+Sat Aug 8 1998,Wycombe,0-1,?,Luton
+Fri Aug 14 1998,Fulham,3-0,?,Man City
+Sat Aug 15 1998,Blackpool,3-0,?,Oldham
+Sat Aug 15 1998,Bristol Rvs,4-1,?,Reading
+Sat Aug 15 1998,Chesterfield,1-0,?,Burnley
+Sat Aug 15 1998,Lincoln,1-0,?,Wigan
+Sat Aug 15 1998,Luton,1-1,?,Preston
+Sat Aug 15 1998,Millwall,2-1,?,Wycombe
+Sat Aug 15 1998,Notts County,1-2,?,Bournemouth
+Sat Aug 15 1998,Stoke,2-0,?,Macclesfield
+Sat Aug 15 1998,Walsall,0-0,?,Northampton
+Sat Aug 15 1998,Wrexham,2-4,?,Colchester
+Sat Aug 15 1998,York,1-1,?,Gillingham
+Sat Aug 22 1998,Bournemouth,3-0,?,Millwall
+Sat Aug 22 1998,Burnley,0-1,?,York
+Sat Aug 22 1998,Colchester,0-1,?,Fulham
+Sat Aug 22 1998,Gillingham,0-0,?,Bristol Rvs
+Sat Aug 22 1998,Macclesfield,0-0,?,Lincoln
+Sat Aug 22 1998,Man City,0-0,?,Wrexham
+Sat Aug 22 1998,Northampton,1-1,?,Notts County
+Sat Aug 22 1998,Oldham,2-0,?,Chesterfield
+Sat Aug 22 1998,Preston,3-4,?,Stoke
+Sat Aug 22 1998,Reading,3-0,?,Luton
+Sat Aug 22 1998,Wigan,3-0,?,Blackpool
+Sat Aug 22 1998,Wycombe,1-2,?,Walsall
+Sat Aug 29 1998,Blackpool,2-2,?,Gillingham
+Sat Aug 29 1998,Bristol Rvs,3-2,?,Wigan
+Sat Aug 29 1998,Chesterfield,1-0,?,Reading
+Sat Aug 29 1998,Fulham,0-0,?,Bournemouth
+Sat Aug 29 1998,Lincoln,3-4,?,Preston
+Sat Aug 29 1998,Luton,2-0,?,Colchester
+Sat Aug 29 1998,Millwall,0-0,?,Macclesfield
+Sat Aug 29 1998,Notts County,1-1,?,Man City
+Sat Aug 29 1998,Stoke,2-0,?,Oldham
+Sat Aug 29 1998,Walsall,3-1,?,Burnley
+Sat Aug 29 1998,Wrexham,1-0,?,Northampton
+Sat Aug 29 1998,York,3-0,?,Wycombe
+Mon Aug 31 1998,Colchester,0-1,?,Stoke
+Mon Aug 31 1998,Macclesfield,0-1,?,Notts County
+Mon Aug 31 1998,Northampton,0-0,?,Lincoln
+Mon Aug 31 1998,Oldham,1-1,?,Fulham
+Mon Aug 31 1998,Preston,2-0,?,Chesterfield
+Mon Aug 31 1998,Wigan,1-3,?,Luton
+Mon Aug 31 1998,Wycombe,1-1,?,Bristol Rvs
+Tue Sep 1 1998,Bournemouth,1-1,?,Blackpool
+Tue Sep 1 1998,Burnley,2-1,?,Millwall
+Tue Sep 1 1998,Gillingham,4-0,?,Wrexham
+Wed Sep 2 1998,Man City,3-1,?,Walsall
+Sat Sep 5 1998,Blackpool,2-1,?,Northampton
+Sat Sep 5 1998,Bristol Rvs,2-2,?,Preston
+Sat Sep 5 1998,Chesterfield,1-0,?,Gillingham
+Sat Sep 5 1998,Lincoln,1-3,?,Oldham
+Sat Sep 5 1998,Luton,1-0,?,Burnley
+Sat Sep 5 1998,Notts County,0-1,?,Wigan
+Sat Sep 5 1998,Stoke,2-0,?,Bournemouth
+Sat Sep 5 1998,Wrexham,2-1,?,Macclesfield
+Sat Sep 5 1998,York,1-2,?,Colchester
+Tue Sep 8 1998,Blackpool,1-0,?,Notts County
+Tue Sep 8 1998,Bristol Rvs,0-0,?,Chesterfield
+Tue Sep 8 1998,Fulham,1-0,?,Stoke
+Tue Sep 8 1998,Gillingham,2-3,?,Northampton
+Tue Sep 8 1998,Man City,2-1,?,Bournemouth
+Tue Sep 8 1998,Oldham,1-2,?,Macclesfield
+Tue Sep 8 1998,Walsall,2-3,?,York
+Tue Sep 8 1998,Wigan,1-1,?,Colchester
+Tue Sep 8 1998,Wrexham,1-1,?,Luton
+Tue Sep 8 1998,Wycombe,0-1,?,Preston
+Wed Sep 9 1998,Millwall,2-0,?,Lincoln
+Wed Sep 9 1998,Reading,1-1,?,Burnley
+Sat Sep 12 1998,Bournemouth,1-0,?,Wigan
+Sat Sep 12 1998,Burnley,1-1,?,Wycombe
+Sat Sep 12 1998,Chesterfield,0-1,?,Walsall
+Sat Sep 12 1998,Colchester,1-1,?,Gillingham
+Sat Sep 12 1998,Lincoln,1-2,?,Blackpool
+Sat Sep 12 1998,Luton,2-0,?,Bristol Rvs
+Sat Sep 12 1998,Macclesfield,0-1,?,Man City
+Sat Sep 12 1998,Northampton,1-1,?,Oldham
+Sat Sep 12 1998,Notts County,1-0,?,Fulham
+Sat Sep 12 1998,Preston,4-0,?,Reading
+Sat Sep 12 1998,Stoke,1-0,?,Millwall
+Sat Sep 12 1998,York,1-1,?,Wrexham
+Fri Sep 18 1998,Walsall,3-2,?,Notts County
+Sat Sep 19 1998,Blackpool,1-0,?,Luton
+Sat Sep 19 1998,Bristol Rvs,3-0,?,Lincoln
+Sat Sep 19 1998,Fulham,3-3,?,York
+Sat Sep 19 1998,Gillingham,2-1,?,Burnley
+Sat Sep 19 1998,Man City,1-1,?,Chesterfield
+Sat Sep 19 1998,Millwall,2-1,?,Northampton
+Sat Sep 19 1998,Oldham,0-1,?,Preston
+Sat Sep 19 1998,Reading,1-1,?,Colchester
+Sat Sep 19 1998,Wigan,2-0,?,Macclesfield
+Sat Sep 19 1998,Wrexham,0-1,?,Stoke
+Sat Sep 19 1998,Wycombe,0-2,?,Bournemouth
+Sun Sep 27 1998,Bournemouth,2-0,?,Oldham
+Sun Sep 27 1998,Burnley,1-1,?,Wigan
+Sun Sep 27 1998,Chesterfield,2-1,?,Wrexham
+Sun Sep 27 1998,Colchester,2-1,?,Wycombe
+Sun Sep 27 1998,Lincoln,1-2,?,Fulham
+Sun Sep 27 1998,Luton,0-1,?,Walsall
+Sun Sep 27 1998,Macclesfield,2-1,?,Reading
+Sun Sep 27 1998,Northampton,2-2,?,Man City
+Sun Sep 27 1998,Notts County,3-1,?,Millwall
+Sun Sep 27 1998,Preston,1-1,?,Gillingham
+Sun Sep 27 1998,Stoke,1-3,?,Blackpool
+Sun Sep 27 1998,York,1-0,?,Bristol Rvs
+Sat Oct 3 1998,Blackpool,1-2,?,York
+Sat Oct 3 1998,Bristol Rvs,1-0,?,Bournemouth
+Sat Oct 3 1998,Fulham,1-3,?,Luton
+Sat Oct 3 1998,Gillingham,2-2,?,Macclesfield
+Sat Oct 3 1998,Man City,2-2,?,Burnley
+Sat Oct 3 1998,Millwall,0-0,?,Chesterfield
+Sat Oct 3 1998,Oldham,1-0,?,Colchester
+Sat Oct 3 1998,Reading,2-1,?,Stoke
+Sat Oct 3 1998,Walsall,1-0,?,Preston
+Sat Oct 3 1998,Wigan,1-0,?,Northampton
+Sat Oct 3 1998,Wrexham,2-1,?,Lincoln
+Sat Oct 3 1998,Wycombe,1-1,?,Notts County
+Mon Oct 5 1998,Fulham,2-0,?,Wycombe
+Mon Oct 5 1998,Millwall,1-1,?,Man City
+Mon Oct 5 1998,Walsall,0-2,?,Reading
+Fri Oct 9 1998,Colchester,0-4,?,Burnley
+Fri Oct 9 1998,Oldham,2-3,?,Wigan
+Sat Oct 10 1998,Blackpool,2-3,?,Millwall
+Sat Oct 10 1998,Gillingham,3-0,?,Wycombe
+Sat Oct 10 1998,Macclesfield,2-2,?,Bournemouth
+Sat Oct 10 1998,Northampton,3-1,?,Bristol Rvs
+Sat Oct 10 1998,Notts County,2-3,?,Lincoln
+Sat Oct 10 1998,Wrexham,2-1,?,Walsall
+Sat Oct 10 1998,York,3-3,?,Luton
+Mon Oct 12 1998,Man City,0-1,?,Preston
+Mon Oct 12 1998,Stoke,0-0,?,Chesterfield
+Sat Oct 17 1998,Bournemouth,1-1,?,Northampton
+Sat Oct 17 1998,Bristol Rvs,0-0,?,Wrexham
+Sat Oct 17 1998,Burnley,1-1,?,Notts County
+Sat Oct 17 1998,Chesterfield,2-1,?,York
+Sat Oct 17 1998,Lincoln,1-2,?,Stoke
+Sat Oct 17 1998,Luton,2-0,?,Oldham
+Sat Oct 17 1998,Millwall,0-1,?,Fulham
+Sat Oct 17 1998,Preston,2-0,?,Colchester
+Sat Oct 17 1998,Reading,0-0,?,Gillingham
+Sat Oct 17 1998,Walsall,1-0,?,Blackpool
+Sat Oct 17 1998,Wigan,0-1,?,Man City
+Sat Oct 17 1998,Wycombe,3-0,?,Macclesfield
+Tue Oct 20 1998,Bournemouth,3-3,?,Gillingham
+Tue Oct 20 1998,Bristol Rvs,1-0,?,Stoke
+Tue Oct 20 1998,Burnley,1-0,?,Oldham
+Tue Oct 20 1998,Chesterfield,3-0,?,Notts County
+Tue Oct 20 1998,Lincoln,2-1,?,Man City
+Tue Oct 20 1998,Luton,1-0,?,Northampton
+Tue Oct 20 1998,Preston,2-2,?,Macclesfield
+Tue Oct 20 1998,Walsall,1-1,?,Colchester
+Tue Oct 20 1998,Wycombe,3-0,?,Wrexham
+Wed Oct 21 1998,Millwall,3-1,?,York
+Wed Oct 21 1998,Reading,1-1,?,Blackpool
+Sat Oct 24 1998,Fulham,4-1,?,Walsall
+Sat Oct 24 1998,Gillingham,1-0,?,Luton
+Sat Oct 24 1998,Macclesfield,2-1,?,Burnley
+Sat Oct 24 1998,Man City,0-1,?,Reading
+Sat Oct 24 1998,Northampton,1-1,?,Preston
+Sat Oct 24 1998,Notts County,1-1,?,Bristol Rvs
+Sat Oct 24 1998,Oldham,0-0,?,Wycombe
+Sat Oct 24 1998,Stoke,2-1,?,Wigan
+Sat Oct 24 1998,Wrexham,0-0,?,Millwall
+Sat Oct 31 1998,Blackpool,2-3,?,Fulham
+Sat Oct 31 1998,Bristol Rvs,3-4,?,Walsall
+Sat Oct 31 1998,Burnley,2-1,?,Wrexham
+Sat Oct 31 1998,Lincoln,1-2,?,Gillingham
+Sat Oct 31 1998,Macclesfield,0-1,?,Northampton
+Sat Oct 31 1998,Man City,2-1,?,Colchester
+Sat Oct 31 1998,Millwall,1-1,?,Oldham
+Sat Oct 31 1998,Notts County,1-0,?,Stoke
+Sat Oct 31 1998,Wigan,5-0,?,York
+Sat Oct 31 1998,Wycombe,2-3,?,Reading
+Wed Nov 4 1998,Reading,1-0,?,York
+Fri Nov 6 1998,Colchester,1-1,?,Macclesfield
+Sat Nov 7 1998,Chesterfield,3-0,?,Lincoln
+Sat Nov 7 1998,Fulham,1-0,?,Bristol Rvs
+Sat Nov 7 1998,Gillingham,2-0,?,Wigan
+Sat Nov 7 1998,Northampton,1-1,?,Wycombe
+Sat Nov 7 1998,Oldham,0-3,?,Man City
+Sat Nov 7 1998,Preston,4-1,?,Burnley
+Sat Nov 7 1998,Reading,3-3,?,Bournemouth
+Sat Nov 7 1998,Stoke,3-1,?,Luton
+Sat Nov 7 1998,Walsall,3-0,?,Millwall
+Sat Nov 7 1998,Wrexham,1-1,?,Blackpool
+Sat Nov 7 1998,York,1-1,?,Notts County
+Tue Nov 10 1998,Bristol Rvs,0-2,?,Blackpool
+Tue Nov 10 1998,Burnley,0-2,?,Stoke
+Tue Nov 10 1998,Chesterfield,3-1,?,Bournemouth
+Tue Nov 10 1998,Colchester,1-0,?,Northampton
+Tue Nov 10 1998,Gillingham,2-1,?,Oldham
+Tue Nov 10 1998,Preston,0-1,?,Millwall
+Tue Nov 10 1998,Walsall,2-1,?,Lincoln
+Tue Nov 10 1998,Wrexham,0-2,?,Fulham
+Tue Nov 10 1998,Wycombe,1-0,?,Man City
+Tue Nov 10 1998,York,0-2,?,Macclesfield
+Wed Nov 11 1998,Reading,0-1,?,Wigan
+Sat Nov 21 1998,Blackpool,0-0,?,Preston
+Sat Nov 21 1998,Bournemouth,5-0,?,Burnley
+Sat Nov 21 1998,Fulham,2-1,?,Chesterfield
+Sat Nov 21 1998,Lincoln,2-2,?,Luton
+Sat Nov 21 1998,Macclesfield,1-1,?,Walsall
+Sat Nov 21 1998,Man City,0-0,?,Gillingham
+Sat Nov 21 1998,Millwall,1-1,?,Bristol Rvs
+Sat Nov 21 1998,Northampton,0-1,?,Reading
+Sat Nov 21 1998,Notts County,1-3,?,Colchester
+Sat Nov 21 1998,Oldham,3-2,?,Wrexham
+Sat Nov 21 1998,Stoke,2-0,?,York
+Sat Nov 21 1998,Wigan,0-0,?,Wycombe
+Sat Nov 28 1998,Bristol Rvs,2-2,?,Oldham
+Sat Nov 28 1998,Burnley,1-0,?,Blackpool
+Sat Nov 28 1998,Chesterfield,2-0,?,Macclesfield
+Sat Nov 28 1998,Colchester,0-0,?,Millwall
+Sat Nov 28 1998,Gillingham,1-0,?,Fulham
+Sat Nov 28 1998,Luton,1-1,?,Man City
+Sat Nov 28 1998,Preston,2-2,?,Wigan
+Sat Nov 28 1998,Reading,2-1,?,Lincoln
+Sat Nov 28 1998,Walsall,1-0,?,Bournemouth
+Sat Nov 28 1998,Wrexham,1-0,?,Notts County
+Sat Nov 28 1998,Wycombe,0-1,?,Stoke
+Sat Nov 28 1998,York,1-1,?,Northampton
+Tue Dec 1 1998,Wigan,2-0,?,Fulham
+Sat Dec 5 1998,Blackpool,1-1,?,Chesterfield
+Tue Dec 8 1998,York,2-1,?,Lincoln
+Sat Dec 12 1998,Blackpool,0-0,?,Wycombe
+Sat Dec 12 1998,Bournemouth,2-1,?,York
+Sat Dec 12 1998,Fulham,4-0,?,Burnley
+Sat Dec 12 1998,Lincoln,0-0,?,Colchester
+Sat Dec 12 1998,Macclesfield,2-2,?,Luton
+Sat Dec 12 1998,Man City,0-0,?,Bristol Rvs
+Sat Dec 12 1998,Millwall,1-1,?,Reading
+Sat Dec 12 1998,Northampton,1-0,?,Chesterfield
+Sat Dec 12 1998,Notts County,2-3,?,Preston
+Sat Dec 12 1998,Oldham,0-2,?,Walsall
+Sat Dec 12 1998,Stoke,0-0,?,Gillingham
+Sat Dec 12 1998,Wigan,1-1,?,Wrexham
+Fri Dec 18 1998,Bristol Rvs,0-0,?,Macclesfield
+Fri Dec 18 1998,Colchester,2-2,?,Blackpool
+Sat Dec 19 1998,Burnley,0-2,?,Northampton
+Sat Dec 19 1998,Chesterfield,1-1,?,Wigan
+Sat Dec 19 1998,Gillingham,4-0,?,Notts County
+Sat Dec 19 1998,Luton,1-2,?,Millwall
+Sat Dec 19 1998,Preston,0-1,?,Fulham
+Sat Dec 19 1998,Reading,1-1,?,Oldham
+Sat Dec 19 1998,Walsall,1-0,?,Stoke
+Sat Dec 19 1998,Wrexham,0-1,?,Bournemouth
+Sat Dec 19 1998,Wycombe,4-1,?,Lincoln
+Sat Dec 19 1998,York,2-1,?,Man City
+Sat Dec 26 1998,Blackpool,1-1,?,Wigan
+Sat Dec 26 1998,Chesterfield,1-3,?,Oldham
+Sat Dec 26 1998,Fulham,2-0,?,Colchester
+Sat Dec 26 1998,Lincoln,1-0,?,Macclesfield
+Sat Dec 26 1998,Millwall,1-2,?,Bournemouth
+Sat Dec 26 1998,Notts County,3-1,?,Northampton
+Sat Dec 26 1998,Stoke,0-1,?,Preston
+Sat Dec 26 1998,Walsall,2-2,?,Wycombe
+Sat Dec 26 1998,Wrexham,0-1,?,Man City
+Sat Dec 26 1998,York,3-3,?,Burnley
+Mon Dec 28 1998,Bournemouth,1-0,?,Luton
+Mon Dec 28 1998,Burnley,1-1,?,Lincoln
+Mon Dec 28 1998,Colchester,0-3,?,Bristol Rvs
+Mon Dec 28 1998,Macclesfield,0-1,?,Blackpool
+Mon Dec 28 1998,Man City,2-1,?,Stoke
+Mon Dec 28 1998,Northampton,1-1,?,Fulham
+Mon Dec 28 1998,Oldham,0-2,?,York
+Mon Dec 28 1998,Preston,3-1,?,Wrexham
+Mon Dec 28 1998,Reading,1-0,?,Notts County
+Mon Dec 28 1998,Wigan,2-0,?,Walsall
+Mon Dec 28 1998,Wycombe,1-0,?,Chesterfield
+Tue Dec 29 1998,Gillingham,1-1,?,Millwall
+Sat Jan 2 1999,Burnley,0-0,?,Walsall
+Sat Jan 2 1999,Colchester,2-2,?,Luton
+Sat Jan 2 1999,Gillingham,1-0,?,Blackpool
+Sat Jan 2 1999,Reading,1-2,?,Chesterfield
+Sat Jan 2 1999,Wycombe,1-2,?,York
+Sat Jan 9 1999,Blackpool,0-0,?,Man City
+Sat Jan 9 1999,Bristol Rvs,3-4,?,Burnley
+Sat Jan 9 1999,Chesterfield,3-1,?,Colchester
+Sat Jan 9 1999,Fulham,1-0,?,Macclesfield
+Sat Jan 9 1999,Lincoln,2-1,?,Bournemouth
+Sat Jan 9 1999,Luton,3-1,?,Wycombe
+Sat Jan 9 1999,Millwall,3-1,?,Wigan
+Sat Jan 9 1999,Notts County,0-1,?,Oldham
+Sat Jan 9 1999,Reading,4-0,?,Wrexham
+Sat Jan 9 1999,Stoke,3-1,?,Northampton
+Sat Jan 9 1999,Walsall,2-1,?,Gillingham
+Sat Jan 9 1999,York,0-1,?,Preston
+Fri Jan 15 1999,Colchester,1-3,?,Wrexham
+Sat Jan 16 1999,Bournemouth,2-0,?,Notts County
+Sat Jan 16 1999,Burnley,1-2,?,Chesterfield
+Sat Jan 16 1999,Gillingham,3-1,?,York
+Sat Jan 16 1999,Man City,3-0,?,Fulham
+Sat Jan 16 1999,Oldham,3-0,?,Blackpool
+Sat Jan 16 1999,Preston,2-1,?,Luton
+Sat Jan 16 1999,Reading,0-6,?,Bristol Rvs
+Sat Jan 16 1999,Wycombe,0-1,?,Millwall
+Sat Jan 23 1999,Chesterfield,0-1,?,Preston
+Sat Jan 23 1999,Lincoln,1-0,?,Northampton
+Sat Jan 23 1999,Luton,0-4,?,Wigan
+Sat Jan 23 1999,Millwall,1-2,?,Burnley
+Sat Jan 23 1999,Stoke,3-3,?,Colchester
+Sat Jan 23 1999,Walsall,1-1,?,Man City
+Sat Jan 23 1999,York,1-1,?,Reading
+Tue Jan 26 1999,Bournemouth,3-1,?,Preston
+Tue Jan 26 1999,Fulham,1-0,?,Oldham
+Tue Jan 26 1999,Macclesfield,0-2,?,Millwall
+Fri Jan 29 1999,Stoke,0-1,?,Man City
+Sat Jan 30 1999,Blackpool,2-1,?,Macclesfield
+Sat Jan 30 1999,Bristol Rvs,1-1,?,Colchester
+Sat Jan 30 1999,Chesterfield,2-0,?,Wycombe
+Sat Jan 30 1999,Fulham,2-0,?,Northampton
+Sat Jan 30 1999,Lincoln,1-1,?,Burnley
+Sat Jan 30 1999,Luton,2-2,?,Bournemouth
+Sat Jan 30 1999,Millwall,3-3,?,Gillingham
+Sat Jan 30 1999,Notts County,1-1,?,Reading
+Sat Jan 30 1999,Walsall,1-2,?,Wigan
+Sat Jan 30 1999,Wrexham,0-5,?,Preston
+Sat Jan 30 1999,York,0-1,?,Oldham
+Fri Feb 5 1999,Colchester,2-1,?,York
+Sat Feb 6 1999,Bournemouth,4-0,?,Stoke
+Sat Feb 6 1999,Burnley,1-2,?,Luton
+Sat Feb 6 1999,Gillingham,3-1,?,Chesterfield
+Sat Feb 6 1999,Macclesfield,0-2,?,Wrexham
+Sat Feb 6 1999,Man City,3-0,?,Millwall
+Sat Feb 6 1999,Northampton,0-0,?,Blackpool
+Sat Feb 6 1999,Oldham,2-0,?,Lincoln
+Sat Feb 6 1999,Preston,2-2,?,Bristol Rvs
+Sat Feb 6 1999,Reading,0-1,?,Walsall
+Sat Feb 6 1999,Wycombe,1-1,?,Fulham
+Fri Feb 12 1999,Colchester,2-1,?,Wigan
+Sat Feb 13 1999,Bournemouth,0-0,?,Man City
+Sat Feb 13 1999,Burnley,1-1,?,Reading
+Sat Feb 13 1999,Lincoln,2-0,?,Millwall
+Sat Feb 13 1999,Luton,1-2,?,Wrexham
+Sat Feb 13 1999,Macclesfield,1-0,?,Oldham
+Sat Feb 13 1999,Northampton,0-1,?,Gillingham
+Sat Feb 13 1999,Notts County,0-1,?,Blackpool
+Sat Feb 13 1999,Preston,2-1,?,Wycombe
+Sat Feb 13 1999,York,1-2,?,Walsall
+Tue Feb 16 1999,Wigan,3-0,?,Notts County
+Sat Feb 20 1999,Blackpool,0-1,?,Lincoln
+Sat Feb 20 1999,Bristol Rvs,1-0,?,Luton
+Sat Feb 20 1999,Fulham,2-1,?,Notts County
+Sat Feb 20 1999,Gillingham,1-1,?,Colchester
+Sat Feb 20 1999,Man City,2-0,?,Macclesfield
+Sat Feb 20 1999,Millwall,2-0,?,Stoke
+Sat Feb 20 1999,Oldham,0-1,?,Northampton
+Sat Feb 20 1999,Reading,2-1,?,Preston
+Sat Feb 20 1999,Walsall,1-1,?,Chesterfield
+Sat Feb 20 1999,Wigan,2-1,?,Bournemouth
+Sat Feb 20 1999,Wrexham,1-1,?,York
+Sat Feb 20 1999,Wycombe,2-0,?,Burnley
+Tue Feb 23 1999,Bristol Rvs,0-1,?,Gillingham
+Tue Feb 23 1999,Fulham,3-1,?,Reading
+Tue Feb 23 1999,Luton,0-1,?,Notts County
+Tue Feb 23 1999,Northampton,0-1,?,Walsall
+Tue Feb 23 1999,Preston,5-0,?,Lincoln
+Sat Feb 27 1999,Bournemouth,2-0,?,Wycombe
+Sat Feb 27 1999,Burnley,0-5,?,Gillingham
+Sat Feb 27 1999,Chesterfield,1-1,?,Man City
+Sat Feb 27 1999,Colchester,1-1,?,Reading
+Sat Feb 27 1999,Lincoln,1-0,?,Bristol Rvs
+Sat Feb 27 1999,Luton,1-0,?,Blackpool
+Sat Feb 27 1999,Macclesfield,0-1,?,Wigan
+Sat Feb 27 1999,Northampton,1-2,?,Millwall
+Sat Feb 27 1999,Notts County,2-1,?,Walsall
+Sat Feb 27 1999,Preston,2-1,?,Oldham
+Sat Feb 27 1999,Stoke,1-3,?,Wrexham
+Sat Feb 27 1999,York,0-3,?,Fulham
+Tue Mar 2 1999,Bournemouth,1-1,?,Fulham
+Tue Mar 2 1999,Chesterfield,2-1,?,Millwall
+Tue Mar 2 1999,Northampton,0-2,?,Wrexham
+Sat Mar 6 1999,Blackpool,0-1,?,Stoke
+Sat Mar 6 1999,Bristol Rvs,2-0,?,York
+Sat Mar 6 1999,Fulham,1-0,?,Lincoln
+Sat Mar 6 1999,Gillingham,1-1,?,Preston
+Sat Mar 6 1999,Man City,0-0,?,Northampton
+Sat Mar 6 1999,Millwall,1-3,?,Notts County
+Sat Mar 6 1999,Oldham,2-3,?,Bournemouth
+Sat Mar 6 1999,Reading,1-0,?,Macclesfield
+Sat Mar 6 1999,Walsall,1-0,?,Luton
+Sat Mar 6 1999,Wrexham,0-0,?,Chesterfield
+Sat Mar 6 1999,Wycombe,2-2,?,Colchester
+Tue Mar 9 1999,Bournemouth,1-0,?,Bristol Rvs
+Tue Mar 9 1999,Burnley,0-6,?,Man City
+Tue Mar 9 1999,Colchester,2-2,?,Oldham
+Tue Mar 9 1999,Luton,0-4,?,Fulham
+Tue Mar 9 1999,Macclesfield,1-0,?,Gillingham
+Wed Mar 10 1999,Stoke,0-4,?,Reading
+Fri Mar 12 1999,Bristol Rvs,2-3,?,Fulham
+Sat Mar 13 1999,Blackpool,1-1,?,Wrexham
+Sat Mar 13 1999,Bournemouth,0-1,?,Reading
+Sat Mar 13 1999,Lincoln,2-0,?,Chesterfield
+Sat Mar 13 1999,Luton,1-2,?,Stoke
+Sat Mar 13 1999,Macclesfield,2-0,?,Colchester
+Sat Mar 13 1999,Man City,1-2,?,Oldham
+Sat Mar 13 1999,Millwall,1-2,?,Walsall
+Sat Mar 13 1999,Notts County,4-2,?,York
+Sat Mar 13 1999,Wigan,4-1,?,Gillingham
+Sat Mar 13 1999,Wycombe,1-2,?,Northampton
+Sun Mar 14 1999,Burnley,0-1,?,Preston
+Tue Mar 16 1999,Blackpool,0-0,?,Bournemouth
+Tue Mar 16 1999,Man City,2-1,?,Notts County
+Tue Mar 16 1999,Stoke,0-1,?,Fulham
+Sat Mar 20 1999,Chesterfield,3-1,?,Luton
+Sat Mar 20 1999,Colchester,0-1,?,Man City
+Sat Mar 20 1999,Fulham,4-0,?,Blackpool
+Sat Mar 20 1999,Gillingham,4-0,?,Lincoln
+Sat Mar 20 1999,Northampton,0-2,?,Macclesfield
+Sat Mar 20 1999,Oldham,0-1,?,Millwall
+Sat Mar 20 1999,Preston,0-1,?,Bournemouth
+Sat Mar 20 1999,Reading,2-1,?,Wycombe
+Sat Mar 20 1999,Stoke,2-3,?,Notts County
+Sat Mar 20 1999,Walsall,3-3,?,Bristol Rvs
+Sat Mar 20 1999,Wrexham,1-1,?,Burnley
+Sat Mar 20 1999,York,1-3,?,Wigan
+Tue Mar 23 1999,Bristol Rvs,0-2,?,Wycombe
+Tue Mar 23 1999,Luton,1-1,?,Reading
+Sat Mar 27 1999,Bournemouth,2-1,?,Colchester
+Sat Mar 27 1999,Bristol Rvs,1-1,?,Notts County
+Sat Mar 27 1999,Chesterfield,1-2,?,Blackpool
+Sat Mar 27 1999,Luton,1-0,?,Gillingham
+Sat Mar 27 1999,Millwall,3-0,?,Wrexham
+Sat Mar 27 1999,Preston,3-0,?,Northampton
+Sat Mar 27 1999,Reading,1-3,?,Man City
+Sat Mar 27 1999,Wigan,2-3,?,Stoke
+Sat Mar 27 1999,Wycombe,3-0,?,Oldham
+Sun Mar 28 1999,Burnley,4-3,?,Macclesfield
+Sun Mar 28 1999,Lincoln,1-2,?,York
+Tue Mar 30 1999,Wigan,1-0,?,Bristol Rvs
+Thu Apr 1 1999,Gillingham,2-1,?,Reading
+Fri Apr 2 1999,Colchester,1-0,?,Preston
+Fri Apr 2 1999,Northampton,2-1,?,Bournemouth
+Fri Apr 2 1999,Oldham,1-1,?,Luton
+Sat Apr 3 1999,Blackpool,0-2,?,Walsall
+Sat Apr 3 1999,Macclesfield,1-3,?,Wycombe
+Sat Apr 3 1999,Man City,1-0,?,Wigan
+Sat Apr 3 1999,Notts County,0-0,?,Burnley
+Sat Apr 3 1999,Stoke,2-0,?,Lincoln
+Sat Apr 3 1999,Wrexham,1-0,?,Bristol Rvs
+Sat Apr 3 1999,York,1-2,?,Chesterfield
+Mon Apr 5 1999,Bristol Rvs,1-1,?,Northampton
+Mon Apr 5 1999,Burnley,3-1,?,Colchester
+Mon Apr 5 1999,Chesterfield,1-1,?,Stoke
+Mon Apr 5 1999,Lincoln,0-1,?,Notts County
+Mon Apr 5 1999,Millwall,1-0,?,Blackpool
+Mon Apr 5 1999,Preston,1-1,?,Man City
+Mon Apr 5 1999,Reading,0-1,?,Fulham
+Mon Apr 5 1999,Wigan,2-0,?,Oldham
+Mon Apr 5 1999,Wycombe,0-2,?,Gillingham
+Tue Apr 6 1999,Bournemouth,1-0,?,Macclesfield
+Tue Apr 6 1999,Luton,2-1,?,York
+Tue Apr 6 1999,Walsall,1-0,?,Wrexham
+Fri Apr 9 1999,Gillingham,2-1,?,Bournemouth
+Sat Apr 10 1999,Blackpool,2-0,?,Reading
+Sat Apr 10 1999,Colchester,1-0,?,Walsall
+Sat Apr 10 1999,Fulham,2-0,?,Wigan
+Sat Apr 10 1999,Macclesfield,3-2,?,Preston
+Sat Apr 10 1999,Man City,4-0,?,Lincoln
+Sat Apr 10 1999,Northampton,1-0,?,Luton
+Sat Apr 10 1999,Notts County,2-0,?,Chesterfield
+Sat Apr 10 1999,Oldham,1-1,?,Burnley
+Sat Apr 10 1999,Stoke,1-4,?,Bristol Rvs
+Sat Apr 10 1999,Wrexham,0-2,?,Wycombe
+Sat Apr 10 1999,York,2-1,?,Millwall
+Tue Apr 13 1999,Blackpool,0-2,?,Burnley
+Tue Apr 13 1999,Bournemouth,0-1,?,Walsall
+Tue Apr 13 1999,Fulham,3-0,?,Gillingham
+Tue Apr 13 1999,Lincoln,2-2,?,Reading
+Tue Apr 13 1999,Macclesfield,2-0,?,Chesterfield
+Tue Apr 13 1999,Northampton,2-2,?,York
+Tue Apr 13 1999,Notts County,1-1,?,Wrexham
+Tue Apr 13 1999,Oldham,2-1,?,Bristol Rvs
+Tue Apr 13 1999,Wigan,2-2,?,Preston
+Wed Apr 14 1999,Man City,2-0,?,Luton
+Wed Apr 14 1999,Millwall,2-0,?,Colchester
+Wed Apr 14 1999,Stoke,2-2,?,Wycombe
+Fri Apr 16 1999,Colchester,2-1,?,Notts County
+Sat Apr 17 1999,Burnley,0-0,?,Bournemouth
+Sat Apr 17 1999,Chesterfield,1-0,?,Fulham
+Sat Apr 17 1999,Gillingham,0-2,?,Man City
+Sat Apr 17 1999,Luton,0-1,?,Lincoln
+Sat Apr 17 1999,Preston,1-2,?,Blackpool
+Sat Apr 17 1999,Reading,0-1,?,Northampton
+Sat Apr 17 1999,Walsall,2-0,?,Macclesfield
+Sat Apr 17 1999,Wrexham,1-2,?,Oldham
+Sat Apr 17 1999,York,2-2,?,Stoke
+Tue Apr 20 1999,Chesterfield,0-0,?,Bristol Rvs
+Tue Apr 20 1999,Preston,1-0,?,Walsall
+Tue Apr 20 1999,Wrexham,2-1,?,Gillingham
+Wed Apr 21 1999,Fulham,4-1,?,Millwall
+Sat Apr 24 1999,Blackpool,1-2,?,Bristol Rvs
+Sat Apr 24 1999,Bournemouth,0-0,?,Chesterfield
+Sat Apr 24 1999,Fulham,1-1,?,Wrexham
+Sat Apr 24 1999,Lincoln,0-1,?,Walsall
+Sat Apr 24 1999,Macclesfield,1-2,?,York
+Sat Apr 24 1999,Man City,1-2,?,Wycombe
+Sat Apr 24 1999,Millwall,2-2,?,Preston
+Sat Apr 24 1999,Northampton,3-3,?,Colchester
+Sat Apr 24 1999,Notts County,1-2,?,Luton
+Sat Apr 24 1999,Oldham,1-4,?,Gillingham
+Sat Apr 24 1999,Stoke,1-4,?,Burnley
+Sat Apr 24 1999,Wigan,4-1,?,Reading
+Tue Apr 27 1999,Bristol Rvs,3-0,?,Millwall
+Tue Apr 27 1999,Colchester,2-1,?,Bournemouth
+Tue Apr 27 1999,Luton,1-0,?,Chesterfield
+Tue Apr 27 1999,Macclesfield,1-2,?,Stoke
+Tue Apr 27 1999,Notts County,1-0,?,Wycombe
+Tue Apr 27 1999,Wigan,3-1,?,Lincoln
+Tue Apr 27 1999,York,1-0,?,Blackpool
+Thu Apr 29 1999,Northampton,3-3,?,Wigan
+Sat May 1 1999,Bristol Rvs,2-2,?,Man City
+Sat May 1 1999,Burnley,1-0,?,Fulham
+Sat May 1 1999,Colchester,1-3,?,Lincoln
+Sat May 1 1999,Gillingham,4-0,?,Stoke
+Sat May 1 1999,Luton,1-2,?,Macclesfield
+Sat May 1 1999,Preston,1-1,?,Notts County
+Sat May 1 1999,Reading,2-0,?,Millwall
+Sat May 1 1999,Walsall,3-1,?,Oldham
+Sat May 1 1999,Wrexham,0-2,?,Wigan
+Sat May 1 1999,Wycombe,2-2,?,Blackpool
+Sat May 1 1999,York,0-1,?,Bournemouth
+Mon May 3 1999,Chesterfield,0-0,?,Northampton
+Mon May 3 1999,Wigan,0-0,?,Burnley
+Tue May 4 1999,Lincoln,1-0,?,Wrexham
+Tue May 4 1999,Notts County,1-1,?,Macclesfield
+Tue May 4 1999,Oldham,1-0,?,Stoke
+Tue May 4 1999,Walsall,2-2,?,Fulham
+Wed May 5 1999,Wycombe,2-1,?,Wigan
+Sat May 8 1999,Blackpool,2-1,?,Colchester
+Sat May 8 1999,Bournemouth,0-0,?,Wrexham
+Sat May 8 1999,Fulham,3-0,?,Preston
+Sat May 8 1999,Lincoln,0-1,?,Wycombe
+Sat May 8 1999,Macclesfield,3-4,?,Bristol Rvs
+Sat May 8 1999,Man City,4-0,?,York
+Sat May 8 1999,Millwall,0-1,?,Luton
+Sat May 8 1999,Northampton,2-2,?,Burnley
+Sat May 8 1999,Notts County,0-1,?,Gillingham
+Sat May 8 1999,Oldham,2-0,?,Reading
+Sat May 8 1999,Stoke,2-0,?,Walsall
+Sat May 8 1999,Wigan,3-1,?,Chesterfield

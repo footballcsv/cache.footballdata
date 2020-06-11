@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 8 2015,Aldershot,1-2,1-0,Gateshead
+Sat Aug 8 2015,Altrincham,0-1,0-0,Forest Green
+Sat Aug 8 2015,Barrow,2-1,2-1,Dover Athletic
+Sat Aug 8 2015,Boreham Wood,3-1,1-1,Halifax
+Sat Aug 8 2015,Bromley,3-1,3-1,Wrexham
+Sat Aug 8 2015,Chester,1-0,1-0,Braintree Town
+Sat Aug 8 2015,Kidderminster,2-2,0-1,Grimsby
+Sat Aug 8 2015,Lincoln,1-1,0-1,Cheltenham
+Sat Aug 8 2015,Southport,0-4,0-1,Eastleigh
+Sat Aug 8 2015,Torquay,1-0,0-0,Macclesfield
+Sat Aug 8 2015,Tranmere,1-0,0-0,Woking
+Sat Aug 8 2015,Welling United,1-0,1-0,Guiseley
+Tue Aug 11 2015,Braintree Town,1-3,0-0,Lincoln
+Tue Aug 11 2015,Cheltenham,0-0,0-0,Aldershot
+Tue Aug 11 2015,Dover Athletic,3-2,2-0,Kidderminster
+Tue Aug 11 2015,Eastleigh,1-0,0-0,Boreham Wood
+Tue Aug 11 2015,Forest Green,1-0,1-0,Welling United
+Tue Aug 11 2015,Gateshead,1-4,1-3,Tranmere
+Tue Aug 11 2015,Grimsby,4-1,2-0,Barrow
+Tue Aug 11 2015,Guiseley,1-0,1-0,Altrincham
+Tue Aug 11 2015,Halifax,0-1,0-1,Chester
+Tue Aug 11 2015,Macclesfield,0-0,0-0,Southport
+Tue Aug 11 2015,Woking,2-0,1-0,Bromley
+Tue Aug 11 2015,Wrexham,3-1,0-1,Torquay
+Sat Aug 15 2015,Braintree Town,0-0,0-0,Tranmere
+Sat Aug 15 2015,Cheltenham,3-0,0-0,Southport
+Sat Aug 15 2015,Dover Athletic,0-0,0-0,Chester
+Sat Aug 15 2015,Eastleigh,1-1,0-1,Lincoln
+Sat Aug 15 2015,Forest Green,4-0,2-0,Barrow
+Sat Aug 15 2015,Gateshead,2-1,0-1,Boreham Wood
+Sat Aug 15 2015,Grimsby,4-1,3-1,Bromley
+Sat Aug 15 2015,Guiseley,1-0,0-0,Kidderminster
+Sat Aug 15 2015,Halifax,2-3,1-2,Torquay
+Sat Aug 15 2015,Macclesfield,2-1,1-0,Welling United
+Sat Aug 15 2015,Woking,2-0,1-0,Altrincham
+Sat Aug 15 2015,Wrexham,3-0,1-0,Aldershot
+Tue Aug 18 2015,Aldershot,1-1,1-1,Dover Athletic
+Tue Aug 18 2015,Altrincham,2-1,1-1,Grimsby
+Tue Aug 18 2015,Barrow,1-1,1-1,Guiseley
+Tue Aug 18 2015,Boreham Wood,0-1,0-0,Forest Green
+Tue Aug 18 2015,Bromley,1-2,0-1,Braintree Town
+Tue Aug 18 2015,Chester,1-1,1-0,Cheltenham
+Tue Aug 18 2015,Kidderminster,1-3,0-1,Wrexham
+Tue Aug 18 2015,Lincoln,5-3,3-2,Macclesfield
+Tue Aug 18 2015,Southport,1-2,1-1,Gateshead
+Tue Aug 18 2015,Torquay,0-1,0-0,Woking
+Tue Aug 18 2015,Tranmere,1-0,0-0,Halifax
+Tue Aug 18 2015,Welling United,2-2,1-1,Eastleigh
+Sat Aug 22 2015,Braintree Town,1-0,1-0,Southport
+Sat Aug 22 2015,Cheltenham,2-1,0-1,Barrow
+Sat Aug 22 2015,Dover Athletic,2-1,1-1,Altrincham
+Sat Aug 22 2015,Eastleigh,1-0,0-0,Macclesfield
+Sat Aug 22 2015,Forest Green,3-1,2-0,Lincoln
+Sat Aug 22 2015,Gateshead,1-1,0-1,Kidderminster
+Sat Aug 22 2015,Grimsby,2-2,0-2,Torquay
+Sat Aug 22 2015,Guiseley,0-4,0-2,Aldershot
+Sat Aug 22 2015,Halifax,2-2,0-0,Bromley
+Sat Aug 22 2015,Tranmere,0-2,0-0,Boreham Wood
+Sat Aug 22 2015,Woking,5-2,1-0,Chester
+Sat Aug 22 2015,Wrexham,1-0,0-0,Welling United
+Sat Aug 29 2015,Aldershot,1-2,0-1,Eastleigh
+Sat Aug 29 2015,Altrincham,2-1,2-0,Tranmere
+Sat Aug 29 2015,Barrow,1-0,1-0,Southport
+Sat Aug 29 2015,Boreham Wood,1-1,0-1,Woking
+Sat Aug 29 2015,Bromley,1-1,0-0,Dover Athletic
+Sat Aug 29 2015,Guiseley,0-2,0-1,Gateshead
+Sat Aug 29 2015,Kidderminster,0-2,0-0,Forest Green
+Sat Aug 29 2015,Lincoln,1-1,1-0,Grimsby
+Sat Aug 29 2015,Macclesfield,1-2,0-0,Chester
+Sat Aug 29 2015,Torquay,0-3,0-1,Cheltenham
+Sat Aug 29 2015,Welling United,1-2,1-1,Braintree Town
+Sat Aug 29 2015,Wrexham,3-1,2-1,Halifax
+Mon Aug 31 2015,Braintree Town,1-2,1-0,Aldershot
+Mon Aug 31 2015,Cheltenham,2-1,0-0,Wrexham
+Mon Aug 31 2015,Chester,1-1,0-0,Guiseley
+Mon Aug 31 2015,Dover Athletic,2-1,2-1,Boreham Wood
+Mon Aug 31 2015,Eastleigh,3-2,2-0,Torquay
+Mon Aug 31 2015,Forest Green,2-1,2-1,Bromley
+Mon Aug 31 2015,Gateshead,2-0,1-0,Lincoln
+Mon Aug 31 2015,Grimsby,0-2,0-1,Macclesfield
+Mon Aug 31 2015,Halifax,3-1,0-0,Barrow
+Mon Aug 31 2015,Southport,3-0,2-0,Altrincham
+Mon Aug 31 2015,Tranmere,2-2,2-0,Kidderminster
+Mon Aug 31 2015,Woking,2-0,0-0,Welling United
+Sat Sep 5 2015,Aldershot,3-2,2-0,Halifax
+Sat Sep 5 2015,Altrincham,2-1,0-0,Cheltenham
+Sat Sep 5 2015,Barrow,1-0,1-0,Eastleigh
+Sat Sep 5 2015,Boreham Wood,1-3,0-1,Grimsby
+Sat Sep 5 2015,Bromley,3-0,0-0,Gateshead
+Sat Sep 5 2015,Chester,1-2,0-1,Forest Green
+Sat Sep 5 2015,Kidderminster,0-1,0-1,Braintree Town
+Sat Sep 5 2015,Lincoln,1-1,0-0,Wrexham
+Sat Sep 5 2015,Macclesfield,2-1,1-0,Woking
+Sat Sep 5 2015,Southport,0-0,0-0,Dover Athletic
+Sat Sep 5 2015,Torquay,1-1,1-1,Guiseley
+Sat Sep 5 2015,Welling United,1-1,0-0,Tranmere
+Sat Sep 12 2015,Braintree Town,1-1,0-0,Barrow
+Sat Sep 12 2015,Bromley,1-0,0-0,Macclesfield
+Sat Sep 12 2015,Cheltenham,3-2,1-2,Dover Athletic
+Sat Sep 12 2015,Eastleigh,1-2,0-2,Gateshead
+Sat Sep 12 2015,Forest Green,2-1,2-0,Southport
+Sat Sep 12 2015,Grimsby,4-1,0-1,Aldershot
+Sat Sep 12 2015,Guiseley,4-4,2-3,Woking
+Sat Sep 12 2015,Halifax,1-1,0-1,Kidderminster
+Sat Sep 12 2015,Lincoln,3-1,0-1,Boreham Wood
+Sat Sep 12 2015,Tranmere,2-0,2-0,Chester
+Sat Sep 12 2015,Welling United,1-1,1-1,Torquay
+Sat Sep 12 2015,Wrexham,3-1,2-0,Altrincham
+Tue Sep 15 2015,Aldershot,1-0,0-0,Welling United
+Tue Sep 15 2015,Altrincham,1-1,1-0,Eastleigh
+Tue Sep 15 2015,Barrow,1-0,0-0,Lincoln
+Tue Sep 15 2015,Boreham Wood,2-3,0-1,Bromley
+Tue Sep 15 2015,Cheltenham,2-0,2-0,Macclesfield
+Tue Sep 15 2015,Chester,1-1,0-0,Grimsby
+Tue Sep 15 2015,Dover Athletic,0-0,0-0,Braintree Town
+Tue Sep 15 2015,Gateshead,2-1,1-1,Wrexham
+Tue Sep 15 2015,Guiseley,2-1,1-1,Halifax
+Tue Sep 15 2015,Kidderminster,2-2,0-1,Torquay
+Tue Sep 15 2015,Southport,2-2,2-0,Tranmere
+Tue Sep 15 2015,Woking,2-1,1-0,Forest Green
+Fri Sep 18 2015,Grimsby,1-1,1-0,Tranmere
+Sat Sep 19 2015,Altrincham,0-4,0-2,Braintree Town
+Sat Sep 19 2015,Barrow,1-3,1-1,Aldershot
+Sat Sep 19 2015,Boreham Wood,0-1,0-1,Wrexham
+Sat Sep 19 2015,Chester,1-0,1-0,Eastleigh
+Sat Sep 19 2015,Dover Athletic,0-0,0-0,Guiseley
+Sat Sep 19 2015,Gateshead,1-2,1-2,Welling United
+Sat Sep 19 2015,Halifax,2-2,0-1,Southport
+Sat Sep 19 2015,Kidderminster,0-2,0-2,Lincoln
+Sat Sep 19 2015,Macclesfield,4-1,2-1,Forest Green
+Sat Sep 19 2015,Torquay,3-7,2-3,Bromley
+Sat Sep 19 2015,Woking,0-1,0-0,Cheltenham
+Tue Sep 22 2015,Braintree Town,2-1,0-0,Woking
+Tue Sep 22 2015,Bromley,3-2,1-1,Kidderminster
+Tue Sep 22 2015,Eastleigh,2-5,1-1,Dover Athletic
+Tue Sep 22 2015,Forest Green,2-2,0-1,Cheltenham
+Tue Sep 22 2015,Guiseley,1-1,1-0,Southport
+Tue Sep 22 2015,Halifax,1-1,0-1,Gateshead
+Tue Sep 22 2015,Lincoln,1-1,1-1,Altrincham
+Tue Sep 22 2015,Macclesfield,1-2,0-0,Barrow
+Tue Sep 22 2015,Torquay,1-2,0-1,Boreham Wood
+Tue Sep 22 2015,Tranmere,3-1,1-1,Aldershot
+Tue Sep 22 2015,Welling United,2-1,1-0,Chester
+Tue Sep 22 2015,Wrexham,0-0,0-0,Grimsby
+Fri Sep 25 2015,Dover Athletic,2-0,1-0,Woking
+Sat Sep 26 2015,Aldershot,0-3,0-2,Macclesfield
+Sat Sep 26 2015,Barrow,1-1,0-1,Kidderminster
+Sat Sep 26 2015,Boreham Wood,0-1,0-1,Altrincham
+Sat Sep 26 2015,Braintree Town,0-1,0-0,Guiseley
+Sat Sep 26 2015,Bromley,3-0,3-0,Chester
+Sat Sep 26 2015,Cheltenham,0-1,0-0,Tranmere
+Sat Sep 26 2015,Forest Green,0-1,0-1,Gateshead
+Sat Sep 26 2015,Lincoln,2-0,2-0,Torquay
+Sat Sep 26 2015,Southport,0-4,0-3,Grimsby
+Sat Sep 26 2015,Welling United,2-0,2-0,Halifax
+Sat Sep 26 2015,Wrexham,2-3,0-2,Eastleigh
+Fri Oct 2 2015,Guiseley,0-1,0-1,Lincoln
+Sat Oct 3 2015,Altrincham,1-0,0-0,Barrow
+Sat Oct 3 2015,Chester,3-2,1-1,Wrexham
+Sat Oct 3 2015,Eastleigh,0-2,0-1,Braintree Town
+Sat Oct 3 2015,Gateshead,2-3,2-1,Dover Athletic
+Sat Oct 3 2015,Grimsby,1-1,1-1,Forest Green
+Sat Oct 3 2015,Halifax,1-7,1-2,Cheltenham
+Sat Oct 3 2015,Kidderminster,0-1,0-0,Welling United
+Sat Oct 3 2015,Macclesfield,0-0,0-0,Boreham Wood
+Sat Oct 3 2015,Torquay,0-2,0-2,Aldershot
+Sat Oct 3 2015,Tranmere,4-0,1-0,Bromley
+Sat Oct 3 2015,Woking,1-2,0-2,Southport
+Tue Oct 6 2015,Altrincham,1-3,0-1,Halifax
+Tue Oct 6 2015,Barrow,3-2,1-1,Chester
+Tue Oct 6 2015,Cheltenham,1-1,0-0,Braintree Town
+Tue Oct 6 2015,Grimsby,2-1,1-1,Gateshead
+Tue Oct 6 2015,Guiseley,0-3,0-2,Macclesfield
+Tue Oct 6 2015,Kidderminster,1-1,1-0,Boreham Wood
+Tue Oct 6 2015,Torquay,2-3,1-1,Dover Athletic
+Tue Oct 6 2015,Welling United,1-2,1-1,Bromley
+Tue Oct 6 2015,Wrexham,2-2,1-1,Tranmere
+Wed Oct 7 2015,Aldershot,0-3,0-2,Forest Green
+Sat Oct 10 2015,Aldershot,2-0,1-0,Altrincham
+Sat Oct 10 2015,Boreham Wood,2-0,1-0,Welling United
+Sat Oct 10 2015,Braintree Town,0-0,0-0,Grimsby
+Sat Oct 10 2015,Bromley,5-0,2-0,Barrow
+Sat Oct 10 2015,Chester,2-3,1-2,Lincoln
+Sat Oct 10 2015,Dover Athletic,2-1,1-1,Wrexham
+Sat Oct 10 2015,Forest Green,3-0,1-0,Guiseley
+Sat Oct 10 2015,Gateshead,1-1,1-0,Cheltenham
+Sat Oct 10 2015,Halifax,0-3,0-1,Woking
+Sat Oct 10 2015,Macclesfield,2-1,2-0,Kidderminster
+Sat Oct 10 2015,Southport,0-1,0-1,Torquay
+Sat Oct 10 2015,Tranmere,1-2,0-0,Eastleigh
+Tue Oct 13 2015,Altrincham,2-2,1-1,Kidderminster
+Tue Oct 13 2015,Boreham Wood,0-1,0-1,Aldershot
+Tue Oct 13 2015,Braintree Town,1-0,1-0,Dover Athletic
+Tue Oct 13 2015,Bromley,1-2,0-0,Cheltenham
+Tue Oct 13 2015,Eastleigh,3-2,1-2,Forest Green
+Tue Oct 13 2015,Grimsby,7-0,4-0,Halifax
+Tue Oct 13 2015,Macclesfield,1-0,0-0,Gateshead
+Tue Oct 13 2015,Southport,1-2,1-0,Chester
+Tue Oct 13 2015,Tranmere,0-1,0-1,Barrow
+Tue Oct 13 2015,Welling United,2-1,1-0,Lincoln
+Tue Oct 13 2015,Woking,2-2,1-0,Torquay
+Wed Oct 14 2015,Wrexham,3-3,2-1,Guiseley
+Sat Oct 17 2015,Aldershot,1-1,1-1,Bromley
+Sat Oct 17 2015,Barrow,1-1,0-1,Welling United
+Sat Oct 17 2015,Cheltenham,1-1,1-0,Eastleigh
+Sat Oct 17 2015,Chester,2-1,1-0,Halifax
+Sat Oct 17 2015,Dover Athletic,2-1,1-1,Macclesfield
+Sat Oct 17 2015,Forest Green,0-2,0-2,Tranmere
+Sat Oct 17 2015,Gateshead,2-2,0-0,Altrincham
+Sat Oct 17 2015,Guiseley,1-1,0-0,Boreham Wood
+Sat Oct 17 2015,Kidderminster,0-1,0-0,Southport
+Sat Oct 17 2015,Lincoln,2-0,0-0,Braintree Town
+Sat Oct 17 2015,Torquay,1-1,1-0,Grimsby
+Sat Oct 17 2015,Woking,0-1,0-1,Wrexham
+Fri Oct 30 2015,Grimsby,0-1,0-0,Cheltenham
+Sat Oct 31 2015,Altrincham,1-1,0-1,Torquay
+Sat Oct 31 2015,Boreham Wood,2-3,1-2,Gateshead
+Sat Oct 31 2015,Braintree Town,1-0,0-0,Macclesfield
+Sat Oct 31 2015,Eastleigh,2-1,0-1,Halifax
+Sat Oct 31 2015,Forest Green,2-1,2-1,Chester
+Sat Oct 31 2015,Guiseley,2-0,2-0,Welling United
+Sat Oct 31 2015,Kidderminster,1-0,0-0,Woking
+Sat Oct 31 2015,Lincoln,0-1,0-0,Bromley
+Sat Oct 31 2015,Southport,1-1,0-1,Aldershot
+Sat Oct 31 2015,Tranmere,0-1,0-1,Dover Athletic
+Sat Oct 31 2015,Wrexham,4-1,1-0,Barrow
+Sat Nov 7 2015,Guiseley,3-1,2-1,Barrow
+Tue Nov 10 2015,Barrow,1-3,1-1,Grimsby
+Tue Nov 10 2015,Bromley,1-2,1-2,Boreham Wood
+Tue Nov 10 2015,Cheltenham,5-0,2-0,Guiseley
+Tue Nov 10 2015,Chester,3-1,1-1,Kidderminster
+Tue Nov 10 2015,Dover Athletic,1-2,0-0,Eastleigh
+Tue Nov 10 2015,Macclesfield,3-0,2-0,Altrincham
+Tue Nov 10 2015,Welling United,1-1,0-0,Forest Green
+Tue Nov 10 2015,Woking,1-1,0-1,Braintree Town
+Wed Nov 11 2015,Aldershot,1-2,0-1,Lincoln
+Sat Nov 14 2015,Barrow,4-0,2-0,Torquay
+Sat Nov 14 2015,Boreham Wood,0-0,0-0,Chester
+Sat Nov 14 2015,Bromley,1-3,1-1,Altrincham
+Sat Nov 14 2015,Forest Green,3-1,0-1,Dover Athletic
+Sat Nov 14 2015,Grimsby,3-1,2-1,Welling United
+Sat Nov 14 2015,Guiseley,1-4,1-2,Eastleigh
+Sat Nov 14 2015,Halifax,3-6,3-4,Braintree Town
+Sat Nov 14 2015,Kidderminster,2-0,0-0,Aldershot
+Sat Nov 14 2015,Lincoln,1-0,1-0,Tranmere
+Sat Nov 14 2015,Southport,0-4,0-3,Cheltenham
+Sat Nov 14 2015,Woking,2-5,0-2,Macclesfield
+Sat Nov 14 2015,Wrexham,4-0,0-0,Gateshead
+Sat Nov 21 2015,Aldershot,0-1,0-0,Wrexham
+Sat Nov 21 2015,Altrincham,1-0,0-0,Boreham Wood
+Sat Nov 21 2015,Cheltenham,1-1,0-0,Forest Green
+Sat Nov 21 2015,Chester,1-2,0-1,Woking
+Sat Nov 21 2015,Dover Athletic,3-1,3-0,Barrow
+Sat Nov 21 2015,Eastleigh,0-1,0-1,Grimsby
+Sat Nov 21 2015,Gateshead,1-4,1-3,Halifax
+Sat Nov 21 2015,Macclesfield,2-0,0-0,Bromley
+Sat Nov 21 2015,Torquay,1-3,0-2,Lincoln
+Sat Nov 21 2015,Tranmere,2-1,1-1,Guiseley
+Sat Nov 21 2015,Welling United,0-1,0-0,Southport
+Tue Nov 24 2015,Chester,1-1,1-1,Dover Athletic
+Tue Nov 24 2015,Woking,4-1,2-0,Tranmere
+Wed Nov 25 2015,Boreham Wood,1-1,1-1,Lincoln
+Sat Nov 28 2015,Aldershot,0-2,0-2,Cheltenham
+Sat Nov 28 2015,Barrow,2-1,1-0,Woking
+Sat Nov 28 2015,Boreham Wood,0-0,0-0,Tranmere
+Sat Nov 28 2015,Braintree Town,0-0,0-0,Torquay
+Sat Nov 28 2015,Eastleigh,1-0,0-0,Southport
+Sat Nov 28 2015,Forest Green,2-0,2-0,Altrincham
+Sat Nov 28 2015,Gateshead,1-0,0-0,Chester
+Sat Nov 28 2015,Grimsby,1-0,0-0,Kidderminster
+Sat Nov 28 2015,Guiseley,2-0,1-0,Bromley
+Sat Nov 28 2015,Halifax,4-2,3-1,Dover Athletic
+Sat Nov 28 2015,Lincoln,1-1,0-1,Welling United
+Sat Nov 28 2015,Wrexham,2-3,1-1,Macclesfield
+Sat Dec 5 2015,Cheltenham,3-1,1-1,Chester
+Sat Dec 5 2015,Dover Athletic,5-2,2-0,Aldershot
+Sat Dec 5 2015,Halifax,1-1,0-0,Guiseley
+Sat Dec 5 2015,Kidderminster,0-1,0-0,Gateshead
+Sat Dec 5 2015,Southport,3-1,1-1,Macclesfield
+Sat Dec 5 2015,Torquay,0-1,0-0,Wrexham
+Sat Dec 5 2015,Tranmere,1-2,1-2,Braintree Town
+Sat Dec 5 2015,Woking,3-1,2-0,Lincoln
+Tue Dec 8 2015,Gateshead,0-1,0-0,Southport
+Tue Dec 8 2015,Macclesfield,1-2,1-1,Eastleigh
+Sat Dec 19 2015,Aldershot,1-0,0-0,Guiseley
+Sat Dec 19 2015,Cheltenham,1-0,0-0,Altrincham
+Sat Dec 19 2015,Chester,4-1,3-0,Torquay
+Sat Dec 19 2015,Eastleigh,3-1,1-0,Kidderminster
+Sat Dec 19 2015,Forest Green,1-0,0-0,Boreham Wood
+Sat Dec 19 2015,Gateshead,1-5,1-2,Woking
+Sat Dec 19 2015,Grimsby,1-0,0-0,Dover Athletic
+Sat Dec 19 2015,Halifax,1-1,1-1,Tranmere
+Sat Dec 19 2015,Lincoln,2-2,2-1,Barrow
+Sat Dec 19 2015,Southport,5-3,2-2,Bromley
+Sat Dec 19 2015,Welling United,0-1,0-1,Macclesfield
+Sat Dec 26 2015,Aldershot,0-1,0-1,Woking
+Sat Dec 26 2015,Boreham Wood,1-0,1-0,Braintree Town
+Sat Dec 26 2015,Bromley,2-2,1-0,Eastleigh
+Sat Dec 26 2015,Kidderminster,1-2,1-1,Cheltenham
+Sat Dec 26 2015,Lincoln,0-1,0-0,Halifax
+Sat Dec 26 2015,Macclesfield,1-2,1-1,Tranmere
+Sat Dec 26 2015,Torquay,4-1,2-1,Forest Green
+Sat Dec 26 2015,Welling United,1-2,0-1,Dover Athletic
+Sat Dec 26 2015,Wrexham,0-1,0-1,Southport
+Mon Dec 28 2015,Cheltenham,1-0,0-0,Torquay
+Mon Dec 28 2015,Chester,0-2,0-2,Macclesfield
+Mon Dec 28 2015,Dover Athletic,2-3,1-1,Bromley
+Mon Dec 28 2015,Eastleigh,1-1,1-1,Aldershot
+Mon Dec 28 2015,Forest Green,3-0,1-0,Kidderminster
+Mon Dec 28 2015,Gateshead,3-0,0-0,Guiseley
+Mon Dec 28 2015,Grimsby,2-0,1-0,Lincoln
+Mon Dec 28 2015,Halifax,2-0,2-0,Wrexham
+Mon Dec 28 2015,Southport,2-1,1-1,Barrow
+Mon Dec 28 2015,Tranmere,1-0,1-0,Altrincham
+Mon Dec 28 2015,Woking,0-0,0-0,Boreham Wood
+Fri Jan 1 2016,Forest Green,3-1,0-0,Torquay
+Sat Jan 2 2016,Chester,1-1,1-0,Altrincham
+Sat Jan 2 2016,Gateshead,1-1,1-0,Barrow
+Sat Jan 2 2016,Grimsby,1-1,0-1,Guiseley
+Sat Jan 2 2016,Halifax,2-2,1-1,Lincoln
+Sat Jan 2 2016,Southport,3-2,1-1,Wrexham
+Sat Jan 2 2016,Tranmere,0-1,0-1,Macclesfield
+Sat Jan 2 2016,Woking,2-1,2-0,Aldershot
+Sat Jan 9 2016,Aldershot,3-1,0-0,Chester
+Sat Jan 9 2016,Barrow,3-4,0-1,Tranmere
+Sat Jan 9 2016,Boreham Wood,0-0,0-0,Cheltenham
+Sat Jan 9 2016,Bromley,0-0,0-0,Southport
+Sat Jan 9 2016,Lincoln,2-3,1-1,Dover Athletic
+Sat Jan 9 2016,Macclesfield,0-1,0-0,Halifax
+Sat Jan 9 2016,Welling United,0-4,0-0,Grimsby
+Sat Jan 9 2016,Wrexham,1-3,1-1,Woking
+Sat Jan 16 2016,Lincoln,0-1,0-0,Forest Green
+Sat Jan 23 2016,Boreham Wood,1-1,1-0,Eastleigh
+Sat Jan 23 2016,Bromley,0-1,0-0,Tranmere
+Sat Jan 23 2016,Chester,0-0,0-0,Southport
+Sat Jan 23 2016,Forest Green,1-0,0-0,Braintree Town
+Sat Jan 23 2016,Grimsby,5-0,2-0,Altrincham
+Sat Jan 23 2016,Kidderminster,0-1,0-0,Guiseley
+Sat Jan 23 2016,Macclesfield,0-2,0-1,Aldershot
+Sat Jan 23 2016,Torquay,0-2,0-1,Gateshead
+Sat Jan 23 2016,Welling United,1-2,1-1,Barrow
+Sat Jan 23 2016,Woking,1-1,1-1,Halifax
+Sat Jan 23 2016,Wrexham,3-1,1-1,Lincoln
+Sun Jan 24 2016,Dover Athletic,1-2,0-0,Cheltenham
+Tue Jan 26 2016,Altrincham,3-1,2-0,Woking
+Tue Jan 26 2016,Braintree Town,1-0,0-0,Wrexham
+Tue Jan 26 2016,Southport,0-1,0-0,Forest Green
+Sat Jan 30 2016,Aldershot,1-0,0-0,Kidderminster
+Sat Jan 30 2016,Braintree Town,2-0,2-0,Chester
+Sat Jan 30 2016,Cheltenham,4-1,2-0,Bromley
+Sat Jan 30 2016,Eastleigh,1-1,1-1,Wrexham
+Sat Jan 30 2016,Forest Green,2-1,0-0,Macclesfield
+Sat Jan 30 2016,Gateshead,1-0,1-0,Grimsby
+Sat Jan 30 2016,Halifax,1-1,0-0,Welling United
+Sat Jan 30 2016,Lincoln,1-0,1-0,Guiseley
+Sat Jan 30 2016,Tranmere,2-1,1-0,Torquay
+Sat Jan 30 2016,Woking,2-2,2-2,Barrow
+Tue Feb 2 2016,Barrow,0-0,0-0,Gateshead
+Tue Feb 2 2016,Braintree Town,1-0,1-0,Welling United
+Sat Feb 6 2016,Barrow,1-2,0-1,Cheltenham
+Sat Feb 6 2016,Boreham Wood,0-2,0-1,Kidderminster
+Sat Feb 6 2016,Lincoln,3-0,3-0,Eastleigh
+Sat Feb 6 2016,Tranmere,1-0,0-0,Southport
+Sat Feb 6 2016,Welling United,1-1,0-0,Altrincham
+Sat Feb 6 2016,Wrexham,2-2,0-1,Forest Green
+Tue Feb 9 2016,Altrincham,1-1,1-1,Wrexham
+Tue Feb 9 2016,Bromley,1-2,1-1,Grimsby
+Tue Feb 9 2016,Kidderminster,3-2,1-0,Eastleigh
+Sat Feb 13 2016,Aldershot,0-0,0-0,Tranmere
+Sat Feb 13 2016,Altrincham,3-3,2-2,Lincoln
+Sat Feb 13 2016,Cheltenham,2-0,1-0,Welling United
+Sat Feb 13 2016,Dover Athletic,4-0,3-0,Gateshead
+Sat Feb 13 2016,Grimsby,0-0,0-0,Boreham Wood
+Sat Feb 13 2016,Halifax,0-2,0-2,Forest Green
+Sat Feb 13 2016,Kidderminster,3-1,3-0,Macclesfield
+Sat Feb 13 2016,Southport,1-1,0-1,Braintree Town
+Sat Feb 13 2016,Woking,0-1,0-1,Guiseley
+Sat Feb 13 2016,Wrexham,2-0,2-0,Bromley
+Tue Feb 16 2016,Altrincham,0-3,0-2,Chester
+Tue Feb 16 2016,Braintree Town,0-2,0-0,Boreham Wood
+Tue Feb 16 2016,Cheltenham,2-0,0-0,Kidderminster
+Tue Feb 16 2016,Gateshead,2-1,2-0,Eastleigh
+Sat Feb 20 2016,Altrincham,1-1,1-0,Guiseley
+Sat Feb 20 2016,Boreham Wood,0-1,0-0,Torquay
+Sat Feb 20 2016,Bromley,2-1,2-1,Woking
+Sat Feb 20 2016,Forest Green,2-1,0-0,Eastleigh
+Sat Feb 20 2016,Gateshead,3-2,2-2,Aldershot
+Sat Feb 20 2016,Halifax,4-2,3-0,Grimsby
+Sat Feb 20 2016,Kidderminster,2-2,2-0,Chester
+Sat Feb 20 2016,Lincoln,3-1,1-0,Southport
+Sat Feb 20 2016,Tranmere,0-1,0-1,Cheltenham
+Sat Feb 20 2016,Welling United,0-2,0-2,Wrexham
+Tue Feb 23 2016,Braintree Town,2-0,1-0,Halifax
+Tue Feb 23 2016,Cheltenham,0-0,0-0,Gateshead
+Tue Feb 23 2016,Grimsby,3-1,3-1,Woking
+Tue Feb 23 2016,Guiseley,0-1,0-0,Forest Green
+Tue Feb 23 2016,Torquay,2-0,0-0,Welling United
+Tue Feb 23 2016,Wrexham,2-0,2-0,Kidderminster
+Sat Feb 27 2016,Barrow,2-2,0-1,Forest Green
+Sat Feb 27 2016,Guiseley,1-1,0-1,Braintree Town
+Sat Feb 27 2016,Kidderminster,0-1,0-0,Bromley
+Sat Feb 27 2016,Macclesfield,0-0,0-0,Wrexham
+Sat Feb 27 2016,Southport,0-3,0-2,Boreham Wood
+Sat Feb 27 2016,Welling United,0-1,0-0,Aldershot
+Sun Feb 28 2016,Chester,0-1,0-0,Tranmere
+Tue Mar 1 2016,Braintree Town,2-1,1-0,Kidderminster
+Tue Mar 1 2016,Bromley,2-0,1-0,Welling United
+Tue Mar 1 2016,Dover Athletic,1-2,0-1,Southport
+Tue Mar 1 2016,Eastleigh,1-0,1-0,Cheltenham
+Tue Mar 1 2016,Macclesfield,1-2,1-1,Torquay
+Fri Mar 4 2016,Forest Green,0-1,0-0,Grimsby
+Sat Mar 5 2016,Altrincham,0-0,0-0,Macclesfield
+Sat Mar 5 2016,Boreham Wood,0-2,0-2,Barrow
+Sat Mar 5 2016,Braintree Town,2-0,1-0,Eastleigh
+Sat Mar 5 2016,Chester,1-1,1-0,Bromley
+Sat Mar 5 2016,Lincoln,2-0,1-0,Aldershot
+Sat Mar 5 2016,Southport,0-1,0-0,Halifax
+Sat Mar 5 2016,Torquay,3-2,2-0,Kidderminster
+Sat Mar 5 2016,Tranmere,3-1,2-0,Gateshead
+Sat Mar 5 2016,Welling United,1-1,0-0,Cheltenham
+Sat Mar 5 2016,Woking,0-1,0-1,Dover Athletic
+Tue Mar 8 2016,Altrincham,2-3,0-1,Gateshead
+Tue Mar 8 2016,Barrow,0-0,0-0,Boreham Wood
+Tue Mar 8 2016,Bromley,1-0,0-0,Halifax
+Tue Mar 8 2016,Chester,8-2,6-1,Aldershot
+Tue Mar 8 2016,Dover Athletic,2-1,1-1,Welling United
+Tue Mar 8 2016,Eastleigh,2-1,0-1,Woking
+Tue Mar 8 2016,Grimsby,1-0,1-0,Southport
+Tue Mar 8 2016,Guiseley,2-2,1-1,Tranmere
+Tue Mar 8 2016,Torquay,0-0,0-0,Braintree Town
+Sat Mar 12 2016,Aldershot,0-0,0-0,Torquay
+Sat Mar 12 2016,Barrow,3-2,1-1,Altrincham
+Sat Mar 12 2016,Bromley,2-0,0-0,Guiseley
+Sat Mar 12 2016,Cheltenham,4-0,2-0,Woking
+Sat Mar 12 2016,Dover Athletic,0-0,0-0,Tranmere
+Sat Mar 12 2016,Eastleigh,1-0,0-0,Chester
+Sat Mar 12 2016,Gateshead,0-1,0-1,Forest Green
+Sat Mar 12 2016,Macclesfield,1-1,0-1,Lincoln
+Sat Mar 12 2016,Southport,3-3,1-0,Welling United
+Sat Mar 12 2016,Wrexham,1-0,1-0,Boreham Wood
+Tue Mar 15 2016,Braintree Town,0-0,0-0,Gateshead
+Tue Mar 15 2016,Dover Athletic,4-1,1-0,Lincoln
+Tue Mar 15 2016,Eastleigh,2-0,2-0,Bromley
+Tue Mar 15 2016,Guiseley,2-2,1-1,Grimsby
+Tue Mar 15 2016,Torquay,0-0,0-0,Halifax
+Sat Mar 19 2016,Altrincham,4-0,1-0,Aldershot
+Sat Mar 19 2016,Barrow,1-1,0-0,Bromley
+Sat Mar 19 2016,Boreham Wood,0-0,0-0,Macclesfield
+Sat Mar 19 2016,Braintree Town,1-0,0-0,Cheltenham
+Sat Mar 19 2016,Guiseley,0-1,0-1,Dover Athletic
+Sat Mar 19 2016,Lincoln,1-2,1-0,Kidderminster
+Sat Mar 19 2016,Torquay,1-0,0-0,Southport
+Sat Mar 19 2016,Tranmere,1-1,0-1,Forest Green
+Sat Mar 19 2016,Welling United,0-1,0-1,Gateshead
+Sat Mar 19 2016,Wrexham,3-0,0-0,Chester
+Fri Mar 25 2016,Braintree Town,1-0,1-0,Bromley
+Fri Mar 25 2016,Cheltenham,4-1,2-0,Boreham Wood
+Fri Mar 25 2016,Eastleigh,0-0,0-0,Welling United
+Fri Mar 25 2016,Forest Green,0-0,0-0,Aldershot
+Fri Mar 25 2016,Gateshead,0-3,0-2,Macclesfield
+Fri Mar 25 2016,Tranmere,3-2,2-1,Lincoln
+Sat Mar 26 2016,Chester,1-2,1-0,Barrow
+Sat Mar 26 2016,Dover Athletic,5-0,4-0,Torquay
+Sat Mar 26 2016,Grimsby,1-0,1-0,Wrexham
+Sat Mar 26 2016,Halifax,1-0,0-0,Altrincham
+Sat Mar 26 2016,Southport,2-0,1-0,Guiseley
+Sat Mar 26 2016,Woking,1-1,1-0,Kidderminster
+Mon Mar 28 2016,Aldershot,2-1,1-1,Braintree Town
+Mon Mar 28 2016,Altrincham,1-1,0-0,Southport
+Mon Mar 28 2016,Barrow,4-1,1-0,Halifax
+Mon Mar 28 2016,Boreham Wood,3-0,2-0,Dover Athletic
+Mon Mar 28 2016,Bromley,2-2,0-2,Forest Green
+Mon Mar 28 2016,Guiseley,3-3,0-1,Chester
+Mon Mar 28 2016,Kidderminster,0-2,0-1,Tranmere
+Mon Mar 28 2016,Lincoln,1-1,1-0,Gateshead
+Mon Mar 28 2016,Macclesfield,2-1,1-0,Grimsby
+Mon Mar 28 2016,Torquay,0-1,0-1,Eastleigh
+Mon Mar 28 2016,Welling United,2-1,1-0,Woking
+Mon Mar 28 2016,Wrexham,2-1,1-1,Cheltenham
+Fri Apr 1 2016,Cheltenham,3-1,1-0,Grimsby
+Sat Apr 2 2016,Aldershot,0-1,0-0,Barrow
+Sat Apr 2 2016,Bromley,2-0,1-0,Lincoln
+Sat Apr 2 2016,Chester,2-2,1-1,Boreham Wood
+Sat Apr 2 2016,Dover Athletic,1-0,1-0,Halifax
+Sat Apr 2 2016,Eastleigh,1-1,1-0,Guiseley
+Sat Apr 2 2016,Forest Green,0-0,0-0,Wrexham
+Sat Apr 2 2016,Gateshead,1-2,1-0,Torquay
+Sat Apr 2 2016,Kidderminster,1-1,0-1,Altrincham
+Sat Apr 2 2016,Macclesfield,3-1,1-0,Braintree Town
+Sat Apr 2 2016,Southport,2-2,0-1,Woking
+Sat Apr 2 2016,Tranmere,1-2,1-1,Welling United
+Tue Apr 5 2016,Aldershot,3-4,2-0,Grimsby
+Tue Apr 5 2016,Altrincham,1-2,1-0,Dover Athletic
+Tue Apr 5 2016,Barrow,2-0,1-0,Braintree Town
+Tue Apr 5 2016,Halifax,3-2,2-0,Boreham Wood
+Tue Apr 5 2016,Torquay,2-0,1-0,Chester
+Sat Apr 9 2016,Altrincham,0-0,0-0,Bromley
+Sat Apr 9 2016,Barrow,1-1,1-1,Macclesfield
+Sat Apr 9 2016,Boreham Wood,0-2,0-2,Southport
+Sat Apr 9 2016,Braintree Town,1-1,1-1,Forest Green
+Sat Apr 9 2016,Grimsby,0-0,0-0,Eastleigh
+Sat Apr 9 2016,Guiseley,0-2,0-0,Cheltenham
+Sat Apr 9 2016,Halifax,0-2,0-0,Aldershot
+Sat Apr 9 2016,Lincoln,2-1,1-0,Chester
+Sat Apr 9 2016,Torquay,0-1,0-0,Tranmere
+Sat Apr 9 2016,Welling United,1-2,1-0,Kidderminster
+Sat Apr 9 2016,Woking,1-1,1-1,Gateshead
+Sat Apr 9 2016,Wrexham,0-1,0-0,Dover Athletic
+Tue Apr 12 2016,Eastleigh,3-1,2-0,Barrow
+Tue Apr 12 2016,Grimsby,0-1,0-0,Braintree Town
+Tue Apr 12 2016,Guiseley,3-1,3-0,Wrexham
+Tue Apr 12 2016,Kidderminster,1-0,0-0,Halifax
+Tue Apr 12 2016,Macclesfield,0-0,0-0,Dover Athletic
+Tue Apr 12 2016,Torquay,2-0,1-0,Altrincham
+Sat Apr 16 2016,Aldershot,1-2,1-1,Boreham Wood
+Sat Apr 16 2016,Bromley,0-2,0-1,Torquay
+Sat Apr 16 2016,Cheltenham,2-0,2-0,Halifax
+Sat Apr 16 2016,Chester,4-0,1-0,Welling United
+Sat Apr 16 2016,Dover Athletic,1-1,0-1,Grimsby
+Sat Apr 16 2016,Eastleigh,2-0,0-0,Altrincham
+Sat Apr 16 2016,Forest Green,1-2,1-0,Woking
+Sat Apr 16 2016,Gateshead,2-3,1-2,Braintree Town
+Sat Apr 16 2016,Kidderminster,0-0,0-0,Barrow
+Sat Apr 16 2016,Macclesfield,1-0,0-0,Guiseley
+Sat Apr 16 2016,Southport,2-2,1-1,Lincoln
+Sat Apr 16 2016,Tranmere,1-2,0-1,Wrexham
+Tue Apr 19 2016,Halifax,0-0,0-0,Eastleigh
+Tue Apr 19 2016,Woking,1-3,0-1,Grimsby
+Sat Apr 23 2016,Aldershot,1-2,1-2,Southport
+Sat Apr 23 2016,Altrincham,5-0,2-0,Welling United
+Sat Apr 23 2016,Boreham Wood,1-0,1-0,Guiseley
+Sat Apr 23 2016,Eastleigh,0-1,0-0,Tranmere
+Sat Apr 23 2016,Forest Green,0-1,0-0,Halifax
+Sat Apr 23 2016,Gateshead,3-1,2-0,Bromley
+Sat Apr 23 2016,Grimsby,1-2,0-0,Chester
+Sat Apr 23 2016,Kidderminster,1-1,1-1,Dover Athletic
+Sat Apr 23 2016,Lincoln,2-3,0-2,Woking
+Sat Apr 23 2016,Macclesfield,0-1,0-1,Cheltenham
+Sat Apr 23 2016,Torquay,2-2,0-1,Barrow
+Sat Apr 23 2016,Wrexham,2-3,2-2,Braintree Town
+Sat Apr 30 2016,Barrow,2-0,1-0,Wrexham
+Sat Apr 30 2016,Braintree Town,3-0,2-0,Altrincham
+Sat Apr 30 2016,Bromley,1-3,1-1,Aldershot
+Sat Apr 30 2016,Cheltenham,3-1,1-1,Lincoln
+Sat Apr 30 2016,Chester,4-2,0-0,Gateshead
+Sat Apr 30 2016,Dover Athletic,0-1,0-0,Forest Green
+Sat Apr 30 2016,Guiseley,4-3,3-0,Torquay
+Sat Apr 30 2016,Halifax,1-1,1-0,Macclesfield
+Sat Apr 30 2016,Southport,3-4,1-2,Kidderminster
+Sat Apr 30 2016,Tranmere,1-0,1-0,Grimsby
+Sat Apr 30 2016,Welling United,0-3,0-2,Boreham Wood
+Sat Apr 30 2016,Woking,2-1,2-0,Eastleigh

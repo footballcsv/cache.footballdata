@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 13 1994,Barnsley,2-1,?,Derby
+Sat Aug 13 1994,Bristol City,0-0,?,Sunderland
+Sat Aug 13 1994,Grimsby,3-3,?,Bolton
+Sat Aug 13 1994,Luton,1-1,?,West Brom
+Sat Aug 13 1994,Middlesbrough,2-0,?,Burnley
+Sat Aug 13 1994,Millwall,3-1,?,Southend
+Sat Aug 13 1994,Oldham,5-2,?,Charlton
+Sat Aug 13 1994,Portsmouth,2-1,?,Notts County
+Sat Aug 13 1994,Sheffield United,3-0,?,Watford
+Sat Aug 13 1994,Stoke,1-0,?,Tranmere
+Sat Aug 13 1994,Wolves,1-0,?,Reading
+Sun Aug 14 1994,Swindon,2-0,?,Port Vale
+Sat Aug 20 1994,Bolton,0-2,?,Bristol City
+Sat Aug 20 1994,Burnley,1-1,?,Stoke
+Sat Aug 20 1994,Charlton,2-2,?,Barnsley
+Sat Aug 20 1994,Derby,0-0,?,Luton
+Sat Aug 20 1994,Port Vale,3-1,?,Oldham
+Sat Aug 20 1994,Reading,0-0,?,Portsmouth
+Sat Aug 20 1994,Southend,0-2,?,Middlesbrough
+Sat Aug 20 1994,Sunderland,1-1,?,Millwall
+Sat Aug 20 1994,Tranmere,3-2,?,Swindon
+Sat Aug 20 1994,Watford,0-0,?,Grimsby
+Sun Aug 21 1994,Notts County,1-1,?,Wolves
+Sat Aug 27 1994,Barnsley,0-2,?,Reading
+Sat Aug 27 1994,Bristol City,0-0,?,Port Vale
+Sat Aug 27 1994,Grimsby,3-1,?,Tranmere
+Sat Aug 27 1994,Luton,2-2,?,Southend
+Sat Aug 27 1994,Middlesbrough,1-0,?,Bolton
+Sat Aug 27 1994,Millwall,4-1,?,Derby
+Sat Aug 27 1994,Oldham,3-0,?,Burnley
+Sat Aug 27 1994,Portsmouth,1-1,?,Charlton
+Sat Aug 27 1994,Sheffield United,1-3,?,Notts County
+Sat Aug 27 1994,Stoke,0-1,?,Sunderland
+Sat Aug 27 1994,Swindon,1-0,?,Watford
+Sun Aug 28 1994,Wolves,2-0,?,West Brom
+Tue Aug 30 1994,Bolton,1-0,?,Millwall
+Tue Aug 30 1994,Burnley,1-1,?,Bristol City
+Tue Aug 30 1994,Charlton,1-1,?,Sheffield United
+Tue Aug 30 1994,Notts County,1-3,?,Oldham
+Tue Aug 30 1994,Port Vale,2-1,?,Barnsley
+Tue Aug 30 1994,Reading,4-0,?,Stoke
+Tue Aug 30 1994,Southend,1-2,?,Portsmouth
+Tue Aug 30 1994,Sunderland,2-2,?,Grimsby
+Tue Aug 30 1994,Tranmere,4-2,?,Luton
+Tue Aug 30 1994,Watford,2-1,?,Wolves
+Wed Aug 31 1994,Derby,0-1,?,Middlesbrough
+Wed Aug 31 1994,West Brom,0-0,?,Swindon
+Sat Sep 3 1994,Bolton,4-0,?,Stoke
+Sat Sep 3 1994,Burnley,0-1,?,Barnsley
+Sat Sep 3 1994,Charlton,3-2,?,Bristol City
+Sat Sep 3 1994,Derby,2-1,?,Grimsby
+Sat Sep 3 1994,Notts County,0-1,?,Swindon
+Sat Sep 3 1994,Port Vale,0-1,?,Luton
+Sat Sep 3 1994,Reading,0-0,?,Millwall
+Sat Sep 3 1994,Southend,1-0,?,Oldham
+Sat Sep 3 1994,Sunderland,1-1,?,Wolves
+Sat Sep 3 1994,Tranmere,2-1,?,Sheffield United
+Sat Sep 3 1994,Watford,1-1,?,Middlesbrough
+Sat Sep 10 1994,Barnsley,0-0,?,Watford
+Sat Sep 10 1994,Bristol City,2-1,?,Notts County
+Sat Sep 10 1994,Grimsby,0-1,?,Charlton
+Sat Sep 10 1994,Luton,0-1,?,Burnley
+Sat Sep 10 1994,Millwall,2-2,?,West Brom
+Sat Sep 10 1994,Oldham,1-3,?,Reading
+Sat Sep 10 1994,Portsmouth,0-2,?,Port Vale
+Sat Sep 10 1994,Sheffield United,3-1,?,Bolton
+Sat Sep 10 1994,Stoke,4-1,?,Southend
+Sat Sep 10 1994,Wolves,2-0,?,Tranmere
+Sun Sep 11 1994,Middlesbrough,2-2,?,Sunderland
+Sun Sep 11 1994,Swindon,1-1,?,Derby
+Tue Sep 13 1994,Barnsley,1-1,?,Notts County
+Tue Sep 13 1994,Bristol City,0-2,?,Derby
+Tue Sep 13 1994,Grimsby,4-1,?,Port Vale
+Tue Sep 13 1994,Luton,0-3,?,Bolton
+Tue Sep 13 1994,Oldham,0-2,?,Watford
+Tue Sep 13 1994,Sheffield United,0-0,?,Sunderland
+Tue Sep 13 1994,Wolves,5-0,?,Southend
+Wed Sep 14 1994,Middlesbrough,2-1,?,West Brom
+Wed Sep 14 1994,Millwall,2-3,?,Burnley
+Wed Sep 14 1994,Portsmouth,1-1,?,Tranmere
+Wed Sep 14 1994,Stoke,3-2,?,Charlton
+Wed Sep 14 1994,Swindon,1-0,?,Reading
+Sat Sep 17 1994,Bolton,1-1,?,Portsmouth
+Sat Sep 17 1994,Burnley,0-1,?,Wolves
+Sat Sep 17 1994,Charlton,1-0,?,Swindon
+Sat Sep 17 1994,Derby,2-1,?,Oldham
+Sat Sep 17 1994,Notts County,0-2,?,Stoke
+Sat Sep 17 1994,Port Vale,2-1,?,Middlesbrough
+Sat Sep 17 1994,Reading,1-0,?,Sheffield United
+Sat Sep 17 1994,Southend,2-1,?,Bristol City
+Sat Sep 17 1994,Sunderland,2-0,?,Barnsley
+Sat Sep 17 1994,Tranmere,3-1,?,Millwall
+Sat Sep 17 1994,Watford,2-4,?,Luton
+Sat Sep 17 1994,West Brom,1-1,?,Grimsby
+Sat Sep 24 1994,Bristol City,0-1,?,Middlesbrough
+Sat Sep 24 1994,Millwall,0-0,?,Luton
+Sat Sep 24 1994,Notts County,3-3,?,Charlton
+Sat Sep 24 1994,Oldham,1-0,?,Barnsley
+Sat Sep 24 1994,Port Vale,0-2,?,Sheffield United
+Sat Sep 24 1994,Portsmouth,1-2,?,Wolves
+Sat Sep 24 1994,Southend,2-1,?,Bolton
+Sat Sep 24 1994,Swindon,3-2,?,Grimsby
+Sat Sep 24 1994,Tranmere,1-0,?,Sunderland
+Sat Sep 24 1994,Watford,2-2,?,Reading
+Sat Sep 24 1994,West Brom,1-0,?,Burnley
+Sun Sep 25 1994,Derby,3-0,?,Stoke
+Wed Sep 28 1994,West Brom,0-2,?,Portsmouth
+Sat Oct 1 1994,Barnsley,2-1,?,Swindon
+Sat Oct 1 1994,Bolton,1-0,?,Derby
+Sat Oct 1 1994,Burnley,1-1,?,Tranmere
+Sat Oct 1 1994,Charlton,3-0,?,Watford
+Sat Oct 1 1994,Grimsby,2-0,?,Portsmouth
+Sat Oct 1 1994,Luton,0-1,?,Bristol City
+Sat Oct 1 1994,Middlesbrough,3-0,?,Millwall
+Sat Oct 1 1994,Reading,2-0,?,Notts County
+Sat Oct 1 1994,Sheffield United,2-0,?,Oldham
+Sat Oct 1 1994,Sunderland,0-1,?,Southend
+Sat Oct 1 1994,Wolves,2-1,?,Port Vale
+Sun Oct 2 1994,Stoke,4-1,?,West Brom
+Sat Oct 8 1994,Barnsley,0-0,?,Southend
+Sat Oct 8 1994,Bristol City,1-0,?,Millwall
+Sat Oct 8 1994,Burnley,2-2,?,Bolton
+Sat Oct 8 1994,Charlton,1-2,?,Reading
+Sat Oct 8 1994,Derby,1-1,?,Watford
+Sat Oct 8 1994,Grimsby,0-0,?,Sheffield United
+Sat Oct 8 1994,Middlesbrough,0-1,?,Tranmere
+Sat Oct 8 1994,Notts County,2-2,?,Port Vale
+Sat Oct 8 1994,Oldham,3-2,?,Portsmouth
+Sat Oct 8 1994,Swindon,3-2,?,Wolves
+Sat Oct 8 1994,West Brom,1-3,?,Sunderland
+Sun Oct 9 1994,Stoke,1-2,?,Luton
+Sat Oct 15 1994,Luton,5-1,?,Middlesbrough
+Sat Oct 15 1994,Millwall,1-1,?,Stoke
+Sat Oct 15 1994,Port Vale,0-2,?,Charlton
+Sat Oct 15 1994,Portsmouth,4-3,?,Swindon
+Sat Oct 15 1994,Reading,1-0,?,Bristol City
+Sat Oct 15 1994,Sunderland,0-0,?,Burnley
+Sat Oct 15 1994,Tranmere,3-1,?,West Brom
+Sat Oct 15 1994,Watford,3-1,?,Notts County
+Sat Oct 15 1994,Wolves,2-1,?,Grimsby
+Sun Oct 16 1994,Bolton,2-2,?,Oldham
+Sun Oct 16 1994,Sheffield United,0-0,?,Barnsley
+Sun Oct 16 1994,Southend,1-0,?,Derby
+Tue Oct 18 1994,West Brom,1-0,?,Sheffield United
+Sat Oct 22 1994,Barnsley,2-0,?,West Brom
+Sat Oct 22 1994,Charlton,1-2,?,Burnley
+Sat Oct 22 1994,Grimsby,1-0,?,Bristol City
+Sat Oct 22 1994,Oldham,0-0,?,Stoke
+Sat Oct 22 1994,Port Vale,1-1,?,Bolton
+Sat Oct 22 1994,Reading,0-2,?,Sunderland
+Sat Oct 22 1994,Sheffield United,1-3,?,Luton
+Sat Oct 22 1994,Swindon,2-2,?,Southend
+Sat Oct 22 1994,Watford,2-0,?,Tranmere
+Sat Oct 22 1994,Wolves,3-3,?,Millwall
+Sun Oct 23 1994,Notts County,0-0,?,Derby
+Sun Oct 23 1994,Portsmouth,0-0,?,Middlesbrough
+Sat Oct 29 1994,Bolton,3-0,?,Watford
+Sat Oct 29 1994,Bristol City,1-1,?,Portsmouth
+Sat Oct 29 1994,Burnley,2-1,?,Notts County
+Sat Oct 29 1994,Derby,2-2,?,Charlton
+Sat Oct 29 1994,Luton,0-1,?,Barnsley
+Sat Oct 29 1994,Middlesbrough,3-1,?,Swindon
+Sat Oct 29 1994,Millwall,2-1,?,Sheffield United
+Sat Oct 29 1994,Southend,0-0,?,Grimsby
+Sat Oct 29 1994,Sunderland,0-0,?,Oldham
+Sat Oct 29 1994,Tranmere,1-1,?,Port Vale
+Sat Oct 29 1994,West Brom,2-0,?,Reading
+Sun Oct 30 1994,Stoke,1-1,?,Wolves
+Tue Nov 1 1994,Bolton,3-0,?,Swindon
+Tue Nov 1 1994,Bristol City,1-5,?,Wolves
+Tue Nov 1 1994,Burnley,1-1,?,Watford
+Tue Nov 1 1994,Luton,1-2,?,Grimsby
+Tue Nov 1 1994,Middlesbrough,2-1,?,Oldham
+Tue Nov 1 1994,Southend,1-0,?,Notts County
+Tue Nov 1 1994,Sunderland,1-1,?,Charlton
+Tue Nov 1 1994,Tranmere,6-1,?,Barnsley
+Wed Nov 2 1994,Derby,1-2,?,Reading
+Wed Nov 2 1994,Millwall,2-2,?,Portsmouth
+Wed Nov 2 1994,Stoke,1-1,?,Sheffield United
+Wed Nov 2 1994,West Brom,0-0,?,Port Vale
+Sat Nov 5 1994,Barnsley,2-0,?,Stoke
+Sat Nov 5 1994,Charlton,1-2,?,Bolton
+Sat Nov 5 1994,Grimsby,2-1,?,Middlesbrough
+Sat Nov 5 1994,Notts County,3-2,?,Sunderland
+Sat Nov 5 1994,Port Vale,5-0,?,Southend
+Sat Nov 5 1994,Reading,0-0,?,Burnley
+Sat Nov 5 1994,Sheffield United,3-0,?,Bristol City
+Sat Nov 5 1994,Swindon,1-2,?,Millwall
+Sat Nov 5 1994,Watford,1-0,?,West Brom
+Sat Nov 5 1994,Wolves,2-3,?,Luton
+Sun Nov 6 1994,Oldham,0-0,?,Tranmere
+Sun Nov 6 1994,Portsmouth,0-1,?,Derby
+Sat Nov 12 1994,Grimsby,1-0,?,Millwall
+Sat Nov 12 1994,Oldham,0-0,?,Luton
+Sat Nov 12 1994,Sheffield United,2-1,?,Derby
+Sat Nov 12 1994,Watford,1-0,?,Southend
+Sun Nov 13 1994,Charlton,1-1,?,West Brom
+Sat Nov 19 1994,Bolton,2-0,?,Notts County
+Sat Nov 19 1994,Derby,2-0,?,Port Vale
+Sat Nov 19 1994,Luton,2-0,?,Portsmouth
+Sat Nov 19 1994,Millwall,0-1,?,Barnsley
+Sat Nov 19 1994,Southend,4-1,?,Reading
+Sat Nov 19 1994,Stoke,3-0,?,Grimsby
+Sat Nov 19 1994,Sunderland,1-3,?,Watford
+Sat Nov 19 1994,Tranmere,1-1,?,Charlton
+Sat Nov 19 1994,West Brom,3-1,?,Oldham
+Sun Nov 20 1994,Bristol City,3-2,?,Swindon
+Sun Nov 20 1994,Burnley,4-2,?,Sheffield United
+Sun Nov 20 1994,Middlesbrough,1-0,?,Wolves
+Wed Nov 23 1994,Swindon,1-1,?,Burnley
+Wed Nov 23 1994,Wolves,3-1,?,Bolton
+Sat Nov 26 1994,Barnsley,3-0,?,Bolton
+Sat Nov 26 1994,Charlton,0-2,?,Middlesbrough
+Sat Nov 26 1994,Grimsby,2-2,?,Burnley
+Sat Nov 26 1994,Notts County,2-0,?,West Brom
+Sat Nov 26 1994,Oldham,2-0,?,Bristol City
+Sat Nov 26 1994,Port Vale,2-1,?,Millwall
+Sat Nov 26 1994,Portsmouth,1-4,?,Sunderland
+Sat Nov 26 1994,Reading,1-3,?,Tranmere
+Sat Nov 26 1994,Sheffield United,2-0,?,Southend
+Sat Nov 26 1994,Swindon,1-2,?,Luton
+Sat Nov 26 1994,Watford,0-0,?,Stoke
+Sun Nov 27 1994,Wolves,0-2,?,Derby
+Sat Dec 3 1994,Bristol City,1-2,?,Grimsby
+Sat Dec 3 1994,Derby,0-0,?,Notts County
+Sat Dec 3 1994,Luton,3-6,?,Sheffield United
+Sat Dec 3 1994,Middlesbrough,4-0,?,Portsmouth
+Sat Dec 3 1994,Southend,2-0,?,Swindon
+Sat Dec 3 1994,Sunderland,0-1,?,Reading
+Sat Dec 3 1994,Tranmere,2-1,?,Watford
+Sat Dec 3 1994,West Brom,2-1,?,Barnsley
+Sun Dec 4 1994,Bolton,1-0,?,Port Vale
+Sun Dec 4 1994,Millwall,1-0,?,Wolves
+Sun Dec 4 1994,Stoke,0-1,?,Oldham
+Wed Dec 7 1994,Barnsley,2-1,?,Bristol City
+Wed Dec 7 1994,Notts County,1-0,?,Tranmere
+Wed Dec 7 1994,Port Vale,0-0,?,Sunderland
+Wed Dec 7 1994,Portsmouth,0-1,?,Stoke
+Wed Dec 7 1994,Reading,1-1,?,Middlesbrough
+Sat Dec 10 1994,Barnsley,2-1,?,Charlton
+Sat Dec 10 1994,Bristol City,0-1,?,Bolton
+Sat Dec 10 1994,Grimsby,0-0,?,Watford
+Sat Dec 10 1994,Middlesbrough,1-2,?,Southend
+Sat Dec 10 1994,Millwall,2-0,?,Sunderland
+Sat Dec 10 1994,Oldham,3-2,?,Port Vale
+Sat Dec 10 1994,Portsmouth,1-1,?,Reading
+Sat Dec 10 1994,Sheffield United,2-0,?,West Brom
+Sat Dec 10 1994,Stoke,2-0,?,Burnley
+Sat Dec 10 1994,Swindon,2-2,?,Tranmere
+Sat Dec 10 1994,Wolves,1-0,?,Notts County
+Sun Dec 11 1994,Luton,0-0,?,Derby
+Sat Dec 17 1994,Bolton,3-3,?,Grimsby
+Sat Dec 17 1994,Charlton,2-0,?,Oldham
+Sat Dec 17 1994,Derby,1-0,?,Barnsley
+Sat Dec 17 1994,Notts County,0-1,?,Portsmouth
+Sat Dec 17 1994,Port Vale,2-2,?,Swindon
+Sat Dec 17 1994,Southend,0-1,?,Millwall
+Sat Dec 17 1994,Sunderland,2-0,?,Bristol City
+Sat Dec 17 1994,Tranmere,0-1,?,Stoke
+Sat Dec 17 1994,Watford,0-0,?,Sheffield United
+Sun Dec 18 1994,Burnley,0-3,?,Middlesbrough
+Sun Dec 18 1994,Reading,4-2,?,Wolves
+Sun Dec 18 1994,West Brom,1-0,?,Luton
+Mon Dec 26 1994,Barnsley,4-1,?,Grimsby
+Mon Dec 26 1994,Charlton,3-1,?,Southend
+Mon Dec 26 1994,Notts County,0-1,?,Millwall
+Mon Dec 26 1994,Oldham,4-1,?,Wolves
+Mon Dec 26 1994,Reading,0-0,?,Luton
+Mon Dec 26 1994,Sheffield United,1-1,?,Middlesbrough
+Mon Dec 26 1994,Stoke,0-0,?,Swindon
+Mon Dec 26 1994,Sunderland,1-1,?,Bolton
+Mon Dec 26 1994,Tranmere,3-1,?,Derby
+Mon Dec 26 1994,Watford,2-0,?,Portsmouth
+Mon Dec 26 1994,West Brom,1-0,?,Bristol City
+Tue Dec 27 1994,Bolton,1-0,?,Tranmere
+Tue Dec 27 1994,Bristol City,3-1,?,Stoke
+Tue Dec 27 1994,Luton,3-0,?,Sunderland
+Tue Dec 27 1994,Millwall,2-1,?,Watford
+Tue Dec 27 1994,Portsmouth,3-0,?,Barnsley
+Tue Dec 27 1994,Southend,2-1,?,West Brom
+Tue Dec 27 1994,Swindon,1-3,?,Sheffield United
+Wed Dec 28 1994,Grimsby,1-3,?,Oldham
+Wed Dec 28 1994,Middlesbrough,2-1,?,Notts County
+Wed Dec 28 1994,Port Vale,0-2,?,Reading
+Wed Dec 28 1994,Wolves,2-0,?,Charlton
+Sat Dec 31 1994,Barnsley,1-3,?,Wolves
+Sat Dec 31 1994,Burnley,5-1,?,Southend
+Sat Dec 31 1994,Notts County,0-1,?,Luton
+Sat Dec 31 1994,Oldham,1-1,?,Swindon
+Sat Dec 31 1994,Reading,1-1,?,Grimsby
+Sat Dec 31 1994,Sheffield United,3-1,?,Portsmouth
+Sat Dec 31 1994,Stoke,1-1,?,Middlesbrough
+Sat Dec 31 1994,Sunderland,1-1,?,Derby
+Sat Dec 31 1994,Tranmere,2-0,?,Bristol City
+Sat Dec 31 1994,Watford,3-2,?,Port Vale
+Sat Dec 31 1994,West Brom,1-0,?,Bolton
+Sun Jan 1 1995,Charlton,1-1,?,Millwall
+Mon Jan 2 1995,Bolton,1-0,?,Reading
+Mon Jan 2 1995,Bristol City,0-0,?,Watford
+Mon Jan 2 1995,Derby,1-1,?,West Brom
+Mon Jan 2 1995,Luton,0-1,?,Charlton
+Mon Jan 2 1995,Portsmouth,2-0,?,Burnley
+Mon Jan 2 1995,Southend,0-0,?,Tranmere
+Mon Jan 2 1995,Wolves,2-2,?,Sheffield United
+Tue Jan 3 1995,Millwall,1-1,?,Oldham
+Sat Jan 14 1995,Barnsley,3-1,?,Luton
+Sat Jan 14 1995,Charlton,3-4,?,Derby
+Sat Jan 14 1995,Grimsby,4-1,?,Southend
+Sat Jan 14 1995,Notts County,3-0,?,Burnley
+Sat Jan 14 1995,Oldham,0-0,?,Sunderland
+Sat Jan 14 1995,Portsmouth,0-0,?,Bristol City
+Sat Jan 14 1995,Reading,0-2,?,West Brom
+Sat Jan 14 1995,Sheffield United,1-1,?,Millwall
+Sat Jan 14 1995,Watford,0-0,?,Bolton
+Sat Jan 14 1995,Wolves,2-0,?,Stoke
+Sun Jan 15 1995,Port Vale,2-0,?,Tranmere
+Sun Jan 15 1995,Swindon,2-1,?,Middlesbrough
+Sat Jan 21 1995,Bolton,5-1,?,Charlton
+Sat Jan 21 1995,Bristol City,2-1,?,Sheffield United
+Sat Jan 21 1995,Burnley,1-2,?,Reading
+Sat Jan 21 1995,Middlesbrough,1-1,?,Grimsby
+Sat Jan 21 1995,Sunderland,1-2,?,Notts County
+Sun Jan 22 1995,Derby,3-0,?,Portsmouth
+Sun Jan 22 1995,Tranmere,3-1,?,Oldham
+Sat Jan 28 1995,Grimsby,2-1,?,Notts County
+Sat Jan 28 1995,Southend,1-2,?,Port Vale
+Sat Jan 28 1995,West Brom,0-1,?,Watford
+Sat Feb 4 1995,Bolton,5-1,?,Wolves
+Sat Feb 4 1995,Bristol City,3-2,?,Barnsley
+Sat Feb 4 1995,Burnley,1-2,?,Swindon
+Sat Feb 4 1995,Derby,2-3,?,Sheffield United
+Sat Feb 4 1995,Luton,2-1,?,Oldham
+Sat Feb 4 1995,Middlesbrough,0-1,?,Reading
+Sat Feb 4 1995,Millwall,2-0,?,Grimsby
+Sat Feb 4 1995,Southend,0-4,?,Watford
+Sat Feb 4 1995,Stoke,0-2,?,Portsmouth
+Sat Feb 4 1995,Sunderland,1-1,?,Port Vale
+Sat Feb 4 1995,Tranmere,3-2,?,Notts County
+Sun Feb 5 1995,West Brom,0-1,?,Charlton
+Wed Feb 8 1995,Notts County,1-1,?,Bolton
+Sat Feb 11 1995,Barnsley,2-2,?,Tranmere
+Sat Feb 11 1995,Charlton,1-0,?,Sunderland
+Sat Feb 11 1995,Grimsby,5-0,?,Luton
+Sat Feb 11 1995,Notts County,2-2,?,Southend
+Sat Feb 11 1995,Port Vale,1-0,?,West Brom
+Sat Feb 11 1995,Reading,1-0,?,Derby
+Sat Feb 11 1995,Sheffield United,1-1,?,Stoke
+Sat Feb 11 1995,Watford,2-0,?,Burnley
+Sat Feb 11 1995,Wolves,2-0,?,Bristol City
+Wed Feb 15 1995,Swindon,0-3,?,Bristol City
+Sat Feb 18 1995,Bolton,2-1,?,Barnsley
+Sat Feb 18 1995,Bristol City,2-2,?,Oldham
+Sat Feb 18 1995,Burnley,0-2,?,Grimsby
+Sat Feb 18 1995,Luton,3-0,?,Swindon
+Sat Feb 18 1995,Middlesbrough,1-0,?,Charlton
+Sat Feb 18 1995,Southend,1-3,?,Sheffield United
+Sat Feb 18 1995,Sunderland,2-2,?,Portsmouth
+Sat Feb 18 1995,Tranmere,1-0,?,Reading
+Sat Feb 18 1995,West Brom,3-2,?,Notts County
+Tue Feb 21 1995,Barnsley,4-1,?,Millwall
+Tue Feb 21 1995,Charlton,0-1,?,Tranmere
+Tue Feb 21 1995,Grimsby,0-0,?,Stoke
+Tue Feb 21 1995,Oldham,1-0,?,West Brom
+Tue Feb 21 1995,Port Vale,1-0,?,Derby
+Tue Feb 21 1995,Portsmouth,3-2,?,Luton
+Tue Feb 21 1995,Reading,2-0,?,Southend
+Tue Feb 21 1995,Sheffield United,2-0,?,Burnley
+Tue Feb 21 1995,Watford,0-1,?,Sunderland
+Tue Feb 21 1995,Wolves,0-2,?,Middlesbrough
+Sat Feb 25 1995,Bristol City,2-2,?,Luton
+Sat Feb 25 1995,Notts County,1-0,?,Reading
+Sat Feb 25 1995,Oldham,3-3,?,Sheffield United
+Sat Feb 25 1995,Port Vale,2-4,?,Wolves
+Sat Feb 25 1995,Portsmouth,2-1,?,Grimsby
+Sat Feb 25 1995,Southend,0-1,?,Sunderland
+Sat Feb 25 1995,Swindon,0-0,?,Barnsley
+Sat Feb 25 1995,Tranmere,4-1,?,Burnley
+Sat Feb 25 1995,West Brom,1-3,?,Stoke
+Sun Feb 26 1995,Derby,2-1,?,Bolton
+Sun Feb 26 1995,Millwall,0-0,?,Middlesbrough
+Wed Mar 1 1995,Millwall,3-1,?,Swindon
+Sat Mar 4 1995,Bolton,3-0,?,Southend
+Sat Mar 4 1995,Burnley,1-1,?,West Brom
+Sat Mar 4 1995,Charlton,1-0,?,Notts County
+Sat Mar 4 1995,Grimsby,1-1,?,Swindon
+Sat Mar 4 1995,Luton,1-1,?,Millwall
+Sat Mar 4 1995,Middlesbrough,3-0,?,Bristol City
+Sat Mar 4 1995,Reading,4-1,?,Watford
+Sat Mar 4 1995,Sheffield United,1-1,?,Port Vale
+Sat Mar 4 1995,Stoke,0-0,?,Derby
+Sun Mar 5 1995,Sunderland,0-1,?,Tranmere
+Sun Mar 5 1995,Wolves,1-0,?,Portsmouth
+Tue Mar 7 1995,Barnsley,2-0,?,Burnley
+Tue Mar 7 1995,Bristol City,2-1,?,Charlton
+Tue Mar 7 1995,Grimsby,0-1,?,Derby
+Tue Mar 7 1995,Luton,2-1,?,Port Vale
+Tue Mar 7 1995,Middlesbrough,2-0,?,Watford
+Tue Mar 7 1995,Oldham,0-2,?,Southend
+Tue Mar 7 1995,Sheffield United,2-0,?,Tranmere
+Wed Mar 8 1995,Millwall,2-0,?,Reading
+Wed Mar 8 1995,Portsmouth,1-2,?,West Brom
+Wed Mar 8 1995,Wolves,1-0,?,Sunderland
+Sat Mar 11 1995,Bolton,1-0,?,Middlesbrough
+Sat Mar 11 1995,Burnley,2-1,?,Oldham
+Sat Mar 11 1995,Charlton,1-0,?,Portsmouth
+Sat Mar 11 1995,Derby,3-2,?,Millwall
+Sat Mar 11 1995,Notts County,2-1,?,Sheffield United
+Sat Mar 11 1995,Port Vale,2-1,?,Bristol City
+Sat Mar 11 1995,Reading,0-3,?,Barnsley
+Sat Mar 11 1995,Southend,3-0,?,Luton
+Sat Mar 11 1995,Sunderland,1-0,?,Stoke
+Sat Mar 11 1995,Tranmere,2-0,?,Grimsby
+Sat Mar 11 1995,Watford,2-0,?,Swindon
+Wed Mar 15 1995,Derby,4-0,?,Burnley
+Wed Mar 15 1995,Portsmouth,3-2,?,Millwall
+Wed Mar 15 1995,Swindon,1-0,?,Sunderland
+Wed Mar 15 1995,West Brom,2-0,?,Wolves
+Thu Mar 16 1995,Middlesbrough,1-1,?,Barnsley
+Thu Mar 16 1995,Oldham,1-1,?,Notts County
+Thu Mar 16 1995,Port Vale,1-1,?,Stoke
+Sat Mar 18 1995,Barnsley,3-1,?,Port Vale
+Sat Mar 18 1995,Bristol City,1-1,?,Burnley
+Sat Mar 18 1995,Luton,2-0,?,Tranmere
+Sat Mar 18 1995,Middlesbrough,2-4,?,Derby
+Sat Mar 18 1995,Portsmouth,1-1,?,Southend
+Sat Mar 18 1995,Sheffield United,2-1,?,Charlton
+Sat Mar 18 1995,Stoke,0-1,?,Reading
+Sat Mar 18 1995,Wolves,1-1,?,Watford
+Sun Mar 19 1995,Grimsby,3-1,?,Sunderland
+Sun Mar 19 1995,Millwall,0-1,?,Bolton
+Sun Mar 19 1995,Swindon,5-2,?,West Brom
+Tue Mar 21 1995,Bolton,1-1,?,Sheffield United
+Tue Mar 21 1995,Burnley,2-1,?,Luton
+Tue Mar 21 1995,Charlton,2-1,?,Grimsby
+Tue Mar 21 1995,Notts County,1-1,?,Bristol City
+Tue Mar 21 1995,Port Vale,1-0,?,Portsmouth
+Tue Mar 21 1995,Reading,2-1,?,Oldham
+Tue Mar 21 1995,Southend,4-2,?,Stoke
+Tue Mar 21 1995,Sunderland,0-1,?,Middlesbrough
+Tue Mar 21 1995,Watford,3-2,?,Barnsley
+Wed Mar 22 1995,Derby,3-1,?,Swindon
+Wed Mar 22 1995,West Brom,3-0,?,Millwall
+Fri Mar 24 1995,Barnsley,2-0,?,Sunderland
+Fri Mar 24 1995,Wolves,2-0,?,Burnley
+Sat Mar 25 1995,Bristol City,0-0,?,Southend
+Sat Mar 25 1995,Grimsby,0-2,?,West Brom
+Sat Mar 25 1995,Millwall,2-1,?,Tranmere
+Sat Mar 25 1995,Oldham,1-0,?,Derby
+Sat Mar 25 1995,Portsmouth,1-1,?,Bolton
+Sat Mar 25 1995,Sheffield United,1-1,?,Reading
+Sat Mar 25 1995,Stoke,2-1,?,Notts County
+Sat Mar 25 1995,Swindon,0-1,?,Charlton
+Sun Mar 26 1995,Luton,1-1,?,Watford
+Sun Mar 26 1995,Middlesbrough,3-0,?,Port Vale
+Tue Mar 28 1995,Burnley,4-3,?,Port Vale
+Sat Apr 1 1995,Burnley,1-2,?,Millwall
+Sat Apr 1 1995,Charlton,0-0,?,Stoke
+Sat Apr 1 1995,Derby,3-1,?,Bristol City
+Sat Apr 1 1995,Notts County,1-3,?,Barnsley
+Sat Apr 1 1995,Port Vale,1-2,?,Grimsby
+Sat Apr 1 1995,Reading,3-0,?,Swindon
+Sat Apr 1 1995,Southend,0-1,?,Wolves
+Sat Apr 1 1995,Sunderland,1-0,?,Sheffield United
+Sat Apr 1 1995,Tranmere,4-2,?,Portsmouth
+Sat Apr 1 1995,Watford,1-2,?,Oldham
+Sat Apr 1 1995,West Brom,1-3,?,Middlesbrough
+Tue Apr 4 1995,Burnley,2-0,?,Charlton
+Tue Apr 4 1995,Luton,3-3,?,Wolves
+Tue Apr 4 1995,Stoke,1-0,?,Watford
+Wed Apr 5 1995,Millwall,1-3,?,Port Vale
+Wed Apr 5 1995,Oldham,1-0,?,Middlesbrough
+Wed Apr 5 1995,Swindon,0-1,?,Bolton
+Sat Apr 8 1995,Bolton,1-0,?,West Brom
+Sat Apr 8 1995,Bristol City,0-1,?,Tranmere
+Sat Apr 8 1995,Derby,0-1,?,Sunderland
+Sat Apr 8 1995,Grimsby,1-0,?,Reading
+Sat Apr 8 1995,Luton,2-0,?,Notts County
+Sat Apr 8 1995,Middlesbrough,2-1,?,Stoke
+Sat Apr 8 1995,Millwall,3-1,?,Charlton
+Sat Apr 8 1995,Port Vale,0-1,?,Watford
+Sat Apr 8 1995,Portsmouth,1-0,?,Sheffield United
+Sat Apr 8 1995,Southend,3-1,?,Burnley
+Sat Apr 8 1995,Swindon,3-1,?,Oldham
+Sat Apr 8 1995,Wolves,0-0,?,Barnsley
+Tue Apr 11 1995,Bolton,0-0,?,Luton
+Wed Apr 12 1995,Derby,3-3,?,Wolves
+Wed Apr 12 1995,Stoke,0-0,?,Barnsley
+Fri Apr 14 1995,Tranmere,1-0,?,Bolton
+Fri Apr 14 1995,Watford,1-0,?,Millwall
+Sat Apr 15 1995,Barnsley,1-0,?,Portsmouth
+Sat Apr 15 1995,Burnley,3-1,?,Derby
+Sat Apr 15 1995,Charlton,3-2,?,Wolves
+Sat Apr 15 1995,Notts County,1-1,?,Middlesbrough
+Sat Apr 15 1995,Oldham,1-0,?,Grimsby
+Sat Apr 15 1995,Reading,3-3,?,Port Vale
+Sat Apr 15 1995,Sheffield United,2-2,?,Swindon
+Sat Apr 15 1995,Stoke,2-1,?,Bristol City
+Sat Apr 15 1995,Sunderland,1-1,?,Luton
+Sat Apr 15 1995,West Brom,2-0,?,Southend
+Mon Apr 17 1995,Bolton,1-0,?,Sunderland
+Mon Apr 17 1995,Bristol City,1-0,?,West Brom
+Mon Apr 17 1995,Derby,5-0,?,Tranmere
+Mon Apr 17 1995,Grimsby,1-0,?,Barnsley
+Mon Apr 17 1995,Luton,0-1,?,Reading
+Mon Apr 17 1995,Middlesbrough,1-1,?,Sheffield United
+Mon Apr 17 1995,Port Vale,1-0,?,Burnley
+Mon Apr 17 1995,Portsmouth,2-1,?,Watford
+Mon Apr 17 1995,Swindon,0-1,?,Stoke
+Mon Apr 17 1995,Wolves,2-1,?,Oldham
+Tue Apr 18 1995,Southend,2-1,?,Charlton
+Wed Apr 19 1995,Millwall,0-0,?,Notts County
+Fri Apr 21 1995,Reading,2-1,?,Bolton
+Fri Apr 21 1995,Tranmere,0-2,?,Southend
+Sat Apr 22 1995,Barnsley,1-1,?,Middlesbrough
+Sat Apr 22 1995,Burnley,1-2,?,Portsmouth
+Sat Apr 22 1995,Charlton,1-0,?,Luton
+Sat Apr 22 1995,Notts County,0-2,?,Grimsby
+Sat Apr 22 1995,Oldham,0-1,?,Millwall
+Sat Apr 22 1995,Sheffield United,3-3,?,Wolves
+Sat Apr 22 1995,Stoke,0-1,?,Port Vale
+Sat Apr 22 1995,Sunderland,1-0,?,Swindon
+Sat Apr 22 1995,Watford,1-0,?,Bristol City
+Sat Apr 22 1995,West Brom,0-0,?,Derby
+Sat Apr 29 1995,Barnsley,2-1,?,Sheffield United
+Sat Apr 29 1995,Bristol City,1-2,?,Reading
+Sat Apr 29 1995,Burnley,1-1,?,Sunderland
+Sat Apr 29 1995,Charlton,1-1,?,Port Vale
+Sat Apr 29 1995,Derby,1-2,?,Southend
+Sat Apr 29 1995,Grimsby,0-0,?,Wolves
+Sat Apr 29 1995,Notts County,1-0,?,Watford
+Sat Apr 29 1995,Oldham,3-1,?,Bolton
+Sat Apr 29 1995,Stoke,4-3,?,Millwall
+Sat Apr 29 1995,Swindon,0-2,?,Portsmouth
+Sun Apr 30 1995,Middlesbrough,2-1,?,Luton
+Sun Apr 30 1995,West Brom,5-1,?,Tranmere
+Tue May 2 1995,Barnsley,1-1,?,Oldham
+Tue May 2 1995,Watford,2-0,?,Charlton
+Wed May 3 1995,Stoke,1-1,?,Bolton
+Wed May 3 1995,Swindon,3-0,?,Notts County
+Wed May 3 1995,Tranmere,1-1,?,Wolves
+Sat May 6 1995,Sheffield United,3-1,?,Grimsby
+Sun May 7 1995,Bolton,1-1,?,Burnley
+Sun May 7 1995,Luton,2-3,?,Stoke
+Sun May 7 1995,Millwall,1-1,?,Bristol City
+Sun May 7 1995,Port Vale,1-1,?,Notts County
+Sun May 7 1995,Portsmouth,1-1,?,Oldham
+Sun May 7 1995,Reading,2-1,?,Charlton
+Sun May 7 1995,Southend,3-1,?,Barnsley
+Sun May 7 1995,Sunderland,2-2,?,West Brom
+Sun May 7 1995,Tranmere,1-1,?,Middlesbrough
+Sun May 7 1995,Watford,2-1,?,Derby
+Sun May 7 1995,Wolves,1-1,?,Swindon

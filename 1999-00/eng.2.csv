@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 7 1999,Birmingham,2-2,0-1,Fulham
+Sat Aug 7 1999,Blackburn,0-0,0-0,Port Vale
+Sat Aug 7 1999,Charlton,3-1,2-0,Barnsley
+Sat Aug 7 1999,Crystal Palace,1-1,0-0,Crewe
+Sat Aug 7 1999,Grimsby,0-1,0-0,Stockport
+Sat Aug 7 1999,Ipswich,3-1,2-0,Nott'm Forest
+Sat Aug 7 1999,Portsmouth,2-0,1-0,Sheffield United
+Sat Aug 7 1999,QPR,3-1,2-0,Huddersfield
+Sat Aug 7 1999,Tranmere,0-0,0-0,Bolton
+Sat Aug 7 1999,Walsall,0-0,0-0,Swindon
+Sat Aug 7 1999,West Brom,1-1,0-0,Norwich
+Sun Aug 8 1999,Man City,0-1,0-1,Wolves
+Fri Aug 13 1999,Huddersfield,3-2,1-0,Blackburn
+Sat Aug 14 1999,Barnsley,2-3,1-1,Crystal Palace
+Sat Aug 14 1999,Bolton,2-1,1-1,QPR
+Sat Aug 14 1999,Fulham,0-0,0-0,Man City
+Sat Aug 14 1999,Norwich,0-1,0-1,Birmingham
+Sat Aug 14 1999,Nott'm Forest,2-1,1-0,Grimsby
+Sat Aug 14 1999,Port Vale,1-2,1-1,West Brom
+Sat Aug 14 1999,Sheffield United,1-1,1-1,Walsall
+Sat Aug 14 1999,Stockport,2-1,0-1,Tranmere
+Sat Aug 14 1999,Wolves,1-1,0-1,Portsmouth
+Sun Aug 15 1999,Swindon,1-4,1-1,Ipswich
+Fri Aug 20 1999,West Brom,1-1,0-0,Nott'm Forest
+Sat Aug 21 1999,Birmingham,4-2,3-2,Port Vale
+Sat Aug 21 1999,Blackburn,1-2,0-0,Barnsley
+Sat Aug 21 1999,Charlton,1-0,0-0,Norwich
+Sat Aug 21 1999,Crystal Palace,1-2,1-1,Swindon
+Sat Aug 21 1999,Grimsby,1-1,1-1,Fulham
+Sat Aug 21 1999,Ipswich,1-0,0-0,Bolton
+Sat Aug 21 1999,Man City,6-0,2-0,Sheffield United
+Sat Aug 21 1999,Portsmouth,2-0,0-0,Stockport
+Sat Aug 21 1999,QPR,1-1,0-1,Wolves
+Sat Aug 21 1999,Tranmere,1-0,1-0,Huddersfield
+Sat Aug 21 1999,Walsall,1-4,1-1,Crewe
+Fri Aug 27 1999,Crewe,1-1,0-0,Grimsby
+Fri Aug 27 1999,Stockport,2-0,0-0,Birmingham
+Sat Aug 28 1999,Barnsley,6-0,1-0,Portsmouth
+Sat Aug 28 1999,Bolton,0-1,0-1,Man City
+Sat Aug 28 1999,Fulham,2-1,2-0,Charlton
+Sat Aug 28 1999,Huddersfield,7-1,3-0,Crystal Palace
+Sat Aug 28 1999,Norwich,0-2,0-1,Blackburn
+Sat Aug 28 1999,Nott'm Forest,1-1,1-0,QPR
+Sat Aug 28 1999,Port Vale,1-0,0-0,Tranmere
+Sat Aug 28 1999,Sheffield United,2-2,0-2,Ipswich
+Sat Aug 28 1999,Swindon,1-2,1-0,West Brom
+Sat Aug 28 1999,Wolves,1-2,1-2,Walsall
+Mon Aug 30 1999,Birmingham,5-1,3-1,Crewe
+Mon Aug 30 1999,Grimsby,1-0,1-0,Swindon
+Mon Aug 30 1999,Ipswich,6-1,3-1,Barnsley
+Mon Aug 30 1999,Man City,1-0,1-0,Nott'm Forest
+Mon Aug 30 1999,Portsmouth,0-0,0-0,Huddersfield
+Mon Aug 30 1999,Tranmere,1-3,1-3,Sheffield United
+Mon Aug 30 1999,Walsall,2-2,1-1,Norwich
+Mon Aug 30 1999,West Brom,0-0,0-0,Fulham
+Tue Aug 31 1999,QPR,3-2,1-0,Port Vale
+Fri Sep 3 1999,Barnsley,3-0,1-0,Tranmere
+Sat Sep 4 1999,Nott'm Forest,4-1,1-1,Walsall
+Sat Sep 4 1999,Sheffield United,3-1,2-0,Crystal Palace
+Sun Sep 5 1999,Bolton,3-3,1-3,Birmingham
+Sun Sep 5 1999,Port Vale,3-1,2-0,Grimsby
+Fri Sep 10 1999,Barnsley,2-1,2-0,Stockport
+Sat Sep 11 1999,Birmingham,1-1,1-0,West Brom
+Sat Sep 11 1999,Blackburn,2-0,0-0,Tranmere
+Sat Sep 11 1999,Charlton,2-1,1-1,Bolton
+Sat Sep 11 1999,Grimsby,1-0,0-0,Walsall
+Sat Sep 11 1999,Man City,2-1,1-1,Crystal Palace
+Sat Sep 11 1999,Norwich,2-1,1-1,Crewe
+Sat Sep 11 1999,Port Vale,0-2,0-1,Fulham
+Sat Sep 11 1999,Portsmouth,1-1,0-0,Ipswich
+Sat Sep 11 1999,Swindon,0-0,0-0,Nott'm Forest
+Sat Sep 11 1999,Wolves,0-1,0-0,Huddersfield
+Sat Sep 18 1999,Bolton,2-2,1-1,Barnsley
+Sat Sep 18 1999,Crewe,2-1,1-0,Swindon
+Sat Sep 18 1999,Crystal Palace,3-0,2-0,Grimsby
+Sat Sep 18 1999,Fulham,1-0,1-0,QPR
+Sat Sep 18 1999,Huddersfield,1-0,0-0,Norwich
+Sat Sep 18 1999,Ipswich,0-1,0-1,Birmingham
+Sat Sep 18 1999,Sheffield United,1-2,1-1,Charlton
+Sat Sep 18 1999,Stockport,1-0,1-0,Port Vale
+Sat Sep 18 1999,Tranmere,2-4,0-3,Portsmouth
+Sat Sep 18 1999,Walsall,0-1,0-1,Man City
+Sat Sep 18 1999,West Brom,2-2,1-0,Blackburn
+Sun Sep 19 1999,Nott'm Forest,1-1,0-1,Wolves
+Sat Sep 25 1999,Barnsley,4-2,1-1,Huddersfield
+Sat Sep 25 1999,Birmingham,2-0,1-0,QPR
+Sat Sep 25 1999,Blackburn,2-0,2-0,Walsall
+Sat Sep 25 1999,Bolton,3-2,1-0,Nott'm Forest
+Sat Sep 25 1999,Fulham,3-0,3-0,Crewe
+Sat Sep 25 1999,Port Vale,2-0,0-0,Swindon
+Sat Sep 25 1999,Portsmouth,1-2,1-1,Grimsby
+Sat Sep 25 1999,Sheffield United,3-0,0-0,Wolves
+Sat Sep 25 1999,Stockport,2-2,1-1,Norwich
+Sat Sep 25 1999,Tranmere,2-2,1-1,Charlton
+Sat Sep 25 1999,West Brom,0-0,0-0,Crystal Palace
+Sun Sep 26 1999,Ipswich,2-1,1-0,Man City
+Tue Sep 28 1999,Charlton,4-0,0-0,Stockport
+Tue Sep 28 1999,Crystal Palace,1-1,0-1,Wolves
+Tue Sep 28 1999,Norwich,1-0,1-0,Man City
+Tue Sep 28 1999,Swindon,2-1,2-0,Blackburn
+Fri Oct 1 1999,Nott'm Forest,3-0,0-0,Barnsley
+Sat Oct 2 1999,Charlton,1-0,1-0,Birmingham
+Sat Oct 2 1999,Crystal Palace,4-0,1-0,Portsmouth
+Sat Oct 2 1999,Grimsby,2-1,1-0,Ipswich
+Sat Oct 2 1999,Huddersfield,4-1,2-0,Sheffield United
+Sat Oct 2 1999,Man City,2-1,2-0,Port Vale
+Sat Oct 2 1999,Norwich,1-2,1-0,Fulham
+Sat Oct 2 1999,QPR,0-0,0-0,Blackburn
+Sat Oct 2 1999,Swindon,0-4,0-4,Bolton
+Sat Oct 2 1999,Walsall,1-2,0-1,Stockport
+Sun Oct 3 1999,Crewe,0-2,0-0,Tranmere
+Sun Oct 3 1999,Wolves,1-1,1-0,West Brom
+Fri Oct 8 1999,Walsall,1-0,0-0,Birmingham
+Sat Oct 9 1999,Crewe,1-0,1-0,Sheffield United
+Sat Oct 9 1999,Huddersfield,2-2,2-0,Port Vale
+Sat Oct 9 1999,QPR,2-1,1-0,Tranmere
+Sat Oct 9 1999,Swindon,1-1,1-1,Stockport
+Sat Oct 9 1999,Wolves,1-0,1-0,Bolton
+Sat Oct 16 1999,Barnsley,1-2,0-2,Wolves
+Sat Oct 16 1999,Birmingham,2-0,1-0,Crystal Palace
+Sat Oct 16 1999,Blackburn,1-1,1-1,Grimsby
+Sat Oct 16 1999,Bolton,1-0,1-0,Huddersfield
+Sat Oct 16 1999,Fulham,1-0,0-0,Swindon
+Sat Oct 16 1999,Ipswich,1-4,1-1,QPR
+Sat Oct 16 1999,Port Vale,0-1,0-0,Norwich
+Sat Oct 16 1999,Portsmouth,0-2,0-1,Charlton
+Sat Oct 16 1999,Sheffield United,2-1,0-1,Nott'm Forest
+Sat Oct 16 1999,Stockport,2-1,1-1,Crewe
+Sat Oct 16 1999,Tranmere,1-1,0-0,Man City
+Sat Oct 16 1999,West Brom,0-1,0-0,Walsall
+Tue Oct 19 1999,Barnsley,1-0,0-0,Swindon
+Tue Oct 19 1999,Birmingham,0-1,0-0,Man City
+Tue Oct 19 1999,Bolton,2-2,1-1,Crewe
+Tue Oct 19 1999,Fulham,0-1,0-0,Wolves
+Tue Oct 19 1999,Ipswich,4-2,2-2,Charlton
+Tue Oct 19 1999,Port Vale,0-2,0-2,Nott'm Forest
+Tue Oct 19 1999,Portsmouth,5-1,1-1,Walsall
+Tue Oct 19 1999,Sheffield United,0-0,0-0,Norwich
+Tue Oct 19 1999,Stockport,1-1,1-0,Huddersfield
+Tue Oct 19 1999,Tranmere,3-2,2-1,Grimsby
+Tue Oct 19 1999,West Brom,0-1,0-0,QPR
+Wed Oct 20 1999,Blackburn,1-1,0-0,Crystal Palace
+Sat Oct 23 1999,Charlton,0-0,0-0,West Brom
+Sat Oct 23 1999,Crewe,0-1,0-1,Barnsley
+Sat Oct 23 1999,Crystal Palace,2-2,2-0,Tranmere
+Sat Oct 23 1999,Grimsby,1-1,1-1,Birmingham
+Sat Oct 23 1999,Huddersfield,1-1,0-1,Fulham
+Sat Oct 23 1999,Man City,2-0,1-0,Blackburn
+Sat Oct 23 1999,Nott'm Forest,1-1,1-1,Stockport
+Sat Oct 23 1999,QPR,0-0,0-0,Portsmouth
+Sat Oct 23 1999,Swindon,2-2,2-0,Sheffield United
+Sat Oct 23 1999,Walsall,0-1,0-0,Ipswich
+Sat Oct 23 1999,Wolves,2-2,0-0,Port Vale
+Sun Oct 24 1999,Norwich,2-1,0-0,Bolton
+Tue Oct 26 1999,Charlton,3-2,0-2,Tranmere
+Tue Oct 26 1999,Crewe,1-1,1-1,Fulham
+Tue Oct 26 1999,Crystal Palace,0-2,0-2,West Brom
+Tue Oct 26 1999,Grimsby,1-0,1-0,Portsmouth
+Tue Oct 26 1999,Huddersfield,2-1,1-1,Barnsley
+Tue Oct 26 1999,Norwich,2-0,1-0,Stockport
+Tue Oct 26 1999,Swindon,2-1,1-1,Port Vale
+Tue Oct 26 1999,Walsall,1-1,0-1,Blackburn
+Tue Oct 26 1999,Wolves,1-0,0-0,Sheffield United
+Wed Oct 27 1999,Man City,1-0,0-0,Ipswich
+Wed Oct 27 1999,Nott'm Forest,1-1,1-1,Bolton
+Wed Oct 27 1999,QPR,2-2,1-0,Birmingham
+Sat Oct 30 1999,Barnsley,1-0,0-0,Nott'm Forest
+Sat Oct 30 1999,Birmingham,1-0,1-0,Charlton
+Sat Oct 30 1999,Blackburn,0-2,0-1,QPR
+Sat Oct 30 1999,Bolton,2-0,0-0,Swindon
+Sat Oct 30 1999,Fulham,1-1,1-0,Norwich
+Sat Oct 30 1999,Ipswich,2-0,1-0,Grimsby
+Sat Oct 30 1999,Port Vale,1-2,1-0,Man City
+Sat Oct 30 1999,Portsmouth,3-1,1-1,Crystal Palace
+Sat Oct 30 1999,Sheffield United,0-1,0-0,Huddersfield
+Sat Oct 30 1999,Stockport,1-1,0-0,Walsall
+Sat Oct 30 1999,Tranmere,2-0,0-0,Crewe
+Sun Oct 31 1999,West Brom,1-1,1-0,Wolves
+Tue Nov 2 1999,Crewe,0-2,0-2,Charlton
+Tue Nov 2 1999,Huddersfield,3-1,1-1,Ipswich
+Tue Nov 2 1999,Stockport,3-3,2-0,QPR
+Wed Nov 3 1999,Man City,4-2,0-1,Portsmouth
+Fri Nov 5 1999,Port Vale,1-0,0-0,Crewe
+Sat Nov 6 1999,Barnsley,2-0,1-0,Sheffield United
+Sat Nov 6 1999,Blackburn,2-2,1-0,Ipswich
+Sat Nov 6 1999,Bolton,2-0,0-0,Crystal Palace
+Sat Nov 6 1999,Charlton,2-1,1-1,Walsall
+Sat Nov 6 1999,Huddersfield,4-0,2-0,Swindon
+Sat Nov 6 1999,Norwich,1-0,1-0,Nott'm Forest
+Sat Nov 6 1999,Portsmouth,2-2,1-0,Birmingham
+Sat Nov 6 1999,QPR,1-1,1-0,Man City
+Sat Nov 6 1999,Stockport,2-1,2-0,Fulham
+Sat Nov 6 1999,Tranmere,3-0,2-0,West Brom
+Sat Nov 6 1999,Wolves,3-0,1-0,Grimsby
+Tue Nov 9 1999,Fulham,1-0,0-0,Portsmouth
+Fri Nov 12 1999,Grimsby,2-5,1-2,Charlton
+Fri Nov 12 1999,Ipswich,0-0,0-0,Tranmere
+Fri Nov 12 1999,Swindon,0-0,0-0,Norwich
+Fri Nov 12 1999,Walsall,0-0,0-0,Port Vale
+Sat Nov 13 1999,Fulham,1-3,1-1,Barnsley
+Sun Nov 14 1999,Crystal Palace,3-0,1-0,QPR
+Sun Nov 14 1999,Nott'm Forest,1-3,1-2,Huddersfield
+Sun Nov 14 1999,Sheffield United,1-2,1-2,Bolton
+Sun Nov 14 1999,West Brom,3-2,1-2,Portsmouth
+Sat Nov 20 1999,Barnsley,2-1,0-0,Birmingham
+Sat Nov 20 1999,Blackburn,2-0,1-0,Fulham
+Sat Nov 20 1999,Bolton,2-0,0-0,Grimsby
+Sat Nov 20 1999,Charlton,0-1,0-0,Man City
+Sat Nov 20 1999,Huddersfield,1-0,0-0,West Brom
+Sat Nov 20 1999,Port Vale,2-2,1-0,Crystal Palace
+Sat Nov 20 1999,Portsmouth,0-2,0-1,Crewe
+Sat Nov 20 1999,QPR,2-1,2-1,Walsall
+Sat Nov 20 1999,Stockport,1-1,0-1,Sheffield United
+Sat Nov 20 1999,Tranmere,3-0,0-0,Nott'm Forest
+Sat Nov 20 1999,Wolves,1-1,0-1,Swindon
+Sun Nov 21 1999,Norwich,0-0,0-0,Ipswich
+Tue Nov 23 1999,Birmingham,3-1,3-0,Tranmere
+Tue Nov 23 1999,Crewe,0-0,0-0,Blackburn
+Tue Nov 23 1999,Crystal Palace,1-0,0-0,Norwich
+Tue Nov 23 1999,Fulham,1-1,1-1,Bolton
+Tue Nov 23 1999,Grimsby,2-1,0-1,QPR
+Tue Nov 23 1999,Sheffield United,1-3,1-1,Port Vale
+Tue Nov 23 1999,Swindon,1-2,1-2,Charlton
+Tue Nov 23 1999,Walsall,2-0,2-0,Huddersfield
+Tue Nov 23 1999,West Brom,2-0,0-0,Stockport
+Wed Nov 24 1999,Ipswich,1-0,0-0,Wolves
+Wed Nov 24 1999,Man City,3-1,2-0,Barnsley
+Wed Nov 24 1999,Nott'm Forest,2-0,2-0,Portsmouth
+Fri Nov 26 1999,Walsall,1-3,1-1,Fulham
+Sat Nov 27 1999,Birmingham,1-1,1-0,Swindon
+Sat Nov 27 1999,Blackburn,2-0,1-0,Stockport
+Sat Nov 27 1999,Charlton,2-2,2-0,Port Vale
+Sat Nov 27 1999,Crystal Palace,2-0,1-0,Nott'm Forest
+Sat Nov 27 1999,Ipswich,2-1,1-0,Crewe
+Sat Nov 27 1999,Man City,0-1,0-0,Huddersfield
+Sat Nov 27 1999,Portsmouth,0-0,0-0,Bolton
+Sat Nov 27 1999,QPR,2-2,2-1,Barnsley
+Sat Nov 27 1999,Tranmere,1-0,0-0,Wolves
+Sat Nov 27 1999,West Brom,2-2,1-1,Sheffield United
+Sun Nov 28 1999,Grimsby,2-1,1-1,Norwich
+Tue Nov 30 1999,Charlton,1-2,1-1,Blackburn
+Tue Nov 30 1999,QPR,3-1,2-0,Sheffield United
+Fri Dec 3 1999,Wolves,4-1,3-1,Man City
+Sat Dec 4 1999,Barnsley,1-1,1-1,Charlton
+Sat Dec 4 1999,Bolton,2-3,0-1,Tranmere
+Sat Dec 4 1999,Crewe,2-0,2-0,Crystal Palace
+Sat Dec 4 1999,Fulham,0-0,0-0,Birmingham
+Sat Dec 4 1999,Huddersfield,1-0,1-0,QPR
+Sat Dec 4 1999,Norwich,2-1,1-1,West Brom
+Sat Dec 4 1999,Port Vale,0-0,0-0,Blackburn
+Sat Dec 4 1999,Sheffield United,1-0,1-0,Portsmouth
+Sat Dec 4 1999,Stockport,2-1,1-0,Grimsby
+Sat Dec 4 1999,Swindon,1-1,1-1,Walsall
+Sun Dec 5 1999,Nott'm Forest,0-1,0-0,Ipswich
+Tue Dec 7 1999,Blackburn,3-1,0-0,Bolton
+Tue Dec 7 1999,Crewe,2-0,0-0,West Brom
+Tue Dec 7 1999,Crystal Palace,2-2,1-2,Ipswich
+Tue Dec 7 1999,Man City,1-2,0-0,Stockport
+Tue Dec 14 1999,Crewe,1-0,0-0,Wolves
+Tue Dec 14 1999,Grimsby,1-1,1-1,West Brom
+Wed Dec 15 1999,Nott'm Forest,0-0,0-0,Fulham
+Fri Dec 17 1999,Tranmere,1-2,1-0,Norwich
+Fri Dec 17 1999,Wolves,2-1,1-1,Birmingham
+Sat Dec 18 1999,Barnsley,3-2,1-0,Walsall
+Sat Dec 18 1999,Bolton,0-1,0-0,Stockport
+Sat Dec 18 1999,Crystal Palace,0-0,0-0,Fulham
+Sat Dec 18 1999,Huddersfield,3-1,2-1,Grimsby
+Sat Dec 18 1999,Ipswich,3-1,2-0,West Brom
+Sat Dec 18 1999,Man City,3-0,1-0,Swindon
+Sat Dec 18 1999,Nott'm Forest,1-0,0-0,Crewe
+Sat Dec 18 1999,Portsmouth,0-0,0-0,Port Vale
+Sat Dec 18 1999,QPR,0-0,0-0,Charlton
+Sun Dec 19 1999,Sheffield United,2-1,1-1,Blackburn
+Sun Dec 26 1999,Birmingham,0-2,0-1,Sheffield United
+Sun Dec 26 1999,Blackburn,2-1,1-1,Nott'm Forest
+Sun Dec 26 1999,Charlton,2-1,2-1,Crystal Palace
+Sun Dec 26 1999,Crewe,1-1,0-0,Huddersfield
+Sun Dec 26 1999,Fulham,0-0,0-0,Ipswich
+Sun Dec 26 1999,Grimsby,0-3,0-2,Barnsley
+Sun Dec 26 1999,Norwich,2-1,1-1,QPR
+Sun Dec 26 1999,Stockport,3-2,1-2,Wolves
+Sun Dec 26 1999,Swindon,1-1,1-0,Portsmouth
+Sun Dec 26 1999,Walsall,1-2,0-0,Tranmere
+Sun Dec 26 1999,West Brom,0-2,0-0,Man City
+Tue Dec 28 1999,Barnsley,3-1,0-0,Port Vale
+Tue Dec 28 1999,Bolton,1-1,0-0,West Brom
+Tue Dec 28 1999,Crystal Palace,3-2,1-1,Walsall
+Tue Dec 28 1999,Huddersfield,1-2,0-2,Charlton
+Tue Dec 28 1999,Ipswich,1-0,1-0,Stockport
+Tue Dec 28 1999,Man City,2-1,1-1,Grimsby
+Tue Dec 28 1999,Nott'm Forest,1-0,0-0,Birmingham
+Tue Dec 28 1999,Portsmouth,1-2,1-2,Blackburn
+Tue Dec 28 1999,QPR,1-0,0-0,Crewe
+Tue Dec 28 1999,Sheffield United,2-0,0-0,Fulham
+Tue Dec 28 1999,Tranmere,3-1,3-0,Swindon
+Tue Dec 28 1999,Wolves,1-0,0-0,Norwich
+Mon Jan 3 2000,Birmingham,1-0,1-0,Huddersfield
+Mon Jan 3 2000,Blackburn,1-1,1-1,Wolves
+Mon Jan 3 2000,Charlton,3-0,1-0,Nott'm Forest
+Mon Jan 3 2000,Crewe,1-1,0-1,Man City
+Mon Jan 3 2000,Fulham,1-0,1-0,Tranmere
+Mon Jan 3 2000,Grimsby,2-2,1-1,Sheffield United
+Mon Jan 3 2000,Norwich,2-1,2-0,Portsmouth
+Mon Jan 3 2000,Port Vale,1-2,0-1,Ipswich
+Mon Jan 3 2000,Stockport,1-2,0-0,Crystal Palace
+Mon Jan 3 2000,Swindon,0-1,0-0,QPR
+Mon Jan 3 2000,Walsall,2-0,0-0,Bolton
+Mon Jan 3 2000,West Brom,0-2,0-1,Barnsley
+Sat Jan 8 2000,Norwich,2-2,1-0,Barnsley
+Tue Jan 11 2000,Wolves,2-3,1-2,Charlton
+Sat Jan 15 2000,Birmingham,2-0,2-0,Norwich
+Sat Jan 15 2000,Blackburn,2-0,2-0,Huddersfield
+Sat Jan 15 2000,Charlton,1-0,1-0,Crewe
+Sat Jan 15 2000,Crystal Palace,0-2,0-2,Barnsley
+Sat Jan 15 2000,Grimsby,4-3,2-1,Nott'm Forest
+Sat Jan 15 2000,Ipswich,3-0,2-0,Swindon
+Sat Jan 15 2000,Portsmouth,2-3,2-0,Wolves
+Sat Jan 15 2000,QPR,0-1,0-0,Bolton
+Sat Jan 15 2000,Tranmere,0-0,0-0,Stockport
+Sat Jan 15 2000,Walsall,2-1,0-1,Sheffield United
+Sat Jan 15 2000,West Brom,0-0,0-0,Port Vale
+Sun Jan 16 2000,Man City,4-0,1-0,Fulham
+Fri Jan 21 2000,Swindon,2-4,1-1,Crystal Palace
+Sat Jan 22 2000,Barnsley,5-1,4-1,Blackburn
+Sat Jan 22 2000,Bolton,1-1,0-0,Ipswich
+Sat Jan 22 2000,Crewe,2-3,1-3,Walsall
+Sat Jan 22 2000,Fulham,0-1,0-0,Grimsby
+Sat Jan 22 2000,Huddersfield,1-0,1-0,Tranmere
+Sat Jan 22 2000,Norwich,0-3,0-1,Charlton
+Sat Jan 22 2000,Nott'm Forest,0-0,0-0,West Brom
+Sat Jan 22 2000,Port Vale,3-1,1-0,Birmingham
+Sat Jan 22 2000,Sheffield United,1-0,1-0,Man City
+Sat Jan 22 2000,Stockport,1-1,1-1,Portsmouth
+Sat Jan 22 2000,Wolves,3-2,3-0,QPR
+Sat Jan 29 2000,Birmingham,2-1,0-0,Stockport
+Sat Jan 29 2000,Crystal Palace,2-2,0-2,Huddersfield
+Sat Jan 29 2000,Grimsby,1-1,0-0,Crewe
+Sat Jan 29 2000,Ipswich,1-1,1-0,Sheffield United
+Sat Jan 29 2000,Portsmouth,3-0,2-0,Barnsley
+Sat Jan 29 2000,QPR,1-1,0-1,Nott'm Forest
+Sat Jan 29 2000,Walsall,1-1,0-0,Wolves
+Sat Jan 29 2000,West Brom,1-1,0-0,Swindon
+Sat Feb 5 2000,Barnsley,0-2,0-0,Ipswich
+Sat Feb 5 2000,Bolton,3-1,2-1,Blackburn
+Sat Feb 5 2000,Crewe,2-3,1-1,Birmingham
+Sat Feb 5 2000,Fulham,1-0,0-0,West Brom
+Sat Feb 5 2000,Huddersfield,0-1,0-0,Portsmouth
+Sat Feb 5 2000,Norwich,1-1,1-1,Walsall
+Sat Feb 5 2000,Nott'm Forest,1-3,1-2,Man City
+Sat Feb 5 2000,Port Vale,1-1,1-1,QPR
+Sat Feb 5 2000,Sheffield United,3-1,0-0,Tranmere
+Sat Feb 5 2000,Stockport,1-3,1-2,Charlton
+Sat Feb 5 2000,Swindon,0-1,0-0,Grimsby
+Sat Feb 5 2000,Wolves,2-1,1-0,Crystal Palace
+Tue Feb 8 2000,Port Vale,0-1,0-0,Bolton
+Fri Feb 11 2000,Tranmere,2-2,1-1,Barnsley
+Sat Feb 12 2000,Birmingham,2-1,0-1,Bolton
+Sat Feb 12 2000,Blackburn,0-0,0-0,Swindon
+Sat Feb 12 2000,Charlton,2-0,0-0,Wolves
+Sat Feb 12 2000,Crystal Palace,1-1,0-0,Sheffield United
+Sat Feb 12 2000,Grimsby,2-0,2-0,Port Vale
+Sat Feb 12 2000,Ipswich,2-1,1-0,Huddersfield
+Sat Feb 12 2000,Man City,3-1,1-1,Norwich
+Sat Feb 12 2000,Portsmouth,0-1,0-0,Fulham
+Sat Feb 12 2000,QPR,1-1,0-1,Stockport
+Sat Feb 12 2000,Walsall,0-2,0-1,Nott'm Forest
+Sat Feb 12 2000,West Brom,1-0,1-0,Crewe
+Tue Feb 15 2000,Birmingham,1-0,1-0,Blackburn
+Tue Feb 15 2000,Charlton,1-0,0-0,Fulham
+Wed Feb 16 2000,Wolves,4-0,2-0,Tranmere
+Fri Feb 18 2000,Huddersfield,1-1,1-1,Man City
+Sat Feb 19 2000,Barnsley,1-1,0-1,QPR
+Sat Feb 19 2000,Crewe,1-2,0-0,Ipswich
+Sat Feb 19 2000,Fulham,2-0,0-0,Walsall
+Sat Feb 19 2000,Norwich,3-0,1-0,Grimsby
+Sat Feb 19 2000,Nott'm Forest,2-0,1-0,Crystal Palace
+Sat Feb 19 2000,Sheffield United,6-0,2-0,West Brom
+Sat Feb 19 2000,Stockport,0-1,0-0,Blackburn
+Sat Feb 19 2000,Swindon,1-4,1-3,Birmingham
+Tue Feb 22 2000,Bolton,3-0,1-0,Portsmouth
+Sat Feb 26 2000,Barnsley,1-1,0-1,Bolton
+Sat Feb 26 2000,Blackburn,2-1,0-1,West Brom
+Sat Feb 26 2000,Charlton,1-0,0-0,Sheffield United
+Sat Feb 26 2000,Grimsby,1-0,1-0,Crystal Palace
+Sat Feb 26 2000,Man City,1-1,0-1,Walsall
+Sat Feb 26 2000,Norwich,1-1,0-0,Huddersfield
+Sat Feb 26 2000,Port Vale,1-1,1-1,Stockport
+Sat Feb 26 2000,Swindon,0-1,0-0,Crewe
+Sat Feb 26 2000,Wolves,3-0,3-0,Nott'm Forest
+Sun Feb 27 2000,Birmingham,1-1,1-1,Ipswich
+Mon Feb 28 2000,QPR,0-0,0-0,Fulham
+Tue Feb 29 2000,Blackburn,1-1,0-1,Norwich
+Wed Mar 1 2000,Portsmouth,1-2,0-1,Tranmere
+Fri Mar 3 2000,Stockport,1-3,1-2,Barnsley
+Sat Mar 4 2000,Bolton,0-2,0-0,Charlton
+Sat Mar 4 2000,Crewe,1-0,1-0,Norwich
+Sat Mar 4 2000,Crystal Palace,1-1,1-1,Man City
+Sat Mar 4 2000,Fulham,3-1,2-0,Port Vale
+Sat Mar 4 2000,Huddersfield,2-0,2-0,Wolves
+Sat Mar 4 2000,Ipswich,0-1,0-1,Portsmouth
+Sat Mar 4 2000,Nott'm Forest,3-1,3-0,Swindon
+Sat Mar 4 2000,Tranmere,2-1,0-0,Blackburn
+Sat Mar 4 2000,Walsall,1-0,1-0,Grimsby
+Sat Mar 4 2000,West Brom,0-3,0-2,Birmingham
+Sun Mar 5 2000,Sheffield United,1-1,0-1,QPR
+Tue Mar 7 2000,Birmingham,1-0,0-0,Portsmouth
+Tue Mar 7 2000,Crewe,2-1,1-0,Port Vale
+Tue Mar 7 2000,Crystal Palace,0-0,0-0,Bolton
+Tue Mar 7 2000,Fulham,4-1,1-0,Stockport
+Tue Mar 7 2000,Grimsby,1-0,1-0,Wolves
+Tue Mar 7 2000,Ipswich,0-0,0-0,Blackburn
+Tue Mar 7 2000,Sheffield United,3-3,1-2,Barnsley
+Tue Mar 7 2000,Swindon,2-0,1-0,Huddersfield
+Tue Mar 7 2000,Walsall,2-4,1-3,Charlton
+Tue Mar 7 2000,West Brom,2-0,1-0,Tranmere
+Wed Mar 8 2000,Man City,1-3,0-2,QPR
+Wed Mar 8 2000,Nott'm Forest,1-1,1-0,Norwich
+Sat Mar 11 2000,Barnsley,2-1,2-0,Man City
+Sat Mar 11 2000,Bolton,3-1,1-0,Fulham
+Sat Mar 11 2000,Charlton,0-1,0-1,Swindon
+Sat Mar 11 2000,Huddersfield,1-1,0-0,Walsall
+Sat Mar 11 2000,Norwich,0-1,0-0,Crystal Palace
+Sat Mar 11 2000,Port Vale,2-3,1-1,Sheffield United
+Sat Mar 11 2000,Portsmouth,2-1,0-0,Nott'm Forest
+Sat Mar 11 2000,QPR,1-0,0-0,Grimsby
+Sat Mar 11 2000,Stockport,0-1,0-1,West Brom
+Sat Mar 11 2000,Tranmere,2-1,1-1,Birmingham
+Sat Mar 11 2000,Wolves,2-1,1-0,Ipswich
+Sun Mar 12 2000,Blackburn,0-1,0-0,Crewe
+Tue Mar 14 2000,Stockport,0-0,0-0,Bolton
+Sat Mar 18 2000,Birmingham,3-1,2-1,Barnsley
+Sat Mar 18 2000,Crewe,1-3,0-1,Portsmouth
+Sat Mar 18 2000,Crystal Palace,1-1,0-0,Port Vale
+Sat Mar 18 2000,Fulham,2-2,1-1,Blackburn
+Sat Mar 18 2000,Grimsby,0-1,0-1,Bolton
+Sat Mar 18 2000,Nott'm Forest,1-1,0-1,Tranmere
+Sat Mar 18 2000,Sheffield United,1-0,0-0,Stockport
+Sat Mar 18 2000,Swindon,1-2,0-0,Wolves
+Sat Mar 18 2000,Walsall,2-3,1-2,QPR
+Sat Mar 18 2000,West Brom,0-1,0-1,Huddersfield
+Sun Mar 19 2000,Ipswich,0-2,0-2,Norwich
+Sun Mar 19 2000,Man City,1-1,1-1,Charlton
+Tue Mar 21 2000,Barnsley,1-0,1-0,Fulham
+Tue Mar 21 2000,Bolton,2-0,2-0,Sheffield United
+Tue Mar 21 2000,Huddersfield,2-1,1-1,Nott'm Forest
+Tue Mar 21 2000,Port Vale,1-2,0-2,Walsall
+Tue Mar 21 2000,Portsmouth,2-0,1-0,West Brom
+Tue Mar 21 2000,Stockport,2-2,2-1,Man City
+Tue Mar 21 2000,Wolves,2-0,1-0,Crewe
+Wed Mar 22 2000,Blackburn,1-0,0-0,Birmingham
+Wed Mar 22 2000,Charlton,4-0,1-0,Grimsby
+Wed Mar 22 2000,Norwich,0-2,0-0,Swindon
+Wed Mar 22 2000,QPR,0-1,0-0,Crystal Palace
+Wed Mar 22 2000,Tranmere,0-2,0-1,Ipswich
+Sat Mar 25 2000,Bolton,2-1,0-0,Port Vale
+Sat Mar 25 2000,Crystal Palace,0-1,0-0,Charlton
+Sat Mar 25 2000,Huddersfield,3-0,1-0,Crewe
+Sat Mar 25 2000,Ipswich,1-0,0-0,Fulham
+Sat Mar 25 2000,Man City,2-1,0-0,West Brom
+Sat Mar 25 2000,Nott'm Forest,0-1,0-1,Blackburn
+Sat Mar 25 2000,Portsmouth,4-1,3-0,Swindon
+Sat Mar 25 2000,QPR,2-2,0-1,Norwich
+Sat Mar 25 2000,Sheffield United,1-2,1-0,Birmingham
+Sat Mar 25 2000,Tranmere,1-1,1-0,Walsall
+Sat Mar 25 2000,Wolves,2-2,1-1,Stockport
+Mon Mar 27 2000,Barnsley,3-0,1-0,Grimsby
+Fri Mar 31 2000,Charlton,2-1,1-0,QPR
+Sat Apr 1 2000,Birmingham,1-0,0-0,Wolves
+Sat Apr 1 2000,Blackburn,5-0,2-0,Sheffield United
+Sat Apr 1 2000,Crewe,0-3,0-1,Nott'm Forest
+Sat Apr 1 2000,Fulham,1-0,1-0,Crystal Palace
+Sat Apr 1 2000,Grimsby,0-0,0-0,Huddersfield
+Sat Apr 1 2000,Norwich,1-1,1-1,Tranmere
+Sat Apr 1 2000,Port Vale,2-0,2-0,Portsmouth
+Sat Apr 1 2000,Swindon,0-2,0-1,Man City
+Sat Apr 1 2000,Walsall,1-4,0-0,Barnsley
+Tue Apr 4 2000,Port Vale,2-2,1-0,Charlton
+Tue Apr 4 2000,West Brom,1-1,1-0,Ipswich
+Wed Apr 5 2000,Man City,2-0,2-0,Bolton
+Sat Apr 8 2000,Barnsley,2-2,0-0,West Brom
+Sat Apr 8 2000,Bolton,4-3,3-1,Walsall
+Sat Apr 8 2000,Crystal Palace,3-3,3-1,Stockport
+Sat Apr 8 2000,Huddersfield,0-0,0-0,Birmingham
+Sat Apr 8 2000,Ipswich,3-0,2-0,Port Vale
+Sat Apr 8 2000,Man City,4-0,1-0,Crewe
+Sat Apr 8 2000,Nott'm Forest,1-1,0-1,Charlton
+Sat Apr 8 2000,Portsmouth,2-1,0-1,Norwich
+Sat Apr 8 2000,QPR,2-1,2-1,Swindon
+Sat Apr 8 2000,Sheffield United,0-0,0-0,Grimsby
+Sat Apr 8 2000,Wolves,2-1,1-0,Blackburn
+Sun Apr 9 2000,Tranmere,1-1,0-0,Fulham
+Fri Apr 14 2000,Charlton,0-1,0-1,Huddersfield
+Sat Apr 15 2000,Birmingham,0-1,0-1,Nott'm Forest
+Sat Apr 15 2000,Blackburn,1-1,1-1,Portsmouth
+Sat Apr 15 2000,Crewe,2-1,1-1,QPR
+Sat Apr 15 2000,Fulham,4-0,1-0,Sheffield United
+Sat Apr 15 2000,Grimsby,1-1,1-1,Man City
+Sat Apr 15 2000,Norwich,1-0,0-0,Wolves
+Sat Apr 15 2000,Port Vale,2-2,1-1,Barnsley
+Sat Apr 15 2000,Stockport,0-1,0-1,Ipswich
+Sat Apr 15 2000,Swindon,3-1,2-1,Tranmere
+Sat Apr 15 2000,Walsall,2-2,0-0,Crystal Palace
+Sat Apr 15 2000,West Brom,4-4,2-1,Bolton
+Tue Apr 18 2000,Tranmere,2-1,0-1,Port Vale
+Fri Apr 21 2000,Charlton,1-1,0-1,Portsmouth
+Sat Apr 22 2000,Crewe,3-2,2-1,Stockport
+Sat Apr 22 2000,Crystal Palace,0-2,0-1,Birmingham
+Sat Apr 22 2000,Grimsby,0-0,0-0,Blackburn
+Sat Apr 22 2000,Huddersfield,0-3,0-2,Bolton
+Sat Apr 22 2000,Man City,2-0,1-0,Tranmere
+Sat Apr 22 2000,Norwich,0-0,0-0,Port Vale
+Sat Apr 22 2000,Nott'm Forest,0-0,0-0,Sheffield United
+Sat Apr 22 2000,QPR,3-1,0-0,Ipswich
+Sat Apr 22 2000,Swindon,1-0,0-0,Fulham
+Sat Apr 22 2000,Walsall,2-1,0-1,West Brom
+Sat Apr 22 2000,Wolves,2-0,1-0,Barnsley
+Mon Apr 24 2000,Barnsley,2-1,2-0,Norwich
+Mon Apr 24 2000,Birmingham,2-0,0-0,Walsall
+Mon Apr 24 2000,Blackburn,1-1,0-1,Charlton
+Mon Apr 24 2000,Fulham,1-1,1-1,Nott'm Forest
+Mon Apr 24 2000,Port Vale,1-2,1-1,Huddersfield
+Mon Apr 24 2000,Portsmouth,2-2,1-2,Man City
+Mon Apr 24 2000,Sheffield United,1-1,0-0,Crewe
+Mon Apr 24 2000,Stockport,3-0,1-0,Swindon
+Mon Apr 24 2000,Tranmere,1-1,0-1,QPR
+Mon Apr 24 2000,West Brom,2-1,1-0,Grimsby
+Tue Apr 25 2000,Ipswich,1-0,1-0,Crystal Palace
+Fri Apr 28 2000,Man City,1-0,1-0,Birmingham
+Sat Apr 29 2000,Charlton,1-3,0-1,Ipswich
+Sat Apr 29 2000,Crewe,1-3,1-1,Bolton
+Sat Apr 29 2000,Crystal Palace,2-1,0-1,Blackburn
+Sat Apr 29 2000,Grimsby,1-2,1-1,Tranmere
+Sat Apr 29 2000,Huddersfield,0-2,0-2,Stockport
+Sat Apr 29 2000,Norwich,2-1,2-0,Sheffield United
+Sat Apr 29 2000,Nott'm Forest,2-0,2-0,Port Vale
+Sat Apr 29 2000,QPR,0-0,0-0,West Brom
+Sat Apr 29 2000,Swindon,1-2,0-0,Barnsley
+Sat Apr 29 2000,Walsall,1-0,1-0,Portsmouth
+Sun Apr 30 2000,Wolves,3-0,0-0,Fulham
+Wed May 3 2000,Bolton,2-1,0-1,Wolves
+Sun May 7 2000,Barnsley,0-2,0-0,Crewe
+Sun May 7 2000,Birmingham,0-0,0-0,Grimsby
+Sun May 7 2000,Blackburn,1-4,1-0,Man City
+Sun May 7 2000,Bolton,1-0,0-0,Norwich
+Sun May 7 2000,Fulham,3-0,1-0,Huddersfield
+Sun May 7 2000,Ipswich,2-0,0-0,Walsall
+Sun May 7 2000,Port Vale,0-1,0-0,Wolves
+Sun May 7 2000,Portsmouth,1-3,0-1,QPR
+Sun May 7 2000,Sheffield United,2-2,1-0,Swindon
+Sun May 7 2000,Stockport,2-3,1-2,Nott'm Forest
+Sun May 7 2000,Tranmere,1-2,0-2,Crystal Palace
+Sun May 7 2000,West Brom,2-0,0-0,Charlton

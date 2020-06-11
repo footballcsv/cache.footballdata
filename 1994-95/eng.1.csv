@@ -1,0 +1,463 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 20 1994,Arsenal,3-0,?,Man City
+Sat Aug 20 1994,Chelsea,2-0,?,Norwich
+Sat Aug 20 1994,Coventry,1-1,?,Wimbledon
+Sat Aug 20 1994,Crystal Palace,1-6,?,Liverpool
+Sat Aug 20 1994,Everton,2-2,?,Aston Villa
+Sat Aug 20 1994,Ipswich,0-1,?,Nott'm Forest
+Sat Aug 20 1994,Man United,2-0,?,QPR
+Sat Aug 20 1994,Sheffield Weds,3-4,?,Tottenham
+Sat Aug 20 1994,Southampton,1-1,?,Blackburn
+Sat Aug 20 1994,West Ham,0-0,?,Leeds
+Sun Aug 21 1994,Leicester,1-3,?,Newcastle
+Mon Aug 22 1994,Nott'm Forest,1-1,?,Man United
+Tue Aug 23 1994,Blackburn,3-0,?,Leicester
+Tue Aug 23 1994,Leeds,1-0,?,Arsenal
+Tue Aug 23 1994,Wimbledon,1-1,?,Ipswich
+Wed Aug 24 1994,Aston Villa,1-1,?,Southampton
+Wed Aug 24 1994,Man City,3-0,?,West Ham
+Wed Aug 24 1994,Newcastle,4-0,?,Coventry
+Wed Aug 24 1994,Norwich,0-0,?,Crystal Palace
+Wed Aug 24 1994,QPR,3-2,?,Sheffield Weds
+Wed Aug 24 1994,Tottenham,2-1,?,Everton
+Sat Aug 27 1994,Aston Villa,1-1,?,Crystal Palace
+Sat Aug 27 1994,Blackburn,4-0,?,Coventry
+Sat Aug 27 1994,Leeds,2-3,?,Chelsea
+Sat Aug 27 1994,Man City,4-0,?,Everton
+Sat Aug 27 1994,Newcastle,5-1,?,Southampton
+Sat Aug 27 1994,Norwich,1-0,?,West Ham
+Sat Aug 27 1994,Nott'm Forest,1-0,?,Leicester
+Sat Aug 27 1994,QPR,1-2,?,Ipswich
+Sat Aug 27 1994,Tottenham,0-1,?,Man United
+Sat Aug 27 1994,Wimbledon,0-1,?,Sheffield Weds
+Sun Aug 28 1994,Liverpool,3-0,?,Arsenal
+Mon Aug 29 1994,Coventry,0-1,?,Aston Villa
+Tue Aug 30 1994,Crystal Palace,1-2,?,Leeds
+Tue Aug 30 1994,Everton,1-2,?,Nott'm Forest
+Tue Aug 30 1994,Ipswich,1-3,?,Tottenham
+Wed Aug 31 1994,Arsenal,0-0,?,Blackburn
+Wed Aug 31 1994,Chelsea,3-0,?,Man City
+Wed Aug 31 1994,Leicester,1-1,?,QPR
+Wed Aug 31 1994,Man United,3-0,?,Wimbledon
+Wed Aug 31 1994,Sheffield Weds,0-0,?,Norwich
+Wed Aug 31 1994,Southampton,0-2,?,Liverpool
+Wed Aug 31 1994,West Ham,1-3,?,Newcastle
+Sat Sep 10 1994,Aston Villa,2-0,?,Ipswich
+Sat Sep 10 1994,Blackburn,3-0,?,Everton
+Sat Sep 10 1994,Liverpool,0-0,?,West Ham
+Sat Sep 10 1994,Man City,1-1,?,Crystal Palace
+Sat Sep 10 1994,Newcastle,4-2,?,Chelsea
+Sat Sep 10 1994,Norwich,0-0,?,Arsenal
+Sat Sep 10 1994,Nott'm Forest,4-1,?,Sheffield Weds
+Sat Sep 10 1994,QPR,2-2,?,Coventry
+Sat Sep 10 1994,Wimbledon,2-1,?,Leicester
+Sun Sep 11 1994,Leeds,2-1,?,Man United
+Mon Sep 12 1994,Tottenham,1-2,?,Southampton
+Sat Sep 17 1994,Coventry,2-1,?,Leeds
+Sat Sep 17 1994,Crystal Palace,0-0,?,Wimbledon
+Sat Sep 17 1994,Everton,2-2,?,QPR
+Sat Sep 17 1994,Leicester,3-1,?,Tottenham
+Sat Sep 17 1994,Man United,2-0,?,Liverpool
+Sat Sep 17 1994,Sheffield Weds,1-1,?,Man City
+Sat Sep 17 1994,Southampton,1-1,?,Nott'm Forest
+Sat Sep 17 1994,West Ham,1-0,?,Aston Villa
+Sun Sep 18 1994,Arsenal,2-3,?,Newcastle
+Sun Sep 18 1994,Chelsea,1-2,?,Blackburn
+Mon Sep 19 1994,Ipswich,1-2,?,Norwich
+Sat Sep 24 1994,Blackburn,3-1,?,Aston Villa
+Sat Sep 24 1994,Coventry,1-3,?,Southampton
+Sat Sep 24 1994,Crystal Palace,0-1,?,Chelsea
+Sat Sep 24 1994,Everton,1-1,?,Leicester
+Sat Sep 24 1994,Ipswich,3-2,?,Man United
+Sat Sep 24 1994,Man City,2-0,?,Norwich
+Sat Sep 24 1994,Newcastle,1-1,?,Liverpool
+Sat Sep 24 1994,QPR,0-1,?,Wimbledon
+Sat Sep 24 1994,Tottenham,1-4,?,Nott'm Forest
+Sun Sep 25 1994,West Ham,0-2,?,Arsenal
+Mon Sep 26 1994,Sheffield Weds,1-1,?,Leeds
+Sat Oct 1 1994,Arsenal,1-2,?,Crystal Palace
+Sat Oct 1 1994,Aston Villa,0-2,?,Newcastle
+Sat Oct 1 1994,Leeds,2-0,?,Man City
+Sat Oct 1 1994,Liverpool,4-1,?,Sheffield Weds
+Sat Oct 1 1994,Man United,2-0,?,Everton
+Sat Oct 1 1994,Norwich,2-1,?,Blackburn
+Sat Oct 1 1994,Southampton,3-1,?,Ipswich
+Sat Oct 1 1994,Wimbledon,1-2,?,Tottenham
+Sun Oct 2 1994,Chelsea,1-2,?,West Ham
+Sun Oct 2 1994,Nott'm Forest,3-2,?,QPR
+Mon Oct 3 1994,Leicester,2-2,?,Coventry
+Sat Oct 8 1994,Chelsea,4-0,?,Leicester
+Sat Oct 8 1994,Liverpool,3-2,?,Aston Villa
+Sat Oct 8 1994,Man City,3-3,?,Nott'm Forest
+Sat Oct 8 1994,Norwich,2-1,?,Leeds
+Sat Oct 8 1994,Sheffield Weds,1-0,?,Man United
+Sat Oct 8 1994,Southampton,2-0,?,Everton
+Sat Oct 8 1994,Tottenham,1-1,?,QPR
+Sat Oct 8 1994,West Ham,1-0,?,Crystal Palace
+Sat Oct 8 1994,Wimbledon,1-3,?,Arsenal
+Sun Oct 9 1994,Newcastle,1-1,?,Blackburn
+Mon Oct 10 1994,Coventry,2-0,?,Ipswich
+Sat Oct 15 1994,Arsenal,3-1,?,Chelsea
+Sat Oct 15 1994,Aston Villa,1-1,?,Norwich
+Sat Oct 15 1994,Blackburn,3-2,?,Liverpool
+Sat Oct 15 1994,Crystal Palace,0-1,?,Newcastle
+Sat Oct 15 1994,Everton,0-2,?,Coventry
+Sat Oct 15 1994,Leeds,1-1,?,Tottenham
+Sat Oct 15 1994,Leicester,4-3,?,Southampton
+Sat Oct 15 1994,Man United,1-0,?,West Ham
+Sat Oct 15 1994,QPR,1-2,?,Man City
+Sun Oct 16 1994,Ipswich,1-2,?,Sheffield Weds
+Mon Oct 17 1994,Nott'm Forest,3-1,?,Wimbledon
+Sat Oct 22 1994,Aston Villa,0-2,?,Nott'm Forest
+Sat Oct 22 1994,Crystal Palace,1-0,?,Everton
+Sat Oct 22 1994,Liverpool,3-0,?,Wimbledon
+Sat Oct 22 1994,Man City,5-2,?,Tottenham
+Sat Oct 22 1994,Newcastle,2-1,?,Sheffield Weds
+Sat Oct 22 1994,Norwich,4-2,?,QPR
+Sat Oct 22 1994,West Ham,2-0,?,Southampton
+Sun Oct 23 1994,Arsenal,2-1,?,Coventry
+Sun Oct 23 1994,Blackburn,2-4,?,Man United
+Sun Oct 23 1994,Chelsea,2-0,?,Ipswich
+Mon Oct 24 1994,Leeds,2-1,?,Leicester
+Sat Oct 29 1994,Coventry,1-0,?,Man City
+Sat Oct 29 1994,Everton,1-1,?,Arsenal
+Sat Oct 29 1994,Ipswich,1-3,?,Liverpool
+Sat Oct 29 1994,Leicester,0-1,?,Crystal Palace
+Sat Oct 29 1994,Man United,2-0,?,Newcastle
+Sat Oct 29 1994,Nott'm Forest,0-2,?,Blackburn
+Sat Oct 29 1994,QPR,2-0,?,Aston Villa
+Sat Oct 29 1994,Sheffield Weds,1-1,?,Chelsea
+Sat Oct 29 1994,Southampton,1-3,?,Leeds
+Sat Oct 29 1994,Tottenham,3-1,?,West Ham
+Sun Oct 30 1994,Wimbledon,1-0,?,Norwich
+Mon Oct 31 1994,QPR,2-1,?,Liverpool
+Tue Nov 1 1994,Everton,1-0,?,West Ham
+Tue Nov 1 1994,Ipswich,2-0,?,Leeds
+Wed Nov 2 1994,Coventry,1-4,?,Crystal Palace
+Wed Nov 2 1994,Sheffield Weds,0-1,?,Blackburn
+Wed Nov 2 1994,Southampton,1-1,?,Norwich
+Sat Nov 5 1994,Blackburn,2-0,?,Tottenham
+Sat Nov 5 1994,Crystal Palace,3-0,?,Ipswich
+Sat Nov 5 1994,Leeds,3-1,?,Wimbledon
+Sat Nov 5 1994,Liverpool,1-0,?,Nott'm Forest
+Sat Nov 5 1994,Man City,3-3,?,Southampton
+Sat Nov 5 1994,Newcastle,2-1,?,QPR
+Sat Nov 5 1994,Norwich,0-0,?,Everton
+Sat Nov 5 1994,West Ham,1-0,?,Leicester
+Sun Nov 6 1994,Arsenal,0-0,?,Sheffield Weds
+Sun Nov 6 1994,Aston Villa,1-2,?,Man United
+Sun Nov 6 1994,Chelsea,2-2,?,Coventry
+Mon Nov 7 1994,Nott'm Forest,0-0,?,Newcastle
+Wed Nov 9 1994,Liverpool,3-1,?,Chelsea
+Wed Nov 9 1994,Wimbledon,4-3,?,Aston Villa
+Thu Nov 10 1994,Man United,5-0,?,Man City
+Sat Nov 19 1994,Coventry,1-0,?,Norwich
+Sat Nov 19 1994,Ipswich,1-3,?,Blackburn
+Sat Nov 19 1994,Man United,3-0,?,Crystal Palace
+Sat Nov 19 1994,Nott'm Forest,0-1,?,Chelsea
+Sat Nov 19 1994,QPR,3-2,?,Leeds
+Sat Nov 19 1994,Sheffield Weds,1-0,?,West Ham
+Sat Nov 19 1994,Southampton,1-0,?,Arsenal
+Sat Nov 19 1994,Tottenham,3-4,?,Aston Villa
+Sat Nov 19 1994,Wimbledon,3-2,?,Newcastle
+Sun Nov 20 1994,Leicester,0-1,?,Man City
+Mon Nov 21 1994,Everton,2-0,?,Liverpool
+Wed Nov 23 1994,Leicester,2-1,?,Arsenal
+Wed Nov 23 1994,Tottenham,0-0,?,Chelsea
+Sat Nov 26 1994,Arsenal,0-0,?,Man United
+Sat Nov 26 1994,Blackburn,4-0,?,QPR
+Sat Nov 26 1994,Chelsea,0-1,?,Everton
+Sat Nov 26 1994,Crystal Palace,0-0,?,Southampton
+Sat Nov 26 1994,Leeds,1-0,?,Nott'm Forest
+Sat Nov 26 1994,Liverpool,1-1,?,Tottenham
+Sat Nov 26 1994,Man City,2-0,?,Wimbledon
+Sat Nov 26 1994,Newcastle,1-1,?,Ipswich
+Sat Nov 26 1994,Norwich,2-1,?,Leicester
+Sat Nov 26 1994,West Ham,0-1,?,Coventry
+Sun Nov 27 1994,Aston Villa,1-1,?,Sheffield Weds
+Sat Dec 3 1994,Coventry,1-1,?,Liverpool
+Sat Dec 3 1994,Ipswich,1-2,?,Man City
+Sat Dec 3 1994,Leicester,1-1,?,Aston Villa
+Sat Dec 3 1994,Man United,1-0,?,Norwich
+Sat Dec 3 1994,Nott'm Forest,2-2,?,Arsenal
+Sat Dec 3 1994,Sheffield Weds,1-0,?,Crystal Palace
+Sat Dec 3 1994,Southampton,0-1,?,Chelsea
+Sat Dec 3 1994,Tottenham,4-2,?,Newcastle
+Sat Dec 3 1994,Wimbledon,0-3,?,Blackburn
+Sun Dec 4 1994,Everton,3-0,?,Leeds
+Sun Dec 4 1994,QPR,2-1,?,West Ham
+Sat Dec 10 1994,Aston Villa,0-0,?,Everton
+Sat Dec 10 1994,Blackburn,3-2,?,Southampton
+Sat Dec 10 1994,Leeds,2-2,?,West Ham
+Sat Dec 10 1994,Newcastle,3-1,?,Leicester
+Sat Dec 10 1994,Norwich,3-0,?,Chelsea
+Sat Dec 10 1994,Nott'm Forest,4-1,?,Ipswich
+Sat Dec 10 1994,QPR,2-3,?,Man United
+Sat Dec 10 1994,Tottenham,3-1,?,Sheffield Weds
+Sat Dec 10 1994,Wimbledon,2-0,?,Coventry
+Sun Dec 11 1994,Liverpool,0-0,?,Crystal Palace
+Mon Dec 12 1994,Man City,1-2,?,Arsenal
+Fri Dec 16 1994,Ipswich,2-2,?,Wimbledon
+Sat Dec 17 1994,Arsenal,1-3,?,Leeds
+Sat Dec 17 1994,Coventry,0-0,?,Newcastle
+Sat Dec 17 1994,Crystal Palace,0-1,?,Norwich
+Sat Dec 17 1994,Everton,0-0,?,Tottenham
+Sat Dec 17 1994,Leicester,0-0,?,Blackburn
+Sat Dec 17 1994,Man United,1-2,?,Nott'm Forest
+Sat Dec 17 1994,Sheffield Weds,0-2,?,QPR
+Sat Dec 17 1994,West Ham,3-0,?,Man City
+Sun Dec 18 1994,Chelsea,0-0,?,Liverpool
+Mon Dec 19 1994,Southampton,2-1,?,Aston Villa
+Mon Dec 26 1994,Arsenal,0-0,?,Aston Villa
+Mon Dec 26 1994,Chelsea,2-3,?,Man United
+Mon Dec 26 1994,Coventry,0-0,?,Nott'm Forest
+Mon Dec 26 1994,Crystal Palace,0-0,?,QPR
+Mon Dec 26 1994,Everton,1-4,?,Sheffield Weds
+Mon Dec 26 1994,Leeds,0-0,?,Newcastle
+Mon Dec 26 1994,Leicester,1-2,?,Liverpool
+Mon Dec 26 1994,Man City,1-3,?,Blackburn
+Mon Dec 26 1994,Norwich,0-2,?,Tottenham
+Mon Dec 26 1994,Southampton,2-3,?,Wimbledon
+Mon Dec 26 1994,West Ham,1-1,?,Ipswich
+Tue Dec 27 1994,Nott'm Forest,1-0,?,Norwich
+Tue Dec 27 1994,Tottenham,0-0,?,Crystal Palace
+Wed Dec 28 1994,Aston Villa,3-0,?,Chelsea
+Wed Dec 28 1994,Ipswich,0-2,?,Arsenal
+Wed Dec 28 1994,Liverpool,2-0,?,Man City
+Wed Dec 28 1994,Man United,1-1,?,Leicester
+Wed Dec 28 1994,QPR,2-2,?,Southampton
+Wed Dec 28 1994,Sheffield Weds,5-1,?,Coventry
+Wed Dec 28 1994,Wimbledon,1-0,?,West Ham
+Sat Dec 31 1994,Arsenal,1-3,?,QPR
+Sat Dec 31 1994,Chelsea,1-1,?,Wimbledon
+Sat Dec 31 1994,Coventry,0-4,?,Tottenham
+Sat Dec 31 1994,Crystal Palace,0-1,?,Blackburn
+Sat Dec 31 1994,Everton,4-1,?,Ipswich
+Sat Dec 31 1994,Leeds,0-2,?,Liverpool
+Sat Dec 31 1994,Leicester,0-1,?,Sheffield Weds
+Sat Dec 31 1994,Man City,2-2,?,Aston Villa
+Sat Dec 31 1994,Norwich,2-1,?,Newcastle
+Sat Dec 31 1994,Southampton,2-2,?,Man United
+Sat Dec 31 1994,West Ham,3-1,?,Nott'm Forest
+Mon Jan 2 1995,Aston Villa,0-0,?,Leeds
+Mon Jan 2 1995,Blackburn,4-2,?,West Ham
+Mon Jan 2 1995,Ipswich,4-1,?,Leicester
+Mon Jan 2 1995,Liverpool,4-0,?,Norwich
+Mon Jan 2 1995,Newcastle,0-0,?,Man City
+Mon Jan 2 1995,Nott'm Forest,1-0,?,Crystal Palace
+Mon Jan 2 1995,Sheffield Weds,1-1,?,Southampton
+Mon Jan 2 1995,Tottenham,1-0,?,Arsenal
+Mon Jan 2 1995,Wimbledon,2-1,?,Everton
+Tue Jan 3 1995,Man United,2-0,?,Coventry
+Sat Jan 14 1995,Arsenal,1-1,?,Everton
+Sat Jan 14 1995,Aston Villa,2-1,?,QPR
+Sat Jan 14 1995,Blackburn,3-0,?,Nott'm Forest
+Sat Jan 14 1995,Chelsea,1-1,?,Sheffield Weds
+Sat Jan 14 1995,Crystal Palace,2-0,?,Leicester
+Sat Jan 14 1995,Leeds,0-0,?,Southampton
+Sat Jan 14 1995,Liverpool,0-1,?,Ipswich
+Sat Jan 14 1995,Man City,0-0,?,Coventry
+Sat Jan 14 1995,Norwich,1-2,?,Wimbledon
+Sat Jan 14 1995,West Ham,1-2,?,Tottenham
+Sun Jan 15 1995,Newcastle,1-1,?,Man United
+Sat Jan 21 1995,Coventry,0-1,?,Arsenal
+Sat Jan 21 1995,Everton,3-1,?,Crystal Palace
+Sat Jan 21 1995,Ipswich,2-2,?,Chelsea
+Sat Jan 21 1995,Nott'm Forest,1-2,?,Aston Villa
+Sat Jan 21 1995,Sheffield Weds,0-0,?,Newcastle
+Sun Jan 22 1995,Man United,1-0,?,Blackburn
+Mon Jan 23 1995,West Ham,0-2,?,Sheffield Weds
+Tue Jan 24 1995,Arsenal,1-1,?,Southampton
+Tue Jan 24 1995,Leeds,4-0,?,QPR
+Tue Jan 24 1995,Liverpool,0-0,?,Everton
+Wed Jan 25 1995,Aston Villa,1-0,?,Tottenham
+Wed Jan 25 1995,Chelsea,0-2,?,Nott'm Forest
+Wed Jan 25 1995,Crystal Palace,1-1,?,Man United
+Wed Jan 25 1995,Man City,0-1,?,Leicester
+Wed Jan 25 1995,Newcastle,2-1,?,Wimbledon
+Wed Jan 25 1995,Norwich,2-2,?,Coventry
+Sat Jan 28 1995,Blackburn,4-1,?,Ipswich
+Wed Feb 1 1995,Blackburn,1-1,?,Leeds
+Wed Feb 1 1995,Newcastle,2-0,?,Everton
+Sat Feb 4 1995,Coventry,2-2,?,Chelsea
+Sat Feb 4 1995,Everton,2-1,?,Norwich
+Sat Feb 4 1995,Ipswich,0-2,?,Crystal Palace
+Sat Feb 4 1995,Leicester,1-2,?,West Ham
+Sat Feb 4 1995,Man United,1-0,?,Aston Villa
+Sat Feb 4 1995,Nott'm Forest,1-1,?,Liverpool
+Sat Feb 4 1995,QPR,3-0,?,Newcastle
+Sat Feb 4 1995,Sheffield Weds,3-1,?,Arsenal
+Sat Feb 4 1995,Southampton,2-2,?,Man City
+Sat Feb 4 1995,Wimbledon,0-0,?,Leeds
+Sun Feb 5 1995,Tottenham,3-1,?,Blackburn
+Sat Feb 11 1995,Arsenal,1-1,?,Leicester
+Sat Feb 11 1995,Aston Villa,7-1,?,Wimbledon
+Sat Feb 11 1995,Chelsea,1-1,?,Tottenham
+Sat Feb 11 1995,Crystal Palace,0-2,?,Coventry
+Sat Feb 11 1995,Liverpool,1-1,?,QPR
+Sat Feb 11 1995,Man City,0-3,?,Man United
+Sat Feb 11 1995,Newcastle,2-1,?,Nott'm Forest
+Sat Feb 11 1995,Norwich,2-2,?,Southampton
+Sun Feb 12 1995,Blackburn,3-1,?,Sheffield Weds
+Mon Feb 13 1995,West Ham,2-2,?,Everton
+Sat Feb 18 1995,Coventry,2-0,?,West Ham
+Sat Feb 18 1995,Sheffield Weds,1-2,?,Aston Villa
+Tue Feb 21 1995,Arsenal,1-0,?,Nott'm Forest
+Wed Feb 22 1995,Aston Villa,4-4,?,Leicester
+Wed Feb 22 1995,Blackburn,2-1,?,Wimbledon
+Wed Feb 22 1995,Leeds,1-0,?,Everton
+Wed Feb 22 1995,Man City,2-0,?,Ipswich
+Wed Feb 22 1995,Norwich,0-2,?,Man United
+Sat Feb 25 1995,Blackburn,0-0,?,Norwich
+Sat Feb 25 1995,Coventry,4-2,?,Leicester
+Sat Feb 25 1995,Crystal Palace,0-3,?,Arsenal
+Sat Feb 25 1995,Everton,1-0,?,Man United
+Sat Feb 25 1995,Ipswich,2-1,?,Southampton
+Sat Feb 25 1995,Man City,0-0,?,Leeds
+Sat Feb 25 1995,Newcastle,3-1,?,Aston Villa
+Sat Feb 25 1995,Sheffield Weds,1-2,?,Liverpool
+Sat Feb 25 1995,Tottenham,1-2,?,Wimbledon
+Sat Feb 25 1995,West Ham,1-2,?,Chelsea
+Sun Feb 26 1995,QPR,1-1,?,Nott'm Forest
+Tue Feb 28 1995,Ipswich,0-2,?,Newcastle
+Sat Mar 4 1995,Aston Villa,0-1,?,Blackburn
+Sat Mar 4 1995,Leeds,0-1,?,Sheffield Weds
+Sat Mar 4 1995,Leicester,2-2,?,Everton
+Sat Mar 4 1995,Liverpool,2-0,?,Newcastle
+Sat Mar 4 1995,Man United,9-0,?,Ipswich
+Sat Mar 4 1995,Norwich,1-1,?,Man City
+Sat Mar 4 1995,Nott'm Forest,2-2,?,Tottenham
+Sat Mar 4 1995,Southampton,0-0,?,Coventry
+Sat Mar 4 1995,Wimbledon,1-3,?,QPR
+Sun Mar 5 1995,Arsenal,0-1,?,West Ham
+Sun Mar 5 1995,Chelsea,0-0,?,Crystal Palace
+Mon Mar 6 1995,Aston Villa,0-0,?,Coventry
+Tue Mar 7 1995,Wimbledon,0-1,?,Man United
+Wed Mar 8 1995,Blackburn,3-1,?,Arsenal
+Wed Mar 8 1995,Man City,1-2,?,Chelsea
+Wed Mar 8 1995,Newcastle,2-0,?,West Ham
+Wed Mar 8 1995,Norwich,0-0,?,Sheffield Weds
+Wed Mar 8 1995,Nott'm Forest,2-1,?,Everton
+Wed Mar 8 1995,QPR,2-0,?,Leicester
+Wed Mar 8 1995,Tottenham,3-0,?,Ipswich
+Sat Mar 11 1995,Chelsea,0-3,?,Leeds
+Sat Mar 11 1995,Coventry,1-1,?,Blackburn
+Sat Mar 11 1995,Leicester,2-4,?,Nott'm Forest
+Sat Mar 11 1995,Sheffield Weds,0-1,?,Wimbledon
+Sat Mar 11 1995,West Ham,2-2,?,Norwich
+Tue Mar 14 1995,Crystal Palace,2-1,?,Sheffield Weds
+Tue Mar 14 1995,Liverpool,2-3,?,Coventry
+Wed Mar 15 1995,Everton,1-1,?,Man City
+Wed Mar 15 1995,Leicester,1-3,?,Leeds
+Wed Mar 15 1995,Man United,0-0,?,Tottenham
+Wed Mar 15 1995,QPR,2-0,?,Norwich
+Wed Mar 15 1995,Southampton,1-1,?,West Ham
+Sat Mar 18 1995,Aston Villa,0-2,?,West Ham
+Sat Mar 18 1995,Blackburn,2-1,?,Chelsea
+Sat Mar 18 1995,Leeds,3-0,?,Coventry
+Sat Mar 18 1995,Man City,3-2,?,Sheffield Weds
+Sat Mar 18 1995,Nott'm Forest,3-0,?,Southampton
+Sat Mar 18 1995,QPR,2-3,?,Everton
+Sat Mar 18 1995,Tottenham,1-0,?,Leicester
+Sat Mar 18 1995,Wimbledon,2-0,?,Crystal Palace
+Sun Mar 19 1995,Liverpool,2-0,?,Man United
+Sun Mar 19 1995,Newcastle,1-0,?,Arsenal
+Mon Mar 20 1995,Norwich,3-0,?,Ipswich
+Tue Mar 21 1995,Wimbledon,2-0,?,Man City
+Wed Mar 22 1995,Man United,3-0,?,Arsenal
+Wed Mar 22 1995,Nott'm Forest,3-0,?,Leeds
+Wed Mar 22 1995,QPR,1-0,?,Chelsea
+Wed Mar 22 1995,Southampton,3-1,?,Newcastle
+Wed Mar 22 1995,Tottenham,0-0,?,Liverpool
+Sat Apr 1 1995,Arsenal,5-1,?,Norwich
+Sat Apr 1 1995,Chelsea,1-1,?,Newcastle
+Sat Apr 1 1995,Coventry,0-1,?,QPR
+Sat Apr 1 1995,Crystal Palace,2-1,?,Man City
+Sat Apr 1 1995,Everton,1-2,?,Blackburn
+Sat Apr 1 1995,Ipswich,0-1,?,Aston Villa
+Sat Apr 1 1995,Leicester,3-4,?,Wimbledon
+Sat Apr 1 1995,Sheffield Weds,1-7,?,Nott'm Forest
+Sun Apr 2 1995,Man United,0-0,?,Leeds
+Sun Apr 2 1995,Southampton,4-3,?,Tottenham
+Tue Apr 4 1995,Crystal Palace,0-0,?,Aston Villa
+Tue Apr 4 1995,QPR,0-1,?,Blackburn
+Wed Apr 5 1995,Leeds,4-0,?,Ipswich
+Wed Apr 5 1995,Leicester,1-0,?,Norwich
+Wed Apr 5 1995,Liverpool,3-1,?,Southampton
+Sat Apr 8 1995,Newcastle,3-0,?,Norwich
+Sat Apr 8 1995,Nott'm Forest,1-1,?,West Ham
+Sat Apr 8 1995,QPR,3-1,?,Arsenal
+Sat Apr 8 1995,Sheffield Weds,1-0,?,Leicester
+Sun Apr 9 1995,Liverpool,0-1,?,Leeds
+Mon Apr 10 1995,Wimbledon,1-1,?,Chelsea
+Tue Apr 11 1995,Ipswich,0-1,?,QPR
+Tue Apr 11 1995,Tottenham,2-1,?,Man City
+Wed Apr 12 1995,Arsenal,0-1,?,Liverpool
+Wed Apr 12 1995,Chelsea,0-2,?,Southampton
+Wed Apr 12 1995,Norwich,0-1,?,Nott'm Forest
+Thu Apr 13 1995,West Ham,3-0,?,Wimbledon
+Fri Apr 14 1995,Crystal Palace,1-1,?,Tottenham
+Fri Apr 14 1995,Everton,2-0,?,Newcastle
+Fri Apr 14 1995,Man City,2-1,?,Liverpool
+Sat Apr 15 1995,Arsenal,4-1,?,Ipswich
+Sat Apr 15 1995,Chelsea,1-0,?,Aston Villa
+Sat Apr 15 1995,Coventry,2-0,?,Sheffield Weds
+Sat Apr 15 1995,Leeds,1-1,?,Blackburn
+Sat Apr 15 1995,Leicester,0-4,?,Man United
+Sat Apr 15 1995,Southampton,2-1,?,QPR
+Mon Apr 17 1995,Aston Villa,0-4,?,Arsenal
+Mon Apr 17 1995,Blackburn,2-3,?,Man City
+Mon Apr 17 1995,Ipswich,1-1,?,West Ham
+Mon Apr 17 1995,Liverpool,2-0,?,Leicester
+Mon Apr 17 1995,Man United,0-0,?,Chelsea
+Mon Apr 17 1995,Newcastle,1-2,?,Leeds
+Mon Apr 17 1995,Nott'm Forest,2-0,?,Coventry
+Mon Apr 17 1995,QPR,0-1,?,Crystal Palace
+Mon Apr 17 1995,Sheffield Weds,0-0,?,Everton
+Mon Apr 17 1995,Tottenham,1-0,?,Norwich
+Mon Apr 17 1995,Wimbledon,0-2,?,Southampton
+Wed Apr 19 1995,Blackburn,2-1,?,Crystal Palace
+Sat Apr 29 1995,Arsenal,1-1,?,Tottenham
+Sat Apr 29 1995,Chelsea,1-0,?,QPR
+Sat Apr 29 1995,Crystal Palace,1-2,?,Nott'm Forest
+Sat Apr 29 1995,Everton,0-0,?,Wimbledon
+Sat Apr 29 1995,Leeds,1-0,?,Aston Villa
+Sat Apr 29 1995,Leicester,2-0,?,Ipswich
+Sat Apr 29 1995,Man City,0-0,?,Newcastle
+Sat Apr 29 1995,Norwich,1-2,?,Liverpool
+Sat Apr 29 1995,Southampton,0-0,?,Sheffield Weds
+Sun Apr 30 1995,West Ham,2-0,?,Blackburn
+Mon May 1 1995,Coventry,2-3,?,Man United
+Tue May 2 1995,Wimbledon,0-0,?,Liverpool
+Wed May 3 1995,Aston Villa,1-1,?,Man City
+Wed May 3 1995,Everton,3-3,?,Chelsea
+Wed May 3 1995,Newcastle,3-3,?,Tottenham
+Wed May 3 1995,Southampton,3-1,?,Crystal Palace
+Wed May 3 1995,West Ham,0-0,?,QPR
+Thu May 4 1995,Arsenal,0-0,?,Wimbledon
+Sat May 6 1995,Aston Villa,2-0,?,Liverpool
+Sat May 6 1995,Crystal Palace,1-0,?,West Ham
+Sat May 6 1995,Everton,0-0,?,Southampton
+Sat May 6 1995,Ipswich,2-0,?,Coventry
+Sat May 6 1995,Leeds,2-1,?,Norwich
+Sat May 6 1995,Leicester,1-1,?,Chelsea
+Sat May 6 1995,Nott'm Forest,1-0,?,Man City
+Sat May 6 1995,QPR,2-1,?,Tottenham
+Sun May 7 1995,Man United,1-0,?,Sheffield Weds
+Mon May 8 1995,Blackburn,1-0,?,Newcastle
+Tue May 9 1995,Ipswich,0-1,?,Everton
+Tue May 9 1995,Leeds,3-1,?,Crystal Palace
+Tue May 9 1995,Tottenham,1-3,?,Coventry
+Wed May 10 1995,Man United,2-1,?,Southampton
+Wed May 10 1995,West Ham,3-0,?,Liverpool
+Sat May 13 1995,Wimbledon,2-2,?,Nott'm Forest
+Sun May 14 1995,Chelsea,2-1,?,Arsenal
+Sun May 14 1995,Coventry,0-0,?,Everton
+Sun May 14 1995,Liverpool,2-1,?,Blackburn
+Sun May 14 1995,Man City,2-3,?,QPR
+Sun May 14 1995,Newcastle,3-2,?,Crystal Palace
+Sun May 14 1995,Norwich,1-1,?,Aston Villa
+Sun May 14 1995,Sheffield Weds,4-1,?,Ipswich
+Sun May 14 1995,Southampton,2-2,?,Leicester
+Sun May 14 1995,Tottenham,1-1,?,Leeds
+Sun May 14 1995,West Ham,1-1,?,Man United

@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 9 2003,Barnsley,1-0,0-0,Colchester
+Sat Aug 9 2003,Bristol City,5-0,2-0,Notts County
+Sat Aug 9 2003,Luton,3-1,0-1,Rushden & D
+Sat Aug 9 2003,Oldham,1-3,0-2,Brighton
+Sat Aug 9 2003,Peterboro,3-4,2-1,Hartlepool
+Sat Aug 9 2003,Plymouth,2-2,1-1,Grimsby
+Sat Aug 9 2003,Port Vale,2-1,0-0,Bournemouth
+Sat Aug 9 2003,QPR,5-0,2-0,Blackpool
+Sat Aug 9 2003,Swindon,2-3,1-3,Sheffield Weds
+Sat Aug 9 2003,Tranmere,4-1,2-0,Brentford
+Sat Aug 9 2003,Wrexham,0-0,0-0,Chesterfield
+Sat Aug 9 2003,Wycombe,1-0,1-0,Stockport
+Fri Aug 15 2003,Colchester,0-1,0-0,Swindon
+Sat Aug 16 2003,Blackpool,3-2,2-2,Wycombe
+Sat Aug 16 2003,Bournemouth,2-2,2-1,Barnsley
+Sat Aug 16 2003,Brentford,0-3,0-1,Peterboro
+Sat Aug 16 2003,Chesterfield,1-1,1-1,Bristol City
+Sat Aug 16 2003,Grimsby,1-2,1-0,Port Vale
+Sat Aug 16 2003,Hartlepool,0-0,0-0,Tranmere
+Sat Aug 16 2003,Notts County,0-1,0-0,Wrexham
+Sat Aug 16 2003,Rushden & D,2-1,0-0,Plymouth
+Sat Aug 16 2003,Sheffield Weds,2-2,1-1,Oldham
+Sat Aug 16 2003,Stockport,1-2,0-1,Luton
+Mon Aug 18 2003,Brighton,2-1,1-1,QPR
+Sat Aug 23 2003,Barnsley,1-0,0-0,Brighton
+Sat Aug 23 2003,Bristol City,1-1,0-0,Hartlepool
+Sat Aug 23 2003,Luton,1-2,0-1,Grimsby
+Sat Aug 23 2003,Oldham,2-3,1-0,Blackpool
+Sat Aug 23 2003,Peterboro,0-1,0-1,Sheffield Weds
+Sat Aug 23 2003,Plymouth,3-1,3-1,Stockport
+Sat Aug 23 2003,Port Vale,4-3,1-2,Colchester
+Sat Aug 23 2003,QPR,1-0,0-0,Bournemouth
+Sat Aug 23 2003,Swindon,4-0,2-0,Notts County
+Sat Aug 23 2003,Tranmere,1-2,0-2,Rushden & D
+Sat Aug 23 2003,Wrexham,1-0,1-0,Brentford
+Sat Aug 23 2003,Wycombe,3-3,2-2,Chesterfield
+Mon Aug 25 2003,Blackpool,0-2,0-1,Barnsley
+Mon Aug 25 2003,Bournemouth,2-2,1-2,Swindon
+Mon Aug 25 2003,Brentford,2-1,1-1,Oldham
+Mon Aug 25 2003,Brighton,2-0,1-0,Luton
+Mon Aug 25 2003,Chesterfield,1-1,0-0,Plymouth
+Mon Aug 25 2003,Grimsby,3-1,1-0,Wycombe
+Mon Aug 25 2003,Hartlepool,2-0,1-0,Port Vale
+Mon Aug 25 2003,Notts County,0-1,0-1,Peterboro
+Mon Aug 25 2003,Rushden & D,3-3,1-2,QPR
+Mon Aug 25 2003,Sheffield Weds,2-3,1-1,Wrexham
+Mon Aug 25 2003,Stockport,1-1,0-1,Tranmere
+Tue Aug 26 2003,Colchester,2-1,0-0,Bristol City
+Sat Aug 30 2003,Barnsley,1-1,0-0,Notts County
+Sat Aug 30 2003,Bristol City,1-0,0-0,Grimsby
+Sat Aug 30 2003,Luton,3-2,3-1,Hartlepool
+Sat Aug 30 2003,Oldham,3-2,1-1,Rushden & D
+Sat Aug 30 2003,Peterboro,1-2,0-1,Stockport
+Sat Aug 30 2003,Plymouth,3-3,1-2,Brighton
+Sat Aug 30 2003,Port Vale,1-0,0-0,Brentford
+Sat Aug 30 2003,QPR,3-0,1-0,Chesterfield
+Sat Aug 30 2003,Swindon,2-2,2-2,Blackpool
+Sat Aug 30 2003,Tranmere,1-1,1-1,Colchester
+Sat Aug 30 2003,Wrexham,0-1,0-1,Bournemouth
+Mon Sep 1 2003,Wycombe,1-2,1-2,Sheffield Weds
+Sat Sep 6 2003,Bournemouth,0-0,0-0,Bristol City
+Sat Sep 6 2003,Brentford,1-3,1-1,Plymouth
+Sat Sep 6 2003,Brighton,2-2,1-1,Swindon
+Sat Sep 6 2003,Chesterfield,0-2,0-1,Barnsley
+Sat Sep 6 2003,Colchester,2-2,1-0,QPR
+Sat Sep 6 2003,Grimsby,1-1,0-1,Peterboro
+Sat Sep 6 2003,Hartlepool,0-0,0-0,Oldham
+Sat Sep 6 2003,Notts County,1-1,0-1,Luton
+Sat Sep 6 2003,Rushden & D,2-0,1-0,Wycombe
+Sat Sep 6 2003,Sheffield Weds,2-0,0-0,Tranmere
+Sat Sep 6 2003,Stockport,2-2,2-0,Port Vale
+Fri Sep 12 2003,Hartlepool,8-1,4-0,Grimsby
+Sat Sep 13 2003,Blackpool,1-2,1-0,Bournemouth
+Sat Sep 13 2003,Chesterfield,0-1,0-0,Notts County
+Sat Sep 13 2003,Colchester,1-0,0-0,Brighton
+Sat Sep 13 2003,Oldham,1-1,0-1,Bristol City
+Sat Sep 13 2003,Plymouth,2-1,0-0,Luton
+Sat Sep 13 2003,Port Vale,3-1,1-1,Barnsley
+Sat Sep 13 2003,QPR,0-0,0-0,Wycombe
+Sat Sep 13 2003,Rushden & D,0-1,0-1,Brentford
+Sat Sep 13 2003,Sheffield Weds,2-2,2-0,Stockport
+Sat Sep 13 2003,Swindon,1-0,0-0,Wrexham
+Sat Sep 13 2003,Tranmere,0-0,0-0,Peterboro
+Tue Sep 16 2003,Barnsley,1-1,0-0,Oldham
+Tue Sep 16 2003,Bournemouth,1-0,0-0,Sheffield Weds
+Tue Sep 16 2003,Brentford,0-0,0-0,Blackpool
+Tue Sep 16 2003,Brighton,1-0,1-0,Chesterfield
+Tue Sep 16 2003,Bristol City,2-0,1-0,Tranmere
+Tue Sep 16 2003,Grimsby,1-2,1-0,Swindon
+Tue Sep 16 2003,Luton,2-0,1-0,Port Vale
+Tue Sep 16 2003,Notts County,1-3,1-1,Rushden & D
+Tue Sep 16 2003,Peterboro,2-2,1-1,Plymouth
+Tue Sep 16 2003,Stockport,1-2,1-1,Hartlepool
+Tue Sep 16 2003,Wrexham,0-2,0-1,QPR
+Tue Sep 16 2003,Wycombe,1-2,0-2,Colchester
+Sat Sep 20 2003,Barnsley,1-1,0-1,Swindon
+Sat Sep 20 2003,Bournemouth,2-1,0-1,Rushden & D
+Sat Sep 20 2003,Brentford,2-1,1-1,Hartlepool
+Sat Sep 20 2003,Brighton,2-0,1-0,Sheffield Weds
+Sat Sep 20 2003,Bristol City,0-1,0-0,Port Vale
+Sat Sep 20 2003,Grimsby,4-0,1-0,Chesterfield
+Sat Sep 20 2003,Luton,1-1,0-0,QPR
+Sat Sep 20 2003,Notts County,2-2,1-1,Tranmere
+Sat Sep 20 2003,Peterboro,1-2,0-1,Colchester
+Sat Sep 20 2003,Stockport,1-3,1-0,Blackpool
+Sat Sep 20 2003,Wrexham,2-2,2-1,Plymouth
+Sat Sep 20 2003,Wycombe,2-5,0-3,Oldham
+Sat Sep 27 2003,Blackpool,2-1,2-1,Notts County
+Sat Sep 27 2003,Chesterfield,1-2,0-0,Brentford
+Sat Sep 27 2003,Colchester,1-0,0-0,Bournemouth
+Sat Sep 27 2003,Hartlepool,0-0,0-0,Brighton
+Sat Sep 27 2003,Oldham,3-0,2-0,Luton
+Sat Sep 27 2003,Plymouth,2-0,1-0,Barnsley
+Sat Sep 27 2003,Port Vale,1-1,1-0,Wycombe
+Sat Sep 27 2003,QPR,1-1,0-0,Bristol City
+Sat Sep 27 2003,Rushden & D,2-2,1-1,Stockport
+Sat Sep 27 2003,Sheffield Weds,0-0,0-0,Grimsby
+Sat Sep 27 2003,Swindon,2-0,0-0,Peterboro
+Sat Sep 27 2003,Tranmere,1-2,1-0,Wrexham
+Tue Sep 30 2003,Blackpool,0-1,0-0,Grimsby
+Tue Sep 30 2003,Chesterfield,1-1,1-0,Bournemouth
+Tue Sep 30 2003,Colchester,1-1,0-1,Brentford
+Tue Sep 30 2003,Hartlepool,2-0,2-0,Wrexham
+Tue Sep 30 2003,Oldham,2-0,1-0,Stockport
+Tue Sep 30 2003,Plymouth,0-1,0-1,Bristol City
+Tue Sep 30 2003,Port Vale,3-0,1-0,Peterboro
+Tue Sep 30 2003,QPR,4-0,0-0,Barnsley
+Tue Sep 30 2003,Rushden & D,1-3,0-1,Brighton
+Tue Sep 30 2003,Tranmere,2-1,1-0,Wycombe
+Wed Oct 1 2003,Sheffield Weds,2-1,1-0,Notts County
+Wed Oct 1 2003,Swindon,2-2,1-0,Luton
+Sat Oct 4 2003,Barnsley,2-0,1-0,Rushden & D
+Sat Oct 4 2003,Bournemouth,2-2,0-1,Hartlepool
+Sat Oct 4 2003,Brentford,0-3,0-2,Sheffield Weds
+Sat Oct 4 2003,Brighton,3-0,2-0,Blackpool
+Sat Oct 4 2003,Bristol City,2-1,0-1,Swindon
+Sat Oct 4 2003,Grimsby,0-1,0-0,QPR
+Sat Oct 4 2003,Notts County,3-0,1-0,Colchester
+Sat Oct 4 2003,Peterboro,2-2,1-1,Oldham
+Sat Oct 4 2003,Stockport,0-0,0-0,Chesterfield
+Sat Oct 4 2003,Wrexham,2-1,1-1,Port Vale
+Sat Oct 4 2003,Wycombe,0-0,0-0,Plymouth
+Mon Oct 6 2003,Luton,3-1,1-0,Tranmere
+Fri Oct 10 2003,Bristol City,1-1,1-0,Peterboro
+Fri Oct 10 2003,Hartlepool,1-1,0-0,Sheffield Weds
+Sat Oct 11 2003,Brighton,3-0,0-0,Grimsby
+Sat Oct 11 2003,Colchester,1-1,1-0,Blackpool
+Sat Oct 11 2003,Luton,3-1,0-0,Wycombe
+Sat Oct 11 2003,Notts County,0-1,0-0,Bournemouth
+Sat Oct 11 2003,Oldham,2-1,0-0,Port Vale
+Sat Oct 11 2003,Plymouth,6-0,3-0,Tranmere
+Sat Oct 11 2003,Rushden & D,2-1,2-1,Chesterfield
+Sat Oct 11 2003,Swindon,1-2,1-0,Stockport
+Sat Oct 18 2003,Blackpool,4-0,3-0,Hartlepool
+Sat Oct 18 2003,Bournemouth,1-0,1-0,Brighton
+Sat Oct 18 2003,Brentford,4-2,1-0,Luton
+Sat Oct 18 2003,Chesterfield,3-0,2-0,Swindon
+Sat Oct 18 2003,Grimsby,2-0,1-0,Colchester
+Sat Oct 18 2003,Peterboro,0-0,0-0,QPR
+Sat Oct 18 2003,Port Vale,1-5,0-3,Plymouth
+Sat Oct 18 2003,Sheffield Weds,0-0,0-0,Rushden & D
+Sat Oct 18 2003,Stockport,2-2,0-0,Notts County
+Sat Oct 18 2003,Tranmere,2-1,0-1,Oldham
+Sat Oct 18 2003,Wrexham,0-0,0-0,Bristol City
+Sat Oct 18 2003,Wycombe,1-2,0-2,Barnsley
+Tue Oct 21 2003,Blackpool,2-3,1-1,Rushden & D
+Tue Oct 21 2003,Bournemouth,6-3,4-2,Luton
+Tue Oct 21 2003,Brentford,4-0,2-0,Brighton
+Tue Oct 21 2003,Chesterfield,1-2,0-1,Hartlepool
+Tue Oct 21 2003,Grimsby,2-0,1-0,Notts County
+Tue Oct 21 2003,Peterboro,2-3,2-1,Barnsley
+Tue Oct 21 2003,Port Vale,2-0,2-0,QPR
+Tue Oct 21 2003,Stockport,1-3,0-2,Colchester
+Tue Oct 21 2003,Tranmere,1-0,0-0,Swindon
+Tue Oct 21 2003,Wrexham,4-0,2-0,Oldham
+Tue Oct 21 2003,Wycombe,3-0,1-0,Bristol City
+Wed Oct 22 2003,Sheffield Weds,1-3,0-1,Plymouth
+Sat Oct 25 2003,Barnsley,0-0,0-0,Grimsby
+Sat Oct 25 2003,Brighton,0-1,0-0,Stockport
+Sat Oct 25 2003,Bristol City,1-1,0-1,Sheffield Weds
+Sat Oct 25 2003,Colchester,1-0,1-0,Chesterfield
+Sat Oct 25 2003,Hartlepool,1-1,1-1,Wycombe
+Sat Oct 25 2003,Luton,1-1,1-0,Peterboro
+Sat Oct 25 2003,Notts County,2-0,1-0,Brentford
+Sat Oct 25 2003,Oldham,1-1,1-1,Bournemouth
+Sat Oct 25 2003,Plymouth,1-0,1-0,Blackpool
+Sat Oct 25 2003,QPR,1-1,0-1,Tranmere
+Sat Oct 25 2003,Rushden & D,2-3,0-2,Wrexham
+Sat Oct 25 2003,Swindon,0-0,0-0,Port Vale
+Tue Oct 28 2003,Barnsley,2-1,1-0,Wrexham
+Fri Oct 31 2003,Wrexham,0-1,0-1,Colchester
+Sat Nov 1 2003,Brentford,2-1,0-0,Barnsley
+Sat Nov 1 2003,Bristol City,1-1,1-1,Luton
+Sat Nov 1 2003,Chesterfield,1-0,0-0,Port Vale
+Sat Nov 1 2003,Notts County,1-0,0-0,Hartlepool
+Sat Nov 1 2003,Peterboro,2-2,2-1,Brighton
+Sat Nov 1 2003,Plymouth,2-2,1-1,Oldham
+Sat Nov 1 2003,Rushden & D,3-1,0-1,Grimsby
+Sat Nov 1 2003,Sheffield Weds,0-1,0-0,Blackpool
+Sat Nov 1 2003,Stockport,1-2,0-2,QPR
+Sat Nov 1 2003,Swindon,2-0,1-0,Wycombe
+Sat Nov 1 2003,Tranmere,1-1,1-0,Bournemouth
+Tue Nov 11 2003,Blackpool,0-1,0-0,Wrexham
+Tue Nov 11 2003,QPR,1-0,1-0,Brentford
+Sat Nov 15 2003,Barnsley,2-0,1-0,Tranmere
+Sat Nov 15 2003,Blackpool,1-0,1-0,Chesterfield
+Sat Nov 15 2003,Bournemouth,1-2,0-2,Peterboro
+Sat Nov 15 2003,Brighton,1-4,1-3,Bristol City
+Sat Nov 15 2003,Colchester,3-1,1-0,Sheffield Weds
+Sat Nov 15 2003,Grimsby,1-1,0-0,Stockport
+Sat Nov 15 2003,Hartlepool,2-1,1-0,Rushden & D
+Sat Nov 15 2003,Luton,3-2,1-2,Wrexham
+Sat Nov 15 2003,Oldham,0-1,0-0,Swindon
+Sat Nov 15 2003,Port Vale,1-0,0-0,Notts County
+Sat Nov 15 2003,QPR,3-0,1-0,Plymouth
+Sat Nov 15 2003,Wycombe,1-2,0-1,Brentford
+Sat Nov 22 2003,Brentford,1-3,1-1,Grimsby
+Sat Nov 22 2003,Bristol City,2-1,1-0,Barnsley
+Sat Nov 22 2003,Chesterfield,1-1,1-0,Oldham
+Sat Nov 22 2003,Notts County,1-2,1-2,Brighton
+Sat Nov 22 2003,Peterboro,0-1,0-0,Blackpool
+Sat Nov 22 2003,Plymouth,2-0,1-0,Hartlepool
+Sat Nov 22 2003,Rushden & D,4-0,2-0,Colchester
+Sat Nov 22 2003,Sheffield Weds,0-0,0-0,Luton
+Sat Nov 22 2003,Stockport,3-2,2-0,Bournemouth
+Sat Nov 22 2003,Swindon,1-1,1-0,QPR
+Sat Nov 22 2003,Tranmere,1-0,0-0,Port Vale
+Sat Nov 22 2003,Wrexham,0-0,0-0,Wycombe
+Sat Nov 29 2003,Barnsley,3-3,1-2,Stockport
+Sat Nov 29 2003,Blackpool,1-0,0-0,Bristol City
+Sat Nov 29 2003,Bournemouth,1-0,0-0,Brentford
+Sat Nov 29 2003,Brighton,2-0,1-0,Wrexham
+Sat Nov 29 2003,Colchester,0-2,0-2,Plymouth
+Sat Nov 29 2003,Grimsby,0-1,0-0,Tranmere
+Sat Nov 29 2003,Hartlepool,2-0,1-0,Swindon
+Sat Nov 29 2003,Luton,1-0,1-0,Chesterfield
+Sat Nov 29 2003,Oldham,0-1,0-1,Notts County
+Sat Nov 29 2003,Port Vale,1-1,1-1,Rushden & D
+Sat Nov 29 2003,QPR,3-0,1-0,Sheffield Weds
+Sat Nov 29 2003,Wycombe,1-2,0-1,Peterboro
+Fri Dec 12 2003,Brighton,1-1,1-0,Port Vale
+Sat Dec 13 2003,Barnsley,1-1,1-1,Sheffield Weds
+Sat Dec 13 2003,Blackpool,0-1,0-1,Luton
+Sat Dec 13 2003,Bournemouth,0-0,0-0,Grimsby
+Sat Dec 13 2003,Chesterfield,2-2,2-1,Tranmere
+Sat Dec 13 2003,Colchester,2-1,0-0,Oldham
+Sat Dec 13 2003,Notts County,1-1,0-1,Wycombe
+Sat Dec 13 2003,QPR,4-1,3-0,Hartlepool
+Sat Dec 13 2003,Rushden & D,1-1,1-0,Bristol City
+Sat Dec 13 2003,Stockport,1-1,0-0,Brentford
+Sat Dec 13 2003,Swindon,2-3,0-1,Plymouth
+Sat Dec 13 2003,Wrexham,2-0,0-0,Peterboro
+Sat Dec 20 2003,Brentford,0-2,0-0,Swindon
+Sat Dec 20 2003,Bristol City,1-0,0-0,Stockport
+Sat Dec 20 2003,Hartlepool,0-0,0-0,Colchester
+Sat Dec 20 2003,Luton,0-1,0-0,Barnsley
+Sat Dec 20 2003,Oldham,2-1,0-1,QPR
+Sat Dec 20 2003,Peterboro,3-1,0-0,Rushden & D
+Sat Dec 20 2003,Plymouth,3-0,1-0,Notts County
+Sat Dec 20 2003,Sheffield Weds,0-0,0-0,Chesterfield
+Sat Dec 20 2003,Tranmere,1-0,0-0,Brighton
+Sat Dec 20 2003,Wycombe,2-0,1-0,Bournemouth
+Fri Dec 26 2003,Blackpool,2-1,1-0,Tranmere
+Fri Dec 26 2003,Bournemouth,0-2,0-2,Plymouth
+Fri Dec 26 2003,Brentford,1-2,0-0,Bristol City
+Fri Dec 26 2003,Brighton,4-0,2-0,Wycombe
+Fri Dec 26 2003,Chesterfield,2-1,0-1,Peterboro
+Fri Dec 26 2003,Colchester,1-1,1-1,Luton
+Fri Dec 26 2003,Grimsby,3-3,1-2,Oldham
+Fri Dec 26 2003,Hartlepool,1-2,1-1,Barnsley
+Fri Dec 26 2003,Notts County,3-3,2-2,QPR
+Fri Dec 26 2003,Rushden & D,2-0,1-0,Swindon
+Fri Dec 26 2003,Sheffield Weds,2-3,2-1,Port Vale
+Fri Dec 26 2003,Stockport,0-1,0-0,Wrexham
+Sun Dec 28 2003,Barnsley,0-1,0-0,Chesterfield
+Sun Dec 28 2003,Bristol City,2-0,1-0,Bournemouth
+Sun Dec 28 2003,Luton,2-0,1-0,Notts County
+Sun Dec 28 2003,Oldham,0-2,0-1,Hartlepool
+Sun Dec 28 2003,Peterboro,0-0,0-0,Grimsby
+Sun Dec 28 2003,Plymouth,2-0,0-0,Brentford
+Sun Dec 28 2003,Port Vale,2-2,2-2,Stockport
+Sun Dec 28 2003,QPR,2-0,1-0,Colchester
+Sun Dec 28 2003,Swindon,2-1,1-0,Brighton
+Sun Dec 28 2003,Tranmere,2-2,0-2,Sheffield Weds
+Sun Dec 28 2003,Wrexham,4-2,4-2,Blackpool
+Sun Dec 28 2003,Wycombe,0-2,0-2,Rushden & D
+Sat Jan 3 2004,Oldham,1-1,0-1,Brentford
+Sat Jan 3 2004,Plymouth,7-0,6-0,Chesterfield
+Sat Jan 3 2004,QPR,1-0,1-0,Rushden & D
+Sat Jan 3 2004,Swindon,2-1,1-1,Bournemouth
+Sat Jan 3 2004,Wrexham,1-2,0-1,Sheffield Weds
+Sat Jan 3 2004,Wycombe,4-1,2-1,Grimsby
+Tue Jan 6 2004,Peterboro,5-2,2-1,Notts County
+Sat Jan 10 2004,Blackpool,0-1,0-1,QPR
+Sat Jan 10 2004,Bournemouth,2-1,0-1,Port Vale
+Sat Jan 10 2004,Brentford,2-2,1-1,Tranmere
+Sat Jan 10 2004,Brighton,0-0,0-0,Oldham
+Sat Jan 10 2004,Chesterfield,2-1,0-0,Wrexham
+Sat Jan 10 2004,Colchester,1-1,1-0,Barnsley
+Sat Jan 10 2004,Grimsby,0-0,0-0,Plymouth
+Sat Jan 10 2004,Hartlepool,1-0,1-0,Peterboro
+Sat Jan 10 2004,Notts County,1-2,1-1,Bristol City
+Sat Jan 10 2004,Rushden & D,2-2,1-2,Luton
+Sat Jan 10 2004,Sheffield Weds,1-1,0-0,Swindon
+Sat Jan 10 2004,Stockport,2-0,2-0,Wycombe
+Wed Jan 14 2004,Port Vale,2-1,2-0,Blackpool
+Sat Jan 17 2004,Barnsley,1-1,0-1,Bournemouth
+Sat Jan 17 2004,Bristol City,4-0,1-0,Chesterfield
+Sat Jan 17 2004,Luton,2-2,1-1,Stockport
+Sat Jan 17 2004,Oldham,1-0,1-0,Sheffield Weds
+Sat Jan 17 2004,Peterboro,0-0,0-0,Brentford
+Sat Jan 17 2004,Plymouth,3-0,0-0,Rushden & D
+Sat Jan 17 2004,Port Vale,5-1,4-1,Grimsby
+Sat Jan 17 2004,QPR,2-1,2-1,Brighton
+Sat Jan 17 2004,Swindon,2-0,1-0,Colchester
+Sat Jan 17 2004,Tranmere,0-0,0-0,Hartlepool
+Sat Jan 17 2004,Wrexham,0-1,0-1,Notts County
+Sat Jan 17 2004,Wycombe,0-3,0-2,Blackpool
+Tue Jan 20 2004,Grimsby,1-3,0-2,Wrexham
+Sat Jan 24 2004,Blackpool,1-1,1-0,Oldham
+Sat Jan 24 2004,Bournemouth,1-0,0-0,QPR
+Sat Jan 24 2004,Brentford,0-1,0-0,Wrexham
+Sat Jan 24 2004,Brighton,1-0,1-0,Barnsley
+Sat Jan 24 2004,Chesterfield,2-2,0-1,Wycombe
+Sat Jan 24 2004,Hartlepool,1-2,0-0,Bristol City
+Sat Jan 24 2004,Notts County,1-2,0-1,Swindon
+Sat Jan 24 2004,Sheffield Weds,2-0,0-0,Peterboro
+Sat Jan 24 2004,Stockport,0-2,0-1,Plymouth
+Tue Jan 27 2004,Barnsley,3-0,1-0,Blackpool
+Tue Jan 27 2004,Bristol City,1-0,1-0,Colchester
+Tue Jan 27 2004,Port Vale,2-5,1-2,Hartlepool
+Tue Jan 27 2004,Tranmere,3-2,1-1,Stockport
+Fri Jan 30 2004,Sheffield Weds,1-1,0-1,Wycombe
+Sat Jan 31 2004,Blackpool,2-2,1-0,Swindon
+Sat Jan 31 2004,Brentford,3-2,1-1,Port Vale
+Sat Jan 31 2004,Brighton,2-1,2-0,Plymouth
+Sat Jan 31 2004,Chesterfield,4-2,1-1,QPR
+Sat Jan 31 2004,Colchester,1-1,0-1,Tranmere
+Sat Jan 31 2004,Notts County,1-1,1-0,Barnsley
+Sat Jan 31 2004,Rushden & D,4-1,2-0,Oldham
+Sat Jan 31 2004,Stockport,2-2,2-2,Peterboro
+Sat Feb 7 2004,Barnsley,2-2,0-1,Hartlepool
+Sat Feb 7 2004,Bristol City,3-1,1-0,Brentford
+Sat Feb 7 2004,Luton,1-0,0-0,Colchester
+Sat Feb 7 2004,Peterboro,0-2,0-0,Chesterfield
+Sat Feb 7 2004,Plymouth,0-0,0-0,Bournemouth
+Sat Feb 7 2004,Port Vale,3-0,1-0,Sheffield Weds
+Sat Feb 7 2004,QPR,3-2,0-0,Notts County
+Sat Feb 7 2004,Swindon,4-2,2-0,Rushden & D
+Sat Feb 7 2004,Tranmere,1-1,0-1,Blackpool
+Sat Feb 7 2004,Wrexham,0-0,0-0,Stockport
+Sat Feb 7 2004,Wycombe,1-1,1-1,Brighton
+Sun Feb 8 2004,Oldham,6-0,5-0,Grimsby
+Tue Feb 10 2004,Luton,2-0,1-0,Brighton
+Sat Feb 14 2004,Bournemouth,1-0,0-0,Notts County
+Sat Feb 14 2004,Brentford,1-1,0-1,QPR
+Sat Feb 14 2004,Chesterfield,2-0,1-0,Rushden & D
+Sat Feb 14 2004,Grimsby,2-1,1-1,Brighton
+Sat Feb 14 2004,Peterboro,0-1,0-0,Bristol City
+Sat Feb 14 2004,Port Vale,1-0,0-0,Oldham
+Sat Feb 14 2004,Sheffield Weds,1-0,0-0,Hartlepool
+Sat Feb 14 2004,Stockport,2-4,1-3,Swindon
+Sat Feb 14 2004,Wrexham,1-0,1-0,Barnsley
+Sat Feb 14 2004,Wycombe,0-0,0-0,Luton
+Tue Feb 17 2004,Grimsby,1-2,1-1,Bristol City
+Tue Feb 17 2004,Tranmere,3-0,2-0,Plymouth
+Fri Feb 20 2004,Hartlepool,1-1,0-0,Blackpool
+Fri Feb 20 2004,QPR,1-1,0-1,Peterboro
+Sat Feb 21 2004,Barnsley,0-0,0-0,Wycombe
+Sat Feb 21 2004,Brighton,3-0,3-0,Bournemouth
+Sat Feb 21 2004,Bristol City,1-0,1-0,Wrexham
+Sat Feb 21 2004,Colchester,2-0,0-0,Grimsby
+Sat Feb 21 2004,Luton,4-1,1-0,Brentford
+Sat Feb 21 2004,Notts County,4-1,2-0,Stockport
+Sat Feb 21 2004,Oldham,1-1,0-0,Tranmere
+Sat Feb 21 2004,Plymouth,2-1,0-0,Port Vale
+Sat Feb 21 2004,Rushden & D,1-2,0-1,Sheffield Weds
+Sat Feb 21 2004,Swindon,2-0,1-0,Chesterfield
+Tue Feb 24 2004,Bournemouth,6-0,2-0,Wrexham
+Tue Feb 24 2004,Colchester,1-4,1-3,Port Vale
+Tue Feb 24 2004,Grimsby,3-2,0-1,Luton
+Tue Feb 24 2004,Rushden & D,2-1,0-0,Tranmere
+Sat Feb 28 2004,Blackpool,0-1,0-0,Plymouth
+Sat Feb 28 2004,Bournemouth,1-0,0-0,Oldham
+Sat Feb 28 2004,Brentford,2-3,2-1,Notts County
+Sat Feb 28 2004,Grimsby,6-1,4-0,Barnsley
+Sat Feb 28 2004,Peterboro,1-2,0-1,Luton
+Sat Feb 28 2004,Sheffield Weds,1-0,0-0,Bristol City
+Sat Feb 28 2004,Stockport,1-1,1-0,Brighton
+Sat Feb 28 2004,Wrexham,1-1,1-1,Rushden & D
+Sat Feb 28 2004,Wycombe,3-4,2-2,Hartlepool
+Tue Mar 2 2004,Barnsley,0-1,0-0,Peterboro
+Tue Mar 2 2004,Brighton,1-0,0-0,Brentford
+Tue Mar 2 2004,Bristol City,1-1,0-0,Wycombe
+Tue Mar 2 2004,Colchester,2-1,0-0,Stockport
+Tue Mar 2 2004,Hartlepool,2-0,0-0,Chesterfield
+Tue Mar 2 2004,Notts County,3-1,2-1,Grimsby
+Tue Mar 2 2004,Plymouth,2-0,1-0,Sheffield Weds
+Tue Mar 2 2004,QPR,3-2,0-1,Port Vale
+Tue Mar 2 2004,Rushden & D,0-0,0-0,Blackpool
+Wed Mar 3 2004,Swindon,2-0,1-0,Tranmere
+Sat Mar 6 2004,Barnsley,0-0,0-0,Luton
+Sat Mar 6 2004,Blackpool,2-1,0-1,Port Vale
+Sat Mar 6 2004,Bournemouth,1-0,1-0,Wycombe
+Sat Mar 6 2004,Colchester,1-2,1-1,Hartlepool
+Sat Mar 6 2004,Notts County,0-0,0-0,Plymouth
+Sat Mar 6 2004,QPR,1-1,0-1,Oldham
+Sat Mar 6 2004,Rushden & D,0-1,0-1,Peterboro
+Sat Mar 6 2004,Stockport,2-0,1-0,Bristol City
+Sat Mar 6 2004,Swindon,2-1,1-1,Brentford
+Sat Mar 6 2004,Wrexham,3-0,3-0,Grimsby
+Sun Mar 7 2004,Chesterfield,3-1,1-0,Sheffield Weds
+Wed Mar 10 2004,Brighton,3-0,3-0,Tranmere
+Fri Mar 12 2004,Bristol City,1-0,1-0,Rushden & D
+Sat Mar 13 2004,Brentford,0-2,0-0,Stockport
+Sat Mar 13 2004,Grimsby,1-1,1-0,Bournemouth
+Sat Mar 13 2004,Hartlepool,1-4,0-0,QPR
+Sat Mar 13 2004,Luton,3-2,1-0,Blackpool
+Sat Mar 13 2004,Oldham,0-0,0-0,Colchester
+Sat Mar 13 2004,Peterboro,6-1,2-1,Wrexham
+Sat Mar 13 2004,Plymouth,2-1,1-0,Swindon
+Sat Mar 13 2004,Port Vale,1-1,1-1,Brighton
+Sat Mar 13 2004,Sheffield Weds,2-1,1-0,Barnsley
+Sat Mar 13 2004,Tranmere,2-3,0-1,Chesterfield
+Sat Mar 13 2004,Wycombe,1-1,0-1,Notts County
+Tue Mar 16 2004,Blackpool,1-1,0-1,Brentford
+Tue Mar 16 2004,Chesterfield,0-2,0-0,Brighton
+Tue Mar 16 2004,Colchester,1-1,1-1,Wycombe
+Tue Mar 16 2004,Hartlepool,2-2,1-2,Stockport
+Tue Mar 16 2004,Oldham,1-1,0-1,Barnsley
+Tue Mar 16 2004,Plymouth,2-0,0-0,Peterboro
+Tue Mar 16 2004,Port Vale,1-0,0-0,Luton
+Tue Mar 16 2004,QPR,2-0,0-0,Wrexham
+Tue Mar 16 2004,Rushden & D,2-1,2-0,Notts County
+Wed Mar 17 2004,Sheffield Weds,0-2,0-2,Bournemouth
+Wed Mar 17 2004,Swindon,2-0,2-0,Grimsby
+Sat Mar 20 2004,Barnsley,0-0,0-0,Port Vale
+Sat Mar 20 2004,Brentford,3-2,3-0,Rushden & D
+Sat Mar 20 2004,Brighton,2-1,1-0,Colchester
+Sat Mar 20 2004,Bristol City,0-2,0-2,Oldham
+Sat Mar 20 2004,Grimsby,0-2,0-1,Hartlepool
+Sat Mar 20 2004,Luton,1-1,1-0,Plymouth
+Sat Mar 20 2004,Notts County,1-1,0-0,Chesterfield
+Sat Mar 20 2004,Peterboro,0-0,0-0,Tranmere
+Sat Mar 20 2004,Stockport,1-0,1-0,Sheffield Weds
+Sat Mar 20 2004,Wrexham,3-2,1-0,Swindon
+Sat Mar 20 2004,Wycombe,2-2,2-0,QPR
+Tue Mar 23 2004,Chesterfield,1-2,0-1,Colchester
+Wed Mar 24 2004,Bournemouth,1-2,0-1,Blackpool
+Wed Mar 24 2004,Tranmere,1-0,0-0,Bristol City
+Sat Mar 27 2004,Blackpool,1-1,0-0,Stockport
+Sat Mar 27 2004,Chesterfield,4-4,1-2,Grimsby
+Sat Mar 27 2004,Colchester,0-0,0-0,Peterboro
+Sat Mar 27 2004,Hartlepool,1-2,1-2,Brentford
+Sat Mar 27 2004,Oldham,2-3,2-2,Wycombe
+Sat Mar 27 2004,Plymouth,0-0,0-0,Wrexham
+Sat Mar 27 2004,Port Vale,2-1,0-0,Bristol City
+Sat Mar 27 2004,QPR,1-1,1-0,Luton
+Sat Mar 27 2004,Rushden & D,0-3,0-1,Bournemouth
+Sat Mar 27 2004,Sheffield Weds,2-1,1-1,Brighton
+Sat Mar 27 2004,Swindon,1-1,1-1,Barnsley
+Sat Mar 27 2004,Tranmere,4-0,2-0,Notts County
+Tue Mar 30 2004,Blackpool,0-0,0-0,Colchester
+Tue Mar 30 2004,Port Vale,3-3,2-0,Swindon
+Sat Apr 3 2004,Barnsley,1-0,0-0,Plymouth
+Sat Apr 3 2004,Bournemouth,1-1,0-1,Colchester
+Sat Apr 3 2004,Brentford,1-1,0-0,Chesterfield
+Sat Apr 3 2004,Brighton,2-0,0-0,Hartlepool
+Sat Apr 3 2004,Bristol City,1-0,1-0,QPR
+Sat Apr 3 2004,Grimsby,2-0,2-0,Sheffield Weds
+Sat Apr 3 2004,Luton,1-1,1-1,Oldham
+Sat Apr 3 2004,Notts County,4-1,3-0,Blackpool
+Sat Apr 3 2004,Peterboro,4-2,2-1,Swindon
+Sat Apr 3 2004,Stockport,2-1,0-0,Rushden & D
+Sat Apr 3 2004,Wrexham,0-1,0-0,Tranmere
+Sat Apr 3 2004,Wycombe,2-1,1-1,Port Vale
+Tue Apr 6 2004,Hartlepool,4-3,1-2,Luton
+Tue Apr 6 2004,Tranmere,0-0,0-0,QPR
+Sat Apr 10 2004,Blackpool,3-1,1-0,Brighton
+Sat Apr 10 2004,Chesterfield,0-3,0-2,Stockport
+Sat Apr 10 2004,Colchester,4-1,2-0,Notts County
+Sat Apr 10 2004,Hartlepool,2-1,1-1,Bournemouth
+Sat Apr 10 2004,Oldham,1-1,0-1,Peterboro
+Sat Apr 10 2004,Plymouth,2-1,1-1,Wycombe
+Sat Apr 10 2004,Port Vale,1-0,0-0,Wrexham
+Sat Apr 10 2004,QPR,3-0,1-0,Grimsby
+Sat Apr 10 2004,Rushden & D,2-3,1-3,Barnsley
+Sat Apr 10 2004,Sheffield Weds,1-1,0-0,Brentford
+Sat Apr 10 2004,Swindon,1-1,0-1,Bristol City
+Sat Apr 10 2004,Tranmere,1-0,1-0,Luton
+Mon Apr 12 2004,Barnsley,3-3,1-1,QPR
+Mon Apr 12 2004,Bournemouth,2-2,0-2,Chesterfield
+Mon Apr 12 2004,Brentford,3-2,1-0,Colchester
+Mon Apr 12 2004,Brighton,0-0,0-0,Rushden & D
+Mon Apr 12 2004,Grimsby,0-2,0-1,Blackpool
+Mon Apr 12 2004,Luton,0-3,0-3,Swindon
+Mon Apr 12 2004,Notts County,0-0,0-0,Sheffield Weds
+Mon Apr 12 2004,Peterboro,3-1,1-0,Port Vale
+Mon Apr 12 2004,Stockport,1-1,1-1,Oldham
+Mon Apr 12 2004,Wrexham,1-2,0-1,Hartlepool
+Mon Apr 12 2004,Wycombe,1-2,0-2,Tranmere
+Tue Apr 13 2004,Bristol City,1-0,0-0,Plymouth
+Sat Apr 17 2004,Barnsley,0-2,0-1,Brentford
+Sat Apr 17 2004,Blackpool,4-1,2-1,Sheffield Weds
+Sat Apr 17 2004,Bournemouth,1-5,0-1,Tranmere
+Sat Apr 17 2004,Brighton,1-0,1-0,Peterboro
+Sat Apr 17 2004,Colchester,3-1,2-1,Wrexham
+Sat Apr 17 2004,Grimsby,1-0,0-0,Rushden & D
+Sat Apr 17 2004,Hartlepool,4-0,1-0,Notts County
+Sat Apr 17 2004,Luton,3-2,1-0,Bristol City
+Sat Apr 17 2004,Oldham,4-1,3-0,Plymouth
+Sat Apr 17 2004,Port Vale,1-1,0-1,Chesterfield
+Sat Apr 17 2004,QPR,1-1,1-0,Stockport
+Sat Apr 17 2004,Wycombe,0-3,0-1,Swindon
+Tue Apr 20 2004,Luton,1-1,1-0,Bournemouth
+Tue Apr 20 2004,Oldham,1-1,1-1,Wrexham
+Sat Apr 24 2004,Brentford,1-1,0-0,Wycombe
+Sat Apr 24 2004,Bristol City,0-0,0-0,Brighton
+Sat Apr 24 2004,Chesterfield,1-0,1-0,Blackpool
+Sat Apr 24 2004,Notts County,1-2,0-2,Port Vale
+Sat Apr 24 2004,Peterboro,0-1,0-0,Bournemouth
+Sat Apr 24 2004,Plymouth,2-0,0-0,QPR
+Sat Apr 24 2004,Rushden & D,0-2,0-0,Hartlepool
+Sat Apr 24 2004,Sheffield Weds,0-1,0-0,Colchester
+Sat Apr 24 2004,Stockport,2-1,2-0,Grimsby
+Sat Apr 24 2004,Swindon,1-2,0-1,Oldham
+Sat Apr 24 2004,Tranmere,2-0,0-0,Barnsley
+Sat Apr 24 2004,Wrexham,2-1,1-0,Luton
+Sat May 1 2004,Blackpool,1-4,1-2,Peterboro
+Sat May 1 2004,Bournemouth,0-0,0-0,Stockport
+Sat May 1 2004,Brighton,1-0,0-0,Notts County
+Sat May 1 2004,Colchester,2-0,0-0,Rushden & D
+Sat May 1 2004,Grimsby,1-0,0-0,Brentford
+Sat May 1 2004,Hartlepool,1-3,1-2,Plymouth
+Sat May 1 2004,Luton,3-2,0-2,Sheffield Weds
+Sat May 1 2004,Oldham,2-0,0-0,Chesterfield
+Sat May 1 2004,Port Vale,2-1,1-1,Tranmere
+Sat May 1 2004,QPR,1-0,1-0,Swindon
+Sat May 1 2004,Wycombe,1-1,0-0,Wrexham
+Sun May 2 2004,Barnsley,0-1,0-1,Bristol City
+Sat May 8 2004,Brentford,1-0,0-0,Bournemouth
+Sat May 8 2004,Bristol City,2-1,2-0,Blackpool
+Sat May 8 2004,Chesterfield,1-0,0-0,Luton
+Sat May 8 2004,Notts County,1-1,0-0,Oldham
+Sat May 8 2004,Peterboro,1-1,0-0,Wycombe
+Sat May 8 2004,Plymouth,2-0,1-0,Colchester
+Sat May 8 2004,Rushden & D,0-2,0-1,Port Vale
+Sat May 8 2004,Sheffield Weds,1-3,0-1,QPR
+Sat May 8 2004,Stockport,2-3,0-2,Barnsley
+Sat May 8 2004,Swindon,1-1,1-0,Hartlepool
+Sat May 8 2004,Tranmere,2-1,0-1,Grimsby
+Sat May 8 2004,Wrexham,0-2,0-1,Brighton

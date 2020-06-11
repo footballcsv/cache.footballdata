@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 14 2010,Aston Villa,3-0,2-0,West Ham
+Sat Aug 14 2010,Blackburn,1-0,1-0,Everton
+Sat Aug 14 2010,Bolton,0-0,0-0,Fulham
+Sat Aug 14 2010,Chelsea,6-0,2-0,West Brom
+Sat Aug 14 2010,Sunderland,2-2,1-0,Birmingham
+Sat Aug 14 2010,Tottenham,0-0,0-0,Man City
+Sat Aug 14 2010,Wigan,0-4,0-3,Blackpool
+Sat Aug 14 2010,Wolves,2-1,2-0,Stoke
+Sun Aug 15 2010,Liverpool,1-1,0-0,Arsenal
+Mon Aug 16 2010,Man United,3-0,2-0,Newcastle
+Sat Aug 21 2010,Arsenal,6-0,3-0,Blackpool
+Sat Aug 21 2010,Birmingham,2-1,0-0,Blackburn
+Sat Aug 21 2010,Everton,1-1,1-0,Wolves
+Sat Aug 21 2010,Stoke,1-2,1-2,Tottenham
+Sat Aug 21 2010,West Brom,1-0,0-0,Sunderland
+Sat Aug 21 2010,West Ham,1-3,0-0,Bolton
+Sat Aug 21 2010,Wigan,0-6,0-1,Chelsea
+Sun Aug 22 2010,Fulham,2-2,0-1,Man United
+Sun Aug 22 2010,Newcastle,6-0,3-0,Aston Villa
+Mon Aug 23 2010,Man City,3-0,1-0,Liverpool
+Sat Aug 28 2010,Blackburn,1-2,1-1,Arsenal
+Sat Aug 28 2010,Blackpool,2-2,0-1,Fulham
+Sat Aug 28 2010,Chelsea,2-0,1-0,Stoke
+Sat Aug 28 2010,Man United,3-0,1-0,West Ham
+Sat Aug 28 2010,Tottenham,0-1,0-0,Wigan
+Sat Aug 28 2010,Wolves,1-1,1-0,Newcastle
+Sun Aug 29 2010,Aston Villa,1-0,1-0,Everton
+Sun Aug 29 2010,Bolton,2-2,0-1,Birmingham
+Sun Aug 29 2010,Liverpool,1-0,0-0,West Brom
+Sun Aug 29 2010,Sunderland,1-0,0-0,Man City
+Sat Sep 11 2010,Arsenal,4-1,1-1,Bolton
+Sat Sep 11 2010,Everton,3-3,1-1,Man United
+Sat Sep 11 2010,Fulham,2-1,0-1,Wolves
+Sat Sep 11 2010,Man City,1-1,0-1,Blackburn
+Sat Sep 11 2010,Newcastle,0-2,0-1,Blackpool
+Sat Sep 11 2010,West Brom,1-1,1-1,Tottenham
+Sat Sep 11 2010,West Ham,1-3,0-2,Chelsea
+Sat Sep 11 2010,Wigan,1-1,0-0,Sunderland
+Sun Sep 12 2010,Birmingham,0-0,0-0,Liverpool
+Mon Sep 13 2010,Stoke,2-1,0-1,Aston Villa
+Sat Sep 18 2010,Aston Villa,1-1,1-1,Bolton
+Sat Sep 18 2010,Blackburn,1-1,1-0,Fulham
+Sat Sep 18 2010,Everton,0-1,0-1,Newcastle
+Sat Sep 18 2010,Stoke,1-1,0-1,West Ham
+Sat Sep 18 2010,Sunderland,1-1,0-1,Arsenal
+Sat Sep 18 2010,Tottenham,3-1,0-1,Wolves
+Sat Sep 18 2010,West Brom,3-1,0-1,Birmingham
+Sun Sep 19 2010,Chelsea,4-0,4-0,Blackpool
+Sun Sep 19 2010,Man United,3-2,1-0,Liverpool
+Sun Sep 19 2010,Wigan,0-2,0-1,Man City
+Sat Sep 25 2010,Arsenal,2-3,0-0,West Brom
+Sat Sep 25 2010,Birmingham,0-0,0-0,Wigan
+Sat Sep 25 2010,Blackpool,1-2,0-1,Blackburn
+Sat Sep 25 2010,Fulham,0-0,0-0,Everton
+Sat Sep 25 2010,Liverpool,2-2,1-1,Sunderland
+Sat Sep 25 2010,Man City,1-0,0-0,Chelsea
+Sat Sep 25 2010,West Ham,1-0,1-0,Tottenham
+Sun Sep 26 2010,Bolton,2-2,1-1,Man United
+Sun Sep 26 2010,Newcastle,1-2,1-0,Stoke
+Sun Sep 26 2010,Wolves,1-2,0-1,Aston Villa
+Sat Oct 2 2010,Birmingham,0-2,0-0,Everton
+Sat Oct 2 2010,Stoke,1-0,0-0,Blackburn
+Sat Oct 2 2010,Sunderland,0-0,0-0,Man United
+Sat Oct 2 2010,Tottenham,2-1,1-1,Aston Villa
+Sat Oct 2 2010,West Brom,1-1,0-0,Bolton
+Sat Oct 2 2010,West Ham,1-1,0-1,Fulham
+Sat Oct 2 2010,Wigan,2-0,0-0,Wolves
+Sun Oct 3 2010,Chelsea,2-0,1-0,Arsenal
+Sun Oct 3 2010,Liverpool,1-2,0-2,Blackpool
+Sun Oct 3 2010,Man City,2-1,1-1,Newcastle
+Sat Oct 16 2010,Arsenal,2-1,1-1,Birmingham
+Sat Oct 16 2010,Aston Villa,0-0,0-0,Chelsea
+Sat Oct 16 2010,Bolton,2-1,1-0,Stoke
+Sat Oct 16 2010,Fulham,1-2,1-1,Tottenham
+Sat Oct 16 2010,Man United,2-2,2-0,West Brom
+Sat Oct 16 2010,Newcastle,2-2,0-2,Wigan
+Sat Oct 16 2010,Wolves,1-1,1-0,West Ham
+Sun Oct 17 2010,Blackpool,2-3,0-0,Man City
+Sun Oct 17 2010,Everton,2-0,1-0,Liverpool
+Mon Oct 18 2010,Blackburn,0-0,0-0,Sunderland
+Sat Oct 23 2010,Birmingham,2-0,1-0,Blackpool
+Sat Oct 23 2010,Chelsea,2-0,1-0,Wolves
+Sat Oct 23 2010,Sunderland,1-0,1-0,Aston Villa
+Sat Oct 23 2010,Tottenham,1-1,1-1,Everton
+Sat Oct 23 2010,West Brom,2-1,2-1,Fulham
+Sat Oct 23 2010,West Ham,1-2,1-1,Newcastle
+Sat Oct 23 2010,Wigan,1-1,0-0,Bolton
+Sun Oct 24 2010,Liverpool,2-1,0-0,Blackburn
+Sun Oct 24 2010,Man City,0-3,0-1,Arsenal
+Sun Oct 24 2010,Stoke,1-2,0-1,Man United
+Sat Oct 30 2010,Arsenal,1-0,0-0,West Ham
+Sat Oct 30 2010,Blackburn,1-2,1-1,Chelsea
+Sat Oct 30 2010,Everton,1-0,0-0,Stoke
+Sat Oct 30 2010,Fulham,2-0,2-0,Wigan
+Sat Oct 30 2010,Man United,2-0,1-0,Tottenham
+Sat Oct 30 2010,Wolves,2-1,1-1,Man City
+Sun Oct 31 2010,Aston Villa,0-0,0-0,Birmingham
+Sun Oct 31 2010,Bolton,0-1,0-0,Liverpool
+Sun Oct 31 2010,Newcastle,5-1,3-0,Sunderland
+Mon Nov 1 2010,Blackpool,2-1,1-0,West Brom
+Sat Nov 6 2010,Birmingham,2-2,0-0,West Ham
+Sat Nov 6 2010,Blackburn,2-1,0-0,Wigan
+Sat Nov 6 2010,Blackpool,2-2,1-1,Everton
+Sat Nov 6 2010,Bolton,4-2,1-0,Tottenham
+Sat Nov 6 2010,Fulham,1-1,0-1,Aston Villa
+Sat Nov 6 2010,Man United,2-1,1-0,Wolves
+Sat Nov 6 2010,Sunderland,2-0,1-0,Stoke
+Sun Nov 7 2010,Arsenal,0-1,0-1,Newcastle
+Sun Nov 7 2010,Liverpool,2-0,2-0,Chelsea
+Sun Nov 7 2010,West Brom,0-2,0-2,Man City
+Tue Nov 9 2010,Stoke,3-2,1-0,Birmingham
+Tue Nov 9 2010,Tottenham,1-1,0-0,Sunderland
+Wed Nov 10 2010,Aston Villa,3-2,1-1,Blackpool
+Wed Nov 10 2010,Chelsea,1-0,1-0,Fulham
+Wed Nov 10 2010,Everton,1-1,0-0,Bolton
+Wed Nov 10 2010,Man City,0-0,0-0,Man United
+Wed Nov 10 2010,Newcastle,1-2,0-1,Blackburn
+Wed Nov 10 2010,West Ham,2-2,1-1,West Brom
+Wed Nov 10 2010,Wigan,1-1,0-1,Liverpool
+Wed Nov 10 2010,Wolves,0-2,0-1,Arsenal
+Sat Nov 13 2010,Aston Villa,2-2,0-0,Man United
+Sat Nov 13 2010,Man City,0-0,0-0,Birmingham
+Sat Nov 13 2010,Newcastle,0-0,0-0,Fulham
+Sat Nov 13 2010,Stoke,2-0,0-0,Liverpool
+Sat Nov 13 2010,Tottenham,4-2,2-0,Blackburn
+Sat Nov 13 2010,West Ham,0-0,0-0,Blackpool
+Sat Nov 13 2010,Wigan,1-0,0-0,West Brom
+Sat Nov 13 2010,Wolves,2-3,0-1,Bolton
+Sun Nov 14 2010,Chelsea,0-3,0-1,Sunderland
+Sun Nov 14 2010,Everton,1-2,0-1,Arsenal
+Sat Nov 20 2010,Arsenal,2-3,2-0,Tottenham
+Sat Nov 20 2010,Birmingham,1-0,1-0,Chelsea
+Sat Nov 20 2010,Blackpool,2-1,2-0,Wolves
+Sat Nov 20 2010,Bolton,5-1,2-0,Newcastle
+Sat Nov 20 2010,Liverpool,3-0,3-0,West Ham
+Sat Nov 20 2010,Man United,2-0,1-0,Wigan
+Sat Nov 20 2010,West Brom,0-3,0-0,Stoke
+Sun Nov 21 2010,Blackburn,2-0,1-0,Aston Villa
+Sun Nov 21 2010,Fulham,1-4,0-3,Man City
+Mon Nov 22 2010,Sunderland,2-2,1-1,Everton
+Sat Nov 27 2010,Aston Villa,2-4,0-2,Arsenal
+Sat Nov 27 2010,Bolton,2-2,0-1,Blackpool
+Sat Nov 27 2010,Everton,1-4,1-2,West Brom
+Sat Nov 27 2010,Fulham,1-1,0-1,Birmingham
+Sat Nov 27 2010,Man United,7-1,3-0,Blackburn
+Sat Nov 27 2010,Stoke,1-1,0-0,Man City
+Sat Nov 27 2010,West Ham,3-1,1-0,Wigan
+Sat Nov 27 2010,Wolves,3-2,0-0,Sunderland
+Sun Nov 28 2010,Newcastle,1-1,1-1,Chelsea
+Sun Nov 28 2010,Tottenham,2-1,0-1,Liverpool
+Sat Dec 4 2010,Arsenal,2-1,1-1,Fulham
+Sat Dec 4 2010,Birmingham,1-1,0-1,Tottenham
+Sat Dec 4 2010,Blackburn,3-0,2-0,Wolves
+Sat Dec 4 2010,Chelsea,1-1,1-0,Everton
+Sat Dec 4 2010,Man City,1-0,1-0,Bolton
+Sat Dec 4 2010,Wigan,2-2,2-2,Stoke
+Sun Dec 5 2010,Sunderland,1-0,1-0,West Ham
+Sun Dec 5 2010,West Brom,3-1,1-0,Newcastle
+Mon Dec 6 2010,Liverpool,3-0,2-0,Aston Villa
+Sat Dec 11 2010,Aston Villa,2-1,1-0,West Brom
+Sat Dec 11 2010,Everton,0-0,0-0,Wigan
+Sat Dec 11 2010,Fulham,0-0,0-0,Sunderland
+Sat Dec 11 2010,Newcastle,3-1,1-0,Liverpool
+Sat Dec 11 2010,Stoke,0-1,0-0,Blackpool
+Sat Dec 11 2010,West Ham,1-3,0-1,Man City
+Sun Dec 12 2010,Bolton,2-1,0-0,Blackburn
+Sun Dec 12 2010,Tottenham,1-1,1-0,Chelsea
+Sun Dec 12 2010,Wolves,1-0,1-0,Birmingham
+Mon Dec 13 2010,Man United,1-0,1-0,Arsenal
+Sat Dec 18 2010,Blackburn,1-1,0-0,West Ham
+Sat Dec 18 2010,Sunderland,1-0,1-0,Bolton
+Mon Dec 20 2010,Man City,1-2,0-2,Everton
+Sun Dec 26 2010,Aston Villa,1-2,0-1,Tottenham
+Sun Dec 26 2010,Blackburn,0-2,0-0,Stoke
+Sun Dec 26 2010,Bolton,2-0,1-0,West Brom
+Sun Dec 26 2010,Fulham,1-3,1-2,West Ham
+Sun Dec 26 2010,Man United,2-0,1-0,Sunderland
+Sun Dec 26 2010,Newcastle,1-3,0-2,Man City
+Sun Dec 26 2010,Wolves,1-2,0-2,Wigan
+Mon Dec 27 2010,Arsenal,3-1,1-0,Chelsea
+Tue Dec 28 2010,Birmingham,1-1,0-0,Man United
+Tue Dec 28 2010,Man City,4-0,3-0,Aston Villa
+Tue Dec 28 2010,Stoke,0-2,0-2,Fulham
+Tue Dec 28 2010,Sunderland,0-2,0-0,Blackpool
+Tue Dec 28 2010,Tottenham,2-0,0-0,Newcastle
+Tue Dec 28 2010,West Brom,1-3,1-1,Blackburn
+Tue Dec 28 2010,West Ham,1-1,1-1,Everton
+Wed Dec 29 2010,Chelsea,1-0,0-0,Bolton
+Wed Dec 29 2010,Liverpool,0-1,0-0,Wolves
+Wed Dec 29 2010,Wigan,2-2,1-2,Arsenal
+Sat Jan 1 2011,Birmingham,0-3,0-1,Arsenal
+Sat Jan 1 2011,Liverpool,2-1,0-1,Bolton
+Sat Jan 1 2011,Man City,1-0,1-0,Blackpool
+Sat Jan 1 2011,Stoke,2-0,1-0,Everton
+Sat Jan 1 2011,Sunderland,3-0,2-0,Blackburn
+Sat Jan 1 2011,Tottenham,1-0,1-0,Fulham
+Sat Jan 1 2011,West Brom,1-2,1-1,Man United
+Sat Jan 1 2011,West Ham,2-0,0-0,Wolves
+Sun Jan 2 2011,Chelsea,3-3,1-1,Aston Villa
+Sun Jan 2 2011,Wigan,0-1,0-1,Newcastle
+Tue Jan 4 2011,Blackpool,1-2,0-1,Birmingham
+Tue Jan 4 2011,Fulham,3-0,1-0,West Brom
+Tue Jan 4 2011,Man United,2-1,1-0,Stoke
+Wed Jan 5 2011,Arsenal,0-0,0-0,Man City
+Wed Jan 5 2011,Aston Villa,0-1,0-0,Sunderland
+Wed Jan 5 2011,Blackburn,3-1,2-0,Liverpool
+Wed Jan 5 2011,Bolton,1-1,0-0,Wigan
+Wed Jan 5 2011,Everton,2-1,1-1,Tottenham
+Wed Jan 5 2011,Newcastle,5-0,3-0,West Ham
+Wed Jan 5 2011,Wolves,1-0,1-0,Chelsea
+Wed Jan 12 2011,Blackpool,2-1,1-1,Liverpool
+Sat Jan 15 2011,Chelsea,2-0,0-0,Blackburn
+Sat Jan 15 2011,Man City,4-3,1-1,Wolves
+Sat Jan 15 2011,Stoke,2-0,1-0,Bolton
+Sat Jan 15 2011,West Brom,3-2,1-1,Blackpool
+Sat Jan 15 2011,West Ham,0-3,0-2,Arsenal
+Sat Jan 15 2011,Wigan,1-1,0-0,Fulham
+Sun Jan 16 2011,Birmingham,1-1,0-0,Aston Villa
+Sun Jan 16 2011,Liverpool,2-2,1-0,Everton
+Sun Jan 16 2011,Sunderland,1-1,0-0,Newcastle
+Sun Jan 16 2011,Tottenham,0-0,0-0,Man United
+Sat Jan 22 2011,Arsenal,3-0,1-0,Wigan
+Sat Jan 22 2011,Aston Villa,1-0,1-0,Man City
+Sat Jan 22 2011,Blackpool,1-2,0-2,Sunderland
+Sat Jan 22 2011,Everton,2-2,0-1,West Ham
+Sat Jan 22 2011,Fulham,2-0,1-0,Stoke
+Sat Jan 22 2011,Man United,5-0,3-0,Birmingham
+Sat Jan 22 2011,Newcastle,1-1,0-0,Tottenham
+Sat Jan 22 2011,Wolves,0-3,0-1,Liverpool
+Sun Jan 23 2011,Blackburn,2-0,1-0,West Brom
+Mon Jan 24 2011,Bolton,0-4,0-2,Chelsea
+Tue Jan 25 2011,Blackpool,2-3,2-0,Man United
+Tue Jan 25 2011,Wigan,1-2,0-0,Aston Villa
+Wed Jan 26 2011,Liverpool,1-0,0-0,Fulham
+Tue Feb 1 2011,Arsenal,2-1,0-1,Everton
+Tue Feb 1 2011,Man United,3-1,2-0,Aston Villa
+Tue Feb 1 2011,Sunderland,2-4,2-2,Chelsea
+Tue Feb 1 2011,West Brom,2-2,1-2,Wigan
+Wed Feb 2 2011,Birmingham,2-2,1-2,Man City
+Wed Feb 2 2011,Blackburn,0-1,0-1,Tottenham
+Wed Feb 2 2011,Blackpool,1-3,1-3,West Ham
+Wed Feb 2 2011,Bolton,1-0,0-0,Wolves
+Wed Feb 2 2011,Fulham,1-0,0-0,Newcastle
+Wed Feb 2 2011,Liverpool,2-0,0-0,Stoke
+Sat Feb 5 2011,Aston Villa,2-2,1-0,Fulham
+Sat Feb 5 2011,Everton,5-3,1-1,Blackpool
+Sat Feb 5 2011,Man City,3-0,3-0,West Brom
+Sat Feb 5 2011,Newcastle,4-4,0-4,Arsenal
+Sat Feb 5 2011,Stoke,3-2,1-1,Sunderland
+Sat Feb 5 2011,Tottenham,2-1,1-0,Bolton
+Sat Feb 5 2011,Wigan,4-3,1-1,Blackburn
+Sat Feb 5 2011,Wolves,2-1,2-1,Man United
+Sun Feb 6 2011,Chelsea,0-1,0-0,Liverpool
+Sun Feb 6 2011,West Ham,0-1,0-0,Birmingham
+Sat Feb 12 2011,Arsenal,2-0,1-0,Wolves
+Sat Feb 12 2011,Birmingham,1-0,0-0,Stoke
+Sat Feb 12 2011,Blackburn,0-0,0-0,Newcastle
+Sat Feb 12 2011,Blackpool,1-1,1-1,Aston Villa
+Sat Feb 12 2011,Liverpool,1-1,1-0,Wigan
+Sat Feb 12 2011,Man United,2-1,1-0,Man City
+Sat Feb 12 2011,Sunderland,1-2,1-1,Tottenham
+Sat Feb 12 2011,West Brom,3-3,3-0,West Ham
+Sun Feb 13 2011,Bolton,2-0,1-0,Everton
+Mon Feb 14 2011,Fulham,0-0,0-0,Chelsea
+Tue Feb 15 2011,Birmingham,0-2,0-1,Newcastle
+Sun Feb 20 2011,West Brom,1-1,0-1,Wolves
+Tue Feb 22 2011,Blackpool,3-1,2-0,Tottenham
+Wed Feb 23 2011,Arsenal,1-0,1-0,Stoke
+Sat Feb 26 2011,Aston Villa,4-1,0-0,Blackburn
+Sat Feb 26 2011,Everton,2-0,2-0,Sunderland
+Sat Feb 26 2011,Newcastle,1-1,1-1,Bolton
+Sat Feb 26 2011,Wigan,0-4,0-1,Man United
+Sat Feb 26 2011,Wolves,4-0,1-0,Blackpool
+Sun Feb 27 2011,Man City,1-1,1-0,Fulham
+Sun Feb 27 2011,West Ham,3-1,2-0,Liverpool
+Mon Feb 28 2011,Stoke,1-1,0-0,West Brom
+Tue Mar 1 2011,Chelsea,2-1,0-1,Man United
+Sat Mar 5 2011,Arsenal,0-0,0-0,Sunderland
+Sat Mar 5 2011,Birmingham,1-3,0-0,West Brom
+Sat Mar 5 2011,Bolton,3-2,1-1,Aston Villa
+Sat Mar 5 2011,Fulham,3-2,1-1,Blackburn
+Sat Mar 5 2011,Man City,1-0,1-0,Wigan
+Sat Mar 5 2011,Newcastle,1-2,1-2,Everton
+Sat Mar 5 2011,West Ham,3-0,2-0,Stoke
+Sun Mar 6 2011,Liverpool,3-1,2-0,Man United
+Sun Mar 6 2011,Wolves,3-3,2-2,Tottenham
+Mon Mar 7 2011,Blackpool,1-3,0-1,Chelsea
+Wed Mar 9 2011,Everton,1-1,1-1,Birmingham
+Sat Mar 19 2011,Aston Villa,0-1,0-1,Wolves
+Sat Mar 19 2011,Blackburn,2-2,0-2,Blackpool
+Sat Mar 19 2011,Everton,2-1,1-0,Fulham
+Sat Mar 19 2011,Man United,1-0,0-0,Bolton
+Sat Mar 19 2011,Stoke,4-0,1-0,Newcastle
+Sat Mar 19 2011,Tottenham,0-0,0-0,West Ham
+Sat Mar 19 2011,West Brom,2-2,1-0,Arsenal
+Sat Mar 19 2011,Wigan,2-1,1-1,Birmingham
+Sun Mar 20 2011,Chelsea,2-0,0-0,Man City
+Sun Mar 20 2011,Sunderland,0-2,0-1,Liverpool
+Sat Apr 2 2011,Arsenal,0-0,0-0,Blackburn
+Sat Apr 2 2011,Birmingham,2-1,1-0,Bolton
+Sat Apr 2 2011,Everton,2-2,1-0,Aston Villa
+Sat Apr 2 2011,Newcastle,4-1,2-0,Wolves
+Sat Apr 2 2011,Stoke,1-1,1-1,Chelsea
+Sat Apr 2 2011,West Brom,2-1,0-0,Liverpool
+Sat Apr 2 2011,West Ham,2-4,2-0,Man United
+Sat Apr 2 2011,Wigan,0-0,0-0,Tottenham
+Sun Apr 3 2011,Fulham,3-0,2-0,Blackpool
+Sun Apr 3 2011,Man City,5-0,2-0,Sunderland
+Sat Apr 9 2011,Blackburn,1-1,1-1,Birmingham
+Sat Apr 9 2011,Bolton,3-0,2-0,West Ham
+Sat Apr 9 2011,Chelsea,1-0,0-0,Wigan
+Sat Apr 9 2011,Man United,2-0,2-0,Fulham
+Sat Apr 9 2011,Sunderland,2-3,2-1,West Brom
+Sat Apr 9 2011,Tottenham,3-2,3-2,Stoke
+Sat Apr 9 2011,Wolves,0-3,0-3,Everton
+Sun Apr 10 2011,Aston Villa,1-0,1-0,Newcastle
+Sun Apr 10 2011,Blackpool,1-3,0-2,Arsenal
+Mon Apr 11 2011,Liverpool,3-0,3-0,Man City
+Sat Apr 16 2011,Birmingham,2-0,1-0,Sunderland
+Sat Apr 16 2011,Blackpool,1-3,0-2,Wigan
+Sat Apr 16 2011,Everton,2-0,0-0,Blackburn
+Sat Apr 16 2011,West Brom,1-3,1-3,Chelsea
+Sat Apr 16 2011,West Ham,1-2,1-1,Aston Villa
+Sun Apr 17 2011,Arsenal,1-1,0-0,Liverpool
+Tue Apr 19 2011,Newcastle,0-0,0-0,Man United
+Wed Apr 20 2011,Chelsea,3-1,2-0,Birmingham
+Wed Apr 20 2011,Tottenham,3-3,2-3,Arsenal
+Sat Apr 23 2011,Aston Villa,1-1,1-1,Stoke
+Sat Apr 23 2011,Blackpool,1-1,1-1,Newcastle
+Sat Apr 23 2011,Chelsea,3-0,1-0,West Ham
+Sat Apr 23 2011,Liverpool,5-0,2-0,Birmingham
+Sat Apr 23 2011,Man United,1-0,0-0,Everton
+Sat Apr 23 2011,Sunderland,4-2,0-0,Wigan
+Sat Apr 23 2011,Tottenham,2-2,1-1,West Brom
+Sat Apr 23 2011,Wolves,1-1,1-0,Fulham
+Sun Apr 24 2011,Bolton,2-1,1-0,Arsenal
+Mon Apr 25 2011,Blackburn,0-1,0-0,Man City
+Tue Apr 26 2011,Stoke,3-0,2-0,Wolves
+Wed Apr 27 2011,Fulham,3-0,1-0,Bolton
+Sat Apr 30 2011,Blackburn,1-0,1-0,Bolton
+Sat Apr 30 2011,Blackpool,0-0,0-0,Stoke
+Sat Apr 30 2011,Chelsea,2-1,1-1,Tottenham
+Sat Apr 30 2011,Sunderland,0-3,0-1,Fulham
+Sat Apr 30 2011,West Brom,2-1,0-1,Aston Villa
+Sat Apr 30 2011,Wigan,1-1,1-0,Everton
+Sun May 1 2011,Arsenal,1-0,0-0,Man United
+Sun May 1 2011,Birmingham,1-1,1-1,Wolves
+Sun May 1 2011,Liverpool,3-0,1-0,Newcastle
+Sun May 1 2011,Man City,2-1,2-1,West Ham
+Sat May 7 2011,Aston Villa,1-1,1-1,Wigan
+Sat May 7 2011,Bolton,1-2,0-1,Sunderland
+Sat May 7 2011,Everton,2-1,0-1,Man City
+Sat May 7 2011,Newcastle,2-1,2-1,Birmingham
+Sat May 7 2011,Tottenham,1-1,0-0,Blackpool
+Sat May 7 2011,West Ham,1-1,0-1,Blackburn
+Sun May 8 2011,Man United,2-1,2-0,Chelsea
+Sun May 8 2011,Stoke,3-1,2-0,Arsenal
+Sun May 8 2011,Wolves,3-1,2-0,West Brom
+Mon May 9 2011,Fulham,2-5,0-3,Liverpool
+Tue May 10 2011,Man City,1-0,1-0,Tottenham
+Sat May 14 2011,Blackburn,1-1,1-0,Man United
+Sat May 14 2011,Blackpool,4-3,3-2,Bolton
+Sat May 14 2011,Sunderland,1-3,1-1,Wolves
+Sat May 14 2011,West Brom,1-0,1-0,Everton
+Sun May 15 2011,Arsenal,1-2,0-2,Aston Villa
+Sun May 15 2011,Birmingham,0-2,0-1,Fulham
+Sun May 15 2011,Chelsea,2-2,1-1,Newcastle
+Sun May 15 2011,Liverpool,0-2,0-1,Tottenham
+Sun May 15 2011,Wigan,3-2,0-2,West Ham
+Tue May 17 2011,Man City,3-0,1-0,Stoke
+Sun May 22 2011,Aston Villa,1-0,1-0,Liverpool
+Sun May 22 2011,Bolton,0-2,0-1,Man City
+Sun May 22 2011,Everton,1-0,0-0,Chelsea
+Sun May 22 2011,Fulham,2-2,1-1,Arsenal
+Sun May 22 2011,Man United,4-2,1-1,Blackpool
+Sun May 22 2011,Newcastle,3-3,2-0,West Brom
+Sun May 22 2011,Stoke,0-1,0-0,Wigan
+Sun May 22 2011,Tottenham,2-1,0-0,Birmingham
+Sun May 22 2011,West Ham,0-3,0-1,Sunderland
+Sun May 22 2011,Wolves,2-3,0-3,Blackburn

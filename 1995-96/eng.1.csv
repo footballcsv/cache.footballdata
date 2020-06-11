@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 19 1995,Aston Villa,3-1,3-0,Man United
+Sat Aug 19 1995,Blackburn,1-0,1-0,QPR
+Sat Aug 19 1995,Chelsea,0-0,0-0,Everton
+Sat Aug 19 1995,Liverpool,1-0,0-0,Sheffield Weds
+Sat Aug 19 1995,Man City,1-1,0-1,Tottenham
+Sat Aug 19 1995,Newcastle,3-0,1-0,Coventry
+Sat Aug 19 1995,Southampton,3-4,1-3,Nott'm Forest
+Sat Aug 19 1995,West Ham,1-2,1-0,Leeds
+Sat Aug 19 1995,Wimbledon,3-2,2-2,Bolton
+Sun Aug 20 1995,Arsenal,1-1,1-1,Middlesbrough
+Mon Aug 21 1995,Leeds,1-0,0-0,Liverpool
+Tue Aug 22 1995,Bolton,1-3,0-1,Newcastle
+Wed Aug 23 1995,Coventry,2-1,1-0,Man City
+Wed Aug 23 1995,Everton,0-2,0-0,Arsenal
+Wed Aug 23 1995,Man United,2-1,0-0,West Ham
+Wed Aug 23 1995,Nott'm Forest,0-0,0-0,Chelsea
+Wed Aug 23 1995,QPR,0-3,0-1,Wimbledon
+Wed Aug 23 1995,Sheffield Weds,2-1,1-0,Blackburn
+Wed Aug 23 1995,Tottenham,0-1,0-0,Aston Villa
+Sat Aug 26 1995,Bolton,2-1,1-0,Blackburn
+Sat Aug 26 1995,Coventry,0-0,0-0,Arsenal
+Sat Aug 26 1995,Everton,2-0,2-0,Southampton
+Sat Aug 26 1995,Leeds,2-0,1-0,Aston Villa
+Sat Aug 26 1995,Man United,3-1,1-0,Wimbledon
+Sat Aug 26 1995,Middlesbrough,2-0,1-0,Chelsea
+Sat Aug 26 1995,Nott'm Forest,1-1,1-1,West Ham
+Sat Aug 26 1995,QPR,1-0,1-0,Man City
+Sat Aug 26 1995,Tottenham,1-3,0-2,Liverpool
+Sun Aug 27 1995,Sheffield Weds,0-2,0-0,Newcastle
+Mon Aug 28 1995,Blackburn,1-2,0-0,Man United
+Tue Aug 29 1995,Arsenal,1-1,1-0,Nott'm Forest
+Wed Aug 30 1995,Aston Villa,1-0,0-0,Bolton
+Wed Aug 30 1995,Chelsea,2-2,2-1,Coventry
+Wed Aug 30 1995,Liverpool,1-0,1-0,QPR
+Wed Aug 30 1995,Man City,0-2,0-0,Everton
+Wed Aug 30 1995,Newcastle,1-0,0-0,Middlesbrough
+Wed Aug 30 1995,Southampton,1-1,0-0,Leeds
+Wed Aug 30 1995,West Ham,1-1,1-0,Tottenham
+Wed Aug 30 1995,Wimbledon,2-2,1-1,Sheffield Weds
+Sat Sep 9 1995,Blackburn,1-1,0-1,Aston Villa
+Sat Sep 9 1995,Bolton,1-1,1-0,Middlesbrough
+Sat Sep 9 1995,Coventry,1-1,1-1,Nott'm Forest
+Sat Sep 9 1995,Everton,2-3,1-1,Man United
+Sat Sep 9 1995,QPR,0-3,0-0,Sheffield Weds
+Sat Sep 9 1995,Southampton,1-0,0-0,Newcastle
+Sat Sep 9 1995,Tottenham,2-1,1-0,Leeds
+Sat Sep 9 1995,Wimbledon,1-0,1-0,Liverpool
+Sun Sep 10 1995,Man City,0-1,0-0,Arsenal
+Mon Sep 11 1995,West Ham,1-3,0-2,Chelsea
+Tue Sep 12 1995,Middlesbrough,0-0,0-0,Southampton
+Sat Sep 16 1995,Arsenal,1-0,0-0,West Ham
+Sat Sep 16 1995,Aston Villa,2-0,1-0,Wimbledon
+Sat Sep 16 1995,Chelsea,3-0,0-0,Southampton
+Sat Sep 16 1995,Leeds,1-3,0-2,QPR
+Sat Sep 16 1995,Liverpool,3-0,3-0,Blackburn
+Sat Sep 16 1995,Man United,3-0,2-0,Bolton
+Sat Sep 16 1995,Middlesbrough,2-1,0-0,Coventry
+Sat Sep 16 1995,Newcastle,3-1,2-0,Man City
+Sat Sep 16 1995,Sheffield Weds,1-3,1-1,Tottenham
+Sun Sep 17 1995,Nott'm Forest,3-2,2-0,Everton
+Sat Sep 23 1995,Arsenal,4-2,2-2,Southampton
+Sat Sep 23 1995,Aston Villa,1-1,0-0,Nott'm Forest
+Sat Sep 23 1995,Blackburn,5-1,2-1,Coventry
+Sat Sep 23 1995,Liverpool,5-2,2-0,Bolton
+Sat Sep 23 1995,Man City,0-1,0-1,Middlesbrough
+Sat Sep 23 1995,Sheffield Weds,0-0,0-0,Man United
+Sat Sep 23 1995,West Ham,2-1,2-1,Everton
+Sat Sep 23 1995,Wimbledon,2-4,1-3,Leeds
+Sun Sep 24 1995,Newcastle,2-0,1-0,Chelsea
+Mon Sep 25 1995,QPR,2-3,1-0,Tottenham
+Sat Sep 30 1995,Bolton,0-1,0-0,QPR
+Sat Sep 30 1995,Chelsea,1-0,0-0,Arsenal
+Sat Sep 30 1995,Coventry,0-3,0-1,Aston Villa
+Sat Sep 30 1995,Leeds,2-0,1-0,Sheffield Weds
+Sat Sep 30 1995,Middlesbrough,2-0,1-0,Blackburn
+Sat Sep 30 1995,Nott'm Forest,3-0,1-0,Man City
+Sat Sep 30 1995,Tottenham,3-1,2-1,Wimbledon
+Sun Oct 1 1995,Everton,1-3,0-1,Newcastle
+Sun Oct 1 1995,Man United,2-2,1-1,Liverpool
+Mon Oct 2 1995,Southampton,0-0,0-0,West Ham
+Sat Oct 14 1995,Aston Villa,0-1,0-0,Chelsea
+Sat Oct 14 1995,Blackburn,2-1,1-0,Southampton
+Sat Oct 14 1995,Bolton,1-1,1-0,Everton
+Sat Oct 14 1995,Leeds,0-3,0-1,Arsenal
+Sat Oct 14 1995,Liverpool,0-0,0-0,Coventry
+Sat Oct 14 1995,Man United,1-0,1-0,Man City
+Sat Oct 14 1995,QPR,2-3,1-0,Newcastle
+Sat Oct 14 1995,Tottenham,0-1,0-0,Nott'm Forest
+Sun Oct 15 1995,Sheffield Weds,0-1,0-0,Middlesbrough
+Mon Oct 16 1995,Wimbledon,0-1,0-1,West Ham
+Sat Oct 21 1995,Arsenal,2-0,0-0,Aston Villa
+Sat Oct 21 1995,Chelsea,1-4,0-2,Man United
+Sat Oct 21 1995,Coventry,0-1,0-1,Sheffield Weds
+Sat Oct 21 1995,Man City,0-0,0-0,Leeds
+Sat Oct 21 1995,Middlesbrough,1-0,1-0,QPR
+Sat Oct 21 1995,Newcastle,6-1,3-0,Wimbledon
+Sat Oct 21 1995,Nott'm Forest,3-2,1-1,Bolton
+Sat Oct 21 1995,West Ham,1-1,1-0,Blackburn
+Sun Oct 22 1995,Everton,1-1,1-1,Tottenham
+Sun Oct 22 1995,Southampton,1-3,1-1,Liverpool
+Sat Oct 28 1995,Aston Villa,1-0,0-0,Everton
+Sat Oct 28 1995,Blackburn,3-0,1-0,Chelsea
+Sat Oct 28 1995,Leeds,3-1,2-1,Coventry
+Sat Oct 28 1995,Liverpool,6-0,2-0,Man City
+Sat Oct 28 1995,Man United,2-0,1-0,Middlesbrough
+Sat Oct 28 1995,QPR,1-1,0-0,Nott'm Forest
+Sat Oct 28 1995,Sheffield Weds,0-1,0-1,West Ham
+Sat Oct 28 1995,Wimbledon,1-2,0-1,Southampton
+Sun Oct 29 1995,Tottenham,1-1,1-0,Newcastle
+Mon Oct 30 1995,Bolton,1-0,1-0,Arsenal
+Sat Nov 4 1995,Arsenal,1-0,1-0,Man United
+Sat Nov 4 1995,Chelsea,0-0,0-0,Sheffield Weds
+Sat Nov 4 1995,Coventry,2-3,1-2,Tottenham
+Sat Nov 4 1995,Man City,1-0,1-0,Bolton
+Sat Nov 4 1995,Middlesbrough,1-1,1-1,Leeds
+Sat Nov 4 1995,Newcastle,2-1,1-1,Liverpool
+Sat Nov 4 1995,Southampton,2-0,1-0,QPR
+Sat Nov 4 1995,West Ham,1-4,0-1,Aston Villa
+Sun Nov 5 1995,Everton,1-0,1-0,Blackburn
+Mon Nov 6 1995,Nott'm Forest,4-1,2-1,Wimbledon
+Wed Nov 8 1995,Newcastle,1-0,1-0,Blackburn
+Sat Nov 18 1995,Aston Villa,1-1,1-0,Newcastle
+Sat Nov 18 1995,Blackburn,7-0,2-0,Nott'm Forest
+Sat Nov 18 1995,Bolton,0-3,0-0,West Ham
+Sat Nov 18 1995,Leeds,1-0,0-0,Chelsea
+Sat Nov 18 1995,Liverpool,1-2,0-0,Everton
+Sat Nov 18 1995,Man United,4-1,3-0,Southampton
+Sat Nov 18 1995,Sheffield Weds,1-1,1-0,Man City
+Sat Nov 18 1995,Tottenham,2-1,1-1,Arsenal
+Sat Nov 18 1995,Wimbledon,0-0,0-0,Middlesbrough
+Sun Nov 19 1995,QPR,1-1,1-0,Coventry
+Mon Nov 20 1995,Southampton,0-1,0-1,Aston Villa
+Tue Nov 21 1995,Arsenal,4-2,1-2,Sheffield Weds
+Tue Nov 21 1995,Middlesbrough,0-1,0-0,Tottenham
+Wed Nov 22 1995,Chelsea,3-2,1-1,Bolton
+Wed Nov 22 1995,Coventry,0-4,0-1,Man United
+Wed Nov 22 1995,Everton,2-0,2-0,QPR
+Wed Nov 22 1995,Man City,1-0,0-0,Wimbledon
+Wed Nov 22 1995,West Ham,0-0,0-0,Liverpool
+Sat Nov 25 1995,Chelsea,0-0,0-0,Tottenham
+Sat Nov 25 1995,Coventry,3-3,1-2,Wimbledon
+Sat Nov 25 1995,Everton,2-2,1-2,Sheffield Weds
+Sat Nov 25 1995,Man City,1-0,0-0,Aston Villa
+Sat Nov 25 1995,Middlesbrough,2-1,1-0,Liverpool
+Sat Nov 25 1995,Newcastle,2-1,0-1,Leeds
+Sat Nov 25 1995,Southampton,1-0,0-0,Bolton
+Sat Nov 25 1995,West Ham,1-0,0-0,QPR
+Sun Nov 26 1995,Arsenal,0-0,0-0,Blackburn
+Mon Nov 27 1995,Nott'm Forest,1-1,1-0,Man United
+Sat Dec 2 1995,Aston Villa,1-1,0-0,Arsenal
+Sat Dec 2 1995,Blackburn,4-2,3-0,West Ham
+Sat Dec 2 1995,Bolton,1-1,0-0,Nott'm Forest
+Sat Dec 2 1995,Leeds,0-1,0-0,Man City
+Sat Dec 2 1995,Liverpool,1-1,0-0,Southampton
+Sat Dec 2 1995,Man United,1-1,0-0,Chelsea
+Sat Dec 2 1995,QPR,1-1,1-1,Middlesbrough
+Sat Dec 2 1995,Tottenham,0-0,0-0,Everton
+Sun Dec 3 1995,Wimbledon,3-3,2-3,Newcastle
+Mon Dec 4 1995,Sheffield Weds,4-3,2-2,Coventry
+Sat Dec 9 1995,Bolton,0-1,0-0,Liverpool
+Sat Dec 9 1995,Chelsea,1-0,1-0,Newcastle
+Sat Dec 9 1995,Coventry,5-0,1-0,Blackburn
+Sat Dec 9 1995,Leeds,1-1,0-1,Wimbledon
+Sat Dec 9 1995,Man United,2-2,1-0,Sheffield Weds
+Sat Dec 9 1995,Middlesbrough,4-1,1-1,Man City
+Sat Dec 9 1995,Southampton,0-0,0-0,Arsenal
+Sat Dec 9 1995,Tottenham,1-0,1-0,QPR
+Sun Dec 10 1995,Nott'm Forest,1-1,0-0,Aston Villa
+Mon Dec 11 1995,Everton,3-0,2-0,West Ham
+Sat Dec 16 1995,Arsenal,1-1,0-1,Chelsea
+Sat Dec 16 1995,Aston Villa,4-1,1-0,Coventry
+Sat Dec 16 1995,Blackburn,1-0,1-0,Middlesbrough
+Sat Dec 16 1995,Newcastle,1-0,1-0,Everton
+Sat Dec 16 1995,QPR,2-1,1-1,Bolton
+Sat Dec 16 1995,Sheffield Weds,6-2,3-1,Leeds
+Sat Dec 16 1995,West Ham,2-1,0-1,Southampton
+Sat Dec 16 1995,Wimbledon,0-1,0-0,Tottenham
+Sun Dec 17 1995,Liverpool,2-0,1-0,Man United
+Mon Dec 18 1995,Man City,1-1,1-0,Nott'm Forest
+Sat Dec 23 1995,Coventry,2-1,0-0,Everton
+Sat Dec 23 1995,Liverpool,3-1,1-1,Arsenal
+Sat Dec 23 1995,Man City,0-1,0-0,Chelsea
+Sat Dec 23 1995,Middlesbrough,4-2,3-0,West Ham
+Sat Dec 23 1995,Newcastle,3-1,2-1,Nott'm Forest
+Sat Dec 23 1995,QPR,1-0,0-0,Aston Villa
+Sat Dec 23 1995,Sheffield Weds,2-2,1-1,Southampton
+Sat Dec 23 1995,Tottenham,2-2,1-0,Bolton
+Sat Dec 23 1995,Wimbledon,1-1,0-1,Blackburn
+Sun Dec 24 1995,Leeds,3-1,2-1,Man United
+Tue Dec 26 1995,Arsenal,3-0,1-0,QPR
+Tue Dec 26 1995,Blackburn,2-0,1-0,Man City
+Tue Dec 26 1995,Chelsea,1-2,1-2,Wimbledon
+Tue Dec 26 1995,Everton,4-0,2-0,Middlesbrough
+Tue Dec 26 1995,Nott'm Forest,1-0,1-0,Sheffield Weds
+Tue Dec 26 1995,Southampton,0-0,0-0,Tottenham
+Wed Dec 27 1995,Bolton,0-2,0-1,Leeds
+Wed Dec 27 1995,Man United,2-0,1-0,Newcastle
+Sat Dec 30 1995,Arsenal,1-3,1-1,Wimbledon
+Sat Dec 30 1995,Blackburn,2-1,2-0,Tottenham
+Sat Dec 30 1995,Bolton,1-2,1-1,Coventry
+Sat Dec 30 1995,Chelsea,2-2,2-1,Liverpool
+Sat Dec 30 1995,Everton,2-0,2-0,Leeds
+Sat Dec 30 1995,Man United,2-1,1-0,QPR
+Sat Dec 30 1995,Nott'm Forest,1-0,1-0,Middlesbrough
+Mon Jan 1 1996,Coventry,1-1,0-0,Southampton
+Mon Jan 1 1996,Leeds,0-0,0-0,Blackburn
+Mon Jan 1 1996,Liverpool,4-2,2-2,Nott'm Forest
+Mon Jan 1 1996,Man City,2-1,1-0,West Ham
+Mon Jan 1 1996,Middlesbrough,0-2,0-2,Aston Villa
+Mon Jan 1 1996,Sheffield Weds,4-2,2-0,Bolton
+Mon Jan 1 1996,Tottenham,4-1,2-1,Man United
+Mon Jan 1 1996,Wimbledon,2-3,0-3,Everton
+Tue Jan 2 1996,Newcastle,2-0,1-0,Arsenal
+Tue Jan 2 1996,QPR,1-2,0-0,Chelsea
+Sat Jan 13 1996,Bolton,1-0,1-0,Wimbledon
+Sat Jan 13 1996,Everton,1-1,1-1,Chelsea
+Sat Jan 13 1996,Leeds,2-0,1-0,West Ham
+Sat Jan 13 1996,Man United,0-0,0-0,Aston Villa
+Sat Jan 13 1996,Middlesbrough,2-3,1-1,Arsenal
+Sat Jan 13 1996,Nott'm Forest,1-0,1-0,Southampton
+Sat Jan 13 1996,QPR,0-1,0-0,Blackburn
+Sat Jan 13 1996,Sheffield Weds,1-1,1-0,Liverpool
+Sat Jan 13 1996,Tottenham,1-0,0-0,Man City
+Sun Jan 14 1996,Coventry,0-1,0-1,Newcastle
+Sat Jan 20 1996,Arsenal,1-2,1-0,Everton
+Sat Jan 20 1996,Blackburn,3-0,2-0,Sheffield Weds
+Sat Jan 20 1996,Chelsea,1-0,0-0,Nott'm Forest
+Sat Jan 20 1996,Liverpool,5-0,1-0,Leeds
+Sat Jan 20 1996,Man City,1-1,0-0,Coventry
+Sat Jan 20 1996,Newcastle,2-1,2-1,Bolton
+Sat Jan 20 1996,Southampton,2-1,0-1,Middlesbrough
+Sat Jan 20 1996,Wimbledon,2-1,1-0,QPR
+Sun Jan 21 1996,Aston Villa,2-1,1-1,Tottenham
+Tue Jan 23 1996,West Ham,0-1,0-1,Man United
+Wed Jan 31 1996,Aston Villa,0-2,0-0,Liverpool
+Wed Jan 31 1996,Nott'm Forest,2-1,1-0,Leeds
+Wed Jan 31 1996,Southampton,1-1,0-0,Man City
+Wed Jan 31 1996,West Ham,3-2,0-0,Coventry
+Sat Feb 3 1996,Arsenal,1-1,1-1,Coventry
+Sat Feb 3 1996,Aston Villa,3-0,2-0,Leeds
+Sat Feb 3 1996,Blackburn,3-1,1-1,Bolton
+Sat Feb 3 1996,Liverpool,0-0,0-0,Tottenham
+Sat Feb 3 1996,Man City,2-0,1-0,QPR
+Sat Feb 3 1996,Newcastle,2-0,0-0,Sheffield Weds
+Sat Feb 3 1996,Southampton,2-2,0-0,Everton
+Sat Feb 3 1996,West Ham,1-0,1-0,Nott'm Forest
+Sat Feb 3 1996,Wimbledon,2-4,0-2,Man United
+Sun Feb 4 1996,Chelsea,5-0,3-0,Middlesbrough
+Sat Feb 10 1996,Bolton,0-2,0-1,Aston Villa
+Sat Feb 10 1996,Coventry,1-0,1-0,Chelsea
+Sat Feb 10 1996,Everton,2-0,1-0,Man City
+Sat Feb 10 1996,Man United,1-0,1-0,Blackburn
+Sat Feb 10 1996,Middlesbrough,1-2,1-0,Newcastle
+Sat Feb 10 1996,Nott'm Forest,0-1,0-0,Arsenal
+Sat Feb 10 1996,Sheffield Weds,2-1,0-0,Wimbledon
+Sun Feb 11 1996,QPR,1-2,0-2,Liverpool
+Mon Feb 12 1996,Tottenham,0-1,0-1,West Ham
+Sat Feb 17 1996,Chelsea,1-2,1-0,West Ham
+Sat Feb 17 1996,Middlesbrough,1-4,1-2,Bolton
+Sat Feb 17 1996,Sheffield Weds,1-3,1-1,QPR
+Wed Feb 21 1996,Man United,2-0,1-0,Everton
+Wed Feb 21 1996,West Ham,2-0,1-0,Newcastle
+Sat Feb 24 1996,Blackburn,2-3,1-2,Liverpool
+Sat Feb 24 1996,Coventry,0-0,0-0,Middlesbrough
+Sat Feb 24 1996,Everton,3-0,0-0,Nott'm Forest
+Sat Feb 24 1996,Man City,3-3,1-1,Newcastle
+Sat Feb 24 1996,Southampton,2-3,2-2,Chelsea
+Sat Feb 24 1996,Tottenham,1-0,1-0,Sheffield Weds
+Sat Feb 24 1996,West Ham,0-1,0-1,Arsenal
+Sat Feb 24 1996,Wimbledon,3-3,1-1,Aston Villa
+Sun Feb 25 1996,Bolton,0-6,0-2,Man United
+Wed Feb 28 1996,Aston Villa,2-0,0-0,Blackburn
+Sat Mar 2 1996,Coventry,2-2,2-2,West Ham
+Sat Mar 2 1996,Leeds,0-1,0-1,Bolton
+Sat Mar 2 1996,Man City,1-1,0-0,Blackburn
+Sat Mar 2 1996,Middlesbrough,0-2,0-2,Everton
+Sat Mar 2 1996,QPR,1-1,1-0,Arsenal
+Sat Mar 2 1996,Sheffield Weds,1-3,0-1,Nott'm Forest
+Sat Mar 2 1996,Tottenham,1-0,0-0,Southampton
+Sat Mar 2 1996,Wimbledon,1-1,1-1,Chelsea
+Sun Mar 3 1996,Liverpool,3-0,3-0,Aston Villa
+Mon Mar 4 1996,Newcastle,0-1,0-0,Man United
+Tue Mar 5 1996,Arsenal,3-1,2-0,Man City
+Wed Mar 6 1996,Aston Villa,3-2,0-1,Sheffield Weds
+Wed Mar 6 1996,QPR,1-2,1-2,Leeds
+Sat Mar 9 1996,Aston Villa,4-2,1-0,QPR
+Sat Mar 9 1996,Everton,2-2,2-1,Coventry
+Sat Mar 9 1996,West Ham,2-0,1-0,Middlesbrough
+Tue Mar 12 1996,Chelsea,1-1,1-1,Man City
+Wed Mar 13 1996,Blackburn,1-0,0-0,Leeds
+Wed Mar 13 1996,Liverpool,2-2,1-0,Wimbledon
+Sat Mar 16 1996,Coventry,0-2,0-0,Bolton
+Sat Mar 16 1996,Liverpool,2-0,0-0,Chelsea
+Sat Mar 16 1996,Man City,2-1,2-0,Southampton
+Sat Mar 16 1996,Middlesbrough,1-1,0-0,Nott'm Forest
+Sat Mar 16 1996,QPR,1-1,0-0,Man United
+Sat Mar 16 1996,Sheffield Weds,2-0,0-0,Aston Villa
+Sat Mar 16 1996,Tottenham,2-3,0-2,Blackburn
+Sat Mar 16 1996,Wimbledon,0-3,0-0,Arsenal
+Sun Mar 17 1996,Leeds,2-2,2-1,Everton
+Mon Mar 18 1996,Newcastle,3-0,1-0,West Ham
+Tue Mar 19 1996,Aston Villa,0-0,0-0,Middlesbrough
+Wed Mar 20 1996,Bolton,2-3,0-1,Tottenham
+Wed Mar 20 1996,Man United,1-0,0-0,Arsenal
+Wed Mar 20 1996,Southampton,0-1,0-1,Sheffield Weds
+Sat Mar 23 1996,Arsenal,2-0,2-0,Newcastle
+Sat Mar 23 1996,Bolton,2-1,1-1,Sheffield Weds
+Sat Mar 23 1996,Chelsea,1-1,1-1,QPR
+Sat Mar 23 1996,Everton,2-4,1-1,Wimbledon
+Sat Mar 23 1996,Nott'm Forest,1-0,1-0,Liverpool
+Sat Mar 23 1996,West Ham,4-2,1-0,Man City
+Sun Mar 24 1996,Man United,1-0,0-0,Tottenham
+Mon Mar 25 1996,Southampton,1-0,1-0,Coventry
+Sat Mar 30 1996,Blackburn,0-3,0-0,Everton
+Sat Mar 30 1996,Bolton,1-1,0-1,Man City
+Sat Mar 30 1996,Leeds,0-1,0-1,Middlesbrough
+Sat Mar 30 1996,QPR,3-0,1-0,Southampton
+Sat Mar 30 1996,Tottenham,3-1,1-0,Coventry
+Sat Mar 30 1996,Wimbledon,1-0,0-0,Nott'm Forest
+Wed Apr 3 1996,Leeds,1-0,0-0,Southampton
+Wed Apr 3 1996,Liverpool,4-3,1-2,Newcastle
+Fri Apr 5 1996,Middlesbrough,3-1,0-0,Sheffield Weds
+Sat Apr 6 1996,Arsenal,2-1,1-0,Leeds
+Sat Apr 6 1996,Chelsea,1-2,1-1,Aston Villa
+Sat Apr 6 1996,Coventry,1-0,1-0,Liverpool
+Sat Apr 6 1996,Everton,3-0,1-0,Bolton
+Sat Apr 6 1996,Man City,2-3,1-2,Man United
+Sat Apr 6 1996,Newcastle,2-1,0-0,QPR
+Sat Apr 6 1996,Nott'm Forest,2-1,1-0,Tottenham
+Sat Apr 6 1996,Southampton,1-0,0-0,Blackburn
+Sat Apr 6 1996,West Ham,1-1,1-1,Wimbledon
+Mon Apr 8 1996,Aston Villa,3-0,0-0,Southampton
+Mon Apr 8 1996,Blackburn,2-1,0-0,Newcastle
+Mon Apr 8 1996,Bolton,2-1,2-1,Chelsea
+Mon Apr 8 1996,Leeds,1-3,1-2,Nott'm Forest
+Mon Apr 8 1996,Liverpool,2-0,2-0,West Ham
+Mon Apr 8 1996,Man United,1-0,0-0,Coventry
+Mon Apr 8 1996,QPR,3-1,2-0,Everton
+Mon Apr 8 1996,Sheffield Weds,1-0,0-0,Arsenal
+Mon Apr 8 1996,Tottenham,1-1,0-0,Middlesbrough
+Mon Apr 8 1996,Wimbledon,3-0,1-0,Man City
+Sat Apr 13 1996,Chelsea,4-1,3-0,Leeds
+Sat Apr 13 1996,Coventry,1-0,0-0,QPR
+Sat Apr 13 1996,Man City,1-0,0-0,Sheffield Weds
+Sat Apr 13 1996,Middlesbrough,1-2,1-1,Wimbledon
+Sat Apr 13 1996,Nott'm Forest,1-5,1-3,Blackburn
+Sat Apr 13 1996,Southampton,3-1,3-0,Man United
+Sat Apr 13 1996,West Ham,1-0,1-0,Bolton
+Sun Apr 14 1996,Newcastle,1-0,0-0,Aston Villa
+Mon Apr 15 1996,Arsenal,0-0,0-0,Tottenham
+Tue Apr 16 1996,Everton,1-1,1-0,Liverpool
+Wed Apr 17 1996,Aston Villa,1-1,1-0,West Ham
+Wed Apr 17 1996,Blackburn,3-2,1-1,Wimbledon
+Wed Apr 17 1996,Man United,1-0,0-0,Leeds
+Wed Apr 17 1996,Newcastle,1-0,1-0,Southampton
+Wed Apr 17 1996,Nott'm Forest,0-0,0-0,Coventry
+Wed Apr 17 1996,Sheffield Weds,0-0,0-0,Chelsea
+Sat Apr 27 1996,Aston Villa,0-1,0-0,Man City
+Sat Apr 27 1996,Blackburn,1-1,1-0,Arsenal
+Sat Apr 27 1996,Bolton,0-1,0-1,Southampton
+Sat Apr 27 1996,Liverpool,1-0,0-0,Middlesbrough
+Sat Apr 27 1996,QPR,3-0,0-0,West Ham
+Sat Apr 27 1996,Sheffield Weds,2-5,1-3,Everton
+Sat Apr 27 1996,Tottenham,1-1,0-1,Chelsea
+Sat Apr 27 1996,Wimbledon,0-2,0-0,Coventry
+Sun Apr 28 1996,Man United,5-0,2-0,Nott'm Forest
+Mon Apr 29 1996,Leeds,0-1,0-1,Newcastle
+Wed May 1 1996,Arsenal,0-0,0-0,Liverpool
+Thu May 2 1996,Leeds,1-3,1-2,Tottenham
+Thu May 2 1996,Nott'm Forest,1-1,0-1,Newcastle
+Sat May 4 1996,Arsenal,2-1,0-0,Bolton
+Sat May 4 1996,Chelsea,2-3,1-1,Blackburn
+Sat May 4 1996,Coventry,0-0,0-0,Leeds
+Sat May 4 1996,Everton,1-0,0-0,Aston Villa
+Sat May 4 1996,Man City,2-2,0-2,Liverpool
+Sat May 4 1996,Middlesbrough,0-3,0-1,Man United
+Sat May 4 1996,Newcastle,1-1,0-0,Tottenham
+Sat May 4 1996,Nott'm Forest,3-0,1-0,QPR
+Sat May 4 1996,Southampton,0-0,0-0,Wimbledon
+Sat May 4 1996,West Ham,1-1,0-0,Sheffield Weds

@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 9 2008,Bristol Rvs,2-3,1-2,Carlisle
+Sat Aug 9 2008,Crewe,1-2,0-1,Brighton
+Sat Aug 9 2008,Hartlepool,4-2,2-0,Colchester
+Sat Aug 9 2008,Huddersfield,1-1,1-1,Stockport
+Sat Aug 9 2008,Leicester,2-0,1-0,Milton Keynes Dons
+Sat Aug 9 2008,Leyton Orient,2-1,2-1,Hereford
+Sat Aug 9 2008,Northampton,4-2,1-1,Cheltenham
+Sat Aug 9 2008,Oldham,4-3,1-2,Millwall
+Sat Aug 9 2008,Scunthorpe,1-2,0-0,Leeds
+Sat Aug 9 2008,Southend,1-0,0-0,Peterboro
+Sat Aug 9 2008,Swindon,3-1,2-0,Tranmere
+Sat Aug 9 2008,Yeovil,1-1,1-0,Walsall
+Sat Aug 16 2008,Brighton,1-1,1-0,Bristol Rvs
+Sat Aug 16 2008,Carlisle,4-2,2-1,Crewe
+Sat Aug 16 2008,Cheltenham,2-0,0-0,Swindon
+Sat Aug 16 2008,Colchester,0-0,0-0,Huddersfield
+Sat Aug 16 2008,Hereford,1-2,0-2,Yeovil
+Sat Aug 16 2008,Leeds,0-2,0-0,Oldham
+Sat Aug 16 2008,Millwall,1-1,0-1,Southend
+Sat Aug 16 2008,Milton Keynes Dons,1-0,0-0,Northampton
+Sat Aug 16 2008,Peterboro,3-0,1-0,Leyton Orient
+Sat Aug 16 2008,Stockport,0-0,0-0,Leicester
+Sat Aug 16 2008,Tranmere,1-0,1-0,Hartlepool
+Sat Aug 16 2008,Walsall,2-1,1-1,Scunthorpe
+Fri Aug 22 2008,Southend,0-2,0-0,Brighton
+Sat Aug 23 2008,Bristol Rvs,6-1,3-0,Hereford
+Sat Aug 23 2008,Crewe,2-1,2-0,Walsall
+Sat Aug 23 2008,Hartlepool,0-1,0-0,Stockport
+Sat Aug 23 2008,Huddersfield,1-3,0-2,Milton Keynes Dons
+Sat Aug 23 2008,Leicester,3-1,1-0,Tranmere
+Sat Aug 23 2008,Leyton Orient,0-0,0-0,Carlisle
+Sat Aug 23 2008,Northampton,0-0,0-0,Millwall
+Sat Aug 23 2008,Oldham,4-0,1-0,Cheltenham
+Sat Aug 23 2008,Scunthorpe,1-0,1-0,Peterboro
+Sat Aug 23 2008,Swindon,1-3,0-2,Colchester
+Sat Aug 23 2008,Yeovil,1-1,0-1,Leeds
+Sat Aug 30 2008,Brighton,0-0,0-0,Leyton Orient
+Sat Aug 30 2008,Carlisle,4-1,1-1,Yeovil
+Sat Aug 30 2008,Cheltenham,0-4,0-1,Leicester
+Sat Aug 30 2008,Colchester,2-2,1-0,Oldham
+Sat Aug 30 2008,Hereford,2-0,0-0,Crewe
+Sat Aug 30 2008,Leeds,2-2,1-2,Bristol Rvs
+Sat Aug 30 2008,Millwall,2-1,1-1,Huddersfield
+Sat Aug 30 2008,Milton Keynes Dons,1-2,0-0,Swindon
+Sat Aug 30 2008,Peterboro,1-2,0-0,Hartlepool
+Sat Aug 30 2008,Stockport,0-3,0-1,Scunthorpe
+Sat Aug 30 2008,Tranmere,4-1,3-1,Northampton
+Sat Aug 30 2008,Walsall,5-2,1-1,Southend
+Fri Sep 5 2008,Hereford,1-1,0-1,Swindon
+Sat Sep 6 2008,Brighton,1-4,0-2,Scunthorpe
+Sat Sep 6 2008,Carlisle,2-1,0-1,Southend
+Sat Sep 6 2008,Cheltenham,1-2,1-0,Huddersfield
+Sat Sep 6 2008,Leeds,5-2,2-0,Crewe
+Sat Sep 6 2008,Millwall,2-0,2-0,Hartlepool
+Sat Sep 6 2008,Milton Keynes Dons,3-0,1-0,Yeovil
+Sat Sep 6 2008,Peterboro,5-4,2-1,Bristol Rvs
+Sat Sep 6 2008,Tranmere,0-1,0-1,Oldham
+Sat Sep 6 2008,Walsall,0-2,0-0,Leyton Orient
+Fri Sep 12 2008,Hartlepool,4-1,1-0,Cheltenham
+Sat Sep 13 2008,Bristol Rvs,1-3,0-2,Walsall
+Sat Sep 13 2008,Crewe,2-0,0-0,Colchester
+Sat Sep 13 2008,Huddersfield,1-2,1-1,Tranmere
+Sat Sep 13 2008,Leicester,0-1,0-1,Millwall
+Sat Sep 13 2008,Leyton Orient,0-3,0-2,Stockport
+Sat Sep 13 2008,Northampton,1-1,1-1,Peterboro
+Sat Sep 13 2008,Oldham,2-0,1-0,Milton Keynes Dons
+Sat Sep 13 2008,Scunthorpe,2-1,0-0,Carlisle
+Sat Sep 13 2008,Southend,1-0,1-0,Hereford
+Sat Sep 13 2008,Swindon,1-3,1-1,Leeds
+Sat Sep 13 2008,Yeovil,1-1,0-0,Brighton
+Tue Sep 16 2008,Cheltenham,2-1,2-0,Bristol Rvs
+Tue Sep 16 2008,Stockport,1-1,0-1,Northampton
+Sat Sep 20 2008,Brighton,0-1,0-1,Walsall
+Sat Sep 20 2008,Carlisle,0-2,0-1,Leeds
+Sat Sep 20 2008,Colchester,0-3,0-1,Milton Keynes Dons
+Sat Sep 20 2008,Crewe,3-4,2-2,Southend
+Sat Sep 20 2008,Hartlepool,3-3,0-2,Oldham
+Sat Sep 20 2008,Hereford,1-2,1-0,Scunthorpe
+Sat Sep 20 2008,Huddersfield,3-2,1-1,Northampton
+Sat Sep 20 2008,Leyton Orient,1-3,1-1,Leicester
+Sat Sep 20 2008,Millwall,2-0,0-0,Cheltenham
+Sat Sep 20 2008,Peterboro,2-2,1-2,Tranmere
+Sat Sep 20 2008,Stockport,1-1,1-0,Swindon
+Sat Sep 20 2008,Yeovil,2-2,2-1,Bristol Rvs
+Fri Sep 26 2008,Southend,3-0,2-0,Leyton Orient
+Fri Sep 26 2008,Tranmere,3-4,1-3,Colchester
+Sat Sep 27 2008,Bristol Rvs,0-0,0-0,Crewe
+Sat Sep 27 2008,Cheltenham,2-2,1-0,Stockport
+Sat Sep 27 2008,Leeds,1-0,0-0,Hereford
+Sat Sep 27 2008,Leicester,1-0,1-0,Hartlepool
+Sat Sep 27 2008,Milton Keynes Dons,1-2,0-0,Peterboro
+Sat Sep 27 2008,Northampton,2-2,0-1,Brighton
+Sat Sep 27 2008,Oldham,1-1,0-1,Huddersfield
+Sat Sep 27 2008,Scunthorpe,2-0,1-0,Yeovil
+Sat Sep 27 2008,Walsall,2-1,1-0,Carlisle
+Sun Sep 28 2008,Swindon,1-2,0-1,Millwall
+Tue Sep 30 2008,Colchester,0-1,0-0,Leicester
+Fri Oct 3 2008,Hartlepool,3-3,0-2,Swindon
+Fri Oct 3 2008,Stockport,3-1,0-1,Oldham
+Sat Oct 4 2008,Brighton,3-3,2-2,Cheltenham
+Sat Oct 4 2008,Carlisle,1-2,0-1,Tranmere
+Sat Oct 4 2008,Colchester,0-1,0-0,Bristol Rvs
+Sat Oct 4 2008,Crewe,1-3,0-1,Northampton
+Sat Oct 4 2008,Hereford,0-0,0-0,Walsall
+Sat Oct 4 2008,Huddersfield,2-3,0-0,Leicester
+Sat Oct 4 2008,Leyton Orient,2-2,0-2,Scunthorpe
+Sat Oct 4 2008,Millwall,0-4,0-2,Milton Keynes Dons
+Sat Oct 4 2008,Peterboro,2-0,0-0,Leeds
+Sat Oct 4 2008,Yeovil,1-2,0-1,Southend
+Fri Oct 10 2008,Northampton,1-0,1-0,Hartlepool
+Sat Oct 11 2008,Bristol Rvs,2-1,0-0,Leyton Orient
+Sat Oct 11 2008,Cheltenham,4-3,1-2,Colchester
+Sat Oct 11 2008,Leeds,3-1,2-0,Brighton
+Sat Oct 11 2008,Milton Keynes Dons,3-1,1-1,Carlisle
+Sat Oct 11 2008,Scunthorpe,3-0,1-0,Crewe
+Sat Oct 11 2008,Southend,1-1,1-0,Stockport
+Sat Oct 11 2008,Swindon,1-3,0-2,Huddersfield
+Sat Oct 11 2008,Tranmere,1-3,0-2,Millwall
+Sat Oct 11 2008,Walsall,1-2,0-2,Peterboro
+Sun Oct 12 2008,Oldham,4-0,3-0,Hereford
+Sat Oct 18 2008,Brighton,0-0,0-0,Hereford
+Sat Oct 18 2008,Carlisle,3-3,1-1,Peterboro
+Sat Oct 18 2008,Cheltenham,1-2,0-1,Scunthorpe
+Sat Oct 18 2008,Crewe,2-2,2-1,Milton Keynes Dons
+Sat Oct 18 2008,Huddersfield,1-1,1-0,Bristol Rvs
+Sat Oct 18 2008,Leyton Orient,0-1,0-1,Tranmere
+Sat Oct 18 2008,Millwall,3-1,1-1,Leeds
+Sat Oct 18 2008,Northampton,3-0,2-0,Yeovil
+Sat Oct 18 2008,Oldham,1-1,0-0,Leicester
+Sat Oct 18 2008,Southend,2-1,1-0,Swindon
+Sat Oct 18 2008,Stockport,1-2,1-1,Colchester
+Sat Oct 18 2008,Walsall,2-3,2-0,Hartlepool
+Tue Oct 21 2008,Bristol Rvs,2-0,2-0,Oldham
+Tue Oct 21 2008,Colchester,1-2,1-2,Millwall
+Tue Oct 21 2008,Hartlepool,5-3,2-3,Huddersfield
+Tue Oct 21 2008,Hereford,1-0,0-0,Carlisle
+Tue Oct 21 2008,Leeds,2-1,2-1,Leyton Orient
+Tue Oct 21 2008,Leicester,2-2,1-1,Walsall
+Tue Oct 21 2008,Milton Keynes Dons,1-2,1-0,Stockport
+Tue Oct 21 2008,Peterboro,0-0,0-0,Brighton
+Tue Oct 21 2008,Scunthorpe,1-1,0-0,Southend
+Tue Oct 21 2008,Swindon,2-1,0-0,Northampton
+Tue Oct 21 2008,Tranmere,2-0,0-0,Cheltenham
+Tue Oct 21 2008,Yeovil,3-2,1-0,Crewe
+Fri Oct 24 2008,Tranmere,2-0,0-0,Crewe
+Sat Oct 25 2008,Bristol Rvs,4-2,3-0,Southend
+Sat Oct 25 2008,Colchester,5-0,3-0,Carlisle
+Sat Oct 25 2008,Hartlepool,1-0,1-0,Brighton
+Sat Oct 25 2008,Hereford,0-1,0-0,Stockport
+Sat Oct 25 2008,Leeds,3-0,0-0,Walsall
+Sat Oct 25 2008,Leicester,0-0,0-0,Northampton
+Sat Oct 25 2008,Milton Keynes Dons,3-1,1-1,Cheltenham
+Sat Oct 25 2008,Peterboro,4-0,2-0,Huddersfield
+Sat Oct 25 2008,Scunthorpe,3-2,2-0,Millwall
+Sat Oct 25 2008,Swindon,2-0,2-0,Oldham
+Sat Oct 25 2008,Yeovil,0-0,0-0,Leyton Orient
+Tue Oct 28 2008,Brighton,3-2,0-2,Leicester
+Tue Oct 28 2008,Carlisle,0-1,0-1,Hartlepool
+Tue Oct 28 2008,Crewe,1-1,0-1,Peterboro
+Tue Oct 28 2008,Huddersfield,0-0,0-0,Yeovil
+Tue Oct 28 2008,Leyton Orient,1-2,0-2,Milton Keynes Dons
+Tue Oct 28 2008,Millwall,1-0,0-0,Hereford
+Tue Oct 28 2008,Oldham,3-0,1-0,Scunthorpe
+Tue Oct 28 2008,Southend,1-0,1-0,Leeds
+Tue Oct 28 2008,Stockport,0-0,0-0,Tranmere
+Sat Nov 1 2008,Brighton,4-1,1-0,Millwall
+Sat Nov 1 2008,Cheltenham,0-1,0-1,Leeds
+Sat Nov 1 2008,Huddersfield,3-2,2-1,Crewe
+Sat Nov 1 2008,Leicester,2-1,0-0,Bristol Rvs
+Sat Nov 1 2008,Leyton Orient,1-0,0-0,Hartlepool
+Sat Nov 1 2008,Milton Keynes Dons,1-0,0-0,Tranmere
+Sat Nov 1 2008,Oldham,0-2,0-0,Yeovil
+Sat Nov 1 2008,Peterboro,2-0,1-0,Hereford
+Sat Nov 1 2008,Scunthorpe,3-3,1-1,Swindon
+Sat Nov 1 2008,Southend,3-3,2-1,Colchester
+Sat Nov 1 2008,Stockport,3-0,1-0,Carlisle
+Sat Nov 1 2008,Walsall,3-1,2-0,Northampton
+Tue Nov 11 2008,Leicester,1-0,1-0,Yeovil
+Fri Nov 14 2008,Bristol Rvs,1-2,0-1,Scunthorpe
+Sat Nov 15 2008,Carlisle,3-1,2-0,Brighton
+Sat Nov 15 2008,Colchester,0-2,0-1,Walsall
+Sat Nov 15 2008,Crewe,0-2,0-0,Leyton Orient
+Sat Nov 15 2008,Hartlepool,1-3,0-2,Milton Keynes Dons
+Sat Nov 15 2008,Hereford,3-0,2-0,Cheltenham
+Sat Nov 15 2008,Leeds,1-2,1-0,Huddersfield
+Sat Nov 15 2008,Millwall,1-0,0-0,Stockport
+Sat Nov 15 2008,Northampton,0-1,0-0,Oldham
+Sat Nov 15 2008,Swindon,2-2,0-0,Leicester
+Sat Nov 15 2008,Tranmere,2-2,2-2,Southend
+Sat Nov 15 2008,Yeovil,0-1,0-1,Peterboro
+Sat Nov 22 2008,Brighton,0-1,0-0,Huddersfield
+Sat Nov 22 2008,Bristol Rvs,2-2,1-1,Swindon
+Sat Nov 22 2008,Carlisle,1-0,0-0,Cheltenham
+Sat Nov 22 2008,Crewe,0-3,0-0,Stockport
+Sat Nov 22 2008,Hereford,0-2,0-0,Northampton
+Sat Nov 22 2008,Leeds,4-1,1-1,Hartlepool
+Sat Nov 22 2008,Leyton Orient,0-0,0-0,Millwall
+Sat Nov 22 2008,Peterboro,2-1,1-0,Colchester
+Sat Nov 22 2008,Scunthorpe,1-2,1-1,Leicester
+Sat Nov 22 2008,Southend,1-2,0-0,Oldham
+Sat Nov 22 2008,Walsall,0-3,0-1,Milton Keynes Dons
+Sat Nov 22 2008,Yeovil,1-0,1-0,Tranmere
+Tue Nov 25 2008,Cheltenham,0-0,0-0,Southend
+Tue Nov 25 2008,Colchester,1-0,0-0,Yeovil
+Tue Nov 25 2008,Hartlepool,1-1,1-1,Bristol Rvs
+Tue Nov 25 2008,Huddersfield,0-1,0-1,Leyton Orient
+Tue Nov 25 2008,Leicester,2-1,1-1,Crewe
+Tue Nov 25 2008,Millwall,1-0,0-0,Carlisle
+Tue Nov 25 2008,Milton Keynes Dons,3-0,0-0,Hereford
+Tue Nov 25 2008,Northampton,2-1,1-0,Leeds
+Tue Nov 25 2008,Oldham,3-2,2-2,Walsall
+Tue Nov 25 2008,Stockport,2-0,1-0,Brighton
+Tue Nov 25 2008,Swindon,2-2,1-1,Peterboro
+Tue Nov 25 2008,Tranmere,2-0,1-0,Scunthorpe
+Sat Nov 29 2008,Northampton,1-2,0-2,Colchester
+Sat Nov 29 2008,Walsall,2-1,1-0,Swindon
+Sat Dec 6 2008,Cheltenham,1-0,0-0,Crewe
+Sat Dec 6 2008,Colchester,1-2,0-2,Hereford
+Sat Dec 6 2008,Hartlepool,0-0,0-0,Yeovil
+Sat Dec 6 2008,Huddersfield,2-1,1-0,Walsall
+Sat Dec 6 2008,Leicester,3-0,1-0,Southend
+Sat Dec 6 2008,Millwall,3-2,2-1,Bristol Rvs
+Sat Dec 6 2008,Milton Keynes Dons,0-2,0-0,Scunthorpe
+Sat Dec 6 2008,Northampton,1-1,1-1,Leyton Orient
+Sat Dec 6 2008,Oldham,1-1,1-1,Brighton
+Sat Dec 6 2008,Stockport,1-3,0-1,Peterboro
+Sat Dec 6 2008,Swindon,1-1,0-0,Carlisle
+Sat Dec 6 2008,Tranmere,2-1,1-1,Leeds
+Fri Dec 12 2008,Brighton,2-4,1-1,Milton Keynes Dons
+Sat Dec 13 2008,Bristol Rvs,2-0,1-0,Tranmere
+Sat Dec 13 2008,Carlisle,1-2,1-0,Leicester
+Sat Dec 13 2008,Crewe,1-0,1-0,Swindon
+Sat Dec 13 2008,Hereford,1-1,1-0,Hartlepool
+Sat Dec 13 2008,Leeds,1-2,1-1,Colchester
+Sat Dec 13 2008,Leyton Orient,1-2,1-1,Cheltenham
+Sat Dec 13 2008,Peterboro,2-2,2-1,Oldham
+Sat Dec 13 2008,Scunthorpe,4-4,3-1,Northampton
+Sat Dec 13 2008,Southend,0-1,0-0,Huddersfield
+Sat Dec 13 2008,Walsall,1-2,1-1,Millwall
+Sat Dec 13 2008,Yeovil,2-4,2-3,Stockport
+Fri Dec 19 2008,Hartlepool,3-0,2-0,Southend
+Sat Dec 20 2008,Cheltenham,0-0,0-0,Walsall
+Sat Dec 20 2008,Colchester,0-0,0-0,Scunthorpe
+Sat Dec 20 2008,Huddersfield,2-0,0-0,Hereford
+Sat Dec 20 2008,Leicester,4-0,2-0,Peterboro
+Sat Dec 20 2008,Millwall,0-0,0-0,Crewe
+Sat Dec 20 2008,Milton Keynes Dons,3-1,2-0,Leeds
+Sat Dec 20 2008,Northampton,1-0,0-0,Carlisle
+Sat Dec 20 2008,Oldham,1-1,1-0,Leyton Orient
+Sat Dec 20 2008,Stockport,3-1,2-1,Bristol Rvs
+Sat Dec 20 2008,Swindon,2-3,1-2,Yeovil
+Sat Dec 20 2008,Tranmere,1-0,0-0,Brighton
+Fri Dec 26 2008,Brighton,1-2,1-1,Colchester
+Fri Dec 26 2008,Bristol Rvs,1-2,1-1,Milton Keynes Dons
+Fri Dec 26 2008,Carlisle,3-0,1-0,Huddersfield
+Fri Dec 26 2008,Crewe,0-3,0-0,Oldham
+Fri Dec 26 2008,Hereford,2-2,1-1,Tranmere
+Fri Dec 26 2008,Leeds,1-1,0-1,Leicester
+Fri Dec 26 2008,Leyton Orient,1-2,0-1,Swindon
+Fri Dec 26 2008,Peterboro,1-0,1-0,Millwall
+Fri Dec 26 2008,Scunthorpe,3-0,1-0,Hartlepool
+Fri Dec 26 2008,Southend,1-0,0-0,Northampton
+Fri Dec 26 2008,Walsall,1-0,0-0,Stockport
+Fri Dec 26 2008,Yeovil,1-1,0-1,Cheltenham
+Sun Dec 28 2008,Cheltenham,3-6,0-1,Peterboro
+Sun Dec 28 2008,Colchester,1-0,1-0,Leyton Orient
+Sun Dec 28 2008,Hartlepool,1-4,0-1,Crewe
+Sun Dec 28 2008,Huddersfield,2-0,0-0,Scunthorpe
+Sun Dec 28 2008,Leicester,2-1,1-0,Hereford
+Sun Dec 28 2008,Millwall,1-1,1-1,Yeovil
+Sun Dec 28 2008,Milton Keynes Dons,2-0,1-0,Southend
+Sun Dec 28 2008,Northampton,0-0,0-0,Bristol Rvs
+Sun Dec 28 2008,Oldham,0-0,0-0,Carlisle
+Sun Dec 28 2008,Stockport,1-3,1-1,Leeds
+Sun Dec 28 2008,Swindon,0-2,0-1,Brighton
+Sun Dec 28 2008,Tranmere,2-1,1-0,Walsall
+Sat Jan 3 2009,Huddersfield,1-1,0-1,Oldham
+Sat Jan 10 2009,Leeds,0-2,0-2,Carlisle
+Sat Jan 10 2009,Leicester,3-0,2-0,Leyton Orient
+Sat Jan 10 2009,Northampton,1-1,0-0,Huddersfield
+Mon Jan 12 2009,Milton Keynes Dons,1-1,0-1,Colchester
+Mon Jan 12 2009,Oldham,2-1,1-0,Hartlepool
+Tue Jan 13 2009,Swindon,1-1,0-0,Stockport
+Tue Jan 13 2009,Yeovil,1-2,0-2,Scunthorpe
+Fri Jan 16 2009,Hartlepool,2-0,1-0,Northampton
+Sat Jan 17 2009,Brighton,0-2,0-0,Leeds
+Sat Jan 17 2009,Carlisle,3-2,0-2,Milton Keynes Dons
+Sat Jan 17 2009,Colchester,3-1,0-0,Cheltenham
+Sat Jan 17 2009,Crewe,3-2,0-1,Scunthorpe
+Sat Jan 17 2009,Hereford,5-0,4-0,Oldham
+Sat Jan 17 2009,Huddersfield,2-1,0-0,Swindon
+Sat Jan 17 2009,Leyton Orient,1-2,0-0,Bristol Rvs
+Sat Jan 17 2009,Millwall,1-0,0-0,Tranmere
+Sat Jan 17 2009,Peterboro,1-0,1-0,Walsall
+Sat Jan 17 2009,Stockport,3-1,2-0,Southend
+Mon Jan 19 2009,Yeovil,0-2,0-0,Leicester
+Tue Jan 20 2009,Leyton Orient,1-1,1-0,Southend
+Tue Jan 20 2009,Peterboro,0-0,0-0,Milton Keynes Dons
+Sat Jan 24 2009,Bristol Rvs,0-0,0-0,Colchester
+Sat Jan 24 2009,Cheltenham,2-2,1-0,Brighton
+Sat Jan 24 2009,Leeds,3-1,0-0,Peterboro
+Sat Jan 24 2009,Leicester,4-2,1-1,Huddersfield
+Sat Jan 24 2009,Northampton,5-1,2-1,Crewe
+Sat Jan 24 2009,Oldham,3-1,2-1,Stockport
+Sat Jan 24 2009,Scunthorpe,2-1,1-0,Leyton Orient
+Sat Jan 24 2009,Southend,0-1,0-1,Yeovil
+Sat Jan 24 2009,Tranmere,4-1,0-0,Carlisle
+Sat Jan 24 2009,Walsall,1-1,1-0,Hereford
+Tue Jan 27 2009,Bristol Rvs,3-2,1-1,Cheltenham
+Tue Jan 27 2009,Colchester,2-1,0-1,Northampton
+Tue Jan 27 2009,Hartlepool,2-2,0-2,Carlisle
+Tue Jan 27 2009,Hereford,0-2,0-0,Millwall
+Tue Jan 27 2009,Leeds,2-0,2-0,Southend
+Tue Jan 27 2009,Leicester,0-0,0-0,Brighton
+Tue Jan 27 2009,Milton Keynes Dons,1-2,1-1,Leyton Orient
+Tue Jan 27 2009,Peterboro,4-2,0-1,Crewe
+Tue Jan 27 2009,Scunthorpe,2-0,2-0,Oldham
+Tue Jan 27 2009,Swindon,3-2,2-0,Walsall
+Tue Jan 27 2009,Tranmere,2-1,0-0,Stockport
+Tue Jan 27 2009,Yeovil,1-0,1-0,Huddersfield
+Sat Jan 31 2009,Brighton,2-1,0-1,Hartlepool
+Sat Jan 31 2009,Carlisle,0-2,0-1,Colchester
+Sat Jan 31 2009,Cheltenham,3-5,0-3,Milton Keynes Dons
+Sat Jan 31 2009,Crewe,2-1,0-1,Tranmere
+Sat Jan 31 2009,Huddersfield,1-0,1-0,Peterboro
+Sat Jan 31 2009,Leyton Orient,0-1,0-0,Yeovil
+Sat Jan 31 2009,Millwall,1-2,0-0,Scunthorpe
+Sat Jan 31 2009,Northampton,1-2,1-1,Leicester
+Sat Jan 31 2009,Oldham,0-0,0-0,Swindon
+Sat Jan 31 2009,Southend,1-0,0-0,Bristol Rvs
+Sat Jan 31 2009,Stockport,4-1,2-1,Hereford
+Sat Jan 31 2009,Walsall,1-0,1-0,Leeds
+Tue Feb 3 2009,Huddersfield,1-1,1-1,Hartlepool
+Tue Feb 3 2009,Stockport,0-1,0-1,Milton Keynes Dons
+Tue Feb 3 2009,Walsall,1-4,0-2,Leicester
+Sat Feb 7 2009,Hartlepool,2-2,1-1,Walsall
+Sat Feb 7 2009,Leicester,0-0,0-0,Oldham
+Sat Feb 7 2009,Tranmere,0-0,0-0,Leyton Orient
+Mon Feb 9 2009,Leeds,2-0,1-0,Millwall
+Tue Feb 10 2009,Brighton,2-4,2-2,Peterboro
+Tue Feb 10 2009,Carlisle,1-1,1-0,Walsall
+Tue Feb 10 2009,Colchester,0-1,0-0,Tranmere
+Sat Feb 14 2009,Brighton,0-2,0-2,Carlisle
+Sat Feb 14 2009,Cheltenham,2-3,1-1,Hereford
+Sat Feb 14 2009,Huddersfield,1-0,1-0,Leeds
+Sat Feb 14 2009,Leicester,1-1,0-1,Swindon
+Sat Feb 14 2009,Leyton Orient,1-0,1-0,Crewe
+Sat Feb 14 2009,Milton Keynes Dons,3-1,1-1,Hartlepool
+Sat Feb 14 2009,Oldham,2-1,1-0,Northampton
+Sat Feb 14 2009,Peterboro,1-3,0-2,Yeovil
+Sat Feb 14 2009,Scunthorpe,0-2,0-2,Bristol Rvs
+Sat Feb 14 2009,Southend,2-1,1-0,Tranmere
+Sat Feb 14 2009,Stockport,2-2,0-1,Millwall
+Sat Feb 14 2009,Walsall,2-0,2-0,Colchester
+Tue Feb 17 2009,Bristol Rvs,3-0,2-0,Yeovil
+Tue Feb 17 2009,Hartlepool,2-2,1-1,Leicester
+Tue Feb 17 2009,Hereford,2-0,1-0,Leeds
+Tue Feb 17 2009,Millwall,1-1,0-1,Swindon
+Tue Feb 17 2009,Southend,0-1,0-1,Crewe
+Tue Feb 17 2009,Stockport,1-0,1-0,Cheltenham
+Tue Feb 17 2009,Tranmere,1-1,1-1,Peterboro
+Sat Feb 21 2009,Bristol Rvs,0-1,0-1,Leicester
+Sat Feb 21 2009,Carlisle,1-2,0-1,Stockport
+Sat Feb 21 2009,Colchester,0-1,0-1,Southend
+Sat Feb 21 2009,Crewe,3-1,1-1,Huddersfield
+Sat Feb 21 2009,Hartlepool,0-1,0-0,Leyton Orient
+Sat Feb 21 2009,Hereford,0-1,0-1,Peterboro
+Sat Feb 21 2009,Leeds,2-0,0-0,Cheltenham
+Sat Feb 21 2009,Millwall,0-1,0-0,Brighton
+Sat Feb 21 2009,Northampton,0-2,0-0,Walsall
+Sat Feb 21 2009,Swindon,4-2,0-2,Scunthorpe
+Sat Feb 21 2009,Tranmere,1-1,0-0,Milton Keynes Dons
+Sat Feb 21 2009,Yeovil,2-2,2-2,Oldham
+Tue Feb 24 2009,Brighton,1-1,0-1,Northampton
+Tue Feb 24 2009,Cheltenham,1-3,1-0,Millwall
+Tue Feb 24 2009,Colchester,1-0,1-0,Stockport
+Tue Feb 24 2009,Crewe,2-0,1-0,Yeovil
+Tue Feb 24 2009,Oldham,0-2,0-0,Bristol Rvs
+Tue Feb 24 2009,Peterboro,1-0,0-0,Carlisle
+Tue Feb 24 2009,Southend,2-0,0-0,Scunthorpe
+Tue Feb 24 2009,Swindon,0-1,0-0,Hartlepool
+Sat Feb 28 2009,Brighton,0-4,0-1,Crewe
+Sat Feb 28 2009,Carlisle,1-1,1-1,Bristol Rvs
+Sat Feb 28 2009,Cheltenham,0-1,0-1,Northampton
+Sat Feb 28 2009,Colchester,1-1,1-0,Hartlepool
+Sat Feb 28 2009,Hereford,2-1,2-1,Leyton Orient
+Sat Feb 28 2009,Leeds,3-2,2-1,Scunthorpe
+Sat Feb 28 2009,Millwall,2-3,0-2,Oldham
+Sat Feb 28 2009,Milton Keynes Dons,2-2,1-1,Leicester
+Sat Feb 28 2009,Peterboro,1-2,1-1,Southend
+Sat Feb 28 2009,Stockport,1-1,0-1,Huddersfield
+Sat Feb 28 2009,Tranmere,1-0,0-0,Swindon
+Sat Feb 28 2009,Walsall,2-0,0-0,Yeovil
+Mon Mar 2 2009,Oldham,1-1,0-0,Leeds
+Tue Mar 3 2009,Crewe,1-2,1-1,Carlisle
+Tue Mar 3 2009,Hartlepool,2-1,0-0,Tranmere
+Tue Mar 3 2009,Huddersfield,2-2,0-1,Colchester
+Tue Mar 3 2009,Leicester,1-1,1-1,Stockport
+Tue Mar 3 2009,Leyton Orient,2-3,1-3,Peterboro
+Tue Mar 3 2009,Scunthorpe,1-1,0-0,Walsall
+Tue Mar 3 2009,Southend,0-1,0-1,Millwall
+Tue Mar 3 2009,Swindon,2-2,1-1,Cheltenham
+Sat Mar 7 2009,Bristol Rvs,2-2,1-1,Leeds
+Sat Mar 7 2009,Crewe,2-1,0-0,Hereford
+Sat Mar 7 2009,Hartlepool,1-2,1-1,Peterboro
+Sat Mar 7 2009,Huddersfield,1-2,0-0,Millwall
+Sat Mar 7 2009,Leicester,4-0,2-0,Cheltenham
+Sat Mar 7 2009,Leyton Orient,2-1,1-1,Brighton
+Sat Mar 7 2009,Northampton,1-1,0-1,Tranmere
+Sat Mar 7 2009,Oldham,0-1,0-1,Colchester
+Sat Mar 7 2009,Scunthorpe,2-1,2-1,Stockport
+Sat Mar 7 2009,Southend,2-0,0-0,Walsall
+Sat Mar 7 2009,Swindon,1-1,1-1,Milton Keynes Dons
+Sat Mar 7 2009,Yeovil,1-1,1-0,Carlisle
+Tue Mar 10 2009,Brighton,1-3,1-1,Southend
+Tue Mar 10 2009,Carlisle,1-3,0-2,Leyton Orient
+Tue Mar 10 2009,Colchester,3-2,2-1,Swindon
+Tue Mar 10 2009,Hereford,0-3,0-2,Bristol Rvs
+Tue Mar 10 2009,Leeds,4-0,2-0,Yeovil
+Tue Mar 10 2009,Millwall,1-0,1-0,Northampton
+Tue Mar 10 2009,Milton Keynes Dons,1-1,0-0,Huddersfield
+Tue Mar 10 2009,Peterboro,2-1,0-1,Scunthorpe
+Tue Mar 10 2009,Stockport,2-1,0-0,Hartlepool
+Tue Mar 10 2009,Walsall,1-1,0-0,Crewe
+Wed Mar 11 2009,Tranmere,2-0,0-0,Leicester
+Sat Mar 14 2009,Brighton,5-0,2-0,Yeovil
+Sat Mar 14 2009,Carlisle,1-1,1-0,Scunthorpe
+Sat Mar 14 2009,Cheltenham,2-0,1-0,Hartlepool
+Sat Mar 14 2009,Colchester,0-1,0-0,Crewe
+Sat Mar 14 2009,Hereford,0-1,0-0,Southend
+Sat Mar 14 2009,Leeds,1-0,0-0,Swindon
+Sat Mar 14 2009,Millwall,0-1,0-1,Leicester
+Sat Mar 14 2009,Milton Keynes Dons,6-2,2-2,Oldham
+Sat Mar 14 2009,Peterboro,1-0,1-0,Northampton
+Sat Mar 14 2009,Stockport,0-1,0-0,Leyton Orient
+Sat Mar 14 2009,Tranmere,3-1,1-1,Huddersfield
+Sat Mar 14 2009,Walsall,0-5,0-3,Bristol Rvs
+Tue Mar 17 2009,Cheltenham,1-0,1-0,Tranmere
+Tue Mar 17 2009,Crewe,1-1,0-0,Bristol Rvs
+Tue Mar 17 2009,Milton Keynes Dons,0-1,0-1,Millwall
+Tue Mar 17 2009,Scunthorpe,3-0,2-0,Hereford
+Tue Mar 17 2009,Swindon,3-0,2-0,Southend
+Tue Mar 17 2009,Walsall,3-0,3-0,Brighton
+Sat Mar 21 2009,Bristol Rvs,0-1,0-0,Peterboro
+Sat Mar 21 2009,Crewe,2-3,0-3,Leeds
+Sat Mar 21 2009,Hartlepool,2-3,2-0,Millwall
+Sat Mar 21 2009,Huddersfield,2-2,1-2,Cheltenham
+Sat Mar 21 2009,Leicester,1-1,0-1,Colchester
+Sat Mar 21 2009,Leyton Orient,0-1,0-1,Walsall
+Sat Mar 21 2009,Northampton,4-0,2-0,Stockport
+Sat Mar 21 2009,Oldham,0-2,0-0,Tranmere
+Sat Mar 21 2009,Scunthorpe,2-0,1-0,Brighton
+Sat Mar 21 2009,Southend,3-0,1-0,Carlisle
+Sat Mar 21 2009,Swindon,3-0,1-0,Hereford
+Sat Mar 21 2009,Yeovil,0-0,0-0,Milton Keynes Dons
+Tue Mar 24 2009,Carlisle,1-2,1-2,Hereford
+Tue Mar 24 2009,Cheltenham,1-1,1-0,Oldham
+Tue Mar 24 2009,Milton Keynes Dons,2-2,2-0,Crewe
+Tue Mar 24 2009,Northampton,3-4,1-3,Swindon
+Fri Mar 27 2009,Southend,3-2,3-1,Hartlepool
+Sat Mar 28 2009,Brighton,0-0,0-0,Tranmere
+Sat Mar 28 2009,Bristol Rvs,2-0,2-0,Stockport
+Sat Mar 28 2009,Carlisle,1-1,1-1,Northampton
+Sat Mar 28 2009,Crewe,0-1,0-0,Millwall
+Sat Mar 28 2009,Hereford,0-1,0-0,Huddersfield
+Sat Mar 28 2009,Leeds,2-0,1-0,Milton Keynes Dons
+Sat Mar 28 2009,Leyton Orient,2-1,0-1,Oldham
+Sat Mar 28 2009,Peterboro,2-0,1-0,Leicester
+Sat Mar 28 2009,Scunthorpe,3-0,1-0,Colchester
+Sat Mar 28 2009,Walsall,1-1,0-1,Cheltenham
+Sat Mar 28 2009,Yeovil,1-0,1-0,Swindon
+Tue Mar 31 2009,Bristol Rvs,1-2,0-0,Huddersfield
+Tue Mar 31 2009,Millwall,0-1,0-0,Colchester
+Tue Mar 31 2009,Yeovil,1-0,0-0,Northampton
+Sat Apr 4 2009,Cheltenham,0-1,0-1,Leyton Orient
+Sat Apr 4 2009,Colchester,0-1,0-1,Leeds
+Sat Apr 4 2009,Hartlepool,4-2,2-2,Hereford
+Sat Apr 4 2009,Huddersfield,0-1,0-0,Southend
+Sat Apr 4 2009,Leicester,2-2,0-1,Carlisle
+Sat Apr 4 2009,Millwall,3-1,2-1,Walsall
+Sat Apr 4 2009,Milton Keynes Dons,2-0,2-0,Brighton
+Sat Apr 4 2009,Oldham,1-2,1-1,Peterboro
+Sat Apr 4 2009,Stockport,0-0,0-0,Yeovil
+Sat Apr 4 2009,Swindon,0-0,0-0,Crewe
+Sun Apr 5 2009,Tranmere,2-0,1-0,Bristol Rvs
+Tue Apr 7 2009,Hereford,1-2,0-1,Brighton
+Tue Apr 7 2009,Leyton Orient,2-2,0-1,Leeds
+Fri Apr 10 2009,Bristol Rvs,1-0,0-0,Northampton
+Fri Apr 10 2009,Carlisle,1-1,1-0,Oldham
+Fri Apr 10 2009,Peterboro,1-1,1-0,Cheltenham
+Fri Apr 10 2009,Scunthorpe,1-2,1-1,Huddersfield
+Fri Apr 10 2009,Southend,0-2,0-0,Milton Keynes Dons
+Fri Apr 10 2009,Yeovil,2-0,1-0,Millwall
+Sat Apr 11 2009,Brighton,2-3,1-0,Swindon
+Sat Apr 11 2009,Crewe,0-0,0-0,Hartlepool
+Sat Apr 11 2009,Hereford,1-3,1-1,Leicester
+Sat Apr 11 2009,Leeds,1-0,1-0,Stockport
+Sat Apr 11 2009,Leyton Orient,2-1,1-1,Colchester
+Sat Apr 11 2009,Walsall,0-1,0-0,Tranmere
+Mon Apr 13 2009,Cheltenham,1-0,0-0,Yeovil
+Mon Apr 13 2009,Colchester,0-1,0-0,Brighton
+Mon Apr 13 2009,Hartlepool,2-3,1-1,Scunthorpe
+Mon Apr 13 2009,Huddersfield,1-0,0-0,Carlisle
+Mon Apr 13 2009,Leicester,1-0,0-0,Leeds
+Mon Apr 13 2009,Millwall,2-0,1-0,Peterboro
+Mon Apr 13 2009,Milton Keynes Dons,2-1,1-0,Bristol Rvs
+Mon Apr 13 2009,Northampton,2-3,0-1,Southend
+Mon Apr 13 2009,Oldham,1-1,1-0,Crewe
+Mon Apr 13 2009,Stockport,1-2,0-1,Walsall
+Mon Apr 13 2009,Swindon,0-1,0-1,Leyton Orient
+Mon Apr 13 2009,Tranmere,2-1,2-0,Hereford
+Sat Apr 18 2009,Brighton,3-1,2-0,Oldham
+Sat Apr 18 2009,Bristol Rvs,4-2,4-1,Millwall
+Sat Apr 18 2009,Carlisle,1-1,1-0,Swindon
+Sat Apr 18 2009,Crewe,1-2,1-0,Cheltenham
+Sat Apr 18 2009,Hereford,0-2,0-2,Colchester
+Sat Apr 18 2009,Leeds,3-1,2-1,Tranmere
+Sat Apr 18 2009,Leyton Orient,1-3,1-0,Northampton
+Sat Apr 18 2009,Peterboro,1-0,1-0,Stockport
+Sat Apr 18 2009,Scunthorpe,0-1,0-1,Milton Keynes Dons
+Sat Apr 18 2009,Southend,0-2,0-0,Leicester
+Sat Apr 18 2009,Walsall,2-3,2-2,Huddersfield
+Sat Apr 18 2009,Yeovil,2-3,1-2,Hartlepool
+Tue Apr 21 2009,Bristol Rvs,1-2,1-1,Brighton
+Tue Apr 21 2009,Northampton,3-3,1-1,Scunthorpe
+Tue Apr 21 2009,Yeovil,2-2,0-1,Hereford
+Fri Apr 24 2009,Leicester,2-2,1-0,Scunthorpe
+Fri Apr 24 2009,Stockport,4-3,1-1,Crewe
+Sat Apr 25 2009,Cheltenham,1-1,0-1,Carlisle
+Sat Apr 25 2009,Colchester,0-1,0-1,Peterboro
+Sat Apr 25 2009,Hartlepool,0-1,0-0,Leeds
+Sat Apr 25 2009,Huddersfield,2-2,1-1,Brighton
+Sat Apr 25 2009,Millwall,2-1,0-0,Leyton Orient
+Sat Apr 25 2009,Milton Keynes Dons,0-1,0-0,Walsall
+Sat Apr 25 2009,Northampton,2-1,1-0,Hereford
+Sat Apr 25 2009,Oldham,1-1,0-0,Southend
+Sat Apr 25 2009,Swindon,2-1,1-1,Bristol Rvs
+Sat Apr 25 2009,Tranmere,1-1,0-0,Yeovil
+Tue Apr 28 2009,Northampton,0-1,0-1,Milton Keynes Dons
+Tue Apr 28 2009,Scunthorpe,3-0,2-0,Cheltenham
+Sat May 2 2009,Brighton,1-0,0-0,Stockport
+Sat May 2 2009,Bristol Rvs,4-1,2-1,Hartlepool
+Sat May 2 2009,Carlisle,2-0,1-0,Millwall
+Sat May 2 2009,Crewe,0-3,0-0,Leicester
+Sat May 2 2009,Hereford,0-1,0-0,Milton Keynes Dons
+Sat May 2 2009,Leeds,3-0,1-0,Northampton
+Sat May 2 2009,Leyton Orient,1-1,0-1,Huddersfield
+Sat May 2 2009,Peterboro,2-2,1-2,Swindon
+Sat May 2 2009,Scunthorpe,1-1,0-1,Tranmere
+Sat May 2 2009,Southend,2-0,0-0,Cheltenham
+Sat May 2 2009,Walsall,1-2,1-1,Oldham
+Sat May 2 2009,Yeovil,0-2,0-2,Colchester

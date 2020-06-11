@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 5 2017,Bradford,2-1,1-1,Blackpool
+Sat Aug 5 2017,Bury,1-0,1-0,Walsall
+Sat Aug 5 2017,Charlton,1-0,1-0,Bristol Rvs
+Sat Aug 5 2017,Doncaster,0-0,0-0,Gillingham
+Sat Aug 5 2017,Fleetwood Town,2-0,1-0,Rotherham
+Sat Aug 5 2017,Milton Keynes Dons,0-1,0-1,Wigan
+Sat Aug 5 2017,Oldham,0-2,0-1,Oxford
+Sat Aug 5 2017,Peterboro,2-1,1-0,Plymouth
+Sat Aug 5 2017,Portsmouth,2-0,0-0,Rochdale
+Sat Aug 5 2017,Scunthorpe,1-1,1-0,AFC Wimbledon
+Sat Aug 5 2017,Shrewsbury,1-0,0-0,Northampton
+Sat Aug 5 2017,Southend,2-1,2-0,Blackburn
+Sat Aug 12 2017,AFC Wimbledon,0-1,0-1,Shrewsbury
+Sat Aug 12 2017,Blackburn,1-3,0-0,Doncaster
+Sat Aug 12 2017,Blackpool,1-0,1-0,Milton Keynes Dons
+Sat Aug 12 2017,Bristol Rvs,1-4,0-1,Peterboro
+Sat Aug 12 2017,Gillingham,0-1,0-1,Bradford
+Sat Aug 12 2017,Northampton,0-1,0-0,Fleetwood Town
+Sat Aug 12 2017,Oxford,3-0,0-0,Portsmouth
+Sat Aug 12 2017,Plymouth,2-0,0-0,Charlton
+Sat Aug 12 2017,Rochdale,1-1,0-0,Scunthorpe
+Sat Aug 12 2017,Rotherham,5-0,4-0,Southend
+Sat Aug 12 2017,Walsall,2-1,0-1,Oldham
+Sun Aug 13 2017,Wigan,4-1,1-1,Bury
+Sat Aug 19 2017,Bradford,0-1,0-0,Blackburn
+Sat Aug 19 2017,Bury,2-3,0-0,Bristol Rvs
+Sat Aug 19 2017,Charlton,4-1,1-0,Northampton
+Sat Aug 19 2017,Doncaster,3-3,2-1,Blackpool
+Sat Aug 19 2017,Fleetwood Town,2-0,1-0,AFC Wimbledon
+Sat Aug 19 2017,Milton Keynes Dons,1-0,0-0,Gillingham
+Sat Aug 19 2017,Oldham,0-2,0-2,Wigan
+Sat Aug 19 2017,Peterboro,2-1,0-0,Rotherham
+Sat Aug 19 2017,Portsmouth,1-1,0-0,Walsall
+Sat Aug 19 2017,Scunthorpe,1-0,0-0,Oxford
+Sat Aug 19 2017,Shrewsbury,3-2,2-1,Rochdale
+Sat Aug 19 2017,Southend,1-1,1-0,Plymouth
+Sat Aug 26 2017,AFC Wimbledon,2-0,0-0,Doncaster
+Sat Aug 26 2017,Blackburn,4-1,2-1,Milton Keynes Dons
+Sat Aug 26 2017,Blackpool,2-1,2-0,Oldham
+Sat Aug 26 2017,Bristol Rvs,3-1,2-0,Fleetwood Town
+Sat Aug 26 2017,Gillingham,3-3,0-1,Southend
+Sat Aug 26 2017,Northampton,1-4,0-2,Peterboro
+Sat Aug 26 2017,Oxford,1-1,0-0,Shrewsbury
+Sat Aug 26 2017,Plymouth,0-4,0-1,Scunthorpe
+Sat Aug 26 2017,Rochdale,0-0,0-0,Bury
+Sat Aug 26 2017,Rotherham,0-2,0-1,Charlton
+Sat Aug 26 2017,Walsall,3-3,0-2,Bradford
+Sat Aug 26 2017,Wigan,1-1,1-0,Portsmouth
+Sat Sep 2 2017,Blackpool,1-0,0-0,AFC Wimbledon
+Sat Sep 2 2017,Bradford,3-1,1-0,Bristol Rvs
+Sat Sep 2 2017,Bury,0-1,0-0,Scunthorpe
+Sat Sep 2 2017,Doncaster,0-0,0-0,Peterboro
+Sat Sep 2 2017,Gillingham,1-2,0-2,Shrewsbury
+Sat Sep 2 2017,Milton Keynes Dons,1-1,0-1,Oxford
+Sat Sep 2 2017,Oldham,3-4,1-2,Charlton
+Sat Sep 2 2017,Southend,0-0,0-0,Rochdale
+Sat Sep 2 2017,Walsall,2-1,1-0,Plymouth
+Sun Sep 3 2017,Portsmouth,0-1,0-1,Rotherham
+Sat Sep 9 2017,AFC Wimbledon,0-2,0-1,Portsmouth
+Sat Sep 9 2017,Bristol Rvs,2-1,1-0,Walsall
+Sat Sep 9 2017,Charlton,2-1,0-0,Southend
+Sat Sep 9 2017,Fleetwood Town,2-2,1-1,Oldham
+Sat Sep 9 2017,Northampton,1-0,1-0,Doncaster
+Sat Sep 9 2017,Oxford,3-0,0-0,Gillingham
+Sat Sep 9 2017,Peterboro,1-3,0-3,Bradford
+Sat Sep 9 2017,Plymouth,0-1,0-1,Milton Keynes Dons
+Sat Sep 9 2017,Rochdale,0-3,0-1,Blackburn
+Sat Sep 9 2017,Rotherham,3-2,1-1,Bury
+Sat Sep 9 2017,Scunthorpe,0-0,0-0,Blackpool
+Sat Sep 9 2017,Shrewsbury,1-0,1-0,Wigan
+Tue Sep 12 2017,AFC Wimbledon,1-1,1-1,Gillingham
+Tue Sep 12 2017,Bristol Rvs,2-3,0-0,Oldham
+Tue Sep 12 2017,Charlton,0-3,0-1,Wigan
+Tue Sep 12 2017,Fleetwood Town,3-2,2-2,Bury
+Tue Sep 12 2017,Northampton,3-1,2-0,Portsmouth
+Tue Sep 12 2017,Oxford,2-2,0-1,Bradford
+Tue Sep 12 2017,Peterboro,2-0,0-0,Milton Keynes Dons
+Tue Sep 12 2017,Plymouth,1-3,0-1,Blackpool
+Tue Sep 12 2017,Rochdale,2-1,0-0,Doncaster
+Tue Sep 12 2017,Rotherham,5-1,4-0,Walsall
+Tue Sep 12 2017,Scunthorpe,0-1,0-0,Blackburn
+Tue Sep 12 2017,Shrewsbury,1-0,1-0,Southend
+Sat Sep 16 2017,Blackburn,0-1,0-1,AFC Wimbledon
+Sat Sep 16 2017,Blackpool,3-1,2-0,Oxford
+Sat Sep 16 2017,Bradford,1-0,1-0,Rotherham
+Sat Sep 16 2017,Bury,0-0,0-0,Plymouth
+Sat Sep 16 2017,Gillingham,1-0,0-0,Charlton
+Sat Sep 16 2017,Milton Keynes Dons,3-2,2-2,Rochdale
+Sat Sep 16 2017,Oldham,1-2,1-1,Shrewsbury
+Sat Sep 16 2017,Portsmouth,4-1,1-0,Fleetwood Town
+Sat Sep 16 2017,Southend,2-2,0-2,Northampton
+Sat Sep 16 2017,Walsall,1-1,1-0,Peterboro
+Sat Sep 16 2017,Wigan,3-0,1-0,Bristol Rvs
+Sun Sep 17 2017,Doncaster,0-1,0-1,Scunthorpe
+Tue Sep 19 2017,Wigan,1-0,0-0,Northampton
+Fri Sep 22 2017,AFC Wimbledon,0-2,0-2,Milton Keynes Dons
+Sat Sep 23 2017,Bristol Rvs,3-1,1-1,Blackpool
+Sat Sep 23 2017,Charlton,1-1,1-1,Bury
+Sat Sep 23 2017,Fleetwood Town,2-4,1-3,Southend
+Sat Sep 23 2017,Northampton,0-1,0-1,Bradford
+Sat Sep 23 2017,Oxford,1-2,0-1,Walsall
+Sat Sep 23 2017,Peterboro,3-2,0-1,Wigan
+Sat Sep 23 2017,Plymouth,0-3,0-1,Doncaster
+Sat Sep 23 2017,Rochdale,3-0,2-0,Gillingham
+Sat Sep 23 2017,Rotherham,5-1,1-1,Oldham
+Sat Sep 23 2017,Scunthorpe,2-0,2-0,Portsmouth
+Sat Sep 23 2017,Shrewsbury,1-1,0-0,Blackburn
+Tue Sep 26 2017,Blackburn,2-0,1-0,Rotherham
+Tue Sep 26 2017,Blackpool,0-0,0-0,Rochdale
+Tue Sep 26 2017,Bradford,0-3,0-0,Fleetwood Town
+Tue Sep 26 2017,Bury,3-0,0-0,Oxford
+Tue Sep 26 2017,Doncaster,1-2,1-1,Shrewsbury
+Tue Sep 26 2017,Gillingham,0-0,0-0,Scunthorpe
+Tue Sep 26 2017,Milton Keynes Dons,0-0,0-0,Northampton
+Tue Sep 26 2017,Oldham,3-2,0-0,Peterboro
+Tue Sep 26 2017,Portsmouth,3-0,1-0,Bristol Rvs
+Tue Sep 26 2017,Southend,1-0,0-0,AFC Wimbledon
+Tue Sep 26 2017,Walsall,2-2,1-1,Charlton
+Tue Sep 26 2017,Wigan,1-0,0-0,Plymouth
+Sat Sep 30 2017,AFC Wimbledon,0-0,0-0,Rochdale
+Sat Sep 30 2017,Blackburn,1-0,1-0,Gillingham
+Sat Sep 30 2017,Bradford,2-0,2-0,Doncaster
+Sat Sep 30 2017,Bristol Rvs,2-1,1-0,Plymouth
+Sat Sep 30 2017,Bury,0-2,0-1,Milton Keynes Dons
+Sat Sep 30 2017,Fleetwood Town,1-3,1-2,Charlton
+Sat Sep 30 2017,Peterboro,1-4,1-0,Oxford
+Sat Sep 30 2017,Portsmouth,1-2,0-1,Oldham
+Sat Sep 30 2017,Rotherham,1-0,0-0,Northampton
+Sat Sep 30 2017,Shrewsbury,2-0,1-0,Scunthorpe
+Sat Sep 30 2017,Southend,2-1,1-0,Blackpool
+Sat Sep 30 2017,Wigan,2-0,1-0,Walsall
+Sat Oct 7 2017,Doncaster,4-1,1-1,Southend
+Sat Oct 7 2017,Milton Keynes Dons,1-4,1-2,Bradford
+Sat Oct 7 2017,Northampton,0-6,0-1,Bristol Rvs
+Sat Oct 7 2017,Oxford,3-0,1-0,AFC Wimbledon
+Sat Oct 7 2017,Plymouth,1-2,0-0,Fleetwood Town
+Sat Oct 7 2017,Rochdale,0-1,0-0,Rotherham
+Sat Oct 7 2017,Scunthorpe,1-2,0-0,Wigan
+Sat Oct 7 2017,Walsall,1-1,1-1,Shrewsbury
+Sun Oct 8 2017,Gillingham,0-1,0-0,Portsmouth
+Sat Oct 14 2017,Bristol Rvs,0-1,0-0,Oxford
+Sat Oct 14 2017,Bury,3-1,2-1,Bradford
+Sat Oct 14 2017,Charlton,1-0,1-0,Doncaster
+Sat Oct 14 2017,Fleetwood Town,2-2,1-0,Rochdale
+Sat Oct 14 2017,Northampton,0-1,0-0,AFC Wimbledon
+Sat Oct 14 2017,Oldham,1-0,0-0,Blackburn
+Sat Oct 14 2017,Peterboro,0-1,0-1,Gillingham
+Sat Oct 14 2017,Plymouth,1-1,0-0,Shrewsbury
+Sat Oct 14 2017,Portsmouth,2-0,2-0,Milton Keynes Dons
+Sat Oct 14 2017,Rotherham,2-0,1-0,Scunthorpe
+Sat Oct 14 2017,Walsall,1-1,1-0,Blackpool
+Sat Oct 14 2017,Wigan,3-0,1-0,Southend
+Tue Oct 17 2017,AFC Wimbledon,3-1,1-0,Rotherham
+Tue Oct 17 2017,Blackburn,1-1,1-1,Plymouth
+Tue Oct 17 2017,Blackpool,2-1,1-0,Bury
+Tue Oct 17 2017,Bradford,1-1,1-1,Oldham
+Tue Oct 17 2017,Doncaster,2-1,2-0,Portsmouth
+Tue Oct 17 2017,Gillingham,1-1,0-0,Wigan
+Tue Oct 17 2017,Milton Keynes Dons,1-1,1-0,Walsall
+Tue Oct 17 2017,Oxford,1-1,1-1,Charlton
+Tue Oct 17 2017,Rochdale,2-2,1-0,Northampton
+Tue Oct 17 2017,Scunthorpe,1-1,1-0,Fleetwood Town
+Tue Oct 17 2017,Shrewsbury,4-0,4-0,Bristol Rvs
+Tue Oct 17 2017,Southend,1-1,1-0,Peterboro
+Sat Oct 21 2017,AFC Wimbledon,0-1,0-0,Plymouth
+Sat Oct 21 2017,Blackburn,3-0,1-0,Portsmouth
+Sat Oct 21 2017,Blackpool,1-3,1-1,Wigan
+Sat Oct 21 2017,Bradford,0-1,0-0,Charlton
+Sat Oct 21 2017,Doncaster,0-3,0-0,Walsall
+Sat Oct 21 2017,Gillingham,1-2,0-1,Northampton
+Sat Oct 21 2017,Milton Keynes Dons,4-4,1-3,Oldham
+Sat Oct 21 2017,Oxford,3-3,3-2,Rotherham
+Sat Oct 21 2017,Rochdale,1-0,1-0,Bristol Rvs
+Sat Oct 21 2017,Scunthorpe,2-1,0-0,Peterboro
+Sat Oct 21 2017,Shrewsbury,1-0,0-0,Fleetwood Town
+Sat Oct 21 2017,Southend,1-0,0-0,Bury
+Tue Oct 24 2017,Oldham,2-1,1-0,Bury
+Sat Oct 28 2017,Bristol Rvs,2-0,0-0,Milton Keynes Dons
+Sat Oct 28 2017,Bury,0-1,0-0,Doncaster
+Sat Oct 28 2017,Charlton,1-0,0-0,AFC Wimbledon
+Sat Oct 28 2017,Fleetwood Town,2-0,0-0,Oxford
+Sat Oct 28 2017,Northampton,1-0,1-0,Blackpool
+Sat Oct 28 2017,Oldham,2-3,1-2,Scunthorpe
+Sat Oct 28 2017,Peterboro,1-0,1-0,Shrewsbury
+Sat Oct 28 2017,Plymouth,1-1,1-1,Rochdale
+Sat Oct 28 2017,Portsmouth,0-1,0-0,Bradford
+Sat Oct 28 2017,Rotherham,1-3,0-1,Gillingham
+Sat Oct 28 2017,Walsall,0-1,0-1,Southend
+Sat Oct 28 2017,Wigan,0-0,0-0,Blackburn
+Tue Oct 31 2017,Blackburn,2-2,0-0,Fleetwood Town
+Sat Nov 11 2017,Blackpool,2-3,0-0,Portsmouth
+Sat Nov 11 2017,Bradford,0-1,0-1,Plymouth
+Sat Nov 11 2017,Doncaster,1-1,0-0,Rotherham
+Sat Nov 11 2017,Gillingham,1-1,0-1,Bury
+Sat Nov 11 2017,Milton Keynes Dons,1-0,1-0,Fleetwood Town
+Sat Nov 11 2017,Oxford,1-2,1-2,Northampton
+Sat Nov 11 2017,Scunthorpe,1-0,0-0,Bristol Rvs
+Sun Nov 12 2017,AFC Wimbledon,2-2,2-2,Peterboro
+Sat Nov 18 2017,Bristol Rvs,1-3,0-2,AFC Wimbledon
+Sat Nov 18 2017,Bury,0-3,0-2,Blackburn
+Sat Nov 18 2017,Charlton,2-2,1-0,Milton Keynes Dons
+Sat Nov 18 2017,Fleetwood Town,0-0,0-0,Doncaster
+Sat Nov 18 2017,Northampton,0-3,0-0,Scunthorpe
+Sat Nov 18 2017,Oldham,3-1,1-1,Rochdale
+Sat Nov 18 2017,Peterboro,0-1,0-1,Blackpool
+Sat Nov 18 2017,Plymouth,0-4,0-1,Oxford
+Sat Nov 18 2017,Portsmouth,1-0,0-0,Southend
+Sat Nov 18 2017,Rotherham,1-2,0-1,Shrewsbury
+Sat Nov 18 2017,Walsall,0-1,0-1,Gillingham
+Sat Nov 18 2017,Wigan,1-2,1-1,Bradford
+Tue Nov 21 2017,Blackpool,1-1,1-0,Gillingham
+Tue Nov 21 2017,Bradford,1-2,1-1,Scunthorpe
+Tue Nov 21 2017,Bury,1-0,0-0,Shrewsbury
+Tue Nov 21 2017,Charlton,2-1,1-1,Rochdale
+Tue Nov 21 2017,Milton Keynes Dons,1-1,0-1,Southend
+Tue Nov 21 2017,Oldham,0-0,0-0,AFC Wimbledon
+Tue Nov 21 2017,Oxford,2-4,1-3,Blackburn
+Tue Nov 21 2017,Peterboro,2-1,0-0,Portsmouth
+Tue Nov 21 2017,Plymouth,2-0,1-0,Northampton
+Tue Nov 21 2017,Walsall,4-2,2-1,Fleetwood Town
+Tue Nov 21 2017,Wigan,3-0,2-0,Doncaster
+Sat Nov 25 2017,AFC Wimbledon,1-2,1-2,Walsall
+Sat Nov 25 2017,Blackburn,2-1,0-0,Bristol Rvs
+Sat Nov 25 2017,Doncaster,2-1,0-1,Milton Keynes Dons
+Sat Nov 25 2017,Fleetwood Town,0-0,0-0,Blackpool
+Sat Nov 25 2017,Gillingham,0-0,0-0,Oldham
+Sat Nov 25 2017,Northampton,0-0,0-0,Bury
+Sat Nov 25 2017,Portsmouth,1-0,1-0,Plymouth
+Sat Nov 25 2017,Rochdale,2-0,2-0,Peterboro
+Sat Nov 25 2017,Rotherham,1-3,1-2,Wigan
+Sat Nov 25 2017,Scunthorpe,2-0,0-0,Charlton
+Sat Nov 25 2017,Shrewsbury,0-1,0-0,Bradford
+Sat Nov 25 2017,Southend,1-1,1-1,Oxford
+Tue Nov 28 2017,Blackpool,2-4,1-2,Blackburn
+Tue Nov 28 2017,Charlton,2-2,0-1,Peterboro
+Sat Dec 2 2017,Bristol Rvs,2-1,0-0,Rotherham
+Sat Dec 2 2017,Southend,2-0,1-0,Oldham
+Sat Dec 9 2017,Blackpool,1-2,1-0,Rotherham
+Sat Dec 9 2017,Bradford,4-3,3-2,Rochdale
+Sat Dec 9 2017,Bristol Rvs,3-0,1-0,Southend
+Sat Dec 9 2017,Charlton,0-1,0-0,Portsmouth
+Sat Dec 9 2017,Milton Keynes Dons,1-1,0-0,Shrewsbury
+Sat Dec 9 2017,Oldham,5-1,3-0,Northampton
+Sat Dec 9 2017,Oxford,1-0,0-0,Doncaster
+Sat Dec 9 2017,Peterboro,2-3,1-0,Blackburn
+Sat Dec 9 2017,Plymouth,2-1,0-0,Gillingham
+Sat Dec 9 2017,Walsall,1-0,1-0,Scunthorpe
+Sat Dec 9 2017,Wigan,2-0,2-0,Fleetwood Town
+Sat Dec 16 2017,AFC Wimbledon,0-4,0-0,Wigan
+Sat Dec 16 2017,Blackburn,2-0,1-0,Charlton
+Sat Dec 16 2017,Doncaster,1-1,0-0,Oldham
+Sat Dec 16 2017,Gillingham,4-1,2-0,Bristol Rvs
+Sat Dec 16 2017,Northampton,2-1,2-1,Walsall
+Sat Dec 16 2017,Portsmouth,1-0,0-0,Bury
+Sat Dec 16 2017,Rochdale,0-0,0-0,Oxford
+Sat Dec 16 2017,Rotherham,1-1,0-0,Plymouth
+Sat Dec 16 2017,Scunthorpe,2-2,2-1,Milton Keynes Dons
+Sat Dec 16 2017,Shrewsbury,1-0,0-0,Blackpool
+Sat Dec 16 2017,Southend,1-2,0-1,Bradford
+Sun Dec 17 2017,Fleetwood Town,2-3,1-0,Peterboro
+Fri Dec 22 2017,Fleetwood Town,0-2,0-2,Gillingham
+Sat Dec 23 2017,AFC Wimbledon,2-1,1-0,Bradford
+Sat Dec 23 2017,Bristol Rvs,0-1,0-1,Doncaster
+Sat Dec 23 2017,Charlton,1-1,1-0,Blackpool
+Sat Dec 23 2017,Northampton,1-1,1-0,Blackburn
+Sat Dec 23 2017,Oxford,0-7,0-3,Wigan
+Sat Dec 23 2017,Peterboro,3-0,1-0,Bury
+Sat Dec 23 2017,Plymouth,4-1,2-0,Oldham
+Sat Dec 23 2017,Rochdale,1-1,0-0,Walsall
+Sat Dec 23 2017,Rotherham,2-1,2-1,Milton Keynes Dons
+Sat Dec 23 2017,Scunthorpe,3-1,1-1,Southend
+Sat Dec 23 2017,Shrewsbury,2-0,0-0,Portsmouth
+Tue Dec 26 2017,Blackburn,2-0,2-0,Rochdale
+Tue Dec 26 2017,Blackpool,2-3,1-2,Scunthorpe
+Tue Dec 26 2017,Bradford,1-3,0-2,Peterboro
+Tue Dec 26 2017,Bury,0-3,0-2,Rotherham
+Tue Dec 26 2017,Doncaster,3-0,2-0,Northampton
+Tue Dec 26 2017,Gillingham,1-1,0-0,Oxford
+Tue Dec 26 2017,Milton Keynes Dons,0-1,0-1,Plymouth
+Tue Dec 26 2017,Oldham,1-2,0-0,Fleetwood Town
+Tue Dec 26 2017,Portsmouth,2-1,1-0,AFC Wimbledon
+Tue Dec 26 2017,Southend,3-1,2-0,Charlton
+Tue Dec 26 2017,Walsall,0-0,0-0,Bristol Rvs
+Tue Dec 26 2017,Wigan,0-0,0-0,Shrewsbury
+Fri Dec 29 2017,Doncaster,2-0,2-0,Rochdale
+Fri Dec 29 2017,Wigan,0-0,0-0,Charlton
+Sat Dec 30 2017,Blackburn,2-2,1-1,Scunthorpe
+Sat Dec 30 2017,Blackpool,2-2,0-2,Plymouth
+Sat Dec 30 2017,Bradford,3-2,1-0,Oxford
+Sat Dec 30 2017,Bury,0-2,0-1,Fleetwood Town
+Sat Dec 30 2017,Gillingham,2-2,0-0,AFC Wimbledon
+Sat Dec 30 2017,Milton Keynes Dons,1-0,1-0,Peterboro
+Sat Dec 30 2017,Oldham,1-1,0-0,Bristol Rvs
+Sat Dec 30 2017,Portsmouth,3-1,2-1,Northampton
+Sat Dec 30 2017,Southend,1-2,0-2,Shrewsbury
+Sat Dec 30 2017,Walsall,1-2,1-1,Rotherham
+Mon Jan 1 2018,AFC Wimbledon,2-0,1-0,Southend
+Mon Jan 1 2018,Bristol Rvs,2-1,0-0,Portsmouth
+Mon Jan 1 2018,Charlton,1-2,0-2,Gillingham
+Mon Jan 1 2018,Fleetwood Town,1-2,1-0,Bradford
+Mon Jan 1 2018,Northampton,0-1,0-1,Wigan
+Mon Jan 1 2018,Oxford,3-1,2-1,Milton Keynes Dons
+Mon Jan 1 2018,Peterboro,1-1,1-0,Doncaster
+Mon Jan 1 2018,Plymouth,1-0,0-0,Walsall
+Mon Jan 1 2018,Rochdale,1-2,0-0,Blackpool
+Mon Jan 1 2018,Rotherham,1-1,0-0,Blackburn
+Mon Jan 1 2018,Scunthorpe,1-0,0-0,Bury
+Mon Jan 1 2018,Shrewsbury,1-0,1-0,Oldham
+Sat Jan 6 2018,Charlton,1-0,1-0,Oldham
+Sat Jan 6 2018,Northampton,3-1,1-1,Southend
+Sat Jan 6 2018,Oxford,1-0,0-0,Blackpool
+Sat Jan 6 2018,Plymouth,3-0,2-0,Bury
+Sat Jan 13 2018,Blackburn,3-1,1-1,Shrewsbury
+Sat Jan 13 2018,Blackpool,0-0,0-0,Bristol Rvs
+Sat Jan 13 2018,Bradford,1-2,0-1,Northampton
+Sat Jan 13 2018,Bury,0-1,0-0,Charlton
+Sat Jan 13 2018,Doncaster,1-1,1-0,Plymouth
+Sat Jan 13 2018,Gillingham,2-1,1-1,Rochdale
+Sat Jan 13 2018,Milton Keynes Dons,0-0,0-0,AFC Wimbledon
+Sat Jan 13 2018,Oldham,1-1,1-1,Rotherham
+Sat Jan 13 2018,Portsmouth,1-1,1-0,Scunthorpe
+Sat Jan 13 2018,Southend,1-2,0-0,Fleetwood Town
+Sat Jan 13 2018,Walsall,2-1,1-0,Oxford
+Sat Jan 13 2018,Wigan,0-0,0-0,Peterboro
+Sat Jan 20 2018,AFC Wimbledon,2-0,0-0,Blackpool
+Sat Jan 20 2018,Bristol Rvs,3-1,0-1,Bradford
+Sat Jan 20 2018,Charlton,3-1,1-1,Walsall
+Sat Jan 20 2018,Fleetwood Town,1-2,0-1,Blackburn
+Sat Jan 20 2018,Northampton,2-1,2-1,Milton Keynes Dons
+Sat Jan 20 2018,Oxford,1-2,1-0,Bury
+Sat Jan 20 2018,Peterboro,3-0,0-0,Oldham
+Sat Jan 20 2018,Plymouth,1-3,1-2,Wigan
+Sat Jan 20 2018,Rotherham,1-0,0-0,Portsmouth
+Sat Jan 20 2018,Scunthorpe,1-3,0-1,Gillingham
+Sat Jan 20 2018,Shrewsbury,2-2,1-0,Doncaster
+Tue Jan 23 2018,Rotherham,2-0,1-0,Bradford
+Tue Jan 23 2018,Scunthorpe,1-1,1-0,Doncaster
+Sat Jan 27 2018,Blackburn,1-1,0-1,Northampton
+Sat Jan 27 2018,Bradford,0-4,0-1,AFC Wimbledon
+Sat Jan 27 2018,Doncaster,1-3,1-1,Bristol Rvs
+Sat Jan 27 2018,Gillingham,2-1,0-1,Fleetwood Town
+Sat Jan 27 2018,Oldham,1-2,0-2,Plymouth
+Sat Jan 27 2018,Portsmouth,0-1,0-1,Shrewsbury
+Sat Jan 27 2018,Southend,3-2,1-1,Scunthorpe
+Tue Jan 30 2018,Blackburn,3-1,2-1,Walsall
+Sat Feb 3 2018,Bristol Rvs,1-2,0-0,Shrewsbury
+Sat Feb 3 2018,Bury,1-1,0-0,Blackpool
+Sat Feb 3 2018,Charlton,2-3,0-0,Oxford
+Sat Feb 3 2018,Fleetwood Town,2-3,1-2,Scunthorpe
+Sat Feb 3 2018,Northampton,0-1,0-0,Rochdale
+Sat Feb 3 2018,Oldham,2-1,1-0,Bradford
+Sat Feb 3 2018,Peterboro,0-1,0-1,Southend
+Sat Feb 3 2018,Plymouth,2-0,2-0,Blackburn
+Sat Feb 3 2018,Portsmouth,2-2,1-1,Doncaster
+Sat Feb 3 2018,Rotherham,2-0,1-0,AFC Wimbledon
+Sat Feb 3 2018,Walsall,1-0,0-0,Milton Keynes Dons
+Sat Feb 3 2018,Wigan,2-0,2-0,Gillingham
+Tue Feb 6 2018,Bury,2-1,2-1,AFC Wimbledon
+Sat Feb 10 2018,AFC Wimbledon,1-3,0-1,Northampton
+Sat Feb 10 2018,Blackburn,2-2,0-2,Oldham
+Sat Feb 10 2018,Blackpool,2-2,1-1,Walsall
+Sat Feb 10 2018,Bradford,2-2,0-0,Bury
+Sat Feb 10 2018,Doncaster,1-1,0-1,Charlton
+Sat Feb 10 2018,Gillingham,1-1,0-0,Peterboro
+Sat Feb 10 2018,Milton Keynes Dons,1-2,1-0,Portsmouth
+Sat Feb 10 2018,Oxford,1-2,1-0,Bristol Rvs
+Sat Feb 10 2018,Scunthorpe,1-2,0-1,Rotherham
+Sat Feb 10 2018,Shrewsbury,1-2,1-1,Plymouth
+Sat Feb 10 2018,Southend,3-1,2-0,Wigan
+Tue Feb 13 2018,Bristol Rvs,3-2,0-1,Rochdale
+Tue Feb 13 2018,Bury,0-0,0-0,Southend
+Tue Feb 13 2018,Charlton,1-1,1-0,Bradford
+Tue Feb 13 2018,Fleetwood Town,1-2,0-1,Shrewsbury
+Tue Feb 13 2018,Northampton,1-2,0-2,Gillingham
+Tue Feb 13 2018,Oldham,1-0,1-0,Milton Keynes Dons
+Tue Feb 13 2018,Peterboro,2-2,2-1,Scunthorpe
+Tue Feb 13 2018,Plymouth,4-2,3-1,AFC Wimbledon
+Tue Feb 13 2018,Portsmouth,1-2,0-1,Blackburn
+Tue Feb 13 2018,Rotherham,3-1,2-1,Oxford
+Tue Feb 13 2018,Walsall,4-2,3-0,Doncaster
+Tue Feb 13 2018,Wigan,0-2,0-2,Blackpool
+Sat Feb 17 2018,AFC Wimbledon,1-0,0-0,Bristol Rvs
+Sat Feb 17 2018,Doncaster,3-0,2-0,Fleetwood Town
+Sat Feb 17 2018,Gillingham,0-0,0-0,Walsall
+Sat Feb 17 2018,Milton Keynes Dons,1-2,0-1,Charlton
+Sat Feb 17 2018,Oxford,0-1,0-1,Plymouth
+Sat Feb 17 2018,Scunthorpe,2-2,1-1,Northampton
+Sat Feb 17 2018,Shrewsbury,0-1,0-1,Rotherham
+Sat Feb 17 2018,Southend,3-1,2-1,Portsmouth
+Sun Feb 18 2018,Blackpool,1-1,1-1,Peterboro
+Mon Feb 19 2018,Blackburn,2-0,0-0,Bury
+Tue Feb 20 2018,Fleetwood Town,1-2,0-1,Portsmouth
+Tue Feb 20 2018,Shrewsbury,1-1,1-0,Gillingham
+Wed Feb 21 2018,Rochdale,0-0,0-0,Milton Keynes Dons
+Sat Feb 24 2018,Bristol Rvs,1-1,0-0,Scunthorpe
+Sat Feb 24 2018,Bury,2-1,2-0,Gillingham
+Sat Feb 24 2018,Charlton,0-2,0-0,Shrewsbury
+Sat Feb 24 2018,Fleetwood Town,1-1,0-1,Milton Keynes Dons
+Sat Feb 24 2018,Northampton,0-0,0-0,Oxford
+Sat Feb 24 2018,Peterboro,1-1,0-0,AFC Wimbledon
+Sat Feb 24 2018,Plymouth,1-0,1-0,Bradford
+Sat Feb 24 2018,Portsmouth,0-2,0-1,Blackpool
+Sat Feb 24 2018,Rotherham,2-1,0-1,Doncaster
+Sat Feb 24 2018,Walsall,1-2,1-2,Blackburn
+Sat Feb 24 2018,Wigan,1-0,1-0,Rochdale
+Tue Feb 27 2018,AFC Wimbledon,0-3,0-1,Blackburn
+Tue Feb 27 2018,Peterboro,2-1,1-1,Walsall
+Sat Mar 3 2018,Milton Keynes Dons,0-1,0-0,Bristol Rvs
+Sat Mar 3 2018,Scunthorpe,0-2,0-0,Oldham
+Sat Mar 3 2018,Southend,0-3,0-0,Walsall
+Sun Mar 4 2018,Blackburn,2-2,2-0,Wigan
+Tue Mar 6 2018,Walsall,0-3,0-1,Rochdale
+Sat Mar 10 2018,AFC Wimbledon,2-1,1-1,Oxford
+Sat Mar 10 2018,Blackburn,3-0,1-0,Blackpool
+Sat Mar 10 2018,Bristol Rvs,1-1,1-0,Northampton
+Sat Mar 10 2018,Bury,2-2,2-1,Oldham
+Sat Mar 10 2018,Fleetwood Town,1-1,0-1,Plymouth
+Sat Mar 10 2018,Peterboro,4-1,1-0,Charlton
+Sat Mar 10 2018,Portsmouth,1-3,1-0,Gillingham
+Sat Mar 10 2018,Rotherham,0-1,0-0,Rochdale
+Sat Mar 10 2018,Shrewsbury,2-0,1-0,Walsall
+Sat Mar 10 2018,Southend,0-0,0-0,Doncaster
+Sat Mar 10 2018,Wigan,3-3,2-2,Scunthorpe
+Tue Mar 13 2018,Blackpool,1-0,0-0,Charlton
+Tue Mar 13 2018,Bury,0-1,0-0,Peterboro
+Tue Mar 13 2018,Milton Keynes Dons,3-2,2-1,Rotherham
+Tue Mar 13 2018,Rochdale,0-0,0-0,Southend
+Wed Mar 14 2018,Bradford,0-1,0-0,Wigan
+Sat Mar 17 2018,Blackpool,1-1,1-1,Southend
+Sat Mar 17 2018,Charlton,0-0,0-0,Fleetwood Town
+Sat Mar 17 2018,Milton Keynes Dons,2-1,1-0,Bury
+Sat Mar 17 2018,Northampton,0-3,0-1,Rotherham
+Sat Mar 17 2018,Oldham,0-2,0-2,Portsmouth
+Sat Mar 17 2018,Oxford,2-1,1-0,Peterboro
+Sat Mar 17 2018,Plymouth,3-2,1-2,Bristol Rvs
+Sat Mar 17 2018,Rochdale,1-1,1-1,AFC Wimbledon
+Sat Mar 17 2018,Scunthorpe,1-2,1-0,Shrewsbury
+Mon Mar 19 2018,Doncaster,2-0,0-0,Bradford
+Tue Mar 20 2018,Northampton,1-1,1-0,Shrewsbury
+Tue Mar 20 2018,Rochdale,0-2,0-0,Fleetwood Town
+Wed Mar 21 2018,Walsall,0-3,0-3,Wigan
+Sat Mar 24 2018,Bradford,1-0,0-0,Gillingham
+Sat Mar 24 2018,Bury,0-2,0-1,Wigan
+Sat Mar 24 2018,Charlton,2-0,2-0,Plymouth
+Sat Mar 24 2018,Fleetwood Town,2-0,1-0,Northampton
+Sat Mar 24 2018,Milton Keynes Dons,0-0,0-0,Blackpool
+Sat Mar 24 2018,Peterboro,1-1,0-0,Bristol Rvs
+Sat Mar 24 2018,Scunthorpe,1-1,0-1,Rochdale
+Sat Mar 24 2018,Shrewsbury,1-0,0-0,AFC Wimbledon
+Sat Mar 24 2018,Southend,2-0,1-0,Rotherham
+Sun Mar 25 2018,Portsmouth,3-0,1-0,Oxford
+Thu Mar 29 2018,Blackburn,2-0,0-0,Bradford
+Thu Mar 29 2018,Gillingham,1-2,1-1,Milton Keynes Dons
+Fri Mar 30 2018,AFC Wimbledon,0-1,0-1,Fleetwood Town
+Fri Mar 30 2018,Blackpool,1-2,0-1,Doncaster
+Fri Mar 30 2018,Bristol Rvs,2-1,0-0,Bury
+Fri Mar 30 2018,Northampton,0-4,0-2,Charlton
+Fri Mar 30 2018,Oxford,1-1,0-1,Scunthorpe
+Fri Mar 30 2018,Plymouth,4-0,2-0,Southend
+Fri Mar 30 2018,Rochdale,3-1,1-1,Shrewsbury
+Fri Mar 30 2018,Rotherham,1-1,0-0,Peterboro
+Fri Mar 30 2018,Wigan,3-0,1-0,Oldham
+Sat Mar 31 2018,Walsall,0-1,0-0,Portsmouth
+Mon Apr 2 2018,Charlton,3-1,1-0,Rotherham
+Mon Apr 2 2018,Fleetwood Town,2-0,0-0,Bristol Rvs
+Mon Apr 2 2018,Milton Keynes Dons,1-2,0-2,Blackburn
+Mon Apr 2 2018,Oldham,2-1,0-1,Blackpool
+Mon Apr 2 2018,Peterboro,2-0,2-0,Northampton
+Mon Apr 2 2018,Portsmouth,2-1,1-0,Wigan
+Mon Apr 2 2018,Shrewsbury,3-2,1-0,Oxford
+Mon Apr 2 2018,Southend,4-0,4-0,Gillingham
+Tue Apr 3 2018,Bury,0-2,0-2,Rochdale
+Sat Apr 7 2018,AFC Wimbledon,1-1,1-0,Scunthorpe
+Sat Apr 7 2018,Blackburn,1-0,0-0,Southend
+Sat Apr 7 2018,Blackpool,5-0,3-0,Bradford
+Sat Apr 7 2018,Bristol Rvs,1-1,1-1,Charlton
+Sat Apr 7 2018,Gillingham,0-0,0-0,Doncaster
+Sat Apr 7 2018,Oxford,0-0,0-0,Oldham
+Sat Apr 7 2018,Plymouth,2-1,1-1,Peterboro
+Sat Apr 7 2018,Rochdale,3-3,1-1,Portsmouth
+Sat Apr 7 2018,Rotherham,3-2,1-1,Fleetwood Town
+Sat Apr 7 2018,Walsall,1-0,0-0,Bury
+Sat Apr 7 2018,Wigan,5-1,2-1,Milton Keynes Dons
+Tue Apr 10 2018,AFC Wimbledon,1-0,1-0,Charlton
+Tue Apr 10 2018,Blackpool,3-0,1-0,Northampton
+Tue Apr 10 2018,Gillingham,0-0,0-0,Blackburn
+Tue Apr 10 2018,Oxford,0-1,0-0,Fleetwood Town
+Tue Apr 10 2018,Rochdale,1-4,0-1,Wigan
+Wed Apr 11 2018,Oldham,1-1,1-1,Walsall
+Thu Apr 12 2018,Bradford,0-0,0-0,Shrewsbury
+Sat Apr 14 2018,Blackpool,2-1,0-0,Fleetwood Town
+Sat Apr 14 2018,Bristol Rvs,1-1,0-0,Blackburn
+Sat Apr 14 2018,Bury,2-3,1-2,Northampton
+Sat Apr 14 2018,Charlton,0-1,0-1,Scunthorpe
+Sat Apr 14 2018,Milton Keynes Dons,1-2,1-0,Doncaster
+Sat Apr 14 2018,Oldham,1-1,1-0,Gillingham
+Sat Apr 14 2018,Oxford,2-0,2-0,Southend
+Sat Apr 14 2018,Peterboro,0-1,0-1,Rochdale
+Sat Apr 14 2018,Plymouth,0-0,0-0,Portsmouth
+Sat Apr 14 2018,Walsall,2-3,2-0,AFC Wimbledon
+Sat Apr 14 2018,Wigan,0-0,0-0,Rotherham
+Tue Apr 17 2018,Bradford,3-1,1-0,Portsmouth
+Tue Apr 17 2018,Doncaster,3-3,2-1,Bury
+Tue Apr 17 2018,Gillingham,0-1,0-1,Rotherham
+Tue Apr 17 2018,Rochdale,0-0,0-0,Oldham
+Tue Apr 17 2018,Shrewsbury,0-2,0-0,Charlton
+Tue Apr 17 2018,Wigan,1-0,0-0,Oxford
+Thu Apr 19 2018,Blackburn,3-1,0-1,Peterboro
+Sat Apr 21 2018,AFC Wimbledon,2-2,1-0,Oldham
+Sat Apr 21 2018,Doncaster,0-1,0-0,Oxford
+Sat Apr 21 2018,Fleetwood Town,0-4,0-2,Wigan
+Sat Apr 21 2018,Gillingham,0-3,0-2,Blackpool
+Sat Apr 21 2018,Northampton,2-0,1-0,Plymouth
+Sat Apr 21 2018,Portsmouth,0-1,0-1,Charlton
+Sat Apr 21 2018,Rochdale,1-1,1-0,Bradford
+Sat Apr 21 2018,Rotherham,2-0,1-0,Bristol Rvs
+Sat Apr 21 2018,Scunthorpe,1-0,0-0,Walsall
+Sat Apr 21 2018,Shrewsbury,1-1,1-0,Bury
+Sat Apr 21 2018,Southend,4-0,2-0,Milton Keynes Dons
+Tue Apr 24 2018,Bradford,2-0,1-0,Milton Keynes Dons
+Tue Apr 24 2018,Bristol Rvs,1-1,1-0,Wigan
+Tue Apr 24 2018,Doncaster,0-1,0-0,Blackburn
+Tue Apr 24 2018,Oldham,0-3,0-1,Southend
+Tue Apr 24 2018,Rochdale,1-1,0-0,Plymouth
+Tue Apr 24 2018,Shrewsbury,3-1,0-1,Peterboro
+Sat Apr 28 2018,Blackpool,1-1,0-1,Shrewsbury
+Sat Apr 28 2018,Bradford,0-2,0-0,Southend
+Sat Apr 28 2018,Bristol Rvs,1-1,0-0,Gillingham
+Sat Apr 28 2018,Bury,1-0,0-0,Portsmouth
+Sat Apr 28 2018,Charlton,1-0,1-0,Blackburn
+Sat Apr 28 2018,Milton Keynes Dons,0-2,0-2,Scunthorpe
+Sat Apr 28 2018,Oldham,0-0,0-0,Doncaster
+Sat Apr 28 2018,Oxford,2-1,0-0,Rochdale
+Sat Apr 28 2018,Peterboro,2-0,0-0,Fleetwood Town
+Sat Apr 28 2018,Plymouth,2-1,0-1,Rotherham
+Sat Apr 28 2018,Walsall,1-0,0-0,Northampton
+Sat Apr 28 2018,Wigan,1-1,0-1,AFC Wimbledon
+Tue May 1 2018,Bradford,1-1,1-1,Walsall
+Tue May 1 2018,Doncaster,0-0,0-0,AFC Wimbledon
+Tue May 1 2018,Scunthorpe,2-0,1-0,Plymouth
+Sat May 5 2018,AFC Wimbledon,2-2,2-0,Bury
+Sat May 5 2018,Blackburn,2-1,1-0,Oxford
+Sat May 5 2018,Doncaster,0-1,0-0,Wigan
+Sat May 5 2018,Fleetwood Town,2-0,2-0,Walsall
+Sat May 5 2018,Gillingham,5-2,3-1,Plymouth
+Sat May 5 2018,Northampton,2-2,2-1,Oldham
+Sat May 5 2018,Portsmouth,2-0,2-0,Peterboro
+Sat May 5 2018,Rochdale,1-0,0-0,Charlton
+Sat May 5 2018,Rotherham,1-0,0-0,Blackpool
+Sat May 5 2018,Scunthorpe,1-1,0-0,Bradford
+Sat May 5 2018,Shrewsbury,0-1,0-0,Milton Keynes Dons
+Sat May 5 2018,Southend,0-0,0-0,Bristol Rvs

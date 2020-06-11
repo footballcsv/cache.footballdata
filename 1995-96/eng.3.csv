@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 12 1995,Bradford,1-0,?,Bournemouth
+Sat Aug 12 1995,Bristol City,1-1,?,Blackpool
+Sat Aug 12 1995,Burnley,2-1,?,Rotherham
+Sat Aug 12 1995,Carlisle,1-2,?,Bristol Rvs
+Sat Aug 12 1995,Hull,0-1,?,Swindon
+Sat Aug 12 1995,Oxford,1-0,?,Chesterfield
+Sat Aug 12 1995,Peterboro,3-1,?,Brighton
+Sat Aug 12 1995,Swansea,3-1,?,Shrewsbury
+Sat Aug 12 1995,Walsall,0-2,?,Stockport
+Sat Aug 12 1995,Wrexham,1-1,?,Notts County
+Sat Aug 12 1995,Wycombe,1-1,?,Crewe
+Sat Aug 12 1995,York,2-2,?,Brentford
+Sat Aug 19 1995,Blackpool,2-0,?,Wrexham
+Sat Aug 19 1995,Bournemouth,3-0,?,Peterboro
+Sat Aug 19 1995,Brentford,1-0,?,Oxford
+Sat Aug 19 1995,Brighton,0-0,?,Bradford
+Sat Aug 19 1995,Bristol Rvs,2-2,?,Swansea
+Sat Aug 19 1995,Chesterfield,3-0,?,Carlisle
+Sat Aug 19 1995,Notts County,2-0,?,Wycombe
+Sat Aug 19 1995,Rotherham,1-1,?,Hull
+Sat Aug 19 1995,Shrewsbury,0-2,?,Walsall
+Sat Aug 19 1995,Stockport,0-0,?,Burnley
+Sat Aug 19 1995,Swindon,3-0,?,York
+Sat Aug 26 1995,Bradford,3-1,?,Shrewsbury
+Sat Aug 26 1995,Bristol City,1-0,?,Stockport
+Sat Aug 26 1995,Burnley,1-0,?,Brentford
+Sat Aug 26 1995,Carlisle,0-1,?,Swindon
+Sat Aug 26 1995,Hull,2-1,?,Blackpool
+Sat Aug 26 1995,Oxford,1-1,?,Rotherham
+Sat Aug 26 1995,Peterboro,0-1,?,Notts County
+Sat Aug 26 1995,Swansea,3-2,?,Chesterfield
+Sat Aug 26 1995,Walsall,1-1,?,Bristol Rvs
+Sat Aug 26 1995,Wrexham,1-1,?,Brighton
+Sat Aug 26 1995,Wycombe,1-2,?,Bournemouth
+Sat Aug 26 1995,York,2-3,?,Crewe
+Tue Aug 29 1995,Blackpool,2-1,?,Peterboro
+Tue Aug 29 1995,Bournemouth,1-1,?,Wrexham
+Tue Aug 29 1995,Brentford,1-0,?,Hull
+Tue Aug 29 1995,Brighton,1-2,?,Wycombe
+Tue Aug 29 1995,Bristol Rvs,1-0,?,Burnley
+Tue Aug 29 1995,Chesterfield,2-1,?,York
+Tue Aug 29 1995,Crewe,1-0,?,Walsall
+Tue Aug 29 1995,Notts County,0-2,?,Bradford
+Tue Aug 29 1995,Rotherham,2-2,?,Carlisle
+Tue Aug 29 1995,Shrewsbury,4-1,?,Bristol City
+Tue Aug 29 1995,Stockport,2-0,?,Swansea
+Wed Aug 30 1995,Swindon,1-1,?,Oxford
+Fri Sep 1 1995,Swansea,1-1,?,Carlisle
+Sat Sep 2 1995,Bournemouth,2-1,?,Rotherham
+Sat Sep 2 1995,Bradford,0-4,?,Wycombe
+Sat Sep 2 1995,Brentford,0-2,?,Swindon
+Sat Sep 2 1995,Brighton,1-0,?,Notts County
+Sat Sep 2 1995,Bristol Rvs,1-2,?,Wrexham
+Sat Sep 2 1995,Chesterfield,0-0,?,Hull
+Sat Sep 2 1995,Peterboro,1-1,?,Bristol City
+Sat Sep 2 1995,Shrewsbury,0-2,?,Blackpool
+Sat Sep 2 1995,Stockport,1-1,?,Crewe
+Sun Sep 3 1995,Oxford,2-0,?,York
+Wed Sep 6 1995,Burnley,1-1,?,Walsall
+Sat Sep 9 1995,Blackpool,0-1,?,Stockport
+Sat Sep 9 1995,Bristol City,0-1,?,Brighton
+Sat Sep 9 1995,Carlisle,2-0,?,Burnley
+Sat Sep 9 1995,Crewe,3-0,?,Shrewsbury
+Sat Sep 9 1995,Hull,0-0,?,Oxford
+Sat Sep 9 1995,Notts County,2-0,?,Bournemouth
+Sat Sep 9 1995,Rotherham,1-0,?,Brentford
+Sat Sep 9 1995,Swindon,1-1,?,Chesterfield
+Sat Sep 9 1995,Walsall,4-1,?,Swansea
+Sat Sep 9 1995,Wrexham,1-2,?,Bradford
+Sat Sep 9 1995,Wycombe,1-1,?,Peterboro
+Sat Sep 9 1995,York,0-1,?,Bristol Rvs
+Tue Sep 12 1995,Blackpool,2-1,?,Bournemouth
+Tue Sep 12 1995,Bristol City,0-0,?,Brentford
+Tue Sep 12 1995,Carlisle,1-1,?,Peterboro
+Tue Sep 12 1995,Crewe,3-1,?,Brighton
+Tue Sep 12 1995,Hull,0-0,?,Swansea
+Tue Sep 12 1995,Notts County,1-0,?,Stockport
+Tue Sep 12 1995,Rotherham,1-0,?,Bristol Rvs
+Tue Sep 12 1995,Walsall,2-2,?,Oxford
+Tue Sep 12 1995,Wrexham,1-1,?,Shrewsbury
+Tue Sep 12 1995,Wycombe,1-0,?,Chesterfield
+Tue Sep 12 1995,York,1-1,?,Burnley
+Wed Sep 13 1995,Swindon,4-1,?,Bradford
+Sat Sep 16 1995,Bournemouth,0-4,?,Crewe
+Sat Sep 16 1995,Bradford,3-0,?,Bristol City
+Sat Sep 16 1995,Brentford,1-0,?,Walsall
+Sat Sep 16 1995,Brighton,1-2,?,Blackpool
+Sat Sep 16 1995,Bristol Rvs,1-4,?,Swindon
+Sat Sep 16 1995,Burnley,2-1,?,Hull
+Sat Sep 16 1995,Chesterfield,3-0,?,Rotherham
+Sat Sep 16 1995,Oxford,4-0,?,Carlisle
+Sat Sep 16 1995,Peterboro,1-0,?,Wrexham
+Sat Sep 16 1995,Shrewsbury,0-1,?,Notts County
+Sat Sep 16 1995,Stockport,1-1,?,Wycombe
+Sat Sep 16 1995,Swansea,0-1,?,York
+Sat Sep 23 1995,Blackpool,2-1,?,Crewe
+Sat Sep 23 1995,Bristol Rvs,2-0,?,Brentford
+Sat Sep 23 1995,Carlisle,2-0,?,Hull
+Sat Sep 23 1995,Chesterfield,4-2,?,Burnley
+Sat Sep 23 1995,Notts County,2-2,?,Bristol City
+Sat Sep 23 1995,Peterboro,3-1,?,Bradford
+Sat Sep 23 1995,Shrewsbury,1-2,?,Stockport
+Sat Sep 23 1995,Swansea,1-1,?,Oxford
+Sat Sep 23 1995,Swindon,1-0,?,Rotherham
+Sat Sep 23 1995,Wycombe,1-1,?,Wrexham
+Sat Sep 23 1995,York,1-0,?,Walsall
+Sun Sep 24 1995,Bournemouth,3-1,?,Brighton
+Sat Sep 30 1995,Bradford,2-1,?,Blackpool
+Sat Sep 30 1995,Brentford,1-2,?,Chesterfield
+Sat Sep 30 1995,Brighton,2-2,?,Shrewsbury
+Sat Sep 30 1995,Bristol City,0-0,?,Wycombe
+Sat Sep 30 1995,Burnley,3-0,?,Swansea
+Sat Sep 30 1995,Crewe,2-2,?,Notts County
+Sat Sep 30 1995,Hull,0-3,?,York
+Sat Sep 30 1995,Oxford,1-2,?,Bristol Rvs
+Sat Sep 30 1995,Rotherham,5-1,?,Peterboro
+Sat Sep 30 1995,Stockport,3-1,?,Bournemouth
+Sat Sep 30 1995,Walsall,2-1,?,Carlisle
+Sat Sep 30 1995,Wrexham,4-3,?,Swindon
+Sat Oct 7 1995,Brentford,1-2,?,Blackpool
+Sat Oct 7 1995,Bristol Rvs,0-2,?,Bournemouth
+Sat Oct 7 1995,Burnley,1-1,?,Wycombe
+Sat Oct 7 1995,Carlisle,0-0,?,Notts County
+Sat Oct 7 1995,Chesterfield,1-2,?,Crewe
+Sat Oct 7 1995,Hull,2-3,?,Shrewsbury
+Sat Oct 7 1995,Oxford,2-1,?,Stockport
+Sat Oct 7 1995,Rotherham,1-0,?,Brighton
+Sat Oct 7 1995,Swansea,2-0,?,Bradford
+Sat Oct 7 1995,Swindon,2-0,?,Bristol City
+Sat Oct 7 1995,Walsall,1-1,?,Peterboro
+Sat Oct 7 1995,York,1-0,?,Wrexham
+Sat Oct 14 1995,Blackpool,0-0,?,Chesterfield
+Sat Oct 14 1995,Bournemouth,0-2,?,Burnley
+Sat Oct 14 1995,Bradford,2-3,?,Bristol Rvs
+Sat Oct 14 1995,Brighton,1-3,?,Swindon
+Sat Oct 14 1995,Bristol City,4-0,?,Hull
+Sat Oct 14 1995,Crewe,2-1,?,Carlisle
+Sat Oct 14 1995,Notts County,2-1,?,Rotherham
+Sat Oct 14 1995,Peterboro,1-1,?,Swansea
+Sat Oct 14 1995,Shrewsbury,2-1,?,York
+Sat Oct 14 1995,Stockport,1-1,?,Brentford
+Sat Oct 14 1995,Wrexham,2-1,?,Oxford
+Sat Oct 14 1995,Wycombe,1-0,?,Walsall
+Sat Oct 21 1995,Brentford,3-0,?,Peterboro
+Sat Oct 21 1995,Bristol Rvs,0-3,?,Notts County
+Sat Oct 21 1995,Burnley,3-0,?,Brighton
+Sat Oct 21 1995,Carlisle,2-2,?,Bradford
+Sat Oct 21 1995,Chesterfield,1-0,?,Shrewsbury
+Sat Oct 21 1995,Hull,1-1,?,Stockport
+Sat Oct 21 1995,Oxford,1-4,?,Wycombe
+Sat Oct 21 1995,Rotherham,2-1,?,Blackpool
+Sat Oct 21 1995,Swansea,1-1,?,Bournemouth
+Sat Oct 21 1995,Swindon,2-1,?,Crewe
+Sat Oct 21 1995,Walsall,1-2,?,Wrexham
+Sat Oct 21 1995,York,0-1,?,Bristol City
+Sat Oct 28 1995,Blackpool,1-1,?,Oxford
+Sat Oct 28 1995,Bournemouth,2-0,?,Carlisle
+Sat Oct 28 1995,Bradford,2-2,?,Burnley
+Sat Oct 28 1995,Brighton,2-0,?,Bristol Rvs
+Sat Oct 28 1995,Bristol City,0-2,?,Walsall
+Sat Oct 28 1995,Crewe,3-1,?,Brentford
+Sat Oct 28 1995,Notts County,1-3,?,Swindon
+Sat Oct 28 1995,Peterboro,6-1,?,York
+Sat Oct 28 1995,Shrewsbury,3-1,?,Rotherham
+Sat Oct 28 1995,Stockport,0-1,?,Chesterfield
+Sat Oct 28 1995,Wrexham,1-0,?,Swansea
+Sat Oct 28 1995,Wycombe,2-2,?,Hull
+Tue Oct 31 1995,Blackpool,3-0,?,Bristol Rvs
+Tue Oct 31 1995,Bournemouth,0-0,?,Swindon
+Tue Oct 31 1995,Bradford,1-0,?,Walsall
+Tue Oct 31 1995,Brighton,0-2,?,Swansea
+Tue Oct 31 1995,Bristol City,2-1,?,Chesterfield
+Tue Oct 31 1995,Crewe,1-0,?,Hull
+Tue Oct 31 1995,Peterboro,0-2,?,Burnley
+Tue Oct 31 1995,Shrewsbury,2-0,?,Oxford
+Tue Oct 31 1995,Stockport,1-1,?,Rotherham
+Tue Oct 31 1995,Wrexham,3-2,?,Carlisle
+Tue Oct 31 1995,Wycombe,2-1,?,York
+Wed Nov 1 1995,Notts County,4-0,?,Brentford
+Sat Nov 4 1995,Brentford,0-2,?,Shrewsbury
+Sat Nov 4 1995,Bristol Rvs,1-1,?,Peterboro
+Sat Nov 4 1995,Burnley,3-4,?,Notts County
+Sat Nov 4 1995,Carlisle,1-0,?,Brighton
+Sat Nov 4 1995,Chesterfield,2-1,?,Bradford
+Sat Nov 4 1995,Hull,1-1,?,Wrexham
+Sat Nov 4 1995,Oxford,2-0,?,Bristol City
+Sat Nov 4 1995,Rotherham,2-2,?,Crewe
+Sat Nov 4 1995,Swansea,1-2,?,Wycombe
+Sat Nov 4 1995,Swindon,1-1,?,Blackpool
+Sat Nov 4 1995,Walsall,0-0,?,Bournemouth
+Sat Nov 4 1995,York,2-2,?,Stockport
+Sat Nov 18 1995,Blackpool,1-3,?,York
+Sat Nov 18 1995,Bournemouth,1-0,?,Brentford
+Sat Nov 18 1995,Bradford,1-1,?,Hull
+Sat Nov 18 1995,Brighton,0-3,?,Walsall
+Sat Nov 18 1995,Bristol City,1-1,?,Carlisle
+Sat Nov 18 1995,Crewe,4-1,?,Swansea
+Sat Nov 18 1995,Notts County,4-1,?,Chesterfield
+Sat Nov 18 1995,Peterboro,1-1,?,Oxford
+Sat Nov 18 1995,Shrewsbury,3-0,?,Burnley
+Sat Nov 18 1995,Stockport,1-1,?,Swindon
+Sat Nov 18 1995,Wrexham,7-0,?,Rotherham
+Sat Nov 18 1995,Wycombe,1-1,?,Bristol Rvs
+Sat Nov 25 1995,Brentford,2-1,?,Bradford
+Sat Nov 25 1995,Bristol Rvs,1-3,?,Stockport
+Sat Nov 25 1995,Burnley,2-2,?,Wrexham
+Sat Nov 25 1995,Chesterfield,3-0,?,Bournemouth
+Sat Nov 25 1995,Hull,2-3,?,Peterboro
+Sat Nov 25 1995,Oxford,1-0,?,Crewe
+Sat Nov 25 1995,Rotherham,2-3,?,Bristol City
+Sat Nov 25 1995,Swansea,0-0,?,Notts County
+Sat Nov 25 1995,Swindon,0-1,?,Shrewsbury
+Sat Nov 25 1995,Walsall,1-1,?,Blackpool
+Sat Nov 25 1995,York,3-1,?,Brighton
+Sun Nov 26 1995,Carlisle,4-2,?,Wycombe
+Sat Dec 2 1995,Burnley,2-0,?,Carlisle
+Sat Dec 2 1995,Swansea,0-0,?,Rotherham
+Tue Dec 5 1995,Crewe,4-2,?,Bristol City
+Sat Dec 9 1995,Bradford,2-1,?,Peterboro
+Sat Dec 9 1995,Brentford,0-0,?,Bristol Rvs
+Sat Dec 9 1995,Brighton,2-0,?,Bournemouth
+Sat Dec 9 1995,Bristol City,0-2,?,Notts County
+Sat Dec 9 1995,Burnley,2-2,?,Chesterfield
+Sat Dec 9 1995,Crewe,1-2,?,Blackpool
+Sat Dec 9 1995,Hull,2-5,?,Carlisle
+Sat Dec 9 1995,Oxford,5-1,?,Swansea
+Sat Dec 9 1995,Rotherham,0-2,?,Swindon
+Sat Dec 9 1995,Stockport,0-2,?,Shrewsbury
+Sat Dec 9 1995,Walsall,2-0,?,York
+Sat Dec 9 1995,Wrexham,1-0,?,Wycombe
+Sat Dec 16 1995,Blackpool,4-1,?,Bradford
+Sat Dec 16 1995,Bournemouth,3-2,?,Stockport
+Sat Dec 16 1995,Bristol Rvs,2-0,?,Oxford
+Sat Dec 16 1995,Carlisle,1-1,?,Walsall
+Sat Dec 16 1995,Chesterfield,2-2,?,Brentford
+Sat Dec 16 1995,Notts County,0-1,?,Crewe
+Sat Dec 16 1995,Peterboro,1-0,?,Rotherham
+Sat Dec 16 1995,Shrewsbury,2-1,?,Brighton
+Sat Dec 16 1995,Swansea,2-4,?,Burnley
+Sat Dec 16 1995,Swindon,1-1,?,Wrexham
+Sat Dec 16 1995,Wycombe,1-1,?,Bristol City
+Sat Dec 16 1995,York,0-1,?,Hull
+Sun Dec 17 1995,Peterboro,0-1,?,Stockport
+Fri Dec 22 1995,Brighton,0-2,?,Chesterfield
+Fri Dec 22 1995,Wrexham,2-2,?,Brentford
+Sat Dec 23 1995,Bournemouth,2-0,?,Hull
+Sat Dec 23 1995,Bradford,1-0,?,Oxford
+Sat Dec 23 1995,Bristol Rvs,1-2,?,Crewe
+Sat Dec 23 1995,Burnley,0-0,?,Bristol City
+Sat Dec 23 1995,Notts County,1-1,?,Blackpool
+Sat Dec 23 1995,Walsall,0-0,?,Swindon
+Sat Dec 23 1995,Wycombe,2-0,?,Shrewsbury
+Tue Dec 26 1995,Brentford,0-1,?,Brighton
+Tue Dec 26 1995,Bristol City,1-0,?,Swansea
+Tue Dec 26 1995,Chesterfield,1-1,?,Peterboro
+Tue Dec 26 1995,Crewe,0-0,?,Wrexham
+Tue Dec 26 1995,Oxford,2-0,?,Bournemouth
+Tue Dec 26 1995,Rotherham,0-1,?,Walsall
+Tue Dec 26 1995,Shrewsbury,1-1,?,Bristol Rvs
+Tue Dec 26 1995,Stockport,2-0,?,Carlisle
+Tue Dec 26 1995,Swindon,0-0,?,Wycombe
+Tue Dec 26 1995,York,0-3,?,Bradford
+Sat Dec 30 1995,Shrewsbury,1-1,?,Carlisle
+Mon Jan 1 1996,Brighton,1-1,?,Stockport
+Mon Jan 1 1996,Carlisle,1-2,?,Blackpool
+Tue Jan 2 1996,Bournemouth,0-2,?,Shrewsbury
+Sat Jan 6 1996,Bournemouth,1-1,?,Bristol City
+Sat Jan 6 1996,Bristol Rvs,2-1,?,Hull
+Sat Jan 6 1996,Rotherham,2-2,?,York
+Wed Jan 10 1996,Stockport,1-2,?,Bradford
+Wed Jan 10 1996,Swindon,3-0,?,Swansea
+Sat Jan 13 1996,Bradford,1-3,?,Brighton
+Sat Jan 13 1996,Bristol City,3-2,?,Crewe
+Sat Jan 13 1996,Burnley,4-3,?,Stockport
+Sat Jan 13 1996,Carlisle,1-1,?,Chesterfield
+Sat Jan 13 1996,Hull,1-4,?,Rotherham
+Sat Jan 13 1996,Oxford,2-1,?,Brentford
+Sat Jan 13 1996,Peterboro,4-5,?,Bournemouth
+Sat Jan 13 1996,Swansea,2-2,?,Bristol Rvs
+Sat Jan 13 1996,Walsall,3-0,?,Shrewsbury
+Sat Jan 13 1996,Wrexham,1-1,?,Blackpool
+Sat Jan 13 1996,Wycombe,1-1,?,Notts County
+Sat Jan 13 1996,York,2-0,?,Swindon
+Tue Jan 16 1996,Bristol City,0-2,?,Bristol Rvs
+Sat Jan 20 1996,Blackpool,3-0,?,Bristol City
+Sat Jan 20 1996,Bournemouth,3-1,?,Bradford
+Sat Jan 20 1996,Brentford,2-0,?,York
+Sat Jan 20 1996,Brighton,1-2,?,Peterboro
+Sat Jan 20 1996,Bristol Rvs,1-1,?,Carlisle
+Sat Jan 20 1996,Chesterfield,1-0,?,Oxford
+Sat Jan 20 1996,Crewe,2-0,?,Wycombe
+Sat Jan 20 1996,Notts County,1-0,?,Wrexham
+Sat Jan 20 1996,Rotherham,1-0,?,Burnley
+Sat Jan 20 1996,Shrewsbury,1-2,?,Swansea
+Sat Jan 20 1996,Stockport,0-1,?,Walsall
+Sat Jan 20 1996,Swindon,3-0,?,Hull
+Tue Jan 23 1996,Blackpool,1-1,?,Wycombe
+Tue Jan 23 1996,Hull,0-0,?,Brighton
+Tue Jan 23 1996,Rotherham,2-0,?,Bradford
+Tue Jan 23 1996,Wrexham,0-0,?,Bristol City
+Tue Jan 30 1996,Brentford,1-0,?,Wycombe
+Tue Jan 30 1996,Burnley,0-2,?,Oxford
+Wed Jan 31 1996,Bradford,2-1,?,Crewe
+Sat Feb 3 1996,Blackpool,1-1,?,Hull
+Sat Feb 3 1996,Bournemouth,2-3,?,Wycombe
+Sat Feb 3 1996,Brentford,1-0,?,Burnley
+Sat Feb 3 1996,Brighton,2-2,?,Wrexham
+Sat Feb 3 1996,Bristol Rvs,2-0,?,Walsall
+Sat Feb 3 1996,Chesterfield,3-2,?,Swansea
+Sat Feb 3 1996,Notts County,1-0,?,Peterboro
+Sat Feb 3 1996,Rotherham,1-0,?,Oxford
+Sat Feb 3 1996,Shrewsbury,1-1,?,Bradford
+Sat Feb 3 1996,Swindon,2-1,?,Carlisle
+Tue Feb 6 1996,Swansea,0-3,?,Stockport
+Sat Feb 10 1996,Bradford,0-1,?,Stockport
+Sat Feb 10 1996,Bristol City,3-0,?,Bournemouth
+Sat Feb 10 1996,Burnley,0-1,?,Crewe
+Sat Feb 10 1996,Carlisle,2-1,?,Brentford
+Sat Feb 10 1996,Hull,1-3,?,Bristol Rvs
+Sat Feb 10 1996,Oxford,1-1,?,Brighton
+Sat Feb 10 1996,Peterboro,2-2,?,Shrewsbury
+Sat Feb 10 1996,Swansea,0-1,?,Swindon
+Sat Feb 10 1996,Walsall,0-0,?,Notts County
+Sat Feb 10 1996,Wycombe,0-1,?,Blackpool
+Sat Feb 10 1996,York,2-2,?,Rotherham
+Tue Feb 13 1996,Blackpool,4-0,?,Swansea
+Tue Feb 13 1996,Bristol City,2-0,?,Shrewsbury
+Tue Feb 13 1996,Stockport,2-3,?,Wrexham
+Sat Feb 17 1996,Bournemouth,1-0,?,Blackpool
+Sat Feb 17 1996,Brentford,2-2,?,Bristol City
+Sat Feb 17 1996,Brighton,2-2,?,Crewe
+Sat Feb 17 1996,Bristol Rvs,1-0,?,Rotherham
+Sat Feb 17 1996,Burnley,3-3,?,York
+Sat Feb 17 1996,Chesterfield,3-1,?,Wycombe
+Sat Feb 17 1996,Oxford,3-2,?,Walsall
+Sat Feb 17 1996,Peterboro,6-1,?,Carlisle
+Sat Feb 17 1996,Stockport,2-0,?,Notts County
+Sat Feb 17 1996,Swansea,0-0,?,Hull
+Tue Feb 20 1996,Blackpool,2-1,?,Shrewsbury
+Tue Feb 20 1996,Bristol City,0-1,?,Peterboro
+Tue Feb 20 1996,Carlisle,3-0,?,Swansea
+Tue Feb 20 1996,Crewe,0-1,?,Stockport
+Tue Feb 20 1996,Rotherham,1-0,?,Bournemouth
+Tue Feb 20 1996,Wrexham,3-2,?,Bristol Rvs
+Tue Feb 20 1996,York,1-0,?,Oxford
+Wed Feb 21 1996,Swindon,2-2,?,Brentford
+Sat Feb 24 1996,Blackpool,2-1,?,Brighton
+Sat Feb 24 1996,Bristol City,2-1,?,Bradford
+Sat Feb 24 1996,Carlisle,1-2,?,Oxford
+Sat Feb 24 1996,Crewe,2-0,?,Bournemouth
+Sat Feb 24 1996,Hull,3-0,?,Burnley
+Sat Feb 24 1996,Notts County,1-1,?,Shrewsbury
+Sat Feb 24 1996,Rotherham,0-1,?,Chesterfield
+Sat Feb 24 1996,Swindon,2-1,?,Bristol Rvs
+Sat Feb 24 1996,Walsall,0-1,?,Brentford
+Sat Feb 24 1996,Wrexham,1-0,?,Peterboro
+Sat Feb 24 1996,Wycombe,4-1,?,Stockport
+Sat Feb 24 1996,York,0-0,?,Swansea
+Tue Feb 27 1996,Bournemouth,0-2,?,Notts County
+Tue Feb 27 1996,Bradford,2-0,?,Wrexham
+Tue Feb 27 1996,Brentford,1-1,?,Rotherham
+Tue Feb 27 1996,Brighton,0-2,?,Bristol City
+Tue Feb 27 1996,Bristol Rvs,1-0,?,York
+Tue Feb 27 1996,Oxford,2-0,?,Hull
+Tue Feb 27 1996,Peterboro,3-0,?,Wycombe
+Tue Feb 27 1996,Shrewsbury,2-3,?,Crewe
+Tue Feb 27 1996,Stockport,1-1,?,Blackpool
+Tue Feb 27 1996,Swansea,2-1,?,Walsall
+Sat Mar 2 1996,Bournemouth,0-1,?,Oxford
+Sat Mar 2 1996,Bradford,2-2,?,York
+Sat Mar 2 1996,Brighton,0-0,?,Brentford
+Sat Mar 2 1996,Bristol Rvs,2-1,?,Shrewsbury
+Sat Mar 2 1996,Burnley,0-1,?,Blackpool
+Sat Mar 2 1996,Carlisle,0-1,?,Stockport
+Sat Mar 2 1996,Notts County,1-0,?,Hull
+Sat Mar 2 1996,Peterboro,0-1,?,Chesterfield
+Sat Mar 2 1996,Swansea,2-1,?,Bristol City
+Sat Mar 2 1996,Walsall,3-1,?,Rotherham
+Sat Mar 2 1996,Wrexham,2-3,?,Crewe
+Sat Mar 2 1996,Wycombe,1-2,?,Swindon
+Tue Mar 5 1996,Crewe,1-1,?,York
+Tue Mar 5 1996,Hull,0-1,?,Brentford
+Tue Mar 5 1996,Peterboro,0-2,?,Swindon
+Tue Mar 5 1996,Wrexham,3-0,?,Chesterfield
+Wed Mar 6 1996,Notts County,2-1,?,Walsall
+Wed Mar 6 1996,Wycombe,0-2,?,Brighton
+Sat Mar 9 1996,Blackpool,2-0,?,Notts County
+Sat Mar 9 1996,Brentford,1-0,?,Wrexham
+Sat Mar 9 1996,Bristol City,0-1,?,Burnley
+Sat Mar 9 1996,Chesterfield,1-0,?,Brighton
+Sat Mar 9 1996,Crewe,1-2,?,Bristol Rvs
+Sat Mar 9 1996,Hull,1-1,?,Bournemouth
+Sat Mar 9 1996,Oxford,2-0,?,Bradford
+Sat Mar 9 1996,Rotherham,1-1,?,Swansea
+Sat Mar 9 1996,Shrewsbury,1-1,?,Wycombe
+Sat Mar 9 1996,Stockport,0-1,?,Peterboro
+Sat Mar 9 1996,Swindon,1-1,?,Walsall
+Sat Mar 9 1996,York,1-1,?,Carlisle
+Tue Mar 12 1996,Blackpool,3-1,?,Burnley
+Tue Mar 12 1996,Brighton,1-2,?,Oxford
+Tue Mar 12 1996,Hull,0-0,?,Chesterfield
+Tue Mar 12 1996,Notts County,2-2,?,York
+Tue Mar 12 1996,Swansea,2-1,?,Brentford
+Tue Mar 12 1996,Walsall,3-2,?,Crewe
+Tue Mar 12 1996,Wrexham,5-0,?,Bournemouth
+Sat Mar 16 1996,Bournemouth,2-2,?,York
+Sat Mar 16 1996,Bradford,2-0,?,Rotherham
+Sat Mar 16 1996,Brighton,4-0,?,Hull
+Sat Mar 16 1996,Bristol Rvs,2-4,?,Bristol City
+Sat Mar 16 1996,Burnley,0-0,?,Swindon
+Sat Mar 16 1996,Carlisle,1-1,?,Shrewsbury
+Sat Mar 16 1996,Notts County,1-1,?,Oxford
+Sat Mar 16 1996,Peterboro,3-1,?,Crewe
+Sat Mar 16 1996,Swansea,0-2,?,Blackpool
+Sat Mar 16 1996,Walsall,3-0,?,Chesterfield
+Sat Mar 16 1996,Wrexham,2-3,?,Stockport
+Sat Mar 16 1996,Wycombe,2-1,?,Brentford
+Tue Mar 19 1996,Bradford,1-0,?,Notts County
+Tue Mar 19 1996,Brentford,1-1,?,Carlisle
+Tue Mar 19 1996,Chesterfield,1-1,?,Wrexham
+Tue Mar 19 1996,Crewe,3-1,?,Burnley
+Tue Mar 19 1996,Oxford,3-0,?,Swindon
+Tue Mar 19 1996,Shrewsbury,1-1,?,Peterboro
+Tue Mar 19 1996,Stockport,0-0,?,Bristol City
+Sat Mar 23 1996,Blackpool,3-1,?,Carlisle
+Sat Mar 23 1996,Brentford,0-0,?,Swansea
+Sat Mar 23 1996,Bristol City,3-1,?,Wrexham
+Sat Mar 23 1996,Chesterfield,2-1,?,Bristol Rvs
+Sat Mar 23 1996,Crewe,1-2,?,Bradford
+Sat Mar 23 1996,Hull,1-0,?,Walsall
+Sat Mar 23 1996,Oxford,5-0,?,Burnley
+Sat Mar 23 1996,Rotherham,0-0,?,Wycombe
+Sat Mar 23 1996,Shrewsbury,1-2,?,Bournemouth
+Sat Mar 23 1996,Stockport,3-1,?,Brighton
+Sat Mar 23 1996,Swindon,2-0,?,Peterboro
+Sat Mar 23 1996,York,1-3,?,Notts County
+Tue Mar 26 1996,Bristol Rvs,1-0,?,Chesterfield
+Tue Mar 26 1996,Carlisle,2-0,?,Rotherham
+Tue Mar 26 1996,Hull,0-0,?,Notts County
+Tue Mar 26 1996,Peterboro,0-0,?,Blackpool
+Tue Mar 26 1996,Wycombe,5-2,?,Bradford
+Tue Mar 26 1996,York,3-1,?,Bournemouth
+Sat Mar 30 1996,Blackpool,1-0,?,Brentford
+Sat Mar 30 1996,Bournemouth,2-1,?,Bristol Rvs
+Sat Mar 30 1996,Bradford,5-1,?,Swansea
+Sat Mar 30 1996,Brighton,1-1,?,Rotherham
+Sat Mar 30 1996,Bristol City,0-0,?,Swindon
+Sat Mar 30 1996,Crewe,3-0,?,Chesterfield
+Sat Mar 30 1996,Notts County,3-1,?,Carlisle
+Sat Mar 30 1996,Peterboro,2-3,?,Walsall
+Sat Mar 30 1996,Shrewsbury,1-1,?,Hull
+Sat Mar 30 1996,Stockport,4-2,?,Oxford
+Sat Mar 30 1996,Wrexham,2-3,?,York
+Sat Mar 30 1996,Wycombe,4-1,?,Burnley
+Tue Apr 2 1996,Brentford,1-0,?,Stockport
+Tue Apr 2 1996,Bristol Rvs,1-0,?,Bradford
+Tue Apr 2 1996,Burnley,0-0,?,Bournemouth
+Tue Apr 2 1996,Carlisle,1-0,?,Crewe
+Tue Apr 2 1996,Chesterfield,1-0,?,Blackpool
+Tue Apr 2 1996,Hull,2-3,?,Bristol City
+Tue Apr 2 1996,Oxford,0-0,?,Wrexham
+Tue Apr 2 1996,Rotherham,2-0,?,Notts County
+Tue Apr 2 1996,Swansea,0-0,?,Peterboro
+Tue Apr 2 1996,Walsall,0-1,?,Wycombe
+Tue Apr 2 1996,York,1-2,?,Shrewsbury
+Wed Apr 3 1996,Swindon,3-2,?,Brighton
+Sat Apr 6 1996,Brentford,2-1,?,Crewe
+Sat Apr 6 1996,Bristol Rvs,1-0,?,Brighton
+Sat Apr 6 1996,Burnley,2-3,?,Bradford
+Sat Apr 6 1996,Carlisle,4-0,?,Bournemouth
+Sat Apr 6 1996,Chesterfield,1-2,?,Stockport
+Sat Apr 6 1996,Hull,4-2,?,Wycombe
+Sat Apr 6 1996,Oxford,1-0,?,Blackpool
+Sat Apr 6 1996,Rotherham,2-2,?,Shrewsbury
+Sat Apr 6 1996,Swansea,1-3,?,Wrexham
+Sat Apr 6 1996,Swindon,1-0,?,Notts County
+Sat Apr 6 1996,Walsall,2-1,?,Bristol City
+Sat Apr 6 1996,York,3-1,?,Peterboro
+Mon Apr 8 1996,Blackpool,1-2,?,Rotherham
+Mon Apr 8 1996,Bradford,3-1,?,Carlisle
+Mon Apr 8 1996,Bristol City,1-1,?,York
+Mon Apr 8 1996,Crewe,0-2,?,Swindon
+Mon Apr 8 1996,Peterboro,0-1,?,Brentford
+Mon Apr 8 1996,Stockport,0-0,?,Hull
+Mon Apr 8 1996,Wrexham,3-0,?,Walsall
+Mon Apr 8 1996,Wycombe,0-3,?,Oxford
+Tue Apr 9 1996,Bournemouth,3-1,?,Swansea
+Tue Apr 9 1996,Brighton,1-0,?,Burnley
+Tue Apr 9 1996,Notts County,4-2,?,Bristol Rvs
+Tue Apr 9 1996,Shrewsbury,0-0,?,Chesterfield
+Sat Apr 13 1996,Brentford,0-0,?,Notts County
+Sat Apr 13 1996,Bristol Rvs,1-1,?,Blackpool
+Sat Apr 13 1996,Burnley,2-1,?,Peterboro
+Sat Apr 13 1996,Carlisle,1-2,?,Wrexham
+Sat Apr 13 1996,Chesterfield,1-1,?,Bristol City
+Sat Apr 13 1996,Hull,1-2,?,Crewe
+Sat Apr 13 1996,Swansea,2-1,?,Brighton
+Sat Apr 13 1996,Swindon,2-2,?,Bournemouth
+Sat Apr 13 1996,Walsall,2-1,?,Bradford
+Sat Apr 13 1996,York,2-1,?,Wycombe
+Tue Apr 16 1996,Chesterfield,1-1,?,Walsall
+Tue Apr 16 1996,Oxford,1-1,?,Notts County
+Tue Apr 16 1996,Wycombe,1-1,?,Rotherham
+Wed Apr 17 1996,Shrewsbury,2-2,?,Wrexham
+Wed Apr 17 1996,Swindon,0-0,?,Burnley
+Sat Apr 20 1996,Blackpool,1-1,?,Swindon
+Sat Apr 20 1996,Bournemouth,0-0,?,Walsall
+Sat Apr 20 1996,Bradford,2-1,?,Chesterfield
+Sat Apr 20 1996,Brighton,1-0,?,Carlisle
+Sat Apr 20 1996,Bristol City,0-2,?,Oxford
+Sat Apr 20 1996,Crewe,0-2,?,Rotherham
+Sat Apr 20 1996,Notts County,1-1,?,Burnley
+Sat Apr 20 1996,Peterboro,0-0,?,Bristol Rvs
+Sat Apr 20 1996,Shrewsbury,2-1,?,Brentford
+Sat Apr 20 1996,Stockport,3-0,?,York
+Sat Apr 20 1996,Wrexham,5-0,?,Hull
+Sat Apr 20 1996,Wycombe,0-1,?,Swansea
+Tue Apr 23 1996,Burnley,0-1,?,Bristol Rvs
+Tue Apr 23 1996,Carlisle,2-0,?,York
+Tue Apr 23 1996,Chesterfield,1-3,?,Swindon
+Tue Apr 23 1996,Notts County,2-1,?,Brighton
+Tue Apr 23 1996,Oxford,6-0,?,Shrewsbury
+Tue Apr 23 1996,Rotherham,2-0,?,Stockport
+Tue Apr 23 1996,Walsall,3-0,?,Hull
+Fri Apr 26 1996,Bradford,2-1,?,Brentford
+Sat Apr 27 1996,Blackpool,1-2,?,Walsall
+Sat Apr 27 1996,Bournemouth,2-0,?,Chesterfield
+Sat Apr 27 1996,Bristol City,4-3,?,Rotherham
+Sat Apr 27 1996,Crewe,1-2,?,Oxford
+Sat Apr 27 1996,Notts County,4-0,?,Swansea
+Sat Apr 27 1996,Peterboro,3-1,?,Hull
+Sat Apr 27 1996,Shrewsbury,1-2,?,Swindon
+Sat Apr 27 1996,Stockport,2-0,?,Bristol Rvs
+Sat Apr 27 1996,Wrexham,0-2,?,Burnley
+Sat Apr 27 1996,Wycombe,4-0,?,Carlisle
+Tue Apr 30 1996,Bradford,1-1,?,Swindon
+Tue Apr 30 1996,Crewe,2-1,?,Peterboro
+Tue Apr 30 1996,Walsall,3-1,?,Burnley
+Tue Apr 30 1996,York,0-1,?,Chesterfield
+Sat May 4 1996,Brentford,2-0,?,Bournemouth
+Sat May 4 1996,Bristol Rvs,2-1,?,Wycombe
+Sat May 4 1996,Burnley,2-1,?,Shrewsbury
+Sat May 4 1996,Carlisle,2-1,?,Bristol City
+Sat May 4 1996,Chesterfield,1-0,?,Notts County
+Sat May 4 1996,Hull,2-3,?,Bradford
+Sat May 4 1996,Oxford,4-0,?,Peterboro
+Sat May 4 1996,Rotherham,0-1,?,Wrexham
+Sat May 4 1996,Swansea,2-1,?,Crewe
+Sat May 4 1996,Swindon,0-0,?,Stockport
+Sat May 4 1996,Walsall,2-1,?,Brighton
+Sat May 4 1996,York,0-1,?,Blackpool
+Thu May 9 1996,Brighton,1-3,?,York

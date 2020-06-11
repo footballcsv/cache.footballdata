@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 3 2013,Barnsley,0-4,0-1,Wigan
+Sat Aug 3 2013,Birmingham,0-1,0-1,Watford
+Sat Aug 3 2013,Bournemouth,2-1,1-0,Charlton
+Sat Aug 3 2013,Burnley,1-1,1-1,Bolton
+Sat Aug 3 2013,Doncaster,1-3,0-1,Blackpool
+Sat Aug 3 2013,Leeds,2-1,1-1,Brighton
+Sat Aug 3 2013,Middlesbrough,1-2,1-0,Leicester
+Sat Aug 3 2013,Millwall,0-1,0-0,Yeovil
+Sat Aug 3 2013,Nott'm Forest,1-0,0-0,Huddersfield
+Sat Aug 3 2013,QPR,2-1,2-1,Sheffield Weds
+Sat Aug 3 2013,Reading,2-1,1-1,Ipswich
+Sun Aug 4 2013,Derby,1-1,1-0,Blackburn
+Sat Aug 10 2013,Blackburn,0-1,0-0,Nott'm Forest
+Sat Aug 10 2013,Blackpool,1-0,0-0,Barnsley
+Sat Aug 10 2013,Bolton,1-1,1-0,Reading
+Sat Aug 10 2013,Brighton,1-2,1-1,Derby
+Sat Aug 10 2013,Charlton,0-1,0-0,Middlesbrough
+Sat Aug 10 2013,Huddersfield,1-1,1-1,QPR
+Sat Aug 10 2013,Ipswich,3-0,0-0,Millwall
+Sat Aug 10 2013,Sheffield Weds,1-2,0-2,Burnley
+Sat Aug 10 2013,Watford,6-1,1-1,Bournemouth
+Sat Aug 10 2013,Yeovil,0-1,0-0,Birmingham
+Sun Aug 11 2013,Leicester,0-0,0-0,Leeds
+Fri Aug 16 2013,Doncaster,2-0,1-0,Blackburn
+Sat Aug 17 2013,Barnsley,2-2,1-0,Charlton
+Sat Aug 17 2013,Birmingham,0-1,0-0,Brighton
+Sat Aug 17 2013,Bournemouth,1-0,1-0,Wigan
+Sat Aug 17 2013,Burnley,2-0,0-0,Yeovil
+Sat Aug 17 2013,Derby,0-1,0-1,Leicester
+Sat Aug 17 2013,Leeds,1-1,0-1,Sheffield Weds
+Sat Aug 17 2013,Middlesbrough,1-1,0-0,Blackpool
+Sat Aug 17 2013,Millwall,0-1,0-0,Huddersfield
+Sat Aug 17 2013,Nott'm Forest,3-0,1-0,Bolton
+Sat Aug 17 2013,QPR,1-0,0-0,Ipswich
+Sat Aug 17 2013,Reading,3-3,2-0,Watford
+Tue Aug 20 2013,Wigan,2-2,0-2,Doncaster
+Sat Aug 24 2013,Blackburn,5-2,4-1,Barnsley
+Sat Aug 24 2013,Blackpool,1-0,0-0,Reading
+Sat Aug 24 2013,Bolton,0-1,0-0,QPR
+Sat Aug 24 2013,Brighton,2-0,1-0,Burnley
+Sat Aug 24 2013,Huddersfield,5-1,3-0,Bournemouth
+Sat Aug 24 2013,Ipswich,1-2,1-1,Leeds
+Sat Aug 24 2013,Leicester,3-2,0-1,Birmingham
+Sat Aug 24 2013,Sheffield Weds,2-2,2-1,Millwall
+Sat Aug 24 2013,Yeovil,0-3,0-2,Derby
+Sun Aug 25 2013,Watford,1-1,0-1,Nott'm Forest
+Sun Aug 25 2013,Wigan,2-2,1-1,Middlesbrough
+Sat Aug 31 2013,Barnsley,2-1,2-0,Huddersfield
+Sat Aug 31 2013,Birmingham,1-1,0-1,Ipswich
+Sat Aug 31 2013,Blackburn,4-1,2-1,Bolton
+Sat Aug 31 2013,Blackpool,1-0,0-0,Watford
+Sat Aug 31 2013,Brighton,1-1,0-0,Millwall
+Sat Aug 31 2013,Charlton,2-1,1-0,Leicester
+Sat Aug 31 2013,Derby,0-3,0-2,Burnley
+Sat Aug 31 2013,Doncaster,0-1,0-1,Bournemouth
+Sat Aug 31 2013,Leeds,0-1,0-0,QPR
+Sat Aug 31 2013,Middlesbrough,1-1,0-1,Sheffield Weds
+Sat Aug 31 2013,Wigan,2-1,2-1,Nott'm Forest
+Sat Aug 31 2013,Yeovil,0-1,0-0,Reading
+Sat Sep 14 2013,Bolton,0-1,0-1,Leeds
+Sat Sep 14 2013,Bournemouth,1-2,1-1,Blackpool
+Sat Sep 14 2013,Burnley,1-1,0-0,Blackburn
+Sat Sep 14 2013,Huddersfield,0-0,0-0,Doncaster
+Sat Sep 14 2013,Ipswich,3-1,1-1,Middlesbrough
+Sat Sep 14 2013,Leicester,2-0,1-0,Wigan
+Sat Sep 14 2013,Millwall,1-5,0-2,Derby
+Sat Sep 14 2013,Nott'm Forest,3-2,2-1,Barnsley
+Sat Sep 14 2013,QPR,1-0,0-0,Birmingham
+Sat Sep 14 2013,Sheffield Weds,1-1,1-0,Yeovil
+Sat Sep 14 2013,Watford,1-1,0-0,Charlton
+Sun Sep 15 2013,Reading,0-0,0-0,Brighton
+Tue Sep 17 2013,Bolton,2-2,2-2,Derby
+Tue Sep 17 2013,Bournemouth,1-0,0-0,Barnsley
+Tue Sep 17 2013,Burnley,3-0,1-0,Birmingham
+Tue Sep 17 2013,Huddersfield,2-1,1-0,Charlton
+Tue Sep 17 2013,Ipswich,2-1,0-1,Yeovil
+Tue Sep 17 2013,Leicester,2-1,2-0,Blackburn
+Tue Sep 17 2013,Millwall,3-1,1-1,Blackpool
+Tue Sep 17 2013,Nott'm Forest,2-2,0-1,Middlesbrough
+Tue Sep 17 2013,Watford,2-1,1-1,Doncaster
+Wed Sep 18 2013,QPR,0-0,0-0,Brighton
+Wed Sep 18 2013,Reading,1-0,0-0,Leeds
+Sat Sep 21 2013,Barnsley,1-5,1-3,Watford
+Sat Sep 21 2013,Birmingham,4-1,3-0,Sheffield Weds
+Sat Sep 21 2013,Blackburn,0-0,0-0,Huddersfield
+Sat Sep 21 2013,Blackpool,2-2,1-0,Leicester
+Sat Sep 21 2013,Brighton,3-1,0-1,Bolton
+Sat Sep 21 2013,Charlton,0-1,0-1,Millwall
+Sat Sep 21 2013,Derby,1-3,0-0,Reading
+Sat Sep 21 2013,Doncaster,2-2,1-1,Nott'm Forest
+Sat Sep 21 2013,Leeds,1-2,0-2,Burnley
+Sat Sep 21 2013,Middlesbrough,3-3,2-2,Bournemouth
+Sat Sep 21 2013,Yeovil,0-1,0-0,QPR
+Sun Sep 22 2013,Wigan,2-0,1-0,Ipswich
+Fri Sep 27 2013,Huddersfield,1-1,0-1,Blackpool
+Sat Sep 28 2013,Bolton,1-1,0-0,Yeovil
+Sat Sep 28 2013,Bournemouth,1-3,0-3,Blackburn
+Sat Sep 28 2013,Burnley,3-0,1-0,Charlton
+Sat Sep 28 2013,Ipswich,2-0,2-0,Brighton
+Sat Sep 28 2013,Leicester,2-1,0-0,Barnsley
+Sat Sep 28 2013,Millwall,2-0,0-0,Leeds
+Sat Sep 28 2013,Nott'm Forest,1-0,1-0,Derby
+Sat Sep 28 2013,QPR,2-0,2-0,Middlesbrough
+Sat Sep 28 2013,Reading,2-0,1-0,Birmingham
+Sat Sep 28 2013,Sheffield Weds,0-1,0-0,Doncaster
+Sat Sep 28 2013,Watford,1-0,0-0,Wigan
+Tue Oct 1 2013,Barnsley,1-1,0-0,Reading
+Tue Oct 1 2013,Birmingham,4-0,2-0,Millwall
+Tue Oct 1 2013,Blackburn,1-0,0-0,Watford
+Tue Oct 1 2013,Blackpool,0-0,0-0,Bolton
+Tue Oct 1 2013,Brighton,1-1,0-1,Sheffield Weds
+Tue Oct 1 2013,Charlton,1-1,0-1,Nott'm Forest
+Tue Oct 1 2013,Derby,4-4,1-4,Ipswich
+Tue Oct 1 2013,Doncaster,0-2,0-1,Burnley
+Tue Oct 1 2013,Leeds,2-1,0-0,Bournemouth
+Tue Oct 1 2013,Middlesbrough,1-1,0-0,Huddersfield
+Tue Oct 1 2013,Yeovil,1-2,0-0,Leicester
+Sat Oct 5 2013,Birmingham,1-2,0-1,Bolton
+Sat Oct 5 2013,Bournemouth,5-2,1-2,Millwall
+Sat Oct 5 2013,Brighton,1-3,1-0,Nott'm Forest
+Sat Oct 5 2013,Burnley,2-1,1-0,Reading
+Sat Oct 5 2013,Charlton,0-0,0-0,Blackpool
+Sat Oct 5 2013,Derby,3-1,2-1,Leeds
+Sat Oct 5 2013,Doncaster,1-0,1-0,Leicester
+Sat Oct 5 2013,Huddersfield,1-2,1-2,Watford
+Sat Oct 5 2013,Middlesbrough,4-1,2-1,Yeovil
+Sat Oct 5 2013,QPR,2-0,0-0,Barnsley
+Sat Oct 5 2013,Sheffield Weds,1-1,1-1,Ipswich
+Sun Oct 6 2013,Wigan,2-1,0-1,Blackburn
+Sat Oct 19 2013,Barnsley,3-2,3-0,Middlesbrough
+Sat Oct 19 2013,Blackburn,0-1,0-1,Charlton
+Sat Oct 19 2013,Blackpool,1-0,1-0,Wigan
+Sat Oct 19 2013,Bolton,1-1,1-1,Sheffield Weds
+Sat Oct 19 2013,Ipswich,0-1,0-0,Burnley
+Sat Oct 19 2013,Leicester,2-1,2-0,Huddersfield
+Sat Oct 19 2013,Millwall,2-2,0-1,QPR
+Sat Oct 19 2013,Nott'm Forest,1-1,1-0,Bournemouth
+Sat Oct 19 2013,Reading,4-1,2-1,Doncaster
+Sat Oct 19 2013,Watford,2-3,1-2,Derby
+Sat Oct 19 2013,Yeovil,0-0,0-0,Brighton
+Sun Oct 20 2013,Leeds,4-0,3-0,Birmingham
+Fri Oct 25 2013,Middlesbrough,4-0,2-0,Doncaster
+Sat Oct 26 2013,Barnsley,1-1,1-0,Sheffield Weds
+Sat Oct 26 2013,Blackpool,2-2,2-1,Blackburn
+Sat Oct 26 2013,Bolton,1-1,0-0,Ipswich
+Sat Oct 26 2013,Burnley,2-0,0-0,QPR
+Sat Oct 26 2013,Derby,1-1,1-0,Birmingham
+Sat Oct 26 2013,Huddersfield,3-2,1-1,Leeds
+Sat Oct 26 2013,Leicester,2-1,1-1,Bournemouth
+Sat Oct 26 2013,Reading,1-1,1-0,Millwall
+Sat Oct 26 2013,Yeovil,3-1,3-1,Nott'm Forest
+Sun Oct 27 2013,Charlton,0-0,0-0,Wigan
+Mon Oct 28 2013,Brighton,1-1,0-1,Watford
+Wed Oct 30 2013,Wigan,0-0,0-0,QPR
+Fri Nov 1 2013,Ipswich,1-1,1-0,Barnsley
+Sat Nov 2 2013,Birmingham,0-1,0-0,Charlton
+Sat Nov 2 2013,Blackburn,1-0,0-0,Middlesbrough
+Sat Nov 2 2013,Bournemouth,0-2,0-1,Bolton
+Sat Nov 2 2013,Doncaster,1-3,0-1,Brighton
+Sat Nov 2 2013,Leeds,2-0,0-0,Yeovil
+Sat Nov 2 2013,Millwall,2-2,2-1,Burnley
+Sat Nov 2 2013,Nott'm Forest,0-1,0-0,Blackpool
+Sat Nov 2 2013,QPR,2-1,1-1,Derby
+Sat Nov 2 2013,Sheffield Weds,5-2,3-1,Reading
+Sat Nov 2 2013,Watford,0-3,0-1,Leicester
+Sat Nov 2 2013,Wigan,2-1,1-1,Huddersfield
+Sat Nov 9 2013,Barnsley,0-0,0-0,Doncaster
+Sat Nov 9 2013,Blackpool,2-3,1-0,Ipswich
+Sat Nov 9 2013,Bolton,3-1,2-1,Millwall
+Sat Nov 9 2013,Brighton,3-0,1-0,Blackburn
+Sat Nov 9 2013,Burnley,1-1,0-0,Bournemouth
+Sat Nov 9 2013,Charlton,2-4,1-1,Leeds
+Sat Nov 9 2013,Derby,3-0,1-0,Sheffield Weds
+Sat Nov 9 2013,Huddersfield,1-3,1-1,Birmingham
+Sat Nov 9 2013,Leicester,0-2,0-2,Nott'm Forest
+Sat Nov 9 2013,Middlesbrough,2-2,1-1,Watford
+Sat Nov 9 2013,Reading,1-1,0-0,QPR
+Sun Nov 10 2013,Yeovil,0-1,0-0,Wigan
+Fri Nov 22 2013,Doncaster,2-1,1-1,Yeovil
+Sat Nov 23 2013,Birmingham,1-1,1-1,Blackpool
+Sat Nov 23 2013,Blackburn,0-0,0-0,Reading
+Sat Nov 23 2013,Bournemouth,0-1,0-0,Derby
+Sat Nov 23 2013,Ipswich,1-2,1-0,Leicester
+Sat Nov 23 2013,Leeds,2-1,1-0,Middlesbrough
+Sat Nov 23 2013,Millwall,1-0,0-0,Barnsley
+Sat Nov 23 2013,Nott'm Forest,1-1,1-1,Burnley
+Sat Nov 23 2013,QPR,1-0,1-0,Charlton
+Sat Nov 23 2013,Sheffield Weds,1-2,0-1,Huddersfield
+Sat Nov 23 2013,Watford,0-1,0-1,Bolton
+Sat Nov 23 2013,Wigan,0-1,0-0,Brighton
+Tue Nov 26 2013,Charlton,2-0,1-0,Doncaster
+Fri Nov 29 2013,Nott'm Forest,2-3,1-2,Reading
+Sat Nov 30 2013,Barnsley,0-3,0-3,Birmingham
+Sat Nov 30 2013,Blackburn,1-0,1-0,Leeds
+Sat Nov 30 2013,Blackpool,2-0,1-0,Sheffield Weds
+Sat Nov 30 2013,Bournemouth,1-1,1-0,Brighton
+Sat Nov 30 2013,Charlton,0-1,0-1,Ipswich
+Sat Nov 30 2013,Doncaster,2-1,0-1,QPR
+Sat Nov 30 2013,Huddersfield,2-1,0-0,Burnley
+Sat Nov 30 2013,Leicester,3-0,1-0,Millwall
+Sat Nov 30 2013,Middlesbrough,1-0,0-0,Bolton
+Sat Nov 30 2013,Watford,0-3,0-1,Yeovil
+Sun Dec 1 2013,Wigan,1-3,0-3,Derby
+Tue Dec 3 2013,Birmingham,1-1,1-0,Doncaster
+Tue Dec 3 2013,Bolton,0-1,0-0,Huddersfield
+Tue Dec 3 2013,Brighton,1-2,0-1,Barnsley
+Tue Dec 3 2013,Burnley,0-0,0-0,Watford
+Tue Dec 3 2013,Ipswich,3-1,1-1,Blackburn
+Tue Dec 3 2013,Millwall,2-2,1-1,Nott'm Forest
+Tue Dec 3 2013,QPR,3-0,1-0,Bournemouth
+Tue Dec 3 2013,Reading,1-0,1-0,Charlton
+Tue Dec 3 2013,Sheffield Weds,2-1,2-1,Leicester
+Tue Dec 3 2013,Yeovil,1-0,1-0,Blackpool
+Wed Dec 4 2013,Derby,2-1,1-0,Middlesbrough
+Wed Dec 4 2013,Leeds,2-0,1-0,Wigan
+Sat Dec 7 2013,Birmingham,2-2,0-1,Middlesbrough
+Sat Dec 7 2013,Bolton,3-0,2-0,Doncaster
+Sat Dec 7 2013,Brighton,3-1,2-0,Leicester
+Sat Dec 7 2013,Burnley,1-0,0-0,Barnsley
+Sat Dec 7 2013,Derby,5-1,0-1,Blackpool
+Sat Dec 7 2013,Ipswich,2-1,0-1,Huddersfield
+Sat Dec 7 2013,Leeds,3-3,0-2,Watford
+Sat Dec 7 2013,Millwall,2-1,1-0,Wigan
+Sat Dec 7 2013,QPR,0-0,0-0,Blackburn
+Sat Dec 7 2013,Reading,1-2,0-2,Bournemouth
+Sat Dec 7 2013,Sheffield Weds,0-1,0-0,Nott'm Forest
+Sat Dec 7 2013,Yeovil,2-2,0-2,Charlton
+Sat Dec 14 2013,Barnsley,1-1,1-1,Yeovil
+Sat Dec 14 2013,Blackburn,3-2,1-1,Millwall
+Sat Dec 14 2013,Blackpool,0-2,0-0,QPR
+Sat Dec 14 2013,Bournemouth,0-2,0-2,Birmingham
+Sat Dec 14 2013,Charlton,0-2,0-1,Derby
+Sat Dec 14 2013,Doncaster,0-3,0-1,Leeds
+Sat Dec 14 2013,Huddersfield,0-1,0-1,Reading
+Sat Dec 14 2013,Leicester,1-1,1-0,Burnley
+Sat Dec 14 2013,Middlesbrough,0-1,0-0,Brighton
+Sat Dec 14 2013,Nott'm Forest,0-0,0-0,Ipswich
+Sat Dec 14 2013,Watford,0-1,0-1,Sheffield Weds
+Sun Dec 15 2013,Wigan,3-2,2-0,Bolton
+Sat Dec 21 2013,Birmingham,0-0,0-0,Nott'm Forest
+Sat Dec 21 2013,Bolton,1-1,1-1,Charlton
+Sat Dec 21 2013,Brighton,0-0,0-0,Huddersfield
+Sat Dec 21 2013,Burnley,2-1,1-1,Blackpool
+Sat Dec 21 2013,Derby,3-1,1-0,Doncaster
+Sat Dec 21 2013,Ipswich,1-1,0-0,Watford
+Sat Dec 21 2013,Leeds,0-0,0-0,Barnsley
+Sat Dec 21 2013,Millwall,0-2,0-0,Middlesbrough
+Sat Dec 21 2013,QPR,0-1,0-1,Leicester
+Sat Dec 21 2013,Reading,1-2,0-2,Wigan
+Sat Dec 21 2013,Sheffield Weds,1-2,0-2,Bournemouth
+Sat Dec 21 2013,Yeovil,0-1,0-0,Blackburn
+Thu Dec 26 2013,Barnsley,0-1,0-0,Bolton
+Thu Dec 26 2013,Blackburn,0-0,0-0,Sheffield Weds
+Thu Dec 26 2013,Blackpool,1-1,0-1,Leeds
+Thu Dec 26 2013,Bournemouth,3-0,0-0,Yeovil
+Thu Dec 26 2013,Charlton,3-2,1-1,Brighton
+Thu Dec 26 2013,Doncaster,0-3,0-2,Ipswich
+Thu Dec 26 2013,Huddersfield,1-1,0-1,Derby
+Thu Dec 26 2013,Leicester,1-0,1-0,Reading
+Thu Dec 26 2013,Middlesbrough,1-0,1-0,Burnley
+Thu Dec 26 2013,Nott'm Forest,2-0,1-0,QPR
+Thu Dec 26 2013,Watford,4-0,2-0,Millwall
+Thu Dec 26 2013,Wigan,0-0,0-0,Birmingham
+Sun Dec 29 2013,Barnsley,1-2,0-1,Derby
+Sun Dec 29 2013,Blackburn,2-3,0-3,Birmingham
+Sun Dec 29 2013,Blackpool,0-1,0-1,Brighton
+Sun Dec 29 2013,Bournemouth,1-1,0-0,Ipswich
+Sun Dec 29 2013,Charlton,1-1,0-0,Sheffield Weds
+Sun Dec 29 2013,Doncaster,0-0,0-0,Millwall
+Sun Dec 29 2013,Huddersfield,5-1,3-1,Yeovil
+Sun Dec 29 2013,Leicester,5-3,3-3,Bolton
+Sun Dec 29 2013,Middlesbrough,3-0,2-0,Reading
+Sun Dec 29 2013,Nott'm Forest,2-1,1-0,Leeds
+Sun Dec 29 2013,Watford,0-0,0-0,QPR
+Sun Dec 29 2013,Wigan,0-0,0-0,Burnley
+Wed Jan 1 2014,Birmingham,1-1,1-0,Barnsley
+Wed Jan 1 2014,Bolton,2-2,1-2,Middlesbrough
+Wed Jan 1 2014,Brighton,1-1,0-1,Bournemouth
+Wed Jan 1 2014,Burnley,3-2,2-1,Huddersfield
+Wed Jan 1 2014,Derby,0-1,0-0,Wigan
+Wed Jan 1 2014,Ipswich,1-1,1-0,Charlton
+Wed Jan 1 2014,Leeds,1-2,0-2,Blackburn
+Wed Jan 1 2014,Millwall,1-3,0-1,Leicester
+Wed Jan 1 2014,QPR,2-1,0-1,Doncaster
+Wed Jan 1 2014,Reading,1-1,0-1,Nott'm Forest
+Wed Jan 1 2014,Sheffield Weds,2-0,0-0,Blackpool
+Fri Jan 10 2014,Leicester,4-1,1-0,Derby
+Sat Jan 11 2014,Blackburn,1-0,1-0,Doncaster
+Sat Jan 11 2014,Blackpool,0-2,0-0,Middlesbrough
+Sat Jan 11 2014,Bolton,1-1,0-0,Nott'm Forest
+Sat Jan 11 2014,Brighton,1-0,0-0,Birmingham
+Sat Jan 11 2014,Huddersfield,1-0,0-0,Millwall
+Sat Jan 11 2014,Ipswich,1-3,0-0,QPR
+Sat Jan 11 2014,Sheffield Weds,6-0,2-0,Leeds
+Sat Jan 11 2014,Watford,0-1,0-1,Reading
+Sat Jan 11 2014,Wigan,3-0,1-0,Bournemouth
+Sat Jan 11 2014,Yeovil,1-2,0-1,Burnley
+Sat Jan 18 2014,Barnsley,2-0,1-0,Blackpool
+Sat Jan 18 2014,Birmingham,0-2,0-2,Yeovil
+Sat Jan 18 2014,Bournemouth,1-1,0-1,Watford
+Sat Jan 18 2014,Burnley,1-1,1-1,Sheffield Weds
+Sat Jan 18 2014,Derby,1-0,0-0,Brighton
+Sat Jan 18 2014,Doncaster,3-0,1-0,Wigan
+Sat Jan 18 2014,Leeds,0-1,0-0,Leicester
+Sat Jan 18 2014,Middlesbrough,1-0,1-0,Charlton
+Sat Jan 18 2014,Millwall,1-0,1-0,Ipswich
+Sat Jan 18 2014,Nott'm Forest,4-1,2-1,Blackburn
+Sat Jan 18 2014,QPR,2-1,0-0,Huddersfield
+Sat Jan 18 2014,Reading,7-1,4-0,Bolton
+Sat Jan 25 2014,Blackburn,1-1,0-0,Derby
+Sat Jan 25 2014,Blackpool,1-1,0-0,Doncaster
+Sat Jan 25 2014,Ipswich,2-0,0-0,Reading
+Sat Jan 25 2014,Leicester,2-0,0-0,Middlesbrough
+Tue Jan 28 2014,Barnsley,2-2,1-2,Blackburn
+Tue Jan 28 2014,Birmingham,1-2,0-1,Leicester
+Tue Jan 28 2014,Bournemouth,2-1,0-0,Huddersfield
+Tue Jan 28 2014,Burnley,0-0,0-0,Brighton
+Tue Jan 28 2014,Derby,3-2,0-2,Yeovil
+Tue Jan 28 2014,Doncaster,3-0,2-0,Charlton
+Tue Jan 28 2014,Leeds,1-1,0-0,Ipswich
+Tue Jan 28 2014,Middlesbrough,0-0,0-0,Wigan
+Tue Jan 28 2014,Millwall,1-1,0-0,Sheffield Weds
+Tue Jan 28 2014,QPR,2-1,1-0,Bolton
+Tue Jan 28 2014,Reading,5-1,2-0,Blackpool
+Thu Jan 30 2014,Nott'm Forest,4-2,0-1,Watford
+Sat Feb 1 2014,Birmingham,3-3,0-0,Derby
+Sat Feb 1 2014,Blackburn,2-0,1-0,Blackpool
+Sat Feb 1 2014,Bournemouth,0-1,0-0,Leicester
+Sat Feb 1 2014,Doncaster,0-0,0-0,Middlesbrough
+Sat Feb 1 2014,Ipswich,1-0,0-0,Bolton
+Sat Feb 1 2014,Leeds,5-1,1-1,Huddersfield
+Sat Feb 1 2014,Millwall,0-3,0-1,Reading
+Sat Feb 1 2014,QPR,3-3,2-1,Burnley
+Sat Feb 1 2014,Sheffield Weds,1-0,0-0,Barnsley
+Sat Feb 1 2014,Wigan,2-1,0-1,Charlton
+Sun Feb 2 2014,Nott'm Forest,3-1,2-1,Yeovil
+Sun Feb 2 2014,Watford,2-0,1-0,Brighton
+Sat Feb 8 2014,Barnsley,2-2,1-0,Ipswich
+Sat Feb 8 2014,Blackpool,1-1,0-1,Nott'm Forest
+Sat Feb 8 2014,Bolton,2-2,2-1,Bournemouth
+Sat Feb 8 2014,Brighton,1-0,0-0,Doncaster
+Sat Feb 8 2014,Burnley,3-1,2-1,Millwall
+Sat Feb 8 2014,Charlton,0-2,0-1,Birmingham
+Sat Feb 8 2014,Huddersfield,1-0,0-0,Wigan
+Sat Feb 8 2014,Leicester,2-2,1-2,Watford
+Sat Feb 8 2014,Middlesbrough,0-0,0-0,Blackburn
+Sat Feb 8 2014,Reading,0-2,0-1,Sheffield Weds
+Sat Feb 8 2014,Yeovil,1-2,1-0,Leeds
+Mon Feb 10 2014,Derby,1-0,1-0,QPR
+Tue Feb 11 2014,Bolton,0-1,0-0,Burnley
+Tue Feb 11 2014,Brighton,1-0,0-0,Leeds
+Tue Feb 11 2014,Huddersfield,0-3,0-0,Nott'm Forest
+Tue Feb 11 2014,Sheffield Weds,0-3,0-2,Wigan
+Tue Feb 11 2014,Watford,1-0,1-0,Birmingham
+Tue Feb 11 2014,Yeovil,1-1,0-0,Millwall
+Sat Feb 15 2014,Birmingham,1-2,0-1,Huddersfield
+Sat Feb 15 2014,Bournemouth,1-1,0-0,Burnley
+Sat Feb 15 2014,Doncaster,2-2,1-1,Barnsley
+Sat Feb 15 2014,Ipswich,0-0,0-0,Blackpool
+Sat Feb 15 2014,Millwall,1-1,0-1,Bolton
+Sat Feb 15 2014,Watford,1-0,0-0,Middlesbrough
+Sun Feb 16 2014,QPR,1-3,1-1,Reading
+Tue Feb 18 2014,Sheffield Weds,0-1,0-0,Derby
+Tue Feb 18 2014,Wigan,2-0,2-0,Barnsley
+Tue Feb 18 2014,Yeovil,0-0,0-0,Watford
+Wed Feb 19 2014,Nott'm Forest,2-2,2-1,Leicester
+Sat Feb 22 2014,Barnsley,1-0,1-0,Millwall
+Sat Feb 22 2014,Blackpool,1-2,1-0,Birmingham
+Sat Feb 22 2014,Bolton,2-0,2-0,Watford
+Sat Feb 22 2014,Brighton,1-2,0-1,Wigan
+Sat Feb 22 2014,Burnley,3-1,3-0,Nott'm Forest
+Sat Feb 22 2014,Charlton,1-0,0-0,QPR
+Sat Feb 22 2014,Derby,1-0,0-0,Bournemouth
+Sat Feb 22 2014,Huddersfield,0-2,0-1,Sheffield Weds
+Sat Feb 22 2014,Leicester,3-0,2-0,Ipswich
+Sat Feb 22 2014,Middlesbrough,0-0,0-0,Leeds
+Sat Feb 22 2014,Reading,0-1,0-1,Blackburn
+Sat Feb 22 2014,Yeovil,1-0,0-0,Doncaster
+Sat Mar 1 2014,Bolton,4-0,2-0,Blackburn
+Sat Mar 1 2014,Bournemouth,5-0,2-0,Doncaster
+Sat Mar 1 2014,Burnley,2-0,1-0,Derby
+Sat Mar 1 2014,Huddersfield,5-0,2-0,Barnsley
+Sat Mar 1 2014,Ipswich,1-0,1-0,Birmingham
+Sat Mar 1 2014,Leicester,3-0,1-0,Charlton
+Sat Mar 1 2014,Millwall,0-1,0-1,Brighton
+Sat Mar 1 2014,Nott'm Forest,1-4,0-1,Wigan
+Sat Mar 1 2014,QPR,1-1,1-1,Leeds
+Sat Mar 1 2014,Reading,1-1,0-1,Yeovil
+Sat Mar 1 2014,Sheffield Weds,1-0,0-0,Middlesbrough
+Sat Mar 1 2014,Watford,4-0,3-0,Blackpool
+Sat Mar 8 2014,Barnsley,1-0,0-0,Nott'm Forest
+Sat Mar 8 2014,Birmingham,0-2,0-1,QPR
+Sat Mar 8 2014,Blackpool,0-1,0-0,Bournemouth
+Sat Mar 8 2014,Brighton,1-1,1-0,Reading
+Sat Mar 8 2014,Derby,0-1,0-0,Millwall
+Sat Mar 8 2014,Doncaster,2-0,1-0,Huddersfield
+Sat Mar 8 2014,Leeds,1-5,0-1,Bolton
+Sat Mar 8 2014,Middlesbrough,2-0,2-0,Ipswich
+Sat Mar 8 2014,Yeovil,2-0,1-0,Sheffield Weds
+Sun Mar 9 2014,Blackburn,1-2,1-0,Burnley
+Tue Mar 11 2014,Barnsley,0-3,0-1,Leicester
+Tue Mar 11 2014,Blackpool,1-0,1-0,Millwall
+Tue Mar 11 2014,Brighton,2-0,0-0,QPR
+Tue Mar 11 2014,Derby,0-0,0-0,Bolton
+Tue Mar 11 2014,Doncaster,2-1,1-0,Watford
+Tue Mar 11 2014,Leeds,2-4,0-1,Reading
+Tue Mar 11 2014,Middlesbrough,1-1,0-0,Nott'm Forest
+Tue Mar 11 2014,Yeovil,0-1,0-1,Ipswich
+Wed Mar 12 2014,Birmingham,3-3,0-1,Burnley
+Wed Mar 12 2014,Blackburn,0-1,0-0,Bournemouth
+Wed Mar 12 2014,Charlton,0-0,0-0,Huddersfield
+Wed Mar 12 2014,Wigan,1-0,0-0,Sheffield Weds
+Sat Mar 15 2014,Bolton,0-2,0-1,Brighton
+Sat Mar 15 2014,Bournemouth,0-0,0-0,Middlesbrough
+Sat Mar 15 2014,Burnley,2-1,1-1,Leeds
+Sat Mar 15 2014,Huddersfield,2-4,1-1,Blackburn
+Sat Mar 15 2014,Ipswich,1-3,1-2,Wigan
+Sat Mar 15 2014,Leicester,3-1,0-1,Blackpool
+Sat Mar 15 2014,Millwall,0-0,0-0,Charlton
+Sat Mar 15 2014,Nott'm Forest,0-0,0-0,Doncaster
+Sat Mar 15 2014,QPR,3-0,1-0,Yeovil
+Sat Mar 15 2014,Reading,0-0,0-0,Derby
+Sat Mar 15 2014,Sheffield Weds,4-1,2-0,Birmingham
+Sat Mar 15 2014,Watford,3-0,2-0,Barnsley
+Tue Mar 18 2014,Charlton,1-0,0-0,Bournemouth
+Tue Mar 18 2014,Sheffield Weds,3-0,1-0,QPR
+Tue Mar 18 2014,Wigan,3-3,0-0,Yeovil
+Sat Mar 22 2014,Barnsley,0-1,0-0,Bournemouth
+Sat Mar 22 2014,Birmingham,1-2,1-1,Reading
+Sat Mar 22 2014,Blackburn,1-1,1-1,Leicester
+Sat Mar 22 2014,Blackpool,1-0,1-0,Huddersfield
+Sat Mar 22 2014,Brighton,0-2,0-0,Ipswich
+Sat Mar 22 2014,Charlton,0-3,0-1,Burnley
+Sat Mar 22 2014,Derby,5-0,3-0,Nott'm Forest
+Sat Mar 22 2014,Doncaster,1-0,1-0,Sheffield Weds
+Sat Mar 22 2014,Leeds,2-1,2-0,Millwall
+Sat Mar 22 2014,Middlesbrough,1-3,1-1,QPR
+Sat Mar 22 2014,Wigan,2-1,1-1,Watford
+Sat Mar 22 2014,Yeovil,2-2,2-0,Bolton
+Tue Mar 25 2014,Bolton,1-0,1-0,Blackpool
+Tue Mar 25 2014,Bournemouth,4-1,3-0,Leeds
+Tue Mar 25 2014,Burnley,2-0,0-0,Doncaster
+Tue Mar 25 2014,Huddersfield,2-2,2-1,Middlesbrough
+Tue Mar 25 2014,Ipswich,2-1,0-1,Derby
+Tue Mar 25 2014,Leicester,1-1,0-1,Yeovil
+Tue Mar 25 2014,Millwall,2-3,1-2,Birmingham
+Tue Mar 25 2014,Nott'm Forest,0-1,0-0,Charlton
+Tue Mar 25 2014,QPR,1-0,1-0,Wigan
+Tue Mar 25 2014,Reading,1-3,1-1,Barnsley
+Tue Mar 25 2014,Sheffield Weds,1-0,0-0,Brighton
+Tue Mar 25 2014,Watford,3-3,1-1,Blackburn
+Sat Mar 29 2014,Birmingham,2-4,0-3,Bournemouth
+Sat Mar 29 2014,Bolton,1-1,1-0,Wigan
+Sat Mar 29 2014,Brighton,0-2,0-0,Middlesbrough
+Sat Mar 29 2014,Burnley,0-2,0-1,Leicester
+Sat Mar 29 2014,Derby,3-0,2-0,Charlton
+Sat Mar 29 2014,Ipswich,1-1,0-1,Nott'm Forest
+Sat Mar 29 2014,Leeds,1-2,0-2,Doncaster
+Sat Mar 29 2014,Millwall,2-2,0-0,Blackburn
+Sat Mar 29 2014,QPR,1-1,0-1,Blackpool
+Sat Mar 29 2014,Reading,1-1,1-1,Huddersfield
+Sat Mar 29 2014,Sheffield Weds,1-4,0-2,Watford
+Sat Mar 29 2014,Yeovil,1-4,0-0,Barnsley
+Tue Apr 1 2014,Blackburn,3-3,2-1,Brighton
+Tue Apr 1 2014,Leeds,0-1,0-0,Charlton
+Tue Apr 1 2014,Wigan,2-2,1-1,Leicester
+Fri Apr 4 2014,Leicester,2-1,1-1,Sheffield Weds
+Sat Apr 5 2014,Barnsley,0-0,0-0,Brighton
+Sat Apr 5 2014,Blackburn,2-0,0-0,Ipswich
+Sat Apr 5 2014,Blackpool,1-2,0-1,Yeovil
+Sat Apr 5 2014,Bournemouth,2-1,1-0,QPR
+Sat Apr 5 2014,Charlton,0-1,0-0,Reading
+Sat Apr 5 2014,Doncaster,1-3,1-0,Birmingham
+Sat Apr 5 2014,Huddersfield,0-1,0-0,Bolton
+Sat Apr 5 2014,Middlesbrough,1-0,0-0,Derby
+Sat Apr 5 2014,Nott'm Forest,1-2,0-2,Millwall
+Sat Apr 5 2014,Watford,1-1,1-0,Burnley
+Sat Apr 5 2014,Wigan,1-0,1-0,Leeds
+Tue Apr 8 2014,Barnsley,0-1,0-1,Burnley
+Tue Apr 8 2014,Blackburn,2-0,1-0,QPR
+Tue Apr 8 2014,Blackpool,1-3,1-3,Derby
+Tue Apr 8 2014,Bournemouth,3-1,3-0,Reading
+Tue Apr 8 2014,Charlton,3-2,1-1,Yeovil
+Tue Apr 8 2014,Doncaster,1-2,1-2,Bolton
+Tue Apr 8 2014,Huddersfield,0-2,0-2,Ipswich
+Tue Apr 8 2014,Leicester,1-4,0-2,Brighton
+Tue Apr 8 2014,Middlesbrough,3-1,2-1,Birmingham
+Tue Apr 8 2014,Nott'm Forest,3-3,1-2,Sheffield Weds
+Tue Apr 8 2014,Watford,3-0,2-0,Leeds
+Tue Apr 8 2014,Wigan,0-1,0-1,Millwall
+Sat Apr 12 2014,Bolton,1-0,1-0,Barnsley
+Sat Apr 12 2014,Brighton,3-0,2-0,Charlton
+Sat Apr 12 2014,Burnley,0-1,0-0,Middlesbrough
+Sat Apr 12 2014,Derby,3-1,1-1,Huddersfield
+Sat Apr 12 2014,Ipswich,2-1,0-0,Doncaster
+Sat Apr 12 2014,Leeds,2-0,1-0,Blackpool
+Sat Apr 12 2014,Millwall,2-2,0-1,Watford
+Sat Apr 12 2014,QPR,5-2,2-1,Nott'm Forest
+Sat Apr 12 2014,Sheffield Weds,3-3,1-3,Blackburn
+Sat Apr 12 2014,Yeovil,1-1,1-0,Bournemouth
+Mon Apr 14 2014,Reading,1-1,1-1,Leicester
+Tue Apr 15 2014,Charlton,1-2,0-1,Barnsley
+Fri Apr 18 2014,Blackburn,0-0,0-0,Yeovil
+Fri Apr 18 2014,Blackpool,0-1,0-0,Burnley
+Fri Apr 18 2014,Bournemouth,2-4,1-2,Sheffield Weds
+Fri Apr 18 2014,Charlton,0-0,0-0,Bolton
+Fri Apr 18 2014,Doncaster,0-2,0-1,Derby
+Fri Apr 18 2014,Huddersfield,1-1,1-0,Brighton
+Fri Apr 18 2014,Wigan,3-0,2-0,Reading
+Sat Apr 19 2014,Barnsley,0-1,0-1,Leeds
+Sat Apr 19 2014,Leicester,1-0,0-0,QPR
+Sat Apr 19 2014,Middlesbrough,1-2,0-2,Millwall
+Sat Apr 19 2014,Nott'm Forest,1-0,1-0,Birmingham
+Sat Apr 19 2014,Watford,3-1,1-0,Ipswich
+Mon Apr 21 2014,Birmingham,2-4,0-4,Blackburn
+Mon Apr 21 2014,Brighton,1-1,0-0,Blackpool
+Mon Apr 21 2014,Burnley,2-0,2-0,Wigan
+Mon Apr 21 2014,Derby,2-1,2-0,Barnsley
+Mon Apr 21 2014,Ipswich,2-2,1-1,Bournemouth
+Mon Apr 21 2014,Leeds,0-2,0-2,Nott'm Forest
+Mon Apr 21 2014,Millwall,0-0,0-0,Doncaster
+Mon Apr 21 2014,QPR,2-1,0-0,Watford
+Mon Apr 21 2014,Sheffield Weds,2-3,2-2,Charlton
+Mon Apr 21 2014,Yeovil,1-2,0-0,Huddersfield
+Tue Apr 22 2014,Bolton,0-1,0-0,Leicester
+Tue Apr 22 2014,Reading,2-0,2-0,Middlesbrough
+Fri Apr 25 2014,Brighton,2-0,0-0,Yeovil
+Sat Apr 26 2014,Birmingham,1-3,0-0,Leeds
+Sat Apr 26 2014,Bournemouth,4-1,1-0,Nott'm Forest
+Sat Apr 26 2014,Burnley,1-0,0-0,Ipswich
+Sat Apr 26 2014,Charlton,1-3,0-1,Blackburn
+Sat Apr 26 2014,Derby,4-2,1-1,Watford
+Sat Apr 26 2014,Doncaster,1-3,1-0,Reading
+Sat Apr 26 2014,Huddersfield,0-2,0-1,Leicester
+Sat Apr 26 2014,Middlesbrough,3-1,0-0,Barnsley
+Sat Apr 26 2014,QPR,1-1,0-0,Millwall
+Sat Apr 26 2014,Sheffield Weds,1-3,1-3,Bolton
+Sat Apr 26 2014,Wigan,0-2,0-0,Blackpool
+Tue Apr 29 2014,Birmingham,0-1,0-1,Wigan
+Tue Apr 29 2014,Charlton,3-1,1-0,Watford
+Sat May 3 2014,Barnsley,2-3,0-2,QPR
+Sat May 3 2014,Blackburn,4-3,3-1,Wigan
+Sat May 3 2014,Blackpool,0-3,0-0,Charlton
+Sat May 3 2014,Bolton,2-2,0-0,Birmingham
+Sat May 3 2014,Ipswich,2-1,1-0,Sheffield Weds
+Sat May 3 2014,Leeds,1-1,0-1,Derby
+Sat May 3 2014,Leicester,1-0,0-0,Doncaster
+Sat May 3 2014,Millwall,1-0,1-0,Bournemouth
+Sat May 3 2014,Nott'm Forest,1-2,1-0,Brighton
+Sat May 3 2014,Reading,2-2,1-2,Burnley
+Sat May 3 2014,Watford,1-4,0-0,Huddersfield
+Sat May 3 2014,Yeovil,1-4,1-3,Middlesbrough

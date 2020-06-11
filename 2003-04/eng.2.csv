@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 9 2003,Bradford,2-2,0-1,Norwich
+Sat Aug 9 2003,Burnley,2-3,2-2,Crystal Palace
+Sat Aug 9 2003,Derby,0-3,0-2,Stoke
+Sat Aug 9 2003,Ipswich,1-1,0-0,Reading
+Sat Aug 9 2003,Millwall,2-0,0-0,Wigan
+Sat Aug 9 2003,Nott'm Forest,2-0,2-0,Sunderland
+Sat Aug 9 2003,Preston,1-2,1-1,West Ham
+Sat Aug 9 2003,Rotherham,0-0,0-0,Cardiff
+Sat Aug 9 2003,Sheffield United,0-0,0-0,Gillingham
+Sat Aug 9 2003,Walsall,4-1,3-0,West Brom
+Sat Aug 9 2003,Wimbledon,3-1,1-1,Crewe
+Sat Aug 16 2003,Cardiff,0-2,0-1,Bradford
+Sat Aug 16 2003,Coventry,0-0,0-0,Walsall
+Sat Aug 16 2003,Crewe,1-0,0-0,Ipswich
+Sat Aug 16 2003,Crystal Palace,1-0,1-0,Watford
+Sat Aug 16 2003,Gillingham,0-0,0-0,Derby
+Sat Aug 16 2003,Norwich,2-0,2-0,Rotherham
+Sat Aug 16 2003,Reading,3-0,0-0,Nott'm Forest
+Sat Aug 16 2003,Stoke,2-1,1-0,Wimbledon
+Sat Aug 16 2003,Sunderland,0-1,0-1,Millwall
+Sat Aug 16 2003,West Brom,4-1,1-1,Burnley
+Sat Aug 16 2003,West Ham,0-0,0-0,Sheffield United
+Sat Aug 16 2003,Wigan,1-1,0-0,Preston
+Sat Aug 23 2003,Bradford,0-1,0-0,Gillingham
+Sat Aug 23 2003,Burnley,0-2,0-1,Wigan
+Sat Aug 23 2003,Derby,2-3,1-3,Reading
+Sat Aug 23 2003,Ipswich,1-1,1-1,Coventry
+Sat Aug 23 2003,Millwall,1-1,0-0,Crewe
+Sat Aug 23 2003,Nott'm Forest,1-2,0-2,Cardiff
+Sat Aug 23 2003,Preston,0-2,0-2,Sunderland
+Sat Aug 23 2003,Rotherham,1-0,1-0,West Ham
+Sat Aug 23 2003,Sheffield United,1-0,1-0,Norwich
+Sat Aug 23 2003,Walsall,1-1,0-1,Stoke
+Sat Aug 23 2003,Watford,0-1,0-0,West Brom
+Sat Aug 23 2003,Wimbledon,1-3,1-0,Crystal Palace
+Mon Aug 25 2003,Cardiff,4-1,2-0,Derby
+Mon Aug 25 2003,Crewe,1-0,0-0,Walsall
+Mon Aug 25 2003,Gillingham,0-3,0-2,Burnley
+Mon Aug 25 2003,Reading,0-0,0-0,Rotherham
+Mon Aug 25 2003,Sunderland,2-0,1-0,Watford
+Mon Aug 25 2003,West Brom,1-0,1-0,Preston
+Tue Aug 26 2003,Crystal Palace,1-2,0-2,Sheffield United
+Tue Aug 26 2003,Norwich,3-2,2-0,Wimbledon
+Tue Aug 26 2003,Stoke,0-0,0-0,Millwall
+Tue Aug 26 2003,West Ham,1-0,1-0,Bradford
+Tue Aug 26 2003,Wigan,1-0,0-0,Ipswich
+Wed Aug 27 2003,Coventry,1-3,0-1,Nott'm Forest
+Sat Aug 30 2003,Bradford,0-4,0-3,Sunderland
+Sat Aug 30 2003,Burnley,1-0,0-0,Crewe
+Sat Aug 30 2003,Derby,0-1,0-0,West Brom
+Sat Aug 30 2003,Ipswich,1-2,0-1,West Ham
+Sat Aug 30 2003,Millwall,1-1,0-0,Crystal Palace
+Sat Aug 30 2003,Nott'm Forest,2-0,1-0,Norwich
+Sat Aug 30 2003,Preston,1-0,1-0,Stoke
+Sat Aug 30 2003,Rotherham,0-3,0-0,Wigan
+Sat Aug 30 2003,Sheffield United,2-1,1-0,Coventry
+Sat Aug 30 2003,Walsall,1-1,0-0,Cardiff
+Sat Aug 30 2003,Watford,2-2,1-0,Gillingham
+Sat Aug 30 2003,Wimbledon,0-3,0-1,Reading
+Sat Sep 6 2003,Gillingham,4-3,2-1,Millwall
+Sat Sep 6 2003,Stoke,1-2,0-2,Burnley
+Sat Sep 13 2003,Bradford,2-1,0-1,Preston
+Sat Sep 13 2003,Cardiff,5-0,4-0,Gillingham
+Sat Sep 13 2003,Coventry,4-2,2-1,Stoke
+Sat Sep 13 2003,Norwich,2-0,0-0,Burnley
+Sat Sep 13 2003,Nott'm Forest,3-1,1-0,Sheffield United
+Sat Sep 13 2003,Rotherham,0-2,0-1,Crewe
+Sat Sep 13 2003,Sunderland,2-1,0-0,Crystal Palace
+Sat Sep 13 2003,Walsall,0-1,0-0,Derby
+Sat Sep 13 2003,Watford,3-1,2-1,Millwall
+Sat Sep 13 2003,West Brom,4-1,2-0,Ipswich
+Sat Sep 13 2003,West Ham,1-0,1-0,Reading
+Sat Sep 13 2003,Wimbledon,2-4,1-3,Wigan
+Tue Sep 16 2003,Burnley,0-3,0-1,Nott'm Forest
+Tue Sep 16 2003,Crewe,0-3,0-3,West Ham
+Tue Sep 16 2003,Crystal Palace,0-1,0-1,Bradford
+Tue Sep 16 2003,Gillingham,1-2,1-1,Norwich
+Tue Sep 16 2003,Ipswich,2-1,1-1,Walsall
+Tue Sep 16 2003,Millwall,2-0,1-0,Wimbledon
+Tue Sep 16 2003,Preston,4-2,2-1,Coventry
+Tue Sep 16 2003,Reading,2-1,0-1,Cardiff
+Tue Sep 16 2003,Sheffield United,5-0,2-0,Rotherham
+Tue Sep 16 2003,Stoke,3-1,3-0,Sunderland
+Tue Sep 16 2003,Wigan,1-0,1-0,West Brom
+Wed Sep 17 2003,Derby,3-2,1-1,Watford
+Sat Sep 20 2003,Burnley,4-0,1-0,Bradford
+Sat Sep 20 2003,Crewe,3-1,0-0,Nott'm Forest
+Sat Sep 20 2003,Crystal Palace,2-2,0-0,West Brom
+Sat Sep 20 2003,Derby,1-1,0-0,Sunderland
+Sat Sep 20 2003,Gillingham,2-0,0-0,West Ham
+Sat Sep 20 2003,Ipswich,4-1,2-1,Wimbledon
+Sat Sep 20 2003,Millwall,2-1,1-1,Walsall
+Sat Sep 20 2003,Preston,4-1,1-1,Rotherham
+Sat Sep 20 2003,Reading,1-2,1-1,Coventry
+Sat Sep 20 2003,Sheffield United,5-3,0-0,Cardiff
+Sat Sep 20 2003,Stoke,1-1,1-0,Norwich
+Sat Sep 20 2003,Wigan,1-0,1-0,Watford
+Sat Sep 27 2003,Bradford,1-2,1-1,Sheffield United
+Sat Sep 27 2003,Cardiff,3-0,1-0,Crewe
+Sat Sep 27 2003,Coventry,1-1,0-0,Wigan
+Sat Sep 27 2003,Norwich,2-1,1-1,Crystal Palace
+Sat Sep 27 2003,Nott'm Forest,1-1,1-1,Derby
+Sat Sep 27 2003,Rotherham,1-1,0-1,Gillingham
+Sat Sep 27 2003,Sunderland,2-0,2-0,Reading
+Sat Sep 27 2003,Walsall,2-1,0-0,Preston
+Sat Sep 27 2003,Watford,1-2,0-0,Ipswich
+Sat Sep 27 2003,West Brom,1-0,0-0,Stoke
+Sat Sep 27 2003,Wimbledon,2-2,0-2,Burnley
+Sun Sep 28 2003,West Ham,1-1,1-0,Millwall
+Mon Sep 29 2003,Walsall,2-1,1-0,Gillingham
+Tue Sep 30 2003,Bradford,1-2,0-1,Derby
+Tue Sep 30 2003,Cardiff,0-0,0-0,Wigan
+Tue Sep 30 2003,Norwich,2-1,1-1,Reading
+Tue Sep 30 2003,Rotherham,3-0,1-0,Stoke
+Tue Sep 30 2003,Sunderland,3-2,1-1,Ipswich
+Tue Sep 30 2003,Watford,1-1,1-0,Burnley
+Tue Sep 30 2003,West Brom,2-1,2-1,Millwall
+Tue Sep 30 2003,Wimbledon,1-2,0-0,Sheffield United
+Wed Oct 1 2003,Coventry,2-0,0-0,Crewe
+Wed Oct 1 2003,Nott'm Forest,0-1,0-1,Preston
+Wed Oct 1 2003,West Ham,3-0,2-0,Crystal Palace
+Sat Oct 4 2003,Burnley,3-1,1-1,Walsall
+Sat Oct 4 2003,Crewe,0-1,0-0,Watford
+Sat Oct 4 2003,Crystal Palace,2-1,1-0,Cardiff
+Sat Oct 4 2003,Derby,0-1,0-0,West Ham
+Sat Oct 4 2003,Gillingham,0-2,0-2,West Brom
+Sat Oct 4 2003,Ipswich,2-1,0-0,Rotherham
+Sat Oct 4 2003,Millwall,2-1,0-0,Coventry
+Sat Oct 4 2003,Preston,1-0,1-0,Wimbledon
+Sat Oct 4 2003,Reading,2-2,1-1,Bradford
+Sat Oct 4 2003,Sheffield United,0-1,0-0,Sunderland
+Sat Oct 4 2003,Stoke,2-1,2-0,Nott'm Forest
+Sat Oct 4 2003,Wigan,1-1,1-0,Norwich
+Sat Oct 11 2003,Bradford,0-1,0-1,Ipswich
+Sat Oct 11 2003,Derby,2-2,1-2,Wigan
+Sat Oct 11 2003,Rotherham,0-0,0-0,Millwall
+Tue Oct 14 2003,Crewe,2-2,0-0,Bradford
+Tue Oct 14 2003,Crystal Palace,1-1,1-0,Derby
+Tue Oct 14 2003,Ipswich,6-1,5-0,Burnley
+Tue Oct 14 2003,Millwall,0-1,0-0,Preston
+Tue Oct 14 2003,Nott'm Forest,2-2,2-0,Rotherham
+Tue Oct 14 2003,Reading,2-1,0-0,Gillingham
+Tue Oct 14 2003,Sunderland,0-0,0-0,Cardiff
+Tue Oct 14 2003,Watford,1-1,0-1,Walsall
+Tue Oct 14 2003,West Brom,0-2,0-2,Sheffield United
+Tue Oct 14 2003,Wigan,2-1,0-1,Stoke
+Wed Oct 15 2003,Coventry,1-0,0-0,Wimbledon
+Wed Oct 15 2003,West Ham,1-1,1-0,Norwich
+Sat Oct 18 2003,Coventry,1-3,1-3,Cardiff
+Sat Oct 18 2003,Crewe,3-0,2-0,Derby
+Sat Oct 18 2003,Crystal Palace,1-1,0-1,Rotherham
+Sat Oct 18 2003,Ipswich,1-0,1-0,Stoke
+Sat Oct 18 2003,Millwall,2-0,0-0,Sheffield United
+Sat Oct 18 2003,Nott'm Forest,6-0,3-0,Wimbledon
+Sat Oct 18 2003,Reading,3-2,1-1,Preston
+Sat Oct 18 2003,Sunderland,1-0,1-0,Walsall
+Sat Oct 18 2003,Watford,1-0,0-0,Bradford
+Sat Oct 18 2003,West Brom,1-0,1-0,Norwich
+Sat Oct 18 2003,West Ham,2-2,1-1,Burnley
+Sat Oct 18 2003,Wigan,1-0,0-0,Gillingham
+Tue Oct 21 2003,Crewe,2-1,2-0,Preston
+Tue Oct 21 2003,Crystal Palace,3-4,2-2,Ipswich
+Tue Oct 21 2003,Norwich,2-1,0-0,Derby
+Tue Oct 21 2003,Reading,0-1,0-1,Walsall
+Tue Oct 21 2003,Sunderland,0-0,0-0,Rotherham
+Tue Oct 21 2003,Watford,1-1,0-0,Coventry
+Tue Oct 21 2003,West Brom,0-1,0-0,Wimbledon
+Tue Oct 21 2003,Wigan,1-1,1-0,Sheffield United
+Wed Oct 22 2003,West Ham,1-1,0-1,Nott'm Forest
+Fri Oct 24 2003,Sheffield United,1-2,1-2,Reading
+Sat Oct 25 2003,Bradford,1-2,1-0,Nott'm Forest
+Sat Oct 25 2003,Burnley,1-1,0-0,Millwall
+Sat Oct 25 2003,Cardiff,0-0,0-0,West Ham
+Sat Oct 25 2003,Derby,1-3,0-2,Coventry
+Sat Oct 25 2003,Gillingham,1-0,0-0,Crystal Palace
+Sat Oct 25 2003,Norwich,1-0,1-0,Sunderland
+Sat Oct 25 2003,Preston,1-1,1-0,Ipswich
+Sat Oct 25 2003,Rotherham,0-3,0-1,West Brom
+Sat Oct 25 2003,Stoke,1-1,0-0,Crewe
+Sat Oct 25 2003,Walsall,2-0,0-0,Wigan
+Sat Oct 25 2003,Wimbledon,1-3,0-2,Watford
+Tue Oct 28 2003,Cardiff,3-0,1-0,Watford
+Sat Nov 1 2003,Burnley,1-1,0-0,Cardiff
+Sat Nov 1 2003,Coventry,1-1,1-1,West Ham
+Sat Nov 1 2003,Crewe,1-0,1-0,Reading
+Sat Nov 1 2003,Ipswich,3-4,1-2,Gillingham
+Sat Nov 1 2003,Millwall,1-0,1-0,Nott'm Forest
+Sat Nov 1 2003,Preston,3-0,1-0,Derby
+Sat Nov 1 2003,Stoke,2-2,2-0,Sheffield United
+Sat Nov 1 2003,Walsall,1-3,1-0,Norwich
+Sat Nov 1 2003,Watford,1-0,0-0,Rotherham
+Sat Nov 1 2003,West Brom,0-0,0-0,Sunderland
+Sat Nov 1 2003,Wigan,5-0,2-0,Crystal Palace
+Sat Nov 1 2003,Wimbledon,2-1,0-1,Bradford
+Tue Nov 4 2003,Gillingham,1-3,1-1,Sunderland
+Tue Nov 4 2003,Preston,2-1,0-0,Watford
+Tue Nov 4 2003,Sheffield United,2-0,1-0,Crewe
+Tue Nov 4 2003,Walsall,4-1,2-1,Nott'm Forest
+Wed Nov 5 2003,Coventry,0-0,0-0,Bradford
+Sat Nov 8 2003,Bradford,1-1,1-1,Walsall
+Sat Nov 8 2003,Cardiff,3-1,1-0,Stoke
+Sat Nov 8 2003,Crystal Palace,1-1,0-0,Preston
+Sat Nov 8 2003,Derby,2-2,2-0,Ipswich
+Sat Nov 8 2003,Gillingham,2-0,0-0,Crewe
+Sat Nov 8 2003,Norwich,3-1,3-0,Millwall
+Sat Nov 8 2003,Nott'm Forest,1-1,0-0,Watford
+Sat Nov 8 2003,Reading,1-0,0-0,Wigan
+Sat Nov 8 2003,Rotherham,3-1,2-0,Wimbledon
+Sat Nov 8 2003,Sheffield United,1-0,1-0,Burnley
+Sat Nov 8 2003,Sunderland,0-0,0-0,Coventry
+Sat Nov 8 2003,West Ham,3-4,3-2,West Brom
+Sat Nov 15 2003,Derby,2-0,1-0,Burnley
+Sat Nov 15 2003,Gillingham,1-2,1-1,Wimbledon
+Sat Nov 15 2003,Norwich,1-2,0-1,Watford
+Sat Nov 15 2003,Reading,1-0,1-0,Millwall
+Sat Nov 22 2003,Burnley,1-1,1-0,Rotherham
+Sat Nov 22 2003,Coventry,2-2,0-0,Gillingham
+Sat Nov 22 2003,Crewe,3-0,0-0,Sunderland
+Sat Nov 22 2003,Ipswich,3-0,1-0,Sheffield United
+Sat Nov 22 2003,Millwall,0-0,0-0,Derby
+Sat Nov 22 2003,Preston,0-0,0-0,Norwich
+Sat Nov 22 2003,Stoke,1-0,1-0,Bradford
+Sat Nov 22 2003,Walsall,0-0,0-0,Crystal Palace
+Sat Nov 22 2003,Watford,0-0,0-0,West Ham
+Sat Nov 22 2003,West Brom,0-0,0-0,Reading
+Sat Nov 22 2003,Wigan,2-2,1-0,Nott'm Forest
+Sat Nov 22 2003,Wimbledon,0-1,0-1,Cardiff
+Tue Nov 25 2003,Burnley,3-0,1-0,Reading
+Tue Nov 25 2003,Cardiff,1-1,0-0,West Brom
+Tue Nov 25 2003,Norwich,1-1,1-0,Coventry
+Tue Nov 25 2003,Stoke,0-1,0-1,Crystal Palace
+Tue Nov 25 2003,Wimbledon,1-1,0-0,West Ham
+Sat Nov 29 2003,Bradford,3-2,0-2,Millwall
+Sat Nov 29 2003,Cardiff,2-3,0-2,Ipswich
+Sat Nov 29 2003,Crystal Palace,1-1,1-0,Coventry
+Sat Nov 29 2003,Derby,3-1,1-1,Wimbledon
+Sat Nov 29 2003,Gillingham,3-1,2-0,Stoke
+Sat Nov 29 2003,Norwich,1-0,1-0,Crewe
+Sat Nov 29 2003,Nott'm Forest,0-3,0-2,West Brom
+Sat Nov 29 2003,Reading,2-1,0-0,Watford
+Sat Nov 29 2003,Rotherham,2-0,0-0,Walsall
+Sat Nov 29 2003,Sheffield United,2-0,1-0,Preston
+Sat Nov 29 2003,Sunderland,1-1,1-0,Burnley
+Sat Nov 29 2003,West Ham,4-0,2-0,Wigan
+Tue Dec 2 2003,Rotherham,2-0,2-0,Coventry
+Tue Dec 2 2003,Sunderland,1-1,0-0,Wigan
+Wed Dec 3 2003,Nott'm Forest,1-1,0-0,Ipswich
+Sat Dec 6 2003,Burnley,3-2,3-2,Sheffield United
+Sat Dec 6 2003,Crewe,1-1,1-0,Gillingham
+Sat Dec 6 2003,Ipswich,2-1,1-0,Derby
+Sat Dec 6 2003,Millwall,0-0,0-0,Norwich
+Sat Dec 6 2003,Preston,4-1,0-0,Crystal Palace
+Sat Dec 6 2003,Stoke,2-3,1-2,Cardiff
+Sat Dec 6 2003,Walsall,1-0,0-0,Bradford
+Sat Dec 6 2003,Watford,1-1,0-0,Nott'm Forest
+Sat Dec 6 2003,West Brom,1-1,0-0,West Ham
+Sat Dec 6 2003,Wigan,0-2,0-0,Reading
+Sat Dec 6 2003,Wimbledon,1-2,0-1,Rotherham
+Mon Dec 8 2003,Coventry,1-1,1-1,Sunderland
+Tue Dec 9 2003,Bradford,0-1,0-0,West Brom
+Tue Dec 9 2003,Cardiff,2-2,0-0,Preston
+Tue Dec 9 2003,Crystal Palace,1-3,0-2,Crewe
+Tue Dec 9 2003,Sheffield United,2-0,1-0,Walsall
+Tue Dec 9 2003,West Ham,0-1,0-1,Stoke
+Sat Dec 13 2003,Burnley,1-2,0-2,Coventry
+Sat Dec 13 2003,Crystal Palace,1-0,1-0,Nott'm Forest
+Sat Dec 13 2003,Gillingham,0-1,0-1,Preston
+Sat Dec 13 2003,Millwall,0-0,0-0,Ipswich
+Sat Dec 13 2003,Norwich,4-1,1-0,Cardiff
+Sat Dec 13 2003,Rotherham,0-0,0-0,Derby
+Sat Dec 13 2003,Sheffield United,2-2,0-0,Watford
+Sat Dec 13 2003,Stoke,3-0,2-0,Reading
+Sat Dec 13 2003,West Brom,2-2,1-2,Crewe
+Sat Dec 13 2003,West Ham,3-2,0-2,Sunderland
+Sat Dec 13 2003,Wigan,1-0,0-0,Bradford
+Sat Dec 13 2003,Wimbledon,0-1,0-0,Walsall
+Sat Dec 20 2003,Bradford,0-2,0-1,Rotherham
+Sat Dec 20 2003,Cardiff,1-3,1-1,Millwall
+Sat Dec 20 2003,Coventry,1-0,0-0,West Brom
+Sat Dec 20 2003,Crewe,2-3,2-2,Wigan
+Sat Dec 20 2003,Preston,5-3,1-1,Burnley
+Sat Dec 20 2003,Reading,0-3,0-2,Crystal Palace
+Sat Dec 20 2003,Sunderland,2-1,1-1,Wimbledon
+Sat Dec 20 2003,Walsall,1-1,0-1,West Ham
+Sat Dec 20 2003,Watford,1-3,1-1,Stoke
+Sun Dec 21 2003,Ipswich,0-2,0-1,Norwich
+Fri Dec 26 2003,Cardiff,0-1,0-0,Walsall
+Fri Dec 26 2003,Coventry,0-1,0-0,Sheffield United
+Fri Dec 26 2003,Crewe,3-1,1-0,Burnley
+Fri Dec 26 2003,Crystal Palace,0-1,0-1,Millwall
+Fri Dec 26 2003,Gillingham,1-0,0-0,Watford
+Fri Dec 26 2003,Norwich,1-0,1-0,Nott'm Forest
+Fri Dec 26 2003,Reading,0-3,0-2,Wimbledon
+Fri Dec 26 2003,Stoke,1-1,0-0,Preston
+Fri Dec 26 2003,Sunderland,3-0,1-0,Bradford
+Fri Dec 26 2003,West Brom,1-1,0-0,Derby
+Fri Dec 26 2003,West Ham,1-2,0-0,Ipswich
+Fri Dec 26 2003,Wigan,1-2,0-0,Rotherham
+Sun Dec 28 2003,Bradford,1-0,1-0,Coventry
+Sun Dec 28 2003,Burnley,0-1,0-0,Stoke
+Sun Dec 28 2003,Derby,0-4,0-0,Norwich
+Sun Dec 28 2003,Ipswich,1-3,1-0,Crystal Palace
+Sun Dec 28 2003,Millwall,1-2,0-1,Gillingham
+Sun Dec 28 2003,Nott'm Forest,0-2,0-1,West Ham
+Sun Dec 28 2003,Preston,0-0,0-0,Crewe
+Sun Dec 28 2003,Rotherham,0-2,0-2,Sunderland
+Sun Dec 28 2003,Sheffield United,1-1,1-1,Wigan
+Sun Dec 28 2003,Walsall,1-1,1-0,Reading
+Sun Dec 28 2003,Watford,2-1,0-0,Cardiff
+Tue Dec 30 2003,Wimbledon,0-0,0-0,West Brom
+Fri Jan 9 2004,West Brom,2-0,0-0,Walsall
+Sat Jan 10 2004,Cardiff,3-2,3-2,Rotherham
+Sat Jan 10 2004,Coventry,0-0,0-0,Watford
+Sat Jan 10 2004,Crewe,1-0,0-0,Wimbledon
+Sat Jan 10 2004,Crystal Palace,0-0,0-0,Burnley
+Sat Jan 10 2004,Gillingham,0-3,0-1,Sheffield United
+Sat Jan 10 2004,Norwich,0-1,0-1,Bradford
+Sat Jan 10 2004,Reading,1-1,0-0,Ipswich
+Sat Jan 10 2004,Stoke,2-1,1-1,Derby
+Sat Jan 10 2004,Sunderland,1-0,1-0,Nott'm Forest
+Sat Jan 10 2004,West Ham,1-2,1-0,Preston
+Sat Jan 10 2004,Wigan,0-0,0-0,Millwall
+Sat Jan 17 2004,Bradford,0-1,0-0,Cardiff
+Sat Jan 17 2004,Burnley,1-1,0-0,West Brom
+Sat Jan 17 2004,Derby,2-1,1-0,Gillingham
+Sat Jan 17 2004,Ipswich,6-4,2-1,Crewe
+Sat Jan 17 2004,Millwall,2-1,1-1,Sunderland
+Sat Jan 17 2004,Nott'm Forest,0-1,0-1,Reading
+Sat Jan 17 2004,Preston,2-4,1-2,Wigan
+Sat Jan 17 2004,Rotherham,4-4,2-3,Norwich
+Sat Jan 17 2004,Sheffield United,3-3,1-3,West Ham
+Sat Jan 17 2004,Walsall,1-6,1-1,Coventry
+Sat Jan 17 2004,Watford,1-5,0-3,Crystal Palace
+Sat Jan 17 2004,Wimbledon,0-1,0-0,Stoke
+Sat Jan 24 2004,Bradford,1-2,1-2,Crystal Palace
+Wed Jan 28 2004,Derby,2-0,0-0,Sheffield United
+Sat Jan 31 2004,Cardiff,0-0,0-0,Nott'm Forest
+Sat Jan 31 2004,Coventry,1-1,1-0,Ipswich
+Sat Jan 31 2004,Crewe,1-2,0-1,Millwall
+Sat Jan 31 2004,Crystal Palace,3-1,1-0,Wimbledon
+Sat Jan 31 2004,Gillingham,1-0,1-0,Bradford
+Sat Jan 31 2004,Norwich,1-0,0-0,Sheffield United
+Sat Jan 31 2004,Reading,3-1,2-0,Derby
+Sat Jan 31 2004,Stoke,3-2,2-2,Walsall
+Sat Jan 31 2004,West Brom,3-1,1-0,Watford
+Sat Jan 31 2004,West Ham,2-1,1-1,Rotherham
+Sat Jan 31 2004,Wigan,0-0,0-0,Burnley
+Sat Feb 7 2004,Bradford,1-2,1-0,West Ham
+Sat Feb 7 2004,Burnley,1-0,0-0,Gillingham
+Sat Feb 7 2004,Derby,2-2,0-0,Cardiff
+Sat Feb 7 2004,Ipswich,1-3,0-2,Wigan
+Sat Feb 7 2004,Millwall,1-1,1-1,Stoke
+Sat Feb 7 2004,Nott'm Forest,0-1,0-1,Coventry
+Sat Feb 7 2004,Preston,3-0,1-0,West Brom
+Sat Feb 7 2004,Rotherham,5-1,2-1,Reading
+Sat Feb 7 2004,Sheffield United,0-3,0-1,Crystal Palace
+Sat Feb 7 2004,Walsall,1-1,1-0,Crewe
+Sat Feb 7 2004,Watford,2-2,1-0,Sunderland
+Sat Feb 7 2004,Wimbledon,0-1,0-1,Norwich
+Sat Feb 14 2004,Coventry,0-2,0-1,Norwich
+Sat Feb 14 2004,Crystal Palace,6-3,4-2,Stoke
+Sat Feb 14 2004,Ipswich,3-1,2-1,Bradford
+Sat Feb 14 2004,Nott'm Forest,3-3,1-3,Walsall
+Sat Feb 14 2004,Watford,2-0,1-0,Preston
+Sat Feb 14 2004,West Brom,2-1,0-0,Cardiff
+Sat Feb 14 2004,Wigan,2-0,1-0,Derby
+Sat Feb 21 2004,Bradford,2-1,0-0,Crewe
+Sat Feb 21 2004,Burnley,4-2,2-0,Ipswich
+Sat Feb 21 2004,Cardiff,4-0,2-0,Sunderland
+Sat Feb 21 2004,Derby,2-1,0-1,Crystal Palace
+Sat Feb 21 2004,Gillingham,0-1,0-1,Reading
+Sat Feb 21 2004,Norwich,1-1,0-0,West Ham
+Sat Feb 21 2004,Preston,1-2,0-1,Millwall
+Sat Feb 21 2004,Rotherham,1-1,0-0,Nott'm Forest
+Sat Feb 21 2004,Sheffield United,1-2,0-0,West Brom
+Sat Feb 21 2004,Stoke,1-1,1-0,Wigan
+Sat Feb 21 2004,Walsall,0-1,0-1,Watford
+Sat Feb 21 2004,Wimbledon,0-3,0-2,Coventry
+Tue Feb 24 2004,Crewe,0-1,0-0,Sheffield United
+Tue Feb 24 2004,Millwall,2-1,1-0,Rotherham
+Tue Feb 24 2004,Reading,2-2,1-1,Burnley
+Wed Feb 25 2004,Nott'm Forest,0-0,0-0,Gillingham
+Sat Feb 28 2004,Coventry,2-0,2-0,Derby
+Sat Feb 28 2004,Crystal Palace,1-0,0-0,Gillingham
+Sat Feb 28 2004,Ipswich,2-0,0-0,Preston
+Sat Feb 28 2004,Millwall,2-0,1-0,Burnley
+Sat Feb 28 2004,Nott'm Forest,2-1,1-1,Bradford
+Sat Feb 28 2004,Reading,2-1,2-1,Sheffield United
+Sat Feb 28 2004,Watford,4-0,2-0,Wimbledon
+Sat Feb 28 2004,West Brom,0-1,0-0,Rotherham
+Sat Feb 28 2004,West Ham,1-0,0-0,Cardiff
+Sat Feb 28 2004,Wigan,1-0,0-0,Walsall
+Tue Mar 2 2004,Burnley,1-1,1-1,West Ham
+Tue Mar 2 2004,Cardiff,0-1,0-0,Coventry
+Tue Mar 2 2004,Norwich,0-0,0-0,West Brom
+Tue Mar 2 2004,Preston,2-1,1-0,Reading
+Tue Mar 2 2004,Sheffield United,2-1,0-0,Millwall
+Tue Mar 2 2004,Stoke,2-0,1-0,Ipswich
+Tue Mar 2 2004,Wimbledon,0-1,0-1,Nott'm Forest
+Wed Mar 3 2004,Derby,0-0,0-0,Crewe
+Wed Mar 3 2004,Walsall,1-3,0-1,Sunderland
+Sat Mar 6 2004,Burnley,1-1,1-0,Preston
+Sat Mar 6 2004,Crystal Palace,2-2,2-1,Reading
+Sat Mar 6 2004,Gillingham,2-1,1-1,Nott'm Forest
+Sat Mar 6 2004,Rotherham,1-2,0-2,Bradford
+Sat Mar 6 2004,Stoke,3-1,3-1,Watford
+Sat Mar 6 2004,West Brom,3-0,1-0,Coventry
+Sat Mar 6 2004,West Ham,0-0,0-0,Walsall
+Sat Mar 6 2004,Wigan,2-3,2-2,Crewe
+Sun Mar 7 2004,Norwich,3-1,0-0,Ipswich
+Tue Mar 9 2004,Bradford,2-0,2-0,Watford
+Tue Mar 9 2004,West Ham,5-0,2-0,Wimbledon
+Wed Mar 10 2004,Sunderland,3-3,1-1,Preston
+Sat Mar 13 2004,Bradford,0-0,0-0,Wigan
+Sat Mar 13 2004,Cardiff,2-1,2-0,Norwich
+Sat Mar 13 2004,Coventry,4-0,3-0,Burnley
+Sat Mar 13 2004,Crewe,1-2,0-0,West Brom
+Sat Mar 13 2004,Derby,1-0,0-0,Rotherham
+Sat Mar 13 2004,Ipswich,1-3,0-2,Millwall
+Sat Mar 13 2004,Nott'm Forest,3-2,2-0,Crystal Palace
+Sat Mar 13 2004,Preston,0-0,0-0,Gillingham
+Sat Mar 13 2004,Reading,0-0,0-0,Stoke
+Sat Mar 13 2004,Sunderland,2-0,0-0,West Ham
+Sat Mar 13 2004,Walsall,1-0,1-0,Wimbledon
+Sat Mar 13 2004,Watford,0-2,0-1,Sheffield United
+Tue Mar 16 2004,Cardiff,2-3,1-2,Reading
+Tue Mar 16 2004,Norwich,3-0,0-0,Gillingham
+Tue Mar 16 2004,Rotherham,1-1,0-0,Sheffield United
+Tue Mar 16 2004,Sunderland,1-1,0-1,Stoke
+Tue Mar 16 2004,Walsall,1-3,0-0,Ipswich
+Tue Mar 16 2004,Watford,2-1,1-1,Derby
+Tue Mar 16 2004,West Brom,2-1,0-0,Wigan
+Wed Mar 17 2004,Coventry,4-1,4-0,Preston
+Wed Mar 17 2004,Nott'm Forest,1-1,0-1,Burnley
+Wed Mar 17 2004,West Ham,4-2,4-0,Crewe
+Sat Mar 20 2004,Crewe,0-1,0-0,Cardiff
+Sat Mar 20 2004,Crystal Palace,1-0,1-0,Norwich
+Sat Mar 20 2004,Derby,4-2,3-1,Nott'm Forest
+Sat Mar 20 2004,Gillingham,2-0,2-0,Rotherham
+Sat Mar 20 2004,Ipswich,4-1,2-1,Watford
+Sat Mar 20 2004,Preston,1-2,0-1,Walsall
+Sat Mar 20 2004,Reading,0-2,0-0,Sunderland
+Sat Mar 20 2004,Sheffield United,2-0,0-0,Bradford
+Sat Mar 20 2004,Wigan,2-1,2-0,Coventry
+Sun Mar 21 2004,Millwall,4-1,1-0,West Ham
+Tue Mar 23 2004,Crewe,2-0,1-0,Stoke
+Tue Mar 23 2004,Sheffield United,1-1,1-1,Derby
+Tue Mar 23 2004,Sunderland,2-1,1-1,Gillingham
+Wed Mar 24 2004,Wimbledon,0-1,0-1,Millwall
+Sat Mar 27 2004,Bradford,1-2,1-1,Burnley
+Sat Mar 27 2004,Cardiff,2-1,1-1,Sheffield United
+Sat Mar 27 2004,Coventry,1-2,0-1,Reading
+Sat Mar 27 2004,Norwich,1-0,1-0,Stoke
+Sat Mar 27 2004,Nott'm Forest,2-0,2-0,Crewe
+Sat Mar 27 2004,Rotherham,1-0,1-0,Preston
+Sat Mar 27 2004,Sunderland,2-1,1-0,Derby
+Sat Mar 27 2004,Walsall,1-1,0-0,Millwall
+Sat Mar 27 2004,Watford,1-1,1-1,Wigan
+Sat Mar 27 2004,West Brom,2-0,0-0,Crystal Palace
+Sat Mar 27 2004,West Ham,2-1,1-1,Gillingham
+Sat Mar 27 2004,Wimbledon,1-2,0-0,Ipswich
+Sat Apr 3 2004,Burnley,3-5,3-2,Norwich
+Sat Apr 3 2004,Crewe,0-0,0-0,Rotherham
+Sat Apr 3 2004,Derby,0-1,0-0,Walsall
+Sat Apr 3 2004,Gillingham,1-2,0-1,Cardiff
+Sat Apr 3 2004,Preston,1-0,0-0,Bradford
+Sat Apr 3 2004,Reading,2-0,1-0,West Ham
+Sat Apr 3 2004,Sheffield United,1-2,0-1,Nott'm Forest
+Sat Apr 3 2004,Stoke,1-0,1-0,Coventry
+Sat Apr 3 2004,Wigan,0-1,0-1,Wimbledon
+Sun Apr 4 2004,Ipswich,2-3,1-0,West Brom
+Tue Apr 6 2004,Gillingham,0-3,0-2,Wigan
+Tue Apr 6 2004,Rotherham,1-2,0-2,Crystal Palace
+Tue Apr 6 2004,Wimbledon,1-2,0-1,Sunderland
+Wed Apr 7 2004,Millwall,0-0,0-0,Cardiff
+Fri Apr 9 2004,Norwich,2-0,0-0,Wigan
+Fri Apr 9 2004,Sunderland,3-0,1-0,Sheffield United
+Sat Apr 10 2004,Bradford,2-1,1-1,Reading
+Sat Apr 10 2004,Cardiff,0-2,0-0,Crystal Palace
+Sat Apr 10 2004,Coventry,4-0,2-0,Millwall
+Sat Apr 10 2004,Nott'm Forest,0-0,0-0,Stoke
+Sat Apr 10 2004,Rotherham,1-3,1-0,Ipswich
+Sat Apr 10 2004,Walsall,0-1,0-0,Burnley
+Sat Apr 10 2004,Watford,2-1,1-0,Crewe
+Sat Apr 10 2004,West Brom,1-0,0-0,Gillingham
+Sat Apr 10 2004,West Ham,0-0,0-0,Derby
+Sat Apr 10 2004,Wimbledon,3-3,1-2,Preston
+Mon Apr 12 2004,Burnley,2-3,1-1,Watford
+Mon Apr 12 2004,Crewe,3-1,0-0,Coventry
+Mon Apr 12 2004,Crystal Palace,1-0,0-0,West Ham
+Mon Apr 12 2004,Derby,3-2,1-0,Bradford
+Mon Apr 12 2004,Gillingham,3-0,1-0,Walsall
+Mon Apr 12 2004,Ipswich,1-0,1-0,Sunderland
+Mon Apr 12 2004,Millwall,1-1,1-0,West Brom
+Mon Apr 12 2004,Preston,2-2,1-2,Nott'm Forest
+Mon Apr 12 2004,Reading,0-1,0-0,Norwich
+Mon Apr 12 2004,Sheffield United,2-1,0-1,Wimbledon
+Mon Apr 12 2004,Stoke,0-2,0-1,Rotherham
+Tue Apr 13 2004,Wigan,3-0,1-0,Cardiff
+Sat Apr 17 2004,Bradford,2-3,0-2,Wimbledon
+Sat Apr 17 2004,Cardiff,2-0,0-0,Burnley
+Sat Apr 17 2004,Crystal Palace,1-1,0-1,Wigan
+Sat Apr 17 2004,Derby,5-1,4-0,Preston
+Sat Apr 17 2004,Gillingham,1-2,1-0,Ipswich
+Sat Apr 17 2004,Norwich,5-0,2-0,Walsall
+Sat Apr 17 2004,Nott'm Forest,2-2,0-0,Millwall
+Sat Apr 17 2004,Reading,1-1,1-1,Crewe
+Sat Apr 17 2004,Rotherham,1-1,1-1,Watford
+Sat Apr 17 2004,Sheffield United,0-1,0-1,Stoke
+Sat Apr 17 2004,West Ham,2-0,1-0,Coventry
+Sun Apr 18 2004,Sunderland,0-1,0-0,West Brom
+Tue Apr 20 2004,Burnley,2-0,2-0,Wimbledon
+Tue Apr 20 2004,Millwall,1-2,1-0,Watford
+Wed Apr 21 2004,Crystal Palace,3-0,1-0,Sunderland
+Sat Apr 24 2004,Burnley,1-0,1-0,Derby
+Sat Apr 24 2004,Coventry,1-1,0-0,Rotherham
+Sat Apr 24 2004,Crewe,2-3,0-2,Crystal Palace
+Sat Apr 24 2004,Ipswich,1-2,1-1,Nott'm Forest
+Sat Apr 24 2004,Millwall,0-1,0-1,Reading
+Sat Apr 24 2004,Preston,2-2,1-0,Cardiff
+Sat Apr 24 2004,Stoke,0-2,0-1,West Ham
+Sat Apr 24 2004,Walsall,0-1,0-0,Sheffield United
+Sat Apr 24 2004,Watford,1-2,0-1,Norwich
+Sat Apr 24 2004,West Brom,2-0,0-0,Bradford
+Sat Apr 24 2004,Wigan,0-0,0-0,Sunderland
+Sat Apr 24 2004,Wimbledon,1-2,0-0,Gillingham
+Fri Apr 30 2004,Sheffield United,1-1,0-0,Ipswich
+Sat May 1 2004,Bradford,0-2,0-1,Stoke
+Sat May 1 2004,Cardiff,1-1,0-0,Wimbledon
+Sat May 1 2004,Crystal Palace,1-0,0-0,Walsall
+Sat May 1 2004,Derby,2-0,1-0,Millwall
+Sat May 1 2004,Gillingham,2-5,0-3,Coventry
+Sat May 1 2004,Norwich,3-2,2-1,Preston
+Sat May 1 2004,Nott'm Forest,1-0,0-0,Wigan
+Sat May 1 2004,Reading,1-0,0-0,West Brom
+Sat May 1 2004,Rotherham,3-0,2-0,Burnley
+Sat May 1 2004,Sunderland,1-1,1-0,Crewe
+Sat May 1 2004,West Ham,4-0,2-0,Watford
+Tue May 4 2004,Stoke,4-1,1-0,West Brom
+Tue May 4 2004,Sunderland,1-0,1-0,Norwich
+Sun May 9 2004,Burnley,1-2,1-1,Sunderland
+Sun May 9 2004,Coventry,2-1,2-0,Crystal Palace
+Sun May 9 2004,Crewe,1-3,0-2,Norwich
+Sun May 9 2004,Ipswich,1-1,1-1,Cardiff
+Sun May 9 2004,Millwall,1-0,0-0,Bradford
+Sun May 9 2004,Preston,3-3,1-2,Sheffield United
+Sun May 9 2004,Stoke,0-0,0-0,Gillingham
+Sun May 9 2004,Walsall,3-2,0-0,Rotherham
+Sun May 9 2004,Watford,1-0,1-0,Reading
+Sun May 9 2004,West Brom,0-2,0-1,Nott'm Forest
+Sun May 9 2004,Wigan,1-1,1-0,West Ham
+Sun May 9 2004,Wimbledon,1-0,1-0,Derby

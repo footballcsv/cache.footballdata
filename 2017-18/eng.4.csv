@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 5 2017,Accrington,3-1,2-0,Colchester
+Sat Aug 5 2017,Carlisle,1-2,0-1,Swindon
+Sat Aug 5 2017,Chesterfield,1-3,0-2,Grimsby
+Sat Aug 5 2017,Coventry,3-0,1-0,Notts County
+Sat Aug 5 2017,Crawley Town,1-3,0-2,Port Vale
+Sat Aug 5 2017,Crewe,2-2,1-0,Mansfield
+Sat Aug 5 2017,Exeter,1-0,1-0,Cambridge
+Sat Aug 5 2017,Forest Green,2-2,2-0,Barnet
+Sat Aug 5 2017,Luton,8-2,5-1,Yeovil
+Sat Aug 5 2017,Morecambe,2-1,0-1,Cheltenham
+Sat Aug 5 2017,Stevenage,3-3,1-0,Newport County
+Sat Aug 5 2017,Wycombe,2-2,2-1,Lincoln
+Sat Aug 12 2017,Barnet,1-0,0-0,Luton
+Sat Aug 12 2017,Cambridge,1-2,1-2,Carlisle
+Sat Aug 12 2017,Cheltenham,1-0,1-0,Crawley Town
+Sat Aug 12 2017,Colchester,1-1,0-0,Stevenage
+Sat Aug 12 2017,Crewe,1-1,1-1,Newport County
+Sat Aug 12 2017,Grimsby,0-2,0-0,Coventry
+Sat Aug 12 2017,Lincoln,1-1,0-0,Morecambe
+Sat Aug 12 2017,Mansfield,2-0,0-0,Forest Green
+Sat Aug 12 2017,Notts County,2-0,0-0,Chesterfield
+Sat Aug 12 2017,Port Vale,2-3,0-3,Wycombe
+Sat Aug 12 2017,Swindon,1-1,0-1,Exeter
+Sat Aug 12 2017,Yeovil,3-2,3-1,Accrington
+Sat Aug 19 2017,Accrington,2-1,1-1,Mansfield
+Sat Aug 19 2017,Carlisle,3-0,2-0,Cheltenham
+Sat Aug 19 2017,Chesterfield,2-0,2-0,Port Vale
+Sat Aug 19 2017,Coventry,0-1,0-0,Newport County
+Sat Aug 19 2017,Crawley Town,0-1,0-0,Cambridge
+Sat Aug 19 2017,Crewe,1-0,0-0,Barnet
+Sat Aug 19 2017,Exeter,1-0,1-0,Lincoln
+Sat Aug 19 2017,Forest Green,4-3,2-3,Yeovil
+Sat Aug 19 2017,Luton,3-0,1-0,Colchester
+Sat Aug 19 2017,Morecambe,0-1,0-1,Swindon
+Sat Aug 19 2017,Stevenage,3-1,2-0,Grimsby
+Sat Aug 19 2017,Wycombe,2-4,0-2,Notts County
+Fri Aug 25 2017,Notts County,2-2,1-0,Accrington
+Sat Aug 26 2017,Barnet,0-1,0-1,Stevenage
+Sat Aug 26 2017,Cambridge,0-0,0-0,Morecambe
+Sat Aug 26 2017,Cheltenham,3-4,2-2,Exeter
+Sat Aug 26 2017,Colchester,5-1,2-1,Forest Green
+Sat Aug 26 2017,Grimsby,2-3,0-2,Wycombe
+Sat Aug 26 2017,Lincoln,4-1,1-0,Carlisle
+Sat Aug 26 2017,Mansfield,2-2,1-0,Luton
+Sat Aug 26 2017,Newport County,4-1,0-1,Chesterfield
+Sat Aug 26 2017,Port Vale,0-1,0-1,Crewe
+Sat Aug 26 2017,Swindon,0-3,0-1,Crawley Town
+Sat Aug 26 2017,Yeovil,2-0,1-0,Coventry
+Sat Sep 2 2017,Cambridge,1-0,0-0,Colchester
+Sat Sep 2 2017,Carlisle,1-1,1-0,Mansfield
+Sat Sep 2 2017,Cheltenham,0-1,0-0,Stevenage
+Sat Sep 2 2017,Chesterfield,0-0,0-0,Coventry
+Sat Sep 2 2017,Crawley Town,2-0,1-0,Yeovil
+Sat Sep 2 2017,Exeter,1-0,0-0,Newport County
+Sat Sep 2 2017,Grimsby,1-0,1-0,Crewe
+Sat Sep 2 2017,Lincoln,0-0,0-0,Luton
+Sat Sep 2 2017,Morecambe,1-2,0-1,Accrington
+Sat Sep 2 2017,Port Vale,0-1,0-0,Notts County
+Sat Sep 2 2017,Swindon,1-4,0-2,Barnet
+Sat Sep 2 2017,Wycombe,3-1,3-0,Forest Green
+Sat Sep 9 2017,Accrington,3-0,2-0,Carlisle
+Sat Sep 9 2017,Barnet,3-1,1-0,Cambridge
+Sat Sep 9 2017,Colchester,3-1,3-0,Crawley Town
+Sat Sep 9 2017,Coventry,1-0,1-0,Port Vale
+Sat Sep 9 2017,Crewe,5-1,1-0,Chesterfield
+Sat Sep 9 2017,Forest Green,1-3,0-2,Exeter
+Sat Sep 9 2017,Luton,0-3,0-1,Swindon
+Sat Sep 9 2017,Mansfield,4-1,1-0,Grimsby
+Sat Sep 9 2017,Newport County,0-0,0-0,Wycombe
+Sat Sep 9 2017,Notts County,2-0,1-0,Morecambe
+Sat Sep 9 2017,Stevenage,1-2,1-0,Lincoln
+Sat Sep 9 2017,Yeovil,0-0,0-0,Cheltenham
+Tue Sep 12 2017,Accrington,1-2,1-1,Grimsby
+Tue Sep 12 2017,Barnet,1-2,0-0,Exeter
+Tue Sep 12 2017,Colchester,1-1,0-1,Chesterfield
+Tue Sep 12 2017,Coventry,2-0,0-0,Carlisle
+Tue Sep 12 2017,Crewe,0-1,0-1,Cambridge
+Tue Sep 12 2017,Forest Green,0-1,0-0,Lincoln
+Tue Sep 12 2017,Luton,2-0,1-0,Port Vale
+Tue Sep 12 2017,Mansfield,0-0,0-0,Wycombe
+Tue Sep 12 2017,Newport County,1-0,1-0,Cheltenham
+Tue Sep 12 2017,Notts County,1-0,1-0,Swindon
+Tue Sep 12 2017,Stevenage,1-1,1-0,Crawley Town
+Tue Sep 12 2017,Yeovil,2-2,1-0,Morecambe
+Sat Sep 16 2017,Cambridge,2-1,1-0,Coventry
+Sat Sep 16 2017,Carlisle,1-1,0-1,Barnet
+Sat Sep 16 2017,Cheltenham,3-1,2-1,Colchester
+Sat Sep 16 2017,Chesterfield,1-2,0-0,Accrington
+Sat Sep 16 2017,Crawley Town,0-1,0-0,Notts County
+Sat Sep 16 2017,Exeter,3-0,2-0,Crewe
+Sat Sep 16 2017,Grimsby,2-1,1-1,Yeovil
+Sat Sep 16 2017,Lincoln,0-1,0-0,Mansfield
+Sat Sep 16 2017,Morecambe,2-1,1-1,Newport County
+Sat Sep 16 2017,Port Vale,1-1,1-0,Forest Green
+Sat Sep 16 2017,Swindon,3-2,2-0,Stevenage
+Sat Sep 16 2017,Wycombe,1-2,1-0,Luton
+Fri Sep 22 2017,Forest Green,0-2,0-0,Swindon
+Sat Sep 23 2017,Accrington,1-1,1-1,Cheltenham
+Sat Sep 23 2017,Barnet,1-2,0-0,Crawley Town
+Sat Sep 23 2017,Colchester,1-2,1-1,Wycombe
+Sat Sep 23 2017,Coventry,2-0,0-0,Exeter
+Sat Sep 23 2017,Crewe,0-5,0-1,Carlisle
+Sat Sep 23 2017,Luton,1-0,0-0,Chesterfield
+Sat Sep 23 2017,Mansfield,2-1,0-0,Cambridge
+Sat Sep 23 2017,Newport County,1-0,0-0,Grimsby
+Sat Sep 23 2017,Notts County,4-1,1-0,Lincoln
+Sat Sep 23 2017,Stevenage,2-1,1-1,Morecambe
+Sat Sep 23 2017,Yeovil,1-1,0-1,Port Vale
+Tue Sep 26 2017,Cambridge,3-0,1-0,Forest Green
+Tue Sep 26 2017,Carlisle,0-2,0-0,Stevenage
+Tue Sep 26 2017,Cheltenham,3-0,0-0,Mansfield
+Tue Sep 26 2017,Chesterfield,2-3,0-2,Yeovil
+Tue Sep 26 2017,Crawley Town,1-2,1-1,Newport County
+Tue Sep 26 2017,Exeter,0-3,0-1,Notts County
+Tue Sep 26 2017,Grimsby,2-2,1-1,Colchester
+Tue Sep 26 2017,Lincoln,2-1,2-0,Barnet
+Tue Sep 26 2017,Morecambe,0-0,0-0,Luton
+Tue Sep 26 2017,Port Vale,1-2,1-1,Accrington
+Tue Sep 26 2017,Swindon,1-2,1-1,Coventry
+Tue Sep 26 2017,Wycombe,3-2,1-1,Crewe
+Sat Sep 30 2017,Chesterfield,0-2,0-1,Cheltenham
+Sat Sep 30 2017,Coventry,1-0,1-0,Crewe
+Sat Sep 30 2017,Crawley Town,0-1,0-0,Carlisle
+Sat Sep 30 2017,Exeter,4-1,3-1,Morecambe
+Sat Sep 30 2017,Forest Green,0-1,0-0,Accrington
+Sat Sep 30 2017,Grimsby,0-0,0-0,Lincoln
+Sat Sep 30 2017,Luton,3-1,3-0,Newport County
+Sat Sep 30 2017,Mansfield,3-1,0-0,Notts County
+Sat Sep 30 2017,Stevenage,2-0,1-0,Port Vale
+Sat Sep 30 2017,Swindon,2-0,1-0,Cambridge
+Sat Sep 30 2017,Wycombe,3-1,1-0,Barnet
+Sat Sep 30 2017,Yeovil,0-1,0-1,Colchester
+Sat Oct 7 2017,Accrington,0-2,0-2,Luton
+Sat Oct 7 2017,Barnet,0-0,0-0,Coventry
+Sat Oct 7 2017,Cambridge,1-3,0-0,Wycombe
+Sat Oct 7 2017,Carlisle,0-1,0-0,Exeter
+Sat Oct 7 2017,Cheltenham,2-1,1-0,Swindon
+Sat Oct 7 2017,Colchester,2-0,2-0,Mansfield
+Sat Oct 7 2017,Crewe,1-0,0-0,Stevenage
+Sat Oct 7 2017,Lincoln,2-1,2-0,Chesterfield
+Sat Oct 7 2017,Morecambe,0-1,0-1,Crawley Town
+Sat Oct 7 2017,Newport County,2-0,1-0,Yeovil
+Sat Oct 7 2017,Notts County,1-1,0-1,Forest Green
+Sat Oct 7 2017,Port Vale,1-2,1-0,Grimsby
+Sat Oct 14 2017,Accrington,1-0,1-0,Coventry
+Sat Oct 14 2017,Chesterfield,0-2,0-1,Morecambe
+Sat Oct 14 2017,Colchester,0-1,0-0,Carlisle
+Sat Oct 14 2017,Forest Green,0-4,0-2,Newport County
+Sat Oct 14 2017,Grimsby,0-0,0-0,Crawley Town
+Sat Oct 14 2017,Lincoln,0-0,0-0,Cambridge
+Sat Oct 14 2017,Luton,7-1,3-1,Stevenage
+Sat Oct 14 2017,Mansfield,1-3,0-2,Swindon
+Sat Oct 14 2017,Notts County,2-1,1-0,Barnet
+Sat Oct 14 2017,Port Vale,3-1,1-0,Cheltenham
+Sat Oct 14 2017,Wycombe,0-0,0-0,Exeter
+Sat Oct 14 2017,Yeovil,2-0,1-0,Crewe
+Tue Oct 17 2017,Barnet,1-1,0-1,Mansfield
+Tue Oct 17 2017,Cambridge,2-1,2-0,Yeovil
+Tue Oct 17 2017,Carlisle,3-3,2-1,Wycombe
+Tue Oct 17 2017,Cheltenham,2-3,1-3,Grimsby
+Tue Oct 17 2017,Coventry,0-1,0-1,Forest Green
+Tue Oct 17 2017,Crawley Town,0-2,0-0,Chesterfield
+Tue Oct 17 2017,Crewe,2-0,1-0,Notts County
+Tue Oct 17 2017,Exeter,1-4,1-1,Luton
+Tue Oct 17 2017,Morecambe,0-3,0-1,Port Vale
+Tue Oct 17 2017,Newport County,1-2,0-0,Colchester
+Tue Oct 17 2017,Stevenage,3-2,0-1,Accrington
+Tue Oct 17 2017,Swindon,0-1,0-0,Lincoln
+Sat Oct 21 2017,Barnet,1-1,1-0,Yeovil
+Sat Oct 21 2017,Cambridge,2-1,0-0,Chesterfield
+Sat Oct 21 2017,Carlisle,1-1,1-0,Notts County
+Sat Oct 21 2017,Cheltenham,1-0,1-0,Lincoln
+Sat Oct 21 2017,Coventry,0-0,0-0,Colchester
+Sat Oct 21 2017,Crawley Town,0-0,0-0,Luton
+Sat Oct 21 2017,Crewe,0-2,0-2,Accrington
+Sat Oct 21 2017,Exeter,0-1,0-1,Port Vale
+Sat Oct 21 2017,Morecambe,0-0,0-0,Grimsby
+Sat Oct 21 2017,Newport County,1-1,0-1,Mansfield
+Sat Oct 21 2017,Stevenage,1-2,1-0,Forest Green
+Sat Oct 21 2017,Swindon,1-0,1-0,Wycombe
+Sat Oct 28 2017,Accrington,4-1,1-0,Barnet
+Sat Oct 28 2017,Chesterfield,2-2,1-0,Carlisle
+Sat Oct 28 2017,Colchester,3-1,1-1,Crewe
+Sat Oct 28 2017,Forest Green,2-0,1-0,Morecambe
+Sat Oct 28 2017,Grimsby,0-0,0-0,Cambridge
+Sat Oct 28 2017,Lincoln,0-0,0-0,Crawley Town
+Sat Oct 28 2017,Luton,0-3,0-1,Coventry
+Sat Oct 28 2017,Mansfield,1-1,1-0,Exeter
+Sat Oct 28 2017,Notts County,3-0,1-0,Newport County
+Sat Oct 28 2017,Port Vale,0-3,0-0,Swindon
+Sat Oct 28 2017,Wycombe,3-3,0-1,Cheltenham
+Sat Oct 28 2017,Yeovil,3-0,3-0,Stevenage
+Fri Nov 10 2017,Newport County,1-1,0-0,Port Vale
+Sat Nov 11 2017,Barnet,0-1,0-0,Colchester
+Sat Nov 11 2017,Cambridge,0-0,0-0,Accrington
+Sat Nov 11 2017,Carlisle,4-0,2-0,Yeovil
+Sat Nov 11 2017,Cheltenham,2-2,1-1,Luton
+Sat Nov 11 2017,Coventry,0-1,0-0,Mansfield
+Sat Nov 11 2017,Crawley Town,1-1,0-0,Forest Green
+Sat Nov 11 2017,Crewe,1-4,1-0,Lincoln
+Sat Nov 11 2017,Exeter,2-0,1-0,Grimsby
+Sat Nov 11 2017,Morecambe,2-1,2-0,Wycombe
+Sat Nov 11 2017,Stevenage,1-1,1-0,Notts County
+Sat Nov 11 2017,Swindon,2-2,0-0,Chesterfield
+Sat Nov 18 2017,Accrington,1-1,0-0,Newport County
+Sat Nov 18 2017,Chesterfield,1-0,0-0,Exeter
+Sat Nov 18 2017,Colchester,0-0,0-0,Morecambe
+Sat Nov 18 2017,Forest Green,3-2,1-1,Crewe
+Sat Nov 18 2017,Grimsby,0-1,0-0,Carlisle
+Sat Nov 18 2017,Lincoln,1-2,1-0,Coventry
+Sat Nov 18 2017,Luton,7-0,4-0,Cambridge
+Sat Nov 18 2017,Mansfield,1-0,1-0,Stevenage
+Sat Nov 18 2017,Notts County,3-1,1-1,Cheltenham
+Sat Nov 18 2017,Port Vale,1-0,0-0,Barnet
+Sat Nov 18 2017,Wycombe,4-0,0-0,Crawley Town
+Sat Nov 18 2017,Yeovil,1-2,1-0,Swindon
+Tue Nov 21 2017,Accrington,1-0,0-0,Wycombe
+Tue Nov 21 2017,Cheltenham,0-0,0-0,Cambridge
+Tue Nov 21 2017,Chesterfield,3-2,1-0,Forest Green
+Tue Nov 21 2017,Colchester,1-0,1-0,Lincoln
+Tue Nov 21 2017,Crawley Town,3-1,1-1,Exeter
+Tue Nov 21 2017,Grimsby,3-2,1-2,Swindon
+Tue Nov 21 2017,Luton,3-0,2-0,Carlisle
+Tue Nov 21 2017,Morecambe,0-1,0-0,Crewe
+Tue Nov 21 2017,Newport County,1-2,0-0,Barnet
+Tue Nov 21 2017,Port Vale,0-4,0-1,Mansfield
+Tue Nov 21 2017,Stevenage,1-1,0-1,Coventry
+Tue Nov 21 2017,Yeovil,1-1,0-1,Notts County
+Sat Nov 25 2017,Barnet,0-2,0-1,Grimsby
+Sat Nov 25 2017,Cambridge,1-0,0-0,Stevenage
+Sat Nov 25 2017,Carlisle,1-1,0-0,Morecambe
+Sat Nov 25 2017,Coventry,1-1,0-1,Crawley Town
+Sat Nov 25 2017,Crewe,1-2,0-0,Luton
+Sat Nov 25 2017,Exeter,2-0,1-0,Accrington
+Sat Nov 25 2017,Forest Green,1-1,1-1,Cheltenham
+Sat Nov 25 2017,Lincoln,3-1,1-1,Port Vale
+Sat Nov 25 2017,Mansfield,2-2,1-1,Chesterfield
+Sat Nov 25 2017,Notts County,2-1,0-0,Colchester
+Sat Nov 25 2017,Swindon,0-1,0-0,Newport County
+Sat Nov 25 2017,Wycombe,2-1,2-1,Yeovil
+Sat Dec 9 2017,Cheltenham,1-0,0-0,Crewe
+Sat Dec 9 2017,Chesterfield,2-1,0-1,Barnet
+Sat Dec 9 2017,Colchester,3-1,3-0,Exeter
+Sat Dec 9 2017,Crawley Town,2-0,0-0,Mansfield
+Sat Dec 9 2017,Grimsby,1-0,1-0,Forest Green
+Sat Dec 9 2017,Luton,1-1,1-0,Notts County
+Sat Dec 9 2017,Morecambe,2-0,1-0,Coventry
+Sat Dec 9 2017,Newport County,3-3,1-0,Carlisle
+Sat Dec 9 2017,Port Vale,2-0,1-0,Cambridge
+Sat Dec 9 2017,Stevenage,0-0,0-0,Wycombe
+Sat Dec 9 2017,Yeovil,0-2,0-0,Lincoln
+Fri Dec 15 2017,Swindon,2-3,1-1,Colchester
+Sat Dec 16 2017,Barnet,2-1,2-0,Morecambe
+Sat Dec 16 2017,Cambridge,1-2,0-1,Newport County
+Sat Dec 16 2017,Carlisle,1-2,0-0,Port Vale
+Sat Dec 16 2017,Coventry,2-1,1-1,Cheltenham
+Sat Dec 16 2017,Crewe,3-0,2-0,Crawley Town
+Sat Dec 16 2017,Exeter,2-1,0-0,Stevenage
+Sat Dec 16 2017,Forest Green,0-2,0-1,Luton
+Sat Dec 16 2017,Lincoln,2-0,1-0,Accrington
+Sat Dec 16 2017,Mansfield,0-0,0-0,Yeovil
+Sat Dec 16 2017,Notts County,0-0,0-0,Grimsby
+Sat Dec 16 2017,Wycombe,1-0,0-0,Chesterfield
+Fri Dec 22 2017,Coventry,3-2,2-1,Wycombe
+Sat Dec 23 2017,Accrington,2-3,1-3,Crawley Town
+Sat Dec 23 2017,Barnet,0-2,0-2,Cheltenham
+Sat Dec 23 2017,Colchester,1-1,1-0,Port Vale
+Sat Dec 23 2017,Crewe,0-3,0-3,Swindon
+Sat Dec 23 2017,Forest Green,0-1,0-1,Carlisle
+Sat Dec 23 2017,Luton,2-0,1-0,Grimsby
+Sat Dec 23 2017,Mansfield,2-1,1-0,Morecambe
+Sat Dec 23 2017,Newport County,0-0,0-0,Lincoln
+Sat Dec 23 2017,Notts County,3-3,0-1,Cambridge
+Sat Dec 23 2017,Stevenage,5-1,3-1,Chesterfield
+Sat Dec 23 2017,Yeovil,3-1,1-0,Exeter
+Tue Dec 26 2017,Cambridge,1-0,0-0,Barnet
+Tue Dec 26 2017,Carlisle,3-1,1-0,Accrington
+Tue Dec 26 2017,Cheltenham,0-2,0-0,Yeovil
+Tue Dec 26 2017,Chesterfield,0-2,0-2,Crewe
+Tue Dec 26 2017,Crawley Town,0-2,0-1,Colchester
+Tue Dec 26 2017,Grimsby,1-1,1-0,Mansfield
+Tue Dec 26 2017,Lincoln,3-0,1-0,Stevenage
+Tue Dec 26 2017,Morecambe,1-4,0-2,Notts County
+Tue Dec 26 2017,Port Vale,1-0,0-0,Coventry
+Tue Dec 26 2017,Swindon,0-5,0-0,Luton
+Tue Dec 26 2017,Wycombe,2-0,1-0,Newport County
+Fri Dec 29 2017,Morecambe,4-3,0-2,Yeovil
+Sat Dec 30 2017,Cambridge,3-1,2-1,Crewe
+Sat Dec 30 2017,Carlisle,0-1,0-0,Coventry
+Sat Dec 30 2017,Cheltenham,1-1,0-0,Newport County
+Sat Dec 30 2017,Chesterfield,0-0,0-0,Colchester
+Sat Dec 30 2017,Crawley Town,1-0,1-0,Stevenage
+Sat Dec 30 2017,Exeter,2-1,1-0,Barnet
+Sat Dec 30 2017,Grimsby,0-3,0-0,Accrington
+Sat Dec 30 2017,Lincoln,2-1,1-1,Forest Green
+Sat Dec 30 2017,Port Vale,4-0,1-0,Luton
+Sat Dec 30 2017,Swindon,1-0,0-0,Notts County
+Sat Dec 30 2017,Wycombe,1-2,1-0,Mansfield
+Mon Jan 1 2018,Barnet,1-2,1-2,Swindon
+Mon Jan 1 2018,Colchester,0-0,0-0,Cambridge
+Mon Jan 1 2018,Coventry,1-0,1-0,Chesterfield
+Mon Jan 1 2018,Crewe,2-0,2-0,Grimsby
+Mon Jan 1 2018,Forest Green,1-2,0-2,Wycombe
+Mon Jan 1 2018,Luton,4-2,2-2,Lincoln
+Mon Jan 1 2018,Mansfield,3-1,2-0,Carlisle
+Mon Jan 1 2018,Newport County,2-1,1-0,Exeter
+Mon Jan 1 2018,Notts County,1-0,0-0,Port Vale
+Mon Jan 1 2018,Stevenage,4-1,2-1,Cheltenham
+Mon Jan 1 2018,Yeovil,1-2,1-1,Crawley Town
+Sat Jan 6 2018,Accrington,4-0,2-0,Chesterfield
+Sat Jan 6 2018,Colchester,1-4,1-0,Cheltenham
+Sat Jan 6 2018,Forest Green,1-0,0-0,Port Vale
+Sat Jan 6 2018,Grimsby,0-2,0-2,Morecambe
+Sat Jan 13 2018,Cambridge,0-0,0-0,Mansfield
+Sat Jan 13 2018,Carlisle,1-0,0-0,Crewe
+Sat Jan 13 2018,Cheltenham,0-2,0-1,Accrington
+Sat Jan 13 2018,Chesterfield,2-0,2-0,Luton
+Sat Jan 13 2018,Crawley Town,2-0,0-0,Barnet
+Sat Jan 13 2018,Exeter,1-0,1-0,Coventry
+Sat Jan 13 2018,Grimsby,1-2,0-1,Newport County
+Sat Jan 13 2018,Lincoln,2-2,1-1,Notts County
+Sat Jan 13 2018,Morecambe,1-1,1-0,Stevenage
+Sat Jan 13 2018,Port Vale,1-1,0-1,Yeovil
+Sat Jan 13 2018,Swindon,1-0,0-0,Forest Green
+Sat Jan 13 2018,Wycombe,3-1,2-0,Colchester
+Fri Jan 19 2018,Newport County,2-1,2-0,Crawley Town
+Sat Jan 20 2018,Accrington,3-2,0-2,Port Vale
+Sat Jan 20 2018,Barnet,1-1,1-0,Lincoln
+Sat Jan 20 2018,Colchester,1-1,0-1,Grimsby
+Sat Jan 20 2018,Coventry,3-1,2-1,Swindon
+Sat Jan 20 2018,Crewe,2-3,1-0,Wycombe
+Sat Jan 20 2018,Forest Green,5-2,2-2,Cambridge
+Sat Jan 20 2018,Luton,1-0,0-0,Morecambe
+Sat Jan 20 2018,Mansfield,3-2,1-1,Cheltenham
+Sat Jan 20 2018,Notts County,1-2,0-2,Exeter
+Sat Jan 20 2018,Stevenage,0-0,0-0,Carlisle
+Sat Jan 20 2018,Yeovil,1-2,0-0,Chesterfield
+Tue Jan 23 2018,Newport County,1-1,1-0,Morecambe
+Tue Jan 23 2018,Notts County,1-2,0-1,Crawley Town
+Sat Jan 27 2018,Carlisle,1-0,1-0,Forest Green
+Sat Jan 27 2018,Cheltenham,1-1,0-1,Barnet
+Sat Jan 27 2018,Chesterfield,0-1,0-0,Stevenage
+Sat Jan 27 2018,Crawley Town,2-1,2-0,Accrington
+Sat Jan 27 2018,Grimsby,0-1,0-0,Luton
+Sat Jan 27 2018,Morecambe,1-2,1-0,Mansfield
+Sat Jan 27 2018,Port Vale,2-2,1-2,Colchester
+Sat Jan 27 2018,Swindon,4-3,1-2,Crewe
+Tue Jan 30 2018,Coventry,3-1,2-0,Cambridge
+Tue Jan 30 2018,Lincoln,3-1,1-1,Newport County
+Tue Jan 30 2018,Luton,2-3,1-2,Wycombe
+Tue Jan 30 2018,Stevenage,0-1,0-1,Swindon
+Tue Jan 30 2018,Yeovil,3-0,1-0,Grimsby
+Wed Jan 31 2018,Exeter,2-0,0-0,Forest Green
+Sat Feb 3 2018,Accrington,3-2,1-2,Stevenage
+Sat Feb 3 2018,Chesterfield,1-2,1-0,Crawley Town
+Sat Feb 3 2018,Colchester,2-0,0-0,Newport County
+Sat Feb 3 2018,Forest Green,2-1,1-0,Coventry
+Sat Feb 3 2018,Grimsby,1-1,1-0,Cheltenham
+Sat Feb 3 2018,Lincoln,2-2,1-2,Swindon
+Sat Feb 3 2018,Luton,1-0,1-0,Exeter
+Sat Feb 3 2018,Mansfield,3-1,1-0,Barnet
+Sat Feb 3 2018,Notts County,4-1,2-1,Crewe
+Sat Feb 3 2018,Port Vale,0-0,0-0,Morecambe
+Sat Feb 3 2018,Wycombe,4-3,2-0,Carlisle
+Sat Feb 3 2018,Yeovil,2-0,0-0,Cambridge
+Tue Feb 6 2018,Accrington,2-1,1-0,Swindon
+Fri Feb 9 2018,Cambridge,0-0,0-0,Lincoln
+Sat Feb 10 2018,Barnet,1-0,0-0,Notts County
+Sat Feb 10 2018,Carlisle,1-1,0-1,Colchester
+Sat Feb 10 2018,Cheltenham,5-1,2-1,Port Vale
+Sat Feb 10 2018,Coventry,0-2,0-1,Accrington
+Sat Feb 10 2018,Crawley Town,3-0,1-0,Grimsby
+Sat Feb 10 2018,Crewe,0-0,0-0,Yeovil
+Sat Feb 10 2018,Exeter,1-1,1-0,Wycombe
+Sat Feb 10 2018,Stevenage,1-1,0-0,Luton
+Sat Feb 10 2018,Swindon,1-0,1-0,Mansfield
+Tue Feb 13 2018,Accrington,1-0,1-0,Crewe
+Tue Feb 13 2018,Chesterfield,2-3,1-1,Cambridge
+Tue Feb 13 2018,Colchester,2-1,1-0,Coventry
+Tue Feb 13 2018,Forest Green,3-1,1-1,Stevenage
+Tue Feb 13 2018,Lincoln,1-0,1-0,Cheltenham
+Tue Feb 13 2018,Luton,4-1,2-0,Crawley Town
+Tue Feb 13 2018,Mansfield,5-0,4-0,Newport County
+Tue Feb 13 2018,Notts County,2-1,2-0,Carlisle
+Tue Feb 13 2018,Wycombe,3-2,2-1,Swindon
+Tue Feb 13 2018,Yeovil,2-0,1-0,Barnet
+Sat Feb 17 2018,Barnet,1-1,1-0,Accrington
+Sat Feb 17 2018,Cambridge,3-1,1-0,Grimsby
+Sat Feb 17 2018,Carlisle,2-0,1-0,Chesterfield
+Sat Feb 17 2018,Cheltenham,0-2,0-2,Wycombe
+Sat Feb 17 2018,Crawley Town,3-1,1-0,Lincoln
+Sat Feb 17 2018,Crewe,1-0,0-0,Colchester
+Sat Feb 17 2018,Exeter,0-1,0-1,Mansfield
+Sat Feb 17 2018,Morecambe,1-1,0-1,Forest Green
+Sat Feb 17 2018,Newport County,0-0,0-0,Notts County
+Sat Feb 17 2018,Stevenage,4-1,2-0,Yeovil
+Sat Feb 17 2018,Swindon,3-2,2-2,Port Vale
+Tue Feb 20 2018,Barnet,1-3,0-0,Carlisle
+Tue Feb 20 2018,Cambridge,1-0,1-0,Notts County
+Tue Feb 20 2018,Crewe,1-2,0-0,Exeter
+Sat Feb 24 2018,Accrington,1-0,0-0,Cambridge
+Sat Feb 24 2018,Chesterfield,2-1,1-0,Swindon
+Sat Feb 24 2018,Colchester,0-1,0-0,Barnet
+Sat Feb 24 2018,Forest Green,2-0,2-0,Crawley Town
+Sat Feb 24 2018,Grimsby,0-1,0-1,Exeter
+Sat Feb 24 2018,Lincoln,1-4,1-1,Crewe
+Sat Feb 24 2018,Luton,2-2,0-1,Cheltenham
+Sat Feb 24 2018,Mansfield,1-1,1-0,Coventry
+Sat Feb 24 2018,Notts County,2-0,0-0,Stevenage
+Sat Feb 24 2018,Port Vale,0-0,0-0,Newport County
+Sat Feb 24 2018,Wycombe,2-4,0-3,Morecambe
+Sat Feb 24 2018,Yeovil,0-1,0-0,Carlisle
+Tue Feb 27 2018,Wycombe,0-1,0-0,Coventry
+Sat Mar 3 2018,Cambridge,1-1,0-1,Luton
+Sat Mar 3 2018,Carlisle,2-0,1-0,Grimsby
+Tue Mar 6 2018,Accrington,1-0,1-0,Morecambe
+Tue Mar 6 2018,Cheltenham,1-1,0-1,Notts County
+Tue Mar 6 2018,Mansfield,1-1,0-0,Lincoln
+Tue Mar 6 2018,Newport County,3-3,3-2,Forest Green
+Sat Mar 10 2018,Chesterfield,1-3,1-1,Lincoln
+Sat Mar 10 2018,Coventry,1-0,0-0,Barnet
+Sat Mar 10 2018,Crawley Town,1-1,0-0,Morecambe
+Sat Mar 10 2018,Exeter,1-1,1-0,Carlisle
+Sat Mar 10 2018,Forest Green,1-2,0-1,Notts County
+Sat Mar 10 2018,Grimsby,1-1,0-1,Port Vale
+Sat Mar 10 2018,Luton,1-2,0-1,Accrington
+Sat Mar 10 2018,Mansfield,1-1,1-0,Colchester
+Sat Mar 10 2018,Stevenage,2-2,1-0,Crewe
+Sat Mar 10 2018,Swindon,0-3,0-1,Cheltenham
+Sat Mar 10 2018,Wycombe,1-1,1-0,Cambridge
+Sat Mar 10 2018,Yeovil,0-2,0-0,Newport County
+Tue Mar 13 2018,Barnet,1-1,1-0,Port Vale
+Tue Mar 13 2018,Coventry,2-2,2-0,Luton
+Tue Mar 13 2018,Exeter,0-0,0-0,Yeovil
+Sat Mar 17 2018,Accrington,3-1,1-0,Forest Green
+Sat Mar 17 2018,Barnet,0-2,0-0,Wycombe
+Sat Mar 17 2018,Cambridge,1-3,0-1,Swindon
+Sat Mar 17 2018,Carlisle,2-2,1-0,Crawley Town
+Sat Mar 17 2018,Cheltenham,1-1,0-0,Chesterfield
+Sat Mar 17 2018,Colchester,0-1,0-1,Yeovil
+Sat Mar 17 2018,Crewe,1-2,1-2,Coventry
+Sat Mar 17 2018,Lincoln,3-1,3-1,Grimsby
+Sat Mar 17 2018,Morecambe,2-1,1-1,Exeter
+Sat Mar 17 2018,Newport County,1-1,1-1,Luton
+Sat Mar 17 2018,Notts County,1-1,1-0,Mansfield
+Sat Mar 17 2018,Port Vale,2-2,0-1,Stevenage
+Tue Mar 20 2018,Crewe,3-1,1-0,Forest Green
+Tue Mar 20 2018,Morecambe,0-0,0-0,Colchester
+Tue Mar 20 2018,Port Vale,0-1,0-1,Exeter
+Wed Mar 21 2018,Crawley Town,2-3,1-2,Wycombe
+Sat Mar 24 2018,Carlisle,1-1,0-0,Cambridge
+Sat Mar 24 2018,Coventry,4-0,1-0,Grimsby
+Sat Mar 24 2018,Crawley Town,3-5,0-3,Cheltenham
+Sat Mar 24 2018,Exeter,3-1,2-1,Swindon
+Sat Mar 24 2018,Forest Green,2-0,0-0,Mansfield
+Sat Mar 24 2018,Luton,2-0,0-0,Barnet
+Sat Mar 24 2018,Morecambe,0-0,0-0,Lincoln
+Sat Mar 24 2018,Newport County,1-2,0-1,Crewe
+Sat Mar 24 2018,Stevenage,0-1,0-1,Colchester
+Sat Mar 24 2018,Wycombe,0-0,0-0,Port Vale
+Sun Mar 25 2018,Chesterfield,3-1,2-0,Notts County
+Fri Mar 30 2018,Barnet,2-1,0-0,Crewe
+Fri Mar 30 2018,Cambridge,3-1,2-0,Crawley Town
+Fri Mar 30 2018,Cheltenham,0-1,0-0,Carlisle
+Fri Mar 30 2018,Colchester,2-1,2-0,Luton
+Fri Mar 30 2018,Grimsby,0-0,0-0,Stevenage
+Fri Mar 30 2018,Lincoln,3-2,0-1,Exeter
+Fri Mar 30 2018,Mansfield,0-1,0-0,Accrington
+Fri Mar 30 2018,Newport County,1-1,1-0,Coventry
+Fri Mar 30 2018,Notts County,0-0,0-0,Wycombe
+Fri Mar 30 2018,Port Vale,2-1,1-0,Chesterfield
+Fri Mar 30 2018,Swindon,1-1,0-1,Morecambe
+Mon Apr 2 2018,Accrington,1-0,1-0,Notts County
+Mon Apr 2 2018,Carlisle,0-1,0-1,Lincoln
+Mon Apr 2 2018,Coventry,2-6,0-3,Yeovil
+Mon Apr 2 2018,Crawley Town,1-1,1-0,Swindon
+Mon Apr 2 2018,Crewe,2-2,1-1,Port Vale
+Mon Apr 2 2018,Exeter,2-1,1-1,Cheltenham
+Mon Apr 2 2018,Forest Green,1-2,1-1,Colchester
+Mon Apr 2 2018,Luton,2-1,0-1,Mansfield
+Mon Apr 2 2018,Stevenage,4-1,1-0,Barnet
+Mon Apr 2 2018,Wycombe,2-1,0-1,Grimsby
+Sat Apr 7 2018,Barnet,1-0,1-0,Forest Green
+Sat Apr 7 2018,Cambridge,2-3,1-0,Exeter
+Sat Apr 7 2018,Cheltenham,3-0,0-0,Morecambe
+Sat Apr 7 2018,Colchester,0-1,0-0,Accrington
+Sat Apr 7 2018,Grimsby,1-0,0-0,Chesterfield
+Sat Apr 7 2018,Mansfield,3-4,1-4,Crewe
+Sat Apr 7 2018,Newport County,0-1,0-1,Stevenage
+Sat Apr 7 2018,Notts County,2-1,0-0,Coventry
+Sat Apr 7 2018,Port Vale,1-2,1-1,Crawley Town
+Sat Apr 7 2018,Swindon,0-0,0-0,Carlisle
+Sat Apr 7 2018,Yeovil,0-3,0-3,Luton
+Tue Apr 10 2018,Morecambe,2-2,2-0,Chesterfield
+Tue Apr 10 2018,Stevenage,1-1,1-0,Mansfield
+Tue Apr 10 2018,Swindon,2-2,1-0,Yeovil
+Sat Apr 14 2018,Accrington,1-1,1-1,Exeter
+Sat Apr 14 2018,Cheltenham,0-1,0-1,Forest Green
+Sat Apr 14 2018,Chesterfield,0-1,0-0,Mansfield
+Sat Apr 14 2018,Colchester,1-3,1-0,Notts County
+Sat Apr 14 2018,Crawley Town,1-2,1-1,Coventry
+Sat Apr 14 2018,Grimsby,2-2,1-0,Barnet
+Sat Apr 14 2018,Luton,3-1,2-1,Crewe
+Sat Apr 14 2018,Morecambe,1-1,1-1,Carlisle
+Sat Apr 14 2018,Newport County,2-1,2-0,Swindon
+Sat Apr 14 2018,Port Vale,1-0,0-0,Lincoln
+Sat Apr 14 2018,Stevenage,0-2,0-0,Cambridge
+Sat Apr 14 2018,Yeovil,0-1,0-0,Wycombe
+Tue Apr 17 2018,Accrington,2-0,2-0,Yeovil
+Tue Apr 17 2018,Exeter,2-1,1-0,Chesterfield
+Tue Apr 17 2018,Lincoln,0-0,0-0,Wycombe
+Fri Apr 20 2018,Coventry,3-1,3-1,Stevenage
+Sat Apr 21 2018,Barnet,2-0,1-0,Newport County
+Sat Apr 21 2018,Cambridge,4-3,1-2,Cheltenham
+Sat Apr 21 2018,Carlisle,1-1,1-0,Luton
+Sat Apr 21 2018,Crewe,1-0,0-0,Morecambe
+Sat Apr 21 2018,Exeter,2-2,1-1,Crawley Town
+Sat Apr 21 2018,Forest Green,4-1,1-1,Chesterfield
+Sat Apr 21 2018,Lincoln,2-1,0-0,Colchester
+Sat Apr 21 2018,Mansfield,1-1,0-0,Port Vale
+Sat Apr 21 2018,Notts County,4-1,1-0,Yeovil
+Sat Apr 21 2018,Swindon,0-1,0-1,Grimsby
+Sat Apr 21 2018,Wycombe,0-4,0-2,Accrington
+Tue Apr 24 2018,Coventry,2-4,2-3,Lincoln
+Tue Apr 24 2018,Morecambe,0-0,0-0,Cambridge
+Tue Apr 24 2018,Newport County,2-1,1-0,Accrington
+Tue Apr 24 2018,Yeovil,0-0,0-0,Forest Green
+Sat Apr 28 2018,Accrington,1-0,1-0,Lincoln
+Sat Apr 28 2018,Cheltenham,1-6,0-4,Coventry
+Sat Apr 28 2018,Chesterfield,1-2,1-1,Wycombe
+Sat Apr 28 2018,Colchester,0-0,0-0,Swindon
+Sat Apr 28 2018,Crawley Town,1-2,1-1,Crewe
+Sat Apr 28 2018,Grimsby,2-1,1-0,Notts County
+Sat Apr 28 2018,Luton,3-1,1-0,Forest Green
+Sat Apr 28 2018,Morecambe,0-1,0-0,Barnet
+Sat Apr 28 2018,Newport County,2-1,1-0,Cambridge
+Sat Apr 28 2018,Port Vale,1-2,1-0,Carlisle
+Sat Apr 28 2018,Stevenage,3-1,2-0,Exeter
+Sat Apr 28 2018,Yeovil,2-3,1-0,Mansfield
+Tue May 1 2018,Chesterfield,1-0,0-0,Newport County
+Sat May 5 2018,Barnet,3-0,1-0,Chesterfield
+Sat May 5 2018,Cambridge,5-0,2-0,Port Vale
+Sat May 5 2018,Carlisle,1-1,1-1,Newport County
+Sat May 5 2018,Coventry,0-0,0-0,Morecambe
+Sat May 5 2018,Crewe,2-1,1-1,Cheltenham
+Sat May 5 2018,Exeter,1-0,0-0,Colchester
+Sat May 5 2018,Forest Green,0-3,0-0,Grimsby
+Sat May 5 2018,Lincoln,1-1,0-1,Yeovil
+Sat May 5 2018,Mansfield,1-1,0-1,Crawley Town
+Sat May 5 2018,Notts County,0-0,0-0,Luton
+Sat May 5 2018,Swindon,3-0,2-0,Accrington
+Sat May 5 2018,Wycombe,1-0,1-0,Stevenage

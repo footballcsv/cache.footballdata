@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 16 1996,Man City,1-0,?,Ipswich
+Sat Aug 17 1996,Bradford,3-1,?,Portsmouth
+Sat Aug 17 1996,Grimsby,1-3,?,Wolves
+Sat Aug 17 1996,Huddersfield,2-0,?,Charlton
+Sat Aug 17 1996,Norwich,2-0,?,Swindon
+Sat Aug 17 1996,Oldham,1-2,?,Stoke
+Sat Aug 17 1996,Port Vale,1-1,?,Bolton
+Sat Aug 17 1996,QPR,2-1,?,Oxford
+Sat Aug 17 1996,Reading,1-0,?,Sheffield United
+Sat Aug 17 1996,Southend,1-1,?,Tranmere
+Sat Aug 17 1996,West Brom,1-2,?,Barnsley
+Sun Aug 18 1996,Birmingham,1-0,?,Crystal Palace
+Tue Aug 20 1996,Bolton,1-0,?,Man City
+Fri Aug 23 1996,Portsmouth,1-2,?,QPR
+Fri Aug 23 1996,Tranmere,3-2,?,Grimsby
+Sat Aug 24 1996,Bolton,3-1,?,Norwich
+Sat Aug 24 1996,Charlton,1-1,?,West Brom
+Sat Aug 24 1996,Crystal Palace,3-1,?,Oldham
+Sat Aug 24 1996,Ipswich,5-2,?,Reading
+Sat Aug 24 1996,Oxford,5-0,?,Southend
+Sat Aug 24 1996,Sheffield United,4-4,?,Birmingham
+Sat Aug 24 1996,Stoke,2-1,?,Man City
+Sat Aug 24 1996,Swindon,1-1,?,Port Vale
+Sat Aug 24 1996,Wolves,1-0,?,Bradford
+Sun Aug 25 1996,Barnsley,3-1,?,Huddersfield
+Tue Aug 27 1996,Crystal Palace,0-0,?,West Brom
+Tue Aug 27 1996,Ipswich,1-1,?,Grimsby
+Tue Aug 27 1996,Oxford,0-1,?,Norwich
+Tue Aug 27 1996,Portsmouth,1-0,?,Southend
+Tue Aug 27 1996,Tranmere,2-0,?,Port Vale
+Wed Aug 28 1996,Barnsley,3-0,?,Reading
+Wed Aug 28 1996,Stoke,1-0,?,Bradford
+Wed Aug 28 1996,Swindon,1-0,?,Oldham
+Wed Aug 28 1996,Wolves,1-1,?,QPR
+Sat Aug 31 1996,Bradford,1-0,?,Tranmere
+Sat Aug 31 1996,Grimsby,0-1,?,Portsmouth
+Sat Aug 31 1996,Huddersfield,1-1,?,Crystal Palace
+Sat Aug 31 1996,Norwich,1-0,?,Wolves
+Sat Aug 31 1996,Oldham,3-3,?,Ipswich
+Sat Aug 31 1996,Port Vale,2-0,?,Oxford
+Sat Aug 31 1996,Reading,2-2,?,Stoke
+Sat Aug 31 1996,Southend,1-3,?,Swindon
+Sun Sep 1 1996,QPR,1-2,?,Bolton
+Tue Sep 3 1996,Man City,2-1,?,Charlton
+Fri Sep 6 1996,Wolves,1-0,?,Charlton
+Sat Sep 7 1996,Bradford,0-2,?,Norwich
+Sat Sep 7 1996,Grimsby,2-1,?,Swindon
+Sat Sep 7 1996,Ipswich,1-3,?,Huddersfield
+Sat Sep 7 1996,Man City,1-2,?,Barnsley
+Sat Sep 7 1996,Oldham,0-2,?,Sheffield United
+Sat Sep 7 1996,Portsmouth,1-1,?,Port Vale
+Sat Sep 7 1996,QPR,0-2,?,West Brom
+Sat Sep 7 1996,Southend,5-2,?,Bolton
+Sat Sep 7 1996,Stoke,2-2,?,Crystal Palace
+Sat Sep 7 1996,Tranmere,1-0,?,Birmingham
+Sun Sep 8 1996,Reading,2-0,?,Oxford
+Tue Sep 10 1996,Barnsley,3-0,?,Stoke
+Tue Sep 10 1996,Birmingham,0-0,?,Oldham
+Tue Sep 10 1996,Bolton,6-1,?,Grimsby
+Tue Sep 10 1996,Charlton,2-0,?,Southend
+Tue Sep 10 1996,Crystal Palace,0-0,?,Ipswich
+Tue Sep 10 1996,Huddersfield,0-1,?,Tranmere
+Tue Sep 10 1996,Oxford,1-1,?,Wolves
+Tue Sep 10 1996,Port Vale,0-2,?,Man City
+Tue Sep 10 1996,Sheffield United,3-0,?,Bradford
+Tue Sep 10 1996,West Brom,3-2,?,Reading
+Wed Sep 11 1996,Norwich,1-1,?,QPR
+Wed Sep 11 1996,Swindon,0-1,?,Portsmouth
+Fri Sep 13 1996,Huddersfield,3-2,?,Oldham
+Sat Sep 14 1996,Barnsley,1-3,?,QPR
+Sat Sep 14 1996,Birmingham,3-1,?,Stoke
+Sat Sep 14 1996,Bolton,2-0,?,Portsmouth
+Sat Sep 14 1996,Charlton,1-0,?,Reading
+Sat Sep 14 1996,Crystal Palace,3-1,?,Man City
+Sat Sep 14 1996,Norwich,0-0,?,Southend
+Sat Sep 14 1996,Oxford,2-0,?,Bradford
+Sat Sep 14 1996,Port Vale,1-1,?,Grimsby
+Sat Sep 14 1996,Sheffield United,1-3,?,Ipswich
+Sat Sep 14 1996,Swindon,2-1,?,Tranmere
+Sun Sep 15 1996,West Brom,2-4,?,Wolves
+Fri Sep 20 1996,Ipswich,2-1,?,Charlton
+Sat Sep 21 1996,Bradford,2-4,?,Bolton
+Sat Sep 21 1996,Grimsby,0-2,?,Oxford
+Sat Sep 21 1996,Man City,1-0,?,Birmingham
+Sat Sep 21 1996,Oldham,0-1,?,Barnsley
+Sat Sep 21 1996,Portsmouth,0-1,?,Norwich
+Sat Sep 21 1996,QPR,1-1,?,Swindon
+Sat Sep 21 1996,Reading,1-6,?,Crystal Palace
+Sat Sep 21 1996,Southend,0-0,?,Port Vale
+Sat Sep 21 1996,Tranmere,2-3,?,West Brom
+Sat Sep 21 1996,Wolves,1-2,?,Sheffield United
+Sun Sep 22 1996,Stoke,3-2,?,Huddersfield
+Fri Sep 27 1996,Swindon,1-2,?,Wolves
+Sat Sep 28 1996,Barnsley,1-3,?,Grimsby
+Sat Sep 28 1996,Birmingham,0-0,?,QPR
+Sat Sep 28 1996,Bolton,1-1,?,Stoke
+Sat Sep 28 1996,Charlton,1-0,?,Oldham
+Sat Sep 28 1996,Crystal Palace,6-1,?,Southend
+Sat Sep 28 1996,Huddersfield,1-0,?,Reading
+Sat Sep 28 1996,Norwich,1-1,?,Tranmere
+Sat Sep 28 1996,Oxford,2-0,?,Portsmouth
+Sat Sep 28 1996,Sheffield United,2-0,?,Man City
+Sat Sep 28 1996,West Brom,0-0,?,Ipswich
+Sun Sep 29 1996,Port Vale,1-1,?,Bradford
+Tue Oct 1 1996,Grimsby,1-4,?,Norwich
+Tue Oct 1 1996,Ipswich,1-1,?,Barnsley
+Tue Oct 1 1996,Oldham,1-1,?,West Brom
+Tue Oct 1 1996,Portsmouth,2-2,?,Crystal Palace
+Tue Oct 1 1996,Southend,3-2,?,Sheffield United
+Tue Oct 1 1996,Tranmere,0-0,?,Oxford
+Wed Oct 2 1996,Bradford,2-1,?,Swindon
+Wed Oct 2 1996,QPR,1-2,?,Port Vale
+Wed Oct 2 1996,Wolves,1-2,?,Bolton
+Fri Oct 4 1996,Tranmere,4-3,?,Portsmouth
+Sat Oct 5 1996,Bradford,0-0,?,Southend
+Sat Oct 5 1996,Grimsby,2-0,?,QPR
+Sat Oct 5 1996,Oldham,3-0,?,Port Vale
+Sat Oct 5 1996,Wolves,0-1,?,Reading
+Tue Oct 8 1996,Huddersfield,3-0,?,Birmingham
+Fri Oct 11 1996,Norwich,3-1,?,Ipswich
+Sat Oct 12 1996,Barnsley,0-0,?,Crystal Palace
+Sat Oct 12 1996,Birmingham,3-0,?,Bradford
+Sat Oct 12 1996,Bolton,3-1,?,Oldham
+Sat Oct 12 1996,Portsmouth,2-0,?,Charlton
+Sat Oct 12 1996,QPR,2-2,?,Man City
+Sat Oct 12 1996,Reading,1-1,?,Grimsby
+Sat Oct 12 1996,Sheffield United,0-0,?,Tranmere
+Sat Oct 12 1996,Swindon,1-0,?,Oxford
+Sat Oct 12 1996,West Brom,1-1,?,Huddersfield
+Sun Oct 13 1996,Port Vale,1-1,?,Stoke
+Sun Oct 13 1996,Southend,1-1,?,Wolves
+Tue Oct 15 1996,Barnsley,0-0,?,Oxford
+Tue Oct 15 1996,Birmingham,1-0,?,Ipswich
+Tue Oct 15 1996,Bolton,1-0,?,Tranmere
+Tue Oct 15 1996,Portsmouth,0-2,?,Wolves
+Tue Oct 15 1996,Reading,2-0,?,Man City
+Tue Oct 15 1996,Sheffield United,3-0,?,Charlton
+Wed Oct 16 1996,Norwich,2-0,?,Oldham
+Wed Oct 16 1996,Port Vale,0-2,?,Crystal Palace
+Wed Oct 16 1996,QPR,1-0,?,Bradford
+Wed Oct 16 1996,Southend,1-0,?,Grimsby
+Wed Oct 16 1996,Swindon,6-0,?,Huddersfield
+Wed Oct 16 1996,West Brom,0-2,?,Stoke
+Fri Oct 18 1996,Oxford,0-0,?,Birmingham
+Sat Oct 19 1996,Bradford,2-2,?,Barnsley
+Sat Oct 19 1996,Charlton,3-3,?,Bolton
+Sat Oct 19 1996,Crystal Palace,1-2,?,Swindon
+Sat Oct 19 1996,Grimsby,1-1,?,West Brom
+Sat Oct 19 1996,Huddersfield,0-0,?,Southend
+Sat Oct 19 1996,Ipswich,1-1,?,Portsmouth
+Sat Oct 19 1996,Man City,2-1,?,Norwich
+Sat Oct 19 1996,Oldham,1-1,?,Reading
+Sat Oct 19 1996,Stoke,0-4,?,Sheffield United
+Sat Oct 19 1996,Wolves,0-1,?,Port Vale
+Sun Oct 20 1996,Tranmere,2-3,?,QPR
+Fri Oct 25 1996,Barnsley,2-2,?,Bolton
+Sat Oct 26 1996,Birmingham,2-3,?,Norwich
+Sat Oct 26 1996,Charlton,2-0,?,Oxford
+Sat Oct 26 1996,Crystal Palace,3-0,?,Grimsby
+Sat Oct 26 1996,Huddersfield,0-1,?,Port Vale
+Sat Oct 26 1996,Ipswich,0-2,?,Tranmere
+Sat Oct 26 1996,Oldham,0-0,?,Southend
+Sat Oct 26 1996,Reading,2-0,?,Swindon
+Sat Oct 26 1996,Sheffield United,1-1,?,QPR
+Sat Oct 26 1996,Stoke,3-1,?,Portsmouth
+Sat Oct 26 1996,West Brom,0-0,?,Bradford
+Sun Oct 27 1996,Man City,0-1,?,Wolves
+Tue Oct 29 1996,Bolton,2-1,?,Reading
+Tue Oct 29 1996,Bradford,0-4,?,Crystal Palace
+Tue Oct 29 1996,Grimsby,0-3,?,Oldham
+Tue Oct 29 1996,Oxford,4-1,?,Stoke
+Tue Oct 29 1996,Port Vale,1-3,?,Barnsley
+Tue Oct 29 1996,Portsmouth,1-1,?,Birmingham
+Tue Oct 29 1996,Southend,2-3,?,Man City
+Tue Oct 29 1996,Tranmere,4-0,?,Charlton
+Wed Oct 30 1996,Norwich,1-1,?,Sheffield United
+Wed Oct 30 1996,QPR,0-1,?,Ipswich
+Wed Oct 30 1996,Swindon,2-3,?,West Brom
+Wed Oct 30 1996,Wolves,0-0,?,Huddersfield
+Sat Nov 2 1996,Bolton,2-0,?,Huddersfield
+Sat Nov 2 1996,Bradford,0-3,?,Oldham
+Sat Nov 2 1996,Norwich,1-2,?,Charlton
+Sat Nov 2 1996,Oxford,3-1,?,Ipswich
+Sat Nov 2 1996,Port Vale,3-0,?,Birmingham
+Sat Nov 2 1996,Portsmouth,4-0,?,West Brom
+Sat Nov 2 1996,QPR,1-1,?,Stoke
+Sat Nov 2 1996,Southend,2-1,?,Reading
+Sat Nov 2 1996,Swindon,2-0,?,Man City
+Sat Nov 2 1996,Tranmere,1-3,?,Crystal Palace
+Sat Nov 2 1996,Wolves,3-3,?,Barnsley
+Sun Nov 3 1996,Grimsby,2-4,?,Sheffield United
+Fri Nov 8 1996,Huddersfield,3-3,?,Bradford
+Sat Nov 9 1996,Ipswich,1-1,?,Southend
+Sat Nov 9 1996,Oldham,0-0,?,Portsmouth
+Sat Nov 9 1996,West Brom,1-1,?,Port Vale
+Sun Nov 10 1996,Crystal Palace,3-0,?,QPR
+Tue Nov 12 1996,Barnsley,3-1,?,Norwich
+Wed Nov 13 1996,Birmingham,3-1,?,Bolton
+Wed Nov 13 1996,Man City,2-3,?,Oxford
+Wed Nov 13 1996,West Brom,1-2,?,Sheffield United
+Fri Nov 15 1996,Tranmere,1-1,?,Oldham
+Sat Nov 16 1996,Bolton,2-2,?,Crystal Palace
+Sat Nov 16 1996,Bradford,2-1,?,Ipswich
+Sat Nov 16 1996,Grimsby,1-1,?,Stoke
+Sat Nov 16 1996,Norwich,1-1,?,Reading
+Sat Nov 16 1996,Oxford,1-0,?,Huddersfield
+Sat Nov 16 1996,Port Vale,0-0,?,Sheffield United
+Sat Nov 16 1996,Portsmouth,2-1,?,Man City
+Sat Nov 16 1996,QPR,1-2,?,Charlton
+Sat Nov 16 1996,Southend,2-3,?,West Brom
+Sat Nov 16 1996,Swindon,3-0,?,Barnsley
+Sun Nov 17 1996,Wolves,1-2,?,Birmingham
+Tue Nov 19 1996,Ipswich,3-2,?,Swindon
+Tue Nov 19 1996,Man City,0-0,?,Huddersfield
+Tue Nov 19 1996,Oxford,0-0,?,Bolton
+Wed Nov 20 1996,Charlton,2-1,?,Birmingham
+Fri Nov 22 1996,Sheffield United,1-1,?,Bolton
+Sat Nov 23 1996,Barnsley,3-2,?,Portsmouth
+Sat Nov 23 1996,Birmingham,1-0,?,Swindon
+Sat Nov 23 1996,Charlton,0-2,?,Bradford
+Sat Nov 23 1996,Crystal Palace,2-3,?,Wolves
+Sat Nov 23 1996,Huddersfield,2-0,?,Grimsby
+Sat Nov 23 1996,Ipswich,2-1,?,Port Vale
+Sat Nov 23 1996,Man City,1-2,?,Tranmere
+Sat Nov 23 1996,Oldham,2-1,?,Oxford
+Sat Nov 23 1996,Reading,2-1,?,QPR
+Sat Nov 23 1996,Stoke,1-2,?,Southend
+Tue Nov 26 1996,Charlton,1-3,?,Grimsby
+Tue Nov 26 1996,Reading,0-0,?,Birmingham
+Tue Nov 26 1996,Sheffield United,2-0,?,Swindon
+Wed Nov 27 1996,Man City,3-2,?,West Brom
+Sat Nov 30 1996,Bolton,2-2,?,Barnsley
+Sat Nov 30 1996,Bradford,1-1,?,West Brom
+Sat Nov 30 1996,Grimsby,2-1,?,Crystal Palace
+Sat Nov 30 1996,Norwich,0-1,?,Birmingham
+Sat Nov 30 1996,Oxford,0-2,?,Charlton
+Sat Nov 30 1996,Port Vale,0-0,?,Huddersfield
+Sat Nov 30 1996,Portsmouth,1-0,?,Stoke
+Sat Nov 30 1996,QPR,1-0,?,Sheffield United
+Sat Nov 30 1996,Southend,1-1,?,Oldham
+Sat Nov 30 1996,Swindon,3-1,?,Reading
+Sat Nov 30 1996,Tranmere,3-0,?,Ipswich
+Sun Dec 1 1996,Wolves,3-0,?,Man City
+Tue Dec 3 1996,Birmingham,0-0,?,Barnsley
+Tue Dec 3 1996,Reading,2-0,?,Tranmere
+Tue Dec 3 1996,Sheffield United,3-1,?,Huddersfield
+Wed Dec 4 1996,Stoke,1-0,?,Charlton
+Sat Dec 7 1996,Barnsley,3-0,?,Southend
+Sat Dec 7 1996,Birmingham,0-0,?,Grimsby
+Sat Dec 7 1996,Charlton,2-0,?,Swindon
+Sat Dec 7 1996,Crystal Palace,2-2,?,Oxford
+Sat Dec 7 1996,Huddersfield,2-0,?,Norwich
+Sat Dec 7 1996,Ipswich,0-0,?,Wolves
+Sat Dec 7 1996,Man City,3-2,?,Bradford
+Sat Dec 7 1996,Oldham,0-2,?,QPR
+Sat Dec 7 1996,Reading,0-1,?,Port Vale
+Sat Dec 7 1996,Sheffield United,1-0,?,Portsmouth
+Sat Dec 7 1996,Stoke,2-0,?,Tranmere
+Sun Dec 8 1996,West Brom,2-2,?,Bolton
+Sat Dec 14 1996,Barnsley,3-0,?,Tranmere
+Sat Dec 14 1996,Bolton,1-2,?,Ipswich
+Sat Dec 14 1996,Charlton,1-3,?,Port Vale
+Sat Dec 14 1996,Norwich,1-1,?,Crystal Palace
+Sat Dec 14 1996,Oxford,4-1,?,Sheffield United
+Sat Dec 14 1996,Portsmouth,3-1,?,Huddersfield
+Sat Dec 14 1996,QPR,4-0,?,Southend
+Sat Dec 14 1996,Stoke,2-0,?,Swindon
+Sat Dec 14 1996,Wolves,0-1,?,Oldham
+Tue Dec 17 1996,Bradford,0-0,?,Reading
+Tue Dec 17 1996,Crystal Palace,0-1,?,Sheffield United
+Wed Dec 18 1996,West Brom,5-1,?,Norwich
+Fri Dec 20 1996,Southend,1-1,?,Birmingham
+Sat Dec 21 1996,Crystal Palace,1-0,?,Charlton
+Sat Dec 21 1996,Grimsby,1-1,?,Bradford
+Sat Dec 21 1996,Huddersfield,1-2,?,QPR
+Sat Dec 21 1996,Ipswich,1-1,?,Stoke
+Sat Dec 21 1996,Oldham,2-1,?,Man City
+Sat Dec 21 1996,Port Vale,6-1,?,Norwich
+Sat Dec 21 1996,Reading,0-0,?,Portsmouth
+Sat Dec 21 1996,Sheffield United,0-1,?,Barnsley
+Sat Dec 21 1996,Tranmere,0-2,?,Wolves
+Sat Dec 21 1996,West Brom,3-3,?,Oxford
+Sun Dec 22 1996,Swindon,2-2,?,Bolton
+Thu Dec 26 1996,Bradford,1-2,?,Sheffield United
+Thu Dec 26 1996,Grimsby,1-2,?,Bolton
+Thu Dec 26 1996,Ipswich,3-1,?,Crystal Palace
+Thu Dec 26 1996,Man City,0-1,?,Port Vale
+Thu Dec 26 1996,Portsmouth,0-1,?,Swindon
+Thu Dec 26 1996,QPR,3-2,?,Norwich
+Thu Dec 26 1996,Reading,2-2,?,West Brom
+Thu Dec 26 1996,Southend,0-2,?,Charlton
+Thu Dec 26 1996,Stoke,1-0,?,Barnsley
+Thu Dec 26 1996,Tranmere,1-1,?,Huddersfield
+Thu Dec 26 1996,Wolves,3-1,?,Oxford
+Sat Dec 28 1996,Barnsley,2-0,?,Man City
+Sat Dec 28 1996,Bolton,3-1,?,Southend
+Sat Dec 28 1996,Charlton,0-0,?,Wolves
+Sat Dec 28 1996,Huddersfield,2-0,?,Ipswich
+Sat Dec 28 1996,Norwich,2-0,?,Bradford
+Sat Dec 28 1996,Oxford,2-1,?,Reading
+Sat Dec 28 1996,Port Vale,0-2,?,Portsmouth
+Sat Dec 28 1996,Sheffield United,2-2,?,Oldham
+Sat Dec 28 1996,West Brom,4-1,?,QPR
+Wed Jan 1 1997,Bolton,2-1,?,Bradford
+Wed Jan 1 1997,Charlton,1-1,?,Ipswich
+Wed Jan 1 1997,Huddersfield,2-1,?,Stoke
+Wed Jan 1 1997,Norwich,1-0,?,Portsmouth
+Wed Jan 1 1997,West Brom,1-2,?,Tranmere
+Fri Jan 10 1997,Stoke,1-0,?,Birmingham
+Fri Jan 10 1997,Tranmere,2-1,?,Swindon
+Sat Jan 11 1997,Bradford,2-0,?,Oxford
+Sat Jan 11 1997,Grimsby,1-1,?,Port Vale
+Sat Jan 11 1997,Man City,1-1,?,Crystal Palace
+Sat Jan 11 1997,Portsmouth,0-3,?,Bolton
+Sat Jan 11 1997,QPR,3-1,?,Barnsley
+Sat Jan 11 1997,Reading,2-2,?,Charlton
+Sun Jan 12 1997,Wolves,2-0,?,West Brom
+Sat Jan 18 1997,Barnsley,1-2,?,Ipswich
+Sat Jan 18 1997,Birmingham,4-1,?,Reading
+Sat Jan 18 1997,Bolton,3-0,?,Wolves
+Sat Jan 18 1997,Charlton,1-2,?,Stoke
+Sat Jan 18 1997,Crystal Palace,1-2,?,Portsmouth
+Sat Jan 18 1997,Huddersfield,1-1,?,Man City
+Sat Jan 18 1997,Norwich,2-1,?,Grimsby
+Sat Jan 18 1997,Oxford,2-1,?,Tranmere
+Sat Jan 18 1997,Sheffield United,3-0,?,Southend
+Sat Jan 18 1997,Swindon,1-1,?,Bradford
+Sat Jan 18 1997,West Brom,1-1,?,Oldham
+Sun Jan 19 1997,Port Vale,4-4,?,QPR
+Wed Jan 22 1997,Stoke,1-2,?,Norwich
+Fri Jan 24 1997,Sheffield United,2-3,?,Wolves
+Sat Jan 25 1997,Ipswich,5-0,?,West Brom
+Sat Jan 25 1997,Oldham,1-2,?,Huddersfield
+Sat Jan 25 1997,Port Vale,2-1,?,Southend
+Sat Jan 25 1997,Swindon,3-3,?,Grimsby
+Tue Jan 28 1997,Bradford,1-0,?,Port Vale
+Tue Jan 28 1997,Grimsby,2-3,?,Barnsley
+Tue Jan 28 1997,Portsmouth,2-1,?,Oxford
+Tue Jan 28 1997,Reading,4-1,?,Huddersfield
+Tue Jan 28 1997,Southend,2-1,?,Crystal Palace
+Tue Jan 28 1997,Tranmere,3-1,?,Norwich
+Wed Jan 29 1997,Man City,0-0,?,Sheffield United
+Wed Jan 29 1997,QPR,1-1,?,Birmingham
+Wed Jan 29 1997,Stoke,1-2,?,Bolton
+Wed Jan 29 1997,Wolves,1-0,?,Swindon
+Sat Feb 1 1997,Bolton,2-1,?,Birmingham
+Sat Feb 1 1997,Bradford,1-1,?,Huddersfield
+Sat Feb 1 1997,Grimsby,2-0,?,Charlton
+Sat Feb 1 1997,Norwich,1-1,?,Barnsley
+Sat Feb 1 1997,Port Vale,2-2,?,West Brom
+Sat Feb 1 1997,Portsmouth,1-0,?,Oldham
+Sat Feb 1 1997,QPR,0-1,?,Crystal Palace
+Sat Feb 1 1997,Southend,0-0,?,Ipswich
+Sat Feb 1 1997,Swindon,2-1,?,Sheffield United
+Sat Feb 1 1997,Tranmere,2-2,?,Reading
+Sat Feb 1 1997,Wolves,2-0,?,Stoke
+Sun Feb 2 1997,Oxford,1-4,?,Man City
+Tue Feb 4 1997,Birmingham,2-3,?,West Brom
+Wed Feb 5 1997,Swindon,1-1,?,QPR
+Fri Feb 7 1997,Charlton,3-1,?,Tranmere
+Fri Feb 7 1997,Stoke,2-1,?,Oxford
+Sat Feb 8 1997,Barnsley,1-0,?,Port Vale
+Sat Feb 8 1997,Birmingham,0-3,?,Portsmouth
+Sat Feb 8 1997,Crystal Palace,3-1,?,Bradford
+Sat Feb 8 1997,Huddersfield,0-2,?,Wolves
+Sat Feb 8 1997,Ipswich,2-0,?,QPR
+Sat Feb 8 1997,Man City,3-0,?,Southend
+Sat Feb 8 1997,Oldham,0-3,?,Grimsby
+Sat Feb 8 1997,Reading,3-2,?,Bolton
+Sat Feb 8 1997,West Brom,1-2,?,Swindon
+Sun Feb 9 1997,Sheffield United,2-3,?,Norwich
+Sat Feb 15 1997,Bolton,2-2,?,Sheffield United
+Sat Feb 15 1997,Charlton,2-2,?,Barnsley
+Sat Feb 15 1997,Grimsby,2-2,?,Huddersfield
+Sat Feb 15 1997,Norwich,2-4,?,West Brom
+Sat Feb 15 1997,Oxford,3-1,?,Oldham
+Sat Feb 15 1997,Port Vale,2-2,?,Ipswich
+Sat Feb 15 1997,Southend,2-1,?,Stoke
+Sat Feb 15 1997,Wolves,0-3,?,Crystal Palace
+Sat Feb 22 1997,Barnsley,1-3,?,Wolves
+Sat Feb 22 1997,Charlton,4-4,?,Norwich
+Sat Feb 22 1997,Crystal Palace,0-1,?,Tranmere
+Sat Feb 22 1997,Huddersfield,1-2,?,Bolton
+Sat Feb 22 1997,Ipswich,2-1,?,Oxford
+Sat Feb 22 1997,Man City,3-0,?,Swindon
+Sat Feb 22 1997,Oldham,1-2,?,Bradford
+Sat Feb 22 1997,Reading,3-2,?,Southend
+Sat Feb 22 1997,Sheffield United,3-1,?,Grimsby
+Sat Feb 22 1997,Stoke,0-0,?,QPR
+Sat Feb 22 1997,West Brom,0-2,?,Portsmouth
+Sun Feb 23 1997,Birmingham,1-2,?,Port Vale
+Tue Feb 25 1997,Southend,1-1,?,Norwich
+Wed Feb 26 1997,Swindon,3-1,?,Birmingham
+Fri Feb 28 1997,Tranmere,0-0,?,Stoke
+Sat Mar 1 1997,Bradford,1-3,?,Man City
+Sat Mar 1 1997,Grimsby,1-2,?,Birmingham
+Sat Mar 1 1997,Norwich,2-0,?,Huddersfield
+Sat Mar 1 1997,Oxford,1-4,?,Crystal Palace
+Sat Mar 1 1997,Port Vale,1-0,?,Reading
+Sat Mar 1 1997,Portsmouth,1-1,?,Sheffield United
+Sat Mar 1 1997,QPR,0-1,?,Oldham
+Sat Mar 1 1997,Southend,1-2,?,Barnsley
+Sat Mar 1 1997,Swindon,1-0,?,Charlton
+Sat Mar 1 1997,Wolves,0-0,?,Ipswich
+Sun Mar 2 1997,Bolton,1-0,?,West Brom
+Tue Mar 4 1997,Barnsley,1-1,?,Swindon
+Tue Mar 4 1997,Birmingham,1-2,?,Wolves
+Tue Mar 4 1997,Charlton,2-1,?,QPR
+Tue Mar 4 1997,Crystal Palace,1-1,?,Bolton
+Tue Mar 4 1997,Huddersfield,1-0,?,Oxford
+Tue Mar 4 1997,Ipswich,3-2,?,Bradford
+Tue Mar 4 1997,Oldham,1-2,?,Tranmere
+Tue Mar 4 1997,Reading,2-1,?,Norwich
+Tue Mar 4 1997,Sheffield United,3-0,?,Port Vale
+Wed Mar 5 1997,Man City,1-1,?,Portsmouth
+Wed Mar 5 1997,Stoke,3-1,?,Grimsby
+Wed Mar 5 1997,West Brom,4-0,?,Southend
+Fri Mar 7 1997,Barnsley,2-0,?,Sheffield United
+Sat Mar 8 1997,Birmingham,2-1,?,Southend
+Sat Mar 8 1997,Bolton,7-0,?,Swindon
+Sat Mar 8 1997,Bradford,3-4,?,Grimsby
+Sat Mar 8 1997,Charlton,2-1,?,Crystal Palace
+Sat Mar 8 1997,Man City,1-0,?,Oldham
+Sat Mar 8 1997,Norwich,1-1,?,Port Vale
+Sat Mar 8 1997,Oxford,1-0,?,West Brom
+Sat Mar 8 1997,QPR,2-0,?,Huddersfield
+Sat Mar 8 1997,Stoke,0-1,?,Ipswich
+Sat Mar 8 1997,Wolves,3-2,?,Tranmere
+Tue Mar 11 1997,Birmingham,2-0,?,Man City
+Wed Mar 12 1997,QPR,0-2,?,Reading
+Sat Mar 15 1997,Crystal Palace,2-0,?,Norwich
+Sat Mar 15 1997,Grimsby,1-1,?,Man City
+Sat Mar 15 1997,Huddersfield,1-3,?,Portsmouth
+Sat Mar 15 1997,Ipswich,0-1,?,Bolton
+Sat Mar 15 1997,Oldham,3-2,?,Wolves
+Sat Mar 15 1997,Port Vale,2-0,?,Charlton
+Sat Mar 15 1997,Reading,0-0,?,Bradford
+Sat Mar 15 1997,Sheffield United,3-1,?,Oxford
+Sat Mar 15 1997,Southend,0-1,?,QPR
+Sat Mar 15 1997,Swindon,1-0,?,Stoke
+Sat Mar 15 1997,Tranmere,1-1,?,Barnsley
+Sun Mar 16 1997,West Brom,2-0,?,Birmingham
+Tue Mar 18 1997,Bolton,4-2,?,Port Vale
+Tue Mar 18 1997,Ipswich,3-1,?,Sheffield United
+Tue Mar 18 1997,Oldham,1-1,?,Charlton
+Tue Mar 18 1997,Oxford,3-2,?,Grimsby
+Tue Mar 18 1997,Stoke,1-0,?,Wolves
+Tue Mar 18 1997,Tranmere,1-1,?,Man City
+Sat Mar 22 1997,Birmingham,1-1,?,Sheffield United
+Sat Mar 22 1997,Bradford,2-1,?,Wolves
+Sat Mar 22 1997,Grimsby,0-0,?,Tranmere
+Sat Mar 22 1997,Huddersfield,0-0,?,Barnsley
+Sat Mar 22 1997,Man City,2-0,?,Stoke
+Sat Mar 22 1997,Norwich,0-1,?,Bolton
+Sat Mar 22 1997,Port Vale,1-0,?,Swindon
+Sat Mar 22 1997,QPR,2-1,?,Portsmouth
+Sat Mar 22 1997,Reading,1-0,?,Ipswich
+Sat Mar 22 1997,Southend,2-2,?,Oxford
+Sat Mar 22 1997,West Brom,1-2,?,Charlton
+Sun Mar 23 1997,Oldham,0-1,?,Crystal Palace
+Tue Mar 25 1997,Portsmouth,1-0,?,Reading
+Fri Mar 28 1997,Barnsley,2-0,?,West Brom
+Fri Mar 28 1997,Tranmere,2-0,?,Southend
+Sat Mar 29 1997,Crystal Palace,0-1,?,Birmingham
+Sat Mar 29 1997,Oxford,2-3,?,QPR
+Sat Mar 29 1997,Portsmouth,3-1,?,Bradford
+Sat Mar 29 1997,Sheffield United,2-0,?,Reading
+Sat Mar 29 1997,Stoke,2-1,?,Oldham
+Sat Mar 29 1997,Swindon,0-3,?,Norwich
+Mon Mar 31 1997,Birmingham,0-0,?,Charlton
+Mon Mar 31 1997,Bradford,1-0,?,Stoke
+Mon Mar 31 1997,Grimsby,2-1,?,Ipswich
+Mon Mar 31 1997,Huddersfield,2-1,?,Sheffield United
+Mon Mar 31 1997,Norwich,1-1,?,Oxford
+Mon Mar 31 1997,Oldham,5-1,?,Swindon
+Mon Mar 31 1997,Port Vale,2-1,?,Tranmere
+Mon Mar 31 1997,QPR,2-2,?,Wolves
+Mon Mar 31 1997,Reading,1-2,?,Barnsley
+Mon Mar 31 1997,Southend,2-1,?,Portsmouth
+Fri Apr 4 1997,Tranmere,3-0,?,Bradford
+Sat Apr 5 1997,Barnsley,0-1,?,Birmingham
+Sat Apr 5 1997,Bolton,2-1,?,QPR
+Sat Apr 5 1997,Charlton,1-1,?,Man City
+Sat Apr 5 1997,Crystal Palace,1-1,?,Huddersfield
+Sat Apr 5 1997,Ipswich,4-0,?,Oldham
+Sat Apr 5 1997,Oxford,0-2,?,Port Vale
+Sat Apr 5 1997,Portsmouth,1-0,?,Grimsby
+Sat Apr 5 1997,Sheffield United,1-2,?,West Brom
+Sat Apr 5 1997,Stoke,1-1,?,Reading
+Sat Apr 5 1997,Swindon,0-0,?,Southend
+Sat Apr 5 1997,Wolves,3-2,?,Norwich
+Tue Apr 8 1997,Oldham,2-2,?,Birmingham
+Wed Apr 9 1997,Charlton,2-1,?,Huddersfield
+Wed Apr 9 1997,Man City,1-2,?,Bolton
+Wed Apr 9 1997,West Brom,1-0,?,Crystal Palace
+Sat Apr 12 1997,Barnsley,4-0,?,Charlton
+Sat Apr 12 1997,Birmingham,1-0,?,Huddersfield
+Sat Apr 12 1997,Bolton,4-0,?,Oxford
+Sat Apr 12 1997,Norwich,2-0,?,Stoke
+Sat Apr 12 1997,Port Vale,3-2,?,Oldham
+Sat Apr 12 1997,Portsmouth,1-3,?,Tranmere
+Sat Apr 12 1997,QPR,3-0,?,Grimsby
+Sat Apr 12 1997,Reading,2-1,?,Wolves
+Sat Apr 12 1997,Sheffield United,3-0,?,Crystal Palace
+Sat Apr 12 1997,Southend,1-1,?,Bradford
+Sat Apr 12 1997,Swindon,0-4,?,Ipswich
+Sat Apr 12 1997,West Brom,1-3,?,Man City
+Tue Apr 15 1997,Barnsley,2-0,?,Oldham
+Tue Apr 15 1997,Birmingham,0-0,?,Tranmere
+Tue Apr 15 1997,Crystal Palace,2-0,?,Stoke
+Wed Apr 16 1997,Man City,3-0,?,Grimsby
+Fri Apr 18 1997,Ipswich,2-0,?,Norwich
+Sat Apr 19 1997,Bradford,0-2,?,Birmingham
+Sat Apr 19 1997,Charlton,2-1,?,Portsmouth
+Sat Apr 19 1997,Crystal Palace,1-1,?,Barnsley
+Sat Apr 19 1997,Grimsby,2-0,?,Reading
+Sat Apr 19 1997,Huddersfield,0-0,?,West Brom
+Sat Apr 19 1997,Man City,0-3,?,QPR
+Sat Apr 19 1997,Oldham,0-0,?,Bolton
+Sat Apr 19 1997,Oxford,2-0,?,Swindon
+Sat Apr 19 1997,Tranmere,1-1,?,Sheffield United
+Sat Apr 19 1997,Wolves,4-1,?,Southend
+Sun Apr 20 1997,Stoke,2-0,?,Port Vale
+Tue Apr 22 1997,Ipswich,1-0,?,Man City
+Tue Apr 22 1997,Portsmouth,4-2,?,Barnsley
+Wed Apr 23 1997,Crystal Palace,3-2,?,Reading
+Wed Apr 23 1997,Wolves,1-1,?,Grimsby
+Fri Apr 25 1997,Bolton,4-1,?,Charlton
+Fri Apr 25 1997,Norwich,0-0,?,Man City
+Fri Apr 25 1997,Portsmouth,0-1,?,Ipswich
+Fri Apr 25 1997,Sheffield United,1-0,?,Stoke
+Sat Apr 26 1997,Barnsley,2-0,?,Bradford
+Sat Apr 26 1997,Birmingham,2-0,?,Oxford
+Sat Apr 26 1997,QPR,2-0,?,Tranmere
+Sat Apr 26 1997,Reading,2-0,?,Oldham
+Sat Apr 26 1997,Southend,1-2,?,Huddersfield
+Sat Apr 26 1997,Swindon,0-2,?,Crystal Palace
+Sat Apr 26 1997,West Brom,2-0,?,Grimsby
+Sun Apr 27 1997,Port Vale,1-2,?,Wolves
+Thu May 1 1997,Bradford,1-0,?,Charlton
+Sat May 3 1997,Man City,3-2,?,Reading
+Sun May 4 1997,Bradford,3-0,?,QPR
+Sun May 4 1997,Charlton,0-0,?,Sheffield United
+Sun May 4 1997,Crystal Palace,1-1,?,Port Vale
+Sun May 4 1997,Grimsby,4-0,?,Southend
+Sun May 4 1997,Huddersfield,0-0,?,Swindon
+Sun May 4 1997,Ipswich,1-1,?,Birmingham
+Sun May 4 1997,Oldham,3-0,?,Norwich
+Sun May 4 1997,Oxford,5-1,?,Barnsley
+Sun May 4 1997,Stoke,2-1,?,West Brom
+Sun May 4 1997,Tranmere,2-2,?,Bolton
+Sun May 4 1997,Wolves,0-1,?,Portsmouth

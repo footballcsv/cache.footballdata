@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 19 2006,Arsenal,1-1,0-0,Aston Villa
+Sat Aug 19 2006,Bolton,2-0,2-0,Tottenham
+Sat Aug 19 2006,Everton,2-1,1-0,Watford
+Sat Aug 19 2006,Newcastle,2-1,1-0,Wigan
+Sat Aug 19 2006,Portsmouth,3-0,1-0,Blackburn
+Sat Aug 19 2006,Reading,3-2,2-2,Middlesbrough
+Sat Aug 19 2006,Sheffield United,1-1,0-0,Liverpool
+Sat Aug 19 2006,West Ham,3-1,0-1,Charlton
+Sun Aug 20 2006,Chelsea,3-0,2-0,Man City
+Sun Aug 20 2006,Man United,5-1,4-1,Fulham
+Tue Aug 22 2006,Tottenham,2-0,2-0,Sheffield United
+Tue Aug 22 2006,Watford,1-1,0-0,West Ham
+Wed Aug 23 2006,Aston Villa,2-1,1-1,Reading
+Wed Aug 23 2006,Blackburn,1-1,0-0,Everton
+Wed Aug 23 2006,Charlton,0-3,0-0,Man United
+Wed Aug 23 2006,Fulham,1-1,0-0,Bolton
+Wed Aug 23 2006,Man City,0-0,0-0,Portsmouth
+Wed Aug 23 2006,Middlesbrough,2-1,0-1,Chelsea
+Sat Aug 26 2006,Charlton,2-0,0-0,Bolton
+Sat Aug 26 2006,Fulham,1-0,1-0,Sheffield United
+Sat Aug 26 2006,Liverpool,2-1,2-1,West Ham
+Sat Aug 26 2006,Man City,1-0,1-0,Arsenal
+Sat Aug 26 2006,Tottenham,0-2,0-0,Everton
+Sat Aug 26 2006,Watford,1-2,1-1,Man United
+Sat Aug 26 2006,Wigan,1-0,1-0,Reading
+Sun Aug 27 2006,Aston Villa,2-0,2-0,Newcastle
+Sun Aug 27 2006,Blackburn,0-2,0-0,Chelsea
+Mon Aug 28 2006,Middlesbrough,0-4,0-1,Portsmouth
+Sat Sep 9 2006,Arsenal,1-1,0-1,Middlesbrough
+Sat Sep 9 2006,Bolton,1-0,0-0,Watford
+Sat Sep 9 2006,Chelsea,2-1,1-0,Charlton
+Sat Sep 9 2006,Everton,3-0,2-0,Liverpool
+Sat Sep 9 2006,Man United,1-0,1-0,Tottenham
+Sat Sep 9 2006,Newcastle,1-2,0-0,Fulham
+Sat Sep 9 2006,Portsmouth,1-0,0-0,Wigan
+Sat Sep 9 2006,Sheffield United,0-0,0-0,Blackburn
+Sun Sep 10 2006,West Ham,1-1,0-1,Aston Villa
+Mon Sep 11 2006,Reading,1-0,1-0,Man City
+Sat Sep 16 2006,Bolton,0-0,0-0,Middlesbrough
+Sat Sep 16 2006,Charlton,0-1,0-0,Portsmouth
+Sat Sep 16 2006,Everton,2-2,0-0,Wigan
+Sat Sep 16 2006,Sheffield United,1-2,0-2,Reading
+Sat Sep 16 2006,Watford,0-0,0-0,Aston Villa
+Sun Sep 17 2006,Blackburn,4-2,2-2,Man City
+Sun Sep 17 2006,Chelsea,1-0,1-0,Liverpool
+Sun Sep 17 2006,Man United,0-1,0-0,Arsenal
+Sun Sep 17 2006,Tottenham,0-0,0-0,Fulham
+Sun Sep 17 2006,West Ham,0-2,0-0,Newcastle
+Wed Sep 20 2006,Liverpool,2-0,1-0,Newcastle
+Sat Sep 23 2006,Arsenal,3-0,0-0,Sheffield United
+Sat Sep 23 2006,Aston Villa,2-0,1-0,Charlton
+Sat Sep 23 2006,Fulham,0-2,0-0,Chelsea
+Sat Sep 23 2006,Liverpool,3-0,0-0,Tottenham
+Sat Sep 23 2006,Man City,2-0,0-0,West Ham
+Sat Sep 23 2006,Middlesbrough,0-1,0-1,Blackburn
+Sat Sep 23 2006,Reading,1-1,0-0,Man United
+Sat Sep 23 2006,Wigan,1-1,1-0,Watford
+Sun Sep 24 2006,Newcastle,1-1,1-1,Everton
+Mon Sep 25 2006,Portsmouth,0-1,0-1,Bolton
+Sat Sep 30 2006,Bolton,2-0,1-0,Liverpool
+Sat Sep 30 2006,Charlton,1-2,1-1,Arsenal
+Sat Sep 30 2006,Chelsea,1-1,1-1,Aston Villa
+Sat Sep 30 2006,Everton,1-1,1-0,Man City
+Sat Sep 30 2006,Sheffield United,2-1,1-0,Middlesbrough
+Sun Oct 1 2006,Blackburn,2-1,1-1,Wigan
+Sun Oct 1 2006,Man United,2-0,1-0,Newcastle
+Sun Oct 1 2006,Tottenham,2-1,2-1,Portsmouth
+Sun Oct 1 2006,West Ham,0-1,0-1,Reading
+Mon Oct 2 2006,Watford,3-3,1-0,Fulham
+Sat Oct 14 2006,Arsenal,3-0,2-0,Watford
+Sat Oct 14 2006,Aston Villa,1-1,0-0,Tottenham
+Sat Oct 14 2006,Liverpool,1-1,0-1,Blackburn
+Sat Oct 14 2006,Man City,0-0,0-0,Sheffield United
+Sat Oct 14 2006,Middlesbrough,2-1,1-0,Everton
+Sat Oct 14 2006,Portsmouth,2-0,1-0,West Ham
+Sat Oct 14 2006,Reading,0-1,0-1,Chelsea
+Sat Oct 14 2006,Wigan,1-3,1-0,Man United
+Sun Oct 15 2006,Newcastle,1-2,1-0,Bolton
+Mon Oct 16 2006,Fulham,2-1,0-0,Charlton
+Sat Oct 21 2006,Aston Villa,1-1,1-1,Fulham
+Sat Oct 21 2006,Charlton,0-0,0-0,Watford
+Sat Oct 21 2006,Chelsea,2-1,0-0,Portsmouth
+Sat Oct 21 2006,Everton,2-0,2-0,Sheffield United
+Sat Oct 21 2006,Wigan,4-0,2-0,Man City
+Sun Oct 22 2006,Blackburn,0-1,0-0,Bolton
+Sun Oct 22 2006,Man United,2-0,1-0,Liverpool
+Sun Oct 22 2006,Middlesbrough,1-0,0-0,Newcastle
+Sun Oct 22 2006,Reading,0-4,0-2,Arsenal
+Sun Oct 22 2006,Tottenham,1-0,1-0,West Ham
+Sat Oct 28 2006,Arsenal,1-1,0-1,Everton
+Sat Oct 28 2006,Bolton,0-4,0-2,Man United
+Sat Oct 28 2006,Fulham,0-1,0-0,Wigan
+Sat Oct 28 2006,Liverpool,3-1,3-0,Aston Villa
+Sat Oct 28 2006,Newcastle,0-0,0-0,Charlton
+Sat Oct 28 2006,Portsmouth,3-1,1-0,Reading
+Sat Oct 28 2006,Sheffield United,0-2,0-1,Chelsea
+Sat Oct 28 2006,Watford,0-0,0-0,Tottenham
+Sun Oct 29 2006,West Ham,2-1,1-0,Blackburn
+Mon Oct 30 2006,Man City,1-0,1-0,Middlesbrough
+Sat Nov 4 2006,Bolton,0-1,0-0,Wigan
+Sat Nov 4 2006,Charlton,1-0,1-0,Man City
+Sat Nov 4 2006,Fulham,1-0,0-0,Everton
+Sat Nov 4 2006,Liverpool,2-0,1-0,Reading
+Sat Nov 4 2006,Man United,3-0,2-0,Portsmouth
+Sat Nov 4 2006,Newcastle,0-1,0-0,Sheffield United
+Sat Nov 4 2006,Watford,2-0,1-0,Middlesbrough
+Sun Nov 5 2006,Aston Villa,2-0,1-0,Blackburn
+Sun Nov 5 2006,Tottenham,2-1,1-1,Chelsea
+Sun Nov 5 2006,West Ham,1-0,0-0,Arsenal
+Sat Nov 11 2006,Blackburn,0-1,0-0,Man United
+Sat Nov 11 2006,Chelsea,4-0,2-0,Watford
+Sat Nov 11 2006,Everton,0-1,0-1,Aston Villa
+Sat Nov 11 2006,Man City,0-0,0-0,Newcastle
+Sat Nov 11 2006,Middlesbrough,1-0,0-0,West Ham
+Sat Nov 11 2006,Portsmouth,1-1,0-0,Fulham
+Sat Nov 11 2006,Sheffield United,2-2,0-1,Bolton
+Sat Nov 11 2006,Wigan,3-2,2-0,Charlton
+Sun Nov 12 2006,Arsenal,3-0,1-0,Liverpool
+Sun Nov 12 2006,Reading,3-1,2-1,Tottenham
+Sat Nov 18 2006,Arsenal,1-1,0-1,Newcastle
+Sat Nov 18 2006,Chelsea,1-0,1-0,West Ham
+Sat Nov 18 2006,Everton,1-0,0-0,Bolton
+Sat Nov 18 2006,Man City,3-1,3-0,Fulham
+Sat Nov 18 2006,Middlesbrough,0-0,0-0,Liverpool
+Sat Nov 18 2006,Portsmouth,2-1,1-1,Watford
+Sat Nov 18 2006,Reading,2-0,1-0,Charlton
+Sat Nov 18 2006,Sheffield United,1-2,1-1,Man United
+Sun Nov 19 2006,Blackburn,1-1,1-0,Tottenham
+Sun Nov 19 2006,Wigan,0-0,0-0,Aston Villa
+Sat Nov 25 2006,Aston Villa,1-1,1-1,Middlesbrough
+Sat Nov 25 2006,Bolton,3-1,2-1,Arsenal
+Sat Nov 25 2006,Charlton,1-1,0-0,Everton
+Sat Nov 25 2006,Fulham,0-1,0-1,Reading
+Sat Nov 25 2006,Liverpool,1-0,0-0,Man City
+Sat Nov 25 2006,West Ham,1-0,1-0,Sheffield United
+Sun Nov 26 2006,Man United,1-1,1-0,Chelsea
+Sun Nov 26 2006,Newcastle,1-0,0-0,Portsmouth
+Sun Nov 26 2006,Tottenham,3-1,2-1,Wigan
+Tue Nov 28 2006,Watford,0-1,0-0,Sheffield United
+Wed Nov 29 2006,Aston Villa,1-3,0-2,Man City
+Wed Nov 29 2006,Bolton,0-1,0-1,Chelsea
+Wed Nov 29 2006,Fulham,2-1,2-1,Arsenal
+Wed Nov 29 2006,Liverpool,0-0,0-0,Portsmouth
+Wed Nov 29 2006,Man United,3-0,1-0,Everton
+Sat Dec 2 2006,Arsenal,3-0,2-0,Tottenham
+Sat Dec 2 2006,Blackburn,2-0,2-0,Fulham
+Sat Dec 2 2006,Middlesbrough,1-2,0-1,Man United
+Sat Dec 2 2006,Portsmouth,2-2,0-1,Aston Villa
+Sat Dec 2 2006,Reading,1-0,1-0,Bolton
+Sat Dec 2 2006,Sheffield United,2-1,0-1,Charlton
+Sat Dec 2 2006,Wigan,0-4,0-4,Liverpool
+Sun Dec 3 2006,Everton,2-0,0-0,West Ham
+Mon Dec 4 2006,Man City,0-0,0-0,Watford
+Tue Dec 5 2006,Charlton,1-0,0-0,Blackburn
+Tue Dec 5 2006,Tottenham,2-1,0-0,Middlesbrough
+Wed Dec 6 2006,Newcastle,3-2,1-2,Reading
+Wed Dec 6 2006,West Ham,0-2,0-0,Wigan
+Sat Dec 9 2006,Blackburn,1-3,0-2,Newcastle
+Sat Dec 9 2006,Bolton,4-0,1-0,West Ham
+Sat Dec 9 2006,Liverpool,4-0,0-0,Fulham
+Sat Dec 9 2006,Man United,3-1,2-0,Man City
+Sat Dec 9 2006,Middlesbrough,1-1,0-1,Wigan
+Sat Dec 9 2006,Portsmouth,2-0,2-0,Everton
+Sat Dec 9 2006,Tottenham,5-1,2-1,Charlton
+Sat Dec 9 2006,Watford,0-0,0-0,Reading
+Sun Dec 10 2006,Chelsea,1-1,0-0,Arsenal
+Mon Dec 11 2006,Sheffield United,2-2,0-1,Aston Villa
+Wed Dec 13 2006,Chelsea,1-0,0-0,Newcastle
+Wed Dec 13 2006,Wigan,0-1,0-0,Arsenal
+Sat Dec 16 2006,Arsenal,2-2,0-1,Portsmouth
+Sat Dec 16 2006,Aston Villa,0-1,0-0,Bolton
+Sat Dec 16 2006,Charlton,0-3,0-1,Liverpool
+Sat Dec 16 2006,Newcastle,2-1,0-0,Watford
+Sat Dec 16 2006,Reading,1-2,1-0,Blackburn
+Sat Dec 16 2006,Wigan,0-1,0-1,Sheffield United
+Sun Dec 17 2006,Everton,2-3,1-0,Chelsea
+Sun Dec 17 2006,Man City,1-2,0-2,Tottenham
+Sun Dec 17 2006,West Ham,1-0,0-0,Man United
+Mon Dec 18 2006,Fulham,2-1,2-0,Middlesbrough
+Sat Dec 23 2006,Arsenal,6-2,3-1,Blackburn
+Sat Dec 23 2006,Aston Villa,0-3,0-0,Man United
+Sat Dec 23 2006,Fulham,0-0,0-0,West Ham
+Sat Dec 23 2006,Liverpool,2-0,0-0,Watford
+Sat Dec 23 2006,Man City,0-2,0-2,Bolton
+Sat Dec 23 2006,Middlesbrough,2-0,1-0,Charlton
+Sat Dec 23 2006,Newcastle,3-1,3-1,Tottenham
+Sat Dec 23 2006,Portsmouth,3-1,0-1,Sheffield United
+Sat Dec 23 2006,Reading,0-2,0-1,Everton
+Sat Dec 23 2006,Wigan,2-3,1-2,Chelsea
+Tue Dec 26 2006,Blackburn,1-0,0-0,Liverpool
+Tue Dec 26 2006,Bolton,2-1,1-1,Newcastle
+Tue Dec 26 2006,Chelsea,2-2,1-0,Reading
+Tue Dec 26 2006,Everton,0-0,0-0,Middlesbrough
+Tue Dec 26 2006,Man United,3-1,0-0,Wigan
+Tue Dec 26 2006,Sheffield United,0-1,0-0,Man City
+Tue Dec 26 2006,Tottenham,2-1,0-0,Aston Villa
+Tue Dec 26 2006,Watford,1-2,1-1,Arsenal
+Tue Dec 26 2006,West Ham,1-2,0-2,Portsmouth
+Wed Dec 27 2006,Charlton,2-2,2-1,Fulham
+Sat Dec 30 2006,Blackburn,2-1,1-0,Middlesbrough
+Sat Dec 30 2006,Bolton,3-2,2-1,Portsmouth
+Sat Dec 30 2006,Charlton,2-1,0-1,Aston Villa
+Sat Dec 30 2006,Chelsea,2-2,1-1,Fulham
+Sat Dec 30 2006,Everton,3-0,1-0,Newcastle
+Sat Dec 30 2006,Man United,3-2,1-1,Reading
+Sat Dec 30 2006,Sheffield United,1-0,1-0,Arsenal
+Sat Dec 30 2006,Tottenham,0-1,0-1,Liverpool
+Sat Dec 30 2006,West Ham,0-1,0-0,Man City
+Mon Jan 1 2007,Fulham,0-0,0-0,Watford
+Mon Jan 1 2007,Liverpool,3-0,0-0,Bolton
+Mon Jan 1 2007,Man City,2-1,0-0,Everton
+Mon Jan 1 2007,Middlesbrough,3-1,1-1,Sheffield United
+Mon Jan 1 2007,Newcastle,2-2,1-1,Man United
+Mon Jan 1 2007,Portsmouth,1-1,1-0,Tottenham
+Mon Jan 1 2007,Reading,6-0,4-0,West Ham
+Mon Jan 1 2007,Wigan,0-3,0-1,Blackburn
+Tue Jan 2 2007,Arsenal,4-0,2-0,Charlton
+Tue Jan 2 2007,Aston Villa,0-0,0-0,Chelsea
+Sat Jan 13 2007,Blackburn,0-2,0-1,Arsenal
+Sat Jan 13 2007,Bolton,0-0,0-0,Man City
+Sat Jan 13 2007,Charlton,1-3,1-1,Middlesbrough
+Sat Jan 13 2007,Chelsea,4-0,1-0,Wigan
+Sat Jan 13 2007,Man United,3-1,3-0,Aston Villa
+Sat Jan 13 2007,Sheffield United,1-1,1-0,Portsmouth
+Sat Jan 13 2007,Watford,0-3,0-2,Liverpool
+Sat Jan 13 2007,West Ham,3-3,1-1,Fulham
+Sun Jan 14 2007,Everton,1-1,0-1,Reading
+Sun Jan 14 2007,Tottenham,2-3,1-1,Newcastle
+Sat Jan 20 2007,Aston Villa,2-0,0-0,Watford
+Sat Jan 20 2007,Fulham,1-1,0-0,Tottenham
+Sat Jan 20 2007,Liverpool,2-0,2-0,Chelsea
+Sat Jan 20 2007,Man City,0-3,0-1,Blackburn
+Sat Jan 20 2007,Middlesbrough,5-1,4-1,Bolton
+Sat Jan 20 2007,Newcastle,2-2,1-2,West Ham
+Sat Jan 20 2007,Portsmouth,0-1,0-0,Charlton
+Sat Jan 20 2007,Reading,3-1,1-0,Sheffield United
+Sun Jan 21 2007,Arsenal,2-1,0-0,Man United
+Sun Jan 21 2007,Wigan,0-2,0-0,Everton
+Tue Jan 23 2007,Watford,2-1,1-1,Blackburn
+Tue Jan 30 2007,Portsmouth,0-0,0-0,Middlesbrough
+Tue Jan 30 2007,Reading,3-2,1-1,Wigan
+Tue Jan 30 2007,Sheffield United,2-0,2-0,Fulham
+Tue Jan 30 2007,West Ham,1-2,0-0,Liverpool
+Wed Jan 31 2007,Bolton,1-1,1-1,Charlton
+Wed Jan 31 2007,Chelsea,3-0,1-0,Blackburn
+Wed Jan 31 2007,Man United,4-0,1-0,Watford
+Wed Jan 31 2007,Newcastle,3-1,2-1,Aston Villa
+Sat Feb 3 2007,Aston Villa,1-0,1-0,West Ham
+Sat Feb 3 2007,Blackburn,2-1,1-1,Sheffield United
+Sat Feb 3 2007,Charlton,0-1,0-1,Chelsea
+Sat Feb 3 2007,Fulham,2-1,0-0,Newcastle
+Sat Feb 3 2007,Liverpool,0-0,0-0,Everton
+Sat Feb 3 2007,Man City,0-2,0-0,Reading
+Sat Feb 3 2007,Middlesbrough,1-1,0-0,Arsenal
+Sat Feb 3 2007,Watford,0-1,0-0,Bolton
+Sat Feb 3 2007,Wigan,1-0,0-0,Portsmouth
+Sun Feb 4 2007,Tottenham,0-4,0-1,Man United
+Sat Feb 10 2007,Chelsea,3-0,1-0,Middlesbrough
+Sat Feb 10 2007,Everton,1-0,1-0,Blackburn
+Sat Feb 10 2007,Man United,2-0,1-0,Charlton
+Sat Feb 10 2007,Newcastle,2-1,1-1,Liverpool
+Sat Feb 10 2007,Portsmouth,2-1,1-0,Man City
+Sat Feb 10 2007,Reading,2-0,1-0,Aston Villa
+Sat Feb 10 2007,Sheffield United,2-1,1-1,Tottenham
+Sat Feb 10 2007,West Ham,0-1,0-1,Watford
+Sun Feb 11 2007,Arsenal,2-1,0-1,Wigan
+Sun Feb 11 2007,Bolton,2-1,1-0,Fulham
+Wed Feb 21 2007,Everton,1-2,1-1,Tottenham
+Wed Feb 21 2007,Watford,1-1,1-1,Wigan
+Sat Feb 24 2007,Charlton,4-0,3-0,West Ham
+Sat Feb 24 2007,Fulham,1-2,1-1,Man United
+Sat Feb 24 2007,Liverpool,4-0,2-0,Sheffield United
+Sat Feb 24 2007,Middlesbrough,2-1,1-0,Reading
+Sat Feb 24 2007,Watford,0-3,0-2,Everton
+Sun Feb 25 2007,Blackburn,3-0,2-0,Portsmouth
+Sun Feb 25 2007,Tottenham,4-1,3-1,Bolton
+Sun Feb 25 2007,Wigan,1-0,1-0,Newcastle
+Sat Mar 3 2007,Arsenal,2-1,0-0,Reading
+Sat Mar 3 2007,Fulham,1-1,1-1,Aston Villa
+Sat Mar 3 2007,Liverpool,0-1,0-0,Man United
+Sat Mar 3 2007,Man City,0-1,0-1,Wigan
+Sat Mar 3 2007,Newcastle,0-0,0-0,Middlesbrough
+Sat Mar 3 2007,Portsmouth,0-2,0-1,Chelsea
+Sat Mar 3 2007,Sheffield United,1-1,0-0,Everton
+Sat Mar 3 2007,Watford,2-2,2-0,Charlton
+Sun Mar 4 2007,Bolton,1-2,0-0,Blackburn
+Sun Mar 4 2007,West Ham,3-4,2-0,Tottenham
+Wed Mar 14 2007,Aston Villa,0-1,0-1,Arsenal
+Wed Mar 14 2007,Man City,0-1,0-1,Chelsea
+Sat Mar 17 2007,Blackburn,1-2,0-0,West Ham
+Sat Mar 17 2007,Chelsea,3-0,2-0,Sheffield United
+Sat Mar 17 2007,Man United,4-1,3-0,Bolton
+Sat Mar 17 2007,Middlesbrough,0-2,0-0,Man City
+Sat Mar 17 2007,Reading,0-0,0-0,Portsmouth
+Sat Mar 17 2007,Tottenham,3-1,1-0,Watford
+Sat Mar 17 2007,Wigan,0-0,0-0,Fulham
+Sun Mar 18 2007,Aston Villa,0-0,0-0,Liverpool
+Sun Mar 18 2007,Charlton,2-0,0-0,Newcastle
+Sun Mar 18 2007,Everton,1-0,0-0,Arsenal
+Sat Mar 31 2007,Bolton,1-0,0-0,Sheffield United
+Sat Mar 31 2007,Charlton,1-0,0-0,Wigan
+Sat Mar 31 2007,Fulham,1-1,0-1,Portsmouth
+Sat Mar 31 2007,Liverpool,4-1,2-0,Arsenal
+Sat Mar 31 2007,Man United,4-1,0-1,Blackburn
+Sat Mar 31 2007,Newcastle,0-1,0-0,Man City
+Sat Mar 31 2007,Watford,0-1,0-0,Chelsea
+Sat Mar 31 2007,West Ham,2-0,2-0,Middlesbrough
+Sun Apr 1 2007,Tottenham,1-0,1-0,Reading
+Mon Apr 2 2007,Aston Villa,1-1,0-1,Everton
+Fri Apr 6 2007,Everton,4-1,3-1,Fulham
+Fri Apr 6 2007,Man City,0-0,0-0,Charlton
+Sat Apr 7 2007,Arsenal,0-1,0-1,West Ham
+Sat Apr 7 2007,Blackburn,1-2,1-1,Aston Villa
+Sat Apr 7 2007,Chelsea,1-0,0-0,Tottenham
+Sat Apr 7 2007,Middlesbrough,4-1,2-1,Watford
+Sat Apr 7 2007,Portsmouth,2-1,1-0,Man United
+Sat Apr 7 2007,Reading,1-2,0-1,Liverpool
+Sat Apr 7 2007,Sheffield United,1-2,0-1,Newcastle
+Sat Apr 7 2007,Wigan,1-3,1-1,Bolton
+Mon Apr 9 2007,Aston Villa,1-1,0-1,Wigan
+Mon Apr 9 2007,Bolton,1-1,1-1,Everton
+Mon Apr 9 2007,Charlton,0-0,0-0,Reading
+Mon Apr 9 2007,Fulham,1-3,0-2,Man City
+Mon Apr 9 2007,Newcastle,0-0,0-0,Arsenal
+Mon Apr 9 2007,Watford,4-2,2-1,Portsmouth
+Sat Apr 14 2007,Arsenal,2-1,1-1,Bolton
+Sat Apr 14 2007,Man City,0-0,0-0,Liverpool
+Sat Apr 14 2007,Middlesbrough,1-3,1-1,Aston Villa
+Sat Apr 14 2007,Portsmouth,2-1,1-0,Newcastle
+Sat Apr 14 2007,Reading,1-0,1-0,Fulham
+Sat Apr 14 2007,Sheffield United,3-0,1-0,West Ham
+Sun Apr 15 2007,Everton,2-1,0-0,Charlton
+Sun Apr 15 2007,Wigan,3-3,2-2,Tottenham
+Tue Apr 17 2007,Arsenal,3-1,1-1,Man City
+Tue Apr 17 2007,Man United,2-0,1-0,Sheffield United
+Wed Apr 18 2007,Blackburn,3-1,3-1,Watford
+Wed Apr 18 2007,Liverpool,2-0,0-0,Middlesbrough
+Wed Apr 18 2007,West Ham,1-4,1-2,Chelsea
+Sat Apr 21 2007,Bolton,1-3,0-0,Reading
+Sat Apr 21 2007,Charlton,1-1,0-0,Sheffield United
+Sat Apr 21 2007,Fulham,1-1,1-0,Blackburn
+Sat Apr 21 2007,Liverpool,2-0,1-0,Wigan
+Sat Apr 21 2007,Man United,1-1,1-1,Middlesbrough
+Sat Apr 21 2007,Tottenham,2-2,1-0,Arsenal
+Sat Apr 21 2007,Watford,1-1,0-0,Man City
+Sat Apr 21 2007,West Ham,1-0,1-0,Everton
+Sun Apr 22 2007,Aston Villa,0-0,0-0,Portsmouth
+Sun Apr 22 2007,Newcastle,0-0,0-0,Chelsea
+Sat Apr 28 2007,Blackburn,4-1,0-0,Charlton
+Sat Apr 28 2007,Chelsea,2-2,2-1,Bolton
+Sat Apr 28 2007,Everton,2-4,1-0,Man United
+Sat Apr 28 2007,Man City,0-2,0-1,Aston Villa
+Sat Apr 28 2007,Middlesbrough,2-3,0-1,Tottenham
+Sat Apr 28 2007,Portsmouth,2-1,2-0,Liverpool
+Sat Apr 28 2007,Sheffield United,1-0,1-0,Watford
+Sat Apr 28 2007,Wigan,0-3,0-1,West Ham
+Sun Apr 29 2007,Arsenal,3-1,1-0,Fulham
+Mon Apr 30 2007,Reading,1-0,0-0,Newcastle
+Sat May 5 2007,Aston Villa,3-0,2-0,Sheffield United
+Sat May 5 2007,Everton,3-0,0-0,Portsmouth
+Sat May 5 2007,Fulham,1-0,0-0,Liverpool
+Sat May 5 2007,Man City,0-1,0-1,Man United
+Sat May 5 2007,Newcastle,0-2,0-1,Blackburn
+Sat May 5 2007,Reading,0-2,0-0,Watford
+Sat May 5 2007,West Ham,3-1,3-0,Bolton
+Sat May 5 2007,Wigan,0-1,0-1,Middlesbrough
+Sun May 6 2007,Arsenal,1-1,1-0,Chelsea
+Mon May 7 2007,Charlton,0-2,0-1,Tottenham
+Wed May 9 2007,Chelsea,0-0,0-0,Man United
+Thu May 10 2007,Tottenham,1-1,0-1,Blackburn
+Sun May 13 2007,Blackburn,3-3,1-1,Reading
+Sun May 13 2007,Bolton,2-2,1-1,Aston Villa
+Sun May 13 2007,Chelsea,1-1,0-0,Everton
+Sun May 13 2007,Liverpool,2-2,0-1,Charlton
+Sun May 13 2007,Man United,0-1,0-1,West Ham
+Sun May 13 2007,Middlesbrough,3-1,2-1,Fulham
+Sun May 13 2007,Portsmouth,0-0,0-0,Arsenal
+Sun May 13 2007,Sheffield United,1-2,1-2,Wigan
+Sun May 13 2007,Tottenham,2-1,2-1,Man City
+Sun May 13 2007,Watford,1-1,0-1,Newcastle

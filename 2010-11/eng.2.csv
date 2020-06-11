@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 6 2010,Norwich,2-3,0-2,Watford
+Sat Aug 7 2010,Bristol City,0-3,0-1,Millwall
+Sat Aug 7 2010,Burnley,1-0,1-0,Nott'm Forest
+Sat Aug 7 2010,Coventry,2-0,1-0,Portsmouth
+Sat Aug 7 2010,Crystal Palace,3-2,3-0,Leicester
+Sat Aug 7 2010,Hull,2-0,1-0,Swansea
+Sat Aug 7 2010,Leeds,1-2,1-2,Derby
+Sat Aug 7 2010,Middlesbrough,1-3,1-0,Ipswich
+Sat Aug 7 2010,Preston,0-2,0-2,Doncaster
+Sat Aug 7 2010,QPR,4-0,1-0,Barnsley
+Sat Aug 7 2010,Reading,1-2,1-1,Scunthorpe
+Sun Aug 8 2010,Cardiff,1-1,0-1,Sheffield United
+Sat Aug 14 2010,Barnsley,1-0,1-0,Crystal Palace
+Sat Aug 14 2010,Derby,1-2,1-1,Cardiff
+Sat Aug 14 2010,Doncaster,1-1,0-0,Bristol City
+Sat Aug 14 2010,Ipswich,1-1,0-0,Burnley
+Sat Aug 14 2010,Leicester,0-0,0-0,Middlesbrough
+Sat Aug 14 2010,Millwall,4-0,2-0,Hull
+Sat Aug 14 2010,Portsmouth,1-1,1-0,Reading
+Sat Aug 14 2010,Scunthorpe,0-1,0-0,Norwich
+Sat Aug 14 2010,Sheffield United,0-3,0-3,QPR
+Sat Aug 14 2010,Swansea,4-0,3-0,Preston
+Sat Aug 14 2010,Watford,2-2,1-0,Coventry
+Sun Aug 15 2010,Nott'm Forest,1-1,1-1,Leeds
+Sat Aug 21 2010,Bristol City,3-3,2-2,Barnsley
+Sat Aug 21 2010,Burnley,3-0,1-0,Leicester
+Sat Aug 21 2010,Cardiff,4-0,1-0,Doncaster
+Sat Aug 21 2010,Coventry,2-1,1-0,Derby
+Sat Aug 21 2010,Crystal Palace,1-2,0-0,Ipswich
+Sat Aug 21 2010,Hull,0-0,0-0,Watford
+Sat Aug 21 2010,Leeds,3-1,1-1,Millwall
+Sat Aug 21 2010,Norwich,2-0,0-0,Swansea
+Sat Aug 21 2010,Preston,1-0,1-0,Portsmouth
+Sat Aug 21 2010,QPR,2-0,2-0,Scunthorpe
+Sat Aug 21 2010,Reading,1-1,1-0,Nott'm Forest
+Sun Aug 22 2010,Middlesbrough,1-0,0-0,Sheffield United
+Sat Aug 28 2010,Barnsley,2-0,1-0,Middlesbrough
+Sat Aug 28 2010,Derby,2-2,1-0,QPR
+Sat Aug 28 2010,Doncaster,3-1,2-1,Hull
+Sat Aug 28 2010,Ipswich,2-0,0-0,Bristol City
+Sat Aug 28 2010,Leicester,1-2,0-1,Reading
+Sat Aug 28 2010,Millwall,3-1,1-0,Coventry
+Sat Aug 28 2010,Nott'm Forest,1-1,1-1,Norwich
+Sat Aug 28 2010,Portsmouth,0-2,0-1,Cardiff
+Sat Aug 28 2010,Scunthorpe,3-0,2-0,Crystal Palace
+Sat Aug 28 2010,Sheffield United,1-0,0-0,Preston
+Sat Aug 28 2010,Swansea,1-0,1-0,Burnley
+Sat Aug 28 2010,Watford,0-1,0-1,Leeds
+Sat Sep 11 2010,Burnley,4-3,1-2,Preston
+Sat Sep 11 2010,Cardiff,2-0,1-0,Hull
+Sat Sep 11 2010,Coventry,1-1,1-0,Leicester
+Sat Sep 11 2010,Derby,0-1,0-1,Sheffield United
+Sat Sep 11 2010,Leeds,2-1,0-1,Swansea
+Sat Sep 11 2010,Norwich,2-1,0-1,Barnsley
+Sat Sep 11 2010,Nott'm Forest,1-1,0-1,Millwall
+Sat Sep 11 2010,Portsmouth,0-0,0-0,Ipswich
+Sat Sep 11 2010,QPR,3-0,0-0,Middlesbrough
+Sat Sep 11 2010,Reading,3-0,1-0,Crystal Palace
+Sat Sep 11 2010,Scunthorpe,0-2,0-1,Bristol City
+Sat Sep 11 2010,Watford,2-2,0-1,Doncaster
+Tue Sep 14 2010,Barnsley,5-2,1-1,Leeds
+Tue Sep 14 2010,Bristol City,0-2,0-1,Watford
+Tue Sep 14 2010,Crystal Palace,4-1,1-1,Portsmouth
+Tue Sep 14 2010,Doncaster,3-1,1-0,Norwich
+Tue Sep 14 2010,Hull,2-0,1-0,Derby
+Tue Sep 14 2010,Ipswich,0-3,0-2,QPR
+Tue Sep 14 2010,Leicester,2-1,0-1,Cardiff
+Tue Sep 14 2010,Middlesbrough,2-1,0-0,Burnley
+Tue Sep 14 2010,Millwall,0-0,0-0,Reading
+Tue Sep 14 2010,Preston,1-2,1-0,Nott'm Forest
+Tue Sep 14 2010,Sheffield United,0-4,0-1,Scunthorpe
+Tue Sep 14 2010,Swansea,2-1,1-0,Coventry
+Fri Sep 17 2010,Doncaster,0-0,0-0,Leeds
+Sat Sep 18 2010,Barnsley,1-1,0-1,Derby
+Sat Sep 18 2010,Bristol City,1-2,1-2,Coventry
+Sat Sep 18 2010,Crystal Palace,0-0,0-0,Burnley
+Sat Sep 18 2010,Hull,0-0,0-0,Nott'm Forest
+Sat Sep 18 2010,Ipswich,2-0,0-0,Cardiff
+Sat Sep 18 2010,Leicester,0-2,0-1,QPR
+Sat Sep 18 2010,Middlesbrough,3-1,2-1,Reading
+Sat Sep 18 2010,Millwall,1-6,0-3,Watford
+Sat Sep 18 2010,Preston,0-1,0-0,Norwich
+Sat Sep 18 2010,Sheffield United,1-0,0-0,Portsmouth
+Sat Sep 18 2010,Swansea,2-0,0-0,Scunthorpe
+Fri Sep 24 2010,Portsmouth,6-1,2-0,Leicester
+Sat Sep 25 2010,Burnley,0-0,0-0,Bristol City
+Sat Sep 25 2010,Cardiff,2-1,1-1,Millwall
+Sat Sep 25 2010,Coventry,1-2,0-2,Preston
+Sat Sep 25 2010,Derby,5-0,2-0,Crystal Palace
+Sat Sep 25 2010,Leeds,1-0,0-0,Sheffield United
+Sat Sep 25 2010,Norwich,0-2,0-0,Hull
+Sat Sep 25 2010,Nott'm Forest,3-1,1-0,Swansea
+Sat Sep 25 2010,QPR,3-0,0-0,Doncaster
+Sat Sep 25 2010,Reading,3-0,0-0,Barnsley
+Sat Sep 25 2010,Scunthorpe,1-1,1-0,Ipswich
+Sat Sep 25 2010,Watford,3-1,3-0,Middlesbrough
+Tue Sep 28 2010,Burnley,4-0,2-0,Hull
+Tue Sep 28 2010,Cardiff,0-0,0-0,Crystal Palace
+Tue Sep 28 2010,Coventry,2-1,1-1,Doncaster
+Tue Sep 28 2010,Derby,3-1,1-1,Middlesbrough
+Tue Sep 28 2010,Leeds,4-6,4-2,Preston
+Tue Sep 28 2010,Norwich,4-3,1-1,Leicester
+Tue Sep 28 2010,Nott'm Forest,1-1,0-1,Sheffield United
+Tue Sep 28 2010,Portsmouth,3-1,0-0,Bristol City
+Tue Sep 28 2010,QPR,0-0,0-0,Millwall
+Tue Sep 28 2010,Reading,1-0,0-0,Ipswich
+Tue Sep 28 2010,Scunthorpe,0-0,0-0,Barnsley
+Tue Sep 28 2010,Watford,2-3,0-2,Swansea
+Sat Oct 2 2010,Barnsley,1-2,0-1,Cardiff
+Sat Oct 2 2010,Bristol City,0-3,0-2,Norwich
+Sat Oct 2 2010,Crystal Palace,1-2,0-0,QPR
+Sat Oct 2 2010,Doncaster,1-1,1-1,Nott'm Forest
+Sat Oct 2 2010,Hull,0-0,0-0,Coventry
+Sat Oct 2 2010,Ipswich,2-1,1-0,Leeds
+Sat Oct 2 2010,Leicester,3-1,1-0,Scunthorpe
+Sat Oct 2 2010,Middlesbrough,2-2,2-0,Portsmouth
+Sat Oct 2 2010,Millwall,1-1,1-1,Burnley
+Sat Oct 2 2010,Preston,1-1,1-0,Reading
+Sat Oct 2 2010,Sheffield United,0-1,0-1,Watford
+Sat Oct 2 2010,Swansea,0-0,0-0,Derby
+Sat Oct 16 2010,Barnsley,3-1,1-0,Nott'm Forest
+Sat Oct 16 2010,Cardiff,3-2,1-2,Bristol City
+Sat Oct 16 2010,Crystal Palace,0-1,0-0,Millwall
+Sat Oct 16 2010,Derby,3-0,2-0,Preston
+Sat Oct 16 2010,Ipswich,1-2,0-1,Coventry
+Sat Oct 16 2010,Leicester,1-1,1-0,Hull
+Sat Oct 16 2010,Middlesbrough,1-2,0-1,Leeds
+Sat Oct 16 2010,Portsmouth,3-2,1-0,Watford
+Sat Oct 16 2010,QPR,0-0,0-0,Norwich
+Sat Oct 16 2010,Reading,0-1,0-1,Swansea
+Sat Oct 16 2010,Scunthorpe,1-3,1-1,Doncaster
+Sat Oct 16 2010,Sheffield United,3-3,0-0,Burnley
+Tue Oct 19 2010,Bristol City,1-0,1-0,Reading
+Tue Oct 19 2010,Burnley,3-0,0-0,Barnsley
+Tue Oct 19 2010,Coventry,1-2,1-1,Cardiff
+Tue Oct 19 2010,Doncaster,2-3,0-1,Derby
+Tue Oct 19 2010,Hull,0-1,0-0,Sheffield United
+Tue Oct 19 2010,Leeds,1-2,0-0,Leicester
+Tue Oct 19 2010,Millwall,0-1,0-0,Portsmouth
+Tue Oct 19 2010,Norwich,1-2,1-0,Crystal Palace
+Tue Oct 19 2010,Nott'm Forest,1-0,0-0,Middlesbrough
+Tue Oct 19 2010,Preston,2-3,0-1,Scunthorpe
+Tue Oct 19 2010,Swansea,0-0,0-0,QPR
+Tue Oct 19 2010,Watford,2-1,2-0,Ipswich
+Fri Oct 22 2010,Bristol City,1-1,1-0,QPR
+Sat Oct 23 2010,Burnley,0-4,0-1,Reading
+Sat Oct 23 2010,Coventry,3-0,1-0,Barnsley
+Sat Oct 23 2010,Doncaster,2-0,2-0,Sheffield United
+Sat Oct 23 2010,Hull,1-2,0-1,Portsmouth
+Sat Oct 23 2010,Millwall,2-0,1-0,Derby
+Sat Oct 23 2010,Norwich,1-0,1-0,Middlesbrough
+Sat Oct 23 2010,Nott'm Forest,2-0,2-0,Ipswich
+Sat Oct 23 2010,Preston,4-3,3-1,Crystal Palace
+Sat Oct 23 2010,Swansea,2-0,0-0,Leicester
+Sat Oct 23 2010,Watford,0-2,0-2,Scunthorpe
+Mon Oct 25 2010,Leeds,0-4,0-1,Cardiff
+Sat Oct 30 2010,Barnsley,1-1,1-0,Hull
+Sat Oct 30 2010,Cardiff,3-1,3-1,Norwich
+Sat Oct 30 2010,Crystal Palace,0-3,0-1,Swansea
+Sat Oct 30 2010,Derby,4-1,2-0,Watford
+Sat Oct 30 2010,Ipswich,2-0,1-0,Millwall
+Sat Oct 30 2010,Leicester,1-0,1-0,Preston
+Sat Oct 30 2010,Middlesbrough,1-2,1-1,Bristol City
+Sat Oct 30 2010,Portsmouth,2-1,1-1,Nott'm Forest
+Sat Oct 30 2010,QPR,1-1,1-1,Burnley
+Sat Oct 30 2010,Reading,4-3,1-2,Doncaster
+Sat Oct 30 2010,Scunthorpe,1-4,1-1,Leeds
+Sat Oct 30 2010,Sheffield United,0-1,0-1,Coventry
+Sat Nov 6 2010,Barnsley,0-2,0-1,Leicester
+Sat Nov 6 2010,Bristol City,1-1,0-1,Preston
+Sat Nov 6 2010,Coventry,2-3,0-2,Leeds
+Sat Nov 6 2010,Derby,2-0,1-0,Portsmouth
+Sat Nov 6 2010,Doncaster,2-1,0-1,Millwall
+Sat Nov 6 2010,Hull,0-1,0-0,Scunthorpe
+Sat Nov 6 2010,Middlesbrough,2-1,0-1,Crystal Palace
+Sat Nov 6 2010,Norwich,2-2,0-2,Burnley
+Sat Nov 6 2010,QPR,3-1,1-0,Reading
+Sat Nov 6 2010,Sheffield United,1-2,1-2,Ipswich
+Sat Nov 6 2010,Watford,1-1,1-1,Nott'm Forest
+Sun Nov 7 2010,Cardiff,0-1,0-0,Swansea
+Tue Nov 9 2010,Burnley,1-1,0-1,Doncaster
+Tue Nov 9 2010,Crystal Palace,3-2,1-0,Watford
+Tue Nov 9 2010,Ipswich,0-2,0-0,Derby
+Tue Nov 9 2010,Leeds,2-2,1-1,Hull
+Tue Nov 9 2010,Millwall,1-1,0-0,Norwich
+Tue Nov 9 2010,Nott'm Forest,2-1,1-1,Coventry
+Tue Nov 9 2010,Portsmouth,1-1,0-0,QPR
+Tue Nov 9 2010,Preston,1-2,1-1,Barnsley
+Tue Nov 9 2010,Scunthorpe,0-2,0-2,Middlesbrough
+Wed Nov 10 2010,Leicester,2-2,1-2,Sheffield United
+Wed Nov 10 2010,Reading,1-1,1-0,Cardiff
+Wed Nov 10 2010,Swansea,0-1,0-1,Bristol City
+Fri Nov 12 2010,Preston,0-2,0-1,Hull
+Sat Nov 13 2010,Burnley,3-2,1-1,Watford
+Sat Nov 13 2010,Crystal Palace,2-0,1-0,Coventry
+Sat Nov 13 2010,Ipswich,1-3,0-2,Barnsley
+Sat Nov 13 2010,Leeds,3-1,0-0,Bristol City
+Sat Nov 13 2010,Leicester,2-0,1-0,Derby
+Sat Nov 13 2010,Millwall,0-1,0-1,Sheffield United
+Sat Nov 13 2010,Nott'm Forest,0-0,0-0,QPR
+Sat Nov 13 2010,Portsmouth,2-3,0-2,Doncaster
+Sat Nov 13 2010,Reading,3-3,1-3,Norwich
+Sat Nov 13 2010,Scunthorpe,2-4,1-3,Cardiff
+Sun Nov 14 2010,Swansea,1-0,0-0,Middlesbrough
+Sat Nov 20 2010,Barnsley,1-0,1-0,Portsmouth
+Sat Nov 20 2010,Bristol City,2-0,0-0,Leicester
+Sat Nov 20 2010,Cardiff,0-2,0-1,Nott'm Forest
+Sat Nov 20 2010,Coventry,1-0,0-0,Burnley
+Sat Nov 20 2010,Derby,3-2,2-1,Scunthorpe
+Sat Nov 20 2010,Doncaster,1-1,1-0,Swansea
+Sat Nov 20 2010,Hull,1-0,0-0,Ipswich
+Sat Nov 20 2010,Middlesbrough,0-1,0-1,Millwall
+Sat Nov 20 2010,Norwich,1-1,0-1,Leeds
+Sat Nov 20 2010,QPR,3-1,1-0,Preston
+Sat Nov 20 2010,Sheffield United,3-2,1-1,Crystal Palace
+Sat Nov 20 2010,Watford,1-1,1-1,Reading
+Fri Nov 26 2010,Swansea,1-2,1-1,Portsmouth
+Sat Nov 27 2010,Barnsley,0-0,0-0,Watford
+Sat Nov 27 2010,Bristol City,3-0,2-0,Sheffield United
+Sat Nov 27 2010,Burnley,2-1,0-1,Derby
+Sat Nov 27 2010,Crystal Palace,1-0,1-0,Doncaster
+Sat Nov 27 2010,Middlesbrough,2-2,1-2,Hull
+Sat Nov 27 2010,Preston,0-0,0-0,Millwall
+Sat Nov 27 2010,QPR,2-1,1-1,Cardiff
+Sat Nov 27 2010,Reading,0-0,0-0,Leeds
+Sat Nov 27 2010,Scunthorpe,0-2,0-1,Coventry
+Sun Nov 28 2010,Norwich,4-1,2-1,Ipswich
+Mon Nov 29 2010,Leicester,1-0,0-0,Nott'm Forest
+Sat Dec 4 2010,Cardiff,1-1,0-1,Preston
+Sat Dec 4 2010,Coventry,1-0,0-0,Middlesbrough
+Sat Dec 4 2010,Derby,1-2,1-2,Norwich
+Sat Dec 4 2010,Ipswich,1-3,0-0,Swansea
+Sat Dec 4 2010,Leeds,2-1,0-1,Crystal Palace
+Sat Dec 4 2010,Millwall,3-0,1-0,Scunthorpe
+Sat Dec 4 2010,Watford,3-2,2-0,Leicester
+Fri Dec 10 2010,QPR,1-3,0-2,Watford
+Fri Dec 10 2010,Swansea,1-1,1-1,Millwall
+Sat Dec 11 2010,Barnsley,1-0,1-0,Sheffield United
+Sat Dec 11 2010,Bristol City,2-0,0-0,Derby
+Sat Dec 11 2010,Burnley,2-3,2-0,Leeds
+Sat Dec 11 2010,Crystal Palace,0-0,0-0,Hull
+Sat Dec 11 2010,Leicester,5-1,1-1,Doncaster
+Sat Dec 11 2010,Middlesbrough,1-0,1-0,Cardiff
+Sat Dec 11 2010,Norwich,0-2,0-0,Portsmouth
+Sat Dec 11 2010,Preston,1-0,0-0,Ipswich
+Sat Dec 11 2010,Reading,0-0,0-0,Coventry
+Fri Dec 17 2010,Doncaster,2-1,1-1,Middlesbrough
+Sat Dec 18 2010,Coventry,1-2,0-0,Norwich
+Sat Dec 18 2010,Derby,1-2,0-1,Reading
+Sat Dec 18 2010,Hull,2-0,1-0,Bristol City
+Sat Dec 18 2010,Ipswich,3-0,3-0,Leicester
+Sat Dec 18 2010,Leeds,2-0,1-0,QPR
+Sat Dec 18 2010,Nott'm Forest,3-0,1-0,Crystal Palace
+Sat Dec 18 2010,Sheffield United,1-0,1-0,Swansea
+Sun Dec 26 2010,Barnsley,1-2,1-0,Burnley
+Sun Dec 26 2010,Cardiff,2-0,1-0,Coventry
+Sun Dec 26 2010,Leicester,2-2,0-1,Leeds
+Sun Dec 26 2010,Portsmouth,1-1,0-1,Millwall
+Sun Dec 26 2010,QPR,4-0,1-0,Swansea
+Sun Dec 26 2010,Reading,4-1,2-1,Bristol City
+Sun Dec 26 2010,Sheffield United,2-3,0-2,Hull
+Tue Dec 28 2010,Bristol City,1-1,0-1,Crystal Palace
+Tue Dec 28 2010,Burnley,0-2,0-1,Scunthorpe
+Tue Dec 28 2010,Coventry,0-2,0-0,QPR
+Tue Dec 28 2010,Hull,1-1,1-0,Reading
+Tue Dec 28 2010,Leeds,3-3,2-1,Portsmouth
+Tue Dec 28 2010,Millwall,2-0,2-0,Leicester
+Tue Dec 28 2010,Norwich,4-2,1-2,Sheffield United
+Tue Dec 28 2010,Preston,1-3,1-1,Middlesbrough
+Tue Dec 28 2010,Swansea,1-0,1-0,Barnsley
+Tue Dec 28 2010,Watford,4-1,1-1,Cardiff
+Wed Dec 29 2010,Nott'm Forest,5-2,3-1,Derby
+Sat Jan 1 2011,Bristol City,3-0,2-0,Cardiff
+Sat Jan 1 2011,Burnley,4-2,3-1,Sheffield United
+Sat Jan 1 2011,Coventry,1-1,0-1,Ipswich
+Sat Jan 1 2011,Doncaster,3-0,3-0,Scunthorpe
+Sat Jan 1 2011,Hull,0-1,0-1,Leicester
+Sat Jan 1 2011,Leeds,1-1,0-1,Middlesbrough
+Sat Jan 1 2011,Millwall,3-0,1-0,Crystal Palace
+Sat Jan 1 2011,Norwich,1-0,1-0,QPR
+Sat Jan 1 2011,Nott'm Forest,2-2,0-1,Barnsley
+Sat Jan 1 2011,Preston,1-2,0-0,Derby
+Sat Jan 1 2011,Swansea,1-0,0-0,Reading
+Sat Jan 1 2011,Watford,3-0,1-0,Portsmouth
+Mon Jan 3 2011,Barnsley,2-1,1-1,Coventry
+Mon Jan 3 2011,Crystal Palace,1-0,0-0,Preston
+Mon Jan 3 2011,Derby,0-0,0-0,Millwall
+Mon Jan 3 2011,Ipswich,0-1,0-1,Nott'm Forest
+Mon Jan 3 2011,Leicester,2-1,2-1,Swansea
+Mon Jan 3 2011,Middlesbrough,1-1,1-1,Norwich
+Mon Jan 3 2011,Portsmouth,2-3,0-1,Hull
+Mon Jan 3 2011,QPR,2-2,0-0,Bristol City
+Mon Jan 3 2011,Reading,2-1,1-1,Burnley
+Mon Jan 3 2011,Scunthorpe,1-2,0-0,Watford
+Mon Jan 3 2011,Sheffield United,2-2,0-0,Doncaster
+Tue Jan 4 2011,Cardiff,2-1,1-0,Leeds
+Sat Jan 15 2011,Bristol City,0-4,0-1,Middlesbrough
+Sat Jan 15 2011,Burnley,0-0,0-0,QPR
+Sat Jan 15 2011,Coventry,0-0,0-0,Sheffield United
+Sat Jan 15 2011,Doncaster,0-3,0-1,Reading
+Sat Jan 15 2011,Hull,2-0,0-0,Barnsley
+Sat Jan 15 2011,Leeds,4-0,3-0,Scunthorpe
+Sat Jan 15 2011,Millwall,2-1,1-1,Ipswich
+Sat Jan 15 2011,Norwich,1-1,0-1,Cardiff
+Sat Jan 15 2011,Nott'm Forest,2-1,0-1,Portsmouth
+Sat Jan 15 2011,Preston,1-1,0-0,Leicester
+Sat Jan 15 2011,Swansea,3-0,1-0,Crystal Palace
+Sat Jan 15 2011,Watford,3-0,3-0,Derby
+Sat Jan 22 2011,Barnsley,1-1,1-0,Swansea
+Sat Jan 22 2011,Cardiff,4-2,3-1,Watford
+Sat Jan 22 2011,Crystal Palace,0-0,0-0,Bristol City
+Sat Jan 22 2011,Derby,0-1,0-0,Nott'm Forest
+Sat Jan 22 2011,Ipswich,3-2,0-1,Doncaster
+Sat Jan 22 2011,Leicester,4-2,3-1,Millwall
+Sat Jan 22 2011,Middlesbrough,1-1,0-0,Preston
+Sat Jan 22 2011,Portsmouth,2-2,1-0,Leeds
+Sat Jan 22 2011,Reading,1-1,0-0,Hull
+Sat Jan 22 2011,Scunthorpe,0-0,0-0,Burnley
+Sat Jan 22 2011,Sheffield United,1-2,0-0,Norwich
+Sun Jan 23 2011,QPR,2-1,1-1,Coventry
+Tue Jan 25 2011,Doncaster,0-2,0-0,Barnsley
+Tue Jan 25 2011,Nott'm Forest,1-0,0-0,Bristol City
+Tue Jan 25 2011,Portsmouth,1-2,1-2,Burnley
+Fri Jan 28 2011,Millwall,2-0,2-0,Barnsley
+Sat Jan 29 2011,Crystal Palace,0-0,0-0,Norwich
+Sat Jan 29 2011,Hull,0-0,0-0,QPR
+Tue Feb 1 2011,Barnsley,2-0,1-0,Preston
+Tue Feb 1 2011,Bristol City,0-2,0-1,Swansea
+Tue Feb 1 2011,Cardiff,2-2,0-1,Reading
+Tue Feb 1 2011,Coventry,1-2,1-2,Nott'm Forest
+Tue Feb 1 2011,Derby,1-2,1-1,Ipswich
+Tue Feb 1 2011,Doncaster,1-0,0-0,Burnley
+Tue Feb 1 2011,Hull,2-2,2-1,Leeds
+Tue Feb 1 2011,Middlesbrough,2-0,1-0,Scunthorpe
+Tue Feb 1 2011,Norwich,2-1,0-0,Millwall
+Tue Feb 1 2011,QPR,2-0,0-0,Portsmouth
+Tue Feb 1 2011,Sheffield United,0-1,0-1,Leicester
+Tue Feb 1 2011,Watford,1-1,1-1,Crystal Palace
+Fri Feb 4 2011,Reading,0-1,0-0,QPR
+Sat Feb 5 2011,Burnley,2-1,1-0,Norwich
+Sat Feb 5 2011,Crystal Palace,1-0,1-0,Middlesbrough
+Sat Feb 5 2011,Ipswich,3-0,1-0,Sheffield United
+Sat Feb 5 2011,Leeds,1-0,0-0,Coventry
+Sat Feb 5 2011,Leicester,4-1,2-1,Barnsley
+Sat Feb 5 2011,Millwall,1-0,0-0,Doncaster
+Sat Feb 5 2011,Nott'm Forest,1-0,1-0,Watford
+Sat Feb 5 2011,Portsmouth,1-1,0-1,Derby
+Sat Feb 5 2011,Preston,0-4,0-1,Bristol City
+Sat Feb 5 2011,Scunthorpe,1-5,0-1,Hull
+Sun Feb 6 2011,Swansea,0-1,0-0,Cardiff
+Sat Feb 12 2011,Barnsley,1-1,0-0,Ipswich
+Sat Feb 12 2011,Bristol City,0-2,0-1,Leeds
+Sat Feb 12 2011,Cardiff,1-0,0-0,Scunthorpe
+Sat Feb 12 2011,Coventry,2-1,1-0,Crystal Palace
+Sat Feb 12 2011,Derby,0-2,0-2,Leicester
+Sat Feb 12 2011,Doncaster,0-2,0-1,Portsmouth
+Sat Feb 12 2011,Hull,1-0,1-0,Preston
+Sat Feb 12 2011,Middlesbrough,3-4,2-1,Swansea
+Sat Feb 12 2011,Norwich,2-1,1-1,Reading
+Sat Feb 12 2011,Sheffield United,1-1,0-0,Millwall
+Sat Feb 12 2011,Watford,1-3,1-1,Burnley
+Sun Feb 13 2011,QPR,1-1,1-1,Nott'm Forest
+Tue Feb 15 2011,Cardiff,1-1,1-0,Burnley
+Tue Feb 15 2011,Doncaster,0-6,0-3,Ipswich
+Tue Feb 15 2011,Sheffield United,1-1,0-0,Reading
+Tue Feb 15 2011,Watford,2-2,0-2,Preston
+Wed Feb 16 2011,Scunthorpe,1-0,1-0,Nott'm Forest
+Fri Feb 18 2011,Leicester,2-1,1-0,Bristol City
+Sat Feb 19 2011,Crystal Palace,1-0,0-0,Sheffield United
+Sat Feb 19 2011,Ipswich,1-1,0-0,Hull
+Sat Feb 19 2011,Leeds,2-2,1-1,Norwich
+Sat Feb 19 2011,Millwall,2-3,1-0,Middlesbrough
+Sat Feb 19 2011,Nott'm Forest,2-1,1-0,Cardiff
+Sat Feb 19 2011,Portsmouth,1-0,0-0,Barnsley
+Sat Feb 19 2011,Preston,1-1,0-1,QPR
+Sat Feb 19 2011,Reading,1-1,0-1,Watford
+Sat Feb 19 2011,Scunthorpe,0-0,0-0,Derby
+Sat Feb 19 2011,Swansea,3-0,2-0,Doncaster
+Tue Feb 22 2011,Cardiff,2-0,1-0,Leicester
+Tue Feb 22 2011,Coventry,0-1,0-0,Swansea
+Tue Feb 22 2011,Derby,0-1,0-0,Hull
+Tue Feb 22 2011,Leeds,3-3,2-1,Barnsley
+Tue Feb 22 2011,Norwich,1-1,1-0,Doncaster
+Tue Feb 22 2011,Nott'm Forest,2-2,0-1,Preston
+Tue Feb 22 2011,Portsmouth,1-0,0-0,Crystal Palace
+Tue Feb 22 2011,QPR,2-0,0-0,Ipswich
+Tue Feb 22 2011,Reading,2-1,1-0,Millwall
+Tue Feb 22 2011,Scunthorpe,3-2,2-2,Sheffield United
+Tue Feb 22 2011,Watford,1-3,1-1,Bristol City
+Sat Feb 26 2011,Barnsley,0-2,0-2,Norwich
+Sat Feb 26 2011,Bristol City,2-0,1-0,Scunthorpe
+Sat Feb 26 2011,Crystal Palace,3-3,2-1,Reading
+Sat Feb 26 2011,Doncaster,1-1,1-1,Watford
+Sat Feb 26 2011,Hull,0-2,0-0,Cardiff
+Sat Feb 26 2011,Ipswich,0-2,0-0,Portsmouth
+Sat Feb 26 2011,Leicester,1-1,1-1,Coventry
+Sat Feb 26 2011,Middlesbrough,0-3,0-1,QPR
+Sat Feb 26 2011,Millwall,0-0,0-0,Nott'm Forest
+Sat Feb 26 2011,Preston,1-2,1-1,Burnley
+Sat Feb 26 2011,Sheffield United,0-1,0-1,Derby
+Sat Feb 26 2011,Swansea,3-0,1-0,Leeds
+Tue Mar 1 2011,Derby,1-3,0-1,Doncaster
+Tue Mar 1 2011,Middlesbrough,1-1,0-0,Nott'm Forest
+Tue Mar 1 2011,Portsmouth,2-0,0-0,Scunthorpe
+Sat Mar 5 2011,Burnley,1-0,1-0,Crystal Palace
+Sat Mar 5 2011,Cardiff,0-2,0-0,Ipswich
+Sat Mar 5 2011,Coventry,1-4,0-3,Bristol City
+Sat Mar 5 2011,Derby,0-0,0-0,Barnsley
+Sat Mar 5 2011,Leeds,5-2,1-1,Doncaster
+Sat Mar 5 2011,Norwich,1-1,0-0,Preston
+Sat Mar 5 2011,Nott'm Forest,0-1,0-0,Hull
+Sat Mar 5 2011,Portsmouth,1-0,1-0,Sheffield United
+Sat Mar 5 2011,QPR,1-0,0-0,Leicester
+Sat Mar 5 2011,Reading,5-2,2-1,Middlesbrough
+Sat Mar 5 2011,Scunthorpe,1-0,0-0,Swansea
+Sat Mar 5 2011,Watford,1-0,0-0,Millwall
+Tue Mar 8 2011,Barnsley,2-1,0-0,Scunthorpe
+Tue Mar 8 2011,Bristol City,2-1,1-0,Portsmouth
+Tue Mar 8 2011,Crystal Palace,1-0,0-0,Cardiff
+Tue Mar 8 2011,Doncaster,1-1,0-1,Coventry
+Tue Mar 8 2011,Hull,0-1,0-1,Burnley
+Tue Mar 8 2011,Ipswich,1-3,0-1,Reading
+Tue Mar 8 2011,Leicester,2-3,1-1,Norwich
+Tue Mar 8 2011,Middlesbrough,2-1,0-1,Derby
+Tue Mar 8 2011,Millwall,2-0,0-0,QPR
+Tue Mar 8 2011,Preston,1-2,0-1,Leeds
+Tue Mar 8 2011,Sheffield United,2-1,0-1,Nott'm Forest
+Tue Mar 8 2011,Swansea,1-1,1-0,Watford
+Sat Mar 12 2011,Burnley,0-3,0-0,Millwall
+Sat Mar 12 2011,Coventry,0-1,0-1,Hull
+Sat Mar 12 2011,Derby,2-1,1-0,Swansea
+Sat Mar 12 2011,Leeds,0-0,0-0,Ipswich
+Sat Mar 12 2011,Nott'm Forest,0-0,0-0,Doncaster
+Sat Mar 12 2011,Portsmouth,0-0,0-0,Middlesbrough
+Sat Mar 12 2011,QPR,2-1,1-1,Crystal Palace
+Sat Mar 12 2011,Scunthorpe,0-3,0-1,Leicester
+Sat Mar 12 2011,Watford,3-0,1-0,Sheffield United
+Sun Mar 13 2011,Cardiff,2-2,1-1,Barnsley
+Mon Mar 14 2011,Norwich,3-1,1-0,Bristol City
+Tue Mar 15 2011,Burnley,2-2,1-0,Coventry
+Tue Mar 15 2011,Ipswich,0-3,0-1,Watford
+Tue Mar 15 2011,Scunthorpe,0-3,0-3,Preston
+Sat Mar 19 2011,Barnsley,0-1,0-0,Reading
+Sat Mar 19 2011,Bristol City,2-0,1-0,Burnley
+Sat Mar 19 2011,Crystal Palace,2-2,1-1,Derby
+Sat Mar 19 2011,Doncaster,0-1,0-0,QPR
+Sat Mar 19 2011,Hull,1-1,0-1,Norwich
+Sat Mar 19 2011,Ipswich,2-0,1-0,Scunthorpe
+Sat Mar 19 2011,Leicester,0-1,0-1,Portsmouth
+Sat Mar 19 2011,Middlesbrough,2-1,2-1,Watford
+Sat Mar 19 2011,Millwall,3-3,0-0,Cardiff
+Sat Mar 19 2011,Preston,2-1,1-0,Coventry
+Sat Mar 19 2011,Sheffield United,2-0,0-0,Leeds
+Sat Mar 19 2011,Swansea,3-2,2-1,Nott'm Forest
+Sat Apr 2 2011,Bristol City,1-0,0-0,Doncaster
+Sat Apr 2 2011,Burnley,1-2,0-2,Ipswich
+Sat Apr 2 2011,Cardiff,4-1,1-0,Derby
+Sat Apr 2 2011,Coventry,2-0,1-0,Watford
+Sat Apr 2 2011,Crystal Palace,2-1,1-1,Barnsley
+Sat Apr 2 2011,Hull,0-1,0-1,Millwall
+Sat Apr 2 2011,Leeds,4-1,0-0,Nott'm Forest
+Sat Apr 2 2011,Middlesbrough,3-3,1-2,Leicester
+Sat Apr 2 2011,Norwich,6-0,2-0,Scunthorpe
+Sat Apr 2 2011,Preston,2-1,1-1,Swansea
+Sat Apr 2 2011,Reading,2-0,2-0,Portsmouth
+Mon Apr 4 2011,QPR,3-0,1-0,Sheffield United
+Tue Apr 5 2011,Reading,2-1,1-0,Preston
+Sat Apr 9 2011,Barnsley,4-2,3-1,Bristol City
+Sat Apr 9 2011,Derby,2-2,2-2,Coventry
+Sat Apr 9 2011,Doncaster,1-3,0-1,Cardiff
+Sat Apr 9 2011,Ipswich,2-1,1-0,Crystal Palace
+Sat Apr 9 2011,Leicester,4-0,1-0,Burnley
+Sat Apr 9 2011,Millwall,3-2,2-0,Leeds
+Sat Apr 9 2011,Nott'm Forest,3-4,1-1,Reading
+Sat Apr 9 2011,Portsmouth,1-1,0-1,Preston
+Sat Apr 9 2011,Scunthorpe,4-1,1-1,QPR
+Sat Apr 9 2011,Sheffield United,1-2,1-1,Middlesbrough
+Sat Apr 9 2011,Swansea,3-0,2-0,Norwich
+Sat Apr 9 2011,Watford,1-2,0-1,Hull
+Tue Apr 12 2011,Barnsley,0-1,0-1,QPR
+Tue Apr 12 2011,Derby,2-1,0-0,Leeds
+Tue Apr 12 2011,Doncaster,1-1,0-0,Preston
+Tue Apr 12 2011,Ipswich,3-3,1-2,Middlesbrough
+Tue Apr 12 2011,Leicester,1-1,0-1,Crystal Palace
+Tue Apr 12 2011,Millwall,0-0,0-0,Bristol City
+Tue Apr 12 2011,Nott'm Forest,2-0,0-0,Burnley
+Tue Apr 12 2011,Portsmouth,0-3,0-1,Coventry
+Tue Apr 12 2011,Scunthorpe,0-2,0-0,Reading
+Tue Apr 12 2011,Sheffield United,0-2,0-1,Cardiff
+Tue Apr 12 2011,Swansea,1-1,0-0,Hull
+Tue Apr 12 2011,Watford,2-2,2-1,Norwich
+Fri Apr 15 2011,Norwich,2-1,2-1,Nott'm Forest
+Sat Apr 16 2011,Bristol City,0-1,0-0,Ipswich
+Sat Apr 16 2011,Burnley,2-1,0-0,Swansea
+Sat Apr 16 2011,Cardiff,3-0,2-0,Portsmouth
+Sat Apr 16 2011,Coventry,2-1,1-1,Millwall
+Sat Apr 16 2011,Crystal Palace,1-2,0-1,Scunthorpe
+Sat Apr 16 2011,Hull,3-1,2-1,Doncaster
+Sat Apr 16 2011,Leeds,2-2,0-0,Watford
+Sat Apr 16 2011,Middlesbrough,1-1,0-1,Barnsley
+Sat Apr 16 2011,Preston,3-1,0-0,Sheffield United
+Sat Apr 16 2011,Reading,3-1,2-0,Leicester
+Mon Apr 18 2011,QPR,0-0,0-0,Derby
+Tue Apr 19 2011,Burnley,3-1,3-0,Middlesbrough
+Thu Apr 21 2011,Ipswich,1-5,0-2,Norwich
+Fri Apr 22 2011,Coventry,1-1,1-1,Scunthorpe
+Fri Apr 22 2011,Doncaster,0-0,0-0,Crystal Palace
+Fri Apr 22 2011,Leeds,0-0,0-0,Reading
+Fri Apr 22 2011,Nott'm Forest,3-2,1-1,Leicester
+Sat Apr 23 2011,Cardiff,2-2,2-1,QPR
+Sat Apr 23 2011,Derby,2-4,2-1,Burnley
+Sat Apr 23 2011,Hull,2-4,1-4,Middlesbrough
+Sat Apr 23 2011,Millwall,4-0,2-0,Preston
+Sat Apr 23 2011,Portsmouth,0-0,0-0,Swansea
+Sat Apr 23 2011,Sheffield United,3-2,2-1,Bristol City
+Sat Apr 23 2011,Watford,1-0,1-0,Barnsley
+Mon Apr 25 2011,Barnsley,2-2,0-0,Doncaster
+Mon Apr 25 2011,Bristol City,2-3,0-2,Nott'm Forest
+Mon Apr 25 2011,Burnley,1-1,0-0,Portsmouth
+Mon Apr 25 2011,Crystal Palace,1-0,1-0,Leeds
+Mon Apr 25 2011,Leicester,4-2,1-2,Watford
+Mon Apr 25 2011,Middlesbrough,2-1,1-1,Coventry
+Mon Apr 25 2011,Norwich,3-2,1-0,Derby
+Mon Apr 25 2011,Preston,0-1,0-1,Cardiff
+Mon Apr 25 2011,QPR,1-1,1-0,Hull
+Mon Apr 25 2011,Reading,2-3,2-2,Sheffield United
+Mon Apr 25 2011,Scunthorpe,1-2,0-1,Millwall
+Mon Apr 25 2011,Swansea,4-1,3-1,Ipswich
+Sat Apr 30 2011,Coventry,0-0,0-0,Reading
+Sat Apr 30 2011,Derby,0-2,0-1,Bristol City
+Sat Apr 30 2011,Doncaster,1-1,0-0,Leicester
+Sat Apr 30 2011,Hull,1-1,1-0,Crystal Palace
+Sat Apr 30 2011,Ipswich,2-1,2-0,Preston
+Sat Apr 30 2011,Leeds,1-0,1-0,Burnley
+Sat Apr 30 2011,Millwall,0-2,0-1,Swansea
+Sat Apr 30 2011,Nott'm Forest,5-1,2-1,Scunthorpe
+Sat Apr 30 2011,Sheffield United,2-2,1-1,Barnsley
+Sat Apr 30 2011,Watford,0-2,0-0,QPR
+Mon May 2 2011,Cardiff,0-3,0-3,Middlesbrough
+Mon May 2 2011,Portsmouth,0-1,0-0,Norwich
+Sat May 7 2011,Barnsley,1-0,0-0,Millwall
+Sat May 7 2011,Bristol City,3-0,2-0,Hull
+Sat May 7 2011,Burnley,1-1,1-0,Cardiff
+Sat May 7 2011,Crystal Palace,0-3,0-1,Nott'm Forest
+Sat May 7 2011,Leicester,4-2,3-0,Ipswich
+Sat May 7 2011,Middlesbrough,3-0,1-0,Doncaster
+Sat May 7 2011,Norwich,2-2,0-0,Coventry
+Sat May 7 2011,Preston,3-1,1-1,Watford
+Sat May 7 2011,QPR,1-2,1-1,Leeds
+Sat May 7 2011,Reading,2-1,1-1,Derby
+Sat May 7 2011,Scunthorpe,1-1,1-0,Portsmouth
+Sat May 7 2011,Swansea,4-0,1-0,Sheffield United

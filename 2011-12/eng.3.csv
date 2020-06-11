@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 6 2011,Brentford,2-0,1-0,Yeovil
+Sat Aug 6 2011,Carlisle,0-3,0-3,Notts County
+Sat Aug 6 2011,Charlton,3-0,1-0,Bournemouth
+Sat Aug 6 2011,Huddersfield,1-1,0-0,Bury
+Sat Aug 6 2011,Milton Keynes Dons,2-2,0-1,Hartlepool
+Sat Aug 6 2011,Oldham,0-2,0-0,Sheffield United
+Sat Aug 6 2011,Preston,2-4,0-1,Colchester
+Sat Aug 6 2011,Sheffield Weds,2-0,1-0,Rochdale
+Sat Aug 6 2011,Stevenage,0-0,0-0,Exeter
+Sat Aug 6 2011,Tranmere,1-0,0-0,Chesterfield
+Sat Aug 6 2011,Walsall,1-0,1-0,Leyton Orient
+Sat Aug 6 2011,Wycombe,1-1,1-1,Scunthorpe
+Sat Aug 13 2011,Bournemouth,2-0,1-0,Sheffield Weds
+Sat Aug 13 2011,Bury,0-2,0-0,Carlisle
+Sat Aug 13 2011,Chesterfield,1-1,0-1,Stevenage
+Sat Aug 13 2011,Colchester,1-1,1-0,Wycombe
+Sat Aug 13 2011,Exeter,0-2,0-1,Milton Keynes Dons
+Sat Aug 13 2011,Hartlepool,1-1,1-1,Walsall
+Sat Aug 13 2011,Leyton Orient,0-1,0-0,Tranmere
+Sat Aug 13 2011,Notts County,1-2,0-2,Charlton
+Sat Aug 13 2011,Rochdale,2-2,1-1,Huddersfield
+Sat Aug 13 2011,Scunthorpe,1-1,0-1,Preston
+Sat Aug 13 2011,Sheffield United,2-0,0-0,Brentford
+Sat Aug 13 2011,Yeovil,3-1,0-0,Oldham
+Tue Aug 16 2011,Bournemouth,1-3,0-1,Stevenage
+Tue Aug 16 2011,Bury,2-1,2-0,Sheffield Weds
+Tue Aug 16 2011,Chesterfield,0-2,0-1,Preston
+Tue Aug 16 2011,Colchester,0-2,0-2,Charlton
+Tue Aug 16 2011,Exeter,1-2,0-2,Brentford
+Tue Aug 16 2011,Hartlepool,0-0,0-0,Huddersfield
+Tue Aug 16 2011,Leyton Orient,1-3,1-2,Wycombe
+Tue Aug 16 2011,Notts County,3-2,0-1,Tranmere
+Tue Aug 16 2011,Rochdale,0-0,0-0,Carlisle
+Tue Aug 16 2011,Scunthorpe,1-2,0-1,Oldham
+Tue Aug 16 2011,Sheffield United,3-2,0-0,Walsall
+Tue Aug 16 2011,Yeovil,0-1,0-1,Milton Keynes Dons
+Sat Aug 20 2011,Brentford,5-0,1-0,Leyton Orient
+Sat Aug 20 2011,Carlisle,2-1,0-0,Bournemouth
+Sat Aug 20 2011,Charlton,2-2,1-0,Scunthorpe
+Sat Aug 20 2011,Huddersfield,3-2,1-2,Colchester
+Sat Aug 20 2011,Milton Keynes Dons,6-2,1-1,Chesterfield
+Sat Aug 20 2011,Oldham,2-0,2-0,Rochdale
+Sat Aug 20 2011,Preston,1-0,1-0,Exeter
+Sat Aug 20 2011,Sheffield Weds,2-1,0-1,Notts County
+Sat Aug 20 2011,Stevenage,2-2,0-2,Hartlepool
+Sat Aug 20 2011,Tranmere,1-1,0-1,Sheffield United
+Sat Aug 20 2011,Walsall,1-1,1-1,Yeovil
+Sat Aug 20 2011,Wycombe,0-2,0-1,Bury
+Sat Aug 27 2011,Bournemouth,0-2,0-1,Walsall
+Sat Aug 27 2011,Brentford,0-2,0-1,Tranmere
+Sat Aug 27 2011,Bury,1-2,1-0,Charlton
+Sat Aug 27 2011,Colchester,4-1,2-1,Oldham
+Sat Aug 27 2011,Exeter,2-1,1-1,Chesterfield
+Sat Aug 27 2011,Huddersfield,3-0,0-0,Wycombe
+Sat Aug 27 2011,Leyton Orient,1-2,0-0,Carlisle
+Sat Aug 27 2011,Milton Keynes Dons,1-0,0-0,Stevenage
+Sat Aug 27 2011,Preston,2-0,0-0,Notts County
+Sat Aug 27 2011,Rochdale,1-3,1-1,Hartlepool
+Sat Aug 27 2011,Sheffield Weds,3-2,2-0,Scunthorpe
+Sat Aug 27 2011,Yeovil,0-1,0-1,Sheffield United
+Sat Sep 3 2011,Carlisle,1-3,0-1,Milton Keynes Dons
+Sat Sep 3 2011,Chesterfield,0-0,0-0,Leyton Orient
+Sat Sep 3 2011,Hartlepool,2-0,1-0,Exeter
+Sat Sep 3 2011,Notts County,3-1,1-0,Bournemouth
+Sat Sep 3 2011,Oldham,1-1,1-1,Huddersfield
+Sat Sep 3 2011,Scunthorpe,1-1,1-0,Colchester
+Sat Sep 3 2011,Sheffield United,4-0,1-0,Bury
+Sat Sep 3 2011,Stevenage,4-2,3-1,Rochdale
+Sat Sep 3 2011,Tranmere,0-0,0-0,Yeovil
+Sat Sep 3 2011,Walsall,0-1,0-1,Brentford
+Mon Sep 5 2011,Charlton,1-1,1-0,Sheffield Weds
+Fri Sep 9 2011,Preston,4-3,1-1,Yeovil
+Sat Sep 10 2011,Bournemouth,0-3,0-1,Chesterfield
+Sat Sep 10 2011,Bury,2-4,1-3,Rochdale
+Sat Sep 10 2011,Carlisle,1-2,0-2,Hartlepool
+Sat Sep 10 2011,Charlton,2-0,1-0,Exeter
+Sat Sep 10 2011,Colchester,1-1,1-0,Leyton Orient
+Sat Sep 10 2011,Huddersfield,2-0,1-0,Tranmere
+Sat Sep 10 2011,Notts County,2-1,1-0,Walsall
+Sat Sep 10 2011,Oldham,1-1,1-1,Stevenage
+Sat Sep 10 2011,Scunthorpe,1-1,1-0,Sheffield United
+Sat Sep 10 2011,Sheffield Weds,3-1,0-0,Milton Keynes Dons
+Sat Sep 10 2011,Wycombe,0-1,0-1,Brentford
+Tue Sep 13 2011,Brentford,1-1,0-0,Colchester
+Tue Sep 13 2011,Chesterfield,1-0,0-0,Bury
+Tue Sep 13 2011,Exeter,1-1,1-1,Notts County
+Tue Sep 13 2011,Leyton Orient,1-3,1-1,Bournemouth
+Tue Sep 13 2011,Rochdale,1-0,0-0,Scunthorpe
+Tue Sep 13 2011,Sheffield United,0-3,0-3,Huddersfield
+Tue Sep 13 2011,Stevenage,5-1,4-0,Sheffield Weds
+Tue Sep 13 2011,Tranmere,1-2,0-2,Carlisle
+Tue Sep 13 2011,Walsall,0-1,0-1,Oldham
+Tue Sep 13 2011,Yeovil,1-0,1-0,Wycombe
+Sat Sep 17 2011,Brentford,1-3,1-2,Preston
+Sat Sep 17 2011,Chesterfield,4-1,2-1,Carlisle
+Sat Sep 17 2011,Exeter,0-2,0-1,Bournemouth
+Sat Sep 17 2011,Hartlepool,3-0,1-0,Bury
+Sat Sep 17 2011,Leyton Orient,1-3,1-0,Oldham
+Sat Sep 17 2011,Milton Keynes Dons,1-1,0-1,Huddersfield
+Sat Sep 17 2011,Rochdale,2-3,0-2,Charlton
+Sat Sep 17 2011,Sheffield United,3-0,2-0,Colchester
+Sat Sep 17 2011,Stevenage,0-2,0-1,Notts County
+Sat Sep 17 2011,Tranmere,2-0,1-0,Wycombe
+Sat Sep 17 2011,Walsall,2-2,1-0,Scunthorpe
+Sat Sep 17 2011,Yeovil,2-3,2-1,Sheffield Weds
+Sat Sep 24 2011,Bournemouth,1-2,1-1,Hartlepool
+Sat Sep 24 2011,Bury,0-0,0-0,Milton Keynes Dons
+Sat Sep 24 2011,Carlisle,1-0,1-0,Stevenage
+Sat Sep 24 2011,Charlton,3-1,2-0,Chesterfield
+Sat Sep 24 2011,Colchester,1-0,1-0,Walsall
+Sat Sep 24 2011,Huddersfield,2-2,1-0,Leyton Orient
+Sat Sep 24 2011,Notts County,2-0,1-0,Rochdale
+Sat Sep 24 2011,Oldham,0-2,0-1,Brentford
+Sat Sep 24 2011,Preston,2-1,1-0,Tranmere
+Sat Sep 24 2011,Scunthorpe,2-1,1-1,Yeovil
+Sat Sep 24 2011,Sheffield Weds,3-0,2-0,Exeter
+Sat Sep 24 2011,Wycombe,1-0,1-0,Sheffield United
+Tue Sep 27 2011,Milton Keynes Dons,1-1,1-0,Charlton
+Tue Sep 27 2011,Wycombe,3-4,3-2,Preston
+Sat Oct 1 2011,Brentford,0-4,0-1,Huddersfield
+Sat Oct 1 2011,Chesterfield,0-1,0-1,Colchester
+Sat Oct 1 2011,Exeter,2-0,1-0,Oldham
+Sat Oct 1 2011,Hartlepool,0-1,0-1,Sheffield Weds
+Sat Oct 1 2011,Leyton Orient,2-1,2-1,Preston
+Sat Oct 1 2011,Milton Keynes Dons,3-0,1-0,Notts County
+Sat Oct 1 2011,Rochdale,2-1,1-1,Wycombe
+Sat Oct 1 2011,Sheffield United,0-2,0-0,Charlton
+Sat Oct 1 2011,Stevenage,1-2,0-1,Scunthorpe
+Sat Oct 1 2011,Tranmere,0-0,0-0,Bournemouth
+Sat Oct 1 2011,Walsall,1-1,1-0,Carlisle
+Sat Oct 1 2011,Yeovil,1-3,1-1,Bury
+Sat Oct 8 2011,Bournemouth,1-1,0-1,Rochdale
+Sat Oct 8 2011,Bury,2-0,1-0,Exeter
+Sat Oct 8 2011,Carlisle,2-2,1-1,Brentford
+Sat Oct 8 2011,Charlton,1-1,0-1,Tranmere
+Sat Oct 8 2011,Colchester,2-2,1-1,Yeovil
+Sat Oct 8 2011,Huddersfield,2-1,1-0,Stevenage
+Sat Oct 8 2011,Scunthorpe,2-3,1-0,Leyton Orient
+Sat Oct 8 2011,Sheffield Weds,3-1,1-0,Chesterfield
+Sat Oct 8 2011,Wycombe,1-1,0-0,Walsall
+Sun Oct 9 2011,Notts County,3-0,1-0,Hartlepool
+Mon Oct 10 2011,Oldham,2-1,1-0,Milton Keynes Dons
+Sat Oct 15 2011,Brentford,0-0,0-0,Scunthorpe
+Sat Oct 15 2011,Chesterfield,1-3,0-2,Notts County
+Sat Oct 15 2011,Exeter,0-4,0-2,Huddersfield
+Sat Oct 15 2011,Hartlepool,1-3,0-2,Wycombe
+Sat Oct 15 2011,Leyton Orient,1-0,1-0,Bury
+Sat Oct 15 2011,Milton Keynes Dons,2-2,1-0,Bournemouth
+Sat Oct 15 2011,Rochdale,2-2,1-2,Colchester
+Sat Oct 15 2011,Stevenage,1-0,1-0,Charlton
+Sat Oct 15 2011,Tranmere,1-0,1-0,Oldham
+Sat Oct 15 2011,Walsall,1-0,1-0,Preston
+Sat Oct 15 2011,Yeovil,0-3,0-0,Carlisle
+Sun Oct 16 2011,Sheffield United,2-2,2-0,Sheffield Weds
+Wed Oct 19 2011,Preston,2-4,1-2,Sheffield United
+Sat Oct 22 2011,Bournemouth,1-2,1-1,Bury
+Sat Oct 22 2011,Charlton,4-0,3-0,Carlisle
+Sat Oct 22 2011,Chesterfield,2-3,1-2,Hartlepool
+Sat Oct 22 2011,Exeter,3-1,1-1,Rochdale
+Sat Oct 22 2011,Huddersfield,3-1,2-0,Preston
+Sat Oct 22 2011,Leyton Orient,1-1,0-0,Sheffield United
+Sat Oct 22 2011,Milton Keynes Dons,0-0,0-0,Scunthorpe
+Sat Oct 22 2011,Notts County,1-1,1-0,Brentford
+Sat Oct 22 2011,Oldham,2-0,0-0,Wycombe
+Sat Oct 22 2011,Sheffield Weds,2-0,0-0,Colchester
+Sat Oct 22 2011,Stevenage,0-0,0-0,Yeovil
+Sat Oct 22 2011,Tranmere,2-1,0-0,Walsall
+Tue Oct 25 2011,Brentford,0-1,0-0,Stevenage
+Tue Oct 25 2011,Bury,2-2,1-1,Notts County
+Tue Oct 25 2011,Carlisle,3-2,0-1,Sheffield Weds
+Tue Oct 25 2011,Colchester,1-1,0-1,Bournemouth
+Tue Oct 25 2011,Hartlepool,0-2,0-0,Tranmere
+Tue Oct 25 2011,Preston,3-3,2-2,Oldham
+Tue Oct 25 2011,Rochdale,1-1,0-1,Chesterfield
+Tue Oct 25 2011,Scunthorpe,2-2,1-1,Huddersfield
+Tue Oct 25 2011,Sheffield United,2-1,1-0,Milton Keynes Dons
+Tue Oct 25 2011,Walsall,1-2,1-1,Exeter
+Tue Oct 25 2011,Wycombe,1-2,0-2,Charlton
+Tue Oct 25 2011,Yeovil,2-2,2-1,Leyton Orient
+Sat Oct 29 2011,Brentford,2-1,1-1,Chesterfield
+Sat Oct 29 2011,Bury,1-2,0-1,Stevenage
+Sat Oct 29 2011,Carlisle,3-3,1-3,Oldham
+Sat Oct 29 2011,Colchester,4-2,0-0,Notts County
+Sat Oct 29 2011,Hartlepool,0-4,0-2,Charlton
+Sat Oct 29 2011,Preston,1-3,1-0,Bournemouth
+Sat Oct 29 2011,Rochdale,0-2,0-1,Leyton Orient
+Sat Oct 29 2011,Scunthorpe,4-2,2-2,Tranmere
+Sat Oct 29 2011,Sheffield United,4-4,1-2,Exeter
+Sat Oct 29 2011,Walsall,0-2,0-2,Milton Keynes Dons
+Sat Oct 29 2011,Wycombe,1-2,1-2,Sheffield Weds
+Sat Oct 29 2011,Yeovil,0-1,0-0,Huddersfield
+Sat Nov 5 2011,Bournemouth,2-0,1-0,Scunthorpe
+Sat Nov 5 2011,Charlton,5-2,4-0,Preston
+Sat Nov 5 2011,Chesterfield,2-2,1-1,Yeovil
+Sat Nov 5 2011,Exeter,0-0,0-0,Carlisle
+Sat Nov 5 2011,Huddersfield,1-1,0-0,Walsall
+Sat Nov 5 2011,Leyton Orient,1-1,1-0,Hartlepool
+Sat Nov 5 2011,Milton Keynes Dons,3-1,3-1,Rochdale
+Sat Nov 5 2011,Notts County,1-1,1-0,Wycombe
+Sat Nov 5 2011,Oldham,0-2,0-2,Bury
+Sat Nov 5 2011,Sheffield Weds,0-0,0-0,Brentford
+Sat Nov 5 2011,Stevenage,2-1,1-0,Sheffield United
+Sat Nov 5 2011,Tranmere,0-0,0-0,Colchester
+Sat Nov 19 2011,Brentford,0-1,0-0,Charlton
+Sat Nov 19 2011,Colchester,1-5,1-2,Milton Keynes Dons
+Sat Nov 19 2011,Huddersfield,2-1,0-0,Notts County
+Sat Nov 19 2011,Leyton Orient,0-0,0-0,Stevenage
+Sat Nov 19 2011,Oldham,5-2,4-1,Chesterfield
+Sat Nov 19 2011,Preston,0-1,0-0,Rochdale
+Sat Nov 19 2011,Scunthorpe,0-2,0-1,Hartlepool
+Sat Nov 19 2011,Sheffield United,1-0,1-0,Carlisle
+Sat Nov 19 2011,Tranmere,1-2,1-1,Sheffield Weds
+Sat Nov 19 2011,Walsall,2-4,1-1,Bury
+Sat Nov 19 2011,Wycombe,0-1,0-1,Bournemouth
+Sat Nov 19 2011,Yeovil,2-2,1-2,Exeter
+Sat Nov 26 2011,Bournemouth,0-0,0-0,Oldham
+Sat Nov 26 2011,Bury,1-0,1-0,Preston
+Sat Nov 26 2011,Carlisle,1-0,1-0,Colchester
+Sat Nov 26 2011,Chesterfield,0-1,0-0,Sheffield United
+Sat Nov 26 2011,Exeter,3-0,1-0,Tranmere
+Sat Nov 26 2011,Hartlepool,0-1,0-1,Yeovil
+Sat Nov 26 2011,Milton Keynes Dons,4-3,1-0,Wycombe
+Sat Nov 26 2011,Notts County,3-2,1-1,Scunthorpe
+Sat Nov 26 2011,Rochdale,1-2,0-1,Brentford
+Sat Nov 26 2011,Sheffield Weds,1-0,1-0,Leyton Orient
+Sat Nov 26 2011,Stevenage,0-0,0-0,Walsall
+Mon Nov 28 2011,Charlton,2-0,2-0,Huddersfield
+Tue Nov 29 2011,Hartlepool,0-1,0-1,Preston
+Sat Dec 10 2011,Brentford,2-1,0-0,Hartlepool
+Sat Dec 10 2011,Colchester,4-1,3-0,Bury
+Sat Dec 10 2011,Huddersfield,0-1,0-1,Bournemouth
+Sat Dec 10 2011,Leyton Orient,3-0,0-0,Exeter
+Sat Dec 10 2011,Oldham,0-2,0-0,Sheffield Weds
+Sat Dec 10 2011,Preston,0-0,0-0,Stevenage
+Sat Dec 10 2011,Scunthorpe,1-2,1-0,Carlisle
+Sat Dec 10 2011,Sheffield United,3-0,1-0,Rochdale
+Sat Dec 10 2011,Tranmere,0-2,0-1,Milton Keynes Dons
+Sat Dec 10 2011,Walsall,1-1,1-1,Charlton
+Sat Dec 10 2011,Wycombe,3-2,1-1,Chesterfield
+Sat Dec 10 2011,Yeovil,1-0,0-0,Notts County
+Sat Dec 17 2011,Bournemouth,0-2,0-1,Sheffield United
+Sat Dec 17 2011,Bury,1-1,0-0,Brentford
+Sat Dec 17 2011,Carlisle,2-2,1-2,Wycombe
+Sat Dec 17 2011,Charlton,1-1,0-0,Oldham
+Sat Dec 17 2011,Chesterfield,1-1,0-1,Walsall
+Sat Dec 17 2011,Exeter,0-0,0-0,Scunthorpe
+Sat Dec 17 2011,Hartlepool,0-1,0-1,Colchester
+Sat Dec 17 2011,Milton Keynes Dons,0-1,0-1,Preston
+Sat Dec 17 2011,Notts County,1-2,0-1,Leyton Orient
+Sat Dec 17 2011,Rochdale,0-0,0-0,Yeovil
+Sat Dec 17 2011,Sheffield Weds,4-4,2-2,Huddersfield
+Sat Dec 17 2011,Stevenage,2-1,1-0,Tranmere
+Mon Dec 26 2011,Brentford,1-1,0-1,Bournemouth
+Mon Dec 26 2011,Colchester,1-6,0-2,Stevenage
+Mon Dec 26 2011,Huddersfield,1-0,1-0,Chesterfield
+Mon Dec 26 2011,Leyton Orient,0-3,0-1,Milton Keynes Dons
+Mon Dec 26 2011,Oldham,0-1,0-1,Hartlepool
+Mon Dec 26 2011,Preston,3-3,2-2,Carlisle
+Mon Dec 26 2011,Scunthorpe,1-3,1-0,Bury
+Mon Dec 26 2011,Walsall,2-1,0-0,Sheffield Weds
+Mon Dec 26 2011,Wycombe,3-1,2-1,Exeter
+Mon Dec 26 2011,Yeovil,2-3,1-1,Charlton
+Tue Dec 27 2011,Sheffield United,2-1,1-1,Notts County
+Fri Dec 30 2011,Huddersfield,1-1,1-1,Carlisle
+Fri Dec 30 2011,Tranmere,2-0,1-0,Bury
+Sat Dec 31 2011,Brentford,3-3,0-3,Milton Keynes Dons
+Sat Dec 31 2011,Colchester,2-0,1-0,Exeter
+Sat Dec 31 2011,Leyton Orient,1-0,1-0,Charlton
+Sat Dec 31 2011,Oldham,3-2,1-2,Notts County
+Sat Dec 31 2011,Preston,0-2,0-2,Sheffield Weds
+Sat Dec 31 2011,Scunthorpe,2-2,1-0,Chesterfield
+Sat Dec 31 2011,Sheffield United,3-1,3-0,Hartlepool
+Sat Dec 31 2011,Walsall,0-0,0-0,Rochdale
+Sat Dec 31 2011,Wycombe,0-1,0-0,Stevenage
+Sat Dec 31 2011,Yeovil,1-3,0-2,Bournemouth
+Mon Jan 2 2012,Bournemouth,2-0,1-0,Wycombe
+Mon Jan 2 2012,Bury,2-1,2-1,Walsall
+Mon Jan 2 2012,Carlisle,3-2,2-2,Sheffield United
+Mon Jan 2 2012,Charlton,2-0,1-0,Brentford
+Mon Jan 2 2012,Chesterfield,1-1,1-1,Oldham
+Mon Jan 2 2012,Exeter,1-1,0-1,Yeovil
+Mon Jan 2 2012,Hartlepool,1-2,0-1,Scunthorpe
+Mon Jan 2 2012,Milton Keynes Dons,1-0,0-0,Colchester
+Mon Jan 2 2012,Notts County,2-2,0-0,Huddersfield
+Mon Jan 2 2012,Rochdale,1-1,1-1,Preston
+Mon Jan 2 2012,Sheffield Weds,2-1,2-0,Tranmere
+Mon Jan 2 2012,Stevenage,0-1,0-1,Leyton Orient
+Fri Jan 6 2012,Wycombe,0-6,0-3,Huddersfield
+Sat Jan 7 2012,Carlisle,4-1,3-0,Leyton Orient
+Sat Jan 7 2012,Chesterfield,0-2,0-0,Exeter
+Sat Jan 7 2012,Hartlepool,2-0,0-0,Rochdale
+Sat Jan 7 2012,Tranmere,2-2,1-2,Brentford
+Sat Jan 7 2012,Walsall,2-2,2-0,Bournemouth
+Tue Jan 10 2012,Sheffield United,4-0,2-0,Yeovil
+Sat Jan 14 2012,Bournemouth,2-1,1-1,Notts County
+Sat Jan 14 2012,Brentford,0-0,0-0,Walsall
+Sat Jan 14 2012,Bury,0-3,0-0,Sheffield United
+Sat Jan 14 2012,Colchester,1-1,1-1,Scunthorpe
+Sat Jan 14 2012,Exeter,0-0,0-0,Hartlepool
+Sat Jan 14 2012,Huddersfield,1-0,0-0,Oldham
+Sat Jan 14 2012,Leyton Orient,1-1,1-0,Chesterfield
+Sat Jan 14 2012,Preston,3-2,1-1,Wycombe
+Sat Jan 14 2012,Rochdale,1-5,0-1,Stevenage
+Sat Jan 14 2012,Sheffield Weds,0-1,0-1,Charlton
+Sat Jan 14 2012,Yeovil,2-1,1-1,Tranmere
+Tue Jan 17 2012,Tranmere,0-0,0-0,Rochdale
+Sat Jan 21 2012,Bournemouth,2-1,2-1,Tranmere
+Sat Jan 21 2012,Bury,3-2,3-1,Yeovil
+Sat Jan 21 2012,Carlisle,1-1,1-0,Walsall
+Sat Jan 21 2012,Charlton,1-0,1-0,Sheffield United
+Sat Jan 21 2012,Colchester,1-2,1-2,Chesterfield
+Sat Jan 21 2012,Huddersfield,3-2,2-2,Brentford
+Sat Jan 21 2012,Notts County,1-1,0-1,Milton Keynes Dons
+Sat Jan 21 2012,Oldham,0-0,0-0,Exeter
+Sat Jan 21 2012,Preston,0-2,0-0,Leyton Orient
+Sat Jan 21 2012,Scunthorpe,1-1,0-0,Stevenage
+Sat Jan 21 2012,Sheffield Weds,2-2,0-0,Hartlepool
+Sat Jan 21 2012,Wycombe,3-0,1-0,Rochdale
+Tue Jan 24 2012,Notts County,0-0,0-0,Preston
+Tue Jan 24 2012,Scunthorpe,1-3,0-2,Sheffield Weds
+Tue Jan 24 2012,Stevenage,4-2,1-1,Milton Keynes Dons
+Fri Jan 27 2012,Chesterfield,1-0,0-0,Bournemouth
+Sat Jan 28 2012,Brentford,5-2,3-0,Wycombe
+Sat Jan 28 2012,Exeter,0-1,0-0,Charlton
+Sat Jan 28 2012,Hartlepool,4-0,2-0,Carlisle
+Sat Jan 28 2012,Leyton Orient,0-1,0-1,Colchester
+Sat Jan 28 2012,Rochdale,3-0,2-0,Bury
+Sat Jan 28 2012,Tranmere,1-1,0-0,Huddersfield
+Sat Jan 28 2012,Yeovil,2-1,1-0,Preston
+Tue Jan 31 2012,Charlton,1-1,0-1,Bury
+Tue Jan 31 2012,Milton Keynes Dons,1-1,1-1,Sheffield Weds
+Tue Jan 31 2012,Walsall,0-1,0-1,Notts County
+Sat Feb 4 2012,Carlisle,2-1,0-1,Chesterfield
+Sat Feb 4 2012,Huddersfield,1-1,1-0,Milton Keynes Dons
+Sat Feb 4 2012,Sheffield Weds,2-1,0-1,Yeovil
+Sat Feb 4 2012,Wycombe,2-1,2-1,Tranmere
+Tue Feb 7 2012,Bournemouth,2-0,0-0,Exeter
+Sat Feb 11 2012,Exeter,2-1,0-0,Sheffield Weds
+Sat Feb 11 2012,Hartlepool,0-0,0-0,Bournemouth
+Sat Feb 11 2012,Sheffield United,3-0,0-0,Wycombe
+Tue Feb 14 2012,Bournemouth,1-2,1-1,Leyton Orient
+Tue Feb 14 2012,Bury,1-1,0-1,Chesterfield
+Tue Feb 14 2012,Carlisle,0-0,0-0,Tranmere
+Tue Feb 14 2012,Charlton,2-1,2-0,Milton Keynes Dons
+Tue Feb 14 2012,Colchester,2-1,0-0,Brentford
+Tue Feb 14 2012,Huddersfield,0-1,0-1,Sheffield United
+Tue Feb 14 2012,Notts County,2-1,2-1,Exeter
+Tue Feb 14 2012,Oldham,2-1,2-0,Walsall
+Tue Feb 14 2012,Preston,1-0,0-0,Hartlepool
+Tue Feb 14 2012,Scunthorpe,1-0,0-0,Rochdale
+Tue Feb 14 2012,Sheffield Weds,0-1,0-1,Stevenage
+Tue Feb 14 2012,Wycombe,2-3,1-0,Yeovil
+Sat Feb 18 2012,Chesterfield,1-0,0-0,Sheffield Weds
+Sat Feb 18 2012,Exeter,3-2,3-1,Bury
+Sat Feb 18 2012,Hartlepool,3-0,1-0,Notts County
+Sat Feb 18 2012,Leyton Orient,1-3,1-0,Scunthorpe
+Sat Feb 18 2012,Milton Keynes Dons,5-0,1-0,Oldham
+Sat Feb 18 2012,Rochdale,1-0,0-0,Bournemouth
+Sat Feb 18 2012,Sheffield United,2-1,1-1,Preston
+Sat Feb 18 2012,Tranmere,1-1,1-0,Charlton
+Sat Feb 18 2012,Walsall,2-0,0-0,Wycombe
+Sat Feb 18 2012,Yeovil,3-2,0-1,Colchester
+Mon Feb 20 2012,Brentford,4-0,3-0,Carlisle
+Tue Feb 21 2012,Charlton,1-1,0-0,Rochdale
+Tue Feb 21 2012,Milton Keynes Dons,2-1,2-1,Bury
+Tue Feb 21 2012,Scunthorpe,0-1,0-1,Walsall
+Wed Feb 22 2012,Notts County,1-0,0-0,Stevenage
+Sat Feb 25 2012,Bournemouth,0-1,0-1,Milton Keynes Dons
+Sat Feb 25 2012,Bury,1-1,0-1,Leyton Orient
+Sat Feb 25 2012,Carlisle,3-2,1-0,Yeovil
+Sat Feb 25 2012,Charlton,2-0,0-0,Stevenage
+Sat Feb 25 2012,Colchester,0-0,0-0,Rochdale
+Sat Feb 25 2012,Huddersfield,2-0,1-0,Exeter
+Sat Feb 25 2012,Notts County,1-0,0-0,Chesterfield
+Sat Feb 25 2012,Oldham,1-0,0-0,Tranmere
+Sat Feb 25 2012,Preston,0-0,0-0,Walsall
+Sat Feb 25 2012,Scunthorpe,0-0,0-0,Brentford
+Sat Feb 25 2012,Wycombe,5-0,3-0,Hartlepool
+Sun Feb 26 2012,Sheffield Weds,1-0,0-0,Sheffield United
+Tue Feb 28 2012,Bury,1-2,0-1,Hartlepool
+Tue Feb 28 2012,Chesterfield,0-4,0-1,Charlton
+Tue Feb 28 2012,Oldham,1-1,1-0,Colchester
+Tue Feb 28 2012,Rochdale,0-1,0-1,Notts County
+Tue Feb 28 2012,Stevenage,2-2,0-0,Huddersfield
+Wed Feb 29 2012,Sheffield United,2-1,0-1,Scunthorpe
+Sat Mar 3 2012,Bournemouth,0-1,0-0,Charlton
+Sat Mar 3 2012,Bury,3-3,1-3,Huddersfield
+Sat Mar 3 2012,Chesterfield,1-0,0-0,Tranmere
+Sat Mar 3 2012,Colchester,3-0,1-0,Preston
+Sat Mar 3 2012,Exeter,1-1,1-0,Stevenage
+Sat Mar 3 2012,Hartlepool,1-1,1-0,Milton Keynes Dons
+Sat Mar 3 2012,Leyton Orient,1-1,1-0,Walsall
+Sat Mar 3 2012,Notts County,2-0,2-0,Carlisle
+Sat Mar 3 2012,Rochdale,0-0,0-0,Sheffield Weds
+Sat Mar 3 2012,Scunthorpe,4-1,2-0,Wycombe
+Sat Mar 3 2012,Sheffield United,2-3,2-0,Oldham
+Sat Mar 3 2012,Yeovil,2-1,0-1,Brentford
+Tue Mar 6 2012,Brentford,2-0,1-0,Exeter
+Tue Mar 6 2012,Carlisle,2-1,0-0,Rochdale
+Tue Mar 6 2012,Charlton,0-2,0-1,Colchester
+Tue Mar 6 2012,Huddersfield,1-0,0-0,Hartlepool
+Tue Mar 6 2012,Milton Keynes Dons,0-1,0-1,Yeovil
+Tue Mar 6 2012,Oldham,1-2,0-0,Scunthorpe
+Tue Mar 6 2012,Preston,0-0,0-0,Chesterfield
+Tue Mar 6 2012,Sheffield Weds,4-1,1-0,Bury
+Tue Mar 6 2012,Tranmere,1-1,0-1,Notts County
+Tue Mar 6 2012,Walsall,3-2,0-0,Sheffield United
+Tue Mar 6 2012,Wycombe,4-2,4-0,Leyton Orient
+Sat Mar 10 2012,Brentford,0-2,0-1,Sheffield United
+Sat Mar 10 2012,Carlisle,4-1,1-1,Bury
+Sat Mar 10 2012,Charlton,2-4,0-4,Notts County
+Sat Mar 10 2012,Huddersfield,2-2,1-1,Rochdale
+Sat Mar 10 2012,Milton Keynes Dons,3-0,2-0,Exeter
+Sat Mar 10 2012,Oldham,1-2,0-1,Yeovil
+Sat Mar 10 2012,Preston,0-0,0-0,Scunthorpe
+Sat Mar 10 2012,Sheffield Weds,3-0,3-0,Bournemouth
+Sat Mar 10 2012,Stevenage,2-2,0-2,Chesterfield
+Sat Mar 10 2012,Tranmere,2-0,2-0,Leyton Orient
+Sat Mar 10 2012,Walsall,0-0,0-0,Hartlepool
+Sat Mar 10 2012,Wycombe,0-0,0-0,Colchester
+Tue Mar 13 2012,Colchester,1-1,0-1,Sheffield United
+Tue Mar 13 2012,Stevenage,1-0,0-0,Oldham
+Tue Mar 13 2012,Tranmere,2-1,1-1,Preston
+Tue Mar 13 2012,Yeovil,2-2,1-0,Scunthorpe
+Sat Mar 17 2012,Bournemouth,1-1,0-1,Carlisle
+Sat Mar 17 2012,Bury,1-4,1-2,Wycombe
+Sat Mar 17 2012,Chesterfield,1-1,1-0,Milton Keynes Dons
+Sat Mar 17 2012,Colchester,1-1,1-0,Huddersfield
+Sat Mar 17 2012,Exeter,1-2,0-1,Preston
+Sat Mar 17 2012,Hartlepool,0-0,0-0,Stevenage
+Sat Mar 17 2012,Leyton Orient,2-0,2-0,Brentford
+Sat Mar 17 2012,Notts County,1-2,0-0,Sheffield Weds
+Sat Mar 17 2012,Rochdale,3-2,1-1,Oldham
+Sat Mar 17 2012,Scunthorpe,1-1,1-1,Charlton
+Sat Mar 17 2012,Sheffield United,1-1,1-0,Tranmere
+Sat Mar 17 2012,Yeovil,2-1,0-1,Walsall
+Tue Mar 20 2012,Bournemouth,1-0,1-0,Brentford
+Tue Mar 20 2012,Bury,0-0,0-0,Scunthorpe
+Tue Mar 20 2012,Carlisle,0-0,0-0,Preston
+Tue Mar 20 2012,Charlton,3-0,1-0,Yeovil
+Tue Mar 20 2012,Chesterfield,0-2,0-2,Huddersfield
+Tue Mar 20 2012,Exeter,1-3,0-0,Wycombe
+Tue Mar 20 2012,Hartlepool,0-1,0-1,Oldham
+Tue Mar 20 2012,Milton Keynes Dons,4-1,2-1,Leyton Orient
+Tue Mar 20 2012,Notts County,2-5,0-4,Sheffield United
+Tue Mar 20 2012,Rochdale,0-2,0-1,Tranmere
+Tue Mar 20 2012,Sheffield Weds,2-2,0-0,Walsall
+Tue Mar 20 2012,Stevenage,0-0,0-0,Colchester
+Sat Mar 24 2012,Brentford,2-0,1-0,Rochdale
+Sat Mar 24 2012,Colchester,1-1,0-0,Carlisle
+Sat Mar 24 2012,Huddersfield,1-0,1-0,Charlton
+Sat Mar 24 2012,Leyton Orient,0-1,0-0,Sheffield Weds
+Sat Mar 24 2012,Oldham,1-0,0-0,Bournemouth
+Sat Mar 24 2012,Preston,1-1,0-0,Bury
+Sat Mar 24 2012,Scunthorpe,0-0,0-0,Notts County
+Sat Mar 24 2012,Tranmere,2-0,0-0,Exeter
+Sat Mar 24 2012,Walsall,1-1,1-0,Stevenage
+Sat Mar 24 2012,Wycombe,1-1,0-0,Milton Keynes Dons
+Sat Mar 24 2012,Yeovil,0-1,0-0,Hartlepool
+Tue Mar 27 2012,Milton Keynes Dons,1-2,0-0,Carlisle
+Tue Mar 27 2012,Oldham,0-1,0-0,Leyton Orient
+Tue Mar 27 2012,Preston,1-3,1-2,Brentford
+Tue Mar 27 2012,Stevenage,2-2,2-2,Bournemouth
+Tue Mar 27 2012,Walsall,3-1,2-1,Colchester
+Wed Mar 28 2012,Sheffield United,4-1,1-1,Chesterfield
+Sat Mar 31 2012,Bournemouth,0-0,0-0,Yeovil
+Sat Mar 31 2012,Bury,2-0,0-0,Tranmere
+Sat Mar 31 2012,Carlisle,2-1,0-0,Huddersfield
+Sat Mar 31 2012,Charlton,2-0,1-0,Leyton Orient
+Sat Mar 31 2012,Chesterfield,1-4,1-1,Scunthorpe
+Sat Mar 31 2012,Exeter,1-1,0-1,Colchester
+Sat Mar 31 2012,Hartlepool,0-1,0-0,Sheffield United
+Sat Mar 31 2012,Milton Keynes Dons,1-2,0-2,Brentford
+Sat Mar 31 2012,Notts County,1-0,0-0,Oldham
+Sat Mar 31 2012,Rochdale,3-3,0-2,Walsall
+Sat Mar 31 2012,Sheffield Weds,2-0,0-0,Preston
+Sat Mar 31 2012,Stevenage,1-1,0-0,Wycombe
+Tue Apr 3 2012,Brentford,2-0,1-0,Oldham
+Tue Apr 3 2012,Leyton Orient,1-3,1-2,Huddersfield
+Fri Apr 6 2012,Colchester,1-1,0-1,Hartlepool
+Fri Apr 6 2012,Leyton Orient,0-3,0-0,Notts County
+Fri Apr 6 2012,Scunthorpe,1-0,0-0,Exeter
+Fri Apr 6 2012,Tranmere,3-0,2-0,Stevenage
+Fri Apr 6 2012,Wycombe,1-1,0-0,Carlisle
+Sat Apr 7 2012,Brentford,3-0,1-0,Bury
+Sat Apr 7 2012,Huddersfield,0-2,0-0,Sheffield Weds
+Sat Apr 7 2012,Oldham,0-1,0-0,Charlton
+Sat Apr 7 2012,Preston,1-1,0-1,Milton Keynes Dons
+Sat Apr 7 2012,Sheffield United,2-1,1-0,Bournemouth
+Sat Apr 7 2012,Walsall,3-2,2-1,Chesterfield
+Sat Apr 7 2012,Yeovil,3-1,2-0,Rochdale
+Mon Apr 9 2012,Bournemouth,2-0,0-0,Huddersfield
+Mon Apr 9 2012,Bury,4-1,2-0,Colchester
+Mon Apr 9 2012,Carlisle,0-0,0-0,Scunthorpe
+Mon Apr 9 2012,Charlton,1-0,1-0,Walsall
+Mon Apr 9 2012,Chesterfield,4-0,1-0,Wycombe
+Mon Apr 9 2012,Exeter,3-0,1-0,Leyton Orient
+Mon Apr 9 2012,Hartlepool,0-0,0-0,Brentford
+Mon Apr 9 2012,Milton Keynes Dons,3-0,2-0,Tranmere
+Mon Apr 9 2012,Notts County,3-1,1-0,Yeovil
+Mon Apr 9 2012,Sheffield Weds,3-0,1-0,Oldham
+Mon Apr 9 2012,Stevenage,1-1,0-0,Preston
+Tue Apr 10 2012,Rochdale,2-5,1-4,Sheffield United
+Sat Apr 14 2012,Brentford,0-0,0-0,Notts County
+Sat Apr 14 2012,Bury,1-0,1-0,Bournemouth
+Sat Apr 14 2012,Carlisle,0-1,0-0,Charlton
+Sat Apr 14 2012,Colchester,1-1,1-0,Sheffield Weds
+Sat Apr 14 2012,Hartlepool,1-2,1-0,Chesterfield
+Sat Apr 14 2012,Preston,1-0,0-0,Huddersfield
+Sat Apr 14 2012,Rochdale,3-2,0-1,Exeter
+Sat Apr 14 2012,Scunthorpe,0-3,0-1,Milton Keynes Dons
+Sat Apr 14 2012,Sheffield United,3-1,1-1,Leyton Orient
+Sat Apr 14 2012,Walsall,0-1,0-0,Tranmere
+Sat Apr 14 2012,Wycombe,2-2,1-1,Oldham
+Sat Apr 14 2012,Yeovil,0-6,0-2,Stevenage
+Tue Apr 17 2012,Stevenage,1-0,0-0,Carlisle
+Sat Apr 21 2012,Bournemouth,1-1,1-0,Colchester
+Sat Apr 21 2012,Charlton,2-1,1-1,Wycombe
+Sat Apr 21 2012,Chesterfield,2-1,0-0,Rochdale
+Sat Apr 21 2012,Exeter,4-2,0-1,Walsall
+Sat Apr 21 2012,Huddersfield,1-0,0-0,Scunthorpe
+Sat Apr 21 2012,Leyton Orient,2-2,1-0,Yeovil
+Sat Apr 21 2012,Milton Keynes Dons,1-0,1-0,Sheffield United
+Sat Apr 21 2012,Notts County,2-4,0-1,Bury
+Sat Apr 21 2012,Oldham,1-1,0-0,Preston
+Sat Apr 21 2012,Sheffield Weds,2-1,1-0,Carlisle
+Sat Apr 21 2012,Stevenage,2-1,0-0,Brentford
+Sat Apr 21 2012,Tranmere,1-1,1-0,Hartlepool
+Sat Apr 28 2012,Brentford,1-2,0-1,Sheffield Weds
+Sat Apr 28 2012,Bury,0-0,0-0,Oldham
+Sat Apr 28 2012,Carlisle,4-1,2-1,Exeter
+Sat Apr 28 2012,Colchester,4-2,1-0,Tranmere
+Sat Apr 28 2012,Hartlepool,2-1,1-1,Leyton Orient
+Sat Apr 28 2012,Preston,2-2,0-2,Charlton
+Sat Apr 28 2012,Rochdale,1-2,0-1,Milton Keynes Dons
+Sat Apr 28 2012,Scunthorpe,1-1,0-1,Bournemouth
+Sat Apr 28 2012,Sheffield United,2-2,0-1,Stevenage
+Sat Apr 28 2012,Walsall,1-1,0-1,Huddersfield
+Sat Apr 28 2012,Wycombe,3-4,2-2,Notts County
+Sat Apr 28 2012,Yeovil,3-2,1-1,Chesterfield
+Sat May 5 2012,Bournemouth,1-0,0-0,Preston
+Sat May 5 2012,Charlton,3-2,0-1,Hartlepool
+Sat May 5 2012,Chesterfield,2-3,0-1,Brentford
+Sat May 5 2012,Exeter,2-2,1-1,Sheffield United
+Sat May 5 2012,Huddersfield,2-0,1-0,Yeovil
+Sat May 5 2012,Leyton Orient,2-1,2-0,Rochdale
+Sat May 5 2012,Milton Keynes Dons,0-1,0-1,Walsall
+Sat May 5 2012,Notts County,4-1,3-0,Colchester
+Sat May 5 2012,Oldham,2-1,0-0,Carlisle
+Sat May 5 2012,Sheffield Weds,2-0,1-0,Wycombe
+Sat May 5 2012,Stevenage,3-0,1-0,Bury
+Sat May 5 2012,Tranmere,1-1,1-0,Scunthorpe

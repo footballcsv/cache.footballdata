@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 8 1998,Barnsley,2-2,1-2,West Brom
+Sat Aug 8 1998,Bradford,1-2,0-1,Stockport
+Sat Aug 8 1998,Bristol City,2-2,2-1,Oxford
+Sat Aug 8 1998,Bury,1-0,1-0,Huddersfield
+Sat Aug 8 1998,Crystal Palace,2-2,0-1,Bolton
+Sat Aug 8 1998,Norwich,2-1,2-1,Crewe
+Sat Aug 8 1998,Port Vale,0-2,0-1,Birmingham
+Sat Aug 8 1998,Portsmouth,1-2,1-0,Watford
+Sat Aug 8 1998,Sheffield United,2-1,1-0,Swindon
+Sat Aug 8 1998,Sunderland,1-0,0-0,QPR
+Sat Aug 8 1998,Wolves,2-0,1-0,Tranmere
+Sun Aug 9 1998,Grimsby,0-0,0-0,Ipswich
+Sat Aug 15 1998,Bolton,2-0,0-0,Grimsby
+Sat Aug 15 1998,Crewe,3-1,1-0,Barnsley
+Sat Aug 15 1998,Huddersfield,2-1,1-0,Port Vale
+Sat Aug 15 1998,Ipswich,0-0,0-0,Bury
+Sat Aug 15 1998,Oxford,0-2,0-1,Wolves
+Sat Aug 15 1998,QPR,1-1,0-1,Bristol City
+Sat Aug 15 1998,Stockport,0-2,0-1,Norwich
+Sat Aug 15 1998,Swindon,1-1,1-0,Sunderland
+Sat Aug 15 1998,Tranmere,1-1,1-1,Portsmouth
+Sat Aug 15 1998,Watford,1-0,0-0,Bradford
+Sat Aug 15 1998,West Brom,4-1,2-1,Sheffield United
+Sun Aug 16 1998,Birmingham,3-1,2-0,Crystal Palace
+Fri Aug 21 1998,Barnsley,1-1,1-0,Stockport
+Sat Aug 22 1998,Bristol City,1-4,0-1,Watford
+Sat Aug 22 1998,Bury,1-0,1-0,Crewe
+Sat Aug 22 1998,Crystal Palace,2-0,2-0,Oxford
+Sat Aug 22 1998,Grimsby,1-0,0-0,Huddersfield
+Sat Aug 22 1998,Norwich,4-2,3-2,QPR
+Sat Aug 22 1998,Port Vale,0-3,0-0,West Brom
+Sat Aug 22 1998,Portsmouth,0-0,0-0,Ipswich
+Sat Aug 22 1998,Sheffield United,0-2,0-0,Birmingham
+Sat Aug 22 1998,Sunderland,5-0,2-0,Tranmere
+Sat Aug 22 1998,Wolves,1-0,1-0,Swindon
+Sun Aug 23 1998,Bradford,2-2,1-1,Bolton
+Tue Aug 25 1998,Sunderland,4-1,3-1,Watford
+Fri Aug 28 1998,Crewe,2-1,2-1,Bradford
+Fri Aug 28 1998,Watford,0-2,0-1,Wolves
+Sat Aug 29 1998,Birmingham,0-0,0-0,Barnsley
+Sat Aug 29 1998,Bolton,2-2,2-0,Sheffield United
+Sat Aug 29 1998,Huddersfield,3-3,1-1,Portsmouth
+Sat Aug 29 1998,Ipswich,0-2,0-2,Sunderland
+Sat Aug 29 1998,Oxford,0-0,0-0,Grimsby
+Sat Aug 29 1998,QPR,0-0,0-0,Bury
+Sat Aug 29 1998,Stockport,1-1,0-1,Crystal Palace
+Sat Aug 29 1998,Swindon,1-1,0-1,Port Vale
+Sat Aug 29 1998,Tranmere,1-1,1-1,Bristol City
+Sat Aug 29 1998,West Brom,2-0,0-0,Norwich
+Mon Aug 31 1998,Barnsley,1-0,1-0,Oxford
+Mon Aug 31 1998,Bradford,2-1,0-0,Birmingham
+Mon Aug 31 1998,Bristol City,1-2,1-0,Huddersfield
+Mon Aug 31 1998,Bury,3-0,0-0,Swindon
+Mon Aug 31 1998,Grimsby,5-1,4-0,West Brom
+Mon Aug 31 1998,Port Vale,0-3,0-1,Ipswich
+Mon Aug 31 1998,Portsmouth,3-0,1-0,QPR
+Mon Aug 31 1998,Sheffield United,3-1,1-1,Crewe
+Mon Aug 31 1998,Wolves,2-2,2-1,Stockport
+Sat Sep 5 1998,Birmingham,1-0,1-0,Bury
+Sat Sep 5 1998,Huddersfield,1-0,0-0,Sheffield United
+Sat Sep 5 1998,Stockport,2-0,0-0,Grimsby
+Sat Sep 5 1998,Swindon,3-2,3-0,Bristol City
+Sun Sep 6 1998,Oxford,3-0,2-0,Portsmouth
+Tue Sep 8 1998,Barnsley,1-3,1-0,Norwich
+Tue Sep 8 1998,Birmingham,2-0,0-0,Stockport
+Tue Sep 8 1998,Bury,2-1,2-1,Portsmouth
+Tue Sep 8 1998,Crewe,0-1,0-0,Crystal Palace
+Tue Sep 8 1998,Huddersfield,2-0,2-0,Watford
+Tue Sep 8 1998,Ipswich,3-0,1-0,Bradford
+Tue Sep 8 1998,Port Vale,2-1,1-0,Wolves
+Tue Sep 8 1998,QPR,0-0,0-0,Tranmere
+Tue Sep 8 1998,Sheffield United,3-2,0-1,Grimsby
+Tue Sep 8 1998,Sunderland,1-1,1-0,Bristol City
+Tue Sep 8 1998,West Brom,2-3,1-2,Bolton
+Wed Sep 9 1998,Swindon,4-1,1-1,Oxford
+Fri Sep 11 1998,Tranmere,2-3,0-2,Huddersfield
+Sat Sep 12 1998,Bolton,3-1,2-1,Birmingham
+Sat Sep 12 1998,Bradford,2-2,2-2,Sheffield United
+Sat Sep 12 1998,Crystal Palace,0-1,0-0,Port Vale
+Sat Sep 12 1998,Grimsby,1-2,0-1,Barnsley
+Sat Sep 12 1998,Oxford,3-3,1-1,Ipswich
+Sat Sep 12 1998,Portsmouth,5-2,2-0,Swindon
+Sat Sep 12 1998,Stockport,1-1,0-1,Crewe
+Sat Sep 12 1998,Watford,2-1,1-0,QPR
+Sat Sep 12 1998,Wolves,1-1,0-0,Sunderland
+Sun Sep 13 1998,Bristol City,1-3,0-2,West Brom
+Sun Sep 13 1998,Norwich,0-0,0-0,Bury
+Sat Sep 19 1998,Barnsley,4-0,2-0,Crystal Palace
+Sat Sep 19 1998,Birmingham,0-1,0-0,Grimsby
+Sat Sep 19 1998,Bury,0-0,0-0,Tranmere
+Sat Sep 19 1998,Crewe,4-4,2-3,Bolton
+Sat Sep 19 1998,Huddersfield,2-1,1-0,Wolves
+Sat Sep 19 1998,Ipswich,3-1,2-0,Bristol City
+Sat Sep 19 1998,Port Vale,0-2,0-0,Portsmouth
+Sat Sep 19 1998,QPR,2-0,0-0,Stockport
+Sat Sep 19 1998,Sheffield United,2-1,1-0,Norwich
+Sat Sep 19 1998,Sunderland,7-0,3-0,Oxford
+Sat Sep 19 1998,Swindon,1-4,1-2,Watford
+Sun Sep 20 1998,West Brom,0-2,0-2,Bradford
+Fri Sep 25 1998,Tranmere,0-0,0-0,Swindon
+Sat Sep 26 1998,Bolton,3-0,3-0,Huddersfield
+Sat Sep 26 1998,Bradford,2-1,0-0,Barnsley
+Sat Sep 26 1998,Bristol City,5-2,3-0,Crewe
+Sat Sep 26 1998,Grimsby,2-2,0-2,Port Vale
+Sat Sep 26 1998,Norwich,2-0,0-0,Birmingham
+Sat Sep 26 1998,Oxford,4-1,1-0,QPR
+Sat Sep 26 1998,Portsmouth,1-1,1-0,Sunderland
+Sat Sep 26 1998,Stockport,2-2,0-2,West Brom
+Sat Sep 26 1998,Watford,1-0,1-0,Ipswich
+Sat Sep 26 1998,Wolves,1-0,0-0,Bury
+Sun Sep 27 1998,Crystal Palace,1-0,0-0,Sheffield United
+Tue Sep 29 1998,Bolton,2-1,0-0,Swindon
+Tue Sep 29 1998,Bradford,4-0,1-0,Port Vale
+Tue Sep 29 1998,Bristol City,1-1,0-0,Barnsley
+Tue Sep 29 1998,Grimsby,1-1,1-1,Crewe
+Tue Sep 29 1998,Norwich,2-2,2-1,Sunderland
+Tue Sep 29 1998,Oxford,3-0,2-0,West Brom
+Tue Sep 29 1998,Portsmouth,0-1,0-0,Birmingham
+Tue Sep 29 1998,Stockport,1-1,1-1,Huddersfield
+Tue Sep 29 1998,Tranmere,0-2,0-1,Ipswich
+Tue Sep 29 1998,Watford,1-1,1-0,Sheffield United
+Tue Sep 29 1998,Wolves,1-2,0-2,QPR
+Wed Sep 30 1998,Crystal Palace,4-2,1-2,Bury
+Sat Oct 3 1998,Barnsley,2-2,1-2,Bolton
+Sat Oct 3 1998,Birmingham,2-2,1-2,Tranmere
+Sat Oct 3 1998,Bury,0-1,0-0,Bristol City
+Sat Oct 3 1998,Crewe,0-0,0-0,Wolves
+Sat Oct 3 1998,Huddersfield,2-0,2-0,Oxford
+Sat Oct 3 1998,Ipswich,3-0,1-0,Crystal Palace
+Sat Oct 3 1998,Port Vale,1-0,0-0,Norwich
+Sat Oct 3 1998,QPR,1-2,1-1,Grimsby
+Sat Oct 3 1998,Sheffield United,2-1,1-0,Portsmouth
+Sat Oct 3 1998,Sunderland,0-0,0-0,Bradford
+Sat Oct 3 1998,Swindon,2-3,1-2,Stockport
+Sun Oct 4 1998,West Brom,4-1,2-1,Watford
+Fri Oct 9 1998,Bradford,3-0,1-0,Bury
+Fri Oct 9 1998,Swindon,3-0,3-0,Huddersfield
+Sat Oct 10 1998,Bristol City,2-2,1-1,Portsmouth
+Sat Oct 10 1998,Oxford,1-2,1-1,Tranmere
+Sat Oct 10 1998,Watford,1-1,0-1,Birmingham
+Sun Oct 11 1998,Barnsley,0-2,0-0,Port Vale
+Sat Oct 17 1998,Birmingham,3-1,2-1,Crewe
+Sat Oct 17 1998,Bolton,1-1,1-1,Oxford
+Sat Oct 17 1998,Bury,1-1,0-0,Stockport
+Sat Oct 17 1998,Crystal Palace,5-1,2-1,Norwich
+Sat Oct 17 1998,Grimsby,2-0,1-0,Bradford
+Sat Oct 17 1998,Huddersfield,2-0,1-0,QPR
+Sat Oct 17 1998,Ipswich,1-0,1-0,Swindon
+Sat Oct 17 1998,Port Vale,3-2,1-0,Bristol City
+Sat Oct 17 1998,Portsmouth,1-0,0-0,Wolves
+Sat Oct 17 1998,Sheffield United,1-1,0-1,Barnsley
+Sat Oct 17 1998,Tranmere,3-2,2-1,Watford
+Sun Oct 18 1998,West Brom,2-3,2-0,Sunderland
+Tue Oct 20 1998,Birmingham,1-1,0-0,Swindon
+Tue Oct 20 1998,Bolton,1-2,1-1,Watford
+Tue Oct 20 1998,Bury,1-0,0-0,Oxford
+Tue Oct 20 1998,Crystal Palace,3-2,1-0,Wolves
+Tue Oct 20 1998,Grimsby,2-1,0-1,Bristol City
+Tue Oct 20 1998,Ipswich,0-1,0-0,Norwich
+Tue Oct 20 1998,Port Vale,1-0,0-0,Crewe
+Tue Oct 20 1998,Portsmouth,2-4,0-3,Bradford
+Tue Oct 20 1998,Sheffield United,1-1,0-1,Stockport
+Tue Oct 20 1998,Tranmere,3-0,2-0,Barnsley
+Wed Oct 21 1998,Huddersfield,1-1,1-1,Sunderland
+Wed Oct 21 1998,West Brom,2-0,0-0,QPR
+Fri Oct 23 1998,Bristol City,2-1,2-1,Bolton
+Sat Oct 24 1998,Barnsley,2-1,1-0,Portsmouth
+Sat Oct 24 1998,Crewe,1-4,0-4,Tranmere
+Sat Oct 24 1998,Norwich,4-1,3-0,Huddersfield
+Sat Oct 24 1998,Oxford,0-2,0-1,Sheffield United
+Sat Oct 24 1998,Stockport,0-1,0-0,Ipswich
+Sat Oct 24 1998,Sunderland,1-0,0-0,Bury
+Sat Oct 24 1998,Swindon,2-2,2-1,West Brom
+Sat Oct 24 1998,Watford,2-2,1-1,Port Vale
+Sat Oct 24 1998,Wolves,2-0,2-0,Grimsby
+Sun Oct 25 1998,QPR,0-1,0-1,Birmingham
+Sat Oct 31 1998,Birmingham,1-1,0-0,Huddersfield
+Sat Oct 31 1998,Bradford,5-0,2-0,Bristol City
+Sat Oct 31 1998,Bury,1-3,1-2,Watford
+Sat Oct 31 1998,Grimsby,2-0,1-0,Crystal Palace
+Sat Oct 31 1998,Ipswich,2-0,0-0,West Brom
+Sat Oct 31 1998,Oxford,1-1,0-0,Crewe
+Sat Oct 31 1998,Port Vale,2-3,0-1,Sheffield United
+Sat Oct 31 1998,Swindon,3-1,1-1,QPR
+Sat Oct 31 1998,Tranmere,1-1,0-0,Stockport
+Sat Oct 31 1998,Wolves,1-1,1-0,Barnsley
+Sun Nov 1 1998,Bolton,0-3,0-2,Sunderland
+Tue Nov 3 1998,Crewe,1-4,0-3,Sunderland
+Tue Nov 3 1998,Ipswich,2-0,1-0,Wolves
+Tue Nov 3 1998,Watford,1-1,1-1,Norwich
+Tue Nov 3 1998,West Brom,3-2,1-1,Crystal Palace
+Wed Nov 4 1998,Bolton,3-1,2-0,Port Vale
+Wed Nov 4 1998,QPR,2-1,2-0,Barnsley
+Sat Nov 7 1998,Barnsley,1-1,1-0,Bury
+Sat Nov 7 1998,Bristol City,1-6,1-2,Wolves
+Sat Nov 7 1998,Crewe,0-2,0-1,Swindon
+Sat Nov 7 1998,Crystal Palace,4-1,1-1,Portsmouth
+Sat Nov 7 1998,Huddersfield,2-2,0-1,Ipswich
+Sat Nov 7 1998,Norwich,2-2,0-1,Bradford
+Sat Nov 7 1998,QPR,2-0,1-0,Bolton
+Sat Nov 7 1998,Sheffield United,2-2,1-1,Tranmere
+Sat Nov 7 1998,Sunderland,3-1,0-0,Grimsby
+Sat Nov 7 1998,Watford,2-0,1-0,Oxford
+Sat Nov 7 1998,West Brom,1-3,0-3,Birmingham
+Sun Nov 8 1998,Stockport,4-2,2-1,Port Vale
+Tue Nov 10 1998,Portsmouth,1-2,1-0,Norwich
+Tue Nov 10 1998,Tranmere,0-1,0-1,Bradford
+Tue Nov 10 1998,Wolves,2-1,0-1,Sheffield United
+Sat Nov 14 1998,Barnsley,0-1,0-1,Ipswich
+Sat Nov 14 1998,Birmingham,0-1,0-1,Oxford
+Sat Nov 14 1998,Bolton,2-2,0-1,Tranmere
+Sat Nov 14 1998,Bradford,3-0,0-0,Swindon
+Sat Nov 14 1998,Crewe,0-2,0-1,QPR
+Sat Nov 14 1998,Crystal Palace,2-1,1-1,Bristol City
+Sat Nov 14 1998,Grimsby,1-1,1-1,Portsmouth
+Sat Nov 14 1998,Norwich,0-0,0-0,Wolves
+Sat Nov 14 1998,Port Vale,0-2,0-1,Sunderland
+Sat Nov 14 1998,Sheffield United,3-1,0-1,Bury
+Sat Nov 14 1998,Stockport,1-1,1-1,Watford
+Sat Nov 14 1998,West Brom,3-1,1-1,Huddersfield
+Sat Nov 21 1998,Bristol City,1-1,1-0,Stockport
+Sat Nov 21 1998,Bury,1-0,0-0,Grimsby
+Sat Nov 21 1998,Huddersfield,2-1,0-1,Bradford
+Sat Nov 21 1998,Ipswich,0-1,0-0,Bolton
+Sat Nov 21 1998,Oxford,2-1,2-1,Port Vale
+Sat Nov 21 1998,Portsmouth,2-1,1-1,West Brom
+Sat Nov 21 1998,QPR,1-2,0-2,Sheffield United
+Sat Nov 21 1998,Sunderland,2-3,0-1,Barnsley
+Sat Nov 21 1998,Swindon,2-0,1-0,Crystal Palace
+Sat Nov 21 1998,Tranmere,1-3,0-2,Norwich
+Sat Nov 21 1998,Watford,4-2,3-0,Crewe
+Sun Nov 22 1998,Wolves,3-1,0-1,Birmingham
+Tue Nov 24 1998,Stockport,0-1,0-0,Bolton
+Fri Nov 27 1998,Barnsley,7-1,6-0,Huddersfield
+Sat Nov 28 1998,Birmingham,4-2,3-2,Bristol City
+Sat Nov 28 1998,Bolton,4-0,1-0,Bury
+Sat Nov 28 1998,Bradford,0-3,0-0,QPR
+Sat Nov 28 1998,Crewe,0-3,0-1,Ipswich
+Sat Nov 28 1998,Crystal Palace,2-2,1-2,Watford
+Sat Nov 28 1998,Grimsby,1-0,1-0,Swindon
+Sat Nov 28 1998,Port Vale,2-2,1-0,Tranmere
+Sat Nov 28 1998,Sheffield United,0-4,0-3,Sunderland
+Sat Nov 28 1998,Stockport,2-0,0-0,Portsmouth
+Sun Nov 29 1998,Norwich,1-3,1-2,Oxford
+Sun Nov 29 1998,West Brom,2-0,0-0,Wolves
+Wed Dec 2 1998,Norwich,3-1,1-0,Grimsby
+Wed Dec 2 1998,QPR,1-1,0-0,Ipswich
+Sat Dec 5 1998,Bristol City,2-0,1-0,Sheffield United
+Sat Dec 5 1998,Bury,2-0,2-0,West Brom
+Sat Dec 5 1998,Huddersfield,4-0,2-0,Crystal Palace
+Sat Dec 5 1998,Ipswich,1-0,1-0,Birmingham
+Sat Dec 5 1998,Oxford,0-1,0-1,Bradford
+Sat Dec 5 1998,Portsmouth,2-0,0-0,Crewe
+Sat Dec 5 1998,QPR,3-2,0-1,Port Vale
+Sat Dec 5 1998,Sunderland,1-0,1-0,Stockport
+Sat Dec 5 1998,Swindon,1-1,1-1,Norwich
+Sat Dec 5 1998,Tranmere,1-2,1-1,Grimsby
+Sat Dec 5 1998,Watford,0-0,0-0,Barnsley
+Sat Dec 5 1998,Wolves,1-1,0-0,Bolton
+Tue Dec 8 1998,Crewe,1-1,0-1,West Brom
+Tue Dec 8 1998,Crystal Palace,1-1,0-0,Tranmere
+Fri Dec 11 1998,Bury,3-3,1-1,Sheffield United
+Sat Dec 12 1998,Bristol City,1-1,1-1,Crystal Palace
+Sat Dec 12 1998,Huddersfield,0-3,0-0,West Brom
+Sat Dec 12 1998,Ipswich,0-2,0-0,Barnsley
+Sat Dec 12 1998,Oxford,1-7,0-4,Birmingham
+Sat Dec 12 1998,QPR,0-1,0-1,Crewe
+Sat Dec 12 1998,Sunderland,2-0,1-0,Port Vale
+Sat Dec 12 1998,Swindon,1-4,1-1,Bradford
+Sat Dec 12 1998,Tranmere,1-1,0-1,Bolton
+Sat Dec 12 1998,Watford,4-2,2-0,Stockport
+Sat Dec 12 1998,Wolves,2-2,0-1,Norwich
+Sun Dec 13 1998,Portsmouth,0-1,0-0,Grimsby
+Tue Dec 15 1998,Sunderland,2-0,1-0,Crystal Palace
+Sat Dec 19 1998,Barnsley,1-3,0-3,Swindon
+Sat Dec 19 1998,Birmingham,0-0,0-0,Sunderland
+Sat Dec 19 1998,Bolton,3-1,0-1,Portsmouth
+Sat Dec 19 1998,Bradford,2-1,1-0,Wolves
+Sat Dec 19 1998,Crewe,1-2,0-1,Huddersfield
+Sat Dec 19 1998,Crystal Palace,1-1,0-0,QPR
+Sat Dec 19 1998,Grimsby,2-1,0-0,Watford
+Sat Dec 19 1998,Norwich,2-1,2-1,Bristol City
+Sat Dec 19 1998,Port Vale,1-0,0-0,Bury
+Sat Dec 19 1998,Stockport,2-0,1-0,Oxford
+Sat Dec 19 1998,West Brom,0-2,0-0,Tranmere
+Sun Dec 20 1998,Sheffield United,1-2,0-0,Ipswich
+Sat Dec 26 1998,Birmingham,1-0,1-0,Sheffield United
+Sat Dec 26 1998,Bolton,0-0,0-0,Bradford
+Sat Dec 26 1998,Crewe,3-1,0-0,Bury
+Sat Dec 26 1998,Huddersfield,2-0,0-0,Grimsby
+Sat Dec 26 1998,Ipswich,3-0,3-0,Portsmouth
+Sat Dec 26 1998,Oxford,1-3,0-0,Crystal Palace
+Sat Dec 26 1998,QPR,2-0,2-0,Norwich
+Sat Dec 26 1998,Stockport,0-1,0-1,Barnsley
+Sat Dec 26 1998,Swindon,1-0,0-0,Wolves
+Sat Dec 26 1998,Tranmere,1-0,0-0,Sunderland
+Sat Dec 26 1998,Watford,1-0,0-0,Bristol City
+Sat Dec 26 1998,West Brom,3-2,1-0,Port Vale
+Mon Dec 28 1998,Barnsley,1-0,0-0,QPR
+Mon Dec 28 1998,Bradford,2-0,1-0,Tranmere
+Mon Dec 28 1998,Bristol City,3-1,1-0,Swindon
+Mon Dec 28 1998,Bury,2-4,1-2,Birmingham
+Mon Dec 28 1998,Crystal Palace,1-1,1-0,West Brom
+Mon Dec 28 1998,Grimsby,1-0,0-0,Stockport
+Mon Dec 28 1998,Port Vale,0-2,0-0,Bolton
+Mon Dec 28 1998,Portsmouth,2-2,0-1,Oxford
+Mon Dec 28 1998,Sheffield United,2-1,0-0,Huddersfield
+Mon Dec 28 1998,Sunderland,2-0,1-0,Crewe
+Mon Dec 28 1998,Wolves,1-0,0-0,Ipswich
+Tue Dec 29 1998,Norwich,1-1,0-0,Watford
+Fri Jan 8 1999,Tranmere,1-2,1-2,Wolves
+Sat Jan 9 1999,Birmingham,1-0,1-0,Port Vale
+Sat Jan 9 1999,Crewe,3-2,0-2,Norwich
+Sat Jan 9 1999,Huddersfield,2-2,1-0,Bury
+Sat Jan 9 1999,Ipswich,0-1,0-1,Grimsby
+Sat Jan 9 1999,Oxford,0-0,0-0,Bristol City
+Sat Jan 9 1999,QPR,2-2,1-1,Sunderland
+Sat Jan 9 1999,Stockport,1-2,0-1,Bradford
+Sat Jan 9 1999,Swindon,2-2,1-1,Sheffield United
+Sat Jan 9 1999,Watford,0-0,0-0,Portsmouth
+Sat Jan 9 1999,West Brom,2-0,0-0,Barnsley
+Sun Jan 10 1999,Bolton,3-0,3-0,Crystal Palace
+Sat Jan 16 1999,Barnsley,0-0,0-0,Birmingham
+Sat Jan 16 1999,Bradford,4-1,2-0,Crewe
+Sat Jan 16 1999,Bristol City,1-1,1-1,Tranmere
+Sat Jan 16 1999,Bury,1-1,1-0,QPR
+Sat Jan 16 1999,Crystal Palace,2-2,1-2,Stockport
+Sat Jan 16 1999,Grimsby,1-0,1-0,Oxford
+Sat Jan 16 1999,Norwich,1-1,0-0,West Brom
+Sat Jan 16 1999,Port Vale,0-1,0-1,Swindon
+Sat Jan 16 1999,Portsmouth,1-0,1-0,Huddersfield
+Sat Jan 16 1999,Sheffield United,1-2,1-1,Bolton
+Sat Jan 16 1999,Wolves,0-0,0-0,Watford
+Sun Jan 17 1999,Sunderland,2-1,2-1,Ipswich
+Tue Jan 19 1999,Bradford,2-1,0-0,Crystal Palace
+Sat Jan 23 1999,Watford,0-2,0-1,West Brom
+Sat Jan 30 1999,Bolton,2-0,1-0,Norwich
+Sat Jan 30 1999,Crewe,1-2,1-0,Sheffield United
+Sat Jan 30 1999,Huddersfield,2-2,1-1,Bristol City
+Sat Jan 30 1999,Ipswich,1-0,1-0,Port Vale
+Sat Jan 30 1999,Oxford,1-0,0-0,Barnsley
+Sat Jan 30 1999,QPR,1-1,0-0,Portsmouth
+Sat Jan 30 1999,Stockport,1-2,0-0,Wolves
+Sat Jan 30 1999,Swindon,1-1,0-0,Bury
+Sat Jan 30 1999,Tranmere,3-1,2-1,Crystal Palace
+Sat Jan 30 1999,Watford,2-1,1-1,Sunderland
+Sat Jan 30 1999,West Brom,1-1,0-1,Grimsby
+Sun Jan 31 1999,Birmingham,2-1,1-1,Bradford
+Fri Feb 5 1999,Bristol City,0-0,0-0,QPR
+Sat Feb 6 1999,Barnsley,2-2,1-1,Crewe
+Sat Feb 6 1999,Bradford,2-0,1-0,Watford
+Sat Feb 6 1999,Bury,0-3,0-0,Ipswich
+Sat Feb 6 1999,Crystal Palace,1-1,0-0,Birmingham
+Sat Feb 6 1999,Grimsby,0-1,0-0,Bolton
+Sat Feb 6 1999,Norwich,0-2,0-2,Stockport
+Sat Feb 6 1999,Port Vale,2-0,2-0,Huddersfield
+Sat Feb 6 1999,Portsmouth,1-1,1-1,Tranmere
+Sat Feb 6 1999,Sheffield United,3-0,2-0,West Brom
+Sat Feb 6 1999,Sunderland,2-0,2-0,Swindon
+Sat Feb 6 1999,Wolves,1-1,1-1,Oxford
+Sat Feb 13 1999,Bolton,2-1,1-1,West Brom
+Sat Feb 13 1999,Bradford,0-0,0-0,Ipswich
+Sat Feb 13 1999,Bristol City,0-1,0-0,Sunderland
+Sat Feb 13 1999,Crystal Palace,1-1,1-0,Crewe
+Sat Feb 13 1999,Oxford,2-0,1-0,Swindon
+Sat Feb 13 1999,Portsmouth,2-1,1-0,Bury
+Sat Feb 13 1999,Stockport,1-0,1-0,Birmingham
+Sat Feb 13 1999,Tranmere,3-2,1-1,QPR
+Sat Feb 13 1999,Wolves,3-1,2-1,Port Vale
+Tue Feb 16 1999,Norwich,0-0,0-0,Barnsley
+Tue Feb 16 1999,Watford,1-1,0-0,Huddersfield
+Fri Feb 19 1999,Sheffield United,2-2,1-1,Bradford
+Sat Feb 20 1999,Barnsley,0-0,0-0,Grimsby
+Sat Feb 20 1999,Bury,0-2,0-1,Norwich
+Sat Feb 20 1999,Crewe,0-2,0-1,Stockport
+Sat Feb 20 1999,Huddersfield,0-0,0-0,Tranmere
+Sat Feb 20 1999,Ipswich,2-1,2-1,Oxford
+Sat Feb 20 1999,Port Vale,1-0,1-0,Crystal Palace
+Sat Feb 20 1999,QPR,1-2,1-1,Watford
+Sat Feb 20 1999,Sunderland,2-1,1-1,Wolves
+Sat Feb 20 1999,Swindon,3-3,3-1,Portsmouth
+Sat Feb 20 1999,West Brom,2-2,1-0,Bristol City
+Sun Feb 21 1999,Birmingham,0-0,0-0,Bolton
+Fri Feb 26 1999,Watford,0-1,0-1,Swindon
+Sat Feb 27 1999,Bolton,1-3,0-2,Crewe
+Sat Feb 27 1999,Bradford,1-0,1-0,West Brom
+Sat Feb 27 1999,Bristol City,0-1,0-0,Ipswich
+Sat Feb 27 1999,Grimsby,0-3,0-1,Birmingham
+Sat Feb 27 1999,Norwich,1-1,1-0,Sheffield United
+Sat Feb 27 1999,Oxford,0-0,0-0,Sunderland
+Sat Feb 27 1999,Portsmouth,4-0,3-0,Port Vale
+Sat Feb 27 1999,Stockport,0-0,0-0,QPR
+Sat Feb 27 1999,Tranmere,4-0,1-0,Bury
+Sat Feb 27 1999,Wolves,2-2,1-0,Huddersfield
+Sun Feb 28 1999,Crystal Palace,1-0,1-0,Barnsley
+Tue Mar 2 1999,Birmingham,0-0,0-0,Norwich
+Tue Mar 2 1999,Huddersfield,3-2,2-1,Bolton
+Tue Mar 2 1999,Ipswich,3-2,2-0,Watford
+Tue Mar 2 1999,Sheffield United,1-1,0-1,Crystal Palace
+Tue Mar 2 1999,Sunderland,2-0,1-0,Portsmouth
+Tue Mar 2 1999,West Brom,3-1,1-0,Stockport
+Wed Mar 3 1999,Barnsley,0-1,0-0,Bradford
+Wed Mar 3 1999,QPR,1-0,0-0,Oxford
+Wed Mar 3 1999,Swindon,2-3,1-0,Tranmere
+Sat Mar 6 1999,Birmingham,4-1,1-1,Portsmouth
+Sat Mar 6 1999,Bury,0-0,0-0,Crystal Palace
+Sat Mar 6 1999,Huddersfield,3-0,0-0,Stockport
+Sat Mar 6 1999,Ipswich,1-0,0-0,Tranmere
+Sat Mar 6 1999,QPR,0-1,0-0,Wolves
+Sat Mar 6 1999,Sheffield United,3-0,2-0,Watford
+Sat Mar 6 1999,Sunderland,1-0,1-0,Norwich
+Sat Mar 6 1999,Swindon,3-3,1-0,Bolton
+Sat Mar 6 1999,West Brom,2-0,1-0,Oxford
+Tue Mar 9 1999,Bolton,3-3,2-2,Barnsley
+Tue Mar 9 1999,Bradford,0-1,0-0,Sunderland
+Tue Mar 9 1999,Bristol City,1-1,0-1,Bury
+Tue Mar 9 1999,Crystal Palace,3-2,1-1,Ipswich
+Tue Mar 9 1999,Norwich,3-4,1-2,Port Vale
+Tue Mar 9 1999,Oxford,2-2,1-1,Huddersfield
+Tue Mar 9 1999,Portsmouth,1-0,0-0,Sheffield United
+Tue Mar 9 1999,Stockport,2-1,2-0,Swindon
+Tue Mar 9 1999,Tranmere,0-1,0-0,Birmingham
+Sat Mar 13 1999,Birmingham,4-0,1-0,West Brom
+Sat Mar 13 1999,Bolton,2-1,1-0,QPR
+Sat Mar 13 1999,Bradford,4-1,4-0,Norwich
+Sat Mar 13 1999,Bury,0-0,0-0,Barnsley
+Sat Mar 13 1999,Grimsby,0-2,0-0,Sunderland
+Sat Mar 13 1999,Ipswich,3-0,2-0,Huddersfield
+Sat Mar 13 1999,Oxford,0-0,0-0,Watford
+Sat Mar 13 1999,Port Vale,1-1,0-1,Stockport
+Sat Mar 13 1999,Portsmouth,1-1,0-1,Crystal Palace
+Sat Mar 13 1999,Swindon,1-2,0-2,Crewe
+Sat Mar 13 1999,Tranmere,2-3,2-0,Sheffield United
+Sat Mar 13 1999,Wolves,3-0,1-0,Bristol City
+Tue Mar 16 1999,Bury,0-0,0-0,Wolves
+Tue Mar 16 1999,Crewe,0-0,0-0,Grimsby
+Sat Mar 20 1999,Barnsley,2-3,2-1,Wolves
+Sat Mar 20 1999,Bristol City,2-3,0-2,Bradford
+Sat Mar 20 1999,Crewe,3-1,0-0,Oxford
+Sat Mar 20 1999,Crystal Palace,3-1,2-1,Grimsby
+Sat Mar 20 1999,Huddersfield,1-1,0-0,Birmingham
+Sat Mar 20 1999,Norwich,0-0,0-0,Portsmouth
+Sat Mar 20 1999,QPR,4-0,0-0,Swindon
+Sat Mar 20 1999,Sheffield United,3-0,0-0,Port Vale
+Sat Mar 20 1999,Stockport,0-0,0-0,Tranmere
+Sat Mar 20 1999,Sunderland,3-1,2-0,Bolton
+Sat Mar 20 1999,Watford,0-0,0-0,Bury
+Sat Mar 20 1999,West Brom,0-1,0-1,Ipswich
+Tue Mar 23 1999,Barnsley,2-0,1-0,Bristol City
+Tue Mar 23 1999,Port Vale,0-1,0-0,Grimsby
+Wed Mar 24 1999,Huddersfield,1-1,0-1,Norwich
+Fri Mar 26 1999,Sheffield United,1-2,1-1,Oxford
+Fri Mar 26 1999,Tranmere,3-0,2-0,Crewe
+Sun Mar 28 1999,Crystal Palace,1-0,1-0,Bradford
+Sun Mar 28 1999,Portsmouth,1-3,1-0,Barnsley
+Tue Mar 30 1999,Wolves,3-0,2-0,Crewe
+Fri Apr 2 1999,Crewe,0-0,0-0,Birmingham
+Sat Apr 3 1999,Barnsley,2-1,1-0,Sheffield United
+Sat Apr 3 1999,Bradford,3-0,1-0,Grimsby
+Sat Apr 3 1999,Bristol City,2-0,2-0,Port Vale
+Sat Apr 3 1999,Norwich,0-1,0-1,Crystal Palace
+Sat Apr 3 1999,Oxford,0-0,0-0,Bolton
+Sat Apr 3 1999,QPR,1-1,0-0,Huddersfield
+Sat Apr 3 1999,Stockport,0-0,0-0,Bury
+Sat Apr 3 1999,Sunderland,3-0,2-0,West Brom
+Sat Apr 3 1999,Swindon,0-6,0-4,Ipswich
+Sat Apr 3 1999,Watford,2-1,0-0,Tranmere
+Sat Apr 3 1999,Wolves,2-0,0-0,Portsmouth
+Mon Apr 5 1999,Birmingham,1-2,0-1,Watford
+Mon Apr 5 1999,Bolton,1-2,0-1,Stockport
+Mon Apr 5 1999,Bury,0-2,0-2,Bradford
+Mon Apr 5 1999,Crystal Palace,1-1,1-1,Sunderland
+Mon Apr 5 1999,Grimsby,0-1,0-1,Norwich
+Mon Apr 5 1999,Huddersfield,1-2,0-1,Swindon
+Mon Apr 5 1999,Ipswich,3-1,1-1,QPR
+Mon Apr 5 1999,Port Vale,1-0,1-0,Barnsley
+Mon Apr 5 1999,Portsmouth,0-1,0-0,Bristol City
+Mon Apr 5 1999,Sheffield United,1-1,0-0,Wolves
+Mon Apr 5 1999,Tranmere,2-2,2-0,Oxford
+Mon Apr 5 1999,West Brom,1-5,0-2,Crewe
+Sat Apr 10 1999,Barnsley,1-1,0-1,Tranmere
+Sat Apr 10 1999,Bradford,2-1,2-0,Portsmouth
+Sat Apr 10 1999,Bristol City,4-1,2-1,Grimsby
+Sat Apr 10 1999,Crewe,0-0,0-0,Port Vale
+Sat Apr 10 1999,Oxford,0-1,0-1,Bury
+Sat Apr 10 1999,QPR,2-1,1-1,West Brom
+Sat Apr 10 1999,Stockport,1-0,0-0,Sheffield United
+Sat Apr 10 1999,Sunderland,2-0,2-0,Huddersfield
+Sat Apr 10 1999,Swindon,0-1,0-0,Birmingham
+Sat Apr 10 1999,Watford,2-0,1-0,Bolton
+Sat Apr 10 1999,Wolves,0-0,0-0,Crystal Palace
+Sun Apr 11 1999,Norwich,0-0,0-0,Ipswich
+Tue Apr 13 1999,Bolton,1-0,1-0,Bristol City
+Tue Apr 13 1999,Bury,2-5,1-4,Sunderland
+Tue Apr 13 1999,Grimsby,1-0,0-0,QPR
+Tue Apr 13 1999,Port Vale,1-1,1-1,Bradford
+Tue Apr 13 1999,West Brom,1-1,1-1,Swindon
+Fri Apr 16 1999,Barnsley,1-3,0-1,Sunderland
+Sat Apr 17 1999,Birmingham,0-1,0-1,Wolves
+Sat Apr 17 1999,Bolton,2-0,1-0,Ipswich
+Sat Apr 17 1999,Bradford,2-3,1-3,Huddersfield
+Sat Apr 17 1999,Crewe,0-1,0-1,Watford
+Sat Apr 17 1999,Crystal Palace,0-1,0-0,Swindon
+Sat Apr 17 1999,Grimsby,0-0,0-0,Bury
+Sat Apr 17 1999,Norwich,2-2,1-1,Tranmere
+Sat Apr 17 1999,Port Vale,1-0,0-0,Oxford
+Sat Apr 17 1999,Sheffield United,2-0,1-0,QPR
+Sat Apr 17 1999,Stockport,2-2,0-0,Bristol City
+Sat Apr 17 1999,West Brom,2-2,0-2,Portsmouth
+Tue Apr 20 1999,Birmingham,1-0,0-0,QPR
+Tue Apr 20 1999,Grimsby,1-2,0-1,Sheffield United
+Tue Apr 20 1999,Ipswich,1-0,1-0,Stockport
+Tue Apr 20 1999,Norwich,2-2,2-0,Bolton
+Fri Apr 23 1999,Bury,2-1,2-0,Bolton
+Sat Apr 24 1999,Bristol City,1-2,0-0,Birmingham
+Sat Apr 24 1999,Huddersfield,0-1,0-1,Barnsley
+Sat Apr 24 1999,Ipswich,1-2,0-0,Crewe
+Sat Apr 24 1999,Oxford,2-4,1-1,Norwich
+Sat Apr 24 1999,Portsmouth,3-1,2-0,Stockport
+Sat Apr 24 1999,QPR,1-3,0-1,Bradford
+Sat Apr 24 1999,Sunderland,0-0,0-0,Sheffield United
+Sat Apr 24 1999,Swindon,2-0,1-0,Grimsby
+Sat Apr 24 1999,Tranmere,1-1,1-0,Port Vale
+Sat Apr 24 1999,Watford,2-1,1-0,Crystal Palace
+Sun Apr 25 1999,Wolves,1-1,1-1,West Brom
+Tue Apr 27 1999,Crewe,1-0,1-0,Bristol City
+Tue Apr 27 1999,Port Vale,1-2,1-1,Watford
+Fri Apr 30 1999,Bolton,1-1,1-0,Wolves
+Sat May 1 1999,Barnsley,2-2,0-1,Watford
+Sat May 1 1999,Bradford,0-0,0-0,Oxford
+Sat May 1 1999,Crewe,3-1,3-0,Portsmouth
+Sat May 1 1999,Crystal Palace,2-2,1-2,Huddersfield
+Sat May 1 1999,Grimsby,1-0,1-0,Tranmere
+Sat May 1 1999,Norwich,2-1,0-0,Swindon
+Sat May 1 1999,Port Vale,2-0,1-0,QPR
+Sat May 1 1999,Sheffield United,3-1,1-0,Bristol City
+Sat May 1 1999,Stockport,0-1,0-0,Sunderland
+Sat May 1 1999,West Brom,1-0,0-0,Bury
+Sun May 2 1999,Birmingham,1-0,0-0,Ipswich
+Tue May 4 1999,Grimsby,0-0,0-0,Wolves
+Sun May 9 1999,Bristol City,1-0,1-0,Norwich
+Sun May 9 1999,Bury,1-0,0-0,Port Vale
+Sun May 9 1999,Huddersfield,0-0,0-0,Crewe
+Sun May 9 1999,Ipswich,4-1,3-0,Sheffield United
+Sun May 9 1999,Oxford,5-0,3-0,Stockport
+Sun May 9 1999,Portsmouth,0-2,0-1,Bolton
+Sun May 9 1999,QPR,6-0,2-0,Crystal Palace
+Sun May 9 1999,Sunderland,2-1,0-1,Birmingham
+Sun May 9 1999,Swindon,1-3,1-2,Barnsley
+Sun May 9 1999,Tranmere,3-1,2-0,West Brom
+Sun May 9 1999,Watford,1-0,1-0,Grimsby
+Sun May 9 1999,Wolves,2-3,1-2,Bradford

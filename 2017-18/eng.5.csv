@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 5 2017,Bromley,0-0,0-0,Eastleigh
+Sat Aug 5 2017,Dag and Red,2-1,2-0,Barrow
+Sat Aug 5 2017,Fylde,2-2,1-1,Boreham Wood
+Sat Aug 5 2017,Guiseley,2-2,1-0,Ebbsfleet
+Sat Aug 5 2017,Halifax,0-2,0-0,Aldershot
+Sat Aug 5 2017,Hartlepool,0-1,0-1,Dover Athletic
+Sat Aug 5 2017,Maidstone,1-1,0-0,Maidenhead
+Sat Aug 5 2017,Sutton,2-0,2-0,Leyton Orient
+Sat Aug 5 2017,Torquay,0-0,0-0,Tranmere
+Sat Aug 5 2017,Woking,2-1,2-1,Gateshead
+Sat Aug 5 2017,Wrexham,0-1,0-1,Macclesfield
+Tue Aug 8 2017,Aldershot,3-2,1-1,Torquay
+Tue Aug 8 2017,Barrow,0-0,0-0,Halifax
+Tue Aug 8 2017,Boreham Wood,1-2,1-2,Dag and Red
+Tue Aug 8 2017,Chester,1-1,1-1,Fylde
+Tue Aug 8 2017,Dover Athletic,1-2,0-1,Bromley
+Tue Aug 8 2017,Eastleigh,1-0,0-0,Sutton
+Tue Aug 8 2017,Ebbsfleet,2-0,0-0,Maidstone
+Tue Aug 8 2017,Gateshead,1-0,0-0,Guiseley
+Tue Aug 8 2017,Leyton Orient,3-1,1-0,Solihull
+Tue Aug 8 2017,Macclesfield,1-1,1-0,Hartlepool
+Tue Aug 8 2017,Maidenhead,1-2,1-1,Wrexham
+Tue Aug 8 2017,Tranmere,3-1,2-1,Woking
+Sat Aug 12 2017,Aldershot,6-0,4-0,Guiseley
+Sat Aug 12 2017,Barrow,3-0,1-0,Woking
+Sat Aug 12 2017,Boreham Wood,4-1,3-1,Solihull
+Sat Aug 12 2017,Chester,0-0,0-0,Halifax
+Sat Aug 12 2017,Dover Athletic,1-0,1-0,Wrexham
+Sat Aug 12 2017,Eastleigh,2-2,2-1,Dag and Red
+Sat Aug 12 2017,Ebbsfleet,3-3,2-3,Fylde
+Sat Aug 12 2017,Gateshead,3-0,1-0,Torquay
+Sat Aug 12 2017,Leyton Orient,2-0,0-0,Maidstone
+Sat Aug 12 2017,Macclesfield,0-0,0-0,Bromley
+Sat Aug 12 2017,Maidenhead,2-1,1-0,Hartlepool
+Sat Aug 12 2017,Tranmere,0-1,0-1,Sutton
+Tue Aug 15 2017,Bromley,6-1,2-0,Leyton Orient
+Tue Aug 15 2017,Dag and Red,3-3,2-0,Ebbsfleet
+Tue Aug 15 2017,Fylde,1-4,1-2,Maidenhead
+Tue Aug 15 2017,Guiseley,0-0,0-0,Tranmere
+Tue Aug 15 2017,Halifax,1-2,0-0,Dover Athletic
+Tue Aug 15 2017,Hartlepool,1-1,0-1,Chester
+Tue Aug 15 2017,Maidstone,1-1,0-0,Aldershot
+Tue Aug 15 2017,Solihull,3-3,0-2,Barrow
+Tue Aug 15 2017,Sutton,2-1,0-1,Macclesfield
+Tue Aug 15 2017,Torquay,2-4,0-0,Boreham Wood
+Tue Aug 15 2017,Woking,2-1,1-0,Eastleigh
+Tue Aug 15 2017,Wrexham,1-0,0-0,Gateshead
+Sat Aug 19 2017,Boreham Wood,2-1,2-0,Aldershot
+Sat Aug 19 2017,Bromley,2-0,1-0,Hartlepool
+Sat Aug 19 2017,Chester,2-3,1-2,Sutton
+Sat Aug 19 2017,Dover Athletic,1-1,0-0,Barrow
+Sat Aug 19 2017,Eastleigh,2-0,0-0,Tranmere
+Sat Aug 19 2017,Fylde,2-2,1-1,Dag and Red
+Sat Aug 19 2017,Gateshead,3-0,2-0,Macclesfield
+Sat Aug 19 2017,Guiseley,3-2,1-2,Torquay
+Sat Aug 19 2017,Maidenhead,1-1,1-0,Ebbsfleet
+Sat Aug 19 2017,Maidstone,2-1,2-1,Wrexham
+Sat Aug 19 2017,Solihull,0-1,0-1,Halifax
+Sat Aug 19 2017,Woking,0-2,0-0,Leyton Orient
+Fri Aug 25 2017,Macclesfield,1-0,0-0,Dover Athletic
+Sat Aug 26 2017,Aldershot,1-2,1-0,Chester
+Sat Aug 26 2017,Barrow,1-1,0-1,Maidenhead
+Sat Aug 26 2017,Dag and Red,5-1,3-1,Bromley
+Sat Aug 26 2017,Ebbsfleet,0-0,0-0,Gateshead
+Sat Aug 26 2017,Halifax,2-0,1-0,Guiseley
+Sat Aug 26 2017,Hartlepool,0-2,0-1,Fylde
+Sat Aug 26 2017,Leyton Orient,1-1,0-1,Eastleigh
+Sat Aug 26 2017,Sutton,1-3,1-0,Maidstone
+Sat Aug 26 2017,Torquay,1-2,0-0,Solihull
+Sat Aug 26 2017,Tranmere,2-2,0-0,Boreham Wood
+Sat Aug 26 2017,Wrexham,1-0,1-0,Woking
+Mon Aug 28 2017,Boreham Wood,0-1,0-0,Wrexham
+Mon Aug 28 2017,Bromley,0-1,0-1,Sutton
+Mon Aug 28 2017,Chester,0-2,0-1,Macclesfield
+Mon Aug 28 2017,Dover Athletic,1-1,1-0,Ebbsfleet
+Mon Aug 28 2017,Eastleigh,0-0,0-0,Aldershot
+Mon Aug 28 2017,Fylde,1-0,0-0,Barrow
+Mon Aug 28 2017,Gateshead,0-0,0-0,Halifax
+Mon Aug 28 2017,Guiseley,0-1,0-0,Hartlepool
+Mon Aug 28 2017,Maidenhead,0-1,0-1,Leyton Orient
+Mon Aug 28 2017,Maidstone,0-0,0-0,Dag and Red
+Mon Aug 28 2017,Solihull,0-2,0-1,Tranmere
+Mon Aug 28 2017,Woking,4-1,2-1,Torquay
+Sat Sep 2 2017,Aldershot,1-0,1-0,Solihull
+Sat Sep 2 2017,Barrow,2-1,2-1,Boreham Wood
+Sat Sep 2 2017,Dag and Red,3-1,1-1,Gateshead
+Sat Sep 2 2017,Ebbsfleet,2-2,1-1,Eastleigh
+Sat Sep 2 2017,Halifax,2-1,0-0,Fylde
+Sat Sep 2 2017,Hartlepool,3-1,1-0,Maidstone
+Sat Sep 2 2017,Leyton Orient,4-1,2-1,Guiseley
+Sat Sep 2 2017,Macclesfield,1-3,1-2,Woking
+Sat Sep 2 2017,Sutton,0-2,0-0,Maidenhead
+Sat Sep 2 2017,Torquay,1-1,1-0,Chester
+Sat Sep 2 2017,Tranmere,0-1,0-0,Dover Athletic
+Sat Sep 2 2017,Wrexham,2-0,0-0,Bromley
+Tue Sep 5 2017,Solihull,2-0,1-0,Chester
+Sat Sep 9 2017,Aldershot,0-2,0-1,Dover Athletic
+Sat Sep 9 2017,Boreham Wood,2-0,1-0,Leyton Orient
+Sat Sep 9 2017,Chester,1-1,0-0,Ebbsfleet
+Sat Sep 9 2017,Fylde,2-2,0-1,Bromley
+Sat Sep 9 2017,Guiseley,0-0,0-0,Eastleigh
+Sat Sep 9 2017,Halifax,3-2,1-0,Maidenhead
+Sat Sep 9 2017,Hartlepool,1-0,0-0,Dag and Red
+Sat Sep 9 2017,Maidstone,3-1,1-0,Woking
+Sat Sep 9 2017,Solihull,0-1,0-0,Macclesfield
+Sat Sep 9 2017,Sutton,1-1,1-1,Gateshead
+Sat Sep 9 2017,Torquay,0-0,0-0,Wrexham
+Sat Sep 9 2017,Tranmere,1-0,0-0,Barrow
+Tue Sep 12 2017,Barrow,0-0,0-0,Guiseley
+Tue Sep 12 2017,Bromley,3-1,1-1,Torquay
+Tue Sep 12 2017,Dag and Red,1-2,1-1,Sutton
+Tue Sep 12 2017,Dover Athletic,0-1,0-1,Boreham Wood
+Tue Sep 12 2017,Eastleigh,0-1,0-0,Maidstone
+Tue Sep 12 2017,Ebbsfleet,0-2,0-1,Aldershot
+Tue Sep 12 2017,Gateshead,3-2,1-0,Chester
+Tue Sep 12 2017,Leyton Orient,0-3,0-2,Halifax
+Tue Sep 12 2017,Macclesfield,2-1,1-0,Fylde
+Tue Sep 12 2017,Maidenhead,1-0,0-0,Tranmere
+Tue Sep 12 2017,Woking,2-1,1-0,Solihull
+Tue Sep 12 2017,Wrexham,0-0,0-0,Hartlepool
+Sat Sep 16 2017,Barrow,1-1,0-1,Torquay
+Sat Sep 16 2017,Bromley,1-0,0-0,Solihull
+Sat Sep 16 2017,Dag and Red,3-1,3-0,Halifax
+Sat Sep 16 2017,Dover Athletic,4-0,1-0,Chester
+Sat Sep 16 2017,Eastleigh,2-2,1-1,Fylde
+Sat Sep 16 2017,Ebbsfleet,0-0,0-0,Tranmere
+Sat Sep 16 2017,Gateshead,0-1,0-0,Aldershot
+Sat Sep 16 2017,Leyton Orient,1-2,1-1,Hartlepool
+Sat Sep 16 2017,Macclesfield,1-4,0-2,Maidstone
+Sat Sep 16 2017,Maidenhead,2-1,1-0,Boreham Wood
+Sat Sep 16 2017,Woking,2-0,0-0,Sutton
+Sat Sep 16 2017,Wrexham,1-1,0-1,Guiseley
+Sat Sep 23 2017,Aldershot,2-2,2-1,Leyton Orient
+Sat Sep 23 2017,Boreham Wood,0-1,0-0,Ebbsfleet
+Sat Sep 23 2017,Chester,2-0,1-0,Maidenhead
+Sat Sep 23 2017,Fylde,1-2,1-0,Woking
+Sat Sep 23 2017,Guiseley,1-1,1-1,Dover Athletic
+Sat Sep 23 2017,Halifax,2-1,0-0,Bromley
+Sat Sep 23 2017,Hartlepool,1-2,0-0,Eastleigh
+Sat Sep 23 2017,Maidstone,2-2,1-0,Gateshead
+Sat Sep 23 2017,Solihull,2-2,2-1,Dag and Red
+Sat Sep 23 2017,Sutton,3-2,1-1,Barrow
+Sat Sep 23 2017,Torquay,0-1,0-0,Macclesfield
+Sat Sep 23 2017,Tranmere,0-1,0-0,Wrexham
+Sat Sep 30 2017,Barrow,0-1,0-0,Maidstone
+Sat Sep 30 2017,Bromley,0-1,0-0,Tranmere
+Sat Sep 30 2017,Dag and Red,1-0,0-0,Torquay
+Sat Sep 30 2017,Dover Athletic,1-0,0-0,Solihull
+Sat Sep 30 2017,Ebbsfleet,2-0,0-0,Halifax
+Sat Sep 30 2017,Gateshead,1-1,1-0,Boreham Wood
+Sat Sep 30 2017,Leyton Orient,1-2,0-1,Fylde
+Sat Sep 30 2017,Macclesfield,2-0,1-0,Aldershot
+Sat Sep 30 2017,Maidenhead,3-0,3-0,Guiseley
+Sat Sep 30 2017,Woking,1-1,1-1,Hartlepool
+Sat Sep 30 2017,Wrexham,1-1,1-0,Sutton
+Tue Oct 3 2017,Aldershot,1-1,1-0,Dag and Red
+Tue Oct 3 2017,Boreham Wood,1-0,0-0,Eastleigh
+Tue Oct 3 2017,Chester,0-2,0-1,Woking
+Tue Oct 3 2017,Fylde,0-0,0-0,Gateshead
+Tue Oct 3 2017,Guiseley,1-2,1-1,Macclesfield
+Tue Oct 3 2017,Halifax,0-0,0-0,Wrexham
+Tue Oct 3 2017,Hartlepool,1-0,0-0,Barrow
+Tue Oct 3 2017,Maidstone,0-2,0-1,Bromley
+Tue Oct 3 2017,Solihull,1-3,0-2,Ebbsfleet
+Tue Oct 3 2017,Sutton,2-2,0-1,Dover Athletic
+Tue Oct 3 2017,Torquay,4-0,4-0,Maidenhead
+Wed Oct 4 2017,Tranmere,2-1,1-1,Leyton Orient
+Sat Oct 7 2017,Barrow,2-2,2-2,Leyton Orient
+Sat Oct 7 2017,Boreham Wood,1-1,1-0,Halifax
+Sat Oct 7 2017,Gateshead,1-2,0-0,Bromley
+Sat Oct 7 2017,Macclesfield,1-0,1-0,Ebbsfleet
+Sat Oct 7 2017,Maidenhead,3-3,1-2,Aldershot
+Sat Oct 7 2017,Maidstone,1-1,1-0,Guiseley
+Sat Oct 7 2017,Solihull,1-2,0-0,Hartlepool
+Sat Oct 7 2017,Sutton,2-1,2-0,Fylde
+Sat Oct 7 2017,Torquay,0-2,0-1,Dover Athletic
+Sat Oct 7 2017,Tranmere,0-0,0-0,Chester
+Sat Oct 7 2017,Woking,1-0,0-0,Dag and Red
+Sat Oct 7 2017,Wrexham,2-1,0-1,Eastleigh
+Sat Oct 21 2017,Aldershot,2-1,0-1,Tranmere
+Sat Oct 21 2017,Bromley,2-0,2-0,Woking
+Sat Oct 21 2017,Chester,1-2,0-2,Boreham Wood
+Sat Oct 21 2017,Dag and Red,0-1,0-0,Wrexham
+Sat Oct 21 2017,Dover Athletic,1-1,0-0,Maidenhead
+Sat Oct 21 2017,Eastleigh,3-2,1-0,Gateshead
+Sat Oct 21 2017,Ebbsfleet,3-2,1-0,Barrow
+Sat Oct 21 2017,Guiseley,4-2,1-1,Solihull
+Sat Oct 21 2017,Halifax,1-1,0-0,Torquay
+Sat Oct 21 2017,Hartlepool,1-1,1-0,Sutton
+Sat Oct 21 2017,Leyton Orient,0-1,0-1,Macclesfield
+Tue Oct 24 2017,Aldershot,2-2,2-2,Sutton
+Tue Oct 24 2017,Bromley,2-3,2-3,Maidenhead
+Tue Oct 24 2017,Chester,3-2,2-2,Barrow
+Tue Oct 24 2017,Dag and Red,1-0,0-0,Macclesfield
+Tue Oct 24 2017,Dover Athletic,3-1,2-0,Woking
+Tue Oct 24 2017,Eastleigh,1-2,0-1,Solihull
+Tue Oct 24 2017,Ebbsfleet,0-1,0-0,Torquay
+Tue Oct 24 2017,Fylde,2-0,1-0,Wrexham
+Tue Oct 24 2017,Guiseley,0-0,0-0,Boreham Wood
+Tue Oct 24 2017,Halifax,0-2,0-1,Maidstone
+Tue Oct 24 2017,Hartlepool,1-1,0-0,Tranmere
+Tue Oct 24 2017,Leyton Orient,0-2,0-1,Gateshead
+Sat Oct 28 2017,Barrow,3-1,2-0,Aldershot
+Sat Oct 28 2017,Boreham Wood,2-2,2-2,Bromley
+Sat Oct 28 2017,Gateshead,0-0,0-0,Dover Athletic
+Sat Oct 28 2017,Macclesfield,1-2,0-1,Eastleigh
+Sat Oct 28 2017,Maidenhead,1-1,1-0,Dag and Red
+Sat Oct 28 2017,Maidstone,1-0,0-0,Chester
+Sat Oct 28 2017,Solihull,0-4,0-2,Fylde
+Sat Oct 28 2017,Sutton,0-0,0-0,Ebbsfleet
+Sat Oct 28 2017,Torquay,0-2,0-0,Hartlepool
+Sat Oct 28 2017,Tranmere,4-2,2-0,Halifax
+Sat Oct 28 2017,Woking,2-3,1-1,Guiseley
+Sat Oct 28 2017,Wrexham,2-2,1-1,Leyton Orient
+Sat Nov 4 2017,Eastleigh,2-2,1-0,Chester
+Wed Nov 8 2017,Chester,0-1,0-1,Wrexham
+Sat Nov 11 2017,Aldershot,2-1,1-0,Fylde
+Sat Nov 11 2017,Barrow,0-2,0-1,Macclesfield
+Sat Nov 11 2017,Boreham Wood,0-0,0-0,Hartlepool
+Sat Nov 11 2017,Dover Athletic,2-0,1-0,Eastleigh
+Sat Nov 11 2017,Ebbsfleet,2-1,2-0,Leyton Orient
+Sat Nov 11 2017,Guiseley,0-1,0-0,Bromley
+Sat Nov 11 2017,Halifax,0-0,0-0,Woking
+Sat Nov 11 2017,Maidenhead,0-3,0-2,Gateshead
+Sat Nov 11 2017,Solihull,0-2,0-1,Sutton
+Sat Nov 11 2017,Torquay,0-1,0-1,Maidstone
+Sat Nov 11 2017,Tranmere,2-0,2-0,Dag and Red
+Sat Nov 18 2017,Bromley,1-1,1-1,Chester
+Sat Nov 18 2017,Dag and Red,3-2,2-2,Guiseley
+Sat Nov 18 2017,Eastleigh,0-2,0-1,Barrow
+Sat Nov 18 2017,Fylde,2-0,1-0,Torquay
+Sat Nov 18 2017,Gateshead,1-0,0-0,Tranmere
+Sat Nov 18 2017,Hartlepool,0-2,0-1,Aldershot
+Sat Nov 18 2017,Leyton Orient,1-1,0-1,Dover Athletic
+Sat Nov 18 2017,Macclesfield,0-0,0-0,Boreham Wood
+Sat Nov 18 2017,Maidstone,1-1,1-0,Solihull
+Sat Nov 18 2017,Sutton,3-2,1-0,Halifax
+Sat Nov 18 2017,Woking,1-1,1-1,Maidenhead
+Sat Nov 18 2017,Wrexham,2-0,1-0,Ebbsfleet
+Tue Nov 21 2017,Dag and Red,1-0,1-0,Dover Athletic
+Tue Nov 21 2017,Eastleigh,2-2,0-1,Maidenhead
+Tue Nov 21 2017,Gateshead,1-2,1-1,Barrow
+Tue Nov 21 2017,Hartlepool,4-0,3-0,Halifax
+Tue Nov 21 2017,Leyton Orient,2-2,1-2,Chester
+Tue Nov 21 2017,Macclesfield,2-2,1-2,Tranmere
+Tue Nov 21 2017,Maidstone,0-4,0-2,Boreham Wood
+Tue Nov 21 2017,Sutton,0-1,0-1,Torquay
+Tue Nov 21 2017,Woking,1-0,1-0,Ebbsfleet
+Tue Nov 21 2017,Wrexham,1-0,1-0,Solihull
+Sat Nov 25 2017,Aldershot,2-0,2-0,Wrexham
+Sat Nov 25 2017,Barrow,0-3,0-1,Bromley
+Sat Nov 25 2017,Boreham Wood,2-1,1-0,Woking
+Sat Nov 25 2017,Chester,0-4,0-0,Dag and Red
+Sat Nov 25 2017,Dover Athletic,0-1,0-0,Fylde
+Sat Nov 25 2017,Ebbsfleet,3-0,1-0,Hartlepool
+Sat Nov 25 2017,Guiseley,0-2,0-2,Sutton
+Sat Nov 25 2017,Halifax,3-3,1-2,Eastleigh
+Sat Nov 25 2017,Maidenhead,1-1,0-0,Macclesfield
+Sat Nov 25 2017,Solihull,1-1,0-1,Gateshead
+Sat Nov 25 2017,Torquay,3-0,2-0,Leyton Orient
+Sat Nov 25 2017,Tranmere,4-0,2-0,Maidstone
+Tue Nov 28 2017,Bromley,0-2,0-1,Aldershot
+Sat Dec 2 2017,Bromley,2-2,2-0,Dover Athletic
+Sat Dec 2 2017,Halifax,0-1,0-0,Barrow
+Sat Dec 2 2017,Hartlepool,1-2,1-0,Macclesfield
+Sat Dec 2 2017,Solihull,1-0,0-0,Leyton Orient
+Sat Dec 2 2017,Sutton,2-0,1-0,Eastleigh
+Sat Dec 2 2017,Torquay,0-0,0-0,Aldershot
+Sat Dec 2 2017,Wrexham,2-0,1-0,Maidenhead
+Sat Dec 9 2017,Aldershot,0-1,0-1,Halifax
+Sat Dec 9 2017,Barrow,0-1,0-0,Dag and Red
+Sat Dec 9 2017,Boreham Wood,1-0,1-0,Fylde
+Sat Dec 9 2017,Chester,1-0,0-0,Solihull
+Sat Dec 9 2017,Dover Athletic,4-0,2-0,Hartlepool
+Sat Dec 9 2017,Eastleigh,4-4,2-2,Bromley
+Sat Dec 9 2017,Ebbsfleet,4-0,2-0,Guiseley
+Sat Dec 9 2017,Leyton Orient,4-1,1-0,Sutton
+Sat Dec 9 2017,Macclesfield,4-1,1-0,Wrexham
+Sat Dec 9 2017,Maidenhead,0-0,0-0,Maidstone
+Sat Dec 9 2017,Tranmere,3-0,1-0,Torquay
+Tue Dec 12 2017,Torquay,1-1,0-1,Gateshead
+Sat Dec 23 2017,Bromley,1-1,0-1,Macclesfield
+Sat Dec 23 2017,Dag and Red,1-2,1-1,Eastleigh
+Sat Dec 23 2017,Fylde,1-1,0-0,Ebbsfleet
+Sat Dec 23 2017,Guiseley,1-1,1-0,Aldershot
+Sat Dec 23 2017,Halifax,4-0,4-0,Chester
+Sat Dec 23 2017,Hartlepool,1-2,1-0,Maidenhead
+Sat Dec 23 2017,Maidstone,0-2,0-1,Leyton Orient
+Sat Dec 23 2017,Solihull,0-0,0-0,Boreham Wood
+Sat Dec 23 2017,Sutton,1-3,1-2,Tranmere
+Sat Dec 23 2017,Woking,1-2,1-2,Barrow
+Sat Dec 23 2017,Wrexham,0-0,0-0,Dover Athletic
+Tue Dec 26 2017,Aldershot,3-1,2-1,Woking
+Tue Dec 26 2017,Barrow,1-1,1-1,Wrexham
+Tue Dec 26 2017,Boreham Wood,0-4,0-2,Sutton
+Tue Dec 26 2017,Chester,0-2,0-2,Guiseley
+Tue Dec 26 2017,Dover Athletic,2-2,0-2,Maidstone
+Tue Dec 26 2017,Eastleigh,1-1,0-0,Torquay
+Tue Dec 26 2017,Ebbsfleet,2-1,2-1,Bromley
+Tue Dec 26 2017,Gateshead,2-2,1-1,Hartlepool
+Tue Dec 26 2017,Leyton Orient,2-0,0-0,Dag and Red
+Tue Dec 26 2017,Macclesfield,2-1,1-1,Halifax
+Tue Dec 26 2017,Maidenhead,1-0,0-0,Solihull
+Tue Dec 26 2017,Tranmere,4-1,2-0,Fylde
+Sat Dec 30 2017,Aldershot,1-1,0-0,Maidstone
+Sat Dec 30 2017,Barrow,1-2,0-0,Solihull
+Sat Dec 30 2017,Boreham Wood,2-0,1-0,Torquay
+Sat Dec 30 2017,Dover Athletic,0-0,0-0,Halifax
+Sat Dec 30 2017,Eastleigh,2-2,0-0,Woking
+Sat Dec 30 2017,Ebbsfleet,1-1,1-0,Dag and Red
+Sat Dec 30 2017,Leyton Orient,0-1,0-1,Bromley
+Sat Dec 30 2017,Macclesfield,1-0,1-0,Sutton
+Sat Dec 30 2017,Maidenhead,1-2,1-0,Fylde
+Sat Dec 30 2017,Tranmere,4-0,0-0,Guiseley
+Mon Jan 1 2018,Bromley,4-2,3-1,Ebbsfleet
+Mon Jan 1 2018,Dag and Red,0-0,0-0,Leyton Orient
+Mon Jan 1 2018,Fylde,5-2,3-0,Tranmere
+Mon Jan 1 2018,Guiseley,1-1,0-0,Chester
+Mon Jan 1 2018,Halifax,1-4,0-1,Macclesfield
+Mon Jan 1 2018,Hartlepool,2-2,1-1,Gateshead
+Mon Jan 1 2018,Maidstone,2-2,0-1,Dover Athletic
+Mon Jan 1 2018,Solihull,3-1,0-0,Maidenhead
+Mon Jan 1 2018,Sutton,1-1,0-0,Boreham Wood
+Mon Jan 1 2018,Woking,1-2,0-1,Aldershot
+Mon Jan 1 2018,Wrexham,3-3,2-2,Barrow
+Sat Jan 6 2018,Barrow,1-1,1-0,Tranmere
+Sat Jan 6 2018,Bromley,0-1,0-1,Fylde
+Sat Jan 6 2018,Dag and Red,4-2,1-0,Hartlepool
+Sat Jan 6 2018,Dover Athletic,1-2,1-1,Aldershot
+Sat Jan 6 2018,Eastleigh,4-2,2-1,Guiseley
+Sat Jan 6 2018,Ebbsfleet,0-1,0-1,Chester
+Sat Jan 6 2018,Gateshead,0-2,0-0,Sutton
+Sat Jan 6 2018,Leyton Orient,0-0,0-0,Boreham Wood
+Sat Jan 6 2018,Macclesfield,0-0,0-0,Solihull
+Sat Jan 6 2018,Maidenhead,0-0,0-0,Halifax
+Sat Jan 6 2018,Woking,4-4,2-3,Maidstone
+Sat Jan 6 2018,Wrexham,4-0,3-0,Torquay
+Tue Jan 9 2018,Dag and Red,2-3,0-1,Boreham Wood
+Tue Jan 9 2018,Fylde,1-1,0-0,Chester
+Tue Jan 9 2018,Maidstone,1-2,0-0,Ebbsfleet
+Sat Jan 13 2018,Fylde,2-1,1-1,Guiseley
+Sat Jan 13 2018,Torquay,1-2,1-1,Eastleigh
+Sat Jan 13 2018,Woking,0-1,0-1,Tranmere
+Sat Jan 20 2018,Aldershot,0-0,0-0,Ebbsfleet
+Sat Jan 20 2018,Boreham Wood,2-3,0-0,Dover Athletic
+Sat Jan 20 2018,Chester,1-3,0-2,Gateshead
+Sat Jan 20 2018,Fylde,6-0,4-0,Macclesfield
+Sat Jan 20 2018,Hartlepool,0-2,0-0,Wrexham
+Sat Jan 20 2018,Maidstone,2-3,2-1,Eastleigh
+Sat Jan 20 2018,Solihull,3-0,1-0,Woking
+Sat Jan 20 2018,Sutton,2-1,0-0,Dag and Red
+Sat Jan 20 2018,Torquay,0-4,0-1,Bromley
+Sat Jan 20 2018,Tranmere,3-2,1-0,Maidenhead
+Tue Jan 23 2018,Chester,1-1,0-0,Hartlepool
+Tue Jan 23 2018,Fylde,3-0,2-0,Maidstone
+Tue Jan 23 2018,Gateshead,1-1,0-0,Woking
+Sat Jan 27 2018,Bromley,3-0,0-0,Halifax
+Sat Jan 27 2018,Dag and Red,1-3,1-2,Solihull
+Sat Jan 27 2018,Dover Athletic,2-1,1-0,Guiseley
+Sat Jan 27 2018,Eastleigh,4-3,2-2,Hartlepool
+Sat Jan 27 2018,Ebbsfleet,0-3,0-1,Boreham Wood
+Sat Jan 27 2018,Gateshead,2-1,1-1,Maidstone
+Sat Jan 27 2018,Leyton Orient,2-3,1-1,Aldershot
+Sat Jan 27 2018,Macclesfield,1-1,0-0,Torquay
+Sat Jan 27 2018,Maidenhead,3-0,3-0,Chester
+Sat Jan 27 2018,Woking,1-0,0-0,Fylde
+Sat Jan 27 2018,Wrexham,2-2,2-2,Tranmere
+Tue Jan 30 2018,Gateshead,0-0,0-0,Wrexham
+Tue Jan 30 2018,Halifax,1-2,1-2,Leyton Orient
+Sat Feb 3 2018,Fylde,2-2,0-1,Eastleigh
+Sat Feb 3 2018,Guiseley,0-2,0-1,Wrexham
+Sat Feb 3 2018,Torquay,3-1,0-0,Barrow
+Sat Feb 3 2018,Tranmere,3-0,2-0,Ebbsfleet
+Sat Feb 10 2018,Bromley,2-2,2-1,Maidstone
+Sat Feb 10 2018,Dag and Red,0-2,0-1,Aldershot
+Sat Feb 10 2018,Dover Athletic,0-1,0-1,Sutton
+Sat Feb 10 2018,Eastleigh,0-2,0-0,Boreham Wood
+Sat Feb 10 2018,Ebbsfleet,1-0,0-0,Solihull
+Sat Feb 10 2018,Gateshead,1-2,0-2,Fylde
+Sat Feb 10 2018,Leyton Orient,1-1,0-1,Tranmere
+Sat Feb 10 2018,Macclesfield,2-1,0-1,Guiseley
+Sat Feb 10 2018,Maidenhead,1-2,0-1,Torquay
+Sat Feb 10 2018,Woking,1-0,1-0,Chester
+Sat Feb 10 2018,Wrexham,1-1,1-1,Halifax
+Tue Feb 13 2018,Barrow,1-1,1-0,Sutton
+Tue Feb 13 2018,Guiseley,0-1,0-1,Gateshead
+Sat Feb 17 2018,Aldershot,1-2,0-1,Macclesfield
+Sat Feb 17 2018,Boreham Wood,2-1,1-0,Gateshead
+Sat Feb 17 2018,Chester,3-1,2-1,Eastleigh
+Sat Feb 17 2018,Fylde,0-1,0-1,Leyton Orient
+Sat Feb 17 2018,Guiseley,1-3,1-2,Maidenhead
+Sat Feb 17 2018,Halifax,1-2,1-0,Ebbsfleet
+Sat Feb 17 2018,Hartlepool,3-2,3-0,Woking
+Sat Feb 17 2018,Maidstone,0-1,0-1,Barrow
+Sat Feb 17 2018,Solihull,3-2,1-1,Dover Athletic
+Sat Feb 17 2018,Sutton,1-1,0-1,Wrexham
+Sat Feb 17 2018,Torquay,0-3,0-0,Dag and Red
+Sat Feb 17 2018,Tranmere,1-0,1-0,Bromley
+Tue Feb 20 2018,Aldershot,1-1,0-1,Bromley
+Tue Feb 20 2018,Barrow,1-1,1-0,Gateshead
+Tue Feb 20 2018,Boreham Wood,1-0,1-0,Maidstone
+Tue Feb 20 2018,Chester,0-1,0-0,Leyton Orient
+Tue Feb 20 2018,Dover Athletic,1-0,1-0,Dag and Red
+Tue Feb 20 2018,Ebbsfleet,2-1,1-0,Woking
+Tue Feb 20 2018,Guiseley,1-0,0-0,Fylde
+Tue Feb 20 2018,Halifax,2-0,0-0,Hartlepool
+Tue Feb 20 2018,Maidenhead,3-1,1-1,Eastleigh
+Tue Feb 20 2018,Solihull,0-0,0-0,Wrexham
+Tue Feb 20 2018,Torquay,2-3,2-2,Sutton
+Tue Feb 20 2018,Tranmere,1-4,0-1,Macclesfield
+Sat Feb 24 2018,Dag and Red,3-2,1-1,Chester
+Sat Feb 24 2018,Eastleigh,0-0,0-0,Halifax
+Sat Feb 24 2018,Fylde,3-1,0-0,Dover Athletic
+Sat Feb 24 2018,Hartlepool,0-1,0-1,Ebbsfleet
+Sat Feb 24 2018,Macclesfield,1-0,0-0,Maidenhead
+Sat Feb 24 2018,Maidstone,2-3,2-1,Tranmere
+Sat Feb 24 2018,Sutton,4-0,1-0,Guiseley
+Sat Feb 24 2018,Woking,0-0,0-0,Boreham Wood
+Sat Feb 24 2018,Wrexham,2-2,1-1,Aldershot
+Sat Mar 3 2018,Dover Athletic,1-0,0-0,Leyton Orient
+Tue Mar 6 2018,Aldershot,2-1,1-1,Hartlepool
+Tue Mar 6 2018,Chester,0-2,0-0,Dover Athletic
+Tue Mar 6 2018,Sutton,2-0,1-0,Woking
+Sat Mar 10 2018,Bromley,2-1,0-0,Guiseley
+Sat Mar 10 2018,Dag and Red,0-4,0-0,Tranmere
+Sat Mar 10 2018,Fylde,7-1,5-1,Aldershot
+Sat Mar 10 2018,Gateshead,7-1,2-1,Maidenhead
+Sat Mar 10 2018,Hartlepool,0-0,0-0,Boreham Wood
+Sat Mar 10 2018,Leyton Orient,1-1,1-1,Ebbsfleet
+Sat Mar 10 2018,Macclesfield,3-1,1-1,Barrow
+Sat Mar 10 2018,Maidstone,1-0,0-0,Torquay
+Sat Mar 10 2018,Sutton,1-0,1-0,Solihull
+Sat Mar 10 2018,Woking,1-3,0-1,Halifax
+Sun Mar 11 2018,Wrexham,2-0,0-0,Chester
+Tue Mar 13 2018,Boreham Wood,1-1,1-1,Maidenhead
+Tue Mar 13 2018,Gateshead,2-2,0-1,Solihull
+Tue Mar 13 2018,Halifax,2-1,0-1,Dag and Red
+Tue Mar 13 2018,Leyton Orient,0-1,0-1,Torquay
+Sat Mar 17 2018,Boreham Wood,2-1,1-0,Tranmere
+Sat Mar 17 2018,Chester,0-0,0-0,Aldershot
+Sat Mar 17 2018,Dover Athletic,2-0,2-0,Macclesfield
+Sat Mar 17 2018,Eastleigh,0-0,0-0,Leyton Orient
+Sat Mar 17 2018,Fylde,3-3,0-1,Hartlepool
+Sat Mar 17 2018,Guiseley,1-1,1-0,Halifax
+Sat Mar 17 2018,Maidenhead,0-1,0-0,Barrow
+Sat Mar 17 2018,Maidstone,1-0,0-0,Sutton
+Sat Mar 17 2018,Solihull,1-1,0-1,Torquay
+Sat Mar 17 2018,Woking,2-2,1-1,Wrexham
+Tue Mar 20 2018,Solihull,2-0,1-0,Bromley
+Wed Mar 21 2018,Barrow,1-2,1-1,Hartlepool
+Wed Mar 21 2018,Maidstone,2-2,1-0,Macclesfield
+Sat Mar 24 2018,Aldershot,2-0,1-0,Boreham Wood
+Sat Mar 24 2018,Barrow,0-0,0-0,Dover Athletic
+Sat Mar 24 2018,Dag and Red,2-0,2-0,Fylde
+Sat Mar 24 2018,Ebbsfleet,1-1,1-0,Maidenhead
+Sat Mar 24 2018,Halifax,0-0,0-0,Solihull
+Sat Mar 24 2018,Leyton Orient,3-0,2-0,Woking
+Sat Mar 24 2018,Sutton,3-2,2-0,Chester
+Sat Mar 24 2018,Tranmere,3-1,1-0,Eastleigh
+Sat Mar 24 2018,Wrexham,1-0,0-0,Maidstone
+Tue Mar 27 2018,Eastleigh,2-1,0-1,Dover Athletic
+Tue Mar 27 2018,Hartlepool,2-1,1-1,Bromley
+Tue Mar 27 2018,Macclesfield,1-0,0-0,Gateshead
+Fri Mar 30 2018,Boreham Wood,0-0,0-0,Barrow
+Fri Mar 30 2018,Bromley,1-1,0-0,Wrexham
+Fri Mar 30 2018,Chester,0-2,0-1,Torquay
+Fri Mar 30 2018,Fylde,2-0,0-0,Halifax
+Fri Mar 30 2018,Gateshead,0-0,0-0,Dag and Red
+Fri Mar 30 2018,Guiseley,1-3,0-0,Leyton Orient
+Fri Mar 30 2018,Maidstone,1-2,0-1,Hartlepool
+Fri Mar 30 2018,Solihull,0-0,0-0,Aldershot
+Fri Mar 30 2018,Woking,2-3,1-1,Macclesfield
+Mon Apr 2 2018,Aldershot,0-2,0-1,Eastleigh
+Mon Apr 2 2018,Dag and Red,2-1,1-0,Maidstone
+Mon Apr 2 2018,Ebbsfleet,2-1,0-0,Dover Athletic
+Mon Apr 2 2018,Hartlepool,0-1,0-0,Guiseley
+Mon Apr 2 2018,Macclesfield,1-0,0-0,Chester
+Mon Apr 2 2018,Sutton,0-3,0-2,Bromley
+Mon Apr 2 2018,Torquay,2-1,1-0,Woking
+Mon Apr 2 2018,Wrexham,0-1,0-1,Boreham Wood
+Tue Apr 3 2018,Barrow,1-3,1-1,Fylde
+Sat Apr 7 2018,Aldershot,1-0,0-0,Maidenhead
+Sat Apr 7 2018,Bromley,0-0,0-0,Gateshead
+Sat Apr 7 2018,Chester,0-2,0-1,Tranmere
+Sat Apr 7 2018,Dag and Red,1-1,1-0,Woking
+Sat Apr 7 2018,Dover Athletic,1-0,0-0,Torquay
+Sat Apr 7 2018,Eastleigh,1-1,0-1,Wrexham
+Sat Apr 7 2018,Ebbsfleet,2-2,0-1,Macclesfield
+Sat Apr 7 2018,Fylde,2-1,0-1,Sutton
+Sat Apr 7 2018,Guiseley,0-0,0-0,Maidstone
+Sat Apr 7 2018,Halifax,2-1,1-0,Boreham Wood
+Sat Apr 7 2018,Hartlepool,0-1,0-0,Solihull
+Sat Apr 7 2018,Leyton Orient,4-1,1-1,Barrow
+Tue Apr 10 2018,Barrow,3-2,1-0,Eastleigh
+Tue Apr 10 2018,Boreham Wood,0-2,0-1,Macclesfield
+Tue Apr 10 2018,Chester,3-2,1-0,Bromley
+Tue Apr 10 2018,Ebbsfleet,3-0,0-0,Wrexham
+Tue Apr 10 2018,Halifax,2-1,1-0,Sutton
+Tue Apr 10 2018,Maidenhead,2-1,0-0,Woking
+Tue Apr 10 2018,Solihull,1-0,1-0,Maidstone
+Tue Apr 10 2018,Torquay,1-3,1-2,Fylde
+Tue Apr 10 2018,Tranmere,4-2,1-2,Gateshead
+Thu Apr 12 2018,Halifax,2-2,0-1,Gateshead
+Sat Apr 14 2018,Barrow,0-1,0-1,Ebbsfleet
+Sat Apr 14 2018,Boreham Wood,4-2,2-0,Chester
+Sat Apr 14 2018,Gateshead,2-0,1-0,Eastleigh
+Sat Apr 14 2018,Macclesfield,1-1,1-1,Leyton Orient
+Sat Apr 14 2018,Maidenhead,3-2,0-0,Dover Athletic
+Sat Apr 14 2018,Maidstone,1-0,1-0,Fylde
+Sat Apr 14 2018,Solihull,3-1,2-0,Guiseley
+Sat Apr 14 2018,Sutton,1-1,1-1,Hartlepool
+Sat Apr 14 2018,Torquay,1-0,0-0,Halifax
+Sat Apr 14 2018,Tranmere,2-0,0-0,Aldershot
+Sat Apr 14 2018,Woking,0-2,0-1,Bromley
+Sat Apr 14 2018,Wrexham,1-2,1-0,Dag and Red
+Tue Apr 17 2018,Aldershot,1-0,1-0,Gateshead
+Tue Apr 17 2018,Bromley,3-1,0-0,Dag and Red
+Tue Apr 17 2018,Dover Athletic,0-1,0-1,Tranmere
+Tue Apr 17 2018,Eastleigh,0-1,0-0,Ebbsfleet
+Tue Apr 17 2018,Guiseley,0-1,0-0,Barrow
+Tue Apr 17 2018,Hartlepool,1-0,1-0,Leyton Orient
+Tue Apr 17 2018,Maidenhead,2-1,2-0,Sutton
+Thu Apr 19 2018,Guiseley,3-5,3-4,Dag and Red
+Sat Apr 21 2018,Aldershot,1-1,0-0,Barrow
+Sat Apr 21 2018,Bromley,3-2,1-2,Boreham Wood
+Sat Apr 21 2018,Chester,1-3,0-2,Maidstone
+Sat Apr 21 2018,Dag and Red,1-0,1-0,Maidenhead
+Sat Apr 21 2018,Dover Athletic,3-2,1-1,Gateshead
+Sat Apr 21 2018,Eastleigh,0-2,0-1,Macclesfield
+Sat Apr 21 2018,Ebbsfleet,0-1,0-0,Sutton
+Sat Apr 21 2018,Fylde,1-1,0-1,Solihull
+Sat Apr 21 2018,Guiseley,1-2,0-1,Woking
+Sat Apr 21 2018,Halifax,0-2,0-2,Tranmere
+Sat Apr 21 2018,Hartlepool,1-1,1-0,Torquay
+Sat Apr 21 2018,Leyton Orient,1-0,1-0,Wrexham
+Tue Apr 24 2018,Bromley,0-0,0-0,Barrow
+Tue Apr 24 2018,Gateshead,2-5,1-1,Ebbsfleet
+Tue Apr 24 2018,Leyton Orient,0-1,0-1,Maidenhead
+Tue Apr 24 2018,Torquay,3-4,1-2,Guiseley
+Tue Apr 24 2018,Tranmere,1-2,0-1,Solihull
+Sat Apr 28 2018,Barrow,1-2,0-1,Chester
+Sat Apr 28 2018,Boreham Wood,3-1,2-1,Guiseley
+Sat Apr 28 2018,Gateshead,1-3,0-1,Leyton Orient
+Sat Apr 28 2018,Macclesfield,2-0,0-0,Dag and Red
+Sat Apr 28 2018,Maidenhead,5-2,3-1,Bromley
+Sat Apr 28 2018,Maidstone,0-0,0-0,Halifax
+Sat Apr 28 2018,Solihull,1-4,0-1,Eastleigh
+Sat Apr 28 2018,Sutton,2-1,0-0,Aldershot
+Sat Apr 28 2018,Torquay,1-1,0-0,Ebbsfleet
+Sat Apr 28 2018,Tranmere,1-2,0-1,Hartlepool
+Sat Apr 28 2018,Woking,1-2,1-1,Dover Athletic
+Sat Apr 28 2018,Wrexham,0-0,0-0,Fylde

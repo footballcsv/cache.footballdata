@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 12 1995,Birmingham,3-1,?,Ipswich
+Sat Aug 12 1995,Crystal Palace,4-3,?,Barnsley
+Sat Aug 12 1995,Millwall,2-1,?,Grimsby
+Sat Aug 12 1995,Oldham,3-0,?,Huddersfield
+Sat Aug 12 1995,Portsmouth,4-2,?,Southend
+Sat Aug 12 1995,Stoke,1-1,?,Reading
+Sat Aug 12 1995,Sunderland,1-2,?,Leicester
+Sat Aug 12 1995,Tranmere,2-2,?,Wolves
+Sat Aug 12 1995,Watford,2-1,?,Sheffield United
+Sat Aug 12 1995,West Brom,1-0,?,Charlton
+Sun Aug 13 1995,Derby,0-0,?,Port Vale
+Sun Aug 13 1995,Luton,1-3,?,Norwich
+Sat Aug 19 1995,Barnsley,2-1,?,Oldham
+Sat Aug 19 1995,Charlton,3-1,?,Birmingham
+Sat Aug 19 1995,Grimsby,2-1,?,Portsmouth
+Sat Aug 19 1995,Huddersfield,1-0,?,Watford
+Sat Aug 19 1995,Ipswich,1-0,?,Crystal Palace
+Sat Aug 19 1995,Leicester,2-3,?,Stoke
+Sat Aug 19 1995,Norwich,0-0,?,Sunderland
+Sat Aug 19 1995,Port Vale,0-1,?,Millwall
+Sat Aug 19 1995,Reading,3-2,?,Derby
+Sat Aug 19 1995,Sheffield United,0-2,?,Tranmere
+Sat Aug 19 1995,Southend,0-1,?,Luton
+Sun Aug 20 1995,Wolves,1-1,?,West Brom
+Sat Aug 26 1995,Birmingham,3-1,?,Norwich
+Sat Aug 26 1995,Crystal Palace,1-1,?,Charlton
+Sat Aug 26 1995,Derby,1-1,?,Grimsby
+Sat Aug 26 1995,Luton,1-1,?,Leicester
+Sat Aug 26 1995,Millwall,0-0,?,Southend
+Sat Aug 26 1995,Oldham,2-1,?,Sheffield United
+Sat Aug 26 1995,Portsmouth,0-0,?,Reading
+Sat Aug 26 1995,Sunderland,2-0,?,Wolves
+Sat Aug 26 1995,Tranmere,3-1,?,Huddersfield
+Sat Aug 26 1995,Watford,2-3,?,Barnsley
+Sat Aug 26 1995,West Brom,0-0,?,Ipswich
+Sun Aug 27 1995,Stoke,0-1,?,Port Vale
+Tue Aug 29 1995,Barnsley,2-1,?,Tranmere
+Tue Aug 29 1995,Charlton,2-1,?,Watford
+Tue Aug 29 1995,Grimsby,0-0,?,Luton
+Tue Aug 29 1995,Reading,1-2,?,Millwall
+Tue Aug 29 1995,Sheffield United,2-3,?,Crystal Palace
+Tue Aug 29 1995,Southend,2-1,?,West Brom
+Wed Aug 30 1995,Huddersfield,4-2,?,Birmingham
+Wed Aug 30 1995,Ipswich,4-1,?,Stoke
+Wed Aug 30 1995,Leicester,4-2,?,Portsmouth
+Wed Aug 30 1995,Norwich,2-1,?,Oldham
+Wed Aug 30 1995,Port Vale,1-1,?,Sunderland
+Wed Aug 30 1995,Wolves,3-0,?,Derby
+Fri Sep 1 1995,Southend,0-0,?,Reading
+Sat Sep 2 1995,Barnsley,0-5,?,Birmingham
+Sat Sep 2 1995,Charlton,2-1,?,Huddersfield
+Sat Sep 2 1995,Grimsby,0-0,?,Watford
+Sat Sep 2 1995,Ipswich,3-0,?,Sunderland
+Sat Sep 2 1995,Leicester,1-0,?,Wolves
+Sat Sep 2 1995,Luton,1-2,?,Derby
+Sat Sep 2 1995,Norwich,2-1,?,Port Vale
+Sat Sep 2 1995,Portsmouth,0-1,?,Millwall
+Sat Sep 2 1995,Stoke,0-1,?,Oldham
+Sat Sep 2 1995,West Brom,3-1,?,Sheffield United
+Sat Sep 9 1995,Birmingham,0-0,?,Crystal Palace
+Sat Sep 9 1995,Huddersfield,2-1,?,Ipswich
+Sat Sep 9 1995,Millwall,0-1,?,Barnsley
+Sat Sep 9 1995,Oldham,1-2,?,West Brom
+Sat Sep 9 1995,Port Vale,0-2,?,Portsmouth
+Sat Sep 9 1995,Reading,3-1,?,Luton
+Sat Sep 9 1995,Sheffield United,2-1,?,Norwich
+Sat Sep 9 1995,Sunderland,1-0,?,Southend
+Sat Sep 9 1995,Tranmere,0-0,?,Charlton
+Sat Sep 9 1995,Watford,3-0,?,Stoke
+Sat Sep 9 1995,Wolves,4-1,?,Grimsby
+Sun Sep 10 1995,Derby,0-1,?,Leicester
+Tue Sep 12 1995,Birmingham,1-1,?,Stoke
+Tue Sep 12 1995,Huddersfield,3-0,?,Barnsley
+Tue Sep 12 1995,Oldham,1-1,?,Ipswich
+Tue Sep 12 1995,Port Vale,0-2,?,Leicester
+Tue Sep 12 1995,Reading,0-2,?,Grimsby
+Tue Sep 12 1995,Sheffield United,2-0,?,Charlton
+Tue Sep 12 1995,Sunderland,1-1,?,Portsmouth
+Tue Sep 12 1995,Tranmere,2-2,?,West Brom
+Tue Sep 12 1995,Watford,0-0,?,Crystal Palace
+Wed Sep 13 1995,Derby,1-0,?,Southend
+Wed Sep 13 1995,Millwall,1-0,?,Luton
+Wed Sep 13 1995,Wolves,0-2,?,Norwich
+Sat Sep 16 1995,Charlton,1-1,?,Oldham
+Sat Sep 16 1995,Crystal Palace,0-0,?,Huddersfield
+Sat Sep 16 1995,Grimsby,1-0,?,Port Vale
+Sat Sep 16 1995,Ipswich,4-2,?,Watford
+Sat Sep 16 1995,Leicester,1-1,?,Reading
+Sat Sep 16 1995,Luton,0-2,?,Sunderland
+Sat Sep 16 1995,Norwich,0-0,?,Millwall
+Sat Sep 16 1995,Portsmouth,2-2,?,Derby
+Sat Sep 16 1995,Southend,2-1,?,Wolves
+Sat Sep 16 1995,Stoke,0-0,?,Tranmere
+Sun Sep 17 1995,Barnsley,2-2,?,Sheffield United
+Sun Sep 17 1995,West Brom,1-0,?,Birmingham
+Sat Sep 23 1995,Barnsley,2-0,?,Derby
+Sat Sep 23 1995,Grimsby,2-2,?,Norwich
+Sat Sep 23 1995,Ipswich,1-5,?,Charlton
+Sat Sep 23 1995,Leicester,1-3,?,Southend
+Sat Sep 23 1995,Millwall,1-2,?,Sunderland
+Sat Sep 23 1995,Oldham,3-1,?,Crystal Palace
+Sat Sep 23 1995,Portsmouth,0-2,?,Tranmere
+Sat Sep 23 1995,Reading,2-2,?,Port Vale
+Sat Sep 23 1995,Watford,1-1,?,Birmingham
+Sat Sep 23 1995,Wolves,0-0,?,Luton
+Sun Sep 24 1995,Huddersfield,1-2,?,Sheffield United
+Sun Sep 24 1995,Stoke,2-1,?,West Brom
+Sat Sep 30 1995,Birmingham,0-0,?,Oldham
+Sat Sep 30 1995,Charlton,1-1,?,Barnsley
+Sat Sep 30 1995,Crystal Palace,1-1,?,Stoke
+Sat Sep 30 1995,Luton,3-1,?,Portsmouth
+Sat Sep 30 1995,Norwich,0-1,?,Leicester
+Sat Sep 30 1995,Port Vale,2-2,?,Wolves
+Sat Sep 30 1995,Sheffield United,2-2,?,Ipswich
+Sat Sep 30 1995,Southend,1-0,?,Grimsby
+Sat Sep 30 1995,Sunderland,2-2,?,Reading
+Sat Sep 30 1995,Tranmere,2-3,?,Watford
+Sat Sep 30 1995,West Brom,1-2,?,Huddersfield
+Sun Oct 1 1995,Derby,2-2,?,Millwall
+Sat Oct 7 1995,Barnsley,2-2,?,Leicester
+Sat Oct 7 1995,Charlton,0-1,?,Grimsby
+Sat Oct 7 1995,Crystal Palace,0-1,?,Sunderland
+Sat Oct 7 1995,Huddersfield,0-2,?,Port Vale
+Sat Oct 7 1995,Ipswich,1-2,?,Wolves
+Sat Oct 7 1995,Oldham,1-1,?,Portsmouth
+Sat Oct 7 1995,Sheffield United,0-2,?,Derby
+Sat Oct 7 1995,Stoke,1-1,?,Norwich
+Sat Oct 7 1995,Tranmere,1-0,?,Luton
+Sat Oct 7 1995,Watford,0-1,?,Millwall
+Sat Oct 7 1995,West Brom,2-0,?,Reading
+Sun Oct 8 1995,Birmingham,2-0,?,Southend
+Sat Oct 14 1995,Derby,1-1,?,Ipswich
+Sat Oct 14 1995,Grimsby,1-1,?,Oldham
+Sat Oct 14 1995,Leicester,1-1,?,Charlton
+Sat Oct 14 1995,Luton,1-2,?,West Brom
+Sat Oct 14 1995,Millwall,2-2,?,Tranmere
+Sat Oct 14 1995,Norwich,3-1,?,Barnsley
+Sat Oct 14 1995,Portsmouth,0-1,?,Birmingham
+Sat Oct 14 1995,Reading,3-1,?,Huddersfield
+Sat Oct 14 1995,Southend,2-1,?,Sheffield United
+Sat Oct 14 1995,Sunderland,1-1,?,Watford
+Sat Oct 14 1995,Wolves,1-4,?,Stoke
+Sun Oct 15 1995,Port Vale,1-2,?,Crystal Palace
+Sat Oct 21 1995,Barnsley,1-1,?,Port Vale
+Sat Oct 21 1995,Birmingham,3-1,?,Grimsby
+Sat Oct 21 1995,Charlton,1-1,?,Norwich
+Sat Oct 21 1995,Huddersfield,1-1,?,Sunderland
+Sat Oct 21 1995,Oldham,2-1,?,Reading
+Sat Oct 21 1995,Sheffield United,1-3,?,Leicester
+Sat Oct 21 1995,Tranmere,3-0,?,Southend
+Sat Oct 21 1995,Watford,1-1,?,Wolves
+Sat Oct 21 1995,West Brom,2-1,?,Portsmouth
+Sun Oct 22 1995,Crystal Palace,1-2,?,Millwall
+Sun Oct 22 1995,Ipswich,0-1,?,Luton
+Sun Oct 22 1995,Stoke,1-1,?,Derby
+Sat Oct 28 1995,Derby,2-1,?,Oldham
+Sat Oct 28 1995,Grimsby,1-0,?,Stoke
+Sat Oct 28 1995,Leicester,2-3,?,Crystal Palace
+Sat Oct 28 1995,Millwall,2-1,?,West Brom
+Sat Oct 28 1995,Portsmouth,4-2,?,Watford
+Sat Oct 28 1995,Reading,1-4,?,Ipswich
+Sat Oct 28 1995,Southend,0-0,?,Huddersfield
+Sat Oct 28 1995,Sunderland,2-1,?,Barnsley
+Sat Oct 28 1995,Wolves,1-0,?,Sheffield United
+Sun Oct 29 1995,Luton,0-1,?,Charlton
+Sun Oct 29 1995,Norwich,1-1,?,Tranmere
+Sun Oct 29 1995,Port Vale,1-2,?,Birmingham
+Sat Nov 4 1995,Barnsley,1-0,?,Wolves
+Sat Nov 4 1995,Birmingham,2-2,?,Millwall
+Sat Nov 4 1995,Crystal Palace,0-2,?,Reading
+Sat Nov 4 1995,Huddersfield,3-2,?,Norwich
+Sat Nov 4 1995,Ipswich,2-2,?,Grimsby
+Sat Nov 4 1995,Sheffield United,4-1,?,Portsmouth
+Sat Nov 4 1995,Stoke,5-0,?,Luton
+Sat Nov 4 1995,Tranmere,5-1,?,Derby
+Sat Nov 4 1995,Watford,2-2,?,Southend
+Sun Nov 5 1995,Charlton,1-1,?,Sunderland
+Sun Nov 5 1995,Oldham,2-2,?,Port Vale
+Sun Nov 5 1995,West Brom,2-3,?,Leicester
+Sat Nov 11 1995,Derby,3-0,?,West Brom
+Sat Nov 11 1995,Grimsby,3-1,?,Barnsley
+Sat Nov 11 1995,Leicester,1-0,?,Watford
+Sat Nov 11 1995,Luton,1-1,?,Oldham
+Sat Nov 11 1995,Millwall,2-1,?,Ipswich
+Sat Nov 11 1995,Norwich,1-0,?,Crystal Palace
+Sat Nov 11 1995,Port Vale,2-3,?,Sheffield United
+Sat Nov 11 1995,Portsmouth,1-1,?,Huddersfield
+Sat Nov 11 1995,Reading,0-1,?,Birmingham
+Sat Nov 11 1995,Southend,2-4,?,Stoke
+Sun Nov 12 1995,Wolves,0-0,?,Charlton
+Sat Nov 18 1995,Derby,2-0,?,Charlton
+Sat Nov 18 1995,Grimsby,1-0,?,West Brom
+Sat Nov 18 1995,Luton,0-0,?,Birmingham
+Sat Nov 18 1995,Millwall,0-0,?,Huddersfield
+Sat Nov 18 1995,Port Vale,1-1,?,Watford
+Sat Nov 18 1995,Portsmouth,3-3,?,Stoke
+Sat Nov 18 1995,Reading,0-0,?,Barnsley
+Sat Nov 18 1995,Sunderland,2-0,?,Sheffield United
+Sat Nov 18 1995,Wolves,1-3,?,Oldham
+Sun Nov 19 1995,Leicester,0-1,?,Tranmere
+Sun Nov 19 1995,Norwich,2-1,?,Ipswich
+Sun Nov 19 1995,Southend,1-1,?,Crystal Palace
+Tue Nov 21 1995,Barnsley,0-0,?,Portsmouth
+Tue Nov 21 1995,Birmingham,1-4,?,Derby
+Tue Nov 21 1995,Charlton,2-1,?,Reading
+Tue Nov 21 1995,Huddersfield,3-1,?,Leicester
+Tue Nov 21 1995,Oldham,2-2,?,Millwall
+Tue Nov 21 1995,Sheffield United,1-2,?,Grimsby
+Tue Nov 21 1995,Watford,1-1,?,Luton
+Tue Nov 21 1995,West Brom,1-4,?,Norwich
+Wed Nov 22 1995,Crystal Palace,3-2,?,Wolves
+Wed Nov 22 1995,Ipswich,1-1,?,Southend
+Wed Nov 22 1995,Stoke,1-0,?,Sunderland
+Wed Nov 22 1995,Tranmere,2-1,?,Port Vale
+Sat Nov 25 1995,Barnsley,1-0,?,Luton
+Sat Nov 25 1995,Charlton,2-2,?,Port Vale
+Sat Nov 25 1995,Crystal Palace,0-0,?,Derby
+Sat Nov 25 1995,Huddersfield,2-1,?,Wolves
+Sat Nov 25 1995,Ipswich,3-2,?,Portsmouth
+Sat Nov 25 1995,Oldham,0-1,?,Southend
+Sat Nov 25 1995,Sheffield United,0-0,?,Reading
+Sat Nov 25 1995,Stoke,1-0,?,Millwall
+Sat Nov 25 1995,Tranmere,0-1,?,Grimsby
+Sat Nov 25 1995,West Brom,0-1,?,Sunderland
+Sun Nov 26 1995,Birmingham,2-2,?,Leicester
+Sun Nov 26 1995,Watford,0-2,?,Norwich
+Sat Dec 2 1995,Derby,4-2,?,Sheffield United
+Sat Dec 2 1995,Grimsby,1-2,?,Charlton
+Sat Dec 2 1995,Leicester,2-2,?,Barnsley
+Sat Dec 2 1995,Luton,3-2,?,Tranmere
+Sat Dec 2 1995,Millwall,1-2,?,Watford
+Sat Dec 2 1995,Norwich,0-1,?,Stoke
+Sat Dec 2 1995,Port Vale,1-0,?,Huddersfield
+Sat Dec 2 1995,Portsmouth,2-1,?,Oldham
+Sat Dec 2 1995,Reading,3-1,?,West Brom
+Sat Dec 2 1995,Southend,3-1,?,Birmingham
+Sun Dec 3 1995,Sunderland,1-0,?,Crystal Palace
+Sun Dec 3 1995,Wolves,2-2,?,Ipswich
+Tue Dec 5 1995,Millwall,0-2,?,Charlton
+Sat Dec 9 1995,Birmingham,1-0,?,Watford
+Sat Dec 9 1995,Charlton,0-2,?,Ipswich
+Sat Dec 9 1995,Crystal Palace,2-2,?,Oldham
+Sat Dec 9 1995,Derby,4-1,?,Barnsley
+Sat Dec 9 1995,Norwich,2-2,?,Grimsby
+Sat Dec 9 1995,Port Vale,3-2,?,Reading
+Sat Dec 9 1995,Sheffield United,0-2,?,Huddersfield
+Sat Dec 9 1995,Southend,2-1,?,Leicester
+Sat Dec 9 1995,Sunderland,6-0,?,Millwall
+Sat Dec 9 1995,Tranmere,1-2,?,Portsmouth
+Sat Dec 9 1995,West Brom,0-1,?,Stoke
+Sun Dec 10 1995,Luton,2-3,?,Wolves
+Sat Dec 16 1995,Barnsley,1-2,?,Charlton
+Sat Dec 16 1995,Grimsby,1-1,?,Southend
+Sat Dec 16 1995,Huddersfield,4-1,?,West Brom
+Sat Dec 16 1995,Ipswich,1-1,?,Sheffield United
+Sat Dec 16 1995,Millwall,0-1,?,Derby
+Sat Dec 16 1995,Oldham,4-0,?,Birmingham
+Sat Dec 16 1995,Portsmouth,4-0,?,Luton
+Sat Dec 16 1995,Reading,1-1,?,Sunderland
+Sat Dec 16 1995,Stoke,1-2,?,Crystal Palace
+Sat Dec 16 1995,Watford,3-0,?,Tranmere
+Sat Dec 16 1995,Wolves,0-1,?,Port Vale
+Sun Dec 17 1995,Leicester,3-2,?,Norwich
+Wed Dec 20 1995,Southend,2-1,?,Port Vale
+Fri Dec 22 1995,Ipswich,2-2,?,Barnsley
+Sat Dec 23 1995,Birmingham,1-0,?,Tranmere
+Sat Dec 23 1995,Derby,3-1,?,Sunderland
+Sat Dec 23 1995,Grimsby,2-2,?,Leicester
+Sat Dec 23 1995,Luton,2-2,?,Huddersfield
+Sat Dec 23 1995,Oldham,0-0,?,Watford
+Sat Dec 23 1995,Portsmouth,1-0,?,Norwich
+Sat Dec 23 1995,Stoke,2-2,?,Sheffield United
+Sat Dec 23 1995,West Brom,2-3,?,Crystal Palace
+Tue Dec 26 1995,Barnsley,3-1,?,Stoke
+Tue Dec 26 1995,Charlton,2-1,?,Portsmouth
+Tue Dec 26 1995,Huddersfield,0-1,?,Derby
+Tue Dec 26 1995,Norwich,0-1,?,Southend
+Tue Dec 26 1995,Port Vale,3-1,?,West Brom
+Tue Dec 26 1995,Sheffield United,1-1,?,Birmingham
+Tue Dec 26 1995,Tranmere,2-0,?,Oldham
+Tue Dec 26 1995,Wolves,1-1,?,Millwall
+Sat Dec 30 1995,Huddersfield,1-1,?,Stoke
+Sat Dec 30 1995,Norwich,3-3,?,Reading
+Sat Dec 30 1995,Wolves,2-2,?,Portsmouth
+Mon Jan 1 1996,Derby,2-1,?,Norwich
+Mon Jan 1 1996,Grimsby,1-1,?,Huddersfield
+Mon Jan 1 1996,Ipswich,5-1,?,Port Vale
+Mon Jan 1 1996,Millwall,1-1,?,Leicester
+Mon Jan 1 1996,Portsmouth,2-3,?,Crystal Palace
+Mon Jan 1 1996,Reading,1-0,?,Tranmere
+Mon Jan 1 1996,Southend,0-0,?,Barnsley
+Sat Jan 13 1996,Crystal Palace,1-1,?,Ipswich
+Sat Jan 13 1996,Derby,3-0,?,Reading
+Sat Jan 13 1996,Luton,3-1,?,Southend
+Sat Jan 13 1996,Millwall,1-2,?,Port Vale
+Sat Jan 13 1996,Oldham,0-1,?,Barnsley
+Sat Jan 13 1996,Portsmouth,3-1,?,Grimsby
+Sat Jan 13 1996,Stoke,1-0,?,Leicester
+Sat Jan 13 1996,Tranmere,1-1,?,Sheffield United
+Sat Jan 13 1996,Watford,0-1,?,Huddersfield
+Sat Jan 13 1996,West Brom,0-0,?,Wolves
+Sun Jan 14 1996,Birmingham,3-4,?,Charlton
+Sun Jan 14 1996,Sunderland,0-1,?,Norwich
+Sat Jan 20 1996,Barnsley,1-1,?,Crystal Palace
+Sat Jan 20 1996,Charlton,4-1,?,West Brom
+Sat Jan 20 1996,Grimsby,1-2,?,Millwall
+Sat Jan 20 1996,Huddersfield,0-0,?,Oldham
+Sat Jan 20 1996,Ipswich,2-0,?,Birmingham
+Sat Jan 20 1996,Norwich,0-1,?,Luton
+Sat Jan 20 1996,Port Vale,1-1,?,Derby
+Sat Jan 20 1996,Reading,1-0,?,Stoke
+Sat Jan 20 1996,Sheffield United,1-1,?,Watford
+Sat Jan 20 1996,Southend,2-1,?,Portsmouth
+Sat Jan 20 1996,Wolves,2-1,?,Tranmere
+Sun Jan 21 1996,Leicester,0-0,?,Sunderland
+Wed Jan 24 1996,Sunderland,1-0,?,Grimsby
+Sat Jan 27 1996,Millwall,1-1,?,Portsmouth
+Tue Jan 30 1996,Sunderland,0-0,?,Tranmere
+Wed Jan 31 1996,Luton,1-0,?,Sheffield United
+Sat Feb 3 1996,Barnsley,2-1,?,Watford
+Sat Feb 3 1996,Grimsby,1-1,?,Derby
+Sat Feb 3 1996,Huddersfield,1-0,?,Tranmere
+Sat Feb 3 1996,Ipswich,2-1,?,West Brom
+Sat Feb 3 1996,Leicester,1-1,?,Luton
+Sat Feb 3 1996,Sheffield United,2-1,?,Oldham
+Sat Feb 3 1996,Southend,2-0,?,Millwall
+Sat Feb 3 1996,Wolves,3-0,?,Sunderland
+Sun Feb 4 1996,Charlton,0-0,?,Crystal Palace
+Sun Feb 4 1996,Norwich,1-1,?,Birmingham
+Sun Feb 4 1996,Reading,0-1,?,Portsmouth
+Sat Feb 10 1996,Crystal Palace,0-0,?,Sheffield United
+Sat Feb 10 1996,Derby,0-0,?,Wolves
+Sat Feb 10 1996,Luton,3-2,?,Grimsby
+Sat Feb 10 1996,Millwall,1-1,?,Reading
+Sat Feb 10 1996,Oldham,2-0,?,Norwich
+Sat Feb 10 1996,Portsmouth,2-1,?,Leicester
+Sat Feb 10 1996,Stoke,3-1,?,Ipswich
+Sat Feb 10 1996,Sunderland,0-0,?,Port Vale
+Sat Feb 10 1996,Tranmere,1-3,?,Barnsley
+Sat Feb 10 1996,Watford,1-2,?,Charlton
+Sat Feb 10 1996,West Brom,3-1,?,Southend
+Tue Feb 13 1996,Sheffield United,2-0,?,Millwall
+Sat Feb 17 1996,Charlton,1-1,?,Sheffield United
+Sat Feb 17 1996,Crystal Palace,4-0,?,Watford
+Sat Feb 17 1996,Grimsby,0-0,?,Reading
+Sat Feb 17 1996,Leicester,1-1,?,Port Vale
+Sat Feb 17 1996,Luton,1-0,?,Millwall
+Sat Feb 17 1996,Norwich,2-3,?,Wolves
+Sat Feb 17 1996,Portsmouth,2-2,?,Sunderland
+Sat Feb 17 1996,Southend,1-2,?,Derby
+Sat Feb 17 1996,Stoke,1-0,?,Birmingham
+Sat Feb 17 1996,West Brom,1-1,?,Tranmere
+Tue Feb 20 1996,Birmingham,0-0,?,Barnsley
+Tue Feb 20 1996,Huddersfield,2-2,?,Charlton
+Tue Feb 20 1996,Sheffield United,1-2,?,West Brom
+Tue Feb 20 1996,Sunderland,1-0,?,Ipswich
+Tue Feb 20 1996,Tranmere,2-3,?,Crystal Palace
+Wed Feb 21 1996,Derby,1-1,?,Luton
+Wed Feb 21 1996,Wolves,2-3,?,Leicester
+Sat Feb 24 1996,Derby,3-2,?,Portsmouth
+Sat Feb 24 1996,Huddersfield,2-0,?,Crystal Palace
+Sat Feb 24 1996,Millwall,2-1,?,Norwich
+Sat Feb 24 1996,Oldham,1-1,?,Charlton
+Sat Feb 24 1996,Reading,1-1,?,Leicester
+Sat Feb 24 1996,Sheffield United,1-0,?,Barnsley
+Sat Feb 24 1996,Sunderland,1-0,?,Luton
+Sat Feb 24 1996,Tranmere,0-0,?,Stoke
+Sat Feb 24 1996,Watford,2-3,?,Ipswich
+Sat Feb 24 1996,Wolves,2-0,?,Southend
+Tue Feb 27 1996,Barnsley,3-1,?,Millwall
+Tue Feb 27 1996,Crystal Palace,3-2,?,Birmingham
+Tue Feb 27 1996,Luton,1-2,?,Reading
+Tue Feb 27 1996,Southend,0-2,?,Sunderland
+Tue Feb 27 1996,West Brom,1-0,?,Oldham
+Wed Feb 28 1996,Leicester,0-0,?,Derby
+Wed Feb 28 1996,Norwich,0-0,?,Sheffield United
+Wed Feb 28 1996,Stoke,2-0,?,Watford
+Sat Mar 2 1996,Birmingham,0-1,?,Sheffield United
+Sat Mar 2 1996,Derby,3-2,?,Huddersfield
+Sat Mar 2 1996,Luton,0-0,?,Crystal Palace
+Sat Mar 2 1996,Millwall,0-1,?,Wolves
+Sat Mar 2 1996,Portsmouth,2-1,?,Charlton
+Sat Mar 2 1996,Reading,0-0,?,Watford
+Sat Mar 2 1996,Southend,1-1,?,Norwich
+Sat Mar 2 1996,Stoke,2-0,?,Barnsley
+Sat Mar 2 1996,West Brom,1-1,?,Port Vale
+Sun Mar 3 1996,Grimsby,0-4,?,Sunderland
+Sun Mar 3 1996,Ipswich,4-2,?,Leicester
+Sun Mar 3 1996,Oldham,1-2,?,Tranmere
+Tue Mar 5 1996,Birmingham,2-0,?,Wolves
+Tue Mar 5 1996,Charlton,0-3,?,Southend
+Tue Mar 5 1996,Crystal Palace,5-0,?,Grimsby
+Tue Mar 5 1996,Watford,0-0,?,Derby
+Sat Mar 9 1996,Barnsley,3-3,?,Ipswich
+Sat Mar 9 1996,Charlton,2-0,?,Millwall
+Sat Mar 9 1996,Crystal Palace,1-0,?,West Brom
+Sat Mar 9 1996,Huddersfield,1-0,?,Luton
+Sat Mar 9 1996,Leicester,2-1,?,Grimsby
+Sat Mar 9 1996,Norwich,1-1,?,Portsmouth
+Sat Mar 9 1996,Port Vale,2-1,?,Southend
+Sat Mar 9 1996,Sheffield United,0-0,?,Stoke
+Sat Mar 9 1996,Sunderland,3-0,?,Derby
+Sat Mar 9 1996,Tranmere,2-2,?,Birmingham
+Sat Mar 9 1996,Watford,2-1,?,Oldham
+Sat Mar 9 1996,Wolves,1-1,?,Reading
+Tue Mar 12 1996,Birmingham,2-0,?,Huddersfield
+Tue Mar 12 1996,Crystal Palace,2-1,?,Tranmere
+Tue Mar 12 1996,Grimsby,3-0,?,Wolves
+Tue Mar 12 1996,Oldham,1-2,?,Sunderland
+Tue Mar 12 1996,Port Vale,1-0,?,Stoke
+Tue Mar 12 1996,West Brom,4-4,?,Watford
+Wed Mar 13 1996,Leicester,0-2,?,Ipswich
+Sat Mar 16 1996,Derby,1-1,?,Watford
+Sat Mar 16 1996,Grimsby,0-2,?,Crystal Palace
+Sat Mar 16 1996,Ipswich,1-2,?,Tranmere
+Sat Mar 16 1996,Millwall,1-0,?,Sheffield United
+Sat Mar 16 1996,Oldham,3-1,?,Leicester
+Sat Mar 16 1996,Portsmouth,0-2,?,Wolves
+Sat Mar 16 1996,Reading,0-3,?,Norwich
+Sat Mar 16 1996,Southend,1-1,?,Charlton
+Sat Mar 16 1996,Stoke,1-1,?,Huddersfield
+Sat Mar 16 1996,West Brom,2-1,?,Barnsley
+Sun Mar 17 1996,Birmingham,0-2,?,Sunderland
+Tue Mar 19 1996,Barnsley,3-0,?,Huddersfield
+Tue Mar 19 1996,Crystal Palace,2-0,?,Luton
+Tue Mar 19 1996,Ipswich,2-1,?,Oldham
+Tue Mar 19 1996,Reading,3-3,?,Southend
+Wed Mar 20 1996,Birmingham,1-1,?,West Brom
+Wed Mar 20 1996,Port Vale,1-0,?,Norwich
+Sat Mar 23 1996,Barnsley,1-1,?,Southend
+Sat Mar 23 1996,Charlton,2-1,?,Stoke
+Sat Mar 23 1996,Crystal Palace,0-0,?,Portsmouth
+Sat Mar 23 1996,Leicester,2-1,?,Millwall
+Sat Mar 23 1996,Norwich,1-0,?,Derby
+Sat Mar 23 1996,Port Vale,2-1,?,Ipswich
+Sat Mar 23 1996,Sheffield United,1-0,?,Luton
+Sat Mar 23 1996,Sunderland,1-0,?,Oldham
+Sat Mar 23 1996,Tranmere,2-1,?,Reading
+Sat Mar 23 1996,Watford,1-1,?,West Brom
+Sat Mar 23 1996,Wolves,3-2,?,Birmingham
+Sun Mar 24 1996,Huddersfield,1-3,?,Grimsby
+Wed Mar 27 1996,Portsmouth,1-2,?,Port Vale
+Sat Mar 30 1996,Derby,3-1,?,Stoke
+Sat Mar 30 1996,Grimsby,2-1,?,Birmingham
+Sat Mar 30 1996,Leicester,0-2,?,Sheffield United
+Sat Mar 30 1996,Luton,1-2,?,Ipswich
+Sat Mar 30 1996,Millwall,1-4,?,Crystal Palace
+Sat Mar 30 1996,Norwich,0-1,?,Charlton
+Sat Mar 30 1996,Port Vale,3-0,?,Barnsley
+Sat Mar 30 1996,Portsmouth,0-2,?,West Brom
+Sat Mar 30 1996,Reading,2-0,?,Oldham
+Sat Mar 30 1996,Southend,2-0,?,Tranmere
+Sat Mar 30 1996,Sunderland,3-2,?,Huddersfield
+Sat Mar 30 1996,Wolves,3-0,?,Watford
+Tue Apr 2 1996,Barnsley,2-2,?,Norwich
+Tue Apr 2 1996,Birmingham,2-0,?,Portsmouth
+Tue Apr 2 1996,Charlton,0-1,?,Leicester
+Tue Apr 2 1996,Crystal Palace,2-2,?,Port Vale
+Tue Apr 2 1996,Huddersfield,3-1,?,Reading
+Tue Apr 2 1996,Ipswich,1-0,?,Derby
+Tue Apr 2 1996,Oldham,1-0,?,Grimsby
+Tue Apr 2 1996,Sheffield United,3-0,?,Southend
+Tue Apr 2 1996,Tranmere,2-2,?,Millwall
+Tue Apr 2 1996,Watford,3-3,?,Sunderland
+Tue Apr 2 1996,West Brom,0-2,?,Luton
+Wed Apr 3 1996,Stoke,2-0,?,Wolves
+Fri Apr 5 1996,Charlton,1-1,?,Luton
+Sat Apr 6 1996,Barnsley,0-1,?,Sunderland
+Sat Apr 6 1996,Birmingham,3-1,?,Port Vale
+Sat Apr 6 1996,Crystal Palace,0-1,?,Leicester
+Sat Apr 6 1996,Huddersfield,3-1,?,Southend
+Sat Apr 6 1996,Ipswich,1-2,?,Reading
+Sat Apr 6 1996,Oldham,0-1,?,Derby
+Sat Apr 6 1996,Sheffield United,2-1,?,Wolves
+Sat Apr 6 1996,Stoke,1-2,?,Grimsby
+Sat Apr 6 1996,Tranmere,1-1,?,Norwich
+Sat Apr 6 1996,Watford,1-2,?,Portsmouth
+Sat Apr 6 1996,West Brom,1-0,?,Millwall
+Mon Apr 8 1996,Derby,6-2,?,Tranmere
+Mon Apr 8 1996,Grimsby,3-1,?,Ipswich
+Mon Apr 8 1996,Norwich,2-0,?,Huddersfield
+Mon Apr 8 1996,Port Vale,1-3,?,Oldham
+Mon Apr 8 1996,Portsmouth,1-2,?,Sheffield United
+Mon Apr 8 1996,Reading,0-2,?,Crystal Palace
+Mon Apr 8 1996,Southend,1-1,?,Watford
+Mon Apr 8 1996,Sunderland,0-0,?,Charlton
+Mon Apr 8 1996,Wolves,2-2,?,Barnsley
+Tue Apr 9 1996,Leicester,1-2,?,West Brom
+Tue Apr 9 1996,Luton,1-2,?,Stoke
+Wed Apr 10 1996,Millwall,2-0,?,Birmingham
+Sat Apr 13 1996,Barnsley,0-1,?,Reading
+Sat Apr 13 1996,Birmingham,4-0,?,Luton
+Sat Apr 13 1996,Crystal Palace,2-0,?,Southend
+Sat Apr 13 1996,Huddersfield,3-0,?,Millwall
+Sat Apr 13 1996,Oldham,0-0,?,Wolves
+Sat Apr 13 1996,Sheffield United,0-0,?,Sunderland
+Sat Apr 13 1996,Stoke,2-1,?,Portsmouth
+Sat Apr 13 1996,Tranmere,1-1,?,Leicester
+Sat Apr 13 1996,Watford,5-2,?,Port Vale
+Sat Apr 13 1996,West Brom,3-1,?,Grimsby
+Sun Apr 14 1996,Charlton,0-0,?,Derby
+Sun Apr 14 1996,Ipswich,2-1,?,Norwich
+Tue Apr 16 1996,Port Vale,1-0,?,Grimsby
+Tue Apr 16 1996,Sunderland,3-0,?,Birmingham
+Tue Apr 16 1996,Watford,4-2,?,Reading
+Wed Apr 17 1996,Leicester,2-0,?,Oldham
+Wed Apr 17 1996,Stoke,1-0,?,Charlton
+Wed Apr 17 1996,Tranmere,5-2,?,Ipswich
+Sat Apr 20 1996,Derby,1-1,?,Birmingham
+Sat Apr 20 1996,Grimsby,0-2,?,Sheffield United
+Sat Apr 20 1996,Leicester,2-1,?,Huddersfield
+Sat Apr 20 1996,Luton,0-0,?,Watford
+Sat Apr 20 1996,Millwall,0-1,?,Oldham
+Sat Apr 20 1996,Norwich,2-2,?,West Brom
+Sat Apr 20 1996,Port Vale,1-1,?,Tranmere
+Sat Apr 20 1996,Portsmouth,0-0,?,Barnsley
+Sat Apr 20 1996,Reading,0-0,?,Charlton
+Sat Apr 20 1996,Southend,2-1,?,Ipswich
+Sat Apr 20 1996,Wolves,0-2,?,Crystal Palace
+Sun Apr 21 1996,Sunderland,0-0,?,Stoke
+Tue Apr 23 1996,Port Vale,1-0,?,Luton
+Tue Apr 23 1996,Watford,6-3,?,Grimsby
+Sat Apr 27 1996,Grimsby,1-1,?,Tranmere
+Sat Apr 27 1996,Leicester,3-0,?,Birmingham
+Sat Apr 27 1996,Luton,1-3,?,Barnsley
+Sat Apr 27 1996,Millwall,2-3,?,Stoke
+Sat Apr 27 1996,Norwich,1-2,?,Watford
+Sat Apr 27 1996,Port Vale,1-3,?,Charlton
+Sat Apr 27 1996,Portsmouth,0-1,?,Ipswich
+Sat Apr 27 1996,Reading,0-3,?,Sheffield United
+Sat Apr 27 1996,Southend,1-1,?,Oldham
+Sat Apr 27 1996,Sunderland,0-0,?,West Brom
+Sat Apr 27 1996,Wolves,0-0,?,Huddersfield
+Sun Apr 28 1996,Derby,2-1,?,Crystal Palace
+Tue Apr 30 1996,Barnsley,1-1,?,West Brom
+Tue Apr 30 1996,Charlton,0-0,?,Tranmere
+Tue Apr 30 1996,Luton,3-2,?,Port Vale
+Tue Apr 30 1996,Oldham,2-0,?,Stoke
+Tue Apr 30 1996,Reading,3-0,?,Wolves
+Wed May 1 1996,Ipswich,2-1,?,Huddersfield
+Sat May 4 1996,Barnsley,1-1,?,Grimsby
+Sat May 4 1996,Sheffield United,1-1,?,Port Vale
+Sun May 5 1996,Birmingham,1-2,?,Reading
+Sun May 5 1996,Charlton,1-1,?,Wolves
+Sun May 5 1996,Crystal Palace,0-1,?,Norwich
+Sun May 5 1996,Huddersfield,0-1,?,Portsmouth
+Sun May 5 1996,Ipswich,0-0,?,Millwall
+Sun May 5 1996,Oldham,1-0,?,Luton
+Sun May 5 1996,Stoke,1-0,?,Southend
+Sun May 5 1996,Tranmere,2-0,?,Sunderland
+Sun May 5 1996,Watford,0-1,?,Leicester
+Sun May 5 1996,West Brom,3-2,?,Derby

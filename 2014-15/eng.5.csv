@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 9 2014,Aldershot,3-1,2-0,Altrincham
+Sat Aug 9 2014,Alfreton Town,1-3,1-1,Woking
+Sat Aug 9 2014,Bristol Rvs,0-0,0-0,Grimsby
+Sat Aug 9 2014,Chester,0-5,0-3,Barnet
+Sat Aug 9 2014,Dartford,1-2,0-1,Wrexham
+Sat Aug 9 2014,Dover Athletic,0-1,0-0,Halifax
+Sat Aug 9 2014,Gateshead,3-1,2-0,Torquay
+Sat Aug 9 2014,Lincoln,0-0,0-0,Kidderminster
+Sat Aug 9 2014,Macclesfield,1-0,1-0,Braintree Town
+Sat Aug 9 2014,Nuneaton Town,0-3,0-1,Eastleigh
+Sat Aug 9 2014,Southport,0-1,0-0,Forest Green
+Sat Aug 9 2014,Welling United,1-1,0-1,Telford United
+Tue Aug 12 2014,Altrincham,1-2,0-1,Lincoln
+Tue Aug 12 2014,Barnet,2-0,2-0,Bristol Rvs
+Tue Aug 12 2014,Braintree Town,3-0,2-0,Dover Athletic
+Tue Aug 12 2014,Forest Green,2-1,1-0,Chester
+Tue Aug 12 2014,Grimsby,0-0,0-0,Nuneaton Town
+Tue Aug 12 2014,Halifax,3-1,1-1,Southport
+Tue Aug 12 2014,Kidderminster,3-0,1-0,Alfreton Town
+Tue Aug 12 2014,Telford United,2-3,1-3,Macclesfield
+Tue Aug 12 2014,Torquay,3-0,2-0,Welling United
+Tue Aug 12 2014,Woking,1-1,0-0,Dartford
+Tue Aug 12 2014,Wrexham,0-3,0-1,Gateshead
+Thu Aug 14 2014,Eastleigh,1-0,0-0,Aldershot
+Sat Aug 16 2014,Altrincham,2-1,1-0,Bristol Rvs
+Sat Aug 16 2014,Barnet,1-2,0-2,Lincoln
+Sat Aug 16 2014,Braintree Town,1-3,1-0,Chester
+Sat Aug 16 2014,Eastleigh,2-2,2-1,Gateshead
+Sat Aug 16 2014,Forest Green,2-0,1-0,Alfreton Town
+Sat Aug 16 2014,Grimsby,1-1,0-0,Dover Athletic
+Sat Aug 16 2014,Halifax,3-0,0-0,Welling United
+Sat Aug 16 2014,Kidderminster,1-0,1-0,Dartford
+Sat Aug 16 2014,Torquay,0-0,0-0,Southport
+Sat Aug 16 2014,Woking,0-0,0-0,Macclesfield
+Sat Aug 16 2014,Wrexham,1-0,1-0,Nuneaton Town
+Sun Aug 17 2014,Telford United,0-2,0-2,Aldershot
+Fri Aug 22 2014,Aldershot,1-1,1-0,Forest Green
+Sat Aug 23 2014,Alfreton Town,2-3,1-3,Wrexham
+Sat Aug 23 2014,Bristol Rvs,1-0,0-0,Telford United
+Sat Aug 23 2014,Chester,0-3,0-1,Halifax
+Sat Aug 23 2014,Dartford,0-0,0-0,Torquay
+Sat Aug 23 2014,Dover Athletic,2-1,1-1,Eastleigh
+Sat Aug 23 2014,Gateshead,1-6,0-3,Grimsby
+Sat Aug 23 2014,Lincoln,3-2,2-0,Braintree Town
+Sat Aug 23 2014,Macclesfield,0-0,0-0,Kidderminster
+Sat Aug 23 2014,Nuneaton Town,0-2,0-2,Barnet
+Sat Aug 23 2014,Southport,2-1,1-0,Altrincham
+Sat Aug 23 2014,Welling United,1-1,1-0,Woking
+Mon Aug 25 2014,Altrincham,0-1,0-1,Gateshead
+Mon Aug 25 2014,Barnet,4-0,1-0,Dartford
+Mon Aug 25 2014,Braintree Town,2-0,0-0,Nuneaton Town
+Mon Aug 25 2014,Eastleigh,3-1,1-1,Welling United
+Mon Aug 25 2014,Forest Green,1-1,0-0,Bristol Rvs
+Mon Aug 25 2014,Grimsby,7-0,3-0,Alfreton Town
+Mon Aug 25 2014,Halifax,3-2,2-1,Lincoln
+Mon Aug 25 2014,Kidderminster,2-2,2-0,Chester
+Mon Aug 25 2014,Telford United,3-3,1-2,Southport
+Mon Aug 25 2014,Torquay,1-1,1-0,Aldershot
+Mon Aug 25 2014,Woking,6-1,3-1,Dover Athletic
+Mon Aug 25 2014,Wrexham,2-2,1-1,Macclesfield
+Sat Aug 30 2014,Aldershot,2-1,0-0,Grimsby
+Sat Aug 30 2014,Alfreton Town,0-2,0-0,Braintree Town
+Sat Aug 30 2014,Bristol Rvs,2-1,1-0,Halifax
+Sat Aug 30 2014,Dartford,2-1,0-1,Telford United
+Sat Aug 30 2014,Dover Athletic,0-1,0-0,Kidderminster
+Sat Aug 30 2014,Gateshead,2-1,0-1,Chester
+Sat Aug 30 2014,Lincoln,1-3,1-1,Torquay
+Sat Aug 30 2014,Macclesfield,2-0,1-0,Eastleigh
+Sat Aug 30 2014,Nuneaton Town,2-1,1-0,Altrincham
+Sat Aug 30 2014,Southport,0-2,0-2,Barnet
+Sat Aug 30 2014,Welling United,1-1,1-1,Forest Green
+Sat Aug 30 2014,Wrexham,1-2,1-1,Woking
+Sat Sep 6 2014,Altrincham,2-1,1-0,Dartford
+Sat Sep 6 2014,Barnet,2-1,0-0,Alfreton Town
+Sat Sep 6 2014,Braintree Town,2-0,1-0,Bristol Rvs
+Sat Sep 6 2014,Chester,1-0,1-0,Macclesfield
+Sat Sep 6 2014,Eastleigh,2-1,0-0,Southport
+Sat Sep 6 2014,Forest Green,0-1,0-0,Wrexham
+Sat Sep 6 2014,Grimsby,2-0,1-0,Welling United
+Sat Sep 6 2014,Halifax,1-0,0-0,Aldershot
+Sat Sep 6 2014,Kidderminster,2-1,0-0,Gateshead
+Sat Sep 6 2014,Telford United,1-4,1-1,Dover Athletic
+Sat Sep 6 2014,Torquay,4-0,3-0,Nuneaton Town
+Sat Sep 6 2014,Woking,3-1,2-0,Lincoln
+Tue Sep 9 2014,Aldershot,0-1,0-0,Woking
+Tue Sep 9 2014,Alfreton Town,1-1,1-0,Altrincham
+Tue Sep 9 2014,Bristol Rvs,1-0,1-0,Wrexham
+Tue Sep 9 2014,Chester,0-2,0-0,Torquay
+Tue Sep 9 2014,Dartford,2-2,0-2,Eastleigh
+Tue Sep 9 2014,Gateshead,4-1,3-1,Telford United
+Tue Sep 9 2014,Lincoln,3-2,1-1,Grimsby
+Tue Sep 9 2014,Macclesfield,1-1,0-0,Halifax
+Tue Sep 9 2014,Nuneaton Town,1-0,0-0,Forest Green
+Tue Sep 9 2014,Southport,1-0,1-0,Kidderminster
+Tue Sep 9 2014,Welling United,2-1,0-1,Braintree Town
+Wed Sep 10 2014,Dover Athletic,0-3,0-2,Barnet
+Sat Sep 13 2014,Altrincham,3-3,2-2,Eastleigh
+Sat Sep 13 2014,Braintree Town,2-0,1-0,Kidderminster
+Sat Sep 13 2014,Dover Athletic,0-1,0-0,Macclesfield
+Sat Sep 13 2014,Forest Green,2-0,2-0,Halifax
+Sat Sep 13 2014,Gateshead,1-0,0-0,Dartford
+Sat Sep 13 2014,Grimsby,0-2,0-2,Torquay
+Sat Sep 13 2014,Lincoln,2-3,2-2,Bristol Rvs
+Sat Sep 13 2014,Nuneaton Town,1-1,1-0,Aldershot
+Sat Sep 13 2014,Southport,0-2,0-2,Alfreton Town
+Sat Sep 13 2014,Telford United,2-2,1-0,Barnet
+Sat Sep 13 2014,Woking,1-0,0-0,Chester
+Sat Sep 13 2014,Wrexham,2-1,0-1,Welling United
+Tue Sep 16 2014,Aldershot,1-3,0-1,Braintree Town
+Tue Sep 16 2014,Alfreton Town,3-2,3-1,Telford United
+Tue Sep 16 2014,Barnet,0-1,0-0,Wrexham
+Tue Sep 16 2014,Bristol Rvs,3-1,1-0,Nuneaton Town
+Tue Sep 16 2014,Chester,2-0,2-0,Southport
+Tue Sep 16 2014,Dartford,2-1,0-1,Dover Athletic
+Tue Sep 16 2014,Eastleigh,2-2,0-1,Forest Green
+Tue Sep 16 2014,Halifax,1-1,1-1,Grimsby
+Tue Sep 16 2014,Kidderminster,4-0,2-0,Altrincham
+Tue Sep 16 2014,Macclesfield,1-1,1-0,Gateshead
+Tue Sep 16 2014,Torquay,1-0,0-0,Woking
+Tue Sep 16 2014,Welling United,2-0,1-0,Lincoln
+Sat Sep 20 2014,Aldershot,1-0,1-0,Lincoln
+Sat Sep 20 2014,Alfreton Town,1-0,0-0,Nuneaton Town
+Sat Sep 20 2014,Barnet,5-0,4-0,Altrincham
+Sat Sep 20 2014,Bristol Rvs,2-0,1-0,Woking
+Sat Sep 20 2014,Dartford,1-2,0-0,Forest Green
+Sat Sep 20 2014,Eastleigh,1-0,1-0,Braintree Town
+Sat Sep 20 2014,Halifax,5-0,2-0,Telford United
+Sat Sep 20 2014,Kidderminster,0-1,0-0,Grimsby
+Sat Sep 20 2014,Macclesfield,3-0,3-0,Southport
+Sat Sep 20 2014,Torquay,2-0,1-0,Dover Athletic
+Sat Sep 20 2014,Welling United,1-1,1-0,Gateshead
+Mon Sep 22 2014,Chester,2-1,0-1,Wrexham
+Sat Sep 27 2014,Altrincham,0-4,0-3,Welling United
+Sat Sep 27 2014,Braintree Town,0-0,0-0,Halifax
+Sat Sep 27 2014,Dover Athletic,1-0,1-0,Alfreton Town
+Sat Sep 27 2014,Forest Green,1-2,0-1,Barnet
+Sat Sep 27 2014,Gateshead,1-1,0-1,Aldershot
+Sat Sep 27 2014,Grimsby,3-0,1-0,Chester
+Sat Sep 27 2014,Lincoln,2-0,2-0,Macclesfield
+Sat Sep 27 2014,Nuneaton Town,1-2,1-0,Dartford
+Sat Sep 27 2014,Southport,0-1,0-1,Bristol Rvs
+Sat Sep 27 2014,Telford United,4-3,2-2,Torquay
+Sat Sep 27 2014,Woking,2-3,0-3,Kidderminster
+Sat Sep 27 2014,Wrexham,3-0,2-0,Eastleigh
+Tue Sep 30 2014,Alfreton Town,0-2,0-1,Halifax
+Tue Sep 30 2014,Altrincham,1-0,0-0,Macclesfield
+Tue Sep 30 2014,Braintree Town,1-1,1-1,Barnet
+Tue Sep 30 2014,Dover Athletic,3-0,1-0,Aldershot
+Tue Sep 30 2014,Eastleigh,1-1,1-0,Bristol Rvs
+Tue Sep 30 2014,Forest Green,2-1,1-1,Torquay
+Tue Sep 30 2014,Grimsby,0-1,0-0,Southport
+Tue Sep 30 2014,Lincoln,1-1,0-0,Gateshead
+Tue Sep 30 2014,Telford United,1-2,1-1,Chester
+Tue Sep 30 2014,Welling United,2-2,2-2,Dartford
+Tue Sep 30 2014,Woking,1-0,0-0,Nuneaton Town
+Tue Sep 30 2014,Wrexham,1-0,0-0,Kidderminster
+Sat Oct 4 2014,Aldershot,2-0,1-0,Alfreton Town
+Sat Oct 4 2014,Barnet,1-0,1-0,Eastleigh
+Sat Oct 4 2014,Bristol Rvs,1-1,1-0,Dover Athletic
+Sat Oct 4 2014,Chester,1-1,1-0,Welling United
+Sat Oct 4 2014,Dartford,1-1,0-0,Grimsby
+Sat Oct 4 2014,Gateshead,3-1,0-1,Braintree Town
+Sat Oct 4 2014,Halifax,1-3,0-1,Altrincham
+Sat Oct 4 2014,Kidderminster,1-1,1-0,Telford United
+Sat Oct 4 2014,Macclesfield,2-2,0-1,Forest Green
+Sat Oct 4 2014,Nuneaton Town,2-1,1-1,Lincoln
+Sat Oct 4 2014,Southport,2-5,0-1,Woking
+Sat Oct 4 2014,Torquay,2-1,0-1,Wrexham
+Tue Oct 7 2014,Bristol Rvs,1-0,1-0,Dartford
+Tue Oct 7 2014,Chester,1-0,0-0,Aldershot
+Tue Oct 7 2014,Gateshead,2-0,2-0,Alfreton Town
+Tue Oct 7 2014,Grimsby,0-0,0-0,Altrincham
+Tue Oct 7 2014,Halifax,2-2,1-0,Wrexham
+Tue Oct 7 2014,Macclesfield,2-1,0-0,Barnet
+Tue Oct 7 2014,Nuneaton Town,3-2,2-1,Dover Athletic
+Tue Oct 7 2014,Southport,3-3,2-3,Lincoln
+Tue Oct 7 2014,Telford United,0-1,0-0,Forest Green
+Wed Oct 8 2014,Kidderminster,2-1,2-0,Welling United
+Sat Oct 11 2014,Aldershot,2-2,1-1,Bristol Rvs
+Sat Oct 11 2014,Alfreton Town,4-2,2-1,Torquay
+Sat Oct 11 2014,Altrincham,0-3,0-0,Woking
+Sat Oct 11 2014,Barnet,3-3,3-0,Kidderminster
+Sat Oct 11 2014,Braintree Town,0-2,0-0,Southport
+Sat Oct 11 2014,Dartford,1-1,0-0,Macclesfield
+Sat Oct 11 2014,Dover Athletic,2-0,0-0,Chester
+Sat Oct 11 2014,Eastleigh,4-1,1-1,Halifax
+Sat Oct 11 2014,Forest Green,1-1,0-0,Gateshead
+Sat Oct 11 2014,Lincoln,2-0,0-0,Telford United
+Sat Oct 11 2014,Welling United,4-1,2-1,Nuneaton Town
+Sat Oct 11 2014,Wrexham,0-1,0-1,Grimsby
+Sat Oct 18 2014,Altrincham,1-0,1-0,Braintree Town
+Sat Oct 18 2014,Bristol Rvs,0-1,0-1,Forest Green
+Sat Oct 18 2014,Chester,2-1,1-1,Alfreton Town
+Sat Oct 18 2014,Dartford,1-1,0-1,Aldershot
+Sat Oct 18 2014,Eastleigh,2-1,1-0,Nuneaton Town
+Sat Oct 18 2014,Gateshead,0-2,0-2,Barnet
+Sat Oct 18 2014,Halifax,2-0,2-0,Kidderminster
+Sat Oct 18 2014,Lincoln,1-1,0-1,Wrexham
+Sat Oct 18 2014,Macclesfield,1-0,0-0,Dover Athletic
+Sat Oct 18 2014,Southport,1-0,0-0,Welling United
+Sat Oct 18 2014,Torquay,2-3,1-2,Grimsby
+Sat Oct 18 2014,Woking,1-3,1-1,Telford United
+Tue Oct 21 2014,Barnet,3-0,2-0,Braintree Town
+Sat Nov 1 2014,Aldershot,1-2,0-0,Gateshead
+Sat Nov 1 2014,Altrincham,0-1,0-1,Alfreton Town
+Sat Nov 1 2014,Braintree Town,0-0,0-0,Woking
+Sat Nov 1 2014,Eastleigh,3-2,1-0,Chester
+Sat Nov 1 2014,Forest Green,3-3,0-2,Lincoln
+Sat Nov 1 2014,Grimsby,3-0,2-0,Dartford
+Sat Nov 1 2014,Kidderminster,2-1,2-0,Torquay
+Sat Nov 1 2014,Nuneaton Town,1-1,0-0,Macclesfield
+Sat Nov 1 2014,Southport,2-2,2-1,Dover Athletic
+Sat Nov 1 2014,Telford United,0-1,0-0,Bristol Rvs
+Sat Nov 1 2014,Welling United,1-2,1-1,Barnet
+Sat Nov 1 2014,Wrexham,0-0,0-0,Halifax
+Tue Nov 4 2014,Braintree Town,0-1,0-0,Grimsby
+Tue Nov 4 2014,Lincoln,1-2,0-1,Altrincham
+Tue Nov 11 2014,Alfreton Town,0-0,0-0,Bristol Rvs
+Tue Nov 11 2014,Barnet,2-3,0-2,Torquay
+Tue Nov 11 2014,Dartford,2-1,1-0,Welling United
+Tue Nov 11 2014,Dover Athletic,1-0,1-0,Braintree Town
+Tue Nov 11 2014,Forest Green,1-1,0-0,Eastleigh
+Tue Nov 11 2014,Gateshead,3-3,1-1,Lincoln
+Tue Nov 11 2014,Grimsby,1-0,1-0,Halifax
+Tue Nov 11 2014,Macclesfield,3-1,2-0,Chester
+Wed Nov 12 2014,Kidderminster,0-2,0-0,Aldershot
+Wed Nov 12 2014,Telford United,2-1,1-0,Altrincham
+Wed Nov 12 2014,Woking,1-1,0-1,Wrexham
+Sat Nov 15 2014,Aldershot,1-0,0-0,Nuneaton Town
+Sat Nov 15 2014,Alfreton Town,2-3,1-0,Dover Athletic
+Sat Nov 15 2014,Altrincham,1-1,0-0,Grimsby
+Sat Nov 15 2014,Barnet,3-1,2-1,Telford United
+Sat Nov 15 2014,Braintree Town,1-0,1-0,Wrexham
+Sat Nov 15 2014,Bristol Rvs,1-1,0-0,Kidderminster
+Sat Nov 15 2014,Chester,1-0,0-0,Gateshead
+Sat Nov 15 2014,Dartford,1-1,0-1,Southport
+Sat Nov 15 2014,Torquay,3-3,2-1,Forest Green
+Sat Nov 15 2014,Welling United,0-0,0-0,Macclesfield
+Sun Nov 16 2014,Halifax,1-3,0-2,Woking
+Sat Nov 22 2014,Aldershot,0-2,0-1,Eastleigh
+Sat Nov 22 2014,Chester,2-2,0-0,Bristol Rvs
+Sat Nov 22 2014,Dover Athletic,0-0,0-0,Forest Green
+Sat Nov 22 2014,Grimsby,0-2,0-1,Kidderminster
+Sat Nov 22 2014,Lincoln,1-0,1-0,Dartford
+Sat Nov 22 2014,Macclesfield,2-0,1-0,Alfreton Town
+Sat Nov 22 2014,Nuneaton Town,2-3,1-2,Southport
+Sat Nov 22 2014,Telford United,1-3,0-3,Braintree Town
+Sat Nov 22 2014,Torquay,2-2,1-0,Gateshead
+Sat Nov 22 2014,Welling United,2-1,1-1,Halifax
+Sat Nov 22 2014,Woking,1-1,0-1,Barnet
+Sat Nov 22 2014,Wrexham,2-3,2-0,Altrincham
+Tue Nov 25 2014,Braintree Town,0-1,0-0,Welling United
+Tue Nov 25 2014,Bristol Rvs,2-1,1-1,Barnet
+Tue Nov 25 2014,Dartford,2-4,1-0,Chester
+Tue Nov 25 2014,Dover Athletic,5-0,3-0,Nuneaton Town
+Tue Nov 25 2014,Grimsby,3-1,1-0,Woking
+Tue Nov 25 2014,Kidderminster,1-1,1-0,Wrexham
+Tue Nov 25 2014,Macclesfield,1-0,0-0,Torquay
+Tue Nov 25 2014,Southport,1-3,1-2,Aldershot
+Sat Nov 29 2014,Altrincham,2-1,0-0,Kidderminster
+Sat Nov 29 2014,Barnet,3-1,0-1,Macclesfield
+Sat Nov 29 2014,Bristol Rvs,2-0,0-0,Welling United
+Sat Nov 29 2014,Forest Green,2-1,1-0,Dartford
+Sat Nov 29 2014,Gateshead,1-2,1-2,Dover Athletic
+Sat Nov 29 2014,Halifax,2-0,0-0,Alfreton Town
+Sat Nov 29 2014,Lincoln,1-0,0-0,Southport
+Sat Nov 29 2014,Nuneaton Town,3-2,2-0,Chester
+Sat Nov 29 2014,Telford United,1-1,1-0,Grimsby
+Sat Nov 29 2014,Torquay,2-0,1-0,Eastleigh
+Sat Nov 29 2014,Woking,1-0,1-0,Braintree Town
+Sat Nov 29 2014,Wrexham,3-1,1-1,Aldershot
+Tue Dec 2 2014,Alfreton Town,1-2,0-1,Gateshead
+Tue Dec 2 2014,Chester,2-0,0-0,Telford United
+Tue Dec 2 2014,Dover Athletic,2-2,0-1,Torquay
+Tue Dec 2 2014,Eastleigh,2-0,1-0,Dartford
+Tue Dec 2 2014,Halifax,1-0,1-0,Forest Green
+Tue Dec 2 2014,Kidderminster,3-1,2-0,Nuneaton Town
+Tue Dec 2 2014,Woking,2-0,0-0,Altrincham
+Tue Dec 2 2014,Wrexham,0-0,0-0,Bristol Rvs
+Sat Dec 6 2014,Forest Green,1-1,1-0,Altrincham
+Sat Dec 6 2014,Macclesfield,2-1,1-0,Woking
+Sat Dec 6 2014,Nuneaton Town,0-1,0-1,Alfreton Town
+Sat Dec 6 2014,Torquay,1-2,0-2,Barnet
+Sat Dec 6 2014,Welling United,0-0,0-0,Bristol Rvs
+Tue Dec 9 2014,Forest Green,2-1,2-1,Woking
+Tue Dec 9 2014,Lincoln,3-1,2-0,Nuneaton Town
+Tue Dec 9 2014,Telford United,1-2,0-0,Welling United
+Tue Dec 9 2014,Torquay,2-1,2-0,Halifax
+Wed Dec 10 2014,Aldershot,0-1,0-0,Macclesfield
+Wed Dec 10 2014,Alfreton Town,3-2,1-1,Eastleigh
+Wed Dec 10 2014,Gateshead,1-1,0-0,Southport
+Fri Dec 19 2014,Bristol Rvs,3-2,0-1,Gateshead
+Fri Dec 19 2014,Grimsby,2-1,1-0,Forest Green
+Sat Dec 20 2014,Alfreton Town,1-5,1-3,Macclesfield
+Sat Dec 20 2014,Altrincham,2-2,0-0,Dover Athletic
+Sat Dec 20 2014,Barnet,3-0,1-0,Chester
+Sat Dec 20 2014,Braintree Town,2-0,2-0,Torquay
+Sat Dec 20 2014,Halifax,2-0,0-0,Nuneaton Town
+Sat Dec 20 2014,Kidderminster,2-1,0-1,Lincoln
+Sat Dec 20 2014,Telford United,3-4,2-2,Eastleigh
+Sat Dec 20 2014,Welling United,3-1,1-0,Aldershot
+Sat Dec 20 2014,Woking,1-2,0-1,Southport
+Sat Dec 20 2014,Wrexham,1-3,0-1,Dartford
+Fri Dec 26 2014,Aldershot,1-3,0-1,Barnet
+Fri Dec 26 2014,Chester,0-2,0-1,Altrincham
+Fri Dec 26 2014,Dartford,0-2,0-1,Braintree Town
+Fri Dec 26 2014,Dover Athletic,4-0,2-0,Welling United
+Fri Dec 26 2014,Eastleigh,2-2,2-2,Woking
+Fri Dec 26 2014,Forest Green,2-3,2-2,Kidderminster
+Fri Dec 26 2014,Gateshead,2-2,2-2,Halifax
+Fri Dec 26 2014,Lincoln,3-2,1-0,Alfreton Town
+Fri Dec 26 2014,Macclesfield,0-1,0-1,Grimsby
+Fri Dec 26 2014,Nuneaton Town,4-4,1-1,Telford United
+Fri Dec 26 2014,Southport,0-1,0-0,Wrexham
+Fri Dec 26 2014,Torquay,1-2,1-2,Bristol Rvs
+Sun Dec 28 2014,Altrincham,0-1,0-0,Nuneaton Town
+Sun Dec 28 2014,Barnet,2-2,0-2,Dover Athletic
+Sun Dec 28 2014,Braintree Town,1-5,1-1,Eastleigh
+Sun Dec 28 2014,Bristol Rvs,4-0,1-0,Macclesfield
+Sun Dec 28 2014,Grimsby,1-3,1-2,Lincoln
+Sun Dec 28 2014,Halifax,0-2,0-1,Chester
+Sun Dec 28 2014,Kidderminster,0-1,0-0,Southport
+Sun Dec 28 2014,Welling United,0-0,0-0,Torquay
+Sun Dec 28 2014,Woking,1-2,0-2,Aldershot
+Thu Jan 1 2015,Altrincham,4-1,2-1,Chester
+Thu Jan 1 2015,Barnet,1-0,1-0,Aldershot
+Thu Jan 1 2015,Braintree Town,3-0,0-0,Dartford
+Thu Jan 1 2015,Bristol Rvs,1-1,0-1,Torquay
+Thu Jan 1 2015,Grimsby,1-2,1-1,Macclesfield
+Thu Jan 1 2015,Kidderminster,2-4,0-3,Forest Green
+Thu Jan 1 2015,Telford United,0-0,0-0,Nuneaton Town
+Thu Jan 1 2015,Welling United,0-2,0-0,Dover Athletic
+Thu Jan 1 2015,Woking,1-1,0-0,Eastleigh
+Sun Jan 4 2015,Aldershot,1-2,0-1,Telford United
+Sun Jan 4 2015,Chester,2-3,1-0,Braintree Town
+Sun Jan 4 2015,Dartford,1-2,1-0,Kidderminster
+Sun Jan 4 2015,Eastleigh,0-2,0-1,Altrincham
+Sun Jan 4 2015,Forest Green,4-1,1-1,Welling United
+Sun Jan 4 2015,Lincoln,4-1,2-0,Barnet
+Sun Jan 4 2015,Nuneaton Town,0-2,0-1,Bristol Rvs
+Sun Jan 4 2015,Torquay,1-1,0-0,Alfreton Town
+Wed Jan 7 2015,Gateshead,0-0,0-0,Woking
+Sat Jan 10 2015,Eastleigh,4-0,1-0,Lincoln
+Tue Jan 13 2015,Dartford,1-2,1-1,Halifax
+Sat Jan 17 2015,Altrincham,2-1,1-0,Torquay
+Sat Jan 17 2015,Braintree Town,1-2,0-0,Forest Green
+Sat Jan 17 2015,Dover Athletic,6-1,2-1,Dartford
+Sat Jan 17 2015,Grimsby,3-1,2-1,Barnet
+Sat Jan 17 2015,Kidderminster,0-2,0-0,Macclesfield
+Sat Jan 17 2015,Lincoln,3-0,2-0,Aldershot
+Sat Jan 17 2015,Nuneaton Town,0-2,0-2,Gateshead
+Sat Jan 17 2015,Southport,0-0,0-0,Chester
+Sat Jan 17 2015,Welling United,2-3,0-2,Alfreton Town
+Sat Jan 17 2015,Woking,0-0,0-0,Bristol Rvs
+Sat Jan 17 2015,Wrexham,0-4,0-2,Telford United
+Tue Jan 20 2015,Aldershot,0-1,0-0,Kidderminster
+Tue Jan 20 2015,Dover Athletic,2-0,2-0,Wrexham
+Sat Jan 24 2015,Barnet,4-0,1-0,Southport
+Sat Jan 24 2015,Chester,1-0,1-0,Kidderminster
+Sat Jan 24 2015,Macclesfield,3-0,1-0,Lincoln
+Sat Jan 24 2015,Nuneaton Town,0-2,0-0,Grimsby
+Tue Jan 27 2015,Chester,4-0,3-0,Lincoln
+Tue Jan 27 2015,Eastleigh,0-1,0-1,Grimsby
+Tue Jan 27 2015,Telford United,0-1,0-0,Halifax
+Sat Jan 31 2015,Dartford,2-2,1-1,Bristol Rvs
+Sat Jan 31 2015,Forest Green,1-0,1-0,Nuneaton Town
+Sat Jan 31 2015,Lincoln,1-0,0-0,Dover Athletic
+Sat Jan 31 2015,Southport,0-1,0-1,Gateshead
+Sat Jan 31 2015,Welling United,1-3,1-2,Chester
+Sat Jan 31 2015,Woking,3-0,1-0,Alfreton Town
+Sat Jan 31 2015,Wrexham,0-0,0-0,Torquay
+Sat Feb 7 2015,Alfreton Town,4-2,0-1,Southport
+Sat Feb 7 2015,Altrincham,1-0,0-0,Aldershot
+Sat Feb 7 2015,Barnet,2-1,1-0,Woking
+Sat Feb 7 2015,Bristol Rvs,2-0,2-0,Lincoln
+Sat Feb 7 2015,Eastleigh,3-3,1-1,Telford United
+Sat Feb 7 2015,Forest Green,2-1,1-1,Grimsby
+Sat Feb 7 2015,Macclesfield,3-2,1-1,Welling United
+Tue Feb 10 2015,Alfreton Town,2-2,0-0,Forest Green
+Tue Feb 10 2015,Macclesfield,2-1,1-0,Altrincham
+Tue Feb 10 2015,Southport,1-2,0-0,Eastleigh
+Sat Feb 14 2015,Aldershot,2-1,1-1,Welling United
+Sat Feb 14 2015,Altrincham,2-2,2-1,Forest Green
+Sat Feb 14 2015,Braintree Town,2-1,0-0,Alfreton Town
+Sat Feb 14 2015,Eastleigh,1-2,1-1,Torquay
+Sat Feb 14 2015,Gateshead,1-2,1-1,Nuneaton Town
+Sat Feb 14 2015,Grimsby,0-1,0-0,Bristol Rvs
+Sat Feb 14 2015,Halifax,3-2,2-1,Dover Athletic
+Sat Feb 14 2015,Kidderminster,1-1,1-0,Woking
+Sat Feb 14 2015,Lincoln,0-1,0-1,Chester
+Sat Feb 14 2015,Southport,1-1,0-0,Macclesfield
+Sat Feb 14 2015,Telford United,2-3,1-1,Dartford
+Sat Feb 14 2015,Wrexham,1-0,1-0,Barnet
+Sat Feb 21 2015,Alfreton Town,2-3,1-2,Aldershot
+Sat Feb 21 2015,Barnet,1-3,0-1,Grimsby
+Sat Feb 21 2015,Bristol Rvs,1-0,1-0,Altrincham
+Sat Feb 21 2015,Chester,0-1,0-0,Eastleigh
+Sat Feb 21 2015,Dover Athletic,2-2,1-0,Southport
+Sat Feb 21 2015,Forest Green,3-0,0-0,Telford United
+Sat Feb 21 2015,Halifax,1-0,0-0,Braintree Town
+Sat Feb 21 2015,Nuneaton Town,0-0,0-0,Kidderminster
+Tue Feb 24 2015,Bristol Rvs,2-1,1-1,Braintree Town
+Tue Feb 24 2015,Gateshead,2-0,1-0,Kidderminster
+Tue Feb 24 2015,Grimsby,1-0,0-0,Telford United
+Tue Feb 24 2015,Wrexham,0-0,0-0,Forest Green
+Sat Feb 28 2015,Aldershot,1-1,0-1,Dartford
+Sat Feb 28 2015,Altrincham,1-3,0-2,Barnet
+Sat Feb 28 2015,Eastleigh,4-0,1-0,Macclesfield
+Sat Feb 28 2015,Forest Green,5-3,3-1,Southport
+Sat Feb 28 2015,Gateshead,0-1,0-0,Bristol Rvs
+Sat Feb 28 2015,Grimsby,1-0,0-0,Braintree Town
+Sat Feb 28 2015,Kidderminster,0-0,0-0,Halifax
+Sat Feb 28 2015,Lincoln,0-2,0-2,Woking
+Sat Feb 28 2015,Nuneaton Town,1-0,0-0,Welling United
+Sat Feb 28 2015,Telford United,0-1,0-0,Alfreton Town
+Tue Mar 3 2015,Aldershot,3-1,0-0,Dover Athletic
+Tue Mar 3 2015,Braintree Town,0-1,0-1,Macclesfield
+Tue Mar 3 2015,Dartford,1-3,1-1,Woking
+Tue Mar 3 2015,Gateshead,3-1,1-1,Wrexham
+Tue Mar 3 2015,Southport,1-0,0-0,Halifax
+Sat Mar 7 2015,Alfreton Town,2-0,1-0,Kidderminster
+Sat Mar 7 2015,Barnet,1-3,1-1,Forest Green
+Sat Mar 7 2015,Braintree Town,1-0,0-0,Gateshead
+Sat Mar 7 2015,Bristol Rvs,1-2,0-1,Eastleigh
+Sat Mar 7 2015,Dover Athletic,1-2,1-2,Lincoln
+Sat Mar 7 2015,Halifax,0-0,0-0,Dartford
+Sat Mar 7 2015,Macclesfield,0-0,0-0,Aldershot
+Sat Mar 7 2015,Southport,0-0,0-0,Nuneaton Town
+Sat Mar 7 2015,Torquay,0-1,0-1,Telford United
+Sat Mar 7 2015,Woking,1-2,0-1,Grimsby
+Sat Mar 7 2015,Wrexham,1-0,1-0,Chester
+Sun Mar 8 2015,Welling United,0-1,0-0,Altrincham
+Tue Mar 10 2015,Aldershot,1-1,1-0,Halifax
+Tue Mar 10 2015,Gateshead,1-1,1-0,Welling United
+Tue Mar 10 2015,Kidderminster,1-3,1-0,Eastleigh
+Tue Mar 10 2015,Macclesfield,1-0,1-0,Telford United
+Tue Mar 10 2015,Torquay,0-1,0-1,Chester
+Tue Mar 10 2015,Wrexham,0-0,0-0,Southport
+Sat Mar 14 2015,Aldershot,1-2,0-2,Southport
+Sat Mar 14 2015,Altrincham,1-4,0-3,Wrexham
+Sat Mar 14 2015,Chester,2-2,0-1,Grimsby
+Sat Mar 14 2015,Dartford,0-1,0-0,Alfreton Town
+Sat Mar 14 2015,Eastleigh,1-2,0-1,Barnet
+Sat Mar 14 2015,Forest Green,1-1,1-1,Braintree Town
+Sat Mar 14 2015,Gateshead,2-1,1-1,Macclesfield
+Sat Mar 14 2015,Halifax,2-2,2-0,Bristol Rvs
+Sat Mar 14 2015,Kidderminster,0-2,0-1,Dover Athletic
+Sat Mar 14 2015,Lincoln,0-2,0-2,Welling United
+Sat Mar 14 2015,Nuneaton Town,0-0,0-0,Torquay
+Sat Mar 14 2015,Telford United,1-3,0-0,Woking
+Tue Mar 17 2015,Alfreton Town,0-0,0-0,Lincoln
+Tue Mar 17 2015,Chester,1-2,0-0,Dartford
+Tue Mar 17 2015,Dover Athletic,2-1,1-0,Altrincham
+Tue Mar 17 2015,Eastleigh,2-2,1-2,Wrexham
+Tue Mar 17 2015,Halifax,1-1,0-0,Barnet
+Tue Mar 17 2015,Telford United,0-1,0-1,Gateshead
+Tue Mar 17 2015,Torquay,1-5,1-2,Braintree Town
+Fri Mar 20 2015,Bristol Rvs,3-1,1-1,Aldershot
+Sat Mar 21 2015,Alfreton Town,1-1,1-0,Chester
+Sat Mar 21 2015,Altrincham,0-0,0-0,Halifax
+Sat Mar 21 2015,Barnet,5-0,3-0,Welling United
+Sat Mar 21 2015,Dover Athletic,1-0,0-0,Gateshead
+Sat Mar 21 2015,Grimsby,2-1,1-0,Eastleigh
+Sat Mar 21 2015,Macclesfield,0-1,0-0,Nuneaton Town
+Sat Mar 21 2015,Southport,2-0,0-0,Dartford
+Sat Mar 21 2015,Torquay,2-1,1-0,Kidderminster
+Sat Mar 21 2015,Woking,1-0,0-0,Forest Green
+Sat Mar 21 2015,Wrexham,1-1,1-1,Lincoln
+Tue Mar 24 2015,Alfreton Town,0-0,0-0,Dartford
+Tue Mar 24 2015,Braintree Town,0-2,0-0,Telford United
+Tue Mar 24 2015,Dover Athletic,0-1,0-1,Grimsby
+Tue Mar 24 2015,Halifax,2-2,1-1,Gateshead
+Tue Mar 24 2015,Nuneaton Town,2-0,1-0,Wrexham
+Tue Mar 24 2015,Woking,3-2,0-2,Torquay
+Sat Mar 28 2015,Alfreton Town,1-1,0-1,Barnet
+Sat Mar 28 2015,Chester,2-3,1-1,Woking
+Sat Mar 28 2015,Dartford,1-2,0-1,Altrincham
+Sat Mar 28 2015,Dover Athletic,1-0,1-0,Telford United
+Sat Mar 28 2015,Gateshead,2-3,1-1,Eastleigh
+Sat Mar 28 2015,Kidderminster,3-1,3-0,Braintree Town
+Sat Mar 28 2015,Lincoln,1-2,0-2,Forest Green
+Sat Mar 28 2015,Macclesfield,0-0,0-0,Bristol Rvs
+Sat Mar 28 2015,Nuneaton Town,1-2,0-1,Halifax
+Sat Mar 28 2015,Southport,2-1,1-0,Torquay
+Sat Mar 28 2015,Welling United,0-2,0-2,Grimsby
+Tue Mar 31 2015,Dartford,1-1,1-1,Gateshead
+Tue Mar 31 2015,Wrexham,1-1,1-0,Dover Athletic
+Fri Apr 3 2015,Altrincham,2-0,1-0,Southport
+Fri Apr 3 2015,Braintree Town,1-3,1-2,Lincoln
+Fri Apr 3 2015,Bristol Rvs,5-1,3-0,Chester
+Fri Apr 3 2015,Forest Green,1-3,1-0,Aldershot
+Fri Apr 3 2015,Halifax,2-2,1-2,Macclesfield
+Sat Apr 4 2015,Barnet,1-0,0-0,Nuneaton Town
+Sat Apr 4 2015,Eastleigh,0-1,0-0,Dover Athletic
+Sat Apr 4 2015,Grimsby,2-2,0-1,Gateshead
+Sat Apr 4 2015,Telford United,1-1,0-0,Kidderminster
+Sat Apr 4 2015,Torquay,1-1,0-0,Dartford
+Sat Apr 4 2015,Woking,2-2,0-1,Welling United
+Sat Apr 4 2015,Wrexham,4-0,3-0,Alfreton Town
+Mon Apr 6 2015,Aldershot,2-0,1-0,Torquay
+Mon Apr 6 2015,Alfreton Town,0-2,0-0,Grimsby
+Mon Apr 6 2015,Chester,1-4,1-3,Forest Green
+Mon Apr 6 2015,Dartford,0-1,0-1,Barnet
+Mon Apr 6 2015,Dover Athletic,2-1,0-1,Woking
+Mon Apr 6 2015,Gateshead,1-0,1-0,Altrincham
+Mon Apr 6 2015,Kidderminster,0-3,0-0,Bristol Rvs
+Mon Apr 6 2015,Lincoln,1-1,1-0,Halifax
+Mon Apr 6 2015,Macclesfield,2-2,1-1,Wrexham
+Mon Apr 6 2015,Nuneaton Town,0-1,0-0,Braintree Town
+Mon Apr 6 2015,Southport,0-3,0-1,Telford United
+Mon Apr 6 2015,Welling United,1-2,1-1,Eastleigh
+Sat Apr 11 2015,Barnet,3-0,2-0,Halifax
+Sat Apr 11 2015,Braintree Town,1-1,0-1,Aldershot
+Sat Apr 11 2015,Bristol Rvs,2-0,1-0,Southport
+Sat Apr 11 2015,Chester,3-1,0-1,Dover Athletic
+Sat Apr 11 2015,Dartford,3-1,0-1,Nuneaton Town
+Sat Apr 11 2015,Eastleigh,3-1,2-1,Alfreton Town
+Sat Apr 11 2015,Forest Green,3-1,2-1,Macclesfield
+Sat Apr 11 2015,Grimsby,0-1,0-1,Wrexham
+Sat Apr 11 2015,Telford United,1-0,0-0,Lincoln
+Sat Apr 11 2015,Torquay,2-0,2-0,Altrincham
+Sat Apr 11 2015,Welling United,3-0,2-0,Kidderminster
+Sat Apr 11 2015,Woking,3-0,2-0,Gateshead
+Tue Apr 14 2015,Halifax,0-2,0-1,Eastleigh
+Tue Apr 14 2015,Southport,0-2,0-0,Braintree Town
+Tue Apr 14 2015,Torquay,1-0,0-0,Lincoln
+Tue Apr 14 2015,Welling United,2-1,2-0,Wrexham
+Sat Apr 18 2015,Aldershot,0-1,0-1,Chester
+Sat Apr 18 2015,Alfreton Town,2-2,1-1,Welling United
+Sat Apr 18 2015,Altrincham,1-2,0-1,Telford United
+Sat Apr 18 2015,Dover Athletic,1-1,0-0,Bristol Rvs
+Sat Apr 18 2015,Gateshead,2-4,1-2,Forest Green
+Sat Apr 18 2015,Halifax,0-2,0-0,Torquay
+Sat Apr 18 2015,Kidderminster,1-1,1-0,Barnet
+Sat Apr 18 2015,Lincoln,1-2,0-1,Eastleigh
+Sat Apr 18 2015,Macclesfield,2-0,1-0,Dartford
+Sat Apr 18 2015,Nuneaton Town,1-1,1-0,Woking
+Sat Apr 18 2015,Southport,2-2,0-1,Grimsby
+Sat Apr 18 2015,Wrexham,3-0,0-0,Braintree Town
+Tue Apr 21 2015,Aldershot,1-1,1-1,Wrexham
+Sat Apr 25 2015,Barnet,2-0,1-0,Gateshead
+Sat Apr 25 2015,Braintree Town,4-2,1-1,Altrincham
+Sat Apr 25 2015,Bristol Rvs,7-0,3-0,Alfreton Town
+Sat Apr 25 2015,Chester,5-3,1-2,Nuneaton Town
+Sat Apr 25 2015,Dartford,0-0,0-0,Lincoln
+Sat Apr 25 2015,Eastleigh,2-1,0-1,Kidderminster
+Sat Apr 25 2015,Forest Green,0-0,0-0,Dover Athletic
+Sat Apr 25 2015,Grimsby,3-1,2-0,Aldershot
+Sat Apr 25 2015,Telford United,1-2,0-0,Wrexham
+Sat Apr 25 2015,Torquay,1-1,1-0,Macclesfield
+Sat Apr 25 2015,Welling United,0-1,0-0,Southport
+Sat Apr 25 2015,Woking,3-2,1-1,Halifax

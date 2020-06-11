@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 6 2016,Bolton,1-0,1-0,Sheffield United
+Sat Aug 6 2016,Bradford,0-0,0-0,Port Vale
+Sat Aug 6 2016,Bury,2-0,0-0,Charlton
+Sat Aug 6 2016,Millwall,3-0,2-0,Oldham
+Sat Aug 6 2016,Northampton,1-1,1-0,Fleetwood Town
+Sat Aug 6 2016,Oxford,1-1,1-0,Chesterfield
+Sat Aug 6 2016,Rochdale,2-3,2-2,Peterboro
+Sat Aug 6 2016,Scunthorpe,3-1,0-1,Bristol Rvs
+Sat Aug 6 2016,Shrewsbury,0-1,0-0,Milton Keynes Dons
+Sat Aug 6 2016,Southend,1-3,1-1,Gillingham
+Sat Aug 6 2016,Swindon,1-0,0-0,Coventry
+Sat Aug 6 2016,Walsall,3-1,2-0,AFC Wimbledon
+Sat Aug 13 2016,AFC Wimbledon,1-2,1-1,Bolton
+Sat Aug 13 2016,Charlton,1-1,0-1,Northampton
+Sat Aug 13 2016,Chesterfield,3-1,2-0,Swindon
+Sat Aug 13 2016,Coventry,0-0,0-0,Shrewsbury
+Sat Aug 13 2016,Fleetwood Town,2-2,1-0,Scunthorpe
+Sat Aug 13 2016,Gillingham,2-1,1-0,Bury
+Sat Aug 13 2016,Milton Keynes Dons,2-2,2-2,Millwall
+Sat Aug 13 2016,Oldham,0-0,0-0,Walsall
+Sat Aug 13 2016,Peterboro,0-1,0-1,Bradford
+Sat Aug 13 2016,Port Vale,2-0,1-0,Southend
+Sat Aug 13 2016,Sheffield United,1-1,0-1,Rochdale
+Sun Aug 14 2016,Bristol Rvs,2-1,1-1,Oxford
+Tue Aug 16 2016,AFC Wimbledon,1-2,0-2,Scunthorpe
+Tue Aug 16 2016,Charlton,3-0,3-0,Shrewsbury
+Tue Aug 16 2016,Chesterfield,2-0,0-0,Walsall
+Tue Aug 16 2016,Coventry,0-0,0-0,Bury
+Tue Aug 16 2016,Gillingham,1-1,0-0,Swindon
+Tue Aug 16 2016,Milton Keynes Dons,1-2,0-2,Bradford
+Tue Aug 16 2016,Oldham,0-0,0-0,Northampton
+Tue Aug 16 2016,Peterboro,5-1,3-0,Millwall
+Tue Aug 16 2016,Port Vale,1-0,0-0,Rochdale
+Tue Aug 16 2016,Sheffield United,0-3,0-3,Southend
+Wed Aug 17 2016,Bristol Rvs,1-2,0-2,Bolton
+Wed Aug 17 2016,Fleetwood Town,2-0,0-0,Oxford
+Sat Aug 20 2016,Bolton,2-1,0-1,Fleetwood Town
+Sat Aug 20 2016,Bradford,3-1,0-1,Coventry
+Sat Aug 20 2016,Bury,0-1,0-1,Oldham
+Sat Aug 20 2016,Millwall,2-1,1-1,Sheffield United
+Sat Aug 20 2016,Northampton,0-0,0-0,AFC Wimbledon
+Sat Aug 20 2016,Oxford,2-1,0-0,Peterboro
+Sat Aug 20 2016,Rochdale,0-1,0-0,Milton Keynes Dons
+Sat Aug 20 2016,Scunthorpe,5-0,3-0,Gillingham
+Sat Aug 20 2016,Shrewsbury,2-1,1-1,Chesterfield
+Sat Aug 20 2016,Southend,1-1,0-0,Bristol Rvs
+Sat Aug 20 2016,Swindon,1-0,0-0,Port Vale
+Sat Aug 20 2016,Walsall,1-2,0-1,Charlton
+Sat Aug 27 2016,Bradford,1-1,0-1,Oldham
+Sat Aug 27 2016,Charlton,1-1,0-0,Bolton
+Sat Aug 27 2016,Chesterfield,1-3,0-3,Millwall
+Sat Aug 27 2016,Coventry,1-1,0-1,Northampton
+Sat Aug 27 2016,Milton Keynes Dons,0-2,0-1,Peterboro
+Sat Aug 27 2016,Port Vale,3-1,1-1,Scunthorpe
+Sat Aug 27 2016,Rochdale,1-1,0-1,AFC Wimbledon
+Sat Aug 27 2016,Sheffield United,2-1,0-1,Oxford
+Sat Aug 27 2016,Shrewsbury,2-3,2-0,Gillingham
+Sat Aug 27 2016,Southend,0-2,0-1,Fleetwood Town
+Sat Aug 27 2016,Walsall,3-3,3-0,Bury
+Sat Sep 3 2016,AFC Wimbledon,2-1,0-1,Chesterfield
+Sat Sep 3 2016,Bolton,1-1,0-1,Southend
+Sat Sep 3 2016,Bury,4-1,3-0,Port Vale
+Sat Sep 3 2016,Fleetwood Town,2-0,0-0,Coventry
+Sat Sep 3 2016,Millwall,1-1,0-1,Bradford
+Sat Sep 3 2016,Oldham,2-3,1-1,Shrewsbury
+Sat Sep 3 2016,Oxford,1-0,0-0,Rochdale
+Sat Sep 3 2016,Peterboro,2-2,1-0,Swindon
+Sun Sep 4 2016,Gillingham,1-2,1-0,Sheffield United
+Sun Sep 4 2016,Northampton,3-2,3-1,Milton Keynes Dons
+Sat Sep 10 2016,AFC Wimbledon,2-3,1-2,Sheffield United
+Sat Sep 10 2016,Bolton,1-1,1-0,Milton Keynes Dons
+Sat Sep 10 2016,Bristol Rvs,2-2,1-2,Rochdale
+Sat Sep 10 2016,Bury,2-1,0-0,Shrewsbury
+Sat Sep 10 2016,Fleetwood Town,2-2,2-1,Charlton
+Sat Sep 10 2016,Gillingham,1-1,1-1,Bradford
+Sat Sep 10 2016,Millwall,1-1,0-1,Coventry
+Sat Sep 10 2016,Northampton,2-0,1-0,Walsall
+Sat Sep 10 2016,Oldham,0-0,0-0,Chesterfield
+Sat Sep 10 2016,Oxford,2-0,1-0,Swindon
+Sat Sep 10 2016,Peterboro,2-2,1-1,Port Vale
+Sat Sep 10 2016,Scunthorpe,4-0,2-0,Southend
+Tue Sep 13 2016,Bristol Rvs,1-1,1-1,Walsall
+Sat Sep 17 2016,Bradford,1-1,0-0,Bristol Rvs
+Sat Sep 17 2016,Charlton,1-2,1-0,AFC Wimbledon
+Sat Sep 17 2016,Chesterfield,3-1,1-0,Northampton
+Sat Sep 17 2016,Coventry,0-0,0-0,Oldham
+Sat Sep 17 2016,Milton Keynes Dons,0-0,0-0,Oxford
+Sat Sep 17 2016,Port Vale,2-1,0-1,Gillingham
+Sat Sep 17 2016,Rochdale,2-1,1-1,Fleetwood Town
+Sat Sep 17 2016,Sheffield United,1-0,1-0,Peterboro
+Sat Sep 17 2016,Shrewsbury,0-1,0-1,Scunthorpe
+Sat Sep 17 2016,Southend,3-1,1-1,Millwall
+Sat Sep 17 2016,Swindon,1-2,0-2,Bury
+Sat Sep 17 2016,Walsall,1-0,1-0,Bolton
+Tue Sep 20 2016,Scunthorpe,0-0,0-0,Charlton
+Tue Sep 20 2016,Swindon,1-2,1-0,Bristol Rvs
+Sat Sep 24 2016,AFC Wimbledon,1-1,1-0,Shrewsbury
+Sat Sep 24 2016,Bolton,0-0,0-0,Bradford
+Sat Sep 24 2016,Bristol Rvs,2-1,1-1,Port Vale
+Sat Sep 24 2016,Bury,2-1,1-1,Chesterfield
+Sat Sep 24 2016,Fleetwood Town,1-4,0-1,Milton Keynes Dons
+Sat Sep 24 2016,Gillingham,2-1,1-1,Coventry
+Sat Sep 24 2016,Millwall,2-3,2-1,Rochdale
+Sat Sep 24 2016,Northampton,4-0,0-0,Southend
+Sat Sep 24 2016,Oldham,0-2,0-1,Swindon
+Sat Sep 24 2016,Oxford,1-1,0-0,Charlton
+Sat Sep 24 2016,Peterboro,1-1,1-1,Walsall
+Sat Sep 24 2016,Scunthorpe,2-2,0-1,Sheffield United
+Tue Sep 27 2016,Bradford,2-1,1-1,Fleetwood Town
+Tue Sep 27 2016,Charlton,1-1,1-0,Oldham
+Tue Sep 27 2016,Chesterfield,3-3,1-0,Gillingham
+Tue Sep 27 2016,Milton Keynes Dons,1-3,0-1,Bury
+Tue Sep 27 2016,Port Vale,3-1,1-0,Millwall
+Tue Sep 27 2016,Rochdale,1-0,0-0,Bolton
+Tue Sep 27 2016,Sheffield United,1-0,0-0,Bristol Rvs
+Tue Sep 27 2016,Shrewsbury,1-1,0-1,Peterboro
+Tue Sep 27 2016,Southend,2-1,1-1,Oxford
+Tue Sep 27 2016,Swindon,1-3,0-1,Northampton
+Tue Sep 27 2016,Walsall,1-4,1-2,Scunthorpe
+Wed Sep 28 2016,Coventry,2-2,1-1,AFC Wimbledon
+Sat Oct 1 2016,AFC Wimbledon,2-0,2-0,Gillingham
+Sat Oct 1 2016,Bolton,0-2,0-0,Oxford
+Sat Oct 1 2016,Bury,1-2,0-1,Scunthorpe
+Sat Oct 1 2016,Charlton,0-1,0-1,Rochdale
+Sat Oct 1 2016,Chesterfield,0-1,0-1,Bradford
+Sat Oct 1 2016,Fleetwood Town,1-1,1-0,Sheffield United
+Sat Oct 1 2016,Northampton,2-3,1-0,Bristol Rvs
+Sat Oct 1 2016,Oldham,0-2,0-1,Milton Keynes Dons
+Sat Oct 1 2016,Port Vale,0-2,0-1,Coventry
+Sat Oct 1 2016,Shrewsbury,1-1,1-1,Swindon
+Sat Oct 1 2016,Southend,1-1,0-0,Peterboro
+Sat Oct 1 2016,Walsall,2-1,1-1,Millwall
+Sat Oct 8 2016,Bradford,2-0,1-0,Shrewsbury
+Sat Oct 8 2016,Gillingham,1-2,1-0,Oldham
+Sat Oct 8 2016,Peterboro,3-1,1-1,Bury
+Sat Oct 8 2016,Rochdale,3-0,2-0,Southend
+Sat Oct 8 2016,Scunthorpe,1-1,1-0,Northampton
+Sat Oct 8 2016,Swindon,0-1,0-0,Bolton
+Sun Oct 9 2016,Milton Keynes Dons,0-1,0-1,Port Vale
+Sun Oct 9 2016,Oxford,1-3,0-3,AFC Wimbledon
+Sat Oct 15 2016,AFC Wimbledon,0-0,0-0,Swindon
+Sat Oct 15 2016,Bolton,2-0,1-0,Oldham
+Sat Oct 15 2016,Bristol Rvs,2-1,0-0,Gillingham
+Sat Oct 15 2016,Charlton,3-0,1-0,Coventry
+Sat Oct 15 2016,Fleetwood Town,2-0,1-0,Peterboro
+Sat Oct 15 2016,Northampton,1-3,0-1,Millwall
+Sat Oct 15 2016,Oxford,1-0,0-0,Bradford
+Sat Oct 15 2016,Rochdale,2-0,1-0,Bury
+Sat Oct 15 2016,Scunthorpe,2-1,0-1,Milton Keynes Dons
+Sat Oct 15 2016,Sheffield United,4-0,2-0,Port Vale
+Sat Oct 15 2016,Southend,1-0,1-0,Chesterfield
+Sat Oct 15 2016,Walsall,3-2,2-1,Shrewsbury
+Tue Oct 18 2016,Bradford,1-1,1-0,Southend
+Tue Oct 18 2016,Bury,1-2,1-1,AFC Wimbledon
+Tue Oct 18 2016,Chesterfield,0-1,0-1,Fleetwood Town
+Tue Oct 18 2016,Coventry,2-1,2-0,Oxford
+Tue Oct 18 2016,Gillingham,1-1,1-0,Walsall
+Tue Oct 18 2016,Millwall,0-2,0-1,Bolton
+Tue Oct 18 2016,Milton Keynes Dons,3-3,2-0,Bristol Rvs
+Tue Oct 18 2016,Oldham,2-0,2-0,Scunthorpe
+Tue Oct 18 2016,Peterboro,3-0,2-0,Northampton
+Tue Oct 18 2016,Port Vale,1-1,0-1,Charlton
+Tue Oct 18 2016,Shrewsbury,0-3,0-0,Sheffield United
+Tue Oct 18 2016,Swindon,3-0,2-0,Rochdale
+Sat Oct 22 2016,Bradford,3-3,1-1,Sheffield United
+Sat Oct 22 2016,Chesterfield,0-3,0-0,Scunthorpe
+Sat Oct 22 2016,Coventry,2-0,1-0,Rochdale
+Sat Oct 22 2016,Gillingham,1-1,1-0,Charlton
+Sat Oct 22 2016,Millwall,2-1,1-0,Fleetwood Town
+Sat Oct 22 2016,Milton Keynes Dons,0-3,0-2,Southend
+Sat Oct 22 2016,Oldham,0-2,0-1,Bristol Rvs
+Sat Oct 22 2016,Peterboro,0-1,0-1,AFC Wimbledon
+Sat Oct 22 2016,Port Vale,2-2,0-2,Oxford
+Sat Oct 22 2016,Shrewsbury,2-4,1-2,Northampton
+Sat Oct 22 2016,Swindon,0-2,0-1,Walsall
+Mon Oct 24 2016,Bury,0-2,0-1,Bolton
+Sat Oct 29 2016,AFC Wimbledon,2-3,1-1,Bradford
+Sat Oct 29 2016,Bolton,3-1,3-0,Port Vale
+Sat Oct 29 2016,Bristol Rvs,1-2,0-0,Peterboro
+Sat Oct 29 2016,Charlton,1-0,0-0,Chesterfield
+Sat Oct 29 2016,Fleetwood Town,2-1,1-0,Gillingham
+Sat Oct 29 2016,Northampton,3-2,1-0,Bury
+Sat Oct 29 2016,Oxford,1-2,1-1,Millwall
+Sat Oct 29 2016,Rochdale,1-0,1-0,Oldham
+Sat Oct 29 2016,Scunthorpe,4-1,4-0,Swindon
+Sat Oct 29 2016,Sheffield United,2-1,1-0,Milton Keynes Dons
+Sat Oct 29 2016,Southend,1-1,1-1,Shrewsbury
+Sat Oct 29 2016,Walsall,1-1,0-1,Coventry
+Tue Nov 1 2016,Bristol Rvs,2-1,0-1,Fleetwood Town
+Tue Nov 1 2016,Coventry,2-0,0-0,Chesterfield
+Sat Nov 12 2016,Bradford,4-0,2-0,Rochdale
+Sat Nov 12 2016,Bury,1-4,1-2,Southend
+Sat Nov 12 2016,Coventry,0-1,0-0,Scunthorpe
+Sat Nov 12 2016,Gillingham,2-1,0-1,Northampton
+Sat Nov 12 2016,Millwall,4-0,1-0,Bristol Rvs
+Sat Nov 12 2016,Milton Keynes Dons,1-1,0-1,Walsall
+Sat Nov 12 2016,Oldham,0-0,0-0,AFC Wimbledon
+Sat Nov 12 2016,Port Vale,2-1,0-0,Fleetwood Town
+Sat Nov 12 2016,Shrewsbury,2-0,1-0,Oxford
+Sat Nov 12 2016,Swindon,3-0,1-0,Charlton
+Sun Nov 13 2016,Chesterfield,1-4,1-0,Sheffield United
+Sun Nov 13 2016,Peterboro,1-0,1-0,Bolton
+Sat Nov 19 2016,AFC Wimbledon,5-1,4-1,Bury
+Sat Nov 19 2016,Bolton,2-0,1-0,Millwall
+Sat Nov 19 2016,Bristol Rvs,0-0,0-0,Milton Keynes Dons
+Sat Nov 19 2016,Charlton,2-0,2-0,Port Vale
+Sat Nov 19 2016,Fleetwood Town,2-1,1-0,Chesterfield
+Sat Nov 19 2016,Northampton,0-1,0-0,Peterboro
+Sat Nov 19 2016,Oxford,4-1,3-0,Coventry
+Sat Nov 19 2016,Rochdale,4-0,1-0,Swindon
+Sat Nov 19 2016,Scunthorpe,1-0,0-0,Oldham
+Sat Nov 19 2016,Sheffield United,2-1,2-0,Shrewsbury
+Sat Nov 19 2016,Southend,3-0,1-0,Bradford
+Sat Nov 19 2016,Walsall,1-2,1-1,Gillingham
+Tue Nov 22 2016,Bolton,1-0,1-0,Coventry
+Tue Nov 22 2016,Bradford,1-0,0-0,Northampton
+Tue Nov 22 2016,Bristol Rvs,1-5,0-2,Charlton
+Tue Nov 22 2016,Fleetwood Town,3-0,1-0,Shrewsbury
+Tue Nov 22 2016,Millwall,0-0,0-0,AFC Wimbledon
+Tue Nov 22 2016,Milton Keynes Dons,2-3,0-1,Chesterfield
+Tue Nov 22 2016,Oxford,1-0,1-0,Gillingham
+Tue Nov 22 2016,Peterboro,0-2,0-1,Scunthorpe
+Tue Nov 22 2016,Port Vale,2-2,0-0,Oldham
+Tue Nov 22 2016,Rochdale,4-0,2-0,Walsall
+Tue Nov 22 2016,Sheffield United,1-0,0-0,Bury
+Tue Nov 22 2016,Southend,1-1,1-0,Swindon
+Sat Nov 26 2016,AFC Wimbledon,2-2,0-1,Fleetwood Town
+Sat Nov 26 2016,Bury,2-3,0-0,Millwall
+Sat Nov 26 2016,Charlton,1-1,0-1,Sheffield United
+Sat Nov 26 2016,Chesterfield,3-2,2-1,Bristol Rvs
+Sat Nov 26 2016,Coventry,1-2,1-1,Milton Keynes Dons
+Sat Nov 26 2016,Gillingham,3-0,0-0,Rochdale
+Sat Nov 26 2016,Northampton,0-1,0-1,Bolton
+Sat Nov 26 2016,Scunthorpe,1-1,1-0,Oxford
+Sat Nov 26 2016,Shrewsbury,0-0,0-0,Port Vale
+Sat Nov 26 2016,Swindon,1-0,1-0,Bradford
+Sat Nov 26 2016,Walsall,0-0,0-0,Southend
+Tue Nov 29 2016,Sheffield United,0-1,0-1,Walsall
+Sat Dec 10 2016,Bradford,0-0,0-0,Charlton
+Sat Dec 10 2016,Bristol Rvs,4-2,2-1,Bury
+Sat Dec 10 2016,Fleetwood Town,2-1,1-0,Walsall
+Sat Dec 10 2016,Millwall,0-1,0-1,Shrewsbury
+Sat Dec 10 2016,Milton Keynes Dons,1-0,0-0,AFC Wimbledon
+Sat Dec 10 2016,Oxford,1-1,0-1,Oldham
+Sat Dec 10 2016,Peterboro,5-2,2-2,Chesterfield
+Sat Dec 10 2016,Port Vale,2-3,0-1,Northampton
+Sat Dec 10 2016,Rochdale,3-2,1-0,Scunthorpe
+Sat Dec 10 2016,Sheffield United,4-0,0-0,Swindon
+Sat Dec 10 2016,Southend,3-1,1-0,Coventry
+Mon Dec 12 2016,Bolton,4-0,2-0,Gillingham
+Thu Dec 15 2016,Coventry,1-2,0-1,Sheffield United
+Sat Dec 17 2016,AFC Wimbledon,4-0,0-0,Port Vale
+Sat Dec 17 2016,Bury,2-3,2-2,Oxford
+Sat Dec 17 2016,Charlton,0-2,0-1,Peterboro
+Sat Dec 17 2016,Chesterfield,1-0,1-0,Bolton
+Sat Dec 17 2016,Gillingham,1-0,0-0,Milton Keynes Dons
+Sat Dec 17 2016,Northampton,2-3,1-1,Rochdale
+Sat Dec 17 2016,Oldham,0-2,0-1,Southend
+Sat Dec 17 2016,Scunthorpe,3-0,2-0,Millwall
+Sat Dec 17 2016,Shrewsbury,2-0,1-0,Bristol Rvs
+Sat Dec 17 2016,Swindon,1-1,1-1,Fleetwood Town
+Sat Dec 17 2016,Walsall,1-1,0-0,Bradford
+Wed Dec 21 2016,Millwall,3-1,2-0,Charlton
+Mon Dec 26 2016,Bolton,2-1,2-0,Shrewsbury
+Mon Dec 26 2016,Bradford,0-0,0-0,Scunthorpe
+Mon Dec 26 2016,Bristol Rvs,4-1,1-0,Coventry
+Mon Dec 26 2016,Fleetwood Town,0-0,0-0,Bury
+Mon Dec 26 2016,Millwall,2-0,1-0,Swindon
+Mon Dec 26 2016,Milton Keynes Dons,0-1,0-1,Charlton
+Mon Dec 26 2016,Oxford,0-1,0-0,Northampton
+Mon Dec 26 2016,Peterboro,1-1,0-0,Gillingham
+Mon Dec 26 2016,Port Vale,0-1,0-1,Walsall
+Mon Dec 26 2016,Rochdale,3-0,1-0,Chesterfield
+Mon Dec 26 2016,Sheffield United,2-0,0-0,Oldham
+Mon Dec 26 2016,Southend,3-0,2-0,AFC Wimbledon
+Fri Dec 30 2016,Millwall,2-1,1-0,Gillingham
+Fri Dec 30 2016,Milton Keynes Dons,3-2,2-1,Swindon
+Fri Dec 30 2016,Port Vale,1-0,0-0,Chesterfield
+Fri Dec 30 2016,Rochdale,2-1,2-0,Shrewsbury
+Sat Dec 31 2016,Bolton,2-1,1-0,Scunthorpe
+Sat Dec 31 2016,Bradford,1-1,0-1,Bury
+Sat Dec 31 2016,Bristol Rvs,2-0,0-0,AFC Wimbledon
+Sat Dec 31 2016,Fleetwood Town,1-0,0-0,Oldham
+Sat Dec 31 2016,Oxford,0-0,0-0,Walsall
+Sat Dec 31 2016,Peterboro,1-1,0-1,Coventry
+Sat Dec 31 2016,Sheffield United,1-0,0-0,Northampton
+Sat Dec 31 2016,Southend,1-1,1-0,Charlton
+Mon Jan 2 2017,AFC Wimbledon,2-2,1-2,Millwall
+Mon Jan 2 2017,Bury,1-3,1-1,Sheffield United
+Mon Jan 2 2017,Charlton,4-1,1-1,Bristol Rvs
+Mon Jan 2 2017,Chesterfield,0-0,0-0,Milton Keynes Dons
+Mon Jan 2 2017,Coventry,2-2,1-0,Bolton
+Mon Jan 2 2017,Gillingham,0-1,0-0,Oxford
+Mon Jan 2 2017,Northampton,1-2,1-0,Bradford
+Mon Jan 2 2017,Oldham,0-0,0-0,Port Vale
+Mon Jan 2 2017,Scunthorpe,1-1,1-0,Peterboro
+Mon Jan 2 2017,Shrewsbury,0-1,0-1,Fleetwood Town
+Mon Jan 2 2017,Swindon,0-0,0-0,Southend
+Mon Jan 2 2017,Walsall,0-2,0-1,Rochdale
+Sat Jan 7 2017,Bradford,2-0,2-0,Chesterfield
+Sat Jan 7 2017,Bristol Rvs,5-0,4-0,Northampton
+Sat Jan 7 2017,Scunthorpe,3-2,3-1,Bury
+Sat Jan 7 2017,Southend,2-4,1-2,Sheffield United
+Sat Jan 7 2017,Swindon,1-1,0-0,Shrewsbury
+Sat Jan 14 2017,AFC Wimbledon,2-1,2-1,Oxford
+Sat Jan 14 2017,Bolton,1-2,0-0,Swindon
+Sat Jan 14 2017,Bury,5-1,4-1,Peterboro
+Sat Jan 14 2017,Charlton,0-0,0-0,Millwall
+Sat Jan 14 2017,Chesterfield,1-0,0-0,Coventry
+Sat Jan 14 2017,Fleetwood Town,3-1,2-0,Bristol Rvs
+Sat Jan 14 2017,Northampton,1-2,1-1,Scunthorpe
+Sat Jan 14 2017,Oldham,1-0,1-0,Gillingham
+Sat Jan 14 2017,Shrewsbury,1-0,1-0,Bradford
+Sat Jan 14 2017,Southend,2-1,1-0,Rochdale
+Sat Jan 14 2017,Walsall,4-1,1-1,Sheffield United
+Fri Jan 20 2017,Port Vale,2-2,2-1,Bury
+Sat Jan 21 2017,Bradford,1-1,0-0,Millwall
+Sat Jan 21 2017,Chesterfield,0-0,0-0,AFC Wimbledon
+Sat Jan 21 2017,Coventry,0-1,0-0,Fleetwood Town
+Sat Jan 21 2017,Milton Keynes Dons,5-3,2-0,Northampton
+Sat Jan 21 2017,Rochdale,0-4,0-2,Oxford
+Sat Jan 21 2017,Sheffield United,2-2,1-0,Gillingham
+Sat Jan 21 2017,Shrewsbury,1-0,0-0,Oldham
+Sat Jan 21 2017,Swindon,0-1,0-0,Peterboro
+Sat Jan 21 2017,Walsall,3-1,1-0,Bristol Rvs
+Tue Jan 24 2017,Oldham,2-0,0-0,Peterboro
+Tue Jan 24 2017,Sheffield United,0-2,0-1,Fleetwood Town
+Sat Jan 28 2017,Bolton,1-2,1-2,Charlton
+Sat Jan 28 2017,Bristol Rvs,1-0,1-0,Swindon
+Sat Jan 28 2017,Bury,3-3,2-0,Walsall
+Sat Jan 28 2017,Fleetwood Town,1-1,0-1,Southend
+Sat Jan 28 2017,Gillingham,1-1,1-0,Shrewsbury
+Sat Jan 28 2017,Northampton,3-0,0-0,Coventry
+Sat Jan 28 2017,Oldham,1-2,1-1,Bradford
+Sat Jan 28 2017,Peterboro,0-4,0-0,Milton Keynes Dons
+Sat Jan 28 2017,Scunthorpe,3-2,0-1,Port Vale
+Wed Feb 1 2017,Millwall,0-0,0-0,Walsall
+Sat Feb 4 2017,Bradford,2-2,2-1,Gillingham
+Sat Feb 4 2017,Charlton,1-1,1-0,Fleetwood Town
+Sat Feb 4 2017,Chesterfield,0-1,0-0,Oldham
+Sat Feb 4 2017,Coventry,0-2,0-1,Millwall
+Sat Feb 4 2017,Milton Keynes Dons,1-1,0-1,Bolton
+Sat Feb 4 2017,Port Vale,0-3,0-1,Peterboro
+Sat Feb 4 2017,Rochdale,0-0,0-0,Bristol Rvs
+Sat Feb 4 2017,Sheffield United,4-0,2-0,AFC Wimbledon
+Sat Feb 4 2017,Shrewsbury,2-1,0-0,Bury
+Sat Feb 4 2017,Southend,3-1,1-1,Scunthorpe
+Sat Feb 4 2017,Walsall,2-1,0-1,Northampton
+Sun Feb 5 2017,Swindon,1-2,1-0,Oxford
+Tue Feb 7 2017,Milton Keynes Dons,1-0,0-0,Oldham
+Sat Feb 11 2017,AFC Wimbledon,1-1,0-1,Charlton
+Sat Feb 11 2017,Bolton,4-1,3-1,Walsall
+Sat Feb 11 2017,Bristol Rvs,1-1,1-1,Bradford
+Sat Feb 11 2017,Bury,1-0,1-0,Swindon
+Sat Feb 11 2017,Fleetwood Town,0-0,0-0,Rochdale
+Sat Feb 11 2017,Gillingham,1-1,0-0,Port Vale
+Sat Feb 11 2017,Millwall,1-0,0-0,Southend
+Sat Feb 11 2017,Northampton,3-1,2-0,Chesterfield
+Sat Feb 11 2017,Oldham,3-2,1-1,Coventry
+Sat Feb 11 2017,Oxford,1-0,0-0,Milton Keynes Dons
+Sat Feb 11 2017,Peterboro,0-1,0-0,Sheffield United
+Sat Feb 11 2017,Scunthorpe,0-1,0-0,Shrewsbury
+Tue Feb 14 2017,AFC Wimbledon,1-1,0-0,Coventry
+Tue Feb 14 2017,Bolton,1-0,0-0,Rochdale
+Tue Feb 14 2017,Bristol Rvs,0-0,0-0,Sheffield United
+Tue Feb 14 2017,Bury,0-0,0-0,Milton Keynes Dons
+Tue Feb 14 2017,Fleetwood Town,2-1,0-1,Bradford
+Tue Feb 14 2017,Gillingham,1-1,0-0,Chesterfield
+Tue Feb 14 2017,Millwall,2-0,1-0,Port Vale
+Tue Feb 14 2017,Northampton,2-1,0-0,Swindon
+Tue Feb 14 2017,Oldham,1-0,1-0,Charlton
+Tue Feb 14 2017,Oxford,0-2,0-0,Southend
+Tue Feb 14 2017,Peterboro,2-1,0-1,Shrewsbury
+Tue Feb 14 2017,Scunthorpe,0-0,0-0,Walsall
+Sat Feb 18 2017,Bradford,2-2,2-0,Bolton
+Sat Feb 18 2017,Chesterfield,1-2,1-0,Bury
+Sat Feb 18 2017,Coventry,2-1,2-0,Gillingham
+Sat Feb 18 2017,Milton Keynes Dons,0-1,0-0,Fleetwood Town
+Sat Feb 18 2017,Port Vale,1-1,0-0,Bristol Rvs
+Sat Feb 18 2017,Rochdale,3-3,1-1,Charlton
+Sat Feb 18 2017,Sheffield United,1-1,0-0,Scunthorpe
+Sat Feb 18 2017,Shrewsbury,2-1,0-0,AFC Wimbledon
+Sat Feb 18 2017,Southend,2-2,2-2,Northampton
+Sat Feb 18 2017,Swindon,0-0,0-0,Oldham
+Sat Feb 18 2017,Walsall,2-0,0-0,Peterboro
+Tue Feb 21 2017,Charlton,0-1,0-1,Oxford
+Tue Feb 21 2017,Gillingham,2-2,2-1,AFC Wimbledon
+Tue Feb 21 2017,Millwall,0-0,0-0,Chesterfield
+Tue Feb 21 2017,Peterboro,1-4,0-1,Southend
+Sat Feb 25 2017,AFC Wimbledon,1-0,0-0,Walsall
+Sat Feb 25 2017,Bristol Rvs,1-1,1-0,Scunthorpe
+Sat Feb 25 2017,Charlton,0-1,0-1,Bury
+Sat Feb 25 2017,Chesterfield,0-4,0-2,Oxford
+Sat Feb 25 2017,Coventry,1-3,0-2,Swindon
+Sat Feb 25 2017,Fleetwood Town,3-0,1-0,Northampton
+Sat Feb 25 2017,Gillingham,2-1,2-0,Southend
+Sat Feb 25 2017,Milton Keynes Dons,2-1,2-0,Shrewsbury
+Sat Feb 25 2017,Oldham,0-0,0-0,Millwall
+Sat Feb 25 2017,Peterboro,3-1,2-1,Rochdale
+Sat Feb 25 2017,Port Vale,1-2,0-1,Bradford
+Sat Feb 25 2017,Sheffield United,2-0,1-0,Bolton
+Tue Feb 28 2017,Bolton,1-1,1-0,Bristol Rvs
+Tue Feb 28 2017,Bradford,2-2,2-2,Milton Keynes Dons
+Tue Feb 28 2017,Bury,2-1,2-0,Coventry
+Tue Feb 28 2017,Millwall,1-0,0-0,Peterboro
+Tue Feb 28 2017,Northampton,1-2,0-1,Oldham
+Tue Feb 28 2017,Scunthorpe,1-2,0-0,AFC Wimbledon
+Tue Feb 28 2017,Shrewsbury,4-3,1-2,Charlton
+Tue Feb 28 2017,Swindon,3-1,0-1,Gillingham
+Sat Mar 4 2017,Bolton,1-1,1-1,AFC Wimbledon
+Sat Mar 4 2017,Bradford,1-0,1-0,Peterboro
+Sat Mar 4 2017,Bury,1-2,0-1,Gillingham
+Sat Mar 4 2017,Millwall,2-1,1-1,Milton Keynes Dons
+Sat Mar 4 2017,Northampton,2-1,1-1,Charlton
+Sat Mar 4 2017,Oxford,0-2,0-2,Bristol Rvs
+Sat Mar 4 2017,Rochdale,3-3,1-2,Sheffield United
+Sat Mar 4 2017,Scunthorpe,0-2,0-1,Fleetwood Town
+Sat Mar 4 2017,Shrewsbury,0-0,0-0,Coventry
+Sat Mar 4 2017,Southend,1-1,0-0,Port Vale
+Sat Mar 4 2017,Swindon,0-1,0-0,Chesterfield
+Sat Mar 4 2017,Walsall,2-0,0-0,Oldham
+Tue Mar 7 2017,Charlton,2-1,1-0,Scunthorpe
+Tue Mar 7 2017,Oxford,2-3,1-0,Sheffield United
+Tue Mar 7 2017,Walsall,1-0,0-0,Chesterfield
+Sat Mar 11 2017,AFC Wimbledon,0-1,0-0,Northampton
+Sat Mar 11 2017,Bristol Rvs,2-0,2-0,Southend
+Sat Mar 11 2017,Charlton,1-1,0-1,Walsall
+Sat Mar 11 2017,Chesterfield,1-1,1-1,Shrewsbury
+Sat Mar 11 2017,Coventry,0-2,0-0,Bradford
+Sat Mar 11 2017,Fleetwood Town,2-4,1-2,Bolton
+Sat Mar 11 2017,Gillingham,3-2,0-1,Scunthorpe
+Sat Mar 11 2017,Milton Keynes Dons,2-2,0-1,Rochdale
+Sat Mar 11 2017,Oldham,0-0,0-0,Bury
+Sat Mar 11 2017,Peterboro,1-2,0-1,Oxford
+Sat Mar 11 2017,Port Vale,3-2,1-1,Swindon
+Tue Mar 14 2017,AFC Wimbledon,2-0,0-0,Milton Keynes Dons
+Tue Mar 14 2017,Bury,3-0,0-0,Bristol Rvs
+Tue Mar 14 2017,Charlton,1-1,1-1,Bradford
+Tue Mar 14 2017,Chesterfield,3-3,2-3,Peterboro
+Tue Mar 14 2017,Coventry,0-2,0-2,Southend
+Tue Mar 14 2017,Gillingham,0-4,0-3,Bolton
+Tue Mar 14 2017,Northampton,2-1,0-0,Port Vale
+Tue Mar 14 2017,Oldham,2-1,1-0,Oxford
+Tue Mar 14 2017,Scunthorpe,2-1,0-1,Rochdale
+Tue Mar 14 2017,Swindon,2-4,0-2,Sheffield United
+Tue Mar 14 2017,Walsall,0-1,0-1,Fleetwood Town
+Fri Mar 17 2017,Port Vale,2-1,0-0,Shrewsbury
+Sat Mar 18 2017,Bolton,2-1,0-0,Northampton
+Sat Mar 18 2017,Bradford,2-1,0-0,Swindon
+Sat Mar 18 2017,Bristol Rvs,2-1,2-0,Chesterfield
+Sat Mar 18 2017,Fleetwood Town,0-0,0-0,AFC Wimbledon
+Sat Mar 18 2017,Millwall,0-0,0-0,Bury
+Sat Mar 18 2017,Milton Keynes Dons,1-0,0-0,Coventry
+Sat Mar 18 2017,Oxford,2-1,0-1,Scunthorpe
+Sat Mar 18 2017,Peterboro,1-1,0-1,Oldham
+Sat Mar 18 2017,Rochdale,4-1,2-1,Gillingham
+Sat Mar 18 2017,Sheffield United,2-1,1-1,Charlton
+Sat Mar 18 2017,Southend,3-2,0-2,Walsall
+Tue Mar 21 2017,Coventry,2-1,2-0,Port Vale
+Tue Mar 21 2017,Oxford,2-4,1-2,Bolton
+Tue Mar 21 2017,Rochdale,3-3,2-2,Millwall
+Sat Mar 25 2017,AFC Wimbledon,0-2,0-1,Southend
+Sat Mar 25 2017,Bury,0-0,0-0,Fleetwood Town
+Sat Mar 25 2017,Chesterfield,1-3,0-3,Rochdale
+Sat Mar 25 2017,Coventry,1-0,0-0,Bristol Rvs
+Sat Mar 25 2017,Gillingham,0-1,0-0,Peterboro
+Sat Mar 25 2017,Northampton,0-0,0-0,Oxford
+Sat Mar 25 2017,Oldham,1-1,1-0,Sheffield United
+Sat Mar 25 2017,Port Vale,0-0,0-0,Milton Keynes Dons
+Sat Mar 25 2017,Shrewsbury,0-2,0-0,Bolton
+Sat Mar 25 2017,Swindon,1-0,0-0,Millwall
+Sun Mar 26 2017,Scunthorpe,3-2,1-2,Bradford
+Tue Mar 28 2017,AFC Wimbledon,3-1,0-0,Rochdale
+Tue Mar 28 2017,Oxford,5-1,3-0,Bury
+Tue Mar 28 2017,Sheffield United,2-0,1-0,Millwall
+Sat Apr 1 2017,Bolton,0-0,0-0,Chesterfield
+Sat Apr 1 2017,Bradford,1-0,0-0,Walsall
+Sat Apr 1 2017,Bristol Rvs,2-0,0-0,Shrewsbury
+Sat Apr 1 2017,Fleetwood Town,0-1,0-0,Swindon
+Sat Apr 1 2017,Millwall,3-1,1-0,Scunthorpe
+Sat Apr 1 2017,Milton Keynes Dons,3-2,2-0,Gillingham
+Sat Apr 1 2017,Peterboro,2-0,0-0,Charlton
+Sat Apr 1 2017,Port Vale,2-0,1-0,AFC Wimbledon
+Sat Apr 1 2017,Rochdale,1-1,0-0,Northampton
+Sat Apr 1 2017,Southend,3-0,0-0,Oldham
+Tue Apr 4 2017,Charlton,0-2,0-1,Milton Keynes Dons
+Tue Apr 4 2017,Rochdale,3-0,3-0,Port Vale
+Tue Apr 4 2017,Shrewsbury,1-2,0-1,Millwall
+Tue Apr 4 2017,Southend,0-1,0-0,Bolton
+Wed Apr 5 2017,Oxford,1-3,1-1,Fleetwood Town
+Wed Apr 5 2017,Sheffield United,2-0,0-0,Coventry
+Sat Apr 8 2017,AFC Wimbledon,0-1,0-1,Bristol Rvs
+Sat Apr 8 2017,Bury,0-2,0-0,Bradford
+Sat Apr 8 2017,Charlton,2-1,1-1,Southend
+Sat Apr 8 2017,Chesterfield,1-0,0-0,Port Vale
+Sat Apr 8 2017,Coventry,1-0,0-0,Peterboro
+Sat Apr 8 2017,Gillingham,1-1,0-0,Millwall
+Sat Apr 8 2017,Northampton,1-2,1-0,Sheffield United
+Sat Apr 8 2017,Oldham,2-0,1-0,Fleetwood Town
+Sat Apr 8 2017,Scunthorpe,1-0,1-0,Bolton
+Sat Apr 8 2017,Shrewsbury,1-0,1-0,Rochdale
+Sat Apr 8 2017,Swindon,1-1,0-1,Milton Keynes Dons
+Sat Apr 8 2017,Walsall,1-1,0-0,Oxford
+Thu Apr 13 2017,Bury,0-1,0-1,Rochdale
+Fri Apr 14 2017,Bradford,1-0,0-0,Oxford
+Fri Apr 14 2017,Chesterfield,0-4,0-1,Southend
+Fri Apr 14 2017,Coventry,1-1,1-0,Charlton
+Fri Apr 14 2017,Gillingham,3-1,0-0,Bristol Rvs
+Fri Apr 14 2017,Millwall,3-0,3-0,Northampton
+Fri Apr 14 2017,Milton Keynes Dons,0-1,0-1,Scunthorpe
+Fri Apr 14 2017,Peterboro,1-2,0-2,Fleetwood Town
+Fri Apr 14 2017,Port Vale,0-3,0-2,Sheffield United
+Fri Apr 14 2017,Shrewsbury,1-1,0-1,Walsall
+Fri Apr 14 2017,Swindon,0-0,0-0,AFC Wimbledon
+Sat Apr 15 2017,Oldham,1-0,0-0,Bolton
+Mon Apr 17 2017,AFC Wimbledon,0-0,0-0,Peterboro
+Mon Apr 17 2017,Bristol Rvs,1-0,0-0,Oldham
+Mon Apr 17 2017,Charlton,3-0,2-0,Gillingham
+Mon Apr 17 2017,Fleetwood Town,1-0,1-0,Millwall
+Mon Apr 17 2017,Northampton,1-1,1-0,Shrewsbury
+Mon Apr 17 2017,Oxford,2-0,1-0,Port Vale
+Mon Apr 17 2017,Rochdale,2-0,1-0,Coventry
+Mon Apr 17 2017,Scunthorpe,3-1,2-0,Chesterfield
+Mon Apr 17 2017,Sheffield United,3-0,3-0,Bradford
+Mon Apr 17 2017,Southend,1-2,0-0,Milton Keynes Dons
+Mon Apr 17 2017,Walsall,1-0,0-0,Swindon
+Tue Apr 18 2017,Bolton,0-0,0-0,Bury
+Sat Apr 22 2017,Bradford,3-0,2-0,AFC Wimbledon
+Sat Apr 22 2017,Bury,3-0,1-0,Northampton
+Sat Apr 22 2017,Chesterfield,1-2,0-1,Charlton
+Sat Apr 22 2017,Coventry,1-0,1-0,Walsall
+Sat Apr 22 2017,Gillingham,2-3,1-0,Fleetwood Town
+Sat Apr 22 2017,Millwall,0-3,0-2,Oxford
+Sat Apr 22 2017,Milton Keynes Dons,0-3,0-1,Sheffield United
+Sat Apr 22 2017,Oldham,1-1,0-1,Rochdale
+Sat Apr 22 2017,Peterboro,4-2,2-0,Bristol Rvs
+Sat Apr 22 2017,Port Vale,0-2,0-0,Bolton
+Sat Apr 22 2017,Shrewsbury,1-0,0-0,Southend
+Sat Apr 22 2017,Swindon,1-2,0-1,Scunthorpe
+Tue Apr 25 2017,Walsall,0-1,0-0,Port Vale
+Sun Apr 30 2017,AFC Wimbledon,0-0,0-0,Oldham
+Sun Apr 30 2017,Bolton,3-0,1-0,Peterboro
+Sun Apr 30 2017,Bristol Rvs,3-4,2-3,Millwall
+Sun Apr 30 2017,Charlton,3-0,2-0,Swindon
+Sun Apr 30 2017,Fleetwood Town,0-0,0-0,Port Vale
+Sun Apr 30 2017,Northampton,0-0,0-0,Gillingham
+Sun Apr 30 2017,Oxford,2-0,2-0,Shrewsbury
+Sun Apr 30 2017,Rochdale,1-1,0-1,Bradford
+Sun Apr 30 2017,Scunthorpe,3-1,0-1,Coventry
+Sun Apr 30 2017,Sheffield United,3-2,1-1,Chesterfield
+Sun Apr 30 2017,Southend,1-0,1-0,Bury
+Sun Apr 30 2017,Walsall,1-4,0-2,Milton Keynes Dons

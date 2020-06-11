@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 13 1994,Blackpool,1-4,?,Huddersfield
+Sat Aug 13 1994,Chester,1-4,?,Bradford
+Sat Aug 13 1994,Leyton Orient,2-1,?,Birmingham
+Sat Aug 13 1994,Oxford,4-0,?,Hull
+Sat Aug 13 1994,Peterboro,0-0,?,Bristol Rvs
+Sat Aug 13 1994,Plymouth,1-5,?,Brentford
+Sat Aug 13 1994,Rotherham,0-4,?,Shrewsbury
+Sat Aug 13 1994,Stockport,4-1,?,Cardiff
+Sat Aug 13 1994,Swansea,1-1,?,Brighton
+Sat Aug 13 1994,Wrexham,2-0,?,Bournemouth
+Sat Aug 13 1994,Wycombe,3-0,?,Cambridge
+Sat Aug 13 1994,York,1-2,?,Crewe
+Sat Aug 20 1994,Birmingham,1-0,?,Chester
+Sat Aug 20 1994,Bournemouth,1-2,?,Blackpool
+Sat Aug 20 1994,Bradford,2-0,?,Leyton Orient
+Sat Aug 20 1994,Brentford,0-1,?,Peterboro
+Sat Aug 20 1994,Brighton,1-1,?,Plymouth
+Sat Aug 20 1994,Bristol Rvs,3-1,?,York
+Sat Aug 20 1994,Cambridge,3-4,?,Stockport
+Sat Aug 20 1994,Cardiff,1-3,?,Oxford
+Sat Aug 20 1994,Crewe,3-1,?,Rotherham
+Sat Aug 20 1994,Huddersfield,0-1,?,Wycombe
+Sat Aug 20 1994,Hull,0-2,?,Swansea
+Sat Aug 20 1994,Shrewsbury,2-2,?,Wrexham
+Sat Aug 27 1994,Blackpool,2-1,?,Shrewsbury
+Sat Aug 27 1994,Chester,1-2,?,Huddersfield
+Sat Aug 27 1994,Leyton Orient,1-1,?,Hull
+Sat Aug 27 1994,Oxford,1-0,?,Cambridge
+Sat Aug 27 1994,Peterboro,1-5,?,Crewe
+Sat Aug 27 1994,Plymouth,1-5,?,Bradford
+Sat Aug 27 1994,Rotherham,4-0,?,Bournemouth
+Sat Aug 27 1994,Stockport,0-1,?,Brentford
+Sat Aug 27 1994,Swansea,0-2,?,Birmingham
+Sat Aug 27 1994,Wrexham,2-1,?,Brighton
+Sat Aug 27 1994,Wycombe,0-0,?,Bristol Rvs
+Sat Aug 27 1994,York,1-1,?,Cardiff
+Tue Aug 30 1994,Birmingham,0-1,?,Wycombe
+Tue Aug 30 1994,Bournemouth,0-3,?,Peterboro
+Tue Aug 30 1994,Bradford,0-2,?,Oxford
+Tue Aug 30 1994,Brentford,2-0,?,Rotherham
+Tue Aug 30 1994,Cambridge,2-1,?,Chester
+Tue Aug 30 1994,Cardiff,0-0,?,Wrexham
+Tue Aug 30 1994,Crewe,2-1,?,Stockport
+Tue Aug 30 1994,Huddersfield,2-1,?,Leyton Orient
+Tue Aug 30 1994,Hull,2-0,?,Plymouth
+Wed Aug 31 1994,Brighton,1-0,?,York
+Wed Aug 31 1994,Bristol Rvs,0-0,?,Blackpool
+Sat Sep 3 1994,Birmingham,4-2,?,Plymouth
+Sat Sep 3 1994,Bournemouth,1-4,?,York
+Sat Sep 3 1994,Bradford,2-1,?,Wycombe
+Sat Sep 3 1994,Brentford,0-2,?,Wrexham
+Sat Sep 3 1994,Brighton,1-0,?,Leyton Orient
+Sat Sep 3 1994,Bristol Rvs,2-2,?,Stockport
+Sat Sep 3 1994,Cambridge,2-1,?,Rotherham
+Sat Sep 3 1994,Cardiff,1-1,?,Swansea
+Sat Sep 3 1994,Crewe,4-3,?,Blackpool
+Sat Sep 3 1994,Huddersfield,3-3,?,Oxford
+Sat Sep 3 1994,Hull,2-0,?,Chester
+Sat Sep 3 1994,Shrewsbury,2-2,?,Peterboro
+Tue Sep 6 1994,Shrewsbury,3-3,?,Swansea
+Sat Sep 10 1994,Blackpool,2-1,?,Cardiff
+Sat Sep 10 1994,Chester,1-2,?,Brighton
+Sat Sep 10 1994,Leyton Orient,1-1,?,Cambridge
+Sat Sep 10 1994,Oxford,1-1,?,Birmingham
+Sat Sep 10 1994,Peterboro,2-1,?,Hull
+Sat Sep 10 1994,Plymouth,0-3,?,Huddersfield
+Sat Sep 10 1994,Rotherham,0-3,?,Bristol Rvs
+Sat Sep 10 1994,Stockport,1-0,?,Bournemouth
+Sat Sep 10 1994,Swansea,0-0,?,Bradford
+Sat Sep 10 1994,Wrexham,1-0,?,Crewe
+Sat Sep 10 1994,Wycombe,4-3,?,Brentford
+Sat Sep 10 1994,York,3-0,?,Shrewsbury
+Tue Sep 13 1994,Blackpool,2-2,?,Brighton
+Tue Sep 13 1994,Chester,0-2,?,Cardiff
+Tue Sep 13 1994,Leyton Orient,3-2,?,Bournemouth
+Tue Sep 13 1994,Oxford,2-1,?,Crewe
+Tue Sep 13 1994,Peterboro,2-2,?,Huddersfield
+Tue Sep 13 1994,Plymouth,0-0,?,Cambridge
+Tue Sep 13 1994,Rotherham,1-1,?,Birmingham
+Tue Sep 13 1994,Stockport,2-1,?,Shrewsbury
+Tue Sep 13 1994,Swansea,0-0,?,Bristol Rvs
+Tue Sep 13 1994,Wrexham,0-1,?,Bradford
+Tue Sep 13 1994,Wycombe,1-2,?,Hull
+Tue Sep 13 1994,York,2-1,?,Brentford
+Sat Sep 17 1994,Bournemouth,1-1,?,Chester
+Sat Sep 17 1994,Bradford,0-0,?,York
+Sat Sep 17 1994,Brentford,3-2,?,Blackpool
+Sat Sep 17 1994,Brighton,1-1,?,Oxford
+Sat Sep 17 1994,Bristol Rvs,4-2,?,Wrexham
+Sat Sep 17 1994,Cambridge,1-3,?,Swansea
+Sat Sep 17 1994,Cardiff,0-1,?,Plymouth
+Sat Sep 17 1994,Crewe,1-2,?,Wycombe
+Sat Sep 17 1994,Huddersfield,2-1,?,Stockport
+Sat Sep 17 1994,Hull,0-2,?,Rotherham
+Sat Sep 17 1994,Shrewsbury,3-0,?,Leyton Orient
+Sun Sep 18 1994,Birmingham,4-0,?,Peterboro
+Sat Sep 24 1994,Birmingham,2-2,?,Hull
+Sat Sep 24 1994,Blackpool,2-1,?,Wrexham
+Sat Sep 24 1994,Bournemouth,3-2,?,Cardiff
+Sat Sep 24 1994,Bradford,3-4,?,Huddersfield
+Sat Sep 24 1994,Brighton,2-0,?,Cambridge
+Sat Sep 24 1994,Crewe,0-2,?,Brentford
+Sat Sep 24 1994,Oxford,3-2,?,Leyton Orient
+Sat Sep 24 1994,Peterboro,2-2,?,Rotherham
+Sat Sep 24 1994,Plymouth,1-0,?,Chester
+Sat Sep 24 1994,Shrewsbury,1-0,?,Bristol Rvs
+Sat Sep 24 1994,Stockport,4-1,?,Wycombe
+Sat Sep 24 1994,Swansea,0-0,?,York
+Sat Oct 1 1994,Brentford,1-0,?,Shrewsbury
+Sat Oct 1 1994,Bristol Rvs,2-2,?,Crewe
+Sat Oct 1 1994,Cambridge,4-1,?,Bradford
+Sat Oct 1 1994,Cardiff,1-2,?,Peterboro
+Sat Oct 1 1994,Chester,2-0,?,Oxford
+Sat Oct 1 1994,Huddersfield,3-0,?,Brighton
+Sat Oct 1 1994,Hull,3-1,?,Bournemouth
+Sat Oct 1 1994,Leyton Orient,0-2,?,Plymouth
+Sat Oct 1 1994,Rotherham,0-2,?,Blackpool
+Sat Oct 1 1994,Wrexham,1-1,?,Birmingham
+Sat Oct 1 1994,Wycombe,1-0,?,Swansea
+Sat Oct 1 1994,York,2-4,?,Stockport
+Sat Oct 8 1994,Birmingham,1-1,?,Huddersfield
+Sat Oct 8 1994,Bradford,2-1,?,Brighton
+Sat Oct 8 1994,Brentford,3-0,?,Bristol Rvs
+Sat Oct 8 1994,Cambridge,1-2,?,Wrexham
+Sat Oct 8 1994,Cardiff,1-2,?,Crewe
+Sat Oct 8 1994,Chester,2-2,?,Swansea
+Sat Oct 8 1994,Hull,1-0,?,Blackpool
+Sat Oct 8 1994,Oxford,1-0,?,Plymouth
+Sat Oct 8 1994,Shrewsbury,3-0,?,Bournemouth
+Sat Oct 8 1994,Stockport,1-0,?,Rotherham
+Sat Oct 8 1994,Wycombe,2-1,?,Leyton Orient
+Sat Oct 8 1994,York,1-1,?,Peterboro
+Sat Oct 15 1994,Blackpool,2-0,?,Bradford
+Sat Oct 15 1994,Bournemouth,0-1,?,Brentford
+Sat Oct 15 1994,Brighton,0-1,?,Birmingham
+Sat Oct 15 1994,Bristol Rvs,2-2,?,Cardiff
+Sat Oct 15 1994,Crewe,1-0,?,Shrewsbury
+Sat Oct 15 1994,Huddersfield,3-1,?,Cambridge
+Sat Oct 15 1994,Leyton Orient,2-0,?,Chester
+Sat Oct 15 1994,Peterboro,0-1,?,Stockport
+Sat Oct 15 1994,Plymouth,2-2,?,Wycombe
+Sat Oct 15 1994,Rotherham,2-1,?,York
+Sat Oct 15 1994,Swansea,1-3,?,Oxford
+Sat Oct 15 1994,Wrexham,2-2,?,Hull
+Sat Oct 22 1994,Blackpool,2-1,?,Swansea
+Sat Oct 22 1994,Bournemouth,2-3,?,Bradford
+Sat Oct 22 1994,Brentford,1-2,?,Birmingham
+Sat Oct 22 1994,Bristol Rvs,3-0,?,Brighton
+Sat Oct 22 1994,Cardiff,3-1,?,Cambridge
+Sat Oct 22 1994,Crewe,3-3,?,Huddersfield
+Sat Oct 22 1994,Peterboro,1-3,?,Wycombe
+Sat Oct 22 1994,Rotherham,2-0,?,Leyton Orient
+Sat Oct 22 1994,Shrewsbury,2-3,?,Hull
+Sat Oct 22 1994,Stockport,2-4,?,Plymouth
+Sat Oct 22 1994,Wrexham,3-2,?,Oxford
+Sat Oct 22 1994,York,2-0,?,Chester
+Sat Oct 29 1994,Birmingham,2-0,?,Bristol Rvs
+Sat Oct 29 1994,Brighton,1-1,?,Rotherham
+Sat Oct 29 1994,Cambridge,0-0,?,Brentford
+Sat Oct 29 1994,Huddersfield,3-1,?,Bournemouth
+Sat Oct 29 1994,Hull,7-1,?,Crewe
+Sat Oct 29 1994,Leyton Orient,0-1,?,Stockport
+Sat Oct 29 1994,Oxford,0-0,?,Shrewsbury
+Sat Oct 29 1994,Plymouth,0-2,?,Blackpool
+Sat Oct 29 1994,Swansea,2-0,?,Peterboro
+Sat Oct 29 1994,Wycombe,0-0,?,York
+Sun Oct 30 1994,Bradford,2-3,?,Cardiff
+Sun Oct 30 1994,Chester,1-1,?,Wrexham
+Tue Nov 1 1994,Birmingham,5-0,?,Crewe
+Tue Nov 1 1994,Cambridge,1-1,?,Bristol Rvs
+Tue Nov 1 1994,Huddersfield,2-1,?,Wrexham
+Tue Nov 1 1994,Hull,3-0,?,York
+Tue Nov 1 1994,Leyton Orient,2-0,?,Cardiff
+Tue Nov 1 1994,Oxford,3-2,?,Blackpool
+Tue Nov 1 1994,Plymouth,0-1,?,Peterboro
+Tue Nov 1 1994,Swansea,1-0,?,Rotherham
+Tue Nov 1 1994,Wycombe,1-0,?,Shrewsbury
+Wed Nov 2 1994,Bradford,1-0,?,Brentford
+Wed Nov 2 1994,Brighton,0-0,?,Bournemouth
+Wed Nov 2 1994,Chester,1-0,?,Stockport
+Sat Nov 5 1994,Blackpool,2-1,?,Leyton Orient
+Sat Nov 5 1994,Bournemouth,1-0,?,Cambridge
+Sat Nov 5 1994,Brentford,0-1,?,Hull
+Sat Nov 5 1994,Bristol Rvs,4-0,?,Bradford
+Sat Nov 5 1994,Cardiff,3-0,?,Brighton
+Sat Nov 5 1994,Crewe,1-2,?,Swansea
+Sat Nov 5 1994,Peterboro,2-0,?,Chester
+Sat Nov 5 1994,Rotherham,3-1,?,Plymouth
+Sat Nov 5 1994,Shrewsbury,0-2,?,Birmingham
+Sat Nov 5 1994,Stockport,0-2,?,Oxford
+Sat Nov 5 1994,Wrexham,4-1,?,Wycombe
+Sat Nov 5 1994,York,3-0,?,Huddersfield
+Sat Nov 19 1994,Birmingham,0-0,?,Bournemouth
+Sat Nov 19 1994,Bradford,0-2,?,Crewe
+Sat Nov 19 1994,Brighton,1-2,?,Peterboro
+Sat Nov 19 1994,Cambridge,3-1,?,Shrewsbury
+Sat Nov 19 1994,Chester,2-0,?,Blackpool
+Sat Nov 19 1994,Huddersfield,1-0,?,Brentford
+Sat Nov 19 1994,Hull,0-2,?,Bristol Rvs
+Sat Nov 19 1994,Leyton Orient,0-1,?,York
+Sat Nov 19 1994,Oxford,2-1,?,Rotherham
+Sat Nov 19 1994,Plymouth,4-1,?,Wrexham
+Sat Nov 19 1994,Swansea,2-0,?,Stockport
+Sat Nov 19 1994,Wycombe,3-1,?,Cardiff
+Fri Nov 25 1994,Cardiff,0-2,?,Hull
+Sat Nov 26 1994,Blackpool,0-1,?,Wycombe
+Sat Nov 26 1994,Bournemouth,0-2,?,Oxford
+Sat Nov 26 1994,Brentford,2-1,?,Brighton
+Sat Nov 26 1994,Bristol Rvs,1-1,?,Huddersfield
+Sat Nov 26 1994,Crewe,4-2,?,Cambridge
+Sat Nov 26 1994,Peterboro,0-0,?,Leyton Orient
+Sat Nov 26 1994,Rotherham,2-0,?,Chester
+Sat Nov 26 1994,Shrewsbury,1-2,?,Bradford
+Sat Nov 26 1994,Stockport,0-1,?,Birmingham
+Sat Nov 26 1994,Wrexham,4-1,?,Swansea
+Sat Nov 26 1994,York,1-0,?,Plymouth
+Sat Dec 10 1994,Blackpool,3-1,?,Bournemouth
+Sat Dec 10 1994,Chester,0-4,?,Birmingham
+Sat Dec 10 1994,Leyton Orient,0-0,?,Bradford
+Sat Dec 10 1994,Oxford,1-0,?,Cardiff
+Sat Dec 10 1994,Peterboro,2-2,?,Brentford
+Sat Dec 10 1994,Plymouth,0-3,?,Brighton
+Sat Dec 10 1994,Rotherham,2-2,?,Crewe
+Sat Dec 10 1994,Stockport,2-1,?,Cambridge
+Sat Dec 10 1994,Swansea,2-0,?,Hull
+Sat Dec 10 1994,Wrexham,0-1,?,Shrewsbury
+Sat Dec 10 1994,Wycombe,2-1,?,Huddersfield
+Sat Dec 10 1994,York,0-3,?,Bristol Rvs
+Fri Dec 16 1994,Bournemouth,1-3,?,Wrexham
+Fri Dec 16 1994,Cambridge,2-2,?,Wycombe
+Fri Dec 16 1994,Crewe,2-1,?,York
+Fri Dec 16 1994,Shrewsbury,1-0,?,Rotherham
+Sat Dec 17 1994,Birmingham,2-0,?,Leyton Orient
+Sat Dec 17 1994,Bradford,1-1,?,Chester
+Sat Dec 17 1994,Brentford,7-0,?,Plymouth
+Sat Dec 17 1994,Brighton,1-1,?,Swansea
+Sat Dec 17 1994,Bristol Rvs,3-1,?,Peterboro
+Sat Dec 17 1994,Cardiff,1-1,?,Stockport
+Sat Dec 17 1994,Huddersfield,1-1,?,Blackpool
+Sat Dec 17 1994,Hull,3-1,?,Oxford
+Mon Dec 26 1994,Birmingham,1-1,?,Cambridge
+Mon Dec 26 1994,Brentford,3-0,?,Leyton Orient
+Mon Dec 26 1994,Bristol Rvs,2-1,?,Bournemouth
+Mon Dec 26 1994,Crewe,2-1,?,Chester
+Mon Dec 26 1994,Hull,1-0,?,Huddersfield
+Mon Dec 26 1994,Peterboro,1-4,?,Oxford
+Mon Dec 26 1994,Rotherham,3-1,?,Bradford
+Mon Dec 26 1994,Shrewsbury,0-1,?,Cardiff
+Mon Dec 26 1994,Stockport,1-1,?,Wrexham
+Mon Dec 26 1994,Swansea,3-0,?,Plymouth
+Mon Dec 26 1994,Wycombe,0-0,?,Brighton
+Mon Dec 26 1994,York,4-0,?,Blackpool
+Tue Dec 27 1994,Blackpool,1-2,?,Stockport
+Tue Dec 27 1994,Bournemouth,1-1,?,Crewe
+Tue Dec 27 1994,Brighton,2-1,?,Shrewsbury
+Tue Dec 27 1994,Chester,1-4,?,Brentford
+Tue Dec 27 1994,Huddersfield,1-0,?,Rotherham
+Tue Dec 27 1994,Leyton Orient,0-1,?,Swansea
+Tue Dec 27 1994,Oxford,0-2,?,Wycombe
+Tue Dec 27 1994,Wrexham,3-3,?,Peterboro
+Wed Dec 28 1994,Bradford,1-0,?,Hull
+Wed Dec 28 1994,Cambridge,1-0,?,York
+Wed Dec 28 1994,Cardiff,0-1,?,Birmingham
+Sat Dec 31 1994,Birmingham,7-1,?,Blackpool
+Sat Dec 31 1994,Brentford,2-0,?,Oxford
+Sat Dec 31 1994,Bristol Rvs,3-0,?,Chester
+Sat Dec 31 1994,Crewe,3-0,?,Leyton Orient
+Sat Dec 31 1994,Hull,2-2,?,Brighton
+Sat Dec 31 1994,Peterboro,2-2,?,Cambridge
+Sat Dec 31 1994,Rotherham,2-0,?,Cardiff
+Sat Dec 31 1994,Stockport,1-2,?,Bradford
+Sat Dec 31 1994,Swansea,1-1,?,Huddersfield
+Sat Dec 31 1994,Wycombe,1-1,?,Bournemouth
+Mon Jan 2 1995,Blackpool,4-0,?,Peterboro
+Mon Jan 2 1995,Bournemouth,3-2,?,Swansea
+Mon Jan 2 1995,Bradford,1-1,?,Birmingham
+Mon Jan 2 1995,Brighton,2-0,?,Stockport
+Mon Jan 2 1995,Cambridge,2-2,?,Hull
+Mon Jan 2 1995,Cardiff,2-3,?,Brentford
+Mon Jan 2 1995,Huddersfield,2-1,?,Shrewsbury
+Mon Jan 2 1995,Oxford,0-2,?,York
+Mon Jan 2 1995,Plymouth,3-2,?,Crewe
+Sat Jan 7 1995,Bradford,1-2,?,Bournemouth
+Sat Jan 7 1995,Cardiff,0-1,?,Blackpool
+Sat Jan 7 1995,Chester,0-4,?,York
+Sat Jan 7 1995,Huddersfield,1-2,?,Crewe
+Sat Jan 7 1995,Hull,2-2,?,Shrewsbury
+Sat Jan 7 1995,Leyton Orient,0-0,?,Rotherham
+Sat Jan 14 1995,Blackpool,2-3,?,Cambridge
+Sat Jan 14 1995,Bournemouth,0-0,?,Plymouth
+Sat Jan 14 1995,Brentford,0-0,?,Swansea
+Sat Jan 14 1995,Bristol Rvs,3-2,?,Oxford
+Sat Jan 14 1995,Cardiff,0-0,?,Huddersfield
+Sat Jan 14 1995,Crewe,4-0,?,Brighton
+Sat Jan 14 1995,Peterboro,0-0,?,Bradford
+Sat Jan 14 1995,Rotherham,2-0,?,Wycombe
+Sat Jan 14 1995,Shrewsbury,1-0,?,Chester
+Sat Jan 14 1995,Stockport,4-0,?,Hull
+Sat Jan 14 1995,Wrexham,4-1,?,Leyton Orient
+Sat Jan 14 1995,York,2-0,?,Birmingham
+Tue Jan 17 1995,Cambridge,2-0,?,Cardiff
+Sat Jan 21 1995,Cambridge,2-2,?,Bournemouth
+Sat Jan 21 1995,Hull,1-2,?,Brentford
+Sat Jan 21 1995,Plymouth,0-0,?,Rotherham
+Sat Jan 28 1995,Blackpool,5-2,?,Plymouth
+Sat Jan 28 1995,Bournemouth,0-2,?,Huddersfield
+Sat Jan 28 1995,Brentford,6-0,?,Cambridge
+Sat Jan 28 1995,Chester,1-1,?,Peterboro
+Sat Jan 28 1995,Shrewsbury,1-1,?,Oxford
+Sat Jan 28 1995,Stockport,2-1,?,Leyton Orient
+Wed Feb 1 1995,Bradford,2-1,?,Bristol Rvs
+Wed Feb 1 1995,Chester,0-2,?,Wycombe
+Wed Feb 1 1995,Leyton Orient,0-1,?,Blackpool
+Wed Feb 1 1995,Shrewsbury,3-2,?,Plymouth
+Wed Feb 1 1995,York,0-1,?,Wrexham
+Sat Feb 4 1995,Birmingham,1-0,?,Stockport
+Sat Feb 4 1995,Bradford,1-1,?,Shrewsbury
+Sat Feb 4 1995,Brighton,1-1,?,Brentford
+Sat Feb 4 1995,Cambridge,1-2,?,Crewe
+Sat Feb 4 1995,Chester,4-4,?,Rotherham
+Sat Feb 4 1995,Huddersfield,1-1,?,Bristol Rvs
+Sat Feb 4 1995,Hull,4-0,?,Cardiff
+Sat Feb 4 1995,Leyton Orient,4-1,?,Peterboro
+Sat Feb 4 1995,Oxford,0-3,?,Bournemouth
+Sat Feb 4 1995,Plymouth,1-2,?,York
+Sat Feb 4 1995,Swansea,0-0,?,Wrexham
+Sat Feb 4 1995,Wycombe,1-1,?,Blackpool
+Sat Feb 11 1995,Blackpool,2-1,?,Oxford
+Sat Feb 11 1995,Bournemouth,0-3,?,Brighton
+Sat Feb 11 1995,Brentford,4-3,?,Bradford
+Sat Feb 11 1995,Crewe,2-1,?,Birmingham
+Sat Feb 11 1995,Peterboro,1-2,?,Plymouth
+Sat Feb 11 1995,Rotherham,3-3,?,Swansea
+Sat Feb 11 1995,Shrewsbury,2-2,?,Wycombe
+Sat Feb 11 1995,Stockport,2-2,?,Chester
+Sat Feb 11 1995,Wrexham,1-2,?,Huddersfield
+Tue Feb 14 1995,Brighton,1-2,?,Bristol Rvs
+Tue Feb 14 1995,Wrexham,2-2,?,Chester
+Fri Feb 17 1995,Swansea,0-2,?,Brentford
+Sat Feb 18 1995,Birmingham,4-2,?,York
+Sat Feb 18 1995,Bradford,4-2,?,Peterboro
+Sat Feb 18 1995,Brighton,0-1,?,Crewe
+Sat Feb 18 1995,Cambridge,0-0,?,Blackpool
+Sat Feb 18 1995,Chester,1-3,?,Shrewsbury
+Sat Feb 18 1995,Huddersfield,5-1,?,Cardiff
+Sat Feb 18 1995,Hull,0-0,?,Stockport
+Sat Feb 18 1995,Leyton Orient,1-1,?,Wrexham
+Sat Feb 18 1995,Oxford,0-0,?,Bristol Rvs
+Sat Feb 18 1995,Plymouth,0-1,?,Bournemouth
+Sat Feb 18 1995,Wycombe,2-0,?,Rotherham
+Tue Feb 21 1995,Blackpool,3-1,?,Chester
+Tue Feb 21 1995,Bournemouth,2-1,?,Birmingham
+Tue Feb 21 1995,Brentford,0-0,?,Huddersfield
+Tue Feb 21 1995,Cardiff,2-0,?,Wycombe
+Tue Feb 21 1995,Crewe,0-1,?,Bradford
+Tue Feb 21 1995,Peterboro,2-1,?,Brighton
+Tue Feb 21 1995,Rotherham,1-1,?,Oxford
+Tue Feb 21 1995,Shrewsbury,1-1,?,Cambridge
+Tue Feb 21 1995,Stockport,0-1,?,Swansea
+Tue Feb 21 1995,Wrexham,3-1,?,Plymouth
+Tue Feb 21 1995,York,4-1,?,Leyton Orient
+Sat Feb 25 1995,Birmingham,5-2,?,Wrexham
+Sat Feb 25 1995,Blackpool,2-2,?,Rotherham
+Sat Feb 25 1995,Bournemouth,2-3,?,Hull
+Sat Feb 25 1995,Bradford,1-1,?,Cambridge
+Sat Feb 25 1995,Brighton,0-0,?,Huddersfield
+Sat Feb 25 1995,Crewe,2-1,?,Bristol Rvs
+Sat Feb 25 1995,Oxford,1-0,?,Chester
+Sat Feb 25 1995,Peterboro,2-1,?,Cardiff
+Sat Feb 25 1995,Plymouth,1-0,?,Leyton Orient
+Sat Feb 25 1995,Shrewsbury,2-1,?,Brentford
+Sat Feb 25 1995,Stockport,2-3,?,York
+Sat Feb 25 1995,Swansea,1-1,?,Wycombe
+Tue Feb 28 1995,Huddersfield,3-0,?,York
+Tue Feb 28 1995,Oxford,4-0,?,Stockport
+Tue Feb 28 1995,Swansea,1-0,?,Blackpool
+Wed Mar 1 1995,Bristol Rvs,0-2,?,Hull
+Sat Mar 4 1995,Brentford,2-0,?,Crewe
+Sat Mar 4 1995,Bristol Rvs,4-0,?,Shrewsbury
+Sat Mar 4 1995,Cambridge,0-2,?,Brighton
+Sat Mar 4 1995,Cardiff,1-1,?,Bournemouth
+Sat Mar 4 1995,Chester,1-0,?,Plymouth
+Sat Mar 4 1995,Huddersfield,0-0,?,Bradford
+Sat Mar 4 1995,Hull,0-0,?,Birmingham
+Sat Mar 4 1995,Leyton Orient,1-1,?,Oxford
+Sat Mar 4 1995,Rotherham,0-0,?,Peterboro
+Sat Mar 4 1995,Wrexham,0-1,?,Blackpool
+Sat Mar 4 1995,Wycombe,1-1,?,Stockport
+Sat Mar 4 1995,York,2-4,?,Swansea
+Tue Mar 7 1995,Blackpool,0-0,?,Crewe
+Tue Mar 7 1995,Leyton Orient,0-3,?,Brighton
+Tue Mar 7 1995,Oxford,3-1,?,Huddersfield
+Tue Mar 7 1995,Peterboro,1-1,?,Shrewsbury
+Tue Mar 7 1995,Rotherham,1-0,?,Cambridge
+Tue Mar 7 1995,Stockport,2-1,?,Bristol Rvs
+Tue Mar 7 1995,Swansea,4-1,?,Cardiff
+Tue Mar 7 1995,Wrexham,0-0,?,Brentford
+Tue Mar 7 1995,York,1-0,?,Bournemouth
+Sat Mar 11 1995,Birmingham,0-1,?,Swansea
+Sat Mar 11 1995,Bournemouth,1-1,?,Rotherham
+Sat Mar 11 1995,Bradford,2-0,?,Plymouth
+Sat Mar 11 1995,Brentford,1-0,?,Stockport
+Sat Mar 11 1995,Brighton,4-0,?,Wrexham
+Sat Mar 11 1995,Bristol Rvs,1-0,?,Wycombe
+Sat Mar 11 1995,Cambridge,1-2,?,Oxford
+Sat Mar 11 1995,Cardiff,1-2,?,York
+Sat Mar 11 1995,Crewe,1-3,?,Peterboro
+Sat Mar 11 1995,Huddersfield,5-1,?,Chester
+Sat Mar 11 1995,Hull,2-0,?,Leyton Orient
+Sat Mar 11 1995,Shrewsbury,0-0,?,Blackpool
+Wed Mar 15 1995,Brighton,0-0,?,Cardiff
+Wed Mar 15 1995,Bristol Rvs,2-1,?,Cambridge
+Thu Mar 16 1995,Wrexham,3-1,?,Rotherham
+Thu Mar 16 1995,York,0-0,?,Wycombe
+Fri Mar 17 1995,Swansea,0-0,?,Shrewsbury
+Sat Mar 18 1995,Blackpool,0-2,?,Bristol Rvs
+Sat Mar 18 1995,Chester,1-3,?,Cambridge
+Sat Mar 18 1995,Leyton Orient,0-2,?,Huddersfield
+Sat Mar 18 1995,Oxford,1-0,?,Bradford
+Sat Mar 18 1995,Peterboro,0-0,?,Bournemouth
+Sat Mar 18 1995,Plymouth,2-1,?,Hull
+Sat Mar 18 1995,Rotherham,0-2,?,Brentford
+Sat Mar 18 1995,Stockport,3-1,?,Crewe
+Sat Mar 18 1995,Wrexham,0-3,?,Cardiff
+Sat Mar 18 1995,Wycombe,0-3,?,Birmingham
+Sat Mar 18 1995,York,1-0,?,Brighton
+Tue Mar 21 1995,Birmingham,3-0,?,Oxford
+Tue Mar 21 1995,Bournemouth,2-0,?,Stockport
+Tue Mar 21 1995,Bradford,1-3,?,Swansea
+Tue Mar 21 1995,Brentford,0-0,?,Wycombe
+Tue Mar 21 1995,Cambridge,0-0,?,Leyton Orient
+Tue Mar 21 1995,Crewe,1-3,?,Wrexham
+Tue Mar 21 1995,Huddersfield,2-0,?,Plymouth
+Tue Mar 21 1995,Hull,1-1,?,Peterboro
+Tue Mar 21 1995,Shrewsbury,1-0,?,York
+Wed Mar 22 1995,Brighton,1-0,?,Chester
+Wed Mar 22 1995,Bristol Rvs,2-0,?,Rotherham
+Fri Mar 24 1995,Swansea,1-0,?,Cambridge
+Sat Mar 25 1995,Blackpool,1-2,?,Brentford
+Sat Mar 25 1995,Chester,1-1,?,Bournemouth
+Sat Mar 25 1995,Leyton Orient,2-1,?,Shrewsbury
+Sat Mar 25 1995,Oxford,0-0,?,Brighton
+Sat Mar 25 1995,Peterboro,1-1,?,Birmingham
+Sat Mar 25 1995,Plymouth,0-0,?,Cardiff
+Sat Mar 25 1995,Rotherham,2-0,?,Hull
+Sat Mar 25 1995,Stockport,1-2,?,Huddersfield
+Sat Mar 25 1995,Wrexham,1-1,?,Bristol Rvs
+Sat Mar 25 1995,Wycombe,0-0,?,Crewe
+Sat Mar 25 1995,York,0-0,?,Bradford
+Tue Mar 28 1995,Cardiff,2-4,?,Bradford
+Tue Mar 28 1995,Chester,1-2,?,Hull
+Tue Mar 28 1995,Plymouth,0-2,?,Stockport
+Tue Mar 28 1995,Rotherham,4-3,?,Brighton
+Tue Mar 28 1995,Wycombe,3-1,?,Peterboro
+Wed Mar 29 1995,Bristol Rvs,1-1,?,Birmingham
+Sat Apr 1 1995,Birmingham,2-1,?,Rotherham
+Sat Apr 1 1995,Bournemouth,2-0,?,Leyton Orient
+Sat Apr 1 1995,Bradford,1-1,?,Wrexham
+Sat Apr 1 1995,Brentford,3-0,?,York
+Sat Apr 1 1995,Brighton,2-2,?,Blackpool
+Sat Apr 1 1995,Bristol Rvs,1-0,?,Swansea
+Sat Apr 1 1995,Cambridge,1-1,?,Plymouth
+Sat Apr 1 1995,Cardiff,2-1,?,Chester
+Sat Apr 1 1995,Crewe,3-2,?,Oxford
+Sat Apr 1 1995,Huddersfield,1-2,?,Peterboro
+Sat Apr 1 1995,Hull,0-0,?,Wycombe
+Sat Apr 1 1995,Shrewsbury,1-1,?,Stockport
+Tue Apr 4 1995,Blackpool,1-1,?,Birmingham
+Tue Apr 4 1995,Cardiff,2-1,?,Leyton Orient
+Tue Apr 4 1995,Oxford,0-0,?,Wrexham
+Tue Apr 4 1995,Peterboro,1-0,?,Swansea
+Tue Apr 4 1995,Plymouth,1-1,?,Bristol Rvs
+Tue Apr 4 1995,Wycombe,3-1,?,Bradford
+Tue Apr 4 1995,York,3-1,?,Hull
+Sat Apr 8 1995,Bournemouth,2-0,?,Wycombe
+Sat Apr 8 1995,Bradford,1-2,?,Stockport
+Sat Apr 8 1995,Brighton,1-0,?,Hull
+Sat Apr 8 1995,Cambridge,2-0,?,Peterboro
+Sat Apr 8 1995,Cardiff,1-1,?,Rotherham
+Sat Apr 8 1995,Chester,0-0,?,Bristol Rvs
+Sat Apr 8 1995,Huddersfield,2-0,?,Swansea
+Sat Apr 8 1995,Leyton Orient,1-4,?,Crewe
+Sat Apr 8 1995,Oxford,1-1,?,Brentford
+Sat Apr 8 1995,Plymouth,1-0,?,Shrewsbury
+Sat Apr 8 1995,Wrexham,1-1,?,York
+Tue Apr 11 1995,Birmingham,2-0,?,Shrewsbury
+Tue Apr 11 1995,Leyton Orient,1-2,?,Bristol Rvs
+Tue Apr 11 1995,Wycombe,3-0,?,Wrexham
+Sat Apr 15 1995,Birmingham,2-1,?,Cardiff
+Sat Apr 15 1995,Brentford,1-1,?,Chester
+Sat Apr 15 1995,Bristol Rvs,2-0,?,Plymouth
+Sat Apr 15 1995,Crewe,2-0,?,Bournemouth
+Sat Apr 15 1995,Hull,2-0,?,Bradford
+Sat Apr 15 1995,Peterboro,1-0,?,Wrexham
+Sat Apr 15 1995,Rotherham,1-1,?,Huddersfield
+Sat Apr 15 1995,Shrewsbury,1-1,?,Brighton
+Sat Apr 15 1995,Stockport,3-2,?,Blackpool
+Sat Apr 15 1995,Swansea,2-0,?,Leyton Orient
+Sat Apr 15 1995,Wycombe,1-0,?,Oxford
+Sat Apr 15 1995,York,2-0,?,Cambridge
+Mon Apr 17 1995,Bradford,0-3,?,Rotherham
+Mon Apr 17 1995,Cambridge,1-0,?,Birmingham
+Mon Apr 17 1995,Cardiff,1-2,?,Shrewsbury
+Mon Apr 17 1995,Chester,0-1,?,Crewe
+Mon Apr 17 1995,Huddersfield,1-1,?,Hull
+Mon Apr 17 1995,Leyton Orient,0-2,?,Brentford
+Mon Apr 17 1995,Oxford,1-0,?,Peterboro
+Mon Apr 17 1995,Plymouth,2-1,?,Swansea
+Mon Apr 17 1995,Wrexham,1-0,?,Stockport
+Tue Apr 18 1995,Blackpool,0-5,?,York
+Tue Apr 18 1995,Bournemouth,2-0,?,Bristol Rvs
+Wed Apr 19 1995,Brighton,1-1,?,Wycombe
+Wed Apr 19 1995,Plymouth,1-3,?,Birmingham
+Sat Apr 22 1995,Brentford,2-0,?,Cardiff
+Sat Apr 22 1995,Bristol Rvs,1-0,?,Leyton Orient
+Sat Apr 22 1995,Crewe,2-2,?,Plymouth
+Sat Apr 22 1995,Hull,1-0,?,Cambridge
+Sat Apr 22 1995,Peterboro,1-0,?,Blackpool
+Sat Apr 22 1995,Rotherham,0-1,?,Wrexham
+Sat Apr 22 1995,Shrewsbury,2-1,?,Huddersfield
+Sat Apr 22 1995,Stockport,2-0,?,Brighton
+Sat Apr 22 1995,Swansea,1-0,?,Bournemouth
+Sat Apr 22 1995,Wycombe,3-1,?,Chester
+Sat Apr 22 1995,York,0-2,?,Oxford
+Tue Apr 25 1995,Swansea,0-1,?,Crewe
+Wed Apr 26 1995,Birmingham,2-0,?,Brentford
+Sat Apr 29 1995,Birmingham,3-3,?,Brighton
+Sat Apr 29 1995,Bradford,0-1,?,Blackpool
+Sat Apr 29 1995,Brentford,1-2,?,Bournemouth
+Sat Apr 29 1995,Cambridge,1-1,?,Huddersfield
+Sat Apr 29 1995,Cardiff,0-1,?,Bristol Rvs
+Sat Apr 29 1995,Chester,1-0,?,Leyton Orient
+Sat Apr 29 1995,Hull,3-1,?,Wrexham
+Sat Apr 29 1995,Shrewsbury,1-2,?,Crewe
+Sat Apr 29 1995,Stockport,1-1,?,Peterboro
+Sat Apr 29 1995,Wycombe,1-2,?,Plymouth
+Sat Apr 29 1995,York,2-0,?,Rotherham
+Sun Apr 30 1995,Oxford,1-2,?,Swansea
+Tue May 2 1995,Birmingham,0-0,?,Bradford
+Tue May 2 1995,Bournemouth,3-0,?,Shrewsbury
+Tue May 2 1995,Crewe,3-2,?,Hull
+Sat May 6 1995,Blackpool,1-2,?,Hull
+Sat May 6 1995,Brighton,1-0,?,Bradford
+Sat May 6 1995,Bristol Rvs,2-2,?,Brentford
+Sat May 6 1995,Crewe,0-0,?,Cardiff
+Sat May 6 1995,Huddersfield,1-2,?,Birmingham
+Sat May 6 1995,Leyton Orient,0-1,?,Wycombe
+Sat May 6 1995,Peterboro,1-1,?,York
+Sat May 6 1995,Plymouth,1-1,?,Oxford
+Sat May 6 1995,Rotherham,1-0,?,Stockport
+Sat May 6 1995,Swansea,0-1,?,Chester
+Sat May 6 1995,Wrexham,0-1,?,Cambridge

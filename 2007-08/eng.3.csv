@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 11 2007,Cheltenham,1-0,1-0,Gillingham
+Sat Aug 11 2007,Crewe,2-1,1-1,Brighton
+Sat Aug 11 2007,Doncaster,0-0,0-0,Millwall
+Sat Aug 11 2007,Huddersfield,1-0,1-0,Yeovil
+Sat Aug 11 2007,Luton,2-1,1-0,Hartlepool
+Sat Aug 11 2007,Northampton,1-1,1-1,Swindon
+Sat Aug 11 2007,Nott'm Forest,0-0,0-0,Bournemouth
+Sat Aug 11 2007,Oldham,2-1,1-0,Swansea
+Sat Aug 11 2007,Port Vale,1-1,0-0,Bristol Rvs
+Sat Aug 11 2007,Southend,1-2,1-1,Leyton Orient
+Sat Aug 11 2007,Tranmere,1-2,1-0,Leeds
+Sat Aug 11 2007,Walsall,1-1,0-1,Carlisle
+Sat Aug 18 2007,Bournemouth,0-1,0-1,Huddersfield
+Sat Aug 18 2007,Brighton,2-1,1-1,Northampton
+Sat Aug 18 2007,Bristol Rvs,1-1,1-1,Crewe
+Sat Aug 18 2007,Carlisle,1-0,1-0,Oldham
+Sat Aug 18 2007,Gillingham,0-2,0-1,Tranmere
+Sat Aug 18 2007,Hartlepool,2-1,1-0,Doncaster
+Sat Aug 18 2007,Leeds,4-1,1-0,Southend
+Sat Aug 18 2007,Leyton Orient,1-0,0-0,Walsall
+Sat Aug 18 2007,Millwall,1-0,1-0,Cheltenham
+Sat Aug 18 2007,Swansea,0-0,0-0,Nott'm Forest
+Sat Aug 18 2007,Swindon,2-1,0-0,Luton
+Sat Aug 18 2007,Yeovil,1-0,1-0,Port Vale
+Sat Aug 25 2007,Cheltenham,1-1,0-1,Swindon
+Sat Aug 25 2007,Crewe,0-2,0-1,Leyton Orient
+Sat Aug 25 2007,Doncaster,1-2,1-1,Bournemouth
+Sat Aug 25 2007,Huddersfield,0-2,0-2,Carlisle
+Sat Aug 25 2007,Luton,3-1,2-1,Gillingham
+Sat Aug 25 2007,Northampton,1-2,1-1,Yeovil
+Sat Aug 25 2007,Nott'm Forest,1-2,0-1,Leeds
+Sat Aug 25 2007,Oldham,0-1,0-1,Bristol Rvs
+Sat Aug 25 2007,Port Vale,0-2,0-1,Hartlepool
+Sat Aug 25 2007,Southend,1-0,0-0,Millwall
+Sat Aug 25 2007,Tranmere,2-0,0-0,Brighton
+Sat Aug 25 2007,Walsall,1-3,1-2,Swansea
+Sat Sep 1 2007,Bournemouth,0-1,0-0,Port Vale
+Sat Sep 1 2007,Brighton,3-2,0-1,Southend
+Sat Sep 1 2007,Bristol Rvs,2-2,2-2,Nott'm Forest
+Sat Sep 1 2007,Carlisle,1-0,0-0,Cheltenham
+Sat Sep 1 2007,Gillingham,2-1,2-1,Walsall
+Sat Sep 1 2007,Hartlepool,4-1,3-1,Oldham
+Sat Sep 1 2007,Leeds,1-0,1-0,Luton
+Sat Sep 1 2007,Leyton Orient,2-2,0-2,Northampton
+Sat Sep 1 2007,Millwall,1-2,1-1,Huddersfield
+Sat Sep 1 2007,Swansea,1-2,1-0,Doncaster
+Sat Sep 1 2007,Swindon,1-1,1-1,Crewe
+Sat Sep 1 2007,Yeovil,1-1,0-0,Tranmere
+Fri Sep 7 2007,Brighton,3-0,2-0,Millwall
+Fri Sep 7 2007,Northampton,2-0,0-0,Doncaster
+Sat Sep 8 2007,Carlisle,0-1,0-1,Tranmere
+Sat Sep 8 2007,Crewe,2-0,2-0,Huddersfield
+Sat Sep 8 2007,Leeds,2-0,1-0,Hartlepool
+Sat Sep 8 2007,Leyton Orient,1-0,0-0,Bournemouth
+Sat Sep 8 2007,Luton,1-2,1-1,Bristol Rvs
+Sat Sep 8 2007,Southend,3-0,2-0,Gillingham
+Sat Sep 8 2007,Walsall,0-0,0-0,Port Vale
+Sun Sep 9 2007,Swindon,0-1,0-0,Yeovil
+Fri Sep 14 2007,Bristol Rvs,0-3,0-1,Leeds
+Fri Sep 14 2007,Swansea,2-1,0-0,Carlisle
+Fri Sep 14 2007,Tranmere,2-1,0-1,Luton
+Sat Sep 15 2007,Bournemouth,1-1,1-0,Northampton
+Sat Sep 15 2007,Gillingham,1-0,0-0,Brighton
+Sat Sep 15 2007,Hartlepool,1-1,0-1,Swindon
+Sat Sep 15 2007,Huddersfield,2-3,0-0,Cheltenham
+Sat Sep 15 2007,Millwall,1-2,0-1,Walsall
+Sat Sep 15 2007,Oldham,0-1,0-1,Southend
+Sat Sep 15 2007,Port Vale,0-2,0-1,Nott'm Forest
+Sat Sep 15 2007,Yeovil,0-1,0-0,Leyton Orient
+Sun Sep 16 2007,Doncaster,2-0,1-0,Crewe
+Tue Sep 18 2007,Cheltenham,1-2,1-0,Swansea
+Sat Sep 22 2007,Brighton,1-2,0-2,Yeovil
+Sat Sep 22 2007,Carlisle,1-1,0-1,Bristol Rvs
+Sat Sep 22 2007,Cheltenham,1-1,0-1,Tranmere
+Sat Sep 22 2007,Crewe,0-0,0-0,Millwall
+Sat Sep 22 2007,Leeds,2-0,0-0,Swansea
+Sat Sep 22 2007,Leyton Orient,2-4,0-1,Hartlepool
+Sat Sep 22 2007,Luton,2-1,1-0,Port Vale
+Sat Sep 22 2007,Northampton,3-0,1-0,Huddersfield
+Sat Sep 22 2007,Nott'm Forest,4-0,1-0,Gillingham
+Sat Sep 22 2007,Southend,3-2,1-2,Doncaster
+Sat Sep 22 2007,Swindon,4-1,1-1,Bournemouth
+Sat Sep 22 2007,Walsall,0-3,0-1,Oldham
+Sat Sep 29 2007,Bournemouth,1-3,0-2,Carlisle
+Sat Sep 29 2007,Bristol Rvs,2-3,1-0,Leyton Orient
+Sat Sep 29 2007,Doncaster,2-0,1-0,Cheltenham
+Sat Sep 29 2007,Gillingham,1-1,0-1,Leeds
+Sat Sep 29 2007,Hartlepool,0-1,0-0,Walsall
+Sat Sep 29 2007,Huddersfield,2-0,1-0,Luton
+Sat Sep 29 2007,Millwall,1-2,0-1,Swindon
+Sat Sep 29 2007,Oldham,3-2,1-2,Crewe
+Sat Sep 29 2007,Port Vale,1-2,0-2,Southend
+Sat Sep 29 2007,Swansea,0-0,0-0,Brighton
+Sat Sep 29 2007,Tranmere,2-2,0-2,Northampton
+Sat Sep 29 2007,Yeovil,0-3,0-0,Nott'm Forest
+Tue Oct 2 2007,Bournemouth,0-2,0-0,Brighton
+Tue Oct 2 2007,Bristol Rvs,1-1,1-0,Southend
+Tue Oct 2 2007,Doncaster,2-3,2-1,Walsall
+Tue Oct 2 2007,Gillingham,3-1,1-0,Leyton Orient
+Tue Oct 2 2007,Hartlepool,2-2,1-2,Carlisle
+Tue Oct 2 2007,Huddersfield,1-1,0-0,Nott'm Forest
+Tue Oct 2 2007,Millwall,2-0,2-0,Northampton
+Tue Oct 2 2007,Oldham,0-1,0-0,Leeds
+Tue Oct 2 2007,Port Vale,3-0,1-0,Cheltenham
+Tue Oct 2 2007,Swansea,2-1,1-0,Swindon
+Tue Oct 2 2007,Tranmere,1-1,0-0,Crewe
+Tue Oct 2 2007,Yeovil,0-0,0-0,Luton
+Sat Oct 6 2007,Brighton,0-0,0-0,Bristol Rvs
+Sat Oct 6 2007,Carlisle,4-0,4-0,Millwall
+Sat Oct 6 2007,Cheltenham,1-1,1-0,Oldham
+Sat Oct 6 2007,Crewe,1-4,0-1,Bournemouth
+Sat Oct 6 2007,Leeds,1-0,0-0,Yeovil
+Sat Oct 6 2007,Leyton Orient,0-5,0-1,Swansea
+Sat Oct 6 2007,Luton,1-1,0-1,Doncaster
+Sat Oct 6 2007,Northampton,2-1,2-0,Port Vale
+Sat Oct 6 2007,Nott'm Forest,2-1,1-1,Hartlepool
+Sat Oct 6 2007,Southend,1-2,1-1,Tranmere
+Sat Oct 6 2007,Swindon,5-0,2-0,Gillingham
+Sat Oct 6 2007,Walsall,4-0,2-0,Huddersfield
+Fri Oct 12 2007,Hartlepool,1-0,1-0,Bristol Rvs
+Fri Oct 12 2007,Tranmere,0-0,0-0,Walsall
+Sat Oct 13 2007,Cheltenham,0-3,0-2,Nott'm Forest
+Sat Oct 13 2007,Gillingham,1-1,1-0,Millwall
+Sat Oct 13 2007,Leeds,1-1,0-1,Leyton Orient
+Sat Oct 13 2007,Port Vale,0-1,0-0,Brighton
+Sat Oct 13 2007,Southend,3-0,1-0,Crewe
+Sat Oct 13 2007,Yeovil,2-1,0-0,Carlisle
+Sun Oct 14 2007,Bournemouth,1-4,1-2,Swansea
+Sun Oct 14 2007,Doncaster,2-0,1-0,Huddersfield
+Mon Oct 15 2007,Luton,4-1,1-1,Northampton
+Sat Oct 20 2007,Brighton,0-1,0-0,Leeds
+Sat Oct 20 2007,Bristol Rvs,1-1,0-0,Yeovil
+Sat Oct 20 2007,Carlisle,2-0,1-0,Gillingham
+Sat Oct 20 2007,Crewe,2-0,2-0,Luton
+Sat Oct 20 2007,Huddersfield,1-1,0-1,Oldham
+Sat Oct 20 2007,Leyton Orient,3-1,0-1,Port Vale
+Sat Oct 20 2007,Millwall,2-1,1-0,Bournemouth
+Sat Oct 20 2007,Northampton,2-1,1-0,Cheltenham
+Sat Oct 20 2007,Nott'm Forest,0-0,0-0,Doncaster
+Sat Oct 20 2007,Swindon,1-0,0-0,Tranmere
+Sat Oct 20 2007,Walsall,0-2,0-1,Southend
+Fri Oct 26 2007,Tranmere,3-0,1-0,Huddersfield
+Sat Oct 27 2007,Bournemouth,1-1,1-0,Walsall
+Sat Oct 27 2007,Cheltenham,2-2,0-0,Crewe
+Sat Oct 27 2007,Gillingham,3-2,1-1,Bristol Rvs
+Sat Oct 27 2007,Hartlepool,1-2,0-1,Brighton
+Sat Oct 27 2007,Leeds,4-2,1-0,Millwall
+Sat Oct 27 2007,Luton,2-1,0-0,Nott'm Forest
+Sat Oct 27 2007,Oldham,0-1,0-0,Northampton
+Sat Oct 27 2007,Port Vale,2-1,2-1,Swindon
+Sat Oct 27 2007,Southend,0-1,0-0,Carlisle
+Sat Oct 27 2007,Yeovil,1-2,0-1,Swansea
+Sun Oct 28 2007,Doncaster,4-2,0-0,Leyton Orient
+Tue Oct 30 2007,Nott'm Forest,0-0,0-0,Oldham
+Fri Nov 2 2007,Swansea,1-1,0-1,Gillingham
+Sat Nov 3 2007,Brighton,3-1,1-0,Luton
+Sat Nov 3 2007,Bristol Rvs,0-2,0-1,Bournemouth
+Sat Nov 3 2007,Carlisle,3-1,0-1,Leeds
+Sat Nov 3 2007,Crewe,2-0,2-0,Yeovil
+Sat Nov 3 2007,Huddersfield,3-1,3-1,Port Vale
+Sat Nov 3 2007,Leyton Orient,1-0,1-0,Oldham
+Sat Nov 3 2007,Millwall,0-1,0-0,Hartlepool
+Sat Nov 3 2007,Northampton,0-1,0-0,Southend
+Sat Nov 3 2007,Nott'm Forest,2-0,0-0,Tranmere
+Sat Nov 3 2007,Swindon,1-2,0-1,Doncaster
+Sat Nov 3 2007,Walsall,2-0,1-0,Cheltenham
+Tue Nov 6 2007,Bournemouth,1-3,1-1,Leeds
+Tue Nov 6 2007,Brighton,1-1,1-0,Walsall
+Tue Nov 6 2007,Cheltenham,1-1,0-1,Yeovil
+Tue Nov 6 2007,Gillingham,1-1,1-0,Doncaster
+Tue Nov 6 2007,Huddersfield,2-0,1-0,Hartlepool
+Tue Nov 6 2007,Luton,0-0,0-0,Carlisle
+Tue Nov 6 2007,Millwall,2-2,0-1,Swansea
+Tue Nov 6 2007,Northampton,0-1,0-0,Bristol Rvs
+Tue Nov 6 2007,Nott'm Forest,4-1,1-1,Southend
+Tue Nov 6 2007,Port Vale,0-1,0-0,Crewe
+Tue Nov 6 2007,Swindon,1-1,0-0,Leyton Orient
+Tue Nov 6 2007,Tranmere,0-1,0-0,Oldham
+Fri Nov 16 2007,Swansea,0-1,0-0,Huddersfield
+Sat Nov 17 2007,Bristol Rvs,2-1,0-1,Millwall
+Sat Nov 17 2007,Crewe,1-0,0-0,Northampton
+Sat Nov 17 2007,Doncaster,0-0,0-0,Tranmere
+Sat Nov 17 2007,Leeds,2-1,1-0,Swindon
+Sat Nov 17 2007,Leyton Orient,2-2,1-0,Brighton
+Sat Nov 17 2007,Oldham,1-1,1-1,Port Vale
+Sat Nov 17 2007,Southend,2-2,0-2,Cheltenham
+Sat Nov 17 2007,Walsall,0-0,0-0,Luton
+Sun Nov 18 2007,Hartlepool,1-1,1-1,Bournemouth
+Sun Nov 18 2007,Yeovil,2-1,0-0,Gillingham
+Sat Nov 24 2007,Bournemouth,0-3,0-0,Oldham
+Sat Nov 24 2007,Brighton,2-2,0-1,Carlisle
+Sat Nov 24 2007,Gillingham,2-1,0-1,Hartlepool
+Sat Nov 24 2007,Huddersfield,0-1,0-1,Leyton Orient
+Sat Nov 24 2007,Luton,1-0,0-0,Southend
+Sat Nov 24 2007,Millwall,2-1,0-0,Yeovil
+Sat Nov 24 2007,Northampton,0-2,0-1,Walsall
+Sat Nov 24 2007,Nott'm Forest,2-0,1-0,Crewe
+Sat Nov 24 2007,Port Vale,1-3,1-0,Doncaster
+Sat Nov 24 2007,Swindon,1-0,0-0,Bristol Rvs
+Sat Nov 24 2007,Tranmere,0-1,0-0,Swansea
+Sun Nov 25 2007,Cheltenham,1-0,0-0,Leeds
+Tue Nov 27 2007,Swansea,1-0,0-0,Hartlepool
+Tue Dec 4 2007,Carlisle,3-0,1-0,Swindon
+Tue Dec 4 2007,Crewe,2-3,1-1,Gillingham
+Tue Dec 4 2007,Doncaster,0-0,0-0,Brighton
+Tue Dec 4 2007,Hartlepool,3-1,2-0,Tranmere
+Tue Dec 4 2007,Leeds,3-0,1-0,Port Vale
+Tue Dec 4 2007,Leyton Orient,0-1,0-1,Millwall
+Tue Dec 4 2007,Oldham,1-1,1-1,Luton
+Tue Dec 4 2007,Swansea,3-0,2-0,Northampton
+Tue Dec 4 2007,Walsall,1-0,0-0,Nott'm Forest
+Tue Dec 4 2007,Yeovil,2-1,2-0,Bournemouth
+Wed Dec 5 2007,Southend,4-1,1-0,Huddersfield
+Fri Dec 7 2007,Brighton,0-2,0-1,Nott'm Forest
+Sat Dec 8 2007,Crewe,0-0,0-0,Walsall
+Sat Dec 8 2007,Gillingham,1-2,1-2,Port Vale
+Sat Dec 8 2007,Leeds,4-0,1-0,Huddersfield
+Sat Dec 8 2007,Leyton Orient,2-0,1-0,Cheltenham
+Sat Dec 8 2007,Northampton,2-2,1-1,Carlisle
+Sat Dec 8 2007,Oldham,1-1,1-0,Doncaster
+Sat Dec 8 2007,Southend,2-1,1-1,Swindon
+Sat Dec 8 2007,Tranmere,3-1,2-0,Bournemouth
+Sat Dec 8 2007,Yeovil,3-1,2-1,Hartlepool
+Fri Dec 14 2007,Cheltenham,1-0,1-0,Luton
+Sat Dec 15 2007,Bournemouth,1-0,1-0,Gillingham
+Sat Dec 15 2007,Carlisle,1-0,0-0,Leyton Orient
+Sat Dec 15 2007,Hartlepool,3-0,0-0,Crewe
+Sat Dec 15 2007,Huddersfield,2-1,1-0,Bristol Rvs
+Sat Dec 15 2007,Millwall,2-3,2-1,Oldham
+Sat Dec 15 2007,Nott'm Forest,2-2,1-0,Northampton
+Sat Dec 15 2007,Port Vale,0-0,0-0,Tranmere
+Sat Dec 15 2007,Swansea,3-0,1-0,Southend
+Sat Dec 15 2007,Swindon,0-3,0-2,Brighton
+Sat Dec 15 2007,Walsall,1-1,0-0,Leeds
+Sun Dec 16 2007,Doncaster,1-2,0-1,Yeovil
+Fri Dec 21 2007,Northampton,4-1,2-1,Bournemouth
+Sat Dec 22 2007,Cheltenham,0-2,0-1,Huddersfield
+Sat Dec 22 2007,Crewe,0-4,0-1,Doncaster
+Sat Dec 22 2007,Leeds,1-0,0-0,Bristol Rvs
+Sat Dec 22 2007,Leyton Orient,0-0,0-0,Yeovil
+Sat Dec 22 2007,Luton,1-0,0-0,Tranmere
+Sat Dec 22 2007,Nott'm Forest,2-0,1-0,Port Vale
+Sat Dec 22 2007,Southend,0-1,0-1,Oldham
+Sat Dec 22 2007,Swindon,2-1,0-1,Hartlepool
+Sat Dec 22 2007,Walsall,3-0,3-0,Millwall
+Wed Dec 26 2007,Bournemouth,3-1,1-0,Leyton Orient
+Wed Dec 26 2007,Bristol Rvs,1-1,1-0,Luton
+Wed Dec 26 2007,Doncaster,2-0,2-0,Northampton
+Wed Dec 26 2007,Gillingham,1-1,0-0,Southend
+Wed Dec 26 2007,Hartlepool,1-1,1-0,Leeds
+Wed Dec 26 2007,Huddersfield,1-1,0-1,Crewe
+Wed Dec 26 2007,Millwall,3-0,1-0,Brighton
+Wed Dec 26 2007,Oldham,0-0,0-0,Nott'm Forest
+Wed Dec 26 2007,Port Vale,1-1,1-0,Walsall
+Wed Dec 26 2007,Swansea,4-1,2-0,Cheltenham
+Wed Dec 26 2007,Tranmere,2-0,2-0,Carlisle
+Wed Dec 26 2007,Yeovil,0-1,0-0,Swindon
+Sat Dec 29 2007,Bournemouth,2-2,0-0,Swindon
+Sat Dec 29 2007,Bristol Rvs,3-0,2-0,Carlisle
+Sat Dec 29 2007,Doncaster,3-1,3-1,Southend
+Sat Dec 29 2007,Gillingham,3-0,0-0,Nott'm Forest
+Sat Dec 29 2007,Hartlepool,1-1,0-1,Leyton Orient
+Sat Dec 29 2007,Huddersfield,1-2,1-0,Northampton
+Sat Dec 29 2007,Millwall,2-0,1-0,Crewe
+Sat Dec 29 2007,Oldham,0-2,0-1,Walsall
+Sat Dec 29 2007,Port Vale,1-2,1-1,Luton
+Sat Dec 29 2007,Swansea,3-2,3-1,Leeds
+Sat Dec 29 2007,Tranmere,1-0,0-0,Cheltenham
+Sat Dec 29 2007,Yeovil,2-1,1-1,Brighton
+Tue Jan 1 2008,Brighton,3-2,1-1,Bournemouth
+Tue Jan 1 2008,Carlisle,4-2,1-1,Hartlepool
+Tue Jan 1 2008,Crewe,4-3,1-2,Tranmere
+Tue Jan 1 2008,Leeds,1-3,0-3,Oldham
+Tue Jan 1 2008,Leyton Orient,0-0,0-0,Gillingham
+Tue Jan 1 2008,Luton,1-0,0-0,Yeovil
+Tue Jan 1 2008,Northampton,1-1,1-0,Millwall
+Tue Jan 1 2008,Nott'm Forest,2-1,0-1,Huddersfield
+Tue Jan 1 2008,Southend,0-1,0-0,Bristol Rvs
+Tue Jan 1 2008,Swindon,1-1,0-0,Swansea
+Tue Jan 1 2008,Walsall,1-1,0-1,Doncaster
+Wed Jan 2 2008,Cheltenham,1-0,1-0,Port Vale
+Sat Jan 5 2008,Carlisle,3-2,0-2,Port Vale
+Sat Jan 5 2008,Leeds,3-0,1-0,Northampton
+Tue Jan 8 2008,Leyton Orient,3-0,1-0,Tranmere
+Tue Jan 8 2008,Yeovil,0-2,0-0,Walsall
+Fri Jan 11 2008,Tranmere,0-2,0-1,Bristol Rvs
+Sat Jan 12 2008,Cheltenham,1-0,0-0,Bournemouth
+Sat Jan 12 2008,Doncaster,1-0,0-0,Carlisle
+Sat Jan 12 2008,Huddersfield,1-3,1-1,Gillingham
+Sat Jan 12 2008,Luton,1-3,0-1,Swansea
+Sat Jan 12 2008,Northampton,1-1,1-1,Hartlepool
+Sat Jan 12 2008,Nott'm Forest,4-0,1-0,Leyton Orient
+Sat Jan 12 2008,Oldham,1-1,1-0,Brighton
+Sat Jan 12 2008,Port Vale,3-1,1-1,Millwall
+Sat Jan 12 2008,Southend,1-1,1-0,Yeovil
+Sat Jan 12 2008,Walsall,2-2,1-0,Swindon
+Mon Jan 14 2008,Crewe,0-1,0-1,Leeds
+Fri Jan 18 2008,Hartlepool,0-2,0-1,Cheltenham
+Sat Jan 19 2008,Bournemouth,1-4,0-3,Southend
+Sat Jan 19 2008,Brighton,1-1,0-0,Huddersfield
+Sat Jan 19 2008,Bristol Rvs,1-1,0-1,Walsall
+Sat Jan 19 2008,Carlisle,1-0,0-0,Crewe
+Sat Jan 19 2008,Gillingham,0-1,0-1,Northampton
+Sat Jan 19 2008,Leeds,0-1,0-1,Doncaster
+Sat Jan 19 2008,Leyton Orient,2-1,1-0,Luton
+Sat Jan 19 2008,Millwall,0-1,0-0,Tranmere
+Sat Jan 19 2008,Swansea,2-0,1-0,Port Vale
+Sat Jan 19 2008,Swindon,2-1,1-0,Nott'm Forest
+Sat Jan 19 2008,Yeovil,0-0,0-0,Oldham
+Tue Jan 22 2008,Bournemouth,4-3,2-1,Luton
+Tue Jan 22 2008,Gillingham,0-0,0-0,Oldham
+Tue Jan 22 2008,Hartlepool,4-3,1-1,Southend
+Tue Jan 22 2008,Swansea,2-1,1-0,Crewe
+Wed Jan 23 2008,Millwall,2-2,1-0,Nott'm Forest
+Fri Jan 25 2008,Cheltenham,1-0,1-0,Carlisle
+Fri Jan 25 2008,Doncaster,0-4,0-1,Swansea
+Fri Jan 25 2008,Northampton,2-0,1-0,Leyton Orient
+Sat Jan 26 2008,Crewe,0-0,0-0,Swindon
+Sat Jan 26 2008,Luton,1-1,0-1,Leeds
+Sat Jan 26 2008,Port Vale,1-3,0-2,Bournemouth
+Sat Jan 26 2008,Tranmere,2-1,1-0,Yeovil
+Sat Jan 26 2008,Walsall,2-1,1-0,Gillingham
+Tue Jan 29 2008,Cheltenham,0-1,0-0,Millwall
+Tue Jan 29 2008,Crewe,1-1,0-1,Bristol Rvs
+Tue Jan 29 2008,Doncaster,2-0,1-0,Hartlepool
+Tue Jan 29 2008,Huddersfield,1-0,1-0,Bournemouth
+Tue Jan 29 2008,Luton,0-1,0-0,Swindon
+Tue Jan 29 2008,Northampton,1-0,1-0,Brighton
+Tue Jan 29 2008,Nott'm Forest,0-0,0-0,Swansea
+Tue Jan 29 2008,Oldham,2-0,2-0,Carlisle
+Tue Jan 29 2008,Port Vale,2-2,1-1,Yeovil
+Tue Jan 29 2008,Southend,1-0,1-0,Leeds
+Tue Jan 29 2008,Tranmere,2-0,2-0,Gillingham
+Tue Jan 29 2008,Walsall,0-0,0-0,Leyton Orient
+Sat Feb 2 2008,Bournemouth,2-0,2-0,Nott'm Forest
+Sat Feb 2 2008,Brighton,3-0,3-0,Crewe
+Sat Feb 2 2008,Bristol Rvs,3-2,1-1,Port Vale
+Sat Feb 2 2008,Carlisle,2-1,1-1,Walsall
+Sat Feb 2 2008,Gillingham,0-0,0-0,Cheltenham
+Sat Feb 2 2008,Hartlepool,4-0,1-0,Luton
+Sat Feb 2 2008,Leeds,0-2,0-0,Tranmere
+Sat Feb 2 2008,Leyton Orient,2-2,0-1,Southend
+Sat Feb 2 2008,Millwall,0-3,0-1,Doncaster
+Sat Feb 2 2008,Swansea,2-1,0-0,Oldham
+Sat Feb 2 2008,Swindon,1-1,0-0,Northampton
+Sat Feb 2 2008,Yeovil,0-2,0-1,Huddersfield
+Tue Feb 5 2008,Bristol Rvs,2-0,1-0,Cheltenham
+Sat Feb 9 2008,Cheltenham,2-1,0-0,Brighton
+Sat Feb 9 2008,Crewe,2-2,0-2,Swansea
+Sat Feb 9 2008,Doncaster,2-0,0-0,Bristol Rvs
+Sat Feb 9 2008,Huddersfield,1-0,1-0,Swindon
+Sat Feb 9 2008,Luton,1-4,0-3,Bournemouth
+Sat Feb 9 2008,Northampton,1-1,0-1,Leeds
+Sat Feb 9 2008,Nott'm Forest,2-0,0-0,Millwall
+Sat Feb 9 2008,Oldham,2-1,1-1,Gillingham
+Sat Feb 9 2008,Port Vale,1-1,0-0,Carlisle
+Sat Feb 9 2008,Southend,2-1,0-1,Hartlepool
+Sat Feb 9 2008,Tranmere,1-1,1-0,Leyton Orient
+Sat Feb 9 2008,Walsall,2-0,0-0,Yeovil
+Tue Feb 12 2008,Bournemouth,0-2,0-1,Doncaster
+Tue Feb 12 2008,Brighton,0-0,0-0,Tranmere
+Tue Feb 12 2008,Bristol Rvs,1-0,0-0,Oldham
+Tue Feb 12 2008,Carlisle,2-1,1-0,Huddersfield
+Tue Feb 12 2008,Hartlepool,3-2,0-2,Port Vale
+Tue Feb 12 2008,Leeds,1-1,0-0,Nott'm Forest
+Tue Feb 12 2008,Leyton Orient,0-1,0-1,Crewe
+Tue Feb 12 2008,Millwall,2-1,1-1,Southend
+Tue Feb 12 2008,Swansea,1-0,0-0,Walsall
+Tue Feb 12 2008,Swindon,3-0,2-0,Cheltenham
+Tue Feb 12 2008,Yeovil,1-0,0-0,Northampton
+Sat Feb 16 2008,Cheltenham,1-1,1-0,Hartlepool
+Sat Feb 16 2008,Luton,0-1,0-1,Leyton Orient
+Sat Feb 16 2008,Northampton,4-0,2-0,Gillingham
+Sat Feb 16 2008,Nott'm Forest,1-0,0-0,Swindon
+Sat Feb 16 2008,Oldham,3-0,1-0,Yeovil
+Sat Feb 16 2008,Port Vale,0-2,0-0,Swansea
+Sat Feb 16 2008,Southend,2-1,1-1,Bournemouth
+Sat Feb 16 2008,Tranmere,2-0,2-0,Millwall
+Tue Feb 19 2008,Brighton,2-1,0-1,Cheltenham
+Tue Feb 19 2008,Huddersfield,1-0,1-0,Millwall
+Fri Feb 22 2008,Hartlepool,0-1,0-0,Northampton
+Fri Feb 22 2008,Swansea,1-0,0-0,Luton
+Sat Feb 23 2008,Bournemouth,2-2,2-1,Cheltenham
+Sat Feb 23 2008,Brighton,1-0,0-0,Oldham
+Sat Feb 23 2008,Bristol Rvs,1-1,0-0,Tranmere
+Sat Feb 23 2008,Carlisle,1-0,1-0,Doncaster
+Sat Feb 23 2008,Gillingham,1-0,0-0,Huddersfield
+Sat Feb 23 2008,Leeds,1-1,0-0,Crewe
+Sat Feb 23 2008,Leyton Orient,0-1,0-0,Nott'm Forest
+Sat Feb 23 2008,Millwall,3-0,2-0,Port Vale
+Sat Feb 23 2008,Swindon,0-3,0-1,Walsall
+Sat Feb 23 2008,Yeovil,0-3,0-2,Southend
+Tue Feb 26 2008,Crewe,0-1,0-0,Carlisle
+Tue Feb 26 2008,Luton,1-1,1-1,Millwall
+Tue Feb 26 2008,Oldham,2-2,0-1,Swindon
+Fri Feb 29 2008,Cheltenham,1-1,1-0,Southend
+Sat Mar 1 2008,Bournemouth,2-0,2-0,Hartlepool
+Sat Mar 1 2008,Brighton,1-1,0-0,Leyton Orient
+Sat Mar 1 2008,Gillingham,0-0,0-0,Yeovil
+Sat Mar 1 2008,Huddersfield,0-1,0-1,Swansea
+Sat Mar 1 2008,Luton,0-1,0-1,Walsall
+Sat Mar 1 2008,Millwall,0-1,0-0,Bristol Rvs
+Sat Mar 1 2008,Northampton,0-0,0-0,Crewe
+Sat Mar 1 2008,Port Vale,0-3,0-1,Oldham
+Sat Mar 1 2008,Swindon,0-1,0-1,Leeds
+Sat Mar 1 2008,Tranmere,0-1,0-1,Doncaster
+Mon Mar 3 2008,Nott'm Forest,0-1,0-0,Carlisle
+Tue Mar 4 2008,Brighton,4-2,3-1,Gillingham
+Tue Mar 4 2008,Bristol Rvs,0-1,0-1,Doncaster
+Tue Mar 4 2008,Oldham,0-1,0-0,Hartlepool
+Tue Mar 4 2008,Swindon,3-2,3-1,Huddersfield
+Fri Mar 7 2008,Swansea,1-2,0-1,Millwall
+Sat Mar 8 2008,Carlisle,2-0,1-0,Brighton
+Sat Mar 8 2008,Crewe,0-0,0-0,Nott'm Forest
+Sat Mar 8 2008,Doncaster,2-1,2-1,Port Vale
+Sat Mar 8 2008,Hartlepool,4-0,2-0,Gillingham
+Sat Mar 8 2008,Leeds,2-0,1-0,Bournemouth
+Sat Mar 8 2008,Leyton Orient,0-1,0-0,Huddersfield
+Sat Mar 8 2008,Oldham,3-1,2-0,Tranmere
+Sat Mar 8 2008,Southend,2-0,1-0,Luton
+Sat Mar 8 2008,Walsall,0-2,0-1,Northampton
+Sat Mar 8 2008,Yeovil,2-1,1-0,Cheltenham
+Tue Mar 11 2008,Carlisle,2-1,2-0,Luton
+Tue Mar 11 2008,Crewe,0-2,0-0,Port Vale
+Tue Mar 11 2008,Doncaster,2-1,1-0,Gillingham
+Tue Mar 11 2008,Hartlepool,2-1,1-0,Huddersfield
+Tue Mar 11 2008,Leeds,1-2,0-1,Cheltenham
+Tue Mar 11 2008,Leyton Orient,2-1,0-1,Swindon
+Tue Mar 11 2008,Oldham,2-0,1-0,Bournemouth
+Tue Mar 11 2008,Southend,1-1,1-0,Nott'm Forest
+Tue Mar 11 2008,Swansea,1-1,1-0,Tranmere
+Tue Mar 11 2008,Walsall,1-2,1-1,Brighton
+Tue Mar 11 2008,Yeovil,0-1,0-0,Millwall
+Wed Mar 12 2008,Bristol Rvs,1-1,1-0,Northampton
+Sat Mar 15 2008,Bournemouth,2-0,2-0,Yeovil
+Sat Mar 15 2008,Brighton,1-0,0-0,Doncaster
+Sat Mar 15 2008,Cheltenham,1-0,0-0,Bristol Rvs
+Sat Mar 15 2008,Gillingham,0-3,0-1,Crewe
+Sat Mar 15 2008,Huddersfield,1-2,0-1,Southend
+Sat Mar 15 2008,Luton,3-0,3-0,Oldham
+Sat Mar 15 2008,Millwall,0-1,0-0,Leyton Orient
+Sat Mar 15 2008,Northampton,4-2,3-1,Swansea
+Sat Mar 15 2008,Nott'm Forest,1-1,0-0,Walsall
+Sat Mar 15 2008,Port Vale,3-3,0-2,Leeds
+Sat Mar 15 2008,Swindon,2-2,0-0,Carlisle
+Sat Mar 15 2008,Tranmere,3-1,1-0,Hartlepool
+Tue Mar 18 2008,Bristol Rvs,0-2,0-0,Swansea
+Tue Mar 18 2008,Huddersfield,2-1,1-0,Brighton
+Thu Mar 20 2008,Tranmere,2-0,1-0,Port Vale
+Fri Mar 21 2008,Northampton,1-2,1-1,Nott'm Forest
+Fri Mar 21 2008,Southend,1-1,1-1,Swansea
+Fri Mar 21 2008,Yeovil,2-1,2-0,Doncaster
+Sat Mar 22 2008,Brighton,2-1,1-1,Swindon
+Sat Mar 22 2008,Bristol Rvs,2-3,1-1,Huddersfield
+Sat Mar 22 2008,Crewe,3-1,2-0,Hartlepool
+Sat Mar 22 2008,Gillingham,2-1,2-1,Bournemouth
+Sat Mar 22 2008,Leeds,2-0,1-0,Walsall
+Sat Mar 22 2008,Leyton Orient,0-3,0-2,Carlisle
+Sat Mar 22 2008,Luton,1-1,1-0,Cheltenham
+Sat Mar 22 2008,Oldham,1-1,0-0,Millwall
+Mon Mar 24 2008,Bournemouth,2-1,2-0,Tranmere
+Mon Mar 24 2008,Carlisle,2-0,0-0,Northampton
+Mon Mar 24 2008,Cheltenham,1-0,0-0,Leyton Orient
+Mon Mar 24 2008,Doncaster,1-1,1-0,Oldham
+Mon Mar 24 2008,Hartlepool,2-0,1-0,Yeovil
+Mon Mar 24 2008,Millwall,0-0,0-0,Luton
+Mon Mar 24 2008,Nott'm Forest,0-0,0-0,Brighton
+Mon Mar 24 2008,Port Vale,2-1,1-0,Gillingham
+Mon Mar 24 2008,Swansea,2-2,0-2,Bristol Rvs
+Mon Mar 24 2008,Swindon,0-1,0-1,Southend
+Mon Mar 24 2008,Walsall,1-1,0-0,Crewe
+Fri Mar 28 2008,Doncaster,1-0,0-0,Nott'm Forest
+Fri Mar 28 2008,Tranmere,2-1,2-0,Swindon
+Sat Mar 29 2008,Bournemouth,2-0,0-0,Millwall
+Sat Mar 29 2008,Cheltenham,1-1,1-0,Northampton
+Sat Mar 29 2008,Gillingham,0-0,0-0,Carlisle
+Sat Mar 29 2008,Hartlepool,1-3,1-2,Swansea
+Sat Mar 29 2008,Leeds,0-0,0-0,Brighton
+Sat Mar 29 2008,Luton,2-1,1-0,Crewe
+Sat Mar 29 2008,Oldham,4-1,3-0,Huddersfield
+Sat Mar 29 2008,Port Vale,2-1,0-1,Leyton Orient
+Sat Mar 29 2008,Southend,1-0,0-0,Walsall
+Sat Mar 29 2008,Yeovil,0-0,0-0,Bristol Rvs
+Tue Apr 1 2008,Carlisle,0-2,0-0,Nott'm Forest
+Tue Apr 1 2008,Doncaster,0-1,0-1,Leeds
+Tue Apr 1 2008,Gillingham,2-1,0-1,Luton
+Sat Apr 5 2008,Brighton,2-3,1-2,Port Vale
+Sat Apr 5 2008,Bristol Rvs,0-0,0-0,Hartlepool
+Sat Apr 5 2008,Carlisle,2-1,0-1,Yeovil
+Sat Apr 5 2008,Crewe,1-3,0-2,Southend
+Sat Apr 5 2008,Huddersfield,2-2,1-0,Doncaster
+Sat Apr 5 2008,Leyton Orient,0-2,0-1,Leeds
+Sat Apr 5 2008,Millwall,1-1,0-1,Gillingham
+Sat Apr 5 2008,Northampton,2-1,2-0,Luton
+Sat Apr 5 2008,Nott'm Forest,3-1,2-1,Cheltenham
+Sat Apr 5 2008,Swansea,1-2,0-0,Bournemouth
+Sat Apr 5 2008,Swindon,3-0,0-0,Oldham
+Sat Apr 5 2008,Walsall,2-1,1-1,Tranmere
+Tue Apr 8 2008,Carlisle,0-0,0-0,Swansea
+Tue Apr 8 2008,Nott'm Forest,1-1,1-0,Bristol Rvs
+Tue Apr 8 2008,Southend,2-0,2-0,Brighton
+Fri Apr 11 2008,Doncaster,2-0,1-0,Swindon
+Sat Apr 12 2008,Bournemouth,2-1,1-0,Bristol Rvs
+Sat Apr 12 2008,Cheltenham,1-2,0-2,Walsall
+Sat Apr 12 2008,Gillingham,1-2,1-2,Swansea
+Sat Apr 12 2008,Hartlepool,0-1,0-1,Millwall
+Sat Apr 12 2008,Leeds,3-2,0-1,Carlisle
+Sat Apr 12 2008,Luton,1-2,0-0,Brighton
+Sat Apr 12 2008,Oldham,2-0,2-0,Leyton Orient
+Sat Apr 12 2008,Port Vale,0-0,0-0,Huddersfield
+Sat Apr 12 2008,Southend,1-1,0-1,Northampton
+Sat Apr 12 2008,Tranmere,0-2,0-1,Nott'm Forest
+Sat Apr 12 2008,Yeovil,0-3,0-1,Crewe
+Tue Apr 15 2008,Huddersfield,1-0,0-0,Leeds
+Tue Apr 15 2008,Walsall,0-1,0-1,Bristol Rvs
+Sat Apr 19 2008,Brighton,2-1,1-0,Hartlepool
+Sat Apr 19 2008,Bristol Rvs,1-1,0-1,Gillingham
+Sat Apr 19 2008,Carlisle,1-2,0-1,Southend
+Sat Apr 19 2008,Crewe,3-1,1-0,Cheltenham
+Sat Apr 19 2008,Huddersfield,1-0,0-0,Tranmere
+Sat Apr 19 2008,Leyton Orient,1-1,1-0,Doncaster
+Sat Apr 19 2008,Millwall,0-2,0-0,Leeds
+Sat Apr 19 2008,Northampton,2-0,0-0,Oldham
+Sat Apr 19 2008,Nott'm Forest,1-0,0-0,Luton
+Sat Apr 19 2008,Swansea,1-2,0-1,Yeovil
+Sat Apr 19 2008,Swindon,6-0,5-0,Port Vale
+Sat Apr 19 2008,Walsall,1-3,1-2,Bournemouth
+Tue Apr 22 2008,Bristol Rvs,0-1,0-0,Swindon
+Fri Apr 25 2008,Yeovil,0-1,0-1,Leeds
+Sat Apr 26 2008,Bournemouth,1-0,0-0,Crewe
+Sat Apr 26 2008,Bristol Rvs,0-2,0-0,Brighton
+Sat Apr 26 2008,Doncaster,2-0,1-0,Luton
+Sat Apr 26 2008,Gillingham,1-1,1-0,Swindon
+Sat Apr 26 2008,Hartlepool,0-1,0-0,Nott'm Forest
+Sat Apr 26 2008,Huddersfield,2-0,1-0,Walsall
+Sat Apr 26 2008,Millwall,3-0,1-0,Carlisle
+Sat Apr 26 2008,Oldham,2-1,1-0,Cheltenham
+Sat Apr 26 2008,Port Vale,2-2,1-2,Northampton
+Sat Apr 26 2008,Swansea,4-1,4-0,Leyton Orient
+Sat Apr 26 2008,Tranmere,1-0,0-0,Southend
+Sat May 3 2008,Brighton,0-1,0-0,Swansea
+Sat May 3 2008,Carlisle,1-1,0-0,Bournemouth
+Sat May 3 2008,Cheltenham,2-1,1-0,Doncaster
+Sat May 3 2008,Crewe,1-4,0-2,Oldham
+Sat May 3 2008,Leeds,2-1,0-1,Gillingham
+Sat May 3 2008,Leyton Orient,3-1,1-1,Bristol Rvs
+Sat May 3 2008,Luton,0-1,0-0,Huddersfield
+Sat May 3 2008,Northampton,2-1,1-1,Tranmere
+Sat May 3 2008,Nott'm Forest,3-2,3-1,Yeovil
+Sat May 3 2008,Southend,1-1,0-1,Port Vale
+Sat May 3 2008,Swindon,2-1,1-1,Millwall
+Sat May 3 2008,Walsall,2-2,2-1,Hartlepool

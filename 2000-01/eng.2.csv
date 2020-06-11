@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 12 2000,Barnsley,1-0,0-0,Norwich
+Sat Aug 12 2000,Blackburn,2-0,2-0,Crystal Palace
+Sat Aug 12 2000,Bolton,1-1,1-0,Burnley
+Sat Aug 12 2000,Fulham,2-0,0-0,Crewe
+Sat Aug 12 2000,Gillingham,1-3,1-2,Stockport
+Sat Aug 12 2000,Grimsby,1-2,0-1,Preston
+Sat Aug 12 2000,Huddersfield,1-2,1-1,Watford
+Sat Aug 12 2000,Nott'm Forest,1-0,0-0,West Brom
+Sat Aug 12 2000,QPR,0-0,0-0,Birmingham
+Sat Aug 12 2000,Sheffield United,2-0,1-0,Portsmouth
+Sat Aug 12 2000,Wimbledon,0-0,0-0,Tranmere
+Sun Aug 13 2000,Wolves,1-1,1-0,Sheffield Weds
+Fri Aug 18 2000,Birmingham,1-3,1-3,Fulham
+Sat Aug 19 2000,Burnley,1-0,1-0,Wimbledon
+Sat Aug 19 2000,Crewe,0-0,0-0,Blackburn
+Sat Aug 19 2000,Norwich,0-0,0-0,Nott'm Forest
+Sat Aug 19 2000,Portsmouth,1-1,0-0,Grimsby
+Sat Aug 19 2000,Preston,3-0,2-0,Sheffield United
+Sat Aug 19 2000,Sheffield Weds,2-3,1-3,Huddersfield
+Sat Aug 19 2000,Stockport,1-1,0-0,Wolves
+Sat Aug 19 2000,Tranmere,3-2,3-1,Gillingham
+Sat Aug 19 2000,Watford,1-0,0-0,Barnsley
+Sat Aug 19 2000,West Brom,0-2,0-1,Bolton
+Sun Aug 20 2000,Crystal Palace,1-1,1-0,QPR
+Fri Aug 25 2000,Gillingham,1-1,1-0,Portsmouth
+Sat Aug 26 2000,Barnsley,4-1,0-1,West Brom
+Sat Aug 26 2000,Blackburn,3-2,1-0,Norwich
+Sat Aug 26 2000,Bolton,2-0,1-0,Preston
+Sat Aug 26 2000,Fulham,4-1,1-1,Stockport
+Sat Aug 26 2000,Grimsby,0-1,0-1,Sheffield Weds
+Sat Aug 26 2000,Huddersfield,1-2,1-1,Crystal Palace
+Sat Aug 26 2000,Nott'm Forest,1-2,0-2,Birmingham
+Sat Aug 26 2000,QPR,1-0,1-0,Crewe
+Sat Aug 26 2000,Sheffield United,2-0,1-0,Tranmere
+Sat Aug 26 2000,Wimbledon,0-0,0-0,Watford
+Sat Aug 26 2000,Wolves,1-0,0-0,Burnley
+Mon Aug 28 2000,Birmingham,4-1,2-0,Barnsley
+Mon Aug 28 2000,Burnley,1-1,0-0,Gillingham
+Mon Aug 28 2000,Crystal Palace,2-3,0-3,Nott'm Forest
+Mon Aug 28 2000,Norwich,0-1,0-0,Fulham
+Mon Aug 28 2000,Portsmouth,3-1,3-1,Wolves
+Mon Aug 28 2000,Preston,1-1,0-1,Wimbledon
+Mon Aug 28 2000,Sheffield Weds,1-1,1-1,Blackburn
+Mon Aug 28 2000,Stockport,0-0,0-0,Huddersfield
+Mon Aug 28 2000,Tranmere,0-1,0-0,Bolton
+Mon Aug 28 2000,Watford,4-1,2-1,Sheffield United
+Mon Aug 28 2000,West Brom,2-1,0-1,QPR
+Tue Aug 29 2000,Crewe,2-0,1-0,Grimsby
+Fri Sep 1 2000,Tranmere,2-1,2-1,Stockport
+Sat Sep 2 2000,Gillingham,1-0,1-0,Wolves
+Sat Sep 2 2000,Preston,1-0,0-0,Portsmouth
+Sun Sep 3 2000,West Brom,1-0,1-0,Crystal Palace
+Sat Sep 9 2000,Birmingham,1-0,1-0,Sheffield United
+Sat Sep 9 2000,Blackburn,3-0,2-0,Nott'm Forest
+Sat Sep 9 2000,Crewe,0-0,0-0,Norwich
+Sat Sep 9 2000,Crystal Palace,0-1,0-0,Burnley
+Sat Sep 9 2000,Grimsby,1-0,1-0,Gillingham
+Sat Sep 9 2000,Huddersfield,2-3,0-0,Bolton
+Sat Sep 9 2000,Portsmouth,1-3,0-2,Watford
+Sat Sep 9 2000,QPR,0-0,0-0,Preston
+Sat Sep 9 2000,Sheffield Weds,0-5,0-0,Wimbledon
+Sat Sep 9 2000,Stockport,0-0,0-0,West Brom
+Sat Sep 9 2000,Wolves,1-2,1-1,Tranmere
+Sun Sep 10 2000,Fulham,5-1,3-0,Barnsley
+Tue Sep 12 2000,Birmingham,3-1,0-1,Preston
+Tue Sep 12 2000,Blackburn,3-4,2-3,Watford
+Tue Sep 12 2000,Crewe,0-1,0-1,West Brom
+Tue Sep 12 2000,Crystal Palace,1-0,1-0,Barnsley
+Tue Sep 12 2000,Fulham,3-1,0-1,Burnley
+Tue Sep 12 2000,Grimsby,0-1,0-0,Bolton
+Tue Sep 12 2000,Huddersfield,0-2,0-1,Wimbledon
+Tue Sep 12 2000,Portsmouth,2-0,0-0,Tranmere
+Tue Sep 12 2000,Stockport,1-3,0-2,Norwich
+Tue Sep 12 2000,Wolves,0-0,0-0,Sheffield United
+Wed Sep 13 2000,QPR,2-2,0-0,Gillingham
+Wed Sep 13 2000,Sheffield Weds,0-1,0-1,Nott'm Forest
+Fri Sep 15 2000,Sheffield United,2-0,2-0,Blackburn
+Sat Sep 16 2000,Barnsley,4-2,3-0,QPR
+Sat Sep 16 2000,Bolton,2-0,1-0,Portsmouth
+Sat Sep 16 2000,Burnley,1-1,1-1,Grimsby
+Sat Sep 16 2000,Gillingham,2-1,0-1,Huddersfield
+Sat Sep 16 2000,Norwich,0-0,0-0,Crystal Palace
+Sat Sep 16 2000,Nott'm Forest,0-3,0-0,Fulham
+Sat Sep 16 2000,Preston,1-1,1-1,Stockport
+Sat Sep 16 2000,Tranmere,2-0,1-0,Sheffield Weds
+Sat Sep 16 2000,Watford,3-0,1-0,Crewe
+Sat Sep 16 2000,Wimbledon,1-1,0-0,Wolves
+Sun Sep 17 2000,West Brom,1-1,1-0,Birmingham
+Sat Sep 23 2000,Birmingham,2-0,0-0,Tranmere
+Sat Sep 23 2000,Blackburn,1-1,1-0,Bolton
+Sat Sep 23 2000,Crewe,2-2,1-0,Barnsley
+Sat Sep 23 2000,Crystal Palace,0-1,0-1,Sheffield United
+Sat Sep 23 2000,Fulham,3-0,1-0,Gillingham
+Sat Sep 23 2000,Grimsby,0-2,0-2,Nott'm Forest
+Sat Sep 23 2000,Huddersfield,0-1,0-1,Burnley
+Sat Sep 23 2000,Portsmouth,0-1,0-0,West Brom
+Sat Sep 23 2000,QPR,2-1,0-0,Wimbledon
+Sat Sep 23 2000,Sheffield Weds,1-3,1-0,Preston
+Sat Sep 23 2000,Stockport,2-3,0-1,Watford
+Sun Sep 24 2000,Wolves,4-0,3-0,Norwich
+Sat Sep 30 2000,Barnsley,2-0,1-0,Grimsby
+Sat Sep 30 2000,Bolton,0-2,0-1,Fulham
+Sat Sep 30 2000,Burnley,1-1,0-0,Portsmouth
+Sat Sep 30 2000,Gillingham,2-0,1-0,Sheffield Weds
+Sat Sep 30 2000,Norwich,1-1,0-0,Huddersfield
+Sat Sep 30 2000,Nott'm Forest,0-0,0-0,Wolves
+Sat Sep 30 2000,Preston,2-0,1-0,Crystal Palace
+Sat Sep 30 2000,Sheffield United,1-1,1-0,QPR
+Sat Sep 30 2000,Tranmere,1-3,0-2,Crewe
+Sat Sep 30 2000,West Brom,1-0,0-0,Blackburn
+Sat Sep 30 2000,Wimbledon,2-0,1-0,Stockport
+Sun Oct 1 2000,Watford,2-0,0-0,Birmingham
+Fri Oct 6 2000,Gillingham,2-2,0-2,Bolton
+Fri Oct 6 2000,Huddersfield,1-1,0-0,Barnsley
+Fri Oct 6 2000,Tranmere,2-3,0-1,Burnley
+Sun Oct 8 2000,Crewe,0-2,0-0,Birmingham
+Sun Oct 8 2000,Sheffield Weds,1-2,1-1,West Brom
+Sun Oct 8 2000,Stockport,1-1,0-1,Portsmouth
+Sat Oct 14 2000,Barnsley,3-4,0-2,Nott'm Forest
+Sat Oct 14 2000,Birmingham,2-1,0-0,Crystal Palace
+Sat Oct 14 2000,Bolton,2-1,1-0,Wolves
+Sat Oct 14 2000,Burnley,2-1,2-0,Stockport
+Sat Oct 14 2000,Grimsby,1-0,1-0,Huddersfield
+Sat Oct 14 2000,Portsmouth,2-1,1-0,Sheffield Weds
+Sat Oct 14 2000,Preston,1-0,0-0,Tranmere
+Sat Oct 14 2000,Sheffield United,1-0,0-0,Crewe
+Sat Oct 14 2000,Watford,3-1,2-0,QPR
+Sat Oct 14 2000,West Brom,2-3,1-2,Norwich
+Sat Oct 14 2000,Wimbledon,4-4,2-3,Gillingham
+Sun Oct 15 2000,Fulham,2-1,1-1,Blackburn
+Tue Oct 17 2000,Barnsley,1-1,0-1,Tranmere
+Tue Oct 17 2000,Birmingham,4-0,1-0,Stockport
+Tue Oct 17 2000,Bolton,0-0,0-0,Nott'm Forest
+Tue Oct 17 2000,Burnley,1-0,0-0,Sheffield Weds
+Tue Oct 17 2000,Grimsby,3-1,0-1,QPR
+Tue Oct 17 2000,Portsmouth,2-1,0-0,Crewe
+Tue Oct 17 2000,Preston,1-0,0-0,Norwich
+Tue Oct 17 2000,Sheffield United,3-0,1-0,Huddersfield
+Tue Oct 17 2000,Watford,0-0,0-0,Gillingham
+Tue Oct 17 2000,West Brom,1-0,1-0,Wolves
+Wed Oct 18 2000,Fulham,3-1,2-1,Crystal Palace
+Wed Oct 18 2000,Wimbledon,0-2,0-2,Blackburn
+Sat Oct 21 2000,Blackburn,2-0,0-0,Grimsby
+Sat Oct 21 2000,Crewe,0-4,0-2,Wimbledon
+Sat Oct 21 2000,Crystal Palace,2-3,2-1,Portsmouth
+Sat Oct 21 2000,Gillingham,0-0,0-0,Barnsley
+Sat Oct 21 2000,Huddersfield,0-0,0-0,Preston
+Sat Oct 21 2000,Norwich,4-2,2-2,Sheffield United
+Sat Oct 21 2000,Nott'm Forest,0-2,0-2,Watford
+Sat Oct 21 2000,QPR,0-1,0-0,Burnley
+Sat Oct 21 2000,Stockport,4-3,3-0,Bolton
+Sat Oct 21 2000,Tranmere,2-2,1-2,West Brom
+Sat Oct 21 2000,Wolves,0-0,0-0,Fulham
+Sun Oct 22 2000,Sheffield Weds,1-0,0-0,Birmingham
+Tue Oct 24 2000,Barnsley,1-2,1-2,Wolves
+Tue Oct 24 2000,Crewe,1-0,0-0,Huddersfield
+Tue Oct 24 2000,Crystal Palace,0-1,0-1,Grimsby
+Tue Oct 24 2000,Fulham,0-1,0-0,Preston
+Tue Oct 24 2000,Norwich,0-0,0-0,Portsmouth
+Tue Oct 24 2000,Sheffield United,1-0,0-0,Stockport
+Tue Oct 24 2000,Watford,1-0,0-0,Bolton
+Tue Oct 24 2000,West Brom,3-1,2-1,Wimbledon
+Wed Oct 25 2000,Birmingham,1-0,0-0,Gillingham
+Wed Oct 25 2000,Blackburn,3-2,3-1,Tranmere
+Wed Oct 25 2000,Nott'm Forest,5-0,2-0,Burnley
+Wed Oct 25 2000,QPR,1-2,1-0,Sheffield Weds
+Fri Oct 27 2000,Preston,1-2,0-1,Barnsley
+Sat Oct 28 2000,Bolton,3-3,1-1,Crystal Palace
+Sat Oct 28 2000,Gillingham,0-1,0-0,Crewe
+Sat Oct 28 2000,Huddersfield,0-1,0-0,Blackburn
+Sat Oct 28 2000,Portsmouth,1-1,1-0,Birmingham
+Sat Oct 28 2000,Sheffield Weds,3-3,1-0,Fulham
+Sat Oct 28 2000,Stockport,1-2,0-0,Nott'm Forest
+Sat Oct 28 2000,Tranmere,1-1,0-0,QPR
+Sat Oct 28 2000,Wimbledon,0-0,0-0,Sheffield United
+Sat Oct 28 2000,Wolves,2-2,0-2,Watford
+Sun Oct 29 2000,Grimsby,2-0,0-0,West Brom
+Tue Oct 31 2000,Bolton,3-1,1-1,QPR
+Tue Oct 31 2000,Burnley,1-0,1-0,Crewe
+Sat Nov 4 2000,Birmingham,1-1,0-0,Bolton
+Sat Nov 4 2000,Blackburn,2-1,0-1,Stockport
+Sat Nov 4 2000,Crewe,2-0,2-0,Wolves
+Sat Nov 4 2000,Crystal Palace,4-1,3-0,Sheffield Weds
+Sat Nov 4 2000,Fulham,3-0,0-0,Huddersfield
+Sat Nov 4 2000,Norwich,1-0,0-0,Tranmere
+Sat Nov 4 2000,Nott'm Forest,3-1,1-1,Preston
+Sat Nov 4 2000,QPR,1-1,1-0,Portsmouth
+Sat Nov 4 2000,Sheffield United,1-2,0-1,Gillingham
+Sat Nov 4 2000,Watford,4-0,2-0,Grimsby
+Sat Nov 4 2000,West Brom,1-1,0-1,Burnley
+Sun Nov 5 2000,Barnsley,0-1,0-0,Wimbledon
+Tue Nov 7 2000,Norwich,1-0,1-0,Birmingham
+Tue Nov 7 2000,Watford,1-3,0-1,Sheffield Weds
+Wed Nov 8 2000,Barnsley,1-2,1-0,Blackburn
+Fri Nov 10 2000,Preston,2-1,1-1,Crewe
+Sat Nov 11 2000,Bolton,2-0,2-0,Barnsley
+Sat Nov 11 2000,Burnley,2-0,0-0,Sheffield United
+Sat Nov 11 2000,Huddersfield,0-2,0-2,West Brom
+Sat Nov 11 2000,Portsmouth,2-2,1-1,Blackburn
+Sat Nov 11 2000,Sheffield Weds,3-2,1-1,Norwich
+Sat Nov 11 2000,Stockport,2-2,1-1,QPR
+Sat Nov 11 2000,Tranmere,2-0,1-0,Watford
+Sat Nov 11 2000,Wimbledon,0-3,0-1,Fulham
+Sat Nov 11 2000,Wolves,1-3,0-2,Crystal Palace
+Sun Nov 12 2000,Gillingham,1-3,1-2,Nott'm Forest
+Sat Nov 18 2000,Barnsley,1-0,1-0,Sheffield Weds
+Sat Nov 18 2000,Birmingham,3-2,0-0,Burnley
+Sat Nov 18 2000,Blackburn,1-0,0-0,Wolves
+Sat Nov 18 2000,Crewe,1-2,0-1,Stockport
+Sat Nov 18 2000,Crystal Palace,3-2,1-2,Tranmere
+Sat Nov 18 2000,Fulham,3-1,1-1,Portsmouth
+Sat Nov 18 2000,Norwich,0-2,0-0,Bolton
+Sat Nov 18 2000,Nott'm Forest,1-2,0-1,Wimbledon
+Sat Nov 18 2000,QPR,1-1,1-1,Huddersfield
+Sat Nov 18 2000,Sheffield United,3-2,1-0,Grimsby
+Sat Nov 18 2000,Watford,2-3,2-2,Preston
+Sat Nov 18 2000,West Brom,3-1,2-0,Gillingham
+Tue Nov 21 2000,Burnley,2-0,0-0,Norwich
+Tue Nov 21 2000,Sheffield United,1-1,1-1,Fulham
+Tue Nov 21 2000,Wolves,2-0,2-0,Grimsby
+Sat Nov 25 2000,Barnsley,1-0,0-0,Portsmouth
+Sat Nov 25 2000,Birmingham,2-1,2-0,Huddersfield
+Sat Nov 25 2000,Blackburn,1-2,1-2,Gillingham
+Sat Nov 25 2000,Crewe,1-0,0-0,Sheffield Weds
+Sat Nov 25 2000,Crystal Palace,2-2,0-1,Stockport
+Sat Nov 25 2000,Fulham,2-1,0-0,Grimsby
+Sat Nov 25 2000,Norwich,1-2,1-1,Wimbledon
+Sat Nov 25 2000,Nott'm Forest,3-1,2-1,Tranmere
+Sat Nov 25 2000,QPR,2-2,1-2,Wolves
+Sat Nov 25 2000,Sheffield United,1-0,0-0,Bolton
+Sat Nov 25 2000,West Brom,3-1,1-0,Preston
+Wed Nov 29 2000,Nott'm Forest,2-0,1-0,Sheffield United
+Sat Dec 2 2000,Burnley,1-0,0-0,Nott'm Forest
+Sat Dec 2 2000,Gillingham,1-2,1-0,Birmingham
+Sat Dec 2 2000,Grimsby,2-2,0-1,Crystal Palace
+Sat Dec 2 2000,Huddersfield,3-1,0-1,Crewe
+Sat Dec 2 2000,Portsmouth,2-0,1-0,Norwich
+Sat Dec 2 2000,Preston,1-1,1-0,Fulham
+Sat Dec 2 2000,Sheffield Weds,5-2,3-1,QPR
+Sat Dec 2 2000,Stockport,0-2,0-1,Sheffield United
+Sat Dec 2 2000,Tranmere,1-1,0-0,Blackburn
+Sat Dec 2 2000,Wimbledon,0-1,0-0,West Brom
+Sat Dec 2 2000,Wolves,2-0,1-0,Barnsley
+Sun Dec 3 2000,Bolton,2-1,0-1,Watford
+Tue Dec 5 2000,Crystal Palace,3-1,0-1,Wimbledon
+Sat Dec 9 2000,Barnsley,0-0,0-0,Sheffield United
+Sat Dec 9 2000,Birmingham,0-3,0-2,Wimbledon
+Sat Dec 9 2000,Blackburn,0-0,0-0,QPR
+Sat Dec 9 2000,Bolton,4-1,3-1,Crewe
+Sat Dec 9 2000,Crystal Palace,1-0,0-0,Watford
+Sat Dec 9 2000,Huddersfield,3-0,0-0,Wolves
+Sat Dec 9 2000,Norwich,1-0,0-0,Gillingham
+Sat Dec 9 2000,Nott'm Forest,2-0,1-0,Portsmouth
+Sat Dec 9 2000,Preston,2-1,0-1,Burnley
+Sat Dec 9 2000,Sheffield Weds,2-4,2-2,Stockport
+Sat Dec 9 2000,Tranmere,2-0,0-0,Grimsby
+Sat Dec 9 2000,West Brom,1-3,0-2,Fulham
+Wed Dec 13 2000,Nott'm Forest,1-3,0-0,Huddersfield
+Wed Dec 13 2000,Wimbledon,2-2,2-1,Grimsby
+Sat Dec 16 2000,Crewe,1-1,1-0,Crystal Palace
+Sat Dec 16 2000,Fulham,3-1,2-1,Tranmere
+Sat Dec 16 2000,Gillingham,4-0,2-0,Preston
+Sat Dec 16 2000,Grimsby,2-0,1-0,Norwich
+Sat Dec 16 2000,Portsmouth,1-1,0-1,Huddersfield
+Sat Dec 16 2000,QPR,1-0,1-0,Nott'm Forest
+Sat Dec 16 2000,Sheffield United,1-1,0-0,Sheffield Weds
+Sat Dec 16 2000,Stockport,2-0,0-0,Barnsley
+Sat Dec 16 2000,Watford,3-3,2-0,West Brom
+Sat Dec 16 2000,Wimbledon,0-1,0-0,Bolton
+Sun Dec 17 2000,Burnley,0-2,0-1,Blackburn
+Sun Dec 17 2000,Wolves,0-1,0-1,Birmingham
+Fri Dec 22 2000,Crystal Palace,2-3,0-3,Blackburn
+Fri Dec 22 2000,Stockport,2-2,1-1,Gillingham
+Sat Dec 23 2000,Birmingham,0-0,0-0,QPR
+Sat Dec 23 2000,Burnley,0-2,0-0,Bolton
+Sat Dec 23 2000,Crewe,1-2,1-0,Fulham
+Sat Dec 23 2000,Norwich,0-0,0-0,Barnsley
+Sat Dec 23 2000,Portsmouth,0-0,0-0,Sheffield United
+Sat Dec 23 2000,Preston,1-2,1-1,Grimsby
+Sat Dec 23 2000,Sheffield Weds,0-1,0-1,Wolves
+Sat Dec 23 2000,Tranmere,0-4,0-1,Wimbledon
+Sat Dec 23 2000,Watford,1-2,1-1,Huddersfield
+Sat Dec 23 2000,West Brom,3-0,2-0,Nott'm Forest
+Tue Dec 26 2000,Barnsley,1-0,0-0,Burnley
+Tue Dec 26 2000,Blackburn,2-1,0-0,Birmingham
+Tue Dec 26 2000,Bolton,2-0,1-0,Sheffield Weds
+Tue Dec 26 2000,Fulham,5-0,2-0,Watford
+Tue Dec 26 2000,Gillingham,4-1,1-0,Crystal Palace
+Tue Dec 26 2000,Grimsby,1-1,0-1,Stockport
+Tue Dec 26 2000,Huddersfield,3-0,1-0,Tranmere
+Tue Dec 26 2000,Nott'm Forest,1-0,1-0,Crewe
+Tue Dec 26 2000,QPR,2-3,2-1,Norwich
+Tue Dec 26 2000,Sheffield United,2-0,1-0,West Brom
+Tue Dec 26 2000,Wimbledon,1-1,0-1,Portsmouth
+Tue Dec 26 2000,Wolves,0-1,0-1,Preston
+Fri Dec 29 2000,Barnsley,0-1,0-0,Watford
+Sat Dec 30 2000,Blackburn,1-0,0-0,Crewe
+Sat Dec 30 2000,Bolton,0-1,0-1,West Brom
+Sat Dec 30 2000,Huddersfield,0-0,0-0,Sheffield Weds
+Sat Dec 30 2000,Nott'm Forest,0-0,0-0,Norwich
+Sat Dec 30 2000,QPR,1-1,1-0,Crystal Palace
+Sat Dec 30 2000,Sheffield United,3-2,1-2,Preston
+Sat Dec 30 2000,Wolves,3-2,3-1,Stockport
+Mon Jan 1 2001,Birmingham,0-2,0-0,Nott'm Forest
+Mon Jan 1 2001,Burnley,1-2,1-1,Wolves
+Mon Jan 1 2001,Norwich,1-1,1-0,Blackburn
+Mon Jan 1 2001,Portsmouth,0-0,0-0,Gillingham
+Mon Jan 1 2001,Preston,0-2,0-1,Bolton
+Mon Jan 1 2001,Sheffield Weds,1-0,0-0,Grimsby
+Mon Jan 1 2001,Stockport,2-0,1-0,Fulham
+Mon Jan 1 2001,Tranmere,1-0,1-0,Sheffield United
+Mon Jan 1 2001,West Brom,1-0,0-0,Barnsley
+Tue Jan 2 2001,Watford,3-1,3-1,Wimbledon
+Wed Jan 10 2001,Blackburn,3-2,3-0,Preston
+Sat Jan 13 2001,Barnsley,2-3,0-2,Birmingham
+Sat Jan 13 2001,Blackburn,2-0,2-0,Sheffield Weds
+Sat Jan 13 2001,Bolton,2-0,2-0,Tranmere
+Sat Jan 13 2001,Fulham,2-0,1-0,Norwich
+Sat Jan 13 2001,Gillingham,0-0,0-0,Burnley
+Sat Jan 13 2001,Grimsby,1-3,0-2,Crewe
+Sat Jan 13 2001,Huddersfield,0-0,0-0,Stockport
+Sat Jan 13 2001,QPR,2-0,1-0,West Brom
+Sat Jan 13 2001,Sheffield United,0-1,0-0,Watford
+Sat Jan 13 2001,Wimbledon,3-1,1-0,Preston
+Sat Jan 13 2001,Wolves,1-1,1-1,Portsmouth
+Sun Jan 14 2001,Nott'm Forest,0-3,0-2,Crystal Palace
+Sat Jan 20 2001,Burnley,2-1,1-0,Barnsley
+Sat Jan 20 2001,Crystal Palace,2-2,0-1,Gillingham
+Sat Jan 20 2001,Norwich,1-0,1-0,QPR
+Sat Jan 20 2001,Portsmouth,2-1,2-1,Wimbledon
+Sat Jan 20 2001,Sheffield Weds,0-3,0-2,Bolton
+Sat Jan 20 2001,Stockport,1-1,1-0,Grimsby
+Sat Jan 20 2001,Watford,1-3,0-0,Fulham
+Sat Jan 20 2001,West Brom,2-1,0-0,Sheffield United
+Sat Jan 27 2001,Fulham,0-1,0-0,Birmingham
+Sat Jan 27 2001,Grimsby,2-1,2-0,Portsmouth
+Sat Jan 27 2001,Norwich,2-1,0-0,Watford
+Wed Jan 31 2001,QPR,0-2,0-1,Fulham
+Sat Feb 3 2001,Birmingham,2-1,1-0,Norwich
+Sat Feb 3 2001,Blackburn,0-0,0-0,Barnsley
+Sat Feb 3 2001,Crewe,4-2,3-1,Burnley
+Sat Feb 3 2001,Crystal Palace,2-2,2-1,West Brom
+Sat Feb 3 2001,Huddersfield,1-1,1-1,Nott'm Forest
+Sat Feb 3 2001,Portsmouth,0-1,0-1,Preston
+Sat Feb 3 2001,QPR,1-1,0-0,Bolton
+Sat Feb 3 2001,Sheffield Weds,2-3,2-2,Watford
+Sat Feb 3 2001,Stockport,1-1,1-0,Tranmere
+Sat Feb 3 2001,Wolves,1-1,1-1,Gillingham
+Sun Feb 4 2001,Fulham,1-1,1-1,Sheffield United
+Sat Feb 10 2001,Barnsley,0-0,0-0,Fulham
+Sat Feb 10 2001,Bolton,2-2,0-2,Huddersfield
+Sat Feb 10 2001,Burnley,1-2,1-0,Crystal Palace
+Sat Feb 10 2001,Gillingham,1-0,0-0,Grimsby
+Sat Feb 10 2001,Norwich,1-1,0-0,Crewe
+Sat Feb 10 2001,Nott'm Forest,2-1,0-0,Blackburn
+Sat Feb 10 2001,Preston,5-0,0-0,QPR
+Sat Feb 10 2001,Sheffield United,3-1,2-0,Birmingham
+Sat Feb 10 2001,Tranmere,0-2,0-1,Wolves
+Sat Feb 10 2001,Watford,2-2,2-2,Portsmouth
+Sat Feb 10 2001,West Brom,1-1,1-0,Stockport
+Sat Feb 10 2001,Wimbledon,4-1,2-1,Sheffield Weds
+Tue Feb 13 2001,Portsmouth,1-2,0-0,Bolton
+Tue Feb 13 2001,Sheffield Weds,1-0,0-0,Tranmere
+Tue Feb 13 2001,Stockport,0-1,0-0,Preston
+Sat Feb 17 2001,Birmingham,2-1,1-1,West Brom
+Sat Feb 17 2001,Crewe,2-0,2-0,Watford
+Sat Feb 17 2001,Crystal Palace,1-1,1-0,Norwich
+Sat Feb 17 2001,Fulham,1-0,1-0,Nott'm Forest
+Sat Feb 17 2001,Grimsby,1-0,0-0,Burnley
+Sat Feb 17 2001,Huddersfield,2-3,2-2,Gillingham
+Sat Feb 17 2001,QPR,2-0,1-0,Barnsley
+Tue Feb 20 2001,Barnsley,1-0,1-0,Crystal Palace
+Tue Feb 20 2001,Bolton,2-2,0-1,Grimsby
+Tue Feb 20 2001,Burnley,2-1,0-0,Fulham
+Tue Feb 20 2001,Gillingham,0-1,0-0,QPR
+Tue Feb 20 2001,Norwich,4-0,3-0,Stockport
+Tue Feb 20 2001,Preston,0-2,0-1,Birmingham
+Tue Feb 20 2001,Sheffield United,1-0,1-0,Wolves
+Tue Feb 20 2001,Watford,0-1,0-0,Blackburn
+Tue Feb 20 2001,West Brom,2-2,1-1,Crewe
+Wed Feb 21 2001,Nott'm Forest,0-1,0-0,Sheffield Weds
+Fri Feb 23 2001,Bolton,1-4,0-1,Blackburn
+Sat Feb 24 2001,Barnsley,3-0,1-0,Crewe
+Sat Feb 24 2001,Burnley,1-0,0-0,Huddersfield
+Sat Feb 24 2001,Gillingham,0-2,0-0,Fulham
+Sat Feb 24 2001,Norwich,1-0,1-0,Wolves
+Sat Feb 24 2001,Nott'm Forest,3-1,0-1,Grimsby
+Sat Feb 24 2001,Preston,2-0,0-0,Sheffield Weds
+Sat Feb 24 2001,Sheffield United,1-0,0-0,Crystal Palace
+Sat Feb 24 2001,Watford,2-2,0-1,Stockport
+Sat Feb 24 2001,West Brom,2-0,1-0,Portsmouth
+Sat Feb 24 2001,Wimbledon,5-0,1-0,QPR
+Tue Feb 27 2001,Tranmere,2-0,2-0,Huddersfield
+Fri Mar 2 2001,Birmingham,2-0,1-0,Watford
+Sat Mar 3 2001,Blackburn,1-0,0-0,West Brom
+Sat Mar 3 2001,Crewe,3-1,0-1,Tranmere
+Sat Mar 3 2001,Crystal Palace,0-2,0-2,Preston
+Sat Mar 3 2001,Grimsby,0-2,0-1,Barnsley
+Sat Mar 3 2001,Huddersfield,2-0,1-0,Norwich
+Sat Mar 3 2001,Portsmouth,2-0,0-0,Burnley
+Sat Mar 3 2001,QPR,1-3,1-0,Sheffield United
+Sat Mar 3 2001,Sheffield Weds,2-1,1-0,Gillingham
+Sat Mar 3 2001,Stockport,2-2,1-1,Wimbledon
+Sat Mar 3 2001,Wolves,2-0,0-0,Nott'm Forest
+Sun Mar 4 2001,Fulham,1-1,1-0,Bolton
+Tue Mar 6 2001,Crewe,1-0,0-0,Sheffield United
+Tue Mar 6 2001,Crystal Palace,1-2,0-0,Birmingham
+Tue Mar 6 2001,Gillingham,0-0,0-0,Wimbledon
+Tue Mar 6 2001,Huddersfield,0-0,0-0,Grimsby
+Tue Mar 6 2001,Norwich,0-1,0-1,West Brom
+Tue Mar 6 2001,Stockport,0-0,0-0,Burnley
+Tue Mar 6 2001,Tranmere,1-1,0-1,Preston
+Wed Mar 7 2001,Nott'm Forest,1-0,1-0,Barnsley
+Wed Mar 7 2001,QPR,1-1,0-0,Watford
+Wed Mar 7 2001,Sheffield Weds,0-0,0-0,Portsmouth
+Sat Mar 10 2001,Barnsley,3-1,1-1,Huddersfield
+Sat Mar 10 2001,Birmingham,2-0,0-0,Crewe
+Sat Mar 10 2001,Bolton,3-3,2-1,Gillingham
+Sat Mar 10 2001,Fulham,2-0,1-0,QPR
+Sat Mar 10 2001,Grimsby,0-2,0-0,Wolves
+Sat Mar 10 2001,Portsmouth,2-1,0-0,Stockport
+Sat Mar 10 2001,Sheffield United,1-3,0-1,Nott'm Forest
+Sat Mar 10 2001,Watford,4-1,1-1,Norwich
+Sat Mar 10 2001,West Brom,1-2,1-1,Sheffield Weds
+Sat Mar 10 2001,Wimbledon,1-0,1-0,Crystal Palace
+Tue Mar 13 2001,Crewe,1-0,0-0,Nott'm Forest
+Tue Mar 13 2001,Grimsby,1-1,0-1,Wimbledon
+Tue Mar 13 2001,Watford,0-1,0-0,Burnley
+Wed Mar 14 2001,Birmingham,0-2,0-1,Blackburn
+Wed Mar 14 2001,Preston,2-0,1-0,Wolves
+Wed Mar 14 2001,Tranmere,1-1,1-0,Portsmouth
+Sat Mar 17 2001,Blackburn,1-1,0-0,Wimbledon
+Sat Mar 17 2001,Crewe,1-0,1-0,Portsmouth
+Sat Mar 17 2001,Crystal Palace,0-2,0-1,Fulham
+Sat Mar 17 2001,Huddersfield,2-1,1-1,Sheffield United
+Sat Mar 17 2001,Norwich,1-2,1-1,Preston
+Sat Mar 17 2001,Nott'm Forest,0-2,0-0,Bolton
+Sat Mar 17 2001,QPR,0-1,0-0,Grimsby
+Sat Mar 17 2001,Sheffield Weds,2-0,1-0,Burnley
+Sat Mar 17 2001,Stockport,2-0,1-0,Birmingham
+Sat Mar 17 2001,Tranmere,2-3,2-0,Barnsley
+Sun Mar 18 2001,Wolves,3-1,2-0,West Brom
+Tue Mar 20 2001,Gillingham,2-1,1-1,Tranmere
+Tue Mar 20 2001,Grimsby,1-1,1-1,Birmingham
+Sat Mar 24 2001,Birmingham,1-2,0-1,Sheffield Weds
+Sat Mar 24 2001,Burnley,2-1,2-0,QPR
+Sun Mar 25 2001,Barnsley,3-1,1-1,Gillingham
+Sun Mar 25 2001,West Brom,2-1,1-0,Tranmere
+Fri Mar 30 2001,Tranmere,1-4,0-1,Fulham
+Sat Mar 31 2001,Barnsley,0-2,0-1,Stockport
+Sat Mar 31 2001,Bolton,2-2,1-1,Wimbledon
+Sat Mar 31 2001,Crystal Palace,1-0,0-0,Crewe
+Sat Mar 31 2001,Huddersfield,4-1,0-1,Portsmouth
+Sat Mar 31 2001,Norwich,2-1,1-1,Grimsby
+Sat Mar 31 2001,Nott'm Forest,1-1,1-0,QPR
+Sat Mar 31 2001,Preston,0-0,0-0,Gillingham
+Sat Mar 31 2001,West Brom,3-0,0-0,Watford
+Sun Apr 1 2001,Birmingham,0-1,0-1,Wolves
+Sun Apr 1 2001,Blackburn,5-0,2-0,Burnley
+Sun Apr 1 2001,Sheffield Weds,1-2,0-0,Sheffield United
+Tue Apr 3 2001,Bolton,1-1,1-0,Stockport
+Tue Apr 3 2001,Crystal Palace,0-0,0-0,Huddersfield
+Tue Apr 3 2001,Watford,3-0,1-0,Nott'm Forest
+Wed Apr 4 2001,Blackburn,1-1,1-0,Sheffield United
+Wed Apr 4 2001,Wolves,0-1,0-0,Wimbledon
+Fri Apr 6 2001,Burnley,3-0,2-0,Preston
+Sat Apr 7 2001,Fulham,0-0,0-0,West Brom
+Sat Apr 7 2001,Gillingham,4-3,2-0,Norwich
+Sat Apr 7 2001,Grimsby,3-1,0-1,Tranmere
+Sat Apr 7 2001,Portsmouth,0-2,0-2,Nott'm Forest
+Sat Apr 7 2001,QPR,1-3,1-2,Blackburn
+Sat Apr 7 2001,Sheffield United,1-2,1-1,Barnsley
+Sat Apr 7 2001,Stockport,2-1,1-0,Sheffield Weds
+Sat Apr 7 2001,Watford,2-2,0-1,Crystal Palace
+Sat Apr 7 2001,Wimbledon,3-1,1-0,Birmingham
+Sat Apr 7 2001,Wolves,0-1,0-1,Huddersfield
+Tue Apr 10 2001,Crewe,2-2,0-2,QPR
+Tue Apr 10 2001,Preston,0-0,0-0,Huddersfield
+Tue Apr 10 2001,Sheffield United,1-1,1-0,Norwich
+Tue Apr 10 2001,Tranmere,1-0,0-0,Birmingham
+Tue Apr 10 2001,Wimbledon,0-2,0-2,Burnley
+Wed Apr 11 2001,Blackburn,1-2,1-1,Fulham
+Fri Apr 13 2001,Bolton,2-2,0-1,Birmingham
+Sat Apr 14 2001,Burnley,1-1,0-0,West Brom
+Sat Apr 14 2001,Gillingham,4-1,1-0,Sheffield United
+Sat Apr 14 2001,Grimsby,2-1,0-1,Watford
+Sat Apr 14 2001,Huddersfield,1-2,0-0,Fulham
+Sat Apr 14 2001,Portsmouth,1-1,1-0,QPR
+Sat Apr 14 2001,Preston,1-1,1-0,Nott'm Forest
+Sat Apr 14 2001,Sheffield Weds,4-1,3-1,Crystal Palace
+Sat Apr 14 2001,Stockport,0-0,0-0,Blackburn
+Sat Apr 14 2001,Tranmere,0-1,0-0,Norwich
+Sat Apr 14 2001,Wimbledon,1-1,1-0,Barnsley
+Sat Apr 14 2001,Wolves,0-0,0-0,Crewe
+Mon Apr 16 2001,Barnsley,0-4,0-2,Preston
+Mon Apr 16 2001,Birmingham,0-0,0-0,Portsmouth
+Mon Apr 16 2001,Blackburn,2-0,1-0,Huddersfield
+Mon Apr 16 2001,Crewe,2-1,1-1,Gillingham
+Mon Apr 16 2001,Crystal Palace,0-2,0-1,Bolton
+Mon Apr 16 2001,Fulham,1-1,0-1,Sheffield Weds
+Mon Apr 16 2001,Norwich,2-3,2-1,Burnley
+Mon Apr 16 2001,Nott'm Forest,1-0,1-0,Stockport
+Mon Apr 16 2001,QPR,2-0,1-0,Tranmere
+Mon Apr 16 2001,West Brom,0-1,0-1,Grimsby
+Tue Apr 17 2001,Sheffield United,0-1,0-0,Wimbledon
+Tue Apr 17 2001,Watford,3-2,2-1,Wolves
+Wed Apr 18 2001,Crewe,2-1,0-0,Bolton
+Sat Apr 21 2001,Bolton,1-0,0-0,Norwich
+Sat Apr 21 2001,Burnley,0-0,0-0,Birmingham
+Sat Apr 21 2001,Gillingham,1-2,1-2,West Brom
+Sat Apr 21 2001,Grimsby,0-1,0-1,Sheffield United
+Sat Apr 21 2001,Huddersfield,2-1,1-1,QPR
+Sat Apr 21 2001,Portsmouth,1-1,1-0,Fulham
+Sat Apr 21 2001,Sheffield Weds,2-1,0-1,Barnsley
+Sat Apr 21 2001,Stockport,3-0,0-0,Crewe
+Sat Apr 21 2001,Tranmere,1-1,0-1,Crystal Palace
+Sat Apr 21 2001,Wimbledon,2-1,0-0,Nott'm Forest
+Sat Apr 21 2001,Wolves,0-0,0-0,Blackburn
+Sun Apr 22 2001,Preston,3-2,2-1,Watford
+Tue Apr 24 2001,Burnley,2-1,1-1,Tranmere
+Tue Apr 24 2001,Fulham,2-0,1-0,Wolves
+Tue Apr 24 2001,Grimsby,1-4,0-2,Blackburn
+Tue Apr 24 2001,Wimbledon,3-3,2-1,Crewe
+Sat Apr 28 2001,Barnsley,0-1,0-0,Bolton
+Sat Apr 28 2001,Birmingham,1-0,0-0,Grimsby
+Sat Apr 28 2001,Crewe,1-3,1-3,Preston
+Sat Apr 28 2001,Crystal Palace,0-2,0-1,Wolves
+Sat Apr 28 2001,Fulham,1-1,0-0,Wimbledon
+Sat Apr 28 2001,Norwich,1-0,1-0,Sheffield Weds
+Sat Apr 28 2001,Nott'm Forest,0-1,0-0,Gillingham
+Sat Apr 28 2001,QPR,0-3,0-0,Stockport
+Sat Apr 28 2001,Sheffield United,2-0,1-0,Burnley
+Sat Apr 28 2001,Watford,1-1,0-0,Tranmere
+Sat Apr 28 2001,West Brom,1-1,1-1,Huddersfield
+Sun Apr 29 2001,Blackburn,3-1,0-1,Portsmouth
+Tue May 1 2001,Gillingham,0-3,0-0,Watford
+Tue May 1 2001,Wimbledon,1-1,0-0,Huddersfield
+Tue May 1 2001,Wolves,0-2,0-1,Bolton
+Wed May 2 2001,Portsmouth,2-4,1-3,Crystal Palace
+Wed May 2 2001,Preston,0-1,0-0,Blackburn
+Sun May 6 2001,Bolton,1-1,0-0,Sheffield United
+Sun May 6 2001,Burnley,2-0,0-0,Watford
+Sun May 6 2001,Gillingham,1-1,0-1,Blackburn
+Sun May 6 2001,Grimsby,1-0,1-0,Fulham
+Sun May 6 2001,Huddersfield,1-2,1-2,Birmingham
+Sun May 6 2001,Portsmouth,3-0,1-0,Barnsley
+Sun May 6 2001,Preston,2-1,1-1,West Brom
+Sun May 6 2001,Sheffield Weds,0-0,0-0,Crewe
+Sun May 6 2001,Stockport,0-1,0-0,Crystal Palace
+Sun May 6 2001,Tranmere,2-2,1-0,Nott'm Forest
+Sun May 6 2001,Wimbledon,0-0,0-0,Norwich
+Sun May 6 2001,Wolves,1-1,1-0,QPR

@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 11 2001,Bristol Rvs,1-0,0-0,Torquay
+Sat Aug 11 2001,Carlisle,0-2,0-0,Luton
+Sat Aug 11 2001,Cheltenham,1-1,0-0,Leyton Orient
+Sat Aug 11 2001,Exeter,1-3,1-1,Hull
+Sat Aug 11 2001,Hartlepool,1-1,0-1,Mansfield
+Sat Aug 11 2001,Kidderminster,1-0,0-0,Scunthorpe
+Sat Aug 11 2001,Lincoln,1-2,1-2,Halifax
+Sat Aug 11 2001,Macclesfield,1-3,1-2,Swansea
+Sat Aug 11 2001,Oxford,1-2,0-1,Rochdale
+Sat Aug 11 2001,Plymouth,0-1,0-0,Shrewsbury
+Sat Aug 11 2001,Southend,1-0,0-0,Darlington
+Sat Aug 11 2001,York,0-1,0-1,Rushden & D
+Thu Aug 16 2001,Rushden & D,0-0,0-0,Lincoln
+Sat Aug 18 2001,Darlington,2-0,0-0,Kidderminster
+Sat Aug 18 2001,Halifax,1-1,1-1,Exeter
+Sat Aug 18 2001,Hull,0-0,0-0,Plymouth
+Sat Aug 18 2001,Leyton Orient,0-0,0-0,Carlisle
+Sat Aug 18 2001,Luton,2-1,2-0,Cheltenham
+Sat Aug 18 2001,Mansfield,0-0,0-0,Southend
+Sat Aug 18 2001,Rochdale,1-1,1-1,Macclesfield
+Sat Aug 18 2001,Scunthorpe,1-2,1-2,Bristol Rvs
+Sat Aug 18 2001,Shrewsbury,1-3,1-0,Hartlepool
+Sat Aug 18 2001,Swansea,0-0,0-0,Oxford
+Sat Aug 18 2001,Torquay,0-3,0-2,York
+Sat Aug 25 2001,Bristol Rvs,3-2,1-1,Luton
+Sat Aug 25 2001,Carlisle,0-0,0-0,Hull
+Sat Aug 25 2001,Cheltenham,2-3,0-1,Mansfield
+Sat Aug 25 2001,Exeter,0-4,0-2,Scunthorpe
+Sat Aug 25 2001,Hartlepool,1-2,1-2,Darlington
+Sat Aug 25 2001,Kidderminster,1-0,0-0,Torquay
+Sat Aug 25 2001,Lincoln,3-0,0-0,Swansea
+Sat Aug 25 2001,Macclesfield,0-0,0-0,Rushden & D
+Sat Aug 25 2001,Oxford,0-1,0-0,Shrewsbury
+Sat Aug 25 2001,Plymouth,1-2,1-1,Rochdale
+Sat Aug 25 2001,Southend,4-1,1-0,Halifax
+Sat Aug 25 2001,York,2-1,1-0,Leyton Orient
+Mon Aug 27 2001,Darlington,1-0,0-0,Bristol Rvs
+Mon Aug 27 2001,Halifax,0-2,0-2,Oxford
+Mon Aug 27 2001,Hull,2-1,0-0,Kidderminster
+Mon Aug 27 2001,Leyton Orient,2-0,1-0,Hartlepool
+Mon Aug 27 2001,Luton,2-0,0-0,Southend
+Mon Aug 27 2001,Mansfield,4-0,2-0,Macclesfield
+Mon Aug 27 2001,Rochdale,2-0,2-0,Exeter
+Mon Aug 27 2001,Rushden & D,2-3,2-1,Plymouth
+Mon Aug 27 2001,Scunthorpe,1-1,1-1,Lincoln
+Mon Aug 27 2001,Swansea,2-2,2-0,Cheltenham
+Mon Aug 27 2001,Torquay,2-1,1-1,Carlisle
+Tue Aug 28 2001,Shrewsbury,3-2,1-0,York
+Sat Sep 1 2001,Bristol Rvs,0-0,0-0,Shrewsbury
+Sat Sep 1 2001,Carlisle,1-2,0-2,Rochdale
+Sat Sep 1 2001,Cheltenham,2-2,1-2,Torquay
+Sat Sep 1 2001,Exeter,2-2,1-1,Luton
+Sat Sep 1 2001,Kidderminster,1-1,0-1,Mansfield
+Sat Sep 1 2001,Lincoln,1-1,0-1,Darlington
+Sat Sep 1 2001,Macclesfield,4-3,2-2,Scunthorpe
+Sat Sep 1 2001,Oxford,3-2,0-0,Rushden & D
+Sat Sep 1 2001,Southend,1-2,0-1,Leyton Orient
+Sat Sep 1 2001,York,1-0,0-0,Halifax
+Sat Sep 8 2001,Darlington,2-2,1-2,Carlisle
+Sat Sep 8 2001,Halifax,0-0,0-0,Macclesfield
+Sat Sep 8 2001,Hull,4-0,1-0,York
+Sat Sep 8 2001,Leyton Orient,3-1,0-0,Bristol Rvs
+Sat Sep 8 2001,Luton,1-1,1-1,Oxford
+Sat Sep 8 2001,Mansfield,2-1,1-0,Lincoln
+Sat Sep 8 2001,Rochdale,2-0,1-0,Kidderminster
+Sat Sep 8 2001,Rushden & D,0-1,0-0,Southend
+Sat Sep 8 2001,Scunthorpe,1-0,1-0,Hartlepool
+Sat Sep 8 2001,Shrewsbury,2-1,2-0,Cheltenham
+Sat Sep 8 2001,Swansea,4-2,3-1,Exeter
+Sat Sep 8 2001,Torquay,0-1,0-0,Plymouth
+Tue Sep 11 2001,Plymouth,3-1,2-0,Swansea
+Fri Sep 14 2001,Mansfield,2-1,0-1,Shrewsbury
+Sat Sep 15 2001,Cheltenham,2-0,1-0,Carlisle
+Sat Sep 15 2001,Exeter,3-2,3-1,Oxford
+Sat Sep 15 2001,Kidderminster,0-0,0-0,Plymouth
+Sat Sep 15 2001,Leyton Orient,2-1,2-0,Rushden & D
+Sat Sep 15 2001,Lincoln,0-1,0-1,Bristol Rvs
+Sat Sep 15 2001,Macclesfield,0-0,0-0,Hull
+Sat Sep 15 2001,Rochdale,2-2,0-1,Scunthorpe
+Sat Sep 15 2001,Southend,0-0,0-0,Hartlepool
+Sat Sep 15 2001,Swansea,0-2,0-1,Halifax
+Sat Sep 15 2001,Torquay,2-1,0-0,Darlington
+Sat Sep 15 2001,York,1-2,1-1,Luton
+Tue Sep 18 2001,Bristol Rvs,2-1,1-1,Southend
+Tue Sep 18 2001,Carlisle,2-1,1-0,York
+Tue Sep 18 2001,Darlington,3-0,1-0,Leyton Orient
+Tue Sep 18 2001,Exeter,2-3,2-1,Plymouth
+Tue Sep 18 2001,Halifax,1-0,1-0,Mansfield
+Tue Sep 18 2001,Hartlepool,0-1,0-0,Cheltenham
+Tue Sep 18 2001,Hull,3-1,1-1,Rochdale
+Tue Sep 18 2001,Luton,1-1,1-0,Lincoln
+Tue Sep 18 2001,Oxford,0-2,0-1,Macclesfield
+Tue Sep 18 2001,Rushden & D,0-0,0-0,Torquay
+Tue Sep 18 2001,Scunthorpe,2-2,2-2,Swansea
+Tue Sep 18 2001,Shrewsbury,4-0,2-0,Kidderminster
+Sat Sep 22 2001,Bristol Rvs,2-2,0-0,York
+Sat Sep 22 2001,Carlisle,2-2,1-1,Lincoln
+Sat Sep 22 2001,Darlington,4-0,1-0,Exeter
+Sat Sep 22 2001,Halifax,0-0,0-0,Leyton Orient
+Sat Sep 22 2001,Hartlepool,1-1,0-0,Kidderminster
+Sat Sep 22 2001,Hull,2-1,1-0,Swansea
+Sat Sep 22 2001,Luton,5-1,3-1,Torquay
+Sat Sep 22 2001,Oxford,2-0,1-0,Southend
+Sat Sep 22 2001,Plymouth,2-0,1-0,Macclesfield
+Sat Sep 22 2001,Rushden & D,1-0,0-0,Cheltenham
+Sat Sep 22 2001,Scunthorpe,0-0,0-0,Mansfield
+Sat Sep 22 2001,Shrewsbury,1-0,0-0,Rochdale
+Tue Sep 25 2001,Exeter,1-1,0-0,Rushden & D
+Tue Sep 25 2001,Kidderminster,0-0,0-0,Oxford
+Tue Sep 25 2001,Leyton Orient,1-3,0-1,Luton
+Tue Sep 25 2001,Lincoln,2-0,1-0,Hartlepool
+Tue Sep 25 2001,Macclesfield,1-1,1-0,Darlington
+Tue Sep 25 2001,Mansfield,4-2,3-0,Hull
+Tue Sep 25 2001,Rochdale,2-0,0-0,Halifax
+Tue Sep 25 2001,Southend,3-2,1-1,Carlisle
+Tue Sep 25 2001,Swansea,3-3,2-1,Shrewsbury
+Tue Sep 25 2001,Torquay,0-0,0-0,Scunthorpe
+Tue Sep 25 2001,York,0-0,0-0,Plymouth
+Fri Sep 28 2001,Southend,0-1,0-1,Cheltenham
+Sat Sep 29 2001,Bristol Rvs,1-1,1-1,Oxford
+Sat Sep 29 2001,Darlington,0-0,0-0,Rushden & D
+Sat Sep 29 2001,Exeter,0-0,0-0,Macclesfield
+Sat Sep 29 2001,Hartlepool,3-1,1-1,Carlisle
+Sat Sep 29 2001,Hull,3-0,1-0,Halifax
+Sat Sep 29 2001,Kidderminster,0-2,0-2,Swansea
+Sat Sep 29 2001,Leyton Orient,1-2,1-1,Torquay
+Sat Sep 29 2001,Lincoln,1-3,0-2,York
+Sat Sep 29 2001,Plymouth,2-1,2-1,Luton
+Sat Sep 29 2001,Rochdale,3-1,1-0,Mansfield
+Sat Sep 29 2001,Scunthorpe,3-1,2-0,Shrewsbury
+Fri Oct 5 2001,Cheltenham,2-1,1-0,Lincoln
+Fri Oct 5 2001,Halifax,0-0,0-0,Scunthorpe
+Fri Oct 5 2001,Luton,5-2,1-1,Darlington
+Fri Oct 5 2001,Mansfield,3-2,3-1,Leyton Orient
+Fri Oct 5 2001,Rushden & D,2-1,1-1,Hartlepool
+Fri Oct 5 2001,Shrewsbury,1-1,1-0,Hull
+Fri Oct 5 2001,Torquay,2-1,0-0,Southend
+Sat Oct 6 2001,Carlisle,1-0,1-0,Bristol Rvs
+Sat Oct 6 2001,Oxford,1-1,0-0,Plymouth
+Sat Oct 6 2001,York,2-3,0-2,Exeter
+Sun Oct 7 2001,Macclesfield,0-1,0-1,Kidderminster
+Tue Oct 9 2001,Swansea,0-1,0-1,Rochdale
+Sat Oct 13 2001,Bristol Rvs,0-2,0-0,Macclesfield
+Sat Oct 13 2001,Darlington,0-1,0-0,Mansfield
+Sat Oct 13 2001,Exeter,1-0,0-0,Carlisle
+Sat Oct 13 2001,Hartlepool,3-0,1-0,York
+Sat Oct 13 2001,Hull,1-0,0-0,Torquay
+Sat Oct 13 2001,Kidderminster,0-0,0-0,Cheltenham
+Sat Oct 13 2001,Leyton Orient,2-4,1-2,Shrewsbury
+Sat Oct 13 2001,Lincoln,1-0,0-0,Oxford
+Sat Oct 13 2001,Plymouth,3-0,3-0,Halifax
+Sat Oct 13 2001,Rochdale,0-0,0-0,Rushden & D
+Sat Oct 13 2001,Scunthorpe,0-2,0-0,Luton
+Sat Oct 13 2001,Southend,4-2,0-1,Swansea
+Sat Oct 20 2001,Carlisle,1-0,0-0,Kidderminster
+Sat Oct 20 2001,Cheltenham,3-1,2-0,Exeter
+Sat Oct 20 2001,Halifax,0-0,0-0,Bristol Rvs
+Sat Oct 20 2001,Luton,0-1,0-1,Rochdale
+Sat Oct 20 2001,Macclesfield,0-1,0-0,Lincoln
+Sat Oct 20 2001,Mansfield,0-3,0-0,Plymouth
+Sat Oct 20 2001,Oxford,0-1,0-0,Scunthorpe
+Sat Oct 20 2001,Rushden & D,3-3,3-1,Hull
+Sat Oct 20 2001,Swansea,0-1,0-0,Leyton Orient
+Sat Oct 20 2001,Torquay,1-0,0-0,Hartlepool
+Sat Oct 20 2001,York,2-1,1-1,Southend
+Tue Oct 23 2001,Exeter,1-0,1-0,Bristol Rvs
+Tue Oct 23 2001,Halifax,2-4,1-2,Luton
+Tue Oct 23 2001,Hull,1-1,0-0,Leyton Orient
+Tue Oct 23 2001,Kidderminster,4-1,1-1,York
+Tue Oct 23 2001,Macclesfield,0-1,0-0,Hartlepool
+Tue Oct 23 2001,Mansfield,2-0,0-0,Torquay
+Tue Oct 23 2001,Oxford,1-1,0-0,Carlisle
+Tue Oct 23 2001,Plymouth,2-0,1-0,Lincoln
+Tue Oct 23 2001,Rochdale,2-2,0-1,Cheltenham
+Tue Oct 23 2001,Scunthorpe,2-0,0-0,Southend
+Tue Oct 23 2001,Shrewsbury,0-2,0-1,Rushden & D
+Tue Oct 23 2001,Swansea,2-0,0-0,Darlington
+Sat Oct 27 2001,Carlisle,0-0,0-0,Halifax
+Sat Oct 27 2001,Cheltenham,3-3,2-2,Scunthorpe
+Sat Oct 27 2001,Darlington,0-1,0-1,Hull
+Sat Oct 27 2001,Hartlepool,0-1,0-0,Oxford
+Sat Oct 27 2001,Leyton Orient,4-2,2-0,Rochdale
+Sat Oct 27 2001,Lincoln,0-0,0-0,Exeter
+Sat Oct 27 2001,Luton,3-0,1-0,Swansea
+Sat Oct 27 2001,Rushden & D,3-1,2-1,Mansfield
+Sat Oct 27 2001,Southend,1-0,1-0,Kidderminster
+Sat Oct 27 2001,Torquay,2-1,1-0,Shrewsbury
+Sat Oct 27 2001,York,1-0,0-0,Macclesfield
+Sun Oct 28 2001,Bristol Rvs,1-2,0-1,Plymouth
+Sat Nov 3 2001,Exeter,2-1,2-1,Southend
+Sat Nov 3 2001,Halifax,2-2,1-1,Darlington
+Sat Nov 3 2001,Hull,5-1,3-0,Cheltenham
+Sat Nov 3 2001,Kidderminster,2-0,1-0,Bristol Rvs
+Sat Nov 3 2001,Macclesfield,1-1,0-1,Carlisle
+Sat Nov 3 2001,Mansfield,4-1,1-0,Luton
+Sat Nov 3 2001,Oxford,2-2,0-1,York
+Sat Nov 3 2001,Plymouth,1-0,1-0,Hartlepool
+Sat Nov 3 2001,Rochdale,2-0,0-0,Torquay
+Sat Nov 3 2001,Scunthorpe,4-1,2-0,Leyton Orient
+Sat Nov 3 2001,Shrewsbury,1-1,1-1,Lincoln
+Sat Nov 3 2001,Swansea,0-0,0-0,Rushden & D
+Tue Nov 6 2001,Hartlepool,4-0,2-0,Hull
+Wed Nov 7 2001,Cheltenham,0-0,0-0,Bristol Rvs
+Wed Nov 7 2001,Shrewsbury,3-0,0-0,Darlington
+Fri Nov 9 2001,Cheltenham,0-0,0-0,Plymouth
+Fri Nov 9 2001,Luton,1-0,0-0,Shrewsbury
+Fri Nov 9 2001,Southend,3-0,1-0,Macclesfield
+Fri Nov 9 2001,York,0-2,0-0,Scunthorpe
+Sat Nov 10 2001,Bristol Rvs,0-2,0-0,Rochdale
+Sat Nov 10 2001,Carlisle,0-1,0-1,Mansfield
+Sat Nov 10 2001,Darlington,1-0,0-0,Oxford
+Sat Nov 10 2001,Hartlepool,2-0,1-0,Exeter
+Sat Nov 10 2001,Leyton Orient,1-3,0-1,Kidderminster
+Sat Nov 10 2001,Lincoln,2-1,1-0,Hull
+Sat Nov 10 2001,Rushden & D,2-1,1-0,Halifax
+Sat Nov 10 2001,Torquay,1-2,1-0,Swansea
+Tue Nov 20 2001,Bristol Rvs,0-1,0-0,Mansfield
+Tue Nov 20 2001,Carlisle,0-1,0-0,Shrewsbury
+Tue Nov 20 2001,Cheltenham,4-1,1-0,Macclesfield
+Tue Nov 20 2001,Darlington,1-0,0-0,Rochdale
+Tue Nov 20 2001,Hartlepool,3-0,1-0,Halifax
+Tue Nov 20 2001,Leyton Orient,3-0,2-0,Oxford
+Tue Nov 20 2001,Lincoln,0-1,0-0,Kidderminster
+Tue Nov 20 2001,Luton,0-1,0-0,Hull
+Tue Nov 20 2001,Rushden & D,0-0,0-0,Scunthorpe
+Tue Nov 20 2001,Southend,0-1,0-1,Plymouth
+Tue Nov 20 2001,Torquay,0-2,0-0,Exeter
+Tue Nov 20 2001,York,0-2,0-1,Swansea
+Fri Nov 23 2001,Mansfield,1-1,0-0,York
+Fri Nov 23 2001,Swansea,0-1,0-1,Hartlepool
+Sat Nov 24 2001,Exeter,0-0,0-0,Leyton Orient
+Sat Nov 24 2001,Halifax,2-0,1-0,Torquay
+Sat Nov 24 2001,Hull,0-0,0-0,Bristol Rvs
+Sat Nov 24 2001,Kidderminster,3-0,1-0,Rushden & D
+Sat Nov 24 2001,Macclesfield,4-1,1-1,Luton
+Sat Nov 24 2001,Oxford,3-0,2-0,Cheltenham
+Sat Nov 24 2001,Plymouth,3-0,2-0,Carlisle
+Sat Nov 24 2001,Rochdale,2-2,1-0,Lincoln
+Sat Nov 24 2001,Scunthorpe,7-1,4-0,Darlington
+Sat Nov 24 2001,Shrewsbury,2-0,1-0,Southend
+Fri Nov 30 2001,Hartlepool,1-1,0-0,Rochdale
+Sat Dec 1 2001,Carlisle,3-0,2-0,Scunthorpe
+Sat Dec 1 2001,Cheltenham,2-1,1-1,Halifax
+Sat Dec 1 2001,Darlington,3-1,2-0,York
+Sat Dec 1 2001,Hull,3-0,3-0,Oxford
+Sat Dec 1 2001,Leyton Orient,0-0,0-0,Plymouth
+Sat Dec 1 2001,Mansfield,3-0,2-0,Swansea
+Sat Dec 1 2001,Rushden & D,3-1,2-0,Bristol Rvs
+Sat Dec 1 2001,Shrewsbury,0-1,0-1,Exeter
+Sat Dec 1 2001,Southend,1-1,1-1,Lincoln
+Sat Dec 1 2001,Torquay,1-2,1-1,Macclesfield
+Sun Dec 9 2001,Hartlepool,1-2,0-2,Luton
+Sat Dec 15 2001,Exeter,2-1,0-1,Kidderminster
+Sat Dec 15 2001,Halifax,1-2,0-0,Shrewsbury
+Sat Dec 15 2001,Lincoln,0-0,0-0,Torquay
+Sat Dec 15 2001,Luton,1-0,1-0,Rushden & D
+Sat Dec 15 2001,Macclesfield,2-1,2-1,Leyton Orient
+Sat Dec 15 2001,Oxford,3-2,0-1,Mansfield
+Sat Dec 15 2001,Plymouth,1-0,0-0,Darlington
+Sat Dec 15 2001,Rochdale,0-1,0-1,Southend
+Sat Dec 15 2001,Scunthorpe,2-1,1-0,Hull
+Sat Dec 15 2001,Swansea,0-0,0-0,Carlisle
+Sat Dec 15 2001,York,1-3,1-2,Cheltenham
+Fri Dec 21 2001,Hull,0-0,0-0,Southend
+Sat Dec 22 2001,Leyton Orient,5-0,1-0,Lincoln
+Sat Dec 22 2001,Luton,2-2,1-1,Hartlepool
+Fri Dec 21 2001,Mansfield,0-1,0-0,Exeter
+Sat Dec 22 2001,Rushden & D,3-1,1-1,Carlisle
+Sat Dec 22 2001,Scunthorpe,2-1,2-0,Plymouth
+Fri Dec 21 2001,Shrewsbury,1-1,0-1,Macclesfield
+Fri Dec 21 2001,Swansea,2-1,2-1,Bristol Rvs
+Sat Dec 22 2001,Torquay,3-3,2-0,Oxford
+Wed Dec 26 2001,Bristol Rvs,5-3,2-0,Leyton Orient
+Wed Dec 26 2001,Cheltenham,1-0,1-0,Shrewsbury
+Wed Dec 26 2001,Exeter,0-3,0-0,Swansea
+Wed Dec 26 2001,Kidderminster,4-1,2-1,Rochdale
+Wed Dec 26 2001,Macclesfield,1-1,0-1,Halifax
+Wed Dec 26 2001,Oxford,1-2,1-1,Luton
+Wed Dec 26 2001,Plymouth,2-2,0-0,Torquay
+Wed Dec 26 2001,Southend,4-2,0-2,Rushden & D
+Sat Dec 29 2001,Bristol Rvs,1-0,0-0,Darlington
+Sat Dec 29 2001,Cheltenham,2-2,0-2,Swansea
+Sat Dec 29 2001,Exeter,1-1,0-1,Rochdale
+Sat Dec 29 2001,Hartlepool,3-1,2-0,Leyton Orient
+Sat Dec 29 2001,Kidderminster,3-0,1-0,Hull
+Sat Dec 29 2001,Lincoln,3-2,2-1,Scunthorpe
+Sat Dec 29 2001,Macclesfield,0-1,0-0,Mansfield
+Sat Dec 29 2001,Oxford,6-1,2-0,Halifax
+Sat Dec 29 2001,Plymouth,1-0,0-0,Rushden & D
+Sat Dec 29 2001,Southend,1-2,0-0,Luton
+Sat Dec 29 2001,York,1-1,0-1,Shrewsbury
+Tue Jan 1 2002,Torquay,0-1,0-0,Cheltenham
+Sat Jan 5 2002,Swansea,0-0,0-0,Lincoln
+Sat Jan 5 2002,Torquay,1-4,1-2,Kidderminster
+Tue Jan 8 2002,Kidderminster,1-4,0-0,Luton
+Tue Jan 8 2002,Shrewsbury,1-0,1-0,Oxford
+Sat Jan 12 2002,Bristol Rvs,1-1,1-0,Scunthorpe
+Sat Jan 12 2002,Carlisle,6-1,5-0,Leyton Orient
+Sat Jan 12 2002,Cheltenham,1-1,1-0,Luton
+Sat Jan 12 2002,Exeter,0-0,0-0,Halifax
+Sat Jan 12 2002,Hartlepool,2-2,1-0,Shrewsbury
+Sat Jan 12 2002,Kidderminster,1-0,0-0,Darlington
+Sat Jan 12 2002,Lincoln,2-4,2-2,Rushden & D
+Sat Jan 12 2002,Macclesfield,0-1,0-0,Rochdale
+Sat Jan 12 2002,Oxford,2-1,2-1,Swansea
+Sat Jan 12 2002,Plymouth,1-0,1-0,Hull
+Sat Jan 12 2002,Southend,1-0,1-0,Mansfield
+Sat Jan 12 2002,York,1-1,1-0,Torquay
+Tue Jan 15 2002,Hull,0-1,0-1,Carlisle
+Tue Jan 15 2002,Scunthorpe,3-4,1-1,Exeter
+Tue Jan 15 2002,Shrewsbury,0-1,0-0,Bristol Rvs
+Sat Jan 19 2002,Darlington,2-2,1-0,Southend
+Sat Jan 19 2002,Halifax,3-0,1-0,Lincoln
+Sat Jan 19 2002,Hull,2-0,1-0,Exeter
+Sat Jan 19 2002,Leyton Orient,0-2,0-1,Cheltenham
+Sat Jan 19 2002,Luton,1-1,0-0,Carlisle
+Sat Jan 19 2002,Mansfield,3-0,1-0,Hartlepool
+Sat Jan 19 2002,Rochdale,1-1,1-0,Oxford
+Sat Jan 19 2002,Rushden & D,3-0,2-0,York
+Sat Jan 19 2002,Scunthorpe,1-0,1-0,Kidderminster
+Sat Jan 19 2002,Shrewsbury,3-1,1-1,Plymouth
+Sat Jan 19 2002,Swansea,0-1,0-0,Macclesfield
+Sat Jan 19 2002,Torquay,2-1,1-0,Bristol Rvs
+Tue Jan 22 2002,Bristol Rvs,4-1,2-0,Swansea
+Tue Jan 22 2002,Carlisle,3-0,2-0,Rushden & D
+Tue Jan 22 2002,Exeter,0-1,0-1,Mansfield
+Tue Jan 22 2002,Kidderminster,2-0,1-0,Halifax
+Tue Jan 22 2002,Lincoln,2-0,1-0,Leyton Orient
+Tue Jan 22 2002,Macclesfield,2-1,2-1,Shrewsbury
+Tue Jan 22 2002,Oxford,1-1,0-0,Torquay
+Tue Jan 22 2002,Plymouth,2-1,1-1,Scunthorpe
+Tue Jan 22 2002,Southend,2-0,1-0,Hull
+Tue Jan 22 2002,York,0-0,0-0,Rochdale
+Wed Jan 23 2002,Cheltenham,0-0,0-0,Darlington
+Sat Jan 26 2002,Darlington,3-2,1-1,Luton
+Sat Jan 26 2002,Hartlepool,5-1,1-0,Rushden & D
+Sat Jan 26 2002,Hull,3-0,3-0,Shrewsbury
+Sat Jan 26 2002,Plymouth,4-2,3-2,Oxford
+Sat Jan 26 2002,Rochdale,2-0,2-0,Swansea
+Sat Jan 26 2002,Scunthorpe,4-0,2-0,Halifax
+Sat Jan 26 2002,Southend,1-1,0-0,Torquay
+Tue Jan 29 2002,Darlington,2-1,0-0,Lincoln
+Tue Jan 29 2002,Halifax,1-1,1-0,Southend
+Tue Jan 29 2002,Hartlepool,3-2,1-1,Scunthorpe
+Tue Jan 29 2002,Mansfield,1-1,0-1,Kidderminster
+Tue Jan 29 2002,Rochdale,1-1,0-1,Carlisle
+Tue Jan 29 2002,Rushden & D,2-0,0-0,Macclesfield
+Tue Jan 29 2002,York,2-1,2-0,Hull
+Sat Feb 2 2002,Halifax,0-1,0-1,Hull
+Sat Feb 2 2002,Luton,2-0,0-0,Plymouth
+Sat Feb 2 2002,Macclesfield,1-2,0-0,Exeter
+Sat Feb 2 2002,Mansfield,3-1,2-0,Rochdale
+Sat Feb 2 2002,Oxford,0-0,0-0,Bristol Rvs
+Sat Feb 2 2002,Rushden & D,2-1,1-0,Darlington
+Sat Feb 2 2002,Shrewsbury,2-2,2-2,Scunthorpe
+Sat Feb 2 2002,Torquay,1-1,0-1,Leyton Orient
+Tue Feb 5 2002,Carlisle,1-3,1-1,Darlington
+Tue Feb 5 2002,Hull,1-1,1-0,Hartlepool
+Tue Feb 5 2002,Rochdale,5-4,2-2,York
+Tue Feb 5 2002,Rushden & D,2-1,1-0,Oxford
+Tue Feb 5 2002,Swansea,0-1,0-1,Plymouth
+Sat Feb 9 2002,Bristol Rvs,2-0,1-0,Halifax
+Sat Feb 9 2002,Darlington,3-3,1-1,Shrewsbury
+Sat Feb 9 2002,Exeter,0-2,0-0,Cheltenham
+Sat Feb 9 2002,Hartlepool,4-1,3-0,Torquay
+Sat Feb 9 2002,Hull,2-1,1-0,Rushden & D
+Sat Feb 9 2002,Kidderminster,2-2,1-1,Carlisle
+Sat Feb 9 2002,Leyton Orient,2-2,0-1,Swansea
+Sat Feb 9 2002,Lincoln,1-0,1-0,Macclesfield
+Sat Feb 9 2002,Plymouth,1-0,0-0,Mansfield
+Sat Feb 9 2002,Rochdale,1-0,1-0,Luton
+Sat Feb 9 2002,Scunthorpe,1-0,0-0,Oxford
+Sat Feb 9 2002,Southend,0-1,0-0,York
+Tue Feb 12 2002,Bristol Rvs,0-1,0-1,Hartlepool
+Tue Feb 12 2002,Darlington,0-2,0-2,Cheltenham
+Tue Feb 12 2002,Halifax,1-1,1-0,York
+Tue Feb 12 2002,Lincoln,1-4,0-3,Mansfield
+Tue Feb 12 2002,Scunthorpe,1-1,0-1,Macclesfield
+Tue Feb 12 2002,Swansea,2-1,1-1,Kidderminster
+Fri Feb 15 2002,Swansea,3-2,2-1,Southend
+Sat Feb 16 2002,Carlisle,1-0,0-0,Exeter
+Sat Feb 16 2002,Halifax,0-2,0-2,Plymouth
+Sat Feb 16 2002,Luton,2-3,1-2,Scunthorpe
+Sat Feb 16 2002,Macclesfield,2-1,0-1,Bristol Rvs
+Sat Feb 16 2002,Mansfield,4-2,3-1,Darlington
+Sat Feb 16 2002,Oxford,2-1,2-0,Lincoln
+Sat Feb 16 2002,Rushden & D,1-1,0-0,Rochdale
+Sat Feb 16 2002,Shrewsbury,1-0,0-0,Leyton Orient
+Sat Feb 16 2002,Torquay,1-1,0-1,Hull
+Sat Feb 16 2002,York,1-0,0-0,Hartlepool
+Tue Feb 19 2002,Carlisle,2-0,0-0,Torquay
+Tue Feb 19 2002,Cheltenham,1-1,0-0,Southend
+Tue Feb 19 2002,Darlington,1-1,1-0,Hartlepool
+Tue Feb 19 2002,Kidderminster,0-1,0-0,Macclesfield
+Tue Feb 19 2002,Leyton Orient,1-2,0-1,York
+Tue Feb 19 2002,Luton,3-0,0-0,Bristol Rvs
+Fri Feb 22 2002,Hull,0-1,0-0,Macclesfield
+Sat Feb 23 2002,Bristol Rvs,1-2,1-1,Lincoln
+Sat Feb 23 2002,Darlington,1-3,0-1,Torquay
+Sat Feb 23 2002,Halifax,0-1,0-1,Swansea
+Sat Feb 23 2002,Hartlepool,5-1,2-0,Southend
+Sat Feb 23 2002,Luton,2-1,1-1,York
+Sat Feb 23 2002,Oxford,1-2,1-1,Exeter
+Sat Feb 23 2002,Plymouth,2-1,0-1,Kidderminster
+Sat Feb 23 2002,Rushden & D,1-0,0-0,Leyton Orient
+Sat Feb 23 2002,Scunthorpe,2-1,2-1,Rochdale
+Sat Feb 23 2002,Shrewsbury,3-0,2-0,Mansfield
+Tue Feb 26 2002,Cheltenham,3-0,2-0,Hartlepool
+Tue Feb 26 2002,Kidderminster,1-0,1-0,Shrewsbury
+Tue Feb 26 2002,Leyton Orient,0-0,0-0,Darlington
+Tue Feb 26 2002,Lincoln,0-1,0-1,Luton
+Tue Feb 26 2002,Macclesfield,0-1,0-1,Oxford
+Tue Feb 26 2002,Mansfield,2-1,0-1,Halifax
+Tue Feb 26 2002,Plymouth,3-0,2-0,Exeter
+Tue Feb 26 2002,Southend,2-1,1-1,Bristol Rvs
+Tue Feb 26 2002,Swansea,2-2,1-1,Scunthorpe
+Tue Feb 26 2002,Torquay,1-1,0-1,Rushden & D
+Sat Mar 2 2002,Cheltenham,1-1,1-1,Rushden & D
+Sat Mar 2 2002,Exeter,4-2,1-1,Darlington
+Sat Mar 2 2002,Kidderminster,3-2,0-1,Hartlepool
+Sat Mar 2 2002,Leyton Orient,3-1,1-0,Halifax
+Sat Mar 2 2002,Lincoln,3-1,2-0,Carlisle
+Sat Mar 2 2002,Macclesfield,1-1,0-0,Plymouth
+Sat Mar 2 2002,Mansfield,2-1,0-1,Scunthorpe
+Sat Mar 2 2002,Rochdale,1-0,0-0,Shrewsbury
+Sat Mar 2 2002,Southend,2-2,2-1,Oxford
+Sat Mar 2 2002,Swansea,1-0,0-0,Hull
+Sat Mar 2 2002,Torquay,0-1,0-1,Luton
+Tue Mar 5 2002,Bristol Rvs,1-2,1-1,Cheltenham
+Tue Mar 5 2002,Carlisle,0-0,0-0,Southend
+Tue Mar 5 2002,Darlington,0-1,0-0,Macclesfield
+Tue Mar 5 2002,Halifax,1-2,1-0,Rochdale
+Tue Mar 5 2002,Hartlepool,1-1,0-0,Lincoln
+Tue Mar 5 2002,Hull,4-1,2-0,Mansfield
+Tue Mar 5 2002,Luton,3-0,1-0,Leyton Orient
+Tue Mar 5 2002,Oxford,1-1,0-0,Kidderminster
+Tue Mar 5 2002,Plymouth,1-0,1-0,York
+Tue Mar 5 2002,Rushden & D,2-1,2-0,Exeter
+Tue Mar 5 2002,Scunthorpe,1-0,0-0,Torquay
+Tue Mar 5 2002,Shrewsbury,3-0,1-0,Swansea
+Sat Mar 9 2002,Carlisle,3-1,3-0,Swansea
+Sat Mar 9 2002,Cheltenham,4-0,1-0,York
+Sat Mar 9 2002,Hartlepool,1-1,1-0,Bristol Rvs
+Sat Mar 9 2002,Hull,0-1,0-0,Scunthorpe
+Sat Mar 9 2002,Kidderminster,3-1,2-0,Exeter
+Sat Mar 9 2002,Leyton Orient,2-0,2-0,Macclesfield
+Sat Mar 9 2002,Mansfield,2-1,2-0,Oxford
+Sat Mar 9 2002,Rushden & D,1-2,0-0,Luton
+Sat Mar 9 2002,Shrewsbury,3-0,1-0,Halifax
+Sat Mar 9 2002,Southend,0-0,0-0,Rochdale
+Sat Mar 9 2002,Torquay,2-0,0-0,Lincoln
+Tue Mar 12 2002,Bristol Rvs,0-0,0-0,Carlisle
+Tue Mar 12 2002,Halifax,1-0,1-0,Kidderminster
+Tue Mar 12 2002,Leyton Orient,2-1,2-0,Southend
+Tue Mar 12 2002,Lincoln,0-1,0-0,Cheltenham
+Tue Mar 12 2002,Luton,3-0,1-0,Exeter
+Sat Mar 16 2002,Bristol Rvs,0-3,0-1,Rushden & D
+Sat Mar 16 2002,Exeter,2-2,0-1,Shrewsbury
+Sat Mar 16 2002,Halifax,4-1,1-1,Cheltenham
+Sat Mar 16 2002,Lincoln,0-1,0-1,Southend
+Sat Mar 16 2002,Luton,1-0,1-0,Kidderminster
+Sat Mar 16 2002,Macclesfield,0-2,0-1,Torquay
+Sat Mar 16 2002,Oxford,1-0,0-0,Hull
+Sat Mar 16 2002,Plymouth,3-0,1-0,Leyton Orient
+Sat Mar 16 2002,Rochdale,0-0,0-0,Hartlepool
+Sat Mar 16 2002,Scunthorpe,2-1,2-0,Carlisle
+Sat Mar 16 2002,Swansea,2-0,1-0,Mansfield
+Sat Mar 16 2002,York,2-0,0-0,Darlington
+Tue Mar 19 2002,Carlisle,0-2,0-1,Hartlepool
+Tue Mar 19 2002,Exeter,2-1,0-0,York
+Tue Mar 19 2002,Leyton Orient,2-0,0-0,Mansfield
+Fri Mar 22 2002,Hartlepool,1-2,0-1,Macclesfield
+Sat Mar 23 2002,Bristol Rvs,0-0,0-0,Exeter
+Sat Mar 23 2002,Carlisle,2-1,1-1,Oxford
+Sat Mar 23 2002,Cheltenham,1-1,1-0,Rochdale
+Sat Mar 23 2002,Darlington,0-0,0-0,Swansea
+Sat Mar 23 2002,Leyton Orient,0-0,0-0,Hull
+Sat Mar 23 2002,Lincoln,0-1,0-0,Plymouth
+Sat Mar 23 2002,Luton,5-0,2-0,Halifax
+Sat Mar 23 2002,Rushden & D,3-0,3-0,Shrewsbury
+Sat Mar 23 2002,Southend,2-0,2-0,Scunthorpe
+Sat Mar 23 2002,Torquay,0-0,0-0,Mansfield
+Sat Mar 23 2002,York,0-1,0-0,Kidderminster
+Tue Mar 26 2002,Cheltenham,2-1,1-1,Kidderminster
+Tue Mar 26 2002,Rochdale,1-3,0-0,Plymouth
+Tue Mar 26 2002,York,2-0,2-0,Lincoln
+Fri Mar 29 2002,Halifax,2-2,1-1,Carlisle
+Sat Mar 30 2002,Exeter,1-1,1-0,Lincoln
+Sat Mar 30 2002,Hull,1-2,0-1,Darlington
+Sat Mar 30 2002,Kidderminster,2-0,1-0,Southend
+Sat Mar 30 2002,Macclesfield,2-1,1-1,York
+Sat Mar 30 2002,Mansfield,1-4,0-1,Rushden & D
+Sat Mar 30 2002,Oxford,1-2,1-2,Hartlepool
+Sat Mar 30 2002,Plymouth,1-0,1-0,Bristol Rvs
+Sat Mar 30 2002,Rochdale,3-0,2-0,Leyton Orient
+Sat Mar 30 2002,Scunthorpe,1-2,0-1,Cheltenham
+Sat Mar 30 2002,Shrewsbury,0-1,0-1,Torquay
+Sat Mar 30 2002,Swansea,1-3,0-1,Luton
+Mon Apr 1 2002,Bristol Rvs,2-1,1-1,Kidderminster
+Mon Apr 1 2002,Carlisle,3-2,0-2,Macclesfield
+Mon Apr 1 2002,Cheltenham,1-0,0-0,Hull
+Mon Apr 1 2002,Darlington,5-0,2-0,Halifax
+Mon Apr 1 2002,Hartlepool,1-0,0-0,Plymouth
+Mon Apr 1 2002,Leyton Orient,0-0,0-0,Scunthorpe
+Mon Apr 1 2002,Lincoln,1-2,1-1,Shrewsbury
+Mon Apr 1 2002,Luton,5-3,4-2,Mansfield
+Mon Apr 1 2002,Rushden & D,4-0,2-0,Swansea
+Mon Apr 1 2002,Southend,3-1,2-1,Exeter
+Mon Apr 1 2002,Torquay,3-0,1-0,Rochdale
+Mon Apr 1 2002,York,1-0,0-0,Oxford
+Sat Apr 6 2002,Halifax,0-2,0-1,Hartlepool
+Sat Apr 6 2002,Hull,0-4,0-2,Luton
+Sat Apr 6 2002,Kidderminster,1-1,0-0,Lincoln
+Sat Apr 6 2002,Macclesfield,1-0,0-0,Cheltenham
+Sat Apr 6 2002,Mansfield,2-0,0-0,Bristol Rvs
+Sat Apr 6 2002,Oxford,1-1,0-0,Leyton Orient
+Sat Apr 6 2002,Plymouth,0-0,0-0,Southend
+Sat Apr 6 2002,Rochdale,3-1,3-1,Darlington
+Sat Apr 6 2002,Scunthorpe,1-1,1-0,Rushden & D
+Sat Apr 6 2002,Shrewsbury,1-0,1-0,Carlisle
+Sat Apr 6 2002,Swansea,0-1,0-0,York
+Sun Apr 7 2002,Exeter,0-0,0-0,Torquay
+Tue Apr 9 2002,Mansfield,2-1,1-1,Cheltenham
+Tue Apr 9 2002,Rochdale,3-2,1-2,Hull
+Tue Apr 9 2002,York,0-0,0-0,Carlisle
+Sat Apr 13 2002,Bristol Rvs,1-1,0-1,Hull
+Sat Apr 13 2002,Carlisle,0-2,0-1,Plymouth
+Sat Apr 13 2002,Cheltenham,2-0,2-0,Oxford
+Sat Apr 13 2002,Darlington,2-1,1-0,Scunthorpe
+Sat Apr 13 2002,Hartlepool,7-1,2-1,Swansea
+Sat Apr 13 2002,Leyton Orient,1-1,1-1,Exeter
+Sat Apr 13 2002,Lincoln,1-1,1-0,Rochdale
+Sat Apr 13 2002,Luton,0-0,0-0,Macclesfield
+Sat Apr 13 2002,Rushden & D,0-2,0-0,Kidderminster
+Sat Apr 13 2002,Southend,0-2,0-1,Shrewsbury
+Sat Apr 13 2002,Torquay,2-4,1-1,Halifax
+Sat Apr 13 2002,York,3-1,1-1,Mansfield
+Mon Apr 15 2002,Darlington,1-4,1-3,Plymouth
+Tue Apr 16 2002,Carlisle,0-0,0-0,Cheltenham
+Tue Apr 16 2002,York,3-0,2-0,Bristol Rvs
+Sat Apr 20 2002,Exeter,0-2,0-1,Hartlepool
+Sat Apr 20 2002,Halifax,2-4,1-0,Rushden & D
+Sat Apr 20 2002,Hull,1-1,1-1,Lincoln
+Sat Apr 20 2002,Kidderminster,0-1,0-1,Leyton Orient
+Sat Apr 20 2002,Macclesfield,0-0,0-0,Southend
+Sat Apr 20 2002,Mansfield,2-0,2-0,Carlisle
+Sat Apr 20 2002,Oxford,1-2,0-0,Darlington
+Sat Apr 20 2002,Plymouth,2-0,2-0,Cheltenham
+Sat Apr 20 2002,Rochdale,2-1,0-1,Bristol Rvs
+Sat Apr 20 2002,Scunthorpe,1-0,0-0,York
+Sat Apr 20 2002,Shrewsbury,0-2,0-1,Luton
+Sat Apr 20 2002,Swansea,2-2,2-1,Torquay

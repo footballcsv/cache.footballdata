@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 7 2010,Carlisle,2-0,2-0,Brentford
+Sat Aug 7 2010,Charlton,1-0,1-0,Bournemouth
+Sat Aug 7 2010,Exeter,2-2,1-2,Colchester
+Sat Aug 7 2010,Notts County,0-3,0-2,Huddersfield
+Sat Aug 7 2010,Peterboro,3-0,0-0,Bristol Rvs
+Sat Aug 7 2010,Rochdale,0-0,0-0,Hartlepool
+Sat Aug 7 2010,Sheffield Weds,2-0,2-0,Dag and Red
+Sat Aug 7 2010,Southampton,0-1,0-0,Plymouth
+Sat Aug 7 2010,Swindon,1-2,0-1,Brighton
+Sat Aug 7 2010,Tranmere,1-2,0-1,Oldham
+Sat Aug 7 2010,Walsall,1-2,0-1,Milton Keynes Dons
+Sat Aug 7 2010,Yeovil,2-1,2-1,Leyton Orient
+Fri Aug 13 2010,Leyton Orient,1-3,0-1,Charlton
+Sat Aug 14 2010,Bournemouth,5-1,2-0,Peterboro
+Sat Aug 14 2010,Brentford,1-2,1-1,Walsall
+Sat Aug 14 2010,Brighton,2-2,0-0,Rochdale
+Sat Aug 14 2010,Bristol Rvs,2-1,1-0,Yeovil
+Sat Aug 14 2010,Colchester,1-1,0-0,Sheffield Weds
+Sat Aug 14 2010,Hartlepool,2-2,2-0,Swindon
+Sat Aug 14 2010,Huddersfield,0-0,0-0,Tranmere
+Sat Aug 14 2010,Oldham,3-0,1-0,Notts County
+Sat Aug 14 2010,Plymouth,1-1,0-0,Carlisle
+Sat Aug 21 2010,Carlisle,4-1,2-0,Milton Keynes Dons
+Sat Aug 21 2010,Charlton,1-1,1-1,Oldham
+Sat Aug 21 2010,Exeter,2-2,1-1,Bristol Rvs
+Sat Aug 21 2010,Notts County,1-0,0-0,Dag and Red
+Sat Aug 21 2010,Peterboro,4-2,1-2,Huddersfield
+Sat Aug 21 2010,Rochdale,1-2,0-1,Colchester
+Sat Aug 21 2010,Sheffield Weds,1-0,1-0,Brighton
+Sat Aug 21 2010,Southampton,1-1,1-1,Leyton Orient
+Sat Aug 21 2010,Swindon,1-1,1-1,Brentford
+Sat Aug 21 2010,Tranmere,0-3,0-2,Bournemouth
+Sat Aug 21 2010,Walsall,2-1,0-1,Plymouth
+Sat Aug 21 2010,Yeovil,0-2,0-1,Hartlepool
+Fri Aug 27 2010,Colchester,1-1,1-0,Carlisle
+Sat Aug 28 2010,Bournemouth,3-3,3-1,Notts County
+Sat Aug 28 2010,Brentford,1-3,1-1,Rochdale
+Sat Aug 28 2010,Brighton,2-1,0-0,Walsall
+Sat Aug 28 2010,Bristol Rvs,0-4,0-2,Southampton
+Sat Aug 28 2010,Dag and Red,2-2,0-0,Tranmere
+Sat Aug 28 2010,Hartlepool,0-5,0-3,Sheffield Weds
+Sat Aug 28 2010,Huddersfield,3-1,2-0,Charlton
+Sat Aug 28 2010,Leyton Orient,3-0,1-0,Exeter
+Sat Aug 28 2010,Milton Keynes Dons,2-1,0-1,Swindon
+Sat Aug 28 2010,Oldham,0-0,0-0,Yeovil
+Sat Aug 28 2010,Plymouth,0-3,0-0,Peterboro
+Sat Sep 4 2010,Carlisle,0-0,0-0,Swindon
+Sat Sep 4 2010,Dag and Red,2-0,1-0,Leyton Orient
+Sat Sep 4 2010,Exeter,1-0,0-0,Charlton
+Sat Sep 4 2010,Huddersfield,2-2,1-1,Bournemouth
+Sat Sep 4 2010,Milton Keynes Dons,1-0,0-0,Hartlepool
+Sat Sep 4 2010,Notts County,4-0,3-0,Yeovil
+Sat Sep 4 2010,Oldham,1-1,1-1,Bristol Rvs
+Sat Sep 4 2010,Southampton,0-2,0-1,Rochdale
+Sat Sep 4 2010,Tranmere,1-0,1-0,Peterboro
+Sat Sep 4 2010,Walsall,0-1,0-0,Colchester
+Sun Sep 5 2010,Brentford,1-0,1-0,Sheffield Weds
+Sat Sep 11 2010,Bournemouth,3-0,2-0,Dag and Red
+Sat Sep 11 2010,Brighton,2-0,0-0,Milton Keynes Dons
+Sat Sep 11 2010,Bristol Rvs,0-0,0-0,Brentford
+Sat Sep 11 2010,Charlton,1-0,0-0,Notts County
+Sat Sep 11 2010,Colchester,1-1,1-0,Plymouth
+Sat Sep 11 2010,Hartlepool,2-3,2-1,Exeter
+Sat Sep 11 2010,Leyton Orient,1-2,0-1,Huddersfield
+Sat Sep 11 2010,Peterboro,5-2,1-2,Oldham
+Sat Sep 11 2010,Rochdale,3-2,2-2,Walsall
+Sat Sep 11 2010,Sheffield Weds,0-1,0-1,Carlisle
+Sat Sep 11 2010,Swindon,1-0,0-0,Southampton
+Sat Sep 11 2010,Yeovil,3-1,3-0,Tranmere
+Wed Sep 15 2010,Milton Keynes Dons,2-0,0-0,Southampton
+Sat Sep 18 2010,Brentford,0-0,0-0,Hartlepool
+Sat Sep 18 2010,Carlisle,0-0,0-0,Brighton
+Sat Sep 18 2010,Dag and Red,0-3,0-2,Bristol Rvs
+Sat Sep 18 2010,Exeter,2-2,0-1,Peterboro
+Sat Sep 18 2010,Huddersfield,4-2,0-2,Yeovil
+Sat Sep 18 2010,Milton Keynes Dons,1-1,1-1,Rochdale
+Sat Sep 18 2010,Notts County,3-2,2-1,Leyton Orient
+Sat Sep 18 2010,Oldham,2-1,0-1,Bournemouth
+Sat Sep 18 2010,Plymouth,3-2,1-1,Sheffield Weds
+Sat Sep 18 2010,Southampton,0-0,0-0,Colchester
+Sat Sep 18 2010,Tranmere,1-1,0-1,Charlton
+Sat Sep 18 2010,Walsall,1-2,0-1,Swindon
+Tue Sep 21 2010,Dag and Red,1-1,0-1,Exeter
+Tue Sep 21 2010,Plymouth,0-2,0-2,Brighton
+Fri Sep 24 2010,Leyton Orient,1-0,1-0,Brentford
+Sat Sep 25 2010,Bournemouth,2-0,0-0,Carlisle
+Sat Sep 25 2010,Brighton,2-1,1-1,Oldham
+Sat Sep 25 2010,Bristol Rvs,2-1,1-0,Notts County
+Sat Sep 25 2010,Charlton,2-2,1-1,Dag and Red
+Sat Sep 25 2010,Colchester,3-1,3-0,Tranmere
+Sat Sep 25 2010,Hartlepool,2-1,1-1,Walsall
+Sat Sep 25 2010,Peterboro,2-1,1-1,Milton Keynes Dons
+Sat Sep 25 2010,Rochdale,1-1,0-1,Plymouth
+Sat Sep 25 2010,Sheffield Weds,0-1,0-0,Southampton
+Sat Sep 25 2010,Swindon,1-0,0-0,Huddersfield
+Sat Sep 25 2010,Yeovil,1-3,0-1,Exeter
+Tue Sep 28 2010,Bournemouth,3-0,2-0,Exeter
+Tue Sep 28 2010,Brighton,1-0,0-0,Brentford
+Tue Sep 28 2010,Bristol Rvs,0-1,0-1,Tranmere
+Tue Sep 28 2010,Charlton,1-0,0-0,Milton Keynes Dons
+Tue Sep 28 2010,Colchester,2-2,1-1,Dag and Red
+Tue Sep 28 2010,Hartlepool,0-4,0-3,Carlisle
+Tue Sep 28 2010,Leyton Orient,0-0,0-0,Walsall
+Tue Sep 28 2010,Peterboro,2-3,1-3,Notts County
+Tue Sep 28 2010,Rochdale,3-0,1-0,Huddersfield
+Tue Sep 28 2010,Sheffield Weds,0-0,0-0,Oldham
+Tue Sep 28 2010,Swindon,2-3,1-2,Plymouth
+Tue Sep 28 2010,Yeovil,1-1,0-0,Southampton
+Sat Oct 2 2010,Brentford,2-1,2-0,Charlton
+Sat Oct 2 2010,Carlisle,0-1,0-1,Peterboro
+Sat Oct 2 2010,Dag and Red,2-1,0-1,Swindon
+Sat Oct 2 2010,Exeter,1-0,0-0,Rochdale
+Sat Oct 2 2010,Huddersfield,0-1,0-0,Bristol Rvs
+Sat Oct 2 2010,Milton Keynes Dons,1-1,0-1,Colchester
+Sat Oct 2 2010,Notts County,0-2,0-0,Sheffield Weds
+Sat Oct 2 2010,Oldham,1-1,1-0,Leyton Orient
+Sat Oct 2 2010,Plymouth,0-1,0-0,Hartlepool
+Sat Oct 2 2010,Southampton,2-0,1-0,Bournemouth
+Sat Oct 2 2010,Tranmere,1-1,0-1,Brighton
+Sat Oct 2 2010,Walsall,0-1,0-0,Yeovil
+Sat Oct 9 2010,Brentford,1-3,1-1,Oldham
+Sat Oct 9 2010,Brighton,1-1,0-0,Bournemouth
+Sat Oct 9 2010,Carlisle,1-0,0-0,Notts County
+Sat Oct 9 2010,Colchester,0-3,0-2,Huddersfield
+Sat Oct 9 2010,Hartlepool,2-0,1-0,Peterboro
+Sat Oct 9 2010,Milton Keynes Dons,2-0,0-0,Dag and Red
+Sat Oct 9 2010,Plymouth,2-2,1-1,Charlton
+Sat Oct 9 2010,Rochdale,0-1,0-0,Yeovil
+Sat Oct 9 2010,Sheffield Weds,1-0,0-0,Leyton Orient
+Sat Oct 9 2010,Southampton,2-0,1-0,Tranmere
+Sat Oct 9 2010,Walsall,2-1,2-0,Exeter
+Mon Oct 11 2010,Swindon,2-1,1-0,Bristol Rvs
+Sat Oct 16 2010,Bournemouth,3-2,0-1,Milton Keynes Dons
+Sat Oct 16 2010,Bristol Rvs,2-1,1-0,Rochdale
+Sat Oct 16 2010,Charlton,0-4,0-1,Brighton
+Sat Oct 16 2010,Dag and Red,1-1,1-0,Walsall
+Sat Oct 16 2010,Exeter,2-1,2-0,Carlisle
+Sat Oct 16 2010,Huddersfield,2-0,2-0,Southampton
+Sat Oct 16 2010,Leyton Orient,1-0,0-0,Hartlepool
+Sat Oct 16 2010,Notts County,2-0,1-0,Plymouth
+Sat Oct 16 2010,Oldham,0-0,0-0,Colchester
+Sat Oct 16 2010,Peterboro,5-4,3-3,Swindon
+Sat Oct 16 2010,Tranmere,0-3,0-1,Brentford
+Sat Oct 16 2010,Yeovil,0-2,0-0,Sheffield Weds
+Sat Oct 23 2010,Brentford,2-1,1-1,Peterboro
+Sat Oct 23 2010,Brighton,2-0,1-0,Yeovil
+Sat Oct 23 2010,Carlisle,3-4,0-2,Charlton
+Sat Oct 23 2010,Colchester,2-1,0-1,Notts County
+Sat Oct 23 2010,Hartlepool,2-2,1-0,Bristol Rvs
+Sat Oct 23 2010,Milton Keynes Dons,1-0,0-0,Exeter
+Sat Oct 23 2010,Plymouth,2-1,1-1,Huddersfield
+Sat Oct 23 2010,Rochdale,3-2,2-0,Dag and Red
+Sat Oct 23 2010,Sheffield Weds,1-1,0-1,Bournemouth
+Sat Oct 23 2010,Southampton,2-1,1-1,Oldham
+Sat Oct 23 2010,Swindon,2-2,0-0,Leyton Orient
+Sat Oct 23 2010,Walsall,1-4,0-1,Tranmere
+Sat Oct 30 2010,Bournemouth,1-2,0-1,Colchester
+Sat Oct 30 2010,Bristol Rvs,1-1,0-0,Carlisle
+Sat Oct 30 2010,Charlton,1-0,1-0,Sheffield Weds
+Sat Oct 30 2010,Dag and Red,1-1,0-0,Hartlepool
+Sat Oct 30 2010,Exeter,2-4,1-1,Brentford
+Sat Oct 30 2010,Huddersfield,1-0,1-0,Walsall
+Sat Oct 30 2010,Leyton Orient,2-1,0-1,Rochdale
+Sat Oct 30 2010,Notts County,1-3,1-0,Southampton
+Sat Oct 30 2010,Oldham,4-2,1-1,Plymouth
+Sat Oct 30 2010,Peterboro,0-3,0-2,Brighton
+Sat Oct 30 2010,Tranmere,4-2,3-1,Milton Keynes Dons
+Sat Oct 30 2010,Yeovil,3-3,1-1,Swindon
+Tue Nov 2 2010,Brentford,1-1,0-0,Bournemouth
+Tue Nov 2 2010,Brighton,3-0,2-0,Exeter
+Tue Nov 2 2010,Carlisle,2-0,1-0,Tranmere
+Tue Nov 2 2010,Colchester,3-2,2-2,Leyton Orient
+Tue Nov 2 2010,Milton Keynes Dons,3-2,1-1,Yeovil
+Tue Nov 2 2010,Plymouth,3-1,0-0,Bristol Rvs
+Tue Nov 2 2010,Sheffield Weds,0-2,0-2,Huddersfield
+Tue Nov 2 2010,Southampton,4-0,2-0,Dag and Red
+Tue Nov 2 2010,Swindon,0-3,0-1,Charlton
+Tue Nov 2 2010,Walsall,1-3,0-2,Peterboro
+Sat Nov 13 2010,Bournemouth,3-0,1-0,Walsall
+Sat Nov 13 2010,Brentford,0-2,0-0,Milton Keynes Dons
+Sat Nov 13 2010,Bristol Rvs,0-3,0-2,Leyton Orient
+Sat Nov 13 2010,Carlisle,3-2,2-0,Southampton
+Sat Nov 13 2010,Exeter,3-1,2-1,Notts County
+Sat Nov 13 2010,Hartlepool,3-1,1-0,Brighton
+Sat Nov 13 2010,Oldham,1-0,1-0,Huddersfield
+Sat Nov 13 2010,Peterboro,1-5,0-4,Charlton
+Sat Nov 13 2010,Sheffield Weds,2-0,0-0,Rochdale
+Sat Nov 13 2010,Swindon,2-1,1-1,Colchester
+Sat Nov 13 2010,Tranmere,1-0,0-0,Plymouth
+Sat Nov 13 2010,Yeovil,1-3,1-1,Dag and Red
+Sat Nov 20 2010,Brighton,2-2,0-1,Bristol Rvs
+Sat Nov 20 2010,Charlton,3-2,2-1,Yeovil
+Sat Nov 20 2010,Colchester,3-2,0-1,Hartlepool
+Sat Nov 20 2010,Dag and Red,0-1,0-0,Oldham
+Sat Nov 20 2010,Huddersfield,0-1,0-1,Exeter
+Sat Nov 20 2010,Leyton Orient,2-2,0-1,Bournemouth
+Sat Nov 20 2010,Milton Keynes Dons,1-4,1-2,Sheffield Weds
+Sat Nov 20 2010,Notts County,0-1,0-0,Tranmere
+Sat Nov 20 2010,Plymouth,1-2,1-1,Brentford
+Sat Nov 20 2010,Rochdale,3-3,1-1,Swindon
+Sat Nov 20 2010,Southampton,4-1,1-0,Peterboro
+Sat Nov 20 2010,Walsall,2-1,1-1,Carlisle
+Tue Nov 23 2010,Bournemouth,2-0,2-0,Yeovil
+Tue Nov 23 2010,Carlisle,1-1,1-0,Rochdale
+Tue Nov 23 2010,Charlton,1-1,0-0,Bristol Rvs
+Tue Nov 23 2010,Colchester,0-2,0-1,Brentford
+Tue Nov 23 2010,Huddersfield,4-1,2-0,Milton Keynes Dons
+Tue Nov 23 2010,Notts County,1-0,0-0,Swindon
+Tue Nov 23 2010,Oldham,3-3,3-0,Exeter
+Tue Nov 23 2010,Peterboro,2-2,1-1,Leyton Orient
+Tue Nov 23 2010,Plymouth,2-1,0-1,Dag and Red
+Tue Nov 23 2010,Sheffield Weds,3-0,1-0,Walsall
+Tue Nov 23 2010,Southampton,0-0,0-0,Brighton
+Tue Nov 23 2010,Tranmere,0-1,0-0,Hartlepool
+Sat Nov 27 2010,Rochdale,1-1,1-1,Oldham
+Sat Dec 4 2010,Swindon,2-1,1-1,Sheffield Weds
+Fri Dec 10 2010,Peterboro,2-1,1-0,Rochdale
+Sat Dec 11 2010,Bournemouth,0-1,0-1,Hartlepool
+Sat Dec 11 2010,Carlisle,0-2,0-0,Dag and Red
+Sat Dec 11 2010,Colchester,0-0,0-0,Yeovil
+Sat Dec 11 2010,Huddersfield,2-1,0-0,Brighton
+Sat Dec 11 2010,Notts County,2-0,0-0,Milton Keynes Dons
+Sat Dec 11 2010,Plymouth,2-0,1-0,Exeter
+Sat Dec 11 2010,Sheffield Weds,6-2,4-1,Bristol Rvs
+Sat Dec 11 2010,Southampton,0-2,0-2,Brentford
+Sat Dec 11 2010,Tranmere,1-2,0-2,Leyton Orient
+Sun Dec 12 2010,Charlton,0-1,0-0,Walsall
+Sat Dec 18 2010,Exeter,5-1,1-1,Sheffield Weds
+Sun Dec 26 2010,Huddersfield,0-1,0-1,Hartlepool
+Tue Dec 28 2010,Milton Keynes Dons,2-0,1-0,Bournemouth
+Tue Dec 28 2010,Plymouth,1-1,1-1,Notts County
+Tue Dec 28 2010,Southampton,4-1,2-1,Huddersfield
+Tue Dec 28 2010,Swindon,1-1,0-1,Peterboro
+Wed Dec 29 2010,Brighton,1-1,1-1,Charlton
+Sat Jan 1 2011,Brentford,2-1,1-1,Dag and Red
+Sat Jan 1 2011,Brighton,5-0,2-0,Leyton Orient
+Sat Jan 1 2011,Carlisle,2-2,0-1,Huddersfield
+Sat Jan 1 2011,Colchester,3-3,2-2,Charlton
+Sat Jan 1 2011,Hartlepool,4-2,2-1,Oldham
+Sat Jan 1 2011,Milton Keynes Dons,2-0,2-0,Bristol Rvs
+Sat Jan 1 2011,Plymouth,0-0,0-0,Yeovil
+Sat Jan 1 2011,Rochdale,3-2,2-1,Tranmere
+Sat Jan 1 2011,Southampton,4-0,1-0,Exeter
+Sat Jan 1 2011,Swindon,1-2,1-1,Bournemouth
+Sat Jan 1 2011,Walsall,0-3,0-2,Notts County
+Mon Jan 3 2011,Bournemouth,3-1,1-0,Brentford
+Mon Jan 3 2011,Charlton,2-4,1-1,Swindon
+Mon Jan 3 2011,Dag and Red,1-3,0-0,Southampton
+Mon Jan 3 2011,Exeter,1-2,1-0,Brighton
+Mon Jan 3 2011,Huddersfield,1-0,1-0,Sheffield Weds
+Mon Jan 3 2011,Leyton Orient,4-2,1-0,Colchester
+Mon Jan 3 2011,Notts County,3-0,1-0,Hartlepool
+Mon Jan 3 2011,Oldham,1-2,0-0,Rochdale
+Mon Jan 3 2011,Peterboro,4-1,1-1,Walsall
+Mon Jan 3 2011,Tranmere,2-1,1-0,Carlisle
+Mon Jan 3 2011,Yeovil,1-0,1-0,Milton Keynes Dons
+Tue Jan 4 2011,Bristol Rvs,2-3,2-0,Plymouth
+Sat Jan 8 2011,Bournemouth,3-0,2-0,Plymouth
+Sat Jan 8 2011,Dag and Red,0-1,0-0,Rochdale
+Sat Jan 8 2011,Exeter,1-1,1-0,Milton Keynes Dons
+Sat Jan 8 2011,Oldham,2-0,1-0,Swindon
+Sat Jan 8 2011,Tranmere,3-3,2-1,Walsall
+Sat Jan 8 2011,Yeovil,2-0,1-0,Brentford
+Tue Jan 11 2011,Bristol Rvs,2-2,0-1,Walsall
+Tue Jan 11 2011,Huddersfield,3-2,3-2,Plymouth
+Tue Jan 11 2011,Oldham,0-6,0-2,Southampton
+Tue Jan 11 2011,Peterboro,2-1,1-0,Brentford
+Fri Jan 14 2011,Brentford,1-1,0-1,Exeter
+Fri Jan 14 2011,Colchester,2-1,0-0,Bournemouth
+Sat Jan 15 2011,Brighton,3-1,2-0,Peterboro
+Sat Jan 15 2011,Carlisle,4-0,1-0,Bristol Rvs
+Sat Jan 15 2011,Hartlepool,0-1,0-0,Dag and Red
+Sat Jan 15 2011,Milton Keynes Dons,2-0,0-0,Tranmere
+Sat Jan 15 2011,Plymouth,0-2,0-0,Oldham
+Sat Jan 15 2011,Rochdale,1-1,1-0,Leyton Orient
+Sat Jan 15 2011,Sheffield Weds,2-2,0-2,Charlton
+Sat Jan 15 2011,Southampton,0-0,0-0,Notts County
+Sat Jan 15 2011,Swindon,0-1,0-0,Yeovil
+Sat Jan 15 2011,Walsall,2-4,1-2,Huddersfield
+Tue Jan 18 2011,Bristol Rvs,0-0,0-0,Hartlepool
+Tue Jan 18 2011,Milton Keynes Dons,1-3,1-2,Plymouth
+Tue Jan 18 2011,Rochdale,0-0,0-0,Bournemouth
+Sat Jan 22 2011,Bournemouth,1-0,0-0,Brighton
+Sat Jan 22 2011,Bristol Rvs,3-1,1-0,Swindon
+Sat Jan 22 2011,Charlton,2-0,0-0,Plymouth
+Sat Jan 22 2011,Dag and Red,0-1,0-0,Milton Keynes Dons
+Sat Jan 22 2011,Exeter,2-1,1-0,Walsall
+Sat Jan 22 2011,Huddersfield,0-0,0-0,Colchester
+Sat Jan 22 2011,Leyton Orient,4-0,0-0,Sheffield Weds
+Sat Jan 22 2011,Notts County,0-1,0-0,Carlisle
+Sat Jan 22 2011,Oldham,2-1,1-0,Brentford
+Sat Jan 22 2011,Peterboro,4-0,0-0,Hartlepool
+Sat Jan 22 2011,Tranmere,2-0,1-0,Southampton
+Sat Jan 22 2011,Yeovil,0-1,0-1,Rochdale
+Tue Jan 25 2011,Brighton,2-0,1-0,Colchester
+Tue Jan 25 2011,Hartlepool,1-1,1-0,Notts County
+Tue Jan 25 2011,Leyton Orient,2-2,2-1,Milton Keynes Dons
+Tue Jan 25 2011,Sheffield Weds,2-2,1-1,Yeovil
+Tue Jan 25 2011,Swindon,0-0,0-0,Tranmere
+Tue Jan 25 2011,Walsall,1-1,0-1,Oldham
+Fri Jan 28 2011,Colchester,2-1,1-1,Peterboro
+Sat Jan 29 2011,Brentford,1-2,1-1,Yeovil
+Sat Jan 29 2011,Carlisle,2-2,0-2,Oldham
+Sat Jan 29 2011,Plymouth,1-2,0-1,Bournemouth
+Sat Jan 29 2011,Swindon,0-0,0-0,Exeter
+Sat Jan 29 2011,Walsall,6-1,3-0,Bristol Rvs
+Tue Feb 1 2011,Bournemouth,3-2,2-1,Swindon
+Tue Feb 1 2011,Charlton,1-0,0-0,Colchester
+Tue Feb 1 2011,Dag and Red,4-1,1-0,Brentford
+Tue Feb 1 2011,Exeter,1-2,1-0,Southampton
+Tue Feb 1 2011,Huddersfield,2-0,2-0,Carlisle
+Tue Feb 1 2011,Leyton Orient,0-0,0-0,Brighton
+Tue Feb 1 2011,Oldham,4-0,1-0,Hartlepool
+Tue Feb 1 2011,Peterboro,5-3,2-3,Sheffield Weds
+Tue Feb 1 2011,Tranmere,1-1,1-0,Rochdale
+Tue Feb 1 2011,Yeovil,1-0,0-0,Plymouth
+Wed Feb 2 2011,Bristol Rvs,1-2,0-1,Milton Keynes Dons
+Wed Feb 2 2011,Notts County,1-1,0-0,Walsall
+Sat Feb 5 2011,Bournemouth,1-1,1-0,Leyton Orient
+Sat Feb 5 2011,Brentford,2-0,1-0,Plymouth
+Sat Feb 5 2011,Bristol Rvs,2-4,1-1,Brighton
+Sat Feb 5 2011,Carlisle,1-3,0-1,Walsall
+Sat Feb 5 2011,Exeter,1-4,0-0,Huddersfield
+Sat Feb 5 2011,Hartlepool,1-0,0-0,Colchester
+Sat Feb 5 2011,Oldham,1-1,0-0,Dag and Red
+Sat Feb 5 2011,Peterboro,4-4,2-2,Southampton
+Sat Feb 5 2011,Sheffield Weds,2-2,0-2,Milton Keynes Dons
+Sat Feb 5 2011,Swindon,1-1,0-0,Rochdale
+Sat Feb 5 2011,Yeovil,0-1,0-0,Charlton
+Tue Feb 8 2011,Leyton Orient,3-0,3-0,Swindon
+Tue Feb 8 2011,Rochdale,3-1,0-0,Bristol Rvs
+Sat Feb 12 2011,Brighton,4-1,2-0,Hartlepool
+Sat Feb 12 2011,Charlton,3-2,0-1,Peterboro
+Sat Feb 12 2011,Colchester,2-1,1-0,Swindon
+Sat Feb 12 2011,Dag and Red,2-1,1-1,Yeovil
+Sat Feb 12 2011,Huddersfield,0-0,0-0,Oldham
+Sat Feb 12 2011,Leyton Orient,4-1,2-0,Bristol Rvs
+Sat Feb 12 2011,Milton Keynes Dons,1-1,0-0,Brentford
+Sat Feb 12 2011,Notts County,0-2,0-0,Exeter
+Sat Feb 12 2011,Plymouth,1-3,0-1,Tranmere
+Sat Feb 12 2011,Rochdale,2-1,2-0,Sheffield Weds
+Sat Feb 12 2011,Southampton,1-0,1-0,Carlisle
+Sat Feb 12 2011,Walsall,0-1,0-0,Bournemouth
+Tue Feb 15 2011,Hartlepool,2-1,1-0,Charlton
+Tue Feb 15 2011,Milton Keynes Dons,2-3,2-2,Leyton Orient
+Tue Feb 15 2011,Notts County,2-0,2-0,Colchester
+Tue Feb 15 2011,Oldham,0-1,0-0,Carlisle
+Tue Feb 15 2011,Tranmere,3-0,0-0,Sheffield Weds
+Tue Feb 15 2011,Walsall,1-0,0-0,Dag and Red
+Tue Feb 15 2011,Yeovil,0-2,0-0,Peterboro
+Sat Feb 19 2011,Bournemouth,1-1,0-0,Huddersfield
+Sat Feb 19 2011,Bristol Rvs,1-0,0-0,Oldham
+Sat Feb 19 2011,Charlton,1-3,0-0,Exeter
+Sat Feb 19 2011,Colchester,2-0,1-0,Walsall
+Sat Feb 19 2011,Hartlepool,0-1,0-1,Milton Keynes Dons
+Sat Feb 19 2011,Peterboro,2-1,0-1,Tranmere
+Sat Feb 19 2011,Swindon,0-1,0-1,Carlisle
+Tue Feb 22 2011,Bournemouth,0-0,0-0,Sheffield Weds
+Tue Feb 22 2011,Brentford,2-1,1-0,Tranmere
+Tue Feb 22 2011,Brighton,4-0,2-0,Plymouth
+Tue Feb 22 2011,Carlisle,2-2,2-2,Exeter
+Tue Feb 22 2011,Dag and Red,1-1,0-1,Huddersfield
+Tue Feb 22 2011,Hartlepool,0-0,0-0,Southampton
+Tue Feb 22 2011,Milton Keynes Dons,0-0,0-0,Oldham
+Tue Feb 22 2011,Peterboro,1-1,1-1,Colchester
+Fri Feb 25 2011,Notts County,1-0,0-0,Charlton
+Sat Feb 26 2011,Brentford,1-0,1-0,Bristol Rvs
+Sat Feb 26 2011,Carlisle,0-1,0-1,Sheffield Weds
+Sat Feb 26 2011,Dag and Red,1-2,0-0,Bournemouth
+Sat Feb 26 2011,Exeter,1-2,0-2,Hartlepool
+Sat Feb 26 2011,Huddersfield,2-2,1-0,Leyton Orient
+Sat Feb 26 2011,Milton Keynes Dons,1-0,1-0,Brighton
+Sat Feb 26 2011,Oldham,0-5,0-0,Peterboro
+Sat Feb 26 2011,Plymouth,2-1,1-1,Colchester
+Sat Feb 26 2011,Southampton,4-1,1-0,Swindon
+Sat Feb 26 2011,Tranmere,0-1,0-0,Yeovil
+Sat Feb 26 2011,Walsall,0-0,0-0,Rochdale
+Tue Mar 1 2011,Brentford,1-1,0-1,Notts County
+Tue Mar 1 2011,Bristol Rvs,0-1,0-1,Colchester
+Tue Mar 1 2011,Charlton,1-3,1-1,Carlisle
+Tue Mar 1 2011,Exeter,1-1,0-1,Tranmere
+Tue Mar 1 2011,Hartlepool,0-1,0-1,Huddersfield
+Tue Mar 1 2011,Walsall,1-0,0-0,Southampton
+Tue Mar 1 2011,Yeovil,0-1,0-1,Brighton
+Sat Mar 5 2011,Bournemouth,3-0,1-0,Oldham
+Sat Mar 5 2011,Brighton,4-3,1-1,Carlisle
+Sat Mar 5 2011,Bristol Rvs,0-2,0-1,Dag and Red
+Sat Mar 5 2011,Charlton,1-1,0-1,Tranmere
+Sat Mar 5 2011,Colchester,0-2,0-1,Southampton
+Sat Mar 5 2011,Hartlepool,3-0,1-0,Brentford
+Sat Mar 5 2011,Leyton Orient,2-0,1-0,Notts County
+Sat Mar 5 2011,Peterboro,3-0,1-0,Exeter
+Sat Mar 5 2011,Rochdale,1-4,0-3,Milton Keynes Dons
+Sat Mar 5 2011,Sheffield Weds,2-4,0-2,Plymouth
+Sat Mar 5 2011,Swindon,0-0,0-0,Walsall
+Sat Mar 5 2011,Yeovil,1-1,1-0,Huddersfield
+Tue Mar 8 2011,Brentford,0-1,0-0,Brighton
+Tue Mar 8 2011,Carlisle,1-0,0-0,Hartlepool
+Tue Mar 8 2011,Dag and Red,1-0,1-0,Colchester
+Tue Mar 8 2011,Exeter,2-0,1-0,Bournemouth
+Tue Mar 8 2011,Huddersfield,2-1,2-0,Rochdale
+Tue Mar 8 2011,Milton Keynes Dons,2-0,0-0,Charlton
+Tue Mar 8 2011,Notts County,0-1,0-0,Peterboro
+Tue Mar 8 2011,Oldham,2-3,2-2,Sheffield Weds
+Tue Mar 8 2011,Plymouth,1-0,1-0,Swindon
+Tue Mar 8 2011,Southampton,3-0,1-0,Yeovil
+Tue Mar 8 2011,Tranmere,0-1,0-1,Bristol Rvs
+Tue Mar 8 2011,Walsall,0-2,0-1,Leyton Orient
+Sat Mar 12 2011,Bournemouth,1-3,1-1,Southampton
+Sat Mar 12 2011,Brighton,2-0,0-0,Tranmere
+Sat Mar 12 2011,Bristol Rvs,0-1,0-1,Huddersfield
+Sat Mar 12 2011,Charlton,0-1,0-0,Brentford
+Sat Mar 12 2011,Colchester,1-3,1-0,Milton Keynes Dons
+Sat Mar 12 2011,Hartlepool,2-0,1-0,Plymouth
+Sat Mar 12 2011,Leyton Orient,1-0,0-0,Oldham
+Sat Mar 12 2011,Peterboro,6-0,3-0,Carlisle
+Sat Mar 12 2011,Rochdale,0-1,0-1,Exeter
+Sat Mar 12 2011,Sheffield Weds,0-1,0-1,Notts County
+Sat Mar 12 2011,Swindon,1-1,1-0,Dag and Red
+Sat Mar 12 2011,Yeovil,1-1,1-1,Walsall
+Tue Mar 15 2011,Brentford,0-1,0-0,Huddersfield
+Tue Mar 15 2011,Carlisle,1-1,1-0,Plymouth
+Tue Mar 15 2011,Hartlepool,0-1,0-1,Leyton Orient
+Tue Mar 15 2011,Rochdale,1-0,0-0,Notts County
+Tue Mar 15 2011,Sheffield Weds,1-4,0-3,Peterboro
+Sat Mar 19 2011,Brentford,2-1,2-0,Leyton Orient
+Sat Mar 19 2011,Carlisle,1-0,1-0,Bournemouth
+Sat Mar 19 2011,Dag and Red,2-1,1-0,Charlton
+Sat Mar 19 2011,Exeter,2-3,2-1,Yeovil
+Sat Mar 19 2011,Huddersfield,0-0,0-0,Swindon
+Sat Mar 19 2011,Notts County,0-1,0-0,Bristol Rvs
+Sat Mar 19 2011,Oldham,0-1,0-0,Brighton
+Sat Mar 19 2011,Plymouth,0-1,0-0,Rochdale
+Sat Mar 19 2011,Southampton,2-0,0-0,Sheffield Weds
+Sat Mar 19 2011,Tranmere,1-0,0-0,Colchester
+Sat Mar 19 2011,Walsall,5-2,0-1,Hartlepool
+Mon Mar 21 2011,Milton Keynes Dons,1-0,0-0,Peterboro
+Tue Mar 22 2011,Brighton,1-0,0-0,Notts County
+Tue Mar 22 2011,Charlton,1-1,0-0,Southampton
+Tue Mar 22 2011,Colchester,1-0,0-0,Oldham
+Tue Mar 22 2011,Leyton Orient,1-1,0-1,Dag and Red
+Fri Mar 25 2011,Brentford,2-1,0-0,Carlisle
+Fri Mar 25 2011,Bristol Rvs,2-2,1-1,Peterboro
+Fri Mar 25 2011,Hartlepool,0-2,0-1,Rochdale
+Fri Mar 25 2011,Milton Keynes Dons,1-1,0-1,Walsall
+Sat Mar 26 2011,Bournemouth,2-2,1-1,Charlton
+Sat Mar 26 2011,Brighton,2-1,1-1,Swindon
+Sat Mar 26 2011,Colchester,5-1,1-1,Exeter
+Sat Mar 26 2011,Dag and Red,1-1,0-1,Sheffield Weds
+Sat Mar 26 2011,Leyton Orient,1-5,0-3,Yeovil
+Sun Mar 27 2011,Huddersfield,3-0,1-0,Notts County
+Mon Mar 28 2011,Oldham,0-0,0-0,Tranmere
+Tue Mar 29 2011,Dag and Red,0-1,0-0,Brighton
+Tue Mar 29 2011,Exeter,1-0,0-0,Swindon
+Tue Mar 29 2011,Rochdale,2-0,1-0,Charlton
+Tue Mar 29 2011,Sheffield Weds,1-3,1-2,Brentford
+Tue Mar 29 2011,Yeovil,1-0,0-0,Carlisle
+Fri Apr 1 2011,Peterboro,3-3,3-1,Bournemouth
+Sat Apr 2 2011,Charlton,3-1,0-1,Leyton Orient
+Sat Apr 2 2011,Exeter,2-1,0-0,Dag and Red
+Sat Apr 2 2011,Notts County,0-2,0-0,Oldham
+Sat Apr 2 2011,Rochdale,2-2,1-1,Brighton
+Sat Apr 2 2011,Sheffield Weds,2-1,1-0,Colchester
+Sat Apr 2 2011,Southampton,3-2,0-1,Milton Keynes Dons
+Sat Apr 2 2011,Swindon,1-1,0-1,Hartlepool
+Sat Apr 2 2011,Tranmere,0-2,0-1,Huddersfield
+Sat Apr 2 2011,Yeovil,0-1,0-0,Bristol Rvs
+Tue Apr 5 2011,Bristol Rvs,1-0,1-0,Bournemouth
+Tue Apr 5 2011,Dag and Red,0-2,0-2,Peterboro
+Tue Apr 5 2011,Leyton Orient,2-0,2-0,Plymouth
+Tue Apr 5 2011,Notts County,1-2,0-2,Rochdale
+Tue Apr 5 2011,Sheffield Weds,4-0,3-0,Tranmere
+Tue Apr 5 2011,Southampton,2-0,1-0,Charlton
+Sat Apr 9 2011,Bournemouth,1-2,0-1,Tranmere
+Sat Apr 9 2011,Brentford,0-1,0-0,Swindon
+Sat Apr 9 2011,Brighton,2-0,1-0,Sheffield Weds
+Sat Apr 9 2011,Bristol Rvs,0-2,0-0,Exeter
+Sat Apr 9 2011,Colchester,1-0,0-0,Rochdale
+Sat Apr 9 2011,Dag and Red,3-1,3-0,Notts County
+Sat Apr 9 2011,Hartlepool,3-1,1-1,Yeovil
+Sat Apr 9 2011,Huddersfield,1-1,0-1,Peterboro
+Sat Apr 9 2011,Leyton Orient,0-2,0-1,Southampton
+Sat Apr 9 2011,Milton Keynes Dons,3-2,1-1,Carlisle
+Sat Apr 9 2011,Oldham,0-0,0-0,Charlton
+Sat Apr 9 2011,Plymouth,2-0,0-0,Walsall
+Tue Apr 12 2011,Brighton,4-3,2-1,Dag and Red
+Tue Apr 12 2011,Leyton Orient,0-0,0-0,Carlisle
+Tue Apr 12 2011,Rochdale,2-0,2-0,Southampton
+Tue Apr 12 2011,Walsall,3-2,1-1,Brentford
+Tue Apr 12 2011,Yeovil,2-1,1-0,Notts County
+Sat Apr 16 2011,Carlisle,4-1,3-0,Colchester
+Sat Apr 16 2011,Charlton,0-1,0-0,Huddersfield
+Sat Apr 16 2011,Exeter,2-1,1-1,Leyton Orient
+Sat Apr 16 2011,Notts County,0-2,0-0,Bournemouth
+Sat Apr 16 2011,Peterboro,2-1,0-1,Plymouth
+Sat Apr 16 2011,Rochdale,0-1,0-0,Brentford
+Sat Apr 16 2011,Sheffield Weds,2-0,1-0,Hartlepool
+Sat Apr 16 2011,Southampton,1-0,0-0,Bristol Rvs
+Sat Apr 16 2011,Swindon,0-1,0-1,Milton Keynes Dons
+Sat Apr 16 2011,Tranmere,2-0,2-0,Dag and Red
+Sat Apr 16 2011,Walsall,1-3,1-1,Brighton
+Sat Apr 16 2011,Yeovil,1-1,0-1,Oldham
+Tue Apr 19 2011,Tranmere,0-1,0-1,Notts County
+Fri Apr 22 2011,Brentford,1-1,0-1,Colchester
+Fri Apr 22 2011,Dag and Red,0-1,0-0,Plymouth
+Fri Apr 22 2011,Exeter,2-0,2-0,Oldham
+Fri Apr 22 2011,Hartlepool,1-1,1-0,Tranmere
+Fri Apr 22 2011,Leyton Orient,2-1,0-0,Peterboro
+Fri Apr 22 2011,Milton Keynes Dons,1-3,0-2,Huddersfield
+Sat Apr 23 2011,Brighton,1-2,1-0,Southampton
+Sat Apr 23 2011,Bristol Rvs,2-2,0-1,Charlton
+Sat Apr 23 2011,Rochdale,2-3,1-1,Carlisle
+Sat Apr 23 2011,Swindon,1-2,1-0,Notts County
+Sat Apr 23 2011,Walsall,1-1,1-1,Sheffield Weds
+Sat Apr 23 2011,Yeovil,2-2,0-0,Bournemouth
+Mon Apr 25 2011,Bournemouth,2-1,0-1,Bristol Rvs
+Mon Apr 25 2011,Carlisle,0-1,0-1,Leyton Orient
+Mon Apr 25 2011,Charlton,3-1,1-0,Rochdale
+Mon Apr 25 2011,Colchester,1-1,1-0,Brighton
+Mon Apr 25 2011,Huddersfield,2-1,2-1,Dag and Red
+Mon Apr 25 2011,Notts County,1-1,0-0,Brentford
+Mon Apr 25 2011,Oldham,1-1,0-0,Walsall
+Mon Apr 25 2011,Peterboro,2-2,0-1,Yeovil
+Mon Apr 25 2011,Plymouth,1-0,1-0,Milton Keynes Dons
+Mon Apr 25 2011,Sheffield Weds,3-1,2-1,Swindon
+Mon Apr 25 2011,Southampton,2-0,0-0,Hartlepool
+Mon Apr 25 2011,Tranmere,4-0,1-0,Exeter
+Sat Apr 30 2011,Brentford,0-3,0-2,Southampton
+Sat Apr 30 2011,Brighton,2-3,0-1,Huddersfield
+Sat Apr 30 2011,Bristol Rvs,1-1,1-1,Sheffield Weds
+Sat Apr 30 2011,Dag and Red,3-0,2-0,Carlisle
+Sat Apr 30 2011,Exeter,1-0,0-0,Plymouth
+Sat Apr 30 2011,Hartlepool,2-2,0-2,Bournemouth
+Sat Apr 30 2011,Leyton Orient,0-3,0-2,Tranmere
+Sat Apr 30 2011,Milton Keynes Dons,2-1,0-0,Notts County
+Sat Apr 30 2011,Rochdale,2-2,1-1,Peterboro
+Sat Apr 30 2011,Swindon,0-2,0-1,Oldham
+Sat Apr 30 2011,Walsall,2-0,1-0,Charlton
+Sat Apr 30 2011,Yeovil,4-2,3-1,Colchester
+Mon May 2 2011,Plymouth,1-3,0-1,Southampton
+Sat May 7 2011,Bournemouth,1-2,1-1,Rochdale
+Sat May 7 2011,Carlisle,0-2,0-1,Yeovil
+Sat May 7 2011,Charlton,0-0,0-0,Hartlepool
+Sat May 7 2011,Colchester,2-1,2-0,Bristol Rvs
+Sat May 7 2011,Huddersfield,4-4,2-1,Brentford
+Sat May 7 2011,Notts County,1-1,1-1,Brighton
+Sat May 7 2011,Oldham,1-2,1-1,Milton Keynes Dons
+Sat May 7 2011,Peterboro,5-0,1-0,Dag and Red
+Sat May 7 2011,Plymouth,1-4,0-2,Leyton Orient
+Sat May 7 2011,Sheffield Weds,1-2,1-0,Exeter
+Sat May 7 2011,Southampton,3-1,2-1,Walsall
+Sat May 7 2011,Tranmere,0-2,0-2,Swindon

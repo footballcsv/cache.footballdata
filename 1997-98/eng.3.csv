@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 9 1997,Blackpool,1-0,?,Luton
+Sat Aug 9 1997,Bristol Rvs,1-1,?,Plymouth
+Sat Aug 9 1997,Chesterfield,3-1,?,Walsall
+Sat Aug 9 1997,Fulham,1-0,?,Wrexham
+Sat Aug 9 1997,Gillingham,0-0,?,Preston
+Sat Aug 9 1997,Grimsby,1-1,?,Bristol City
+Sat Aug 9 1997,Millwall,3-0,?,Brentford
+Sat Aug 9 1997,Northampton,0-2,?,Bournemouth
+Sat Aug 9 1997,Oldham,3-1,?,York
+Sat Aug 9 1997,Southend,1-1,?,Carlisle
+Sat Aug 9 1997,Watford,1-0,?,Burnley
+Sat Aug 9 1997,Wigan,5-2,?,Wycombe
+Sat Aug 16 1997,Bournemouth,1-0,?,Wigan
+Sat Aug 16 1997,Brentford,0-0,?,Chesterfield
+Sat Aug 16 1997,Bristol City,2-0,?,Blackpool
+Sat Aug 16 1997,Burnley,0-0,?,Gillingham
+Sat Aug 16 1997,Carlisle,0-2,?,Watford
+Sat Aug 16 1997,Plymouth,2-2,?,Grimsby
+Sat Aug 16 1997,Preston,2-1,?,Millwall
+Sat Aug 16 1997,Walsall,1-1,?,Fulham
+Sat Aug 16 1997,Wrexham,3-1,?,Oldham
+Sat Aug 16 1997,Wycombe,0-0,?,Northampton
+Sat Aug 16 1997,York,0-1,?,Bristol Rvs
+Mon Aug 18 1997,Luton,1-0,?,Southend
+Sat Aug 23 1997,Blackpool,2-4,?,Wycombe
+Sat Aug 23 1997,Bristol Rvs,3-1,?,Carlisle
+Sat Aug 23 1997,Chesterfield,3-2,?,Preston
+Sat Aug 23 1997,Fulham,0-0,?,Luton
+Sat Aug 23 1997,Gillingham,2-1,?,Walsall
+Sat Aug 23 1997,Grimsby,0-0,?,Wrexham
+Sat Aug 23 1997,Millwall,2-3,?,York
+Sat Aug 23 1997,Northampton,2-1,?,Bristol City
+Sat Aug 23 1997,Oldham,2-1,?,Bournemouth
+Sat Aug 23 1997,Southend,1-0,?,Burnley
+Sat Aug 23 1997,Watford,3-1,?,Brentford
+Sat Aug 23 1997,Wigan,1-1,?,Plymouth
+Sat Aug 30 1997,Bournemouth,2-0,?,Blackpool
+Sat Aug 30 1997,Brentford,3-1,?,Grimsby
+Sat Aug 30 1997,Bristol City,3-0,?,Wigan
+Sat Aug 30 1997,Burnley,0-0,?,Bristol Rvs
+Sat Aug 30 1997,Carlisle,0-2,?,Northampton
+Sat Aug 30 1997,Luton,1-1,?,Oldham
+Sat Aug 30 1997,Plymouth,1-1,?,Chesterfield
+Sat Aug 30 1997,Preston,2-0,?,Watford
+Sat Aug 30 1997,Walsall,3-1,?,Southend
+Sat Aug 30 1997,Wycombe,2-0,?,Fulham
+Sat Aug 30 1997,York,2-1,?,Gillingham
+Tue Sep 2 1997,Bournemouth,1-1,?,Bristol Rvs
+Tue Sep 2 1997,Brentford,2-0,?,Gillingham
+Tue Sep 2 1997,Bristol City,0-2,?,Fulham
+Tue Sep 2 1997,Burnley,0-0,?,Oldham
+Tue Sep 2 1997,Carlisle,1-0,?,Wigan
+Tue Sep 2 1997,Luton,0-2,?,Millwall
+Tue Sep 2 1997,Plymouth,0-1,?,Watford
+Tue Sep 2 1997,Preston,2-0,?,Grimsby
+Tue Sep 2 1997,Walsall,0-2,?,Northampton
+Tue Sep 2 1997,Wrexham,3-4,?,Blackpool
+Tue Sep 2 1997,Wycombe,4-1,?,Southend
+Tue Sep 2 1997,York,0-1,?,Chesterfield
+Fri Sep 5 1997,Gillingham,2-1,?,Bournemouth
+Fri Sep 5 1997,Southend,3-1,?,Brentford
+Sun Sep 7 1997,Blackpool,2-1,?,Carlisle
+Sun Sep 7 1997,Chesterfield,1-0,?,Burnley
+Sun Sep 7 1997,Watford,2-1,?,Wycombe
+Mon Sep 8 1997,Wigan,3-2,?,Wrexham
+Tue Sep 9 1997,Bristol Rvs,2-0,?,Walsall
+Tue Sep 9 1997,Fulham,2-0,?,Plymouth
+Tue Sep 9 1997,Grimsby,0-0,?,York
+Tue Sep 9 1997,Northampton,1-0,?,Luton
+Tue Sep 9 1997,Oldham,1-0,?,Preston
+Sat Sep 13 1997,Bournemouth,1-1,?,Luton
+Sat Sep 13 1997,Bristol Rvs,1-2,?,Gillingham
+Sat Sep 13 1997,Fulham,0-2,?,Grimsby
+Sat Sep 13 1997,Millwall,3-1,?,Southend
+Sat Sep 13 1997,Oldham,2-2,?,Northampton
+Sat Sep 13 1997,Plymouth,0-0,?,Brentford
+Sat Sep 13 1997,Preston,0-0,?,Walsall
+Sat Sep 13 1997,Watford,2-1,?,Chesterfield
+Sat Sep 13 1997,Wigan,3-0,?,Blackpool
+Sat Sep 13 1997,Wrexham,2-1,?,Bristol City
+Sat Sep 13 1997,Wycombe,1-4,?,Carlisle
+Sat Sep 13 1997,York,3-1,?,Burnley
+Fri Sep 19 1997,Brentford,1-1,?,Wycombe
+Sat Sep 20 1997,Blackpool,2-2,?,Oldham
+Sat Sep 20 1997,Bristol City,1-1,?,Bournemouth
+Sat Sep 20 1997,Burnley,1-1,?,Preston
+Sat Sep 20 1997,Carlisle,2-2,?,Plymouth
+Sat Sep 20 1997,Chesterfield,0-0,?,Bristol Rvs
+Sat Sep 20 1997,Gillingham,2-2,?,Watford
+Sat Sep 20 1997,Grimsby,0-1,?,Millwall
+Sat Sep 20 1997,Luton,2-5,?,Wrexham
+Sat Sep 20 1997,Northampton,1-0,?,Wigan
+Sat Sep 20 1997,Southend,1-0,?,Fulham
+Sat Sep 20 1997,Walsall,2-0,?,York
+Sat Sep 27 1997,Blackpool,3-0,?,Southend
+Sat Sep 27 1997,Bournemouth,0-1,?,Grimsby
+Sat Sep 27 1997,Brentford,2-1,?,Burnley
+Sat Sep 27 1997,Bristol City,3-0,?,Luton
+Sat Sep 27 1997,Carlisle,2-1,?,Gillingham
+Sat Sep 27 1997,Northampton,2-0,?,Millwall
+Sat Sep 27 1997,Oldham,4-4,?,Bristol Rvs
+Sat Sep 27 1997,Plymouth,2-1,?,Walsall
+Sat Sep 27 1997,Watford,1-1,?,York
+Sat Sep 27 1997,Wigan,2-1,?,Fulham
+Sat Sep 27 1997,Wrexham,0-0,?,Chesterfield
+Sat Sep 27 1997,Wycombe,0-0,?,Preston
+Sat Oct 4 1997,Bristol Rvs,1-0,?,Wrexham
+Sat Oct 4 1997,Burnley,2-2,?,Wycombe
+Sat Oct 4 1997,Chesterfield,1-1,?,Bournemouth
+Sat Oct 4 1997,Fulham,3-1,?,Oldham
+Sat Oct 4 1997,Gillingham,2-0,?,Bristol City
+Sat Oct 4 1997,Grimsby,2-1,?,Wigan
+Sat Oct 4 1997,Luton,0-4,?,Watford
+Sat Oct 4 1997,Millwall,2-1,?,Blackpool
+Sat Oct 4 1997,Preston,2-1,?,Brentford
+Sat Oct 4 1997,Southend,0-0,?,Northampton
+Sat Oct 4 1997,Walsall,3-1,?,Carlisle
+Sat Oct 4 1997,York,1-0,?,Plymouth
+Sat Oct 11 1997,Burnley,3-1,?,Carlisle
+Sat Oct 11 1997,Chesterfield,2-3,?,Wigan
+Sat Oct 11 1997,Fulham,1-0,?,Blackpool
+Sat Oct 11 1997,Gillingham,1-0,?,Wycombe
+Sat Oct 11 1997,Grimsby,1-0,?,Northampton
+Sat Oct 11 1997,Luton,3-0,?,Plymouth
+Sat Oct 11 1997,Millwall,2-1,?,Oldham
+Sat Oct 11 1997,Preston,0-1,?,Bournemouth
+Sat Oct 11 1997,Southend,0-2,?,Bristol City
+Sat Oct 11 1997,Walsall,3-0,?,Wrexham
+Sat Oct 11 1997,York,3-1,?,Brentford
+Tue Oct 14 1997,Bristol Rvs,1-2,?,Watford
+Fri Oct 17 1997,Bristol City,2-1,?,York
+Fri Oct 17 1997,Carlisle,0-2,?,Preston
+Sat Oct 18 1997,Blackpool,2-2,?,Grimsby
+Sat Oct 18 1997,Bournemouth,2-1,?,Fulham
+Sat Oct 18 1997,Brentford,3-0,?,Walsall
+Sat Oct 18 1997,Northampton,2-1,?,Gillingham
+Sat Oct 18 1997,Oldham,2-0,?,Chesterfield
+Sat Oct 18 1997,Plymouth,2-3,?,Southend
+Sat Oct 18 1997,Watford,0-1,?,Millwall
+Sat Oct 18 1997,Wigan,1-1,?,Luton
+Sat Oct 18 1997,Wrexham,0-0,?,Burnley
+Sat Oct 18 1997,Wycombe,1-0,?,Bristol Rvs
+Tue Oct 21 1997,Blackpool,2-1,?,Chesterfield
+Tue Oct 21 1997,Bournemouth,0-0,?,Millwall
+Tue Oct 21 1997,Brentford,2-3,?,Bristol Rvs
+Tue Oct 21 1997,Bristol City,2-1,?,Preston
+Tue Oct 21 1997,Carlisle,0-1,?,Luton
+Tue Oct 21 1997,Northampton,1-1,?,York
+Tue Oct 21 1997,Oldham,2-0,?,Grimsby
+Tue Oct 21 1997,Plymouth,2-2,?,Burnley
+Tue Oct 21 1997,Watford,2-0,?,Fulham
+Tue Oct 21 1997,Wigan,1-4,?,Gillingham
+Tue Oct 21 1997,Wrexham,3-1,?,Southend
+Tue Oct 21 1997,Wycombe,4-2,?,Walsall
+Sat Oct 25 1997,Bristol Rvs,0-3,?,Blackpool
+Sat Oct 25 1997,Burnley,2-2,?,Bournemouth
+Sat Oct 25 1997,Chesterfield,1-0,?,Wycombe
+Sat Oct 25 1997,Fulham,1-1,?,Northampton
+Sat Oct 25 1997,Gillingham,2-1,?,Plymouth
+Sat Oct 25 1997,Grimsby,0-1,?,Watford
+Sat Oct 25 1997,Luton,2-0,?,Brentford
+Sat Oct 25 1997,Millwall,1-1,?,Wigan
+Sat Oct 25 1997,Preston,0-1,?,Wrexham
+Sat Oct 25 1997,Southend,1-1,?,Oldham
+Sat Oct 25 1997,Walsall,0-0,?,Bristol City
+Sat Oct 25 1997,York,4-3,?,Carlisle
+Wed Oct 29 1997,Millwall,0-2,?,Bristol City
+Sat Nov 1 1997,Bournemouth,0-0,?,Brentford
+Sat Nov 1 1997,Bristol City,1-0,?,Oldham
+Sat Nov 1 1997,Burnley,2-1,?,Walsall
+Sat Nov 1 1997,Carlisle,2-2,?,Wrexham
+Sat Nov 1 1997,Fulham,1-1,?,Chesterfield
+Sat Nov 1 1997,Gillingham,1-3,?,Millwall
+Sat Nov 1 1997,Grimsby,5-1,?,Southend
+Sat Nov 1 1997,Northampton,1-1,?,Bristol Rvs
+Sat Nov 1 1997,Preston,0-1,?,Plymouth
+Sat Nov 1 1997,Watford,4-1,?,Blackpool
+Sat Nov 1 1997,Wigan,1-1,?,York
+Sat Nov 1 1997,Wycombe,2-2,?,Luton
+Tue Nov 4 1997,Blackpool,1-1,?,Northampton
+Tue Nov 4 1997,Brentford,0-1,?,Carlisle
+Tue Nov 4 1997,Bristol Rvs,1-2,?,Bristol City
+Tue Nov 4 1997,Chesterfield,1-1,?,Gillingham
+Tue Nov 4 1997,Luton,2-3,?,Burnley
+Tue Nov 4 1997,Millwall,1-1,?,Fulham
+Tue Nov 4 1997,Oldham,3-1,?,Wigan
+Tue Nov 4 1997,Plymouth,4-2,?,Wycombe
+Tue Nov 4 1997,Southend,0-3,?,Watford
+Tue Nov 4 1997,Walsall,0-0,?,Grimsby
+Tue Nov 4 1997,Wrexham,2-1,?,Bournemouth
+Tue Nov 4 1997,York,1-0,?,Preston
+Fri Nov 7 1997,Oldham,3-1,?,Gillingham
+Sat Nov 8 1997,Blackpool,2-1,?,Burnley
+Sat Nov 8 1997,Brentford,1-4,?,Bristol City
+Sat Nov 8 1997,Bristol Rvs,2-3,?,Fulham
+Sat Nov 8 1997,Chesterfield,1-0,?,Grimsby
+Sat Nov 8 1997,Luton,1-3,?,Preston
+Sat Nov 8 1997,Millwall,1-1,?,Carlisle
+Sat Nov 8 1997,Plymouth,3-0,?,Bournemouth
+Sat Nov 8 1997,Southend,1-0,?,Wigan
+Sat Nov 8 1997,Walsall,0-0,?,Watford
+Sat Nov 8 1997,Wrexham,1-0,?,Northampton
+Sat Nov 8 1997,York,2-0,?,Wycombe
+Tue Nov 18 1997,Bournemouth,2-1,?,Southend
+Tue Nov 18 1997,Bristol City,2-1,?,Plymouth
+Tue Nov 18 1997,Burnley,1-2,?,Millwall
+Tue Nov 18 1997,Carlisle,0-2,?,Chesterfield
+Tue Nov 18 1997,Fulham,1-1,?,York
+Tue Nov 18 1997,Gillingham,1-1,?,Blackpool
+Tue Nov 18 1997,Northampton,4-0,?,Brentford
+Tue Nov 18 1997,Preston,1-2,?,Bristol Rvs
+Tue Nov 18 1997,Watford,2-1,?,Oldham
+Tue Nov 18 1997,Wycombe,0-0,?,Wrexham
+Fri Nov 21 1997,Fulham,3-0,?,Gillingham
+Sat Nov 22 1997,Blackpool,1-0,?,York
+Sat Nov 22 1997,Bournemouth,3-2,?,Carlisle
+Sat Nov 22 1997,Bristol City,3-1,?,Wycombe
+Sat Nov 22 1997,Grimsby,4-1,?,Burnley
+Sat Nov 22 1997,Luton,0-1,?,Walsall
+Sat Nov 22 1997,Millwall,1-1,?,Chesterfield
+Sat Nov 22 1997,Northampton,0-1,?,Watford
+Sat Nov 22 1997,Oldham,1-1,?,Brentford
+Sat Nov 22 1997,Southend,1-1,?,Bristol Rvs
+Sat Nov 22 1997,Wigan,1-4,?,Preston
+Sat Nov 22 1997,Wrexham,1-1,?,Plymouth
+Sat Nov 29 1997,Brentford,1-1,?,Wrexham
+Sat Nov 29 1997,Bristol Rvs,2-1,?,Millwall
+Sat Nov 29 1997,Burnley,2-1,?,Northampton
+Sat Nov 29 1997,Carlisle,0-3,?,Bristol City
+Sat Nov 29 1997,Chesterfield,1-0,?,Southend
+Sat Nov 29 1997,Gillingham,0-2,?,Grimsby
+Sat Nov 29 1997,Plymouth,0-2,?,Oldham
+Sat Nov 29 1997,Preston,3-1,?,Fulham
+Sat Nov 29 1997,Walsall,2-1,?,Blackpool
+Sat Nov 29 1997,Watford,2-1,?,Wigan
+Sat Nov 29 1997,Wycombe,1-1,?,Bournemouth
+Sat Nov 29 1997,York,1-2,?,Luton
+Tue Dec 2 1997,Blackpool,0-0,?,Plymouth
+Tue Dec 2 1997,Bournemouth,0-0,?,York
+Tue Dec 2 1997,Bristol City,3-1,?,Burnley
+Tue Dec 2 1997,Fulham,1-1,?,Brentford
+Tue Dec 2 1997,Grimsby,0-0,?,Wycombe
+Tue Dec 2 1997,Luton,2-2,?,Gillingham
+Tue Dec 2 1997,Northampton,0-0,?,Chesterfield
+Tue Dec 2 1997,Oldham,3-1,?,Carlisle
+Tue Dec 2 1997,Southend,3-2,?,Preston
+Tue Dec 2 1997,Wigan,3-0,?,Bristol Rvs
+Tue Dec 2 1997,Wrexham,1-1,?,Watford
+Wed Dec 3 1997,Millwall,0-1,?,Walsall
+Fri Dec 12 1997,Bristol Rvs,0-4,?,Grimsby
+Sat Dec 13 1997,Brentford,3-1,?,Blackpool
+Sat Dec 13 1997,Burnley,0-2,?,Wigan
+Sat Dec 13 1997,Carlisle,2-0,?,Fulham
+Sat Dec 13 1997,Chesterfield,0-0,?,Luton
+Sat Dec 13 1997,Gillingham,1-2,?,Southend
+Sat Dec 13 1997,Plymouth,3-0,?,Millwall
+Sat Dec 13 1997,Preston,1-0,?,Northampton
+Sat Dec 13 1997,Walsall,2-1,?,Bournemouth
+Sat Dec 13 1997,Watford,1-1,?,Bristol City
+Sat Dec 13 1997,Wycombe,2-1,?,Oldham
+Sat Dec 13 1997,York,1-0,?,Wrexham
+Fri Dec 19 1997,Fulham,1-0,?,Burnley
+Fri Dec 19 1997,Oldham,0-0,?,Walsall
+Fri Dec 19 1997,Southend,4-4,?,York
+Sat Dec 20 1997,Blackpool,2-1,?,Preston
+Sat Dec 20 1997,Bournemouth,0-1,?,Watford
+Sat Dec 20 1997,Bristol City,1-0,?,Chesterfield
+Sat Dec 20 1997,Grimsby,1-0,?,Carlisle
+Sat Dec 20 1997,Luton,2-4,?,Bristol Rvs
+Sat Dec 20 1997,Millwall,1-0,?,Wycombe
+Sat Dec 20 1997,Northampton,2-1,?,Plymouth
+Sat Dec 20 1997,Wigan,4-0,?,Brentford
+Sat Dec 20 1997,Wrexham,0-0,?,Gillingham
+Fri Dec 26 1997,Bournemouth,4-0,?,Gillingham
+Fri Dec 26 1997,Brentford,1-1,?,Southend
+Fri Dec 26 1997,Bristol City,4-1,?,Millwall
+Fri Dec 26 1997,Burnley,0-0,?,Chesterfield
+Fri Dec 26 1997,Carlisle,1-1,?,Blackpool
+Fri Dec 26 1997,Luton,2-2,?,Northampton
+Fri Dec 26 1997,Plymouth,1-4,?,Fulham
+Fri Dec 26 1997,Preston,1-1,?,Oldham
+Fri Dec 26 1997,Walsall,0-1,?,Bristol Rvs
+Fri Dec 26 1997,Wrexham,2-2,?,Wigan
+Fri Dec 26 1997,Wycombe,0-0,?,Watford
+Fri Dec 26 1997,York,0-0,?,Grimsby
+Sun Dec 28 1997,Blackpool,1-2,?,Wrexham
+Sun Dec 28 1997,Bristol Rvs,5-3,?,Bournemouth
+Sun Dec 28 1997,Chesterfield,1-1,?,York
+Sun Dec 28 1997,Fulham,1-0,?,Bristol City
+Sun Dec 28 1997,Grimsby,3-1,?,Preston
+Sun Dec 28 1997,Millwall,0-2,?,Luton
+Sun Dec 28 1997,Northampton,3-2,?,Walsall
+Sun Dec 28 1997,Southend,1-2,?,Wycombe
+Sun Dec 28 1997,Watford,1-1,?,Plymouth
+Sun Dec 28 1997,Wigan,0-2,?,Carlisle
+Mon Dec 29 1997,Gillingham,3-1,?,Brentford
+Sat Jan 3 1998,Chesterfield,0-0,?,Brentford
+Sat Jan 3 1998,Gillingham,2-0,?,Burnley
+Sat Jan 3 1998,Southend,1-2,?,Luton
+Sat Jan 10 1998,Bournemouth,3-0,?,Northampton
+Sat Jan 10 1998,Brentford,2-1,?,Millwall
+Sat Jan 10 1998,Bristol City,4-1,?,Grimsby
+Sat Jan 10 1998,Burnley,2-0,?,Watford
+Sat Jan 10 1998,Carlisle,5-0,?,Southend
+Sat Jan 10 1998,Luton,3-0,?,Blackpool
+Sat Jan 10 1998,Plymouth,1-2,?,Bristol Rvs
+Sat Jan 10 1998,Preston,1-3,?,Gillingham
+Sat Jan 10 1998,Walsall,3-2,?,Chesterfield
+Sat Jan 10 1998,Wrexham,0-3,?,Fulham
+Sat Jan 10 1998,Wycombe,1-2,?,Wigan
+Sat Jan 10 1998,York,0-0,?,Oldham
+Sat Jan 17 1998,Blackpool,1-0,?,Bournemouth
+Sat Jan 17 1998,Bristol Rvs,1-0,?,Burnley
+Sat Jan 17 1998,Chesterfield,2-1,?,Plymouth
+Sat Jan 17 1998,Fulham,0-0,?,Wycombe
+Sat Jan 17 1998,Gillingham,0-0,?,York
+Sat Jan 17 1998,Grimsby,4-0,?,Brentford
+Sat Jan 17 1998,Millwall,0-1,?,Wrexham
+Sat Jan 17 1998,Northampton,2-1,?,Carlisle
+Sat Jan 17 1998,Oldham,2-1,?,Luton
+Sat Jan 17 1998,Southend,0-1,?,Walsall
+Sat Jan 17 1998,Watford,3-1,?,Preston
+Sat Jan 17 1998,Wigan,0-3,?,Bristol City
+Sat Jan 24 1998,Bournemouth,0-0,?,Oldham
+Sat Jan 24 1998,Brentford,1-2,?,Watford
+Sat Jan 24 1998,Bristol City,0-0,?,Northampton
+Sat Jan 24 1998,Burnley,1-0,?,Southend
+Sat Jan 24 1998,Carlisle,3-1,?,Bristol Rvs
+Sat Jan 24 1998,Luton,1-4,?,Fulham
+Sat Jan 24 1998,Plymouth,3-2,?,Wigan
+Sat Jan 24 1998,Preston,0-0,?,Chesterfield
+Sat Jan 24 1998,Wycombe,2-1,?,Blackpool
+Sat Jan 24 1998,York,2-3,?,Millwall
+Tue Jan 27 1998,Oldham,3-0,?,Wrexham
+Sat Jan 31 1998,Blackpool,0-2,?,Wigan
+Sat Jan 31 1998,Brentford,3-1,?,Plymouth
+Sat Jan 31 1998,Bristol City,1-1,?,Wrexham
+Sat Jan 31 1998,Burnley,7-2,?,York
+Sat Jan 31 1998,Carlisle,0-0,?,Wycombe
+Sat Jan 31 1998,Chesterfield,0-1,?,Watford
+Sat Jan 31 1998,Gillingham,1-1,?,Bristol Rvs
+Sat Jan 31 1998,Grimsby,1-1,?,Fulham
+Sat Jan 31 1998,Luton,1-2,?,Bournemouth
+Sat Jan 31 1998,Northampton,0-0,?,Oldham
+Sat Jan 31 1998,Southend,0-0,?,Millwall
+Sat Jan 31 1998,Walsall,1-1,?,Preston
+Tue Feb 3 1998,Blackpool,2-2,?,Bristol City
+Sat Feb 7 1998,Bournemouth,1-0,?,Bristol City
+Sat Feb 7 1998,Bristol Rvs,3-1,?,Chesterfield
+Sat Feb 7 1998,Fulham,2-0,?,Southend
+Sat Feb 7 1998,Millwall,0-1,?,Grimsby
+Sat Feb 7 1998,Oldham,0-1,?,Blackpool
+Sat Feb 7 1998,Plymouth,2-1,?,Carlisle
+Sat Feb 7 1998,Preston,2-3,?,Burnley
+Sat Feb 7 1998,Wigan,1-1,?,Northampton
+Sat Feb 7 1998,Wrexham,2-1,?,Luton
+Sat Feb 7 1998,Wycombe,0-0,?,Brentford
+Sat Feb 7 1998,York,1-0,?,Walsall
+Sun Feb 8 1998,Watford,0-2,?,Gillingham
+Tue Feb 10 1998,Northampton,2-0,?,Wycombe
+Sat Feb 14 1998,Blackpool,3-0,?,Millwall
+Sat Feb 14 1998,Bournemouth,2-0,?,Chesterfield
+Sat Feb 14 1998,Brentford,0-0,?,Preston
+Sat Feb 14 1998,Bristol City,0-2,?,Gillingham
+Sat Feb 14 1998,Carlisle,1-1,?,Walsall
+Sat Feb 14 1998,Northampton,3-1,?,Southend
+Sat Feb 14 1998,Oldham,1-0,?,Fulham
+Sat Feb 14 1998,Plymouth,0-0,?,York
+Sat Feb 14 1998,Watford,1-1,?,Luton
+Sat Feb 14 1998,Wigan,0-2,?,Grimsby
+Sat Feb 14 1998,Wrexham,1-0,?,Bristol Rvs
+Sat Feb 14 1998,Wycombe,2-1,?,Burnley
+Sat Feb 21 1998,Bristol Rvs,3-1,?,Oldham
+Sat Feb 21 1998,Burnley,1-1,?,Brentford
+Sat Feb 21 1998,Chesterfield,3-1,?,Wrexham
+Sat Feb 21 1998,Fulham,2-0,?,Wigan
+Sat Feb 21 1998,Gillingham,1-0,?,Carlisle
+Sat Feb 21 1998,Grimsby,2-1,?,Bournemouth
+Sat Feb 21 1998,Luton,0-0,?,Bristol City
+Sat Feb 21 1998,Millwall,0-0,?,Northampton
+Sat Feb 21 1998,Preston,1-1,?,Wycombe
+Sat Feb 21 1998,Southend,2-1,?,Blackpool
+Sat Feb 21 1998,Walsall,0-1,?,Plymouth
+Sat Feb 21 1998,York,1-1,?,Watford
+Tue Feb 24 1998,Bristol Rvs,3-1,?,Wycombe
+Tue Feb 24 1998,Burnley,1-2,?,Wrexham
+Tue Feb 24 1998,Chesterfield,2-1,?,Oldham
+Tue Feb 24 1998,Fulham,0-1,?,Bournemouth
+Tue Feb 24 1998,Gillingham,1-0,?,Northampton
+Tue Feb 24 1998,Grimsby,1-0,?,Blackpool
+Tue Feb 24 1998,Luton,1-1,?,Wigan
+Tue Feb 24 1998,Preston,0-3,?,Carlisle
+Tue Feb 24 1998,Southend,3-0,?,Plymouth
+Tue Feb 24 1998,Walsall,0-0,?,Brentford
+Tue Feb 24 1998,York,0-1,?,Bristol City
+Wed Feb 25 1998,Millwall,1-1,?,Watford
+Sat Feb 28 1998,Blackpool,2-1,?,Fulham
+Sat Feb 28 1998,Bournemouth,0-2,?,Preston
+Sat Feb 28 1998,Brentford,1-2,?,York
+Sat Feb 28 1998,Bristol City,1-0,?,Southend
+Sat Feb 28 1998,Carlisle,2-1,?,Burnley
+Sat Feb 28 1998,Northampton,2-1,?,Grimsby
+Sat Feb 28 1998,Oldham,1-1,?,Millwall
+Sat Feb 28 1998,Plymouth,0-2,?,Luton
+Sat Feb 28 1998,Watford,3-2,?,Bristol Rvs
+Sat Feb 28 1998,Wigan,2-1,?,Chesterfield
+Sat Feb 28 1998,Wrexham,2-1,?,Walsall
+Sat Feb 28 1998,Wycombe,1-0,?,Gillingham
+Tue Mar 3 1998,Bournemouth,3-3,?,Plymouth
+Tue Mar 3 1998,Bristol City,2-2,?,Brentford
+Tue Mar 3 1998,Carlisle,1-0,?,Millwall
+Tue Mar 3 1998,Fulham,1-0,?,Bristol Rvs
+Tue Mar 3 1998,Gillingham,2-1,?,Oldham
+Tue Mar 3 1998,Grimsby,0-0,?,Chesterfield
+Tue Mar 3 1998,Northampton,0-1,?,Wrexham
+Tue Mar 3 1998,Preston,1-0,?,Luton
+Tue Mar 3 1998,Watford,1-2,?,Walsall
+Tue Mar 3 1998,Wycombe,1-0,?,York
+Sat Mar 7 1998,Blackpool,1-1,?,Watford
+Sat Mar 7 1998,Brentford,3-2,?,Bournemouth
+Sat Mar 7 1998,Bristol Rvs,0-2,?,Northampton
+Sat Mar 7 1998,Chesterfield,0-2,?,Fulham
+Sat Mar 7 1998,Luton,0-0,?,Wycombe
+Sat Mar 7 1998,Millwall,1-0,?,Gillingham
+Sat Mar 7 1998,Plymouth,2-0,?,Preston
+Sat Mar 7 1998,Southend,0-1,?,Grimsby
+Sat Mar 7 1998,Walsall,0-0,?,Burnley
+Sat Mar 7 1998,Wrexham,2-2,?,Carlisle
+Sat Mar 7 1998,York,2-2,?,Wigan
+Tue Mar 10 1998,Bristol Rvs,1-2,?,York
+Sat Mar 14 1998,Bournemouth,0-1,?,Wrexham
+Sat Mar 14 1998,Bristol City,2-0,?,Bristol Rvs
+Sat Mar 14 1998,Burnley,1-1,?,Luton
+Sat Mar 14 1998,Carlisle,1-2,?,Brentford
+Sat Mar 14 1998,Fulham,1-2,?,Millwall
+Sat Mar 14 1998,Gillingham,1-0,?,Chesterfield
+Sat Mar 14 1998,Grimsby,3-0,?,Walsall
+Sat Mar 14 1998,Northampton,2-0,?,Blackpool
+Sat Mar 14 1998,Preston,3-2,?,York
+Sat Mar 14 1998,Watford,1-1,?,Southend
+Sat Mar 14 1998,Wigan,1-0,?,Oldham
+Sat Mar 14 1998,Wycombe,5-1,?,Plymouth
+Tue Mar 17 1998,Watford,2-1,?,Carlisle
+Tue Mar 17 1998,Wigan,1-3,?,Southend
+Tue Mar 17 1998,Wrexham,1-0,?,Millwall
+Sat Mar 21 1998,Blackpool,2-1,?,Gillingham
+Sat Mar 21 1998,Brentford,0-0,?,Northampton
+Sat Mar 21 1998,Bristol Rvs,2-2,?,Preston
+Sat Mar 21 1998,Chesterfield,2-1,?,Carlisle
+Sat Mar 21 1998,Luton,2-2,?,Grimsby
+Sat Mar 21 1998,Millwall,1-0,?,Burnley
+Sat Mar 21 1998,Oldham,2-2,?,Watford
+Sat Mar 21 1998,Plymouth,2-0,?,Bristol City
+Sat Mar 21 1998,Southend,5-3,?,Bournemouth
+Sat Mar 21 1998,Walsall,1-0,?,Wigan
+Sat Mar 21 1998,Wrexham,2-0,?,Wycombe
+Sat Mar 21 1998,York,0-1,?,Fulham
+Tue Mar 24 1998,Grimsby,1-0,?,Plymouth
+Wed Mar 25 1998,Millwall,0-1,?,Preston
+Fri Mar 27 1998,Bristol Rvs,2-0,?,Southend
+Sat Mar 28 1998,Brentford,2-1,?,Oldham
+Sat Mar 28 1998,Burnley,2-1,?,Grimsby
+Sat Mar 28 1998,Carlisle,0-1,?,Bournemouth
+Sat Mar 28 1998,Chesterfield,3-1,?,Millwall
+Sat Mar 28 1998,Gillingham,2-0,?,Fulham
+Sat Mar 28 1998,Plymouth,2-0,?,Wrexham
+Sat Mar 28 1998,Preston,1-1,?,Wigan
+Sat Mar 28 1998,Walsall,2-3,?,Luton
+Sat Mar 28 1998,Watford,1-1,?,Northampton
+Sat Mar 28 1998,Wycombe,1-2,?,Bristol City
+Sat Mar 28 1998,York,1-1,?,Blackpool
+Tue Mar 31 1998,Oldham,1-2,?,Bristol City
+Tue Mar 31 1998,Walsall,1-0,?,Gillingham
+Tue Mar 31 1998,Wrexham,0-0,?,Grimsby
+Fri Apr 3 1998,Southend,0-2,?,Chesterfield
+Sat Apr 4 1998,Blackpool,1-0,?,Walsall
+Sat Apr 4 1998,Bournemouth,0-0,?,Wycombe
+Sat Apr 4 1998,Bristol City,1-0,?,Carlisle
+Sat Apr 4 1998,Fulham,2-1,?,Preston
+Sat Apr 4 1998,Grimsby,0-0,?,Gillingham
+Sat Apr 4 1998,Luton,3-0,?,York
+Sat Apr 4 1998,Millwall,1-1,?,Bristol Rvs
+Sat Apr 4 1998,Northampton,0-1,?,Burnley
+Sat Apr 4 1998,Oldham,2-0,?,Plymouth
+Sat Apr 4 1998,Wigan,3-2,?,Watford
+Sat Apr 4 1998,Wrexham,2-2,?,Brentford
+Tue Apr 7 1998,Burnley,1-2,?,Blackpool
+Tue Apr 7 1998,Fulham,1-1,?,Walsall
+Tue Apr 7 1998,Grimsby,0-1,?,Luton
+Tue Apr 7 1998,Wigan,1-0,?,Bournemouth
+Fri Apr 10 1998,Bristol Rvs,5-0,?,Wigan
+Fri Apr 10 1998,Wycombe,1-1,?,Grimsby
+Sat Apr 11 1998,Brentford,0-2,?,Fulham
+Sat Apr 11 1998,Burnley,1-0,?,Bristol City
+Sat Apr 11 1998,Carlisle,3-1,?,Oldham
+Sat Apr 11 1998,Chesterfield,2-1,?,Northampton
+Sat Apr 11 1998,Gillingham,2-1,?,Luton
+Sat Apr 11 1998,Plymouth,3-1,?,Blackpool
+Sat Apr 11 1998,Preston,1-0,?,Southend
+Sat Apr 11 1998,Walsall,2-0,?,Millwall
+Sat Apr 11 1998,Watford,1-0,?,Wrexham
+Sat Apr 11 1998,York,0-1,?,Bournemouth
+Mon Apr 13 1998,Blackpool,1-2,?,Brentford
+Mon Apr 13 1998,Bristol City,1-1,?,Watford
+Mon Apr 13 1998,Fulham,5-0,?,Carlisle
+Mon Apr 13 1998,Grimsby,1-2,?,Bristol Rvs
+Mon Apr 13 1998,Millwall,1-1,?,Plymouth
+Mon Apr 13 1998,Northampton,2-2,?,Preston
+Mon Apr 13 1998,Oldham,0-1,?,Wycombe
+Mon Apr 13 1998,Southend,0-0,?,Gillingham
+Mon Apr 13 1998,Wigan,5-1,?,Burnley
+Mon Apr 13 1998,Wrexham,1-2,?,York
+Tue Apr 14 1998,Bournemouth,1-0,?,Walsall
+Tue Apr 14 1998,Luton,3-0,?,Chesterfield
+Sat Apr 18 1998,Brentford,0-2,?,Wigan
+Sat Apr 18 1998,Bristol Rvs,2-1,?,Luton
+Sat Apr 18 1998,Burnley,2-1,?,Fulham
+Sat Apr 18 1998,Chesterfield,1-0,?,Bristol City
+Sat Apr 18 1998,Gillingham,1-1,?,Wrexham
+Sat Apr 18 1998,Plymouth,1-3,?,Northampton
+Sat Apr 18 1998,Preston,3-3,?,Blackpool
+Sat Apr 18 1998,Walsall,0-0,?,Oldham
+Sat Apr 18 1998,Wycombe,0-0,?,Millwall
+Sat Apr 18 1998,York,1-1,?,Southend
+Tue Apr 21 1998,Carlisle,0-1,?,Grimsby
+Tue Apr 21 1998,Wigan,2-0,?,Walsall
+Fri Apr 24 1998,Wigan,0-0,?,Millwall
+Sat Apr 25 1998,Blackpool,1-0,?,Bristol Rvs
+Sat Apr 25 1998,Bournemouth,2-1,?,Burnley
+Sat Apr 25 1998,Brentford,2-2,?,Luton
+Sat Apr 25 1998,Bristol City,2-1,?,Walsall
+Sat Apr 25 1998,Carlisle,1-2,?,York
+Sat Apr 25 1998,Northampton,1-0,?,Fulham
+Sat Apr 25 1998,Oldham,2-0,?,Southend
+Sat Apr 25 1998,Plymouth,0-1,?,Gillingham
+Sat Apr 25 1998,Watford,0-0,?,Grimsby
+Sat Apr 25 1998,Wrexham,0-0,?,Preston
+Sat Apr 25 1998,Wycombe,1-1,?,Chesterfield
+Tue Apr 28 1998,Oldham,3-3,?,Burnley
+Tue Apr 28 1998,Watford,2-1,?,Bournemouth
+Sat May 2 1998,Bristol Rvs,2-1,?,Brentford
+Sat May 2 1998,Burnley,2-1,?,Plymouth
+Sat May 2 1998,Chesterfield,1-1,?,Blackpool
+Sat May 2 1998,Fulham,1-2,?,Watford
+Sat May 2 1998,Gillingham,0-0,?,Wigan
+Sat May 2 1998,Grimsby,0-2,?,Oldham
+Sat May 2 1998,Luton,3-2,?,Carlisle
+Sat May 2 1998,Millwall,1-2,?,Bournemouth
+Sat May 2 1998,Preston,2-1,?,Bristol City
+Sat May 2 1998,Southend,1-3,?,Wrexham
+Sat May 2 1998,Walsall,0-1,?,Wycombe
+Sat May 2 1998,York,0-0,?,Northampton

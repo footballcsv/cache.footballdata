@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 13 2016,Burnley,0-1,0-0,Swansea
+Sat Aug 13 2016,Crystal Palace,0-1,0-0,West Brom
+Sat Aug 13 2016,Everton,1-1,1-0,Tottenham
+Sat Aug 13 2016,Hull,2-1,1-0,Leicester
+Sat Aug 13 2016,Man City,2-1,1-0,Sunderland
+Sat Aug 13 2016,Middlesbrough,1-1,1-0,Stoke
+Sat Aug 13 2016,Southampton,1-1,0-1,Watford
+Sun Aug 14 2016,Arsenal,3-4,1-1,Liverpool
+Sun Aug 14 2016,Bournemouth,1-3,0-1,Man United
+Mon Aug 15 2016,Chelsea,2-1,0-0,West Ham
+Fri Aug 19 2016,Man United,2-0,1-0,Southampton
+Sat Aug 20 2016,Burnley,2-0,2-0,Liverpool
+Sat Aug 20 2016,Leicester,0-0,0-0,Arsenal
+Sat Aug 20 2016,Stoke,1-4,0-2,Man City
+Sat Aug 20 2016,Swansea,0-2,0-0,Hull
+Sat Aug 20 2016,Tottenham,1-0,0-0,Crystal Palace
+Sat Aug 20 2016,Watford,1-2,0-0,Chelsea
+Sat Aug 20 2016,West Brom,1-2,1-1,Everton
+Sun Aug 21 2016,Sunderland,1-2,0-2,Middlesbrough
+Sun Aug 21 2016,West Ham,1-0,0-0,Bournemouth
+Sat Aug 27 2016,Chelsea,3-0,2-0,Burnley
+Sat Aug 27 2016,Crystal Palace,1-1,0-1,Bournemouth
+Sat Aug 27 2016,Everton,1-0,0-0,Stoke
+Sat Aug 27 2016,Hull,0-1,0-0,Man United
+Sat Aug 27 2016,Leicester,2-1,1-0,Swansea
+Sat Aug 27 2016,Southampton,1-1,0-0,Sunderland
+Sat Aug 27 2016,Tottenham,1-1,0-1,Liverpool
+Sat Aug 27 2016,Watford,1-3,0-3,Arsenal
+Sun Aug 28 2016,Man City,3-1,2-0,West Ham
+Sun Aug 28 2016,West Brom,0-0,0-0,Middlesbrough
+Sat Sep 10 2016,Arsenal,2-1,1-1,Southampton
+Sat Sep 10 2016,Bournemouth,1-0,0-0,West Brom
+Sat Sep 10 2016,Burnley,1-1,0-0,Hull
+Sat Sep 10 2016,Liverpool,4-1,2-1,Leicester
+Sat Sep 10 2016,Man United,1-2,1-2,Man City
+Sat Sep 10 2016,Middlesbrough,1-2,1-1,Crystal Palace
+Sat Sep 10 2016,Stoke,0-4,0-1,Tottenham
+Sat Sep 10 2016,West Ham,2-4,2-2,Watford
+Sun Sep 11 2016,Swansea,2-2,0-1,Chelsea
+Mon Sep 12 2016,Sunderland,0-3,0-0,Everton
+Fri Sep 16 2016,Chelsea,1-2,0-2,Liverpool
+Sat Sep 17 2016,Everton,3-1,3-1,Middlesbrough
+Sat Sep 17 2016,Hull,1-4,0-1,Arsenal
+Sat Sep 17 2016,Leicester,3-0,1-0,Burnley
+Sat Sep 17 2016,Man City,4-0,2-0,Bournemouth
+Sat Sep 17 2016,West Brom,4-2,3-0,West Ham
+Sun Sep 18 2016,Crystal Palace,4-1,2-0,Stoke
+Sun Sep 18 2016,Southampton,1-0,0-0,Swansea
+Sun Sep 18 2016,Tottenham,1-0,0-0,Sunderland
+Sun Sep 18 2016,Watford,3-1,1-0,Man United
+Sat Sep 24 2016,Arsenal,3-0,3-0,Chelsea
+Sat Sep 24 2016,Bournemouth,1-0,1-0,Everton
+Sat Sep 24 2016,Liverpool,5-1,3-0,Hull
+Sat Sep 24 2016,Man United,4-1,4-0,Leicester
+Sat Sep 24 2016,Middlesbrough,1-2,0-2,Tottenham
+Sat Sep 24 2016,Stoke,1-1,0-0,West Brom
+Sat Sep 24 2016,Sunderland,2-3,1-0,Crystal Palace
+Sat Sep 24 2016,Swansea,1-3,1-1,Man City
+Sun Sep 25 2016,West Ham,0-3,0-1,Southampton
+Mon Sep 26 2016,Burnley,2-0,1-0,Watford
+Fri Sep 30 2016,Everton,1-1,1-0,Crystal Palace
+Sat Oct 1 2016,Hull,0-2,0-0,Chelsea
+Sat Oct 1 2016,Sunderland,1-1,0-1,West Brom
+Sat Oct 1 2016,Swansea,1-2,1-0,Liverpool
+Sat Oct 1 2016,Watford,2-2,0-1,Bournemouth
+Sat Oct 1 2016,West Ham,1-1,0-0,Middlesbrough
+Sun Oct 2 2016,Burnley,0-1,0-0,Arsenal
+Sun Oct 2 2016,Leicester,0-0,0-0,Southampton
+Sun Oct 2 2016,Man United,1-1,0-0,Stoke
+Sun Oct 2 2016,Tottenham,2-0,2-0,Man City
+Sat Oct 15 2016,Arsenal,3-2,2-1,Swansea
+Sat Oct 15 2016,Bournemouth,6-1,3-1,Hull
+Sat Oct 15 2016,Chelsea,3-0,2-0,Leicester
+Sat Oct 15 2016,Crystal Palace,0-1,0-1,West Ham
+Sat Oct 15 2016,Man City,1-1,0-0,Everton
+Sat Oct 15 2016,Stoke,2-0,2-0,Sunderland
+Sat Oct 15 2016,West Brom,1-1,0-0,Tottenham
+Sun Oct 16 2016,Middlesbrough,0-1,0-0,Watford
+Sun Oct 16 2016,Southampton,3-1,0-0,Burnley
+Mon Oct 17 2016,Liverpool,0-0,0-0,Man United
+Sat Oct 22 2016,Arsenal,0-0,0-0,Middlesbrough
+Sat Oct 22 2016,Bournemouth,0-0,0-0,Tottenham
+Sat Oct 22 2016,Burnley,2-1,1-0,Everton
+Sat Oct 22 2016,Hull,0-2,0-1,Stoke
+Sat Oct 22 2016,Leicester,3-1,1-0,Crystal Palace
+Sat Oct 22 2016,Liverpool,2-1,2-0,West Brom
+Sat Oct 22 2016,Swansea,0-0,0-0,Watford
+Sat Oct 22 2016,West Ham,1-0,0-0,Sunderland
+Sun Oct 23 2016,Chelsea,4-0,2-0,Man United
+Sun Oct 23 2016,Man City,1-1,0-1,Southampton
+Sat Oct 29 2016,Crystal Palace,2-4,2-3,Liverpool
+Sat Oct 29 2016,Man United,0-0,0-0,Burnley
+Sat Oct 29 2016,Middlesbrough,2-0,1-0,Bournemouth
+Sat Oct 29 2016,Sunderland,1-4,0-1,Arsenal
+Sat Oct 29 2016,Tottenham,1-1,1-0,Leicester
+Sat Oct 29 2016,Watford,1-0,0-0,Hull
+Sat Oct 29 2016,West Brom,0-4,0-2,Man City
+Sun Oct 30 2016,Everton,2-0,0-0,West Ham
+Sun Oct 30 2016,Southampton,0-2,0-1,Chelsea
+Mon Oct 31 2016,Stoke,3-1,1-1,Swansea
+Sat Nov 5 2016,Bournemouth,1-2,1-1,Sunderland
+Sat Nov 5 2016,Burnley,3-2,2-0,Crystal Palace
+Sat Nov 5 2016,Chelsea,5-0,3-0,Everton
+Sat Nov 5 2016,Man City,1-1,1-0,Middlesbrough
+Sat Nov 5 2016,West Ham,1-1,0-0,Stoke
+Sun Nov 6 2016,Arsenal,1-1,1-0,Tottenham
+Sun Nov 6 2016,Hull,2-1,0-1,Southampton
+Sun Nov 6 2016,Leicester,1-2,0-0,West Brom
+Sun Nov 6 2016,Liverpool,6-1,3-0,Watford
+Sun Nov 6 2016,Swansea,1-3,0-3,Man United
+Sat Nov 19 2016,Crystal Palace,1-2,0-1,Man City
+Sat Nov 19 2016,Everton,1-1,0-1,Swansea
+Sat Nov 19 2016,Man United,1-1,0-0,Arsenal
+Sat Nov 19 2016,Southampton,0-0,0-0,Liverpool
+Sat Nov 19 2016,Stoke,0-1,0-1,Bournemouth
+Sat Nov 19 2016,Sunderland,3-0,1-0,Hull
+Sat Nov 19 2016,Tottenham,3-2,0-1,West Ham
+Sat Nov 19 2016,Watford,2-1,2-1,Leicester
+Sun Nov 20 2016,Middlesbrough,0-1,0-1,Chelsea
+Mon Nov 21 2016,West Brom,4-0,3-0,Burnley
+Sat Nov 26 2016,Burnley,1-2,1-1,Man City
+Sat Nov 26 2016,Chelsea,2-1,1-1,Tottenham
+Sat Nov 26 2016,Hull,1-1,0-1,West Brom
+Sat Nov 26 2016,Leicester,2-2,1-1,Middlesbrough
+Sat Nov 26 2016,Liverpool,2-0,0-0,Sunderland
+Sat Nov 26 2016,Swansea,5-4,1-1,Crystal Palace
+Sun Nov 27 2016,Arsenal,3-1,1-1,Bournemouth
+Sun Nov 27 2016,Man United,1-1,1-1,West Ham
+Sun Nov 27 2016,Southampton,1-0,1-0,Everton
+Sun Nov 27 2016,Watford,0-1,0-1,Stoke
+Sat Dec 3 2016,Crystal Palace,3-0,2-0,Southampton
+Sat Dec 3 2016,Man City,1-3,1-0,Chelsea
+Sat Dec 3 2016,Stoke,2-0,2-0,Burnley
+Sat Dec 3 2016,Sunderland,2-1,0-0,Leicester
+Sat Dec 3 2016,Tottenham,5-0,2-0,Swansea
+Sat Dec 3 2016,West Brom,3-1,2-0,Watford
+Sat Dec 3 2016,West Ham,1-5,0-1,Arsenal
+Sun Dec 4 2016,Bournemouth,4-3,0-2,Liverpool
+Sun Dec 4 2016,Everton,1-1,0-1,Man United
+Mon Dec 5 2016,Middlesbrough,1-0,0-0,Hull
+Sat Dec 10 2016,Arsenal,3-1,1-1,Stoke
+Sat Dec 10 2016,Burnley,3-2,2-1,Bournemouth
+Sat Dec 10 2016,Hull,3-3,1-0,Crystal Palace
+Sat Dec 10 2016,Leicester,4-2,3-0,Man City
+Sat Dec 10 2016,Swansea,3-0,0-0,Sunderland
+Sat Dec 10 2016,Watford,3-2,1-1,Everton
+Sun Dec 11 2016,Chelsea,1-0,0-0,West Brom
+Sun Dec 11 2016,Liverpool,2-2,1-2,West Ham
+Sun Dec 11 2016,Man United,1-0,1-0,Tottenham
+Sun Dec 11 2016,Southampton,1-0,0-0,Middlesbrough
+Tue Dec 13 2016,Bournemouth,1-0,1-0,Leicester
+Tue Dec 13 2016,Everton,2-1,1-1,Arsenal
+Wed Dec 14 2016,Crystal Palace,1-2,0-1,Man United
+Wed Dec 14 2016,Man City,2-0,1-0,Watford
+Wed Dec 14 2016,Middlesbrough,0-3,0-1,Liverpool
+Wed Dec 14 2016,Stoke,0-0,0-0,Southampton
+Wed Dec 14 2016,Sunderland,0-1,0-1,Chelsea
+Wed Dec 14 2016,Tottenham,3-0,1-0,Hull
+Wed Dec 14 2016,West Brom,3-1,0-0,Swansea
+Wed Dec 14 2016,West Ham,1-0,1-0,Burnley
+Sat Dec 17 2016,Crystal Palace,0-1,0-1,Chelsea
+Sat Dec 17 2016,Middlesbrough,3-0,2-0,Swansea
+Sat Dec 17 2016,Stoke,2-2,2-0,Leicester
+Sat Dec 17 2016,Sunderland,1-0,0-0,Watford
+Sat Dec 17 2016,West Brom,0-2,0-1,Man United
+Sat Dec 17 2016,West Ham,1-0,0-0,Hull
+Sun Dec 18 2016,Bournemouth,1-3,1-1,Southampton
+Sun Dec 18 2016,Man City,2-1,0-1,Arsenal
+Sun Dec 18 2016,Tottenham,2-1,1-1,Burnley
+Mon Dec 19 2016,Everton,0-1,0-0,Liverpool
+Mon Dec 26 2016,Arsenal,1-0,0-0,West Brom
+Mon Dec 26 2016,Burnley,1-0,0-0,Middlesbrough
+Mon Dec 26 2016,Chelsea,3-0,1-0,Bournemouth
+Mon Dec 26 2016,Hull,0-3,0-0,Man City
+Mon Dec 26 2016,Leicester,0-2,0-0,Everton
+Mon Dec 26 2016,Man United,3-1,1-0,Sunderland
+Mon Dec 26 2016,Swansea,1-4,0-1,West Ham
+Mon Dec 26 2016,Watford,1-1,0-1,Crystal Palace
+Tue Dec 27 2016,Liverpool,4-1,2-1,Stoke
+Wed Dec 28 2016,Southampton,1-4,1-1,Tottenham
+Fri Dec 30 2016,Hull,2-2,1-1,Everton
+Sat Dec 31 2016,Burnley,4-1,1-0,Sunderland
+Sat Dec 31 2016,Chelsea,4-2,1-0,Stoke
+Sat Dec 31 2016,Leicester,1-0,1-0,West Ham
+Sat Dec 31 2016,Liverpool,1-0,1-0,Man City
+Sat Dec 31 2016,Man United,2-1,0-0,Middlesbrough
+Sat Dec 31 2016,Southampton,1-2,1-1,West Brom
+Sat Dec 31 2016,Swansea,0-3,0-2,Bournemouth
+Sun Jan 1 2017,Arsenal,2-0,1-0,Crystal Palace
+Sun Jan 1 2017,Watford,1-4,0-3,Tottenham
+Mon Jan 2 2017,Everton,3-0,0-0,Southampton
+Mon Jan 2 2017,Man City,2-1,0-0,Burnley
+Mon Jan 2 2017,Middlesbrough,0-0,0-0,Leicester
+Mon Jan 2 2017,Sunderland,2-2,1-1,Liverpool
+Mon Jan 2 2017,West Brom,3-1,0-1,Hull
+Mon Jan 2 2017,West Ham,0-2,0-0,Man United
+Tue Jan 3 2017,Bournemouth,3-3,2-0,Arsenal
+Tue Jan 3 2017,Crystal Palace,1-2,0-1,Swansea
+Tue Jan 3 2017,Stoke,2-0,1-0,Watford
+Wed Jan 4 2017,Tottenham,2-0,1-0,Chelsea
+Sat Jan 14 2017,Burnley,1-0,0-0,Southampton
+Sat Jan 14 2017,Hull,3-1,1-1,Bournemouth
+Sat Jan 14 2017,Leicester,0-3,0-1,Chelsea
+Sat Jan 14 2017,Sunderland,1-3,1-3,Stoke
+Sat Jan 14 2017,Swansea,0-4,0-1,Arsenal
+Sat Jan 14 2017,Tottenham,4-0,2-0,West Brom
+Sat Jan 14 2017,Watford,0-0,0-0,Middlesbrough
+Sat Jan 14 2017,West Ham,3-0,0-0,Crystal Palace
+Sun Jan 15 2017,Everton,4-0,1-0,Man City
+Sun Jan 15 2017,Man United,1-1,0-1,Liverpool
+Sat Jan 21 2017,Bournemouth,2-2,0-1,Watford
+Sat Jan 21 2017,Crystal Palace,0-1,0-0,Everton
+Sat Jan 21 2017,Liverpool,2-3,0-0,Swansea
+Sat Jan 21 2017,Man City,2-2,0-0,Tottenham
+Sat Jan 21 2017,Middlesbrough,1-3,1-2,West Ham
+Sat Jan 21 2017,Stoke,1-1,1-0,Man United
+Sat Jan 21 2017,West Brom,2-0,2-0,Sunderland
+Sun Jan 22 2017,Arsenal,2-1,0-0,Burnley
+Sun Jan 22 2017,Chelsea,2-0,1-0,Hull
+Sun Jan 22 2017,Southampton,3-0,2-0,Leicester
+Tue Jan 31 2017,Arsenal,1-2,0-2,Watford
+Tue Jan 31 2017,Bournemouth,0-2,0-0,Crystal Palace
+Tue Jan 31 2017,Burnley,1-0,0-0,Leicester
+Tue Jan 31 2017,Liverpool,1-1,0-1,Chelsea
+Tue Jan 31 2017,Middlesbrough,1-1,1-1,West Brom
+Tue Jan 31 2017,Sunderland,0-0,0-0,Tottenham
+Tue Jan 31 2017,Swansea,2-1,1-0,Southampton
+Wed Feb 1 2017,Man United,0-0,0-0,Hull
+Wed Feb 1 2017,Stoke,1-1,1-1,Everton
+Wed Feb 1 2017,West Ham,0-4,0-3,Man City
+Sat Feb 4 2017,Chelsea,3-1,1-0,Arsenal
+Sat Feb 4 2017,Crystal Palace,0-4,0-4,Sunderland
+Sat Feb 4 2017,Everton,6-3,3-0,Bournemouth
+Sat Feb 4 2017,Hull,2-0,1-0,Liverpool
+Sat Feb 4 2017,Southampton,1-3,1-2,West Ham
+Sat Feb 4 2017,Tottenham,1-0,0-0,Middlesbrough
+Sat Feb 4 2017,Watford,2-1,2-0,Burnley
+Sat Feb 4 2017,West Brom,1-0,1-0,Stoke
+Sun Feb 5 2017,Leicester,0-3,0-2,Man United
+Sun Feb 5 2017,Man City,2-1,1-0,Swansea
+Sat Feb 11 2017,Arsenal,2-0,1-0,Hull
+Sat Feb 11 2017,Liverpool,2-0,2-0,Tottenham
+Sat Feb 11 2017,Man United,2-0,1-0,Watford
+Sat Feb 11 2017,Middlesbrough,0-0,0-0,Everton
+Sat Feb 11 2017,Stoke,1-0,0-0,Crystal Palace
+Sat Feb 11 2017,Sunderland,0-4,0-2,Southampton
+Sat Feb 11 2017,West Ham,2-2,0-1,West Brom
+Sun Feb 12 2017,Burnley,1-1,1-1,Chelsea
+Sun Feb 12 2017,Swansea,2-0,2-0,Leicester
+Mon Feb 13 2017,Bournemouth,0-2,0-1,Man City
+Sat Feb 25 2017,Chelsea,3-1,1-1,Swansea
+Sat Feb 25 2017,Crystal Palace,1-0,1-0,Middlesbrough
+Sat Feb 25 2017,Everton,2-0,1-0,Sunderland
+Sat Feb 25 2017,Hull,1-1,0-0,Burnley
+Sat Feb 25 2017,Watford,1-1,1-0,West Ham
+Sat Feb 25 2017,West Brom,2-1,2-1,Bournemouth
+Sun Feb 26 2017,Tottenham,4-0,4-0,Stoke
+Mon Feb 27 2017,Leicester,3-1,2-0,Liverpool
+Sat Mar 4 2017,Leicester,3-1,1-1,Hull
+Sat Mar 4 2017,Liverpool,3-1,2-0,Arsenal
+Sat Mar 4 2017,Man United,1-1,1-1,Bournemouth
+Sat Mar 4 2017,Stoke,2-0,2-0,Middlesbrough
+Sat Mar 4 2017,Swansea,3-2,1-1,Burnley
+Sat Mar 4 2017,Watford,3-4,1-2,Southampton
+Sat Mar 4 2017,West Brom,0-2,0-0,Crystal Palace
+Sun Mar 5 2017,Sunderland,0-2,0-1,Man City
+Sun Mar 5 2017,Tottenham,3-2,1-0,Everton
+Mon Mar 6 2017,West Ham,1-2,0-1,Chelsea
+Wed Mar 8 2017,Man City,0-0,0-0,Stoke
+Sat Mar 11 2017,Bournemouth,3-2,1-1,West Ham
+Sat Mar 11 2017,Everton,3-0,2-0,West Brom
+Sat Mar 11 2017,Hull,2-1,0-0,Swansea
+Sun Mar 12 2017,Liverpool,2-1,1-1,Burnley
+Sat Mar 18 2017,Bournemouth,2-0,1-0,Swansea
+Sat Mar 18 2017,Crystal Palace,1-0,0-0,Watford
+Sat Mar 18 2017,Everton,4-0,1-0,Hull
+Sat Mar 18 2017,Stoke,1-2,1-1,Chelsea
+Sat Mar 18 2017,Sunderland,0-0,0-0,Burnley
+Sat Mar 18 2017,West Brom,3-1,1-1,Arsenal
+Sat Mar 18 2017,West Ham,2-3,1-3,Leicester
+Sun Mar 19 2017,Man City,1-1,0-0,Liverpool
+Sun Mar 19 2017,Middlesbrough,1-3,0-1,Man United
+Sun Mar 19 2017,Tottenham,2-1,2-0,Southampton
+Sat Apr 1 2017,Burnley,0-2,0-0,Tottenham
+Sat Apr 1 2017,Chelsea,1-2,1-2,Crystal Palace
+Sat Apr 1 2017,Hull,2-1,0-1,West Ham
+Sat Apr 1 2017,Leicester,2-0,1-0,Stoke
+Sat Apr 1 2017,Liverpool,3-1,2-1,Everton
+Sat Apr 1 2017,Man United,0-0,0-0,West Brom
+Sat Apr 1 2017,Southampton,0-0,0-0,Bournemouth
+Sat Apr 1 2017,Watford,1-0,0-0,Sunderland
+Sun Apr 2 2017,Arsenal,2-2,1-2,Man City
+Sun Apr 2 2017,Swansea,0-0,0-0,Middlesbrough
+Tue Apr 4 2017,Burnley,1-0,0-0,Stoke
+Tue Apr 4 2017,Leicester,2-0,0-0,Sunderland
+Tue Apr 4 2017,Man United,1-1,0-1,Everton
+Tue Apr 4 2017,Watford,2-0,1-0,West Brom
+Wed Apr 5 2017,Arsenal,3-0,0-0,West Ham
+Wed Apr 5 2017,Chelsea,2-1,2-1,Man City
+Wed Apr 5 2017,Hull,4-2,3-2,Middlesbrough
+Wed Apr 5 2017,Liverpool,2-2,1-1,Bournemouth
+Wed Apr 5 2017,Southampton,3-1,1-1,Crystal Palace
+Wed Apr 5 2017,Swansea,1-3,1-0,Tottenham
+Sat Apr 8 2017,Bournemouth,1-3,1-2,Chelsea
+Sat Apr 8 2017,Man City,3-1,1-0,Hull
+Sat Apr 8 2017,Middlesbrough,0-0,0-0,Burnley
+Sat Apr 8 2017,Stoke,1-2,1-0,Liverpool
+Sat Apr 8 2017,Tottenham,4-0,3-0,Watford
+Sat Apr 8 2017,West Brom,0-1,0-1,Southampton
+Sat Apr 8 2017,West Ham,1-0,1-0,Swansea
+Sun Apr 9 2017,Everton,4-2,3-2,Leicester
+Sun Apr 9 2017,Sunderland,0-3,0-1,Man United
+Mon Apr 10 2017,Crystal Palace,3-0,1-0,Arsenal
+Sat Apr 15 2017,Crystal Palace,2-2,0-1,Leicester
+Sat Apr 15 2017,Everton,3-1,0-0,Burnley
+Sat Apr 15 2017,Southampton,0-3,0-0,Man City
+Sat Apr 15 2017,Stoke,3-1,1-0,Hull
+Sat Apr 15 2017,Sunderland,2-2,1-1,West Ham
+Sat Apr 15 2017,Tottenham,4-0,2-0,Bournemouth
+Sat Apr 15 2017,Watford,1-0,1-0,Swansea
+Sun Apr 16 2017,Man United,2-0,1-0,Chelsea
+Sun Apr 16 2017,West Brom,0-1,0-1,Liverpool
+Mon Apr 17 2017,Middlesbrough,1-2,0-1,Arsenal
+Sat Apr 22 2017,Bournemouth,4-0,2-0,Middlesbrough
+Sat Apr 22 2017,Hull,2-0,0-0,Watford
+Sat Apr 22 2017,Swansea,2-0,1-0,Stoke
+Sat Apr 22 2017,West Ham,0-0,0-0,Everton
+Sun Apr 23 2017,Burnley,0-2,0-2,Man United
+Sun Apr 23 2017,Liverpool,1-2,1-1,Crystal Palace
+Tue Apr 25 2017,Chelsea,4-2,2-1,Southampton
+Wed Apr 26 2017,Arsenal,1-0,0-0,Leicester
+Wed Apr 26 2017,Crystal Palace,0-1,0-0,Tottenham
+Wed Apr 26 2017,Middlesbrough,1-0,1-0,Sunderland
+Thu Apr 27 2017,Man City,0-0,0-0,Man United
+Sat Apr 29 2017,Crystal Palace,0-2,0-1,Burnley
+Sat Apr 29 2017,Southampton,0-0,0-0,Hull
+Sat Apr 29 2017,Stoke,0-0,0-0,West Ham
+Sat Apr 29 2017,Sunderland,0-1,0-0,Bournemouth
+Sat Apr 29 2017,West Brom,0-1,0-1,Leicester
+Sun Apr 30 2017,Everton,0-3,0-0,Chelsea
+Sun Apr 30 2017,Man United,1-1,1-0,Swansea
+Sun Apr 30 2017,Middlesbrough,2-2,1-0,Man City
+Sun Apr 30 2017,Tottenham,2-0,0-0,Arsenal
+Mon May 1 2017,Watford,0-1,0-1,Liverpool
+Fri May 5 2017,West Ham,1-0,0-0,Tottenham
+Sat May 6 2017,Bournemouth,2-2,0-1,Stoke
+Sat May 6 2017,Burnley,2-2,0-0,West Brom
+Sat May 6 2017,Hull,0-2,0-0,Sunderland
+Sat May 6 2017,Leicester,3-0,1-0,Watford
+Sat May 6 2017,Man City,5-0,1-0,Crystal Palace
+Sat May 6 2017,Swansea,1-0,1-0,Everton
+Sun May 7 2017,Arsenal,2-0,0-0,Man United
+Sun May 7 2017,Liverpool,0-0,0-0,Southampton
+Mon May 8 2017,Chelsea,3-0,2-0,Middlesbrough
+Wed May 10 2017,Southampton,0-2,0-0,Arsenal
+Fri May 12 2017,Everton,1-0,0-0,Watford
+Fri May 12 2017,West Brom,0-1,0-0,Chelsea
+Sat May 13 2017,Bournemouth,2-1,1-0,Burnley
+Sat May 13 2017,Man City,2-1,2-1,Leicester
+Sat May 13 2017,Middlesbrough,1-2,0-1,Southampton
+Sat May 13 2017,Stoke,1-4,0-1,Arsenal
+Sat May 13 2017,Sunderland,0-2,0-2,Swansea
+Sun May 14 2017,Crystal Palace,4-0,2-0,Hull
+Sun May 14 2017,Tottenham,2-1,1-0,Man United
+Sun May 14 2017,West Ham,0-4,0-1,Liverpool
+Mon May 15 2017,Chelsea,4-3,2-1,Watford
+Tue May 16 2017,Arsenal,2-0,0-0,Sunderland
+Tue May 16 2017,Man City,3-1,2-0,West Brom
+Wed May 17 2017,Southampton,0-0,0-0,Man United
+Thu May 18 2017,Leicester,1-6,0-2,Tottenham
+Sun May 21 2017,Arsenal,3-1,2-0,Everton
+Sun May 21 2017,Burnley,1-2,1-1,West Ham
+Sun May 21 2017,Chelsea,5-1,1-1,Sunderland
+Sun May 21 2017,Hull,1-7,0-3,Tottenham
+Sun May 21 2017,Leicester,1-1,0-1,Bournemouth
+Sun May 21 2017,Liverpool,3-0,1-0,Middlesbrough
+Sun May 21 2017,Man United,2-0,2-0,Crystal Palace
+Sun May 21 2017,Southampton,0-1,0-0,Stoke
+Sun May 21 2017,Swansea,2-1,0-1,West Brom
+Sun May 21 2017,Watford,0-5,0-4,Man City

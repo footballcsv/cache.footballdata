@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 18 2012,Bury,0-0,0-0,Brentford
+Sat Aug 18 2012,Crawley Town,3-0,1-0,Scunthorpe
+Sat Aug 18 2012,Crewe,1-2,0-1,Notts County
+Sat Aug 18 2012,Hartlepool,0-0,0-0,Swindon
+Sat Aug 18 2012,Milton Keynes Dons,2-0,1-0,Oldham
+Sat Aug 18 2012,Portsmouth,1-1,1-0,Bournemouth
+Sat Aug 18 2012,Preston,0-0,0-0,Colchester
+Sat Aug 18 2012,Sheffield United,1-0,1-0,Shrewsbury
+Sat Aug 18 2012,Stevenage,1-1,0-0,Carlisle
+Sat Aug 18 2012,Tranmere,3-1,1-0,Leyton Orient
+Sat Aug 18 2012,Walsall,0-3,0-2,Doncaster
+Sat Aug 18 2012,Yeovil,1-1,1-1,Coventry
+Tue Aug 21 2012,Bournemouth,1-1,1-0,Milton Keynes Dons
+Tue Aug 21 2012,Brentford,1-3,0-1,Yeovil
+Tue Aug 21 2012,Carlisle,0-3,0-2,Tranmere
+Tue Aug 21 2012,Colchester,2-2,1-1,Portsmouth
+Tue Aug 21 2012,Coventry,1-1,0-0,Sheffield United
+Tue Aug 21 2012,Doncaster,2-1,1-1,Bury
+Tue Aug 21 2012,Leyton Orient,0-1,0-1,Stevenage
+Tue Aug 21 2012,Notts County,2-0,1-0,Hartlepool
+Tue Aug 21 2012,Oldham,1-1,1-0,Walsall
+Tue Aug 21 2012,Scunthorpe,1-2,1-1,Crewe
+Tue Aug 21 2012,Shrewsbury,1-0,1-0,Preston
+Tue Aug 21 2012,Swindon,3-0,2-0,Crawley Town
+Sat Aug 25 2012,Bournemouth,1-1,0-0,Preston
+Sat Aug 25 2012,Brentford,5-1,3-0,Crewe
+Sat Aug 25 2012,Carlisle,4-2,1-0,Portsmouth
+Sat Aug 25 2012,Colchester,1-1,0-1,Sheffield United
+Sat Aug 25 2012,Coventry,2-2,2-0,Bury
+Sat Aug 25 2012,Doncaster,0-1,0-0,Crawley Town
+Sat Aug 25 2012,Notts County,0-1,0-0,Walsall
+Sat Aug 25 2012,Oldham,0-1,0-1,Stevenage
+Sat Aug 25 2012,Scunthorpe,0-4,0-1,Yeovil
+Sat Aug 25 2012,Shrewsbury,1-1,1-0,Tranmere
+Sat Aug 25 2012,Swindon,1-0,1-0,Milton Keynes Dons
+Sat Sep 1 2012,Bury,0-2,0-1,Notts County
+Sat Sep 1 2012,Crawley Town,1-0,0-0,Leyton Orient
+Sat Sep 1 2012,Crewe,1-0,1-0,Coventry
+Sat Sep 1 2012,Hartlepool,2-0,1-0,Scunthorpe
+Sat Sep 1 2012,Milton Keynes Dons,2-0,1-0,Carlisle
+Sat Sep 1 2012,Portsmouth,0-1,0-0,Oldham
+Sat Sep 1 2012,Sheffield United,5-3,3-1,Bournemouth
+Sat Sep 1 2012,Stevenage,1-1,1-1,Shrewsbury
+Sat Sep 1 2012,Tranmere,4-0,1-0,Colchester
+Sat Sep 1 2012,Walsall,2-2,2-0,Brentford
+Sat Sep 1 2012,Yeovil,2-1,0-0,Doncaster
+Sun Sep 2 2012,Preston,4-1,3-0,Swindon
+Sat Sep 8 2012,Brentford,1-0,0-0,Colchester
+Sat Sep 8 2012,Bury,1-2,0-1,Preston
+Sat Sep 8 2012,Crewe,0-0,0-0,Tranmere
+Sat Sep 8 2012,Hartlepool,1-2,1-0,Carlisle
+Sat Sep 8 2012,Notts County,3-2,0-0,Shrewsbury
+Sat Sep 8 2012,Scunthorpe,1-1,0-0,Sheffield United
+Sat Sep 8 2012,Swindon,0-1,0-0,Leyton Orient
+Sat Sep 8 2012,Walsall,1-0,1-0,Milton Keynes Dons
+Sat Sep 8 2012,Yeovil,0-1,0-1,Bournemouth
+Sun Sep 9 2012,Coventry,1-2,1-1,Stevenage
+Sun Sep 9 2012,Crawley Town,0-3,0-0,Portsmouth
+Thu Sep 13 2012,Leyton Orient,1-0,0-0,Brentford
+Sat Sep 15 2012,Bournemouth,1-1,0-0,Hartlepool
+Sat Sep 15 2012,Carlisle,2-2,2-2,Swindon
+Sat Sep 15 2012,Colchester,1-2,1-1,Doncaster
+Sat Sep 15 2012,Milton Keynes Dons,1-0,0-0,Yeovil
+Sat Sep 15 2012,Oldham,2-2,0-0,Notts County
+Sat Sep 15 2012,Portsmouth,1-2,0-0,Walsall
+Sat Sep 15 2012,Preston,1-2,0-0,Crawley Town
+Sat Sep 15 2012,Sheffield United,1-1,1-1,Bury
+Sat Sep 15 2012,Shrewsbury,0-1,0-1,Scunthorpe
+Sat Sep 15 2012,Stevenage,2-2,1-2,Crewe
+Sat Sep 15 2012,Tranmere,2-0,0-0,Coventry
+Tue Sep 18 2012,Bournemouth,2-2,2-1,Brentford
+Tue Sep 18 2012,Carlisle,0-0,0-0,Crewe
+Tue Sep 18 2012,Colchester,1-1,0-0,Crawley Town
+Tue Sep 18 2012,Leyton Orient,4-1,2-0,Yeovil
+Tue Sep 18 2012,Milton Keynes Dons,1-1,0-1,Notts County
+Tue Sep 18 2012,Oldham,1-1,1-1,Scunthorpe
+Tue Sep 18 2012,Portsmouth,1-2,0-1,Swindon
+Tue Sep 18 2012,Preston,5-0,2-0,Hartlepool
+Tue Sep 18 2012,Sheffield United,0-0,0-0,Doncaster
+Tue Sep 18 2012,Shrewsbury,4-1,2-0,Coventry
+Tue Sep 18 2012,Stevenage,3-1,1-0,Walsall
+Tue Sep 18 2012,Tranmere,3-0,1-0,Bury
+Sat Sep 22 2012,Brentford,1-0,1-0,Oldham
+Sat Sep 22 2012,Bury,1-4,0-1,Milton Keynes Dons
+Sat Sep 22 2012,Coventry,1-2,1-1,Carlisle
+Sat Sep 22 2012,Crawley Town,2-5,2-2,Tranmere
+Sat Sep 22 2012,Crewe,1-1,1-1,Leyton Orient
+Sat Sep 22 2012,Doncaster,1-1,0-1,Stevenage
+Sat Sep 22 2012,Hartlepool,2-2,1-1,Shrewsbury
+Sat Sep 22 2012,Notts County,3-0,1-0,Portsmouth
+Sat Sep 22 2012,Scunthorpe,1-0,0-0,Colchester
+Sat Sep 22 2012,Swindon,4-0,2-0,Bournemouth
+Sat Sep 22 2012,Walsall,3-1,1-1,Preston
+Sat Sep 22 2012,Yeovil,0-1,0-0,Sheffield United
+Sat Sep 29 2012,Bournemouth,1-2,0-1,Walsall
+Sat Sep 29 2012,Carlisle,0-2,0-0,Crawley Town
+Sat Sep 29 2012,Colchester,3-1,2-1,Hartlepool
+Sat Sep 29 2012,Leyton Orient,0-2,0-2,Doncaster
+Sat Sep 29 2012,Milton Keynes Dons,1-0,1-0,Crewe
+Sat Sep 29 2012,Oldham,0-1,0-0,Coventry
+Sat Sep 29 2012,Portsmouth,2-1,1-1,Scunthorpe
+Sat Sep 29 2012,Preston,3-2,0-1,Yeovil
+Sat Sep 29 2012,Sheffield United,1-1,0-0,Notts County
+Sat Sep 29 2012,Shrewsbury,0-1,0-0,Swindon
+Sat Sep 29 2012,Stevenage,2-2,0-1,Bury
+Sat Sep 29 2012,Tranmere,1-1,0-0,Brentford
+Tue Oct 2 2012,Brentford,0-0,0-0,Shrewsbury
+Tue Oct 2 2012,Coventry,1-1,1-1,Milton Keynes Dons
+Tue Oct 2 2012,Crawley Town,3-1,2-0,Bournemouth
+Tue Oct 2 2012,Crewe,0-2,0-0,Oldham
+Tue Oct 2 2012,Doncaster,1-3,1-1,Preston
+Tue Oct 2 2012,Hartlepool,1-2,0-1,Sheffield United
+Tue Oct 2 2012,Notts County,1-2,0-0,Stevenage
+Tue Oct 2 2012,Scunthorpe,1-3,1-0,Tranmere
+Tue Oct 2 2012,Swindon,0-1,0-0,Colchester
+Tue Oct 2 2012,Walsall,1-2,0-2,Leyton Orient
+Tue Oct 2 2012,Yeovil,1-2,0-1,Portsmouth
+Sat Oct 6 2012,Brentford,2-1,1-0,Crawley Town
+Sat Oct 6 2012,Bury,0-1,0-1,Swindon
+Sat Oct 6 2012,Coventry,1-0,0-0,Bournemouth
+Sat Oct 6 2012,Crewe,2-1,1-1,Hartlepool
+Sat Oct 6 2012,Doncaster,1-0,1-0,Shrewsbury
+Sat Oct 6 2012,Leyton Orient,0-1,0-0,Sheffield United
+Sat Oct 6 2012,Milton Keynes Dons,2-2,1-2,Portsmouth
+Sat Oct 6 2012,Notts County,0-1,0-1,Tranmere
+Sat Oct 6 2012,Oldham,3-1,1-0,Preston
+Sat Oct 6 2012,Stevenage,1-0,0-0,Scunthorpe
+Sat Oct 6 2012,Walsall,1-2,1-1,Carlisle
+Sat Oct 6 2012,Yeovil,3-1,2-1,Colchester
+Sat Oct 13 2012,Bournemouth,2-0,0-0,Leyton Orient
+Sat Oct 13 2012,Carlisle,0-4,0-2,Notts County
+Sat Oct 13 2012,Colchester,1-0,0-0,Stevenage
+Sat Oct 13 2012,Crawley Town,3-2,1-0,Bury
+Sat Oct 13 2012,Hartlepool,1-1,0-0,Doncaster
+Sat Oct 13 2012,Portsmouth,2-0,2-0,Crewe
+Sat Oct 13 2012,Scunthorpe,1-1,0-1,Brentford
+Sat Oct 13 2012,Sheffield United,1-1,0-0,Oldham
+Sat Oct 13 2012,Swindon,2-2,0-2,Coventry
+Sat Oct 13 2012,Tranmere,3-2,1-2,Yeovil
+Sun Oct 14 2012,Preston,0-0,0-0,Milton Keynes Dons
+Sun Oct 14 2012,Shrewsbury,1-0,1-0,Walsall
+Tue Oct 16 2012,Bury,1-1,1-0,Carlisle
+Tue Oct 16 2012,Leyton Orient,1-0,0-0,Hartlepool
+Sat Oct 20 2012,Bournemouth,3-1,0-1,Tranmere
+Sat Oct 20 2012,Colchester,2-0,2-0,Carlisle
+Sat Oct 20 2012,Coventry,1-2,0-1,Notts County
+Sat Oct 20 2012,Doncaster,2-1,0-1,Brentford
+Sat Oct 20 2012,Hartlepool,0-1,0-1,Crawley Town
+Sat Oct 20 2012,Milton Keynes Dons,0-1,0-1,Stevenage
+Sat Oct 20 2012,Oldham,2-0,0-0,Leyton Orient
+Sat Oct 20 2012,Portsmouth,2-1,0-0,Shrewsbury
+Sat Oct 20 2012,Preston,0-1,0-1,Sheffield United
+Sat Oct 20 2012,Swindon,1-1,1-0,Scunthorpe
+Sat Oct 20 2012,Walsall,2-2,2-1,Crewe
+Sat Oct 20 2012,Yeovil,2-1,1-0,Bury
+Tue Oct 23 2012,Brentford,2-1,1-1,Coventry
+Tue Oct 23 2012,Bury,2-1,1-0,Hartlepool
+Tue Oct 23 2012,Carlisle,3-1,0-0,Oldham
+Tue Oct 23 2012,Crawley Town,2-0,1-0,Milton Keynes Dons
+Tue Oct 23 2012,Crewe,2-1,2-1,Swindon
+Tue Oct 23 2012,Leyton Orient,0-2,0-1,Colchester
+Tue Oct 23 2012,Notts County,3-3,2-0,Bournemouth
+Tue Oct 23 2012,Scunthorpe,2-3,1-3,Preston
+Tue Oct 23 2012,Sheffield United,1-0,1-0,Walsall
+Tue Oct 23 2012,Shrewsbury,1-3,0-1,Yeovil
+Tue Oct 23 2012,Stevenage,2-1,1-0,Portsmouth
+Tue Oct 23 2012,Tranmere,1-2,0-0,Doncaster
+Sat Oct 27 2012,Brentford,2-2,1-1,Hartlepool
+Sat Oct 27 2012,Bury,1-1,1-1,Walsall
+Sat Oct 27 2012,Carlisle,2-4,1-2,Bournemouth
+Sat Oct 27 2012,Crawley Town,1-1,0-0,Oldham
+Sat Oct 27 2012,Crewe,0-1,0-1,Yeovil
+Sat Oct 27 2012,Leyton Orient,0-1,0-1,Coventry
+Sat Oct 27 2012,Notts County,0-2,0-0,Doncaster
+Sat Oct 27 2012,Scunthorpe,0-3,0-2,Milton Keynes Dons
+Sat Oct 27 2012,Shrewsbury,2-2,0-1,Colchester
+Sat Oct 27 2012,Stevenage,0-4,0-3,Swindon
+Sat Oct 27 2012,Tranmere,1-1,0-0,Preston
+Mon Oct 29 2012,Sheffield United,1-0,0-0,Portsmouth
+Tue Nov 6 2012,Bournemouth,2-1,2-1,Shrewsbury
+Tue Nov 6 2012,Colchester,0-2,0-2,Notts County
+Tue Nov 6 2012,Coventry,3-1,2-0,Crawley Town
+Tue Nov 6 2012,Doncaster,0-2,0-1,Crewe
+Tue Nov 6 2012,Oldham,1-2,0-1,Bury
+Tue Nov 6 2012,Portsmouth,0-1,0-1,Brentford
+Tue Nov 6 2012,Preston,1-1,0-1,Carlisle
+Tue Nov 6 2012,Swindon,0-0,0-0,Sheffield United
+Tue Nov 6 2012,Walsall,1-4,0-2,Scunthorpe
+Tue Nov 6 2012,Yeovil,1-3,1-1,Stevenage
+Wed Nov 7 2012,Hartlepool,0-2,0-0,Tranmere
+Wed Nov 7 2012,Milton Keynes Dons,1-0,1-0,Leyton Orient
+Sat Nov 10 2012,Brentford,2-1,1-1,Carlisle
+Sat Nov 10 2012,Bury,2-0,1-0,Portsmouth
+Sat Nov 10 2012,Coventry,1-2,1-1,Scunthorpe
+Sat Nov 10 2012,Crewe,3-2,0-2,Colchester
+Sat Nov 10 2012,Doncaster,0-1,0-1,Bournemouth
+Sat Nov 10 2012,Leyton Orient,2-1,1-0,Shrewsbury
+Sat Nov 10 2012,Milton Keynes Dons,1-0,0-0,Sheffield United
+Sat Nov 10 2012,Notts County,1-1,1-1,Crawley Town
+Sat Nov 10 2012,Oldham,0-1,0-0,Tranmere
+Sat Nov 10 2012,Stevenage,1-4,1-2,Preston
+Sat Nov 10 2012,Walsall,0-2,0-1,Swindon
+Sat Nov 10 2012,Yeovil,1-0,1-0,Hartlepool
+Fri Nov 16 2012,Tranmere,0-1,0-0,Milton Keynes Dons
+Sat Nov 17 2012,Bournemouth,4-1,0-0,Oldham
+Sat Nov 17 2012,Carlisle,1-4,1-4,Leyton Orient
+Sat Nov 17 2012,Colchester,2-0,0-0,Bury
+Sat Nov 17 2012,Crawley Town,2-2,1-1,Walsall
+Sat Nov 17 2012,Hartlepool,0-5,0-0,Coventry
+Sat Nov 17 2012,Portsmouth,0-1,0-1,Doncaster
+Sat Nov 17 2012,Preston,1-1,0-0,Brentford
+Sat Nov 17 2012,Scunthorpe,2-2,2-1,Notts County
+Sat Nov 17 2012,Sheffield United,4-1,1-1,Stevenage
+Sat Nov 17 2012,Shrewsbury,1-0,1-0,Crewe
+Sat Nov 17 2012,Swindon,4-1,3-1,Yeovil
+Tue Nov 20 2012,Bournemouth,1-1,0-1,Stevenage
+Tue Nov 20 2012,Carlisle,1-3,0-2,Doncaster
+Tue Nov 20 2012,Colchester,1-3,0-2,Coventry
+Tue Nov 20 2012,Crawley Town,0-1,0-0,Yeovil
+Tue Nov 20 2012,Hartlepool,1-2,0-1,Oldham
+Tue Nov 20 2012,Portsmouth,2-3,0-1,Leyton Orient
+Tue Nov 20 2012,Preston,0-0,0-0,Notts County
+Tue Nov 20 2012,Scunthorpe,1-2,0-1,Bury
+Tue Nov 20 2012,Sheffield United,3-3,2-2,Crewe
+Tue Nov 20 2012,Shrewsbury,2-2,0-1,Milton Keynes Dons
+Tue Nov 20 2012,Swindon,0-1,0-0,Brentford
+Tue Nov 20 2012,Tranmere,0-0,0-0,Walsall
+Sat Nov 24 2012,Brentford,2-0,2-0,Sheffield United
+Sat Nov 24 2012,Bury,2-2,1-0,Bournemouth
+Sat Nov 24 2012,Coventry,1-1,1-0,Portsmouth
+Sat Nov 24 2012,Crewe,2-0,0-0,Crawley Town
+Sat Nov 24 2012,Doncaster,4-0,1-0,Scunthorpe
+Sat Nov 24 2012,Leyton Orient,2-0,1-0,Preston
+Sat Nov 24 2012,Milton Keynes Dons,5-1,2-0,Colchester
+Sat Nov 24 2012,Notts County,1-0,1-0,Swindon
+Sat Nov 24 2012,Oldham,1-0,1-0,Shrewsbury
+Sat Nov 24 2012,Stevenage,1-1,0-0,Tranmere
+Sat Nov 24 2012,Walsall,1-1,0-1,Hartlepool
+Sat Nov 24 2012,Yeovil,1-3,0-1,Carlisle
+Tue Nov 27 2012,Doncaster,1-0,0-0,Oldham
+Sat Dec 8 2012,Brentford,3-2,1-1,Milton Keynes Dons
+Sat Dec 8 2012,Bury,0-2,0-1,Leyton Orient
+Sat Dec 8 2012,Carlisle,1-3,0-2,Sheffield United
+Sat Dec 8 2012,Colchester,0-2,0-1,Oldham
+Sat Dec 8 2012,Coventry,5-1,3-1,Walsall
+Sat Dec 8 2012,Crawley Town,2-2,1-2,Shrewsbury
+Sat Dec 8 2012,Hartlepool,0-2,0-1,Stevenage
+Sat Dec 8 2012,Preston,1-3,0-1,Crewe
+Sat Dec 8 2012,Scunthorpe,1-2,0-2,Bournemouth
+Sat Dec 8 2012,Swindon,1-1,1-1,Doncaster
+Sat Dec 8 2012,Tranmere,2-2,1-0,Portsmouth
+Sat Dec 8 2012,Yeovil,0-0,0-0,Notts County
+Sat Dec 15 2012,Bournemouth,1-0,1-0,Colchester
+Sat Dec 15 2012,Crewe,1-0,0-0,Bury
+Sat Dec 15 2012,Doncaster,1-4,0-2,Coventry
+Sat Dec 15 2012,Leyton Orient,1-3,0-0,Scunthorpe
+Sat Dec 15 2012,Milton Keynes Dons,1-0,1-0,Hartlepool
+Sat Dec 15 2012,Notts County,1-2,1-1,Brentford
+Sat Dec 15 2012,Oldham,0-2,0-2,Swindon
+Sat Dec 15 2012,Portsmouth,0-0,0-0,Preston
+Sat Dec 15 2012,Sheffield United,0-0,0-0,Tranmere
+Sat Dec 15 2012,Shrewsbury,2-1,1-1,Carlisle
+Sat Dec 15 2012,Stevenage,1-2,0-0,Crawley Town
+Sat Dec 15 2012,Walsall,2-2,1-0,Yeovil
+Fri Dec 21 2012,Bury,2-2,1-1,Shrewsbury
+Fri Dec 21 2012,Swindon,5-0,4-0,Tranmere
+Sat Dec 22 2012,Coventry,1-1,1-0,Preston
+Sat Dec 22 2012,Crawley Town,0-2,0-1,Sheffield United
+Sat Dec 22 2012,Walsall,1-0,0-0,Colchester
+Sat Dec 22 2012,Yeovil,4-1,2-1,Oldham
+Wed Dec 26 2012,Bournemouth,3-0,1-0,Yeovil
+Wed Dec 26 2012,Carlisle,3-0,2-0,Hartlepool
+Wed Dec 26 2012,Colchester,1-3,1-2,Brentford
+Wed Dec 26 2012,Milton Keynes Dons,2-4,2-3,Walsall
+Wed Dec 26 2012,Oldham,1-2,1-1,Doncaster
+Wed Dec 26 2012,Portsmouth,1-2,1-1,Crawley Town
+Wed Dec 26 2012,Preston,0-0,0-0,Bury
+Wed Dec 26 2012,Sheffield United,3-0,1-0,Scunthorpe
+Wed Dec 26 2012,Shrewsbury,2-2,1-2,Notts County
+Wed Dec 26 2012,Stevenage,1-3,1-0,Coventry
+Wed Dec 26 2012,Tranmere,2-1,0-1,Crewe
+Sat Dec 29 2012,Bournemouth,3-0,2-0,Crawley Town
+Sat Dec 29 2012,Carlisle,2-1,2-0,Bury
+Sat Dec 29 2012,Leyton Orient,2-1,1-0,Walsall
+Sat Dec 29 2012,Milton Keynes Dons,2-3,2-1,Coventry
+Sat Dec 29 2012,Oldham,1-2,0-0,Crewe
+Sat Dec 29 2012,Portsmouth,1-2,0-2,Yeovil
+Sat Dec 29 2012,Preston,0-3,0-2,Doncaster
+Sat Dec 29 2012,Sheffield United,2-3,1-1,Hartlepool
+Sat Dec 29 2012,Shrewsbury,0-0,0-0,Brentford
+Sat Dec 29 2012,Tranmere,1-0,0-0,Scunthorpe
+Tue Jan 1 2013,Brentford,0-0,0-0,Bournemouth
+Tue Jan 1 2013,Bury,0-1,0-0,Tranmere
+Tue Jan 1 2013,Coventry,0-1,0-0,Shrewsbury
+Tue Jan 1 2013,Crawley Town,3-0,1-0,Colchester
+Tue Jan 1 2013,Crewe,1-0,1-0,Carlisle
+Tue Jan 1 2013,Doncaster,2-2,1-0,Sheffield United
+Tue Jan 1 2013,Hartlepool,0-1,0-1,Preston
+Tue Jan 1 2013,Notts County,1-2,0-2,Milton Keynes Dons
+Tue Jan 1 2013,Scunthorpe,2-2,2-1,Oldham
+Tue Jan 1 2013,Swindon,5-0,0-0,Portsmouth
+Tue Jan 1 2013,Walsall,1-0,0-0,Stevenage
+Tue Jan 1 2013,Yeovil,3-0,1-0,Leyton Orient
+Fri Jan 4 2013,Walsall,2-0,2-0,Portsmouth
+Sat Jan 5 2013,Crewe,1-2,1-0,Stevenage
+Sat Jan 5 2013,Doncaster,1-0,0-0,Colchester
+Sat Jan 5 2013,Scunthorpe,0-0,0-0,Shrewsbury
+Sat Jan 5 2013,Swindon,4-0,2-0,Carlisle
+Sat Jan 12 2013,Bournemouth,1-1,1-0,Swindon
+Sat Jan 12 2013,Colchester,1-2,0-1,Scunthorpe
+Sat Jan 12 2013,Leyton Orient,1-1,1-1,Crewe
+Sat Jan 12 2013,Milton Keynes Dons,1-1,1-0,Bury
+Sat Jan 12 2013,Oldham,0-2,0-1,Brentford
+Sat Jan 12 2013,Sheffield United,0-2,0-0,Yeovil
+Sat Jan 12 2013,Shrewsbury,1-1,1-0,Hartlepool
+Sat Jan 12 2013,Stevenage,1-2,0-0,Doncaster
+Sat Jan 12 2013,Tranmere,2-0,2-0,Crawley Town
+Sun Jan 13 2013,Carlisle,1-0,1-0,Coventry
+Sun Jan 13 2013,Preston,1-3,0-2,Walsall
+Wed Jan 16 2013,Coventry,1-0,1-0,Tranmere
+Sat Jan 19 2013,Brentford,1-2,0-1,Tranmere
+Sat Jan 19 2013,Coventry,2-1,0-0,Oldham
+Sat Jan 19 2013,Doncaster,2-0,1-0,Leyton Orient
+Sat Jan 19 2013,Notts County,1-1,0-1,Sheffield United
+Sat Jan 19 2013,Swindon,2-0,0-0,Shrewsbury
+Sat Jan 19 2013,Walsall,3-1,2-0,Bournemouth
+Tue Jan 22 2013,Brentford,2-2,2-1,Leyton Orient
+Tue Jan 22 2013,Hartlepool,1-2,0-1,Bournemouth
+Tue Jan 22 2013,Notts County,1-0,1-0,Oldham
+Sat Jan 26 2013,Bournemouth,3-1,1-0,Crewe
+Sat Jan 26 2013,Carlisle,1-1,0-0,Scunthorpe
+Sat Jan 26 2013,Colchester,2-0,0-0,Walsall
+Sat Jan 26 2013,Leyton Orient,2-1,0-0,Notts County
+Sat Jan 26 2013,Portsmouth,1-3,0-1,Hartlepool
+Sat Jan 26 2013,Preston,2-2,1-1,Coventry
+Sat Jan 26 2013,Shrewsbury,0-0,0-0,Bury
+Tue Jan 29 2013,Leyton Orient,0-0,0-0,Swindon
+Tue Jan 29 2013,Portsmouth,0-2,0-0,Notts County
+Tue Jan 29 2013,Yeovil,2-1,1-1,Milton Keynes Dons
+Fri Feb 1 2013,Sheffield United,1-2,0-1,Coventry
+Sat Feb 2 2013,Bury,2-0,2-0,Doncaster
+Sat Feb 2 2013,Crawley Town,1-1,1-0,Swindon
+Sat Feb 2 2013,Crewe,1-0,0-0,Scunthorpe
+Sat Feb 2 2013,Hartlepool,2-1,1-0,Notts County
+Sat Feb 2 2013,Milton Keynes Dons,0-3,0-2,Bournemouth
+Sat Feb 2 2013,Portsmouth,2-3,1-3,Colchester
+Sat Feb 2 2013,Preston,1-2,1-0,Shrewsbury
+Sat Feb 2 2013,Stevenage,0-1,0-1,Leyton Orient
+Sat Feb 2 2013,Tranmere,0-1,0-1,Carlisle
+Sat Feb 2 2013,Walsall,3-1,1-1,Oldham
+Sat Feb 2 2013,Yeovil,3-0,2-0,Brentford
+Tue Feb 5 2013,Colchester,0-1,0-0,Swindon
+Tue Feb 5 2013,Scunthorpe,2-1,1-1,Portsmouth
+Tue Feb 5 2013,Stevenage,2-0,1-0,Notts County
+Sat Feb 9 2013,Bournemouth,2-0,0-0,Portsmouth
+Sat Feb 9 2013,Brentford,2-2,0-0,Bury
+Sat Feb 9 2013,Carlisle,2-1,2-1,Stevenage
+Sat Feb 9 2013,Colchester,1-0,0-0,Preston
+Sat Feb 9 2013,Coventry,0-1,0-1,Yeovil
+Sat Feb 9 2013,Doncaster,1-2,1-1,Walsall
+Sat Feb 9 2013,Leyton Orient,2-1,1-0,Tranmere
+Sat Feb 9 2013,Notts County,1-1,0-1,Crewe
+Sat Feb 9 2013,Oldham,3-1,2-1,Milton Keynes Dons
+Sat Feb 9 2013,Scunthorpe,2-1,0-0,Crawley Town
+Sat Feb 9 2013,Shrewsbury,1-2,0-0,Sheffield United
+Sat Feb 9 2013,Swindon,1-1,1-0,Hartlepool
+Tue Feb 12 2013,Brentford,2-0,1-0,Stevenage
+Tue Feb 12 2013,Bury,0-2,0-1,Sheffield United
+Tue Feb 12 2013,Crewe,1-2,0-0,Bournemouth
+Tue Feb 12 2013,Doncaster,0-0,0-0,Milton Keynes Dons
+Tue Feb 12 2013,Hartlepool,0-0,0-0,Portsmouth
+Tue Feb 12 2013,Scunthorpe,3-1,2-1,Carlisle
+Tue Feb 12 2013,Yeovil,3-1,0-1,Preston
+Fri Feb 15 2013,Tranmere,0-2,0-1,Shrewsbury
+Sat Feb 16 2013,Bury,0-2,0-1,Coventry
+Sat Feb 16 2013,Hartlepool,2-1,0-1,Leyton Orient
+Sat Feb 16 2013,Portsmouth,1-1,0-0,Carlisle
+Sat Feb 16 2013,Preston,2-0,2-0,Bournemouth
+Sat Feb 16 2013,Sheffield United,3-0,1-0,Colchester
+Sat Feb 16 2013,Walsall,1-1,1-0,Notts County
+Sat Feb 16 2013,Yeovil,3-0,1-0,Scunthorpe
+Mon Feb 18 2013,Crawley Town,1-1,1-1,Doncaster
+Tue Feb 19 2013,Stevenage,1-2,1-0,Oldham
+Tue Feb 19 2013,Tranmere,1-3,0-0,Swindon
+Fri Feb 22 2013,Notts County,4-1,0-1,Bury
+Sat Feb 23 2013,Bournemouth,0-1,0-1,Sheffield United
+Sat Feb 23 2013,Brentford,0-0,0-0,Walsall
+Sat Feb 23 2013,Carlisle,1-1,0-1,Milton Keynes Dons
+Sat Feb 23 2013,Colchester,1-5,1-2,Tranmere
+Sat Feb 23 2013,Coventry,1-2,1-1,Crewe
+Sat Feb 23 2013,Doncaster,1-1,1-1,Yeovil
+Sat Feb 23 2013,Leyton Orient,0-1,0-1,Crawley Town
+Sat Feb 23 2013,Oldham,1-0,1-0,Portsmouth
+Sat Feb 23 2013,Scunthorpe,1-2,0-2,Hartlepool
+Sat Feb 23 2013,Shrewsbury,2-1,1-1,Stevenage
+Sat Feb 23 2013,Swindon,1-1,0-0,Preston
+Tue Feb 26 2013,Bournemouth,0-2,0-1,Coventry
+Tue Feb 26 2013,Carlisle,0-3,0-1,Walsall
+Tue Feb 26 2013,Colchester,2-0,1-0,Yeovil
+Tue Feb 26 2013,Crawley Town,1-2,0-2,Brentford
+Tue Feb 26 2013,Hartlepool,3-0,2-0,Crewe
+Tue Feb 26 2013,Portsmouth,1-1,1-1,Milton Keynes Dons
+Tue Feb 26 2013,Scunthorpe,1-0,0-0,Stevenage
+Tue Feb 26 2013,Sheffield United,0-0,0-0,Leyton Orient
+Tue Feb 26 2013,Shrewsbury,1-2,0-0,Doncaster
+Tue Feb 26 2013,Swindon,0-1,0-1,Bury
+Tue Feb 26 2013,Tranmere,1-1,1-0,Notts County
+Sat Mar 2 2013,Brentford,1-0,0-0,Scunthorpe
+Sat Mar 2 2013,Bury,0-2,0-1,Crawley Town
+Sat Mar 2 2013,Coventry,1-2,1-0,Swindon
+Sat Mar 2 2013,Crewe,1-2,0-2,Portsmouth
+Sat Mar 2 2013,Doncaster,3-0,1-0,Hartlepool
+Sat Mar 2 2013,Leyton Orient,3-1,1-0,Bournemouth
+Sat Mar 2 2013,Milton Keynes Dons,1-1,1-1,Preston
+Sat Mar 2 2013,Notts County,1-0,1-0,Carlisle
+Sat Mar 2 2013,Oldham,0-2,0-0,Sheffield United
+Sat Mar 2 2013,Stevenage,0-2,0-0,Colchester
+Sat Mar 2 2013,Walsall,3-1,1-0,Shrewsbury
+Sat Mar 2 2013,Yeovil,1-0,0-0,Tranmere
+Tue Mar 5 2013,Crawley Town,1-1,0-1,Carlisle
+Tue Mar 5 2013,Hartlepool,0-0,0-0,Colchester
+Tue Mar 5 2013,Milton Keynes Dons,3-0,1-0,Doncaster
+Tue Mar 5 2013,Stevenage,1-0,0-0,Brentford
+Wed Mar 6 2013,Notts County,1-1,1-0,Leyton Orient
+Sat Mar 9 2013,Bournemouth,1-2,0-0,Doncaster
+Sat Mar 9 2013,Carlisle,2-0,1-0,Brentford
+Sat Mar 9 2013,Colchester,1-2,1-1,Crewe
+Sat Mar 9 2013,Crawley Town,0-0,0-0,Notts County
+Sat Mar 9 2013,Hartlepool,0-0,0-0,Yeovil
+Sat Mar 9 2013,Portsmouth,2-0,0-0,Bury
+Sat Mar 9 2013,Preston,2-0,2-0,Stevenage
+Sat Mar 9 2013,Scunthorpe,1-2,1-1,Coventry
+Sat Mar 9 2013,Sheffield United,0-0,0-0,Milton Keynes Dons
+Sat Mar 9 2013,Shrewsbury,0-2,0-1,Leyton Orient
+Sat Mar 9 2013,Swindon,2-2,1-1,Walsall
+Sat Mar 9 2013,Tranmere,1-0,0-0,Oldham
+Tue Mar 12 2013,Brentford,2-1,0-1,Swindon
+Tue Mar 12 2013,Coventry,2-2,0-1,Colchester
+Tue Mar 12 2013,Leyton Orient,1-0,0-0,Portsmouth
+Tue Mar 12 2013,Milton Keynes Dons,2-3,1-2,Shrewsbury
+Tue Mar 12 2013,Notts County,0-1,0-1,Preston
+Tue Mar 12 2013,Stevenage,0-1,0-1,Bournemouth
+Tue Mar 12 2013,Walsall,2-0,0-0,Tranmere
+Tue Mar 12 2013,Yeovil,2-2,2-0,Crawley Town
+Sat Mar 16 2013,Brentford,1-0,0-0,Preston
+Sat Mar 16 2013,Bury,1-2,1-2,Colchester
+Sat Mar 16 2013,Coventry,1-0,1-0,Hartlepool
+Sat Mar 16 2013,Crewe,1-1,1-1,Shrewsbury
+Sat Mar 16 2013,Doncaster,1-1,1-0,Portsmouth
+Sat Mar 16 2013,Leyton Orient,4-1,2-0,Carlisle
+Sat Mar 16 2013,Milton Keynes Dons,3-0,2-0,Tranmere
+Sat Mar 16 2013,Notts County,1-0,0-0,Scunthorpe
+Sat Mar 16 2013,Oldham,0-1,0-1,Bournemouth
+Sat Mar 16 2013,Stevenage,4-0,1-0,Sheffield United
+Sat Mar 16 2013,Walsall,2-2,0-0,Crawley Town
+Tue Mar 19 2013,Bury,2-0,0-0,Stevenage
+Tue Mar 19 2013,Crewe,2-1,1-1,Milton Keynes Dons
+Tue Mar 19 2013,Oldham,3-0,2-0,Hartlepool
+Tue Mar 19 2013,Yeovil,0-2,0-0,Swindon
+Sat Mar 23 2013,Bournemouth,4-1,1-1,Bury
+Sat Mar 23 2013,Carlisle,3-3,1-1,Yeovil
+Sat Mar 23 2013,Hartlepool,0-0,0-0,Walsall
+Sat Mar 23 2013,Portsmouth,2-0,1-0,Coventry
+Sat Mar 23 2013,Preston,0-0,0-0,Leyton Orient
+Sat Mar 23 2013,Scunthorpe,2-3,1-2,Doncaster
+Sat Mar 23 2013,Swindon,0-0,0-0,Notts County
+Sun Mar 24 2013,Tranmere,3-1,3-1,Stevenage
+Tue Mar 26 2013,Crawley Town,2-0,0-0,Crewe
+Fri Mar 29 2013,Brentford,2-1,1-0,Notts County
+Fri Mar 29 2013,Bury,2-2,0-1,Crewe
+Fri Mar 29 2013,Carlisle,2-2,0-0,Shrewsbury
+Fri Mar 29 2013,Colchester,0-1,0-1,Bournemouth
+Fri Mar 29 2013,Coventry,1-0,1-0,Doncaster
+Fri Mar 29 2013,Crawley Town,1-1,0-1,Stevenage
+Fri Mar 29 2013,Hartlepool,0-2,0-1,Milton Keynes Dons
+Fri Mar 29 2013,Preston,1-1,0-1,Portsmouth
+Fri Mar 29 2013,Scunthorpe,2-1,2-1,Leyton Orient
+Fri Mar 29 2013,Swindon,1-1,0-0,Oldham
+Fri Mar 29 2013,Tranmere,0-1,0-1,Sheffield United
+Fri Mar 29 2013,Yeovil,0-0,0-0,Walsall
+Mon Apr 1 2013,Bournemouth,1-0,1-0,Scunthorpe
+Mon Apr 1 2013,Crewe,1-0,1-0,Preston
+Mon Apr 1 2013,Doncaster,1-0,0-0,Swindon
+Mon Apr 1 2013,Leyton Orient,2-0,2-0,Bury
+Mon Apr 1 2013,Milton Keynes Dons,2-0,1-0,Brentford
+Mon Apr 1 2013,Notts County,1-2,0-1,Yeovil
+Mon Apr 1 2013,Oldham,1-1,0-1,Colchester
+Mon Apr 1 2013,Portsmouth,1-0,0-0,Tranmere
+Mon Apr 1 2013,Sheffield United,0-0,0-0,Carlisle
+Mon Apr 1 2013,Shrewsbury,3-0,0-0,Crawley Town
+Mon Apr 1 2013,Stevenage,1-0,0-0,Hartlepool
+Mon Apr 1 2013,Walsall,4-0,1-0,Coventry
+Sat Apr 6 2013,Bournemouth,3-1,2-1,Notts County
+Sat Apr 6 2013,Colchester,2-1,2-1,Leyton Orient
+Sat Apr 6 2013,Coventry,1-1,1-0,Brentford
+Sat Apr 6 2013,Doncaster,1-0,0-0,Tranmere
+Sat Apr 6 2013,Hartlepool,2-0,1-0,Bury
+Sat Apr 6 2013,Milton Keynes Dons,0-0,0-0,Crawley Town
+Sat Apr 6 2013,Oldham,1-2,0-2,Carlisle
+Sat Apr 6 2013,Portsmouth,0-0,0-0,Stevenage
+Sat Apr 6 2013,Preston,3-0,1-0,Scunthorpe
+Sat Apr 6 2013,Walsall,1-1,1-0,Sheffield United
+Sat Apr 6 2013,Yeovil,2-1,2-1,Shrewsbury
+Tue Apr 9 2013,Doncaster,0-2,0-1,Carlisle
+Tue Apr 9 2013,Milton Keynes Dons,2-0,0-0,Swindon
+Tue Apr 9 2013,Preston,2-0,0-0,Oldham
+Tue Apr 9 2013,Sheffield United,0-2,0-0,Crawley Town
+Wed Apr 10 2013,Crewe,0-2,0-1,Brentford
+Sat Apr 13 2013,Brentford,3-2,1-1,Portsmouth
+Sat Apr 13 2013,Bury,0-1,0-0,Oldham
+Sat Apr 13 2013,Carlisle,1-1,1-1,Preston
+Sat Apr 13 2013,Crawley Town,2-0,1-0,Coventry
+Sat Apr 13 2013,Crewe,1-2,0-0,Doncaster
+Sat Apr 13 2013,Leyton Orient,2-0,0-0,Milton Keynes Dons
+Sat Apr 13 2013,Notts County,3-1,1-1,Colchester
+Sat Apr 13 2013,Scunthorpe,1-1,0-0,Walsall
+Sat Apr 13 2013,Sheffield United,2-0,1-0,Swindon
+Sat Apr 13 2013,Shrewsbury,0-3,0-1,Bournemouth
+Sat Apr 13 2013,Stevenage,0-2,0-0,Yeovil
+Sat Apr 13 2013,Tranmere,0-1,0-1,Hartlepool
+Tue Apr 16 2013,Bury,2-1,0-1,Scunthorpe
+Tue Apr 16 2013,Colchester,0-2,0-1,Milton Keynes Dons
+Tue Apr 16 2013,Oldham,1-0,1-0,Yeovil
+Tue Apr 16 2013,Sheffield United,2-2,0-1,Brentford
+Tue Apr 16 2013,Swindon,4-1,3-0,Crewe
+Sat Apr 20 2013,Bournemouth,3-1,1-0,Carlisle
+Sat Apr 20 2013,Colchester,0-0,0-0,Shrewsbury
+Sat Apr 20 2013,Coventry,0-1,0-1,Leyton Orient
+Sat Apr 20 2013,Doncaster,0-1,0-1,Notts County
+Sat Apr 20 2013,Hartlepool,1-1,1-1,Brentford
+Sat Apr 20 2013,Milton Keynes Dons,0-1,0-1,Scunthorpe
+Sat Apr 20 2013,Oldham,2-1,0-0,Crawley Town
+Sat Apr 20 2013,Portsmouth,3-0,3-0,Sheffield United
+Sat Apr 20 2013,Preston,1-0,1-0,Tranmere
+Sat Apr 20 2013,Swindon,3-0,1-0,Stevenage
+Sat Apr 20 2013,Walsall,1-1,1-0,Bury
+Sat Apr 20 2013,Yeovil,1-0,1-0,Crewe
+Tue Apr 23 2013,Crawley Town,1-0,1-0,Preston
+Tue Apr 23 2013,Crewe,1-0,0-0,Sheffield United
+Tue Apr 23 2013,Shrewsbury,1-0,0-0,Oldham
+Sat Apr 27 2013,Brentford,0-1,0-0,Doncaster
+Sat Apr 27 2013,Bury,3-2,3-0,Yeovil
+Sat Apr 27 2013,Carlisle,0-2,0-0,Colchester
+Sat Apr 27 2013,Crawley Town,2-2,0-0,Hartlepool
+Sat Apr 27 2013,Crewe,2-0,0-0,Walsall
+Sat Apr 27 2013,Leyton Orient,1-1,1-0,Oldham
+Sat Apr 27 2013,Notts County,2-2,1-0,Coventry
+Sat Apr 27 2013,Scunthorpe,3-1,0-0,Swindon
+Sat Apr 27 2013,Sheffield United,0-0,0-0,Preston
+Sat Apr 27 2013,Shrewsbury,3-2,2-0,Portsmouth
+Sat Apr 27 2013,Stevenage,0-2,0-1,Milton Keynes Dons
+Sat Apr 27 2013,Tranmere,0-0,0-0,Bournemouth

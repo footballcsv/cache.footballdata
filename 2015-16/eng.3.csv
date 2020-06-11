@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 8 2015,Burton,2-1,0-0,Scunthorpe
+Sat Aug 8 2015,Chesterfield,3-1,0-1,Barnsley
+Sat Aug 8 2015,Colchester,2-2,1-2,Blackpool
+Sat Aug 8 2015,Coventry,2-0,1-0,Wigan
+Sat Aug 8 2015,Crewe,0-0,0-0,Port Vale
+Sat Aug 8 2015,Doncaster,1-1,0-0,Bury
+Sat Aug 8 2015,Fleetwood Town,1-1,1-0,Southend
+Sat Aug 8 2015,Gillingham,4-0,2-0,Sheffield United
+Sat Aug 8 2015,Rochdale,2-0,1-0,Peterboro
+Sat Aug 8 2015,Shrewsbury,1-2,0-0,Millwall
+Sat Aug 8 2015,Swindon,4-1,0-1,Bradford
+Sat Aug 8 2015,Walsall,1-1,1-0,Oldham
+Sat Aug 15 2015,Barnsley,1-0,0-0,Burton
+Sat Aug 15 2015,Blackpool,0-2,0-0,Rochdale
+Sat Aug 15 2015,Bradford,1-1,1-0,Shrewsbury
+Sat Aug 15 2015,Bury,2-2,1-0,Swindon
+Sat Aug 15 2015,Millwall,0-4,0-3,Coventry
+Sat Aug 15 2015,Oldham,1-0,1-0,Fleetwood Town
+Sat Aug 15 2015,Peterboro,2-1,2-1,Colchester
+Sat Aug 15 2015,Port Vale,1-1,1-1,Gillingham
+Sat Aug 15 2015,Scunthorpe,2-0,1-0,Crewe
+Sat Aug 15 2015,Sheffield United,2-0,1-0,Chesterfield
+Sat Aug 15 2015,Southend,0-2,0-1,Walsall
+Sun Aug 16 2015,Wigan,0-0,0-0,Doncaster
+Tue Aug 18 2015,Blackpool,1-2,1-0,Burton
+Tue Aug 18 2015,Bradford,1-2,1-0,Gillingham
+Tue Aug 18 2015,Bury,3-4,2-2,Fleetwood Town
+Tue Aug 18 2015,Colchester,0-0,0-0,Oldham
+Tue Aug 18 2015,Coventry,3-2,1-1,Crewe
+Tue Aug 18 2015,Millwall,2-3,1-1,Barnsley
+Tue Aug 18 2015,Peterboro,1-3,0-1,Sheffield United
+Tue Aug 18 2015,Rochdale,1-2,0-0,Walsall
+Tue Aug 18 2015,Shrewsbury,1-2,0-0,Chesterfield
+Tue Aug 18 2015,Swindon,2-2,1-1,Port Vale
+Wed Aug 19 2015,Doncaster,0-0,0-0,Southend
+Wed Aug 19 2015,Wigan,3-0,2-0,Scunthorpe
+Sat Aug 22 2015,Barnsley,0-0,0-0,Bradford
+Sat Aug 22 2015,Burton,2-1,1-0,Peterboro
+Sat Aug 22 2015,Chesterfield,0-0,0-0,Rochdale
+Sat Aug 22 2015,Crewe,3-3,2-2,Bury
+Sat Aug 22 2015,Fleetwood Town,4-0,2-0,Colchester
+Sat Aug 22 2015,Gillingham,2-0,1-0,Wigan
+Sat Aug 22 2015,Oldham,1-1,0-0,Shrewsbury
+Sat Aug 22 2015,Port Vale,3-0,1-0,Doncaster
+Sat Aug 22 2015,Scunthorpe,0-0,0-0,Millwall
+Sat Aug 22 2015,Sheffield United,2-0,0-0,Blackpool
+Sat Aug 22 2015,Southend,0-1,0-0,Swindon
+Sat Aug 22 2015,Walsall,2-1,1-0,Coventry
+Sat Aug 29 2015,Blackpool,0-4,0-1,Walsall
+Sat Aug 29 2015,Bradford,1-0,0-0,Port Vale
+Sat Aug 29 2015,Bury,1-1,0-1,Oldham
+Sat Aug 29 2015,Colchester,2-2,1-2,Scunthorpe
+Sat Aug 29 2015,Doncaster,2-0,2-0,Fleetwood Town
+Sat Aug 29 2015,Millwall,0-2,0-1,Chesterfield
+Sat Aug 29 2015,Peterboro,1-1,0-0,Gillingham
+Sat Aug 29 2015,Rochdale,3-0,2-0,Barnsley
+Sat Aug 29 2015,Shrewsbury,0-1,0-0,Burton
+Sat Aug 29 2015,Swindon,0-2,0-0,Sheffield United
+Sat Aug 29 2015,Wigan,1-0,1-0,Crewe
+Mon Aug 31 2015,Coventry,2-2,1-2,Southend
+Sat Sep 5 2015,Barnsley,1-2,1-1,Shrewsbury
+Sat Sep 5 2015,Chesterfield,2-3,0-0,Wigan
+Sat Sep 5 2015,Crewe,1-3,0-0,Swindon
+Sat Sep 5 2015,Fleetwood Town,1-1,0-0,Rochdale
+Sat Sep 5 2015,Gillingham,1-0,0-0,Doncaster
+Sat Sep 5 2015,Oldham,1-2,0-1,Bradford
+Sat Sep 5 2015,Scunthorpe,0-1,0-1,Blackpool
+Sat Sep 5 2015,Southend,2-1,1-0,Peterboro
+Sat Sep 5 2015,Walsall,0-1,0-1,Bury
+Sun Sep 6 2015,Burton,1-2,1-1,Coventry
+Sat Sep 12 2015,Barnsley,4-1,2-1,Swindon
+Sat Sep 12 2015,Burton,1-0,1-0,Rochdale
+Sat Sep 12 2015,Chesterfield,3-3,1-1,Colchester
+Sat Sep 12 2015,Crewe,1-3,1-1,Millwall
+Sat Sep 12 2015,Fleetwood Town,1-1,1-1,Bradford
+Sat Sep 12 2015,Gillingham,2-1,1-0,Blackpool
+Sat Sep 12 2015,Oldham,1-5,0-2,Peterboro
+Sat Sep 12 2015,Port Vale,3-2,1-0,Wigan
+Sat Sep 12 2015,Scunthorpe,1-0,0-0,Coventry
+Sat Sep 12 2015,Sheffield United,1-3,0-0,Bury
+Sat Sep 12 2015,Southend,0-1,0-0,Shrewsbury
+Sat Sep 12 2015,Walsall,2-0,0-0,Doncaster
+Tue Sep 15 2015,Port Vale,0-2,0-0,Millwall
+Tue Sep 15 2015,Sheffield United,2-3,0-2,Colchester
+Sat Sep 19 2015,Blackpool,1-1,0-1,Barnsley
+Sat Sep 19 2015,Bury,1-0,0-0,Port Vale
+Sat Sep 19 2015,Colchester,2-1,2-1,Gillingham
+Sat Sep 19 2015,Coventry,1-0,0-0,Chesterfield
+Sat Sep 19 2015,Doncaster,1-1,1-1,Oldham
+Sat Sep 19 2015,Millwall,0-2,0-1,Southend
+Sat Sep 19 2015,Peterboro,1-1,0-0,Walsall
+Sat Sep 19 2015,Rochdale,2-1,0-0,Scunthorpe
+Sat Sep 19 2015,Shrewsbury,0-1,0-1,Crewe
+Sat Sep 19 2015,Swindon,0-1,0-1,Burton
+Sat Sep 19 2015,Wigan,2-1,1-0,Fleetwood Town
+Sun Sep 20 2015,Bradford,2-2,1-0,Sheffield United
+Sat Sep 26 2015,Barnsley,2-0,2-0,Gillingham
+Sat Sep 26 2015,Bradford,0-2,0-0,Peterboro
+Sat Sep 26 2015,Bury,2-1,1-0,Coventry
+Sat Sep 26 2015,Chesterfield,1-2,1-0,Burton
+Sat Sep 26 2015,Fleetwood Town,1-2,1-0,Port Vale
+Sat Sep 26 2015,Millwall,3-1,2-1,Rochdale
+Sat Sep 26 2015,Oldham,1-1,0-1,Wigan
+Sat Sep 26 2015,Sheffield United,3-1,2-1,Doncaster
+Sat Sep 26 2015,Shrewsbury,2-0,0-0,Blackpool
+Sat Sep 26 2015,Southend,2-1,1-1,Scunthorpe
+Sat Sep 26 2015,Swindon,1-2,1-2,Colchester
+Sat Sep 26 2015,Walsall,1-1,1-1,Crewe
+Tue Sep 29 2015,Blackpool,2-0,1-0,Chesterfield
+Tue Sep 29 2015,Burton,0-0,0-0,Sheffield United
+Tue Sep 29 2015,Colchester,2-0,2-0,Bradford
+Tue Sep 29 2015,Crewe,1-2,0-0,Southend
+Tue Sep 29 2015,Doncaster,2-2,0-0,Swindon
+Tue Sep 29 2015,Gillingham,5-1,4-1,Fleetwood Town
+Tue Sep 29 2015,Peterboro,2-3,1-1,Bury
+Tue Sep 29 2015,Port Vale,1-1,0-1,Oldham
+Tue Sep 29 2015,Rochdale,3-2,3-2,Shrewsbury
+Tue Sep 29 2015,Scunthorpe,0-1,0-1,Walsall
+Tue Sep 29 2015,Wigan,2-2,0-0,Millwall
+Sat Oct 3 2015,Blackpool,1-0,1-0,Swindon
+Sat Oct 3 2015,Burton,1-0,0-0,Southend
+Sat Oct 3 2015,Colchester,0-1,0-0,Bury
+Sat Oct 3 2015,Coventry,3-0,2-0,Shrewsbury
+Sat Oct 3 2015,Crewe,1-2,1-1,Chesterfield
+Sat Oct 3 2015,Doncaster,2-1,1-0,Barnsley
+Sat Oct 3 2015,Gillingham,3-3,2-2,Oldham
+Sat Oct 3 2015,Peterboro,5-3,2-0,Millwall
+Sat Oct 3 2015,Port Vale,2-1,2-0,Sheffield United
+Sat Oct 3 2015,Rochdale,1-3,1-1,Bradford
+Sat Oct 3 2015,Scunthorpe,1-0,0-0,Fleetwood Town
+Sat Oct 3 2015,Wigan,0-0,0-0,Walsall
+Sat Oct 10 2015,Barnsley,1-2,1-1,Crewe
+Sat Oct 10 2015,Bury,2-2,1-0,Wigan
+Sat Oct 10 2015,Chesterfield,1-3,1-1,Gillingham
+Sat Oct 10 2015,Fleetwood Town,0-1,0-0,Coventry
+Sat Oct 10 2015,Oldham,2-4,2-2,Scunthorpe
+Sat Oct 10 2015,Sheffield United,3-2,2-1,Rochdale
+Sat Oct 10 2015,Shrewsbury,4-2,0-2,Colchester
+Sat Oct 10 2015,Southend,1-0,0-0,Port Vale
+Sat Oct 10 2015,Swindon,1-2,0-1,Peterboro
+Sat Oct 10 2015,Walsall,2-0,1-0,Burton
+Sat Oct 17 2015,Bury,0-0,0-0,Rochdale
+Sat Oct 17 2015,Coventry,0-0,0-0,Blackpool
+Sat Oct 17 2015,Crewe,0-1,0-0,Gillingham
+Sat Oct 17 2015,Doncaster,0-1,0-1,Bradford
+Sat Oct 17 2015,Fleetwood Town,4-0,1-0,Burton
+Sat Oct 17 2015,Millwall,2-0,2-0,Swindon
+Sat Oct 17 2015,Oldham,1-1,1-1,Sheffield United
+Sat Oct 17 2015,Port Vale,1-1,1-0,Peterboro
+Sat Oct 17 2015,Scunthorpe,2-1,0-1,Shrewsbury
+Sat Oct 17 2015,Southend,2-1,2-1,Barnsley
+Sat Oct 17 2015,Walsall,1-2,0-1,Chesterfield
+Sat Oct 17 2015,Wigan,5-0,4-0,Colchester
+Tue Oct 20 2015,Barnsley,0-2,0-0,Walsall
+Tue Oct 20 2015,Blackpool,1-1,0-1,Millwall
+Tue Oct 20 2015,Bradford,2-1,1-0,Bury
+Tue Oct 20 2015,Burton,0-0,0-0,Crewe
+Tue Oct 20 2015,Chesterfield,3-0,2-0,Southend
+Tue Oct 20 2015,Colchester,2-1,1-1,Port Vale
+Tue Oct 20 2015,Gillingham,2-1,0-0,Scunthorpe
+Tue Oct 20 2015,Peterboro,2-3,0-2,Wigan
+Tue Oct 20 2015,Rochdale,0-0,0-0,Coventry
+Tue Oct 20 2015,Sheffield United,3-0,1-0,Fleetwood Town
+Tue Oct 20 2015,Shrewsbury,1-2,1-1,Doncaster
+Tue Oct 20 2015,Swindon,1-2,0-1,Oldham
+Sat Oct 24 2015,Barnsley,0-1,0-1,Fleetwood Town
+Sat Oct 24 2015,Blackpool,2-0,0-0,Crewe
+Sat Oct 24 2015,Bradford,1-1,0-0,Wigan
+Sat Oct 24 2015,Burton,2-0,0-0,Port Vale
+Sat Oct 24 2015,Chesterfield,0-3,0-0,Scunthorpe
+Sat Oct 24 2015,Colchester,4-4,0-2,Walsall
+Sat Oct 24 2015,Gillingham,1-1,0-1,Southend
+Sat Oct 24 2015,Peterboro,4-0,2-0,Doncaster
+Sat Oct 24 2015,Rochdale,0-0,0-0,Oldham
+Sat Oct 24 2015,Sheffield United,1-2,0-1,Millwall
+Sat Oct 24 2015,Shrewsbury,2-0,1-0,Bury
+Sat Oct 24 2015,Swindon,2-2,0-0,Coventry
+Tue Oct 27 2015,Millwall,2-0,2-0,Doncaster
+Sat Oct 31 2015,Bury,4-3,4-2,Blackpool
+Sat Oct 31 2015,Coventry,3-2,0-2,Peterboro
+Sat Oct 31 2015,Crewe,1-0,0-0,Sheffield United
+Sat Oct 31 2015,Doncaster,2-0,1-0,Colchester
+Sat Oct 31 2015,Fleetwood Town,0-1,0-1,Chesterfield
+Sat Oct 31 2015,Millwall,0-0,0-0,Bradford
+Sat Oct 31 2015,Oldham,0-1,0-1,Burton
+Sat Oct 31 2015,Port Vale,2-0,0-0,Shrewsbury
+Sat Oct 31 2015,Scunthorpe,2-0,2-0,Barnsley
+Sat Oct 31 2015,Southend,2-2,2-0,Rochdale
+Sat Oct 31 2015,Walsall,3-2,2-2,Gillingham
+Sat Oct 31 2015,Wigan,1-0,0-0,Swindon
+Tue Nov 3 2015,Bradford,1-0,1-0,Blackpool
+Tue Nov 3 2015,Coventry,4-3,2-0,Barnsley
+Sat Nov 14 2015,Barnsley,1-2,0-1,Port Vale
+Sat Nov 14 2015,Blackpool,0-2,0-2,Doncaster
+Sat Nov 14 2015,Bradford,2-0,1-0,Crewe
+Sat Nov 14 2015,Chesterfield,1-2,1-0,Oldham
+Sat Nov 14 2015,Colchester,1-3,1-2,Coventry
+Sat Nov 14 2015,Gillingham,3-1,2-1,Bury
+Sat Nov 14 2015,Peterboro,2-1,0-0,Fleetwood Town
+Sat Nov 14 2015,Rochdale,0-2,0-1,Wigan
+Sat Nov 14 2015,Sheffield United,2-2,2-2,Southend
+Sat Nov 14 2015,Swindon,2-1,0-0,Scunthorpe
+Sat Nov 21 2015,Bury,1-0,1-0,Burton
+Sat Nov 21 2015,Coventry,4-1,4-0,Gillingham
+Sat Nov 21 2015,Crewe,1-5,0-1,Peterboro
+Sat Nov 21 2015,Doncaster,0-2,0-0,Rochdale
+Sat Nov 21 2015,Fleetwood Town,5-1,1-0,Swindon
+Sat Nov 21 2015,Millwall,4-1,2-0,Colchester
+Sat Nov 21 2015,Oldham,1-2,0-1,Barnsley
+Sat Nov 21 2015,Port Vale,3-2,2-1,Chesterfield
+Sat Nov 21 2015,Scunthorpe,0-2,0-1,Bradford
+Sat Nov 21 2015,Southend,1-0,0-0,Blackpool
+Sat Nov 21 2015,Walsall,1-1,0-0,Sheffield United
+Sat Nov 21 2015,Wigan,1-0,1-0,Shrewsbury
+Tue Nov 24 2015,Bradford,0-0,0-0,Coventry
+Tue Nov 24 2015,Bury,1-2,0-1,Scunthorpe
+Tue Nov 24 2015,Colchester,2-3,1-0,Crewe
+Tue Nov 24 2015,Doncaster,3-0,0-0,Chesterfield
+Tue Nov 24 2015,Fleetwood Town,2-1,0-0,Millwall
+Tue Nov 24 2015,Gillingham,2-0,1-0,Rochdale
+Tue Nov 24 2015,Oldham,2-5,0-2,Southend
+Tue Nov 24 2015,Peterboro,3-2,1-1,Barnsley
+Tue Nov 24 2015,Port Vale,2-0,0-0,Blackpool
+Tue Nov 24 2015,Sheffield United,2-4,1-3,Shrewsbury
+Tue Nov 24 2015,Swindon,2-1,1-0,Walsall
+Tue Nov 24 2015,Wigan,0-1,0-0,Burton
+Sat Nov 28 2015,Barnsley,1-1,0-1,Sheffield United
+Sat Nov 28 2015,Blackpool,1-0,1-0,Fleetwood Town
+Sat Nov 28 2015,Burton,5-1,2-1,Colchester
+Sat Nov 28 2015,Chesterfield,0-4,0-2,Swindon
+Sat Nov 28 2015,Coventry,2-2,1-0,Doncaster
+Sat Nov 28 2015,Crewe,1-0,1-0,Oldham
+Sat Nov 28 2015,Millwall,1-0,1-0,Bury
+Sat Nov 28 2015,Rochdale,2-1,1-1,Port Vale
+Sat Nov 28 2015,Scunthorpe,0-4,0-1,Peterboro
+Sat Nov 28 2015,Shrewsbury,2-2,1-1,Gillingham
+Sat Nov 28 2015,Southend,0-0,0-0,Wigan
+Sat Nov 28 2015,Walsall,2-1,1-0,Bradford
+Tue Dec 1 2015,Burton,2-1,2-0,Millwall
+Tue Dec 1 2015,Shrewsbury,1-3,1-1,Walsall
+Sat Dec 12 2015,Bury,1-0,0-0,Chesterfield
+Sat Dec 12 2015,Colchester,2-3,0-2,Barnsley
+Sat Dec 12 2015,Doncaster,3-2,1-1,Crewe
+Sat Dec 12 2015,Gillingham,0-3,0-0,Burton
+Sat Dec 12 2015,Peterboro,1-1,0-0,Shrewsbury
+Sat Dec 12 2015,Port Vale,1-1,1-1,Scunthorpe
+Sat Dec 12 2015,Swindon,2-1,2-0,Rochdale
+Sat Dec 12 2015,Wigan,0-1,0-1,Blackpool
+Sun Dec 13 2015,Sheffield United,1-0,0-0,Coventry
+Fri Dec 18 2015,Southend,4-1,2-1,Bury
+Sat Dec 19 2015,Barnsley,0-2,0-1,Wigan
+Sat Dec 19 2015,Blackpool,2-0,2-0,Peterboro
+Sat Dec 19 2015,Burton,3-3,1-1,Doncaster
+Sat Dec 19 2015,Chesterfield,0-1,0-0,Bradford
+Sat Dec 19 2015,Coventry,1-1,0-0,Oldham
+Sat Dec 19 2015,Crewe,1-1,1-1,Fleetwood Town
+Sat Dec 19 2015,Millwall,0-3,0-2,Gillingham
+Sat Dec 19 2015,Rochdale,3-1,2-1,Colchester
+Sat Dec 19 2015,Scunthorpe,0-1,0-0,Sheffield United
+Sat Dec 19 2015,Shrewsbury,0-1,0-1,Swindon
+Sun Dec 20 2015,Walsall,2-0,0-0,Port Vale
+Sat Dec 26 2015,Colchester,0-2,0-0,Southend
+Sat Dec 26 2015,Coventry,1-0,0-0,Port Vale
+Sat Dec 26 2015,Doncaster,0-1,0-1,Scunthorpe
+Sat Dec 26 2015,Millwall,0-1,0-1,Walsall
+Sat Dec 26 2015,Peterboro,2-0,1-0,Chesterfield
+Sat Dec 26 2015,Shrewsbury,1-1,1-0,Fleetwood Town
+Sat Dec 26 2015,Swindon,1-3,1-2,Gillingham
+Mon Dec 28 2015,Barnsley,4-2,1-0,Blackpool
+Mon Dec 28 2015,Burton,1-0,0-0,Swindon
+Mon Dec 28 2015,Chesterfield,1-1,1-0,Coventry
+Mon Dec 28 2015,Crewe,1-2,1-1,Shrewsbury
+Mon Dec 28 2015,Fleetwood Town,1-3,0-1,Wigan
+Mon Dec 28 2015,Gillingham,1-0,0-0,Colchester
+Mon Dec 28 2015,Oldham,1-2,0-2,Doncaster
+Mon Dec 28 2015,Port Vale,1-0,0-0,Bury
+Mon Dec 28 2015,Scunthorpe,1-1,1-1,Rochdale
+Mon Dec 28 2015,Sheffield United,3-1,1-0,Bradford
+Mon Dec 28 2015,Southend,0-4,0-3,Millwall
+Mon Dec 28 2015,Walsall,2-0,0-0,Peterboro
+Sat Jan 2 2016,Barnsley,2-1,1-0,Millwall
+Sat Jan 2 2016,Burton,1-0,0-0,Blackpool
+Sat Jan 2 2016,Chesterfield,7-1,3-0,Shrewsbury
+Sat Jan 2 2016,Crewe,0-5,0-4,Coventry
+Sat Jan 2 2016,Fleetwood Town,2-0,0-0,Bury
+Sat Jan 2 2016,Gillingham,3-0,2-0,Bradford
+Sat Jan 2 2016,Oldham,1-1,1-0,Colchester
+Sat Jan 2 2016,Scunthorpe,1-1,1-1,Wigan
+Sat Jan 2 2016,Sheffield United,2-3,1-1,Peterboro
+Sat Jan 2 2016,Southend,0-3,0-1,Doncaster
+Sat Jan 2 2016,Walsall,0-3,0-1,Rochdale
+Thu Jan 7 2016,Wigan,3-2,0-1,Gillingham
+Sat Jan 9 2016,Blackpool,0-1,0-0,Port Vale
+Sat Jan 9 2016,Oldham,1-2,0-1,Millwall
+Sat Jan 9 2016,Rochdale,2-3,0-1,Chesterfield
+Sat Jan 9 2016,Swindon,4-2,2-2,Southend
+Tue Jan 12 2016,Coventry,1-1,1-0,Walsall
+Tue Jan 12 2016,Wigan,3-3,2-0,Sheffield United
+Sat Jan 16 2016,Blackpool,5-0,3-0,Scunthorpe
+Sat Jan 16 2016,Bradford,1-0,0-0,Oldham
+Sat Jan 16 2016,Bury,2-3,0-3,Walsall
+Sat Jan 16 2016,Colchester,1-2,0-1,Sheffield United
+Sat Jan 16 2016,Coventry,0-2,0-0,Burton
+Sat Jan 16 2016,Doncaster,2-2,0-1,Gillingham
+Sat Jan 16 2016,Peterboro,0-0,0-0,Southend
+Sat Jan 16 2016,Shrewsbury,0-3,0-2,Barnsley
+Sat Jan 16 2016,Swindon,4-3,1-3,Crewe
+Sat Jan 16 2016,Wigan,3-1,3-0,Chesterfield
+Sun Jan 17 2016,Millwall,3-1,3-0,Port Vale
+Tue Jan 19 2016,Colchester,1-1,1-0,Fleetwood Town
+Sat Jan 23 2016,Barnsley,6-1,1-0,Rochdale
+Sat Jan 23 2016,Burton,1-2,1-0,Shrewsbury
+Sat Jan 23 2016,Chesterfield,1-2,1-1,Millwall
+Sat Jan 23 2016,Crewe,1-1,1-1,Wigan
+Sat Jan 23 2016,Fleetwood Town,0-0,0-0,Doncaster
+Sat Jan 23 2016,Gillingham,2-1,0-1,Peterboro
+Sat Jan 23 2016,Oldham,0-1,0-1,Bury
+Sat Jan 23 2016,Port Vale,1-1,1-0,Bradford
+Sat Jan 23 2016,Scunthorpe,3-0,0-0,Colchester
+Sat Jan 23 2016,Sheffield United,1-1,1-0,Swindon
+Sat Jan 23 2016,Southend,3-0,2-0,Coventry
+Sat Jan 23 2016,Walsall,1-1,0-0,Blackpool
+Tue Jan 26 2016,Blackpool,0-0,0-0,Sheffield United
+Tue Jan 26 2016,Bradford,0-1,0-1,Barnsley
+Tue Jan 26 2016,Bury,0-0,0-0,Crewe
+Tue Jan 26 2016,Doncaster,1-2,0-1,Port Vale
+Tue Jan 26 2016,Peterboro,0-1,0-1,Burton
+Tue Jan 26 2016,Shrewsbury,0-1,0-1,Oldham
+Sat Jan 30 2016,Blackpool,1-0,1-0,Gillingham
+Sat Jan 30 2016,Bradford,2-1,0-0,Fleetwood Town
+Sat Jan 30 2016,Coventry,1-2,0-1,Scunthorpe
+Sat Jan 30 2016,Millwall,1-1,0-0,Crewe
+Sat Jan 30 2016,Rochdale,2-1,2-0,Burton
+Sat Jan 30 2016,Swindon,0-1,0-0,Barnsley
+Sat Jan 30 2016,Wigan,3-0,2-0,Port Vale
+Tue Feb 2 2016,Doncaster,1-2,0-0,Walsall
+Tue Feb 2 2016,Port Vale,1-0,1-0,Swindon
+Tue Feb 2 2016,Shrewsbury,1-2,0-1,Southend
+Sat Feb 6 2016,Burton,3-1,1-0,Bradford
+Sat Feb 6 2016,Chesterfield,0-1,0-0,Peterboro
+Sat Feb 6 2016,Crewe,2-0,2-0,Rochdale
+Sat Feb 6 2016,Gillingham,0-0,0-0,Swindon
+Sat Feb 6 2016,Sheffield United,0-2,0-0,Wigan
+Sat Feb 6 2016,Southend,3-0,0-0,Colchester
+Sat Feb 6 2016,Walsall,0-3,0-0,Millwall
+Sun Feb 7 2016,Barnsley,3-0,1-0,Bury
+Sun Feb 7 2016,Fleetwood Town,0-0,0-0,Shrewsbury
+Sun Feb 7 2016,Port Vale,1-1,0-1,Coventry
+Fri Feb 12 2016,Burton,1-0,1-0,Chesterfield
+Sat Feb 13 2016,Blackpool,2-3,1-3,Shrewsbury
+Sat Feb 13 2016,Colchester,1-4,0-1,Swindon
+Sat Feb 13 2016,Coventry,6-0,4-0,Bury
+Sat Feb 13 2016,Crewe,1-1,0-1,Walsall
+Sat Feb 13 2016,Doncaster,0-1,0-1,Sheffield United
+Sat Feb 13 2016,Gillingham,2-1,1-0,Barnsley
+Sat Feb 13 2016,Peterboro,0-4,0-1,Bradford
+Sat Feb 13 2016,Port Vale,0-0,0-0,Fleetwood Town
+Sat Feb 13 2016,Rochdale,0-1,0-0,Millwall
+Sat Feb 13 2016,Scunthorpe,1-0,1-0,Southend
+Sat Feb 13 2016,Wigan,0-0,0-0,Oldham
+Tue Feb 16 2016,Blackpool,0-0,0-0,Oldham
+Tue Feb 16 2016,Bradford,2-0,1-0,Southend
+Tue Feb 16 2016,Bury,1-0,1-0,Sheffield United
+Tue Feb 16 2016,Colchester,1-1,0-0,Chesterfield
+Tue Feb 16 2016,Millwall,0-2,0-1,Scunthorpe
+Tue Feb 16 2016,Rochdale,2-2,2-2,Crewe
+Sat Feb 20 2016,Barnsley,1-0,0-0,Doncaster
+Sat Feb 20 2016,Bradford,2-2,1-1,Rochdale
+Sat Feb 20 2016,Bury,5-2,1-2,Colchester
+Sat Feb 20 2016,Chesterfield,3-1,2-1,Crewe
+Sat Feb 20 2016,Fleetwood Town,2-1,2-0,Scunthorpe
+Sat Feb 20 2016,Millwall,3-0,1-0,Peterboro
+Sat Feb 20 2016,Oldham,2-1,0-1,Gillingham
+Sat Feb 20 2016,Sheffield United,1-0,0-0,Port Vale
+Sat Feb 20 2016,Swindon,3-2,1-1,Blackpool
+Sat Feb 20 2016,Walsall,1-2,0-1,Wigan
+Mon Feb 22 2016,Southend,3-1,1-1,Burton
+Tue Feb 23 2016,Bury,0-0,0-0,Barnsley
+Tue Feb 23 2016,Peterboro,1-2,1-1,Oldham
+Tue Feb 23 2016,Rochdale,1-0,1-0,Fleetwood Town
+Fri Feb 26 2016,Port Vale,3-1,3-0,Southend
+Sat Feb 27 2016,Blackpool,0-1,0-0,Bradford
+Sat Feb 27 2016,Burton,0-0,0-0,Walsall
+Sat Feb 27 2016,Colchester,0-0,0-0,Shrewsbury
+Sat Feb 27 2016,Coventry,1-2,0-0,Fleetwood Town
+Sat Feb 27 2016,Crewe,1-2,1-0,Barnsley
+Sat Feb 27 2016,Doncaster,1-1,1-1,Millwall
+Sat Feb 27 2016,Gillingham,1-2,0-2,Chesterfield
+Sat Feb 27 2016,Peterboro,1-2,1-0,Swindon
+Sat Feb 27 2016,Rochdale,2-0,0-0,Sheffield United
+Sat Feb 27 2016,Scunthorpe,1-1,0-0,Oldham
+Sat Feb 27 2016,Wigan,3-0,3-0,Bury
+Tue Mar 1 2016,Barnsley,2-0,1-0,Coventry
+Tue Mar 1 2016,Bradford,1-2,1-1,Colchester
+Tue Mar 1 2016,Bury,3-1,2-0,Peterboro
+Tue Mar 1 2016,Chesterfield,1-1,0-0,Blackpool
+Tue Mar 1 2016,Fleetwood Town,2-1,2-1,Gillingham
+Tue Mar 1 2016,Millwall,0-0,0-0,Wigan
+Tue Mar 1 2016,Oldham,1-1,0-0,Port Vale
+Tue Mar 1 2016,Sheffield United,0-1,0-0,Burton
+Tue Mar 1 2016,Shrewsbury,2-0,2-0,Rochdale
+Tue Mar 1 2016,Southend,1-1,0-0,Crewe
+Tue Mar 1 2016,Swindon,2-0,1-0,Doncaster
+Tue Mar 1 2016,Walsall,0-0,0-0,Scunthorpe
+Sat Mar 5 2016,Bury,0-0,0-0,Bradford
+Sat Mar 5 2016,Coventry,0-1,0-0,Rochdale
+Sat Mar 5 2016,Crewe,1-1,1-1,Burton
+Sat Mar 5 2016,Doncaster,0-1,0-0,Shrewsbury
+Sat Mar 5 2016,Fleetwood Town,2-2,1-1,Sheffield United
+Sat Mar 5 2016,Millwall,3-0,2-0,Blackpool
+Sat Mar 5 2016,Port Vale,2-0,1-0,Colchester
+Sat Mar 5 2016,Scunthorpe,0-0,0-0,Gillingham
+Sat Mar 5 2016,Southend,0-1,0-0,Chesterfield
+Sat Mar 5 2016,Walsall,1-3,1-1,Barnsley
+Sat Mar 5 2016,Wigan,1-1,0-0,Peterboro
+Tue Mar 8 2016,Bradford,2-0,2-0,Burton
+Tue Mar 8 2016,Scunthorpe,2-0,1-0,Doncaster
+Tue Mar 8 2016,Shrewsbury,2-1,2-1,Coventry
+Sat Mar 12 2016,Barnsley,0-2,0-1,Southend
+Sat Mar 12 2016,Blackpool,0-1,0-1,Coventry
+Sat Mar 12 2016,Bradford,2-1,1-0,Doncaster
+Sat Mar 12 2016,Burton,2-1,1-0,Fleetwood Town
+Sat Mar 12 2016,Chesterfield,1-4,1-1,Walsall
+Sat Mar 12 2016,Colchester,3-3,1-2,Wigan
+Sat Mar 12 2016,Gillingham,3-0,1-0,Crewe
+Sat Mar 12 2016,Peterboro,2-3,2-0,Port Vale
+Sat Mar 12 2016,Rochdale,3-0,2-0,Bury
+Sat Mar 12 2016,Sheffield United,3-0,2-0,Oldham
+Sat Mar 12 2016,Shrewsbury,2-2,1-0,Scunthorpe
+Sat Mar 12 2016,Swindon,2-2,0-2,Millwall
+Tue Mar 15 2016,Fleetwood Town,0-1,0-0,Walsall
+Tue Mar 15 2016,Oldham,1-0,0-0,Blackpool
+Sat Mar 19 2016,Bury,2-2,1-2,Shrewsbury
+Sat Mar 19 2016,Coventry,0-0,0-0,Swindon
+Sat Mar 19 2016,Crewe,1-2,0-1,Blackpool
+Sat Mar 19 2016,Doncaster,1-2,1-1,Peterboro
+Sat Mar 19 2016,Fleetwood Town,0-2,0-0,Barnsley
+Sat Mar 19 2016,Millwall,1-0,1-0,Sheffield United
+Sat Mar 19 2016,Oldham,2-3,1-1,Rochdale
+Sat Mar 19 2016,Port Vale,0-4,0-2,Burton
+Sat Mar 19 2016,Scunthorpe,1-1,1-0,Chesterfield
+Sat Mar 19 2016,Southend,1-1,1-0,Gillingham
+Sat Mar 19 2016,Walsall,2-1,0-1,Colchester
+Sat Mar 19 2016,Wigan,1-0,0-0,Bradford
+Fri Mar 25 2016,Barnsley,0-0,0-0,Scunthorpe
+Fri Mar 25 2016,Blackpool,1-1,0-0,Bury
+Fri Mar 25 2016,Colchester,4-1,0-1,Doncaster
+Fri Mar 25 2016,Peterboro,3-1,1-0,Coventry
+Fri Mar 25 2016,Rochdale,4-1,1-1,Southend
+Fri Mar 25 2016,Sheffield United,3-2,1-0,Crewe
+Fri Mar 25 2016,Shrewsbury,1-1,0-0,Port Vale
+Fri Mar 25 2016,Swindon,1-4,0-1,Wigan
+Sat Mar 26 2016,Bradford,1-0,0-0,Millwall
+Sat Mar 26 2016,Burton,0-0,0-0,Oldham
+Sat Mar 26 2016,Chesterfield,0-0,0-0,Fleetwood Town
+Mon Mar 28 2016,Bury,0-1,0-1,Gillingham
+Mon Mar 28 2016,Crewe,0-1,0-0,Bradford
+Mon Mar 28 2016,Doncaster,0-1,0-0,Blackpool
+Mon Mar 28 2016,Millwall,2-0,2-0,Burton
+Mon Mar 28 2016,Oldham,1-0,0-0,Chesterfield
+Mon Mar 28 2016,Port Vale,0-1,0-1,Barnsley
+Mon Mar 28 2016,Scunthorpe,6-0,2-0,Swindon
+Mon Mar 28 2016,Wigan,1-0,0-0,Rochdale
+Tue Mar 29 2016,Coventry,0-1,0-1,Colchester
+Wed Mar 30 2016,Southend,3-1,1-1,Sheffield United
+Sat Apr 2 2016,Blackpool,2-0,0-0,Southend
+Sat Apr 2 2016,Bradford,1-0,0-0,Scunthorpe
+Sat Apr 2 2016,Burton,1-1,0-0,Bury
+Sat Apr 2 2016,Chesterfield,4-2,0-1,Port Vale
+Sat Apr 2 2016,Colchester,0-0,0-0,Millwall
+Sat Apr 2 2016,Gillingham,0-0,0-0,Coventry
+Sat Apr 2 2016,Peterboro,3-0,2-0,Crewe
+Sat Apr 2 2016,Rochdale,2-2,1-0,Doncaster
+Sat Apr 2 2016,Sheffield United,2-0,2-0,Walsall
+Sat Apr 2 2016,Shrewsbury,1-5,1-1,Wigan
+Sat Apr 2 2016,Swindon,1-1,0-1,Fleetwood Town
+Tue Apr 5 2016,Fleetwood Town,2-0,1-0,Peterboro
+Tue Apr 5 2016,Oldham,2-0,1-0,Swindon
+Sat Apr 9 2016,Barnsley,1-2,0-0,Chesterfield
+Sat Apr 9 2016,Blackpool,0-1,0-0,Colchester
+Sat Apr 9 2016,Bradford,1-0,1-0,Swindon
+Sat Apr 9 2016,Bury,1-0,0-0,Doncaster
+Sat Apr 9 2016,Millwall,3-1,0-1,Shrewsbury
+Sat Apr 9 2016,Oldham,1-0,0-0,Walsall
+Sat Apr 9 2016,Peterboro,1-2,1-2,Rochdale
+Sat Apr 9 2016,Port Vale,3-0,1-0,Crewe
+Sat Apr 9 2016,Scunthorpe,1-0,0-0,Burton
+Sat Apr 9 2016,Sheffield United,0-0,0-0,Gillingham
+Sat Apr 9 2016,Southend,2-2,0-0,Fleetwood Town
+Sat Apr 9 2016,Wigan,1-0,0-0,Coventry
+Tue Apr 12 2016,Barnsley,2-1,1-0,Oldham
+Tue Apr 12 2016,Gillingham,1-2,0-0,Walsall
+Sat Apr 16 2016,Burton,0-0,0-0,Barnsley
+Sat Apr 16 2016,Chesterfield,0-3,0-2,Sheffield United
+Sat Apr 16 2016,Colchester,1-4,0-1,Peterboro
+Sat Apr 16 2016,Coventry,2-1,0-1,Millwall
+Sat Apr 16 2016,Crewe,2-3,1-1,Scunthorpe
+Sat Apr 16 2016,Doncaster,3-1,0-1,Wigan
+Sat Apr 16 2016,Fleetwood Town,1-1,0-0,Oldham
+Sat Apr 16 2016,Gillingham,0-2,0-2,Port Vale
+Sat Apr 16 2016,Rochdale,3-0,1-0,Blackpool
+Sat Apr 16 2016,Shrewsbury,1-1,0-0,Bradford
+Sat Apr 16 2016,Swindon,0-1,0-0,Bury
+Sat Apr 16 2016,Walsall,1-0,0-0,Southend
+Tue Apr 19 2016,Barnsley,1-0,0-0,Peterboro
+Tue Apr 19 2016,Burton,1-1,1-1,Wigan
+Tue Apr 19 2016,Chesterfield,1-1,1-1,Doncaster
+Tue Apr 19 2016,Coventry,1-0,0-0,Bradford
+Tue Apr 19 2016,Crewe,1-1,0-0,Colchester
+Tue Apr 19 2016,Millwall,1-0,0-0,Fleetwood Town
+Tue Apr 19 2016,Rochdale,1-1,1-0,Gillingham
+Tue Apr 19 2016,Scunthorpe,2-1,1-0,Bury
+Tue Apr 19 2016,Shrewsbury,1-2,0-1,Sheffield United
+Tue Apr 19 2016,Southend,0-1,0-0,Oldham
+Tue Apr 19 2016,Walsall,1-1,0-0,Swindon
+Sat Apr 23 2016,Bradford,4-0,0-0,Walsall
+Sat Apr 23 2016,Bury,1-3,1-2,Millwall
+Sat Apr 23 2016,Colchester,0-3,0-1,Burton
+Sat Apr 23 2016,Doncaster,2-0,2-0,Coventry
+Sat Apr 23 2016,Fleetwood Town,0-0,0-0,Blackpool
+Sat Apr 23 2016,Gillingham,2-3,1-1,Shrewsbury
+Sat Apr 23 2016,Oldham,1-0,0-0,Crewe
+Sat Apr 23 2016,Peterboro,0-2,0-0,Scunthorpe
+Sat Apr 23 2016,Port Vale,4-1,2-0,Rochdale
+Sat Apr 23 2016,Sheffield United,0-0,0-0,Barnsley
+Sat Apr 23 2016,Swindon,1-0,0-0,Chesterfield
+Sat Apr 23 2016,Wigan,4-1,3-0,Southend
+Tue Apr 26 2016,Walsall,2-1,2-0,Shrewsbury
+Sat Apr 30 2016,Barnsley,2-2,0-1,Colchester
+Sat Apr 30 2016,Blackpool,0-4,0-0,Wigan
+Sat Apr 30 2016,Burton,2-1,1-0,Gillingham
+Sat Apr 30 2016,Chesterfield,3-0,2-0,Bury
+Sat Apr 30 2016,Coventry,3-1,2-0,Sheffield United
+Sat Apr 30 2016,Crewe,3-1,1-1,Doncaster
+Sat Apr 30 2016,Millwall,3-0,2-0,Oldham
+Sat Apr 30 2016,Rochdale,2-2,1-2,Swindon
+Sat Apr 30 2016,Scunthorpe,1-0,0-0,Port Vale
+Sat Apr 30 2016,Shrewsbury,3-4,0-1,Peterboro
+Sat Apr 30 2016,Southend,0-1,0-1,Bradford
+Mon May 2 2016,Walsall,3-1,2-0,Fleetwood Town
+Sun May 8 2016,Bradford,2-0,1-0,Chesterfield
+Sun May 8 2016,Bury,3-2,2-2,Southend
+Sun May 8 2016,Colchester,1-2,0-1,Rochdale
+Sun May 8 2016,Doncaster,0-0,0-0,Burton
+Sun May 8 2016,Fleetwood Town,2-0,2-0,Crewe
+Sun May 8 2016,Gillingham,1-2,0-0,Millwall
+Sun May 8 2016,Oldham,0-2,0-0,Coventry
+Sun May 8 2016,Peterboro,5-1,0-1,Blackpool
+Sun May 8 2016,Port Vale,0-5,0-3,Walsall
+Sun May 8 2016,Sheffield United,0-2,0-1,Scunthorpe
+Sun May 8 2016,Swindon,3-0,1-0,Shrewsbury
+Sun May 8 2016,Wigan,1-4,1-2,Barnsley

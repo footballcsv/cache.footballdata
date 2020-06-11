@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 6 2016,Accrington,3-2,2-1,Doncaster
+Sat Aug 6 2016,Blackpool,2-0,1-0,Exeter
+Sat Aug 6 2016,Cambridge,1-1,0-0,Barnet
+Sat Aug 6 2016,Cheltenham,1-1,0-1,Leyton Orient
+Sat Aug 6 2016,Crawley Town,1-0,0-0,Wycombe
+Sat Aug 6 2016,Grimsby,2-0,1-0,Morecambe
+Sat Aug 6 2016,Hartlepool,1-1,1-1,Colchester
+Sat Aug 6 2016,Newport County,2-3,1-1,Mansfield
+Sat Aug 6 2016,Plymouth,0-3,0-0,Luton
+Sat Aug 6 2016,Portsmouth,1-1,1-1,Carlisle
+Sat Aug 6 2016,Stevenage,1-2,0-0,Crewe
+Sat Aug 6 2016,Yeovil,2-0,2-0,Notts County
+Sat Aug 13 2016,Barnet,2-0,1-0,Accrington
+Sat Aug 13 2016,Carlisle,1-0,1-0,Plymouth
+Sat Aug 13 2016,Colchester,2-0,1-0,Cambridge
+Sat Aug 13 2016,Crewe,0-0,0-0,Portsmouth
+Sat Aug 13 2016,Doncaster,1-1,0-1,Crawley Town
+Sat Aug 13 2016,Exeter,1-2,1-0,Hartlepool
+Sat Aug 13 2016,Leyton Orient,0-1,0-1,Newport County
+Sat Aug 13 2016,Luton,1-1,1-0,Yeovil
+Sat Aug 13 2016,Mansfield,1-1,0-0,Cheltenham
+Sat Aug 13 2016,Morecambe,2-1,1-1,Blackpool
+Sat Aug 13 2016,Notts County,1-1,1-1,Stevenage
+Sat Aug 13 2016,Wycombe,2-1,0-0,Grimsby
+Tue Aug 16 2016,Barnet,1-1,0-1,Blackpool
+Tue Aug 16 2016,Carlisle,1-1,0-0,Cheltenham
+Tue Aug 16 2016,Colchester,3-2,3-0,Grimsby
+Tue Aug 16 2016,Crewe,3-3,2-1,Hartlepool
+Tue Aug 16 2016,Doncaster,1-0,0-0,Cambridge
+Tue Aug 16 2016,Exeter,0-1,0-0,Crawley Town
+Tue Aug 16 2016,Leyton Orient,3-0,2-0,Stevenage
+Tue Aug 16 2016,Luton,2-1,0-0,Newport County
+Tue Aug 16 2016,Mansfield,1-0,0-0,Yeovil
+Tue Aug 16 2016,Morecambe,2-0,2-0,Portsmouth
+Tue Aug 16 2016,Notts County,1-2,1-2,Plymouth
+Tue Aug 16 2016,Wycombe,1-1,1-0,Accrington
+Sat Aug 20 2016,Accrington,1-2,0-0,Exeter
+Sat Aug 20 2016,Blackpool,0-0,0-0,Wycombe
+Sat Aug 20 2016,Cambridge,2-2,2-1,Carlisle
+Sat Aug 20 2016,Cheltenham,0-1,0-0,Doncaster
+Sat Aug 20 2016,Crawley Town,1-1,0-1,Barnet
+Sat Aug 20 2016,Grimsby,1-2,0-0,Leyton Orient
+Sat Aug 20 2016,Hartlepool,1-2,1-0,Notts County
+Sat Aug 20 2016,Newport County,1-1,0-1,Crewe
+Sat Aug 20 2016,Plymouth,2-0,2-0,Mansfield
+Sat Aug 20 2016,Portsmouth,2-0,0-0,Colchester
+Sat Aug 20 2016,Stevenage,2-1,0-1,Luton
+Sat Aug 20 2016,Yeovil,0-1,0-0,Morecambe
+Sat Aug 27 2016,Accrington,2-3,2-1,Morecambe
+Sat Aug 27 2016,Barnet,0-1,0-1,Carlisle
+Sat Aug 27 2016,Blackpool,0-1,0-0,Plymouth
+Sat Aug 27 2016,Cambridge,0-3,0-0,Luton
+Sat Aug 27 2016,Cheltenham,2-0,2-0,Crewe
+Sat Aug 27 2016,Crawley Town,1-3,0-0,Notts County
+Sat Aug 27 2016,Doncaster,4-1,1-0,Yeovil
+Sat Aug 27 2016,Exeter,0-1,0-0,Portsmouth
+Sat Aug 27 2016,Grimsby,5-2,2-1,Stevenage
+Sat Aug 27 2016,Hartlepool,2-2,2-2,Newport County
+Sat Aug 27 2016,Leyton Orient,1-2,0-0,Mansfield
+Sat Aug 27 2016,Wycombe,0-2,0-0,Colchester
+Sat Sep 3 2016,Carlisle,1-1,0-0,Accrington
+Sat Sep 3 2016,Colchester,2-3,2-1,Exeter
+Sat Sep 3 2016,Crewe,2-1,1-0,Doncaster
+Sat Sep 3 2016,Luton,4-1,1-0,Wycombe
+Sat Sep 3 2016,Mansfield,0-0,0-0,Cambridge
+Sat Sep 3 2016,Morecambe,1-2,0-1,Leyton Orient
+Sat Sep 3 2016,Notts County,2-2,0-1,Grimsby
+Sat Sep 3 2016,Plymouth,1-0,0-0,Cheltenham
+Sat Sep 3 2016,Portsmouth,3-0,3-0,Crawley Town
+Sat Sep 3 2016,Stevenage,6-1,2-1,Hartlepool
+Sat Sep 3 2016,Yeovil,0-3,0-0,Blackpool
+Sat Sep 10 2016,Carlisle,2-2,0-1,Leyton Orient
+Sat Sep 10 2016,Colchester,3-2,1-1,Blackpool
+Sat Sep 10 2016,Crewe,2-0,1-0,Exeter
+Sat Sep 10 2016,Luton,1-2,0-1,Grimsby
+Sat Sep 10 2016,Mansfield,0-1,0-0,Barnet
+Sat Sep 10 2016,Morecambe,1-5,1-2,Doncaster
+Sat Sep 10 2016,Newport County,2-2,2-2,Cheltenham
+Sat Sep 10 2016,Notts County,0-2,0-1,Accrington
+Sat Sep 10 2016,Plymouth,2-1,1-0,Cambridge
+Sat Sep 10 2016,Portsmouth,4-2,3-2,Wycombe
+Sat Sep 10 2016,Stevenage,2-1,1-0,Crawley Town
+Sat Sep 10 2016,Yeovil,1-2,0-0,Hartlepool
+Sat Sep 17 2016,Accrington,1-0,0-0,Portsmouth
+Sat Sep 17 2016,Barnet,1-1,0-1,Colchester
+Sat Sep 17 2016,Blackpool,2-2,0-0,Carlisle
+Sat Sep 17 2016,Cambridge,1-2,1-0,Morecambe
+Sat Sep 17 2016,Cheltenham,2-3,1-2,Notts County
+Sat Sep 17 2016,Crawley Town,2-0,1-0,Luton
+Sat Sep 17 2016,Doncaster,2-0,1-0,Newport County
+Sat Sep 17 2016,Exeter,0-2,0-2,Plymouth
+Sat Sep 17 2016,Grimsby,0-2,0-1,Crewe
+Sat Sep 17 2016,Hartlepool,0-0,0-0,Mansfield
+Sat Sep 17 2016,Leyton Orient,0-1,0-0,Yeovil
+Sat Sep 17 2016,Wycombe,1-0,1-0,Stevenage
+Sat Sep 24 2016,Carlisle,1-0,0-0,Wycombe
+Sat Sep 24 2016,Colchester,1-2,1-0,Accrington
+Sat Sep 24 2016,Crewe,1-1,0-1,Blackpool
+Sat Sep 24 2016,Luton,3-1,2-1,Doncaster
+Sat Sep 24 2016,Mansfield,0-1,0-1,Grimsby
+Sat Sep 24 2016,Morecambe,2-3,0-0,Crawley Town
+Sat Sep 24 2016,Newport County,1-2,1-0,Cambridge
+Sat Sep 24 2016,Notts County,3-1,0-0,Leyton Orient
+Sat Sep 24 2016,Plymouth,1-1,0-1,Hartlepool
+Sat Sep 24 2016,Portsmouth,5-1,1-1,Barnet
+Sat Sep 24 2016,Stevenage,0-2,0-0,Exeter
+Sat Sep 24 2016,Yeovil,4-2,3-1,Cheltenham
+Tue Sep 27 2016,Accrington,1-1,0-1,Mansfield
+Tue Sep 27 2016,Barnet,2-2,2-1,Morecambe
+Tue Sep 27 2016,Blackpool,3-1,1-1,Portsmouth
+Tue Sep 27 2016,Cambridge,1-0,0-0,Yeovil
+Tue Sep 27 2016,Cheltenham,0-0,0-0,Stevenage
+Tue Sep 27 2016,Crawley Town,1-1,1-0,Colchester
+Tue Sep 27 2016,Doncaster,2-2,2-1,Carlisle
+Tue Sep 27 2016,Exeter,0-2,0-2,Notts County
+Tue Sep 27 2016,Grimsby,1-0,0-0,Newport County
+Tue Sep 27 2016,Hartlepool,1-1,1-0,Luton
+Tue Sep 27 2016,Leyton Orient,0-2,0-1,Plymouth
+Tue Sep 27 2016,Wycombe,5-1,3-0,Crewe
+Sat Oct 1 2016,Barnet,0-0,0-0,Leyton Orient
+Sat Oct 1 2016,Cambridge,2-1,1-0,Accrington
+Sat Oct 1 2016,Carlisle,2-0,0-0,Colchester
+Sat Oct 1 2016,Cheltenham,1-1,0-0,Luton
+Sat Oct 1 2016,Crawley Town,1-0,0-0,Blackpool
+Sat Oct 1 2016,Crewe,1-1,0-0,Mansfield
+Sat Oct 1 2016,Grimsby,0-3,0-2,Hartlepool
+Sat Oct 1 2016,Plymouth,4-1,2-1,Yeovil
+Sat Oct 1 2016,Portsmouth,1-2,1-2,Doncaster
+Sat Oct 1 2016,Wycombe,1-0,0-0,Exeter
+Sat Oct 8 2016,Accrington,1-1,0-0,Cheltenham
+Sat Oct 8 2016,Blackpool,1-1,0-1,Cambridge
+Sat Oct 8 2016,Colchester,0-0,0-0,Newport County
+Sat Oct 8 2016,Doncaster,3-2,2-0,Barnet
+Sat Oct 8 2016,Exeter,0-0,0-0,Grimsby
+Sat Oct 8 2016,Hartlepool,1-1,1-0,Crawley Town
+Sat Oct 8 2016,Leyton Orient,0-1,0-0,Portsmouth
+Sat Oct 8 2016,Luton,1-1,1-0,Crewe
+Sat Oct 8 2016,Mansfield,3-1,0-0,Notts County
+Sat Oct 8 2016,Morecambe,0-3,0-1,Carlisle
+Sat Oct 8 2016,Stevenage,1-2,0-0,Plymouth
+Sat Oct 8 2016,Yeovil,1-0,1-0,Wycombe
+Tue Oct 11 2016,Notts County,1-2,0-1,Morecambe
+Sat Oct 15 2016,Accrington,2-1,0-0,Blackpool
+Sat Oct 15 2016,Barnet,1-4,1-1,Exeter
+Sat Oct 15 2016,Cambridge,0-1,0-1,Grimsby
+Sat Oct 15 2016,Carlisle,3-2,1-0,Hartlepool
+Sat Oct 15 2016,Cheltenham,2-1,1-0,Crawley Town
+Sat Oct 15 2016,Doncaster,1-0,1-0,Colchester
+Sat Oct 15 2016,Leyton Orient,1-2,0-1,Luton
+Sat Oct 15 2016,Mansfield,1-1,0-1,Wycombe
+Sat Oct 15 2016,Morecambe,0-2,0-1,Stevenage
+Sat Oct 15 2016,Notts County,1-1,0-0,Crewe
+Sat Oct 15 2016,Plymouth,2-2,1-1,Portsmouth
+Sat Oct 15 2016,Yeovil,1-0,0-0,Newport County
+Sat Oct 22 2016,Blackpool,4-2,2-1,Doncaster
+Sat Oct 22 2016,Colchester,2-2,2-1,Morecambe
+Sat Oct 22 2016,Crawley Town,0-0,0-0,Accrington
+Sat Oct 22 2016,Crewe,0-1,0-0,Yeovil
+Sat Oct 22 2016,Exeter,1-2,0-2,Cambridge
+Sat Oct 22 2016,Grimsby,0-1,0-1,Cheltenham
+Sat Oct 22 2016,Hartlepool,1-3,1-0,Leyton Orient
+Sat Oct 22 2016,Luton,1-1,0-1,Mansfield
+Sat Oct 22 2016,Newport County,1-3,0-1,Plymouth
+Sat Oct 22 2016,Portsmouth,1-2,1-1,Notts County
+Sat Oct 22 2016,Stevenage,1-2,1-1,Carlisle
+Sat Oct 22 2016,Wycombe,0-2,0-0,Barnet
+Tue Oct 25 2016,Newport County,2-2,1-0,Barnet
+Sat Oct 29 2016,Accrington,1-3,0-0,Newport County
+Sat Oct 29 2016,Barnet,3-2,0-1,Hartlepool
+Sat Oct 29 2016,Cambridge,0-1,0-1,Portsmouth
+Sat Oct 29 2016,Carlisle,3-1,3-0,Crawley Town
+Sat Oct 29 2016,Cheltenham,2-2,2-1,Blackpool
+Sat Oct 29 2016,Doncaster,2-2,2-1,Wycombe
+Sat Oct 29 2016,Leyton Orient,0-2,0-2,Crewe
+Sat Oct 29 2016,Mansfield,1-2,0-1,Stevenage
+Sat Oct 29 2016,Morecambe,0-3,0-3,Exeter
+Sat Oct 29 2016,Notts County,0-0,0-0,Luton
+Sat Oct 29 2016,Plymouth,2-1,1-1,Colchester
+Sat Oct 29 2016,Yeovil,0-0,0-0,Grimsby
+Sat Nov 12 2016,Blackpool,4-0,1-0,Notts County
+Sat Nov 12 2016,Colchester,0-3,0-1,Leyton Orient
+Sat Nov 12 2016,Crawley Town,1-3,1-2,Cambridge
+Sat Nov 12 2016,Crewe,1-2,1-1,Plymouth
+Sat Nov 12 2016,Exeter,1-3,0-0,Doncaster
+Sat Nov 12 2016,Grimsby,2-2,2-0,Barnet
+Sat Nov 12 2016,Hartlepool,2-0,1-0,Cheltenham
+Sat Nov 12 2016,Luton,1-0,0-0,Accrington
+Sat Nov 12 2016,Newport County,2-0,1-0,Carlisle
+Sat Nov 12 2016,Portsmouth,4-0,1-0,Mansfield
+Sat Nov 12 2016,Stevenage,2-2,0-0,Yeovil
+Sat Nov 12 2016,Wycombe,2-0,0-0,Morecambe
+Sat Nov 19 2016,Accrington,0-1,0-0,Stevenage
+Sat Nov 19 2016,Barnet,0-0,0-0,Crewe
+Sat Nov 19 2016,Cambridge,1-2,0-1,Wycombe
+Sat Nov 19 2016,Carlisle,3-2,1-1,Exeter
+Sat Nov 19 2016,Cheltenham,1-1,0-0,Portsmouth
+Sat Nov 19 2016,Doncaster,2-1,1-1,Hartlepool
+Sat Nov 19 2016,Leyton Orient,1-2,0-1,Blackpool
+Sat Nov 19 2016,Mansfield,3-1,0-0,Crawley Town
+Sat Nov 19 2016,Morecambe,0-2,0-1,Luton
+Sat Nov 19 2016,Notts County,0-3,0-2,Newport County
+Sat Nov 19 2016,Plymouth,0-3,0-1,Grimsby
+Sat Nov 19 2016,Yeovil,2-1,0-0,Colchester
+Tue Nov 22 2016,Cheltenham,0-3,0-0,Colchester
+Tue Nov 22 2016,Crewe,2-1,2-1,Morecambe
+Tue Nov 22 2016,Grimsby,2-2,0-1,Carlisle
+Tue Nov 22 2016,Hartlepool,2-0,0-0,Accrington
+Tue Nov 22 2016,Leyton Orient,0-1,0-1,Exeter
+Tue Nov 22 2016,Luton,1-3,1-2,Portsmouth
+Tue Nov 22 2016,Mansfield,1-0,0-0,Blackpool
+Tue Nov 22 2016,Newport County,0-1,0-0,Wycombe
+Tue Nov 22 2016,Notts County,0-1,0-1,Cambridge
+Tue Nov 22 2016,Plymouth,0-2,0-2,Barnet
+Sat Nov 26 2016,Accrington,1-1,0-0,Yeovil
+Sat Nov 26 2016,Barnet,3-2,1-1,Notts County
+Sat Nov 26 2016,Blackpool,4-1,1-1,Newport County
+Sat Nov 26 2016,Cambridge,3-1,1-0,Cheltenham
+Sat Nov 26 2016,Carlisle,5-2,1-1,Mansfield
+Sat Nov 26 2016,Colchester,4-0,1-0,Crewe
+Sat Nov 26 2016,Crawley Town,3-2,1-1,Grimsby
+Sat Nov 26 2016,Doncaster,3-1,1-1,Leyton Orient
+Sat Nov 26 2016,Exeter,0-0,0-0,Luton
+Sat Nov 26 2016,Morecambe,2-1,1-1,Plymouth
+Sat Nov 26 2016,Portsmouth,1-2,0-0,Stevenage
+Sat Nov 26 2016,Wycombe,2-0,1-0,Hartlepool
+Sat Dec 3 2016,Stevenage,3-4,0-3,Doncaster
+Sat Dec 3 2016,Yeovil,5-0,3-0,Crawley Town
+Tue Dec 6 2016,Newport County,0-2,0-2,Stevenage
+Sat Dec 10 2016,Cheltenham,1-3,0-0,Exeter
+Sat Dec 10 2016,Crewe,0-2,0-1,Crawley Town
+Sat Dec 10 2016,Grimsby,0-1,0-0,Portsmouth
+Sat Dec 10 2016,Hartlepool,0-5,0-0,Cambridge
+Sat Dec 10 2016,Leyton Orient,1-0,0-0,Accrington
+Sat Dec 10 2016,Luton,1-1,1-1,Carlisle
+Sat Dec 10 2016,Mansfield,0-0,0-0,Colchester
+Sat Dec 10 2016,Notts County,0-2,0-1,Wycombe
+Sat Dec 10 2016,Plymouth,2-0,1-0,Doncaster
+Sat Dec 10 2016,Stevenage,0-2,0-0,Blackpool
+Sat Dec 10 2016,Yeovil,0-1,0-0,Barnet
+Sat Dec 17 2016,Accrington,0-1,0-0,Plymouth
+Sat Dec 17 2016,Barnet,1-2,0-1,Stevenage
+Sat Dec 17 2016,Blackpool,0-2,0-1,Luton
+Sat Dec 17 2016,Cambridge,2-1,0-0,Crewe
+Sat Dec 17 2016,Carlisle,2-1,2-0,Yeovil
+Sat Dec 17 2016,Colchester,2-1,1-1,Notts County
+Sat Dec 17 2016,Crawley Town,3-1,1-1,Newport County
+Sat Dec 17 2016,Doncaster,1-0,1-0,Grimsby
+Sat Dec 17 2016,Exeter,2-0,1-0,Mansfield
+Sat Dec 17 2016,Morecambe,1-2,1-0,Cheltenham
+Sat Dec 17 2016,Portsmouth,0-0,0-0,Hartlepool
+Sat Dec 17 2016,Wycombe,1-0,0-0,Leyton Orient
+Mon Dec 26 2016,Cheltenham,1-2,1-1,Barnet
+Mon Dec 26 2016,Crewe,1-1,1-1,Carlisle
+Mon Dec 26 2016,Grimsby,2-0,1-0,Accrington
+Mon Dec 26 2016,Hartlepool,0-1,0-0,Blackpool
+Mon Dec 26 2016,Leyton Orient,3-2,3-0,Crawley Town
+Mon Dec 26 2016,Luton,0-1,0-0,Colchester
+Mon Dec 26 2016,Mansfield,0-1,0-1,Morecambe
+Mon Dec 26 2016,Newport County,2-3,1-0,Portsmouth
+Mon Dec 26 2016,Notts County,0-1,0-0,Doncaster
+Mon Dec 26 2016,Plymouth,3-3,2-1,Wycombe
+Mon Dec 26 2016,Stevenage,1-2,0-1,Cambridge
+Mon Dec 26 2016,Yeovil,0-0,0-0,Exeter
+Fri Dec 30 2016,Cheltenham,0-1,0-1,Wycombe
+Fri Dec 30 2016,Hartlepool,3-2,3-0,Morecambe
+Fri Dec 30 2016,Yeovil,0-0,0-0,Portsmouth
+Sat Dec 31 2016,Crewe,0-1,0-1,Accrington
+Sat Dec 31 2016,Grimsby,0-0,0-0,Blackpool
+Sat Dec 31 2016,Leyton Orient,1-1,0-1,Cambridge
+Sat Dec 31 2016,Luton,3-1,1-1,Barnet
+Sat Dec 31 2016,Mansfield,1-1,0-0,Doncaster
+Sat Dec 31 2016,Newport County,1-4,0-1,Exeter
+Sat Dec 31 2016,Notts County,2-3,2-2,Carlisle
+Sat Dec 31 2016,Plymouth,2-0,0-0,Crawley Town
+Sat Dec 31 2016,Stevenage,2-4,1-2,Colchester
+Mon Jan 2 2017,Accrington,2-2,0-0,Hartlepool
+Mon Jan 2 2017,Barnet,1-0,1-0,Plymouth
+Mon Jan 2 2017,Blackpool,0-1,0-1,Mansfield
+Mon Jan 2 2017,Cambridge,4-0,1-0,Notts County
+Mon Jan 2 2017,Carlisle,1-3,1-0,Grimsby
+Mon Jan 2 2017,Colchester,2-0,1-0,Cheltenham
+Mon Jan 2 2017,Crawley Town,2-0,2-0,Yeovil
+Mon Jan 2 2017,Doncaster,1-0,0-0,Stevenage
+Mon Jan 2 2017,Exeter,4-0,1-0,Leyton Orient
+Mon Jan 2 2017,Morecambe,0-0,0-0,Crewe
+Mon Jan 2 2017,Portsmouth,1-0,1-0,Luton
+Mon Jan 2 2017,Wycombe,2-1,0-0,Newport County
+Thu Jan 5 2017,Doncaster,3-1,1-1,Portsmouth
+Sat Jan 7 2017,Colchester,4-1,2-1,Carlisle
+Sat Jan 7 2017,Hartlepool,0-1,0-1,Grimsby
+Sat Jan 7 2017,Leyton Orient,1-3,0-0,Barnet
+Sat Jan 7 2017,Mansfield,3-0,1-0,Crewe
+Sat Jan 7 2017,Morecambe,4-1,3-0,Notts County
+Sat Jan 7 2017,Stevenage,3-1,2-0,Newport County
+Sat Jan 14 2017,Barnet,1-3,1-3,Doncaster
+Sat Jan 14 2017,Cambridge,0-0,0-0,Blackpool
+Sat Jan 14 2017,Carlisle,1-1,0-1,Morecambe
+Sat Jan 14 2017,Cheltenham,3-0,0-0,Accrington
+Sat Jan 14 2017,Crawley Town,1-0,0-0,Hartlepool
+Sat Jan 14 2017,Crewe,1-2,1-1,Luton
+Sat Jan 14 2017,Grimsby,0-3,0-1,Exeter
+Sat Jan 14 2017,Newport County,1-1,1-1,Colchester
+Sat Jan 14 2017,Notts County,0-0,0-0,Mansfield
+Sat Jan 14 2017,Plymouth,4-2,2-2,Stevenage
+Sat Jan 14 2017,Portsmouth,2-1,1-1,Leyton Orient
+Sat Jan 14 2017,Wycombe,1-1,1-1,Yeovil
+Sat Jan 21 2017,Accrington,1-1,1-1,Carlisle
+Sat Jan 21 2017,Barnet,0-0,0-0,Newport County
+Sat Jan 21 2017,Blackpool,2-2,0-1,Yeovil
+Sat Jan 21 2017,Cambridge,1-3,1-1,Mansfield
+Sat Jan 21 2017,Cheltenham,1-2,0-1,Plymouth
+Sat Jan 21 2017,Doncaster,3-1,1-1,Crewe
+Sat Jan 21 2017,Exeter,3-0,1-0,Colchester
+Sat Jan 21 2017,Grimsby,2-0,1-0,Notts County
+Sat Jan 21 2017,Hartlepool,2-0,2-0,Stevenage
+Sat Jan 21 2017,Wycombe,1-1,0-0,Luton
+Sat Jan 28 2017,Carlisle,1-1,1-0,Barnet
+Sat Jan 28 2017,Crewe,0-0,0-0,Cheltenham
+Sat Jan 28 2017,Luton,2-0,1-0,Cambridge
+Sat Jan 28 2017,Mansfield,2-0,0-0,Leyton Orient
+Sat Jan 28 2017,Newport County,3-1,1-0,Hartlepool
+Sat Jan 28 2017,Notts County,2-1,0-0,Crawley Town
+Sat Jan 28 2017,Portsmouth,0-1,0-0,Exeter
+Sat Jan 28 2017,Stevenage,2-0,1-0,Grimsby
+Sat Jan 28 2017,Yeovil,0-3,0-2,Doncaster
+Tue Jan 31 2017,Exeter,4-2,1-1,Wycombe
+Tue Jan 31 2017,Luton,2-3,1-2,Cheltenham
+Tue Jan 31 2017,Yeovil,2-1,0-0,Plymouth
+Sat Feb 4 2017,Accrington,2-0,1-0,Notts County
+Sat Feb 4 2017,Barnet,0-2,0-1,Mansfield
+Sat Feb 4 2017,Blackpool,1-1,1-1,Colchester
+Sat Feb 4 2017,Cambridge,0-1,0-1,Plymouth
+Sat Feb 4 2017,Cheltenham,1-1,0-0,Newport County
+Sat Feb 4 2017,Crawley Town,1-2,1-0,Stevenage
+Sat Feb 4 2017,Doncaster,1-1,0-1,Morecambe
+Sat Feb 4 2017,Exeter,4-0,1-0,Crewe
+Sat Feb 4 2017,Grimsby,1-1,0-0,Luton
+Sat Feb 4 2017,Hartlepool,1-1,0-0,Yeovil
+Sat Feb 4 2017,Leyton Orient,1-2,1-1,Carlisle
+Sat Feb 4 2017,Wycombe,1-0,0-0,Portsmouth
+Tue Feb 7 2017,Blackpool,0-0,0-0,Crawley Town
+Tue Feb 7 2017,Leyton Orient,0-1,0-0,Morecambe
+Fri Feb 10 2017,Newport County,0-0,0-0,Doncaster
+Sat Feb 11 2017,Carlisle,1-4,0-1,Blackpool
+Sat Feb 11 2017,Colchester,2-1,2-0,Barnet
+Sat Feb 11 2017,Crewe,5-0,4-0,Grimsby
+Sat Feb 11 2017,Luton,2-1,0-0,Crawley Town
+Sat Feb 11 2017,Mansfield,4-0,2-0,Hartlepool
+Sat Feb 11 2017,Morecambe,2-0,0-0,Cambridge
+Sat Feb 11 2017,Notts County,2-1,2-0,Cheltenham
+Sat Feb 11 2017,Plymouth,3-0,2-0,Exeter
+Sat Feb 11 2017,Portsmouth,2-0,1-0,Accrington
+Sat Feb 11 2017,Stevenage,3-0,2-0,Wycombe
+Sat Feb 11 2017,Yeovil,1-1,1-0,Leyton Orient
+Tue Feb 14 2017,Carlisle,2-1,1-0,Doncaster
+Tue Feb 14 2017,Colchester,2-3,1-2,Crawley Town
+Tue Feb 14 2017,Crewe,2-1,1-0,Wycombe
+Tue Feb 14 2017,Luton,3-0,2-0,Hartlepool
+Tue Feb 14 2017,Mansfield,4-4,2-3,Accrington
+Tue Feb 14 2017,Morecambe,0-1,0-0,Barnet
+Tue Feb 14 2017,Newport County,0-0,0-0,Grimsby
+Tue Feb 14 2017,Notts County,2-2,0-1,Exeter
+Tue Feb 14 2017,Plymouth,2-3,1-1,Leyton Orient
+Tue Feb 14 2017,Portsmouth,2-0,1-0,Blackpool
+Tue Feb 14 2017,Stevenage,2-1,1-0,Cheltenham
+Tue Feb 14 2017,Yeovil,1-1,0-0,Cambridge
+Sat Feb 18 2017,Accrington,2-1,2-0,Colchester
+Sat Feb 18 2017,Barnet,1-1,0-0,Portsmouth
+Sat Feb 18 2017,Blackpool,2-2,2-0,Crewe
+Sat Feb 18 2017,Cambridge,3-2,0-1,Newport County
+Sat Feb 18 2017,Cheltenham,2-0,0-0,Yeovil
+Sat Feb 18 2017,Crawley Town,1-3,0-3,Morecambe
+Sat Feb 18 2017,Doncaster,1-1,0-0,Luton
+Sat Feb 18 2017,Exeter,1-1,0-1,Stevenage
+Sat Feb 18 2017,Grimsby,3-0,1-0,Mansfield
+Sat Feb 18 2017,Hartlepool,1-1,1-0,Plymouth
+Sat Feb 18 2017,Leyton Orient,2-3,0-1,Notts County
+Sat Feb 18 2017,Wycombe,1-2,1-2,Carlisle
+Tue Feb 21 2017,Colchester,1-0,1-0,Wycombe
+Tue Feb 21 2017,Newport County,1-1,1-0,Morecambe
+Sat Feb 25 2017,Barnet,0-1,0-0,Cambridge
+Sat Feb 25 2017,Carlisle,0-3,0-0,Portsmouth
+Sat Feb 25 2017,Colchester,2-1,0-0,Hartlepool
+Sat Feb 25 2017,Crewe,1-2,0-2,Stevenage
+Sat Feb 25 2017,Doncaster,2-2,1-1,Accrington
+Sat Feb 25 2017,Exeter,2-2,1-2,Blackpool
+Sat Feb 25 2017,Leyton Orient,0-1,0-1,Cheltenham
+Sat Feb 25 2017,Luton,1-1,1-1,Plymouth
+Sat Feb 25 2017,Mansfield,2-1,1-1,Newport County
+Sat Feb 25 2017,Morecambe,1-0,1-0,Grimsby
+Sat Feb 25 2017,Notts County,0-0,0-0,Yeovil
+Sat Feb 25 2017,Wycombe,1-2,1-1,Crawley Town
+Tue Feb 28 2017,Accrington,2-2,1-0,Wycombe
+Tue Feb 28 2017,Blackpool,2-2,0-1,Barnet
+Tue Feb 28 2017,Cambridge,2-3,0-2,Doncaster
+Tue Feb 28 2017,Cheltenham,1-0,0-0,Carlisle
+Tue Feb 28 2017,Crawley Town,1-2,0-0,Exeter
+Tue Feb 28 2017,Grimsby,1-0,1-0,Colchester
+Tue Feb 28 2017,Hartlepool,4-0,1-0,Crewe
+Tue Feb 28 2017,Plymouth,0-1,0-1,Notts County
+Tue Feb 28 2017,Portsmouth,1-1,0-0,Morecambe
+Tue Feb 28 2017,Stevenage,4-1,2-1,Leyton Orient
+Tue Feb 28 2017,Yeovil,0-0,0-0,Mansfield
+Sat Mar 4 2017,Accrington,1-0,0-0,Barnet
+Sat Mar 4 2017,Blackpool,3-1,1-0,Morecambe
+Sat Mar 4 2017,Cambridge,1-1,1-0,Colchester
+Sat Mar 4 2017,Cheltenham,0-0,0-0,Mansfield
+Sat Mar 4 2017,Crawley Town,0-0,0-0,Doncaster
+Sat Mar 4 2017,Grimsby,1-2,1-0,Wycombe
+Sat Mar 4 2017,Hartlepool,3-1,0-1,Exeter
+Sat Mar 4 2017,Newport County,0-4,0-3,Leyton Orient
+Sat Mar 4 2017,Plymouth,2-0,2-0,Carlisle
+Sat Mar 4 2017,Portsmouth,0-1,0-0,Crewe
+Sat Mar 4 2017,Stevenage,3-0,1-0,Notts County
+Sat Mar 4 2017,Yeovil,0-4,0-2,Luton
+Tue Mar 7 2017,Crawley Town,0-2,0-0,Portsmouth
+Tue Mar 7 2017,Plymouth,0-3,0-2,Blackpool
+Sat Mar 11 2017,Barnet,2-2,1-1,Crawley Town
+Sat Mar 11 2017,Carlisle,0-3,0-0,Cambridge
+Sat Mar 11 2017,Colchester,0-4,0-1,Portsmouth
+Sat Mar 11 2017,Crewe,1-2,1-0,Newport County
+Sat Mar 11 2017,Doncaster,2-0,1-0,Cheltenham
+Sat Mar 11 2017,Exeter,0-2,0-1,Accrington
+Sat Mar 11 2017,Leyton Orient,0-3,0-1,Grimsby
+Sat Mar 11 2017,Luton,0-2,0-1,Stevenage
+Sat Mar 11 2017,Mansfield,0-2,0-0,Plymouth
+Sat Mar 11 2017,Morecambe,1-3,0-1,Yeovil
+Sat Mar 11 2017,Notts County,2-1,0-0,Hartlepool
+Sat Mar 11 2017,Wycombe,0-0,0-0,Blackpool
+Tue Mar 14 2017,Accrington,5-0,1-0,Leyton Orient
+Tue Mar 14 2017,Blackpool,1-0,1-0,Stevenage
+Tue Mar 14 2017,Cambridge,0-1,0-0,Hartlepool
+Tue Mar 14 2017,Carlisle,0-0,0-0,Luton
+Tue Mar 14 2017,Colchester,2-0,2-0,Mansfield
+Tue Mar 14 2017,Crawley Town,0-3,0-1,Crewe
+Tue Mar 14 2017,Doncaster,3-1,1-1,Notts County
+Tue Mar 14 2017,Exeter,3-0,1-0,Cheltenham
+Tue Mar 14 2017,Morecambe,0-1,0-0,Newport County
+Tue Mar 14 2017,Portsmouth,4-0,3-0,Grimsby
+Tue Mar 14 2017,Wycombe,1-1,1-0,Plymouth
+Wed Mar 15 2017,Barnet,2-2,1-1,Yeovil
+Sat Mar 18 2017,Cheltenham,0-1,0-1,Cambridge
+Sat Mar 18 2017,Crewe,2-0,1-0,Colchester
+Sat Mar 18 2017,Grimsby,1-1,1-1,Crawley Town
+Sat Mar 18 2017,Hartlepool,0-2,0-1,Wycombe
+Sat Mar 18 2017,Leyton Orient,1-4,1-1,Doncaster
+Sat Mar 18 2017,Luton,1-1,0-0,Exeter
+Sat Mar 18 2017,Mansfield,2-0,0-0,Carlisle
+Sat Mar 18 2017,Newport County,1-3,0-1,Blackpool
+Sat Mar 18 2017,Plymouth,1-0,1-0,Morecambe
+Sat Mar 18 2017,Stevenage,3-0,2-0,Portsmouth
+Sat Mar 18 2017,Yeovil,1-1,0-0,Accrington
+Sun Mar 19 2017,Notts County,1-0,0-0,Barnet
+Tue Mar 21 2017,Morecambe,1-2,0-1,Accrington
+Tue Mar 21 2017,Newport County,1-1,1-1,Luton
+Sat Mar 25 2017,Accrington,1-1,0-0,Grimsby
+Sat Mar 25 2017,Barnet,3-1,0-1,Cheltenham
+Sat Mar 25 2017,Blackpool,2-1,1-1,Hartlepool
+Sat Mar 25 2017,Cambridge,0-0,0-0,Stevenage
+Sat Mar 25 2017,Carlisle,0-2,0-1,Crewe
+Sat Mar 25 2017,Colchester,2-1,2-0,Luton
+Sat Mar 25 2017,Crawley Town,3-0,3-0,Leyton Orient
+Sat Mar 25 2017,Exeter,3-3,0-0,Yeovil
+Sat Mar 25 2017,Morecambe,1-3,1-3,Mansfield
+Sat Mar 25 2017,Portsmouth,2-1,1-0,Newport County
+Sat Mar 25 2017,Wycombe,0-1,0-1,Notts County
+Sun Mar 26 2017,Doncaster,0-1,0-0,Plymouth
+Tue Mar 28 2017,Accrington,2-0,1-0,Cambridge
+Sat Apr 1 2017,Cheltenham,3-1,1-0,Morecambe
+Sat Apr 1 2017,Crewe,1-2,0-1,Cambridge
+Sat Apr 1 2017,Grimsby,1-5,1-2,Doncaster
+Sat Apr 1 2017,Hartlepool,0-2,0-1,Portsmouth
+Sat Apr 1 2017,Leyton Orient,0-2,0-2,Wycombe
+Sat Apr 1 2017,Luton,1-0,0-0,Blackpool
+Sat Apr 1 2017,Mansfield,1-2,1-0,Exeter
+Sat Apr 1 2017,Newport County,1-0,1-0,Crawley Town
+Sat Apr 1 2017,Notts County,3-1,2-1,Colchester
+Sat Apr 1 2017,Plymouth,0-1,0-1,Accrington
+Sat Apr 1 2017,Stevenage,1-0,1-0,Barnet
+Sat Apr 1 2017,Yeovil,0-2,0-1,Carlisle
+Sat Apr 8 2017,Accrington,3-2,0-2,Crewe
+Sat Apr 8 2017,Barnet,0-1,0-0,Luton
+Sat Apr 8 2017,Blackpool,1-3,1-2,Grimsby
+Sat Apr 8 2017,Cambridge,3-0,2-0,Leyton Orient
+Sat Apr 8 2017,Carlisle,1-2,0-0,Notts County
+Sat Apr 8 2017,Colchester,4-0,4-0,Stevenage
+Sat Apr 8 2017,Crawley Town,1-2,1-0,Plymouth
+Sat Apr 8 2017,Doncaster,1-0,0-0,Mansfield
+Sat Apr 8 2017,Exeter,0-1,0-0,Newport County
+Sat Apr 8 2017,Morecambe,1-1,0-1,Hartlepool
+Sat Apr 8 2017,Portsmouth,3-1,1-0,Yeovil
+Sat Apr 8 2017,Wycombe,3-3,2-2,Cheltenham
+Fri Apr 14 2017,Blackpool,0-0,0-0,Accrington
+Fri Apr 14 2017,Colchester,1-1,1-1,Doncaster
+Fri Apr 14 2017,Crawley Town,0-0,0-0,Cheltenham
+Fri Apr 14 2017,Crewe,2-2,1-1,Notts County
+Fri Apr 14 2017,Exeter,2-1,2-0,Barnet
+Fri Apr 14 2017,Grimsby,2-1,0-0,Cambridge
+Fri Apr 14 2017,Hartlepool,1-1,0-1,Carlisle
+Fri Apr 14 2017,Luton,2-2,1-0,Leyton Orient
+Fri Apr 14 2017,Newport County,1-0,0-0,Yeovil
+Fri Apr 14 2017,Portsmouth,1-1,0-1,Plymouth
+Fri Apr 14 2017,Stevenage,0-1,0-0,Morecambe
+Fri Apr 14 2017,Wycombe,0-1,0-1,Mansfield
+Mon Apr 17 2017,Accrington,1-0,0-0,Crawley Town
+Mon Apr 17 2017,Barnet,0-2,0-1,Wycombe
+Mon Apr 17 2017,Cambridge,1-0,1-0,Exeter
+Mon Apr 17 2017,Carlisle,1-1,0-0,Stevenage
+Mon Apr 17 2017,Cheltenham,2-1,2-0,Grimsby
+Mon Apr 17 2017,Doncaster,0-1,0-0,Blackpool
+Mon Apr 17 2017,Leyton Orient,2-1,2-1,Hartlepool
+Mon Apr 17 2017,Mansfield,1-1,1-0,Luton
+Mon Apr 17 2017,Morecambe,1-1,0-1,Colchester
+Mon Apr 17 2017,Notts County,1-3,0-1,Portsmouth
+Mon Apr 17 2017,Plymouth,6-1,2-0,Newport County
+Mon Apr 17 2017,Yeovil,3-0,2-0,Crewe
+Sat Apr 22 2017,Blackpool,3-0,2-0,Cheltenham
+Sat Apr 22 2017,Colchester,0-0,0-0,Plymouth
+Sat Apr 22 2017,Crawley Town,3-3,2-2,Carlisle
+Sat Apr 22 2017,Crewe,3-0,3-0,Leyton Orient
+Sat Apr 22 2017,Exeter,3-1,0-0,Morecambe
+Sat Apr 22 2017,Grimsby,4-2,2-0,Yeovil
+Sat Apr 22 2017,Hartlepool,0-2,0-0,Barnet
+Sat Apr 22 2017,Luton,2-1,2-1,Notts County
+Sat Apr 22 2017,Newport County,1-0,0-0,Accrington
+Sat Apr 22 2017,Portsmouth,2-1,1-0,Cambridge
+Sat Apr 22 2017,Stevenage,0-1,0-1,Mansfield
+Sat Apr 22 2017,Wycombe,2-1,2-1,Doncaster
+Sat Apr 29 2017,Accrington,1-4,1-1,Luton
+Sat Apr 29 2017,Barnet,3-1,2-0,Grimsby
+Sat Apr 29 2017,Cambridge,2-0,1-0,Crawley Town
+Sat Apr 29 2017,Carlisle,2-1,0-1,Newport County
+Sat Apr 29 2017,Cheltenham,1-0,1-0,Hartlepool
+Sat Apr 29 2017,Doncaster,1-3,1-1,Exeter
+Sat Apr 29 2017,Leyton Orient,1-3,0-1,Colchester
+Sat Apr 29 2017,Mansfield,0-1,0-0,Portsmouth
+Sat Apr 29 2017,Morecambe,1-1,0-0,Wycombe
+Sat Apr 29 2017,Notts County,1-0,1-0,Blackpool
+Sat Apr 29 2017,Plymouth,2-1,0-1,Crewe
+Sat Apr 29 2017,Yeovil,1-1,1-0,Stevenage
+Sat May 6 2017,Blackpool,3-1,2-0,Leyton Orient
+Sat May 6 2017,Colchester,2-0,1-0,Yeovil
+Sat May 6 2017,Crawley Town,2-2,1-2,Mansfield
+Sat May 6 2017,Crewe,4-1,2-0,Barnet
+Sat May 6 2017,Exeter,2-3,2-1,Carlisle
+Sat May 6 2017,Grimsby,1-1,1-0,Plymouth
+Sat May 6 2017,Hartlepool,2-1,0-1,Doncaster
+Sat May 6 2017,Luton,3-1,1-0,Morecambe
+Sat May 6 2017,Newport County,2-1,1-0,Notts County
+Sat May 6 2017,Portsmouth,6-1,1-0,Cheltenham
+Sat May 6 2017,Stevenage,0-3,0-0,Accrington
+Sat May 6 2017,Wycombe,1-0,0-0,Cambridge

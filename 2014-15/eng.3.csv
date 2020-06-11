@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 9 2014,Barnsley,0-1,0-0,Crawley Town
+Sat Aug 9 2014,Bradford,3-2,1-1,Coventry
+Sat Aug 9 2014,Colchester,2-2,1-2,Oldham
+Sat Aug 9 2014,Fleetwood Town,2-1,0-0,Crewe
+Sat Aug 9 2014,Leyton Orient,1-2,0-1,Chesterfield
+Sat Aug 9 2014,Milton Keynes Dons,4-2,1-2,Gillingham
+Sat Aug 9 2014,Port Vale,1-1,1-0,Walsall
+Sat Aug 9 2014,Preston,1-1,0-0,Notts County
+Sat Aug 9 2014,Rochdale,0-1,0-0,Peterboro
+Sat Aug 9 2014,Sheffield United,1-2,1-1,Bristol City
+Sat Aug 9 2014,Swindon,3-1,3-1,Scunthorpe
+Sat Aug 9 2014,Yeovil,0-3,0-1,Doncaster
+Sat Aug 16 2014,Bristol City,2-1,0-1,Colchester
+Sat Aug 16 2014,Chesterfield,2-1,1-0,Rochdale
+Sat Aug 16 2014,Coventry,1-0,0-0,Sheffield United
+Sat Aug 16 2014,Crawley Town,1-0,0-0,Swindon
+Sat Aug 16 2014,Crewe,1-2,1-0,Barnsley
+Sat Aug 16 2014,Doncaster,1-3,0-3,Port Vale
+Sat Aug 16 2014,Gillingham,2-0,1-0,Yeovil
+Sat Aug 16 2014,Notts County,0-1,0-1,Fleetwood Town
+Sat Aug 16 2014,Oldham,1-3,1-1,Leyton Orient
+Sat Aug 16 2014,Peterboro,3-2,1-0,Milton Keynes Dons
+Sat Aug 16 2014,Scunthorpe,0-4,0-2,Preston
+Sat Aug 16 2014,Walsall,0-0,0-0,Bradford
+Tue Aug 19 2014,Bristol City,0-0,0-0,Leyton Orient
+Tue Aug 19 2014,Chesterfield,0-1,0-0,Milton Keynes Dons
+Tue Aug 19 2014,Coventry,2-2,2-2,Barnsley
+Tue Aug 19 2014,Crawley Town,1-3,0-0,Bradford
+Tue Aug 19 2014,Crewe,2-5,1-2,Rochdale
+Tue Aug 19 2014,Doncaster,1-1,0-0,Preston
+Tue Aug 19 2014,Gillingham,2-2,1-1,Swindon
+Tue Aug 19 2014,Notts County,2-1,1-0,Colchester
+Tue Aug 19 2014,Oldham,1-1,0-1,Port Vale
+Tue Aug 19 2014,Peterboro,1-2,1-1,Sheffield United
+Tue Aug 19 2014,Scunthorpe,0-2,0-0,Fleetwood Town
+Tue Aug 19 2014,Walsall,1-2,0-0,Yeovil
+Sat Aug 23 2014,Barnsley,4-1,2-0,Gillingham
+Sat Aug 23 2014,Bradford,0-1,0-0,Peterboro
+Sat Aug 23 2014,Colchester,0-1,0-0,Doncaster
+Sat Aug 23 2014,Fleetwood Town,0-0,0-0,Chesterfield
+Sat Aug 23 2014,Leyton Orient,0-0,0-0,Walsall
+Sat Aug 23 2014,Milton Keynes Dons,0-0,0-0,Coventry
+Sat Aug 23 2014,Port Vale,0-2,0-1,Notts County
+Sat Aug 23 2014,Preston,1-0,1-0,Oldham
+Sat Aug 23 2014,Rochdale,1-1,0-1,Bristol City
+Sat Aug 23 2014,Sheffield United,1-0,0-0,Crawley Town
+Sat Aug 23 2014,Swindon,2-0,1-0,Crewe
+Sat Aug 23 2014,Yeovil,1-1,0-0,Scunthorpe
+Sat Aug 30 2014,Colchester,1-3,0-2,Peterboro
+Sat Aug 30 2014,Doncaster,0-2,0-1,Oldham
+Sat Aug 30 2014,Fleetwood Town,1-1,0-1,Leyton Orient
+Sat Aug 30 2014,Gillingham,2-0,2-0,Crewe
+Sat Aug 30 2014,Milton Keynes Dons,2-0,1-0,Crawley Town
+Sat Aug 30 2014,Port Vale,1-2,1-1,Chesterfield
+Sat Aug 30 2014,Preston,1-1,1-1,Sheffield United
+Sat Aug 30 2014,Rochdale,0-2,0-0,Bradford
+Sat Aug 30 2014,Scunthorpe,2-1,0-0,Walsall
+Sat Aug 30 2014,Swindon,1-1,0-1,Coventry
+Sat Aug 30 2014,Yeovil,1-1,0-1,Barnsley
+Sun Aug 31 2014,Notts County,1-2,1-0,Bristol City
+Fri Sep 5 2014,Coventry,1-0,1-0,Gillingham
+Sat Sep 6 2014,Bradford,1-3,1-2,Yeovil
+Sat Sep 6 2014,Bristol City,2-0,0-0,Scunthorpe
+Sat Sep 6 2014,Crawley Town,0-4,0-1,Rochdale
+Sat Sep 6 2014,Oldham,1-0,1-0,Fleetwood Town
+Sat Sep 6 2014,Peterboro,3-1,1-0,Port Vale
+Sat Sep 6 2014,Walsall,0-0,0-0,Colchester
+Sat Sep 13 2014,Barnsley,3-5,0-2,Milton Keynes Dons
+Sat Sep 13 2014,Bradford,1-2,1-2,Swindon
+Sat Sep 13 2014,Bristol City,3-0,2-0,Doncaster
+Sat Sep 13 2014,Chesterfield,4-1,0-0,Scunthorpe
+Sat Sep 13 2014,Coventry,2-1,1-0,Yeovil
+Sat Sep 13 2014,Crawley Town,1-0,0-0,Fleetwood Town
+Sat Sep 13 2014,Crewe,2-1,2-1,Port Vale
+Sat Sep 13 2014,Leyton Orient,0-2,0-0,Colchester
+Sat Sep 13 2014,Oldham,0-0,0-0,Gillingham
+Sat Sep 13 2014,Peterboro,0-0,0-0,Notts County
+Sat Sep 13 2014,Sheffield United,1-0,0-0,Rochdale
+Sat Sep 13 2014,Walsall,3-1,1-1,Preston
+Tue Sep 16 2014,Colchester,2-3,1-0,Sheffield United
+Tue Sep 16 2014,Doncaster,0-0,0-0,Crawley Town
+Tue Sep 16 2014,Gillingham,2-1,1-1,Peterboro
+Tue Sep 16 2014,Milton Keynes Dons,1-2,1-2,Bradford
+Tue Sep 16 2014,Notts County,1-1,1-0,Leyton Orient
+Tue Sep 16 2014,Port Vale,0-3,0-1,Bristol City
+Tue Sep 16 2014,Preston,3-3,3-1,Chesterfield
+Tue Sep 16 2014,Rochdale,4-0,3-0,Walsall
+Tue Sep 16 2014,Scunthorpe,2-1,1-1,Coventry
+Tue Sep 16 2014,Swindon,2-2,1-1,Oldham
+Tue Sep 16 2014,Yeovil,1-1,0-0,Crewe
+Wed Sep 17 2014,Fleetwood Town,0-0,0-0,Barnsley
+Sat Sep 20 2014,Colchester,0-0,0-0,Bradford
+Sat Sep 20 2014,Doncaster,3-2,2-1,Chesterfield
+Sat Sep 20 2014,Fleetwood Town,3-3,1-1,Bristol City
+Sat Sep 20 2014,Gillingham,0-0,0-0,Walsall
+Sat Sep 20 2014,Milton Keynes Dons,6-1,2-1,Crewe
+Sat Sep 20 2014,Notts County,0-0,0-0,Oldham
+Sat Sep 20 2014,Port Vale,2-1,1-0,Barnsley
+Sat Sep 20 2014,Preston,2-0,1-0,Crawley Town
+Sat Sep 20 2014,Rochdale,1-0,1-0,Coventry
+Sat Sep 20 2014,Scunthorpe,1-2,0-1,Leyton Orient
+Sat Sep 20 2014,Swindon,5-2,1-0,Sheffield United
+Sat Sep 20 2014,Yeovil,1-0,0-0,Peterboro
+Sat Sep 27 2014,Barnsley,0-3,0-0,Swindon
+Sat Sep 27 2014,Bradford,1-1,1-1,Port Vale
+Sat Sep 27 2014,Bristol City,3-2,2-0,Milton Keynes Dons
+Sat Sep 27 2014,Chesterfield,1-1,0-1,Notts County
+Sat Sep 27 2014,Coventry,0-2,0-0,Preston
+Sat Sep 27 2014,Crawley Town,2-0,0-0,Yeovil
+Sat Sep 27 2014,Crewe,0-3,0-0,Colchester
+Sat Sep 27 2014,Leyton Orient,2-3,2-1,Rochdale
+Sat Sep 27 2014,Oldham,3-2,1-2,Scunthorpe
+Sat Sep 27 2014,Peterboro,1-0,1-0,Fleetwood Town
+Sat Sep 27 2014,Sheffield United,2-1,0-0,Gillingham
+Sat Sep 27 2014,Walsall,3-0,1-0,Doncaster
+Tue Sep 30 2014,Crewe,0-3,0-1,Notts County
+Sat Oct 4 2014,Bradford,2-0,0-0,Crewe
+Sat Oct 4 2014,Chesterfield,3-2,2-0,Sheffield United
+Sat Oct 4 2014,Coventry,2-2,2-2,Crawley Town
+Sat Oct 4 2014,Fleetwood Town,1-0,0-0,Port Vale
+Sat Oct 4 2014,Leyton Orient,1-2,0-1,Swindon
+Sat Oct 4 2014,Notts County,1-0,1-0,Gillingham
+Sat Oct 4 2014,Peterboro,2-2,1-1,Oldham
+Sat Oct 4 2014,Preston,4-2,2-2,Colchester
+Sat Oct 4 2014,Rochdale,0-1,0-1,Barnsley
+Sat Oct 4 2014,Scunthorpe,1-2,1-1,Doncaster
+Sat Oct 4 2014,Walsall,1-1,0-1,Bristol City
+Sat Oct 4 2014,Yeovil,0-2,0-0,Milton Keynes Dons
+Sat Oct 11 2014,Bristol City,3-2,1-1,Chesterfield
+Sat Oct 11 2014,Colchester,2-1,1-1,Fleetwood Town
+Sat Oct 11 2014,Crawley Town,1-4,1-2,Peterboro
+Sat Oct 11 2014,Crewe,2-1,2-0,Coventry
+Sat Oct 11 2014,Gillingham,0-3,0-1,Scunthorpe
+Sat Oct 11 2014,Oldham,2-1,1-1,Walsall
+Sat Oct 11 2014,Port Vale,4-1,2-0,Yeovil
+Sat Oct 11 2014,Sheffield United,2-2,0-1,Leyton Orient
+Sun Oct 12 2014,Barnsley,3-1,0-1,Bradford
+Sat Oct 18 2014,Bradford,0-2,0-0,Sheffield United
+Sat Oct 18 2014,Chesterfield,1-1,0-0,Oldham
+Sat Oct 18 2014,Coventry,1-3,0-2,Bristol City
+Sat Oct 18 2014,Fleetwood Town,3-1,2-1,Doncaster
+Sat Oct 18 2014,Leyton Orient,0-0,0-0,Milton Keynes Dons
+Sat Oct 18 2014,Notts County,5-3,3-0,Crawley Town
+Sat Oct 18 2014,Peterboro,2-1,1-1,Barnsley
+Sat Oct 18 2014,Preston,2-0,1-0,Port Vale
+Sat Oct 18 2014,Rochdale,1-1,1-0,Gillingham
+Sat Oct 18 2014,Scunthorpe,1-1,1-1,Colchester
+Sat Oct 18 2014,Walsall,0-1,0-0,Crewe
+Sat Oct 18 2014,Yeovil,1-1,1-0,Swindon
+Tue Oct 21 2014,Barnsley,2-3,2-1,Notts County
+Tue Oct 21 2014,Bristol City,2-2,1-1,Bradford
+Tue Oct 21 2014,Colchester,2-1,0-1,Chesterfield
+Tue Oct 21 2014,Crawley Town,1-0,0-0,Walsall
+Tue Oct 21 2014,Crewe,1-0,1-0,Peterboro
+Tue Oct 21 2014,Doncaster,0-2,0-1,Leyton Orient
+Tue Oct 21 2014,Gillingham,0-1,0-0,Preston
+Tue Oct 21 2014,Milton Keynes Dons,2-1,0-0,Fleetwood Town
+Tue Oct 21 2014,Oldham,4-1,3-1,Coventry
+Tue Oct 21 2014,Port Vale,2-2,1-1,Scunthorpe
+Tue Oct 21 2014,Sheffield United,2-0,1-0,Yeovil
+Tue Oct 21 2014,Swindon,2-3,1-0,Rochdale
+Sat Oct 25 2014,Barnsley,2-2,0-1,Bristol City
+Sat Oct 25 2014,Coventry,3-2,0-2,Peterboro
+Sat Oct 25 2014,Crewe,0-1,0-0,Sheffield United
+Sat Oct 25 2014,Doncaster,0-0,0-0,Milton Keynes Dons
+Sat Oct 25 2014,Gillingham,1-1,1-1,Crawley Town
+Sat Oct 25 2014,Oldham,2-1,2-1,Bradford
+Sat Oct 25 2014,Port Vale,3-0,0-0,Leyton Orient
+Sat Oct 25 2014,Preston,3-2,0-2,Fleetwood Town
+Sat Oct 25 2014,Scunthorpe,0-1,0-0,Notts County
+Sat Oct 25 2014,Swindon,2-2,1-0,Colchester
+Sat Oct 25 2014,Walsall,1-0,0-0,Chesterfield
+Sat Oct 25 2014,Yeovil,0-3,0-2,Rochdale
+Tue Oct 28 2014,Chesterfield,0-3,0-2,Swindon
+Tue Oct 28 2014,Leyton Orient,0-2,0-1,Preston
+Sat Nov 1 2014,Bradford,1-2,1-0,Doncaster
+Sat Nov 1 2014,Bristol City,1-0,0-0,Oldham
+Sat Nov 1 2014,Chesterfield,0-0,0-0,Yeovil
+Sat Nov 1 2014,Colchester,1-2,0-0,Port Vale
+Sat Nov 1 2014,Crawley Town,1-1,0-1,Crewe
+Sat Nov 1 2014,Fleetwood Town,1-0,1-0,Gillingham
+Sat Nov 1 2014,Leyton Orient,2-2,0-1,Coventry
+Sat Nov 1 2014,Milton Keynes Dons,2-1,0-1,Swindon
+Sat Nov 1 2014,Notts County,1-2,1-1,Walsall
+Sat Nov 1 2014,Peterboro,1-2,0-1,Scunthorpe
+Sat Nov 1 2014,Rochdale,3-0,2-0,Preston
+Sat Nov 1 2014,Sheffield United,0-1,0-0,Barnsley
+Tue Nov 4 2014,Swindon,1-0,0-0,Preston
+Fri Nov 14 2014,Barnsley,3-2,1-1,Colchester
+Sat Nov 15 2014,Coventry,0-1,0-0,Notts County
+Sat Nov 15 2014,Crewe,0-0,0-0,Chesterfield
+Sat Nov 15 2014,Doncaster,0-1,0-0,Sheffield United
+Sat Nov 15 2014,Gillingham,3-2,0-0,Leyton Orient
+Sat Nov 15 2014,Oldham,1-1,1-1,Crawley Town
+Sat Nov 15 2014,Port Vale,1-0,0-0,Rochdale
+Sat Nov 15 2014,Preston,1-2,0-1,Bradford
+Sat Nov 15 2014,Swindon,1-0,0-0,Bristol City
+Sat Nov 15 2014,Walsall,0-0,0-0,Peterboro
+Sat Nov 15 2014,Yeovil,0-1,0-0,Fleetwood Town
+Sat Nov 22 2014,Bradford,1-1,0-0,Gillingham
+Sat Nov 22 2014,Bristol City,0-1,0-1,Preston
+Sat Nov 22 2014,Chesterfield,2-1,1-0,Barnsley
+Sat Nov 22 2014,Colchester,0-1,0-0,Coventry
+Sat Nov 22 2014,Crawley Town,2-2,0-1,Scunthorpe
+Sat Nov 22 2014,Fleetwood Town,0-1,0-1,Walsall
+Sat Nov 22 2014,Leyton Orient,4-1,2-0,Crewe
+Sat Nov 22 2014,Milton Keynes Dons,1-0,1-0,Port Vale
+Sat Nov 22 2014,Notts County,1-2,0-0,Yeovil
+Sat Nov 22 2014,Peterboro,1-2,0-1,Swindon
+Sat Nov 22 2014,Rochdale,1-3,1-1,Doncaster
+Sat Nov 22 2014,Sheffield United,1-1,0-1,Oldham
+Tue Nov 25 2014,Milton Keynes Dons,2-2,1-1,Rochdale
+Fri Nov 28 2014,Peterboro,0-3,0-2,Bristol City
+Fri Nov 28 2014,Sheffield United,1-1,0-1,Notts County
+Sat Nov 29 2014,Barnsley,1-2,1-2,Scunthorpe
+Sat Nov 29 2014,Bradford,3-1,1-0,Leyton Orient
+Sat Nov 29 2014,Coventry,0-0,0-0,Walsall
+Sat Nov 29 2014,Crawley Town,1-1,0-0,Chesterfield
+Sat Nov 29 2014,Crewe,1-1,1-0,Doncaster
+Sat Nov 29 2014,Gillingham,2-2,1-1,Port Vale
+Sat Nov 29 2014,Milton Keynes Dons,6-0,3-0,Colchester
+Sat Nov 29 2014,Rochdale,0-3,0-1,Oldham
+Sat Nov 29 2014,Swindon,1-0,0-0,Fleetwood Town
+Sat Nov 29 2014,Yeovil,0-2,0-1,Preston
+Tue Dec 2 2014,Barnsley,1-1,1-0,Doncaster
+Tue Dec 2 2014,Sheffield United,0-1,0-0,Milton Keynes Dons
+Sat Dec 13 2014,Bristol City,1-0,0-0,Crawley Town
+Sat Dec 13 2014,Chesterfield,0-1,0-0,Bradford
+Sat Dec 13 2014,Colchester,1-4,0-3,Rochdale
+Sat Dec 13 2014,Doncaster,1-2,0-0,Gillingham
+Sat Dec 13 2014,Fleetwood Town,1-1,0-1,Sheffield United
+Sat Dec 13 2014,Leyton Orient,1-2,1-1,Peterboro
+Sat Dec 13 2014,Notts County,0-3,0-1,Swindon
+Sat Dec 13 2014,Oldham,0-4,0-3,Yeovil
+Sat Dec 13 2014,Port Vale,0-2,0-0,Coventry
+Sat Dec 13 2014,Preston,1-1,0-1,Milton Keynes Dons
+Sat Dec 13 2014,Scunthorpe,2-1,1-1,Crewe
+Sat Dec 13 2014,Walsall,3-1,2-1,Barnsley
+Sat Dec 20 2014,Barnsley,2-0,2-0,Leyton Orient
+Sat Dec 20 2014,Bradford,1-1,1-0,Scunthorpe
+Sat Dec 20 2014,Coventry,1-1,0-1,Fleetwood Town
+Sat Dec 20 2014,Crawley Town,1-2,0-2,Port Vale
+Sat Dec 20 2014,Crewe,1-0,0-0,Bristol City
+Sat Dec 20 2014,Gillingham,2-3,0-1,Chesterfield
+Sat Dec 20 2014,Milton Keynes Dons,7-0,2-0,Oldham
+Sat Dec 20 2014,Peterboro,0-1,0-1,Preston
+Sat Dec 20 2014,Rochdale,2-2,0-1,Notts County
+Sat Dec 20 2014,Sheffield United,1-1,0-0,Walsall
+Sat Dec 20 2014,Swindon,0-1,0-1,Doncaster
+Sat Dec 20 2014,Yeovil,0-1,0-0,Colchester
+Fri Dec 26 2014,Bristol City,2-1,1-0,Yeovil
+Fri Dec 26 2014,Chesterfield,3-2,2-0,Peterboro
+Fri Dec 26 2014,Colchester,1-2,0-2,Gillingham
+Fri Dec 26 2014,Doncaster,2-0,2-0,Coventry
+Fri Dec 26 2014,Fleetwood Town,0-2,0-1,Bradford
+Fri Dec 26 2014,Leyton Orient,4-1,2-1,Crawley Town
+Fri Dec 26 2014,Notts County,0-1,0-1,Milton Keynes Dons
+Fri Dec 26 2014,Oldham,1-2,0-0,Crewe
+Fri Dec 26 2014,Port Vale,2-1,1-0,Sheffield United
+Fri Dec 26 2014,Preston,1-0,1-0,Barnsley
+Fri Dec 26 2014,Scunthorpe,2-1,0-0,Rochdale
+Fri Dec 26 2014,Walsall,1-4,1-1,Swindon
+Sun Dec 28 2014,Bradford,1-0,1-0,Notts County
+Sun Dec 28 2014,Coventry,0-0,0-0,Chesterfield
+Sun Dec 28 2014,Crawley Town,0-0,0-0,Colchester
+Sun Dec 28 2014,Crewe,1-1,0-0,Preston
+Sun Dec 28 2014,Gillingham,1-3,0-2,Bristol City
+Sun Dec 28 2014,Milton Keynes Dons,0-3,0-1,Walsall
+Sun Dec 28 2014,Peterboro,0-0,0-0,Doncaster
+Sun Dec 28 2014,Rochdale,0-2,0-2,Fleetwood Town
+Sun Dec 28 2014,Swindon,1-0,0-0,Port Vale
+Mon Dec 29 2014,Yeovil,0-3,0-1,Leyton Orient
+Sat Jan 3 2015,Fleetwood Town,2-2,0-0,Swindon
+Sat Jan 3 2015,Port Vale,2-1,1-1,Gillingham
+Sat Jan 3 2015,Walsall,0-2,0-1,Coventry
+Sat Jan 10 2015,Barnsley,2-0,0-0,Yeovil
+Sat Jan 10 2015,Bradford,1-2,1-1,Rochdale
+Sat Jan 10 2015,Bristol City,4-0,2-0,Notts County
+Sat Jan 10 2015,Chesterfield,3-0,1-0,Port Vale
+Sat Jan 10 2015,Crawley Town,2-2,1-0,Milton Keynes Dons
+Sat Jan 10 2015,Crewe,3-1,2-0,Gillingham
+Sat Jan 10 2015,Leyton Orient,0-1,0-0,Fleetwood Town
+Sat Jan 10 2015,Oldham,2-2,1-0,Doncaster
+Sat Jan 10 2015,Peterboro,0-2,0-0,Colchester
+Sat Jan 10 2015,Sheffield United,2-1,0-0,Preston
+Sat Jan 10 2015,Walsall,1-4,0-2,Scunthorpe
+Mon Jan 12 2015,Coventry,0-3,0-2,Swindon
+Fri Jan 16 2015,Preston,2-2,1-1,Leyton Orient
+Sat Jan 17 2015,Colchester,0-2,0-1,Walsall
+Sat Jan 17 2015,Doncaster,1-0,0-0,Barnsley
+Sat Jan 17 2015,Fleetwood Town,0-2,0-0,Oldham
+Sat Jan 17 2015,Gillingham,3-1,0-1,Coventry
+Sat Jan 17 2015,Milton Keynes Dons,1-0,0-0,Sheffield United
+Sat Jan 17 2015,Notts County,2-1,1-0,Crewe
+Sat Jan 17 2015,Port Vale,2-1,1-1,Peterboro
+Sat Jan 17 2015,Rochdale,4-1,2-0,Crawley Town
+Sat Jan 17 2015,Scunthorpe,0-2,0-1,Bristol City
+Sat Jan 17 2015,Swindon,3-1,2-1,Chesterfield
+Sat Jan 17 2015,Yeovil,1-0,1-0,Bradford
+Tue Jan 20 2015,Doncaster,0-0,0-0,Notts County
+Tue Jan 20 2015,Preston,1-1,0-1,Yeovil
+Sat Jan 24 2015,Colchester,2-0,1-0,Leyton Orient
+Sat Jan 24 2015,Fleetwood Town,1-0,1-0,Crawley Town
+Sat Jan 24 2015,Gillingham,3-2,2-2,Oldham
+Sat Jan 24 2015,Milton Keynes Dons,2-0,0-0,Barnsley
+Sat Jan 24 2015,Notts County,1-2,1-1,Peterboro
+Sat Jan 24 2015,Port Vale,0-1,0-1,Crewe
+Sat Jan 24 2015,Yeovil,0-0,0-0,Coventry
+Tue Jan 27 2015,Chesterfield,3-0,1-0,Crawley Town
+Tue Jan 27 2015,Scunthorpe,1-1,0-0,Milton Keynes Dons
+Sat Jan 31 2015,Barnsley,2-1,1-0,Port Vale
+Sat Jan 31 2015,Bradford,1-1,0-1,Colchester
+Sat Jan 31 2015,Chesterfield,2-2,1-2,Doncaster
+Sat Jan 31 2015,Coventry,2-2,2-1,Rochdale
+Sat Jan 31 2015,Crawley Town,2-1,1-0,Preston
+Sat Jan 31 2015,Crewe,0-5,0-3,Milton Keynes Dons
+Sat Jan 31 2015,Leyton Orient,1-4,0-2,Scunthorpe
+Sat Jan 31 2015,Oldham,3-0,2-0,Notts County
+Sat Jan 31 2015,Peterboro,1-0,1-0,Yeovil
+Sat Jan 31 2015,Sheffield United,2-0,0-0,Swindon
+Sun Feb 1 2015,Bristol City,2-0,0-0,Fleetwood Town
+Sun Feb 1 2015,Walsall,1-1,0-0,Gillingham
+Tue Feb 3 2015,Barnsley,1-0,1-0,Oldham
+Sat Feb 7 2015,Colchester,2-3,1-0,Crewe
+Sat Feb 7 2015,Doncaster,0-2,0-1,Walsall
+Sat Feb 7 2015,Fleetwood Town,1-1,0-0,Peterboro
+Sat Feb 7 2015,Gillingham,2-0,0-0,Sheffield United
+Sat Feb 7 2015,Milton Keynes Dons,0-0,0-0,Bristol City
+Sat Feb 7 2015,Notts County,0-1,0-0,Chesterfield
+Sat Feb 7 2015,Port Vale,2-2,0-1,Bradford
+Sat Feb 7 2015,Preston,1-0,1-0,Coventry
+Sat Feb 7 2015,Scunthorpe,0-1,0-0,Oldham
+Sat Feb 7 2015,Swindon,2-0,1-0,Barnsley
+Sat Feb 7 2015,Yeovil,2-1,0-1,Crawley Town
+Mon Feb 9 2015,Bradford,2-1,0-0,Milton Keynes Dons
+Tue Feb 10 2015,Barnsley,1-2,1-2,Fleetwood Town
+Tue Feb 10 2015,Bristol City,3-1,1-0,Port Vale
+Tue Feb 10 2015,Chesterfield,0-2,0-1,Preston
+Tue Feb 10 2015,Coventry,1-1,0-1,Scunthorpe
+Tue Feb 10 2015,Crawley Town,0-5,0-1,Doncaster
+Tue Feb 10 2015,Crewe,1-0,1-0,Yeovil
+Tue Feb 10 2015,Leyton Orient,0-1,0-1,Notts County
+Tue Feb 10 2015,Oldham,2-1,2-0,Swindon
+Tue Feb 10 2015,Peterboro,1-2,0-1,Gillingham
+Tue Feb 10 2015,Sheffield United,4-1,2-0,Colchester
+Tue Feb 10 2015,Walsall,3-2,3-0,Rochdale
+Sat Feb 14 2015,Bristol City,1-3,1-0,Sheffield United
+Sat Feb 14 2015,Chesterfield,2-3,1-1,Leyton Orient
+Sat Feb 14 2015,Crawley Town,5-1,1-0,Barnsley
+Sat Feb 14 2015,Crewe,2-0,1-0,Fleetwood Town
+Sat Feb 14 2015,Doncaster,3-0,1-0,Yeovil
+Sat Feb 14 2015,Gillingham,4-2,2-1,Milton Keynes Dons
+Sat Feb 14 2015,Oldham,0-1,0-1,Colchester
+Sat Feb 14 2015,Peterboro,2-1,2-1,Rochdale
+Sat Feb 14 2015,Scunthorpe,3-1,0-1,Swindon
+Sat Feb 14 2015,Walsall,0-1,0-1,Port Vale
+Tue Feb 17 2015,Bristol City,2-0,1-0,Peterboro
+Tue Feb 17 2015,Colchester,0-1,0-1,Milton Keynes Dons
+Tue Feb 17 2015,Doncaster,2-1,0-1,Crewe
+Tue Feb 17 2015,Notts County,1-2,1-1,Sheffield United
+Tue Feb 17 2015,Scunthorpe,2-0,0-0,Chesterfield
+Wed Feb 18 2015,Leyton Orient,0-2,0-2,Bradford
+Sat Feb 21 2015,Barnsley,2-0,0-0,Crewe
+Sat Feb 21 2015,Bradford,1-1,0-0,Walsall
+Sat Feb 21 2015,Colchester,3-2,3-0,Bristol City
+Sat Feb 21 2015,Fleetwood Town,2-1,1-1,Notts County
+Sat Feb 21 2015,Leyton Orient,3-0,2-0,Oldham
+Sat Feb 21 2015,Milton Keynes Dons,3-0,3-0,Peterboro
+Sat Feb 21 2015,Port Vale,3-0,2-0,Doncaster
+Sat Feb 21 2015,Preston,2-0,0-0,Scunthorpe
+Sat Feb 21 2015,Rochdale,1-0,0-0,Chesterfield
+Sat Feb 21 2015,Sheffield United,2-2,0-1,Coventry
+Sat Feb 21 2015,Swindon,1-2,0-1,Crawley Town
+Sat Feb 21 2015,Yeovil,2-2,1-0,Gillingham
+Tue Feb 24 2015,Doncaster,1-3,0-2,Bristol City
+Tue Feb 24 2015,Preston,1-0,1-0,Walsall
+Tue Feb 24 2015,Rochdale,1-2,0-1,Sheffield United
+Tue Feb 24 2015,Scunthorpe,0-1,0-0,Barnsley
+Tue Feb 24 2015,Swindon,2-1,2-0,Bradford
+Sat Feb 28 2015,Bristol City,1-0,1-0,Rochdale
+Sat Feb 28 2015,Chesterfield,3-0,2-0,Fleetwood Town
+Sat Feb 28 2015,Coventry,2-1,2-0,Milton Keynes Dons
+Sat Feb 28 2015,Crawley Town,1-1,0-0,Sheffield United
+Sat Feb 28 2015,Crewe,0-0,0-0,Swindon
+Sat Feb 28 2015,Doncaster,2-0,1-0,Colchester
+Sat Feb 28 2015,Gillingham,0-1,0-0,Barnsley
+Sat Feb 28 2015,Notts County,0-1,0-1,Port Vale
+Sat Feb 28 2015,Oldham,0-4,0-2,Preston
+Sat Feb 28 2015,Peterboro,2-0,0-0,Bradford
+Sat Feb 28 2015,Scunthorpe,1-1,0-1,Yeovil
+Sat Feb 28 2015,Walsall,0-2,0-0,Leyton Orient
+Tue Mar 3 2015,Barnsley,1-0,0-0,Coventry
+Tue Mar 3 2015,Bradford,1-0,1-0,Crawley Town
+Tue Mar 3 2015,Colchester,0-1,0-0,Notts County
+Tue Mar 3 2015,Fleetwood Town,2-2,1-1,Scunthorpe
+Tue Mar 3 2015,Leyton Orient,1-3,1-2,Bristol City
+Tue Mar 3 2015,Milton Keynes Dons,1-2,1-0,Chesterfield
+Tue Mar 3 2015,Port Vale,0-1,0-1,Oldham
+Tue Mar 3 2015,Preston,2-2,1-0,Doncaster
+Tue Mar 3 2015,Rochdale,4-0,1-0,Crewe
+Tue Mar 3 2015,Sheffield United,1-2,0-0,Peterboro
+Tue Mar 3 2015,Swindon,0-3,0-1,Gillingham
+Tue Mar 3 2015,Yeovil,0-1,0-1,Walsall
+Sat Mar 7 2015,Barnsley,3-0,1-0,Walsall
+Sat Mar 7 2015,Coventry,2-3,1-2,Port Vale
+Sat Mar 7 2015,Crawley Town,1-2,0-0,Bristol City
+Sat Mar 7 2015,Crewe,2-0,0-0,Scunthorpe
+Sat Mar 7 2015,Gillingham,1-1,1-1,Doncaster
+Sat Mar 7 2015,Milton Keynes Dons,0-2,0-0,Preston
+Sat Mar 7 2015,Peterboro,1-0,1-0,Leyton Orient
+Sat Mar 7 2015,Rochdale,2-1,1-0,Colchester
+Sat Mar 7 2015,Sheffield United,1-2,1-2,Fleetwood Town
+Sat Mar 7 2015,Swindon,3-0,0-0,Notts County
+Sat Mar 7 2015,Yeovil,2-1,0-1,Oldham
+Tue Mar 10 2015,Coventry,1-1,1-0,Bradford
+Tue Mar 10 2015,Yeovil,0-3,0-0,Bristol City
+Sat Mar 14 2015,Bristol City,0-0,0-0,Gillingham
+Sat Mar 14 2015,Chesterfield,2-3,1-1,Coventry
+Sat Mar 14 2015,Colchester,2-3,1-2,Crawley Town
+Sat Mar 14 2015,Doncaster,0-2,0-1,Peterboro
+Sat Mar 14 2015,Fleetwood Town,1-0,0-0,Rochdale
+Sat Mar 14 2015,Leyton Orient,3-0,2-0,Yeovil
+Sat Mar 14 2015,Notts County,1-1,0-1,Bradford
+Sat Mar 14 2015,Oldham,1-3,1-2,Barnsley
+Sat Mar 14 2015,Port Vale,0-1,0-1,Swindon
+Sat Mar 14 2015,Preston,5-1,2-1,Crewe
+Sat Mar 14 2015,Scunthorpe,1-1,1-1,Sheffield United
+Sat Mar 14 2015,Walsall,1-1,1-1,Milton Keynes Dons
+Tue Mar 17 2015,Bristol City,3-0,2-0,Crewe
+Tue Mar 17 2015,Chesterfield,3-0,2-0,Gillingham
+Tue Mar 17 2015,Colchester,2-0,0-0,Yeovil
+Tue Mar 17 2015,Doncaster,1-2,1-0,Swindon
+Tue Mar 17 2015,Fleetwood Town,0-2,0-0,Coventry
+Tue Mar 17 2015,Leyton Orient,0-0,0-0,Barnsley
+Tue Mar 17 2015,Notts County,1-2,1-1,Rochdale
+Tue Mar 17 2015,Oldham,1-3,0-2,Milton Keynes Dons
+Tue Mar 17 2015,Port Vale,2-3,2-1,Crawley Town
+Tue Mar 17 2015,Preston,2-0,1-0,Peterboro
+Tue Mar 17 2015,Walsall,1-1,0-1,Sheffield United
+Sat Mar 21 2015,Barnsley,1-1,0-1,Preston
+Sat Mar 21 2015,Bradford,2-2,1-0,Fleetwood Town
+Sat Mar 21 2015,Coventry,1-3,1-0,Doncaster
+Sat Mar 21 2015,Crawley Town,1-0,1-0,Leyton Orient
+Sat Mar 21 2015,Crewe,0-1,0-0,Oldham
+Sat Mar 21 2015,Gillingham,2-2,0-0,Colchester
+Sat Mar 21 2015,Milton Keynes Dons,4-1,0-0,Notts County
+Sat Mar 21 2015,Peterboro,1-0,1-0,Chesterfield
+Sat Mar 21 2015,Rochdale,3-1,1-0,Scunthorpe
+Sat Mar 21 2015,Sheffield United,1-0,1-0,Port Vale
+Tue Mar 24 2015,Oldham,3-0,1-0,Rochdale
+Tue Mar 24 2015,Sheffield United,4-0,2-0,Scunthorpe
+Sat Mar 28 2015,Bradford,2-0,0-0,Oldham
+Sat Mar 28 2015,Bristol City,2-2,1-1,Barnsley
+Sat Mar 28 2015,Chesterfield,1-0,0-0,Walsall
+Sat Mar 28 2015,Crawley Town,1-2,0-1,Gillingham
+Sat Mar 28 2015,Leyton Orient,3-1,0-1,Port Vale
+Sat Mar 28 2015,Notts County,2-2,1-1,Scunthorpe
+Sat Mar 28 2015,Peterboro,0-1,0-0,Coventry
+Sat Mar 28 2015,Rochdale,2-1,0-0,Yeovil
+Sat Mar 28 2015,Sheffield United,1-2,0-1,Crewe
+Sun Mar 29 2015,Fleetwood Town,1-1,0-1,Preston
+Tue Mar 31 2015,Bradford,0-1,0-1,Chesterfield
+Wed Apr 1 2015,Coventry,0-1,0-0,Leyton Orient
+Fri Apr 3 2015,Crewe,0-0,0-0,Crawley Town
+Fri Apr 3 2015,Doncaster,0-3,0-0,Bradford
+Fri Apr 3 2015,Gillingham,0-1,0-1,Fleetwood Town
+Fri Apr 3 2015,Oldham,1-1,0-0,Bristol City
+Fri Apr 3 2015,Port Vale,1-2,0-0,Colchester
+Fri Apr 3 2015,Preston,1-0,1-0,Rochdale
+Fri Apr 3 2015,Scunthorpe,2-0,1-0,Peterboro
+Fri Apr 3 2015,Walsall,0-0,0-0,Notts County
+Fri Apr 3 2015,Yeovil,2-3,1-0,Chesterfield
+Sat Apr 4 2015,Barnsley,0-2,0-1,Sheffield United
+Sat Apr 4 2015,Swindon,0-3,0-0,Milton Keynes Dons
+Mon Apr 6 2015,Bradford,0-3,0-0,Preston
+Mon Apr 6 2015,Chesterfield,1-0,1-0,Crewe
+Mon Apr 6 2015,Colchester,3-1,0-1,Barnsley
+Mon Apr 6 2015,Crawley Town,2-0,2-0,Oldham
+Mon Apr 6 2015,Fleetwood Town,4-0,3-0,Yeovil
+Mon Apr 6 2015,Leyton Orient,3-3,1-2,Gillingham
+Mon Apr 6 2015,Notts County,0-0,0-0,Coventry
+Mon Apr 6 2015,Peterboro,0-0,0-0,Walsall
+Mon Apr 6 2015,Rochdale,1-0,0-0,Port Vale
+Tue Apr 7 2015,Bristol City,3-0,1-0,Swindon
+Tue Apr 7 2015,Milton Keynes Dons,2-0,2-0,Scunthorpe
+Tue Apr 7 2015,Sheffield United,3-2,1-1,Doncaster
+Sat Apr 11 2015,Barnsley,1-1,0-1,Chesterfield
+Sat Apr 11 2015,Coventry,1-0,1-0,Colchester
+Sat Apr 11 2015,Crewe,1-1,1-1,Leyton Orient
+Sat Apr 11 2015,Doncaster,1-1,1-0,Rochdale
+Sat Apr 11 2015,Gillingham,1-0,0-0,Bradford
+Sat Apr 11 2015,Oldham,2-2,2-0,Sheffield United
+Sat Apr 11 2015,Port Vale,0-0,0-0,Milton Keynes Dons
+Sat Apr 11 2015,Preston,1-1,0-0,Bristol City
+Sat Apr 11 2015,Scunthorpe,2-1,1-0,Crawley Town
+Sat Apr 11 2015,Swindon,1-0,0-0,Peterboro
+Sat Apr 11 2015,Walsall,1-0,0-0,Fleetwood Town
+Sat Apr 11 2015,Yeovil,1-1,1-0,Notts County
+Tue Apr 14 2015,Bradford,0-6,0-2,Bristol City
+Tue Apr 14 2015,Chesterfield,6-0,3-0,Colchester
+Tue Apr 14 2015,Coventry,1-1,0-1,Oldham
+Tue Apr 14 2015,Fleetwood Town,0-3,0-0,Milton Keynes Dons
+Tue Apr 14 2015,Leyton Orient,0-1,0-0,Doncaster
+Tue Apr 14 2015,Notts County,1-1,0-1,Barnsley
+Tue Apr 14 2015,Peterboro,1-1,0-1,Crewe
+Tue Apr 14 2015,Preston,2-2,2-0,Gillingham
+Tue Apr 14 2015,Rochdale,2-4,1-4,Swindon
+Tue Apr 14 2015,Scunthorpe,1-1,0-1,Port Vale
+Tue Apr 14 2015,Walsall,5-0,1-0,Crawley Town
+Tue Apr 14 2015,Yeovil,1-0,0-0,Sheffield United
+Fri Apr 17 2015,Port Vale,2-2,0-1,Preston
+Sat Apr 18 2015,Barnsley,1-1,0-1,Peterboro
+Sat Apr 18 2015,Bristol City,0-0,0-0,Coventry
+Sat Apr 18 2015,Colchester,2-2,0-1,Scunthorpe
+Sat Apr 18 2015,Crawley Town,2-0,2-0,Notts County
+Sat Apr 18 2015,Crewe,1-1,1-0,Walsall
+Sat Apr 18 2015,Doncaster,0-0,0-0,Fleetwood Town
+Sat Apr 18 2015,Gillingham,1-0,1-0,Rochdale
+Sat Apr 18 2015,Milton Keynes Dons,6-1,4-0,Leyton Orient
+Sat Apr 18 2015,Oldham,0-0,0-0,Chesterfield
+Sat Apr 18 2015,Sheffield United,1-1,0-0,Bradford
+Sat Apr 18 2015,Swindon,0-1,0-0,Yeovil
+Tue Apr 21 2015,Milton Keynes Dons,3-0,0-0,Doncaster
+Tue Apr 21 2015,Notts County,1-3,0-2,Preston
+Tue Apr 21 2015,Rochdale,1-0,0-0,Leyton Orient
+Tue Apr 21 2015,Scunthorpe,1-1,1-0,Bradford
+Tue Apr 21 2015,Swindon,3-3,0-1,Walsall
+Sat Apr 25 2015,Bradford,1-0,1-0,Barnsley
+Sat Apr 25 2015,Chesterfield,0-2,0-1,Bristol City
+Sat Apr 25 2015,Coventry,1-3,0-2,Crewe
+Sat Apr 25 2015,Fleetwood Town,2-3,0-0,Colchester
+Sat Apr 25 2015,Leyton Orient,1-1,0-0,Sheffield United
+Sat Apr 25 2015,Notts County,2-1,1-0,Doncaster
+Sat Apr 25 2015,Peterboro,4-3,1-1,Crawley Town
+Sat Apr 25 2015,Preston,3-0,2-0,Swindon
+Sat Apr 25 2015,Rochdale,2-3,0-2,Milton Keynes Dons
+Sat Apr 25 2015,Scunthorpe,2-1,2-1,Gillingham
+Sat Apr 25 2015,Walsall,2-0,2-0,Oldham
+Sat Apr 25 2015,Yeovil,1-2,0-1,Port Vale
+Tue Apr 28 2015,Colchester,1-1,1-0,Swindon
+Sun May 3 2015,Barnsley,5-0,0-0,Rochdale
+Sun May 3 2015,Bristol City,8-2,2-2,Walsall
+Sun May 3 2015,Colchester,1-0,0-0,Preston
+Sun May 3 2015,Crawley Town,1-2,0-0,Coventry
+Sun May 3 2015,Crewe,0-1,0-1,Bradford
+Sun May 3 2015,Doncaster,5-2,3-0,Scunthorpe
+Sun May 3 2015,Gillingham,3-1,0-0,Notts County
+Sun May 3 2015,Milton Keynes Dons,5-1,4-0,Yeovil
+Sun May 3 2015,Oldham,1-1,1-0,Peterboro
+Sun May 3 2015,Port Vale,1-2,0-2,Fleetwood Town
+Sun May 3 2015,Sheffield United,1-1,1-0,Chesterfield
+Sun May 3 2015,Swindon,2-2,0-1,Leyton Orient

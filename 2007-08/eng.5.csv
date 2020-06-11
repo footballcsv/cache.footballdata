@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 11 2007,Altrincham,1-4,1-0,Exeter
+Sat Aug 11 2007,Crawley Town,2-1,2-0,Stevenage
+Sat Aug 11 2007,Droylsden,0-0,0-0,Salisbury
+Sat Aug 11 2007,Ebbsfleet,2-1,1-0,Northwich
+Sat Aug 11 2007,Farsley,1-0,1-0,Stafford Rangers
+Sat Aug 11 2007,Histon,2-2,0-0,Burton
+Sat Aug 11 2007,Kidderminster,1-2,0-0,Aldershot
+Sat Aug 11 2007,Oxford,1-0,0-0,Forest Green
+Sat Aug 11 2007,Weymouth,2-1,0-0,Halifax
+Sat Aug 11 2007,Woking,1-1,0-0,Rushden & D
+Sat Aug 11 2007,York,1-2,1-0,Cambridge
+Sun Aug 12 2007,Torquay,0-0,0-0,Grays
+Tue Aug 14 2007,Burton,4-3,1-1,York
+Tue Aug 14 2007,Exeter,2-0,1-0,Crawley Town
+Tue Aug 14 2007,Forest Green,3-2,3-1,Weymouth
+Tue Aug 14 2007,Halifax,2-2,2-2,Altrincham
+Tue Aug 14 2007,Northwich,3-3,2-2,Droylsden
+Tue Aug 14 2007,Rushden & D,1-0,1-0,Farsley
+Tue Aug 14 2007,Salisbury,2-1,1-1,Ebbsfleet
+Tue Aug 14 2007,Stafford Rangers,1-3,1-1,Kidderminster
+Tue Aug 14 2007,Stevenage,2-1,1-0,Histon
+Wed Aug 15 2007,Aldershot,0-3,0-2,Torquay
+Wed Aug 15 2007,Grays,1-1,0-0,Woking
+Thu Aug 16 2007,Cambridge,2-1,1-0,Oxford
+Sat Aug 18 2007,Aldershot,3-1,0-1,Droylsden
+Sat Aug 18 2007,Forest Green,3-1,1-1,Altrincham
+Sat Aug 18 2007,Grays,5-1,4-0,Kidderminster
+Sat Aug 18 2007,Halifax,0-0,0-0,Histon
+Sat Aug 18 2007,Northwich,1-3,0-2,Torquay
+Sat Aug 18 2007,Rushden & D,0-1,0-1,Ebbsfleet
+Sat Aug 18 2007,Salisbury,4-1,2-0,Crawley Town
+Sat Aug 18 2007,Stafford Rangers,0-1,0-0,Woking
+Sat Aug 18 2007,Stevenage,3-0,1-0,Weymouth
+Sun Aug 19 2007,Burton,1-2,1-1,Oxford
+Mon Aug 20 2007,Exeter,1-1,1-0,York
+Tue Aug 21 2007,Cambridge,5-1,3-0,Farsley
+Thu Aug 23 2007,Weymouth,1-2,1-2,Burton
+Fri Aug 24 2007,Histon,1-2,0-2,Aldershot
+Fri Aug 24 2007,Kidderminster,0-2,0-2,Stevenage
+Fri Aug 24 2007,York,0-2,0-0,Forest Green
+Sat Aug 25 2007,Altrincham,0-1,0-0,Grays
+Sat Aug 25 2007,Crawley Town,2-1,1-1,Northwich
+Sat Aug 25 2007,Droylsden,2-3,0-1,Exeter
+Sat Aug 25 2007,Ebbsfleet,1-0,0-0,Halifax
+Sat Aug 25 2007,Farsley,2-2,1-1,Salisbury
+Sat Aug 25 2007,Oxford,2-1,1-0,Stafford Rangers
+Sat Aug 25 2007,Torquay,3-2,0-0,Rushden & D
+Sat Aug 25 2007,Woking,0-0,0-0,Cambridge
+Mon Aug 27 2007,Aldershot,0-1,0-0,Crawley Town
+Mon Aug 27 2007,Burton,1-0,0-0,Farsley
+Mon Aug 27 2007,Cambridge,1-1,0-1,Ebbsfleet
+Mon Aug 27 2007,Exeter,0-0,0-0,Weymouth
+Mon Aug 27 2007,Forest Green,2-2,2-1,Torquay
+Mon Aug 27 2007,Grays,0-1,0-0,Histon
+Mon Aug 27 2007,Halifax,3-0,2-0,Droylsden
+Mon Aug 27 2007,Northwich,0-1,0-0,York
+Mon Aug 27 2007,Rushden & D,0-1,0-0,Kidderminster
+Mon Aug 27 2007,Salisbury,2-1,2-0,Woking
+Mon Aug 27 2007,Stafford Rangers,1-1,1-1,Altrincham
+Mon Aug 27 2007,Stevenage,0-0,0-0,Oxford
+Thu Aug 30 2007,York,2-3,1-1,Rushden & D
+Fri Aug 31 2007,Weymouth,2-2,1-0,Cambridge
+Sat Sep 1 2007,Altrincham,1-2,1-1,Aldershot
+Sat Sep 1 2007,Crawley Town,1-1,1-0,Burton
+Sat Sep 1 2007,Droylsden,1-2,0-0,Grays
+Sat Sep 1 2007,Ebbsfleet,0-1,0-1,Stevenage
+Sat Sep 1 2007,Farsley,2-1,0-1,Northwich
+Sat Sep 1 2007,Histon,2-0,0-0,Salisbury
+Sat Sep 1 2007,Kidderminster,4-0,2-0,Exeter
+Sat Sep 1 2007,Oxford,1-1,0-0,Halifax
+Sat Sep 1 2007,Torquay,2-0,1-0,Stafford Rangers
+Sat Sep 1 2007,Woking,1-1,0-0,Forest Green
+Tue Sep 4 2007,Cambridge,1-0,0-0,Grays
+Tue Sep 4 2007,Droylsden,0-3,0-0,Stevenage
+Tue Sep 4 2007,Ebbsfleet,0-1,0-0,Histon
+Tue Sep 4 2007,Farsley,1-1,1-0,Kidderminster
+Tue Sep 4 2007,Forest Green,2-3,1-2,Aldershot
+Tue Sep 4 2007,Northwich,0-2,0-1,Burton
+Tue Sep 4 2007,Oxford,2-2,1-0,Exeter
+Tue Sep 4 2007,Rushden & D,1-1,0-1,Crawley Town
+Tue Sep 4 2007,Torquay,4-0,2-0,Salisbury
+Tue Sep 4 2007,Woking,1-1,0-0,Weymouth
+Tue Sep 4 2007,York,2-2,1-1,Altrincham
+Thu Sep 6 2007,Stafford Rangers,2-3,0-1,Halifax
+Sat Sep 8 2007,Aldershot,5-0,2-0,Northwich
+Sat Sep 8 2007,Altrincham,1-3,0-1,Oxford
+Sat Sep 8 2007,Crawley Town,5-0,2-0,Droylsden
+Sat Sep 8 2007,Exeter,1-1,1-0,Cambridge
+Sat Sep 8 2007,Grays,0-1,0-1,Forest Green
+Sat Sep 8 2007,Histon,1-2,0-0,Farsley
+Sat Sep 8 2007,Kidderminster,3-0,2-0,York
+Sat Sep 8 2007,Salisbury,1-1,0-0,Rushden & D
+Sat Sep 8 2007,Weymouth,2-0,1-0,Ebbsfleet
+Mon Sep 10 2007,Burton,3-1,2-0,Torquay
+Mon Sep 10 2007,Stevenage,3-0,0-0,Stafford Rangers
+Tue Sep 11 2007,Grays,0-0,0-0,Oxford
+Tue Sep 11 2007,Halifax,1-0,0-0,Woking
+Thu Sep 13 2007,Forest Green,0-3,0-2,Salisbury
+Fri Sep 14 2007,Torquay,3-1,0-0,Halifax
+Sat Sep 15 2007,Cambridge,2-1,0-1,Crawley Town
+Sat Sep 15 2007,Droylsden,1-3,0-1,Weymouth
+Sat Sep 15 2007,Ebbsfleet,5-4,3-0,Kidderminster
+Sat Sep 15 2007,Farsley,0-2,0-1,Exeter
+Sat Sep 15 2007,Northwich,1-3,0-2,Histon
+Sat Sep 15 2007,Oxford,2-3,0-2,Aldershot
+Sat Sep 15 2007,Rushden & D,0-0,0-0,Burton
+Sat Sep 15 2007,Stafford Rangers,0-2,0-2,Grays
+Sat Sep 15 2007,Woking,2-0,1-0,Altrincham
+Sat Sep 15 2007,York,0-2,0-0,Stevenage
+Tue Sep 18 2007,Aldershot,2-0,0-0,York
+Tue Sep 18 2007,Altrincham,0-3,0-2,Cambridge
+Tue Sep 18 2007,Burton,1-1,0-1,Ebbsfleet
+Tue Sep 18 2007,Crawley Town,5-3,3-1,Woking
+Tue Sep 18 2007,Exeter,3-3,2-0,Forest Green
+Tue Sep 18 2007,Halifax,3-1,2-0,Northwich
+Tue Sep 18 2007,Histon,4-5,0-3,Torquay
+Tue Sep 18 2007,Kidderminster,3-1,1-1,Droylsden
+Tue Sep 18 2007,Salisbury,1-0,1-0,Stafford Rangers
+Tue Sep 18 2007,Stevenage,4-0,1-0,Farsley
+Tue Sep 18 2007,Weymouth,1-2,1-1,Rushden & D
+Thu Sep 20 2007,Histon,1-0,1-0,Oxford
+Sat Sep 22 2007,Aldershot,4-3,1-0,Farsley
+Sat Sep 22 2007,Altrincham,3-2,1-1,Droylsden
+Sat Sep 22 2007,Burton,2-0,2-0,Woking
+Sat Sep 22 2007,Crawley Town,3-0,0-0,Forest Green
+Sat Sep 22 2007,Exeter,1-1,0-1,Ebbsfleet
+Sat Sep 22 2007,Grays,0-2,0-1,York
+Sat Sep 22 2007,Halifax,1-1,1-0,Rushden & D
+Sat Sep 22 2007,Kidderminster,2-5,0-3,Torquay
+Sat Sep 22 2007,Salisbury,2-0,1-0,Northwich
+Sat Sep 22 2007,Stevenage,1-2,0-1,Cambridge
+Sat Sep 22 2007,Weymouth,1-3,0-2,Stafford Rangers
+Tue Sep 25 2007,Cambridge,1-1,1-0,Aldershot
+Tue Sep 25 2007,Droylsden,0-2,0-0,Burton
+Tue Sep 25 2007,Ebbsfleet,1-0,0-0,Crawley Town
+Tue Sep 25 2007,Forest Green,4-2,1-1,Stevenage
+Tue Sep 25 2007,Oxford,2-1,1-0,Salisbury
+Tue Sep 25 2007,Rushden & D,1-1,1-0,Grays
+Tue Sep 25 2007,Stafford Rangers,1-1,0-1,Histon
+Tue Sep 25 2007,Torquay,3-2,0-1,Weymouth
+Tue Sep 25 2007,Woking,1-1,0-1,Exeter
+Thu Sep 27 2007,York,3-2,0-1,Halifax
+Sat Sep 29 2007,Crawley Town,0-1,0-0,Altrincham
+Sat Sep 29 2007,Farsley,1-1,1-1,Ebbsfleet
+Sat Sep 29 2007,Forest Green,3-1,1-0,Cambridge
+Sat Sep 29 2007,Grays,0-2,0-1,Stevenage
+Sat Sep 29 2007,Histon,2-2,1-1,Weymouth
+Sat Sep 29 2007,Northwich,1-3,0-2,Woking
+Sat Sep 29 2007,Rushden & D,1-1,0-0,Stafford Rangers
+Sat Sep 29 2007,Salisbury,0-1,0-1,Kidderminster
+Sat Sep 29 2007,Torquay,2-1,0-1,Droylsden
+Sun Sep 30 2007,Oxford,1-1,1-0,York
+Tue Oct 2 2007,Aldershot,2-0,0-0,Exeter
+Tue Oct 2 2007,Halifax,2-2,1-0,Burton
+Tue Oct 2 2007,Northwich,1-1,0-1,Kidderminster
+Thu Oct 4 2007,Woking,2-0,0-0,Farsley
+Sat Oct 6 2007,Altrincham,1-2,0-2,Rushden & D
+Sat Oct 6 2007,Burton,4-3,1-2,Salisbury
+Sat Oct 6 2007,Cambridge,2-2,1-1,Halifax
+Sat Oct 6 2007,Droylsden,3-1,1-0,Oxford
+Sat Oct 6 2007,Ebbsfleet,2-1,0-0,Torquay
+Sat Oct 6 2007,Exeter,1-0,1-0,Grays
+Sat Oct 6 2007,Kidderminster,1-1,1-0,Crawley Town
+Sat Oct 6 2007,Stafford Rangers,1-3,1-0,Forest Green
+Sat Oct 6 2007,Stevenage,3-1,2-0,Aldershot
+Sat Oct 6 2007,Weymouth,2-0,1-0,Northwich
+Sat Oct 6 2007,York,1-4,1-1,Histon
+Tue Oct 9 2007,Aldershot,2-0,0-0,Ebbsfleet
+Tue Oct 9 2007,Altrincham,0-0,0-0,Burton
+Tue Oct 9 2007,Cambridge,1-0,0-0,Rushden & D
+Tue Oct 9 2007,Crawley Town,1-0,1-0,Histon
+Tue Oct 9 2007,Droylsden,0-3,0-1,Farsley
+Tue Oct 9 2007,Exeter,4-2,2-1,Salisbury
+Tue Oct 9 2007,Forest Green,4-1,1-0,Northwich
+Tue Oct 9 2007,Grays,0-2,0-0,Weymouth
+Tue Oct 9 2007,Kidderminster,1-0,0-0,Halifax
+Tue Oct 9 2007,Stevenage,1-1,1-1,Woking
+Tue Oct 9 2007,York,2-0,2-0,Stafford Rangers
+Thu Oct 11 2007,Oxford,3-3,3-0,Torquay
+Fri Oct 12 2007,Rushden & D,1-2,0-1,Forest Green
+Fri Oct 12 2007,Weymouth,1-2,1-1,Crawley Town
+Sat Oct 13 2007,Burton,2-0,1-0,Aldershot
+Sat Oct 13 2007,Ebbsfleet,2-0,0-0,Droylsden
+Sat Oct 13 2007,Northwich,0-0,0-0,Exeter
+Sat Oct 13 2007,Salisbury,3-3,0-2,Altrincham
+Sat Oct 13 2007,Stafford Rangers,1-1,1-1,Cambridge
+Sat Oct 13 2007,Woking,0-3,0-1,York
+Sun Oct 14 2007,Farsley,0-1,0-0,Oxford
+Sun Oct 14 2007,Histon,2-1,1-0,Kidderminster
+Sun Oct 14 2007,Torquay,4-2,2-1,Stevenage
+Tue Oct 16 2007,Halifax,0-0,0-0,Grays
+Thu Oct 18 2007,Stevenage,3-3,1-1,Burton
+Sat Oct 20 2007,Aldershot,1-0,0-0,Halifax
+Sat Oct 20 2007,Altrincham,1-3,0-3,Ebbsfleet
+Sat Oct 20 2007,Cambridge,1-1,1-0,Salisbury
+Sat Oct 20 2007,Crawley Town,1-1,1-0,Stafford Rangers
+Sat Oct 20 2007,Droylsden,0-1,0-0,Histon
+Sat Oct 20 2007,Exeter,2-2,1-0,Rushden & D
+Sat Oct 20 2007,Forest Green,2-2,1-0,Farsley
+Sat Oct 20 2007,Grays,3-1,1-1,Northwich
+Sat Oct 20 2007,Kidderminster,0-2,0-0,Weymouth
+Sat Oct 20 2007,Oxford,0-0,0-0,Woking
+Sun Oct 21 2007,York,0-1,0-0,Torquay
+Thu Nov 1 2007,Rushden & D,5-0,3-0,Oxford
+Fri Nov 2 2007,Weymouth,0-2,0-1,Aldershot
+Sat Nov 3 2007,Burton,0-2,0-1,Kidderminster
+Sat Nov 3 2007,Ebbsfleet,0-2,0-1,Forest Green
+Sat Nov 3 2007,Halifax,3-0,2-0,Crawley Town
+Sat Nov 3 2007,Histon,1-0,1-0,Altrincham
+Sat Nov 3 2007,Northwich,0-2,0-1,Stevenage
+Sat Nov 3 2007,Salisbury,0-1,0-1,Grays
+Sat Nov 3 2007,Stafford Rangers,1-5,1-2,Exeter
+Sat Nov 3 2007,Torquay,1-2,1-1,Cambridge
+Sat Nov 3 2007,Woking,1-1,1-1,Droylsden
+Sun Nov 4 2007,Farsley,1-4,1-2,York
+Sat Nov 10 2007,Woking,0-1,0-0,Grays
+Sat Nov 17 2007,Aldershot,2-1,1-0,Rushden & D
+Sat Nov 17 2007,Altrincham,3-2,1-1,Weymouth
+Sat Nov 17 2007,Cambridge,2-1,1-0,Northwich
+Sat Nov 17 2007,Crawley Town,2-3,0-3,Torquay
+Sat Nov 17 2007,Droylsden,1-1,0-1,Stafford Rangers
+Sat Nov 17 2007,Exeter,1-4,1-1,Burton
+Sat Nov 17 2007,Forest Green,3-1,2-0,Histon
+Sat Nov 17 2007,Grays,1-0,1-0,Farsley
+Sat Nov 17 2007,Kidderminster,1-1,1-0,Woking
+Sat Nov 17 2007,Oxford,0-0,0-0,Ebbsfleet
+Sat Nov 17 2007,Stevenage,2-3,2-0,Halifax
+Sat Nov 17 2007,York,1-3,1-1,Salisbury
+Tue Nov 20 2007,Farsley,1-1,1-0,Altrincham
+Thu Nov 22 2007,Aldershot,3-2,3-0,Grays
+Fri Nov 23 2007,Burton,1-2,1-0,Cambridge
+Sat Nov 24 2007,Crawley Town,4-1,1-1,Farsley
+Sat Nov 24 2007,Droylsden,5-3,2-3,Forest Green
+Sat Nov 24 2007,Ebbsfleet,2-1,0-1,Stafford Rangers
+Sat Nov 24 2007,Halifax,1-1,0-0,Salisbury
+Sat Nov 24 2007,Histon,2-2,1-1,Exeter
+Sat Nov 24 2007,Kidderminster,0-2,0-1,Oxford
+Sat Nov 24 2007,Northwich,1-0,1-0,Rushden & D
+Sat Nov 24 2007,Torquay,2-0,1-0,Woking
+Sat Nov 24 2007,Weymouth,1-2,0-0,York
+Mon Nov 26 2007,Stevenage,2-1,1-1,Altrincham
+Thu Nov 29 2007,Woking,1-0,1-0,Ebbsfleet
+Sat Dec 1 2007,Altrincham,1-2,0-1,Histon
+Sat Dec 1 2007,Stafford Rangers,0-0,0-0,Northwich
+Sat Dec 1 2007,York,1-1,0-0,Crawley Town
+Sun Dec 2 2007,Salisbury,0-4,0-2,Aldershot
+Tue Dec 4 2007,Rushden & D,2-3,2-2,Histon
+Thu Dec 6 2007,Kidderminster,1-0,0-0,Cambridge
+Sat Dec 8 2007,Aldershot,4-3,3-2,Stafford Rangers
+Sat Dec 8 2007,Burton,1-1,1-1,Forest Green
+Sat Dec 8 2007,Droylsden,1-4,0-2,Rushden & D
+Sat Dec 8 2007,Ebbsfleet,1-2,0-1,York
+Sat Dec 8 2007,Halifax,0-3,0-1,Exeter
+Sat Dec 8 2007,Histon,0-1,0-0,Woking
+Sat Dec 8 2007,Northwich,1-0,1-0,Oxford
+Sat Dec 8 2007,Stevenage,3-1,2-1,Salisbury
+Wed Dec 12 2007,Farsley,1-2,0-1,Torquay
+Wed Dec 26 2007,Altrincham,1-2,1-2,Northwich
+Wed Dec 26 2007,Cambridge,1-0,0-0,Histon
+Wed Dec 26 2007,Exeter,4-3,2-0,Torquay
+Wed Dec 26 2007,Farsley,3-0,1-0,Halifax
+Wed Dec 26 2007,Forest Green,2-2,1-1,Kidderminster
+Wed Dec 26 2007,Grays,1-1,1-0,Ebbsfleet
+Wed Dec 26 2007,Oxford,1-0,0-0,Crawley Town
+Wed Dec 26 2007,Rushden & D,0-0,0-0,Stevenage
+Wed Dec 26 2007,Salisbury,1-1,0-0,Weymouth
+Wed Dec 26 2007,Stafford Rangers,0-3,0-3,Burton
+Wed Dec 26 2007,Woking,0-1,0-0,Aldershot
+Wed Dec 26 2007,York,2-1,1-1,Droylsden
+Sat Dec 29 2007,Altrincham,1-5,1-2,Stevenage
+Sat Dec 29 2007,Cambridge,0-0,0-0,Burton
+Sat Dec 29 2007,Exeter,2-1,0-1,Histon
+Sat Dec 29 2007,Farsley,1-5,0-2,Crawley Town
+Sat Dec 29 2007,Forest Green,3-2,2-0,Droylsden
+Sat Dec 29 2007,Grays,2-1,1-0,Aldershot
+Sat Dec 29 2007,Oxford,0-0,0-0,Kidderminster
+Sat Dec 29 2007,Rushden & D,1-0,1-0,Northwich
+Sat Dec 29 2007,Salisbury,1-0,0-0,Halifax
+Sat Dec 29 2007,Stafford Rangers,0-1,0-0,Ebbsfleet
+Sat Dec 29 2007,Woking,0-1,0-0,Torquay
+Sat Dec 29 2007,York,2-0,0-0,Weymouth
+Tue Jan 1 2008,Aldershot,2-1,2-0,Woking
+Tue Jan 1 2008,Burton,2-1,1-1,Stafford Rangers
+Tue Jan 1 2008,Crawley Town,2-0,0-0,Oxford
+Tue Jan 1 2008,Droylsden,3-4,2-0,York
+Tue Jan 1 2008,Ebbsfleet,4-1,2-0,Grays
+Tue Jan 1 2008,Halifax,2-0,1-0,Farsley
+Tue Jan 1 2008,Histon,1-0,0-0,Cambridge
+Tue Jan 1 2008,Kidderminster,1-0,0-0,Forest Green
+Tue Jan 1 2008,Northwich,1-2,0-0,Altrincham
+Tue Jan 1 2008,Stevenage,2-1,0-0,Rushden & D
+Tue Jan 1 2008,Torquay,1-0,0-0,Exeter
+Tue Jan 1 2008,Weymouth,0-3,0-0,Salisbury
+Sat Jan 5 2008,Droylsden,1-2,1-0,Crawley Town
+Sat Jan 5 2008,Ebbsfleet,4-1,3-0,Weymouth
+Sat Jan 5 2008,Farsley,1-3,1-2,Histon
+Sat Jan 5 2008,Forest Green,1-2,0-1,Grays
+Sat Jan 5 2008,Northwich,1-2,0-1,Aldershot
+Sat Jan 5 2008,Oxford,4-0,2-0,Altrincham
+Sat Jan 5 2008,Rushden & D,0-0,0-0,Salisbury
+Sat Jan 5 2008,Stafford Rangers,1-2,0-2,Stevenage
+Sat Jan 5 2008,Woking,1-0,1-0,Halifax
+Sat Jan 5 2008,York,2-2,2-2,Kidderminster
+Mon Jan 7 2008,Torquay,1-2,1-1,Burton
+Tue Jan 8 2008,Altrincham,2-1,0-0,Kidderminster
+Tue Jan 8 2008,Oxford,0-1,0-1,Weymouth
+Sat Jan 12 2008,Salisbury,3-1,2-0,Oxford
+Sat Jan 19 2008,Aldershot,0-1,0-1,Forest Green
+Sat Jan 19 2008,Altrincham,2-2,1-0,York
+Sat Jan 19 2008,Burton,4-1,2-1,Northwich
+Sat Jan 19 2008,Crawley Town,4-1,3-0,Rushden & D
+Sat Jan 19 2008,Grays,2-1,0-1,Cambridge
+Sat Jan 19 2008,Kidderminster,2-1,0-1,Farsley
+Sat Jan 19 2008,Salisbury,0-0,0-0,Torquay
+Sat Jan 19 2008,Stevenage,5-0,2-0,Droylsden
+Sat Jan 19 2008,Weymouth,0-1,0-0,Woking
+Sun Jan 20 2008,Exeter,2-0,2-0,Oxford
+Tue Jan 22 2008,Cambridge,5-0,2-0,Droylsden
+Thu Jan 24 2008,Farsley,0-0,0-0,Stevenage
+Sat Jan 26 2008,Cambridge,2-1,1-0,Altrincham
+Sat Jan 26 2008,Droylsden,1-0,1-0,Kidderminster
+Sat Jan 26 2008,Ebbsfleet,2-1,1-0,Burton
+Sat Jan 26 2008,Forest Green,1-1,1-1,Exeter
+Sat Jan 26 2008,Northwich,2-2,2-2,Halifax
+Sat Jan 26 2008,Oxford,0-0,0-0,Grays
+Sat Jan 26 2008,Rushden & D,3-2,1-1,Weymouth
+Sat Jan 26 2008,Stafford Rangers,1-5,0-3,Salisbury
+Sat Jan 26 2008,Woking,1-1,1-1,Crawley Town
+Sat Jan 26 2008,York,2-0,1-0,Aldershot
+Mon Jan 28 2008,Torquay,1-0,0-0,Histon
+Tue Jan 29 2008,Aldershot,1-0,0-0,Oxford
+Tue Jan 29 2008,Burton,2-1,1-1,Rushden & D
+Tue Jan 29 2008,Cambridge,0-1,0-1,Exeter
+Thu Jan 31 2008,Altrincham,2-2,0-1,Woking
+Sat Feb 2 2008,Exeter,4-0,3-0,Stevenage
+Sat Feb 2 2008,Kidderminster,0-0,0-0,Northwich
+Sat Feb 2 2008,Salisbury,0-0,0-0,Forest Green
+Sat Feb 9 2008,Cambridge,2-1,0-0,Stevenage
+Sat Feb 9 2008,Droylsden,0-2,0-0,Altrincham
+Sat Feb 9 2008,Ebbsfleet,1-1,1-0,Exeter
+Sat Feb 9 2008,Farsley,1-3,0-1,Aldershot
+Sat Feb 9 2008,Northwich,0-1,0-0,Salisbury
+Sat Feb 9 2008,Oxford,3-0,2-0,Histon
+Sat Feb 9 2008,Rushden & D,2-2,1-1,Halifax
+Sat Feb 9 2008,Stafford Rangers,2-1,1-0,Weymouth
+Sat Feb 9 2008,Torquay,1-0,1-0,Kidderminster
+Sat Feb 9 2008,Woking,2-1,2-0,Burton
+Sat Feb 9 2008,York,2-0,0-0,Grays
+Sun Feb 10 2008,Forest Green,1-0,0-0,Crawley Town
+Tue Feb 12 2008,Aldershot,0-0,0-0,Cambridge
+Tue Feb 12 2008,Altrincham,0-0,0-0,Farsley
+Tue Feb 12 2008,Burton,3-0,2-0,Droylsden
+Tue Feb 12 2008,Exeter,2-2,2-0,Woking
+Tue Feb 12 2008,Halifax,2-2,1-1,York
+Tue Feb 12 2008,Weymouth,0-0,0-0,Torquay
+Wed Feb 13 2008,Stevenage,0-0,0-0,Forest Green
+Thu Feb 14 2008,Crawley Town,1-2,1-2,Ebbsfleet
+Sat Feb 16 2008,Farsley,3-0,2-0,Woking
+Sat Feb 16 2008,Forest Green,1-2,1-1,Stafford Rangers
+Sat Feb 16 2008,Grays,0-2,0-2,Exeter
+Sat Feb 16 2008,Halifax,1-2,1-1,Cambridge
+Sat Feb 16 2008,Histon,3-1,2-1,York
+Sat Feb 16 2008,Oxford,1-0,1-0,Droylsden
+Sat Feb 16 2008,Rushden & D,1-0,1-0,Altrincham
+Sat Feb 16 2008,Salisbury,2-0,0-0,Burton
+Sat Feb 16 2008,Torquay,3-1,1-0,Ebbsfleet
+Sun Feb 17 2008,Aldershot,3-1,3-0,Stevenage
+Sat Feb 23 2008,Cambridge,2-0,1-0,Forest Green
+Sat Feb 23 2008,Exeter,2-1,2-0,Farsley
+Sat Feb 23 2008,Halifax,0-0,0-0,Stafford Rangers
+Sat Feb 23 2008,Kidderminster,1-2,1-2,Salisbury
+Sat Feb 23 2008,Stevenage,0-0,0-0,Grays
+Sat Feb 23 2008,Weymouth,0-1,0-0,Histon
+Sat Feb 23 2008,Woking,2-3,1-1,Northwich
+Tue Feb 26 2008,Histon,3-3,1-0,Stafford Rangers
+Tue Feb 26 2008,Torquay,1-1,1-0,Altrincham
+Sat Mar 1 2008,Aldershot,2-1,1-1,Kidderminster
+Sat Mar 1 2008,Burton,1-3,0-2,Histon
+Sat Mar 1 2008,Cambridge,2-0,1-0,York
+Sat Mar 1 2008,Exeter,2-1,2-0,Altrincham
+Sat Mar 1 2008,Forest Green,0-0,0-0,Oxford
+Sat Mar 1 2008,Grays,2-0,1-0,Torquay
+Sat Mar 1 2008,Halifax,2-1,0-1,Weymouth
+Sat Mar 1 2008,Northwich,3-3,1-0,Ebbsfleet
+Sat Mar 1 2008,Rushden & D,2-1,1-1,Woking
+Sat Mar 1 2008,Salisbury,3-1,2-0,Droylsden
+Sat Mar 1 2008,Stafford Rangers,0-2,0-1,Farsley
+Sat Mar 1 2008,Stevenage,3-1,2-1,Crawley Town
+Mon Mar 3 2008,Torquay,1-2,0-1,Aldershot
+Tue Mar 4 2008,Altrincham,3-3,1-2,Halifax
+Tue Mar 4 2008,Crawley Town,2-2,1-1,Exeter
+Tue Mar 4 2008,Droylsden,1-3,1-0,Northwich
+Tue Mar 4 2008,Ebbsfleet,2-1,2-0,Salisbury
+Tue Mar 4 2008,Farsley,0-1,0-0,Rushden & D
+Tue Mar 4 2008,Histon,1-4,1-1,Stevenage
+Tue Mar 4 2008,Kidderminster,6-0,4-0,Stafford Rangers
+Tue Mar 4 2008,Oxford,1-2,1-1,Cambridge
+Tue Mar 4 2008,Weymouth,0-6,0-3,Forest Green
+Tue Mar 4 2008,York,0-0,0-0,Burton
+Sat Mar 8 2008,Altrincham,1-0,0-0,Forest Green
+Sat Mar 8 2008,Crawley Town,1-1,0-0,Salisbury
+Sat Mar 8 2008,Farsley,2-1,0-0,Cambridge
+Sat Mar 8 2008,Histon,1-3,0-2,Halifax
+Sat Mar 8 2008,Kidderminster,1-0,1-0,Grays
+Sat Mar 8 2008,Oxford,0-3,0-2,Burton
+Sat Mar 8 2008,Weymouth,1-0,1-0,Stevenage
+Sat Mar 8 2008,Woking,2-2,1-1,Stafford Rangers
+Mon Mar 10 2008,York,3-2,2-1,Exeter
+Tue Mar 11 2008,Aldershot,3-1,2-0,Histon
+Tue Mar 11 2008,Altrincham,2-3,0-0,Crawley Town
+Tue Mar 11 2008,Ebbsfleet,0-3,0-1,Rushden & D
+Tue Mar 11 2008,Grays,0-0,0-0,Burton
+Tue Mar 11 2008,Halifax,3-2,2-0,Torquay
+Tue Mar 11 2008,Weymouth,0-0,0-0,Farsley
+Thu Mar 13 2008,Stevenage,2-1,1-0,Kidderminster
+Sat Mar 15 2008,Cambridge,1-0,1-0,Woking
+Sat Mar 15 2008,Forest Green,2-0,2-0,Halifax
+Sat Mar 15 2008,Grays,1-0,1-0,Altrincham
+Sat Mar 15 2008,Histon,2-1,0-0,Rushden & D
+Sat Mar 15 2008,Northwich,2-0,0-0,Crawley Town
+Sat Mar 15 2008,Salisbury,1-1,0-0,Farsley
+Sat Mar 15 2008,Stafford Rangers,0-1,0-1,Oxford
+Sun Mar 16 2008,Burton,2-1,0-1,Weymouth
+Tue Mar 18 2008,Crawley Town,2-1,1-1,Cambridge
+Tue Mar 18 2008,Forest Green,1-2,0-2,York
+Tue Mar 18 2008,Histon,3-2,1-2,Ebbsfleet
+Tue Mar 18 2008,Northwich,2-2,0-0,Weymouth
+Thu Mar 20 2008,Grays,3-1,1-1,Droylsden
+Fri Mar 21 2008,Forest Green,2-1,1-1,Woking
+Fri Mar 21 2008,Salisbury,3-3,1-2,Histon
+Fri Mar 21 2008,Stevenage,3-1,2-0,Ebbsfleet
+Sat Mar 22 2008,Aldershot,2-1,1-1,Altrincham
+Sat Mar 22 2008,Burton,1-0,0-0,Crawley Town
+Sat Mar 22 2008,Cambridge,0-0,0-0,Weymouth
+Sat Mar 22 2008,Exeter,1-0,0-0,Kidderminster
+Sat Mar 22 2008,Halifax,0-3,0-1,Oxford
+Sat Mar 22 2008,Northwich,4-0,2-0,Farsley
+Sat Mar 22 2008,Rushden & D,1-1,0-0,York
+Sat Mar 22 2008,Stafford Rangers,0-2,0-0,Torquay
+Mon Mar 24 2008,Altrincham,2-0,2-0,Stafford Rangers
+Mon Mar 24 2008,Crawley Town,0-1,0-1,Aldershot
+Mon Mar 24 2008,Droylsden,2-0,1-0,Halifax
+Mon Mar 24 2008,Ebbsfleet,2-1,1-1,Cambridge
+Mon Mar 24 2008,Farsley,0-1,0-1,Burton
+Mon Mar 24 2008,Histon,2-2,1-1,Grays
+Mon Mar 24 2008,Kidderminster,2-0,1-0,Rushden & D
+Mon Mar 24 2008,Oxford,2-1,1-0,Stevenage
+Mon Mar 24 2008,Torquay,1-0,1-0,Forest Green
+Mon Mar 24 2008,Weymouth,3-1,1-0,Exeter
+Mon Mar 24 2008,Woking,3-2,1-1,Salisbury
+Tue Mar 25 2008,York,1-1,1-0,Northwich
+Thu Mar 27 2008,Crawley Town,0-4,0-4,Kidderminster
+Thu Mar 27 2008,Droylsden,2-2,1-0,Aldershot
+Thu Mar 27 2008,Salisbury,1-0,0-0,Stevenage
+Sat Mar 29 2008,Altrincham,1-1,0-0,Torquay
+Sat Mar 29 2008,Cambridge,0-3,0-1,Kidderminster
+Sat Mar 29 2008,Exeter,1-0,0-0,Halifax
+Sat Mar 29 2008,Farsley,4-2,1-1,Weymouth
+Sat Mar 29 2008,Grays,2-1,0-1,Crawley Town
+Sat Mar 29 2008,Oxford,0-1,0-1,Northwich
+Sat Mar 29 2008,Rushden & D,0-0,0-0,Droylsden
+Sat Mar 29 2008,Stafford Rangers,1-2,0-1,Aldershot
+Sat Mar 29 2008,Woking,3-3,1-1,Histon
+Sat Mar 29 2008,York,0-1,0-1,Ebbsfleet
+Mon Mar 31 2008,Forest Green,3-1,2-0,Burton
+Tue Apr 1 2008,Droylsden,1-2,0-2,Torquay
+Tue Apr 1 2008,Grays,5-1,3-0,Stafford Rangers
+Tue Apr 1 2008,Histon,1-1,0-0,Northwich
+Tue Apr 1 2008,Kidderminster,2-1,2-1,Ebbsfleet
+Tue Apr 1 2008,Stevenage,3-2,1-2,York
+Thu Apr 3 2008,Exeter,1-1,0-1,Droylsden
+Sat Apr 5 2008,Aldershot,2-1,1-0,Salisbury
+Sat Apr 5 2008,Burton,2-3,2-1,Grays
+Sat Apr 5 2008,Crawley Town,6-1,3-1,York
+Sat Apr 5 2008,Droylsden,0-2,0-1,Cambridge
+Sat Apr 5 2008,Ebbsfleet,1-1,0-0,Woking
+Sat Apr 5 2008,Halifax,1-1,0-0,Forest Green
+Sat Apr 5 2008,Kidderminster,1-1,1-1,Altrincham
+Sat Apr 5 2008,Northwich,4-3,3-2,Stafford Rangers
+Sat Apr 5 2008,Stevenage,0-1,0-1,Exeter
+Sat Apr 5 2008,Torquay,0-1,0-1,Farsley
+Sat Apr 5 2008,Weymouth,0-1,0-0,Oxford
+Tue Apr 8 2008,Burton,2-1,0-0,Altrincham
+Tue Apr 8 2008,Ebbsfleet,2-2,1-0,Aldershot
+Tue Apr 8 2008,Farsley,1-2,1-1,Droylsden
+Tue Apr 8 2008,Halifax,1-6,1-4,Kidderminster
+Tue Apr 8 2008,Histon,3-0,1-0,Crawley Town
+Tue Apr 8 2008,Northwich,1-1,1-0,Forest Green
+Tue Apr 8 2008,Rushden & D,1-2,0-0,Cambridge
+Tue Apr 8 2008,Salisbury,2-0,1-0,Exeter
+Tue Apr 8 2008,Stafford Rangers,0-4,0-0,York
+Tue Apr 8 2008,Torquay,3-2,1-1,Oxford
+Tue Apr 8 2008,Weymouth,1-1,0-1,Grays
+Tue Apr 8 2008,Woking,0-2,0-1,Stevenage
+Thu Apr 10 2008,Halifax,1-0,0-0,Ebbsfleet
+Sat Apr 12 2008,Aldershot,1-0,1-0,Burton
+Sat Apr 12 2008,Altrincham,3-1,0-1,Salisbury
+Sat Apr 12 2008,Cambridge,1-2,1-1,Stafford Rangers
+Sat Apr 12 2008,Crawley Town,1-1,1-1,Weymouth
+Sat Apr 12 2008,Exeter,2-1,1-1,Northwich
+Sat Apr 12 2008,Forest Green,0-1,0-0,Rushden & D
+Sat Apr 12 2008,Grays,3-3,1-1,Halifax
+Sat Apr 12 2008,Kidderminster,1-1,1-0,Histon
+Sat Apr 12 2008,Oxford,5-1,2-0,Farsley
+Sat Apr 12 2008,Stevenage,1-3,0-0,Torquay
+Sat Apr 12 2008,York,2-3,1-1,Woking
+Tue Apr 15 2008,Burton,2-1,0-0,Halifax
+Tue Apr 15 2008,Crawley Town,2-1,0-0,Grays
+Tue Apr 15 2008,Ebbsfleet,3-1,0-1,Farsley
+Tue Apr 15 2008,Exeter,1-1,1-1,Aldershot
+Tue Apr 15 2008,Stafford Rangers,0-1,0-1,Rushden & D
+Tue Apr 15 2008,Torquay,1-0,1-0,Northwich
+Tue Apr 15 2008,Weymouth,2-1,1-1,Droylsden
+Tue Apr 15 2008,York,0-1,0-0,Oxford
+Thu Apr 17 2008,Droylsden,1-1,0-0,Ebbsfleet
+Thu Apr 17 2008,Rushden & D,2-1,1-1,Torquay
+Fri Apr 18 2008,Burton,3-0,0-0,Stevenage
+Sat Apr 19 2008,Ebbsfleet,2-0,1-0,Altrincham
+Sat Apr 19 2008,Farsley,0-2,0-1,Forest Green
+Sat Apr 19 2008,Halifax,0-0,0-0,Aldershot
+Sat Apr 19 2008,Histon,2-0,1-0,Droylsden
+Sat Apr 19 2008,Northwich,1-0,0-0,Grays
+Sat Apr 19 2008,Rushden & D,0-2,0-1,Exeter
+Sat Apr 19 2008,Salisbury,0-2,0-2,Cambridge
+Sat Apr 19 2008,Stafford Rangers,1-3,1-2,Crawley Town
+Sat Apr 19 2008,Torquay,0-0,0-0,York
+Sat Apr 19 2008,Weymouth,2-1,0-0,Kidderminster
+Sat Apr 19 2008,Woking,1-2,0-1,Oxford
+Tue Apr 22 2008,Aldershot,0-0,0-0,Weymouth
+Tue Apr 22 2008,Cambridge,2-0,2-0,Torquay
+Tue Apr 22 2008,Crawley Town,0-4,0-2,Halifax
+Tue Apr 22 2008,Droylsden,1-1,1-0,Woking
+Tue Apr 22 2008,Exeter,4-1,2-0,Stafford Rangers
+Tue Apr 22 2008,Forest Green,2-2,1-1,Ebbsfleet
+Tue Apr 22 2008,Grays,1-1,1-1,Salisbury
+Tue Apr 22 2008,Kidderminster,4-1,3-0,Burton
+Tue Apr 22 2008,Oxford,1-0,0-0,Rushden & D
+Tue Apr 22 2008,Stevenage,1-2,0-1,Northwich
+Tue Apr 22 2008,York,4-1,2-0,Farsley
+Thu Apr 24 2008,Grays,3-0,2-0,Rushden & D
+Sat Apr 26 2008,Burton,4-4,1-1,Exeter
+Sat Apr 26 2008,Ebbsfleet,1-3,0-3,Oxford
+Sat Apr 26 2008,Farsley,1-3,1-1,Grays
+Sat Apr 26 2008,Halifax,1-2,0-2,Stevenage
+Sat Apr 26 2008,Histon,2-2,2-1,Forest Green
+Sat Apr 26 2008,Northwich,0-2,0-1,Cambridge
+Sat Apr 26 2008,Rushden & D,1-1,0-0,Aldershot
+Sat Apr 26 2008,Salisbury,3-0,2-0,York
+Sat Apr 26 2008,Stafford Rangers,2-1,1-0,Droylsden
+Sat Apr 26 2008,Torquay,1-2,0-1,Crawley Town
+Sat Apr 26 2008,Weymouth,2-2,2-1,Altrincham
+Sat Apr 26 2008,Woking,3-0,1-0,Kidderminster

@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 14 1993,Barnet,1-2,?,Hull
+Sat Aug 14 1993,Bradford,2-0,?,Brighton
+Sat Aug 14 1993,Brentford,2-1,?,Exeter
+Sat Aug 14 1993,Bristol Rvs,0-1,?,Bournemouth
+Sat Aug 14 1993,Burnley,2-1,?,Port Vale
+Sat Aug 14 1993,Cambridge,3-2,?,Blackpool
+Sat Aug 14 1993,Cardiff,2-0,?,Leyton Orient
+Sat Aug 14 1993,Hartlepool,0-1,?,Fulham
+Sat Aug 14 1993,Huddersfield,0-3,?,Reading
+Sat Aug 14 1993,Plymouth,2-3,?,Stockport
+Sat Aug 14 1993,Wrexham,3-3,?,Rotherham
+Sat Aug 14 1993,York,2-1,?,Swansea
+Sat Aug 21 1993,Blackpool,1-1,?,Brentford
+Sat Aug 21 1993,Bournemouth,1-1,?,Bradford
+Sat Aug 21 1993,Brighton,1-1,?,Hartlepool
+Sat Aug 21 1993,Exeter,1-2,?,York
+Sat Aug 21 1993,Fulham,1-3,?,Cardiff
+Sat Aug 21 1993,Hull,2-2,?,Plymouth
+Sat Aug 21 1993,Leyton Orient,1-0,?,Bristol Rvs
+Sat Aug 21 1993,Port Vale,6-0,?,Barnet
+Sat Aug 21 1993,Reading,2-1,?,Burnley
+Sat Aug 21 1993,Rotherham,2-3,?,Huddersfield
+Sat Aug 21 1993,Stockport,3-1,?,Cambridge
+Sat Aug 21 1993,Swansea,3-1,?,Wrexham
+Sat Aug 28 1993,Barnet,0-1,?,Swansea
+Sat Aug 28 1993,Bradford,6-0,?,Exeter
+Sat Aug 28 1993,Brentford,1-0,?,Reading
+Sat Aug 28 1993,Bristol Rvs,2-1,?,Fulham
+Sat Aug 28 1993,Burnley,4-1,?,Leyton Orient
+Sat Aug 28 1993,Cambridge,3-4,?,Hull
+Sat Aug 28 1993,Cardiff,2-2,?,Brighton
+Sat Aug 28 1993,Hartlepool,1-1,?,Bournemouth
+Sat Aug 28 1993,Huddersfield,1-1,?,Stockport
+Sat Aug 28 1993,Plymouth,2-0,?,Port Vale
+Sat Aug 28 1993,Wrexham,2-3,?,Blackpool
+Sat Aug 28 1993,York,0-0,?,Rotherham
+Tue Aug 31 1993,Blackpool,2-1,?,Plymouth
+Tue Aug 31 1993,Bournemouth,3-1,?,York
+Tue Aug 31 1993,Exeter,2-2,?,Cardiff
+Tue Aug 31 1993,Fulham,0-0,?,Wrexham
+Tue Aug 31 1993,Hull,1-0,?,Brentford
+Tue Aug 31 1993,Leyton Orient,1-2,?,Hartlepool
+Tue Aug 31 1993,Port Vale,2-2,?,Cambridge
+Tue Aug 31 1993,Rotherham,3-2,?,Burnley
+Tue Aug 31 1993,Stockport,4-1,?,Bradford
+Tue Aug 31 1993,Swansea,1-0,?,Huddersfield
+Wed Sep 1 1993,Brighton,0-2,?,Bristol Rvs
+Wed Sep 1 1993,Reading,4-1,?,Barnet
+Sat Sep 4 1993,Blackpool,3-1,?,Barnet
+Sat Sep 4 1993,Bournemouth,1-0,?,Burnley
+Sat Sep 4 1993,Brighton,2-2,?,Huddersfield
+Sat Sep 4 1993,Exeter,2-1,?,Hartlepool
+Sat Sep 4 1993,Fulham,1-1,?,Bradford
+Sat Sep 4 1993,Hull,3-0,?,Bristol Rvs
+Sat Sep 4 1993,Leyton Orient,2-0,?,York
+Sat Sep 4 1993,Port Vale,2-2,?,Cardiff
+Sat Sep 4 1993,Reading,3-1,?,Cambridge
+Sat Sep 4 1993,Rotherham,2-0,?,Brentford
+Sat Sep 4 1993,Stockport,1-0,?,Wrexham
+Sat Sep 4 1993,Swansea,0-1,?,Plymouth
+Sat Sep 11 1993,Barnet,1-2,?,Bournemouth
+Sat Sep 11 1993,Bradford,2-1,?,Blackpool
+Sat Sep 11 1993,Brentford,1-1,?,Swansea
+Sat Sep 11 1993,Bristol Rvs,2-0,?,Port Vale
+Sat Sep 11 1993,Burnley,3-1,?,Fulham
+Sat Sep 11 1993,Cambridge,0-1,?,Rotherham
+Sat Sep 11 1993,Cardiff,3-4,?,Hull
+Sat Sep 11 1993,Hartlepool,1-0,?,Stockport
+Sat Sep 11 1993,Huddersfield,0-1,?,Exeter
+Sat Sep 11 1993,Plymouth,3-1,?,Leyton Orient
+Sat Sep 11 1993,Wrexham,3-2,?,Reading
+Sat Sep 11 1993,York,3-1,?,Brighton
+Tue Sep 14 1993,Barnet,0-2,?,Fulham
+Tue Sep 14 1993,Brentford,0-1,?,Leyton Orient
+Tue Sep 14 1993,Burnley,3-0,?,Brighton
+Tue Sep 14 1993,Cambridge,2-0,?,Swansea
+Tue Sep 14 1993,Hartlepool,2-0,?,Blackpool
+Tue Sep 14 1993,Huddersfield,1-1,?,Port Vale
+Tue Sep 14 1993,Plymouth,4-2,?,Rotherham
+Tue Sep 14 1993,Wrexham,3-0,?,Hull
+Tue Sep 14 1993,York,1-2,?,Stockport
+Wed Sep 15 1993,Bradford,2-4,?,Reading
+Wed Sep 15 1993,Bristol Rvs,1-1,?,Exeter
+Sat Sep 18 1993,Blackpool,1-0,?,Cardiff
+Sat Sep 18 1993,Bournemouth,1-2,?,Cambridge
+Sat Sep 18 1993,Brighton,2-1,?,Brentford
+Sat Sep 18 1993,Exeter,5-0,?,Wrexham
+Sat Sep 18 1993,Fulham,0-1,?,York
+Sat Sep 18 1993,Hull,2-1,?,Huddersfield
+Sat Sep 18 1993,Leyton Orient,4-2,?,Barnet
+Sat Sep 18 1993,Port Vale,1-0,?,Hartlepool
+Sat Sep 18 1993,Reading,3-2,?,Plymouth
+Sat Sep 18 1993,Rotherham,1-1,?,Bristol Rvs
+Sat Sep 18 1993,Stockport,2-1,?,Burnley
+Sat Sep 18 1993,Swansea,2-0,?,Bradford
+Sat Sep 25 1993,Blackpool,2-1,?,Bournemouth
+Sat Sep 25 1993,Bradford,2-0,?,Cambridge
+Sat Sep 25 1993,Brentford,1-2,?,Port Vale
+Sat Sep 25 1993,Bristol Rvs,3-1,?,Burnley
+Sat Sep 25 1993,Cardiff,2-3,?,Plymouth
+Sat Sep 25 1993,Exeter,1-0,?,Swansea
+Sat Sep 25 1993,Hartlepool,0-2,?,York
+Sat Sep 25 1993,Huddersfield,1-0,?,Fulham
+Sat Sep 25 1993,Leyton Orient,1-3,?,Brighton
+Sat Sep 25 1993,Reading,1-1,?,Hull
+Sat Sep 25 1993,Stockport,2-0,?,Rotherham
+Sat Sep 25 1993,Wrexham,4-0,?,Barnet
+Fri Oct 1 1993,Swansea,1-1,?,Reading
+Sat Oct 2 1993,Barnet,1-2,?,Bristol Rvs
+Sat Oct 2 1993,Bournemouth,1-1,?,Stockport
+Sat Oct 2 1993,Brighton,0-0,?,Exeter
+Sat Oct 2 1993,Burnley,2-0,?,Hartlepool
+Sat Oct 2 1993,Cambridge,1-1,?,Brentford
+Sat Oct 2 1993,Fulham,2-3,?,Leyton Orient
+Sat Oct 2 1993,Hull,3-1,?,Bradford
+Sat Oct 2 1993,Plymouth,2-0,?,Huddersfield
+Sat Oct 2 1993,Port Vale,3-0,?,Wrexham
+Sat Oct 2 1993,Rotherham,0-2,?,Blackpool
+Sat Oct 2 1993,York,5-0,?,Cardiff
+Sat Oct 9 1993,Brighton,1-1,?,Stockport
+Sat Oct 9 1993,Bristol Rvs,4-3,?,Bradford
+Sat Oct 9 1993,Burnley,4-2,?,Plymouth
+Sat Oct 9 1993,Exeter,4-6,?,Reading
+Sat Oct 9 1993,Fulham,0-2,?,Bournemouth
+Sat Oct 9 1993,Hartlepool,0-1,?,Brentford
+Sat Oct 9 1993,Leyton Orient,1-1,?,Rotherham
+Sat Oct 9 1993,Port Vale,2-1,?,Hull
+Sat Oct 9 1993,Swansea,4-4,?,Blackpool
+Sat Oct 9 1993,Wrexham,1-1,?,Cambridge
+Sat Oct 9 1993,York,0-2,?,Huddersfield
+Sun Oct 10 1993,Barnet,0-0,?,Cardiff
+Sat Oct 16 1993,Blackpool,1-3,?,Port Vale
+Sat Oct 16 1993,Bournemouth,2-1,?,Brighton
+Sat Oct 16 1993,Bradford,0-1,?,Burnley
+Sat Oct 16 1993,Brentford,2-1,?,Wrexham
+Sat Oct 16 1993,Cambridge,1-0,?,Hartlepool
+Sat Oct 16 1993,Cardiff,1-2,?,Bristol Rvs
+Sat Oct 16 1993,Huddersfield,1-2,?,Barnet
+Sat Oct 16 1993,Hull,1-1,?,Fulham
+Sat Oct 16 1993,Plymouth,2-1,?,York
+Sat Oct 16 1993,Reading,2-1,?,Leyton Orient
+Sat Oct 16 1993,Rotherham,1-1,?,Swansea
+Sat Oct 16 1993,Stockport,4-0,?,Exeter
+Sat Oct 23 1993,Barnet,2-3,?,Cambridge
+Sat Oct 23 1993,Brighton,0-2,?,Rotherham
+Sat Oct 23 1993,Bristol Rvs,0-0,?,Plymouth
+Sat Oct 23 1993,Burnley,1-1,?,Huddersfield
+Sat Oct 23 1993,Exeter,1-0,?,Blackpool
+Sat Oct 23 1993,Fulham,0-1,?,Stockport
+Sat Oct 23 1993,Hartlepool,1-2,?,Bradford
+Sat Oct 23 1993,Leyton Orient,0-0,?,Bournemouth
+Sat Oct 23 1993,Port Vale,0-4,?,Reading
+Sat Oct 23 1993,Swansea,1-0,?,Hull
+Sat Oct 23 1993,Wrexham,3-1,?,Cardiff
+Sat Oct 23 1993,York,0-2,?,Brentford
+Sat Oct 30 1993,Blackpool,2-0,?,Brighton
+Sat Oct 30 1993,Bournemouth,1-1,?,Exeter
+Sat Oct 30 1993,Bradford,0-0,?,York
+Sat Oct 30 1993,Brentford,1-0,?,Barnet
+Sat Oct 30 1993,Cambridge,0-1,?,Burnley
+Sat Oct 30 1993,Cardiff,2-2,?,Hartlepool
+Sat Oct 30 1993,Huddersfield,1-0,?,Bristol Rvs
+Sat Oct 30 1993,Hull,0-1,?,Leyton Orient
+Sat Oct 30 1993,Plymouth,1-1,?,Wrexham
+Sat Oct 30 1993,Reading,1-0,?,Fulham
+Sat Oct 30 1993,Rotherham,0-2,?,Port Vale
+Sat Oct 30 1993,Stockport,4-0,?,Swansea
+Tue Nov 2 1993,Blackpool,6-2,?,Hull
+Tue Nov 2 1993,Bradford,3-0,?,Huddersfield
+Tue Nov 2 1993,Brentford,1-1,?,Cardiff
+Tue Nov 2 1993,Brighton,1-1,?,Wrexham
+Tue Nov 2 1993,Cambridge,2-0,?,Plymouth
+Tue Nov 2 1993,Exeter,6-4,?,Fulham
+Tue Nov 2 1993,Hartlepool,2-1,?,Barnet
+Tue Nov 2 1993,Rotherham,2-2,?,Reading
+Tue Nov 2 1993,Stockport,3-0,?,Leyton Orient
+Tue Nov 2 1993,Swansea,3-1,?,Burnley
+Tue Nov 2 1993,York,0-1,?,Bristol Rvs
+Sat Nov 6 1993,Barnet,1-2,?,Bradford
+Sat Nov 6 1993,Bristol Rvs,1-1,?,Hartlepool
+Sat Nov 6 1993,Burnley,2-1,?,York
+Sat Nov 6 1993,Cardiff,3-1,?,Stockport
+Sat Nov 6 1993,Fulham,0-1,?,Brighton
+Sat Nov 6 1993,Huddersfield,1-1,?,Cambridge
+Sat Nov 6 1993,Hull,4-1,?,Rotherham
+Sat Nov 6 1993,Leyton Orient,1-1,?,Exeter
+Sat Nov 6 1993,Plymouth,1-1,?,Brentford
+Sat Nov 6 1993,Port Vale,3-0,?,Swansea
+Sat Nov 6 1993,Reading,1-1,?,Blackpool
+Sat Nov 6 1993,Wrexham,2-1,?,Bournemouth
+Fri Nov 19 1993,Cambridge,1-1,?,Cardiff
+Sat Nov 20 1993,Blackpool,2-1,?,Huddersfield
+Sat Nov 20 1993,Bournemouth,0-2,?,Hull
+Sat Nov 20 1993,Bradford,1-5,?,Plymouth
+Sat Nov 20 1993,Brentford,0-0,?,Burnley
+Sat Nov 20 1993,Brighton,0-1,?,Reading
+Sat Nov 20 1993,Exeter,1-1,?,Port Vale
+Sat Nov 20 1993,Hartlepool,1-2,?,Wrexham
+Sat Nov 20 1993,Rotherham,1-2,?,Fulham
+Sat Nov 20 1993,Stockport,0-2,?,Bristol Rvs
+Sat Nov 20 1993,Swansea,1-1,?,Leyton Orient
+Sat Nov 20 1993,York,1-1,?,Barnet
+Sat Nov 27 1993,Barnet,2-1,?,Rotherham
+Sat Nov 27 1993,Bristol Rvs,2-1,?,Cambridge
+Sat Nov 27 1993,Burnley,3-2,?,Exeter
+Sat Nov 27 1993,Cardiff,1-1,?,Bradford
+Sat Nov 27 1993,Fulham,3-1,?,Swansea
+Sat Nov 27 1993,Huddersfield,1-3,?,Brentford
+Sat Nov 27 1993,Hull,0-1,?,Stockport
+Sat Nov 27 1993,Leyton Orient,2-0,?,Blackpool
+Sat Nov 27 1993,Plymouth,2-0,?,Hartlepool
+Sat Nov 27 1993,Port Vale,4-0,?,Brighton
+Sat Nov 27 1993,Reading,3-0,?,Bournemouth
+Sat Nov 27 1993,Wrexham,1-1,?,York
+Sat Dec 4 1993,Blackpool,2-1,?,Hartlepool
+Tue Dec 7 1993,Bournemouth,2-1,?,Port Vale
+Sat Dec 11 1993,Barnet,2-3,?,Port Vale
+Sat Dec 11 1993,Bradford,0-0,?,Bournemouth
+Sat Dec 11 1993,Brentford,3-0,?,Blackpool
+Sat Dec 11 1993,Bristol Rvs,1-1,?,Leyton Orient
+Sat Dec 11 1993,Burnley,0-1,?,Reading
+Sat Dec 11 1993,Cambridge,0-0,?,Stockport
+Sat Dec 11 1993,Cardiff,1-0,?,Fulham
+Sat Dec 11 1993,Hartlepool,2-2,?,Brighton
+Sat Dec 11 1993,Huddersfield,2-1,?,Rotherham
+Sat Dec 11 1993,Plymouth,2-1,?,Hull
+Sat Dec 11 1993,Wrexham,3-2,?,Swansea
+Sat Dec 11 1993,York,3-0,?,Exeter
+Fri Dec 17 1993,Fulham,2-0,?,Hartlepool
+Fri Dec 17 1993,Rotherham,2-1,?,Wrexham
+Fri Dec 17 1993,Stockport,2-3,?,Plymouth
+Sat Dec 18 1993,Bournemouth,3-0,?,Bristol Rvs
+Sat Dec 18 1993,Brighton,0-1,?,Bradford
+Sat Dec 18 1993,Exeter,2-2,?,Brentford
+Sat Dec 18 1993,Hull,4-4,?,Barnet
+Sat Dec 18 1993,Leyton Orient,2-2,?,Cardiff
+Sat Dec 18 1993,Port Vale,1-1,?,Burnley
+Sat Dec 18 1993,Reading,0-0,?,Huddersfield
+Sat Dec 18 1993,Swansea,1-2,?,York
+Sun Dec 19 1993,Blackpool,2-3,?,Cambridge
+Wed Dec 22 1993,Cardiff,1-0,?,Swansea
+Mon Dec 27 1993,Bournemouth,0-3,?,Brentford
+Mon Dec 27 1993,Bradford,2-1,?,Rotherham
+Mon Dec 27 1993,Brighton,1-0,?,Barnet
+Mon Dec 27 1993,Burnley,2-1,?,Wrexham
+Mon Dec 27 1993,Fulham,0-0,?,Port Vale
+Mon Dec 27 1993,Hartlepool,1-4,?,Huddersfield
+Mon Dec 27 1993,Leyton Orient,2-1,?,Cambridge
+Mon Dec 27 1993,York,0-0,?,Hull
+Tue Dec 28 1993,Blackpool,0-5,?,York
+Tue Dec 28 1993,Hull,1-0,?,Hartlepool
+Tue Dec 28 1993,Plymouth,3-1,?,Fulham
+Tue Dec 28 1993,Reading,2-0,?,Stockport
+Wed Dec 29 1993,Barnet,1-1,?,Burnley
+Wed Dec 29 1993,Brentford,2-0,?,Bradford
+Wed Dec 29 1993,Cambridge,3-0,?,Exeter
+Wed Dec 29 1993,Port Vale,2-1,?,Leyton Orient
+Sat Jan 1 1994,Bournemouth,0-1,?,Plymouth
+Sat Jan 1 1994,Bradford,1-0,?,Wrexham
+Sat Jan 1 1994,Brighton,4-1,?,Cambridge
+Sat Jan 1 1994,Bristol Rvs,1-2,?,Swansea
+Sat Jan 1 1994,Burnley,3-1,?,Blackpool
+Sat Jan 1 1994,Cardiff,3-0,?,Reading
+Sat Jan 1 1994,Exeter,0-1,?,Hull
+Sat Jan 1 1994,Fulham,0-0,?,Brentford
+Sat Jan 1 1994,Hartlepool,2-0,?,Rotherham
+Sat Jan 1 1994,Leyton Orient,1-0,?,Huddersfield
+Sat Jan 1 1994,Stockport,2-1,?,Barnet
+Sat Jan 1 1994,York,1-0,?,Port Vale
+Mon Jan 3 1994,Blackpool,0-1,?,Bristol Rvs
+Mon Jan 3 1994,Brentford,1-1,?,Stockport
+Mon Jan 3 1994,Cambridge,3-0,?,Fulham
+Mon Jan 3 1994,Huddersfield,1-1,?,Bournemouth
+Mon Jan 3 1994,Hull,1-2,?,Burnley
+Mon Jan 3 1994,Plymouth,1-1,?,Brighton
+Mon Jan 3 1994,Reading,2-1,?,York
+Mon Jan 3 1994,Rotherham,5-2,?,Cardiff
+Mon Jan 3 1994,Wrexham,4-2,?,Leyton Orient
+Sat Jan 8 1994,Blackpool,2-3,?,Fulham
+Sat Jan 8 1994,Bradford,0-0,?,Leyton Orient
+Sat Jan 8 1994,Brentford,3-4,?,Bristol Rvs
+Sat Jan 8 1994,Cambridge,0-2,?,York
+Sat Jan 8 1994,Hull,0-0,?,Brighton
+Sat Jan 8 1994,Reading,4-0,?,Hartlepool
+Fri Jan 14 1994,Swansea,0-0,?,Rotherham
+Sat Jan 15 1994,Barnet,0-1,?,Huddersfield
+Sat Jan 15 1994,Brighton,3-3,?,Bournemouth
+Sat Jan 15 1994,Bristol Rvs,2-1,?,Cardiff
+Sat Jan 15 1994,Burnley,0-1,?,Bradford
+Sat Jan 15 1994,Fulham,0-1,?,Hull
+Sat Jan 15 1994,Hartlepool,0-2,?,Cambridge
+Sat Jan 15 1994,Leyton Orient,1-1,?,Reading
+Sat Jan 15 1994,Port Vale,2-0,?,Blackpool
+Sat Jan 15 1994,Wrexham,1-2,?,Brentford
+Sat Jan 15 1994,York,0-0,?,Plymouth
+Sat Jan 22 1994,Blackpool,1-1,?,Swansea
+Sat Jan 22 1994,Bournemouth,1-3,?,Fulham
+Sat Jan 22 1994,Bradford,0-1,?,Bristol Rvs
+Sat Jan 22 1994,Brentford,1-0,?,Hartlepool
+Sat Jan 22 1994,Cambridge,2-2,?,Wrexham
+Sat Jan 22 1994,Cardiff,0-0,?,Barnet
+Sat Jan 22 1994,Huddersfield,3-2,?,York
+Sat Jan 22 1994,Hull,0-0,?,Port Vale
+Sat Jan 22 1994,Plymouth,3-2,?,Burnley
+Sat Jan 22 1994,Reading,1-0,?,Exeter
+Sat Jan 22 1994,Rotherham,2-1,?,Leyton Orient
+Sat Jan 22 1994,Stockport,3-0,?,Brighton
+Wed Jan 26 1994,Bristol Rvs,1-1,?,Reading
+Fri Jan 28 1994,Swansea,1-1,?,Hartlepool
+Sat Jan 29 1994,Barnet,0-0,?,Brentford
+Sat Jan 29 1994,Brighton,3-2,?,Blackpool
+Sat Jan 29 1994,Bristol Rvs,0-0,?,Huddersfield
+Sat Jan 29 1994,Burnley,3-0,?,Cambridge
+Sat Jan 29 1994,Exeter,0-2,?,Bournemouth
+Sat Jan 29 1994,Leyton Orient,3-1,?,Hull
+Sat Jan 29 1994,York,1-1,?,Bradford
+Sun Jan 30 1994,Fulham,1-0,?,Reading
+Tue Feb 1 1994,Stockport,1-0,?,Blackpool
+Sat Feb 5 1994,Blackpool,1-0,?,Exeter
+Sat Feb 5 1994,Bournemouth,1-1,?,Leyton Orient
+Sat Feb 5 1994,Bradford,2-1,?,Hartlepool
+Sat Feb 5 1994,Brentford,1-1,?,York
+Sat Feb 5 1994,Cambridge,1-1,?,Barnet
+Sat Feb 5 1994,Cardiff,5-1,?,Wrexham
+Sat Feb 5 1994,Huddersfield,1-1,?,Burnley
+Sat Feb 5 1994,Hull,0-1,?,Swansea
+Sat Feb 5 1994,Plymouth,3-3,?,Bristol Rvs
+Sat Feb 5 1994,Reading,1-2,?,Port Vale
+Sat Feb 5 1994,Rotherham,0-1,?,Brighton
+Sat Feb 5 1994,Stockport,2-4,?,Fulham
+Sat Feb 12 1994,Barnet,0-0,?,Plymouth
+Sat Feb 12 1994,Brighton,3-0,?,Hull
+Sat Feb 12 1994,Bristol Rvs,1-4,?,Brentford
+Sat Feb 12 1994,Burnley,2-0,?,Cardiff
+Sat Feb 12 1994,Exeter,1-1,?,Rotherham
+Sat Feb 12 1994,Fulham,1-0,?,Blackpool
+Sat Feb 12 1994,Hartlepool,1-4,?,Reading
+Sat Feb 12 1994,Leyton Orient,2-1,?,Bradford
+Sat Feb 12 1994,Port Vale,1-1,?,Stockport
+Sat Feb 12 1994,Swansea,1-1,?,Bournemouth
+Sat Feb 12 1994,Wrexham,3-1,?,Huddersfield
+Sat Feb 12 1994,York,2-0,?,Cambridge
+Fri Feb 18 1994,Swansea,2-0,?,Barnet
+Sat Feb 19 1994,Blackpool,4-1,?,Wrexham
+Sat Feb 19 1994,Bournemouth,0-0,?,Hartlepool
+Sat Feb 19 1994,Exeter,0-0,?,Bradford
+Sat Feb 19 1994,Fulham,0-1,?,Bristol Rvs
+Sat Feb 19 1994,Hull,2-0,?,Cambridge
+Sat Feb 19 1994,Leyton Orient,3-1,?,Burnley
+Sat Feb 19 1994,Port Vale,2-1,?,Plymouth
+Sat Feb 19 1994,Reading,2-1,?,Brentford
+Sat Feb 19 1994,Rotherham,2-1,?,York
+Sat Feb 19 1994,Stockport,3-0,?,Huddersfield
+Tue Feb 22 1994,Brentford,0-3,?,Hull
+Tue Feb 22 1994,Cambridge,1-0,?,Port Vale
+Tue Feb 22 1994,Huddersfield,1-1,?,Swansea
+Tue Feb 22 1994,Plymouth,2-1,?,Blackpool
+Tue Feb 22 1994,Wrexham,2-0,?,Fulham
+Wed Feb 23 1994,Bristol Rvs,1-0,?,Brighton
+Sat Feb 26 1994,Barnet,0-1,?,Blackpool
+Sat Feb 26 1994,Brentford,2-2,?,Rotherham
+Sat Feb 26 1994,Bristol Rvs,1-1,?,Hull
+Sat Feb 26 1994,Burnley,4-0,?,Bournemouth
+Sat Feb 26 1994,Cambridge,0-1,?,Reading
+Sat Feb 26 1994,Hartlepool,1-2,?,Exeter
+Sat Feb 26 1994,Huddersfield,1-3,?,Brighton
+Sat Feb 26 1994,Plymouth,2-1,?,Swansea
+Sat Feb 26 1994,York,3-0,?,Leyton Orient
+Tue Mar 1 1994,Cardiff,2-1,?,Burnley
+Tue Mar 1 1994,Port Vale,0-0,?,Bradford
+Wed Mar 2 1994,Exeter,2-3,?,Plymouth
+Sat Mar 5 1994,Blackpool,1-3,?,Bradford
+Sat Mar 5 1994,Bournemouth,1-1,?,Barnet
+Sat Mar 5 1994,Brighton,2-0,?,York
+Sat Mar 5 1994,Exeter,2-3,?,Huddersfield
+Sat Mar 5 1994,Fulham,3-2,?,Burnley
+Sat Mar 5 1994,Hull,1-0,?,Cardiff
+Sat Mar 5 1994,Leyton Orient,2-1,?,Plymouth
+Sat Mar 5 1994,Port Vale,2-0,?,Bristol Rvs
+Sat Mar 5 1994,Reading,0-1,?,Wrexham
+Sat Mar 5 1994,Rotherham,3-0,?,Cambridge
+Sat Mar 5 1994,Stockport,5-0,?,Hartlepool
+Sat Mar 5 1994,Swansea,1-1,?,Brentford
+Tue Mar 8 1994,Hartlepool,1-1,?,Leyton Orient
+Tue Mar 8 1994,Plymouth,1-0,?,Barnet
+Tue Mar 8 1994,Rotherham,1-2,?,Bournemouth
+Tue Mar 8 1994,Swansea,3-0,?,Brighton
+Tue Mar 8 1994,Wrexham,0-1,?,Stockport
+Sat Mar 12 1994,Barnet,3-1,?,Leyton Orient
+Sat Mar 12 1994,Bradford,2-1,?,Swansea
+Sat Mar 12 1994,Brentford,1-1,?,Brighton
+Sat Mar 12 1994,Bristol Rvs,0-2,?,Rotherham
+Sat Mar 12 1994,Burnley,1-1,?,Stockport
+Sat Mar 12 1994,Cambridge,3-2,?,Bournemouth
+Sat Mar 12 1994,Cardiff,0-2,?,Blackpool
+Sat Mar 12 1994,Hartlepool,1-4,?,Port Vale
+Sat Mar 12 1994,Huddersfield,0-2,?,Hull
+Sat Mar 12 1994,Plymouth,3-1,?,Reading
+Sat Mar 12 1994,Wrexham,1-1,?,Exeter
+Sat Mar 12 1994,York,2-0,?,Fulham
+Tue Mar 15 1994,Bournemouth,3-2,?,Cardiff
+Tue Mar 15 1994,Exeter,1-0,?,Bristol Rvs
+Tue Mar 15 1994,Fulham,3-0,?,Barnet
+Tue Mar 15 1994,Hull,0-0,?,Wrexham
+Tue Mar 15 1994,Leyton Orient,1-1,?,Brentford
+Tue Mar 15 1994,Port Vale,1-0,?,Huddersfield
+Tue Mar 15 1994,Reading,1-1,?,Bradford
+Tue Mar 15 1994,Rotherham,0-3,?,Plymouth
+Tue Mar 15 1994,Stockport,1-2,?,York
+Tue Mar 15 1994,Swansea,4-2,?,Cambridge
+Wed Mar 16 1994,Brighton,1-1,?,Burnley
+Sat Mar 19 1994,Barnet,1-2,?,Wrexham
+Sat Mar 19 1994,Bournemouth,1-0,?,Blackpool
+Sat Mar 19 1994,Brighton,2-0,?,Leyton Orient
+Sat Mar 19 1994,Burnley,3-1,?,Bristol Rvs
+Sat Mar 19 1994,Cambridge,2-1,?,Bradford
+Sat Mar 19 1994,Fulham,1-1,?,Huddersfield
+Sat Mar 19 1994,Hull,1-2,?,Reading
+Sat Mar 19 1994,Plymouth,1-2,?,Cardiff
+Sat Mar 19 1994,Port Vale,1-0,?,Brentford
+Sat Mar 19 1994,Rotherham,1-2,?,Stockport
+Sat Mar 19 1994,Swansea,2-0,?,Exeter
+Sat Mar 19 1994,York,3-0,?,Hartlepool
+Tue Mar 22 1994,Barnet,2-1,?,Exeter
+Tue Mar 22 1994,Bradford,1-2,?,Stockport
+Tue Mar 22 1994,Hartlepool,3-0,?,Cardiff
+Tue Mar 22 1994,Wrexham,3-2,?,Bristol Rvs
+Tue Mar 22 1994,York,2-0,?,Bournemouth
+Sat Mar 26 1994,Blackpool,1-2,?,Rotherham
+Sat Mar 26 1994,Bradford,1-1,?,Hull
+Sat Mar 26 1994,Brentford,3-3,?,Cambridge
+Sat Mar 26 1994,Bristol Rvs,2-5,?,Barnet
+Sat Mar 26 1994,Cardiff,0-0,?,York
+Sat Mar 26 1994,Exeter,1-1,?,Brighton
+Sat Mar 26 1994,Hartlepool,4-1,?,Burnley
+Sat Mar 26 1994,Huddersfield,1-0,?,Plymouth
+Sat Mar 26 1994,Leyton Orient,2-2,?,Fulham
+Sat Mar 26 1994,Reading,2-1,?,Swansea
+Sat Mar 26 1994,Stockport,0-2,?,Bournemouth
+Sat Mar 26 1994,Wrexham,2-1,?,Port Vale
+Tue Mar 29 1994,Bournemouth,1-2,?,Huddersfield
+Tue Mar 29 1994,Bradford,2-1,?,Port Vale
+Tue Mar 29 1994,Burnley,3-1,?,Hull
+Tue Mar 29 1994,Cardiff,1-0,?,Rotherham
+Tue Mar 29 1994,Exeter,0-0,?,Barnet
+Tue Mar 29 1994,Fulham,0-2,?,Cambridge
+Tue Mar 29 1994,Hartlepool,1-0,?,Swansea
+Tue Mar 29 1994,Leyton Orient,2-2,?,Wrexham
+Tue Mar 29 1994,Stockport,3-1,?,Brentford
+Tue Mar 29 1994,York,1-0,?,Reading
+Wed Mar 30 1994,Brighton,2-1,?,Plymouth
+Wed Mar 30 1994,Bristol Rvs,1-0,?,Blackpool
+Sat Apr 2 1994,Barnet,1-1,?,Brighton
+Sat Apr 2 1994,Blackpool,2-0,?,Stockport
+Sat Apr 2 1994,Brentford,1-1,?,Bournemouth
+Sat Apr 2 1994,Cambridge,3-1,?,Leyton Orient
+Sat Apr 2 1994,Huddersfield,1-1,?,Hartlepool
+Sat Apr 2 1994,Hull,1-1,?,York
+Sat Apr 2 1994,Plymouth,1-0,?,Exeter
+Sat Apr 2 1994,Port Vale,2-2,?,Fulham
+Sat Apr 2 1994,Reading,2-0,?,Bristol Rvs
+Sat Apr 2 1994,Rotherham,2-1,?,Bradford
+Sat Apr 2 1994,Swansea,1-0,?,Cardiff
+Sat Apr 2 1994,Wrexham,1-0,?,Burnley
+Mon Apr 4 1994,Bradford,1-0,?,Brentford
+Mon Apr 4 1994,Bristol Rvs,3-1,?,Wrexham
+Mon Apr 4 1994,Burnley,5-0,?,Barnet
+Mon Apr 4 1994,Cardiff,2-2,?,Huddersfield
+Mon Apr 4 1994,Exeter,0-5,?,Cambridge
+Mon Apr 4 1994,Fulham,1-1,?,Plymouth
+Mon Apr 4 1994,Hartlepool,0-1,?,Hull
+Mon Apr 4 1994,Leyton Orient,2-3,?,Port Vale
+Mon Apr 4 1994,York,2-1,?,Blackpool
+Tue Apr 5 1994,Bournemouth,0-0,?,Rotherham
+Wed Apr 6 1994,Brighton,4-1,?,Swansea
+Sat Apr 9 1994,Barnet,0-0,?,Stockport
+Sat Apr 9 1994,Blackpool,1-2,?,Burnley
+Sat Apr 9 1994,Brentford,1-2,?,Fulham
+Sat Apr 9 1994,Cambridge,2-1,?,Brighton
+Sat Apr 9 1994,Huddersfield,1-0,?,Leyton Orient
+Sat Apr 9 1994,Hull,5-1,?,Exeter
+Sat Apr 9 1994,Plymouth,2-0,?,Bournemouth
+Sat Apr 9 1994,Reading,1-1,?,Cardiff
+Sat Apr 9 1994,Rotherham,7-0,?,Hartlepool
+Sat Apr 9 1994,Swansea,2-0,?,Bristol Rvs
+Sat Apr 9 1994,Wrexham,0-3,?,Bradford
+Tue Apr 12 1994,Barnet,0-1,?,Reading
+Tue Apr 12 1994,Brighton,3-5,?,Cardiff
+Tue Apr 12 1994,Huddersfield,3-0,?,Wrexham
+Tue Apr 12 1994,Port Vale,2-1,?,Rotherham
+Tue Apr 12 1994,Swansea,1-2,?,Stockport
+Wed Apr 13 1994,Bradford,0-0,?,Fulham
+Sat Apr 16 1994,Bristol Rvs,0-1,?,York
+Sat Apr 16 1994,Burnley,1-1,?,Swansea
+Sat Apr 16 1994,Cardiff,1-1,?,Brentford
+Sat Apr 16 1994,Fulham,0-2,?,Exeter
+Sat Apr 16 1994,Hull,0-0,?,Blackpool
+Sat Apr 16 1994,Leyton Orient,0-0,?,Stockport
+Sat Apr 16 1994,Plymouth,0-3,?,Cambridge
+Sat Apr 16 1994,Port Vale,2-1,?,Bournemouth
+Sat Apr 16 1994,Reading,0-0,?,Rotherham
+Sat Apr 16 1994,Wrexham,1-3,?,Brighton
+Sun Apr 17 1994,Huddersfield,1-1,?,Bradford
+Tue Apr 19 1994,Bournemouth,0-1,?,Swansea
+Tue Apr 19 1994,Huddersfield,2-0,?,Cardiff
+Tue Apr 19 1994,Rotherham,3-0,?,Exeter
+Tue Apr 19 1994,Stockport,2-1,?,Port Vale
+Thu Apr 21 1994,Cardiff,2-1,?,Bournemouth
+Thu Apr 21 1994,Port Vale,2-1,?,York
+Sat Apr 23 1994,Blackpool,0-4,?,Reading
+Sat Apr 23 1994,Bournemouth,1-2,?,Wrexham
+Sat Apr 23 1994,Brentford,1-1,?,Plymouth
+Sat Apr 23 1994,Brighton,2-0,?,Fulham
+Sat Apr 23 1994,Exeter,1-0,?,Leyton Orient
+Sat Apr 23 1994,Hartlepool,2-1,?,Bristol Rvs
+Sat Apr 23 1994,Rotherham,1-0,?,Hull
+Sat Apr 23 1994,Stockport,2-2,?,Cardiff
+Sat Apr 23 1994,York,0-0,?,Burnley
+Tue Apr 26 1994,Barnet,3-2,?,Hartlepool
+Tue Apr 26 1994,Burnley,0-0,?,Rotherham
+Tue Apr 26 1994,Cambridge,4-5,?,Huddersfield
+Tue Apr 26 1994,Cardiff,2-0,?,Exeter
+Tue Apr 26 1994,Swansea,0-1,?,Port Vale
+Tue Apr 26 1994,Wrexham,0-3,?,Plymouth
+Thu Apr 28 1994,Stockport,1-1,?,Reading
+Sat Apr 30 1994,Barnet,1-3,?,York
+Sat Apr 30 1994,Bristol Rvs,1-1,?,Stockport
+Sat Apr 30 1994,Burnley,4-1,?,Brentford
+Sat Apr 30 1994,Cardiff,2-7,?,Cambridge
+Sat Apr 30 1994,Fulham,1-0,?,Rotherham
+Sat Apr 30 1994,Huddersfield,2-1,?,Blackpool
+Sat Apr 30 1994,Hull,1-1,?,Bournemouth
+Sat Apr 30 1994,Leyton Orient,2-1,?,Swansea
+Sat Apr 30 1994,Plymouth,3-1,?,Bradford
+Sat Apr 30 1994,Port Vale,3-0,?,Exeter
+Sat Apr 30 1994,Reading,2-0,?,Brighton
+Sat Apr 30 1994,Wrexham,2-0,?,Hartlepool
+Mon May 2 1994,Exeter,1-2,?,Stockport
+Tue May 3 1994,Bradford,2-1,?,Barnet
+Tue May 3 1994,Cardiff,1-3,?,Port Vale
+Thu May 5 1994,Bournemouth,2-1,?,Reading
+Sat May 7 1994,Blackpool,4-1,?,Leyton Orient
+Sat May 7 1994,Bradford,2-0,?,Cardiff
+Sat May 7 1994,Brentford,1-2,?,Huddersfield
+Sat May 7 1994,Brighton,1-3,?,Port Vale
+Sat May 7 1994,Cambridge,1-3,?,Bristol Rvs
+Sat May 7 1994,Exeter,4-1,?,Burnley
+Sat May 7 1994,Hartlepool,1-8,?,Plymouth
+Sat May 7 1994,Rotherham,1-1,?,Barnet
+Sat May 7 1994,Stockport,0-0,?,Hull
+Sat May 7 1994,Swansea,2-1,?,Fulham
+Sat May 7 1994,York,1-1,?,Wrexham

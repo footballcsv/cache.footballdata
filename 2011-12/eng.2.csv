@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 5 2011,Hull,0-1,0-0,Blackpool
+Sat Aug 6 2011,Brighton,2-1,0-1,Doncaster
+Sat Aug 6 2011,Bristol City,0-3,0-1,Ipswich
+Sat Aug 6 2011,Burnley,2-2,0-1,Watford
+Sat Aug 6 2011,Coventry,0-1,0-0,Leicester
+Sat Aug 6 2011,Derby,2-1,2-1,Birmingham
+Sat Aug 6 2011,Middlesbrough,2-2,1-0,Portsmouth
+Sat Aug 6 2011,Nott'm Forest,0-0,0-0,Barnsley
+Sat Aug 6 2011,Peterboro,2-1,0-1,Crystal Palace
+Sat Aug 6 2011,Reading,2-2,0-0,Millwall
+Sat Aug 6 2011,Southampton,3-1,2-0,Leeds
+Sun Aug 7 2011,West Ham,0-1,0-0,Cardiff
+Sat Aug 13 2011,Barnsley,0-1,0-1,Southampton
+Sat Aug 13 2011,Birmingham,1-0,0-0,Coventry
+Sat Aug 13 2011,Crystal Palace,2-0,1-0,Burnley
+Sat Aug 13 2011,Doncaster,0-1,0-1,West Ham
+Sat Aug 13 2011,Ipswich,0-1,0-0,Hull
+Sat Aug 13 2011,Leeds,0-1,0-0,Middlesbrough
+Sat Aug 13 2011,Leicester,0-2,0-0,Reading
+Sat Aug 13 2011,Millwall,2-0,1-0,Nott'm Forest
+Sat Aug 13 2011,Portsmouth,0-1,0-1,Brighton
+Sat Aug 13 2011,Watford,0-1,0-0,Derby
+Sun Aug 14 2011,Blackpool,2-1,1-0,Peterboro
+Sun Aug 14 2011,Cardiff,3-1,3-0,Bristol City
+Tue Aug 16 2011,Barnsley,1-3,1-3,Middlesbrough
+Tue Aug 16 2011,Crystal Palace,2-1,0-0,Coventry
+Tue Aug 16 2011,Doncaster,0-1,0-1,Nott'm Forest
+Tue Aug 16 2011,Ipswich,2-5,0-3,Southampton
+Tue Aug 16 2011,Leeds,4-1,2-1,Hull
+Tue Aug 16 2011,Portsmouth,1-0,0-0,Reading
+Tue Aug 16 2011,Watford,0-4,0-2,West Ham
+Wed Aug 17 2011,Blackpool,0-1,0-0,Derby
+Wed Aug 17 2011,Cardiff,1-3,0-1,Brighton
+Wed Aug 17 2011,Leicester,1-2,0-1,Bristol City
+Wed Aug 17 2011,Millwall,2-2,1-0,Peterboro
+Sat Aug 20 2011,Brighton,2-2,1-0,Blackpool
+Sat Aug 20 2011,Bristol City,0-0,0-0,Portsmouth
+Sat Aug 20 2011,Burnley,1-1,1-1,Cardiff
+Sat Aug 20 2011,Coventry,0-0,0-0,Watford
+Sat Aug 20 2011,Derby,3-0,1-0,Doncaster
+Sat Aug 20 2011,Hull,0-1,0-1,Crystal Palace
+Sat Aug 20 2011,Nott'm Forest,2-2,0-2,Leicester
+Sat Aug 20 2011,Peterboro,7-1,4-1,Ipswich
+Sat Aug 20 2011,Reading,1-2,0-1,Barnsley
+Sat Aug 20 2011,Southampton,1-0,1-0,Millwall
+Sun Aug 21 2011,Middlesbrough,3-1,0-1,Birmingham
+Sun Aug 21 2011,West Ham,2-2,1-0,Leeds
+Sat Aug 27 2011,Brighton,2-0,1-0,Peterboro
+Sat Aug 27 2011,Crystal Palace,1-1,0-1,Blackpool
+Sat Aug 27 2011,Derby,1-2,0-0,Burnley
+Sat Aug 27 2011,Doncaster,1-1,0-1,Bristol City
+Sat Aug 27 2011,Hull,1-0,0-0,Reading
+Sat Aug 27 2011,Ipswich,2-1,0-1,Leeds
+Sat Aug 27 2011,Leicester,3-2,3-1,Southampton
+Sat Aug 27 2011,Middlesbrough,1-1,1-0,Coventry
+Sat Aug 27 2011,Millwall,0-0,0-0,Barnsley
+Sat Aug 27 2011,Portsmouth,1-1,0-0,Cardiff
+Sun Aug 28 2011,Nott'm Forest,1-4,0-3,West Ham
+Sun Aug 28 2011,Watford,2-2,0-1,Birmingham
+Sat Sep 10 2011,Barnsley,1-1,1-0,Leicester
+Sat Sep 10 2011,Blackpool,2-0,0-0,Ipswich
+Sat Sep 10 2011,Bristol City,0-1,0-0,Brighton
+Sat Sep 10 2011,Burnley,0-2,0-1,Middlesbrough
+Sat Sep 10 2011,Cardiff,2-0,0-0,Doncaster
+Sat Sep 10 2011,Coventry,2-0,0-0,Derby
+Sat Sep 10 2011,Leeds,3-2,1-2,Crystal Palace
+Sat Sep 10 2011,Peterboro,0-1,0-0,Hull
+Sat Sep 10 2011,Reading,0-2,0-1,Watford
+Sat Sep 10 2011,Southampton,3-2,2-2,Nott'm Forest
+Sat Sep 10 2011,West Ham,4-3,1-1,Portsmouth
+Sun Sep 11 2011,Birmingham,3-0,1-0,Millwall
+Sat Sep 17 2011,Barnsley,1-1,0-1,Watford
+Sat Sep 17 2011,Blackpool,1-1,0-0,Cardiff
+Sat Sep 17 2011,Crystal Palace,0-1,0-0,Middlesbrough
+Sat Sep 17 2011,Hull,1-0,1-0,Portsmouth
+Sat Sep 17 2011,Leeds,2-1,1-1,Bristol City
+Sat Sep 17 2011,Leicester,1-0,0-0,Brighton
+Sat Sep 17 2011,Millwall,0-0,0-0,West Ham
+Sat Sep 17 2011,Nott'm Forest,1-2,1-1,Derby
+Sat Sep 17 2011,Peterboro,2-1,2-1,Burnley
+Sat Sep 17 2011,Reading,2-0,0-0,Doncaster
+Sun Sep 18 2011,Southampton,4-1,3-0,Birmingham
+Mon Sep 19 2011,Ipswich,3-0,2-0,Coventry
+Fri Sep 23 2011,Brighton,3-3,0-2,Leeds
+Sat Sep 24 2011,Birmingham,1-1,0-1,Barnsley
+Sat Sep 24 2011,Bristol City,1-1,0-0,Hull
+Sat Sep 24 2011,Burnley,1-1,0-0,Southampton
+Sat Sep 24 2011,Coventry,1-1,1-1,Reading
+Sat Sep 24 2011,Derby,3-0,2-0,Millwall
+Sat Sep 24 2011,Doncaster,1-0,0-0,Crystal Palace
+Sat Sep 24 2011,Middlesbrough,0-0,0-0,Ipswich
+Sat Sep 24 2011,Portsmouth,1-0,0-0,Blackpool
+Sat Sep 24 2011,Watford,0-1,0-0,Nott'm Forest
+Sat Sep 24 2011,West Ham,1-0,1-0,Peterboro
+Sun Sep 25 2011,Cardiff,0-0,0-0,Leicester
+Tue Sep 27 2011,Brighton,1-3,1-0,Crystal Palace
+Tue Sep 27 2011,Bristol City,2-3,1-0,Reading
+Tue Sep 27 2011,Burnley,5-1,4-0,Nott'm Forest
+Tue Sep 27 2011,Coventry,2-2,0-1,Blackpool
+Tue Sep 27 2011,Derby,1-1,0-1,Barnsley
+Tue Sep 27 2011,Doncaster,1-1,0-1,Hull
+Tue Sep 27 2011,Portsmouth,2-3,1-2,Peterboro
+Tue Sep 27 2011,Watford,2-1,0-0,Millwall
+Tue Sep 27 2011,West Ham,0-1,0-0,Ipswich
+Wed Sep 28 2011,Cardiff,2-1,0-0,Southampton
+Wed Sep 28 2011,Middlesbrough,0-0,0-0,Leicester
+Sat Oct 1 2011,Barnsley,2-0,1-0,Coventry
+Sat Oct 1 2011,Blackpool,5-0,1-0,Bristol City
+Sat Oct 1 2011,Crystal Palace,2-2,1-1,West Ham
+Sat Oct 1 2011,Hull,2-1,1-0,Cardiff
+Sat Oct 1 2011,Ipswich,3-1,0-0,Brighton
+Sat Oct 1 2011,Leeds,1-0,1-0,Portsmouth
+Sat Oct 1 2011,Leicester,4-0,2-0,Derby
+Sat Oct 1 2011,Millwall,0-1,0-1,Burnley
+Sat Oct 1 2011,Peterboro,1-2,1-0,Doncaster
+Sat Oct 1 2011,Reading,0-0,0-0,Middlesbrough
+Sat Oct 1 2011,Southampton,4-0,1-0,Watford
+Sun Oct 2 2011,Nott'm Forest,1-3,1-0,Birmingham
+Fri Oct 14 2011,Doncaster,0-3,0-1,Leeds
+Sat Oct 15 2011,Brighton,0-0,0-0,Hull
+Sat Oct 15 2011,Bristol City,1-2,0-0,Peterboro
+Sat Oct 15 2011,Burnley,0-1,0-0,Reading
+Sat Oct 15 2011,Cardiff,2-2,1-1,Ipswich
+Sat Oct 15 2011,Coventry,1-0,0-0,Nott'm Forest
+Sat Oct 15 2011,Derby,1-1,1-0,Southampton
+Sat Oct 15 2011,Middlesbrough,1-1,1-0,Millwall
+Sat Oct 15 2011,Portsmouth,2-0,0-0,Barnsley
+Sat Oct 15 2011,Watford,0-2,0-0,Crystal Palace
+Sat Oct 15 2011,West Ham,4-0,1-0,Blackpool
+Sun Oct 16 2011,Birmingham,2-0,0-0,Leicester
+Tue Oct 18 2011,Barnsley,2-0,1-0,Burnley
+Tue Oct 18 2011,Blackpool,2-1,0-1,Doncaster
+Tue Oct 18 2011,Crystal Palace,1-0,0-0,Bristol City
+Tue Oct 18 2011,Ipswich,1-0,0-0,Portsmouth
+Tue Oct 18 2011,Leeds,1-1,1-0,Coventry
+Tue Oct 18 2011,Millwall,1-1,0-0,Brighton
+Tue Oct 18 2011,Nott'm Forest,2-0,1-0,Middlesbrough
+Tue Oct 18 2011,Peterboro,4-3,2-1,Cardiff
+Tue Oct 18 2011,Reading,2-2,0-0,Derby
+Tue Oct 18 2011,Southampton,1-0,1-0,West Ham
+Wed Oct 19 2011,Leicester,2-0,2-0,Watford
+Sat Oct 22 2011,Blackpool,1-2,1-1,Nott'm Forest
+Sat Oct 22 2011,Cardiff,5-3,3-1,Barnsley
+Sat Oct 22 2011,Coventry,1-2,0-0,Burnley
+Sat Oct 22 2011,Hull,3-2,0-1,Watford
+Sat Oct 22 2011,Ipswich,0-1,0-0,Crystal Palace
+Sat Oct 22 2011,Leicester,0-3,0-2,Millwall
+Sat Oct 22 2011,Middlesbrough,2-0,1-0,Derby
+Sat Oct 22 2011,Peterboro,2-3,1-1,Leeds
+Sat Oct 22 2011,Portsmouth,3-1,1-1,Doncaster
+Sat Oct 22 2011,Reading,1-1,0-0,Southampton
+Sun Oct 23 2011,Bristol City,0-2,0-1,Birmingham
+Mon Oct 24 2011,Brighton,0-1,0-1,West Ham
+Wed Oct 26 2011,Birmingham,1-0,1-0,Leeds
+Sat Oct 29 2011,Barnsley,1-2,0-1,Bristol City
+Sat Oct 29 2011,Birmingham,0-0,0-0,Brighton
+Sat Oct 29 2011,Burnley,3-1,2-0,Blackpool
+Sat Oct 29 2011,Crystal Palace,0-0,0-0,Reading
+Sat Oct 29 2011,Derby,3-1,3-0,Portsmouth
+Sat Oct 29 2011,Doncaster,1-1,0-1,Coventry
+Sat Oct 29 2011,Millwall,4-1,2-0,Ipswich
+Sat Oct 29 2011,Nott'm Forest,0-1,0-0,Hull
+Sat Oct 29 2011,Southampton,3-0,2-0,Middlesbrough
+Sat Oct 29 2011,Watford,3-2,3-2,Peterboro
+Sat Oct 29 2011,West Ham,3-2,2-0,Leicester
+Sun Oct 30 2011,Leeds,1-1,0-1,Cardiff
+Tue Nov 1 2011,Barnsley,2-1,0-0,Hull
+Tue Nov 1 2011,Burnley,1-3,1-1,Leicester
+Tue Nov 1 2011,Crystal Palace,0-0,0-0,Portsmouth
+Tue Nov 1 2011,Doncaster,1-3,1-2,Middlesbrough
+Tue Nov 1 2011,Millwall,3-0,0-0,Coventry
+Tue Nov 1 2011,Nott'm Forest,1-0,0-0,Reading
+Tue Nov 1 2011,Southampton,2-1,2-0,Peterboro
+Tue Nov 1 2011,Watford,1-0,0-0,Brighton
+Tue Nov 1 2011,West Ham,0-0,0-0,Bristol City
+Wed Nov 2 2011,Derby,0-3,0-1,Cardiff
+Wed Nov 2 2011,Leeds,0-5,0-3,Blackpool
+Sat Nov 5 2011,Blackpool,1-0,0-0,Millwall
+Sat Nov 5 2011,Bristol City,3-1,1-0,Burnley
+Sat Nov 5 2011,Cardiff,2-0,0-0,Crystal Palace
+Sat Nov 5 2011,Coventry,2-4,0-2,Southampton
+Sat Nov 5 2011,Hull,0-2,0-0,West Ham
+Sat Nov 5 2011,Ipswich,2-3,0-3,Doncaster
+Sat Nov 5 2011,Middlesbrough,1-0,1-0,Watford
+Sat Nov 5 2011,Peterboro,3-2,1-2,Derby
+Sat Nov 5 2011,Portsmouth,3-0,1-0,Nott'm Forest
+Sun Nov 6 2011,Brighton,2-0,1-0,Barnsley
+Sun Nov 6 2011,Leicester,0-1,0-0,Leeds
+Sun Nov 6 2011,Reading,1-0,0-0,Birmingham
+Sat Nov 19 2011,Barnsley,2-0,1-0,Doncaster
+Sat Nov 19 2011,Birmingham,1-1,1-0,Peterboro
+Sat Nov 19 2011,Burnley,1-2,1-0,Leeds
+Sat Nov 19 2011,Coventry,1-2,1-0,West Ham
+Sat Nov 19 2011,Derby,0-2,0-2,Hull
+Sat Nov 19 2011,Middlesbrough,2-2,1-1,Blackpool
+Sat Nov 19 2011,Nott'm Forest,3-2,1-1,Ipswich
+Sat Nov 19 2011,Reading,1-2,0-1,Cardiff
+Sat Nov 19 2011,Southampton,3-0,0-0,Brighton
+Sat Nov 19 2011,Watford,2-0,2-0,Portsmouth
+Sun Nov 20 2011,Leicester,3-0,0-0,Crystal Palace
+Sun Nov 20 2011,Millwall,1-2,0-1,Bristol City
+Tue Nov 22 2011,Birmingham,2-1,1-0,Burnley
+Tue Nov 22 2011,Coventry,1-1,0-0,Cardiff
+Sat Nov 26 2011,Blackpool,2-2,1-1,Birmingham
+Sat Nov 26 2011,Brighton,2-1,2-1,Coventry
+Sat Nov 26 2011,Bristol City,2-0,0-0,Southampton
+Sat Nov 26 2011,Cardiff,1-0,0-0,Nott'm Forest
+Sat Nov 26 2011,Crystal Palace,0-0,0-0,Millwall
+Sat Nov 26 2011,Doncaster,0-0,0-0,Watford
+Sat Nov 26 2011,Hull,2-3,1-0,Burnley
+Sat Nov 26 2011,Ipswich,2-3,0-0,Reading
+Sat Nov 26 2011,Leeds,1-2,0-2,Barnsley
+Sat Nov 26 2011,Peterboro,1-1,0-0,Middlesbrough
+Sat Nov 26 2011,Portsmouth,1-1,0-0,Leicester
+Sat Nov 26 2011,West Ham,3-1,1-1,Derby
+Tue Nov 29 2011,Burnley,4-0,2-0,Ipswich
+Tue Nov 29 2011,Derby,0-1,0-1,Brighton
+Tue Nov 29 2011,Leicester,2-0,1-0,Blackpool
+Tue Nov 29 2011,Middlesbrough,0-2,0-1,West Ham
+Tue Nov 29 2011,Millwall,3-2,2-1,Doncaster
+Tue Nov 29 2011,Nott'm Forest,0-4,0-2,Leeds
+Tue Nov 29 2011,Reading,3-2,1-1,Peterboro
+Tue Nov 29 2011,Southampton,2-1,0-1,Hull
+Tue Nov 29 2011,Watford,2-2,2-1,Bristol City
+Fri Dec 2 2011,Crystal Palace,1-1,1-0,Derby
+Sat Dec 3 2011,Blackpool,1-0,0-0,Reading
+Sat Dec 3 2011,Brighton,1-0,0-0,Nott'm Forest
+Sat Dec 3 2011,Bristol City,0-1,0-0,Middlesbrough
+Sat Dec 3 2011,Doncaster,1-0,0-0,Southampton
+Sat Dec 3 2011,Hull,2-1,1-1,Leicester
+Sat Dec 3 2011,Ipswich,1-2,1-0,Watford
+Sat Dec 3 2011,Leeds,2-0,0-0,Millwall
+Sat Dec 3 2011,Peterboro,3-4,0-2,Barnsley
+Sat Dec 3 2011,Portsmouth,2-1,1-0,Coventry
+Sat Dec 3 2011,West Ham,1-2,0-0,Burnley
+Sun Dec 4 2011,Cardiff,1-0,0-0,Birmingham
+Tue Dec 6 2011,Barnsley,2-1,1-1,Crystal Palace
+Wed Dec 7 2011,Hull,2-1,0-1,Birmingham
+Sat Dec 10 2011,Barnsley,3-5,2-0,Ipswich
+Sat Dec 10 2011,Birmingham,2-1,0-0,Doncaster
+Sat Dec 10 2011,Burnley,0-1,0-0,Portsmouth
+Sat Dec 10 2011,Coventry,0-1,0-0,Hull
+Sat Dec 10 2011,Derby,2-1,0-0,Bristol City
+Sat Dec 10 2011,Leicester,1-1,0-0,Peterboro
+Sat Dec 10 2011,Middlesbrough,1-0,1-0,Brighton
+Sat Dec 10 2011,Millwall,0-0,0-0,Cardiff
+Sat Dec 10 2011,Nott'm Forest,0-1,0-0,Crystal Palace
+Sat Dec 10 2011,Reading,3-0,0-0,West Ham
+Sat Dec 10 2011,Southampton,2-2,1-1,Blackpool
+Sat Dec 10 2011,Watford,1-1,1-0,Leeds
+Sat Dec 17 2011,Blackpool,0-0,0-0,Watford
+Sat Dec 17 2011,Brighton,0-1,0-1,Burnley
+Sat Dec 17 2011,Bristol City,0-0,0-0,Nott'm Forest
+Sat Dec 17 2011,Cardiff,2-3,2-1,Middlesbrough
+Sat Dec 17 2011,Doncaster,2-1,0-1,Leicester
+Sat Dec 17 2011,Hull,2-0,0-0,Millwall
+Sat Dec 17 2011,Ipswich,1-0,0-0,Derby
+Sat Dec 17 2011,Leeds,0-1,0-1,Reading
+Sat Dec 17 2011,Peterboro,1-0,0-0,Coventry
+Sat Dec 17 2011,West Ham,1-0,1-0,Barnsley
+Sun Dec 18 2011,Portsmouth,1-1,0-0,Southampton
+Mon Dec 19 2011,Crystal Palace,1-0,0-0,Birmingham
+Mon Dec 26 2011,Barnsley,1-3,1-1,Blackpool
+Mon Dec 26 2011,Birmingham,1-1,0-1,West Ham
+Mon Dec 26 2011,Burnley,3-0,1-0,Doncaster
+Mon Dec 26 2011,Coventry,1-0,0-0,Bristol City
+Mon Dec 26 2011,Derby,1-0,0-0,Leeds
+Mon Dec 26 2011,Leicester,1-1,0-1,Ipswich
+Mon Dec 26 2011,Middlesbrough,1-0,0-0,Hull
+Mon Dec 26 2011,Millwall,1-0,0-0,Portsmouth
+Mon Dec 26 2011,Nott'm Forest,0-1,0-1,Peterboro
+Mon Dec 26 2011,Reading,3-0,2-0,Brighton
+Mon Dec 26 2011,Southampton,2-0,1-0,Crystal Palace
+Mon Dec 26 2011,Watford,1-1,0-0,Cardiff
+Fri Dec 30 2011,Southampton,0-1,0-0,Bristol City
+Sat Dec 31 2011,Barnsley,4-1,1-0,Leeds
+Sat Dec 31 2011,Birmingham,3-0,1-0,Blackpool
+Sat Dec 31 2011,Burnley,1-0,1-0,Hull
+Sat Dec 31 2011,Coventry,2-0,1-0,Brighton
+Sat Dec 31 2011,Derby,2-1,2-1,West Ham
+Sat Dec 31 2011,Leicester,1-1,1-1,Portsmouth
+Sat Dec 31 2011,Middlesbrough,1-1,0-0,Peterboro
+Sat Dec 31 2011,Millwall,0-1,0-1,Crystal Palace
+Sat Dec 31 2011,Nott'm Forest,0-1,0-0,Cardiff
+Sat Dec 31 2011,Reading,1-0,0-0,Ipswich
+Sat Dec 31 2011,Watford,4-1,1-0,Doncaster
+Mon Jan 2 2012,Blackpool,3-0,0-0,Middlesbrough
+Mon Jan 2 2012,Brighton,3-0,0-0,Southampton
+Mon Jan 2 2012,Cardiff,3-1,3-1,Reading
+Mon Jan 2 2012,Crystal Palace,1-2,1-2,Leicester
+Mon Jan 2 2012,Doncaster,2-0,1-0,Barnsley
+Mon Jan 2 2012,Hull,0-1,0-0,Derby
+Mon Jan 2 2012,Ipswich,1-3,0-2,Nott'm Forest
+Mon Jan 2 2012,Leeds,2-1,0-0,Burnley
+Mon Jan 2 2012,Peterboro,1-1,1-0,Birmingham
+Mon Jan 2 2012,Portsmouth,2-0,0-0,Watford
+Mon Jan 2 2012,West Ham,1-0,0-0,Coventry
+Tue Jan 3 2012,Bristol City,1-0,0-0,Millwall
+Wed Jan 11 2012,Birmingham,2-1,1-1,Ipswich
+Sat Jan 14 2012,Brighton,2-0,1-0,Bristol City
+Sat Jan 14 2012,Crystal Palace,1-1,1-0,Leeds
+Sat Jan 14 2012,Derby,1-0,0-0,Coventry
+Sat Jan 14 2012,Doncaster,0-0,0-0,Cardiff
+Sat Jan 14 2012,Hull,1-0,1-0,Peterboro
+Sat Jan 14 2012,Ipswich,2-2,1-0,Blackpool
+Sat Jan 14 2012,Leicester,1-2,1-2,Barnsley
+Sat Jan 14 2012,Middlesbrough,0-2,0-2,Burnley
+Sat Jan 14 2012,Millwall,0-6,0-1,Birmingham
+Sat Jan 14 2012,Nott'm Forest,0-3,0-1,Southampton
+Sat Jan 14 2012,Portsmouth,0-1,0-1,West Ham
+Sat Jan 14 2012,Watford,1-2,1-1,Reading
+Sat Jan 21 2012,Barnsley,1-3,0-2,Millwall
+Sat Jan 21 2012,Birmingham,3-0,1-0,Watford
+Sat Jan 21 2012,Blackpool,2-1,0-1,Crystal Palace
+Sat Jan 21 2012,Bristol City,2-1,2-0,Doncaster
+Sat Jan 21 2012,Burnley,0-0,0-0,Derby
+Sat Jan 21 2012,Cardiff,3-2,1-1,Portsmouth
+Sat Jan 21 2012,Coventry,3-1,1-0,Middlesbrough
+Sat Jan 21 2012,Leeds,3-1,0-1,Ipswich
+Sat Jan 21 2012,Peterboro,1-2,0-1,Brighton
+Sat Jan 21 2012,Reading,0-1,0-0,Hull
+Sat Jan 21 2012,West Ham,2-1,1-0,Nott'm Forest
+Mon Jan 23 2012,Southampton,0-2,0-2,Leicester
+Sat Jan 28 2012,Peterboro,0-3,0-2,Portsmouth
+Sat Jan 28 2012,Reading,1-0,0-0,Bristol City
+Tue Jan 31 2012,Barnsley,3-2,3-0,Derby
+Tue Jan 31 2012,Blackpool,2-1,0-0,Coventry
+Tue Jan 31 2012,Crystal Palace,1-1,0-0,Brighton
+Tue Jan 31 2012,Hull,0-0,0-0,Doncaster
+Tue Jan 31 2012,Ipswich,5-1,3-1,West Ham
+Tue Jan 31 2012,Leeds,1-4,1-1,Birmingham
+Tue Jan 31 2012,Millwall,0-2,0-1,Watford
+Tue Jan 31 2012,Nott'm Forest,0-2,0-1,Burnley
+Tue Jan 31 2012,Southampton,1-1,0-1,Cardiff
+Wed Feb 1 2012,Leicester,2-2,1-1,Middlesbrough
+Sat Feb 4 2012,Birmingham,0-0,0-0,Southampton
+Sat Feb 4 2012,Brighton,1-0,0-0,Leicester
+Sat Feb 4 2012,Bristol City,0-3,0-1,Leeds
+Sat Feb 4 2012,Burnley,1-1,0-1,Peterboro
+Sat Feb 4 2012,Cardiff,1-3,0-0,Blackpool
+Sat Feb 4 2012,Coventry,2-3,2-1,Ipswich
+Sat Feb 4 2012,Middlesbrough,0-0,0-0,Crystal Palace
+Sat Feb 4 2012,Watford,2-1,1-0,Barnsley
+Sat Feb 4 2012,West Ham,2-1,1-0,Millwall
+Tue Feb 7 2012,Birmingham,1-0,0-0,Portsmouth
+Sat Feb 11 2012,Blackpool,1-1,0-1,Portsmouth
+Sat Feb 11 2012,Hull,3-0,2-0,Bristol City
+Sat Feb 11 2012,Leeds,1-2,0-0,Brighton
+Sat Feb 11 2012,Leicester,2-1,1-0,Cardiff
+Sat Feb 11 2012,Millwall,0-0,0-0,Derby
+Sat Feb 11 2012,Nott'm Forest,1-1,1-1,Watford
+Sat Feb 11 2012,Reading,2-0,2-0,Coventry
+Sat Feb 11 2012,Southampton,2-0,2-0,Burnley
+Tue Feb 14 2012,Birmingham,0-0,0-0,Hull
+Tue Feb 14 2012,Brighton,2-2,0-1,Millwall
+Tue Feb 14 2012,Bristol City,2-2,0-1,Crystal Palace
+Tue Feb 14 2012,Burnley,2-0,1-0,Barnsley
+Tue Feb 14 2012,Cardiff,3-1,3-0,Peterboro
+Tue Feb 14 2012,Coventry,2-1,1-1,Leeds
+Tue Feb 14 2012,Derby,0-1,0-0,Reading
+Tue Feb 14 2012,Doncaster,1-3,1-2,Blackpool
+Tue Feb 14 2012,Middlesbrough,2-1,1-0,Nott'm Forest
+Tue Feb 14 2012,Portsmouth,0-1,0-1,Ipswich
+Tue Feb 14 2012,Watford,3-2,2-2,Leicester
+Tue Feb 14 2012,West Ham,1-1,1-0,Southampton
+Fri Feb 17 2012,Reading,1-0,1-0,Burnley
+Sat Feb 18 2012,Barnsley,2-0,0-0,Portsmouth
+Sat Feb 18 2012,Crystal Palace,4-0,2-0,Watford
+Sat Feb 18 2012,Ipswich,3-0,1-0,Cardiff
+Sat Feb 18 2012,Leeds,3-2,0-1,Doncaster
+Sat Feb 18 2012,Nott'm Forest,2-0,0-0,Coventry
+Sat Feb 18 2012,Peterboro,3-0,1-0,Bristol City
+Sat Feb 18 2012,Southampton,4-0,1-0,Derby
+Tue Feb 21 2012,Barnsley,1-3,1-2,Birmingham
+Tue Feb 21 2012,Blackpool,1-4,1-2,West Ham
+Tue Feb 21 2012,Millwall,1-3,1-2,Middlesbrough
+Wed Feb 22 2012,Hull,0-0,0-0,Brighton
+Thu Feb 23 2012,Derby,0-1,0-1,Leicester
+Sat Feb 25 2012,Birmingham,1-2,0-1,Nott'm Forest
+Sat Feb 25 2012,Brighton,3-0,1-0,Ipswich
+Sat Feb 25 2012,Bristol City,1-3,1-0,Blackpool
+Sat Feb 25 2012,Burnley,1-3,0-2,Millwall
+Sat Feb 25 2012,Coventry,1-0,0-0,Barnsley
+Sat Feb 25 2012,Doncaster,1-1,1-0,Peterboro
+Sat Feb 25 2012,Middlesbrough,0-2,0-1,Reading
+Sat Feb 25 2012,Portsmouth,0-0,0-0,Leeds
+Sat Feb 25 2012,Watford,0-3,0-2,Southampton
+Sat Feb 25 2012,West Ham,0-0,0-0,Crystal Palace
+Fri Mar 2 2012,Blackpool,1-1,1-0,Hull
+Sat Mar 3 2012,Barnsley,1-1,0-1,Nott'm Forest
+Sat Mar 3 2012,Birmingham,2-2,1-0,Derby
+Sat Mar 3 2012,Crystal Palace,1-0,0-0,Peterboro
+Sat Mar 3 2012,Doncaster,1-1,0-1,Brighton
+Sat Mar 3 2012,Ipswich,3-0,1-0,Bristol City
+Sat Mar 3 2012,Leeds,0-1,0-1,Southampton
+Sat Mar 3 2012,Leicester,2-0,1-0,Coventry
+Sat Mar 3 2012,Millwall,1-2,1-1,Reading
+Sat Mar 3 2012,Portsmouth,1-3,0-0,Middlesbrough
+Sat Mar 3 2012,Watford,3-2,0-1,Burnley
+Sun Mar 4 2012,Cardiff,0-2,0-1,West Ham
+Tue Mar 6 2012,Bristol City,3-2,1-1,Leicester
+Tue Mar 6 2012,Coventry,1-1,0-1,Crystal Palace
+Tue Mar 6 2012,Derby,2-1,0-1,Blackpool
+Tue Mar 6 2012,Hull,0-0,0-0,Leeds
+Tue Mar 6 2012,Middlesbrough,2-0,0-0,Barnsley
+Tue Mar 6 2012,Nott'm Forest,1-2,0-1,Doncaster
+Tue Mar 6 2012,Peterboro,0-3,0-1,Millwall
+Tue Mar 6 2012,Reading,1-0,1-0,Portsmouth
+Tue Mar 6 2012,Southampton,1-1,0-0,Ipswich
+Wed Mar 7 2012,Brighton,2-2,0-0,Cardiff
+Wed Mar 7 2012,West Ham,1-1,0-0,Watford
+Sat Mar 10 2012,Brighton,2-0,0-0,Portsmouth
+Sat Mar 10 2012,Bristol City,1-2,0-1,Cardiff
+Sat Mar 10 2012,Burnley,1-1,1-0,Crystal Palace
+Sat Mar 10 2012,Coventry,1-1,0-0,Birmingham
+Sat Mar 10 2012,Derby,1-2,1-2,Watford
+Sat Mar 10 2012,Hull,2-2,1-0,Ipswich
+Sat Mar 10 2012,Nott'm Forest,3-1,2-0,Millwall
+Sat Mar 10 2012,Peterboro,3-1,2-0,Blackpool
+Sat Mar 10 2012,Reading,3-1,1-0,Leicester
+Sat Mar 10 2012,Southampton,2-0,1-0,Barnsley
+Sat Mar 10 2012,West Ham,1-1,1-0,Doncaster
+Sun Mar 11 2012,Middlesbrough,0-2,0-2,Leeds
+Tue Mar 13 2012,Cardiff,0-3,0-1,Hull
+Tue Mar 13 2012,Derby,1-0,0-0,Nott'm Forest
+Tue Mar 13 2012,Doncaster,1-1,1-0,Reading
+Tue Mar 13 2012,Leicester,3-1,1-1,Birmingham
+Sat Mar 17 2012,Barnsley,0-4,0-0,Reading
+Sat Mar 17 2012,Birmingham,3-0,1-0,Middlesbrough
+Sat Mar 17 2012,Blackpool,3-1,2-1,Brighton
+Sat Mar 17 2012,Crystal Palace,0-0,0-0,Hull
+Sat Mar 17 2012,Doncaster,1-2,0-1,Derby
+Sat Mar 17 2012,Ipswich,3-2,1-1,Peterboro
+Sat Mar 17 2012,Leeds,1-1,0-0,West Ham
+Sat Mar 17 2012,Millwall,2-3,2-1,Southampton
+Sat Mar 17 2012,Portsmouth,0-0,0-0,Bristol City
+Sat Mar 17 2012,Watford,0-0,0-0,Coventry
+Sun Mar 18 2012,Cardiff,0-0,0-0,Burnley
+Tue Mar 20 2012,Brighton,2-0,1-0,Derby
+Tue Mar 20 2012,Bristol City,0-2,0-2,Watford
+Tue Mar 20 2012,Crystal Palace,1-0,0-0,Barnsley
+Tue Mar 20 2012,Doncaster,0-3,0-2,Millwall
+Tue Mar 20 2012,Hull,0-2,0-1,Southampton
+Tue Mar 20 2012,Leeds,3-7,1-2,Nott'm Forest
+Tue Mar 20 2012,Peterboro,3-1,2-1,Reading
+Tue Mar 20 2012,Portsmouth,4-1,0-1,Birmingham
+Tue Mar 20 2012,West Ham,1-1,0-0,Middlesbrough
+Wed Mar 21 2012,Blackpool,3-3,1-1,Leicester
+Wed Mar 21 2012,Cardiff,2-2,1-0,Coventry
+Wed Mar 21 2012,Ipswich,1-0,0-0,Burnley
+Sat Mar 24 2012,Barnsley,1-0,1-0,Peterboro
+Sat Mar 24 2012,Burnley,2-2,2-0,West Ham
+Sat Mar 24 2012,Coventry,2-0,0-0,Portsmouth
+Sat Mar 24 2012,Derby,3-2,2-0,Crystal Palace
+Sat Mar 24 2012,Leicester,2-1,2-1,Hull
+Sat Mar 24 2012,Middlesbrough,1-1,0-1,Bristol City
+Sat Mar 24 2012,Millwall,0-1,0-0,Leeds
+Sat Mar 24 2012,Nott'm Forest,1-1,0-0,Brighton
+Sat Mar 24 2012,Reading,3-1,2-1,Blackpool
+Sat Mar 24 2012,Southampton,2-0,0-0,Doncaster
+Sat Mar 24 2012,Watford,2-1,0-1,Ipswich
+Sun Mar 25 2012,Birmingham,1-1,0-0,Cardiff
+Tue Mar 27 2012,Crystal Palace,1-1,0-0,Doncaster
+Tue Mar 27 2012,Ipswich,1-1,0-0,Middlesbrough
+Tue Mar 27 2012,Leicester,0-0,0-0,Nott'm Forest
+Tue Mar 27 2012,Peterboro,0-2,0-0,West Ham
+Tue Mar 27 2012,Portsmouth,2-0,2-0,Hull
+Fri Mar 30 2012,Doncaster,1-3,1-1,Birmingham
+Sat Mar 31 2012,Blackpool,3-0,2-0,Southampton
+Sat Mar 31 2012,Brighton,1-1,0-0,Middlesbrough
+Sat Mar 31 2012,Bristol City,1-1,0-1,Derby
+Sat Mar 31 2012,Cardiff,0-0,0-0,Millwall
+Sat Mar 31 2012,Crystal Palace,0-3,0-0,Nott'm Forest
+Sat Mar 31 2012,Hull,0-2,0-1,Coventry
+Sat Mar 31 2012,Ipswich,1-0,0-0,Barnsley
+Sat Mar 31 2012,Leeds,0-2,0-1,Watford
+Sat Mar 31 2012,Peterboro,1-0,0-0,Leicester
+Sat Mar 31 2012,Portsmouth,1-5,1-1,Burnley
+Sat Mar 31 2012,West Ham,2-4,1-2,Reading
+Tue Apr 3 2012,Burnley,1-3,0-1,Birmingham
+Fri Apr 6 2012,Barnsley,0-4,0-3,West Ham
+Fri Apr 6 2012,Burnley,1-0,1-0,Brighton
+Fri Apr 6 2012,Reading,2-0,0-0,Leeds
+Fri Apr 6 2012,Watford,0-2,0-1,Blackpool
+Sat Apr 7 2012,Birmingham,3-1,3-1,Crystal Palace
+Sat Apr 7 2012,Coventry,2-2,2-1,Peterboro
+Sat Apr 7 2012,Derby,0-0,0-0,Ipswich
+Sat Apr 7 2012,Leicester,4-0,1-0,Doncaster
+Sat Apr 7 2012,Middlesbrough,0-2,0-2,Cardiff
+Sat Apr 7 2012,Millwall,2-0,1-0,Hull
+Sat Apr 7 2012,Nott'm Forest,0-1,0-0,Bristol City
+Sat Apr 7 2012,Southampton,2-2,1-1,Portsmouth
+Mon Apr 9 2012,Blackpool,1-1,0-0,Barnsley
+Mon Apr 9 2012,Bristol City,3-1,0-1,Coventry
+Mon Apr 9 2012,Cardiff,1-1,1-0,Watford
+Mon Apr 9 2012,Crystal Palace,0-2,0-1,Southampton
+Mon Apr 9 2012,Doncaster,1-2,0-1,Burnley
+Mon Apr 9 2012,Hull,2-1,0-1,Middlesbrough
+Mon Apr 9 2012,Ipswich,1-2,1-1,Leicester
+Mon Apr 9 2012,Leeds,0-2,0-1,Derby
+Mon Apr 9 2012,Peterboro,0-1,0-1,Nott'm Forest
+Mon Apr 9 2012,West Ham,3-3,1-3,Birmingham
+Tue Apr 10 2012,Brighton,0-1,0-1,Reading
+Tue Apr 10 2012,Portsmouth,0-1,0-1,Millwall
+Fri Apr 13 2012,Southampton,1-3,0-1,Reading
+Sat Apr 14 2012,Barnsley,0-1,0-0,Cardiff
+Sat Apr 14 2012,Birmingham,2-2,1-2,Bristol City
+Sat Apr 14 2012,Burnley,1-1,1-0,Coventry
+Sat Apr 14 2012,Crystal Palace,1-1,1-0,Ipswich
+Sat Apr 14 2012,Derby,0-1,0-0,Middlesbrough
+Sat Apr 14 2012,Doncaster,3-4,2-0,Portsmouth
+Sat Apr 14 2012,Leeds,4-1,1-1,Peterboro
+Sat Apr 14 2012,Millwall,2-1,1-0,Leicester
+Sat Apr 14 2012,Nott'm Forest,0-0,0-0,Blackpool
+Sat Apr 14 2012,Watford,1-1,1-1,Hull
+Sat Apr 14 2012,West Ham,6-0,3-0,Brighton
+Tue Apr 17 2012,Blackpool,1-0,0-0,Leeds
+Tue Apr 17 2012,Brighton,2-2,0-2,Watford
+Tue Apr 17 2012,Bristol City,1-1,1-1,West Ham
+Tue Apr 17 2012,Cardiff,2-0,1-0,Derby
+Tue Apr 17 2012,Coventry,0-1,0-0,Millwall
+Tue Apr 17 2012,Hull,3-1,2-0,Barnsley
+Tue Apr 17 2012,Ipswich,1-1,0-1,Birmingham
+Tue Apr 17 2012,Leicester,0-0,0-0,Burnley
+Tue Apr 17 2012,Middlesbrough,0-0,0-0,Doncaster
+Tue Apr 17 2012,Peterboro,1-3,0-2,Southampton
+Tue Apr 17 2012,Portsmouth,2-1,1-0,Crystal Palace
+Tue Apr 17 2012,Reading,1-0,0-0,Nott'm Forest
+Sat Apr 21 2012,Blackpool,4-0,1-0,Burnley
+Sat Apr 21 2012,Brighton,1-1,0-0,Birmingham
+Sat Apr 21 2012,Bristol City,2-0,1-0,Barnsley
+Sat Apr 21 2012,Cardiff,1-1,1-0,Leeds
+Sat Apr 21 2012,Coventry,0-2,0-0,Doncaster
+Sat Apr 21 2012,Hull,2-1,0-0,Nott'm Forest
+Sat Apr 21 2012,Ipswich,0-3,0-1,Millwall
+Sat Apr 21 2012,Middlesbrough,2-1,1-1,Southampton
+Sat Apr 21 2012,Peterboro,2-2,1-1,Watford
+Sat Apr 21 2012,Portsmouth,1-2,0-1,Derby
+Sat Apr 21 2012,Reading,2-2,1-1,Crystal Palace
+Mon Apr 23 2012,Leicester,1-2,1-1,West Ham
+Sat Apr 28 2012,Barnsley,0-0,0-0,Brighton
+Sat Apr 28 2012,Birmingham,2-0,1-0,Reading
+Sat Apr 28 2012,Burnley,1-1,0-0,Bristol City
+Sat Apr 28 2012,Crystal Palace,1-2,1-0,Cardiff
+Sat Apr 28 2012,Derby,1-1,1-0,Peterboro
+Sat Apr 28 2012,Doncaster,2-3,1-2,Ipswich
+Sat Apr 28 2012,Leeds,1-2,0-1,Leicester
+Sat Apr 28 2012,Millwall,2-2,1-1,Blackpool
+Sat Apr 28 2012,Nott'm Forest,2-0,0-0,Portsmouth
+Sat Apr 28 2012,Southampton,4-0,2-0,Coventry
+Sat Apr 28 2012,Watford,2-1,0-0,Middlesbrough
+Sat Apr 28 2012,West Ham,2-1,1-0,Hull

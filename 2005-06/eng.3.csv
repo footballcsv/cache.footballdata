@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 6 2005,Barnsley,2-0,1-0,Swindon
+Sat Aug 6 2005,Blackpool,1-3,1-2,Chesterfield
+Sat Aug 6 2005,Brentford,2-0,0-0,Scunthorpe
+Sat Aug 6 2005,Bristol City,0-0,0-0,Doncaster
+Sat Aug 6 2005,Gillingham,2-1,0-0,Colchester
+Sat Aug 6 2005,Hartlepool,0-2,0-1,Bradford
+Sat Aug 6 2005,Milton Keynes Dons,2-2,1-0,Bournemouth
+Sat Aug 6 2005,Nott'm Forest,2-1,1-0,Huddersfield
+Sat Aug 6 2005,Oldham,2-0,2-0,Yeovil
+Sat Aug 6 2005,Rotherham,1-2,1-1,Walsall
+Sat Aug 6 2005,Southend,1-2,0-2,Port Vale
+Sat Aug 6 2005,Swansea,1-0,1-0,Tranmere
+Tue Aug 9 2005,Bournemouth,1-1,0-0,Hartlepool
+Tue Aug 9 2005,Bradford,0-2,0-1,Southend
+Tue Aug 9 2005,Colchester,1-2,0-1,Swansea
+Tue Aug 9 2005,Doncaster,1-1,0-0,Milton Keynes Dons
+Tue Aug 9 2005,Huddersfield,1-0,0-0,Bristol City
+Tue Aug 9 2005,Port Vale,0-0,0-0,Gillingham
+Tue Aug 9 2005,Scunthorpe,2-1,1-1,Barnsley
+Tue Aug 9 2005,Swindon,2-3,0-2,Oldham
+Tue Aug 9 2005,Tranmere,2-2,2-1,Blackpool
+Tue Aug 9 2005,Walsall,3-2,0-1,Nott'm Forest
+Tue Aug 9 2005,Yeovil,0-0,0-0,Rotherham
+Wed Aug 10 2005,Chesterfield,1-3,1-1,Brentford
+Fri Aug 12 2005,Tranmere,4-0,1-0,Oldham
+Sat Aug 13 2005,Bournemouth,2-0,1-0,Bristol City
+Sat Aug 13 2005,Bradford,2-0,1-0,Milton Keynes Dons
+Sat Aug 13 2005,Chesterfield,0-1,0-0,Rotherham
+Sat Aug 13 2005,Colchester,1-0,0-0,Barnsley
+Sat Aug 13 2005,Doncaster,0-1,0-1,Hartlepool
+Sat Aug 13 2005,Huddersfield,3-1,2-1,Swansea
+Sat Aug 13 2005,Scunthorpe,1-1,0-0,Gillingham
+Sat Aug 13 2005,Swindon,2-1,1-1,Nott'm Forest
+Sat Aug 13 2005,Walsall,2-2,0-0,Southend
+Sat Aug 13 2005,Yeovil,1-1,1-1,Blackpool
+Mon Aug 15 2005,Port Vale,1-0,0-0,Brentford
+Sat Aug 20 2005,Barnsley,1-0,0-0,Yeovil
+Sat Aug 20 2005,Blackpool,0-0,0-0,Swindon
+Sat Aug 20 2005,Brentford,2-0,1-0,Tranmere
+Sat Aug 20 2005,Bristol City,4-2,4-2,Port Vale
+Sat Aug 20 2005,Gillingham,1-0,1-0,Bournemouth
+Sat Aug 20 2005,Hartlepool,1-1,0-1,Walsall
+Sat Aug 20 2005,Milton Keynes Dons,1-1,1-0,Colchester
+Sat Aug 20 2005,Nott'm Forest,0-1,0-0,Scunthorpe
+Sat Aug 20 2005,Oldham,4-1,2-0,Chesterfield
+Sat Aug 20 2005,Rotherham,1-1,0-0,Bradford
+Sat Aug 20 2005,Southend,1-1,1-1,Huddersfield
+Sat Aug 20 2005,Swansea,1-2,1-0,Doncaster
+Fri Aug 26 2005,Scunthorpe,1-0,1-0,Southend
+Sat Aug 27 2005,Barnsley,1-1,1-1,Brentford
+Sat Aug 27 2005,Bradford,1-2,1-0,Bournemouth
+Sat Aug 27 2005,Bristol City,2-2,0-2,Milton Keynes Dons
+Sat Aug 27 2005,Chesterfield,0-2,0-0,Tranmere
+Sat Aug 27 2005,Colchester,0-0,0-0,Oldham
+Sat Aug 27 2005,Gillingham,1-3,0-2,Nott'm Forest
+Sat Aug 27 2005,Huddersfield,2-1,2-0,Hartlepool
+Sat Aug 27 2005,Port Vale,2-0,1-0,Doncaster
+Sat Aug 27 2005,Rotherham,4-0,1-0,Blackpool
+Sat Aug 27 2005,Swindon,4-2,1-1,Yeovil
+Sat Aug 27 2005,Walsall,2-5,1-1,Swansea
+Mon Aug 29 2005,Blackpool,1-0,0-0,Bradford
+Mon Aug 29 2005,Bournemouth,0-0,0-0,Walsall
+Mon Aug 29 2005,Brentford,1-1,0-1,Gillingham
+Mon Aug 29 2005,Doncaster,1-2,0-2,Huddersfield
+Mon Aug 29 2005,Hartlepool,3-3,1-1,Scunthorpe
+Mon Aug 29 2005,Milton Keynes Dons,0-0,0-0,Port Vale
+Mon Aug 29 2005,Oldham,0-1,0-0,Rotherham
+Mon Aug 29 2005,Southend,3-1,2-1,Colchester
+Mon Aug 29 2005,Swansea,3-1,1-1,Barnsley
+Mon Aug 29 2005,Tranmere,1-0,0-0,Swindon
+Mon Aug 29 2005,Yeovil,1-3,1-1,Chesterfield
+Fri Sep 2 2005,Bournemouth,0-0,0-0,Tranmere
+Fri Sep 2 2005,Bradford,2-0,0-0,Chesterfield
+Fri Sep 2 2005,Doncaster,0-1,0-0,Blackpool
+Fri Sep 2 2005,Huddersfield,1-4,0-2,Scunthorpe
+Sat Sep 3 2005,Bristol City,0-0,0-0,Colchester
+Sat Sep 3 2005,Hartlepool,0-1,0-0,Yeovil
+Sat Sep 3 2005,Nott'm Forest,1-2,0-1,Brentford
+Sat Sep 3 2005,Port Vale,2-0,1-0,Rotherham
+Sat Sep 3 2005,Walsall,1-0,0-0,Swindon
+Sun Sep 4 2005,Southend,2-1,2-0,Oldham
+Fri Sep 9 2005,Tranmere,2-2,1-2,Bradford
+Sat Sep 10 2005,Barnsley,2-0,2-0,Nott'm Forest
+Sat Sep 10 2005,Blackpool,1-2,0-0,Hartlepool
+Sat Sep 10 2005,Brentford,1-0,0-0,Milton Keynes Dons
+Sat Sep 10 2005,Chesterfield,3-0,1-0,Bournemouth
+Sat Sep 10 2005,Colchester,3-2,3-1,Doncaster
+Sat Sep 10 2005,Oldham,0-3,0-2,Huddersfield
+Sat Sep 10 2005,Rotherham,3-0,0-0,Gillingham
+Sat Sep 10 2005,Scunthorpe,2-0,2-0,Port Vale
+Sat Sep 10 2005,Swansea,7-1,1-0,Bristol City
+Sat Sep 10 2005,Swindon,1-2,0-1,Southend
+Sat Sep 10 2005,Yeovil,2-1,0-1,Walsall
+Tue Sep 13 2005,Gillingham,0-3,0-2,Barnsley
+Tue Sep 13 2005,Milton Keynes Dons,1-3,1-1,Swansea
+Sat Sep 17 2005,Bournemouth,2-1,1-1,Swindon
+Sat Sep 17 2005,Bradford,1-1,0-1,Yeovil
+Sat Sep 17 2005,Bristol City,1-1,0-0,Blackpool
+Sat Sep 17 2005,Doncaster,3-1,2-0,Scunthorpe
+Sat Sep 17 2005,Gillingham,0-1,0-1,Oldham
+Sat Sep 17 2005,Hartlepool,2-2,1-0,Swansea
+Sat Sep 17 2005,Huddersfield,3-2,1-1,Brentford
+Sat Sep 17 2005,Milton Keynes Dons,0-0,0-0,Barnsley
+Sat Sep 17 2005,Nott'm Forest,2-0,0-0,Rotherham
+Sat Sep 17 2005,Port Vale,0-1,0-1,Colchester
+Sat Sep 17 2005,Southend,3-1,2-0,Tranmere
+Sat Sep 17 2005,Walsall,2-3,2-0,Chesterfield
+Tue Sep 20 2005,Nott'm Forest,3-1,2-1,Bristol City
+Sat Sep 24 2005,Barnsley,0-2,0-1,Doncaster
+Sat Sep 24 2005,Blackpool,3-2,1-2,Milton Keynes Dons
+Sat Sep 24 2005,Brentford,2-3,0-2,Bristol City
+Sat Sep 24 2005,Chesterfield,3-1,0-1,Hartlepool
+Sat Sep 24 2005,Colchester,1-1,0-0,Huddersfield
+Sat Sep 24 2005,Oldham,1-0,0-0,Bournemouth
+Sat Sep 24 2005,Rotherham,2-4,2-2,Southend
+Sat Sep 24 2005,Scunthorpe,1-3,0-1,Walsall
+Sat Sep 24 2005,Swansea,1-1,0-0,Nott'm Forest
+Sat Sep 24 2005,Swindon,2-3,1-1,Bradford
+Sat Sep 24 2005,Tranmere,2-2,1-1,Gillingham
+Sat Sep 24 2005,Yeovil,1-0,0-0,Port Vale
+Tue Sep 27 2005,Bournemouth,0-1,0-1,Swansea
+Tue Sep 27 2005,Bradford,1-1,0-0,Colchester
+Tue Sep 27 2005,Bristol City,3-0,3-0,Barnsley
+Tue Sep 27 2005,Doncaster,1-0,1-0,Swindon
+Tue Sep 27 2005,Gillingham,1-0,0-0,Chesterfield
+Tue Sep 27 2005,Hartlepool,0-0,0-0,Rotherham
+Tue Sep 27 2005,Huddersfield,1-0,0-0,Tranmere
+Tue Sep 27 2005,Milton Keynes Dons,1-0,1-0,Scunthorpe
+Tue Sep 27 2005,Nott'm Forest,1-1,0-1,Blackpool
+Tue Sep 27 2005,Southend,4-1,0-1,Yeovil
+Tue Sep 27 2005,Walsall,0-0,0-0,Brentford
+Wed Sep 28 2005,Port Vale,2-2,0-1,Oldham
+Sat Oct 1 2005,Barnsley,4-0,3-0,Oldham
+Sat Oct 1 2005,Brentford,2-1,2-1,Rotherham
+Sat Oct 1 2005,Bristol City,0-1,0-0,Hartlepool
+Sat Oct 1 2005,Colchester,1-2,0-1,Chesterfield
+Sat Oct 1 2005,Doncaster,2-2,0-1,Bradford
+Sat Oct 1 2005,Gillingham,1-2,0-0,Southend
+Sat Oct 1 2005,Huddersfield,2-2,2-0,Bournemouth
+Sat Oct 1 2005,Milton Keynes Dons,3-1,0-1,Swindon
+Sat Oct 1 2005,Nott'm Forest,1-0,0-0,Tranmere
+Sat Oct 1 2005,Port Vale,3-2,1-2,Walsall
+Sat Oct 1 2005,Scunthorpe,3-4,2-2,Yeovil
+Sat Oct 1 2005,Swansea,3-2,2-1,Blackpool
+Fri Oct 7 2005,Bournemouth,2-1,0-1,Doncaster
+Fri Oct 7 2005,Tranmere,0-2,0-2,Scunthorpe
+Sat Oct 8 2005,Swindon,1-2,1-1,Port Vale
+Sat Oct 8 2005,Walsall,1-1,0-0,Milton Keynes Dons
+Sat Oct 8 2005,Yeovil,1-0,1-0,Swansea
+Sun Oct 9 2005,Blackpool,1-2,0-1,Colchester
+Sun Oct 9 2005,Oldham,0-1,0-0,Brentford
+Sun Oct 9 2005,Southend,1-0,0-0,Nott'm Forest
+Mon Oct 10 2005,Bradford,1-2,1-1,Huddersfield
+Sat Oct 15 2005,Barnsley,2-2,0-1,Blackpool
+Sat Oct 15 2005,Brentford,0-0,0-0,Swindon
+Sat Oct 15 2005,Bristol City,1-0,0-0,Tranmere
+Sat Oct 15 2005,Colchester,0-1,0-0,Bournemouth
+Sat Oct 15 2005,Doncaster,2-0,0-0,Southend
+Sat Oct 15 2005,Gillingham,0-0,0-0,Yeovil
+Sat Oct 15 2005,Huddersfield,3-1,2-1,Walsall
+Sat Oct 15 2005,Milton Keynes Dons,0-0,0-0,Chesterfield
+Sat Oct 15 2005,Nott'm Forest,2-0,1-0,Hartlepool
+Sat Oct 15 2005,Port Vale,0-1,0-0,Bradford
+Sat Oct 15 2005,Scunthorpe,2-2,1-2,Rotherham
+Sat Oct 15 2005,Swansea,0-0,0-0,Oldham
+Sat Oct 22 2005,Blackpool,0-0,0-0,Brentford
+Sat Oct 22 2005,Bournemouth,1-2,1-0,Port Vale
+Sat Oct 22 2005,Bradford,1-0,0-0,Gillingham
+Sat Oct 22 2005,Chesterfield,4-3,3-0,Huddersfield
+Sat Oct 22 2005,Hartlepool,2-1,0-1,Milton Keynes Dons
+Sat Oct 22 2005,Oldham,4-3,2-0,Bristol City
+Sat Oct 22 2005,Rotherham,2-2,1-1,Swansea
+Sat Oct 22 2005,Southend,1-1,0-0,Barnsley
+Sat Oct 22 2005,Swindon,1-1,0-1,Scunthorpe
+Sat Oct 22 2005,Tranmere,0-0,0-0,Colchester
+Sat Oct 22 2005,Walsall,1-0,0-0,Doncaster
+Sat Oct 22 2005,Yeovil,3-0,2-0,Nott'm Forest
+Tue Oct 25 2005,Rotherham,0-1,0-0,Barnsley
+Wed Oct 26 2005,Chesterfield,3-0,0-0,Bristol City
+Sat Oct 29 2005,Barnsley,2-1,1-0,Walsall
+Sat Oct 29 2005,Brentford,0-2,0-2,Bournemouth
+Sat Oct 29 2005,Bristol City,0-3,0-1,Southend
+Sat Oct 29 2005,Colchester,3-2,1-1,Yeovil
+Sat Oct 29 2005,Doncaster,0-2,0-0,Tranmere
+Sat Oct 29 2005,Gillingham,2-1,0-1,Blackpool
+Sat Oct 29 2005,Huddersfield,1-1,0-1,Swindon
+Sat Oct 29 2005,Milton Keynes Dons,1-1,0-1,Rotherham
+Sat Oct 29 2005,Nott'm Forest,1-0,1-0,Bradford
+Sat Oct 29 2005,Port Vale,1-2,1-1,Hartlepool
+Sat Oct 29 2005,Scunthorpe,4-2,2-2,Oldham
+Sat Oct 29 2005,Swansea,5-1,4-1,Chesterfield
+Tue Nov 1 2005,Hartlepool,3-1,1-0,Gillingham
+Fri Nov 11 2005,Swindon,2-1,2-1,Bristol City
+Sat Nov 12 2005,Bournemouth,1-1,0-1,Nott'm Forest
+Sat Nov 12 2005,Bradford,0-0,0-0,Barnsley
+Sat Nov 12 2005,Chesterfield,2-0,1-0,Port Vale
+Sat Nov 12 2005,Hartlepool,1-2,0-1,Brentford
+Sat Nov 12 2005,Rotherham,1-2,1-0,Colchester
+Sat Nov 12 2005,Southend,1-2,0-1,Swansea
+Sat Nov 12 2005,Tranmere,1-2,1-0,Milton Keynes Dons
+Sat Nov 12 2005,Walsall,2-0,1-0,Gillingham
+Sat Nov 12 2005,Yeovil,1-2,0-2,Huddersfield
+Sun Nov 13 2005,Blackpool,5-2,3-2,Scunthorpe
+Sun Nov 13 2005,Oldham,0-1,0-0,Doncaster
+Fri Nov 18 2005,Swansea,2-0,1-0,Yeovil
+Sat Nov 19 2005,Barnsley,1-1,0-1,Rotherham
+Sat Nov 19 2005,Brentford,3-3,2-3,Oldham
+Sat Nov 19 2005,Bristol City,2-4,1-3,Chesterfield
+Sat Nov 19 2005,Colchester,3-2,1-0,Blackpool
+Sat Nov 19 2005,Doncaster,4-2,1-0,Bournemouth
+Sat Nov 19 2005,Gillingham,1-0,1-0,Hartlepool
+Sat Nov 19 2005,Huddersfield,0-0,0-0,Bradford
+Sat Nov 19 2005,Milton Keynes Dons,2-1,1-1,Walsall
+Sat Nov 19 2005,Nott'm Forest,2-0,0-0,Southend
+Sat Nov 19 2005,Port Vale,1-1,0-0,Swindon
+Sat Nov 19 2005,Scunthorpe,1-2,0-0,Tranmere
+Sat Nov 26 2005,Bournemouth,2-0,1-0,Milton Keynes Dons
+Sat Nov 26 2005,Bradford,0-1,0-1,Hartlepool
+Sat Nov 26 2005,Chesterfield,1-1,1-0,Blackpool
+Sat Nov 26 2005,Colchester,5-0,1-0,Gillingham
+Sat Nov 26 2005,Doncaster,2-0,1-0,Bristol City
+Sat Nov 26 2005,Huddersfield,2-1,2-0,Nott'm Forest
+Sat Nov 26 2005,Port Vale,2-1,1-0,Southend
+Sat Nov 26 2005,Scunthorpe,1-3,1-2,Brentford
+Sat Nov 26 2005,Swindon,0-3,0-1,Barnsley
+Sat Nov 26 2005,Tranmere,2-2,2-1,Swansea
+Sat Nov 26 2005,Walsall,3-1,2-0,Rotherham
+Sat Nov 26 2005,Yeovil,0-2,0-1,Oldham
+Sat Dec 3 2005,Rotherham,0-1,0-1,Swindon
+Tue Dec 6 2005,Barnsley,2-1,0-0,Tranmere
+Tue Dec 6 2005,Blackpool,1-3,1-2,Bournemouth
+Tue Dec 6 2005,Brentford,3-2,2-1,Yeovil
+Tue Dec 6 2005,Bristol City,0-1,0-0,Bradford
+Tue Dec 6 2005,Gillingham,1-0,1-0,Doncaster
+Tue Dec 6 2005,Hartlepool,0-1,0-0,Colchester
+Tue Dec 6 2005,Milton Keynes Dons,2-2,0-1,Huddersfield
+Tue Dec 6 2005,Nott'm Forest,1-0,1-0,Port Vale
+Tue Dec 6 2005,Oldham,2-1,1-0,Walsall
+Tue Dec 6 2005,Southend,0-0,0-0,Chesterfield
+Tue Dec 6 2005,Swansea,2-0,0-0,Scunthorpe
+Sat Dec 10 2005,Barnsley,5-2,3-0,Scunthorpe
+Sat Dec 10 2005,Blackpool,1-1,0-0,Tranmere
+Sat Dec 10 2005,Brentford,1-1,0-1,Chesterfield
+Sat Dec 10 2005,Bristol City,2-0,1-0,Huddersfield
+Sat Dec 10 2005,Gillingham,3-0,1-0,Port Vale
+Sat Dec 10 2005,Hartlepool,2-1,2-0,Bournemouth
+Sat Dec 10 2005,Milton Keynes Dons,2-3,0-2,Doncaster
+Sat Dec 10 2005,Nott'm Forest,1-1,1-1,Walsall
+Sat Dec 10 2005,Oldham,2-2,0-1,Swindon
+Sat Dec 10 2005,Rotherham,1-2,1-2,Yeovil
+Sat Dec 10 2005,Southend,1-1,1-1,Bradford
+Sat Dec 10 2005,Swansea,1-1,1-1,Colchester
+Fri Dec 16 2005,Scunthorpe,3-1,1-0,Nott'm Forest
+Sat Dec 17 2005,Bournemouth,2-1,0-0,Gillingham
+Sat Dec 17 2005,Bradford,1-2,0-1,Rotherham
+Sat Dec 17 2005,Chesterfield,1-1,0-0,Oldham
+Sat Dec 17 2005,Colchester,2-0,1-0,Milton Keynes Dons
+Sat Dec 17 2005,Doncaster,2-1,1-1,Swansea
+Sat Dec 17 2005,Huddersfield,0-0,0-0,Southend
+Sat Dec 17 2005,Port Vale,0-1,0-1,Bristol City
+Sat Dec 17 2005,Swindon,0-0,0-0,Blackpool
+Sat Dec 17 2005,Tranmere,1-4,1-3,Brentford
+Sat Dec 17 2005,Walsall,1-0,0-0,Hartlepool
+Sat Dec 17 2005,Yeovil,2-1,0-1,Barnsley
+Fri Dec 23 2005,Yeovil,1-1,0-1,Bournemouth
+Mon Dec 26 2005,Barnsley,1-1,1-0,Hartlepool
+Mon Dec 26 2005,Brentford,2-1,2-0,Swansea
+Mon Dec 26 2005,Gillingham,1-1,0-1,Bristol City
+Mon Dec 26 2005,Nott'm Forest,4-0,1-0,Doncaster
+Mon Dec 26 2005,Oldham,2-1,2-1,Bradford
+Mon Dec 26 2005,Port Vale,1-2,0-0,Blackpool
+Mon Dec 26 2005,Rotherham,1-1,1-0,Huddersfield
+Mon Dec 26 2005,Scunthorpe,2-2,0-1,Chesterfield
+Mon Dec 26 2005,Southend,0-0,0-0,Milton Keynes Dons
+Mon Dec 26 2005,Swindon,1-0,0-0,Colchester
+Mon Dec 26 2005,Walsall,0-0,0-0,Tranmere
+Wed Dec 28 2005,Bradford,2-0,2-0,Walsall
+Wed Dec 28 2005,Bristol City,3-1,1-1,Rotherham
+Wed Dec 28 2005,Chesterfield,1-1,1-0,Swindon
+Wed Dec 28 2005,Hartlepool,1-2,1-1,Southend
+Wed Dec 28 2005,Huddersfield,0-3,0-0,Port Vale
+Wed Dec 28 2005,Tranmere,4-1,0-1,Yeovil
+Sat Dec 31 2005,Barnsley,2-2,1-0,Huddersfield
+Sat Dec 31 2005,Brentford,0-2,0-1,Colchester
+Sat Dec 31 2005,Gillingham,3-0,2-0,Milton Keynes Dons
+Sat Dec 31 2005,Nott'm Forest,0-0,0-0,Chesterfield
+Sat Dec 31 2005,Oldham,2-1,1-0,Hartlepool
+Sat Dec 31 2005,Port Vale,0-2,0-1,Tranmere
+Sat Dec 31 2005,Rotherham,1-0,0-0,Doncaster
+Sat Dec 31 2005,Scunthorpe,0-0,0-0,Bradford
+Sat Dec 31 2005,Southend,2-1,1-0,Bournemouth
+Sat Dec 31 2005,Swindon,0-0,0-0,Swansea
+Sat Dec 31 2005,Walsall,2-0,0-0,Blackpool
+Sat Dec 31 2005,Yeovil,1-1,1-0,Bristol City
+Mon Jan 2 2006,Blackpool,1-2,0-1,Southend
+Mon Jan 2 2006,Bournemouth,1-1,0-1,Scunthorpe
+Mon Jan 2 2006,Bradford,3-3,1-2,Brentford
+Mon Jan 2 2006,Bristol City,3-0,2-0,Walsall
+Mon Jan 2 2006,Chesterfield,0-0,0-0,Barnsley
+Mon Jan 2 2006,Colchester,3-1,0-0,Nott'm Forest
+Mon Jan 2 2006,Doncaster,0-1,0-1,Yeovil
+Mon Jan 2 2006,Hartlepool,1-1,1-0,Swindon
+Mon Jan 2 2006,Huddersfield,0-0,0-0,Gillingham
+Mon Jan 2 2006,Milton Keynes Dons,0-1,0-1,Oldham
+Mon Jan 2 2006,Swansea,0-0,0-0,Port Vale
+Mon Jan 2 2006,Tranmere,3-2,1-1,Rotherham
+Sat Jan 7 2006,Chesterfield,1-0,0-0,Bradford
+Sat Jan 7 2006,Oldham,0-0,0-0,Southend
+Sat Jan 7 2006,Tranmere,0-0,0-0,Bournemouth
+Sat Jan 7 2006,Yeovil,2-0,1-0,Hartlepool
+Tue Jan 10 2006,Barnsley,1-0,1-0,Gillingham
+Tue Jan 10 2006,Blackpool,1-0,0-0,Oldham
+Tue Jan 10 2006,Rotherham,1-1,1-1,Port Vale
+Tue Jan 10 2006,Scunthorpe,2-2,1-1,Huddersfield
+Tue Jan 10 2006,Swansea,3-1,3-0,Milton Keynes Dons
+Sat Jan 14 2006,Bournemouth,2-0,2-0,Rotherham
+Sat Jan 14 2006,Bradford,1-1,0-1,Swansea
+Sat Jan 14 2006,Bristol City,1-1,0-1,Scunthorpe
+Sat Jan 14 2006,Doncaster,1-1,1-0,Chesterfield
+Sat Jan 14 2006,Gillingham,3-0,1-0,Swindon
+Sat Jan 14 2006,Hartlepool,0-0,0-0,Tranmere
+Sat Jan 14 2006,Huddersfield,2-0,1-0,Blackpool
+Sat Jan 14 2006,Milton Keynes Dons,1-1,0-1,Yeovil
+Sat Jan 14 2006,Nott'm Forest,3-0,1-0,Oldham
+Sat Jan 14 2006,Port Vale,3-2,2-0,Barnsley
+Sat Jan 14 2006,Southend,4-1,2-0,Brentford
+Sat Jan 14 2006,Walsall,0-2,0-0,Colchester
+Tue Jan 17 2006,Brentford,1-1,1-1,Nott'm Forest
+Tue Jan 17 2006,Colchester,3-2,2-1,Bristol City
+Sat Jan 21 2006,Barnsley,2-0,0-0,Milton Keynes Dons
+Sat Jan 21 2006,Blackpool,1-1,1-1,Bristol City
+Sat Jan 21 2006,Brentford,2-0,1-0,Huddersfield
+Sat Jan 21 2006,Chesterfield,2-2,1-1,Walsall
+Sat Jan 21 2006,Colchester,2-1,0-0,Port Vale
+Sat Jan 21 2006,Oldham,2-0,0-0,Gillingham
+Sat Jan 21 2006,Rotherham,1-1,0-1,Nott'm Forest
+Sat Jan 21 2006,Scunthorpe,1-2,0-0,Doncaster
+Sat Jan 21 2006,Swansea,1-1,1-0,Hartlepool
+Sat Jan 21 2006,Swindon,4-2,1-0,Bournemouth
+Sat Jan 21 2006,Tranmere,0-0,0-0,Southend
+Sat Jan 21 2006,Yeovil,0-1,0-0,Bradford
+Tue Jan 24 2006,Blackpool,4-2,3-1,Doncaster
+Fri Jan 27 2006,Nott'm Forest,0-2,0-2,Barnsley
+Fri Jan 27 2006,Southend,2-0,2-0,Swindon
+Sat Jan 28 2006,Bournemouth,1-2,0-1,Chesterfield
+Sat Jan 28 2006,Bradford,0-0,0-0,Tranmere
+Sat Jan 28 2006,Bristol City,1-0,1-0,Swansea
+Sat Jan 28 2006,Gillingham,1-1,0-0,Rotherham
+Sat Jan 28 2006,Hartlepool,0-3,0-1,Blackpool
+Sat Jan 28 2006,Huddersfield,3-2,1-2,Oldham
+Tue Jan 31 2006,Milton Keynes Dons,1-0,1-0,Nott'm Forest
+Tue Jan 31 2006,Swansea,1-2,0-1,Gillingham
+Tue Jan 31 2006,Swindon,1-0,1-0,Walsall
+Fri Feb 3 2006,Swansea,1-0,1-0,Bournemouth
+Fri Feb 3 2006,Tranmere,2-1,1-0,Huddersfield
+Sat Feb 4 2006,Barnsley,2-0,1-0,Bristol City
+Sat Feb 4 2006,Blackpool,2-2,1-1,Nott'm Forest
+Sat Feb 4 2006,Brentford,5-0,2-0,Walsall
+Sat Feb 4 2006,Chesterfield,1-1,0-0,Gillingham
+Sat Feb 4 2006,Colchester,3-1,1-1,Bradford
+Sat Feb 4 2006,Oldham,0-1,0-1,Port Vale
+Sat Feb 4 2006,Rotherham,0-0,0-0,Hartlepool
+Sat Feb 4 2006,Scunthorpe,2-0,2-0,Milton Keynes Dons
+Sat Feb 4 2006,Swindon,2-1,1-0,Doncaster
+Sat Feb 4 2006,Yeovil,0-2,0-1,Southend
+Tue Feb 7 2006,Colchester,1-0,1-0,Scunthorpe
+Fri Feb 10 2006,Hartlepool,1-0,0-0,Chesterfield
+Fri Feb 10 2006,Southend,2-0,2-0,Rotherham
+Sat Feb 11 2006,Bournemouth,0-0,0-0,Oldham
+Sat Feb 11 2006,Bradford,1-1,0-0,Swindon
+Sat Feb 11 2006,Bristol City,0-1,0-0,Brentford
+Sat Feb 11 2006,Doncaster,2-0,1-0,Barnsley
+Sat Feb 11 2006,Gillingham,1-1,0-0,Tranmere
+Sat Feb 11 2006,Huddersfield,2-0,1-0,Colchester
+Sat Feb 11 2006,Milton Keynes Dons,3-0,1-0,Blackpool
+Sat Feb 11 2006,Nott'm Forest,1-2,1-1,Swansea
+Sat Feb 11 2006,Port Vale,1-0,0-0,Yeovil
+Sat Feb 11 2006,Walsall,2-2,1-2,Scunthorpe
+Tue Feb 14 2006,Barnsley,1-1,0-0,Port Vale
+Tue Feb 14 2006,Blackpool,0-1,0-1,Huddersfield
+Tue Feb 14 2006,Brentford,2-0,2-0,Southend
+Tue Feb 14 2006,Colchester,0-0,0-0,Walsall
+Tue Feb 14 2006,Rotherham,2-0,0-0,Bournemouth
+Tue Feb 14 2006,Scunthorpe,0-2,0-1,Bristol City
+Tue Feb 14 2006,Swansea,1-1,1-0,Bradford
+Tue Feb 14 2006,Swindon,1-0,1-0,Gillingham
+Tue Feb 14 2006,Tranmere,0-0,0-0,Hartlepool
+Tue Feb 14 2006,Yeovil,1-1,0-0,Milton Keynes Dons
+Wed Feb 15 2006,Chesterfield,0-1,0-1,Doncaster
+Wed Feb 15 2006,Oldham,3-0,0-0,Nott'm Forest
+Sat Feb 18 2006,Bournemouth,1-1,1-0,Blackpool
+Sat Feb 18 2006,Bradford,1-1,0-1,Bristol City
+Sat Feb 18 2006,Chesterfield,3-4,1-0,Southend
+Sat Feb 18 2006,Doncaster,2-0,2-0,Gillingham
+Sat Feb 18 2006,Huddersfield,5-0,3-0,Milton Keynes Dons
+Sat Feb 18 2006,Port Vale,0-2,0-1,Nott'm Forest
+Sat Feb 18 2006,Scunthorpe,2-2,1-2,Swansea
+Sat Feb 18 2006,Swindon,2-3,2-2,Rotherham
+Sat Feb 18 2006,Tranmere,0-1,0-1,Barnsley
+Sat Feb 18 2006,Walsall,0-2,0-0,Oldham
+Fri Feb 24 2006,Swansea,2-2,2-0,Huddersfield
+Sat Feb 25 2006,Barnsley,1-0,0-0,Colchester
+Sat Feb 25 2006,Blackpool,2-0,0-0,Yeovil
+Sat Feb 25 2006,Brentford,0-1,0-1,Port Vale
+Sat Feb 25 2006,Bristol City,3-1,1-1,Bournemouth
+Sat Feb 25 2006,Gillingham,1-3,1-1,Scunthorpe
+Sat Feb 25 2006,Hartlepool,1-1,1-0,Doncaster
+Sat Feb 25 2006,Milton Keynes Dons,2-1,0-0,Bradford
+Sat Feb 25 2006,Nott'm Forest,7-1,3-0,Swindon
+Sat Feb 25 2006,Oldham,1-0,1-0,Tranmere
+Sat Feb 25 2006,Rotherham,0-4,0-1,Chesterfield
+Sat Feb 25 2006,Southend,0-0,0-0,Walsall
+Tue Feb 28 2006,Bournemouth,1-1,0-1,Barnsley
+Tue Feb 28 2006,Doncaster,0-0,0-0,Brentford
+Tue Feb 28 2006,Port Vale,1-2,1-1,Scunthorpe
+Sat Mar 4 2006,Barnsley,2-2,0-0,Swansea
+Sat Mar 4 2006,Bristol City,1-1,0-0,Nott'm Forest
+Sat Mar 4 2006,Chesterfield,0-3,0-1,Yeovil
+Sat Mar 4 2006,Colchester,0-3,0-3,Southend
+Sat Mar 4 2006,Huddersfield,2-2,2-1,Doncaster
+Tue Mar 7 2006,Swindon,1-2,0-2,Tranmere
+Tue Mar 7 2006,Yeovil,1-2,1-1,Brentford
+Fri Mar 10 2006,Hartlepool,3-1,1-1,Huddersfield
+Fri Mar 10 2006,Milton Keynes Dons,0-1,0-1,Bristol City
+Fri Mar 10 2006,Southend,3-0,1-0,Scunthorpe
+Sat Mar 11 2006,Blackpool,0-0,0-0,Rotherham
+Sat Mar 11 2006,Bournemouth,0-1,0-1,Bradford
+Sat Mar 11 2006,Brentford,3-1,2-0,Barnsley
+Sat Mar 11 2006,Doncaster,1-1,0-0,Port Vale
+Sat Mar 11 2006,Nott'm Forest,1-1,1-1,Gillingham
+Sat Mar 11 2006,Oldham,1-0,0-0,Colchester
+Sat Mar 11 2006,Tranmere,4-1,3-1,Chesterfield
+Sat Mar 11 2006,Yeovil,0-0,0-0,Swindon
+Sun Mar 12 2006,Swansea,1-1,0-1,Walsall
+Tue Mar 14 2006,Rotherham,2-0,1-0,Oldham
+Tue Mar 14 2006,Scunthorpe,2-0,1-0,Hartlepool
+Fri Mar 17 2006,Swansea,2-1,1-1,Brentford
+Fri Mar 17 2006,Tranmere,1-2,0-1,Walsall
+Sat Mar 18 2006,Blackpool,1-0,0-0,Port Vale
+Sat Mar 18 2006,Bournemouth,1-0,1-0,Yeovil
+Sat Mar 18 2006,Bradford,1-4,0-3,Oldham
+Sat Mar 18 2006,Bristol City,6-0,3-0,Gillingham
+Sat Mar 18 2006,Chesterfield,1-2,1-0,Scunthorpe
+Sat Mar 18 2006,Colchester,1-0,1-0,Swindon
+Sat Mar 18 2006,Doncaster,1-2,0-1,Nott'm Forest
+Sat Mar 18 2006,Hartlepool,1-1,1-1,Barnsley
+Sat Mar 18 2006,Huddersfield,4-1,2-1,Rotherham
+Sat Mar 18 2006,Milton Keynes Dons,2-1,1-1,Southend
+Tue Mar 21 2006,Bradford,1-0,0-0,Blackpool
+Tue Mar 21 2006,Doncaster,0-0,0-0,Colchester
+Tue Mar 21 2006,Gillingham,3-2,2-1,Brentford
+Tue Mar 21 2006,Walsall,0-2,0-2,Yeovil
+Sat Mar 25 2006,Barnsley,0-0,0-0,Bournemouth
+Sat Mar 25 2006,Brentford,0-1,0-0,Doncaster
+Sat Mar 25 2006,Gillingham,1-0,0-0,Swansea
+Sat Mar 25 2006,Nott'm Forest,3-0,2-0,Milton Keynes Dons
+Sat Mar 25 2006,Oldham,3-1,1-1,Blackpool
+Sat Mar 25 2006,Port Vale,1-1,0-0,Huddersfield
+Sat Mar 25 2006,Rotherham,3-1,2-0,Bristol City
+Sat Mar 25 2006,Scunthorpe,0-0,0-0,Colchester
+Sat Mar 25 2006,Southend,3-0,1-0,Hartlepool
+Sat Mar 25 2006,Swindon,2-0,0-0,Chesterfield
+Sat Mar 25 2006,Walsall,2-2,2-1,Bradford
+Sat Mar 25 2006,Yeovil,2-2,1-1,Tranmere
+Tue Mar 28 2006,Milton Keynes Dons,0-1,0-1,Brentford
+Fri Mar 31 2006,Hartlepool,1-1,1-1,Oldham
+Fri Mar 31 2006,Tranmere,3-0,1-0,Port Vale
+Sat Apr 1 2006,Blackpool,2-0,0-0,Walsall
+Sat Apr 1 2006,Bournemouth,1-1,0-1,Southend
+Sat Apr 1 2006,Bradford,4-2,1-2,Scunthorpe
+Sat Apr 1 2006,Bristol City,2-1,2-0,Yeovil
+Sat Apr 1 2006,Chesterfield,1-3,1-2,Nott'm Forest
+Sat Apr 1 2006,Colchester,1-1,1-1,Brentford
+Sat Apr 1 2006,Doncaster,3-1,3-1,Rotherham
+Sat Apr 1 2006,Huddersfield,1-0,0-0,Barnsley
+Sat Apr 1 2006,Milton Keynes Dons,1-2,1-0,Gillingham
+Tue Apr 4 2006,Port Vale,3-1,3-1,Milton Keynes Dons
+Sat Apr 8 2006,Barnsley,1-1,1-0,Chesterfield
+Sat Apr 8 2006,Brentford,1-1,1-1,Bradford
+Sat Apr 8 2006,Gillingham,2-0,1-0,Huddersfield
+Sat Apr 8 2006,Nott'm Forest,1-0,0-0,Colchester
+Sat Apr 8 2006,Oldham,1-2,1-2,Milton Keynes Dons
+Sat Apr 8 2006,Port Vale,3-2,1-0,Swansea
+Sat Apr 8 2006,Rotherham,2-0,0-0,Tranmere
+Sat Apr 8 2006,Scunthorpe,2-2,1-1,Bournemouth
+Sat Apr 8 2006,Southend,2-1,0-1,Blackpool
+Sat Apr 8 2006,Swindon,1-1,0-1,Hartlepool
+Sat Apr 8 2006,Walsall,0-3,0-1,Bristol City
+Sat Apr 8 2006,Yeovil,3-0,1-0,Doncaster
+Tue Apr 11 2006,Colchester,2-0,0-0,Hartlepool
+Tue Apr 11 2006,Swansea,2-1,0-0,Swindon
+Tue Apr 11 2006,Walsall,0-1,0-1,Bournemouth
+Fri Apr 14 2006,Southend,0-1,0-0,Gillingham
+Fri Apr 14 2006,Yeovil,0-1,0-0,Scunthorpe
+Sat Apr 15 2006,Blackpool,1-0,0-0,Swansea
+Sat Apr 15 2006,Bournemouth,1-1,1-0,Huddersfield
+Sat Apr 15 2006,Bradford,2-1,2-0,Doncaster
+Sat Apr 15 2006,Chesterfield,2-2,2-1,Colchester
+Sat Apr 15 2006,Hartlepool,1-2,0-2,Bristol City
+Sat Apr 15 2006,Oldham,0-3,0-0,Barnsley
+Sat Apr 15 2006,Rotherham,2-2,1-0,Brentford
+Sat Apr 15 2006,Swindon,0-1,0-0,Milton Keynes Dons
+Sat Apr 15 2006,Tranmere,0-1,0-1,Nott'm Forest
+Sat Apr 15 2006,Walsall,1-1,0-0,Port Vale
+Mon Apr 17 2006,Barnsley,2-2,2-0,Southend
+Mon Apr 17 2006,Brentford,1-1,0-0,Blackpool
+Mon Apr 17 2006,Bristol City,2-1,0-1,Oldham
+Mon Apr 17 2006,Colchester,1-0,0-0,Tranmere
+Mon Apr 17 2006,Doncaster,1-0,1-0,Walsall
+Mon Apr 17 2006,Gillingham,2-1,1-0,Bradford
+Mon Apr 17 2006,Milton Keynes Dons,2-1,1-0,Hartlepool
+Mon Apr 17 2006,Nott'm Forest,2-1,1-1,Yeovil
+Mon Apr 17 2006,Port Vale,0-0,0-0,Bournemouth
+Mon Apr 17 2006,Scunthorpe,1-2,1-2,Swindon
+Mon Apr 17 2006,Swansea,0-2,0-2,Rotherham
+Tue Apr 18 2006,Huddersfield,1-2,1-0,Chesterfield
+Sat Apr 22 2006,Blackpool,1-1,1-0,Barnsley
+Sat Apr 22 2006,Bournemouth,1-2,1-1,Colchester
+Sat Apr 22 2006,Bradford,1-0,1-0,Port Vale
+Sat Apr 22 2006,Chesterfield,1-2,0-1,Milton Keynes Dons
+Sat Apr 22 2006,Hartlepool,3-2,1-1,Nott'm Forest
+Sat Apr 22 2006,Oldham,1-1,0-0,Swansea
+Sat Apr 22 2006,Rotherham,1-1,0-1,Scunthorpe
+Sat Apr 22 2006,Southend,0-1,0-0,Doncaster
+Sat Apr 22 2006,Swindon,1-3,0-2,Brentford
+Sat Apr 22 2006,Tranmere,0-3,0-2,Bristol City
+Sat Apr 22 2006,Walsall,1-3,0-1,Huddersfield
+Sat Apr 22 2006,Yeovil,4-3,2-1,Gillingham
+Sat Apr 29 2006,Barnsley,0-0,0-0,Bradford
+Sat Apr 29 2006,Brentford,1-1,0-0,Hartlepool
+Sat Apr 29 2006,Bristol City,1-1,0-0,Swindon
+Sat Apr 29 2006,Colchester,2-0,1-0,Rotherham
+Sat Apr 29 2006,Doncaster,1-0,0-0,Oldham
+Sat Apr 29 2006,Gillingham,0-1,0-0,Walsall
+Sat Apr 29 2006,Huddersfield,1-2,1-0,Yeovil
+Sat Apr 29 2006,Milton Keynes Dons,1-2,0-0,Tranmere
+Sat Apr 29 2006,Nott'm Forest,1-1,0-0,Bournemouth
+Sat Apr 29 2006,Port Vale,3-1,2-1,Chesterfield
+Sat Apr 29 2006,Scunthorpe,1-0,0-0,Blackpool
+Sat Apr 29 2006,Swansea,2-2,2-1,Southend
+Sat May 6 2006,Blackpool,3-3,1-1,Gillingham
+Sat May 6 2006,Bournemouth,2-2,1-1,Brentford
+Sat May 6 2006,Bradford,1-1,1-0,Nott'm Forest
+Sat May 6 2006,Chesterfield,0-4,0-2,Swansea
+Sat May 6 2006,Hartlepool,1-1,0-0,Port Vale
+Sat May 6 2006,Oldham,1-1,1-0,Scunthorpe
+Sat May 6 2006,Rotherham,0-0,0-0,Milton Keynes Dons
+Sat May 6 2006,Southend,1-0,0-0,Bristol City
+Sat May 6 2006,Swindon,0-0,0-0,Huddersfield
+Sat May 6 2006,Tranmere,0-2,0-2,Doncaster
+Sat May 6 2006,Walsall,1-2,0-1,Barnsley
+Sat May 6 2006,Yeovil,0-0,0-0,Colchester

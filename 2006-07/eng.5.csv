@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 12 2006,Aldershot,3-2,0-1,Gravesend
+Sat Aug 12 2006,Altrincham,2-1,2-0,Stevenage
+Sat Aug 12 2006,Cambridge,0-1,0-0,Northwich
+Sat Aug 12 2006,Crawley Town,1-0,0-0,Rushden & D
+Sat Aug 12 2006,Forest Green,0-1,0-1,Dag and Red
+Sat Aug 12 2006,Grays,1-1,1-1,Stafford Rangers
+Sat Aug 12 2006,Kidderminster,1-3,0-3,St. Albans
+Sat Aug 12 2006,Morecambe,0-1,0-0,Burton
+Sat Aug 12 2006,Oxford,2-0,1-0,Halifax
+Sat Aug 12 2006,Southport,0-0,0-0,Woking
+Sat Aug 12 2006,Tamworth,1-3,0-2,Weymouth
+Sat Aug 12 2006,York,0-0,0-0,Exeter
+Tue Aug 15 2006,Burton,1-1,1-0,Kidderminster
+Tue Aug 15 2006,Dag and Red,0-1,0-0,Oxford
+Tue Aug 15 2006,Exeter,1-0,1-0,Forest Green
+Tue Aug 15 2006,Gravesend,4-1,2-1,Tamworth
+Tue Aug 15 2006,Halifax,1-1,0-0,Southport
+Tue Aug 15 2006,Northwich,0-2,0-1,Morecambe
+Tue Aug 15 2006,Rushden & D,1-3,1-1,Grays
+Tue Aug 15 2006,St. Albans,0-0,0-0,Cambridge
+Tue Aug 15 2006,Stafford Rangers,1-0,0-0,Altrincham
+Tue Aug 15 2006,Stevenage,1-2,1-1,York
+Tue Aug 15 2006,Weymouth,1-0,0-0,Aldershot
+Tue Aug 15 2006,Woking,1-2,1-1,Crawley Town
+Fri Aug 18 2006,Burton,1-2,1-0,Oxford
+Sat Aug 19 2006,Dag and Red,4-0,2-0,Tamworth
+Sat Aug 19 2006,Exeter,2-1,1-1,Altrincham
+Sat Aug 19 2006,Gravesend,0-1,0-1,York
+Sat Aug 19 2006,Halifax,0-2,0-2,Grays
+Sat Aug 19 2006,Northwich,0-1,0-1,Kidderminster
+Sat Aug 19 2006,Rushden & D,2-0,1-0,Forest Green
+Sat Aug 19 2006,St. Albans,3-5,0-1,Aldershot
+Sat Aug 19 2006,Stafford Rangers,1-0,0-0,Southport
+Sat Aug 19 2006,Stevenage,2-3,1-0,Crawley Town
+Sat Aug 19 2006,Weymouth,2-1,1-0,Cambridge
+Sat Aug 19 2006,Woking,1-1,0-0,Morecambe
+Fri Aug 25 2006,York,3-2,1-0,Burton
+Sat Aug 26 2006,Aldershot,1-1,0-0,Dag and Red
+Sat Aug 26 2006,Altrincham,2-0,1-0,St. Albans
+Sat Aug 26 2006,Cambridge,1-2,0-1,Halifax
+Sat Aug 26 2006,Crawley Town,1-2,1-1,Stafford Rangers
+Sat Aug 26 2006,Forest Green,0-1,0-1,Gravesend
+Sat Aug 26 2006,Grays,3-0,2-0,Woking
+Sat Aug 26 2006,Kidderminster,0-1,0-1,Weymouth
+Sat Aug 26 2006,Morecambe,3-3,1-2,Stevenage
+Sat Aug 26 2006,Oxford,5-1,2-0,Northwich
+Sat Aug 26 2006,Southport,1-2,0-2,Rushden & D
+Sat Aug 26 2006,Tamworth,1-0,0-0,Exeter
+Mon Aug 28 2006,Burton,0-1,0-0,Southport
+Mon Aug 28 2006,Dag and Red,2-0,0-0,Cambridge
+Mon Aug 28 2006,Exeter,1-1,0-1,Crawley Town
+Mon Aug 28 2006,Gravesend,3-1,0-0,Altrincham
+Mon Aug 28 2006,Halifax,1-1,1-0,Morecambe
+Mon Aug 28 2006,Northwich,0-3,0-1,Grays
+Mon Aug 28 2006,Rushden & D,0-1,0-0,York
+Mon Aug 28 2006,St. Albans,1-0,1-0,Tamworth
+Mon Aug 28 2006,Stafford Rangers,0-3,0-1,Aldershot
+Mon Aug 28 2006,Stevenage,3-3,2-2,Forest Green
+Mon Aug 28 2006,Weymouth,1-1,0-0,Oxford
+Mon Aug 28 2006,Woking,3-0,2-0,Kidderminster
+Fri Sep 1 2006,Cambridge,1-3,1-1,Exeter
+Fri Sep 1 2006,Forest Green,2-3,1-2,Woking
+Fri Sep 1 2006,Grays,0-1,0-0,Burton
+Fri Sep 1 2006,Kidderminster,0-0,0-0,Rushden & D
+Fri Sep 1 2006,Oxford,2-1,0-0,St. Albans
+Fri Sep 1 2006,York,0-0,0-0,Stafford Rangers
+Sat Sep 2 2006,Aldershot,1-0,0-0,Halifax
+Sat Sep 2 2006,Crawley Town,0-2,0-0,Northwich
+Sat Sep 2 2006,Morecambe,2-0,1-0,Weymouth
+Sat Sep 2 2006,Southport,2-2,2-2,Gravesend
+Sat Sep 2 2006,Tamworth,2-1,1-0,Stevenage
+Sun Sep 3 2006,Altrincham,0-5,0-2,Dag and Red
+Sat Sep 9 2006,Burton,1-1,1-0,Weymouth
+Sat Sep 9 2006,Crawley Town,3-0,1-0,York
+Sat Sep 9 2006,Exeter,0-0,0-0,Aldershot
+Sat Sep 9 2006,Forest Green,1-1,1-0,Cambridge
+Sat Sep 9 2006,Grays,4-0,3-0,Southport
+Sat Sep 9 2006,Halifax,1-1,1-1,Gravesend
+Sat Sep 9 2006,Kidderminster,0-2,0-0,Tamworth
+Sat Sep 9 2006,Morecambe,0-3,0-2,Oxford
+Sat Sep 9 2006,Northwich,0-3,0-3,St. Albans
+Sat Sep 9 2006,Rushden & D,3-0,2-0,Altrincham
+Sat Sep 9 2006,Stevenage,6-0,4-0,Stafford Rangers
+Sat Sep 9 2006,Woking,2-2,1-1,Dag and Red
+Tue Sep 12 2006,Aldershot,4-0,2-0,Stevenage
+Tue Sep 12 2006,Altrincham,1-0,1-0,Halifax
+Tue Sep 12 2006,Cambridge,1-1,0-0,Kidderminster
+Tue Sep 12 2006,Dag and Red,2-1,1-0,Crawley Town
+Tue Sep 12 2006,Gravesend,2-0,1-0,Grays
+Tue Sep 12 2006,Oxford,1-0,1-0,Exeter
+Tue Sep 12 2006,St. Albans,0-1,0-0,Woking
+Tue Sep 12 2006,Stafford Rangers,1-1,0-1,Burton
+Tue Sep 12 2006,Tamworth,1-4,0-1,Rushden & D
+Tue Sep 12 2006,Weymouth,1-0,0-0,Forest Green
+Tue Sep 12 2006,York,2-3,0-2,Morecambe
+Sat Sep 16 2006,Aldershot,1-3,0-1,Northwich
+Sat Sep 16 2006,Altrincham,2-3,2-1,Woking
+Sat Sep 16 2006,Cambridge,1-0,1-0,Stevenage
+Sat Sep 16 2006,Dag and Red,2-1,1-1,Morecambe
+Sat Sep 16 2006,Gravesend,2-2,0-2,Exeter
+Sat Sep 16 2006,Oxford,1-1,1-1,Grays
+Sat Sep 16 2006,Southport,3-1,3-0,Crawley Town
+Sat Sep 16 2006,St. Albans,0-1,0-1,Burton
+Sat Sep 16 2006,Stafford Rangers,1-1,0-1,Rushden & D
+Sat Sep 16 2006,Tamworth,1-1,1-0,Forest Green
+Sat Sep 16 2006,Weymouth,1-0,1-0,Halifax
+Sat Sep 16 2006,York,1-0,1-0,Kidderminster
+Mon Sep 18 2006,Crawley Town,0-1,0-0,Oxford
+Tue Sep 19 2006,Burton,2-1,1-0,Cambridge
+Tue Sep 19 2006,Exeter,4-2,1-0,St. Albans
+Tue Sep 19 2006,Forest Green,2-2,2-0,Altrincham
+Tue Sep 19 2006,Grays,1-2,0-0,Aldershot
+Tue Sep 19 2006,Halifax,3-1,2-0,Dag and Red
+Tue Sep 19 2006,Kidderminster,2-0,0-0,Southport
+Tue Sep 19 2006,Morecambe,0-0,0-0,Tamworth
+Tue Sep 19 2006,Northwich,4-0,2-0,Stafford Rangers
+Tue Sep 19 2006,Rushden & D,0-0,0-0,Gravesend
+Tue Sep 19 2006,Stevenage,1-0,1-0,Weymouth
+Tue Sep 19 2006,Woking,1-2,0-2,York
+Fri Sep 22 2006,Cambridge,2-0,2-0,Aldershot
+Sat Sep 23 2006,Altrincham,2-0,2-0,Tamworth
+Sat Sep 23 2006,Burton,2-0,2-0,Northwich
+Sat Sep 23 2006,Crawley Town,0-1,0-0,Grays
+Sat Sep 23 2006,Dag and Red,4-1,3-1,Weymouth
+Sat Sep 23 2006,Exeter,1-1,0-0,Stevenage
+Sat Sep 23 2006,Halifax,2-2,2-1,Forest Green
+Sat Sep 23 2006,Morecambe,0-1,0-0,Kidderminster
+Sat Sep 23 2006,St. Albans,2-3,0-0,Gravesend
+Sat Sep 23 2006,Stafford Rangers,0-1,0-0,Oxford
+Sat Sep 23 2006,Woking,3-0,3-0,Rushden & D
+Sat Sep 23 2006,York,2-2,1-2,Southport
+Tue Sep 26 2006,Southport,1-2,0-1,Northwich
+Sat Sep 30 2006,Aldershot,0-0,0-0,Altrincham
+Sat Sep 30 2006,Forest Green,2-1,1-0,Stafford Rangers
+Sat Sep 30 2006,Gravesend,0-0,0-0,Dag and Red
+Sat Sep 30 2006,Grays,0-1,0-0,Morecambe
+Sat Sep 30 2006,Kidderminster,0-1,0-0,Crawley Town
+Sat Sep 30 2006,Northwich,0-2,0-1,Woking
+Sat Sep 30 2006,Oxford,2-0,1-0,York
+Sat Sep 30 2006,Rushden & D,1-2,1-2,Burton
+Sat Sep 30 2006,Southport,0-1,0-0,Exeter
+Sat Sep 30 2006,Stevenage,2-1,1-1,Halifax
+Sat Sep 30 2006,Tamworth,0-1,0-1,Cambridge
+Sat Sep 30 2006,Weymouth,2-1,0-0,St. Albans
+Tue Oct 3 2006,Aldershot,3-3,1-2,Tamworth
+Tue Oct 3 2006,Burton,2-1,1-0,Crawley Town
+Tue Oct 3 2006,Cambridge,2-2,1-1,Altrincham
+Tue Oct 3 2006,Grays,2-2,0-1,Exeter
+Tue Oct 3 2006,Halifax,2-0,1-0,Kidderminster
+Tue Oct 3 2006,Morecambe,1-0,0-0,Rushden & D
+Tue Oct 3 2006,Northwich,1-2,0-1,York
+Tue Oct 3 2006,Oxford,2-2,0-1,Southport
+Tue Oct 3 2006,St. Albans,0-0,0-0,Forest Green
+Tue Oct 3 2006,Stafford Rangers,1-2,1-1,Dag and Red
+Tue Oct 3 2006,Stevenage,3-2,1-1,Woking
+Wed Oct 4 2006,Weymouth,2-1,1-1,Gravesend
+Fri Oct 6 2006,Forest Green,1-5,1-2,Oxford
+Fri Oct 6 2006,Rushden & D,2-2,2-1,Stevenage
+Fri Oct 6 2006,Woking,0-0,0-0,Burton
+Fri Oct 6 2006,York,1-0,1-0,Aldershot
+Sat Oct 7 2006,Altrincham,0-0,0-0,Weymouth
+Sat Oct 7 2006,Crawley Town,4-0,2-0,Morecambe
+Sat Oct 7 2006,Dag and Red,5-0,3-0,Northwich
+Sat Oct 7 2006,Exeter,4-1,1-1,Halifax
+Sat Oct 7 2006,Gravesend,2-0,0-0,Cambridge
+Sat Oct 7 2006,Kidderminster,2-1,1-1,Grays
+Sat Oct 7 2006,Southport,1-1,0-0,St. Albans
+Sun Oct 8 2006,Tamworth,0-0,0-0,Stafford Rangers
+Mon Oct 9 2006,Woking,2-0,1-0,Aldershot
+Tue Oct 10 2006,Altrincham,0-2,0-1,Morecambe
+Tue Oct 10 2006,Crawley Town,0-3,0-0,Weymouth
+Tue Oct 10 2006,Dag and Red,4-2,3-0,St. Albans
+Tue Oct 10 2006,Exeter,1-1,0-1,Northwich
+Tue Oct 10 2006,Forest Green,1-0,1-0,Burton
+Tue Oct 10 2006,Gravesend,1-4,0-1,Stafford Rangers
+Tue Oct 10 2006,Kidderminster,0-0,0-0,Oxford
+Tue Oct 10 2006,Rushden & D,0-1,0-1,Halifax
+Tue Oct 10 2006,Southport,1-2,1-0,Stevenage
+Tue Oct 10 2006,Tamworth,4-2,3-0,Grays
+Tue Oct 10 2006,York,1-2,1-0,Cambridge
+Sat Oct 14 2006,Aldershot,4-2,1-2,Kidderminster
+Sat Oct 14 2006,Burton,0-1,0-0,Gravesend
+Sat Oct 14 2006,Cambridge,1-2,0-0,Crawley Town
+Sat Oct 14 2006,Grays,1-1,1-1,Forest Green
+Sat Oct 14 2006,Halifax,3-1,2-1,Tamworth
+Sat Oct 14 2006,Morecambe,2-2,1-1,Exeter
+Sat Oct 14 2006,Northwich,4-1,3-0,Rushden & D
+Sat Oct 14 2006,Oxford,1-1,0-0,Altrincham
+Sat Oct 14 2006,St. Albans,4-2,1-1,York
+Sat Oct 14 2006,Stafford Rangers,1-0,1-0,Woking
+Sat Oct 14 2006,Stevenage,1-2,1-1,Dag and Red
+Sat Oct 14 2006,Weymouth,3-0,1-0,Southport
+Fri Oct 20 2006,Cambridge,0-3,0-1,Oxford
+Sat Oct 21 2006,Aldershot,0-1,0-1,Morecambe
+Sat Oct 21 2006,Altrincham,2-1,2-0,Southport
+Sat Oct 21 2006,Dag and Red,1-3,1-0,Kidderminster
+Sat Oct 21 2006,Exeter,1-2,0-0,Stafford Rangers
+Sat Oct 21 2006,Forest Green,1-0,0-0,Crawley Town
+Sat Oct 21 2006,Gravesend,1-0,0-0,Woking
+Sat Oct 21 2006,Halifax,1-2,1-1,Burton
+Sat Oct 21 2006,St. Albans,0-6,0-1,Grays
+Sat Oct 21 2006,Stevenage,0-2,0-1,Northwich
+Sat Oct 21 2006,Tamworth,2-2,1-2,York
+Sat Oct 21 2006,Weymouth,1-1,1-1,Rushden & D
+Fri Nov 3 2006,Burton,2-1,0-1,Stevenage
+Sat Nov 4 2006,Crawley Town,2-1,0-1,St. Albans
+Sat Nov 4 2006,Grays,1-1,1-1,Cambridge
+Sat Nov 4 2006,Kidderminster,2-2,1-2,Forest Green
+Sat Nov 4 2006,Morecambe,1-0,1-0,Gravesend
+Sat Nov 4 2006,Northwich,3-2,0-2,Halifax
+Sat Nov 4 2006,Oxford,2-0,0-0,Aldershot
+Sat Nov 4 2006,Rushden & D,2-3,2-3,Dag and Red
+Sat Nov 4 2006,Southport,1-0,0-0,Tamworth
+Sat Nov 4 2006,Stafford Rangers,2-0,2-0,Weymouth
+Sat Nov 4 2006,Woking,0-2,0-2,Exeter
+Sun Nov 5 2006,York,1-0,0-0,Altrincham
+Sat Nov 11 2006,Cambridge,3-0,1-0,Gravesend
+Sat Nov 11 2006,Forest Green,2-2,1-1,St. Albans
+Sat Nov 18 2006,Aldershot,2-2,1-0,Southport
+Sat Nov 18 2006,Altrincham,1-1,0-0,Crawley Town
+Sat Nov 18 2006,Cambridge,1-3,0-1,Morecambe
+Sat Nov 18 2006,Dag and Red,3-0,1-0,Burton
+Sat Nov 18 2006,Exeter,1-1,1-1,Kidderminster
+Sat Nov 18 2006,Forest Green,2-1,1-0,Northwich
+Sat Nov 18 2006,Gravesend,1-0,0-0,Oxford
+Sat Nov 18 2006,Halifax,3-1,1-0,Stafford Rangers
+Sat Nov 18 2006,St. Albans,3-2,3-0,Rushden & D
+Sat Nov 18 2006,Stevenage,1-0,1-0,Grays
+Sat Nov 18 2006,Tamworth,3-1,2-1,Woking
+Sat Nov 18 2006,Weymouth,1-2,0-0,York
+Sat Nov 25 2006,Crawley Town,2-0,1-0,Halifax
+Sat Nov 25 2006,Grays,1-1,0-1,Altrincham
+Sat Nov 25 2006,Kidderminster,1-2,0-1,Stevenage
+Sat Nov 25 2006,Morecambe,1-1,1-1,Forest Green
+Sat Nov 25 2006,Northwich,1-2,1-2,Gravesend
+Sat Nov 25 2006,Oxford,2-1,0-0,Tamworth
+Sat Nov 25 2006,Rushden & D,0-1,0-0,Aldershot
+Sat Nov 25 2006,Southport,1-2,1-0,Cambridge
+Sat Nov 25 2006,Stafford Rangers,2-2,0-1,St. Albans
+Sat Nov 25 2006,Woking,4-0,2-0,Weymouth
+Sat Nov 25 2006,York,2-3,1-1,Dag and Red
+Mon Nov 27 2006,Burton,1-0,1-0,Exeter
+Sat Dec 2 2006,Altrincham,2-3,1-2,Burton
+Sat Dec 2 2006,Cambridge,0-2,0-1,St. Albans
+Sat Dec 2 2006,Dag and Red,0-0,0-0,Southport
+Sat Dec 2 2006,Forest Green,0-1,0-1,York
+Sat Dec 2 2006,Gravesend,1-3,0-2,Kidderminster
+Sat Dec 2 2006,Halifax,3-0,1-0,Woking
+Sat Dec 2 2006,Stevenage,2-2,2-0,Oxford
+Sat Dec 2 2006,Weymouth,3-2,2-2,Grays
+Sat Dec 9 2006,Burton,1-3,1-2,Aldershot
+Sat Dec 9 2006,Crawley Town,1-0,0-0,Tamworth
+Sat Dec 9 2006,Exeter,3-2,1-1,Dag and Red
+Sat Dec 9 2006,Forest Green,1-2,0-1,Southport
+Sat Dec 9 2006,Grays,0-0,0-0,York
+Sat Dec 9 2006,Halifax,4-1,1-1,St. Albans
+Sat Dec 9 2006,Kidderminster,3-2,2-1,Altrincham
+Sat Dec 9 2006,Morecambe,1-0,1-0,Stafford Rangers
+Sat Dec 9 2006,Northwich,0-1,0-1,Weymouth
+Sat Dec 9 2006,Rushden & D,1-0,1-0,Oxford
+Sat Dec 9 2006,Stevenage,3-0,1-0,Gravesend
+Sat Dec 9 2006,Woking,0-1,0-0,Cambridge
+Sat Dec 23 2006,York,2-0,1-0,Halifax
+Tue Dec 26 2006,Aldershot,2-1,1-0,Forest Green
+Tue Dec 26 2006,Altrincham,3-0,1-0,Northwich
+Tue Dec 26 2006,Cambridge,0-1,0-1,Rushden & D
+Tue Dec 26 2006,Dag and Red,0-0,0-0,Grays
+Tue Dec 26 2006,Gravesend,1-0,1-0,Crawley Town
+Tue Dec 26 2006,Oxford,0-0,0-0,Woking
+Tue Dec 26 2006,Southport,1-2,1-0,Morecambe
+Tue Dec 26 2006,St. Albans,2-3,0-1,Stevenage
+Tue Dec 26 2006,Stafford Rangers,1-2,0-1,Kidderminster
+Tue Dec 26 2006,Tamworth,0-1,0-0,Burton
+Tue Dec 26 2006,Weymouth,2-1,1-0,Exeter
+Fri Dec 29 2006,York,0-1,0-0,Woking
+Sat Dec 30 2006,Altrincham,2-2,0-0,Forest Green
+Sat Dec 30 2006,Cambridge,1-2,0-0,Burton
+Sat Dec 30 2006,Dag and Red,1-0,0-0,Halifax
+Sat Dec 30 2006,Gravesend,1-0,0-0,Rushden & D
+Sat Dec 30 2006,Oxford,1-1,0-1,Crawley Town
+Sat Dec 30 2006,Southport,0-1,0-0,Kidderminster
+Sat Dec 30 2006,St. Albans,1-2,0-0,Exeter
+Sat Dec 30 2006,Tamworth,0-1,0-0,Morecambe
+Sat Dec 30 2006,Weymouth,0-1,0-1,Stevenage
+Mon Jan 1 2007,Burton,0-0,0-0,Stafford Rangers
+Mon Jan 1 2007,Crawley Town,0-0,0-0,Dag and Red
+Mon Jan 1 2007,Exeter,2-1,1-0,Oxford
+Mon Jan 1 2007,Forest Green,3-2,3-0,Weymouth
+Mon Jan 1 2007,Halifax,1-1,1-1,Altrincham
+Mon Jan 1 2007,Kidderminster,1-0,0-0,Cambridge
+Mon Jan 1 2007,Morecambe,1-3,0-1,York
+Mon Jan 1 2007,Northwich,3-1,0-1,Southport
+Mon Jan 1 2007,Rushden & D,1-1,1-0,Tamworth
+Mon Jan 1 2007,Stevenage,3-2,1-1,Aldershot
+Mon Jan 1 2007,Woking,1-2,1-0,St. Albans
+Wed Jan 3 2007,Grays,0-2,0-1,Gravesend
+Sat Jan 6 2007,Altrincham,2-1,1-0,Rushden & D
+Sat Jan 6 2007,Dag and Red,3-2,2-2,Woking
+Sat Jan 6 2007,Oxford,0-0,0-0,Morecambe
+Sat Jan 6 2007,Southport,3-1,2-0,Grays
+Sat Jan 6 2007,St. Albans,1-3,0-2,Northwich
+Sat Jan 6 2007,York,5-0,3-0,Crawley Town
+Sat Jan 13 2007,Aldershot,0-2,0-1,Crawley Town
+Sat Jan 13 2007,Cambridge,0-1,0-1,Stafford Rangers
+Sat Jan 20 2007,Burton,1-0,1-0,St. Albans
+Sat Jan 20 2007,Crawley Town,2-1,1-0,Southport
+Sat Jan 20 2007,Exeter,1-3,0-3,Gravesend
+Sat Jan 20 2007,Forest Green,2-0,0-0,Tamworth
+Sat Jan 20 2007,Grays,2-2,0-1,Oxford
+Sat Jan 20 2007,Kidderminster,2-1,1-0,York
+Sat Jan 20 2007,Morecambe,1-1,1-0,Dag and Red
+Sat Jan 20 2007,Northwich,1-3,0-1,Aldershot
+Sat Jan 20 2007,Rushden & D,2-1,0-0,Stafford Rangers
+Sat Jan 20 2007,Stevenage,4-1,0-1,Cambridge
+Sat Jan 20 2007,Woking,2-0,0-0,Altrincham
+Tue Jan 23 2007,Crawley Town,1-1,0-0,Gravesend
+Tue Jan 23 2007,Exeter,4-0,1-0,Weymouth
+Tue Jan 23 2007,Forest Green,3-0,0-0,Aldershot
+Tue Jan 23 2007,Grays,0-1,0-1,Dag and Red
+Tue Jan 23 2007,Halifax,1-1,0-0,York
+Tue Jan 23 2007,Kidderminster,2-0,1-0,Stafford Rangers
+Tue Jan 23 2007,Morecambe,0-0,0-0,Southport
+Tue Jan 23 2007,Rushden & D,3-1,1-0,Cambridge
+Tue Jan 23 2007,Stevenage,1-2,0-0,St. Albans
+Tue Jan 23 2007,Woking,1-0,1-0,Oxford
+Sat Jan 27 2007,Aldershot,3-2,2-2,Burton
+Sat Jan 27 2007,Altrincham,0-1,0-1,Kidderminster
+Sat Jan 27 2007,Cambridge,3-0,2-0,Woking
+Sat Jan 27 2007,Dag and Red,4-1,0-0,Exeter
+Sat Jan 27 2007,Gravesend,1-1,1-1,Stevenage
+Sat Jan 27 2007,Southport,1-2,1-2,Forest Green
+Sat Jan 27 2007,St. Albans,3-2,2-1,Halifax
+Sat Jan 27 2007,Stafford Rangers,1-3,0-3,Morecambe
+Sat Jan 27 2007,Tamworth,0-1,0-0,Crawley Town
+Sat Jan 27 2007,Weymouth,1-1,0-0,Northwich
+Sat Jan 27 2007,York,2-2,2-1,Grays
+Mon Jan 29 2007,Oxford,0-1,0-0,Rushden & D
+Sat Feb 3 2007,Crawley Town,3-1,0-0,Forest Green
+Sat Feb 3 2007,Oxford,1-1,0-1,Cambridge
+Sat Feb 3 2007,Southport,2-1,1-0,Altrincham
+Sat Feb 3 2007,Stafford Rangers,0-1,0-1,Exeter
+Sat Feb 3 2007,Weymouth,1-1,0-1,Burton
+Sat Feb 3 2007,York,0-2,0-1,Tamworth
+Tue Feb 6 2007,Aldershot,1-0,0-0,Grays
+Sat Feb 10 2007,Aldershot,1-1,0-1,Oxford
+Sat Feb 10 2007,Altrincham,0-4,0-2,York
+Sat Feb 10 2007,Cambridge,2-0,1-0,Grays
+Sat Feb 10 2007,Dag and Red,1-2,1-1,Rushden & D
+Sat Feb 10 2007,Exeter,1-0,0-0,Woking
+Sat Feb 10 2007,Forest Green,2-1,0-1,Kidderminster
+Sat Feb 10 2007,Gravesend,2-1,1-1,Morecambe
+Sat Feb 10 2007,St. Albans,2-2,1-1,Crawley Town
+Sat Feb 10 2007,Stevenage,2-1,0-0,Burton
+Sat Feb 10 2007,Tamworth,1-1,1-1,Southport
+Sat Feb 10 2007,Weymouth,1-2,1-2,Stafford Rangers
+Sat Feb 17 2007,Burton,0-2,0-1,Dag and Red
+Sat Feb 17 2007,Crawley Town,1-1,1-1,Altrincham
+Sat Feb 17 2007,Grays,0-2,0-1,Stevenage
+Sat Feb 17 2007,Kidderminster,0-2,0-0,Exeter
+Sat Feb 17 2007,Morecambe,2-2,0-1,Cambridge
+Sat Feb 17 2007,Northwich,2-0,0-0,Forest Green
+Sat Feb 17 2007,Oxford,1-0,1-0,Gravesend
+Sat Feb 17 2007,Rushden & D,1-0,0-0,St. Albans
+Sat Feb 17 2007,Southport,1-0,1-0,Aldershot
+Sat Feb 17 2007,Stafford Rangers,2-3,1-3,Halifax
+Sat Feb 17 2007,Woking,0-2,0-0,Tamworth
+Sat Feb 17 2007,York,1-0,0-0,Weymouth
+Tue Feb 20 2007,Burton,1-0,0-0,Tamworth
+Tue Feb 20 2007,Exeter,0-0,0-0,Rushden & D
+Tue Feb 20 2007,Halifax,4-1,1-1,Weymouth
+Tue Feb 20 2007,Kidderminster,1-4,1-1,Dag and Red
+Tue Feb 20 2007,Northwich,1-1,0-0,Altrincham
+Tue Feb 20 2007,Stafford Rangers,1-3,1-2,Stevenage
+Tue Feb 20 2007,Woking,2-2,1-0,Gravesend
+Sat Feb 24 2007,Aldershot,2-2,2-0,Rushden & D
+Sat Feb 24 2007,Cambridge,2-2,1-2,Southport
+Sat Feb 24 2007,Dag and Red,2-1,1-0,York
+Sat Feb 24 2007,Exeter,3-0,0-0,Burton
+Sat Feb 24 2007,Forest Green,1-3,1-2,Morecambe
+Sat Feb 24 2007,St. Albans,0-3,0-2,Stafford Rangers
+Sat Feb 24 2007,Tamworth,1-3,0-2,Oxford
+Tue Feb 27 2007,Cambridge,1-1,0-1,Forest Green
+Tue Feb 27 2007,Grays,2-1,1-1,St. Albans
+Tue Feb 27 2007,Halifax,0-2,0-0,Northwich
+Fri Mar 2 2007,Burton,2-1,1-0,Altrincham
+Sat Mar 3 2007,Crawley Town,1-2,0-0,Aldershot
+Sat Mar 3 2007,Grays,2-2,1-0,Weymouth
+Sat Mar 3 2007,Kidderminster,1-2,0-1,Gravesend
+Sat Mar 3 2007,Morecambe,2-0,1-0,St. Albans
+Sat Mar 3 2007,Northwich,0-1,0-0,Tamworth
+Sat Mar 3 2007,Oxford,2-0,1-0,Stevenage
+Sat Mar 3 2007,Rushden & D,3-0,2-0,Exeter
+Sat Mar 3 2007,Southport,1-4,0-2,Dag and Red
+Sat Mar 3 2007,Stafford Rangers,1-2,1-1,Cambridge
+Sat Mar 3 2007,Woking,2-2,0-1,Halifax
+Sat Mar 3 2007,York,0-0,0-0,Forest Green
+Tue Mar 6 2007,Altrincham,5-0,1-0,Cambridge
+Tue Mar 6 2007,Crawley Town,1-0,1-0,Burton
+Tue Mar 6 2007,Dag and Red,1-1,0-0,Stafford Rangers
+Tue Mar 6 2007,Exeter,2-1,1-0,Grays
+Tue Mar 6 2007,Gravesend,1-3,1-0,Weymouth
+Tue Mar 6 2007,Kidderminster,1-0,1-0,Halifax
+Tue Mar 6 2007,Rushden & D,2-2,1-0,Morecambe
+Tue Mar 6 2007,Southport,0-1,0-0,Oxford
+Tue Mar 6 2007,Tamworth,2-0,1-0,Aldershot
+Tue Mar 6 2007,Woking,0-1,0-1,Stevenage
+Tue Mar 6 2007,York,2-1,0-1,Northwich
+Sat Mar 10 2007,Aldershot,0-2,0-1,York
+Sat Mar 10 2007,Burton,2-1,1-1,Woking
+Sat Mar 10 2007,Halifax,2-1,1-0,Exeter
+Sat Mar 10 2007,Morecambe,1-0,1-0,Crawley Town
+Sat Mar 10 2007,Oxford,0-2,0-1,Forest Green
+Sat Mar 10 2007,St. Albans,2-2,0-1,Southport
+Sat Mar 10 2007,Stafford Rangers,0-4,0-3,Tamworth
+Sat Mar 10 2007,Weymouth,1-2,0-1,Altrincham
+Mon Mar 12 2007,Burton,1-0,0-0,Forest Green
+Tue Mar 13 2007,Aldershot,2-2,1-1,Woking
+Tue Mar 13 2007,Cambridge,0-5,0-2,York
+Tue Mar 13 2007,Grays,1-0,1-0,Tamworth
+Tue Mar 13 2007,Halifax,0-0,0-0,Rushden & D
+Tue Mar 13 2007,Morecambe,0-1,0-1,Altrincham
+Tue Mar 13 2007,Oxford,0-1,0-0,Kidderminster
+Tue Mar 13 2007,St. Albans,1-2,1-2,Dag and Red
+Tue Mar 13 2007,Stafford Rangers,3-1,2-0,Gravesend
+Tue Mar 13 2007,Stevenage,3-1,0-1,Southport
+Tue Mar 13 2007,Weymouth,3-2,0-0,Crawley Town
+Sat Mar 17 2007,Altrincham,0-3,0-2,Oxford
+Sat Mar 17 2007,Crawley Town,1-1,0-1,Cambridge
+Sat Mar 17 2007,Dag and Red,1-1,1-0,Forest Green
+Sat Mar 17 2007,Exeter,1-0,0-0,Morecambe
+Sat Mar 17 2007,Gravesend,0-0,0-0,Burton
+Sat Mar 17 2007,Southport,0-1,0-0,Weymouth
+Sat Mar 17 2007,Tamworth,1-0,1-0,Halifax
+Sat Mar 17 2007,Woking,1-1,0-0,Stafford Rangers
+Sat Mar 17 2007,York,0-0,0-0,St. Albans
+Tue Mar 20 2007,Altrincham,1-0,1-0,Grays
+Tue Mar 20 2007,Dag and Red,2-0,0-0,Stevenage
+Tue Mar 20 2007,Morecambe,2-1,2-0,Aldershot
+Tue Mar 20 2007,Northwich,1-0,0-0,Exeter
+Tue Mar 20 2007,Tamworth,0-0,0-0,Kidderminster
+Tue Mar 20 2007,Weymouth,2-3,2-0,Woking
+Wed Mar 21 2007,Halifax,1-1,0-0,Oxford
+Fri Mar 23 2007,Gravesend,1-1,0-1,Aldershot
+Fri Mar 23 2007,Rushden & D,1-1,0-1,Crawley Town
+Sat Mar 24 2007,Burton,2-1,2-0,Morecambe
+Sat Mar 24 2007,Exeter,1-1,1-0,York
+Sat Mar 24 2007,St. Albans,1-1,1-1,Kidderminster
+Sat Mar 24 2007,Stafford Rangers,4-2,3-0,Grays
+Sat Mar 24 2007,Stevenage,0-1,0-1,Altrincham
+Sat Mar 24 2007,Weymouth,3-1,1-1,Tamworth
+Sat Mar 24 2007,Woking,1-1,1-0,Southport
+Sun Mar 25 2007,Northwich,0-4,0-2,Cambridge
+Mon Mar 26 2007,Oxford,2-2,0-1,Dag and Red
+Tue Mar 27 2007,Aldershot,1-0,0-0,Weymouth
+Tue Mar 27 2007,Altrincham,0-1,0-1,Stafford Rangers
+Tue Mar 27 2007,Crawley Town,0-0,0-0,Woking
+Tue Mar 27 2007,Forest Green,2-1,1-1,Exeter
+Tue Mar 27 2007,Grays,3-1,0-0,Rushden & D
+Tue Mar 27 2007,Kidderminster,0-0,0-0,Burton
+Tue Mar 27 2007,Morecambe,2-1,1-0,Northwich
+Tue Mar 27 2007,Southport,1-1,1-0,Halifax
+Tue Mar 27 2007,Tamworth,2-1,1-0,Gravesend
+Tue Mar 27 2007,York,0-1,0-0,Stevenage
+Sat Mar 31 2007,Aldershot,2-0,1-0,St. Albans
+Sat Mar 31 2007,Altrincham,1-2,1-0,Exeter
+Sat Mar 31 2007,Cambridge,7-0,4-0,Weymouth
+Sat Mar 31 2007,Crawley Town,3-0,1-0,Stevenage
+Sat Mar 31 2007,Forest Green,0-2,0-0,Rushden & D
+Sat Mar 31 2007,Grays,1-0,0-0,Halifax
+Sat Mar 31 2007,Kidderminster,0-1,0-1,Northwich
+Sat Mar 31 2007,Morecambe,2-0,1-0,Woking
+Sat Mar 31 2007,Oxford,0-0,0-0,Burton
+Sat Mar 31 2007,Southport,5-1,3-0,Stafford Rangers
+Sat Mar 31 2007,Tamworth,0-2,0-1,Dag and Red
+Sat Mar 31 2007,York,0-2,0-1,Gravesend
+Tue Apr 3 2007,Aldershot,3-2,1-1,Exeter
+Tue Apr 3 2007,Forest Green,0-0,0-0,Grays
+Tue Apr 3 2007,Gravesend,2-0,1-0,Halifax
+Tue Apr 3 2007,Rushden & D,4-1,1-0,Weymouth
+Tue Apr 3 2007,St. Albans,0-2,0-1,Morecambe
+Tue Apr 3 2007,Stevenage,1-2,0-2,Kidderminster
+Tue Apr 3 2007,Tamworth,0-1,0-0,Northwich
+Sat Apr 7 2007,Burton,1-2,0-0,York
+Sat Apr 7 2007,Dag and Red,2-1,1-0,Aldershot
+Sat Apr 7 2007,Exeter,1-0,0-0,Tamworth
+Sat Apr 7 2007,Gravesend,1-1,1-1,Forest Green
+Sat Apr 7 2007,Halifax,1-0,1-0,Cambridge
+Sat Apr 7 2007,Northwich,1-0,1-0,Oxford
+Sat Apr 7 2007,Rushden & D,2-3,1-2,Southport
+Sat Apr 7 2007,St. Albans,1-5,1-4,Altrincham
+Sat Apr 7 2007,Stafford Rangers,0-1,0-1,Crawley Town
+Sat Apr 7 2007,Stevenage,3-3,1-1,Morecambe
+Sat Apr 7 2007,Weymouth,1-1,1-1,Kidderminster
+Sat Apr 7 2007,Woking,1-0,1-0,Grays
+Mon Apr 9 2007,Aldershot,4-2,2-2,Stafford Rangers
+Mon Apr 9 2007,Altrincham,0-2,0-1,Gravesend
+Mon Apr 9 2007,Cambridge,4-2,3-2,Dag and Red
+Mon Apr 9 2007,Crawley Town,0-3,0-2,Exeter
+Mon Apr 9 2007,Forest Green,4-4,3-1,Stevenage
+Mon Apr 9 2007,Grays,1-0,1-0,Northwich
+Mon Apr 9 2007,Kidderminster,0-1,0-1,Woking
+Mon Apr 9 2007,Morecambe,4-0,1-0,Halifax
+Mon Apr 9 2007,Oxford,4-1,1-1,Weymouth
+Mon Apr 9 2007,Southport,3-1,0-1,Burton
+Mon Apr 9 2007,Tamworth,1-1,0-1,St. Albans
+Tue Apr 10 2007,York,3-1,1-1,Rushden & D
+Wed Apr 11 2007,Northwich,2-0,0-0,Dag and Red
+Sat Apr 14 2007,Burton,3-0,2-0,Grays
+Sat Apr 14 2007,Dag and Red,4-1,1-1,Altrincham
+Sat Apr 14 2007,Exeter,2-0,1-0,Cambridge
+Sat Apr 14 2007,Gravesend,0-4,0-2,Southport
+Sat Apr 14 2007,Halifax,2-0,1-0,Aldershot
+Sat Apr 14 2007,Northwich,2-1,1-1,Crawley Town
+Sat Apr 14 2007,Rushden & D,0-1,0-1,Kidderminster
+Sat Apr 14 2007,St. Albans,0-2,0-1,Oxford
+Sat Apr 14 2007,Stafford Rangers,0-0,0-0,York
+Sat Apr 14 2007,Stevenage,3-0,1-0,Tamworth
+Sat Apr 14 2007,Weymouth,2-1,1-1,Morecambe
+Sat Apr 14 2007,Woking,3-3,0-3,Forest Green
+Tue Apr 17 2007,Burton,1-0,0-0,Halifax
+Tue Apr 17 2007,Kidderminster,0-0,0-0,Aldershot
+Tue Apr 17 2007,Stafford Rangers,2-0,0-0,Northwich
+Tue Apr 17 2007,Stevenage,1-0,0-0,Rushden & D
+Thu Apr 19 2007,Gravesend,3-0,2-0,Northwich
+Sat Apr 21 2007,Aldershot,0-1,0-0,Cambridge
+Sat Apr 21 2007,Forest Green,2-0,1-0,Halifax
+Sat Apr 21 2007,Gravesend,3-2,1-0,St. Albans
+Sat Apr 21 2007,Grays,0-0,0-0,Crawley Town
+Sat Apr 21 2007,Kidderminster,0-1,0-1,Morecambe
+Sat Apr 21 2007,Northwich,0-3,0-3,Burton
+Sat Apr 21 2007,Oxford,2-0,1-0,Stafford Rangers
+Sat Apr 21 2007,Rushden & D,2-0,1-0,Woking
+Sat Apr 21 2007,Southport,0-1,0-0,York
+Sat Apr 21 2007,Stevenage,0-0,0-0,Exeter
+Sat Apr 21 2007,Tamworth,1-0,1-0,Altrincham
+Sat Apr 21 2007,Weymouth,1-1,1-0,Dag and Red
+Mon Apr 23 2007,Rushden & D,1-0,0-0,Northwich
+Tue Apr 24 2007,Grays,3-0,2-0,Kidderminster
+Tue Apr 24 2007,Halifax,2-1,0-0,Crawley Town
+Wed Apr 25 2007,Northwich,0-0,0-0,Stevenage
+Sat Apr 28 2007,Altrincham,0-0,0-0,Aldershot
+Sat Apr 28 2007,Burton,1-2,1-1,Rushden & D
+Sat Apr 28 2007,Cambridge,1-0,0-0,Tamworth
+Sat Apr 28 2007,Crawley Town,0-0,0-0,Kidderminster
+Sat Apr 28 2007,Dag and Red,2-1,2-1,Gravesend
+Sat Apr 28 2007,Exeter,2-1,0-1,Southport
+Sat Apr 28 2007,Halifax,2-1,1-0,Stevenage
+Sat Apr 28 2007,Morecambe,1-0,1-0,Grays
+Sat Apr 28 2007,St. Albans,1-0,0-0,Weymouth
+Sat Apr 28 2007,Stafford Rangers,0-1,0-0,Forest Green
+Sat Apr 28 2007,Woking,3-2,1-1,Northwich
+Sat Apr 28 2007,York,1-0,1-0,Oxford

@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 9 1997,Birmingham,2-0,1-0,Stoke
+Sat Aug 9 1997,Bradford,2-1,1-0,Stockport
+Sat Aug 9 1997,Bury,1-1,0-1,Reading
+Sat Aug 9 1997,Man City,2-2,1-1,Portsmouth
+Sat Aug 9 1997,Middlesbrough,2-1,0-1,Charlton
+Sat Aug 9 1997,Norwich,0-2,0-1,Wolves
+Sat Aug 9 1997,Oxford,2-0,0-0,Huddersfield
+Sat Aug 9 1997,Port Vale,0-1,0-1,Nott'm Forest
+Sat Aug 9 1997,QPR,0-0,0-0,Ipswich
+Sat Aug 9 1997,Swindon,2-0,1-0,Crewe
+Sat Aug 9 1997,West Brom,2-1,2-0,Tranmere
+Sun Aug 10 1997,Sheffield United,2-0,2-0,Sunderland
+Fri Aug 15 1997,Bradford,0-0,0-0,Stoke
+Fri Aug 15 1997,Nott'm Forest,4-1,1-1,Norwich
+Fri Aug 15 1997,Sunderland,3-1,1-0,Man City
+Fri Aug 15 1997,Tranmere,2-1,1-0,QPR
+Sat Aug 16 1997,Charlton,3-2,1-0,Oxford
+Sat Aug 16 1997,Crewe,2-3,1-1,West Brom
+Sat Aug 16 1997,Portsmouth,3-1,2-1,Port Vale
+Sat Aug 16 1997,Reading,0-1,0-1,Swindon
+Sat Aug 16 1997,Stockport,0-0,0-0,Bury
+Sat Aug 16 1997,Wolves,0-0,0-0,Sheffield United
+Fri Aug 22 1997,Man City,1-1,0-0,Tranmere
+Sat Aug 23 1997,Birmingham,3-0,1-0,Reading
+Sat Aug 23 1997,Bradford,2-1,1-0,Ipswich
+Sat Aug 23 1997,Bury,0-0,0-0,Charlton
+Sat Aug 23 1997,Middlesbrough,0-1,0-0,Stoke
+Sat Aug 23 1997,Norwich,0-2,0-1,Crewe
+Sat Aug 23 1997,Oxford,0-1,0-0,Nott'm Forest
+Sat Aug 23 1997,Port Vale,3-1,2-0,Sunderland
+Sat Aug 23 1997,QPR,2-1,1-1,Stockport
+Sat Aug 23 1997,Sheffield United,2-1,2-0,Portsmouth
+Sat Aug 23 1997,Swindon,1-1,1-1,Huddersfield
+Sun Aug 24 1997,West Brom,1-0,1-0,Wolves
+Fri Aug 29 1997,Stockport,2-2,1-0,Birmingham
+Sat Aug 30 1997,Charlton,2-1,0-1,Man City
+Sat Aug 30 1997,Huddersfield,0-0,0-0,Sheffield United
+Sat Aug 30 1997,Ipswich,1-1,1-0,West Brom
+Sat Aug 30 1997,Nott'm Forest,4-0,1-0,QPR
+Sat Aug 30 1997,Portsmouth,2-1,1-1,Oxford
+Sat Aug 30 1997,Reading,0-3,0-2,Bradford
+Sat Aug 30 1997,Stoke,1-2,1-0,Swindon
+Sat Aug 30 1997,Sunderland,0-1,0-0,Norwich
+Sat Aug 30 1997,Tranmere,0-2,0-1,Middlesbrough
+Sat Aug 30 1997,Wolves,4-2,2-1,Bury
+Tue Sep 2 1997,Crewe,1-2,1-1,Bury
+Tue Sep 2 1997,Huddersfield,1-2,0-1,Bradford
+Tue Sep 2 1997,Ipswich,2-1,1-1,Swindon
+Tue Sep 2 1997,Portsmouth,1-1,0-0,Norwich
+Tue Sep 2 1997,Reading,1-2,1-0,QPR
+Tue Sep 2 1997,Stockport,1-1,0-1,Middlesbrough
+Tue Sep 2 1997,Sunderland,3-1,2-1,Oxford
+Tue Sep 2 1997,Tranmere,0-3,0-2,Birmingham
+Wed Sep 3 1997,Nott'm Forest,1-3,0-1,Man City
+Wed Sep 3 1997,Stoke,0-0,0-0,West Brom
+Wed Sep 3 1997,Wolves,1-1,0-0,Port Vale
+Fri Sep 5 1997,Bradford,0-4,0-4,Sunderland
+Sun Sep 7 1997,Bury,1-0,1-0,Tranmere
+Sun Sep 7 1997,Oxford,3-0,2-0,Wolves
+Sun Sep 7 1997,Swindon,0-0,0-0,Nott'm Forest
+Sun Sep 7 1997,West Brom,1-0,0-0,Reading
+Tue Sep 9 1997,Huddersfield,0-1,0-0,Birmingham
+Tue Sep 9 1997,Port Vale,2-1,2-1,Stockport
+Sat Sep 13 1997,Bradford,2-2,1-1,Middlesbrough
+Sat Sep 13 1997,Bury,1-1,0-0,Man City
+Sat Sep 13 1997,Huddersfield,2-2,1-0,Ipswich
+Sat Sep 13 1997,Norwich,1-0,0-0,Port Vale
+Sat Sep 13 1997,Portsmouth,2-3,0-1,Crewe
+Sat Sep 13 1997,QPR,2-0,1-0,West Brom
+Sat Sep 13 1997,Reading,2-1,1-1,Oxford
+Sat Sep 13 1997,Sheffield United,1-0,0-0,Nott'm Forest
+Sat Sep 13 1997,Stoke,2-1,1-0,Stockport
+Sat Sep 13 1997,Swindon,2-1,1-1,Tranmere
+Sat Sep 13 1997,Wolves,3-1,3-0,Charlton
+Sun Sep 14 1997,Birmingham,0-1,0-0,Sunderland
+Tue Sep 16 1997,Crewe,0-1,0-0,Port Vale
+Wed Sep 17 1997,Norwich,0-4,0-3,Charlton
+Sat Sep 20 1997,Crewe,2-3,0-2,QPR
+Sat Sep 20 1997,Ipswich,2-3,0-2,Stoke
+Sat Sep 20 1997,Man City,1-2,1-1,Norwich
+Sat Sep 20 1997,Middlesbrough,3-1,3-0,Birmingham
+Sat Sep 20 1997,Nott'm Forest,1-0,1-0,Portsmouth
+Sat Sep 20 1997,Oxford,2-4,1-2,Sheffield United
+Sat Sep 20 1997,Port Vale,1-1,1-0,Bury
+Sat Sep 20 1997,Stockport,3-0,2-0,Huddersfield
+Sat Sep 20 1997,Sunderland,1-1,1-1,Wolves
+Sat Sep 20 1997,Tranmere,6-0,5-0,Reading
+Sat Sep 20 1997,West Brom,0-0,0-0,Swindon
+Sun Sep 21 1997,Charlton,4-1,3-0,Bradford
+Wed Sep 24 1997,QPR,1-0,1-0,Portsmouth
+Fri Sep 26 1997,Norwich,2-1,1-0,Ipswich
+Sat Sep 27 1997,Bury,1-3,0-2,West Brom
+Sat Sep 27 1997,Charlton,1-3,1-0,Stockport
+Sat Sep 27 1997,Crewe,2-1,1-0,Tranmere
+Sat Sep 27 1997,Man City,6-0,3-0,Swindon
+Sat Sep 27 1997,Nott'm Forest,1-0,0-0,Stoke
+Sat Sep 27 1997,Oxford,0-0,0-0,Bradford
+Sat Sep 27 1997,Port Vale,2-0,2-0,QPR
+Sat Sep 27 1997,Portsmouth,0-2,0-1,Reading
+Sat Sep 27 1997,Sheffield United,0-0,0-0,Birmingham
+Sat Sep 27 1997,Wolves,1-1,1-1,Huddersfield
+Sun Sep 28 1997,Sunderland,1-2,0-0,Middlesbrough
+Fri Oct 3 1997,Huddersfield,0-2,0-0,Nott'm Forest
+Sat Oct 4 1997,Birmingham,0-1,0-0,Crewe
+Sat Oct 4 1997,Bradford,2-0,2-0,Wolves
+Sat Oct 4 1997,Ipswich,1-0,0-0,Man City
+Sat Oct 4 1997,QPR,2-4,1-2,Charlton
+Sat Oct 4 1997,Reading,4-0,2-0,Sunderland
+Sat Oct 4 1997,Stockport,3-1,2-0,Portsmouth
+Sat Oct 4 1997,Stoke,3-2,0-0,Bury
+Sat Oct 4 1997,Swindon,4-2,0-1,Port Vale
+Sat Oct 4 1997,Tranmere,2-0,2-0,Norwich
+Sat Oct 4 1997,West Brom,1-2,1-1,Oxford
+Sun Oct 5 1997,Middlesbrough,1-2,1-1,Sheffield United
+Sat Oct 11 1997,Reading,3-3,2-3,Crewe
+Sat Oct 11 1997,Stockport,3-2,0-0,Oxford
+Sat Oct 11 1997,Swindon,3-1,2-1,Bury
+Sun Oct 12 1997,Birmingham,1-0,1-0,Wolves
+Sun Oct 12 1997,Stoke,2-1,2-1,Port Vale
+Tue Oct 14 1997,Huddersfield,0-3,0-1,Charlton
+Sat Oct 18 1997,Bury,2-1,2-0,Birmingham
+Sat Oct 18 1997,Crewe,1-1,0-0,Middlesbrough
+Sat Oct 18 1997,Man City,0-0,0-0,Reading
+Sat Oct 18 1997,Norwich,1-1,0-1,Stockport
+Sat Oct 18 1997,Nott'm Forest,2-2,2-1,Tranmere
+Sat Oct 18 1997,Oxford,1-0,0-0,Ipswich
+Sat Oct 18 1997,Port Vale,0-0,0-0,Bradford
+Sat Oct 18 1997,Portsmouth,2-3,0-1,West Brom
+Sat Oct 18 1997,Sheffield United,2-2,1-0,QPR
+Sat Oct 18 1997,Sunderland,3-1,1-0,Huddersfield
+Sat Oct 18 1997,Wolves,3-1,1-1,Swindon
+Sun Oct 19 1997,Charlton,1-1,0-0,Stoke
+Tue Oct 21 1997,Bury,1-1,0-0,QPR
+Tue Oct 21 1997,Crewe,0-0,0-0,Ipswich
+Tue Oct 21 1997,Norwich,0-0,0-0,Reading
+Tue Oct 21 1997,Nott'm Forest,1-0,0-0,West Brom
+Tue Oct 21 1997,Oxford,1-4,0-1,Middlesbrough
+Tue Oct 21 1997,Port Vale,4-1,1-0,Huddersfield
+Tue Oct 21 1997,Portsmouth,1-1,1-1,Bradford
+Tue Oct 21 1997,Sheffield United,5-1,2-1,Stockport
+Tue Oct 21 1997,Sunderland,0-0,0-0,Swindon
+Wed Oct 22 1997,Charlton,1-1,0-0,Birmingham
+Wed Oct 22 1997,Man City,0-1,0-0,Stoke
+Wed Oct 22 1997,Wolves,2-1,2-0,Tranmere
+Fri Oct 24 1997,Reading,3-3,0-1,Nott'm Forest
+Sat Oct 25 1997,Birmingham,0-0,0-0,Oxford
+Sat Oct 25 1997,Bradford,1-0,0-0,Crewe
+Sat Oct 25 1997,Huddersfield,1-1,0-1,Portsmouth
+Sat Oct 25 1997,Ipswich,2-0,0-0,Bury
+Sat Oct 25 1997,Middlesbrough,2-1,1-0,Port Vale
+Sat Oct 25 1997,Stockport,1-0,1-0,Wolves
+Sat Oct 25 1997,Stoke,1-2,0-1,Sunderland
+Sat Oct 25 1997,Swindon,1-0,0-0,Norwich
+Sat Oct 25 1997,Tranmere,2-2,1-0,Charlton
+Sat Oct 25 1997,West Brom,2-0,1-0,Sheffield United
+Sun Oct 26 1997,QPR,2-0,2-0,Man City
+Tue Oct 28 1997,Birmingham,1-1,0-1,Ipswich
+Tue Oct 28 1997,Middlesbrough,3-0,2-0,Huddersfield
+Wed Oct 29 1997,Man City,1-0,1-0,Crewe
+Fri Oct 31 1997,Portsmouth,0-1,0-1,Swindon
+Sat Nov 1 1997,Bradford,0-0,0-0,West Brom
+Sat Nov 1 1997,Charlton,3-0,2-0,Ipswich
+Sat Nov 1 1997,Huddersfield,3-1,0-0,Stoke
+Sat Nov 1 1997,Norwich,2-2,2-1,Bury
+Sat Nov 1 1997,Nott'm Forest,3-1,1-1,Crewe
+Sat Nov 1 1997,Oxford,0-0,0-0,Man City
+Sat Nov 1 1997,Port Vale,0-0,0-0,Reading
+Sat Nov 1 1997,QPR,1-1,1-1,Birmingham
+Sat Nov 1 1997,Sheffield United,2-1,0-0,Tranmere
+Sat Nov 1 1997,Stockport,1-1,0-0,Sunderland
+Sat Nov 1 1997,Wolves,1-0,0-0,Middlesbrough
+Tue Nov 4 1997,Birmingham,0-0,0-0,Bradford
+Tue Nov 4 1997,Bury,2-0,1-0,Nott'm Forest
+Tue Nov 4 1997,Crewe,0-2,0-1,Wolves
+Tue Nov 4 1997,Ipswich,0-2,0-0,Stockport
+Tue Nov 4 1997,Man City,2-3,2-2,Port Vale
+Tue Nov 4 1997,Reading,0-1,0-0,Sheffield United
+Tue Nov 4 1997,Stoke,0-0,0-0,Oxford
+Tue Nov 4 1997,Sunderland,0-0,0-0,Charlton
+Tue Nov 4 1997,Tranmere,1-0,1-0,Huddersfield
+Tue Nov 4 1997,West Brom,1-0,0-0,Norwich
+Wed Nov 5 1997,Middlesbrough,1-1,0-0,Portsmouth
+Wed Nov 5 1997,Swindon,3-1,0-1,QPR
+Fri Nov 7 1997,Man City,0-1,0-0,Huddersfield
+Sat Nov 8 1997,Birmingham,1-2,1-2,Norwich
+Sat Nov 8 1997,Bury,0-2,0-1,Portsmouth
+Sat Nov 8 1997,Crewe,2-1,2-1,Oxford
+Sat Nov 8 1997,Middlesbrough,3-0,2-0,QPR
+Sat Nov 8 1997,Reading,1-0,1-0,Stockport
+Sat Nov 8 1997,Stoke,3-0,2-0,Wolves
+Sat Nov 8 1997,Sunderland,1-1,1-1,Nott'm Forest
+Sat Nov 8 1997,Swindon,1-0,1-0,Bradford
+Sat Nov 8 1997,Tranmere,1-2,0-1,Port Vale
+Sat Nov 8 1997,West Brom,1-0,1-0,Charlton
+Sun Nov 9 1997,Ipswich,2-2,0-1,Sheffield United
+Sat Nov 15 1997,Bradford,0-1,0-0,Tranmere
+Sat Nov 15 1997,Charlton,3-2,2-1,Crewe
+Sat Nov 15 1997,Huddersfield,1-0,0-0,Reading
+Sat Nov 15 1997,Norwich,1-3,1-1,Middlesbrough
+Sat Nov 15 1997,Nott'm Forest,1-0,1-0,Birmingham
+Sat Nov 15 1997,Oxford,1-1,1-1,Bury
+Sat Nov 15 1997,Port Vale,1-2,0-0,West Brom
+Sat Nov 15 1997,Portsmouth,1-4,1-3,Sunderland
+Sat Nov 15 1997,QPR,1-1,0-1,Stoke
+Sat Nov 15 1997,Sheffield United,1-1,1-0,Man City
+Sat Nov 15 1997,Stockport,4-2,2-1,Swindon
+Sat Nov 15 1997,Wolves,1-1,1-1,Ipswich
+Tue Nov 18 1997,Bradford,1-1,0-0,Sheffield United
+Sat Nov 22 1997,Bury,1-1,1-1,Sunderland
+Sat Nov 22 1997,Crewe,0-1,0-1,Stockport
+Sat Nov 22 1997,Man City,1-0,0-0,Bradford
+Sat Nov 22 1997,Norwich,2-1,1-0,Oxford
+Sat Nov 22 1997,Nott'm Forest,5-2,1-0,Charlton
+Sat Nov 22 1997,Port Vale,0-0,0-0,Sheffield United
+Sat Nov 22 1997,QPR,2-1,1-0,Huddersfield
+Sat Nov 22 1997,Reading,0-4,0-2,Ipswich
+Sat Nov 22 1997,Swindon,1-2,1-1,Middlesbrough
+Sat Nov 22 1997,Tranmere,3-1,1-1,Stoke
+Sun Nov 23 1997,West Brom,1-0,0-0,Birmingham
+Wed Nov 26 1997,Middlesbrough,0-0,0-0,Nott'm Forest
+Fri Nov 28 1997,Charlton,3-0,2-0,Swindon
+Sat Nov 29 1997,Birmingham,2-1,1-1,Portsmouth
+Sat Nov 29 1997,Bradford,2-1,1-0,Norwich
+Sat Nov 29 1997,Huddersfield,2-0,1-0,Bury
+Sat Nov 29 1997,Ipswich,0-1,0-0,Nott'm Forest
+Sat Nov 29 1997,Middlesbrough,1-0,1-0,West Brom
+Sat Nov 29 1997,Oxford,2-0,1-0,Port Vale
+Sat Nov 29 1997,Sheffield United,1-0,0-0,Crewe
+Sat Nov 29 1997,Stockport,3-1,3-0,Man City
+Sat Nov 29 1997,Stoke,1-2,0-1,Reading
+Sat Nov 29 1997,Sunderland,3-0,3-0,Tranmere
+Sat Nov 29 1997,Wolves,3-2,1-0,QPR
+Tue Dec 2 1997,Ipswich,1-1,0-1,Middlesbrough
+Tue Dec 2 1997,Sheffield United,3-2,0-1,Stoke
+Tue Dec 2 1997,West Brom,0-1,0-0,Man City
+Wed Dec 3 1997,QPR,1-1,0-0,Norwich
+Sat Dec 6 1997,Bury,0-1,0-0,Middlesbrough
+Sat Dec 6 1997,Crewe,2-5,1-2,Huddersfield
+Sat Dec 6 1997,Man City,0-1,0-1,Wolves
+Sat Dec 6 1997,Norwich,2-1,0-0,Sheffield United
+Sat Dec 6 1997,Nott'm Forest,2-2,1-0,Bradford
+Sat Dec 6 1997,Port Vale,0-1,0-1,Birmingham
+Sat Dec 6 1997,Portsmouth,2-0,2-0,Stoke
+Sat Dec 6 1997,QPR,0-1,0-0,Sunderland
+Sat Dec 6 1997,Reading,2-0,2-0,Charlton
+Sat Dec 6 1997,Swindon,4-1,2-1,Oxford
+Sat Dec 6 1997,Tranmere,1-1,0-1,Ipswich
+Sat Dec 6 1997,West Brom,3-2,1-0,Stockport
+Tue Dec 9 1997,Charlton,2-1,1-0,Sheffield United
+Tue Dec 9 1997,Portsmouth,3-2,1-0,Wolves
+Fri Dec 12 1997,Oxford,3-1,2-1,QPR
+Sat Dec 13 1997,Birmingham,2-1,0-0,Man City
+Sat Dec 13 1997,Bradford,1-0,1-0,Bury
+Sat Dec 13 1997,Charlton,1-0,0-0,Port Vale
+Sat Dec 13 1997,Huddersfield,1-3,0-2,Norwich
+Sat Dec 13 1997,Ipswich,2-0,1-0,Portsmouth
+Sat Dec 13 1997,Middlesbrough,4-0,0-0,Reading
+Sat Dec 13 1997,Sheffield United,2-1,1-1,Swindon
+Sat Dec 13 1997,Stockport,3-1,1-1,Tranmere
+Sat Dec 13 1997,Stoke,0-2,0-1,Crewe
+Sat Dec 13 1997,Sunderland,2-0,1-0,West Brom
+Sun Dec 14 1997,Wolves,2-1,1-0,Nott'm Forest
+Sat Dec 20 1997,Bury,1-1,1-0,Sheffield United
+Sat Dec 20 1997,Crewe,0-3,0-2,Sunderland
+Sat Dec 20 1997,Man City,2-0,2-0,Middlesbrough
+Sat Dec 20 1997,Norwich,0-0,0-0,Stoke
+Sat Dec 20 1997,Nott'm Forest,2-1,0-1,Stockport
+Sat Dec 20 1997,Port Vale,1-3,0-3,Ipswich
+Sat Dec 20 1997,Portsmouth,0-2,0-1,Charlton
+Sat Dec 20 1997,Reading,0-0,0-0,Wolves
+Sat Dec 20 1997,Swindon,1-1,1-1,Birmingham
+Sat Dec 20 1997,Tranmere,0-2,0-0,Oxford
+Sat Dec 20 1997,West Brom,0-2,0-0,Huddersfield
+Sun Dec 21 1997,QPR,1-0,1-0,Bradford
+Fri Dec 26 1997,Charlton,2-1,0-0,Norwich
+Fri Dec 26 1997,Crewe,1-0,1-0,Man City
+Fri Dec 26 1997,Huddersfield,0-1,0-0,Middlesbrough
+Fri Dec 26 1997,Ipswich,0-1,0-0,Birmingham
+Fri Dec 26 1997,Nott'm Forest,3-0,3-0,Swindon
+Fri Dec 26 1997,Portsmouth,3-1,1-1,QPR
+Fri Dec 26 1997,Reading,2-1,2-0,West Brom
+Fri Dec 26 1997,Stockport,3-0,0-0,Port Vale
+Fri Dec 26 1997,Stoke,2-2,0-0,Sheffield United
+Fri Dec 26 1997,Sunderland,2-0,1-0,Bradford
+Fri Dec 26 1997,Tranmere,0-0,0-0,Bury
+Fri Dec 26 1997,Wolves,1-0,1-0,Oxford
+Sun Dec 28 1997,Birmingham,0-0,0-0,Tranmere
+Sun Dec 28 1997,Bradford,1-1,1-1,Huddersfield
+Sun Dec 28 1997,Bury,1-1,0-0,Crewe
+Sun Dec 28 1997,Man City,2-3,0-1,Nott'm Forest
+Sun Dec 28 1997,Middlesbrough,3-1,1-0,Stockport
+Sun Dec 28 1997,Oxford,1-1,1-1,Sunderland
+Sun Dec 28 1997,Port Vale,0-2,0-1,Wolves
+Sun Dec 28 1997,QPR,1-1,1-0,Reading
+Sun Dec 28 1997,Sheffield United,4-1,2-0,Charlton
+Sun Dec 28 1997,Swindon,0-2,0-0,Ipswich
+Sun Dec 28 1997,West Brom,1-1,0-0,Stoke
+Tue Dec 30 1997,Norwich,2-0,1-0,Portsmouth
+Fri Jan 9 1998,Tranmere,0-0,0-0,West Brom
+Sat Jan 10 1998,Charlton,3-0,2-0,Middlesbrough
+Sat Jan 10 1998,Huddersfield,5-1,3-0,Oxford
+Sat Jan 10 1998,Ipswich,0-0,0-0,QPR
+Sat Jan 10 1998,Nott'm Forest,2-1,1-1,Port Vale
+Sat Jan 10 1998,Portsmouth,0-3,0-1,Man City
+Sat Jan 10 1998,Reading,1-1,1-0,Bury
+Sat Jan 10 1998,Stockport,1-2,0-2,Bradford
+Sat Jan 10 1998,Stoke,0-7,0-3,Birmingham
+Sat Jan 10 1998,Sunderland,4-2,1-1,Sheffield United
+Sat Jan 10 1998,Wolves,5-0,4-0,Norwich
+Sun Jan 11 1998,Crewe,2-0,0-0,Swindon
+Fri Jan 16 1998,Stoke,2-1,2-1,Bradford
+Sat Jan 17 1998,Birmingham,0-0,0-0,Huddersfield
+Sat Jan 17 1998,Man City,0-1,0-0,Sunderland
+Sat Jan 17 1998,Middlesbrough,1-1,0-0,Ipswich
+Sat Jan 17 1998,Norwich,1-0,0-0,Nott'm Forest
+Sat Jan 17 1998,Oxford,1-2,1-0,Charlton
+Sat Jan 17 1998,Port Vale,2-1,1-1,Portsmouth
+Sat Jan 17 1998,QPR,0-0,0-0,Tranmere
+Sat Jan 17 1998,Sheffield United,1-0,1-0,Wolves
+Sat Jan 17 1998,Swindon,0-2,0-2,Reading
+Sat Jan 17 1998,West Brom,0-1,0-1,Crewe
+Sun Jan 18 1998,Bury,0-1,0-1,Stockport
+Sat Jan 24 1998,Bradford,1-1,1-0,Swindon
+Sat Jan 24 1998,Oxford,1-0,0-0,Portsmouth
+Sat Jan 24 1998,Port Vale,2-3,1-3,Crewe
+Sat Jan 24 1998,QPR,0-1,0-0,Nott'm Forest
+Tue Jan 27 1998,Birmingham,4-1,3-0,Stockport
+Tue Jan 27 1998,Bradford,4-1,2-1,Reading
+Tue Jan 27 1998,Bury,1-3,1-1,Wolves
+Tue Jan 27 1998,Sheffield United,1-1,1-1,Huddersfield
+Tue Jan 27 1998,West Brom,2-3,0-0,Ipswich
+Wed Jan 28 1998,Man City,2-2,1-0,Charlton
+Wed Jan 28 1998,Norwich,2-1,1-0,Sunderland
+Wed Jan 28 1998,Swindon,1-0,0-0,Stoke
+Sat Jan 31 1998,Charlton,0-0,0-0,Bury
+Sat Jan 31 1998,Crewe,1-0,0-0,Norwich
+Sat Jan 31 1998,Huddersfield,0-0,0-0,Swindon
+Sat Jan 31 1998,Ipswich,2-1,0-0,Bradford
+Sat Jan 31 1998,Nott'm Forest,1-3,1-1,Oxford
+Sat Jan 31 1998,Portsmouth,1-1,1-1,Sheffield United
+Sat Jan 31 1998,Reading,2-0,0-0,Birmingham
+Sat Jan 31 1998,Stockport,2-0,1-0,QPR
+Sat Jan 31 1998,Sunderland,4-2,3-1,Port Vale
+Sat Jan 31 1998,Tranmere,0-0,0-0,Man City
+Sat Jan 31 1998,Wolves,0-1,0-0,West Brom
+Sun Feb 1 1998,Stoke,1-2,1-1,Middlesbrough
+Wed Feb 4 1998,Middlesbrough,3-0,2-0,Tranmere
+Sat Feb 7 1998,Birmingham,1-1,1-1,Middlesbrough
+Sat Feb 7 1998,Bradford,1-0,1-0,Charlton
+Sat Feb 7 1998,Bury,2-2,1-2,Port Vale
+Sat Feb 7 1998,Huddersfield,1-0,0-0,Stockport
+Sat Feb 7 1998,Norwich,0-0,0-0,Man City
+Sat Feb 7 1998,Portsmouth,0-1,0-0,Nott'm Forest
+Sat Feb 7 1998,QPR,3-2,1-0,Crewe
+Sat Feb 7 1998,Reading,1-3,0-1,Tranmere
+Sat Feb 7 1998,Sheffield United,1-0,1-0,Oxford
+Sat Feb 7 1998,Stoke,1-1,1-0,Ipswich
+Sat Feb 7 1998,Swindon,0-2,0-1,West Brom
+Sat Feb 7 1998,Wolves,0-1,0-0,Sunderland
+Tue Feb 10 1998,Tranmere,3-0,2-0,Swindon
+Sat Feb 14 1998,Crewe,3-1,0-0,Portsmouth
+Sat Feb 14 1998,Ipswich,5-1,1-1,Huddersfield
+Sat Feb 14 1998,Man City,0-1,0-0,Bury
+Sat Feb 14 1998,Middlesbrough,1-0,0-0,Bradford
+Sat Feb 14 1998,Port Vale,2-2,1-0,Norwich
+Sat Feb 14 1998,Stockport,1-0,0-0,Stoke
+Sat Feb 14 1998,West Brom,1-1,0-1,QPR
+Tue Feb 17 1998,Bury,0-0,0-0,Stoke
+Tue Feb 17 1998,Charlton,1-1,1-1,QPR
+Tue Feb 17 1998,Crewe,0-2,0-2,Birmingham
+Tue Feb 17 1998,Nott'm Forest,3-0,1-0,Huddersfield
+Tue Feb 17 1998,Oxford,2-1,1-0,West Brom
+Tue Feb 17 1998,Port Vale,0-1,0-1,Swindon
+Tue Feb 17 1998,Portsmouth,1-0,1-0,Stockport
+Tue Feb 17 1998,Sunderland,4-1,3-0,Reading
+Wed Feb 18 1998,Man City,1-2,1-0,Ipswich
+Wed Feb 18 1998,Norwich,0-2,0-0,Tranmere
+Wed Feb 18 1998,Wolves,2-1,1-0,Bradford
+Sat Feb 21 1998,Bradford,0-0,0-0,Oxford
+Sat Feb 21 1998,Huddersfield,1-0,0-0,Wolves
+Sat Feb 21 1998,Ipswich,5-0,3-0,Norwich
+Sat Feb 21 1998,Middlesbrough,3-1,1-0,Sunderland
+Sat Feb 21 1998,QPR,0-1,0-1,Port Vale
+Sat Feb 21 1998,Reading,0-1,0-0,Portsmouth
+Sat Feb 21 1998,Stockport,3-0,1-0,Charlton
+Sat Feb 21 1998,Stoke,1-1,1-0,Nott'm Forest
+Sat Feb 21 1998,Swindon,1-3,0-1,Man City
+Sat Feb 21 1998,Tranmere,0-3,0-1,Crewe
+Sat Feb 21 1998,West Brom,1-1,1-0,Bury
+Sun Feb 22 1998,Birmingham,2-0,1-0,Sheffield United
+Tue Feb 24 1998,Bradford,2-1,1-1,Port Vale
+Tue Feb 24 1998,Huddersfield,2-3,0-3,Sunderland
+Tue Feb 24 1998,Ipswich,5-2,3-1,Oxford
+Tue Feb 24 1998,Reading,3-0,2-0,Man City
+Tue Feb 24 1998,Stockport,2-2,1-0,Norwich
+Tue Feb 24 1998,Tranmere,0-0,0-0,Nott'm Forest
+Tue Feb 24 1998,West Brom,0-3,0-2,Portsmouth
+Wed Feb 25 1998,Birmingham,1-3,0-1,Bury
+Wed Feb 25 1998,Middlesbrough,1-0,0-0,Crewe
+Wed Feb 25 1998,QPR,2-2,1-1,Sheffield United
+Wed Feb 25 1998,Stoke,1-2,1-1,Charlton
+Sat Feb 28 1998,Bury,1-0,1-0,Swindon
+Sat Feb 28 1998,Charlton,1-0,0-0,Huddersfield
+Sat Feb 28 1998,Crewe,1-0,1-0,Reading
+Sat Feb 28 1998,Man City,1-0,1-0,West Brom
+Sat Feb 28 1998,Norwich,0-0,0-0,QPR
+Sat Feb 28 1998,Oxford,3-0,1-0,Stockport
+Sat Feb 28 1998,Portsmouth,1-0,1-0,Tranmere
+Sat Feb 28 1998,Sheffield United,2-1,1-0,Bradford
+Sat Feb 28 1998,Sunderland,2-2,1-2,Ipswich
+Sat Feb 28 1998,Wolves,1-3,1-1,Birmingham
+Sun Mar 1 1998,Nott'm Forest,4-0,0-0,Middlesbrough
+Sun Mar 1 1998,Port Vale,0-0,0-0,Stoke
+Tue Mar 3 1998,Charlton,5-0,1-0,West Brom
+Tue Mar 3 1998,Huddersfield,1-3,1-2,Man City
+Tue Mar 3 1998,Oxford,0-0,0-0,Crewe
+Tue Mar 3 1998,Portsmouth,1-1,0-1,Bury
+Tue Mar 3 1998,Sheffield United,0-1,0-1,Ipswich
+Tue Mar 3 1998,Stockport,5-1,4-0,Reading
+Wed Mar 4 1998,Norwich,3-3,0-2,Birmingham
+Wed Mar 4 1998,Nott'm Forest,0-3,0-1,Sunderland
+Wed Mar 4 1998,Port Vale,0-1,0-0,Tranmere
+Wed Mar 4 1998,QPR,5-0,4-0,Middlesbrough
+Wed Mar 4 1998,Wolves,1-1,1-0,Stoke
+Sat Mar 7 1998,Birmingham,1-0,1-0,QPR
+Sat Mar 7 1998,Bury,1-0,0-0,Norwich
+Sat Mar 7 1998,Crewe,1-4,1-4,Nott'm Forest
+Sat Mar 7 1998,Ipswich,3-1,0-1,Charlton
+Sat Mar 7 1998,Man City,0-2,0-1,Oxford
+Sat Mar 7 1998,Reading,0-3,0-2,Port Vale
+Sat Mar 7 1998,Stoke,1-2,0-2,Huddersfield
+Sat Mar 7 1998,Sunderland,4-1,1-0,Stockport
+Sat Mar 7 1998,Swindon,0-1,0-0,Portsmouth
+Sat Mar 7 1998,West Brom,1-1,0-1,Bradford
+Tue Mar 10 1998,Sunderland,1-1,0-0,Birmingham
+Wed Mar 11 1998,Middlesbrough,6-0,2-0,Swindon
+Sat Mar 14 1998,Bradford,0-0,0-0,Birmingham
+Sat Mar 14 1998,Huddersfield,3-0,1-0,Tranmere
+Sat Mar 14 1998,Norwich,1-1,1-0,West Brom
+Sat Mar 14 1998,Nott'm Forest,3-0,0-0,Bury
+Sat Mar 14 1998,Oxford,5-1,1-0,Stoke
+Sat Mar 14 1998,Port Vale,2-1,1-0,Man City
+Sat Mar 14 1998,Portsmouth,0-0,0-0,Middlesbrough
+Sat Mar 14 1998,QPR,1-2,1-2,Swindon
+Sat Mar 14 1998,Sheffield United,4-0,1-0,Reading
+Sat Mar 14 1998,Stockport,0-1,0-0,Ipswich
+Sat Mar 14 1998,Wolves,1-0,1-0,Crewe
+Sun Mar 15 1998,Charlton,1-1,0-1,Sunderland
+Tue Mar 17 1998,Oxford,3-0,1-0,Reading
+Wed Mar 18 1998,Swindon,0-0,0-0,Wolves
+Sat Mar 21 1998,Birmingham,1-2,0-0,Nott'm Forest
+Sat Mar 21 1998,Bury,1-0,0-0,Oxford
+Sat Mar 21 1998,Crewe,0-3,0-2,Charlton
+Sat Mar 21 1998,Ipswich,3-0,1-0,Wolves
+Sat Mar 21 1998,Man City,0-0,0-0,Sheffield United
+Sat Mar 21 1998,Reading,0-2,0-0,Huddersfield
+Sat Mar 21 1998,Stoke,2-1,1-0,QPR
+Sat Mar 21 1998,Sunderland,2-1,1-0,Portsmouth
+Sat Mar 21 1998,Swindon,1-1,0-0,Stockport
+Sat Mar 21 1998,Tranmere,3-1,0-1,Bradford
+Sat Mar 21 1998,West Brom,2-2,1-0,Port Vale
+Sun Mar 22 1998,Middlesbrough,3-0,1-0,Norwich
+Sat Mar 28 1998,Birmingham,1-0,0-0,West Brom
+Sat Mar 28 1998,Bradford,2-1,0-1,Man City
+Sat Mar 28 1998,Charlton,4-2,1-1,Nott'm Forest
+Sat Mar 28 1998,Huddersfield,1-1,0-0,QPR
+Sat Mar 28 1998,Ipswich,1-0,1-0,Reading
+Sat Mar 28 1998,Oxford,2-0,0-0,Norwich
+Sat Mar 28 1998,Sheffield United,2-1,0-0,Port Vale
+Sat Mar 28 1998,Stockport,0-1,0-0,Crewe
+Sat Mar 28 1998,Stoke,0-3,0-2,Tranmere
+Sat Mar 28 1998,Sunderland,2-1,1-1,Bury
+Sun Mar 29 1998,Wolves,2-0,1-0,Portsmouth
+Wed Apr 1 1998,Nott'm Forest,3-0,2-0,Sheffield United
+Wed Apr 1 1998,QPR,0-0,0-0,Wolves
+Fri Apr 3 1998,Tranmere,0-2,0-2,Sunderland
+Sat Apr 4 1998,Bury,2-2,1-1,Huddersfield
+Sat Apr 4 1998,Man City,4-1,3-1,Stockport
+Sat Apr 4 1998,Norwich,2-3,0-1,Bradford
+Sat Apr 4 1998,Port Vale,3-0,2-0,Oxford
+Sat Apr 4 1998,Portsmouth,1-1,0-0,Birmingham
+Sat Apr 4 1998,Reading,2-0,1-0,Stoke
+Sat Apr 4 1998,Swindon,0-1,0-0,Charlton
+Sat Apr 4 1998,West Brom,2-1,1-0,Middlesbrough
+Sun Apr 5 1998,Nott'm Forest,2-1,0-0,Ipswich
+Tue Apr 7 1998,Charlton,1-0,1-0,Wolves
+Tue Apr 7 1998,Sheffield United,1-0,0-0,Middlesbrough
+Tue Apr 7 1998,Tranmere,2-2,1-1,Portsmouth
+Fri Apr 10 1998,Charlton,3-0,2-0,Reading
+Fri Apr 10 1998,Sunderland,2-2,1-0,QPR
+Sat Apr 11 1998,Birmingham,1-1,0-0,Port Vale
+Sat Apr 11 1998,Bradford,0-3,0-1,Nott'm Forest
+Sat Apr 11 1998,Huddersfield,2-0,2-0,Crewe
+Sat Apr 11 1998,Ipswich,0-0,0-0,Tranmere
+Sat Apr 11 1998,Middlesbrough,4-0,1-0,Bury
+Sat Apr 11 1998,Oxford,2-1,2-0,Swindon
+Sat Apr 11 1998,Sheffield United,2-2,2-0,Norwich
+Sat Apr 11 1998,Stockport,2-1,1-1,West Brom
+Sat Apr 11 1998,Stoke,2-1,0-0,Portsmouth
+Sat Apr 11 1998,Wolves,2-2,1-1,Man City
+Mon Apr 13 1998,Bury,2-0,1-0,Bradford
+Mon Apr 13 1998,Crewe,2-0,1-0,Stoke
+Mon Apr 13 1998,Man City,0-1,0-0,Birmingham
+Mon Apr 13 1998,Norwich,5-0,2-0,Huddersfield
+Mon Apr 13 1998,Nott'm Forest,3-0,2-0,Wolves
+Mon Apr 13 1998,Port Vale,0-1,0-0,Charlton
+Mon Apr 13 1998,Portsmouth,0-1,0-1,Ipswich
+Mon Apr 13 1998,Reading,0-1,0-1,Middlesbrough
+Mon Apr 13 1998,Swindon,1-1,1-0,Sheffield United
+Mon Apr 13 1998,Tranmere,3-0,2-0,Stockport
+Mon Apr 13 1998,West Brom,3-3,2-2,Sunderland
+Tue Apr 14 1998,QPR,1-1,0-1,Oxford
+Fri Apr 17 1998,Middlesbrough,1-0,1-0,Man City
+Sat Apr 18 1998,Birmingham,3-0,2-0,Swindon
+Sat Apr 18 1998,Charlton,1-0,0-0,Portsmouth
+Sat Apr 18 1998,Huddersfield,1-0,1-0,West Brom
+Sat Apr 18 1998,Ipswich,5-1,3-0,Port Vale
+Sat Apr 18 1998,Oxford,1-1,1-0,Tranmere
+Sat Apr 18 1998,Sheffield United,3-0,1-0,Bury
+Sat Apr 18 1998,Stockport,2-2,1-1,Nott'm Forest
+Sat Apr 18 1998,Stoke,2-0,1-0,Norwich
+Sat Apr 18 1998,Sunderland,2-1,2-1,Crewe
+Sat Apr 18 1998,Wolves,3-1,1-1,Reading
+Sun Apr 19 1998,Bradford,1-1,1-0,QPR
+Fri Apr 24 1998,Port Vale,0-1,0-1,Middlesbrough
+Sat Apr 25 1998,Bury,0-1,0-0,Ipswich
+Sat Apr 25 1998,Charlton,2-0,1-0,Tranmere
+Sat Apr 25 1998,Crewe,5-0,4-0,Bradford
+Sat Apr 25 1998,Man City,2-2,1-2,QPR
+Sat Apr 25 1998,Norwich,5-0,2-0,Swindon
+Sat Apr 25 1998,Oxford,0-2,0-0,Birmingham
+Sat Apr 25 1998,Portsmouth,3-0,1-0,Huddersfield
+Sat Apr 25 1998,Sheffield United,2-4,1-1,West Brom
+Sat Apr 25 1998,Sunderland,3-0,1-0,Stoke
+Sat Apr 25 1998,Wolves,3-4,2-1,Stockport
+Sun Apr 26 1998,Nott'm Forest,1-0,0-0,Reading
+Tue Apr 28 1998,Ipswich,2-0,0-0,Sunderland
+Tue Apr 28 1998,Tranmere,3-3,1-0,Sheffield United
+Wed Apr 29 1998,Middlesbrough,1-1,1-1,Wolves
+Thu Apr 30 1998,Crewe,2-1,0-0,Sheffield United
+Sun May 3 1998,Birmingham,0-0,0-0,Charlton
+Sun May 3 1998,Bradford,1-3,0-1,Portsmouth
+Sun May 3 1998,Huddersfield,0-4,0-2,Port Vale
+Sun May 3 1998,Ipswich,3-2,1-1,Crewe
+Sun May 3 1998,Middlesbrough,4-1,0-0,Oxford
+Sun May 3 1998,QPR,0-1,0-1,Bury
+Sun May 3 1998,Reading,0-1,0-0,Norwich
+Sun May 3 1998,Stockport,1-0,0-0,Sheffield United
+Sun May 3 1998,Stoke,2-5,0-1,Man City
+Sun May 3 1998,Swindon,1-2,0-2,Sunderland
+Sun May 3 1998,Tranmere,2-1,1-0,Wolves
+Sun May 3 1998,West Brom,1-1,0-1,Nott'm Forest

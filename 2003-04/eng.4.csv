@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 9 2003,Carlisle,1-2,1-2,York
+Sat Aug 9 2003,Huddersfield,2-2,1-1,Cambridge
+Sat Aug 9 2003,Hull,4-1,1-1,Darlington
+Sat Aug 9 2003,Kidderminster,2-1,1-0,Mansfield
+Sat Aug 9 2003,Leyton Orient,1-3,0-1,Doncaster
+Sat Aug 9 2003,Lincoln,0-1,0-1,Oxford
+Sat Aug 9 2003,Macclesfield,0-0,0-0,Boston
+Sat Aug 9 2003,Northampton,0-1,0-0,Torquay
+Sat Aug 9 2003,Rochdale,1-3,1-1,Yeovil
+Sat Aug 9 2003,Scunthorpe,1-2,0-1,Bristol Rvs
+Sat Aug 9 2003,Southend,2-0,1-0,Cheltenham
+Sat Aug 9 2003,Swansea,4-2,1-1,Bury
+Sat Aug 16 2003,Boston,2-2,1-0,Huddersfield
+Sat Aug 16 2003,Bristol Rvs,0-0,0-0,Rochdale
+Sat Aug 16 2003,Bury,2-3,1-1,Scunthorpe
+Sat Aug 16 2003,Cambridge,3-1,1-0,Macclesfield
+Sat Aug 16 2003,Cheltenham,3-4,2-1,Swansea
+Sat Aug 16 2003,Darlington,0-2,0-0,Kidderminster
+Sat Aug 16 2003,Doncaster,2-0,1-0,Southend
+Sat Aug 16 2003,Mansfield,1-1,1-0,Leyton Orient
+Sat Aug 16 2003,Oxford,2-1,2-0,Hull
+Sat Aug 16 2003,Torquay,1-0,0-0,Lincoln
+Sat Aug 16 2003,Yeovil,3-0,2-0,Carlisle
+Sat Aug 16 2003,York,1-0,1-0,Northampton
+Fri Aug 22 2003,Northampton,1-0,1-0,Darlington
+Fri Aug 22 2003,Swansea,3-0,0-0,Boston
+Sat Aug 23 2003,Carlisle,0-2,0-2,Bristol Rvs
+Sat Aug 23 2003,Huddersfield,0-1,0-1,York
+Sat Aug 23 2003,Hull,3-3,2-3,Cheltenham
+Sat Aug 23 2003,Kidderminster,0-2,0-1,Bury
+Sat Aug 23 2003,Leyton Orient,2-0,1-0,Yeovil
+Sat Aug 23 2003,Lincoln,0-0,0-0,Doncaster
+Sat Aug 23 2003,Macclesfield,1-1,1-0,Torquay
+Sat Aug 23 2003,Rochdale,2-2,0-2,Cambridge
+Sat Aug 23 2003,Scunthorpe,1-1,0-1,Oxford
+Sat Aug 23 2003,Southend,0-3,0-1,Mansfield
+Mon Aug 25 2003,Boston,1-0,1-0,Carlisle
+Mon Aug 25 2003,Bristol Rvs,2-2,2-2,Macclesfield
+Mon Aug 25 2003,Bury,2-1,0-1,Lincoln
+Mon Aug 25 2003,Cambridge,0-2,0-2,Hull
+Mon Aug 25 2003,Cheltenham,2-1,0-0,Kidderminster
+Mon Aug 25 2003,Darlington,2-1,0-0,Leyton Orient
+Mon Aug 25 2003,Doncaster,1-1,0-1,Huddersfield
+Mon Aug 25 2003,Oxford,3-0,0-0,Swansea
+Mon Aug 25 2003,Torquay,1-3,0-0,Rochdale
+Mon Aug 25 2003,Yeovil,0-2,0-2,Northampton
+Tue Aug 26 2003,Mansfield,5-0,2-0,Scunthorpe
+Tue Aug 26 2003,York,2-0,1-0,Southend
+Sat Aug 30 2003,Carlisle,0-0,0-0,Cambridge
+Sat Aug 30 2003,Huddersfield,2-1,1-0,Bristol Rvs
+Sat Aug 30 2003,Hull,2-1,1-0,Boston
+Sat Aug 30 2003,Kidderminster,1-1,0-0,Oxford
+Sat Aug 30 2003,Leyton Orient,1-4,1-4,Cheltenham
+Sat Aug 30 2003,Lincoln,3-0,1-0,York
+Sat Aug 30 2003,Macclesfield,4-1,2-0,Yeovil
+Sat Aug 30 2003,Northampton,1-0,0-0,Doncaster
+Sat Aug 30 2003,Rochdale,4-2,2-2,Darlington
+Sat Aug 30 2003,Scunthorpe,2-1,0-1,Torquay
+Sat Aug 30 2003,Southend,1-0,0-0,Bury
+Sat Aug 30 2003,Swansea,4-1,1-1,Mansfield
+Fri Sep 5 2003,Cambridge,0-0,0-0,Lincoln
+Fri Sep 5 2003,Cheltenham,4-3,0-2,Northampton
+Sat Sep 6 2003,Boston,1-1,1-1,Scunthorpe
+Sat Sep 6 2003,Bristol Rvs,1-0,0-0,Kidderminster
+Sat Sep 6 2003,Bury,2-1,1-0,Huddersfield
+Sat Sep 6 2003,Darlington,2-0,2-0,Carlisle
+Sat Sep 6 2003,Mansfield,3-2,1-2,Macclesfield
+Sat Sep 6 2003,Oxford,2-0,1-0,Southend
+Sat Sep 6 2003,Torquay,2-1,0-0,Leyton Orient
+Sat Sep 6 2003,Yeovil,2-0,1-0,Swansea
+Sat Sep 6 2003,York,1-2,0-2,Rochdale
+Mon Sep 8 2003,Doncaster,0-0,0-0,Hull
+Sat Sep 13 2003,Bristol Rvs,2-0,0-0,Boston
+Sat Sep 13 2003,Bury,1-1,1-0,Cheltenham
+Sat Sep 13 2003,Cambridge,1-1,1-1,Torquay
+Sat Sep 13 2003,Carlisle,3-2,3-0,Rochdale
+Sat Sep 13 2003,Darlington,2-1,0-0,Doncaster
+Sat Sep 13 2003,Huddersfield,3-0,3-0,Northampton
+Sat Sep 13 2003,Hull,3-2,1-1,Southend
+Sat Sep 13 2003,Lincoln,0-0,0-0,Leyton Orient
+Sat Sep 13 2003,Macclesfield,1-1,0-1,Kidderminster
+Sat Sep 13 2003,Oxford,1-1,0-0,Mansfield
+Sat Sep 13 2003,Scunthorpe,2-2,1-1,Swansea
+Sat Sep 13 2003,Yeovil,3-0,2-0,York
+Tue Sep 16 2003,Cheltenham,0-0,0-0,Oxford
+Tue Sep 16 2003,Doncaster,0-1,0-1,Yeovil
+Tue Sep 16 2003,Kidderminster,0-2,0-0,Scunthorpe
+Tue Sep 16 2003,Leyton Orient,1-1,1-1,Hull
+Tue Sep 16 2003,Mansfield,5-3,3-1,Bury
+Tue Sep 16 2003,Northampton,2-0,0-0,Carlisle
+Tue Sep 16 2003,Rochdale,1-1,1-1,Huddersfield
+Tue Sep 16 2003,Southend,0-2,0-1,Lincoln
+Tue Sep 16 2003,Swansea,3-0,2-0,Macclesfield
+Tue Sep 16 2003,Torquay,2-1,2-0,Bristol Rvs
+Tue Sep 16 2003,York,1-1,1-1,Darlington
+Wed Sep 17 2003,Boston,1-2,0-1,Cambridge
+Sat Sep 20 2003,Boston,1-0,0-0,Bury
+Sat Sep 20 2003,Cheltenham,0-3,0-1,Cambridge
+Sat Sep 20 2003,Doncaster,2-0,1-0,Oxford
+Sat Sep 20 2003,Kidderminster,1-2,1-2,Lincoln
+Sat Sep 20 2003,Leyton Orient,1-1,0-1,Scunthorpe
+Sat Sep 20 2003,Mansfield,0-1,0-1,Yeovil
+Sat Sep 20 2003,Northampton,0-0,0-0,Macclesfield
+Sat Sep 20 2003,Rochdale,0-2,0-0,Hull
+Sat Sep 20 2003,Southend,2-2,2-0,Carlisle
+Sat Sep 20 2003,Swansea,2-0,1-0,Huddersfield
+Sat Sep 20 2003,Torquay,2-2,2-1,Darlington
+Sat Sep 20 2003,York,2-1,2-1,Bristol Rvs
+Sat Sep 27 2003,Bristol Rvs,2-0,1-0,Cheltenham
+Sat Sep 27 2003,Bury,1-3,1-2,Doncaster
+Sat Sep 27 2003,Cambridge,1-2,0-1,Mansfield
+Sat Sep 27 2003,Carlisle,1-2,1-0,Swansea
+Sat Sep 27 2003,Darlington,3-0,0-0,Boston
+Sat Sep 27 2003,Huddersfield,3-0,1-0,Leyton Orient
+Sat Sep 27 2003,Hull,6-1,2-1,Kidderminster
+Sat Sep 27 2003,Lincoln,1-1,1-1,Rochdale
+Sat Sep 27 2003,Macclesfield,0-0,0-0,York
+Sat Sep 27 2003,Oxford,3-0,3-0,Northampton
+Sat Sep 27 2003,Scunthorpe,1-1,1-0,Southend
+Sat Sep 27 2003,Yeovil,0-2,0-1,Torquay
+Tue Sep 30 2003,Bristol Rvs,1-3,0-3,Mansfield
+Tue Sep 30 2003,Bury,2-0,1-0,York
+Tue Sep 30 2003,Cambridge,3-3,2-0,Doncaster
+Tue Sep 30 2003,Carlisle,0-1,0-0,Leyton Orient
+Tue Sep 30 2003,Darlington,0-0,0-0,Southend
+Tue Sep 30 2003,Huddersfield,1-0,1-0,Kidderminster
+Tue Sep 30 2003,Hull,1-0,1-0,Swansea
+Tue Sep 30 2003,Lincoln,0-0,0-0,Northampton
+Tue Sep 30 2003,Macclesfield,2-1,0-0,Rochdale
+Tue Sep 30 2003,Scunthorpe,5-2,2-1,Cheltenham
+Tue Sep 30 2003,Yeovil,2-0,2-0,Boston
+Wed Oct 1 2003,Oxford,1-0,0-0,Torquay
+Sat Oct 4 2003,Boston,1-1,1-0,Oxford
+Sat Oct 4 2003,Cheltenham,3-1,2-1,Yeovil
+Sat Oct 4 2003,Doncaster,5-1,3-0,Bristol Rvs
+Sat Oct 4 2003,Kidderminster,2-1,0-0,Carlisle
+Sat Oct 4 2003,Leyton Orient,2-0,2-0,Macclesfield
+Sat Oct 4 2003,Mansfield,3-1,1-1,Darlington
+Sat Oct 4 2003,Northampton,1-5,0-2,Hull
+Sat Oct 4 2003,Rochdale,2-0,0-0,Scunthorpe
+Sat Oct 4 2003,Southend,1-2,1-1,Huddersfield
+Sat Oct 4 2003,Swansea,2-2,1-2,Lincoln
+Sat Oct 4 2003,Torquay,3-1,1-1,Bury
+Sat Oct 4 2003,York,2-0,1-0,Cambridge
+Sat Oct 11 2003,Boston,3-1,2-1,Cheltenham
+Sat Oct 11 2003,Cambridge,1-2,0-2,Bury
+Sat Oct 11 2003,Darlington,0-4,0-1,Bristol Rvs
+Sat Oct 11 2003,Huddersfield,1-0,0-0,Torquay
+Sat Oct 11 2003,Kidderminster,1-2,0-1,Southend
+Sat Oct 11 2003,Leyton Orient,1-2,0-2,Swansea
+Sat Oct 11 2003,Macclesfield,1-3,1-1,Doncaster
+Sat Oct 11 2003,Mansfield,2-0,1-0,York
+Sat Oct 11 2003,Oxford,1-0,1-0,Yeovil
+Sat Oct 11 2003,Rochdale,1-1,0-0,Northampton
+Sat Oct 11 2003,Scunthorpe,1-3,0-2,Lincoln
+Sun Oct 12 2003,Hull,2-1,1-0,Carlisle
+Fri Oct 17 2003,Northampton,1-1,1-0,Scunthorpe
+Sat Oct 18 2003,Bristol Rvs,0-2,0-0,Cambridge
+Sat Oct 18 2003,Bury,0-4,0-1,Oxford
+Sat Oct 18 2003,Carlisle,0-1,0-0,Macclesfield
+Sat Oct 18 2003,Cheltenham,0-2,0-1,Rochdale
+Sat Oct 18 2003,Doncaster,4-2,1-1,Mansfield
+Sat Oct 18 2003,Lincoln,3-1,0-1,Huddersfield
+Sat Oct 18 2003,Southend,1-2,0-1,Leyton Orient
+Sat Oct 18 2003,Swansea,0-0,0-0,Kidderminster
+Sat Oct 18 2003,Torquay,1-1,1-0,Hull
+Sat Oct 18 2003,Yeovil,1-0,1-0,Darlington
+Sat Oct 18 2003,York,1-1,1-0,Boston
+Tue Oct 21 2003,Bristol Rvs,1-1,1-0,Leyton Orient
+Tue Oct 21 2003,Bury,0-0,0-0,Hull
+Tue Oct 21 2003,Carlisle,1-4,0-1,Scunthorpe
+Tue Oct 21 2003,Cheltenham,2-1,1-1,Darlington
+Tue Oct 21 2003,Doncaster,2-1,1-1,Rochdale
+Tue Oct 21 2003,Lincoln,3-2,1-0,Macclesfield
+Tue Oct 21 2003,Northampton,0-1,0-1,Kidderminster
+Tue Oct 21 2003,Southend,0-2,0-0,Boston
+Tue Oct 21 2003,Swansea,0-2,0-1,Cambridge
+Tue Oct 21 2003,Torquay,1-0,1-0,Mansfield
+Tue Oct 21 2003,Yeovil,2-1,1-1,Huddersfield
+Tue Oct 21 2003,York,2-2,1-1,Oxford
+Sat Oct 25 2003,Boston,4-0,1-0,Torquay
+Sat Oct 25 2003,Cambridge,1-4,1-1,Yeovil
+Sat Oct 25 2003,Darlington,1-3,1-1,Bury
+Sat Oct 25 2003,Huddersfield,2-1,2-0,Carlisle
+Sat Oct 25 2003,Hull,3-0,1-0,Lincoln
+Sat Oct 25 2003,Kidderminster,0-2,0-1,Doncaster
+Sat Oct 25 2003,Leyton Orient,1-1,0-0,Northampton
+Sat Oct 25 2003,Macclesfield,1-2,0-0,Southend
+Sat Oct 25 2003,Mansfield,4-0,2-0,Cheltenham
+Sat Oct 25 2003,Oxford,0-0,0-0,Bristol Rvs
+Sat Oct 25 2003,Rochdale,0-1,0-1,Swansea
+Sat Oct 25 2003,Scunthorpe,0-0,0-0,York
+Sat Nov 1 2003,Bury,2-1,1-1,Yeovil
+Sat Nov 1 2003,Cheltenham,1-1,0-0,York
+Sat Nov 1 2003,Doncaster,1-0,1-0,Torquay
+Sat Nov 1 2003,Hull,2-2,1-1,Macclesfield
+Sat Nov 1 2003,Kidderminster,2-2,1-0,Cambridge
+Sat Nov 1 2003,Leyton Orient,2-1,1-0,Rochdale
+Sat Nov 1 2003,Lincoln,2-0,1-0,Carlisle
+Sat Nov 1 2003,Mansfield,2-1,1-1,Boston
+Sat Nov 1 2003,Oxford,3-1,0-1,Darlington
+Sat Nov 1 2003,Scunthorpe,6-2,2-0,Huddersfield
+Sat Nov 1 2003,Southend,0-1,0-0,Northampton
+Sat Nov 1 2003,Swansea,0-0,0-0,Bristol Rvs
+Sat Nov 15 2003,Boston,3-0,1-0,Leyton Orient
+Sat Nov 15 2003,Bristol Rvs,1-2,0-0,Bury
+Sat Nov 15 2003,Cambridge,1-1,1-0,Oxford
+Sat Nov 15 2003,Carlisle,0-2,0-0,Mansfield
+Sat Nov 15 2003,Darlington,0-0,0-0,Lincoln
+Sat Nov 15 2003,Huddersfield,3-1,2-0,Hull
+Sat Nov 15 2003,Macclesfield,2-2,1-1,Scunthorpe
+Sat Nov 15 2003,Rochdale,0-1,0-1,Kidderminster
+Sat Nov 15 2003,Torquay,3-1,0-0,Cheltenham
+Sat Nov 15 2003,Yeovil,4-0,3-0,Southend
+Sat Nov 15 2003,York,1-0,0-0,Doncaster
+Mon Nov 17 2003,Northampton,2-1,1-0,Swansea
+Sat Nov 22 2003,Bury,1-0,0-0,Northampton
+Sat Nov 22 2003,Cheltenham,2-1,1-1,Carlisle
+Sat Nov 22 2003,Doncaster,3-0,1-0,Boston
+Sat Nov 22 2003,Hull,0-0,0-0,Yeovil
+Sat Nov 22 2003,Kidderminster,1-2,1-1,Torquay
+Sat Nov 22 2003,Leyton Orient,2-2,2-0,York
+Sat Nov 22 2003,Lincoln,3-1,1-1,Bristol Rvs
+Sat Nov 22 2003,Mansfield,3-3,1-2,Huddersfield
+Sat Nov 22 2003,Oxford,3-1,2-1,Macclesfield
+Sat Nov 22 2003,Scunthorpe,4-0,2-0,Cambridge
+Sat Nov 22 2003,Southend,4-0,2-0,Rochdale
+Sat Nov 22 2003,Swansea,1-0,1-0,Darlington
+Sat Nov 29 2003,Boston,2-2,0-1,Kidderminster
+Sat Nov 29 2003,Bristol Rvs,2-1,1-1,Hull
+Sat Nov 29 2003,Cambridge,1-4,0-3,Leyton Orient
+Sat Nov 29 2003,Carlisle,0-1,0-0,Doncaster
+Sat Nov 29 2003,Darlington,2-2,1-0,Scunthorpe
+Sat Nov 29 2003,Huddersfield,0-0,0-0,Cheltenham
+Sat Nov 29 2003,Macclesfield,1-0,1-0,Bury
+Sat Nov 29 2003,Northampton,0-3,0-1,Mansfield
+Sat Nov 29 2003,Rochdale,1-2,0-1,Oxford
+Sat Nov 29 2003,Torquay,3-0,1-0,Southend
+Sat Nov 29 2003,Yeovil,3-1,0-0,Lincoln
+Sat Nov 29 2003,York,0-0,0-0,Swansea
+Sat Dec 6 2003,Darlington,3-0,2-0,York
+Sat Dec 6 2003,Hull,2-0,1-0,Bury
+Sat Dec 13 2003,Boston,1-1,1-1,Northampton
+Sat Dec 13 2003,Bristol Rvs,0-1,0-1,Yeovil
+Sat Dec 13 2003,Bury,1-2,0-1,Rochdale
+Sat Dec 13 2003,Cambridge,1-0,1-0,Darlington
+Sat Dec 13 2003,Cheltenham,1-3,1-2,Doncaster
+Sat Dec 13 2003,Kidderminster,2-1,1-1,Leyton Orient
+Sat Dec 13 2003,Macclesfield,4-0,1-0,Huddersfield
+Sat Dec 13 2003,Mansfield,1-2,1-1,Lincoln
+Sat Dec 13 2003,Oxford,2-1,2-0,Carlisle
+Sat Dec 13 2003,Scunthorpe,1-1,0-0,Hull
+Sat Dec 13 2003,Swansea,2-3,1-2,Southend
+Sat Dec 13 2003,Torquay,1-1,0-0,York
+Fri Dec 19 2003,Doncaster,3-1,2-0,Swansea
+Fri Dec 19 2003,Northampton,1-2,0-1,Cambridge
+Sat Dec 20 2003,Carlisle,2-0,1-0,Torquay
+Sat Dec 20 2003,Darlington,0-1,0-0,Macclesfield
+Sat Dec 20 2003,Huddersfield,1-1,1-0,Oxford
+Sat Dec 20 2003,Hull,0-1,0-0,Mansfield
+Sat Dec 20 2003,Leyton Orient,2-0,0-0,Bury
+Sat Dec 20 2003,Rochdale,1-0,1-0,Boston
+Sat Dec 20 2003,Southend,0-1,0-1,Bristol Rvs
+Sat Dec 20 2003,Yeovil,2-1,0-1,Scunthorpe
+Sun Dec 21 2003,York,1-0,0-0,Kidderminster
+Fri Dec 26 2003,Boston,0-1,0-0,Lincoln
+Fri Dec 26 2003,Bristol Rvs,1-2,0-0,Northampton
+Fri Dec 26 2003,Bury,1-3,1-1,Carlisle
+Fri Dec 26 2003,Cambridge,0-1,0-1,Southend
+Fri Dec 26 2003,Cheltenham,3-2,1-0,Macclesfield
+Fri Dec 26 2003,Darlington,0-1,0-1,Huddersfield
+Fri Dec 26 2003,Doncaster,1-0,0-0,Scunthorpe
+Fri Dec 26 2003,Mansfield,1-0,0-0,Rochdale
+Fri Dec 26 2003,Oxford,2-1,1-1,Leyton Orient
+Fri Dec 26 2003,Torquay,0-0,0-0,Swansea
+Fri Dec 26 2003,Yeovil,1-2,0-1,Kidderminster
+Fri Dec 26 2003,York,0-2,0-0,Hull
+Sun Dec 28 2003,Carlisle,1-1,1-1,Darlington
+Sun Dec 28 2003,Huddersfield,1-0,1-0,Bury
+Sun Dec 28 2003,Hull,3-1,1-1,Doncaster
+Sun Dec 28 2003,Kidderminster,1-0,0-0,Bristol Rvs
+Sun Dec 28 2003,Leyton Orient,0-0,0-0,Torquay
+Sun Dec 28 2003,Lincoln,2-2,2-1,Cambridge
+Sun Dec 28 2003,Macclesfield,1-1,0-0,Mansfield
+Sun Dec 28 2003,Northampton,1-0,1-0,Cheltenham
+Sun Dec 28 2003,Rochdale,1-2,0-1,York
+Sun Dec 28 2003,Scunthorpe,0-1,0-1,Boston
+Sun Dec 28 2003,Southend,0-1,0-0,Oxford
+Sun Dec 28 2003,Swansea,3-2,1-0,Yeovil
+Sat Jan 3 2004,Carlisle,2-1,1-1,Boston
+Sat Jan 3 2004,Huddersfield,3-1,1-0,Doncaster
+Sat Jan 3 2004,Hull,2-0,1-0,Cambridge
+Sat Jan 3 2004,Leyton Orient,1-0,1-0,Darlington
+Sat Jan 3 2004,Lincoln,2-1,2-0,Bury
+Sat Jan 3 2004,Rochdale,1-0,1-0,Torquay
+Tue Jan 6 2004,Swansea,0-0,0-0,Oxford
+Fri Jan 9 2004,Cheltenham,1-1,0-0,Southend
+Sat Jan 10 2004,Boston,3-1,2-0,Macclesfield
+Sat Jan 10 2004,Bristol Rvs,1-0,1-0,Scunthorpe
+Sat Jan 10 2004,Bury,2-0,0-0,Swansea
+Sat Jan 10 2004,Cambridge,1-2,0-1,Huddersfield
+Sat Jan 10 2004,Darlington,0-1,0-1,Hull
+Sat Jan 10 2004,Doncaster,5-0,3-0,Leyton Orient
+Sat Jan 10 2004,Mansfield,1-0,1-0,Kidderminster
+Sat Jan 10 2004,Oxford,0-0,0-0,Lincoln
+Sat Jan 10 2004,Torquay,3-1,2-0,Northampton
+Sat Jan 10 2004,Yeovil,1-0,1-0,Rochdale
+Sat Jan 10 2004,York,2-0,1-0,Carlisle
+Tue Jan 13 2004,Lincoln,0-0,0-0,Cheltenham
+Tue Jan 13 2004,Macclesfield,2-1,1-0,Bristol Rvs
+Sat Jan 17 2004,Carlisle,2-0,1-0,Yeovil
+Sat Jan 17 2004,Huddersfield,2-0,0-0,Boston
+Sat Jan 17 2004,Hull,4-2,0-0,Oxford
+Sat Jan 17 2004,Kidderminster,1-1,1-0,Darlington
+Sat Jan 17 2004,Leyton Orient,3-1,1-1,Mansfield
+Sat Jan 17 2004,Lincoln,1-3,1-1,Torquay
+Sat Jan 17 2004,Macclesfield,0-1,0-0,Cambridge
+Sat Jan 17 2004,Northampton,2-1,2-0,York
+Sat Jan 17 2004,Rochdale,2-2,2-0,Bristol Rvs
+Sat Jan 17 2004,Scunthorpe,0-0,0-0,Bury
+Sat Jan 17 2004,Southend,0-2,0-2,Doncaster
+Sat Jan 17 2004,Swansea,0-0,0-0,Cheltenham
+Fri Jan 23 2004,Doncaster,0-2,0-1,Lincoln
+Sat Jan 24 2004,Bristol Rvs,1-0,0-0,Carlisle
+Sat Jan 24 2004,Bury,0-0,0-0,Kidderminster
+Sat Jan 24 2004,Cambridge,0-0,0-0,Rochdale
+Sat Jan 24 2004,Cheltenham,0-2,0-0,Hull
+Sat Jan 24 2004,Mansfield,1-0,1-0,Southend
+Sat Jan 24 2004,Torquay,4-1,3-1,Macclesfield
+Sat Jan 24 2004,Yeovil,1-2,0-2,Leyton Orient
+Sun Jan 25 2004,York,0-2,0-0,Huddersfield
+Tue Jan 27 2004,Scunthorpe,0-0,0-0,Mansfield
+Tue Jan 27 2004,Southend,0-0,0-0,York
+Fri Jan 30 2004,Doncaster,1-0,1-0,Northampton
+Sat Jan 31 2004,Cheltenham,1-0,1-0,Leyton Orient
+Sat Jan 31 2004,Darlington,1-0,0-0,Rochdale
+Sat Jan 31 2004,Oxford,2-1,1-1,Kidderminster
+Sat Jan 31 2004,Yeovil,2-2,1-2,Macclesfield
+Tue Feb 3 2004,Northampton,2-0,0-0,Yeovil
+Sat Feb 7 2004,Carlisle,2-1,1-1,Bury
+Sat Feb 7 2004,Huddersfield,0-2,0-1,Darlington
+Sat Feb 7 2004,Hull,2-1,0-0,York
+Sat Feb 7 2004,Kidderminster,0-1,0-0,Yeovil
+Sat Feb 7 2004,Leyton Orient,1-0,0-0,Oxford
+Sat Feb 7 2004,Lincoln,1-1,1-1,Boston
+Sat Feb 7 2004,Macclesfield,1-2,1-2,Cheltenham
+Sat Feb 7 2004,Northampton,2-0,1-0,Bristol Rvs
+Sat Feb 7 2004,Rochdale,3-0,2-0,Mansfield
+Sat Feb 7 2004,Scunthorpe,2-2,1-0,Doncaster
+Sat Feb 7 2004,Southend,1-0,1-0,Cambridge
+Sat Feb 7 2004,Swansea,1-2,0-1,Torquay
+Tue Feb 10 2004,Kidderminster,0-0,0-0,Cheltenham
+Wed Feb 11 2004,Oxford,3-2,2-2,Scunthorpe
+Sat Feb 14 2004,Bristol Rvs,0-3,0-0,Darlington
+Sat Feb 14 2004,Bury,1-0,1-0,Cambridge
+Sat Feb 14 2004,Carlisle,1-1,0-0,Hull
+Sat Feb 14 2004,Cheltenham,1-0,0-0,Boston
+Sat Feb 14 2004,Doncaster,1-0,1-0,Macclesfield
+Sat Feb 14 2004,Lincoln,1-1,1-0,Scunthorpe
+Sat Feb 14 2004,Northampton,3-1,0-1,Rochdale
+Sat Feb 14 2004,Southend,3-0,1-0,Kidderminster
+Sat Feb 14 2004,Torquay,0-1,0-0,Huddersfield
+Sat Feb 14 2004,Yeovil,1-0,1-0,Oxford
+Sat Feb 14 2004,York,1-2,0-1,Mansfield
+Tue Feb 17 2004,Bristol Rvs,1-1,0-0,Huddersfield
+Tue Feb 17 2004,Cambridge,2-2,0-1,Carlisle
+Tue Feb 17 2004,Darlington,1-2,0-0,Northampton
+Tue Feb 17 2004,York,1-4,0-1,Lincoln
+Wed Feb 18 2004,Boston,1-1,0-1,Swansea
+Sat Feb 21 2004,Boston,2-0,0-0,York
+Sat Feb 21 2004,Cambridge,3-1,2-1,Bristol Rvs
+Sat Feb 21 2004,Darlington,3-2,2-1,Yeovil
+Sat Feb 21 2004,Huddersfield,2-1,0-1,Lincoln
+Sat Feb 21 2004,Hull,0-1,0-1,Torquay
+Sat Feb 21 2004,Kidderminster,2-0,0-0,Swansea
+Sat Feb 21 2004,Leyton Orient,2-1,0-1,Southend
+Sat Feb 21 2004,Macclesfield,1-1,1-1,Carlisle
+Sat Feb 21 2004,Mansfield,1-2,1-0,Doncaster
+Sat Feb 21 2004,Oxford,1-1,0-0,Bury
+Sat Feb 21 2004,Rochdale,0-0,0-0,Cheltenham
+Sat Feb 21 2004,Scunthorpe,1-0,0-0,Northampton
+Tue Feb 24 2004,Bury,1-1,0-1,Southend
+Tue Feb 24 2004,Swansea,2-1,1-1,Leyton Orient
+Tue Feb 24 2004,Torquay,1-0,1-0,Scunthorpe
+Fri Feb 27 2004,Doncaster,5-0,2-0,Kidderminster
+Sat Feb 28 2004,Bristol Rvs,1-1,0-1,Oxford
+Sat Feb 28 2004,Bury,1-1,0-1,Darlington
+Sat Feb 28 2004,Cheltenham,4-2,1-0,Mansfield
+Sat Feb 28 2004,Lincoln,2-0,0-0,Hull
+Sat Feb 28 2004,Northampton,1-0,0-0,Leyton Orient
+Sat Feb 28 2004,Southend,1-0,0-0,Macclesfield
+Sat Feb 28 2004,Torquay,2-0,1-0,Boston
+Sat Feb 28 2004,Yeovil,4-1,3-1,Cambridge
+Tue Mar 2 2004,Cambridge,0-1,0-1,Swansea
+Tue Mar 2 2004,Huddersfield,3-1,1-0,Yeovil
+Tue Mar 2 2004,Kidderminster,2-1,1-0,Northampton
+Tue Mar 2 2004,Leyton Orient,1-1,0-1,Bristol Rvs
+Wed Mar 3 2004,Boston,0-2,0-1,Southend
+Wed Mar 3 2004,Oxford,0-0,0-0,York
+Fri Mar 5 2004,Swansea,1-1,1-0,Doncaster
+Sat Mar 6 2004,Boston,2-0,1-0,Rochdale
+Sat Mar 6 2004,Bristol Rvs,1-1,1-0,Southend
+Sat Mar 6 2004,Bury,1-1,0-0,Leyton Orient
+Sat Mar 6 2004,Cambridge,0-1,0-0,Northampton
+Sat Mar 6 2004,Cheltenham,3-2,1-2,Lincoln
+Sat Mar 6 2004,Kidderminster,4-1,3-1,York
+Sat Mar 6 2004,Macclesfield,0-1,0-0,Darlington
+Sat Mar 6 2004,Mansfield,1-0,0-0,Hull
+Sat Mar 6 2004,Oxford,0-1,0-1,Huddersfield
+Sat Mar 6 2004,Scunthorpe,3-0,2-0,Yeovil
+Sat Mar 6 2004,Torquay,4-1,2-0,Carlisle
+Tue Mar 9 2004,Carlisle,1-0,0-0,Huddersfield
+Tue Mar 9 2004,Darlington,2-1,2-1,Cheltenham
+Tue Mar 9 2004,Swansea,1-1,0-1,Rochdale
+Tue Mar 9 2004,York,1-3,0-2,Scunthorpe
+Sat Mar 13 2004,Carlisle,2-0,0-0,Oxford
+Sat Mar 13 2004,Darlington,3-4,1-2,Cambridge
+Sat Mar 13 2004,Doncaster,1-1,0-0,Cheltenham
+Sat Mar 13 2004,Huddersfield,4-0,1-0,Macclesfield
+Sat Mar 13 2004,Hull,2-1,2-0,Scunthorpe
+Sat Mar 13 2004,Leyton Orient,1-1,1-0,Kidderminster
+Sat Mar 13 2004,Lincoln,4-1,0-1,Mansfield
+Sat Mar 13 2004,Northampton,2-0,0-0,Boston
+Sat Mar 13 2004,Rochdale,0-0,0-0,Bury
+Sat Mar 13 2004,Southend,1-1,0-0,Swansea
+Sat Mar 13 2004,Yeovil,4-0,2-0,Bristol Rvs
+Sat Mar 13 2004,York,0-0,0-0,Torquay
+Tue Mar 16 2004,Bristol Rvs,2-2,1-2,Torquay
+Tue Mar 16 2004,Bury,3-0,2-0,Mansfield
+Tue Mar 16 2004,Cambridge,0-1,0-1,Boston
+Tue Mar 16 2004,Carlisle,1-1,0-0,Northampton
+Tue Mar 16 2004,Huddersfield,1-1,0-1,Rochdale
+Tue Mar 16 2004,Hull,3-0,1-0,Leyton Orient
+Tue Mar 16 2004,Lincoln,2-2,0-2,Southend
+Tue Mar 16 2004,Macclesfield,2-1,1-0,Swansea
+Tue Mar 16 2004,Scunthorpe,0-2,0-1,Kidderminster
+Tue Mar 16 2004,Yeovil,0-1,0-0,Doncaster
+Wed Mar 17 2004,Oxford,1-0,1-0,Cheltenham
+Sat Mar 20 2004,Boston,1-0,1-0,Bristol Rvs
+Sat Mar 20 2004,Cheltenham,1-2,1-0,Bury
+Sat Mar 20 2004,Doncaster,1-1,0-0,Darlington
+Sat Mar 20 2004,Kidderminster,1-4,0-3,Macclesfield
+Sat Mar 20 2004,Leyton Orient,0-2,0-1,Lincoln
+Sat Mar 20 2004,Rochdale,2-0,1-0,Carlisle
+Sat Mar 20 2004,Swansea,4-2,1-1,Scunthorpe
+Sat Mar 20 2004,Torquay,3-0,2-0,Cambridge
+Tue Mar 23 2004,Mansfield,1-1,0-1,Swansea
+Tue Mar 23 2004,Scunthorpe,2-3,1-1,Carlisle
+Sat Mar 27 2004,Bristol Rvs,3-0,2-0,York
+Sat Mar 27 2004,Bury,1-3,1-2,Boston
+Sat Mar 27 2004,Cambridge,2-1,2-0,Cheltenham
+Sat Mar 27 2004,Carlisle,1-2,0-0,Southend
+Sat Mar 27 2004,Darlington,1-1,1-0,Torquay
+Sat Mar 27 2004,Huddersfield,3-0,0-0,Swansea
+Sat Mar 27 2004,Hull,1-0,0-0,Rochdale
+Sat Mar 27 2004,Lincoln,1-1,0-0,Kidderminster
+Sat Mar 27 2004,Macclesfield,0-4,0-4,Northampton
+Sat Mar 27 2004,Oxford,0-0,0-0,Doncaster
+Sat Mar 27 2004,Scunthorpe,1-1,1-0,Leyton Orient
+Sat Mar 27 2004,Yeovil,1-1,0-0,Mansfield
+Tue Mar 30 2004,Macclesfield,0-0,0-0,Lincoln
+Tue Mar 30 2004,Mansfield,2-1,2-1,Torquay
+Tue Mar 30 2004,Rochdale,1-1,1-1,Doncaster
+Wed Mar 31 2004,Boston,1-2,0-1,Hull
+Fri Apr 2 2004,Southend,4-2,3-1,Scunthorpe
+Sat Apr 3 2004,Boston,1-0,1-0,Darlington
+Sat Apr 3 2004,Cheltenham,1-2,1-2,Bristol Rvs
+Sat Apr 3 2004,Doncaster,3-1,0-0,Bury
+Sat Apr 3 2004,Kidderminster,1-1,1-0,Hull
+Sat Apr 3 2004,Leyton Orient,1-1,1-1,Huddersfield
+Sat Apr 3 2004,Mansfield,1-1,0-0,Cambridge
+Sat Apr 3 2004,Northampton,2-1,0-1,Oxford
+Sat Apr 3 2004,Rochdale,0-3,0-0,Lincoln
+Sat Apr 3 2004,Swansea,1-2,1-1,Carlisle
+Sat Apr 3 2004,Torquay,2-2,1-2,Yeovil
+Sun Apr 4 2004,York,0-2,0-2,Macclesfield
+Tue Apr 6 2004,Mansfield,3-1,3-1,Oxford
+Fri Apr 9 2004,Bury,2-1,1-1,Torquay
+Fri Apr 9 2004,Cambridge,2-0,1-0,York
+Fri Apr 9 2004,Oxford,0-0,0-0,Boston
+Sat Apr 10 2004,Bristol Rvs,1-2,0-0,Doncaster
+Sat Apr 10 2004,Carlisle,1-0,0-0,Kidderminster
+Sat Apr 10 2004,Darlington,1-0,0-0,Mansfield
+Sat Apr 10 2004,Huddersfield,1-0,1-0,Southend
+Sat Apr 10 2004,Hull,2-3,1-3,Northampton
+Sat Apr 10 2004,Lincoln,2-1,0-1,Swansea
+Sat Apr 10 2004,Macclesfield,1-0,0-0,Leyton Orient
+Sat Apr 10 2004,Scunthorpe,2-2,2-2,Rochdale
+Sat Apr 10 2004,Yeovil,0-0,0-0,Cheltenham
+Mon Apr 12 2004,Boston,3-2,2-1,Yeovil
+Mon Apr 12 2004,Cheltenham,2-1,1-1,Scunthorpe
+Mon Apr 12 2004,Doncaster,2-0,0-0,Cambridge
+Mon Apr 12 2004,Kidderminster,2-1,1-0,Huddersfield
+Mon Apr 12 2004,Leyton Orient,1-1,0-0,Carlisle
+Mon Apr 12 2004,Mansfield,0-0,0-0,Bristol Rvs
+Mon Apr 12 2004,Northampton,1-1,1-0,Lincoln
+Mon Apr 12 2004,Rochdale,1-2,1-0,Macclesfield
+Mon Apr 12 2004,Southend,3-2,0-2,Darlington
+Mon Apr 12 2004,Swansea,2-3,1-1,Hull
+Mon Apr 12 2004,Torquay,3-0,1-0,Oxford
+Tue Apr 13 2004,York,1-1,1-1,Bury
+Sat Apr 17 2004,Boston,1-2,0-0,Mansfield
+Sat Apr 17 2004,Bristol Rvs,2-1,1-1,Swansea
+Sat Apr 17 2004,Cambridge,0-0,0-0,Kidderminster
+Sat Apr 17 2004,Carlisle,0-2,0-0,Lincoln
+Sat Apr 17 2004,Darlington,2-0,1-0,Oxford
+Sat Apr 17 2004,Huddersfield,3-2,1-2,Scunthorpe
+Sat Apr 17 2004,Macclesfield,1-1,0-1,Hull
+Sat Apr 17 2004,Northampton,2-2,1-2,Southend
+Sat Apr 17 2004,Rochdale,3-0,1-0,Leyton Orient
+Sat Apr 17 2004,Torquay,1-0,1-0,Doncaster
+Sat Apr 17 2004,Yeovil,2-1,0-1,Bury
+Sat Apr 17 2004,York,0-2,0-0,Cheltenham
+Tue Apr 20 2004,Northampton,0-1,0-0,Huddersfield
+Tue Apr 20 2004,Southend,2-2,2-1,Hull
+Tue Apr 20 2004,York,1-2,1-0,Yeovil
+Sat Apr 24 2004,Bury,0-0,0-0,Bristol Rvs
+Sat Apr 24 2004,Cheltenham,1-3,0-1,Torquay
+Sat Apr 24 2004,Doncaster,3-1,2-0,York
+Sat Apr 24 2004,Hull,0-0,0-0,Huddersfield
+Sat Apr 24 2004,Kidderminster,0-1,0-1,Rochdale
+Sat Apr 24 2004,Leyton Orient,1-3,0-0,Boston
+Sat Apr 24 2004,Lincoln,1-1,0-1,Darlington
+Sat Apr 24 2004,Mansfield,2-3,2-2,Carlisle
+Sat Apr 24 2004,Oxford,2-2,0-0,Cambridge
+Sat Apr 24 2004,Scunthorpe,1-0,0-0,Macclesfield
+Sat Apr 24 2004,Southend,0-2,0-2,Yeovil
+Sat Apr 24 2004,Swansea,0-2,0-2,Northampton
+Sat May 1 2004,Boston,0-0,0-0,Doncaster
+Sat May 1 2004,Bristol Rvs,3-1,1-1,Lincoln
+Sat May 1 2004,Cambridge,3-2,2-0,Scunthorpe
+Sat May 1 2004,Carlisle,1-1,1-0,Cheltenham
+Sat May 1 2004,Darlington,1-2,0-0,Swansea
+Sat May 1 2004,Huddersfield,1-3,1-2,Mansfield
+Sat May 1 2004,Macclesfield,2-1,2-1,Oxford
+Sat May 1 2004,Northampton,3-2,1-2,Bury
+Sat May 1 2004,Rochdale,1-1,0-0,Southend
+Sat May 1 2004,Torquay,1-1,1-0,Kidderminster
+Sat May 1 2004,Yeovil,1-2,0-1,Hull
+Sat May 1 2004,York,1-2,1-2,Leyton Orient
+Sat May 8 2004,Bury,2-0,0-0,Macclesfield
+Sat May 8 2004,Cheltenham,1-1,0-1,Huddersfield
+Sat May 8 2004,Doncaster,1-0,0-0,Carlisle
+Sat May 8 2004,Hull,3-0,0-0,Bristol Rvs
+Sat May 8 2004,Kidderminster,2-0,1-0,Boston
+Sat May 8 2004,Leyton Orient,0-1,0-1,Cambridge
+Sat May 8 2004,Lincoln,2-3,0-0,Yeovil
+Sat May 8 2004,Mansfield,1-2,0-1,Northampton
+Sat May 8 2004,Oxford,2-0,2-0,Rochdale
+Sat May 8 2004,Scunthorpe,0-1,0-1,Darlington
+Sat May 8 2004,Southend,1-2,1-2,Torquay
+Sat May 8 2004,Swansea,0-0,0-0,York

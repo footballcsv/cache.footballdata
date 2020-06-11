@@ -1,0 +1,445 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 2 2019,Luton,3-3,2-2,Middlesbrough
+Sat Aug 3 2019,Barnsley,1-0,1-0,Fulham
+Sat Aug 3 2019,Blackburn,1-2,0-1,Charlton
+Sat Aug 3 2019,Brentford,0-1,0-1,Birmingham
+Sat Aug 3 2019,Millwall,1-0,1-0,Preston
+Sat Aug 3 2019,Reading,1-3,0-1,Sheffield Weds
+Sat Aug 3 2019,Stoke,1-2,0-1,QPR
+Sat Aug 3 2019,Swansea,2-1,0-1,Hull
+Sat Aug 3 2019,Wigan,3-2,0-1,Cardiff
+Sat Aug 3 2019,Nott'm Forest,1-2,1-2,West Brom
+Sun Aug 4 2019,Bristol City,1-3,0-1,Leeds
+Mon Aug 5 2019,Huddersfield,1-2,1-2,Derby
+Sat Aug 10 2019,Leeds,1-1,0-0,Nott'm Forest
+Sat Aug 10 2019,Birmingham,1-1,0-0,Bristol City
+Sat Aug 10 2019,Cardiff,2-1,0-0,Luton
+Sat Aug 10 2019,Charlton,3-1,1-1,Stoke
+Sat Aug 10 2019,Derby,0-0,0-0,Swansea
+Sat Aug 10 2019,Fulham,2-0,1-0,Blackburn
+Sat Aug 10 2019,Hull,2-1,2-0,Reading
+Sat Aug 10 2019,Middlesbrough,0-1,0-0,Brentford
+Sat Aug 10 2019,Preston,3-0,2-0,Wigan
+Sat Aug 10 2019,QPR,1-1,0-0,Huddersfield
+Sat Aug 10 2019,Sheffield Weds,2-0,1-0,Barnsley
+Sat Aug 10 2019,West Brom,1-1,0-0,Millwall
+Fri Aug 16 2019,Huddersfield,1-2,0-0,Fulham
+Sat Aug 17 2019,Barnsley,2-2,1-1,Charlton
+Sat Aug 17 2019,Blackburn,1-0,1-0,Middlesbrough
+Sat Aug 17 2019,Brentford,1-1,0-0,Hull
+Sat Aug 17 2019,Bristol City,2-0,1-0,QPR
+Sat Aug 17 2019,Luton,1-2,1-0,West Brom
+Sat Aug 17 2019,Millwall,1-0,1-0,Sheffield Weds
+Sat Aug 17 2019,Nott'm Forest,3-0,2-0,Birmingham
+Sat Aug 17 2019,Stoke,2-2,1-1,Derby
+Sat Aug 17 2019,Swansea,3-2,1-1,Preston
+Sat Aug 17 2019,Wigan,0-2,0-1,Leeds
+Sun Aug 18 2019,Reading,3-0,2-0,Cardiff
+Tue Aug 20 2019,Birmingham,2-0,0-0,Barnsley
+Tue Aug 20 2019,Derby,1-2,0-2,Bristol City
+Tue Aug 20 2019,Hull,0-1,0-0,Blackburn
+Tue Aug 20 2019,Middlesbrough,1-0,1-0,Wigan
+Tue Aug 20 2019,Sheffield Weds,1-0,0-0,Luton
+Wed Aug 21 2019,Cardiff,2-1,1-0,Huddersfield
+Wed Aug 21 2019,Charlton,1-1,1-0,Nott'm Forest
+Wed Aug 21 2019,Fulham,4-0,2-0,Millwall
+Wed Aug 21 2019,Leeds,1-0,0-0,Brentford
+Wed Aug 21 2019,Preston,3-1,2-0,Stoke
+Wed Aug 21 2019,QPR,1-3,0-1,Swansea
+Wed Aug 21 2019,West Brom,1-1,0-0,Reading
+Sat Aug 24 2019,Derby,1-1,1-0,West Brom
+Sat Aug 24 2019,Barnsley,1-3,0-3,Luton
+Sat Aug 24 2019,Blackburn,0-0,0-0,Cardiff
+Sat Aug 24 2019,Charlton,1-0,1-0,Brentford
+Sat Aug 24 2019,Fulham,1-2,0-1,Nott'm Forest
+Sat Aug 24 2019,Huddersfield,0-2,0-0,Reading
+Sat Aug 24 2019,Hull,1-3,1-1,Bristol City
+Sat Aug 24 2019,Middlesbrough,1-1,0-0,Millwall
+Sat Aug 24 2019,Preston,2-1,1-0,Sheffield Weds
+Sat Aug 24 2019,QPR,3-1,0-1,Wigan
+Sat Aug 24 2019,Stoke,0-3,0-1,Leeds
+Sun Aug 25 2019,Swansea,3-0,0-0,Birmingham
+Fri Aug 30 2019,Cardiff,1-1,1-1,Fulham
+Sat Aug 31 2019,Bristol City,2-2,1-0,Middlesbrough
+Sat Aug 31 2019,Birmingham,2-1,0-0,Stoke
+Sat Aug 31 2019,Brentford,3-0,3-0,Derby
+Sat Aug 31 2019,Leeds,0-1,0-0,Swansea
+Sat Aug 31 2019,Luton,2-1,0-0,Huddersfield
+Sat Aug 31 2019,Millwall,1-1,1-1,Hull
+Sat Aug 31 2019,Nott'm Forest,1-1,0-1,Preston
+Sat Aug 31 2019,Reading,0-2,0-0,Charlton
+Sat Aug 31 2019,Sheffield Weds,1-2,1-0,QPR
+Sat Aug 31 2019,West Brom,3-2,3-2,Blackburn
+Sat Aug 31 2019,Wigan,0-0,0-0,Barnsley
+Fri Sep 13 2019,Derby,1-1,1-1,Cardiff
+Sat Sep 14 2019,Fulham,1-1,0-0,West Brom
+Sat Sep 14 2019,Blackburn,2-0,1-0,Millwall
+Sat Sep 14 2019,Charlton,0-1,0-0,Birmingham
+Sat Sep 14 2019,Hull,2-2,2-1,Wigan
+Sat Sep 14 2019,Middlesbrough,1-0,0-0,Reading
+Sat Sep 14 2019,Preston,2-0,1-0,Brentford
+Sat Sep 14 2019,QPR,3-2,3-1,Luton
+Sat Sep 14 2019,Stoke,1-2,1-0,Bristol City
+Sat Sep 14 2019,Swansea,0-1,0-0,Nott'm Forest
+Sun Sep 15 2019,Huddersfield,0-2,0-1,Sheffield Weds
+Sun Sep 15 2019,Barnsley,0-2,0-0,Leeds
+Sat Sep 21 2019,Leeds,1-1,1-0,Derby
+Sat Sep 21 2019,Birmingham,0-1,0-1,Preston
+Sat Sep 21 2019,Brentford,0-0,0-0,Stoke
+Sat Sep 21 2019,Bristol City,0-0,0-0,Swansea
+Sat Sep 21 2019,Cardiff,1-0,1-0,Middlesbrough
+Sat Sep 21 2019,Luton,0-3,0-0,Hull
+Sat Sep 21 2019,Millwall,1-2,0-0,QPR
+Sat Sep 21 2019,Nott'm Forest,1-0,0-0,Barnsley
+Sat Sep 21 2019,Reading,1-2,0-1,Blackburn
+Sat Sep 21 2019,Sheffield Weds,1-1,0-1,Fulham
+Sat Sep 21 2019,Wigan,2-0,1-0,Charlton
+Sun Sep 22 2019,West Brom,4-2,1-2,Huddersfield
+Fri Sep 27 2019,Fulham,2-0,0-0,Wigan
+Fri Sep 27 2019,Stoke,2-3,1-1,Nott'm Forest
+Sat Sep 28 2019,QPR,0-2,0-0,West Brom
+Sat Sep 28 2019,Blackburn,1-2,1-1,Luton
+Sat Sep 28 2019,Charlton,1-0,1-0,Leeds
+Sat Sep 28 2019,Derby,3-2,1-0,Birmingham
+Sat Sep 28 2019,Huddersfield,1-1,1-1,Millwall
+Sat Sep 28 2019,Hull,2-2,1-0,Cardiff
+Sat Sep 28 2019,Middlesbrough,1-4,1-4,Sheffield Weds
+Sat Sep 28 2019,Preston,3-3,1-2,Bristol City
+Sat Sep 28 2019,Swansea,1-1,1-0,Reading
+Sun Sep 29 2019,Barnsley,1-3,1-1,Brentford
+Tue Oct 1 2019,Blackburn,1-1,0-0,Nott'm Forest
+Tue Oct 1 2019,Hull,1-0,0-0,Sheffield Weds
+Tue Oct 1 2019,Leeds,1-0,1-0,West Brom
+Tue Oct 1 2019,Middlesbrough,1-1,1-1,Preston
+Tue Oct 1 2019,Wigan,1-0,0-0,Birmingham
+Tue Oct 1 2019,Reading,1-4,0-3,Fulham
+Tue Oct 1 2019,Stoke,0-1,0-0,Huddersfield
+Wed Oct 2 2019,Barnsley,2-2,1-2,Derby
+Wed Oct 2 2019,Brentford,1-1,0-0,Bristol City
+Wed Oct 2 2019,Cardiff,3-0,2-0,QPR
+Wed Oct 2 2019,Charlton,1-2,1-1,Swansea
+Wed Oct 2 2019,Luton,1-1,0-0,Millwall
+Fri Oct 4 2019,Birmingham,2-1,1-0,Middlesbrough
+Sat Oct 5 2019,Fulham,2-2,0-1,Charlton
+Sat Oct 5 2019,Bristol City,1-0,1-0,Reading
+Sat Oct 5 2019,Derby,2-0,1-0,Luton
+Sat Oct 5 2019,Huddersfield,3-0,0-0,Hull
+Sat Oct 5 2019,Millwall,2-1,2-0,Leeds
+Sat Oct 5 2019,Nott'm Forest,1-0,0-0,Brentford
+Sat Oct 5 2019,Preston,5-1,1-1,Barnsley
+Sat Oct 5 2019,QPR,4-2,1-0,Blackburn
+Sat Oct 5 2019,Sheffield Weds,1-0,0-0,Wigan
+Sat Oct 5 2019,Swansea,1-2,1-1,Stoke
+Sat Oct 5 2019,West Brom,4-2,2-0,Cardiff
+Fri Oct 18 2019,Cardiff,1-1,0-1,Sheffield Weds
+Sat Oct 19 2019,Blackburn,2-2,2-1,Huddersfield
+Sat Oct 19 2019,Barnsley,1-1,0-0,Swansea
+Sat Oct 19 2019,Brentford,3-2,0-1,Millwall
+Sat Oct 19 2019,Charlton,3-0,1-0,Derby
+Sat Oct 19 2019,Hull,2-3,1-1,QPR
+Sat Oct 19 2019,Leeds,1-0,0-0,Birmingham
+Sat Oct 19 2019,Luton,3-0,0-0,Bristol City
+Sat Oct 19 2019,Middlesbrough,0-1,0-0,West Brom
+Sat Oct 19 2019,Reading,1-0,0-0,Preston
+Sat Oct 19 2019,Stoke,2-0,1-0,Fulham
+Sun Oct 20 2019,Wigan,1-0,1-0,Nott'm Forest
+Tue Oct 22 2019,Birmingham,1-0,1-0,Blackburn
+Tue Oct 22 2019,Millwall,2-2,1-1,Cardiff
+Tue Oct 22 2019,Preston,1-1,0-0,Leeds
+Tue Oct 22 2019,QPR,2-2,1-1,Reading
+Tue Oct 22 2019,Sheffield Weds,1-0,1-0,Stoke
+Tue Oct 22 2019,Swansea,0-3,0-2,Brentford
+Tue Oct 22 2019,West Brom,2-2,0-2,Barnsley
+Wed Oct 23 2019,Bristol City,2-1,0-0,Charlton
+Wed Oct 23 2019,Derby,1-0,0-0,Wigan
+Wed Oct 23 2019,Fulham,3-2,1-0,Luton
+Wed Oct 23 2019,Huddersfield,0-0,0-0,Middlesbrough
+Wed Oct 23 2019,Nott'm Forest,1-2,0-1,Hull
+Sat Oct 26 2019,Sheffield Weds,0-0,0-0,Leeds
+Sat Oct 26 2019,Birmingham,2-1,1-0,Luton
+Sat Oct 26 2019,Huddersfield,2-1,1-0,Barnsley
+Sat Oct 26 2019,Hull,2-0,0-0,Derby
+Sat Oct 26 2019,Middlesbrough,0-0,0-0,Fulham
+Sat Oct 26 2019,Millwall,2-0,1-0,Stoke
+Sat Oct 26 2019,Preston,3-2,0-2,Blackburn
+Sat Oct 26 2019,West Brom,2-2,1-0,Charlton
+Sun Oct 27 2019,Swansea,1-0,1-0,Cardiff
+Sun Oct 27 2019,Bristol City,2-2,1-1,Wigan
+Mon Oct 28 2019,QPR,1-3,0-1,Brentford
+Fri Nov 1 2019,Barnsley,2-2,0-1,Bristol City
+Sat Nov 2 2019,Wigan,1-2,1-1,Swansea
+Sat Nov 2 2019,Blackburn,2-1,0-0,Sheffield Weds
+Sat Nov 2 2019,Brentford,0-1,0-0,Huddersfield
+Sat Nov 2 2019,Cardiff,4-2,2-1,Birmingham
+Sat Nov 2 2019,Derby,2-0,1-0,Middlesbrough
+Sat Nov 2 2019,Fulham,0-3,0-1,Hull
+Sat Nov 2 2019,Leeds,2-0,1-0,QPR
+Sat Nov 2 2019,Luton,1-2,0-1,Nott'm Forest
+Sat Nov 2 2019,Reading,2-1,2-0,Millwall
+Sun Nov 3 2019,Charlton,0-1,0-0,Preston
+Mon Nov 4 2019,Stoke,0-2,0-1,West Brom
+Sat Nov 9 2019,Nott'm Forest,1-0,0-0,Derby
+Sat Nov 9 2019,Barnsley,2-4,0-2,Stoke
+Sat Nov 9 2019,Birmingham,0-1,0-0,Fulham
+Sat Nov 9 2019,Hull,0-1,0-1,West Brom
+Sat Nov 9 2019,Leeds,2-1,2-1,Blackburn
+Sat Nov 9 2019,Millwall,2-1,1-0,Charlton
+Sat Nov 9 2019,Preston,3-1,2-0,Huddersfield
+Sat Nov 9 2019,QPR,2-2,2-1,Middlesbrough
+Sat Nov 9 2019,Reading,3-0,2-0,Luton
+Sat Nov 9 2019,Sheffield Weds,2-2,0-1,Swansea
+Sat Nov 9 2019,Wigan,0-3,0-1,Brentford
+Sun Nov 10 2019,Cardiff,0-1,0-0,Bristol City
+Fri Nov 22 2019,Fulham,2-1,1-1,QPR
+Sat Nov 23 2019,Charlton,2-2,2-0,Cardiff
+Sat Nov 23 2019,Blackburn,3-2,1-0,Barnsley
+Sat Nov 23 2019,Brentford,1-0,0-0,Reading
+Sat Nov 23 2019,Bristol City,0-0,0-0,Nott'm Forest
+Sat Nov 23 2019,Derby,1-0,1-0,Preston
+Sat Nov 23 2019,Huddersfield,1-1,0-0,Birmingham
+Sat Nov 23 2019,Luton,1-2,0-0,Leeds
+Sat Nov 23 2019,Stoke,2-1,0-1,Wigan
+Sat Nov 23 2019,Swansea,0-1,0-0,Millwall
+Sat Nov 23 2019,West Brom,2-1,1-0,Sheffield Weds
+Sun Nov 24 2019,Middlesbrough,2-2,2-0,Hull
+Tue Nov 26 2019,Cardiff,1-0,1-0,Stoke
+Tue Nov 26 2019,Fulham,3-0,2-0,Derby
+Tue Nov 26 2019,Huddersfield,1-1,1-1,Swansea
+Tue Nov 26 2019,Luton,2-1,1-1,Charlton
+Tue Nov 26 2019,Millwall,2-2,1-1,Wigan
+Tue Nov 26 2019,Reading,0-1,0-0,Leeds
+Wed Nov 27 2019,Blackburn,1-0,1-0,Brentford
+Wed Nov 27 2019,Hull,4-0,1-0,Preston
+Wed Nov 27 2019,Middlesbrough,1-0,0-0,Barnsley
+Wed Nov 27 2019,QPR,0-4,0-1,Nott'm Forest
+Wed Nov 27 2019,Sheffield Weds,1-1,0-0,Birmingham
+Wed Nov 27 2019,West Brom,4-1,2-0,Bristol City
+Fri Nov 29 2019,Swansea,1-2,0-2,Fulham
+Sat Nov 30 2019,Charlton,1-3,1-1,Sheffield Weds
+Sat Nov 30 2019,Barnsley,3-1,1-0,Hull
+Sat Nov 30 2019,Birmingham,1-1,0-0,Millwall
+Sat Nov 30 2019,Brentford,7-0,5-0,Luton
+Sat Nov 30 2019,Bristol City,5-2,4-1,Huddersfield
+Sat Nov 30 2019,Derby,1-1,1-1,QPR
+Sat Nov 30 2019,Leeds,4-0,2-0,Middlesbrough
+Sat Nov 30 2019,Nott'm Forest,0-1,0-1,Cardiff
+Sat Nov 30 2019,Stoke,1-2,0-1,Blackburn
+Sat Nov 30 2019,Wigan,1-3,1-0,Reading
+Mon Dec 2 2019,Preston,0-1,0-0,West Brom
+Fri Dec 6 2019,Millwall,2-2,1-0,Nott'm Forest
+Sat Dec 7 2019,Huddersfield,0-2,0-0,Leeds
+Sat Dec 7 2019,Blackburn,1-0,0-0,Derby
+Sat Dec 7 2019,Cardiff,3-2,1-1,Barnsley
+Sat Dec 7 2019,Fulham,1-2,0-1,Bristol City
+Sat Dec 7 2019,Hull,2-1,0-1,Stoke
+Sat Dec 7 2019,Luton,2-1,0-1,Wigan
+Sat Dec 7 2019,Middlesbrough,1-0,1-0,Charlton
+Sat Dec 7 2019,QPR,2-0,1-0,Preston
+Sat Dec 7 2019,Reading,2-3,1-1,Birmingham
+Sat Dec 7 2019,Sheffield Weds,2-1,0-1,Brentford
+Sun Dec 8 2019,West Brom,5-1,3-1,Swansea
+Tue Dec 10 2019,Bristol City,1-2,0-1,Millwall
+Tue Dec 10 2019,Charlton,0-1,0-0,Huddersfield
+Tue Dec 10 2019,Leeds,2-0,0-0,Hull
+Tue Dec 10 2019,Nott'm Forest,1-1,0-0,Middlesbrough
+Tue Dec 10 2019,Preston,2-1,1-0,Fulham
+Tue Dec 10 2019,Stoke,3-0,2-0,Luton
+Wed Dec 11 2019,Barnsley,1-1,0-0,Reading
+Wed Dec 11 2019,Birmingham,0-2,0-1,QPR
+Wed Dec 11 2019,Brentford,2-1,1-0,Cardiff
+Wed Dec 11 2019,Derby,1-1,0-1,Sheffield Weds
+Wed Dec 11 2019,Swansea,1-1,1-1,Blackburn
+Wed Dec 11 2019,Wigan,1-1,0-0,West Brom
+Fri Dec 13 2019,Charlton,2-2,1-0,Hull
+Sat Dec 14 2019,Birmingham,2-3,1-1,West Brom
+Sat Dec 14 2019,Barnsley,5-3,2-1,QPR
+Sat Dec 14 2019,Brentford,1-0,1-0,Fulham
+Sat Dec 14 2019,Bristol City,0-2,0-1,Blackburn
+Sat Dec 14 2019,Derby,0-1,0-1,Millwall
+Sat Dec 14 2019,Leeds,3-3,2-0,Cardiff
+Sat Dec 14 2019,Nott'm Forest,0-4,0-4,Sheffield Weds
+Sat Dec 14 2019,Preston,2-1,1-1,Luton
+Sat Dec 14 2019,Stoke,0-0,0-0,Reading
+Sat Dec 14 2019,Swansea,3-1,1-0,Middlesbrough
+Sat Dec 14 2019,Wigan,1-1,1-0,Huddersfield
+Fri Dec 20 2019,Middlesbrough,2-1,0-0,Stoke
+Sat Dec 21 2019,Cardiff,0-0,0-0,Preston
+Sat Dec 21 2019,Fulham,2-1,1-0,Leeds
+Sat Dec 21 2019,Huddersfield,2-1,1-0,Nott'm Forest
+Sat Dec 21 2019,Hull,3-0,1-0,Birmingham
+Sat Dec 21 2019,Luton,0-1,0-0,Swansea
+Sat Dec 21 2019,Millwall,1-2,0-1,Barnsley
+Sat Dec 21 2019,QPR,2-2,1-0,Charlton
+Sat Dec 21 2019,Reading,3-0,1-0,Derby
+Sat Dec 21 2019,West Brom,1-1,1-1,Brentford
+Sun Dec 22 2019,Sheffield Weds,1-0,0-0,Bristol City
+Mon Dec 23 2019,Blackburn,0-0,0-0,Wigan
+Thu Dec 26 2019,Barnsley,1-1,0-1,West Brom
+Thu Dec 26 2019,Blackburn,1-1,0-0,Birmingham
+Thu Dec 26 2019,Brentford,3-1,2-0,Swansea
+Thu Dec 26 2019,Cardiff,1-1,0-0,Millwall
+Thu Dec 26 2019,Charlton,3-2,1-0,Bristol City
+Thu Dec 26 2019,Hull,0-2,0-1,Nott'm Forest
+Thu Dec 26 2019,Luton,3-3,2-1,Fulham
+Thu Dec 26 2019,Middlesbrough,1-0,1-0,Huddersfield
+Thu Dec 26 2019,Stoke,3-2,1-0,Sheffield Weds
+Thu Dec 26 2019,Wigan,1-1,0-0,Derby
+Thu Dec 26 2019,Leeds,1-1,0-1,Preston
+Thu Dec 26 2019,Reading,1-0,0-0,QPR
+Sun Dec 29 2019,Birmingham,4-5,1-2,Leeds
+Sun Dec 29 2019,Bristol City,3-0,2-0,Luton
+Sun Dec 29 2019,Fulham,1-0,1-0,Stoke
+Sun Dec 29 2019,Huddersfield,2-1,1-1,Blackburn
+Sun Dec 29 2019,Millwall,1-0,1-0,Brentford
+Sun Dec 29 2019,Nott'm Forest,1-0,0-0,Wigan
+Sun Dec 29 2019,Preston,0-2,0-2,Reading
+Sun Dec 29 2019,QPR,1-2,1-1,Hull
+Sun Dec 29 2019,Sheffield Weds,1-2,1-2,Cardiff
+Sun Dec 29 2019,Swansea,0-0,0-0,Barnsley
+Sun Dec 29 2019,West Brom,0-2,0-1,Middlesbrough
+Mon Dec 30 2019,Derby,2-1,1-0,Charlton
+Wed Jan 1 2020,Millwall,3-1,0-1,Luton
+Wed Jan 1 2020,Birmingham,2-3,1-1,Wigan
+Wed Jan 1 2020,Bristol City,0-4,0-2,Brentford
+Wed Jan 1 2020,Fulham,1-2,0-1,Reading
+Wed Jan 1 2020,Huddersfield,2-5,0-1,Stoke
+Wed Jan 1 2020,Nott'm Forest,3-2,2-1,Blackburn
+Wed Jan 1 2020,Preston,0-2,0-1,Middlesbrough
+Wed Jan 1 2020,QPR,6-1,3-0,Cardiff
+Wed Jan 1 2020,Sheffield Weds,0-1,0-0,Hull
+Wed Jan 1 2020,West Brom,1-1,1-0,Leeds
+Thu Jan 2 2020,Derby,2-1,1-0,Barnsley
+Thu Jan 2 2020,Swansea,1-0,1-0,Charlton
+Sat Jan 11 2020,Brentford,3-1,3-0,QPR
+Sat Jan 11 2020,Barnsley,2-1,1-0,Huddersfield
+Sat Jan 11 2020,Blackburn,1-1,1-1,Preston
+Sat Jan 11 2020,Charlton,2-2,1-1,West Brom
+Sat Jan 11 2020,Hull,0-1,0-1,Fulham
+Sat Jan 11 2020,Leeds,0-2,0-0,Sheffield Weds
+Sat Jan 11 2020,Luton,1-2,0-1,Birmingham
+Sat Jan 11 2020,Middlesbrough,2-2,1-0,Derby
+Sat Jan 11 2020,Reading,1-1,0-0,Nott'm Forest
+Sat Jan 11 2020,Stoke,0-0,0-0,Millwall
+Sat Jan 11 2020,Wigan,0-2,0-0,Bristol City
+Sun Jan 12 2020,Cardiff,0-0,0-0,Swansea
+Fri Jan 17 2020,Fulham,1-0,1-0,Middlesbrough
+Sat Jan 18 2020,QPR,1-0,1-0,Leeds
+Sat Jan 18 2020,Birmingham,1-1,1-0,Cardiff
+Sat Jan 18 2020,Bristol City,1-0,0-0,Barnsley
+Sat Jan 18 2020,Derby,1-0,0-0,Hull
+Sat Jan 18 2020,Huddersfield,0-0,0-0,Brentford
+Sat Jan 18 2020,Millwall,2-0,0-0,Reading
+Sat Jan 18 2020,Preston,2-1,1-1,Charlton
+Sat Jan 18 2020,Sheffield Weds,0-5,0-3,Blackburn
+Sat Jan 18 2020,Swansea,2-1,1-1,Wigan
+Sun Jan 19 2020,Nott'm Forest,3-1,1-1,Luton
+Mon Jan 20 2020,West Brom,0-1,0-1,Stoke
+Tue Jan 21 2020,Barnsley,0-3,0-3,Preston
+Tue Jan 21 2020,Middlesbrough,1-1,0-1,Birmingham
+Wed Jan 22 2020,Charlton,0-0,0-0,Fulham
+Wed Jan 22 2020,Nott'm Forest,1-1,0-0,Reading
+Sat Jan 25 2020,Stoke,2-0,0-0,Swansea
+Tue Jan 28 2020,Blackburn,2-1,2-1,QPR
+Tue Jan 28 2020,Brentford,0-1,0-1,Nott'm Forest
+Tue Jan 28 2020,Cardiff,2-1,0-0,West Brom
+Tue Jan 28 2020,Hull,1-2,0-1,Huddersfield
+Tue Jan 28 2020,Leeds,3-2,0-2,Millwall
+Tue Jan 28 2020,Luton,3-2,0-0,Derby
+Tue Jan 28 2020,Wigan,2-1,0-1,Sheffield Weds
+Tue Jan 28 2020,Reading,0-1,0-0,Bristol City
+Fri Jan 31 2020,Cardiff,1-1,0-1,Reading
+Fri Jan 31 2020,Derby,4-0,2-0,Stoke
+Sat Feb 1 2020,Hull,1-5,1-2,Brentford
+Sat Feb 1 2020,Birmingham,2-1,1-1,Nott'm Forest
+Sat Feb 1 2020,Charlton,2-1,2-0,Barnsley
+Sat Feb 1 2020,Fulham,3-2,3-2,Huddersfield
+Sat Feb 1 2020,Leeds,0-1,0-0,Wigan
+Sat Feb 1 2020,Middlesbrough,1-1,0-0,Blackburn
+Sat Feb 1 2020,Preston,1-1,1-1,Swansea
+Sat Feb 1 2020,QPR,0-1,0-1,Bristol City
+Sat Feb 1 2020,Sheffield Weds,0-0,0-0,Millwall
+Sat Feb 1 2020,West Brom,2-0,1-0,Luton
+Fri Feb 7 2020,Bristol City,1-3,1-2,Birmingham
+Sat Feb 8 2020,Wigan,1-2,0-1,Preston
+Sat Feb 8 2020,Barnsley,1-1,1-1,Sheffield Weds
+Sat Feb 8 2020,Blackburn,0-1,0-0,Fulham
+Sat Feb 8 2020,Brentford,3-2,1-0,Middlesbrough
+Sat Feb 8 2020,Huddersfield,2-0,0-0,QPR
+Sat Feb 8 2020,Luton,0-1,0-0,Cardiff
+Sat Feb 8 2020,Reading,1-1,0-0,Hull
+Sat Feb 8 2020,Stoke,3-1,1-1,Charlton
+Sat Feb 8 2020,Swansea,2-3,0-1,Derby
+Sat Feb 8 2020,Nott'm Forest,2-0,1-0,Leeds
+Sun Feb 9 2020,Millwall,0-2,0-1,West Brom
+Tue Feb 11 2020,Barnsley,0-1,0-0,Birmingham
+Tue Feb 11 2020,Blackburn,3-0,0-0,Hull
+Tue Feb 11 2020,Brentford,1-1,1-1,Leeds
+Tue Feb 11 2020,Nott'm Forest,0-1,0-1,Charlton
+Tue Feb 11 2020,Swansea,0-0,0-0,QPR
+Tue Feb 11 2020,Wigan,2-2,1-0,Middlesbrough
+Wed Feb 12 2020,Bristol City,3-2,2-0,Derby
+Wed Feb 12 2020,Huddersfield,0-3,0-2,Cardiff
+Wed Feb 12 2020,Luton,1-0,1-0,Sheffield Weds
+Wed Feb 12 2020,Millwall,1-1,1-1,Fulham
+Wed Feb 12 2020,Reading,1-2,1-1,West Brom
+Wed Feb 12 2020,Stoke,0-2,0-0,Preston
+Fri Feb 14 2020,Hull,4-4,1-1,Swansea
+Sat Feb 15 2020,West Brom,2-2,1-1,Nott'm Forest
+Sat Feb 15 2020,Birmingham,1-1,1-1,Brentford
+Sat Feb 15 2020,Cardiff,2-2,1-2,Wigan
+Sat Feb 15 2020,Charlton,0-2,0-2,Blackburn
+Sat Feb 15 2020,Derby,1-1,0-0,Huddersfield
+Sat Feb 15 2020,Fulham,0-3,0-1,Barnsley
+Sat Feb 15 2020,Leeds,1-0,1-0,Bristol City
+Sat Feb 15 2020,Middlesbrough,0-1,0-1,Luton
+Sat Feb 15 2020,Preston,0-1,0-0,Millwall
+Sat Feb 15 2020,QPR,4-2,2-2,Stoke
+Sat Feb 15 2020,Sheffield Weds,0-3,0-1,Reading
+Fri Feb 21 2020,Derby,1-1,0-0,Fulham
+Sat Feb 22 2020,Brentford,2-2,0-1,Blackburn
+Sat Feb 22 2020,Barnsley,1-0,0-0,Middlesbrough
+Sat Feb 22 2020,Birmingham,3-3,2-2,Sheffield Weds
+Sat Feb 22 2020,Bristol City,0-3,0-2,West Brom
+Sat Feb 22 2020,Charlton,3-1,1-1,Luton
+Sat Feb 22 2020,Leeds,1-0,0-0,Reading
+Sat Feb 22 2020,Nott'm Forest,0-0,0-0,QPR
+Sat Feb 22 2020,Preston,2-1,0-1,Hull
+Sat Feb 22 2020,Stoke,2-0,1-0,Cardiff
+Sat Feb 22 2020,Swansea,3-1,1-0,Huddersfield
+Sat Feb 22 2020,Wigan,1-0,0-0,Millwall
+Tue Feb 25 2020,Cardiff,0-1,0-0,Nott'm Forest
+Tue Feb 25 2020,Huddersfield,2-1,1-0,Bristol City
+Tue Feb 25 2020,Luton,2-1,2-0,Brentford
+Tue Feb 25 2020,QPR,2-1,1-1,Derby
+Tue Feb 25 2020,West Brom,2-0,2-0,Preston
+Wed Feb 26 2020,Blackburn,0-0,0-0,Stoke
+Wed Feb 26 2020,Fulham,1-0,0-0,Swansea
+Wed Feb 26 2020,Hull,0-1,0-1,Barnsley
+Wed Feb 26 2020,Middlesbrough,0-1,0-1,Leeds
+Wed Feb 26 2020,Millwall,0-0,0-0,Birmingham
+Wed Feb 26 2020,Sheffield Weds,1-0,0-0,Charlton
+Wed Feb 26 2020,Reading,0-3,0-1,Wigan
+Sat Feb 29 2020,Hull,0-4,0-1,Leeds
+Sat Feb 29 2020,Blackburn,2-2,1-1,Swansea
+Sat Feb 29 2020,Cardiff,2-2,2-2,Brentford
+Sat Feb 29 2020,Fulham,2-0,0-0,Preston
+Sat Feb 29 2020,Huddersfield,4-0,1-0,Charlton
+Sat Feb 29 2020,Luton,1-1,0-1,Stoke
+Sat Feb 29 2020,Millwall,1-1,0-1,Bristol City
+Sat Feb 29 2020,QPR,2-2,0-1,Birmingham
+Sat Feb 29 2020,Reading,2-0,1-0,Barnsley
+Sat Feb 29 2020,Sheffield Weds,1-3,0-3,Derby
+Sat Feb 29 2020,West Brom,0-1,0-0,Wigan
+Mon Mar 2 2020,Middlesbrough,2-2,2-1,Nott'm Forest
+Fri Mar 6 2020,Nott'm Forest,0-3,0-3,Millwall
+Sat Mar 7 2020,Bristol City,1-1,0-0,Fulham
+Sat Mar 7 2020,Barnsley,0-2,0-0,Cardiff
+Sat Mar 7 2020,Birmingham,1-3,1-0,Reading
+Sat Mar 7 2020,Brentford,5-0,3-0,Sheffield Weds
+Sat Mar 7 2020,Charlton,0-1,0-1,Middlesbrough
+Sat Mar 7 2020,Leeds,2-0,1-0,Huddersfield
+Sat Mar 7 2020,Preston,1-3,1-0,QPR
+Sat Mar 7 2020,Stoke,5-1,3-0,Hull
+Sat Mar 7 2020,Swansea,0-0,0-0,West Brom
+Sat Mar 7 2020,Wigan,0-0,0-0,Luton
+Sun Mar 8 2020,Derby,3-0,2-0,Blackburn

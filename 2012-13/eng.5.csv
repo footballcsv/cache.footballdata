@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 10 2012,Hereford,2-1,1-0,Macclesfield
+Sat Aug 11 2012,Barrow,0-0,0-0,Telford United
+Sat Aug 11 2012,Braintree Town,2-2,0-2,Hyde United
+Sat Aug 11 2012,Dartford,2-3,1-2,Tamworth
+Sat Aug 11 2012,Forest Green,1-1,0-1,Cambridge
+Sat Aug 11 2012,Lincoln,1-0,1-0,Kidderminster
+Sat Aug 11 2012,Luton,2-2,0-2,Gateshead
+Sat Aug 11 2012,Mansfield,3-4,0-2,Newport County
+Sat Aug 11 2012,Nuneaton Town,4-5,2-3,Ebbsfleet
+Sat Aug 11 2012,Southport,1-1,0-0,Grimsby
+Sat Aug 11 2012,Stockport,1-0,1-0,Alfreton Town
+Sat Aug 11 2012,Wrexham,3-1,2-0,Woking
+Tue Aug 14 2012,Alfreton Town,3-3,1-1,Southport
+Tue Aug 14 2012,Cambridge,2-1,1-1,Lincoln
+Tue Aug 14 2012,Ebbsfleet,0-1,0-0,Braintree Town
+Tue Aug 14 2012,Gateshead,4-1,1-1,Mansfield
+Tue Aug 14 2012,Grimsby,1-2,0-0,Stockport
+Tue Aug 14 2012,Hyde United,0-0,0-0,Barrow
+Tue Aug 14 2012,Kidderminster,0-2,0-2,Luton
+Tue Aug 14 2012,Macclesfield,2-0,1-0,Wrexham
+Tue Aug 14 2012,Newport County,4-0,2-0,Nuneaton Town
+Tue Aug 14 2012,Tamworth,2-2,0-2,Hereford
+Tue Aug 14 2012,Telford United,1-2,0-2,Forest Green
+Tue Aug 14 2012,Woking,1-0,0-0,Dartford
+Fri Aug 17 2012,Hyde United,1-2,0-0,Luton
+Sat Aug 18 2012,Alfreton Town,0-3,0-0,Hereford
+Sat Aug 18 2012,Cambridge,2-0,0-0,Southport
+Sat Aug 18 2012,Ebbsfleet,1-1,0-0,Wrexham
+Sat Aug 18 2012,Gateshead,1-1,0-0,Forest Green
+Sat Aug 18 2012,Grimsby,0-0,0-0,Nuneaton Town
+Sat Aug 18 2012,Kidderminster,2-3,1-1,Mansfield
+Sat Aug 18 2012,Macclesfield,2-0,1-0,Dartford
+Sat Aug 18 2012,Newport County,2-1,2-0,Lincoln
+Sat Aug 18 2012,Tamworth,1-0,1-0,Stockport
+Sat Aug 18 2012,Telford United,3-0,2-0,Braintree Town
+Sat Aug 18 2012,Woking,3-1,1-1,Barrow
+Fri Aug 24 2012,Stockport,1-2,1-0,Gateshead
+Sat Aug 25 2012,Barrow,1-3,0-1,Alfreton Town
+Sat Aug 25 2012,Braintree Town,1-2,0-0,Newport County
+Sat Aug 25 2012,Dartford,1-0,1-0,Kidderminster
+Sat Aug 25 2012,Forest Green,3-1,0-1,Woking
+Sat Aug 25 2012,Hereford,4-2,2-0,Ebbsfleet
+Sat Aug 25 2012,Lincoln,2-3,1-1,Macclesfield
+Sat Aug 25 2012,Luton,0-1,0-1,Telford United
+Sat Aug 25 2012,Mansfield,1-0,1-0,Hyde United
+Sat Aug 25 2012,Nuneaton Town,2-2,0-0,Cambridge
+Sat Aug 25 2012,Southport,0-3,0-2,Tamworth
+Sat Aug 25 2012,Wrexham,0-0,0-0,Grimsby
+Mon Aug 27 2012,Alfreton Town,0-3,0-0,Nuneaton Town
+Mon Aug 27 2012,Cambridge,1-2,0-0,Dartford
+Mon Aug 27 2012,Ebbsfleet,1-3,0-2,Luton
+Mon Aug 27 2012,Gateshead,1-1,1-0,Lincoln
+Mon Aug 27 2012,Grimsby,4-1,2-0,Mansfield
+Mon Aug 27 2012,Hyde United,0-2,0-1,Southport
+Mon Aug 27 2012,Kidderminster,0-1,0-0,Forest Green
+Mon Aug 27 2012,Macclesfield,2-0,1-0,Barrow
+Mon Aug 27 2012,Tamworth,0-1,0-1,Wrexham
+Mon Aug 27 2012,Telford United,2-2,0-1,Stockport
+Tue Aug 28 2012,Newport County,2-0,0-0,Hereford
+Tue Aug 28 2012,Woking,1-4,1-1,Braintree Town
+Sat Sep 1 2012,Barrow,1-1,0-1,Kidderminster
+Sat Sep 1 2012,Braintree Town,2-1,1-1,Tamworth
+Sat Sep 1 2012,Dartford,5-1,3-0,Alfreton Town
+Sat Sep 1 2012,Forest Green,3-1,2-0,Hyde United
+Sat Sep 1 2012,Hereford,0-2,0-2,Grimsby
+Sat Sep 1 2012,Lincoln,1-1,1-0,Ebbsfleet
+Sat Sep 1 2012,Luton,4-1,2-0,Macclesfield
+Sat Sep 1 2012,Mansfield,3-1,2-0,Woking
+Sat Sep 1 2012,Nuneaton Town,0-1,0-0,Gateshead
+Sat Sep 1 2012,Southport,0-3,0-1,Telford United
+Sat Sep 1 2012,Stockport,1-1,1-1,Cambridge
+Sat Sep 1 2012,Wrexham,2-0,1-0,Newport County
+Tue Sep 4 2012,Barrow,2-2,1-0,Grimsby
+Tue Sep 4 2012,Braintree Town,1-1,1-0,Kidderminster
+Tue Sep 4 2012,Dartford,2-1,0-0,Newport County
+Tue Sep 4 2012,Forest Green,4-1,4-1,Ebbsfleet
+Tue Sep 4 2012,Hereford,2-1,2-0,Woking
+Tue Sep 4 2012,Lincoln,1-2,1-0,Alfreton Town
+Tue Sep 4 2012,Luton,3-2,1-1,Cambridge
+Tue Sep 4 2012,Mansfield,2-0,1-0,Tamworth
+Tue Sep 4 2012,Nuneaton Town,3-1,1-1,Telford United
+Tue Sep 4 2012,Southport,2-1,0-0,Gateshead
+Tue Sep 4 2012,Stockport,3-4,2-2,Macclesfield
+Tue Sep 4 2012,Wrexham,2-0,0-0,Hyde United
+Sat Sep 8 2012,Alfreton Town,3-0,2-0,Luton
+Sat Sep 8 2012,Cambridge,1-4,0-1,Wrexham
+Sat Sep 8 2012,Ebbsfleet,3-1,0-1,Mansfield
+Sat Sep 8 2012,Gateshead,2-0,1-0,Dartford
+Sat Sep 8 2012,Grimsby,1-0,0-0,Forest Green
+Sat Sep 8 2012,Hyde United,5-2,1-1,Hereford
+Sat Sep 8 2012,Kidderminster,2-2,1-0,Southport
+Sat Sep 8 2012,Macclesfield,2-1,1-1,Braintree Town
+Sat Sep 8 2012,Newport County,0-0,0-0,Stockport
+Sat Sep 8 2012,Tamworth,1-3,1-1,Barrow
+Sat Sep 8 2012,Telford United,1-1,0-1,Lincoln
+Sat Sep 8 2012,Woking,6-1,2-0,Nuneaton Town
+Sat Sep 15 2012,Barrow,0-3,0-1,Newport County
+Sat Sep 15 2012,Cambridge,3-3,0-0,Telford United
+Sat Sep 15 2012,Dartford,4-0,1-0,Hereford
+Sat Sep 15 2012,Forest Green,1-1,1-0,Alfreton Town
+Sat Sep 15 2012,Gateshead,0-2,0-1,Tamworth
+Sat Sep 15 2012,Kidderminster,0-0,0-0,Grimsby
+Sat Sep 15 2012,Lincoln,3-2,1-0,Hyde United
+Sat Sep 15 2012,Luton,0-0,0-0,Wrexham
+Sat Sep 15 2012,Mansfield,2-0,1-0,Braintree Town
+Sat Sep 15 2012,Nuneaton Town,3-3,2-0,Macclesfield
+Sat Sep 15 2012,Southport,1-0,0-0,Ebbsfleet
+Sat Sep 15 2012,Stockport,1-2,1-1,Woking
+Fri Sep 21 2012,Grimsby,4-1,3-0,Luton
+Sat Sep 22 2012,Alfreton Town,1-1,1-0,Kidderminster
+Sat Sep 22 2012,Braintree Town,0-0,0-0,Stockport
+Sat Sep 22 2012,Ebbsfleet,2-4,0-3,Barrow
+Sat Sep 22 2012,Hereford,4-2,1-1,Cambridge
+Sat Sep 22 2012,Hyde United,2-2,1-0,Nuneaton Town
+Sat Sep 22 2012,Macclesfield,1-2,0-1,Forest Green
+Sat Sep 22 2012,Newport County,2-1,0-1,Southport
+Sat Sep 22 2012,Tamworth,1-0,1-0,Lincoln
+Sat Sep 22 2012,Telford United,2-2,2-2,Mansfield
+Sat Sep 22 2012,Woking,2-1,2-0,Gateshead
+Sat Sep 22 2012,Wrexham,2-2,2-1,Dartford
+Tue Sep 25 2012,Braintree Town,0-2,0-2,Dartford
+Tue Sep 25 2012,Cambridge,1-3,0-0,Kidderminster
+Tue Sep 25 2012,Ebbsfleet,2-2,1-2,Woking
+Tue Sep 25 2012,Grimsby,3-0,2-0,Gateshead
+Tue Sep 25 2012,Hereford,1-2,1-2,Forest Green
+Tue Sep 25 2012,Lincoln,2-1,0-1,Nuneaton Town
+Tue Sep 25 2012,Southport,1-1,0-1,Stockport
+Tue Sep 25 2012,Tamworth,1-2,1-0,Luton
+Tue Sep 25 2012,Telford United,2-4,1-1,Newport County
+Tue Sep 25 2012,Wrexham,3-0,1-0,Barrow
+Fri Sep 28 2012,Forest Green,3-0,1-0,Lincoln
+Sat Sep 29 2012,Alfreton Town,1-1,1-0,Braintree Town
+Sat Sep 29 2012,Barrow,1-4,0-2,Cambridge
+Sat Sep 29 2012,Dartford,2-1,0-1,Hyde United
+Sat Sep 29 2012,Gateshead,1-1,1-0,Telford United
+Sat Sep 29 2012,Kidderminster,3-0,1-0,Macclesfield
+Sat Sep 29 2012,Luton,3-1,1-1,Southport
+Sat Sep 29 2012,Mansfield,1-1,1-1,Hereford
+Sat Sep 29 2012,Newport County,0-0,0-0,Grimsby
+Sat Sep 29 2012,Nuneaton Town,0-0,0-0,Wrexham
+Sat Sep 29 2012,Stockport,3-1,0-0,Ebbsfleet
+Sat Sep 29 2012,Woking,2-3,0-2,Tamworth
+Sat Oct 6 2012,Braintree Town,2-3,2-1,Barrow
+Sat Oct 6 2012,Cambridge,4-1,1-0,Mansfield
+Sat Oct 6 2012,Ebbsfleet,1-1,1-1,Kidderminster
+Sat Oct 6 2012,Grimsby,0-2,0-0,Dartford
+Sat Oct 6 2012,Hereford,1-2,0-2,Stockport
+Sat Oct 6 2012,Hyde United,1-1,1-1,Gateshead
+Sat Oct 6 2012,Lincoln,1-2,0-1,Luton
+Sat Oct 6 2012,Macclesfield,1-2,1-1,Alfreton Town
+Sat Oct 6 2012,Southport,3-1,2-0,Nuneaton Town
+Sat Oct 6 2012,Tamworth,1-2,0-1,Newport County
+Sat Oct 6 2012,Telford United,1-0,1-0,Woking
+Sat Oct 6 2012,Wrexham,2-1,0-0,Forest Green
+Tue Oct 9 2012,Alfreton Town,0-2,0-1,Grimsby
+Tue Oct 9 2012,Barrow,3-2,0-1,Southport
+Tue Oct 9 2012,Dartford,1-4,0-2,Telford United
+Tue Oct 9 2012,Forest Green,1-2,0-2,Tamworth
+Tue Oct 9 2012,Gateshead,2-2,1-0,Macclesfield
+Tue Oct 9 2012,Kidderminster,3-0,2-0,Hyde United
+Tue Oct 9 2012,Luton,2-3,1-2,Braintree Town
+Tue Oct 9 2012,Mansfield,0-0,0-0,Lincoln
+Tue Oct 9 2012,Newport County,1-0,1-0,Ebbsfleet
+Tue Oct 9 2012,Nuneaton Town,0-0,0-0,Hereford
+Tue Oct 9 2012,Woking,2-1,1-0,Cambridge
+Wed Oct 10 2012,Stockport,2-3,1-2,Wrexham
+Sat Oct 13 2012,Barrow,0-0,0-0,Dartford
+Sat Oct 13 2012,Ebbsfleet,0-0,0-0,Alfreton Town
+Sat Oct 13 2012,Gateshead,0-0,0-0,Cambridge
+Sat Oct 13 2012,Hereford,0-0,0-0,Braintree Town
+Sat Oct 13 2012,Hyde United,2-1,0-1,Tamworth
+Sat Oct 13 2012,Luton,2-0,0-0,Nuneaton Town
+Sat Oct 13 2012,Macclesfield,1-1,0-1,Newport County
+Sat Oct 13 2012,Mansfield,1-0,0-0,Forest Green
+Sat Oct 13 2012,Stockport,1-0,1-0,Kidderminster
+Sat Oct 13 2012,Telford United,1-2,1-2,Grimsby
+Sat Oct 13 2012,Woking,2-3,1-1,Southport
+Sat Oct 13 2012,Wrexham,2-4,0-1,Lincoln
+Fri Oct 26 2012,Dartford,2-0,2-0,Mansfield
+Sat Oct 27 2012,Alfreton Town,1-1,1-0,Telford United
+Sat Oct 27 2012,Cambridge,0-1,0-0,Hyde United
+Sat Oct 27 2012,Forest Green,1-2,0-0,Luton
+Sat Oct 27 2012,Grimsby,0-1,0-0,Macclesfield
+Sat Oct 27 2012,Kidderminster,1-1,0-0,Gateshead
+Sat Oct 27 2012,Lincoln,3-3,1-0,Stockport
+Sat Oct 27 2012,Newport County,2-3,1-2,Woking
+Sat Oct 27 2012,Nuneaton Town,1-1,0-0,Barrow
+Sat Oct 27 2012,Southport,2-2,2-2,Hereford
+Sat Oct 27 2012,Tamworth,0-1,0-1,Ebbsfleet
+Sat Nov 3 2012,Gateshead,2-1,2-1,Woking
+Sat Nov 3 2012,Tamworth,0-1,0-0,Grimsby
+Tue Nov 6 2012,Dartford,0-1,0-1,Forest Green
+Tue Nov 6 2012,Gateshead,2-0,2-0,Alfreton Town
+Tue Nov 6 2012,Hereford,1-0,0-0,Luton
+Tue Nov 6 2012,Hyde United,3-2,2-1,Grimsby
+Tue Nov 6 2012,Lincoln,3-0,1-0,Braintree Town
+Tue Nov 6 2012,Macclesfield,2-0,1-0,Tamworth
+Tue Nov 6 2012,Newport County,6-2,3-1,Cambridge
+Tue Nov 6 2012,Nuneaton Town,1-1,0-0,Mansfield
+Tue Nov 6 2012,Southport,1-4,1-0,Wrexham
+Tue Nov 6 2012,Stockport,3-1,1-0,Barrow
+Tue Nov 6 2012,Telford United,2-2,2-1,Ebbsfleet
+Tue Nov 6 2012,Woking,2-2,1-2,Kidderminster
+Fri Nov 9 2012,Alfreton Town,4-3,3-1,Newport County
+Sat Nov 10 2012,Barrow,1-2,0-1,Lincoln
+Sat Nov 10 2012,Braintree Town,2-1,1-1,Gateshead
+Sat Nov 10 2012,Cambridge,2-0,0-0,Macclesfield
+Sat Nov 10 2012,Ebbsfleet,3-2,1-2,Hyde United
+Sat Nov 10 2012,Forest Green,4-1,3-0,Stockport
+Sat Nov 10 2012,Grimsby,5-1,3-1,Woking
+Sat Nov 10 2012,Kidderminster,1-0,0-0,Nuneaton Town
+Sat Nov 10 2012,Luton,0-2,0-2,Dartford
+Sat Nov 10 2012,Mansfield,1-0,1-0,Southport
+Sat Nov 10 2012,Tamworth,0-0,0-0,Telford United
+Sat Nov 10 2012,Wrexham,1-2,0-1,Hereford
+Sat Nov 17 2012,Barrow,2-2,1-1,Forest Green
+Sat Nov 17 2012,Cambridge,1-1,0-0,Tamworth
+Sat Nov 17 2012,Dartford,2-2,2-1,Southport
+Sat Nov 17 2012,Grimsby,3-0,1-0,Braintree Town
+Sat Nov 17 2012,Lincoln,3-2,1-0,Hereford
+Sat Nov 17 2012,Macclesfield,1-2,1-0,Ebbsfleet
+Sat Nov 17 2012,Newport County,1-3,0-1,Hyde United
+Sat Nov 17 2012,Nuneaton Town,2-0,1-0,Stockport
+Sat Nov 17 2012,Telford United,0-2,0-0,Kidderminster
+Sat Nov 17 2012,Woking,1-2,1-1,Alfreton Town
+Sat Nov 17 2012,Wrexham,1-1,1-0,Gateshead
+Sun Nov 18 2012,Mansfield,2-2,1-1,Luton
+Tue Nov 20 2012,Braintree Town,1-5,1-3,Wrexham
+Tue Nov 20 2012,Hyde United,1-1,1-1,Alfreton Town
+Tue Nov 20 2012,Macclesfield,0-3,0-1,Mansfield
+Sat Dec 1 2012,Ebbsfleet,1-1,1-1,Grimsby
+Sat Dec 1 2012,Forest Green,1-0,0-0,Nuneaton Town
+Sat Dec 1 2012,Hyde United,7-0,1-0,Woking
+Sat Dec 1 2012,Kidderminster,2-0,0-0,Wrexham
+Sat Dec 1 2012,Newport County,3-1,1-0,Gateshead
+Sat Dec 1 2012,Stockport,3-4,2-3,Southport
+Sat Dec 1 2012,Tamworth,3-2,0-1,Dartford
+Tue Dec 4 2012,Ebbsfleet,2-4,1-1,Cambridge
+Tue Dec 4 2012,Lincoln,0-2,0-1,Woking
+Tue Dec 4 2012,Macclesfield,3-2,0-2,Hyde United
+Tue Dec 4 2012,Nuneaton Town,1-0,1-0,Dartford
+Tue Dec 4 2012,Tamworth,0-1,0-0,Kidderminster
+Tue Dec 4 2012,Telford United,1-1,1-0,Barrow
+Fri Dec 7 2012,Barrow,0-2,0-1,Hereford
+Sat Dec 8 2012,Cambridge,3-0,1-0,Gateshead
+Sat Dec 8 2012,Dartford,2-4,0-4,Lincoln
+Sat Dec 8 2012,Forest Green,1-1,0-1,Macclesfield
+Sat Dec 8 2012,Grimsby,2-0,1-0,Tamworth
+Sat Dec 8 2012,Hyde United,2-1,0-1,Telford United
+Sat Dec 8 2012,Kidderminster,3-2,1-2,Newport County
+Sat Dec 8 2012,Luton,3-0,0-0,Alfreton Town
+Sat Dec 8 2012,Mansfield,4-1,2-1,Ebbsfleet
+Sat Dec 8 2012,Southport,0-2,0-2,Braintree Town
+Sat Dec 8 2012,Woking,1-0,0-0,Stockport
+Sat Dec 8 2012,Wrexham,6-1,3-0,Nuneaton Town
+Tue Dec 11 2012,Newport County,5-2,3-1,Luton
+Sat Dec 15 2012,Macclesfield,0-0,0-0,Nuneaton Town
+Tue Dec 18 2012,Alfreton Town,1-1,1-0,Cambridge
+Tue Dec 18 2012,Braintree Town,3-1,1-0,Forest Green
+Fri Dec 21 2012,Grimsby,1-0,0-0,Wrexham
+Sat Dec 22 2012,Kidderminster,5-1,2-1,Dartford
+Wed Dec 26 2012,Barrow,0-2,0-1,Gateshead
+Wed Dec 26 2012,Braintree Town,0-3,0-1,Cambridge
+Wed Dec 26 2012,Dartford,3-1,0-0,Ebbsfleet
+Wed Dec 26 2012,Forest Green,1-2,0-0,Newport County
+Wed Dec 26 2012,Hereford,0-1,0-1,Kidderminster
+Wed Dec 26 2012,Lincoln,1-4,0-2,Grimsby
+Wed Dec 26 2012,Luton,3-1,2-0,Woking
+Wed Dec 26 2012,Mansfield,1-2,1-1,Alfreton Town
+Wed Dec 26 2012,Nuneaton Town,2-1,0-1,Tamworth
+Wed Dec 26 2012,Southport,3-2,2-0,Macclesfield
+Wed Dec 26 2012,Stockport,0-2,0-2,Hyde United
+Wed Dec 26 2012,Wrexham,4-1,1-0,Telford United
+Sat Dec 29 2012,Dartford,1-1,1-1,Cambridge
+Sat Dec 29 2012,Lincoln,1-1,0-0,Gateshead
+Sat Dec 29 2012,Southport,0-1,0-1,Hyde United
+Sat Dec 29 2012,Stockport,2-2,0-0,Telford United
+Sat Dec 29 2012,Wrexham,2-2,1-1,Tamworth
+Tue Jan 1 2013,Alfreton Town,0-3,0-1,Mansfield
+Tue Jan 1 2013,Cambridge,1-0,0-0,Braintree Town
+Tue Jan 1 2013,Ebbsfleet,2-2,0-1,Dartford
+Tue Jan 1 2013,Gateshead,0-1,0-1,Barrow
+Tue Jan 1 2013,Grimsby,1-1,1-1,Lincoln
+Tue Jan 1 2013,Hyde United,0-1,0-0,Stockport
+Tue Jan 1 2013,Kidderminster,0-1,0-1,Hereford
+Tue Jan 1 2013,Macclesfield,2-2,0-2,Southport
+Tue Jan 1 2013,Newport County,0-5,0-2,Forest Green
+Tue Jan 1 2013,Telford United,0-2,0-1,Wrexham
+Tue Jan 1 2013,Woking,3-1,1-1,Luton
+Wed Jan 2 2013,Tamworth,2-1,1-1,Nuneaton Town
+Fri Jan 4 2013,Newport County,1-1,0-1,Wrexham
+Sat Jan 5 2013,Alfreton Town,3-2,1-1,Dartford
+Sat Jan 5 2013,Cambridge,4-1,2-1,Stockport
+Sat Jan 5 2013,Ebbsfleet,1-1,1-0,Lincoln
+Sat Jan 5 2013,Grimsby,1-1,1-1,Hereford
+Sat Jan 5 2013,Hyde United,0-1,0-0,Forest Green
+Sat Jan 5 2013,Kidderminster,2-0,1-0,Barrow
+Sat Jan 5 2013,Tamworth,1-4,0-2,Braintree Town
+Sat Jan 5 2013,Telford United,1-3,0-0,Southport
+Tue Jan 8 2013,Alfreton Town,1-2,1-1,Wrexham
+Tue Jan 8 2013,Braintree Town,0-3,0-1,Macclesfield
+Tue Jan 8 2013,Hereford,1-1,1-0,Telford United
+Tue Jan 8 2013,Luton,6-1,3-0,Barrow
+Tue Jan 8 2013,Southport,4-2,3-1,Lincoln
+Sat Jan 12 2013,Braintree Town,3-2,1-0,Telford United
+Sat Jan 12 2013,Hereford,3-3,2-1,Alfreton Town
+Sat Jan 12 2013,Lincoln,2-4,1-4,Newport County
+Sat Jan 12 2013,Mansfield,0-2,0-2,Kidderminster
+Sat Jan 12 2013,Nuneaton Town,1-1,0-0,Forest Green
+Sun Jan 13 2013,Woking,1-0,0-0,Ebbsfleet
+Tue Jan 15 2013,Cambridge,1-3,0-1,Nuneaton Town
+Tue Jan 15 2013,Dartford,2-0,1-0,Macclesfield
+Tue Jan 15 2013,Stockport,1-3,0-3,Mansfield
+Tue Jan 15 2013,Telford United,0-0,0-0,Luton
+Sat Jan 19 2013,Macclesfield,1-0,0-0,Kidderminster
+Sat Jan 19 2013,Newport County,0-2,0-1,Barrow
+Sat Jan 19 2013,Southport,1-2,1-1,Mansfield
+Sat Jan 19 2013,Stockport,2-1,1-0,Forest Green
+Sat Jan 19 2013,Telford United,0-0,0-0,Alfreton Town
+Tue Jan 22 2013,Grimsby,2-0,0-0,Hyde United
+Sat Jan 26 2013,Cambridge,0-0,0-0,Grimsby
+Sat Jan 26 2013,Lincoln,1-2,0-2,Forest Green
+Sat Jan 26 2013,Nuneaton Town,2-4,1-1,Braintree Town
+Tue Jan 29 2013,Kidderminster,1-0,1-0,Telford United
+Tue Jan 29 2013,Wrexham,2-2,1-1,Southport
+Fri Feb 1 2013,Ebbsfleet,0-4,0-1,Macclesfield
+Sat Feb 2 2013,Barrow,1-0,1-0,Luton
+Sat Feb 2 2013,Forest Green,0-0,0-0,Wrexham
+Sat Feb 2 2013,Grimsby,4-2,2-1,Alfreton Town
+Sat Feb 2 2013,Hereford,2-2,0-1,Southport
+Sat Feb 2 2013,Mansfield,5-0,1-0,Dartford
+Sat Feb 2 2013,Stockport,3-2,2-2,Nuneaton Town
+Sat Feb 2 2013,Tamworth,2-0,0-0,Gateshead
+Sat Feb 2 2013,Telford United,1-2,1-1,Cambridge
+Sat Feb 2 2013,Woking,2-1,1-1,Hyde United
+Sat Feb 9 2013,Alfreton Town,0-3,0-0,Woking
+Sat Feb 9 2013,Braintree Town,0-2,0-1,Hereford
+Sat Feb 9 2013,Ebbsfleet,3-1,2-1,Gateshead
+Sat Feb 9 2013,Grimsby,1-0,0-0,Telford United
+Sat Feb 9 2013,Hyde United,1-1,0-1,Macclesfield
+Sat Feb 9 2013,Kidderminster,3-2,2-1,Cambridge
+Sat Feb 9 2013,Lincoln,2-1,1-0,Dartford
+Sat Feb 9 2013,Luton,1-1,1-1,Forest Green
+Sat Feb 9 2013,Mansfield,8-1,5-1,Barrow
+Sat Feb 9 2013,Newport County,2-2,2-0,Tamworth
+Sat Feb 9 2013,Nuneaton Town,0-1,0-1,Southport
+Sat Feb 9 2013,Wrexham,3-1,1-0,Stockport
+Tue Feb 12 2013,Cambridge,0-3,0-0,Alfreton Town
+Tue Feb 12 2013,Dartford,1-0,0-0,Luton
+Tue Feb 12 2013,Forest Green,4-1,2-1,Braintree Town
+Tue Feb 12 2013,Hereford,0-1,0-1,Wrexham
+Tue Feb 12 2013,Newport County,2-0,0-0,Mansfield
+Tue Feb 12 2013,Southport,5-2,0-1,Barrow
+Tue Feb 12 2013,Stockport,2-0,0-0,Lincoln
+Tue Feb 12 2013,Tamworth,0-0,0-0,Macclesfield
+Tue Feb 12 2013,Telford United,1-3,0-1,Hyde United
+Sat Feb 16 2013,Alfreton Town,1-2,1-1,Macclesfield
+Sat Feb 16 2013,Barrow,1-2,0-0,Nuneaton Town
+Sat Feb 16 2013,Ebbsfleet,0-0,0-0,Stockport
+Sat Feb 16 2013,Forest Green,1-0,0-0,Gateshead
+Sat Feb 16 2013,Hereford,3-2,1-2,Lincoln
+Sat Feb 16 2013,Hyde United,0-4,0-1,Kidderminster
+Sat Feb 16 2013,Mansfield,3-1,2-1,Cambridge
+Sat Feb 16 2013,Telford United,3-3,1-2,Tamworth
+Sat Feb 16 2013,Woking,1-3,0-3,Newport County
+Tue Feb 19 2013,Barrow,2-0,1-0,Woking
+Tue Feb 19 2013,Braintree Town,2-0,1-0,Grimsby
+Tue Feb 19 2013,Ebbsfleet,1-0,1-0,Hereford
+Tue Feb 19 2013,Forest Green,0-1,0-1,Kidderminster
+Tue Feb 19 2013,Gateshead,0-1,0-0,Wrexham
+Tue Feb 19 2013,Hyde United,0-1,0-0,Mansfield
+Tue Feb 19 2013,Macclesfield,1-1,0-1,Luton
+Tue Feb 19 2013,Nuneaton Town,1-0,0-0,Alfreton Town
+Tue Feb 19 2013,Stockport,0-1,0-1,Tamworth
+Fri Feb 22 2013,Macclesfield,0-4,0-4,Gateshead
+Sat Feb 23 2013,Cambridge,1-3,0-1,Hereford
+Sat Feb 23 2013,Kidderminster,3-1,3-1,Alfreton Town
+Sat Feb 23 2013,Lincoln,0-0,0-0,Barrow
+Sat Feb 23 2013,Luton,2-3,1-2,Mansfield
+Sat Feb 23 2013,Newport County,2-1,0-0,Telford United
+Sat Feb 23 2013,Southport,1-2,0-1,Woking
+Sat Feb 23 2013,Tamworth,2-0,0-0,Hyde United
+Tue Feb 26 2013,Alfreton Town,5-1,2-0,Hyde United
+Tue Feb 26 2013,Barrow,0-1,0-0,Wrexham
+Tue Feb 26 2013,Braintree Town,2-0,1-0,Luton
+Tue Feb 26 2013,Grimsby,3-1,2-0,Ebbsfleet
+Tue Feb 26 2013,Lincoln,0-1,0-0,Mansfield
+Tue Feb 26 2013,Nuneaton Town,0-1,0-0,Kidderminster
+Tue Feb 26 2013,Stockport,2-3,1-1,Hereford
+Tue Feb 26 2013,Tamworth,1-2,0-1,Cambridge
+Tue Feb 26 2013,Woking,2-0,0-0,Forest Green
+Sat Mar 2 2013,Barrow,2-0,1-0,Tamworth
+Sat Mar 2 2013,Cambridge,0-0,0-0,Forest Green
+Sat Mar 2 2013,Gateshead,1-2,0-1,Braintree Town
+Sat Mar 2 2013,Hereford,0-0,0-0,Nuneaton Town
+Sat Mar 2 2013,Hyde United,0-1,0-1,Newport County
+Sat Mar 2 2013,Kidderminster,3-2,1-1,Ebbsfleet
+Sat Mar 2 2013,Mansfield,1-0,0-0,Telford United
+Sat Mar 2 2013,Southport,2-2,1-1,Dartford
+Sat Mar 2 2013,Stockport,0-1,0-1,Luton
+Sat Mar 2 2013,Woking,1-1,1-1,Lincoln
+Sat Mar 2 2013,Wrexham,1-1,1-0,Alfreton Town
+Tue Mar 5 2013,Dartford,1-1,0-1,Stockport
+Tue Mar 5 2013,Forest Green,0-1,0-0,Grimsby
+Tue Mar 5 2013,Gateshead,2-0,0-0,Kidderminster
+Tue Mar 5 2013,Hereford,2-3,1-0,Newport County
+Tue Mar 5 2013,Nuneaton Town,0-0,0-0,Luton
+Tue Mar 5 2013,Southport,2-1,0-1,Cambridge
+Tue Mar 5 2013,Wrexham,4-1,4-0,Ebbsfleet
+Wed Mar 6 2013,Macclesfield,2-1,0-1,Lincoln
+Wed Mar 6 2013,Woking,1-2,0-1,Mansfield
+Sat Mar 9 2013,Cambridge,1-0,0-0,Woking
+Sat Mar 9 2013,Dartford,2-1,0-1,Wrexham
+Sat Mar 9 2013,Ebbsfleet,1-1,0-1,Newport County
+Sat Mar 9 2013,Forest Green,1-1,1-0,Barrow
+Sat Mar 9 2013,Gateshead,3-0,1-0,Hyde United
+Sat Mar 9 2013,Grimsby,1-3,0-2,Kidderminster
+Sat Mar 9 2013,Lincoln,1-0,1-0,Southport
+Sat Mar 9 2013,Luton,1-1,0-1,Hereford
+Sat Mar 9 2013,Mansfield,4-1,2-0,Stockport
+Sat Mar 9 2013,Tamworth,1-1,0-1,Alfreton Town
+Sat Mar 9 2013,Telford United,0-2,0-1,Macclesfield
+Tue Mar 12 2013,Alfreton Town,3-0,2-0,Ebbsfleet
+Tue Mar 12 2013,Barrow,0-2,0-0,Stockport
+Tue Mar 12 2013,Lincoln,1-2,1-0,Wrexham
+Tue Mar 12 2013,Luton,1-2,1-1,Hyde United
+Tue Mar 12 2013,Macclesfield,0-0,0-0,Woking
+Tue Mar 12 2013,Mansfield,2-0,0-0,Grimsby
+Tue Mar 12 2013,Southport,1-2,1-0,Forest Green
+Wed Mar 13 2013,Telford United,0-0,0-0,Gateshead
+Fri Mar 15 2013,Forest Green,1-2,0-1,Mansfield
+Sat Mar 16 2013,Alfreton Town,3-2,0-2,Gateshead
+Sat Mar 16 2013,Ebbsfleet,4-1,4-0,Southport
+Sat Mar 16 2013,Grimsby,0-1,0-1,Cambridge
+Sat Mar 16 2013,Hereford,2-1,1-1,Barrow
+Sat Mar 16 2013,Hyde United,3-0,1-0,Dartford
+Sat Mar 16 2013,Kidderminster,4-1,2-1,Tamworth
+Sat Mar 16 2013,Nuneaton Town,1-0,0-0,Lincoln
+Sat Mar 16 2013,Stockport,1-3,0-0,Braintree Town
+Sat Mar 16 2013,Woking,5-2,3-0,Telford United
+Sat Mar 16 2013,Wrexham,0-0,0-0,Luton
+Tue Mar 19 2013,Braintree Town,1-1,0-1,Woking
+Tue Mar 19 2013,Cambridge,1-1,0-0,Ebbsfleet
+Tue Mar 19 2013,Dartford,0-1,0-0,Barrow
+Tue Mar 19 2013,Gateshead,3-2,2-1,Hereford
+Tue Mar 19 2013,Luton,1-0,1-0,Stockport
+Tue Mar 19 2013,Macclesfield,2-1,1-1,Telford United
+Tue Mar 19 2013,Newport County,1-2,1-1,Kidderminster
+Tue Mar 19 2013,Nuneaton Town,1-0,1-0,Grimsby
+Tue Mar 19 2013,Tamworth,2-1,0-1,Southport
+Thu Mar 21 2013,Braintree Town,2-2,2-2,Nuneaton Town
+Sat Mar 23 2013,Dartford,3-0,0-0,Gateshead
+Sat Mar 23 2013,Hereford,1-2,1-0,Hyde United
+Sat Mar 23 2013,Lincoln,3-2,1-1,Telford United
+Sat Mar 23 2013,Luton,0-0,0-0,Tamworth
+Sat Mar 23 2013,Southport,1-3,0-1,Kidderminster
+Sat Mar 23 2013,Stockport,1-0,0-0,Newport County
+Tue Mar 26 2013,Braintree Town,0-3,0-1,Lincoln
+Tue Mar 26 2013,Gateshead,1-1,0-0,Grimsby
+Tue Mar 26 2013,Hereford,1-0,1-0,Dartford
+Tue Mar 26 2013,Hyde United,2-1,1-1,Cambridge
+Tue Mar 26 2013,Kidderminster,2-2,1-1,Woking
+Tue Mar 26 2013,Mansfield,1-0,0-0,Nuneaton Town
+Tue Mar 26 2013,Southport,0-2,0-2,Newport County
+Wed Mar 27 2013,Barrow,1-0,0-0,Macclesfield
+Thu Mar 28 2013,Braintree Town,2-1,1-0,Alfreton Town
+Thu Mar 28 2013,Gateshead,0-0,0-0,Newport County
+Thu Mar 28 2013,Nuneaton Town,0-0,0-0,Woking
+Sat Mar 30 2013,Alfreton Town,0-2,0-1,Lincoln
+Sat Mar 30 2013,Cambridge,2-2,1-0,Luton
+Sat Mar 30 2013,Ebbsfleet,0-2,0-1,Forest Green
+Sat Mar 30 2013,Gateshead,2-2,0-0,Southport
+Sat Mar 30 2013,Grimsby,0-0,0-0,Barrow
+Sat Mar 30 2013,Hyde United,2-0,1-0,Wrexham
+Sat Mar 30 2013,Kidderminster,2-1,0-1,Braintree Town
+Sat Mar 30 2013,Macclesfield,1-1,0-0,Stockport
+Sat Mar 30 2013,Newport County,0-0,0-0,Dartford
+Sat Mar 30 2013,Tamworth,0-1,0-0,Mansfield
+Sat Mar 30 2013,Telford United,0-3,0-1,Nuneaton Town
+Sat Mar 30 2013,Woking,1-1,0-1,Hereford
+Mon Apr 1 2013,Barrow,1-1,1-1,Hyde United
+Mon Apr 1 2013,Braintree Town,3-1,2-1,Ebbsfleet
+Mon Apr 1 2013,Dartford,4-1,2-1,Woking
+Mon Apr 1 2013,Forest Green,0-0,0-0,Telford United
+Mon Apr 1 2013,Hereford,5-2,3-0,Tamworth
+Mon Apr 1 2013,Lincoln,0-0,0-0,Cambridge
+Mon Apr 1 2013,Luton,1-2,0-2,Kidderminster
+Mon Apr 1 2013,Mansfield,4-0,1-0,Gateshead
+Mon Apr 1 2013,Nuneaton Town,1-2,1-0,Newport County
+Mon Apr 1 2013,Southport,0-2,0-2,Alfreton Town
+Mon Apr 1 2013,Stockport,1-2,0-0,Grimsby
+Mon Apr 1 2013,Wrexham,0-0,0-0,Macclesfield
+Wed Apr 3 2013,Barrow,1-1,0-1,Ebbsfleet
+Wed Apr 3 2013,Braintree Town,1-3,0-1,Southport
+Wed Apr 3 2013,Macclesfield,1-3,1-2,Grimsby
+Thu Apr 4 2013,Wrexham,2-1,0-0,Mansfield
+Fri Apr 5 2013,Cambridge,0-0,0-0,Newport County
+Sat Apr 6 2013,Alfreton Town,2-3,1-1,Stockport
+Sat Apr 6 2013,Barrow,0-4,0-2,Mansfield
+Sat Apr 6 2013,Ebbsfleet,1-1,1-0,Nuneaton Town
+Sat Apr 6 2013,Gateshead,5-1,3-1,Luton
+Sat Apr 6 2013,Grimsby,2-2,1-2,Southport
+Sat Apr 6 2013,Hyde United,1-2,0-2,Braintree Town
+Sat Apr 6 2013,Kidderminster,3-0,1-0,Lincoln
+Sat Apr 6 2013,Macclesfield,0-1,0-1,Hereford
+Sat Apr 6 2013,Tamworth,2-1,2-0,Forest Green
+Sat Apr 6 2013,Telford United,0-2,0-1,Dartford
+Sat Apr 6 2013,Woking,2-0,0-0,Wrexham
+Tue Apr 9 2013,Alfreton Town,4-0,0-0,Barrow
+Tue Apr 9 2013,Dartford,1-2,1-0,Grimsby
+Tue Apr 9 2013,Forest Green,0-1,0-0,Hereford
+Tue Apr 9 2013,Gateshead,0-2,0-2,Nuneaton Town
+Tue Apr 9 2013,Hyde United,1-0,1-0,Ebbsfleet
+Tue Apr 9 2013,Luton,3-0,2-0,Lincoln
+Tue Apr 9 2013,Mansfield,3-1,2-0,Macclesfield
+Tue Apr 9 2013,Newport County,1-0,0-0,Braintree Town
+Tue Apr 9 2013,Wrexham,1-0,1-0,Cambridge
+Thu Apr 11 2013,Alfreton Town,3-0,2-0,Tamworth
+Thu Apr 11 2013,Dartford,0-0,0-0,Braintree Town
+Thu Apr 11 2013,Newport County,4-1,3-1,Macclesfield
+Fri Apr 12 2013,Luton,1-1,0-0,Grimsby
+Sat Apr 13 2013,Braintree Town,2-1,0-1,Mansfield
+Sat Apr 13 2013,Cambridge,2-1,2-1,Barrow
+Sat Apr 13 2013,Ebbsfleet,1-3,1-3,Telford United
+Sat Apr 13 2013,Forest Green,0-1,0-0,Southport
+Sat Apr 13 2013,Hereford,1-1,0-1,Gateshead
+Sat Apr 13 2013,Lincoln,2-1,0-1,Tamworth
+Sat Apr 13 2013,Newport County,2-0,1-0,Alfreton Town
+Sat Apr 13 2013,Nuneaton Town,3-1,1-0,Hyde United
+Sat Apr 13 2013,Stockport,0-1,0-0,Dartford
+Sat Apr 13 2013,Woking,5-4,5-0,Macclesfield
+Sat Apr 13 2013,Wrexham,1-2,0-1,Kidderminster
+Tue Apr 16 2013,Ebbsfleet,1-1,0-0,Tamworth
+Tue Apr 16 2013,Forest Green,2-3,0-2,Dartford
+Tue Apr 16 2013,Gateshead,1-1,0-0,Stockport
+Tue Apr 16 2013,Hereford,1-2,1-1,Mansfield
+Tue Apr 16 2013,Luton,2-2,1-0,Newport County
+Tue Apr 16 2013,Woking,0-1,0-0,Grimsby
+Tue Apr 16 2013,Wrexham,1-1,1-1,Braintree Town
+Thu Apr 18 2013,Luton,2-0,1-0,Ebbsfleet
+Sat Apr 20 2013,Alfreton Town,2-1,2-0,Forest Green
+Sat Apr 20 2013,Barrow,0-1,0-0,Braintree Town
+Sat Apr 20 2013,Dartford,0-1,0-0,Nuneaton Town
+Sat Apr 20 2013,Gateshead,2-0,0-0,Ebbsfleet
+Sat Apr 20 2013,Grimsby,3-0,3-0,Newport County
+Sat Apr 20 2013,Hyde United,1-5,0-2,Lincoln
+Sat Apr 20 2013,Kidderminster,4-0,0-0,Stockport
+Sat Apr 20 2013,Macclesfield,2-1,2-1,Cambridge
+Sat Apr 20 2013,Mansfield,1-0,1-0,Wrexham
+Sat Apr 20 2013,Southport,1-3,1-2,Luton
+Sat Apr 20 2013,Tamworth,2-1,1-1,Woking
+Sat Apr 20 2013,Telford United,0-4,0-1,Hereford

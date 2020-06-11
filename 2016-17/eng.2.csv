@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 5 2016,Fulham,1-0,1-0,Newcastle
+Sat Aug 6 2016,Birmingham,0-0,0-0,Cardiff
+Sat Aug 6 2016,Blackburn,1-4,0-3,Norwich
+Sat Aug 6 2016,Bristol City,2-1,0-1,Wigan
+Sat Aug 6 2016,Derby,0-0,0-0,Brighton
+Sat Aug 6 2016,Huddersfield,2-1,0-0,Brentford
+Sat Aug 6 2016,Ipswich,4-2,0-0,Barnsley
+Sat Aug 6 2016,Nott'm Forest,4-3,2-2,Burton
+Sat Aug 6 2016,Reading,1-0,1-0,Preston
+Sat Aug 6 2016,Rotherham,2-2,2-1,Wolves
+Sun Aug 7 2016,QPR,3-0,1-0,Leeds
+Sun Aug 7 2016,Sheffield Weds,1-0,0-0,Aston Villa
+Fri Aug 12 2016,Brighton,3-0,1-0,Nott'm Forest
+Sat Aug 13 2016,Aston Villa,3-0,2-0,Rotherham
+Sat Aug 13 2016,Barnsley,2-0,1-0,Derby
+Sat Aug 13 2016,Brentford,2-0,0-0,Ipswich
+Sat Aug 13 2016,Burton,1-2,0-1,Bristol City
+Sat Aug 13 2016,Leeds,1-2,1-1,Birmingham
+Sat Aug 13 2016,Newcastle,1-2,0-1,Huddersfield
+Sat Aug 13 2016,Norwich,0-0,0-0,Sheffield Weds
+Sat Aug 13 2016,Preston,1-2,0-1,Fulham
+Sat Aug 13 2016,Wigan,3-0,2-0,Blackburn
+Sat Aug 13 2016,Wolves,2-0,1-0,Reading
+Sun Aug 14 2016,Cardiff,0-2,0-0,QPR
+Tue Aug 16 2016,Aston Villa,1-1,1-0,Huddersfield
+Tue Aug 16 2016,Brentford,1-0,1-0,Nott'm Forest
+Tue Aug 16 2016,Brighton,3-0,2-0,Rotherham
+Tue Aug 16 2016,Burton,3-1,2-1,Sheffield Weds
+Tue Aug 16 2016,Leeds,1-1,0-0,Fulham
+Tue Aug 16 2016,Norwich,1-0,1-0,Bristol City
+Tue Aug 16 2016,Preston,0-1,0-0,Derby
+Tue Aug 16 2016,Wigan,1-1,0-1,Birmingham
+Tue Aug 16 2016,Wolves,0-0,0-0,Ipswich
+Wed Aug 17 2016,Barnsley,3-2,1-0,QPR
+Wed Aug 17 2016,Cardiff,2-1,2-0,Blackburn
+Wed Aug 17 2016,Newcastle,4-1,1-1,Reading
+Sat Aug 20 2016,Birmingham,1-3,1-0,Wolves
+Sat Aug 20 2016,Blackburn,2-2,1-1,Burton
+Sat Aug 20 2016,Bristol City,0-1,0-1,Newcastle
+Sat Aug 20 2016,Derby,0-0,0-0,Aston Villa
+Sat Aug 20 2016,Fulham,2-2,1-0,Cardiff
+Sat Aug 20 2016,Huddersfield,2-1,1-0,Barnsley
+Sat Aug 20 2016,Nott'm Forest,4-3,1-1,Wigan
+Sat Aug 20 2016,QPR,0-2,0-1,Preston
+Sat Aug 20 2016,Reading,2-2,1-1,Brighton
+Sat Aug 20 2016,Rotherham,1-0,1-0,Brentford
+Sat Aug 20 2016,Sheffield Weds,0-2,0-0,Leeds
+Sun Aug 21 2016,Ipswich,1-1,1-1,Norwich
+Fri Aug 26 2016,Burton,1-0,1-0,Derby
+Sat Aug 27 2016,Barnsley,4-0,0-0,Rotherham
+Sat Aug 27 2016,Birmingham,3-0,1-0,Norwich
+Sat Aug 27 2016,Blackburn,0-1,0-0,Fulham
+Sat Aug 27 2016,Brentford,1-1,0-0,Sheffield Weds
+Sat Aug 27 2016,Bristol City,3-1,0-1,Aston Villa
+Sat Aug 27 2016,Cardiff,0-1,0-0,Reading
+Sat Aug 27 2016,Huddersfield,1-0,1-0,Wolves
+Sat Aug 27 2016,Ipswich,1-0,1-0,Preston
+Sat Aug 27 2016,Newcastle,2-0,1-0,Brighton
+Sat Aug 27 2016,Nott'm Forest,3-1,1-0,Leeds
+Sat Aug 27 2016,Wigan,0-1,0-0,QPR
+Fri Sep 9 2016,Reading,2-1,1-0,Ipswich
+Sat Sep 10 2016,Brighton,0-2,0-1,Brentford
+Sat Sep 10 2016,Derby,0-2,0-1,Newcastle
+Sat Sep 10 2016,Fulham,0-1,0-0,Birmingham
+Sat Sep 10 2016,Leeds,0-1,0-0,Huddersfield
+Sat Sep 10 2016,Norwich,3-2,1-0,Cardiff
+Sat Sep 10 2016,Preston,1-2,0-1,Barnsley
+Sat Sep 10 2016,QPR,1-1,0-0,Blackburn
+Sat Sep 10 2016,Rotherham,2-2,1-0,Bristol City
+Sat Sep 10 2016,Sheffield Weds,2-1,1-1,Wigan
+Sat Sep 10 2016,Wolves,1-1,0-0,Burton
+Sun Sep 11 2016,Aston Villa,2-2,0-0,Nott'm Forest
+Tue Sep 13 2016,Brighton,1-0,0-0,Huddersfield
+Tue Sep 13 2016,Derby,0-1,0-0,Ipswich
+Tue Sep 13 2016,Fulham,1-1,0-0,Burton
+Tue Sep 13 2016,Leeds,2-1,0-0,Blackburn
+Tue Sep 13 2016,Norwich,2-1,2-0,Wigan
+Tue Sep 13 2016,Preston,3-0,2-0,Cardiff
+Tue Sep 13 2016,QPR,0-6,0-2,Newcastle
+Tue Sep 13 2016,Reading,0-0,0-0,Birmingham
+Tue Sep 13 2016,Sheffield Weds,3-2,0-2,Bristol City
+Tue Sep 13 2016,Wolves,0-4,0-0,Barnsley
+Wed Sep 14 2016,Aston Villa,1-1,1-0,Brentford
+Wed Sep 14 2016,Rotherham,2-2,1-0,Nott'm Forest
+Sat Sep 17 2016,Barnsley,1-2,0-2,Reading
+Sat Sep 17 2016,Birmingham,2-1,0-0,Sheffield Weds
+Sat Sep 17 2016,Blackburn,4-2,2-1,Rotherham
+Sat Sep 17 2016,Brentford,5-0,1-0,Preston
+Sat Sep 17 2016,Bristol City,1-1,0-1,Derby
+Sat Sep 17 2016,Burton,0-1,0-0,Brighton
+Sat Sep 17 2016,Cardiff,0-2,0-0,Leeds
+Sat Sep 17 2016,Huddersfield,2-1,1-0,QPR
+Sat Sep 17 2016,Ipswich,0-0,0-0,Aston Villa
+Sat Sep 17 2016,Newcastle,0-2,0-1,Wolves
+Sat Sep 17 2016,Nott'm Forest,1-2,1-0,Norwich
+Sat Sep 17 2016,Wigan,0-0,0-0,Fulham
+Fri Sep 23 2016,Preston,1-0,1-0,Wigan
+Sat Sep 24 2016,Aston Villa,1-1,0-1,Newcastle
+Sat Sep 24 2016,Brighton,2-0,1-0,Barnsley
+Sat Sep 24 2016,Derby,1-2,0-0,Blackburn
+Sat Sep 24 2016,Fulham,0-4,0-1,Bristol City
+Sat Sep 24 2016,Leeds,1-0,1-0,Ipswich
+Sat Sep 24 2016,Norwich,3-1,1-0,Burton
+Sat Sep 24 2016,QPR,1-1,1-1,Birmingham
+Sat Sep 24 2016,Reading,1-0,1-0,Huddersfield
+Sat Sep 24 2016,Rotherham,1-2,0-0,Cardiff
+Sat Sep 24 2016,Sheffield Weds,2-1,0-1,Nott'm Forest
+Sat Sep 24 2016,Wolves,3-1,0-0,Brentford
+Tue Sep 27 2016,Barnsley,1-1,0-0,Aston Villa
+Tue Sep 27 2016,Birmingham,2-2,1-2,Preston
+Tue Sep 27 2016,Blackburn,0-1,0-1,Sheffield Weds
+Tue Sep 27 2016,Brentford,4-1,2-0,Reading
+Tue Sep 27 2016,Bristol City,1-0,0-0,Leeds
+Tue Sep 27 2016,Burton,1-1,0-0,QPR
+Tue Sep 27 2016,Cardiff,0-2,0-0,Derby
+Tue Sep 27 2016,Huddersfield,2-1,2-1,Rotherham
+Tue Sep 27 2016,Ipswich,0-0,0-0,Brighton
+Tue Sep 27 2016,Nott'm Forest,1-1,0-0,Fulham
+Tue Sep 27 2016,Wigan,2-1,1-1,Wolves
+Wed Sep 28 2016,Newcastle,4-3,1-1,Norwich
+Sat Oct 1 2016,Birmingham,1-0,0-0,Blackburn
+Sat Oct 1 2016,Brentford,0-0,0-0,Wigan
+Sat Oct 1 2016,Bristol City,2-1,0-1,Nott'm Forest
+Sat Oct 1 2016,Burton,2-0,1-0,Cardiff
+Sat Oct 1 2016,Fulham,1-2,0-1,QPR
+Sat Oct 1 2016,Ipswich,0-1,0-0,Huddersfield
+Sat Oct 1 2016,Leeds,2-1,1-0,Barnsley
+Sat Oct 1 2016,Preston,2-0,2-0,Aston Villa
+Sat Oct 1 2016,Reading,1-1,0-0,Derby
+Sat Oct 1 2016,Rotherham,0-1,0-1,Newcastle
+Sat Oct 1 2016,Sheffield Weds,1-2,0-1,Brighton
+Sat Oct 1 2016,Wolves,1-2,0-1,Norwich
+Fri Oct 14 2016,Cardiff,2-1,1-0,Bristol City
+Fri Oct 14 2016,Nott'm Forest,3-1,1-0,Birmingham
+Sat Oct 15 2016,Aston Villa,1-1,1-1,Wolves
+Sat Oct 15 2016,Barnsley,2-4,2-2,Fulham
+Sat Oct 15 2016,Blackburn,0-0,0-0,Ipswich
+Sat Oct 15 2016,Brighton,2-2,0-1,Preston
+Sat Oct 15 2016,Derby,1-0,0-0,Leeds
+Sat Oct 15 2016,Newcastle,3-1,2-0,Brentford
+Sat Oct 15 2016,Norwich,3-1,1-0,Rotherham
+Sat Oct 15 2016,QPR,1-1,1-1,Reading
+Sat Oct 15 2016,Wigan,0-0,0-0,Burton
+Sun Oct 16 2016,Huddersfield,0-1,0-0,Sheffield Weds
+Tue Oct 18 2016,Barnsley,0-2,0-0,Newcastle
+Tue Oct 18 2016,Birmingham,4-2,3-1,Rotherham
+Tue Oct 18 2016,Blackburn,2-1,2-0,Nott'm Forest
+Tue Oct 18 2016,Brighton,1-0,1-0,Wolves
+Tue Oct 18 2016,Derby,0-0,0-0,Brentford
+Tue Oct 18 2016,Fulham,2-2,0-2,Norwich
+Tue Oct 18 2016,Ipswich,2-0,1-0,Burton
+Tue Oct 18 2016,Leeds,1-1,1-0,Wigan
+Tue Oct 18 2016,QPR,1-0,0-0,Bristol City
+Tue Oct 18 2016,Reading,1-2,0-1,Aston Villa
+Wed Oct 19 2016,Cardiff,1-1,1-0,Sheffield Weds
+Wed Oct 19 2016,Preston,3-1,2-0,Huddersfield
+Fri Oct 21 2016,Burton,2-0,1-0,Birmingham
+Sat Oct 22 2016,Aston Villa,1-0,0-0,Fulham
+Sat Oct 22 2016,Brentford,0-2,0-1,Barnsley
+Sat Oct 22 2016,Bristol City,1-0,0-0,Blackburn
+Sat Oct 22 2016,Huddersfield,1-0,0-0,Derby
+Sat Oct 22 2016,Newcastle,3-0,1-0,Ipswich
+Sat Oct 22 2016,Norwich,0-1,0-0,Preston
+Sat Oct 22 2016,Nott'm Forest,1-2,0-2,Cardiff
+Sat Oct 22 2016,Rotherham,0-1,0-0,Reading
+Sat Oct 22 2016,Sheffield Weds,1-0,1-0,QPR
+Sat Oct 22 2016,Wigan,0-1,0-0,Brighton
+Sat Oct 22 2016,Wolves,0-1,0-0,Leeds
+Fri Oct 28 2016,QPR,0-2,0-1,Brentford
+Sat Oct 29 2016,Barnsley,2-2,1-0,Bristol City
+Sat Oct 29 2016,Blackburn,1-1,1-0,Wolves
+Sat Oct 29 2016,Brighton,5-0,1-0,Norwich
+Sat Oct 29 2016,Cardiff,0-1,0-0,Wigan
+Sat Oct 29 2016,Derby,2-0,1-0,Sheffield Weds
+Sat Oct 29 2016,Fulham,5-0,3-0,Huddersfield
+Sat Oct 29 2016,Ipswich,2-2,1-1,Rotherham
+Sat Oct 29 2016,Leeds,2-0,0-0,Burton
+Sat Oct 29 2016,Preston,1-2,0-0,Newcastle
+Sat Oct 29 2016,Reading,2-0,1-0,Nott'm Forest
+Sun Oct 30 2016,Birmingham,1-1,0-1,Aston Villa
+Fri Nov 4 2016,Brentford,0-2,0-1,Fulham
+Sat Nov 5 2016,Aston Villa,2-1,0-0,Blackburn
+Sat Nov 5 2016,Bristol City,0-2,0-2,Brighton
+Sat Nov 5 2016,Burton,0-0,0-0,Barnsley
+Sat Nov 5 2016,Huddersfield,1-1,0-0,Birmingham
+Sat Nov 5 2016,Newcastle,2-1,2-0,Cardiff
+Sat Nov 5 2016,Norwich,2-3,1-0,Leeds
+Sat Nov 5 2016,Nott'm Forest,1-1,1-0,QPR
+Sat Nov 5 2016,Rotherham,1-3,0-2,Preston
+Sat Nov 5 2016,Sheffield Weds,1-2,1-1,Ipswich
+Sat Nov 5 2016,Wigan,0-3,0-2,Reading
+Sat Nov 5 2016,Wolves,2-3,0-2,Derby
+Fri Nov 18 2016,Brighton,1-1,1-1,Aston Villa
+Sat Nov 19 2016,Barnsley,0-0,0-0,Wigan
+Sat Nov 19 2016,Birmingham,1-0,0-0,Bristol City
+Sat Nov 19 2016,Blackburn,3-2,3-2,Brentford
+Sat Nov 19 2016,Cardiff,3-2,3-1,Huddersfield
+Sat Nov 19 2016,Derby,3-0,2-0,Rotherham
+Sat Nov 19 2016,Fulham,1-1,0-1,Sheffield Weds
+Sat Nov 19 2016,Ipswich,0-2,0-2,Nott'm Forest
+Sat Nov 19 2016,Preston,0-0,0-0,Wolves
+Sat Nov 19 2016,QPR,2-1,2-0,Norwich
+Sat Nov 19 2016,Reading,3-0,2-0,Burton
+Sun Nov 20 2016,Leeds,0-2,0-1,Newcastle
+Fri Nov 25 2016,Barnsley,2-5,2-3,Nott'm Forest
+Sat Nov 26 2016,Aston Villa,3-1,2-1,Cardiff
+Sat Nov 26 2016,Brentford,1-2,0-1,Birmingham
+Sat Nov 26 2016,Brighton,2-1,0-1,Fulham
+Sat Nov 26 2016,Derby,1-0,0-0,Norwich
+Sat Nov 26 2016,Ipswich,3-0,1-0,QPR
+Sat Nov 26 2016,Newcastle,0-1,0-0,Blackburn
+Sat Nov 26 2016,Preston,1-1,1-1,Burton
+Sat Nov 26 2016,Reading,2-1,2-0,Bristol City
+Sat Nov 26 2016,Rotherham,1-2,0-2,Leeds
+Sat Nov 26 2016,Wolves,0-2,0-2,Sheffield Weds
+Mon Nov 28 2016,Huddersfield,1-2,0-1,Wigan
+Thu Dec 1 2016,QPR,1-2,0-0,Wolves
+Fri Dec 2 2016,Nott'm Forest,2-1,0-1,Newcastle
+Sat Dec 3 2016,Birmingham,0-3,0-1,Barnsley
+Sat Dec 3 2016,Blackburn,1-1,1-1,Huddersfield
+Sat Dec 3 2016,Bristol City,2-0,1-0,Ipswich
+Sat Dec 3 2016,Burton,2-1,1-0,Rotherham
+Sat Dec 3 2016,Cardiff,0-0,0-0,Brighton
+Sat Dec 3 2016,Fulham,5-0,1-0,Reading
+Sat Dec 3 2016,Leeds,2-0,0-0,Aston Villa
+Sat Dec 3 2016,Norwich,5-0,2-0,Brentford
+Sat Dec 3 2016,Sheffield Weds,2-1,1-0,Preston
+Sat Dec 3 2016,Wigan,0-1,0-1,Derby
+Fri Dec 9 2016,Brighton,2-0,1-0,Leeds
+Sat Dec 10 2016,Aston Villa,1-0,0-0,Wigan
+Sat Dec 10 2016,Barnsley,2-1,2-0,Norwich
+Sat Dec 10 2016,Brentford,2-1,1-1,Burton
+Sat Dec 10 2016,Huddersfield,2-1,1-1,Bristol City
+Sat Dec 10 2016,Ipswich,1-1,0-1,Cardiff
+Sat Dec 10 2016,Newcastle,4-0,2-0,Birmingham
+Sat Dec 10 2016,Preston,3-2,2-1,Blackburn
+Sat Dec 10 2016,Reading,2-1,0-0,Sheffield Weds
+Sat Dec 10 2016,Rotherham,1-0,1-0,QPR
+Sat Dec 10 2016,Wolves,4-4,1-3,Fulham
+Sun Dec 11 2016,Derby,3-0,1-0,Nott'm Forest
+Tue Dec 13 2016,Birmingham,2-1,1-0,Ipswich
+Tue Dec 13 2016,Blackburn,2-3,0-1,Brighton
+Tue Dec 13 2016,Bristol City,0-1,0-0,Brentford
+Tue Dec 13 2016,Burton,0-1,0-0,Huddersfield
+Tue Dec 13 2016,Cardiff,2-1,0-1,Wolves
+Tue Dec 13 2016,Fulham,2-1,1-1,Rotherham
+Tue Dec 13 2016,Leeds,2-0,1-0,Reading
+Tue Dec 13 2016,Norwich,1-0,0-0,Aston Villa
+Tue Dec 13 2016,Sheffield Weds,2-0,1-0,Barnsley
+Wed Dec 14 2016,Nott'm Forest,1-1,0-1,Preston
+Wed Dec 14 2016,QPR,0-1,0-0,Derby
+Wed Dec 14 2016,Wigan,0-2,0-1,Newcastle
+Fri Dec 16 2016,Norwich,1-2,1-2,Huddersfield
+Sat Dec 17 2016,Birmingham,1-2,0-0,Brighton
+Sat Dec 17 2016,Blackburn,2-3,1-1,Reading
+Sat Dec 17 2016,Bristol City,1-2,0-1,Preston
+Sat Dec 17 2016,Burton,1-2,1-2,Newcastle
+Sat Dec 17 2016,Cardiff,3-4,1-3,Barnsley
+Sat Dec 17 2016,Fulham,2-2,1-1,Derby
+Sat Dec 17 2016,Leeds,1-0,0-0,Brentford
+Sat Dec 17 2016,Nott'm Forest,0-2,0-1,Wolves
+Sat Dec 17 2016,Sheffield Weds,1-0,0-0,Rotherham
+Sat Dec 17 2016,Wigan,2-3,1-1,Ipswich
+Sun Dec 18 2016,QPR,0-1,0-0,Aston Villa
+Mon Dec 26 2016,Aston Villa,2-1,1-1,Burton
+Mon Dec 26 2016,Barnsley,2-0,1-0,Blackburn
+Mon Dec 26 2016,Brentford,2-2,0-1,Cardiff
+Mon Dec 26 2016,Huddersfield,2-1,0-1,Nott'm Forest
+Mon Dec 26 2016,Ipswich,0-2,0-1,Fulham
+Mon Dec 26 2016,Newcastle,0-1,0-0,Sheffield Weds
+Mon Dec 26 2016,Preston,1-4,1-3,Leeds
+Mon Dec 26 2016,Reading,3-1,1-0,Norwich
+Mon Dec 26 2016,Rotherham,3-2,3-0,Wigan
+Mon Dec 26 2016,Wolves,3-2,1-2,Bristol City
+Tue Dec 27 2016,Brighton,3-0,1-0,QPR
+Tue Dec 27 2016,Derby,1-0,0-0,Birmingham
+Thu Dec 29 2016,Aston Villa,1-1,0-0,Leeds
+Thu Dec 29 2016,Rotherham,1-2,1-2,Burton
+Fri Dec 30 2016,Ipswich,2-1,1-0,Bristol City
+Fri Dec 30 2016,Newcastle,3-1,1-1,Nott'm Forest
+Sat Dec 31 2016,Barnsley,2-2,2-1,Birmingham
+Sat Dec 31 2016,Brentford,0-0,0-0,Norwich
+Sat Dec 31 2016,Derby,0-0,0-0,Wigan
+Sat Dec 31 2016,Huddersfield,1-1,0-0,Blackburn
+Sat Dec 31 2016,Preston,1-1,0-0,Sheffield Weds
+Sat Dec 31 2016,Wolves,1-2,0-0,QPR
+Mon Jan 2 2017,Birmingham,1-3,1-0,Brentford
+Mon Jan 2 2017,Blackburn,1-0,0-0,Newcastle
+Mon Jan 2 2017,Bristol City,2-3,1-0,Reading
+Mon Jan 2 2017,Burton,0-1,0-1,Preston
+Mon Jan 2 2017,Cardiff,1-0,1-0,Aston Villa
+Mon Jan 2 2017,Fulham,1-2,0-0,Brighton
+Mon Jan 2 2017,Leeds,3-0,0-0,Rotherham
+Mon Jan 2 2017,Norwich,3-0,1-0,Derby
+Mon Jan 2 2017,Nott'm Forest,0-1,0-0,Barnsley
+Mon Jan 2 2017,QPR,2-1,1-0,Ipswich
+Mon Jan 2 2017,Sheffield Weds,0-0,0-0,Wolves
+Mon Jan 2 2017,Wigan,0-1,0-0,Huddersfield
+Thu Jan 12 2017,Reading,0-1,0-1,QPR
+Fri Jan 13 2017,Leeds,1-0,1-0,Derby
+Sat Jan 14 2017,Birmingham,0-0,0-0,Nott'm Forest
+Sat Jan 14 2017,Brentford,1-2,0-1,Newcastle
+Sat Jan 14 2017,Bristol City,2-3,0-0,Cardiff
+Sat Jan 14 2017,Burton,0-2,0-1,Wigan
+Sat Jan 14 2017,Fulham,2-0,1-0,Barnsley
+Sat Jan 14 2017,Ipswich,3-2,1-1,Blackburn
+Sat Jan 14 2017,Preston,2-0,1-0,Brighton
+Sat Jan 14 2017,Rotherham,2-1,1-0,Norwich
+Sat Jan 14 2017,Sheffield Weds,2-0,0-0,Huddersfield
+Sat Jan 14 2017,Wolves,1-0,1-0,Aston Villa
+Fri Jan 20 2017,Brighton,2-1,1-1,Sheffield Weds
+Sat Jan 21 2017,Aston Villa,2-2,2-0,Preston
+Sat Jan 21 2017,Barnsley,3-2,1-1,Leeds
+Sat Jan 21 2017,Blackburn,1-1,1-1,Birmingham
+Sat Jan 21 2017,Cardiff,1-0,0-0,Burton
+Sat Jan 21 2017,Derby,3-2,1-1,Reading
+Sat Jan 21 2017,Huddersfield,2-0,1-0,Ipswich
+Sat Jan 21 2017,Newcastle,4-0,1-0,Rotherham
+Sat Jan 21 2017,Norwich,3-1,1-0,Wolves
+Sat Jan 21 2017,Nott'm Forest,1-0,0-0,Bristol City
+Sat Jan 21 2017,QPR,1-1,1-0,Fulham
+Sat Jan 21 2017,Wigan,2-1,2-0,Brentford
+Tue Jan 24 2017,Brighton,1-0,0-0,Cardiff
+Tue Jan 24 2017,Reading,1-0,0-0,Fulham
+Wed Jan 25 2017,Leeds,2-0,0-0,Nott'm Forest
+Sat Jan 28 2017,Norwich,2-0,2-0,Birmingham
+Sat Jan 28 2017,Preston,1-1,0-1,Ipswich
+Sat Jan 28 2017,QPR,1-2,0-1,Burton
+Sat Jan 28 2017,Reading,2-1,1-1,Cardiff
+Sat Jan 28 2017,Rotherham,0-1,0-0,Barnsley
+Tue Jan 31 2017,Barnsley,1-3,0-2,Wolves
+Tue Jan 31 2017,Birmingham,0-1,0-0,Reading
+Tue Jan 31 2017,Brentford,3-0,2-0,Aston Villa
+Tue Jan 31 2017,Bristol City,2-2,1-1,Sheffield Weds
+Tue Jan 31 2017,Cardiff,2-0,2-0,Preston
+Tue Jan 31 2017,Ipswich,0-3,0-3,Derby
+Tue Jan 31 2017,Nott'm Forest,2-0,0-0,Rotherham
+Wed Feb 1 2017,Blackburn,1-2,0-0,Leeds
+Wed Feb 1 2017,Burton,0-2,0-0,Fulham
+Wed Feb 1 2017,Newcastle,2-2,1-1,QPR
+Thu Feb 2 2017,Huddersfield,3-1,3-1,Brighton
+Fri Feb 3 2017,Wigan,0-1,0-1,Sheffield Weds
+Sat Feb 4 2017,Barnsley,0-0,0-0,Preston
+Sat Feb 4 2017,Birmingham,1-0,0-0,Fulham
+Sat Feb 4 2017,Blackburn,1-0,0-0,QPR
+Sat Feb 4 2017,Bristol City,1-0,0-0,Rotherham
+Sat Feb 4 2017,Burton,2-1,0-1,Wolves
+Sat Feb 4 2017,Cardiff,0-1,0-1,Norwich
+Sat Feb 4 2017,Ipswich,2-2,1-0,Reading
+Sat Feb 4 2017,Newcastle,1-0,1-0,Derby
+Sat Feb 4 2017,Nott'm Forest,2-1,1-1,Aston Villa
+Sun Feb 5 2017,Brentford,3-3,2-0,Brighton
+Sun Feb 5 2017,Huddersfield,2-1,1-1,Leeds
+Tue Feb 7 2017,Wigan,2-2,0-1,Norwich
+Fri Feb 10 2017,Sheffield Weds,3-0,1-0,Birmingham
+Sat Feb 11 2017,Aston Villa,0-1,0-0,Ipswich
+Sat Feb 11 2017,Brighton,4-1,1-0,Burton
+Sat Feb 11 2017,Derby,3-3,0-3,Bristol City
+Sat Feb 11 2017,Fulham,3-2,1-2,Wigan
+Sat Feb 11 2017,Leeds,0-2,0-0,Cardiff
+Sat Feb 11 2017,Norwich,5-1,3-0,Nott'm Forest
+Sat Feb 11 2017,Preston,4-2,1-1,Brentford
+Sat Feb 11 2017,QPR,1-2,0-2,Huddersfield
+Sat Feb 11 2017,Reading,0-0,0-0,Barnsley
+Sat Feb 11 2017,Rotherham,1-1,0-0,Blackburn
+Sat Feb 11 2017,Wolves,0-1,0-1,Newcastle
+Tue Feb 14 2017,Aston Villa,1-3,1-2,Barnsley
+Tue Feb 14 2017,Brighton,1-1,1-1,Ipswich
+Tue Feb 14 2017,Derby,3-4,2-1,Cardiff
+Tue Feb 14 2017,Fulham,3-2,2-1,Nott'm Forest
+Tue Feb 14 2017,Leeds,2-1,1-0,Bristol City
+Tue Feb 14 2017,Norwich,2-2,2-1,Newcastle
+Tue Feb 14 2017,Preston,2-1,1-0,Birmingham
+Tue Feb 14 2017,Reading,3-2,1-0,Brentford
+Tue Feb 14 2017,Rotherham,2-3,1-1,Huddersfield
+Tue Feb 14 2017,Sheffield Weds,2-1,2-1,Blackburn
+Tue Feb 14 2017,Wolves,0-1,0-0,Wigan
+Sat Feb 18 2017,Barnsley,0-2,0-0,Brighton
+Sat Feb 18 2017,Birmingham,1-4,0-1,QPR
+Sat Feb 18 2017,Burton,2-1,1-0,Norwich
+Sat Feb 18 2017,Cardiff,5-0,2-0,Rotherham
+Sat Feb 18 2017,Ipswich,1-1,1-1,Leeds
+Sat Feb 18 2017,Nott'm Forest,1-2,0-1,Sheffield Weds
+Sat Feb 18 2017,Wigan,0-0,0-0,Preston
+Mon Feb 20 2017,Newcastle,2-0,1-0,Aston Villa
+Tue Feb 21 2017,Derby,0-0,0-0,Burton
+Tue Feb 21 2017,Huddersfield,1-0,0-0,Reading
+Tue Feb 21 2017,QPR,2-1,1-1,Wigan
+Tue Feb 21 2017,Sheffield Weds,1-2,0-2,Brentford
+Wed Feb 22 2017,Bristol City,0-2,0-1,Fulham
+Fri Feb 24 2017,Burton,1-1,0-1,Blackburn
+Fri Feb 24 2017,Wolves,1-2,0-2,Birmingham
+Sat Feb 25 2017,Aston Villa,1-0,1-0,Derby
+Sat Feb 25 2017,Barnsley,1-1,0-1,Huddersfield
+Sat Feb 25 2017,Brentford,4-2,1-0,Rotherham
+Sat Feb 25 2017,Brighton,3-0,1-0,Reading
+Sat Feb 25 2017,Cardiff,2-2,1-1,Fulham
+Sat Feb 25 2017,Leeds,1-0,1-0,Sheffield Weds
+Sat Feb 25 2017,Newcastle,2-2,0-2,Bristol City
+Sat Feb 25 2017,Preston,2-1,1-1,QPR
+Sat Feb 25 2017,Wigan,0-0,0-0,Nott'm Forest
+Sun Feb 26 2017,Norwich,1-1,0-0,Ipswich
+Tue Feb 28 2017,Aston Villa,2-0,0-0,Bristol City
+Tue Feb 28 2017,Blackburn,1-0,0-0,Derby
+Tue Feb 28 2017,Brighton,1-2,1-0,Newcastle
+Fri Mar 3 2017,Birmingham,1-3,0-1,Leeds
+Sat Mar 4 2017,Blackburn,1-0,0-0,Wigan
+Sat Mar 4 2017,Bristol City,0-0,0-0,Burton
+Sat Mar 4 2017,Derby,2-1,0-0,Barnsley
+Sat Mar 4 2017,Fulham,3-1,1-0,Preston
+Sat Mar 4 2017,Huddersfield,1-3,0-2,Newcastle
+Sat Mar 4 2017,Ipswich,1-1,1-1,Brentford
+Sat Mar 4 2017,Nott'm Forest,3-0,0-0,Brighton
+Sat Mar 4 2017,QPR,2-1,0-1,Cardiff
+Sat Mar 4 2017,Reading,2-1,0-0,Wolves
+Sat Mar 4 2017,Rotherham,0-2,0-0,Aston Villa
+Sat Mar 4 2017,Sheffield Weds,5-1,3-1,Norwich
+Tue Mar 7 2017,Birmingham,0-1,0-1,Wigan
+Tue Mar 7 2017,Blackburn,1-1,0-1,Cardiff
+Tue Mar 7 2017,Bristol City,1-1,0-1,Norwich
+Tue Mar 7 2017,Derby,1-1,0-0,Preston
+Tue Mar 7 2017,Fulham,1-1,0-1,Leeds
+Tue Mar 7 2017,Huddersfield,1-0,0-0,Aston Villa
+Tue Mar 7 2017,Ipswich,0-0,0-0,Wolves
+Tue Mar 7 2017,Nott'm Forest,2-3,0-1,Brentford
+Tue Mar 7 2017,QPR,2-1,1-0,Barnsley
+Tue Mar 7 2017,Reading,0-0,0-0,Newcastle
+Tue Mar 7 2017,Rotherham,0-2,0-0,Brighton
+Tue Mar 7 2017,Sheffield Weds,1-1,1-1,Burton
+Fri Mar 10 2017,Brighton,3-0,2-0,Derby
+Sat Mar 11 2017,Aston Villa,2-0,1-0,Sheffield Weds
+Sat Mar 11 2017,Barnsley,1-1,0-0,Ipswich
+Sat Mar 11 2017,Brentford,0-1,0-1,Huddersfield
+Sat Mar 11 2017,Burton,1-0,1-0,Nott'm Forest
+Sat Mar 11 2017,Cardiff,1-1,0-0,Birmingham
+Sat Mar 11 2017,Leeds,0-0,0-0,QPR
+Sat Mar 11 2017,Newcastle,1-3,0-1,Fulham
+Sat Mar 11 2017,Norwich,2-2,1-0,Blackburn
+Sat Mar 11 2017,Preston,3-0,2-0,Reading
+Sat Mar 11 2017,Wigan,0-1,0-0,Bristol City
+Sat Mar 11 2017,Wolves,1-0,1-0,Rotherham
+Tue Mar 14 2017,Brentford,1-2,1-0,Wolves
+Tue Mar 14 2017,Fulham,2-2,1-0,Blackburn
+Fri Mar 17 2017,Bristol City,4-0,2-0,Huddersfield
+Fri Mar 17 2017,Sheffield Weds,0-2,0-1,Reading
+Sat Mar 18 2017,Birmingham,0-0,0-0,Newcastle
+Sat Mar 18 2017,Blackburn,2-2,1-1,Preston
+Sat Mar 18 2017,Burton,3-5,3-1,Brentford
+Sat Mar 18 2017,Cardiff,3-1,1-1,Ipswich
+Sat Mar 18 2017,Fulham,1-3,0-1,Wolves
+Sat Mar 18 2017,Leeds,2-0,0-0,Brighton
+Sat Mar 18 2017,Norwich,2-0,1-0,Barnsley
+Sat Mar 18 2017,Nott'm Forest,2-2,1-0,Derby
+Sat Mar 18 2017,QPR,5-1,2-1,Rotherham
+Sat Mar 18 2017,Wigan,0-2,0-0,Aston Villa
+Fri Mar 31 2017,Derby,1-0,0-0,QPR
+Sat Apr 1 2017,Aston Villa,2-0,1-0,Norwich
+Sat Apr 1 2017,Barnsley,1-1,0-0,Sheffield Weds
+Sat Apr 1 2017,Brentford,2-0,2-0,Bristol City
+Sat Apr 1 2017,Brighton,1-0,0-0,Blackburn
+Sat Apr 1 2017,Huddersfield,0-1,0-0,Burton
+Sat Apr 1 2017,Ipswich,1-1,0-0,Birmingham
+Sat Apr 1 2017,Newcastle,2-1,1-0,Wigan
+Sat Apr 1 2017,Preston,1-1,0-1,Nott'm Forest
+Sat Apr 1 2017,Reading,1-0,1-0,Leeds
+Sat Apr 1 2017,Rotherham,0-1,0-0,Fulham
+Sat Apr 1 2017,Wolves,3-1,2-1,Cardiff
+Tue Apr 4 2017,Aston Villa,1-0,1-0,QPR
+Tue Apr 4 2017,Barnsley,0-0,0-0,Cardiff
+Tue Apr 4 2017,Brentford,2-0,2-0,Leeds
+Tue Apr 4 2017,Brighton,3-1,1-0,Birmingham
+Tue Apr 4 2017,Derby,4-2,2-1,Fulham
+Tue Apr 4 2017,Ipswich,3-0,2-0,Wigan
+Tue Apr 4 2017,Preston,5-0,1-0,Bristol City
+Tue Apr 4 2017,Reading,3-1,2-0,Blackburn
+Tue Apr 4 2017,Rotherham,0-2,0-2,Sheffield Weds
+Tue Apr 4 2017,Wolves,1-0,0-0,Nott'm Forest
+Wed Apr 5 2017,Huddersfield,3-0,0-0,Norwich
+Wed Apr 5 2017,Newcastle,1-0,0-0,Burton
+Fri Apr 7 2017,QPR,1-2,0-0,Brighton
+Sat Apr 8 2017,Birmingham,1-2,0-1,Derby
+Sat Apr 8 2017,Blackburn,0-2,0-2,Barnsley
+Sat Apr 8 2017,Bristol City,3-1,2-0,Wolves
+Sat Apr 8 2017,Burton,1-1,0-1,Aston Villa
+Sat Apr 8 2017,Cardiff,2-1,0-1,Brentford
+Sat Apr 8 2017,Fulham,3-1,2-0,Ipswich
+Sat Apr 8 2017,Leeds,3-0,2-0,Preston
+Sat Apr 8 2017,Norwich,7-1,6-1,Reading
+Sat Apr 8 2017,Nott'm Forest,2-0,1-0,Huddersfield
+Sat Apr 8 2017,Sheffield Weds,2-1,0-0,Newcastle
+Sat Apr 8 2017,Wigan,3-2,1-1,Rotherham
+Thu Apr 13 2017,Wigan,3-2,0-1,Barnsley
+Fri Apr 14 2017,Brentford,4-0,1-0,Derby
+Fri Apr 14 2017,Bristol City,2-1,2-0,QPR
+Fri Apr 14 2017,Burton,1-2,0-0,Ipswich
+Fri Apr 14 2017,Huddersfield,3-2,1-1,Preston
+Fri Apr 14 2017,Newcastle,1-1,0-0,Leeds
+Fri Apr 14 2017,Norwich,1-3,0-1,Fulham
+Fri Apr 14 2017,Nott'm Forest,0-1,0-0,Blackburn
+Fri Apr 14 2017,Rotherham,1-1,0-0,Birmingham
+Fri Apr 14 2017,Sheffield Weds,1-0,0-0,Cardiff
+Fri Apr 14 2017,Wolves,0-2,0-1,Brighton
+Sat Apr 15 2017,Aston Villa,1-3,1-1,Reading
+Mon Apr 17 2017,Barnsley,1-1,1-1,Brentford
+Mon Apr 17 2017,Birmingham,0-2,0-1,Burton
+Mon Apr 17 2017,Blackburn,1-1,0-1,Bristol City
+Mon Apr 17 2017,Brighton,2-1,1-0,Wigan
+Mon Apr 17 2017,Cardiff,1-0,0-0,Nott'm Forest
+Mon Apr 17 2017,Derby,1-1,0-1,Huddersfield
+Mon Apr 17 2017,Fulham,3-1,1-0,Aston Villa
+Mon Apr 17 2017,Ipswich,3-1,1-0,Newcastle
+Mon Apr 17 2017,Leeds,0-1,0-1,Wolves
+Mon Apr 17 2017,Preston,1-3,0-2,Norwich
+Mon Apr 17 2017,QPR,1-2,1-2,Sheffield Weds
+Mon Apr 17 2017,Reading,2-1,0-1,Rotherham
+Fri Apr 21 2017,Norwich,2-0,2-0,Brighton
+Sat Apr 22 2017,Brentford,3-1,1-0,QPR
+Sat Apr 22 2017,Bristol City,3-2,0-1,Barnsley
+Sat Apr 22 2017,Burton,2-1,0-0,Leeds
+Sat Apr 22 2017,Huddersfield,1-4,1-4,Fulham
+Sat Apr 22 2017,Nott'm Forest,3-2,1-0,Reading
+Sat Apr 22 2017,Rotherham,1-0,0-0,Ipswich
+Sat Apr 22 2017,Sheffield Weds,2-1,0-0,Derby
+Sat Apr 22 2017,Wigan,0-0,0-0,Cardiff
+Sat Apr 22 2017,Wolves,0-0,0-0,Blackburn
+Sun Apr 23 2017,Aston Villa,1-0,0-0,Birmingham
+Mon Apr 24 2017,Newcastle,4-1,2-1,Preston
+Tue Apr 25 2017,Wolves,0-1,0-1,Huddersfield
+Fri Apr 28 2017,Cardiff,0-2,0-0,Newcastle
+Sat Apr 29 2017,Barnsley,1-1,1-0,Burton
+Sat Apr 29 2017,Birmingham,2-0,1-0,Huddersfield
+Sat Apr 29 2017,Blackburn,1-0,0-0,Aston Villa
+Sat Apr 29 2017,Brighton,0-1,0-1,Bristol City
+Sat Apr 29 2017,Derby,3-1,2-1,Wolves
+Sat Apr 29 2017,Fulham,1-1,1-1,Brentford
+Sat Apr 29 2017,Ipswich,0-1,0-0,Sheffield Weds
+Sat Apr 29 2017,Leeds,3-3,1-3,Norwich
+Sat Apr 29 2017,Preston,1-1,1-1,Rotherham
+Sat Apr 29 2017,QPR,2-0,0-0,Nott'm Forest
+Sat Apr 29 2017,Reading,1-0,1-0,Wigan
+Sun May 7 2017,Aston Villa,1-1,0-0,Brighton
+Sun May 7 2017,Brentford,1-3,0-2,Blackburn
+Sun May 7 2017,Bristol City,0-1,0-1,Birmingham
+Sun May 7 2017,Burton,2-4,0-2,Reading
+Sun May 7 2017,Huddersfield,0-3,0-2,Cardiff
+Sun May 7 2017,Newcastle,3-0,1-0,Barnsley
+Sun May 7 2017,Norwich,4-0,1-0,QPR
+Sun May 7 2017,Nott'm Forest,3-0,1-0,Ipswich
+Sun May 7 2017,Rotherham,1-1,0-0,Derby
+Sun May 7 2017,Sheffield Weds,1-2,1-1,Fulham
+Sun May 7 2017,Wigan,1-1,1-0,Leeds
+Sun May 7 2017,Wolves,1-0,1-0,Preston

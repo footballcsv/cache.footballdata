@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 4 2017,Nott'm Forest,1-0,1-0,Millwall
+Fri Aug 4 2017,Sunderland,1-1,1-1,Derby
+Sat Aug 5 2017,Aston Villa,1-1,1-0,Hull
+Sat Aug 5 2017,Bristol City,3-1,3-0,Barnsley
+Sat Aug 5 2017,Burton,0-1,0-0,Cardiff
+Sat Aug 5 2017,Fulham,1-1,1-0,Norwich
+Sat Aug 5 2017,Ipswich,1-0,0-0,Birmingham
+Sat Aug 5 2017,Preston,1-0,0-0,Sheffield Weds
+Sat Aug 5 2017,QPR,2-0,1-0,Reading
+Sat Aug 5 2017,Sheffield United,1-0,1-0,Brentford
+Sat Aug 5 2017,Wolves,1-0,1-0,Middlesbrough
+Sun Aug 6 2017,Bolton,2-3,1-3,Leeds
+Sat Aug 12 2017,Barnsley,1-2,1-0,Ipswich
+Sat Aug 12 2017,Birmingham,2-1,1-1,Bristol City
+Sat Aug 12 2017,Brentford,3-4,1-2,Nott'm Forest
+Sat Aug 12 2017,Cardiff,3-0,1-0,Aston Villa
+Sat Aug 12 2017,Derby,0-2,0-1,Wolves
+Sat Aug 12 2017,Hull,4-1,1-1,Burton
+Sat Aug 12 2017,Leeds,0-0,0-0,Preston
+Sat Aug 12 2017,Middlesbrough,1-0,1-0,Sheffield United
+Sat Aug 12 2017,Millwall,1-1,0-0,Bolton
+Sat Aug 12 2017,Reading,1-1,0-0,Fulham
+Sat Aug 12 2017,Sheffield Weds,1-1,0-1,QPR
+Sun Aug 13 2017,Norwich,1-3,0-1,Sunderland
+Tue Aug 15 2017,Barnsley,2-1,1-1,Nott'm Forest
+Tue Aug 15 2017,Birmingham,0-0,0-0,Bolton
+Tue Aug 15 2017,Brentford,2-2,0-1,Bristol City
+Tue Aug 15 2017,Cardiff,2-0,1-0,Sheffield United
+Tue Aug 15 2017,Derby,1-0,0-0,Preston
+Tue Aug 15 2017,Hull,2-3,1-2,Wolves
+Tue Aug 15 2017,Leeds,0-0,0-0,Fulham
+Tue Aug 15 2017,Middlesbrough,2-0,1-0,Burton
+Tue Aug 15 2017,Millwall,3-4,2-3,Ipswich
+Tue Aug 15 2017,Reading,2-1,0-0,Aston Villa
+Wed Aug 16 2017,Norwich,2-0,0-0,QPR
+Wed Aug 16 2017,Sheffield Weds,1-1,0-1,Sunderland
+Fri Aug 18 2017,Burton,2-1,0-1,Birmingham
+Sat Aug 19 2017,Aston Villa,4-2,2-0,Norwich
+Sat Aug 19 2017,Bolton,1-2,0-2,Derby
+Sat Aug 19 2017,Bristol City,0-0,0-0,Millwall
+Sat Aug 19 2017,Fulham,0-1,0-0,Sheffield Weds
+Sat Aug 19 2017,Ipswich,2-0,1-0,Brentford
+Sat Aug 19 2017,Nott'm Forest,2-1,1-0,Middlesbrough
+Sat Aug 19 2017,Preston,1-0,1-0,Reading
+Sat Aug 19 2017,QPR,2-1,0-1,Hull
+Sat Aug 19 2017,Sheffield United,1-0,1-0,Barnsley
+Sat Aug 19 2017,Sunderland,0-2,0-1,Leeds
+Sat Aug 19 2017,Wolves,1-2,0-0,Cardiff
+Fri Aug 25 2017,Bristol City,1-1,0-0,Aston Villa
+Fri Aug 25 2017,Hull,4-0,3-0,Bolton
+Sat Aug 26 2017,Barnsley,3-0,2-0,Sunderland
+Sat Aug 26 2017,Birmingham,0-2,0-0,Reading
+Sat Aug 26 2017,Brentford,0-0,0-0,Wolves
+Sat Aug 26 2017,Burton,1-1,0-1,Sheffield Weds
+Sat Aug 26 2017,Cardiff,2-1,2-1,QPR
+Sat Aug 26 2017,Ipswich,0-2,0-1,Fulham
+Sat Aug 26 2017,Middlesbrough,0-0,0-0,Preston
+Sat Aug 26 2017,Millwall,4-0,3-0,Norwich
+Sat Aug 26 2017,Nott'm Forest,0-2,0-1,Leeds
+Sat Aug 26 2017,Sheffield United,3-1,2-0,Derby
+Fri Sep 8 2017,Derby,5-0,4-0,Hull
+Sat Sep 9 2017,Aston Villa,0-0,0-0,Brentford
+Sat Sep 9 2017,Bolton,0-3,0-1,Middlesbrough
+Sat Sep 9 2017,Fulham,1-1,0-0,Cardiff
+Sat Sep 9 2017,Leeds,5-0,3-0,Burton
+Sat Sep 9 2017,Norwich,1-0,1-0,Birmingham
+Sat Sep 9 2017,Preston,1-1,1-1,Barnsley
+Sat Sep 9 2017,QPR,2-1,1-0,Ipswich
+Sat Sep 9 2017,Reading,0-1,0-0,Bristol City
+Sat Sep 9 2017,Sheffield Weds,3-1,1-1,Nott'm Forest
+Sat Sep 9 2017,Sunderland,1-2,0-1,Sheffield United
+Sat Sep 9 2017,Wolves,1-0,1-0,Millwall
+Tue Sep 12 2017,Aston Villa,0-0,0-0,Middlesbrough
+Tue Sep 12 2017,Bolton,0-1,0-1,Sheffield United
+Tue Sep 12 2017,Leeds,2-0,1-0,Birmingham
+Tue Sep 12 2017,Norwich,0-0,0-0,Burton
+Tue Sep 12 2017,Preston,3-0,1-0,Cardiff
+Tue Sep 12 2017,QPR,2-2,0-1,Millwall
+Tue Sep 12 2017,Sheffield Weds,2-1,1-1,Brentford
+Tue Sep 12 2017,Sunderland,0-1,0-0,Nott'm Forest
+Tue Sep 12 2017,Wolves,3-3,1-1,Bristol City
+Wed Sep 13 2017,Fulham,2-1,1-0,Hull
+Sat Sep 16 2017,Barnsley,0-3,0-2,Aston Villa
+Sat Sep 16 2017,Birmingham,1-3,1-0,Preston
+Sat Sep 16 2017,Brentford,1-1,1-0,Reading
+Sat Sep 16 2017,Bristol City,4-1,0-1,Derby
+Sat Sep 16 2017,Burton,2-1,1-1,Fulham
+Sat Sep 16 2017,Cardiff,1-1,0-1,Sheffield Weds
+Sat Sep 16 2017,Hull,1-1,0-1,Sunderland
+Sat Sep 16 2017,Ipswich,2-0,0-0,Bolton
+Sat Sep 16 2017,Middlesbrough,3-2,1-1,QPR
+Sat Sep 16 2017,Millwall,1-0,0-0,Leeds
+Sat Sep 16 2017,Nott'm Forest,1-2,0-0,Wolves
+Sat Sep 16 2017,Sheffield United,0-1,0-1,Norwich
+Sat Sep 23 2017,Aston Villa,2-1,1-0,Nott'm Forest
+Sat Sep 23 2017,Bolton,0-3,0-1,Brentford
+Sat Sep 23 2017,Derby,1-1,0-0,Birmingham
+Sat Sep 23 2017,Fulham,1-1,0-0,Middlesbrough
+Sat Sep 23 2017,Leeds,3-2,2-1,Ipswich
+Sat Sep 23 2017,Norwich,0-0,0-0,Bristol City
+Sat Sep 23 2017,Preston,0-0,0-0,Millwall
+Sat Sep 23 2017,QPR,0-0,0-0,Burton
+Sat Sep 23 2017,Reading,1-1,0-1,Hull
+Sat Sep 23 2017,Sunderland,1-2,0-1,Cardiff
+Sat Sep 23 2017,Wolves,2-1,0-0,Barnsley
+Sun Sep 24 2017,Sheffield Weds,2-4,1-2,Sheffield United
+Tue Sep 26 2017,Barnsley,1-1,1-0,QPR
+Tue Sep 26 2017,Brentford,1-1,0-1,Derby
+Tue Sep 26 2017,Bristol City,2-0,1-0,Bolton
+Tue Sep 26 2017,Burton,0-4,0-3,Aston Villa
+Tue Sep 26 2017,Cardiff,3-1,2-0,Leeds
+Tue Sep 26 2017,Hull,1-2,0-1,Preston
+Tue Sep 26 2017,Ipswich,5-2,2-1,Sunderland
+Tue Sep 26 2017,Middlesbrough,0-1,0-1,Norwich
+Tue Sep 26 2017,Millwall,2-1,0-0,Reading
+Tue Sep 26 2017,Nott'm Forest,1-3,1-1,Fulham
+Wed Sep 27 2017,Birmingham,1-0,0-0,Sheffield Weds
+Wed Sep 27 2017,Sheffield United,2-0,1-0,Wolves
+Fri Sep 29 2017,QPR,1-2,0-1,Fulham
+Sat Sep 30 2017,Aston Villa,1-0,1-0,Bolton
+Sat Sep 30 2017,Burton,0-4,0-3,Wolves
+Sat Sep 30 2017,Cardiff,0-0,0-0,Derby
+Sat Sep 30 2017,Hull,6-1,3-0,Birmingham
+Sat Sep 30 2017,Ipswich,1-3,1-2,Bristol City
+Sat Sep 30 2017,Middlesbrough,2-2,0-1,Brentford
+Sat Sep 30 2017,Millwall,1-3,1-1,Barnsley
+Sat Sep 30 2017,Nott'm Forest,2-1,2-1,Sheffield United
+Sat Sep 30 2017,Preston,2-2,0-1,Sunderland
+Sat Sep 30 2017,Reading,1-2,1-1,Norwich
+Sun Oct 1 2017,Sheffield Weds,3-0,2-0,Leeds
+Fri Oct 13 2017,Birmingham,1-0,1-0,Cardiff
+Fri Oct 13 2017,Bristol City,0-0,0-0,Burton
+Sat Oct 14 2017,Barnsley,2-2,2-1,Middlesbrough
+Sat Oct 14 2017,Bolton,2-1,1-0,Sheffield Weds
+Sat Oct 14 2017,Brentford,1-0,0-0,Millwall
+Sat Oct 14 2017,Fulham,2-2,0-2,Preston
+Sat Oct 14 2017,Leeds,0-1,0-0,Reading
+Sat Oct 14 2017,Norwich,1-1,0-1,Hull
+Sat Oct 14 2017,Sheffield United,1-0,0-0,Ipswich
+Sat Oct 14 2017,Sunderland,1-1,0-1,QPR
+Sat Oct 14 2017,Wolves,2-0,0-0,Aston Villa
+Sun Oct 15 2017,Derby,2-0,1-0,Nott'm Forest
+Sat Oct 21 2017,Aston Villa,2-1,1-1,Fulham
+Sat Oct 21 2017,Barnsley,0-1,0-0,Hull
+Sat Oct 21 2017,Bolton,1-1,1-0,QPR
+Sat Oct 21 2017,Brentford,3-3,1-3,Sunderland
+Sat Oct 21 2017,Bristol City,0-3,0-2,Leeds
+Sat Oct 21 2017,Derby,2-0,1-0,Sheffield Weds
+Sat Oct 21 2017,Middlesbrough,0-1,0-0,Cardiff
+Sat Oct 21 2017,Millwall,2-0,0-0,Birmingham
+Sat Oct 21 2017,Nott'm Forest,2-0,0-0,Burton
+Sat Oct 21 2017,Sheffield United,2-1,2-0,Reading
+Sat Oct 21 2017,Wolves,3-2,1-0,Preston
+Sun Oct 22 2017,Ipswich,0-1,0-0,Norwich
+Fri Oct 27 2017,Leeds,1-2,1-1,Sheffield United
+Sat Oct 28 2017,Burton,1-2,0-0,Ipswich
+Sat Oct 28 2017,Cardiff,0-0,0-0,Millwall
+Sat Oct 28 2017,Fulham,1-1,0-1,Bolton
+Sat Oct 28 2017,Hull,2-3,0-1,Nott'm Forest
+Sat Oct 28 2017,Norwich,1-2,0-1,Derby
+Sat Oct 28 2017,Preston,2-3,1-1,Brentford
+Sat Oct 28 2017,QPR,2-1,1-1,Wolves
+Sat Oct 28 2017,Reading,0-2,0-1,Middlesbrough
+Sat Oct 28 2017,Sheffield Weds,1-1,1-0,Barnsley
+Sat Oct 28 2017,Sunderland,1-2,1-1,Bristol City
+Sun Oct 29 2017,Birmingham,0-0,0-0,Aston Villa
+Tue Oct 31 2017,Burton,2-4,2-2,Barnsley
+Tue Oct 31 2017,Cardiff,3-1,1-0,Ipswich
+Tue Oct 31 2017,Fulham,0-2,0-2,Bristol City
+Tue Oct 31 2017,Hull,1-3,0-2,Middlesbrough
+Tue Oct 31 2017,Leeds,1-2,1-0,Derby
+Tue Oct 31 2017,Norwich,0-2,0-1,Wolves
+Tue Oct 31 2017,QPR,1-0,1-0,Sheffield United
+Tue Oct 31 2017,Reading,3-1,1-0,Nott'm Forest
+Tue Oct 31 2017,Sheffield Weds,2-1,2-1,Millwall
+Tue Oct 31 2017,Sunderland,3-3,1-1,Bolton
+Wed Nov 1 2017,Birmingham,0-2,0-0,Brentford
+Wed Nov 1 2017,Preston,0-2,0-2,Aston Villa
+Fri Nov 3 2017,Wolves,2-0,2-0,Fulham
+Sat Nov 4 2017,Aston Villa,1-2,0-2,Sheffield Weds
+Sat Nov 4 2017,Barnsley,2-0,1-0,Birmingham
+Sat Nov 4 2017,Bolton,2-1,2-0,Norwich
+Sat Nov 4 2017,Brentford,3-1,1-0,Leeds
+Sat Nov 4 2017,Bristol City,2-1,1-1,Cardiff
+Sat Nov 4 2017,Derby,2-4,0-2,Reading
+Sat Nov 4 2017,Ipswich,3-0,1-0,Preston
+Sat Nov 4 2017,Millwall,0-1,0-0,Burton
+Sat Nov 4 2017,Nott'm Forest,4-0,2-0,QPR
+Sat Nov 4 2017,Sheffield United,4-1,0-1,Hull
+Sun Nov 5 2017,Middlesbrough,1-0,1-0,Sunderland
+Fri Nov 17 2017,Burton,1-3,1-2,Sheffield United
+Fri Nov 17 2017,Preston,0-0,0-0,Bolton
+Sat Nov 18 2017,Birmingham,1-0,1-0,Nott'm Forest
+Sat Nov 18 2017,Cardiff,2-0,2-0,Brentford
+Sat Nov 18 2017,Fulham,1-1,1-0,Derby
+Sat Nov 18 2017,Hull,2-2,1-1,Ipswich
+Sat Nov 18 2017,Norwich,1-1,1-0,Barnsley
+Sat Nov 18 2017,QPR,1-2,1-1,Aston Villa
+Sat Nov 18 2017,Reading,0-2,0-1,Wolves
+Sat Nov 18 2017,Sheffield Weds,0-0,0-0,Bristol City
+Sat Nov 18 2017,Sunderland,2-2,1-2,Millwall
+Sun Nov 19 2017,Leeds,2-1,1-0,Middlesbrough
+Tue Nov 21 2017,Aston Villa,2-1,1-0,Sunderland
+Tue Nov 21 2017,Barnsley,0-1,0-0,Cardiff
+Tue Nov 21 2017,Bolton,2-2,2-0,Reading
+Tue Nov 21 2017,Brentford,1-1,0-0,Burton
+Tue Nov 21 2017,Bristol City,1-2,0-1,Preston
+Tue Nov 21 2017,Derby,2-0,1-0,QPR
+Tue Nov 21 2017,Millwall,0-0,0-0,Hull
+Tue Nov 21 2017,Nott'm Forest,1-0,0-0,Norwich
+Tue Nov 21 2017,Sheffield United,4-5,2-3,Fulham
+Wed Nov 22 2017,Ipswich,2-2,0-0,Sheffield Weds
+Wed Nov 22 2017,Middlesbrough,2-0,2-0,Birmingham
+Wed Nov 22 2017,Wolves,4-1,2-0,Leeds
+Sat Nov 25 2017,Aston Villa,2-0,1-0,Ipswich
+Sat Nov 25 2017,Barnsley,0-2,0-2,Leeds
+Sat Nov 25 2017,Burton,0-2,0-0,Sunderland
+Sat Nov 25 2017,Fulham,1-0,1-0,Millwall
+Sat Nov 25 2017,Hull,2-3,1-0,Bristol City
+Sat Nov 25 2017,Middlesbrough,0-3,0-1,Derby
+Sat Nov 25 2017,Norwich,1-1,1-0,Preston
+Sat Nov 25 2017,Reading,0-0,0-0,Sheffield Weds
+Sat Nov 25 2017,Sheffield United,1-1,0-1,Birmingham
+Sat Nov 25 2017,Wolves,5-1,2-0,Bolton
+Sun Nov 26 2017,Nott'm Forest,0-2,0-2,Cardiff
+Mon Nov 27 2017,QPR,2-2,0-0,Brentford
+Tue Nov 28 2017,Derby,0-1,0-1,Ipswich
+Tue Nov 28 2017,Reading,3-0,2-0,Barnsley
+Fri Dec 1 2017,Cardiff,3-1,0-1,Norwich
+Fri Dec 1 2017,Leeds,1-1,1-0,Aston Villa
+Sat Dec 2 2017,Bolton,3-1,2-1,Barnsley
+Sat Dec 2 2017,Brentford,3-1,1-1,Fulham
+Sat Dec 2 2017,Bristol City,2-1,0-0,Middlesbrough
+Sat Dec 2 2017,Derby,1-0,0-0,Burton
+Sat Dec 2 2017,Ipswich,4-2,2-2,Nott'm Forest
+Sat Dec 2 2017,Millwall,3-1,1-1,Sheffield United
+Sat Dec 2 2017,Preston,1-0,0-0,QPR
+Sat Dec 2 2017,Sheffield Weds,2-2,0-1,Hull
+Sat Dec 2 2017,Sunderland,1-3,0-0,Reading
+Mon Dec 4 2017,Birmingham,0-1,0-1,Wolves
+Fri Dec 8 2017,Sheffield United,1-2,0-1,Bristol City
+Sat Dec 9 2017,Aston Villa,0-0,0-0,Millwall
+Sat Dec 9 2017,Barnsley,0-3,0-2,Derby
+Sat Dec 9 2017,Burton,1-2,0-0,Preston
+Sat Dec 9 2017,Fulham,1-0,1-0,Birmingham
+Sat Dec 9 2017,Hull,3-2,0-0,Brentford
+Sat Dec 9 2017,Middlesbrough,2-0,1-0,Ipswich
+Sat Dec 9 2017,Norwich,3-1,0-1,Sheffield Weds
+Sat Dec 9 2017,Nott'm Forest,3-2,1-1,Bolton
+Sat Dec 9 2017,QPR,1-3,0-0,Leeds
+Sat Dec 9 2017,Wolves,0-0,0-0,Sunderland
+Mon Dec 11 2017,Reading,2-2,2-0,Cardiff
+Fri Dec 15 2017,Sheffield Weds,0-1,0-1,Wolves
+Sat Dec 16 2017,Birmingham,1-2,0-1,QPR
+Sat Dec 16 2017,Bolton,0-1,0-1,Burton
+Sat Dec 16 2017,Brentford,0-0,0-0,Barnsley
+Sat Dec 16 2017,Bristol City,2-1,2-0,Nott'm Forest
+Sat Dec 16 2017,Cardiff,1-0,0-0,Hull
+Sat Dec 16 2017,Derby,2-0,1-0,Aston Villa
+Sat Dec 16 2017,Ipswich,2-0,2-0,Reading
+Sat Dec 16 2017,Leeds,1-0,1-0,Norwich
+Sat Dec 16 2017,Millwall,2-1,2-0,Middlesbrough
+Sat Dec 16 2017,Preston,1-0,0-0,Sheffield United
+Sat Dec 16 2017,Sunderland,1-0,0-0,Fulham
+Fri Dec 22 2017,Norwich,1-2,0-2,Brentford
+Sat Dec 23 2017,Aston Villa,2-2,2-2,Sheffield United
+Sat Dec 23 2017,Bolton,2-0,0-0,Cardiff
+Sat Dec 23 2017,Derby,3-0,3-0,Millwall
+Sat Dec 23 2017,Fulham,2-1,0-0,Barnsley
+Sat Dec 23 2017,Leeds,1-0,1-0,Hull
+Sat Dec 23 2017,Preston,1-1,0-0,Nott'm Forest
+Sat Dec 23 2017,QPR,1-1,1-0,Bristol City
+Sat Dec 23 2017,Reading,1-2,0-1,Burton
+Sat Dec 23 2017,Sheffield Weds,1-2,1-0,Middlesbrough
+Sat Dec 23 2017,Sunderland,1-1,1-1,Birmingham
+Sat Dec 23 2017,Wolves,1-0,1-0,Ipswich
+Tue Dec 26 2017,Barnsley,0-0,0-0,Preston
+Tue Dec 26 2017,Birmingham,0-2,0-1,Norwich
+Tue Dec 26 2017,Brentford,2-1,1-1,Aston Villa
+Tue Dec 26 2017,Bristol City,2-0,0-0,Reading
+Tue Dec 26 2017,Burton,1-2,1-0,Leeds
+Tue Dec 26 2017,Cardiff,2-4,0-1,Fulham
+Tue Dec 26 2017,Hull,0-0,0-0,Derby
+Tue Dec 26 2017,Ipswich,0-0,0-0,QPR
+Tue Dec 26 2017,Middlesbrough,2-0,0-0,Bolton
+Tue Dec 26 2017,Millwall,2-2,1-1,Wolves
+Tue Dec 26 2017,Nott'm Forest,0-3,0-2,Sheffield Weds
+Tue Dec 26 2017,Sheffield United,3-0,1-0,Sunderland
+Fri Dec 29 2017,Cardiff,0-1,0-0,Preston
+Fri Dec 29 2017,Millwall,1-0,0-0,QPR
+Sat Dec 30 2017,Barnsley,1-1,0-0,Reading
+Sat Dec 30 2017,Birmingham,1-0,0-0,Leeds
+Sat Dec 30 2017,Brentford,2-0,1-0,Sheffield Weds
+Sat Dec 30 2017,Bristol City,1-2,0-0,Wolves
+Sat Dec 30 2017,Burton,0-0,0-0,Norwich
+Sat Dec 30 2017,Hull,2-2,2-0,Fulham
+Sat Dec 30 2017,Ipswich,1-2,0-1,Derby
+Sat Dec 30 2017,Middlesbrough,0-1,0-0,Aston Villa
+Sat Dec 30 2017,Nott'm Forest,0-1,0-1,Sunderland
+Sat Dec 30 2017,Sheffield United,0-1,0-1,Bolton
+Mon Jan 1 2018,Aston Villa,5-0,2-0,Bristol City
+Mon Jan 1 2018,Bolton,1-0,1-0,Hull
+Mon Jan 1 2018,Derby,1-1,1-0,Sheffield United
+Mon Jan 1 2018,Leeds,0-0,0-0,Nott'm Forest
+Mon Jan 1 2018,Norwich,2-1,0-1,Millwall
+Mon Jan 1 2018,Preston,2-3,2-1,Middlesbrough
+Mon Jan 1 2018,QPR,2-1,0-0,Cardiff
+Mon Jan 1 2018,Sheffield Weds,0-3,0-1,Burton
+Mon Jan 1 2018,Sunderland,0-1,0-0,Barnsley
+Tue Jan 2 2018,Fulham,4-1,0-1,Ipswich
+Tue Jan 2 2018,Reading,0-2,0-1,Birmingham
+Tue Jan 2 2018,Wolves,3-0,0-0,Brentford
+Fri Jan 12 2018,Sheffield United,0-0,0-0,Sheffield Weds
+Sat Jan 13 2018,Barnsley,0-0,0-0,Wolves
+Sat Jan 13 2018,Birmingham,0-3,0-1,Derby
+Sat Jan 13 2018,Brentford,2-0,1-0,Bolton
+Sat Jan 13 2018,Bristol City,0-1,0-0,Norwich
+Sat Jan 13 2018,Burton,1-3,1-1,QPR
+Sat Jan 13 2018,Cardiff,4-0,0-0,Sunderland
+Sat Jan 13 2018,Hull,0-0,0-0,Reading
+Sat Jan 13 2018,Ipswich,1-0,0-0,Leeds
+Sat Jan 13 2018,Middlesbrough,0-1,0-0,Fulham
+Sat Jan 13 2018,Millwall,1-1,1-0,Preston
+Sat Jan 13 2018,Nott'm Forest,0-1,0-1,Aston Villa
+Fri Jan 19 2018,Derby,0-0,0-0,Bristol City
+Sat Jan 20 2018,Aston Villa,3-1,3-1,Barnsley
+Sat Jan 20 2018,Bolton,1-1,0-0,Ipswich
+Sat Jan 20 2018,Fulham,6-0,3-0,Burton
+Sat Jan 20 2018,Leeds,3-4,0-2,Millwall
+Sat Jan 20 2018,Norwich,1-2,0-1,Sheffield United
+Sat Jan 20 2018,Preston,1-1,1-0,Birmingham
+Sat Jan 20 2018,QPR,0-3,0-2,Middlesbrough
+Sat Jan 20 2018,Reading,0-1,0-0,Brentford
+Sat Jan 20 2018,Sheffield Weds,0-0,0-0,Cardiff
+Sat Jan 20 2018,Sunderland,1-0,1-0,Hull
+Sat Jan 20 2018,Wolves,0-2,0-2,Nott'm Forest
+Sat Jan 27 2018,Barnsley,1-3,1-0,Fulham
+Sat Jan 27 2018,Brentford,0-1,0-1,Norwich
+Sat Jan 27 2018,Bristol City,2-0,1-0,QPR
+Sat Jan 27 2018,Ipswich,0-1,0-1,Wolves
+Tue Jan 30 2018,Birmingham,3-1,2-0,Sunderland
+Tue Jan 30 2018,Burton,1-3,0-1,Reading
+Tue Jan 30 2018,Hull,0-0,0-0,Leeds
+Tue Jan 30 2018,Middlesbrough,0-0,0-0,Sheffield Weds
+Tue Jan 30 2018,Millwall,0-0,0-0,Derby
+Tue Jan 30 2018,Nott'm Forest,0-3,0-1,Preston
+Tue Jan 30 2018,Sheffield United,0-1,0-0,Aston Villa
+Fri Feb 2 2018,Bolton,1-0,0-0,Bristol City
+Sat Feb 3 2018,Aston Villa,3-2,1-0,Burton
+Sat Feb 3 2018,Derby,3-0,2-0,Brentford
+Sat Feb 3 2018,Fulham,2-0,0-0,Nott'm Forest
+Sat Feb 3 2018,Leeds,1-4,0-3,Cardiff
+Sat Feb 3 2018,Norwich,1-0,1-0,Middlesbrough
+Sat Feb 3 2018,Preston,2-1,2-1,Hull
+Sat Feb 3 2018,QPR,1-0,0-0,Barnsley
+Sat Feb 3 2018,Reading,0-2,0-0,Millwall
+Sat Feb 3 2018,Sheffield Weds,1-3,0-3,Birmingham
+Sat Feb 3 2018,Sunderland,0-2,0-2,Ipswich
+Sat Feb 3 2018,Wolves,3-0,2-0,Sheffield United
+Fri Feb 9 2018,Millwall,1-1,1-1,Cardiff
+Sat Feb 10 2018,Barnsley,1-1,1-1,Sheffield Weds
+Sat Feb 10 2018,Bolton,1-1,0-1,Fulham
+Sat Feb 10 2018,Brentford,1-1,0-0,Preston
+Sat Feb 10 2018,Bristol City,3-3,3-0,Sunderland
+Sat Feb 10 2018,Derby,1-1,1-0,Norwich
+Sat Feb 10 2018,Ipswich,0-0,0-0,Burton
+Sat Feb 10 2018,Middlesbrough,2-1,1-0,Reading
+Sat Feb 10 2018,Nott'm Forest,0-2,0-2,Hull
+Sat Feb 10 2018,Sheffield United,2-1,1-0,Leeds
+Sat Feb 10 2018,Wolves,2-1,2-0,QPR
+Sun Feb 11 2018,Aston Villa,2-0,0-0,Birmingham
+Tue Feb 13 2018,Cardiff,2-0,2-0,Bolton
+Tue Feb 13 2018,Sheffield Weds,2-0,1-0,Derby
+Sat Feb 17 2018,Birmingham,0-1,0-0,Millwall
+Sat Feb 17 2018,Burton,0-0,0-0,Nott'm Forest
+Sat Feb 17 2018,Cardiff,1-0,1-0,Middlesbrough
+Sat Feb 17 2018,Fulham,2-0,0-0,Aston Villa
+Sat Feb 17 2018,Preston,1-1,0-0,Wolves
+Sat Feb 17 2018,QPR,2-0,0-0,Bolton
+Sat Feb 17 2018,Sunderland,0-2,0-2,Brentford
+Sun Feb 18 2018,Leeds,2-2,0-2,Bristol City
+Sun Feb 18 2018,Norwich,1-1,0-0,Ipswich
+Tue Feb 20 2018,Aston Villa,1-1,0-1,Preston
+Tue Feb 20 2018,Barnsley,1-2,0-2,Burton
+Tue Feb 20 2018,Bolton,1-0,1-0,Sunderland
+Tue Feb 20 2018,Brentford,5-0,2-0,Birmingham
+Tue Feb 20 2018,Middlesbrough,3-1,2-1,Hull
+Tue Feb 20 2018,Millwall,2-1,0-1,Sheffield Weds
+Tue Feb 20 2018,Nott'm Forest,1-1,0-1,Reading
+Tue Feb 20 2018,Sheffield United,2-1,1-0,QPR
+Wed Feb 21 2018,Bristol City,1-1,1-1,Fulham
+Wed Feb 21 2018,Derby,2-2,1-1,Leeds
+Wed Feb 21 2018,Ipswich,0-1,0-0,Cardiff
+Wed Feb 21 2018,Wolves,2-2,2-1,Norwich
+Fri Feb 23 2018,Hull,1-0,0-0,Sheffield United
+Sat Feb 24 2018,Birmingham,0-2,0-2,Barnsley
+Sat Feb 24 2018,Burton,0-1,0-0,Millwall
+Sat Feb 24 2018,Fulham,2-0,1-0,Wolves
+Sat Feb 24 2018,Leeds,1-0,1-0,Brentford
+Sat Feb 24 2018,Norwich,0-0,0-0,Bolton
+Sat Feb 24 2018,Preston,0-1,0-1,Ipswich
+Sat Feb 24 2018,QPR,2-5,0-1,Nott'm Forest
+Sat Feb 24 2018,Reading,3-3,2-2,Derby
+Sat Feb 24 2018,Sheffield Weds,2-4,2-1,Aston Villa
+Sat Feb 24 2018,Sunderland,3-3,1-0,Middlesbrough
+Sun Feb 25 2018,Cardiff,1-0,0-0,Bristol City
+Tue Feb 27 2018,Hull,1-1,0-1,Barnsley
+Tue Feb 27 2018,Reading,1-3,0-2,Sheffield United
+Fri Mar 2 2018,Middlesbrough,3-0,2-0,Leeds
+Sat Mar 3 2018,Bolton,1-3,1-0,Preston
+Sat Mar 3 2018,Bristol City,4-0,3-0,Sheffield Weds
+Sat Mar 3 2018,Derby,1-2,0-2,Fulham
+Sat Mar 3 2018,Millwall,1-1,0-1,Sunderland
+Sat Mar 3 2018,Nott'm Forest,2-1,1-0,Birmingham
+Tue Mar 6 2018,Birmingham,0-1,0-1,Middlesbrough
+Tue Mar 6 2018,Burton,0-2,0-0,Brentford
+Tue Mar 6 2018,Cardiff,2-1,1-0,Barnsley
+Tue Mar 6 2018,Fulham,3-0,2-0,Sheffield United
+Tue Mar 6 2018,Hull,1-2,0-2,Millwall
+Tue Mar 6 2018,Norwich,0-0,0-0,Nott'm Forest
+Tue Mar 6 2018,Preston,2-1,1-0,Bristol City
+Tue Mar 6 2018,QPR,1-1,0-1,Derby
+Tue Mar 6 2018,Reading,1-1,1-1,Bolton
+Tue Mar 6 2018,Sheffield Weds,1-2,0-0,Ipswich
+Tue Mar 6 2018,Sunderland,0-3,0-2,Aston Villa
+Wed Mar 7 2018,Leeds,0-3,0-2,Wolves
+Sat Mar 10 2018,Aston Villa,4-1,1-1,Wolves
+Sat Mar 10 2018,Burton,0-0,0-0,Bristol City
+Sat Mar 10 2018,Cardiff,3-2,3-0,Birmingham
+Sat Mar 10 2018,Hull,4-3,2-3,Norwich
+Sat Mar 10 2018,Ipswich,0-0,0-0,Sheffield United
+Sat Mar 10 2018,Middlesbrough,3-1,2-0,Barnsley
+Sat Mar 10 2018,Millwall,1-0,1-0,Brentford
+Sat Mar 10 2018,Preston,1-2,0-0,Fulham
+Sat Mar 10 2018,QPR,1-0,0-0,Sunderland
+Sat Mar 10 2018,Reading,2-2,1-1,Leeds
+Sat Mar 10 2018,Sheffield Weds,1-1,0-0,Bolton
+Sun Mar 11 2018,Nott'm Forest,0-0,0-0,Derby
+Tue Mar 13 2018,Aston Villa,1-3,0-2,QPR
+Tue Mar 13 2018,Barnsley,1-1,1-0,Norwich
+Tue Mar 13 2018,Brentford,1-3,1-2,Cardiff
+Tue Mar 13 2018,Ipswich,0-3,0-2,Hull
+Tue Mar 13 2018,Sheffield United,2-0,1-0,Burton
+Tue Mar 13 2018,Wolves,3-0,1-0,Reading
+Sat Mar 17 2018,Barnsley,0-2,0-1,Millwall
+Sat Mar 17 2018,Birmingham,3-0,1-0,Hull
+Sat Mar 17 2018,Bolton,1-0,1-0,Aston Villa
+Sat Mar 17 2018,Brentford,1-1,1-1,Middlesbrough
+Sat Mar 17 2018,Bristol City,1-0,0-0,Ipswich
+Sat Mar 17 2018,Fulham,2-2,2-1,QPR
+Sat Mar 17 2018,Leeds,1-2,0-0,Sheffield Weds
+Sat Mar 17 2018,Norwich,3-2,3-1,Reading
+Sat Mar 17 2018,Sheffield United,0-0,0-0,Nott'm Forest
+Sat Mar 17 2018,Sunderland,0-2,0-0,Preston
+Sat Mar 17 2018,Wolves,3-1,2-1,Burton
+Fri Mar 30 2018,Barnsley,2-2,1-1,Bristol City
+Fri Mar 30 2018,Brentford,1-1,0-0,Sheffield United
+Fri Mar 30 2018,Cardiff,3-1,2-1,Burton
+Fri Mar 30 2018,Derby,1-4,1-2,Sunderland
+Fri Mar 30 2018,Leeds,2-1,1-0,Bolton
+Fri Mar 30 2018,Middlesbrough,1-2,0-2,Wolves
+Fri Mar 30 2018,Millwall,2-0,2-0,Nott'm Forest
+Fri Mar 30 2018,Norwich,0-2,0-0,Fulham
+Fri Mar 30 2018,Reading,1-0,1-0,QPR
+Fri Mar 30 2018,Sheffield Weds,4-1,0-0,Preston
+Sat Mar 31 2018,Birmingham,1-0,1-0,Ipswich
+Sat Mar 31 2018,Hull,0-0,0-0,Aston Villa
+Mon Apr 2 2018,Bristol City,0-1,0-0,Brentford
+Mon Apr 2 2018,Burton,1-1,1-0,Middlesbrough
+Mon Apr 2 2018,Ipswich,2-2,0-1,Millwall
+Mon Apr 2 2018,Preston,0-1,0-0,Derby
+Mon Apr 2 2018,QPR,4-1,1-1,Norwich
+Mon Apr 2 2018,Sheffield United,1-1,1-0,Cardiff
+Mon Apr 2 2018,Sunderland,1-3,0-0,Sheffield Weds
+Tue Apr 3 2018,Aston Villa,3-0,0-0,Reading
+Tue Apr 3 2018,Bolton,0-1,0-1,Birmingham
+Tue Apr 3 2018,Fulham,2-0,1-0,Leeds
+Tue Apr 3 2018,Wolves,2-2,1-1,Hull
+Fri Apr 6 2018,Cardiff,0-1,0-0,Wolves
+Sat Apr 7 2018,Barnsley,3-2,1-0,Sheffield United
+Sat Apr 7 2018,Birmingham,1-1,0-0,Burton
+Sat Apr 7 2018,Brentford,1-0,0-0,Ipswich
+Sat Apr 7 2018,Derby,3-0,2-0,Bolton
+Sat Apr 7 2018,Hull,4-0,2-0,QPR
+Sat Apr 7 2018,Leeds,1-1,0-0,Sunderland
+Sat Apr 7 2018,Middlesbrough,2-0,2-0,Nott'm Forest
+Sat Apr 7 2018,Millwall,2-0,1-0,Bristol City
+Sat Apr 7 2018,Norwich,3-1,1-0,Aston Villa
+Sat Apr 7 2018,Reading,1-0,1-0,Preston
+Sat Apr 7 2018,Sheffield Weds,0-1,0-0,Fulham
+Tue Apr 10 2018,Aston Villa,1-0,0-0,Cardiff
+Tue Apr 10 2018,Bolton,0-2,0-1,Millwall
+Tue Apr 10 2018,Bristol City,3-1,2-1,Birmingham
+Tue Apr 10 2018,Burton,0-5,0-2,Hull
+Tue Apr 10 2018,Fulham,1-0,1-0,Reading
+Tue Apr 10 2018,Ipswich,1-0,0-0,Barnsley
+Tue Apr 10 2018,Nott'm Forest,0-1,0-0,Brentford
+Tue Apr 10 2018,Preston,3-1,0-1,Leeds
+Tue Apr 10 2018,QPR,4-2,3-0,Sheffield Weds
+Tue Apr 10 2018,Sheffield United,2-1,2-0,Middlesbrough
+Tue Apr 10 2018,Sunderland,1-1,0-0,Norwich
+Wed Apr 11 2018,Wolves,2-0,1-0,Derby
+Fri Apr 13 2018,Aston Villa,1-0,1-0,Leeds
+Sat Apr 14 2018,Barnsley,2-2,1-0,Bolton
+Sat Apr 14 2018,Burton,3-1,2-1,Derby
+Sat Apr 14 2018,Fulham,1-1,0-0,Brentford
+Sat Apr 14 2018,Hull,0-1,0-1,Sheffield Weds
+Sat Apr 14 2018,Middlesbrough,2-1,1-1,Bristol City
+Sat Apr 14 2018,Norwich,0-2,0-0,Cardiff
+Sat Apr 14 2018,Nott'm Forest,2-1,0-1,Ipswich
+Sat Apr 14 2018,QPR,1-2,1-1,Preston
+Sat Apr 14 2018,Reading,2-2,1-0,Sunderland
+Sat Apr 14 2018,Sheffield United,1-1,0-0,Millwall
+Sun Apr 15 2018,Wolves,2-0,1-0,Birmingham
+Fri Apr 20 2018,Millwall,0-3,0-0,Fulham
+Sat Apr 21 2018,Birmingham,2-1,1-1,Sheffield United
+Sat Apr 21 2018,Bolton,0-4,0-2,Wolves
+Sat Apr 21 2018,Brentford,2-1,1-1,QPR
+Sat Apr 21 2018,Bristol City,5-5,2-1,Hull
+Sat Apr 21 2018,Cardiff,2-1,1-0,Nott'm Forest
+Sat Apr 21 2018,Derby,1-2,0-1,Middlesbrough
+Sat Apr 21 2018,Ipswich,0-4,0-1,Aston Villa
+Sat Apr 21 2018,Leeds,2-1,1-1,Barnsley
+Sat Apr 21 2018,Preston,0-0,0-0,Norwich
+Sat Apr 21 2018,Sheffield Weds,3-0,1-0,Reading
+Sat Apr 21 2018,Sunderland,1-2,1-0,Burton
+Tue Apr 24 2018,Derby,3-1,0-1,Cardiff
+Tue Apr 24 2018,Nott'm Forest,3-0,2-0,Barnsley
+Fri Apr 27 2018,Fulham,2-1,1-1,Sunderland
+Sat Apr 28 2018,Aston Villa,1-1,0-1,Derby
+Sat Apr 28 2018,Barnsley,2-0,1-0,Brentford
+Sat Apr 28 2018,Burton,2-0,2-0,Bolton
+Sat Apr 28 2018,Hull,0-2,0-1,Cardiff
+Sat Apr 28 2018,Middlesbrough,2-0,1-0,Millwall
+Sat Apr 28 2018,Norwich,2-1,1-1,Leeds
+Sat Apr 28 2018,Nott'm Forest,0-0,0-0,Bristol City
+Sat Apr 28 2018,QPR,3-1,1-1,Birmingham
+Sat Apr 28 2018,Reading,0-4,0-0,Ipswich
+Sat Apr 28 2018,Sheffield United,0-1,0-0,Preston
+Sat Apr 28 2018,Wolves,0-0,0-0,Sheffield Weds
+Sun May 6 2018,Birmingham,3-1,2-0,Fulham
+Sun May 6 2018,Bolton,3-2,0-0,Nott'm Forest
+Sun May 6 2018,Brentford,1-1,1-1,Hull
+Sun May 6 2018,Bristol City,2-3,0-3,Sheffield United
+Sun May 6 2018,Cardiff,0-0,0-0,Reading
+Sun May 6 2018,Derby,4-1,1-0,Barnsley
+Sun May 6 2018,Ipswich,2-2,1-0,Middlesbrough
+Sun May 6 2018,Leeds,2-0,1-0,QPR
+Sun May 6 2018,Millwall,1-0,1-0,Aston Villa
+Sun May 6 2018,Preston,2-1,1-0,Burton
+Sun May 6 2018,Sheffield Weds,5-1,2-0,Norwich
+Sun May 6 2018,Sunderland,3-0,2-0,Wolves

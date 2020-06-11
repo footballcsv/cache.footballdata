@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 18 2001,Charlton,1-2,0-0,Everton
+Sat Aug 18 2001,Derby,2-1,1-0,Blackburn
+Sat Aug 18 2001,Leeds,2-0,0-0,Southampton
+Sat Aug 18 2001,Leicester,0-5,0-4,Bolton
+Sat Aug 18 2001,Liverpool,2-1,1-1,West Ham
+Sat Aug 18 2001,Middlesbrough,0-4,0-1,Arsenal
+Sat Aug 18 2001,Sunderland,1-0,1-0,Ipswich
+Sat Aug 18 2001,Tottenham,0-0,0-0,Aston Villa
+Sun Aug 19 2001,Chelsea,1-1,1-0,Newcastle
+Sun Aug 19 2001,Man United,3-2,1-1,Fulham
+Mon Aug 20 2001,Everton,1-1,0-1,Tottenham
+Tue Aug 21 2001,Arsenal,1-2,1-1,Leeds
+Tue Aug 21 2001,Bolton,1-0,1-0,Middlesbrough
+Tue Aug 21 2001,Ipswich,3-1,1-0,Derby
+Wed Aug 22 2001,Blackburn,2-2,0-1,Man United
+Wed Aug 22 2001,Fulham,2-0,0-0,Sunderland
+Sat Aug 25 2001,Arsenal,4-0,2-0,Leicester
+Sat Aug 25 2001,Blackburn,2-1,1-0,Tottenham
+Sat Aug 25 2001,Everton,2-0,1-0,Middlesbrough
+Sat Aug 25 2001,Fulham,0-0,0-0,Derby
+Sat Aug 25 2001,Ipswich,0-1,0-0,Charlton
+Sat Aug 25 2001,Southampton,0-2,0-1,Chelsea
+Sat Aug 25 2001,West Ham,0-0,0-0,Leeds
+Sun Aug 26 2001,Aston Villa,1-1,1-0,Man United
+Sun Aug 26 2001,Newcastle,1-1,1-1,Sunderland
+Mon Aug 27 2001,Bolton,2-1,1-0,Liverpool
+Sat Sep 8 2001,Chelsea,1-1,1-1,Arsenal
+Sat Sep 8 2001,Derby,0-0,0-0,West Ham
+Sat Sep 8 2001,Leeds,0-0,0-0,Bolton
+Sat Sep 8 2001,Leicester,1-1,0-1,Ipswich
+Sat Sep 8 2001,Liverpool,1-3,0-1,Aston Villa
+Sat Sep 8 2001,Man United,4-1,2-0,Everton
+Sat Sep 8 2001,Middlesbrough,1-4,1-1,Newcastle
+Sat Sep 8 2001,Sunderland,1-0,0-0,Blackburn
+Sun Sep 9 2001,Charlton,1-1,1-1,Fulham
+Sun Sep 9 2001,Tottenham,2-0,0-0,Southampton
+Sat Sep 15 2001,Bolton,0-1,0-0,Southampton
+Sat Sep 15 2001,Derby,2-3,1-1,Leicester
+Sat Sep 15 2001,Everton,1-3,1-2,Liverpool
+Sat Sep 15 2001,Fulham,1-3,0-1,Arsenal
+Sat Sep 15 2001,Middlesbrough,2-0,2-0,West Ham
+Sat Sep 15 2001,Newcastle,4-3,2-1,Man United
+Sun Sep 16 2001,Aston Villa,0-0,0-0,Sunderland
+Sun Sep 16 2001,Charlton,0-2,0-1,Leeds
+Sun Sep 16 2001,Ipswich,1-1,1-0,Blackburn
+Sun Sep 16 2001,Tottenham,2-3,0-1,Chelsea
+Mon Sep 17 2001,Leicester,1-2,1-0,Middlesbrough
+Wed Sep 19 2001,Blackburn,1-1,0-0,Bolton
+Wed Sep 19 2001,Sunderland,1-2,0-1,Tottenham
+Sat Sep 22 2001,Arsenal,1-1,0-0,Bolton
+Sat Sep 22 2001,Blackburn,1-0,1-0,Everton
+Sat Sep 22 2001,Leicester,0-0,0-0,Fulham
+Sat Sep 22 2001,Liverpool,1-0,0-0,Tottenham
+Sat Sep 22 2001,Man United,4-0,2-0,Ipswich
+Sat Sep 22 2001,Sunderland,2-2,0-1,Charlton
+Sun Sep 23 2001,Chelsea,2-2,2-0,Middlesbrough
+Sun Sep 23 2001,Leeds,3-0,1-0,Derby
+Sun Sep 23 2001,West Ham,3-0,1-0,Newcastle
+Mon Sep 24 2001,Southampton,1-3,1-2,Aston Villa
+Wed Sep 26 2001,Newcastle,1-0,1-0,Leicester
+Sat Sep 29 2001,Bolton,0-2,0-0,Sunderland
+Sat Sep 29 2001,Charlton,2-0,1-0,Leicester
+Sat Sep 29 2001,Derby,0-2,0-1,Arsenal
+Sat Sep 29 2001,Everton,5-0,1-0,West Ham
+Sat Sep 29 2001,Middlesbrough,1-3,0-0,Southampton
+Sat Sep 29 2001,Tottenham,3-5,3-0,Man United
+Sun Sep 30 2001,Aston Villa,2-0,0-0,Blackburn
+Sun Sep 30 2001,Fulham,1-1,0-1,Chelsea
+Sun Sep 30 2001,Ipswich,1-2,1-0,Leeds
+Sun Sep 30 2001,Newcastle,0-2,0-1,Liverpool
+Sat Oct 13 2001,Bolton,0-4,0-1,Newcastle
+Sat Oct 13 2001,Charlton,0-0,0-0,Middlesbrough
+Sat Oct 13 2001,Chelsea,2-0,2-0,Leicester
+Sat Oct 13 2001,Ipswich,0-0,0-0,Everton
+Sat Oct 13 2001,Liverpool,1-1,0-1,Leeds
+Sat Oct 13 2001,Southampton,0-2,0-1,Arsenal
+Sat Oct 13 2001,Sunderland,1-3,0-1,Man United
+Sun Oct 14 2001,Aston Villa,2-0,0-0,Fulham
+Sun Oct 14 2001,Blackburn,7-1,3-1,West Ham
+Mon Oct 15 2001,Tottenham,3-1,2-1,Derby
+Sat Oct 20 2001,Arsenal,3-3,0-1,Blackburn
+Sat Oct 20 2001,Derby,1-1,1-0,Charlton
+Sat Oct 20 2001,Everton,3-2,1-0,Aston Villa
+Sat Oct 20 2001,Leicester,1-4,0-3,Liverpool
+Sat Oct 20 2001,Man United,1-2,1-1,Bolton
+Sat Oct 20 2001,West Ham,2-0,0-0,Southampton
+Sun Oct 21 2001,Fulham,1-1,1-0,Ipswich
+Sun Oct 21 2001,Leeds,0-0,0-0,Chelsea
+Sun Oct 21 2001,Newcastle,0-2,0-2,Tottenham
+Mon Oct 22 2001,Middlesbrough,2-0,2-0,Sunderland
+Wed Oct 24 2001,Aston Villa,1-0,1-0,Charlton
+Wed Oct 24 2001,Southampton,3-3,2-1,Ipswich
+Wed Oct 24 2001,West Ham,2-1,2-1,Chelsea
+Sat Oct 27 2001,Aston Villa,3-2,2-1,Bolton
+Sat Oct 27 2001,Charlton,0-2,0-2,Liverpool
+Sat Oct 27 2001,Everton,1-3,0-1,Newcastle
+Sat Oct 27 2001,Fulham,2-1,2-1,Southampton
+Sat Oct 27 2001,Man United,1-1,0-0,Leeds
+Sat Oct 27 2001,Sunderland,1-1,0-1,Arsenal
+Sat Oct 27 2001,Tottenham,2-1,0-1,Middlesbrough
+Sun Oct 28 2001,Derby,1-1,1-0,Chelsea
+Sun Oct 28 2001,Ipswich,2-3,0-1,West Ham
+Mon Oct 29 2001,Blackburn,0-0,0-0,Leicester
+Sat Nov 3 2001,Bolton,2-2,1-1,Everton
+Sat Nov 3 2001,Leicester,1-0,0-0,Sunderland
+Sat Nov 3 2001,Middlesbrough,5-1,0-0,Derby
+Sat Nov 3 2001,Newcastle,3-0,1-0,Aston Villa
+Sat Nov 3 2001,Southampton,1-2,1-1,Blackburn
+Sat Nov 3 2001,West Ham,0-2,0-1,Fulham
+Sun Nov 4 2001,Arsenal,2-4,1-2,Charlton
+Sun Nov 4 2001,Chelsea,2-1,1-0,Ipswich
+Sun Nov 4 2001,Leeds,2-1,0-0,Tottenham
+Sun Nov 4 2001,Liverpool,3-1,2-0,Man United
+Sat Nov 17 2001,Aston Villa,0-0,0-0,Middlesbrough
+Sat Nov 17 2001,Blackburn,1-1,0-1,Liverpool
+Sat Nov 17 2001,Derby,1-0,1-0,Southampton
+Sat Nov 17 2001,Fulham,3-1,2-0,Newcastle
+Sat Nov 17 2001,Man United,2-0,1-0,Leicester
+Sat Nov 17 2001,Tottenham,1-1,0-0,Arsenal
+Sun Nov 18 2001,Everton,0-0,0-0,Chelsea
+Sun Nov 18 2001,Ipswich,1-2,1-2,Bolton
+Sun Nov 18 2001,Sunderland,2-0,0-0,Leeds
+Mon Nov 19 2001,Charlton,4-4,2-2,West Ham
+Sat Nov 24 2001,Bolton,0-0,0-0,Fulham
+Sat Nov 24 2001,Chelsea,0-0,0-0,Blackburn
+Sat Nov 24 2001,Leicester,0-0,0-0,Everton
+Sat Nov 24 2001,Newcastle,1-0,1-0,Derby
+Sat Nov 24 2001,Southampton,1-0,0-0,Charlton
+Sat Nov 24 2001,West Ham,0-1,0-0,Tottenham
+Sun Nov 25 2001,Arsenal,3-1,0-1,Man United
+Sun Nov 25 2001,Leeds,1-1,1-1,Aston Villa
+Sun Nov 25 2001,Liverpool,1-0,1-0,Sunderland
+Sun Nov 25 2001,Middlesbrough,0-0,0-0,Ipswich
+Sat Dec 1 2001,Aston Villa,0-2,0-1,Leicester
+Sat Dec 1 2001,Blackburn,0-1,0-1,Middlesbrough
+Sat Dec 1 2001,Charlton,1-1,0-0,Newcastle
+Sat Dec 1 2001,Derby,0-1,0-1,Liverpool
+Sat Dec 1 2001,Ipswich,0-2,0-1,Arsenal
+Sat Dec 1 2001,Man United,0-3,0-1,Chelsea
+Sat Dec 1 2001,Sunderland,1-0,0-0,West Ham
+Sun Dec 2 2001,Everton,2-0,0-0,Southampton
+Sun Dec 2 2001,Fulham,0-0,0-0,Leeds
+Mon Dec 3 2001,Tottenham,3-2,0-1,Bolton
+Wed Dec 5 2001,Chelsea,0-1,0-0,Charlton
+Wed Dec 5 2001,West Ham,1-1,0-1,Aston Villa
+Sat Dec 8 2001,Charlton,3-1,2-0,Tottenham
+Sat Dec 8 2001,Derby,1-0,0-0,Bolton
+Sat Dec 8 2001,Fulham,2-0,1-0,Everton
+Sat Dec 8 2001,Leicester,0-4,0-1,Southampton
+Sat Dec 8 2001,Liverpool,2-0,2-0,Middlesbrough
+Sat Dec 8 2001,Man United,0-1,0-0,West Ham
+Sun Dec 9 2001,Arsenal,3-2,0-2,Aston Villa
+Sun Dec 9 2001,Blackburn,1-2,0-0,Leeds
+Sun Dec 9 2001,Ipswich,0-1,0-1,Newcastle
+Sun Dec 9 2001,Sunderland,0-0,0-0,Chelsea
+Wed Dec 12 2001,Liverpool,0-0,0-0,Fulham
+Wed Dec 12 2001,Man United,5-0,2-0,Derby
+Sat Dec 15 2001,Bolton,0-0,0-0,Charlton
+Sat Dec 15 2001,Everton,1-0,0-0,Derby
+Sat Dec 15 2001,Middlesbrough,0-1,0-0,Man United
+Sat Dec 15 2001,Newcastle,2-1,0-1,Blackburn
+Sat Dec 15 2001,Southampton,2-0,1-0,Sunderland
+Sat Dec 15 2001,Tottenham,4-0,2-0,Fulham
+Sat Dec 15 2001,West Ham,1-1,1-1,Arsenal
+Sun Dec 16 2001,Chelsea,4-0,2-0,Liverpool
+Sun Dec 16 2001,Leeds,2-2,1-0,Leicester
+Mon Dec 17 2001,Aston Villa,2-1,1-1,Ipswich
+Tue Dec 18 2001,Arsenal,1-3,1-0,Newcastle
+Wed Dec 19 2001,Leeds,3-2,2-0,Everton
+Sat Dec 22 2001,Charlton,0-2,0-0,Blackburn
+Sat Dec 22 2001,Derby,3-1,1-1,Aston Villa
+Sat Dec 22 2001,Leeds,3-4,1-1,Newcastle
+Sat Dec 22 2001,Leicester,1-1,1-0,West Ham
+Sat Dec 22 2001,Man United,6-1,3-0,Southampton
+Sat Dec 22 2001,Sunderland,1-0,0-0,Everton
+Sat Dec 22 2001,Tottenham,1-2,1-1,Ipswich
+Sun Dec 23 2001,Chelsea,5-1,2-1,Bolton
+Sun Dec 23 2001,Liverpool,1-2,0-1,Arsenal
+Wed Dec 26 2001,Arsenal,2-1,0-1,Chelsea
+Wed Dec 26 2001,Aston Villa,1-2,1-1,Liverpool
+Wed Dec 26 2001,Blackburn,0-3,0-2,Sunderland
+Wed Dec 26 2001,Bolton,0-3,0-2,Leeds
+Wed Dec 26 2001,Everton,0-2,0-0,Man United
+Wed Dec 26 2001,Fulham,0-0,0-0,Charlton
+Wed Dec 26 2001,Ipswich,2-0,0-0,Leicester
+Wed Dec 26 2001,Newcastle,3-0,1-0,Middlesbrough
+Wed Dec 26 2001,Southampton,1-0,0-0,Tottenham
+Wed Dec 26 2001,West Ham,4-0,1-0,Derby
+Sat Dec 29 2001,Arsenal,2-1,0-1,Middlesbrough
+Sat Dec 29 2001,Aston Villa,1-1,0-1,Tottenham
+Sat Dec 29 2001,Blackburn,0-1,0-1,Derby
+Sat Dec 29 2001,Bolton,2-2,1-2,Leicester
+Sat Dec 29 2001,Everton,0-3,0-1,Charlton
+Sat Dec 29 2001,Ipswich,5-0,4-0,Sunderland
+Sat Dec 29 2001,Newcastle,1-2,1-2,Chelsea
+Sat Dec 29 2001,Southampton,0-1,0-0,Leeds
+Sat Dec 29 2001,West Ham,1-1,1-0,Liverpool
+Sun Dec 30 2001,Fulham,2-3,1-2,Man United
+Tue Jan 1 2002,Charlton,3-2,2-2,Ipswich
+Tue Jan 1 2002,Chelsea,2-4,2-1,Southampton
+Tue Jan 1 2002,Leeds,3-0,2-0,West Ham
+Tue Jan 1 2002,Liverpool,1-1,0-0,Bolton
+Tue Jan 1 2002,Middlesbrough,1-0,0-0,Everton
+Tue Jan 1 2002,Sunderland,1-1,0-0,Aston Villa
+Tue Jan 1 2002,Tottenham,1-0,1-0,Blackburn
+Wed Jan 2 2002,Derby,0-1,0-0,Fulham
+Wed Jan 2 2002,Man United,3-1,1-0,Newcastle
+Wed Jan 9 2002,Southampton,2-0,0-0,Liverpool
+Sat Jan 12 2002,Aston Villa,2-1,2-1,Derby
+Sat Jan 12 2002,Blackburn,4-1,2-0,Charlton
+Sat Jan 12 2002,Bolton,2-2,0-0,Chelsea
+Sat Jan 12 2002,Everton,1-0,1-0,Sunderland
+Sat Jan 12 2002,Fulham,2-1,2-1,Middlesbrough
+Sat Jan 12 2002,Ipswich,2-1,1-0,Tottenham
+Sat Jan 12 2002,Newcastle,3-1,1-1,Leeds
+Sat Jan 12 2002,West Ham,1-0,1-0,Leicester
+Sun Jan 13 2002,Arsenal,1-1,0-0,Liverpool
+Sun Jan 13 2002,Southampton,1-3,1-2,Man United
+Sat Jan 19 2002,Derby,1-3,0-0,Ipswich
+Sat Jan 19 2002,Leicester,0-0,0-0,Newcastle
+Sat Jan 19 2002,Liverpool,1-1,1-0,Southampton
+Sat Jan 19 2002,Man United,2-1,1-0,Blackburn
+Sat Jan 19 2002,Middlesbrough,1-1,1-0,Bolton
+Sat Jan 19 2002,Sunderland,1-1,0-1,Fulham
+Sat Jan 19 2002,Tottenham,1-1,1-1,Everton
+Sun Jan 20 2002,Chelsea,5-1,1-0,West Ham
+Sun Jan 20 2002,Leeds,1-1,1-1,Arsenal
+Mon Jan 21 2002,Charlton,1-2,0-2,Aston Villa
+Tue Jan 22 2002,Man United,0-1,0-0,Liverpool
+Wed Jan 23 2002,Leicester,1-3,0-2,Arsenal
+Tue Jan 29 2002,Bolton,0-4,0-2,Man United
+Tue Jan 29 2002,Charlton,1-0,0-0,Derby
+Tue Jan 29 2002,Sunderland,0-1,0-1,Middlesbrough
+Wed Jan 30 2002,Aston Villa,0-0,0-0,Everton
+Wed Jan 30 2002,Blackburn,2-3,2-2,Arsenal
+Wed Jan 30 2002,Chelsea,2-0,2-0,Leeds
+Wed Jan 30 2002,Ipswich,1-0,1-0,Fulham
+Wed Jan 30 2002,Liverpool,1-0,0-0,Leicester
+Wed Jan 30 2002,Southampton,2-0,1-0,West Ham
+Wed Jan 30 2002,Tottenham,1-3,1-0,Newcastle
+Sat Feb 2 2002,Arsenal,1-1,1-0,Southampton
+Sat Feb 2 2002,Derby,1-0,1-0,Tottenham
+Sat Feb 2 2002,Everton,1-2,1-2,Ipswich
+Sat Feb 2 2002,Fulham,0-0,0-0,Aston Villa
+Sat Feb 2 2002,Leicester,2-3,1-0,Chelsea
+Sat Feb 2 2002,Man United,4-1,4-1,Sunderland
+Sat Feb 2 2002,Newcastle,3-2,2-2,Bolton
+Sat Feb 2 2002,West Ham,2-0,1-0,Blackburn
+Sun Feb 3 2002,Leeds,0-4,0-1,Liverpool
+Sun Feb 3 2002,Middlesbrough,0-0,0-0,Charlton
+Sat Feb 9 2002,Aston Villa,1-1,1-0,Chelsea
+Sat Feb 9 2002,Bolton,1-0,1-0,West Ham
+Sat Feb 9 2002,Derby,0-1,0-0,Sunderland
+Sat Feb 9 2002,Fulham,2-0,1-0,Blackburn
+Sat Feb 9 2002,Ipswich,0-6,0-2,Liverpool
+Sat Feb 9 2002,Middlesbrough,2-2,0-1,Leeds
+Sat Feb 9 2002,Newcastle,3-1,3-1,Southampton
+Sat Feb 9 2002,Tottenham,2-1,1-0,Leicester
+Sun Feb 10 2002,Charlton,0-2,0-1,Man United
+Sun Feb 10 2002,Everton,0-1,0-0,Arsenal
+Tue Feb 19 2002,Middlesbrough,2-1,1-0,Fulham
+Sat Feb 23 2002,Arsenal,4-1,3-1,Fulham
+Sat Feb 23 2002,Leicester,0-3,0-0,Derby
+Sat Feb 23 2002,Liverpool,1-1,0-0,Everton
+Sat Feb 23 2002,Man United,1-0,0-0,Aston Villa
+Sat Feb 23 2002,Southampton,0-0,0-0,Bolton
+Sat Feb 23 2002,West Ham,1-0,0-0,Middlesbrough
+Sun Feb 24 2002,Leeds,0-0,0-0,Charlton
+Sun Feb 24 2002,Sunderland,0-1,0-0,Newcastle
+Sat Mar 2 2002,Aston Villa,2-1,1-1,West Ham
+Sat Mar 2 2002,Bolton,1-1,1-0,Blackburn
+Sat Mar 2 2002,Charlton,2-1,0-0,Chelsea
+Sat Mar 2 2002,Fulham,0-2,0-1,Liverpool
+Sat Mar 2 2002,Ipswich,1-3,0-0,Southampton
+Sat Mar 2 2002,Middlesbrough,1-0,1-0,Leicester
+Sat Mar 2 2002,Newcastle,0-2,0-2,Arsenal
+Sat Mar 2 2002,Tottenham,2-1,1-1,Sunderland
+Sun Mar 3 2002,Derby,2-2,1-1,Man United
+Sun Mar 3 2002,Everton,0-0,0-0,Leeds
+Tue Mar 5 2002,Arsenal,1-0,0-0,Derby
+Tue Mar 5 2002,Blackburn,3-0,1-0,Aston Villa
+Tue Mar 5 2002,Sunderland,1-0,1-0,Bolton
+Wed Mar 6 2002,Chelsea,3-2,2-1,Fulham
+Wed Mar 6 2002,Leeds,2-0,0-0,Ipswich
+Wed Mar 6 2002,Liverpool,3-0,1-0,Newcastle
+Wed Mar 6 2002,Man United,4-0,2-0,Tottenham
+Wed Mar 6 2002,Southampton,1-1,1-0,Middlesbrough
+Wed Mar 6 2002,West Ham,1-0,0-0,Everton
+Sat Mar 9 2002,Leicester,1-1,1-1,Charlton
+Wed Mar 13 2002,Blackburn,2-1,2-0,Ipswich
+Wed Mar 13 2002,Chelsea,4-0,1-0,Tottenham
+Sat Mar 16 2002,Bolton,1-3,0-1,Derby
+Sat Mar 16 2002,Chelsea,4-0,1-0,Sunderland
+Sat Mar 16 2002,Everton,2-1,2-0,Fulham
+Sat Mar 16 2002,Middlesbrough,1-2,0-1,Liverpool
+Sat Mar 16 2002,Newcastle,2-2,0-0,Ipswich
+Sat Mar 16 2002,Southampton,2-2,1-2,Leicester
+Sat Mar 16 2002,West Ham,3-5,2-2,Man United
+Sun Mar 17 2002,Aston Villa,1-2,1-0,Arsenal
+Sun Mar 17 2002,Leeds,3-1,2-0,Blackburn
+Mon Mar 18 2002,Tottenham,0-1,0-0,Charlton
+Sat Mar 23 2002,Charlton,1-2,0-2,Bolton
+Sat Mar 23 2002,Derby,3-4,0-1,Everton
+Sat Mar 23 2002,Ipswich,0-0,0-0,Aston Villa
+Sat Mar 23 2002,Leicester,0-2,0-2,Leeds
+Sat Mar 23 2002,Man United,0-1,0-1,Middlesbrough
+Sat Mar 23 2002,Sunderland,1-1,0-0,Southampton
+Sun Mar 24 2002,Fulham,0-2,0-2,Tottenham
+Sun Mar 24 2002,Liverpool,1-0,0-0,Chelsea
+Fri Mar 29 2002,Newcastle,6-2,2-2,Everton
+Sat Mar 30 2002,Arsenal,3-0,3-0,Sunderland
+Sat Mar 30 2002,Bolton,3-2,2-2,Aston Villa
+Sat Mar 30 2002,Chelsea,2-1,0-0,Derby
+Sat Mar 30 2002,Leeds,3-4,1-3,Man United
+Sat Mar 30 2002,Leicester,2-1,1-0,Blackburn
+Sat Mar 30 2002,Liverpool,2-0,2-0,Charlton
+Sat Mar 30 2002,Middlesbrough,1-1,0-1,Tottenham
+Sat Mar 30 2002,Southampton,1-1,1-1,Fulham
+Sat Mar 30 2002,West Ham,3-1,1-0,Ipswich
+Mon Apr 1 2002,Blackburn,2-0,2-0,Southampton
+Mon Apr 1 2002,Charlton,0-3,0-3,Arsenal
+Mon Apr 1 2002,Derby,0-1,0-1,Middlesbrough
+Mon Apr 1 2002,Everton,3-1,1-0,Bolton
+Mon Apr 1 2002,Fulham,0-1,0-1,West Ham
+Mon Apr 1 2002,Ipswich,0-0,0-0,Chelsea
+Mon Apr 1 2002,Sunderland,2-1,2-1,Leicester
+Mon Apr 1 2002,Tottenham,2-1,2-0,Leeds
+Tue Apr 2 2002,Aston Villa,1-1,1-1,Newcastle
+Sat Apr 6 2002,Arsenal,2-1,1-0,Tottenham
+Sat Apr 6 2002,Bolton,4-1,4-0,Ipswich
+Sat Apr 6 2002,Chelsea,3-0,2-0,Everton
+Sat Apr 6 2002,Leicester,0-1,0-0,Man United
+Sat Apr 6 2002,Middlesbrough,2-1,1-0,Aston Villa
+Sat Apr 6 2002,Southampton,2-0,1-0,Derby
+Sat Apr 6 2002,West Ham,2-0,2-0,Charlton
+Sun Apr 7 2002,Leeds,2-0,1-0,Sunderland
+Mon Apr 8 2002,Newcastle,1-1,1-0,Fulham
+Wed Apr 10 2002,Blackburn,0-0,0-0,Chelsea
+Sat Apr 13 2002,Aston Villa,0-1,0-1,Leeds
+Sat Apr 13 2002,Charlton,1-1,1-0,Southampton
+Sat Apr 13 2002,Derby,2-3,0-0,Newcastle
+Sat Apr 13 2002,Everton,2-2,0-2,Leicester
+Sat Apr 13 2002,Sunderland,0-1,0-0,Liverpool
+Sat Apr 13 2002,Tottenham,1-1,0-0,West Ham
+Sat Apr 20 2002,Bolton,1-1,0-1,Tottenham
+Sat Apr 20 2002,Chelsea,0-3,0-2,Man United
+Sat Apr 20 2002,Leeds,0-1,0-0,Fulham
+Sat Apr 20 2002,Leicester,2-2,1-2,Aston Villa
+Sat Apr 20 2002,Liverpool,2-0,1-0,Derby
+Sat Apr 20 2002,Middlesbrough,1-3,0-1,Blackburn
+Sat Apr 20 2002,Newcastle,3-0,1-0,Charlton
+Sat Apr 20 2002,Southampton,0-1,0-1,Everton
+Sat Apr 20 2002,West Ham,3-0,1-0,Sunderland
+Sun Apr 21 2002,Arsenal,2-0,0-0,Ipswich
+Tue Apr 23 2002,Blackburn,2-2,1-0,Newcastle
+Tue Apr 23 2002,Fulham,3-0,1-0,Bolton
+Wed Apr 24 2002,Arsenal,2-0,0-0,West Ham
+Wed Apr 24 2002,Ipswich,1-0,0-0,Middlesbrough
+Sat Apr 27 2002,Aston Villa,2-1,2-0,Southampton
+Sat Apr 27 2002,Charlton,2-2,1-2,Sunderland
+Sat Apr 27 2002,Derby,0-1,0-1,Leeds
+Sat Apr 27 2002,Fulham,0-0,0-0,Leicester
+Sat Apr 27 2002,Ipswich,0-1,0-1,Man United
+Sat Apr 27 2002,Middlesbrough,0-2,0-2,Chelsea
+Sat Apr 27 2002,Newcastle,3-1,1-1,West Ham
+Sat Apr 27 2002,Tottenham,1-0,1-0,Liverpool
+Sun Apr 28 2002,Everton,1-2,0-1,Blackburn
+Mon Apr 29 2002,Bolton,0-2,0-2,Arsenal
+Wed May 8 2002,Liverpool,4-3,2-1,Blackburn
+Wed May 8 2002,Man United,0-1,0-0,Arsenal
+Sat May 11 2002,Arsenal,4-3,2-2,Everton
+Sat May 11 2002,Blackburn,3-0,0-0,Fulham
+Sat May 11 2002,Chelsea,1-3,0-1,Aston Villa
+Sat May 11 2002,Leeds,1-0,0-0,Middlesbrough
+Sat May 11 2002,Leicester,2-1,0-0,Tottenham
+Sat May 11 2002,Liverpool,5-0,2-0,Ipswich
+Sat May 11 2002,Man United,0-0,0-0,Charlton
+Sat May 11 2002,Southampton,3-1,2-0,Newcastle
+Sat May 11 2002,Sunderland,1-1,1-0,Derby
+Sat May 11 2002,West Ham,2-1,1-0,Bolton
