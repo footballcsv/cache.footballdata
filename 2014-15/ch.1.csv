@@ -1,0 +1,181 @@
+Date,Team 1,FT,HT,Team 2
+Sat Jul 19 2014,Aarau,1-2,?,Basel
+Sat Jul 19 2014,St. Gallen,2-2,?,Young Boys
+Sun Jul 20 2014,Luzern,1-1,?,Sion
+Sun Jul 20 2014,Thun,1-0,?,Vaduz
+Sun Jul 20 2014,Zurich,1-0,?,Grasshoppers
+Wed Jul 23 2014,Aarau,1-0,?,Sion
+Wed Jul 23 2014,Zurich,2-1,?,Thun
+Sat Jul 26 2014,Grasshoppers,2-3,?,Thun
+Sat Jul 26 2014,Sion,1-0,?,St. Gallen
+Sun Jul 27 2014,Vaduz,1-4,?,Zurich
+Sun Jul 27 2014,Young Boys,1-1,?,Aarau
+Sun Jul 27 2014,Basel,3-0,?,Luzern
+Sat Aug 2 2014,Thun,2-3,?,Basel
+Sat Aug 2 2014,Grasshoppers,0-0,?,Sion
+Sun Aug 3 2014,Zurich,2-1,?,Young Boys
+Sun Aug 3 2014,St. Gallen,2-1,?,Luzern
+Wed Aug 6 2014,Aarau,1-1,?,Vaduz
+Sat Aug 9 2014,St. Gallen,2-2,?,Aarau
+Sat Aug 9 2014,Basel,4-1,?,Zurich
+Sun Aug 10 2014,Luzern,1-1,?,Grasshoppers
+Sun Aug 10 2014,Sion,1-0,?,Vaduz
+Sun Aug 10 2014,Young Boys,1-1,?,Thun
+Wed Aug 13 2014,Vaduz,1-1,?,Luzern
+Wed Aug 13 2014,Young Boys,4-0,?,Grasshoppers
+Thu Aug 14 2014,Basel,0-2,?,St. Gallen
+Sat Aug 16 2014,Aarau,1-2,?,Grasshoppers
+Sat Aug 16 2014,Luzern,1-1,?,Zurich
+Sun Aug 17 2014,Sion,2-3,?,Basel
+Sun Aug 17 2014,Thun,3-1,?,St. Gallen
+Sun Aug 17 2014,Vaduz,0-2,?,Young Boys
+Sat Aug 30 2014,Thun,2-1,?,Sion
+Sat Aug 30 2014,Luzern,1-1,?,Aarau
+Sun Aug 31 2014,Grasshoppers,0-1,?,Vaduz
+Sun Aug 31 2014,St. Gallen,0-2,?,Zurich
+Sun Aug 31 2014,Basel,3-1,?,Young Boys
+Sat Sep 13 2014,Grasshoppers,3-1,?,Basel
+Sat Sep 13 2014,Aarau,2-1,?,Thun
+Sun Sep 14 2014,Vaduz,2-2,?,St. Gallen
+Sun Sep 14 2014,Young Boys,3-2,?,Luzern
+Sun Sep 14 2014,Zurich,4-1,?,Sion
+Tue Sep 23 2014,Basel,3-1,?,Vaduz
+Tue Sep 23 2014,Thun,3-2,?,Luzern
+Wed Sep 24 2014,St. Gallen,3-0,?,Grasshoppers
+Wed Sep 24 2014,Zurich,0-0,?,Aarau
+Wed Sep 24 2014,Sion,0-1,?,Young Boys
+Sat Sep 27 2014,Grasshoppers,2-1,?,Aarau
+Sat Sep 27 2014,Basel,1-1,?,Thun
+Sun Sep 28 2014,Vaduz,1-0,?,Sion
+Sun Sep 28 2014,Young Boys,2-1,?,Zurich
+Sun Sep 28 2014,Luzern,1-2,?,St. Gallen
+Sat Oct 4 2014,Thun,3-2,?,Grasshoppers
+Sat Oct 4 2014,St. Gallen,2-1,?,Basel
+Sun Oct 5 2014,Sion,3-1,?,Luzern
+Sun Oct 5 2014,Zurich,3-0,?,Vaduz
+Sun Oct 5 2014,Aarau,3-2,?,Young Boys
+Sat Oct 18 2014,Aarau,0-3,?,St. Gallen
+Sat Oct 18 2014,Young Boys,0-1,?,Basel
+Sun Oct 19 2014,Luzern,0-0,?,Vaduz
+Sun Oct 19 2014,Sion,0-0,?,Thun
+Sun Oct 19 2014,Grasshoppers,1-3,?,Zurich
+Sat Oct 25 2014,Thun,0-0,?,Aarau
+Sat Oct 25 2014,Basel,1-1,?,Sion
+Sun Oct 26 2014,Vaduz,1-1,?,Grasshoppers
+Sun Oct 26 2014,Zurich,1-1,?,St. Gallen
+Sat Nov 1 2014,Zurich,2-3,?,Luzern
+Sat Nov 1 2014,Basel,2-0,?,Grasshoppers
+Sun Nov 2 2014,Sion,2-2,?,Aarau
+Sun Nov 2 2014,Young Boys,0-1,?,Vaduz
+Sun Nov 2 2014,St. Gallen,1-0,?,Thun
+Sat Nov 8 2014,Luzern,0-0,?,Thun
+Sat Nov 8 2014,Grasshoppers,3-0,?,St. Gallen
+Sun Nov 9 2014,Aarau,0-1,?,Zurich
+Sun Nov 9 2014,Vaduz,0-4,?,Basel
+Sun Nov 9 2014,Young Boys,2-1,?,Sion
+Sat Nov 22 2014,Sion,1-3,?,Zurich
+Sat Nov 22 2014,Grasshoppers,3-2,?,Luzern
+Sun Nov 23 2014,Basel,3-0,?,Aarau
+Sun Nov 23 2014,St. Gallen,3-3,?,Vaduz
+Sun Nov 23 2014,Thun,0-1,?,Young Boys
+Sat Nov 29 2014,Aarau,0-3,?,Luzern
+Sat Nov 29 2014,Sion,3-3,?,Grasshoppers
+Sun Nov 30 2014,Vaduz,0-1,?,Thun
+Sun Nov 30 2014,Young Boys,4-2,?,St. Gallen
+Sun Nov 30 2014,Zurich,1-2,?,Basel
+Wed Dec 3 2014,Luzern,1-2,?,Young Boys
+Sat Dec 6 2014,Luzern,0-3,?,Basel
+Sat Dec 6 2014,Grasshoppers,0-1,?,Young Boys
+Sun Dec 7 2014,Thun,2-1,?,Zurich
+Sun Dec 7 2014,Vaduz,1-0,?,Aarau
+Sun Dec 7 2014,St. Gallen,2-0,?,Sion
+Sat Feb 7 2015,Luzern,1-1,?,Young Boys
+Sat Feb 7 2015,St. Gallen,1-4,?,Zurich
+Sun Feb 8 2015,Thun,1-1,?,Aarau
+Sun Feb 8 2015,Grasshoppers,2-4,?,Basel
+Sat Feb 14 2015,Basel,1-1,?,Sion
+Sat Feb 14 2015,Young Boys,4-2,?,Grasshoppers
+Sun Feb 15 2015,Aarau,0-1,?,Vaduz
+Sun Feb 15 2015,St. Gallen,0-0,?,Luzern
+Sun Feb 15 2015,Zurich,0-1,?,Thun
+Sat Feb 21 2015,Grasshoppers,0-2,?,Zurich
+Sun Feb 22 2015,Luzern,4-0,?,Aarau
+Sun Feb 22 2015,Vaduz,1-1,?,Thun
+Sun Feb 22 2015,Young Boys,4-2,?,Basel
+Wed Feb 25 2015,Vaduz,0-2,?,Sion
+Sat Feb 28 2015,Zurich,0-0,?,Aarau
+Sat Feb 28 2015,Basel,1-0,?,Vaduz
+Sun Mar 1 2015,St. Gallen,1-1,?,Grasshoppers
+Sun Mar 1 2015,Thun,0-0,?,Young Boys
+Sun Mar 1 2015,Sion,2-2,?,Luzern
+Sat Mar 7 2015,Grasshoppers,1-0,?,Luzern
+Sat Mar 7 2015,Basel,3-0,?,Thun
+Sun Mar 8 2015,Vaduz,2-2,?,Zurich
+Sun Mar 8 2015,Young Boys,3-2,?,Sion
+Sun Mar 8 2015,Aarau,0-2,?,St. Gallen
+Sat Mar 14 2015,Luzern,2-0,?,Vaduz
+Sat Mar 14 2015,Thun,2-2,?,Grasshoppers
+Sun Mar 15 2015,Aarau,1-1,?,Young Boys
+Sun Mar 15 2015,Zurich,0-1,?,Sion
+Sun Mar 15 2015,St. Gallen,2-2,?,Basel
+Wed Mar 18 2015,Sion,3-0,?,St. Gallen
+Sat Mar 21 2015,Luzern,1-4,?,Basel
+Sat Mar 21 2015,Grasshoppers,3-1,?,Aarau
+Sun Mar 22 2015,Sion,3-0,?,Thun
+Sun Mar 22 2015,Vaduz,3-1,?,St. Gallen
+Sun Mar 22 2015,Young Boys,3-0,?,Zurich
+Fri Apr 3 2015,Vaduz,0-1,?,Young Boys
+Fri Apr 3 2015,Sion,0-5,?,Grasshoppers
+Sat Apr 4 2015,Thun,4-1,?,St. Gallen
+Sat Apr 4 2015,Zurich,0-1,?,Luzern
+Sat Apr 4 2015,Basel,6-0,?,Aarau
+Sat Apr 11 2015,Thun,1-0,?,Luzern
+Sat Apr 11 2015,St. Gallen,3-1,?,Young Boys
+Sun Apr 12 2015,Aarau,0-1,?,Sion
+Sun Apr 12 2015,Grasshoppers,1-1,?,Vaduz
+Sun Apr 12 2015,Basel,5-1,?,Zurich
+Sat Apr 18 2015,Sion,0-1,?,Basel
+Sat Apr 18 2015,Zurich,1-2,?,St. Gallen
+Sun Apr 19 2015,Vaduz,0-2,?,Aarau
+Sun Apr 19 2015,Young Boys,4-0,?,Thun
+Sun Apr 19 2015,Luzern,2-0,?,Grasshoppers
+Sat Apr 25 2015,Aarau,0-0,?,Zurich
+Sat Apr 25 2015,Thun,2-1,?,Sion
+Sun Apr 26 2015,Basel,1-2,?,Luzern
+Sun Apr 26 2015,St. Gallen,1-2,?,Vaduz
+Sun Apr 26 2015,Grasshoppers,2-2,?,Young Boys
+Tue Apr 28 2015,Sion,1-2,?,Zurich
+Wed Apr 29 2015,Grasshoppers,0-0,?,Thun
+Wed Apr 29 2015,Vaduz,1-3,?,Basel
+Wed Apr 29 2015,Young Boys,2-2,?,Aarau
+Thu Apr 30 2015,Luzern,6-2,?,St. Gallen
+Sat May 2 2015,Thun,4-0,?,Vaduz
+Sat May 2 2015,Basel,2-1,?,Grasshoppers
+Sun May 3 2015,Aarau,2-6,?,Luzern
+Sun May 3 2015,St. Gallen,0-1,?,Sion
+Sun May 3 2015,Zurich,0-1,?,Young Boys
+Sat May 9 2015,Aarau,0-1,?,Grasshoppers
+Sat May 9 2015,Sion,4-0,?,Vaduz
+Sun May 10 2015,Luzern,0-0,?,Thun
+Sun May 10 2015,Young Boys,3-1,?,St. Gallen
+Sun May 10 2015,Zurich,1-2,?,Basel
+Sat May 16 2015,Vaduz,0-2,?,Luzern
+Sat May 16 2015,Sion,1-0,?,Aarau
+Sun May 17 2015,Grasshoppers,2-0,?,St. Gallen
+Sun May 17 2015,Thun,2-2,?,Zurich
+Sun May 17 2015,Basel,0-0,?,Young Boys
+Wed May 20 2015,Grasshoppers,0-0,?,Sion
+Wed May 20 2015,St. Gallen,2-1,?,Thun
+Wed May 20 2015,Aarau,2-1,?,Basel
+Thu May 21 2015,Young Boys,0-1,?,Luzern
+Thu May 21 2015,Zurich,2-2,?,Vaduz
+Mon May 25 2015,Luzern,0-1,?,Zurich
+Mon May 25 2015,Sion,6-2,?,Young Boys
+Mon May 25 2015,St. Gallen,5-1,?,Aarau
+Mon May 25 2015,Thun,2-2,?,Basel
+Mon May 25 2015,Vaduz,0-1,?,Grasshoppers
+Fri May 29 2015,Aarau,3-2,?,Thun
+Fri May 29 2015,Basel,4-3,?,St. Gallen
+Fri May 29 2015,Luzern,3-0,?,Sion
+Fri May 29 2015,Young Boys,2-1,?,Vaduz
+Fri May 29 2015,Zurich,4-3,?,Grasshoppers

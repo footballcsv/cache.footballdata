@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 3 2018,Hamburg,0-3,0-0,Holstein Kiel
+Sat Aug 4 2018,Bochum,0-2,0-1,FC Koln
+Sat Aug 4 2018,Greuther Furth,3-1,0-0,Sandhausen
+Sat Aug 4 2018,Regensburg,2-1,1-1,Ingolstadt
+Sun Aug 5 2018,Darmstadt,1-0,0-0,Paderborn
+Sun Aug 5 2018,Heidenheim,1-1,1-1,Bielefeld
+Sun Aug 5 2018,Magdeburg,1-2,1-1,St Pauli
+Sun Aug 5 2018,Union Berlin,1-0,0-0,Erzgebirge Aue
+Mon Aug 6 2018,Dresden,1-0,1-0,Duisburg
+Fri Aug 10 2018,Ingolstadt,1-1,0-0,Greuther Furth
+Fri Aug 10 2018,Paderborn,2-0,1-0,Regensburg
+Fri Aug 10 2018,St Pauli,2-0,0-0,Darmstadt
+Sat Aug 11 2018,Bielefeld,2-1,2-0,Dresden
+Sat Aug 11 2018,Duisburg,0-2,0-0,Bochum
+Sun Aug 12 2018,Erzgebirge Aue,0-0,0-0,Magdeburg
+Sun Aug 12 2018,Holstein Kiel,1-1,1-1,Heidenheim
+Sun Aug 12 2018,Sandhausen,0-3,0-2,Hamburg
+Mon Aug 13 2018,FC Koln,1-1,1-0,Union Berlin
+Fri Aug 24 2018,Bochum,1-0,0-0,Sandhausen
+Fri Aug 24 2018,Darmstadt,3-0,0-0,Duisburg
+Sat Aug 25 2018,FC Koln,3-1,1-1,Erzgebirge Aue
+Sat Aug 25 2018,Greuther Furth,2-2,0-0,Paderborn
+Sat Aug 25 2018,Magdeburg,1-1,1-1,Ingolstadt
+Sun Aug 26 2018,Dresden,1-3,0-2,Heidenheim
+Sun Aug 26 2018,Regensburg,0-0,0-0,Holstein Kiel
+Sun Aug 26 2018,Union Berlin,4-1,2-0,St Pauli
+Mon Aug 27 2018,Hamburg,3-0,1-0,Bielefeld
+Fri Aug 31 2018,Ingolstadt,3-2,1-1,Erzgebirge Aue
+Fri Aug 31 2018,Paderborn,2-2,0-1,Bochum
+Sat Sep 1 2018,Bielefeld,5-3,3-2,Regensburg
+Sat Sep 1 2018,Duisburg,0-1,0-1,Greuther Furth
+Sun Sep 2 2018,Heidenheim,0-1,0-1,Darmstadt
+Sun Sep 2 2018,Sandhausen,0-0,0-0,Union Berlin
+Sun Sep 2 2018,St Pauli,3-5,2-2,FC Koln
+Mon Sep 3 2018,Holstein Kiel,2-1,0-0,Magdeburg
+Fri Sep 14 2018,Regensburg,0-2,0-1,Dresden
+Fri Sep 14 2018,Union Berlin,2-2,1-0,Duisburg
+Sat Sep 15 2018,Darmstadt,1-1,0-0,Sandhausen
+Sat Sep 15 2018,Greuther Furth,4-1,0-0,Holstein Kiel
+Sat Sep 15 2018,Hamburg,3-2,0-0,Heidenheim
+Sun Sep 16 2018,Bochum,6-0,3-0,Ingolstadt
+Sun Sep 16 2018,Erzgebirge Aue,3-1,2-1,St Pauli
+Sun Sep 16 2018,FC Koln,3-5,1-1,Paderborn
+Mon Sep 17 2018,Magdeburg,0-0,0-0,Bielefeld
+Tue Sep 18 2018,Dresden,0-1,0-0,Hamburg
+Fri Sep 21 2018,Ingolstadt,0-1,0-0,St Pauli
+Fri Sep 21 2018,Sandhausen,0-2,0-1,FC Koln
+Sat Sep 22 2018,Bielefeld,1-1,0-1,Union Berlin
+Sat Sep 22 2018,Dresden,4-1,1-1,Darmstadt
+Sat Sep 22 2018,Holstein Kiel,2-2,0-1,Bochum
+Sun Sep 23 2018,Duisburg,1-2,1-0,Erzgebirge Aue
+Sun Sep 23 2018,Hamburg,0-5,0-3,Regensburg
+Sun Sep 23 2018,Heidenheim,2-0,0-0,Greuther Furth
+Sun Sep 23 2018,Paderborn,4-4,2-1,Magdeburg
+Tue Sep 25 2018,Bochum,0-1,0-1,Dresden
+Tue Sep 25 2018,Darmstadt,1-2,0-0,Bielefeld
+Tue Sep 25 2018,FC Koln,2-1,0-0,Ingolstadt
+Tue Sep 25 2018,Union Berlin,2-0,0-0,Holstein Kiel
+Wed Sep 26 2018,Erzgebirge Aue,0-2,0-1,Sandhausen
+Wed Sep 26 2018,Magdeburg,3-3,0-1,Duisburg
+Wed Sep 26 2018,Regensburg,2-1,2-1,Heidenheim
+Wed Sep 26 2018,St Pauli,2-1,1-1,Paderborn
+Thu Sep 27 2018,Greuther Furth,0-0,0-0,Hamburg
+Fri Sep 28 2018,Bielefeld,1-3,0-1,FC Koln
+Fri Sep 28 2018,Holstein Kiel,4-2,3-2,Darmstadt
+Sat Sep 29 2018,Duisburg,1-3,1-2,Regensburg
+Sat Sep 29 2018,Heidenheim,3-2,1-2,Bochum
+Sat Sep 29 2018,Paderborn,1-0,1-0,Erzgebirge Aue
+Sun Sep 30 2018,Dresden,0-1,0-0,Greuther Furth
+Sun Sep 30 2018,Hamburg,0-0,0-0,St Pauli
+Sun Sep 30 2018,Sandhausen,0-1,0-0,Magdeburg
+Mon Oct 1 2018,Ingolstadt,1-2,0-1,Union Berlin
+Fri Oct 5 2018,Bochum,1-0,1-0,Bielefeld
+Fri Oct 5 2018,Darmstadt,1-2,0-2,Hamburg
+Sat Oct 6 2018,Erzgebirge Aue,2-1,0-1,Holstein Kiel
+Sat Oct 6 2018,Greuther Furth,1-1,0-0,Regensburg
+Sat Oct 6 2018,Magdeburg,2-2,0-2,Dresden
+Sun Oct 7 2018,Ingolstadt,1-2,0-1,Paderborn
+Sun Oct 7 2018,St Pauli,3-1,1-0,Sandhausen
+Sun Oct 7 2018,Union Berlin,1-1,0-0,Heidenheim
+Mon Oct 8 2018,FC Koln,1-2,1-1,Duisburg
+Fri Oct 19 2018,Dresden,1-1,1-1,Erzgebirge Aue
+Fri Oct 19 2018,Sandhausen,4-0,1-0,Ingolstadt
+Sat Oct 20 2018,Bielefeld,2-3,2-0,Greuther Furth
+Sat Oct 20 2018,Heidenheim,3-0,2-0,Magdeburg
+Sat Oct 20 2018,Holstein Kiel,1-1,0-1,FC Koln
+Sun Oct 21 2018,Hamburg,0-0,0-0,Bochum
+Sun Oct 21 2018,Paderborn,0-0,0-0,Union Berlin
+Sun Oct 21 2018,Regensburg,1-1,0-1,Darmstadt
+Mon Oct 22 2018,Duisburg,0-1,0-0,St Pauli
+Fri Oct 26 2018,Darmstadt,2-0,1-0,Greuther Furth
+Fri Oct 26 2018,Magdeburg,0-1,0-0,Hamburg
+Sat Oct 27 2018,Erzgebirge Aue,1-0,0-0,Bielefeld
+Sat Oct 27 2018,FC Koln,1-1,0-1,Heidenheim
+Sat Oct 27 2018,Paderborn,3-3,1-2,Sandhausen
+Sun Oct 28 2018,Ingolstadt,1-1,0-0,Duisburg
+Sun Oct 28 2018,St Pauli,0-1,0-0,Holstein Kiel
+Sun Oct 28 2018,Union Berlin,0-0,0-0,Dresden
+Mon Oct 29 2018,Bochum,3-3,1-1,Regensburg
+Fri Nov 2 2018,Dresden,3-1,2-1,Sandhausen
+Fri Nov 2 2018,Greuther Furth,2-2,0-2,Bochum
+Sat Nov 3 2018,Darmstadt,3-1,1-0,Magdeburg
+Sat Nov 3 2018,Duisburg,2-0,1-0,Paderborn
+Sat Nov 3 2018,Holstein Kiel,2-2,0-0,Ingolstadt
+Sun Nov 4 2018,Bielefeld,1-2,1-0,St Pauli
+Sun Nov 4 2018,Heidenheim,1-0,0-0,Erzgebirge Aue
+Sun Nov 4 2018,Regensburg,1-1,1-1,Union Berlin
+Mon Nov 5 2018,Hamburg,1-0,0-0,FC Koln
+Fri Nov 9 2018,Paderborn,4-4,3-1,Holstein Kiel
+Fri Nov 9 2018,Sandhausen,0-0,0-0,Duisburg
+Sat Nov 10 2018,Erzgebirge Aue,1-3,1-1,Hamburg
+Sat Nov 10 2018,FC Koln,8-1,2-0,Dresden
+Sat Nov 10 2018,St Pauli,1-1,0-0,Heidenheim
+Sun Nov 11 2018,Ingolstadt,1-1,0-0,Bielefeld
+Sun Nov 11 2018,Magdeburg,2-3,1-1,Regensburg
+Sun Nov 11 2018,Union Berlin,4-0,3-0,Greuther Furth
+Mon Nov 12 2018,Bochum,1-0,0-0,Darmstadt
+Fri Nov 23 2018,Bielefeld,0-1,0-0,Duisburg
+Fri Nov 23 2018,Greuther Furth,3-2,1-1,Magdeburg
+Sat Nov 24 2018,Bochum,2-1,0-1,Erzgebirge Aue
+Sat Nov 24 2018,Darmstadt,0-3,0-0,FC Koln
+Sat Nov 24 2018,Holstein Kiel,2-1,2-0,Sandhausen
+Sun Nov 25 2018,Dresden,2-0,2-0,Ingolstadt
+Sun Nov 25 2018,Heidenheim,1-5,1-2,Paderborn
+Sun Nov 25 2018,Regensburg,1-1,0-1,St Pauli
+Mon Nov 26 2018,Hamburg,2-2,0-1,Union Berlin
+Fri Nov 30 2018,Erzgebirge Aue,1-1,1-1,Regensburg
+Fri Nov 30 2018,Paderborn,2-2,0-0,Bielefeld
+Sat Dec 1 2018,FC Koln,4-0,1-0,Greuther Furth
+Sat Dec 1 2018,Ingolstadt,1-2,0-1,Hamburg
+Sat Dec 1 2018,St Pauli,1-1,0-0,Dresden
+Sat Dec 1 2018,Union Berlin,3-1,2-0,Darmstadt
+Sun Dec 2 2018,Duisburg,0-4,0-0,Holstein Kiel
+Sun Dec 2 2018,Magdeburg,0-0,0-0,Bochum
+Sun Dec 2 2018,Sandhausen,1-2,1-2,Heidenheim
+Fri Dec 7 2018,Hamburg,1-0,1-0,Paderborn
+Fri Dec 7 2018,Regensburg,1-3,0-2,FC Koln
+Sat Dec 8 2018,Darmstadt,1-1,0-1,Ingolstadt
+Sat Dec 8 2018,Greuther Furth,0-5,0-1,Erzgebirge Aue
+Sat Dec 8 2018,Heidenheim,4-1,1-0,Duisburg
+Sun Dec 9 2018,Bielefeld,1-1,0-0,Sandhausen
+Sun Dec 9 2018,Dresden,0-2,0-2,Holstein Kiel
+Sun Dec 9 2018,Magdeburg,1-1,1-0,Union Berlin
+Mon Dec 10 2018,Bochum,1-3,1-2,St Pauli
+Fri Dec 14 2018,Duisburg,1-2,1-2,Hamburg
+Fri Dec 14 2018,Holstein Kiel,1-2,0-1,Bielefeld
+Sat Dec 15 2018,Paderborn,3-0,0-0,Dresden
+Sat Dec 15 2018,St Pauli,2-0,1-0,Greuther Furth
+Sat Dec 15 2018,Union Berlin,2-0,0-0,Bochum
+Sun Dec 16 2018,Erzgebirge Aue,2-2,0-0,Darmstadt
+Sun Dec 16 2018,Ingolstadt,1-1,1-0,Heidenheim
+Sun Dec 16 2018,Sandhausen,2-2,2-1,Regensburg
+Mon Dec 17 2018,FC Koln,3-0,1-0,Magdeburg
+Fri Dec 21 2018,FC Koln,2-3,1-1,Bochum
+Fri Dec 21 2018,Sandhausen,0-0,0-0,Greuther Furth
+Sat Dec 22 2018,Bielefeld,1-2,1-1,Heidenheim
+Sat Dec 22 2018,Ingolstadt,1-2,1-1,Regensburg
+Sat Dec 22 2018,St Pauli,4-1,1-1,Magdeburg
+Sun Dec 23 2018,Duisburg,1-3,0-2,Dresden
+Sun Dec 23 2018,Erzgebirge Aue,3-0,2-0,Union Berlin
+Sun Dec 23 2018,Holstein Kiel,3-1,2-0,Hamburg
+Sun Dec 23 2018,Paderborn,6-2,1-1,Darmstadt
+Tue Jan 29 2019,Bochum,2-1,2-0,Duisburg
+Tue Jan 29 2019,Darmstadt,2-1,0-1,St Pauli
+Tue Jan 29 2019,Greuther Furth,0-1,0-0,Ingolstadt
+Tue Jan 29 2019,Magdeburg,1-0,1-0,Erzgebirge Aue
+Wed Jan 30 2019,Dresden,3-4,3-1,Bielefeld
+Wed Jan 30 2019,Hamburg,2-1,1-0,Sandhausen
+Wed Jan 30 2019,Heidenheim,2-2,2-1,Holstein Kiel
+Wed Jan 30 2019,Regensburg,2-0,0-0,Paderborn
+Thu Jan 31 2019,Union Berlin,2-0,2-0,FC Koln
+Fri Feb 1 2019,Duisburg,3-2,2-0,Darmstadt
+Fri Feb 1 2019,Ingolstadt,0-1,0-0,Magdeburg
+Sat Feb 2 2019,Bielefeld,2-0,2-0,Hamburg
+Sat Feb 2 2019,Heidenheim,1-0,1-0,Dresden
+Sat Feb 2 2019,Paderborn,6-0,3-0,Greuther Furth
+Sun Feb 3 2019,Holstein Kiel,2-0,1-0,Regensburg
+Sun Feb 3 2019,Sandhausen,3-0,0-0,Bochum
+Mon Feb 4 2019,St Pauli,3-2,1-0,Union Berlin
+Fri Feb 8 2019,FC Koln,4-1,1-1,St Pauli
+Fri Feb 8 2019,Regensburg,0-3,0-2,Bielefeld
+Sat Feb 9 2019,Bochum,1-2,0-2,Paderborn
+Sat Feb 9 2019,Greuther Furth,1-0,0-0,Duisburg
+Sat Feb 9 2019,Union Berlin,2-0,1-0,Sandhausen
+Sun Feb 10 2019,Darmstadt,1-2,0-1,Heidenheim
+Sun Feb 10 2019,Erzgebirge Aue,0-3,0-1,Ingolstadt
+Sun Feb 10 2019,Magdeburg,1-1,1-1,Holstein Kiel
+Mon Feb 11 2019,Hamburg,1-0,0-0,Dresden
+Fri Feb 15 2019,Paderborn,3-2,0-1,FC Koln
+Fri Feb 15 2019,Sandhausen,1-1,1-1,Darmstadt
+Sat Feb 16 2019,Duisburg,2-3,1-1,Union Berlin
+Sat Feb 16 2019,Heidenheim,2-2,1-1,Hamburg
+Sat Feb 16 2019,Ingolstadt,2-1,2-0,Bochum
+Sat Feb 16 2019,St Pauli,1-2,1-1,Erzgebirge Aue
+Sun Feb 17 2019,Bielefeld,1-3,0-2,Magdeburg
+Sun Feb 17 2019,Dresden,0-0,0-0,Regensburg
+Sun Feb 17 2019,Holstein Kiel,2-2,0-0,Greuther Furth
+Fri Feb 22 2019,Greuther Furth,0-0,0-0,Heidenheim
+Fri Feb 22 2019,Union Berlin,1-1,1-0,Bielefeld
+Sat Feb 23 2019,Bochum,1-3,0-3,Holstein Kiel
+Sat Feb 23 2019,Darmstadt,2-0,1-0,Dresden
+Sat Feb 23 2019,FC Koln,3-1,0-1,Sandhausen
+Sat Feb 23 2019,St Pauli,1-0,0-0,Ingolstadt
+Sun Feb 24 2019,Erzgebirge Aue,0-0,0-0,Duisburg
+Sun Feb 24 2019,Magdeburg,1-1,1-0,Paderborn
+Sun Feb 24 2019,Regensburg,2-1,0-1,Hamburg
+Wed Feb 27 2019,Erzgebirge Aue,0-1,0-1,FC Koln
+Fri Mar 1 2019,Duisburg,1-0,0-0,Magdeburg
+Fri Mar 1 2019,Holstein Kiel,0-2,0-1,Union Berlin
+Sat Mar 2 2019,Heidenheim,1-2,0-1,Regensburg
+Sat Mar 2 2019,Paderborn,0-1,0-0,St Pauli
+Sat Mar 2 2019,Sandhausen,0-3,0-1,Erzgebirge Aue
+Sun Mar 3 2019,Bielefeld,1-0,1-0,Darmstadt
+Sun Mar 3 2019,Dresden,2-2,1-2,Bochum
+Sun Mar 3 2019,Ingolstadt,1-2,0-1,FC Koln
+Mon Mar 4 2019,Hamburg,1-0,0-0,Greuther Furth
+Fri Mar 8 2019,Bochum,1-0,0-0,Heidenheim
+Fri Mar 8 2019,Union Berlin,2-0,1-0,Ingolstadt
+Sat Mar 9 2019,Darmstadt,3-2,2-1,Holstein Kiel
+Sat Mar 9 2019,Erzgebirge Aue,2-1,1-0,Paderborn
+Sat Mar 9 2019,FC Koln,5-1,2-0,Bielefeld
+Sat Mar 9 2019,Regensburg,1-1,1-0,Duisburg
+Sun Mar 10 2019,Magdeburg,0-1,0-0,Sandhausen
+Sun Mar 10 2019,St Pauli,0-4,0-1,Hamburg
+Fri Mar 15 2019,Heidenheim,2-1,0-1,Union Berlin
+Fri Mar 15 2019,Holstein Kiel,5-1,2-1,Erzgebirge Aue
+Sat Mar 16 2019,Dresden,1-1,0-1,Magdeburg
+Sat Mar 16 2019,Hamburg,2-3,2-0,Darmstadt
+Sat Mar 16 2019,Sandhausen,4-0,2-0,St Pauli
+Sun Mar 17 2019,Bielefeld,3-1,0-0,Bochum
+Sun Mar 17 2019,Paderborn,3-1,0-0,Ingolstadt
+Mon Mar 18 2019,Regensburg,0-2,0-0,Greuther Furth
+Fri Mar 29 2019,Magdeburg,0-0,0-0,Heidenheim
+Fri Mar 29 2019,St Pauli,0-0,0-0,Duisburg
+Sat Mar 30 2019,Bochum,0-0,0-0,Hamburg
+Sat Mar 30 2019,Darmstadt,1-1,0-0,Regensburg
+Sat Mar 30 2019,Union Berlin,1-3,0-1,Paderborn
+Sun Mar 31 2019,FC Koln,4-0,2-0,Holstein Kiel
+Sun Mar 31 2019,Greuther Furth,2-2,2-0,Bielefeld
+Sun Mar 31 2019,Ingolstadt,1-2,1-0,Sandhausen
+Mon Apr 1 2019,Erzgebirge Aue,1-3,1-0,Dresden
+Thu Apr 4 2019,Greuther Furth,0-0,0-0,Dresden
+Fri Apr 5 2019,Bielefeld,2-1,1-0,Erzgebirge Aue
+Fri Apr 5 2019,Regensburg,2-1,0-0,Bochum
+Sat Apr 6 2019,Duisburg,2-4,0-1,Ingolstadt
+Sat Apr 6 2019,Holstein Kiel,2-1,0-1,St Pauli
+Sat Apr 6 2019,Sandhausen,1-1,1-0,Paderborn
+Sun Apr 7 2019,Dresden,0-0,0-0,Union Berlin
+Sun Apr 7 2019,Greuther Furth,2-1,0-0,Darmstadt
+Sun Apr 7 2019,Heidenheim,0-2,0-2,FC Koln
+Mon Apr 8 2019,Hamburg,1-2,1-0,Magdeburg
+Wed Apr 10 2019,Duisburg,4-4,2-1,FC Koln
+Fri Apr 12 2019,Erzgebirge Aue,0-1,0-1,Heidenheim
+Fri Apr 12 2019,Union Berlin,2-2,1-1,Regensburg
+Sat Apr 13 2019,Magdeburg,0-1,0-0,Darmstadt
+Sat Apr 13 2019,Paderborn,4-0,2-0,Duisburg
+Sat Apr 13 2019,Sandhausen,3-1,0-0,Dresden
+Sun Apr 14 2019,Bochum,3-2,1-2,Greuther Furth
+Sun Apr 14 2019,Ingolstadt,1-1,1-0,Holstein Kiel
+Sun Apr 14 2019,St Pauli,1-1,0-1,Bielefeld
+Mon Apr 15 2019,FC Koln,1-1,1-0,Hamburg
+Sat Apr 20 2019,Duisburg,2-2,0-1,Sandhausen
+Sat Apr 20 2019,Greuther Furth,1-1,0-1,Union Berlin
+Sat Apr 20 2019,Hamburg,1-1,0-1,Erzgebirge Aue
+Sat Apr 20 2019,Holstein Kiel,1-2,0-0,Paderborn
+Sun Apr 21 2019,Bielefeld,1-3,0-1,Ingolstadt
+Sun Apr 21 2019,Darmstadt,0-0,0-0,Bochum
+Sun Apr 21 2019,Dresden,3-0,2-0,FC Koln
+Sun Apr 21 2019,Heidenheim,3-0,3-0,St Pauli
+Sun Apr 21 2019,Regensburg,1-0,1-0,Magdeburg
+Fri Apr 26 2019,FC Koln,1-2,0-1,Darmstadt
+Fri Apr 26 2019,Ingolstadt,1-0,0-0,Dresden
+Sat Apr 27 2019,Magdeburg,2-1,2-1,Greuther Furth
+Sat Apr 27 2019,Sandhausen,3-2,2-2,Holstein Kiel
+Sat Apr 27 2019,St Pauli,4-3,1-2,Regensburg
+Sun Apr 28 2019,Erzgebirge Aue,3-2,2-1,Bochum
+Sun Apr 28 2019,Paderborn,3-1,0-0,Heidenheim
+Sun Apr 28 2019,Union Berlin,2-0,0-0,Hamburg
+Mon Apr 29 2019,Duisburg,2-2,1-1,Bielefeld
+Fri May 3 2019,Bielefeld,2-0,1-0,Paderborn
+Fri May 3 2019,Dresden,2-1,1-0,St Pauli
+Sat May 4 2019,Bochum,4-2,1-0,Magdeburg
+Sat May 4 2019,Hamburg,0-3,0-1,Ingolstadt
+Sat May 4 2019,Heidenheim,2-3,1-0,Sandhausen
+Sun May 5 2019,Darmstadt,2-1,0-0,Union Berlin
+Sun May 5 2019,Holstein Kiel,0-2,0-0,Duisburg
+Sun May 5 2019,Regensburg,1-3,0-0,Erzgebirge Aue
+Mon May 6 2019,Greuther Furth,0-4,0-3,FC Koln
+Sun May 12 2019,Duisburg,3-4,1-2,Heidenheim
+Sun May 12 2019,Erzgebirge Aue,1-1,1-1,Greuther Furth
+Sun May 12 2019,FC Koln,3-5,0-3,Regensburg
+Sun May 12 2019,Holstein Kiel,3-0,1-0,Dresden
+Sun May 12 2019,Ingolstadt,3-0,2-0,Darmstadt
+Sun May 12 2019,Paderborn,4-1,1-0,Hamburg
+Sun May 12 2019,Sandhausen,0-3,0-2,Bielefeld
+Sun May 12 2019,St Pauli,0-0,0-0,Bochum
+Sun May 12 2019,Union Berlin,3-0,2-0,Magdeburg
+Sun May 19 2019,Bielefeld,1-0,0-0,Holstein Kiel
+Sun May 19 2019,Bochum,2-2,1-0,Union Berlin
+Sun May 19 2019,Darmstadt,1-0,1-0,Erzgebirge Aue
+Sun May 19 2019,Dresden,3-1,2-1,Paderborn
+Sun May 19 2019,Greuther Furth,2-1,0-0,St Pauli
+Sun May 19 2019,Hamburg,3-0,1-0,Duisburg
+Sun May 19 2019,Heidenheim,4-2,2-0,Ingolstadt
+Sun May 19 2019,Magdeburg,1-1,0-1,FC Koln
+Sun May 19 2019,Regensburg,2-2,1-1,Sandhausen

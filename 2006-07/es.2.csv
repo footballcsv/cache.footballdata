@@ -1,0 +1,463 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 26 2006,Almeria,0-1,0-0,Tenerife
+Sat Aug 26 2006,Las Palmas,0-1,0-1,Xerez
+Sun Aug 27 2006,Alaves,1-1,1-1,Elche
+Sun Aug 27 2006,Albacete,2-0,0-0,Ponferradina
+Sun Aug 27 2006,Cadiz,3-0,1-0,Vecindario
+Sun Aug 27 2006,Castellon,1-1,1-0,Real Madrid B
+Sun Aug 27 2006,Ciudad de Murcia,3-0,1-0,Poli Ejido
+Sun Aug 27 2006,Hercules,0-1,0-0,Malaga
+Sun Aug 27 2006,Numancia,0-0,0-0,Lorca
+Sun Aug 27 2006,Salamanca,3-2,1-0,Murcia
+Sun Aug 27 2006,Sp Gijon,1-3,1-1,Valladolid
+Sat Sep 2 2006,Elche,1-2,1-1,Albacete
+Sat Sep 2 2006,Lorca,0-2,0-0,Sp Gijon
+Sat Sep 2 2006,Murcia,3-2,1-1,Almeria
+Sat Sep 2 2006,Real Madrid B,0-3,0-0,Hercules
+Sat Sep 2 2006,Vecindario,4-2,1-1,Castellon
+Sat Sep 2 2006,Xerez,2-0,0-0,Ciudad de Murcia
+Sun Sep 3 2006,Malaga,1-0,0-0,Alaves
+Sun Sep 3 2006,Poli Ejido,1-0,0-0,Salamanca
+Sun Sep 3 2006,Ponferradina,2-0,1-0,Numancia
+Sun Sep 3 2006,Tenerife,0-1,0-0,Cadiz
+Sun Sep 3 2006,Valladolid,2-0,1-0,Las Palmas
+Sat Sep 9 2006,Alaves,3-1,1-1,Real Madrid B
+Sat Sep 9 2006,Albacete,2-1,0-0,Malaga
+Sat Sep 9 2006,Castellon,2-1,1-1,Tenerife
+Sat Sep 9 2006,Ciudad de Murcia,1-0,0-0,Valladolid
+Sat Sep 9 2006,Las Palmas,2-1,1-1,Lorca
+Sat Sep 9 2006,Poli Ejido,0-2,0-2,Xerez
+Sun Sep 10 2006,Cadiz,1-1,1-1,Murcia
+Sun Sep 10 2006,Hercules,1-0,1-0,Vecindario
+Sun Sep 10 2006,Numancia,3-2,1-2,Elche
+Sun Sep 10 2006,Salamanca,2-0,0-0,Almeria
+Sun Sep 10 2006,Sp Gijon,1-0,1-0,Ponferradina
+Sat Sep 16 2006,Elche,1-0,0-0,Sp Gijon
+Sat Sep 16 2006,Lorca,1-0,0-0,Ciudad de Murcia
+Sat Sep 16 2006,Malaga,1-2,1-2,Numancia
+Sat Sep 16 2006,Ponferradina,3-0,2-0,Las Palmas
+Sat Sep 16 2006,Real Madrid B,2-1,0-1,Albacete
+Sat Sep 16 2006,Vecindario,0-1,0-0,Alaves
+Sun Sep 17 2006,Almeria,2-1,1-0,Cadiz
+Sun Sep 17 2006,Murcia,2-1,0-0,Castellon
+Sun Sep 17 2006,Tenerife,3-2,1-0,Hercules
+Sun Sep 17 2006,Valladolid,0-1,0-1,Poli Ejido
+Sun Sep 17 2006,Xerez,5-0,2-0,Salamanca
+Sat Sep 23 2006,Alaves,0-0,0-0,Tenerife
+Sat Sep 23 2006,Hercules,0-1,0-1,Murcia
+Sat Sep 23 2006,Salamanca,2-0,1-0,Cadiz
+Sun Sep 24 2006,Albacete,3-2,2-1,Vecindario
+Sun Sep 24 2006,Castellon,1-1,0-0,Almeria
+Sun Sep 24 2006,Ciudad de Murcia,1-1,1-1,Ponferradina
+Sun Sep 24 2006,Las Palmas,2-2,2-0,Elche
+Sun Sep 24 2006,Numancia,0-1,0-1,Real Madrid B
+Sun Sep 24 2006,Poli Ejido,1-1,0-1,Lorca
+Sun Sep 24 2006,Sp Gijon,1-3,1-0,Malaga
+Sun Sep 24 2006,Xerez,1-1,1-0,Valladolid
+Sat Sep 30 2006,Cadiz,0-2,0-2,Castellon
+Sat Sep 30 2006,Malaga,3-1,1-1,Las Palmas
+Sat Sep 30 2006,Murcia,1-0,0-0,Alaves
+Sat Sep 30 2006,Vecindario,1-5,0-4,Numancia
+Sun Oct 1 2006,Almeria,3-0,0-0,Hercules
+Sun Oct 1 2006,Elche,1-2,0-1,Ciudad de Murcia
+Sun Oct 1 2006,Lorca,2-1,0-1,Xerez
+Sun Oct 1 2006,Ponferradina,2-0,1-0,Poli Ejido
+Sun Oct 1 2006,Real Madrid B,0-3,0-1,Sp Gijon
+Sun Oct 1 2006,Tenerife,1-0,0-0,Albacete
+Sun Oct 1 2006,Valladolid,2-3,1-2,Salamanca
+Sat Oct 7 2006,Numancia,0-1,0-1,Tenerife
+Sat Oct 7 2006,Poli Ejido,2-1,0-1,Elche
+Sat Oct 7 2006,Sp Gijon,1-0,0-0,Vecindario
+Sat Oct 7 2006,Valladolid,1-0,1-0,Lorca
+Sun Oct 8 2006,Alaves,1-0,0-0,Almeria
+Sun Oct 8 2006,Albacete,0-0,0-0,Murcia
+Sun Oct 8 2006,Ciudad de Murcia,2-0,2-0,Malaga
+Sun Oct 8 2006,Hercules,0-1,0-1,Cadiz
+Sun Oct 8 2006,Las Palmas,2-1,1-1,Real Madrid B
+Sun Oct 8 2006,Salamanca,1-2,0-1,Castellon
+Sun Oct 8 2006,Xerez,3-1,1-0,Ponferradina
+Sat Oct 14 2006,Castellon,0-0,0-0,Hercules
+Sat Oct 14 2006,Malaga,1-1,0-0,Poli Ejido
+Sat Oct 14 2006,Real Madrid B,2-1,0-1,Ciudad de Murcia
+Sat Oct 14 2006,Vecindario,1-0,1-0,Las Palmas
+Sun Oct 15 2006,Almeria,2-1,2-0,Albacete
+Sun Oct 15 2006,Cadiz,1-1,1-0,Alaves
+Sun Oct 15 2006,Elche,1-1,0-0,Xerez
+Sun Oct 15 2006,Lorca,0-2,0-1,Salamanca
+Sun Oct 15 2006,Murcia,3-0,1-0,Numancia
+Sun Oct 15 2006,Ponferradina,2-2,1-1,Valladolid
+Sun Oct 15 2006,Tenerife,0-4,0-3,Sp Gijon
+Sat Oct 21 2006,Alaves,2-0,0-0,Castellon
+Sat Oct 21 2006,Ciudad de Murcia,2-0,1-0,Vecindario
+Sat Oct 21 2006,Las Palmas,0-0,0-0,Tenerife
+Sat Oct 21 2006,Lorca,1-0,0-0,Ponferradina
+Sat Oct 21 2006,Valladolid,1-0,0-0,Elche
+Sun Oct 22 2006,Albacete,4-1,3-1,Cadiz
+Sun Oct 22 2006,Numancia,1-1,1-1,Almeria
+Sun Oct 22 2006,Poli Ejido,0-0,0-0,Real Madrid B
+Sun Oct 22 2006,Salamanca,2-2,1-1,Hercules
+Sun Oct 22 2006,Sp Gijon,0-1,0-1,Murcia
+Sun Oct 22 2006,Xerez,1-0,0-0,Malaga
+Sat Oct 28 2006,Almeria,2-0,1-0,Sp Gijon
+Sat Oct 28 2006,Castellon,0-0,0-0,Albacete
+Sat Oct 28 2006,Hercules,3-1,0-1,Alaves
+Sat Oct 28 2006,Real Madrid B,1-1,1-0,Xerez
+Sat Oct 28 2006,Tenerife,1-0,0-0,Ciudad de Murcia
+Sat Oct 28 2006,Vecindario,0-4,0-2,Poli Ejido
+Sun Oct 29 2006,Cadiz,1-0,1-0,Numancia
+Sun Oct 29 2006,Elche,0-2,0-1,Lorca
+Sun Oct 29 2006,Malaga,0-1,0-0,Valladolid
+Sun Oct 29 2006,Murcia,3-1,2-1,Las Palmas
+Sun Oct 29 2006,Ponferradina,1-2,0-1,Salamanca
+Sat Nov 4 2006,Albacete,0-1,0-0,Hercules
+Sat Nov 4 2006,Las Palmas,3-1,1-0,Almeria
+Sat Nov 4 2006,Lorca,2-2,2-2,Malaga
+Sat Nov 4 2006,Sp Gijon,5-4,3-3,Cadiz
+Sat Nov 4 2006,Xerez,1-0,1-0,Vecindario
+Sun Nov 5 2006,Ciudad de Murcia,1-1,1-1,Murcia
+Sun Nov 5 2006,Numancia,2-1,2-1,Castellon
+Sun Nov 5 2006,Poli Ejido,4-2,2-1,Tenerife
+Sun Nov 5 2006,Ponferradina,1-1,1-0,Elche
+Sun Nov 5 2006,Salamanca,3-0,1-0,Alaves
+Sun Nov 5 2006,Valladolid,4-0,0-0,Real Madrid B
+Sat Nov 11 2006,Cadiz,0-0,0-0,Las Palmas
+Sat Nov 11 2006,Elche,1-1,1-1,Salamanca
+Sat Nov 11 2006,Hercules,2-0,1-0,Numancia
+Sat Nov 11 2006,Murcia,0-1,0-0,Poli Ejido
+Sat Nov 11 2006,Real Madrid B,2-0,0-0,Lorca
+Sun Nov 12 2006,Alaves,1-1,0-1,Albacete
+Sun Nov 12 2006,Almeria,3-1,1-0,Ciudad de Murcia
+Sun Nov 12 2006,Castellon,0-3,0-1,Sp Gijon
+Sun Nov 12 2006,Malaga,1-1,1-0,Ponferradina
+Sun Nov 12 2006,Tenerife,0-2,0-1,Xerez
+Sun Nov 12 2006,Vecindario,1-2,1-1,Valladolid
+Sat Nov 18 2006,Ciudad de Murcia,1-1,0-1,Cadiz
+Sat Nov 18 2006,Las Palmas,1-0,0-0,Castellon
+Sat Nov 18 2006,Poli Ejido,1-2,1-1,Almeria
+Sat Nov 18 2006,Salamanca,4-1,1-1,Albacete
+Sat Nov 18 2006,Sp Gijon,1-0,1-0,Hercules
+Sun Nov 19 2006,Elche,2-1,0-0,Malaga
+Sun Nov 19 2006,Lorca,1-1,0-0,Vecindario
+Sun Nov 19 2006,Numancia,1-1,0-1,Alaves
+Sun Nov 19 2006,Ponferradina,0-3,0-1,Real Madrid B
+Sun Nov 19 2006,Valladolid,1-0,1-0,Tenerife
+Sun Nov 19 2006,Xerez,1-1,0-0,Murcia
+Sat Nov 25 2006,Alaves,0-0,0-0,Sp Gijon
+Sat Nov 25 2006,Albacete,1-3,0-2,Numancia
+Sat Nov 25 2006,Almeria,1-1,1-0,Xerez
+Sat Nov 25 2006,Castellon,2-0,0-0,Ciudad de Murcia
+Sat Nov 25 2006,Real Madrid B,0-2,0-1,Elche
+Sat Nov 25 2006,Vecindario,1-0,0-0,Ponferradina
+Sun Nov 26 2006,Cadiz,0-0,0-0,Poli Ejido
+Sun Nov 26 2006,Hercules,1-1,1-1,Las Palmas
+Sun Nov 26 2006,Malaga,1-0,0-0,Salamanca
+Sun Nov 26 2006,Murcia,1-4,1-2,Valladolid
+Sun Nov 26 2006,Tenerife,1-1,1-0,Lorca
+Sat Dec 2 2006,Elche,2-1,1-1,Vecindario
+Sat Dec 2 2006,Las Palmas,6-1,2-0,Alaves
+Sat Dec 2 2006,Lorca,1-1,1-0,Murcia
+Sat Dec 2 2006,Malaga,3-3,3-2,Real Madrid B
+Sat Dec 2 2006,Ponferradina,1-0,1-0,Tenerife
+Sun Dec 3 2006,Ciudad de Murcia,2-1,0-1,Hercules
+Sun Dec 3 2006,Poli Ejido,0-2,0-1,Castellon
+Sun Dec 3 2006,Salamanca,0-0,0-0,Numancia
+Sun Dec 3 2006,Sp Gijon,0-1,0-0,Albacete
+Sun Dec 3 2006,Valladolid,2-2,1-0,Almeria
+Sun Dec 3 2006,Xerez,1-4,1-1,Cadiz
+Sat Dec 9 2006,Alaves,1-0,1-0,Ciudad de Murcia
+Sat Dec 9 2006,Almeria,4-0,0-0,Lorca
+Sat Dec 9 2006,Castellon,1-0,1-0,Xerez
+Sat Dec 9 2006,Hercules,1-0,0-0,Poli Ejido
+Sat Dec 9 2006,Numancia,2-0,0-0,Sp Gijon
+Sat Dec 9 2006,Vecindario,1-1,0-0,Malaga
+Sun Dec 10 2006,Albacete,1-1,0-0,Las Palmas
+Sun Dec 10 2006,Cadiz,0-0,0-0,Valladolid
+Sun Dec 10 2006,Murcia,1-1,0-1,Ponferradina
+Sun Dec 10 2006,Real Madrid B,2-1,0-1,Salamanca
+Sun Dec 10 2006,Tenerife,2-0,1-0,Elche
+Sat Dec 16 2006,Ciudad de Murcia,2-1,0-1,Albacete
+Sat Dec 16 2006,Elche,1-1,0-0,Murcia
+Sat Dec 16 2006,Las Palmas,1-1,1-0,Numancia
+Sat Dec 16 2006,Malaga,1-0,1-0,Tenerife
+Sat Dec 16 2006,Poli Ejido,5-2,3-1,Alaves
+Sat Dec 16 2006,Ponferradina,0-1,0-0,Almeria
+Sat Dec 16 2006,Real Madrid B,3-2,3-0,Vecindario
+Sat Dec 16 2006,Valladolid,1-0,1-0,Castellon
+Sun Dec 17 2006,Lorca,1-2,0-1,Cadiz
+Sun Dec 17 2006,Salamanca,0-1,0-0,Sp Gijon
+Sun Dec 17 2006,Xerez,0-2,0-1,Hercules
+Wed Dec 20 2006,Albacete,1-1,1-0,Poli Ejido
+Wed Dec 20 2006,Almeria,2-0,2-0,Elche
+Wed Dec 20 2006,Cadiz,0-0,0-0,Ponferradina
+Wed Dec 20 2006,Castellon,2-1,1-1,Lorca
+Wed Dec 20 2006,Murcia,3-2,3-0,Malaga
+Wed Dec 20 2006,Numancia,2-1,0-0,Ciudad de Murcia
+Wed Dec 20 2006,Tenerife,3-2,3-0,Real Madrid B
+Wed Dec 20 2006,Vecindario,0-3,0-3,Salamanca
+Thu Dec 21 2006,Alaves,1-0,0-0,Xerez
+Thu Dec 21 2006,Hercules,2-2,1-2,Valladolid
+Thu Dec 21 2006,Sp Gijon,2-0,0-0,Las Palmas
+Sat Jan 6 2007,Lorca,0-1,0-1,Hercules
+Sat Jan 6 2007,Malaga,2-1,1-1,Almeria
+Sat Jan 6 2007,Vecindario,2-1,0-0,Tenerife
+Sat Jan 6 2007,Xerez,0-1,0-1,Albacete
+Sun Jan 7 2007,Ciudad de Murcia,3-1,1-1,Sp Gijon
+Sun Jan 7 2007,Elche,1-1,1-1,Cadiz
+Sun Jan 7 2007,Poli Ejido,0-0,0-0,Numancia
+Sun Jan 7 2007,Ponferradina,1-0,0-0,Castellon
+Sun Jan 7 2007,Real Madrid B,0-2,0-0,Murcia
+Sun Jan 7 2007,Salamanca,2-2,2-2,Las Palmas
+Sun Jan 7 2007,Valladolid,1-0,1-0,Alaves
+Sat Jan 13 2007,Alaves,3-1,1-0,Lorca
+Sat Jan 13 2007,Albacete,0-2,0-0,Valladolid
+Sat Jan 13 2007,Castellon,1-2,1-0,Elche
+Sat Jan 13 2007,Las Palmas,0-1,0-0,Ciudad de Murcia
+Sat Jan 13 2007,Sp Gijon,0-1,0-0,Poli Ejido
+Sun Jan 14 2007,Almeria,1-0,0-0,Real Madrid B
+Sun Jan 14 2007,Cadiz,1-0,0-0,Malaga
+Sun Jan 14 2007,Hercules,3-0,2-0,Ponferradina
+Sun Jan 14 2007,Murcia,4-3,1-1,Vecindario
+Sun Jan 14 2007,Numancia,1-0,1-0,Xerez
+Sun Jan 14 2007,Salamanca,0-0,0-0,Tenerife
+Sat Jan 20 2007,Elche,2-0,1-0,Hercules
+Sat Jan 20 2007,Real Madrid B,0-1,0-1,Cadiz
+Sat Jan 20 2007,Tenerife,1-1,0-0,Murcia
+Sun Jan 21 2007,Ciudad de Murcia,1-0,0-0,Salamanca
+Sun Jan 21 2007,Lorca,3-0,1-0,Albacete
+Sun Jan 21 2007,Malaga,0-0,0-0,Castellon
+Sun Jan 21 2007,Poli Ejido,1-1,0-1,Las Palmas
+Sun Jan 21 2007,Ponferradina,0-2,0-1,Alaves
+Sun Jan 21 2007,Valladolid,2-0,1-0,Numancia
+Sun Jan 21 2007,Vecindario,0-1,0-1,Almeria
+Sun Jan 21 2007,Xerez,3-1,1-1,Sp Gijon
+Sat Jan 27 2007,Lorca,1-1,0-1,Numancia
+Sat Jan 27 2007,Ponferradina,4-3,4-1,Albacete
+Sat Jan 27 2007,Real Madrid B,1-1,1-0,Castellon
+Sat Jan 27 2007,Valladolid,1-0,1-0,Sp Gijon
+Sat Jan 27 2007,Xerez,0-0,0-0,Las Palmas
+Sun Jan 28 2007,Elche,1-0,1-0,Alaves
+Sun Jan 28 2007,Malaga,0-0,0-0,Hercules
+Sun Jan 28 2007,Murcia,1-0,0-0,Salamanca
+Sun Jan 28 2007,Poli Ejido,2-0,2-0,Ciudad de Murcia
+Sun Jan 28 2007,Tenerife,2-1,2-1,Almeria
+Sun Jan 28 2007,Vecindario,1-2,1-0,Cadiz
+Sat Feb 3 2007,Alaves,0-1,0-0,Malaga
+Sat Feb 3 2007,Albacete,0-0,0-0,Elche
+Sat Feb 3 2007,Cadiz,1-0,1-0,Tenerife
+Sat Feb 3 2007,Ciudad de Murcia,1-0,0-0,Xerez
+Sat Feb 3 2007,Hercules,0-3,0-0,Real Madrid B
+Sat Feb 3 2007,Las Palmas,2-2,2-2,Valladolid
+Sun Feb 4 2007,Almeria,2-1,0-0,Murcia
+Sun Feb 4 2007,Castellon,0-0,0-0,Vecindario
+Sun Feb 4 2007,Numancia,1-0,1-0,Ponferradina
+Sun Feb 4 2007,Salamanca,0-0,0-0,Poli Ejido
+Sun Feb 4 2007,Sp Gijon,0-1,0-0,Lorca
+Sat Feb 10 2007,Murcia,1-0,1-0,Cadiz
+Sat Feb 10 2007,Ponferradina,0-3,0-1,Sp Gijon
+Sat Feb 10 2007,Real Madrid B,1-1,0-1,Alaves
+Sun Feb 11 2007,Almeria,3-1,1-0,Salamanca
+Sun Feb 11 2007,Elche,1-2,0-1,Numancia
+Sun Feb 11 2007,Lorca,0-1,0-0,Las Palmas
+Sun Feb 11 2007,Malaga,0-3,0-3,Albacete
+Sun Feb 11 2007,Tenerife,2-0,1-0,Castellon
+Sun Feb 11 2007,Valladolid,1-0,1-0,Ciudad de Murcia
+Sun Feb 11 2007,Vecindario,1-1,0-0,Hercules
+Sun Feb 11 2007,Xerez,2-1,0-0,Poli Ejido
+Sat Feb 17 2007,Albacete,1-0,0-0,Real Madrid B
+Sat Feb 17 2007,Cadiz,2-2,1-1,Almeria
+Sat Feb 17 2007,Ciudad de Murcia,2-1,1-0,Lorca
+Sat Feb 17 2007,Hercules,3-1,0-1,Tenerife
+Sun Feb 18 2007,Alaves,5-1,1-1,Vecindario
+Sun Feb 18 2007,Castellon,0-1,0-0,Murcia
+Sun Feb 18 2007,Las Palmas,0-0,0-0,Ponferradina
+Sun Feb 18 2007,Numancia,2-0,1-0,Malaga
+Sun Feb 18 2007,Poli Ejido,2-3,2-0,Valladolid
+Sun Feb 18 2007,Salamanca,1-0,1-0,Xerez
+Sun Feb 18 2007,Sp Gijon,0-0,0-0,Elche
+Sat Feb 24 2007,Almeria,2-1,0-1,Castellon
+Sat Feb 24 2007,Cadiz,2-0,2-0,Salamanca
+Sat Feb 24 2007,Real Madrid B,0-0,0-0,Numancia
+Sat Feb 24 2007,Tenerife,1-2,0-1,Alaves
+Sun Feb 25 2007,Elche,2-1,1-1,Las Palmas
+Sun Feb 25 2007,Lorca,1-3,1-1,Poli Ejido
+Sun Feb 25 2007,Malaga,1-1,1-1,Sp Gijon
+Sun Feb 25 2007,Murcia,3-1,1-0,Hercules
+Sun Feb 25 2007,Ponferradina,1-0,1-0,Ciudad de Murcia
+Sun Feb 25 2007,Valladolid,1-1,1-0,Xerez
+Sun Feb 25 2007,Vecindario,1-0,1-0,Albacete
+Sat Mar 3 2007,Alaves,1-1,1-1,Murcia
+Sat Mar 3 2007,Albacete,2-0,1-0,Tenerife
+Sat Mar 3 2007,Castellon,2-0,1-0,Cadiz
+Sat Mar 3 2007,Las Palmas,2-1,0-1,Malaga
+Sun Mar 4 2007,Ciudad de Murcia,1-1,1-1,Elche
+Sun Mar 4 2007,Hercules,0-2,0-0,Almeria
+Sun Mar 4 2007,Numancia,3-0,2-0,Vecindario
+Sun Mar 4 2007,Poli Ejido,1-1,1-1,Ponferradina
+Sun Mar 4 2007,Salamanca,1-1,0-0,Valladolid
+Sun Mar 4 2007,Sp Gijon,0-1,0-0,Real Madrid B
+Sun Mar 4 2007,Xerez,1-0,1-0,Lorca
+Sat Mar 10 2007,Elche,2-0,2-0,Poli Ejido
+Sat Mar 10 2007,Real Madrid B,0-3,0-0,Las Palmas
+Sat Mar 10 2007,Vecindario,0-2,0-1,Sp Gijon
+Sun Mar 11 2007,Almeria,2-2,1-0,Alaves
+Sun Mar 11 2007,Cadiz,1-1,1-0,Hercules
+Sun Mar 11 2007,Castellon,1-2,1-1,Salamanca
+Sun Mar 11 2007,Lorca,0-2,0-0,Valladolid
+Sun Mar 11 2007,Malaga,0-0,0-0,Ciudad de Murcia
+Sun Mar 11 2007,Murcia,0-1,0-0,Albacete
+Sun Mar 11 2007,Ponferradina,1-1,0-1,Xerez
+Sun Mar 11 2007,Tenerife,1-0,0-0,Numancia
+Sat Mar 17 2007,Albacete,1-1,0-1,Almeria
+Sat Mar 17 2007,Ciudad de Murcia,0-0,0-0,Real Madrid B
+Sat Mar 17 2007,Hercules,2-2,1-1,Castellon
+Sat Mar 17 2007,Las Palmas,3-1,2-0,Vecindario
+Sun Mar 18 2007,Alaves,1-1,0-0,Cadiz
+Sun Mar 18 2007,Numancia,1-2,0-1,Murcia
+Sun Mar 18 2007,Poli Ejido,4-1,1-1,Malaga
+Sun Mar 18 2007,Salamanca,2-1,2-1,Lorca
+Sun Mar 18 2007,Sp Gijon,1-1,0-1,Tenerife
+Sun Mar 18 2007,Valladolid,1-0,0-0,Ponferradina
+Sun Mar 18 2007,Xerez,2-1,0-0,Elche
+Sat Mar 24 2007,Cadiz,1-2,0-0,Albacete
+Sat Mar 24 2007,Hercules,2-0,1-0,Salamanca
+Sat Mar 24 2007,Murcia,3-1,1-0,Sp Gijon
+Sat Mar 24 2007,Tenerife,3-1,2-0,Las Palmas
+Sun Mar 25 2007,Almeria,3-0,2-0,Numancia
+Sun Mar 25 2007,Castellon,2-0,1-0,Alaves
+Sun Mar 25 2007,Elche,0-1,0-1,Valladolid
+Sun Mar 25 2007,Malaga,1-0,1-0,Xerez
+Sun Mar 25 2007,Ponferradina,2-1,1-1,Lorca
+Sun Mar 25 2007,Real Madrid B,4-1,1-1,Poli Ejido
+Sun Mar 25 2007,Vecindario,0-1,0-1,Ciudad de Murcia
+Sat Mar 31 2007,Las Palmas,1-0,1-0,Murcia
+Sat Mar 31 2007,Lorca,2-0,2-0,Elche
+Sat Mar 31 2007,Xerez,3-1,1-1,Real Madrid B
+Sun Apr 1 2007,Alaves,2-3,0-1,Hercules
+Sun Apr 1 2007,Albacete,0-1,0-1,Castellon
+Sun Apr 1 2007,Ciudad de Murcia,2-1,0-1,Tenerife
+Sun Apr 1 2007,Numancia,1-0,0-0,Cadiz
+Sun Apr 1 2007,Poli Ejido,1-0,1-0,Vecindario
+Sun Apr 1 2007,Salamanca,3-3,2-0,Ponferradina
+Sun Apr 1 2007,Sp Gijon,1-2,1-0,Almeria
+Sun Apr 1 2007,Valladolid,1-0,0-0,Malaga
+Sat Apr 7 2007,Hercules,0-1,0-0,Albacete
+Sat Apr 7 2007,Malaga,4-0,2-0,Lorca
+Sat Apr 7 2007,Murcia,2-1,0-0,Ciudad de Murcia
+Sat Apr 7 2007,Real Madrid B,1-3,1-2,Valladolid
+Sat Apr 7 2007,Vecindario,2-1,1-0,Xerez
+Sun Apr 8 2007,Alaves,0-2,0-1,Salamanca
+Sun Apr 8 2007,Almeria,2-1,2-1,Las Palmas
+Sun Apr 8 2007,Cadiz,1-1,1-1,Sp Gijon
+Sun Apr 8 2007,Castellon,3-1,3-0,Numancia
+Sun Apr 8 2007,Elche,1-0,1-0,Ponferradina
+Sun Apr 8 2007,Tenerife,3-1,1-0,Poli Ejido
+Sat Apr 14 2007,Albacete,2-2,0-0,Alaves
+Sat Apr 14 2007,Las Palmas,0-3,0-0,Cadiz
+Sat Apr 14 2007,Poli Ejido,0-2,0-0,Murcia
+Sat Apr 14 2007,Xerez,1-2,1-2,Tenerife
+Sun Apr 15 2007,Ciudad de Murcia,0-1,0-1,Almeria
+Sun Apr 15 2007,Lorca,2-0,0-0,Real Madrid B
+Sun Apr 15 2007,Numancia,2-2,1-1,Hercules
+Sun Apr 15 2007,Ponferradina,2-2,1-0,Malaga
+Sun Apr 15 2007,Salamanca,0-1,0-1,Elche
+Sun Apr 15 2007,Sp Gijon,2-2,1-1,Castellon
+Sun Apr 15 2007,Valladolid,3-0,1-0,Vecindario
+Sat Apr 21 2007,Cadiz,1-2,1-0,Ciudad de Murcia
+Sat Apr 21 2007,Castellon,2-0,0-0,Las Palmas
+Sun Apr 22 2007,Alaves,2-2,1-2,Numancia
+Sun Apr 22 2007,Albacete,1-1,1-0,Salamanca
+Sun Apr 22 2007,Almeria,3-1,0-1,Poli Ejido
+Sun Apr 22 2007,Hercules,1-1,0-1,Sp Gijon
+Sun Apr 22 2007,Malaga,2-0,1-0,Elche
+Sun Apr 22 2007,Murcia,3-0,1-0,Xerez
+Sun Apr 22 2007,Real Madrid B,3-1,1-0,Ponferradina
+Sun Apr 22 2007,Tenerife,0-2,0-1,Valladolid
+Sun Apr 22 2007,Vecindario,1-1,1-1,Lorca
+Sat Apr 28 2007,Ciudad de Murcia,1-1,1-1,Castellon
+Sat Apr 28 2007,Las Palmas,3-1,0-1,Hercules
+Sat Apr 28 2007,Poli Ejido,0-1,0-0,Cadiz
+Sat Apr 28 2007,Sp Gijon,1-1,1-1,Alaves
+Sat Apr 28 2007,Xerez,3-0,1-0,Almeria
+Sun Apr 29 2007,Elche,2-1,1-0,Real Madrid B
+Sun Apr 29 2007,Lorca,2-3,0-0,Tenerife
+Sun Apr 29 2007,Numancia,1-1,1-0,Albacete
+Sun Apr 29 2007,Ponferradina,3-3,1-1,Vecindario
+Sun Apr 29 2007,Salamanca,0-0,0-0,Malaga
+Sun Apr 29 2007,Valladolid,1-1,1-0,Murcia
+Sat May 5 2007,Alaves,1-2,1-1,Las Palmas
+Sat May 5 2007,Albacete,2-1,1-0,Sp Gijon
+Sat May 5 2007,Hercules,1-1,0-0,Ciudad de Murcia
+Sat May 5 2007,Murcia,1-0,0-0,Lorca
+Sat May 5 2007,Numancia,0-0,0-0,Salamanca
+Sat May 5 2007,Real Madrid B,2-1,0-1,Malaga
+Sat May 5 2007,Vecindario,1-4,0-2,Elche
+Sun May 6 2007,Almeria,3-2,1-2,Valladolid
+Sun May 6 2007,Cadiz,1-2,0-1,Xerez
+Sun May 6 2007,Castellon,0-0,0-0,Poli Ejido
+Sun May 6 2007,Tenerife,0-1,0-0,Ponferradina
+Sat May 12 2007,Ciudad de Murcia,5-1,2-1,Alaves
+Sat May 12 2007,Elche,0-1,0-0,Tenerife
+Sat May 12 2007,Las Palmas,0-1,0-0,Albacete
+Sat May 12 2007,Malaga,3-2,0-2,Vecindario
+Sat May 12 2007,Ponferradina,1-1,0-0,Murcia
+Sat May 12 2007,Salamanca,3-2,2-1,Real Madrid B
+Sat May 12 2007,Sp Gijon,1-0,0-0,Numancia
+Sun May 13 2007,Lorca,3-1,1-0,Almeria
+Sun May 13 2007,Poli Ejido,2-0,1-0,Hercules
+Sun May 13 2007,Valladolid,2-2,1-1,Cadiz
+Sun May 13 2007,Xerez,1-0,1-0,Castellon
+Sat May 19 2007,Alaves,2-1,0-1,Poli Ejido
+Sat May 19 2007,Almeria,3-1,2-1,Ponferradina
+Sat May 19 2007,Hercules,2-0,1-0,Xerez
+Sat May 19 2007,Numancia,3-0,1-0,Las Palmas
+Sat May 19 2007,Sp Gijon,2-1,1-0,Salamanca
+Sat May 19 2007,Vecindario,2-1,1-1,Real Madrid B
+Sun May 20 2007,Albacete,2-2,0-2,Ciudad de Murcia
+Sun May 20 2007,Cadiz,0-0,0-0,Lorca
+Sun May 20 2007,Castellon,2-1,2-1,Valladolid
+Sun May 20 2007,Murcia,0-2,0-1,Elche
+Sun May 20 2007,Tenerife,1-2,1-0,Malaga
+Sat May 26 2007,Ciudad de Murcia,1-0,1-0,Numancia
+Sat May 26 2007,Las Palmas,3-1,2-0,Sp Gijon
+Sat May 26 2007,Lorca,0-4,0-3,Castellon
+Sat May 26 2007,Poli Ejido,1-0,0-0,Albacete
+Sat May 26 2007,Ponferradina,1-3,0-0,Cadiz
+Sat May 26 2007,Valladolid,0-1,0-1,Hercules
+Sat May 26 2007,Xerez,0-2,0-1,Alaves
+Sun May 27 2007,Elche,1-2,0-1,Almeria
+Sun May 27 2007,Malaga,1-2,0-1,Murcia
+Sun May 27 2007,Real Madrid B,2-3,1-1,Tenerife
+Sun May 27 2007,Salamanca,2-3,1-1,Vecindario
+Sat Jun 2 2007,Cadiz,3-1,2-0,Elche
+Sat Jun 2 2007,Las Palmas,2-2,2-0,Salamanca
+Sat Jun 2 2007,Sp Gijon,4-3,1-1,Ciudad de Murcia
+Sat Jun 2 2007,Tenerife,0-2,0-1,Vecindario
+Sun Jun 3 2007,Alaves,1-2,1-1,Valladolid
+Sun Jun 3 2007,Albacete,0-0,0-0,Xerez
+Sun Jun 3 2007,Almeria,2-2,0-2,Malaga
+Sun Jun 3 2007,Castellon,4-0,1-0,Ponferradina
+Sun Jun 3 2007,Hercules,1-1,0-0,Lorca
+Sun Jun 3 2007,Murcia,2-2,0-1,Real Madrid B
+Sun Jun 3 2007,Numancia,3-1,1-0,Poli Ejido
+Sat Jun 9 2007,Ciudad de Murcia,4-2,4-0,Las Palmas
+Sat Jun 9 2007,Elche,1-0,0-0,Castellon
+Sat Jun 9 2007,Lorca,1-2,1-0,Alaves
+Sat Jun 9 2007,Malaga,1-1,0-0,Cadiz
+Sat Jun 9 2007,Poli Ejido,4-1,2-0,Sp Gijon
+Sat Jun 9 2007,Real Madrid B,3-1,2-0,Almeria
+Sat Jun 9 2007,Vecindario,1-1,0-1,Murcia
+Sun Jun 10 2007,Ponferradina,4-1,2-0,Hercules
+Sun Jun 10 2007,Tenerife,1-0,0-0,Salamanca
+Sun Jun 10 2007,Valladolid,4-2,2-1,Albacete
+Sun Jun 10 2007,Xerez,1-1,0-1,Numancia
+Sat Jun 16 2007,Alaves,1-2,0-0,Ponferradina
+Sat Jun 16 2007,Albacete,1-0,1-0,Lorca
+Sat Jun 16 2007,Cadiz,3-3,2-3,Real Madrid B
+Sat Jun 16 2007,Castellon,0-1,0-0,Malaga
+Sat Jun 16 2007,Hercules,0-2,0-2,Elche
+Sat Jun 16 2007,Las Palmas,0-2,0-2,Poli Ejido
+Sat Jun 16 2007,Murcia,1-4,0-3,Tenerife
+Sat Jun 16 2007,Numancia,1-2,0-0,Valladolid
+Sat Jun 16 2007,Salamanca,1-0,1-0,Ciudad de Murcia
+Sat Jun 16 2007,Sp Gijon,2-1,0-0,Xerez
+Sun Jun 17 2007,Almeria,3-0,1-0,Vecindario

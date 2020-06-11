@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 28 2006,Ajaccio,1-1,0-1,Niort
+Fri Jul 28 2006,Caen,2-1,1-0,Libourne
+Fri Jul 28 2006,Chateauroux,3-1,1-1,Tours
+Fri Jul 28 2006,Creteil,0-0,0-0,Guingamp
+Fri Jul 28 2006,Grenoble,3-2,0-2,Montpellier
+Fri Jul 28 2006,Istres,2-2,2-1,Bastia
+Fri Jul 28 2006,Le Havre,1-3,0-1,Amiens
+Fri Jul 28 2006,Reims,2-0,1-0,Brest
+Fri Jul 28 2006,Strasbourg,0-0,0-0,Dijon
+Sat Jul 29 2006,Gueugnon,0-1,0-0,Metz
+Thu Aug 3 2006,Guingamp,1-1,0-1,Ajaccio
+Fri Aug 4 2006,Amiens,1-0,1-0,Strasbourg
+Fri Aug 4 2006,Bastia,1-0,1-0,Reims
+Fri Aug 4 2006,Brest,2-2,0-1,Libourne
+Fri Aug 4 2006,Chateauroux,2-2,1-0,Le Havre
+Fri Aug 4 2006,Dijon,0-2,0-2,Caen
+Fri Aug 4 2006,Metz,3-0,1-0,Istres
+Fri Aug 4 2006,Montpellier,0-3,0-2,Gueugnon
+Fri Aug 4 2006,Niort,2-1,1-1,Grenoble
+Fri Aug 4 2006,Tours,1-1,1-0,Creteil
+Mon Aug 7 2006,Libourne,2-4,1-1,Bastia
+Tue Aug 8 2006,Ajaccio,3-1,1-0,Amiens
+Tue Aug 8 2006,Caen,1-0,0-0,Brest
+Tue Aug 8 2006,Creteil,1-3,0-0,Chateauroux
+Tue Aug 8 2006,Grenoble,1-0,0-0,Guingamp
+Tue Aug 8 2006,Gueugnon,0-1,0-0,Niort
+Tue Aug 8 2006,Istres,2-2,0-1,Dijon
+Tue Aug 8 2006,Le Havre,3-0,2-0,Tours
+Tue Aug 8 2006,Reims,2-0,2-0,Metz
+Tue Aug 8 2006,Strasbourg,2-0,0-0,Montpellier
+Fri Aug 11 2006,Bastia,4-2,0-1,Brest
+Fri Aug 11 2006,Chateauroux,2-2,0-0,Grenoble
+Fri Aug 11 2006,Creteil,0-0,0-0,Gueugnon
+Fri Aug 11 2006,Dijon,1-0,0-0,Reims
+Fri Aug 11 2006,Guingamp,1-2,0-0,Le Havre
+Fri Aug 11 2006,Metz,1-0,0-0,Libourne
+Fri Aug 11 2006,Montpellier,4-0,0-0,Istres
+Fri Aug 11 2006,Niort,2-2,2-2,Strasbourg
+Fri Aug 11 2006,Tours,1-0,1-0,Ajaccio
+Mon Aug 14 2006,Amiens,2-2,0-1,Caen
+Fri Aug 18 2006,Ajaccio,2-3,1-3,Chateauroux
+Fri Aug 18 2006,Brest,0-1,0-1,Metz
+Fri Aug 18 2006,Caen,2-0,0-0,Bastia
+Fri Aug 18 2006,Grenoble,2-1,2-0,Tours
+Fri Aug 18 2006,Gueugnon,2-1,2-1,Amiens
+Fri Aug 18 2006,Istres,1-0,0-0,Niort
+Fri Aug 18 2006,Le Havre,2-1,1-0,Creteil
+Fri Aug 18 2006,Libourne,0-1,0-1,Dijon
+Fri Aug 18 2006,Reims,4-1,2-0,Montpellier
+Fri Aug 18 2006,Strasbourg,2-0,1-0,Guingamp
+Fri Aug 25 2006,Amiens,0-1,0-1,Grenoble
+Fri Aug 25 2006,Creteil,0-0,0-0,Ajaccio
+Fri Aug 25 2006,Dijon,1-1,1-0,Brest
+Fri Aug 25 2006,Guingamp,6-1,2-0,Gueugnon
+Fri Aug 25 2006,Le Havre,2-2,1-1,Caen
+Fri Aug 25 2006,Metz,2-1,1-1,Bastia
+Fri Aug 25 2006,Montpellier,0-1,0-1,Libourne
+Fri Aug 25 2006,Niort,0-0,0-0,Reims
+Fri Aug 25 2006,Tours,0-0,0-0,Strasbourg
+Sun Aug 27 2006,Chateauroux,0-0,0-0,Istres
+Thu Sep 7 2006,Caen,0-0,0-0,Metz
+Fri Sep 8 2006,Ajaccio,0-0,0-0,Le Havre
+Fri Sep 8 2006,Bastia,1-1,1-1,Dijon
+Fri Sep 8 2006,Brest,0-0,0-0,Montpellier
+Fri Sep 8 2006,Grenoble,3-1,0-1,Creteil
+Fri Sep 8 2006,Gueugnon,2-1,1-1,Tours
+Fri Sep 8 2006,Istres,1-0,1-0,Guingamp
+Fri Sep 8 2006,Libourne,3-1,3-0,Niort
+Fri Sep 8 2006,Reims,1-0,1-0,Amiens
+Mon Sep 11 2006,Strasbourg,2-0,1-0,Chateauroux
+Fri Sep 15 2006,Ajaccio,2-1,1-0,Reims
+Fri Sep 15 2006,Amiens,1-1,1-1,Libourne
+Fri Sep 15 2006,Chateauroux,2-1,0-1,Gueugnon
+Fri Sep 15 2006,Creteil,0-2,0-1,Strasbourg
+Fri Sep 15 2006,Dijon,0-3,0-1,Metz
+Fri Sep 15 2006,Le Havre,1-1,1-1,Grenoble
+Fri Sep 15 2006,Montpellier,4-0,2-0,Bastia
+Fri Sep 15 2006,Niort,2-2,0-1,Caen
+Fri Sep 15 2006,Tours,2-0,1-0,Istres
+Mon Sep 18 2006,Guingamp,1-1,0-1,Brest
+Fri Sep 22 2006,Bastia,4-1,2-0,Niort
+Fri Sep 22 2006,Caen,1-0,1-0,Tours
+Fri Sep 22 2006,Grenoble,2-0,1-0,Ajaccio
+Fri Sep 22 2006,Gueugnon,0-2,0-1,Dijon
+Fri Sep 22 2006,Istres,1-3,0-1,Amiens
+Fri Sep 22 2006,Reims,1-0,0-0,Guingamp
+Sat Sep 23 2006,Brest,4-1,3-1,Creteil
+Sat Sep 23 2006,Strasbourg,1-1,0-0,Le Havre
+Sun Sep 24 2006,Libourne,0-1,0-1,Chateauroux
+Mon Sep 25 2006,Metz,2-1,1-0,Montpellier
+Fri Sep 29 2006,Ajaccio,2-2,0-1,Strasbourg
+Fri Sep 29 2006,Chateauroux,1-1,1-0,Reims
+Fri Sep 29 2006,Creteil,1-0,0-0,Istres
+Fri Sep 29 2006,Grenoble,0-0,0-0,Brest
+Fri Sep 29 2006,Guingamp,1-3,1-1,Caen
+Fri Sep 29 2006,Le Havre,6-1,5-0,Gueugnon
+Fri Sep 29 2006,Montpellier,3-0,1-0,Dijon
+Fri Sep 29 2006,Niort,1-1,1-1,Metz
+Fri Sep 29 2006,Tours,1-2,0-1,Libourne
+Mon Oct 2 2006,Amiens,1-0,1-0,Bastia
+Fri Oct 13 2006,Bastia,1-2,1-1,Chateauroux
+Fri Oct 13 2006,Brest,1-1,0-1,Amiens
+Fri Oct 13 2006,Dijon,2-1,1-1,Niort
+Fri Oct 13 2006,Gueugnon,1-0,0-0,Ajaccio
+Fri Oct 13 2006,Istres,0-1,0-1,Le Havre
+Fri Oct 13 2006,Libourne,1-1,0-1,Guingamp
+Fri Oct 13 2006,Metz,2-0,1-0,Creteil
+Fri Oct 13 2006,Reims,2-1,0-0,Tours
+Fri Oct 13 2006,Strasbourg,1-0,1-0,Grenoble
+Mon Oct 16 2006,Caen,0-0,0-0,Montpellier
+Fri Oct 20 2006,Ajaccio,2-0,0-0,Istres
+Fri Oct 20 2006,Amiens,0-4,0-2,Dijon
+Fri Oct 20 2006,Chateauroux,1-0,0-0,Brest
+Fri Oct 20 2006,Creteil,1-0,0-0,Libourne
+Fri Oct 20 2006,Grenoble,2-2,1-0,Gueugnon
+Fri Oct 20 2006,Guingamp,0-2,0-2,Metz
+Fri Oct 20 2006,Le Havre,1-0,0-0,Reims
+Fri Oct 20 2006,Niort,1-1,0-0,Montpellier
+Sun Oct 22 2006,Strasbourg,3-2,1-1,Caen
+Mon Oct 23 2006,Tours,0-3,0-1,Bastia
+Fri Oct 27 2006,Bastia,0-0,0-0,Guingamp
+Fri Oct 27 2006,Brest,1-0,0-0,Niort
+Fri Oct 27 2006,Caen,4-0,1-0,Ajaccio
+Fri Oct 27 2006,Dijon,2-0,0-0,Chateauroux
+Fri Oct 27 2006,Gueugnon,0-1,0-1,Strasbourg
+Fri Oct 27 2006,Libourne,0-0,0-0,Le Havre
+Fri Oct 27 2006,Metz,2-1,2-1,Tours
+Fri Oct 27 2006,Montpellier,1-2,0-0,Amiens
+Fri Oct 27 2006,Reims,0-0,0-0,Creteil
+Mon Oct 30 2006,Istres,3-0,1-0,Grenoble
+Fri Nov 3 2006,Ajaccio,1-0,0-0,Libourne
+Fri Nov 3 2006,Amiens,1-0,1-0,Niort
+Fri Nov 3 2006,Chateauroux,0-1,0-1,Metz
+Fri Nov 3 2006,Creteil,1-0,1-0,Bastia
+Fri Nov 3 2006,Grenoble,1-1,1-1,Caen
+Fri Nov 3 2006,Gueugnon,0-0,0-0,Reims
+Fri Nov 3 2006,Guingamp,1-0,0-0,Montpellier
+Fri Nov 3 2006,Le Havre,0-1,0-0,Brest
+Fri Nov 3 2006,Strasbourg,2-0,1-0,Istres
+Fri Nov 3 2006,Tours,0-1,0-0,Dijon
+Mon Nov 6 2006,Metz,1-0,0-0,Amiens
+Tue Nov 7 2006,Bastia,1-1,0-0,Le Havre
+Tue Nov 7 2006,Brest,0-1,0-0,Ajaccio
+Tue Nov 7 2006,Caen,1-0,0-0,Creteil
+Tue Nov 7 2006,Dijon,2-1,1-0,Guingamp
+Tue Nov 7 2006,Istres,0-1,0-0,Gueugnon
+Tue Nov 7 2006,Libourne,2-1,2-0,Grenoble
+Tue Nov 7 2006,Montpellier,1-0,0-0,Tours
+Tue Nov 7 2006,Niort,2-0,2-0,Chateauroux
+Tue Nov 7 2006,Reims,2-0,1-0,Strasbourg
+Fri Nov 10 2006,Ajaccio,0-1,0-0,Bastia
+Fri Nov 10 2006,Chateauroux,0-1,0-1,Montpellier
+Fri Nov 10 2006,Creteil,1-1,1-1,Dijon
+Fri Nov 10 2006,Grenoble,5-1,3-0,Reims
+Fri Nov 10 2006,Gueugnon,0-1,0-1,Caen
+Fri Nov 10 2006,Guingamp,2-3,1-1,Amiens
+Fri Nov 10 2006,Istres,1-1,0-1,Brest
+Fri Nov 10 2006,Strasbourg,2-1,0-0,Libourne
+Fri Nov 10 2006,Tours,1-0,0-0,Niort
+Mon Nov 13 2006,Le Havre,1-1,0-0,Metz
+Fri Nov 17 2006,Amiens,3-0,2-0,Tours
+Fri Nov 17 2006,Bastia,0-0,0-0,Grenoble
+Fri Nov 17 2006,Caen,1-0,0-0,Chateauroux
+Fri Nov 17 2006,Dijon,2-1,0-0,Le Havre
+Fri Nov 17 2006,Libourne,2-1,2-0,Gueugnon
+Fri Nov 17 2006,Montpellier,1-1,1-0,Creteil
+Fri Nov 17 2006,Niort,0-1,0-0,Guingamp
+Fri Nov 17 2006,Reims,1-2,0-2,Istres
+Sun Nov 19 2006,Metz,2-0,1-0,Ajaccio
+Mon Nov 20 2006,Brest,1-1,1-0,Strasbourg
+Fri Dec 1 2006,Ajaccio,3-0,1-0,Dijon
+Fri Dec 1 2006,Chateauroux,3-1,2-1,Amiens
+Fri Dec 1 2006,Creteil,3-1,1-0,Niort
+Fri Dec 1 2006,Gueugnon,4-2,1-0,Brest
+Fri Dec 1 2006,Istres,2-2,2-1,Libourne
+Fri Dec 1 2006,Le Havre,3-0,0-0,Montpellier
+Fri Dec 1 2006,Strasbourg,1-1,0-0,Bastia
+Fri Dec 1 2006,Tours,1-1,1-1,Guingamp
+Sun Dec 3 2006,Grenoble,1-1,0-1,Metz
+Mon Dec 4 2006,Reims,2-2,1-0,Caen
+Fri Dec 8 2006,Amiens,1-0,1-0,Creteil
+Fri Dec 8 2006,Bastia,0-1,0-1,Gueugnon
+Fri Dec 8 2006,Brest,1-1,1-0,Tours
+Fri Dec 8 2006,Caen,4-0,3-0,Istres
+Fri Dec 8 2006,Guingamp,1-1,0-1,Chateauroux
+Fri Dec 8 2006,Libourne,2-3,1-1,Reims
+Fri Dec 8 2006,Metz,4-1,1-0,Strasbourg
+Fri Dec 8 2006,Montpellier,1-2,1-0,Ajaccio
+Fri Dec 8 2006,Niort,0-0,0-0,Le Havre
+Mon Dec 11 2006,Dijon,1-1,0-0,Grenoble
+Thu Dec 21 2006,Strasbourg,1-0,1-0,Amiens
+Fri Dec 22 2006,Ajaccio,0-0,0-0,Guingamp
+Fri Dec 22 2006,Caen,3-2,1-1,Dijon
+Fri Dec 22 2006,Creteil,4-3,3-1,Tours
+Fri Dec 22 2006,Grenoble,4-1,1-0,Niort
+Fri Dec 22 2006,Gueugnon,3-0,3-0,Montpellier
+Fri Dec 22 2006,Istres,0-0,0-0,Metz
+Fri Dec 22 2006,Le Havre,1-0,0-0,Chateauroux
+Fri Dec 22 2006,Libourne,3-2,2-1,Brest
+Sat Dec 23 2006,Reims,1-1,1-0,Bastia
+Fri Jan 12 2007,Amiens,1-1,1-1,Ajaccio
+Fri Jan 12 2007,Bastia,3-2,1-1,Libourne
+Fri Jan 12 2007,Chateauroux,1-0,0-0,Creteil
+Fri Jan 12 2007,Dijon,1-0,1-0,Istres
+Fri Jan 12 2007,Guingamp,2-2,0-2,Grenoble
+Fri Jan 12 2007,Metz,2-2,2-2,Reims
+Fri Jan 12 2007,Niort,1-1,1-1,Gueugnon
+Fri Jan 12 2007,Tours,0-2,0-2,Le Havre
+Sun Jan 14 2007,Montpellier,0-0,0-0,Strasbourg
+Mon Jan 15 2007,Brest,2-2,1-1,Caen
+Fri Jan 26 2007,Ajaccio,0-1,0-1,Tours
+Fri Jan 26 2007,Brest,3-1,1-0,Bastia
+Fri Jan 26 2007,Caen,3-1,2-0,Amiens
+Fri Jan 26 2007,Grenoble,0-1,0-0,Chateauroux
+Fri Jan 26 2007,Gueugnon,1-1,1-0,Creteil
+Fri Jan 26 2007,Istres,1-2,0-1,Montpellier
+Fri Jan 26 2007,Reims,1-0,1-0,Dijon
+Fri Jan 26 2007,Strasbourg,1-0,0-0,Niort
+Mon Jan 29 2007,Le Havre,2-0,1-0,Guingamp
+Fri Feb 2 2007,Amiens,2-0,2-0,Gueugnon
+Fri Feb 2 2007,Bastia,2-0,2-0,Caen
+Fri Feb 2 2007,Chateauroux,2-1,0-0,Ajaccio
+Fri Feb 2 2007,Creteil,0-1,0-0,Le Havre
+Fri Feb 2 2007,Dijon,0-1,0-0,Libourne
+Fri Feb 2 2007,Metz,0-0,0-0,Brest
+Fri Feb 2 2007,Montpellier,2-0,2-0,Reims
+Fri Feb 2 2007,Niort,0-0,0-0,Istres
+Fri Feb 2 2007,Tours,1-1,0-0,Grenoble
+Mon Feb 5 2007,Guingamp,1-1,0-0,Strasbourg
+Fri Feb 9 2007,Ajaccio,5-0,1-0,Creteil
+Fri Feb 9 2007,Brest,0-0,0-0,Dijon
+Fri Feb 9 2007,Caen,1-1,0-1,Le Havre
+Fri Feb 9 2007,Grenoble,0-1,0-0,Amiens
+Fri Feb 9 2007,Gueugnon,2-0,1-0,Guingamp
+Fri Feb 9 2007,Istres,3-1,2-1,Chateauroux
+Fri Feb 9 2007,Libourne,2-2,0-0,Montpellier
+Fri Feb 9 2007,Reims,2-3,0-2,Niort
+Fri Feb 9 2007,Strasbourg,2-1,0-1,Tours
+Mon Feb 12 2007,Bastia,1-0,0-0,Metz
+Fri Feb 16 2007,Amiens,2-1,0-0,Reims
+Fri Feb 16 2007,Creteil,1-1,1-1,Grenoble
+Fri Feb 16 2007,Dijon,0-0,0-0,Bastia
+Fri Feb 16 2007,Guingamp,3-0,0-0,Istres
+Fri Feb 16 2007,Le Havre,4-1,0-1,Ajaccio
+Fri Feb 16 2007,Montpellier,0-0,0-0,Brest
+Fri Feb 16 2007,Niort,2-0,0-0,Libourne
+Fri Feb 16 2007,Tours,2-1,0-1,Gueugnon
+Sun Feb 18 2007,Chateauroux,1-1,0-1,Strasbourg
+Mon Feb 19 2007,Metz,2-0,1-0,Caen
+Fri Feb 23 2007,Bastia,1-0,1-0,Montpellier
+Fri Feb 23 2007,Brest,2-3,2-0,Guingamp
+Fri Feb 23 2007,Caen,4-0,2-0,Niort
+Fri Feb 23 2007,Gueugnon,3-0,2-0,Chateauroux
+Fri Feb 23 2007,Istres,2-1,1-1,Tours
+Fri Feb 23 2007,Libourne,1-1,1-0,Amiens
+Fri Feb 23 2007,Metz,5-0,3-0,Dijon
+Fri Feb 23 2007,Reims,4-1,1-1,Ajaccio
+Fri Feb 23 2007,Strasbourg,1-0,1-0,Creteil
+Mon Feb 26 2007,Grenoble,2-1,0-1,Le Havre
+Fri Mar 2 2007,Ajaccio,3-1,2-0,Grenoble
+Fri Mar 2 2007,Amiens,2-1,1-0,Istres
+Fri Mar 2 2007,Chateauroux,0-1,0-1,Libourne
+Fri Mar 2 2007,Creteil,0-2,0-1,Brest
+Fri Mar 2 2007,Dijon,1-0,0-0,Gueugnon
+Fri Mar 2 2007,Guingamp,1-0,0-0,Reims
+Fri Mar 2 2007,Le Havre,0-1,0-1,Strasbourg
+Fri Mar 2 2007,Montpellier,1-1,1-1,Metz
+Fri Mar 2 2007,Niort,0-0,0-0,Bastia
+Mon Mar 5 2007,Tours,2-3,0-2,Caen
+Fri Mar 9 2007,Bastia,2-2,1-1,Amiens
+Fri Mar 9 2007,Brest,1-0,0-0,Grenoble
+Fri Mar 9 2007,Caen,1-1,1-0,Guingamp
+Fri Mar 9 2007,Dijon,1-1,0-1,Montpellier
+Fri Mar 9 2007,Gueugnon,2-1,2-0,Le Havre
+Fri Mar 9 2007,Istres,0-0,0-0,Creteil
+Fri Mar 9 2007,Libourne,1-0,1-0,Tours
+Fri Mar 9 2007,Metz,0-0,0-0,Niort
+Fri Mar 9 2007,Strasbourg,0-0,0-0,Ajaccio
+Mon Mar 12 2007,Reims,0-2,0-0,Chateauroux
+Fri Mar 16 2007,Ajaccio,1-1,0-1,Gueugnon
+Fri Mar 16 2007,Amiens,2-0,0-0,Brest
+Fri Mar 16 2007,Chateauroux,1-2,0-1,Bastia
+Fri Mar 16 2007,Creteil,1-1,1-0,Metz
+Fri Mar 16 2007,Guingamp,2-1,2-0,Libourne
+Fri Mar 16 2007,Le Havre,1-0,0-0,Istres
+Fri Mar 16 2007,Montpellier,1-2,1-0,Caen
+Fri Mar 16 2007,Niort,2-1,2-0,Dijon
+Fri Mar 16 2007,Tours,0-0,0-0,Reims
+Fri Mar 23 2007,Libourne,0-2,0-1,Metz
+Fri Mar 30 2007,Bastia,2-0,1-0,Tours
+Fri Mar 30 2007,Brest,0-0,0-0,Chateauroux
+Fri Mar 30 2007,Caen,2-2,2-1,Strasbourg
+Fri Mar 30 2007,Dijon,1-2,1-0,Amiens
+Fri Mar 30 2007,Gueugnon,0-0,0-0,Grenoble
+Fri Mar 30 2007,Istres,1-4,0-1,Ajaccio
+Fri Mar 30 2007,Libourne,0-2,0-2,Creteil
+Fri Mar 30 2007,Metz,1-0,1-0,Guingamp
+Fri Mar 30 2007,Montpellier,2-1,1-0,Niort
+Mon Apr 2 2007,Reims,3-2,2-1,Le Havre
+Fri Apr 6 2007,Ajaccio,0-0,0-0,Caen
+Fri Apr 6 2007,Amiens,4-1,2-1,Montpellier
+Fri Apr 6 2007,Chateauroux,2-1,0-0,Dijon
+Fri Apr 6 2007,Creteil,1-1,1-1,Reims
+Fri Apr 6 2007,Grenoble,3-0,1-0,Istres
+Fri Apr 6 2007,Guingamp,4-0,2-0,Bastia
+Fri Apr 6 2007,Le Havre,2-0,0-0,Libourne
+Fri Apr 6 2007,Niort,1-0,1-0,Brest
+Fri Apr 6 2007,Strasbourg,2-1,0-1,Gueugnon
+Mon Apr 9 2007,Tours,0-1,0-1,Metz
+Fri Apr 13 2007,Bastia,1-2,0-2,Creteil
+Fri Apr 13 2007,Caen,0-1,0-0,Grenoble
+Fri Apr 13 2007,Dijon,2-1,1-0,Tours
+Fri Apr 13 2007,Istres,3-2,1-1,Strasbourg
+Fri Apr 13 2007,Libourne,1-0,1-0,Ajaccio
+Fri Apr 13 2007,Metz,2-0,2-0,Chateauroux
+Fri Apr 13 2007,Montpellier,1-1,0-1,Guingamp
+Fri Apr 13 2007,Niort,2-0,1-0,Amiens
+Fri Apr 13 2007,Reims,1-0,0-0,Gueugnon
+Mon Apr 16 2007,Brest,2-0,2-0,Le Havre
+Tue Apr 17 2007,Grenoble,1-1,1-0,Strasbourg
+Fri Apr 20 2007,Ajaccio,2-1,1-1,Brest
+Fri Apr 20 2007,Amiens,0-2,0-2,Metz
+Fri Apr 20 2007,Chateauroux,0-0,0-0,Niort
+Fri Apr 20 2007,Creteil,4-3,3-1,Caen
+Fri Apr 20 2007,Grenoble,2-1,0-1,Libourne
+Fri Apr 20 2007,Gueugnon,3-3,0-1,Istres
+Fri Apr 20 2007,Guingamp,2-2,0-1,Dijon
+Fri Apr 20 2007,Le Havre,2-0,1-0,Bastia
+Fri Apr 20 2007,Tours,1-1,1-0,Montpellier
+Mon Apr 23 2007,Strasbourg,1-0,1-0,Reims
+Fri Apr 27 2007,Amiens,3-1,1-0,Guingamp
+Fri Apr 27 2007,Bastia,4-1,1-0,Ajaccio
+Fri Apr 27 2007,Brest,0-0,0-0,Istres
+Fri Apr 27 2007,Dijon,1-1,0-0,Creteil
+Fri Apr 27 2007,Libourne,1-0,1-0,Strasbourg
+Fri Apr 27 2007,Metz,1-0,1-0,Le Havre
+Fri Apr 27 2007,Montpellier,1-3,0-2,Chateauroux
+Fri Apr 27 2007,Niort,0-0,0-0,Tours
+Fri Apr 27 2007,Reims,0-1,0-0,Grenoble
+Mon Apr 30 2007,Caen,1-1,0-1,Gueugnon
+Fri May 4 2007,Ajaccio,2-1,0-1,Metz
+Fri May 4 2007,Chateauroux,1-1,0-0,Caen
+Fri May 4 2007,Grenoble,1-1,0-0,Bastia
+Fri May 4 2007,Gueugnon,1-3,0-0,Libourne
+Fri May 4 2007,Guingamp,1-0,0-0,Niort
+Fri May 4 2007,Istres,2-2,0-2,Reims
+Fri May 4 2007,Le Havre,1-2,0-0,Dijon
+Fri May 4 2007,Strasbourg,1-0,1-0,Brest
+Fri May 4 2007,Tours,0-2,0-1,Amiens
+Mon May 7 2007,Creteil,1-0,0-0,Montpellier
+Fri May 11 2007,Amiens,3-1,1-0,Chateauroux
+Fri May 11 2007,Bastia,1-2,1-0,Strasbourg
+Fri May 11 2007,Brest,2-1,1-0,Gueugnon
+Fri May 11 2007,Caen,2-1,0-1,Reims
+Fri May 11 2007,Dijon,2-2,0-2,Ajaccio
+Fri May 11 2007,Guingamp,3-1,2-1,Tours
+Fri May 11 2007,Libourne,1-2,0-2,Istres
+Fri May 11 2007,Metz,1-2,1-2,Grenoble
+Fri May 11 2007,Niort,2-1,0-1,Creteil
+Mon May 14 2007,Montpellier,2-1,1-1,Le Havre
+Fri May 18 2007,Ajaccio,0-2,0-0,Montpellier
+Fri May 18 2007,Chateauroux,1-0,1-0,Guingamp
+Fri May 18 2007,Creteil,0-2,0-2,Amiens
+Fri May 18 2007,Grenoble,2-1,1-1,Dijon
+Fri May 18 2007,Gueugnon,4-2,3-1,Bastia
+Fri May 18 2007,Istres,1-2,0-2,Caen
+Fri May 18 2007,Le Havre,2-2,1-1,Niort
+Fri May 18 2007,Reims,1-1,1-1,Libourne
+Fri May 18 2007,Strasbourg,2-1,2-1,Metz
+Fri May 18 2007,Tours,1-2,1-1,Brest
+Fri May 25 2007,Amiens,2-0,1-0,Le Havre
+Fri May 25 2007,Bastia,4-1,3-1,Istres
+Fri May 25 2007,Brest,3-0,3-0,Reims
+Fri May 25 2007,Dijon,3-1,2-1,Strasbourg
+Fri May 25 2007,Guingamp,2-1,1-1,Creteil
+Fri May 25 2007,Libourne,1-2,0-1,Caen
+Fri May 25 2007,Metz,1-2,1-0,Gueugnon
+Fri May 25 2007,Montpellier,1-0,0-0,Grenoble
+Fri May 25 2007,Niort,3-0,0-0,Ajaccio
+Fri May 25 2007,Tours,2-1,2-0,Chateauroux

@@ -1,0 +1,463 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 29 2014,Perugia,2-1,0-0,Bologna
+Sat Aug 30 2014,Avellino,1-0,0-0,Pro Vercelli
+Sat Aug 30 2014,Catania,3-3,1-0,Virtus Lanciano
+Sat Aug 30 2014,Crotone,0-2,0-1,Ternana
+Sat Aug 30 2014,Frosinone,1-0,0-0,Brescia
+Sat Aug 30 2014,Livorno,1-1,1-0,Carpi
+Sat Aug 30 2014,Pescara,0-0,0-0,Trapani
+Sat Aug 30 2014,Varese,2-1,0-0,Spezia
+Sat Aug 30 2014,Virtus Entella,0-2,0-0,Bari
+Mon Sep 1 2014,Modena,1-1,0-1,Cittadella
+Sat Sep 6 2014,Brescia,0-1,0-0,Livorno
+Sat Sep 6 2014,Latina,1-0,0-0,Crotone
+Sun Sep 7 2014,Bari,0-2,0-1,Perugia
+Sun Sep 7 2014,Bologna,1-1,0-1,Virtus Entella
+Sun Sep 7 2014,Carpi,4-2,1-2,Varese
+Sun Sep 7 2014,Cittadella,3-1,2-1,Avellino
+Sun Sep 7 2014,Pro Vercelli,3-2,0-1,Catania
+Sun Sep 7 2014,Spezia,2-1,2-1,Frosinone
+Sun Sep 7 2014,Ternana,1-1,1-0,Pescara
+Sun Sep 7 2014,Trapani,2-1,1-0,Vicenza
+Sun Sep 7 2014,Virtus Lanciano,2-0,1-0,Modena
+Wed Sep 10 2014,Vicenza,0-0,0-0,Latina
+Fri Sep 12 2014,Pescara,2-3,0-3,Bologna
+Sat Sep 13 2014,Avellino,0-0,0-0,Spezia
+Sat Sep 13 2014,Crotone,1-1,1-0,Carpi
+Sat Sep 13 2014,Frosinone,1-1,0-1,Bari
+Sat Sep 13 2014,Modena,1-0,0-0,Pro Vercelli
+Sat Sep 13 2014,Perugia,1-0,0-0,Catania
+Sat Sep 13 2014,Trapani,2-1,1-1,Cittadella
+Sat Sep 13 2014,Varese,1-1,0-1,Virtus Lanciano
+Sat Sep 13 2014,Virtus Entella,0-1,0-0,Brescia
+Sun Sep 14 2014,Vicenza,0-1,0-1,Ternana
+Mon Sep 15 2014,Livorno,1-1,0-0,Latina
+Fri Sep 19 2014,Carpi,2-2,2-1,Trapani
+Fri Sep 19 2014,Spezia,1-0,1-0,Virtus Entella
+Sat Sep 20 2014,Bari,2-0,1-0,Livorno
+Sat Sep 20 2014,Bologna,0-2,0-0,Crotone
+Sat Sep 20 2014,Brescia,0-0,0-0,Ternana
+Sat Sep 20 2014,Catania,0-0,0-0,Modena
+Sat Sep 20 2014,Cittadella,3-2,1-1,Pescara
+Sat Sep 20 2014,Latina,1-2,1-1,Avellino
+Sat Sep 20 2014,Perugia,2-2,1-2,Vicenza
+Sat Sep 20 2014,Pro Vercelli,4-0,2-0,Varese
+Sat Sep 20 2014,Virtus Lanciano,1-5,0-3,Frosinone
+Mon Sep 22 2014,Spezia,1-2,0-1,Carpi
+Tue Sep 23 2014,Brescia,1-1,1-0,Virtus Lanciano
+Tue Sep 23 2014,Cittadella,1-2,1-1,Pro Vercelli
+Tue Sep 23 2014,Crotone,1-1,0-1,Catania
+Tue Sep 23 2014,Frosinone,0-0,0-0,Avellino
+Tue Sep 23 2014,Livorno,1-0,1-0,Varese
+Tue Sep 23 2014,Modena,0-0,0-0,Perugia
+Tue Sep 23 2014,Pescara,1-1,1-1,Latina
+Tue Sep 23 2014,Ternana,0-1,0-0,Bologna
+Tue Sep 23 2014,Trapani,2-2,0-1,Virtus Entella
+Tue Sep 23 2014,Vicenza,1-0,0-0,Bari
+Sat Sep 27 2014,Avellino,2-1,0-1,Livorno
+Sat Sep 27 2014,Bologna,1-0,1-0,Cittadella
+Sat Sep 27 2014,Crotone,0-0,0-0,Vicenza
+Sat Sep 27 2014,Latina,1-1,0-0,Ternana
+Sat Sep 27 2014,Modena,2-0,0-0,Spezia
+Sat Sep 27 2014,Perugia,1-0,0-0,Brescia
+Sat Sep 27 2014,Pro Vercelli,1-1,0-1,Frosinone
+Sat Sep 27 2014,Varese,5-2,4-0,Trapani
+Sat Sep 27 2014,Virtus Entella,2-0,1-0,Carpi
+Sun Sep 28 2014,Catania,2-1,1-1,Pescara
+Mon Sep 29 2014,Virtus Lanciano,1-1,1-0,Bari
+Fri Oct 3 2014,Livorno,1-0,0-0,Crotone
+Sat Oct 4 2014,Bari,1-1,1-1,Modena
+Sat Oct 4 2014,Brescia,1-1,0-0,Varese
+Sat Oct 4 2014,Carpi,1-0,1-0,Pro Vercelli
+Sat Oct 4 2014,Cittadella,2-3,1-2,Virtus Lanciano
+Sat Oct 4 2014,Frosinone,1-0,0-0,Catania
+Sat Oct 4 2014,Pescara,4-0,1-0,Virtus Entella
+Sat Oct 4 2014,Spezia,2-0,1-0,Perugia
+Sat Oct 4 2014,Trapani,1-0,0-0,Latina
+Sat Oct 4 2014,Vicenza,0-0,0-0,Bologna
+Mon Oct 6 2014,Ternana,2-2,1-0,Avellino
+Sat Oct 11 2014,Modena,1-1,0-1,Brescia
+Sat Oct 11 2014,Pro Vercelli,1-0,0-0,Spezia
+Sun Oct 12 2014,Avellino,1-0,1-0,Carpi
+Sun Oct 12 2014,Catania,2-3,1-2,Bari
+Sun Oct 12 2014,Crotone,1-4,0-2,Pescara
+Sun Oct 12 2014,Latina,1-2,0-2,Bologna
+Sun Oct 12 2014,Livorno,6-0,3-0,Trapani
+Sun Oct 12 2014,Perugia,0-1,0-0,Frosinone
+Sun Oct 12 2014,Virtus Lanciano,4-0,1-0,Vicenza
+Mon Oct 13 2014,Varese,2-2,2-0,Cittadella
+Fri Oct 17 2014,Vicenza,2-1,1-0,Pescara
+Sat Oct 18 2014,Bologna,3-0,1-0,Varese
+Sat Oct 18 2014,Brescia,2-1,0-0,Pro Vercelli
+Sat Oct 18 2014,Carpi,2-1,2-1,Latina
+Sat Oct 18 2014,Frosinone,2-0,0-0,Modena
+Sat Oct 18 2014,Spezia,3-0,2-0,Catania
+Sat Oct 18 2014,Ternana,0-4,0-2,Livorno
+Sat Oct 18 2014,Trapani,3-1,1-0,Crotone
+Sat Oct 18 2014,Virtus Lanciano,1-1,0-0,Perugia
+Sun Oct 19 2014,Bari,4-2,2-1,Avellino
+Mon Oct 20 2014,Cittadella,0-1,0-1,Virtus Entella
+Fri Oct 24 2014,Modena,0-0,0-0,Bologna
+Fri Oct 24 2014,Ternana,1-2,1-1,Trapani
+Sat Oct 25 2014,Avellino,1-1,0-0,Virtus Lanciano
+Sat Oct 25 2014,Catania,3-1,0-0,Vicenza
+Sat Oct 25 2014,Crotone,2-2,1-1,Cittadella
+Sat Oct 25 2014,Latina,1-1,1-0,Brescia
+Sat Oct 25 2014,Livorno,0-1,0-0,Spezia
+Sat Oct 25 2014,Pescara,0-5,0-2,Carpi
+Sat Oct 25 2014,Pro Vercelli,0-0,0-0,Perugia
+Sat Oct 25 2014,Varese,2-1,1-0,Bari
+Sat Oct 25 2014,Virtus Entella,1-0,0-0,Frosinone
+Mon Oct 27 2014,Bologna,2-1,1-1,Trapani
+Tue Oct 28 2014,Bari,1-1,0-1,Pescara
+Tue Oct 28 2014,Brescia,2-1,2-1,Crotone
+Tue Oct 28 2014,Carpi,3-1,3-0,Ternana
+Tue Oct 28 2014,Catania,5-1,1-0,Virtus Entella
+Tue Oct 28 2014,Cittadella,1-1,0-0,Livorno
+Tue Oct 28 2014,Frosinone,1-1,1-0,Varese
+Tue Oct 28 2014,Perugia,0-0,0-0,Avellino
+Tue Oct 28 2014,Spezia,1-1,0-1,Latina
+Tue Oct 28 2014,Vicenza,0-2,0-1,Modena
+Tue Oct 28 2014,Virtus Lanciano,2-0,2-0,Pro Vercelli
+Sat Nov 1 2014,Avellino,1-0,1-0,Catania
+Sat Nov 1 2014,Carpi,1-0,0-0,Vicenza
+Sat Nov 1 2014,Crotone,2-1,0-1,Perugia
+Sat Nov 1 2014,Livorno,3-2,0-0,Bologna
+Sat Nov 1 2014,Pescara,1-2,0-1,Spezia
+Sat Nov 1 2014,Pro Vercelli,3-0,2-0,Bari
+Sat Nov 1 2014,Ternana,1-1,1-1,Cittadella
+Sat Nov 1 2014,Trapani,3-2,0-1,Brescia
+Sat Nov 1 2014,Virtus Entella,0-0,0-0,Virtus Lanciano
+Sun Nov 2 2014,Latina,1-4,0-2,Frosinone
+Sun Nov 2 2014,Varese,2-1,1-1,Modena
+Tue Nov 4 2014,Virtus Entella,2-1,1-0,Ternana
+Fri Nov 7 2014,Spezia,2-1,1-0,Crotone
+Sat Nov 8 2014,Bologna,0-0,0-0,Carpi
+Sat Nov 8 2014,Brescia,1-3,1-0,Pescara
+Sat Nov 8 2014,Catania,2-1,2-0,Varese
+Sat Nov 8 2014,Cittadella,1-1,1-0,Latina
+Sat Nov 8 2014,Frosinone,4-1,1-0,Trapani
+Sat Nov 8 2014,Modena,1-2,0-2,Avellino
+Sat Nov 8 2014,Perugia,2-1,2-1,Virtus Entella
+Sat Nov 8 2014,Vicenza,2-1,1-1,Pro Vercelli
+Sat Nov 8 2014,Virtus Lanciano,1-0,0-0,Livorno
+Mon Nov 10 2014,Bari,0-1,0-1,Ternana
+Sat Nov 15 2014,Bologna,1-2,1-0,Brescia
+Sat Nov 15 2014,Carpi,5-2,4-1,Cittadella
+Sun Nov 16 2014,Avellino,0-1,0-1,Vicenza
+Sun Nov 16 2014,Crotone,3-0,1-0,Bari
+Sun Nov 16 2014,Latina,1-0,0-0,Virtus Lanciano
+Sun Nov 16 2014,Livorno,3-1,0-1,Pro Vercelli
+Sun Nov 16 2014,Pescara,3-0,0-0,Frosinone
+Sun Nov 16 2014,Ternana,0-0,0-0,Spezia
+Sun Nov 16 2014,Trapani,2-2,2-0,Catania
+Sun Nov 16 2014,Varese,1-1,0-0,Perugia
+Fri Nov 21 2014,Frosinone,5-1,2-1,Livorno
+Sat Nov 22 2014,Avellino,0-0,0-0,Varese
+Sat Nov 22 2014,Bari,2-1,1-0,Trapani
+Sat Nov 22 2014,Brescia,3-3,1-1,Carpi
+Sat Nov 22 2014,Modena,2-0,0-0,Pescara
+Sat Nov 22 2014,Perugia,2-2,1-1,Ternana
+Sat Nov 22 2014,Pro Vercelli,2-0,1-0,Virtus Entella
+Sat Nov 22 2014,Spezia,1-1,0-0,Bologna
+Sat Nov 22 2014,Vicenza,1-1,0-1,Cittadella
+Sat Nov 22 2014,Virtus Lanciano,1-1,1-1,Crotone
+Sun Nov 23 2014,Catania,1-0,1-0,Latina
+Fri Nov 28 2014,Pescara,1-1,0-0,Virtus Lanciano
+Sat Nov 29 2014,Carpi,0-0,0-0,Frosinone
+Sat Nov 29 2014,Cittadella,1-1,1-1,Brescia
+Sat Nov 29 2014,Crotone,1-4,0-1,Modena
+Sat Nov 29 2014,Latina,1-1,0-0,Pro Vercelli
+Sat Nov 29 2014,Livorno,0-0,0-0,Perugia
+Sat Nov 29 2014,Ternana,1-0,0-0,Catania
+Sat Nov 29 2014,Trapani,3-2,0-0,Spezia
+Sat Nov 29 2014,Varese,2-3,1-1,Vicenza
+Sat Nov 29 2014,Virtus Entella,0-0,0-0,Avellino
+Sun Nov 30 2014,Bologna,2-0,1-0,Bari
+Fri Dec 5 2014,Frosinone,0-1,0-1,Ternana
+Sat Dec 6 2014,Avellino,1-2,1-1,Crotone
+Sat Dec 6 2014,Bari,0-1,0-0,Carpi
+Sat Dec 6 2014,Catania,2-2,0-1,Bologna
+Sat Dec 6 2014,Perugia,0-0,0-0,Latina
+Sat Dec 6 2014,Pro Vercelli,0-4,0-1,Pescara
+Sat Dec 6 2014,Spezia,0-0,0-0,Cittadella
+Sat Dec 6 2014,Varese,2-2,1-2,Virtus Entella
+Sat Dec 6 2014,Virtus Lanciano,2-2,2-1,Trapani
+Mon Dec 8 2014,Modena,0-0,0-0,Livorno
+Mon Dec 8 2014,Vicenza,2-0,1-0,Brescia
+Fri Dec 12 2014,Trapani,2-2,2-0,Perugia
+Sat Dec 13 2014,Bologna,2-2,0-1,Frosinone
+Sat Dec 13 2014,Brescia,0-1,0-1,Spezia
+Sat Dec 13 2014,Carpi,1-0,0-0,Modena
+Sat Dec 13 2014,Cittadella,0-1,0-0,Bari
+Sat Dec 13 2014,Crotone,0-1,0-0,Pro Vercelli
+Sat Dec 13 2014,Livorno,4-2,1-1,Catania
+Sat Dec 13 2014,Pescara,0-0,0-0,Avellino
+Sat Dec 13 2014,Ternana,0-1,0-0,Virtus Lanciano
+Sat Dec 13 2014,Virtus Entella,2-1,1-0,Vicenza
+Mon Dec 15 2014,Latina,1-0,0-0,Varese
+Tue Dec 16 2014,Virtus Entella,1-1,1-1,Modena
+Fri Dec 19 2014,Avellino,1-0,0-0,Bologna
+Fri Dec 19 2014,Virtus Lanciano,1-1,1-1,Carpi
+Sat Dec 20 2014,Bari,1-0,0-0,Latina
+Sat Dec 20 2014,Catania,2-2,1-1,Brescia
+Sat Dec 20 2014,Frosinone,1-1,0-0,Cittadella
+Sat Dec 20 2014,Modena,2-1,0-1,Trapani
+Sat Dec 20 2014,Perugia,2-2,1-1,Pescara
+Sat Dec 20 2014,Pro Vercelli,2-1,0-1,Ternana
+Sat Dec 20 2014,Varese,1-0,1-0,Crotone
+Sat Dec 20 2014,Vicenza,1-0,0-0,Spezia
+Sat Dec 20 2014,Virtus Entella,1-1,0-0,Livorno
+Wed Dec 24 2014,Bologna,3-0,2-0,Pro Vercelli
+Wed Dec 24 2014,Brescia,2-1,1-0,Bari
+Wed Dec 24 2014,Carpi,4-0,1-0,Perugia
+Wed Dec 24 2014,Cittadella,3-2,1-0,Catania
+Wed Dec 24 2014,Crotone,2-0,1-0,Frosinone
+Wed Dec 24 2014,Latina,1-1,1-1,Virtus Entella
+Wed Dec 24 2014,Pescara,2-0,1-0,Varese
+Wed Dec 24 2014,Spezia,3-3,3-2,Virtus Lanciano
+Wed Dec 24 2014,Ternana,1-0,0-0,Modena
+Wed Dec 24 2014,Trapani,4-1,1-1,Avellino
+Wed Dec 24 2014,Vicenza,0-0,0-0,Livorno
+Sun Dec 28 2014,Avellino,2-0,1-0,Brescia
+Sun Dec 28 2014,Bari,0-3,0-0,Spezia
+Sun Dec 28 2014,Catania,0-2,0-0,Carpi
+Sun Dec 28 2014,Frosinone,1-0,0-0,Vicenza
+Sun Dec 28 2014,Livorno,1-2,1-1,Pescara
+Sun Dec 28 2014,Modena,0-0,0-0,Latina
+Sun Dec 28 2014,Perugia,3-1,1-0,Cittadella
+Sun Dec 28 2014,Pro Vercelli,1-0,1-0,Trapani
+Sun Dec 28 2014,Varese,2-0,1-0,Ternana
+Sun Dec 28 2014,Virtus Entella,1-1,1-0,Crotone
+Sun Dec 28 2014,Virtus Lanciano,1-2,0-0,Bologna
+Sat Jan 17 2015,Bari,0-0,0-0,Virtus Entella
+Sat Jan 17 2015,Brescia,3-1,1-0,Frosinone
+Sat Jan 17 2015,Cittadella,1-1,0-1,Modena
+Sat Jan 17 2015,Latina,0-0,0-0,Vicenza
+Sat Jan 17 2015,Pro Vercelli,1-1,0-0,Avellino
+Sat Jan 17 2015,Spezia,1-1,0-0,Varese
+Sat Jan 17 2015,Ternana,2-1,1-0,Crotone
+Sat Jan 17 2015,Trapani,2-4,1-2,Pescara
+Sat Jan 17 2015,Virtus Lanciano,3-0,1-0,Catania
+Sun Jan 18 2015,Carpi,1-2,0-1,Livorno
+Mon Jan 19 2015,Bologna,2-1,1-0,Perugia
+Fri Jan 23 2015,Catania,4-0,3-0,Pro Vercelli
+Sat Jan 24 2015,Avellino,1-2,1-2,Cittadella
+Sat Jan 24 2015,Crotone,2-1,1-1,Latina
+Sat Jan 24 2015,Frosinone,1-1,1-0,Spezia
+Sat Jan 24 2015,Livorno,4-2,2-1,Brescia
+Sat Jan 24 2015,Perugia,1-1,0-1,Bari
+Sat Jan 24 2015,Pescara,1-2,1-1,Ternana
+Sat Jan 24 2015,Varese,0-1,0-1,Carpi
+Sat Jan 24 2015,Vicenza,3-0,2-0,Trapani
+Sat Jan 24 2015,Virtus Entella,1-2,1-1,Bologna
+Sun Jan 25 2015,Modena,1-1,0-0,Virtus Lanciano
+Fri Jan 30 2015,Bari,4-0,2-0,Frosinone
+Sat Jan 31 2015,Bologna,0-0,0-0,Pescara
+Sat Jan 31 2015,Brescia,3-0,1-0,Virtus Entella
+Sat Jan 31 2015,Carpi,2-1,0-1,Crotone
+Sat Jan 31 2015,Catania,2-0,1-0,Perugia
+Sat Jan 31 2015,Cittadella,1-0,1-0,Trapani
+Sat Jan 31 2015,Latina,3-2,1-1,Livorno
+Sat Jan 31 2015,Pro Vercelli,1-1,1-1,Modena
+Sat Jan 31 2015,Ternana,0-2,0-1,Vicenza
+Sat Jan 31 2015,Virtus Lanciano,1-2,0-1,Varese
+Mon Feb 2 2015,Spezia,0-1,0-1,Avellino
+Fri Feb 6 2015,Trapani,0-0,0-0,Carpi
+Sat Feb 7 2015,Avellino,1-0,0-0,Latina
+Sat Feb 7 2015,Crotone,0-2,0-1,Bologna
+Sat Feb 7 2015,Frosinone,2-1,0-1,Virtus Lanciano
+Sat Feb 7 2015,Livorno,5-2,2-0,Bari
+Sat Feb 7 2015,Pescara,1-1,0-1,Cittadella
+Sat Feb 7 2015,Varese,1-1,0-0,Pro Vercelli
+Sat Feb 7 2015,Vicenza,3-1,0-1,Perugia
+Sat Feb 7 2015,Virtus Entella,2-0,0-0,Spezia
+Sun Feb 8 2015,Ternana,2-1,0-1,Brescia
+Fri Feb 13 2015,Perugia,2-0,1-0,Modena
+Sat Feb 14 2015,Avellino,3-0,1-0,Frosinone
+Sat Feb 14 2015,Bari,0-1,0-0,Vicenza
+Sat Feb 14 2015,Bologna,0-0,0-0,Ternana
+Sat Feb 14 2015,Carpi,0-0,0-0,Spezia
+Sat Feb 14 2015,Latina,2-0,0-0,Pescara
+Sat Feb 14 2015,Pro Vercelli,0-1,0-0,Cittadella
+Sat Feb 14 2015,Varese,0-1,0-0,Livorno
+Sat Feb 14 2015,Virtus Entella,1-1,0-1,Trapani
+Sat Feb 14 2015,Virtus Lanciano,2-0,0-0,Brescia
+Mon Feb 16 2015,Catania,1-1,0-1,Crotone
+Sat Feb 21 2015,Bari,2-0,2-0,Virtus Lanciano
+Sat Feb 21 2015,Brescia,1-2,1-0,Perugia
+Sat Feb 21 2015,Carpi,0-0,0-0,Virtus Entella
+Sat Feb 21 2015,Cittadella,0-1,0-1,Bologna
+Sat Feb 21 2015,Frosinone,3-2,2-0,Pro Vercelli
+Sat Feb 21 2015,Spezia,3-2,1-1,Modena
+Sat Feb 21 2015,Ternana,0-2,0-1,Latina
+Sat Feb 21 2015,Trapani,0-0,0-0,Varese
+Sat Feb 21 2015,Vicenza,1-0,0-0,Crotone
+Sun Feb 22 2015,Livorno,0-1,0-0,Avellino
+Sun Feb 22 2015,Pescara,1-0,0-0,Catania
+Fri Feb 27 2015,Bologna,0-2,0-1,Vicenza
+Fri Feb 27 2015,Latina,1-0,0-0,Trapani
+Sat Feb 28 2015,Avellino,1-1,1-1,Ternana
+Sat Feb 28 2015,Catania,1-2,1-0,Frosinone
+Sat Feb 28 2015,Crotone,1-0,1-0,Livorno
+Sat Feb 28 2015,Modena,0-1,0-1,Bari
+Sat Feb 28 2015,Perugia,2-1,2-0,Spezia
+Sat Feb 28 2015,Pro Vercelli,0-0,0-0,Carpi
+Sat Feb 28 2015,Varese,1-2,1-1,Brescia
+Sat Feb 28 2015,Virtus Entella,2-5,1-3,Pescara
+Sat Feb 28 2015,Virtus Lanciano,2-2,2-2,Cittadella
+Tue Mar 3 2015,Bari,1-1,0-0,Catania
+Tue Mar 3 2015,Bologna,0-0,0-0,Latina
+Tue Mar 3 2015,Brescia,0-1,0-1,Modena
+Tue Mar 3 2015,Carpi,2-0,1-0,Avellino
+Tue Mar 3 2015,Cittadella,3-0,3-0,Varese
+Tue Mar 3 2015,Frosinone,2-1,1-0,Perugia
+Tue Mar 3 2015,Pescara,2-1,0-0,Crotone
+Tue Mar 3 2015,Spezia,5-2,2-2,Pro Vercelli
+Tue Mar 3 2015,Ternana,0-1,0-1,Virtus Entella
+Tue Mar 3 2015,Trapani,0-0,0-0,Livorno
+Tue Mar 3 2015,Vicenza,2-2,0-1,Virtus Lanciano
+Sat Mar 7 2015,Avellino,2-0,1-0,Bari
+Sat Mar 7 2015,Catania,2-2,0-0,Spezia
+Sat Mar 7 2015,Crotone,1-0,0-0,Trapani
+Sat Mar 7 2015,Latina,0-1,0-1,Carpi
+Sat Mar 7 2015,Livorno,3-1,2-1,Ternana
+Sat Mar 7 2015,Modena,1-0,1-0,Frosinone
+Sat Mar 7 2015,Perugia,0-0,0-0,Virtus Lanciano
+Sat Mar 7 2015,Pescara,2-2,0-0,Vicenza
+Sat Mar 7 2015,Pro Vercelli,0-0,0-0,Brescia
+Sat Mar 7 2015,Varese,1-3,1-0,Bologna
+Mon Mar 9 2015,Virtus Entella,2-1,1-0,Cittadella
+Tue Mar 10 2015,Modena,0-0,0-0,Catania
+Fri Mar 13 2015,Spezia,3-0,0-0,Livorno
+Sat Mar 14 2015,Bari,3-0,1-0,Varese
+Sat Mar 14 2015,Brescia,1-2,0-1,Latina
+Sat Mar 14 2015,Carpi,1-2,0-0,Pescara
+Sat Mar 14 2015,Cittadella,0-0,0-0,Crotone
+Sat Mar 14 2015,Frosinone,3-3,2-2,Virtus Entella
+Sat Mar 14 2015,Perugia,3-2,1-0,Pro Vercelli
+Sat Mar 14 2015,Trapani,4-2,3-2,Ternana
+Sat Mar 14 2015,Virtus Lanciano,1-0,1-0,Avellino
+Sun Mar 15 2015,Bologna,0-0,0-0,Modena
+Mon Mar 16 2015,Vicenza,0-0,0-0,Catania
+Fri Mar 20 2015,Pescara,0-0,0-0,Bari
+Sat Mar 21 2015,Avellino,1-2,1-0,Perugia
+Sat Mar 21 2015,Crotone,2-1,0-0,Brescia
+Sat Mar 21 2015,Latina,1-2,0-1,Spezia
+Sat Mar 21 2015,Livorno,0-1,0-1,Cittadella
+Sat Mar 21 2015,Modena,1-2,1-1,Vicenza
+Sat Mar 21 2015,Pro Vercelli,2-1,2-1,Virtus Lanciano
+Sat Mar 21 2015,Ternana,0-1,0-1,Carpi
+Sat Mar 21 2015,Trapani,0-0,0-0,Bologna
+Sat Mar 21 2015,Virtus Entella,2-0,2-0,Catania
+Mon Mar 23 2015,Varese,1-4,1-2,Frosinone
+Sat Mar 28 2015,Bologna,2-0,0-0,Livorno
+Sat Mar 28 2015,Spezia,2-2,1-1,Pescara
+Sat Mar 28 2015,Vicenza,1-2,0-2,Carpi
+Sun Mar 29 2015,Bari,1-0,0-0,Pro Vercelli
+Sun Mar 29 2015,Brescia,1-1,0-0,Trapani
+Sun Mar 29 2015,Catania,1-0,1-0,Avellino
+Sun Mar 29 2015,Cittadella,0-0,0-0,Ternana
+Sun Mar 29 2015,Modena,1-1,0-1,Varese
+Sun Mar 29 2015,Perugia,0-0,0-0,Crotone
+Sun Mar 29 2015,Virtus Lanciano,1-0,0-0,Virtus Entella
+Wed Apr 1 2015,Carpi,3-0,1-0,Bologna
+Thu Apr 2 2015,Avellino,1-0,1-0,Modena
+Thu Apr 2 2015,Crotone,2-0,1-0,Spezia
+Thu Apr 2 2015,Latina,3-2,0-1,Cittadella
+Thu Apr 2 2015,Livorno,1-0,1-0,Virtus Lanciano
+Thu Apr 2 2015,Pescara,2-3,2-1,Brescia
+Thu Apr 2 2015,Pro Vercelli,1-1,0-0,Vicenza
+Thu Apr 2 2015,Ternana,2-0,0-0,Bari
+Thu Apr 2 2015,Trapani,3-1,1-0,Frosinone
+Thu Apr 2 2015,Varese,0-3,0-2,Catania
+Thu Apr 2 2015,Virtus Entella,0-2,0-1,Perugia
+Fri Apr 10 2015,Vicenza,1-0,1-0,Avellino
+Sat Apr 11 2015,Bari,1-1,0-1,Crotone
+Sat Apr 11 2015,Brescia,1-1,1-1,Bologna
+Sat Apr 11 2015,Catania,4-1,0-1,Trapani
+Sat Apr 11 2015,Cittadella,0-1,0-1,Carpi
+Sat Apr 11 2015,Frosinone,2-1,1-0,Pescara
+Sat Apr 11 2015,Modena,2-0,2-0,Virtus Entella
+Sat Apr 11 2015,Pro Vercelli,3-3,2-2,Livorno
+Sat Apr 11 2015,Spezia,0-1,0-0,Ternana
+Sat Apr 11 2015,Virtus Lanciano,1-1,0-0,Latina
+Mon Apr 13 2015,Perugia,2-0,1-0,Varese
+Tue Apr 14 2015,Frosinone,1-0,1-0,Latina
+Fri Apr 17 2015,Cittadella,0-1,0-0,Vicenza
+Sat Apr 18 2015,Bologna,0-0,0-0,Spezia
+Sat Apr 18 2015,Carpi,3-0,2-0,Brescia
+Sat Apr 18 2015,Crotone,1-1,0-0,Virtus Lanciano
+Sat Apr 18 2015,Pescara,1-0,0-0,Modena
+Sat Apr 18 2015,Ternana,0-0,0-0,Perugia
+Sat Apr 18 2015,Trapani,1-1,0-0,Bari
+Sun Apr 19 2015,Latina,1-2,0-1,Catania
+Sun Apr 19 2015,Livorno,0-0,0-0,Frosinone
+Sun Apr 19 2015,Varese,1-1,0-1,Avellino
+Mon Apr 20 2015,Virtus Entella,0-0,0-0,Pro Vercelli
+Fri Apr 24 2015,Bari,1-1,1-1,Bologna
+Fri Apr 24 2015,Catania,2-0,1-0,Ternana
+Sat Apr 25 2015,Avellino,1-1,1-0,Virtus Entella
+Sat Apr 25 2015,Brescia,0-0,0-0,Cittadella
+Sat Apr 25 2015,Frosinone,1-0,1-0,Carpi
+Sat Apr 25 2015,Modena,3-0,2-0,Crotone
+Sat Apr 25 2015,Perugia,1-1,0-1,Livorno
+Sat Apr 25 2015,Pro Vercelli,1-1,0-1,Latina
+Sat Apr 25 2015,Spezia,3-0,2-0,Trapani
+Sat Apr 25 2015,Vicenza,1-0,0-0,Varese
+Sat Apr 25 2015,Virtus Lanciano,0-1,0-0,Pescara
+Mon Apr 27 2015,Bologna,2-0,1-0,Catania
+Tue Apr 28 2015,Brescia,3-0,2-0,Vicenza
+Tue Apr 28 2015,Carpi,0-0,0-0,Bari
+Tue Apr 28 2015,Cittadella,1-3,1-0,Spezia
+Tue Apr 28 2015,Crotone,2-0,1-0,Avellino
+Tue Apr 28 2015,Latina,0-0,0-0,Perugia
+Tue Apr 28 2015,Livorno,1-1,0-1,Modena
+Tue Apr 28 2015,Pescara,1-0,1-0,Pro Vercelli
+Tue Apr 28 2015,Ternana,0-1,0-1,Frosinone
+Tue Apr 28 2015,Trapani,1-0,1-0,Virtus Lanciano
+Tue Apr 28 2015,Virtus Entella,0-1,0-0,Varese
+Sat May 2 2015,Bari,1-0,0-0,Cittadella
+Sat May 2 2015,Catania,1-1,1-0,Livorno
+Sat May 2 2015,Frosinone,2-1,2-1,Bologna
+Sat May 2 2015,Perugia,1-0,1-0,Trapani
+Sat May 2 2015,Pro Vercelli,3-2,2-2,Crotone
+Sat May 2 2015,Spezia,4-1,2-1,Brescia
+Sat May 2 2015,Varese,1-2,1-1,Latina
+Sat May 2 2015,Vicenza,0-0,0-0,Virtus Entella
+Sat May 2 2015,Virtus Lanciano,1-1,1-1,Ternana
+Sun May 3 2015,Avellino,3-2,0-1,Pescara
+Sun May 3 2015,Modena,1-2,0-0,Carpi
+Fri May 8 2015,Livorno,2-1,0-0,Virtus Entella
+Sat May 9 2015,Bologna,1-1,0-1,Avellino
+Sat May 9 2015,Brescia,4-2,2-0,Catania
+Sat May 9 2015,Carpi,0-0,0-0,Virtus Lanciano
+Sat May 9 2015,Cittadella,1-1,0-1,Frosinone
+Sat May 9 2015,Latina,2-0,1-0,Bari
+Sat May 9 2015,Pescara,2-2,0-0,Perugia
+Sat May 9 2015,Spezia,0-0,0-0,Vicenza
+Sat May 9 2015,Ternana,0-1,0-1,Pro Vercelli
+Sat May 9 2015,Trapani,3-0,2-0,Modena
+Sun May 10 2015,Crotone,1-0,1-0,Varese
+Fri May 15 2015,Perugia,2-0,2-0,Carpi
+Sat May 16 2015,Avellino,1-1,0-0,Trapani
+Sat May 16 2015,Bari,3-2,2-0,Brescia
+Sat May 16 2015,Catania,2-3,1-1,Cittadella
+Sat May 16 2015,Frosinone,3-1,2-0,Crotone
+Sat May 16 2015,Livorno,1-1,1-0,Vicenza
+Sat May 16 2015,Modena,1-2,1-1,Ternana
+Sat May 16 2015,Pro Vercelli,1-1,0-0,Bologna
+Sat May 16 2015,Varese,2-1,1-0,Pescara
+Sat May 16 2015,Virtus Entella,2-0,1-0,Latina
+Sat May 16 2015,Virtus Lanciano,0-2,0-1,Spezia
+Fri May 22 2015,Bologna,1-0,1-0,Virtus Lanciano
+Fri May 22 2015,Brescia,3-2,2-1,Avellino
+Fri May 22 2015,Carpi,0-0,0-0,Catania
+Fri May 22 2015,Cittadella,0-2,0-0,Perugia
+Fri May 22 2015,Crotone,0-0,0-0,Virtus Entella
+Fri May 22 2015,Latina,1-1,1-1,Modena
+Fri May 22 2015,Pescara,3-0,1-0,Livorno
+Fri May 22 2015,Spezia,1-0,0-0,Bari
+Fri May 22 2015,Ternana,2-0,1-0,Varese
+Fri May 22 2015,Trapani,2-1,1-0,Pro Vercelli
+Fri May 22 2015,Vicenza,2-1,0-0,Frosinone

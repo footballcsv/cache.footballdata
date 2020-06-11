@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 23 2014,Almeria,1-1,0-0,Espanol
+Sat Aug 23 2014,Granada,2-1,0-1,La Coruna
+Sat Aug 23 2014,Malaga,1-0,1-0,Ath Bilbao
+Sat Aug 23 2014,Sevilla,1-1,1-0,Valencia
+Sun Aug 24 2014,Barcelona,3-0,1-0,Elche
+Sun Aug 24 2014,Celta,3-1,1-0,Getafe
+Sun Aug 24 2014,Eibar,1-0,1-0,Sociedad
+Sun Aug 24 2014,Levante,0-2,0-0,Villarreal
+Mon Aug 25 2014,Real Madrid,2-0,1-0,Cordoba
+Mon Aug 25 2014,Vallecano,0-0,0-0,Ath Madrid
+Fri Aug 29 2014,Getafe,1-0,1-0,Almeria
+Fri Aug 29 2014,Valencia,3-0,2-0,Malaga
+Sat Aug 30 2014,Ath Bilbao,3-0,1-0,Levante
+Sat Aug 30 2014,Ath Madrid,2-1,2-1,Eibar
+Sat Aug 30 2014,Cordoba,1-1,0-0,Celta
+Sat Aug 30 2014,Espanol,1-2,0-1,Sevilla
+Sun Aug 31 2014,Elche,1-1,0-0,Granada
+Sun Aug 31 2014,La Coruna,2-2,1-1,Vallecano
+Sun Aug 31 2014,Sociedad,4-2,2-2,Real Madrid
+Sun Aug 31 2014,Villarreal,0-1,0-0,Barcelona
+Fri Sep 12 2014,Almeria,1-1,1-1,Cordoba
+Sat Sep 13 2014,Barcelona,2-0,0-0,Ath Bilbao
+Sat Sep 13 2014,Celta,2-2,1-0,Sociedad
+Sat Sep 13 2014,Malaga,0-0,0-0,Levante
+Sat Sep 13 2014,Real Madrid,1-2,1-1,Ath Madrid
+Sun Sep 14 2014,Granada,0-0,0-0,Villarreal
+Sun Sep 14 2014,Sevilla,2-0,1-0,Getafe
+Sun Sep 14 2014,Valencia,3-1,1-0,Espanol
+Sun Sep 14 2014,Vallecano,2-3,1-1,Elche
+Mon Sep 15 2014,Eibar,0-1,0-1,La Coruna
+Fri Sep 19 2014,Elche,0-2,0-2,Eibar
+Sat Sep 20 2014,Ath Bilbao,0-1,0-1,Granada
+Sat Sep 20 2014,Ath Madrid,2-2,2-1,Celta
+Sat Sep 20 2014,Espanol,2-2,1-0,Malaga
+Sat Sep 20 2014,La Coruna,2-8,0-3,Real Madrid
+Sun Sep 21 2014,Cordoba,1-3,0-1,Sevilla
+Sun Sep 21 2014,Levante,0-5,0-2,Barcelona
+Sun Sep 21 2014,Sociedad,1-2,0-1,Almeria
+Sun Sep 21 2014,Villarreal,4-2,1-2,Vallecano
+Mon Sep 22 2014,Getafe,0-3,0-2,Valencia
+Tue Sep 23 2014,Celta,2-1,1-0,La Coruna
+Tue Sep 23 2014,Real Madrid,5-1,3-1,Elche
+Wed Sep 24 2014,Almeria,0-1,0-0,Ath Madrid
+Wed Sep 24 2014,Eibar,1-1,1-0,Villarreal
+Wed Sep 24 2014,Granada,0-1,0-0,Levante
+Wed Sep 24 2014,Malaga,0-0,0-0,Barcelona
+Wed Sep 24 2014,Sevilla,1-0,1-0,Sociedad
+Wed Sep 24 2014,Vallecano,2-1,1-1,Ath Bilbao
+Thu Sep 25 2014,Espanol,2-0,0-0,Getafe
+Thu Sep 25 2014,Valencia,3-0,2-0,Cordoba
+Fri Sep 26 2014,Elche,0-1,0-0,Celta
+Sat Sep 27 2014,Ath Bilbao,0-0,0-0,Eibar
+Sat Sep 27 2014,Ath Madrid,4-0,2-0,Sevilla
+Sat Sep 27 2014,Barcelona,6-0,3-0,Granada
+Sat Sep 27 2014,Levante,0-2,0-2,Vallecano
+Sat Sep 27 2014,Villarreal,0-2,0-2,Real Madrid
+Sun Sep 28 2014,Cordoba,0-0,0-0,Espanol
+Sun Sep 28 2014,Getafe,1-0,1-0,Malaga
+Sun Sep 28 2014,La Coruna,0-1,0-0,Almeria
+Sun Sep 28 2014,Sociedad,1-1,1-1,Valencia
+Fri Oct 3 2014,Getafe,1-1,0-0,Cordoba
+Sat Oct 4 2014,Almeria,2-2,1-1,Elche
+Sat Oct 4 2014,Eibar,3-3,0-2,Levante
+Sat Oct 4 2014,Malaga,2-1,0-1,Granada
+Sat Oct 4 2014,Valencia,3-1,3-1,Ath Madrid
+Sat Oct 4 2014,Vallecano,0-2,0-2,Barcelona
+Sun Oct 5 2014,Celta,1-3,1-2,Villarreal
+Sun Oct 5 2014,Espanol,2-0,1-0,Sociedad
+Sun Oct 5 2014,Real Madrid,5-0,2-0,Ath Bilbao
+Sun Oct 5 2014,Sevilla,4-1,2-1,La Coruna
+Fri Oct 17 2014,Granada,0-1,0-0,Vallecano
+Sat Oct 18 2014,Ath Bilbao,1-1,1-0,Celta
+Sat Oct 18 2014,Barcelona,3-0,0-0,Eibar
+Sat Oct 18 2014,Cordoba,1-2,0-2,Malaga
+Sat Oct 18 2014,Levante,0-5,0-2,Real Madrid
+Sun Oct 19 2014,Ath Madrid,2-0,1-0,Espanol
+Sun Oct 19 2014,Elche,0-2,0-0,Sevilla
+Sun Oct 19 2014,La Coruna,3-0,2-0,Valencia
+Sun Oct 19 2014,Villarreal,2-0,1-0,Almeria
+Mon Oct 20 2014,Sociedad,1-2,0-0,Getafe
+Fri Oct 24 2014,Celta,3-0,1-0,Levante
+Sat Oct 25 2014,Almeria,0-1,0-0,Ath Bilbao
+Sat Oct 25 2014,Cordoba,1-1,0-1,Sociedad
+Sat Oct 25 2014,Eibar,1-1,1-1,Granada
+Sat Oct 25 2014,Real Madrid,3-1,1-1,Barcelona
+Sat Oct 25 2014,Valencia,3-1,2-0,Elche
+Sun Oct 26 2014,Espanol,0-0,0-0,La Coruna
+Sun Oct 26 2014,Getafe,0-1,0-1,Ath Madrid
+Sun Oct 26 2014,Malaga,4-0,3-0,Vallecano
+Sun Oct 26 2014,Sevilla,2-1,0-0,Villarreal
+Fri Oct 31 2014,La Coruna,1-2,0-1,Getafe
+Sat Nov 1 2014,Ath Madrid,4-2,1-0,Cordoba
+Sat Nov 1 2014,Barcelona,0-1,0-0,Celta
+Sat Nov 1 2014,Granada,0-4,0-2,Real Madrid
+Sat Nov 1 2014,Sociedad,0-1,0-0,Malaga
+Sun Nov 2 2014,Ath Bilbao,1-0,1-0,Sevilla
+Sun Nov 2 2014,Elche,2-1,1-0,Espanol
+Sun Nov 2 2014,Levante,2-1,1-0,Almeria
+Sun Nov 2 2014,Villarreal,1-3,0-1,Valencia
+Mon Nov 3 2014,Vallecano,2-3,0-1,Eibar
+Fri Nov 7 2014,Cordoba,0-0,0-0,La Coruna
+Sat Nov 8 2014,Almeria,1-2,1-0,Barcelona
+Sat Nov 8 2014,Celta,0-0,0-0,Granada
+Sat Nov 8 2014,Getafe,0-0,0-0,Elche
+Sat Nov 8 2014,Malaga,2-1,0-1,Eibar
+Sat Nov 8 2014,Real Madrid,5-1,2-1,Vallecano
+Sun Nov 9 2014,Espanol,1-1,0-1,Villarreal
+Sun Nov 9 2014,Sevilla,1-1,1-0,Levante
+Sun Nov 9 2014,Sociedad,2-1,1-1,Ath Madrid
+Sun Nov 9 2014,Valencia,0-0,0-0,Ath Bilbao
+Fri Nov 21 2014,Ath Bilbao,3-1,2-0,Espanol
+Sat Nov 22 2014,Ath Madrid,3-1,2-0,Malaga
+Sat Nov 22 2014,Barcelona,5-1,1-0,Sevilla
+Sat Nov 22 2014,Eibar,0-4,0-2,Real Madrid
+Sat Nov 22 2014,La Coruna,0-0,0-0,Sociedad
+Sun Nov 23 2014,Elche,2-2,0-1,Cordoba
+Sun Nov 23 2014,Levante,2-1,0-0,Valencia
+Sun Nov 23 2014,Vallecano,1-0,1-0,Celta
+Sun Nov 23 2014,Villarreal,2-1,2-0,Getafe
+Mon Nov 24 2014,Granada,0-0,0-0,Almeria
+Fri Nov 28 2014,Sociedad,3-0,2-0,Elche
+Sat Nov 29 2014,Celta,0-1,0-1,Eibar
+Sat Nov 29 2014,Espanol,2-1,2-1,Levante
+Sat Nov 29 2014,Getafe,1-2,0-1,Ath Bilbao
+Sat Nov 29 2014,Malaga,1-2,0-1,Real Madrid
+Sun Nov 30 2014,Ath Madrid,2-0,1-0,La Coruna
+Sun Nov 30 2014,Cordoba,0-2,0-1,Villarreal
+Sun Nov 30 2014,Sevilla,5-1,1-1,Granada
+Sun Nov 30 2014,Valencia,0-1,0-0,Barcelona
+Mon Dec 1 2014,Almeria,0-1,0-0,Vallecano
+Sat Dec 6 2014,Ath Bilbao,0-1,0-1,Cordoba
+Sat Dec 6 2014,Elche,0-2,0-1,Ath Madrid
+Sat Dec 6 2014,La Coruna,0-1,0-1,Malaga
+Sat Dec 6 2014,Real Madrid,3-0,1-0,Celta
+Sun Dec 7 2014,Barcelona,5-1,1-1,Espanol
+Sun Dec 7 2014,Granada,1-1,0-0,Valencia
+Sun Dec 7 2014,Vallecano,0-1,0-1,Sevilla
+Sun Dec 7 2014,Villarreal,4-0,0-0,Sociedad
+Mon Dec 8 2014,Eibar,5-2,3-1,Almeria
+Mon Dec 8 2014,Levante,1-1,0-0,Getafe
+Fri Dec 12 2014,Almeria,1-4,1-2,Real Madrid
+Sat Dec 13 2014,Cordoba,0-0,0-0,Levante
+Sat Dec 13 2014,Getafe,0-0,0-0,Barcelona
+Sat Dec 13 2014,Malaga,1-0,1-0,Celta
+Sat Dec 13 2014,Valencia,3-0,3-0,Vallecano
+Sun Dec 14 2014,Ath Madrid,0-1,0-0,Villarreal
+Sun Dec 14 2014,Espanol,2-1,1-0,Granada
+Sun Dec 14 2014,Sevilla,0-0,0-0,Eibar
+Sun Dec 14 2014,Sociedad,1-1,1-0,Ath Bilbao
+Mon Dec 15 2014,La Coruna,1-0,1-0,Elche
+Fri Dec 19 2014,Celta,0-1,0-1,Almeria
+Sat Dec 20 2014,Barcelona,5-0,1-0,Cordoba
+Sat Dec 20 2014,Eibar,0-1,0-1,Valencia
+Sat Dec 20 2014,Levante,1-1,0-0,Sociedad
+Sat Dec 20 2014,Vallecano,1-3,1-1,Espanol
+Sun Dec 21 2014,Ath Bilbao,1-4,1-0,Ath Madrid
+Sun Dec 21 2014,Elche,1-2,1-0,Malaga
+Sun Dec 21 2014,Granada,1-1,1-0,Getafe
+Sun Dec 21 2014,Villarreal,3-0,1-0,La Coruna
+Sat Jan 3 2015,Ath Madrid,3-1,1-0,Levante
+Sat Jan 3 2015,Elche,2-2,2-2,Villarreal
+Sat Jan 3 2015,La Coruna,1-0,1-0,Ath Bilbao
+Sat Jan 3 2015,Malaga,1-2,0-1,Almeria
+Sat Jan 3 2015,Sevilla,1-0,1-0,Celta
+Sun Jan 4 2015,Espanol,1-2,0-2,Eibar
+Sun Jan 4 2015,Getafe,1-2,1-1,Vallecano
+Sun Jan 4 2015,Sociedad,1-0,1-0,Barcelona
+Sun Jan 4 2015,Valencia,2-1,0-1,Real Madrid
+Mon Jan 5 2015,Cordoba,2-0,2-0,Granada
+Fri Jan 9 2015,Levante,0-0,0-0,La Coruna
+Sat Jan 10 2015,Celta,1-1,0-1,Valencia
+Sat Jan 10 2015,Eibar,2-1,1-0,Getafe
+Sat Jan 10 2015,Malaga,1-1,0-1,Villarreal
+Sat Jan 10 2015,Real Madrid,3-0,2-0,Espanol
+Sun Jan 11 2015,Almeria,0-2,0-0,Sevilla
+Sun Jan 11 2015,Ath Bilbao,1-2,0-1,Elche
+Sun Jan 11 2015,Barcelona,3-1,2-0,Ath Madrid
+Sun Jan 11 2015,Granada,1-1,0-1,Sociedad
+Mon Jan 12 2015,Vallecano,0-1,0-1,Cordoba
+Fri Jan 16 2015,Cordoba,1-1,1-0,Eibar
+Sat Jan 17 2015,Espanol,1-0,0-0,Celta
+Sat Jan 17 2015,Sociedad,0-1,0-0,Vallecano
+Sat Jan 17 2015,Valencia,3-2,2-2,Almeria
+Sat Jan 17 2015,Villarreal,2-0,1-0,Ath Bilbao
+Sun Jan 18 2015,Ath Madrid,2-0,1-0,Granada
+Sun Jan 18 2015,Elche,1-0,1-0,Levante
+Sun Jan 18 2015,Getafe,0-3,0-0,Real Madrid
+Sun Jan 18 2015,La Coruna,0-4,0-2,Barcelona
+Sun Jan 18 2015,Sevilla,2-0,1-0,Malaga
+Sat Jan 24 2015,Ath Madrid,3-1,2-1,Vallecano
+Sat Jan 24 2015,Cordoba,1-2,1-1,Real Madrid
+Sat Jan 24 2015,Elche,0-6,0-1,Barcelona
+Sat Jan 24 2015,Sociedad,1-0,0-0,Eibar
+Sat Jan 24 2015,Villarreal,1-0,0-0,Levante
+Sun Jan 25 2015,Ath Bilbao,1-1,0-0,Malaga
+Sun Jan 25 2015,Espanol,3-0,2-0,Almeria
+Sun Jan 25 2015,La Coruna,2-2,2-1,Granada
+Sun Jan 25 2015,Valencia,3-1,2-1,Sevilla
+Mon Jan 26 2015,Getafe,2-1,1-1,Celta
+Fri Jan 30 2015,Vallecano,1-2,1-1,La Coruna
+Sat Jan 31 2015,Celta,1-0,0-0,Cordoba
+Sat Jan 31 2015,Eibar,1-3,0-3,Ath Madrid
+Sat Jan 31 2015,Granada,1-0,0-0,Elche
+Sat Jan 31 2015,Real Madrid,4-1,2-1,Sociedad
+Sun Feb 1 2015,Almeria,1-0,1-0,Getafe
+Sun Feb 1 2015,Barcelona,3-2,1-1,Villarreal
+Sun Feb 1 2015,Levante,0-2,0-0,Ath Bilbao
+Sun Feb 1 2015,Sevilla,3-2,2-1,Espanol
+Mon Feb 2 2015,Malaga,1-0,1-0,Valencia
+Wed Feb 4 2015,Real Madrid,2-1,2-0,Sevilla
+Fri Feb 6 2015,La Coruna,2-0,0-0,Eibar
+Sat Feb 7 2015,Ath Madrid,4-0,2-0,Real Madrid
+Sat Feb 7 2015,Levante,4-1,2-1,Malaga
+Sat Feb 7 2015,Sociedad,1-1,1-0,Celta
+Sat Feb 7 2015,Villarreal,2-0,1-0,Granada
+Sun Feb 8 2015,Ath Bilbao,2-5,0-2,Barcelona
+Sun Feb 8 2015,Cordoba,1-2,1-0,Almeria
+Sun Feb 8 2015,Espanol,1-2,0-0,Valencia
+Sun Feb 8 2015,Getafe,2-1,1-0,Sevilla
+Mon Feb 9 2015,Elche,2-0,1-0,Vallecano
+Fri Feb 13 2015,Almeria,2-2,2-1,Sociedad
+Sat Feb 14 2015,Granada,0-0,0-0,Ath Bilbao
+Sat Feb 14 2015,Malaga,0-2,0-1,Espanol
+Sat Feb 14 2015,Real Madrid,2-0,1-0,La Coruna
+Sat Feb 14 2015,Sevilla,3-0,2-0,Cordoba
+Sun Feb 15 2015,Barcelona,5-0,2-0,Levante
+Sun Feb 15 2015,Celta,2-0,0-0,Ath Madrid
+Sun Feb 15 2015,Valencia,1-0,0-0,Getafe
+Sun Feb 15 2015,Vallecano,2-0,0-0,Villarreal
+Mon Feb 16 2015,Eibar,0-1,0-0,Elche
+Fri Feb 20 2015,Getafe,2-1,1-0,Espanol
+Sat Feb 21 2015,Ath Madrid,3-0,3-0,Almeria
+Sat Feb 21 2015,Barcelona,0-1,0-1,Malaga
+Sat Feb 21 2015,Cordoba,1-2,0-1,Valencia
+Sat Feb 21 2015,La Coruna,0-2,0-0,Celta
+Sun Feb 22 2015,Ath Bilbao,1-0,0-0,Vallecano
+Sun Feb 22 2015,Elche,0-2,0-0,Real Madrid
+Sun Feb 22 2015,Sociedad,4-3,1-1,Sevilla
+Sun Feb 22 2015,Villarreal,1-0,0-0,Eibar
+Mon Feb 23 2015,Levante,2-1,0-1,Granada
+Fri Feb 27 2015,Espanol,1-0,1-0,Cordoba
+Sat Feb 28 2015,Almeria,0-0,0-0,La Coruna
+Sat Feb 28 2015,Granada,1-3,0-1,Barcelona
+Sat Feb 28 2015,Malaga,3-2,1-0,Getafe
+Sat Feb 28 2015,Vallecano,4-2,4-1,Levante
+Sun Mar 1 2015,Eibar,0-1,0-1,Ath Bilbao
+Sun Mar 1 2015,Real Madrid,1-1,0-0,Villarreal
+Sun Mar 1 2015,Sevilla,0-0,0-0,Ath Madrid
+Sun Mar 1 2015,Valencia,2-0,0-0,Sociedad
+Mon Mar 2 2015,Celta,1-1,0-0,Elche
+Fri Mar 6 2015,Levante,2-1,0-0,Eibar
+Sat Mar 7 2015,Ath Bilbao,1-0,1-0,Real Madrid
+Sat Mar 7 2015,Elche,1-0,1-0,Almeria
+Sat Mar 7 2015,Granada,1-0,0-0,Malaga
+Sat Mar 7 2015,La Coruna,3-4,1-1,Sevilla
+Sun Mar 8 2015,Ath Madrid,1-1,1-0,Valencia
+Sun Mar 8 2015,Barcelona,6-1,1-0,Vallecano
+Sun Mar 8 2015,Sociedad,1-0,1-0,Espanol
+Sun Mar 8 2015,Villarreal,4-1,2-0,Celta
+Mon Mar 9 2015,Cordoba,1-2,0-0,Getafe
+Fri Mar 13 2015,Valencia,2-0,0-0,La Coruna
+Sat Mar 14 2015,Celta,1-2,0-2,Ath Bilbao
+Sat Mar 14 2015,Eibar,0-2,0-1,Barcelona
+Sat Mar 14 2015,Espanol,0-0,0-0,Ath Madrid
+Sat Mar 14 2015,Vallecano,3-1,0-1,Granada
+Sun Mar 15 2015,Almeria,0-0,0-0,Villarreal
+Sun Mar 15 2015,Malaga,2-0,0-0,Cordoba
+Sun Mar 15 2015,Real Madrid,2-0,2-0,Levante
+Sun Mar 15 2015,Sevilla,3-0,2-0,Elche
+Mon Mar 16 2015,Getafe,0-1,0-0,Sociedad
+Fri Mar 20 2015,Elche,0-4,0-1,Valencia
+Sat Mar 21 2015,Ath Bilbao,2-1,2-0,Almeria
+Sat Mar 21 2015,Ath Madrid,2-0,2-0,Getafe
+Sat Mar 21 2015,Granada,0-0,0-0,Eibar
+Sat Mar 21 2015,Levante,0-1,0-0,Celta
+Sat Mar 21 2015,Vallecano,1-0,1-0,Malaga
+Sun Mar 22 2015,Barcelona,2-1,1-1,Real Madrid
+Sun Mar 22 2015,La Coruna,0-0,0-0,Espanol
+Sun Mar 22 2015,Sociedad,3-1,1-1,Cordoba
+Sun Mar 22 2015,Villarreal,0-2,0-0,Sevilla
+Fri Apr 3 2015,Eibar,1-2,1-2,Vallecano
+Sat Apr 4 2015,Almeria,1-4,0-2,Levante
+Sat Apr 4 2015,Cordoba,0-2,0-2,Ath Madrid
+Sat Apr 4 2015,Malaga,1-1,0-0,Sociedad
+Sat Apr 4 2015,Sevilla,2-0,2-0,Ath Bilbao
+Sun Apr 5 2015,Celta,0-1,0-0,Barcelona
+Sun Apr 5 2015,Getafe,2-1,2-0,La Coruna
+Sun Apr 5 2015,Real Madrid,9-1,4-0,Granada
+Sun Apr 5 2015,Valencia,0-0,0-0,Villarreal
+Mon Apr 6 2015,Espanol,1-1,1-0,Elche
+Tue Apr 7 2015,Ath Madrid,2-0,2-0,Sociedad
+Tue Apr 7 2015,Eibar,1-0,0-0,Malaga
+Tue Apr 7 2015,Levante,1-2,0-2,Sevilla
+Wed Apr 8 2015,Barcelona,4-0,1-0,Almeria
+Wed Apr 8 2015,Granada,1-1,1-0,Celta
+Wed Apr 8 2015,La Coruna,1-1,0-0,Cordoba
+Wed Apr 8 2015,Vallecano,0-2,0-0,Real Madrid
+Thu Apr 9 2015,Ath Bilbao,1-1,0-0,Valencia
+Thu Apr 9 2015,Elche,0-1,0-0,Getafe
+Thu Apr 9 2015,Villarreal,0-3,0-1,Espanol
+Sat Apr 11 2015,Almeria,3-0,1-0,Granada
+Sat Apr 11 2015,Celta,6-1,4-1,Vallecano
+Sat Apr 11 2015,Malaga,2-2,1-1,Ath Madrid
+Sat Apr 11 2015,Real Madrid,3-0,2-0,Eibar
+Sat Apr 11 2015,Sevilla,2-2,1-2,Barcelona
+Sun Apr 12 2015,Cordoba,0-2,0-1,Elche
+Sun Apr 12 2015,Espanol,1-0,1-0,Ath Bilbao
+Sun Apr 12 2015,Getafe,1-1,0-0,Villarreal
+Sun Apr 12 2015,Sociedad,2-2,1-1,La Coruna
+Mon Apr 13 2015,Valencia,3-0,2-0,Levante
+Fri Apr 17 2015,Levante,2-2,1-2,Espanol
+Sat Apr 18 2015,Ath Bilbao,4-0,1-0,Getafe
+Sat Apr 18 2015,Barcelona,2-0,1-0,Valencia
+Sat Apr 18 2015,La Coruna,1-2,0-2,Ath Madrid
+Sat Apr 18 2015,Real Madrid,3-1,1-0,Malaga
+Sun Apr 19 2015,Eibar,0-1,0-1,Celta
+Sun Apr 19 2015,Granada,1-1,1-0,Sevilla
+Sun Apr 19 2015,Vallecano,2-0,1-0,Almeria
+Sun Apr 19 2015,Villarreal,0-0,0-0,Cordoba
+Mon Apr 20 2015,Elche,1-0,1-0,Sociedad
+Fri Apr 24 2015,Cordoba,0-1,0-0,Ath Bilbao
+Sat Apr 25 2015,Ath Madrid,3-0,0-0,Elche
+Sat Apr 25 2015,Espanol,0-2,0-2,Barcelona
+Sat Apr 25 2015,Getafe,0-1,0-1,Levante
+Sat Apr 25 2015,Sociedad,0-0,0-0,Villarreal
+Sun Apr 26 2015,Almeria,2-0,1-0,Eibar
+Sun Apr 26 2015,Celta,2-4,2-3,Real Madrid
+Sun Apr 26 2015,Malaga,1-1,0-0,La Coruna
+Sun Apr 26 2015,Sevilla,2-0,2-0,Vallecano
+Mon Apr 27 2015,Valencia,4-0,2-0,Granada
+Tue Apr 28 2015,Ath Bilbao,1-1,0-0,Sociedad
+Tue Apr 28 2015,Barcelona,6-0,5-0,Getafe
+Tue Apr 28 2015,Levante,1-0,1-0,Cordoba
+Wed Apr 29 2015,Celta,1-0,0-0,Malaga
+Wed Apr 29 2015,Eibar,1-3,0-2,Sevilla
+Wed Apr 29 2015,Elche,4-0,2-0,La Coruna
+Wed Apr 29 2015,Real Madrid,3-0,1-0,Almeria
+Wed Apr 29 2015,Villarreal,0-1,0-0,Ath Madrid
+Thu Apr 30 2015,Granada,1-2,0-1,Espanol
+Thu Apr 30 2015,Vallecano,1-1,1-0,Valencia
+Fri May 1 2015,Sociedad,3-0,1-0,Levante
+Sat May 2 2015,Ath Madrid,0-0,0-0,Ath Bilbao
+Sat May 2 2015,Cordoba,0-8,0-2,Barcelona
+Sat May 2 2015,La Coruna,1-1,0-0,Villarreal
+Sat May 2 2015,Sevilla,2-3,1-2,Real Madrid
+Sun May 3 2015,Espanol,1-1,0-1,Vallecano
+Sun May 3 2015,Getafe,1-2,1-1,Granada
+Sun May 3 2015,Malaga,1-2,0-1,Elche
+Sun May 3 2015,Valencia,3-1,1-0,Eibar
+Mon May 4 2015,Almeria,2-2,0-2,Celta
+Fri May 8 2015,Eibar,0-2,0-1,Espanol
+Sat May 9 2015,Ath Bilbao,1-1,1-0,La Coruna
+Sat May 9 2015,Barcelona,2-0,0-0,Sociedad
+Sat May 9 2015,Granada,2-0,1-0,Cordoba
+Sat May 9 2015,Real Madrid,2-2,0-2,Valencia
+Sun May 10 2015,Almeria,1-2,1-1,Malaga
+Sun May 10 2015,Celta,1-1,0-1,Sevilla
+Sun May 10 2015,Levante,2-2,1-1,Ath Madrid
+Sun May 10 2015,Villarreal,1-0,1-0,Elche
+Mon May 11 2015,Vallecano,2-0,1-0,Getafe
+Sun May 17 2015,Ath Madrid,0-1,0-0,Barcelona
+Sun May 17 2015,Cordoba,1-2,0-1,Vallecano
+Sun May 17 2015,Elche,2-3,2-0,Ath Bilbao
+Sun May 17 2015,Espanol,1-4,0-0,Real Madrid
+Sun May 17 2015,Getafe,1-1,1-1,Eibar
+Sun May 17 2015,La Coruna,2-0,1-0,Levante
+Sun May 17 2015,Sevilla,2-1,0-1,Almeria
+Sun May 17 2015,Sociedad,0-3,0-0,Granada
+Sun May 17 2015,Valencia,1-1,0-1,Celta
+Sun May 17 2015,Villarreal,2-1,0-0,Malaga
+Sat May 23 2015,Almeria,2-3,2-2,Valencia
+Sat May 23 2015,Ath Bilbao,4-0,3-0,Villarreal
+Sat May 23 2015,Barcelona,2-2,1-0,La Coruna
+Sat May 23 2015,Celta,3-2,1-1,Espanol
+Sat May 23 2015,Eibar,3-0,3-0,Cordoba
+Sat May 23 2015,Granada,0-0,0-0,Ath Madrid
+Sat May 23 2015,Levante,0-0,0-0,Elche
+Sat May 23 2015,Malaga,2-3,0-0,Sevilla
+Sat May 23 2015,Real Madrid,7-3,3-3,Getafe
+Sat May 23 2015,Vallecano,2-4,1-2,Sociedad

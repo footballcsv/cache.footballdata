@@ -1,0 +1,243 @@
+Date,Team 1,FT,HT,Team 2
+Sat Apr 4 2015,Hammarby,2-0,?,Hacken
+Sat Apr 4 2015,Kalmar,0-0,?,Helsingborg
+Sun Apr 5 2015,Falkenbergs,0-2,?,Gefle
+Sun Apr 5 2015,Goteborg,1-0,?,Atvidabergs
+Sun Apr 5 2015,Djurgarden,1-2,?,Elfsborg
+Sun Apr 5 2015,Norrkoping,1-1,?,Orebro
+Mon Apr 6 2015,AIK,2-1,?,Halmstad
+Mon Apr 6 2015,Sundsvall,1-4,?,Malmo FF
+Wed Apr 8 2015,Gefle,2-0,?,Kalmar
+Wed Apr 8 2015,Helsingborg,0-0,?,Falkenbergs
+Wed Apr 8 2015,Orebro,0-2,?,Goteborg
+Wed Apr 8 2015,Elfsborg,1-1,?,Hammarby
+Thu Apr 9 2015,Atvidabergs,2-3,?,Sundsvall
+Thu Apr 9 2015,Hacken,1-1,?,Djurgarden
+Thu Apr 9 2015,Halmstad,0-3,?,Norrkoping
+Thu Apr 9 2015,Malmo FF,0-0,?,AIK
+Sun Apr 12 2015,Falkenbergs,2-0,?,Orebro
+Sun Apr 12 2015,Halmstad,1-2,?,Helsingborg
+Sun Apr 12 2015,AIK,3-1,?,Gefle
+Sun Apr 12 2015,Goteborg,0-1,?,Malmo FF
+Mon Apr 13 2015,Kalmar,2-1,?,Atvidabergs
+Mon Apr 13 2015,Norrkoping,0-4,?,Elfsborg
+Mon Apr 13 2015,Sundsvall,1-1,?,Hacken
+Mon Apr 13 2015,Hammarby,2-1,?,Djurgarden
+Fri Apr 17 2015,Djurgarden,1-0,?,Kalmar
+Sat Apr 18 2015,Gefle,0-0,?,Halmstad
+Sun Apr 19 2015,Atvidabergs,3-1,?,Falkenbergs
+Sun Apr 19 2015,Hacken,1-2,?,Goteborg
+Mon Apr 20 2015,Helsingborg,3-1,?,Norrkoping
+Mon Apr 20 2015,Orebro,1-3,?,Sundsvall
+Mon Apr 20 2015,Malmo FF,3-1,?,Hammarby
+Tue Apr 21 2015,Elfsborg,3-2,?,AIK
+Fri Apr 24 2015,Falkenbergs,3-3,?,Malmo FF
+Sat Apr 25 2015,Hammarby,2-1,?,Atvidabergs
+Sun Apr 26 2015,Halmstad,1-0,?,Elfsborg
+Sun Apr 26 2015,Sundsvall,0-2,?,Djurgarden
+Sun Apr 26 2015,AIK,3-0,?,Orebro
+Sun Apr 26 2015,Kalmar,0-1,?,Hacken
+Mon Apr 27 2015,Norrkoping,4-1,?,Gefle
+Mon Apr 27 2015,Goteborg,3-1,?,Helsingborg
+Wed Apr 29 2015,Djurgarden,3-1,?,Falkenbergs
+Wed Apr 29 2015,Elfsborg,2-1,?,Kalmar
+Wed Apr 29 2015,Malmo FF,3-1,?,Halmstad
+Wed Apr 29 2015,Atvidabergs,1-1,?,AIK
+Thu Apr 30 2015,Hacken,0-2,?,Norrkoping
+Thu Apr 30 2015,Gefle,0-0,?,Goteborg
+Thu Apr 30 2015,Helsingborg,2-0,?,Sundsvall
+Thu Apr 30 2015,Orebro,2-2,?,Hammarby
+Sun May 3 2015,Norrkoping,2-1,?,Atvidabergs
+Sun May 3 2015,Sundsvall,0-1,?,Elfsborg
+Sun May 3 2015,Djurgarden,5-1,?,Gefle
+Sun May 3 2015,Malmo FF,3-1,?,Helsingborg
+Mon May 4 2015,Goteborg,2-1,?,Falkenbergs
+Mon May 4 2015,Halmstad,0-2,?,Hacken
+Mon May 4 2015,Kalmar,3-0,?,Orebro
+Mon May 4 2015,AIK,2-0,?,Hammarby
+Fri May 8 2015,Kalmar,0-2,?,Goteborg
+Sat May 9 2015,Helsingborg,1-2,?,Gefle
+Sun May 10 2015,Falkenbergs,1-0,?,Halmstad
+Sun May 10 2015,AIK,2-2,?,Norrkoping
+Sun May 10 2015,Hacken,2-0,?,Orebro
+Mon May 11 2015,Atvidabergs,2-3,?,Djurgarden
+Mon May 11 2015,Hammarby,1-2,?,Sundsvall
+Mon May 11 2015,Elfsborg,2-2,?,Malmo FF
+Mon May 18 2015,Halmstad,2-3,?,Djurgarden
+Tue May 19 2015,Falkenbergs,1-3,?,Kalmar
+Wed May 20 2015,Elfsborg,2-1,?,Helsingborg
+Wed May 20 2015,Norrkoping,1-0,?,Hammarby
+Wed May 20 2015,Orebro,2-1,?,Atvidabergs
+Wed May 20 2015,Gefle,3-1,?,Sundsvall
+Thu May 21 2015,Malmo FF,0-3,?,Hacken
+Thu May 21 2015,Goteborg,3-0,?,AIK
+Sun May 24 2015,Halmstad,1-2,?,Goteborg
+Sun May 24 2015,Orebro,1-0,?,Gefle
+Sun May 24 2015,Atvidabergs,1-2,?,Elfsborg
+Sun May 24 2015,Kalmar,2-1,?,Malmo FF
+Mon May 25 2015,Hacken,0-2,?,Falkenbergs
+Mon May 25 2015,Helsingborg,1-0,?,Hammarby
+Mon May 25 2015,Sundsvall,0-1,?,Norrkoping
+Mon May 25 2015,Djurgarden,2-2,?,AIK
+Fri May 29 2015,Gefle,2-0,?,Hacken
+Sat May 30 2015,Falkenbergs,1-1,?,Sundsvall
+Sat May 30 2015,Hammarby,2-2,?,Halmstad
+Sat May 30 2015,Norrkoping,2-1,?,Kalmar
+Sun May 31 2015,AIK,3-1,?,Helsingborg
+Sun May 31 2015,Elfsborg,2-2,?,Orebro
+Sun May 31 2015,Malmo FF,3-0,?,Atvidabergs
+Mon Jun 1 2015,Goteborg,0-0,?,Djurgarden
+Wed Jun 3 2015,AIK,4-3,?,Falkenbergs
+Wed Jun 3 2015,Atvidabergs,1-1,?,Hacken
+Wed Jun 3 2015,Halmstad,1-0,?,Sundsvall
+Wed Jun 3 2015,Orebro,0-0,?,Helsingborg
+Wed Jun 3 2015,Gefle,1-2,?,Malmo FF
+Thu Jun 4 2015,Djurgarden,1-1,?,Norrkoping
+Thu Jun 4 2015,Kalmar,2-2,?,Hammarby
+Thu Jun 4 2015,Goteborg,1-0,?,Elfsborg
+Sat Jun 6 2015,Hacken,0-0,?,AIK
+Sat Jun 6 2015,Helsingborg,3-0,?,Atvidabergs
+Sat Jun 6 2015,Orebro,1-1,?,Halmstad
+Sun Jun 7 2015,Hammarby,0-1,?,Goteborg
+Sun Jun 7 2015,Sundsvall,1-1,?,Kalmar
+Sun Jun 7 2015,Elfsborg,5-1,?,Gefle
+Sun Jun 7 2015,Malmo FF,1-1,?,Djurgarden
+Sun Jun 7 2015,Norrkoping,2-0,?,Falkenbergs
+Sat Jul 4 2015,Atvidabergs,0-0,?,Halmstad
+Sat Jul 4 2015,Djurgarden,2-0,?,Orebro
+Sat Jul 4 2015,Norrkoping,3-1,?,Malmo FF
+Sun Jul 5 2015,Falkenbergs,2-2,?,Elfsborg
+Sun Jul 5 2015,Hacken,3-2,?,Helsingborg
+Sun Jul 5 2015,Kalmar,0-0,?,AIK
+Sun Jul 5 2015,Sundsvall,2-2,?,Goteborg
+Mon Jul 6 2015,Gefle,1-1,?,Hammarby
+Sat Jul 11 2015,Atvidabergs,1-1,?,Gefle
+Sat Jul 11 2015,Halmstad,1-0,?,Kalmar
+Sat Jul 11 2015,Malmo FF,2-2,?,Orebro
+Sun Jul 12 2015,Elfsborg,1-0,?,Hacken
+Sun Jul 12 2015,AIK,4-1,?,Sundsvall
+Sun Jul 12 2015,Goteborg,0-0,?,Norrkoping
+Mon Jul 13 2015,Hammarby,3-0,?,Falkenbergs
+Mon Jul 13 2015,Helsingborg,0-1,?,Djurgarden
+Sat Jul 18 2015,Kalmar,4-0,?,Falkenbergs
+Sat Jul 18 2015,Orebro,1-1,?,Malmo FF
+Sat Jul 18 2015,Sundsvall,0-0,?,Halmstad
+Sun Jul 19 2015,Norrkoping,2-2,?,Goteborg
+Sun Jul 19 2015,Helsingborg,3-1,?,AIK
+Mon Jul 20 2015,Djurgarden,0-0,?,Atvidabergs
+Mon Jul 20 2015,Hacken,3-3,?,Hammarby
+Sat Jul 25 2015,Atvidabergs,1-2,?,Helsingborg
+Sat Jul 25 2015,Hacken,3-0,?,Kalmar
+Sat Jul 25 2015,Malmo FF,3-0,?,Sundsvall
+Sun Jul 26 2015,Falkenbergs,1-0,?,Goteborg
+Sun Jul 26 2015,AIK,4-2,?,Elfsborg
+Mon Jul 27 2015,Halmstad,0-1,?,Gefle
+Mon Jul 27 2015,Hammarby,0-1,?,Norrkoping
+Mon Jul 27 2015,Orebro,0-1,?,Djurgarden
+Fri Jul 31 2015,Helsingborg,1-2,?,Kalmar
+Sat Aug 1 2015,Atvidabergs,2-2,?,Malmo FF
+Sat Aug 1 2015,Djurgarden,2-1,?,Hacken
+Sat Aug 1 2015,Gefle,1-0,?,Falkenbergs
+Sun Aug 2 2015,Norrkoping,1-2,?,AIK
+Sun Aug 2 2015,Elfsborg,2-0,?,Halmstad
+Sun Aug 2 2015,Goteborg,6-0,?,Orebro
+Mon Aug 3 2015,Sundsvall,3-0,?,Hammarby
+Sat Aug 8 2015,Falkenbergs,2-3,?,Helsingborg
+Sat Aug 8 2015,Hacken,1-1,?,Gefle
+Sun Aug 9 2015,Malmo FF,2-1,?,Goteborg
+Sun Aug 9 2015,Orebro,1-3,?,Norrkoping
+Sun Aug 9 2015,Halmstad,0-0,?,Atvidabergs
+Sun Aug 9 2015,Hammarby,0-0,?,Elfsborg
+Mon Aug 10 2015,Kalmar,0-2,?,Sundsvall
+Mon Aug 10 2015,AIK,1-0,?,Djurgarden
+Wed Aug 12 2015,Gefle,2-3,?,Elfsborg
+Sat Aug 15 2015,Malmo FF,2-0,?,Gefle
+Sat Aug 15 2015,Sundsvall,1-0,?,Orebro
+Sun Aug 16 2015,AIK,2-1,?,Kalmar
+Sun Aug 16 2015,Goteborg,4-0,?,Hacken
+Sun Aug 16 2015,Elfsborg,2-0,?,Djurgarden
+Mon Aug 17 2015,Falkenbergs,0-1,?,Hammarby
+Mon Aug 17 2015,Helsingborg,2-0,?,Halmstad
+Mon Aug 17 2015,Atvidabergs,1-1,?,Norrkoping
+Sat Aug 22 2015,Hacken,1-0,?,Malmo FF
+Sun Aug 23 2015,Atvidabergs,0-1,?,Goteborg
+Sun Aug 23 2015,Gefle,1-2,?,AIK
+Sun Aug 23 2015,Halmstad,2-2,?,Orebro
+Sun Aug 23 2015,Kalmar,0-3,?,Elfsborg
+Mon Aug 24 2015,Norrkoping,3-2,?,Helsingborg
+Mon Aug 24 2015,Sundsvall,0-1,?,Falkenbergs
+Mon Aug 24 2015,Djurgarden,2-2,?,Hammarby
+Fri Aug 28 2015,Hammarby,0-0,?,Kalmar
+Sat Aug 29 2015,Djurgarden,4-2,?,Halmstad
+Sat Aug 29 2015,Falkenbergs,0-1,?,Norrkoping
+Sat Aug 29 2015,Orebro,2-0,?,Hacken
+Sun Aug 30 2015,AIK,1-0,?,Atvidabergs
+Sun Aug 30 2015,Goteborg,3-0,?,Gefle
+Sun Aug 30 2015,Elfsborg,1-2,?,Sundsvall
+Sun Aug 30 2015,Helsingborg,0-3,?,Malmo FF
+Fri Sep 11 2015,Kalmar,1-2,?,Norrkoping
+Sat Sep 12 2015,Falkenbergs,2-4,?,AIK
+Sat Sep 12 2015,Malmo FF,1-1,?,Elfsborg
+Sun Sep 13 2015,Hammarby,1-2,?,Orebro
+Sun Sep 13 2015,Helsingborg,1-2,?,Goteborg
+Mon Sep 14 2015,Hacken,4-1,?,Halmstad
+Mon Sep 14 2015,Sundsvall,0-1,?,Atvidabergs
+Mon Sep 14 2015,Gefle,2-1,?,Djurgarden
+Fri Sep 18 2015,Halmstad,0-1,?,Falkenbergs
+Sat Sep 19 2015,AIK,2-1,?,Hacken
+Sun Sep 20 2015,Atvidabergs,1-1,?,Kalmar
+Sun Sep 20 2015,Djurgarden,0-2,?,Malmo FF
+Sun Sep 20 2015,Gefle,2-1,?,Helsingborg
+Sun Sep 20 2015,Goteborg,1-0,?,Hammarby
+Sun Sep 20 2015,Norrkoping,5-1,?,Sundsvall
+Mon Sep 21 2015,Orebro,4-2,?,Elfsborg
+Wed Sep 23 2015,Hammarby,3-0,?,Gefle
+Wed Sep 23 2015,Kalmar,1-0,?,Halmstad
+Wed Sep 23 2015,Malmo FF,4-3,?,Falkenbergs
+Wed Sep 23 2015,Norrkoping,4-2,?,Djurgarden
+Wed Sep 23 2015,Sundsvall,0-2,?,AIK
+Thu Sep 24 2015,Hacken,3-0,?,Atvidabergs
+Thu Sep 24 2015,Helsingborg,0-2,?,Orebro
+Thu Sep 24 2015,Elfsborg,1-1,?,Goteborg
+Sat Sep 26 2015,Halmstad,0-0,?,Malmo FF
+Sun Sep 27 2015,Falkenbergs,1-2,?,Hacken
+Sun Sep 27 2015,Hammarby,1-0,?,AIK
+Sun Sep 27 2015,Gefle,1-2,?,Norrkoping
+Mon Sep 28 2015,Djurgarden,2-2,?,Helsingborg
+Mon Sep 28 2015,Elfsborg,3-1,?,Atvidabergs
+Mon Sep 28 2015,Orebro,2-1,?,Kalmar
+Mon Sep 28 2015,Goteborg,3-2,?,Sundsvall
+Fri Oct 2 2015,Atvidabergs,0-3,?,Hammarby
+Sat Oct 3 2015,Orebro,2-1,?,Falkenbergs
+Sat Oct 3 2015,Sundsvall,2-1,?,Gefle
+Sun Oct 4 2015,Goteborg,1-1,?,Halmstad
+Sun Oct 4 2015,Helsingborg,2-1,?,Elfsborg
+Sun Oct 4 2015,Kalmar,0-3,?,Djurgarden
+Sun Oct 4 2015,AIK,2-1,?,Malmo FF
+Sun Oct 4 2015,Norrkoping,3-1,?,Hacken
+Sat Oct 17 2015,Malmo FF,3-0,?,Kalmar
+Sun Oct 18 2015,Halmstad,0-1,?,AIK
+Sun Oct 18 2015,Falkenbergs,6-0,?,Atvidabergs
+Sun Oct 18 2015,Hammarby,1-4,?,Helsingborg
+Mon Oct 19 2015,Djurgarden,2-2,?,Goteborg
+Mon Oct 19 2015,Gefle,2-2,?,Orebro
+Mon Oct 19 2015,Hacken,3-1,?,Sundsvall
+Mon Oct 19 2015,Elfsborg,3-2,?,Norrkoping
+Sat Oct 24 2015,Falkenbergs,0-2,?,Djurgarden
+Sun Oct 25 2015,Hammarby,0-1,?,Malmo FF
+Sun Oct 25 2015,Sundsvall,2-1,?,Helsingborg
+Sun Oct 25 2015,Hacken,5-2,?,Elfsborg
+Sun Oct 25 2015,Norrkoping,3-1,?,Halmstad
+Mon Oct 26 2015,Atvidabergs,2-3,?,Orebro
+Mon Oct 26 2015,Kalmar,3-1,?,Gefle
+Mon Oct 26 2015,AIK,1-2,?,Goteborg
+Sat Oct 31 2015,Djurgarden,4-2,?,Sundsvall
+Sat Oct 31 2015,Elfsborg,4-2,?,Falkenbergs
+Sat Oct 31 2015,Gefle,2-1,?,Atvidabergs
+Sat Oct 31 2015,Goteborg,2-2,?,Kalmar
+Sat Oct 31 2015,Halmstad,2-1,?,Hammarby
+Sat Oct 31 2015,Helsingborg,1-2,?,Hacken
+Sat Oct 31 2015,Malmo FF,0-2,?,Norrkoping
+Sat Oct 31 2015,Orebro,1-1,?,AIK
+Thu Nov 5 2015,Sirius,2-2,?,Falkenbergs
+Sun Nov 8 2015,Falkenbergs,1-1,?,Sirius

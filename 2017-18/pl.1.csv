@@ -1,0 +1,297 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 14 2017,Wisla Plock,0-2,?,Lechia Gdansk
+Fri Jul 14 2017,Pogon Szczecin,1-2,?,Wisla
+Sat Jul 15 2017,Cracovia,1-1,?,Piast Gliwice
+Sat Jul 15 2017,Gornik Z.,3-1,?,Legia
+Sun Jul 16 2017,Arka Gdynia,2-0,?,Slask Wroclaw
+Sun Jul 16 2017,Termalica B-B.,0-1,?,Jagiellonia
+Sun Jul 16 2017,Lech Poznan,0-0,?,Sandecja Nowy S.
+Mon Jul 17 2017,Korona Kielce,0-1,?,Zaglebie
+Fri Jul 21 2017,Sandecja Nowy S.,0-0,?,Arka Gdynia
+Fri Jul 21 2017,Wisla,1-0,?,Termalica B-B.
+Sat Jul 22 2017,Piast Gliwice,1-2,?,Pogon Szczecin
+Sat Jul 22 2017,Lechia Gdansk,0-1,?,Cracovia
+Sat Jul 22 2017,Legia,1-1,?,Korona Kielce
+Sun Jul 23 2017,Wisla Plock,1-0,?,Lech Poznan
+Sun Jul 23 2017,Jagiellonia,2-1,?,Gornik Z.
+Mon Jul 24 2017,Zaglebie,1-0,?,Slask Wroclaw
+Fri Jul 28 2017,Termalica B-B.,1-1,?,Zaglebie
+Fri Jul 28 2017,Slask Wroclaw,3-2,?,Lechia Gdansk
+Sat Jul 29 2017,Legia,2-0,?,Sandecja Nowy S.
+Sat Jul 29 2017,Gornik Z.,3-2,?,Wisla
+Sun Jul 30 2017,Arka Gdynia,1-1,?,Wisla Plock
+Sun Jul 30 2017,Pogon Szczecin,0-1,?,Jagiellonia
+Sun Jul 30 2017,Lech Poznan,5-1,?,Piast Gliwice
+Mon Jul 31 2017,Korona Kielce,4-2,?,Cracovia
+Fri Aug 4 2017,Piast Gliwice,1-1,?,Slask Wroclaw
+Fri Aug 4 2017,Wisla Plock,0-1,?,Wisla
+Sat Aug 5 2017,Lechia Gdansk,1-1,?,Gornik Z.
+Sat Aug 5 2017,Zaglebie,3-0,?,Pogon Szczecin
+Sat Aug 5 2017,Termalica B-B.,1-0,?,Legia
+Sun Aug 6 2017,Jagiellonia,1-3,?,Sandecja Nowy S.
+Sun Aug 6 2017,Cracovia,0-2,?,Lech Poznan
+Mon Aug 7 2017,Arka Gdynia,0-0,?,Korona Kielce
+Fri Aug 11 2017,Legia,3-1,?,Piast Gliwice
+Sat Aug 12 2017,Sandecja Nowy S.,0-1,?,Wisla Plock
+Sat Aug 12 2017,Lech Poznan,1-1,?,Zaglebie
+Sat Aug 12 2017,Wisla,2-1,?,Cracovia
+Sun Aug 13 2017,Gornik Z.,1-1,?,Arka Gdynia
+Sun Aug 13 2017,Korona Kielce,2-3,?,Jagiellonia
+Mon Aug 14 2017,Pogon Szczecin,0-0,?,Lechia Gdansk
+Tue Aug 15 2017,Slask Wroclaw,1-1,?,Termalica B-B.
+Fri Aug 18 2017,Lechia Gdansk,2-3,?,Sandecja Nowy S.
+Fri Aug 18 2017,Cracovia,3-3,?,Gornik Z.
+Sat Aug 19 2017,Arka Gdynia,0-3,?,Pogon Szczecin
+Sat Aug 19 2017,Piast Gliwice,2-0,?,Korona Kielce
+Sat Aug 19 2017,Jagiellonia,1-1,?,Slask Wroclaw
+Sun Aug 20 2017,Wisla Plock,0-1,?,Legia
+Sun Aug 20 2017,Termalica B-B.,1-3,?,Lech Poznan
+Mon Aug 21 2017,Zaglebie,3-0,?,Wisla
+Fri Aug 25 2017,Gornik Z.,4-0,?,Wisla Plock
+Fri Aug 25 2017,Slask Wroclaw,2-1,?,Cracovia
+Sat Aug 26 2017,Korona Kielce,2-1,?,Termalica B-B.
+Sat Aug 26 2017,Jagiellonia,0-1,?,Piast Gliwice
+Sat Aug 26 2017,Wisla,1-1,?,Lechia Gdansk
+Sun Aug 27 2017,Lech Poznan,3-0,?,Arka Gdynia
+Sun Aug 27 2017,Sandecja Nowy S.,2-1,?,Pogon Szczecin
+Sun Aug 27 2017,Legia,2-1,?,Zaglebie
+Fri Sep 8 2017,Zaglebie,2-2,?,Wisla Plock
+Fri Sep 8 2017,Arka Gdynia,3-1,?,Wisla
+Sat Sep 9 2017,Korona Kielce,1-0,?,Sandecja Nowy S.
+Sat Sep 9 2017,Slask Wroclaw,2-1,?,Legia
+Sat Sep 9 2017,Cracovia,1-1,?,Jagiellonia
+Sun Sep 10 2017,Termalica B-B.,1-2,?,Gornik Z.
+Sun Sep 10 2017,Pogon Szczecin,0-0,?,Lech Poznan
+Mon Sep 11 2017,Piast Gliwice,1-2,?,Lechia Gdansk
+Fri Sep 15 2017,Arka Gdynia,1-1,?,Zaglebie
+Fri Sep 15 2017,Lech Poznan,1-0,?,Korona Kielce
+Sat Sep 16 2017,Wisla Plock,3-1,?,Pogon Szczecin
+Sat Sep 16 2017,Gornik Z.,2-2,?,Slask Wroclaw
+Sat Sep 16 2017,Wisla,2-0,?,Piast Gliwice
+Sun Sep 17 2017,Sandecja Nowy S.,1-0,?,Termalica B-B.
+Sun Sep 17 2017,Legia,1-0,?,Cracovia
+Mon Sep 18 2017,Lechia Gdansk,3-3,?,Jagiellonia
+Fri Sep 22 2017,Piast Gliwice,0-1,?,Arka Gdynia
+Fri Sep 22 2017,Slask Wroclaw,2-0,?,Lech Poznan
+Sat Sep 23 2017,Termalica B-B.,2-1,?,Lechia Gdansk
+Sat Sep 23 2017,Pogon Szczecin,1-2,?,Gornik Z.
+Sat Sep 23 2017,Korona Kielce,2-1,?,Wisla
+Sun Sep 24 2017,Zaglebie,1-0,?,Sandecja Nowy S.
+Sun Sep 24 2017,Jagiellonia,1-0,?,Legia
+Mon Sep 25 2017,Cracovia,1-3,?,Wisla Plock
+Fri Sep 29 2017,Sandecja Nowy S.,1-1,?,Slask Wroclaw
+Fri Sep 29 2017,Arka Gdynia,1-1,?,Cracovia
+Sat Sep 30 2017,Lechia Gdansk,1-0,?,Zaglebie
+Sat Sep 30 2017,Pogon Szczecin,0-0,?,Korona Kielce
+Sat Sep 30 2017,Wisla,0-0,?,Jagiellonia
+Sun Oct 1 2017,Gornik Z.,1-0,?,Piast Gliwice
+Sun Oct 1 2017,Wisla Plock,1-0,?,Termalica B-B.
+Sun Oct 1 2017,Lech Poznan,3-0,?,Legia
+Fri Oct 13 2017,Korona Kielce,2-0,?,Wisla Plock
+Fri Oct 13 2017,Jagiellonia,1-1,?,Lech Poznan
+Sat Oct 14 2017,Piast Gliwice,2-2,?,Sandecja Nowy S.
+Sat Oct 14 2017,Termalica B-B.,1-1,?,Arka Gdynia
+Sat Oct 14 2017,Slask Wroclaw,0-2,?,Wisla
+Sun Oct 15 2017,Zaglebie,3-2,?,Gornik Z.
+Sun Oct 15 2017,Legia,1-0,?,Lechia Gdansk
+Mon Oct 16 2017,Cracovia,3-0,?,Pogon Szczecin
+Fri Oct 20 2017,Zaglebie,2-2,?,Piast Gliwice
+Fri Oct 20 2017,Gornik Z.,3-3,?,Korona Kielce
+Sat Oct 21 2017,Sandecja Nowy S.,1-1,?,Cracovia
+Sat Oct 21 2017,Pogon Szczecin,2-3,?,Termalica B-B.
+Sat Oct 21 2017,Lechia Gdansk,3-3,?,Lech Poznan
+Sun Oct 22 2017,Arka Gdynia,4-1,?,Jagiellonia
+Sun Oct 22 2017,Wisla,0-1,?,Legia
+Mon Oct 23 2017,Wisla Plock,4-1,?,Slask Wroclaw
+Fri Oct 27 2017,Slask Wroclaw,3-0,?,Pogon Szczecin
+Fri Oct 27 2017,Lech Poznan,1-1,?,Wisla
+Sat Oct 28 2017,Piast Gliwice,2-1,?,Wisla Plock
+Sat Oct 28 2017,Cracovia,1-1,?,Termalica B-B.
+Sat Oct 28 2017,Sandecja Nowy S.,1-2,?,Gornik Z.
+Sun Oct 29 2017,Jagiellonia,3-1,?,Zaglebie
+Sun Oct 29 2017,Legia,2-0,?,Arka Gdynia
+Mon Oct 30 2017,Lechia Gdansk,0-5,?,Korona Kielce
+Fri Nov 3 2017,Korona Kielce,3-0,?,Slask Wroclaw
+Fri Nov 3 2017,Arka Gdynia,0-1,?,Lechia Gdansk
+Sat Nov 4 2017,Wisla Plock,1-2,?,Jagiellonia
+Sat Nov 4 2017,Wisla,3-0,?,Sandecja Nowy S.
+Sat Nov 4 2017,Gornik Z.,3-1,?,Lech Poznan
+Sun Nov 5 2017,Termalica B-B.,2-1,?,Piast Gliwice
+Sun Nov 5 2017,Zaglebie,1-2,?,Cracovia
+Sun Nov 5 2017,Pogon Szczecin,1-3,?,Legia
+Fri Nov 17 2017,Jagiellonia,0-0,?,Termalica B-B.
+Fri Nov 17 2017,Wisla,1-0,?,Pogon Szczecin
+Sat Nov 18 2017,Piast Gliwice,1-0,?,Cracovia
+Sat Nov 18 2017,Sandecja Nowy S.,0-0,?,Lech Poznan
+Sat Nov 18 2017,Lechia Gdansk,3-0,?,Wisla Plock
+Sun Nov 19 2017,Slask Wroclaw,1-2,?,Arka Gdynia
+Sun Nov 19 2017,Legia,1-0,?,Gornik Z.
+Mon Nov 20 2017,Zaglebie,0-0,?,Korona Kielce
+Fri Nov 24 2017,Cracovia,2-1,?,Lechia Gdansk
+Fri Nov 24 2017,Gornik Z.,3-1,?,Jagiellonia
+Sat Nov 25 2017,Pogon Szczecin,2-2,?,Piast Gliwice
+Sat Nov 25 2017,Arka Gdynia,5-0,?,Sandecja Nowy S.
+Sat Nov 25 2017,Korona Kielce,3-2,?,Legia
+Sun Nov 26 2017,Lech Poznan,2-1,?,Wisla Plock
+Sun Nov 26 2017,Slask Wroclaw,1-0,?,Zaglebie
+Mon Nov 27 2017,Termalica B-B.,3-3,?,Wisla
+Fri Dec 1 2017,Jagiellonia,1-0,?,Pogon Szczecin
+Fri Dec 1 2017,Lechia Gdansk,3-1,?,Slask Wroclaw
+Sat Dec 2 2017,Wisla Plock,2-0,?,Arka Gdynia
+Sat Dec 2 2017,Zaglebie,4-2,?,Termalica B-B.
+Sat Dec 2 2017,Sandecja Nowy S.,2-2,?,Legia
+Sun Dec 3 2017,Piast Gliwice,0-0,?,Lech Poznan
+Sun Dec 3 2017,Wisla,2-3,?,Gornik Z.
+Mon Dec 4 2017,Cracovia,2-2,?,Korona Kielce
+Fri Dec 8 2017,Sandecja Nowy S.,0-1,?,Jagiellonia
+Fri Dec 8 2017,Gornik Z.,1-1,?,Lechia Gdansk
+Sat Dec 9 2017,Slask Wroclaw,2-2,?,Piast Gliwice
+Sat Dec 9 2017,Korona Kielce,0-3,?,Arka Gdynia
+Sat Dec 9 2017,Legia,3-0,?,Termalica B-B.
+Sun Dec 10 2017,Pogon Szczecin,3-3,?,Zaglebie
+Sun Dec 10 2017,Wisla,0-1,?,Wisla Plock
+Sun Dec 10 2017,Lech Poznan,1-0,?,Cracovia
+Tue Dec 12 2017,Jagiellonia,5-1,?,Korona Kielce
+Tue Dec 12 2017,Piast Gliwice,0-1,?,Legia
+Tue Dec 12 2017,Arka Gdynia,1-0,?,Gornik Z.
+Tue Dec 12 2017,Termalica B-B.,2-1,?,Slask Wroclaw
+Wed Dec 13 2017,Lechia Gdansk,1-3,?,Pogon Szczecin
+Wed Dec 13 2017,Zaglebie,0-0,?,Lech Poznan
+Wed Dec 13 2017,Cracovia,1-4,?,Wisla
+Wed Dec 13 2017,Wisla Plock,2-2,?,Sandecja Nowy S.
+Fri Dec 15 2017,Korona Kielce,1-1,?,Piast Gliwice
+Fri Dec 15 2017,Slask Wroclaw,1-0,?,Jagiellonia
+Sat Dec 16 2017,Pogon Szczecin,1-0,?,Arka Gdynia
+Sat Dec 16 2017,Sandecja Nowy S.,2-2,?,Lechia Gdansk
+Sat Dec 16 2017,Legia,0-2,?,Wisla Plock
+Sun Dec 17 2017,Lech Poznan,3-1,?,Termalica B-B.
+Sun Dec 17 2017,Wisla,1-2,?,Zaglebie
+Mon Dec 18 2017,Gornik Z.,0-4,?,Cracovia
+Fri Feb 9 2018,Wisla Plock,4-2,?,Gornik Z.
+Fri Feb 9 2018,Zaglebie,2-3,?,Legia
+Sat Feb 10 2018,Pogon Szczecin,4-1,?,Sandecja Nowy S.
+Sat Feb 10 2018,Cracovia,2-1,?,Slask Wroclaw
+Sat Feb 10 2018,Lechia Gdansk,1-1,?,Wisla
+Sun Feb 11 2018,Termalica B-B.,0-3,?,Korona Kielce
+Sun Feb 11 2018,Arka Gdynia,0-0,?,Lech Poznan
+Mon Feb 12 2018,Piast Gliwice,0-2,?,Jagiellonia
+Fri Feb 16 2018,Sandecja Nowy S.,3-3,?,Korona Kielce
+Fri Feb 16 2018,Legia,4-1,?,Slask Wroclaw
+Sat Feb 17 2018,Wisla Plock,2-0,?,Zaglebie
+Sat Feb 17 2018,Jagiellonia,1-0,?,Cracovia
+Sat Feb 17 2018,Wisla,3-2,?,Arka Gdynia
+Sun Feb 18 2018,Lechia Gdansk,0-2,?,Piast Gliwice
+Sun Feb 18 2018,Lech Poznan,2-0,?,Pogon Szczecin
+Mon Feb 19 2018,Gornik Z.,3-0,?,Termalica B-B.
+Fri Feb 23 2018,Zaglebie,0-0,?,Arka Gdynia
+Fri Feb 23 2018,Jagiellonia,4-1,?,Lechia Gdansk
+Sat Feb 24 2018,Termalica B-B.,1-0,?,Sandecja Nowy S.
+Sat Feb 24 2018,Pogon Szczecin,2-1,?,Wisla Plock
+Sat Feb 24 2018,Cracovia,0-0,?,Legia
+Sun Feb 25 2018,Piast Gliwice,0-0,?,Wisla
+Sun Feb 25 2018,Slask Wroclaw,1-1,?,Gornik Z.
+Sun Feb 25 2018,Korona Kielce,1-0,?,Lech Poznan
+Tue Feb 27 2018,Lechia Gdansk,2-2,?,Termalica B-B.
+Tue Feb 27 2018,Wisla Plock,0-1,?,Cracovia
+Tue Feb 27 2018,Legia,0-2,?,Jagiellonia
+Tue Feb 27 2018,Sandecja Nowy S.,0-1,?,Zaglebie
+Wed Feb 28 2018,Gornik Z.,0-0,?,Pogon Szczecin
+Wed Feb 28 2018,Wisla,1-1,?,Korona Kielce
+Wed Feb 28 2018,Arka Gdynia,0-0,?,Piast Gliwice
+Wed Feb 28 2018,Lech Poznan,2-1,?,Slask Wroclaw
+Fri Mar 2 2018,Termalica B-B.,1-2,?,Wisla Plock
+Fri Mar 2 2018,Zaglebie,0-0,?,Lechia Gdansk
+Sat Mar 3 2018,Slask Wroclaw,0-0,?,Sandecja Nowy S.
+Sat Mar 3 2018,Korona Kielce,0-0,?,Pogon Szczecin
+Sat Mar 3 2018,Piast Gliwice,0-3,?,Gornik Z.
+Sun Mar 4 2018,Cracovia,2-1,?,Arka Gdynia
+Sun Mar 4 2018,Legia,2-1,?,Lech Poznan
+Mon Mar 5 2018,Jagiellonia,2-0,?,Wisla
+Fri Mar 9 2018,Gornik Z.,2-2,?,Zaglebie
+Fri Mar 9 2018,Wisla,3-1,?,Slask Wroclaw
+Sat Mar 10 2018,Sandecja Nowy S.,0-3,?,Piast Gliwice
+Sat Mar 10 2018,Pogon Szczecin,0-3,?,Cracovia
+Sat Mar 10 2018,Wisla Plock,2-0,?,Korona Kielce
+Sun Mar 11 2018,Lech Poznan,5-1,?,Jagiellonia
+Sun Mar 11 2018,Lechia Gdansk,1-3,?,Legia
+Mon Mar 12 2018,Arka Gdynia,4-0,?,Termalica B-B.
+Fri Mar 16 2018,Piast Gliwice,0-0,?,Zaglebie
+Fri Mar 16 2018,Lech Poznan,3-0,?,Lechia Gdansk
+Sat Mar 17 2018,Termalica B-B.,2-4,?,Pogon Szczecin
+Sat Mar 17 2018,Jagiellonia,3-2,?,Arka Gdynia
+Sat Mar 17 2018,Korona Kielce,2-2,?,Gornik Z.
+Sun Mar 18 2018,Cracovia,2-1,?,Sandecja Nowy S.
+Sun Mar 18 2018,Slask Wroclaw,1-1,?,Wisla Plock
+Sun Mar 18 2018,Legia,0-2,?,Wisla
+Sat Mar 31 2018,Gornik Z.,2-2,?,Sandecja Nowy S.
+Sat Mar 31 2018,Termalica B-B.,2-0,?,Cracovia
+Sat Mar 31 2018,Korona Kielce,1-0,?,Lechia Gdansk
+Sat Mar 31 2018,Arka Gdynia,1-0,?,Legia
+Mon Apr 2 2018,Wisla Plock,1-0,?,Piast Gliwice
+Mon Apr 2 2018,Zaglebie,1-0,?,Jagiellonia
+Mon Apr 2 2018,Pogon Szczecin,3-2,?,Slask Wroclaw
+Mon Apr 2 2018,Wisla,1-3,?,Lech Poznan
+Sat Apr 7 2018,Cracovia,2-2,?,Zaglebie
+Sat Apr 7 2018,Jagiellonia,1-3,?,Wisla Plock
+Sat Apr 7 2018,Lech Poznan,3-1,?,Gornik Z.
+Sat Apr 7 2018,Lechia Gdansk,4-2,?,Arka Gdynia
+Sat Apr 7 2018,Legia,3-0,?,Pogon Szczecin
+Sat Apr 7 2018,Piast Gliwice,1-1,?,Termalica B-B.
+Sat Apr 7 2018,Sandecja Nowy S.,0-0,?,Wisla
+Sat Apr 7 2018,Slask Wroclaw,1-1,?,Korona Kielce
+Fri Apr 13 2018,Arka Gdynia,1-2,?,Lechia Gdansk
+Fri Apr 13 2018,Lech Poznan,0-1,?,Korona Kielce
+Sat Apr 14 2018,Cracovia,2-1,?,Piast Gliwice
+Sat Apr 14 2018,Jagiellonia,1-2,?,Gornik Z.
+Sat Apr 14 2018,Legia,0-1,?,Zaglebie
+Sun Apr 15 2018,Pogon Szczecin,2-0,?,Termalica B-B.
+Sun Apr 15 2018,Slask Wroclaw,1-0,?,Sandecja Nowy S.
+Mon Apr 16 2018,Wisla Plock,2-2,?,Wisla
+Fri Apr 20 2018,Termalica B-B.,1-2,?,Slask Wroclaw
+Fri Apr 20 2018,Zaglebie,0-1,?,Lech Poznan
+Sat Apr 21 2018,Piast Gliwice,0-0,?,Pogon Szczecin
+Sat Apr 21 2018,Gornik Z.,0-1,?,Wisla Plock
+Sat Apr 21 2018,Korona Kielce,0-3,?,Jagiellonia
+Sun Apr 22 2018,Sandecja Nowy S.,3-1,?,Arka Gdynia
+Sun Apr 22 2018,Wisla,0-1,?,Legia
+Mon Apr 23 2018,Lechia Gdansk,0-0,?,Cracovia
+Fri Apr 27 2018,Arka Gdynia,1-5,?,Piast Gliwice
+Fri Apr 27 2018,Legia,3-1,?,Korona Kielce
+Sat Apr 28 2018,Wisla Plock,1-2,?,Zaglebie
+Sat Apr 28 2018,Pogon Szczecin,2-0,?,Sandecja Nowy S.
+Sat Apr 28 2018,Lech Poznan,2-4,?,Gornik Z.
+Sun Apr 29 2018,Cracovia,4-2,?,Termalica B-B.
+Sun Apr 29 2018,Jagiellonia,0-1,?,Wisla
+Mon Apr 30 2018,Slask Wroclaw,3-1,?,Lechia Gdansk
+Fri May 4 2018,Cracovia,3-3,?,Slask Wroclaw
+Fri May 4 2018,Lechia Gdansk,0-1,?,Termalica B-B.
+Sat May 5 2018,Sandecja Nowy S.,2-1,?,Piast Gliwice
+Sat May 5 2018,Pogon Szczecin,3-2,?,Arka Gdynia
+Sat May 5 2018,Wisla Plock,0-0,?,Lech Poznan
+Sun May 6 2018,Korona Kielce,0-3,?,Wisla
+Sun May 6 2018,Zaglebie,0-2,?,Gornik Z.
+Sun May 6 2018,Jagiellonia,0-0,?,Legia
+Tue May 8 2018,Piast Gliwice,0-2,?,Lechia Gdansk
+Tue May 8 2018,Termalica B-B.,1-1,?,Sandecja Nowy S.
+Tue May 8 2018,Arka Gdynia,2-0,?,Cracovia
+Tue May 8 2018,Slask Wroclaw,2-0,?,Pogon Szczecin
+Wed May 9 2018,Gornik Z.,2-2,?,Korona Kielce
+Wed May 9 2018,Legia,3-2,?,Wisla Plock
+Wed May 9 2018,Lech Poznan,0-2,?,Jagiellonia
+Wed May 9 2018,Wisla,3-0,?,Zaglebie
+Sat May 12 2018,Pogon Szczecin,1-1,?,Lechia Gdansk
+Sat May 12 2018,Sandecja Nowy S.,0-1,?,Cracovia
+Sat May 12 2018,Slask Wroclaw,3-1,?,Piast Gliwice
+Sat May 12 2018,Termalica B-B.,2-1,?,Arka Gdynia
+Sun May 13 2018,Legia,2-0,?,Gornik Z.
+Sun May 13 2018,Wisla Plock,4-1,?,Korona Kielce
+Sun May 13 2018,Wisla,1-1,?,Lech Poznan
+Sun May 13 2018,Zaglebie,1-2,?,Jagiellonia
+Sat May 19 2018,Arka Gdynia,0-1,?,Slask Wroclaw
+Sat May 19 2018,Cracovia,1-4,?,Pogon Szczecin
+Sat May 19 2018,Lechia Gdansk,1-1,?,Sandecja Nowy S.
+Sat May 19 2018,Piast Gliwice,4-0,?,Termalica B-B.
+Sun May 20 2018,Gornik Z.,2-0,?,Wisla
+Sun May 20 2018,Jagiellonia,2-1,?,Wisla Plock
+Sun May 20 2018,Korona Kielce,0-2,?,Zaglebie
+Sun May 20 2018,Lech Poznan,0-3,?,Legia

@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 10 2007,Stuttgart,2-2,0-1,Schalke 04
+Sat Aug 11 2007,Bayern Munich,3-0,1-0,Hansa Rostock
+Sat Aug 11 2007,Bochum,2-2,0-2,Werder Bremen
+Sat Aug 11 2007,Ein Frankfurt,1-0,1-0,Hertha
+Sat Aug 11 2007,Hannover,0-1,0-1,Hamburg
+Sat Aug 11 2007,Leverkusen,0-0,0-0,Cottbus
+Sat Aug 11 2007,Wolfsburg,1-3,0-1,Bielefeld
+Sun Aug 12 2007,Dortmund,1-3,0-1,Duisburg
+Sun Aug 12 2007,Nurnberg,0-2,0-1,Karlsruhe
+Fri Aug 17 2007,Karlsruhe,1-2,1-0,Hannover
+Sat Aug 18 2007,Bielefeld,2-2,0-0,Ein Frankfurt
+Sat Aug 18 2007,Duisburg,1-3,0-1,Wolfsburg
+Sat Aug 18 2007,Hansa Rostock,1-2,0-2,Nurnberg
+Sat Aug 18 2007,Hertha,3-1,0-1,Stuttgart
+Sat Aug 18 2007,Schalke 04,4-1,2-0,Dortmund
+Sat Aug 18 2007,Werder Bremen,0-4,0-1,Bayern Munich
+Sun Aug 19 2007,Cottbus,1-2,0-2,Bochum
+Sun Aug 19 2007,Hamburg,1-0,0-0,Leverkusen
+Fri Aug 24 2007,Bochum,2-1,1-0,Hamburg
+Sat Aug 25 2007,Bayern Munich,3-0,1-0,Hannover
+Sat Aug 25 2007,Bielefeld,2-0,0-0,Hertha
+Sat Aug 25 2007,Dortmund,3-0,1-0,Cottbus
+Sat Aug 25 2007,Leverkusen,3-0,3-0,Karlsruhe
+Sat Aug 25 2007,Nurnberg,0-1,0-0,Werder Bremen
+Sat Aug 25 2007,Stuttgart,1-0,1-0,Duisburg
+Sun Aug 26 2007,Ein Frankfurt,1-0,1-0,Hansa Rostock
+Sun Aug 26 2007,Wolfsburg,1-1,1-0,Schalke 04
+Fri Aug 31 2007,Schalke 04,1-1,1-0,Leverkusen
+Sat Sep 1 2007,Cottbus,1-1,1-0,Nurnberg
+Sat Sep 1 2007,Duisburg,3-0,0-0,Bielefeld
+Sat Sep 1 2007,Hannover,3-2,2-1,Bochum
+Sat Sep 1 2007,Hansa Rostock,0-1,0-0,Dortmund
+Sat Sep 1 2007,Hertha,2-1,1-0,Wolfsburg
+Sat Sep 1 2007,Werder Bremen,2-1,1-0,Ein Frankfurt
+Sun Sep 2 2007,Hamburg,1-1,0-0,Bayern Munich
+Sun Sep 2 2007,Karlsruhe,1-0,0-0,Stuttgart
+Fri Sep 14 2007,Dortmund,3-0,3-0,Werder Bremen
+Sat Sep 15 2007,Bayern Munich,1-1,0-1,Schalke 04
+Sat Sep 15 2007,Bielefeld,4-2,1-0,Hansa Rostock
+Sat Sep 15 2007,Ein Frankfurt,2-1,1-0,Hamburg
+Sat Sep 15 2007,Leverkusen,2-0,0-0,Bochum
+Sat Sep 15 2007,Nurnberg,2-2,0-2,Hannover
+Sat Sep 15 2007,Stuttgart,3-0,0-0,Cottbus
+Sun Sep 16 2007,Duisburg,1-2,0-0,Hertha
+Sun Sep 16 2007,Wolfsburg,1-2,1-0,Karlsruhe
+Fri Sep 21 2007,Bochum,0-0,0-0,Ein Frankfurt
+Sat Sep 22 2007,Cottbus,1-2,1-1,Wolfsburg
+Sat Sep 22 2007,Hamburg,1-0,0-0,Nurnberg
+Sat Sep 22 2007,Hansa Rostock,2-0,1-0,Duisburg
+Sat Sep 22 2007,Hertha,3-2,1-1,Dortmund
+Sat Sep 22 2007,Schalke 04,3-0,1-0,Bielefeld
+Sat Sep 22 2007,Werder Bremen,4-1,3-1,Stuttgart
+Sun Sep 23 2007,Hannover,0-3,0-0,Leverkusen
+Sun Sep 23 2007,Karlsruhe,1-4,0-2,Bayern Munich
+Tue Sep 25 2007,Dortmund,0-3,0-2,Hamburg
+Tue Sep 25 2007,Duisburg,0-2,0-1,Schalke 04
+Tue Sep 25 2007,Hertha,1-3,1-1,Hansa Rostock
+Tue Sep 25 2007,Wolfsburg,1-1,0-0,Werder Bremen
+Wed Sep 26 2007,Bayern Munich,5-0,0-0,Cottbus
+Wed Sep 26 2007,Bielefeld,0-2,0-0,Hannover
+Wed Sep 26 2007,Ein Frankfurt,0-1,0-0,Karlsruhe
+Wed Sep 26 2007,Nurnberg,1-2,0-1,Leverkusen
+Wed Sep 26 2007,Stuttgart,1-0,0-0,Bochum
+Fri Sep 28 2007,Schalke 04,1-0,1-0,Hertha
+Sat Sep 29 2007,Bochum,3-3,1-1,Nurnberg
+Sat Sep 29 2007,Hamburg,2-2,1-0,Wolfsburg
+Sat Sep 29 2007,Hansa Rostock,2-1,2-0,Stuttgart
+Sat Sep 29 2007,Karlsruhe,3-1,1-1,Dortmund
+Sat Sep 29 2007,Leverkusen,0-1,0-1,Bayern Munich
+Sat Sep 29 2007,Werder Bremen,8-1,4-1,Bielefeld
+Sun Sep 30 2007,Cottbus,2-2,2-0,Ein Frankfurt
+Sun Sep 30 2007,Hannover,2-1,1-1,Duisburg
+Fri Oct 5 2007,Dortmund,2-1,1-1,Bochum
+Sat Oct 6 2007,Bielefeld,0-1,0-0,Hamburg
+Sat Oct 6 2007,Duisburg,1-3,1-1,Werder Bremen
+Sat Oct 6 2007,Hertha,0-0,0-0,Cottbus
+Sat Oct 6 2007,Schalke 04,0-2,0-0,Karlsruhe
+Sat Oct 6 2007,Stuttgart,0-2,0-1,Hannover
+Sat Oct 6 2007,Wolfsburg,1-0,0-0,Hansa Rostock
+Sun Oct 7 2007,Bayern Munich,3-0,2-0,Nurnberg
+Sun Oct 7 2007,Ein Frankfurt,2-1,0-0,Leverkusen
+Fri Oct 19 2007,Cottbus,1-2,0-1,Duisburg
+Sat Oct 20 2007,Bochum,1-2,1-1,Bayern Munich
+Sat Oct 20 2007,Hamburg,4-1,3-0,Stuttgart
+Sat Oct 20 2007,Hansa Rostock,1-1,0-1,Schalke 04
+Sat Oct 20 2007,Leverkusen,2-2,0-1,Dortmund
+Sat Oct 20 2007,Nurnberg,5-1,1-1,Ein Frankfurt
+Sat Oct 20 2007,Werder Bremen,3-2,0-0,Hertha
+Sun Oct 21 2007,Hannover,2-2,2-2,Wolfsburg
+Sun Oct 21 2007,Karlsruhe,0-0,0-0,Bielefeld
+Fri Oct 26 2007,Ein Frankfurt,0-0,0-0,Hannover
+Sat Oct 27 2007,Bielefeld,1-1,0-0,Cottbus
+Sat Oct 27 2007,Hansa Rostock,0-0,0-0,Karlsruhe
+Sat Oct 27 2007,Hertha,2-0,2-0,Bochum
+Sat Oct 27 2007,Schalke 04,1-1,1-1,Werder Bremen
+Sat Oct 27 2007,Stuttgart,1-0,0-0,Leverkusen
+Sat Oct 27 2007,Wolfsburg,3-1,2-0,Nurnberg
+Sun Oct 28 2007,Dortmund,0-0,0-0,Bayern Munich
+Sun Oct 28 2007,Duisburg,0-1,0-1,Hamburg
+Fri Nov 2 2007,Cottbus,1-0,0-0,Schalke 04
+Sat Nov 3 2007,Bayern Munich,0-0,0-0,Ein Frankfurt
+Sat Nov 3 2007,Hamburg,2-1,1-0,Hertha
+Sat Nov 3 2007,Hannover,2-1,0-0,Dortmund
+Sat Nov 3 2007,Leverkusen,4-0,3-0,Bielefeld
+Sat Nov 3 2007,Nurnberg,0-1,0-1,Stuttgart
+Sat Nov 3 2007,Werder Bremen,1-0,1-0,Hansa Rostock
+Sun Nov 4 2007,Bochum,5-3,4-0,Wolfsburg
+Sun Nov 4 2007,Karlsruhe,1-0,1-0,Duisburg
+Fri Nov 9 2007,Duisburg,0-2,0-1,Bochum
+Sat Nov 10 2007,Dortmund,1-1,0-0,Ein Frankfurt
+Sat Nov 10 2007,Hansa Rostock,3-2,1-0,Cottbus
+Sat Nov 10 2007,Hertha,1-0,0-0,Hannover
+Sat Nov 10 2007,Schalke 04,1-1,1-1,Hamburg
+Sat Nov 10 2007,Stuttgart,3-1,3-0,Bayern Munich
+Sat Nov 10 2007,Werder Bremen,4-0,2-0,Karlsruhe
+Sun Nov 11 2007,Bielefeld,3-1,0-1,Nurnberg
+Sun Nov 11 2007,Wolfsburg,1-2,0-1,Leverkusen
+Fri Nov 23 2007,Karlsruhe,2-1,0-1,Hertha
+Sat Nov 24 2007,Bayern Munich,2-1,1-0,Wolfsburg
+Sat Nov 24 2007,Bochum,3-0,2-0,Bielefeld
+Sat Nov 24 2007,Cottbus,0-2,0-0,Werder Bremen
+Sat Nov 24 2007,Ein Frankfurt,1-4,1-1,Stuttgart
+Sat Nov 24 2007,Hannover,2-3,1-1,Schalke 04
+Sat Nov 24 2007,Leverkusen,4-1,0-1,Duisburg
+Sun Nov 25 2007,Hamburg,2-0,1-0,Hansa Rostock
+Sun Nov 25 2007,Nurnberg,2-0,1-0,Dortmund
+Fri Nov 30 2007,Hansa Rostock,0-3,0-0,Hannover
+Sat Dec 1 2007,Cottbus,2-0,0-0,Karlsruhe
+Sat Dec 1 2007,Hertha,0-3,0-1,Leverkusen
+Sat Dec 1 2007,Schalke 04,1-0,1-0,Bochum
+Sat Dec 1 2007,Stuttgart,1-2,1-1,Dortmund
+Sat Dec 1 2007,Werder Bremen,2-1,1-0,Hamburg
+Sat Dec 1 2007,Wolfsburg,2-2,1-1,Ein Frankfurt
+Sun Dec 2 2007,Bielefeld,0-1,0-1,Bayern Munich
+Sun Dec 2 2007,Duisburg,1-0,0-0,Nurnberg
+Fri Dec 7 2007,Dortmund,6-1,2-0,Bielefeld
+Sat Dec 8 2007,Bayern Munich,0-0,0-0,Duisburg
+Sat Dec 8 2007,Bochum,2-2,1-1,Karlsruhe
+Sat Dec 8 2007,Ein Frankfurt,2-2,0-0,Schalke 04
+Sat Dec 8 2007,Hamburg,0-0,0-0,Cottbus
+Sat Dec 8 2007,Hannover,4-3,3-2,Werder Bremen
+Sat Dec 8 2007,Stuttgart,3-1,1-0,Wolfsburg
+Sun Dec 9 2007,Leverkusen,3-0,1-0,Hansa Rostock
+Sun Dec 9 2007,Nurnberg,2-1,2-0,Hertha
+Fri Dec 14 2007,Cottbus,5-1,3-0,Hannover
+Sat Dec 15 2007,Bielefeld,2-0,0-0,Stuttgart
+Sat Dec 15 2007,Hertha,0-0,0-0,Bayern Munich
+Sat Dec 15 2007,Karlsruhe,1-1,0-0,Hamburg
+Sat Dec 15 2007,Schalke 04,2-1,2-0,Nurnberg
+Sat Dec 15 2007,Werder Bremen,5-2,1-1,Leverkusen
+Sat Dec 15 2007,Wolfsburg,4-0,2-0,Dortmund
+Sun Dec 16 2007,Duisburg,0-1,0-1,Ein Frankfurt
+Sun Dec 16 2007,Hansa Rostock,2-0,2-0,Bochum
+Fri Feb 1 2008,Hansa Rostock,1-2,0-2,Bayern Munich
+Sat Feb 2 2008,Bielefeld,0-1,0-1,Wolfsburg
+Sat Feb 2 2008,Cottbus,2-3,1-0,Leverkusen
+Sat Feb 2 2008,Duisburg,3-3,2-0,Dortmund
+Sat Feb 2 2008,Hamburg,1-1,0-1,Hannover
+Sat Feb 2 2008,Hertha,0-3,0-1,Ein Frankfurt
+Sat Feb 2 2008,Karlsruhe,2-0,0-0,Nurnberg
+Sun Feb 3 2008,Schalke 04,4-1,1-0,Stuttgart
+Sun Feb 3 2008,Werder Bremen,1-2,1-0,Bochum
+Fri Feb 8 2008,Ein Frankfurt,2-1,1-0,Bielefeld
+Sat Feb 9 2008,Bochum,3-3,2-1,Cottbus
+Sat Feb 9 2008,Hannover,2-2,1-0,Karlsruhe
+Sat Feb 9 2008,Leverkusen,1-1,0-1,Hamburg
+Sat Feb 9 2008,Nurnberg,1-1,1-1,Hansa Rostock
+Sat Feb 9 2008,Stuttgart,1-3,1-2,Hertha
+Sat Feb 9 2008,Wolfsburg,2-1,1-1,Duisburg
+Sun Feb 10 2008,Bayern Munich,1-1,1-1,Werder Bremen
+Sun Feb 10 2008,Dortmund,2-3,1-2,Schalke 04
+Fri Feb 15 2008,Schalke 04,1-2,0-0,Wolfsburg
+Sat Feb 16 2008,Cottbus,0-2,0-1,Dortmund
+Sat Feb 16 2008,Duisburg,2-3,0-2,Stuttgart
+Sat Feb 16 2008,Hansa Rostock,1-0,0-0,Ein Frankfurt
+Sat Feb 16 2008,Hertha,1-0,0-0,Bielefeld
+Sat Feb 16 2008,Karlsruhe,2-2,0-1,Leverkusen
+Sat Feb 16 2008,Werder Bremen,2-0,1-0,Nurnberg
+Sun Feb 17 2008,Hamburg,3-0,1-0,Bochum
+Sun Feb 17 2008,Hannover,0-3,0-0,Bayern Munich
+Fri Feb 22 2008,Bochum,2-1,1-0,Hannover
+Sat Feb 23 2008,Bielefeld,0-2,0-1,Duisburg
+Sat Feb 23 2008,Dortmund,1-0,0-0,Hansa Rostock
+Sat Feb 23 2008,Ein Frankfurt,1-0,0-0,Werder Bremen
+Sat Feb 23 2008,Leverkusen,1-0,0-0,Schalke 04
+Sat Feb 23 2008,Stuttgart,3-1,2-0,Karlsruhe
+Sat Feb 23 2008,Wolfsburg,0-0,0-0,Hertha
+Sun Feb 24 2008,Bayern Munich,1-1,0-0,Hamburg
+Sun Feb 24 2008,Nurnberg,1-1,0-0,Cottbus
+Fri Feb 29 2008,Hertha,2-0,2-0,Duisburg
+Sat Mar 1 2008,Hannover,2-1,1-0,Nurnberg
+Sat Mar 1 2008,Hansa Rostock,1-1,0-0,Bielefeld
+Sat Mar 1 2008,Karlsruhe,3-1,1-1,Wolfsburg
+Sat Mar 1 2008,Schalke 04,0-1,0-1,Bayern Munich
+Sat Mar 1 2008,Werder Bremen,2-0,1-0,Dortmund
+Sun Mar 2 2008,Bochum,2-0,0-0,Leverkusen
+Sun Mar 2 2008,Hamburg,4-1,1-0,Ein Frankfurt
+Fri Mar 7 2008,Dortmund,1-1,1-0,Hertha
+Sat Mar 8 2008,Bayern Munich,2-0,1-0,Karlsruhe
+Sat Mar 8 2008,Bielefeld,0-2,0-1,Schalke 04
+Sat Mar 8 2008,Duisburg,1-1,1-1,Hansa Rostock
+Sat Mar 8 2008,Ein Frankfurt,1-1,0-0,Bochum
+Sat Mar 8 2008,Stuttgart,6-3,2-1,Werder Bremen
+Sat Mar 8 2008,Wolfsburg,3-0,2-0,Cottbus
+Sun Mar 9 2008,Leverkusen,2-0,2-0,Hannover
+Sun Mar 9 2008,Nurnberg,0-0,0-0,Hamburg
+Tue Mar 11 2008,Cottbus,0-1,0-1,Stuttgart
+Fri Mar 14 2008,Schalke 04,2-1,0-1,Duisburg
+Sat Mar 15 2008,Bochum,1-1,1-0,Stuttgart
+Sat Mar 15 2008,Cottbus,2-0,2-0,Bayern Munich
+Sat Mar 15 2008,Hamburg,1-0,0-0,Dortmund
+Sat Mar 15 2008,Hannover,2-2,1-2,Bielefeld
+Sat Mar 15 2008,Hansa Rostock,0-0,0-0,Hertha
+Sat Mar 15 2008,Karlsruhe,0-1,0-1,Ein Frankfurt
+Sun Mar 16 2008,Leverkusen,4-1,1-1,Nurnberg
+Sun Mar 16 2008,Werder Bremen,0-1,0-0,Wolfsburg
+Thu Mar 20 2008,Ein Frankfurt,2-1,0-0,Cottbus
+Sat Mar 22 2008,Bayern Munich,2-1,1-0,Leverkusen
+Sat Mar 22 2008,Dortmund,1-1,1-0,Karlsruhe
+Sat Mar 22 2008,Duisburg,1-1,0-1,Hannover
+Sat Mar 22 2008,Nurnberg,1-1,1-1,Bochum
+Sat Mar 22 2008,Stuttgart,4-1,0-0,Hansa Rostock
+Sat Mar 22 2008,Wolfsburg,1-1,0-1,Hamburg
+Sun Mar 23 2008,Bielefeld,1-1,1-0,Werder Bremen
+Sun Mar 23 2008,Hertha,1-2,0-2,Schalke 04
+Fri Mar 28 2008,Hansa Rostock,0-1,0-0,Wolfsburg
+Sat Mar 29 2008,Bochum,3-3,3-2,Dortmund
+Sat Mar 29 2008,Hamburg,1-1,0-0,Bielefeld
+Sat Mar 29 2008,Karlsruhe,0-0,0-0,Schalke 04
+Sat Mar 29 2008,Leverkusen,0-2,0-1,Ein Frankfurt
+Sat Mar 29 2008,Nurnberg,1-1,1-0,Bayern Munich
+Sat Mar 29 2008,Werder Bremen,1-2,0-2,Duisburg
+Sun Mar 30 2008,Cottbus,2-1,1-1,Hertha
+Sun Mar 30 2008,Hannover,0-0,0-0,Stuttgart
+Fri Apr 4 2008,Duisburg,0-1,0-1,Cottbus
+Sat Apr 5 2008,Bielefeld,1-0,0-0,Karlsruhe
+Sat Apr 5 2008,Ein Frankfurt,1-3,1-1,Nurnberg
+Sat Apr 5 2008,Hertha,1-2,1-1,Werder Bremen
+Sat Apr 5 2008,Schalke 04,1-0,0-0,Hansa Rostock
+Sat Apr 5 2008,Stuttgart,1-0,1-0,Hamburg
+Sat Apr 5 2008,Wolfsburg,3-2,2-1,Hannover
+Sun Apr 6 2008,Bayern Munich,3-1,1-1,Bochum
+Sun Apr 6 2008,Dortmund,2-1,0-0,Leverkusen
+Sat Apr 12 2008,Bochum,1-1,1-1,Hertha
+Sat Apr 12 2008,Cottbus,1-0,0-0,Bielefeld
+Sat Apr 12 2008,Hamburg,0-1,0-0,Duisburg
+Sat Apr 12 2008,Hannover,2-1,1-1,Ein Frankfurt
+Sat Apr 12 2008,Karlsruhe,1-2,0-1,Hansa Rostock
+Sat Apr 12 2008,Werder Bremen,5-1,2-1,Schalke 04
+Sun Apr 13 2008,Bayern Munich,5-0,4-0,Dortmund
+Sun Apr 13 2008,Leverkusen,3-0,2-0,Stuttgart
+Tue Apr 15 2008,Hansa Rostock,1-2,0-0,Werder Bremen
+Tue Apr 15 2008,Hertha,0-0,0-0,Hamburg
+Tue Apr 15 2008,Schalke 04,5-0,3-0,Cottbus
+Tue Apr 15 2008,Wolfsburg,0-1,0-0,Bochum
+Wed Apr 16 2008,Bielefeld,1-0,0-0,Leverkusen
+Wed Apr 16 2008,Dortmund,1-3,0-2,Hannover
+Wed Apr 16 2008,Duisburg,0-1,0-0,Karlsruhe
+Wed Apr 16 2008,Ein Frankfurt,1-3,1-0,Bayern Munich
+Wed Apr 16 2008,Stuttgart,3-0,3-0,Nurnberg
+Sun Apr 20 2008,Nurnberg,1-0,0-0,Wolfsburg
+Fri Apr 25 2008,Ein Frankfurt,1-1,0-0,Dortmund
+Sat Apr 26 2008,Bochum,1-1,0-1,Duisburg
+Sat Apr 26 2008,Cottbus,2-1,0-1,Hansa Rostock
+Sat Apr 26 2008,Hamburg,0-1,0-1,Schalke 04
+Sat Apr 26 2008,Hannover,2-2,2-0,Hertha
+Sat Apr 26 2008,Karlsruhe,3-3,1-2,Werder Bremen
+Sat Apr 26 2008,Nurnberg,2-2,2-0,Bielefeld
+Sun Apr 27 2008,Bayern Munich,4-1,1-1,Stuttgart
+Sun Apr 27 2008,Leverkusen,2-2,1-2,Wolfsburg
+Fri May 2 2008,Dortmund,0-0,0-0,Nurnberg
+Sat May 3 2008,Bielefeld,2-0,0-0,Bochum
+Sat May 3 2008,Hansa Rostock,1-3,0-2,Hamburg
+Sat May 3 2008,Hertha,3-1,2-0,Karlsruhe
+Sat May 3 2008,Schalke 04,1-1,1-1,Hannover
+Sat May 3 2008,Stuttgart,4-1,3-0,Ein Frankfurt
+Sat May 3 2008,Werder Bremen,2-0,0-0,Cottbus
+Sun May 4 2008,Duisburg,3-2,2-1,Leverkusen
+Sun May 4 2008,Wolfsburg,0-0,0-0,Bayern Munich
+Tue May 6 2008,Bochum,0-3,0-1,Schalke 04
+Tue May 6 2008,Dortmund,3-2,1-0,Stuttgart
+Tue May 6 2008,Hannover,3-0,1-0,Hansa Rostock
+Tue May 6 2008,Karlsruhe,1-1,0-0,Cottbus
+Wed May 7 2008,Bayern Munich,2-0,1-0,Bielefeld
+Wed May 7 2008,Ein Frankfurt,2-3,1-2,Wolfsburg
+Wed May 7 2008,Hamburg,0-1,0-0,Werder Bremen
+Wed May 7 2008,Leverkusen,1-2,0-1,Hertha
+Wed May 7 2008,Nurnberg,2-0,2-0,Duisburg
+Sat May 10 2008,Bielefeld,2-2,2-1,Dortmund
+Sat May 10 2008,Cottbus,2-0,1-0,Hamburg
+Sat May 10 2008,Duisburg,2-3,0-3,Bayern Munich
+Sat May 10 2008,Hansa Rostock,1-2,0-1,Leverkusen
+Sat May 10 2008,Hertha,1-0,0-0,Nurnberg
+Sat May 10 2008,Karlsruhe,1-3,0-1,Bochum
+Sat May 10 2008,Schalke 04,1-0,0-0,Ein Frankfurt
+Sat May 10 2008,Werder Bremen,6-1,2-0,Hannover
+Sat May 10 2008,Wolfsburg,4-0,2-0,Stuttgart
+Sat May 17 2008,Bayern Munich,4-1,3-0,Hertha
+Sat May 17 2008,Bochum,1-2,1-1,Hansa Rostock
+Sat May 17 2008,Dortmund,2-4,1-2,Wolfsburg
+Sat May 17 2008,Ein Frankfurt,4-2,3-0,Duisburg
+Sat May 17 2008,Hamburg,7-0,3-0,Karlsruhe
+Sat May 17 2008,Hannover,4-0,2-0,Cottbus
+Sat May 17 2008,Leverkusen,0-1,0-0,Werder Bremen
+Sat May 17 2008,Nurnberg,0-2,0-1,Schalke 04
+Sat May 17 2008,Stuttgart,2-2,0-1,Bielefeld

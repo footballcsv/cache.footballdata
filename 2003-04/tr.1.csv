@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 8 2003,Samsunspor,1-3,1-0,Besiktas
+Sat Aug 9 2003,Bursaspor,0-0,0-0,Gaziantepspor
+Sat Aug 9 2003,Galatasaray,2-1,0-1,Diyarbakirspor
+Sat Aug 9 2003,Genclerbirligi,2-3,1-2,Elazigspor
+Sat Aug 9 2003,Konyaspor,3-3,2-0,Trabzonspor
+Sun Aug 10 2003,A. Sebatspor,0-2,0-1,Denizlispor
+Sun Aug 10 2003,Adanaspor,0-1,0-0,Malatyaspor
+Sun Aug 10 2003,Fenerbahce,0-3,0-2,Istanbulspor
+Sun Aug 10 2003,Rizespor,2-1,1-1,Ankaragucu
+Fri Aug 15 2003,Trabzonspor,0-1,0-1,Fenerbahce
+Sat Aug 16 2003,Ankaragucu,4-2,1-2,Samsunspor
+Sat Aug 16 2003,Besiktas,1-0,1-0,Bursaspor
+Sat Aug 16 2003,Denizlispor,1-1,0-0,Rizespor
+Sat Aug 16 2003,Istanbulspor,1-0,1-0,Adanaspor
+Sun Aug 17 2003,Diyarbakirspor,3-2,1-1,Genclerbirligi
+Sun Aug 17 2003,Elazigspor,0-0,0-0,Konyaspor
+Sun Aug 17 2003,Gaziantepspor,1-2,0-0,Galatasaray
+Sun Aug 17 2003,Malatyaspor,3-1,1-0,A. Sebatspor
+Sat Aug 23 2003,A. Sebatspor,1-3,0-0,Istanbulspor
+Sat Aug 23 2003,Adanaspor,0-1,0-0,Trabzonspor
+Sat Aug 23 2003,Bursaspor,2-2,1-0,Galatasaray
+Sat Aug 23 2003,Fenerbahce,7-1,3-1,Elazigspor
+Sat Aug 23 2003,Rizespor,2-1,0-1,Malatyaspor
+Sun Aug 24 2003,Besiktas,3-0,1-0,Ankaragucu
+Sun Aug 24 2003,Genclerbirligi,1-0,1-0,Gaziantepspor
+Sun Aug 24 2003,Konyaspor,3-1,1-1,Diyarbakirspor
+Sun Aug 24 2003,Samsunspor,2-1,1-0,Denizlispor
+Fri Aug 29 2003,Denizlispor,2-3,0-2,Besiktas
+Sat Aug 30 2003,Diyarbakirspor,1-2,0-0,Fenerbahce
+Sat Aug 30 2003,Elazigspor,3-4,1-2,Adanaspor
+Sat Aug 30 2003,Gaziantepspor,3-1,1-1,Konyaspor
+Sat Aug 30 2003,Malatyaspor,5-0,3-0,Samsunspor
+Sun Aug 31 2003,Ankaragucu,2-0,1-0,Bursaspor
+Sun Aug 31 2003,Galatasaray,2-1,2-0,Genclerbirligi
+Sun Aug 31 2003,Istanbulspor,3-0,1-0,Rizespor
+Sun Aug 31 2003,Trabzonspor,2-1,1-0,A. Sebatspor
+Fri Sep 12 2003,Besiktas,3-1,1-1,Malatyaspor
+Sat Sep 13 2003,Adanaspor,2-1,0-0,Diyarbakirspor
+Sat Sep 13 2003,Konyaspor,1-0,0-0,Galatasaray
+Sat Sep 13 2003,Rizespor,1-0,0-0,Trabzonspor
+Sat Sep 13 2003,Samsunspor,3-3,1-2,Istanbulspor
+Sun Sep 14 2003,A. Sebatspor,3-1,1-1,Elazigspor
+Sun Sep 14 2003,Ankaragucu,1-1,1-0,Denizlispor
+Sun Sep 14 2003,Bursaspor,0-0,0-0,Genclerbirligi
+Sun Sep 14 2003,Fenerbahce,3-1,0-0,Gaziantepspor
+Fri Sep 19 2003,Trabzonspor,2-1,0-0,Samsunspor
+Sat Sep 20 2003,Gaziantepspor,1-0,1-0,Adanaspor
+Sat Sep 20 2003,Genclerbirligi,4-0,3-0,Konyaspor
+Sat Sep 20 2003,Istanbulspor,1-1,0-1,Besiktas
+Sat Sep 20 2003,Malatyaspor,1-0,0-0,Ankaragucu
+Sun Sep 21 2003,Denizlispor,4-0,2-0,Bursaspor
+Sun Sep 21 2003,Diyarbakirspor,1-0,1-0,A. Sebatspor
+Sun Sep 21 2003,Elazigspor,1-1,0-1,Rizespor
+Sun Sep 21 2003,Galatasaray,2-2,1-1,Fenerbahce
+Fri Sep 26 2003,Adanaspor,0-2,0-2,Galatasaray
+Sat Sep 27 2003,Ankaragucu,2-1,0-1,Istanbulspor
+Sat Sep 27 2003,Bursaspor,2-1,0-0,Konyaspor
+Sat Sep 27 2003,Fenerbahce,1-0,0-0,Genclerbirligi
+Sat Sep 27 2003,Samsunspor,2-0,1-0,Elazigspor
+Sun Sep 28 2003,A. Sebatspor,1-2,1-1,Gaziantepspor
+Sun Sep 28 2003,Besiktas,5-0,2-0,Trabzonspor
+Sun Sep 28 2003,Denizlispor,1-0,0-0,Malatyaspor
+Sun Sep 28 2003,Rizespor,2-1,0-0,Diyarbakirspor
+Fri Oct 3 2003,Konyaspor,2-4,1-2,Fenerbahce
+Sat Oct 4 2003,Galatasaray,4-3,1-0,A. Sebatspor
+Sat Oct 4 2003,Genclerbirligi,6-0,0-0,Adanaspor
+Sat Oct 4 2003,Istanbulspor,0-3,0-2,Denizlispor
+Sat Oct 4 2003,Malatyaspor,2-1,1-1,Bursaspor
+Sun Oct 5 2003,Diyarbakirspor,2-2,0-1,Samsunspor
+Sun Oct 5 2003,Elazigspor,1-5,1-2,Besiktas
+Sun Oct 5 2003,Gaziantepspor,2-0,1-0,Rizespor
+Sun Oct 5 2003,Trabzonspor,3-0,1-0,Ankaragucu
+Fri Oct 17 2003,Rizespor,0-1,0-1,Galatasaray
+Sat Oct 18 2003,Adanaspor,1-1,0-1,Konyaspor
+Sat Oct 18 2003,Ankaragucu,1-0,1-0,Elazigspor
+Sat Oct 18 2003,Besiktas,1-0,1-0,Diyarbakirspor
+Sun Oct 19 2003,A. Sebatspor,0-3,0-1,Genclerbirligi
+Sun Oct 19 2003,Bursaspor,2-2,0-1,Fenerbahce
+Sun Oct 19 2003,Denizlispor,0-1,0-0,Trabzonspor
+Sun Oct 19 2003,Malatyaspor,2-1,0-0,Istanbulspor
+Sun Oct 19 2003,Samsunspor,1-2,1-0,Gaziantepspor
+Fri Oct 24 2003,Fenerbahce,3-0,1-0,Adanaspor
+Sat Oct 25 2003,Diyarbakirspor,1-1,1-0,Ankaragucu
+Sat Oct 25 2003,Elazigspor,2-4,0-3,Denizlispor
+Sat Oct 25 2003,Galatasaray,1-0,0-0,Samsunspor
+Sat Oct 25 2003,Trabzonspor,0-0,0-0,Malatyaspor
+Sun Oct 26 2003,Gaziantepspor,0-3,0-2,Besiktas
+Sun Oct 26 2003,Genclerbirligi,1-0,1-0,Rizespor
+Sun Oct 26 2003,Istanbulspor,3-0,2-0,Bursaspor
+Sun Oct 26 2003,Konyaspor,0-0,0-0,A. Sebatspor
+Fri Oct 31 2003,Besiktas,0-0,0-0,Galatasaray
+Sat Nov 1 2003,Ankaragucu,1-4,1-2,Gaziantepspor
+Sat Nov 1 2003,Denizlispor,1-2,1-1,Diyarbakirspor
+Sat Nov 1 2003,Istanbulspor,0-2,0-0,Trabzonspor
+Sat Nov 1 2003,Samsunspor,2-1,0-1,Genclerbirligi
+Sun Nov 2 2003,A. Sebatspor,1-1,1-1,Fenerbahce
+Sun Nov 2 2003,Bursaspor,6-0,3-0,Adanaspor
+Sun Nov 2 2003,Malatyaspor,3-0,0-0,Elazigspor
+Sun Nov 2 2003,Rizespor,1-1,1-1,Konyaspor
+Fri Nov 7 2003,Trabzonspor,2-0,0-0,Bursaspor
+Sat Nov 8 2003,Adanaspor,1-2,0-1,A. Sebatspor
+Sat Nov 8 2003,Konyaspor,0-0,0-0,Samsunspor
+Sun Nov 9 2003,Diyarbakirspor,2-0,2-0,Malatyaspor
+Sun Nov 9 2003,Elazigspor,1-1,1-1,Istanbulspor
+Sun Nov 9 2003,Galatasaray,2-1,1-1,Ankaragucu
+Sun Nov 9 2003,Gaziantepspor,1-2,1-0,Denizlispor
+Sun Nov 9 2003,Genclerbirligi,1-2,0-2,Besiktas
+Sat Nov 22 2003,Ankaragucu,2-3,1-2,Genclerbirligi
+Sat Nov 22 2003,Besiktas,1-1,1-1,Konyaspor
+Sat Nov 22 2003,Denizlispor,2-1,1-1,Galatasaray
+Sat Nov 22 2003,Malatyaspor,0-0,0-0,Gaziantepspor
+Sun Nov 23 2003,Bursaspor,1-1,1-0,A. Sebatspor
+Sun Nov 23 2003,Istanbulspor,1-3,1-3,Diyarbakirspor
+Sun Nov 23 2003,Rizespor,0-2,0-0,Adanaspor
+Sun Nov 23 2003,Samsunspor,3-0,2-0,Fenerbahce
+Sun Nov 23 2003,Trabzonspor,2-2,1-1,Elazigspor
+Fri Nov 28 2003,Galatasaray,2-2,1-0,Malatyaspor
+Sat Nov 29 2003,A. Sebatspor,1-0,0-0,Rizespor
+Sat Nov 29 2003,Diyarbakirspor,2-2,0-1,Trabzonspor
+Sat Nov 29 2003,Elazigspor,1-0,0-0,Bursaspor
+Sat Nov 29 2003,Konyaspor,1-1,1-0,Ankaragucu
+Sun Nov 30 2003,Adanaspor,2-3,1-1,Samsunspor
+Sun Nov 30 2003,Fenerbahce,2-2,0-0,Besiktas
+Sun Nov 30 2003,Gaziantepspor,2-1,0-0,Istanbulspor
+Sun Nov 30 2003,Genclerbirligi,1-3,1-1,Denizlispor
+Fri Dec 5 2003,Besiktas,2-1,0-0,Adanaspor
+Sat Dec 6 2003,Diyarbakirspor,2-0,1-0,Elazigspor
+Sat Dec 6 2003,Istanbulspor,3-1,1-0,Galatasaray
+Sat Dec 6 2003,Samsunspor,1-1,0-1,A. Sebatspor
+Sat Dec 6 2003,Trabzonspor,3-0,1-0,Gaziantepspor
+Sun Dec 7 2003,Ankaragucu,1-4,0-1,Fenerbahce
+Sun Dec 7 2003,Denizlispor,3-2,1-1,Konyaspor
+Sun Dec 7 2003,Malatyaspor,1-1,0-1,Genclerbirligi
+Sun Dec 7 2003,Rizespor,1-0,0-0,Bursaspor
+Sat Dec 13 2003,A. Sebatspor,1-2,1-0,Besiktas
+Sat Dec 13 2003,Fenerbahce,2-0,0-0,Denizlispor
+Sat Dec 13 2003,Gaziantepspor,3-1,1-1,Elazigspor
+Sat Dec 13 2003,Genclerbirligi,1-0,0-0,Istanbulspor
+Sun Dec 14 2003,Adanaspor,1-3,0-1,Ankaragucu
+Sun Dec 14 2003,Bursaspor,0-0,0-0,Diyarbakirspor
+Sun Dec 14 2003,Galatasaray,1-2,0-2,Trabzonspor
+Sun Dec 14 2003,Konyaspor,3-3,2-1,Malatyaspor
+Sun Dec 14 2003,Rizespor,1-2,0-0,Samsunspor
+Sat Dec 20 2003,Besiktas,5-3,1-1,Rizespor
+Sat Dec 20 2003,Elazigspor,2-2,1-2,Galatasaray
+Sat Dec 20 2003,Trabzonspor,1-3,1-1,Genclerbirligi
+Sun Dec 21 2003,Ankaragucu,1-1,1-0,A. Sebatspor
+Sun Dec 21 2003,Denizlispor,1-1,1-1,Adanaspor
+Sun Dec 21 2003,Diyarbakirspor,2-1,0-1,Gaziantepspor
+Sun Dec 21 2003,Istanbulspor,2-3,1-1,Konyaspor
+Sun Dec 21 2003,Malatyaspor,2-2,1-2,Fenerbahce
+Sun Dec 21 2003,Samsunspor,0-0,0-0,Bursaspor
+Sun Jan 18 2004,Fenerbahce,4-1,2-0,Rizespor
+Fri Jan 23 2004,Diyarbakirspor,0-0,0-0,Galatasaray
+Sat Jan 24 2004,Denizlispor,1-2,0-0,A. Sebatspor
+Sun Jan 25 2004,Ankaragucu,4-1,2-0,Rizespor
+Sun Jan 25 2004,Besiktas,1-4,1-1,Samsunspor
+Sun Jan 25 2004,Elazigspor,1-1,0-1,Genclerbirligi
+Sun Jan 25 2004,Gaziantepspor,3-2,1-1,Bursaspor
+Sun Jan 25 2004,Istanbulspor,0-1,0-1,Fenerbahce
+Sun Jan 25 2004,Malatyaspor,2-0,1-0,Adanaspor
+Sun Jan 25 2004,Trabzonspor,0-3,0-1,Konyaspor
+Sat Jan 31 2004,Galatasaray,3-0,1-0,Gaziantepspor
+Sun Feb 1 2004,A. Sebatspor,2-2,1-1,Malatyaspor
+Sun Feb 1 2004,Adanaspor,1-1,0-1,Istanbulspor
+Sun Feb 1 2004,Bursaspor,0-1,0-0,Besiktas
+Sun Feb 1 2004,Fenerbahce,3-1,2-1,Trabzonspor
+Sun Feb 1 2004,Genclerbirligi,3-4,1-1,Diyarbakirspor
+Sun Feb 1 2004,Konyaspor,2-0,2-0,Elazigspor
+Sun Feb 1 2004,Rizespor,1-2,0-1,Denizlispor
+Sun Feb 1 2004,Samsunspor,3-2,1-1,Ankaragucu
+Fri Feb 6 2004,Ankaragucu,1-1,0-0,Besiktas
+Sat Feb 7 2004,Denizlispor,1-0,1-0,Samsunspor
+Sat Feb 7 2004,Diyarbakirspor,1-1,0-0,Konyaspor
+Sat Feb 7 2004,Elazigspor,0-1,0-1,Fenerbahce
+Sat Feb 7 2004,Gaziantepspor,2-0,0-0,Genclerbirligi
+Sat Feb 7 2004,Malatyaspor,0-1,0-0,Rizespor
+Sun Feb 8 2004,Galatasaray,0-0,0-0,Bursaspor
+Sun Feb 8 2004,Istanbulspor,1-3,1-2,A. Sebatspor
+Sun Feb 8 2004,Trabzonspor,2-1,0-1,Adanaspor
+Sat Feb 14 2004,Adanaspor,1-2,0-0,Elazigspor
+Sat Feb 14 2004,Samsunspor,1-0,0-0,Malatyaspor
+Sun Feb 15 2004,A. Sebatspor,0-0,0-0,Trabzonspor
+Sun Feb 15 2004,Besiktas,3-1,1-1,Denizlispor
+Sun Feb 15 2004,Bursaspor,1-0,1-0,Ankaragucu
+Sun Feb 15 2004,Fenerbahce,2-2,0-1,Diyarbakirspor
+Sun Feb 15 2004,Genclerbirligi,2-2,2-1,Galatasaray
+Sun Feb 15 2004,Konyaspor,0-3,0-1,Gaziantepspor
+Mon Feb 16 2004,Rizespor,1-0,1-0,Istanbulspor
+Sat Feb 21 2004,Galatasaray,2-1,1-0,Konyaspor
+Sat Feb 21 2004,Genclerbirligi,2-0,1-0,Bursaspor
+Sat Feb 21 2004,Malatyaspor,0-0,0-0,Besiktas
+Sun Feb 22 2004,Denizlispor,0-1,0-1,Ankaragucu
+Sun Feb 22 2004,Diyarbakirspor,3-1,1-1,Adanaspor
+Sun Feb 22 2004,Gaziantepspor,1-5,0-2,Fenerbahce
+Sun Feb 22 2004,Istanbulspor,0-0,0-0,Samsunspor
+Sun Feb 22 2004,Trabzonspor,1-0,1-0,Rizespor
+Mon Feb 23 2004,Elazigspor,3-1,1-0,A. Sebatspor
+Sat Feb 28 2004,Rizespor,5-4,2-1,Elazigspor
+Sat Feb 28 2004,Samsunspor,1-3,0-1,Trabzonspor
+Sun Feb 29 2004,A. Sebatspor,0-1,0-0,Diyarbakirspor
+Sun Feb 29 2004,Adanaspor,2-3,2-3,Gaziantepspor
+Sun Feb 29 2004,Ankaragucu,0-0,0-0,Malatyaspor
+Sun Feb 29 2004,Besiktas,1-2,1-1,Istanbulspor
+Sun Feb 29 2004,Bursaspor,0-1,0-0,Denizlispor
+Sun Feb 29 2004,Fenerbahce,2-1,1-1,Galatasaray
+Sun Feb 29 2004,Konyaspor,4-1,2-0,Genclerbirligi
+Sat Mar 6 2004,Diyarbakirspor,0-1,0-0,Rizespor
+Sat Mar 6 2004,Elazigspor,1-0,1-0,Samsunspor
+Sat Mar 6 2004,Genclerbirligi,0-1,0-1,Fenerbahce
+Sat Mar 6 2004,Konyaspor,1-1,0-0,Bursaspor
+Sun Mar 7 2004,Galatasaray,3-2,1-1,Adanaspor
+Sun Mar 7 2004,Gaziantepspor,2-2,2-0,A. Sebatspor
+Sun Mar 7 2004,Istanbulspor,2-3,0-1,Ankaragucu
+Sun Mar 7 2004,Malatyaspor,0-1,0-1,Denizlispor
+Sun Mar 7 2004,Trabzonspor,3-0,2-0,Besiktas
+Fri Mar 12 2004,Ankaragucu,1-2,0-1,Trabzonspor
+Sat Mar 13 2004,A. Sebatspor,2-1,0-1,Galatasaray
+Sat Mar 13 2004,Bursaspor,3-2,1-2,Malatyaspor
+Sat Mar 13 2004,Denizlispor,2-0,1-0,Istanbulspor
+Sat Mar 13 2004,Fenerbahce,5-2,2-0,Konyaspor
+Sun Mar 14 2004,Besiktas,5-3,3-2,Elazigspor
+Sun Mar 14 2004,Rizespor,1-2,1-1,Gaziantepspor
+Sun Mar 14 2004,Samsunspor,3-1,1-1,Diyarbakirspor
+Fri Mar 19 2004,Diyarbakirspor,3-1,1-0,Besiktas
+Sat Mar 20 2004,Galatasaray,1-2,1-2,Rizespor
+Sat Mar 20 2004,Gaziantepspor,1-0,1-0,Samsunspor
+Sat Mar 20 2004,Konyaspor,4-1,3-0,Adanaspor
+Sun Mar 21 2004,Elazigspor,1-2,0-0,Ankaragucu
+Sun Mar 21 2004,Fenerbahce,3-1,1-1,Bursaspor
+Sun Mar 21 2004,Genclerbirligi,3-1,0-0,A. Sebatspor
+Sun Mar 21 2004,Istanbulspor,0-0,0-0,Malatyaspor
+Sun Mar 21 2004,Trabzonspor,1-0,0-0,Denizlispor
+Fri Mar 26 2004,Samsunspor,1-0,0-0,Galatasaray
+Sat Mar 27 2004,A. Sebatspor,1-1,0-0,Konyaspor
+Sat Mar 27 2004,Adanaspor,1-2,1-1,Fenerbahce
+Sat Mar 27 2004,Ankaragucu,3-1,2-0,Diyarbakirspor
+Sat Mar 27 2004,Besiktas,4-1,3-1,Gaziantepspor
+Sat Mar 27 2004,Bursaspor,1-1,0-0,Istanbulspor
+Sat Mar 27 2004,Denizlispor,3-0,0-0,Elazigspor
+Sat Mar 27 2004,Malatyaspor,2-3,2-1,Trabzonspor
+Sat Mar 27 2004,Rizespor,2-0,1-0,Genclerbirligi
+Wed Mar 31 2004,Adanaspor,2-2,0-0,Genclerbirligi
+Sat Apr 3 2004,Diyarbakirspor,0-1,0-0,Denizlispor
+Sat Apr 3 2004,Fenerbahce,4-2,3-1,A. Sebatspor
+Sat Apr 3 2004,Gaziantepspor,2-1,1-1,Ankaragucu
+Sat Apr 3 2004,Trabzonspor,2-0,1-0,Istanbulspor
+Sun Apr 4 2004,Adanaspor,0-3,0-0,Bursaspor
+Sun Apr 4 2004,Elazigspor,0-0,0-0,Malatyaspor
+Sun Apr 4 2004,Galatasaray,1-2,1-0,Besiktas
+Sun Apr 4 2004,Genclerbirligi,2-1,0-0,Samsunspor
+Sun Apr 4 2004,Konyaspor,2-1,1-1,Rizespor
+Fri Apr 9 2004,Rizespor,1-0,0-0,Fenerbahce
+Sat Apr 10 2004,A. Sebatspor,4-3,2-1,Adanaspor
+Sat Apr 10 2004,Ankaragucu,1-0,0-0,Galatasaray
+Sat Apr 10 2004,Bursaspor,1-2,0-1,Trabzonspor
+Sat Apr 10 2004,Istanbulspor,3-1,1-0,Elazigspor
+Sun Apr 11 2004,Besiktas,2-2,1-2,Genclerbirligi
+Sun Apr 11 2004,Denizlispor,2-0,1-0,Gaziantepspor
+Sun Apr 11 2004,Malatyaspor,5-0,2-0,Diyarbakirspor
+Fri Apr 16 2004,Galatasaray,4-3,3-3,Denizlispor
+Sat Apr 17 2004,Elazigspor,0-3,0-0,Trabzonspor
+Sat Apr 17 2004,Gaziantepspor,1-3,0-2,Malatyaspor
+Sat Apr 17 2004,Genclerbirligi,1-2,1-1,Ankaragucu
+Sat Apr 17 2004,Konyaspor,2-2,2-1,Besiktas
+Sun Apr 18 2004,A. Sebatspor,0-1,0-0,Bursaspor
+Sun Apr 18 2004,Adanaspor,0-1,0-1,Rizespor
+Sun Apr 18 2004,Diyarbakirspor,1-2,1-1,Istanbulspor
+Sun Apr 18 2004,Fenerbahce,1-1,1-0,Samsunspor
+Wed Apr 21 2004,Samsunspor,2-3,0-2,Konyaspor
+Fri Apr 23 2004,Malatyaspor,1-2,0-0,Galatasaray
+Sat Apr 24 2004,Bursaspor,4-0,1-0,Elazigspor
+Sat Apr 24 2004,Istanbulspor,0-1,0-0,Gaziantepspor
+Sat Apr 24 2004,Rizespor,0-1,0-1,A. Sebatspor
+Sat Apr 24 2004,Trabzonspor,2-0,1-0,Diyarbakirspor
+Sun Apr 25 2004,Ankaragucu,1-0,0-0,Konyaspor
+Sun Apr 25 2004,Besiktas,1-3,0-1,Fenerbahce
+Sun Apr 25 2004,Denizlispor,1-2,0-1,Genclerbirligi
+Sun Apr 25 2004,Samsunspor,2-1,2-0,Adanaspor
+Fri Apr 30 2004,Adanaspor,1-0,0-0,Besiktas
+Sat May 1 2004,Fenerbahce,3-1,0-1,Ankaragucu
+Sat May 1 2004,Gaziantepspor,1-2,0-1,Trabzonspor
+Sat May 1 2004,Genclerbirligi,2-2,1-2,Malatyaspor
+Sat May 1 2004,Konyaspor,1-1,0-1,Denizlispor
+Sun May 2 2004,A. Sebatspor,1-0,0-0,Samsunspor
+Sun May 2 2004,Bursaspor,4-2,0-2,Rizespor
+Sun May 2 2004,Elazigspor,0-1,0-1,Diyarbakirspor
+Sun May 2 2004,Galatasaray,2-2,1-1,Istanbulspor
+Sat May 8 2004,Ankaragucu,1-2,0-0,Adanaspor
+Sat May 8 2004,Elazigspor,1-2,1-1,Gaziantepspor
+Sat May 8 2004,Malatyaspor,1-3,0-1,Konyaspor
+Sun May 9 2004,Besiktas,0-2,0-2,A. Sebatspor
+Sun May 9 2004,Denizlispor,0-4,0-3,Fenerbahce
+Sun May 9 2004,Diyarbakirspor,0-3,0-1,Bursaspor
+Sun May 9 2004,Istanbulspor,3-0,2-0,Genclerbirligi
+Sun May 9 2004,Samsunspor,2-1,1-1,Rizespor
+Sun May 9 2004,Trabzonspor,2-4,0-2,Galatasaray
+Fri May 14 2004,Fenerbahce,2-4,1-2,Malatyaspor
+Sat May 15 2004,A. Sebatspor,3-2,3-2,Ankaragucu
+Sat May 15 2004,Adanaspor,4-1,1-0,Denizlispor
+Sat May 15 2004,Bursaspor,1-0,1-0,Samsunspor
+Sat May 15 2004,Galatasaray,3-1,1-1,Elazigspor
+Sat May 15 2004,Gaziantepspor,4-1,1-0,Diyarbakirspor
+Sat May 15 2004,Genclerbirligi,2-2,1-2,Trabzonspor
+Sat May 15 2004,Konyaspor,0-2,0-2,Istanbulspor
+Sat May 15 2004,Rizespor,1-0,1-0,Besiktas

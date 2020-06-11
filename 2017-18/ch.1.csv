@@ -1,0 +1,181 @@
+Date,Team 1,FT,HT,Team 2
+Sat Jul 22 2017,Lausanne,3-3,?,St. Gallen
+Sat Jul 22 2017,Young Boys,2-0,?,Basel
+Sun Jul 23 2017,Grasshoppers,0-2,?,Zurich
+Sun Jul 23 2017,Luzern,1-0,?,Lugano
+Sun Jul 23 2017,Thun,0-1,?,Sion
+Sat Jul 29 2017,Grasshoppers,0-4,?,Young Boys
+Sun Jul 30 2017,Basel,3-1,?,Luzern
+Sun Jul 30 2017,Lausanne,0-1,?,Sion
+Sun Jul 30 2017,Zurich,2-1,?,Thun
+Sat Aug 5 2017,Lugano,0-0,?,Zurich
+Sat Aug 5 2017,Thun,0-3,?,Basel
+Sun Aug 6 2017,Luzern,2-2,?,Grasshoppers
+Sun Aug 6 2017,St. Gallen,2-0,?,Sion
+Sun Aug 6 2017,Young Boys,3-0,?,Lausanne
+Wed Aug 9 2017,Lausanne,2-3,?,Lugano
+Wed Aug 9 2017,St. Gallen,0-2,?,Luzern
+Wed Aug 9 2017,Young Boys,0-4,?,Thun
+Thu Aug 10 2017,Basel,3-2,?,Grasshoppers
+Thu Aug 10 2017,Zurich,2-0,?,Sion
+Wed Aug 16 2017,Lugano,0-1,?,St. Gallen
+Sat Aug 19 2017,Thun,5-2,?,Lausanne
+Sat Aug 19 2017,Zurich,0-0,?,Young Boys
+Sun Aug 20 2017,Basel,1-1,?,Lugano
+Sun Aug 20 2017,Grasshoppers,2-0,?,St. Gallen
+Sun Aug 20 2017,Sion,1-1,?,Luzern
+Sat Aug 26 2017,Lausanne,1-1,?,Grasshoppers
+Sat Aug 26 2017,Lugano,4-1,?,Thun
+Sun Aug 27 2017,Luzern,1-1,?,Zurich
+Sun Aug 27 2017,Sion,1-1,?,Basel
+Sun Aug 27 2017,St. Gallen,2-2,?,Young Boys
+Sat Sep 9 2017,Basel,1-2,?,Lausanne
+Sat Sep 9 2017,Zurich,1-1,?,St. Gallen
+Sun Sep 10 2017,Grasshoppers,3-2,?,Sion
+Sun Sep 10 2017,Luzern,2-2,?,Thun
+Sun Sep 10 2017,Young Boys,3-0,?,Lugano
+Wed Sep 20 2017,Lausanne,1-1,?,Zurich
+Wed Sep 20 2017,St. Gallen,2-1,?,Basel
+Wed Sep 20 2017,Young Boys,4-1,?,Luzern
+Thu Sep 21 2017,Lugano,1-2,?,Sion
+Thu Sep 21 2017,Thun,2-2,?,Grasshoppers
+Sat Sep 23 2017,Basel,1-0,?,Zurich
+Sat Sep 23 2017,Luzern,2-3,?,Lausanne
+Sun Sep 24 2017,Lugano,0-3,?,Grasshoppers
+Sun Sep 24 2017,Sion,0-1,?,Young Boys
+Sun Sep 24 2017,St. Gallen,3-0,?,Thun
+Wed Sep 27 2017,Sion,1-1,?,Lausanne
+Sat Sep 30 2017,Grasshoppers,0-0,?,Basel
+Sun Oct 1 2017,Thun,2-0,?,Luzern
+Sun Oct 1 2017,Young Boys,6-1,?,St. Gallen
+Sun Oct 1 2017,Zurich,3-0,?,Lugano
+Sat Oct 14 2017,Lausanne,2-1,?,Young Boys
+Sat Oct 14 2017,Lugano,0-4,?,Basel
+Sun Oct 15 2017,Grasshoppers,1-1,?,Luzern
+Sun Oct 15 2017,Sion,1-2,?,St. Gallen
+Sun Oct 15 2017,Thun,1-3,?,Zurich
+Sat Oct 21 2017,Basel,2-1,?,Thun
+Sat Oct 21 2017,Zurich,0-4,?,Grasshoppers
+Sun Oct 22 2017,Luzern,0-1,?,Young Boys
+Sun Oct 22 2017,Sion,2-2,?,Lugano
+Sun Oct 22 2017,St. Gallen,0-4,?,Lausanne
+Sat Oct 28 2017,Lausanne,1-3,?,Thun
+Sat Oct 28 2017,Zurich,0-0,?,Basel
+Sun Oct 29 2017,Lugano,1-0,?,Luzern
+Sun Oct 29 2017,St. Gallen,3-1,?,Grasshoppers
+Sun Oct 29 2017,Young Boys,5-1,?,Sion
+Sat Nov 4 2017,Grasshoppers,2-0,?,Lausanne
+Sat Nov 4 2017,Sion,1-1,?,Zurich
+Sun Nov 5 2017,Basel,1-1,?,Young Boys
+Sun Nov 5 2017,Luzern,3-0,?,St. Gallen
+Sun Nov 5 2017,Thun,1-1,?,Lugano
+Sat Nov 18 2017,Basel,5-1,?,Sion
+Sat Nov 18 2017,St. Gallen,0-2,?,Lugano
+Sun Nov 19 2017,Grasshoppers,2-0,?,Thun
+Sun Nov 19 2017,Lausanne,3-1,?,Luzern
+Sun Nov 19 2017,Young Boys,2-1,?,Zurich
+Sat Nov 25 2017,Luzern,1-4,?,Basel
+Sat Nov 25 2017,Thun,1-2,?,St. Gallen
+Sun Nov 26 2017,Lugano,1-2,?,Young Boys
+Sun Nov 26 2017,Sion,3-0,?,Grasshoppers
+Sun Nov 26 2017,Zurich,2-0,?,Lausanne
+Sat Dec 2 2017,Lausanne,1-4,?,Basel
+Sat Dec 2 2017,Luzern,2-1,?,Sion
+Sun Dec 3 2017,Grasshoppers,0-1,?,Lugano
+Sun Dec 3 2017,St. Gallen,1-3,?,Zurich
+Sun Dec 3 2017,Thun,3-1,?,Young Boys
+Sat Dec 9 2017,Basel,3-0,?,St. Gallen
+Sat Dec 9 2017,Sion,2-3,?,Thun
+Sun Dec 10 2017,Lugano,1-2,?,Lausanne
+Sun Dec 10 2017,Young Boys,1-1,?,Grasshoppers
+Sun Dec 10 2017,Zurich,1-2,?,Luzern
+Sat Dec 16 2017,St. Gallen,3-2,?,Sion
+Sat Dec 16 2017,Thun,0-2,?,Lugano
+Sun Dec 17 2017,Grasshoppers,0-2,?,Basel
+Sun Dec 17 2017,Lausanne,5-1,?,Zurich
+Sun Dec 17 2017,Luzern,2-4,?,Young Boys
+Sat Feb 3 2018,Luzern,2-1,?,Lausanne
+Sat Feb 3 2018,Young Boys,2-0,?,St. Gallen
+Sun Feb 4 2018,Basel,0-1,?,Lugano
+Sun Feb 4 2018,Sion,1-3,?,Grasshoppers
+Sun Feb 4 2018,Zurich,2-4,?,Thun
+Sat Feb 10 2018,Lugano,1-0,?,Sion
+Sat Feb 10 2018,Thun,0-2,?,Basel
+Sun Feb 11 2018,Grasshoppers,1-2,?,Luzern
+Sun Feb 11 2018,Lausanne,1-4,?,Young Boys
+Sun Feb 11 2018,St. Gallen,1-2,?,Zurich
+Sat Feb 17 2018,Basel,0-2,?,St. Gallen
+Sat Feb 17 2018,Lugano,1-0,?,Grasshoppers
+Sun Feb 18 2018,Sion,3-1,?,Lausanne
+Sun Feb 18 2018,Young Boys,3-1,?,Thun
+Sun Feb 18 2018,Zurich,1-1,?,Luzern
+Sat Feb 24 2018,Young Boys,1-0,?,Sion
+Sun Feb 25 2018,Grasshoppers,1-0,?,Zurich
+Sun Feb 25 2018,Luzern,2-1,?,Thun
+Sun Feb 25 2018,St. Gallen,3-0,?,Lugano
+Sat Mar 3 2018,Grasshoppers,0-0,?,Lausanne
+Sun Mar 4 2018,Lugano,2-4,?,Young Boys
+Sun Mar 4 2018,Sion,1-1,?,Luzern
+Sun Mar 4 2018,Thun,1-2,?,St. Gallen
+Sat Mar 10 2018,Lausanne,1-4,?,St. Gallen
+Sat Mar 10 2018,Zurich,3-0,?,Lugano
+Sun Mar 11 2018,Luzern,1-0,?,Basel
+Sun Mar 11 2018,Sion,7-2,?,Thun
+Sun Mar 11 2018,Young Boys,3-1,?,Grasshoppers
+Wed Mar 14 2018,Lausanne,1-1,?,Basel
+Sat Mar 17 2018,St. Gallen,2-1,?,Grasshoppers
+Sat Mar 17 2018,Zurich,1-2,?,Young Boys
+Sun Mar 18 2018,Basel,1-0,?,Sion
+Sun Mar 18 2018,Lugano,1-2,?,Luzern
+Sun Mar 18 2018,Thun,0-0,?,Lausanne
+Sat Mar 31 2018,Grasshoppers,0-2,?,Thun
+Sat Mar 31 2018,Sion,1-1,?,Zurich
+Mon Apr 2 2018,Lausanne,2-1,?,Lugano
+Mon Apr 2 2018,Luzern,3-1,?,St. Gallen
+Mon Apr 2 2018,Young Boys,2-2,?,Basel
+Sat Apr 7 2018,Thun,1-0,?,Luzern
+Sat Apr 7 2018,Zurich,1-1,?,Grasshoppers
+Sun Apr 8 2018,Lausanne,0-2,?,Sion
+Sun Apr 8 2018,Lugano,0-1,?,Basel
+Sun Apr 8 2018,St. Gallen,2-4,?,Young Boys
+Wed Apr 11 2018,Basel,3-0,?,Zurich
+Sat Apr 14 2018,Grasshoppers,1-2,?,St. Gallen
+Sat Apr 14 2018,Lugano,1-1,?,Thun
+Sun Apr 15 2018,Basel,2-1,?,Lausanne
+Sun Apr 15 2018,Luzern,0-1,?,Sion
+Sun Apr 15 2018,Young Boys,1-0,?,Zurich
+Wed Apr 18 2018,Basel,1-0,?,Grasshoppers
+Wed Apr 18 2018,Sion,0-1,?,Lugano
+Wed Apr 18 2018,Thun,2-2,?,Young Boys
+Wed Apr 18 2018,Zurich,4-0,?,St. Gallen
+Thu Apr 19 2018,Lausanne,0-1,?,Luzern
+Sat Apr 21 2018,Grasshoppers,4-3,?,Lugano
+Sat Apr 21 2018,St. Gallen,0-1,?,Thun
+Sun Apr 22 2018,Luzern,2-1,?,Zurich
+Sun Apr 22 2018,Sion,2-2,?,Basel
+Sun Apr 22 2018,Young Boys,4-1,?,Lausanne
+Sat Apr 28 2018,Lausanne,0-1,?,Grasshoppers
+Sat Apr 28 2018,Young Boys,2-1,?,Luzern
+Sun Apr 29 2018,Basel,6-1,?,Thun
+Sun Apr 29 2018,Lugano,2-1,?,St. Gallen
+Sun Apr 29 2018,Zurich,3-3,?,Sion
+Sat May 5 2018,Luzern,2-0,?,Lugano
+Sat May 5 2018,Sion,0-1,?,Young Boys
+Sun May 6 2018,St. Gallen,2-4,?,Basel
+Sun May 6 2018,Thun,2-1,?,Grasshoppers
+Sun May 6 2018,Zurich,1-1,?,Lausanne
+Wed May 9 2018,Grasshoppers,0-2,?,Sion
+Wed May 9 2018,St. Gallen,2-3,?,Luzern
+Wed May 9 2018,Thun,0-1,?,Zurich
+Thu May 10 2018,Basel,5-1,?,Young Boys
+Thu May 10 2018,Lugano,2-0,?,Lausanne
+Sun May 13 2018,Lausanne,0-3,?,Thun
+Sun May 13 2018,Luzern,1-1,?,Grasshoppers
+Sun May 13 2018,Sion,3-2,?,St. Gallen
+Sun May 13 2018,Young Boys,3-1,?,Lugano
+Sun May 13 2018,Zurich,4-1,?,Basel
+Sat May 19 2018,Basel,2-2,?,Luzern
+Sat May 19 2018,Grasshoppers,1-2,?,Young Boys
+Sat May 19 2018,Lugano,1-1,?,Zurich
+Sat May 19 2018,St. Gallen,0-3,?,Lausanne
+Sat May 19 2018,Thun,1-4,?,Sion

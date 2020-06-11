@@ -1,0 +1,183 @@
+Date,Team 1,FT,HT,Team 2
+Sat Jul 21 2018,Basel,1-2,?,St. Gallen
+Sat Jul 21 2018,Luzern,0-2,?,Xamax
+Sun Jul 22 2018,Sion,1-2,?,Lugano
+Sun Jul 22 2018,Young Boys,2-0,?,Grasshoppers
+Sun Jul 22 2018,Zurich,2-1,?,Thun
+Sat Jul 28 2018,Grasshoppers,0-2,?,Zurich
+Sat Jul 28 2018,Xamax,1-1,?,Basel
+Sun Jul 29 2018,Lugano,0-2,?,Young Boys
+Sun Jul 29 2018,St. Gallen,2-4,?,Sion
+Sun Jul 29 2018,Thun,2-1,?,Luzern
+Sat Aug 4 2018,Basel,4-2,?,Grasshoppers
+Sat Aug 4 2018,Luzern,4-2,?,Lugano
+Sun Aug 5 2018,Sion,3-0,?,Xamax
+Sun Aug 5 2018,St. Gallen,3-2,?,Thun
+Sun Aug 5 2018,Young Boys,4-0,?,Zurich
+Sat Aug 11 2018,Lugano,2-2,?,Grasshoppers
+Sat Aug 11 2018,Xamax,1-5,?,Thun
+Sun Aug 12 2018,Basel,3-2,?,Sion
+Sun Aug 12 2018,Luzern,2-3,?,Young Boys
+Sun Aug 12 2018,Zurich,0-0,?,St. Gallen
+Sat Aug 25 2018,Grasshoppers,2-1,?,Sion
+Sat Aug 25 2018,Young Boys,5-2,?,Xamax
+Sun Aug 26 2018,St. Gallen,0-1,?,Luzern
+Sun Aug 26 2018,Thun,1-1,?,Lugano
+Sun Aug 26 2018,Zurich,1-1,?,Basel
+Sat Sep 1 2018,Lugano,1-0,?,Zurich
+Sat Sep 1 2018,Sion,0-3,?,Young Boys
+Sun Sep 2 2018,Basel,1-1,?,Thun
+Sun Sep 2 2018,Luzern,2-1,?,Grasshoppers
+Sun Sep 2 2018,Xamax,2-3,?,St. Gallen
+Sat Sep 22 2018,Grasshoppers,3-1,?,Xamax
+Sat Sep 22 2018,Thun,4-1,?,Sion
+Sun Sep 23 2018,St. Gallen,2-2,?,Lugano
+Sun Sep 23 2018,Young Boys,7-1,?,Basel
+Sun Sep 23 2018,Zurich,1-0,?,Luzern
+Tue Sep 25 2018,Grasshoppers,0-2,?,Thun
+Wed Sep 26 2018,Basel,2-1,?,Luzern
+Wed Sep 26 2018,Xamax,2-1,?,Lugano
+Wed Sep 26 2018,Young Boys,2-0,?,St. Gallen
+Thu Sep 27 2018,Sion,1-2,?,Zurich
+Sat Sep 29 2018,St. Gallen,2-1,?,Grasshoppers
+Sat Sep 29 2018,Thun,1-4,?,Young Boys
+Sun Sep 30 2018,Lugano,2-2,?,Basel
+Sun Sep 30 2018,Luzern,1-3,?,Sion
+Sun Sep 30 2018,Zurich,0-0,?,Xamax
+Sat Oct 6 2018,St. Gallen,1-3,?,Basel
+Sat Oct 6 2018,Young Boys,2-3,?,Luzern
+Sun Oct 7 2018,Grasshoppers,2-1,?,Lugano
+Sun Oct 7 2018,Thun,2-2,?,Zurich
+Sun Oct 7 2018,Xamax,1-1,?,Sion
+Sat Oct 20 2018,Luzern,0-2,?,Thun
+Sat Oct 20 2018,Zurich,3-3,?,Young Boys
+Sun Oct 21 2018,Basel,1-1,?,Xamax
+Sun Oct 21 2018,Lugano,3-1,?,St. Gallen
+Sun Oct 21 2018,Sion,0-0,?,Grasshoppers
+Sat Oct 27 2018,Grasshoppers,1-3,?,Basel
+Sat Oct 27 2018,Young Boys,3-2,?,Sion
+Sun Oct 28 2018,Lugano,2-1,?,Thun
+Sun Oct 28 2018,St. Gallen,3-2,?,Zurich
+Sun Oct 28 2018,Xamax,1-2,?,Luzern
+Sat Nov 3 2018,Grasshoppers,0-3,?,Young Boys
+Sat Nov 3 2018,Thun,2-2,?,Xamax
+Sun Nov 4 2018,Basel,3-2,?,Lugano
+Sun Nov 4 2018,Luzern,2-5,?,Zurich
+Sun Nov 4 2018,Sion,0-1,?,St. Gallen
+Sat Nov 10 2018,Lugano,1-4,?,Luzern
+Sat Nov 10 2018,Thun,4-2,?,Basel
+Sun Nov 11 2018,St. Gallen,2-3,?,Young Boys
+Sun Nov 11 2018,Xamax,2-3,?,Grasshoppers
+Sun Nov 11 2018,Zurich,1-2,?,Sion
+Sat Nov 24 2018,Xamax,3-3,?,Zurich
+Sat Nov 24 2018,Young Boys,1-0,?,Lugano
+Sun Nov 25 2018,Grasshoppers,2-1,?,St. Gallen
+Sun Nov 25 2018,Luzern,1-1,?,Basel
+Sun Nov 25 2018,Sion,2-1,?,Thun
+Sat Dec 1 2018,Sion,2-0,?,Luzern
+Sat Dec 1 2018,Thun,2-0,?,St. Gallen
+Sun Dec 2 2018,Basel,1-3,?,Young Boys
+Sun Dec 2 2018,Lugano,2-2,?,Xamax
+Sun Dec 2 2018,Zurich,2-0,?,Grasshoppers
+Sat Dec 8 2018,St. Gallen,3-2,?,Xamax
+Sat Dec 8 2018,Young Boys,3-2,?,Thun
+Sun Dec 9 2018,Basel,2-0,?,Zurich
+Sun Dec 9 2018,Grasshoppers,2-3,?,Luzern
+Sun Dec 9 2018,Lugano,2-2,?,Sion
+Sat Dec 15 2018,Sion,1-2,?,Basel
+Sat Dec 15 2018,Thun,1-0,?,Grasshoppers
+Sun Dec 16 2018,Luzern,2-1,?,St. Gallen
+Sun Dec 16 2018,Xamax,1-4,?,Young Boys
+Sun Dec 16 2018,Zurich,0-0,?,Lugano
+Sat Feb 2 2019,Young Boys,2-0,?,Xamax
+Sun Feb 3 2019,Grasshoppers,0-4,?,Basel
+Wed Feb 6 2019,Lugano,1-3,?,Thun
+Wed Feb 6 2019,St. Gallen,3-1,?,Zurich
+Sat Feb 9 2019,Basel,1-1,?,St. Gallen
+Sat Feb 9 2019,Zurich,3-1,?,Grasshoppers
+Sun Feb 10 2019,Sion,2-2,?,Lugano
+Sun Feb 10 2019,Thun,1-1,?,Young Boys
+Sun Feb 10 2019,Xamax,2-1,?,Luzern
+Wed Feb 13 2019,Luzern,1-3,?,Sion
+Sat Feb 16 2019,Luzern,0-3,?,Lugano
+Sat Feb 16 2019,St. Gallen,1-3,?,Thun
+Sun Feb 17 2019,Basel,1-0,?,Sion
+Sun Feb 17 2019,Grasshoppers,0-1,?,Xamax
+Sun Feb 17 2019,Young Boys,2-0,?,Zurich
+Sat Feb 23 2019,Sion,2-2,?,St. Gallen
+Sat Feb 23 2019,Xamax,0-2,?,Basel
+Sun Feb 24 2019,Lugano,0-1,?,Young Boys
+Sun Feb 24 2019,Thun,1-1,?,Grasshoppers
+Sun Feb 24 2019,Zurich,1-1,?,Luzern
+Sat Mar 2 2019,Grasshoppers,1-3,?,Luzern
+Sat Mar 2 2019,Young Boys,1-0,?,Sion
+Sun Mar 3 2019,Basel,3-1,?,Thun
+Sun Mar 3 2019,St. Gallen,3-0,?,Xamax
+Sun Mar 3 2019,Zurich,0-1,?,Lugano
+Sat Mar 9 2019,Grasshoppers,0-1,?,Young Boys
+Sat Mar 9 2019,Xamax,3-1,?,Sion
+Sun Mar 10 2019,Lugano,1-1,?,Basel
+Sun Mar 10 2019,Luzern,3-0,?,St. Gallen
+Sun Mar 10 2019,Thun,2-2,?,Zurich
+Sat Mar 16 2019,St. Gallen,0-2,?,Lugano
+Sat Mar 16 2019,Sion,3-0,?,Grasshoppers
+Sun Mar 17 2019,Basel,2-2,?,Young Boys
+Sun Mar 17 2019,Thun,1-1,?,Luzern
+Sun Mar 17 2019,Zurich,2-1,?,Xamax
+Sat Mar 30 2019,Luzern,0-1,?,Basel
+Sat Mar 30 2019,Sion,1-0,?,Zurich
+Sun Mar 31 2019,Grasshoppers,1-1,?,Lugano
+Sun Mar 31 2019,Xamax,3-2,?,Thun
+Sun Mar 31 2019,Young Boys,3-2,?,St. Gallen
+Wed Apr 3 2019,Lugano,0-0,?,Xamax
+Wed Apr 3 2019,St. Gallen,0-0,?,Grasshoppers
+Wed Apr 3 2019,Zurich,0-2,?,Basel
+Thu Apr 4 2019,Thun,1-2,?,Sion
+Sat Apr 6 2019,Grasshoppers,1-1,?,Zurich
+Sat Apr 6 2019,Xamax,0-1,?,St. Gallen
+Sun Apr 7 2019,Basel,1-1,?,Lugano
+Sun Apr 7 2019,Sion,2-2,?,Luzern
+Sun Apr 7 2019,Young Boys,5-1,?,Thun
+Wed Apr 10 2019,Luzern,1-3,?,Young Boys
+Sat Apr 13 2019,Basel,0-0,?,Grasshoppers
+Sat Apr 13 2019,Luzern,0-1,?,Xamax
+Sun Apr 14 2019,Lugano,1-1,?,Sion
+Sun Apr 14 2019,Thun,0-0,?,St. Gallen
+Sun Apr 14 2019,Zurich,0-1,?,Young Boys
+Fri Apr 19 2019,Lugano,3-0,?,Zurich
+Fri Apr 19 2019,Sion,0-3,?,Basel
+Sat Apr 20 2019,Grasshoppers,1-1,?,Thun
+Sat Apr 20 2019,St. Gallen,1-2,?,Luzern
+Mon Apr 22 2019,Xamax,1-0,?,Young Boys
+Sat Apr 27 2019,Luzern,3-1,?,Thun
+Sat Apr 27 2019,Xamax,1-1,?,Grasshoppers
+Sun Apr 28 2019,St. Gallen,0-3,?,Basel
+Sun Apr 28 2019,Young Boys,2-2,?,Lugano
+Sun Apr 28 2019,Zurich,1-0,?,Sion
+Sat May 4 2019,Basel,3-0,?,Zurich
+Sat May 4 2019,Grasshoppers,0-1,?,St. Gallen
+Sun May 5 2019,Lugano,1-0,?,Luzern
+Sun May 5 2019,Sion,0-4,?,Young Boys
+Sun May 5 2019,Thun,0-2,?,Xamax
+Sat May 11 2019,Thun,1-0,?,Lugano
+Sat May 11 2019,Xamax,1-2,?,Zurich
+Sun May 12 2019,St. Gallen,2-1,?,Sion
+Sun May 12 2019,Luzern,3-0,?,Grasshoppers
+Sun May 12 2019,Young Boys,3-1,?,Basel
+Wed May 15 2019,Basel,3-2,?,Luzern
+Wed May 15 2019,Sion,1-0,?,Xamax
+Wed May 15 2019,Zurich,3-0,?,Thun
+Thu May 16 2019,Lugano,1-0,?,St. Gallen
+Thu May 16 2019,Young Boys,6-1,?,Grasshoppers
+Wed May 22 2019,Grasshoppers,0-3,?,Sion
+Wed May 22 2019,Luzern,3-0,?,Zurich
+Wed May 22 2019,St. Gallen,4-1,?,Young Boys
+Wed May 22 2019,Thun,1-2,?,Basel
+Wed May 22 2019,Xamax,1-1,?,Lugano
+Sat May 25 2019,Basel,4-1,?,Xamax
+Sat May 25 2019,Lugano,3-3,?,Grasshoppers
+Sat May 25 2019,Sion,0-1,?,Thun
+Sat May 25 2019,Young Boys,4-0,?,Luzern
+Sat May 25 2019,Zurich,1-1,?,St. Gallen
+Thu May 30 2019,Xamax,0-4,?,Aarau
+Sun Jun 2 2019,Aarau,0-5,?,Xamax

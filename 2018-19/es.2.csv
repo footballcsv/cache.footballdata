@@ -1,0 +1,463 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 17 2018,Albacete,1-1,0-0,La Coruna
+Fri Aug 17 2018,Cadiz,1-0,0-0,Almeria
+Sat Aug 18 2018,Alcorcon,1-1,0-0,Sp Gijon
+Sat Aug 18 2018,Cordoba,3-3,1-0,Numancia
+Sat Aug 18 2018,Elche,0-0,0-0,Granada
+Sat Aug 18 2018,Lugo,1-2,1-0,Malaga
+Sun Aug 19 2018,Las Palmas,2-0,1-0,Reus Deportiu
+Sun Aug 19 2018,Mallorca,1-0,1-0,Osasuna
+Sun Aug 19 2018,Oviedo,1-1,1-0,Extremadura UD
+Sun Aug 19 2018,Zaragoza,2-1,2-0,Rayo Majadahonda
+Mon Aug 20 2018,Gimnastic,1-1,1-0,Tenerife
+Fri Aug 24 2018,Extremadura UD,0-1,0-0,La Coruna
+Fri Aug 24 2018,Malaga,1-0,0-0,Alcorcon
+Sat Aug 25 2018,Cordoba,2-4,0-2,Oviedo
+Sat Aug 25 2018,Las Palmas,1-1,1-0,Albacete
+Sat Aug 25 2018,Numancia,1-1,1-1,Cadiz
+Sat Aug 25 2018,Reus Deportiu,0-0,0-0,Zaragoza
+Sun Aug 26 2018,Almeria,1-1,1-0,Tenerife
+Sun Aug 26 2018,Granada,1-1,1-0,Lugo
+Sun Aug 26 2018,Osasuna,1-1,0-0,Elche
+Sun Aug 26 2018,Sp Gijon,2-0,1-0,Gimnastic
+Mon Aug 27 2018,Rayo Majadahonda,0-1,0-1,Mallorca
+Fri Aug 31 2018,Alcorcon,1-0,1-0,Mallorca
+Sat Sep 1 2018,Cadiz,1-1,0-0,Oviedo
+Sat Sep 1 2018,Elche,0-2,0-1,Reus Deportiu
+Sat Sep 1 2018,Lugo,3-2,0-2,Numancia
+Sat Sep 1 2018,Tenerife,2-2,0-1,La Coruna
+Sat Sep 1 2018,Zaragoza,1-1,1-0,Las Palmas
+Sun Sep 2 2018,Albacete,3-0,2-0,Cordoba
+Sun Sep 2 2018,Gimnastic,0-1,0-0,Rayo Majadahonda
+Sun Sep 2 2018,Granada,2-0,1-0,Osasuna
+Sun Sep 2 2018,Sp Gijon,2-0,0-0,Extremadura UD
+Mon Sep 3 2018,Almeria,0-1,0-0,Malaga
+Fri Sep 7 2018,Las Palmas,4-0,1-0,Gimnastic
+Fri Sep 7 2018,Mallorca,1-0,0-0,Cadiz
+Sat Sep 8 2018,Malaga,1-0,1-0,Tenerife
+Sat Sep 8 2018,Osasuna,3-1,1-1,Almeria
+Sat Sep 8 2018,Oviedo,0-4,0-1,Zaragoza
+Sun Sep 9 2018,Cordoba,0-0,0-0,Alcorcon
+Sun Sep 9 2018,Extremadura UD,1-3,0-1,Granada
+Sun Sep 9 2018,La Coruna,1-0,0-0,Sp Gijon
+Sun Sep 9 2018,Numancia,1-0,1-0,Elche
+Sun Sep 9 2018,Reus Deportiu,1-2,0-1,Albacete
+Mon Sep 10 2018,Rayo Majadahonda,1-0,1-0,Lugo
+Sat Sep 15 2018,Alcorcon,1-0,1-0,La Coruna
+Sat Sep 15 2018,Gimnastic,1-0,0-0,Osasuna
+Sat Sep 15 2018,Malaga,3-0,2-0,Cordoba
+Sat Sep 15 2018,Tenerife,0-1,0-0,Reus Deportiu
+Sun Sep 16 2018,Almeria,2-1,0-0,Zaragoza
+Sun Sep 16 2018,Elche,1-1,0-1,Mallorca
+Sun Sep 16 2018,Extremadura UD,1-2,1-1,Las Palmas
+Sun Sep 16 2018,Granada,3-0,2-0,Rayo Majadahonda
+Sun Sep 16 2018,Lugo,0-2,0-1,Oviedo
+Sun Sep 16 2018,Sp Gijon,1-1,1-1,Numancia
+Mon Sep 17 2018,Albacete,1-1,1-0,Cadiz
+Sat Sep 22 2018,Cordoba,1-1,0-1,Tenerife
+Sat Sep 22 2018,Osasuna,1-0,0-0,Sp Gijon
+Sat Sep 22 2018,Rayo Majadahonda,1-4,0-2,Extremadura UD
+Sat Sep 22 2018,Zaragoza,0-2,0-1,Lugo
+Sun Sep 23 2018,Cadiz,0-2,0-2,Alcorcon
+Sun Sep 23 2018,Las Palmas,1-0,0-0,Malaga
+Sun Sep 23 2018,Mallorca,1-3,0-1,Albacete
+Sun Sep 23 2018,Numancia,0-2,0-1,Almeria
+Sun Sep 23 2018,Oviedo,1-1,1-1,Elche
+Sun Sep 23 2018,Reus Deportiu,1-1,0-1,Gimnastic
+Mon Sep 24 2018,La Coruna,2-1,0-0,Granada
+Fri Sep 28 2018,Albacete,2-2,2-0,Zaragoza
+Sat Sep 29 2018,Granada,4-2,2-0,Cordoba
+Sat Sep 29 2018,Lugo,1-1,1-1,Mallorca
+Sat Sep 29 2018,Sp Gijon,1-0,1-0,Las Palmas
+Sat Sep 29 2018,Tenerife,1-0,1-0,Cadiz
+Sun Sep 30 2018,Alcorcon,2-0,1-0,Oviedo
+Sun Sep 30 2018,Almeria,2-0,1-0,Reus Deportiu
+Sun Sep 30 2018,Extremadura UD,2-2,2-0,Elche
+Sun Sep 30 2018,Gimnastic,1-3,1-1,La Coruna
+Sun Sep 30 2018,Malaga,1-0,1-0,Rayo Majadahonda
+Sun Sep 30 2018,Osasuna,0-0,0-0,Numancia
+Sat Oct 6 2018,Cordoba,1-0,0-0,Almeria
+Sat Oct 6 2018,Las Palmas,0-0,0-0,Alcorcon
+Sat Oct 6 2018,Mallorca,4-1,2-0,Tenerife
+Sat Oct 6 2018,Numancia,1-0,1-0,Extremadura UD
+Sun Oct 7 2018,Cadiz,1-1,1-1,Gimnastic
+Sun Oct 7 2018,Elche,2-1,1-0,Lugo
+Sun Oct 7 2018,La Coruna,1-1,0-0,Malaga
+Sun Oct 7 2018,Oviedo,1-0,1-0,Albacete
+Sun Oct 7 2018,Reus Deportiu,1-2,0-1,Granada
+Mon Oct 8 2018,Rayo Majadahonda,2-1,1-0,Sp Gijon
+Mon Oct 8 2018,Zaragoza,1-1,1-0,Osasuna
+Fri Oct 12 2018,Extremadura UD,2-1,0-1,Cadiz
+Fri Oct 12 2018,La Coruna,4-0,1-0,Elche
+Fri Oct 12 2018,Malaga,2-1,0-0,Albacete
+Sat Oct 13 2018,Almeria,3-0,1-0,Las Palmas
+Sat Oct 13 2018,Numancia,1-0,0-0,Zaragoza
+Sat Oct 13 2018,Osasuna,3-1,1-0,Cordoba
+Sat Oct 13 2018,Sp Gijon,1-1,0-0,Reus Deportiu
+Sun Oct 14 2018,Granada,1-0,1-0,Mallorca
+Sun Oct 14 2018,Rayo Majadahonda,1-0,0-0,Oviedo
+Sun Oct 14 2018,Tenerife,0-0,0-0,Lugo
+Mon Oct 15 2018,Gimnastic,1-3,0-3,Alcorcon
+Fri Oct 19 2018,Elche,2-0,1-0,Malaga
+Sat Oct 20 2018,Alcorcon,1-0,0-0,Granada
+Sat Oct 20 2018,Cordoba,1-1,0-1,La Coruna
+Sat Oct 20 2018,Las Palmas,3-0,2-0,Numancia
+Sat Oct 20 2018,Oviedo,2-1,0-1,Osasuna
+Sun Oct 21 2018,Albacete,1-1,0-0,Almeria
+Sun Oct 21 2018,Cadiz,0-0,0-0,Sp Gijon
+Sun Oct 21 2018,Lugo,1-0,1-0,Gimnastic
+Sun Oct 21 2018,Mallorca,1-1,0-0,Extremadura UD
+Sun Oct 21 2018,Reus Deportiu,2-1,0-0,Rayo Majadahonda
+Sun Oct 21 2018,Zaragoza,1-1,0-0,Tenerife
+Fri Oct 26 2018,Sp Gijon,0-0,0-0,Cordoba
+Sat Oct 27 2018,Granada,1-0,0-0,Almeria
+Sat Oct 27 2018,La Coruna,2-0,1-0,Reus Deportiu
+Sat Oct 27 2018,Lugo,1-2,1-1,Cadiz
+Sat Oct 27 2018,Mallorca,2-2,2-2,Las Palmas
+Sat Oct 27 2018,Tenerife,3-2,0-2,Alcorcon
+Sun Oct 28 2018,Elche,2-0,1-0,Zaragoza
+Sun Oct 28 2018,Extremadura UD,1-2,1-1,Albacete
+Sun Oct 28 2018,Gimnastic,2-1,1-0,Oviedo
+Sun Oct 28 2018,Rayo Majadahonda,1-1,0-0,Osasuna
+Mon Oct 29 2018,Malaga,2-0,1-0,Numancia
+Fri Nov 2 2018,Albacete,2-0,2-0,Gimnastic
+Sat Nov 3 2018,Cordoba,4-2,1-1,Extremadura UD
+Sat Nov 3 2018,Las Palmas,1-1,0-0,La Coruna
+Sat Nov 3 2018,Numancia,2-0,0-0,Tenerife
+Sat Nov 3 2018,Osasuna,2-1,0-1,Malaga
+Sat Nov 3 2018,Reus Deportiu,0-0,0-0,Lugo
+Sun Nov 4 2018,Alcorcon,2-0,1-0,Rayo Majadahonda
+Sun Nov 4 2018,Almeria,2-1,1-1,Sp Gijon
+Sun Nov 4 2018,Cadiz,5-1,0-1,Elche
+Sun Nov 4 2018,Oviedo,1-1,1-0,Mallorca
+Sun Nov 4 2018,Zaragoza,0-2,0-2,Granada
+Sat Nov 10 2018,Cadiz,2-0,1-0,Reus Deportiu
+Sat Nov 10 2018,Elche,0-0,0-0,Las Palmas
+Sat Nov 10 2018,Extremadura UD,2-3,2-1,Osasuna
+Sat Nov 10 2018,La Coruna,4-0,1-0,Oviedo
+Sat Nov 10 2018,Lugo,0-1,0-0,Alcorcon
+Sun Nov 11 2018,Granada,0-0,0-0,Numancia
+Sun Nov 11 2018,Mallorca,3-0,0-0,Cordoba
+Sun Nov 11 2018,Rayo Majadahonda,2-0,1-0,Almeria
+Sun Nov 11 2018,Sp Gijon,2-2,0-0,Malaga
+Sun Nov 11 2018,Tenerife,0-0,0-0,Albacete
+Mon Nov 12 2018,Gimnastic,1-3,1-1,Zaragoza
+Fri Nov 16 2018,Las Palmas,2-2,1-0,Granada
+Sat Nov 17 2018,Malaga,2-0,1-0,Gimnastic
+Sat Nov 17 2018,Osasuna,2-0,2-0,Tenerife
+Sat Nov 17 2018,Oviedo,2-1,2-0,Sp Gijon
+Sat Nov 17 2018,Reus Deportiu,1-4,1-1,Extremadura UD
+Sat Nov 17 2018,Zaragoza,2-2,0-2,Mallorca
+Sun Nov 18 2018,Albacete,1-0,0-0,Lugo
+Sun Nov 18 2018,Alcorcon,1-0,0-0,Elche
+Sun Nov 18 2018,Cordoba,1-3,0-0,Cadiz
+Sun Nov 18 2018,Numancia,1-2,0-1,Rayo Majadahonda
+Mon Nov 19 2018,Almeria,1-1,0-0,La Coruna
+Fri Nov 23 2018,Granada,1-2,0-1,Sp Gijon
+Sat Nov 24 2018,Cadiz,4-1,2-0,Las Palmas
+Sat Nov 24 2018,Gimnastic,2-2,1-2,Almeria
+Sat Nov 24 2018,La Coruna,2-0,1-0,Osasuna
+Sat Nov 24 2018,Lugo,2-1,2-0,Cordoba
+Sun Nov 25 2018,Alcorcon,2-0,0-0,Zaragoza
+Sun Nov 25 2018,Elche,0-1,0-1,Albacete
+Sun Nov 25 2018,Extremadura UD,1-0,1-0,Malaga
+Sun Nov 25 2018,Mallorca,1-0,1-0,Numancia
+Sun Nov 25 2018,Oviedo,3-0,0-0,Reus Deportiu
+Sun Nov 25 2018,Tenerife,2-1,1-0,Rayo Majadahonda
+Fri Nov 30 2018,Zaragoza,0-1,0-1,Cadiz
+Sat Dec 1 2018,Almeria,1-1,1-1,Extremadura UD
+Sat Dec 1 2018,Cordoba,1-1,0-1,Elche
+Sat Dec 1 2018,Malaga,0-1,0-0,Granada
+Sat Dec 1 2018,Reus Deportiu,0-2,0-0,Mallorca
+Sat Dec 1 2018,Sp Gijon,2-1,0-0,Tenerife
+Sun Dec 2 2018,Albacete,2-1,1-0,Alcorcon
+Sun Dec 2 2018,Las Palmas,0-0,0-0,Oviedo
+Sun Dec 2 2018,Numancia,3-0,0-0,Gimnastic
+Sun Dec 2 2018,Osasuna,1-0,0-0,Lugo
+Sun Dec 2 2018,Rayo Majadahonda,0-0,0-0,La Coruna
+Fri Dec 7 2018,Tenerife,0-0,0-0,Extremadura UD
+Sat Dec 8 2018,Albacete,2-2,2-1,Osasuna
+Sat Dec 8 2018,Gimnastic,0-1,0-1,Granada
+Sat Dec 8 2018,La Coruna,2-2,2-0,Numancia
+Sat Dec 8 2018,Mallorca,1-2,0-1,Malaga
+Sat Dec 8 2018,Oviedo,1-2,1-2,Almeria
+Sun Dec 9 2018,Alcorcon,0-1,0-1,Reus Deportiu
+Sun Dec 9 2018,Cadiz,1-0,0-0,Rayo Majadahonda
+Sun Dec 9 2018,Elche,0-0,0-0,Sp Gijon
+Sun Dec 9 2018,Lugo,4-2,2-1,Las Palmas
+Sun Dec 9 2018,Zaragoza,0-0,0-0,Cordoba
+Fri Dec 14 2018,Malaga,1-0,0-0,Cadiz
+Sat Dec 15 2018,Granada,1-0,0-0,Oviedo
+Sat Dec 15 2018,Numancia,1-2,0-2,Albacete
+Sat Dec 15 2018,Reus Deportiu,1-1,1-1,Cordoba
+Sat Dec 15 2018,Sp Gijon,1-0,0-0,Mallorca
+Sun Dec 16 2018,Almeria,1-1,1-1,Lugo
+Sun Dec 16 2018,Extremadura UD,0-1,0-0,Gimnastic
+Sun Dec 16 2018,La Coruna,3-1,3-1,Zaragoza
+Sun Dec 16 2018,Las Palmas,1-1,1-0,Tenerife
+Sun Dec 16 2018,Osasuna,2-1,0-0,Alcorcon
+Sun Dec 16 2018,Rayo Majadahonda,1-3,0-0,Elche
+Fri Dec 21 2018,Mallorca,2-0,1-0,Gimnastic
+Fri Dec 21 2018,Tenerife,1-1,0-1,Granada
+Sat Dec 22 2018,Cadiz,3-0,1-0,La Coruna
+Sat Dec 22 2018,Cordoba,4-1,1-0,Las Palmas
+Sat Dec 22 2018,Elche,2-2,1-0,Almeria
+Sat Dec 22 2018,Lugo,0-0,0-0,Sp Gijon
+Sat Dec 22 2018,Oviedo,0-0,0-0,Malaga
+Sat Dec 22 2018,Zaragoza,2-1,0-1,Extremadura UD
+Sun Dec 23 2018,Albacete,1-0,0-0,Rayo Majadahonda
+Sun Dec 23 2018,Alcorcon,1-1,1-0,Numancia
+Sun Dec 23 2018,Reus Deportiu,0-1,0-1,Osasuna
+Fri Jan 4 2019,Granada,1-1,0-0,Albacete
+Fri Jan 4 2019,Tenerife,2-1,1-1,Elche
+Sat Jan 5 2019,Extremadura UD,3-0,1-0,Alcorcon
+Sat Jan 5 2019,Sp Gijon,1-2,1-2,Zaragoza
+Sun Jan 6 2019,Almeria,2-0,1-0,Mallorca
+Sun Jan 6 2019,Gimnastic,1-0,0-0,Cordoba
+Sun Jan 6 2019,La Coruna,0-0,0-0,Lugo
+Sun Jan 6 2019,Malaga,0-3,0-1,Reus Deportiu
+Sun Jan 6 2019,Osasuna,2-1,2-1,Cadiz
+Mon Jan 7 2019,Numancia,2-3,0-1,Oviedo
+Mon Jan 7 2019,Rayo Majadahonda,0-0,0-0,Las Palmas
+Fri Jan 11 2019,Cadiz,0-0,0-0,Granada
+Sat Jan 12 2019,Albacete,1-1,0-1,Sp Gijon
+Sat Jan 12 2019,Las Palmas,4-1,3-0,Osasuna
+Sat Jan 12 2019,Mallorca,1-0,0-0,La Coruna
+Sat Jan 12 2019,Oviedo,1-0,1-0,Tenerife
+Sat Jan 12 2019,Reus Deportiu,1-1,0-1,Numancia
+Sun Jan 13 2019,Alcorcon,0-0,0-0,Almeria
+Sun Jan 13 2019,Cordoba,1-1,0-1,Rayo Majadahonda
+Sun Jan 13 2019,Elche,1-0,0-0,Gimnastic
+Sun Jan 13 2019,Lugo,1-1,1-0,Extremadura UD
+Sun Jan 13 2019,Zaragoza,0-2,0-1,Malaga
+Sat Jan 19 2019,Almeria,0-0,0-0,Cadiz
+Sat Jan 19 2019,Malaga,2-1,0-1,Lugo
+Sat Jan 19 2019,Numancia,3-2,3-0,Cordoba
+Sat Jan 19 2019,Rayo Majadahonda,2-2,1-0,Zaragoza
+Sat Jan 19 2019,Reus Deportiu,0-1,?,Las Palmas
+Sun Jan 20 2019,Extremadura UD,0-2,0-1,Oviedo
+Sun Jan 20 2019,La Coruna,2-0,1-0,Albacete
+Sun Jan 20 2019,Osasuna,2-0,1-0,Mallorca
+Sun Jan 20 2019,Sp Gijon,2-0,1-0,Alcorcon
+Sun Jan 20 2019,Tenerife,2-0,1-0,Gimnastic
+Mon Jan 21 2019,Granada,2-1,2-0,Elche
+Fri Jan 25 2019,Zaragoza,2-0,0-0,Oviedo
+Sat Jan 26 2019,Almeria,0-1,0-0,Osasuna
+Sat Jan 26 2019,Cadiz,1-1,0-1,Mallorca
+Sat Jan 26 2019,Elche,1-1,1-1,Numancia
+Sat Jan 26 2019,Lugo,3-2,2-0,Rayo Majadahonda
+Sat Jan 26 2019,Tenerife,0-0,0-0,Malaga
+Sun Jan 27 2019,Albacete,1-0,?,Reus Deportiu
+Sun Jan 27 2019,Alcorcon,2-1,0-1,Cordoba
+Sun Jan 27 2019,Gimnastic,0-0,0-0,Las Palmas
+Sun Jan 27 2019,Granada,0-0,0-0,Extremadura UD
+Sun Jan 27 2019,Sp Gijon,1-2,1-2,La Coruna
+Fri Feb 1 2019,Malaga,1-1,1-0,Almeria
+Sat Feb 2 2019,Cordoba,1-3,1-0,Albacete
+Sat Feb 2 2019,La Coruna,0-0,0-0,Tenerife
+Sat Feb 2 2019,Numancia,3-0,1-0,Lugo
+Sat Feb 2 2019,Rayo Majadahonda,1-0,1-0,Gimnastic
+Sun Feb 3 2019,Extremadura UD,0-3,0-0,Sp Gijon
+Sun Feb 3 2019,Mallorca,2-0,2-0,Alcorcon
+Sun Feb 3 2019,Osasuna,1-0,0-0,Granada
+Sun Feb 3 2019,Oviedo,2-1,2-1,Cadiz
+Sun Feb 3 2019,Reus Deportiu,0-1,?,Elche
+Mon Feb 4 2019,Las Palmas,1-1,1-1,Zaragoza
+Fri Feb 8 2019,Sp Gijon,0-2,0-1,Osasuna
+Sat Feb 9 2019,Elche,1-2,0-0,Oviedo
+Sat Feb 9 2019,Extremadura UD,1-1,0-0,Rayo Majadahonda
+Sat Feb 9 2019,Gimnastic,1-0,?,Reus Deportiu
+Sat Feb 9 2019,Lugo,1-2,1-0,Zaragoza
+Sat Feb 9 2019,Tenerife,0-2,0-1,Cordoba
+Sun Feb 10 2019,Albacete,2-0,1-0,Mallorca
+Sun Feb 10 2019,Alcorcon,1-2,1-0,Cadiz
+Sun Feb 10 2019,Almeria,1-0,1-0,Numancia
+Sun Feb 10 2019,Granada,0-1,0-0,La Coruna
+Sun Feb 10 2019,Malaga,0-0,0-0,Las Palmas
+Fri Feb 15 2019,Cordoba,1-2,1-2,Granada
+Sat Feb 16 2019,Cadiz,2-0,0-0,Tenerife
+Sat Feb 16 2019,Elche,2-0,1-0,Extremadura UD
+Sat Feb 16 2019,La Coruna,1-1,0-0,Gimnastic
+Sat Feb 16 2019,Oviedo,1-0,0-0,Alcorcon
+Sat Feb 16 2019,Zaragoza,0-0,0-0,Albacete
+Sun Feb 17 2019,Las Palmas,1-0,1-0,Sp Gijon
+Sun Feb 17 2019,Mallorca,3-0,1-0,Lugo
+Sun Feb 17 2019,Numancia,1-1,1-0,Osasuna
+Sun Feb 17 2019,Rayo Majadahonda,0-1,0-0,Malaga
+Sun Feb 17 2019,Reus Deportiu,0-1,?,Almeria
+Fri Feb 22 2019,Tenerife,2-2,0-1,Mallorca
+Sat Feb 23 2019,Albacete,0-0,0-0,Oviedo
+Sat Feb 23 2019,Alcorcon,2-0,0-0,Las Palmas
+Sat Feb 23 2019,Gimnastic,2-3,1-2,Cadiz
+Sat Feb 23 2019,Osasuna,1-0,0-0,Zaragoza
+Sun Feb 24 2019,Almeria,3-1,1-1,Cordoba
+Sun Feb 24 2019,Extremadura UD,0-1,0-1,Numancia
+Sun Feb 24 2019,Granada,1-0,?,Reus Deportiu
+Sun Feb 24 2019,Lugo,2-2,0-1,Elche
+Sun Feb 24 2019,Malaga,0-0,0-0,La Coruna
+Sun Feb 24 2019,Sp Gijon,2-3,0-1,Rayo Majadahonda
+Sat Mar 2 2019,Cadiz,1-0,0-0,Albacete
+Sat Mar 2 2019,Cordoba,1-1,0-0,Malaga
+Sat Mar 2 2019,Osasuna,1-0,1-0,Gimnastic
+Sun Mar 3 2019,Las Palmas,1-1,1-1,Extremadura UD
+Sun Mar 3 2019,Mallorca,1-1,0-1,Elche
+Sun Mar 3 2019,Numancia,1-2,1-2,Sp Gijon
+Sun Mar 3 2019,Oviedo,1-1,1-0,Lugo
+Sun Mar 3 2019,Rayo Majadahonda,0-3,0-1,Granada
+Sun Mar 3 2019,Reus Deportiu,0-1,?,Tenerife
+Sun Mar 3 2019,Zaragoza,1-2,0-0,Almeria
+Mon Mar 4 2019,La Coruna,2-2,1-1,Alcorcon
+Sat Mar 9 2019,Elche,1-0,1-0,Cadiz
+Sat Mar 9 2019,Gimnastic,1-0,0-0,Albacete
+Sat Mar 9 2019,Mallorca,1-0,0-0,Oviedo
+Sat Mar 9 2019,Sp Gijon,1-0,0-0,Almeria
+Sun Mar 10 2019,Extremadura UD,3-0,2-0,Cordoba
+Sun Mar 10 2019,Granada,1-0,1-0,Zaragoza
+Sun Mar 10 2019,La Coruna,0-1,0-0,Las Palmas
+Sun Mar 10 2019,Lugo,1-0,?,Reus Deportiu
+Sun Mar 10 2019,Rayo Majadahonda,2-0,1-0,Alcorcon
+Sun Mar 10 2019,Tenerife,1-1,1-0,Numancia
+Mon Mar 11 2019,Malaga,1-2,1-0,Osasuna
+Sat Mar 16 2019,Albacete,1-0,0-0,Extremadura UD
+Sat Mar 16 2019,Alcorcon,1-1,1-0,Tenerife
+Sat Mar 16 2019,Cadiz,1-1,0-0,Lugo
+Sat Mar 16 2019,Zaragoza,1-0,1-0,Elche
+Sun Mar 17 2019,Almeria,0-0,0-0,Granada
+Sun Mar 17 2019,Cordoba,1-2,1-1,Sp Gijon
+Sun Mar 17 2019,Las Palmas,1-2,1-1,Mallorca
+Sun Mar 17 2019,Osasuna,3-0,1-0,Rayo Majadahonda
+Sun Mar 17 2019,Oviedo,2-0,0-0,Gimnastic
+Sun Mar 17 2019,Reus Deportiu,0-1,?,La Coruna
+Mon Mar 18 2019,Numancia,1-1,1-0,Malaga
+Fri Mar 22 2019,La Coruna,0-0,0-0,Almeria
+Fri Mar 22 2019,Tenerife,3-2,0-2,Osasuna
+Sat Mar 23 2019,Elche,3-1,2-1,Alcorcon
+Sat Mar 23 2019,Lugo,0-3,0-1,Albacete
+Sun Mar 24 2019,Cadiz,1-1,0-0,Cordoba
+Sun Mar 24 2019,Extremadura UD,1-0,?,Reus Deportiu
+Sun Mar 24 2019,Gimnastic,0-1,0-0,Malaga
+Sun Mar 24 2019,Granada,1-1,0-0,Las Palmas
+Sun Mar 24 2019,Rayo Majadahonda,4-0,3-0,Numancia
+Sun Mar 24 2019,Sp Gijon,1-0,1-0,Oviedo
+Mon Mar 25 2019,Mallorca,3-0,1-0,Zaragoza
+Fri Mar 29 2019,Malaga,1-1,0-1,Sp Gijon
+Sat Mar 30 2019,Albacete,2-2,1-1,Tenerife
+Sat Mar 30 2019,Almeria,2-2,1-0,Rayo Majadahonda
+Sat Mar 30 2019,Numancia,2-1,0-0,Granada
+Sun Mar 31 2019,Alcorcon,0-0,0-0,Lugo
+Sun Mar 31 2019,Cordoba,3-2,1-0,Mallorca
+Sun Mar 31 2019,Las Palmas,0-1,0-0,Elche
+Sun Mar 31 2019,Osasuna,1-0,1-0,Extremadura UD
+Sun Mar 31 2019,Oviedo,1-1,1-0,La Coruna
+Sun Mar 31 2019,Reus Deportiu,0-1,?,Cadiz
+Mon Apr 1 2019,Zaragoza,3-0,3-0,Gimnastic
+Fri Apr 5 2019,Tenerife,0-1,0-1,Sp Gijon
+Sat Apr 6 2019,Extremadura UD,1-0,0-0,Almeria
+Sat Apr 6 2019,Granada,1-0,1-0,Malaga
+Sat Apr 6 2019,La Coruna,0-2,0-0,Rayo Majadahonda
+Sat Apr 6 2019,Oviedo,1-1,0-0,Las Palmas
+Sun Apr 7 2019,Alcorcon,0-1,0-1,Albacete
+Sun Apr 7 2019,Elche,1-0,1-0,Cordoba
+Sun Apr 7 2019,Gimnastic,2-0,1-0,Numancia
+Sun Apr 7 2019,Lugo,2-2,1-0,Osasuna
+Sun Apr 7 2019,Mallorca,1-0,?,Reus Deportiu
+Mon Apr 8 2019,Cadiz,3-3,1-2,Zaragoza
+Fri Apr 12 2019,Sp Gijon,1-0,1-0,Granada
+Sat Apr 13 2019,Almeria,3-0,2-0,Gimnastic
+Sat Apr 13 2019,Malaga,1-2,0-1,Extremadura UD
+Sat Apr 13 2019,Osasuna,2-1,2-1,La Coruna
+Sat Apr 13 2019,Rayo Majadahonda,1-3,1-1,Tenerife
+Sun Apr 14 2019,Albacete,1-1,0-0,Elche
+Sun Apr 14 2019,Cordoba,0-4,0-1,Lugo
+Sun Apr 14 2019,Las Palmas,0-3,0-0,Cadiz
+Sun Apr 14 2019,Numancia,1-1,1-0,Mallorca
+Sun Apr 14 2019,Reus Deportiu,0-1,?,Oviedo
+Sun Apr 14 2019,Zaragoza,0-2,0-1,Alcorcon
+Fri Apr 19 2019,Alcorcon,1-4,1-2,Malaga
+Fri Apr 19 2019,Zaragoza,1-0,?,Reus Deportiu
+Sat Apr 20 2019,Albacete,4-2,3-2,Las Palmas
+Sat Apr 20 2019,Gimnastic,0-0,0-0,Sp Gijon
+Sat Apr 20 2019,Lugo,1-2,0-1,Granada
+Sat Apr 20 2019,Mallorca,2-0,2-0,Rayo Majadahonda
+Sun Apr 21 2019,Cadiz,2-1,1-0,Numancia
+Sun Apr 21 2019,La Coruna,1-2,0-1,Extremadura UD
+Sun Apr 21 2019,Oviedo,3-3,2-1,Cordoba
+Sun Apr 21 2019,Tenerife,1-3,0-1,Almeria
+Mon Apr 22 2019,Elche,1-2,1-0,Osasuna
+Fri Apr 26 2019,Numancia,1-2,0-2,La Coruna
+Sat Apr 27 2019,Almeria,0-1,0-0,Oviedo
+Sat Apr 27 2019,Extremadura UD,1-0,1-0,Tenerife
+Sat Apr 27 2019,Malaga,0-1,0-0,Mallorca
+Sat Apr 27 2019,Osasuna,2-0,0-0,Albacete
+Sun Apr 28 2019,Cordoba,0-3,0-0,Zaragoza
+Sun Apr 28 2019,Granada,2-0,2-0,Gimnastic
+Sun Apr 28 2019,Las Palmas,4-1,3-0,Lugo
+Sun Apr 28 2019,Rayo Majadahonda,1-1,0-1,Cadiz
+Sun Apr 28 2019,Reus Deportiu,0-1,?,Alcorcon
+Sun Apr 28 2019,Sp Gijon,1-1,1-0,Elche
+Fri May 3 2019,Cordoba,1-0,?,Reus Deportiu
+Sat May 4 2019,Alcorcon,0-0,0-0,Osasuna
+Sat May 4 2019,Gimnastic,0-1,0-0,Extremadura UD
+Sat May 4 2019,Tenerife,2-1,0-0,Las Palmas
+Sat May 4 2019,Zaragoza,0-1,0-0,La Coruna
+Sun May 5 2019,Albacete,0-0,0-0,Numancia
+Sun May 5 2019,Elche,2-1,0-0,Rayo Majadahonda
+Sun May 5 2019,Lugo,4-2,2-1,Almeria
+Sun May 5 2019,Mallorca,2-1,1-1,Sp Gijon
+Sun May 5 2019,Oviedo,1-1,0-0,Granada
+Mon May 6 2019,Cadiz,1-1,1-1,Malaga
+Fri May 10 2019,Granada,2-1,2-0,Tenerife
+Fri May 10 2019,Osasuna,1-0,?,Reus Deportiu
+Sat May 11 2019,Extremadura UD,0-3,0-1,Zaragoza
+Sat May 11 2019,Gimnastic,2-1,1-0,Mallorca
+Sat May 11 2019,Numancia,2-0,1-0,Alcorcon
+Sat May 11 2019,Sp Gijon,0-0,0-0,Lugo
+Sun May 12 2019,Almeria,5-3,3-2,Elche
+Sun May 12 2019,La Coruna,1-1,1-0,Cadiz
+Sun May 12 2019,Las Palmas,1-0,1-0,Cordoba
+Sun May 12 2019,Rayo Majadahonda,2-3,1-3,Albacete
+Mon May 13 2019,Malaga,3-0,2-0,Oviedo
+Fri May 17 2019,Zaragoza,4-2,1-1,Sp Gijon
+Sat May 18 2019,Alcorcon,0-1,0-0,Extremadura UD
+Sat May 18 2019,Elche,3-0,1-0,Tenerife
+Sun May 19 2019,Cadiz,0-0,0-0,Osasuna
+Sun May 19 2019,Cordoba,4-3,3-0,Gimnastic
+Sun May 19 2019,Las Palmas,3-2,0-1,Rayo Majadahonda
+Sun May 19 2019,Lugo,1-0,0-0,La Coruna
+Sun May 19 2019,Mallorca,1-0,0-0,Almeria
+Sun May 19 2019,Oviedo,1-0,0-0,Numancia
+Sun May 19 2019,Reus Deportiu,0-1,?,Malaga
+Mon May 20 2019,Albacete,0-1,0-0,Granada
+Fri May 24 2019,Malaga,3-1,0-1,Zaragoza
+Sat May 25 2019,Osasuna,2-0,1-0,Las Palmas
+Sat May 25 2019,Rayo Majadahonda,0-0,0-0,Cordoba
+Sat May 25 2019,Sp Gijon,0-2,0-1,Albacete
+Sun May 26 2019,Almeria,0-0,0-0,Alcorcon
+Sun May 26 2019,Extremadura UD,0-0,0-0,Lugo
+Sun May 26 2019,Gimnastic,3-3,0-1,Elche
+Sun May 26 2019,Granada,1-1,1-0,Cadiz
+Sun May 26 2019,Numancia,1-0,?,Reus Deportiu
+Sun May 26 2019,Tenerife,2-1,1-0,Oviedo
+Mon May 27 2019,La Coruna,1-0,0-0,Mallorca
+Fri May 31 2019,Cordoba,2-3,0-2,Osasuna
+Sat Jun 1 2019,Alcorcon,0-1,0-1,Gimnastic
+Sun Jun 2 2019,Las Palmas,0-0,0-0,Almeria
+Sun Jun 2 2019,Reus Deportiu,0-1,?,Sp Gijon
+Tue Jun 4 2019,Albacete,1-2,0-1,Malaga
+Tue Jun 4 2019,Cadiz,0-1,0-1,Extremadura UD
+Tue Jun 4 2019,Elche,0-0,0-0,La Coruna
+Tue Jun 4 2019,Lugo,0-0,0-0,Tenerife
+Tue Jun 4 2019,Mallorca,1-1,0-0,Granada
+Tue Jun 4 2019,Oviedo,4-3,1-1,Rayo Majadahonda
+Tue Jun 4 2019,Zaragoza,0-0,0-0,Numancia
+Sat Jun 8 2019,Almeria,3-0,0-0,Albacete
+Sat Jun 8 2019,Extremadura UD,0-0,0-0,Mallorca
+Sat Jun 8 2019,Granada,2-1,2-0,Alcorcon
+Sat Jun 8 2019,La Coruna,2-0,1-0,Cordoba
+Sat Jun 8 2019,Malaga,3-0,1-0,Elche
+Sat Jun 8 2019,Rayo Majadahonda,1-0,?,Reus Deportiu
+Sat Jun 8 2019,Osasuna,1-0,0-0,Oviedo
+Sat Jun 8 2019,Sp Gijon,1-0,1-0,Cadiz
+Sun Jun 9 2019,Gimnastic,1-1,0-0,Lugo
+Sun Jun 9 2019,Numancia,1-1,1-0,Las Palmas
+Sun Jun 9 2019,Tenerife,1-0,0-0,Zaragoza

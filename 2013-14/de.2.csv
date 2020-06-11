@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 19 2013,Ingolstadt,1-2,0-1,Erzgebirge Aue
+Fri Jul 19 2013,Sandhausen,0-0,0-0,Aalen
+Fri Jul 19 2013,St Pauli,1-0,0-0,Munich 1860
+Sat Jul 20 2013,Dresden,1-1,0-0,FC Koln
+Sat Jul 20 2013,Paderborn,0-1,0-0,Kaiserslautern
+Sun Jul 21 2013,Frankfurt FSV,0-1,0-0,Karlsruhe
+Sun Jul 21 2013,Greuther Furth,2-0,2-0,Bielefeld
+Sun Jul 21 2013,Union Berlin,1-2,0-0,Bochum
+Mon Jul 22 2013,Fortuna Dusseldorf,1-0,0-0,Cottbus
+Fri Jul 26 2013,Aalen,0-2,0-1,Greuther Furth
+Fri Jul 26 2013,Bielefeld,1-1,0-1,Union Berlin
+Fri Jul 26 2013,Kaiserslautern,3-1,1-0,Ingolstadt
+Sat Jul 27 2013,Erzgebirge Aue,1-0,0-0,Sandhausen
+Sat Jul 27 2013,Karlsruhe,0-0,0-0,St Pauli
+Sun Jul 28 2013,Cottbus,4-0,4-0,Paderborn
+Sun Jul 28 2013,FC Koln,1-1,0-1,Fortuna Dusseldorf
+Sun Jul 28 2013,Munich 1860,2-1,0-0,Frankfurt FSV
+Mon Jul 29 2013,Bochum,1-1,1-0,Dresden
+Fri Aug 9 2013,Dresden,1-3,0-3,Union Berlin
+Fri Aug 9 2013,Fortuna Dusseldorf,1-2,1-1,Munich 1860
+Fri Aug 9 2013,Frankfurt FSV,1-0,1-0,Bochum
+Sat Aug 10 2013,Ingolstadt,0-2,0-0,Karlsruhe
+Sat Aug 10 2013,Paderborn,1-1,1-0,FC Koln
+Sun Aug 11 2013,Erzgebirge Aue,0-1,0-1,Aalen
+Sun Aug 11 2013,Sandhausen,2-2,2-1,Cottbus
+Sun Aug 11 2013,St Pauli,0-1,0-0,Bielefeld
+Mon Aug 12 2013,Greuther Furth,2-1,1-1,Kaiserslautern
+Fri Aug 16 2013,Bielefeld,3-3,0-1,Paderborn
+Fri Aug 16 2013,Bochum,2-2,1-2,St Pauli
+Fri Aug 16 2013,Karlsruhe,1-2,1-0,Greuther Furth
+Sat Aug 17 2013,FC Koln,2-0,0-0,Sandhausen
+Sat Aug 17 2013,Kaiserslautern,2-1,1-0,Erzgebirge Aue
+Sun Aug 18 2013,Cottbus,5-1,3-1,Aalen
+Sun Aug 18 2013,Dresden,0-3,0-1,Frankfurt FSV
+Sun Aug 18 2013,Munich 1860,1-0,0-0,Ingolstadt
+Mon Aug 19 2013,Union Berlin,2-1,1-0,Fortuna Dusseldorf
+Fri Aug 23 2013,Erzgebirge Aue,2-1,0-1,Cottbus
+Fri Aug 23 2013,Ingolstadt,3-2,1-1,Bielefeld
+Fri Aug 23 2013,Sandhausen,1-1,0-0,Karlsruhe
+Sat Aug 24 2013,Aalen,4-0,1-0,Kaiserslautern
+Sat Aug 24 2013,Greuther Furth,0-0,0-0,FC Koln
+Sun Aug 25 2013,Fortuna Dusseldorf,1-0,1-0,Bochum
+Sun Aug 25 2013,Frankfurt FSV,1-1,1-0,Union Berlin
+Sun Aug 25 2013,Paderborn,1-0,0-0,Munich 1860
+Mon Aug 26 2013,St Pauli,2-1,0-0,Dresden
+Fri Aug 30 2013,Bielefeld,4-2,1-2,Fortuna Dusseldorf
+Fri Aug 30 2013,Frankfurt FSV,1-1,1-0,Greuther Furth
+Fri Aug 30 2013,Munich 1860,0-2,0-2,Sandhausen
+Sat Aug 31 2013,Bochum,4-2,0-2,Paderborn
+Sat Aug 31 2013,Union Berlin,3-2,1-2,St Pauli
+Sun Sep 1 2013,Dresden,1-1,1-1,Ingolstadt
+Sun Sep 1 2013,FC Koln,4-1,3-1,Erzgebirge Aue
+Sun Sep 1 2013,Karlsruhe,1-1,1-1,Aalen
+Mon Sep 2 2013,Kaiserslautern,2-2,1-2,Cottbus
+Fri Sep 13 2013,Aalen,0-0,0-0,Munich 1860
+Fri Sep 13 2013,Erzgebirge Aue,0-2,0-0,Bielefeld
+Fri Sep 13 2013,Paderborn,1-0,0-0,Karlsruhe
+Sat Sep 14 2013,Sandhausen,1-0,0-0,Kaiserslautern
+Sat Sep 14 2013,St Pauli,2-1,1-0,Frankfurt FSV
+Sun Sep 15 2013,Fortuna Dusseldorf,1-1,1-0,Dresden
+Sun Sep 15 2013,Greuther Furth,0-2,0-2,Bochum
+Sun Sep 15 2013,Ingolstadt,0-1,0-0,Union Berlin
+Mon Sep 16 2013,Cottbus,0-4,0-3,FC Koln
+Fri Sep 20 2013,FC Koln,0-0,0-0,Kaiserslautern
+Fri Sep 20 2013,Karlsruhe,2-0,2-0,Cottbus
+Fri Sep 20 2013,Union Berlin,2-4,1-0,Greuther Furth
+Sat Sep 21 2013,Bielefeld,2-1,0-0,Sandhausen
+Sat Sep 21 2013,Bochum,1-2,1-1,Aalen
+Sat Sep 21 2013,Munich 1860,3-1,2-0,Erzgebirge Aue
+Sun Sep 22 2013,Dresden,2-2,0-0,Paderborn
+Sun Sep 22 2013,Frankfurt FSV,4-1,2-0,Ingolstadt
+Mon Sep 23 2013,St Pauli,1-1,0-0,Fortuna Dusseldorf
+Fri Sep 27 2013,Aalen,0-1,0-1,FC Koln
+Fri Sep 27 2013,Cottbus,4-2,2-0,Bielefeld
+Fri Sep 27 2013,Erzgebirge Aue,3-0,2-0,Karlsruhe
+Sat Sep 28 2013,Fortuna Dusseldorf,0-0,0-0,Frankfurt FSV
+Sat Sep 28 2013,Paderborn,0-3,0-1,Union Berlin
+Sun Sep 29 2013,Ingolstadt,1-2,0-1,St Pauli
+Sun Sep 29 2013,Kaiserslautern,3-0,0-0,Munich 1860
+Sun Sep 29 2013,Sandhausen,1-0,0-0,Bochum
+Mon Sep 30 2013,Greuther Furth,4-0,1-0,Dresden
+Fri Oct 4 2013,Bielefeld,0-3,0-2,Kaiserslautern
+Fri Oct 4 2013,St Pauli,1-2,0-0,Paderborn
+Fri Oct 4 2013,Union Berlin,3-0,1-0,Sandhausen
+Sat Oct 5 2013,Dresden,2-0,2-0,Aalen
+Sat Oct 5 2013,Karlsruhe,1-2,0-0,FC Koln
+Sun Oct 6 2013,Bochum,0-1,0-0,Ingolstadt
+Sun Oct 6 2013,Frankfurt FSV,3-1,3-0,Erzgebirge Aue
+Sun Oct 6 2013,Munich 1860,0-0,0-0,Cottbus
+Mon Oct 7 2013,Fortuna Dusseldorf,2-1,0-1,Greuther Furth
+Fri Oct 18 2013,Aalen,3-0,0-0,Bielefeld
+Fri Oct 18 2013,Cottbus,0-0,0-0,Union Berlin
+Fri Oct 18 2013,Paderborn,4-2,1-1,Frankfurt FSV
+Sat Oct 19 2013,Erzgebirge Aue,2-1,0-1,Bochum
+Sat Oct 19 2013,Sandhausen,0-0,0-0,Dresden
+Sun Oct 20 2013,Greuther Furth,2-4,1-1,St Pauli
+Sun Oct 20 2013,Ingolstadt,1-2,0-0,Fortuna Dusseldorf
+Sun Oct 20 2013,Kaiserslautern,2-2,1-1,Karlsruhe
+Mon Oct 21 2013,FC Koln,0-0,0-0,Munich 1860
+Fri Oct 25 2013,Bielefeld,0-1,0-0,FC Koln
+Fri Oct 25 2013,Greuther Furth,0-1,0-1,Ingolstadt
+Fri Oct 25 2013,St Pauli,0-0,0-0,Sandhausen
+Sat Oct 26 2013,Fortuna Dusseldorf,1-6,1-2,Paderborn
+Sat Oct 26 2013,Frankfurt FSV,0-0,0-0,Aalen
+Sun Oct 27 2013,Dresden,1-0,0-0,Cottbus
+Sun Oct 27 2013,Karlsruhe,2-1,2-0,Munich 1860
+Sun Oct 27 2013,Union Berlin,1-0,0-0,Erzgebirge Aue
+Mon Oct 28 2013,Bochum,0-0,0-0,Kaiserslautern
+Fri Nov 1 2013,Aalen,1-0,1-0,Fortuna Dusseldorf
+Fri Nov 1 2013,Cottbus,0-1,0-1,Bochum
+Fri Nov 1 2013,Paderborn,1-1,0-1,Ingolstadt
+Sat Nov 2 2013,Erzgebirge Aue,2-6,1-3,Greuther Furth
+Sat Nov 2 2013,Kaiserslautern,4-1,1-1,St Pauli
+Sun Nov 3 2013,Karlsruhe,3-1,0-0,Bielefeld
+Sun Nov 3 2013,Munich 1860,1-3,1-2,Dresden
+Sun Nov 3 2013,Sandhausen,2-0,1-0,Frankfurt FSV
+Mon Nov 4 2013,FC Koln,4-0,2-0,Union Berlin
+Fri Nov 8 2013,Frankfurt FSV,0-4,0-3,Kaiserslautern
+Fri Nov 8 2013,Greuther Furth,3-0,2-0,Paderborn
+Fri Nov 8 2013,Ingolstadt,2-0,1-0,Aalen
+Sat Nov 9 2013,Bielefeld,0-1,0-0,Munich 1860
+Sat Nov 9 2013,Union Berlin,0-0,0-0,Karlsruhe
+Sun Nov 10 2013,Bochum,1-0,0-0,FC Koln
+Sun Nov 10 2013,Dresden,1-1,0-0,Erzgebirge Aue
+Sun Nov 10 2013,Fortuna Dusseldorf,1-0,0-0,Sandhausen
+Mon Nov 11 2013,St Pauli,3-0,1-0,Cottbus
+Fri Nov 22 2013,Bielefeld,0-2,0-1,Bochum
+Fri Nov 22 2013,Cottbus,1-4,0-1,Frankfurt FSV
+Fri Nov 22 2013,Sandhausen,3-2,1-1,Paderborn
+Sat Nov 23 2013,FC Koln,0-1,0-0,Ingolstadt
+Sat Nov 23 2013,Kaiserslautern,3-0,0-0,Union Berlin
+Sun Nov 24 2013,Aalen,0-1,0-1,St Pauli
+Sun Nov 24 2013,Erzgebirge Aue,3-0,2-0,Fortuna Dusseldorf
+Sun Nov 24 2013,Karlsruhe,3-0,2-0,Dresden
+Mon Nov 25 2013,Munich 1860,1-0,0-0,Greuther Furth
+Fri Nov 29 2013,Fortuna Dusseldorf,0-2,0-1,Karlsruhe
+Fri Nov 29 2013,St Pauli,0-3,0-2,FC Koln
+Fri Nov 29 2013,Union Berlin,1-3,0-0,Aalen
+Sat Nov 30 2013,Dresden,3-2,1-1,Kaiserslautern
+Sat Nov 30 2013,Ingolstadt,0-2,0-2,Sandhausen
+Sun Dec 1 2013,Bochum,1-2,1-1,Munich 1860
+Sun Dec 1 2013,Greuther Furth,1-0,1-0,Cottbus
+Sun Dec 1 2013,Paderborn,1-1,1-0,Erzgebirge Aue
+Mon Dec 2 2013,Frankfurt FSV,1-2,1-2,Bielefeld
+Fri Dec 6 2013,Bielefeld,1-1,0-0,Dresden
+Fri Dec 6 2013,Erzgebirge Aue,0-2,0-2,St Pauli
+Fri Dec 6 2013,Karlsruhe,0-0,0-0,Bochum
+Sat Dec 7 2013,FC Koln,2-0,0-0,Frankfurt FSV
+Sat Dec 7 2013,Munich 1860,2-1,0-0,Union Berlin
+Sun Dec 8 2013,Aalen,2-4,2-2,Paderborn
+Sun Dec 8 2013,Cottbus,1-2,1-1,Ingolstadt
+Sun Dec 8 2013,Sandhausen,1-3,1-1,Greuther Furth
+Mon Dec 9 2013,Kaiserslautern,0-1,0-1,Fortuna Dusseldorf
+Fri Dec 13 2013,Aalen,0-0,0-0,Sandhausen
+Fri Dec 13 2013,FC Koln,3-1,2-0,Dresden
+Fri Dec 13 2013,Kaiserslautern,0-1,0-0,Paderborn
+Sat Dec 14 2013,Bochum,0-4,0-2,Union Berlin
+Sat Dec 14 2013,Cottbus,1-3,1-1,Fortuna Dusseldorf
+Sun Dec 15 2013,Bielefeld,4-1,1-1,Greuther Furth
+Sun Dec 15 2013,Erzgebirge Aue,0-0,0-0,Ingolstadt
+Sun Dec 15 2013,Karlsruhe,3-3,3-0,Frankfurt FSV
+Mon Dec 16 2013,Munich 1860,0-2,0-1,St Pauli
+Fri Dec 20 2013,Dresden,0-0,0-0,Bochum
+Fri Dec 20 2013,Sandhausen,1-0,1-0,Erzgebirge Aue
+Fri Dec 20 2013,St Pauli,0-2,0-0,Karlsruhe
+Sat Dec 21 2013,Frankfurt FSV,2-2,1-1,Munich 1860
+Sat Dec 21 2013,Union Berlin,4-2,3-1,Bielefeld
+Sun Dec 22 2013,Fortuna Dusseldorf,2-3,0-2,FC Koln
+Sun Dec 22 2013,Greuther Furth,1-0,0-0,Aalen
+Sun Dec 22 2013,Paderborn,1-0,0-0,Cottbus
+Mon Dec 23 2013,Ingolstadt,1-2,1-1,Kaiserslautern
+Fri Feb 7 2014,Aalen,2-2,1-1,Erzgebirge Aue
+Fri Feb 7 2014,Bochum,1-2,0-0,Frankfurt FSV
+Fri Feb 7 2014,Cottbus,0-1,0-0,Sandhausen
+Sat Feb 8 2014,Kaiserslautern,2-1,1-0,Greuther Furth
+Sat Feb 8 2014,Union Berlin,0-0,0-0,Dresden
+Sun Feb 9 2014,Bielefeld,2-2,0-1,St Pauli
+Sun Feb 9 2014,FC Koln,0-1,0-0,Paderborn
+Sun Feb 9 2014,Karlsruhe,1-1,1-1,Ingolstadt
+Mon Feb 10 2014,Munich 1860,1-1,0-0,Fortuna Dusseldorf
+Fri Feb 14 2014,Fortuna Dusseldorf,1-1,1-0,Union Berlin
+Fri Feb 14 2014,Greuther Furth,1-1,0-1,Karlsruhe
+Fri Feb 14 2014,Ingolstadt,2-0,1-0,Munich 1860
+Sat Feb 15 2014,Frankfurt FSV,3-2,0-1,Dresden
+Sat Feb 15 2014,St Pauli,0-1,0-1,Bochum
+Sun Feb 16 2014,Aalen,2-2,1-1,Cottbus
+Sun Feb 16 2014,Paderborn,4-0,1-0,Bielefeld
+Sun Feb 16 2014,Sandhausen,0-1,0-0,FC Koln
+Mon Feb 17 2014,Erzgebirge Aue,1-0,1-0,Kaiserslautern
+Fri Feb 21 2014,Bielefeld,0-2,0-0,Ingolstadt
+Fri Feb 21 2014,Cottbus,2-3,0-3,Erzgebirge Aue
+Fri Feb 21 2014,Union Berlin,2-0,1-0,Frankfurt FSV
+Sat Feb 22 2014,Karlsruhe,2-1,0-0,Sandhausen
+Sat Feb 22 2014,Munich 1860,2-2,0-2,Paderborn
+Sun Feb 23 2014,Bochum,0-0,0-0,Fortuna Dusseldorf
+Sun Feb 23 2014,Dresden,1-2,1-1,St Pauli
+Sun Feb 23 2014,Kaiserslautern,1-2,0-1,Aalen
+Mon Feb 24 2014,FC Koln,1-1,1-0,Greuther Furth
+Fri Feb 28 2014,Cottbus,1-0,1-0,Kaiserslautern
+Fri Feb 28 2014,Fortuna Dusseldorf,2-0,1-0,Bielefeld
+Fri Feb 28 2014,Paderborn,4-1,0-1,Bochum
+Sat Mar 1 2014,Erzgebirge Aue,2-2,1-0,FC Koln
+Sat Mar 1 2014,Sandhausen,0-0,0-0,Munich 1860
+Sun Mar 2 2014,Aalen,1-0,0-0,Karlsruhe
+Sun Mar 2 2014,Greuther Furth,3-2,1-2,Frankfurt FSV
+Sun Mar 2 2014,Ingolstadt,1-1,1-1,Dresden
+Mon Mar 3 2014,St Pauli,2-1,0-0,Union Berlin
+Fri Mar 7 2014,FC Koln,2-1,0-0,Cottbus
+Fri Mar 7 2014,Kaiserslautern,2-1,0-1,Sandhausen
+Fri Mar 7 2014,Munich 1860,4-0,3-0,Aalen
+Sat Mar 8 2014,Bielefeld,1-0,1-0,Erzgebirge Aue
+Sat Mar 8 2014,Union Berlin,1-1,0-1,Ingolstadt
+Sun Mar 9 2014,Dresden,1-1,0-0,Fortuna Dusseldorf
+Sun Mar 9 2014,Frankfurt FSV,1-0,1-0,St Pauli
+Sun Mar 9 2014,Karlsruhe,4-0,1-0,Paderborn
+Mon Mar 10 2014,Bochum,0-2,0-1,Greuther Furth
+Fri Mar 14 2014,Aalen,0-2,0-1,Bochum
+Fri Mar 14 2014,Ingolstadt,0-1,0-1,Frankfurt FSV
+Fri Mar 14 2014,Paderborn,2-1,2-0,Dresden
+Sat Mar 15 2014,Cottbus,1-0,0-0,Karlsruhe
+Sat Mar 15 2014,Erzgebirge Aue,2-2,0-1,Munich 1860
+Sun Mar 16 2014,Fortuna Dusseldorf,0-2,0-1,St Pauli
+Sun Mar 16 2014,Greuther Furth,1-1,0-1,Union Berlin
+Sun Mar 16 2014,Sandhausen,1-0,1-0,Bielefeld
+Mon Mar 17 2014,Kaiserslautern,0-0,0-0,FC Koln
+Fri Mar 21 2014,Bochum,0-1,0-1,Sandhausen
+Fri Mar 21 2014,Dresden,1-1,0-0,Greuther Furth
+Fri Mar 21 2014,Union Berlin,1-1,0-0,Paderborn
+Sat Mar 22 2014,FC Koln,0-0,0-0,Aalen
+Sat Mar 22 2014,Frankfurt FSV,0-0,0-0,Fortuna Dusseldorf
+Sat Mar 22 2014,St Pauli,0-0,0-0,Ingolstadt
+Sun Mar 23 2014,Bielefeld,1-3,0-1,Cottbus
+Sun Mar 23 2014,Karlsruhe,1-1,1-0,Erzgebirge Aue
+Sun Mar 23 2014,Munich 1860,0-1,0-0,Kaiserslautern
+Tue Mar 25 2014,Aalen,1-1,0-0,Dresden
+Tue Mar 25 2014,Greuther Furth,4-1,1-0,Fortuna Dusseldorf
+Tue Mar 25 2014,Ingolstadt,3-0,1-0,Bochum
+Tue Mar 25 2014,Paderborn,3-0,1-0,St Pauli
+Tue Mar 25 2014,Sandhausen,2-1,1-1,Union Berlin
+Wed Mar 26 2014,Cottbus,1-2,1-0,Munich 1860
+Wed Mar 26 2014,Erzgebirge Aue,2-1,0-1,Frankfurt FSV
+Wed Mar 26 2014,FC Koln,2-0,1-0,Karlsruhe
+Wed Mar 26 2014,Kaiserslautern,1-1,1-1,Bielefeld
+Fri Mar 28 2014,Dresden,0-0,0-0,Sandhausen
+Fri Mar 28 2014,Fortuna Dusseldorf,0-0,0-0,Ingolstadt
+Fri Mar 28 2014,St Pauli,2-2,0-0,Greuther Furth
+Sat Mar 29 2014,Bochum,1-0,0-0,Erzgebirge Aue
+Sat Mar 29 2014,Karlsruhe,2-2,1-0,Kaiserslautern
+Sun Mar 30 2014,Bielefeld,0-0,0-0,Aalen
+Sun Mar 30 2014,Frankfurt FSV,1-3,0-1,Paderborn
+Sun Mar 30 2014,Munich 1860,0-1,0-0,FC Koln
+Mon Mar 31 2014,Union Berlin,2-0,1-0,Cottbus
+Fri Apr 4 2014,Aalen,2-1,1-0,Frankfurt FSV
+Fri Apr 4 2014,Cottbus,0-0,0-0,Dresden
+Fri Apr 4 2014,Paderborn,1-2,0-1,Fortuna Dusseldorf
+Sat Apr 5 2014,FC Koln,2-0,1-0,Bielefeld
+Sat Apr 5 2014,Sandhausen,2-3,0-0,St Pauli
+Sun Apr 6 2014,Erzgebirge Aue,3-2,2-2,Union Berlin
+Sun Apr 6 2014,Kaiserslautern,1-1,1-1,Bochum
+Sun Apr 6 2014,Munich 1860,0-3,0-2,Karlsruhe
+Mon Apr 7 2014,Ingolstadt,0-0,0-0,Greuther Furth
+Fri Apr 11 2014,Ingolstadt,1-2,1-1,Paderborn
+Fri Apr 11 2014,St Pauli,2-3,1-1,Kaiserslautern
+Fri Apr 11 2014,Union Berlin,1-2,1-1,FC Koln
+Sat Apr 12 2014,Bielefeld,0-0,0-0,Karlsruhe
+Sat Apr 12 2014,Greuther Furth,2-1,1-1,Erzgebirge Aue
+Sun Apr 13 2014,Bochum,2-1,0-1,Cottbus
+Sun Apr 13 2014,Fortuna Dusseldorf,3-1,1-0,Aalen
+Sun Apr 13 2014,Frankfurt FSV,0-3,0-2,Sandhausen
+Mon Apr 14 2014,Dresden,4-2,4-1,Munich 1860
+Thu Apr 17 2014,Cottbus,1-1,0-0,St Pauli
+Thu Apr 17 2014,Erzgebirge Aue,2-0,2-0,Dresden
+Thu Apr 17 2014,Sandhausen,0-3,0-2,Fortuna Dusseldorf
+Sat Apr 19 2014,Karlsruhe,3-2,0-0,Union Berlin
+Sat Apr 19 2014,Munich 1860,2-1,1-1,Bielefeld
+Sun Apr 20 2014,Aalen,0-0,0-0,Ingolstadt
+Sun Apr 20 2014,Kaiserslautern,3-2,3-2,Frankfurt FSV
+Sun Apr 20 2014,Paderborn,2-2,1-0,Greuther Furth
+Mon Apr 21 2014,FC Koln,3-1,0-1,Bochum
+Fri Apr 25 2014,Bochum,1-4,0-3,Bielefeld
+Fri Apr 25 2014,Greuther Furth,1-2,1-1,Munich 1860
+Fri Apr 25 2014,Ingolstadt,1-1,1-0,FC Koln
+Sat Apr 26 2014,Fortuna Dusseldorf,4-0,2-0,Erzgebirge Aue
+Sat Apr 26 2014,Frankfurt FSV,3-1,2-0,Cottbus
+Sun Apr 27 2014,Dresden,2-2,1-1,Karlsruhe
+Sun Apr 27 2014,Paderborn,2-0,0-0,Sandhausen
+Sun Apr 27 2014,St Pauli,0-3,0-1,Aalen
+Mon Apr 28 2014,Union Berlin,1-1,1-1,Kaiserslautern
+Sun May 4 2014,Aalen,3-0,1-0,Union Berlin
+Sun May 4 2014,Bielefeld,0-0,0-0,Frankfurt FSV
+Sun May 4 2014,Cottbus,0-6,0-2,Greuther Furth
+Sun May 4 2014,Erzgebirge Aue,0-2,0-1,Paderborn
+Sun May 4 2014,FC Koln,4-0,3-0,St Pauli
+Sun May 4 2014,Kaiserslautern,4-0,1-0,Dresden
+Sun May 4 2014,Karlsruhe,2-2,1-2,Fortuna Dusseldorf
+Sun May 4 2014,Munich 1860,2-0,1-0,Bochum
+Sun May 4 2014,Sandhausen,0-2,0-2,Ingolstadt
+Sun May 11 2014,Bochum,1-0,0-0,Karlsruhe
+Sun May 11 2014,Dresden,2-3,0-1,Bielefeld
+Sun May 11 2014,Fortuna Dusseldorf,4-2,2-2,Kaiserslautern
+Sun May 11 2014,Frankfurt FSV,2-0,0-0,FC Koln
+Sun May 11 2014,Greuther Furth,2-0,0-0,Sandhausen
+Sun May 11 2014,Ingolstadt,2-0,1-0,Cottbus
+Sun May 11 2014,Paderborn,2-1,2-1,Aalen
+Sun May 11 2014,St Pauli,2-2,2-1,Erzgebirge Aue
+Sun May 11 2014,Union Berlin,1-1,0-1,Munich 1860

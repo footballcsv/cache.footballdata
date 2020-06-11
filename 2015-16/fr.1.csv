@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 7 2015,Lille,0-1,0-0,Paris SG
+Sat Aug 8 2015,Bastia,2-1,0-1,Rennes
+Sat Aug 8 2015,Marseille,0-1,0-1,Caen
+Sat Aug 8 2015,Montpellier,0-2,0-1,Angers
+Sat Aug 8 2015,Nantes,1-0,0-0,Guingamp
+Sat Aug 8 2015,Nice,1-2,1-0,Monaco
+Sat Aug 8 2015,Troyes,0-0,0-0,Ajaccio GFCO
+Sun Aug 9 2015,Bordeaux,1-2,1-0,Reims
+Sun Aug 9 2015,Lyon,0-0,0-0,Lorient
+Sun Aug 9 2015,Toulouse,2-1,1-1,St Etienne
+Fri Aug 14 2015,Monaco,0-0,0-0,Lille
+Sat Aug 15 2015,Angers,0-0,0-0,Nantes
+Sat Aug 15 2015,Caen,1-0,0-0,Toulouse
+Sat Aug 15 2015,Guingamp,0-1,0-0,Lyon
+Sat Aug 15 2015,Rennes,1-0,0-0,Montpellier
+Sat Aug 15 2015,St Etienne,1-1,0-0,Bordeaux
+Sat Aug 15 2015,Troyes,3-3,1-3,Nice
+Sun Aug 16 2015,Lorient,1-1,0-1,Bastia
+Sun Aug 16 2015,Paris SG,2-0,2-0,Ajaccio GFCO
+Sun Aug 16 2015,Reims,1-0,1-0,Marseille
+Fri Aug 21 2015,Montpellier,0-1,0-0,Paris SG
+Sat Aug 22 2015,Ajaccio GFCO,0-2,0-2,Angers
+Sat Aug 22 2015,Bastia,3-0,2-0,Guingamp
+Sat Aug 22 2015,Lyon,1-2,1-1,Rennes
+Sat Aug 22 2015,Nantes,1-0,0-0,Reims
+Sat Aug 22 2015,Nice,2-1,0-0,Caen
+Sat Aug 22 2015,Toulouse,1-1,1-0,Monaco
+Sun Aug 23 2015,Lille,0-0,0-0,Bordeaux
+Sun Aug 23 2015,Lorient,0-1,0-0,St Etienne
+Sun Aug 23 2015,Marseille,6-0,1-0,Troyes
+Fri Aug 28 2015,Guingamp,2-0,0-0,Marseille
+Sat Aug 29 2015,Angers,1-1,1-0,Nice
+Sat Aug 29 2015,Caen,0-4,0-2,Lyon
+Sat Aug 29 2015,Lille,1-0,1-0,Ajaccio GFCO
+Sat Aug 29 2015,Reims,4-1,1-0,Lorient
+Sat Aug 29 2015,Rennes,3-1,1-1,Toulouse
+Sat Aug 29 2015,Troyes,0-0,0-0,Montpellier
+Sun Aug 30 2015,Bordeaux,2-0,1-0,Nantes
+Sun Aug 30 2015,Monaco,0-3,0-0,Paris SG
+Sun Aug 30 2015,St Etienne,2-1,1-1,Bastia
+Fri Sep 11 2015,Paris SG,2-2,2-1,Bordeaux
+Sat Sep 12 2015,Lorient,3-1,0-1,Angers
+Sat Sep 12 2015,Lyon,0-0,0-0,Lille
+Sat Sep 12 2015,Montpellier,1-2,0-1,St Etienne
+Sat Sep 12 2015,Nice,0-1,0-0,Guingamp
+Sat Sep 12 2015,Toulouse,2-2,2-0,Reims
+Sat Sep 12 2015,Troyes,1-3,0-2,Caen
+Sun Sep 13 2015,Ajaccio GFCO,0-1,0-1,Monaco
+Sun Sep 13 2015,Marseille,4-1,1-0,Bastia
+Sun Sep 13 2015,Nantes,0-2,0-0,Rennes
+Fri Sep 18 2015,Rennes,1-1,0-0,Lille
+Sat Sep 19 2015,Angers,1-0,0-0,Troyes
+Sat Sep 19 2015,Bastia,1-3,1-2,Nice
+Sat Sep 19 2015,Caen,2-1,1-1,Montpellier
+Sat Sep 19 2015,Guingamp,2-1,1-1,Ajaccio GFCO
+Sat Sep 19 2015,Reims,1-1,0-0,Paris SG
+Sun Sep 20 2015,Bordeaux,1-1,0-1,Toulouse
+Sun Sep 20 2015,Marseille,1-1,0-1,Lyon
+Sun Sep 20 2015,Monaco,2-3,1-2,Lorient
+Sun Sep 20 2015,St Etienne,2-0,1-0,Nantes
+Tue Sep 22 2015,Angers,0-0,0-0,Reims
+Tue Sep 22 2015,Paris SG,3-0,1-0,Guingamp
+Wed Sep 23 2015,Ajaccio GFCO,1-1,1-0,Rennes
+Wed Sep 23 2015,Lorient,2-0,2-0,Caen
+Wed Sep 23 2015,Lyon,2-0,1-0,Bastia
+Wed Sep 23 2015,Nice,6-1,2-1,Bordeaux
+Wed Sep 23 2015,Toulouse,1-1,0-0,Marseille
+Wed Sep 23 2015,Troyes,0-1,0-1,St Etienne
+Thu Sep 24 2015,Montpellier,2-3,2-0,Monaco
+Fri Sep 25 2015,Reims,1-0,0-0,Lille
+Sat Sep 26 2015,Bastia,3-0,3-0,Toulouse
+Sat Sep 26 2015,Bordeaux,3-1,3-0,Lyon
+Sat Sep 26 2015,Caen,2-0,1-0,Ajaccio GFCO
+Sat Sep 26 2015,Nantes,1-4,1-0,Paris SG
+Sat Sep 26 2015,Rennes,1-1,0-1,Troyes
+Sun Sep 27 2015,Guingamp,3-3,1-2,Monaco
+Sun Sep 27 2015,Marseille,1-2,0-1,Angers
+Sun Sep 27 2015,Montpellier,2-1,1-0,Lorient
+Sun Sep 27 2015,St Etienne,1-4,1-3,Nice
+Tue Sep 29 2015,Lille,0-1,0-1,Nantes
+Fri Oct 2 2015,Lille,2-0,1-0,Montpellier
+Sat Oct 3 2015,Ajaccio GFCO,2-2,2-1,Toulouse
+Sat Oct 3 2015,Angers,1-0,1-0,Bastia
+Sat Oct 3 2015,Lyon,1-0,1-0,Reims
+Sat Oct 3 2015,Troyes,0-1,0-0,Guingamp
+Sun Oct 4 2015,Caen,1-0,0-0,St Etienne
+Sun Oct 4 2015,Lorient,3-2,0-1,Bordeaux
+Sun Oct 4 2015,Monaco,1-1,0-1,Rennes
+Sun Oct 4 2015,Paris SG,2-1,2-1,Marseille
+Fri Oct 16 2015,Monaco,1-1,1-0,Lyon
+Sat Oct 17 2015,Bastia,0-2,0-0,Paris SG
+Sat Oct 17 2015,Guingamp,1-1,1-1,Lille
+Sat Oct 17 2015,Nantes,3-0,1-0,Troyes
+Sat Oct 17 2015,Reims,0-1,0-0,Caen
+Sat Oct 17 2015,St Etienne,2-0,1-0,Ajaccio GFCO
+Sat Oct 17 2015,Toulouse,1-2,1-2,Angers
+Sun Oct 18 2015,Bordeaux,0-0,0-0,Montpellier
+Sun Oct 18 2015,Marseille,1-1,1-1,Lorient
+Sun Oct 18 2015,Rennes,1-4,0-1,Nice
+Fri Oct 23 2015,Caen,0-2,0-1,Nantes
+Fri Oct 23 2015,Lyon,3-0,1-0,Toulouse
+Sat Oct 24 2015,Ajaccio GFCO,3-1,3-1,Nice
+Sat Oct 24 2015,Angers,0-0,0-0,Guingamp
+Sat Oct 24 2015,Lorient,1-1,1-0,Rennes
+Sat Oct 24 2015,Montpellier,2-0,0-0,Bastia
+Sun Oct 25 2015,Bordeaux,1-0,0-0,Troyes
+Sun Oct 25 2015,Lille,1-2,0-1,Marseille
+Sun Oct 25 2015,Paris SG,4-1,1-0,St Etienne
+Sun Oct 25 2015,Reims,0-1,0-1,Monaco
+Fri Oct 30 2015,Rennes,0-1,0-0,Paris SG
+Sat Oct 31 2015,Ajaccio GFCO,2-0,1-0,Bordeaux
+Sat Oct 31 2015,Bastia,1-0,1-0,Caen
+Sat Oct 31 2015,Guingamp,2-2,1-0,Lorient
+Sat Oct 31 2015,St Etienne,3-0,0-0,Reims
+Sat Oct 31 2015,Toulouse,1-1,1-1,Montpellier
+Sat Oct 31 2015,Troyes,0-1,0-0,Lyon
+Sun Nov 1 2015,Monaco,1-0,1-0,Angers
+Sun Nov 1 2015,Nantes,0-1,0-0,Marseille
+Sun Nov 1 2015,Nice,0-0,0-0,Lille
+Wed Nov 4 2015,Nice,1-2,1-1,Nantes
+Fri Nov 6 2015,Angers,0-2,0-1,Rennes
+Sat Nov 7 2015,Caen,2-1,0-0,Guingamp
+Sat Nov 7 2015,Lille,1-1,0-0,Bastia
+Sat Nov 7 2015,Lorient,4-1,1-0,Troyes
+Sat Nov 7 2015,Montpellier,2-1,1-0,Nantes
+Sat Nov 7 2015,Paris SG,5-0,2-0,Toulouse
+Sat Nov 7 2015,Reims,1-2,0-1,Ajaccio GFCO
+Sun Nov 8 2015,Bordeaux,3-1,2-1,Monaco
+Sun Nov 8 2015,Lyon,3-0,1-0,St Etienne
+Sun Nov 8 2015,Marseille,0-1,0-1,Nice
+Fri Nov 20 2015,Nice,3-0,1-0,Lyon
+Sat Nov 21 2015,Guingamp,2-0,0-0,Toulouse
+Sat Nov 21 2015,Lorient,1-2,0-2,Paris SG
+Sat Nov 21 2015,Monaco,1-0,1-0,Nantes
+Sat Nov 21 2015,Montpellier,3-1,1-1,Reims
+Sat Nov 21 2015,Troyes,1-1,0-1,Lille
+Sun Nov 22 2015,Bastia,1-2,1-1,Ajaccio GFCO
+Sun Nov 22 2015,Caen,0-0,0-0,Angers
+Sun Nov 22 2015,Rennes,2-2,1-1,Bordeaux
+Sun Nov 22 2015,St Etienne,0-2,0-1,Marseille
+Fri Nov 27 2015,Lyon,2-4,1-2,Montpellier
+Sat Nov 28 2015,Ajaccio GFCO,1-1,1-1,Lorient
+Sat Nov 28 2015,Angers,2-0,2-0,Lille
+Sat Nov 28 2015,Nantes,0-0,0-0,Bastia
+Sat Nov 28 2015,Paris SG,4-1,1-0,Troyes
+Sat Nov 28 2015,Reims,2-2,0-1,Rennes
+Sat Nov 28 2015,Toulouse,2-0,1-0,Nice
+Sun Nov 29 2015,Bordeaux,1-4,0-1,Caen
+Sun Nov 29 2015,Marseille,3-3,1-2,Monaco
+Sun Nov 29 2015,St Etienne,3-0,0-0,Guingamp
+Tue Dec 1 2015,Angers,0-0,0-0,Paris SG
+Tue Dec 1 2015,Lorient,0-0,0-0,Nice
+Tue Dec 1 2015,Nantes,0-0,0-0,Lyon
+Wed Dec 2 2015,Bastia,1-0,0-0,Bordeaux
+Wed Dec 2 2015,Guingamp,1-2,1-1,Reims
+Wed Dec 2 2015,Lille,1-0,0-0,St Etienne
+Wed Dec 2 2015,Monaco,1-1,0-0,Caen
+Wed Dec 2 2015,Montpellier,0-2,0-1,Ajaccio GFCO
+Wed Dec 2 2015,Troyes,0-3,0-1,Toulouse
+Thu Dec 3 2015,Rennes,0-1,0-1,Marseille
+Fri Dec 4 2015,Nice,0-3,0-2,Paris SG
+Sat Dec 5 2015,Ajaccio GFCO,1-1,0-0,Nantes
+Sat Dec 5 2015,Bastia,1-2,0-0,Monaco
+Sat Dec 5 2015,Caen,1-2,0-1,Lille
+Sat Dec 5 2015,Lyon,0-2,0-1,Angers
+Sat Dec 5 2015,Reims,1-1,1-0,Troyes
+Sat Dec 5 2015,Toulouse,2-3,1-0,Lorient
+Sun Dec 6 2015,Bordeaux,1-0,0-0,Guingamp
+Sun Dec 6 2015,Marseille,2-2,0-1,Montpellier
+Sun Dec 6 2015,St Etienne,1-1,0-1,Rennes
+Fri Dec 11 2015,Rennes,1-1,0-0,Caen
+Sat Dec 12 2015,Lille,3-0,1-0,Lorient
+Sat Dec 12 2015,Montpellier,2-1,0-1,Guingamp
+Sat Dec 12 2015,Nantes,1-1,0-0,Toulouse
+Sat Dec 12 2015,Reims,1-1,0-1,Nice
+Sat Dec 12 2015,Troyes,1-1,0-1,Bastia
+Sun Dec 13 2015,Angers,1-1,0-1,Bordeaux
+Sun Dec 13 2015,Marseille,1-1,1-1,Ajaccio GFCO
+Sun Dec 13 2015,Monaco,1-0,0-0,St Etienne
+Sun Dec 13 2015,Paris SG,5-1,2-1,Lyon
+Fri Dec 18 2015,Nice,1-0,1-0,Montpellier
+Sat Dec 19 2015,Bastia,2-0,1-0,Reims
+Sat Dec 19 2015,Caen,0-3,0-2,Paris SG
+Sat Dec 19 2015,Guingamp,0-2,0-0,Rennes
+Sat Dec 19 2015,Lorient,0-0,0-0,Nantes
+Sat Dec 19 2015,Toulouse,1-1,1-0,Lille
+Sat Dec 19 2015,Troyes,0-0,0-0,Monaco
+Sun Dec 20 2015,Ajaccio GFCO,2-1,1-0,Lyon
+Sun Dec 20 2015,Bordeaux,1-1,0-0,Marseille
+Sun Dec 20 2015,St Etienne,1-0,0-0,Angers
+Fri Jan 8 2016,Paris SG,2-0,2-0,Bastia
+Sat Jan 9 2016,Angers,2-0,1-0,Caen
+Sat Jan 9 2016,Lyon,4-1,1-0,Troyes
+Sat Jan 9 2016,Monaco,2-2,0-2,Ajaccio GFCO
+Sat Jan 9 2016,Montpellier,0-1,0-1,Bordeaux
+Sat Jan 9 2016,Reims,1-3,1-0,Toulouse
+Sat Jan 9 2016,Rennes,2-2,2-2,Lorient
+Sun Jan 10 2016,Lille,1-1,1-1,Nice
+Sun Jan 10 2016,Marseille,0-0,0-0,Guingamp
+Sun Jan 10 2016,Nantes,2-1,1-1,St Etienne
+Fri Jan 15 2016,Nice,2-1,0-1,Angers
+Sat Jan 16 2016,Ajaccio GFCO,2-2,1-2,Reims
+Sat Jan 16 2016,Bastia,1-0,0-0,Montpellier
+Sat Jan 16 2016,Bordeaux,1-0,0-0,Lille
+Sat Jan 16 2016,Guingamp,2-2,2-0,Nantes
+Sat Jan 16 2016,Toulouse,0-1,0-0,Paris SG
+Sat Jan 16 2016,Troyes,2-4,2-3,Rennes
+Sun Jan 17 2016,Caen,1-3,0-1,Marseille
+Sun Jan 17 2016,Lorient,0-2,0-0,Monaco
+Sun Jan 17 2016,St Etienne,1-0,0-0,Lyon
+Fri Jan 22 2016,Rennes,1-0,0-0,Ajaccio GFCO
+Sat Jan 23 2016,Guingamp,1-0,0-0,Bastia
+Sat Jan 23 2016,Lille,1-3,1-0,Troyes
+Sat Jan 23 2016,Montpellier,1-2,1-1,Caen
+Sat Jan 23 2016,Nantes,2-2,2-0,Bordeaux
+Sat Jan 23 2016,Nice,2-1,2-1,Lorient
+Sat Jan 23 2016,Paris SG,5-1,2-0,Angers
+Sun Jan 24 2016,Lyon,1-1,0-0,Marseille
+Sun Jan 24 2016,Monaco,4-0,2-0,Toulouse
+Sun Jan 24 2016,Reims,1-1,0-0,St Etienne
+Fri Jan 29 2016,Marseille,1-1,0-0,Lille
+Sat Jan 30 2016,Ajaccio GFCO,0-4,0-2,Montpellier
+Sat Jan 30 2016,Angers,3-0,2-0,Monaco
+Sat Jan 30 2016,Bastia,1-0,0-0,Lyon
+Sat Jan 30 2016,Lorient,2-0,1-0,Reims
+Sat Jan 30 2016,Toulouse,1-2,0-1,Guingamp
+Sat Jan 30 2016,Troyes,0-1,0-1,Nantes
+Sun Jan 31 2016,Bordeaux,4-0,1-0,Rennes
+Sun Jan 31 2016,Caen,2-0,2-0,Nice
+Sun Jan 31 2016,St Etienne,0-2,0-0,Paris SG
+Tue Feb 2 2016,Monaco,2-0,1-0,Bastia
+Tue Feb 2 2016,Montpellier,0-1,0-0,Marseille
+Wed Feb 3 2016,Guingamp,4-0,1-0,Troyes
+Wed Feb 3 2016,Lille,1-0,0-0,Caen
+Wed Feb 3 2016,Lyon,3-0,1-0,Bordeaux
+Wed Feb 3 2016,Nantes,3-1,2-1,Ajaccio GFCO
+Wed Feb 3 2016,Nice,1-0,0-0,Toulouse
+Wed Feb 3 2016,Paris SG,3-1,1-1,Lorient
+Wed Feb 3 2016,Reims,2-1,1-1,Angers
+Thu Feb 4 2016,Rennes,0-1,0-0,St Etienne
+Sat Feb 6 2016,Ajaccio GFCO,0-0,0-0,Guingamp
+Sat Feb 6 2016,Angers,0-3,0-1,Lyon
+Sat Feb 6 2016,Bastia,2-0,1-0,Troyes
+Sat Feb 6 2016,Caen,0-2,0-1,Reims
+Sat Feb 6 2016,Lorient,1-1,0-1,Montpellier
+Sat Feb 6 2016,Monaco,1-0,0-0,Nice
+Sat Feb 6 2016,Toulouse,0-0,0-0,Nantes
+Sun Feb 7 2016,Bordeaux,1-4,1-2,St Etienne
+Sun Feb 7 2016,Lille,1-1,1-0,Rennes
+Sun Feb 7 2016,Marseille,1-2,1-1,Paris SG
+Fri Feb 12 2016,Rennes,1-0,0-0,Angers
+Sat Feb 13 2016,Ajaccio GFCO,2-3,1-3,Troyes
+Sat Feb 13 2016,Guingamp,2-4,1-2,Bordeaux
+Sat Feb 13 2016,Montpellier,2-0,1-0,Toulouse
+Sat Feb 13 2016,Nantes,2-1,2-0,Lorient
+Sat Feb 13 2016,Paris SG,0-0,0-0,Lille
+Sat Feb 13 2016,Reims,0-1,0-0,Bastia
+Sun Feb 14 2016,Lyon,4-1,3-0,Caen
+Sun Feb 14 2016,Nice,1-1,0-1,Marseille
+Sun Feb 14 2016,St Etienne,1-1,0-0,Monaco
+Fri Feb 19 2016,Bordeaux,0-0,0-0,Nice
+Sat Feb 20 2016,Angers,2-3,0-3,Montpellier
+Sat Feb 20 2016,Lorient,4-3,1-2,Guingamp
+Sat Feb 20 2016,Monaco,3-1,2-0,Troyes
+Sat Feb 20 2016,Paris SG,4-1,3-1,Reims
+Sat Feb 20 2016,Toulouse,1-1,0-0,Ajaccio GFCO
+Sun Feb 21 2016,Caen,1-0,0-0,Rennes
+Sun Feb 21 2016,Lille,1-0,1-0,Lyon
+Sun Feb 21 2016,Marseille,1-1,0-0,St Etienne
+Fri Feb 26 2016,Nice,0-2,0-0,Bastia
+Sat Feb 27 2016,Guingamp,2-2,1-1,Angers
+Sat Feb 27 2016,Montpellier,3-0,0-0,Lille
+Sat Feb 27 2016,Reims,4-1,2-0,Bordeaux
+Sat Feb 27 2016,Toulouse,1-2,0-0,Rennes
+Sat Feb 27 2016,Troyes,0-1,0-1,Lorient
+Sun Feb 28 2016,Lyon,2-1,2-0,Paris SG
+Sun Feb 28 2016,Nantes,0-0,0-0,Monaco
+Sun Feb 28 2016,St Etienne,1-2,0-0,Caen
+Fri Mar 4 2016,Caen,2-2,0-0,Monaco
+Sat Mar 5 2016,Angers,0-0,0-0,St Etienne
+Sat Mar 5 2016,Bastia,0-0,0-0,Lorient
+Sat Mar 5 2016,Bordeaux,1-1,1-0,Ajaccio GFCO
+Sat Mar 5 2016,Lille,2-0,0-0,Reims
+Sat Mar 5 2016,Nice,2-1,1-1,Troyes
+Sat Mar 5 2016,Paris SG,0-0,0-0,Montpellier
+Sun Mar 6 2016,Lyon,5-1,3-1,Guingamp
+Sun Mar 6 2016,Marseille,1-1,0-0,Toulouse
+Sun Mar 6 2016,Rennes,4-1,4-0,Nantes
+Wed Mar 9 2016,Ajaccio GFCO,1-1,0-0,Marseille
+Wed Mar 9 2016,Bastia,0-0,0-0,Nantes
+Fri Mar 11 2016,Monaco,2-2,2-1,Reims
+Sat Mar 12 2016,Ajaccio GFCO,1-0,0-0,Caen
+Sat Mar 12 2016,Bastia,1-2,0-1,Lille
+Sat Mar 12 2016,Guingamp,2-0,2-0,St Etienne
+Sat Mar 12 2016,Lorient,1-1,1-0,Marseille
+Sat Mar 12 2016,Montpellier,0-2,0-0,Nice
+Sat Mar 12 2016,Toulouse,4-0,1-0,Bordeaux
+Sun Mar 13 2016,Nantes,2-0,0-0,Angers
+Sun Mar 13 2016,Rennes,2-2,0-1,Lyon
+Sun Mar 13 2016,Troyes,0-9,0-3,Paris SG
+Fri Mar 18 2016,Marseille,2-5,1-3,Rennes
+Sat Mar 19 2016,Angers,5-1,3-1,Lorient
+Sat Mar 19 2016,Caen,2-1,1-1,Troyes
+Sat Mar 19 2016,Lille,1-0,1-0,Toulouse
+Sat Mar 19 2016,Lyon,2-0,0-0,Nantes
+Sat Mar 19 2016,Reims,0-1,0-1,Guingamp
+Sat Mar 19 2016,St Etienne,3-0,0-0,Montpellier
+Sun Mar 20 2016,Bordeaux,1-1,0-0,Bastia
+Sun Mar 20 2016,Nice,3-0,1-0,Ajaccio GFCO
+Sun Mar 20 2016,Paris SG,0-2,0-0,Monaco
+Fri Apr 1 2016,Monaco,1-2,0-1,Bordeaux
+Sat Apr 2 2016,Ajaccio GFCO,0-2,0-1,St Etienne
+Sat Apr 2 2016,Guingamp,2-2,1-1,Montpellier
+Sat Apr 2 2016,Paris SG,4-1,2-1,Nice
+Sat Apr 2 2016,Rennes,3-1,2-0,Reims
+Sat Apr 2 2016,Toulouse,2-0,1-0,Caen
+Sat Apr 2 2016,Troyes,0-1,0-0,Angers
+Sun Apr 3 2016,Bastia,2-1,0-0,Marseille
+Sun Apr 3 2016,Lorient,1-3,1-1,Lyon
+Sun Apr 3 2016,Nantes,0-3,0-1,Lille
+Fri Apr 8 2016,Montpellier,0-2,0-2,Lyon
+Sat Apr 9 2016,Angers,0-0,0-0,Ajaccio GFCO
+Sat Apr 9 2016,Caen,1-2,0-1,Lorient
+Sat Apr 9 2016,Guingamp,0-2,0-0,Paris SG
+Sat Apr 9 2016,Reims,2-1,1-0,Nantes
+Sat Apr 9 2016,St Etienne,1-0,0-0,Troyes
+Sat Apr 9 2016,Toulouse,4-0,0-0,Bastia
+Sun Apr 10 2016,Lille,4-1,1-0,Monaco
+Sun Apr 10 2016,Marseille,0-0,0-0,Bordeaux
+Sun Apr 10 2016,Nice,3-0,2-0,Rennes
+Fri Apr 15 2016,Lyon,1-1,0-1,Nice
+Sat Apr 16 2016,Ajaccio GFCO,2-4,1-1,Lille
+Sat Apr 16 2016,Bastia,0-1,0-0,St Etienne
+Sat Apr 16 2016,Bordeaux,1-3,0-0,Angers
+Sat Apr 16 2016,Lorient,1-1,0-0,Toulouse
+Sat Apr 16 2016,Paris SG,6-0,2-0,Caen
+Sat Apr 16 2016,Troyes,2-1,0-0,Reims
+Sun Apr 17 2016,Monaco,2-1,0-0,Marseille
+Sun Apr 17 2016,Nantes,0-2,0-1,Montpellier
+Sun Apr 17 2016,Rennes,0-3,0-0,Guingamp
+Fri Apr 22 2016,Nice,2-0,1-0,Reims
+Sat Apr 23 2016,Toulouse,2-3,0-0,Lyon
+Sun Apr 24 2016,Ajaccio GFCO,3-2,2-1,Bastia
+Sun Apr 24 2016,Guingamp,1-1,0-1,Caen
+Sun Apr 24 2016,Marseille,1-1,0-1,Nantes
+Sun Apr 24 2016,Montpellier,4-1,3-1,Troyes
+Sun Apr 24 2016,Rennes,1-1,0-1,Monaco
+Sun Apr 24 2016,St Etienne,2-0,0-0,Lorient
+Wed Apr 27 2016,Lille,0-0,0-0,Angers
+Fri Apr 29 2016,Paris SG,4-0,0-0,Rennes
+Sat Apr 30 2016,Caen,0-0,0-0,Bastia
+Sat Apr 30 2016,Lorient,0-1,0-0,Lille
+Sat Apr 30 2016,Lyon,2-1,2-0,Ajaccio GFCO
+Sat Apr 30 2016,Monaco,3-2,2-0,Guingamp
+Sat Apr 30 2016,Nantes,1-0,0-0,Nice
+Sat Apr 30 2016,Reims,2-3,0-1,Montpellier
+Sat Apr 30 2016,St Etienne,0-0,0-0,Toulouse
+Sat Apr 30 2016,Troyes,2-4,0-2,Bordeaux
+Sun May 1 2016,Angers,0-1,0-1,Marseille
+Sat May 7 2016,Ajaccio GFCO,0-4,0-1,Paris SG
+Sat May 7 2016,Bastia,1-0,1-0,Angers
+Sat May 7 2016,Bordeaux,3-0,2-0,Lorient
+Sat May 7 2016,Lille,0-0,0-0,Guingamp
+Sat May 7 2016,Lyon,6-1,4-1,Monaco
+Sat May 7 2016,Marseille,1-0,0-0,Reims
+Sat May 7 2016,Montpellier,2-0,0-0,Rennes
+Sat May 7 2016,Nantes,1-2,0-2,Caen
+Sat May 7 2016,Nice,2-0,0-0,St Etienne
+Sat May 7 2016,Toulouse,1-0,0-0,Troyes
+Wed May 11 2016,Bordeaux,1-1,0-0,Paris SG
+Sat May 14 2016,Angers,2-3,1-0,Toulouse
+Sat May 14 2016,Caen,1-0,1-0,Bordeaux
+Sat May 14 2016,Guingamp,2-3,1-2,Nice
+Sat May 14 2016,Lorient,1-0,1-0,Ajaccio GFCO
+Sat May 14 2016,Monaco,2-0,2-0,Montpellier
+Sat May 14 2016,Paris SG,4-0,2-0,Nantes
+Sat May 14 2016,Reims,4-1,2-0,Lyon
+Sat May 14 2016,Rennes,1-2,0-1,Bastia
+Sat May 14 2016,St Etienne,0-1,0-1,Lille
+Sat May 14 2016,Troyes,1-1,1-0,Marseille

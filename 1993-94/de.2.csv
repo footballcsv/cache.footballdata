@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Wed Jul 28 1993,Chemnitz,0-0,?,Wuppertaler
+Wed Jul 28 1993,CZ Jena,1-1,?,Hertha
+Wed Jul 28 1993,Hansa Rostock,4-0,?,Munich 1860
+Wed Jul 28 1993,Homburg,2-1,?,St Pauli
+Wed Jul 28 1993,Mannheim,1-1,?,F Koln
+Wed Jul 28 1993,Meppen,0-1,?,Bochum
+Wed Jul 28 1993,RW Essen,3-1,?,Saarbrucken
+Wed Jul 28 1993,Stuttgarter K,0-0,?,Hannover
+Wed Jul 28 1993,TB Berlin,0-1,?,Mainz
+Wed Jul 28 1993,Wolfsburg,3-0,?,Uerdingen
+Sat Jul 31 1993,Bochum,2-0,?,Hansa Rostock
+Sat Jul 31 1993,F Koln,2-0,?,Wolfsburg
+Sat Jul 31 1993,Hannover,0-1,?,TB Berlin
+Sat Jul 31 1993,Hertha,1-0,?,Mannheim
+Sat Jul 31 1993,Mainz,2-0,?,CZ Jena
+Sat Jul 31 1993,Munich 1860,1-0,?,RW Essen
+Sat Jul 31 1993,Saarbrucken,3-0,?,Stuttgarter K
+Sat Jul 31 1993,St Pauli,3-0,?,Chemnitz
+Sat Jul 31 1993,Uerdingen,0-1,?,Homburg
+Sat Jul 31 1993,Wuppertaler,0-1,?,Meppen
+Sat Aug 7 1993,Chemnitz,1-4,?,Uerdingen
+Sat Aug 7 1993,CZ Jena,2-2,?,Mannheim
+Sat Aug 7 1993,Hansa Rostock,0-1,?,Wuppertaler
+Sat Aug 7 1993,Homburg,1-2,?,F Koln
+Sat Aug 7 1993,Mainz,1-0,?,Hannover
+Sat Aug 7 1993,Meppen,1-1,?,St Pauli
+Sat Aug 7 1993,RW Essen,0-2,?,Bochum
+Sat Aug 7 1993,Stuttgarter K,0-2,?,Munich 1860
+Sat Aug 7 1993,TB Berlin,0-4,?,Saarbrucken
+Sat Aug 7 1993,Wolfsburg,1-0,?,Hertha
+Sat Aug 14 1993,Bochum,3-1,?,Stuttgarter K
+Sat Aug 14 1993,F Koln,0-1,?,Chemnitz
+Sat Aug 14 1993,Hannover,1-0,?,CZ Jena
+Sat Aug 14 1993,Hertha,1-0,?,Homburg
+Sat Aug 14 1993,Mannheim,1-1,?,Wolfsburg
+Sat Aug 14 1993,Munich 1860,2-1,?,TB Berlin
+Sat Aug 14 1993,Saarbrucken,2-0,?,Mainz
+Sat Aug 14 1993,St Pauli,2-4,?,Hansa Rostock
+Sat Aug 14 1993,Uerdingen,1-0,?,Meppen
+Sat Aug 14 1993,Wuppertaler,0-0,?,RW Essen
+Sat Aug 21 1993,Chemnitz,1-1,?,Hertha
+Sat Aug 21 1993,CZ Jena,2-0,?,Wolfsburg
+Sat Aug 21 1993,Hannover,4-1,?,Saarbrucken
+Sat Aug 21 1993,Hansa Rostock,2-0,?,Uerdingen
+Sat Aug 21 1993,Homburg,3-0,?,Mannheim
+Sat Aug 21 1993,Mainz,1-1,?,Munich 1860
+Sat Aug 21 1993,Meppen,4-2,?,F Koln
+Sat Aug 21 1993,RW Essen,0-0,?,St Pauli
+Sat Aug 21 1993,Stuttgarter K,1-0,?,Wuppertaler
+Sat Aug 21 1993,TB Berlin,1-1,?,Bochum
+Sat Aug 28 1993,Bochum,2-0,?,Mainz
+Sat Aug 28 1993,F Koln,0-0,?,Hansa Rostock
+Sat Aug 28 1993,Hertha,1-1,?,Meppen
+Sat Aug 28 1993,Mannheim,1-0,?,Chemnitz
+Sat Aug 28 1993,Munich 1860,2-2,?,Hannover
+Sat Aug 28 1993,Saarbrucken,2-1,?,CZ Jena
+Sat Aug 28 1993,St Pauli,3-0,?,Stuttgarter K
+Sat Aug 28 1993,Uerdingen,2-0,?,RW Essen
+Sat Aug 28 1993,Wolfsburg,2-0,?,Homburg
+Sat Aug 28 1993,Wuppertaler,1-0,?,TB Berlin
+Sat Sep 4 1993,Chemnitz,1-1,?,Wolfsburg
+Sat Sep 4 1993,CZ Jena,2-1,?,Homburg
+Sat Sep 4 1993,Hannover,0-0,?,Bochum
+Sat Sep 4 1993,Hansa Rostock,2-2,?,Hertha
+Sat Sep 4 1993,Mainz,1-1,?,Wuppertaler
+Sat Sep 4 1993,Meppen,1-0,?,Mannheim
+Sat Sep 4 1993,RW Essen,3-0,?,F Koln
+Sat Sep 4 1993,Saarbrucken,0-2,?,Munich 1860
+Sat Sep 4 1993,Stuttgarter K,0-2,?,Uerdingen
+Sat Sep 4 1993,TB Berlin,0-0,?,St Pauli
+Sat Sep 18 1993,Bochum,4-0,?,Saarbrucken
+Sat Sep 18 1993,F Koln,2-1,?,Stuttgarter K
+Sat Sep 18 1993,Hertha,3-4,?,RW Essen
+Sat Sep 18 1993,Homburg,4-0,?,Chemnitz
+Sat Sep 18 1993,Mannheim,3-3,?,Hansa Rostock
+Sat Sep 18 1993,Munich 1860,2-0,?,CZ Jena
+Sat Sep 18 1993,St Pauli,1-0,?,Mainz
+Sat Sep 18 1993,Uerdingen,3-1,?,TB Berlin
+Sat Sep 18 1993,Wolfsburg,3-2,?,Meppen
+Sat Sep 18 1993,Wuppertaler,0-0,?,Hannover
+Sat Sep 25 1993,CZ Jena,0-2,?,Chemnitz
+Sat Sep 25 1993,Hannover,4-1,?,St Pauli
+Sat Sep 25 1993,Hansa Rostock,2-0,?,Wolfsburg
+Sat Sep 25 1993,Mainz,1-1,?,Uerdingen
+Sat Sep 25 1993,Meppen,2-1,?,Homburg
+Sat Sep 25 1993,Munich 1860,4-1,?,Bochum
+Sat Sep 25 1993,RW Essen,2-0,?,Mannheim
+Sat Sep 25 1993,Saarbrucken,1-0,?,Wuppertaler
+Sat Sep 25 1993,Stuttgarter K,1-1,?,Hertha
+Sat Sep 25 1993,TB Berlin,0-1,?,F Koln
+Sat Oct 2 1993,Bochum,3-0,?,CZ Jena
+Sat Oct 2 1993,Chemnitz,2-1,?,Meppen
+Sat Oct 2 1993,F Koln,1-2,?,Mainz
+Sat Oct 2 1993,Hertha,3-0,?,TB Berlin
+Sat Oct 2 1993,Homburg,0-2,?,Hansa Rostock
+Sat Oct 2 1993,Mannheim,0-1,?,Stuttgarter K
+Sat Oct 2 1993,St Pauli,1-1,?,Saarbrucken
+Sat Oct 2 1993,Uerdingen,3-2,?,Hannover
+Sat Oct 2 1993,Wolfsburg,2-2,?,RW Essen
+Sat Oct 2 1993,Wuppertaler,5-2,?,Munich 1860
+Sat Oct 9 1993,Bochum,1-0,?,Wuppertaler
+Sat Oct 9 1993,CZ Jena,0-0,?,Meppen
+Sat Oct 9 1993,Hannover,0-2,?,F Koln
+Sat Oct 9 1993,Hansa Rostock,2-0,?,Chemnitz
+Sat Oct 9 1993,Mainz,1-1,?,Hertha
+Sat Oct 9 1993,Munich 1860,1-0,?,St Pauli
+Sat Oct 9 1993,RW Essen,3-3,?,Homburg
+Sat Oct 9 1993,Saarbrucken,2-1,?,Uerdingen
+Sat Oct 9 1993,Stuttgarter K,0-0,?,Wolfsburg
+Sat Oct 9 1993,TB Berlin,0-1,?,Mannheim
+Sat Oct 16 1993,Chemnitz,2-1,?,RW Essen
+Sat Oct 16 1993,F Koln,7-4,?,Saarbrucken
+Sat Oct 16 1993,Hertha,0-0,?,Hannover
+Sat Oct 16 1993,Homburg,3-2,?,Stuttgarter K
+Sat Oct 16 1993,Mannheim,1-0,?,Mainz
+Sat Oct 16 1993,Meppen,4-1,?,Hansa Rostock
+Sat Oct 16 1993,St Pauli,1-1,?,Bochum
+Sat Oct 16 1993,Uerdingen,1-0,?,Munich 1860
+Sat Oct 16 1993,Wolfsburg,2-1,?,TB Berlin
+Sat Oct 16 1993,Wuppertaler,0-5,?,CZ Jena
+Sat Oct 23 1993,Bochum,0-0,?,Uerdingen
+Sat Oct 23 1993,CZ Jena,0-0,?,Hansa Rostock
+Sat Oct 23 1993,Hannover,1-1,?,Mannheim
+Sat Oct 23 1993,Mainz,1-2,?,Wolfsburg
+Sat Oct 23 1993,Munich 1860,2-1,?,F Koln
+Sat Oct 23 1993,RW Essen,4-1,?,Meppen
+Sat Oct 23 1993,Saarbrucken,4-2,?,Hertha
+Sat Oct 23 1993,Stuttgarter K,2-0,?,Chemnitz
+Sat Oct 23 1993,TB Berlin,0-1,?,Homburg
+Sat Oct 23 1993,Wuppertaler,2-1,?,St Pauli
+Sat Oct 30 1993,Chemnitz,1-0,?,TB Berlin
+Sat Oct 30 1993,F Koln,1-2,?,Bochum
+Sat Oct 30 1993,Hansa Rostock,0-2,?,RW Essen
+Sat Oct 30 1993,Hertha,0-1,?,Munich 1860
+Sat Oct 30 1993,Homburg,1-0,?,Mainz
+Sat Oct 30 1993,Mannheim,3-0,?,Saarbrucken
+Sat Oct 30 1993,Meppen,2-2,?,Stuttgarter K
+Sat Oct 30 1993,St Pauli,2-1,?,CZ Jena
+Sat Oct 30 1993,Uerdingen,1-1,?,Wuppertaler
+Sat Oct 30 1993,Wolfsburg,0-0,?,Hannover
+Sat Nov 6 1993,Bochum,3-1,?,Hertha
+Sat Nov 6 1993,CZ Jena,2-0,?,RW Essen
+Sat Nov 6 1993,Hannover,1-3,?,Homburg
+Sat Nov 6 1993,Mainz,5-1,?,Chemnitz
+Sat Nov 6 1993,Munich 1860,3-1,?,Mannheim
+Sat Nov 6 1993,Saarbrucken,2-1,?,Wolfsburg
+Sat Nov 6 1993,St Pauli,0-0,?,Uerdingen
+Sat Nov 6 1993,Stuttgarter K,3-2,?,Hansa Rostock
+Sat Nov 6 1993,TB Berlin,1-1,?,Meppen
+Sat Nov 6 1993,Wuppertaler,1-2,?,F Koln
+Sat Nov 13 1993,Chemnitz,1-0,?,Hannover
+Sat Nov 13 1993,F Koln,1-2,?,St Pauli
+Sat Nov 13 1993,Hansa Rostock,2-1,?,TB Berlin
+Sat Nov 13 1993,Hertha,0-3,?,Wuppertaler
+Sat Nov 13 1993,Homburg,2-2,?,Saarbrucken
+Sat Nov 13 1993,Mannheim,1-0,?,Bochum
+Sat Nov 13 1993,Meppen,1-1,?,Mainz
+Sat Nov 13 1993,RW Essen,0-0,?,Stuttgarter K
+Sat Nov 13 1993,Uerdingen,0-0,?,CZ Jena
+Sat Nov 13 1993,Wolfsburg,0-0,?,Munich 1860
+Sat Nov 20 1993,Bochum,2-0,?,Wolfsburg
+Sat Nov 20 1993,Hannover,1-1,?,Meppen
+Sat Nov 20 1993,Mainz,3-1,?,Hansa Rostock
+Sat Nov 20 1993,Munich 1860,1-0,?,Homburg
+Sat Nov 20 1993,Saarbrucken,1-0,?,Chemnitz
+Sat Nov 20 1993,St Pauli,1-0,?,Hertha
+Sat Nov 20 1993,Stuttgarter K,0-2,?,CZ Jena
+Sat Nov 20 1993,TB Berlin,2-2,?,RW Essen
+Sat Nov 20 1993,Uerdingen,0-2,?,F Koln
+Sat Nov 20 1993,Wuppertaler,1-1,?,Mannheim
+Sat Nov 27 1993,Chemnitz,1-1,?,Munich 1860
+Sat Nov 27 1993,CZ Jena,2-2,?,F Koln
+Sat Nov 27 1993,Hansa Rostock,3-1,?,Hannover
+Sat Nov 27 1993,Hertha,1-1,?,Uerdingen
+Sat Nov 27 1993,Homburg,0-0,?,Bochum
+Sat Nov 27 1993,Mannheim,0-0,?,St Pauli
+Sat Nov 27 1993,Meppen,3-0,?,Saarbrucken
+Sat Nov 27 1993,RW Essen,0-0,?,Mainz
+Sat Nov 27 1993,Stuttgarter K,3-1,?,TB Berlin
+Sat Nov 27 1993,Wolfsburg,2-1,?,Wuppertaler
+Sat Dec 4 1993,Bochum,3-2,?,Chemnitz
+Sat Dec 4 1993,F Koln,1-3,?,Hertha
+Sat Dec 4 1993,Hannover,2-0,?,RW Essen
+Sat Dec 4 1993,Mainz,4-0,?,Stuttgarter K
+Sat Dec 4 1993,Munich 1860,1-2,?,Meppen
+Sat Dec 4 1993,Saarbrucken,4-0,?,Hansa Rostock
+Sat Dec 4 1993,St Pauli,1-0,?,Wolfsburg
+Sat Dec 4 1993,TB Berlin,0-0,?,CZ Jena
+Sat Dec 4 1993,Uerdingen,1-2,?,Mannheim
+Sat Dec 4 1993,Wuppertaler,1-1,?,Homburg
+Sat Feb 19 1994,Bochum,4-0,?,Meppen
+Sat Feb 19 1994,F Koln,0-0,?,Mannheim
+Sat Feb 19 1994,Hannover,1-0,?,Stuttgarter K
+Sat Feb 19 1994,Hertha,0-0,?,CZ Jena
+Sat Feb 19 1994,Mainz,1-4,?,TB Berlin
+Sat Feb 19 1994,Munich 1860,1-2,?,Hansa Rostock
+Sat Feb 19 1994,Saarbrucken,3-1,?,RW Essen
+Sat Feb 19 1994,St Pauli,3-0,?,Homburg
+Sat Feb 19 1994,Uerdingen,0-0,?,Wolfsburg
+Sat Feb 19 1994,Wuppertaler,2-2,?,Chemnitz
+Sat Feb 26 1994,Chemnitz,0-0,?,St Pauli
+Sat Feb 26 1994,CZ Jena,2-0,?,Mainz
+Sat Feb 26 1994,Hansa Rostock,2-1,?,Bochum
+Sat Feb 26 1994,Homburg,0-1,?,Uerdingen
+Sat Feb 26 1994,Mannheim,2-2,?,Hertha
+Sat Feb 26 1994,Stuttgarter K,2-2,?,Saarbrucken
+Sat Feb 26 1994,TB Berlin,1-2,?,Hannover
+Sat Mar 5 1994,Bochum,2-0,?,RW Essen
+Sat Mar 5 1994,F Koln,2-1,?,Homburg
+Sat Mar 5 1994,Hannover,1-1,?,Mainz
+Sat Mar 5 1994,Hertha,4-0,?,Wolfsburg
+Sat Mar 5 1994,Mannheim,2-0,?,CZ Jena
+Sat Mar 5 1994,Munich 1860,1-3,?,Stuttgarter K
+Sat Mar 5 1994,Saarbrucken,2-2,?,TB Berlin
+Sat Mar 5 1994,St Pauli,1-0,?,Meppen
+Sat Mar 5 1994,Uerdingen,2-0,?,Chemnitz
+Sat Mar 5 1994,Wuppertaler,4-1,?,Hansa Rostock
+Sat Mar 12 1994,Chemnitz,1-0,?,F Koln
+Sat Mar 12 1994,CZ Jena,2-2,?,Hannover
+Sat Mar 12 1994,Homburg,1-1,?,Hertha
+Sat Mar 12 1994,Mainz,1-1,?,Saarbrucken
+Sat Mar 12 1994,Meppen,0-2,?,Uerdingen
+Sat Mar 12 1994,RW Essen,0-0,?,Wuppertaler
+Sat Mar 12 1994,Stuttgarter K,0-0,?,Bochum
+Sat Mar 12 1994,TB Berlin,1-0,?,Munich 1860
+Sat Mar 12 1994,Wolfsburg,2-2,?,Mannheim
+Sat Mar 19 1994,Bochum,5-1,?,TB Berlin
+Sat Mar 19 1994,F Koln,1-1,?,Meppen
+Sat Mar 19 1994,Hertha,1-2,?,Chemnitz
+Sat Mar 19 1994,Mannheim,2-1,?,Homburg
+Sat Mar 19 1994,Munich 1860,0-2,?,Mainz
+Sat Mar 19 1994,Saarbrucken,0-4,?,Hannover
+Sat Mar 19 1994,St Pauli,1-0,?,RW Essen
+Sat Mar 19 1994,Uerdingen,2-1,?,Hansa Rostock
+Sat Mar 19 1994,Wolfsburg,5-1,?,CZ Jena
+Sat Mar 26 1994,Chemnitz,0-0,?,Mannheim
+Sat Mar 26 1994,CZ Jena,1-2,?,Saarbrucken
+Sat Mar 26 1994,Hannover,1-4,?,Munich 1860
+Sat Mar 26 1994,Hansa Rostock,1-1,?,F Koln
+Sat Mar 26 1994,Homburg,0-0,?,Wolfsburg
+Sat Mar 26 1994,Mainz,3-2,?,Bochum
+Sat Mar 26 1994,Meppen,1-0,?,Hertha
+Sat Mar 26 1994,RW Essen,0-2,?,Uerdingen
+Sat Mar 26 1994,Stuttgarter K,1-1,?,St Pauli
+Sat Mar 26 1994,TB Berlin,1-1,?,Wuppertaler
+Sat Apr 2 1994,Bochum,2-2,?,Hannover
+Sat Apr 2 1994,F Koln,0-1,?,RW Essen
+Sat Apr 2 1994,Hertha,0-1,?,Hansa Rostock
+Sat Apr 2 1994,Homburg,2-1,?,CZ Jena
+Sat Apr 2 1994,Mannheim,2-1,?,Meppen
+Sat Apr 2 1994,Munich 1860,2-0,?,Saarbrucken
+Sat Apr 2 1994,St Pauli,2-1,?,TB Berlin
+Sat Apr 2 1994,Uerdingen,1-1,?,Stuttgarter K
+Sat Apr 2 1994,Wolfsburg,2-0,?,Chemnitz
+Sat Apr 2 1994,Wuppertaler,1-3,?,Mainz
+Wed Apr 6 1994,Chemnitz,2-1,?,Homburg
+Wed Apr 6 1994,CZ Jena,1-1,?,Munich 1860
+Wed Apr 6 1994,Hannover,2-0,?,Wuppertaler
+Wed Apr 6 1994,Hansa Rostock,1-0,?,Mannheim
+Wed Apr 6 1994,Mainz,0-1,?,St Pauli
+Wed Apr 6 1994,Meppen,2-1,?,Wolfsburg
+Wed Apr 6 1994,RW Essen,2-0,?,Hertha
+Wed Apr 6 1994,Saarbrucken,0-1,?,Bochum
+Wed Apr 6 1994,Stuttgarter K,0-0,?,F Koln
+Wed Apr 6 1994,TB Berlin,1-1,?,Uerdingen
+Sat Apr 9 1994,Bochum,2-0,?,Munich 1860
+Sat Apr 9 1994,Chemnitz,0-0,?,CZ Jena
+Sat Apr 9 1994,F Koln,3-1,?,TB Berlin
+Sat Apr 9 1994,Hertha,0-0,?,Stuttgarter K
+Sat Apr 9 1994,Homburg,5-0,?,Meppen
+Sat Apr 9 1994,Mannheim,2-2,?,RW Essen
+Sat Apr 9 1994,St Pauli,2-1,?,Hannover
+Sat Apr 9 1994,Uerdingen,3-0,?,Mainz
+Sat Apr 9 1994,Wolfsburg,1-1,?,Hansa Rostock
+Sat Apr 9 1994,Wuppertaler,4-0,?,Saarbrucken
+Sat Apr 16 1994,Hannover,2-1,?,Uerdingen
+Sat Apr 16 1994,Hansa Rostock,3-2,?,Homburg
+Sat Apr 16 1994,Mainz,0-3,?,F Koln
+Sat Apr 16 1994,Meppen,2-1,?,Chemnitz
+Sat Apr 16 1994,Munich 1860,3-1,?,Wuppertaler
+Sat Apr 16 1994,RW Essen,0-1,?,Wolfsburg
+Sat Apr 16 1994,Saarbrucken,1-1,?,St Pauli
+Sat Apr 16 1994,Stuttgarter K,4-2,?,Mannheim
+Mon Apr 18 1994,Hansa Rostock,0-1,?,St Pauli
+Mon Apr 18 1994,RW Essen,1-4,?,Munich 1860
+Mon Apr 18 1994,Wolfsburg,2-1,?,F Koln
+Sat Apr 23 1994,Chemnitz,3-0,?,Hansa Rostock
+Sat Apr 23 1994,F Koln,4-1,?,Hannover
+Sat Apr 23 1994,Hertha,5-0,?,Mainz
+Sat Apr 23 1994,Homburg,1-1,?,RW Essen
+Sat Apr 23 1994,Mannheim,2-2,?,TB Berlin
+Sat Apr 23 1994,Meppen,1-1,?,CZ Jena
+Sat Apr 23 1994,St Pauli,2-1,?,Munich 1860
+Sat Apr 23 1994,Uerdingen,1-3,?,Saarbrucken
+Sat Apr 23 1994,Wolfsburg,1-0,?,Stuttgarter K
+Sat Apr 23 1994,Wuppertaler,3-1,?,Bochum
+Sat Apr 30 1994,Bochum,1-1,?,St Pauli
+Sat Apr 30 1994,CZ Jena,2-1,?,Wuppertaler
+Sat Apr 30 1994,Hannover,0-2,?,Hertha
+Sat Apr 30 1994,Hansa Rostock,1-1,?,Meppen
+Sat Apr 30 1994,Mainz,2-1,?,Mannheim
+Sat Apr 30 1994,Munich 1860,0-0,?,Uerdingen
+Sat Apr 30 1994,RW Essen,0-1,?,Chemnitz
+Sat Apr 30 1994,Saarbrucken,4-1,?,F Koln
+Sat Apr 30 1994,Stuttgarter K,2-3,?,Homburg
+Sat Apr 30 1994,TB Berlin,3-2,?,Wolfsburg
+Mon May 2 1994,TB Berlin,1-2,?,Hertha
+Mon May 2 1994,Wuppertaler,0-1,?,Stuttgarter K
+Sat May 7 1994,Chemnitz,1-0,?,Stuttgarter K
+Sat May 7 1994,F Koln,0-0,?,Munich 1860
+Sat May 7 1994,Hansa Rostock,0-0,?,CZ Jena
+Sat May 7 1994,Hertha,3-1,?,Saarbrucken
+Sat May 7 1994,Homburg,0-2,?,TB Berlin
+Sat May 7 1994,Meppen,2-1,?,RW Essen
+Sat May 7 1994,St Pauli,1-2,?,Wuppertaler
+Sat May 7 1994,Wolfsburg,2-0,?,Mainz
+Mon May 9 1994,Mannheim,1-1,?,Hannover
+Mon May 9 1994,Meppen,2-1,?,Wuppertaler
+Sat May 14 1994,Bochum,1-0,?,F Koln
+Sat May 14 1994,CZ Jena,1-0,?,St Pauli
+Sat May 14 1994,Hannover,2-0,?,Wolfsburg
+Sat May 14 1994,Mainz,1-1,?,Homburg
+Sat May 14 1994,RW Essen,2-0,?,Hansa Rostock
+Sat May 14 1994,Saarbrucken,1-1,?,Mannheim
+Sat May 14 1994,Stuttgarter K,1-0,?,Meppen
+Sat May 14 1994,TB Berlin,0-0,?,Chemnitz
+Sat May 14 1994,Wuppertaler,1-3,?,Uerdingen
+Mon May 16 1994,CZ Jena,0-0,?,Bochum
+Mon May 16 1994,Munich 1860,1-0,?,Hertha
+Sat May 21 1994,Chemnitz,0-0,?,Mainz
+Sat May 21 1994,F Koln,3-0,?,Wuppertaler
+Sat May 21 1994,Hansa Rostock,2-0,?,Stuttgarter K
+Sat May 21 1994,Hertha,1-1,?,Bochum
+Sat May 21 1994,Homburg,2-0,?,Hannover
+Sat May 21 1994,Mannheim,1-1,?,Munich 1860
+Sat May 21 1994,Meppen,2-1,?,TB Berlin
+Sat May 21 1994,RW Essen,0-5,?,CZ Jena
+Sat May 21 1994,Uerdingen,3-0,?,St Pauli
+Sat May 21 1994,Wolfsburg,3-1,?,Saarbrucken
+Wed May 25 1994,Bochum,0-1,?,Mannheim
+Wed May 25 1994,CZ Jena,0-2,?,Uerdingen
+Wed May 25 1994,Hannover,0-0,?,Chemnitz
+Wed May 25 1994,Mainz,3-0,?,Meppen
+Wed May 25 1994,Munich 1860,4-0,?,Wolfsburg
+Wed May 25 1994,Saarbrucken,0-0,?,Homburg
+Wed May 25 1994,St Pauli,3-2,?,F Koln
+Wed May 25 1994,Stuttgarter K,4-2,?,RW Essen
+Wed May 25 1994,TB Berlin,0-0,?,Hansa Rostock
+Wed May 25 1994,Wuppertaler,1-2,?,Hertha
+Sat May 28 1994,Chemnitz,3-1,?,Saarbrucken
+Sat May 28 1994,CZ Jena,0-0,?,Stuttgarter K
+Sat May 28 1994,F Koln,0-1,?,Uerdingen
+Sat May 28 1994,Hansa Rostock,2-3,?,Mainz
+Sat May 28 1994,Hertha,2-1,?,St Pauli
+Sat May 28 1994,Homburg,0-0,?,Munich 1860
+Sat May 28 1994,Mannheim,2-0,?,Wuppertaler
+Sat May 28 1994,Meppen,4-1,?,Hannover
+Sat May 28 1994,RW Essen,4-6,?,TB Berlin
+Sat May 28 1994,Wolfsburg,0-1,?,Bochum
+Mon May 30 1994,Uerdingen,3-0,?,Bochum
+Sat Jun 4 1994,Bochum,1-4,?,Homburg
+Sat Jun 4 1994,F Koln,1-1,?,CZ Jena
+Sat Jun 4 1994,Hannover,5-0,?,Hansa Rostock
+Sat Jun 4 1994,Mainz,1-1,?,RW Essen
+Sat Jun 4 1994,Munich 1860,3-1,?,Chemnitz
+Sat Jun 4 1994,Saarbrucken,1-1,?,Meppen
+Sat Jun 4 1994,St Pauli,4-1,?,Mannheim
+Sat Jun 4 1994,TB Berlin,2-2,?,Stuttgarter K
+Sat Jun 4 1994,Uerdingen,0-0,?,Hertha
+Sat Jun 4 1994,Wuppertaler,2-1,?,Wolfsburg
+Sat Jun 11 1994,Chemnitz,1-0,?,Bochum
+Sat Jun 11 1994,CZ Jena,0-2,?,TB Berlin
+Sat Jun 11 1994,Hansa Rostock,3-1,?,Saarbrucken
+Sat Jun 11 1994,Hertha,1-1,?,F Koln
+Sat Jun 11 1994,Homburg,2-2,?,Wuppertaler
+Sat Jun 11 1994,Mannheim,2-0,?,Uerdingen
+Sat Jun 11 1994,Meppen,0-1,?,Munich 1860
+Sat Jun 11 1994,RW Essen,0-2,?,Hannover
+Sat Jun 11 1994,Stuttgarter K,4-1,?,Mainz
+Sat Jun 11 1994,Wolfsburg,4-1,?,St Pauli

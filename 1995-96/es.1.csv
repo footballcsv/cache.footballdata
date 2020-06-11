@@ -1,0 +1,463 @@
+Date,Team 1,FT,HT,Team 2
+Sat Sep 2 1995,La Coruna,3-0,2-0,Valencia
+Sat Sep 2 1995,Sp Gijon,3-0,3-0,Albacete
+Sun Sep 3 1995,Ath Bilbao,4-0,2-0,Santander
+Sun Sep 3 1995,Ath Madrid,4-1,1-1,Sociedad
+Sun Sep 3 1995,Celta,0-1,0-0,Compostela
+Sun Sep 3 1995,Espanol,3-1,2-1,Salamanca
+Sun Sep 3 1995,Merida,1-1,1-1,Betis
+Sun Sep 3 1995,Sevilla,0-1,0-0,Tenerife
+Sun Sep 3 1995,Valladolid,0-2,0-0,Barcelona
+Sun Sep 3 1995,Vallecano,1-5,0-1,Real Madrid
+Sun Sep 3 1995,Zaragoza,1-0,1-0,Oviedo
+Sat Sep 9 1995,Albacete,3-2,2-1,Sevilla
+Sat Sep 9 1995,Barcelona,2-2,1-1,Merida
+Sat Sep 9 1995,Betis,3-1,2-0,Zaragoza
+Sat Sep 9 1995,Real Madrid,1-2,0-0,Ath Bilbao
+Sun Sep 10 1995,Compostela,4-0,2-0,La Coruna
+Sun Sep 10 1995,Oviedo,2-0,1-0,Vallecano
+Sun Sep 10 1995,Salamanca,0-1,0-0,Celta
+Sun Sep 10 1995,Santander,0-4,0-0,Ath Madrid
+Sun Sep 10 1995,Sociedad,2-0,1-0,Sp Gijon
+Sun Sep 10 1995,Tenerife,1-4,0-2,Espanol
+Sun Sep 10 1995,Valencia,1-0,0-0,Valladolid
+Sat Sep 16 1995,Ath Bilbao,0-2,0-1,Ath Madrid
+Sun Sep 17 1995,Celta,2-2,2-2,Tenerife
+Sun Sep 17 1995,Espanol,1-0,0-0,Albacete
+Sun Sep 17 1995,La Coruna,2-0,1-0,Salamanca
+Sun Sep 17 1995,Merida,0-2,0-0,Valencia
+Sun Sep 17 1995,Real Madrid,2-3,2-2,Oviedo
+Sun Sep 17 1995,Sevilla,2-1,1-1,Sociedad
+Sun Sep 17 1995,Sp Gijon,4-2,2-1,Santander
+Sun Sep 17 1995,Valladolid,0-0,0-0,Compostela
+Sun Sep 17 1995,Vallecano,1-2,1-1,Betis
+Sun Sep 17 1995,Zaragoza,0-3,0-0,Barcelona
+Sat Sep 23 1995,Barcelona,2-0,1-0,Vallecano
+Sat Sep 23 1995,Betis,0-0,0-0,Real Madrid
+Sat Sep 23 1995,Santander,1-1,1-1,Sevilla
+Sun Sep 24 1995,Albacete,4-0,0-0,Celta
+Sun Sep 24 1995,Ath Madrid,2-0,1-0,Sp Gijon
+Sun Sep 24 1995,Compostela,1-0,1-0,Merida
+Sun Sep 24 1995,Oviedo,0-0,0-0,Ath Bilbao
+Sun Sep 24 1995,Salamanca,0-0,0-0,Valladolid
+Sun Sep 24 1995,Sociedad,0-1,0-1,Espanol
+Sun Sep 24 1995,Tenerife,1-1,0-0,La Coruna
+Sun Sep 24 1995,Valencia,0-0,0-0,Zaragoza
+Sat Sep 30 1995,Ath Bilbao,2-1,1-0,Sp Gijon
+Sat Sep 30 1995,Real Madrid,1-1,1-1,Barcelona
+Sun Oct 1 1995,Celta,1-1,1-1,Sociedad
+Sun Oct 1 1995,Espanol,1-0,0-0,Santander
+Sun Oct 1 1995,La Coruna,5-0,1-0,Albacete
+Sun Oct 1 1995,Merida,0-0,0-0,Salamanca
+Sun Oct 1 1995,Oviedo,0-1,0-1,Betis
+Sun Oct 1 1995,Sevilla,0-0,0-0,Ath Madrid
+Sun Oct 1 1995,Valladolid,3-0,2-0,Tenerife
+Sun Oct 1 1995,Vallecano,3-2,0-0,Valencia
+Sun Oct 1 1995,Zaragoza,1-0,1-0,Compostela
+Wed Oct 4 1995,Albacete,4-2,2-1,Valladolid
+Wed Oct 4 1995,Barcelona,4-1,3-0,Oviedo
+Wed Oct 4 1995,Betis,0-0,0-0,Ath Bilbao
+Wed Oct 4 1995,Compostela,1-0,1-0,Vallecano
+Wed Oct 4 1995,Salamanca,0-1,0-1,Zaragoza
+Wed Oct 4 1995,Santander,2-1,1-1,Celta
+Wed Oct 4 1995,Sociedad,2-1,1-1,La Coruna
+Wed Oct 4 1995,Sp Gijon,3-1,1-1,Sevilla
+Wed Oct 4 1995,Tenerife,1-0,1-0,Merida
+Wed Oct 4 1995,Valencia,4-3,3-0,Real Madrid
+Thu Oct 5 1995,Ath Madrid,2-1,1-1,Espanol
+Sat Oct 7 1995,Betis,1-5,0-2,Barcelona
+Sun Oct 8 1995,Ath Bilbao,1-1,0-0,Sevilla
+Sun Oct 8 1995,Celta,0-3,0-1,Ath Madrid
+Sun Oct 8 1995,Espanol,0-0,0-0,Sp Gijon
+Sun Oct 8 1995,La Coruna,2-3,0-1,Santander
+Sun Oct 8 1995,Merida,1-1,0-0,Albacete
+Sun Oct 8 1995,Oviedo,0-1,0-0,Valencia
+Sun Oct 8 1995,Real Madrid,2-1,2-1,Compostela
+Sun Oct 8 1995,Valladolid,3-0,0-0,Sociedad
+Sun Oct 8 1995,Vallecano,1-4,0-0,Salamanca
+Sun Oct 8 1995,Zaragoza,0-2,0-0,Tenerife
+Sat Oct 14 1995,Ath Madrid,1-0,1-0,La Coruna
+Sat Oct 14 1995,Barcelona,4-1,1-0,Ath Bilbao
+Sat Oct 14 1995,Sevilla,0-3,0-2,Espanol
+Sat Oct 14 1995,Valencia,1-1,1-1,Betis
+Sun Oct 15 1995,Albacete,0-1,0-0,Zaragoza
+Sun Oct 15 1995,Compostela,4-1,2-1,Oviedo
+Sun Oct 15 1995,Salamanca,0-2,0-1,Real Madrid
+Sun Oct 15 1995,Santander,0-0,0-0,Valladolid
+Sun Oct 15 1995,Sociedad,1-2,0-1,Merida
+Sun Oct 15 1995,Sp Gijon,1-0,0-0,Celta
+Sun Oct 15 1995,Tenerife,2-2,0-0,Vallecano
+Sat Oct 21 1995,Valladolid,0-1,0-0,Ath Madrid
+Sun Oct 22 1995,Ath Bilbao,0-0,0-0,Espanol
+Sun Oct 22 1995,Barcelona,1-0,0-0,Valencia
+Sun Oct 22 1995,Betis,5-0,2-0,Compostela
+Sun Oct 22 1995,Celta,4-0,1-0,Sevilla
+Sun Oct 22 1995,La Coruna,1-0,1-0,Sp Gijon
+Sun Oct 22 1995,Merida,3-1,3-1,Santander
+Sun Oct 22 1995,Oviedo,2-2,1-0,Salamanca
+Sun Oct 22 1995,Real Madrid,2-0,1-0,Tenerife
+Sun Oct 22 1995,Vallecano,2-0,0-0,Albacete
+Sun Oct 22 1995,Zaragoza,1-2,0-1,Sociedad
+Sat Oct 28 1995,Albacete,1-1,0-1,Real Madrid
+Sat Oct 28 1995,Compostela,2-1,0-1,Barcelona
+Sat Oct 28 1995,Sevilla,0-0,0-0,La Coruna
+Sun Oct 29 1995,Ath Madrid,1-1,0-1,Merida
+Sun Oct 29 1995,Espanol,2-2,1-0,Celta
+Sun Oct 29 1995,Salamanca,2-1,1-1,Betis
+Sun Oct 29 1995,Santander,0-0,0-0,Zaragoza
+Sun Oct 29 1995,Sociedad,2-1,1-0,Vallecano
+Sun Oct 29 1995,Sp Gijon,4-2,1-2,Valladolid
+Sun Oct 29 1995,Tenerife,3-3,1-0,Oviedo
+Sun Oct 29 1995,Valencia,3-1,2-0,Ath Bilbao
+Sat Nov 4 1995,Real Madrid,3-2,1-0,Sociedad
+Sun Nov 5 1995,Ath Bilbao,3-0,2-0,Celta
+Sun Nov 5 1995,Barcelona,4-1,3-0,Salamanca
+Sun Nov 5 1995,Betis,3-3,2-1,Tenerife
+Sun Nov 5 1995,La Coruna,0-1,0-0,Espanol
+Sun Nov 5 1995,Merida,1-0,1-0,Sp Gijon
+Sun Nov 5 1995,Oviedo,1-0,0-0,Albacete
+Sun Nov 5 1995,Valencia,5-2,2-1,Compostela
+Sun Nov 5 1995,Valladolid,3-3,2-2,Sevilla
+Sun Nov 5 1995,Vallecano,1-2,0-1,Santander
+Sun Nov 5 1995,Zaragoza,0-1,0-0,Ath Madrid
+Sat Nov 11 1995,Celta,0-0,0-0,La Coruna
+Sun Nov 12 1995,Albacete,0-0,0-0,Betis
+Sun Nov 12 1995,Ath Madrid,0-0,0-0,Vallecano
+Sun Nov 12 1995,Compostela,2-1,0-1,Ath Bilbao
+Sun Nov 12 1995,Espanol,2-0,2-0,Valladolid
+Sun Nov 12 1995,Salamanca,4-0,2-0,Valencia
+Sun Nov 12 1995,Santander,2-0,2-0,Real Madrid
+Sun Nov 12 1995,Sevilla,3-0,1-0,Merida
+Sun Nov 12 1995,Sociedad,1-1,1-0,Oviedo
+Sun Nov 12 1995,Sp Gijon,4-1,3-0,Zaragoza
+Sun Nov 12 1995,Tenerife,1-1,0-1,Barcelona
+Sat Nov 18 1995,Barcelona,3-0,1-0,Albacete
+Sat Nov 18 1995,Betis,3-1,1-0,Sociedad
+Sat Nov 18 1995,Real Madrid,1-0,1-0,Ath Madrid
+Sat Nov 18 1995,Zaragoza,0-1,0-0,Sevilla
+Sun Nov 19 1995,Ath Bilbao,1-0,?,La Coruna
+Sun Nov 19 1995,Compostela,0-0,0-0,Salamanca
+Sun Nov 19 1995,Merida,0-1,0-0,Espanol
+Sun Nov 19 1995,Oviedo,2-1,0-1,Santander
+Sun Nov 19 1995,Valencia,2-2,0-1,Tenerife
+Sun Nov 19 1995,Valladolid,1-1,0-0,Celta
+Sun Nov 19 1995,Vallecano,2-0,1-0,Sp Gijon
+Sat Nov 25 1995,Sociedad,1-1,0-1,Barcelona
+Sun Nov 26 1995,Albacete,1-3,0-1,Valencia
+Sun Nov 26 1995,Ath Madrid,3-0,1-0,Oviedo
+Sun Nov 26 1995,Celta,2-0,1-0,Merida
+Sun Nov 26 1995,Espanol,1-1,0-1,Zaragoza
+Sun Nov 26 1995,La Coruna,3-1,1-0,Valladolid
+Sun Nov 26 1995,Salamanca,2-1,1-0,Ath Bilbao
+Sun Nov 26 1995,Santander,0-0,0-0,Betis
+Sun Nov 26 1995,Sevilla,1-0,0-0,Vallecano
+Sun Nov 26 1995,Sp Gijon,0-0,0-0,Real Madrid
+Sun Nov 26 1995,Tenerife,1-1,0-1,Compostela
+Sat Dec 2 1995,Barcelona,1-1,1-1,Santander
+Sat Dec 2 1995,Real Madrid,4-1,3-0,Sevilla
+Sat Dec 2 1995,Vallecano,1-0,1-0,Espanol
+Sun Dec 3 1995,Ath Bilbao,2-1,1-1,Valladolid
+Sun Dec 3 1995,Betis,2-1,2-1,Ath Madrid
+Sun Dec 3 1995,Compostela,3-1,2-0,Albacete
+Sun Dec 3 1995,Merida,0-2,0-1,La Coruna
+Sun Dec 3 1995,Oviedo,1-0,0-0,Sp Gijon
+Sun Dec 3 1995,Salamanca,1-2,1-1,Tenerife
+Sun Dec 3 1995,Valencia,0-1,0-0,Sociedad
+Sun Dec 3 1995,Zaragoza,0-0,0-0,Celta
+Sat Dec 9 1995,Ath Madrid,3-1,2-0,Barcelona
+Sat Dec 9 1995,Santander,0-3,0-2,Valencia
+Sun Dec 10 1995,Albacete,3-3,1-1,Salamanca
+Sun Dec 10 1995,Celta,2-0,1-0,Vallecano
+Sun Dec 10 1995,Espanol,3-1,1-0,Real Madrid
+Sun Dec 10 1995,La Coruna,2-3,1-2,Zaragoza
+Sun Dec 10 1995,Sevilla,1-1,0-1,Oviedo
+Sun Dec 10 1995,Sociedad,0-1,0-1,Compostela
+Sun Dec 10 1995,Sp Gijon,2-3,1-0,Betis
+Sun Dec 10 1995,Tenerife,3-2,2-1,Ath Bilbao
+Sun Dec 10 1995,Valladolid,1-1,1-1,Merida
+Sat Dec 16 1995,Barcelona,1-0,1-0,Sp Gijon
+Sat Dec 16 1995,Betis,1-1,0-0,Sevilla
+Sun Dec 17 1995,Ath Bilbao,1-1,0-0,Merida
+Sun Dec 17 1995,Compostela,2-0,0-0,Santander
+Sun Dec 17 1995,Oviedo,1-2,1-1,Espanol
+Sun Dec 17 1995,Real Madrid,1-0,1-0,Celta
+Sun Dec 17 1995,Salamanca,3-3,3-1,Sociedad
+Sun Dec 17 1995,Tenerife,1-3,1-1,Albacete
+Sun Dec 17 1995,Valencia,0-1,0-0,Ath Madrid
+Sun Dec 17 1995,Vallecano,0-6,0-3,La Coruna
+Sun Dec 17 1995,Zaragoza,5-3,3-1,Valladolid
+Wed Dec 20 1995,Albacete,2-0,0-0,Ath Bilbao
+Wed Dec 20 1995,Ath Madrid,3-0,1-0,Compostela
+Wed Dec 20 1995,Celta,1-0,0-0,Oviedo
+Wed Dec 20 1995,Espanol,1-1,1-0,Betis
+Wed Dec 20 1995,Merida,1-1,1-0,Zaragoza
+Wed Dec 20 1995,Santander,2-1,1-1,Salamanca
+Wed Dec 20 1995,Sevilla,1-0,1-0,Barcelona
+Wed Dec 20 1995,Sociedad,0-1,0-0,Tenerife
+Wed Dec 20 1995,Sp Gijon,1-3,0-1,Valencia
+Wed Dec 20 1995,Valladolid,1-1,0-0,Vallecano
+Thu Dec 21 1995,La Coruna,3-0,3-0,Real Madrid
+Wed Jan 3 1996,Albacete,3-5,2-3,Sociedad
+Wed Jan 3 1996,Ath Bilbao,1-0,0-0,Zaragoza
+Wed Jan 3 1996,Betis,0-3,0-0,Celta
+Wed Jan 3 1996,Compostela,1-0,1-0,Sp Gijon
+Wed Jan 3 1996,Oviedo,0-2,0-0,La Coruna
+Wed Jan 3 1996,Real Madrid,4-1,3-1,Valladolid
+Wed Jan 3 1996,Salamanca,1-3,0-0,Ath Madrid
+Wed Jan 3 1996,Tenerife,2-0,1-0,Santander
+Wed Jan 3 1996,Valencia,1-0,0-0,Sevilla
+Wed Jan 3 1996,Vallecano,4-1,3-0,Merida
+Thu Jan 4 1996,Barcelona,2-1,1-0,Espanol
+Sat Jan 6 1996,Ath Bilbao,0-0,0-0,Sociedad
+Sat Jan 6 1996,Ath Madrid,3-1,1-0,Tenerife
+Sun Jan 7 1996,Celta,1-0,0-0,Barcelona
+Sun Jan 7 1996,Espanol,2-0,1-0,Valencia
+Sun Jan 7 1996,La Coruna,0-0,0-0,Betis
+Sun Jan 7 1996,Merida,2-2,1-2,Real Madrid
+Sun Jan 7 1996,Santander,5-5,2-2,Albacete
+Sun Jan 7 1996,Sevilla,0-1,0-0,Compostela
+Sun Jan 7 1996,Sp Gijon,3-2,2-1,Salamanca
+Sun Jan 7 1996,Valladolid,2-2,2-2,Oviedo
+Sun Jan 7 1996,Zaragoza,1-1,1-0,Vallecano
+Sat Jan 13 1996,Albacete,1-1,0-0,Ath Madrid
+Sat Jan 13 1996,Betis,3-0,0-0,Valladolid
+Sun Jan 14 1996,Barcelona,1-1,0-1,La Coruna
+Sun Jan 14 1996,Compostela,2-1,1-1,Espanol
+Sun Jan 14 1996,Oviedo,0-0,0-0,Merida
+Sun Jan 14 1996,Real Madrid,2-2,0-1,Zaragoza
+Sun Jan 14 1996,Salamanca,4-1,2-0,Sevilla
+Sun Jan 14 1996,Sociedad,2-1,1-0,Santander
+Sun Jan 14 1996,Tenerife,3-0,1-0,Sp Gijon
+Sun Jan 14 1996,Valencia,3-0,1-0,Celta
+Sun Jan 14 1996,Vallecano,2-2,0-1,Ath Bilbao
+Sat Jan 20 1996,Valencia,2-1,0-1,La Coruna
+Sun Jan 21 1996,Albacete,1-3,1-2,Sp Gijon
+Sun Jan 21 1996,Barcelona,1-0,0-0,Valladolid
+Sun Jan 21 1996,Betis,0-1,0-0,Merida
+Sun Jan 21 1996,Compostela,1-1,1-1,Celta
+Sun Jan 21 1996,Oviedo,1-1,1-1,Zaragoza
+Sun Jan 21 1996,Real Madrid,1-2,1-1,Vallecano
+Sun Jan 21 1996,Salamanca,2-2,1-0,Espanol
+Sun Jan 21 1996,Santander,1-1,1-0,Ath Bilbao
+Sun Jan 21 1996,Sociedad,1-0,1-0,Ath Madrid
+Sun Jan 21 1996,Tenerife,4-2,2-0,Sevilla
+Wed Jan 24 1996,Ath Bilbao,0-5,0-1,Real Madrid
+Wed Jan 24 1996,Ath Madrid,2-0,1-0,Santander
+Wed Jan 24 1996,Celta,2-1,2-1,Salamanca
+Wed Jan 24 1996,Espanol,2-1,0-1,Tenerife
+Wed Jan 24 1996,La Coruna,2-0,1-0,Compostela
+Wed Jan 24 1996,Sevilla,1-1,1-0,Albacete
+Wed Jan 24 1996,Sp Gijon,1-1,0-1,Sociedad
+Wed Jan 24 1996,Valladolid,2-5,0-3,Valencia
+Wed Jan 24 1996,Vallecano,1-2,0-1,Oviedo
+Wed Jan 24 1996,Zaragoza,1-2,0-1,Betis
+Thu Jan 25 1996,Merida,0-0,0-0,Barcelona
+Sat Jan 27 1996,Salamanca,0-5,0-3,La Coruna
+Sun Jan 28 1996,Albacete,0-0,0-0,Espanol
+Sun Jan 28 1996,Ath Madrid,4-1,2-1,Ath Bilbao
+Sun Jan 28 1996,Barcelona,3-1,1-0,Zaragoza
+Sun Jan 28 1996,Betis,0-0,0-0,Vallecano
+Sun Jan 28 1996,Compostela,1-3,0-2,Valladolid
+Sun Jan 28 1996,Oviedo,1-2,1-1,Real Madrid
+Sun Jan 28 1996,Santander,1-1,1-1,Sp Gijon
+Sun Jan 28 1996,Sociedad,1-0,1-0,Sevilla
+Sun Jan 28 1996,Tenerife,1-0,1-0,Celta
+Sun Jan 28 1996,Valencia,4-1,2-0,Merida
+Sat Feb 3 1996,Sp Gijon,1-2,0-1,Ath Madrid
+Sat Feb 3 1996,Zaragoza,4-1,1-0,Valencia
+Sun Feb 4 1996,Ath Bilbao,0-1,0-1,Oviedo
+Sun Feb 4 1996,Celta,2-2,1-0,Albacete
+Sun Feb 4 1996,Espanol,0-0,0-0,Sociedad
+Sun Feb 4 1996,La Coruna,1-1,0-1,Tenerife
+Sun Feb 4 1996,Merida,0-2,0-0,Compostela
+Sun Feb 4 1996,Real Madrid,4-2,2-2,Betis
+Sun Feb 4 1996,Sevilla,0-1,0-1,Santander
+Sun Feb 4 1996,Valladolid,1-0,0-0,Salamanca
+Sun Feb 4 1996,Vallecano,1-1,1-0,Barcelona
+Sat Feb 10 1996,Ath Madrid,0-1,0-0,Sevilla
+Sat Feb 10 1996,Barcelona,3-0,1-0,Real Madrid
+Sat Feb 10 1996,Valencia,3-0,2-0,Vallecano
+Sun Feb 11 1996,Albacete,1-0,1-0,La Coruna
+Sun Feb 11 1996,Betis,2-1,1-0,Oviedo
+Sun Feb 11 1996,Compostela,3-2,0-2,Zaragoza
+Sun Feb 11 1996,Salamanca,2-2,1-0,Merida
+Sun Feb 11 1996,Santander,1-1,1-0,Espanol
+Sun Feb 11 1996,Sociedad,3-1,1-0,Celta
+Sun Feb 11 1996,Sp Gijon,1-2,0-1,Ath Bilbao
+Sun Feb 11 1996,Tenerife,1-0,1-0,Valladolid
+Sat Feb 17 1996,Real Madrid,0-0,0-0,Valencia
+Sat Feb 17 1996,Zaragoza,1-1,1-1,Salamanca
+Sun Feb 18 1996,Ath Bilbao,0-1,0-0,Betis
+Sun Feb 18 1996,Celta,0-0,0-0,Santander
+Sun Feb 18 1996,Espanol,0-2,0-1,Ath Madrid
+Sun Feb 18 1996,La Coruna,1-1,0-1,Sociedad
+Sun Feb 18 1996,Merida,2-0,2-0,Tenerife
+Sun Feb 18 1996,Oviedo,1-2,1-1,Barcelona
+Sun Feb 18 1996,Sevilla,2-0,0-0,Sp Gijon
+Sun Feb 18 1996,Valladolid,3-0,1-0,Albacete
+Sun Feb 18 1996,Vallecano,0-1,0-1,Compostela
+Sat Feb 24 1996,Santander,2-1,1-0,La Coruna
+Sun Feb 25 1996,Albacete,2-0,1-0,Merida
+Sun Feb 25 1996,Ath Madrid,3-2,2-2,Celta
+Sun Feb 25 1996,Barcelona,1-0,0-0,Betis
+Sun Feb 25 1996,Compostela,3-3,1-1,Real Madrid
+Sun Feb 25 1996,Salamanca,1-2,0-1,Vallecano
+Sun Feb 25 1996,Sevilla,1-1,1-0,Ath Bilbao
+Sun Feb 25 1996,Sociedad,1-0,0-0,Valladolid
+Sun Feb 25 1996,Sp Gijon,2-3,1-1,Espanol
+Sun Feb 25 1996,Tenerife,1-2,1-1,Zaragoza
+Sun Feb 25 1996,Valencia,3-1,1-1,Oviedo
+Sat Mar 2 1996,Ath Bilbao,0-0,0-0,Barcelona
+Sat Mar 2 1996,Espanol,0-1,0-0,Sevilla
+Sat Mar 2 1996,Merida,1-2,0-1,Sociedad
+Sat Mar 2 1996,Real Madrid,5-0,2-0,Salamanca
+Sat Mar 2 1996,Valladolid,3-1,1-0,Santander
+Sun Mar 3 1996,Betis,3-0,0-0,Valencia
+Sun Mar 3 1996,Celta,0-0,0-0,Sp Gijon
+Sun Mar 3 1996,La Coruna,2-2,0-1,Ath Madrid
+Sun Mar 3 1996,Oviedo,3-1,1-1,Compostela
+Sun Mar 3 1996,Vallecano,2-4,0-1,Tenerife
+Sun Mar 3 1996,Zaragoza,3-1,1-1,Albacete
+Sat Mar 9 1996,Valencia,4-1,2-0,Barcelona
+Sun Mar 10 1996,Albacete,1-2,1-1,Vallecano
+Sun Mar 10 1996,Ath Madrid,0-2,0-0,Valladolid
+Sun Mar 10 1996,Compostela,1-2,0-0,Betis
+Sun Mar 10 1996,Espanol,3-0,1-0,Ath Bilbao
+Sun Mar 10 1996,Salamanca,0-1,0-0,Oviedo
+Sun Mar 10 1996,Santander,2-0,0-0,Merida
+Sun Mar 10 1996,Sevilla,0-0,0-0,Celta
+Sun Mar 10 1996,Sociedad,3-1,1-1,Zaragoza
+Sun Mar 10 1996,Sp Gijon,1-1,1-0,La Coruna
+Sun Mar 10 1996,Tenerife,3-0,1-0,Real Madrid
+Sat Mar 16 1996,Barcelona,1-0,1-0,Compostela
+Sat Mar 16 1996,Real Madrid,2-0,1-0,Albacete
+Sat Mar 16 1996,Zaragoza,1-2,1-2,Santander
+Sun Mar 17 1996,Ath Bilbao,0-1,0-0,Valencia
+Sun Mar 17 1996,Betis,4-0,1-0,Salamanca
+Sun Mar 17 1996,Celta,4-2,4-0,Espanol
+Sun Mar 17 1996,La Coruna,3-2,2-1,Sevilla
+Sun Mar 17 1996,Merida,0-1,0-0,Ath Madrid
+Sun Mar 17 1996,Oviedo,1-3,0-1,Tenerife
+Sun Mar 17 1996,Valladolid,1-0,0-0,Sp Gijon
+Sun Mar 17 1996,Vallecano,2-0,1-0,Sociedad
+Sat Mar 23 1996,Sp Gijon,3-1,1-1,Merida
+Sat Mar 23 1996,Tenerife,1-2,1-0,Betis
+Sun Mar 24 1996,Albacete,0-1,0-0,Oviedo
+Sun Mar 24 1996,Ath Madrid,1-1,1-1,Zaragoza
+Sun Mar 24 1996,Celta,3-1,3-1,Ath Bilbao
+Sun Mar 24 1996,Compostela,0-4,0-2,Valencia
+Sun Mar 24 1996,Espanol,0-0,0-0,La Coruna
+Sun Mar 24 1996,Salamanca,1-3,1-3,Barcelona
+Sun Mar 24 1996,Santander,1-2,0-0,Vallecano
+Sun Mar 24 1996,Sevilla,1-1,1-0,Valladolid
+Sun Mar 24 1996,Sociedad,1-1,1-1,Real Madrid
+Wed Mar 27 1996,Ath Bilbao,0-0,0-0,Compostela
+Wed Mar 27 1996,Barcelona,2-2,2-2,Tenerife
+Wed Mar 27 1996,Betis,2-3,2-1,Albacete
+Wed Mar 27 1996,La Coruna,2-1,1-0,Celta
+Wed Mar 27 1996,Merida,3-2,2-0,Sevilla
+Wed Mar 27 1996,Real Madrid,1-2,0-0,Santander
+Wed Mar 27 1996,Valencia,2-0,1-0,Salamanca
+Wed Mar 27 1996,Valladolid,0-0,0-0,Espanol
+Wed Mar 27 1996,Vallecano,0-3,0-1,Ath Madrid
+Wed Mar 27 1996,Zaragoza,1-1,1-1,Sp Gijon
+Thu Mar 28 1996,Oviedo,0-0,0-0,Sociedad
+Sun Mar 31 1996,Albacete,0-1,0-0,Barcelona
+Sun Mar 31 1996,Ath Madrid,1-2,0-1,Real Madrid
+Sun Mar 31 1996,Celta,1-1,1-0,Valladolid
+Sun Mar 31 1996,Espanol,3-0,0-0,Merida
+Sun Mar 31 1996,La Coruna,0-0,0-0,Ath Bilbao
+Sun Mar 31 1996,Salamanca,1-0,0-0,Compostela
+Sun Mar 31 1996,Santander,0-0,0-0,Oviedo
+Sun Mar 31 1996,Sevilla,1-1,0-1,Zaragoza
+Sun Mar 31 1996,Sociedad,1-1,0-1,Betis
+Sun Mar 31 1996,Sp Gijon,3-1,2-1,Vallecano
+Sun Mar 31 1996,Tenerife,2-1,0-1,Valencia
+Sat Apr 6 1996,Barcelona,1-0,1-0,Sociedad
+Sat Apr 6 1996,Oviedo,1-1,0-1,Ath Madrid
+Sat Apr 6 1996,Zaragoza,1-1,1-1,Espanol
+Sun Apr 7 1996,Ath Bilbao,3-1,1-0,Salamanca
+Sun Apr 7 1996,Betis,2-2,1-0,Santander
+Sun Apr 7 1996,Compostela,0-2,0-2,Tenerife
+Sun Apr 7 1996,Merida,2-0,1-0,Celta
+Sun Apr 7 1996,Real Madrid,0-1,0-1,Sp Gijon
+Sun Apr 7 1996,Valencia,1-0,0-0,Albacete
+Sun Apr 7 1996,Valladolid,2-2,2-1,La Coruna
+Sun Apr 7 1996,Vallecano,0-0,0-0,Sevilla
+Sat Apr 13 1996,Santander,1-1,0-1,Barcelona
+Sat Apr 13 1996,Sevilla,0-1,0-0,Real Madrid
+Sun Apr 14 1996,Albacete,2-1,1-0,Compostela
+Sun Apr 14 1996,Ath Madrid,1-1,1-1,Betis
+Sun Apr 14 1996,Celta,1-1,1-0,Zaragoza
+Sun Apr 14 1996,Espanol,4-2,1-1,Vallecano
+Sun Apr 14 1996,La Coruna,2-1,0-0,Merida
+Sun Apr 14 1996,Sociedad,5-2,4-0,Valencia
+Sun Apr 14 1996,Sp Gijon,0-1,0-1,Oviedo
+Sun Apr 14 1996,Tenerife,4-0,2-0,Salamanca
+Sun Apr 14 1996,Valladolid,1-1,0-0,Ath Bilbao
+Sat Apr 20 1996,Barcelona,1-3,1-1,Ath Madrid
+Sat Apr 20 1996,Valencia,2-1,2-1,Santander
+Sun Apr 21 1996,Ath Bilbao,2-0,1-0,Tenerife
+Sun Apr 21 1996,Betis,2-5,1-3,Sp Gijon
+Sun Apr 21 1996,Compostela,2-0,1-0,Sociedad
+Sun Apr 21 1996,Merida,1-0,0-0,Valladolid
+Sun Apr 21 1996,Oviedo,2-3,1-0,Sevilla
+Sun Apr 21 1996,Real Madrid,1-2,0-0,Espanol
+Sun Apr 21 1996,Salamanca,2-4,1-2,Albacete
+Sun Apr 21 1996,Vallecano,1-3,1-3,Celta
+Sun Apr 21 1996,Zaragoza,2-3,1-2,La Coruna
+Sat Apr 27 1996,Ath Madrid,2-3,1-1,Valencia
+Sun Apr 28 1996,Albacete,0-0,0-0,Tenerife
+Sun Apr 28 1996,Celta,1-1,1-1,Real Madrid
+Sun Apr 28 1996,La Coruna,1-0,0-0,Vallecano
+Sun Apr 28 1996,Merida,1-0,0-0,Ath Bilbao
+Sun Apr 28 1996,Santander,1-0,1-0,Compostela
+Sun Apr 28 1996,Sevilla,1-0,1-0,Betis
+Sun Apr 28 1996,Sociedad,1-0,1-0,Salamanca
+Sun Apr 28 1996,Sp Gijon,0-3,0-3,Barcelona
+Sun Apr 28 1996,Valladolid,0-0,0-0,Zaragoza
+Sat May 4 1996,Compostela,1-3,0-1,Ath Madrid
+Sat May 4 1996,Valencia,1-0,0-0,Sp Gijon
+Sun May 5 1996,Ath Bilbao,2-2,1-0,Albacete
+Sun May 5 1996,Barcelona,1-1,0-1,Sevilla
+Sun May 5 1996,Betis,2-3,1-2,Espanol
+Sun May 5 1996,Oviedo,1-1,0-1,Celta
+Sun May 5 1996,Real Madrid,1-0,0-0,La Coruna
+Sun May 5 1996,Salamanca,5-0,4-0,Santander
+Sun May 5 1996,Tenerife,1-0,0-0,Sociedad
+Sun May 5 1996,Vallecano,0-2,0-0,Valladolid
+Sun May 5 1996,Zaragoza,3-1,1-1,Merida
+Wed May 8 1996,Espanol,5-0,2-0,Oviedo
+Sun May 12 1996,Ath Madrid,2-1,1-0,Salamanca
+Sun May 12 1996,Celta,2-0,0-0,Betis
+Sun May 12 1996,La Coruna,0-4,0-1,Oviedo
+Sun May 12 1996,Merida,0-1,0-0,Vallecano
+Sun May 12 1996,Santander,1-2,1-0,Tenerife
+Sun May 12 1996,Sevilla,1-2,0-1,Valencia
+Sun May 12 1996,Sociedad,8-1,3-1,Albacete
+Sun May 12 1996,Sp Gijon,2-1,1-1,Compostela
+Sun May 12 1996,Valladolid,0-3,0-0,Real Madrid
+Sun May 12 1996,Zaragoza,1-0,0-0,Ath Bilbao
+Wed May 15 1996,Espanol,1-1,0-0,Barcelona
+Sat May 18 1996,Tenerife,1-1,0-0,Ath Madrid
+Sun May 19 1996,Albacete,2-2,0-2,Santander
+Sun May 19 1996,Barcelona,3-2,0-1,Celta
+Sun May 19 1996,Betis,1-0,1-0,La Coruna
+Sun May 19 1996,Compostela,0-0,0-0,Sevilla
+Sun May 19 1996,Oviedo,3-8,2-1,Valladolid
+Sun May 19 1996,Real Madrid,4-0,3-0,Merida
+Sun May 19 1996,Salamanca,3-0,3-0,Sp Gijon
+Sun May 19 1996,Sociedad,2-2,2-1,Ath Bilbao
+Sun May 19 1996,Valencia,1-0,0-0,Espanol
+Sun May 19 1996,Vallecano,4-3,1-0,Zaragoza
+Sat May 25 1996,Ath Bilbao,3-1,0-0,Vallecano
+Sat May 25 1996,Ath Madrid,2-0,2-0,Albacete
+Sat May 25 1996,Celta,1-1,0-1,Valencia
+Sat May 25 1996,Espanol,0-0,0-0,Compostela
+Sat May 25 1996,Santander,2-3,2-2,Sociedad
+Sat May 25 1996,Sevilla,3-1,1-0,Salamanca
+Sat May 25 1996,Sp Gijon,0-2,0-1,Tenerife
+Sat May 25 1996,Valladolid,3-1,2-0,Betis
+Sat May 25 1996,Zaragoza,0-1,0-1,Real Madrid
+Sun May 26 1996,La Coruna,2-2,1-0,Barcelona
+Sun May 26 1996,Merida,3-1,1-0,Oviedo

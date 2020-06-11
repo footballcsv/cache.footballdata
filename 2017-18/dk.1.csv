@@ -1,0 +1,256 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 14 2017,Aarhus,1-2,?,Horsens
+Sat Jul 15 2017,FC Copenhagen,1-1,?,Aalborg
+Sat Jul 15 2017,Sonderjyske,0-0,?,Randers FC
+Sun Jul 16 2017,Lyngby,2-1,?,Silkeborg
+Sun Jul 16 2017,Hobro,2-1,?,Helsingor
+Sun Jul 16 2017,Brondby,4-0,?,Midtjylland
+Mon Jul 17 2017,Odense,1-2,?,Nordsjaelland
+Fri Jul 21 2017,Aarhus,2-0,?,Hobro
+Sat Jul 22 2017,Randers FC,0-3,?,FC Copenhagen
+Sun Jul 23 2017,Horsens,4-1,?,Lyngby
+Sun Jul 23 2017,Aalborg,1-4,?,Sonderjyske
+Sun Jul 23 2017,Nordsjaelland,3-2,?,Brondby
+Sun Jul 23 2017,Midtjylland,2-0,?,Silkeborg
+Mon Jul 24 2017,Helsingor,0-2,?,Odense
+Fri Jul 28 2017,Sonderjyske,1-2,?,Helsingor
+Sat Jul 29 2017,Odense,1-0,?,Horsens
+Sat Jul 29 2017,FC Copenhagen,0-0,?,Hobro
+Sun Jul 30 2017,Midtjylland,2-1,?,Randers FC
+Sun Jul 30 2017,Nordsjaelland,3-2,?,Aalborg
+Sun Jul 30 2017,Brondby,5-3,?,Lyngby
+Mon Jul 31 2017,Silkeborg,2-1,?,Aarhus
+Fri Aug 4 2017,Horsens,1-0,?,Silkeborg
+Sat Aug 5 2017,Hobro,2-0,?,Randers FC
+Sun Aug 6 2017,Lyngby,1-4,?,Nordsjaelland
+Sun Aug 6 2017,Helsingor,2-1,?,Midtjylland
+Sun Aug 6 2017,Odense,0-0,?,Aalborg
+Sun Aug 6 2017,Brondby,1-0,?,FC Copenhagen
+Mon Aug 7 2017,Sonderjyske,3-0,?,Aarhus
+Fri Aug 11 2017,Silkeborg,4-1,?,Helsingor
+Sat Aug 12 2017,Lyngby,1-1,?,Sonderjyske
+Sat Aug 12 2017,FC Copenhagen,1-1,?,Horsens
+Sun Aug 13 2017,Midtjylland,4-3,?,Nordsjaelland
+Sun Aug 13 2017,Randers FC,0-0,?,Brondby
+Sun Aug 13 2017,Aarhus,0-0,?,Odense
+Mon Aug 14 2017,Aalborg,1-1,?,Hobro
+Fri Aug 18 2017,Horsens,0-0,?,Aalborg
+Fri Aug 18 2017,Randers FC,1-1,?,Silkeborg
+Sat Aug 19 2017,FC Copenhagen,3-2,?,Sonderjyske
+Sun Aug 20 2017,Odense,0-2,?,Midtjylland
+Sun Aug 20 2017,Hobro,3-0,?,Lyngby
+Sun Aug 20 2017,Aarhus,2-0,?,Brondby
+Mon Aug 21 2017,Nordsjaelland,1-0,?,Helsingor
+Fri Aug 25 2017,Sonderjyske,2-2,?,Odense
+Fri Aug 25 2017,Silkeborg,0-2,?,Hobro
+Sat Aug 26 2017,Helsingor,2-0,?,Randers FC
+Sat Aug 26 2017,Aalborg,0-0,?,Aarhus
+Sun Aug 27 2017,Midtjylland,1-1,?,Lyngby
+Sun Aug 27 2017,Brondby,2-0,?,Horsens
+Sun Aug 27 2017,Nordsjaelland,3-0,?,FC Copenhagen
+Fri Sep 8 2017,Horsens,2-2,?,Nordsjaelland
+Fri Sep 8 2017,Hobro,3-2,?,Sonderjyske
+Sat Sep 9 2017,Aarhus,1-4,?,Randers FC
+Sun Sep 10 2017,Lyngby,3-1,?,Helsingor
+Sun Sep 10 2017,FC Copenhagen,4-3,?,Midtjylland
+Sun Sep 10 2017,Odense,1-1,?,Brondby
+Mon Sep 11 2017,Aalborg,2-1,?,Silkeborg
+Fri Sep 15 2017,Silkeborg,1-0,?,Odense
+Fri Sep 15 2017,Randers FC,0-0,?,Lyngby
+Sat Sep 16 2017,Sonderjyske,2-2,?,Horsens
+Sun Sep 17 2017,Midtjylland,5-1,?,Hobro
+Sun Sep 17 2017,Helsingor,0-4,?,FC Copenhagen
+Sun Sep 17 2017,Brondby,0-0,?,Aalborg
+Mon Sep 18 2017,Nordsjaelland,1-2,?,Aarhus
+Fri Sep 22 2017,Nordsjaelland,2-2,?,Sonderjyske
+Sat Sep 23 2017,Horsens,2-0,?,Helsingor
+Sat Sep 23 2017,FC Copenhagen,4-0,?,Silkeborg
+Sun Sep 24 2017,Aalborg,3-1,?,Lyngby
+Sun Sep 24 2017,Odense,3-1,?,Randers FC
+Sun Sep 24 2017,Hobro,1-2,?,Brondby
+Mon Sep 25 2017,Aarhus,0-3,?,Midtjylland
+Fri Sep 29 2017,Helsingor,1-5,?,Aarhus
+Fri Sep 29 2017,Randers FC,0-1,?,Horsens
+Sat Sep 30 2017,Hobro,1-1,?,Odense
+Sun Oct 1 2017,Silkeborg,2-4,?,Nordsjaelland
+Sun Oct 1 2017,Midtjylland,4-1,?,Aalborg
+Sun Oct 1 2017,Brondby,4-0,?,Sonderjyske
+Sun Oct 1 2017,Lyngby,3-1,?,FC Copenhagen
+Fri Oct 13 2017,Sonderjyske,0-1,?,Midtjylland
+Sat Oct 14 2017,Nordsjaelland,3-2,?,Randers FC
+Sun Oct 15 2017,Horsens,2-2,?,Hobro
+Sun Oct 15 2017,Aalborg,1-0,?,Helsingor
+Sun Oct 15 2017,Brondby,4-1,?,Silkeborg
+Sun Oct 15 2017,Odense,1-0,?,FC Copenhagen
+Mon Oct 16 2017,Aarhus,0-2,?,Lyngby
+Fri Oct 20 2017,Midtjylland,4-2,?,Horsens
+Sat Oct 21 2017,Silkeborg,1-0,?,Sonderjyske
+Sun Oct 22 2017,Hobro,4-0,?,Nordsjaelland
+Sun Oct 22 2017,Lyngby,1-1,?,Odense
+Sun Oct 22 2017,Helsingor,0-1,?,Brondby
+Sun Oct 22 2017,FC Copenhagen,4-0,?,Aarhus
+Mon Oct 23 2017,Randers FC,1-1,?,Aalborg
+Fri Oct 27 2017,Aarhus,1-4,?,Nordsjaelland
+Sat Oct 28 2017,Helsingor,2-0,?,Silkeborg
+Sun Oct 29 2017,Sonderjyske,1-1,?,Hobro
+Sun Oct 29 2017,Lyngby,2-2,?,Midtjylland
+Sun Oct 29 2017,Horsens,1-1,?,FC Copenhagen
+Sun Oct 29 2017,Aalborg,0-2,?,Odense
+Mon Oct 30 2017,Brondby,3-1,?,Randers FC
+Fri Nov 3 2017,Midtjylland,2-1,?,Helsingor
+Fri Nov 3 2017,Silkeborg,2-2,?,Horsens
+Sat Nov 4 2017,Nordsjaelland,2-2,?,Lyngby
+Sun Nov 5 2017,FC Copenhagen,0-1,?,Brondby
+Sun Nov 5 2017,Odense,0-3,?,Sonderjyske
+Sun Nov 5 2017,Randers FC,1-0,?,Aarhus
+Sun Nov 5 2017,Hobro,0-1,?,Aalborg
+Fri Nov 17 2017,Helsingor,0-1,?,Hobro
+Sat Nov 18 2017,Aarhus,3-1,?,Silkeborg
+Sun Nov 19 2017,Lyngby,1-3,?,Randers FC
+Sun Nov 19 2017,Horsens,0-0,?,Odense
+Sun Nov 19 2017,Sonderjyske,3-0,?,FC Copenhagen
+Sun Nov 19 2017,Brondby,4-2,?,Nordsjaelland
+Mon Nov 20 2017,Aalborg,0-1,?,Midtjylland
+Fri Nov 24 2017,Randers FC,0-2,?,Sonderjyske
+Sat Nov 25 2017,Helsingor,0-1,?,Aalborg
+Sun Nov 26 2017,Nordsjaelland,6-0,?,Horsens
+Sun Nov 26 2017,Odense,3-0,?,Hobro
+Sun Nov 26 2017,FC Copenhagen,5-1,?,Lyngby
+Sun Nov 26 2017,Silkeborg,1-3,?,Brondby
+Mon Nov 27 2017,Midtjylland,4-0,?,Aarhus
+Fri Dec 1 2017,Aarhus,0-0,?,Helsingor
+Sat Dec 2 2017,Lyngby,1-2,?,Aalborg
+Sun Dec 3 2017,Hobro,1-1,?,Horsens
+Sun Dec 3 2017,Silkeborg,3-2,?,Randers FC
+Sun Dec 3 2017,Sonderjyske,1-3,?,Brondby
+Sun Dec 3 2017,FC Copenhagen,1-3,?,Nordsjaelland
+Mon Dec 4 2017,Midtjylland,3-1,?,Odense
+Fri Dec 8 2017,Horsens,2-1,?,Sonderjyske
+Sat Dec 9 2017,Helsingor,2-1,?,Lyngby
+Sun Dec 10 2017,Odense,1-2,?,Silkeborg
+Sun Dec 10 2017,Nordsjaelland,3-2,?,Hobro
+Sun Dec 10 2017,Aalborg,1-1,?,FC Copenhagen
+Sun Dec 10 2017,Brondby,2-2,?,Aarhus
+Mon Dec 11 2017,Randers FC,0-4,?,Midtjylland
+Fri Feb 9 2018,Horsens,0-2,?,Midtjylland
+Sat Feb 10 2018,Silkeborg,3-2,?,Aalborg
+Sat Feb 10 2018,FC Copenhagen,5-1,?,Randers FC
+Sun Feb 11 2018,Odense,6-1,?,Helsingor
+Sun Feb 11 2018,Sonderjyske,2-1,?,Nordsjaelland
+Sun Feb 11 2018,Lyngby,1-3,?,Brondby
+Mon Feb 12 2018,Hobro,0-1,?,Aarhus
+Fri Feb 16 2018,Nordsjaelland,2-1,?,Odense
+Sat Feb 17 2018,Silkeborg,1-1,?,Lyngby
+Sun Feb 18 2018,Helsingor,0-2,?,Horsens
+Sun Feb 18 2018,Randers FC,0-0,?,Hobro
+Sun Feb 18 2018,Midtjylland,3-1,?,FC Copenhagen
+Sun Feb 18 2018,Aalborg,1-1,?,Brondby
+Mon Feb 19 2018,Aarhus,0-0,?,Sonderjyske
+Fri Feb 23 2018,Horsens,1-1,?,Randers FC
+Sat Feb 24 2018,Lyngby,0-0,?,Aarhus
+Sun Feb 25 2018,Hobro,1-2,?,Midtjylland
+Sun Feb 25 2018,Aalborg,1-1,?,Nordsjaelland
+Sun Feb 25 2018,Brondby,6-1,?,Helsingor
+Sun Feb 25 2018,FC Copenhagen,1-0,?,Odense
+Mon Feb 26 2018,Sonderjyske,0-1,?,Silkeborg
+Tue Feb 27 2018,Horsens,1-1,?,Aarhus
+Wed Feb 28 2018,Odense,3-1,?,Lyngby
+Wed Feb 28 2018,Randers FC,0-0,?,Helsingor
+Wed Feb 28 2018,Hobro,0-2,?,FC Copenhagen
+Thu Mar 1 2018,Nordsjaelland,3-1,?,Silkeborg
+Thu Mar 1 2018,Sonderjyske,0-1,?,Aalborg
+Thu Mar 1 2018,Midtjylland,0-1,?,Brondby
+Sat Mar 3 2018,Lyngby,0-3,?,Hobro
+Sun Mar 4 2018,Helsingor,1-2,?,Sonderjyske
+Sun Mar 4 2018,Randers FC,0-3,?,Nordsjaelland
+Sun Mar 4 2018,Aarhus,0-1,?,FC Copenhagen
+Sun Mar 4 2018,Brondby,2-1,?,Odense
+Mon Mar 5 2018,Aalborg,1-1,?,Horsens
+Mon Mar 5 2018,Silkeborg,1-2,?,Midtjylland
+Fri Mar 9 2018,Odense,0-1,?,Aarhus
+Sat Mar 10 2018,Hobro,1-1,?,Silkeborg
+Sun Mar 11 2018,Sonderjyske,1-0,?,Lyngby
+Sun Mar 11 2018,Aalborg,4-0,?,Randers FC
+Sun Mar 11 2018,Nordsjaelland,1-1,?,Midtjylland
+Sun Mar 11 2018,Horsens,1-1,?,Brondby
+Mon Mar 12 2018,FC Copenhagen,4-3,?,Helsingor
+Sun Mar 18 2018,Aarhus,0-0,?,Aalborg
+Sun Mar 18 2018,Brondby,2-1,?,Hobro
+Sun Mar 18 2018,Helsingor,1-0,?,Nordsjaelland
+Sun Mar 18 2018,Lyngby,1-1,?,Horsens
+Sun Mar 18 2018,Midtjylland,2-1,?,Sonderjyske
+Sun Mar 18 2018,Randers FC,4-1,?,Odense
+Sun Mar 18 2018,Silkeborg,1-3,?,FC Copenhagen
+Sat Mar 31 2018,Silkeborg,2-3,?,Helsingor
+Sun Apr 1 2018,Hobro,1-3,?,Aarhus
+Sun Apr 1 2018,Randers FC,2-0,?,Lyngby
+Mon Apr 2 2018,Odense,2-1,?,Sonderjyske
+Mon Apr 2 2018,FC Copenhagen,2-1,?,Nordsjaelland
+Mon Apr 2 2018,Aalborg,0-3,?,Brondby
+Tue Apr 3 2018,Horsens,0-1,?,Midtjylland
+Fri Apr 6 2018,Nordsjaelland,3-1,?,Aalborg
+Sat Apr 7 2018,Lyngby,2-2,?,Odense
+Sun Apr 8 2018,Helsingor,0-1,?,Hobro
+Sun Apr 8 2018,Sonderjyske,1-0,?,Randers FC
+Sun Apr 8 2018,Brondby,5-1,?,Horsens
+Sun Apr 8 2018,Aarhus,2-1,?,Silkeborg
+Mon Apr 9 2018,Midtjylland,3-2,?,FC Copenhagen
+Fri Apr 13 2018,Aarhus,2-1,?,Helsingor
+Sat Apr 14 2018,Sonderjyske,1-0,?,Lyngby
+Sun Apr 15 2018,Odense,3-0,?,Randers FC
+Sun Apr 15 2018,Aalborg,2-0,?,Horsens
+Sun Apr 15 2018,Brondby,2-1,?,FC Copenhagen
+Sun Apr 15 2018,Nordsjaelland,1-2,?,Midtjylland
+Mon Apr 16 2018,Hobro,1-0,?,Silkeborg
+Tue Apr 17 2018,Helsingor,1-0,?,Aarhus
+Wed Apr 18 2018,Horsens,2-2,?,Nordsjaelland
+Wed Apr 18 2018,Randers FC,1-1,?,Odense
+Wed Apr 18 2018,FC Copenhagen,2-1,?,Aalborg
+Thu Apr 19 2018,Lyngby,1-1,?,Sonderjyske
+Thu Apr 19 2018,Silkeborg,2-0,?,Hobro
+Thu Apr 19 2018,Midtjylland,2-3,?,Brondby
+Sat Apr 21 2018,FC Copenhagen,4-1,?,Horsens
+Sun Apr 22 2018,Helsingor,0-0,?,Silkeborg
+Sun Apr 22 2018,Odense,3-0,?,Lyngby
+Sun Apr 22 2018,Aalborg,3-3,?,Midtjylland
+Sun Apr 22 2018,Randers FC,3-0,?,Sonderjyske
+Sun Apr 22 2018,Nordsjaelland,3-4,?,Brondby
+Mon Apr 23 2018,Aarhus,0-1,?,Hobro
+Fri Apr 27 2018,Horsens,2-3,?,FC Copenhagen
+Sun Apr 29 2018,Lyngby,1-3,?,Randers FC
+Sun Apr 29 2018,Sonderjyske,2-0,?,Odense
+Sun Apr 29 2018,Midtjylland,3-0,?,Aalborg
+Sun Apr 29 2018,Brondby,3-1,?,Nordsjaelland
+Mon Apr 30 2018,Hobro,4-1,?,Helsingor
+Mon Apr 30 2018,Silkeborg,2-5,?,Aarhus
+Fri May 4 2018,Horsens,2-1,?,Aalborg
+Sun May 6 2018,Aarhus,3-2,?,Odense
+Sun May 6 2018,Helsingor,1-1,?,Randers FC
+Sun May 6 2018,FC Copenhagen,1-1,?,Brondby
+Sun May 6 2018,Sonderjyske,1-0,?,Hobro
+Sun May 6 2018,Lyngby,2-1,?,Silkeborg
+Mon May 7 2018,Midtjylland,2-1,?,Nordsjaelland
+Fri May 11 2018,Nordsjaelland,2-1,?,Horsens
+Sun May 13 2018,Randers FC,2-1,?,Helsingor
+Sun May 13 2018,Silkeborg,2-2,?,Lyngby
+Sun May 13 2018,Hobro,3-2,?,Sonderjyske
+Sun May 13 2018,Odense,2-3,?,Aarhus
+Sun May 13 2018,Aalborg,1-0,?,FC Copenhagen
+Mon May 14 2018,Brondby,0-1,?,Midtjylland
+Thu May 17 2018,Helsingor,1-1,?,Silkeborg
+Thu May 17 2018,Lyngby,1-2,?,Randers FC
+Fri May 18 2018,Aalborg,0-0,?,Nordsjaelland
+Fri May 18 2018,FC Copenhagen,0-2,?,Midtjylland
+Fri May 18 2018,Horsens,2-2,?,Brondby
+Sat May 19 2018,Aarhus,2-2,?,Sonderjyske
+Mon May 21 2018,Randers FC,2-1,?,Lyngby
+Mon May 21 2018,Silkeborg,4-3,?,Helsingor
+Mon May 21 2018,Brondby,1-1,?,Aalborg
+Mon May 21 2018,Midtjylland,1-0,?,Horsens
+Mon May 21 2018,Nordsjaelland,0-0,?,FC Copenhagen
+Tue May 22 2018,Sonderjyske,0-2,?,Aarhus
+Thu May 24 2018,Vendsyssel,1-0,?,Lyngby
+Thu May 24 2018,Silkeborg,1-0,?,Esbjerg
+Fri May 25 2018,FC Copenhagen,4-1,?,Aarhus
+Sun May 27 2018,Lyngby,1-2,?,Vendsyssel
+Sun May 27 2018,Esbjerg,3-0,?,Silkeborg

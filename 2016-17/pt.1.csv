@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 12 2016,Rio Ave,1-3,1-1,Porto
+Sat Aug 13 2016,Moreirense,1-1,0-1,Pacos Ferreira
+Sat Aug 13 2016,Sp Lisbon,2-0,1-0,Maritimo
+Sat Aug 13 2016,Tondela,0-2,0-1,Benfica
+Sun Aug 14 2016,Boavista,2-0,2-0,Arouca
+Sun Aug 14 2016,Guimaraes,0-1,0-1,Sp Braga
+Sun Aug 14 2016,Setubal,2-0,1-0,Belenenses
+Mon Aug 15 2016,Estoril,0-2,0-1,Feirense
+Fri Aug 19 2016,Belenenses,0-0,0-0,Boavista
+Sat Aug 20 2016,Chaves,1-1,1-0,Tondela
+Sat Aug 20 2016,Maritimo,0-2,0-2,Guimaraes
+Sat Aug 20 2016,Pacos Ferreira,0-1,0-1,Sp Lisbon
+Sat Aug 20 2016,Porto,1-0,0-0,Estoril
+Sun Aug 21 2016,Arouca,2-0,2-0,Nacional
+Sun Aug 21 2016,Benfica,1-1,0-0,Setubal
+Sun Aug 21 2016,Feirense,0-3,0-1,Moreirense
+Mon Aug 22 2016,Sp Braga,1-1,0-1,Rio Ave
+Fri Aug 26 2016,Guimaraes,5-3,2-1,Pacos Ferreira
+Sat Aug 27 2016,Estoril,1-3,0-2,Sp Braga
+Sat Aug 27 2016,Nacional,1-3,0-1,Benfica
+Sat Aug 27 2016,Tondela,0-1,0-0,Belenenses
+Sun Aug 28 2016,Boavista,2-2,1-0,Chaves
+Sun Aug 28 2016,Moreirense,0-1,0-1,Maritimo
+Sun Aug 28 2016,Rio Ave,1-0,0-0,Feirense
+Sun Aug 28 2016,Setubal,2-0,1-0,Arouca
+Sun Aug 28 2016,Sp Lisbon,2-1,2-1,Porto
+Sun Sep 4 2016,Nacional,0-1,0-1,Chaves
+Fri Sep 9 2016,Arouca,1-2,0-1,Benfica
+Sat Sep 10 2016,Belenenses,2-1,0-1,Nacional
+Sat Sep 10 2016,Porto,3-0,1-0,Guimaraes
+Sat Sep 10 2016,Sp Lisbon,3-0,1-0,Moreirense
+Sun Sep 11 2016,Chaves,0-0,0-0,Setubal
+Sun Sep 11 2016,Maritimo,0-1,0-1,Rio Ave
+Sun Sep 11 2016,Pacos Ferreira,0-0,0-0,Estoril
+Sun Sep 11 2016,Sp Braga,3-0,1-0,Boavista
+Mon Sep 12 2016,Feirense,2-1,1-0,Tondela
+Fri Sep 16 2016,Nacional,2-0,1-0,Maritimo
+Sat Sep 17 2016,Estoril,2-0,1-0,Moreirense
+Sat Sep 17 2016,Guimaraes,1-1,1-0,Belenenses
+Sat Sep 17 2016,Setubal,1-4,1-3,Pacos Ferreira
+Sun Sep 18 2016,Arouca,0-1,0-1,Chaves
+Sun Sep 18 2016,Boavista,1-2,0-1,Feirense
+Sun Sep 18 2016,Rio Ave,3-1,3-0,Sp Lisbon
+Sun Sep 18 2016,Tondela,0-0,0-0,Porto
+Mon Sep 19 2016,Benfica,3-1,1-0,Sp Braga
+Fri Sep 23 2016,Porto,3-1,2-1,Boavista
+Fri Sep 23 2016,Sp Lisbon,4-2,1-0,Estoril
+Sat Sep 24 2016,Chaves,0-2,0-0,Benfica
+Sat Sep 24 2016,Feirense,0-3,0-1,Nacional
+Sat Sep 24 2016,Sp Braga,2-1,0-1,Setubal
+Sun Sep 25 2016,Maritimo,2-0,2-0,Tondela
+Sun Sep 25 2016,Moreirense,0-1,0-0,Guimaraes
+Sun Sep 25 2016,Pacos Ferreira,2-1,2-0,Rio Ave
+Mon Sep 26 2016,Belenenses,1-1,1-0,Arouca
+Fri Sep 30 2016,Tondela,2-1,1-0,Pacos Ferreira
+Sat Oct 1 2016,Chaves,3-1,0-1,Belenenses
+Sat Oct 1 2016,Guimaraes,3-3,0-2,Sp Lisbon
+Sat Oct 1 2016,Nacional,0-4,0-3,Porto
+Sat Oct 1 2016,Rio Ave,1-2,1-2,Estoril
+Sun Oct 2 2016,Arouca,1-1,0-0,Sp Braga
+Sun Oct 2 2016,Benfica,4-0,1-0,Feirense
+Sun Oct 2 2016,Boavista,2-0,1-0,Moreirense
+Sun Oct 2 2016,Setubal,0-1,0-0,Maritimo
+Fri Oct 21 2016,Maritimo,1-1,1-0,Boavista
+Fri Oct 21 2016,Pacos Ferreira,1-1,0-1,Nacional
+Sat Oct 22 2016,Feirense,1-1,0-0,Setubal
+Sat Oct 22 2016,Porto,3-0,1-0,Arouca
+Sat Oct 22 2016,Sp Lisbon,1-1,0-0,Tondela
+Sun Oct 23 2016,Belenenses,0-2,0-1,Benfica
+Sun Oct 23 2016,Estoril,0-2,0-1,Guimaraes
+Sun Oct 23 2016,Moreirense,1-1,0-0,Rio Ave
+Mon Oct 24 2016,Sp Braga,1-0,0-0,Chaves
+Fri Oct 28 2016,Benfica,3-0,1-0,Pacos Ferreira
+Fri Oct 28 2016,Nacional,0-0,0-0,Sp Lisbon
+Sat Oct 29 2016,Boavista,0-0,0-0,Estoril
+Sat Oct 29 2016,Setubal,0-0,0-0,Porto
+Sat Oct 29 2016,Tondela,1-2,1-1,Moreirense
+Sun Oct 30 2016,Arouca,1-0,0-0,Maritimo
+Sun Oct 30 2016,Rio Ave,0-3,0-1,Guimaraes
+Sun Oct 30 2016,Sp Braga,2-1,1-0,Belenenses
+Mon Oct 31 2016,Chaves,1-1,0-1,Feirense
+Fri Nov 4 2016,Guimaraes,2-1,0-0,Nacional
+Sat Nov 5 2016,Estoril,2-0,0-0,Tondela
+Sat Nov 5 2016,Feirense,0-1,0-1,Belenenses
+Sat Nov 5 2016,Pacos Ferreira,1-1,0-0,Chaves
+Sat Nov 5 2016,Rio Ave,1-2,1-1,Boavista
+Sun Nov 6 2016,Maritimo,1-0,1-0,Sp Braga
+Sun Nov 6 2016,Moreirense,1-2,0-0,Setubal
+Sun Nov 6 2016,Porto,1-1,0-0,Benfica
+Sun Nov 6 2016,Sp Lisbon,3-0,1-0,Arouca
+Fri Nov 25 2016,Setubal,0-1,0-1,Rio Ave
+Sat Nov 26 2016,Belenenses,0-0,0-0,Porto
+Sat Nov 26 2016,Boavista,0-1,0-1,Sp Lisbon
+Sat Nov 26 2016,Chaves,0-0,0-0,Maritimo
+Sat Nov 26 2016,Nacional,0-1,0-1,Estoril
+Sun Nov 27 2016,Arouca,1-0,1-0,Pacos Ferreira
+Sun Nov 27 2016,Benfica,3-0,1-0,Moreirense
+Sun Nov 27 2016,Tondela,2-1,0-0,Guimaraes
+Mon Nov 28 2016,Sp Braga,6-2,3-1,Feirense
+Fri Dec 2 2016,Maritimo,2-1,1-1,Benfica
+Sat Dec 3 2016,Porto,1-0,0-0,Sp Braga
+Sat Dec 3 2016,Rio Ave,3-1,1-0,Tondela
+Sat Dec 3 2016,Sp Lisbon,2-0,2-0,Setubal
+Sun Dec 4 2016,Estoril,1-1,0-0,Belenenses
+Sun Dec 4 2016,Feirense,0-2,0-0,Arouca
+Sun Dec 4 2016,Guimaraes,1-1,1-0,Chaves
+Sun Dec 4 2016,Moreirense,3-1,1-0,Nacional
+Mon Dec 5 2016,Pacos Ferreira,2-1,2-0,Boavista
+Fri Dec 9 2016,Setubal,2-0,1-0,Estoril
+Sat Dec 10 2016,Belenenses,1-0,1-0,Maritimo
+Sat Dec 10 2016,Boavista,1-2,1-1,Guimaraes
+Sat Dec 10 2016,Chaves,2-1,1-1,Moreirense
+Sun Dec 11 2016,Benfica,2-1,1-0,Sp Lisbon
+Sun Dec 11 2016,Feirense,0-4,0-2,Porto
+Sun Dec 11 2016,Nacional,3-2,0-2,Tondela
+Sun Dec 11 2016,Sp Braga,3-0,2-0,Pacos Ferreira
+Mon Dec 12 2016,Arouca,0-2,0-0,Rio Ave
+Thu Dec 15 2016,Porto,2-1,1-0,Maritimo
+Fri Dec 16 2016,Pacos Ferreira,1-0,0-0,Belenenses
+Sat Dec 17 2016,Estoril,0-1,0-0,Benfica
+Sat Dec 17 2016,Moreirense,1-4,0-2,Arouca
+Sun Dec 18 2016,Guimaraes,3-1,1-0,Setubal
+Sun Dec 18 2016,Rio Ave,2-1,0-0,Nacional
+Sun Dec 18 2016,Sp Lisbon,0-1,0-0,Sp Braga
+Sun Dec 18 2016,Tondela,1-1,1-0,Boavista
+Mon Dec 19 2016,Maritimo,2-0,2-0,Feirense
+Mon Dec 19 2016,Porto,2-1,0-1,Chaves
+Wed Dec 21 2016,Benfica,2-0,2-0,Rio Ave
+Thu Dec 22 2016,Belenenses,0-1,0-0,Sp Lisbon
+Thu Dec 22 2016,Chaves,1-0,0-0,Estoril
+Thu Dec 22 2016,Feirense,2-0,1-0,Pacos Ferreira
+Thu Dec 22 2016,Nacional,0-2,0-2,Boavista
+Thu Dec 22 2016,Sp Braga,2-1,1-1,Moreirense
+Fri Dec 23 2016,Arouca,0-1,0-0,Guimaraes
+Fri Dec 23 2016,Setubal,3-0,2-0,Tondela
+Sat Jan 7 2017,Estoril,0-1,0-1,Maritimo
+Sat Jan 7 2017,Guimaraes,0-2,0-2,Benfica
+Sat Jan 7 2017,Nacional,0-0,0-0,Sp Braga
+Sat Jan 7 2017,Pacos Ferreira,0-0,0-0,Porto
+Sun Jan 8 2017,Boavista,1-0,1-0,Setubal
+Sun Jan 8 2017,Rio Ave,2-2,1-0,Chaves
+Sun Jan 8 2017,Sp Lisbon,2-1,2-0,Feirense
+Sun Jan 8 2017,Tondela,1-2,0-1,Arouca
+Mon Jan 9 2017,Moreirense,1-0,0-0,Belenenses
+Fri Jan 13 2017,Arouca,2-1,0-0,Estoril
+Sat Jan 14 2017,Benfica,3-3,1-3,Boavista
+Sat Jan 14 2017,Chaves,2-2,1-1,Sp Lisbon
+Sat Jan 14 2017,Feirense,0-0,0-0,Guimaraes
+Sat Jan 14 2017,Setubal,1-0,0-0,Nacional
+Sun Jan 15 2017,Belenenses,1-0,0-0,Rio Ave
+Sun Jan 15 2017,Maritimo,3-1,2-1,Pacos Ferreira
+Sun Jan 15 2017,Porto,3-0,2-0,Moreirense
+Mon Jan 16 2017,Sp Braga,2-0,0-0,Tondela
+Fri Jan 20 2017,Pacos Ferreira,0-2,0-1,Moreirense
+Sat Jan 21 2017,Arouca,1-2,1-1,Boavista
+Sat Jan 21 2017,Maritimo,2-2,2-1,Sp Lisbon
+Sat Jan 21 2017,Porto,4-2,1-1,Rio Ave
+Sun Jan 22 2017,Belenenses,1-2,0-1,Setubal
+Sun Jan 22 2017,Benfica,4-0,0-0,Tondela
+Sun Jan 22 2017,Feirense,1-0,1-0,Estoril
+Sun Jan 22 2017,Sp Braga,1-2,0-2,Guimaraes
+Mon Jan 23 2017,Chaves,2-0,2-0,Nacional
+Fri Jan 27 2017,Boavista,0-1,0-0,Belenenses
+Sat Jan 28 2017,Estoril,1-2,0-0,Porto
+Sat Jan 28 2017,Guimaraes,0-0,0-0,Maritimo
+Sat Jan 28 2017,Nacional,1-1,0-0,Arouca
+Sat Jan 28 2017,Sp Lisbon,4-2,3-0,Pacos Ferreira
+Sat Jan 28 2017,Tondela,2-0,2-0,Chaves
+Mon Jan 30 2017,Setubal,1-0,1-0,Benfica
+Thu Feb 2 2017,Moreirense,1-1,1-0,Feirense
+Thu Feb 2 2017,Rio Ave,1-0,0-0,Sp Braga
+Fri Feb 3 2017,Pacos Ferreira,2-0,0-0,Guimaraes
+Sat Feb 4 2017,Chaves,0-0,0-0,Boavista
+Sat Feb 4 2017,Porto,2-1,2-0,Sp Lisbon
+Sun Feb 5 2017,Arouca,2-1,2-1,Setubal
+Sun Feb 5 2017,Belenenses,0-0,0-0,Tondela
+Sun Feb 5 2017,Benfica,3-0,2-0,Nacional
+Mon Feb 6 2017,Feirense,2-1,1-0,Rio Ave
+Mon Feb 6 2017,Maritimo,1-0,1-0,Moreirense
+Mon Feb 6 2017,Sp Braga,1-1,0-1,Estoril
+Fri Feb 10 2017,Benfica,3-0,2-0,Arouca
+Sat Feb 11 2017,Estoril,2-1,2-1,Pacos Ferreira
+Sat Feb 11 2017,Guimaraes,0-2,0-1,Porto
+Sat Feb 11 2017,Setubal,0-0,0-0,Chaves
+Sat Feb 11 2017,Tondela,0-1,0-0,Feirense
+Sun Feb 12 2017,Boavista,1-1,1-1,Sp Braga
+Sun Feb 12 2017,Moreirense,2-3,2-1,Sp Lisbon
+Sun Feb 12 2017,Nacional,1-1,1-0,Belenenses
+Mon Feb 13 2017,Rio Ave,0-0,0-0,Maritimo
+Fri Feb 17 2017,Porto,4-0,1-0,Tondela
+Sat Feb 18 2017,Chaves,2-0,1-0,Arouca
+Sat Feb 18 2017,Feirense,0-1,0-0,Boavista
+Sat Feb 18 2017,Moreirense,1-1,0-0,Estoril
+Sat Feb 18 2017,Sp Lisbon,1-0,1-0,Rio Ave
+Sun Feb 19 2017,Belenenses,1-1,1-1,Guimaraes
+Sun Feb 19 2017,Pacos Ferreira,2-1,1-0,Setubal
+Sun Feb 19 2017,Sp Braga,0-1,0-0,Benfica
+Mon Feb 20 2017,Maritimo,0-0,0-0,Nacional
+Fri Feb 24 2017,Benfica,3-1,1-1,Chaves
+Fri Feb 24 2017,Guimaraes,1-0,1-0,Moreirense
+Sat Feb 25 2017,Estoril,0-2,0-1,Sp Lisbon
+Sat Feb 25 2017,Rio Ave,0-0,0-0,Pacos Ferreira
+Sat Feb 25 2017,Tondela,1-1,1-0,Maritimo
+Sun Feb 26 2017,Boavista,0-1,0-1,Porto
+Sun Feb 26 2017,Nacional,0-0,0-0,Feirense
+Sun Feb 26 2017,Setubal,1-1,0-0,Sp Braga
+Mon Feb 27 2017,Arouca,1-2,1-0,Belenenses
+Fri Mar 3 2017,Moreirense,0-0,0-0,Boavista
+Sat Mar 4 2017,Feirense,0-1,0-1,Benfica
+Sat Mar 4 2017,Porto,7-0,2-0,Nacional
+Sat Mar 4 2017,Sp Braga,3-1,1-1,Arouca
+Sun Mar 5 2017,Belenenses,2-1,0-1,Chaves
+Sun Mar 5 2017,Maritimo,1-0,1-0,Setubal
+Sun Mar 5 2017,Pacos Ferreira,0-0,0-0,Tondela
+Sun Mar 5 2017,Sp Lisbon,1-1,1-0,Guimaraes
+Mon Mar 6 2017,Estoril,0-2,0-1,Rio Ave
+Fri Mar 10 2017,Arouca,0-4,0-2,Porto
+Sat Mar 11 2017,Chaves,0-0,0-0,Sp Braga
+Sat Mar 11 2017,Setubal,1-2,1-0,Feirense
+Sat Mar 11 2017,Tondela,1-4,0-1,Sp Lisbon
+Sun Mar 12 2017,Boavista,3-0,1-0,Maritimo
+Sun Mar 12 2017,Guimaraes,3-3,0-1,Estoril
+Sun Mar 12 2017,Rio Ave,3-2,2-1,Moreirense
+Mon Mar 13 2017,Nacional,1-1,0-1,Pacos Ferreira
+Mon Mar 13 2017,Benfica,4-0,1-0,Belenenses
+Fri Mar 17 2017,Estoril,0-0,0-0,Boavista
+Sat Mar 18 2017,Belenenses,1-2,1-2,Sp Braga
+Sat Mar 18 2017,Moreirense,1-1,0-1,Tondela
+Sat Mar 18 2017,Pacos Ferreira,0-0,0-0,Benfica
+Sat Mar 18 2017,Sp Lisbon,2-0,2-0,Nacional
+Sun Mar 19 2017,Feirense,3-2,0-1,Chaves
+Sun Mar 19 2017,Guimaraes,3-0,0-0,Rio Ave
+Sun Mar 19 2017,Maritimo,3-1,1-1,Arouca
+Sun Mar 19 2017,Porto,1-1,1-0,Setubal
+Fri Mar 31 2017,Chaves,1-0,1-0,Pacos Ferreira
+Fri Mar 31 2017,Nacional,1-2,0-1,Guimaraes
+Sat Apr 1 2017,Benfica,1-1,1-0,Porto
+Sat Apr 1 2017,Boavista,0-1,0-0,Rio Ave
+Sat Apr 1 2017,Tondela,0-2,0-1,Estoril
+Sun Apr 2 2017,Arouca,1-2,1-2,Sp Lisbon
+Sun Apr 2 2017,Belenenses,1-2,1-0,Feirense
+Sun Apr 2 2017,Setubal,2-0,2-0,Moreirense
+Sun Apr 2 2017,Sp Braga,3-3,3-2,Maritimo
+Fri Apr 7 2017,Feirense,0-1,0-1,Sp Braga
+Sat Apr 8 2017,Pacos Ferreira,1-1,1-0,Arouca
+Sat Apr 8 2017,Porto,3-0,1-0,Belenenses
+Sat Apr 8 2017,Sp Lisbon,4-0,2-0,Boavista
+Sun Apr 9 2017,Estoril,0-1,0-0,Nacional
+Sun Apr 9 2017,Guimaraes,2-1,2-0,Tondela
+Sun Apr 9 2017,Moreirense,0-1,0-1,Benfica
+Sun Apr 9 2017,Rio Ave,0-0,0-0,Setubal
+Mon Apr 10 2017,Maritimo,2-1,1-0,Chaves
+Fri Apr 14 2017,Belenenses,1-3,1-2,Estoril
+Fri Apr 14 2017,Benfica,3-0,3-0,Maritimo
+Fri Apr 14 2017,Boavista,0-0,0-0,Pacos Ferreira
+Fri Apr 14 2017,Setubal,0-3,0-1,Sp Lisbon
+Sat Apr 15 2017,Arouca,2-0,1-0,Feirense
+Sat Apr 15 2017,Chaves,2-3,0-3,Guimaraes
+Sat Apr 15 2017,Sp Braga,1-1,1-0,Porto
+Sat Apr 15 2017,Tondela,2-1,1-1,Rio Ave
+Mon Apr 17 2017,Nacional,0-1,0-1,Moreirense
+Fri Apr 21 2017,Rio Ave,3-0,2-0,Arouca
+Sat Apr 22 2017,Estoril,3-0,2-0,Setubal
+Sat Apr 22 2017,Maritimo,3-0,1-0,Belenenses
+Sat Apr 22 2017,Sp Lisbon,1-1,1-0,Benfica
+Sat Apr 22 2017,Tondela,2-0,0-0,Nacional
+Sun Apr 23 2017,Guimaraes,2-0,1-0,Boavista
+Sun Apr 23 2017,Pacos Ferreira,3-1,1-0,Sp Braga
+Sun Apr 23 2017,Porto,0-0,0-0,Feirense
+Mon Apr 24 2017,Moreirense,0-0,0-0,Chaves
+Fri Apr 28 2017,Setubal,0-2,0-0,Guimaraes
+Sat Apr 29 2017,Benfica,2-1,1-0,Estoril
+Sat Apr 29 2017,Boavista,1-0,0-0,Tondela
+Sat Apr 29 2017,Chaves,0-2,0-0,Porto
+Sat Apr 29 2017,Nacional,0-2,0-0,Rio Ave
+Sun Apr 30 2017,Arouca,2-2,2-0,Moreirense
+Sun Apr 30 2017,Belenenses,1-2,0-0,Pacos Ferreira
+Sun Apr 30 2017,Feirense,2-1,2-1,Maritimo
+Sun Apr 30 2017,Sp Braga,2-3,1-0,Sp Lisbon
+Fri May 5 2017,Moreirense,2-1,0-1,Sp Braga
+Sat May 6 2017,Boavista,2-2,2-2,Nacional
+Sat May 6 2017,Maritimo,1-1,0-1,Porto
+Sat May 6 2017,Pacos Ferreira,0-1,0-0,Feirense
+Sun May 7 2017,Guimaraes,1-0,0-0,Arouca
+Sun May 7 2017,Rio Ave,0-1,0-0,Benfica
+Sun May 7 2017,Sp Lisbon,1-3,0-0,Belenenses
+Sun May 7 2017,Tondela,2-1,2-0,Setubal
+Mon May 8 2017,Estoril,2-1,0-1,Chaves
+Fri May 12 2017,Belenenses,1-1,1-0,Moreirense
+Sat May 13 2017,Arouca,1-2,1-1,Tondela
+Sat May 13 2017,Benfica,5-0,4-0,Guimaraes
+Sat May 13 2017,Feirense,2-1,1-1,Sp Lisbon
+Sun May 14 2017,Chaves,2-2,1-0,Rio Ave
+Sun May 14 2017,Maritimo,1-1,0-0,Estoril
+Sun May 14 2017,Porto,4-1,2-1,Pacos Ferreira
+Sun May 14 2017,Sp Braga,4-0,3-0,Nacional
+Mon May 15 2017,Setubal,0-1,0-1,Boavista
+Sat May 20 2017,Boavista,2-2,1-0,Benfica
+Sat May 20 2017,Guimaraes,0-1,0-0,Feirense
+Sat May 20 2017,Nacional,1-2,0-0,Setubal
+Sat May 20 2017,Pacos Ferreira,0-0,0-0,Maritimo
+Sat May 20 2017,Rio Ave,2-0,1-0,Belenenses
+Sun May 21 2017,Estoril,4-2,3-2,Arouca
+Sun May 21 2017,Moreirense,3-1,2-0,Porto
+Sun May 21 2017,Sp Lisbon,4-1,3-0,Chaves
+Sun May 21 2017,Tondela,2-0,1-0,Sp Braga

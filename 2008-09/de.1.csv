@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 15 2008,Bayern Munich,2-2,2-1,Hamburg
+Sat Aug 16 2008,Bielefeld,2-2,0-0,Werder Bremen
+Sat Aug 16 2008,Cottbus,0-3,0-1,Hoffenheim
+Sat Aug 16 2008,Karlsruhe,1-0,1-0,Bochum
+Sat Aug 16 2008,Leverkusen,2-3,1-2,Dortmund
+Sat Aug 16 2008,Schalke 04,3-0,2-0,Hannover
+Sat Aug 16 2008,Wolfsburg,2-1,0-1,FC Koln
+Sun Aug 17 2008,Ein Frankfurt,0-2,0-1,Hertha
+Sun Aug 17 2008,M'gladbach,1-3,0-3,Stuttgart
+Fri Aug 22 2008,Hannover,0-0,0-0,Cottbus
+Sat Aug 23 2008,Dortmund,1-1,1-0,Bayern Munich
+Sat Aug 23 2008,Hamburg,2-1,1-0,Karlsruhe
+Sat Aug 23 2008,Hertha,1-1,1-1,Bielefeld
+Sat Aug 23 2008,Hoffenheim,1-0,1-0,M'gladbach
+Sat Aug 23 2008,Stuttgart,0-2,0-1,Leverkusen
+Sat Aug 23 2008,Werder Bremen,1-1,0-0,Schalke 04
+Sun Aug 24 2008,Bochum,2-2,1-0,Wolfsburg
+Sun Aug 24 2008,FC Koln,1-1,1-0,Ein Frankfurt
+Fri Aug 29 2008,Karlsruhe,0-2,0-0,FC Koln
+Sat Aug 30 2008,Bielefeld,2-4,2-1,Hamburg
+Sat Aug 30 2008,Cottbus,0-1,0-1,Dortmund
+Sat Aug 30 2008,Leverkusen,5-2,3-1,Hoffenheim
+Sat Aug 30 2008,M'gladbach,3-2,2-0,Werder Bremen
+Sat Aug 30 2008,Schalke 04,1-0,1-0,Bochum
+Sat Aug 30 2008,Wolfsburg,2-2,1-1,Ein Frankfurt
+Sun Aug 31 2008,Bayern Munich,4-1,1-0,Hertha
+Sun Aug 31 2008,Stuttgart,2-0,2-0,Hannover
+Sat Sep 13 2008,Dortmund,3-3,0-2,Schalke 04
+Sat Sep 13 2008,FC Koln,0-3,0-0,Bayern Munich
+Sat Sep 13 2008,Hamburg,3-2,1-2,Leverkusen
+Sat Sep 13 2008,Hertha,2-2,0-1,Wolfsburg
+Sat Sep 13 2008,Hoffenheim,0-0,0-0,Stuttgart
+Sat Sep 13 2008,Werder Bremen,3-0,0-0,Cottbus
+Sun Sep 14 2008,Bochum,2-0,2-0,Bielefeld
+Sun Sep 14 2008,Hannover,5-1,2-0,M'gladbach
+Fri Sep 19 2008,Leverkusen,4-0,2-0,Hannover
+Sat Sep 20 2008,Bayern Munich,2-5,0-2,Werder Bremen
+Sat Sep 20 2008,Bielefeld,2-0,0-0,FC Koln
+Sat Sep 20 2008,Cottbus,1-1,1-0,Bochum
+Sat Sep 20 2008,M'gladbach,0-1,0-1,Hertha
+Sat Sep 20 2008,Schalke 04,1-0,1-0,Ein Frankfurt
+Sun Sep 21 2008,Hoffenheim,4-1,2-0,Dortmund
+Sun Sep 21 2008,Stuttgart,3-1,1-1,Karlsruhe
+Sun Sep 21 2008,Wolfsburg,3-0,3-0,Hamburg
+Fri Sep 26 2008,FC Koln,1-0,1-0,Schalke 04
+Sat Sep 27 2008,Bochum,2-3,0-2,Leverkusen
+Sat Sep 27 2008,Dortmund,3-0,2-0,Stuttgart
+Sat Sep 27 2008,Hamburg,1-0,1-0,M'gladbach
+Sat Sep 27 2008,Hannover,1-0,1-0,Bayern Munich
+Sat Sep 27 2008,Hertha,0-1,0-1,Cottbus
+Sat Sep 27 2008,Werder Bremen,5-4,4-2,Hoffenheim
+Sun Sep 28 2008,Ein Frankfurt,1-1,0-1,Bielefeld
+Sun Sep 28 2008,Karlsruhe,2-1,0-0,Wolfsburg
+Fri Oct 3 2008,Bielefeld,1-2,0-1,Karlsruhe
+Sat Oct 4 2008,Bayern Munich,3-3,2-1,Bochum
+Sat Oct 4 2008,Hoffenheim,2-1,0-0,Ein Frankfurt
+Sat Oct 4 2008,Leverkusen,0-1,0-0,Hertha
+Sat Oct 4 2008,M'gladbach,1-2,1-1,FC Koln
+Sat Oct 4 2008,Stuttgart,4-1,2-0,Werder Bremen
+Sun Oct 5 2008,Cottbus,1-2,0-0,Hamburg
+Sun Oct 5 2008,Dortmund,1-1,1-1,Hannover
+Sun Oct 5 2008,Schalke 04,2-2,1-0,Wolfsburg
+Fri Oct 17 2008,Bochum,2-2,0-1,M'gladbach
+Sat Oct 18 2008,Ein Frankfurt,0-2,0-1,Leverkusen
+Sat Oct 18 2008,FC Koln,1-0,1-0,Cottbus
+Sat Oct 18 2008,Hannover,2-5,0-1,Hoffenheim
+Sat Oct 18 2008,Hertha,2-1,1-0,Stuttgart
+Sat Oct 18 2008,Karlsruhe,0-1,0-0,Bayern Munich
+Sat Oct 18 2008,Werder Bremen,3-3,0-0,Dortmund
+Sat Oct 18 2008,Wolfsburg,4-1,2-0,Bielefeld
+Sun Oct 19 2008,Hamburg,1-1,1-0,Schalke 04
+Wed Oct 22 2008,Ein Frankfurt,2-1,0-0,Karlsruhe
+Fri Oct 24 2008,Leverkusen,2-0,0-0,FC Koln
+Sat Oct 25 2008,Bayern Munich,4-2,1-2,Wolfsburg
+Sat Oct 25 2008,Cottbus,2-3,2-1,Ein Frankfurt
+Sat Oct 25 2008,Hannover,1-1,1-1,Werder Bremen
+Sat Oct 25 2008,M'gladbach,1-0,0-0,Karlsruhe
+Sat Oct 25 2008,Schalke 04,0-0,0-0,Bielefeld
+Sun Oct 26 2008,Dortmund,1-1,0-1,Hertha
+Sun Oct 26 2008,Hoffenheim,3-0,3-0,Hamburg
+Sun Oct 26 2008,Stuttgart,2-0,0-0,Bochum
+Tue Oct 28 2008,Bielefeld,1-1,0-1,Cottbus
+Tue Oct 28 2008,Karlsruhe,0-3,0-2,Schalke 04
+Tue Oct 28 2008,Werder Bremen,0-2,0-0,Leverkusen
+Tue Oct 28 2008,Wolfsburg,3-0,1-0,M'gladbach
+Wed Oct 29 2008,Bochum,1-3,1-0,Hoffenheim
+Wed Oct 29 2008,Ein Frankfurt,1-2,0-0,Bayern Munich
+Wed Oct 29 2008,FC Koln,0-1,0-0,Dortmund
+Wed Oct 29 2008,Hamburg,2-0,1-0,Stuttgart
+Wed Oct 29 2008,Hertha,3-0,0-0,Hannover
+Fri Oct 31 2008,Leverkusen,2-0,0-0,Wolfsburg
+Sat Nov 1 2008,Bayern Munich,3-1,1-1,Bielefeld
+Sat Nov 1 2008,Cottbus,0-2,0-0,Schalke 04
+Sat Nov 1 2008,Hannover,3-0,2-0,Hamburg
+Sat Nov 1 2008,Hoffenheim,4-1,1-1,Karlsruhe
+Sat Nov 1 2008,Stuttgart,1-3,0-1,FC Koln
+Sat Nov 1 2008,Werder Bremen,5-1,3-0,Hertha
+Sun Nov 2 2008,Dortmund,1-1,1-1,Bochum
+Sun Nov 2 2008,M'gladbach,1-2,1-1,Ein Frankfurt
+Fri Nov 7 2008,FC Koln,2-1,1-1,Hannover
+Sat Nov 8 2008,Bielefeld,0-2,0-1,M'gladbach
+Sat Nov 8 2008,Bochum,0-0,0-0,Werder Bremen
+Sat Nov 8 2008,Hamburg,2-1,2-0,Dortmund
+Sat Nov 8 2008,Karlsruhe,3-3,1-3,Leverkusen
+Sat Nov 8 2008,Wolfsburg,3-0,1-0,Cottbus
+Sun Nov 9 2008,Ein Frankfurt,2-2,1-0,Stuttgart
+Sun Nov 9 2008,Hertha,1-0,0-0,Hoffenheim
+Sun Nov 9 2008,Schalke 04,1-2,1-2,Bayern Munich
+Fri Nov 14 2008,Hannover,1-1,0-0,Bochum
+Sat Nov 15 2008,Cottbus,1-0,0-0,Karlsruhe
+Sat Nov 15 2008,Dortmund,4-0,3-0,Ein Frankfurt
+Sat Nov 15 2008,Hertha,2-1,0-1,Hamburg
+Sat Nov 15 2008,Hoffenheim,3-2,2-2,Wolfsburg
+Sat Nov 15 2008,Leverkusen,2-1,2-0,Schalke 04
+Sat Nov 15 2008,M'gladbach,2-2,0-1,Bayern Munich
+Sat Nov 15 2008,Stuttgart,0-0,0-0,Bielefeld
+Sun Nov 16 2008,Werder Bremen,3-1,2-0,FC Koln
+Fri Nov 21 2008,Karlsruhe,0-1,0-1,Dortmund
+Sat Nov 22 2008,Bayern Munich,4-1,2-1,Cottbus
+Sat Nov 22 2008,Bielefeld,2-1,0-0,Leverkusen
+Sat Nov 22 2008,Bochum,2-3,0-3,Hertha
+Sat Nov 22 2008,Ein Frankfurt,4-0,2-0,Hannover
+Sat Nov 22 2008,FC Koln,1-3,0-1,Hoffenheim
+Sat Nov 22 2008,Schalke 04,3-1,3-1,M'gladbach
+Sat Nov 22 2008,Wolfsburg,4-1,0-1,Stuttgart
+Sun Nov 23 2008,Hamburg,2-1,1-1,Werder Bremen
+Fri Nov 28 2008,Hertha,2-1,1-1,FC Koln
+Sat Nov 29 2008,Hannover,3-2,3-0,Karlsruhe
+Sat Nov 29 2008,Hoffenheim,3-0,2-0,Bielefeld
+Sat Nov 29 2008,Leverkusen,0-2,0-0,Bayern Munich
+Sat Nov 29 2008,M'gladbach,1-3,0-1,Cottbus
+Sat Nov 29 2008,Werder Bremen,5-0,3-0,Ein Frankfurt
+Sun Nov 30 2008,Bochum,1-1,1-0,Hamburg
+Sun Nov 30 2008,Dortmund,0-0,0-0,Wolfsburg
+Sun Nov 30 2008,Stuttgart,2-0,0-0,Schalke 04
+Fri Dec 5 2008,Bayern Munich,2-1,0-0,Hoffenheim
+Sat Dec 6 2008,Bielefeld,0-0,0-0,Dortmund
+Sat Dec 6 2008,Cottbus,0-3,0-1,Stuttgart
+Sat Dec 6 2008,Ein Frankfurt,4-0,2-0,Bochum
+Sat Dec 6 2008,Karlsruhe,1-0,0-0,Werder Bremen
+Sat Dec 6 2008,M'gladbach,1-3,0-2,Leverkusen
+Sat Dec 6 2008,Schalke 04,1-0,0-0,Hertha
+Sun Dec 7 2008,FC Koln,1-2,0-2,Hamburg
+Sun Dec 7 2008,Wolfsburg,2-1,1-0,Hannover
+Fri Dec 12 2008,Dortmund,2-1,1-0,M'gladbach
+Sat Dec 13 2008,Bochum,1-2,0-1,FC Koln
+Sat Dec 13 2008,Hamburg,1-0,0-0,Ein Frankfurt
+Sat Dec 13 2008,Hannover,1-1,1-0,Bielefeld
+Sat Dec 13 2008,Hertha,4-0,1-0,Karlsruhe
+Sat Dec 13 2008,Leverkusen,1-1,0-0,Cottbus
+Sat Dec 13 2008,Stuttgart,2-2,1-0,Bayern Munich
+Sat Dec 13 2008,Werder Bremen,2-1,1-1,Wolfsburg
+Sun Dec 14 2008,Hoffenheim,1-1,0-1,Schalke 04
+Fri Jan 30 2009,Hamburg,1-0,1-0,Bayern Munich
+Sat Jan 31 2009,Dortmund,1-1,1-0,Leverkusen
+Sat Jan 31 2009,FC Koln,1-1,1-0,Wolfsburg
+Sat Jan 31 2009,Hannover,1-0,1-0,Schalke 04
+Sat Jan 31 2009,Hertha,2-1,1-0,Ein Frankfurt
+Sat Jan 31 2009,Hoffenheim,2-0,1-0,Cottbus
+Sat Jan 31 2009,Stuttgart,2-0,0-0,M'gladbach
+Sun Feb 1 2009,Bochum,2-0,1-0,Karlsruhe
+Sun Feb 1 2009,Werder Bremen,1-2,1-1,Bielefeld
+Fri Feb 6 2009,Bielefeld,1-1,1-1,Hertha
+Sat Feb 7 2009,Ein Frankfurt,2-2,1-0,FC Koln
+Sat Feb 7 2009,Karlsruhe,3-2,0-1,Hamburg
+Sat Feb 7 2009,Leverkusen,2-4,0-1,Stuttgart
+Sat Feb 7 2009,M'gladbach,1-1,1-0,Hoffenheim
+Sat Feb 7 2009,Schalke 04,1-0,0-0,Werder Bremen
+Sat Feb 7 2009,Wolfsburg,2-0,1-0,Bochum
+Sun Feb 8 2009,Bayern Munich,3-1,1-1,Dortmund
+Sun Feb 8 2009,Cottbus,3-1,1-0,Hannover
+Fri Feb 13 2009,Hoffenheim,1-4,1-3,Leverkusen
+Sat Feb 14 2009,Bochum,2-1,1-1,Schalke 04
+Sat Feb 14 2009,Ein Frankfurt,0-2,0-1,Wolfsburg
+Sat Feb 14 2009,FC Koln,0-0,0-0,Karlsruhe
+Sat Feb 14 2009,Hannover,3-3,2-2,Stuttgart
+Sat Feb 14 2009,Hertha,2-1,1-0,Bayern Munich
+Sat Feb 14 2009,Werder Bremen,1-1,0-0,M'gladbach
+Sun Feb 15 2009,Dortmund,1-1,1-1,Cottbus
+Sun Feb 15 2009,Hamburg,2-0,1-0,Bielefeld
+Fri Feb 20 2009,Schalke 04,1-1,1-0,Dortmund
+Sat Feb 21 2009,Bayern Munich,1-2,0-2,FC Koln
+Sat Feb 21 2009,Bielefeld,1-1,0-1,Bochum
+Sat Feb 21 2009,Cottbus,2-1,0-0,Werder Bremen
+Sat Feb 21 2009,Karlsruhe,0-1,0-0,Ein Frankfurt
+Sat Feb 21 2009,M'gladbach,3-2,2-0,Hannover
+Sat Feb 21 2009,Stuttgart,3-3,2-2,Hoffenheim
+Sat Feb 21 2009,Wolfsburg,2-1,0-0,Hertha
+Sun Feb 22 2009,Leverkusen,1-2,1-1,Hamburg
+Fri Feb 27 2009,FC Koln,1-1,1-1,Bielefeld
+Sat Feb 28 2009,Bochum,3-2,1-1,Cottbus
+Sat Feb 28 2009,Dortmund,0-0,0-0,Hoffenheim
+Sat Feb 28 2009,Ein Frankfurt,1-2,0-1,Schalke 04
+Sat Feb 28 2009,Hannover,1-0,1-0,Leverkusen
+Sat Feb 28 2009,Hertha,2-1,2-0,M'gladbach
+Sun Mar 1 2009,Hamburg,1-3,0-2,Wolfsburg
+Sun Mar 1 2009,Karlsruhe,0-2,0-0,Stuttgart
+Sun Mar 1 2009,Werder Bremen,0-0,0-0,Bayern Munich
+Fri Mar 6 2009,Schalke 04,1-0,1-0,FC Koln
+Sat Mar 7 2009,Bayern Munich,5-1,3-1,Hannover
+Sat Mar 7 2009,Cottbus,1-3,1-2,Hertha
+Sat Mar 7 2009,Hoffenheim,0-0,0-0,Werder Bremen
+Sat Mar 7 2009,M'gladbach,4-1,2-1,Hamburg
+Sat Mar 7 2009,Stuttgart,2-1,1-0,Dortmund
+Sat Mar 7 2009,Wolfsburg,1-0,1-0,Karlsruhe
+Sun Mar 8 2009,Bielefeld,0-0,0-0,Ein Frankfurt
+Sun Mar 8 2009,Leverkusen,1-1,0-1,Bochum
+Fri Mar 13 2009,Wolfsburg,4-3,2-1,Schalke 04
+Sat Mar 14 2009,Bochum,0-3,0-1,Bayern Munich
+Sat Mar 14 2009,Ein Frankfurt,1-1,0-1,Hoffenheim
+Sat Mar 14 2009,FC Koln,2-4,0-2,M'gladbach
+Sat Mar 14 2009,Hannover,4-4,1-2,Dortmund
+Sat Mar 14 2009,Hertha,1-0,0-0,Leverkusen
+Sat Mar 14 2009,Karlsruhe,0-1,0-0,Bielefeld
+Sun Mar 15 2009,Hamburg,2-0,2-0,Cottbus
+Sun Mar 15 2009,Werder Bremen,4-0,1-0,Stuttgart
+Fri Mar 20 2009,M'gladbach,0-1,0-1,Bochum
+Sat Mar 21 2009,Bayern Munich,1-0,1-0,Karlsruhe
+Sat Mar 21 2009,Bielefeld,0-3,0-1,Wolfsburg
+Sat Mar 21 2009,Cottbus,0-2,0-0,FC Koln
+Sat Mar 21 2009,Dortmund,1-0,0-0,Werder Bremen
+Sat Mar 21 2009,Hoffenheim,2-2,1-1,Hannover
+Sat Mar 21 2009,Leverkusen,1-1,1-1,Ein Frankfurt
+Sat Mar 21 2009,Stuttgart,2-0,0-0,Hertha
+Sun Mar 22 2009,Schalke 04,1-2,0-0,Hamburg
+Fri Apr 3 2009,Bielefeld,0-2,0-1,Schalke 04
+Sat Apr 4 2009,Bochum,1-2,0-0,Stuttgart
+Sat Apr 4 2009,Ein Frankfurt,2-1,1-1,Cottbus
+Sat Apr 4 2009,Hamburg,1-0,1-0,Hoffenheim
+Sat Apr 4 2009,Hertha,1-3,0-1,Dortmund
+Sat Apr 4 2009,Wolfsburg,5-1,1-1,Bayern Munich
+Sun Apr 5 2009,FC Koln,0-2,0-0,Leverkusen
+Sun Apr 5 2009,Karlsruhe,0-0,0-0,M'gladbach
+Sun Apr 5 2009,Werder Bremen,4-1,1-0,Hannover
+Sat Apr 11 2009,Bayern Munich,4-0,3-0,Ein Frankfurt
+Sat Apr 11 2009,Cottbus,2-1,1-0,Bielefeld
+Sat Apr 11 2009,Dortmund,3-1,1-1,FC Koln
+Sat Apr 11 2009,Hannover,2-0,1-0,Hertha
+Sat Apr 11 2009,Hoffenheim,0-3,0-1,Bochum
+Sat Apr 11 2009,M'gladbach,1-2,0-1,Wolfsburg
+Sat Apr 11 2009,Schalke 04,2-0,1-0,Karlsruhe
+Sun Apr 12 2009,Leverkusen,1-1,1-1,Werder Bremen
+Sun Apr 12 2009,Stuttgart,1-0,0-0,Hamburg
+Fri Apr 17 2009,Schalke 04,4-0,2-0,Cottbus
+Sat Apr 18 2009,Bielefeld,0-1,0-0,Bayern Munich
+Sat Apr 18 2009,Bochum,0-2,0-1,Dortmund
+Sat Apr 18 2009,Ein Frankfurt,4-1,1-0,M'gladbach
+Sat Apr 18 2009,FC Koln,0-3,0-1,Stuttgart
+Sat Apr 18 2009,Karlsruhe,2-2,1-1,Hoffenheim
+Sat Apr 18 2009,Wolfsburg,2-1,1-0,Leverkusen
+Sun Apr 19 2009,Hamburg,2-1,1-0,Hannover
+Sun Apr 19 2009,Hertha,2-1,0-1,Werder Bremen
+Fri Apr 24 2009,Hoffenheim,0-1,0-1,Hertha
+Sat Apr 25 2009,Bayern Munich,0-1,0-1,Schalke 04
+Sat Apr 25 2009,Dortmund,2-0,1-0,Hamburg
+Sat Apr 25 2009,Hannover,2-1,2-0,FC Koln
+Sat Apr 25 2009,Leverkusen,0-1,0-0,Karlsruhe
+Sat Apr 25 2009,Stuttgart,2-0,1-0,Ein Frankfurt
+Sat Apr 25 2009,Werder Bremen,3-2,0-2,Bochum
+Sun Apr 26 2009,Cottbus,2-0,0-0,Wolfsburg
+Sun Apr 26 2009,M'gladbach,1-1,1-1,Bielefeld
+Fri May 1 2009,Bochum,0-2,0-2,Hannover
+Sat May 2 2009,Bayern Munich,2-1,2-1,M'gladbach
+Sat May 2 2009,Bielefeld,2-2,1-2,Stuttgart
+Sat May 2 2009,Ein Frankfurt,0-2,0-0,Dortmund
+Sat May 2 2009,Karlsruhe,0-0,0-0,Cottbus
+Sat May 2 2009,Schalke 04,1-2,0-2,Leverkusen
+Sat May 2 2009,Wolfsburg,4-0,0-0,Hoffenheim
+Sun May 3 2009,FC Koln,1-0,0-0,Werder Bremen
+Sun May 3 2009,Hamburg,1-1,1-0,Hertha
+Fri May 8 2009,Leverkusen,2-2,1-2,Bielefeld
+Sat May 9 2009,Cottbus,1-3,1-1,Bayern Munich
+Sat May 9 2009,Dortmund,4-0,1-0,Karlsruhe
+Sat May 9 2009,Hannover,1-1,1-1,Ein Frankfurt
+Sat May 9 2009,Hertha,2-0,1-0,Bochum
+Sat May 9 2009,Hoffenheim,2-0,0-0,FC Koln
+Sat May 9 2009,Stuttgart,4-1,2-1,Wolfsburg
+Sun May 10 2009,M'gladbach,1-0,0-0,Schalke 04
+Sun May 10 2009,Werder Bremen,2-0,1-0,Hamburg
+Tue May 12 2009,Bayern Munich,3-0,0-0,Leverkusen
+Tue May 12 2009,FC Koln,1-2,0-1,Hertha
+Tue May 12 2009,Karlsruhe,2-3,2-2,Hannover
+Tue May 12 2009,Wolfsburg,3-0,1-0,Dortmund
+Wed May 13 2009,Bielefeld,0-2,0-1,Hoffenheim
+Wed May 13 2009,Cottbus,0-1,0-0,M'gladbach
+Wed May 13 2009,Ein Frankfurt,0-5,0-0,Werder Bremen
+Wed May 13 2009,Hamburg,3-1,2-0,Bochum
+Wed May 13 2009,Schalke 04,1-2,1-1,Stuttgart
+Sat May 16 2009,Bochum,2-0,1-0,Ein Frankfurt
+Sat May 16 2009,Dortmund,6-0,1-0,Bielefeld
+Sat May 16 2009,Hamburg,0-1,0-1,FC Koln
+Sat May 16 2009,Hannover,0-5,0-3,Wolfsburg
+Sat May 16 2009,Hertha,0-0,0-0,Schalke 04
+Sat May 16 2009,Hoffenheim,2-2,2-2,Bayern Munich
+Sat May 16 2009,Leverkusen,5-0,2-0,M'gladbach
+Sat May 16 2009,Stuttgart,2-0,1-0,Cottbus
+Sat May 16 2009,Werder Bremen,1-3,0-2,Karlsruhe
+Sat May 23 2009,Bayern Munich,2-1,1-0,Stuttgart
+Sat May 23 2009,Bielefeld,2-2,1-0,Hannover
+Sat May 23 2009,Cottbus,3-0,0-0,Leverkusen
+Sat May 23 2009,Ein Frankfurt,2-3,0-1,Hamburg
+Sat May 23 2009,FC Koln,1-1,1-1,Bochum
+Sat May 23 2009,Karlsruhe,4-0,2-0,Hertha
+Sat May 23 2009,M'gladbach,1-1,0-0,Dortmund
+Sat May 23 2009,Schalke 04,2-3,2-1,Hoffenheim
+Sat May 23 2009,Wolfsburg,5-1,3-1,Werder Bremen

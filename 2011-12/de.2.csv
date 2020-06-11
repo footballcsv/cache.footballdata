@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 15 2011,Cottbus,2-1,0-1,Dresden
+Fri Jul 15 2011,Frankfurt FSV,1-1,0-1,Union Berlin
+Fri Jul 15 2011,Greuther Furth,2-3,2-0,Ein Frankfurt
+Sat Jul 16 2011,Erzgebirge Aue,1-0,0-0,Aachen
+Sat Jul 16 2011,St Pauli,2-0,0-0,Ingolstadt
+Sun Jul 17 2011,Braunschweig,3-1,3-1,Munich 1860
+Sun Jul 17 2011,Hansa Rostock,1-2,1-1,Paderborn
+Sun Jul 17 2011,Karlsruhe,3-2,3-2,Duisburg
+Mon Jul 18 2011,Fortuna Dusseldorf,2-0,0-0,Bochum
+Fri Jul 22 2011,Bochum,1-0,0-0,Frankfurt FSV
+Fri Jul 22 2011,Duisburg,1-2,1-2,Cottbus
+Fri Jul 22 2011,Ingolstadt,0-0,0-0,Erzgebirge Aue
+Sat Jul 23 2011,Munich 1860,2-1,1-1,Karlsruhe
+Sat Jul 23 2011,Union Berlin,0-4,0-2,Greuther Furth
+Sun Jul 24 2011,Aachen,0-2,0-1,Braunschweig
+Sun Jul 24 2011,Dresden,1-1,0-0,Hansa Rostock
+Sun Jul 24 2011,Paderborn,1-1,0-1,Fortuna Dusseldorf
+Mon Jul 25 2011,Ein Frankfurt,1-1,0-1,St Pauli
+Fri Aug 5 2011,Fortuna Dusseldorf,4-1,1-0,Ingolstadt
+Fri Aug 5 2011,St Pauli,3-1,2-1,Aachen
+Fri Aug 5 2011,Union Berlin,3-0,1-0,Paderborn
+Sat Aug 6 2011,Cottbus,0-5,0-4,Munich 1860
+Sat Aug 6 2011,Greuther Furth,1-0,0-0,Dresden
+Sun Aug 7 2011,Braunschweig,0-3,0-1,Ein Frankfurt
+Sun Aug 7 2011,Erzgebirge Aue,0-2,0-1,Karlsruhe
+Sun Aug 7 2011,Frankfurt FSV,0-0,0-0,Duisburg
+Mon Aug 8 2011,Hansa Rostock,0-0,0-0,Bochum
+Fri Aug 12 2011,Bochum,1-2,1-1,St Pauli
+Fri Aug 12 2011,Dresden,4-0,1-0,Union Berlin
+Fri Aug 12 2011,Karlsruhe,1-3,1-2,Braunschweig
+Sat Aug 13 2011,Aachen,0-2,0-0,Cottbus
+Sat Aug 13 2011,Paderborn,0-1,0-0,Greuther Furth
+Sun Aug 14 2011,Duisburg,0-0,0-0,Hansa Rostock
+Sun Aug 14 2011,Ingolstadt,1-1,0-1,Frankfurt FSV
+Sun Aug 14 2011,Munich 1860,4-0,2-0,Erzgebirge Aue
+Mon Aug 15 2011,Ein Frankfurt,1-1,1-0,Fortuna Dusseldorf
+Fri Aug 19 2011,Fortuna Dusseldorf,3-1,1-0,Munich 1860
+Fri Aug 19 2011,Greuther Furth,3-0,1-0,Ingolstadt
+Fri Aug 19 2011,Hansa Rostock,0-0,0-0,Aachen
+Sat Aug 20 2011,Braunschweig,1-1,1-1,Erzgebirge Aue
+Sat Aug 20 2011,Union Berlin,2-1,1-1,Bochum
+Sun Aug 21 2011,Cottbus,2-0,2-0,Karlsruhe
+Sun Aug 21 2011,Dresden,1-2,0-1,Paderborn
+Sun Aug 21 2011,Frankfurt FSV,0-4,0-3,Ein Frankfurt
+Mon Aug 22 2011,St Pauli,2-1,1-1,Duisburg
+Fri Aug 26 2011,Bochum,1-4,1-1,Greuther Furth
+Fri Aug 26 2011,Duisburg,3-0,1-0,Dresden
+Fri Aug 26 2011,Ingolstadt,3-1,1-0,Hansa Rostock
+Sat Aug 27 2011,Aachen,0-0,0-0,Fortuna Dusseldorf
+Sat Aug 27 2011,Karlsruhe,0-4,0-2,Frankfurt FSV
+Sun Aug 28 2011,Braunschweig,1-0,0-0,St Pauli
+Sun Aug 28 2011,Ein Frankfurt,0-0,0-0,Paderborn
+Sun Aug 28 2011,Munich 1860,3-1,1-1,Union Berlin
+Mon Aug 29 2011,Erzgebirge Aue,0-0,0-0,Cottbus
+Fri Sep 9 2011,Greuther Furth,2-1,0-0,Duisburg
+Fri Sep 9 2011,Hansa Rostock,0-0,0-0,Braunschweig
+Fri Sep 9 2011,Paderborn,0-0,0-0,Aachen
+Sat Sep 10 2011,Cottbus,3-3,1-0,Ein Frankfurt
+Sat Sep 10 2011,Fortuna Dusseldorf,4-2,2-1,Karlsruhe
+Sun Sep 11 2011,Frankfurt FSV,1-1,0-0,Erzgebirge Aue
+Sun Sep 11 2011,St Pauli,4-2,0-1,Munich 1860
+Sun Sep 11 2011,Union Berlin,4-1,2-1,Ingolstadt
+Mon Sep 12 2011,Dresden,2-1,1-0,Bochum
+Fri Sep 16 2011,Ein Frankfurt,4-1,1-0,Hansa Rostock
+Fri Sep 16 2011,Erzgebirge Aue,2-4,0-2,Fortuna Dusseldorf
+Fri Sep 16 2011,Ingolstadt,4-2,2-2,Dresden
+Sat Sep 17 2011,Braunschweig,3-1,2-0,Cottbus
+Sat Sep 17 2011,Duisburg,1-1,0-1,Union Berlin
+Sun Sep 18 2011,Aachen,0-0,0-0,Greuther Furth
+Sun Sep 18 2011,Bochum,0-4,0-1,Paderborn
+Sun Sep 18 2011,Munich 1860,4-0,1-0,Frankfurt FSV
+Mon Sep 19 2011,Karlsruhe,0-2,0-1,St Pauli
+Fri Sep 23 2011,Frankfurt FSV,1-1,0-0,Braunschweig
+Fri Sep 23 2011,Paderborn,4-1,2-0,Ingolstadt
+Fri Sep 23 2011,St Pauli,2-3,1-0,Erzgebirge Aue
+Sat Sep 24 2011,Fortuna Dusseldorf,4-2,3-0,Cottbus
+Sat Sep 24 2011,Union Berlin,2-0,1-0,Aachen
+Sun Sep 25 2011,Bochum,2-1,1-0,Duisburg
+Sun Sep 25 2011,Greuther Furth,2-0,1-0,Munich 1860
+Sun Sep 25 2011,Hansa Rostock,1-1,1-0,Karlsruhe
+Mon Sep 26 2011,Dresden,1-4,1-2,Ein Frankfurt
+Fri Sep 30 2011,Aachen,1-3,1-0,Frankfurt FSV
+Fri Sep 30 2011,Ein Frankfurt,3-1,2-0,Union Berlin
+Fri Sep 30 2011,Erzgebirge Aue,1-0,0-0,Hansa Rostock
+Sat Oct 1 2011,Cottbus,1-4,0-2,St Pauli
+Sat Oct 1 2011,Ingolstadt,3-5,3-1,Bochum
+Sun Oct 2 2011,Duisburg,0-1,0-0,Paderborn
+Sun Oct 2 2011,Karlsruhe,2-2,0-1,Greuther Furth
+Sun Oct 2 2011,Munich 1860,2-4,0-2,Dresden
+Mon Oct 3 2011,Braunschweig,1-1,1-0,Fortuna Dusseldorf
+Fri Oct 14 2011,Bochum,0-2,0-2,Ein Frankfurt
+Fri Oct 14 2011,Hansa Rostock,2-0,1-0,Munich 1860
+Fri Oct 14 2011,Paderborn,1-0,1-0,Braunschweig
+Sat Oct 15 2011,Duisburg,3-1,0-1,Ingolstadt
+Sat Oct 15 2011,Union Berlin,2-0,1-0,Karlsruhe
+Sun Oct 16 2011,Dresden,1-1,0-1,Aachen
+Sun Oct 16 2011,Frankfurt FSV,0-1,0-0,Cottbus
+Sun Oct 16 2011,Greuther Furth,2-0,1-0,Erzgebirge Aue
+Mon Oct 17 2011,St Pauli,1-3,1-1,Fortuna Dusseldorf
+Fri Oct 21 2011,Fortuna Dusseldorf,2-0,1-0,Hansa Rostock
+Fri Oct 21 2011,Karlsruhe,0-0,0-0,Bochum
+Fri Oct 21 2011,Munich 1860,1-1,1-0,Paderborn
+Sat Oct 22 2011,Braunschweig,0-2,0-1,Dresden
+Sat Oct 22 2011,Cottbus,0-2,0-1,Greuther Furth
+Sun Oct 23 2011,Aachen,3-1,2-0,Ingolstadt
+Sun Oct 23 2011,Ein Frankfurt,3-0,1-0,Duisburg
+Sun Oct 23 2011,Erzgebirge Aue,1-1,1-1,Union Berlin
+Sun Oct 23 2011,St Pauli,2-1,2-0,Frankfurt FSV
+Fri Oct 28 2011,Bochum,1-0,1-0,Aachen
+Fri Oct 28 2011,Hansa Rostock,1-1,0-1,Cottbus
+Fri Oct 28 2011,Union Berlin,0-2,0-0,St Pauli
+Sat Oct 29 2011,Dresden,5-1,3-1,Karlsruhe
+Sat Oct 29 2011,Paderborn,1-0,0-0,Erzgebirge Aue
+Sun Oct 30 2011,Duisburg,0-3,0-1,Munich 1860
+Sun Oct 30 2011,Frankfurt FSV,2-5,2-1,Fortuna Dusseldorf
+Sun Oct 30 2011,Ingolstadt,1-1,0-0,Ein Frankfurt
+Mon Oct 31 2011,Greuther Furth,1-3,0-1,Braunschweig
+Fri Nov 4 2011,Braunschweig,1-2,0-1,Union Berlin
+Fri Nov 4 2011,Fortuna Dusseldorf,2-1,1-1,Dresden
+Fri Nov 4 2011,Karlsruhe,3-2,1-1,Ingolstadt
+Sat Nov 5 2011,Munich 1860,1-3,0-2,Bochum
+Sat Nov 5 2011,St Pauli,2-2,0-1,Greuther Furth
+Sun Nov 6 2011,Aachen,2-2,1-1,Duisburg
+Sun Nov 6 2011,Cottbus,0-2,0-0,Paderborn
+Sun Nov 6 2011,Frankfurt FSV,0-0,0-0,Hansa Rostock
+Mon Nov 7 2011,Erzgebirge Aue,1-2,1-1,Ein Frankfurt
+Fri Nov 18 2011,Duisburg,3-0,2-0,Braunschweig
+Fri Nov 18 2011,Ingolstadt,0-1,0-1,Munich 1860
+Fri Nov 18 2011,Paderborn,2-1,1-1,Karlsruhe
+Sat Nov 19 2011,Hansa Rostock,1-3,0-1,St Pauli
+Sat Nov 19 2011,Union Berlin,0-0,0-0,Fortuna Dusseldorf
+Sun Nov 20 2011,Dresden,1-2,1-0,Erzgebirge Aue
+Sun Nov 20 2011,Ein Frankfurt,4-3,2-0,Aachen
+Sun Nov 20 2011,Greuther Furth,4-0,1-0,Frankfurt FSV
+Mon Nov 21 2011,Bochum,0-1,0-0,Cottbus
+Fri Nov 25 2011,Erzgebirge Aue,1-2,1-1,Duisburg
+Fri Nov 25 2011,Frankfurt FSV,2-2,0-1,Paderborn
+Fri Nov 25 2011,Hansa Rostock,2-5,0-0,Union Berlin
+Sat Nov 26 2011,Karlsruhe,0-2,0-1,Aachen
+Sat Nov 26 2011,Munich 1860,2-1,1-0,Ein Frankfurt
+Sun Nov 27 2011,Braunschweig,4-0,2-0,Bochum
+Sun Nov 27 2011,Cottbus,0-0,0-0,Ingolstadt
+Sun Nov 27 2011,St Pauli,3-1,0-0,Dresden
+Mon Nov 28 2011,Fortuna Dusseldorf,2-1,2-0,Greuther Furth
+Fri Dec 2 2011,Ingolstadt,0-1,0-1,Braunschweig
+Fri Dec 2 2011,Paderborn,1-1,1-0,St Pauli
+Fri Dec 2 2011,Union Berlin,1-0,1-0,Cottbus
+Sat Dec 3 2011,Ein Frankfurt,2-0,1-0,Karlsruhe
+Sat Dec 3 2011,Greuther Furth,3-0,1-0,Hansa Rostock
+Sun Dec 4 2011,Aachen,2-2,1-1,Munich 1860
+Sun Dec 4 2011,Bochum,6-0,3-0,Erzgebirge Aue
+Sun Dec 4 2011,Dresden,2-2,1-1,Frankfurt FSV
+Mon Dec 5 2011,Duisburg,0-2,0-0,Fortuna Dusseldorf
+Fri Dec 9 2011,Duisburg,3-1,1-0,Karlsruhe
+Fri Dec 9 2011,Munich 1860,3-0,1-0,Braunschweig
+Fri Dec 9 2011,Paderborn,2-0,1-0,Hansa Rostock
+Sat Dec 10 2011,Bochum,1-1,1-0,Fortuna Dusseldorf
+Sat Dec 10 2011,Union Berlin,4-0,2-0,Frankfurt FSV
+Sun Dec 11 2011,Aachen,1-1,0-0,Erzgebirge Aue
+Sun Dec 11 2011,Dresden,2-1,0-0,Cottbus
+Sun Dec 11 2011,Ingolstadt,1-0,0-0,St Pauli
+Mon Dec 12 2011,Ein Frankfurt,0-0,0-0,Greuther Furth
+Fri Dec 16 2011,Erzgebirge Aue,1-1,0-1,Ingolstadt
+Fri Dec 16 2011,Fortuna Dusseldorf,2-3,0-1,Paderborn
+Fri Dec 16 2011,Greuther Furth,5-0,3-0,Union Berlin
+Sat Dec 17 2011,Frankfurt FSV,0-2,0-2,Bochum
+Sat Dec 17 2011,Karlsruhe,1-3,0-1,Munich 1860
+Sun Dec 18 2011,Braunschweig,1-1,0-1,Aachen
+Sun Dec 18 2011,Cottbus,1-1,1-0,Duisburg
+Sun Dec 18 2011,Hansa Rostock,2-2,1-1,Dresden
+Mon Dec 19 2011,St Pauli,2-0,1-0,Ein Frankfurt
+Fri Feb 3 2012,Dresden,3-1,1-0,Greuther Furth
+Fri Feb 3 2012,Duisburg,1-2,0-1,Frankfurt FSV
+Fri Feb 3 2012,Paderborn,3-2,1-1,Union Berlin
+Sat Feb 4 2012,Aachen,2-1,2-1,St Pauli
+Sat Feb 4 2012,Ingolstadt,1-1,1-1,Fortuna Dusseldorf
+Sun Feb 5 2012,Bochum,2-1,1-0,Hansa Rostock
+Sun Feb 5 2012,Ein Frankfurt,2-1,2-1,Braunschweig
+Sun Feb 5 2012,Karlsruhe,2-1,1-1,Erzgebirge Aue
+Mon Feb 6 2012,Munich 1860,2-0,1-0,Cottbus
+Fri Feb 10 2012,Cottbus,1-1,0-0,Aachen
+Fri Feb 10 2012,Frankfurt FSV,1-1,1-0,Ingolstadt
+Sat Feb 11 2012,Braunschweig,0-0,0-0,Karlsruhe
+Sat Feb 11 2012,Union Berlin,4-0,1-0,Dresden
+Sun Feb 12 2012,Greuther Furth,5-1,3-1,Paderborn
+Sun Feb 12 2012,Hansa Rostock,4-2,2-2,Duisburg
+Sun Feb 12 2012,St Pauli,2-1,1-1,Bochum
+Mon Feb 13 2012,Fortuna Dusseldorf,1-1,0-0,Ein Frankfurt
+Fri Feb 17 2012,Duisburg,0-1,0-1,St Pauli
+Fri Feb 17 2012,Karlsruhe,2-0,0-0,Cottbus
+Fri Feb 17 2012,Paderborn,2-2,1-1,Dresden
+Sat Feb 18 2012,Bochum,4-2,1-0,Union Berlin
+Sat Feb 18 2012,Ein Frankfurt,6-1,2-0,Frankfurt FSV
+Sun Feb 19 2012,Aachen,0-0,0-0,Hansa Rostock
+Sun Feb 19 2012,Ingolstadt,0-0,0-0,Greuther Furth
+Sun Feb 19 2012,Munich 1860,2-1,1-1,Fortuna Dusseldorf
+Mon Feb 20 2012,Erzgebirge Aue,1-1,1-1,Braunschweig
+Fri Feb 24 2012,Dresden,2-0,0-0,Duisburg
+Fri Feb 24 2012,Hansa Rostock,1-2,1-0,Ingolstadt
+Fri Feb 24 2012,Union Berlin,0-1,0-0,Munich 1860
+Sat Feb 25 2012,Cottbus,2-0,1-0,Erzgebirge Aue
+Sat Feb 25 2012,Greuther Furth,6-2,2-1,Bochum
+Sun Feb 26 2012,Frankfurt FSV,2-1,2-0,Karlsruhe
+Sun Feb 26 2012,Paderborn,4-2,2-2,Ein Frankfurt
+Sun Feb 26 2012,St Pauli,0-0,0-0,Braunschweig
+Mon Feb 27 2012,Fortuna Dusseldorf,0-0,0-0,Aachen
+Fri Mar 2 2012,Bochum,0-2,0-1,Dresden
+Fri Mar 2 2012,Duisburg,0-2,0-0,Greuther Furth
+Fri Mar 2 2012,Ingolstadt,3-3,1-1,Union Berlin
+Sat Mar 3 2012,Aachen,0-3,0-0,Paderborn
+Sat Mar 3 2012,Karlsruhe,0-5,0-2,Fortuna Dusseldorf
+Sun Mar 4 2012,Braunschweig,3-2,2-1,Hansa Rostock
+Sun Mar 4 2012,Ein Frankfurt,1-0,0-0,Cottbus
+Sun Mar 4 2012,Erzgebirge Aue,4-3,3-3,Frankfurt FSV
+Mon Mar 5 2012,Munich 1860,1-1,0-1,St Pauli
+Fri Mar 9 2012,Greuther Furth,1-0,1-0,Aachen
+Fri Mar 9 2012,Paderborn,0-0,0-0,Bochum
+Fri Mar 9 2012,Union Berlin,1-1,0-0,Duisburg
+Sat Mar 10 2012,Fortuna Dusseldorf,3-1,1-1,Erzgebirge Aue
+Sat Mar 10 2012,Frankfurt FSV,3-1,2-1,Munich 1860
+Sun Mar 11 2012,Cottbus,1-1,0-1,Braunschweig
+Sun Mar 11 2012,Dresden,0-0,0-0,Ingolstadt
+Sun Mar 11 2012,Hansa Rostock,1-5,0-2,Ein Frankfurt
+Mon Mar 12 2012,St Pauli,1-0,1-0,Karlsruhe
+Wed Mar 14 2012,Erzgebirge Aue,0-0,0-0,Munich 1860
+Fri Mar 16 2012,Aachen,1-3,1-2,Union Berlin
+Fri Mar 16 2012,Braunschweig,0-0,0-0,Frankfurt FSV
+Fri Mar 16 2012,Ein Frankfurt,3-0,3-0,Dresden
+Sat Mar 17 2012,Ingolstadt,4-0,1-0,Paderborn
+Sat Mar 17 2012,Munich 1860,1-4,1-2,Greuther Furth
+Sun Mar 18 2012,Duisburg,2-1,1-1,Bochum
+Sun Mar 18 2012,Erzgebirge Aue,2-1,0-1,St Pauli
+Sun Mar 18 2012,Karlsruhe,2-2,1-1,Hansa Rostock
+Mon Mar 19 2012,Cottbus,1-1,1-0,Fortuna Dusseldorf
+Fri Mar 23 2012,Bochum,0-1,0-0,Ingolstadt
+Fri Mar 23 2012,Dresden,0-1,0-0,Munich 1860
+Fri Mar 23 2012,Frankfurt FSV,2-1,1-1,Aachen
+Sat Mar 24 2012,Fortuna Dusseldorf,1-1,0-1,Braunschweig
+Sat Mar 24 2012,Greuther Furth,3-0,1-0,Karlsruhe
+Sun Mar 25 2012,Hansa Rostock,0-1,0-1,Erzgebirge Aue
+Sun Mar 25 2012,Paderborn,1-2,0-1,Duisburg
+Sun Mar 25 2012,St Pauli,0-0,0-0,Cottbus
+Mon Mar 26 2012,Union Berlin,0-4,0-1,Ein Frankfurt
+Fri Mar 30 2012,Aachen,0-1,0-0,Dresden
+Fri Mar 30 2012,Braunschweig,0-0,0-0,Paderborn
+Fri Mar 30 2012,Ein Frankfurt,3-0,3-0,Bochum
+Sat Mar 31 2012,Erzgebirge Aue,1-1,0-1,Greuther Furth
+Sat Mar 31 2012,Munich 1860,0-1,0-0,Hansa Rostock
+Sun Apr 1 2012,Cottbus,1-1,1-0,Frankfurt FSV
+Sun Apr 1 2012,Ingolstadt,1-1,0-0,Duisburg
+Sun Apr 1 2012,Karlsruhe,2-0,1-0,Union Berlin
+Mon Apr 2 2012,Fortuna Dusseldorf,0-0,0-0,St Pauli
+Thu Apr 5 2012,Greuther Furth,3-0,1-0,Cottbus
+Thu Apr 5 2012,Hansa Rostock,2-1,1-0,Fortuna Dusseldorf
+Thu Apr 5 2012,Union Berlin,1-0,1-0,Erzgebirge Aue
+Sat Apr 7 2012,Dresden,2-2,1-1,Braunschweig
+Sat Apr 7 2012,Duisburg,2-0,1-0,Ein Frankfurt
+Sat Apr 7 2012,Frankfurt FSV,3-3,3-2,St Pauli
+Sun Apr 8 2012,Bochum,0-0,0-0,Karlsruhe
+Sun Apr 8 2012,Ingolstadt,3-3,1-2,Aachen
+Sun Apr 8 2012,Paderborn,2-2,0-1,Munich 1860
+Tue Apr 10 2012,Braunschweig,0-0,0-0,Greuther Furth
+Tue Apr 10 2012,Cottbus,0-1,0-0,Hansa Rostock
+Tue Apr 10 2012,Fortuna Dusseldorf,1-0,0-0,Frankfurt FSV
+Tue Apr 10 2012,St Pauli,2-1,0-1,Union Berlin
+Wed Apr 11 2012,Aachen,2-0,2-0,Bochum
+Wed Apr 11 2012,Ein Frankfurt,1-1,0-0,Ingolstadt
+Wed Apr 11 2012,Erzgebirge Aue,0-2,0-1,Paderborn
+Wed Apr 11 2012,Karlsruhe,2-0,0-0,Dresden
+Wed Apr 11 2012,Munich 1860,2-1,0-0,Duisburg
+Fri Apr 13 2012,Greuther Furth,2-1,1-0,St Pauli
+Fri Apr 13 2012,Hansa Rostock,0-5,0-1,Frankfurt FSV
+Fri Apr 13 2012,Union Berlin,1-0,1-0,Braunschweig
+Sat Apr 14 2012,Duisburg,2-0,0-0,Aachen
+Sat Apr 14 2012,Ein Frankfurt,4-0,2-0,Erzgebirge Aue
+Sun Apr 15 2012,Bochum,2-2,1-0,Munich 1860
+Sun Apr 15 2012,Ingolstadt,2-1,1-0,Karlsruhe
+Sun Apr 15 2012,Paderborn,3-1,2-0,Cottbus
+Mon Apr 16 2012,Dresden,2-1,1-1,Fortuna Dusseldorf
+Fri Apr 20 2012,Braunschweig,0-0,0-0,Duisburg
+Fri Apr 20 2012,Cottbus,1-1,1-0,Bochum
+Fri Apr 20 2012,Frankfurt FSV,1-1,1-0,Greuther Furth
+Sat Apr 21 2012,Erzgebirge Aue,1-1,1-1,Dresden
+Sat Apr 21 2012,Munich 1860,4-1,1-1,Ingolstadt
+Sun Apr 22 2012,Fortuna Dusseldorf,2-1,2-1,Union Berlin
+Sun Apr 22 2012,Karlsruhe,2-0,1-0,Paderborn
+Sun Apr 22 2012,St Pauli,3-0,1-0,Hansa Rostock
+Mon Apr 23 2012,Aachen,0-3,0-1,Ein Frankfurt
+Sun Apr 29 2012,Aachen,1-0,1-0,Karlsruhe
+Sun Apr 29 2012,Bochum,2-0,1-0,Braunschweig
+Sun Apr 29 2012,Dresden,1-0,0-0,St Pauli
+Sun Apr 29 2012,Duisburg,2-1,2-0,Erzgebirge Aue
+Sun Apr 29 2012,Ein Frankfurt,0-2,0-2,Munich 1860
+Sun Apr 29 2012,Greuther Furth,1-1,1-0,Fortuna Dusseldorf
+Sun Apr 29 2012,Ingolstadt,1-0,0-0,Cottbus
+Sun Apr 29 2012,Paderborn,1-0,0-0,Frankfurt FSV
+Sun Apr 29 2012,Union Berlin,5-4,3-3,Hansa Rostock
+Sun May 6 2012,Braunschweig,3-1,1-1,Ingolstadt
+Sun May 6 2012,Cottbus,2-1,0-0,Union Berlin
+Sun May 6 2012,Erzgebirge Aue,2-1,1-0,Bochum
+Sun May 6 2012,Fortuna Dusseldorf,2-2,2-2,Duisburg
+Sun May 6 2012,Frankfurt FSV,1-1,0-0,Dresden
+Sun May 6 2012,Hansa Rostock,2-2,0-1,Greuther Furth
+Sun May 6 2012,Karlsruhe,1-0,1-0,Ein Frankfurt
+Sun May 6 2012,Munich 1860,1-2,1-2,Aachen
+Sun May 6 2012,St Pauli,5-0,2-0,Paderborn

@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 19 2016,Adanaspor,1-2,1-0,Bursaspor
+Sat Aug 20 2016,Besiktas,4-1,2-0,Alanyaspor
+Sat Aug 20 2016,Rizespor,1-1,0-0,Konyaspor
+Sat Aug 20 2016,Trabzonspor,2-0,1-0,Kasimpasa
+Sun Aug 21 2016,Antalyaspor,0-0,0-0,Osmanlispor
+Sun Aug 21 2016,Buyuksehyr,1-0,1-0,Fenerbahce
+Sun Aug 21 2016,Genclerbirligi,2-0,1-0,Gaziantepspor
+Sun Aug 21 2016,Kayserispor,0-2,0-0,Akhisar Belediyespor
+Mon Aug 22 2016,Galatasaray,1-0,0-0,Karabukspor
+Fri Aug 26 2016,Alanyaspor,2-1,0-1,Antalyaspor
+Fri Aug 26 2016,Konyaspor,2-2,1-1,Besiktas
+Sat Aug 27 2016,Akhisar Belediyespor,1-3,1-1,Galatasaray
+Sat Aug 27 2016,Gaziantepspor,1-0,0-0,Trabzonspor
+Sat Aug 27 2016,Kasimpasa,1-1,1-0,Adanaspor
+Sun Aug 28 2016,Bursaspor,0-2,0-1,Buyuksehyr
+Sun Aug 28 2016,Fenerbahce,3-3,2-2,Kayserispor
+Sun Aug 28 2016,Karabukspor,3-0,1-0,Rizespor
+Sun Aug 28 2016,Osmanlispor,2-2,2-1,Genclerbirligi
+Sat Sep 10 2016,Adanaspor,0-0,0-0,Gaziantepspor
+Sat Sep 10 2016,Besiktas,3-1,2-0,Karabukspor
+Sat Sep 10 2016,Buyuksehyr,3-1,0-1,Kasimpasa
+Sat Sep 10 2016,Genclerbirligi,0-0,0-0,Alanyaspor
+Sat Sep 10 2016,Kayserispor,1-1,1-1,Galatasaray
+Sun Sep 11 2016,Antalyaspor,1-3,0-0,Konyaspor
+Sun Sep 11 2016,Fenerbahce,0-1,0-1,Bursaspor
+Sun Sep 11 2016,Rizespor,1-0,0-0,Akhisar Belediyespor
+Sun Sep 11 2016,Trabzonspor,0-2,0-1,Osmanlispor
+Fri Sep 16 2016,Bursaspor,3-1,1-1,Kayserispor
+Fri Sep 16 2016,Karabukspor,3-2,0-0,Antalyaspor
+Sat Sep 17 2016,Alanyaspor,3-0,0-0,Trabzonspor
+Sat Sep 17 2016,Galatasaray,2-0,1-0,Rizespor
+Sun Sep 18 2016,Akhisar Belediyespor,0-2,0-2,Besiktas
+Sun Sep 18 2016,Gaziantepspor,0-1,0-0,Buyuksehyr
+Sun Sep 18 2016,Konyaspor,1-1,0-1,Genclerbirligi
+Sun Sep 18 2016,Osmanlispor,1-0,0-0,Adanaspor
+Mon Sep 19 2016,Kasimpasa,1-5,0-3,Fenerbahce
+Fri Sep 23 2016,Antalyaspor,0-0,0-0,Akhisar Belediyespor
+Sat Sep 24 2016,Besiktas,2-2,0-2,Galatasaray
+Sat Sep 24 2016,Buyuksehyr,2-2,0-1,Osmanlispor
+Sat Sep 24 2016,Trabzonspor,1-0,0-0,Konyaspor
+Sun Sep 25 2016,Bursaspor,1-0,0-0,Kasimpasa
+Sun Sep 25 2016,Fenerbahce,2-1,1-0,Gaziantepspor
+Sun Sep 25 2016,Genclerbirligi,2-0,0-0,Karabukspor
+Sun Sep 25 2016,Kayserispor,2-1,2-0,Rizespor
+Mon Sep 26 2016,Adanaspor,3-2,2-1,Alanyaspor
+Fri Sep 30 2016,Akhisar Belediyespor,0-0,0-0,Genclerbirligi
+Sat Oct 1 2016,Gaziantepspor,3-2,1-1,Bursaspor
+Sat Oct 1 2016,Karabukspor,4-0,0-0,Trabzonspor
+Sat Oct 1 2016,Kasimpasa,3-1,0-1,Kayserispor
+Sat Oct 1 2016,Rizespor,0-1,0-0,Besiktas
+Sun Oct 2 2016,Alanyaspor,0-5,0-1,Buyuksehyr
+Sun Oct 2 2016,Galatasaray,3-1,0-1,Antalyaspor
+Sun Oct 2 2016,Konyaspor,1-0,0-0,Adanaspor
+Sun Oct 2 2016,Osmanlispor,1-1,1-0,Fenerbahce
+Sat Oct 15 2016,Adanaspor,1-2,0-2,Karabukspor
+Sat Oct 15 2016,Genclerbirligi,0-1,0-1,Galatasaray
+Sat Oct 15 2016,Kasimpasa,0-0,0-0,Gaziantepspor
+Sat Oct 15 2016,Kayserispor,0-1,0-0,Besiktas
+Sun Oct 16 2016,Bursaspor,0-0,0-0,Osmanlispor
+Sun Oct 16 2016,Buyuksehyr,1-1,0-0,Konyaspor
+Sun Oct 16 2016,Fenerbahce,1-1,1-0,Alanyaspor
+Sun Oct 16 2016,Trabzonspor,0-0,0-0,Akhisar Belediyespor
+Mon Oct 17 2016,Antalyaspor,1-1,0-0,Rizespor
+Fri Oct 21 2016,Gaziantepspor,1-2,1-0,Kayserispor
+Fri Oct 21 2016,Rizespor,2-1,1-0,Genclerbirligi
+Sat Oct 22 2016,Akhisar Belediyespor,1-0,1-0,Adanaspor
+Sat Oct 22 2016,Alanyaspor,0-2,0-0,Bursaspor
+Sat Oct 22 2016,Galatasaray,0-1,0-1,Trabzonspor
+Sun Oct 23 2016,Besiktas,3-0,1-0,Antalyaspor
+Sun Oct 23 2016,Karabukspor,0-2,0-2,Buyuksehyr
+Sun Oct 23 2016,Osmanlispor,1-2,0-0,Kasimpasa
+Mon Oct 24 2016,Konyaspor,0-1,0-1,Fenerbahce
+Fri Oct 28 2016,Genclerbirligi,1-1,1-0,Besiktas
+Sat Oct 29 2016,Adanaspor,0-1,0-0,Galatasaray
+Sat Oct 29 2016,Bursaspor,2-0,0-0,Konyaspor
+Sat Oct 29 2016,Gaziantepspor,3-1,1-1,Osmanlispor
+Sun Oct 30 2016,Buyuksehyr,5-1,4-1,Akhisar Belediyespor
+Sun Oct 30 2016,Fenerbahce,5-0,2-0,Karabukspor
+Sun Oct 30 2016,Trabzonspor,2-2,1-1,Rizespor
+Mon Oct 31 2016,Kasimpasa,2-1,2-1,Alanyaspor
+Mon Oct 31 2016,Kayserispor,0-1,0-1,Antalyaspor
+Fri Nov 4 2016,Galatasaray,1-2,1-1,Buyuksehyr
+Sat Nov 5 2016,Alanyaspor,4-3,1-2,Gaziantepspor
+Sat Nov 5 2016,Antalyaspor,1-0,1-0,Genclerbirligi
+Sat Nov 5 2016,Besiktas,2-1,2-1,Trabzonspor
+Sat Nov 5 2016,Karabukspor,0-0,0-0,Bursaspor
+Sun Nov 6 2016,Akhisar Belediyespor,1-3,0-1,Fenerbahce
+Sun Nov 6 2016,Konyaspor,2-1,2-0,Kasimpasa
+Sun Nov 6 2016,Osmanlispor,1-1,0-0,Kayserispor
+Sun Nov 6 2016,Rizespor,2-2,1-1,Adanaspor
+Sat Nov 19 2016,Adanaspor,1-2,0-2,Besiktas
+Sat Nov 19 2016,Bursaspor,0-0,0-0,Akhisar Belediyespor
+Sat Nov 19 2016,Gaziantepspor,0-3,0-1,Konyaspor
+Sat Nov 19 2016,Osmanlispor,2-0,2-0,Alanyaspor
+Sun Nov 20 2016,Fenerbahce,2-0,1-0,Galatasaray
+Sun Nov 20 2016,Kasimpasa,2-2,1-2,Karabukspor
+Sun Nov 20 2016,Kayserispor,0-2,0-0,Genclerbirligi
+Mon Nov 21 2016,Buyuksehyr,2-1,1-1,Rizespor
+Mon Nov 21 2016,Trabzonspor,0-1,0-1,Antalyaspor
+Fri Nov 25 2016,Alanyaspor,3-0,0-0,Kayserispor
+Fri Nov 25 2016,Galatasaray,3-1,1-1,Bursaspor
+Sat Nov 26 2016,Akhisar Belediyespor,1-0,1-0,Kasimpasa
+Sat Nov 26 2016,Antalyaspor,1-0,1-0,Adanaspor
+Sat Nov 26 2016,Besiktas,1-1,0-1,Buyuksehyr
+Sat Nov 26 2016,Karabukspor,2-0,2-0,Gaziantepspor
+Sun Nov 27 2016,Genclerbirligi,0-0,0-0,Trabzonspor
+Sun Nov 27 2016,Rizespor,1-5,1-3,Fenerbahce
+Mon Nov 28 2016,Konyaspor,1-1,0-1,Osmanlispor
+Sat Dec 3 2016,Buyuksehyr,2-2,1-1,Antalyaspor
+Sat Dec 3 2016,Fenerbahce,0-0,0-0,Besiktas
+Sun Dec 4 2016,Adanaspor,0-2,0-1,Genclerbirligi
+Sun Dec 4 2016,Alanyaspor,2-3,0-2,Konyaspor
+Sun Dec 4 2016,Gaziantepspor,1-2,1-0,Akhisar Belediyespor
+Sun Dec 4 2016,Kasimpasa,1-2,0-1,Galatasaray
+Sun Dec 4 2016,Osmanlispor,2-1,2-1,Karabukspor
+Mon Dec 5 2016,Bursaspor,2-1,0-0,Rizespor
+Mon Dec 5 2016,Kayserispor,0-1,0-1,Trabzonspor
+Fri Dec 9 2016,Trabzonspor,4-1,1-1,Adanaspor
+Sat Dec 10 2016,Besiktas,2-1,0-0,Bursaspor
+Sat Dec 10 2016,Genclerbirligi,0-0,0-0,Buyuksehyr
+Sat Dec 10 2016,Rizespor,0-1,0-1,Kasimpasa
+Sun Dec 11 2016,Akhisar Belediyespor,1-2,0-1,Osmanlispor
+Sun Dec 11 2016,Galatasaray,3-1,1-0,Gaziantepspor
+Sun Dec 11 2016,Karabukspor,0-2,0-1,Alanyaspor
+Sun Dec 11 2016,Konyaspor,1-0,1-0,Kayserispor
+Mon Dec 12 2016,Antalyaspor,1-0,0-0,Fenerbahce
+Sat Dec 17 2016,Buyuksehyr,1-0,0-0,Trabzonspor
+Sat Dec 17 2016,Kasimpasa,2-1,0-1,Besiktas
+Sun Dec 18 2016,Adanaspor,2-1,0-1,Kayserispor
+Sun Dec 18 2016,Alanyaspor,0-0,0-0,Akhisar Belediyespor
+Sun Dec 18 2016,Gaziantepspor,1-2,1-1,Rizespor
+Sun Dec 18 2016,Karabukspor,1-1,0-1,Konyaspor
+Sun Dec 18 2016,Osmanlispor,2-2,1-1,Galatasaray
+Mon Dec 19 2016,Bursaspor,2-1,2-1,Antalyaspor
+Mon Dec 19 2016,Fenerbahce,3-0,1-0,Genclerbirligi
+Sat Dec 24 2016,Adanaspor,1-1,0-1,Buyuksehyr
+Sat Dec 24 2016,Besiktas,1-0,1-0,Gaziantepspor
+Sun Dec 25 2016,Akhisar Belediyespor,1-0,0-0,Konyaspor
+Sun Dec 25 2016,Antalyaspor,2-1,0-0,Kasimpasa
+Sun Dec 25 2016,Galatasaray,5-1,2-1,Alanyaspor
+Sun Dec 25 2016,Kayserispor,2-0,1-0,Karabukspor
+Sun Dec 25 2016,Rizespor,0-1,0-0,Osmanlispor
+Mon Dec 26 2016,Genclerbirligi,3-1,1-1,Bursaspor
+Mon Dec 26 2016,Trabzonspor,0-3,0-2,Fenerbahce
+Fri Jan 13 2017,Bursaspor,1-2,1-2,Trabzonspor
+Sat Jan 14 2017,Alanyaspor,2-3,0-2,Rizespor
+Sat Jan 14 2017,Buyuksehyr,5-0,2-0,Kayserispor
+Sat Jan 14 2017,Karabukspor,1-0,0-0,Akhisar Belediyespor
+Sat Jan 14 2017,Konyaspor,0-1,0-0,Galatasaray
+Sun Jan 15 2017,Fenerbahce,2-2,1-2,Adanaspor
+Sun Jan 15 2017,Gaziantepspor,0-3,0-2,Antalyaspor
+Sun Jan 15 2017,Kasimpasa,3-0,3-0,Genclerbirligi
+Mon Jan 16 2017,Osmanlispor,0-2,0-1,Besiktas
+Sat Jan 21 2017,Akhisar Belediyespor,0-0,0-0,Kayserispor
+Sat Jan 21 2017,Bursaspor,0-1,0-0,Adanaspor
+Sat Jan 21 2017,Karabukspor,2-1,1-1,Galatasaray
+Sat Jan 21 2017,Konyaspor,2-1,1-1,Rizespor
+Sun Jan 22 2017,Fenerbahce,1-0,1-0,Buyuksehyr
+Sun Jan 22 2017,Kasimpasa,0-1,0-1,Trabzonspor
+Sun Jan 22 2017,Osmanlispor,1-2,1-0,Antalyaspor
+Mon Jan 23 2017,Alanyaspor,1-4,0-2,Besiktas
+Sat Jan 28 2017,Antalyaspor,2-1,1-1,Alanyaspor
+Sat Jan 28 2017,Galatasaray,6-0,4-0,Akhisar Belediyespor
+Sat Jan 28 2017,Rizespor,1-0,1-0,Karabukspor
+Sun Jan 29 2017,Buyuksehyr,1-0,0-0,Bursaspor
+Sun Jan 29 2017,Genclerbirligi,1-1,1-0,Osmanlispor
+Sun Jan 29 2017,Kayserispor,4-1,1-1,Fenerbahce
+Sun Jan 29 2017,Trabzonspor,4-0,2-0,Gaziantepspor
+Mon Jan 30 2017,Adanaspor,2-0,1-0,Kasimpasa
+Mon Jan 30 2017,Besiktas,5-1,2-0,Konyaspor
+Fri Feb 10 2017,Karabukspor,2-1,0-0,Besiktas
+Sat Feb 11 2017,Alanyaspor,3-0,2-0,Genclerbirligi
+Sat Feb 11 2017,Bursaspor,1-1,0-1,Fenerbahce
+Sat Feb 11 2017,Osmanlispor,0-1,0-1,Trabzonspor
+Sun Feb 12 2017,Akhisar Belediyespor,1-0,1-0,Rizespor
+Sun Feb 12 2017,Galatasaray,1-2,0-2,Kayserispor
+Sun Feb 12 2017,Kasimpasa,4-0,2-0,Buyuksehyr
+Sun Feb 12 2017,Konyaspor,1-1,0-1,Antalyaspor
+Mon Feb 13 2017,Gaziantepspor,1-0,0-0,Adanaspor
+Fri Feb 17 2017,Kayserispor,2-0,0-0,Bursaspor
+Sat Feb 18 2017,Antalyaspor,1-0,0-0,Karabukspor
+Sat Feb 18 2017,Buyuksehyr,0-0,0-0,Gaziantepspor
+Sat Feb 18 2017,Rizespor,1-1,0-1,Galatasaray
+Sun Feb 19 2017,Adanaspor,1-5,0-2,Osmanlispor
+Sun Feb 19 2017,Besiktas,3-1,2-0,Akhisar Belediyespor
+Sun Feb 19 2017,Fenerbahce,0-0,0-0,Kasimpasa
+Sun Feb 19 2017,Genclerbirligi,2-0,1-0,Konyaspor
+Mon Feb 20 2017,Trabzonspor,0-0,0-0,Alanyaspor
+Fri Feb 24 2017,Kasimpasa,4-0,1-0,Bursaspor
+Fri Feb 24 2017,Rizespor,2-4,1-2,Kayserispor
+Sat Feb 25 2017,Akhisar Belediyespor,3-0,1-0,Antalyaspor
+Sat Feb 25 2017,Alanyaspor,4-1,2-0,Adanaspor
+Sat Feb 25 2017,Konyaspor,1-1,0-0,Trabzonspor
+Sun Feb 26 2017,Gaziantepspor,1-1,1-1,Fenerbahce
+Sun Feb 26 2017,Karabukspor,1-0,1-0,Genclerbirligi
+Sun Feb 26 2017,Osmanlispor,0-1,0-1,Buyuksehyr
+Mon Feb 27 2017,Galatasaray,0-1,0-0,Besiktas
+Fri Mar 3 2017,Trabzonspor,1-0,0-0,Karabukspor
+Sat Mar 4 2017,Besiktas,1-0,1-0,Rizespor
+Sat Mar 4 2017,Bursaspor,2-1,1-1,Gaziantepspor
+Sun Mar 5 2017,Adanaspor,0-1,0-1,Konyaspor
+Sun Mar 5 2017,Buyuksehyr,2-1,1-0,Alanyaspor
+Sun Mar 5 2017,Fenerbahce,1-0,0-0,Osmanlispor
+Sun Mar 5 2017,Kayserispor,2-2,1-1,Kasimpasa
+Mon Mar 6 2017,Antalyaspor,2-3,1-2,Galatasaray
+Mon Mar 6 2017,Genclerbirligi,2-0,1-0,Akhisar Belediyespor
+Fri Mar 10 2017,Alanyaspor,2-3,2-2,Fenerbahce
+Sat Mar 11 2017,Galatasaray,3-2,2-1,Genclerbirligi
+Sat Mar 11 2017,Gaziantepspor,0-2,0-0,Kasimpasa
+Sat Mar 11 2017,Karabukspor,2-0,1-0,Adanaspor
+Sat Mar 11 2017,Osmanlispor,1-1,0-1,Bursaspor
+Sun Mar 12 2017,Besiktas,2-2,0-0,Kayserispor
+Sun Mar 12 2017,Konyaspor,0-3,0-1,Buyuksehyr
+Sun Mar 12 2017,Rizespor,1-2,0-2,Antalyaspor
+Mon Mar 13 2017,Akhisar Belediyespor,1-3,1-0,Trabzonspor
+Fri Mar 17 2017,Fenerbahce,2-3,1-2,Konyaspor
+Sat Mar 18 2017,Adanaspor,2-1,1-1,Akhisar Belediyespor
+Sat Mar 18 2017,Kasimpasa,3-2,2-2,Osmanlispor
+Sat Mar 18 2017,Kayserispor,3-4,2-2,Gaziantepspor
+Sat Mar 18 2017,Trabzonspor,2-0,1-0,Galatasaray
+Sun Mar 19 2017,Antalyaspor,0-0,0-0,Besiktas
+Sun Mar 19 2017,Bursaspor,1-3,1-1,Alanyaspor
+Sun Mar 19 2017,Buyuksehyr,3-3,1-1,Karabukspor
+Sun Mar 19 2017,Genclerbirligi,1-0,0-0,Rizespor
+Sat Apr 1 2017,Akhisar Belediyespor,2-1,0-0,Buyuksehyr
+Sat Apr 1 2017,Alanyaspor,3-1,2-0,Kasimpasa
+Sat Apr 1 2017,Antalyaspor,2-1,1-0,Kayserispor
+Sat Apr 1 2017,Karabukspor,0-1,0-0,Fenerbahce
+Sun Apr 2 2017,Besiktas,3-0,1-0,Genclerbirligi
+Sun Apr 2 2017,Konyaspor,2-0,1-0,Bursaspor
+Sun Apr 2 2017,Osmanlispor,0-2,0-1,Gaziantepspor
+Sun Apr 2 2017,Rizespor,0-1,0-1,Trabzonspor
+Mon Apr 3 2017,Galatasaray,4-0,1-0,Adanaspor
+Fri Apr 7 2017,Bursaspor,3-0,0-0,Karabukspor
+Sat Apr 8 2017,Gaziantepspor,2-3,0-1,Alanyaspor
+Sat Apr 8 2017,Genclerbirligi,1-1,1-1,Antalyaspor
+Sat Apr 8 2017,Trabzonspor,3-4,1-1,Besiktas
+Sun Apr 9 2017,Adanaspor,1-3,0-1,Rizespor
+Sun Apr 9 2017,Fenerbahce,3-1,1-0,Akhisar Belediyespor
+Sun Apr 9 2017,Kayserispor,1-4,1-2,Osmanlispor
+Mon Apr 10 2017,Buyuksehyr,4-0,2-0,Galatasaray
+Mon Apr 10 2017,Kasimpasa,1-1,0-1,Konyaspor
+Wed Apr 12 2017,Gaziantepspor,0-1,0-0,Genclerbirligi
+Fri Apr 21 2017,Karabukspor,0-0,0-0,Kasimpasa
+Fri Apr 21 2017,Konyaspor,1-2,1-1,Gaziantepspor
+Sat Apr 22 2017,Alanyaspor,0-1,0-0,Osmanlispor
+Sat Apr 22 2017,Antalyaspor,0-3,0-0,Trabzonspor
+Sat Apr 22 2017,Genclerbirligi,2-1,2-1,Kayserispor
+Sat Apr 22 2017,Rizespor,3-3,1-1,Buyuksehyr
+Sun Apr 23 2017,Akhisar Belediyespor,5-1,4-1,Bursaspor
+Sun Apr 23 2017,Galatasaray,0-1,0-0,Fenerbahce
+Mon Apr 24 2017,Besiktas,3-2,1-1,Adanaspor
+Fri Apr 28 2017,Gaziantepspor,0-0,0-0,Karabukspor
+Sat Apr 29 2017,Kayserispor,3-0,1-0,Alanyaspor
+Sat Apr 29 2017,Trabzonspor,0-0,0-0,Genclerbirligi
+Sun Apr 30 2017,Adanaspor,2-5,0-3,Antalyaspor
+Sun Apr 30 2017,Buyuksehyr,3-1,3-0,Besiktas
+Sun Apr 30 2017,Fenerbahce,2-1,1-1,Rizespor
+Sun Apr 30 2017,Kasimpasa,0-2,0-0,Akhisar Belediyespor
+Mon May 1 2017,Bursaspor,0-5,0-2,Galatasaray
+Mon May 1 2017,Osmanlispor,0-0,0-0,Konyaspor
+Fri May 5 2017,Antalyaspor,0-1,0-0,Buyuksehyr
+Sat May 6 2017,Galatasaray,1-3,0-1,Kasimpasa
+Sat May 6 2017,Genclerbirligi,0-1,0-1,Adanaspor
+Sat May 6 2017,Konyaspor,2-3,1-1,Alanyaspor
+Sat May 6 2017,Trabzonspor,2-3,2-2,Kayserispor
+Sun May 7 2017,Besiktas,1-1,1-0,Fenerbahce
+Sun May 7 2017,Rizespor,6-0,4-0,Bursaspor
+Mon May 8 2017,Akhisar Belediyespor,6-0,1-0,Gaziantepspor
+Mon May 8 2017,Karabukspor,1-0,0-0,Osmanlispor
+Fri May 12 2017,Kasimpasa,4-2,0-0,Rizespor
+Fri May 12 2017,Kayserispor,2-1,1-1,Konyaspor
+Sat May 13 2017,Adanaspor,1-1,1-1,Trabzonspor
+Sat May 13 2017,Buyuksehyr,2-1,0-1,Genclerbirligi
+Sat May 13 2017,Fenerbahce,0-1,0-0,Antalyaspor
+Sun May 14 2017,Alanyaspor,4-2,1-1,Karabukspor
+Sun May 14 2017,Gaziantepspor,1-2,0-1,Galatasaray
+Sun May 14 2017,Osmanlispor,0-4,0-1,Akhisar Belediyespor
+Mon May 15 2017,Bursaspor,0-2,0-0,Besiktas
+Fri May 19 2017,Galatasaray,2-0,2-0,Osmanlispor
+Sat May 20 2017,Antalyaspor,2-1,1-0,Bursaspor
+Sat May 20 2017,Besiktas,4-1,2-1,Kasimpasa
+Sat May 20 2017,Kayserispor,1-1,1-0,Adanaspor
+Sat May 20 2017,Rizespor,2-0,1-0,Gaziantepspor
+Sun May 21 2017,Konyaspor,3-0,2-0,Karabukspor
+Sun May 21 2017,Trabzonspor,0-0,0-0,Buyuksehyr
+Mon May 22 2017,Akhisar Belediyespor,3-0,1-0,Alanyaspor
+Mon May 22 2017,Genclerbirligi,1-2,1-0,Fenerbahce
+Sat May 27 2017,Buyuksehyr,2-1,1-1,Adanaspor
+Sat May 27 2017,Fenerbahce,1-1,1-0,Trabzonspor
+Sat May 27 2017,Kasimpasa,0-3,0-1,Antalyaspor
+Sat May 27 2017,Konyaspor,0-3,0-2,Akhisar Belediyespor
+Sun May 28 2017,Bursaspor,1-2,1-0,Genclerbirligi
+Sun May 28 2017,Gaziantepspor,0-4,0-2,Besiktas
+Sun May 28 2017,Karabukspor,2-2,0-1,Kayserispor
+Sun May 28 2017,Osmanlispor,1-2,1-1,Rizespor
+Mon May 29 2017,Alanyaspor,2-3,1-3,Galatasaray
+Fri Jun 2 2017,Akhisar Belediyespor,2-3,1-0,Karabukspor
+Fri Jun 2 2017,Antalyaspor,4-1,2-1,Gaziantepspor
+Fri Jun 2 2017,Genclerbirligi,1-0,1-0,Kasimpasa
+Sat Jun 3 2017,Adanaspor,1-3,1-2,Fenerbahce
+Sat Jun 3 2017,Besiktas,4-0,2-0,Osmanlispor
+Sat Jun 3 2017,Galatasaray,2-1,1-0,Konyaspor
+Sat Jun 3 2017,Kayserispor,0-1,0-0,Buyuksehyr
+Sat Jun 3 2017,Rizespor,1-0,1-0,Alanyaspor
+Sat Jun 3 2017,Trabzonspor,1-2,0-0,Bursaspor

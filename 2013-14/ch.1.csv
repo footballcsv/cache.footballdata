@@ -1,0 +1,181 @@
+Date,Team 1,FT,HT,Team 2
+Sat Jul 13 2013,Basel,3-1,?,Aarau
+Sat Jul 13 2013,Young Boys,2-0,?,Sion
+Sun Jul 14 2013,Luzern,2-0,?,Lausanne
+Sun Jul 14 2013,Zurich,3-2,?,Thun
+Sun Jul 14 2013,St. Gallen,0-2,?,Grasshoppers
+Sat Jul 20 2013,Aarau,4-2,?,Luzern
+Sat Jul 20 2013,Lausanne,1-3,?,Young Boys
+Sun Jul 21 2013,Sion,0-0,?,Zurich
+Sun Jul 21 2013,Thun,3-2,?,St. Gallen
+Sun Jul 21 2013,Grasshoppers,1-1,?,Basel
+Sat Jul 27 2013,Basel,2-0,?,Lausanne
+Sat Jul 27 2013,Grasshoppers,4-2,?,Aarau
+Sun Jul 28 2013,Luzern,3-2,?,Zurich
+Sun Jul 28 2013,Sion,0-1,?,St. Gallen
+Sun Jul 28 2013,Young Boys,3-2,?,Thun
+Sat Aug 3 2013,Lausanne,0-0,?,Grasshoppers
+Sat Aug 3 2013,St. Gallen,1-1,?,Basel
+Sun Aug 4 2013,Thun,2-2,?,Aarau
+Sun Aug 4 2013,Zurich,1-3,?,Young Boys
+Sun Aug 4 2013,Luzern,1-0,?,Sion
+Sat Aug 10 2013,Aarau,0-4,?,Young Boys
+Sat Aug 10 2013,Grasshoppers,0-0,?,Sion
+Sun Aug 11 2013,St. Gallen,2-0,?,Lausanne
+Sun Aug 11 2013,Thun,1-1,?,Luzern
+Sun Aug 11 2013,Basel,1-2,?,Zurich
+Sat Aug 24 2013,Lausanne,1-2,?,Aarau
+Sat Aug 24 2013,Luzern,1-1,?,Basel
+Sun Aug 25 2013,Sion,0-0,?,Thun
+Sun Aug 25 2013,Young Boys,1-2,?,Grasshoppers
+Sun Aug 25 2013,Zurich,0-0,?,St. Gallen
+Sat Aug 31 2013,Aarau,0-1,?,Sion
+Sun Sep 1 2013,St. Gallen,4-1,?,Luzern
+Sun Sep 1 2013,Thun,4-1,?,Lausanne
+Sun Sep 1 2013,Basel,2-1,?,Young Boys
+Sat Sep 21 2013,Young Boys,0-1,?,Luzern
+Sun Sep 22 2013,Grasshoppers,2-1,?,Thun
+Sun Sep 22 2013,Lausanne,1-2,?,Zurich
+Sun Sep 22 2013,Sion,1-3,?,Basel
+Tue Sep 24 2013,St. Gallen,0-0,?,Young Boys
+Wed Sep 25 2013,Luzern,0-2,?,Grasshoppers
+Wed Sep 25 2013,Sion,2-1,?,Lausanne
+Wed Sep 25 2013,Thun,0-2,?,Basel
+Thu Sep 26 2013,Zurich,1-2,?,Aarau
+Sat Sep 28 2013,Basel,2-2,?,Sion
+Sat Sep 28 2013,Grasshoppers,0-1,?,St. Gallen
+Sun Sep 29 2013,Aarau,2-3,?,Lausanne
+Sun Sep 29 2013,Luzern,1-1,?,Thun
+Sun Sep 29 2013,Young Boys,0-1,?,Zurich
+Sat Oct 5 2013,Sion,2-2,?,Young Boys
+Sat Oct 5 2013,Zurich,0-2,?,Luzern
+Sun Oct 6 2013,St. Gallen,1-0,?,Aarau
+Sun Oct 6 2013,Thun,1-1,?,Grasshoppers
+Sun Oct 6 2013,Lausanne,1-2,?,Basel
+Sat Oct 19 2013,Basel,3-0,?,St. Gallen
+Sat Oct 19 2013,Thun,1-0,?,Sion
+Sun Oct 20 2013,Aarau,5-1,?,Zurich
+Sun Oct 20 2013,Grasshoppers,2-0,?,Lausanne
+Sun Oct 20 2013,Luzern,1-1,?,Young Boys
+Sat Oct 26 2013,Lausanne,0-1,?,Luzern
+Sat Oct 26 2013,Young Boys,3-0,?,Aarau
+Sun Oct 27 2013,Sion,2-0,?,Grasshoppers
+Sun Oct 27 2013,St. Gallen,0-0,?,Thun
+Sun Oct 27 2013,Zurich,0-0,?,Basel
+Wed Oct 30 2013,Aarau,2-2,?,St. Gallen
+Wed Oct 30 2013,Grasshoppers,3-1,?,Zurich
+Sat Nov 2 2013,Aarau,1-1,?,Basel
+Sat Nov 2 2013,Sion,3-0,?,Luzern
+Sun Nov 3 2013,Lausanne,0-3,?,St. Gallen
+Sun Nov 3 2013,Thun,2-1,?,Zurich
+Sun Nov 3 2013,Grasshoppers,0-1,?,Young Boys
+Sat Nov 23 2013,Basel,4-1,?,Thun
+Sat Nov 23 2013,Young Boys,3-2,?,Lausanne
+Sun Nov 24 2013,Aarau,2-4,?,Grasshoppers
+Sun Nov 24 2013,Zurich,4-1,?,Sion
+Sun Nov 24 2013,Luzern,3-1,?,St. Gallen
+Sat Nov 30 2013,Grasshoppers,1-2,?,Luzern
+Sun Dec 1 2013,Lausanne,0-2,?,Thun
+Sun Dec 1 2013,St. Gallen,2-1,?,Zurich
+Sun Dec 1 2013,Young Boys,2-2,?,Basel
+Sat Dec 7 2013,Basel,1-1,?,Grasshoppers
+Sat Dec 7 2013,Zurich,4-0,?,Lausanne
+Sun Dec 8 2013,Luzern,1-0,?,Aarau
+Sun Dec 8 2013,St. Gallen,2-0,?,Sion
+Sun Dec 8 2013,Thun,1-0,?,Young Boys
+Sat Dec 14 2013,Basel,1-1,?,Luzern
+Sat Dec 14 2013,Lausanne,3-1,?,Sion
+Sun Dec 15 2013,Aarau,2-1,?,Thun
+Sun Dec 15 2013,Young Boys,1-0,?,St. Gallen
+Sun Dec 15 2013,Zurich,1-1,?,Grasshoppers
+Sat Feb 1 2014,Aarau,1-1,?,St. Gallen
+Sat Feb 1 2014,Zurich,1-0,?,Sion
+Sun Feb 2 2014,Lausanne,1-3,?,Basel
+Sun Feb 2 2014,Luzern,1-3,?,Grasshoppers
+Sun Feb 2 2014,Young Boys,2-1,?,Thun
+Sat Feb 8 2014,Basel,3-2,?,Young Boys
+Sat Feb 8 2014,Thun,2-1,?,Luzern
+Sun Feb 9 2014,Grasshoppers,1-2,?,Aarau
+Sun Feb 9 2014,Sion,1-2,?,Lausanne
+Sun Feb 9 2014,St. Gallen,0-2,?,Zurich
+Sat Feb 15 2014,Basel,1-0,?,Sion
+Sat Feb 15 2014,Luzern,3-2,?,Aarau
+Sun Feb 16 2014,St. Gallen,1-5,?,Grasshoppers
+Sun Feb 16 2014,Zurich,3-1,?,Thun
+Sun Feb 16 2014,Young Boys,5-3,?,Lausanne
+Sat Feb 22 2014,Aarau,1-2,?,Zurich
+Sat Feb 22 2014,Thun,3-1,?,Sion
+Sun Feb 23 2014,Lausanne,3-0,?,St. Gallen
+Sun Feb 23 2014,Luzern,1-2,?,Young Boys
+Sun Feb 23 2014,Grasshoppers,1-1,?,Basel
+Wed Feb 26 2014,Sion,3-0,?,Young Boys
+Sat Mar 1 2014,Lausanne,0-1,?,Aarau
+Sat Mar 1 2014,Zurich,3-1,?,Grasshoppers
+Sun Mar 2 2014,Thun,2-2,?,Basel
+Sun Mar 2 2014,St. Gallen,1-1,?,Luzern
+Sat Mar 8 2014,Basel,1-1,?,St. Gallen
+Sat Mar 8 2014,Grasshoppers,2-1,?,Lausanne
+Sun Mar 9 2014,Aarau,1-4,?,Thun
+Sun Mar 9 2014,Young Boys,1-3,?,Zurich
+Sun Mar 9 2014,Sion,3-2,?,Luzern
+Wed Mar 12 2014,Sion,1-2,?,Aarau
+Sat Mar 15 2014,St. Gallen,1-1,?,Young Boys
+Sat Mar 15 2014,Thun,2-2,?,Lausanne
+Sun Mar 16 2014,Grasshoppers,4-2,?,Sion
+Sun Mar 16 2014,Luzern,1-0,?,Zurich
+Sun Mar 16 2014,Basel,5-0,?,Aarau
+Sat Mar 22 2014,Aarau,2-0,?,Sion
+Sat Mar 22 2014,St. Gallen,1-0,?,Thun
+Sun Mar 23 2014,Lausanne,1-0,?,Luzern
+Sun Mar 23 2014,Young Boys,0-4,?,Grasshoppers
+Sun Mar 23 2014,Zurich,0-0,?,Basel
+Sat Mar 29 2014,Aarau,2-1,?,Young Boys
+Sat Mar 29 2014,Sion,1-1,?,St. Gallen
+Sun Mar 30 2014,Thun,1-3,?,Grasshoppers
+Sun Mar 30 2014,Zurich,0-3,?,Lausanne
+Sun Mar 30 2014,Luzern,0-2,?,Basel
+Sat Apr 5 2014,Grasshoppers,2-0,?,Zurich
+Sat Apr 5 2014,St. Gallen,4-1,?,Aarau
+Sun Apr 6 2014,Basel,0-0,?,Thun
+Sun Apr 6 2014,Lausanne,0-1,?,Sion
+Sun Apr 6 2014,Young Boys,2-1,?,Luzern
+Sat Apr 12 2014,Lausanne,0-2,?,Grasshoppers
+Sat Apr 12 2014,Thun,2-0,?,Aarau
+Sun Apr 13 2014,Luzern,1-0,?,St. Gallen
+Sun Apr 13 2014,Sion,0-1,?,Basel
+Sun Apr 13 2014,Zurich,2-2,?,Young Boys
+Wed Apr 16 2014,Aarau,1-2,?,Luzern
+Wed Apr 16 2014,Grasshoppers,0-5,?,Thun
+Wed Apr 16 2014,Basel,4-2,?,Zurich
+Thu Apr 17 2014,St. Gallen,0-0,?,Lausanne
+Thu Apr 17 2014,Young Boys,0-0,?,Sion
+Sat Apr 26 2014,Sion,2-0,?,Aarau
+Sat Apr 26 2014,Zurich,1-2,?,Luzern
+Sun Apr 27 2014,Lausanne,0-1,?,Young Boys
+Sun Apr 27 2014,Thun,4-0,?,St. Gallen
+Sun Apr 27 2014,Basel,1-1,?,Grasshoppers
+Sat May 3 2014,Luzern,0-1,?,Sion
+Sat May 3 2014,Thun,1-2,?,Zurich
+Sun May 4 2014,Aarau,3-1,?,Lausanne
+Sun May 4 2014,St. Gallen,0-3,?,Basel
+Sun May 4 2014,Grasshoppers,5-0,?,Young Boys
+Tue May 6 2014,Sion,1-0,?,Zurich
+Wed May 7 2014,Grasshoppers,2-0,?,St. Gallen
+Wed May 7 2014,Young Boys,2-2,?,Aarau
+Wed May 7 2014,Basel,3-1,?,Luzern
+Thu May 8 2014,Lausanne,1-3,?,Thun
+Sat May 10 2014,Aarau,4-0,?,Grasshoppers
+Sat May 10 2014,Zurich,2-2,?,St. Gallen
+Sun May 11 2014,Luzern,3-4,?,Lausanne
+Sun May 11 2014,Sion,3-1,?,Thun
+Sun May 11 2014,Young Boys,3-1,?,Basel
+Thu May 15 2014,Aarau,1-3,?,Basel
+Thu May 15 2014,Grasshoppers,4-1,?,Luzern
+Thu May 15 2014,Lausanne,0-1,?,Zurich
+Thu May 15 2014,St. Gallen,2-0,?,Sion
+Thu May 15 2014,Thun,0-3,?,Young Boys
+Sun May 18 2014,Basel,4-2,?,Lausanne
+Sun May 18 2014,Luzern,3-0,?,Thun
+Sun May 18 2014,Sion,3-1,?,Grasshoppers
+Sun May 18 2014,Young Boys,2-0,?,St. Gallen
+Sun May 18 2014,Zurich,2-2,?,Aarau

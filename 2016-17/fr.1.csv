@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 12 2016,Bastia,0-1,0-0,Paris SG
+Fri Aug 12 2016,Monaco,2-2,0-2,Guingamp
+Sat Aug 13 2016,Bordeaux,3-2,1-0,St Etienne
+Sat Aug 13 2016,Caen,3-2,2-2,Lorient
+Sat Aug 13 2016,Dijon,0-1,0-0,Nantes
+Sat Aug 13 2016,Metz,3-2,0-1,Lille
+Sat Aug 13 2016,Montpellier,1-0,1-0,Angers
+Sun Aug 14 2016,Marseille,0-0,0-0,Toulouse
+Sun Aug 14 2016,Nancy,0-3,0-2,Lyon
+Sun Aug 14 2016,Nice,1-0,0-0,Rennes
+Fri Aug 19 2016,Lyon,2-0,1-0,Caen
+Sat Aug 20 2016,Angers,0-1,0-1,Nice
+Sat Aug 20 2016,Lille,1-0,0-0,Dijon
+Sat Aug 20 2016,Lorient,0-3,0-2,Bastia
+Sat Aug 20 2016,Nantes,0-1,0-1,Monaco
+Sat Aug 20 2016,Rennes,2-0,1-0,Nancy
+Sat Aug 20 2016,Toulouse,4-1,2-0,Bordeaux
+Sun Aug 21 2016,Guingamp,2-1,1-0,Marseille
+Sun Aug 21 2016,Paris SG,3-0,0-0,Metz
+Sun Aug 21 2016,St Etienne,3-1,0-1,Montpellier
+Fri Aug 26 2016,Marseille,2-0,1-0,Lorient
+Sat Aug 27 2016,Caen,2-0,0-0,Bastia
+Sat Aug 27 2016,Dijon,4-2,2-2,Lyon
+Sat Aug 27 2016,Metz,2-0,1-0,Angers
+Sat Aug 27 2016,Montpellier,1-1,1-0,Rennes
+Sat Aug 27 2016,Nancy,0-2,0-0,Guingamp
+Sat Aug 27 2016,Nice,1-1,1-1,Lille
+Sun Aug 28 2016,Bordeaux,1-0,1-0,Nantes
+Sun Aug 28 2016,Monaco,3-1,2-0,Paris SG
+Sun Aug 28 2016,St Etienne,0-0,0-0,Toulouse
+Fri Sep 9 2016,Paris SG,1-1,0-0,St Etienne
+Sat Sep 10 2016,Angers,3-1,1-1,Dijon
+Sat Sep 10 2016,Bastia,2-1,1-0,Toulouse
+Sat Sep 10 2016,Guingamp,1-1,1-1,Montpellier
+Sat Sep 10 2016,Lille,1-4,0-2,Monaco
+Sat Sep 10 2016,Lorient,0-2,0-1,Nancy
+Sat Sep 10 2016,Lyon,1-3,1-1,Bordeaux
+Sun Sep 11 2016,Nantes,0-3,0-2,Metz
+Sun Sep 11 2016,Nice,3-2,1-1,Marseille
+Sun Sep 11 2016,Rennes,2-0,0-0,Caen
+Fri Sep 16 2016,Caen,0-6,0-4,Paris SG
+Sat Sep 17 2016,Bordeaux,0-1,0-1,Angers
+Sat Sep 17 2016,Dijon,0-0,0-0,Metz
+Sat Sep 17 2016,Lorient,1-0,0-0,Lille
+Sat Sep 17 2016,Monaco,3-0,1-0,Rennes
+Sat Sep 17 2016,Nancy,1-1,0-0,Nantes
+Sat Sep 17 2016,Toulouse,2-1,0-0,Guingamp
+Sun Sep 18 2016,Marseille,0-0,0-0,Lyon
+Sun Sep 18 2016,Montpellier,1-1,0-0,Nice
+Sun Sep 18 2016,St Etienne,1-0,0-0,Bastia
+Tue Sep 20 2016,Lille,1-2,1-1,Toulouse
+Tue Sep 20 2016,Paris SG,3-0,2-0,Dijon
+Wed Sep 21 2016,Angers,2-1,1-0,Caen
+Wed Sep 21 2016,Bastia,0-0,0-0,Nancy
+Wed Sep 21 2016,Guingamp,1-0,0-0,Lorient
+Wed Sep 21 2016,Lyon,5-1,2-1,Montpellier
+Wed Sep 21 2016,Metz,0-3,0-1,Bordeaux
+Wed Sep 21 2016,Nantes,0-0,0-0,St Etienne
+Wed Sep 21 2016,Nice,4-0,2-0,Monaco
+Wed Sep 21 2016,Rennes,3-2,1-1,Marseille
+Fri Sep 23 2016,Toulouse,2-0,0-0,Paris SG
+Sat Sep 24 2016,Bastia,1-0,0-0,Guingamp
+Sat Sep 24 2016,Bordeaux,0-0,0-0,Caen
+Sat Sep 24 2016,Dijon,3-0,2-0,Rennes
+Sat Sep 24 2016,Lorient,1-0,0-0,Lyon
+Sat Sep 24 2016,Monaco,2-1,0-0,Angers
+Sat Sep 24 2016,Montpellier,0-1,0-1,Metz
+Sun Sep 25 2016,Marseille,2-1,1-1,Nantes
+Sun Sep 25 2016,Nancy,0-1,0-0,Nice
+Sun Sep 25 2016,St Etienne,3-1,0-0,Lille
+Fri Sep 30 2016,Rennes,1-0,0-0,Guingamp
+Sat Oct 1 2016,Caen,1-0,0-0,Toulouse
+Sat Oct 1 2016,Dijon,3-3,1-2,Montpellier
+Sat Oct 1 2016,Lille,1-0,0-0,Nancy
+Sat Oct 1 2016,Metz,0-7,0-3,Monaco
+Sat Oct 1 2016,Nantes,1-0,1-0,Bastia
+Sat Oct 1 2016,Paris SG,2-0,2-0,Bordeaux
+Sun Oct 2 2016,Angers,1-1,0-0,Marseille
+Sun Oct 2 2016,Lyon,2-0,1-0,St Etienne
+Sun Oct 2 2016,Nice,2-1,1-0,Lorient
+Fri Oct 14 2016,Nice,2-0,1-0,Lyon
+Fri Oct 14 2016,Toulouse,3-1,0-1,Monaco
+Sat Oct 15 2016,Bastia,1-2,1-1,Angers
+Sat Oct 15 2016,Guingamp,1-0,1-0,Lille
+Sat Oct 15 2016,Lorient,1-2,0-1,Nantes
+Sat Oct 15 2016,Montpellier,3-2,1-1,Caen
+Sat Oct 15 2016,Nancy,1-2,0-2,Paris SG
+Sun Oct 16 2016,Marseille,1-0,1-0,Metz
+Sun Oct 16 2016,Rennes,1-1,1-0,Bordeaux
+Sun Oct 16 2016,St Etienne,1-1,0-1,Dijon
+Fri Oct 21 2016,Monaco,6-2,1-1,Montpellier
+Sat Oct 22 2016,Angers,0-0,0-0,Toulouse
+Sat Oct 22 2016,Bordeaux,1-1,0-0,Nancy
+Sat Oct 22 2016,Dijon,1-0,0-0,Lorient
+Sat Oct 22 2016,Lille,2-1,0-0,Bastia
+Sat Oct 22 2016,Lyon,1-3,1-0,Guingamp
+Sat Oct 22 2016,Nantes,1-2,1-0,Rennes
+Sun Oct 23 2016,Caen,0-2,0-0,St Etienne
+Sun Oct 23 2016,Metz,2-4,1-2,Nice
+Sun Oct 23 2016,Paris SG,0-0,0-0,Marseille
+Fri Oct 28 2016,Lille,0-1,0-0,Paris SG
+Sat Oct 29 2016,Bastia,0-0,0-0,Dijon
+Sat Oct 29 2016,Guingamp,1-0,0-0,Angers
+Sat Oct 29 2016,Lorient,2-2,2-1,Montpellier
+Sat Oct 29 2016,Nancy,2-0,2-0,Caen
+Sat Oct 29 2016,St Etienne,1-1,1-1,Monaco
+Sat Oct 29 2016,Toulouse,1-2,1-1,Lyon
+Sun Oct 30 2016,Marseille,0-0,0-0,Bordeaux
+Sun Oct 30 2016,Nice,4-1,2-0,Nantes
+Sun Oct 30 2016,Rennes,1-0,0-0,Metz
+Fri Nov 4 2016,Montpellier,3-1,2-0,Marseille
+Sat Nov 5 2016,Angers,1-0,0-0,Lille
+Sat Nov 5 2016,Bordeaux,2-1,1-0,Lorient
+Sat Nov 5 2016,Dijon,3-3,3-1,Guingamp
+Sat Nov 5 2016,Lyon,2-1,1-0,Bastia
+Sat Nov 5 2016,Monaco,6-0,2-0,Nancy
+Sat Nov 5 2016,Nantes,1-1,0-1,Toulouse
+Sun Nov 6 2016,Caen,1-0,1-0,Nice
+Sun Nov 6 2016,Metz,0-0,0-0,St Etienne
+Sun Nov 6 2016,Paris SG,4-0,2-0,Rennes
+Fri Nov 18 2016,Lille,0-1,0-1,Lyon
+Fri Nov 18 2016,Lorient,0-3,0-0,Monaco
+Sat Nov 19 2016,Bastia,1-1,1-0,Montpellier
+Sat Nov 19 2016,Nancy,1-0,0-0,Dijon
+Sat Nov 19 2016,Paris SG,2-0,1-0,Nantes
+Sat Nov 19 2016,Rennes,1-1,1-0,Angers
+Sat Nov 19 2016,Toulouse,1-2,0-1,Metz
+Sun Nov 20 2016,Guingamp,1-1,0-1,Bordeaux
+Sun Nov 20 2016,Marseille,1-0,0-0,Caen
+Sun Nov 20 2016,St Etienne,0-1,0-0,Nice
+Fri Nov 25 2016,Rennes,1-0,1-0,Toulouse
+Sat Nov 26 2016,Bordeaux,3-2,0-1,Dijon
+Sat Nov 26 2016,Caen,1-1,0-0,Guingamp
+Sat Nov 26 2016,Metz,3-3,1-1,Lorient
+Sat Nov 26 2016,Monaco,4-0,3-0,Marseille
+Sat Nov 26 2016,Montpellier,0-0,0-0,Nancy
+Sat Nov 26 2016,Nantes,0-0,0-0,Lille
+Sun Nov 27 2016,Angers,1-2,1-0,St Etienne
+Sun Nov 27 2016,Lyon,1-2,0-1,Paris SG
+Sun Nov 27 2016,Nice,1-1,1-0,Bastia
+Tue Nov 29 2016,Dijon,1-1,0-1,Monaco
+Tue Nov 29 2016,Lille,4-2,2-1,Caen
+Tue Nov 29 2016,Lorient,2-1,1-1,Rennes
+Wed Nov 30 2016,Bastia,1-1,0-0,Bordeaux
+Wed Nov 30 2016,Guingamp,0-1,0-1,Nice
+Wed Nov 30 2016,Nancy,4-0,1-0,Metz
+Wed Nov 30 2016,Nantes,0-6,0-3,Lyon
+Wed Nov 30 2016,Paris SG,2-0,1-0,Angers
+Wed Nov 30 2016,St Etienne,0-0,0-0,Marseille
+Wed Nov 30 2016,Toulouse,1-0,1-0,Montpellier
+Fri Dec 2 2016,Caen,3-3,3-1,Dijon
+Sat Dec 3 2016,Angers,2-2,1-1,Lorient
+Sat Dec 3 2016,Bordeaux,0-1,0-1,Lille
+Sat Dec 3 2016,Guingamp,2-0,1-0,Nantes
+Sat Dec 3 2016,Monaco,5-0,1-0,Bastia
+Sat Dec 3 2016,Montpellier,3-0,1-0,Paris SG
+Sun Dec 4 2016,Marseille,3-0,0-0,Nancy
+Sun Dec 4 2016,Nice,3-0,2-0,Toulouse
+Sun Dec 4 2016,Rennes,2-0,0-0,St Etienne
+Sat Dec 10 2016,Bastia,2-0,1-0,Metz
+Sat Dec 10 2016,Bordeaux,0-4,0-2,Monaco
+Sat Dec 10 2016,Dijon,1-2,0-1,Marseille
+Sat Dec 10 2016,Lille,2-1,2-0,Montpellier
+Sat Dec 10 2016,Nancy,2-0,1-0,Angers
+Sat Dec 10 2016,Toulouse,3-2,2-1,Lorient
+Sun Dec 11 2016,Lyon,1-0,1-0,Rennes
+Sun Dec 11 2016,Paris SG,2-2,0-2,Nice
+Sun Dec 11 2016,St Etienne,1-0,1-0,Guingamp
+Fri Dec 16 2016,Angers,0-2,0-1,Nantes
+Sat Dec 17 2016,Guingamp,2-1,0-0,Paris SG
+Sat Dec 17 2016,Lorient,2-1,1-0,St Etienne
+Sat Dec 17 2016,Montpellier,4-0,2-0,Bordeaux
+Sat Dec 17 2016,Rennes,1-2,0-0,Bastia
+Sat Dec 17 2016,Toulouse,1-1,0-1,Nancy
+Sun Dec 18 2016,Caen,3-0,1-0,Metz
+Sun Dec 18 2016,Marseille,2-0,0-0,Lille
+Sun Dec 18 2016,Monaco,1-3,0-1,Lyon
+Sun Dec 18 2016,Nice,2-1,1-1,Dijon
+Wed Dec 21 2016,Bastia,1-2,0-1,Marseille
+Wed Dec 21 2016,Bordeaux,0-0,0-0,Nice
+Wed Dec 21 2016,Dijon,2-0,0-0,Toulouse
+Wed Dec 21 2016,Lille,1-1,0-1,Rennes
+Wed Dec 21 2016,Lyon,2-0,1-0,Angers
+Wed Dec 21 2016,Metz,2-2,1-0,Guingamp
+Wed Dec 21 2016,Monaco,2-1,0-0,Caen
+Wed Dec 21 2016,Nantes,1-0,1-0,Montpellier
+Wed Dec 21 2016,Paris SG,5-0,2-0,Lorient
+Wed Dec 21 2016,St Etienne,0-0,0-0,Nancy
+Fri Jan 13 2017,Lille,1-1,0-1,St Etienne
+Sat Jan 14 2017,Angers,1-1,1-1,Bordeaux
+Sat Jan 14 2017,Lorient,3-1,0-1,Guingamp
+Sat Jan 14 2017,Montpellier,1-1,0-1,Dijon
+Sat Jan 14 2017,Nancy,1-0,0-0,Bastia
+Sat Jan 14 2017,Rennes,0-1,0-1,Paris SG
+Sat Jan 14 2017,Toulouse,0-1,0-1,Nantes
+Sun Jan 15 2017,Caen,3-2,2-2,Lyon
+Sun Jan 15 2017,Marseille,1-4,1-3,Monaco
+Sun Jan 15 2017,Nice,0-0,0-0,Metz
+Wed Jan 18 2017,Nantes,1-0,0-0,Caen
+Fri Jan 20 2017,Bastia,1-1,1-1,Nice
+Sat Jan 21 2017,Bordeaux,1-0,1-0,Toulouse
+Sat Jan 21 2017,Dijon,0-0,0-0,Lille
+Sat Jan 21 2017,Guingamp,1-1,1-0,Rennes
+Sat Jan 21 2017,Metz,2-0,2-0,Montpellier
+Sat Jan 21 2017,Nantes,0-2,0-1,Paris SG
+Sun Jan 22 2017,Lyon,3-1,1-0,Marseille
+Sun Jan 22 2017,Monaco,4-0,3-0,Lorient
+Sun Jan 22 2017,St Etienne,2-1,0-1,Angers
+Fri Jan 27 2017,Marseille,5-1,3-0,Montpellier
+Sat Jan 28 2017,Angers,2-1,2-1,Metz
+Sat Jan 28 2017,Bastia,1-1,1-1,Caen
+Sat Jan 28 2017,Lorient,2-3,0-1,Dijon
+Sat Jan 28 2017,Lyon,1-2,0-1,Lille
+Sat Jan 28 2017,Nancy,0-2,0-0,Bordeaux
+Sat Jan 28 2017,Rennes,1-1,0-1,Nantes
+Sun Jan 29 2017,Nice,3-1,2-0,Guingamp
+Sun Jan 29 2017,Paris SG,1-1,0-0,Monaco
+Sun Jan 29 2017,Toulouse,0-3,0-1,St Etienne
+Fri Feb 3 2017,Metz,1-0,0-0,Marseille
+Sat Feb 4 2017,Bordeaux,1-1,0-0,Rennes
+Sat Feb 4 2017,Dijon,1-3,1-1,Paris SG
+Sat Feb 4 2017,Guingamp,0-1,0-0,Caen
+Sat Feb 4 2017,Lille,0-1,0-0,Lorient
+Sat Feb 4 2017,Monaco,3-0,0-0,Nice
+Sat Feb 4 2017,Montpellier,2-1,1-1,Bastia
+Sun Feb 5 2017,Nantes,0-2,0-0,Nancy
+Sun Feb 5 2017,St Etienne,2-0,2-0,Lyon
+Sun Feb 5 2017,Toulouse,4-0,0-0,Angers
+Tue Feb 7 2017,Caen,0-4,0-2,Bordeaux
+Tue Feb 7 2017,Montpellier,1-2,0-2,Monaco
+Tue Feb 7 2017,Paris SG,2-1,0-0,Lille
+Wed Feb 8 2017,Angers,0-0,0-0,Rennes
+Wed Feb 8 2017,Lorient,1-1,0-1,Toulouse
+Wed Feb 8 2017,Lyon,4-0,2-0,Nancy
+Wed Feb 8 2017,Marseille,2-0,1-0,Guingamp
+Wed Feb 8 2017,Metz,2-1,0-0,Dijon
+Wed Feb 8 2017,Nice,1-0,1-0,St Etienne
+Fri Feb 10 2017,Bordeaux,0-3,0-2,Paris SG
+Sat Feb 11 2017,Dijon,2-0,1-0,Caen
+Sat Feb 11 2017,Guingamp,2-1,2-1,Lyon
+Sat Feb 11 2017,Lille,1-2,1-1,Angers
+Sat Feb 11 2017,Monaco,5-0,3-0,Metz
+Sat Feb 11 2017,Nancy,0-3,0-2,Montpellier
+Sat Feb 11 2017,Toulouse,4-1,2-0,Bastia
+Sun Feb 12 2017,Nantes,3-2,2-0,Marseille
+Sun Feb 12 2017,Rennes,2-2,2-0,Nice
+Sun Feb 12 2017,St Etienne,4-0,2-0,Lorient
+Fri Feb 17 2017,Bastia,1-1,1-0,Monaco
+Sat Feb 18 2017,Angers,1-0,1-0,Nancy
+Sat Feb 18 2017,Caen,0-1,0-0,Lille
+Sat Feb 18 2017,Lorient,0-1,0-1,Nice
+Sat Feb 18 2017,Marseille,2-0,0-0,Rennes
+Sat Feb 18 2017,Metz,1-1,0-0,Nantes
+Sun Feb 19 2017,Bordeaux,3-0,2-0,Guingamp
+Sun Feb 19 2017,Lyon,4-2,1-1,Dijon
+Sun Feb 19 2017,Montpellier,2-1,0-1,St Etienne
+Sun Feb 19 2017,Paris SG,0-0,0-0,Toulouse
+Tue Feb 21 2017,Caen,1-0,1-0,Nancy
+Fri Feb 24 2017,Nantes,3-1,1-1,Dijon
+Fri Feb 24 2017,Nice,2-1,0-1,Montpellier
+Sat Feb 25 2017,Angers,3-0,1-0,Bastia
+Sat Feb 25 2017,Guingamp,1-2,0-1,Monaco
+Sat Feb 25 2017,Lille,2-3,0-1,Bordeaux
+Sat Feb 25 2017,Nancy,0-0,0-0,Toulouse
+Sat Feb 25 2017,Rennes,1-0,1-0,Lorient
+Sun Feb 26 2017,Lyon,5-0,1-0,Metz
+Sun Feb 26 2017,Marseille,1-5,0-2,Paris SG
+Sun Feb 26 2017,St Etienne,0-1,0-1,Caen
+Wed Mar 1 2017,Bastia,2-2,0-0,Nantes
+Fri Mar 3 2017,Bordeaux,1-1,1-0,Lyon
+Sat Mar 4 2017,Bastia,0-0,0-0,St Etienne
+Sat Mar 4 2017,Caen,2-3,1-2,Angers
+Sat Mar 4 2017,Dijon,0-1,0-0,Nice
+Sat Mar 4 2017,Metz,1-1,1-0,Rennes
+Sat Mar 4 2017,Montpellier,1-1,0-0,Guingamp
+Sat Mar 4 2017,Paris SG,1-0,0-0,Nancy
+Sun Mar 5 2017,Lorient,1-4,0-2,Marseille
+Sun Mar 5 2017,Monaco,4-0,3-0,Nantes
+Sun Mar 5 2017,Toulouse,1-1,1-0,Lille
+Fri Mar 10 2017,Marseille,3-0,2-0,Angers
+Fri Mar 10 2017,Nice,2-2,0-1,Caen
+Sat Mar 11 2017,Guingamp,5-0,0-0,Bastia
+Sat Mar 11 2017,Monaco,2-1,0-0,Bordeaux
+Sat Mar 11 2017,Montpellier,2-3,1-1,Nantes
+Sat Mar 11 2017,Nancy,1-2,1-0,Lille
+Sat Mar 11 2017,Rennes,1-1,0-1,Dijon
+Sun Mar 12 2017,Lorient,1-2,0-1,Paris SG
+Sun Mar 12 2017,Lyon,4-0,1-0,Toulouse
+Sun Mar 12 2017,St Etienne,2-2,0-1,Metz
+Fri Mar 17 2017,Lille,0-0,0-0,Marseille
+Fri Mar 17 2017,Metz,1-0,0-0,Bastia
+Sat Mar 18 2017,Angers,3-0,0-0,Guingamp
+Sat Mar 18 2017,Bordeaux,5-1,3-0,Montpellier
+Sat Mar 18 2017,Nancy,2-3,2-0,Lorient
+Sat Mar 18 2017,Nantes,1-1,1-1,Nice
+Sat Mar 18 2017,Toulouse,0-0,0-0,Rennes
+Sun Mar 19 2017,Caen,0-3,0-1,Monaco
+Sun Mar 19 2017,Dijon,0-1,0-0,St Etienne
+Sun Mar 19 2017,Paris SG,2-1,2-1,Lyon
+Fri Mar 31 2017,Guingamp,1-0,0-0,Nancy
+Sat Apr 1 2017,Bastia,0-1,0-0,Lille
+Sat Apr 1 2017,Marseille,1-1,0-1,Dijon
+Sun Apr 2 2017,Lorient,1-0,1-0,Caen
+Sun Apr 2 2017,Montpellier,0-1,0-1,Toulouse
+Sun Apr 2 2017,Nantes,2-1,0-0,Angers
+Sun Apr 2 2017,Nice,2-1,2-1,Bordeaux
+Sun Apr 2 2017,Rennes,1-1,0-0,Lyon
+Wed Apr 5 2017,Metz,0-3,0-0,Lyon
+Fri Apr 7 2017,Lille,1-2,1-2,Nice
+Sat Apr 8 2017,Angers,0-1,0-0,Monaco
+Sat Apr 8 2017,Bordeaux,3-0,1-0,Metz
+Sat Apr 8 2017,Caen,0-2,0-0,Montpellier
+Sat Apr 8 2017,Dijon,1-2,1-1,Bastia
+Sat Apr 8 2017,Lyon,1-4,1-1,Lorient
+Sat Apr 8 2017,Nancy,3-0,1-0,Rennes
+Sun Apr 9 2017,Paris SG,4-0,0-0,Guingamp
+Sun Apr 9 2017,St Etienne,1-1,0-1,Nantes
+Sun Apr 9 2017,Toulouse,0-0,0-0,Marseille
+Fri Apr 14 2017,Angers,0-2,0-1,Paris SG
+Sat Apr 15 2017,Guingamp,2-1,0-0,Toulouse
+Sat Apr 15 2017,Metz,2-2,0-0,Caen
+Sat Apr 15 2017,Monaco,2-1,0-1,Dijon
+Sat Apr 15 2017,Montpellier,2-0,2-0,Lorient
+Sat Apr 15 2017,Nice,3-1,1-1,Nancy
+Sat Apr 15 2017,Rennes,2-0,2-0,Lille
+Sun Apr 16 2017,Bastia,0-3,?,Lyon
+Sun Apr 16 2017,Marseille,4-0,2-0,St Etienne
+Sun Apr 16 2017,Nantes,0-1,0-0,Bordeaux
+Tue Apr 18 2017,Metz,2-3,0-2,Paris SG
+Fri Apr 21 2017,Nancy,0-0,0-0,Marseille
+Sat Apr 22 2017,Bordeaux,2-0,0-0,Bastia
+Sat Apr 22 2017,Caen,0-2,0-2,Nantes
+Sat Apr 22 2017,Dijon,3-2,3-0,Angers
+Sat Apr 22 2017,Lille,3-0,2-0,Guingamp
+Sat Apr 22 2017,Lorient,5-1,1-1,Metz
+Sat Apr 22 2017,Paris SG,2-0,1-0,Montpellier
+Sun Apr 23 2017,Lyon,1-2,0-2,Monaco
+Sun Apr 23 2017,St Etienne,1-1,1-1,Rennes
+Sun Apr 23 2017,Toulouse,1-1,0-0,Nice
+Fri Apr 28 2017,Angers,1-2,0-2,Lyon
+Sat Apr 29 2017,Bastia,1-0,0-0,Rennes
+Sat Apr 29 2017,Guingamp,0-2,0-0,St Etienne
+Sat Apr 29 2017,Metz,2-1,1-1,Nancy
+Sat Apr 29 2017,Monaco,3-1,0-0,Toulouse
+Sat Apr 29 2017,Montpellier,0-3,0-1,Lille
+Sat Apr 29 2017,Nantes,1-0,0-0,Lorient
+Sun Apr 30 2017,Caen,1-5,1-3,Marseille
+Sun Apr 30 2017,Dijon,0-0,0-0,Bordeaux
+Sun Apr 30 2017,Nice,3-1,1-0,Paris SG
+Fri May 5 2017,St Etienne,2-2,1-1,Bordeaux
+Sat May 6 2017,Guingamp,4-0,1-0,Dijon
+Sat May 6 2017,Lille,0-2,0-1,Metz
+Sat May 6 2017,Lorient,1-1,0-0,Angers
+Sat May 6 2017,Nancy,0-3,0-2,Monaco
+Sat May 6 2017,Paris SG,5-0,2-0,Bastia
+Sat May 6 2017,Toulouse,0-1,0-0,Caen
+Sun May 7 2017,Lyon,3-2,0-1,Nantes
+Sun May 7 2017,Marseille,2-1,1-0,Nice
+Sun May 7 2017,Rennes,1-0,0-0,Montpellier
+Sun May 14 2017,Bastia,2-0,0-0,Lorient
+Sun May 14 2017,Bordeaux,1-1,1-0,Marseille
+Sun May 14 2017,Caen,0-1,0-0,Rennes
+Sun May 14 2017,Dijon,2-0,0-0,Nancy
+Sun May 14 2017,Metz,1-1,0-1,Toulouse
+Sun May 14 2017,Monaco,4-0,2-0,Lille
+Sun May 14 2017,Montpellier,1-3,1-2,Lyon
+Sun May 14 2017,Nantes,4-1,1-0,Guingamp
+Sun May 14 2017,Nice,0-2,0-1,Angers
+Sun May 14 2017,St Etienne,0-5,0-2,Paris SG
+Wed May 17 2017,Monaco,2-0,1-0,St Etienne
+Sat May 20 2017,Angers,2-0,0-0,Montpellier
+Sat May 20 2017,Guingamp,1-0,1-0,Metz
+Sat May 20 2017,Lille,3-0,1-0,Nantes
+Sat May 20 2017,Lorient,1-1,0-1,Bordeaux
+Sat May 20 2017,Lyon,3-3,1-1,Nice
+Sat May 20 2017,Marseille,1-0,0-0,Bastia
+Sat May 20 2017,Nancy,3-1,1-0,St Etienne
+Sat May 20 2017,Paris SG,1-1,1-0,Caen
+Sat May 20 2017,Rennes,2-3,0-1,Monaco
+Sat May 20 2017,Toulouse,0-0,0-0,Dijon

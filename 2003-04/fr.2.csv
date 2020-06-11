@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 1 2003,Le Havre,0-0,0-0,Nancy
+Sat Aug 2 2003,Angers,0-2,0-2,Valence
+Sat Aug 2 2003,Chateauroux,2-0,1-0,St Etienne
+Sat Aug 2 2003,Clermont,0-0,0-0,Rouen
+Sat Aug 2 2003,Grenoble,0-0,0-0,Besancon
+Sat Aug 2 2003,Gueugnon,1-1,0-1,Lorient
+Sat Aug 2 2003,Istres,2-0,1-0,Sedan
+Sat Aug 2 2003,Laval,1-2,1-1,Amiens
+Sat Aug 2 2003,Niort,3-0,1-0,Creteil
+Sat Aug 2 2003,Troyes,2-2,0-1,Caen
+Sat Aug 9 2003,Amiens,1-0,0-0,Angers
+Sat Aug 9 2003,Besancon,0-1,0-0,Istres
+Sat Aug 9 2003,Caen,1-2,0-0,Clermont
+Sat Aug 9 2003,Creteil,1-1,0-0,Gueugnon
+Sat Aug 9 2003,Nancy,0-1,0-0,St Etienne
+Sat Aug 9 2003,Rouen,1-1,0-0,Laval
+Sat Aug 9 2003,Sedan,1-1,1-1,Niort
+Sat Aug 9 2003,Troyes,3-2,1-1,Grenoble
+Sat Aug 9 2003,Valence,3-0,2-0,Chateauroux
+Sun Aug 10 2003,Lorient,2-0,0-0,Le Havre
+Fri Aug 15 2003,St Etienne,2-1,1-1,Lorient
+Sat Aug 16 2003,Angers,0-0,0-0,Sedan
+Sat Aug 16 2003,Chateauroux,0-0,0-0,Nancy
+Sat Aug 16 2003,Clermont,0-0,0-0,Troyes
+Sat Aug 16 2003,Grenoble,0-0,0-0,Rouen
+Sat Aug 16 2003,Gueugnon,0-1,0-0,Amiens
+Sat Aug 16 2003,Istres,3-1,1-0,Caen
+Sat Aug 16 2003,Laval,1-3,0-3,Besancon
+Sat Aug 16 2003,Le Havre,1-1,1-1,Creteil
+Sat Aug 16 2003,Niort,1-0,0-0,Valence
+Tue Aug 19 2003,Amiens,0-0,0-0,Istres
+Tue Aug 19 2003,Besancon,1-1,1-0,Gueugnon
+Tue Aug 19 2003,Caen,0-0,0-0,Grenoble
+Tue Aug 19 2003,Clermont,0-1,0-0,Niort
+Tue Aug 19 2003,Creteil,1-0,0-0,St Etienne
+Tue Aug 19 2003,Lorient,2-0,0-0,Nancy
+Tue Aug 19 2003,Rouen,3-1,2-0,Angers
+Tue Aug 19 2003,Sedan,2-0,1-0,Chateauroux
+Tue Aug 19 2003,Troyes,0-0,0-0,Laval
+Tue Aug 19 2003,Valence,1-2,0-1,Le Havre
+Fri Aug 22 2003,Le Havre,3-0,1-0,Sedan
+Sat Aug 23 2003,Angers,2-1,1-0,Besancon
+Sat Aug 23 2003,Chateauroux,2-2,2-1,Lorient
+Sat Aug 23 2003,Grenoble,0-0,0-0,Clermont
+Sat Aug 23 2003,Gueugnon,2-0,1-0,Valence
+Sat Aug 23 2003,Istres,0-0,0-0,Rouen
+Sat Aug 23 2003,Laval,1-0,0-0,Caen
+Sat Aug 23 2003,Nancy,2-0,0-0,Creteil
+Sat Aug 23 2003,Niort,0-0,0-0,Amiens
+Sat Aug 23 2003,St Etienne,2-3,2-0,Troyes
+Fri Aug 29 2003,Besancon,3-1,2-1,Chateauroux
+Sat Aug 30 2003,Amiens,2-0,1-0,Le Havre
+Sat Aug 30 2003,Caen,1-0,1-0,Angers
+Sat Aug 30 2003,Clermont,2-1,0-1,Laval
+Sat Aug 30 2003,Creteil,1-0,1-0,Lorient
+Sat Aug 30 2003,Grenoble,2-2,1-0,Gueugnon
+Sat Aug 30 2003,Rouen,2-1,2-1,Niort
+Sat Aug 30 2003,Troyes,0-2,0-0,Istres
+Sat Aug 30 2003,Valence,0-0,0-0,Nancy
+Sun Aug 31 2003,Sedan,1-2,1-1,St Etienne
+Thu Sep 4 2003,Laval,2-0,0-0,Grenoble
+Fri Sep 5 2003,Angers,2-0,0-0,Troyes
+Fri Sep 5 2003,Chateauroux,1-3,1-1,Creteil
+Fri Sep 5 2003,Gueugnon,2-1,1-0,Rouen
+Fri Sep 5 2003,Istres,2-0,0-0,Clermont
+Fri Sep 5 2003,Le Havre,2-0,1-0,Besancon
+Fri Sep 5 2003,Lorient,3-1,1-1,Amiens
+Fri Sep 5 2003,Nancy,2-0,1-0,Sedan
+Fri Sep 5 2003,Niort,0-3,0-1,Caen
+Fri Sep 5 2003,St Etienne,1-0,0-0,Valence
+Fri Sep 12 2003,Troyes,1-0,0-0,Niort
+Sat Sep 13 2003,Amiens,0-0,0-0,Chateauroux
+Sat Sep 13 2003,Besancon,0-1,0-0,St Etienne
+Sat Sep 13 2003,Caen,2-1,0-1,Gueugnon
+Sat Sep 13 2003,Clermont,4-1,1-1,Angers
+Sat Sep 13 2003,Grenoble,0-1,0-1,Istres
+Sat Sep 13 2003,Laval,1-1,1-0,Le Havre
+Sat Sep 13 2003,Rouen,1-1,0-1,Nancy
+Sat Sep 13 2003,Sedan,2-1,0-1,Lorient
+Sat Sep 13 2003,Valence,2-2,2-1,Creteil
+Sat Sep 20 2003,Angers,1-1,0-1,Grenoble
+Sat Sep 20 2003,Chateauroux,1-1,1-1,Caen
+Sat Sep 20 2003,Creteil,0-1,0-0,Sedan
+Sat Sep 20 2003,Gueugnon,1-1,0-0,Troyes
+Sat Sep 20 2003,Istres,2-1,1-1,Laval
+Sat Sep 20 2003,Le Havre,2-0,0-0,Rouen
+Sat Sep 20 2003,Lorient,3-1,1-0,Valence
+Sat Sep 20 2003,Nancy,3-4,1-3,Clermont
+Sat Sep 20 2003,Niort,3-0,1-0,Besancon
+Sun Sep 21 2003,St Etienne,0-2,0-0,Amiens
+Sat Sep 27 2003,Amiens,1-0,1-0,Creteil
+Sat Sep 27 2003,Besancon,1-3,0-2,Nancy
+Sat Sep 27 2003,Caen,1-0,0-0,St Etienne
+Sat Sep 27 2003,Clermont,1-0,0-0,Gueugnon
+Sat Sep 27 2003,Grenoble,0-1,0-0,Niort
+Sat Sep 27 2003,Laval,3-3,2-0,Angers
+Sat Sep 27 2003,Rouen,1-4,1-2,Chateauroux
+Sat Sep 27 2003,Sedan,0-0,0-0,Valence
+Sat Sep 27 2003,Troyes,2-0,2-0,Le Havre
+Sun Sep 28 2003,Istres,1-0,0-0,Lorient
+Fri Oct 3 2003,St Etienne,2-0,1-0,Rouen
+Sat Oct 4 2003,Angers,1-0,1-0,Istres
+Sat Oct 4 2003,Chateauroux,0-0,0-0,Grenoble
+Sat Oct 4 2003,Creteil,5-1,3-1,Clermont
+Sat Oct 4 2003,Gueugnon,0-0,0-0,Sedan
+Sat Oct 4 2003,Le Havre,1-1,0-0,Caen
+Sat Oct 4 2003,Nancy,3-0,1-0,Troyes
+Sat Oct 4 2003,Niort,4-0,1-0,Laval
+Sat Oct 4 2003,Valence,2-1,1-1,Amiens
+Mon Oct 6 2003,Lorient,2-0,0-0,Besancon
+Sat Oct 18 2003,Angers,0-0,0-0,Niort
+Sat Oct 18 2003,Besancon,1-1,1-0,Valence
+Sat Oct 18 2003,Caen,2-0,0-0,Lorient
+Sat Oct 18 2003,Grenoble,2-0,2-0,Le Havre
+Sat Oct 18 2003,Istres,2-0,0-0,Nancy
+Sat Oct 18 2003,Laval,1-2,0-2,Gueugnon
+Sat Oct 18 2003,Rouen,1-1,0-1,Creteil
+Sat Oct 18 2003,Troyes,4-0,1-0,Chateauroux
+Sun Oct 19 2003,Clermont,0-3,0-1,St Etienne
+Mon Oct 20 2003,Amiens,1-1,0-1,Sedan
+Sat Oct 25 2003,Chateauroux,2-1,1-0,Laval
+Sat Oct 25 2003,Creteil,0-0,0-0,Caen
+Sat Oct 25 2003,Gueugnon,1-1,0-0,Angers
+Sat Oct 25 2003,Le Havre,1-1,0-0,Clermont
+Sat Oct 25 2003,Lorient,4-1,2-1,Rouen
+Sat Oct 25 2003,Nancy,0-0,0-0,Amiens
+Sat Oct 25 2003,Sedan,2-0,1-0,Besancon
+Sat Oct 25 2003,St Etienne,1-0,1-0,Grenoble
+Sat Oct 25 2003,Valence,2-1,0-1,Troyes
+Sun Oct 26 2003,Niort,2-1,2-1,Istres
+Fri Oct 31 2003,Clermont,0-4,0-1,Lorient
+Sat Nov 1 2003,Angers,2-0,2-0,Chateauroux
+Sat Nov 1 2003,Besancon,0-2,0-1,Amiens
+Sat Nov 1 2003,Caen,4-1,1-0,Valence
+Sat Nov 1 2003,Grenoble,2-3,1-2,Nancy
+Sat Nov 1 2003,Istres,2-1,1-1,Gueugnon
+Sat Nov 1 2003,Laval,2-0,0-0,St Etienne
+Sat Nov 1 2003,Rouen,0-1,0-1,Sedan
+Sat Nov 1 2003,Troyes,0-0,0-0,Creteil
+Mon Nov 3 2003,Niort,0-0,0-0,Le Havre
+Fri Nov 7 2003,St Etienne,0-0,0-0,Istres
+Sat Nov 8 2003,Amiens,1-1,1-0,Troyes
+Sat Nov 8 2003,Chateauroux,2-2,1-0,Clermont
+Sat Nov 8 2003,Creteil,1-1,0-1,Besancon
+Sat Nov 8 2003,Gueugnon,1-2,0-2,Niort
+Sat Nov 8 2003,Le Havre,1-0,0-0,Angers
+Sat Nov 8 2003,Lorient,2-1,2-1,Grenoble
+Sat Nov 8 2003,Nancy,1-1,0-1,Laval
+Sat Nov 8 2003,Sedan,0-0,0-0,Caen
+Sat Nov 8 2003,Valence,2-1,1-1,Rouen
+Fri Nov 28 2003,Laval,2-2,0-2,Lorient
+Fri Nov 28 2003,Troyes,0-0,0-0,Sedan
+Sat Nov 29 2003,Angers,1-1,0-0,St Etienne
+Sat Nov 29 2003,Clermont,1-1,0-1,Valence
+Sat Nov 29 2003,Grenoble,1-1,0-0,Creteil
+Sat Nov 29 2003,Gueugnon,0-0,0-0,Nancy
+Sat Nov 29 2003,Istres,2-0,1-0,Le Havre
+Sat Nov 29 2003,Niort,0-0,0-0,Chateauroux
+Sat Nov 29 2003,Rouen,1-1,0-0,Besancon
+Sun Nov 30 2003,Caen,2-1,1-1,Amiens
+Wed Dec 3 2003,Amiens,2-1,2-0,Rouen
+Wed Dec 3 2003,Besancon,0-1,0-0,Caen
+Wed Dec 3 2003,Chateauroux,1-0,0-0,Istres
+Wed Dec 3 2003,Creteil,3-0,1-0,Laval
+Wed Dec 3 2003,Le Havre,5-0,4-0,Gueugnon
+Wed Dec 3 2003,Nancy,2-1,0-1,Angers
+Wed Dec 3 2003,Sedan,1-1,0-0,Clermont
+Thu Dec 4 2003,Lorient,1-0,0-0,Troyes
+Sat Dec 6 2003,Clermont,0-2,0-1,Amiens
+Sat Dec 6 2003,Grenoble,0-0,0-0,Sedan
+Sat Dec 6 2003,Gueugnon,0-1,0-0,St Etienne
+Sat Dec 6 2003,Laval,2-2,1-1,Valence
+Sat Dec 6 2003,Niort,2-2,0-1,Nancy
+Sun Dec 7 2003,Angers,1-1,0-0,Lorient
+Sun Dec 7 2003,Caen,1-1,0-0,Rouen
+Sun Dec 7 2003,Istres,2-0,0-0,Creteil
+Sun Dec 7 2003,Troyes,1-1,1-0,Besancon
+Mon Dec 8 2003,Le Havre,3-2,1-2,Chateauroux
+Wed Dec 10 2003,St Etienne,2-1,0-0,Niort
+Wed Dec 17 2003,Valence,1-2,1-1,Grenoble
+Sat Dec 20 2003,Amiens,0-1,0-1,Grenoble
+Sat Dec 20 2003,Besancon,1-1,0-0,Clermont
+Sat Dec 20 2003,Chateauroux,3-2,0-1,Gueugnon
+Sat Dec 20 2003,Creteil,1-1,0-1,Angers
+Sat Dec 20 2003,Lorient,4-2,2-1,Niort
+Sat Dec 20 2003,Nancy,0-2,0-1,Caen
+Sat Dec 20 2003,Rouen,0-1,0-0,Troyes
+Sat Dec 20 2003,Sedan,1-0,0-0,Laval
+Sat Dec 20 2003,Valence,0-0,0-0,Istres
+Sun Dec 21 2003,St Etienne,2-0,2-0,Le Havre
+Sat Jan 10 2004,Chateauroux,3-0,1-0,Valence
+Sat Jan 10 2004,Clermont,2-2,1-1,Caen
+Sat Jan 10 2004,Grenoble,1-2,0-1,Troyes
+Sat Jan 10 2004,Gueugnon,1-1,1-0,Creteil
+Sat Jan 10 2004,Istres,0-1,0-1,Besancon
+Sat Jan 10 2004,Laval,0-0,0-0,Rouen
+Sat Jan 10 2004,Niort,1-1,0-0,Sedan
+Sat Jan 10 2004,St Etienne,0-0,0-0,Nancy
+Sun Jan 11 2004,Le Havre,1-0,0-0,Lorient
+Mon Jan 12 2004,Angers,1-2,1-1,Amiens
+Sat Jan 17 2004,Amiens,1-0,0-0,Gueugnon
+Sat Jan 17 2004,Besancon,2-2,1-1,Laval
+Sat Jan 17 2004,Caen,2-1,1-0,Istres
+Sat Jan 17 2004,Creteil,2-3,2-2,Le Havre
+Sat Jan 17 2004,Nancy,2-0,1-0,Chateauroux
+Sat Jan 17 2004,Rouen,0-2,0-0,Grenoble
+Sat Jan 17 2004,Sedan,1-0,0-0,Angers
+Sat Jan 17 2004,Troyes,2-0,0-0,Clermont
+Sat Jan 17 2004,Valence,1-1,1-0,Niort
+Sun Jan 18 2004,Lorient,2-0,1-0,St Etienne
+Sat Jan 31 2004,Angers,0-1,0-0,Rouen
+Sat Jan 31 2004,Chateauroux,2-0,1-0,Sedan
+Sat Jan 31 2004,Grenoble,2-1,1-1,Caen
+Sat Jan 31 2004,Gueugnon,1-0,0-0,Besancon
+Sat Jan 31 2004,Laval,4-0,2-0,Troyes
+Sat Jan 31 2004,Le Havre,1-0,1-0,Valence
+Sat Jan 31 2004,Niort,3-1,2-0,Clermont
+Sat Jan 31 2004,St Etienne,3-2,2-1,Creteil
+Sun Feb 1 2004,Istres,1-0,1-0,Amiens
+Mon Feb 2 2004,Nancy,1-1,0-0,Lorient
+Sat Feb 7 2004,Amiens,2-3,1-3,Niort
+Sat Feb 7 2004,Besancon,2-0,2-0,Angers
+Sat Feb 7 2004,Caen,1-2,1-2,Laval
+Sat Feb 7 2004,Clermont,2-0,1-0,Grenoble
+Sat Feb 7 2004,Creteil,1-0,1-0,Nancy
+Sat Feb 7 2004,Lorient,0-1,0-1,Chateauroux
+Sat Feb 7 2004,Rouen,1-3,0-2,Istres
+Sat Feb 7 2004,Sedan,2-0,0-0,Le Havre
+Sat Feb 7 2004,Valence,3-1,2-0,Gueugnon
+Sun Feb 8 2004,Troyes,0-1,0-1,St Etienne
+Sat Feb 14 2004,Angers,0-1,0-0,Caen
+Sat Feb 14 2004,Chateauroux,0-0,0-0,Besancon
+Sat Feb 14 2004,Gueugnon,0-2,0-1,Grenoble
+Sat Feb 14 2004,Istres,0-0,0-0,Troyes
+Sat Feb 14 2004,Laval,2-3,0-2,Clermont
+Sat Feb 14 2004,Lorient,0-3,0-2,Creteil
+Sat Feb 14 2004,Nancy,1-1,0-0,Valence
+Sat Feb 14 2004,Niort,2-1,1-0,Rouen
+Sat Feb 14 2004,St Etienne,0-2,0-2,Sedan
+Sun Feb 15 2004,Le Havre,0-1,0-1,Amiens
+Sat Feb 21 2004,Besancon,1-1,0-1,Le Havre
+Sat Feb 21 2004,Clermont,1-1,0-1,Istres
+Sat Feb 21 2004,Creteil,1-0,0-0,Chateauroux
+Sat Feb 21 2004,Grenoble,1-1,0-1,Laval
+Sat Feb 21 2004,Rouen,0-0,0-0,Gueugnon
+Sat Feb 21 2004,Sedan,0-4,0-1,Nancy
+Sat Feb 21 2004,Troyes,2-2,1-2,Angers
+Sat Feb 21 2004,Valence,1-3,1-2,St Etienne
+Sun Feb 22 2004,Amiens,1-0,0-0,Lorient
+Mon Feb 23 2004,Caen,2-2,1-0,Niort
+Fri Feb 27 2004,Chateauroux,4-1,1-1,Amiens
+Sat Feb 28 2004,Angers,0-0,0-0,Clermont
+Sat Feb 28 2004,Creteil,2-1,1-0,Valence
+Sat Feb 28 2004,Gueugnon,0-0,0-0,Caen
+Sat Feb 28 2004,Istres,2-0,1-0,Grenoble
+Sat Feb 28 2004,Le Havre,3-2,1-2,Laval
+Sat Feb 28 2004,Lorient,1-1,0-1,Sedan
+Sat Feb 28 2004,Nancy,2-1,0-0,Rouen
+Fri Mar 5 2004,Amiens,1-2,0-1,St Etienne
+Sat Mar 6 2004,Besancon,4-0,2-0,Niort
+Sat Mar 6 2004,Caen,1-0,0-0,Chateauroux
+Sat Mar 6 2004,Clermont,0-1,0-1,Nancy
+Sat Mar 6 2004,Grenoble,0-0,0-0,Angers
+Sat Mar 6 2004,Rouen,4-0,2-0,Le Havre
+Sat Mar 6 2004,Sedan,4-0,1-0,Creteil
+Sat Mar 6 2004,Troyes,2-1,1-0,Gueugnon
+Sat Mar 6 2004,Valence,1-2,0-1,Lorient
+Mon Mar 8 2004,Laval,0-0,0-0,Istres
+Sat Mar 13 2004,Angers,3-2,1-1,Laval
+Sat Mar 13 2004,Chateauroux,2-0,2-0,Rouen
+Sat Mar 13 2004,Creteil,1-1,1-0,Amiens
+Sat Mar 13 2004,Gueugnon,0-0,0-0,Clermont
+Sat Mar 13 2004,Le Havre,3-0,1-0,Troyes
+Sat Mar 13 2004,Lorient,2-1,0-0,Istres
+Sat Mar 13 2004,Nancy,3-0,1-0,Besancon
+Sat Mar 13 2004,Niort,1-1,0-0,Grenoble
+Sat Mar 13 2004,Valence,2-2,2-1,Sedan
+Sun Mar 14 2004,St Etienne,1-0,1-0,Caen
+Sat Mar 20 2004,Amiens,2-2,2-2,Valence
+Sat Mar 20 2004,Besancon,1-1,0-0,Lorient
+Sat Mar 20 2004,Clermont,2-0,0-0,Creteil
+Sat Mar 20 2004,Grenoble,4-1,3-1,Chateauroux
+Sat Mar 20 2004,Istres,1-0,0-0,Angers
+Sat Mar 20 2004,Laval,0-1,0-1,Niort
+Sat Mar 20 2004,Rouen,0-1,0-0,St Etienne
+Sat Mar 20 2004,Sedan,1-1,1-1,Gueugnon
+Sat Mar 20 2004,Troyes,1-1,1-1,Nancy
+Sun Mar 21 2004,Caen,3-1,1-1,Le Havre
+Sat Mar 27 2004,Chateauroux,1-1,0-0,Troyes
+Sat Mar 27 2004,Creteil,0-0,0-0,Rouen
+Sat Mar 27 2004,Gueugnon,1-1,1-0,Laval
+Sat Mar 27 2004,Le Havre,1-0,0-0,Grenoble
+Sat Mar 27 2004,Lorient,2-3,1-2,Caen
+Sat Mar 27 2004,Niort,0-1,0-1,Angers
+Sat Mar 27 2004,Sedan,3-1,0-1,Amiens
+Sat Mar 27 2004,St Etienne,0-0,0-0,Clermont
+Sat Mar 27 2004,Valence,3-1,1-1,Besancon
+Sun Mar 28 2004,Nancy,2-1,1-1,Istres
+Fri Apr 2 2004,Grenoble,2-2,0-1,St Etienne
+Sat Apr 3 2004,Amiens,2-1,1-1,Nancy
+Sat Apr 3 2004,Angers,2-1,2-1,Gueugnon
+Sat Apr 3 2004,Besancon,1-1,0-0,Sedan
+Sat Apr 3 2004,Caen,1-2,0-0,Creteil
+Sat Apr 3 2004,Clermont,1-1,0-0,Le Havre
+Sat Apr 3 2004,Laval,2-0,1-0,Chateauroux
+Sat Apr 3 2004,Rouen,0-1,0-0,Lorient
+Sat Apr 3 2004,Troyes,0-1,0-0,Valence
+Mon Apr 5 2004,Istres,2-2,1-0,Niort
+Sat Apr 10 2004,Amiens,1-0,1-0,Besancon
+Sat Apr 10 2004,Chateauroux,4-1,2-0,Angers
+Sat Apr 10 2004,Creteil,1-2,1-2,Troyes
+Sat Apr 10 2004,Gueugnon,1-0,1-0,Istres
+Sat Apr 10 2004,Le Havre,1-1,1-0,Niort
+Sat Apr 10 2004,Lorient,1-1,1-0,Clermont
+Sat Apr 10 2004,Nancy,0-0,0-0,Grenoble
+Sat Apr 10 2004,Sedan,0-0,0-0,Rouen
+Sat Apr 10 2004,Valence,0-2,0-0,Caen
+Sun Apr 11 2004,St Etienne,2-0,2-0,Laval
+Fri Apr 16 2004,Niort,2-1,2-0,Troyes
+Fri Apr 16 2004,St Etienne,2-1,1-1,Besancon
+Fri Apr 23 2004,Clermont,0-1,0-0,Chateauroux
+Fri Apr 23 2004,Istres,0-2,0-1,St Etienne
+Sat Apr 24 2004,Angers,3-1,0-1,Le Havre
+Sat Apr 24 2004,Besancon,0-0,0-0,Creteil
+Sat Apr 24 2004,Caen,1-0,0-0,Sedan
+Sat Apr 24 2004,Grenoble,1-1,0-1,Lorient
+Sat Apr 24 2004,Laval,2-0,0-0,Nancy
+Sat Apr 24 2004,Niort,1-3,0-1,Gueugnon
+Sat Apr 24 2004,Rouen,1-1,1-0,Valence
+Sat Apr 24 2004,Troyes,3-2,2-1,Amiens
+Sat May 1 2004,Besancon,3-0,2-0,Rouen
+Sat May 1 2004,Chateauroux,0-0,0-0,Niort
+Sat May 1 2004,Creteil,1-1,0-0,Grenoble
+Sat May 1 2004,Le Havre,0-0,0-0,Istres
+Sat May 1 2004,Lorient,1-0,1-0,Laval
+Sat May 1 2004,Nancy,0-2,0-0,Gueugnon
+Sat May 1 2004,Sedan,3-0,2-0,Troyes
+Sat May 1 2004,St Etienne,0-0,0-0,Angers
+Sat May 1 2004,Valence,1-1,0-0,Clermont
+Sun May 2 2004,Amiens,0-3,0-1,Caen
+Fri May 7 2004,Niort,0-1,0-0,St Etienne
+Sat May 8 2004,Angers,2-0,1-0,Nancy
+Sat May 8 2004,Caen,1-1,1-1,Besancon
+Sat May 8 2004,Clermont,0-1,0-1,Sedan
+Sat May 8 2004,Grenoble,4-3,1-2,Valence
+Sat May 8 2004,Gueugnon,1-2,0-2,Le Havre
+Sat May 8 2004,Istres,2-1,0-0,Chateauroux
+Sat May 8 2004,Laval,3-1,1-1,Creteil
+Sat May 8 2004,Rouen,2-1,1-1,Amiens
+Mon May 10 2004,Troyes,3-3,1-1,Lorient
+Wed May 12 2004,Amiens,1-2,1-1,Clermont
+Wed May 12 2004,Chateauroux,2-1,1-0,Le Havre
+Wed May 12 2004,Creteil,0-2,0-0,Istres
+Wed May 12 2004,Nancy,1-0,0-0,Niort
+Wed May 12 2004,Rouen,1-2,0-1,Caen
+Wed May 12 2004,Sedan,4-1,1-1,Grenoble
+Wed May 12 2004,Valence,2-1,1-0,Laval
+Thu May 13 2004,Besancon,0-1,0-0,Troyes
+Thu May 13 2004,Lorient,2-0,0-0,Angers
+Thu May 13 2004,St Etienne,1-1,1-0,Gueugnon
+Sun May 16 2004,Angers,2-0,0-0,Creteil
+Sun May 16 2004,Caen,2-0,0-0,Nancy
+Sun May 16 2004,Clermont,0-2,0-1,Besancon
+Sun May 16 2004,Grenoble,1-0,0-0,Amiens
+Sun May 16 2004,Gueugnon,2-0,0-0,Chateauroux
+Sun May 16 2004,Istres,3-1,2-1,Valence
+Sun May 16 2004,Laval,2-0,1-0,Sedan
+Sun May 16 2004,Le Havre,1-0,0-0,St Etienne
+Sun May 16 2004,Niort,1-2,0-1,Lorient
+Sun May 16 2004,Troyes,3-0,2-0,Rouen
+Sat May 22 2004,Amiens,3-4,1-2,Laval
+Sat May 22 2004,Besancon,3-1,1-0,Grenoble
+Sat May 22 2004,Caen,3-0,1-0,Troyes
+Sat May 22 2004,Creteil,2-2,1-0,Niort
+Sat May 22 2004,Lorient,0-5,0-2,Gueugnon
+Sat May 22 2004,Nancy,4-1,3-1,Le Havre
+Sat May 22 2004,Rouen,0-0,0-0,Clermont
+Sat May 22 2004,Sedan,3-1,1-1,Istres
+Sat May 22 2004,St Etienne,2-1,1-0,Chateauroux
+Sat May 22 2004,Valence,0-1,0-0,Angers

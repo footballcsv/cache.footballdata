@@ -1,0 +1,281 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 26 2019,Ajaccio,2-2,1-0,Le Havre
+Fri Jul 26 2019,Chambly,1-0,0-0,Valenciennes
+Fri Jul 26 2019,Clermont,3-0,1-0,Chateauroux
+Fri Jul 26 2019,Guingamp,3-3,2-0,Grenoble
+Fri Jul 26 2019,Nancy,0-0,0-0,Orleans
+Fri Jul 26 2019,Niort,0-2,0-1,Troyes
+Fri Jul 26 2019,Rodez,2-0,2-0,Auxerre
+Fri Jul 26 2019,Sochaux,0-0,0-0,Caen
+Sat Jul 27 2019,Le Mans,1-2,1-0,Lens
+Mon Jul 29 2019,Lorient,3-0,1-0,Paris FC
+Fri Aug 2 2019,Auxerre,2-0,0-0,Le Mans
+Fri Aug 2 2019,Chateauroux,0-0,0-0,Rodez
+Fri Aug 2 2019,Grenoble,0-1,0-0,Ajaccio
+Fri Aug 2 2019,Le Havre,1-1,0-1,Niort
+Fri Aug 2 2019,Orleans,0-1,0-1,Chambly
+Fri Aug 2 2019,Paris FC,1-1,1-0,Sochaux
+Fri Aug 2 2019,Troyes,1-2,1-0,Clermont
+Fri Aug 2 2019,Valenciennes,1-1,1-0,Nancy
+Sat Aug 3 2019,Lens,2-0,0-0,Guingamp
+Mon Aug 5 2019,Caen,1-2,0-2,Lorient
+Fri Aug 9 2019,Ajaccio,1-2,0-2,Caen
+Fri Aug 9 2019,Chambly,0-0,0-0,Grenoble
+Fri Aug 9 2019,Guingamp,1-0,1-0,Orleans
+Fri Aug 9 2019,Le Mans,1-2,0-0,Valenciennes
+Fri Aug 9 2019,Nancy,1-1,0-0,Lorient
+Fri Aug 9 2019,Niort,3-0,1-0,Chateauroux
+Fri Aug 9 2019,Rodez,2-1,1-1,Paris FC
+Fri Aug 9 2019,Sochaux,1-0,0-0,Auxerre
+Fri Aug 9 2019,Troyes,1-2,0-1,Le Havre
+Sat Aug 10 2019,Clermont,1-1,0-0,Lens
+Fri Aug 16 2019,Caen,0-0,0-0,Chambly
+Fri Aug 16 2019,Chateauroux,0-1,0-1,Ajaccio
+Fri Aug 16 2019,Grenoble,1-1,0-0,Troyes
+Fri Aug 16 2019,Lorient,1-0,0-0,Sochaux
+Fri Aug 16 2019,Nancy,2-1,1-0,Le Mans
+Fri Aug 16 2019,Orleans,0-1,0-1,Clermont
+Fri Aug 16 2019,Paris FC,0-1,0-0,Niort
+Fri Aug 16 2019,Valenciennes,1-0,0-0,Rodez
+Sat Aug 17 2019,Lens,1-3,0-0,Le Havre
+Mon Aug 19 2019,Auxerre,2-2,0-2,Guingamp
+Fri Aug 23 2019,Ajaccio,1-0,0-0,Paris FC
+Fri Aug 23 2019,Chambly,0-0,0-0,Chateauroux
+Fri Aug 23 2019,Clermont,1-1,1-0,Auxerre
+Fri Aug 23 2019,Le Havre,3-1,2-1,Grenoble
+Fri Aug 23 2019,Le Mans,1-2,0-2,Lorient
+Fri Aug 23 2019,Niort,1-1,0-1,Caen
+Fri Aug 23 2019,Rodez,3-3,1-1,Orleans
+Fri Aug 23 2019,Sochaux,3-0,1-0,Nancy
+Sat Aug 24 2019,Troyes,2-0,1-0,Lens
+Mon Aug 26 2019,Guingamp,0-1,0-1,Valenciennes
+Fri Aug 30 2019,Auxerre,3-1,0-0,Ajaccio
+Fri Aug 30 2019,Caen,0-3,0-1,Le Havre
+Fri Aug 30 2019,Chateauroux,0-1,0-1,Troyes
+Fri Aug 30 2019,Le Mans,2-0,1-0,Sochaux
+Fri Aug 30 2019,Nancy,1-1,0-1,Rodez
+Fri Aug 30 2019,Orleans,0-1,0-0,Niort
+Fri Aug 30 2019,Valenciennes,1-0,0-0,Clermont
+Sat Aug 31 2019,Lorient,0-1,0-0,Guingamp
+Mon Sep 2 2019,Paris FC,0-3,0-2,Chambly
+Mon Sep 2 2019,Grenoble,2-2,1-1,Lens
+Fri Sep 13 2019,Ajaccio,0-0,0-0,Orleans
+Fri Sep 13 2019,Chambly,1-4,0-0,Auxerre
+Fri Sep 13 2019,Guingamp,1-1,1-1,Nancy
+Fri Sep 13 2019,Le Havre,0-0,0-0,Paris FC
+Fri Sep 13 2019,Niort,0-1,0-0,Grenoble
+Fri Sep 13 2019,Rodez,4-1,2-0,Le Mans
+Fri Sep 13 2019,Sochaux,0-0,0-0,Valenciennes
+Fri Sep 13 2019,Troyes,2-1,1-0,Caen
+Sat Sep 14 2019,Clermont,0-2,0-2,Lorient
+Mon Sep 16 2019,Lens,1-0,0-0,Chateauroux
+Fri Sep 20 2019,Auxerre,1-2,1-1,Troyes
+Fri Sep 20 2019,Chateauroux,1-1,1-0,Grenoble
+Fri Sep 20 2019,Le Mans,2-4,0-0,Ajaccio
+Fri Sep 20 2019,Nancy,3-0,1-0,Chambly
+Fri Sep 20 2019,Orleans,2-2,1-1,Le Havre
+Fri Sep 20 2019,Paris FC,0-2,0-2,Clermont
+Fri Sep 20 2019,Sochaux,3-1,2-1,Guingamp
+Fri Sep 20 2019,Valenciennes,1-1,1-1,Niort
+Sat Sep 21 2019,Caen,0-2,0-1,Lens
+Mon Sep 23 2019,Lorient,2-1,0-0,Rodez
+Fri Sep 27 2019,Ajaccio,2-0,2-0,Valenciennes
+Fri Sep 27 2019,Chambly,0-1,0-0,Lorient
+Fri Sep 27 2019,Clermont,2-2,2-2,Nancy
+Fri Sep 27 2019,Grenoble,1-0,1-0,Caen
+Fri Sep 27 2019,Le Havre,0-1,0-0,Chateauroux
+Fri Sep 27 2019,Niort,2-2,1-0,Auxerre
+Fri Sep 27 2019,Rodez,0-2,0-1,Sochaux
+Fri Sep 27 2019,Troyes,1-2,1-1,Orleans
+Sat Sep 28 2019,Lens,2-1,2-0,Paris FC
+Mon Sep 30 2019,Guingamp,3-0,1-0,Le Mans
+Fri Oct 4 2019,Caen,1-1,0-0,Chateauroux
+Fri Oct 4 2019,Guingamp,4-1,2-1,Rodez
+Fri Oct 4 2019,Le Mans,1-0,0-0,Chambly
+Fri Oct 4 2019,Lorient,0-0,0-0,Ajaccio
+Fri Oct 4 2019,Nancy,2-1,0-1,Niort
+Fri Oct 4 2019,Paris FC,1-0,1-0,Troyes
+Fri Oct 4 2019,Sochaux,4-0,1-0,Clermont
+Fri Oct 4 2019,Valenciennes,0-2,0-1,Grenoble
+Sat Oct 5 2019,Auxerre,2-0,2-0,Le Havre
+Mon Oct 7 2019,Orleans,1-4,1-0,Lens
+Fri Oct 18 2019,Ajaccio,0-0,0-0,Nancy
+Fri Oct 18 2019,Caen,0-0,0-0,Valenciennes
+Fri Oct 18 2019,Chambly,0-0,0-0,Sochaux
+Fri Oct 18 2019,Chateauroux,0-1,0-1,Paris FC
+Fri Oct 18 2019,Clermont,0-1,0-0,Rodez
+Fri Oct 18 2019,Grenoble,0-0,0-0,Orleans
+Fri Oct 18 2019,Niort,0-0,0-0,Guingamp
+Fri Oct 18 2019,Troyes,2-1,1-1,Le Mans
+Sat Oct 19 2019,Le Havre,2-2,1-2,Lorient
+Mon Oct 21 2019,Lens,0-0,0-0,Auxerre
+Fri Oct 25 2019,Auxerre,0-1,0-1,Grenoble
+Fri Oct 25 2019,Guingamp,1-2,0-2,Clermont
+Fri Oct 25 2019,Le Mans,1-0,0-0,Niort
+Fri Oct 25 2019,Nancy,0-0,0-0,Lens
+Fri Oct 25 2019,Orleans,1-1,1-0,Chateauroux
+Fri Oct 25 2019,Paris FC,2-4,0-1,Caen
+Fri Oct 25 2019,Rodez,2-0,1-0,Chambly
+Fri Oct 25 2019,Sochaux,0-2,0-1,Ajaccio
+Sat Oct 26 2019,Lorient,0-1,0-0,Troyes
+Mon Oct 28 2019,Valenciennes,0-0,0-0,Le Havre
+Fri Nov 1 2019,Ajaccio,1-0,0-0,Rodez
+Fri Nov 1 2019,Caen,2-1,1-0,Orleans
+Fri Nov 1 2019,Chambly,1-5,1-2,Guingamp
+Fri Nov 1 2019,Chateauroux,1-0,0-0,Auxerre
+Fri Nov 1 2019,Troyes,1-0,0-0,Valenciennes
+Sat Nov 2 2019,Clermont,0-1,0-1,Le Mans
+Sat Nov 2 2019,Grenoble,0-0,0-0,Paris FC
+Sat Nov 2 2019,Lens,1-0,0-0,Lorient
+Sat Nov 2 2019,Niort,0-2,0-0,Sochaux
+Mon Nov 4 2019,Le Havre,1-1,1-0,Nancy
+Fri Nov 8 2019,Auxerre,1-1,0-0,Caen
+Fri Nov 8 2019,Chambly,0-1,0-0,Clermont
+Fri Nov 8 2019,Le Mans,0-0,0-0,Grenoble
+Fri Nov 8 2019,Lorient,4-1,4-1,Niort
+Fri Nov 8 2019,Nancy,0-0,0-0,Troyes
+Fri Nov 8 2019,Orleans,0-1,0-1,Paris FC
+Fri Nov 8 2019,Sochaux,2-0,1-0,Le Havre
+Fri Nov 8 2019,Valenciennes,0-1,0-0,Chateauroux
+Sat Nov 9 2019,Guingamp,1-1,0-1,Ajaccio
+Mon Nov 11 2019,Rodez,1-2,1-1,Lens
+Fri Nov 22 2019,Ajaccio,1-1,1-0,Clermont
+Fri Nov 22 2019,Caen,3-3,2-1,Le Mans
+Fri Nov 22 2019,Chateauroux,1-3,1-0,Lorient
+Fri Nov 22 2019,Grenoble,1-1,0-0,Nancy
+Fri Nov 22 2019,Niort,2-1,0-0,Rodez
+Fri Nov 22 2019,Orleans,0-1,0-1,Valenciennes
+Fri Nov 22 2019,Paris FC,2-0,0-0,Auxerre
+Fri Nov 22 2019,Troyes,0-4,0-2,Chambly
+Sat Nov 23 2019,Lens,4-0,2-0,Sochaux
+Mon Nov 25 2019,Le Havre,4-0,0-0,Guingamp
+Fri Nov 29 2019,Auxerre,2-2,1-1,Orleans
+Fri Nov 29 2019,Chambly,0-2,0-1,Ajaccio
+Fri Nov 29 2019,Clermont,1-0,1-0,Niort
+Fri Nov 29 2019,Guingamp,1-1,1-0,Caen
+Fri Nov 29 2019,Le Mans,1-2,1-0,Chateauroux
+Fri Nov 29 2019,Lorient,2-1,2-0,Grenoble
+Fri Nov 29 2019,Nancy,2-0,1-0,Paris FC
+Fri Nov 29 2019,Rodez,1-2,1-0,Le Havre
+Fri Nov 29 2019,Valenciennes,2-0,1-0,Lens
+Sat Nov 30 2019,Sochaux,0-1,0-0,Troyes
+Mon Dec 2 2019,Caen,1-0,0-0,Nancy
+Tue Dec 3 2019,Auxerre,1-1,1-0,Valenciennes
+Tue Dec 3 2019,Chateauroux,1-1,0-1,Sochaux
+Tue Dec 3 2019,Grenoble,1-1,1-0,Clermont
+Tue Dec 3 2019,Le Havre,2-0,1-0,Le Mans
+Tue Dec 3 2019,Lens,3-0,1-0,Chambly
+Tue Dec 3 2019,Niort,0-1,0-1,Ajaccio
+Tue Dec 3 2019,Orleans,0-4,0-2,Lorient
+Tue Dec 3 2019,Paris FC,0-3,0-1,Guingamp
+Tue Dec 3 2019,Troyes,1-0,1-0,Rodez
+Fri Dec 13 2019,Chambly,3-2,2-2,Niort
+Fri Dec 13 2019,Clermont,2-1,1-1,Le Havre
+Fri Dec 13 2019,Le Mans,3-2,1-2,Orleans
+Fri Dec 13 2019,Lorient,1-0,0-0,Auxerre
+Fri Dec 13 2019,Nancy,2-1,0-1,Chateauroux
+Fri Dec 13 2019,Rodez,2-1,0-0,Caen
+Fri Dec 13 2019,Sochaux,1-1,0-0,Grenoble
+Fri Dec 13 2019,Valenciennes,1-0,0-0,Paris FC
+Sat Dec 14 2019,Ajaccio,1-2,1-0,Lens
+Mon Dec 16 2019,Guingamp,0-1,0-0,Troyes
+Fri Dec 20 2019,Auxerre,0-0,0-0,Nancy
+Fri Dec 20 2019,Caen,0-0,0-0,Clermont
+Fri Dec 20 2019,Chateauroux,1-5,0-2,Guingamp
+Fri Dec 20 2019,Grenoble,2-1,1-0,Rodez
+Fri Dec 20 2019,Le Havre,1-1,1-1,Chambly
+Fri Dec 20 2019,Orleans,1-0,0-0,Sochaux
+Fri Dec 20 2019,Valenciennes,3-0,1-0,Lorient
+Sat Dec 21 2019,Lens,1-0,0-0,Niort
+Sat Dec 21 2019,Paris FC,0-3,0-0,Le Mans
+Sat Dec 21 2019,Troyes,2-1,1-0,Ajaccio
+Fri Jan 10 2020,Ajaccio,3-1,1-1,Grenoble
+Fri Jan 10 2020,Chambly,1-0,1-0,Orleans
+Fri Jan 10 2020,Clermont,3-2,2-1,Troyes
+Fri Jan 10 2020,Le Mans,0-1,0-1,Auxerre
+Fri Jan 10 2020,Nancy,1-0,1-0,Valenciennes
+Fri Jan 10 2020,Niort,0-1,0-1,Le Havre
+Fri Jan 10 2020,Rodez,1-2,0-1,Chateauroux
+Fri Jan 10 2020,Sochaux,1-1,0-1,Paris FC
+Mon Jan 13 2020,Lorient,2-1,1-1,Caen
+Sat Jan 18 2020,Guingamp,1-1,0-0,Lens
+Fri Jan 24 2020,Auxerre,2-1,1-1,Sochaux
+Fri Jan 24 2020,Caen,0-1,0-0,Ajaccio
+Fri Jan 24 2020,Chateauroux,1-1,1-1,Niort
+Fri Jan 24 2020,Grenoble,0-0,0-0,Chambly
+Fri Jan 24 2020,Lorient,2-1,1-0,Nancy
+Fri Jan 24 2020,Orleans,2-0,2-0,Guingamp
+Fri Jan 24 2020,Paris FC,0-0,0-0,Rodez
+Fri Jan 24 2020,Valenciennes,1-0,1-0,Le Mans
+Sat Jan 25 2020,Lens,1-1,0-0,Clermont
+Mon Jan 27 2020,Le Havre,1-0,1-0,Troyes
+Fri Jan 31 2020,Ajaccio,0-1,0-1,Chateauroux
+Fri Jan 31 2020,Chambly,0-1,0-0,Caen
+Fri Jan 31 2020,Clermont,3-1,0-0,Orleans
+Fri Jan 31 2020,Guingamp,1-0,0-0,Auxerre
+Fri Jan 31 2020,Le Havre,0-0,0-0,Lens
+Fri Jan 31 2020,Le Mans,1-1,0-0,Nancy
+Fri Jan 31 2020,Niort,4-4,3-2,Paris FC
+Fri Jan 31 2020,Rodez,1-1,1-0,Valenciennes
+Fri Jan 31 2020,Troyes,1-2,0-1,Grenoble
+Sat Feb 1 2020,Sochaux,0-4,0-2,Lorient
+Mon Feb 3 2020,Grenoble,1-1,0-0,Le Havre
+Tue Feb 4 2020,Auxerre,0-0,0-0,Clermont
+Tue Feb 4 2020,Caen,4-3,0-1,Niort
+Tue Feb 4 2020,Chateauroux,0-3,0-1,Chambly
+Tue Feb 4 2020,Lens,1-0,0-0,Troyes
+Tue Feb 4 2020,Lorient,4-2,1-1,Le Mans
+Tue Feb 4 2020,Nancy,1-1,1-0,Sochaux
+Tue Feb 4 2020,Orleans,1-2,0-0,Rodez
+Tue Feb 4 2020,Paris FC,2-3,2-2,Ajaccio
+Tue Feb 4 2020,Valenciennes,0-0,0-0,Guingamp
+Fri Feb 7 2020,Ajaccio,2-3,2-3,Auxerre
+Fri Feb 7 2020,Chambly,1-2,0-1,Paris FC
+Fri Feb 7 2020,Clermont,3-1,2-1,Valenciennes
+Fri Feb 7 2020,Le Havre,1-1,1-0,Caen
+Fri Feb 7 2020,Niort,2-0,0-0,Orleans
+Fri Feb 7 2020,Rodez,1-1,0-1,Nancy
+Fri Feb 7 2020,Sochaux,1-0,1-0,Le Mans
+Fri Feb 7 2020,Troyes,2-0,2-0,Chateauroux
+Sat Feb 8 2020,Guingamp,2-1,1-1,Lorient
+Mon Feb 10 2020,Lens,0-0,0-0,Grenoble
+Fri Feb 14 2020,Auxerre,0-0,0-0,Chambly
+Fri Feb 14 2020,Caen,0-1,0-0,Troyes
+Fri Feb 14 2020,Grenoble,3-1,1-0,Niort
+Fri Feb 14 2020,Le Mans,0-0,0-0,Rodez
+Fri Feb 14 2020,Orleans,0-3,0-1,Ajaccio
+Fri Feb 14 2020,Paris FC,1-0,1-0,Le Havre
+Fri Feb 14 2020,Valenciennes,3-2,0-2,Sochaux
+Sat Feb 15 2020,Lorient,0-1,0-0,Clermont
+Sat Feb 15 2020,Nancy,0-1,0-0,Guingamp
+Mon Feb 17 2020,Chateauroux,3-2,1-0,Lens
+Fri Feb 21 2020,Ajaccio,2-0,1-0,Le Mans
+Fri Feb 21 2020,Chambly,2-1,0-1,Nancy
+Fri Feb 21 2020,Clermont,0-1,0-0,Paris FC
+Fri Feb 21 2020,Grenoble,0-1,0-0,Chateauroux
+Fri Feb 21 2020,Guingamp,1-1,0-1,Sochaux
+Fri Feb 21 2020,Le Havre,1-2,1-1,Orleans
+Fri Feb 21 2020,Niort,1-0,0-0,Valenciennes
+Fri Feb 21 2020,Rodez,0-1,0-1,Lorient
+Sat Feb 22 2020,Lens,1-4,1-2,Caen
+Mon Feb 24 2020,Troyes,3-1,2-1,Auxerre
+Fri Feb 28 2020,Auxerre,3-1,1-0,Niort
+Fri Feb 28 2020,Caen,2-0,2-0,Grenoble
+Fri Feb 28 2020,Chateauroux,0-3,0-2,Le Havre
+Fri Feb 28 2020,Le Mans,2-1,1-0,Guingamp
+Fri Feb 28 2020,Nancy,1-2,0-0,Clermont
+Fri Feb 28 2020,Orleans,0-2,0-1,Troyes
+Fri Feb 28 2020,Sochaux,1-1,0-0,Rodez
+Fri Feb 28 2020,Valenciennes,0-0,0-0,Ajaccio
+Sat Feb 29 2020,Lorient,1-2,1-2,Chambly
+Mon Mar 2 2020,Paris FC,0-2,0-1,Lens
+Fri Mar 6 2020,Chambly,2-2,0-1,Le Mans
+Fri Mar 6 2020,Chateauroux,2-1,1-1,Caen
+Fri Mar 6 2020,Clermont,2-0,1-0,Sochaux
+Fri Mar 6 2020,Grenoble,1-3,0-2,Valenciennes
+Fri Mar 6 2020,Le Havre,1-0,0-0,Auxerre
+Fri Mar 6 2020,Niort,1-1,1-0,Nancy
+Fri Mar 6 2020,Rodez,2-1,1-0,Guingamp
+Fri Mar 6 2020,Troyes,1-1,1-1,Paris FC
+Sat Mar 7 2020,Ajaccio,1-0,0-0,Lorient
+Mon Mar 9 2020,Lens,1-0,0-0,Orleans

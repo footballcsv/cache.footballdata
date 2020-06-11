@@ -1,0 +1,233 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 2 2019,Zwolle,1-3,1-1,Willem II
+Sat Aug 3 2019,FC Emmen,0-1,0-0,Groningen
+Sat Aug 3 2019,Vitesse,2-2,1-1,Ajax
+Sat Aug 3 2019,Twente,1-1,1-0,PSV Eindhoven
+Sat Aug 3 2019,VVV Venlo,3-1,0-1,Waalwijk
+Sun Aug 4 2019,Heracles,0-4,0-3,Heerenveen
+Sun Aug 4 2019,Feyenoord,2-2,0-0,Sparta Rotterdam
+Sun Aug 4 2019,Den Haag,2-4,2-2,Utrecht
+Sun Aug 4 2019,AZ Alkmaar,4-0,0-0,For Sittard
+Fri Aug 9 2019,Sparta Rotterdam,4-1,0-1,VVV Venlo
+Sat Aug 10 2019,Groningen,1-3,0-0,Twente
+Sat Aug 10 2019,Ajax,5-0,1-0,FC Emmen
+Sat Aug 10 2019,Willem II,0-2,0-0,Vitesse
+Sun Aug 11 2019,For Sittard,1-1,0-0,Heracles
+Sun Aug 11 2019,Heerenveen,1-1,0-1,Feyenoord
+Sun Aug 11 2019,Waalwijk,0-2,0-2,AZ Alkmaar
+Sun Aug 11 2019,Utrecht,3-1,0-1,Zwolle
+Sun Aug 11 2019,PSV Eindhoven,3-1,1-1,Den Haag
+Fri Aug 16 2019,Vitesse,3-0,0-0,Zwolle
+Sat Aug 17 2019,Den Haag,1-2,0-2,Sparta Rotterdam
+Sat Aug 17 2019,VVV Venlo,1-4,0-1,Ajax
+Sat Aug 17 2019,FC Emmen,2-0,2-0,Heerenveen
+Sun Aug 18 2019,For Sittard,2-3,1-3,Willem II
+Sun Aug 18 2019,Twente,3-3,0-1,Waalwijk
+Sun Aug 18 2019,AZ Alkmaar,0-0,0-0,Groningen
+Sun Aug 18 2019,Feyenoord,1-1,0-1,Utrecht
+Sun Aug 18 2019,Heracles,0-2,0-1,PSV Eindhoven
+Sat Aug 24 2019,Willem II,2-1,1-0,FC Emmen
+Sat Aug 24 2019,Heracles,1-1,0-0,Vitesse
+Sat Aug 24 2019,Heerenveen,0-0,0-0,Twente
+Sun Aug 25 2019,Waalwijk,0-3,0-1,Den Haag
+Sun Aug 25 2019,Utrecht,1-2,0-2,VVV Venlo
+Sun Aug 25 2019,Zwolle,2-2,1-1,Sparta Rotterdam
+Fri Aug 30 2019,FC Emmen,1-3,1-3,Zwolle
+Sat Aug 31 2019,Heerenveen,1-1,1-1,For Sittard
+Sat Aug 31 2019,Groningen,1-2,0-1,Heracles
+Sat Aug 31 2019,Den Haag,1-0,1-0,VVV Venlo
+Sun Sep 1 2019,Twente,3-1,1-0,Utrecht
+Sun Sep 1 2019,Sparta Rotterdam,1-4,0-2,Ajax
+Sun Sep 1 2019,Vitesse,2-1,1-1,AZ Alkmaar
+Sun Sep 1 2019,Willem II,0-1,0-0,Feyenoord
+Sun Sep 1 2019,Waalwijk,1-3,1-0,PSV Eindhoven
+Sat Sep 14 2019,Ajax,4-1,2-1,Heerenveen
+Sat Sep 14 2019,AZ Alkmaar,5-1,4-1,Sparta Rotterdam
+Sat Sep 14 2019,VVV Venlo,2-1,1-1,Groningen
+Sat Sep 14 2019,PSV Eindhoven,5-0,2-0,Vitesse
+Sat Sep 14 2019,Utrecht,3-1,1-0,FC Emmen
+Sun Sep 15 2019,Zwolle,6-2,1-2,Waalwijk
+Sun Sep 15 2019,Feyenoord,3-2,3-0,Den Haag
+Sun Sep 15 2019,Heracles,4-1,2-1,Willem II
+Sun Sep 15 2019,For Sittard,2-3,0-2,Twente
+Fri Sep 20 2019,Twente,2-3,1-2,Heracles
+Sat Sep 21 2019,Sparta Rotterdam,4-0,2-0,Waalwijk
+Sat Sep 21 2019,Groningen,2-0,1-0,Zwolle
+Sat Sep 21 2019,Willem II,1-0,1-0,VVV Venlo
+Sat Sep 21 2019,Vitesse,4-2,0-1,For Sittard
+Sun Sep 22 2019,Heerenveen,1-1,1-1,Utrecht
+Sun Sep 22 2019,FC Emmen,3-3,2-2,Feyenoord
+Sun Sep 22 2019,Den Haag,0-1,0-0,AZ Alkmaar
+Sun Sep 22 2019,PSV Eindhoven,1-1,0-0,Ajax
+Wed Sep 25 2019,PSV Eindhoven,3-1,2-0,Groningen
+Wed Sep 25 2019,Ajax,5-0,0-0,For Sittard
+Thu Sep 26 2019,Feyenoord,0-3,0-1,AZ Alkmaar
+Fri Sep 27 2019,FC Emmen,3-0,1-0,Den Haag
+Sat Sep 28 2019,VVV Venlo,0-3,0-2,Heerenveen
+Sat Sep 28 2019,Ajax,2-0,0-0,Groningen
+Sat Sep 28 2019,For Sittard,0-0,0-0,Sparta Rotterdam
+Sun Sep 29 2019,Waalwijk,1-2,0-1,Vitesse
+Sun Sep 29 2019,Utrecht,2-0,0-0,Willem II
+Sun Sep 29 2019,Zwolle,0-4,0-1,PSV Eindhoven
+Sun Sep 29 2019,AZ Alkmaar,2-0,0-0,Heracles
+Sun Sep 29 2019,Feyenoord,5-1,2-1,Twente
+Fri Oct 4 2019,Groningen,3-0,2-0,Waalwijk
+Sat Oct 5 2019,Heracles,2-0,1-0,FC Emmen
+Sat Oct 5 2019,Sparta Rotterdam,2-1,0-0,Twente
+Sat Oct 5 2019,Vitesse,2-1,1-1,Utrecht
+Sat Oct 5 2019,Heerenveen,1-0,1-0,Zwolle
+Sun Oct 6 2019,Den Haag,0-2,0-1,Ajax
+Sun Oct 6 2019,For Sittard,4-2,3-1,Feyenoord
+Sun Oct 6 2019,PSV Eindhoven,4-1,0-0,VVV Venlo
+Sun Oct 6 2019,Willem II,1-1,1-1,AZ Alkmaar
+Sat Oct 19 2019,AZ Alkmaar,2-4,1-3,Heerenveen
+Sat Oct 19 2019,Waalwijk,1-2,0-0,Ajax
+Sat Oct 19 2019,Twente,0-1,0-1,Willem II
+Sat Oct 19 2019,Utrecht,3-0,0-0,PSV Eindhoven
+Sat Oct 19 2019,VVV Venlo,0-4,0-3,Vitesse
+Sun Oct 20 2019,Zwolle,3-1,1-1,Den Haag
+Sun Oct 20 2019,FC Emmen,2-1,0-1,For Sittard
+Sun Oct 20 2019,Groningen,2-0,0-0,Sparta Rotterdam
+Sun Oct 20 2019,Feyenoord,1-1,1-0,Heracles
+Fri Oct 25 2019,Twente,4-1,3-0,FC Emmen
+Sat Oct 26 2019,Willem II,2-1,2-1,Waalwijk
+Sat Oct 26 2019,For Sittard,4-1,2-0,VVV Venlo
+Sat Oct 26 2019,Vitesse,0-2,0-2,Den Haag
+Sat Oct 26 2019,Heracles,4-0,1-0,Zwolle
+Sun Oct 27 2019,Heerenveen,1-1,1-0,Groningen
+Sun Oct 27 2019,PSV Eindhoven,0-4,0-2,AZ Alkmaar
+Sun Oct 27 2019,Sparta Rotterdam,1-2,1-2,Utrecht
+Sun Oct 27 2019,Ajax,4-0,4-0,Feyenoord
+Fri Nov 1 2019,Zwolle,2-4,1-3,Ajax
+Sat Nov 2 2019,Waalwijk,2-0,1-0,Heracles
+Sat Nov 2 2019,Sparta Rotterdam,2-2,1-0,PSV Eindhoven
+Sat Nov 2 2019,AZ Alkmaar,3-0,1-0,Twente
+Sun Nov 3 2019,FC Emmen,2-1,2-1,Vitesse
+Sun Nov 3 2019,Groningen,2-0,1-0,Willem II
+Sun Nov 3 2019,Utrecht,6-0,3-0,For Sittard
+Sun Nov 3 2019,VVV Venlo,0-3,0-2,Feyenoord
+Sun Nov 3 2019,Den Haag,1-1,0-0,Heerenveen
+Fri Nov 8 2019,Vitesse,1-2,0-2,Groningen
+Sat Nov 9 2019,Heerenveen,2-1,0-1,Sparta Rotterdam
+Sat Nov 9 2019,For Sittard,1-0,1-0,Den Haag
+Sat Nov 9 2019,Heracles,6-1,2-0,VVV Venlo
+Sun Nov 10 2019,Ajax,4-0,3-0,Utrecht
+Sun Nov 10 2019,Twente,2-1,2-0,Zwolle
+Sun Nov 10 2019,Willem II,2-1,1-0,PSV Eindhoven
+Sun Nov 10 2019,Feyenoord,3-2,2-2,Waalwijk
+Sun Nov 10 2019,AZ Alkmaar,3-0,2-0,FC Emmen
+Sat Nov 23 2019,Utrecht,0-3,0-2,AZ Alkmaar
+Sat Nov 23 2019,Ajax,4-1,1-0,Heracles
+Sat Nov 23 2019,Zwolle,3-1,1-0,For Sittard
+Sat Nov 23 2019,Den Haag,3-3,0-2,Willem II
+Sun Nov 24 2019,Groningen,1-1,0-1,Feyenoord
+Sun Nov 24 2019,PSV Eindhoven,2-1,2-0,Heerenveen
+Sun Nov 24 2019,Waalwijk,1-1,0-1,FC Emmen
+Sun Nov 24 2019,Sparta Rotterdam,2-0,1-0,Vitesse
+Sun Nov 24 2019,VVV Venlo,2-1,2-1,Twente
+Fri Nov 29 2019,Heerenveen,3-2,1-2,Vitesse
+Sat Nov 30 2019,Willem II,4-0,3-0,Sparta Rotterdam
+Sat Nov 30 2019,For Sittard,1-0,0-0,Groningen
+Sat Nov 30 2019,Heracles,4-0,2-0,Den Haag
+Sun Dec 1 2019,Twente,2-5,2-1,Ajax
+Sun Dec 1 2019,Utrecht,0-1,0-0,Waalwijk
+Sun Dec 1 2019,AZ Alkmaar,1-0,1-0,VVV Venlo
+Sun Dec 1 2019,Feyenoord,1-0,1-0,Zwolle
+Sun Dec 1 2019,FC Emmen,1-1,0-1,PSV Eindhoven
+Fri Dec 6 2019,Ajax,0-2,0-1,Willem II
+Sat Dec 7 2019,Den Haag,0-0,0-0,Twente
+Sat Dec 7 2019,PSV Eindhoven,5-0,3-0,For Sittard
+Sat Dec 7 2019,VVV Venlo,2-0,1-0,FC Emmen
+Sat Dec 7 2019,Zwolle,0-3,0-2,AZ Alkmaar
+Sun Dec 8 2019,Vitesse,0-0,0-0,Feyenoord
+Sun Dec 8 2019,Groningen,0-1,0-0,Utrecht
+Sun Dec 8 2019,Waalwijk,1-3,0-1,Heerenveen
+Sun Dec 8 2019,Sparta Rotterdam,0-0,0-0,Heracles
+Fri Dec 13 2019,Heerenveen,1-2,1-2,Willem II
+Sat Dec 14 2019,Den Haag,1-1,1-1,Groningen
+Sat Dec 14 2019,For Sittard,3-2,2-2,Waalwijk
+Sat Dec 14 2019,VVV Venlo,1-2,0-2,Zwolle
+Sat Dec 14 2019,Twente,0-3,0-0,Vitesse
+Sun Dec 15 2019,FC Emmen,2-0,2-0,Sparta Rotterdam
+Sun Dec 15 2019,Feyenoord,3-1,2-0,PSV Eindhoven
+Sun Dec 15 2019,AZ Alkmaar,1-0,0-0,Ajax
+Sun Dec 15 2019,Heracles,1-3,1-0,Utrecht
+Fri Dec 20 2019,Waalwijk,3-0,1-0,Twente
+Sat Dec 21 2019,Heerenveen,1-1,0-0,Heracles
+Sat Dec 21 2019,PSV Eindhoven,4-1,2-1,Zwolle
+Sat Dec 21 2019,Sparta Rotterdam,3-0,2-0,AZ Alkmaar
+Sat Dec 21 2019,Willem II,0-0,0-0,For Sittard
+Sun Dec 22 2019,Ajax,6-1,4-0,Den Haag
+Sun Dec 22 2019,Groningen,2-0,0-0,FC Emmen
+Sun Dec 22 2019,Utrecht,1-2,1-1,Feyenoord
+Sun Dec 22 2019,Vitesse,3-0,2-0,VVV Venlo
+Fri Jan 17 2020,Zwolle,3-3,1-1,Utrecht
+Sat Jan 18 2020,For Sittard,1-3,0-2,Vitesse
+Sat Jan 18 2020,Feyenoord,3-1,3-1,Heerenveen
+Sat Jan 18 2020,Twente,0-0,0-0,Groningen
+Sat Jan 18 2020,AZ Alkmaar,1-3,1-0,Willem II
+Sun Jan 19 2020,VVV Venlo,1-1,0-0,PSV Eindhoven
+Sun Jan 19 2020,Ajax,2-1,1-0,Sparta Rotterdam
+Sun Jan 19 2020,FC Emmen,1-0,1-0,Heracles
+Sun Jan 19 2020,Den Haag,2-0,1-0,Waalwijk
+Fri Jan 24 2020,Utrecht,4-0,1-0,Den Haag
+Sat Jan 25 2020,Heerenveen,1-2,0-1,AZ Alkmaar
+Sat Jan 25 2020,Heracles,2-3,1-0,Feyenoord
+Sat Jan 25 2020,Waalwijk,1-2,1-0,VVV Venlo
+Sat Jan 25 2020,Sparta Rotterdam,1-1,0-1,For Sittard
+Sun Jan 26 2020,Vitesse,1-1,1-0,FC Emmen
+Sun Jan 26 2020,Groningen,2-1,1-0,Ajax
+Sun Jan 26 2020,Willem II,0-0,0-0,Zwolle
+Sun Jan 26 2020,PSV Eindhoven,1-1,0-0,Twente
+Fri Jan 31 2020,AZ Alkmaar,4-0,2-0,Waalwijk
+Sat Feb 1 2020,Den Haag,0-0,0-0,Vitesse
+Sat Feb 1 2020,Feyenoord,3-0,1-0,FC Emmen
+Sat Feb 1 2020,Twente,2-0,0-0,Sparta Rotterdam
+Sat Feb 1 2020,Zwolle,1-0,1-0,Groningen
+Sun Feb 2 2020,Willem II,1-0,1-0,Heracles
+Sun Feb 2 2020,For Sittard,2-1,1-1,Heerenveen
+Sun Feb 2 2020,VVV Venlo,1-1,0-0,Utrecht
+Sun Feb 2 2020,Ajax,1-0,1-0,PSV Eindhoven
+Fri Feb 7 2020,Heracles,2-0,1-0,For Sittard
+Sat Feb 8 2020,Groningen,1-0,1-0,Vitesse
+Sat Feb 8 2020,Heerenveen,1-1,0-0,VVV Venlo
+Sat Feb 8 2020,PSV Eindhoven,3-0,1-0,Willem II
+Sat Feb 8 2020,Waalwijk,0-0,0-0,Zwolle
+Tue Feb 11 2020,FC Emmen,2-0,1-0,Twente
+Tue Feb 11 2020,Sparta Rotterdam,4-2,3-1,Den Haag
+Fri Feb 14 2020,VVV Venlo,1-0,1-0,Heracles
+Sat Feb 15 2020,Twente,2-0,2-0,AZ Alkmaar
+Sat Feb 15 2020,Den Haag,0-3,0-1,PSV Eindhoven
+Sat Feb 15 2020,For Sittard,0-0,0-0,FC Emmen
+Sun Feb 16 2020,Vitesse,4-2,2-2,Heerenveen
+Sun Feb 16 2020,Ajax,3-0,1-0,Waalwijk
+Sun Feb 16 2020,Sparta Rotterdam,1-2,0-2,Groningen
+Sun Feb 16 2020,Willem II,1-1,0-1,Utrecht
+Sun Feb 16 2020,Zwolle,3-4,2-1,Feyenoord
+Fri Feb 21 2020,Waalwijk,0-1,0-1,Sparta Rotterdam
+Sat Feb 22 2020,FC Emmen,4-2,1-0,Willem II
+Sat Feb 22 2020,Feyenoord,2-1,0-0,For Sittard
+Sat Feb 22 2020,Heerenveen,2-2,1-2,Den Haag
+Sat Feb 22 2020,Groningen,0-1,0-0,VVV Venlo
+Sun Feb 23 2020,Utrecht,2-1,0-0,Twente
+Sun Feb 23 2020,AZ Alkmaar,2-0,0-0,Zwolle
+Sun Feb 23 2020,Vitesse,1-2,0-0,PSV Eindhoven
+Sun Feb 23 2020,Heracles,1-0,0-0,Ajax
+Fri Feb 28 2020,Willem II,3-1,2-0,Groningen
+Sat Feb 29 2020,Den Haag,0-0,0-0,Heracles
+Sat Feb 29 2020,VVV Venlo,0-0,0-0,For Sittard
+Sat Feb 29 2020,Zwolle,4-3,1-2,Vitesse
+Sat Feb 29 2020,Twente,2-3,0-1,Heerenveen
+Sun Mar 1 2020,Waalwijk,2-1,0-1,Utrecht
+Sun Mar 1 2020,PSV Eindhoven,1-1,0-1,Feyenoord
+Sun Mar 1 2020,Sparta Rotterdam,5-1,3-0,FC Emmen
+Sun Mar 1 2020,Ajax,0-2,0-1,AZ Alkmaar
+Fri Mar 6 2020,For Sittard,1-1,0-0,Zwolle
+Sat Mar 7 2020,AZ Alkmaar,4-0,2-0,Den Haag
+Sat Mar 7 2020,FC Emmen,3-0,0-0,VVV Venlo
+Sat Mar 7 2020,Vitesse,1-0,0-0,Twente
+Sat Mar 7 2020,Heerenveen,1-3,0-0,Ajax
+Sun Mar 8 2020,Utrecht,5-1,1-0,Sparta Rotterdam
+Sun Mar 8 2020,Feyenoord,2-0,2-0,Willem II
+Sun Mar 8 2020,Heracles,4-2,2-2,Waalwijk
+Sun Mar 8 2020,Groningen,0-1,0-1,PSV Eindhoven

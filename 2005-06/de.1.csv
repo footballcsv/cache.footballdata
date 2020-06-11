@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 5 2005,Bayern Munich,3-0,1-0,M'gladbach
+Sat Aug 6 2005,Duisburg,1-1,1-1,Stuttgart
+Sat Aug 6 2005,FC Koln,1-0,0-0,Mainz
+Sat Aug 6 2005,Hamburg,3-0,2-0,Nurnberg
+Sat Aug 6 2005,Hannover,2-2,0-0,Hertha
+Sat Aug 6 2005,Werder Bremen,5-2,3-2,Bielefeld
+Sat Aug 6 2005,Wolfsburg,2-2,1-0,Dortmund
+Sun Aug 7 2005,Ein Frankfurt,1-4,1-1,Leverkusen
+Sun Aug 7 2005,Schalke 04,2-1,0-1,Kaiserslautern
+Sat Aug 13 2005,Bielefeld,0-2,0-0,Hamburg
+Sat Aug 13 2005,Dortmund,1-2,1-1,Schalke 04
+Sat Aug 13 2005,Hertha,2-0,0-0,Ein Frankfurt
+Sat Aug 13 2005,Kaiserslautern,5-3,2-1,Duisburg
+Sat Aug 13 2005,Leverkusen,2-5,1-3,Bayern Munich
+Sat Aug 13 2005,M'gladbach,1-1,0-1,Wolfsburg
+Sat Aug 13 2005,Nurnberg,1-1,0-1,Hannover
+Sun Aug 14 2005,Mainz,0-2,0-1,Werder Bremen
+Sun Aug 14 2005,Stuttgart,2-3,0-1,FC Koln
+Sat Aug 27 2005,Bayern Munich,3-0,0-0,Hertha
+Sat Aug 27 2005,Ein Frankfurt,1-0,0-0,Nurnberg
+Sat Aug 27 2005,FC Koln,2-3,0-1,Kaiserslautern
+Sat Aug 27 2005,Hamburg,1-1,1-1,Hannover
+Sat Aug 27 2005,Schalke 04,1-1,0-1,M'gladbach
+Sat Aug 27 2005,Werder Bremen,1-1,1-0,Stuttgart
+Sat Aug 27 2005,Wolfsburg,2-1,1-1,Leverkusen
+Sun Aug 28 2005,Bielefeld,2-0,2-0,Mainz
+Sun Aug 28 2005,Duisburg,1-1,0-0,Dortmund
+Sat Sep 10 2005,Hannover,2-0,1-0,Ein Frankfurt
+Sat Sep 10 2005,Kaiserslautern,1-5,0-3,Werder Bremen
+Sat Sep 10 2005,Leverkusen,1-1,0-0,Schalke 04
+Sat Sep 10 2005,Mainz,1-3,0-1,Hamburg
+Sat Sep 10 2005,M'gladbach,2-1,1-1,Duisburg
+Sat Sep 10 2005,Nurnberg,1-2,1-1,Bayern Munich
+Sat Sep 10 2005,Stuttgart,1-1,0-0,Bielefeld
+Sun Sep 11 2005,Dortmund,2-1,1-0,FC Koln
+Sun Sep 11 2005,Hertha,3-0,0-0,Wolfsburg
+Sat Sep 17 2005,Bayern Munich,1-0,1-0,Hannover
+Sat Sep 17 2005,Bielefeld,0-0,0-0,Kaiserslautern
+Sat Sep 17 2005,FC Koln,2-1,2-0,M'gladbach
+Sat Sep 17 2005,Hamburg,1-1,0-0,Ein Frankfurt
+Sat Sep 17 2005,Mainz,1-2,0-0,Stuttgart
+Sat Sep 17 2005,Werder Bremen,3-2,1-1,Dortmund
+Sat Sep 17 2005,Wolfsburg,1-1,1-0,Nurnberg
+Sun Sep 18 2005,Duisburg,1-3,1-2,Leverkusen
+Sun Sep 18 2005,Schalke 04,0-0,0-0,Hertha
+Tue Sep 20 2005,Dortmund,2-0,1-0,Bielefeld
+Tue Sep 20 2005,Ein Frankfurt,0-1,0-0,Bayern Munich
+Tue Sep 20 2005,Hannover,2-4,1-4,Wolfsburg
+Tue Sep 20 2005,M'gladbach,2-1,0-1,Werder Bremen
+Wed Sep 21 2005,Hertha,3-2,1-1,Duisburg
+Wed Sep 21 2005,Kaiserslautern,0-2,0-1,Mainz
+Wed Sep 21 2005,Leverkusen,2-1,1-0,FC Koln
+Wed Sep 21 2005,Nurnberg,1-1,1-0,Schalke 04
+Wed Sep 21 2005,Stuttgart,1-2,0-1,Hamburg
+Sat Sep 24 2005,Bielefeld,0-2,0-1,M'gladbach
+Sat Sep 24 2005,Duisburg,1-0,1-0,Nurnberg
+Sat Sep 24 2005,Hamburg,2-0,1-0,Bayern Munich
+Sat Sep 24 2005,Mainz,1-1,0-0,Dortmund
+Sat Sep 24 2005,Schalke 04,2-0,0-0,Hannover
+Sat Sep 24 2005,Werder Bremen,2-1,0-0,Leverkusen
+Sat Sep 24 2005,Wolfsburg,1-0,1-0,Ein Frankfurt
+Sun Sep 25 2005,FC Koln,0-1,0-0,Hertha
+Sun Sep 25 2005,Stuttgart,1-0,1-0,Kaiserslautern
+Sat Oct 1 2005,Bayern Munich,2-0,0-0,Wolfsburg
+Sat Oct 1 2005,Ein Frankfurt,0-1,0-0,Schalke 04
+Sat Oct 1 2005,Hannover,1-1,1-1,Duisburg
+Sat Oct 1 2005,Hertha,1-2,0-0,Werder Bremen
+Sat Oct 1 2005,Leverkusen,1-1,0-0,Bielefeld
+Sat Oct 1 2005,M'gladbach,1-0,1-0,Mainz
+Sat Oct 1 2005,Nurnberg,2-1,1-0,FC Koln
+Sun Oct 2 2005,Dortmund,0-0,0-0,Stuttgart
+Sun Oct 2 2005,Kaiserslautern,0-3,0-1,Hamburg
+Sat Oct 15 2005,Bielefeld,3-0,2-0,Hertha
+Sun Oct 16 2005,Duisburg,0-1,0-1,Ein Frankfurt
+Sun Oct 16 2005,FC Koln,1-4,0-0,Hannover
+Sat Oct 15 2005,Hamburg,0-1,0-1,Wolfsburg
+Sat Oct 15 2005,Kaiserslautern,3-3,1-3,Dortmund
+Sat Oct 15 2005,Mainz,3-1,0-0,Leverkusen
+Sat Oct 15 2005,Schalke 04,1-1,0-1,Bayern Munich
+Sat Oct 15 2005,Stuttgart,1-1,0-1,M'gladbach
+Sat Oct 15 2005,Werder Bremen,6-2,3-1,Nurnberg
+Sat Oct 22 2005,Bayern Munich,4-0,2-0,Duisburg
+Sat Oct 22 2005,Ein Frankfurt,6-3,4-1,FC Koln
+Sat Oct 22 2005,Hannover,0-0,0-0,Werder Bremen
+Sat Oct 22 2005,Hertha,3-1,2-0,Mainz
+Sat Oct 22 2005,M'gladbach,4-1,3-1,Kaiserslautern
+Sat Oct 22 2005,Nurnberg,2-3,1-1,Bielefeld
+Sat Oct 22 2005,Wolfsburg,0-0,0-0,Schalke 04
+Sun Oct 23 2005,Dortmund,1-1,0-0,Hamburg
+Sun Oct 23 2005,Leverkusen,1-1,0-0,Stuttgart
+Sat Oct 29 2005,Dortmund,2-1,1-0,M'gladbach
+Sat Oct 29 2005,Duisburg,1-0,0-0,Wolfsburg
+Sat Oct 29 2005,FC Koln,1-2,1-0,Bayern Munich
+Sat Oct 29 2005,Hamburg,1-0,1-0,Schalke 04
+Sat Oct 29 2005,Kaiserslautern,2-2,1-1,Leverkusen
+Sat Oct 29 2005,Stuttgart,3-3,0-1,Hertha
+Sat Oct 29 2005,Werder Bremen,4-1,1-1,Ein Frankfurt
+Sun Oct 30 2005,Bielefeld,4-1,1-0,Hannover
+Sun Oct 30 2005,Mainz,4-1,3-1,Nurnberg
+Sat Nov 5 2005,Bayern Munich,3-1,3-1,Werder Bremen
+Sat Nov 5 2005,Ein Frankfurt,3-0,1-0,Bielefeld
+Sat Nov 5 2005,Hannover,2-2,0-1,Mainz
+Sat Nov 5 2005,Hertha,3-0,1-0,Kaiserslautern
+Sat Nov 5 2005,Leverkusen,2-1,1-0,Dortmund
+Sat Nov 5 2005,Schalke 04,3-0,1-0,Duisburg
+Sat Nov 5 2005,Wolfsburg,1-1,1-0,FC Koln
+Sun Nov 6 2005,M'gladbach,0-0,0-0,Hamburg
+Sun Nov 6 2005,Nurnberg,0-1,0-1,Stuttgart
+Sat Nov 19 2005,Bielefeld,1-2,0-0,Bayern Munich
+Sat Nov 19 2005,Dortmund,2-0,2-0,Hertha
+Sat Nov 19 2005,FC Koln,2-2,0-1,Schalke 04
+Sat Nov 19 2005,Kaiserslautern,1-3,1-1,Nurnberg
+Sat Nov 19 2005,Mainz,2-2,0-2,Ein Frankfurt
+Sat Nov 19 2005,M'gladbach,1-1,1-1,Leverkusen
+Sat Nov 19 2005,Werder Bremen,6-1,2-0,Wolfsburg
+Sun Nov 20 2005,Hamburg,2-0,2-0,Duisburg
+Sun Nov 20 2005,Stuttgart,2-2,1-0,Hannover
+Sat Nov 26 2005,Bayern Munich,2-1,1-1,Mainz
+Sat Nov 26 2005,Hannover,5-1,2-0,Kaiserslautern
+Sat Nov 26 2005,Leverkusen,0-1,0-0,Hamburg
+Sat Nov 26 2005,Nurnberg,1-2,0-2,Dortmund
+Sat Nov 26 2005,Schalke 04,2-1,1-0,Werder Bremen
+Sat Nov 26 2005,Wolfsburg,0-0,0-0,Bielefeld
+Sun Nov 27 2005,Ein Frankfurt,1-1,1-0,Stuttgart
+Sun Nov 27 2005,Hertha,2-2,0-2,M'gladbach
+Sat Dec 3 2005,Bielefeld,0-1,0-0,Schalke 04
+Sat Dec 3 2005,Dortmund,0-2,0-1,Hannover
+Sat Dec 3 2005,Hamburg,3-1,1-0,FC Koln
+Sat Dec 3 2005,M'gladbach,0-1,0-0,Nurnberg
+Sat Dec 3 2005,Stuttgart,0-0,0-0,Bayern Munich
+Sat Dec 3 2005,Werder Bremen,2-0,0-0,Duisburg
+Sun Dec 4 2005,Leverkusen,1-2,1-0,Hertha
+Sun Dec 4 2005,Mainz,5-1,3-1,Wolfsburg
+Tue Dec 6 2005,Duisburg,1-1,1-1,FC Koln
+Sat Dec 10 2005,Duisburg,1-1,1-0,Bielefeld
+Sat Dec 10 2005,Ein Frankfurt,2-0,1-0,Dortmund
+Sat Dec 10 2005,Hamburg,2-1,2-0,Hertha
+Sat Dec 10 2005,Hannover,1-1,0-0,M'gladbach
+Sat Dec 10 2005,Nurnberg,1-1,1-1,Leverkusen
+Sat Dec 10 2005,Schalke 04,1-0,0-0,Mainz
+Sat Dec 10 2005,Wolfsburg,0-1,0-0,Stuttgart
+Sun Dec 11 2005,Bayern Munich,2-1,1-1,Kaiserslautern
+Sun Dec 11 2005,FC Koln,1-4,1-1,Werder Bremen
+Wed Dec 14 2005,Kaiserslautern,1-2,0-0,Ein Frankfurt
+Sat Dec 17 2005,Bielefeld,3-2,0-1,FC Koln
+Sat Dec 17 2005,Dortmund,1-2,0-0,Bayern Munich
+Sat Dec 17 2005,Kaiserslautern,3-2,1-0,Wolfsburg
+Sat Dec 17 2005,Leverkusen,0-0,0-0,Hannover
+Sat Dec 17 2005,Mainz,1-1,1-0,Duisburg
+Sat Dec 17 2005,M'gladbach,4-3,1-2,Ein Frankfurt
+Sat Dec 17 2005,Stuttgart,2-0,0-0,Schalke 04
+Sun Dec 18 2005,Hertha,1-1,0-0,Nurnberg
+Sun Dec 18 2005,Werder Bremen,1-1,1-0,Hamburg
+Fri Jan 27 2006,M'gladbach,1-3,0-1,Bayern Munich
+Sat Jan 28 2006,Dortmund,3-2,2-1,Wolfsburg
+Sat Jan 28 2006,Hertha,1-1,0-1,Hannover
+Sat Jan 28 2006,Leverkusen,2-1,0-1,Ein Frankfurt
+Sat Jan 28 2006,Mainz,4-2,1-1,FC Koln
+Sat Jan 28 2006,Nurnberg,2-1,0-0,Hamburg
+Sat Jan 28 2006,Stuttgart,0-1,0-1,Duisburg
+Sun Jan 29 2006,Bielefeld,0-1,0-0,Werder Bremen
+Sun Jan 29 2006,Kaiserslautern,0-2,0-1,Schalke 04
+Sat Feb 4 2006,Bayern Munich,1-0,1-0,Leverkusen
+Sat Feb 4 2006,Duisburg,2-2,1-0,Kaiserslautern
+Sat Feb 4 2006,Ein Frankfurt,1-1,0-1,Hertha
+Sat Feb 4 2006,FC Koln,0-0,0-0,Stuttgart
+Sat Feb 4 2006,Hamburg,2-1,0-1,Bielefeld
+Sat Feb 4 2006,Schalke 04,0-0,0-0,Dortmund
+Sat Feb 4 2006,Werder Bremen,4-2,3-2,Mainz
+Sun Feb 5 2006,Hannover,1-1,0-0,Nurnberg
+Sun Feb 5 2006,Wolfsburg,2-0,1-0,M'gladbach
+Tue Feb 7 2006,Dortmund,2-0,0-0,Duisburg
+Tue Feb 7 2006,Hertha,0-0,0-0,Bayern Munich
+Tue Feb 7 2006,Kaiserslautern,2-2,1-1,FC Koln
+Tue Feb 7 2006,Mainz,1-1,0-0,Bielefeld
+Wed Feb 8 2006,Hannover,2-1,0-0,Hamburg
+Wed Feb 8 2006,Leverkusen,4-0,1-0,Wolfsburg
+Wed Feb 8 2006,M'gladbach,0-0,0-0,Schalke 04
+Wed Feb 8 2006,Nurnberg,0-1,0-1,Ein Frankfurt
+Wed Feb 8 2006,Stuttgart,0-0,0-0,Werder Bremen
+Sat Feb 11 2006,Bielefeld,2-1,1-1,Stuttgart
+Sat Feb 11 2006,Duisburg,1-1,1-1,M'gladbach
+Sat Feb 11 2006,Ein Frankfurt,0-1,0-0,Hannover
+Sat Feb 11 2006,Hamburg,1-0,1-0,Mainz
+Sat Feb 11 2006,Schalke 04,7-4,3-1,Leverkusen
+Sat Feb 11 2006,Werder Bremen,0-2,0-0,Kaiserslautern
+Sat Feb 11 2006,Wolfsburg,1-1,0-1,Hertha
+Sun Feb 12 2006,Bayern Munich,2-1,1-1,Nurnberg
+Sun Feb 12 2006,FC Koln,0-0,0-0,Dortmund
+Sat Feb 18 2006,Dortmund,0-1,0-1,Werder Bremen
+Sat Feb 18 2006,Hannover,1-1,0-0,Bayern Munich
+Sat Feb 18 2006,Hertha,1-2,1-2,Schalke 04
+Sat Feb 18 2006,Kaiserslautern,2-0,1-0,Bielefeld
+Sat Feb 18 2006,Leverkusen,3-2,2-1,Duisburg
+Sat Feb 18 2006,M'gladbach,2-0,0-0,FC Koln
+Sat Feb 18 2006,Nurnberg,1-0,1-0,Wolfsburg
+Sun Feb 19 2006,Ein Frankfurt,1-2,1-1,Hamburg
+Sun Feb 19 2006,Stuttgart,2-1,1-1,Mainz
+Sat Feb 25 2006,Bayern Munich,5-2,3-1,Ein Frankfurt
+Sat Feb 25 2006,Bielefeld,1-0,1-0,Dortmund
+Sat Feb 25 2006,FC Koln,0-3,0-0,Leverkusen
+Sat Feb 25 2006,Mainz,0-2,0-2,Kaiserslautern
+Sat Feb 25 2006,Schalke 04,2-0,0-0,Nurnberg
+Sat Feb 25 2006,Werder Bremen,2-0,2-0,M'gladbach
+Sat Feb 25 2006,Wolfsburg,2-1,1-1,Hannover
+Sun Feb 26 2006,Duisburg,2-1,1-0,Hertha
+Sun Feb 26 2006,Hamburg,0-2,0-1,Stuttgart
+Sat Mar 4 2006,Bayern Munich,1-2,0-1,Hamburg
+Sat Mar 4 2006,Dortmund,1-1,1-0,Mainz
+Sat Mar 4 2006,Hannover,1-2,0-2,Schalke 04
+Sat Mar 4 2006,Hertha,2-4,0-0,FC Koln
+Sat Mar 4 2006,Leverkusen,1-1,1-1,Werder Bremen
+Sat Mar 4 2006,Nurnberg,3-0,2-0,Duisburg
+Sun Mar 5 2006,Ein Frankfurt,1-1,0-0,Wolfsburg
+Sun Mar 5 2006,M'gladbach,2-0,1-0,Bielefeld
+Tue Mar 7 2006,Kaiserslautern,1-1,1-0,Stuttgart
+Sat Mar 11 2006,Bielefeld,1-0,1-0,Leverkusen
+Sat Mar 11 2006,Duisburg,0-0,0-0,Hannover
+Sat Mar 11 2006,FC Koln,3-4,1-3,Nurnberg
+Sat Mar 11 2006,Mainz,3-0,0-0,M'gladbach
+Sat Mar 11 2006,Stuttgart,0-0,0-0,Dortmund
+Sat Mar 11 2006,Werder Bremen,0-3,0-0,Hertha
+Sat Mar 11 2006,Wolfsburg,0-0,0-0,Bayern Munich
+Sun Mar 12 2006,Hamburg,3-0,0-0,Kaiserslautern
+Sun Mar 12 2006,Schalke 04,2-0,0-0,Ein Frankfurt
+Sat Mar 18 2006,Dortmund,2-1,1-1,Kaiserslautern
+Sat Mar 18 2006,Ein Frankfurt,5-2,3-2,Duisburg
+Sat Mar 18 2006,Hannover,1-0,1-0,FC Koln
+Sat Mar 18 2006,Leverkusen,1-2,0-1,Mainz
+Sat Mar 18 2006,M'gladbach,1-1,0-0,Stuttgart
+Sat Mar 18 2006,Nurnberg,3-1,2-0,Werder Bremen
+Sat Mar 18 2006,Wolfsburg,0-1,0-1,Hamburg
+Sun Mar 19 2006,Bayern Munich,3-0,0-0,Schalke 04
+Sun Mar 19 2006,Hertha,1-0,0-0,Bielefeld
+Sat Mar 25 2006,Duisburg,1-3,1-0,Bayern Munich
+Sat Mar 25 2006,FC Koln,1-1,1-1,Ein Frankfurt
+Sat Mar 25 2006,Hamburg,2-4,1-1,Dortmund
+Sat Mar 25 2006,Mainz,2-2,0-1,Hertha
+Sat Mar 25 2006,Schalke 04,2-2,1-1,Wolfsburg
+Sat Mar 25 2006,Stuttgart,0-2,0-1,Leverkusen
+Sat Mar 25 2006,Werder Bremen,5-0,2-0,Hannover
+Sun Mar 26 2006,Bielefeld,0-0,0-0,Nurnberg
+Sun Mar 26 2006,Kaiserslautern,3-0,2-0,M'gladbach
+Sat Apr 1 2006,Bayern Munich,2-2,2-2,FC Koln
+Sat Apr 1 2006,Ein Frankfurt,0-1,0-0,Werder Bremen
+Sat Apr 1 2006,Hertha,2-0,0-0,Stuttgart
+Sat Apr 1 2006,Leverkusen,5-1,2-0,Kaiserslautern
+Sat Apr 1 2006,M'gladbach,2-1,2-1,Dortmund
+Sat Apr 1 2006,Nurnberg,3-0,1-0,Mainz
+Sat Apr 1 2006,Wolfsburg,1-1,0-0,Duisburg
+Sun Apr 2 2006,Hannover,0-1,0-1,Bielefeld
+Sun Apr 2 2006,Schalke 04,0-2,0-0,Hamburg
+Sat Apr 8 2006,Bielefeld,1-0,0-0,Ein Frankfurt
+Sat Apr 8 2006,Dortmund,1-2,1-1,Leverkusen
+Sat Apr 8 2006,FC Koln,3-0,0-0,Wolfsburg
+Sat Apr 8 2006,Kaiserslautern,0-2,0-2,Hertha
+Sat Apr 8 2006,Mainz,0-0,0-0,Hannover
+Sat Apr 8 2006,Stuttgart,1-0,0-0,Nurnberg
+Sat Apr 8 2006,Werder Bremen,3-0,1-0,Bayern Munich
+Sun Apr 9 2006,Duisburg,1-1,1-0,Schalke 04
+Sun Apr 9 2006,Hamburg,2-0,1-0,M'gladbach
+Sat Apr 15 2006,Bayern Munich,2-0,0-0,Bielefeld
+Sat Apr 15 2006,Duisburg,0-2,0-2,Hamburg
+Sat Apr 15 2006,Ein Frankfurt,0-0,0-0,Mainz
+Sat Apr 15 2006,Hertha,0-0,0-0,Dortmund
+Sat Apr 15 2006,Leverkusen,2-1,1-0,M'gladbach
+Sat Apr 15 2006,Schalke 04,1-1,0-1,FC Koln
+Sat Apr 15 2006,Wolfsburg,1-1,1-1,Werder Bremen
+Sun Apr 16 2006,Hannover,3-3,2-0,Stuttgart
+Sun Apr 16 2006,Nurnberg,3-2,1-1,Kaiserslautern
+Sat Apr 22 2006,Bielefeld,0-1,0-1,Wolfsburg
+Sat Apr 22 2006,Dortmund,2-1,1-1,Nurnberg
+Sat Apr 22 2006,FC Koln,3-1,1-0,Duisburg
+Sat Apr 22 2006,Hamburg,0-2,0-1,Leverkusen
+Sat Apr 22 2006,Kaiserslautern,1-0,1-0,Hannover
+Sat Apr 22 2006,M'gladbach,2-2,1-1,Hertha
+Sat Apr 22 2006,Stuttgart,0-2,0-0,Ein Frankfurt
+Sun Apr 23 2006,Mainz,2-2,2-2,Bayern Munich
+Sun Apr 23 2006,Werder Bremen,0-0,0-0,Schalke 04
+Tue May 2 2006,FC Koln,0-1,0-1,Hamburg
+Tue May 2 2006,Hannover,1-2,1-0,Dortmund
+Tue May 2 2006,Hertha,1-5,1-3,Leverkusen
+Tue May 2 2006,Nurnberg,5-2,1-2,M'gladbach
+Wed May 3 2006,Bayern Munich,3-1,2-1,Stuttgart
+Wed May 3 2006,Duisburg,3-5,2-3,Werder Bremen
+Wed May 3 2006,Ein Frankfurt,2-2,0-1,Kaiserslautern
+Wed May 3 2006,Schalke 04,3-1,1-0,Bielefeld
+Wed May 3 2006,Wolfsburg,0-3,0-1,Mainz
+Sat May 6 2006,Bielefeld,0-2,0-0,Duisburg
+Sat May 6 2006,Dortmund,1-1,0-0,Ein Frankfurt
+Sat May 6 2006,Hertha,4-2,1-2,Hamburg
+Sat May 6 2006,Kaiserslautern,1-1,1-0,Bayern Munich
+Sat May 6 2006,Leverkusen,2-2,0-1,Nurnberg
+Sat May 6 2006,Mainz,1-0,1-0,Schalke 04
+Sat May 6 2006,M'gladbach,2-2,0-1,Hannover
+Sat May 6 2006,Stuttgart,2-1,1-1,Wolfsburg
+Sat May 6 2006,Werder Bremen,6-0,3-0,FC Koln
+Sat May 13 2006,Bayern Munich,3-3,1-1,Dortmund
+Sat May 13 2006,Duisburg,0-0,0-0,Mainz
+Sat May 13 2006,Ein Frankfurt,0-2,0-0,M'gladbach
+Sat May 13 2006,FC Koln,4-2,1-0,Bielefeld
+Sat May 13 2006,Hamburg,1-2,0-1,Werder Bremen
+Sat May 13 2006,Hannover,2-2,1-2,Leverkusen
+Sat May 13 2006,Nurnberg,2-1,1-1,Hertha
+Sat May 13 2006,Schalke 04,3-2,0-1,Stuttgart
+Sat May 13 2006,Wolfsburg,2-2,0-1,Kaiserslautern

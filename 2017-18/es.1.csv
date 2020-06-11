@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 18 2017,Leganes,1-0,1-0,Alaves
+Fri Aug 18 2017,Valencia,1-0,1-0,Las Palmas
+Sat Aug 19 2017,Celta,2-3,1-1,Sociedad
+Sat Aug 19 2017,Girona,2-2,2-0,Ath Madrid
+Sat Aug 19 2017,Sevilla,1-1,1-1,Espanol
+Sun Aug 20 2017,Ath Bilbao,0-0,0-0,Getafe
+Sun Aug 20 2017,Barcelona,2-0,2-0,Betis
+Sun Aug 20 2017,La Coruna,0-3,0-2,Real Madrid
+Mon Aug 21 2017,Levante,1-0,0-0,Villarreal
+Mon Aug 21 2017,Malaga,0-1,0-0,Eibar
+Fri Aug 25 2017,Betis,2-1,1-1,Celta
+Fri Aug 25 2017,Sociedad,3-0,3-0,Villarreal
+Sat Aug 26 2017,Alaves,0-2,0-0,Barcelona
+Sat Aug 26 2017,Girona,1-0,1-0,Malaga
+Sat Aug 26 2017,Las Palmas,1-5,0-2,Ath Madrid
+Sat Aug 26 2017,Levante,2-2,1-2,La Coruna
+Sun Aug 27 2017,Eibar,0-1,0-1,Ath Bilbao
+Sun Aug 27 2017,Espanol,0-1,0-1,Leganes
+Sun Aug 27 2017,Getafe,0-1,0-0,Sevilla
+Sun Aug 27 2017,Real Madrid,2-2,1-1,Valencia
+Fri Sep 8 2017,Leganes,1-2,0-1,Getafe
+Sat Sep 9 2017,Barcelona,5-0,2-0,Espanol
+Sat Sep 9 2017,Real Madrid,1-1,1-1,Levante
+Sat Sep 9 2017,Sevilla,3-0,0-0,Eibar
+Sat Sep 9 2017,Valencia,0-0,0-0,Ath Madrid
+Sun Sep 10 2017,Ath Bilbao,2-0,1-0,Girona
+Sun Sep 10 2017,Celta,1-0,1-0,Alaves
+Sun Sep 10 2017,La Coruna,2-4,1-2,Sociedad
+Sun Sep 10 2017,Villarreal,3-1,1-1,Betis
+Mon Sep 11 2017,Malaga,1-3,0-1,Las Palmas
+Fri Sep 15 2017,Eibar,1-0,0-0,Leganes
+Sat Sep 16 2017,Ath Madrid,1-0,0-0,Malaga
+Sat Sep 16 2017,Betis,2-1,1-1,La Coruna
+Sat Sep 16 2017,Getafe,1-2,1-0,Barcelona
+Sat Sep 16 2017,Levante,1-1,1-1,Valencia
+Sun Sep 17 2017,Alaves,0-3,0-1,Villarreal
+Sun Sep 17 2017,Girona,0-1,0-0,Sevilla
+Sun Sep 17 2017,Las Palmas,1-0,0-0,Ath Bilbao
+Sun Sep 17 2017,Sociedad,1-3,1-2,Real Madrid
+Mon Sep 18 2017,Espanol,2-1,2-0,Celta
+Tue Sep 19 2017,Barcelona,6-1,2-0,Eibar
+Tue Sep 19 2017,Valencia,5-0,1-0,Malaga
+Wed Sep 20 2017,Ath Bilbao,1-2,0-0,Ath Madrid
+Wed Sep 20 2017,La Coruna,1-0,1-0,Alaves
+Wed Sep 20 2017,Leganes,0-0,0-0,Girona
+Wed Sep 20 2017,Real Madrid,0-1,0-0,Betis
+Wed Sep 20 2017,Sevilla,1-0,0-0,Las Palmas
+Thu Sep 21 2017,Celta,1-1,1-0,Getafe
+Thu Sep 21 2017,Levante,3-0,1-0,Sociedad
+Thu Sep 21 2017,Villarreal,0-0,0-0,Espanol
+Sat Sep 23 2017,Alaves,1-2,1-2,Real Madrid
+Sat Sep 23 2017,Ath Madrid,2-0,0-0,Sevilla
+Sat Sep 23 2017,Girona,0-3,0-1,Barcelona
+Sat Sep 23 2017,Malaga,3-3,1-1,Ath Bilbao
+Sun Sep 24 2017,Eibar,0-4,0-3,Celta
+Sun Sep 24 2017,Espanol,4-1,2-0,La Coruna
+Sun Sep 24 2017,Getafe,4-0,0-0,Villarreal
+Sun Sep 24 2017,Las Palmas,0-2,0-0,Leganes
+Sun Sep 24 2017,Sociedad,2-3,1-1,Valencia
+Mon Sep 25 2017,Betis,4-0,0-0,Levante
+Fri Sep 29 2017,Celta,3-3,2-2,Girona
+Sat Sep 30 2017,La Coruna,2-1,0-0,Getafe
+Sat Sep 30 2017,Leganes,0-0,0-0,Ath Madrid
+Sat Sep 30 2017,Levante,0-2,0-1,Alaves
+Sat Sep 30 2017,Sevilla,2-0,0-0,Malaga
+Sun Oct 1 2017,Barcelona,3-0,0-0,Las Palmas
+Sun Oct 1 2017,Real Madrid,2-0,1-0,Espanol
+Sun Oct 1 2017,Sociedad,4-4,2-2,Betis
+Sun Oct 1 2017,Valencia,3-2,2-0,Ath Bilbao
+Sun Oct 1 2017,Villarreal,3-0,1-0,Eibar
+Fri Oct 13 2017,Espanol,0-0,0-0,Levante
+Sat Oct 14 2017,Alaves,0-2,0-0,Sociedad
+Sat Oct 14 2017,Ath Bilbao,1-0,1-0,Sevilla
+Sat Oct 14 2017,Ath Madrid,1-1,1-0,Barcelona
+Sat Oct 14 2017,Getafe,1-2,0-1,Real Madrid
+Sun Oct 15 2017,Betis,3-6,0-2,Valencia
+Sun Oct 15 2017,Eibar,0-0,0-0,La Coruna
+Sun Oct 15 2017,Girona,1-2,1-2,Villarreal
+Sun Oct 15 2017,Malaga,0-2,0-0,Leganes
+Mon Oct 16 2017,Las Palmas,2-5,0-2,Celta
+Sat Oct 21 2017,Barcelona,2-0,1-0,Malaga
+Sat Oct 21 2017,Betis,2-0,1-0,Alaves
+Sat Oct 21 2017,Levante,1-1,0-0,Getafe
+Sat Oct 21 2017,Valencia,4-0,1-0,Sevilla
+Sun Oct 22 2017,Celta,0-1,0-1,Ath Madrid
+Sun Oct 22 2017,Leganes,1-0,0-0,Ath Bilbao
+Sun Oct 22 2017,Real Madrid,3-0,2-0,Eibar
+Sun Oct 22 2017,Villarreal,4-0,0-0,Las Palmas
+Mon Oct 23 2017,La Coruna,1-2,0-1,Girona
+Mon Oct 23 2017,Sociedad,1-1,0-1,Espanol
+Sat Oct 28 2017,Alaves,1-2,0-1,Valencia
+Sat Oct 28 2017,Ath Bilbao,0-2,0-1,Barcelona
+Sat Oct 28 2017,Ath Madrid,1-1,0-0,Villarreal
+Sat Oct 28 2017,Sevilla,2-1,1-0,Leganes
+Sun Oct 29 2017,Eibar,2-2,0-2,Levante
+Sun Oct 29 2017,Getafe,2-1,0-1,Sociedad
+Sun Oct 29 2017,Girona,2-1,0-1,Real Madrid
+Sun Oct 29 2017,Malaga,2-1,1-0,Celta
+Mon Oct 30 2017,Espanol,1-0,0-0,Betis
+Mon Oct 30 2017,Las Palmas,1-3,1-1,La Coruna
+Fri Nov 3 2017,Betis,2-2,0-2,Getafe
+Sat Nov 4 2017,Alaves,1-0,1-0,Espanol
+Sat Nov 4 2017,Barcelona,2-1,1-0,Sevilla
+Sat Nov 4 2017,La Coruna,0-1,0-0,Ath Madrid
+Sat Nov 4 2017,Valencia,3-0,1-0,Leganes
+Sun Nov 5 2017,Celta,3-1,3-1,Ath Bilbao
+Sun Nov 5 2017,Levante,1-2,0-0,Girona
+Sun Nov 5 2017,Real Madrid,3-0,1-0,Las Palmas
+Sun Nov 5 2017,Sociedad,3-1,2-0,Eibar
+Sun Nov 5 2017,Villarreal,2-0,0-0,Malaga
+Fri Nov 17 2017,Girona,1-1,0-1,Sociedad
+Sat Nov 18 2017,Ath Madrid,0-0,0-0,Real Madrid
+Sat Nov 18 2017,Getafe,4-1,2-0,Alaves
+Sat Nov 18 2017,Leganes,0-3,0-1,Barcelona
+Sat Nov 18 2017,Sevilla,2-1,1-1,Celta
+Sun Nov 19 2017,Ath Bilbao,1-1,0-1,Villarreal
+Sun Nov 19 2017,Espanol,0-2,0-0,Valencia
+Sun Nov 19 2017,Las Palmas,0-2,0-0,Levante
+Sun Nov 19 2017,Malaga,3-2,1-1,La Coruna
+Mon Nov 20 2017,Eibar,5-0,2-0,Betis
+Fri Nov 24 2017,Celta,1-0,1-0,Leganes
+Sat Nov 25 2017,Alaves,1-2,0-1,Eibar
+Sat Nov 25 2017,Betis,2-2,0-1,Girona
+Sat Nov 25 2017,Levante,0-5,0-2,Ath Madrid
+Sat Nov 25 2017,Real Madrid,3-2,2-1,Malaga
+Sun Nov 26 2017,La Coruna,2-2,1-1,Ath Bilbao
+Sun Nov 26 2017,Sociedad,2-2,1-1,Las Palmas
+Sun Nov 26 2017,Valencia,1-1,0-0,Barcelona
+Sun Nov 26 2017,Villarreal,2-3,1-0,Sevilla
+Mon Nov 27 2017,Espanol,1-0,0-0,Getafe
+Fri Dec 1 2017,Malaga,0-0,0-0,Levante
+Sat Dec 2 2017,Ath Bilbao,0-0,0-0,Real Madrid
+Sat Dec 2 2017,Ath Madrid,2-1,0-1,Sociedad
+Sat Dec 2 2017,Barcelona,2-2,1-1,Celta
+Sat Dec 2 2017,Sevilla,2-0,1-0,La Coruna
+Sun Dec 3 2017,Eibar,3-1,2-0,Espanol
+Sun Dec 3 2017,Getafe,1-0,0-0,Valencia
+Sun Dec 3 2017,Las Palmas,1-0,1-0,Betis
+Sun Dec 3 2017,Leganes,3-1,0-0,Villarreal
+Mon Dec 4 2017,Girona,2-3,0-0,Alaves
+Fri Dec 8 2017,Alaves,2-0,1-0,Las Palmas
+Sat Dec 9 2017,Getafe,0-0,0-0,Eibar
+Sat Dec 9 2017,La Coruna,1-0,1-0,Leganes
+Sat Dec 9 2017,Real Madrid,5-0,5-0,Sevilla
+Sat Dec 9 2017,Valencia,2-1,1-0,Celta
+Sun Dec 10 2017,Betis,0-1,0-1,Ath Madrid
+Sun Dec 10 2017,Levante,1-2,0-1,Ath Bilbao
+Sun Dec 10 2017,Sociedad,0-2,0-1,Malaga
+Sun Dec 10 2017,Villarreal,0-2,0-0,Barcelona
+Mon Dec 11 2017,Espanol,0-1,0-1,Girona
+Fri Dec 15 2017,Sevilla,0-0,0-0,Levante
+Sat Dec 16 2017,Ath Bilbao,0-0,0-0,Sociedad
+Sat Dec 16 2017,Ath Madrid,1-0,0-0,Alaves
+Sat Dec 16 2017,Eibar,2-1,0-0,Valencia
+Sun Dec 17 2017,Barcelona,4-0,2-0,La Coruna
+Sun Dec 17 2017,Celta,0-1,0-1,Villarreal
+Sun Dec 17 2017,Girona,1-0,1-0,Getafe
+Sun Dec 17 2017,Las Palmas,2-2,0-2,Espanol
+Mon Dec 18 2017,Malaga,0-2,0-1,Betis
+Tue Dec 19 2017,Levante,0-0,0-0,Leganes
+Wed Dec 20 2017,Getafe,2-0,2-0,Las Palmas
+Wed Dec 20 2017,Sociedad,3-1,1-1,Sevilla
+Thu Dec 21 2017,Alaves,1-0,0-0,Malaga
+Thu Dec 21 2017,Eibar,4-1,2-1,Girona
+Fri Dec 22 2017,Betis,0-2,0-1,Ath Bilbao
+Fri Dec 22 2017,Espanol,1-0,0-0,Ath Madrid
+Sat Dec 23 2017,La Coruna,1-3,0-2,Celta
+Sat Dec 23 2017,Real Madrid,0-3,0-0,Barcelona
+Sat Dec 23 2017,Valencia,0-1,0-1,Villarreal
+Sat Jan 6 2018,Ath Madrid,2-0,1-0,Getafe
+Sat Jan 6 2018,Las Palmas,1-2,1-0,Eibar
+Sat Jan 6 2018,Sevilla,3-5,2-2,Betis
+Sat Jan 6 2018,Valencia,2-1,1-1,Girona
+Sun Jan 7 2018,Ath Bilbao,2-0,1-0,Alaves
+Sun Jan 7 2018,Barcelona,3-0,2-0,Levante
+Sun Jan 7 2018,Celta,2-2,1-2,Real Madrid
+Sun Jan 7 2018,Leganes,1-0,0-0,Sociedad
+Sun Jan 7 2018,Villarreal,1-1,1-0,La Coruna
+Mon Jan 8 2018,Malaga,0-1,0-1,Espanol
+Fri Jan 12 2018,Getafe,1-0,0-0,Malaga
+Sat Jan 13 2018,Eibar,0-1,0-1,Ath Madrid
+Sat Jan 13 2018,Girona,6-0,1-0,Las Palmas
+Sat Jan 13 2018,La Coruna,1-2,0-1,Valencia
+Sat Jan 13 2018,Real Madrid,0-1,0-0,Villarreal
+Sun Jan 14 2018,Alaves,1-0,0-0,Sevilla
+Sun Jan 14 2018,Espanol,1-1,1-1,Ath Bilbao
+Sun Jan 14 2018,Levante,0-1,0-1,Celta
+Sun Jan 14 2018,Sociedad,2-4,2-1,Barcelona
+Mon Jan 15 2018,Betis,3-2,2-1,Leganes
+Fri Jan 19 2018,Getafe,2-2,1-1,Ath Bilbao
+Sat Jan 20 2018,Ath Madrid,1-1,1-0,Girona
+Sat Jan 20 2018,Espanol,0-3,0-2,Sevilla
+Sat Jan 20 2018,Las Palmas,2-1,1-1,Valencia
+Sat Jan 20 2018,Villarreal,2-1,1-0,Levante
+Sun Jan 21 2018,Alaves,2-2,0-0,Leganes
+Sun Jan 21 2018,Betis,0-5,0-0,Barcelona
+Sun Jan 21 2018,Real Madrid,7-1,2-1,La Coruna
+Sun Jan 21 2018,Sociedad,1-2,1-1,Celta
+Mon Jan 22 2018,Eibar,1-1,0-1,Malaga
+Fri Jan 26 2018,Ath Bilbao,1-1,0-0,Eibar
+Sat Jan 27 2018,La Coruna,2-2,2-0,Levante
+Sat Jan 27 2018,Malaga,0-0,0-0,Girona
+Sat Jan 27 2018,Valencia,1-4,0-2,Real Madrid
+Sat Jan 27 2018,Villarreal,4-2,4-1,Sociedad
+Sun Jan 28 2018,Ath Madrid,3-0,0-0,Las Palmas
+Sun Jan 28 2018,Barcelona,2-1,0-1,Alaves
+Sun Jan 28 2018,Leganes,3-2,1-0,Espanol
+Sun Jan 28 2018,Sevilla,1-1,0-0,Getafe
+Mon Jan 29 2018,Celta,3-2,1-0,Betis
+Fri Feb 2 2018,Sociedad,5-0,1-0,La Coruna
+Sat Feb 3 2018,Alaves,2-1,2-0,Celta
+Sat Feb 3 2018,Betis,2-1,1-0,Villarreal
+Sat Feb 3 2018,Eibar,5-1,3-1,Sevilla
+Sat Feb 3 2018,Levante,2-2,1-1,Real Madrid
+Sun Feb 4 2018,Ath Madrid,1-0,0-0,Valencia
+Sun Feb 4 2018,Espanol,1-1,0-0,Barcelona
+Sun Feb 4 2018,Getafe,0-0,0-0,Leganes
+Sun Feb 4 2018,Girona,2-0,1-0,Ath Bilbao
+Mon Feb 5 2018,Las Palmas,1-0,0-0,Malaga
+Fri Feb 9 2018,Ath Bilbao,0-0,0-0,Las Palmas
+Sat Feb 10 2018,Leganes,0-1,0-0,Eibar
+Sat Feb 10 2018,Malaga,0-1,0-1,Ath Madrid
+Sat Feb 10 2018,Real Madrid,5-2,4-0,Sociedad
+Sat Feb 10 2018,Villarreal,1-2,0-1,Alaves
+Sun Feb 11 2018,Barcelona,0-0,0-0,Getafe
+Sun Feb 11 2018,Celta,2-2,1-1,Espanol
+Sun Feb 11 2018,Sevilla,1-0,0-0,Girona
+Sun Feb 11 2018,Valencia,3-1,1-1,Levante
+Mon Feb 12 2018,La Coruna,0-1,0-0,Betis
+Fri Feb 16 2018,Girona,3-0,2-0,Leganes
+Sat Feb 17 2018,Alaves,1-0,0-0,La Coruna
+Sat Feb 17 2018,Eibar,0-2,0-1,Barcelona
+Sat Feb 17 2018,Las Palmas,1-2,0-1,Sevilla
+Sat Feb 17 2018,Malaga,1-2,1-0,Valencia
+Sun Feb 18 2018,Ath Madrid,2-0,0-0,Ath Bilbao
+Sun Feb 18 2018,Betis,3-5,2-1,Real Madrid
+Sun Feb 18 2018,Espanol,1-1,0-1,Villarreal
+Sun Feb 18 2018,Sociedad,3-0,2-0,Levante
+Mon Feb 19 2018,Getafe,3-0,1-0,Celta
+Wed Feb 21 2018,Leganes,1-3,1-2,Real Madrid
+Fri Feb 23 2018,La Coruna,0-0,0-0,Espanol
+Sat Feb 24 2018,Barcelona,6-1,4-1,Girona
+Sat Feb 24 2018,Celta,2-0,0-0,Eibar
+Sat Feb 24 2018,Leganes,0-0,0-0,Las Palmas
+Sat Feb 24 2018,Real Madrid,4-0,1-0,Alaves
+Sun Feb 25 2018,Ath Bilbao,2-1,2-1,Malaga
+Sun Feb 25 2018,Sevilla,2-5,0-2,Ath Madrid
+Sun Feb 25 2018,Valencia,2-1,1-0,Sociedad
+Sun Feb 25 2018,Villarreal,1-0,1-0,Getafe
+Mon Feb 26 2018,Levante,0-2,0-0,Betis
+Tue Feb 27 2018,Espanol,1-0,0-0,Real Madrid
+Tue Feb 27 2018,Girona,1-0,1-0,Celta
+Wed Feb 28 2018,Ath Bilbao,1-1,0-1,Valencia
+Wed Feb 28 2018,Ath Madrid,4-0,2-0,Leganes
+Wed Feb 28 2018,Eibar,1-0,1-0,Villarreal
+Wed Feb 28 2018,Getafe,3-0,2-0,La Coruna
+Wed Feb 28 2018,Malaga,0-1,0-1,Sevilla
+Thu Mar 1 2018,Alaves,1-0,0-0,Levante
+Thu Mar 1 2018,Betis,0-0,0-0,Sociedad
+Thu Mar 1 2018,Las Palmas,1-1,0-1,Barcelona
+Sat Mar 3 2018,La Coruna,1-1,1-1,Eibar
+Sat Mar 3 2018,Leganes,2-0,0-0,Malaga
+Sat Mar 3 2018,Real Madrid,3-1,2-0,Getafe
+Sat Mar 3 2018,Sevilla,2-0,2-0,Ath Bilbao
+Sat Mar 3 2018,Villarreal,0-2,0-1,Girona
+Sun Mar 4 2018,Barcelona,1-0,1-0,Ath Madrid
+Sun Mar 4 2018,Levante,1-1,0-0,Espanol
+Sun Mar 4 2018,Sociedad,2-1,2-1,Alaves
+Sun Mar 4 2018,Valencia,2-0,1-0,Betis
+Mon Mar 5 2018,Celta,2-1,0-0,Las Palmas
+Fri Mar 9 2018,Girona,2-0,1-0,La Coruna
+Sat Mar 10 2018,Eibar,1-2,0-1,Real Madrid
+Sat Mar 10 2018,Getafe,0-1,0-0,Levante
+Sat Mar 10 2018,Malaga,0-2,0-2,Barcelona
+Sat Mar 10 2018,Sevilla,0-2,0-1,Valencia
+Sun Mar 11 2018,Ath Bilbao,2-0,2-0,Leganes
+Sun Mar 11 2018,Ath Madrid,3-0,1-0,Celta
+Sun Mar 11 2018,Espanol,2-1,0-1,Sociedad
+Sun Mar 11 2018,Las Palmas,0-2,0-0,Villarreal
+Mon Mar 12 2018,Alaves,1-3,0-2,Betis
+Fri Mar 16 2018,Levante,2-1,1-0,Eibar
+Sat Mar 17 2018,Betis,3-0,1-0,Espanol
+Sat Mar 17 2018,La Coruna,1-1,1-1,Las Palmas
+Sat Mar 17 2018,Sociedad,1-2,1-1,Getafe
+Sat Mar 17 2018,Valencia,3-1,2-0,Alaves
+Sun Mar 18 2018,Barcelona,2-0,2-0,Ath Bilbao
+Sun Mar 18 2018,Celta,0-0,0-0,Malaga
+Sun Mar 18 2018,Leganes,2-1,1-0,Sevilla
+Sun Mar 18 2018,Real Madrid,6-3,1-1,Girona
+Sun Mar 18 2018,Villarreal,2-1,0-1,Ath Madrid
+Sat Mar 31 2018,Ath Bilbao,1-1,0-0,Celta
+Sat Mar 31 2018,Girona,1-1,0-0,Levante
+Sat Mar 31 2018,Las Palmas,0-3,0-2,Real Madrid
+Sat Mar 31 2018,Sevilla,2-2,1-0,Barcelona
+Sun Apr 1 2018,Ath Madrid,1-0,1-0,La Coruna
+Sun Apr 1 2018,Eibar,0-0,0-0,Sociedad
+Sun Apr 1 2018,Espanol,0-0,0-0,Alaves
+Sun Apr 1 2018,Leganes,0-1,0-0,Valencia
+Sun Apr 1 2018,Malaga,1-0,1-0,Villarreal
+Mon Apr 2 2018,Getafe,0-1,0-0,Betis
+Fri Apr 6 2018,La Coruna,3-2,1-1,Malaga
+Sat Apr 7 2018,Alaves,2-0,0-0,Getafe
+Sat Apr 7 2018,Barcelona,3-1,2-0,Leganes
+Sat Apr 7 2018,Betis,2-0,1-0,Eibar
+Sat Apr 7 2018,Celta,4-0,1-0,Sevilla
+Sun Apr 8 2018,Levante,2-1,1-0,Las Palmas
+Sun Apr 8 2018,Real Madrid,1-1,0-0,Ath Madrid
+Sun Apr 8 2018,Sociedad,5-0,2-0,Girona
+Sun Apr 8 2018,Valencia,1-0,1-0,Espanol
+Mon Apr 9 2018,Villarreal,1-3,0-1,Ath Bilbao
+Fri Apr 13 2018,Girona,0-1,0-1,Betis
+Sat Apr 14 2018,Ath Bilbao,2-3,0-2,La Coruna
+Sat Apr 14 2018,Barcelona,2-1,1-0,Valencia
+Sat Apr 14 2018,Las Palmas,0-1,0-1,Sociedad
+Sat Apr 14 2018,Leganes,1-0,0-0,Celta
+Sat Apr 14 2018,Sevilla,2-2,0-1,Villarreal
+Sun Apr 15 2018,Ath Madrid,3-0,1-0,Levante
+Sun Apr 15 2018,Eibar,0-1,0-1,Alaves
+Sun Apr 15 2018,Getafe,1-0,0-0,Espanol
+Sun Apr 15 2018,Malaga,1-2,0-1,Real Madrid
+Tue Apr 17 2018,Celta,2-2,1-1,Barcelona
+Tue Apr 17 2018,La Coruna,0-0,0-0,Sevilla
+Tue Apr 17 2018,Villarreal,2-1,1-0,Leganes
+Wed Apr 18 2018,Espanol,0-1,0-1,Eibar
+Wed Apr 18 2018,Real Madrid,1-1,0-1,Ath Bilbao
+Wed Apr 18 2018,Valencia,1-2,0-1,Getafe
+Thu Apr 19 2018,Alaves,1-2,0-0,Girona
+Thu Apr 19 2018,Betis,1-0,0-0,Las Palmas
+Thu Apr 19 2018,Levante,1-0,0-0,Malaga
+Thu Apr 19 2018,Sociedad,3-0,1-0,Ath Madrid
+Fri Apr 20 2018,Leganes,0-0,0-0,La Coruna
+Sat Apr 21 2018,Celta,1-1,0-0,Valencia
+Sat Apr 21 2018,Eibar,0-1,0-1,Getafe
+Sun Apr 22 2018,Ath Madrid,0-0,0-0,Betis
+Sun Apr 22 2018,Girona,0-2,0-1,Espanol
+Sun Apr 22 2018,Las Palmas,0-4,0-0,Alaves
+Sun Apr 22 2018,Malaga,2-0,2-0,Sociedad
+Mon Apr 23 2018,Ath Bilbao,1-3,1-2,Levante
+Fri Apr 27 2018,Levante,2-1,1-1,Sevilla
+Sat Apr 28 2018,Espanol,1-1,0-1,Las Palmas
+Sat Apr 28 2018,Real Madrid,2-1,2-0,Leganes
+Sat Apr 28 2018,Sociedad,3-1,2-0,Ath Bilbao
+Sat Apr 28 2018,Villarreal,4-1,3-1,Celta
+Sun Apr 29 2018,Alaves,0-1,0-0,Ath Madrid
+Sun Apr 29 2018,Getafe,1-1,1-1,Girona
+Sun Apr 29 2018,La Coruna,2-4,1-2,Barcelona
+Sun Apr 29 2018,Valencia,0-0,0-0,Eibar
+Mon Apr 30 2018,Betis,2-1,1-1,Malaga
+Fri May 4 2018,Sevilla,1-0,0-0,Sociedad
+Sat May 5 2018,Ath Bilbao,2-0,0-0,Betis
+Sat May 5 2018,Celta,1-1,1-0,La Coruna
+Sat May 5 2018,Girona,1-4,0-2,Eibar
+Sat May 5 2018,Villarreal,1-0,0-0,Valencia
+Sun May 6 2018,Ath Madrid,0-2,0-0,Espanol
+Sun May 6 2018,Barcelona,2-2,1-1,Real Madrid
+Sun May 6 2018,Las Palmas,0-1,0-0,Getafe
+Sun May 6 2018,Malaga,0-3,0-1,Alaves
+Mon May 7 2018,Leganes,0-3,0-0,Levante
+Wed May 9 2018,Barcelona,5-1,3-0,Villarreal
+Wed May 9 2018,Sevilla,3-2,2-0,Real Madrid
+Sat May 12 2018,Alaves,3-1,1-0,Ath Bilbao
+Sat May 12 2018,Betis,2-2,1-0,Sevilla
+Sat May 12 2018,Eibar,1-0,1-0,Las Palmas
+Sat May 12 2018,Getafe,0-1,0-1,Ath Madrid
+Sat May 12 2018,Girona,0-1,0-0,Valencia
+Sat May 12 2018,La Coruna,2-4,0-3,Villarreal
+Sat May 12 2018,Real Madrid,6-0,3-0,Celta
+Sat May 12 2018,Sociedad,3-2,2-1,Leganes
+Sun May 13 2018,Espanol,4-1,3-1,Malaga
+Sun May 13 2018,Levante,5-4,2-1,Barcelona
+Sat May 19 2018,Celta,4-2,2-1,Levante
+Sat May 19 2018,Las Palmas,1-2,1-2,Girona
+Sat May 19 2018,Leganes,3-2,1-1,Betis
+Sat May 19 2018,Malaga,0-1,0-0,Getafe
+Sat May 19 2018,Sevilla,1-0,1-0,Alaves
+Sat May 19 2018,Villarreal,2-2,0-2,Real Madrid
+Sun May 20 2018,Ath Bilbao,0-1,0-1,Espanol
+Sun May 20 2018,Ath Madrid,2-2,1-1,Eibar
+Sun May 20 2018,Barcelona,1-0,0-0,Sociedad
+Sun May 20 2018,Valencia,2-1,1-0,La Coruna

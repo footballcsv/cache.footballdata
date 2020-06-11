@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat May 13 2017,Flamengo RJ,1-1,?,Atletico-MG
+Sat May 13 2017,Corinthians,1-1,?,Chapecoense-SC
+Sun May 14 2017,Fluminense,3-2,?,Santos
+Sun May 14 2017,Avai,0-0,?,Vitoria
+Sun May 14 2017,Bahia,6-2,?,Atletico-PR
+Sun May 14 2017,Cruzeiro,1-0,?,Sao Paulo
+Sun May 14 2017,Palmeiras,4-0,?,Vasco
+Sun May 14 2017,Ponte Preta,4-0,?,Sport Recife
+Sun May 14 2017,Gremio,2-0,?,Botafogo RJ
+Mon May 15 2017,Coritiba,4-1,?,Atletico GO
+Sat May 20 2017,Santos,1-0,?,Coritiba
+Sat May 20 2017,Atletico GO,0-3,?,Flamengo RJ
+Sat May 20 2017,Chapecoense-SC,1-0,?,Palmeiras
+Sun May 21 2017,Vasco,2-1,?,Bahia
+Sun May 21 2017,Atletico-MG,1-2,?,Fluminense
+Sun May 21 2017,Atletico-PR,0-2,?,Gremio
+Sun May 21 2017,Vitoria,0-1,?,Corinthians
+Sun May 21 2017,Botafogo RJ,2-0,?,Ponte Preta
+Sun May 21 2017,Sport Recife,1-1,?,Cruzeiro
+Mon May 22 2017,Sao Paulo,2-0,?,Avai
+Sat May 27 2017,Vasco,3-2,?,Fluminense
+Sat May 27 2017,Sao Paulo,2-0,?,Palmeiras
+Sat May 27 2017,Vitoria,0-1,?,Coritiba
+Sun May 28 2017,Atletico-MG,2-2,?,Ponte Preta
+Sun May 28 2017,Atletico GO,0-1,?,Corinthians
+Sun May 28 2017,Atletico-PR,1-1,?,Flamengo RJ
+Sun May 28 2017,Santos,0-1,?,Cruzeiro
+Sun May 28 2017,Sport Recife,4-3,?,Gremio
+Sun May 28 2017,Botafogo RJ,1-0,?,Bahia
+Mon May 29 2017,Chapecoense-SC,2-0,?,Avai
+Sat Jun 3 2017,Coritiba,1-0,?,Atletico-PR
+Sat Jun 3 2017,Fluminense,2-1,?,Vitoria
+Sat Jun 3 2017,Corinthians,2-0,?,Santos
+Sun Jun 4 2017,Avai,1-0,?,Sport Recife
+Sun Jun 4 2017,Flamengo RJ,0-0,?,Botafogo RJ
+Sun Jun 4 2017,Gremio,2-0,?,Vasco
+Sun Jun 4 2017,Palmeiras,0-0,?,Atletico-MG
+Sun Jun 4 2017,Ponte Preta,1-0,?,Sao Paulo
+Sun Jun 4 2017,Cruzeiro,0-2,?,Chapecoense-SC
+Mon Jun 5 2017,Bahia,3-0,?,Atletico GO
+Tue Jun 6 2017,Fluminense,1-1,?,Atletico-PR
+Wed Jun 7 2017,Atletico-MG,1-0,?,Avai
+Wed Jun 7 2017,Coritiba,1-0,?,Palmeiras
+Wed Jun 7 2017,Santos,1-0,?,Botafogo RJ
+Wed Jun 7 2017,Sport Recife,2-0,?,Flamengo RJ
+Wed Jun 7 2017,Vasco,2-5,?,Corinthians
+Thu Jun 8 2017,Atletico GO,3-0,?,Ponte Preta
+Thu Jun 8 2017,Sao Paulo,2-0,?,Vitoria
+Thu Jun 8 2017,Chapecoense-SC,3-6,?,Gremio
+Thu Jun 8 2017,Bahia,1-0,?,Cruzeiro
+Sat Jun 10 2017,Palmeiras,3-1,?,Fluminense
+Sat Jun 10 2017,Vasco,2-1,?,Sport Recife
+Sun Jun 11 2017,Botafogo RJ,2-2,?,Coritiba
+Sun Jun 11 2017,Avai,1-1,?,Flamengo RJ
+Sun Jun 11 2017,Corinthians,3-2,?,Sao Paulo
+Sun Jun 11 2017,Ponte Preta,3-2,?,Chapecoense-SC
+Sun Jun 11 2017,Vitoria,2-0,?,Atletico-MG
+Sun Jun 11 2017,Cruzeiro,2-0,?,Atletico GO
+Sun Jun 11 2017,Atletico-PR,0-2,?,Santos
+Mon Jun 12 2017,Gremio,1-0,?,Bahia
+Wed Jun 14 2017,Atletico GO,3-1,?,Avai
+Wed Jun 14 2017,Atletico-MG,0-1,?,Atletico-PR
+Wed Jun 14 2017,Sport Recife,0-0,?,Sao Paulo
+Wed Jun 14 2017,Vitoria,2-2,?,Botafogo RJ
+Wed Jun 14 2017,Flamengo RJ,2-0,?,Ponte Preta
+Wed Jun 14 2017,Chapecoense-SC,2-1,?,Vasco
+Wed Jun 14 2017,Corinthians,1-0,?,Cruzeiro
+Wed Jun 14 2017,Santos,1-0,?,Palmeiras
+Thu Jun 15 2017,Coritiba,0-0,?,Bahia
+Thu Jun 15 2017,Fluminense,0-2,?,Gremio
+Sat Jun 17 2017,Atletico GO,0-1,?,Atletico-PR
+Sat Jun 17 2017,Vasco,1-0,?,Avai
+Sat Jun 17 2017,Santos,0-0,?,Ponte Preta
+Sun Jun 18 2017,Coritiba,0-0,?,Corinthians
+Sun Jun 18 2017,Bahia,2-4,?,Palmeiras
+Sun Jun 18 2017,Chapecoense-SC,0-2,?,Botafogo RJ
+Sun Jun 18 2017,Fluminense,2-2,?,Flamengo RJ
+Sun Jun 18 2017,Sao Paulo,1-2,?,Atletico-MG
+Sun Jun 18 2017,Sport Recife,1-3,?,Vitoria
+Mon Jun 19 2017,Cruzeiro,3-3,?,Gremio
+Wed Jun 21 2017,Vitoria,0-2,?,Santos
+Wed Jun 21 2017,Botafogo RJ,3-1,?,Vasco
+Wed Jun 21 2017,Palmeiras,1-0,?,Atletico GO
+Wed Jun 21 2017,Atletico-MG,2-2,?,Sport Recife
+Wed Jun 21 2017,Atletico-PR,1-0,?,Sao Paulo
+Wed Jun 21 2017,Avai,0-3,?,Fluminense
+Thu Jun 22 2017,Corinthians,3-0,?,Bahia
+Thu Jun 22 2017,Ponte Preta,1-0,?,Cruzeiro
+Thu Jun 22 2017,Flamengo RJ,5-1,?,Chapecoense-SC
+Thu Jun 22 2017,Gremio,2-0,?,Coritiba
+Sat Jun 24 2017,Santos,0-1,?,Sport Recife
+Sun Jun 25 2017,Vasco,1-0,?,Atletico GO
+Sun Jun 25 2017,Atletico-PR,4-1,?,Vitoria
+Sun Jun 25 2017,Cruzeiro,2-0,?,Coritiba
+Sun Jun 25 2017,Gremio,0-1,?,Corinthians
+Sun Jun 25 2017,Ponte Preta,1-2,?,Palmeiras
+Sun Jun 25 2017,Sao Paulo,1-1,?,Fluminense
+Sun Jun 25 2017,Bahia,0-1,?,Flamengo RJ
+Sun Jun 25 2017,Chapecoense-SC,0-1,?,Atletico-MG
+Mon Jun 26 2017,Botafogo RJ,0-2,?,Avai
+Sat Jul 1 2017,Palmeiras,1-0,?,Gremio
+Sat Jul 1 2017,Atletico GO,1-1,?,Santos
+Sun Jul 2 2017,Atletico-MG,3-1,?,Cruzeiro
+Sun Jul 2 2017,Corinthians,1-0,?,Botafogo RJ
+Sun Jul 2 2017,Flamengo RJ,2-0,?,Sao Paulo
+Sun Jul 2 2017,Sport Recife,1-0,?,Atletico-PR
+Sun Jul 2 2017,Vitoria,0-0,?,Bahia
+Sun Jul 2 2017,Avai,0-0,?,Ponte Preta
+Sun Jul 2 2017,Coritiba,2-2,?,Vasco
+Mon Jul 3 2017,Fluminense,3-3,?,Chapecoense-SC
+Sat Jul 8 2017,Atletico GO,1-2,?,Vitoria
+Sat Jul 8 2017,Vasco,0-1,?,Flamengo RJ
+Sat Jul 8 2017,Corinthians,2-0,?,Ponte Preta
+Sun Jul 9 2017,Chapecoense-SC,1-1,?,Atletico-PR
+Sun Jul 9 2017,Bahia,1-1,?,Fluminense
+Sun Jul 9 2017,Cruzeiro,3-1,?,Palmeiras
+Sun Jul 9 2017,Gremio,0-2,?,Avai
+Sun Jul 9 2017,Botafogo RJ,1-1,?,Atletico-MG
+Sun Jul 9 2017,Santos,3-2,?,Sao Paulo
+Mon Jul 10 2017,Coritiba,0-3,?,Sport Recife
+Wed Jul 12 2017,Atletico-MG,0-1,?,Santos
+Wed Jul 12 2017,Ponte Preta,0-3,?,Bahia
+Wed Jul 12 2017,Fluminense,0-1,?,Botafogo RJ
+Wed Jul 12 2017,Atletico-PR,0-2,?,Cruzeiro
+Wed Jul 12 2017,Palmeiras,0-2,?,Corinthians
+Wed Jul 12 2017,Vitoria,1-4,?,Vasco
+Thu Jul 13 2017,Flamengo RJ,0-1,?,Gremio
+Thu Jul 13 2017,Sao Paulo,2-2,?,Atletico GO
+Thu Jul 13 2017,Sport Recife,3-0,?,Chapecoense-SC
+Thu Jul 13 2017,Avai,1-4,?,Coritiba
+Sat Jul 15 2017,Corinthians,2-2,?,Atletico-PR
+Sun Jul 16 2017,Palmeiras,4-2,?,Vitoria
+Sun Jul 16 2017,Atletico GO,1-2,?,Atletico-MG
+Sun Jul 16 2017,Chapecoense-SC,2-0,?,Sao Paulo
+Sun Jul 16 2017,Cruzeiro,1-1,?,Flamengo RJ
+Sun Jul 16 2017,Gremio,3-1,?,Ponte Preta
+Sun Jul 16 2017,Vasco,0-0,?,Santos
+Sun Jul 16 2017,Bahia,1-1,?,Avai
+Sun Jul 16 2017,Coritiba,1-2,?,Fluminense
+Mon Jul 17 2017,Botafogo RJ,2-1,?,Sport Recife
+Wed Jul 19 2017,Santos,1-0,?,Chapecoense-SC
+Wed Jul 19 2017,Vitoria,1-3,?,Gremio
+Wed Jul 19 2017,Avai,0-0,?,Corinthians
+Wed Jul 19 2017,Ponte Preta,4-0,?,Coritiba
+Wed Jul 19 2017,Atletico-MG,0-2,?,Bahia
+Wed Jul 19 2017,Flamengo RJ,2-2,?,Palmeiras
+Wed Jul 19 2017,Sao Paulo,1-0,?,Vasco
+Thu Jul 20 2017,Fluminense,1-1,?,Cruzeiro
+Thu Jul 20 2017,Sport Recife,4-0,?,Atletico GO
+Thu Jul 20 2017,Atletico-PR,0-0,?,Botafogo RJ
+Sat Jul 22 2017,Vitoria,1-2,?,Chapecoense-SC
+Sat Jul 22 2017,Flamengo RJ,2-1,?,Coritiba
+Sun Jul 23 2017,Santos,3-0,?,Bahia
+Sun Jul 23 2017,Avai,1-0,?,Cruzeiro
+Sun Jul 23 2017,Fluminense,0-1,?,Corinthians
+Sun Jul 23 2017,Sport Recife,0-2,?,Palmeiras
+Sun Jul 23 2017,Atletico GO,1-1,?,Botafogo RJ
+Sun Jul 23 2017,Atletico-MG,1-2,?,Vasco
+Sun Jul 23 2017,Atletico-PR,0-2,?,Ponte Preta
+Mon Jul 24 2017,Sao Paulo,1-1,?,Gremio
+Sat Jul 29 2017,Botafogo RJ,3-4,?,Sao Paulo
+Sat Jul 29 2017,Palmeiras,2-0,?,Avai
+Sun Jul 30 2017,Chapecoense-SC,1-2,?,Atletico GO
+Sun Jul 30 2017,Bahia,1-3,?,Sport Recife
+Sun Jul 30 2017,Corinthians,1-1,?,Flamengo RJ
+Sun Jul 30 2017,Coritiba,0-2,?,Atletico-MG
+Sun Jul 30 2017,Cruzeiro,0-0,?,Vitoria
+Sun Jul 30 2017,Gremio,1-1,?,Santos
+Mon Jul 31 2017,Vasco,0-1,?,Atletico-PR
+Wed Aug 2 2017,Chapecoense-SC,1-1,?,Bahia
+Wed Aug 2 2017,Sport Recife,2-2,?,Fluminense
+Wed Aug 2 2017,Atletico-MG,0-2,?,Corinthians
+Wed Aug 2 2017,Vitoria,3-1,?,Ponte Preta
+Wed Aug 2 2017,Atletico GO,0-1,?,Gremio
+Wed Aug 2 2017,Botafogo RJ,1-2,?,Palmeiras
+Wed Aug 2 2017,Santos,3-2,?,Flamengo RJ
+Thu Aug 3 2017,Atletico-PR,5-0,?,Avai
+Thu Aug 3 2017,Sao Paulo,1-2,?,Coritiba
+Thu Aug 3 2017,Vasco,0-3,?,Cruzeiro
+Sat Aug 5 2017,Corinthians,3-1,?,Sport Recife
+Sat Aug 5 2017,Fluminense,3-1,?,Atletico GO
+Sun Aug 6 2017,Flamengo RJ,0-2,?,Vitoria
+Sun Aug 6 2017,Bahia,2-1,?,Sao Paulo
+Sun Aug 6 2017,Coritiba,2-0,?,Chapecoense-SC
+Sun Aug 6 2017,Cruzeiro,0-0,?,Botafogo RJ
+Sun Aug 6 2017,Gremio,2-0,?,Atletico-MG
+Sun Aug 6 2017,Palmeiras,0-1,?,Atletico-PR
+Sun Aug 6 2017,Avai,0-0,?,Santos
+Sun Aug 6 2017,Ponte Preta,0-0,?,Vasco
+Wed Aug 9 2017,Ponte Preta,0-0,?,Fluminense
+Sat Aug 12 2017,Atletico GO,1-0,?,Coritiba
+Sat Aug 12 2017,Vitoria,0-1,?,Avai
+Sun Aug 13 2017,Sao Paulo,3-2,?,Cruzeiro
+Sun Aug 13 2017,Atletico-MG,2-0,?,Flamengo RJ
+Sun Aug 13 2017,Sport Recife,0-0,?,Ponte Preta
+Sun Aug 13 2017,Vasco,1-1,?,Palmeiras
+Sun Aug 13 2017,Atletico-PR,4-1,?,Bahia
+Sun Aug 13 2017,Botafogo RJ,1-0,?,Gremio
+Mon Aug 14 2017,Santos,0-0,?,Fluminense
+Sat Aug 19 2017,Corinthians,0-1,?,Vitoria
+Sat Aug 19 2017,Flamengo RJ,2-0,?,Atletico GO
+Sun Aug 20 2017,Gremio,0-0,?,Atletico-PR
+Sun Aug 20 2017,Avai,1-1,?,Sao Paulo
+Sun Aug 20 2017,Bahia,3-0,?,Vasco
+Sun Aug 20 2017,Cruzeiro,2-0,?,Sport Recife
+Sun Aug 20 2017,Ponte Preta,2-1,?,Botafogo RJ
+Sun Aug 20 2017,Coritiba,0-0,?,Santos
+Sun Aug 20 2017,Palmeiras,0-2,?,Chapecoense-SC
+Mon Aug 21 2017,Fluminense,2-1,?,Atletico-MG
+Wed Aug 23 2017,Chapecoense-SC,0-1,?,Corinthians
+Sat Aug 26 2017,Fluminense,0-1,?,Vasco
+Sat Aug 26 2017,Corinthians,0-1,?,Atletico GO
+Sun Aug 27 2017,Bahia,1-2,?,Botafogo RJ
+Sun Aug 27 2017,Flamengo RJ,2-0,?,Atletico-PR
+Sun Aug 27 2017,Palmeiras,4-2,?,Sao Paulo
+Sun Aug 27 2017,Ponte Preta,1-2,?,Atletico-MG
+Sun Aug 27 2017,Avai,1-0,?,Chapecoense-SC
+Sun Aug 27 2017,Cruzeiro,1-1,?,Santos
+Mon Aug 28 2017,Coritiba,0-1,?,Vitoria
+Sat Sep 2 2017,Gremio,5-0,?,Sport Recife
+Sat Sep 9 2017,Atletico-MG,1-1,?,Palmeiras
+Sat Sep 9 2017,Vasco,1-0,?,Gremio
+Sat Sep 9 2017,Sao Paulo,2-2,?,Ponte Preta
+Sun Sep 10 2017,Atletico-PR,1-1,?,Coritiba
+Sun Sep 10 2017,Santos,2-0,?,Corinthians
+Sun Sep 10 2017,Sport Recife,0-1,?,Avai
+Sun Sep 10 2017,Vitoria,2-2,?,Fluminense
+Sun Sep 10 2017,Botafogo RJ,2-0,?,Flamengo RJ
+Sun Sep 10 2017,Chapecoense-SC,1-2,?,Cruzeiro
+Mon Sep 11 2017,Atletico GO,1-1,?,Bahia
+Sat Sep 16 2017,Botafogo RJ,2-0,?,Santos
+Sat Sep 16 2017,Ponte Preta,1-3,?,Atletico GO
+Sun Sep 17 2017,Avai,1-1,?,Atletico-MG
+Sun Sep 17 2017,Atletico-PR,3-1,?,Fluminense
+Sun Sep 17 2017,Corinthians,1-0,?,Vasco
+Sun Sep 17 2017,Flamengo RJ,2-0,?,Sport Recife
+Sun Sep 17 2017,Gremio,0-1,?,Chapecoense-SC
+Sun Sep 17 2017,Vitoria,1-2,?,Sao Paulo
+Sun Sep 17 2017,Cruzeiro,1-0,?,Bahia
+Mon Sep 18 2017,Palmeiras,1-0,?,Coritiba
+Sat Sep 23 2017,Flamengo RJ,1-1,?,Avai
+Sat Sep 23 2017,Santos,1-0,?,Atletico-PR
+Sun Sep 24 2017,Sao Paulo,1-1,?,Corinthians
+Sun Sep 24 2017,Atletico GO,1-2,?,Cruzeiro
+Sun Sep 24 2017,Chapecoense-SC,1-0,?,Ponte Preta
+Sun Sep 24 2017,Coritiba,2-3,?,Botafogo RJ
+Sun Sep 24 2017,Fluminense,0-1,?,Palmeiras
+Sun Sep 24 2017,Atletico-MG,1-3,?,Vitoria
+Sun Sep 24 2017,Bahia,1-0,?,Gremio
+Mon Sep 25 2017,Sport Recife,1-1,?,Vasco
+Sat Sep 30 2017,Bahia,1-1,?,Coritiba
+Sat Sep 30 2017,Vasco,1-1,?,Chapecoense-SC
+Sat Sep 30 2017,Palmeiras,0-1,?,Santos
+Sun Oct 1 2017,Avai,0-2,?,Atletico GO
+Sun Oct 1 2017,Botafogo RJ,2-3,?,Vitoria
+Sun Oct 1 2017,Cruzeiro,1-1,?,Corinthians
+Sun Oct 1 2017,Gremio,1-0,?,Fluminense
+Sun Oct 1 2017,Sao Paulo,1-0,?,Sport Recife
+Sun Oct 1 2017,Atletico-PR,0-2,?,Atletico-MG
+Mon Oct 2 2017,Ponte Preta,1-0,?,Flamengo RJ
+Sat Oct 7 2017,Cruzeiro,2-1,?,Ponte Preta
+Wed Oct 11 2017,Atletico-PR,2-2,?,Atletico GO
+Wed Oct 11 2017,Botafogo RJ,2-1,?,Chapecoense-SC
+Wed Oct 11 2017,Corinthians,3-1,?,Coritiba
+Wed Oct 11 2017,Atletico-MG,1-0,?,Sao Paulo
+Wed Oct 11 2017,Avai,1-2,?,Vasco
+Wed Oct 11 2017,Gremio,0-1,?,Cruzeiro
+Thu Oct 12 2017,Flamengo RJ,1-1,?,Fluminense
+Thu Oct 12 2017,Ponte Preta,1-1,?,Santos
+Thu Oct 12 2017,Vitoria,1-2,?,Sport Recife
+Thu Oct 12 2017,Palmeiras,2-2,?,Bahia
+Sat Oct 14 2017,Vasco,1-0,?,Botafogo RJ
+Sat Oct 14 2017,Sao Paulo,2-1,?,Atletico-PR
+Sun Oct 15 2017,Atletico GO,1-3,?,Palmeiras
+Sun Oct 15 2017,Chapecoense-SC,0-1,?,Flamengo RJ
+Sun Oct 15 2017,Fluminense,1-0,?,Avai
+Sun Oct 15 2017,Sport Recife,1-1,?,Atletico-MG
+Sun Oct 15 2017,Bahia,2-0,?,Corinthians
+Sun Oct 15 2017,Coritiba,0-1,?,Gremio
+Mon Oct 16 2017,Santos,2-2,?,Vitoria
+Wed Oct 18 2017,Atletico GO,0-1,?,Vasco
+Wed Oct 18 2017,Coritiba,1-0,?,Cruzeiro
+Wed Oct 18 2017,Atletico-MG,2-3,?,Chapecoense-SC
+Wed Oct 18 2017,Avai,1-1,?,Botafogo RJ
+Wed Oct 18 2017,Corinthians,0-0,?,Gremio
+Wed Oct 18 2017,Fluminense,3-1,?,Sao Paulo
+Thu Oct 19 2017,Palmeiras,2-0,?,Ponte Preta
+Thu Oct 19 2017,Vitoria,2-3,?,Atletico-PR
+Thu Oct 19 2017,Flamengo RJ,4-1,?,Bahia
+Thu Oct 19 2017,Sport Recife,1-1,?,Santos
+Sat Oct 21 2017,Vasco,1-1,?,Coritiba
+Sun Oct 22 2017,Atletico-PR,2-1,?,Sport Recife
+Sun Oct 22 2017,Bahia,2-1,?,Vitoria
+Sun Oct 22 2017,Cruzeiro,1-3,?,Atletico-MG
+Sun Oct 22 2017,Gremio,1-3,?,Palmeiras
+Sun Oct 22 2017,Santos,1-0,?,Atletico GO
+Sun Oct 22 2017,Sao Paulo,2-0,?,Flamengo RJ
+Sun Oct 22 2017,Chapecoense-SC,2-0,?,Fluminense
+Sun Oct 22 2017,Ponte Preta,1-2,?,Avai
+Mon Oct 23 2017,Botafogo RJ,2-1,?,Corinthians
+Sat Oct 28 2017,Sao Paulo,2-1,?,Santos
+Sat Oct 28 2017,Flamengo RJ,0-0,?,Vasco
+Sat Oct 28 2017,Atletico-PR,0-0,?,Chapecoense-SC
+Sun Oct 29 2017,Atletico-MG,0-0,?,Botafogo RJ
+Sun Oct 29 2017,Fluminense,1-1,?,Bahia
+Sun Oct 29 2017,Ponte Preta,1-0,?,Corinthians
+Sun Oct 29 2017,Sport Recife,3-4,?,Coritiba
+Sun Oct 29 2017,Vitoria,1-1,?,Atletico GO
+Sun Oct 29 2017,Avai,2-2,?,Gremio
+Mon Oct 30 2017,Palmeiras,2-2,?,Cruzeiro
+Sat Nov 4 2017,Santos,3-1,?,Atletico-MG
+Sat Nov 4 2017,Atletico GO,0-1,?,Sao Paulo
+Sat Nov 4 2017,Botafogo RJ,1-2,?,Fluminense
+Sat Nov 4 2017,Coritiba,4-0,?,Avai
+Sun Nov 5 2017,Corinthians,3-2,?,Palmeiras
+Sun Nov 5 2017,Cruzeiro,1-0,?,Atletico-PR
+Sun Nov 5 2017,Gremio,3-1,?,Flamengo RJ
+Sun Nov 5 2017,Bahia,2-0,?,Ponte Preta
+Sun Nov 5 2017,Chapecoense-SC,1-1,?,Sport Recife
+Sun Nov 5 2017,Vasco,1-1,?,Vitoria
+Wed Nov 8 2017,Avai,1-2,?,Bahia
+Wed Nov 8 2017,Ponte Preta,0-1,?,Gremio
+Wed Nov 8 2017,Atletico-PR,0-1,?,Corinthians
+Wed Nov 8 2017,Sport Recife,1-2,?,Botafogo RJ
+Wed Nov 8 2017,Flamengo RJ,2-0,?,Cruzeiro
+Wed Nov 8 2017,Santos,1-2,?,Vasco
+Wed Nov 8 2017,Vitoria,3-1,?,Palmeiras
+Thu Nov 9 2017,Atletico-MG,3-2,?,Atletico GO
+Thu Nov 9 2017,Sao Paulo,2-2,?,Chapecoense-SC
+Thu Nov 9 2017,Fluminense,2-2,?,Coritiba
+Sat Nov 11 2017,Botafogo RJ,0-1,?,Atletico-PR
+Sat Nov 11 2017,Corinthians,1-0,?,Avai
+Sun Nov 12 2017,Atletico GO,2-0,?,Sport Recife
+Sun Nov 12 2017,Gremio,1-1,?,Vitoria
+Sun Nov 12 2017,Palmeiras,2-0,?,Flamengo RJ
+Sun Nov 12 2017,Vasco,1-1,?,Sao Paulo
+Sun Nov 12 2017,Bahia,2-2,?,Atletico-MG
+Sun Nov 12 2017,Coritiba,1-1,?,Ponte Preta
+Sun Nov 12 2017,Cruzeiro,3-1,?,Fluminense
+Mon Nov 13 2017,Chapecoense-SC,2-0,?,Santos
+Wed Nov 15 2017,Ponte Preta,2-1,?,Atletico-PR
+Wed Nov 15 2017,Cruzeiro,2-2,?,Avai
+Wed Nov 15 2017,Gremio,1-0,?,Sao Paulo
+Wed Nov 15 2017,Corinthians,3-1,?,Fluminense
+Wed Nov 15 2017,Vasco,1-1,?,Atletico-MG
+Thu Nov 16 2017,Botafogo RJ,1-2,?,Atletico GO
+Thu Nov 16 2017,Chapecoense-SC,2-1,?,Vitoria
+Thu Nov 16 2017,Palmeiras,5-1,?,Sport Recife
+Thu Nov 16 2017,Bahia,3-1,?,Santos
+Thu Nov 16 2017,Coritiba,1-0,?,Flamengo RJ
+Sun Nov 19 2017,Atletico GO,1-1,?,Chapecoense-SC
+Sun Nov 19 2017,Flamengo RJ,3-0,?,Corinthians
+Sun Nov 19 2017,Sao Paulo,0-0,?,Botafogo RJ
+Sun Nov 19 2017,Sport Recife,1-0,?,Bahia
+Sun Nov 19 2017,Vitoria,1-1,?,Cruzeiro
+Sun Nov 19 2017,Atletico-MG,3-0,?,Coritiba
+Sun Nov 19 2017,Atletico-PR,3-1,?,Vasco
+Sun Nov 19 2017,Santos,1-0,?,Gremio
+Mon Nov 20 2017,Fluminense,2-0,?,Ponte Preta
+Mon Nov 20 2017,Avai,2-1,?,Palmeiras
+Sat Nov 25 2017,Fluminense,1-2,?,Sport Recife
+Sun Nov 26 2017,Avai,1-0,?,Atletico-PR
+Sun Nov 26 2017,Corinthians,2-2,?,Atletico-MG
+Sun Nov 26 2017,Coritiba,1-2,?,Sao Paulo
+Sun Nov 26 2017,Cruzeiro,0-1,?,Vasco
+Sun Nov 26 2017,Gremio,1-1,?,Atletico GO
+Sun Nov 26 2017,Ponte Preta,2-3,?,Vitoria
+Sun Nov 26 2017,Bahia,0-1,?,Chapecoense-SC
+Sun Nov 26 2017,Flamengo RJ,1-2,?,Santos
+Mon Nov 27 2017,Palmeiras,2-0,?,Botafogo RJ
+Sun Dec 3 2017,Atletico GO,1-1,?,Fluminense
+Sun Dec 3 2017,Atletico-MG,4-3,?,Gremio
+Sun Dec 3 2017,Atletico-PR,3-0,?,Palmeiras
+Sun Dec 3 2017,Botafogo RJ,2-2,?,Cruzeiro
+Sun Dec 3 2017,Chapecoense-SC,2-1,?,Coritiba
+Sun Dec 3 2017,Santos,1-1,?,Avai
+Sun Dec 3 2017,Sao Paulo,1-1,?,Bahia
+Sun Dec 3 2017,Sport Recife,1-0,?,Corinthians
+Sun Dec 3 2017,Vasco,2-1,?,Ponte Preta
+Sun Dec 3 2017,Vitoria,1-2,?,Flamengo RJ

@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 20 2010,Bayern Munich,2-1,1-0,Wolfsburg
+Sat Aug 21 2010,FC Koln,1-3,1-0,Kaiserslautern
+Sat Aug 21 2010,Freiburg,1-3,0-0,St Pauli
+Sat Aug 21 2010,Hamburg,2-1,0-0,Schalke 04
+Sat Aug 21 2010,Hannover,2-1,1-1,Ein Frankfurt
+Sat Aug 21 2010,Hoffenheim,4-1,4-1,Werder Bremen
+Sat Aug 21 2010,M'gladbach,1-1,1-1,Nurnberg
+Sun Aug 22 2010,Dortmund,0-2,0-2,Leverkusen
+Sun Aug 22 2010,Mainz,2-0,1-0,Stuttgart
+Fri Aug 27 2010,Kaiserslautern,2-0,2-0,Bayern Munich
+Sat Aug 28 2010,Ein Frankfurt,1-3,1-0,Hamburg
+Sat Aug 28 2010,Nurnberg,1-2,1-1,Freiburg
+Sat Aug 28 2010,Schalke 04,1-2,0-1,Hannover
+Sat Aug 28 2010,St Pauli,0-1,0-0,Hoffenheim
+Sat Aug 28 2010,Werder Bremen,4-2,2-1,FC Koln
+Sat Aug 28 2010,Wolfsburg,3-4,3-1,Mainz
+Sun Aug 29 2010,Leverkusen,3-6,1-3,M'gladbach
+Sun Aug 29 2010,Stuttgart,1-3,0-3,Dortmund
+Fri Sep 10 2010,Hoffenheim,2-0,1-0,Schalke 04
+Sat Sep 11 2010,Bayern Munich,0-0,0-0,Werder Bremen
+Sat Sep 11 2010,Dortmund,2-0,0-0,Wolfsburg
+Sat Sep 11 2010,Freiburg,2-1,0-1,Stuttgart
+Sat Sep 11 2010,Hamburg,1-1,0-0,Nurnberg
+Sat Sep 11 2010,Hannover,2-2,1-0,Leverkusen
+Sat Sep 11 2010,M'gladbach,0-4,0-2,Ein Frankfurt
+Sun Sep 12 2010,FC Koln,1-0,1-0,St Pauli
+Sun Sep 12 2010,Mainz,2-1,0-1,Kaiserslautern
+Fri Sep 17 2010,Ein Frankfurt,0-1,0-0,Freiburg
+Sat Sep 18 2010,Bayern Munich,0-0,0-0,FC Koln
+Sat Sep 18 2010,Kaiserslautern,2-2,0-1,Hoffenheim
+Sat Sep 18 2010,Stuttgart,7-0,2-0,M'gladbach
+Sat Sep 18 2010,Werder Bremen,0-2,0-0,Mainz
+Sat Sep 18 2010,Wolfsburg,2-0,0-0,Hannover
+Sun Sep 19 2010,Leverkusen,0-0,0-0,Nurnberg
+Sun Sep 19 2010,Schalke 04,1-3,0-1,Dortmund
+Sun Sep 19 2010,St Pauli,1-1,0-0,Hamburg
+Tue Sep 21 2010,Hannover,4-1,1-1,Werder Bremen
+Tue Sep 21 2010,Hoffenheim,1-2,1-0,Bayern Munich
+Tue Sep 21 2010,Mainz,2-0,0-0,FC Koln
+Wed Sep 22 2010,Dortmund,5-0,2-0,Kaiserslautern
+Wed Sep 22 2010,Freiburg,1-2,0-1,Schalke 04
+Wed Sep 22 2010,Hamburg,1-3,1-1,Wolfsburg
+Wed Sep 22 2010,Leverkusen,2-1,1-1,Ein Frankfurt
+Wed Sep 22 2010,M'gladbach,1-2,1-0,St Pauli
+Wed Sep 22 2010,Nurnberg,2-1,1-0,Stuttgart
+Fri Sep 24 2010,FC Koln,1-1,1-0,Hoffenheim
+Sat Sep 25 2010,Bayern Munich,1-2,1-1,Mainz
+Sat Sep 25 2010,Ein Frankfurt,2-0,1-0,Nurnberg
+Sat Sep 25 2010,Schalke 04,2-2,0-2,M'gladbach
+Sat Sep 25 2010,St Pauli,1-3,1-1,Dortmund
+Sat Sep 25 2010,Stuttgart,1-4,0-2,Leverkusen
+Sat Sep 25 2010,Werder Bremen,3-2,2-0,Hamburg
+Sun Sep 26 2010,Kaiserslautern,0-1,0-1,Hannover
+Sun Sep 26 2010,Wolfsburg,2-1,1-1,Freiburg
+Fri Oct 1 2010,Hannover,0-1,0-1,St Pauli
+Sat Oct 2 2010,Freiburg,3-2,2-1,FC Koln
+Sat Oct 2 2010,Hamburg,2-1,0-1,Kaiserslautern
+Sat Oct 2 2010,Mainz,4-2,1-1,Hoffenheim
+Sat Oct 2 2010,M'gladbach,1-1,0-1,Wolfsburg
+Sat Oct 2 2010,Nurnberg,2-1,0-0,Schalke 04
+Sun Oct 3 2010,Dortmund,2-0,0-0,Bayern Munich
+Sun Oct 3 2010,Leverkusen,2-2,1-0,Werder Bremen
+Sun Oct 3 2010,Stuttgart,1-2,0-1,Ein Frankfurt
+Fri Oct 15 2010,FC Koln,1-2,0-1,Dortmund
+Sat Oct 16 2010,Bayern Munich,3-0,1-0,Hannover
+Sat Oct 16 2010,Mainz,0-1,0-0,Hamburg
+Sat Oct 16 2010,Schalke 04,2-2,1-1,Stuttgart
+Sat Oct 16 2010,St Pauli,3-2,1-0,Nurnberg
+Sat Oct 16 2010,Werder Bremen,2-1,1-0,Freiburg
+Sat Oct 16 2010,Wolfsburg,2-3,1-0,Leverkusen
+Sun Oct 17 2010,Hoffenheim,3-2,0-1,M'gladbach
+Sun Oct 17 2010,Kaiserslautern,0-3,0-1,Ein Frankfurt
+Fri Oct 22 2010,Hamburg,0-0,0-0,Bayern Munich
+Sat Oct 23 2010,Ein Frankfurt,0-0,0-0,Schalke 04
+Sat Oct 23 2010,Freiburg,2-1,1-1,Kaiserslautern
+Sat Oct 23 2010,Hannover,2-1,2-0,FC Koln
+Sat Oct 23 2010,M'gladbach,1-4,0-2,Werder Bremen
+Sat Oct 23 2010,Nurnberg,2-1,1-1,Wolfsburg
+Sun Oct 24 2010,Dortmund,1-1,0-1,Hoffenheim
+Sun Oct 24 2010,Leverkusen,0-1,0-0,Mainz
+Sun Oct 24 2010,Stuttgart,2-0,1-0,St Pauli
+Fri Oct 29 2010,Bayern Munich,4-2,1-0,Freiburg
+Sat Oct 30 2010,FC Koln,3-2,2-2,Hamburg
+Sat Oct 30 2010,Kaiserslautern,3-0,0-0,M'gladbach
+Sat Oct 30 2010,Schalke 04,0-1,0-0,Leverkusen
+Sat Oct 30 2010,St Pauli,1-3,1-1,Ein Frankfurt
+Sat Oct 30 2010,Werder Bremen,2-3,1-1,Nurnberg
+Sat Oct 30 2010,Wolfsburg,2-0,1-0,Stuttgart
+Sun Oct 31 2010,Hoffenheim,4-0,1-0,Hannover
+Sun Oct 31 2010,Mainz,0-2,0-1,Dortmund
+Fri Nov 5 2010,Schalke 04,3-0,1-0,St Pauli
+Sat Nov 6 2010,Ein Frankfurt,3-1,2-0,Wolfsburg
+Sat Nov 6 2010,Freiburg,1-0,0-0,Mainz
+Sat Nov 6 2010,Hamburg,2-1,1-1,Hoffenheim
+Sat Nov 6 2010,M'gladbach,3-3,1-2,Bayern Munich
+Sat Nov 6 2010,Nurnberg,3-1,2-1,FC Koln
+Sun Nov 7 2010,Hannover,0-4,0-1,Dortmund
+Sun Nov 7 2010,Leverkusen,3-1,1-1,Kaiserslautern
+Sun Nov 7 2010,Stuttgart,6-0,3-0,Werder Bremen
+Fri Nov 12 2010,Dortmund,2-0,0-0,Hamburg
+Sat Nov 13 2010,FC Koln,0-4,0-0,M'gladbach
+Sat Nov 13 2010,Kaiserslautern,3-3,0-2,Stuttgart
+Sat Nov 13 2010,Mainz,0-1,0-1,Hannover
+Sat Nov 13 2010,St Pauli,0-1,0-0,Leverkusen
+Sat Nov 13 2010,Werder Bremen,0-0,0-0,Ein Frankfurt
+Sat Nov 13 2010,Wolfsburg,2-2,2-1,Schalke 04
+Sun Nov 14 2010,Bayern Munich,3-0,1-0,Nurnberg
+Sun Nov 14 2010,Hoffenheim,0-1,0-0,Freiburg
+Sat Nov 20 2010,Ein Frankfurt,0-4,0-1,Hoffenheim
+Sat Nov 20 2010,Freiburg,1-2,1-0,Dortmund
+Sat Nov 20 2010,Hannover,3-2,1-1,Hamburg
+Sat Nov 20 2010,Leverkusen,1-1,1-1,Bayern Munich
+Sat Nov 20 2010,M'gladbach,2-3,0-0,Mainz
+Sat Nov 20 2010,Nurnberg,1-3,0-3,Kaiserslautern
+Sat Nov 20 2010,Schalke 04,4-0,2-0,Werder Bremen
+Sun Nov 21 2010,St Pauli,1-1,1-0,Wolfsburg
+Sun Nov 21 2010,Stuttgart,0-1,0-0,FC Koln
+Fri Nov 26 2010,Mainz,3-0,1-0,Nurnberg
+Sat Nov 27 2010,Bayern Munich,4-1,1-1,Ein Frankfurt
+Sat Nov 27 2010,Dortmund,4-1,1-1,M'gladbach
+Sat Nov 27 2010,Hamburg,4-2,3-1,Stuttgart
+Sat Nov 27 2010,Hannover,3-0,1-0,Freiburg
+Sat Nov 27 2010,Hoffenheim,2-2,1-2,Leverkusen
+Sat Nov 27 2010,Kaiserslautern,5-0,2-0,Schalke 04
+Sun Nov 28 2010,FC Koln,1-1,0-0,Wolfsburg
+Sun Nov 28 2010,Werder Bremen,3-0,2-0,St Pauli
+Fri Dec 3 2010,St Pauli,1-0,0-0,Kaiserslautern
+Sat Dec 4 2010,Ein Frankfurt,2-1,1-1,Mainz
+Sat Dec 4 2010,Freiburg,1-0,1-0,Hamburg
+Sat Dec 4 2010,M'gladbach,1-2,1-0,Hannover
+Sat Dec 4 2010,Schalke 04,2-0,0-0,Bayern Munich
+Sat Dec 4 2010,Stuttgart,1-1,1-1,Hoffenheim
+Sat Dec 4 2010,Wolfsburg,0-0,0-0,Werder Bremen
+Sun Dec 5 2010,Leverkusen,3-2,1-1,FC Koln
+Sun Dec 5 2010,Nurnberg,0-2,0-1,Dortmund
+Fri Dec 10 2010,Hannover,2-1,1-0,Stuttgart
+Sat Dec 11 2010,Bayern Munich,3-0,1-0,St Pauli
+Sat Dec 11 2010,Dortmund,2-0,1-0,Werder Bremen
+Sat Dec 11 2010,FC Koln,1-0,0-0,Ein Frankfurt
+Sat Dec 11 2010,Hamburg,2-4,0-1,Leverkusen
+Sat Dec 11 2010,Hoffenheim,1-1,0-0,Nurnberg
+Sat Dec 11 2010,Kaiserslautern,0-0,0-0,Wolfsburg
+Sun Dec 12 2010,Freiburg,3-0,2-0,M'gladbach
+Sun Dec 12 2010,Mainz,0-1,0-1,Schalke 04
+Fri Dec 17 2010,M'gladbach,1-2,0-0,Hamburg
+Sat Dec 18 2010,Ein Frankfurt,1-0,0-0,Dortmund
+Sat Dec 18 2010,Nurnberg,3-1,2-0,Hannover
+Sat Dec 18 2010,Schalke 04,3-0,1-0,FC Koln
+Sat Dec 18 2010,St Pauli,2-4,1-3,Mainz
+Sat Dec 18 2010,Werder Bremen,1-2,1-1,Kaiserslautern
+Sat Dec 18 2010,Wolfsburg,2-2,0-2,Hoffenheim
+Sun Dec 19 2010,Leverkusen,2-2,1-1,Freiburg
+Sun Dec 19 2010,Stuttgart,3-5,0-3,Bayern Munich
+Fri Jan 14 2011,Leverkusen,1-3,0-0,Dortmund
+Sat Jan 15 2011,Nurnberg,0-1,0-1,M'gladbach
+Sat Jan 15 2011,Schalke 04,0-1,0-0,Hamburg
+Sat Jan 15 2011,St Pauli,2-2,1-0,Freiburg
+Sat Jan 15 2011,Stuttgart,1-0,0-0,Mainz
+Sat Jan 15 2011,Werder Bremen,2-1,1-0,Hoffenheim
+Sat Jan 15 2011,Wolfsburg,1-1,0-1,Bayern Munich
+Sun Jan 16 2011,Ein Frankfurt,0-3,0-2,Hannover
+Sun Jan 16 2011,Kaiserslautern,1-1,0-1,FC Koln
+Fri Jan 21 2011,Hamburg,1-0,0-0,Ein Frankfurt
+Sat Jan 22 2011,Bayern Munich,5-1,1-0,Kaiserslautern
+Sat Jan 22 2011,Dortmund,1-1,1-0,Stuttgart
+Sat Jan 22 2011,FC Koln,3-0,2-0,Werder Bremen
+Sat Jan 22 2011,Freiburg,1-1,1-0,Nurnberg
+Sat Jan 22 2011,Hannover,0-1,0-1,Schalke 04
+Sat Jan 22 2011,Mainz,0-1,0-0,Wolfsburg
+Sun Jan 23 2011,Hoffenheim,2-2,1-0,St Pauli
+Sun Jan 23 2011,M'gladbach,1-3,0-2,Leverkusen
+Fri Jan 28 2011,Leverkusen,2-0,2-0,Hannover
+Sat Jan 29 2011,Kaiserslautern,0-1,0-1,Mainz
+Sat Jan 29 2011,Nurnberg,2-0,0-0,Hamburg
+Sat Jan 29 2011,Schalke 04,0-1,0-1,Hoffenheim
+Sat Jan 29 2011,St Pauli,3-0,2-0,FC Koln
+Sat Jan 29 2011,Werder Bremen,1-3,0-0,Bayern Munich
+Sat Jan 29 2011,Wolfsburg,0-3,0-2,Dortmund
+Sun Jan 30 2011,Ein Frankfurt,0-1,0-0,M'gladbach
+Sun Jan 30 2011,Stuttgart,0-1,0-1,Freiburg
+Fri Feb 4 2011,Dortmund,0-0,0-0,Schalke 04
+Sat Feb 5 2011,FC Koln,3-2,0-2,Bayern Munich
+Sat Feb 5 2011,Hannover,1-0,1-0,Wolfsburg
+Sat Feb 5 2011,Hoffenheim,3-2,2-0,Kaiserslautern
+Sat Feb 5 2011,Mainz,1-1,1-0,Werder Bremen
+Sat Feb 5 2011,M'gladbach,2-3,2-0,Stuttgart
+Sat Feb 5 2011,Nurnberg,1-0,0-0,Leverkusen
+Sun Feb 6 2011,Freiburg,0-0,0-0,Ein Frankfurt
+Sat Feb 12 2011,Bayern Munich,4-0,2-0,Hoffenheim
+Sat Feb 12 2011,Ein Frankfurt,0-3,0-2,Leverkusen
+Sat Feb 12 2011,Kaiserslautern,1-1,0-0,Dortmund
+Sat Feb 12 2011,Schalke 04,1-0,0-0,Freiburg
+Sat Feb 12 2011,St Pauli,3-1,1-1,M'gladbach
+Sat Feb 12 2011,Stuttgart,1-4,1-2,Nurnberg
+Sat Feb 12 2011,Wolfsburg,0-1,0-1,Hamburg
+Sun Feb 13 2011,FC Koln,4-2,2-1,Mainz
+Sun Feb 13 2011,Werder Bremen,1-1,0-1,Hannover
+Wed Feb 16 2011,Hamburg,0-1,0-0,St Pauli
+Fri Feb 18 2011,Nurnberg,3-0,0-0,Ein Frankfurt
+Sat Feb 19 2011,Dortmund,2-0,1-0,St Pauli
+Sat Feb 19 2011,Freiburg,2-1,1-1,Wolfsburg
+Sat Feb 19 2011,Hamburg,4-0,1-0,Werder Bremen
+Sat Feb 19 2011,Hannover,3-0,2-0,Kaiserslautern
+Sat Feb 19 2011,Hoffenheim,1-1,0-0,FC Koln
+Sat Feb 19 2011,Mainz,1-3,0-1,Bayern Munich
+Sun Feb 20 2011,Leverkusen,4-2,2-1,Stuttgart
+Sun Feb 20 2011,M'gladbach,2-1,2-1,Schalke 04
+Fri Feb 25 2011,Wolfsburg,2-1,2-0,M'gladbach
+Sat Feb 26 2011,Bayern Munich,1-3,1-2,Dortmund
+Sat Feb 26 2011,FC Koln,1-0,0-0,Freiburg
+Sat Feb 26 2011,Hoffenheim,1-2,0-1,Mainz
+Sat Feb 26 2011,Kaiserslautern,1-1,1-0,Hamburg
+Sat Feb 26 2011,Schalke 04,1-1,0-1,Nurnberg
+Sat Feb 26 2011,St Pauli,0-1,0-0,Hannover
+Sun Feb 27 2011,Ein Frankfurt,0-2,0-0,Stuttgart
+Sun Feb 27 2011,Werder Bremen,2-2,0-1,Leverkusen
+Fri Mar 4 2011,Dortmund,1-0,1-0,FC Koln
+Sat Mar 5 2011,Ein Frankfurt,0-0,0-0,Kaiserslautern
+Sat Mar 5 2011,Hannover,3-1,1-0,Bayern Munich
+Sat Mar 5 2011,Leverkusen,3-0,3-0,Wolfsburg
+Sat Mar 5 2011,M'gladbach,2-0,0-0,Hoffenheim
+Sat Mar 5 2011,Nurnberg,5-0,3-0,St Pauli
+Sat Mar 5 2011,Stuttgart,1-0,1-0,Schalke 04
+Sun Mar 6 2011,Freiburg,1-3,0-1,Werder Bremen
+Sun Mar 6 2011,Hamburg,2-4,1-0,Mainz
+Fri Mar 11 2011,FC Koln,4-0,1-0,Hannover
+Sat Mar 12 2011,Bayern Munich,6-0,1-0,Hamburg
+Sat Mar 12 2011,Hoffenheim,1-0,0-0,Dortmund
+Sat Mar 12 2011,Kaiserslautern,2-1,1-1,Freiburg
+Sat Mar 12 2011,Schalke 04,2-1,1-0,Ein Frankfurt
+Sat Mar 12 2011,Werder Bremen,1-1,1-0,M'gladbach
+Sat Mar 12 2011,Wolfsburg,1-2,1-1,Nurnberg
+Sun Mar 13 2011,Mainz,0-1,0-0,Leverkusen
+Sun Mar 13 2011,St Pauli,1-2,1-1,Stuttgart
+Fri Mar 18 2011,M'gladbach,0-1,0-0,Kaiserslautern
+Sat Mar 19 2011,Dortmund,1-1,1-0,Mainz
+Sat Mar 19 2011,Ein Frankfurt,2-1,1-1,St Pauli
+Sat Mar 19 2011,Freiburg,1-2,1-1,Bayern Munich
+Sat Mar 19 2011,Hamburg,6-2,4-0,FC Koln
+Sat Mar 19 2011,Hannover,2-0,1-0,Hoffenheim
+Sat Mar 19 2011,Nurnberg,1-3,1-1,Werder Bremen
+Sun Mar 20 2011,Leverkusen,2-0,2-0,Schalke 04
+Sun Mar 20 2011,Stuttgart,1-1,0-1,Wolfsburg
+Fri Apr 1 2011,St Pauli,0-2,0-1,Schalke 04
+Sat Apr 2 2011,Bayern Munich,1-0,0-0,M'gladbach
+Sat Apr 2 2011,Dortmund,4-1,0-0,Hannover
+Sat Apr 2 2011,Hoffenheim,0-0,0-0,Hamburg
+Sat Apr 2 2011,Kaiserslautern,0-1,0-0,Leverkusen
+Sat Apr 2 2011,Mainz,1-1,0-1,Freiburg
+Sat Apr 2 2011,Werder Bremen,1-1,1-1,Stuttgart
+Sun Apr 3 2011,FC Koln,1-0,0-0,Nurnberg
+Sun Apr 3 2011,Wolfsburg,1-1,0-0,Ein Frankfurt
+Fri Apr 8 2011,Ein Frankfurt,1-1,0-0,Werder Bremen
+Sat Apr 9 2011,Freiburg,3-2,1-2,Hoffenheim
+Sat Apr 9 2011,Hamburg,1-1,1-0,Dortmund
+Sat Apr 9 2011,Hannover,2-0,1-0,Mainz
+Sat Apr 9 2011,Nurnberg,1-1,0-1,Bayern Munich
+Sat Apr 9 2011,Schalke 04,1-0,0-0,Wolfsburg
+Sat Apr 9 2011,Stuttgart,2-4,2-1,Kaiserslautern
+Sun Apr 10 2011,Leverkusen,2-1,0-0,St Pauli
+Sun Apr 10 2011,M'gladbach,5-1,3-0,FC Koln
+Fri Apr 15 2011,Mainz,1-0,0-0,M'gladbach
+Sat Apr 16 2011,FC Koln,1-3,0-0,Stuttgart
+Sat Apr 16 2011,Hamburg,0-0,0-0,Hannover
+Sat Apr 16 2011,Hoffenheim,1-0,0-0,Ein Frankfurt
+Sat Apr 16 2011,Kaiserslautern,0-2,0-1,Nurnberg
+Sat Apr 16 2011,Werder Bremen,1-1,0-0,Schalke 04
+Sat Apr 16 2011,Wolfsburg,2-2,1-0,St Pauli
+Sun Apr 17 2011,Bayern Munich,5-1,4-0,Leverkusen
+Sun Apr 17 2011,Dortmund,3-0,2-0,Freiburg
+Thu Apr 21 2011,Freiburg,1-3,0-2,Hannover
+Sat Apr 23 2011,Ein Frankfurt,1-1,0-0,Bayern Munich
+Sat Apr 23 2011,Leverkusen,2-1,1-1,Hoffenheim
+Sat Apr 23 2011,M'gladbach,1-0,1-0,Dortmund
+Sat Apr 23 2011,Schalke 04,0-1,0-1,Kaiserslautern
+Sat Apr 23 2011,St Pauli,1-3,1-0,Werder Bremen
+Sat Apr 23 2011,Stuttgart,3-0,1-0,Hamburg
+Sun Apr 24 2011,Nurnberg,0-0,0-0,Mainz
+Sun Apr 24 2011,Wolfsburg,4-1,2-1,FC Koln
+Fri Apr 29 2011,Kaiserslautern,2-0,1-0,St Pauli
+Fri Apr 29 2011,Werder Bremen,0-1,0-1,Wolfsburg
+Sat Apr 30 2011,Bayern Munich,4-1,3-1,Schalke 04
+Sat Apr 30 2011,Dortmund,2-0,2-0,Nurnberg
+Sat Apr 30 2011,FC Koln,2-0,0-0,Leverkusen
+Sat Apr 30 2011,Hamburg,0-2,0-1,Freiburg
+Sat Apr 30 2011,Hannover,0-1,0-0,M'gladbach
+Sat Apr 30 2011,Hoffenheim,1-2,1-0,Stuttgart
+Sat Apr 30 2011,Mainz,3-0,3-0,Ein Frankfurt
+Sat May 7 2011,Ein Frankfurt,0-2,0-1,FC Koln
+Sat May 7 2011,Leverkusen,1-1,0-1,Hamburg
+Sat May 7 2011,M'gladbach,2-0,0-0,Freiburg
+Sat May 7 2011,Nurnberg,1-2,1-1,Hoffenheim
+Sat May 7 2011,Schalke 04,1-3,0-0,Mainz
+Sat May 7 2011,St Pauli,1-8,0-2,Bayern Munich
+Sat May 7 2011,Stuttgart,2-1,0-0,Hannover
+Sat May 7 2011,Werder Bremen,2-0,1-0,Dortmund
+Sat May 7 2011,Wolfsburg,1-2,1-2,Kaiserslautern
+Sat May 14 2011,Bayern Munich,2-1,1-1,Stuttgart
+Sat May 14 2011,Dortmund,3-1,0-0,Ein Frankfurt
+Sat May 14 2011,FC Koln,2-1,1-0,Schalke 04
+Sat May 14 2011,Freiburg,0-1,0-1,Leverkusen
+Sat May 14 2011,Hamburg,1-1,0-1,M'gladbach
+Sat May 14 2011,Hannover,3-1,1-1,Nurnberg
+Sat May 14 2011,Hoffenheim,1-3,0-0,Wolfsburg
+Sat May 14 2011,Kaiserslautern,3-2,3-1,Werder Bremen
+Sat May 14 2011,Mainz,2-1,0-1,St Pauli

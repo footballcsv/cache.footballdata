@@ -1,0 +1,181 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 9 2014,Cowdenbeath,2-2,1-0,Falkirk
+Sat Aug 9 2014,Hibernian,2-1,2-0,Livingston
+Sat Aug 9 2014,Queen of Sth,2-0,2-0,Alloa
+Sat Aug 9 2014,Raith Rvs,3-1,0-0,Dumbarton
+Sun Aug 10 2014,Rangers,1-2,0-0,Hearts
+Fri Aug 15 2014,Falkirk,0-2,0-0,Rangers
+Sat Aug 16 2014,Alloa,0-1,0-1,Raith Rvs
+Sat Aug 16 2014,Dumbarton,0-4,0-1,Queen of Sth
+Sat Aug 16 2014,Livingston,2-1,0-0,Cowdenbeath
+Sun Aug 17 2014,Hearts,2-1,0-0,Hibernian
+Sat Aug 23 2014,Cowdenbeath,0-3,0-1,Alloa
+Sat Aug 23 2014,Hibernian,0-1,0-1,Falkirk
+Sat Aug 23 2014,Queen of Sth,1-1,1-0,Livingston
+Sat Aug 23 2014,Raith Rvs,0-4,0-2,Hearts
+Sat Aug 23 2014,Rangers,4-1,2-0,Dumbarton
+Sat Aug 30 2014,Alloa,2-1,0-1,Hibernian
+Sat Aug 30 2014,Cowdenbeath,1-3,0-1,Raith Rvs
+Sat Aug 30 2014,Dumbarton,1-0,0-0,Livingston
+Sat Aug 30 2014,Hearts,4-1,3-0,Falkirk
+Sat Aug 30 2014,Rangers,4-2,1-2,Queen of Sth
+Fri Sep 12 2014,Raith Rvs,0-4,0-3,Rangers
+Sat Sep 13 2014,Dumbarton,0-0,0-0,Hearts
+Sat Sep 13 2014,Falkirk,1-1,0-0,Queen of Sth
+Sat Sep 13 2014,Hibernian,3-2,1-0,Cowdenbeath
+Sat Sep 13 2014,Livingston,4-0,2-0,Alloa
+Sat Sep 20 2014,Alloa,1-1,1-0,Rangers
+Sat Sep 20 2014,Falkirk,1-1,1-0,Dumbarton
+Sat Sep 20 2014,Hearts,5-1,1-1,Cowdenbeath
+Sat Sep 20 2014,Livingston,0-1,0-1,Raith Rvs
+Sat Sep 20 2014,Queen of Sth,1-0,1-0,Hibernian
+Sat Sep 27 2014,Cowdenbeath,2-1,2-0,Queen of Sth
+Sat Sep 27 2014,Dumbarton,3-1,1-0,Alloa
+Sat Sep 27 2014,Raith Rvs,0-0,0-0,Falkirk
+Sun Sep 28 2014,Hearts,5-0,3-0,Livingston
+Mon Sep 29 2014,Rangers,1-3,0-3,Hibernian
+Sat Oct 4 2014,Dumbarton,0-0,0-0,Cowdenbeath
+Sat Oct 4 2014,Falkirk,2-1,1-1,Alloa
+Sat Oct 4 2014,Hibernian,1-1,1-0,Raith Rvs
+Sat Oct 4 2014,Livingston,0-1,0-1,Rangers
+Sat Oct 4 2014,Queen of Sth,0-3,0-2,Hearts
+Fri Oct 10 2014,Raith Rvs,3-4,0-1,Queen of Sth
+Sat Oct 11 2014,Alloa,0-1,0-0,Hearts
+Sat Oct 11 2014,Hibernian,0-0,0-0,Dumbarton
+Sat Oct 18 2014,Alloa,2-3,0-1,Cowdenbeath
+Sat Oct 18 2014,Hearts,5-1,2-0,Dumbarton
+Sat Oct 18 2014,Livingston,0-4,0-1,Hibernian
+Sat Oct 18 2014,Queen of Sth,3-0,2-0,Falkirk
+Sat Oct 18 2014,Rangers,6-1,2-0,Raith Rvs
+Tue Oct 21 2014,Falkirk,0-0,0-0,Livingston
+Sat Oct 25 2014,Dumbarton,0-3,0-1,Rangers
+Sat Oct 25 2014,Falkirk,6-0,4-0,Cowdenbeath
+Sat Oct 25 2014,Livingston,2-2,0-1,Queen of Sth
+Sat Oct 25 2014,Raith Rvs,1-1,1-1,Alloa
+Sun Oct 26 2014,Hibernian,1-1,1-0,Hearts
+Tue Nov 4 2014,Cowdenbeath,0-3,0-1,Rangers
+Sat Nov 8 2014,Alloa,1-0,0-0,Livingston
+Sat Nov 8 2014,Cowdenbeath,1-2,0-2,Hibernian
+Sat Nov 8 2014,Hearts,1-0,1-0,Raith Rvs
+Sat Nov 8 2014,Queen of Sth,3-0,1-0,Dumbarton
+Sat Nov 8 2014,Rangers,4-0,1-0,Falkirk
+Sat Nov 15 2014,Falkirk,1-2,0-2,Hearts
+Sat Nov 15 2014,Hibernian,0-0,0-0,Queen of Sth
+Sat Nov 15 2014,Livingston,1-2,1-0,Dumbarton
+Sat Nov 15 2014,Raith Rvs,2-1,0-1,Cowdenbeath
+Sat Nov 15 2014,Rangers,1-1,0-0,Alloa
+Sat Nov 22 2014,Alloa,2-3,1-2,Falkirk
+Sat Nov 22 2014,Cowdenbeath,1-0,0-0,Livingston
+Sat Nov 22 2014,Dumbarton,3-6,0-3,Hibernian
+Sat Nov 22 2014,Hearts,2-0,0-0,Rangers
+Sat Nov 22 2014,Queen of Sth,2-0,1-0,Raith Rvs
+Sat Dec 6 2014,Alloa,0-1,0-1,Dumbarton
+Sat Dec 6 2014,Falkirk,1-0,0-0,Hibernian
+Sat Dec 6 2014,Hearts,4-1,1-0,Queen of Sth
+Sat Dec 6 2014,Raith Rvs,1-5,1-3,Livingston
+Sat Dec 6 2014,Rangers,1-0,0-0,Cowdenbeath
+Fri Dec 12 2014,Queen of Sth,2-0,1-0,Rangers
+Sat Dec 13 2014,Dumbarton,2-1,1-0,Raith Rvs
+Sat Dec 13 2014,Hibernian,2-0,1-0,Alloa
+Sat Dec 13 2014,Livingston,0-1,0-1,Falkirk
+Sat Dec 20 2014,Dumbarton,0-3,0-1,Falkirk
+Sat Dec 20 2014,Hearts,2-0,2-0,Alloa
+Sat Dec 20 2014,Queen of Sth,1-2,0-1,Cowdenbeath
+Sat Dec 20 2014,Raith Rvs,1-3,1-1,Hibernian
+Sat Dec 20 2014,Rangers,2-0,1-0,Livingston
+Tue Dec 23 2014,Cowdenbeath,0-2,0-1,Hearts
+Sat Dec 27 2014,Alloa,1-1,0-1,Queen of Sth
+Sat Dec 27 2014,Cowdenbeath,1-3,0-1,Dumbarton
+Sat Dec 27 2014,Falkirk,0-1,0-0,Raith Rvs
+Sat Dec 27 2014,Hibernian,4-0,2-0,Rangers
+Sat Dec 27 2014,Livingston,0-1,0-1,Hearts
+Sat Jan 3 2015,Cowdenbeath,0-1,0-0,Raith Rvs
+Sat Jan 3 2015,Falkirk,1-0,1-0,Alloa
+Sat Jan 3 2015,Hearts,1-1,1-1,Hibernian
+Sat Jan 3 2015,Queen of Sth,3-1,1-1,Livingston
+Sat Jan 3 2015,Rangers,3-1,2-1,Dumbarton
+Sat Jan 10 2015,Alloa,0-1,0-1,Rangers
+Sat Jan 10 2015,Dumbarton,1-5,0-2,Hearts
+Sat Jan 10 2015,Hibernian,3-3,3-1,Falkirk
+Sat Jan 10 2015,Livingston,1-1,1-1,Cowdenbeath
+Sat Jan 17 2015,Falkirk,1-1,1-0,Queen of Sth
+Sat Jan 17 2015,Hibernian,5-0,2-0,Cowdenbeath
+Sat Jan 17 2015,Raith Rvs,2-1,2-0,Dumbarton
+Sat Jan 24 2015,Alloa,0-0,0-0,Raith Rvs
+Sat Jan 24 2015,Dumbarton,1-5,0-1,Livingston
+Sat Jan 24 2015,Hearts,2-3,1-1,Falkirk
+Sat Jan 24 2015,Queen of Sth,0-2,0-0,Hibernian
+Sat Jan 31 2015,Alloa,1-4,0-2,Hearts
+Sat Jan 31 2015,Cowdenbeath,0-5,0-1,Queen of Sth
+Sat Jan 31 2015,Falkirk,3-3,2-1,Dumbarton
+Sat Jan 31 2015,Hibernian,1-1,0-0,Raith Rvs
+Tue Feb 3 2015,Livingston,0-0,0-0,Alloa
+Sat Feb 7 2015,Livingston,2-3,0-1,Hearts
+Fri Feb 13 2015,Rangers,0-2,0-1,Hibernian
+Sat Feb 14 2015,Dumbarton,1-2,1-0,Cowdenbeath
+Sat Feb 14 2015,Hearts,1-0,1-0,Livingston
+Sat Feb 14 2015,Queen of Sth,1-0,0-0,Alloa
+Sat Feb 14 2015,Raith Rvs,2-2,0-1,Falkirk
+Fri Feb 20 2015,Raith Rvs,1-2,0-1,Rangers
+Sat Feb 21 2015,Cowdenbeath,0-2,0-0,Alloa
+Sat Feb 21 2015,Falkirk,2-0,2-0,Livingston
+Sat Feb 21 2015,Hibernian,3-0,2-0,Dumbarton
+Sat Feb 21 2015,Queen of Sth,1-2,1-1,Hearts
+Fri Feb 27 2015,Falkirk,1-1,1-1,Rangers
+Sat Feb 28 2015,Alloa,0-1,0-1,Hibernian
+Sat Feb 28 2015,Dumbarton,0-0,0-0,Queen of Sth
+Sat Feb 28 2015,Hearts,10-0,5-0,Cowdenbeath
+Sat Feb 28 2015,Livingston,0-2,0-2,Raith Rvs
+Sat Mar 7 2015,Cowdenbeath,0-0,0-0,Rangers
+Sat Mar 7 2015,Dumbarton,1-0,1-0,Alloa
+Tue Mar 10 2015,Rangers,1-1,0-0,Queen of Sth
+Wed Mar 11 2015,Hibernian,2-1,1-0,Livingston
+Sat Mar 14 2015,Alloa,1-3,0-1,Falkirk
+Sat Mar 14 2015,Cowdenbeath,0-2,0-2,Hibernian
+Sat Mar 14 2015,Hearts,4-0,0-0,Dumbarton
+Sat Mar 14 2015,Queen of Sth,2-1,2-1,Raith Rvs
+Sat Mar 14 2015,Rangers,1-1,1-1,Livingston
+Tue Mar 17 2015,Raith Rvs,1-3,1-1,Hearts
+Tue Mar 17 2015,Rangers,2-2,0-0,Alloa
+Sat Mar 21 2015,Falkirk,0-3,0-1,Hearts
+Sat Mar 21 2015,Livingston,1-2,1-0,Dumbarton
+Sat Mar 21 2015,Queen of Sth,4-1,1-0,Cowdenbeath
+Sat Mar 21 2015,Raith Rvs,2-1,1-1,Alloa
+Sun Mar 22 2015,Hibernian,0-2,0-1,Rangers
+Tue Mar 24 2015,Cowdenbeath,0-1,0-0,Falkirk
+Tue Mar 24 2015,Raith Rvs,3-0,1-0,Queen of Sth
+Sat Mar 28 2015,Alloa,2-2,0-0,Livingston
+Sat Mar 28 2015,Dumbarton,1-0,0-0,Falkirk
+Sat Mar 28 2015,Hearts,2-0,1-0,Queen of Sth
+Sat Mar 28 2015,Raith Rvs,2-1,0-0,Hibernian
+Sat Mar 28 2015,Rangers,4-1,0-0,Cowdenbeath
+Tue Mar 31 2015,Falkirk,1-0,1-0,Cowdenbeath
+Sat Apr 4 2015,Cowdenbeath,3-0,1-0,Dumbarton
+Sat Apr 4 2015,Falkirk,1-0,0-0,Raith Rvs
+Sat Apr 4 2015,Hibernian,0-1,0-0,Queen of Sth
+Sun Apr 5 2015,Rangers,2-1,2-0,Hearts
+Wed Apr 8 2015,Dumbarton,1-2,0-1,Hibernian
+Wed Apr 8 2015,Hearts,3-0,1-0,Alloa
+Wed Apr 8 2015,Livingston,2-1,1-1,Falkirk
+Wed Apr 8 2015,Raith Rvs,1-3,0-1,Cowdenbeath
+Thu Apr 9 2015,Queen of Sth,3-0,1-0,Rangers
+Sat Apr 11 2015,Alloa,3-0,2-0,Dumbarton
+Sat Apr 11 2015,Cowdenbeath,1-2,0-0,Livingston
+Sun Apr 12 2015,Hibernian,2-0,1-0,Hearts
+Sun Apr 12 2015,Queen of Sth,1-0,1-0,Falkirk
+Sun Apr 12 2015,Rangers,4-0,2-0,Raith Rvs
+Wed Apr 15 2015,Livingston,1-1,0-0,Rangers
+Sat Apr 18 2015,Alloa,2-2,1-0,Queen of Sth
+Sat Apr 18 2015,Dumbarton,1-3,1-1,Rangers
+Sat Apr 18 2015,Hearts,2-1,1-0,Raith Rvs
+Wed Apr 22 2015,Livingston,1-3,1-2,Hibernian
+Sat Apr 25 2015,Cowdenbeath,1-2,1-1,Hearts
+Sat Apr 25 2015,Hibernian,4-1,2-0,Alloa
+Sat Apr 25 2015,Queen of Sth,2-1,0-0,Dumbarton
+Sat Apr 25 2015,Raith Rvs,0-4,0-1,Livingston
+Sat Apr 25 2015,Rangers,2-2,0-0,Falkirk
+Sat May 2 2015,Alloa,3-0,1-0,Cowdenbeath
+Sat May 2 2015,Dumbarton,2-2,1-0,Raith Rvs
+Sat May 2 2015,Falkirk,0-3,0-2,Hibernian
+Sat May 2 2015,Hearts,2-2,0-2,Rangers
+Sat May 2 2015,Livingston,1-0,0-0,Queen of Sth

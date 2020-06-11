@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat May 9 2015,Chapecoense-SC,2-1,?,Coritiba
+Sat May 9 2015,Palmeiras,2-2,?,Atletico-MG
+Sat May 9 2015,Fluminense,1-0,?,Joinville
+Sun May 10 2015,Gremio,3-3,?,Ponte Preta
+Sun May 10 2015,Atletico-PR,3-0,?,Internacional
+Sun May 10 2015,Cruzeiro,0-1,?,Corinthians
+Sun May 10 2015,Sao Paulo,2-1,?,Flamengo RJ
+Sun May 10 2015,Sport Recife,4-1,?,Figueirense
+Sun May 10 2015,Avai,1-1,?,Santos
+Sun May 10 2015,Vasco,0-0,?,Goias
+Sat May 16 2015,Coritiba,2-0,?,Gremio
+Sat May 16 2015,Goias,2-0,?,Atletico-PR
+Sat May 16 2015,Corinthians,1-0,?,Chapecoense-SC
+Sun May 17 2015,Figueirense,0-0,?,Vasco
+Sun May 17 2015,Atletico-MG,4-1,?,Fluminense
+Sun May 17 2015,Flamengo RJ,2-2,?,Sport Recife
+Sun May 17 2015,Santos,1-0,?,Cruzeiro
+Sun May 17 2015,Internacional,1-0,?,Avai
+Sun May 17 2015,Joinville,0-0,?,Palmeiras
+Sun May 17 2015,Ponte Preta,1-0,?,Sao Paulo
+Sat May 23 2015,Sao Paulo,3-0,?,Joinville
+Sat May 23 2015,Vasco,1-1,?,Internacional
+Sat May 23 2015,Gremio,1-0,?,Figueirense
+Sun May 24 2015,Palmeiras,0-1,?,Goias
+Sun May 24 2015,Atletico-PR,1-0,?,Atletico-MG
+Sun May 24 2015,Avai,2-1,?,Flamengo RJ
+Sun May 24 2015,Chapecoense-SC,1-0,?,Santos
+Sun May 24 2015,Fluminense,0-0,?,Corinthians
+Sun May 24 2015,Cruzeiro,1-1,?,Ponte Preta
+Sun May 24 2015,Sport Recife,1-0,?,Coritiba
+Sat May 30 2015,Coritiba,1-2,?,Avai
+Sat May 30 2015,Ponte Preta,3-1,?,Chapecoense-SC
+Sat May 30 2015,Joinville,1-2,?,Atletico-PR
+Sun May 31 2015,Santos,2-2,?,Sport Recife
+Sun May 31 2015,Atletico-MG,3-0,?,Vasco
+Sun May 31 2015,Corinthians,0-2,?,Palmeiras
+Sun May 31 2015,Goias,1-1,?,Gremio
+Sun May 31 2015,Internacional,0-0,?,Sao Paulo
+Sun May 31 2015,Figueirense,2-1,?,Cruzeiro
+Sun May 31 2015,Flamengo RJ,2-3,?,Fluminense
+Wed Jun 3 2015,Atletico-PR,1-0,?,Figueirense
+Wed Jun 3 2015,Chapecoense-SC,2-0,?,Joinville
+Wed Jun 3 2015,Vasco,0-3,?,Ponte Preta
+Wed Jun 3 2015,Sao Paulo,3-2,?,Santos
+Wed Jun 3 2015,Avai,1-4,?,Atletico-MG
+Wed Jun 3 2015,Cruzeiro,1-0,?,Flamengo RJ
+Wed Jun 3 2015,Gremio,3-1,?,Corinthians
+Thu Jun 4 2015,Fluminense,2-0,?,Coritiba
+Thu Jun 4 2015,Palmeiras,1-1,?,Internacional
+Thu Jun 4 2015,Sport Recife,1-0,?,Goias
+Sat Jun 6 2015,Atletico-MG,1-3,?,Cruzeiro
+Sat Jun 6 2015,Flamengo RJ,1-0,?,Chapecoense-SC
+Sat Jun 6 2015,Santos,2-2,?,Ponte Preta
+Sat Jun 6 2015,Atletico-PR,2-0,?,Vasco
+Sat Jun 6 2015,Joinville,0-1,?,Corinthians
+Sat Jun 6 2015,Sao Paulo,2-0,?,Gremio
+Sun Jun 7 2015,Internacional,2-0,?,Coritiba
+Sun Jun 7 2015,Figueirense,2-1,?,Palmeiras
+Sun Jun 7 2015,Fluminense,0-0,?,Sport Recife
+Sun Jun 7 2015,Goias,0-1,?,Avai
+Wed Jun 10 2015,Atletico-MG,2-2,?,Santos
+Sat Jun 13 2015,Chapecoense-SC,0-1,?,Sao Paulo
+Sat Jun 13 2015,Corinthians,2-1,?,Internacional
+Sat Jun 13 2015,Coritiba,0-1,?,Flamengo RJ
+Sat Jun 13 2015,Sport Recife,2-1,?,Joinville
+Sat Jun 13 2015,Vasco,1-3,?,Cruzeiro
+Sun Jun 14 2015,Ponte Preta,0-0,?,Goias
+Sun Jun 14 2015,Avai,1-1,?,Figueirense
+Sun Jun 14 2015,Gremio,2-1,?,Atletico-PR
+Sun Jun 14 2015,Palmeiras,2-1,?,Fluminense
+Thu Jun 18 2015,Figueirense,0-0,?,Internacional
+Sat Jun 20 2015,Flamengo RJ,0-2,?,Atletico-MG
+Sat Jun 20 2015,Santos,1-0,?,Corinthians
+Sat Jun 20 2015,Sport Recife,2-1,?,Vasco
+Sat Jun 20 2015,Gremio,1-0,?,Palmeiras
+Sun Jun 21 2015,Cruzeiro,0-1,?,Chapecoense-SC
+Sun Jun 21 2015,Atletico-PR,2-2,?,Coritiba
+Sun Jun 21 2015,Joinville,2-1,?,Goias
+Sun Jun 21 2015,Sao Paulo,1-1,?,Avai
+Wed Jun 24 2015,Fluminense,2-0,?,Ponte Preta
+Sat Jun 27 2015,Avai,1-2,?,Gremio
+Sat Jun 27 2015,Chapecoense-SC,1-1,?,Sport Recife
+Sat Jun 27 2015,Corinthians,2-1,?,Figueirense
+Sun Jun 28 2015,Atletico-MG,1-0,?,Joinville
+Sun Jun 28 2015,Coritiba,1-0,?,Cruzeiro
+Sun Jun 28 2015,Goias,1-2,?,Fluminense
+Sun Jun 28 2015,Palmeiras,4-0,?,Sao Paulo
+Sun Jun 28 2015,Ponte Preta,2-1,?,Atletico-PR
+Sun Jun 28 2015,Internacional,1-0,?,Santos
+Sun Jun 28 2015,Vasco,1-0,?,Flamengo RJ
+Wed Jul 1 2015,Sport Recife,3-0,?,Internacional
+Wed Jul 1 2015,Vasco,1-0,?,Avai
+Wed Jul 1 2015,Atletico-MG,2-0,?,Coritiba
+Wed Jul 1 2015,Palmeiras,2-0,?,Chapecoense-SC
+Wed Jul 1 2015,Atletico-PR,2-1,?,Sao Paulo
+Wed Jul 1 2015,Gremio,1-0,?,Cruzeiro
+Wed Jul 1 2015,Joinville,0-1,?,Flamengo RJ
+Thu Jul 2 2015,Corinthians,2-0,?,Ponte Preta
+Thu Jul 2 2015,Figueirense,3-1,?,Goias
+Thu Jul 2 2015,Fluminense,2-1,?,Santos
+Sat Jul 4 2015,Coritiba,0-0,?,Joinville
+Sat Jul 4 2015,Chapecoense-SC,1-0,?,Vasco
+Sat Jul 4 2015,Cruzeiro,2-0,?,Atletico-PR
+Sun Jul 5 2015,Avai,2-2,?,Sport Recife
+Sun Jul 5 2015,Goias,0-0,?,Corinthians
+Sun Jul 5 2015,Santos,1-3,?,Gremio
+Sun Jul 5 2015,Sao Paulo,0-0,?,Fluminense
+Sun Jul 5 2015,Flamengo RJ,1-2,?,Figueirense
+Sun Jul 5 2015,Internacional,1-3,?,Atletico-MG
+Sun Jul 5 2015,Ponte Preta,0-2,?,Palmeiras
+Wed Jul 8 2015,Chapecoense-SC,1-0,?,Gremio
+Wed Jul 8 2015,Coritiba,0-0,?,Ponte Preta
+Wed Jul 8 2015,Goias,4-1,?,Santos
+Wed Jul 8 2015,Figueirense,0-2,?,Joinville
+Wed Jul 8 2015,Palmeiras,3-0,?,Avai
+Wed Jul 8 2015,Atletico-MG,2-1,?,Sport Recife
+Wed Jul 8 2015,Internacional,1-2,?,Flamengo RJ
+Wed Jul 8 2015,Vasco,0-4,?,Sao Paulo
+Thu Jul 9 2015,Corinthians,2-0,?,Atletico-PR
+Thu Jul 9 2015,Fluminense,1-0,?,Cruzeiro
+Sat Jul 11 2015,Gremio,2-0,?,Vasco
+Sat Jul 11 2015,Santos,3-0,?,Figueirense
+Sat Jul 11 2015,Ponte Preta,0-2,?,Atletico-MG
+Sun Jul 12 2015,Sao Paulo,3-1,?,Coritiba
+Sun Jul 12 2015,Atletico-PR,1-2,?,Fluminense
+Sun Jul 12 2015,Cruzeiro,1-0,?,Goias
+Sun Jul 12 2015,Flamengo RJ,0-3,?,Corinthians
+Sun Jul 12 2015,Joinville,0-2,?,Internacional
+Sun Jul 12 2015,Avai,2-1,?,Chapecoense-SC
+Sun Jul 12 2015,Sport Recife,2-2,?,Palmeiras
+Sat Jul 18 2015,Flamengo RJ,1-0,?,Gremio
+Sat Jul 18 2015,Internacional,2-1,?,Goias
+Sat Jul 18 2015,Corinthians,1-0,?,Atletico-MG
+Sun Jul 19 2015,Atletico-PR,1-0,?,Chapecoense-SC
+Sun Jul 19 2015,Figueirense,0-0,?,Coritiba
+Sun Jul 19 2015,Fluminense,1-2,?,Vasco
+Sun Jul 19 2015,Palmeiras,1-0,?,Santos
+Sun Jul 19 2015,Sport Recife,2-0,?,Sao Paulo
+Sun Jul 19 2015,Cruzeiro,1-1,?,Avai
+Sun Jul 19 2015,Joinville,1-1,?,Ponte Preta
+Sat Jul 25 2015,Avai,1-2,?,Atletico-PR
+Sat Jul 25 2015,Gremio,1-1,?,Sport Recife
+Sat Jul 25 2015,Atletico-MG,1-0,?,Figueirense
+Sun Jul 26 2015,Chapecoense-SC,2-1,?,Fluminense
+Sun Jul 26 2015,Santos,2-0,?,Joinville
+Sun Jul 26 2015,Coritiba,1-1,?,Corinthians
+Sun Jul 26 2015,Goias,0-1,?,Flamengo RJ
+Sun Jul 26 2015,Ponte Preta,0-0,?,Internacional
+Sun Jul 26 2015,Sao Paulo,1-0,?,Cruzeiro
+Sun Jul 26 2015,Vasco,1-4,?,Palmeiras
+Wed Jul 29 2015,Atletico-MG,3-1,?,Sao Paulo
+Wed Jul 29 2015,Corinthians,3-0,?,Vasco
+Sat Aug 1 2015,Fluminense,1-0,?,Gremio
+Sun Aug 2 2015,Coritiba,1-1,?,Goias
+Sun Aug 2 2015,Palmeiras,0-1,?,Atletico-PR
+Sun Aug 2 2015,Figueirense,3-1,?,Ponte Preta
+Sun Aug 2 2015,Flamengo RJ,2-2,?,Santos
+Sun Aug 2 2015,Internacional,0-0,?,Chapecoense-SC
+Sun Aug 2 2015,Joinville,2-0,?,Avai
+Sun Aug 2 2015,Sport Recife,0-0,?,Cruzeiro
+Sat Aug 8 2015,Avai,1-0,?,Fluminense
+Sat Aug 8 2015,Santos,3-0,?,Coritiba
+Sun Aug 9 2015,Atletico-PR,1-1,?,Sport Recife
+Sun Aug 9 2015,Vasco,0-0,?,Joinville
+Sun Aug 9 2015,Cruzeiro,2-1,?,Palmeiras
+Sun Aug 9 2015,Goias,0-0,?,Atletico-MG
+Sun Aug 9 2015,Ponte Preta,1-0,?,Flamengo RJ
+Sun Aug 9 2015,Sao Paulo,1-1,?,Corinthians
+Sun Aug 9 2015,Chapecoense-SC,2-2,?,Figueirense
+Sun Aug 9 2015,Gremio,5-0,?,Internacional
+Wed Aug 12 2015,Coritiba,2-1,?,Palmeiras
+Wed Aug 12 2015,Flamengo RJ,3-2,?,Atletico-PR
+Wed Aug 12 2015,Goias,0-0,?,Chapecoense-SC
+Wed Aug 12 2015,Santos,1-0,?,Vasco
+Wed Aug 12 2015,Corinthians,4-3,?,Sport Recife
+Wed Aug 12 2015,Figueirense,0-2,?,Sao Paulo
+Wed Aug 12 2015,Internacional,1-0,?,Fluminense
+Thu Aug 13 2015,Ponte Preta,2-0,?,Avai
+Thu Aug 13 2015,Atletico-MG,0-2,?,Gremio
+Thu Aug 13 2015,Joinville,3-0,?,Cruzeiro
+Sat Aug 15 2015,Atletico-PR,0-0,?,Santos
+Sat Aug 15 2015,Vasco,0-1,?,Coritiba
+Sat Aug 15 2015,Sao Paulo,0-3,?,Goias
+Sun Aug 16 2015,Palmeiras,4-2,?,Flamengo RJ
+Sun Aug 16 2015,Avai,1-2,?,Corinthians
+Sun Aug 16 2015,Cruzeiro,0-0,?,Internacional
+Sun Aug 16 2015,Fluminense,2-1,?,Figueirense
+Sun Aug 16 2015,Sport Recife,1-1,?,Ponte Preta
+Sun Aug 16 2015,Chapecoense-SC,2-1,?,Atletico-MG
+Sun Aug 16 2015,Gremio,2-1,?,Joinville
+Sat Aug 22 2015,Goias,3-0,?,Vasco
+Sat Aug 22 2015,Santos,5-2,?,Avai
+Sat Aug 22 2015,Figueirense,2-1,?,Sport Recife
+Sun Aug 23 2015,Coritiba,1-0,?,Chapecoense-SC
+Sun Aug 23 2015,Ponte Preta,0-0,?,Gremio
+Sun Aug 23 2015,Corinthians,3-0,?,Cruzeiro
+Sun Aug 23 2015,Flamengo RJ,2-1,?,Sao Paulo
+Sun Aug 23 2015,Internacional,2-0,?,Atletico-PR
+Sun Aug 23 2015,Joinville,2-1,?,Fluminense
+Sun Aug 23 2015,Atletico-MG,2-1,?,Palmeiras
+Sat Aug 29 2015,Vasco,0-1,?,Figueirense
+Sat Aug 29 2015,Sao Paulo,3-0,?,Ponte Preta
+Sun Aug 30 2015,Avai,3-0,?,Internacional
+Sun Aug 30 2015,Gremio,0-0,?,Coritiba
+Sun Aug 30 2015,Chapecoense-SC,1-3,?,Corinthians
+Sun Aug 30 2015,Fluminense,1-2,?,Atletico-MG
+Sun Aug 30 2015,Palmeiras,3-2,?,Joinville
+Sun Aug 30 2015,Sport Recife,0-1,?,Flamengo RJ
+Sun Aug 30 2015,Atletico-PR,3-0,?,Goias
+Sun Aug 30 2015,Cruzeiro,0-1,?,Santos
+Wed Sep 2 2015,Internacional,6-0,?,Vasco
+Wed Sep 2 2015,Joinville,0-0,?,Sao Paulo
+Wed Sep 2 2015,Ponte Preta,1-2,?,Cruzeiro
+Wed Sep 2 2015,Atletico-MG,0-1,?,Atletico-PR
+Wed Sep 2 2015,Flamengo RJ,3-0,?,Avai
+Wed Sep 2 2015,Corinthians,2-0,?,Fluminense
+Wed Sep 2 2015,Coritiba,0-0,?,Sport Recife
+Wed Sep 2 2015,Goias,1-0,?,Palmeiras
+Thu Sep 3 2015,Santos,3-1,?,Chapecoense-SC
+Thu Sep 3 2015,Figueirense,0-2,?,Gremio
+Sat Sep 5 2015,Sao Paulo,2-0,?,Internacional
+Sat Sep 5 2015,Vasco,1-2,?,Atletico-MG
+Sat Sep 5 2015,Atletico-PR,0-0,?,Joinville
+Sun Sep 6 2015,Chapecoense-SC,0-0,?,Ponte Preta
+Sun Sep 6 2015,Cruzeiro,5-1,?,Figueirense
+Sun Sep 6 2015,Avai,0-2,?,Coritiba
+Sun Sep 6 2015,Fluminense,1-3,?,Flamengo RJ
+Sun Sep 6 2015,Gremio,2-1,?,Goias
+Sun Sep 6 2015,Palmeiras,3-3,?,Corinthians
+Sun Sep 6 2015,Sport Recife,1-1,?,Santos
+Wed Sep 9 2015,Atletico-MG,2-0,?,Avai
+Wed Sep 9 2015,Internacional,1-0,?,Palmeiras
+Wed Sep 9 2015,Ponte Preta,0-1,?,Vasco
+Wed Sep 9 2015,Figueirense,1-1,?,Atletico-PR
+Wed Sep 9 2015,Corinthians,1-1,?,Gremio
+Wed Sep 9 2015,Coritiba,1-1,?,Fluminense
+Wed Sep 9 2015,Santos,3-0,?,Sao Paulo
+Thu Sep 10 2015,Goias,1-0,?,Sport Recife
+Thu Sep 10 2015,Flamengo RJ,2-0,?,Cruzeiro
+Thu Sep 10 2015,Joinville,0-0,?,Chapecoense-SC
+Sat Sep 12 2015,Coritiba,0-1,?,Internacional
+Sat Sep 12 2015,Palmeiras,2-0,?,Figueirense
+Sun Sep 13 2015,Corinthians,3-0,?,Joinville
+Sun Sep 13 2015,Ponte Preta,3-1,?,Santos
+Sun Sep 13 2015,Chapecoense-SC,1-3,?,Flamengo RJ
+Sun Sep 13 2015,Cruzeiro,1-1,?,Atletico-MG
+Sun Sep 13 2015,Gremio,1-2,?,Sao Paulo
+Sun Sep 13 2015,Vasco,2-0,?,Atletico-PR
+Sun Sep 13 2015,Avai,2-1,?,Goias
+Sun Sep 13 2015,Sport Recife,1-0,?,Fluminense
+Wed Sep 16 2015,Fluminense,1-4,?,Palmeiras
+Wed Sep 16 2015,Goias,1-2,?,Ponte Preta
+Wed Sep 16 2015,Joinville,1-1,?,Sport Recife
+Wed Sep 16 2015,Atletico-PR,1-2,?,Gremio
+Wed Sep 16 2015,Figueirense,0-1,?,Avai
+Wed Sep 16 2015,Cruzeiro,2-2,?,Vasco
+Wed Sep 16 2015,Internacional,2-1,?,Corinthians
+Wed Sep 16 2015,Santos,4-0,?,Atletico-MG
+Thu Sep 17 2015,Sao Paulo,0-0,?,Chapecoense-SC
+Thu Sep 17 2015,Flamengo RJ,0-2,?,Coritiba
+Sat Sep 19 2015,Internacional,1-1,?,Figueirense
+Sat Sep 19 2015,Palmeiras,3-2,?,Gremio
+Sat Sep 19 2015,Ponte Preta,3-1,?,Fluminense
+Sun Sep 20 2015,Corinthians,2-0,?,Santos
+Sun Sep 20 2015,Goias,3-0,?,Joinville
+Sun Sep 20 2015,Atletico-MG,4-1,?,Flamengo RJ
+Sun Sep 20 2015,Avai,2-1,?,Sao Paulo
+Sun Sep 20 2015,Vasco,2-1,?,Sport Recife
+Sun Sep 20 2015,Chapecoense-SC,0-2,?,Cruzeiro
+Sun Sep 20 2015,Coritiba,2-0,?,Atletico-PR
+Sat Sep 26 2015,Fluminense,2-0,?,Goias
+Sat Sep 26 2015,Gremio,3-1,?,Avai
+Sun Sep 27 2015,Atletico-PR,1-2,?,Ponte Preta
+Sun Sep 27 2015,Santos,3-1,?,Internacional
+Sun Sep 27 2015,Figueirense,1-3,?,Corinthians
+Sun Sep 27 2015,Flamengo RJ,1-2,?,Vasco
+Sun Sep 27 2015,Joinville,2-2,?,Atletico-MG
+Sun Sep 27 2015,Sao Paulo,1-1,?,Palmeiras
+Sun Sep 27 2015,Cruzeiro,2-0,?,Coritiba
+Sun Sep 27 2015,Sport Recife,3-0,?,Chapecoense-SC
+Sat Oct 3 2015,Coritiba,0-3,?,Atletico-MG
+Sat Oct 3 2015,Internacional,2-1,?,Sport Recife
+Sat Oct 3 2015,Sao Paulo,1-0,?,Atletico-PR
+Sun Oct 4 2015,Avai,1-1,?,Vasco
+Sun Oct 4 2015,Flamengo RJ,2-0,?,Joinville
+Sun Oct 4 2015,Cruzeiro,0-0,?,Gremio
+Sun Oct 4 2015,Goias,2-3,?,Figueirense
+Sun Oct 4 2015,Ponte Preta,2-2,?,Corinthians
+Sun Oct 4 2015,Santos,3-1,?,Fluminense
+Sun Oct 4 2015,Chapecoense-SC,5-1,?,Palmeiras
+Wed Oct 14 2015,Atletico-MG,2-1,?,Internacional
+Wed Oct 14 2015,Sport Recife,3-0,?,Avai
+Wed Oct 14 2015,Figueirense,3-0,?,Flamengo RJ
+Wed Oct 14 2015,Joinville,3-1,?,Coritiba
+Wed Oct 14 2015,Palmeiras,0-1,?,Ponte Preta
+Wed Oct 14 2015,Atletico-PR,2-2,?,Cruzeiro
+Wed Oct 14 2015,Fluminense,2-0,?,Sao Paulo
+Thu Oct 15 2015,Corinthians,3-0,?,Goias
+Thu Oct 15 2015,Vasco,1-1,?,Chapecoense-SC
+Thu Oct 15 2015,Gremio,1-0,?,Santos
+Sat Oct 17 2015,Avai,1-3,?,Palmeiras
+Sat Oct 17 2015,Joinville,1-0,?,Figueirense
+Sun Oct 18 2015,Cruzeiro,2-0,?,Fluminense
+Sun Oct 18 2015,Ponte Preta,3-0,?,Coritiba
+Sun Oct 18 2015,Atletico-PR,1-4,?,Corinthians
+Sun Oct 18 2015,Flamengo RJ,0-1,?,Internacional
+Sun Oct 18 2015,Sao Paulo,2-2,?,Vasco
+Sun Oct 18 2015,Gremio,2-3,?,Chapecoense-SC
+Sun Oct 18 2015,Santos,3-1,?,Goias
+Sun Oct 18 2015,Sport Recife,4-1,?,Atletico-MG
+Sat Oct 24 2015,Fluminense,0-1,?,Atletico-PR
+Sat Oct 24 2015,Figueirense,0-0,?,Santos
+Sat Oct 24 2015,Internacional,1-0,?,Joinville
+Sat Oct 24 2015,Palmeiras,0-2,?,Sport Recife
+Sun Oct 25 2015,Chapecoense-SC,0-0,?,Avai
+Sun Oct 25 2015,Corinthians,1-0,?,Flamengo RJ
+Sun Oct 25 2015,Coritiba,1-2,?,Sao Paulo
+Sun Oct 25 2015,Vasco,0-0,?,Gremio
+Sun Oct 25 2015,Goias,0-1,?,Cruzeiro
+Sun Oct 25 2015,Atletico-MG,2-1,?,Ponte Preta
+Sat Oct 31 2015,Sao Paulo,3-0,?,Sport Recife
+Sat Oct 31 2015,Avai,1-1,?,Cruzeiro
+Sat Oct 31 2015,Ponte Preta,1-0,?,Joinville
+Sat Oct 31 2015,Coritiba,1-1,?,Figueirense
+Sun Nov 1 2015,Atletico-MG,0-3,?,Corinthians
+Sun Nov 1 2015,Chapecoense-SC,0-0,?,Atletico-PR
+Sun Nov 1 2015,Gremio,2-0,?,Flamengo RJ
+Sun Nov 1 2015,Santos,2-1,?,Palmeiras
+Sun Nov 1 2015,Vasco,0-1,?,Fluminense
+Sun Nov 1 2015,Goias,2-1,?,Internacional
+Sat Nov 7 2015,Internacional,1-0,?,Ponte Preta
+Sat Nov 7 2015,Atletico-PR,2-1,?,Avai
+Sat Nov 7 2015,Corinthians,2-1,?,Coritiba
+Sat Nov 7 2015,Fluminense,2-3,?,Chapecoense-SC
+Sun Nov 8 2015,Cruzeiro,2-1,?,Sao Paulo
+Sun Nov 8 2015,Figueirense,0-1,?,Atletico-MG
+Sun Nov 8 2015,Flamengo RJ,4-1,?,Goias
+Sun Nov 8 2015,Palmeiras,0-2,?,Vasco
+Sun Nov 8 2015,Joinville,0-0,?,Santos
+Sun Nov 8 2015,Sport Recife,1-0,?,Gremio
+Sun Nov 15 2015,Cruzeiro,3-0,?,Sport Recife
+Wed Nov 18 2015,Goias,1-3,?,Coritiba
+Wed Nov 18 2015,Atletico-PR,3-3,?,Palmeiras
+Wed Nov 18 2015,Avai,2-1,?,Joinville
+Wed Nov 18 2015,Ponte Preta,0-1,?,Figueirense
+Thu Nov 19 2015,Chapecoense-SC,1-0,?,Internacional
+Thu Nov 19 2015,Gremio,1-0,?,Fluminense
+Thu Nov 19 2015,Santos,0-0,?,Flamengo RJ
+Thu Nov 19 2015,Sao Paulo,4-2,?,Atletico-MG
+Thu Nov 19 2015,Vasco,1-1,?,Corinthians
+Sat Nov 21 2015,Palmeiras,1-1,?,Cruzeiro
+Sun Nov 22 2015,Atletico-MG,2-2,?,Goias
+Sun Nov 22 2015,Corinthians,6-1,?,Sao Paulo
+Sun Nov 22 2015,Figueirense,0-0,?,Chapecoense-SC
+Sun Nov 22 2015,Internacional,1-0,?,Gremio
+Sun Nov 22 2015,Joinville,1-2,?,Vasco
+Sun Nov 22 2015,Flamengo RJ,1-1,?,Ponte Preta
+Sun Nov 22 2015,Coritiba,1-0,?,Santos
+Sun Nov 22 2015,Fluminense,3-1,?,Avai
+Sun Nov 22 2015,Sport Recife,0-0,?,Atletico-PR
+Sat Nov 28 2015,Sao Paulo,3-2,?,Figueirense
+Sat Nov 28 2015,Fluminense,1-1,?,Internacional
+Sat Nov 28 2015,Avai,1-0,?,Ponte Preta
+Sun Nov 29 2015,Cruzeiro,3-0,?,Joinville
+Sun Nov 29 2015,Gremio,2-1,?,Atletico-MG
+Sun Nov 29 2015,Sport Recife,2-0,?,Corinthians
+Sun Nov 29 2015,Chapecoense-SC,1-3,?,Goias
+Sun Nov 29 2015,Palmeiras,0-2,?,Coritiba
+Sun Nov 29 2015,Vasco,1-0,?,Santos
+Sun Nov 29 2015,Atletico-PR,3-0,?,Flamengo RJ
+Sun Dec 6 2015,Atletico-MG,3-0,?,Chapecoense-SC
+Sun Dec 6 2015,Corinthians,1-1,?,Avai
+Sun Dec 6 2015,Coritiba,0-0,?,Vasco
+Sun Dec 6 2015,Figueirense,1-0,?,Fluminense
+Sun Dec 6 2015,Flamengo RJ,1-2,?,Palmeiras
+Sun Dec 6 2015,Goias,0-1,?,Sao Paulo
+Sun Dec 6 2015,Internacional,2-0,?,Cruzeiro
+Sun Dec 6 2015,Joinville,0-2,?,Gremio
+Sun Dec 6 2015,Ponte Preta,0-1,?,Sport Recife
+Sun Dec 6 2015,Santos,5-1,?,Atletico-PR

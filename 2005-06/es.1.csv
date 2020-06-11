@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 27 2005,Alaves,0-0,0-0,Barcelona
+Sat Aug 27 2005,Ath Bilbao,3-0,0-0,Sociedad
+Sat Aug 27 2005,Valencia,1-0,0-0,Betis
+Sun Aug 28 2005,Ath Madrid,0-0,0-0,Zaragoza
+Sun Aug 28 2005,Cadiz,1-2,0-1,Real Madrid
+Sun Aug 28 2005,Celta,2-0,1-0,Malaga
+Sun Aug 28 2005,Espanol,0-2,0-0,Getafe
+Sun Aug 28 2005,Mallorca,0-1,0-1,La Coruna
+Sun Aug 28 2005,Osasuna,2-1,1-0,Villarreal
+Sun Aug 28 2005,Sevilla,1-0,1-0,Santander
+Sat Sep 10 2005,Betis,1-0,0-0,Osasuna
+Sat Sep 10 2005,La Coruna,1-0,0-0,Ath Madrid
+Sat Sep 10 2005,Real Madrid,2-3,2-2,Celta
+Sun Sep 11 2005,Barcelona,2-0,2-0,Mallorca
+Sun Sep 11 2005,Getafe,1-1,1-1,Ath Bilbao
+Sun Sep 11 2005,Malaga,1-2,0-0,Espanol
+Sun Sep 11 2005,Santander,0-1,0-0,Cadiz
+Sun Sep 11 2005,Sociedad,2-1,2-0,Alaves
+Sun Sep 11 2005,Villarreal,1-1,0-1,Sevilla
+Sun Sep 11 2005,Zaragoza,2-2,2-1,Valencia
+Sat Sep 17 2005,Mallorca,5-2,1-2,Sociedad
+Sat Sep 17 2005,Valencia,2-2,0-1,La Coruna
+Sun Sep 18 2005,Alaves,3-4,2-3,Getafe
+Sun Sep 18 2005,Ath Bilbao,1-2,0-0,Malaga
+Sun Sep 18 2005,Ath Madrid,2-1,1-1,Barcelona
+Sun Sep 18 2005,Betis,0-0,0-0,Zaragoza
+Sun Sep 18 2005,Cadiz,1-1,1-1,Villarreal
+Sun Sep 18 2005,Celta,0-1,0-0,Santander
+Sun Sep 18 2005,Espanol,1-0,0-0,Real Madrid
+Sun Sep 18 2005,Osasuna,1-0,0-0,Sevilla
+Wed Sep 21 2005,Barcelona,2-2,1-0,Valencia
+Wed Sep 21 2005,Getafe,1-1,1-0,Mallorca
+Wed Sep 21 2005,La Coruna,1-1,1-1,Betis
+Wed Sep 21 2005,Malaga,0-0,0-0,Alaves
+Wed Sep 21 2005,Santander,1-0,0-0,Espanol
+Wed Sep 21 2005,Sevilla,0-0,0-0,Cadiz
+Wed Sep 21 2005,Sociedad,3-2,0-2,Ath Madrid
+Wed Sep 21 2005,Villarreal,1-2,0-1,Celta
+Wed Sep 21 2005,Zaragoza,3-1,0-0,Osasuna
+Thu Sep 22 2005,Real Madrid,3-1,0-1,Ath Bilbao
+Sat Sep 24 2005,Ath Madrid,0-1,0-0,Getafe
+Sat Sep 24 2005,Betis,1-4,1-1,Barcelona
+Sat Sep 24 2005,Espanol,1-2,0-1,Villarreal
+Sat Sep 24 2005,Valencia,2-1,1-0,Sociedad
+Sat Sep 24 2005,Zaragoza,1-1,1-1,La Coruna
+Sun Sep 25 2005,Alaves,0-3,0-0,Real Madrid
+Sun Sep 25 2005,Ath Bilbao,0-0,0-0,Santander
+Sun Sep 25 2005,Celta,2-1,2-0,Sevilla
+Sun Sep 25 2005,Mallorca,1-4,0-2,Malaga
+Sun Sep 25 2005,Osasuna,2-0,1-0,Cadiz
+Sat Oct 1 2005,Barcelona,2-2,0-0,Zaragoza
+Sat Oct 1 2005,Getafe,2-1,1-1,Valencia
+Sun Oct 2 2005,Cadiz,1-1,1-1,Celta
+Sun Oct 2 2005,La Coruna,0-1,0-1,Osasuna
+Sun Oct 2 2005,Malaga,0-2,0-1,Ath Madrid
+Sun Oct 2 2005,Real Madrid,4-0,2-0,Mallorca
+Sun Oct 2 2005,Santander,1-2,0-1,Alaves
+Sun Oct 2 2005,Sevilla,1-1,0-1,Espanol
+Sun Oct 2 2005,Sociedad,1-1,0-1,Betis
+Sun Oct 2 2005,Villarreal,3-1,1-1,Ath Bilbao
+Sat Oct 15 2005,Alaves,1-1,1-1,Villarreal
+Sat Oct 15 2005,Ath Madrid,0-3,0-1,Real Madrid
+Sat Oct 15 2005,La Coruna,3-3,1-2,Barcelona
+Sun Oct 16 2005,Ath Bilbao,0-1,0-1,Sevilla
+Sun Oct 16 2005,Betis,1-0,1-0,Getafe
+Sun Oct 16 2005,Espanol,0-2,0-0,Cadiz
+Sun Oct 16 2005,Mallorca,0-0,0-0,Santander
+Sun Oct 16 2005,Osasuna,2-0,0-0,Celta
+Sun Oct 16 2005,Valencia,2-1,1-0,Malaga
+Sun Oct 16 2005,Zaragoza,0-1,0-1,Sociedad
+Sat Oct 22 2005,Barcelona,3-0,0-0,Osasuna
+Sat Oct 22 2005,Sevilla,2-0,1-0,Alaves
+Sun Oct 23 2005,Cadiz,1-0,1-0,Ath Bilbao
+Sun Oct 23 2005,Celta,1-0,0-0,Espanol
+Sun Oct 23 2005,Getafe,5-2,4-0,Zaragoza
+Sun Oct 23 2005,Malaga,5-0,2-0,Betis
+Sun Oct 23 2005,Real Madrid,1-2,1-2,Valencia
+Sun Oct 23 2005,Santander,0-1,0-1,Ath Madrid
+Sun Oct 23 2005,Sociedad,2-0,0-0,La Coruna
+Sun Oct 23 2005,Villarreal,3-0,3-0,Mallorca
+Wed Oct 26 2005,Barcelona,2-0,0-0,Malaga
+Wed Oct 26 2005,Betis,2-3,1-1,Villarreal
+Wed Oct 26 2005,La Coruna,3-1,2-0,Real Madrid
+Wed Oct 26 2005,Mallorca,1-0,0-0,Celta
+Wed Oct 26 2005,Osasuna,3-2,1-1,Ath Bilbao
+Thu Oct 27 2005,Alaves,1-1,1-1,Espanol
+Thu Oct 27 2005,Ath Madrid,3-0,1-0,Cadiz
+Thu Oct 27 2005,Sociedad,3-0,3-0,Getafe
+Thu Oct 27 2005,Valencia,0-2,0-1,Sevilla
+Thu Oct 27 2005,Zaragoza,1-1,1-0,Santander
+Sat Oct 29 2005,Ath Bilbao,1-1,1-0,Celta
+Sat Oct 29 2005,Betis,0-2,0-1,Real Madrid
+Sun Oct 30 2005,Alaves,0-0,0-0,Cadiz
+Sun Oct 30 2005,Ath Madrid,1-1,1-0,Villarreal
+Sun Oct 30 2005,Barcelona,5-0,2-0,Sociedad
+Sun Oct 30 2005,La Coruna,1-0,1-0,Getafe
+Sun Oct 30 2005,Mallorca,1-1,1-1,Sevilla
+Sun Oct 30 2005,Osasuna,2-0,1-0,Espanol
+Sun Oct 30 2005,Valencia,1-1,1-1,Santander
+Sun Oct 30 2005,Zaragoza,1-1,1-1,Malaga
+Sat Nov 5 2005,Espanol,1-1,0-1,Ath Bilbao
+Sat Nov 5 2005,Sociedad,1-2,1-1,Osasuna
+Sat Nov 5 2005,Villarreal,1-0,1-0,Valencia
+Sun Nov 6 2005,Cadiz,1-2,1-1,Mallorca
+Sun Nov 6 2005,Celta,2-1,1-0,Alaves
+Sun Nov 6 2005,Getafe,1-3,0-1,Barcelona
+Sun Nov 6 2005,Malaga,1-1,0-0,La Coruna
+Sun Nov 6 2005,Real Madrid,1-0,0-0,Zaragoza
+Sun Nov 6 2005,Santander,1-1,0-1,Betis
+Sun Nov 6 2005,Sevilla,0-0,0-0,Ath Madrid
+Sat Nov 19 2005,Getafe,0-0,0-0,Osasuna
+Sat Nov 19 2005,Real Madrid,0-3,0-1,Barcelona
+Sat Nov 19 2005,Sevilla,1-0,0-0,Betis
+Sat Nov 19 2005,Villarreal,0-0,0-0,Zaragoza
+Sun Nov 20 2005,Ath Bilbao,0-2,0-1,Alaves
+Sun Nov 20 2005,Cadiz,0-1,0-0,Valencia
+Sun Nov 20 2005,Celta,2-1,1-0,Ath Madrid
+Sun Nov 20 2005,Espanol,2-0,2-0,Mallorca
+Sun Nov 20 2005,Malaga,3-1,0-0,Sociedad
+Sun Nov 20 2005,Santander,0-3,0-1,La Coruna
+Sat Nov 26 2005,Mallorca,0-1,0-0,Ath Bilbao
+Sat Nov 26 2005,Valencia,2-0,0-0,Celta
+Sun Nov 27 2005,Ath Madrid,1-1,1-1,Espanol
+Sun Nov 27 2005,Barcelona,4-1,1-0,Santander
+Sun Nov 27 2005,Betis,1-1,1-0,Cadiz
+Sun Nov 27 2005,Getafe,3-2,2-1,Malaga
+Sun Nov 27 2005,La Coruna,0-2,0-0,Villarreal
+Sun Nov 27 2005,Osasuna,3-2,0-0,Alaves
+Sun Nov 27 2005,Sociedad,2-2,1-0,Real Madrid
+Sun Nov 27 2005,Zaragoza,0-2,0-0,Sevilla
+Sat Dec 3 2005,Ath Bilbao,1-1,0-1,Ath Madrid
+Sat Dec 3 2005,Celta,2-1,2-0,Betis
+Sat Dec 3 2005,Real Madrid,1-0,1-0,Getafe
+Sun Dec 4 2005,Alaves,0-3,0-1,Mallorca
+Sun Dec 4 2005,Cadiz,1-2,1-0,Zaragoza
+Sun Dec 4 2005,Espanol,1-3,0-2,Valencia
+Sun Dec 4 2005,Malaga,1-2,1-2,Osasuna
+Sun Dec 4 2005,Santander,2-2,0-1,Sociedad
+Sun Dec 4 2005,Sevilla,0-2,0-2,La Coruna
+Sun Dec 4 2005,Villarreal,0-2,0-1,Barcelona
+Sat Dec 10 2005,Sociedad,1-3,1-1,Villarreal
+Sat Dec 10 2005,Valencia,1-1,0-0,Ath Bilbao
+Sun Dec 11 2005,Ath Madrid,1-1,0-0,Alaves
+Sun Dec 11 2005,Barcelona,2-1,0-0,Sevilla
+Sun Dec 11 2005,Betis,0-0,0-0,Espanol
+Sun Dec 11 2005,Getafe,1-2,1-1,Santander
+Sun Dec 11 2005,La Coruna,1-0,0-0,Cadiz
+Sun Dec 11 2005,Malaga,0-2,0-2,Real Madrid
+Sun Dec 11 2005,Osasuna,1-0,1-0,Mallorca
+Sun Dec 11 2005,Zaragoza,1-0,0-0,Celta
+Sat Dec 17 2005,Ath Bilbao,2-0,2-0,Betis
+Sat Dec 17 2005,Cadiz,1-3,0-2,Barcelona
+Sat Dec 17 2005,Celta,0-3,0-3,La Coruna
+Sun Dec 18 2005,Alaves,0-1,0-1,Valencia
+Sun Dec 18 2005,Espanol,2-2,0-0,Zaragoza
+Sun Dec 18 2005,Mallorca,2-2,1-2,Ath Madrid
+Sun Dec 18 2005,Real Madrid,1-1,0-0,Osasuna
+Sun Dec 18 2005,Santander,1-1,1-1,Malaga
+Sun Dec 18 2005,Sevilla,3-2,0-1,Sociedad
+Sun Dec 18 2005,Villarreal,2-1,1-1,Getafe
+Tue Dec 20 2005,Barcelona,2-0,1-0,Celta
+Wed Dec 21 2005,Betis,3-0,1-0,Alaves
+Wed Dec 21 2005,Getafe,1-0,1-0,Sevilla
+Wed Dec 21 2005,La Coruna,1-2,0-0,Espanol
+Wed Dec 21 2005,Malaga,0-0,0-0,Villarreal
+Wed Dec 21 2005,Real Madrid,1-2,0-2,Santander
+Wed Dec 21 2005,Sociedad,2-0,1-0,Cadiz
+Wed Dec 21 2005,Valencia,3-0,0-0,Mallorca
+Wed Dec 21 2005,Zaragoza,3-2,0-1,Ath Bilbao
+Thu Dec 22 2005,Osasuna,2-1,2-1,Ath Madrid
+Sat Jan 7 2006,Ath Bilbao,1-2,0-1,La Coruna
+Sat Jan 7 2006,Espanol,1-2,0-1,Barcelona
+Sun Jan 8 2006,Alaves,0-2,0-0,Zaragoza
+Sun Jan 8 2006,Ath Madrid,0-0,0-0,Valencia
+Sun Jan 8 2006,Cadiz,1-0,1-0,Getafe
+Sun Jan 8 2006,Celta,1-0,1-0,Sociedad
+Sun Jan 8 2006,Mallorca,1-1,1-1,Betis
+Sun Jan 8 2006,Osasuna,1-1,1-1,Santander
+Sun Jan 8 2006,Sevilla,3-1,1-0,Malaga
+Sun Jan 8 2006,Villarreal,0-0,0-0,Real Madrid
+Sat Jan 14 2006,Betis,1-0,1-0,Ath Madrid
+Sat Jan 14 2006,Valencia,2-0,1-0,Osasuna
+Sun Jan 15 2006,Barcelona,2-1,1-1,Ath Bilbao
+Sun Jan 15 2006,Getafe,1-1,1-0,Celta
+Sun Jan 15 2006,La Coruna,0-2,0-1,Alaves
+Sun Jan 15 2006,Malaga,0-2,0-2,Cadiz
+Sun Jan 15 2006,Real Madrid,4-2,1-0,Sevilla
+Sun Jan 15 2006,Santander,1-0,1-0,Villarreal
+Sun Jan 15 2006,Sociedad,0-1,0-0,Espanol
+Sun Jan 15 2006,Zaragoza,3-1,2-0,Mallorca
+Sat Jan 21 2006,Real Madrid,3-1,0-0,Cadiz
+Sat Jan 21 2006,Zaragoza,0-2,0-1,Ath Madrid
+Sun Jan 22 2006,Barcelona,2-0,0-0,Alaves
+Sun Jan 22 2006,Betis,0-2,0-1,Valencia
+Sun Jan 22 2006,Getafe,5-0,2-0,Espanol
+Sun Jan 22 2006,La Coruna,2-2,2-0,Mallorca
+Sun Jan 22 2006,Malaga,0-2,0-0,Celta
+Sun Jan 22 2006,Santander,2-3,1-1,Sevilla
+Sun Jan 22 2006,Sociedad,3-3,2-0,Ath Bilbao
+Sun Jan 22 2006,Villarreal,2-1,0-1,Osasuna
+Sat Jan 28 2006,Ath Bilbao,1-0,0-0,Getafe
+Sat Jan 28 2006,Ath Madrid,3-2,1-0,La Coruna
+Sat Jan 28 2006,Cadiz,1-1,0-0,Santander
+Sun Jan 29 2006,Alaves,3-1,1-0,Sociedad
+Sun Jan 29 2006,Celta,1-2,1-1,Real Madrid
+Sun Jan 29 2006,Espanol,3-1,3-1,Malaga
+Sun Jan 29 2006,Mallorca,0-3,0-1,Barcelona
+Sun Jan 29 2006,Osasuna,0-2,0-1,Betis
+Sun Jan 29 2006,Sevilla,2-0,1-0,Villarreal
+Sun Jan 29 2006,Valencia,2-2,0-1,Zaragoza
+Sat Feb 4 2006,La Coruna,0-1,0-1,Valencia
+Sat Feb 4 2006,Malaga,2-1,1-1,Ath Bilbao
+Sat Feb 4 2006,Real Madrid,4-0,3-0,Espanol
+Sun Feb 5 2006,Barcelona,1-3,0-1,Ath Madrid
+Sun Feb 5 2006,Getafe,2-2,1-1,Alaves
+Sun Feb 5 2006,Santander,0-1,0-0,Celta
+Sun Feb 5 2006,Sevilla,0-1,0-0,Osasuna
+Sun Feb 5 2006,Sociedad,2-1,1-1,Mallorca
+Sun Feb 5 2006,Villarreal,1-1,0-1,Cadiz
+Sun Feb 5 2006,Zaragoza,4-3,4-1,Betis
+Sat Feb 11 2006,Ath Bilbao,0-2,0-1,Real Madrid
+Sat Feb 11 2006,Cadiz,0-4,0-1,Sevilla
+Sat Feb 11 2006,Osasuna,1-1,1-1,Zaragoza
+Sun Feb 12 2006,Alaves,3-2,1-0,Malaga
+Sun Feb 12 2006,Ath Madrid,1-0,0-0,Sociedad
+Sun Feb 12 2006,Betis,0-1,0-0,La Coruna
+Sun Feb 12 2006,Celta,1-0,1-0,Villarreal
+Sun Feb 12 2006,Espanol,0-2,0-0,Santander
+Sun Feb 12 2006,Mallorca,1-1,0-0,Getafe
+Sun Feb 12 2006,Valencia,1-0,1-0,Barcelona
+Sat Feb 18 2006,Barcelona,5-1,3-0,Betis
+Sat Feb 18 2006,Real Madrid,3-0,2-0,Alaves
+Sat Feb 18 2006,Sevilla,1-0,1-0,Celta
+Sat Feb 18 2006,Villarreal,4-0,3-0,Espanol
+Sun Feb 19 2006,Cadiz,1-3,1-2,Osasuna
+Sun Feb 19 2006,Getafe,0-3,0-1,Ath Madrid
+Sun Feb 19 2006,La Coruna,1-1,0-1,Zaragoza
+Sun Feb 19 2006,Malaga,0-2,0-0,Mallorca
+Sun Feb 19 2006,Santander,0-1,0-0,Ath Bilbao
+Sun Feb 19 2006,Sociedad,1-2,1-0,Valencia
+Sat Feb 25 2006,Ath Madrid,5-0,3-0,Malaga
+Sat Feb 25 2006,Zaragoza,0-2,0-0,Barcelona
+Sun Feb 26 2006,Alaves,2-2,2-1,Santander
+Sun Feb 26 2006,Ath Bilbao,1-1,1-1,Villarreal
+Sun Feb 26 2006,Betis,2-0,1-0,Sociedad
+Sun Feb 26 2006,Celta,2-0,1-0,Cadiz
+Sun Feb 26 2006,Espanol,5-0,1-0,Sevilla
+Sun Feb 26 2006,Mallorca,2-1,0-1,Real Madrid
+Sun Feb 26 2006,Osasuna,1-2,1-0,La Coruna
+Sun Feb 26 2006,Valencia,1-1,0-0,Getafe
+Sat Mar 4 2006,Barcelona,3-2,2-2,La Coruna
+Sat Mar 4 2006,Cadiz,2-0,0-0,Espanol
+Sat Mar 4 2006,Real Madrid,2-1,2-1,Ath Madrid
+Sat Mar 4 2006,Villarreal,3-2,1-2,Alaves
+Sun Mar 5 2006,Celta,2-0,1-0,Osasuna
+Sun Mar 5 2006,Getafe,1-0,1-0,Betis
+Sun Mar 5 2006,Malaga,0-0,0-0,Valencia
+Sun Mar 5 2006,Santander,0-0,0-0,Mallorca
+Sun Mar 5 2006,Sevilla,2-1,1-1,Ath Bilbao
+Sun Mar 5 2006,Sociedad,1-3,1-0,Zaragoza
+Sat Mar 11 2006,Espanol,2-0,2-0,Celta
+Sat Mar 11 2006,La Coruna,0-1,0-0,Sociedad
+Sat Mar 11 2006,Valencia,0-0,0-0,Real Madrid
+Sun Mar 12 2006,Alaves,2-1,2-1,Sevilla
+Sun Mar 12 2006,Ath Bilbao,1-0,0-0,Cadiz
+Sun Mar 12 2006,Ath Madrid,2-1,0-0,Santander
+Sun Mar 12 2006,Betis,1-1,1-0,Malaga
+Sun Mar 12 2006,Mallorca,1-1,1-1,Villarreal
+Sun Mar 12 2006,Osasuna,2-1,1-0,Barcelona
+Sun Mar 12 2006,Zaragoza,1-2,1-1,Getafe
+Sat Mar 18 2006,Getafe,1-2,0-1,La Coruna
+Sat Mar 18 2006,Sociedad,0-2,0-1,Barcelona
+Sat Mar 18 2006,Villarreal,1-1,1-0,Ath Madrid
+Sun Mar 19 2006,Cadiz,0-0,0-0,Alaves
+Sun Mar 19 2006,Celta,0-1,0-1,Ath Bilbao
+Sun Mar 19 2006,Espanol,2-4,1-3,Osasuna
+Sun Mar 19 2006,Malaga,0-1,0-0,Zaragoza
+Sun Mar 19 2006,Real Madrid,0-0,0-0,Betis
+Sun Mar 19 2006,Santander,2-1,1-0,Valencia
+Sun Mar 19 2006,Sevilla,1-1,1-0,Mallorca
+Tue Mar 21 2006,Barcelona,3-1,1-1,Getafe
+Wed Mar 22 2006,Alaves,1-0,0-0,Celta
+Wed Mar 22 2006,Ath Bilbao,1-1,0-1,Espanol
+Wed Mar 22 2006,Betis,1-0,1-0,Santander
+Wed Mar 22 2006,La Coruna,2-1,0-1,Malaga
+Wed Mar 22 2006,Mallorca,1-0,1-0,Cadiz
+Wed Mar 22 2006,Osasuna,2-0,1-0,Sociedad
+Wed Mar 22 2006,Valencia,1-1,1-0,Villarreal
+Wed Mar 22 2006,Zaragoza,1-1,0-0,Real Madrid
+Thu Mar 23 2006,Ath Madrid,0-1,0-1,Sevilla
+Sat Mar 25 2006,Ath Bilbao,1-0,0-0,Osasuna
+Sat Mar 25 2006,Malaga,0-0,0-0,Barcelona
+Sat Mar 25 2006,Villarreal,1-2,0-2,Betis
+Sun Mar 26 2006,Cadiz,1-1,0-1,Ath Madrid
+Sun Mar 26 2006,Celta,2-0,2-0,Mallorca
+Sun Mar 26 2006,Espanol,0-0,0-0,Alaves
+Sun Mar 26 2006,Getafe,2-1,1-1,Sociedad
+Sun Mar 26 2006,Real Madrid,4-0,2-0,La Coruna
+Sun Mar 26 2006,Santander,0-0,0-0,Zaragoza
+Sun Mar 26 2006,Sevilla,1-0,0-0,Valencia
+Sat Apr 1 2006,Barcelona,1-1,1-1,Real Madrid
+Sat Apr 1 2006,Sociedad,3-0,1-0,Malaga
+Sat Apr 1 2006,Zaragoza,0-1,0-1,Villarreal
+Sun Apr 2 2006,Alaves,0-0,0-0,Ath Bilbao
+Sun Apr 2 2006,Ath Madrid,0-3,0-0,Celta
+Sun Apr 2 2006,Betis,2-1,2-1,Sevilla
+Sun Apr 2 2006,La Coruna,2-0,1-0,Santander
+Sun Apr 2 2006,Mallorca,0-0,0-0,Espanol
+Sun Apr 2 2006,Osasuna,0-4,0-2,Getafe
+Sun Apr 2 2006,Valencia,5-3,3-1,Cadiz
+Sat Apr 8 2006,Cadiz,1-1,0-0,Betis
+Sat Apr 8 2006,Celta,0-1,0-1,Valencia
+Sat Apr 8 2006,Malaga,1-2,0-1,Getafe
+Sat Apr 8 2006,Real Madrid,1-1,1-0,Sociedad
+Sun Apr 9 2006,Alaves,1-2,0-1,Osasuna
+Sun Apr 9 2006,Ath Bilbao,1-1,1-1,Mallorca
+Sun Apr 9 2006,Espanol,1-1,0-0,Ath Madrid
+Sun Apr 9 2006,Santander,2-2,2-2,Barcelona
+Sun Apr 9 2006,Sevilla,1-1,0-0,Zaragoza
+Sun Apr 9 2006,Villarreal,1-1,0-0,La Coruna
+Fri Apr 14 2006,Barcelona,1-0,1-0,Villarreal
+Sat Apr 15 2006,La Coruna,0-0,0-0,Sevilla
+Sat Apr 15 2006,Mallorca,0-0,0-0,Alaves
+Sat Apr 15 2006,Sociedad,1-0,0-0,Santander
+Sun Apr 16 2006,Ath Madrid,1-0,0-0,Ath Bilbao
+Sun Apr 16 2006,Betis,0-2,0-1,Celta
+Sun Apr 16 2006,Getafe,1-1,0-0,Real Madrid
+Sun Apr 16 2006,Osasuna,1-1,1-0,Malaga
+Sun Apr 16 2006,Valencia,4-0,1-0,Espanol
+Sun Apr 16 2006,Zaragoza,1-2,1-1,Cadiz
+Sat Apr 22 2006,Alaves,0-1,0-1,Ath Madrid
+Sat Apr 22 2006,Celta,4-0,1-0,Zaragoza
+Sat Apr 22 2006,Villarreal,0-2,0-2,Sociedad
+Sun Apr 23 2006,Ath Bilbao,0-3,0-0,Valencia
+Sun Apr 23 2006,Cadiz,1-1,0-1,La Coruna
+Sun Apr 23 2006,Espanol,2-0,1-0,Betis
+Sun Apr 23 2006,Mallorca,0-1,0-0,Osasuna
+Sun Apr 23 2006,Real Madrid,2-1,0-1,Malaga
+Sun Apr 23 2006,Santander,1-3,1-1,Getafe
+Sat Apr 29 2006,Barcelona,1-0,1-0,Cadiz
+Sat Apr 29 2006,Betis,1-1,1-0,Ath Bilbao
+Sat Apr 29 2006,La Coruna,0-2,0-1,Celta
+Sun Apr 30 2006,Ath Madrid,0-1,0-0,Mallorca
+Sun Apr 30 2006,Getafe,1-1,1-1,Villarreal
+Sun Apr 30 2006,Malaga,2-3,2-1,Santander
+Sun Apr 30 2006,Osasuna,0-1,0-0,Real Madrid
+Sun Apr 30 2006,Sociedad,1-2,0-0,Sevilla
+Sun Apr 30 2006,Valencia,3-0,2-0,Alaves
+Sun Apr 30 2006,Zaragoza,1-1,1-0,Espanol
+Wed May 3 2006,Alaves,2-0,1-0,Betis
+Wed May 3 2006,Ath Bilbao,1-0,0-0,Zaragoza
+Wed May 3 2006,Ath Madrid,0-1,0-1,Osasuna
+Wed May 3 2006,Cadiz,2-2,0-1,Sociedad
+Wed May 3 2006,Celta,0-1,0-0,Barcelona
+Wed May 3 2006,Espanol,1-2,1-0,La Coruna
+Wed May 3 2006,Mallorca,2-1,1-1,Valencia
+Wed May 3 2006,Sevilla,3-0,3-0,Getafe
+Wed May 3 2006,Villarreal,2-1,2-1,Malaga
+Thu May 4 2006,Santander,2-3,0-1,Real Madrid
+Sat May 6 2006,Barcelona,2-0,1-0,Espanol
+Sat May 6 2006,Malaga,0-2,0-1,Sevilla
+Sat May 6 2006,Valencia,1-1,1-1,Ath Madrid
+Sun May 7 2006,Betis,2-1,2-0,Mallorca
+Sun May 7 2006,Getafe,3-1,0-1,Cadiz
+Sun May 7 2006,La Coruna,1-2,1-0,Ath Bilbao
+Sun May 7 2006,Real Madrid,3-3,1-2,Villarreal
+Sun May 7 2006,Santander,2-1,0-0,Osasuna
+Sun May 7 2006,Sociedad,2-2,2-1,Celta
+Sun May 7 2006,Zaragoza,3-0,0-0,Alaves
+Sat May 13 2006,Alaves,1-0,0-0,La Coruna
+Sat May 13 2006,Ath Madrid,1-1,1-0,Betis
+Sat May 13 2006,Cadiz,5-0,1-0,Malaga
+Sat May 13 2006,Celta,1-0,1-0,Getafe
+Sat May 13 2006,Espanol,1-0,0-0,Sociedad
+Sat May 13 2006,Mallorca,3-1,1-1,Zaragoza
+Sat May 13 2006,Sevilla,3-2,2-2,Barcelona
+Sat May 13 2006,Villarreal,2-0,1-0,Santander
+Tue May 16 2006,Osasuna,2-1,0-0,Valencia
+Tue May 16 2006,Sevilla,4-3,4-2,Real Madrid
+Sat May 20 2006,Ath Bilbao,3-1,0-1,Barcelona

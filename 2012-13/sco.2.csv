@@ -1,0 +1,181 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 11 2012,Airdrie Utd,4-1,3-0,Dumbarton
+Sat Aug 11 2012,Cowdenbeath,0-4,0-1,Dunfermline
+Sat Aug 11 2012,Morton,2-2,1-2,Livingston
+Sat Aug 11 2012,Partick,3-1,2-0,Falkirk
+Sat Aug 11 2012,Raith Rvs,2-0,0-0,Hamilton
+Sat Aug 18 2012,Dumbarton,0-3,0-2,Cowdenbeath
+Sat Aug 18 2012,Dunfermline,0-1,0-1,Partick
+Sat Aug 18 2012,Falkirk,0-2,0-1,Raith Rvs
+Sat Aug 18 2012,Hamilton,1-1,0-1,Morton
+Sat Aug 18 2012,Livingston,0-2,0-0,Airdrie Utd
+Sat Aug 25 2012,Airdrie Utd,1-2,1-0,Dunfermline
+Sat Aug 25 2012,Cowdenbeath,1-0,1-0,Hamilton
+Sat Aug 25 2012,Morton,1-2,1-2,Falkirk
+Sat Aug 25 2012,Partick,3-0,1-0,Dumbarton
+Sat Aug 25 2012,Raith Rvs,0-0,0-0,Livingston
+Sat Sep 1 2012,Airdrie Utd,0-3,0-1,Cowdenbeath
+Sat Sep 1 2012,Dunfermline,3-1,2-0,Raith Rvs
+Sat Sep 1 2012,Morton,3-0,1-0,Dumbarton
+Sat Sep 1 2012,Partick,4-0,1-0,Hamilton
+Sun Sep 2 2012,Falkirk,1-2,1-1,Livingston
+Sat Sep 15 2012,Cowdenbeath,3-4,1-2,Morton
+Sat Sep 15 2012,Dumbarton,0-2,0-1,Dunfermline
+Sat Sep 15 2012,Hamilton,1-1,1-1,Falkirk
+Sat Sep 15 2012,Livingston,1-2,0-1,Partick
+Sat Sep 15 2012,Raith Rvs,2-0,1-0,Airdrie Utd
+Sat Sep 22 2012,Dumbarton,3-3,1-1,Hamilton
+Sat Sep 22 2012,Dunfermline,4-0,2-0,Livingston
+Sat Sep 22 2012,Falkirk,1-1,1-0,Airdrie Utd
+Sat Sep 22 2012,Morton,1-0,0-0,Raith Rvs
+Sat Sep 22 2012,Partick,2-1,1-0,Cowdenbeath
+Sat Sep 29 2012,Airdrie Utd,2-3,1-0,Morton
+Sat Sep 29 2012,Cowdenbeath,1-1,1-1,Falkirk
+Sat Sep 29 2012,Hamilton,0-3,0-0,Dunfermline
+Sat Sep 29 2012,Livingston,5-0,3-0,Dumbarton
+Sat Sep 29 2012,Raith Rvs,1-1,0-0,Partick
+Sat Oct 6 2012,Airdrie Utd,0-4,0-0,Hamilton
+Sat Oct 6 2012,Falkirk,2-2,1-0,Dunfermline
+Sat Oct 6 2012,Livingston,1-1,0-0,Cowdenbeath
+Sat Oct 6 2012,Morton,3-1,2-1,Partick
+Sat Oct 6 2012,Raith Rvs,2-2,1-0,Dumbarton
+Sat Oct 20 2012,Cowdenbeath,4-4,2-2,Raith Rvs
+Sat Oct 20 2012,Dumbarton,0-2,0-2,Falkirk
+Sat Oct 20 2012,Dunfermline,2-2,0-1,Morton
+Sat Oct 20 2012,Hamilton,1-2,1-2,Livingston
+Sat Oct 20 2012,Partick,7-0,5-0,Airdrie Utd
+Sat Oct 27 2012,Dumbarton,3-4,2-0,Airdrie Utd
+Sat Oct 27 2012,Dunfermline,3-0,1-0,Cowdenbeath
+Sat Oct 27 2012,Falkirk,0-0,0-0,Partick
+Sat Oct 27 2012,Hamilton,0-1,0-1,Raith Rvs
+Sat Oct 27 2012,Livingston,2-2,1-0,Morton
+Fri Nov 9 2012,Airdrie Utd,1-3,1-1,Livingston
+Sat Nov 10 2012,Cowdenbeath,0-1,0-1,Dumbarton
+Sat Nov 10 2012,Morton,0-1,0-1,Hamilton
+Sat Nov 10 2012,Partick,5-1,3-1,Dunfermline
+Sat Nov 10 2012,Raith Rvs,2-1,0-1,Falkirk
+Fri Nov 16 2012,Hamilton,1-0,1-0,Partick
+Sat Nov 17 2012,Cowdenbeath,1-1,0-0,Airdrie Utd
+Sat Nov 17 2012,Dumbarton,1-5,0-3,Morton
+Sat Nov 17 2012,Livingston,2-1,1-0,Falkirk
+Sat Nov 17 2012,Raith Rvs,1-3,1-1,Dunfermline
+Sat Nov 24 2012,Airdrie Utd,0-0,0-0,Raith Rvs
+Sat Nov 24 2012,Dunfermline,4-0,2-0,Dumbarton
+Sat Nov 24 2012,Falkirk,2-1,0-0,Hamilton
+Sat Nov 24 2012,Morton,1-0,0-0,Cowdenbeath
+Sat Nov 24 2012,Partick,2-0,0-0,Livingston
+Sat Dec 8 2012,Livingston,2-1,0-0,Dunfermline
+Sat Dec 8 2012,Raith Rvs,3-3,1-1,Morton
+Sat Dec 15 2012,Dunfermline,1-1,1-1,Hamilton
+Sat Dec 15 2012,Falkirk,2-0,2-0,Cowdenbeath
+Sat Dec 15 2012,Morton,2-0,1-0,Airdrie Utd
+Sat Dec 15 2012,Partick,3-2,2-1,Raith Rvs
+Sat Dec 22 2012,Airdrie Utd,1-4,0-1,Falkirk
+Sat Dec 22 2012,Cowdenbeath,1-1,1-0,Livingston
+Wed Dec 26 2012,Dunfermline,0-1,0-0,Falkirk
+Wed Dec 26 2012,Hamilton,3-0,2-0,Airdrie Utd
+Wed Dec 26 2012,Partick,1-2,1-0,Morton
+Sat Dec 29 2012,Airdrie Utd,1-1,1-0,Partick
+Sat Dec 29 2012,Falkirk,3-4,1-1,Dumbarton
+Sat Dec 29 2012,Morton,4-2,1-1,Dunfermline
+Sat Dec 29 2012,Raith Rvs,2-2,0-2,Cowdenbeath
+Wed Jan 2 2013,Airdrie Utd,1-1,0-1,Cowdenbeath
+Wed Jan 2 2013,Dunfermline,1-0,0-0,Raith Rvs
+Wed Jan 2 2013,Morton,0-3,0-2,Dumbarton
+Sat Jan 5 2013,Cowdenbeath,1-1,1-0,Morton
+Sat Jan 5 2013,Dumbarton,0-1,0-1,Dunfermline
+Sat Jan 5 2013,Hamilton,1-1,0-1,Falkirk
+Sat Jan 5 2013,Livingston,2-2,1-2,Partick
+Sat Jan 5 2013,Raith Rvs,2-0,1-0,Airdrie Utd
+Sat Jan 12 2013,Dumbarton,2-0,1-0,Partick
+Sat Jan 12 2013,Dunfermline,1-3,1-1,Airdrie Utd
+Sat Jan 12 2013,Falkirk,0-1,0-0,Morton
+Sat Jan 12 2013,Hamilton,2-1,0-1,Cowdenbeath
+Sat Jan 12 2013,Livingston,2-1,1-1,Raith Rvs
+Sat Jan 19 2013,Airdrie Utd,1-2,1-2,Dumbarton
+Sat Jan 19 2013,Morton,2-1,1-0,Livingston
+Sat Jan 19 2013,Partick,4-1,2-1,Falkirk
+Sat Jan 19 2013,Raith Rvs,0-2,0-0,Hamilton
+Sat Jan 26 2013,Dumbarton,3-1,1-0,Hamilton
+Sat Jan 26 2013,Dunfermline,0-1,0-1,Livingston
+Sat Jan 26 2013,Falkirk,4-3,3-0,Airdrie Utd
+Sat Jan 26 2013,Morton,1-0,0-0,Raith Rvs
+Sat Jan 26 2013,Partick,2-1,2-1,Cowdenbeath
+Sat Feb 2 2013,Dumbarton,3-4,0-1,Livingston
+Sat Feb 9 2013,Airdrie Utd,0-4,0-2,Morton
+Sat Feb 9 2013,Cowdenbeath,4-1,2-1,Falkirk
+Sat Feb 9 2013,Hamilton,1-2,0-1,Dunfermline
+Sat Feb 9 2013,Livingston,2-3,2-2,Dumbarton
+Tue Feb 12 2013,Cowdenbeath,4-2,1-0,Dunfermline
+Sat Feb 16 2013,Airdrie Utd,2-2,0-0,Hamilton
+Sat Feb 16 2013,Falkirk,1-0,0-0,Dunfermline
+Sat Feb 16 2013,Livingston,3-0,3-0,Cowdenbeath
+Sat Feb 16 2013,Morton,2-2,0-1,Partick
+Sat Feb 16 2013,Raith Rvs,3-2,1-1,Dumbarton
+Tue Feb 19 2013,Falkirk,2-0,1-0,Livingston
+Tue Feb 19 2013,Partick,1-0,0-0,Hamilton
+Sat Feb 23 2013,Cowdenbeath,1-1,0-0,Raith Rvs
+Sat Feb 23 2013,Dumbarton,0-2,0-2,Falkirk
+Sat Feb 23 2013,Dunfermline,1-4,0-1,Morton
+Sat Feb 23 2013,Hamilton,1-1,0-0,Livingston
+Sat Feb 23 2013,Partick,1-0,0-0,Airdrie Utd
+Sat Mar 2 2013,Dumbarton,2-2,0-1,Cowdenbeath
+Sat Mar 2 2013,Dunfermline,0-4,0-4,Partick
+Sat Mar 2 2013,Livingston,4-1,3-0,Airdrie Utd
+Tue Mar 5 2013,Falkirk,1-1,0-1,Raith Rvs
+Tue Mar 5 2013,Hamilton,2-1,1-1,Morton
+Sat Mar 9 2013,Airdrie Utd,3-3,1-1,Dunfermline
+Sat Mar 9 2013,Cowdenbeath,1-1,1-1,Hamilton
+Sat Mar 9 2013,Morton,2-0,2-0,Falkirk
+Sat Mar 9 2013,Partick,3-0,1-0,Dumbarton
+Sat Mar 9 2013,Raith Rvs,0-2,0-2,Livingston
+Sat Mar 16 2013,Cowdenbeath,3-2,1-1,Airdrie Utd
+Sat Mar 16 2013,Dumbarton,0-3,0-2,Morton
+Sat Mar 16 2013,Hamilton,0-2,0-1,Partick
+Sat Mar 16 2013,Raith Rvs,1-1,1-0,Dunfermline
+Sat Mar 23 2013,Airdrie Utd,1-2,1-1,Raith Rvs
+Sat Mar 23 2013,Dunfermline,3-4,1-0,Dumbarton
+Sat Mar 23 2013,Falkirk,0-2,0-2,Hamilton
+Sat Mar 23 2013,Morton,4-2,0-2,Cowdenbeath
+Sat Mar 23 2013,Partick,6-1,4-0,Livingston
+Wed Mar 27 2013,Cowdenbeath,0-3,0-2,Partick
+Wed Mar 27 2013,Dumbarton,4-2,1-2,Raith Rvs
+Wed Mar 27 2013,Dunfermline,0-2,0-1,Falkirk
+Sat Mar 30 2013,Airdrie Utd,0-1,0-0,Falkirk
+Sat Mar 30 2013,Cowdenbeath,1-2,1-1,Partick
+Sat Mar 30 2013,Hamilton,2-3,0-1,Dumbarton
+Sat Mar 30 2013,Livingston,2-2,0-1,Dunfermline
+Sat Mar 30 2013,Raith Rvs,2-1,2-0,Morton
+Tue Apr 2 2013,Hamilton,2-1,0-1,Dumbarton
+Tue Apr 2 2013,Livingston,1-2,1-0,Falkirk
+Tue Apr 2 2013,Raith Rvs,0-0,0-0,Partick
+Sat Apr 6 2013,Dumbarton,0-3,0-1,Livingston
+Sat Apr 6 2013,Dunfermline,2-3,1-1,Hamilton
+Sat Apr 6 2013,Falkirk,4-0,0-0,Cowdenbeath
+Sat Apr 6 2013,Morton,5-2,2-0,Airdrie Utd
+Tue Apr 9 2013,Cowdenbeath,2-2,1-1,Livingston
+Tue Apr 9 2013,Dumbarton,1-2,0-1,Raith Rvs
+Tue Apr 9 2013,Hamilton,5-0,3-0,Airdrie Utd
+Wed Apr 10 2013,Partick,1-0,1-0,Morton
+Sat Apr 13 2013,Airdrie Utd,1-2,1-0,Partick
+Sat Apr 13 2013,Livingston,0-3,0-2,Hamilton
+Sat Apr 13 2013,Morton,0-1,0-1,Dunfermline
+Sat Apr 13 2013,Raith Rvs,0-1,0-1,Cowdenbeath
+Tue Apr 16 2013,Falkirk,1-3,1-2,Dumbarton
+Tue Apr 16 2013,Livingston,0-0,0-0,Hamilton
+Tue Apr 16 2013,Partick,0-0,0-0,Raith Rvs
+Sat Apr 20 2013,Dumbarton,4-1,2-0,Airdrie Utd
+Sat Apr 20 2013,Dunfermline,1-0,0-0,Cowdenbeath
+Sat Apr 20 2013,Falkirk,0-2,0-0,Partick
+Sat Apr 20 2013,Hamilton,2-0,0-0,Raith Rvs
+Sat Apr 20 2013,Livingston,0-2,0-1,Morton
+Sat Apr 27 2013,Airdrie Utd,0-2,0-1,Livingston
+Sat Apr 27 2013,Cowdenbeath,2-3,1-3,Dumbarton
+Sat Apr 27 2013,Morton,0-2,0-1,Hamilton
+Sat Apr 27 2013,Partick,3-3,1-0,Dunfermline
+Sat Apr 27 2013,Raith Rvs,0-0,0-0,Falkirk
+Sat May 4 2013,Dumbarton,0-0,0-0,Partick
+Sat May 4 2013,Dunfermline,1-2,0-0,Airdrie Utd
+Sat May 4 2013,Falkirk,4-1,0-1,Morton
+Sat May 4 2013,Hamilton,1-3,1-0,Cowdenbeath
+Sat May 4 2013,Livingston,2-3,1-1,Raith Rvs

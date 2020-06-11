@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 30 2003,Albacete,0-2,0-1,Osasuna
+Sat Aug 30 2003,Ath Bilbao,0-1,0-1,Barcelona
+Sat Aug 30 2003,Espanol,1-1,1-0,Sociedad
+Sat Aug 30 2003,Malaga,0-0,0-0,Villarreal
+Sat Aug 30 2003,Real Madrid,2-1,1-1,Betis
+Sat Aug 30 2003,Valencia,1-1,0-1,Valladolid
+Sun Aug 31 2003,Celta,1-1,1-0,Murcia
+Sun Aug 31 2003,Santander,2-1,1-0,Mallorca
+Sun Aug 31 2003,Sevilla,1-0,1-0,Ath Madrid
+Sun Aug 31 2003,Zaragoza,0-1,0-0,La Coruna
+Tue Sep 2 2003,Osasuna,0-1,0-0,Valencia
+Tue Sep 2 2003,Sociedad,1-1,1-0,Celta
+Tue Sep 2 2003,Villarreal,1-1,0-0,Real Madrid
+Wed Sep 3 2003,Ath Madrid,1-0,0-0,Albacete
+Wed Sep 3 2003,Barcelona,1-1,0-1,Sevilla
+Wed Sep 3 2003,Betis,2-2,2-0,Espanol
+Wed Sep 3 2003,La Coruna,2-0,1-0,Ath Bilbao
+Wed Sep 3 2003,Mallorca,2-0,1-0,Zaragoza
+Wed Sep 3 2003,Murcia,1-1,1-1,Santander
+Wed Sep 3 2003,Valladolid,1-0,1-0,Malaga
+Sat Sep 13 2003,Celta,0-2,0-1,Betis
+Sat Sep 13 2003,Real Madrid,7-2,3-0,Valladolid
+Sat Sep 13 2003,Santander,0-1,0-1,Sociedad
+Sat Sep 13 2003,Sevilla,1-2,0-1,La Coruna
+Sun Sep 14 2003,Albacete,1-2,0-1,Barcelona
+Sun Sep 14 2003,Ath Bilbao,4-0,2-0,Mallorca
+Sun Sep 14 2003,Espanol,1-2,1-1,Villarreal
+Sun Sep 14 2003,Osasuna,1-0,1-0,Ath Madrid
+Sun Sep 14 2003,Valencia,1-0,1-0,Malaga
+Sun Sep 14 2003,Zaragoza,3-0,3-0,Murcia
+Sat Sep 20 2003,Ath Madrid,0-3,0-0,Valencia
+Sat Sep 20 2003,Barcelona,1-1,0-0,Osasuna
+Sun Sep 21 2003,Betis,0-0,0-0,Santander
+Sun Sep 21 2003,La Coruna,3-0,0-0,Albacete
+Sun Sep 21 2003,Malaga,1-3,0-1,Real Madrid
+Sun Sep 21 2003,Mallorca,1-1,1-1,Sevilla
+Sun Sep 21 2003,Murcia,2-2,1-1,Ath Bilbao
+Sun Sep 21 2003,Sociedad,3-0,0-0,Zaragoza
+Sun Sep 21 2003,Valladolid,3-1,2-1,Espanol
+Sun Sep 21 2003,Villarreal,1-1,0-0,Celta
+Sat Sep 27 2003,Ath Bilbao,1-0,0-0,Sociedad
+Sat Sep 27 2003,Celta,3-2,0-1,Valladolid
+Sat Sep 27 2003,Osasuna,3-2,3-1,La Coruna
+Sat Sep 27 2003,Valencia,2-0,1-0,Real Madrid
+Sun Sep 28 2003,Albacete,2-0,1-0,Mallorca
+Sun Sep 28 2003,Ath Madrid,0-0,0-0,Barcelona
+Sun Sep 28 2003,Espanol,1-2,0-1,Malaga
+Sun Sep 28 2003,Santander,0-2,0-0,Villarreal
+Sun Sep 28 2003,Sevilla,1-0,0-0,Murcia
+Sun Sep 28 2003,Zaragoza,0-1,0-0,Betis
+Sat Oct 4 2003,Betis,1-1,0-0,Ath Bilbao
+Sat Oct 4 2003,La Coruna,5-1,2-1,Ath Madrid
+Sat Oct 4 2003,Villarreal,1-1,1-1,Zaragoza
+Sun Oct 5 2003,Barcelona,0-1,0-1,Valencia
+Sun Oct 5 2003,Malaga,2-1,1-0,Celta
+Sun Oct 5 2003,Mallorca,1-1,0-0,Osasuna
+Sun Oct 5 2003,Murcia,1-0,1-0,Albacete
+Sun Oct 5 2003,Real Madrid,2-1,0-0,Espanol
+Sun Oct 5 2003,Sociedad,1-1,1-1,Sevilla
+Sun Oct 5 2003,Valladolid,0-4,0-1,Santander
+Sat Oct 18 2003,Albacete,3-1,0-0,Sociedad
+Sat Oct 18 2003,Barcelona,0-2,0-1,La Coruna
+Sat Oct 18 2003,Celta,0-2,0-1,Real Madrid
+Sun Oct 19 2003,Ath Bilbao,2-0,0-0,Villarreal
+Sun Oct 19 2003,Ath Madrid,2-1,1-1,Mallorca
+Sun Oct 19 2003,Osasuna,2-1,1-1,Murcia
+Sun Oct 19 2003,Santander,4-2,0-1,Malaga
+Sun Oct 19 2003,Sevilla,2-2,0-0,Betis
+Sun Oct 19 2003,Valencia,4-0,3-0,Espanol
+Sun Oct 19 2003,Zaragoza,1-0,1-0,Valladolid
+Sat Oct 25 2003,La Coruna,2-1,1-0,Valencia
+Sat Oct 25 2003,Malaga,2-1,2-0,Zaragoza
+Sat Oct 25 2003,Real Madrid,3-1,1-1,Santander
+Sun Oct 26 2003,Betis,3-2,2-1,Albacete
+Sun Oct 26 2003,Espanol,0-4,0-1,Celta
+Sun Oct 26 2003,Mallorca,1-3,0-2,Barcelona
+Sun Oct 26 2003,Murcia,1-3,0-2,Ath Madrid
+Sun Oct 26 2003,Sociedad,1-0,0-0,Osasuna
+Sun Oct 26 2003,Valladolid,2-0,1-0,Ath Bilbao
+Sun Oct 26 2003,Villarreal,3-3,1-2,Sevilla
+Tue Oct 28 2003,Zaragoza,0-0,0-0,Real Madrid
+Wed Oct 29 2003,Albacete,2-0,0-0,Villarreal
+Wed Oct 29 2003,Ath Bilbao,2-1,0-1,Malaga
+Wed Oct 29 2003,Barcelona,3-0,1-0,Murcia
+Wed Oct 29 2003,La Coruna,0-2,0-0,Mallorca
+Wed Oct 29 2003,Osasuna,2-0,0-0,Betis
+Wed Oct 29 2003,Santander,0-1,0-0,Espanol
+Wed Oct 29 2003,Sevilla,1-1,1-0,Valladolid
+Wed Oct 29 2003,Valencia,2-2,1-0,Celta
+Thu Oct 30 2003,Ath Madrid,4-0,1-0,Sociedad
+Sat Nov 1 2003,Celta,0-1,0-1,Santander
+Sat Nov 1 2003,Murcia,0-0,0-0,La Coruna
+Sat Nov 1 2003,Real Madrid,3-0,1-0,Ath Bilbao
+Sun Nov 2 2003,Betis,1-2,1-1,Ath Madrid
+Sun Nov 2 2003,Espanol,0-2,0-2,Zaragoza
+Sun Nov 2 2003,Malaga,2-0,2-0,Sevilla
+Sun Nov 2 2003,Mallorca,0-5,0-3,Valencia
+Sun Nov 2 2003,Sociedad,3-3,0-1,Barcelona
+Sun Nov 2 2003,Valladolid,2-0,1-0,Albacete
+Sun Nov 2 2003,Villarreal,1-0,1-0,Osasuna
+Sat Nov 8 2003,Ath Bilbao,1-0,1-0,Espanol
+Sat Nov 8 2003,La Coruna,2-1,0-1,Sociedad
+Sat Nov 8 2003,Zaragoza,1-1,1-1,Celta
+Sun Nov 9 2003,Albacete,0-1,0-0,Malaga
+Sun Nov 9 2003,Ath Madrid,1-0,0-0,Villarreal
+Sun Nov 9 2003,Barcelona,2-1,1-0,Betis
+Sun Nov 9 2003,Mallorca,4-1,3-1,Murcia
+Sun Nov 9 2003,Osasuna,1-1,1-1,Valladolid
+Sun Nov 9 2003,Sevilla,4-1,4-0,Real Madrid
+Sun Nov 9 2003,Valencia,1-2,1-1,Santander
+Sat Nov 22 2003,Betis,0-0,0-0,La Coruna
+Sat Nov 22 2003,Sociedad,0-1,0-1,Mallorca
+Sat Nov 22 2003,Villarreal,2-1,1-0,Barcelona
+Sun Nov 23 2003,Celta,0-2,0-0,Ath Bilbao
+Sun Nov 23 2003,Espanol,1-0,0-0,Sevilla
+Sun Nov 23 2003,Malaga,0-0,0-0,Osasuna
+Sun Nov 23 2003,Murcia,2-2,1-1,Valencia
+Sun Nov 23 2003,Real Madrid,2-1,1-1,Albacete
+Sun Nov 23 2003,Santander,1-2,1-1,Zaragoza
+Sun Nov 23 2003,Valladolid,3-1,2-1,Ath Madrid
+Sat Nov 29 2003,Ath Madrid,2-0,1-0,Malaga
+Sat Nov 29 2003,Murcia,2-2,0-1,Sociedad
+Sat Nov 29 2003,Osasuna,1-1,1-0,Real Madrid
+Sat Nov 29 2003,Valencia,3-2,3-0,Zaragoza
+Sun Nov 30 2003,Albacete,2-1,1-1,Espanol
+Sun Nov 30 2003,Ath Bilbao,1-2,1-1,Santander
+Sun Nov 30 2003,Barcelona,0-0,0-0,Valladolid
+Sun Nov 30 2003,La Coruna,0-1,0-0,Villarreal
+Sun Nov 30 2003,Mallorca,2-1,1-1,Betis
+Sun Nov 30 2003,Sevilla,0-1,0-1,Celta
+Tue Dec 2 2003,Sociedad,0-0,0-0,Valencia
+Wed Dec 3 2003,Betis,1-1,0-0,Murcia
+Wed Dec 3 2003,Celta,2-2,1-1,Albacete
+Wed Dec 3 2003,Espanol,0-1,0-0,Osasuna
+Wed Dec 3 2003,Malaga,5-1,2-0,Barcelona
+Wed Dec 3 2003,Real Madrid,2-0,2-0,Ath Madrid
+Wed Dec 3 2003,Valladolid,1-1,0-0,La Coruna
+Wed Dec 3 2003,Villarreal,0-2,0-0,Mallorca
+Thu Dec 4 2003,Santander,0-4,0-3,Sevilla
+Thu Dec 4 2003,Zaragoza,2-2,1-2,Ath Bilbao
+Sat Dec 6 2003,Barcelona,1-2,0-1,Real Madrid
+Sat Dec 6 2003,La Coruna,1-0,0-0,Malaga
+Sat Dec 6 2003,Osasuna,3-2,1-1,Celta
+Sat Dec 6 2003,Sociedad,0-4,0-2,Betis
+Sun Dec 7 2003,Albacete,4-0,1-0,Santander
+Sun Dec 7 2003,Ath Madrid,2-0,1-0,Espanol
+Sun Dec 7 2003,Mallorca,1-0,1-0,Valladolid
+Sun Dec 7 2003,Murcia,1-1,1-0,Villarreal
+Sun Dec 7 2003,Sevilla,3-2,1-2,Zaragoza
+Sun Dec 7 2003,Valencia,2-1,1-0,Ath Bilbao
+Sat Dec 13 2003,Celta,2-2,2-1,Ath Madrid
+Sat Dec 13 2003,Espanol,1-3,1-3,Barcelona
+Sat Dec 13 2003,Villarreal,2-0,2-0,Sociedad
+Sun Dec 14 2003,Ath Bilbao,2-1,2-1,Sevilla
+Sun Dec 14 2003,Betis,0-1,0-1,Valencia
+Sun Dec 14 2003,Malaga,3-1,1-1,Mallorca
+Sun Dec 14 2003,Real Madrid,2-1,1-0,La Coruna
+Sun Dec 14 2003,Santander,0-0,0-0,Osasuna
+Sun Dec 14 2003,Valladolid,0-0,0-0,Murcia
+Sun Dec 14 2003,Zaragoza,0-1,0-0,Albacete
+Sat Dec 20 2003,Ath Madrid,2-2,0-0,Santander
+Sat Dec 20 2003,Sociedad,1-3,1-1,Valladolid
+Sat Dec 20 2003,Valencia,1-0,0-0,Sevilla
+Sun Dec 21 2003,Albacete,1-1,1-1,Ath Bilbao
+Sun Dec 21 2003,Barcelona,1-1,0-1,Celta
+Sun Dec 21 2003,Betis,1-3,0-0,Villarreal
+Sun Dec 21 2003,La Coruna,2-1,1-1,Espanol
+Sun Dec 21 2003,Mallorca,1-3,1-1,Real Madrid
+Sun Dec 21 2003,Murcia,1-2,1-1,Malaga
+Sun Dec 21 2003,Osasuna,0-1,0-1,Zaragoza
+Sat Jan 3 2004,Celta,0-5,0-2,La Coruna
+Sat Jan 3 2004,Real Madrid,1-0,1-0,Murcia
+Sat Jan 3 2004,Zaragoza,0-0,0-0,Ath Madrid
+Sun Jan 4 2004,Ath Bilbao,1-1,1-1,Osasuna
+Sun Jan 4 2004,Espanol,2-0,1-0,Mallorca
+Sun Jan 4 2004,Malaga,1-2,1-2,Sociedad
+Sun Jan 4 2004,Santander,3-0,0-0,Barcelona
+Sun Jan 4 2004,Sevilla,2-0,1-0,Albacete
+Sun Jan 4 2004,Valencia,4-2,0-1,Villarreal
+Sun Jan 4 2004,Valladolid,0-0,0-0,Betis
+Sat Jan 10 2004,Albacete,0-1,0-1,Valencia
+Sat Jan 10 2004,Mallorca,2-4,1-1,Celta
+Sat Jan 10 2004,Sociedad,1-0,0-0,Real Madrid
+Sun Jan 11 2004,Ath Madrid,3-0,0-0,Ath Bilbao
+Sun Jan 11 2004,Barcelona,3-0,2-0,Zaragoza
+Sun Jan 11 2004,Betis,3-0,1-0,Malaga
+Sun Jan 11 2004,La Coruna,1-1,1-0,Santander
+Sun Jan 11 2004,Murcia,0-1,0-1,Espanol
+Sun Jan 11 2004,Osasuna,1-1,0-0,Sevilla
+Sun Jan 11 2004,Villarreal,3-1,1-0,Valladolid
+Sat Jan 17 2004,Barcelona,1-1,0-0,Ath Bilbao
+Sat Jan 17 2004,Murcia,2-2,0-2,Celta
+Sat Jan 17 2004,Valladolid,0-0,0-0,Valencia
+Sun Jan 18 2004,Ath Madrid,2-1,1-0,Sevilla
+Sun Jan 18 2004,Betis,1-1,1-0,Real Madrid
+Sun Jan 18 2004,La Coruna,4-1,1-1,Zaragoza
+Sun Jan 18 2004,Mallorca,1-1,0-0,Santander
+Sun Jan 18 2004,Osasuna,1-1,1-1,Albacete
+Sun Jan 18 2004,Sociedad,3-1,1-0,Espanol
+Sun Jan 18 2004,Villarreal,2-0,0-0,Malaga
+Sat Jan 24 2004,Albacete,1-1,0-1,Ath Madrid
+Sat Jan 24 2004,Real Madrid,2-1,1-0,Villarreal
+Sun Jan 25 2004,Ath Bilbao,1-0,0-0,La Coruna
+Sun Jan 25 2004,Celta,2-5,1-2,Sociedad
+Sun Jan 25 2004,Espanol,1-2,0-2,Betis
+Sun Jan 25 2004,Malaga,2-3,1-1,Valladolid
+Sun Jan 25 2004,Santander,3-2,1-1,Murcia
+Sun Jan 25 2004,Sevilla,0-1,0-1,Barcelona
+Sun Jan 25 2004,Valencia,0-1,0-1,Osasuna
+Sun Jan 25 2004,Zaragoza,1-3,0-2,Mallorca
+Sat Jan 31 2004,Ath Madrid,1-1,0-1,Osasuna
+Sat Jan 31 2004,Betis,1-0,1-0,Celta
+Sat Jan 31 2004,Malaga,1-6,0-2,Valencia
+Sun Feb 1 2004,Barcelona,5-0,1-0,Albacete
+Sun Feb 1 2004,La Coruna,1-0,1-0,Sevilla
+Sun Feb 1 2004,Mallorca,1-3,1-1,Ath Bilbao
+Sun Feb 1 2004,Murcia,1-0,1-0,Zaragoza
+Sun Feb 1 2004,Sociedad,1-0,0-0,Santander
+Sun Feb 1 2004,Valladolid,2-3,2-0,Real Madrid
+Sun Feb 1 2004,Villarreal,0-1,0-0,Espanol
+Sat Feb 7 2004,Real Madrid,2-1,1-0,Malaga
+Sat Feb 7 2004,Valencia,3-0,1-0,Ath Madrid
+Sun Feb 8 2004,Albacete,0-2,0-0,La Coruna
+Sun Feb 8 2004,Ath Bilbao,2-1,2-1,Murcia
+Sun Feb 8 2004,Celta,2-1,1-0,Villarreal
+Sun Feb 8 2004,Espanol,2-0,0-0,Valladolid
+Sun Feb 8 2004,Osasuna,1-2,0-1,Barcelona
+Sun Feb 8 2004,Santander,1-2,1-1,Betis
+Sun Feb 8 2004,Sevilla,3-0,0-0,Mallorca
+Sun Feb 8 2004,Zaragoza,2-1,1-1,Sociedad
+Sat Feb 14 2004,Murcia,1-3,0-1,Sevilla
+Sat Feb 14 2004,Sociedad,1-1,1-1,Ath Bilbao
+Sun Feb 15 2004,Barcelona,3-1,3-1,Ath Madrid
+Sun Feb 15 2004,Betis,2-1,2-1,Zaragoza
+Sun Feb 15 2004,La Coruna,2-0,2-0,Osasuna
+Sun Feb 15 2004,Malaga,5-2,3-1,Espanol
+Sun Feb 15 2004,Mallorca,0-0,0-0,Albacete
+Sun Feb 15 2004,Real Madrid,1-1,0-0,Valencia
+Sun Feb 15 2004,Valladolid,0-2,0-0,Celta
+Sun Feb 15 2004,Villarreal,6-3,3-1,Santander
+Sat Feb 21 2004,Ath Madrid,0-0,0-0,La Coruna
+Sat Feb 21 2004,Celta,0-2,0-1,Malaga
+Sat Feb 21 2004,Espanol,2-4,1-1,Real Madrid
+Sat Feb 21 2004,Sevilla,1-0,0-0,Sociedad
+Sat Feb 21 2004,Valencia,0-1,0-0,Barcelona
+Sun Feb 22 2004,Albacete,1-0,1-0,Murcia
+Sun Feb 22 2004,Ath Bilbao,1-1,0-0,Betis
+Sun Feb 22 2004,Osasuna,1-1,1-1,Mallorca
+Sun Feb 22 2004,Santander,1-0,0-0,Valladolid
+Sun Feb 22 2004,Zaragoza,4-1,3-0,Villarreal
+Sat Feb 28 2004,Betis,1-1,1-1,Sevilla
+Sat Feb 28 2004,Valladolid,1-2,1-1,Zaragoza
+Sun Feb 29 2004,Espanol,2-1,1-0,Valencia
+Sun Feb 29 2004,La Coruna,2-3,0-2,Barcelona
+Sun Feb 29 2004,Malaga,1-0,1-0,Santander
+Sun Feb 29 2004,Mallorca,0-1,0-0,Ath Madrid
+Sun Feb 29 2004,Murcia,0-1,0-1,Osasuna
+Sun Feb 29 2004,Real Madrid,4-2,0-1,Celta
+Sun Feb 29 2004,Sociedad,0-1,0-0,Albacete
+Sun Feb 29 2004,Villarreal,0-1,0-1,Ath Bilbao
+Sat Mar 6 2004,Celta,1-5,0-2,Espanol
+Sat Mar 6 2004,Osasuna,1-1,1-0,Sociedad
+Sat Mar 6 2004,Santander,1-1,1-1,Real Madrid
+Sat Mar 6 2004,Valencia,3-0,1-0,La Coruna
+Sun Mar 7 2004,Albacete,1-0,1-0,Betis
+Sun Mar 7 2004,Ath Bilbao,1-4,0-3,Valladolid
+Sun Mar 7 2004,Ath Madrid,1-1,0-0,Murcia
+Sun Mar 7 2004,Barcelona,3-2,2-0,Mallorca
+Sun Mar 7 2004,Sevilla,2-0,0-0,Villarreal
+Sun Mar 7 2004,Zaragoza,1-0,0-0,Malaga
+Sat Mar 13 2004,Real Madrid,1-1,1-1,Zaragoza
+Sat Mar 13 2004,Sociedad,2-1,2-0,Ath Madrid
+Sun Mar 14 2004,Betis,1-1,1-1,Osasuna
+Sun Mar 14 2004,Celta,0-2,0-1,Valencia
+Sun Mar 14 2004,Espanol,0-1,0-0,Santander
+Sun Mar 14 2004,Malaga,2-1,0-1,Ath Bilbao
+Sun Mar 14 2004,Mallorca,4-2,2-1,La Coruna
+Sun Mar 14 2004,Murcia,0-2,0-1,Barcelona
+Sun Mar 14 2004,Valladolid,2-0,0-0,Sevilla
+Sun Mar 14 2004,Villarreal,2-1,0-1,Albacete
+Sat Mar 20 2004,Ath Bilbao,4-2,2-0,Real Madrid
+Sat Mar 20 2004,Ath Madrid,2-1,0-0,Betis
+Sat Mar 20 2004,La Coruna,1-0,1-0,Murcia
+Sun Mar 21 2004,Albacete,2-0,1-0,Valladolid
+Sun Mar 21 2004,Barcelona,1-0,0-0,Sociedad
+Sun Mar 21 2004,Osasuna,2-1,1-0,Villarreal
+Sun Mar 21 2004,Santander,4-4,2-1,Celta
+Sun Mar 21 2004,Sevilla,0-1,0-0,Malaga
+Sun Mar 21 2004,Valencia,5-1,1-0,Mallorca
+Sun Mar 21 2004,Zaragoza,1-1,1-1,Espanol
+Sat Mar 27 2004,Espanol,2-1,1-0,Ath Bilbao
+Sat Mar 27 2004,Sociedad,1-2,1-1,La Coruna
+Sun Mar 28 2004,Celta,0-2,0-0,Zaragoza
+Sun Mar 28 2004,Malaga,1-1,0-1,Albacete
+Sun Mar 28 2004,Murcia,2-0,1-0,Mallorca
+Sun Mar 28 2004,Real Madrid,5-1,2-0,Sevilla
+Sun Mar 28 2004,Santander,0-3,0-2,Valencia
+Sun Mar 28 2004,Valladolid,1-1,1-0,Osasuna
+Sun Mar 28 2004,Villarreal,0-0,0-0,Ath Madrid
+Sat Apr 3 2004,Albacete,1-2,0-1,Real Madrid
+Sat Apr 3 2004,Barcelona,0-0,0-0,Villarreal
+Sat Apr 3 2004,Sevilla,1-0,0-0,Espanol
+Sun Apr 4 2004,Ath Bilbao,0-0,0-0,Celta
+Sun Apr 4 2004,Ath Madrid,2-1,2-0,Valladolid
+Sun Apr 4 2004,La Coruna,2-2,2-1,Betis
+Sun Apr 4 2004,Mallorca,1-1,0-1,Sociedad
+Sun Apr 4 2004,Osasuna,1-1,1-0,Malaga
+Sun Apr 4 2004,Valencia,2-0,0-0,Murcia
+Sun Apr 4 2004,Zaragoza,2-2,1-0,Santander
+Sat Apr 10 2004,Celta,0-0,0-0,Sevilla
+Sat Apr 10 2004,Malaga,3-1,2-1,Ath Madrid
+Sat Apr 10 2004,Valladolid,1-3,0-2,Barcelona
+Sun Apr 11 2004,Betis,0-2,0-1,Mallorca
+Sun Apr 11 2004,Espanol,1-1,0-1,Albacete
+Sun Apr 11 2004,Real Madrid,0-3,0-2,Osasuna
+Sun Apr 11 2004,Santander,1-2,0-1,Ath Bilbao
+Sun Apr 11 2004,Sociedad,2-0,0-0,Murcia
+Sun Apr 11 2004,Villarreal,0-2,0-1,La Coruna
+Sun Apr 11 2004,Zaragoza,0-1,0-0,Valencia
+Wed Apr 14 2004,Betis,1-1,1-1,Barcelona
+Sat Apr 17 2004,Ath Bilbao,4-0,1-0,Zaragoza
+Sat Apr 17 2004,Ath Madrid,1-2,0-1,Real Madrid
+Sat Apr 17 2004,La Coruna,1-1,0-1,Valladolid
+Sun Apr 18 2004,Albacete,0-2,0-1,Celta
+Sun Apr 18 2004,Barcelona,3-0,3-0,Malaga
+Sun Apr 18 2004,Mallorca,1-2,1-1,Villarreal
+Sun Apr 18 2004,Murcia,0-1,0-1,Betis
+Sun Apr 18 2004,Osasuna,1-3,0-1,Espanol
+Sun Apr 18 2004,Sevilla,5-2,2-0,Santander
+Sun Apr 18 2004,Valencia,2-2,0-0,Sociedad
+Sat Apr 24 2004,Espanol,3-1,0-0,Ath Madrid
+Sat Apr 24 2004,Malaga,1-1,1-1,La Coruna
+Sun Apr 25 2004,Ath Bilbao,1-1,1-1,Valencia
+Sun Apr 25 2004,Betis,2-1,2-1,Sociedad
+Sun Apr 25 2004,Celta,1-0,0-0,Osasuna
+Sun Apr 25 2004,Real Madrid,1-2,0-0,Barcelona
+Sun Apr 25 2004,Santander,0-2,0-1,Albacete
+Sun Apr 25 2004,Valladolid,1-3,0-1,Mallorca
+Sun Apr 25 2004,Villarreal,1-0,0-0,Murcia
+Sun Apr 25 2004,Zaragoza,4-4,2-1,Sevilla
+Sat May 1 2004,Ath Madrid,3-2,3-1,Celta
+Sat May 1 2004,La Coruna,2-0,1-0,Real Madrid
+Sun May 2 2004,Albacete,3-1,1-0,Zaragoza
+Sun May 2 2004,Barcelona,4-1,2-1,Espanol
+Sun May 2 2004,Mallorca,2-1,1-0,Malaga
+Sun May 2 2004,Murcia,2-1,1-1,Valladolid
+Sun May 2 2004,Osasuna,1-2,0-0,Santander
+Sun May 2 2004,Sevilla,2-0,1-0,Ath Bilbao
+Sun May 2 2004,Sociedad,2-2,1-1,Villarreal
+Sun May 2 2004,Valencia,2-0,1-0,Betis
+Sat May 8 2004,Celta,1-0,1-0,Barcelona
+Sat May 8 2004,Real Madrid,2-3,1-3,Mallorca
+Sun May 9 2004,Ath Bilbao,1-1,0-0,Albacete
+Sun May 9 2004,Espanol,2-0,1-0,La Coruna
+Sun May 9 2004,Malaga,1-0,0-0,Murcia
+Sun May 9 2004,Santander,2-2,0-1,Ath Madrid
+Sun May 9 2004,Sevilla,0-2,0-1,Valencia
+Sun May 9 2004,Valladolid,2-2,1-2,Sociedad
+Sun May 9 2004,Villarreal,1-0,0-0,Betis
+Sun May 9 2004,Zaragoza,1-0,0-0,Osasuna
+Fri May 14 2004,Villarreal,2-1,2-1,Valencia
+Sat May 15 2004,Betis,1-0,0-0,Valladolid
+Sat May 15 2004,La Coruna,3-0,3-0,Celta
+Sun May 16 2004,Albacete,1-4,0-1,Sevilla
+Sun May 16 2004,Ath Madrid,1-2,0-0,Zaragoza
+Sun May 16 2004,Barcelona,1-0,1-0,Santander
+Sun May 16 2004,Mallorca,4-2,0-2,Espanol
+Sun May 16 2004,Murcia,2-1,2-0,Real Madrid
+Sun May 16 2004,Osasuna,1-2,0-0,Ath Bilbao
+Sun May 16 2004,Sociedad,1-1,0-0,Malaga
+Sun May 23 2004,Ath Bilbao,3-4,1-3,Ath Madrid
+Sun May 23 2004,Celta,1-2,0-0,Mallorca
+Sun May 23 2004,Espanol,2-0,0-0,Murcia
+Sun May 23 2004,Malaga,2-3,2-0,Betis
+Sun May 23 2004,Real Madrid,1-4,1-3,Sociedad
+Sun May 23 2004,Santander,0-1,0-1,La Coruna
+Sun May 23 2004,Sevilla,1-0,0-0,Osasuna
+Sun May 23 2004,Valencia,0-1,0-0,Albacete
+Sun May 23 2004,Valladolid,3-0,1-0,Villarreal
+Sun May 23 2004,Zaragoza,2-1,1-1,Barcelona

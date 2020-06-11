@@ -1,0 +1,463 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 29 2009,Betis,3-0,1-0,Cordoba
+Sat Aug 29 2009,Celta,1-2,0-0,Numancia
+Sat Aug 29 2009,Girona,0-1,0-1,Cartagena
+Sat Aug 29 2009,Las Palmas,1-1,1-1,Sociedad
+Sat Aug 29 2009,Real Union,0-1,0-0,Recreativo
+Sat Aug 29 2009,Vallecano,3-0,0-0,Albacete
+Sat Aug 29 2009,Villarreal B,2-2,0-2,Levante
+Sun Aug 30 2009,Cadiz,0-1,0-0,Salamanca
+Sun Aug 30 2009,Castellon,0-0,0-0,Hercules
+Sun Aug 30 2009,Elche,0-2,0-1,Huesca
+Sun Aug 30 2009,Murcia,0-1,0-0,Gimnastic
+Sat Sep 5 2009,Cartagena,2-0,1-0,Vallecano
+Sat Sep 5 2009,Cordoba,3-1,3-0,Villarreal B
+Sat Sep 5 2009,Gimnastic,1-1,1-0,Girona
+Sat Sep 5 2009,Huesca,1-1,1-1,Las Palmas
+Sat Sep 5 2009,Levante,1-1,1-0,Cadiz
+Sat Sep 5 2009,Recreativo,2-0,1-0,Castellon
+Sun Sep 6 2009,Albacete,1-0,0-0,Real Union
+Sun Sep 6 2009,Hercules,3-2,1-1,Betis
+Sun Sep 6 2009,Numancia,4-1,2-0,Elche
+Sun Sep 6 2009,Salamanca,1-1,0-0,Celta
+Sun Sep 6 2009,Sociedad,0-0,0-0,Murcia
+Sat Sep 12 2009,Cadiz,0-0,0-0,Cordoba
+Sat Sep 12 2009,Castellon,3-5,1-2,Albacete
+Sat Sep 12 2009,Celta,1-1,0-1,Levante
+Sat Sep 12 2009,Gimnastic,1-2,0-0,Sociedad
+Sat Sep 12 2009,Las Palmas,1-0,0-0,Numancia
+Sat Sep 12 2009,Real Union,1-1,1-1,Cartagena
+Sat Sep 12 2009,Villarreal B,1-0,0-0,Hercules
+Sun Sep 13 2009,Betis,3-0,2-0,Recreativo
+Sun Sep 13 2009,Elche,2-2,0-1,Salamanca
+Sun Sep 13 2009,Girona,1-1,0-0,Vallecano
+Sun Sep 13 2009,Murcia,1-1,0-0,Huesca
+Sat Sep 19 2009,Cartagena,2-1,2-1,Castellon
+Sat Sep 19 2009,Cordoba,1-0,1-0,Celta
+Sat Sep 19 2009,Huesca,0-1,0-1,Gimnastic
+Sat Sep 19 2009,Levante,2-1,0-1,Elche
+Sat Sep 19 2009,Numancia,1-1,0-1,Murcia
+Sat Sep 19 2009,Vallecano,2-0,0-0,Real Union
+Sun Sep 20 2009,Albacete,1-3,0-2,Betis
+Sun Sep 20 2009,Hercules,1-0,0-0,Cadiz
+Sun Sep 20 2009,Recreativo,2-1,0-0,Villarreal B
+Sun Sep 20 2009,Salamanca,0-1,0-0,Las Palmas
+Sun Sep 20 2009,Sociedad,2-2,0-1,Girona
+Sat Sep 26 2009,Cadiz,1-0,0-0,Recreativo
+Sat Sep 26 2009,Castellon,1-3,0-1,Vallecano
+Sat Sep 26 2009,Celta,0-1,0-0,Hercules
+Sat Sep 26 2009,Girona,0-2,0-0,Real Union
+Sat Sep 26 2009,Las Palmas,0-1,0-0,Levante
+Sat Sep 26 2009,Murcia,2-2,1-0,Salamanca
+Sat Sep 26 2009,Villarreal B,2-2,1-1,Albacete
+Sun Sep 27 2009,Betis,0-0,0-0,Cartagena
+Sun Sep 27 2009,Elche,3-0,2-0,Cordoba
+Sun Sep 27 2009,Gimnastic,0-1,0-0,Numancia
+Sun Sep 27 2009,Sociedad,2-0,1-0,Huesca
+Sat Oct 3 2009,Cartagena,0-0,0-0,Villarreal B
+Sat Oct 3 2009,Hercules,3-0,2-0,Elche
+Sat Oct 3 2009,Huesca,2-2,1-0,Girona
+Sat Oct 3 2009,Levante,2-2,2-0,Murcia
+Sat Oct 3 2009,Real Union,3-1,1-1,Castellon
+Sat Oct 3 2009,Recreativo,1-2,1-0,Celta
+Sun Oct 4 2009,Albacete,0-1,0-1,Cadiz
+Sun Oct 4 2009,Cordoba,1-0,1-0,Las Palmas
+Sun Oct 4 2009,Numancia,1-3,0-2,Sociedad
+Sun Oct 4 2009,Salamanca,1-0,1-0,Gimnastic
+Sun Oct 4 2009,Vallecano,2-2,2-2,Betis
+Sat Oct 10 2009,Celta,1-1,0-0,Albacete
+Sat Oct 10 2009,Elche,3-2,1-1,Recreativo
+Sat Oct 10 2009,Gimnastic,1-0,0-0,Levante
+Sat Oct 10 2009,Girona,1-0,0-0,Castellon
+Sat Oct 10 2009,Huesca,0-0,0-0,Numancia
+Sat Oct 10 2009,Las Palmas,0-0,0-0,Hercules
+Sat Oct 10 2009,Murcia,1-1,1-1,Cordoba
+Sat Oct 10 2009,Villarreal B,0-2,0-2,Vallecano
+Sun Oct 11 2009,Betis,1-1,1-0,Real Union
+Sun Oct 11 2009,Cadiz,1-3,0-2,Cartagena
+Sun Oct 11 2009,Sociedad,2-0,0-0,Salamanca
+Sat Oct 17 2009,Cartagena,1-1,1-0,Celta
+Sat Oct 17 2009,Castellon,1-0,0-0,Betis
+Sat Oct 17 2009,Real Union,0-1,0-0,Villarreal B
+Sat Oct 17 2009,Recreativo,2-0,0-0,Las Palmas
+Sat Oct 17 2009,Salamanca,2-1,0-0,Huesca
+Sat Oct 17 2009,Vallecano,2-2,1-0,Cadiz
+Sun Oct 18 2009,Albacete,2-2,1-2,Elche
+Sun Oct 18 2009,Cordoba,1-1,0-0,Gimnastic
+Sun Oct 18 2009,Hercules,1-1,1-0,Murcia
+Sun Oct 18 2009,Levante,1-0,0-0,Sociedad
+Sun Oct 18 2009,Numancia,3-1,1-1,Girona
+Sat Oct 24 2009,Gimnastic,1-1,1-0,Hercules
+Sat Oct 24 2009,Girona,0-2,0-1,Betis
+Sat Oct 24 2009,Huesca,0-0,0-0,Levante
+Sat Oct 24 2009,Las Palmas,4-0,2-0,Albacete
+Sat Oct 24 2009,Murcia,0-1,0-0,Recreativo
+Sat Oct 24 2009,Sociedad,1-0,0-0,Cordoba
+Sat Oct 24 2009,Villarreal B,3-1,1-1,Castellon
+Sun Oct 25 2009,Cadiz,2-1,1-1,Real Union
+Sun Oct 25 2009,Celta,0-0,0-0,Vallecano
+Sun Oct 25 2009,Elche,1-1,0-0,Cartagena
+Sun Oct 25 2009,Numancia,1-1,0-1,Salamanca
+Sat Oct 31 2009,Albacete,3-2,1-2,Murcia
+Sat Oct 31 2009,Cartagena,4-1,1-1,Las Palmas
+Sat Oct 31 2009,Castellon,4-1,1-1,Cadiz
+Sat Oct 31 2009,Cordoba,2-1,1-1,Huesca
+Sat Oct 31 2009,Real Union,2-0,1-0,Celta
+Sat Oct 31 2009,Recreativo,0-1,0-1,Gimnastic
+Sat Oct 31 2009,Vallecano,0-1,0-1,Elche
+Sun Nov 1 2009,Hercules,5-1,1-0,Sociedad
+Sun Nov 1 2009,Levante,3-1,1-0,Numancia
+Sun Nov 1 2009,Salamanca,0-1,0-0,Girona
+Sat Nov 7 2009,Celta,2-1,2-0,Castellon
+Sat Nov 7 2009,Gimnastic,1-3,0-1,Albacete
+Sat Nov 7 2009,Huesca,1-0,0-0,Hercules
+Sat Nov 7 2009,Las Palmas,2-1,0-0,Vallecano
+Sat Nov 7 2009,Numancia,2-2,1-1,Cordoba
+Sat Nov 7 2009,Salamanca,3-2,1-1,Levante
+Sat Nov 7 2009,Sociedad,1-0,0-0,Recreativo
+Sun Nov 8 2009,Cadiz,2-2,1-0,Betis
+Sun Nov 8 2009,Elche,2-1,1-1,Real Union
+Sun Nov 8 2009,Girona,3-1,1-0,Villarreal B
+Sun Nov 8 2009,Murcia,1-4,0-3,Cartagena
+Sat Nov 14 2009,Albacete,0-0,0-0,Sociedad
+Sat Nov 14 2009,Castellon,0-2,0-2,Elche
+Sat Nov 14 2009,Levante,3-2,2-2,Girona
+Sat Nov 14 2009,Real Union,0-0,0-0,Las Palmas
+Sat Nov 14 2009,Recreativo,2-0,1-0,Huesca
+Sat Nov 14 2009,Vallecano,2-0,1-0,Murcia
+Sat Nov 14 2009,Villarreal B,2-0,1-0,Cadiz
+Sun Nov 15 2009,Betis,1-1,0-1,Celta
+Sun Nov 15 2009,Cartagena,0-2,0-2,Gimnastic
+Sun Nov 15 2009,Cordoba,2-0,1-0,Salamanca
+Sun Nov 15 2009,Hercules,1-0,0-0,Numancia
+Sat Nov 21 2009,Celta,0-2,0-0,Villarreal B
+Sat Nov 21 2009,Gimnastic,1-1,1-0,Vallecano
+Sat Nov 21 2009,Girona,4-0,0-0,Cadiz
+Sat Nov 21 2009,Huesca,2-1,1-0,Albacete
+Sat Nov 21 2009,Las Palmas,2-2,1-1,Castellon
+Sat Nov 21 2009,Levante,0-0,0-0,Cordoba
+Sat Nov 21 2009,Murcia,3-0,2-0,Real Union
+Sun Nov 22 2009,Elche,3-0,1-0,Betis
+Sun Nov 22 2009,Numancia,1-1,0-1,Recreativo
+Sun Nov 22 2009,Salamanca,0-0,0-0,Hercules
+Sun Nov 22 2009,Sociedad,1-0,0-0,Cartagena
+Sat Nov 28 2009,Cadiz,3-1,2-1,Celta
+Sat Nov 28 2009,Cartagena,1-0,1-0,Huesca
+Sat Nov 28 2009,Hercules,2-1,1-1,Levante
+Sat Nov 28 2009,Real Union,1-0,0-0,Gimnastic
+Sat Nov 28 2009,Recreativo,0-2,0-1,Salamanca
+Sun Nov 29 2009,Albacete,2-3,1-0,Numancia
+Sun Nov 29 2009,Betis,1-0,0-0,Las Palmas
+Sun Nov 29 2009,Castellon,2-1,1-0,Murcia
+Sun Nov 29 2009,Cordoba,2-2,1-1,Girona
+Sun Nov 29 2009,Vallecano,3-3,2-2,Sociedad
+Sun Nov 29 2009,Villarreal B,2-2,1-1,Elche
+Wed Dec 2 2009,Betis,4-0,1-0,Villarreal B
+Sat Dec 5 2009,Cordoba,1-1,1-1,Hercules
+Sat Dec 5 2009,Elche,1-1,0-0,Cadiz
+Sat Dec 5 2009,Girona,1-2,0-1,Celta
+Sat Dec 5 2009,Huesca,2-1,0-0,Vallecano
+Sat Dec 5 2009,Numancia,2-1,2-0,Cartagena
+Sat Dec 5 2009,Salamanca,3-2,1-1,Albacete
+Sat Dec 5 2009,Sociedad,4-1,3-1,Real Union
+Sun Dec 6 2009,Gimnastic,2-1,1-0,Castellon
+Sun Dec 6 2009,Las Palmas,0-0,0-0,Villarreal B
+Sun Dec 6 2009,Levante,1-1,0-1,Recreativo
+Sun Dec 6 2009,Murcia,2-0,2-0,Betis
+Sat Dec 12 2009,Albacete,1-0,0-0,Levante
+Sat Dec 12 2009,Castellon,0-1,0-1,Sociedad
+Sat Dec 12 2009,Hercules,2-0,1-0,Girona
+Sat Dec 12 2009,Recreativo,0-0,0-0,Cordoba
+Sat Dec 12 2009,Vallecano,4-1,3-0,Numancia
+Sat Dec 12 2009,Villarreal B,2-1,0-0,Murcia
+Sun Dec 13 2009,Betis,3-0,1-0,Gimnastic
+Sun Dec 13 2009,Cadiz,0-0,0-0,Las Palmas
+Sun Dec 13 2009,Cartagena,3-4,1-1,Salamanca
+Sun Dec 13 2009,Celta,2-1,0-0,Elche
+Sun Dec 13 2009,Real Union,1-1,0-0,Huesca
+Sat Dec 19 2009,Cordoba,0-2,0-1,Albacete
+Sat Dec 19 2009,Hercules,2-0,2-0,Recreativo
+Sat Dec 19 2009,Las Palmas,1-1,0-1,Celta
+Sat Dec 19 2009,Levante,1-2,0-1,Cartagena
+Sat Dec 19 2009,Numancia,1-0,1-0,Real Union
+Sat Dec 19 2009,Salamanca,0-1,0-0,Vallecano
+Sun Dec 20 2009,Gimnastic,2-1,2-0,Villarreal B
+Sun Dec 20 2009,Girona,3-2,1-2,Elche
+Sun Dec 20 2009,Huesca,2-0,1-0,Castellon
+Sun Dec 20 2009,Murcia,2-2,0-1,Cadiz
+Sun Dec 20 2009,Sociedad,2-0,1-0,Betis
+Sat Jan 2 2010,Albacete,1-2,1-0,Hercules
+Sat Jan 2 2010,Betis,1-1,1-0,Huesca
+Sat Jan 2 2010,Cartagena,0-0,0-0,Cordoba
+Sat Jan 2 2010,Castellon,0-1,0-1,Numancia
+Sat Jan 2 2010,Real Union,1-1,0-0,Salamanca
+Sat Jan 2 2010,Recreativo,2-2,1-0,Girona
+Sun Jan 3 2010,Cadiz,0-1,0-1,Gimnastic
+Sun Jan 3 2010,Celta,1-1,0-0,Murcia
+Sun Jan 3 2010,Elche,2-5,2-1,Las Palmas
+Sun Jan 3 2010,Vallecano,0-0,0-0,Levante
+Sun Jan 3 2010,Villarreal B,1-1,0-0,Sociedad
+Sat Jan 9 2010,Gimnastic,0-2,0-2,Celta
+Sat Jan 9 2010,Murcia,0-2,0-1,Elche
+Sat Jan 9 2010,Numancia,3-0,1-0,Betis
+Sat Jan 9 2010,Recreativo,0-0,0-0,Albacete
+Sat Jan 9 2010,Sociedad,4-1,1-1,Cadiz
+Sun Jan 10 2010,Girona,0-2,0-0,Las Palmas
+Sun Jan 10 2010,Hercules,2-0,1-0,Cartagena
+Sun Jan 10 2010,Huesca,0-1,0-1,Villarreal B
+Sun Jan 10 2010,Levante,1-0,0-0,Real Union
+Sat Jan 16 2010,Betis,1-0,0-0,Salamanca
+Sat Jan 16 2010,Cadiz,0-0,0-0,Huesca
+Sat Jan 16 2010,Castellon,0-0,0-0,Levante
+Sat Jan 16 2010,Celta,0-1,0-0,Sociedad
+Sat Jan 16 2010,Girona,2-2,2-0,Albacete
+Sat Jan 16 2010,Las Palmas,0-3,0-3,Murcia
+Sun Jan 17 2010,Cartagena,1-0,1-0,Recreativo
+Sun Jan 17 2010,Elche,2-2,1-1,Gimnastic
+Sun Jan 17 2010,Real Union,2-3,1-1,Cordoba
+Sun Jan 17 2010,Vallecano,4-4,0-1,Hercules
+Sun Jan 17 2010,Villarreal B,1-0,0-0,Numancia
+Wed Jan 20 2010,Salamanca,1-1,0-0,Castellon
+Sat Jan 23 2010,Albacete,0-0,0-0,Cartagena
+Sat Jan 23 2010,Gimnastic,2-1,1-0,Las Palmas
+Sat Jan 23 2010,Hercules,1-0,0-0,Real Union
+Sat Jan 23 2010,Numancia,1-3,0-1,Cadiz
+Sat Jan 23 2010,Salamanca,2-4,0-0,Villarreal B
+Sun Jan 24 2010,Cordoba,0-0,0-0,Castellon
+Sun Jan 24 2010,Huesca,1-1,1-1,Celta
+Sun Jan 24 2010,Levante,1-0,0-0,Betis
+Sun Jan 24 2010,Murcia,0-0,0-0,Girona
+Sun Jan 24 2010,Recreativo,2-0,0-0,Vallecano
+Sun Jan 24 2010,Sociedad,0-1,0-1,Elche
+Sat Jan 30 2010,Albacete,2-2,1-0,Vallecano
+Sat Jan 30 2010,Cartagena,4-1,2-1,Girona
+Sat Jan 30 2010,Hercules,1-2,1-1,Castellon
+Sat Jan 30 2010,Huesca,0-0,0-0,Elche
+Sat Jan 30 2010,Levante,2-1,1-0,Villarreal B
+Sat Jan 30 2010,Sociedad,2-2,0-0,Las Palmas
+Sun Jan 31 2010,Cordoba,0-1,0-1,Betis
+Sun Jan 31 2010,Gimnastic,2-3,2-1,Murcia
+Sun Jan 31 2010,Numancia,0-0,0-0,Celta
+Sun Jan 31 2010,Recreativo,0-0,0-0,Real Union
+Sun Jan 31 2010,Salamanca,1-1,1-1,Cadiz
+Wed Feb 3 2010,Cordoba,0-0,0-0,Vallecano
+Sat Feb 6 2010,Elche,0-1,0-0,Numancia
+Sat Feb 6 2010,Girona,0-2,0-1,Gimnastic
+Sat Feb 6 2010,Murcia,1-1,0-0,Sociedad
+Sat Feb 6 2010,Villarreal B,4-0,2-0,Cordoba
+Sun Feb 7 2010,Betis,1-1,1-0,Hercules
+Sun Feb 7 2010,Cadiz,2-4,0-2,Levante
+Sun Feb 7 2010,Castellon,0-0,0-0,Recreativo
+Sun Feb 7 2010,Celta,0-0,0-0,Salamanca
+Sun Feb 7 2010,Las Palmas,0-0,0-0,Huesca
+Sun Feb 7 2010,Real Union,2-1,1-1,Albacete
+Sun Feb 7 2010,Vallecano,2-3,2-2,Cartagena
+Fri Feb 12 2010,Cordoba,1-0,0-0,Cadiz
+Sat Feb 13 2010,Albacete,1-1,0-0,Castellon
+Sat Feb 13 2010,Cartagena,1-0,0-0,Real Union
+Sat Feb 13 2010,Hercules,4-2,2-1,Villarreal B
+Sat Feb 13 2010,Numancia,3-1,2-1,Las Palmas
+Sat Feb 13 2010,Recreativo,1-1,0-1,Betis
+Sat Feb 13 2010,Vallecano,0-3,0-1,Girona
+Sun Feb 14 2010,Huesca,1-0,1-0,Murcia
+Sun Feb 14 2010,Levante,1-0,0-0,Celta
+Sun Feb 14 2010,Salamanca,0-1,0-0,Elche
+Sun Feb 14 2010,Sociedad,1-0,1-0,Gimnastic
+Fri Feb 19 2010,Elche,0-0,0-0,Levante
+Sat Feb 20 2010,Betis,0-0,0-0,Albacete
+Sat Feb 20 2010,Castellon,2-2,2-1,Cartagena
+Sat Feb 20 2010,Villarreal B,1-1,0-1,Recreativo
+Sun Feb 21 2010,Cadiz,2-2,2-1,Hercules
+Sun Feb 21 2010,Celta,1-0,1-0,Cordoba
+Sun Feb 21 2010,Gimnastic,0-1,0-0,Huesca
+Sun Feb 21 2010,Girona,1-0,1-0,Sociedad
+Sun Feb 21 2010,Las Palmas,2-2,0-1,Salamanca
+Sun Feb 21 2010,Murcia,1-0,1-0,Numancia
+Sun Feb 21 2010,Real Union,2-1,1-0,Vallecano
+Fri Feb 26 2010,Vallecano,3-0,0-0,Castellon
+Sat Feb 27 2010,Albacete,1-1,0-1,Villarreal B
+Sat Feb 27 2010,Hercules,1-0,0-0,Celta
+Sat Feb 27 2010,Huesca,1-1,0-0,Sociedad
+Sat Feb 27 2010,Levante,1-1,1-1,Las Palmas
+Sat Feb 27 2010,Numancia,1-1,1-0,Gimnastic
+Sat Feb 27 2010,Recreativo,2-1,0-1,Cadiz
+Sat Feb 27 2010,Salamanca,0-2,0-1,Murcia
+Sun Feb 28 2010,Cartagena,1-2,0-1,Betis
+Sun Feb 28 2010,Cordoba,2-0,1-0,Elche
+Sun Feb 28 2010,Real Union,1-1,0-0,Girona
+Fri Mar 5 2010,Gimnastic,1-2,0-2,Salamanca
+Sat Mar 6 2010,Castellon,1-1,0-0,Real Union
+Sat Mar 6 2010,Celta,1-1,0-0,Recreativo
+Sat Mar 6 2010,Girona,2-0,0-0,Huesca
+Sat Mar 6 2010,Las Palmas,1-0,0-0,Cordoba
+Sat Mar 6 2010,Villarreal B,0-0,0-0,Cartagena
+Sun Mar 7 2010,Betis,3-1,2-0,Vallecano
+Sun Mar 7 2010,Cadiz,4-3,1-0,Albacete
+Sun Mar 7 2010,Elche,2-0,2-0,Hercules
+Sun Mar 7 2010,Murcia,1-1,0-0,Levante
+Sun Mar 7 2010,Sociedad,2-1,1-1,Numancia
+Fri Mar 12 2010,Cartagena,4-1,0-1,Cadiz
+Sat Mar 13 2010,Castellon,0-1,0-0,Girona
+Sat Mar 13 2010,Cordoba,0-1,0-1,Murcia
+Sat Mar 13 2010,Levante,6-1,4-0,Gimnastic
+Sat Mar 13 2010,Numancia,1-0,0-0,Huesca
+Sat Mar 13 2010,Real Union,1-3,1-2,Betis
+Sat Mar 13 2010,Vallecano,0-2,0-1,Villarreal B
+Sun Mar 14 2010,Albacete,0-2,0-0,Celta
+Sun Mar 14 2010,Hercules,0-1,0-0,Las Palmas
+Sun Mar 14 2010,Recreativo,2-1,0-0,Elche
+Sun Mar 14 2010,Salamanca,0-0,0-0,Sociedad
+Fri Mar 19 2010,Murcia,0-0,0-0,Hercules
+Sat Mar 20 2010,Celta,1-0,1-0,Cartagena
+Sat Mar 20 2010,Elche,2-1,1-0,Albacete
+Sat Mar 20 2010,Gimnastic,0-2,0-1,Cordoba
+Sat Mar 20 2010,Las Palmas,1-1,1-0,Recreativo
+Sat Mar 20 2010,Villarreal B,3-1,0-0,Real Union
+Sun Mar 21 2010,Cadiz,1-1,1-0,Vallecano
+Sun Mar 21 2010,Girona,0-0,0-0,Numancia
+Sun Mar 21 2010,Huesca,2-0,1-0,Salamanca
+Sun Mar 21 2010,Sociedad,3-1,1-0,Levante
+Mon Mar 22 2010,Betis,2-0,1-0,Castellon
+Fri Mar 26 2010,Real Union,0-0,0-0,Cadiz
+Sat Mar 27 2010,Albacete,3-2,3-1,Las Palmas
+Sat Mar 27 2010,Betis,0-1,0-1,Girona
+Sat Mar 27 2010,Castellon,3-2,2-0,Villarreal B
+Sat Mar 27 2010,Cordoba,2-0,1-0,Sociedad
+Sat Mar 27 2010,Levante,1-1,0-1,Huesca
+Sat Mar 27 2010,Recreativo,0-2,0-1,Murcia
+Sat Mar 27 2010,Vallecano,1-2,0-1,Celta
+Sun Mar 28 2010,Cartagena,0-2,0-1,Elche
+Sun Mar 28 2010,Hercules,0-1,0-0,Gimnastic
+Sun Mar 28 2010,Salamanca,1-3,0-3,Numancia
+Fri Apr 2 2010,Numancia,0-1,0-0,Levante
+Sat Apr 3 2010,Celta,0-1,0-0,Real Union
+Sat Apr 3 2010,Elche,2-2,2-0,Vallecano
+Sat Apr 3 2010,Gimnastic,1-1,1-1,Recreativo
+Sat Apr 3 2010,Huesca,0-0,0-0,Cordoba
+Sat Apr 3 2010,Las Palmas,0-1,0-0,Cartagena
+Sat Apr 3 2010,Murcia,0-2,0-0,Albacete
+Sun Apr 4 2010,Cadiz,1-0,1-0,Castellon
+Sun Apr 4 2010,Girona,1-0,1-0,Salamanca
+Sun Apr 4 2010,Sociedad,1-0,1-0,Hercules
+Mon Apr 5 2010,Villarreal B,2-2,1-0,Betis
+Fri Apr 9 2010,Hercules,0-2,0-0,Huesca
+Sat Apr 10 2010,Albacete,1-1,1-0,Gimnastic
+Sat Apr 10 2010,Betis,4-0,2-0,Cadiz
+Sat Apr 10 2010,Real Union,0-3,0-1,Elche
+Sat Apr 10 2010,Vallecano,3-2,3-1,Las Palmas
+Sat Apr 10 2010,Villarreal B,2-0,0-0,Girona
+Sun Apr 11 2010,Cartagena,3-2,1-1,Murcia
+Sun Apr 11 2010,Castellon,2-1,2-0,Celta
+Sun Apr 11 2010,Cordoba,2-1,1-1,Numancia
+Sun Apr 11 2010,Levante,2-0,1-0,Salamanca
+Mon Apr 12 2010,Recreativo,2-0,0-0,Sociedad
+Fri Apr 16 2010,Girona,0-4,0-1,Levante
+Sat Apr 17 2010,Gimnastic,3-2,0-0,Cartagena
+Sat Apr 17 2010,Huesca,1-2,1-1,Recreativo
+Sat Apr 17 2010,Sociedad,0-0,0-0,Albacete
+Sun Apr 18 2010,Cadiz,0-0,0-0,Villarreal B
+Sun Apr 18 2010,Celta,1-1,1-1,Betis
+Sun Apr 18 2010,Elche,2-0,0-0,Castellon
+Sun Apr 18 2010,Las Palmas,2-1,1-1,Real Union
+Sun Apr 18 2010,Murcia,0-3,0-1,Vallecano
+Sun Apr 18 2010,Numancia,1-1,0-0,Hercules
+Sun Apr 18 2010,Salamanca,1-0,0-0,Cordoba
+Fri Apr 23 2010,Vallecano,2-3,1-2,Gimnastic
+Sat Apr 24 2010,Albacete,0-0,0-0,Huesca
+Sat Apr 24 2010,Betis,0-3,0-2,Elche
+Sat Apr 24 2010,Castellon,2-0,1-0,Las Palmas
+Sat Apr 24 2010,Real Union,2-0,1-0,Murcia
+Sat Apr 24 2010,Villarreal B,1-0,0-0,Celta
+Sun Apr 25 2010,Cadiz,2-0,1-0,Girona
+Sun Apr 25 2010,Cartagena,1-1,1-1,Sociedad
+Sun Apr 25 2010,Cordoba,2-1,1-0,Levante
+Sun Apr 25 2010,Hercules,4-0,1-0,Salamanca
+Sun Apr 25 2010,Recreativo,1-3,1-2,Numancia
+Fri Apr 30 2010,Elche,2-3,0-2,Villarreal B
+Sat May 1 2010,Celta,2-1,1-0,Cadiz
+Sat May 1 2010,Girona,2-1,1-1,Cordoba
+Sat May 1 2010,Huesca,0-2,0-0,Cartagena
+Sat May 1 2010,Las Palmas,1-1,0-0,Betis
+Sat May 1 2010,Numancia,1-1,0-1,Albacete
+Sat May 1 2010,Sociedad,1-0,1-0,Vallecano
+Sun May 2 2010,Levante,2-1,1-1,Hercules
+Sun May 2 2010,Murcia,1-1,0-0,Castellon
+Sun May 2 2010,Salamanca,1-2,0-1,Recreativo
+Mon May 3 2010,Gimnastic,1-2,1-0,Real Union
+Fri May 7 2010,Castellon,0-0,0-0,Gimnastic
+Sat May 8 2010,Cartagena,2-1,0-0,Numancia
+Sat May 8 2010,Celta,2-1,1-0,Girona
+Sat May 8 2010,Real Union,0-0,0-0,Sociedad
+Sat May 8 2010,Recreativo,0-1,0-1,Levante
+Sat May 8 2010,Vallecano,4-1,3-0,Huesca
+Sat May 8 2010,Villarreal B,2-5,0-3,Las Palmas
+Sun May 9 2010,Albacete,2-1,1-1,Salamanca
+Sun May 9 2010,Betis,1-1,1-0,Murcia
+Sun May 9 2010,Cadiz,2-1,0-0,Elche
+Mon May 10 2010,Hercules,4-0,2-0,Cordoba
+Fri May 14 2010,Sociedad,0-0,0-0,Castellon
+Sat May 15 2010,Cordoba,1-1,1-0,Recreativo
+Sat May 15 2010,Gimnastic,0-1,0-0,Betis
+Sat May 15 2010,Huesca,2-3,1-0,Real Union
+Sat May 15 2010,Las Palmas,1-1,0-1,Cadiz
+Sat May 15 2010,Levante,1-1,0-0,Albacete
+Sat May 15 2010,Murcia,2-2,2-1,Villarreal B
+Sat May 15 2010,Salamanca,1-0,0-0,Cartagena
+Sun May 16 2010,Elche,1-0,0-0,Celta
+Sun May 16 2010,Numancia,1-1,1-1,Vallecano
+Mon May 17 2010,Girona,1-1,1-1,Hercules
+Sat May 22 2010,Albacete,3-0,1-0,Cordoba
+Sat May 22 2010,Cartagena,3-5,2-1,Levante
+Sat May 22 2010,Castellon,1-2,0-0,Huesca
+Sat May 22 2010,Celta,1-0,1-0,Las Palmas
+Sat May 22 2010,Elche,4-0,0-0,Girona
+Sat May 22 2010,Real Union,4-3,0-2,Numancia
+Sun May 23 2010,Betis,1-0,0-0,Sociedad
+Sun May 23 2010,Cadiz,1-0,0-0,Murcia
+Sun May 23 2010,Recreativo,0-0,0-0,Hercules
+Sun May 23 2010,Vallecano,0-0,0-0,Salamanca
+Sun May 23 2010,Villarreal B,1-0,0-0,Gimnastic
+Sat May 29 2010,Cordoba,1-2,0-1,Cartagena
+Sat May 29 2010,Huesca,0-1,0-0,Betis
+Sat May 29 2010,Las Palmas,4-1,1-1,Elche
+Sat May 29 2010,Levante,2-1,1-0,Vallecano
+Sat May 29 2010,Sociedad,2-1,1-1,Villarreal B
+Sun May 30 2010,Gimnastic,0-2,0-1,Cadiz
+Sun May 30 2010,Girona,0-0,0-0,Recreativo
+Sun May 30 2010,Hercules,5-1,4-0,Albacete
+Sun May 30 2010,Murcia,4-1,3-0,Celta
+Sun May 30 2010,Numancia,2-1,0-0,Castellon
+Sun May 30 2010,Salamanca,3-0,1-0,Real Union
+Sat Jun 5 2010,Albacete,1-3,1-1,Recreativo
+Sat Jun 5 2010,Betis,2-0,0-0,Numancia
+Sat Jun 5 2010,Cadiz,1-3,0-1,Sociedad
+Sat Jun 5 2010,Castellon,1-2,0-0,Salamanca
+Sat Jun 5 2010,Celta,3-1,2-1,Gimnastic
+Sat Jun 5 2010,Elche,1-2,0-1,Murcia
+Sat Jun 5 2010,Las Palmas,0-1,0-1,Girona
+Sat Jun 5 2010,Villarreal B,1-1,1-0,Huesca
+Sun Jun 6 2010,Cartagena,0-0,0-0,Hercules
+Sun Jun 6 2010,Real Union,2-1,1-0,Levante
+Sun Jun 6 2010,Vallecano,3-2,2-1,Cordoba
+Sun Jun 13 2010,Albacete,3-0,2-0,Girona
+Sun Jun 13 2010,Cordoba,4-0,1-0,Real Union
+Sun Jun 13 2010,Gimnastic,3-1,1-0,Elche
+Sun Jun 13 2010,Hercules,2-1,0-1,Vallecano
+Sun Jun 13 2010,Huesca,2-1,1-1,Cadiz
+Sun Jun 13 2010,Levante,3-1,3-0,Castellon
+Sun Jun 13 2010,Murcia,1-0,1-0,Las Palmas
+Sat Jun 12 2010,Numancia,1-0,0-0,Villarreal B
+Sun Jun 13 2010,Recreativo,1-0,0-0,Cartagena
+Sun Jun 13 2010,Salamanca,1-1,0-0,Betis
+Sun Jun 13 2010,Sociedad,2-0,0-0,Celta
+Sat Jun 19 2010,Betis,4-0,2-0,Levante
+Sat Jun 19 2010,Cadiz,4-2,3-0,Numancia
+Sat Jun 19 2010,Cartagena,0-4,0-4,Albacete
+Sat Jun 19 2010,Castellon,0-1,0-0,Cordoba
+Sat Jun 19 2010,Celta,0-1,0-1,Huesca
+Sat Jun 19 2010,Elche,4-1,1-0,Sociedad
+Sat Jun 19 2010,Girona,1-1,0-1,Murcia
+Sat Jun 19 2010,Las Palmas,1-0,1-0,Gimnastic
+Sat Jun 19 2010,Real Union,0-2,0-1,Hercules
+Sat Jun 19 2010,Vallecano,4-0,3-0,Recreativo
+Sat Jun 19 2010,Villarreal B,1-2,1-1,Salamanca

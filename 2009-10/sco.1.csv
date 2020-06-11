@@ -1,0 +1,229 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 15 2009,Aberdeen,1-3,0-3,Celtic
+Sat Aug 15 2009,Hibernian,2-1,1-1,St Mirren
+Sat Aug 15 2009,Kilmarnock,3-0,1-0,Hamilton
+Sat Aug 15 2009,Rangers,4-1,2-1,Falkirk
+Sat Aug 15 2009,St Johnstone,2-2,1-0,Motherwell
+Mon Aug 17 2009,Dundee United,2-0,1-0,Hearts
+Sat Aug 22 2009,Celtic,5-2,2-1,St Johnstone
+Sat Aug 22 2009,Falkirk,1-3,1-1,Hibernian
+Sat Aug 22 2009,Hamilton,0-3,0-2,Aberdeen
+Sat Aug 22 2009,Motherwell,3-1,2-0,Kilmarnock
+Sat Aug 22 2009,St Mirren,0-0,0-0,Dundee United
+Sun Aug 23 2009,Hearts,1-2,1-0,Rangers
+Sat Aug 29 2009,Aberdeen,0-0,0-0,Motherwell
+Sat Aug 29 2009,Dundee United,2-1,0-0,Falkirk
+Sat Aug 29 2009,Kilmarnock,1-2,1-0,St Mirren
+Sat Aug 29 2009,Rangers,4-1,2-0,Hamilton
+Sun Aug 30 2009,Hibernian,0-1,0-1,Celtic
+Sun Aug 30 2009,St Johnstone,2-2,1-0,Hearts
+Sat Sep 12 2009,Celtic,1-1,1-1,Dundee United
+Sat Sep 12 2009,Motherwell,0-0,0-0,Rangers
+Sat Sep 12 2009,St Mirren,1-1,1-1,St Johnstone
+Sun Sep 13 2009,Hamilton,2-0,2-0,Hibernian
+Mon Sep 14 2009,Falkirk,0-0,0-0,Aberdeen
+Tue Sep 15 2009,Hearts,1-0,1-0,Kilmarnock
+Sat Sep 19 2009,Aberdeen,1-0,0-0,St Mirren
+Sat Sep 19 2009,Dundee United,0-1,0-0,Motherwell
+Sat Sep 19 2009,Hamilton,0-0,0-0,Falkirk
+Sat Sep 19 2009,Hibernian,3-0,2-0,St Johnstone
+Sat Sep 19 2009,Kilmarnock,0-0,0-0,Rangers
+Sun Sep 20 2009,Celtic,2-1,0-1,Hearts
+Sat Sep 26 2009,Falkirk,0-0,0-0,Kilmarnock
+Sat Sep 26 2009,Hearts,2-1,0-0,Hamilton
+Sat Sep 26 2009,Motherwell,1-3,1-1,Hibernian
+Sat Sep 26 2009,Rangers,0-0,0-0,Aberdeen
+Sat Sep 26 2009,St Johnstone,2-3,1-1,Dundee United
+Sat Sep 26 2009,St Mirren,0-2,0-1,Celtic
+Sat Oct 3 2009,Hamilton,0-2,0-1,St Johnstone
+Sat Oct 3 2009,Hibernian,1-1,1-0,Dundee United
+Sat Oct 3 2009,Kilmarnock,1-1,0-0,Aberdeen
+Sat Oct 3 2009,Motherwell,1-0,1-0,Falkirk
+Sat Oct 3 2009,St Mirren,2-1,1-1,Hearts
+Sun Oct 4 2009,Rangers,2-1,2-1,Celtic
+Sat Oct 17 2009,Aberdeen,1-1,1-0,Hearts
+Sat Oct 17 2009,Celtic,0-0,0-0,Motherwell
+Sat Oct 17 2009,Dundee United,1-1,0-0,Hamilton
+Sat Oct 17 2009,Falkirk,1-3,0-0,St Mirren
+Sat Oct 17 2009,Hibernian,1-0,0-0,Kilmarnock
+Sat Oct 17 2009,St Johnstone,1-2,1-1,Rangers
+Sat Oct 24 2009,Aberdeen,0-2,0-2,Dundee United
+Sat Oct 24 2009,Hearts,0-0,0-0,Falkirk
+Sat Oct 24 2009,Kilmarnock,2-1,0-0,St Johnstone
+Sat Oct 24 2009,Rangers,1-1,1-0,Hibernian
+Sat Oct 24 2009,St Mirren,3-3,1-0,Motherwell
+Sun Oct 25 2009,Hamilton,1-2,0-2,Celtic
+Sat Oct 31 2009,Celtic,3-0,2-0,Kilmarnock
+Sat Oct 31 2009,Hibernian,2-0,0-0,Aberdeen
+Sat Oct 31 2009,Motherwell,1-0,0-0,Hearts
+Sat Oct 31 2009,St Johnstone,3-1,1-0,Falkirk
+Sat Oct 31 2009,St Mirren,0-2,0-2,Hamilton
+Sat Nov 7 2009,Aberdeen,2-1,1-0,St Johnstone
+Sat Nov 7 2009,Hamilton,2-2,0-0,Motherwell
+Sat Nov 7 2009,Hearts,0-0,0-0,Hibernian
+Sat Nov 7 2009,Kilmarnock,0-2,0-1,Dundee United
+Sat Nov 7 2009,Rangers,2-1,1-0,St Mirren
+Sun Nov 8 2009,Falkirk,3-3,0-0,Celtic
+Sat Nov 21 2009,Falkirk,2-0,0-0,Hamilton
+Sat Nov 21 2009,Hearts,1-2,1-0,St Johnstone
+Sat Nov 21 2009,Motherwell,1-1,1-0,Aberdeen
+Sat Nov 21 2009,Rangers,3-0,3-0,Kilmarnock
+Sat Nov 21 2009,St Mirren,1-1,1-1,Hibernian
+Sun Nov 22 2009,Dundee United,2-1,0-0,Celtic
+Sat Nov 28 2009,Aberdeen,1-0,1-0,Rangers
+Sat Nov 28 2009,Celtic,3-1,2-1,St Mirren
+Sat Nov 28 2009,Hibernian,2-0,1-0,Falkirk
+Sat Nov 28 2009,Kilmarnock,1-2,0-0,Hearts
+Sat Nov 28 2009,Motherwell,2-2,2-1,Dundee United
+Sat Nov 28 2009,St Johnstone,1-1,1-1,Hamilton
+Sat Dec 5 2009,Celtic,3-0,1-0,Aberdeen
+Sat Dec 5 2009,Dundee United,3-2,2-0,St Mirren
+Sat Dec 5 2009,Falkirk,1-3,1-2,Rangers
+Sat Dec 5 2009,Hibernian,2-0,1-0,Motherwell
+Sat Dec 5 2009,St Johnstone,0-1,0-1,Kilmarnock
+Sun Dec 6 2009,Hamilton,2-1,2-1,Hearts
+Sat Dec 12 2009,Aberdeen,1-2,0-1,Hamilton
+Sat Dec 12 2009,Hearts,0-0,0-0,Dundee United
+Sat Dec 12 2009,Kilmarnock,1-1,0-0,Hibernian
+Sat Dec 12 2009,Motherwell,2-3,2-1,Celtic
+Sat Dec 12 2009,Rangers,3-0,2-0,St Johnstone
+Sat Dec 12 2009,St Mirren,1-1,0-0,Falkirk
+Tue Dec 15 2009,Dundee United,0-3,0-1,Rangers
+Sat Dec 19 2009,Aberdeen,0-2,0-1,Hibernian
+Sat Dec 19 2009,Kilmarnock,1-2,1-1,Falkirk
+Sat Dec 19 2009,Rangers,6-1,1-0,Motherwell
+Sat Dec 19 2009,St Johnstone,1-0,1-0,St Mirren
+Sun Dec 20 2009,Hearts,2-1,1-1,Celtic
+Sat Dec 26 2009,Celtic,2-0,1-0,Hamilton
+Sat Dec 26 2009,Dundee United,0-0,0-0,Kilmarnock
+Sat Dec 26 2009,Falkirk,0-1,0-1,Hearts
+Sat Dec 26 2009,Motherwell,1-3,1-0,St Johnstone
+Sun Dec 27 2009,Hibernian,1-4,1-2,Rangers
+Wed Dec 30 2009,Hearts,1-0,1-0,Motherwell
+Wed Dec 30 2009,Rangers,7-1,3-0,Dundee United
+Sat Jan 2 2010,Dundee United,0-1,0-1,Aberdeen
+Sat Jan 2 2010,St Mirren,1-0,0-0,Kilmarnock
+Sun Jan 3 2010,Celtic,1-1,0-0,Rangers
+Sun Jan 3 2010,Hibernian,1-1,0-1,Hearts
+Tue Jan 12 2010,St Mirren,1-0,0-0,Aberdeen
+Wed Jan 13 2010,Hamilton,0-1,0-0,Dundee United
+Sat Jan 16 2010,Celtic,1-1,1-1,Falkirk
+Sat Jan 16 2010,Dundee United,1-0,1-0,Hibernian
+Sat Jan 16 2010,Hamilton,0-1,0-0,Rangers
+Sat Jan 16 2010,Hearts,1-0,1-0,St Mirren
+Sat Jan 16 2010,Kilmarnock,0-3,0-0,Motherwell
+Sat Jan 23 2010,Aberdeen,1-0,0-0,Kilmarnock
+Sat Jan 23 2010,Hibernian,5-1,3-0,Hamilton
+Sat Jan 23 2010,Motherwell,2-0,0-0,St Mirren
+Sat Jan 23 2010,Rangers,1-1,0-0,Hearts
+Sun Jan 24 2010,Falkirk,1-4,0-2,Dundee United
+Sun Jan 24 2010,St Johnstone,1-4,1-0,Celtic
+Tue Jan 26 2010,Hamilton,0-0,0-0,Kilmarnock
+Wed Jan 27 2010,Celtic,1-2,1-1,Hibernian
+Wed Jan 27 2010,Dundee United,3-3,0-2,St Johnstone
+Wed Jan 27 2010,Falkirk,0-0,0-0,Motherwell
+Wed Jan 27 2010,Hearts,0-3,0-1,Aberdeen
+Wed Jan 27 2010,St Mirren,0-2,0-1,Rangers
+Sat Jan 30 2010,Aberdeen,0-3,0-1,Motherwell
+Sat Jan 30 2010,Hamilton,0-1,0-0,Celtic
+Sat Jan 30 2010,Hibernian,2-1,1-1,St Mirren
+Sat Jan 30 2010,Kilmarnock,4-4,2-3,Dundee United
+Sat Jan 30 2010,Rangers,3-0,1-0,Falkirk
+Sat Jan 30 2010,St Johnstone,1-0,0-0,Hearts
+Tue Feb 2 2010,Aberdeen,0-1,0-1,Falkirk
+Tue Feb 2 2010,Kilmarnock,1-0,0-0,Celtic
+Sat Feb 6 2010,Motherwell,1-0,0-0,Hamilton
+Wed Feb 10 2010,Celtic,2-0,0-0,Hearts
+Wed Feb 10 2010,Dundee United,0-2,0-2,Hamilton
+Wed Feb 10 2010,Falkirk,0-1,0-0,Kilmarnock
+Wed Feb 10 2010,Hibernian,2-2,0-2,Aberdeen
+Wed Feb 10 2010,Motherwell,1-1,1-0,Rangers
+Wed Feb 10 2010,St Mirren,1-1,0-1,St Johnstone
+Sat Feb 13 2010,Aberdeen,4-4,2-2,Celtic
+Sat Feb 13 2010,Hamilton,0-0,0-0,Motherwell
+Sat Feb 13 2010,Hearts,3-2,1-1,Falkirk
+Sat Feb 13 2010,Kilmarnock,3-2,1-1,St Johnstone
+Sat Feb 13 2010,St Mirren,1-2,0-0,Dundee United
+Sun Feb 14 2010,Rangers,3-0,0-0,Hibernian
+Wed Feb 17 2010,St Johnstone,5-1,2-0,Hibernian
+Sat Feb 20 2010,Celtic,1-0,1-0,Dundee United
+Sat Feb 20 2010,Falkirk,3-1,2-1,Aberdeen
+Sat Feb 20 2010,Kilmarnock,1-1,1-0,St Mirren
+Sat Feb 20 2010,Motherwell,1-0,0-0,Hibernian
+Sun Feb 21 2010,Hearts,2-0,0-0,Hamilton
+Sat Feb 27 2010,Aberdeen,0-1,0-0,Hearts
+Sat Feb 27 2010,Dundee United,3-0,2-0,Falkirk
+Sat Feb 27 2010,Hibernian,1-1,1-0,St Johnstone
+Sat Feb 27 2010,Motherwell,1-0,0-0,Kilmarnock
+Sat Feb 27 2010,St Mirren,0-0,0-0,Hamilton
+Sun Feb 28 2010,Rangers,1-0,0-0,Celtic
+Sat Mar 6 2010,Hamilton,1-1,0-0,Aberdeen
+Sat Mar 6 2010,Hibernian,1-0,0-0,Kilmarnock
+Sat Mar 6 2010,Rangers,3-1,1-1,St Mirren
+Sat Mar 6 2010,St Johnstone,1-2,1-1,Motherwell
+Sun Mar 7 2010,Dundee United,1-0,0-0,Hearts
+Sun Mar 7 2010,Falkirk,0-2,0-1,Celtic
+Tue Mar 9 2010,Kilmarnock,0-2,0-0,Rangers
+Tue Mar 9 2010,St Mirren,0-0,0-0,Motherwell
+Sat Mar 13 2010,Falkirk,1-2,1-1,St Johnstone
+Sat Mar 13 2010,Hamilton,1-0,0-0,St Mirren
+Sat Mar 13 2010,Motherwell,3-1,2-0,Hearts
+Tue Mar 16 2010,St Johnstone,1-0,1-0,Aberdeen
+Sat Mar 20 2010,Aberdeen,2-2,2-2,Dundee United
+Sat Mar 20 2010,Celtic,3-0,1-0,St Johnstone
+Sat Mar 20 2010,Hamilton,2-2,0-1,Falkirk
+Sat Mar 20 2010,Hearts,2-1,2-0,Hibernian
+Tue Mar 23 2010,St Johnstone,1-1,1-1,Falkirk
+Wed Mar 24 2010,Kilmarnock,1-2,0-2,Hamilton
+Wed Mar 24 2010,St Mirren,4-0,1-0,Celtic
+Sat Mar 27 2010,Aberdeen,2-1,1-0,St Mirren
+Sat Mar 27 2010,Celtic,3-1,1-0,Kilmarnock
+Sat Mar 27 2010,Dundee United,3-0,2-0,Motherwell
+Sat Mar 27 2010,Falkirk,1-3,1-3,Hibernian
+Sat Mar 27 2010,Hamilton,1-0,1-0,St Johnstone
+Sat Mar 27 2010,Hearts,1-4,1-2,Rangers
+Tue Mar 30 2010,St Johnstone,4-1,3-1,Rangers
+Wed Mar 31 2010,Hibernian,2-4,1-2,Dundee United
+Sat Apr 3 2010,Motherwell,0-1,0-1,Falkirk
+Sat Apr 3 2010,Rangers,1-0,1-0,Hamilton
+Sat Apr 3 2010,St Mirren,1-1,1-0,Hearts
+Sun Apr 4 2010,Hibernian,0-1,0-0,Celtic
+Sun Apr 4 2010,Kilmarnock,2-0,1-0,Aberdeen
+Mon Apr 5 2010,St Johnstone,0-1,0-0,Dundee United
+Wed Apr 7 2010,Rangers,3-1,1-0,Aberdeen
+Sat Apr 10 2010,Falkirk,2-1,1-0,St Mirren
+Sat Apr 10 2010,Hamilton,4-1,1-1,Hibernian
+Sat Apr 10 2010,Hearts,1-0,1-0,Kilmarnock
+Sun Apr 11 2010,Aberdeen,1-3,1-2,St Johnstone
+Tue Apr 13 2010,Celtic,2-1,0-0,Motherwell
+Wed Apr 14 2010,Dundee United,0-0,0-0,Rangers
+Sat Apr 17 2010,Aberdeen,1-0,1-0,Falkirk
+Sat Apr 17 2010,Celtic,3-2,1-1,Hibernian
+Sat Apr 17 2010,Hamilton,3-0,0-0,Kilmarnock
+Sat Apr 17 2010,St Johnstone,2-2,0-1,St Mirren
+Sun Apr 18 2010,Motherwell,2-3,1-2,Dundee United
+Sun Apr 18 2010,Rangers,2-0,0-0,Hearts
+Sat Apr 24 2010,Falkirk,0-1,0-1,Hamilton
+Sat Apr 24 2010,Hearts,0-2,0-2,Motherwell
+Sat Apr 24 2010,St Johnstone,1-1,0-1,Aberdeen
+Sat Apr 24 2010,St Mirren,1-0,0-0,Kilmarnock
+Sun Apr 25 2010,Dundee United,0-2,0-1,Celtic
+Sun Apr 25 2010,Hibernian,0-1,0-1,Rangers
+Sat May 1 2010,Aberdeen,1-3,0-1,Hamilton
+Sat May 1 2010,Celtic,4-0,0-0,Motherwell
+Sat May 1 2010,Dundee United,1-2,0-2,Rangers
+Sat May 1 2010,Falkirk,1-1,1-0,St Mirren
+Sat May 1 2010,Hibernian,1-2,0-0,Hearts
+Sat May 1 2010,Kilmarnock,1-2,1-1,St Johnstone
+Tue May 4 2010,Celtic,2-1,2-1,Rangers
+Wed May 5 2010,Aberdeen,1-2,1-0,Kilmarnock
+Wed May 5 2010,Falkirk,0-0,0-0,St Johnstone
+Wed May 5 2010,Hamilton,0-0,0-0,St Mirren
+Wed May 5 2010,Hearts,0-0,0-0,Dundee United
+Wed May 5 2010,Motherwell,6-6,2-4,Hibernian
+Sat May 8 2010,Kilmarnock,0-0,0-0,Falkirk
+Sat May 8 2010,St Johnstone,2-3,0-2,Hamilton
+Sat May 8 2010,St Mirren,0-1,0-1,Aberdeen
+Sun May 9 2010,Dundee United,0-2,0-1,Hibernian
+Sun May 9 2010,Hearts,1-2,1-1,Celtic
+Sun May 9 2010,Rangers,3-3,2-0,Motherwell

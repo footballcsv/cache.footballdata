@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 9 2002,Dortmund,2-2,2-1,Hertha
+Sat Aug 10 2002,Cottbus,1-1,0-0,Leverkusen
+Sat Aug 10 2002,M'gladbach,0-0,0-0,Bayern Munich
+Sat Aug 10 2002,Nurnberg,1-3,0-2,Bochum
+Sat Aug 10 2002,Schalke 04,1-0,0-0,Wolfsburg
+Sat Aug 10 2002,Stuttgart,1-1,1-0,Kaiserslautern
+Sun Aug 11 2002,Bielefeld,3-0,1-0,Werder Bremen
+Sun Aug 11 2002,Hamburg,2-1,0-1,Hannover
+Wed Aug 14 2002,Munich 1860,0-2,0-1,Hansa Rostock
+Sat Aug 17 2002,Bayern Munich,6-2,3-0,Bielefeld
+Sat Aug 17 2002,Bochum,5-0,3-0,Cottbus
+Sat Aug 17 2002,Hannover,1-3,1-2,Munich 1860
+Sat Aug 17 2002,Hansa Rostock,2-0,1-0,Nurnberg
+Sat Aug 17 2002,Hertha,1-1,0-1,Stuttgart
+Sat Aug 17 2002,Kaiserslautern,1-3,1-0,Schalke 04
+Sat Aug 17 2002,Leverkusen,1-1,1-0,Dortmund
+Sun Aug 18 2002,Werder Bremen,2-1,1-1,Hamburg
+Sun Aug 18 2002,Wolfsburg,1-0,0-0,M'gladbach
+Sat Aug 24 2002,Bielefeld,1-0,1-0,Wolfsburg
+Sat Aug 24 2002,Cottbus,0-4,0-2,Hansa Rostock
+Sat Aug 24 2002,Dortmund,3-1,1-0,Stuttgart
+Sat Aug 24 2002,Hamburg,0-3,0-1,Bayern Munich
+Sat Aug 24 2002,Leverkusen,2-4,1-3,Bochum
+Sat Aug 24 2002,M'gladbach,3-0,2-0,Kaiserslautern
+Sat Aug 24 2002,Munich 1860,3-0,1-0,Werder Bremen
+Sun Aug 25 2002,Nurnberg,3-1,2-0,Hannover
+Sun Aug 25 2002,Schalke 04,0-0,0-0,Hertha
+Tue Sep 10 2002,Bayern Munich,3-1,1-1,Munich 1860
+Tue Sep 10 2002,Bochum,0-0,0-0,Dortmund
+Tue Sep 10 2002,Hertha,1-2,0-1,M'gladbach
+Tue Sep 10 2002,Werder Bremen,4-1,1-0,Nurnberg
+Wed Sep 11 2002,Hannover,1-3,1-1,Cottbus
+Wed Sep 11 2002,Hansa Rostock,1-3,0-2,Leverkusen
+Wed Sep 11 2002,Kaiserslautern,1-1,0-0,Bielefeld
+Wed Sep 11 2002,Stuttgart,1-1,1-0,Schalke 04
+Wed Sep 11 2002,Wolfsburg,2-1,0-0,Hamburg
+Sat Sep 14 2002,Bielefeld,0-1,0-0,Hertha
+Sat Sep 14 2002,Cottbus,0-1,0-0,Werder Bremen
+Sat Sep 14 2002,Dortmund,1-1,0-0,Schalke 04
+Sat Sep 14 2002,Leverkusen,1-3,1-1,Hannover
+Sat Sep 14 2002,M'gladbach,1-1,0-0,Stuttgart
+Sat Sep 14 2002,Munich 1860,2-2,0-0,Wolfsburg
+Sat Sep 14 2002,Nurnberg,1-2,1-1,Bayern Munich
+Sun Sep 15 2002,Bochum,0-1,0-1,Hansa Rostock
+Sun Sep 15 2002,Hamburg,2-0,0-0,Kaiserslautern
+Sat Sep 21 2002,Bayern Munich,3-1,1-1,Cottbus
+Sat Sep 21 2002,Hannover,2-2,1-1,Bochum
+Sat Sep 21 2002,Hansa Rostock,0-1,0-1,Dortmund
+Sat Sep 21 2002,Hertha,2-0,0-0,Hamburg
+Sat Sep 21 2002,Kaiserslautern,0-0,0-0,Munich 1860
+Sat Sep 21 2002,Werder Bremen,3-2,3-2,Leverkusen
+Sat Sep 21 2002,Wolfsburg,0-2,0-0,Nurnberg
+Sun Sep 22 2002,Schalke 04,2-1,2-1,M'gladbach
+Sun Sep 22 2002,Stuttgart,3-0,1-0,Bielefeld
+Sat Sep 28 2002,Bielefeld,2-1,1-1,Schalke 04
+Sat Sep 28 2002,Cottbus,0-1,0-0,Wolfsburg
+Sat Sep 28 2002,Dortmund,1-0,0-0,M'gladbach
+Sat Sep 28 2002,Hamburg,3-2,2-2,Stuttgart
+Sat Sep 28 2002,Hansa Rostock,1-2,1-2,Hannover
+Sat Sep 28 2002,Leverkusen,2-1,1-0,Bayern Munich
+Sat Sep 28 2002,Munich 1860,1-0,1-0,Hertha
+Sun Sep 29 2002,Bochum,1-4,1-2,Werder Bremen
+Sun Sep 29 2002,Nurnberg,1-0,0-0,Kaiserslautern
+Sat Oct 5 2002,Bayern Munich,4-1,2-0,Bochum
+Sat Oct 5 2002,Hannover,0-3,0-1,Dortmund
+Sat Oct 5 2002,Hertha,2-1,0-1,Nurnberg
+Sat Oct 5 2002,Kaiserslautern,4-0,1-0,Cottbus
+Sat Oct 5 2002,M'gladbach,3-0,2-0,Bielefeld
+Sat Oct 5 2002,Schalke 04,3-0,3-0,Hamburg
+Sat Oct 5 2002,Wolfsburg,2-0,1-0,Leverkusen
+Sun Oct 6 2002,Stuttgart,4-1,0-1,Munich 1860
+Sun Oct 6 2002,Werder Bremen,0-0,0-0,Hansa Rostock
+Sat Oct 19 2002,Cottbus,0-2,0-2,Hertha
+Sat Oct 19 2002,Dortmund,0-0,0-0,Bielefeld
+Sat Oct 19 2002,Hamburg,1-0,0-0,M'gladbach
+Sat Oct 19 2002,Hannover,4-4,2-1,Werder Bremen
+Sat Oct 19 2002,Hansa Rostock,0-1,0-0,Bayern Munich
+Sat Oct 19 2002,Leverkusen,1-0,1-0,Kaiserslautern
+Sat Oct 19 2002,Munich 1860,3-0,0-0,Schalke 04
+Sun Oct 20 2002,Bochum,4-2,1-2,Wolfsburg
+Sun Oct 20 2002,Nurnberg,1-2,1-0,Stuttgart
+Sat Oct 26 2002,Bayern Munich,3-3,1-2,Hannover
+Sat Oct 26 2002,Bielefeld,2-1,1-0,Hamburg
+Sat Oct 26 2002,Hertha,1-1,1-0,Leverkusen
+Sat Oct 26 2002,M'gladbach,0-1,0-0,Munich 1860
+Sat Oct 26 2002,Schalke 04,1-1,0-1,Nurnberg
+Sat Oct 26 2002,Stuttgart,0-0,0-0,Cottbus
+Sat Oct 26 2002,Werder Bremen,1-4,1-1,Dortmund
+Sun Oct 27 2002,Wolfsburg,1-0,1-0,Hansa Rostock
+Sat Nov 2 2002,Cottbus,0-1,0-0,Schalke 04
+Sat Nov 2 2002,Dortmund,1-1,0-0,Hamburg
+Sat Nov 2 2002,Hannover,3-1,2-0,Wolfsburg
+Sat Nov 2 2002,Hansa Rostock,2-2,1-1,Kaiserslautern
+Sat Nov 2 2002,Leverkusen,0-1,0-1,Stuttgart
+Sat Nov 2 2002,Munich 1860,3-1,3-1,Bielefeld
+Sat Nov 2 2002,Nurnberg,2-1,2-0,M'gladbach
+Sun Nov 3 2002,Bochum,3-0,0-0,Hertha
+Sun Nov 3 2002,Werder Bremen,2-0,1-0,Bayern Munich
+Sat Nov 9 2002,Bayern Munich,2-1,0-1,Dortmund
+Sat Nov 9 2002,Bielefeld,0-1,0-0,Nurnberg
+Sat Nov 9 2002,Hamburg,1-0,1-0,Munich 1860
+Sat Nov 9 2002,Kaiserslautern,0-1,0-1,Hannover
+Sat Nov 9 2002,Schalke 04,0-1,0-0,Leverkusen
+Sat Nov 9 2002,Stuttgart,3-2,0-0,Bochum
+Sat Nov 9 2002,Wolfsburg,3-1,1-0,Werder Bremen
+Sun Nov 10 2002,Hertha,3-1,2-1,Hansa Rostock
+Sun Nov 10 2002,M'gladbach,3-0,3-0,Cottbus
+Wed Nov 13 2002,Kaiserslautern,0-2,0-2,Bochum
+Sat Nov 16 2002,Bayern Munich,1-0,1-0,Wolfsburg
+Sat Nov 16 2002,Cottbus,2-1,1-0,Bielefeld
+Sat Nov 16 2002,Dortmund,1-0,1-0,Munich 1860
+Sat Nov 16 2002,Hannover,0-1,0-1,Hertha
+Sat Nov 16 2002,Hansa Rostock,1-1,1-0,Stuttgart
+Sat Nov 16 2002,Leverkusen,2-2,1-1,M'gladbach
+Sat Nov 16 2002,Nurnberg,1-3,1-1,Hamburg
+Sun Nov 17 2002,Bochum,0-2,0-0,Schalke 04
+Sun Nov 17 2002,Werder Bremen,5-3,1-2,Kaiserslautern
+Sat Nov 23 2002,Bielefeld,2-2,1-1,Leverkusen
+Sat Nov 23 2002,Hertha,0-1,0-1,Werder Bremen
+Sat Nov 23 2002,Kaiserslautern,0-2,0-2,Bayern Munich
+Sat Nov 23 2002,M'gladbach,2-2,0-0,Bochum
+Sat Nov 23 2002,Schalke 04,2-2,2-0,Hansa Rostock
+Sat Nov 23 2002,Stuttgart,3-0,1-0,Hannover
+Sat Nov 23 2002,Wolfsburg,2-0,1-0,Dortmund
+Sun Nov 24 2002,Hamburg,1-1,0-0,Cottbus
+Sun Nov 24 2002,Munich 1860,2-2,1-2,Nurnberg
+Sat Nov 30 2002,Bayern Munich,2-0,1-0,Hertha
+Sat Nov 30 2002,Bochum,0-3,0-1,Bielefeld
+Sat Nov 30 2002,Cottbus,3-4,0-1,Munich 1860
+Sat Nov 30 2002,Hansa Rostock,3-1,1-1,M'gladbach
+Sat Nov 30 2002,Kaiserslautern,2-0,1-0,Wolfsburg
+Sat Nov 30 2002,Leverkusen,2-3,2-1,Hamburg
+Sat Nov 30 2002,Nurnberg,1-2,1-0,Dortmund
+Sun Dec 1 2002,Hannover,0-2,0-2,Schalke 04
+Sun Dec 1 2002,Werder Bremen,3-1,1-0,Stuttgart
+Sat Dec 7 2002,Bielefeld,3-0,1-0,Hansa Rostock
+Sat Dec 7 2002,Dortmund,3-1,1-1,Kaiserslautern
+Sat Dec 7 2002,Hertha,2-2,1-0,Wolfsburg
+Sat Dec 7 2002,Munich 1860,0-3,0-1,Leverkusen
+Sat Dec 7 2002,Nurnberg,2-2,1-1,Cottbus
+Sat Dec 7 2002,Schalke 04,1-1,1-1,Werder Bremen
+Sat Dec 7 2002,Stuttgart,0-3,0-2,Bayern Munich
+Sun Dec 8 2002,Hamburg,1-1,0-0,Bochum
+Sun Dec 8 2002,M'gladbach,1-0,1-0,Hannover
+Sat Dec 14 2002,Bayern Munich,0-0,0-0,Schalke 04
+Sat Dec 14 2002,Bochum,1-1,0-1,Munich 1860
+Sat Dec 14 2002,Cottbus,0-4,0-1,Dortmund
+Sat Dec 14 2002,Hannover,0-0,0-0,Bielefeld
+Sat Dec 14 2002,Hansa Rostock,0-0,0-0,Hamburg
+Sat Dec 14 2002,Leverkusen,0-2,0-0,Nurnberg
+Sat Dec 14 2002,Werder Bremen,2-0,1-0,M'gladbach
+Sun Dec 15 2002,Kaiserslautern,2-1,1-0,Hertha
+Sun Dec 15 2002,Wolfsburg,1-2,0-1,Stuttgart
+Sat Jan 25 2003,Bochum,2-1,2-1,Nurnberg
+Sat Jan 25 2003,Hannover,2-2,1-0,Hamburg
+Sat Jan 25 2003,Hansa Rostock,1-4,0-3,Munich 1860
+Sat Jan 25 2003,Hertha,2-1,0-0,Dortmund
+Sat Jan 25 2003,Kaiserslautern,1-2,1-1,Stuttgart
+Sat Jan 25 2003,Werder Bremen,2-2,2-2,Bielefeld
+Sat Jan 25 2003,Wolfsburg,1-2,0-0,Schalke 04
+Sun Jan 26 2003,Bayern Munich,3-0,1-0,M'gladbach
+Sun Jan 26 2003,Leverkusen,0-3,0-2,Cottbus
+Sat Feb 1 2003,Bielefeld,0-0,0-0,Bayern Munich
+Sat Feb 1 2003,Cottbus,2-1,1-0,Bochum
+Sat Feb 1 2003,Munich 1860,0-1,0-1,Hannover
+Sat Feb 1 2003,Nurnberg,0-1,0-1,Hansa Rostock
+Sat Feb 1 2003,Schalke 04,2-2,1-1,Kaiserslautern
+Sat Feb 1 2003,Stuttgart,3-1,1-0,Hertha
+Sun Feb 2 2003,Dortmund,2-0,2-0,Leverkusen
+Sun Feb 2 2003,Hamburg,1-0,0-0,Werder Bremen
+Sat Feb 8 2003,Bochum,2-1,0-0,Leverkusen
+Sat Feb 8 2003,Hannover,4-2,3-1,Nurnberg
+Sat Feb 8 2003,Hansa Rostock,0-0,0-0,Cottbus
+Sat Feb 8 2003,Hertha,4-2,2-1,Schalke 04
+Sat Feb 8 2003,Kaiserslautern,2-0,1-0,M'gladbach
+Sat Feb 8 2003,Werder Bremen,1-2,1-0,Munich 1860
+Sat Feb 8 2003,Wolfsburg,2-0,1-0,Bielefeld
+Sun Feb 9 2003,Bayern Munich,1-1,1-0,Hamburg
+Sun Feb 9 2003,Stuttgart,1-0,0-0,Dortmund
+Sat Feb 15 2003,Bielefeld,1-1,1-1,Kaiserslautern
+Sat Feb 15 2003,Dortmund,4-1,3-1,Bochum
+Sat Feb 15 2003,Hamburg,2-0,1-0,Wolfsburg
+Sat Feb 15 2003,Leverkusen,1-2,1-2,Hansa Rostock
+Sat Feb 15 2003,Munich 1860,0-5,0-0,Bayern Munich
+Sat Feb 15 2003,Nurnberg,1-0,1-0,Werder Bremen
+Sat Feb 15 2003,Schalke 04,2-0,2-0,Stuttgart
+Sun Feb 16 2003,Cottbus,3-0,0-0,Hannover
+Sun Feb 16 2003,M'gladbach,0-2,0-2,Hertha
+Wed Feb 19 2003,M'gladbach,2-0,1-0,Wolfsburg
+Sat Feb 22 2003,Bayern Munich,2-0,1-0,Nurnberg
+Sat Feb 22 2003,Hannover,1-2,1-0,Leverkusen
+Sat Feb 22 2003,Hansa Rostock,1-1,1-0,Bochum
+Sat Feb 22 2003,Kaiserslautern,2-0,0-0,Hamburg
+Sat Feb 22 2003,Schalke 04,2-2,2-0,Dortmund
+Sat Feb 22 2003,Werder Bremen,0-1,0-1,Cottbus
+Sat Feb 22 2003,Wolfsburg,1-1,0-0,Munich 1860
+Sun Feb 23 2003,Hertha,0-0,0-0,Bielefeld
+Sun Feb 23 2003,Stuttgart,4-0,2-0,M'gladbach
+Sat Mar 1 2003,Bochum,1-2,0-2,Hannover
+Sat Mar 1 2003,Cottbus,0-2,0-1,Bayern Munich
+Sat Mar 1 2003,Dortmund,2-0,1-0,Hansa Rostock
+Sat Mar 1 2003,Leverkusen,3-0,1-0,Werder Bremen
+Sat Mar 1 2003,M'gladbach,2-2,0-1,Schalke 04
+Sat Mar 1 2003,Munich 1860,0-0,0-0,Kaiserslautern
+Sat Mar 1 2003,Nurnberg,1-1,1-0,Wolfsburg
+Sun Mar 2 2003,Bielefeld,0-1,0-1,Stuttgart
+Sun Mar 2 2003,Hamburg,1-0,0-0,Hertha
+Sat Mar 8 2003,Bayern Munich,3-0,2-0,Leverkusen
+Sat Mar 8 2003,Hertha,6-0,3-0,Munich 1860
+Sat Mar 8 2003,M'gladbach,1-0,0-0,Dortmund
+Sat Mar 8 2003,Schalke 04,1-1,0-0,Bielefeld
+Sat Mar 8 2003,Stuttgart,1-1,1-1,Hamburg
+Sat Mar 8 2003,Werder Bremen,2-0,0-0,Bochum
+Sat Mar 8 2003,Wolfsburg,3-2,2-2,Cottbus
+Sun Mar 9 2003,Hannover,3-1,2-1,Hansa Rostock
+Sun Mar 9 2003,Kaiserslautern,5-0,2-0,Nurnberg
+Sat Mar 15 2003,Bielefeld,4-1,1-0,M'gladbach
+Sat Mar 15 2003,Bochum,1-4,0-2,Bayern Munich
+Sat Mar 15 2003,Cottbus,1-3,1-1,Kaiserslautern
+Sat Mar 15 2003,Dortmund,2-0,1-0,Hannover
+Sat Mar 15 2003,Hamburg,3-1,1-0,Schalke 04
+Sat Mar 15 2003,Hansa Rostock,1-0,0-0,Werder Bremen
+Sat Mar 15 2003,Leverkusen,1-1,0-0,Wolfsburg
+Sun Mar 16 2003,Munich 1860,0-1,0-1,Stuttgart
+Sun Mar 16 2003,Nurnberg,0-3,0-2,Hertha
+Sat Mar 22 2003,Bayern Munich,1-0,0-0,Hansa Rostock
+Sat Mar 22 2003,Bielefeld,0-0,0-0,Dortmund
+Sat Mar 22 2003,Kaiserslautern,1-0,1-0,Leverkusen
+Sat Mar 22 2003,M'gladbach,2-0,0-0,Hamburg
+Sat Mar 22 2003,Schalke 04,1-1,1-1,Munich 1860
+Sat Mar 22 2003,Werder Bremen,1-2,1-1,Hannover
+Sat Mar 22 2003,Wolfsburg,2-0,2-0,Bochum
+Sun Mar 23 2003,Hertha,3-1,0-1,Cottbus
+Sun Mar 23 2003,Stuttgart,0-2,0-1,Nurnberg
+Sat Apr 5 2003,Bochum,1-1,0-0,Kaiserslautern
+Sat Apr 5 2003,Cottbus,2-3,1-1,Stuttgart
+Sat Apr 5 2003,Dortmund,1-2,1-0,Werder Bremen
+Sat Apr 5 2003,Hamburg,1-0,1-0,Bielefeld
+Sat Apr 5 2003,Hannover,2-2,2-0,Bayern Munich
+Sat Apr 5 2003,Leverkusen,4-1,3-0,Hertha
+Sat Apr 5 2003,Nurnberg,0-0,0-0,Schalke 04
+Sun Apr 6 2003,Hansa Rostock,1-0,1-0,Wolfsburg
+Sun Apr 6 2003,Munich 1860,2-0,0-0,M'gladbach
+Sat Apr 12 2003,Bayern Munich,0-1,0-1,Werder Bremen
+Sat Apr 12 2003,Bielefeld,2-1,2-1,Munich 1860
+Sat Apr 12 2003,Hamburg,1-1,0-0,Dortmund
+Sat Apr 12 2003,Hertha,1-0,0-0,Bochum
+Sat Apr 12 2003,Kaiserslautern,1-0,0-0,Hansa Rostock
+Sat Apr 12 2003,M'gladbach,2-0,1-0,Nurnberg
+Sat Apr 12 2003,Stuttgart,3-0,2-0,Leverkusen
+Sun Apr 13 2003,Schalke 04,3-0,1-0,Cottbus
+Sun Apr 13 2003,Wolfsburg,1-0,0-0,Hannover
+Sat Apr 19 2003,Cottbus,1-1,1-0,M'gladbach
+Sat Apr 19 2003,Dortmund,1-0,0-0,Bayern Munich
+Sat Apr 19 2003,Hannover,2-1,0-1,Kaiserslautern
+Sat Apr 19 2003,Hansa Rostock,0-1,0-0,Hertha
+Sat Apr 19 2003,Munich 1860,1-1,1-0,Hamburg
+Sat Apr 19 2003,Nurnberg,0-0,0-0,Bielefeld
+Sat Apr 19 2003,Werder Bremen,0-1,0-0,Wolfsburg
+Sun Apr 20 2003,Bochum,3-1,1-1,Stuttgart
+Sun Apr 20 2003,Leverkusen,1-3,1-1,Schalke 04
+Sat Apr 26 2003,Hamburg,4-0,2-0,Nurnberg
+Sat Apr 26 2003,Hertha,2-0,2-0,Hannover
+Sat Apr 26 2003,M'gladbach,2-2,1-1,Leverkusen
+Sat Apr 26 2003,Munich 1860,0-0,0-0,Dortmund
+Sat Apr 26 2003,Schalke 04,1-2,1-1,Bochum
+Sat Apr 26 2003,Stuttgart,1-1,1-0,Hansa Rostock
+Sat Apr 26 2003,Wolfsburg,0-2,0-0,Bayern Munich
+Sun Apr 27 2003,Bielefeld,2-2,0-2,Cottbus
+Sun Apr 27 2003,Kaiserslautern,1-0,0-0,Werder Bremen
+Sat May 3 2003,Bayern Munich,1-0,0-0,Kaiserslautern
+Sat May 3 2003,Bochum,1-1,1-1,M'gladbach
+Sat May 3 2003,Cottbus,0-0,0-0,Hamburg
+Sat May 3 2003,Dortmund,2-2,1-0,Wolfsburg
+Sat May 3 2003,Hannover,1-2,0-2,Stuttgart
+Sat May 3 2003,Nurnberg,1-2,1-0,Munich 1860
+Sat May 3 2003,Werder Bremen,4-2,3-1,Hertha
+Sun May 4 2003,Hansa Rostock,3-1,0-1,Schalke 04
+Sun May 4 2003,Leverkusen,3-1,1-1,Bielefeld
+Sat May 10 2003,Dortmund,4-1,1-0,Nurnberg
+Sat May 10 2003,Hamburg,4-1,1-0,Leverkusen
+Sat May 10 2003,Hertha,3-6,1-5,Bayern Munich
+Sat May 10 2003,M'gladbach,3-0,1-0,Hansa Rostock
+Sat May 10 2003,Munich 1860,3-0,2-0,Cottbus
+Sat May 10 2003,Stuttgart,0-1,0-0,Werder Bremen
+Sat May 10 2003,Wolfsburg,2-2,1-1,Kaiserslautern
+Sun May 11 2003,Bielefeld,1-3,1-1,Bochum
+Sun May 11 2003,Schalke 04,0-2,0-0,Hannover
+Sat May 17 2003,Bayern Munich,2-1,0-0,Stuttgart
+Sat May 17 2003,Bochum,1-1,1-0,Hamburg
+Sat May 17 2003,Cottbus,2-1,1-1,Nurnberg
+Sat May 17 2003,Hannover,2-2,1-0,M'gladbach
+Sat May 17 2003,Hansa Rostock,3-0,1-0,Bielefeld
+Sat May 17 2003,Kaiserslautern,0-0,0-0,Dortmund
+Sat May 17 2003,Leverkusen,3-0,2-0,Munich 1860
+Sat May 17 2003,Werder Bremen,2-1,1-1,Schalke 04
+Sat May 17 2003,Wolfsburg,2-0,1-0,Hertha
+Sat May 24 2003,Bielefeld,0-1,0-0,Hannover
+Sat May 24 2003,Dortmund,1-1,1-0,Cottbus
+Sat May 24 2003,Hamburg,2-0,1-0,Hansa Rostock
+Sat May 24 2003,Hertha,2-0,1-0,Kaiserslautern
+Sat May 24 2003,M'gladbach,4-1,0-0,Werder Bremen
+Sat May 24 2003,Munich 1860,2-4,1-1,Bochum
+Sat May 24 2003,Nurnberg,0-1,0-1,Leverkusen
+Sat May 24 2003,Schalke 04,1-0,1-0,Bayern Munich
+Sat May 24 2003,Stuttgart,2-0,2-0,Wolfsburg

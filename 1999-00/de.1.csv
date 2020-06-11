@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 13 1999,Duisburg,0-0,0-0,Leverkusen
+Fri Aug 13 1999,Wolfsburg,2-1,0-1,Munich 1860
+Sat Aug 14 1999,Bayern Munich,2-2,1-1,Hamburg
+Sat Aug 14 1999,Ein Frankfurt,3-0,1-0,Unterhaching
+Sat Aug 14 1999,Kaiserslautern,1-0,0-0,Dortmund
+Sat Aug 14 1999,Schalke 04,1-1,1-0,Bielefeld
+Sat Aug 14 1999,Stuttgart,0-0,0-0,Werder Bremen
+Sun Aug 15 1999,Hertha,5-2,2-1,Hansa Rostock
+Sun Aug 15 1999,Ulm,1-1,0-1,Freiburg
+Fri Aug 20 1999,Bielefeld,1-1,0-0,Hertha
+Fri Aug 20 1999,Unterhaching,2-0,0-0,Duisburg
+Sat Aug 21 1999,Dortmund,2-1,0-0,Wolfsburg
+Sat Aug 21 1999,Freiburg,2-3,1-0,Ein Frankfurt
+Sat Aug 21 1999,Hamburg,3-0,1-0,Stuttgart
+Sat Aug 21 1999,Munich 1860,4-1,4-1,Ulm
+Sat Aug 21 1999,Werder Bremen,0-1,0-0,Schalke 04
+Sun Aug 22 1999,Hansa Rostock,4-2,4-2,Kaiserslautern
+Sun Aug 22 1999,Leverkusen,2-0,0-0,Bayern Munich
+Fri Aug 27 1999,Kaiserslautern,0-2,0-0,Bielefeld
+Fri Aug 27 1999,Schalke 04,1-3,1-1,Hamburg
+Sat Aug 28 1999,Bayern Munich,1-0,1-0,Unterhaching
+Sat Aug 28 1999,Freiburg,3-0,1-0,Munich 1860
+Sat Aug 28 1999,Hertha,1-1,1-0,Werder Bremen
+Sat Aug 28 1999,Stuttgart,1-2,1-1,Leverkusen
+Sat Aug 28 1999,Wolfsburg,2-0,2-0,Hansa Rostock
+Sun Aug 29 1999,Ein Frankfurt,2-2,1-1,Duisburg
+Sun Aug 29 1999,Ulm,0-1,0-1,Dortmund
+Fri Sep 10 1999,Bielefeld,0-0,0-0,Wolfsburg
+Fri Sep 10 1999,Hansa Rostock,2-1,1-0,Ulm
+Sat Sep 11 1999,Dortmund,1-1,0-1,Freiburg
+Sat Sep 11 1999,Duisburg,1-2,0-2,Bayern Munich
+Sat Sep 11 1999,Hamburg,5-1,3-0,Hertha
+Sat Sep 11 1999,Leverkusen,3-2,0-1,Schalke 04
+Sat Sep 11 1999,Unterhaching,2-0,1-0,Stuttgart
+Sun Sep 12 1999,Munich 1860,2-0,1-0,Ein Frankfurt
+Sun Sep 12 1999,Werder Bremen,5-0,2-0,Kaiserslautern
+Fri Sep 17 1999,Freiburg,5-0,4-0,Hansa Rostock
+Fri Sep 17 1999,Munich 1860,0-3,0-2,Dortmund
+Sat Sep 18 1999,Ein Frankfurt,1-2,1-0,Bayern Munich
+Sat Sep 18 1999,Hertha,0-0,0-0,Leverkusen
+Sat Sep 18 1999,Schalke 04,1-0,0-0,Unterhaching
+Sat Sep 18 1999,Stuttgart,4-2,2-1,Duisburg
+Sat Sep 18 1999,Ulm,2-0,2-0,Bielefeld
+Sun Sep 19 1999,Kaiserslautern,2-0,2-0,Hamburg
+Sun Sep 19 1999,Wolfsburg,2-7,2-3,Werder Bremen
+Fri Sep 24 1999,Bayern Munich,0-1,0-0,Stuttgart
+Fri Sep 24 1999,Hamburg,2-2,1-1,Wolfsburg
+Sat Sep 25 1999,Dortmund,1-0,1-0,Ein Frankfurt
+Sat Sep 25 1999,Duisburg,1-1,0-0,Schalke 04
+Sat Sep 25 1999,Hansa Rostock,0-0,0-0,Munich 1860
+Sat Sep 25 1999,Unterhaching,1-1,0-1,Hertha
+Sat Sep 25 1999,Werder Bremen,2-2,1-0,Ulm
+Sun Sep 26 1999,Bielefeld,2-1,0-1,Freiburg
+Sun Sep 26 1999,Leverkusen,3-1,0-1,Kaiserslautern
+Fri Oct 1 1999,Ein Frankfurt,0-1,0-0,Stuttgart
+Fri Oct 1 1999,Munich 1860,5-0,1-0,Bielefeld
+Sat Oct 2 1999,Dortmund,3-0,0-0,Hansa Rostock
+Sat Oct 2 1999,Hertha,2-1,0-0,Duisburg
+Sat Oct 2 1999,Schalke 04,1-1,0-0,Bayern Munich
+Sat Oct 2 1999,Ulm,1-2,0-0,Hamburg
+Sat Oct 2 1999,Wolfsburg,3-1,1-0,Leverkusen
+Sun Oct 3 1999,Freiburg,2-1,1-0,Werder Bremen
+Sun Oct 3 1999,Kaiserslautern,4-2,1-1,Unterhaching
+Fri Oct 15 1999,Bielefeld,0-2,0-0,Dortmund
+Fri Oct 15 1999,Leverkusen,4-1,3-0,Ulm
+Sat Oct 16 1999,Bayern Munich,3-1,2-0,Hertha
+Sat Oct 16 1999,Duisburg,2-2,0-2,Kaiserslautern
+Sat Oct 16 1999,Hamburg,2-0,1-0,Freiburg
+Sat Oct 16 1999,Hansa Rostock,3-1,1-0,Ein Frankfurt
+Sat Oct 16 1999,Werder Bremen,1-3,0-1,Munich 1860
+Sun Oct 17 1999,Stuttgart,0-2,0-0,Schalke 04
+Sun Oct 17 1999,Unterhaching,1-1,0-0,Wolfsburg
+Fri Oct 22 1999,Ein Frankfurt,0-2,0-0,Schalke 04
+Fri Oct 22 1999,Hansa Rostock,2-1,1-0,Bielefeld
+Sat Oct 23 1999,Freiburg,0-0,0-0,Leverkusen
+Sat Oct 23 1999,Hertha,1-1,1-0,Stuttgart
+Sat Oct 23 1999,Kaiserslautern,0-2,0-0,Bayern Munich
+Sat Oct 23 1999,Munich 1860,0-0,0-0,Hamburg
+Sat Oct 23 1999,Ulm,1-0,1-0,Unterhaching
+Sun Oct 24 1999,Dortmund,1-3,0-2,Werder Bremen
+Sun Oct 24 1999,Wolfsburg,1-0,0-0,Duisburg
+Fri Oct 29 1999,Bielefeld,1-1,0-0,Ein Frankfurt
+Fri Oct 29 1999,Werder Bremen,2-1,1-0,Hansa Rostock
+Sat Oct 30 1999,Bayern Munich,5-0,3-0,Wolfsburg
+Sat Oct 30 1999,Duisburg,0-0,0-0,Ulm
+Sat Oct 30 1999,Hamburg,1-1,0-0,Dortmund
+Sat Oct 30 1999,Leverkusen,1-1,0-0,Munich 1860
+Sat Oct 30 1999,Schalke 04,1-1,1-1,Hertha
+Sun Oct 31 1999,Stuttgart,0-1,0-1,Kaiserslautern
+Sun Oct 31 1999,Unterhaching,1-0,0-0,Freiburg
+Fri Nov 5 1999,Freiburg,3-0,2-0,Duisburg
+Fri Nov 5 1999,Hansa Rostock,3-3,2-1,Hamburg
+Sat Nov 6 1999,Dortmund,1-1,1-1,Leverkusen
+Sat Nov 6 1999,Ein Frankfurt,4-0,3-0,Hertha
+Sat Nov 6 1999,Munich 1860,2-1,1-0,Unterhaching
+Sat Nov 6 1999,Ulm,0-1,0-1,Bayern Munich
+Sat Nov 6 1999,Wolfsburg,0-2,0-1,Stuttgart
+Sun Nov 7 1999,Bielefeld,2-2,1-0,Werder Bremen
+Sun Nov 7 1999,Kaiserslautern,2-1,0-1,Schalke 04
+Fri Nov 19 1999,Werder Bremen,3-1,1-1,Ein Frankfurt
+Sat Nov 20 1999,Bayern Munich,6-1,3-1,Freiburg
+Sat Nov 20 1999,Hertha,0-1,0-1,Kaiserslautern
+Sat Nov 20 1999,Leverkusen,1-1,1-1,Hansa Rostock
+Sat Nov 20 1999,Schalke 04,1-1,1-1,Wolfsburg
+Sat Nov 20 1999,Stuttgart,2-0,1-0,Ulm
+Sun Nov 21 1999,Duisburg,3-0,1-0,Munich 1860
+Sun Nov 21 1999,Hamburg,5-0,2-0,Bielefeld
+Fri Nov 26 1999,Freiburg,0-2,0-1,Stuttgart
+Fri Nov 26 1999,Ulm,1-1,1-0,Schalke 04
+Sat Nov 27 1999,Bielefeld,1-2,0-1,Leverkusen
+Sat Nov 27 1999,Hansa Rostock,1-1,1-0,Unterhaching
+Sat Nov 27 1999,Munich 1860,1-0,0-0,Bayern Munich
+Sat Nov 27 1999,Wolfsburg,2-3,2-1,Hertha
+Sun Nov 28 1999,Dortmund,2-2,1-2,Duisburg
+Sun Nov 28 1999,Ein Frankfurt,0-1,0-1,Kaiserslautern
+Sun Nov 28 1999,Werder Bremen,2-1,0-0,Hamburg
+Wed Dec 1 1999,Unterhaching,1-0,1-0,Dortmund
+Fri Dec 3 1999,Duisburg,2-2,1-1,Hansa Rostock
+Fri Dec 3 1999,Hamburg,1-0,0-0,Ein Frankfurt
+Sat Dec 4 1999,Bayern Munich,1-1,1-0,Dortmund
+Sat Dec 4 1999,Hertha,3-0,1-0,Ulm
+Sat Dec 4 1999,Leverkusen,3-2,1-1,Werder Bremen
+Sat Dec 4 1999,Schalke 04,2-2,1-1,Freiburg
+Sat Dec 4 1999,Stuttgart,1-3,0-1,Munich 1860
+Sun Dec 5 1999,Kaiserslautern,2-2,1-0,Wolfsburg
+Sun Dec 5 1999,Unterhaching,2-0,1-0,Bielefeld
+Fri Dec 10 1999,Bielefeld,0-1,0-0,Duisburg
+Fri Dec 10 1999,Werder Bremen,2-2,2-0,Unterhaching
+Sat Dec 11 1999,Dortmund,1-1,1-1,Stuttgart
+Sat Dec 11 1999,Freiburg,0-1,0-0,Hertha
+Sat Dec 11 1999,Hansa Rostock,0-3,0-1,Bayern Munich
+Sat Dec 11 1999,Munich 1860,3-3,1-2,Schalke 04
+Sun Dec 12 1999,Leverkusen,2-2,1-1,Hamburg
+Sun Dec 12 1999,Ulm,3-1,3-0,Kaiserslautern
+Sun Dec 12 1999,Wolfsburg,1-0,0-0,Ein Frankfurt
+Tue Dec 14 1999,Bayern Munich,2-1,1-1,Bielefeld
+Tue Dec 14 1999,Duisburg,0-1,0-1,Werder Bremen
+Tue Dec 14 1999,Hertha,1-1,0-0,Munich 1860
+Tue Dec 14 1999,Stuttgart,3-1,0-0,Hansa Rostock
+Wed Dec 15 1999,Ein Frankfurt,1-2,1-0,Leverkusen
+Wed Dec 15 1999,Kaiserslautern,0-2,0-0,Freiburg
+Wed Dec 15 1999,Schalke 04,0-0,0-0,Dortmund
+Wed Dec 15 1999,Unterhaching,1-1,0-1,Hamburg
+Wed Dec 15 1999,Wolfsburg,1-2,0-1,Ulm
+Fri Dec 17 1999,Bielefeld,1-2,0-0,Stuttgart
+Fri Dec 17 1999,Werder Bremen,0-2,0-0,Bayern Munich
+Sat Dec 18 1999,Freiburg,1-1,0-1,Wolfsburg
+Sat Dec 18 1999,Hamburg,6-1,5-1,Duisburg
+Sat Dec 18 1999,Leverkusen,2-1,0-0,Unterhaching
+Sat Dec 18 1999,Munich 1860,2-1,1-1,Kaiserslautern
+Sat Dec 18 1999,Ulm,3-0,1-0,Ein Frankfurt
+Sun Dec 19 1999,Dortmund,4-0,3-0,Hertha
+Sun Dec 19 1999,Hansa Rostock,1-0,0-0,Schalke 04
+Fri Feb 4 2000,Dortmund,0-1,0-0,Kaiserslautern
+Fri Feb 4 2000,Hansa Rostock,0-1,0-0,Hertha
+Sat Feb 5 2000,Bielefeld,1-2,0-1,Schalke 04
+Sat Feb 5 2000,Freiburg,2-0,1-0,Ulm
+Sat Feb 5 2000,Leverkusen,3-0,2-0,Duisburg
+Sat Feb 5 2000,Munich 1860,1-2,1-1,Wolfsburg
+Sat Feb 5 2000,Werder Bremen,2-1,2-0,Stuttgart
+Sun Feb 6 2000,Hamburg,0-0,0-0,Bayern Munich
+Sun Feb 6 2000,Unterhaching,1-0,0-0,Ein Frankfurt
+Tue Feb 8 2000,Hertha,2-0,0-0,Bielefeld
+Tue Feb 8 2000,Kaiserslautern,2-2,0-1,Hansa Rostock
+Tue Feb 8 2000,Schalke 04,3-1,1-1,Werder Bremen
+Tue Feb 8 2000,Ulm,3-0,2-0,Munich 1860
+Wed Feb 9 2000,Bayern Munich,4-1,2-0,Leverkusen
+Wed Feb 9 2000,Duisburg,2-0,2-0,Unterhaching
+Wed Feb 9 2000,Ein Frankfurt,2-0,1-0,Freiburg
+Wed Feb 9 2000,Stuttgart,1-3,0-0,Hamburg
+Wed Feb 9 2000,Wolfsburg,1-0,1-0,Dortmund
+Fri Feb 11 2000,Bielefeld,1-2,1-1,Kaiserslautern
+Fri Feb 11 2000,Werder Bremen,4-1,3-0,Hertha
+Sat Feb 12 2000,Dortmund,1-1,1-0,Ulm
+Sat Feb 12 2000,Duisburg,2-3,1-2,Ein Frankfurt
+Sat Feb 12 2000,Hansa Rostock,1-1,1-0,Wolfsburg
+Sat Feb 12 2000,Leverkusen,1-0,0-0,Stuttgart
+Sat Feb 12 2000,Unterhaching,0-2,0-0,Bayern Munich
+Sun Feb 13 2000,Hamburg,3-1,0-1,Schalke 04
+Sun Feb 13 2000,Munich 1860,3-1,1-1,Freiburg
+Fri Feb 18 2000,Hertha,2-1,0-0,Hamburg
+Fri Feb 18 2000,Schalke 04,1-1,1-1,Leverkusen
+Sat Feb 19 2000,Bayern Munich,4-1,0-0,Duisburg
+Sat Feb 19 2000,Ein Frankfurt,3-1,2-1,Munich 1860
+Sat Feb 19 2000,Freiburg,1-1,1-1,Dortmund
+Sat Feb 19 2000,Kaiserslautern,4-3,1-2,Werder Bremen
+Sat Feb 19 2000,Stuttgart,0-2,0-0,Unterhaching
+Sun Feb 20 2000,Ulm,1-1,0-1,Hansa Rostock
+Sun Feb 20 2000,Wolfsburg,2-0,1-0,Bielefeld
+Fri Feb 25 2000,Hansa Rostock,1-1,0-0,Freiburg
+Sat Feb 26 2000,Bayern Munich,4-1,1-0,Ein Frankfurt
+Sat Feb 26 2000,Duisburg,1-3,1-2,Stuttgart
+Sat Feb 26 2000,Hamburg,2-1,1-0,Kaiserslautern
+Sat Feb 26 2000,Leverkusen,3-1,3-1,Hertha
+Sat Feb 26 2000,Werder Bremen,2-2,1-1,Wolfsburg
+Sun Feb 27 2000,Dortmund,1-1,0-0,Munich 1860
+Sun Feb 27 2000,Unterhaching,3-1,0-1,Schalke 04
+Mon Feb 28 2000,Bielefeld,4-1,3-1,Ulm
+Fri Mar 3 2000,Freiburg,1-1,0-1,Bielefeld
+Fri Mar 3 2000,Wolfsburg,4-4,1-3,Hamburg
+Sat Mar 4 2000,Hertha,2-1,0-1,Unterhaching
+Sat Mar 4 2000,Kaiserslautern,1-3,1-2,Leverkusen
+Sat Mar 4 2000,Munich 1860,4-3,1-1,Hansa Rostock
+Sat Mar 4 2000,Schalke 04,3-0,1-0,Duisburg
+Sat Mar 4 2000,Stuttgart,2-0,0-0,Bayern Munich
+Sun Mar 5 2000,Ein Frankfurt,1-1,0-1,Dortmund
+Sun Mar 5 2000,Ulm,2-1,1-0,Werder Bremen
+Fri Mar 10 2000,Stuttgart,0-2,0-0,Ein Frankfurt
+Fri Mar 10 2000,Unterhaching,1-2,0-2,Kaiserslautern
+Sat Mar 11 2000,Bayern Munich,4-1,1-0,Schalke 04
+Sat Mar 11 2000,Bielefeld,2-2,2-0,Munich 1860
+Sat Mar 11 2000,Duisburg,0-0,0-0,Hertha
+Sat Mar 11 2000,Hamburg,1-2,0-1,Ulm
+Sat Mar 11 2000,Leverkusen,4-1,1-0,Wolfsburg
+Sun Mar 12 2000,Hansa Rostock,1-0,0-0,Dortmund
+Sun Mar 12 2000,Werder Bremen,5-2,2-1,Freiburg
+Fri Mar 17 2000,Ein Frankfurt,0-0,0-0,Hansa Rostock
+Fri Mar 17 2000,Wolfsburg,2-2,1-0,Unterhaching
+Sat Mar 18 2000,Freiburg,0-2,0-1,Hamburg
+Sat Mar 18 2000,Hertha,1-1,0-1,Bayern Munich
+Sat Mar 18 2000,Kaiserslautern,3-2,1-0,Duisburg
+Sat Mar 18 2000,Schalke 04,3-0,0-0,Stuttgart
+Sat Mar 18 2000,Ulm,1-9,0-4,Leverkusen
+Sun Mar 19 2000,Dortmund,1-3,1-2,Bielefeld
+Sun Mar 19 2000,Munich 1860,1-0,0-0,Werder Bremen
+Fri Mar 24 2000,Bielefeld,2-2,0-1,Hansa Rostock
+Fri Mar 24 2000,Unterhaching,1-0,0-0,Ulm
+Sat Mar 25 2000,Bayern Munich,2-2,1-2,Kaiserslautern
+Sat Mar 25 2000,Duisburg,2-3,1-0,Wolfsburg
+Sat Mar 25 2000,Hamburg,2-0,1-0,Munich 1860
+Sat Mar 25 2000,Leverkusen,1-1,0-1,Freiburg
+Sat Mar 25 2000,Stuttgart,1-0,0-0,Hertha
+Sun Mar 26 2000,Schalke 04,0-0,0-0,Ein Frankfurt
+Sun Mar 26 2000,Werder Bremen,3-2,2-1,Dortmund
+Fri Mar 31 2000,Freiburg,4-3,1-1,Unterhaching
+Fri Mar 31 2000,Ulm,0-3,0-2,Duisburg
+Sat Apr 1 2000,Dortmund,0-1,0-0,Hamburg
+Sat Apr 1 2000,Ein Frankfurt,2-1,1-0,Bielefeld
+Sat Apr 1 2000,Hertha,2-1,1-1,Schalke 04
+Sat Apr 1 2000,Munich 1860,1-2,0-0,Leverkusen
+Sat Apr 1 2000,Wolfsburg,1-1,0-1,Bayern Munich
+Sun Apr 2 2000,Hansa Rostock,1-1,1-1,Werder Bremen
+Sun Apr 2 2000,Kaiserslautern,1-2,1-1,Stuttgart
+Fri Apr 7 2000,Hamburg,1-0,1-0,Hansa Rostock
+Fri Apr 7 2000,Unterhaching,1-1,0-0,Munich 1860
+Sat Apr 8 2000,Bayern Munich,4-0,2-0,Ulm
+Sat Apr 8 2000,Hertha,1-0,1-0,Ein Frankfurt
+Sat Apr 8 2000,Leverkusen,3-1,1-1,Dortmund
+Sat Apr 8 2000,Schalke 04,1-2,1-2,Kaiserslautern
+Sat Apr 8 2000,Stuttgart,2-5,2-2,Wolfsburg
+Sun Apr 9 2000,Duisburg,1-2,0-0,Freiburg
+Sun Apr 9 2000,Werder Bremen,3-1,2-0,Bielefeld
+Tue Apr 11 2000,Dortmund,1-3,1-1,Unterhaching
+Tue Apr 11 2000,Kaiserslautern,1-2,1-1,Hertha
+Tue Apr 11 2000,Ulm,1-1,0-1,Stuttgart
+Tue Apr 11 2000,Wolfsburg,0-0,0-0,Schalke 04
+Wed Apr 12 2000,Bielefeld,3-0,1-0,Hamburg
+Wed Apr 12 2000,Ein Frankfurt,1-0,0-0,Werder Bremen
+Wed Apr 12 2000,Freiburg,1-2,1-1,Bayern Munich
+Wed Apr 12 2000,Hansa Rostock,1-1,1-0,Leverkusen
+Wed Apr 12 2000,Munich 1860,4-1,3-0,Duisburg
+Fri Apr 14 2000,Hertha,0-0,0-0,Wolfsburg
+Fri Apr 14 2000,Schalke 04,0-0,0-0,Ulm
+Sat Apr 15 2000,Bayern Munich,1-2,1-2,Munich 1860
+Sat Apr 15 2000,Duisburg,2-2,2-2,Dortmund
+Sat Apr 15 2000,Hamburg,0-0,0-0,Werder Bremen
+Sat Apr 15 2000,Kaiserslautern,1-0,0-0,Ein Frankfurt
+Sat Apr 15 2000,Stuttgart,1-0,0-0,Freiburg
+Sun Apr 16 2000,Leverkusen,4-1,3-0,Bielefeld
+Sun Apr 16 2000,Unterhaching,1-1,0-0,Hansa Rostock
+Thu Apr 20 2000,Ein Frankfurt,3-0,1-0,Hamburg
+Thu Apr 20 2000,Werder Bremen,1-3,0-3,Leverkusen
+Sat Apr 22 2000,Freiburg,2-1,1-1,Schalke 04
+Sat Apr 22 2000,Hansa Rostock,3-1,2-0,Duisburg
+Sat Apr 22 2000,Munich 1860,1-1,0-0,Stuttgart
+Sat Apr 22 2000,Ulm,0-1,0-0,Hertha
+Sat Apr 22 2000,Wolfsburg,3-2,0-2,Kaiserslautern
+Sun Apr 23 2000,Bielefeld,1-0,0-0,Unterhaching
+Sun Apr 23 2000,Dortmund,0-1,0-1,Bayern Munich
+Thu Apr 27 2000,Duisburg,0-3,0-2,Bielefeld
+Fri Apr 28 2000,Ein Frankfurt,4-0,2-0,Wolfsburg
+Fri Apr 28 2000,Hertha,0-0,0-0,Freiburg
+Sat Apr 29 2000,Bayern Munich,4-1,0-1,Hansa Rostock
+Sat Apr 29 2000,Kaiserslautern,6-2,1-1,Ulm
+Sat Apr 29 2000,Schalke 04,2-2,2-1,Munich 1860
+Sat Apr 29 2000,Stuttgart,1-2,0-1,Dortmund
+Sun Apr 30 2000,Hamburg,0-2,0-2,Leverkusen
+Sun Apr 30 2000,Unterhaching,1-0,0-0,Werder Bremen
+Sat May 13 2000,Bielefeld,0-3,0-3,Bayern Munich
+Sat May 13 2000,Dortmund,1-1,0-0,Schalke 04
+Sat May 13 2000,Freiburg,2-1,1-1,Kaiserslautern
+Sat May 13 2000,Hamburg,3-0,1-0,Unterhaching
+Sat May 13 2000,Hansa Rostock,1-4,0-2,Stuttgart
+Sat May 13 2000,Leverkusen,4-1,1-1,Ein Frankfurt
+Sat May 13 2000,Munich 1860,2-1,1-0,Hertha
+Sat May 13 2000,Ulm,2-0,1-0,Wolfsburg
+Sat May 13 2000,Werder Bremen,4-0,2-0,Duisburg
+Sat May 20 2000,Bayern Munich,3-1,3-1,Werder Bremen
+Sat May 20 2000,Duisburg,1-1,1-1,Hamburg
+Sat May 20 2000,Ein Frankfurt,2-1,1-1,Ulm
+Sat May 20 2000,Hertha,0-3,0-0,Dortmund
+Sat May 20 2000,Kaiserslautern,1-1,0-0,Munich 1860
+Sat May 20 2000,Schalke 04,0-2,0-1,Hansa Rostock
+Sat May 20 2000,Stuttgart,3-3,3-1,Bielefeld
+Sat May 20 2000,Unterhaching,2-0,1-0,Leverkusen
+Sat May 20 2000,Wolfsburg,2-1,1-0,Freiburg

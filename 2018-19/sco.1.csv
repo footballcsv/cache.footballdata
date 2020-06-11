@@ -1,0 +1,229 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 4 2018,Celtic,3-1,2-0,Livingston
+Sat Aug 4 2018,Hamilton,1-4,1-1,Hearts
+Sat Aug 4 2018,Kilmarnock,2-0,0-0,St Johnstone
+Sat Aug 4 2018,St Mirren,2-1,1-1,Dundee
+Sun Aug 5 2018,Aberdeen,1-1,0-1,Rangers
+Sun Aug 5 2018,Hibernian,3-0,2-0,Motherwell
+Sat Aug 11 2018,Dundee,0-1,0-0,Aberdeen
+Sat Aug 11 2018,Hearts,1-0,0-0,Celtic
+Sat Aug 11 2018,Livingston,0-0,0-0,Kilmarnock
+Sat Aug 11 2018,Motherwell,0-1,0-0,Hamilton
+Sun Aug 12 2018,Rangers,2-0,2-0,St Mirren
+Sun Aug 12 2018,St Johnstone,1-1,1-0,Hibernian
+Sat Aug 25 2018,Hibernian,1-1,0-1,Aberdeen
+Sat Aug 25 2018,Kilmarnock,0-1,0-0,Hearts
+Sat Aug 25 2018,St Johnstone,1-0,0-0,Dundee
+Sat Aug 25 2018,St Mirren,0-2,0-2,Livingston
+Sun Aug 26 2018,Celtic,1-0,0-0,Hamilton
+Sun Aug 26 2018,Motherwell,3-3,2-3,Rangers
+Sat Sep 1 2018,Aberdeen,0-2,0-1,Kilmarnock
+Sat Sep 1 2018,Dundee,1-3,0-0,Motherwell
+Sat Sep 1 2018,Hamilton,1-2,0-2,St Johnstone
+Sat Sep 1 2018,Hearts,4-1,4-1,St Mirren
+Sat Sep 1 2018,Livingston,2-1,0-0,Hibernian
+Sun Sep 2 2018,Celtic,1-0,0-0,Rangers
+Fri Sep 14 2018,St Mirren,0-0,0-0,Celtic
+Sat Sep 15 2018,Hibernian,3-2,2-2,Kilmarnock
+Sat Sep 15 2018,Livingston,1-0,1-0,Hamilton
+Sat Sep 15 2018,Motherwell,0-1,0-1,Hearts
+Sat Sep 15 2018,Rangers,4-0,3-0,Dundee
+Sat Sep 15 2018,St Johnstone,1-1,1-0,Aberdeen
+Sat Sep 22 2018,Aberdeen,1-0,1-0,Motherwell
+Sat Sep 22 2018,Dundee,0-3,0-0,Hibernian
+Sat Sep 22 2018,Hamilton,3-0,2-0,St Mirren
+Sat Sep 22 2018,Hearts,0-0,0-0,Livingston
+Sun Sep 23 2018,Kilmarnock,2-1,0-1,Celtic
+Sun Sep 23 2018,Rangers,5-1,2-0,St Johnstone
+Sat Sep 29 2018,Celtic,1-0,0-0,Aberdeen
+Sat Sep 29 2018,Hamilton,0-2,0-1,Dundee
+Sat Sep 29 2018,Hearts,2-1,1-0,St Johnstone
+Sat Sep 29 2018,Kilmarnock,3-1,2-1,Motherwell
+Sat Sep 29 2018,St Mirren,0-1,0-1,Hibernian
+Sun Sep 30 2018,Livingston,1-0,1-0,Rangers
+Sat Oct 6 2018,Aberdeen,4-1,3-0,St Mirren
+Sat Oct 6 2018,Dundee,1-2,1-1,Kilmarnock
+Sat Oct 6 2018,Hibernian,6-0,3-0,Hamilton
+Sat Oct 6 2018,Motherwell,1-1,1-0,Livingston
+Sun Oct 7 2018,Rangers,3-1,3-0,Hearts
+Sun Oct 7 2018,St Johnstone,0-6,0-5,Celtic
+Sat Oct 20 2018,Celtic,4-2,2-0,Hibernian
+Sat Oct 20 2018,Hearts,2-1,2-0,Aberdeen
+Sat Oct 20 2018,Livingston,4-0,2-0,Dundee
+Sat Oct 20 2018,Motherwell,0-1,0-0,St Johnstone
+Sat Oct 20 2018,St Mirren,1-2,1-0,Kilmarnock
+Sun Oct 21 2018,Hamilton,1-4,0-1,Rangers
+Tue Oct 23 2018,Dundee,0-3,0-2,Hearts
+Sat Oct 27 2018,Kilmarnock,1-1,1-1,Hamilton
+Sat Oct 27 2018,St Johnstone,2-0,0-0,St Mirren
+Wed Oct 31 2018,Aberdeen,3-0,2-0,Hamilton
+Wed Oct 31 2018,Dundee,0-5,0-4,Celtic
+Wed Oct 31 2018,Hearts,0-0,0-0,Hibernian
+Wed Oct 31 2018,Livingston,0-1,0-1,St Johnstone
+Wed Oct 31 2018,Rangers,1-1,1-1,Kilmarnock
+Wed Oct 31 2018,St Mirren,0-2,0-1,Motherwell
+Sat Nov 3 2018,Celtic,5-0,3-0,Hearts
+Sat Nov 3 2018,Hamilton,1-0,0-0,Livingston
+Sat Nov 3 2018,Hibernian,0-1,0-0,St Johnstone
+Sat Nov 3 2018,Motherwell,1-0,0-0,Dundee
+Sat Nov 3 2018,St Mirren,0-2,0-0,Rangers
+Sun Nov 4 2018,Kilmarnock,1-2,1-0,Aberdeen
+Fri Nov 9 2018,Aberdeen,1-0,1-0,Hibernian
+Sat Nov 10 2018,Dundee,1-1,1-1,St Mirren
+Sat Nov 10 2018,Hearts,0-1,0-0,Kilmarnock
+Sat Nov 10 2018,St Johnstone,4-0,2-0,Hamilton
+Sun Nov 11 2018,Livingston,0-0,0-0,Celtic
+Sun Nov 11 2018,Rangers,7-1,3-1,Motherwell
+Sat Nov 24 2018,Hamilton,0-3,0-1,Celtic
+Sat Nov 24 2018,Hibernian,2-2,2-1,Dundee
+Sat Nov 24 2018,Motherwell,3-0,2-0,Aberdeen
+Sat Nov 24 2018,Rangers,3-0,1-0,Livingston
+Sat Nov 24 2018,St Johnstone,0-0,0-0,Kilmarnock
+Sat Nov 24 2018,St Mirren,2-0,0-0,Hearts
+Sat Dec 1 2018,Kilmarnock,3-0,2-0,Hibernian
+Sat Dec 1 2018,Livingston,2-0,1-0,Motherwell
+Sat Dec 1 2018,St Mirren,1-3,1-2,Hamilton
+Sun Dec 2 2018,Hearts,1-2,1-2,Rangers
+Wed Dec 5 2018,Dundee,4-0,1-0,Hamilton
+Wed Dec 5 2018,Hibernian,2-2,0-1,St Mirren
+Wed Dec 5 2018,Kilmarnock,2-0,2-0,Livingston
+Wed Dec 5 2018,Motherwell,1-1,0-1,Celtic
+Wed Dec 5 2018,Rangers,0-1,0-1,Aberdeen
+Wed Dec 5 2018,St Johnstone,2-2,1-2,Hearts
+Sat Dec 8 2018,Aberdeen,0-2,0-0,St Johnstone
+Sat Dec 8 2018,Celtic,5-1,4-0,Kilmarnock
+Sat Dec 8 2018,Hamilton,0-1,0-0,Hibernian
+Sat Dec 8 2018,Hearts,1-0,1-0,Motherwell
+Sat Dec 8 2018,Livingston,3-1,0-1,St Mirren
+Sun Dec 9 2018,Dundee,1-1,1-1,Rangers
+Tue Dec 11 2018,Aberdeen,3-2,1-2,Livingston
+Fri Dec 14 2018,Livingston,5-0,0-0,Hearts
+Sat Dec 15 2018,Kilmarnock,3-1,0-0,Dundee
+Sat Dec 15 2018,St Johnstone,1-2,0-2,Motherwell
+Sat Dec 15 2018,St Mirren,1-2,1-1,Aberdeen
+Sun Dec 16 2018,Hibernian,2-0,1-0,Celtic
+Sun Dec 16 2018,Rangers,1-0,1-0,Hamilton
+Tue Dec 18 2018,Aberdeen,5-1,2-0,Dundee
+Wed Dec 19 2018,Celtic,3-0,3-0,Motherwell
+Wed Dec 19 2018,Hibernian,0-0,0-0,Rangers
+Sat Dec 22 2018,Aberdeen,2-0,1-0,Hearts
+Sat Dec 22 2018,Celtic,3-0,1-0,Dundee
+Sat Dec 22 2018,Hamilton,1-1,1-1,Kilmarnock
+Sat Dec 22 2018,Hibernian,1-1,0-0,Livingston
+Sat Dec 22 2018,Motherwell,0-1,0-0,St Mirren
+Sun Dec 23 2018,St Johnstone,1-2,1-0,Rangers
+Wed Dec 26 2018,Aberdeen,3-4,1-1,Celtic
+Wed Dec 26 2018,Dundee,0-0,0-0,Livingston
+Wed Dec 26 2018,Hearts,2-0,2-0,Hamilton
+Wed Dec 26 2018,Motherwell,0-1,0-1,Kilmarnock
+Wed Dec 26 2018,Rangers,1-1,1-0,Hibernian
+Wed Dec 26 2018,St Mirren,0-1,0-0,St Johnstone
+Sat Dec 29 2018,Dundee,0-2,0-1,St Johnstone
+Sat Dec 29 2018,Hamilton,1-2,1-1,Motherwell
+Sat Dec 29 2018,Hibernian,0-1,0-1,Hearts
+Sat Dec 29 2018,Kilmarnock,2-1,2-1,St Mirren
+Sat Dec 29 2018,Livingston,1-2,0-0,Aberdeen
+Sat Dec 29 2018,Rangers,1-0,1-0,Celtic
+Wed Jan 23 2019,Celtic,4-0,2-0,St Mirren
+Wed Jan 23 2019,Hamilton,0-3,0-1,Aberdeen
+Wed Jan 23 2019,Hearts,1-2,1-1,Dundee
+Wed Jan 23 2019,Kilmarnock,2-1,1-1,Rangers
+Wed Jan 23 2019,Motherwell,1-0,1-0,Hibernian
+Wed Jan 23 2019,St Johnstone,1-0,0-0,Livingston
+Sat Jan 26 2019,Aberdeen,0-0,0-0,Kilmarnock
+Sat Jan 26 2019,Celtic,3-0,1-0,Hamilton
+Sat Jan 26 2019,Dundee,0-1,0-0,Motherwell
+Sat Jan 26 2019,Hearts,2-0,0-0,St Johnstone
+Sun Jan 27 2019,Livingston,0-3,0-1,Rangers
+Sun Jan 27 2019,St Mirren,1-3,1-0,Hibernian
+Wed Jan 30 2019,Celtic,2-0,0-0,St Johnstone
+Fri Feb 1 2019,Kilmarnock,1-2,1-2,Hearts
+Sat Feb 2 2019,Hamilton,1-1,0-0,Dundee
+Sat Feb 2 2019,Hibernian,1-2,1-2,Aberdeen
+Sat Feb 2 2019,Motherwell,3-0,3-0,Livingston
+Sat Feb 2 2019,Rangers,4-0,1-0,St Mirren
+Sun Feb 3 2019,St Johnstone,0-2,0-0,Celtic
+Wed Feb 6 2019,Aberdeen,2-4,1-3,Rangers
+Wed Feb 6 2019,Celtic,2-0,1-0,Hibernian
+Wed Feb 6 2019,Dundee,2-2,2-1,Kilmarnock
+Wed Feb 6 2019,Hamilton,2-1,0-0,St Johnstone
+Wed Feb 6 2019,Hearts,0-0,0-0,Livingston
+Wed Feb 6 2019,St Mirren,1-2,0-1,Motherwell
+Sat Feb 16 2019,Aberdeen,2-2,1-1,St Mirren
+Sat Feb 16 2019,Hibernian,2-0,2-0,Hamilton
+Sat Feb 16 2019,Livingston,1-2,1-0,Dundee
+Sat Feb 16 2019,Rangers,0-0,0-0,St Johnstone
+Sun Feb 17 2019,Kilmarnock,0-1,0-0,Celtic
+Sun Feb 17 2019,Motherwell,2-1,1-1,Hearts
+Fri Feb 22 2019,Dundee,2-4,1-2,Hibernian
+Sat Feb 23 2019,Hearts,1-1,0-0,St Mirren
+Sat Feb 23 2019,Livingston,1-0,1-0,Kilmarnock
+Sat Feb 23 2019,St Johnstone,0-2,0-1,Aberdeen
+Sun Feb 24 2019,Celtic,4-1,2-0,Motherwell
+Sun Feb 24 2019,Hamilton,0-5,0-4,Rangers
+Wed Feb 27 2019,Aberdeen,0-2,0-1,Hamilton
+Wed Feb 27 2019,Hearts,1-2,0-1,Celtic
+Wed Feb 27 2019,Rangers,4-0,3-0,Dundee
+Wed Feb 27 2019,St Johnstone,1-2,1-0,Hibernian
+Sat Mar 2 2019,Kilmarnock,0-0,0-0,Motherwell
+Sat Mar 2 2019,St Mirren,1-0,0-0,Livingston
+Fri Mar 8 2019,Hibernian,1-1,0-1,Rangers
+Sat Mar 9 2019,Celtic,0-0,0-0,Aberdeen
+Sat Mar 9 2019,Dundee,0-1,0-1,Hearts
+Sat Mar 9 2019,Livingston,3-1,1-1,St Johnstone
+Sat Mar 9 2019,Motherwell,3-0,3-0,Hamilton
+Mon Mar 11 2019,St Mirren,0-1,0-0,Kilmarnock
+Sat Mar 16 2019,Aberdeen,1-1,1-1,Livingston
+Sat Mar 16 2019,Hamilton,1-0,1-0,Hearts
+Sat Mar 16 2019,Hibernian,2-0,2-0,Motherwell
+Sat Mar 16 2019,Rangers,1-1,0-1,Kilmarnock
+Sun Mar 17 2019,Dundee,0-1,0-0,Celtic
+Wed Mar 27 2019,St Johnstone,1-0,1-0,St Mirren
+Fri Mar 29 2019,Livingston,1-2,0-0,Hibernian
+Sat Mar 30 2019,Hearts,2-1,0-1,Aberdeen
+Sat Mar 30 2019,Kilmarnock,5-0,1-0,Hamilton
+Sat Mar 30 2019,Motherwell,3-0,0-0,St Johnstone
+Sat Mar 30 2019,St Mirren,2-1,1-1,Dundee
+Sun Mar 31 2019,Celtic,2-1,1-0,Rangers
+Wed Apr 3 2019,Aberdeen,3-1,1-1,Motherwell
+Wed Apr 3 2019,Hibernian,0-0,0-0,Kilmarnock
+Wed Apr 3 2019,Livingston,2-0,0-0,Hamilton
+Wed Apr 3 2019,Rangers,3-0,2-0,Hearts
+Wed Apr 3 2019,St Johnstone,2-0,1-0,Dundee
+Wed Apr 3 2019,St Mirren,0-2,0-1,Celtic
+Sat Apr 6 2019,Celtic,0-0,0-0,Livingston
+Sat Apr 6 2019,Dundee,0-2,0-0,Aberdeen
+Sat Apr 6 2019,Hamilton,1-1,0-0,St Mirren
+Sat Apr 6 2019,Hearts,1-2,1-1,Hibernian
+Sat Apr 6 2019,Kilmarnock,2-0,2-0,St Johnstone
+Sun Apr 7 2019,Motherwell,0-3,0-2,Rangers
+Sat Apr 20 2019,Hamilton,1-1,0-1,Motherwell
+Sat Apr 20 2019,Hearts,1-3,0-2,Rangers
+Sat Apr 20 2019,Kilmarnock,0-1,0-0,Aberdeen
+Sat Apr 20 2019,Livingston,1-3,1-1,St Mirren
+Sat Apr 20 2019,St Johnstone,2-0,0-0,Dundee
+Sun Apr 21 2019,Hibernian,0-0,0-0,Celtic
+Sat Apr 27 2019,Celtic,1-0,0-0,Kilmarnock
+Sat Apr 27 2019,Hamilton,3-3,1-0,Livingston
+Sat Apr 27 2019,Motherwell,4-3,2-2,Dundee
+Sat Apr 27 2019,St Mirren,1-1,0-0,St Johnstone
+Sun Apr 28 2019,Hibernian,1-1,0-0,Hearts
+Sun Apr 28 2019,Rangers,2-0,0-0,Aberdeen
+Sat May 4 2019,Aberdeen,0-3,0-1,Celtic
+Sat May 4 2019,Dundee,0-1,0-0,Hamilton
+Sat May 4 2019,Hearts,0-1,0-0,Kilmarnock
+Sat May 4 2019,Motherwell,1-1,0-0,St Mirren
+Sat May 4 2019,St Johnstone,1-1,1-0,Livingston
+Sun May 5 2019,Rangers,1-0,1-0,Hibernian
+Fri May 10 2019,Aberdeen,2-1,0-0,Hearts
+Sat May 11 2019,Kilmarnock,1-0,1-0,Hibernian
+Sat May 11 2019,Livingston,0-1,0-1,Dundee
+Sat May 11 2019,St Johnstone,2-0,1-0,Motherwell
+Sun May 12 2019,Rangers,2-0,1-0,Celtic
+Mon May 13 2019,St Mirren,2-0,0-0,Hamilton
+Sat May 18 2019,Dundee,2-3,1-0,St Mirren
+Sat May 18 2019,Hamilton,2-0,1-0,St Johnstone
+Sat May 18 2019,Motherwell,3-2,3-0,Livingston
+Sun May 19 2019,Celtic,2-1,1-1,Hearts
+Sun May 19 2019,Hibernian,1-2,1-1,Aberdeen
+Sun May 19 2019,Kilmarnock,2-1,1-0,Rangers

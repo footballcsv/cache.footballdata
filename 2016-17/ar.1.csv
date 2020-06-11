@@ -1,0 +1,451 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 26 2016,Sarmiento Junin,1-0,?,Arsenal Sarandi
+Fri Aug 26 2016,Godoy Cruz,1-0,?,Huracan
+Sat Aug 27 2016,Gimnasia L.P.,2-0,?,Velez Sarsfield
+Sat Aug 27 2016,Rosario Central,0-0,?,Defensa y Justicia
+Sat Aug 27 2016,Racing Club,1-1,?,Talleres Cordoba
+Sat Aug 27 2016,Atl. Tucuman,1-0,?,Atl. Rafaela
+Sat Aug 27 2016,San Lorenzo,2-2,?,San Martin S.J.
+Sun Aug 28 2016,Tigre,0-3,?,Estudiantes L.P.
+Sun Aug 28 2016,Quilmes,0-1,?,Newells Old Boys
+Sun Aug 28 2016,Belgrano,0-1,?,Independiente
+Sun Aug 28 2016,Union de Santa Fe,1-0,?,Olimpo Bahia Blanca
+Sun Aug 28 2016,River Plate,4-1,?,Banfield
+Sun Aug 28 2016,Lanus,1-0,?,Boca Juniors
+Mon Aug 29 2016,Aldosivi,0-2,?,Colon Santa FE
+Mon Aug 29 2016,Temperley,1-0,?,Patronato
+Fri Sep 9 2016,Patronato,0-1,?,Gimnasia L.P.
+Fri Sep 9 2016,Huracan,1-1,?,Quilmes
+Sat Sep 10 2016,Olimpo Bahia Blanca,0-0,?,Lanus
+Sat Sep 10 2016,Banfield,0-0,?,Colon Santa FE
+Sat Sep 10 2016,San Martin S.J.,0-2,?,Racing Club
+Sat Sep 10 2016,Union de Santa Fe,0-0,?,Aldosivi
+Sat Sep 10 2016,Defensa y Justicia,0-2,?,San Lorenzo
+Sat Sep 10 2016,Independiente,2-0,?,Godoy Cruz
+Sun Sep 11 2016,Newells Old Boys,1-0,?,Tigre
+Sun Sep 11 2016,Velez Sarsfield,2-0,?,Rosario Central
+Sun Sep 11 2016,Estudiantes L.P.,1-0,?,Sarmiento Junin
+Sun Sep 11 2016,Boca Juniors,3-0,?,Belgrano
+Sun Sep 11 2016,Talleres Cordoba,0-1,?,River Plate
+Mon Sep 12 2016,Arsenal Sarandi,1-3,?,Atl. Tucuman
+Mon Sep 12 2016,Atl. Rafaela,1-0,?,Temperley
+Fri Sep 16 2016,Colon Santa FE,1-0,?,Talleres Cordoba
+Sat Sep 17 2016,Lanus,0-1,?,Union de Santa Fe
+Sat Sep 17 2016,San Lorenzo,2-1,?,Velez Sarsfield
+Sat Sep 17 2016,Rosario Central,2-1,?,Patronato
+Sat Sep 17 2016,Aldosivi,1-3,?,Banfield
+Sat Sep 17 2016,Quilmes,1-1,?,Independiente
+Sat Sep 17 2016,Sarmiento Junin,1-1,?,Newells Old Boys
+Sun Sep 18 2016,Atl. Tucuman,0-2,?,Estudiantes L.P.
+Sun Sep 18 2016,Temperley,1-1,?,Arsenal Sarandi
+Sun Sep 18 2016,Belgrano,0-0,?,Olimpo Bahia Blanca
+Sun Sep 18 2016,Godoy Cruz,1-1,?,Boca Juniors
+Sun Sep 18 2016,River Plate,1-1,?,San Martin S.J.
+Sun Sep 18 2016,Racing Club,1-1,?,Defensa y Justicia
+Mon Sep 19 2016,Tigre,1-1,?,Huracan
+Mon Sep 19 2016,Gimnasia L.P.,0-1,?,Atl. Rafaela
+Fri Sep 23 2016,Olimpo Bahia Blanca,3-0,?,Godoy Cruz
+Sat Sep 24 2016,Newells Old Boys,3-1,?,Atl. Tucuman
+Sat Sep 24 2016,Atl. Rafaela,0-0,?,Rosario Central
+Sat Sep 24 2016,Velez Sarsfield,0-3,?,Racing Club
+Sat Sep 24 2016,Independiente,1-1,?,Tigre
+Sat Sep 24 2016,Huracan,0-0,?,Sarmiento Junin
+Sun Sep 25 2016,Estudiantes L.P.,3-0,?,Temperley
+Sun Sep 25 2016,Union de Santa Fe,0-2,?,Belgrano
+Sun Sep 25 2016,Talleres Cordoba,0-0,?,Banfield
+Sun Sep 25 2016,Patronato,1-1,?,San Lorenzo
+Sun Sep 25 2016,Boca Juniors,4-1,?,Quilmes
+Sun Sep 25 2016,Lanus,0-0,?,Aldosivi
+Sun Sep 25 2016,Defensa y Justicia,3-3,?,River Plate
+Mon Sep 26 2016,Arsenal Sarandi,2-2,?,Gimnasia L.P.
+Mon Sep 26 2016,San Martin S.J.,0-0,?,Colon Santa FE
+Fri Sep 30 2016,Quilmes,2-1,?,Olimpo Bahia Blanca
+Fri Sep 30 2016,Godoy Cruz,2-1,?,Union de Santa Fe
+Sat Oct 1 2016,Rosario Central,5-0,?,Arsenal Sarandi
+Sat Oct 1 2016,Aldosivi,2-1,?,Talleres Cordoba
+Sat Oct 1 2016,Temperley,0-0,?,Newells Old Boys
+Sat Oct 1 2016,Racing Club,2-0,?,Patronato
+Sat Oct 1 2016,River Plate,3-0,?,Velez Sarsfield
+Sun Oct 2 2016,San Lorenzo,2-1,?,Atl. Rafaela
+Sun Oct 2 2016,Belgrano,1-1,?,Lanus
+Sun Oct 2 2016,Gimnasia L.P.,0-0,?,Estudiantes L.P.
+Sun Oct 2 2016,Banfield,3-2,?,San Martin S.J.
+Sun Oct 2 2016,Colon Santa FE,1-0,?,Defensa y Justicia
+Sun Oct 2 2016,Sarmiento Junin,0-1,?,Independiente
+Sun Oct 2 2016,Tigre,1-1,?,Boca Juniors
+Mon Oct 3 2016,Atl. Tucuman,0-2,?,Huracan
+Fri Oct 14 2016,Defensa y Justicia,1-0,?,Banfield
+Fri Oct 14 2016,Belgrano,0-0,?,Aldosivi
+Sat Oct 15 2016,Velez Sarsfield,2-1,?,Colon Santa FE
+Sat Oct 15 2016,Atl. Rafaela,3-2,?,Racing Club
+Sat Oct 15 2016,Huracan,1-2,?,Temperley
+Sat Oct 15 2016,Estudiantes L.P.,3-2,?,Rosario Central
+Sat Oct 15 2016,San Martin S.J.,1-3,?,Talleres Cordoba
+Sat Oct 15 2016,Independiente,0-2,?,Atl. Tucuman
+Sun Oct 16 2016,Lanus,3-0,?,Godoy Cruz
+Sun Oct 16 2016,Boca Juniors,2-0,?,Sarmiento Junin
+Sun Oct 16 2016,Olimpo Bahia Blanca,1-4,?,Tigre
+Sun Oct 16 2016,Newells Old Boys,1-0,?,Gimnasia L.P.
+Sun Oct 16 2016,Arsenal Sarandi,1-3,?,San Lorenzo
+Sun Oct 16 2016,Patronato,2-1,?,River Plate
+Mon Oct 17 2016,Union de Santa Fe,1-1,?,Quilmes
+Fri Oct 21 2016,Sarmiento Junin,1-1,?,Olimpo Bahia Blanca
+Fri Oct 21 2016,Talleres Cordoba,2-0,?,Defensa y Justicia
+Sat Oct 22 2016,Quilmes,1-0,?,Lanus
+Sat Oct 22 2016,Godoy Cruz,2-0,?,Belgrano
+Sat Oct 22 2016,Temperley,0-1,?,Independiente
+Sat Oct 22 2016,Colon Santa FE,0-1,?,Patronato
+Sat Oct 22 2016,Racing Club,1-0,?,Arsenal Sarandi
+Sat Oct 22 2016,River Plate,1-0,?,Atl. Rafaela
+Sun Oct 23 2016,Gimnasia L.P.,1-0,?,Huracan
+Sun Oct 23 2016,Banfield,1-0,?,Velez Sarsfield
+Sun Oct 23 2016,Rosario Central,0-1,?,Newells Old Boys
+Sun Oct 23 2016,Tigre,3-1,?,Union de Santa Fe
+Sun Oct 23 2016,San Lorenzo,1-2,?,Estudiantes L.P.
+Sun Oct 23 2016,Atl. Tucuman,2-2,?,Boca Juniors
+Mon Oct 24 2016,Aldosivi,1-2,?,San Martin S.J.
+Fri Oct 28 2016,Olimpo Bahia Blanca,2-1,?,Atl. Tucuman
+Fri Oct 28 2016,Patronato,2-0,?,Banfield
+Sat Oct 29 2016,Velez Sarsfield,0-2,?,Talleres Cordoba
+Sat Oct 29 2016,Belgrano,0-0,?,Quilmes
+Sat Oct 29 2016,Boca Juniors,4-0,?,Temperley
+Sat Oct 29 2016,Independiente,0-0,?,Gimnasia L.P.
+Sat Oct 29 2016,Huracan,1-1,?,Rosario Central
+Sat Oct 29 2016,Estudiantes L.P.,2-1,?,Racing Club
+Sun Oct 30 2016,Lanus,1-1,?,Tigre
+Sun Oct 30 2016,Godoy Cruz,3-1,?,Aldosivi
+Sun Oct 30 2016,Newells Old Boys,2-2,?,San Lorenzo
+Sun Oct 30 2016,Atl. Rafaela,0-2,?,Colon Santa FE
+Sun Oct 30 2016,Arsenal Sarandi,2-2,?,River Plate
+Mon Oct 31 2016,Defensa y Justicia,0-0,?,San Martin S.J.
+Mon Oct 31 2016,Union de Santa Fe,1-0,?,Sarmiento Junin
+Fri Nov 4 2016,Temperley,0-0,?,Olimpo Bahia Blanca
+Sat Nov 5 2016,Quilmes,1-0,?,Godoy Cruz
+Sat Nov 5 2016,River Plate,1-1,?,Estudiantes L.P.
+Sat Nov 5 2016,Sarmiento Junin,1-2,?,Lanus
+Sat Nov 5 2016,Colon Santa FE,1-0,?,Arsenal Sarandi
+Sat Nov 5 2016,Racing Club,2-1,?,Newells Old Boys
+Sat Nov 5 2016,San Martin S.J.,2-0,?,Velez Sarsfield
+Sun Nov 6 2016,Banfield,1-1,?,Atl. Rafaela
+Sun Nov 6 2016,San Lorenzo,2-0,?,Huracan
+Sun Nov 6 2016,Tigre,2-1,?,Belgrano
+Sun Nov 6 2016,Talleres Cordoba,1-0,?,Patronato
+Sun Nov 6 2016,Rosario Central,0-0,?,Independiente
+Sun Nov 6 2016,Gimnasia L.P.,0-3,?,Boca Juniors
+Mon Nov 7 2016,Aldosivi,0-0,?,Defensa y Justicia
+Tue Nov 8 2016,Atl. Tucuman,1-1,?,Union de Santa Fe
+Sun Nov 13 2016,Velez Sarsfield,2-1,?,Defensa y Justicia
+Fri Nov 18 2016,Arsenal Sarandi,1-3,?,Banfield
+Sat Nov 19 2016,Estudiantes L.P.,1-0,?,Colon Santa FE
+Sat Nov 19 2016,Godoy Cruz,2-1,?,Tigre
+Sat Nov 19 2016,Lanus,1-0,?,Atl. Tucuman
+Sat Nov 19 2016,Union de Santa Fe,2-1,?,Temperley
+Sat Nov 19 2016,Huracan,1-1,?,Racing Club
+Sun Nov 20 2016,Belgrano,1-2,?,Sarmiento Junin
+Sun Nov 20 2016,Independiente,1-2,?,San Lorenzo
+Sun Nov 20 2016,Quilmes,1-0,?,Aldosivi
+Sun Nov 20 2016,Boca Juniors,1-1,?,Rosario Central
+Sun Nov 20 2016,Atl. Rafaela,0-1,?,Talleres Cordoba
+Sun Nov 20 2016,Newells Old Boys,1-0,?,River Plate
+Mon Nov 21 2016,Olimpo Bahia Blanca,0-0,?,Gimnasia L.P.
+Mon Nov 21 2016,Patronato,3-0,?,San Martin S.J.
+Fri Nov 25 2016,Temperley,1-3,?,Lanus
+Fri Nov 25 2016,Talleres Cordoba,0-0,?,Arsenal Sarandi
+Sat Nov 26 2016,Colon Santa FE,1-2,?,Newells Old Boys
+Sat Nov 26 2016,Tigre,3-0,?,Quilmes
+Sat Nov 26 2016,Banfield,3-2,?,Estudiantes L.P.
+Sat Nov 26 2016,Atl. Tucuman,0-0,?,Belgrano
+Sat Nov 26 2016,Rosario Central,1-1,?,Olimpo Bahia Blanca
+Sun Nov 27 2016,Aldosivi,0-0,?,Velez Sarsfield
+Sun Nov 27 2016,River Plate,1-0,?,Huracan
+Sun Nov 27 2016,Sarmiento Junin,2-2,?,Godoy Cruz
+Sun Nov 27 2016,San Lorenzo,1-2,?,Boca Juniors
+Sun Nov 27 2016,Racing Club,3-0,?,Independiente
+Mon Nov 28 2016,Defensa y Justicia,1-2,?,Patronato
+Mon Nov 28 2016,Gimnasia L.P.,1-1,?,Union de Santa Fe
+Mon Nov 28 2016,San Martin S.J.,0-3,?,Atl. Rafaela
+Fri Dec 2 2016,Quilmes,1-3,?,Sarmiento Junin
+Sat Dec 3 2016,Huracan,1-3,?,Colon Santa FE
+Sat Dec 3 2016,Atl. Rafaela,0-1,?,Defensa y Justicia
+Sat Dec 3 2016,Newells Old Boys,0-2,?,Banfield
+Sat Dec 3 2016,Tigre,1-1,?,Aldosivi
+Sat Dec 3 2016,Godoy Cruz,1-2,?,Atl. Tucuman
+Sat Dec 3 2016,Olimpo Bahia Blanca,1-2,?,San Lorenzo
+Sun Dec 4 2016,Estudiantes L.P.,0-0,?,Talleres Cordoba
+Sun Dec 4 2016,Union de Santa Fe,2-0,?,Rosario Central
+Sun Dec 4 2016,Boca Juniors,4-2,?,Racing Club
+Sun Dec 4 2016,Patronato,0-0,?,Velez Sarsfield
+Sun Dec 4 2016,Belgrano,0-0,?,Temperley
+Sun Dec 4 2016,Independiente,1-0,?,River Plate
+Mon Dec 5 2016,Arsenal Sarandi,0-0,?,San Martin S.J.
+Mon Dec 5 2016,Lanus,1-0,?,Gimnasia L.P.
+Fri Dec 9 2016,Aldosivi,1-1,?,Patronato
+Fri Dec 9 2016,Sarmiento Junin,2-0,?,Tigre
+Fri Dec 9 2016,Temperley,1-0,?,Godoy Cruz
+Sat Dec 10 2016,San Lorenzo,3-2,?,Union de Santa Fe
+Sat Dec 10 2016,Talleres Cordoba,1-1,?,Newells Old Boys
+Sat Dec 10 2016,Velez Sarsfield,2-0,?,Atl. Rafaela
+Sat Dec 10 2016,Gimnasia L.P.,1-1,?,Belgrano
+Sat Dec 10 2016,Racing Club,0-2,?,Olimpo Bahia Blanca
+Sun Dec 11 2016,River Plate,2-4,?,Boca Juniors
+Sun Dec 11 2016,Banfield,1-0,?,Huracan
+Sun Dec 11 2016,San Martin S.J.,3-2,?,Estudiantes L.P.
+Sun Dec 11 2016,Colon Santa FE,0-2,?,Independiente
+Sun Dec 11 2016,Rosario Central,1-2,?,Lanus
+Sun Dec 11 2016,Atl. Tucuman,3-0,?,Quilmes
+Mon Dec 12 2016,Defensa y Justicia,2-0,?,Arsenal Sarandi
+Fri Dec 16 2016,Huracan,1-0,?,Talleres Cordoba
+Fri Dec 16 2016,Godoy Cruz,0-3,?,Gimnasia L.P.
+Sat Dec 17 2016,Estudiantes L.P.,1-2,?,Defensa y Justicia
+Sat Dec 17 2016,Sarmiento Junin,0-2,?,Aldosivi
+Sat Dec 17 2016,Union de Santa Fe,1-0,?,Racing Club
+Sat Dec 17 2016,Atl. Rafaela,3-0,?,Patronato
+Sat Dec 17 2016,Independiente,0-1,?,Banfield
+Sun Dec 18 2016,Belgrano,0-2,?,Rosario Central
+Sun Dec 18 2016,Lanus,2-2,?,San Lorenzo
+Sun Dec 18 2016,Arsenal Sarandi,2-1,?,Velez Sarsfield
+Sun Dec 18 2016,Boca Juniors,4-1,?,Colon Santa FE
+Sun Dec 18 2016,Newells Old Boys,6-1,?,San Martin S.J.
+Sun Dec 18 2016,Olimpo Bahia Blanca,1-2,?,River Plate
+Mon Dec 19 2016,Quilmes,1-0,?,Temperley
+Mon Dec 19 2016,Tigre,0-0,?,Atl. Tucuman
+Thu Mar 9 2017,Velez Sarsfield,3-2,?,Estudiantes L.P.
+Fri Mar 10 2017,Patronato,4-2,?,Arsenal Sarandi
+Sat Mar 11 2017,Defensa y Justicia,1-0,?,Newells Old Boys
+Sat Mar 11 2017,San Lorenzo,2-1,?,Belgrano
+Sat Mar 11 2017,Banfield,0-2,?,Boca Juniors
+Sat Mar 11 2017,San Martin S.J.,0-1,?,Huracan
+Sun Mar 12 2017,Gimnasia L.P.,3-1,?,Quilmes
+Sun Mar 12 2017,Racing Club,3-0,?,Lanus
+Sun Mar 12 2017,Temperley,3-1,?,Tigre
+Sun Mar 12 2017,River Plate,0-0,?,Union de Santa Fe
+Sun Mar 12 2017,Rosario Central,0-1,?,Godoy Cruz
+Sun Mar 12 2017,Atl. Tucuman,2-1,?,Sarmiento Junin
+Mon Mar 13 2017,Aldosivi,1-0,?,Atl. Rafaela
+Mon Mar 13 2017,Colon Santa FE,1-1,?,Olimpo Bahia Blanca
+Fri Mar 17 2017,Quilmes,0-1,?,Rosario Central
+Sat Mar 18 2017,Union de Santa Fe,0-2,?,Colon Santa FE
+Sat Mar 18 2017,Newells Old Boys,3-0,?,Velez Sarsfield
+Sat Mar 18 2017,Tigre,0-1,?,Gimnasia L.P.
+Sat Mar 18 2017,Independiente,0-0,?,San Martin S.J.
+Sat Mar 18 2017,Huracan,2-0,?,Defensa y Justicia
+Sun Mar 19 2017,Belgrano,2-0,?,Racing Club
+Sun Mar 19 2017,Sarmiento Junin,2-1,?,Temperley
+Sun Mar 19 2017,Estudiantes L.P.,1-0,?,Patronato
+Sun Mar 19 2017,Godoy Cruz,2-0,?,San Lorenzo
+Sun Mar 19 2017,Olimpo Bahia Blanca,1-0,?,Banfield
+Sun Mar 19 2017,Boca Juniors,1-2,?,Talleres Cordoba
+Mon Mar 20 2017,Arsenal Sarandi,1-2,?,Atl. Rafaela
+Mon Mar 20 2017,Atl. Tucuman,0-0,?,Aldosivi
+Tue Mar 21 2017,Lanus,1-3,?,River Plate
+Fri Mar 24 2017,Patronato,1-1,?,Newells Old Boys
+Sat Mar 25 2017,Banfield,3-1,?,Union de Santa Fe
+Sat Mar 25 2017,Rosario Central,1-0,?,Tigre
+Sat Mar 25 2017,San Lorenzo,3-0,?,Quilmes
+Sat Mar 25 2017,Gimnasia L.P.,1-0,?,Sarmiento Junin
+Sat Mar 25 2017,Racing Club,2-1,?,Godoy Cruz
+Sat Mar 25 2017,Atl. Rafaela,2-2,?,Estudiantes L.P.
+Sun Mar 26 2017,Colon Santa FE,1-0,?,Lanus
+Sun Mar 26 2017,San Martin S.J.,1-2,?,Boca Juniors
+Sun Mar 26 2017,River Plate,2-1,?,Belgrano
+Sun Mar 26 2017,Temperley,2-2,?,Atl. Tucuman
+Sun Mar 26 2017,Aldosivi,2-1,?,Arsenal Sarandi
+Mon Mar 27 2017,Velez Sarsfield,1-1,?,Huracan
+Mon Mar 27 2017,Talleres Cordoba,1-0,?,Olimpo Bahia Blanca
+Fri Mar 31 2017,Atl. Tucuman,0-1,?,Gimnasia L.P.
+Fri Mar 31 2017,Independiente,1-1,?,Velez Sarsfield
+Sat Apr 1 2017,Newells Old Boys,1-0,?,Atl. Rafaela
+Sat Apr 1 2017,Temperley,1-0,?,Aldosivi
+Sat Apr 1 2017,Quilmes,2-3,?,Racing Club
+Sat Apr 1 2017,Belgrano,0-1,?,Colon Santa FE
+Sat Apr 1 2017,Boca Juniors,1-0,?,Defensa y Justicia
+Sun Apr 2 2017,Estudiantes L.P.,2-0,?,Arsenal Sarandi
+Sun Apr 2 2017,Lanus,4-2,?,Banfield
+Sun Apr 2 2017,Sarmiento Junin,2-2,?,Rosario Central
+Sun Apr 2 2017,Tigre,4-3,?,San Lorenzo
+Sun Apr 2 2017,Huracan,0-0,?,Patronato
+Sun Apr 2 2017,Godoy Cruz,1-2,?,River Plate
+Mon Apr 3 2017,Olimpo Bahia Blanca,0-0,?,San Martin S.J.
+Mon Apr 3 2017,Union de Santa Fe,4-2,?,Talleres Cordoba
+Fri Apr 7 2017,Aldosivi,1-4,?,Estudiantes L.P.
+Fri Apr 7 2017,Colon Santa FE,1-0,?,Godoy Cruz
+Fri Apr 7 2017,Rosario Central,2-1,?,Atl. Tucuman
+Sat Apr 8 2017,Arsenal Sarandi,0-1,?,Newells Old Boys
+Sat Apr 8 2017,San Lorenzo,1-0,?,Sarmiento Junin
+Sat Apr 8 2017,Atl. Rafaela,1-1,?,Huracan
+Sat Apr 8 2017,Talleres Cordoba,3-1,?,Lanus
+Sun Apr 9 2017,Banfield,2-0,?,Belgrano
+Sun Apr 9 2017,Patronato,0-5,?,Independiente
+Sun Apr 9 2017,San Martin S.J.,0-0,?,Union de Santa Fe
+Sun Apr 9 2017,River Plate,2-0,?,Quilmes
+Sun Apr 9 2017,Velez Sarsfield,1-3,?,Boca Juniors
+Mon Apr 10 2017,Defensa y Justicia,1-1,?,Olimpo Bahia Blanca
+Mon Apr 10 2017,Gimnasia L.P.,1-1,?,Temperley
+Fri Apr 14 2017,Huracan,1-2,?,Arsenal Sarandi
+Fri Apr 14 2017,Lanus,0-0,?,San Martin S.J.
+Sat Apr 15 2017,Newells Old Boys,0-0,?,Estudiantes L.P.
+Sat Apr 15 2017,Belgrano,1-1,?,Talleres Cordoba
+Sat Apr 15 2017,Independiente,1-1,?,Atl. Rafaela
+Sat Apr 15 2017,Olimpo Bahia Blanca,0-1,?,Velez Sarsfield
+Sat Apr 15 2017,Sarmiento Junin,1-2,?,Racing Club
+Sun Apr 16 2017,Godoy Cruz,3-1,?,Banfield
+Sun Apr 16 2017,Atl. Tucuman,1-0,?,San Lorenzo
+Sun Apr 16 2017,Boca Juniors,1-1,?,Patronato
+Sun Apr 16 2017,Quilmes,0-1,?,Colon Santa FE
+Sun Apr 16 2017,Tigre,0-2,?,River Plate
+Sun Apr 16 2017,Union de Santa Fe,0-2,?,Defensa y Justicia
+Mon Apr 17 2017,Temperley,1-2,?,Rosario Central
+Mon Apr 17 2017,Gimnasia L.P.,1-0,?,Aldosivi
+Wed Apr 19 2017,Racing Club,4-1,?,Tigre
+Wed Apr 19 2017,Talleres Cordoba,0-2,?,Independiente
+Fri Apr 21 2017,San Lorenzo,0-1,?,Temperley
+Sat Apr 22 2017,Aldosivi,0-3,?,Newells Old Boys
+Sat Apr 22 2017,Racing Club,4-3,?,Atl. Tucuman
+Sat Apr 22 2017,Banfield,2-0,?,Quilmes
+Sat Apr 22 2017,Defensa y Justicia,1-0,?,Lanus
+Sat Apr 22 2017,Velez Sarsfield,2-1,?,Union de Santa Fe
+Sat Apr 22 2017,Rosario Central,2-1,?,Gimnasia L.P.
+Sun Apr 23 2017,Estudiantes L.P.,1-1,?,Huracan
+Sun Apr 23 2017,Atl. Rafaela,0-0,?,Boca Juniors
+Sun Apr 23 2017,San Martin S.J.,2-1,?,Belgrano
+Sun Apr 23 2017,River Plate,1-1,?,Sarmiento Junin
+Sun Apr 23 2017,Talleres Cordoba,1-0,?,Godoy Cruz
+Sun Apr 23 2017,Arsenal Sarandi,0-2,?,Independiente
+Mon Apr 24 2017,Patronato,3-4,?,Olimpo Bahia Blanca
+Mon Apr 24 2017,Colon Santa FE,2-1,?,Tigre
+Fri Apr 28 2017,Quilmes,1-0,?,Talleres Cordoba
+Fri Apr 28 2017,Independiente,2-2,?,Estudiantes L.P.
+Sat Apr 29 2017,Gimnasia L.P.,0-1,?,San Lorenzo
+Sat Apr 29 2017,Huracan,0-1,?,Newells Old Boys
+Sat Apr 29 2017,Sarmiento Junin,0-4,?,Colon Santa FE
+Sat Apr 29 2017,Tigre,0-1,?,Banfield
+Sat Apr 29 2017,Temperley,3-0,?,Racing Club
+Sat Apr 29 2017,Union de Santa Fe,0-0,?,Patronato
+Sun Apr 30 2017,Godoy Cruz,0-0,?,San Martin S.J.
+Sun Apr 30 2017,Rosario Central,2-0,?,Aldosivi
+Sun Apr 30 2017,Boca Juniors,3-0,?,Arsenal Sarandi
+Sun Apr 30 2017,Olimpo Bahia Blanca,1-2,?,Atl. Rafaela
+Tue May 2 2017,Belgrano,0-1,?,Defensa y Justicia
+Tue May 2 2017,Lanus,2-0,?,Velez Sarsfield
+Fri May 5 2017,San Martin S.J.,1-0,?,Quilmes
+Fri May 5 2017,Talleres Cordoba,1-2,?,Tigre
+Sat May 6 2017,Patronato,0-2,?,Lanus
+Sat May 6 2017,Racing Club,1-0,?,Gimnasia L.P.
+Sat May 6 2017,Atl. Rafaela,3-0,?,Union de Santa Fe
+Sat May 6 2017,Estudiantes L.P.,0-0,?,Boca Juniors
+Sat May 6 2017,River Plate,4-1,?,Temperley
+Sun May 7 2017,Aldosivi,0-3,?,Huracan
+Sun May 7 2017,Defensa y Justicia,0-0,?,Godoy Cruz
+Sun May 7 2017,San Lorenzo,2-1,?,Rosario Central
+Sun May 7 2017,Colon Santa FE,2-2,?,Atl. Tucuman
+Sun May 7 2017,Newells Old Boys,2-4,?,Independiente
+Mon May 8 2017,Banfield,2-0,?,Sarmiento Junin
+Mon May 8 2017,Velez Sarsfield,1-2,?,Belgrano
+Fri May 12 2017,San Martin S.J.,1-2,?,Godoy Cruz
+Sat May 13 2017,Estudiantes L.P.,1-0,?,Gimnasia L.P.
+Sat May 13 2017,Talleres Cordoba,1-1,?,Belgrano
+Sat May 13 2017,Banfield,1-0,?,Lanus
+Sat May 13 2017,Atl. Rafaela,1-0,?,Atl. Tucuman
+Sat May 13 2017,Huracan,0-1,?,San Lorenzo
+Sat May 13 2017,Olimpo Bahia Blanca,2-0,?,Aldosivi
+Sun May 14 2017,Colon Santa FE,1-1,?,Union de Santa Fe
+Sun May 14 2017,Newells Old Boys,1-3,?,Rosario Central
+Sun May 14 2017,Boca Juniors,1-3,?,River Plate
+Sun May 14 2017,Independiente,2-0,?,Racing Club
+Sun May 14 2017,Patronato,2-2,?,Sarmiento Junin
+Mon May 15 2017,Arsenal Sarandi,2-0,?,Temperley
+Mon May 15 2017,Defensa y Justicia,2-0,?,Quilmes
+Mon May 15 2017,Velez Sarsfield,2-1,?,Tigre
+Fri May 19 2017,Atl. Tucuman,3-0,?,Banfield
+Sat May 20 2017,Belgrano,1-1,?,Patronato
+Sat May 20 2017,Lanus,2-0,?,Atl. Rafaela
+Sat May 20 2017,Sarmiento Junin,1-4,?,Talleres Cordoba
+Sat May 20 2017,Boca Juniors,1-0,?,Newells Old Boys
+Sat May 20 2017,Tigre,1-1,?,San Martin S.J.
+Sat May 20 2017,Union de Santa Fe,0-1,?,Arsenal Sarandi
+Sat May 20 2017,Independiente,2-1,?,Huracan
+Sun May 21 2017,Godoy Cruz,3-0,?,Velez Sarsfield
+Sun May 21 2017,San Lorenzo,0-1,?,Aldosivi
+Sun May 21 2017,Temperley,3-0,?,Colon Santa FE
+Sun May 21 2017,Quilmes,0-2,?,Defensa y Justicia
+Sun May 21 2017,Rosario Central,4-1,?,Racing Club
+Mon May 22 2017,Olimpo Bahia Blanca,3-1,?,Estudiantes L.P.
+Mon May 22 2017,Gimnasia L.P.,0-3,?,River Plate
+Fri May 26 2017,Aldosivi,0-0,?,Independiente
+Sat May 27 2017,Colon Santa FE,1-2,?,Gimnasia L.P.
+Sat May 27 2017,Banfield,3-1,?,Temperley
+Sat May 27 2017,Newells Old Boys,3-2,?,Olimpo Bahia Blanca
+Sat May 27 2017,Huracan,1-1,?,Boca Juniors
+Sat May 27 2017,San Martin S.J.,4-2,?,Sarmiento Junin
+Sat May 27 2017,Racing Club,2-1,?,San Lorenzo
+Sun May 28 2017,Defensa y Justicia,1-0,?,Tigre
+Sun May 28 2017,Arsenal Sarandi,0-2,?,Lanus
+Sun May 28 2017,Talleres Cordoba,2-1,?,Atl. Tucuman
+Sun May 28 2017,River Plate,0-0,?,Rosario Central
+Sun May 28 2017,Atl. Rafaela,1-2,?,Belgrano
+Sun May 28 2017,Patronato,0-3,?,Godoy Cruz
+Mon May 29 2017,Estudiantes L.P.,2-0,?,Union de Santa Fe
+Mon May 29 2017,Velez Sarsfield,0-0,?,Quilmes
+Wed May 31 2017,Atl. Tucuman,0-3,?,River Plate
+Thu Jun 1 2017,Arsenal Sarandi,1-0,?,Olimpo Bahia Blanca
+Fri Jun 2 2017,Sarmiento Junin,1-0,?,Defensa y Justicia
+Fri Jun 2 2017,Godoy Cruz,0-2,?,Atl. Rafaela
+Sat Jun 3 2017,Tigre,0-3,?,Velez Sarsfield
+Sat Jun 3 2017,Temperley,2-1,?,Talleres Cordoba
+Sat Jun 3 2017,Rosario Central,0-0,?,Colon Santa FE
+Sat Jun 3 2017,Union de Santa Fe,2-1,?,Newells Old Boys
+Sat Jun 3 2017,Lanus,1-0,?,Estudiantes L.P.
+Sun Jun 4 2017,San Lorenzo,2-1,?,River Plate
+Sun Jun 4 2017,Gimnasia L.P.,1-2,?,Banfield
+Sun Jun 4 2017,Belgrano,1-2,?,Arsenal Sarandi
+Sun Jun 4 2017,Olimpo Bahia Blanca,3-1,?,Huracan
+Sun Jun 4 2017,Atl. Tucuman,1-2,?,San Martin S.J.
+Sun Jun 4 2017,Boca Juniors,3-0,?,Independiente
+Mon Jun 5 2017,Quilmes,0-1,?,Patronato
+Mon Jun 5 2017,Racing Club,1-1,?,Aldosivi
+Thu Jun 15 2017,Defensa y Justicia,1-2,?,Independiente
+Thu Jun 15 2017,Colon Santa FE,2-1,?,San Lorenzo
+Fri Jun 16 2017,San Martin S.J.,0-1,?,Temperley
+Fri Jun 16 2017,Huracan,1-0,?,Union de Santa Fe
+Fri Jun 16 2017,Talleres Cordoba,0-1,?,Gimnasia L.P.
+Fri Jun 16 2017,Banfield,3-1,?,Rosario Central
+Sat Jun 17 2017,Arsenal Sarandi,1-2,?,Godoy Cruz
+Sat Jun 17 2017,Estudiantes L.P.,2-0,?,Belgrano
+Sat Jun 17 2017,Atl. Rafaela,1-1,?,Quilmes
+Sat Jun 17 2017,Aldosivi,0-4,?,Boca Juniors
+Sat Jun 17 2017,Velez Sarsfield,5-1,?,Sarmiento Junin
+Sun Jun 18 2017,Newells Old Boys,1-1,?,Lanus
+Sun Jun 18 2017,Patronato,0-2,?,Tigre
+Sun Jun 18 2017,Independiente,1-1,?,Olimpo Bahia Blanca
+Sun Jun 18 2017,Defensa y Justicia,3-0,?,Atl. Tucuman
+Sun Jun 18 2017,River Plate,2-3,?,Racing Club
+Tue Jun 20 2017,San Lorenzo,1-0,?,Banfield
+Tue Jun 20 2017,Gimnasia L.P.,2-0,?,San Martin S.J.
+Tue Jun 20 2017,Rosario Central,3-3,?,Talleres Cordoba
+Wed Jun 21 2017,Quilmes,2-2,?,Arsenal Sarandi
+Wed Jun 21 2017,Temperley,2-3,?,Defensa y Justicia
+Wed Jun 21 2017,Racing Club,1-0,?,Colon Santa FE
+Wed Jun 21 2017,Olimpo Bahia Blanca,2-2,?,Boca Juniors
+Wed Jun 21 2017,River Plate,1-0,?,Aldosivi
+Thu Jun 22 2017,Belgrano,2-1,?,Newells Old Boys
+Thu Jun 22 2017,Lanus,2-0,?,Huracan
+Thu Jun 22 2017,Sarmiento Junin,1-3,?,Patronato
+Thu Jun 22 2017,Godoy Cruz,0-2,?,Estudiantes L.P.
+Thu Jun 22 2017,Tigre,1-0,?,Atl. Rafaela
+Thu Jun 22 2017,Atl. Tucuman,1-1,?,Velez Sarsfield
+Thu Jun 22 2017,Union de Santa Fe,0-3,?,Independiente
+Sat Jun 24 2017,Defensa y Justicia,1-0,?,Gimnasia L.P.
+Sat Jun 24 2017,San Martin S.J.,1-1,?,Rosario Central
+Sun Jun 25 2017,Boca Juniors,2-1,?,Union de Santa Fe
+Sun Jun 25 2017,Atl. Rafaela,2-3,?,Sarmiento Junin
+Sun Jun 25 2017,Banfield,1-3,?,Racing Club
+Sun Jun 25 2017,Colon Santa FE,0-0,?,River Plate
+Mon Jun 26 2017,Arsenal Sarandi,2-1,?,Tigre
+Mon Jun 26 2017,Patronato,1-1,?,Atl. Tucuman
+Mon Jun 26 2017,Aldosivi,0-3,?,Olimpo Bahia Blanca
+Mon Jun 26 2017,Huracan,0-0,?,Belgrano
+Mon Jun 26 2017,Velez Sarsfield,0-0,?,Temperley
+Tue Jun 27 2017,Estudiantes L.P.,1-0,?,Quilmes
+Tue Jun 27 2017,Newells Old Boys,0-2,?,Godoy Cruz
+Tue Jun 27 2017,Independiente,1-1,?,Lanus
+Tue Jun 27 2017,Talleres Cordoba,1-1,?,San Lorenzo

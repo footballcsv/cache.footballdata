@@ -1,0 +1,245 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 1 2014,Rubin Kazan,0-4,?,Spartak Moscow
+Sat Aug 2 2014,Ural,2-3,?,M. Saransk
+Sat Aug 2 2014,Arsenal Tula,0-4,?,Zenit
+Sat Aug 2 2014,CSKA Moscow,4-1,?,T. Moscow
+Sun Aug 3 2014,Dynamo Moscow,7-3,?,FK Rostov
+Sun Aug 3 2014,Kuban,2-0,?,Ufa
+Sun Aug 3 2014,Lokomotiv Moscow,0-0,?,Krasnodar
+Mon Aug 4 2014,Akhmat Grozny,4-0,?,Amkar
+Fri Aug 8 2014,Amkar,0-1,?,Ufa
+Fri Aug 8 2014,Kuban,2-2,?,FK Rostov
+Sat Aug 9 2014,M. Saransk,0-1,?,CSKA Moscow
+Sat Aug 9 2014,Zenit,8-1,?,T. Moscow
+Sat Aug 9 2014,Akhmat Grozny,1-1,?,Rubin Kazan
+Sun Aug 10 2014,Dynamo Moscow,1-2,?,Spartak Moscow
+Sun Aug 10 2014,Ural,1-1,?,Krasnodar
+Sun Aug 10 2014,Arsenal Tula,0-2,?,Lokomotiv Moscow
+Tue Aug 12 2014,T. Moscow,1-1,?,Amkar
+Wed Aug 13 2014,Ufa,0-2,?,Dynamo Moscow
+Wed Aug 13 2014,Ural,1-2,?,Zenit
+Wed Aug 13 2014,Arsenal Tula,0-0,?,Rubin Kazan
+Wed Aug 13 2014,CSKA Moscow,1-0,?,Akhmat Grozny
+Thu Aug 14 2014,Lokomotiv Moscow,2-1,?,FK Rostov
+Thu Aug 14 2014,Krasnodar,4-0,?,Spartak Moscow
+Fri Aug 15 2014,M. Saransk,0-0,?,Kuban
+Sat Aug 16 2014,Ural,0-2,?,T. Moscow
+Sat Aug 16 2014,Zenit,1-0,?,Ufa
+Sun Aug 17 2014,CSKA Moscow,0-1,?,Spartak Moscow
+Sun Aug 17 2014,Arsenal Tula,1-2,?,Dynamo Moscow
+Sun Aug 17 2014,Rubin Kazan,1-1,?,Lokomotiv Moscow
+Sun Aug 17 2014,FK Rostov,0-2,?,Krasnodar
+Mon Aug 18 2014,Akhmat Grozny,1-0,?,M. Saransk
+Mon Aug 18 2014,Kuban,1-0,?,Amkar
+Fri Aug 22 2014,Akhmat Grozny,3-0,?,Arsenal Tula
+Sat Aug 23 2014,Ufa,1-2,?,Spartak Moscow
+Sat Aug 23 2014,Zenit,2-0,?,Amkar
+Sat Aug 23 2014,Rubin Kazan,2-1,?,CSKA Moscow
+Sun Aug 24 2014,Dynamo Moscow,2-0,?,Ural
+Sun Aug 24 2014,T. Moscow,0-3,?,Krasnodar
+Sun Aug 24 2014,Kuban,2-1,?,Lokomotiv Moscow
+Sun Aug 24 2014,FK Rostov,2-1,?,M. Saransk
+Fri Aug 29 2014,Ural,0-1,?,Akhmat Grozny
+Sat Aug 30 2014,M. Saransk,1-0,?,T. Moscow
+Sat Aug 30 2014,Amkar,2-0,?,Spartak Moscow
+Sat Aug 30 2014,Arsenal Tula,0-1,?,Kuban
+Sun Aug 31 2014,CSKA Moscow,6-0,?,FK Rostov
+Sun Aug 31 2014,Rubin Kazan,1-1,?,Ufa
+Sun Aug 31 2014,Lokomotiv Moscow,0-1,?,Zenit
+Sun Aug 31 2014,Krasnodar,0-2,?,Dynamo Moscow
+Sat Sep 13 2014,CSKA Moscow,2-1,?,Arsenal Tula
+Sat Sep 13 2014,Lokomotiv Moscow,1-1,?,M. Saransk
+Sat Sep 13 2014,Zenit,3-2,?,Dynamo Moscow
+Sat Sep 13 2014,FK Rostov,1-2,?,Rubin Kazan
+Sun Sep 14 2014,Spartak Moscow,3-1,?,T. Moscow
+Sun Sep 14 2014,Krasnodar,0-2,?,Ufa
+Mon Sep 15 2014,Amkar,2-1,?,Ural
+Mon Sep 15 2014,Akhmat Grozny,0-0,?,Kuban
+Fri Sep 19 2014,Arsenal Tula,0-1,?,M. Saransk
+Sat Sep 20 2014,Ufa,0-1,?,Ural
+Sat Sep 20 2014,FK Rostov,0-5,?,Zenit
+Sat Sep 20 2014,Kuban,2-1,?,Rubin Kazan
+Sat Sep 20 2014,Spartak Moscow,1-1,?,Akhmat Grozny
+Sun Sep 21 2014,CSKA Moscow,1-0,?,Lokomotiv Moscow
+Mon Sep 22 2014,Amkar,1-2,?,Krasnodar
+Mon Sep 22 2014,T. Moscow,1-3,?,Dynamo Moscow
+Sat Sep 27 2014,Ural,3-4,?,CSKA Moscow
+Sat Sep 27 2014,M. Saransk,0-2,?,Ufa
+Sat Sep 27 2014,Zenit,0-0,?,Spartak Moscow
+Sun Sep 28 2014,Dynamo Moscow,2-2,?,Kuban
+Sun Sep 28 2014,Lokomotiv Moscow,3-1,?,Amkar
+Sun Sep 28 2014,Krasnodar,3-0,?,Arsenal Tula
+Sun Sep 28 2014,Akhmat Grozny,2-1,?,FK Rostov
+Mon Sep 29 2014,Rubin Kazan,2-1,?,T. Moscow
+Sat Oct 18 2014,CSKA Moscow,6-0,?,Kuban
+Sat Oct 18 2014,Krasnodar,2-2,?,Zenit
+Sat Oct 18 2014,Lokomotiv Moscow,2-1,?,Akhmat Grozny
+Sun Oct 19 2014,Ural,2-0,?,Spartak Moscow
+Sun Oct 19 2014,Arsenal Tula,1-1,?,FK Rostov
+Mon Oct 20 2014,Ufa,1-1,?,T. Moscow
+Mon Oct 20 2014,Rubin Kazan,5-0,?,M. Saransk
+Fri Oct 24 2014,Ural,1-0,?,Arsenal Tula
+Sat Oct 25 2014,Amkar,2-0,?,FK Rostov
+Sat Oct 25 2014,T. Moscow,0-0,?,Kuban
+Sun Oct 26 2014,Spartak Moscow,1-1,?,Lokomotiv Moscow
+Sun Oct 26 2014,Ufa,3-3,?,CSKA Moscow
+Sun Oct 26 2014,Zenit,5-0,?,M. Saransk
+Mon Oct 27 2014,Krasnodar,2-0,?,Akhmat Grozny
+Mon Oct 27 2014,Dynamo Moscow,0-2,?,Rubin Kazan
+Fri Oct 31 2014,FK Rostov,1-0,?,Ural
+Sat Nov 1 2014,CSKA Moscow,0-1,?,Zenit
+Sun Nov 2 2014,Lokomotiv Moscow,4-2,?,Dynamo Moscow
+Sun Nov 2 2014,M. Saransk,2-1,?,Krasnodar
+Sun Nov 2 2014,Kuban,3-3,?,Spartak Moscow
+Mon Nov 3 2014,T. Moscow,0-1,?,Arsenal Tula
+Mon Nov 3 2014,Rubin Kazan,1-1,?,Amkar
+Mon Nov 3 2014,Akhmat Grozny,1-0,?,Ufa
+Fri Nov 7 2014,Ural,0-1,?,Kuban
+Sat Nov 8 2014,Amkar,0-1,?,M. Saransk
+Sat Nov 8 2014,T. Moscow,0-1,?,Lokomotiv Moscow
+Sat Nov 8 2014,Zenit,1-3,?,Akhmat Grozny
+Sun Nov 9 2014,Dynamo Moscow,1-0,?,CSKA Moscow
+Sun Nov 9 2014,Ufa,0-0,?,FK Rostov
+Sun Nov 9 2014,Krasnodar,2-0,?,Rubin Kazan
+Sun Nov 9 2014,Spartak Moscow,2-0,?,Arsenal Tula
+Sat Nov 22 2014,Ural,1-3,?,Rubin Kazan
+Sat Nov 22 2014,T. Moscow,2-1,?,FK Rostov
+Sat Nov 22 2014,Krasnodar,2-1,?,CSKA Moscow
+Sat Nov 22 2014,Zenit,1-0,?,Kuban
+Sun Nov 23 2014,Dynamo Moscow,3-0,?,Akhmat Grozny
+Sun Nov 23 2014,Arsenal Tula,4-0,?,Amkar
+Sun Nov 23 2014,Spartak Moscow,4-2,?,M. Saransk
+Mon Nov 24 2014,Lokomotiv Moscow,0-0,?,Ufa
+Fri Nov 28 2014,FK Rostov,1-1,?,Amkar
+Sat Nov 29 2014,Arsenal Tula,1-2,?,Ural
+Sat Nov 29 2014,CSKA Moscow,5-0,?,Ufa
+Sat Nov 29 2014,M. Saransk,1-0,?,Zenit
+Sat Nov 29 2014,Kuban,1-1,?,T. Moscow
+Sun Nov 30 2014,Lokomotiv Moscow,1-0,?,Spartak Moscow
+Sun Nov 30 2014,Rubin Kazan,1-1,?,Dynamo Moscow
+Sun Nov 30 2014,Akhmat Grozny,0-1,?,Krasnodar
+Tue Dec 2 2014,Arsenal Tula,0-1,?,Ufa
+Tue Dec 2 2014,CSKA Moscow,2-1,?,Amkar
+Wed Dec 3 2014,Rubin Kazan,0-1,?,Zenit
+Wed Dec 3 2014,Lokomotiv Moscow,1-0,?,Ural
+Wed Dec 3 2014,Akhmat Grozny,0-1,?,T. Moscow
+Wed Dec 3 2014,Kuban,1-1,?,Krasnodar
+Thu Dec 4 2014,M. Saransk,0-1,?,Dynamo Moscow
+Thu Dec 4 2014,Spartak Moscow,1-1,?,FK Rostov
+Sat Dec 6 2014,Zenit,4-0,?,Krasnodar
+Sat Dec 6 2014,Kuban,0-1,?,CSKA Moscow
+Sun Dec 7 2014,Akhmat Grozny,0-0,?,Lokomotiv Moscow
+Sun Dec 7 2014,Dynamo Moscow,5-0,?,Amkar
+Mon Dec 8 2014,M. Saransk,0-1,?,Rubin Kazan
+Mon Dec 8 2014,T. Moscow,2-2,?,Ufa
+Mon Dec 8 2014,FK Rostov,0-1,?,Arsenal Tula
+Mon Dec 8 2014,Spartak Moscow,2-0,?,Ural
+Sat Mar 7 2015,Akhmat Grozny,1-2,?,CSKA Moscow
+Sat Mar 7 2015,Zenit,3-0,?,Ural
+Sun Mar 8 2015,Spartak Moscow,1-3,?,Krasnodar
+Sun Mar 8 2015,Dynamo Moscow,3-1,?,Ufa
+Sun Mar 8 2015,FK Rostov,0-1,?,Lokomotiv Moscow
+Mon Mar 9 2015,Amkar,0-0,?,T. Moscow
+Mon Mar 9 2015,Rubin Kazan,1-0,?,Arsenal Tula
+Mon Mar 9 2015,Kuban,0-0,?,M. Saransk
+Fri Mar 13 2015,Krasnodar,1-1,?,Ural
+Sat Mar 14 2015,Ufa,1-1,?,Amkar
+Sat Mar 14 2015,CSKA Moscow,4-0,?,M. Saransk
+Sat Mar 14 2015,Lokomotiv Moscow,0-1,?,Arsenal Tula
+Sun Mar 15 2015,Spartak Moscow,1-0,?,Dynamo Moscow
+Sun Mar 15 2015,T. Moscow,1-1,?,Zenit
+Sun Mar 15 2015,Rubin Kazan,2-1,?,Akhmat Grozny
+Mon Mar 16 2015,FK Rostov,2-1,?,Kuban
+Fri Mar 20 2015,Ufa,0-2,?,Krasnodar
+Sat Mar 21 2015,Ural,1-0,?,Amkar
+Sat Mar 21 2015,Arsenal Tula,1-4,?,CSKA Moscow
+Sat Mar 21 2015,Rubin Kazan,2-0,?,FK Rostov
+Sat Mar 21 2015,T. Moscow,0-1,?,Spartak Moscow
+Sun Mar 22 2015,Dynamo Moscow,0-1,?,Zenit
+Sun Mar 22 2015,M. Saransk,0-0,?,Lokomotiv Moscow
+Sun Mar 22 2015,Kuban,1-0,?,Akhmat Grozny
+Sat Apr 4 2015,Amkar,0-3,?,Rubin Kazan
+Sat Apr 4 2015,Dynamo Moscow,2-2,?,Lokomotiv Moscow
+Sat Apr 4 2015,Krasnodar,4-0,?,M. Saransk
+Sat Apr 4 2015,Spartak Moscow,1-1,?,Kuban
+Sun Apr 5 2015,Zenit,2-1,?,CSKA Moscow
+Sun Apr 5 2015,Ural,0-1,?,FK Rostov
+Sun Apr 5 2015,Ufa,0-1,?,Akhmat Grozny
+Sun Apr 5 2015,Arsenal Tula,1-3,?,T. Moscow
+Tue Apr 7 2015,M. Saransk,1-0,?,Amkar
+Tue Apr 7 2015,Rubin Kazan,1-2,?,Krasnodar
+Wed Apr 8 2015,Akhmat Grozny,1-2,?,Zenit
+Wed Apr 8 2015,Kuban,0-2,?,Ural
+Wed Apr 8 2015,Lokomotiv Moscow,2-0,?,T. Moscow
+Wed Apr 8 2015,CSKA Moscow,1-2,?,Dynamo Moscow
+Thu Apr 9 2015,Arsenal Tula,1-0,?,Spartak Moscow
+Thu Apr 9 2015,FK Rostov,2-0,?,Ufa
+Sat Apr 11 2015,Krasnodar,3-2,?,Kuban
+Sun Apr 12 2015,Zenit,1-1,?,Rubin Kazan
+Sun Apr 12 2015,Ufa,0-1,?,Arsenal Tula
+Sun Apr 12 2015,Dynamo Moscow,2-1,?,M. Saransk
+Mon Apr 13 2015,Ural,2-0,?,Lokomotiv Moscow
+Mon Apr 13 2015,Amkar,1-0,?,CSKA Moscow
+Mon Apr 13 2015,T. Moscow,0-0,?,Akhmat Grozny
+Mon Apr 13 2015,FK Rostov,2-1,?,Spartak Moscow
+Sat Apr 18 2015,Ufa,1-0,?,Lokomotiv Moscow
+Sat Apr 18 2015,M. Saransk,1-3,?,Spartak Moscow
+Sat Apr 18 2015,Rubin Kazan,2-1,?,Ural
+Sun Apr 19 2015,CSKA Moscow,1-1,?,Krasnodar
+Sun Apr 19 2015,Akhmat Grozny,0-0,?,Dynamo Moscow
+Sun Apr 19 2015,Kuban,0-0,?,Zenit
+Mon Apr 20 2015,Amkar,0-1,?,Arsenal Tula
+Mon Apr 20 2015,FK Rostov,1-0,?,T. Moscow
+Fri Apr 24 2015,Ufa,3-2,?,Kuban
+Fri Apr 24 2015,M. Saransk,2-1,?,Ural
+Sat Apr 25 2015,Amkar,2-1,?,Akhmat Grozny
+Sat Apr 25 2015,T. Moscow,0-2,?,CSKA Moscow
+Sat Apr 25 2015,Krasnodar,1-0,?,Lokomotiv Moscow
+Sun Apr 26 2015,Spartak Moscow,1-0,?,Rubin Kazan
+Sun Apr 26 2015,FK Rostov,2-2,?,Dynamo Moscow
+Sun Apr 26 2015,Zenit,1-0,?,Arsenal Tula
+Thu Apr 30 2015,Amkar,2-0,?,Dynamo Moscow
+Sat May 2 2015,Spartak Moscow,1-1,?,Zenit
+Sat May 2 2015,FK Rostov,0-1,?,Akhmat Grozny
+Sun May 3 2015,Kuban,1-2,?,Dynamo Moscow
+Sun May 3 2015,Amkar,1-1,?,Lokomotiv Moscow
+Sun May 3 2015,T. Moscow,2-2,?,Rubin Kazan
+Mon May 4 2015,Ufa,1-2,?,M. Saransk
+Mon May 4 2015,Arsenal Tula,0-3,?,Krasnodar
+Mon May 4 2015,CSKA Moscow,3-1,?,Ural
+Fri May 8 2015,Ural,1-1,?,Ufa
+Fri May 8 2015,Rubin Kazan,1-0,?,Kuban
+Sun May 10 2015,Lokomotiv Moscow,1-3,?,CSKA Moscow
+Sun May 10 2015,Dynamo Moscow,0-0,?,T. Moscow
+Sun May 10 2015,Zenit,3-0,?,FK Rostov
+Mon May 11 2015,Akhmat Grozny,4-2,?,Spartak Moscow
+Mon May 11 2015,M. Saransk,1-0,?,Arsenal Tula
+Mon May 11 2015,Krasnodar,1-1,?,Amkar
+Fri May 15 2015,M. Saransk,0-0,?,FK Rostov
+Sat May 16 2015,Amkar,1-0,?,Kuban
+Sat May 16 2015,Arsenal Tula,1-1,?,Akhmat Grozny
+Sat May 16 2015,Lokomotiv Moscow,3-0,?,Rubin Kazan
+Sun May 17 2015,Spartak Moscow,0-4,?,CSKA Moscow
+Sun May 17 2015,Ufa,1-1,?,Zenit
+Sun May 17 2015,Krasnodar,2-2,?,T. Moscow
+Mon May 18 2015,Ural,2-1,?,Dynamo Moscow
+Sat May 23 2015,Amkar,1-0,?,Zenit
+Sat May 23 2015,T. Moscow,3-1,?,Ural
+Sat May 23 2015,Spartak Moscow,1-2,?,Ufa
+Sun May 24 2015,Krasnodar,2-1,?,FK Rostov
+Sun May 24 2015,M. Saransk,1-0,?,Akhmat Grozny
+Sun May 24 2015,Dynamo Moscow,2-2,?,Arsenal Tula
+Mon May 25 2015,Lokomotiv Moscow,1-1,?,Kuban
+Mon May 25 2015,CSKA Moscow,3-0,?,Rubin Kazan
+Sat May 30 2015,Akhmat Grozny,1-3,?,Ural
+Sat May 30 2015,Dynamo Moscow,1-1,?,Krasnodar
+Sat May 30 2015,FK Rostov,1-1,?,CSKA Moscow
+Sat May 30 2015,Kuban,5-1,?,Arsenal Tula
+Sat May 30 2015,Spartak Moscow,3-3,?,Amkar
+Sat May 30 2015,T. Moscow,2-0,?,M. Saransk
+Sat May 30 2015,Ufa,1-1,?,Rubin Kazan
+Sat May 30 2015,Zenit,1-0,?,Lokomotiv Moscow
+Wed Jun 3 2015,Tomsk,0-1,?,Ural
+Wed Jun 3 2015,Tosno,0-1,?,FK Rostov
+Sun Jun 7 2015,Ural,0-0,?,Tomsk
+Sun Jun 7 2015,FK Rostov,4-1,?,Tosno

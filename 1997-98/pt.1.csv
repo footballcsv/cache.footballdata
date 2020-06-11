@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 23 1997,Farense,0-0,?,Sp Lisbon
+Sat Aug 23 1997,Guimaraes,1-0,?,Academica
+Sun Aug 24 1997,Belenenses,2-2,?,Sp Braga
+Sun Aug 24 1997,Benfica,4-0,?,Campomaiorense
+Sun Aug 24 1997,Boavista,2-1,?,Setubal
+Sun Aug 24 1997,Desp. Chaves,0-2,?,Rio Ave
+Sun Aug 24 1997,Maritimo,2-1,?,Est Amadora
+Sun Aug 24 1997,Salgueiros,0-0,?,Leca
+Mon Aug 25 1997,Varzim,0-2,?,Porto
+Fri Aug 29 1997,Rio Ave,1-2,?,Guimaraes
+Sat Aug 30 1997,Porto,2-0,?,Belenenses
+Sun Aug 31 1997,Academica,2-0,?,Boavista
+Sun Aug 31 1997,Campomaiorense,0-0,?,Salgueiros
+Sun Aug 31 1997,Est Amadora,0-0,?,Varzim
+Sun Aug 31 1997,Leca,1-1,?,Maritimo
+Sun Aug 31 1997,Setubal,1-0,?,Benfica
+Sun Aug 31 1997,Sp Braga,2-2,?,Farense
+Sun Aug 31 1997,Sp Lisbon,2-0,?,Desp. Chaves
+Fri Sep 12 1997,Desp. Chaves,1-2,?,Sp Braga
+Fri Sep 12 1997,Guimaraes,1-0,?,Sp Lisbon
+Sat Sep 13 1997,Benfica,1-1,?,Academica
+Sat Sep 13 1997,Porto,4-0,?,Est Amadora
+Sun Sep 14 1997,Belenenses,0-3,?,Farense
+Sun Sep 14 1997,Boavista,1-2,?,Rio Ave
+Sun Sep 14 1997,Maritimo,2-1,?,Campomaiorense
+Sun Sep 14 1997,Salgueiros,1-1,?,Setubal
+Sun Sep 14 1997,Varzim,1-0,?,Leca
+Sat Sep 20 1997,Academica,2-1,?,Salgueiros
+Sat Sep 20 1997,Campomaiorense,1-1,?,Varzim
+Sat Sep 20 1997,Farense,1-0,?,Desp. Chaves
+Sat Sep 20 1997,Rio Ave,3-1,?,Benfica
+Sun Sep 21 1997,Est Amadora,1-1,?,Belenenses
+Sun Sep 21 1997,Setubal,1-1,?,Maritimo
+Sun Sep 21 1997,Sp Braga,3-2,?,Guimaraes
+Mon Sep 22 1997,Leca,2-3,?,Porto
+Mon Sep 22 1997,Sp Lisbon,1-0,?,Boavista
+Fri Sep 26 1997,Boavista,0-0,?,Sp Braga
+Fri Sep 26 1997,Guimaraes,2-0,?,Farense
+Sat Sep 27 1997,Benfica,0-0,?,Sp Lisbon
+Sat Sep 27 1997,Porto,3-0,?,Campomaiorense
+Sun Sep 28 1997,Belenenses,0-1,?,Desp. Chaves
+Sun Sep 28 1997,Est Amadora,2-1,?,Leca
+Sun Sep 28 1997,Maritimo,4-1,?,Academica
+Sun Sep 28 1997,Salgueiros,5-1,?,Rio Ave
+Sun Sep 28 1997,Varzim,1-0,?,Setubal
+Sat Oct 4 1997,Sp Braga,1-1,?,Benfica
+Sun Oct 5 1997,Academica,1-1,?,Varzim
+Sun Oct 5 1997,Campomaiorense,2-0,?,Est Amadora
+Sun Oct 5 1997,Desp. Chaves,1-2,?,Guimaraes
+Sun Oct 5 1997,Leca,1-1,?,Belenenses
+Sun Oct 5 1997,Rio Ave,2-0,?,Maritimo
+Sun Oct 5 1997,Sp Lisbon,2-1,?,Salgueiros
+Mon Oct 6 1997,Farense,0-0,?,Boavista
+Mon Oct 6 1997,Setubal,1-1,?,Porto
+Fri Oct 17 1997,Maritimo,0-1,?,Sp Lisbon
+Sat Oct 18 1997,Boavista,2-1,?,Desp. Chaves
+Sat Oct 18 1997,Porto,2-1,?,Academica
+Sun Oct 19 1997,Belenenses,1-0,?,Guimaraes
+Sun Oct 19 1997,Benfica,3-1,?,Farense
+Sun Oct 19 1997,Est Amadora,1-0,?,Setubal
+Sun Oct 19 1997,Leca,1-0,?,Campomaiorense
+Sun Oct 19 1997,Varzim,1-3,?,Rio Ave
+Sun Oct 26 1997,Salgueiros,1-0,?,Sp Braga
+Fri Oct 31 1997,Rio Ave,0-0,?,Porto
+Fri Oct 31 1997,Sp Braga,3-1,?,Maritimo
+Sat Nov 1 1997,Desp. Chaves,0-1,?,Benfica
+Sat Nov 1 1997,Sp Lisbon,1-1,?,Varzim
+Sun Nov 2 1997,Academica,0-1,?,Est Amadora
+Sun Nov 2 1997,Campomaiorense,2-1,?,Belenenses
+Sun Nov 2 1997,Farense,0-0,?,Salgueiros
+Sun Nov 2 1997,Guimaraes,1-1,?,Boavista
+Sun Nov 2 1997,Setubal,2-1,?,Leca
+Sat Nov 8 1997,Maritimo,1-1,?,Farense
+Sat Nov 8 1997,Porto,1-1,?,Sp Lisbon
+Sun Nov 9 1997,Belenenses,0-0,?,Boavista
+Sun Nov 9 1997,Campomaiorense,2-1,?,Setubal
+Sun Nov 9 1997,Est Amadora,1-2,?,Rio Ave
+Sun Nov 9 1997,Leca,1-0,?,Academica
+Sun Nov 9 1997,Salgueiros,2-0,?,Desp. Chaves
+Sun Nov 9 1997,Varzim,1-0,?,Sp Braga
+Mon Nov 10 1997,Benfica,1-0,?,Guimaraes
+Fri Nov 21 1997,Boavista,0-0,?,Benfica
+Sat Nov 22 1997,Sp Braga,1-2,?,Porto
+Sat Nov 22 1997,Sp Lisbon,2-2,?,Est Amadora
+Sun Nov 23 1997,Academica,1-1,?,Campomaiorense
+Sun Nov 23 1997,Desp. Chaves,1-0,?,Maritimo
+Sun Nov 23 1997,Farense,1-0,?,Varzim
+Sun Nov 23 1997,Guimaraes,3-0,?,Salgueiros
+Sun Nov 23 1997,Rio Ave,2-2,?,Leca
+Sun Nov 23 1997,Setubal,0-0,?,Belenenses
+Sat Nov 29 1997,Belenenses,1-2,?,Benfica
+Sun Nov 30 1997,Campomaiorense,4-1,?,Rio Ave
+Sun Nov 30 1997,Est Amadora,1-0,?,Sp Braga
+Sun Nov 30 1997,Maritimo,0-1,?,Guimaraes
+Sun Nov 30 1997,Salgueiros,1-1,?,Boavista
+Sun Nov 30 1997,Setubal,0-1,?,Academica
+Sun Nov 30 1997,Varzim,1-1,?,Desp. Chaves
+Mon Dec 1 1997,Leca,1-0,?,Sp Lisbon
+Mon Dec 1 1997,Porto,5-2,?,Farense
+Fri Dec 5 1997,Desp. Chaves,2-2,?,Porto
+Fri Dec 5 1997,Sp Braga,3-1,?,Leca
+Sat Dec 6 1997,Boavista,0-1,?,Maritimo
+Sat Dec 6 1997,Guimaraes,5-0,?,Varzim
+Sat Dec 6 1997,Sp Lisbon,2-0,?,Campomaiorense
+Sun Dec 7 1997,Academica,0-0,?,Belenenses
+Sun Dec 7 1997,Benfica,2-2,?,Salgueiros
+Sun Dec 7 1997,Farense,1-1,?,Est Amadora
+Sun Dec 7 1997,Rio Ave,3-0,?,Setubal
+Fri Dec 12 1997,Maritimo,1-0,?,Benfica
+Sat Dec 13 1997,Academica,0-0,?,Rio Ave
+Sat Dec 13 1997,Belenenses,1-2,?,Salgueiros
+Sat Dec 13 1997,Campomaiorense,4-0,?,Sp Braga
+Sat Dec 13 1997,Est Amadora,4-1,?,Desp. Chaves
+Sat Dec 13 1997,Leca,2-1,?,Farense
+Sat Dec 13 1997,Porto,1-0,?,Guimaraes
+Sat Dec 13 1997,Varzim,0-0,?,Boavista
+Mon Dec 15 1997,Setubal,2-0,?,Sp Lisbon
+Sat Dec 20 1997,Salgueiros,2-0,?,Maritimo
+Sat Dec 20 1997,Sp Braga,2-2,?,Setubal
+Sun Dec 21 1997,Benfica,4-0,?,Varzim
+Sun Dec 21 1997,Desp. Chaves,0-1,?,Leca
+Sun Dec 21 1997,Farense,2-2,?,Campomaiorense
+Sun Dec 21 1997,Guimaraes,1-0,?,Est Amadora
+Sun Dec 21 1997,Rio Ave,3-0,?,Belenenses
+Sun Dec 21 1997,Sp Lisbon,1-0,?,Academica
+Mon Dec 22 1997,Boavista,3-4,?,Porto
+Sat Jan 3 1998,Academica,2-2,?,Sp Braga
+Sat Jan 3 1998,Porto,2-0,?,Benfica
+Sun Jan 4 1998,Belenenses,0-2,?,Maritimo
+Sun Jan 4 1998,Campomaiorense,2-1,?,Desp. Chaves
+Sun Jan 4 1998,Est Amadora,1-2,?,Boavista
+Sun Jan 4 1998,Leca,1-0,?,Guimaraes
+Sun Jan 4 1998,Setubal,4-1,?,Farense
+Sun Jan 4 1998,Varzim,0-2,?,Salgueiros
+Mon Jan 5 1998,Rio Ave,0-0,?,Sp Lisbon
+Fri Jan 9 1998,Salgueiros,1-3,?,Porto
+Sat Jan 10 1998,Belenenses,0-4,?,Sp Lisbon
+Sat Jan 10 1998,Boavista,2-0,?,Leca
+Sat Jan 10 1998,Sp Braga,1-0,?,Rio Ave
+Sun Jan 11 1998,Benfica,2-2,?,Est Amadora
+Sun Jan 11 1998,Desp. Chaves,1-3,?,Setubal
+Sun Jan 11 1998,Farense,0-0,?,Academica
+Sun Jan 11 1998,Guimaraes,2-1,?,Campomaiorense
+Sun Jan 11 1998,Maritimo,2-1,?,Varzim
+Sat Jan 17 1998,Academica,1-2,?,Desp. Chaves
+Sun Jan 18 1998,Campomaiorense,2-2,?,Boavista
+Sun Jan 18 1998,Est Amadora,1-0,?,Salgueiros
+Sun Jan 18 1998,Leca,1-2,?,Benfica
+Sun Jan 18 1998,Porto,2-1,?,Maritimo
+Sun Jan 18 1998,Rio Ave,0-3,?,Farense
+Sun Jan 18 1998,Setubal,0-0,?,Guimaraes
+Sun Jan 18 1998,Varzim,2-1,?,Belenenses
+Mon Jan 19 1998,Sp Lisbon,1-1,?,Sp Braga
+Sat Jan 24 1998,Campomaiorense,1-2,?,Benfica
+Sun Jan 25 1998,Academica,2-1,?,Guimaraes
+Sun Jan 25 1998,Est Amadora,1-1,?,Maritimo
+Sun Jan 25 1998,Leca,3-0,?,Salgueiros
+Sun Jan 25 1998,Porto,4-3,?,Varzim
+Sun Jan 25 1998,Rio Ave,1-0,?,Desp. Chaves
+Sun Jan 25 1998,Setubal,1-2,?,Boavista
+Sun Jan 25 1998,Sp Braga,1-1,?,Belenenses
+Sun Jan 25 1998,Sp Lisbon,3-2,?,Farense
+Fri Jan 30 1998,Desp. Chaves,3-2,?,Sp Lisbon
+Sat Jan 31 1998,Belenenses,1-0,?,Porto
+Sat Jan 31 1998,Boavista,6-0,?,Academica
+Sat Jan 31 1998,Farense,1-1,?,Sp Braga
+Sun Feb 1 1998,Benfica,2-0,?,Setubal
+Sun Feb 1 1998,Guimaraes,0-0,?,Rio Ave
+Sun Feb 1 1998,Maritimo,2-0,?,Leca
+Sun Feb 1 1998,Salgueiros,5-2,?,Campomaiorense
+Sun Feb 1 1998,Varzim,2-2,?,Est Amadora
+Sat Feb 7 1998,Academica,1-2,?,Benfica
+Sun Feb 8 1998,Campomaiorense,2-1,?,Maritimo
+Sun Feb 8 1998,Farense,3-1,?,Belenenses
+Sun Feb 8 1998,Leca,1-0,?,Varzim
+Sun Feb 8 1998,Rio Ave,1-1,?,Boavista
+Sun Feb 8 1998,Setubal,1-3,?,Salgueiros
+Sun Feb 8 1998,Sp Braga,5-0,?,Desp. Chaves
+Sun Feb 8 1998,Sp Lisbon,1-1,?,Guimaraes
+Mon Feb 9 1998,Est Amadora,2-1,?,Porto
+Fri Feb 13 1998,Boavista,1-0,?,Sp Lisbon
+Sat Feb 14 1998,Guimaraes,1-0,?,Sp Braga
+Sun Feb 15 1998,Belenenses,0-2,?,Est Amadora
+Sun Feb 15 1998,Benfica,2-1,?,Rio Ave
+Sun Feb 15 1998,Desp. Chaves,2-2,?,Farense
+Sun Feb 15 1998,Maritimo,1-0,?,Setubal
+Sun Feb 15 1998,Porto,3-1,?,Leca
+Sun Feb 15 1998,Salgueiros,0-1,?,Academica
+Sun Feb 15 1998,Varzim,3-0,?,Campomaiorense
+Fri Feb 20 1998,Campomaiorense,2-2,?,Porto
+Fri Feb 20 1998,Sp Braga,1-2,?,Boavista
+Sat Feb 21 1998,Academica,0-0,?,Maritimo
+Sat Feb 21 1998,Desp. Chaves,1-0,?,Belenenses
+Sat Feb 21 1998,Farense,2-0,?,Guimaraes
+Sat Feb 21 1998,Leca,0-4,?,Est Amadora
+Sat Feb 21 1998,Rio Ave,1-1,?,Salgueiros
+Sat Feb 21 1998,Setubal,1-1,?,Varzim
+Sat Feb 21 1998,Sp Lisbon,1-4,?,Benfica
+Fri Feb 27 1998,Salgueiros,0-2,?,Sp Lisbon
+Sat Feb 28 1998,Guimaraes,5-1,?,Desp. Chaves
+Sun Mar 1 1998,Belenenses,0-1,?,Leca
+Sun Mar 1 1998,Benfica,3-0,?,Sp Braga
+Sun Mar 1 1998,Boavista,2-2,?,Farense
+Sun Mar 1 1998,Est Amadora,2-1,?,Campomaiorense
+Sun Mar 1 1998,Maritimo,3-2,?,Rio Ave
+Sun Mar 1 1998,Porto,1-0,?,Setubal
+Sun Mar 1 1998,Varzim,1-1,?,Academica
+Fri Mar 6 1998,Academica,0-1,?,Porto
+Sun Mar 8 1998,Campomaiorense,4-0,?,Leca
+Sun Mar 8 1998,Desp. Chaves,1-3,?,Boavista
+Sun Mar 8 1998,Farense,1-1,?,Benfica
+Sun Mar 8 1998,Guimaraes,2-2,?,Belenenses
+Sun Mar 8 1998,Rio Ave,0-0,?,Varzim
+Sun Mar 8 1998,Setubal,2-1,?,Est Amadora
+Sun Mar 8 1998,Sp Braga,0-2,?,Salgueiros
+Sun Mar 8 1998,Sp Lisbon,1-1,?,Maritimo
+Fri Mar 13 1998,Varzim,0-1,?,Sp Lisbon
+Sat Mar 14 1998,Boavista,0-1,?,Guimaraes
+Sat Mar 14 1998,Porto,2-0,?,Rio Ave
+Sun Mar 15 1998,Belenenses,0-1,?,Campomaiorense
+Sun Mar 15 1998,Benfica,3-1,?,Desp. Chaves
+Sun Mar 15 1998,Est Amadora,1-0,?,Academica
+Sun Mar 15 1998,Leca,1-3,?,Setubal
+Sun Mar 15 1998,Maritimo,1-1,?,Sp Braga
+Sun Mar 15 1998,Salgueiros,4-1,?,Farense
+Sat Mar 21 1998,Academica,1-1,?,Leca
+Sat Mar 21 1998,Boavista,4-0,?,Belenenses
+Sat Mar 21 1998,Sp Lisbon,2-0,?,Porto
+Sun Mar 22 1998,Desp. Chaves,0-0,?,Salgueiros
+Sun Mar 22 1998,Farense,0-2,?,Maritimo
+Sun Mar 22 1998,Guimaraes,0-1,?,Benfica
+Sun Mar 22 1998,Rio Ave,1-0,?,Est Amadora
+Sun Mar 22 1998,Setubal,2-1,?,Campomaiorense
+Sun Mar 22 1998,Sp Braga,3-1,?,Varzim
+Sat Mar 28 1998,Benfica,1-2,?,Boavista
+Sun Mar 29 1998,Belenenses,1-0,?,Setubal
+Sun Mar 29 1998,Campomaiorense,1-2,?,Academica
+Sun Mar 29 1998,Est Amadora,2-1,?,Sp Lisbon
+Sun Mar 29 1998,Leca,2-1,?,Rio Ave
+Sun Mar 29 1998,Maritimo,1-0,?,Desp. Chaves
+Sun Mar 29 1998,Porto,4-0,?,Sp Braga
+Sun Mar 29 1998,Salgueiros,0-0,?,Guimaraes
+Sun Mar 29 1998,Varzim,1-0,?,Farense
+Fri Apr 3 1998,Farense,1-2,?,Porto
+Sat Apr 4 1998,Boavista,3-0,?,Salgueiros
+Sat Apr 4 1998,Sp Braga,1-1,?,Est Amadora
+Sat Apr 4 1998,Sp Lisbon,2-0,?,Leca
+Sun Apr 5 1998,Academica,2-0,?,Setubal
+Sun Apr 5 1998,Benfica,2-1,?,Belenenses
+Sun Apr 5 1998,Desp. Chaves,2-1,?,Varzim
+Sun Apr 5 1998,Guimaraes,0-0,?,Maritimo
+Sun Apr 5 1998,Rio Ave,1-1,?,Campomaiorense
+Fri Apr 10 1998,Campomaiorense,3-5,?,Sp Lisbon
+Sat Apr 11 1998,Belenenses,2-0,?,Academica
+Sat Apr 11 1998,Est Amadora,2-1,?,Farense
+Sat Apr 11 1998,Leca,0-0,?,Sp Braga
+Sat Apr 11 1998,Maritimo,1-0,?,Boavista
+Sat Apr 11 1998,Porto,3-1,?,Desp. Chaves
+Sat Apr 11 1998,Salgueiros,0-2,?,Benfica
+Sat Apr 11 1998,Setubal,1-0,?,Rio Ave
+Sat Apr 11 1998,Varzim,1-2,?,Guimaraes
+Fri Apr 17 1998,Sp Lisbon,2-1,?,Setubal
+Sat Apr 18 1998,Boavista,2-0,?,Varzim
+Sat Apr 18 1998,Guimaraes,0-1,?,Porto
+Sun Apr 19 1998,Benfica,3-1,?,Maritimo
+Sun Apr 19 1998,Desp. Chaves,2-0,?,Est Amadora
+Sun Apr 19 1998,Farense,1-1,?,Leca
+Sun Apr 19 1998,Rio Ave,3-0,?,Academica
+Sun Apr 19 1998,Salgueiros,1-1,?,Belenenses
+Sun Apr 19 1998,Sp Braga,2-1,?,Campomaiorense
+Fri Apr 24 1998,Maritimo,1-4,?,Salgueiros
+Sat Apr 25 1998,Varzim,0-0,?,Benfica
+Sun Apr 26 1998,Belenenses,2-4,?,Rio Ave
+Sun Apr 26 1998,Campomaiorense,5-2,?,Farense
+Sun Apr 26 1998,Est Amadora,0-1,?,Guimaraes
+Sun Apr 26 1998,Leca,0-1,?,Desp. Chaves
+Sun Apr 26 1998,Porto,3-2,?,Boavista
+Sun Apr 26 1998,Setubal,5-1,?,Sp Braga
+Mon Apr 27 1998,Academica,1-1,?,Sp Lisbon
+Fri May 1 1998,Maritimo,2-0,?,Belenenses
+Sat May 2 1998,Benfica,3-0,?,Porto
+Sun May 3 1998,Boavista,4-0,?,Est Amadora
+Sun May 3 1998,Desp. Chaves,1-0,?,Campomaiorense
+Sun May 3 1998,Farense,2-0,?,Setubal
+Sun May 3 1998,Guimaraes,0-0,?,Leca
+Sun May 3 1998,Salgueiros,3-1,?,Varzim
+Sun May 3 1998,Sp Braga,3-2,?,Academica
+Sun May 3 1998,Sp Lisbon,2-2,?,Rio Ave
+Fri May 8 1998,Sp Lisbon,1-0,?,Belenenses
+Sun May 10 1998,Academica,1-0,?,Farense
+Sun May 10 1998,Campomaiorense,2-3,?,Guimaraes
+Sun May 10 1998,Leca,0-3,?,Boavista
+Sun May 10 1998,Porto,7-2,?,Salgueiros
+Sun May 10 1998,Rio Ave,0-4,?,Sp Braga
+Sun May 10 1998,Setubal,1-2,?,Desp. Chaves
+Sun May 10 1998,Varzim,0-4,?,Maritimo
+Mon May 11 1998,Est Amadora,2-0,?,Benfica
+Sun May 17 1998,Belenenses,1-0,?,Varzim
+Sun May 17 1998,Benfica,7-1,?,Leca
+Sun May 17 1998,Boavista,1-2,?,Campomaiorense
+Sun May 17 1998,Desp. Chaves,0-0,?,Academica
+Sun May 17 1998,Farense,1-0,?,Rio Ave
+Sun May 17 1998,Guimaraes,2-1,?,Setubal
+Sun May 17 1998,Maritimo,3-2,?,Porto
+Sun May 17 1998,Salgueiros,2-1,?,Est Amadora
+Sun May 17 1998,Sp Braga,2-0,?,Sp Lisbon

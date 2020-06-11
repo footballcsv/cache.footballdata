@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 17 2013,Sociedad,2-0,1-0,Getafe
+Sat Aug 17 2013,Valencia,1-0,0-0,Malaga
+Sat Aug 17 2013,Valladolid,1-2,1-1,Ath Bilbao
+Sun Aug 18 2013,Barcelona,7-0,6-0,Levante
+Sun Aug 18 2013,Osasuna,1-2,0-2,Granada
+Sun Aug 18 2013,Real Madrid,2-1,1-1,Betis
+Sun Aug 18 2013,Sevilla,1-3,1-1,Ath Madrid
+Mon Aug 19 2013,Almeria,2-3,1-0,Villarreal
+Mon Aug 19 2013,Celta,2-2,1-0,Espanol
+Mon Aug 19 2013,Vallecano,3-0,2-0,Elche
+Fri Aug 23 2013,Ath Bilbao,2-0,1-0,Osasuna
+Fri Aug 23 2013,Getafe,2-2,1-2,Almeria
+Sat Aug 24 2013,Elche,1-1,1-0,Sociedad
+Sat Aug 24 2013,Espanol,3-1,1-1,Valencia
+Sat Aug 24 2013,Villarreal,2-1,1-1,Valladolid
+Sun Aug 25 2013,Ath Madrid,5-0,3-0,Vallecano
+Sun Aug 25 2013,Betis,1-2,0-0,Celta
+Sun Aug 25 2013,Levante,0-0,0-0,Sevilla
+Sun Aug 25 2013,Malaga,0-1,0-1,Barcelona
+Mon Aug 26 2013,Granada,0-1,0-1,Real Madrid
+Fri Aug 30 2013,Almeria,2-2,2-1,Elche
+Fri Aug 30 2013,Vallecano,1-2,0-1,Levante
+Sat Aug 31 2013,Celta,1-1,1-0,Granada
+Sat Aug 31 2013,Osasuna,0-3,0-2,Villarreal
+Sat Aug 31 2013,Valladolid,1-0,0-0,Getafe
+Sun Sep 1 2013,Espanol,0-0,0-0,Betis
+Sun Sep 1 2013,Real Madrid,3-1,2-0,Ath Bilbao
+Sun Sep 1 2013,Sevilla,2-2,1-1,Malaga
+Sun Sep 1 2013,Sociedad,1-2,0-1,Ath Madrid
+Sun Sep 1 2013,Valencia,2-3,2-3,Barcelona
+Sat Sep 14 2013,Ath Madrid,4-2,2-1,Almeria
+Sat Sep 14 2013,Barcelona,3-2,1-0,Sevilla
+Sat Sep 14 2013,Levante,0-0,0-0,Sociedad
+Sat Sep 14 2013,Villarreal,2-2,1-1,Real Madrid
+Sun Sep 15 2013,Betis,3-1,3-0,Valencia
+Sun Sep 15 2013,Getafe,2-1,1-1,Osasuna
+Sun Sep 15 2013,Granada,0-1,0-0,Espanol
+Sun Sep 15 2013,Malaga,5-0,2-0,Vallecano
+Mon Sep 16 2013,Ath Bilbao,3-2,1-1,Celta
+Mon Sep 16 2013,Elche,0-0,0-0,Valladolid
+Fri Sep 20 2013,Osasuna,2-1,1-0,Elche
+Sat Sep 21 2013,Almeria,2-2,1-0,Levante
+Sat Sep 21 2013,Sociedad,0-0,0-0,Malaga
+Sat Sep 21 2013,Valladolid,0-2,0-0,Ath Madrid
+Sat Sep 21 2013,Vallecano,0-4,0-1,Barcelona
+Sun Sep 22 2013,Betis,0-0,0-0,Granada
+Sun Sep 22 2013,Celta,0-0,0-0,Villarreal
+Sun Sep 22 2013,Real Madrid,4-1,2-1,Getafe
+Sun Sep 22 2013,Valencia,3-1,1-0,Sevilla
+Mon Sep 23 2013,Espanol,3-2,1-1,Ath Bilbao
+Tue Sep 24 2013,Ath Madrid,2-1,2-1,Osasuna
+Tue Sep 24 2013,Barcelona,4-1,3-0,Sociedad
+Tue Sep 24 2013,Levante,1-1,1-1,Valladolid
+Tue Sep 24 2013,Malaga,2-0,0-0,Almeria
+Wed Sep 25 2013,Elche,1-2,0-0,Real Madrid
+Wed Sep 25 2013,Granada,0-1,0-0,Valencia
+Wed Sep 25 2013,Sevilla,4-1,1-0,Vallecano
+Thu Sep 26 2013,Ath Bilbao,2-1,0-0,Betis
+Thu Sep 26 2013,Getafe,2-0,1-0,Celta
+Thu Sep 26 2013,Villarreal,2-1,1-0,Espanol
+Fri Sep 27 2013,Valladolid,2-2,0-1,Malaga
+Sat Sep 28 2013,Almeria,0-2,0-1,Barcelona
+Sat Sep 28 2013,Real Madrid,0-1,0-1,Ath Madrid
+Sat Sep 28 2013,Sociedad,1-1,0-1,Sevilla
+Sat Sep 28 2013,Valencia,1-0,1-0,Vallecano
+Sun Sep 29 2013,Betis,1-0,1-0,Villarreal
+Sun Sep 29 2013,Celta,0-1,0-0,Elche
+Sun Sep 29 2013,Espanol,0-2,0-0,Getafe
+Sun Sep 29 2013,Osasuna,0-1,0-0,Levante
+Mon Sep 30 2013,Granada,2-0,0-0,Ath Bilbao
+Fri Oct 4 2013,Malaga,0-1,0-1,Osasuna
+Fri Oct 4 2013,Villarreal,3-0,1-0,Granada
+Sat Oct 5 2013,Barcelona,4-1,1-1,Valladolid
+Sat Oct 5 2013,Elche,2-1,1-0,Espanol
+Sat Oct 5 2013,Levante,2-3,0-0,Real Madrid
+Sat Oct 5 2013,Vallecano,1-0,0-0,Sociedad
+Sun Oct 6 2013,Ath Bilbao,1-1,0-1,Valencia
+Sun Oct 6 2013,Ath Madrid,2-1,1-0,Celta
+Sun Oct 6 2013,Getafe,3-1,3-0,Betis
+Sun Oct 6 2013,Sevilla,2-1,1-1,Almeria
+Sat Oct 19 2013,Espanol,1-0,0-0,Ath Madrid
+Sat Oct 19 2013,Osasuna,0-0,0-0,Barcelona
+Sat Oct 19 2013,Real Madrid,2-0,0-0,Malaga
+Sat Oct 19 2013,Valencia,1-2,0-1,Sociedad
+Sun Oct 20 2013,Almeria,0-1,0-0,Vallecano
+Sun Oct 20 2013,Betis,1-2,1-2,Elche
+Sun Oct 20 2013,Granada,0-2,0-0,Getafe
+Sun Oct 20 2013,Valladolid,2-2,0-2,Sevilla
+Mon Oct 21 2013,Ath Bilbao,2-0,2-0,Villarreal
+Mon Oct 21 2013,Celta,0-1,0-0,Levante
+Fri Oct 25 2013,Vallecano,0-3,0-2,Valladolid
+Sat Oct 26 2013,Barcelona,2-1,1-0,Real Madrid
+Sat Oct 26 2013,Elche,0-1,0-1,Granada
+Sat Oct 26 2013,Levante,3-0,2-0,Espanol
+Sat Oct 26 2013,Malaga,0-5,0-2,Celta
+Sun Oct 27 2013,Ath Madrid,5-0,1-0,Betis
+Sun Oct 27 2013,Sevilla,2-1,0-0,Osasuna
+Sun Oct 27 2013,Sociedad,3-0,1-0,Almeria
+Sun Oct 27 2013,Villarreal,4-1,2-0,Valencia
+Mon Oct 28 2013,Getafe,0-1,0-1,Ath Bilbao
+Tue Oct 29 2013,Celta,0-3,0-1,Barcelona
+Tue Oct 29 2013,Espanol,0-0,0-0,Malaga
+Wed Oct 30 2013,Osasuna,3-1,2-0,Vallecano
+Wed Oct 30 2013,Real Madrid,7-3,3-2,Sevilla
+Wed Oct 30 2013,Valencia,1-2,1-0,Almeria
+Wed Oct 30 2013,Valladolid,2-2,0-1,Sociedad
+Thu Oct 31 2013,Ath Bilbao,2-2,0-1,Elche
+Thu Oct 31 2013,Betis,0-0,0-0,Levante
+Thu Oct 31 2013,Granada,1-2,0-1,Ath Madrid
+Thu Oct 31 2013,Villarreal,0-2,0-1,Getafe
+Fri Nov 1 2013,Barcelona,1-0,0-0,Espanol
+Sat Nov 2 2013,Almeria,1-0,1-0,Valladolid
+Sat Nov 2 2013,Sevilla,0-1,0-0,Celta
+Sat Nov 2 2013,Sociedad,5-0,1-0,Osasuna
+Sat Nov 2 2013,Vallecano,2-3,0-2,Real Madrid
+Sun Nov 3 2013,Ath Madrid,2-0,2-0,Ath Bilbao
+Sun Nov 3 2013,Getafe,0-1,0-1,Valencia
+Sun Nov 3 2013,Levante,0-1,0-0,Granada
+Sun Nov 3 2013,Malaga,3-2,1-1,Betis
+Mon Nov 4 2013,Elche,0-1,0-0,Villarreal
+Fri Nov 8 2013,Granada,3-1,0-0,Malaga
+Fri Nov 8 2013,Osasuna,0-1,0-1,Almeria
+Sat Nov 9 2013,Ath Bilbao,2-1,0-1,Levante
+Sat Nov 9 2013,Celta,0-2,0-1,Vallecano
+Sat Nov 9 2013,Getafe,1-1,1-0,Elche
+Sat Nov 9 2013,Real Madrid,5-1,4-0,Sociedad
+Sun Nov 10 2013,Betis,1-4,0-2,Barcelona
+Sun Nov 10 2013,Espanol,1-3,1-2,Sevilla
+Sun Nov 10 2013,Valencia,2-2,1-1,Valladolid
+Sun Nov 10 2013,Villarreal,1-1,0-1,Ath Madrid
+Fri Nov 22 2013,Valladolid,0-1,0-0,Osasuna
+Sat Nov 23 2013,Almeria,0-5,0-1,Real Madrid
+Sat Nov 23 2013,Ath Madrid,7-0,2-0,Getafe
+Sat Nov 23 2013,Barcelona,4-0,2-0,Granada
+Sat Nov 23 2013,Sociedad,4-3,1-2,Celta
+Sun Nov 24 2013,Elche,2-1,0-0,Valencia
+Sun Nov 24 2013,Levante,0-3,0-1,Villarreal
+Sun Nov 24 2013,Sevilla,4-0,2-0,Betis
+Sun Nov 24 2013,Vallecano,1-4,0-1,Espanol
+Mon Nov 25 2013,Malaga,1-2,1-0,Ath Bilbao
+Fri Nov 29 2013,Getafe,1-0,0-0,Levante
+Fri Nov 29 2013,Villarreal,1-1,1-0,Malaga
+Sat Nov 30 2013,Celta,3-1,1-1,Almeria
+Sat Nov 30 2013,Elche,0-2,0-0,Ath Madrid
+Sat Nov 30 2013,Espanol,1-2,1-0,Sociedad
+Sat Nov 30 2013,Real Madrid,4-0,2-0,Valladolid
+Sun Dec 1 2013,Ath Bilbao,1-0,0-0,Barcelona
+Sun Dec 1 2013,Betis,2-2,1-0,Vallecano
+Sun Dec 1 2013,Granada,1-2,0-1,Sevilla
+Sun Dec 1 2013,Valencia,3-0,1-0,Osasuna
+Fri Dec 13 2013,Levante,2-1,1-1,Elche
+Sat Dec 14 2013,Barcelona,2-1,1-0,Villarreal
+Sat Dec 14 2013,Malaga,1-0,0-0,Getafe
+Sat Dec 14 2013,Osasuna,2-2,2-1,Real Madrid
+Sat Dec 14 2013,Vallecano,0-2,0-1,Granada
+Sun Dec 15 2013,Almeria,0-0,0-0,Espanol
+Sun Dec 15 2013,Ath Madrid,3-0,0-0,Valencia
+Sun Dec 15 2013,Sevilla,1-1,1-1,Ath Bilbao
+Sun Dec 15 2013,Sociedad,5-1,1-1,Betis
+Mon Dec 16 2013,Valladolid,3-0,0-0,Celta
+Fri Dec 20 2013,Elche,0-1,0-1,Malaga
+Sat Dec 21 2013,Ath Madrid,3-2,1-1,Levante
+Sat Dec 21 2013,Betis,0-1,0-1,Almeria
+Sat Dec 21 2013,Granada,1-3,1-2,Sociedad
+Sat Dec 21 2013,Villarreal,1-2,0-1,Sevilla
+Sun Dec 22 2013,Ath Bilbao,2-1,1-0,Vallecano
+Sun Dec 22 2013,Celta,1-1,1-1,Osasuna
+Sun Dec 22 2013,Espanol,4-2,2-0,Valladolid
+Sun Dec 22 2013,Getafe,2-5,2-3,Barcelona
+Sun Dec 22 2013,Valencia,2-3,1-2,Real Madrid
+Sat Jan 4 2014,Almeria,3-0,2-0,Granada
+Sat Jan 4 2014,Malaga,0-1,0-0,Ath Madrid
+Sat Jan 4 2014,Valencia,2-0,1-0,Levante
+Sat Jan 4 2014,Valladolid,0-0,0-0,Betis
+Sun Jan 5 2014,Barcelona,4-0,2-0,Elche
+Sun Jan 5 2014,Osasuna,1-0,1-0,Espanol
+Sun Jan 5 2014,Sevilla,3-0,1-0,Getafe
+Sun Jan 5 2014,Sociedad,2-0,1-0,Ath Bilbao
+Mon Jan 6 2014,Real Madrid,3-0,0-0,Celta
+Mon Jan 6 2014,Vallecano,2-5,0-3,Villarreal
+Fri Jan 10 2014,Granada,4-0,2-0,Valladolid
+Sat Jan 11 2014,Ath Bilbao,6-1,3-1,Almeria
+Sat Jan 11 2014,Ath Madrid,0-0,0-0,Barcelona
+Sat Jan 11 2014,Celta,2-1,0-1,Valencia
+Sat Jan 11 2014,Elche,1-1,0-0,Sevilla
+Sun Jan 12 2014,Betis,1-2,0-1,Osasuna
+Sun Jan 12 2014,Espanol,0-1,0-0,Real Madrid
+Sun Jan 12 2014,Getafe,0-1,0-1,Vallecano
+Sun Jan 12 2014,Levante,1-0,1-0,Malaga
+Mon Jan 13 2014,Villarreal,5-1,3-0,Sociedad
+Fri Jan 17 2014,Malaga,0-0,0-0,Valencia
+Sat Jan 18 2014,Betis,0-5,0-3,Real Madrid
+Sat Jan 18 2014,Elche,2-0,1-0,Vallecano
+Sat Jan 18 2014,Espanol,1-0,0-0,Celta
+Sat Jan 18 2014,Granada,0-0,0-0,Osasuna
+Sun Jan 19 2014,Ath Madrid,1-1,1-0,Sevilla
+Sun Jan 19 2014,Getafe,2-2,1-2,Sociedad
+Sun Jan 19 2014,Levante,1-1,1-1,Barcelona
+Sun Jan 19 2014,Villarreal,2-0,1-0,Almeria
+Mon Jan 20 2014,Ath Bilbao,4-2,0-1,Valladolid
+Fri Jan 24 2014,Celta,4-2,3-1,Betis
+Sat Jan 25 2014,Real Madrid,2-0,0-0,Granada
+Sat Jan 25 2014,Sevilla,2-3,1-1,Levante
+Sat Jan 25 2014,Valencia,2-2,2-2,Espanol
+Sat Jan 25 2014,Valladolid,1-0,1-0,Villarreal
+Sun Jan 26 2014,Almeria,1-0,0-0,Getafe
+Sun Jan 26 2014,Barcelona,3-0,1-0,Malaga
+Sun Jan 26 2014,Osasuna,1-5,1-2,Ath Bilbao
+Sun Jan 26 2014,Vallecano,2-4,1-3,Ath Madrid
+Mon Jan 27 2014,Sociedad,4-0,2-0,Elche
+Fri Jan 31 2014,Granada,1-2,1-1,Celta
+Sat Feb 1 2014,Barcelona,2-3,1-1,Valencia
+Sat Feb 1 2014,Getafe,0-0,0-0,Valladolid
+Sat Feb 1 2014,Levante,0-0,0-0,Vallecano
+Sat Feb 1 2014,Malaga,3-2,1-0,Sevilla
+Sun Feb 2 2014,Ath Bilbao,1-1,0-0,Real Madrid
+Sun Feb 2 2014,Ath Madrid,4-0,1-0,Sociedad
+Sun Feb 2 2014,Betis,2-0,0-0,Espanol
+Sun Feb 2 2014,Elche,1-0,0-0,Almeria
+Mon Feb 3 2014,Villarreal,3-1,0-0,Osasuna
+Fri Feb 7 2014,Espanol,1-0,0-0,Granada
+Sat Feb 8 2014,Almeria,2-0,0-0,Ath Madrid
+Sat Feb 8 2014,Real Madrid,4-2,2-1,Villarreal
+Sat Feb 8 2014,Valencia,5-0,2-0,Betis
+Sat Feb 8 2014,Vallecano,4-1,3-0,Malaga
+Sun Feb 9 2014,Osasuna,2-0,1-0,Getafe
+Sun Feb 9 2014,Sevilla,1-4,1-2,Barcelona
+Sun Feb 9 2014,Sociedad,0-0,0-0,Levante
+Sun Feb 9 2014,Valladolid,2-2,0-1,Elche
+Mon Feb 10 2014,Celta,0-0,0-0,Ath Bilbao
+Fri Feb 14 2014,Elche,0-0,0-0,Osasuna
+Sat Feb 15 2014,Ath Madrid,3-0,2-0,Valladolid
+Sat Feb 15 2014,Barcelona,6-0,2-0,Vallecano
+Sat Feb 15 2014,Levante,1-0,0-0,Almeria
+Sat Feb 15 2014,Villarreal,0-2,0-0,Celta
+Sun Feb 16 2014,Ath Bilbao,1-2,0-1,Espanol
+Sun Feb 16 2014,Getafe,0-3,0-2,Real Madrid
+Sun Feb 16 2014,Granada,1-0,1-0,Betis
+Sun Feb 16 2014,Sevilla,0-0,0-0,Valencia
+Mon Feb 17 2014,Malaga,0-1,0-1,Sociedad
+Fri Feb 21 2014,Valladolid,1-1,0-1,Levante
+Sat Feb 22 2014,Almeria,0-0,0-0,Malaga
+Sat Feb 22 2014,Celta,1-1,0-1,Getafe
+Sat Feb 22 2014,Real Madrid,3-0,1-0,Elche
+Sat Feb 22 2014,Sociedad,3-1,1-1,Barcelona
+Sun Feb 23 2014,Betis,0-2,0-1,Ath Bilbao
+Sun Feb 23 2014,Osasuna,3-0,3-0,Ath Madrid
+Sun Feb 23 2014,Valencia,2-1,0-0,Granada
+Sun Feb 23 2014,Vallecano,0-1,0-0,Sevilla
+Mon Feb 24 2014,Espanol,1-2,0-1,Villarreal
+Fri Feb 28 2014,Ath Bilbao,4-0,2-0,Granada
+Sat Mar 1 2014,Elche,1-0,0-0,Celta
+Sat Mar 1 2014,Getafe,0-0,0-0,Espanol
+Sat Mar 1 2014,Levante,2-0,2-0,Osasuna
+Sat Mar 1 2014,Malaga,1-1,1-1,Valladolid
+Sun Mar 2 2014,Ath Madrid,2-2,2-1,Real Madrid
+Sun Mar 2 2014,Barcelona,4-1,2-1,Almeria
+Sun Mar 2 2014,Sevilla,1-0,0-0,Sociedad
+Sun Mar 2 2014,Vallecano,1-0,0-0,Valencia
+Sun Mar 2 2014,Villarreal,1-1,0-0,Betis
+Sat Mar 8 2014,Betis,2-0,2-0,Getafe
+Sat Mar 8 2014,Celta,0-2,0-0,Ath Madrid
+Sat Mar 8 2014,Granada,2-0,2-0,Villarreal
+Sat Mar 8 2014,Valladolid,1-0,1-0,Barcelona
+Sun Mar 9 2014,Almeria,1-3,0-1,Sevilla
+Sun Mar 9 2014,Espanol,3-1,2-0,Elche
+Sun Mar 9 2014,Real Madrid,3-0,1-0,Levante
+Sun Mar 9 2014,Valencia,1-1,1-0,Ath Bilbao
+Mon Mar 10 2014,Osasuna,0-2,0-1,Malaga
+Mon Mar 10 2014,Sociedad,2-3,2-1,Vallecano
+Fri Mar 14 2014,Getafe,3-3,2-1,Granada
+Sat Mar 15 2014,Ath Madrid,1-0,0-0,Espanol
+Sat Mar 15 2014,Levante,0-1,0-1,Celta
+Sat Mar 15 2014,Malaga,0-1,0-1,Real Madrid
+Sat Mar 15 2014,Vallecano,3-1,1-0,Almeria
+Sun Mar 16 2014,Barcelona,7-0,3-0,Osasuna
+Sun Mar 16 2014,Elche,0-0,0-0,Betis
+Sun Mar 16 2014,Sevilla,4-1,2-0,Valladolid
+Sun Mar 16 2014,Sociedad,1-0,0-0,Valencia
+Mon Mar 17 2014,Villarreal,1-1,0-0,Ath Bilbao
+Fri Mar 21 2014,Celta,0-2,0-2,Malaga
+Sat Mar 22 2014,Ath Bilbao,1-0,1-0,Getafe
+Sat Mar 22 2014,Espanol,0-0,0-0,Levante
+Sat Mar 22 2014,Granada,1-0,0-0,Elche
+Sat Mar 22 2014,Valladolid,1-1,1-1,Vallecano
+Sun Mar 23 2014,Betis,0-2,0-0,Ath Madrid
+Sun Mar 23 2014,Osasuna,1-2,0-2,Sevilla
+Sun Mar 23 2014,Real Madrid,3-4,2-2,Barcelona
+Sun Mar 23 2014,Valencia,2-1,2-0,Villarreal
+Mon Mar 24 2014,Almeria,4-3,1-1,Sociedad
+Tue Mar 25 2014,Elche,0-0,0-0,Ath Bilbao
+Tue Mar 25 2014,Malaga,1-2,1-1,Espanol
+Wed Mar 26 2014,Ath Madrid,1-0,0-0,Granada
+Wed Mar 26 2014,Barcelona,3-0,2-0,Celta
+Wed Mar 26 2014,Sevilla,2-1,1-1,Real Madrid
+Wed Mar 26 2014,Vallecano,1-0,0-0,Osasuna
+Thu Mar 27 2014,Almeria,2-2,0-2,Valencia
+Thu Mar 27 2014,Getafe,0-1,0-1,Villarreal
+Thu Mar 27 2014,Levante,1-3,1-1,Betis
+Thu Mar 27 2014,Sociedad,1-0,1-0,Valladolid
+Sat Mar 29 2014,Ath Bilbao,1-2,1-1,Ath Madrid
+Sat Mar 29 2014,Celta,1-0,0-0,Sevilla
+Sat Mar 29 2014,Espanol,0-1,0-0,Barcelona
+Sat Mar 29 2014,Real Madrid,5-0,1-0,Vallecano
+Sun Mar 30 2014,Osasuna,1-1,0-1,Sociedad
+Sun Mar 30 2014,Valencia,1-3,1-2,Getafe
+Sun Mar 30 2014,Valladolid,1-0,1-0,Almeria
+Sun Mar 30 2014,Villarreal,1-1,1-1,Elche
+Mon Mar 31 2014,Betis,1-2,1-0,Malaga
+Mon Mar 31 2014,Granada,0-2,0-0,Levante
+Fri Apr 4 2014,Almeria,1-2,0-2,Osasuna
+Sat Apr 5 2014,Ath Madrid,1-0,1-0,Villarreal
+Sat Apr 5 2014,Barcelona,3-1,1-0,Betis
+Sat Apr 5 2014,Sociedad,0-4,0-1,Real Madrid
+Sat Apr 5 2014,Vallecano,3-0,1-0,Celta
+Sun Apr 6 2014,Elche,1-0,0-0,Getafe
+Sun Apr 6 2014,Malaga,4-1,2-0,Granada
+Sun Apr 6 2014,Sevilla,4-1,2-0,Espanol
+Sun Apr 6 2014,Valladolid,0-0,0-0,Valencia
+Mon Apr 7 2014,Levante,1-2,0-2,Ath Bilbao
+Fri Apr 11 2014,Osasuna,0-0,0-0,Valladolid
+Sat Apr 12 2014,Celta,2-2,1-2,Sociedad
+Sat Apr 12 2014,Granada,1-0,1-0,Barcelona
+Sat Apr 12 2014,Real Madrid,4-0,1-0,Almeria
+Sat Apr 12 2014,Villarreal,1-0,0-0,Levante
+Sun Apr 13 2014,Betis,0-2,0-1,Sevilla
+Sun Apr 13 2014,Espanol,2-2,1-1,Vallecano
+Sun Apr 13 2014,Getafe,0-2,0-1,Ath Madrid
+Sun Apr 13 2014,Valencia,2-1,1-1,Elche
+Mon Apr 14 2014,Ath Bilbao,3-0,1-0,Malaga
+Fri Apr 18 2014,Ath Madrid,2-0,0-0,Elche
+Sat Apr 19 2014,Levante,0-0,0-0,Getafe
+Sat Apr 19 2014,Osasuna,1-1,1-0,Valencia
+Sat Apr 19 2014,Sociedad,2-1,1-1,Espanol
+Sun Apr 20 2014,Almeria,2-4,1-1,Celta
+Sun Apr 20 2014,Barcelona,2-1,0-0,Ath Bilbao
+Sun Apr 20 2014,Sevilla,4-0,1-0,Granada
+Sun Apr 20 2014,Vallecano,3-1,2-0,Betis
+Mon Apr 21 2014,Malaga,2-0,1-0,Villarreal
+Fri Apr 25 2014,Elche,1-1,0-0,Levante
+Sat Apr 26 2014,Betis,0-1,0-0,Sociedad
+Sat Apr 26 2014,Getafe,1-0,1-0,Malaga
+Sat Apr 26 2014,Granada,0-3,0-0,Vallecano
+Sat Apr 26 2014,Real Madrid,4-0,1-0,Osasuna
+Sun Apr 27 2014,Ath Bilbao,3-1,1-0,Sevilla
+Sun Apr 27 2014,Espanol,1-2,1-0,Almeria
+Sun Apr 27 2014,Valencia,0-1,0-1,Ath Madrid
+Sun Apr 27 2014,Villarreal,2-3,1-0,Barcelona
+Mon Apr 28 2014,Celta,4-1,2-0,Valladolid
+Fri May 2 2014,Vallecano,0-3,0-2,Ath Bilbao
+Sat May 3 2014,Barcelona,2-2,1-1,Getafe
+Sat May 3 2014,Malaga,0-1,0-1,Elche
+Sat May 3 2014,Osasuna,0-2,0-2,Celta
+Sat May 3 2014,Valladolid,1-0,1-0,Espanol
+Sun May 4 2014,Almeria,3-2,0-0,Betis
+Sun May 4 2014,Levante,2-0,1-0,Ath Madrid
+Sun May 4 2014,Real Madrid,2-2,0-1,Valencia
+Sun May 4 2014,Sevilla,0-0,0-0,Villarreal
+Mon May 5 2014,Sociedad,1-1,0-0,Granada
+Wed May 7 2014,Valladolid,1-1,0-1,Real Madrid
+Sat May 10 2014,Levante,2-0,0-0,Valencia
+Sat May 10 2014,Villarreal,4-0,2-0,Vallecano
+Sun May 11 2014,Ath Bilbao,1-1,0-0,Sociedad
+Sun May 11 2014,Ath Madrid,1-1,0-0,Malaga
+Sun May 11 2014,Betis,4-3,1-1,Valladolid
+Sun May 11 2014,Celta,2-0,1-0,Real Madrid
+Sun May 11 2014,Elche,0-0,0-0,Barcelona
+Sun May 11 2014,Espanol,1-1,1-1,Osasuna
+Sun May 11 2014,Getafe,1-0,0-0,Sevilla
+Sun May 11 2014,Granada,0-2,0-1,Almeria
+Fri May 16 2014,Malaga,1-0,0-0,Levante
+Sat May 17 2014,Barcelona,1-1,1-0,Ath Madrid
+Sat May 17 2014,Real Madrid,3-1,0-0,Espanol
+Sat May 17 2014,Valencia,2-1,1-1,Celta
+Sun May 18 2014,Almeria,0-0,0-0,Ath Bilbao
+Sun May 18 2014,Osasuna,2-1,2-0,Betis
+Sun May 18 2014,Sevilla,3-1,1-0,Elche
+Sun May 18 2014,Sociedad,1-2,0-1,Villarreal
+Sun May 18 2014,Valladolid,0-1,0-1,Granada
+Sun May 18 2014,Vallecano,1-2,0-1,Getafe

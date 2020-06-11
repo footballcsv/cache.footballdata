@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 1 2003,Bayern Munich,3-1,3-0,Ein Frankfurt
+Sat Aug 2 2003,Hamburg,0-3,0-1,Hannover
+Sat Aug 2 2003,Hertha,0-3,0-2,Werder Bremen
+Sat Aug 2 2003,Kaiserslautern,0-1,0-1,Munich 1860
+Sat Aug 2 2003,Leverkusen,4-1,3-1,Freiburg
+Sat Aug 2 2003,Schalke 04,2-2,1-0,Dortmund
+Sat Aug 2 2003,Wolfsburg,3-2,2-2,Bochum
+Sun Aug 3 2003,Hansa Rostock,0-2,0-0,Stuttgart
+Sun Aug 3 2003,M'gladbach,1-0,0-0,FC Koln
+Sat Aug 9 2003,Bochum,1-1,1-1,Hamburg
+Sat Aug 9 2003,Dortmund,4-0,1-0,Wolfsburg
+Sat Aug 9 2003,FC Koln,1-2,1-1,Kaiserslautern
+Sat Aug 9 2003,Freiburg,2-2,0-2,Hansa Rostock
+Sat Aug 9 2003,Hannover,3-3,3-1,Bayern Munich
+Sat Aug 9 2003,Munich 1860,1-1,1-0,Schalke 04
+Sat Aug 9 2003,Werder Bremen,1-1,0-0,M'gladbach
+Sun Aug 10 2003,Ein Frankfurt,1-2,1-0,Leverkusen
+Sun Aug 10 2003,Stuttgart,0-0,0-0,Hertha
+Sat Aug 16 2003,Bayern Munich,2-0,2-0,Bochum
+Sat Aug 16 2003,Dortmund,3-1,0-0,Munich 1860
+Sat Aug 16 2003,Hansa Rostock,3-0,1-0,Ein Frankfurt
+Sat Aug 16 2003,Hertha,0-0,0-0,Freiburg
+Sat Aug 16 2003,Kaiserslautern,0-1,0-0,Werder Bremen
+Sat Aug 16 2003,Leverkusen,4-0,2-0,Hannover
+Sat Aug 16 2003,M'gladbach,0-1,0-1,Stuttgart
+Sun Aug 17 2003,Schalke 04,2-1,1-0,FC Koln
+Sun Aug 17 2003,Wolfsburg,5-1,0-0,Hamburg
+Sat Aug 23 2003,Bochum,1-0,0-0,Leverkusen
+Sat Aug 23 2003,Ein Frankfurt,0-0,0-0,Hertha
+Sat Aug 23 2003,FC Koln,1-0,0-0,Dortmund
+Sat Aug 23 2003,Freiburg,4-1,3-0,M'gladbach
+Sat Aug 23 2003,Munich 1860,1-0,0-0,Wolfsburg
+Sat Aug 23 2003,Stuttgart,2-0,2-0,Kaiserslautern
+Sat Aug 23 2003,Werder Bremen,4-1,3-0,Schalke 04
+Sun Aug 24 2003,Hamburg,0-2,0-1,Bayern Munich
+Wed Aug 27 2003,Hannover,3-3,1-1,Hansa Rostock
+Sat Sep 13 2003,Dortmund,2-1,1-1,Werder Bremen
+Sat Sep 13 2003,Hansa Rostock,0-2,0-0,Bochum
+Sat Sep 13 2003,Hertha,2-3,2-1,Hannover
+Sat Sep 13 2003,Leverkusen,1-0,1-0,Hamburg
+Sat Sep 13 2003,Munich 1860,2-1,1-0,FC Koln
+Sat Sep 13 2003,Schalke 04,0-0,0-0,Stuttgart
+Sat Sep 13 2003,Wolfsburg,3-2,1-0,Bayern Munich
+Sun Sep 14 2003,Kaiserslautern,2-2,2-2,Freiburg
+Sun Sep 14 2003,M'gladbach,0-2,0-1,Ein Frankfurt
+Sat Sep 20 2003,Bayern Munich,3-3,1-2,Leverkusen
+Sat Sep 20 2003,Bochum,2-2,1-1,Hertha
+Sat Sep 20 2003,FC Koln,2-3,1-2,Wolfsburg
+Sat Sep 20 2003,Freiburg,2-1,2-1,Schalke 04
+Sat Sep 20 2003,Hannover,2-0,1-0,M'gladbach
+Sat Sep 20 2003,Stuttgart,1-0,0-0,Dortmund
+Sat Sep 20 2003,Werder Bremen,2-1,0-0,Munich 1860
+Sun Sep 21 2003,Ein Frankfurt,1-3,0-1,Kaiserslautern
+Sun Sep 21 2003,Hamburg,2-1,0-1,Hansa Rostock
+Sat Sep 27 2003,Dortmund,1-0,0-0,Freiburg
+Sat Sep 27 2003,FC Koln,1-4,0-2,Werder Bremen
+Sat Sep 27 2003,Hansa Rostock,1-2,0-1,Bayern Munich
+Sat Sep 27 2003,Kaiserslautern,1-0,0-0,Hannover
+Sat Sep 27 2003,M'gladbach,2-2,1-0,Bochum
+Sat Sep 27 2003,Munich 1860,0-3,0-2,Stuttgart
+Sat Sep 27 2003,Wolfsburg,0-1,0-0,Leverkusen
+Sun Sep 28 2003,Hertha,1-1,1-0,Hamburg
+Sun Sep 28 2003,Schalke 04,1-1,1-1,Ein Frankfurt
+Sat Oct 4 2003,Bayern Munich,4-1,2-0,Hertha
+Sat Oct 4 2003,Bochum,4-0,0-0,Kaiserslautern
+Sat Oct 4 2003,Ein Frankfurt,0-1,0-1,Dortmund
+Sat Oct 4 2003,Freiburg,1-0,0-0,Munich 1860
+Sat Oct 4 2003,Hamburg,2-1,0-1,M'gladbach
+Sat Oct 4 2003,Hannover,1-2,1-2,Schalke 04
+Sat Oct 4 2003,Stuttgart,0-0,0-0,FC Koln
+Sun Oct 5 2003,Leverkusen,3-0,0-0,Hansa Rostock
+Sun Oct 5 2003,Werder Bremen,5-3,3-1,Wolfsburg
+Sat Oct 18 2003,Dortmund,6-2,2-0,Hannover
+Sat Oct 18 2003,FC Koln,1-0,0-0,Freiburg
+Sat Oct 18 2003,Hertha,1-4,0-1,Leverkusen
+Sat Oct 18 2003,M'gladbach,0-0,0-0,Bayern Munich
+Sat Oct 18 2003,Munich 1860,1-0,0-0,Ein Frankfurt
+Sat Oct 18 2003,Werder Bremen,1-3,0-2,Stuttgart
+Sat Oct 18 2003,Wolfsburg,3-1,2-1,Hansa Rostock
+Sun Oct 19 2003,Kaiserslautern,4-0,1-0,Hamburg
+Sun Oct 19 2003,Schalke 04,0-2,0-0,Bochum
+Sat Oct 25 2003,Bayern Munich,4-1,2-0,Kaiserslautern
+Sat Oct 25 2003,Ein Frankfurt,2-0,0-0,FC Koln
+Sat Oct 25 2003,Freiburg,2-4,0-3,Werder Bremen
+Sat Oct 25 2003,Hamburg,2-2,1-0,Schalke 04
+Sat Oct 25 2003,Hannover,1-1,1-1,Munich 1860
+Sat Oct 25 2003,Hansa Rostock,0-1,0-1,Hertha
+Sat Oct 25 2003,Stuttgart,1-0,0-0,Wolfsburg
+Sun Oct 26 2003,Bochum,3-0,1-0,Dortmund
+Sun Oct 26 2003,Leverkusen,1-0,0-0,M'gladbach
+Sat Nov 1 2003,FC Koln,1-2,1-1,Hannover
+Sat Nov 1 2003,M'gladbach,1-1,1-1,Hansa Rostock
+Sat Nov 1 2003,Munich 1860,3-1,0-1,Bochum
+Sat Nov 1 2003,Schalke 04,2-0,1-0,Bayern Munich
+Sat Nov 1 2003,Stuttgart,4-1,1-1,Freiburg
+Sat Nov 1 2003,Werder Bremen,3-1,2-0,Ein Frankfurt
+Sat Nov 1 2003,Wolfsburg,3-0,1-0,Hertha
+Sun Nov 2 2003,Dortmund,3-2,0-1,Hamburg
+Sun Nov 2 2003,Kaiserslautern,0-0,0-0,Leverkusen
+Sat Nov 8 2003,Bochum,4-0,3-0,FC Koln
+Sat Nov 8 2003,Ein Frankfurt,0-2,0-1,Stuttgart
+Sat Nov 8 2003,Freiburg,3-2,2-0,Wolfsburg
+Sat Nov 8 2003,Hamburg,3-1,0-0,Munich 1860
+Sat Nov 8 2003,Hannover,1-5,0-3,Werder Bremen
+Sat Nov 8 2003,Hansa Rostock,4-0,3-0,Kaiserslautern
+Sat Nov 8 2003,Hertha,2-1,1-1,M'gladbach
+Sun Nov 9 2003,Bayern Munich,4-1,1-0,Dortmund
+Sun Nov 9 2003,Leverkusen,3-1,2-1,Schalke 04
+Sat Nov 22 2003,Dortmund,2-2,2-1,Leverkusen
+Sat Nov 22 2003,FC Koln,0-1,0-1,Hamburg
+Sat Nov 22 2003,Munich 1860,0-1,0-1,Bayern Munich
+Sat Nov 22 2003,Schalke 04,0-1,0-0,Hansa Rostock
+Sat Nov 22 2003,Stuttgart,3-1,1-0,Hannover
+Sat Nov 22 2003,Werder Bremen,3-1,2-0,Bochum
+Sat Nov 22 2003,Wolfsburg,1-3,1-1,M'gladbach
+Sun Nov 23 2003,Freiburg,1-0,0-0,Ein Frankfurt
+Sun Nov 23 2003,Kaiserslautern,4-2,0-2,Hertha
+Sat Nov 29 2003,Bayern Munich,2-2,1-1,FC Koln
+Sat Nov 29 2003,Bochum,0-0,0-0,Stuttgart
+Sat Nov 29 2003,Ein Frankfurt,3-2,1-2,Wolfsburg
+Sat Nov 29 2003,Hamburg,1-1,0-1,Werder Bremen
+Sat Nov 29 2003,Hannover,3-0,1-0,Freiburg
+Sat Nov 29 2003,Leverkusen,2-2,0-1,Munich 1860
+Sat Nov 29 2003,M'gladbach,2-1,0-1,Kaiserslautern
+Sun Nov 30 2003,Hansa Rostock,2-1,0-0,Dortmund
+Sun Nov 30 2003,Hertha,1-3,1-0,Schalke 04
+Sat Dec 6 2003,Dortmund,1-1,0-0,Hertha
+Sat Dec 6 2003,Ein Frankfurt,2-2,1-1,Hannover
+Sat Dec 6 2003,Freiburg,4-2,3-2,Bochum
+Sat Dec 6 2003,Munich 1860,1-4,1-2,Hansa Rostock
+Sat Dec 6 2003,Stuttgart,0-0,0-0,Hamburg
+Sat Dec 6 2003,Werder Bremen,1-1,0-0,Bayern Munich
+Sat Dec 6 2003,Wolfsburg,4-1,1-1,Kaiserslautern
+Sun Dec 7 2003,FC Koln,0-0,0-0,Leverkusen
+Sun Dec 7 2003,Schalke 04,2-1,1-1,M'gladbach
+Sat Dec 13 2003,Bayern Munich,1-0,0-0,Stuttgart
+Sat Dec 13 2003,Bochum,1-0,1-0,Ein Frankfurt
+Sat Dec 13 2003,Hamburg,4-1,2-0,Freiburg
+Sat Dec 13 2003,Hansa Rostock,1-1,0-1,FC Koln
+Sat Dec 13 2003,Hertha,1-1,0-0,Munich 1860
+Sat Dec 13 2003,Kaiserslautern,0-2,0-1,Schalke 04
+Sat Dec 13 2003,Leverkusen,1-3,0-2,Werder Bremen
+Sun Dec 14 2003,M'gladbach,2-1,1-1,Dortmund
+Sun Dec 14 2003,Wolfsburg,2-1,1-1,Hannover
+Tue Dec 16 2003,Ein Frankfurt,2-3,0-1,Hamburg
+Tue Dec 16 2003,FC Koln,3-0,0-0,Hertha
+Tue Dec 16 2003,Freiburg,0-6,0-3,Bayern Munich
+Tue Dec 16 2003,Werder Bremen,3-0,1-0,Hansa Rostock
+Wed Dec 17 2003,Dortmund,1-1,1-0,Kaiserslautern
+Wed Dec 17 2003,Hannover,2-2,1-0,Bochum
+Wed Dec 17 2003,Munich 1860,1-2,0-1,M'gladbach
+Wed Dec 17 2003,Schalke 04,1-1,1-1,Wolfsburg
+Wed Dec 17 2003,Stuttgart,2-3,0-2,Leverkusen
+Fri Jan 30 2004,Dortmund,0-1,0-0,Schalke 04
+Sat Jan 31 2004,Bochum,1-0,1-0,Wolfsburg
+Sat Jan 31 2004,Ein Frankfurt,1-1,1-1,Bayern Munich
+Sat Jan 31 2004,FC Koln,1-0,0-0,M'gladbach
+Sat Jan 31 2004,Munich 1860,2-1,2-1,Kaiserslautern
+Sat Jan 31 2004,Stuttgart,2-0,0-0,Hansa Rostock
+Sat Jan 31 2004,Werder Bremen,4-0,3-0,Hertha
+Sun Feb 1 2004,Freiburg,1-0,0-0,Leverkusen
+Sun Feb 1 2004,Hannover,3-2,2-1,Hamburg
+Sat Feb 7 2004,Hamburg,1-1,0-0,Bochum
+Sat Feb 7 2004,Hansa Rostock,4-1,1-0,Freiburg
+Sat Feb 7 2004,Kaiserslautern,1-0,1-0,FC Koln
+Sat Feb 7 2004,Leverkusen,1-2,0-1,Ein Frankfurt
+Sat Feb 7 2004,M'gladbach,1-2,0-0,Werder Bremen
+Sat Feb 7 2004,Schalke 04,0-0,0-0,Munich 1860
+Sat Feb 7 2004,Wolfsburg,2-4,1-2,Dortmund
+Sun Feb 8 2004,Bayern Munich,3-1,1-0,Hannover
+Sun Feb 8 2004,Hertha,1-0,0-0,Stuttgart
+Sat Feb 14 2004,Bochum,1-0,1-0,Bayern Munich
+Sat Feb 14 2004,Ein Frankfurt,1-1,1-0,Hansa Rostock
+Sat Feb 14 2004,FC Koln,0-2,0-1,Schalke 04
+Sat Feb 14 2004,Freiburg,2-3,0-2,Hertha
+Sat Feb 14 2004,Hamburg,2-0,1-0,Wolfsburg
+Sat Feb 14 2004,Hannover,2-2,1-0,Leverkusen
+Sat Feb 14 2004,Stuttgart,1-1,1-0,M'gladbach
+Sun Feb 15 2004,Munich 1860,0-2,0-1,Dortmund
+Sun Feb 15 2004,Werder Bremen,1-0,0-0,Kaiserslautern
+Sat Feb 21 2004,Bayern Munich,1-0,0-0,Hamburg
+Sat Feb 21 2004,Hansa Rostock,3-1,3-1,Hannover
+Sat Feb 21 2004,Kaiserslautern,1-0,1-0,Stuttgart
+Sat Feb 21 2004,Leverkusen,1-3,0-0,Bochum
+Sat Feb 21 2004,M'gladbach,2-2,0-1,Freiburg
+Sat Feb 21 2004,Schalke 04,0-0,0-0,Werder Bremen
+Sat Feb 21 2004,Wolfsburg,3-1,2-1,Munich 1860
+Sun Feb 22 2004,Dortmund,1-0,1-0,FC Koln
+Sun Feb 22 2004,Hertha,1-2,0-1,Ein Frankfurt
+Sat Feb 28 2004,Bayern Munich,2-0,1-0,Wolfsburg
+Sat Feb 28 2004,Bochum,0-0,0-0,Hansa Rostock
+Sat Feb 28 2004,Ein Frankfurt,3-1,2-0,M'gladbach
+Sat Feb 28 2004,FC Koln,1-3,0-3,Munich 1860
+Sat Feb 28 2004,Hamburg,3-1,3-1,Leverkusen
+Sat Feb 28 2004,Stuttgart,0-0,0-0,Schalke 04
+Sat Feb 28 2004,Werder Bremen,2-0,0-0,Dortmund
+Sun Feb 29 2004,Freiburg,1-0,0-0,Kaiserslautern
+Sun Feb 29 2004,Hannover,1-3,0-1,Hertha
+Sat Mar 6 2004,Dortmund,0-2,0-1,Stuttgart
+Sat Mar 6 2004,Hansa Rostock,3-0,2-0,Hamburg
+Sat Mar 6 2004,Hertha,1-1,1-0,Bochum
+Sat Mar 6 2004,Kaiserslautern,1-0,0-0,Ein Frankfurt
+Sat Mar 6 2004,Leverkusen,1-3,0-1,Bayern Munich
+Sat Mar 6 2004,M'gladbach,1-0,1-0,Hannover
+Sat Mar 6 2004,Schalke 04,3-0,1-0,Freiburg
+Sun Mar 7 2004,Munich 1860,0-2,0-1,Werder Bremen
+Sun Mar 7 2004,Wolfsburg,2-0,1-0,FC Koln
+Sat Mar 13 2004,Bayern Munich,3-3,2-0,Hansa Rostock
+Sat Mar 13 2004,Ein Frankfurt,3-0,0-0,Schalke 04
+Sat Mar 13 2004,Freiburg,2-2,1-1,Dortmund
+Sat Mar 13 2004,Hamburg,2-0,1-0,Hertha
+Sat Mar 13 2004,Hannover,0-1,0-0,Kaiserslautern
+Sat Mar 13 2004,Leverkusen,4-2,3-1,Wolfsburg
+Sat Mar 13 2004,Werder Bremen,3-2,3-0,FC Koln
+Sun Mar 14 2004,Bochum,1-0,0-0,M'gladbach
+Sun Mar 14 2004,Stuttgart,2-0,2-0,Munich 1860
+Sat Mar 20 2004,Dortmund,2-0,1-0,Ein Frankfurt
+Sat Mar 20 2004,FC Koln,2-2,1-1,Stuttgart
+Sat Mar 20 2004,Hansa Rostock,0-2,0-0,Leverkusen
+Sat Mar 20 2004,Hertha,1-1,1-1,Bayern Munich
+Sat Mar 20 2004,Kaiserslautern,2-2,0-2,Bochum
+Sat Mar 20 2004,M'gladbach,3-0,0-0,Hamburg
+Sat Mar 20 2004,Schalke 04,2-2,0-1,Hannover
+Sun Mar 21 2004,Munich 1860,1-1,0-1,Freiburg
+Sun Mar 21 2004,Wolfsburg,0-2,0-0,Werder Bremen
+Sat Mar 27 2004,Bayern Munich,5-2,2-0,M'gladbach
+Sat Mar 27 2004,Bochum,1-2,1-0,Schalke 04
+Sat Mar 27 2004,Ein Frankfurt,0-3,0-2,Munich 1860
+Sat Mar 27 2004,Freiburg,3-0,1-0,FC Koln
+Sat Mar 27 2004,Hannover,1-1,0-1,Dortmund
+Sat Mar 27 2004,Hansa Rostock,3-1,3-1,Wolfsburg
+Sat Mar 27 2004,Leverkusen,4-1,2-1,Hertha
+Sun Mar 28 2004,Hamburg,3-2,1-0,Kaiserslautern
+Sun Mar 28 2004,Stuttgart,4-4,2-3,Werder Bremen
+Sat Apr 3 2004,FC Koln,2-0,2-0,Ein Frankfurt
+Sat Apr 3 2004,Hertha,1-1,0-0,Hansa Rostock
+Sat Apr 3 2004,Kaiserslautern,0-2,0-0,Bayern Munich
+Sat Apr 3 2004,M'gladbach,0-0,0-0,Leverkusen
+Sat Apr 3 2004,Munich 1860,0-2,0-0,Hannover
+Sat Apr 3 2004,Schalke 04,4-1,3-1,Hamburg
+Sat Apr 3 2004,Wolfsburg,1-5,1-3,Stuttgart
+Sun Apr 4 2004,Dortmund,4-1,3-1,Bochum
+Sun Apr 4 2004,Werder Bremen,1-1,1-1,Freiburg
+Sat Apr 10 2004,Bayern Munich,2-1,1-1,Schalke 04
+Sat Apr 10 2004,Bochum,4-0,2-0,Munich 1860
+Sat Apr 10 2004,Ein Frankfurt,0-1,0-0,Werder Bremen
+Sat Apr 10 2004,Hamburg,0-2,0-2,Dortmund
+Sat Apr 10 2004,Hansa Rostock,1-2,1-1,M'gladbach
+Sat Apr 10 2004,Hertha,1-0,1-0,Wolfsburg
+Sat Apr 10 2004,Leverkusen,6-0,4-0,Kaiserslautern
+Sun Apr 11 2004,Freiburg,0-1,0-1,Stuttgart
+Sun Apr 11 2004,Hannover,1-0,1-0,FC Koln
+Sat Apr 17 2004,Dortmund,2-0,0-0,Bayern Munich
+Sat Apr 17 2004,Kaiserslautern,3-2,2-1,Hansa Rostock
+Sat Apr 17 2004,M'gladbach,1-1,0-1,Hertha
+Sat Apr 17 2004,Munich 1860,1-2,0-0,Hamburg
+Sat Apr 17 2004,Schalke 04,2-3,0-1,Leverkusen
+Sat Apr 17 2004,Stuttgart,3-1,1-0,Ein Frankfurt
+Sat Apr 17 2004,Wolfsburg,4-0,2-0,Freiburg
+Sun Apr 18 2004,FC Koln,1-2,0-1,Bochum
+Sun Apr 18 2004,Werder Bremen,0-0,0-0,Hannover
+Sat Apr 24 2004,Ein Frankfurt,3-0,2-0,Freiburg
+Sat Apr 24 2004,Hamburg,4-2,1-1,FC Koln
+Sat Apr 24 2004,Hannover,0-1,0-1,Stuttgart
+Sat Apr 24 2004,Hansa Rostock,3-1,1-1,Schalke 04
+Sat Apr 24 2004,Hertha,3-0,3-0,Kaiserslautern
+Sat Apr 24 2004,Leverkusen,3-0,2-0,Dortmund
+Sat Apr 24 2004,M'gladbach,0-2,0-1,Wolfsburg
+Sun Apr 25 2004,Bayern Munich,1-0,0-0,Munich 1860
+Sun Apr 25 2004,Bochum,0-0,0-0,Werder Bremen
+Sat May 1 2004,Dortmund,4-1,3-0,Hansa Rostock
+Sat May 1 2004,FC Koln,1-2,1-1,Bayern Munich
+Sat May 1 2004,Freiburg,4-1,1-0,Hannover
+Sat May 1 2004,Kaiserslautern,2-2,1-0,M'gladbach
+Sat May 1 2004,Munich 1860,1-1,1-0,Leverkusen
+Sat May 1 2004,Werder Bremen,6-0,3-0,Hamburg
+Sat May 1 2004,Wolfsburg,1-0,1-0,Ein Frankfurt
+Sun May 2 2004,Schalke 04,3-0,1-0,Hertha
+Sun May 2 2004,Stuttgart,1-1,1-0,Bochum
+Sat May 8 2004,Bayern Munich,1-3,0-3,Werder Bremen
+Sat May 8 2004,Hamburg,2-1,1-0,Stuttgart
+Sat May 8 2004,Hannover,3-0,1-0,Ein Frankfurt
+Sat May 8 2004,Hertha,6-2,3-0,Dortmund
+Sat May 8 2004,Kaiserslautern,3-2,0-0,Wolfsburg
+Sat May 8 2004,Leverkusen,2-0,1-0,FC Koln
+Sat May 8 2004,M'gladbach,2-0,2-0,Schalke 04
+Sun May 9 2004,Bochum,3-0,1-0,Freiburg
+Sun May 9 2004,Hansa Rostock,3-0,1-0,Munich 1860
+Sat May 15 2004,Dortmund,3-1,2-1,M'gladbach
+Sat May 15 2004,Ein Frankfurt,3-2,2-1,Bochum
+Sat May 15 2004,FC Koln,4-0,1-0,Hansa Rostock
+Sat May 15 2004,Freiburg,0-0,0-0,Hamburg
+Sat May 15 2004,Hannover,0-0,0-0,Wolfsburg
+Sat May 15 2004,Munich 1860,1-1,1-0,Hertha
+Sat May 15 2004,Schalke 04,4-1,3-0,Kaiserslautern
+Sat May 15 2004,Stuttgart,3-1,1-0,Bayern Munich
+Sat May 15 2004,Werder Bremen,2-6,0-3,Leverkusen
+Sat May 22 2004,Bayern Munich,2-0,1-0,Freiburg
+Sat May 22 2004,Bochum,3-1,1-1,Hannover
+Sat May 22 2004,Hamburg,2-1,1-1,Ein Frankfurt
+Sat May 22 2004,Hansa Rostock,3-1,1-1,Werder Bremen
+Sat May 22 2004,Hertha,3-1,0-0,FC Koln
+Sat May 22 2004,Kaiserslautern,1-1,1-0,Dortmund
+Sat May 22 2004,Leverkusen,2-0,0-0,Stuttgart
+Sat May 22 2004,M'gladbach,3-1,2-1,Munich 1860
+Sat May 22 2004,Wolfsburg,1-1,1-1,Schalke 04

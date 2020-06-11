@@ -1,0 +1,384 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 2 2013,Godoy Cruz,3-1,?,Argentinos Jrs
+Fri Aug 2 2013,Arsenal Sarandi,1-1,?,Estudiantes L.P.
+Sat Aug 3 2013,All Boys,1-1,?,Atl. Rafaela
+Sat Aug 3 2013,Tigre,1-2,?,Velez Sarsfield
+Sat Aug 3 2013,Colon Santa FE,1-1,?,Racing Club
+Sun Aug 4 2013,San Lorenzo,2-1,?,Olimpo Bahia Blanca
+Sun Aug 4 2013,Lanus,3-0,?,Belgrano
+Sun Aug 4 2013,Gimnasia L.P.,1-0,?,River Plate
+Sun Aug 4 2013,Rosario Central,2-0,?,Quilmes
+Wed Aug 7 2013,Argentinos Jrs,2-0,?,Colon Santa FE
+Wed Aug 7 2013,Belgrano,1-2,?,Boca Juniors
+Wed Aug 7 2013,Estudiantes L.P.,1-0,?,All Boys
+Thu Aug 8 2013,Atl. Rafaela,2-1,?,Lanus
+Thu Aug 8 2013,Quilmes,1-0,?,Godoy Cruz
+Thu Aug 8 2013,Velez Sarsfield,0-0,?,Arsenal Sarandi
+Fri Aug 9 2013,Olimpo Bahia Blanca,0-0,?,Tigre
+Fri Aug 9 2013,Racing Club,0-3,?,San Lorenzo
+Fri Aug 9 2013,River Plate,1-0,?,Rosario Central
+Tue Aug 13 2013,Boca Juniors,2-3,?,Newells Old Boys
+Fri Aug 16 2013,Arsenal Sarandi,3-1,?,Olimpo Bahia Blanca
+Fri Aug 16 2013,Colon Santa FE,1-0,?,Quilmes
+Sat Aug 17 2013,Gimnasia L.P.,3-1,?,Rosario Central
+Sat Aug 17 2013,San Lorenzo,0-3,?,Argentinos Jrs
+Sun Aug 18 2013,Newells Old Boys,0-0,?,Belgrano
+Sun Aug 18 2013,Tigre,3-1,?,Racing Club
+Sun Aug 18 2013,Boca Juniors,2-1,?,Atl. Rafaela
+Sun Aug 18 2013,Godoy Cruz,0-0,?,River Plate
+Mon Aug 19 2013,All Boys,1-1,?,Velez Sarsfield
+Mon Aug 19 2013,Lanus,1-1,?,Estudiantes L.P.
+Fri Aug 23 2013,Belgrano,1-2,?,Gimnasia L.P.
+Fri Aug 23 2013,Atl. Rafaela,0-2,?,Newells Old Boys
+Fri Aug 23 2013,Racing Club,0-2,?,Arsenal Sarandi
+Sat Aug 24 2013,Velez Sarsfield,0-0,?,Lanus
+Sat Aug 24 2013,Argentinos Jrs,1-0,?,Tigre
+Sat Aug 24 2013,Rosario Central,1-0,?,Godoy Cruz
+Sun Aug 25 2013,Olimpo Bahia Blanca,1-1,?,All Boys
+Sun Aug 25 2013,River Plate,1-2,?,Colon Santa FE
+Sun Aug 25 2013,Estudiantes L.P.,2-0,?,Boca Juniors
+Mon Aug 26 2013,Quilmes,3-2,?,San Lorenzo
+Tue Aug 27 2013,Newells Old Boys,3-0,?,Gimnasia L.P.
+Sat Aug 31 2013,Newells Old Boys,1-1,?,Estudiantes L.P.
+Sat Aug 31 2013,Tigre,0-1,?,Quilmes
+Sat Aug 31 2013,All Boys,1-0,?,Racing Club
+Sun Sep 1 2013,Gimnasia L.P.,0-0,?,Godoy Cruz
+Sun Sep 1 2013,Colon Santa FE,2-1,?,Rosario Central
+Sun Sep 1 2013,Boca Juniors,2-1,?,Velez Sarsfield
+Sun Sep 1 2013,San Lorenzo,1-0,?,River Plate
+Mon Sep 2 2013,Arsenal Sarandi,0-0,?,Argentinos Jrs
+Mon Sep 2 2013,Belgrano,3-2,?,Atl. Rafaela
+Mon Sep 2 2013,Lanus,3-0,?,Olimpo Bahia Blanca
+Fri Sep 6 2013,Velez Sarsfield,3-0,?,Newells Old Boys
+Sat Sep 7 2013,Estudiantes L.P.,1-1,?,Belgrano
+Sat Sep 7 2013,Godoy Cruz,1-0,?,Colon Santa FE
+Sat Sep 7 2013,Argentinos Jrs,1-0,?,All Boys
+Sat Sep 7 2013,Atl. Rafaela,2-1,?,Gimnasia L.P.
+Sat Sep 7 2013,Racing Club,1-1,?,Lanus
+Sun Sep 8 2013,Quilmes,0-1,?,Arsenal Sarandi
+Sun Sep 8 2013,Rosario Central,0-2,?,San Lorenzo
+Sun Sep 8 2013,River Plate,3-0,?,Tigre
+Sun Sep 8 2013,Olimpo Bahia Blanca,3-0,?,Boca Juniors
+Fri Sep 13 2013,Lanus,4-0,?,Argentinos Jrs
+Fri Sep 13 2013,Belgrano,3-0,?,Velez Sarsfield
+Sat Sep 14 2013,Newells Old Boys,2-1,?,Olimpo Bahia Blanca
+Sat Sep 14 2013,All Boys,4-0,?,Quilmes
+Sat Sep 14 2013,San Lorenzo,0-0,?,Godoy Cruz
+Sun Sep 15 2013,Atl. Rafaela,1-0,?,Estudiantes L.P.
+Sun Sep 15 2013,Tigre,2-0,?,Rosario Central
+Sun Sep 15 2013,Boca Juniors,2-0,?,Racing Club
+Sun Sep 15 2013,Arsenal Sarandi,1-1,?,River Plate
+Tue Sep 17 2013,Gimnasia L.P.,1-0,?,Colon Santa FE
+Fri Sep 20 2013,Godoy Cruz,2-0,?,Tigre
+Fri Sep 20 2013,Racing Club,0-1,?,Newells Old Boys
+Sat Sep 21 2013,Olimpo Bahia Blanca,1-1,?,Belgrano
+Sat Sep 21 2013,Rosario Central,1-1,?,Arsenal Sarandi
+Sun Sep 22 2013,Quilmes,0-0,?,Lanus
+Sun Sep 22 2013,Colon Santa FE,0-2,?,San Lorenzo
+Sun Sep 22 2013,Estudiantes L.P.,1-1,?,Gimnasia L.P.
+Sun Sep 22 2013,Argentinos Jrs,0-0,?,Boca Juniors
+Sun Sep 22 2013,River Plate,1-0,?,All Boys
+Mon Sep 23 2013,Velez Sarsfield,4-1,?,Atl. Rafaela
+Fri Sep 27 2013,Arsenal Sarandi,1-0,?,Godoy Cruz
+Fri Sep 27 2013,All Boys,1-1,?,Rosario Central
+Fri Sep 27 2013,Estudiantes L.P.,0-0,?,Velez Sarsfield
+Sat Sep 28 2013,San Lorenzo,3-0,?,Gimnasia L.P.
+Sat Sep 28 2013,Atl. Rafaela,2-0,?,Olimpo Bahia Blanca
+Sun Sep 29 2013,Newells Old Boys,2-0,?,Argentinos Jrs
+Sun Sep 29 2013,Tigre,1-0,?,Colon Santa FE
+Sun Sep 29 2013,Belgrano,3-0,?,Racing Club
+Sun Sep 29 2013,Boca Juniors,2-0,?,Quilmes
+Sun Sep 29 2013,Lanus,0-1,?,River Plate
+Fri Oct 4 2013,Argentinos Jrs,1-3,?,Belgrano
+Sat Oct 5 2013,Olimpo Bahia Blanca,1-1,?,Estudiantes L.P.
+Sat Oct 5 2013,Quilmes,0-2,?,Newells Old Boys
+Sat Oct 5 2013,San Lorenzo,0-0,?,Tigre
+Sun Oct 6 2013,River Plate,0-1,?,Boca Juniors
+Sun Oct 6 2013,Racing Club,0-1,?,Atl. Rafaela
+Mon Oct 7 2013,Colon Santa FE,0-1,?,Arsenal Sarandi
+Mon Oct 7 2013,Godoy Cruz,2-0,?,All Boys
+Mon Oct 7 2013,Gimnasia L.P.,2-1,?,Velez Sarsfield
+Mon Oct 7 2013,Rosario Central,2-1,?,Lanus
+Sat Oct 12 2013,All Boys,0-0,?,Colon Santa FE
+Sat Oct 12 2013,Atl. Rafaela,1-0,?,Argentinos Jrs
+Sat Oct 12 2013,Belgrano,0-1,?,Quilmes
+Sat Oct 12 2013,Arsenal Sarandi,2-1,?,San Lorenzo
+Sun Oct 13 2013,Estudiantes L.P.,1-0,?,Racing Club
+Sun Oct 13 2013,Velez Sarsfield,1-2,?,Olimpo Bahia Blanca
+Sun Oct 13 2013,Boca Juniors,1-1,?,Rosario Central
+Sun Oct 13 2013,Newells Old Boys,1-0,?,River Plate
+Mon Oct 14 2013,Tigre,1-1,?,Gimnasia L.P.
+Mon Oct 14 2013,Lanus,0-1,?,Godoy Cruz
+Fri Oct 18 2013,Quilmes,1-1,?,Atl. Rafaela
+Fri Oct 18 2013,Argentinos Jrs,1-0,?,Estudiantes L.P.
+Fri Oct 18 2013,Racing Club,0-1,?,Velez Sarsfield
+Sat Oct 19 2013,Colon Santa FE,0-3,?,Lanus
+Sat Oct 19 2013,San Lorenzo,3-0,?,All Boys
+Sun Oct 20 2013,Gimnasia L.P.,2-2,?,Olimpo Bahia Blanca
+Sun Oct 20 2013,Rosario Central,2-1,?,Newells Old Boys
+Sun Oct 20 2013,Tigre,2-1,?,Arsenal Sarandi
+Sun Oct 20 2013,River Plate,0-0,?,Belgrano
+Sun Oct 20 2013,Godoy Cruz,2-2,?,Boca Juniors
+Tue Oct 22 2013,Velez Sarsfield,2-0,?,Argentinos Jrs
+Wed Oct 23 2013,All Boys,0-0,?,Tigre
+Wed Oct 23 2013,Atl. Rafaela,0-0,?,River Plate
+Wed Oct 23 2013,Lanus,3-2,?,San Lorenzo
+Fri Oct 25 2013,Belgrano,0-1,?,Rosario Central
+Fri Oct 25 2013,Newells Old Boys,1-1,?,Godoy Cruz
+Fri Oct 25 2013,Boca Juniors,2-0,?,Colon Santa FE
+Fri Oct 25 2013,Arsenal Sarandi,1-1,?,Gimnasia L.P.
+Mon Oct 28 2013,Estudiantes L.P.,1-0,?,Quilmes
+Mon Oct 28 2013,Olimpo Bahia Blanca,0-1,?,Racing Club
+Fri Nov 1 2013,Arsenal Sarandi,1-1,?,All Boys
+Fri Nov 1 2013,Colon Santa FE,2-2,?,Newells Old Boys
+Sat Nov 2 2013,Argentinos Jrs,4-0,?,Olimpo Bahia Blanca
+Sat Nov 2 2013,Rosario Central,3-2,?,Atl. Rafaela
+Sat Nov 2 2013,Godoy Cruz,1-1,?,Belgrano
+Sat Nov 2 2013,Gimnasia L.P.,1-3,?,Racing Club
+Sun Nov 3 2013,Quilmes,1-1,?,Velez Sarsfield
+Sun Nov 3 2013,Tigre,2-3,?,Lanus
+Sun Nov 3 2013,San Lorenzo,1-0,?,Boca Juniors
+Sun Nov 3 2013,River Plate,1-2,?,Estudiantes L.P.
+Fri Nov 8 2013,Atl. Rafaela,3-1,?,Godoy Cruz
+Sat Nov 9 2013,Olimpo Bahia Blanca,0-1,?,Quilmes
+Sat Nov 9 2013,All Boys,2-1,?,Gimnasia L.P.
+Sat Nov 9 2013,Estudiantes L.P.,1-1,?,Rosario Central
+Sat Nov 9 2013,Newells Old Boys,1-1,?,San Lorenzo
+Sun Nov 10 2013,Belgrano,2-0,?,Colon Santa FE
+Sun Nov 10 2013,Boca Juniors,2-1,?,Tigre
+Sun Nov 10 2013,Racing Club,0-1,?,Argentinos Jrs
+Sun Nov 10 2013,Velez Sarsfield,0-0,?,River Plate
+Mon Nov 11 2013,Lanus,2-0,?,Arsenal Sarandi
+Fri Nov 15 2013,Gimnasia L.P.,0-0,?,Argentinos Jrs
+Sat Nov 16 2013,All Boys,2-3,?,Lanus
+Sat Nov 16 2013,Godoy Cruz,2-1,?,Estudiantes L.P.
+Sat Nov 16 2013,Quilmes,1-1,?,Racing Club
+Sat Nov 16 2013,San Lorenzo,4-2,?,Belgrano
+Sun Nov 17 2013,Rosario Central,2-3,?,Velez Sarsfield
+Sun Nov 17 2013,River Plate,1-3,?,Olimpo Bahia Blanca
+Sun Nov 17 2013,Arsenal Sarandi,3-2,?,Boca Juniors
+Mon Nov 18 2013,Tigre,2-1,?,Newells Old Boys
+Mon Nov 18 2013,Colon Santa FE,0-1,?,Atl. Rafaela
+Fri Nov 22 2013,Velez Sarsfield,2-1,?,Godoy Cruz
+Sat Nov 23 2013,Argentinos Jrs,1-1,?,Quilmes
+Sat Nov 23 2013,Olimpo Bahia Blanca,1-0,?,Rosario Central
+Sat Nov 23 2013,Atl. Rafaela,2-2,?,San Lorenzo
+Sun Nov 24 2013,Lanus,0-0,?,Gimnasia L.P.
+Sun Nov 24 2013,Boca Juniors,0-2,?,All Boys
+Sun Nov 24 2013,Newells Old Boys,1-1,?,Arsenal Sarandi
+Sun Nov 24 2013,Racing Club,1-0,?,River Plate
+Mon Nov 25 2013,Estudiantes L.P.,1-0,?,Colon Santa FE
+Mon Nov 25 2013,Belgrano,2-0,?,Tigre
+Fri Nov 29 2013,Godoy Cruz,0-1,?,Olimpo Bahia Blanca
+Fri Nov 29 2013,Rosario Central,1-1,?,Racing Club
+Sat Nov 30 2013,Colon Santa FE,0-2,?,Velez Sarsfield
+Sat Nov 30 2013,Tigre,3-1,?,Atl. Rafaela
+Sat Nov 30 2013,Arsenal Sarandi,1-4,?,Belgrano
+Sat Nov 30 2013,All Boys,3-1,?,Newells Old Boys
+Sun Dec 1 2013,Gimnasia L.P.,3-2,?,Quilmes
+Sun Dec 1 2013,San Lorenzo,0-0,?,Estudiantes L.P.
+Sun Dec 1 2013,Lanus,2-2,?,Boca Juniors
+Sun Dec 1 2013,River Plate,1-0,?,Argentinos Jrs
+Fri Dec 6 2013,Belgrano,1-0,?,All Boys
+Fri Dec 6 2013,Racing Club,2-0,?,Godoy Cruz
+Sat Dec 7 2013,Argentinos Jrs,1-2,?,Rosario Central
+Sat Dec 7 2013,Atl. Rafaela,1-1,?,Arsenal Sarandi
+Sun Dec 8 2013,Estudiantes L.P.,0-2,?,Tigre
+Sun Dec 8 2013,Boca Juniors,1-1,?,Gimnasia L.P.
+Sun Dec 8 2013,Quilmes,1-1,?,River Plate
+Mon Dec 9 2013,Olimpo Bahia Blanca,1-0,?,Colon Santa FE
+Sun Dec 15 2013,Newells Old Boys,2-2,?,Lanus
+Sun Dec 15 2013,Velez Sarsfield,0-0,?,San Lorenzo
+Fri Feb 7 2014,Estudiantes L.P.,1-0,?,Arsenal Sarandi
+Fri Feb 7 2014,Velez Sarsfield,0-0,?,Tigre
+Fri Feb 7 2014,Olimpo Bahia Blanca,2-0,?,San Lorenzo
+Sat Feb 8 2014,Argentinos Jrs,2-1,?,Godoy Cruz
+Sat Feb 8 2014,Atl. Rafaela,1-1,?,All Boys
+Sat Feb 8 2014,Racing Club,3-0,?,Colon Santa FE
+Sun Feb 9 2014,Quilmes,0-1,?,Rosario Central
+Sun Feb 9 2014,Newells Old Boys,0-0,?,Boca Juniors
+Sun Feb 9 2014,River Plate,1-0,?,Gimnasia L.P.
+Mon Feb 10 2014,Belgrano,2-2,?,Lanus
+Fri Feb 14 2014,Godoy Cruz,2-0,?,Quilmes
+Sat Feb 15 2014,All Boys,0-1,?,Estudiantes L.P.
+Sat Feb 15 2014,Arsenal Sarandi,1-3,?,Velez Sarsfield
+Sat Feb 15 2014,Tigre,0-0,?,Olimpo Bahia Blanca
+Sat Feb 15 2014,San Lorenzo,1-0,?,Racing Club
+Sat Feb 15 2014,Colon Santa FE,1-0,?,Argentinos Jrs
+Sun Feb 16 2014,Gimnasia L.P.,3-0,?,Newells Old Boys
+Sun Feb 16 2014,Lanus,0-3,?,Atl. Rafaela
+Sun Feb 16 2014,Rosario Central,1-1,?,River Plate
+Sun Feb 16 2014,Boca Juniors,2-3,?,Belgrano
+Tue Feb 18 2014,Olimpo Bahia Blanca,0-2,?,Arsenal Sarandi
+Tue Feb 18 2014,Velez Sarsfield,3-0,?,All Boys
+Tue Feb 18 2014,Racing Club,0-1,?,Tigre
+Wed Feb 19 2014,Quilmes,0-2,?,Colon Santa FE
+Wed Feb 19 2014,Argentinos Jrs,0-2,?,San Lorenzo
+Wed Feb 19 2014,Estudiantes L.P.,2-1,?,Lanus
+Wed Feb 19 2014,River Plate,1-2,?,Godoy Cruz
+Thu Feb 20 2014,Belgrano,1-1,?,Newells Old Boys
+Thu Feb 20 2014,Rosario Central,3-1,?,Gimnasia L.P.
+Thu Feb 20 2014,Atl. Rafaela,1-0,?,Boca Juniors
+Sat Feb 22 2014,Lanus,3-2,?,Velez Sarsfield
+Sat Feb 22 2014,All Boys,1-0,?,Olimpo Bahia Blanca
+Sat Feb 22 2014,Arsenal Sarandi,3-1,?,Racing Club
+Sun Feb 23 2014,Newells Old Boys,4-1,?,Atl. Rafaela
+Sun Feb 23 2014,San Lorenzo,1-0,?,Quilmes
+Sun Feb 23 2014,Boca Juniors,1-0,?,Estudiantes L.P.
+Sun Feb 23 2014,Colon Santa FE,3-1,?,River Plate
+Mon Feb 24 2014,Godoy Cruz,3-0,?,Rosario Central
+Mon Feb 24 2014,Tigre,0-0,?,Argentinos Jrs
+Mon Feb 24 2014,Gimnasia L.P.,2-2,?,Belgrano
+Fri Feb 28 2014,Godoy Cruz,0-2,?,Gimnasia L.P.
+Fri Feb 28 2014,Racing Club,1-1,?,All Boys
+Sat Mar 1 2014,Velez Sarsfield,1-0,?,Boca Juniors
+Sat Mar 1 2014,Atl. Rafaela,1-2,?,Belgrano
+Sat Mar 1 2014,Argentinos Jrs,2-0,?,Arsenal Sarandi
+Sat Mar 1 2014,Rosario Central,0-1,?,Colon Santa FE
+Sun Mar 2 2014,Olimpo Bahia Blanca,2-0,?,Lanus
+Sun Mar 2 2014,Quilmes,1-0,?,Tigre
+Sun Mar 2 2014,River Plate,1-0,?,San Lorenzo
+Sun Mar 2 2014,Estudiantes L.P.,0-0,?,Newells Old Boys
+Tue Mar 4 2014,Colon Santa FE,1-1,?,Godoy Cruz
+Tue Mar 4 2014,Gimnasia L.P.,1-1,?,Atl. Rafaela
+Tue Mar 4 2014,All Boys,0-0,?,Argentinos Jrs
+Wed Mar 5 2014,Belgrano,1-1,?,Estudiantes L.P.
+Wed Mar 5 2014,Lanus,1-0,?,Racing Club
+Wed Mar 5 2014,Boca Juniors,2-0,?,Olimpo Bahia Blanca
+Wed Mar 5 2014,Newells Old Boys,4-1,?,Velez Sarsfield
+Thu Mar 6 2014,Arsenal Sarandi,0-2,?,Quilmes
+Thu Mar 6 2014,San Lorenzo,2-1,?,Rosario Central
+Thu Mar 6 2014,Tigre,0-0,?,River Plate
+Sat Mar 8 2014,Argentinos Jrs,0-2,?,Lanus
+Sat Mar 8 2014,Colon Santa FE,0-0,?,Gimnasia L.P.
+Sat Mar 8 2014,Estudiantes L.P.,0-0,?,Atl. Rafaela
+Sat Mar 8 2014,Velez Sarsfield,3-1,?,Belgrano
+Sun Mar 9 2014,Godoy Cruz,1-1,?,San Lorenzo
+Sun Mar 9 2014,Olimpo Bahia Blanca,1-0,?,Newells Old Boys
+Sun Mar 9 2014,River Plate,1-0,?,Arsenal Sarandi
+Sun Mar 9 2014,Racing Club,1-2,?,Boca Juniors
+Mon Mar 10 2014,Quilmes,1-2,?,All Boys
+Mon Mar 10 2014,Rosario Central,1-1,?,Tigre
+Fri Mar 14 2014,Atl. Rafaela,3-1,?,Velez Sarsfield
+Sat Mar 15 2014,Tigre,0-0,?,Godoy Cruz
+Sat Mar 15 2014,Belgrano,1-1,?,Olimpo Bahia Blanca
+Sat Mar 15 2014,San Lorenzo,0-0,?,Colon Santa FE
+Sun Mar 16 2014,Gimnasia L.P.,0-1,?,Estudiantes L.P.
+Sun Mar 16 2014,Arsenal Sarandi,1-1,?,Rosario Central
+Sun Mar 16 2014,Newells Old Boys,2-0,?,Racing Club
+Sun Mar 16 2014,Boca Juniors,1-1,?,Argentinos Jrs
+Sun Mar 16 2014,All Boys,3-2,?,River Plate
+Mon Mar 17 2014,Lanus,1-0,?,Quilmes
+Fri Mar 21 2014,Olimpo Bahia Blanca,2-1,?,Atl. Rafaela
+Fri Mar 21 2014,Colon Santa FE,1-0,?,Tigre
+Sat Mar 22 2014,Racing Club,2-0,?,Belgrano
+Sat Mar 22 2014,Argentinos Jrs,0-0,?,Newells Old Boys
+Sat Mar 22 2014,Rosario Central,2-0,?,All Boys
+Sat Mar 22 2014,Velez Sarsfield,1-1,?,Estudiantes L.P.
+Sun Mar 23 2014,Godoy Cruz,2-1,?,Arsenal Sarandi
+Sun Mar 23 2014,Gimnasia L.P.,2-1,?,San Lorenzo
+Sun Mar 23 2014,River Plate,2-0,?,Lanus
+Sun Mar 23 2014,Quilmes,0-0,?,Boca Juniors
+Fri Mar 28 2014,All Boys,0-0,?,Godoy Cruz
+Fri Mar 28 2014,Estudiantes L.P.,0-0,?,Olimpo Bahia Blanca
+Fri Mar 28 2014,Belgrano,0-0,?,Argentinos Jrs
+Sat Mar 29 2014,Velez Sarsfield,5-1,?,Gimnasia L.P.
+Sat Mar 29 2014,Newells Old Boys,1-1,?,Quilmes
+Sat Mar 29 2014,Atl. Rafaela,2-2,?,Racing Club
+Sun Mar 30 2014,Lanus,2-1,?,Rosario Central
+Sun Mar 30 2014,Arsenal Sarandi,1-0,?,Colon Santa FE
+Sun Mar 30 2014,Boca Juniors,1-2,?,River Plate
+Sun Mar 30 2014,Tigre,2-2,?,San Lorenzo
+Tue Apr 1 2014,Quilmes,1-0,?,Belgrano
+Tue Apr 1 2014,Olimpo Bahia Blanca,1-2,?,Velez Sarsfield
+Tue Apr 1 2014,Argentinos Jrs,0-0,?,Atl. Rafaela
+Tue Apr 1 2014,Racing Club,3-3,?,Estudiantes L.P.
+Wed Apr 2 2014,Godoy Cruz,1-0,?,Lanus
+Wed Apr 2 2014,Colon Santa FE,1-0,?,All Boys
+Wed Apr 2 2014,Rosario Central,2-1,?,Boca Juniors
+Wed Apr 2 2014,River Plate,1-0,?,Newells Old Boys
+Thu Apr 3 2014,Gimnasia L.P.,3-1,?,Tigre
+Thu Apr 3 2014,San Lorenzo,2-0,?,Arsenal Sarandi
+Sat Apr 5 2014,Lanus,1-0,?,Colon Santa FE
+Sat Apr 5 2014,Velez Sarsfield,0-1,?,Racing Club
+Sun Apr 6 2014,Newells Old Boys,0-1,?,Rosario Central
+Sun Apr 6 2014,Atl. Rafaela,2-2,?,Quilmes
+Sun Apr 6 2014,All Boys,1-2,?,San Lorenzo
+Sun Apr 6 2014,Arsenal Sarandi,0-1,?,Tigre
+Sun Apr 6 2014,Boca Juniors,3-0,?,Godoy Cruz
+Sun Apr 6 2014,Belgrano,2-1,?,River Plate
+Mon Apr 7 2014,Estudiantes L.P.,1-0,?,Argentinos Jrs
+Tue Apr 8 2014,Olimpo Bahia Blanca,0-2,?,Gimnasia L.P.
+Fri Apr 11 2014,Tigre,2-0,?,All Boys
+Fri Apr 11 2014,Rosario Central,0-0,?,Belgrano
+Sat Apr 12 2014,Quilmes,1-3,?,Estudiantes L.P.
+Sat Apr 12 2014,Argentinos Jrs,2-1,?,Velez Sarsfield
+Sat Apr 12 2014,Racing Club,1-1,?,Olimpo Bahia Blanca
+Sat Apr 12 2014,San Lorenzo,1-4,?,Lanus
+Sun Apr 13 2014,Gimnasia L.P.,2-0,?,Arsenal Sarandi
+Sun Apr 13 2014,Godoy Cruz,0-1,?,Newells Old Boys
+Sun Apr 13 2014,River Plate,2-0,?,Atl. Rafaela
+Sun Apr 13 2014,Colon Santa FE,0-0,?,Boca Juniors
+Tue Apr 15 2014,Olimpo Bahia Blanca,3-0,?,Argentinos Jrs
+Tue Apr 15 2014,Velez Sarsfield,1-3,?,Quilmes
+Wed Apr 16 2014,Atl. Rafaela,2-3,?,Rosario Central
+Wed Apr 16 2014,Estudiantes L.P.,0-0,?,River Plate
+Wed Apr 16 2014,Newells Old Boys,0-1,?,Colon Santa FE
+Wed Apr 16 2014,Boca Juniors,0-0,?,San Lorenzo
+Thu Apr 17 2014,All Boys,1-1,?,Arsenal Sarandi
+Thu Apr 17 2014,Belgrano,1-2,?,Godoy Cruz
+Thu Apr 17 2014,Racing Club,0-1,?,Gimnasia L.P.
+Sat Apr 19 2014,Rosario Central,0-0,?,Estudiantes L.P.
+Sat Apr 19 2014,Quilmes,0-1,?,Olimpo Bahia Blanca
+Sat Apr 19 2014,San Lorenzo,0-0,?,Newells Old Boys
+Sun Apr 20 2014,Colon Santa FE,0-0,?,Belgrano
+Sun Apr 20 2014,Argentinos Jrs,0-1,?,Racing Club
+Sun Apr 20 2014,Arsenal Sarandi,3-1,?,Lanus
+Sun Apr 20 2014,River Plate,1-0,?,Velez Sarsfield
+Sun Apr 20 2014,Tigre,0-1,?,Boca Juniors
+Mon Apr 21 2014,Godoy Cruz,3-0,?,Atl. Rafaela
+Mon Apr 21 2014,Gimnasia L.P.,2-1,?,All Boys
+Fri Apr 25 2014,Newells Old Boys,2-1,?,Tigre
+Sat Apr 26 2014,Belgrano,0-0,?,San Lorenzo
+Sat Apr 26 2014,Atl. Rafaela,1-1,?,Colon Santa FE
+Sat Apr 26 2014,Argentinos Jrs,0-2,?,Gimnasia L.P.
+Sat Apr 26 2014,Velez Sarsfield,4-1,?,Rosario Central
+Sat Apr 26 2014,Racing Club,0-1,?,Quilmes
+Sun Apr 27 2014,Estudiantes L.P.,0-1,?,Godoy Cruz
+Sun Apr 27 2014,Lanus,1-0,?,All Boys
+Sun Apr 27 2014,Boca Juniors,4-2,?,Arsenal Sarandi
+Sun Apr 27 2014,Olimpo Bahia Blanca,1-1,?,River Plate
+Wed Apr 30 2014,Lanus,0-0,?,Tigre
+Fri May 2 2014,Quilmes,1-0,?,Argentinos Jrs
+Sat May 3 2014,Colon Santa FE,0-2,?,Estudiantes L.P.
+Sat May 3 2014,Rosario Central,0-0,?,Olimpo Bahia Blanca
+Sat May 3 2014,Godoy Cruz,1-1,?,Velez Sarsfield
+Sat May 3 2014,San Lorenzo,2-0,?,Atl. Rafaela
+Sun May 4 2014,Arsenal Sarandi,3-2,?,Newells Old Boys
+Sun May 4 2014,Gimnasia L.P.,0-0,?,Lanus
+Sun May 4 2014,River Plate,3-2,?,Racing Club
+Sun May 4 2014,All Boys,1-3,?,Boca Juniors
+Mon May 5 2014,Tigre,2-1,?,Belgrano
+Fri May 9 2014,Olimpo Bahia Blanca,3-1,?,Godoy Cruz
+Sat May 10 2014,Estudiantes L.P.,3-0,?,San Lorenzo
+Sat May 10 2014,Newells Old Boys,4-2,?,All Boys
+Sat May 10 2014,Atl. Rafaela,1-1,?,Tigre
+Sat May 10 2014,Velez Sarsfield,2-0,?,Colon Santa FE
+Sat May 10 2014,Racing Club,0-0,?,Rosario Central
+Sun May 11 2014,Belgrano,0-0,?,Arsenal Sarandi
+Sun May 11 2014,Quilmes,2-0,?,Gimnasia L.P.
+Sun May 11 2014,Boca Juniors,3-1,?,Lanus
+Sun May 11 2014,Argentinos Jrs,0-2,?,River Plate
+Fri May 16 2014,All Boys,0-0,?,Belgrano
+Sat May 17 2014,Rosario Central,3-2,?,Argentinos Jrs
+Sun May 18 2014,Arsenal Sarandi,1-2,?,Atl. Rafaela
+Sun May 18 2014,Colon Santa FE,2-1,?,Olimpo Bahia Blanca
+Sun May 18 2014,Godoy Cruz,2-1,?,Racing Club
+Sun May 18 2014,Gimnasia L.P.,0-1,?,Boca Juniors
+Sun May 18 2014,River Plate,5-0,?,Quilmes
+Sun May 18 2014,Tigre,2-1,?,Estudiantes L.P.
+Sun May 18 2014,Lanus,1-1,?,Newells Old Boys
+Mon May 19 2014,San Lorenzo,2-3,?,Velez Sarsfield
+Sat May 24 2014,Colon Santa FE,0-1,?,Atl. Rafaela
+Sat May 24 2014,San Lorenzo,0-1,?,River Plate
+Wed Jan 28 2015,Boca Juniors,1-0,?,Velez Sarsfield

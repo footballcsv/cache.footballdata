@@ -1,0 +1,243 @@
+Date,Team 1,FT,HT,Team 2
+Sun Mar 31 2013,Hacken,0-3,?,Goteborg
+Sun Mar 31 2013,Helsingborg,3-0,?,Djurgarden
+Sun Mar 31 2013,Syrianska,0-3,?,Kalmar
+Mon Apr 1 2013,Gefle,1-0,?,Atvidabergs
+Mon Apr 1 2013,Malmo FF,1-1,?,Halmstad
+Mon Apr 1 2013,Mjallby,1-2,?,Norrkoping
+Mon Apr 1 2013,Brommapojkarna,2-2,?,Osters
+Mon Apr 1 2013,Elfsborg,2-2,?,AIK
+Fri Apr 5 2013,Atvidabergs,1-3,?,Malmo FF
+Sun Apr 7 2013,AIK,0-0,?,Syrianska
+Sun Apr 7 2013,Goteborg,2-0,?,Brommapojkarna
+Sun Apr 7 2013,Halmstad,1-1,?,Elfsborg
+Sun Apr 7 2013,Kalmar,0-0,?,Hacken
+Mon Apr 8 2013,Djurgarden,0-3,?,Mjallby
+Mon Apr 8 2013,Norrkoping,2-1,?,Gefle
+Mon Apr 8 2013,Osters,1-1,?,Helsingborg
+Fri Apr 12 2013,Brommapojkarna,1-0,?,Norrkoping
+Sat Apr 13 2013,Syrianska,0-1,?,Osters
+Sun Apr 14 2013,Atvidabergs,1-0,?,AIK
+Sun Apr 14 2013,Malmo FF,1-0,?,Kalmar
+Sun Apr 14 2013,Gefle,2-0,?,Halmstad
+Sun Apr 14 2013,Hacken,4-0,?,Djurgarden
+Mon Apr 15 2013,Helsingborg,1-2,?,Mjallby
+Mon Apr 15 2013,Elfsborg,0-0,?,Goteborg
+Wed Apr 17 2013,Halmstad,0-0,?,Atvidabergs
+Wed Apr 17 2013,Osters,2-0,?,Hacken
+Wed Apr 17 2013,AIK,0-1,?,Malmo FF
+Thu Apr 18 2013,Djurgarden,1-1,?,Brommapojkarna
+Thu Apr 18 2013,Goteborg,2-0,?,Syrianska
+Thu Apr 18 2013,Kalmar,1-1,?,Elfsborg
+Thu Apr 18 2013,Mjallby,1-0,?,Gefle
+Thu Apr 18 2013,Norrkoping,1-4,?,Helsingborg
+Sun Apr 21 2013,Atvidabergs,1-2,?,Goteborg
+Sun Apr 21 2013,Halmstad,1-2,?,Kalmar
+Sun Apr 21 2013,Brommapojkarna,0-2,?,Helsingborg
+Sun Apr 21 2013,Hacken,2-0,?,Mjallby
+Mon Apr 22 2013,Gefle,1-2,?,AIK
+Mon Apr 22 2013,Malmo FF,2-0,?,Osters
+Mon Apr 22 2013,Syrianska,3-1,?,Norrkoping
+Mon Apr 22 2013,Elfsborg,2-0,?,Djurgarden
+Thu Apr 25 2013,Goteborg,1-1,?,Malmo FF
+Fri Apr 26 2013,Norrkoping,4-2,?,Hacken
+Sat Apr 27 2013,Djurgarden,0-1,?,Syrianska
+Sat Apr 27 2013,Helsingborg,5-1,?,Gefle
+Sat Apr 27 2013,Kalmar,0-0,?,Atvidabergs
+Sun Apr 28 2013,AIK,3-3,?,Halmstad
+Sun Apr 28 2013,Mjallby,4-2,?,Brommapojkarna
+Sun Apr 28 2013,Osters,1-3,?,Elfsborg
+Fri May 3 2013,Malmo FF,1-1,?,Norrkoping
+Sat May 4 2013,Atvidabergs,5-1,?,Djurgarden
+Sun May 5 2013,Elfsborg,2-1,?,Mjallby
+Sun May 5 2013,Halmstad,1-0,?,Osters
+Sun May 5 2013,Syrianska,0-1,?,Helsingborg
+Mon May 6 2013,Gefle,1-1,?,Kalmar
+Mon May 6 2013,Hacken,1-0,?,Brommapojkarna
+Mon May 6 2013,AIK,3-1,?,Goteborg
+Fri May 10 2013,Norrkoping,1-2,?,Elfsborg
+Sat May 11 2013,Goteborg,1-0,?,Halmstad
+Sun May 12 2013,Kalmar,2-1,?,AIK
+Sun May 12 2013,Mjallby,4-1,?,Syrianska
+Sun May 12 2013,Djurgarden,3-2,?,Malmo FF
+Mon May 13 2013,Brommapojkarna,4-1,?,Gefle
+Mon May 13 2013,Osters,0-1,?,Atvidabergs
+Mon May 13 2013,Helsingborg,5-0,?,Hacken
+Fri May 17 2013,Mjallby,2-2,?,Malmo FF
+Sat May 18 2013,Brommapojkarna,1-1,?,Syrianska
+Sun May 19 2013,Hacken,2-2,?,Gefle
+Sun May 19 2013,Osters,2-3,?,AIK
+Sun May 19 2013,Djurgarden,1-0,?,Halmstad
+Sun May 19 2013,Goteborg,2-0,?,Kalmar
+Sun May 19 2013,Norrkoping,2-1,?,Atvidabergs
+Mon May 20 2013,Helsingborg,2-1,?,Elfsborg
+Wed May 22 2013,Gefle,1-1,?,Goteborg
+Wed May 22 2013,AIK,1-1,?,Djurgarden
+Thu May 23 2013,Atvidabergs,3-0,?,Mjallby
+Thu May 23 2013,Elfsborg,6-0,?,Brommapojkarna
+Thu May 23 2013,Halmstad,1-1,?,Norrkoping
+Thu May 23 2013,Syrianska,0-3,?,Hacken
+Thu May 23 2013,Kalmar,3-1,?,Osters
+Tue May 28 2013,Syrianska,2-2,?,Gefle
+Wed May 29 2013,Malmo FF,1-1,?,Helsingborg
+Thu May 30 2013,Djurgarden,1-0,?,Kalmar
+Thu May 30 2013,Norrkoping,0-1,?,AIK
+Fri May 31 2013,Osters,2-0,?,Goteborg
+Sat Jun 1 2013,Brommapojkarna,1-3,?,Malmo FF
+Sat Jun 1 2013,Hacken,0-1,?,Elfsborg
+Sat Jun 1 2013,Helsingborg,3-0,?,Atvidabergs
+Sat Jun 1 2013,Mjallby,5-1,?,Halmstad
+Sat Jun 15 2013,Gefle,0-0,?,Osters
+Mon Jun 17 2013,Kalmar,2-2,?,Norrkoping
+Mon Jun 17 2013,Goteborg,0-0,?,Djurgarden
+Wed Jun 19 2013,Brommapojkarna,1-1,?,Halmstad
+Wed Jun 19 2013,Elfsborg,0-0,?,Gefle
+Wed Jun 19 2013,Hacken,0-2,?,Atvidabergs
+Thu Jun 20 2013,Mjallby,0-2,?,Kalmar
+Thu Jun 20 2013,Syrianska,2-3,?,Malmo FF
+Thu Jun 20 2013,Norrkoping,1-2,?,Goteborg
+Sun Jun 23 2013,Atvidabergs,1-0,?,Syrianska
+Sun Jun 23 2013,Halmstad,0-2,?,Hacken
+Sun Jun 23 2013,Kalmar,1-1,?,Helsingborg
+Mon Jun 24 2013,AIK,4-0,?,Brommapojkarna
+Mon Jun 24 2013,Gefle,1-1,?,Djurgarden
+Mon Jun 24 2013,Goteborg,4-2,?,Mjallby
+Mon Jun 24 2013,Osters,0-2,?,Norrkoping
+Mon Jun 24 2013,Malmo FF,2-1,?,Elfsborg
+Thu Jun 27 2013,Malmo FF,1-3,?,Hacken
+Thu Jun 27 2013,Helsingborg,1-2,?,AIK
+Sun Jun 30 2013,Elfsborg,5-1,?,Syrianska
+Sun Jun 30 2013,Djurgarden,2-0,?,Osters
+Mon Jul 1 2013,AIK,0-0,?,Mjallby
+Mon Jul 1 2013,Atvidabergs,4-1,?,Brommapojkarna
+Sat Jul 6 2013,Brommapojkarna,0-1,?,Kalmar
+Sat Jul 6 2013,Elfsborg,0-1,?,Atvidabergs
+Sat Jul 6 2013,Mjallby,1-1,?,Osters
+Sun Jul 7 2013,Malmo FF,3-1,?,Gefle
+Sun Jul 7 2013,AIK,2-0,?,Hacken
+Sun Jul 7 2013,Syrianska,1-2,?,Halmstad
+Mon Jul 8 2013,Helsingborg,1-1,?,Goteborg
+Sat Jul 13 2013,Brommapojkarna,2-1,?,Goteborg
+Sat Jul 13 2013,Elfsborg,2-2,?,Halmstad
+Sat Jul 13 2013,Hacken,0-1,?,Kalmar
+Sun Jul 14 2013,Gefle,2-2,?,Norrkoping
+Sun Jul 14 2013,Mjallby,2-0,?,Djurgarden
+Sun Jul 14 2013,Malmo FF,4-0,?,Atvidabergs
+Sun Jul 14 2013,Syrianska,1-2,?,AIK
+Mon Jul 15 2013,Helsingborg,3-0,?,Osters
+Sun Jul 21 2013,Djurgarden,1-2,?,Norrkoping
+Mon Jul 22 2013,Hacken,2-3,?,AIK
+Wed Jul 24 2013,Halmstad,0-1,?,Helsingborg
+Sat Jul 27 2013,Atvidabergs,1-1,?,Elfsborg
+Sat Jul 27 2013,Kalmar,2-2,?,Brommapojkarna
+Sat Jul 27 2013,Osters,1-1,?,Mjallby
+Sun Jul 28 2013,Gefle,2-0,?,Malmo FF
+Sun Jul 28 2013,Goteborg,2-4,?,Helsingborg
+Mon Jul 29 2013,Halmstad,1-1,?,Syrianska
+Sat Aug 3 2013,Kalmar,1-0,?,Syrianska
+Sat Aug 3 2013,Osters,0-0,?,Brommapojkarna
+Sat Aug 3 2013,AIK,2-1,?,Elfsborg
+Sun Aug 4 2013,Atvidabergs,1-1,?,Gefle
+Sun Aug 4 2013,Halmstad,1-3,?,Malmo FF
+Sun Aug 4 2013,Goteborg,3-1,?,Hacken
+Mon Aug 5 2013,Norrkoping,3-2,?,Mjallby
+Mon Aug 5 2013,Djurgarden,2-1,?,Helsingborg
+Sat Aug 10 2013,Atvidabergs,0-1,?,Halmstad
+Sat Aug 10 2013,Brommapojkarna,3-0,?,Djurgarden
+Sat Aug 10 2013,Elfsborg,1-0,?,Kalmar
+Sun Aug 11 2013,Gefle,2-1,?,Mjallby
+Sun Aug 11 2013,Helsingborg,0-0,?,Norrkoping
+Sun Aug 11 2013,Syrianska,0-2,?,Goteborg
+Sun Aug 11 2013,Hacken,0-2,?,Osters
+Sun Aug 11 2013,Malmo FF,1-0,?,AIK
+Fri Aug 16 2013,Osters,1-0,?,Syrianska
+Sat Aug 17 2013,Goteborg,3-1,?,Elfsborg
+Sat Aug 17 2013,Norrkoping,2-1,?,Brommapojkarna
+Sun Aug 18 2013,Djurgarden,1-1,?,Hacken
+Sun Aug 18 2013,Halmstad,2-2,?,Gefle
+Sun Aug 18 2013,Kalmar,1-4,?,Malmo FF
+Mon Aug 19 2013,AIK,3-2,?,Atvidabergs
+Mon Aug 19 2013,Mjallby,4-3,?,Helsingborg
+Thu Aug 22 2013,Norrkoping,2-3,?,Djurgarden
+Sun Aug 25 2013,Elfsborg,2-4,?,Osters
+Sun Aug 25 2013,Gefle,1-2,?,Helsingborg
+Sun Aug 25 2013,Halmstad,1-0,?,AIK
+Sun Aug 25 2013,Malmo FF,3-1,?,Goteborg
+Mon Aug 26 2013,Atvidabergs,0-0,?,Kalmar
+Mon Aug 26 2013,Brommapojkarna,2-0,?,Mjallby
+Mon Aug 26 2013,Hacken,1-0,?,Norrkoping
+Mon Aug 26 2013,Syrianska,1-3,?,Djurgarden
+Fri Aug 30 2013,Helsingborg,4-2,?,Brommapojkarna
+Sat Aug 31 2013,AIK,3-0,?,Gefle
+Sun Sep 1 2013,Goteborg,3-0,?,Atvidabergs
+Sun Sep 1 2013,Norrkoping,6-1,?,Syrianska
+Sun Sep 1 2013,Osters,1-1,?,Malmo FF
+Sun Sep 1 2013,Djurgarden,1-2,?,Elfsborg
+Sun Sep 1 2013,Kalmar,1-0,?,Halmstad
+Sun Sep 1 2013,Mjallby,1-1,?,Hacken
+Sat Sep 14 2013,Atvidabergs,4-0,?,Osters
+Sat Sep 14 2013,Gefle,1-0,?,Brommapojkarna
+Sun Sep 15 2013,AIK,0-0,?,Kalmar
+Sun Sep 15 2013,Elfsborg,4-1,?,Norrkoping
+Sun Sep 15 2013,Halmstad,0-1,?,Goteborg
+Sun Sep 15 2013,Hacken,3-2,?,Helsingborg
+Sun Sep 15 2013,Syrianska,1-2,?,Mjallby
+Mon Sep 16 2013,Malmo FF,0-2,?,Djurgarden
+Fri Sep 20 2013,Osters,0-1,?,Halmstad
+Sat Sep 21 2013,Kalmar,0-0,?,Gefle
+Sun Sep 22 2013,Brommapojkarna,1-0,?,Hacken
+Sun Sep 22 2013,Mjallby,2-2,?,Elfsborg
+Sun Sep 22 2013,Djurgarden,2-0,?,Atvidabergs
+Sun Sep 22 2013,Helsingborg,2-2,?,Syrianska
+Sun Sep 22 2013,Norrkoping,0-2,?,Malmo FF
+Mon Sep 23 2013,Goteborg,3-1,?,AIK
+Tue Sep 24 2013,Osters,1-2,?,Kalmar
+Wed Sep 25 2013,Brommapojkarna,1-0,?,Elfsborg
+Wed Sep 25 2013,Hacken,4-0,?,Syrianska
+Wed Sep 25 2013,Helsingborg,0-3,?,Malmo FF
+Thu Sep 26 2013,Goteborg,3-1,?,Gefle
+Thu Sep 26 2013,Mjallby,0-1,?,Atvidabergs
+Thu Sep 26 2013,Norrkoping,3-2,?,Halmstad
+Thu Sep 26 2013,Djurgarden,2-2,?,AIK
+Sat Sep 28 2013,Syrianska,1-2,?,Brommapojkarna
+Sun Sep 29 2013,Halmstad,1-4,?,Djurgarden
+Sun Sep 29 2013,Kalmar,2-1,?,Goteborg
+Sun Sep 29 2013,Elfsborg,1-1,?,Helsingborg
+Mon Sep 30 2013,AIK,2-1,?,Osters
+Mon Sep 30 2013,Gefle,0-0,?,Hacken
+Mon Sep 30 2013,Malmo FF,1-0,?,Mjallby
+Mon Sep 30 2013,Atvidabergs,1-3,?,Norrkoping
+Fri Oct 4 2013,Mjallby,2-3,?,AIK
+Sat Oct 5 2013,Brommapojkarna,0-0,?,Atvidabergs
+Sat Oct 5 2013,Norrkoping,0-1,?,Kalmar
+Sun Oct 6 2013,Djurgarden,2-1,?,Goteborg
+Sun Oct 6 2013,Osters,1-4,?,Gefle
+Sun Oct 6 2013,Syrianska,1-3,?,Elfsborg
+Sun Oct 6 2013,Hacken,2-0,?,Malmo FF
+Sun Oct 6 2013,Helsingborg,4-2,?,Halmstad
+Sat Oct 19 2013,Gefle,2-0,?,Syrianska
+Sun Oct 20 2013,Atvidabergs,3-0,?,Helsingborg
+Sun Oct 20 2013,Goteborg,0-0,?,Osters
+Sun Oct 20 2013,Elfsborg,0-0,?,Hacken
+Sun Oct 20 2013,Malmo FF,2-1,?,Brommapojkarna
+Mon Oct 21 2013,AIK,1-0,?,Norrkoping
+Mon Oct 21 2013,Kalmar,1-2,?,Djurgarden
+Mon Oct 21 2013,Halmstad,1-0,?,Mjallby
+Fri Oct 25 2013,Hacken,1-3,?,Halmstad
+Sat Oct 26 2013,Brommapojkarna,0-6,?,AIK
+Sun Oct 27 2013,Djurgarden,1-1,?,Gefle
+Sun Oct 27 2013,Mjallby,2-1,?,Goteborg
+Sun Oct 27 2013,Helsingborg,2-3,?,Kalmar
+Sun Oct 27 2013,Syrianska,4-1,?,Atvidabergs
+Mon Oct 28 2013,Norrkoping,1-1,?,Osters
+Mon Oct 28 2013,Elfsborg,0-2,?,Malmo FF
+Sun Nov 3 2013,AIK,2-1,?,Helsingborg
+Sun Nov 3 2013,Atvidabergs,2-2,?,Hacken
+Sun Nov 3 2013,Gefle,0-2,?,Elfsborg
+Sun Nov 3 2013,Goteborg,2-0,?,Norrkoping
+Sun Nov 3 2013,Halmstad,2-2,?,Brommapojkarna
+Sun Nov 3 2013,Kalmar,2-1,?,Mjallby
+Sun Nov 3 2013,Malmo FF,3-1,?,Syrianska
+Sun Nov 3 2013,Osters,1-1,?,Djurgarden
+Wed Nov 6 2013,Sundsvall,1-1,?,Halmstad
+Sun Nov 10 2013,Halmstad,2-1,?,Sundsvall

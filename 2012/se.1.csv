@@ -1,0 +1,243 @@
+Date,Team 1,FT,HT,Team 2
+Sat Mar 31 2012,Elfsborg,2-1,?,Djurgarden
+Sat Mar 31 2012,GAIS,0-0,?,Hacken
+Sat Mar 31 2012,Sundsvall,0-1,?,Kalmar
+Sun Apr 1 2012,AIK,0-0,?,Mjallby
+Sun Apr 1 2012,Syrianska,2-1,?,Goteborg
+Mon Apr 2 2012,Malmo FF,0-0,?,Gefle
+Mon Apr 2 2012,Orebro,3-4,?,Atvidabergs
+Mon Apr 2 2012,Norrkoping,1-0,?,Helsingborg
+Fri Apr 6 2012,Atvidabergs,2-1,?,GAIS
+Fri Apr 6 2012,Gefle,1-1,?,Syrianska
+Sat Apr 7 2012,Hacken,5-0,?,Malmo FF
+Sat Apr 7 2012,Mjallby,0-0,?,Orebro
+Sun Apr 8 2012,Djurgarden,1-0,?,Sundsvall
+Sun Apr 8 2012,Helsingborg,2-1,?,Elfsborg
+Mon Apr 9 2012,Goteborg,1-2,?,Norrkoping
+Mon Apr 9 2012,Kalmar,1-2,?,AIK
+Tue Apr 10 2012,Atvidabergs,6-1,?,Gefle
+Wed Apr 11 2012,GAIS,0-0,?,Djurgarden
+Wed Apr 11 2012,Orebro,0-0,?,Helsingborg
+Thu Apr 12 2012,Elfsborg,2-0,?,Norrkoping
+Thu Apr 12 2012,Hacken,4-2,?,Mjallby
+Thu Apr 12 2012,Sundsvall,4-0,?,Syrianska
+Thu Apr 12 2012,AIK,1-1,?,Goteborg
+Fri Apr 13 2012,Malmo FF,2-0,?,Kalmar
+Sun Apr 15 2012,Syrianska,0-1,?,AIK
+Sun Apr 15 2012,Goteborg,2-2,?,Orebro
+Sun Apr 15 2012,Mjallby,2-0,?,Atvidabergs
+Mon Apr 16 2012,Gefle,1-2,?,Elfsborg
+Mon Apr 16 2012,Helsingborg,1-1,?,GAIS
+Mon Apr 16 2012,Kalmar,3-1,?,Hacken
+Mon Apr 16 2012,Norrkoping,2-2,?,Sundsvall
+Mon Apr 16 2012,Djurgarden,2-3,?,Malmo FF
+Fri Apr 20 2012,Mjallby,4-3,?,Djurgarden
+Sat Apr 21 2012,Atvidabergs,1-2,?,Helsingborg
+Sat Apr 21 2012,Kalmar,0-1,?,Gefle
+Sun Apr 22 2012,GAIS,2-0,?,Norrkoping
+Sun Apr 22 2012,AIK,1-1,?,Sundsvall
+Mon Apr 23 2012,Hacken,1-2,?,Goteborg
+Mon Apr 23 2012,Malmo FF,2-0,?,Syrianska
+Mon Apr 23 2012,Orebro,0-2,?,Elfsborg
+Thu Apr 26 2012,Elfsborg,2-1,?,GAIS
+Thu Apr 26 2012,Gefle,0-1,?,AIK
+Fri Apr 27 2012,Helsingborg,1-1,?,Mjallby
+Sat Apr 28 2012,Syrianska,1-2,?,Hacken
+Sat Apr 28 2012,Goteborg,2-1,?,Atvidabergs
+Sun Apr 29 2012,Djurgarden,1-1,?,Kalmar
+Sun Apr 29 2012,Sundsvall,3-1,?,Orebro
+Sun Apr 29 2012,Norrkoping,3-2,?,Malmo FF
+Wed May 2 2012,Atvidabergs,0-3,?,Hacken
+Wed May 2 2012,Goteborg,2-0,?,Sundsvall
+Wed May 2 2012,Syrianska,1-4,?,Elfsborg
+Wed May 2 2012,Helsingborg,0-0,?,AIK
+Thu May 3 2012,Djurgarden,2-1,?,Orebro
+Thu May 3 2012,Gefle,0-2,?,Norrkoping
+Thu May 3 2012,Mjallby,2-2,?,Malmo FF
+Fri May 4 2012,Kalmar,2-2,?,GAIS
+Sat May 5 2012,Sundsvall,0-1,?,Helsingborg
+Sun May 6 2012,Norrkoping,1-4,?,Syrianska
+Sun May 6 2012,Malmo FF,2-1,?,Atvidabergs
+Mon May 7 2012,GAIS,2-2,?,Mjallby
+Mon May 7 2012,Orebro,0-1,?,Kalmar
+Mon May 7 2012,Elfsborg,1-0,?,Goteborg
+Tue May 8 2012,AIK,1-1,?,Djurgarden
+Thu May 10 2012,Hacken,3-0,?,Gefle
+Thu May 10 2012,Malmo FF,3-0,?,Helsingborg
+Fri May 11 2012,Syrianska,2-0,?,GAIS
+Sat May 12 2012,Djurgarden,1-1,?,Atvidabergs
+Sat May 12 2012,Kalmar,1-2,?,Mjallby
+Sun May 13 2012,Norrkoping,3-0,?,Orebro
+Sun May 13 2012,Elfsborg,1-0,?,AIK
+Sun May 13 2012,Helsingborg,3-2,?,Hacken
+Mon May 14 2012,Gefle,0-0,?,Sundsvall
+Mon May 14 2012,Goteborg,2-2,?,Malmo FF
+Wed May 16 2012,Atvidabergs,1-0,?,Syrianska
+Wed May 16 2012,Hacken,6-0,?,Norrkoping
+Wed May 16 2012,Kalmar,1-1,?,Helsingborg
+Wed May 16 2012,Orebro,2-2,?,AIK
+Thu May 17 2012,GAIS,1-2,?,Sundsvall
+Thu May 17 2012,Mjallby,1-1,?,Goteborg
+Thu May 17 2012,Djurgarden,1-1,?,Gefle
+Thu May 17 2012,Malmo FF,1-0,?,Elfsborg
+Sun May 20 2012,Atvidabergs,3-0,?,Kalmar
+Sun May 20 2012,Hacken,1-1,?,Djurgarden
+Sun May 20 2012,AIK,5-2,?,Norrkoping
+Sun May 20 2012,Mjallby,0-0,?,Gefle
+Sun May 20 2012,Orebro,0-1,?,Syrianska
+Mon May 21 2012,Sundsvall,0-3,?,Elfsborg
+Mon May 21 2012,GAIS,1-1,?,Goteborg
+Wed May 23 2012,Gefle,2-1,?,Orebro
+Wed May 23 2012,Helsingborg,1-1,?,Djurgarden
+Wed May 23 2012,Norrkoping,2-2,?,Atvidabergs
+Wed May 23 2012,Syrianska,2-1,?,Mjallby
+Thu May 24 2012,AIK,1-0,?,GAIS
+Thu May 24 2012,Elfsborg,2-0,?,Hacken
+Thu May 24 2012,Goteborg,1-1,?,Kalmar
+Thu May 24 2012,Sundsvall,1-1,?,Malmo FF
+Sat Jun 30 2012,Atvidabergs,5-1,?,Elfsborg
+Sat Jun 30 2012,Hacken,1-2,?,Sundsvall
+Sat Jun 30 2012,Kalmar,3-0,?,Syrianska
+Sat Jun 30 2012,Mjallby,0-2,?,Norrkoping
+Mon Jul 2 2012,Helsingborg,4-1,?,Gefle
+Mon Jul 2 2012,Malmo FF,4-0,?,AIK
+Tue Jul 3 2012,Djurgarden,3-2,?,Goteborg
+Thu Jul 5 2012,GAIS,0-1,?,Orebro
+Sat Jul 7 2012,Sundsvall,3-3,?,Atvidabergs
+Sat Jul 7 2012,Syrianska,1-1,?,Djurgarden
+Sun Jul 8 2012,AIK,3-1,?,Hacken
+Sun Jul 8 2012,Gefle,0-0,?,GAIS
+Sun Jul 8 2012,Elfsborg,0-0,?,Mjallby
+Sun Jul 8 2012,Norrkoping,2-1,?,Kalmar
+Mon Jul 9 2012,Orebro,2-1,?,Malmo FF
+Mon Jul 9 2012,Goteborg,1-1,?,Helsingborg
+Sat Jul 14 2012,Atvidabergs,2-0,?,AIK
+Sat Jul 14 2012,Goteborg,1-1,?,Gefle
+Sat Jul 14 2012,Helsingborg,1-0,?,Syrianska
+Sat Jul 14 2012,Mjallby,1-0,?,Sundsvall
+Sun Jul 15 2012,Orebro,1-2,?,Hacken
+Sun Jul 15 2012,Kalmar,2-1,?,Elfsborg
+Mon Jul 16 2012,Djurgarden,1-1,?,Norrkoping
+Mon Jul 16 2012,Malmo FF,2-0,?,GAIS
+Thu Jul 19 2012,Hacken,2-1,?,Orebro
+Sat Jul 21 2012,Gefle,5-0,?,Goteborg
+Sat Jul 21 2012,Sundsvall,3-1,?,Mjallby
+Sat Jul 21 2012,Syrianska,1-3,?,Helsingborg
+Sun Jul 22 2012,Elfsborg,3-0,?,Kalmar
+Sun Jul 22 2012,AIK,1-0,?,Atvidabergs
+Mon Jul 23 2012,GAIS,2-3,?,Malmo FF
+Mon Jul 23 2012,Norrkoping,1-1,?,Djurgarden
+Fri Jul 27 2012,Atvidabergs,1-1,?,Orebro
+Sat Jul 28 2012,Gefle,0-2,?,Malmo FF
+Sat Jul 28 2012,Helsingborg,1-2,?,Norrkoping
+Sun Jul 29 2012,Mjallby,0-1,?,AIK
+Sun Jul 29 2012,Djurgarden,0-0,?,Elfsborg
+Sun Jul 29 2012,Kalmar,1-1,?,Sundsvall
+Mon Jul 30 2012,Hacken,3-1,?,GAIS
+Tue Jul 31 2012,Goteborg,1-0,?,Syrianska
+Sat Aug 4 2012,GAIS,2-2,?,Atvidabergs
+Sat Aug 4 2012,Syrianska,1-0,?,Gefle
+Sun Aug 5 2012,Malmo FF,0-0,?,Hacken
+Sun Aug 5 2012,AIK,1-2,?,Kalmar
+Mon Aug 6 2012,Orebro,0-1,?,Mjallby
+Mon Aug 6 2012,Sundsvall,0-1,?,Djurgarden
+Mon Aug 6 2012,Norrkoping,0-0,?,Goteborg
+Fri Aug 10 2012,Gefle,0-1,?,Djurgarden
+Sat Aug 11 2012,Sundsvall,2-0,?,GAIS
+Sat Aug 11 2012,Syrianska,2-2,?,Atvidabergs
+Sun Aug 12 2012,AIK,3-0,?,Orebro
+Sun Aug 12 2012,Goteborg,4-2,?,Mjallby
+Sun Aug 12 2012,Helsingborg,7-2,?,Kalmar
+Sun Aug 12 2012,Elfsborg,4-1,?,Malmo FF
+Sun Aug 12 2012,Norrkoping,1-2,?,Hacken
+Sat Aug 18 2012,Elfsborg,2-1,?,Helsingborg
+Fri Aug 24 2012,Orebro,1-2,?,Gefle
+Sat Aug 25 2012,Djurgarden,3-1,?,Helsingborg
+Sun Aug 26 2012,GAIS,0-1,?,AIK
+Sun Aug 26 2012,Hacken,4-2,?,Elfsborg
+Sun Aug 26 2012,Kalmar,3-0,?,Goteborg
+Mon Aug 27 2012,Malmo FF,2-0,?,Sundsvall
+Mon Aug 27 2012,Mjallby,0-2,?,Syrianska
+Mon Aug 27 2012,Atvidabergs,1-1,?,Norrkoping
+Fri Aug 31 2012,Hacken,5-2,?,Atvidabergs
+Fri Aug 31 2012,Orebro,2-3,?,Djurgarden
+Sat Sep 1 2012,Malmo FF,1-1,?,Mjallby
+Sun Sep 2 2012,AIK,2-1,?,Helsingborg
+Sun Sep 2 2012,GAIS,1-2,?,Kalmar
+Sun Sep 2 2012,Elfsborg,1-0,?,Syrianska
+Sun Sep 2 2012,Norrkoping,0-1,?,Gefle
+Sun Sep 2 2012,Sundsvall,3-3,?,Goteborg
+Fri Sep 14 2012,Syrianska,1-2,?,Norrkoping
+Sat Sep 15 2012,Mjallby,4-0,?,GAIS
+Sat Sep 15 2012,Helsingborg,4-0,?,Sundsvall
+Sun Sep 16 2012,Djurgarden,0-3,?,AIK
+Sun Sep 16 2012,Goteborg,2-1,?,Elfsborg
+Mon Sep 17 2012,Gefle,0-2,?,Hacken
+Mon Sep 17 2012,Kalmar,1-2,?,Orebro
+Mon Sep 17 2012,Atvidabergs,0-1,?,Malmo FF
+Fri Sep 21 2012,Djurgarden,0-3,?,Hacken
+Sat Sep 22 2012,Syrianska,2-2,?,Orebro
+Sun Sep 23 2012,Elfsborg,0-0,?,Sundsvall
+Sun Sep 23 2012,Gefle,1-0,?,Mjallby
+Sun Sep 23 2012,Kalmar,2-0,?,Atvidabergs
+Sun Sep 23 2012,Norrkoping,2-2,?,AIK
+Mon Sep 24 2012,Goteborg,0-0,?,GAIS
+Mon Sep 24 2012,Helsingborg,1-1,?,Malmo FF
+Wed Sep 26 2012,Atvidabergs,2-1,?,Djurgarden
+Wed Sep 26 2012,Mjallby,1-0,?,Kalmar
+Wed Sep 26 2012,Orebro,0-1,?,Norrkoping
+Wed Sep 26 2012,Sundsvall,0-1,?,Gefle
+Wed Sep 26 2012,AIK,1-1,?,Elfsborg
+Thu Sep 27 2012,Hacken,2-2,?,Helsingborg
+Thu Sep 27 2012,Malmo FF,1-2,?,Goteborg
+Fri Sep 28 2012,GAIS,1-4,?,Syrianska
+Sun Sep 30 2012,Helsingborg,3-0,?,Atvidabergs
+Sun Sep 30 2012,Sundsvall,2-3,?,AIK
+Sun Sep 30 2012,Elfsborg,1-0,?,Orebro
+Sun Sep 30 2012,Gefle,0-0,?,Kalmar
+Mon Oct 1 2012,Djurgarden,0-1,?,Mjallby
+Mon Oct 1 2012,Norrkoping,7-2,?,GAIS
+Mon Oct 1 2012,Syrianska,0-2,?,Malmo FF
+Mon Oct 1 2012,Goteborg,1-1,?,Hacken
+Fri Oct 5 2012,Malmo FF,2-0,?,Norrkoping
+Sat Oct 6 2012,Hacken,5-1,?,Syrianska
+Sat Oct 6 2012,Atvidabergs,1-2,?,Goteborg
+Sun Oct 7 2012,AIK,0-1,?,Gefle
+Sun Oct 7 2012,Kalmar,2-2,?,Djurgarden
+Sun Oct 7 2012,Mjallby,0-2,?,Helsingborg
+Sun Oct 7 2012,GAIS,1-2,?,Elfsborg
+Sun Oct 7 2012,Orebro,2-2,?,Sundsvall
+Sat Oct 20 2012,Gefle,1-2,?,Atvidabergs
+Sat Oct 20 2012,Mjallby,1-2,?,Hacken
+Sun Oct 21 2012,Helsingborg,1-1,?,Orebro
+Sun Oct 21 2012,Kalmar,1-2,?,Malmo FF
+Sun Oct 21 2012,Goteborg,0-1,?,AIK
+Sun Oct 21 2012,Norrkoping,2-1,?,Elfsborg
+Mon Oct 22 2012,Djurgarden,3-0,?,GAIS
+Mon Oct 22 2012,Syrianska,1-1,?,Sundsvall
+Fri Oct 26 2012,Malmo FF,3-1,?,Djurgarden
+Sat Oct 27 2012,Hacken,1-2,?,Kalmar
+Sun Oct 28 2012,AIK,1-1,?,Syrianska
+Sun Oct 28 2012,GAIS,1-3,?,Helsingborg
+Sun Oct 28 2012,Orebro,1-0,?,Goteborg
+Sun Oct 28 2012,Sundsvall,0-4,?,Norrkoping
+Sun Oct 28 2012,Atvidabergs,0-0,?,Mjallby
+Mon Oct 29 2012,Elfsborg,2-0,?,Gefle
+Wed Oct 31 2012,Helsingborg,2-0,?,Goteborg
+Wed Oct 31 2012,Kalmar,0-2,?,Norrkoping
+Wed Oct 31 2012,Djurgarden,1-1,?,Syrianska
+Thu Nov 1 2012,Atvidabergs,2-2,?,Sundsvall
+Thu Nov 1 2012,GAIS,2-3,?,Gefle
+Thu Nov 1 2012,Mjallby,2-3,?,Elfsborg
+Thu Nov 1 2012,Hacken,1-1,?,AIK
+Thu Nov 1 2012,Malmo FF,1-1,?,Orebro
+Sun Nov 4 2012,AIK,2-0,?,Malmo FF
+Sun Nov 4 2012,Elfsborg,1-1,?,Atvidabergs
+Sun Nov 4 2012,Gefle,2-2,?,Helsingborg
+Sun Nov 4 2012,Goteborg,1-0,?,Djurgarden
+Sun Nov 4 2012,Norrkoping,2-1,?,Mjallby
+Sun Nov 4 2012,Orebro,4-0,?,GAIS
+Sun Nov 4 2012,Sundsvall,1-2,?,Hacken
+Sun Nov 4 2012,Syrianska,3-0,?,Kalmar
+Sat Nov 10 2012,Halmstad,3-0,?,Sundsvall
+Sat Nov 17 2012,Sundsvall,4-3,?,Halmstad

@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 4 2007,Bordeaux,1-0,1-0,Lens
+Sat Aug 4 2007,Caen,1-0,0-0,Nice
+Sat Aug 4 2007,Lille,0-0,0-0,Lorient
+Sat Aug 4 2007,Monaco,1-1,1-0,St Etienne
+Sat Aug 4 2007,Paris SG,0-0,0-0,Sochaux
+Sat Aug 4 2007,Rennes,0-2,0-2,Nancy
+Sat Aug 4 2007,Strasbourg,0-0,0-0,Marseille
+Sat Aug 4 2007,Valenciennes,3-1,2-1,Toulouse
+Sun Aug 5 2007,Le Mans,1-0,1-0,Metz
+Sun Aug 5 2007,Lyon,2-0,1-0,Auxerre
+Sat Aug 11 2007,Auxerre,0-2,0-1,Bordeaux
+Sat Aug 11 2007,Lorient,2-1,2-0,Monaco
+Sat Aug 11 2007,Marseille,0-0,0-0,Rennes
+Sat Aug 11 2007,Nancy,1-0,1-0,Caen
+Sat Aug 11 2007,Nice,1-0,0-0,Strasbourg
+Sat Aug 11 2007,Sochaux,1-3,1-1,Le Mans
+Sat Aug 11 2007,St Etienne,3-1,1-0,Valenciennes
+Sat Aug 11 2007,Toulouse,1-0,0-0,Lyon
+Sun Aug 12 2007,Lens,0-0,0-0,Paris SG
+Sun Aug 12 2007,Metz,1-2,0-1,Lille
+Wed Aug 15 2007,Bordeaux,1-2,1-0,Le Mans
+Wed Aug 15 2007,Lille,1-1,1-1,Sochaux
+Wed Aug 15 2007,Monaco,2-0,1-0,Metz
+Wed Aug 15 2007,Paris SG,1-3,1-0,Lorient
+Wed Aug 15 2007,Rennes,1-0,1-0,St Etienne
+Wed Aug 15 2007,Strasbourg,3-0,1-0,Auxerre
+Wed Aug 15 2007,Valenciennes,2-1,0-0,Marseille
+Thu Aug 16 2007,Nancy,2-1,0-0,Nice
+Sat Aug 18 2007,Auxerre,1-0,1-0,Caen
+Sat Aug 18 2007,Le Mans,1-1,0-1,Lille
+Sat Aug 18 2007,Lorient,2-1,1-1,Lyon
+Sat Aug 18 2007,Metz,0-0,0-0,Paris SG
+Sat Aug 18 2007,Sochaux,0-3,0-1,Monaco
+Sat Aug 18 2007,St Etienne,0-0,0-0,Bordeaux
+Sat Aug 18 2007,Toulouse,1-3,1-1,Strasbourg
+Sun Aug 19 2007,Lens,0-0,0-0,Valenciennes
+Sun Aug 19 2007,Marseille,2-2,1-0,Nancy
+Sun Aug 19 2007,Nice,1-1,1-0,Rennes
+Sat Aug 25 2007,Bordeaux,2-2,1-1,Lorient
+Sat Aug 25 2007,Caen,1-2,0-1,Marseille
+Sat Aug 25 2007,Monaco,3-1,0-1,Le Mans
+Sat Aug 25 2007,Nancy,4-1,2-0,Auxerre
+Sat Aug 25 2007,Nice,1-1,1-0,Toulouse
+Sat Aug 25 2007,Rennes,2-0,1-0,Metz
+Sat Aug 25 2007,Strasbourg,2-1,0-0,Lens
+Sat Aug 25 2007,Valenciennes,3-1,2-1,Sochaux
+Sun Aug 26 2007,Lyon,1-0,0-0,St Etienne
+Sun Aug 26 2007,Paris SG,1-1,0-1,Lille
+Tue Aug 28 2007,Lorient,1-3,1-2,Valenciennes
+Wed Aug 29 2007,Auxerre,0-2,0-2,Rennes
+Wed Aug 29 2007,Le Mans,0-2,0-1,Paris SG
+Wed Aug 29 2007,Lille,0-1,0-1,Monaco
+Wed Aug 29 2007,Marseille,0-2,0-0,Nice
+Wed Aug 29 2007,Metz,0-1,0-0,Bordeaux
+Wed Aug 29 2007,Sochaux,1-2,1-1,Lyon
+Wed Aug 29 2007,St Etienne,2-0,1-0,Strasbourg
+Sat Sep 1 2007,Bordeaux,2-1,0-0,Monaco
+Sat Sep 1 2007,Caen,2-2,1-0,Sochaux
+Sat Sep 1 2007,Lyon,3-2,0-1,Le Mans
+Sat Sep 1 2007,Nancy,2-0,1-0,St Etienne
+Sat Sep 1 2007,Rennes,2-2,0-1,Lille
+Sat Sep 1 2007,Strasbourg,0-0,0-0,Lorient
+Sat Sep 1 2007,Toulouse,2-0,0-0,Auxerre
+Sat Sep 1 2007,Valenciennes,0-0,0-0,Metz
+Sun Sep 2 2007,Nice,1-0,0-0,Lens
+Sun Sep 2 2007,Paris SG,1-1,1-1,Marseille
+Sat Sep 15 2007,Auxerre,2-0,1-0,Nice
+Sat Sep 15 2007,Le Mans,2-0,1-0,Valenciennes
+Sat Sep 15 2007,Lens,1-0,0-0,Nancy
+Sat Sep 15 2007,Lille,1-1,1-1,Bordeaux
+Sat Sep 15 2007,Marseille,1-2,0-2,Toulouse
+Sat Sep 15 2007,Metz,1-5,0-3,Lyon
+Sat Sep 15 2007,Sochaux,0-0,0-0,Strasbourg
+Sat Sep 15 2007,St Etienne,3-0,2-0,Caen
+Sun Sep 16 2007,Lorient,0-1,0-1,Rennes
+Sun Sep 16 2007,Monaco,1-2,0-1,Paris SG
+Sat Sep 22 2007,Auxerre,2-0,2-0,Marseille
+Sat Sep 22 2007,Caen,1-2,1-1,Metz
+Sat Sep 22 2007,Nancy,2-0,0-0,Lorient
+Sat Sep 22 2007,Nice,3-0,2-0,St Etienne
+Sat Sep 22 2007,Strasbourg,0-1,0-1,Le Mans
+Sat Sep 22 2007,Toulouse,1-1,1-1,Lens
+Sat Sep 22 2007,Valenciennes,1-0,1-0,Monaco
+Sun Sep 23 2007,Lyon,1-1,0-1,Lille
+Sun Sep 23 2007,Paris SG,0-2,0-1,Bordeaux
+Sun Sep 23 2007,Rennes,0-2,0-1,Sochaux
+Sat Sep 29 2007,Lyon,3-0,1-0,Lens
+Sun Sep 30 2007,Caen,2-1,1-0,Toulouse
+Fri Oct 5 2007,Monaco,1-3,0-2,Nancy
+Sat Oct 6 2007,Le Mans,2-0,1-0,Nice
+Sat Oct 6 2007,Lens,2-0,1-0,Auxerre
+Sat Oct 6 2007,Lille,3-0,2-0,Valenciennes
+Sat Oct 6 2007,Lorient,0-0,0-0,Caen
+Sat Oct 6 2007,Metz,1-2,0-1,Strasbourg
+Sat Oct 6 2007,Paris SG,1-3,0-1,Rennes
+Sat Oct 6 2007,St Etienne,1-0,0-0,Marseille
+Sun Oct 7 2007,Bordeaux,1-3,0-2,Lyon
+Sun Oct 7 2007,Sochaux,0-1,0-0,Toulouse
+Sat Oct 20 2007,Auxerre,5-3,0-1,Lorient
+Sat Oct 20 2007,Caen,1-0,0-0,Lille
+Sat Oct 20 2007,Lyon,3-1,2-1,Monaco
+Sat Oct 20 2007,Nice,3-1,1-0,Metz
+Sat Oct 20 2007,Rennes,3-0,1-0,Le Mans
+Sat Oct 20 2007,Strasbourg,1-1,1-0,Bordeaux
+Sat Oct 20 2007,Toulouse,0-2,0-2,St Etienne
+Sat Oct 20 2007,Valenciennes,0-0,0-0,Paris SG
+Sun Oct 21 2007,Marseille,1-0,0-0,Lens
+Sun Oct 21 2007,Nancy,1-1,1-0,Sochaux
+Sat Oct 27 2007,Bordeaux,2-1,2-1,Valenciennes
+Sat Oct 27 2007,Lille,0-3,0-2,Strasbourg
+Sat Oct 27 2007,Lorient,0-0,0-0,Nice
+Sat Oct 27 2007,Metz,0-0,0-0,Nancy
+Sat Oct 27 2007,Monaco,0-0,0-0,Caen
+Sat Oct 27 2007,Sochaux,2-1,1-1,Marseille
+Sat Oct 27 2007,St Etienne,0-0,0-0,Auxerre
+Sun Oct 28 2007,Le Mans,1-1,0-0,Toulouse
+Sun Oct 28 2007,Lens,1-2,0-0,Rennes
+Sun Oct 28 2007,Paris SG,2-3,0-2,Lyon
+Sat Nov 3 2007,Auxerre,0-1,0-0,Lille
+Sat Nov 3 2007,Lyon,2-0,1-0,Valenciennes
+Sat Nov 3 2007,Marseille,0-0,0-0,Lorient
+Sat Nov 3 2007,Nancy,1-0,1-0,Bordeaux
+Sat Nov 3 2007,Nice,0-0,0-0,Sochaux
+Sat Nov 3 2007,Rennes,0-1,0-0,Monaco
+Sat Nov 3 2007,Strasbourg,1-2,0-2,Paris SG
+Sun Nov 4 2007,Caen,3-2,1-0,Le Mans
+Sun Nov 4 2007,Lens,3-2,0-2,St Etienne
+Sun Nov 4 2007,Toulouse,0-0,0-0,Metz
+Sat Nov 10 2007,Le Mans,3-2,2-2,St Etienne
+Sat Nov 10 2007,Lille,1-1,1-1,Nice
+Sat Nov 10 2007,Metz,1-2,0-0,Lens
+Sat Nov 10 2007,Monaco,3-0,1-0,Strasbourg
+Sat Nov 10 2007,Paris SG,0-0,0-0,Nancy
+Sat Nov 10 2007,Sochaux,1-1,0-1,Auxerre
+Sat Nov 10 2007,Valenciennes,3-0,2-0,Caen
+Sun Nov 11 2007,Bordeaux,3-0,1-0,Rennes
+Sun Nov 11 2007,Lorient,1-0,0-0,Toulouse
+Sun Nov 11 2007,Lyon,1-2,1-2,Marseille
+Sat Nov 24 2007,Caen,5-0,2-0,Bordeaux
+Sat Nov 24 2007,Lens,1-1,1-1,Lorient
+Sat Nov 24 2007,Marseille,3-1,2-0,Metz
+Sat Nov 24 2007,Nancy,2-0,0-0,Lille
+Sat Nov 24 2007,Rennes,0-2,0-2,Lyon
+Sat Nov 24 2007,St Etienne,1-0,0-0,Sochaux
+Sat Nov 24 2007,Strasbourg,0-0,0-0,Valenciennes
+Sat Nov 24 2007,Toulouse,0-0,0-0,Monaco
+Sun Nov 25 2007,Auxerre,3-0,1-0,Le Mans
+Sun Nov 25 2007,Nice,2-1,2-1,Paris SG
+Wed Nov 28 2007,Lens,1-1,0-0,Caen
+Sat Dec 1 2007,Le Mans,2-1,0-1,Nancy
+Sat Dec 1 2007,Lille,1-1,1-1,Marseille
+Sat Dec 1 2007,Lorient,1-1,0-0,St Etienne
+Sat Dec 1 2007,Metz,0-1,0-0,Auxerre
+Sat Dec 1 2007,Monaco,1-1,0-0,Nice
+Sat Dec 1 2007,Paris SG,0-1,0-0,Caen
+Sat Dec 1 2007,Sochaux,0-2,0-1,Lens
+Sun Dec 2 2007,Bordeaux,4-3,3-0,Toulouse
+Sun Dec 2 2007,Lyon,5-0,2-0,Strasbourg
+Sun Dec 2 2007,Valenciennes,3-0,1-0,Rennes
+Wed Dec 5 2007,Toulouse,1-1,1-0,Nancy
+Sat Dec 8 2007,Caen,1-0,1-0,Lyon
+Sat Dec 8 2007,Lens,1-3,1-1,Le Mans
+Sat Dec 8 2007,Lorient,2-1,1-0,Sochaux
+Sat Dec 8 2007,Marseille,2-0,0-0,Monaco
+Sat Dec 8 2007,Nancy,0-0,0-0,Valenciennes
+Sat Dec 8 2007,St Etienne,2-0,0-0,Metz
+Sat Dec 8 2007,Strasbourg,3-0,1-0,Rennes
+Sat Dec 8 2007,Toulouse,1-0,0-0,Lille
+Sun Dec 9 2007,Auxerre,0-1,0-0,Paris SG
+Sun Dec 9 2007,Nice,1-1,1-1,Bordeaux
+Sat Dec 15 2007,Le Mans,0-0,0-0,Lorient
+Sat Dec 15 2007,Lille,3-0,2-0,St Etienne
+Sat Dec 15 2007,Lyon,0-0,0-0,Nice
+Sat Dec 15 2007,Metz,1-2,0-1,Sochaux
+Sat Dec 15 2007,Monaco,2-0,0-0,Lens
+Sat Dec 15 2007,Paris SG,1-2,0-1,Toulouse
+Sat Dec 15 2007,Rennes,1-2,0-0,Caen
+Sat Dec 15 2007,Valenciennes,3-0,2-0,Auxerre
+Sun Dec 16 2007,Bordeaux,2-2,1-2,Marseille
+Sun Dec 16 2007,Strasbourg,0-0,0-0,Nancy
+Sat Dec 22 2007,Auxerre,1-0,0-0,Monaco
+Sat Dec 22 2007,Caen,2-0,1-0,Strasbourg
+Sat Dec 22 2007,Lorient,2-0,0-0,Metz
+Sat Dec 22 2007,Marseille,1-0,1-0,Le Mans
+Sat Dec 22 2007,Nancy,1-1,0-0,Lyon
+Sat Dec 22 2007,Nice,1-0,1-0,Valenciennes
+Sat Dec 22 2007,Sochaux,0-1,0-0,Bordeaux
+Sun Dec 23 2007,St Etienne,0-1,0-0,Paris SG
+Sun Dec 23 2007,Toulouse,0-0,0-0,Rennes
+Sat Jan 12 2008,Bordeaux,4-1,2-1,Auxerre
+Sat Jan 12 2008,Caen,0-0,0-0,Nancy
+Sat Jan 12 2008,Le Mans,0-2,0-1,Sochaux
+Sat Jan 12 2008,Lille,1-1,0-1,Metz
+Sat Jan 12 2008,Lyon,3-2,1-1,Toulouse
+Sat Jan 12 2008,Monaco,1-0,0-0,Lorient
+Sat Jan 12 2008,Strasbourg,0-1,0-0,Nice
+Sat Jan 12 2008,Valenciennes,2-0,1-0,St Etienne
+Sun Jan 13 2008,Paris SG,3-0,0-0,Lens
+Sun Jan 13 2008,Rennes,3-1,1-1,Marseille
+Sat Jan 19 2008,Auxerre,1-1,1-0,Strasbourg
+Sat Jan 19 2008,Le Mans,1-2,1-2,Bordeaux
+Sat Jan 19 2008,Lorient,1-0,1-0,Paris SG
+Sat Jan 19 2008,Marseille,3-1,1-0,Valenciennes
+Sat Jan 19 2008,Metz,1-4,0-2,Monaco
+Sat Jan 19 2008,Sochaux,1-1,1-0,Lille
+Sat Jan 19 2008,St Etienne,2-0,1-0,Rennes
+Sat Jan 19 2008,Toulouse,1-1,1-0,Caen
+Sun Jan 20 2008,Lens,3-0,0-0,Lyon
+Sun Jan 20 2008,Nice,1-0,0-0,Nancy
+Wed Jan 23 2008,Caen,0-0,0-0,Auxerre
+Wed Jan 23 2008,Lille,3-1,2-0,Le Mans
+Wed Jan 23 2008,Lyon,2-0,1-0,Lorient
+Wed Jan 23 2008,Monaco,1-0,0-0,Sochaux
+Wed Jan 23 2008,Nancy,1-1,0-0,Marseille
+Wed Jan 23 2008,Paris SG,3-0,2-0,Metz
+Wed Jan 23 2008,Rennes,1-1,0-0,Nice
+Wed Jan 23 2008,Strasbourg,2-0,1-0,Toulouse
+Wed Jan 23 2008,Valenciennes,1-2,1-1,Lens
+Thu Jan 24 2008,Bordeaux,1-0,0-0,St Etienne
+Sat Jan 26 2008,Auxerre,0-0,0-0,Nancy
+Sat Jan 26 2008,Le Mans,1-0,1-0,Monaco
+Sat Jan 26 2008,Lens,2-2,1-1,Strasbourg
+Sat Jan 26 2008,Lille,0-0,0-0,Paris SG
+Sat Jan 26 2008,Marseille,6-1,3-1,Caen
+Sat Jan 26 2008,Metz,1-1,0-1,Rennes
+Sat Jan 26 2008,Sochaux,1-0,1-0,Valenciennes
+Sat Jan 26 2008,Toulouse,1-1,1-0,Nice
+Sun Jan 27 2008,Lorient,1-0,0-0,Bordeaux
+Sun Jan 27 2008,St Etienne,1-1,1-0,Lyon
+Sat Feb 9 2008,Bordeaux,3-0,1-0,Metz
+Sat Feb 9 2008,Lyon,4-1,1-0,Sochaux
+Sat Feb 9 2008,Monaco,0-0,0-0,Lille
+Sat Feb 9 2008,Nancy,1-0,0-0,Toulouse
+Sat Feb 9 2008,Paris SG,0-0,0-0,Le Mans
+Sat Feb 9 2008,Rennes,1-2,0-1,Auxerre
+Sat Feb 9 2008,Strasbourg,3-0,1-0,St Etienne
+Sat Feb 9 2008,Valenciennes,3-0,1-0,Lorient
+Sun Feb 10 2008,Caen,1-4,0-2,Lens
+Sun Feb 10 2008,Nice,0-2,0-1,Marseille
+Sat Feb 16 2008,Auxerre,1-0,0-0,Toulouse
+Sat Feb 16 2008,Le Mans,1-0,0-0,Lyon
+Sat Feb 16 2008,Lens,0-0,0-0,Nice
+Sat Feb 16 2008,Lille,3-1,1-0,Rennes
+Sat Feb 16 2008,Lorient,1-0,1-0,Strasbourg
+Sat Feb 16 2008,Metz,2-1,0-1,Valenciennes
+Sat Feb 16 2008,Sochaux,1-1,1-0,Caen
+Sat Feb 16 2008,St Etienne,4-0,2-0,Nancy
+Sun Feb 17 2008,Marseille,2-1,2-1,Paris SG
+Sun Feb 17 2008,Monaco,0-6,0-0,Bordeaux
+Sat Feb 23 2008,Caen,1-3,0-3,St Etienne
+Sat Feb 23 2008,Lyon,2-0,1-0,Metz
+Sat Feb 23 2008,Nancy,2-1,0-1,Lens
+Sat Feb 23 2008,Nice,1-2,0-0,Auxerre
+Sat Feb 23 2008,Paris SG,1-1,1-0,Monaco
+Sat Feb 23 2008,Rennes,2-0,1-0,Lorient
+Sat Feb 23 2008,Strasbourg,0-2,0-2,Sochaux
+Sat Feb 23 2008,Valenciennes,1-2,1-2,Le Mans
+Sun Feb 24 2008,Bordeaux,0-0,0-0,Lille
+Sun Feb 24 2008,Toulouse,0-0,0-0,Marseille
+Sat Mar 1 2008,Le Mans,0-1,0-1,Strasbourg
+Sat Mar 1 2008,Lens,1-1,1-0,Toulouse
+Sat Mar 1 2008,Lille,0-1,0-1,Lyon
+Sat Mar 1 2008,Lorient,0-0,0-0,Nancy
+Sat Mar 1 2008,Marseille,2-1,2-0,Auxerre
+Sat Mar 1 2008,Metz,2-1,1-0,Caen
+Sat Mar 1 2008,Monaco,0-0,0-0,Valenciennes
+Sat Mar 1 2008,Sochaux,0-0,0-0,Rennes
+Sun Mar 2 2008,Bordeaux,3-0,1-0,Paris SG
+Sun Mar 2 2008,St Etienne,0-0,0-0,Nice
+Sat Mar 8 2008,Auxerre,0-0,0-0,Lens
+Sat Mar 8 2008,Caen,0-0,0-0,Lorient
+Sat Mar 8 2008,Nancy,2-0,2-0,Monaco
+Sat Mar 8 2008,Nice,0-0,0-0,Le Mans
+Sat Mar 8 2008,Rennes,2-0,1-0,Paris SG
+Sat Mar 8 2008,Strasbourg,2-3,1-0,Metz
+Sat Mar 8 2008,Toulouse,1-2,0-2,Sochaux
+Sat Mar 8 2008,Valenciennes,0-0,0-0,Lille
+Sun Mar 9 2008,Lyon,4-2,2-1,Bordeaux
+Sun Mar 9 2008,Marseille,2-0,0-0,St Etienne
+Tue Mar 11 2008,Lens,1-2,0-1,Lille
+Sat Mar 15 2008,Le Mans,1-1,0-1,Rennes
+Sat Mar 15 2008,Lille,5-0,2-0,Caen
+Sat Mar 15 2008,Lorient,1-1,0-0,Auxerre
+Sat Mar 15 2008,Metz,1-2,0-1,Nice
+Sat Mar 15 2008,Monaco,0-3,0-3,Lyon
+Sat Mar 15 2008,Paris SG,1-1,0-0,Valenciennes
+Sat Mar 15 2008,Sochaux,1-1,0-0,Nancy
+Sat Mar 15 2008,St Etienne,0-0,0-0,Toulouse
+Sun Mar 16 2008,Bordeaux,3-0,2-0,Strasbourg
+Sun Mar 16 2008,Lens,3-3,0-2,Marseille
+Sat Mar 22 2008,Auxerre,1-3,1-0,St Etienne
+Sat Mar 22 2008,Caen,4-1,0-1,Monaco
+Sat Mar 22 2008,Marseille,0-1,0-1,Sochaux
+Sat Mar 22 2008,Nancy,2-1,0-0,Metz
+Sat Mar 22 2008,Nice,1-2,0-1,Lorient
+Sat Mar 22 2008,Strasbourg,0-1,0-0,Lille
+Sat Mar 22 2008,Toulouse,1-1,0-1,Le Mans
+Sat Mar 22 2008,Valenciennes,3-1,1-1,Bordeaux
+Sun Mar 23 2008,Lyon,4-2,2-1,Paris SG
+Sun Mar 23 2008,Rennes,3-1,2-1,Lens
+Sat Mar 29 2008,Bordeaux,2-1,0-1,Nancy
+Sun Mar 30 2008,Le Mans,1-1,1-1,Caen
+Sun Mar 30 2008,Lille,0-2,0-1,Auxerre
+Sun Mar 30 2008,Lorient,1-2,1-0,Marseille
+Sun Mar 30 2008,Metz,0-2,0-0,Toulouse
+Sun Mar 30 2008,Sochaux,1-0,0-0,Nice
+Sun Mar 30 2008,Valenciennes,1-2,1-1,Lyon
+Mon Mar 31 2008,Monaco,1-2,1-1,Rennes
+Wed Apr 2 2008,Paris SG,1-0,0-0,Strasbourg
+Sat Apr 5 2008,Auxerre,0-1,0-1,Sochaux
+Sat Apr 5 2008,Caen,1-0,1-0,Valenciennes
+Sat Apr 5 2008,Lens,1-1,1-0,Metz
+Sat Apr 5 2008,Nice,0-0,0-0,Lille
+Sat Apr 5 2008,Rennes,0-2,0-1,Bordeaux
+Sat Apr 5 2008,St Etienne,4-1,1-1,Le Mans
+Sat Apr 5 2008,Strasbourg,0-2,0-0,Monaco
+Sat Apr 5 2008,Toulouse,0-0,0-0,Lorient
+Sun Apr 6 2008,Marseille,3-1,2-1,Lyon
+Sun Apr 6 2008,Nancy,1-0,0-0,Paris SG
+Wed Apr 9 2008,St Etienne,2-0,2-0,Lens
+Sat Apr 12 2008,Le Mans,3-0,1-0,Auxerre
+Sat Apr 12 2008,Lille,2-1,2-1,Nancy
+Sat Apr 12 2008,Lorient,1-0,0-0,Lens
+Sat Apr 12 2008,Lyon,1-1,1-0,Rennes
+Sat Apr 12 2008,Metz,1-2,1-1,Marseille
+Sat Apr 12 2008,Monaco,0-2,0-1,Toulouse
+Sat Apr 12 2008,Sochaux,1-1,0-1,St Etienne
+Sat Apr 12 2008,Valenciennes,2-0,2-0,Strasbourg
+Sun Apr 13 2008,Bordeaux,2-1,0-0,Caen
+Sun Apr 13 2008,Paris SG,2-3,0-1,Nice
+Sat Apr 19 2008,Auxerre,0-0,0-0,Metz
+Sat Apr 19 2008,Caen,3-0,0-0,Paris SG
+Sat Apr 19 2008,Lens,3-2,1-0,Sochaux
+Sat Apr 19 2008,Nancy,1-1,0-0,Le Mans
+Sat Apr 19 2008,Nice,0-2,0-1,Monaco
+Sat Apr 19 2008,Rennes,1-0,0-0,Valenciennes
+Sat Apr 19 2008,St Etienne,1-0,0-0,Lorient
+Sat Apr 19 2008,Strasbourg,1-2,1-0,Lyon
+Sun Apr 20 2008,Marseille,1-3,1-2,Lille
+Sun Apr 20 2008,Toulouse,0-1,0-0,Bordeaux
+Sat Apr 26 2008,Bordeaux,0-0,0-0,Nice
+Sat Apr 26 2008,Le Mans,3-2,2-1,Lens
+Sat Apr 26 2008,Lille,3-2,3-1,Toulouse
+Sat Apr 26 2008,Lyon,2-2,1-2,Caen
+Sat Apr 26 2008,Metz,0-1,0-0,St Etienne
+Sat Apr 26 2008,Paris SG,3-1,2-0,Auxerre
+Sat Apr 26 2008,Rennes,3-0,3-0,Strasbourg
+Sat Apr 26 2008,Sochaux,1-1,0-1,Lorient
+Sun Apr 27 2008,Monaco,2-3,0-1,Marseille
+Sun Apr 27 2008,Valenciennes,1-1,0-1,Nancy
+Sat May 3 2008,Auxerre,2-0,1-0,Valenciennes
+Sat May 3 2008,Caen,2-2,0-1,Rennes
+Sat May 3 2008,Lens,0-0,0-0,Monaco
+Sat May 3 2008,Lorient,0-0,0-0,Le Mans
+Sat May 3 2008,Nancy,3-0,2-0,Strasbourg
+Sat May 3 2008,Nice,0-0,0-0,Lyon
+Sat May 3 2008,Sochaux,0-0,0-0,Metz
+Sat May 3 2008,Toulouse,1-1,0-0,Paris SG
+Sun May 4 2008,Marseille,1-2,1-0,Bordeaux
+Sun May 4 2008,St Etienne,0-0,0-0,Lille
+Sat May 10 2008,Bordeaux,2-0,1-0,Sochaux
+Sat May 10 2008,Le Mans,0-0,0-0,Marseille
+Sat May 10 2008,Lille,2-1,1-0,Lens
+Sat May 10 2008,Lyon,1-0,0-0,Nancy
+Sat May 10 2008,Metz,1-2,1-1,Lorient
+Sat May 10 2008,Monaco,3-0,0-0,Auxerre
+Sat May 10 2008,Paris SG,1-1,0-1,St Etienne
+Sat May 10 2008,Rennes,2-1,0-1,Toulouse
+Sat May 10 2008,Strasbourg,1-4,1-3,Caen
+Sat May 10 2008,Valenciennes,1-2,0-0,Nice
+Sat May 17 2008,Auxerre,1-3,0-2,Lyon
+Sat May 17 2008,Lens,2-2,0-0,Bordeaux
+Sat May 17 2008,Lorient,1-1,1-0,Lille
+Sat May 17 2008,Marseille,4-3,3-2,Strasbourg
+Sat May 17 2008,Metz,4-3,3-0,Le Mans
+Sat May 17 2008,Nancy,2-3,1-1,Rennes
+Sat May 17 2008,Nice,3-1,1-1,Caen
+Sat May 17 2008,Sochaux,1-2,0-1,Paris SG
+Sat May 17 2008,St Etienne,4-0,3-0,Monaco
+Sat May 17 2008,Toulouse,2-1,1-1,Valenciennes

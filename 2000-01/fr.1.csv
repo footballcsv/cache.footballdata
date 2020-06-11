@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 28 2000,Marseille,3-1,2-1,Troyes
+Fri Jul 28 2000,Paris SG,3-1,1-1,Strasbourg
+Sat Jul 29 2000,Auxerre,0-1,0-1,Sedan
+Sat Jul 29 2000,Bordeaux,1-1,1-0,Metz
+Sat Jul 29 2000,Guingamp,2-2,2-1,St Etienne
+Sat Jul 29 2000,Lille,1-1,0-1,Monaco
+Sat Jul 29 2000,Lyon,2-2,0-2,Rennes
+Sat Jul 29 2000,Nantes,0-2,0-0,Lens
+Sat Jul 29 2000,Toulouse,0-1,0-0,Bastia
+Thu Aug 3 2000,Sedan,1-1,0-0,Lyon
+Fri Aug 4 2000,Monaco,2-5,1-4,Nantes
+Fri Aug 4 2000,St Etienne,3-0,1-0,Marseille
+Sat Aug 5 2000,Bastia,2-0,1-0,Bordeaux
+Sat Aug 5 2000,Lens,3-2,1-0,Guingamp
+Sat Aug 5 2000,Metz,1-2,1-1,Auxerre
+Sat Aug 5 2000,Rennes,1-1,1-0,Paris SG
+Sat Aug 5 2000,Strasbourg,0-4,0-1,Lille
+Sat Aug 5 2000,Troyes,1-1,1-1,Toulouse
+Sat Aug 12 2000,Auxerre,1-0,1-0,Bastia
+Sat Aug 12 2000,Bordeaux,2-2,1-1,Troyes
+Sat Aug 12 2000,Guingamp,0-1,0-1,Nantes
+Sat Aug 12 2000,Lille,1-0,0-0,Rennes
+Sat Aug 12 2000,Lyon,0-0,0-0,Metz
+Sat Aug 12 2000,Strasbourg,1-3,0-2,Monaco
+Sat Aug 12 2000,Toulouse,1-1,1-1,St Etienne
+Sun Aug 13 2000,Marseille,0-0,0-0,Lens
+Sun Aug 13 2000,Paris SG,2-1,1-1,Sedan
+Fri Aug 18 2000,Bastia,2-0,0-0,Lyon
+Sat Aug 19 2000,Lens,2-1,1-1,Toulouse
+Sat Aug 19 2000,Metz,1-0,0-0,Paris SG
+Sat Aug 19 2000,Nantes,3-2,1-1,Marseille
+Sat Aug 19 2000,Rennes,3-0,1-0,Strasbourg
+Sat Aug 19 2000,Sedan,1-0,0-0,Lille
+Sat Aug 19 2000,St Etienne,1-0,1-0,Bordeaux
+Sat Aug 19 2000,Troyes,1-0,0-0,Auxerre
+Sun Aug 20 2000,Monaco,1-0,0-0,Guingamp
+Sat Aug 26 2000,Bordeaux,1-1,0-1,Lens
+Sat Aug 26 2000,Lille,2-1,0-1,Metz
+Sat Aug 26 2000,Lyon,1-0,0-0,Troyes
+Sat Aug 26 2000,Marseille,3-1,1-0,Guingamp
+Sat Aug 26 2000,Rennes,1-1,1-0,Monaco
+Sat Aug 26 2000,Strasbourg,3-2,1-1,Sedan
+Sat Aug 26 2000,Toulouse,1-1,0-1,Nantes
+Sun Aug 27 2000,Auxerre,4-3,0-1,St Etienne
+Sun Aug 27 2000,Paris SG,3-1,2-0,Bastia
+Tue Sep 5 2000,Monaco,0-2,0-0,Marseille
+Wed Sep 6 2000,Bastia,1-0,0-0,Lille
+Wed Sep 6 2000,Guingamp,2-1,0-1,Toulouse
+Wed Sep 6 2000,Lens,1-0,1-0,Auxerre
+Wed Sep 6 2000,Metz,1-0,0-0,Strasbourg
+Wed Sep 6 2000,Nantes,0-5,0-2,Bordeaux
+Wed Sep 6 2000,St Etienne,2-2,1-2,Lyon
+Wed Sep 6 2000,Troyes,5-3,1-2,Paris SG
+Sat Sep 9 2000,Auxerre,2-2,0-1,Nantes
+Sat Sep 9 2000,Bordeaux,0-2,0-1,Guingamp
+Sat Sep 9 2000,Lille,1-2,1-2,Troyes
+Sat Sep 9 2000,Lyon,3-0,0-0,Lens
+Sat Sep 9 2000,Paris SG,5-1,1-0,St Etienne
+Sat Sep 9 2000,Rennes,0-1,0-1,Metz
+Sat Sep 9 2000,Sedan,1-0,0-0,Monaco
+Sat Sep 9 2000,Strasbourg,1-4,1-1,Bastia
+Sun Sep 10 2000,Toulouse,2-0,2-0,Marseille
+Sat Sep 16 2000,Bastia,0-2,0-0,Rennes
+Sat Sep 16 2000,Guingamp,1-0,1-0,Auxerre
+Sat Sep 16 2000,Lens,1-1,0-0,Paris SG
+Sat Sep 16 2000,Marseille,0-1,0-0,Bordeaux
+Sat Sep 16 2000,Metz,1-0,0-0,Sedan
+Sat Sep 16 2000,Monaco,3-0,2-0,Toulouse
+Sat Sep 16 2000,Troyes,0-1,0-1,Strasbourg
+Sun Sep 17 2000,Nantes,0-1,0-1,Lyon
+Sun Sep 17 2000,St Etienne,1-1,1-1,Lille
+Sat Sep 23 2000,Auxerre,0-1,0-0,Marseille
+Sat Sep 23 2000,Bordeaux,2-1,1-0,Toulouse
+Sat Sep 23 2000,Lyon,0-1,0-0,Guingamp
+Sat Sep 23 2000,Metz,1-3,1-1,Monaco
+Sat Sep 23 2000,Paris SG,2-1,1-0,Nantes
+Sat Sep 23 2000,Rennes,0-2,0-0,Troyes
+Sat Sep 23 2000,Sedan,3-3,0-1,Bastia
+Sat Sep 23 2000,Strasbourg,3-2,2-0,St Etienne
+Sun Sep 24 2000,Lille,2-1,0-1,Lens
+Sat Sep 30 2000,Bastia,1-0,1-0,Metz
+Sat Sep 30 2000,Guingamp,1-1,0-0,Paris SG
+Sat Sep 30 2000,Lens,0-0,0-0,Strasbourg
+Sat Sep 30 2000,Monaco,2-2,2-1,Bordeaux
+Sat Sep 30 2000,St Etienne,0-2,0-1,Rennes
+Sat Sep 30 2000,Toulouse,0-1,0-1,Auxerre
+Sat Sep 30 2000,Troyes,1-1,0-1,Sedan
+Sun Oct 1 2000,Marseille,1-1,1-0,Lyon
+Sun Oct 1 2000,Nantes,0-0,0-0,Lille
+Tue Oct 10 2000,Sedan,2-1,2-0,Rennes
+Fri Oct 13 2000,Bastia,0-2,0-0,Monaco
+Fri Oct 13 2000,Paris SG,2-0,0-0,Marseille
+Sat Oct 14 2000,Lille,1-1,0-0,Guingamp
+Sat Oct 14 2000,Metz,2-2,0-0,Troyes
+Sat Oct 14 2000,Rennes,1-0,1-0,Lens
+Sat Oct 14 2000,Sedan,2-1,1-1,St Etienne
+Sat Oct 14 2000,Strasbourg,0-5,0-4,Nantes
+Sun Oct 15 2000,Auxerre,0-2,0-1,Bordeaux
+Sat Oct 21 2000,Bordeaux,1-1,1-1,Lyon
+Sat Oct 21 2000,Guingamp,2-1,2-1,Strasbourg
+Sat Oct 21 2000,Lens,1-1,0-0,Sedan
+Sat Oct 21 2000,Monaco,1-1,1-0,Auxerre
+Sat Oct 21 2000,Nantes,1-0,0-0,Rennes
+Sat Oct 21 2000,St Etienne,2-0,0-0,Metz
+Sat Oct 21 2000,Toulouse,2-3,2-1,Paris SG
+Sat Oct 21 2000,Troyes,0-0,0-0,Bastia
+Sun Oct 22 2000,Marseille,0-1,0-0,Lille
+Sat Oct 28 2000,Strasbourg,1-1,1-0,Marseille
+Sun Oct 29 2000,Bastia,0-0,0-0,St Etienne
+Sun Oct 29 2000,Lille,1-0,0-0,Toulouse
+Sun Oct 29 2000,Lyon,2-2,1-1,Auxerre
+Sun Oct 29 2000,Metz,2-1,1-1,Lens
+Sun Oct 29 2000,Paris SG,1-2,0-1,Bordeaux
+Sun Oct 29 2000,Rennes,1-2,0-1,Guingamp
+Sun Oct 29 2000,Sedan,2-0,1-0,Nantes
+Sun Oct 29 2000,Troyes,1-0,0-0,Monaco
+Fri Nov 3 2000,Monaco,0-2,0-1,Lyon
+Sat Nov 4 2000,Auxerre,1-0,0-0,Paris SG
+Sat Nov 4 2000,Bordeaux,1-0,0-0,Lille
+Sat Nov 4 2000,Guingamp,0-3,0-1,Sedan
+Sat Nov 4 2000,Lens,4-0,0-0,Bastia
+Sat Nov 4 2000,Marseille,0-1,0-1,Rennes
+Sat Nov 4 2000,Nantes,2-0,1-0,Metz
+Sat Nov 4 2000,St Etienne,4-1,1-0,Troyes
+Sat Nov 4 2000,Toulouse,0-0,0-0,Strasbourg
+Fri Nov 10 2000,St Etienne,1-0,1-0,Monaco
+Sat Nov 11 2000,Lille,1-1,0-0,Auxerre
+Sat Nov 11 2000,Metz,1-1,1-0,Guingamp
+Sat Nov 11 2000,Paris SG,1-1,1-1,Lyon
+Sat Nov 11 2000,Rennes,1-1,1-1,Toulouse
+Sat Nov 11 2000,Sedan,2-0,0-0,Marseille
+Sat Nov 11 2000,Troyes,1-0,1-0,Lens
+Sun Nov 12 2000,Strasbourg,0-2,0-0,Bordeaux
+Fri Nov 17 2000,Marseille,4-1,2-1,Metz
+Sat Nov 18 2000,Guingamp,1-0,1-0,Bastia
+Sat Nov 18 2000,Lens,0-0,0-0,St Etienne
+Sat Nov 18 2000,Lyon,0-1,0-0,Lille
+Sat Nov 18 2000,Monaco,2-0,2-0,Paris SG
+Sat Nov 18 2000,Nantes,4-0,4-0,Troyes
+Sat Nov 18 2000,Toulouse,2-0,1-0,Sedan
+Sun Nov 19 2000,Auxerre,1-2,1-0,Strasbourg
+Sun Nov 19 2000,Bordeaux,3-0,1-0,Rennes
+Sat Nov 25 2000,Bastia,3-0,1-0,Marseille
+Sat Nov 25 2000,Lens,4-3,2-1,Monaco
+Sat Nov 25 2000,Metz,1-1,0-1,Toulouse
+Sat Nov 25 2000,Rennes,0-1,0-0,Auxerre
+Sat Nov 25 2000,Strasbourg,0-3,0-2,Lyon
+Sat Nov 25 2000,Troyes,0-1,0-1,Guingamp
+Sun Nov 26 2000,Sedan,0-0,0-0,Bordeaux
+Sun Nov 26 2000,St Etienne,0-2,0-0,Nantes
+Tue Nov 28 2000,Guingamp,0-1,0-0,Lens
+Tue Nov 28 2000,Paris SG,0-1,0-1,Rennes
+Wed Nov 29 2000,Auxerre,1-0,0-0,Metz
+Wed Nov 29 2000,Bordeaux,0-0,0-0,Bastia
+Wed Nov 29 2000,Lille,1-1,1-1,Strasbourg
+Wed Nov 29 2000,Lyon,2-2,0-0,Sedan
+Wed Nov 29 2000,Marseille,2-1,0-0,St Etienne
+Wed Nov 29 2000,Nantes,3-1,1-0,Monaco
+Wed Nov 29 2000,Toulouse,2-1,1-1,Troyes
+Sat Dec 2 2000,Bastia,3-1,1-0,Auxerre
+Sat Dec 2 2000,Metz,0-0,0-0,Lyon
+Sat Dec 2 2000,Monaco,1-0,0-0,Strasbourg
+Sat Dec 2 2000,Nantes,2-1,1-1,Guingamp
+Sat Dec 2 2000,Rennes,2-0,1-0,Lille
+Sat Dec 2 2000,Sedan,5-1,1-1,Paris SG
+Sat Dec 2 2000,St Etienne,1-0,0-0,Toulouse
+Sat Dec 2 2000,Troyes,1-0,0-0,Bordeaux
+Sun Dec 3 2000,Lens,1-0,0-0,Marseille
+Sat Dec 9 2000,Auxerre,2-2,1-0,Troyes
+Sat Dec 9 2000,Guingamp,2-2,2-0,Monaco
+Sat Dec 9 2000,Lille,2-0,1-0,Sedan
+Sat Dec 9 2000,Lyon,1-0,1-0,Bastia
+Sat Dec 9 2000,Paris SG,1-0,0-0,Metz
+Sat Dec 9 2000,Strasbourg,1-1,0-1,Rennes
+Sat Dec 9 2000,Toulouse,1-0,0-0,Lens
+Sun Dec 10 2000,Bordeaux,2-1,1-1,St Etienne
+Sun Dec 10 2000,Marseille,2-0,2-0,Nantes
+Wed Dec 13 2000,Bastia,3-1,2-0,Nantes
+Wed Dec 13 2000,Lille,2-0,1-0,Paris SG
+Wed Dec 13 2000,Lyon,4-1,1-0,Toulouse
+Sat Dec 16 2000,Guingamp,1-0,1-0,Marseille
+Sat Dec 16 2000,Lens,2-2,0-2,Bordeaux
+Sat Dec 16 2000,Metz,1-1,1-0,Lille
+Sat Dec 16 2000,Monaco,1-2,1-0,Rennes
+Sat Dec 16 2000,Sedan,1-0,1-0,Strasbourg
+Sat Dec 16 2000,St Etienne,2-0,1-0,Auxerre
+Sat Dec 16 2000,Troyes,1-0,1-0,Lyon
+Sun Dec 17 2000,Bastia,1-1,0-1,Paris SG
+Sun Dec 17 2000,Nantes,3-2,0-1,Toulouse
+Wed Dec 20 2000,Marseille,2-1,1-1,Monaco
+Thu Dec 21 2000,Auxerre,3-2,2-1,Lens
+Thu Dec 21 2000,Bordeaux,0-2,0-1,Nantes
+Thu Dec 21 2000,Lille,1-0,0-0,Bastia
+Thu Dec 21 2000,Lyon,2-1,1-0,St Etienne
+Thu Dec 21 2000,Paris SG,0-0,0-0,Troyes
+Thu Dec 21 2000,Rennes,2-0,1-0,Sedan
+Thu Dec 21 2000,Toulouse,1-1,0-0,Guingamp
+Fri Jan 12 2001,Lens,0-0,0-0,Lyon
+Sat Jan 13 2001,Bastia,3-1,1-1,Strasbourg
+Sat Jan 13 2001,Guingamp,1-1,1-0,Bordeaux
+Sat Jan 13 2001,Marseille,1-1,0-0,Toulouse
+Sat Jan 13 2001,Metz,2-2,1-1,Rennes
+Sat Jan 13 2001,Monaco,1-0,1-0,Sedan
+Sat Jan 13 2001,Nantes,1-1,0-1,Auxerre
+Sat Jan 13 2001,St Etienne,1-0,0-0,Paris SG
+Sat Jan 13 2001,Troyes,2-1,0-1,Lille
+Fri Jan 26 2001,Bordeaux,3-0,2-0,Marseille
+Sat Jan 27 2001,Auxerre,1-1,0-0,Guingamp
+Sat Jan 27 2001,Lille,4-1,3-1,St Etienne
+Sat Jan 27 2001,Lyon,3-1,1-0,Nantes
+Sat Jan 27 2001,Paris SG,1-0,1-0,Lens
+Sat Jan 27 2001,Rennes,1-2,0-0,Bastia
+Sat Jan 27 2001,Sedan,0-0,0-0,Metz
+Sat Jan 27 2001,Strasbourg,3-3,1-1,Troyes
+Sat Jan 27 2001,Toulouse,2-1,1-1,Monaco
+Sat Feb 3 2001,Bastia,0-1,0-1,Sedan
+Sat Feb 3 2001,Guingamp,2-3,1-2,Lyon
+Sat Feb 3 2001,Marseille,0-1,0-1,Auxerre
+Sat Feb 3 2001,Monaco,6-1,3-1,Metz
+Sat Feb 3 2001,Nantes,1-0,0-0,Paris SG
+Sat Feb 3 2001,St Etienne,3-3,2-1,Strasbourg
+Sat Feb 3 2001,Toulouse,1-1,1-0,Bordeaux
+Sun Feb 4 2001,Lens,0-1,0-0,Lille
+Tue Feb 6 2001,Lyon,1-1,0-0,Marseille
+Tue Feb 6 2001,Rennes,3-0,3-0,St Etienne
+Wed Feb 7 2001,Auxerre,2-0,0-0,Toulouse
+Wed Feb 7 2001,Bordeaux,2-1,1-1,Monaco
+Wed Feb 7 2001,Lille,1-1,0-1,Nantes
+Wed Feb 7 2001,Metz,3-2,2-1,Bastia
+Wed Feb 7 2001,Paris SG,1-3,1-2,Guingamp
+Wed Feb 7 2001,Sedan,2-1,0-1,Troyes
+Wed Feb 7 2001,Strasbourg,1-0,0-0,Lens
+Sat Feb 17 2001,Guingamp,0-1,0-1,Lille
+Sat Feb 17 2001,Lens,1-2,0-0,Rennes
+Sat Feb 17 2001,Marseille,1-0,0-0,Paris SG
+Sat Feb 17 2001,Monaco,2-1,2-0,Bastia
+Sat Feb 17 2001,St Etienne,0-2,0-0,Sedan
+Sat Feb 17 2001,Toulouse,1-1,0-1,Lyon
+Sat Feb 17 2001,Troyes,3-2,2-1,Metz
+Sun Feb 18 2001,Bordeaux,1-0,1-0,Auxerre
+Sun Feb 18 2001,Nantes,1-0,0-0,Strasbourg
+Fri Feb 23 2001,Troyes,3-1,1-0,Rennes
+Sat Mar 3 2001,Auxerre,1-0,1-0,Monaco
+Sat Mar 3 2001,Bastia,2-2,2-2,Troyes
+Sat Mar 3 2001,Lille,1-0,1-0,Marseille
+Sat Mar 3 2001,Lyon,2-1,0-1,Bordeaux
+Sat Mar 3 2001,Metz,3-0,1-0,St Etienne
+Sat Mar 3 2001,Paris SG,3-0,0-0,Toulouse
+Sat Mar 3 2001,Sedan,2-2,0-1,Lens
+Sat Mar 3 2001,Strasbourg,0-1,0-0,Guingamp
+Sun Mar 4 2001,Rennes,0-2,0-0,Nantes
+Sat Mar 17 2001,Auxerre,0-3,0-1,Lyon
+Sat Mar 17 2001,Guingamp,1-6,0-3,Rennes
+Sat Mar 17 2001,Lens,1-1,1-1,Metz
+Sat Mar 17 2001,Marseille,0-0,0-0,Strasbourg
+Sat Mar 17 2001,Monaco,4-3,2-1,Troyes
+Sat Mar 17 2001,Nantes,4-1,1-0,Sedan
+Sat Mar 17 2001,St Etienne,2-1,1-0,Bastia
+Sat Mar 17 2001,Toulouse,0-2,0-1,Lille
+Sun Mar 18 2001,Bordeaux,2-0,1-0,Paris SG
+Fri Apr 6 2001,Lille,2-2,0-1,Bordeaux
+Sat Apr 7 2001,Bastia,1-3,0-2,Lens
+Sat Apr 7 2001,Lyon,2-1,0-0,Monaco
+Sat Apr 7 2001,Metz,1-2,1-1,Nantes
+Sat Apr 7 2001,Paris SG,3-0,1-0,Auxerre
+Sat Apr 7 2001,Rennes,2-0,0-0,Marseille
+Sat Apr 7 2001,Sedan,2-2,1-1,Guingamp
+Sat Apr 7 2001,Strasbourg,1-0,1-0,Toulouse
+Sat Apr 7 2001,Troyes,0-0,0-0,St Etienne
+Wed Apr 11 2001,Strasbourg,0-1,0-0,Metz
+Sat Apr 14 2001,Auxerre,1-1,1-1,Lille
+Sat Apr 14 2001,Bordeaux,2-1,0-0,Strasbourg
+Sat Apr 14 2001,Guingamp,1-3,1-0,Metz
+Sat Apr 14 2001,Marseille,2-1,2-1,Sedan
+Sat Apr 14 2001,Monaco,5-3,0-2,St Etienne
+Sat Apr 14 2001,Nantes,1-0,1-0,Bastia
+Sat Apr 14 2001,Toulouse,2-0,1-0,Rennes
+Sun Apr 15 2001,Lyon,2-0,1-0,Paris SG
+Sat Apr 28 2001,Bastia,2-0,1-0,Guingamp
+Sat Apr 28 2001,Lille,1-2,1-1,Lyon
+Sat Apr 28 2001,Metz,1-0,0-0,Marseille
+Sat Apr 28 2001,Paris SG,1-1,0-0,Monaco
+Sat Apr 28 2001,Rennes,1-2,0-2,Bordeaux
+Sat Apr 28 2001,Sedan,2-3,2-1,Toulouse
+Sat Apr 28 2001,St Etienne,1-1,0-1,Lens
+Sat Apr 28 2001,Strasbourg,1-0,1-0,Auxerre
+Sun Apr 29 2001,Troyes,0-1,0-0,Nantes
+Fri May 4 2001,Lens,1-1,1-0,Troyes
+Sat May 12 2001,Auxerre,0-1,0-1,Rennes
+Sat May 12 2001,Bordeaux,2-2,1-1,Sedan
+Sat May 12 2001,Guingamp,1-1,1-0,Troyes
+Sat May 12 2001,Lyon,5-0,2-0,Strasbourg
+Sat May 12 2001,Marseille,2-1,1-0,Bastia
+Sat May 12 2001,Monaco,0-0,0-0,Lens
+Sat May 12 2001,Nantes,1-0,1-0,St Etienne
+Sat May 12 2001,Paris SG,2-2,0-1,Lille
+Sat May 12 2001,Toulouse,2-1,0-1,Metz
+Sat May 19 2001,Bastia,5-1,2-1,Toulouse
+Sat May 19 2001,Lens,1-4,0-1,Nantes
+Sat May 19 2001,Metz,2-0,0-0,Bordeaux
+Sat May 19 2001,Monaco,1-2,1-1,Lille
+Sat May 19 2001,Rennes,3-4,3-2,Lyon
+Sat May 19 2001,Sedan,1-0,1-0,Auxerre
+Sat May 19 2001,St Etienne,2-2,1-0,Guingamp
+Sat May 19 2001,Strasbourg,1-2,0-0,Paris SG
+Sat May 19 2001,Troyes,1-1,1-1,Marseille

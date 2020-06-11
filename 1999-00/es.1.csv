@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 21 1999,Ath Bilbao,1-0,0-0,Betis
+Sat Aug 21 1999,Mallorca,1-2,0-0,Real Madrid
+Sat Aug 21 1999,Valencia,1-2,0-1,Santander
+Sun Aug 22 1999,Ath Madrid,0-2,0-1,Vallecano
+Sun Aug 22 1999,Barcelona,2-0,0-0,Zaragoza
+Sun Aug 22 1999,La Coruna,4-1,3-1,Alaves
+Sun Aug 22 1999,Malaga,1-0,0-0,Espanol
+Sun Aug 22 1999,Numancia,1-0,1-0,Valladolid
+Sun Aug 22 1999,Oviedo,1-0,0-0,Celta
+Sun Aug 22 1999,Sevilla,2-2,2-1,Sociedad
+Sat Aug 28 1999,Sociedad,4-1,0-1,Ath Madrid
+Sun Aug 29 1999,Alaves,2-1,0-1,Malaga
+Sun Aug 29 1999,Betis,0-0,0-0,La Coruna
+Sun Aug 29 1999,Celta,2-1,1-0,Sevilla
+Sun Aug 29 1999,Espanol,3-2,2-0,Valencia
+Sun Aug 29 1999,Real Madrid,4-1,0-0,Numancia
+Sun Aug 29 1999,Santander,1-2,0-2,Barcelona
+Sun Aug 29 1999,Valladolid,1-0,1-0,Ath Bilbao
+Sun Aug 29 1999,Vallecano,2-1,0-1,Mallorca
+Sun Aug 29 1999,Zaragoza,4-0,2-0,Oviedo
+Sat Sep 11 1999,Barcelona,3-0,0-0,Espanol
+Sat Sep 11 1999,La Coruna,2-0,2-0,Valladolid
+Sat Sep 11 1999,Valencia,0-2,0-0,Alaves
+Sun Sep 12 1999,Ath Bilbao,2-2,2-1,Real Madrid
+Sun Sep 12 1999,Ath Madrid,1-2,1-1,Celta
+Sun Sep 12 1999,Malaga,3-0,1-0,Betis
+Sun Sep 12 1999,Mallorca,3-0,3-0,Numancia
+Sun Sep 12 1999,Oviedo,1-2,0-2,Santander
+Sun Sep 12 1999,Sevilla,0-0,0-0,Zaragoza
+Sun Sep 12 1999,Vallecano,2-1,1-0,Sociedad
+Sat Sep 18 1999,Alaves,2-1,1-1,Barcelona
+Sat Sep 18 1999,Betis,1-0,1-0,Valencia
+Sat Sep 18 1999,Espanol,2-1,0-1,Oviedo
+Sat Sep 18 1999,Real Madrid,1-1,0-0,La Coruna
+Sat Sep 18 1999,Valladolid,4-2,1-1,Malaga
+Sun Sep 19 1999,Celta,0-1,0-0,Vallecano
+Sun Sep 19 1999,Numancia,1-1,1-1,Ath Bilbao
+Sun Sep 19 1999,Santander,2-2,1-2,Sevilla
+Sun Sep 19 1999,Sociedad,2-1,1-0,Mallorca
+Sun Sep 19 1999,Zaragoza,1-1,1-1,Ath Madrid
+Sat Sep 25 1999,Barcelona,4-1,2-1,Betis
+Sat Sep 25 1999,Malaga,1-1,0-1,Real Madrid
+Sat Sep 25 1999,Sociedad,0-2,0-0,Celta
+Sat Sep 25 1999,Valencia,0-0,0-0,Valladolid
+Sun Sep 26 1999,Ath Madrid,2-0,0-0,Santander
+Sun Sep 26 1999,La Coruna,0-2,0-1,Numancia
+Sun Sep 26 1999,Mallorca,2-1,1-0,Ath Bilbao
+Sun Sep 26 1999,Oviedo,1-0,1-0,Alaves
+Sun Sep 26 1999,Sevilla,1-2,1-1,Espanol
+Sun Sep 26 1999,Vallecano,0-1,0-0,Zaragoza
+Sat Oct 2 1999,Numancia,1-1,0-1,Malaga
+Sat Oct 2 1999,Valladolid,0-2,0-1,Barcelona
+Sun Oct 3 1999,Alaves,0-0,0-0,Sevilla
+Sun Oct 3 1999,Ath Bilbao,2-3,0-1,La Coruna
+Sun Oct 3 1999,Betis,1-0,1-0,Oviedo
+Sun Oct 3 1999,Celta,1-0,0-0,Mallorca
+Sun Oct 3 1999,Espanol,3-1,1-1,Ath Madrid
+Sun Oct 3 1999,Real Madrid,2-3,0-3,Valencia
+Sun Oct 3 1999,Santander,1-1,0-0,Vallecano
+Sun Oct 3 1999,Zaragoza,2-0,0-0,Sociedad
+Mon Oct 11 1999,Ath Madrid,1-0,0-0,Alaves
+Tue Oct 12 1999,Malaga,3-4,1-1,Ath Bilbao
+Tue Oct 12 1999,Mallorca,2-2,0-0,La Coruna
+Tue Oct 12 1999,Sevilla,3-0,1-0,Betis
+Wed Oct 13 1999,Barcelona,2-2,1-1,Real Madrid
+Wed Oct 13 1999,Celta,2-1,1-1,Zaragoza
+Wed Oct 13 1999,Oviedo,1-1,1-0,Valladolid
+Wed Oct 13 1999,Sociedad,2-5,1-0,Santander
+Wed Oct 13 1999,Valencia,4-0,1-0,Numancia
+Wed Oct 13 1999,Vallecano,2-1,0-0,Espanol
+Sat Oct 16 1999,Ath Bilbao,1-0,1-0,Valencia
+Sat Oct 16 1999,La Coruna,4-1,1-1,Malaga
+Sat Oct 16 1999,Numancia,3-3,0-1,Barcelona
+Sat Oct 16 1999,Real Madrid,2-2,2-1,Oviedo
+Sat Oct 16 1999,Santander,3-0,3-0,Celta
+Sun Oct 17 1999,Alaves,0-1,0-0,Vallecano
+Sun Oct 17 1999,Betis,2-1,1-1,Ath Madrid
+Sun Oct 17 1999,Espanol,0-0,0-0,Sociedad
+Sun Oct 17 1999,Valladolid,2-1,1-1,Sevilla
+Sun Oct 17 1999,Zaragoza,3-0,0-0,Mallorca
+Sat Oct 23 1999,Barcelona,4-0,1-0,Ath Bilbao
+Sat Oct 23 1999,Sevilla,1-1,1-0,Real Madrid
+Sat Oct 23 1999,Valencia,2-0,1-0,La Coruna
+Sun Oct 24 1999,Ath Madrid,3-1,1-0,Valladolid
+Sun Oct 24 1999,Celta,2-1,1-1,Espanol
+Sun Oct 24 1999,Mallorca,2-1,2-0,Malaga
+Sun Oct 24 1999,Oviedo,1-0,0-0,Numancia
+Sun Oct 24 1999,Sociedad,1-1,1-1,Alaves
+Sun Oct 24 1999,Vallecano,1-3,0-0,Betis
+Sun Oct 24 1999,Zaragoza,4-1,1-0,Santander
+Sat Oct 30 1999,La Coruna,2-1,2-0,Barcelona
+Sat Oct 30 1999,Malaga,1-1,1-0,Valencia
+Sat Oct 30 1999,Real Madrid,1-3,1-3,Ath Madrid
+Sun Oct 31 1999,Alaves,1-0,0-0,Celta
+Sun Oct 31 1999,Ath Bilbao,1-1,1-1,Oviedo
+Sun Oct 31 1999,Betis,1-0,1-0,Sociedad
+Sun Oct 31 1999,Espanol,1-1,0-1,Zaragoza
+Sun Oct 31 1999,Numancia,2-0,1-0,Sevilla
+Sun Oct 31 1999,Santander,1-1,0-0,Mallorca
+Sun Oct 31 1999,Valladolid,1-2,0-1,Vallecano
+Sat Nov 6 1999,Vallecano,2-3,2-0,Real Madrid
+Sun Nov 7 1999,Ath Madrid,2-2,2-0,Numancia
+Sun Nov 7 1999,Barcelona,1-2,1-2,Malaga
+Sun Nov 7 1999,Celta,5-1,3-1,Betis
+Sun Nov 7 1999,Mallorca,1-0,0-0,Valencia
+Sun Nov 7 1999,Oviedo,0-1,0-0,La Coruna
+Sun Nov 7 1999,Santander,2-2,1-1,Espanol
+Sun Nov 7 1999,Sevilla,0-0,0-0,Ath Bilbao
+Sun Nov 7 1999,Sociedad,3-0,2-0,Valladolid
+Sun Nov 7 1999,Zaragoza,2-1,1-0,Alaves
+Sat Nov 20 1999,Ath Bilbao,4-2,2-1,Ath Madrid
+Sat Nov 20 1999,Valencia,3-1,2-1,Barcelona
+Sun Nov 21 1999,Betis,2-0,1-0,Zaragoza
+Sun Nov 21 1999,Espanol,1-2,0-2,Mallorca
+Sun Nov 21 1999,Malaga,4-0,2-0,Oviedo
+Sun Nov 21 1999,Numancia,3-1,0-0,Vallecano
+Sun Nov 21 1999,Real Madrid,1-1,0-0,Sociedad
+Sun Nov 21 1999,Valladolid,1-3,0-1,Celta
+Mon Nov 22 1999,La Coruna,5-2,2-1,Sevilla
+Sat Nov 27 1999,Sevilla,0-0,0-0,Malaga
+Sun Nov 28 1999,Ath Madrid,1-3,0-3,La Coruna
+Sun Nov 28 1999,Celta,1-0,1-0,Real Madrid
+Sun Nov 28 1999,Espanol,2-3,1-2,Alaves
+Sun Nov 28 1999,Mallorca,3-2,2-1,Barcelona
+Sun Nov 28 1999,Oviedo,0-0,0-0,Valencia
+Sun Nov 28 1999,Santander,1-1,1-1,Betis
+Sun Nov 28 1999,Sociedad,2-1,0-1,Numancia
+Sun Nov 28 1999,Vallecano,1-2,0-2,Ath Bilbao
+Sun Nov 28 1999,Zaragoza,1-1,1-0,Valladolid
+Sat Dec 4 1999,Ath Bilbao,1-1,1-0,Sociedad
+Sat Dec 4 1999,Barcelona,3-2,3-0,Oviedo
+Sat Dec 4 1999,Real Madrid,1-5,0-3,Zaragoza
+Sat Dec 4 1999,Valencia,2-0,1-0,Sevilla
+Sun Dec 5 1999,Alaves,2-2,1-0,Mallorca
+Sun Dec 5 1999,Betis,2-5,1-0,Espanol
+Sun Dec 5 1999,La Coruna,3-2,3-1,Vallecano
+Sun Dec 5 1999,Malaga,2-3,1-2,Ath Madrid
+Sun Dec 5 1999,Numancia,3-1,1-0,Celta
+Sun Dec 5 1999,Valladolid,1-0,1-0,Santander
+Wed Dec 8 1999,Alaves,2-1,1-0,Santander
+Sat Dec 11 1999,Sevilla,3-2,1-1,Barcelona
+Sun Dec 12 1999,Alaves,2-0,1-0,Betis
+Sun Dec 12 1999,Ath Madrid,1-2,1-1,Valencia
+Sun Dec 12 1999,Celta,1-1,1-0,Ath Bilbao
+Sun Dec 12 1999,Espanol,1-1,1-0,Valladolid
+Sun Dec 12 1999,Mallorca,1-1,0-0,Oviedo
+Sun Dec 12 1999,Santander,1-1,0-1,Real Madrid
+Sun Dec 12 1999,Sociedad,0-1,0-1,La Coruna
+Sun Dec 12 1999,Vallecano,4-1,2-1,Malaga
+Sun Dec 12 1999,Zaragoza,3-3,1-1,Numancia
+Sat Dec 18 1999,La Coruna,1-0,0-0,Celta
+Sat Dec 18 1999,Real Madrid,2-1,1-1,Espanol
+Sat Dec 18 1999,Valladolid,1-1,0-1,Alaves
+Sun Dec 19 1999,Ath Bilbao,2-2,2-2,Zaragoza
+Sun Dec 19 1999,Barcelona,2-1,1-1,Ath Madrid
+Sun Dec 19 1999,Betis,1-0,0-0,Mallorca
+Sun Dec 19 1999,Malaga,0-0,0-0,Sociedad
+Sun Dec 19 1999,Numancia,2-1,1-0,Santander
+Sun Dec 19 1999,Oviedo,4-2,1-1,Sevilla
+Sun Dec 19 1999,Valencia,3-1,1-0,Vallecano
+Tue Dec 21 1999,Alaves,1-3,0-1,Real Madrid
+Wed Dec 22 1999,Ath Madrid,5-0,3-0,Oviedo
+Wed Dec 22 1999,Betis,0-1,0-0,Valladolid
+Wed Dec 22 1999,Celta,2-4,1-1,Malaga
+Wed Dec 22 1999,Espanol,3-1,0-1,Numancia
+Wed Dec 22 1999,Mallorca,3-1,0-0,Sevilla
+Wed Dec 22 1999,Santander,2-2,1-1,Ath Bilbao
+Wed Dec 22 1999,Sociedad,0-0,0-0,Valencia
+Wed Dec 22 1999,Vallecano,1-1,1-0,Barcelona
+Wed Dec 22 1999,Zaragoza,2-1,1-0,La Coruna
+Tue Jan 4 2000,Valencia,1-1,1-0,Celta
+Wed Jan 5 2000,Ath Bilbao,2-1,1-1,Espanol
+Wed Jan 5 2000,Barcelona,3-1,2-0,Sociedad
+Wed Jan 5 2000,La Coruna,0-3,0-1,Santander
+Wed Jan 5 2000,Malaga,0-0,0-0,Zaragoza
+Wed Jan 5 2000,Mallorca,0-0,0-0,Valladolid
+Wed Jan 5 2000,Numancia,0-0,0-0,Alaves
+Wed Jan 5 2000,Oviedo,2-0,1-0,Vallecano
+Wed Jan 5 2000,Sevilla,2-1,2-0,Ath Madrid
+Sat Jan 8 2000,Espanol,0-0,0-0,La Coruna
+Sun Jan 9 2000,Alaves,1-2,1-1,Ath Bilbao
+Sun Jan 9 2000,Ath Madrid,1-0,0-0,Mallorca
+Sun Jan 9 2000,Betis,1-2,1-0,Numancia
+Sun Jan 9 2000,Celta,0-2,0-1,Barcelona
+Sun Jan 9 2000,Santander,2-3,1-1,Malaga
+Sun Jan 9 2000,Sociedad,0-0,0-0,Oviedo
+Sun Jan 9 2000,Vallecano,2-0,1-0,Sevilla
+Sun Jan 9 2000,Zaragoza,4-2,2-1,Valencia
+Sat Jan 15 2000,Vallecano,1-1,1-1,Ath Madrid
+Sun Jan 16 2000,Alaves,2-1,1-0,La Coruna
+Sun Jan 16 2000,Betis,2-1,1-0,Ath Bilbao
+Sun Jan 16 2000,Celta,5-3,4-2,Oviedo
+Sun Jan 16 2000,Espanol,0-2,0-0,Malaga
+Sun Jan 16 2000,Santander,1-1,0-1,Valencia
+Sun Jan 16 2000,Sociedad,1-1,0-1,Sevilla
+Sun Jan 16 2000,Valladolid,2-0,0-0,Numancia
+Sun Jan 16 2000,Zaragoza,0-0,0-0,Barcelona
+Mon Jan 17 2000,Real Madrid,2-1,0-1,Mallorca
+Sat Jan 22 2000,La Coruna,2-0,1-0,Betis
+Sun Jan 23 2000,Ath Bilbao,1-0,1-0,Valladolid
+Sun Jan 23 2000,Ath Madrid,1-1,1-0,Sociedad
+Sun Jan 23 2000,Barcelona,1-0,1-0,Santander
+Sun Jan 23 2000,Malaga,0-1,0-1,Alaves
+Sun Jan 23 2000,Mallorca,2-1,1-0,Vallecano
+Sun Jan 23 2000,Numancia,0-0,0-0,Real Madrid
+Sun Jan 23 2000,Oviedo,1-0,0-0,Zaragoza
+Sun Jan 23 2000,Sevilla,0-1,0-0,Celta
+Sun Jan 23 2000,Valencia,1-2,1-1,Espanol
+Wed Jan 26 2000,Real Madrid,2-1,0-0,Betis
+Sat Jan 29 2000,Celta,0-1,0-1,Ath Madrid
+Sat Jan 29 2000,Espanol,1-1,1-1,Barcelona
+Sun Jan 30 2000,Alaves,0-1,0-0,Valencia
+Sun Jan 30 2000,Betis,0-0,0-0,Malaga
+Sun Jan 30 2000,Numancia,3-1,3-1,Mallorca
+Sun Jan 30 2000,Real Madrid,3-1,1-1,Ath Bilbao
+Sun Jan 30 2000,Santander,3-1,2-0,Oviedo
+Sun Jan 30 2000,Sociedad,2-1,2-0,Vallecano
+Sun Jan 30 2000,Valladolid,4-1,1-0,La Coruna
+Sun Jan 30 2000,Zaragoza,2-1,1-0,Sevilla
+Sat Feb 5 2000,Valencia,3-1,1-0,Betis
+Sun Feb 6 2000,Ath Bilbao,2-1,1-1,Numancia
+Sun Feb 6 2000,Ath Madrid,2-2,1-0,Zaragoza
+Sun Feb 6 2000,Barcelona,0-1,0-1,Alaves
+Sun Feb 6 2000,La Coruna,5-2,2-1,Real Madrid
+Sun Feb 6 2000,Malaga,0-0,0-0,Valladolid
+Sun Feb 6 2000,Mallorca,2-1,1-0,Sociedad
+Sun Feb 6 2000,Oviedo,1-0,0-0,Espanol
+Sun Feb 6 2000,Sevilla,1-0,0-0,Santander
+Sun Feb 6 2000,Vallecano,1-0,1-0,Celta
+Sat Feb 12 2000,Ath Bilbao,1-1,0-1,Mallorca
+Sat Feb 12 2000,Real Madrid,1-0,0-0,Malaga
+Sat Feb 12 2000,Valladolid,0-0,0-0,Valencia
+Sun Feb 13 2000,Alaves,1-0,1-0,Oviedo
+Sun Feb 13 2000,Betis,2-1,1-0,Barcelona
+Sun Feb 13 2000,Celta,4-1,0-1,Sociedad
+Sun Feb 13 2000,Espanol,2-2,1-1,Sevilla
+Sun Feb 13 2000,Numancia,1-0,0-0,La Coruna
+Sun Feb 13 2000,Santander,2-1,1-1,Ath Madrid
+Sun Feb 13 2000,Zaragoza,1-1,1-0,Vallecano
+Tue Feb 15 2000,Valladolid,0-1,0-0,Real Madrid
+Sat Feb 19 2000,La Coruna,2-0,1-0,Ath Bilbao
+Sun Feb 20 2000,Ath Madrid,1-1,1-0,Espanol
+Sun Feb 20 2000,Barcelona,4-0,2-0,Valladolid
+Sun Feb 20 2000,Malaga,3-1,1-1,Numancia
+Sun Feb 20 2000,Mallorca,1-0,0-0,Celta
+Sun Feb 20 2000,Oviedo,1-1,0-1,Betis
+Sun Feb 20 2000,Sevilla,2-2,1-1,Alaves
+Sun Feb 20 2000,Sociedad,2-1,1-0,Zaragoza
+Sun Feb 20 2000,Valencia,1-1,1-0,Real Madrid
+Sun Feb 20 2000,Vallecano,1-2,1-1,Santander
+Sat Feb 26 2000,Numancia,1-2,0-1,Valencia
+Sat Feb 26 2000,Real Madrid,3-0,2-0,Barcelona
+Sun Feb 27 2000,Alaves,2-0,0-0,Ath Madrid
+Sun Feb 27 2000,Ath Bilbao,2-2,1-2,Malaga
+Sun Feb 27 2000,Betis,1-1,1-1,Sevilla
+Sun Feb 27 2000,Espanol,5-1,2-1,Vallecano
+Sun Feb 27 2000,La Coruna,2-1,1-0,Mallorca
+Sun Feb 27 2000,Santander,0-0,0-0,Sociedad
+Sun Feb 27 2000,Valladolid,2-1,1-0,Oviedo
+Sun Feb 27 2000,Zaragoza,2-1,0-1,Celta
+Sat Mar 4 2000,Barcelona,4-0,1-0,Numancia
+Sat Mar 4 2000,Oviedo,1-1,0-0,Real Madrid
+Sat Mar 4 2000,Valencia,2-0,0-0,Ath Bilbao
+Sun Mar 5 2000,Ath Madrid,0-0,0-0,Betis
+Sun Mar 5 2000,Celta,2-0,1-0,Santander
+Sun Mar 5 2000,Malaga,1-0,1-0,La Coruna
+Sun Mar 5 2000,Mallorca,1-1,1-0,Zaragoza
+Sun Mar 5 2000,Sevilla,0-1,0-0,Valladolid
+Sun Mar 5 2000,Sociedad,1-0,1-0,Espanol
+Sun Mar 5 2000,Vallecano,0-1,0-0,Alaves
+Sat Mar 11 2000,Ath Bilbao,0-4,0-2,Barcelona
+Sat Mar 11 2000,Betis,1-1,1-0,Vallecano
+Sat Mar 11 2000,Real Madrid,3-1,3-0,Sevilla
+Sun Mar 12 2000,Alaves,2-1,0-1,Sociedad
+Sun Mar 12 2000,Espanol,3-0,0-0,Celta
+Sun Mar 12 2000,La Coruna,2-0,1-0,Valencia
+Sun Mar 12 2000,Malaga,0-0,0-0,Mallorca
+Sun Mar 12 2000,Numancia,1-1,0-1,Oviedo
+Sun Mar 12 2000,Santander,1-2,1-0,Zaragoza
+Sun Mar 12 2000,Valladolid,1-0,1-0,Ath Madrid
+Sat Mar 18 2000,Ath Madrid,1-1,0-1,Real Madrid
+Sat Mar 18 2000,Barcelona,2-1,2-0,La Coruna
+Sat Mar 18 2000,Valencia,2-2,0-0,Malaga
+Sun Mar 19 2000,Celta,1-1,0-0,Alaves
+Sun Mar 19 2000,Mallorca,1-2,0-1,Santander
+Sun Mar 19 2000,Oviedo,1-0,1-0,Ath Bilbao
+Sun Mar 19 2000,Sevilla,4-0,1-0,Numancia
+Sun Mar 19 2000,Sociedad,1-0,0-0,Betis
+Sun Mar 19 2000,Vallecano,4-1,1-0,Valladolid
+Sun Mar 19 2000,Zaragoza,1-1,1-0,Espanol
+Sat Mar 25 2000,Alaves,0-2,0-0,Zaragoza
+Sat Mar 25 2000,Ath Bilbao,1-1,1-0,Sevilla
+Sat Mar 25 2000,Espanol,1-0,0-0,Santander
+Sat Mar 25 2000,Malaga,1-2,1-0,Barcelona
+Sat Mar 25 2000,Numancia,3-0,1-0,Ath Madrid
+Sat Mar 25 2000,Real Madrid,0-0,0-0,Vallecano
+Sat Mar 25 2000,Valencia,1-0,0-0,Mallorca
+Sat Mar 25 2000,Valladolid,2-1,0-1,Sociedad
+Sun Mar 26 2000,Betis,0-0,0-0,Celta
+Sun Mar 26 2000,La Coruna,3-1,2-0,Oviedo
+Sat Apr 1 2000,Sociedad,1-1,0-1,Real Madrid
+Sun Apr 2 2000,Ath Madrid,1-2,1-1,Ath Bilbao
+Sun Apr 2 2000,Barcelona,3-0,0-0,Valencia
+Sun Apr 2 2000,Celta,1-1,1-0,Valladolid
+Sun Apr 2 2000,Mallorca,1-3,1-1,Espanol
+Sun Apr 2 2000,Oviedo,2-2,2-1,Malaga
+Sun Apr 2 2000,Santander,0-0,0-0,Alaves
+Sun Apr 2 2000,Sevilla,1-3,1-2,La Coruna
+Sun Apr 2 2000,Vallecano,0-0,0-0,Numancia
+Sun Apr 2 2000,Zaragoza,1-0,0-0,Betis
+Sat Apr 8 2000,La Coruna,4-1,3-0,Ath Madrid
+Sun Apr 9 2000,Alaves,0-0,0-0,Espanol
+Sun Apr 9 2000,Ath Bilbao,1-2,0-2,Vallecano
+Sun Apr 9 2000,Barcelona,0-3,0-1,Mallorca
+Sun Apr 9 2000,Betis,2-2,1-0,Santander
+Sun Apr 9 2000,Malaga,3-0,0-0,Sevilla
+Sun Apr 9 2000,Numancia,1-2,0-0,Sociedad
+Sun Apr 9 2000,Real Madrid,1-0,0-0,Celta
+Sun Apr 9 2000,Valencia,6-2,2-0,Oviedo
+Sun Apr 9 2000,Valladolid,1-1,0-0,Zaragoza
+Sat Apr 15 2000,Oviedo,3-0,1-0,Barcelona
+Sat Apr 15 2000,Sevilla,1-2,0-0,Valencia
+Sat Apr 15 2000,Zaragoza,0-1,0-0,Real Madrid
+Sun Apr 16 2000,Ath Madrid,2-2,1-1,Malaga
+Sun Apr 16 2000,Celta,0-0,0-0,Numancia
+Sun Apr 16 2000,Espanol,3-0,0-0,Betis
+Sun Apr 16 2000,Mallorca,2-0,1-0,Alaves
+Sun Apr 16 2000,Santander,1-1,1-0,Valladolid
+Sun Apr 16 2000,Sociedad,4-1,1-1,Ath Bilbao
+Sun Apr 16 2000,Vallecano,2-0,1-0,La Coruna
+Sat Apr 22 2000,Ath Bilbao,1-0,0-0,Celta
+Sat Apr 22 2000,Barcelona,2-0,1-0,Sevilla
+Sat Apr 22 2000,Malaga,2-0,1-0,Vallecano
+Sat Apr 22 2000,Numancia,1-2,1-2,Zaragoza
+Sat Apr 22 2000,Real Madrid,2-4,1-2,Santander
+Sat Apr 22 2000,Valencia,2-0,1-0,Ath Madrid
+Sat Apr 22 2000,Valladolid,1-0,0-0,Espanol
+Sun Apr 23 2000,Betis,0-1,0-0,Alaves
+Sun Apr 23 2000,La Coruna,2-0,2-0,Sociedad
+Sun Apr 23 2000,Oviedo,0-0,0-0,Mallorca
+Sat Apr 29 2000,Ath Madrid,0-3,0-1,Barcelona
+Sat Apr 29 2000,Espanol,0-2,0-0,Real Madrid
+Sat Apr 29 2000,Vallecano,1-3,0-2,Valencia
+Sun Apr 30 2000,Alaves,1-0,1-0,Valladolid
+Sun Apr 30 2000,Celta,2-1,1-0,La Coruna
+Sun Apr 30 2000,Mallorca,4-0,3-0,Betis
+Sun Apr 30 2000,Santander,1-1,1-0,Numancia
+Sun Apr 30 2000,Sevilla,2-3,0-1,Oviedo
+Sun Apr 30 2000,Sociedad,2-2,1-0,Malaga
+Sun Apr 30 2000,Zaragoza,0-0,0-0,Ath Bilbao
+Sat May 6 2000,Barcelona,0-2,0-1,Vallecano
+Sat May 6 2000,Numancia,2-0,1-0,Espanol
+Sat May 6 2000,Real Madrid,0-1,0-0,Alaves
+Sat May 6 2000,Valencia,4-0,1-0,Sociedad
+Sun May 7 2000,Ath Bilbao,2-2,2-2,Santander
+Sun May 7 2000,La Coruna,2-2,0-0,Zaragoza
+Sun May 7 2000,Malaga,0-1,0-1,Celta
+Sun May 7 2000,Oviedo,2-2,1-0,Ath Madrid
+Sun May 7 2000,Sevilla,0-4,0-1,Mallorca
+Sun May 7 2000,Valladolid,0-3,0-1,Betis
+Sat May 13 2000,Ath Madrid,1-1,1-1,Sevilla
+Sun May 14 2000,Alaves,2-2,0-1,Numancia
+Sun May 14 2000,Betis,0-2,0-1,Real Madrid
+Sun May 14 2000,Celta,0-0,0-0,Valencia
+Sun May 14 2000,Espanol,0-0,0-0,Ath Bilbao
+Sun May 14 2000,Santander,0-0,0-0,La Coruna
+Sun May 14 2000,Sociedad,0-0,0-0,Barcelona
+Sun May 14 2000,Valladolid,2-1,0-0,Mallorca
+Sun May 14 2000,Vallecano,1-2,1-1,Oviedo
+Sun May 14 2000,Zaragoza,3-2,1-1,Malaga
+Fri May 19 2000,Ath Bilbao,2-1,1-1,Alaves
+Fri May 19 2000,Barcelona,2-2,0-2,Celta
+Fri May 19 2000,La Coruna,2-0,2-0,Espanol
+Fri May 19 2000,Mallorca,1-2,1-2,Ath Madrid
+Fri May 19 2000,Real Madrid,0-1,0-1,Valladolid
+Fri May 19 2000,Sevilla,2-3,1-2,Vallecano
+Fri May 19 2000,Valencia,2-1,0-1,Zaragoza
+Sat May 20 2000,Malaga,0-0,0-0,Santander
+Sat May 20 2000,Numancia,1-2,0-0,Betis
+Sat May 20 2000,Oviedo,0-1,0-0,Sociedad

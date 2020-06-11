@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 23 2014,Kerkyra,2-1,2-0,Panthrakikos
+Sat Aug 23 2014,OFI,1-0,0-0,Panetolikos
+Sat Aug 23 2014,Olympiakos,3-1,3-0,Niki Volos
+Sun Aug 24 2014,Atromitos,1-0,1-0,Platanias
+Sun Aug 24 2014,Giannina,3-1,0-1,Asteras Tripolis
+Sun Aug 24 2014,Levadeiakos,1-1,0-0,Panathinaikos
+Sun Aug 24 2014,PAOK,1-1,0-0,Kallonis
+Sun Aug 24 2014,Veria,3-2,1-0,Xanthi
+Mon Aug 25 2014,Panionios,2-1,1-1,Ergotelis
+Sat Aug 30 2014,Kallonis,2-0,1-0,Ergotelis
+Sat Aug 30 2014,Panetolikos,1-1,0-0,Olympiakos
+Sat Aug 30 2014,Panthrakikos,1-1,0-1,Giannina
+Sun Aug 31 2014,Asteras Tripolis,2-1,1-1,Levadeiakos
+Sun Aug 31 2014,Niki Volos,0-1,0-1,Atromitos
+Sun Aug 31 2014,Panathinaikos,2-1,0-0,Panionios
+Sun Aug 31 2014,Platanias,0-4,0-1,PAOK
+Sun Aug 31 2014,Xanthi,0-0,0-0,Kerkyra
+Mon Sep 1 2014,OFI,0-1,0-0,Veria
+Sat Sep 13 2014,Olympiakos,3-0,2-0,OFI
+Sat Sep 13 2014,PAOK,3-0,1-0,Niki Volos
+Sat Sep 13 2014,Veria,2-1,1-1,Kerkyra
+Sun Sep 14 2014,Atromitos,0-0,0-0,Panetolikos
+Sun Sep 14 2014,Giannina,2-2,0-1,Xanthi
+Sun Sep 14 2014,Kallonis,1-0,1-0,Panathinaikos
+Sun Sep 14 2014,Levadeiakos,1-1,1-1,Panthrakikos
+Sun Sep 14 2014,Panionios,2-1,2-1,Asteras Tripolis
+Mon Sep 15 2014,Ergotelis,0-3,0-1,Platanias
+Sat Sep 20 2014,OFI,1-0,0-0,Atromitos
+Sat Sep 20 2014,Olympiakos,3-0,1-0,Veria
+Sat Sep 20 2014,Xanthi,2-0,1-0,Levadeiakos
+Sun Sep 21 2014,Asteras Tripolis,1-0,1-0,Kallonis
+Sun Sep 21 2014,Kerkyra,2-0,1-0,Giannina
+Sun Sep 21 2014,Niki Volos,1-4,1-1,Ergotelis
+Sun Sep 21 2014,Panthrakikos,1-0,0-0,Panionios
+Sun Sep 21 2014,Platanias,2-3,1-1,Panathinaikos
+Mon Sep 22 2014,Panetolikos,0-1,0-1,PAOK
+Sat Sep 27 2014,Atromitos,1-0,1-0,Olympiakos
+Sat Sep 27 2014,Panionios,1-1,1-1,Xanthi
+Sat Sep 27 2014,Platanias,0-1,0-0,Asteras Tripolis
+Sun Sep 28 2014,Ergotelis,1-1,0-1,Panetolikos
+Sun Sep 28 2014,Levadeiakos,2-3,1-2,Kerkyra
+Sun Sep 28 2014,Panathinaikos,1-0,1-0,Niki Volos
+Sun Sep 28 2014,PAOK,4-0,4-0,OFI
+Sun Sep 28 2014,Veria,2-0,0-0,Giannina
+Mon Sep 29 2014,Kallonis,2-0,1-0,Panthrakikos
+Sat Oct 18 2014,Asteras Tripolis,1-1,1-1,Panetolikos
+Sat Oct 18 2014,Ergotelis,2-3,1-1,Olympiakos
+Sat Oct 18 2014,Niki Volos,1-0,1-0,Panthrakikos
+Sun Oct 19 2014,Kallonis,1-0,0-0,Kerkyra
+Sun Oct 19 2014,Panathinaikos,1-2,0-1,OFI
+Sun Oct 19 2014,PAOK,2-1,2-0,Atromitos
+Sun Oct 19 2014,Platanias,1-0,0-0,Xanthi
+Sun Oct 19 2014,Veria,2-1,2-1,Levadeiakos
+Mon Oct 20 2014,Panionios,0-1,0-0,Giannina
+Sat Oct 25 2014,Atromitos,1-1,0-0,Ergotelis
+Sat Oct 25 2014,Giannina,0-0,0-0,Kallonis
+Sat Oct 25 2014,Levadeiakos,1-0,0-0,Panionios
+Sun Oct 26 2014,Kerkyra,1-2,1-1,Platanias
+Sun Oct 26 2014,OFI,2-3,0-1,Asteras Tripolis
+Sun Oct 26 2014,Olympiakos,1-0,0-0,Panathinaikos
+Sun Oct 26 2014,Panetolikos,3-1,1-0,Panthrakikos
+Sun Oct 26 2014,PAOK,4-1,2-0,Veria
+Mon Oct 27 2014,Xanthi,2-0,0-0,Niki Volos
+Sat Nov 1 2014,Asteras Tripolis,0-0,0-0,Olympiakos
+Sat Nov 1 2014,Platanias,0-0,0-0,Giannina
+Sat Nov 1 2014,Veria,2-2,2-1,Panionios
+Sun Nov 2 2014,Ergotelis,0-2,0-1,PAOK
+Sun Nov 2 2014,Niki Volos,0-0,0-0,Kerkyra
+Sun Nov 2 2014,Panathinaikos,2-0,1-0,Atromitos
+Sun Nov 2 2014,Panetolikos,5-2,2-2,Xanthi
+Sun Nov 2 2014,Panthrakikos,0-0,0-0,OFI
+Mon Nov 3 2014,Kallonis,0-0,0-0,Levadeiakos
+Sat Nov 8 2014,Ergotelis,2-2,2-1,Veria
+Sat Nov 8 2014,Kerkyra,1-2,0-2,Panetolikos
+Sat Nov 8 2014,Xanthi,2-1,2-1,OFI
+Sun Nov 9 2014,Giannina,4-0,1-0,Niki Volos
+Sun Nov 9 2014,Levadeiakos,0-0,0-0,Platanias
+Sun Nov 9 2014,Olympiakos,5-1,2-0,Panthrakikos
+Sun Nov 9 2014,Panionios,0-2,0-0,Kallonis
+Sun Nov 9 2014,PAOK,1-2,0-0,Panathinaikos
+Mon Nov 10 2014,Atromitos,4-3,3-1,Asteras Tripolis
+Sat Nov 29 2014,Atromitos,2-0,1-0,Xanthi
+Sat Nov 29 2014,Kallonis,0-0,0-0,Platanias
+Sat Nov 29 2014,Levadeiakos,0-0,0-0,Panetolikos
+Sun Nov 30 2014,Ergotelis,1-4,1-1,Asteras Tripolis
+Sun Nov 30 2014,Giannina,3-0,2-0,OFI
+Sun Nov 30 2014,Kerkyra,0-4,0-1,Olympiakos
+Sun Nov 30 2014,Panathinaikos,2-1,1-0,Veria
+Sun Nov 30 2014,Panionios,2-1,1-0,Niki Volos
+Sun Nov 30 2014,PAOK,3-2,1-1,Panthrakikos
+Wed Dec 3 2014,Atromitos,0-0,0-0,Veria
+Wed Dec 3 2014,Giannina,0-4,0-2,Levadeiakos
+Wed Dec 3 2014,Kerkyra,1-0,1-0,Panionios
+Wed Dec 3 2014,Olympiakos,1-2,1-1,PAOK
+Wed Dec 3 2014,Panthrakikos,1-0,1-0,Platanias
+Wed Dec 3 2014,Xanthi,2-1,2-0,Kallonis
+Thu Dec 4 2014,Niki Volos,0-2,0-1,Asteras Tripolis
+Thu Dec 4 2014,OFI,1-0,0-0,Ergotelis
+Thu Dec 4 2014,Panetolikos,0-1,0-0,Panathinaikos
+Sat Dec 6 2014,Kerkyra,1-1,0-0,Atromitos
+Sat Dec 6 2014,Olympiakos,2-2,0-1,Giannina
+Sat Dec 6 2014,Veria,2-0,1-0,Platanias
+Sun Dec 7 2014,Asteras Tripolis,1-1,1-1,Panathinaikos
+Sun Dec 7 2014,Niki Volos,2-0,0-0,Kallonis
+Sun Dec 7 2014,OFI,0-2,0-0,Levadeiakos
+Sun Dec 7 2014,Panetolikos,2-1,0-0,Panionios
+Sun Dec 7 2014,Xanthi,4-2,1-1,PAOK
+Mon Dec 8 2014,Panthrakikos,0-0,0-0,Ergotelis
+Sat Dec 13 2014,Kallonis,0-0,0-0,Panetolikos
+Sat Dec 13 2014,Levadeiakos,1-2,1-0,Olympiakos
+Sat Dec 13 2014,Platanias,3-1,2-0,Niki Volos
+Sun Dec 14 2014,Asteras Tripolis,2-0,2-0,Veria
+Sun Dec 14 2014,Ergotelis,0-2,0-1,Xanthi
+Sun Dec 14 2014,Giannina,1-0,0-0,Atromitos
+Sun Dec 14 2014,Panathinaikos,4-0,1-0,Panthrakikos
+Sun Dec 14 2014,Panionios,2-0,0-0,OFI
+Sun Dec 14 2014,PAOK,2-1,0-0,Kerkyra
+Wed Dec 17 2014,Atromitos,1-0,1-0,Levadeiakos
+Wed Dec 17 2014,Kerkyra,3-1,0-1,Ergotelis
+Wed Dec 17 2014,OFI,1-1,0-0,Kallonis
+Wed Dec 17 2014,Olympiakos,2-0,1-0,Panionios
+Wed Dec 17 2014,Panetolikos,1-0,1-0,Platanias
+Wed Dec 17 2014,Panthrakikos,1-1,1-1,Asteras Tripolis
+Wed Dec 17 2014,Veria,2-0,1-0,Niki Volos
+Thu Dec 18 2014,Giannina,3-0,1-0,PAOK
+Thu Dec 18 2014,Xanthi,4-2,2-1,Panathinaikos
+Sat Dec 20 2014,Kallonis,0-5,0-1,Olympiakos
+Sat Dec 20 2014,Panthrakikos,1-1,1-0,Veria
+Sat Dec 20 2014,Platanias,1-0,0-0,OFI
+Sun Dec 21 2014,Asteras Tripolis,2-1,1-0,Xanthi
+Sun Dec 21 2014,Ergotelis,1-0,1-0,Giannina
+Sun Dec 21 2014,Levadeiakos,1-2,0-1,PAOK
+Sun Dec 21 2014,Niki Volos,0-3,?,Panetolikos
+Sun Dec 21 2014,Panionios,2-2,1-2,Atromitos
+Mon Dec 22 2014,Panathinaikos,2-0,1-0,Kerkyra
+Sat Jan 3 2015,Kerkyra,1-0,0-0,Asteras Tripolis
+Sat Jan 3 2015,OFI,3-0,?,Niki Volos
+Sat Jan 3 2015,PAOK,3-2,2-2,Panionios
+Sat Jan 3 2015,Veria,1-3,0-1,Panetolikos
+Sun Jan 4 2015,Atromitos,0-0,0-0,Kallonis
+Sun Jan 4 2015,Levadeiakos,1-1,1-1,Ergotelis
+Sun Jan 4 2015,Olympiakos,2-1,1-0,Platanias
+Mon Jan 5 2015,Giannina,0-0,0-0,Panathinaikos
+Mon Jan 5 2015,Xanthi,0-0,0-0,Panthrakikos
+Sat Jan 10 2015,Asteras Tripolis,3-0,3-0,PAOK
+Sat Jan 10 2015,Platanias,3-0,0-0,Panionios
+Sat Jan 10 2015,Veria,1-1,1-1,Kallonis
+Sun Jan 11 2015,Niki Volos,0-3,?,Levadeiakos
+Sun Jan 11 2015,OFI,3-2,1-1,Kerkyra
+Sun Jan 11 2015,Panathinaikos,5-0,5-0,Ergotelis
+Sun Jan 11 2015,Panetolikos,0-0,0-0,Giannina
+Sun Jan 11 2015,Panthrakikos,1-1,1-0,Atromitos
+Sun Jan 11 2015,Xanthi,1-3,0-2,Olympiakos
+Wed Jan 14 2015,Asteras Tripolis,2-2,2-1,Giannina
+Wed Jan 14 2015,Kallonis,1-2,1-0,PAOK
+Wed Jan 14 2015,Panathinaikos,1-0,1-0,Levadeiakos
+Wed Jan 14 2015,Panetolikos,3-1,1-0,OFI
+Wed Jan 14 2015,Panthrakikos,1-0,1-0,Kerkyra
+Wed Jan 14 2015,Xanthi,2-2,1-1,Veria
+Thu Jan 15 2015,Niki Volos,0-3,?,Olympiakos
+Thu Jan 15 2015,Platanias,0-0,0-0,Atromitos
+Sat Jan 17 2015,Kerkyra,0-0,0-0,Xanthi
+Sat Jan 17 2015,Panionios,1-1,1-0,Panathinaikos
+Sat Jan 17 2015,Veria,4-1,3-1,OFI
+Sun Jan 18 2015,Atromitos,3-0,0-0,Niki Volos
+Sun Jan 18 2015,Giannina,2-2,1-0,Panthrakikos
+Sun Jan 18 2015,Levadeiakos,3-1,1-1,Asteras Tripolis
+Sun Jan 18 2015,Olympiakos,2-0,0-0,Panetolikos
+Sun Jan 18 2015,PAOK,1-0,1-0,Platanias
+Mon Jan 19 2015,Ergotelis,3-3,0-2,Kallonis
+Sat Jan 24 2015,Asteras Tripolis,2-0,1-0,Panionios
+Sat Jan 24 2015,Kerkyra,4-0,3-0,Veria
+Sat Jan 24 2015,Niki Volos,0-3,?,PAOK
+Sat Jan 24 2015,OFI,0-3,0-1,Olympiakos
+Sat Jan 24 2015,Panathinaikos,1-0,0-0,Kallonis
+Sat Jan 24 2015,Panthrakikos,1-0,1-0,Levadeiakos
+Sat Jan 24 2015,Xanthi,1-1,0-0,Giannina
+Mon Jan 26 2015,Panetolikos,1-1,0-1,Atromitos
+Mon Jan 26 2015,Platanias,1-2,1-0,Ergotelis
+Sat Jan 31 2015,Kallonis,1-0,0-0,Asteras Tripolis
+Sat Jan 31 2015,Panionios,2-1,1-0,Panthrakikos
+Sat Jan 31 2015,PAOK,1-2,0-1,Panetolikos
+Sun Feb 1 2015,Ergotelis,3-0,?,Niki Volos
+Sun Feb 1 2015,Giannina,2-1,1-1,Kerkyra
+Sun Feb 1 2015,Levadeiakos,1-2,0-1,Xanthi
+Sun Feb 1 2015,Panathinaikos,3-0,1-0,Platanias
+Sun Feb 1 2015,Veria,0-2,0-0,Olympiakos
+Wed Feb 4 2015,Asteras Tripolis,1-0,0-0,Platanias
+Wed Feb 4 2015,Giannina,4-1,4-1,Veria
+Wed Feb 4 2015,Kerkyra,0-0,0-0,Levadeiakos
+Wed Feb 4 2015,OFI,3-1,2-0,PAOK
+Wed Feb 4 2015,Olympiakos,2-1,1-0,Atromitos
+Wed Feb 4 2015,Panetolikos,4-0,2-0,Ergotelis
+Wed Feb 4 2015,Xanthi,1-1,1-1,Panionios
+Thu Feb 5 2015,Niki Volos,0-3,?,Panathinaikos
+Thu Feb 5 2015,Panthrakikos,3-2,2-1,Kallonis
+Sat Feb 7 2015,Ergotelis,3-2,3-1,OFI
+Sat Feb 7 2015,Levadeiakos,1-2,0-1,Giannina
+Sat Feb 7 2015,Veria,1-1,1-0,Atromitos
+Sun Feb 8 2015,Asteras Tripolis,3-0,?,Niki Volos
+Sun Feb 8 2015,Panathinaikos,1-0,0-0,Panetolikos
+Sun Feb 8 2015,Panionios,0-0,0-0,Kerkyra
+Sun Feb 8 2015,PAOK,0-0,0-0,Olympiakos
+Sun Feb 8 2015,Platanias,2-0,1-0,Panthrakikos
+Mon Feb 9 2015,Kallonis,2-2,0-1,Xanthi
+Sat Feb 14 2015,Giannina,1-3,0-1,Panionios
+Sat Feb 14 2015,Olympiakos,3-0,0-0,Ergotelis
+Sat Feb 14 2015,Panetolikos,2-0,1-0,Asteras Tripolis
+Sat Feb 14 2015,Panthrakikos,3-0,?,Niki Volos
+Sun Feb 15 2015,Atromitos,4-0,1-0,PAOK
+Sun Feb 15 2015,Kerkyra,2-0,0-0,Kallonis
+Sun Feb 15 2015,Levadeiakos,0-2,0-0,Veria
+Sun Feb 15 2015,OFI,2-3,2-1,Panathinaikos
+Mon Feb 16 2015,Xanthi,0-0,0-0,Platanias
+Wed Feb 18 2015,Ergotelis,2-2,1-2,Panionios
+Sat Feb 21 2015,Kallonis,1-0,1-0,Giannina
+Sat Feb 21 2015,Niki Volos,0-3,?,Xanthi
+Sat Feb 21 2015,Panthrakikos,0-0,0-0,Panetolikos
+Sat Feb 21 2015,Veria,1-3,0-3,PAOK
+Sun Feb 22 2015,Asteras Tripolis,6-1,3-0,OFI
+Sun Feb 22 2015,Panathinaikos,2-1,0-0,Olympiakos
+Sun Feb 22 2015,Panionios,1-0,0-0,Levadeiakos
+Sun Feb 22 2015,Platanias,1-1,0-1,Kerkyra
+Mon Feb 23 2015,Ergotelis,1-2,1-1,Atromitos
+Sat Mar 7 2015,Asteras Tripolis,1-0,1-0,Atromitos
+Sat Mar 7 2015,Veria,0-1,0-1,Ergotelis
+Sun Mar 8 2015,Kallonis,1-0,0-0,Panionios
+Sun Mar 8 2015,Niki Volos,0-3,?,Giannina
+Sun Mar 8 2015,OFI,0-1,0-0,Xanthi
+Sun Mar 8 2015,Panathinaikos,4-3,1-1,PAOK
+Sun Mar 8 2015,Panetolikos,0-1,0-1,Kerkyra
+Mon Mar 9 2015,Platanias,1-3,0-1,Levadeiakos
+Sat Mar 14 2015,Atromitos,2-0,2-0,Panthrakikos
+Sat Mar 14 2015,Ergotelis,0-2,0-2,Panathinaikos
+Sat Mar 14 2015,PAOK,0-0,0-0,Asteras Tripolis
+Sun Mar 15 2015,Giannina,0-0,0-0,Panetolikos
+Sun Mar 15 2015,Kallonis,4-1,2-1,Veria
+Sun Mar 15 2015,Kerkyra,4-1,1-1,OFI
+Sun Mar 15 2015,Levadeiakos,3-0,0-0,Niki Volos
+Sun Mar 15 2015,Olympiakos,2-0,0-0,Xanthi
+Sun Mar 15 2015,Panionios,0-0,0-0,Platanias
+Wed Mar 18 2015,Atromitos,2-0,1-0,Panathinaikos
+Wed Mar 18 2015,Giannina,1-0,0-0,Platanias
+Wed Mar 18 2015,Kerkyra,3-0,?,Niki Volos
+Wed Mar 18 2015,Levadeiakos,3-0,3-0,Kallonis
+Wed Mar 18 2015,OFI,0-1,0-1,Panthrakikos
+Wed Mar 18 2015,Panionios,4-2,1-1,Veria
+Wed Mar 18 2015,PAOK,1-0,0-0,Ergotelis
+Wed Mar 18 2015,Xanthi,3-0,1-0,Panetolikos
+Thu Mar 19 2015,Olympiakos,2-0,1-0,Asteras Tripolis
+Sat Mar 21 2015,Niki Volos,0-3,0-0,Panionios
+Sat Mar 21 2015,OFI,0-3,?,Giannina
+Sat Mar 21 2015,Panetolikos,0-1,0-0,Levadeiakos
+Sat Mar 21 2015,Panthrakikos,3-1,2-0,PAOK
+Sun Mar 22 2015,Asteras Tripolis,2-1,2-0,Ergotelis
+Sun Mar 22 2015,Olympiakos,3-0,2-0,Kerkyra
+Sun Mar 22 2015,Veria,1-0,1-0,Panathinaikos
+Sun Mar 22 2015,Xanthi,1-0,0-0,Atromitos
+Mon Mar 23 2015,Platanias,1-0,0-0,Kallonis
+Sat Apr 4 2015,Panathinaikos,2-2,2-0,Asteras Tripolis
+Sat Apr 4 2015,Platanias,1-0,1-0,Veria
+Sun Apr 5 2015,Ergotelis,2-1,1-0,Panthrakikos
+Sun Apr 5 2015,Giannina,3-1,2-0,Olympiakos
+Sun Apr 5 2015,Kallonis,3-0,?,Niki Volos
+Sun Apr 5 2015,Levadeiakos,3-0,?,OFI
+Sun Apr 5 2015,Panionios,3-0,0-0,Panetolikos
+Sun Apr 5 2015,PAOK,2-1,1-0,Xanthi
+Mon Apr 6 2015,Atromitos,2-1,1-0,Kerkyra
+Fri Apr 10 2015,Niki Volos,0-3,?,Platanias
+Wed Apr 15 2015,Atromitos,3-0,?,OFI
+Wed Apr 15 2015,Panthrakikos,1-3,1-3,Olympiakos
+Sat Apr 18 2015,Kerkyra,0-1,0-0,PAOK
+Sat Apr 18 2015,Panetolikos,2-0,1-0,Kallonis
+Sat Apr 18 2015,Xanthi,0-1,0-0,Ergotelis
+Sun Apr 19 2015,Atromitos,1-1,0-1,Giannina
+Sun Apr 19 2015,OFI,0-3,?,Panionios
+Sun Apr 19 2015,Olympiakos,4-0,1-0,Levadeiakos
+Sun Apr 19 2015,Panthrakikos,2-1,1-0,Panathinaikos
+Mon Apr 20 2015,Veria,4-0,2-0,Asteras Tripolis
+Sat Apr 25 2015,Kallonis,3-0,?,OFI
+Sat Apr 25 2015,Panathinaikos,2-0,0-0,Xanthi
+Sun Apr 26 2015,Asteras Tripolis,2-1,0-0,Panthrakikos
+Sun Apr 26 2015,Levadeiakos,2-1,2-0,Atromitos
+Sun Apr 26 2015,Niki Volos,0-3,?,Veria
+Sun Apr 26 2015,Panionios,2-2,1-0,Olympiakos
+Sun Apr 26 2015,PAOK,1-1,1-1,Giannina
+Sun Apr 26 2015,Platanias,2-0,0-0,Panetolikos
+Mon Apr 27 2015,Ergotelis,1-2,0-0,Kerkyra
+Sat May 2 2015,OFI,0-3,?,Platanias
+Sat May 2 2015,Panetolikos,3-0,?,Niki Volos
+Sun May 3 2015,Atromitos,3-1,1-0,Panionios
+Sun May 3 2015,Giannina,0-0,0-0,Ergotelis
+Sun May 3 2015,Kerkyra,1-1,0-1,Panathinaikos
+Sun May 3 2015,Olympiakos,5-0,2-0,Kallonis
+Sun May 3 2015,PAOK,1-0,1-0,Levadeiakos
+Sun May 3 2015,Veria,0-1,0-0,Panthrakikos
+Sun May 3 2015,Xanthi,0-0,0-0,Asteras Tripolis
+Sun May 10 2015,Asteras Tripolis,2-0,2-0,Kerkyra
+Sun May 10 2015,Ergotelis,0-2,0-0,Levadeiakos
+Sun May 10 2015,Kallonis,1-1,1-0,Atromitos
+Sun May 10 2015,Niki Volos,?,?,OFI
+Sun May 10 2015,Panathinaikos,3-1,1-1,Giannina
+Sun May 10 2015,Panetolikos,2-0,1-0,Veria
+Sun May 10 2015,Panionios,0-0,0-0,PAOK
+Sun May 10 2015,Panthrakikos,2-0,2-0,Xanthi
+Sun May 10 2015,Platanias,1-1,1-0,Olympiakos

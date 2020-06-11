@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 25 2001,Valencia,1-0,1-0,Real Madrid
+Sun Aug 26 2001,La Coruna,4-0,1-0,Valladolid
+Sun Aug 26 2001,Espanol,2-1,1-1,Zaragoza
+Sun Aug 26 2001,Malaga,3-2,1-1,Betis
+Sun Aug 26 2001,Mallorca,0-3,0-1,Las Palmas
+Sun Aug 26 2001,Osasuna,0-3,0-1,Celta
+Sun Aug 26 2001,Sociedad,1-3,1-1,Ath Bilbao
+Sun Aug 26 2001,Vallecano,1-2,1-2,Villarreal
+Sun Aug 26 2001,Sevilla,1-2,0-1,Barcelona
+Sun Aug 26 2001,Tenerife,0-2,0-1,Alaves
+Sat Sep 8 2001,Ath Bilbao,0-1,0-0,Mallorca
+Sat Sep 8 2001,Las Palmas,0-1,0-0,La Coruna
+Sat Sep 8 2001,Real Madrid,1-1,1-0,Malaga
+Sat Sep 8 2001,Villarreal,3-0,1-0,Osasuna
+Sun Sep 9 2001,Alaves,2-0,1-0,Sociedad
+Sun Sep 9 2001,Barcelona,1-1,0-0,Vallecano
+Sun Sep 9 2001,Betis,2-0,2-0,Espanol
+Sun Sep 9 2001,Celta,3-0,2-0,Tenerife
+Sun Sep 9 2001,Valladolid,1-1,1-0,Valencia
+Sun Sep 9 2001,Zaragoza,1-1,0-0,Sevilla
+Sat Sep 15 2001,Betis,3-1,1-1,Real Madrid
+Sat Sep 15 2001,La Coruna,1-2,0-1,Ath Bilbao
+Sat Sep 15 2001,Mallorca,0-0,0-0,Alaves
+Sat Sep 15 2001,Osasuna,0-0,0-0,Barcelona
+Sun Sep 16 2001,Espanol,2-3,1-1,Sevilla
+Sun Sep 16 2001,Malaga,1-2,0-1,Valladolid
+Sun Sep 16 2001,Sociedad,0-0,0-0,Celta
+Sun Sep 16 2001,Vallecano,1-2,1-0,Zaragoza
+Sun Sep 16 2001,Tenerife,2-0,1-0,Villarreal
+Sun Sep 16 2001,Valencia,1-0,0-0,Las Palmas
+Sat Sep 22 2001,Alaves,2-3,0-1,La Coruna
+Sat Sep 22 2001,Barcelona,2-0,1-0,Tenerife
+Sat Sep 22 2001,Las Palmas,0-0,0-0,Malaga
+Sat Sep 22 2001,Real Madrid,5-1,3-0,Espanol
+Sat Sep 22 2001,Villarreal,1-0,0-0,Sociedad
+Sun Sep 23 2001,Ath Bilbao,2-2,0-1,Valencia
+Sun Sep 23 2001,Celta,2-0,1-0,Mallorca
+Sun Sep 23 2001,Sevilla,2-1,0-1,Vallecano
+Sun Sep 23 2001,Valladolid,0-2,0-0,Betis
+Sun Sep 23 2001,Zaragoza,0-1,0-1,Osasuna
+Sat Sep 29 2001,Espanol,3-1,1-0,Vallecano
+Sat Sep 29 2001,Malaga,1-2,0-1,Ath Bilbao
+Sat Sep 29 2001,Real Madrid,2-2,2-1,Valladolid
+Sat Sep 29 2001,Sociedad,0-2,0-1,Barcelona
+Sun Sep 30 2001,Betis,1-0,0-0,Las Palmas
+Sun Sep 30 2001,La Coruna,2-2,0-1,Celta
+Sun Sep 30 2001,Mallorca,0-1,0-1,Villarreal
+Sun Sep 30 2001,Osasuna,1-0,0-0,Sevilla
+Sun Sep 30 2001,Tenerife,0-0,0-0,Zaragoza
+Sun Sep 30 2001,Valencia,0-0,0-0,Alaves
+Wed Oct 3 2001,Alaves,1-0,0-0,Malaga
+Wed Oct 3 2001,Ath Bilbao,0-0,0-0,Betis
+Wed Oct 3 2001,Barcelona,3-0,3-0,Mallorca
+Wed Oct 3 2001,Las Palmas,4-2,2-2,Real Madrid
+Wed Oct 3 2001,Vallecano,0-1,0-1,Osasuna
+Wed Oct 3 2001,Sevilla,2-0,1-0,Tenerife
+Wed Oct 3 2001,Valladolid,0-1,0-1,Espanol
+Wed Oct 3 2001,Villarreal,1-1,1-0,La Coruna
+Wed Oct 3 2001,Zaragoza,3-2,1-1,Sociedad
+Thu Oct 4 2001,Celta,1-1,0-1,Valencia
+Sat Oct 6 2001,La Coruna,2-1,0-1,Barcelona
+Sat Oct 6 2001,Real Madrid,2-0,0-0,Ath Bilbao
+Sun Oct 7 2001,Betis,1-0,0-0,Alaves
+Sun Oct 7 2001,Espanol,1-1,0-0,Osasuna
+Sun Oct 7 2001,Malaga,2-2,2-0,Celta
+Sun Oct 7 2001,Mallorca,0-1,0-0,Zaragoza
+Sun Oct 7 2001,Sociedad,3-3,2-0,Sevilla
+Sun Oct 7 2001,Tenerife,3-1,1-1,Vallecano
+Sun Oct 7 2001,Valencia,1-0,1-0,Villarreal
+Sun Oct 7 2001,Valladolid,1-0,1-0,Las Palmas
+Sat Oct 13 2001,Alaves,0-0,0-0,Real Madrid
+Sat Oct 13 2001,Sevilla,2-2,2-2,Mallorca
+Sat Oct 13 2001,Zaragoza,1-2,0-1,La Coruna
+Sun Oct 14 2001,Ath Bilbao,1-4,0-2,Valladolid
+Sun Oct 14 2001,Barcelona,2-2,1-1,Valencia
+Sun Oct 14 2001,Celta,3-1,2-0,Betis
+Sun Oct 14 2001,Las Palmas,2-0,0-0,Espanol
+Sun Oct 14 2001,Osasuna,0-2,0-0,Tenerife
+Sun Oct 14 2001,Vallecano,2-1,1-1,Sociedad
+Sun Oct 14 2001,Villarreal,1-2,1-1,Malaga
+Sat Oct 20 2001,Betis,1-1,0-1,Villarreal
+Sat Oct 20 2001,La Coruna,1-0,1-0,Sevilla
+Sat Oct 20 2001,Las Palmas,1-1,0-1,Ath Bilbao
+Sat Oct 20 2001,Malaga,1-1,0-0,Barcelona
+Sat Oct 20 2001,Sociedad,2-1,0-1,Osasuna
+Sun Oct 21 2001,Espanol,2-0,2-0,Tenerife
+Sun Oct 21 2001,Mallorca,3-0,1-0,Vallecano
+Sun Oct 21 2001,Real Madrid,1-1,1-1,Celta
+Sun Oct 21 2001,Valencia,2-0,1-0,Zaragoza
+Sun Oct 21 2001,Valladolid,1-3,0-2,Alaves
+Sat Oct 27 2001,Barcelona,3-0,1-0,Betis
+Sat Oct 27 2001,Osasuna,4-0,2-0,Mallorca
+Sat Oct 27 2001,Vallecano,2-1,0-0,La Coruna
+Sat Oct 27 2001,Tenerife,0-1,0-1,Sociedad
+Sat Oct 27 2001,Villarreal,2-3,1-0,Real Madrid
+Sun Oct 28 2001,Alaves,1-0,1-0,Las Palmas
+Sun Oct 28 2001,Ath Bilbao,1-1,1-0,Espanol
+Sun Oct 28 2001,Celta,1-1,0-0,Valladolid
+Sun Oct 28 2001,Sevilla,1-1,0-1,Valencia
+Sun Oct 28 2001,Zaragoza,0-2,0-1,Malaga
+Sat Nov 3 2001,Ath Bilbao,2-1,2-0,Alaves
+Sun Nov 4 2001,Betis,0-1,0-0,Zaragoza
+Sun Nov 4 2001,La Coruna,5-1,4-1,Osasuna
+Sun Nov 4 2001,Espanol,1-2,1-1,Sociedad
+Sun Nov 4 2001,Las Palmas,4-2,3-1,Celta
+Sun Nov 4 2001,Malaga,1-3,1-1,Sevilla
+Sun Nov 4 2001,Mallorca,2-0,1-0,Tenerife
+Sun Nov 4 2001,Real Madrid,2-0,1-0,Barcelona
+Sun Nov 4 2001,Valencia,2-1,1-1,Vallecano
+Sun Nov 4 2001,Valladolid,1-0,1-0,Villarreal
+Sat Nov 10 2001,Sevilla,0-0,0-0,Betis
+Sun Nov 11 2001,Alaves,2-1,1-1,Espanol
+Sun Nov 11 2001,Barcelona,4-0,2-0,Valladolid
+Sun Nov 11 2001,Celta,2-3,1-0,Ath Bilbao
+Sun Nov 11 2001,Osasuna,0-0,0-0,Valencia
+Sun Nov 11 2001,Sociedad,1-2,0-0,Mallorca
+Sun Nov 11 2001,Vallecano,3-0,2-0,Malaga
+Sun Nov 11 2001,Tenerife,3-1,1-1,La Coruna
+Sun Nov 11 2001,Villarreal,2-0,1-0,Las Palmas
+Sun Nov 11 2001,Zaragoza,2-1,1-0,Real Madrid
+Sat Nov 17 2001,La Coruna,3-1,1-1,Sociedad
+Sat Nov 17 2001,Las Palmas,0-0,0-0,Barcelona
+Sat Nov 17 2001,Real Madrid,2-1,1-0,Sevilla
+Sun Nov 18 2001,Alaves,1-0,1-0,Celta
+Sun Nov 18 2001,Ath Bilbao,0-0,0-0,Villarreal
+Sun Nov 18 2001,Betis,2-0,0-0,Vallecano
+Sun Nov 18 2001,Espanol,2-1,1-1,Mallorca
+Sun Nov 18 2001,Malaga,2-1,2-0,Osasuna
+Sun Nov 18 2001,Valencia,0-0,0-0,Tenerife
+Sun Nov 18 2001,Valladolid,2-0,1-0,Zaragoza
+Sat Nov 24 2001,Barcelona,1-2,0-1,Ath Bilbao
+Sun Nov 25 2001,Celta,4-1,2-1,Espanol
+Sun Nov 25 2001,Mallorca,4-1,2-1,La Coruna
+Sun Nov 25 2001,Osasuna,1-2,0-0,Betis
+Sun Nov 25 2001,Sociedad,2-0,1-0,Valencia
+Sun Nov 25 2001,Vallecano,0-3,0-2,Real Madrid
+Sun Nov 25 2001,Sevilla,4-0,1-0,Valladolid
+Sun Nov 25 2001,Tenerife,1-0,0-0,Malaga
+Sun Nov 25 2001,Villarreal,1-0,1-0,Alaves
+Sun Nov 25 2001,Zaragoza,2-1,1-0,Las Palmas
+Sat Dec 1 2001,Alaves,2-0,1-0,Barcelona
+Sat Dec 1 2001,Espanol,1-0,0-0,La Coruna
+Sat Dec 1 2001,Real Madrid,2-1,2-0,Osasuna
+Sat Dec 1 2001,Valencia,1-1,0-1,Mallorca
+Sun Dec 2 2001,Ath Bilbao,2-1,1-0,Zaragoza
+Sun Dec 2 2001,Betis,1-0,0-0,Tenerife
+Sun Dec 2 2001,Celta,3-1,1-0,Villarreal
+Sun Dec 2 2001,Las Palmas,1-0,0-0,Sevilla
+Sun Dec 2 2001,Malaga,1-0,1-0,Sociedad
+Sun Dec 2 2001,Valladolid,3-1,2-1,Vallecano
+Sat Dec 8 2001,Sevilla,3-3,0-0,Ath Bilbao
+Sat Dec 8 2001,Tenerife,0-2,0-1,Real Madrid
+Sun Dec 9 2001,Barcelona,2-2,1-0,Celta
+Sun Dec 9 2001,La Coruna,1-0,0-0,Valencia
+Sun Dec 9 2001,Mallorca,1-1,1-1,Malaga
+Sun Dec 9 2001,Osasuna,1-0,0-0,Valladolid
+Sun Dec 9 2001,Sociedad,0-0,0-0,Betis
+Sun Dec 9 2001,Vallecano,0-0,0-0,Las Palmas
+Sun Dec 9 2001,Villarreal,1-1,1-1,Espanol
+Sun Dec 9 2001,Zaragoza,0-2,0-1,Alaves
+Sat Dec 15 2001,Espanol,2-3,2-0,Valencia
+Sat Dec 15 2001,Las Palmas,1-1,0-1,Osasuna
+Sat Dec 15 2001,Real Madrid,3-1,1-1,Sociedad
+Sun Dec 16 2001,Alaves,0-1,0-0,Sevilla
+Sun Dec 16 2001,Ath Bilbao,1-1,0-0,Vallecano
+Sun Dec 16 2001,Betis,1-0,1-0,Mallorca
+Sun Dec 16 2001,Celta,2-0,1-0,Zaragoza
+Sun Dec 16 2001,Malaga,1-1,1-0,La Coruna
+Sun Dec 16 2001,Valladolid,0-0,0-0,Tenerife
+Sun Dec 16 2001,Villarreal,0-1,0-1,Barcelona
+Sat Dec 22 2001,La Coruna,2-0,1-0,Betis
+Sat Dec 22 2001,Espanol,2-0,0-0,Barcelona
+Sat Dec 22 2001,Sociedad,6-0,1-0,Valladolid
+Sat Dec 22 2001,Sevilla,0-1,0-0,Celta
+Sat Dec 22 2001,Tenerife,1-3,0-1,Las Palmas
+Sat Dec 22 2001,Valencia,2-1,2-1,Malaga
+Sun Dec 23 2001,Mallorca,1-1,0-0,Real Madrid
+Sun Dec 23 2001,Osasuna,0-1,0-0,Ath Bilbao
+Sun Dec 23 2001,Zaragoza,3-2,2-0,Villarreal
+Sat Jan 5 2002,Celta,2-2,0-1,Vallecano
+Sat Jan 5 2002,Las Palmas,0-0,0-0,Sociedad
+Sat Jan 5 2002,Real Madrid,3-1,2-1,La Coruna
+Sat Jan 5 2002,Villarreal,0-2,0-1,Sevilla
+Sun Jan 6 2002,Alaves,0-2,0-0,Osasuna
+Sun Jan 6 2002,Ath Bilbao,1-2,0-0,Tenerife
+Sun Jan 6 2002,Barcelona,2-0,1-0,Zaragoza
+Sun Jan 6 2002,Betis,1-3,1-2,Valencia
+Sun Jan 6 2002,Malaga,2-0,1-0,Espanol
+Sun Jan 6 2002,Valladolid,2-1,1-0,Mallorca
+Sat Jan 12 2002,Ath Bilbao,2-1,1-1,Sociedad
+Sat Jan 12 2002,Villarreal,1-1,0-0,Vallecano
+Sun Jan 13 2002,Alaves,1-0,1-0,Tenerife
+Sun Jan 13 2002,Barcelona,3-1,1-1,Sevilla
+Sun Jan 13 2002,Betis,1-1,0-0,Malaga
+Sun Jan 13 2002,Celta,1-1,1-0,Osasuna
+Sun Jan 13 2002,Las Palmas,3-1,1-0,Mallorca
+Sun Jan 13 2002,Real Madrid,1-0,0-0,Valencia
+Sun Jan 13 2002,Valladolid,3-0,2-0,La Coruna
+Sun Jan 13 2002,Zaragoza,0-0,0-0,Espanol
+Sat Jan 19 2002,Malaga,1-1,1-0,Real Madrid
+Sat Jan 19 2002,Sociedad,1-2,1-0,Alaves
+Sun Jan 20 2002,La Coruna,1-0,0-0,Las Palmas
+Sun Jan 20 2002,Espanol,1-1,0-0,Betis
+Sun Jan 20 2002,Mallorca,3-0,1-0,Ath Bilbao
+Sun Jan 20 2002,Osasuna,2-2,2-1,Villarreal
+Sun Jan 20 2002,Vallecano,2-1,1-0,Barcelona
+Sun Jan 20 2002,Sevilla,4-2,1-1,Zaragoza
+Sun Jan 20 2002,Tenerife,1-1,1-0,Celta
+Sun Jan 20 2002,Valencia,1-2,1-2,Valladolid
+Wed Jan 23 2002,Vallecano,2-0,0-0,Alaves
+Sat Jan 26 2002,Celta,3-1,0-1,Sociedad
+Sat Jan 26 2002,Las Palmas,0-1,0-1,Valencia
+Sun Jan 27 2002,Alaves,0-4,0-2,Mallorca
+Sun Jan 27 2002,Ath Bilbao,1-1,0-0,La Coruna
+Sun Jan 27 2002,Barcelona,0-1,0-0,Osasuna
+Sun Jan 27 2002,Real Madrid,1-1,1-0,Betis
+Sun Jan 27 2002,Sevilla,3-0,0-0,Espanol
+Sun Jan 27 2002,Valladolid,0-0,0-0,Malaga
+Sun Jan 27 2002,Villarreal,2-1,2-0,Tenerife
+Sun Jan 27 2002,Zaragoza,3-2,0-1,Vallecano
+Sat Feb 2 2002,La Coruna,0-1,0-1,Alaves
+Sat Feb 2 2002,Mallorca,0-1,0-1,Celta
+Sat Feb 2 2002,Sociedad,2-1,0-0,Villarreal
+Sat Feb 2 2002,Vallecano,2-1,2-1,Sevilla
+Sat Feb 2 2002,Tenerife,0-6,0-2,Barcelona
+Sun Feb 3 2002,Betis,2-0,1-0,Valladolid
+Sun Feb 3 2002,Espanol,2-1,1-1,Real Madrid
+Sun Feb 3 2002,Malaga,1-1,0-1,Las Palmas
+Sun Feb 3 2002,Osasuna,0-0,0-0,Zaragoza
+Sun Feb 3 2002,Valencia,2-1,1-0,Ath Bilbao
+Tue Feb 5 2002,Celta,0-2,0-1,La Coruna
+Wed Feb 6 2002,Alaves,1-2,1-2,Valencia
+Wed Feb 6 2002,Ath Bilbao,3-2,2-1,Malaga
+Wed Feb 6 2002,Barcelona,2-0,0-0,Sociedad
+Wed Feb 6 2002,Las Palmas,0-0,0-0,Betis
+Wed Feb 6 2002,Vallecano,2-2,1-0,Espanol
+Wed Feb 6 2002,Sevilla,0-0,0-0,Osasuna
+Wed Feb 6 2002,Valladolid,2-1,0-0,Real Madrid
+Wed Feb 6 2002,Villarreal,2-1,1-0,Mallorca
+Wed Feb 6 2002,Zaragoza,1-1,0-1,Tenerife
+Sat Feb 9 2002,Mallorca,0-0,0-0,Barcelona
+Sat Feb 9 2002,Valencia,0-0,0-0,Celta
+Sun Feb 10 2002,Betis,1-1,1-1,Ath Bilbao
+Sun Feb 10 2002,La Coruna,0-0,0-0,Villarreal
+Sun Feb 10 2002,Espanol,1-0,0-0,Valladolid
+Sun Feb 10 2002,Malaga,1-0,0-0,Alaves
+Sun Feb 10 2002,Osasuna,1-0,0-0,Vallecano
+Sun Feb 10 2002,Real Madrid,7-0,3-0,Las Palmas
+Sun Feb 10 2002,Sociedad,3-1,2-0,Zaragoza
+Sun Feb 10 2002,Tenerife,1-1,0-1,Sevilla
+Sat Feb 16 2002,Ath Bilbao,2-1,2-0,Real Madrid
+Sat Feb 16 2002,Barcelona,3-2,1-1,La Coruna
+Sat Feb 16 2002,Villarreal,1-1,0-0,Valencia
+Sun Feb 17 2002,Alaves,0-1,0-1,Betis
+Sun Feb 17 2002,Celta,0-0,0-0,Malaga
+Sun Feb 17 2002,Las Palmas,1-1,0-0,Valladolid
+Sun Feb 17 2002,Osasuna,1-1,0-1,Espanol
+Sun Feb 17 2002,Vallecano,2-0,0-0,Tenerife
+Sun Feb 17 2002,Sevilla,0-1,0-0,Sociedad
+Sun Feb 17 2002,Zaragoza,1-0,0-0,Mallorca
+Sat Feb 23 2002,La Coruna,1-0,1-0,Zaragoza
+Sat Feb 23 2002,Real Madrid,3-1,1-1,Alaves
+Sat Feb 23 2002,Valencia,2-0,1-0,Barcelona
+Sun Feb 24 2002,Betis,4-1,2-0,Celta
+Sun Feb 24 2002,Espanol,3-1,0-1,Las Palmas
+Sun Feb 24 2002,Malaga,2-1,1-0,Villarreal
+Sun Feb 24 2002,Mallorca,0-4,0-1,Sevilla
+Sun Feb 24 2002,Sociedad,2-2,1-0,Vallecano
+Sun Feb 24 2002,Tenerife,3-1,1-0,Osasuna
+Sun Feb 24 2002,Valladolid,2-0,0-0,Ath Bilbao
+Sat Mar 2 2002,Celta,0-1,0-0,Real Madrid
+Sat Mar 2 2002,Sevilla,0-1,0-0,La Coruna
+Sat Mar 2 2002,Villarreal,1-1,1-1,Betis
+Sun Mar 3 2002,Alaves,3-1,1-1,Valladolid
+Sun Mar 3 2002,Ath Bilbao,3-1,1-0,Las Palmas
+Sun Mar 3 2002,Barcelona,5-1,3-0,Malaga
+Sun Mar 3 2002,Osasuna,1-1,0-0,Sociedad
+Sun Mar 3 2002,Vallecano,0-2,0-1,Mallorca
+Sun Mar 3 2002,Tenerife,1-1,1-1,Espanol
+Sun Mar 3 2002,Zaragoza,0-1,0-1,Valencia
+Sat Mar 9 2002,Betis,2-1,1-0,Barcelona
+Sat Mar 9 2002,La Coruna,1-1,1-1,Vallecano
+Sat Mar 9 2002,Las Palmas,2-1,1-1,Alaves
+Sat Mar 9 2002,Real Madrid,3-0,1-0,Villarreal
+Sun Mar 10 2002,Espanol,2-0,1-0,Ath Bilbao
+Sun Mar 10 2002,Malaga,2-1,2-0,Zaragoza
+Sun Mar 10 2002,Mallorca,4-2,2-1,Osasuna
+Sun Mar 10 2002,Sociedad,0-2,0-1,Tenerife
+Sun Mar 10 2002,Valencia,2-0,0-0,Sevilla
+Sun Mar 10 2002,Valladolid,2-4,1-2,Celta
+Sat Mar 16 2002,Barcelona,1-1,0-1,Real Madrid
+Sat Mar 16 2002,Osasuna,1-3,0-3,La Coruna
+Sun Mar 17 2002,Alaves,2-3,2-2,Ath Bilbao
+Sun Mar 17 2002,Celta,3-2,2-0,Las Palmas
+Sun Mar 17 2002,Sociedad,1-0,1-0,Espanol
+Sun Mar 17 2002,Vallecano,2-1,1-1,Valencia
+Sun Mar 17 2002,Sevilla,0-2,0-0,Malaga
+Sun Mar 17 2002,Tenerife,0-0,0-0,Mallorca
+Sun Mar 17 2002,Villarreal,2-2,0-2,Valladolid
+Sun Mar 17 2002,Zaragoza,1-1,1-0,Betis
+Sat Mar 23 2002,Betis,0-0,0-0,Sevilla
+Sat Mar 23 2002,Las Palmas,3-2,2-2,Villarreal
+Sat Mar 23 2002,Malaga,0-0,0-0,Vallecano
+Sun Mar 24 2002,Ath Bilbao,1-6,1-2,Celta
+Sun Mar 24 2002,La Coruna,3-1,0-1,Tenerife
+Sun Mar 24 2002,Espanol,1-2,1-0,Alaves
+Sun Mar 24 2002,Mallorca,0-2,0-0,Sociedad
+Sun Mar 24 2002,Real Madrid,3-1,1-0,Zaragoza
+Sun Mar 24 2002,Valencia,2-1,0-0,Osasuna
+Sun Mar 24 2002,Valladolid,1-2,1-2,Barcelona
+Sat Mar 30 2002,Barcelona,1-1,1-0,Las Palmas
+Sat Mar 30 2002,Celta,3-1,0-0,Alaves
+Sat Mar 30 2002,Sociedad,1-1,1-0,La Coruna
+Sat Mar 30 2002,Sevilla,0-1,0-1,Real Madrid
+Sat Mar 30 2002,Tenerife,0-1,0-0,Valencia
+Sun Mar 31 2002,Mallorca,2-1,1-1,Espanol
+Sun Mar 31 2002,Osasuna,0-2,0-0,Malaga
+Sun Mar 31 2002,Vallecano,0-0,0-0,Betis
+Sun Mar 31 2002,Villarreal,5-2,5-0,Ath Bilbao
+Sun Mar 31 2002,Zaragoza,0-0,0-0,Valladolid
+Sat Apr 6 2002,Ath Bilbao,0-2,0-1,Barcelona
+Sat Apr 6 2002,La Coruna,5-0,4-0,Mallorca
+Sat Apr 6 2002,Las Palmas,1-1,0-0,Zaragoza
+Sat Apr 6 2002,Real Madrid,3-1,2-0,Vallecano
+Sun Apr 7 2002,Alaves,2-1,1-1,Villarreal
+Sun Apr 7 2002,Betis,0-0,0-0,Osasuna
+Sun Apr 7 2002,Espanol,2-0,1-0,Celta
+Sun Apr 7 2002,Malaga,2-0,0-0,Tenerife
+Sun Apr 7 2002,Valencia,4-0,2-0,Sociedad
+Sun Apr 7 2002,Valladolid,1-1,1-1,Sevilla
+Sat Apr 13 2002,Mallorca,1-1,1-0,Valencia
+Sun Apr 14 2002,Barcelona,3-2,1-0,Alaves
+Sun Apr 14 2002,La Coruna,3-1,3-0,Espanol
+Sun Apr 14 2002,Osasuna,3-1,2-0,Real Madrid
+Sun Apr 14 2002,Sociedad,2-1,1-1,Malaga
+Sun Apr 14 2002,Vallecano,1-0,1-0,Valladolid
+Sun Apr 14 2002,Sevilla,1-1,1-0,Las Palmas
+Sun Apr 14 2002,Tenerife,2-1,0-1,Betis
+Sun Apr 14 2002,Villarreal,2-1,0-0,Celta
+Sun Apr 14 2002,Zaragoza,2-2,1-1,Ath Bilbao
+Sat Apr 20 2002,Celta,2-1,1-0,Barcelona
+Sat Apr 20 2002,Las Palmas,0-2,0-0,Vallecano
+Sat Apr 20 2002,Real Madrid,4-1,2-1,Tenerife
+Sun Apr 21 2002,Alaves,2-1,1-0,Zaragoza
+Sun Apr 21 2002,Ath Bilbao,0-1,0-0,Sevilla
+Sun Apr 21 2002,Betis,3-0,1-0,Sociedad
+Sun Apr 21 2002,Espanol,3-1,2-0,Villarreal
+Sun Apr 21 2002,Malaga,0-0,0-0,Mallorca
+Sun Apr 21 2002,Valencia,1-0,0-0,La Coruna
+Sun Apr 21 2002,Valladolid,1-0,0-0,Osasuna
+Sat Apr 27 2002,Barcelona,4-1,0-1,Villarreal
+Sat Apr 27 2002,Sociedad,3-0,0-0,Real Madrid
+Sat Apr 27 2002,Valencia,2-1,0-1,Espanol
+Sun Apr 28 2002,La Coruna,2-2,1-1,Malaga
+Sun Apr 28 2002,Mallorca,1-3,0-1,Betis
+Sun Apr 28 2002,Osasuna,3-2,2-1,Las Palmas
+Sun Apr 28 2002,Vallecano,4-2,1-0,Ath Bilbao
+Sun Apr 28 2002,Sevilla,2-0,1-0,Alaves
+Sun Apr 28 2002,Tenerife,1-5,0-2,Valladolid
+Sun Apr 28 2002,Zaragoza,0-1,0-0,Celta
+Sun May 5 2002,Alaves,0-1,0-0,Vallecano
+Sun May 5 2002,Ath Bilbao,1-1,0-0,Osasuna
+Sun May 5 2002,Barcelona,2-0,1-0,Espanol
+Sun May 5 2002,Betis,0-3,0-1,La Coruna
+Sun May 5 2002,Celta,1-2,1-2,Sevilla
+Sun May 5 2002,Las Palmas,0-1,0-1,Tenerife
+Sun May 5 2002,Malaga,0-2,0-2,Valencia
+Sun May 5 2002,Real Madrid,0-0,0-0,Mallorca
+Sun May 5 2002,Valladolid,1-3,1-1,Sociedad
+Sun May 5 2002,Villarreal,2-1,2-0,Zaragoza
+Fri May 10 2002,La Coruna,3-0,1-0,Real Madrid
+Sat May 11 2002,Espanol,1-2,0-2,Malaga
+Sat May 11 2002,Mallorca,2-1,0-1,Valladolid
+Sat May 11 2002,Osasuna,0-1,0-1,Alaves
+Sat May 11 2002,Sociedad,1-1,0-1,Las Palmas
+Sat May 11 2002,Vallecano,1-0,0-0,Celta
+Sat May 11 2002,Sevilla,1-0,1-0,Villarreal
+Sat May 11 2002,Tenerife,2-3,2-1,Ath Bilbao
+Sat May 11 2002,Valencia,2-0,1-0,Betis
+Sat May 11 2002,Zaragoza,1-1,1-1,Barcelona

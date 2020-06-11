@@ -1,0 +1,181 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 8 2009,Cowdenbeath,1-2,0-0,Arbroath
+Sat Aug 8 2009,Dumbarton,1-3,0-1,Alloa
+Sat Aug 8 2009,East Fife,2-0,2-0,Brechin
+Sat Aug 8 2009,Peterhead,2-0,1-0,Clyde
+Sat Aug 8 2009,Stirling,0-0,0-0,Stenhousemuir
+Sat Aug 15 2009,Alloa,1-0,0-0,Peterhead
+Sat Aug 15 2009,Arbroath,3-1,1-0,Dumbarton
+Sat Aug 15 2009,Brechin,3-1,1-1,Cowdenbeath
+Sat Aug 15 2009,Clyde,0-1,0-1,Stirling
+Sat Aug 15 2009,Stenhousemuir,1-1,1-1,East Fife
+Sat Aug 22 2009,Cowdenbeath,1-1,1-1,Alloa
+Sat Aug 22 2009,Dumbarton,3-3,1-2,Clyde
+Sat Aug 22 2009,East Fife,1-1,0-0,Arbroath
+Sat Aug 22 2009,Peterhead,2-2,1-1,Stenhousemuir
+Sat Aug 22 2009,Stirling,1-0,1-0,Brechin
+Sat Aug 29 2009,Brechin,3-1,2-1,Dumbarton
+Sat Aug 29 2009,Clyde,0-1,0-1,Alloa
+Sat Aug 29 2009,East Fife,1-1,0-1,Cowdenbeath
+Sat Aug 29 2009,Stenhousemuir,3-0,0-0,Arbroath
+Sat Aug 29 2009,Stirling,2-1,0-1,Peterhead
+Sat Sep 12 2009,Alloa,1-0,1-0,Stirling
+Sat Sep 12 2009,Arbroath,1-4,0-0,Brechin
+Sat Sep 12 2009,Cowdenbeath,1-0,1-0,Clyde
+Sat Sep 12 2009,Dumbarton,0-0,0-0,Stenhousemuir
+Sat Sep 12 2009,Peterhead,1-1,1-0,East Fife
+Sat Sep 19 2009,Arbroath,0-1,0-1,Peterhead
+Sat Sep 19 2009,Clyde,1-0,1-0,Brechin
+Sat Sep 19 2009,Dumbarton,0-3,0-2,Cowdenbeath
+Sat Sep 19 2009,Stenhousemuir,1-0,1-0,Alloa
+Sat Sep 19 2009,Stirling,3-0,1-0,East Fife
+Sat Sep 26 2009,Alloa,0-1,0-1,Arbroath
+Sat Sep 26 2009,Brechin,1-0,1-0,Stenhousemuir
+Sat Sep 26 2009,Cowdenbeath,1-2,1-2,Stirling
+Sat Sep 26 2009,East Fife,1-0,1-0,Clyde
+Sat Sep 26 2009,Peterhead,1-2,0-0,Dumbarton
+Sat Oct 3 2009,Alloa,0-0,0-0,East Fife
+Sat Oct 3 2009,Dumbarton,2-3,2-1,Stirling
+Sat Oct 3 2009,Stenhousemuir,0-2,0-1,Cowdenbeath
+Sat Oct 10 2009,Brechin,2-1,1-1,Alloa
+Sat Oct 10 2009,Clyde,2-1,1-0,Stenhousemuir
+Sat Oct 10 2009,Cowdenbeath,5-0,2-0,Peterhead
+Sat Oct 10 2009,East Fife,0-1,0-0,Dumbarton
+Sat Oct 10 2009,Stirling,2-2,2-2,Arbroath
+Tue Oct 13 2009,Peterhead,1-0,0-0,Brechin
+Wed Oct 14 2009,Arbroath,0-3,0-1,Clyde
+Sat Oct 17 2009,Alloa,1-3,1-2,Dumbarton
+Sat Oct 17 2009,Arbroath,0-1,0-1,Cowdenbeath
+Sat Oct 17 2009,Brechin,3-2,1-1,East Fife
+Sat Oct 17 2009,Clyde,1-3,0-1,Peterhead
+Sat Oct 17 2009,Stenhousemuir,1-2,1-0,Stirling
+Sat Oct 24 2009,Cowdenbeath,0-0,0-0,Brechin
+Sat Oct 24 2009,Dumbarton,1-0,1-0,Arbroath
+Sat Oct 24 2009,East Fife,2-1,0-0,Stenhousemuir
+Sat Oct 24 2009,Peterhead,0-0,0-0,Alloa
+Sat Oct 24 2009,Stirling,1-1,0-0,Clyde
+Sat Oct 31 2009,Alloa,2-0,1-0,Clyde
+Sat Oct 31 2009,Arbroath,0-3,0-1,Stenhousemuir
+Sat Oct 31 2009,Cowdenbeath,2-1,2-1,East Fife
+Sat Oct 31 2009,Dumbarton,0-0,0-0,Brechin
+Sat Oct 31 2009,Peterhead,3-2,3-1,Stirling
+Sat Nov 7 2009,Brechin,0-0,0-0,Arbroath
+Sat Nov 7 2009,Clyde,0-1,0-0,Cowdenbeath
+Sat Nov 7 2009,East Fife,1-2,1-0,Peterhead
+Sat Nov 7 2009,Stenhousemuir,0-3,0-0,Dumbarton
+Sat Nov 7 2009,Stirling,0-1,0-1,Alloa
+Sat Nov 14 2009,Alloa,1-4,0-3,Stenhousemuir
+Sat Nov 14 2009,Brechin,2-2,0-1,Clyde
+Sat Nov 14 2009,Cowdenbeath,2-1,1-1,Dumbarton
+Sat Nov 14 2009,East Fife,1-2,1-0,Stirling
+Sat Nov 14 2009,Peterhead,1-2,0-1,Arbroath
+Sat Nov 21 2009,Clyde,1-3,0-1,East Fife
+Sat Nov 21 2009,Stenhousemuir,1-1,1-1,Brechin
+Sat Nov 21 2009,Stirling,2-2,0-1,Cowdenbeath
+Wed Dec 2 2009,Arbroath,2-2,0-1,Alloa
+Sat Dec 5 2009,Clyde,1-0,1-0,Arbroath
+Sat Dec 5 2009,East Fife,0-2,0-1,Alloa
+Tue Dec 8 2009,Dumbarton,1-0,1-0,Peterhead
+Sat Dec 12 2009,Alloa,2-1,0-0,Brechin
+Sat Dec 12 2009,Arbroath,3-4,0-3,Stirling
+Sat Dec 12 2009,Dumbarton,0-3,0-1,East Fife
+Sat Dec 12 2009,Peterhead,0-2,0-1,Cowdenbeath
+Sat Dec 12 2009,Stenhousemuir,1-0,0-0,Clyde
+Tue Dec 15 2009,Brechin,3-0,1-0,Peterhead
+Tue Dec 15 2009,Cowdenbeath,2-1,1-1,Stenhousemuir
+Tue Dec 15 2009,Stirling,2-2,0-0,Dumbarton
+Sat Jan 16 2010,East Fife,2-2,1-1,Cowdenbeath
+Sat Jan 16 2010,Stenhousemuir,1-1,0-0,Arbroath
+Sat Jan 23 2010,Arbroath,1-4,1-3,Peterhead
+Sat Jan 23 2010,Clyde,0-3,0-1,Brechin
+Sat Jan 23 2010,Dumbarton,2-1,0-1,Cowdenbeath
+Sat Jan 23 2010,Stenhousemuir,0-2,0-2,Alloa
+Sat Jan 23 2010,Stirling,3-3,1-1,East Fife
+Wed Jan 27 2010,Arbroath,0-1,0-0,East Fife
+Sat Jan 30 2010,Alloa,1-0,0-0,Arbroath
+Sat Jan 30 2010,Brechin,2-2,0-0,Stenhousemuir
+Sat Feb 6 2010,Brechin,1-1,0-0,Alloa
+Sat Feb 6 2010,Clyde,0-2,0-1,Stenhousemuir
+Sat Feb 6 2010,Cowdenbeath,1-3,0-1,Peterhead
+Sat Feb 6 2010,East Fife,2-3,1-3,Dumbarton
+Tue Feb 9 2010,Alloa,2-1,1-0,Cowdenbeath
+Sat Feb 13 2010,Alloa,2-0,1-0,East Fife
+Sat Feb 13 2010,Arbroath,2-0,0-0,Clyde
+Sat Feb 13 2010,Peterhead,0-3,0-1,Brechin
+Sat Feb 13 2010,Stenhousemuir,0-0,0-0,Cowdenbeath
+Tue Feb 16 2010,Dumbarton,2-4,2-3,Stirling
+Sat Feb 27 2010,Alloa,2-1,1-1,Peterhead
+Sat Feb 27 2010,Arbroath,3-1,0-1,Dumbarton
+Sat Feb 27 2010,Stenhousemuir,1-1,1-0,East Fife
+Tue Mar 2 2010,Peterhead,2-1,1-1,Dumbarton
+Tue Mar 2 2010,Stirling,1-1,1-1,Stenhousemuir
+Sat Mar 6 2010,Alloa,2-2,1-1,Clyde
+Sat Mar 6 2010,Arbroath,1-1,1-1,Stenhousemuir
+Sat Mar 6 2010,Cowdenbeath,6-2,1-0,East Fife
+Sat Mar 6 2010,Dumbarton,0-1,0-0,Brechin
+Sat Mar 6 2010,Peterhead,1-1,0-0,Stirling
+Tue Mar 9 2010,Brechin,1-0,1-0,Stirling
+Tue Mar 9 2010,Cowdenbeath,2-1,0-1,Arbroath
+Tue Mar 9 2010,Dumbarton,3-1,1-0,Alloa
+Tue Mar 9 2010,East Fife,1-1,0-1,Clyde
+Tue Mar 9 2010,Stenhousemuir,2-0,0-0,Peterhead
+Sat Mar 13 2010,Brechin,0-2,0-2,Arbroath
+Sat Mar 13 2010,Clyde,1-2,0-1,Cowdenbeath
+Sat Mar 13 2010,East Fife,3-0,2-0,Peterhead
+Sat Mar 13 2010,Stenhousemuir,1-0,0-0,Dumbarton
+Sat Mar 13 2010,Stirling,0-3,0-1,Alloa
+Tue Mar 16 2010,Clyde,0-2,0-1,Dumbarton
+Tue Mar 16 2010,Cowdenbeath,1-1,0-0,Alloa
+Tue Mar 16 2010,East Fife,3-1,1-1,Arbroath
+Tue Mar 16 2010,Stirling,2-0,0-0,Peterhead
+Sat Mar 20 2010,Alloa,2-1,0-1,Stenhousemuir
+Sat Mar 20 2010,Brechin,3-1,0-1,Clyde
+Sat Mar 20 2010,Cowdenbeath,0-0,0-0,Dumbarton
+Sat Mar 20 2010,East Fife,0-3,0-1,Stirling
+Sat Mar 20 2010,Peterhead,3-0,1-0,Arbroath
+Tue Mar 23 2010,Alloa,2-1,1-1,Stirling
+Tue Mar 23 2010,Cowdenbeath,3-1,1-1,Clyde
+Tue Mar 23 2010,Dumbarton,2-1,1-0,Stenhousemuir
+Tue Mar 23 2010,Peterhead,3-1,0-0,East Fife
+Wed Mar 24 2010,Arbroath,1-0,1-0,Brechin
+Sat Mar 27 2010,Arbroath,0-0,0-0,Alloa
+Sat Mar 27 2010,Clyde,2-1,0-0,East Fife
+Sat Mar 27 2010,Dumbarton,1-3,0-0,Peterhead
+Sat Mar 27 2010,Stenhousemuir,1-2,1-1,Brechin
+Sat Mar 27 2010,Stirling,1-0,0-0,Cowdenbeath
+Tue Mar 30 2010,East Fife,2-0,1-0,Brechin
+Tue Mar 30 2010,Peterhead,0-0,0-0,Clyde
+Sat Apr 3 2010,Brechin,1-2,1-0,Peterhead
+Sat Apr 3 2010,Clyde,0-2,0-2,Arbroath
+Sat Apr 3 2010,Cowdenbeath,1-0,0-0,Stenhousemuir
+Sat Apr 3 2010,East Fife,0-1,0-0,Alloa
+Sat Apr 3 2010,Stirling,1-2,0-0,Dumbarton
+Tue Apr 6 2010,Brechin,0-1,0-0,Dumbarton
+Tue Apr 6 2010,Peterhead,0-1,0-1,Stenhousemuir
+Wed Apr 7 2010,Clyde,0-2,0-1,Alloa
+Sat Apr 10 2010,Alloa,2-3,0-1,Brechin
+Sat Apr 10 2010,Arbroath,2-4,1-1,Stirling
+Sat Apr 10 2010,Dumbarton,0-1,0-0,East Fife
+Sat Apr 10 2010,Peterhead,1-0,0-0,Cowdenbeath
+Sat Apr 10 2010,Stenhousemuir,0-3,0-1,Clyde
+Mon Apr 12 2010,Stirling,2-2,1-1,Arbroath
+Tue Apr 13 2010,Dumbarton,3-3,3-1,Clyde
+Wed Apr 14 2010,Stirling,6-2,2-0,Brechin
+Sat Apr 17 2010,Alloa,1-2,0-1,Dumbarton
+Sat Apr 17 2010,Arbroath,1-1,1-0,Cowdenbeath
+Sat Apr 17 2010,Brechin,1-0,0-0,East Fife
+Sat Apr 17 2010,Clyde,3-1,2-0,Peterhead
+Sat Apr 17 2010,Stenhousemuir,1-3,0-1,Stirling
+Tue Apr 20 2010,Brechin,3-3,0-3,Cowdenbeath
+Tue Apr 20 2010,Clyde,1-2,1-1,Stirling
+Sat Apr 24 2010,Cowdenbeath,4-0,2-0,Brechin
+Sat Apr 24 2010,Dumbarton,0-2,0-1,Arbroath
+Sat Apr 24 2010,East Fife,1-1,0-0,Stenhousemuir
+Sat Apr 24 2010,Peterhead,2-0,1-0,Alloa
+Sat Apr 24 2010,Stirling,1-0,1-0,Clyde
+Tue Apr 27 2010,Cowdenbeath,3-3,3-0,Stirling
+Sat May 1 2010,Alloa,3-1,0-1,Cowdenbeath
+Sat May 1 2010,Arbroath,2-2,0-0,East Fife
+Sat May 1 2010,Brechin,1-1,1-1,Stirling
+Sat May 1 2010,Clyde,4-2,3-1,Dumbarton
+Sat May 1 2010,Stenhousemuir,1-1,1-0,Peterhead

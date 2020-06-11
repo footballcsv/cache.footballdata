@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 18 2012,Celta,0-1,0-0,Malaga
+Sat Aug 18 2012,Mallorca,2-1,1-1,Espanol
+Sat Aug 18 2012,Sevilla,2-1,2-0,Getafe
+Sun Aug 19 2012,Ath Bilbao,3-5,0-3,Betis
+Sun Aug 19 2012,Barcelona,5-1,4-1,Sociedad
+Sun Aug 19 2012,Levante,1-1,1-1,Ath Madrid
+Sun Aug 19 2012,Real Madrid,1-1,1-1,Valencia
+Mon Aug 20 2012,La Coruna,2-0,0-0,Osasuna
+Mon Aug 20 2012,Vallecano,1-0,0-0,Granada
+Mon Aug 20 2012,Zaragoza,0-1,0-1,Valladolid
+Sat Aug 25 2012,Betis,1-2,1-1,Vallecano
+Sat Aug 25 2012,Espanol,1-2,1-0,Zaragoza
+Sat Aug 25 2012,Malaga,1-1,0-0,Mallorca
+Sat Aug 25 2012,Sociedad,2-1,0-0,Celta
+Sun Aug 26 2012,Getafe,2-1,0-1,Real Madrid
+Sun Aug 26 2012,Granada,1-1,1-1,Sevilla
+Sun Aug 26 2012,Osasuna,1-2,1-0,Barcelona
+Sun Aug 26 2012,Valencia,3-3,3-1,La Coruna
+Mon Aug 27 2012,Ath Madrid,4-0,2-0,Ath Bilbao
+Mon Aug 27 2012,Valladolid,2-0,1-0,Levante
+Sat Sep 1 2012,Celta,2-0,0-0,Osasuna
+Sat Sep 1 2012,La Coruna,1-1,1-1,Getafe
+Sat Sep 1 2012,Mallorca,1-0,0-0,Sociedad
+Sat Sep 1 2012,Zaragoza,0-1,0-0,Malaga
+Sun Sep 2 2012,Ath Bilbao,2-0,0-0,Valladolid
+Sun Sep 2 2012,Barcelona,1-0,1-0,Valencia
+Sun Sep 2 2012,Levante,3-2,0-2,Espanol
+Sun Sep 2 2012,Real Madrid,3-0,1-0,Granada
+Sun Sep 2 2012,Vallecano,0-0,0-0,Sevilla
+Sat Sep 15 2012,Getafe,1-4,0-1,Barcelona
+Sat Sep 15 2012,Malaga,3-1,1-0,Levante
+Sat Sep 15 2012,Sevilla,1-0,1-0,Real Madrid
+Sat Sep 15 2012,Valencia,2-1,1-1,Celta
+Sun Sep 16 2012,Ath Madrid,4-3,1-0,Vallecano
+Sun Sep 16 2012,Espanol,3-3,2-0,Ath Bilbao
+Sun Sep 16 2012,Granada,1-1,0-1,La Coruna
+Sun Sep 16 2012,Osasuna,1-1,0-0,Mallorca
+Sun Sep 16 2012,Sociedad,2-0,0-0,Zaragoza
+Mon Sep 17 2012,Valladolid,0-1,0-0,Betis
+Sat Sep 22 2012,Barcelona,2-0,0-0,Granada
+Sat Sep 22 2012,Betis,1-0,1-0,Espanol
+Sat Sep 22 2012,Celta,2-1,0-0,Getafe
+Sat Sep 22 2012,Zaragoza,3-1,2-1,Osasuna
+Sun Sep 23 2012,Ath Bilbao,0-0,0-0,Malaga
+Sun Sep 23 2012,Ath Madrid,2-1,2-0,Valladolid
+Sun Sep 23 2012,Levante,2-1,0-1,Sociedad
+Sun Sep 23 2012,Mallorca,2-0,1-0,Valencia
+Mon Sep 24 2012,La Coruna,0-2,0-0,Sevilla
+Mon Sep 24 2012,Vallecano,0-2,0-1,Real Madrid
+Wed Sep 26 2012,Betis,2-4,2-1,Ath Madrid
+Sat Sep 29 2012,Malaga,4-0,2-0,Betis
+Sat Sep 29 2012,Sevilla,2-3,1-0,Barcelona
+Sat Sep 29 2012,Sociedad,2-0,0-0,Ath Bilbao
+Sat Sep 29 2012,Valencia,2-0,1-0,Zaragoza
+Sun Sep 30 2012,Espanol,0-1,0-1,Ath Madrid
+Sun Sep 30 2012,Granada,2-1,2-1,Celta
+Sun Sep 30 2012,Osasuna,4-0,0-0,Levante
+Sun Sep 30 2012,Real Madrid,5-1,3-1,La Coruna
+Sun Sep 30 2012,Valladolid,6-1,4-1,Vallecano
+Mon Oct 1 2012,Getafe,1-0,0-0,Mallorca
+Fri Oct 5 2012,Celta,2-0,0-0,Sevilla
+Sat Oct 6 2012,Betis,2-0,1-0,Sociedad
+Sat Oct 6 2012,Valladolid,1-1,0-0,Espanol
+Sat Oct 6 2012,Vallecano,2-1,2-1,La Coruna
+Sat Oct 6 2012,Zaragoza,0-1,0-0,Getafe
+Sun Oct 7 2012,Ath Bilbao,1-0,1-0,Osasuna
+Sun Oct 7 2012,Ath Madrid,2-1,1-1,Malaga
+Sun Oct 7 2012,Barcelona,2-2,1-1,Real Madrid
+Sun Oct 7 2012,Levante,1-0,1-0,Valencia
+Sun Oct 7 2012,Mallorca,1-2,0-0,Granada
+Sat Oct 20 2012,La Coruna,4-5,2-4,Barcelona
+Sat Oct 20 2012,Malaga,2-1,1-1,Valladolid
+Sat Oct 20 2012,Real Madrid,2-0,1-0,Celta
+Sat Oct 20 2012,Valencia,3-2,1-2,Ath Bilbao
+Sun Oct 21 2012,Espanol,3-2,1-1,Vallecano
+Sun Oct 21 2012,Getafe,0-1,0-0,Levante
+Sun Oct 21 2012,Granada,1-2,0-2,Zaragoza
+Sun Oct 21 2012,Osasuna,0-0,0-0,Betis
+Sun Oct 21 2012,Sociedad,0-1,0-0,Ath Madrid
+Mon Oct 22 2012,Sevilla,3-2,1-2,Mallorca
+Sat Oct 27 2012,Betis,1-0,1-0,Valencia
+Sat Oct 27 2012,Celta,1-1,1-1,La Coruna
+Sat Oct 27 2012,Espanol,0-0,0-0,Malaga
+Sat Oct 27 2012,Vallecano,0-5,0-1,Barcelona
+Sun Oct 28 2012,Ath Bilbao,1-2,0-1,Getafe
+Sun Oct 28 2012,Ath Madrid,3-1,2-1,Osasuna
+Sun Oct 28 2012,Levante,3-1,1-0,Granada
+Sun Oct 28 2012,Mallorca,0-5,0-2,Real Madrid
+Sun Oct 28 2012,Zaragoza,2-1,2-0,Sevilla
+Mon Oct 29 2012,Valladolid,2-2,1-1,Sociedad
+Sat Nov 3 2012,Barcelona,3-1,2-1,Celta
+Sat Nov 3 2012,Malaga,1-2,0-1,Vallecano
+Sat Nov 3 2012,Real Madrid,4-0,2-0,Zaragoza
+Sat Nov 3 2012,Valencia,2-0,1-0,Ath Madrid
+Sun Nov 4 2012,Granada,1-2,0-2,Ath Bilbao
+Sun Nov 4 2012,La Coruna,1-0,1-0,Mallorca
+Sun Nov 4 2012,Osasuna,0-1,0-0,Valladolid
+Sun Nov 4 2012,Sevilla,0-0,0-0,Levante
+Sun Nov 4 2012,Sociedad,0-1,0-0,Espanol
+Mon Nov 5 2012,Getafe,2-4,0-0,Betis
+Fri Nov 9 2012,Betis,1-2,0-1,Granada
+Sat Nov 10 2012,Espanol,0-3,0-1,Osasuna
+Sat Nov 10 2012,Malaga,1-2,1-1,Sociedad
+Sat Nov 10 2012,Vallecano,3-2,0-2,Celta
+Sat Nov 10 2012,Zaragoza,5-3,1-2,La Coruna
+Sun Nov 11 2012,Ath Bilbao,2-1,2-0,Sevilla
+Sun Nov 11 2012,Ath Madrid,2-0,2-0,Getafe
+Sun Nov 11 2012,Levante,1-2,0-1,Real Madrid
+Sun Nov 11 2012,Mallorca,2-4,0-3,Barcelona
+Sun Nov 11 2012,Valladolid,1-1,0-1,Valencia
+Sat Nov 17 2012,Barcelona,3-1,2-1,Zaragoza
+Sat Nov 17 2012,Osasuna,0-0,0-0,Malaga
+Sat Nov 17 2012,Real Madrid,5-1,3-1,Ath Bilbao
+Sat Nov 17 2012,Valencia,2-1,1-1,Espanol
+Sun Nov 18 2012,Celta,1-1,0-1,Mallorca
+Sun Nov 18 2012,Getafe,2-1,0-1,Valladolid
+Sun Nov 18 2012,Granada,0-1,0-0,Ath Madrid
+Sun Nov 18 2012,La Coruna,0-2,0-1,Levante
+Sun Nov 18 2012,Sevilla,5-1,4-0,Betis
+Mon Nov 19 2012,Sociedad,4-0,2-0,Vallecano
+Fri Nov 23 2012,Sociedad,0-0,0-0,Osasuna
+Sat Nov 24 2012,Betis,1-0,1-0,Real Madrid
+Sat Nov 24 2012,Malaga,4-0,1-0,Valencia
+Sat Nov 24 2012,Valladolid,1-0,0-0,Granada
+Sat Nov 24 2012,Vallecano,2-0,0-0,Mallorca
+Sun Nov 25 2012,Ath Bilbao,1-1,1-0,La Coruna
+Sun Nov 25 2012,Ath Madrid,4-0,3-0,Sevilla
+Sun Nov 25 2012,Espanol,0-2,0-1,Getafe
+Sun Nov 25 2012,Levante,0-4,0-0,Barcelona
+Mon Nov 26 2012,Zaragoza,0-1,0-0,Celta
+Fri Nov 30 2012,Osasuna,1-0,1-0,Vallecano
+Sat Dec 1 2012,Barcelona,5-1,3-0,Ath Bilbao
+Sat Dec 1 2012,Getafe,1-0,0-0,Malaga
+Sat Dec 1 2012,Real Madrid,2-0,1-0,Ath Madrid
+Sat Dec 1 2012,Valencia,2-5,1-1,Sociedad
+Sun Dec 2 2012,Celta,1-1,1-0,Levante
+Sun Dec 2 2012,Granada,0-0,0-0,Espanol
+Sun Dec 2 2012,La Coruna,2-3,0-1,Betis
+Sun Dec 2 2012,Mallorca,1-1,0-1,Zaragoza
+Mon Dec 3 2012,Sevilla,1-2,0-2,Valladolid
+Fri Dec 7 2012,Espanol,2-2,1-1,Sevilla
+Sat Dec 8 2012,Malaga,4-0,2-0,Granada
+Sat Dec 8 2012,Osasuna,0-1,0-0,Valencia
+Sat Dec 8 2012,Sociedad,1-1,0-0,Getafe
+Sat Dec 8 2012,Valladolid,2-3,2-2,Real Madrid
+Sun Dec 9 2012,Ath Bilbao,1-0,1-0,Celta
+Sun Dec 9 2012,Ath Madrid,6-0,3-0,La Coruna
+Sun Dec 9 2012,Betis,1-2,1-2,Barcelona
+Sun Dec 9 2012,Levante,4-0,1-0,Mallorca
+Mon Dec 10 2012,Vallecano,0-2,0-1,Zaragoza
+Sat Dec 15 2012,Getafe,1-1,0-0,Osasuna
+Sat Dec 15 2012,Granada,0-0,0-0,Sociedad
+Sat Dec 15 2012,Mallorca,0-1,0-1,Ath Bilbao
+Sat Dec 15 2012,Sevilla,0-2,0-0,Malaga
+Sun Dec 16 2012,Barcelona,4-1,2-1,Ath Madrid
+Sun Dec 16 2012,Real Madrid,2-2,1-1,Espanol
+Sun Dec 16 2012,Valencia,0-1,0-0,Vallecano
+Sun Dec 16 2012,Zaragoza,0-1,0-1,Levante
+Mon Dec 17 2012,Celta,0-1,0-0,Betis
+Mon Dec 17 2012,La Coruna,0-0,0-0,Valladolid
+Thu Dec 20 2012,Espanol,2-0,1-0,La Coruna
+Thu Dec 20 2012,Sociedad,2-1,1-0,Sevilla
+Thu Dec 20 2012,Vallecano,3-0,0-0,Levante
+Fri Dec 21 2012,Ath Madrid,1-0,0-0,Celta
+Fri Dec 21 2012,Valencia,4-2,3-1,Getafe
+Sat Dec 22 2012,Ath Bilbao,0-2,0-2,Zaragoza
+Sat Dec 22 2012,Betis,1-2,1-1,Mallorca
+Sat Dec 22 2012,Malaga,3-2,0-0,Real Madrid
+Sat Dec 22 2012,Osasuna,1-2,1-1,Granada
+Sat Dec 22 2012,Valladolid,1-3,0-1,Barcelona
+Fri Jan 4 2013,Zaragoza,1-2,0-1,Betis
+Sat Jan 5 2013,Granada,1-2,0-0,Valencia
+Sat Jan 5 2013,La Coruna,1-0,0-0,Malaga
+Sat Jan 5 2013,Levante,3-1,2-1,Ath Bilbao
+Sat Jan 5 2013,Sevilla,1-0,0-0,Osasuna
+Sun Jan 6 2013,Barcelona,4-0,4-0,Espanol
+Sun Jan 6 2013,Celta,3-1,2-1,Valladolid
+Sun Jan 6 2013,Mallorca,1-1,0-0,Ath Madrid
+Sun Jan 6 2013,Real Madrid,4-3,2-2,Sociedad
+Mon Jan 7 2013,Vallecano,3-1,2-0,Getafe
+Fri Jan 11 2013,Ath Bilbao,1-2,0-0,Vallecano
+Sat Jan 12 2013,Espanol,1-0,1-0,Celta
+Sat Jan 12 2013,Osasuna,0-0,0-0,Real Madrid
+Sat Jan 12 2013,Valencia,2-0,0-0,Sevilla
+Sat Jan 12 2013,Valladolid,3-1,1-1,Mallorca
+Sun Jan 13 2013,Ath Madrid,2-0,2-0,Zaragoza
+Sun Jan 13 2013,Betis,2-0,1-0,Levante
+Sun Jan 13 2013,Malaga,1-3,0-1,Barcelona
+Sun Jan 13 2013,Sociedad,1-1,1-1,La Coruna
+Mon Jan 14 2013,Getafe,2-2,2-1,Granada
+Fri Jan 18 2013,Espanol,3-2,1-2,Mallorca
+Sat Jan 19 2013,Getafe,1-1,1-1,Sevilla
+Sat Jan 19 2013,Granada,2-0,1-0,Vallecano
+Sat Jan 19 2013,Malaga,1-1,1-0,Celta
+Sat Jan 19 2013,Sociedad,3-2,1-2,Barcelona
+Sun Jan 20 2013,Ath Madrid,2-0,1-0,Levante
+Sun Jan 20 2013,Osasuna,2-1,1-0,La Coruna
+Sun Jan 20 2013,Valencia,0-5,0-5,Real Madrid
+Sun Jan 20 2013,Valladolid,2-0,1-0,Zaragoza
+Mon Jan 21 2013,Betis,1-1,1-1,Ath Bilbao
+Sat Jan 26 2013,Celta,1-1,1-0,Sociedad
+Sat Jan 26 2013,La Coruna,2-3,2-1,Valencia
+Sat Jan 26 2013,Levante,2-1,1-1,Valladolid
+Sat Jan 26 2013,Zaragoza,0-0,0-0,Espanol
+Sun Jan 27 2013,Ath Bilbao,3-0,0-0,Ath Madrid
+Sun Jan 27 2013,Barcelona,5-1,3-1,Osasuna
+Sun Jan 27 2013,Mallorca,2-3,1-2,Malaga
+Sun Jan 27 2013,Real Madrid,4-0,0-0,Getafe
+Sun Jan 27 2013,Vallecano,3-0,1-0,Betis
+Mon Jan 28 2013,Sevilla,3-0,1-0,Granada
+Fri Feb 1 2013,Valladolid,2-2,2-1,Ath Bilbao
+Sat Feb 2 2013,Espanol,3-2,1-0,Levante
+Sat Feb 2 2013,Getafe,3-1,1-1,La Coruna
+Sat Feb 2 2013,Granada,1-0,1-0,Real Madrid
+Sat Feb 2 2013,Osasuna,1-0,0-0,Celta
+Sun Feb 3 2013,Ath Madrid,1-0,0-0,Betis
+Sun Feb 3 2013,Malaga,1-1,1-1,Zaragoza
+Sun Feb 3 2013,Sevilla,2-1,1-0,Vallecano
+Sun Feb 3 2013,Sociedad,3-0,0-0,Mallorca
+Sun Feb 3 2013,Valencia,1-1,1-1,Barcelona
+Sat Feb 9 2013,Celta,0-1,0-0,Valencia
+Sat Feb 9 2013,La Coruna,0-3,0-1,Granada
+Sat Feb 9 2013,Levante,1-2,1-1,Malaga
+Sat Feb 9 2013,Mallorca,1-1,0-0,Osasuna
+Sat Feb 9 2013,Real Madrid,4-1,2-0,Sevilla
+Sun Feb 10 2013,Ath Bilbao,0-4,0-1,Espanol
+Sun Feb 10 2013,Barcelona,6-1,2-0,Getafe
+Sun Feb 10 2013,Vallecano,2-1,2-0,Ath Madrid
+Sun Feb 10 2013,Zaragoza,1-2,0-2,Sociedad
+Mon Feb 11 2013,Betis,0-0,0-0,Valladolid
+Fri Feb 15 2013,Sevilla,3-1,3-1,La Coruna
+Sat Feb 16 2013,Getafe,3-1,3-1,Celta
+Sat Feb 16 2013,Granada,1-2,1-0,Barcelona
+Sat Feb 16 2013,Malaga,1-0,1-0,Ath Bilbao
+Sat Feb 16 2013,Osasuna,1-0,1-0,Zaragoza
+Sun Feb 17 2013,Espanol,1-0,1-0,Betis
+Sun Feb 17 2013,Real Madrid,2-0,2-0,Vallecano
+Sun Feb 17 2013,Sociedad,1-1,1-1,Levante
+Sun Feb 17 2013,Valencia,2-0,0-0,Mallorca
+Sun Feb 17 2013,Valladolid,0-3,0-1,Ath Madrid
+Fri Feb 22 2013,Ath Bilbao,1-3,1-1,Sociedad
+Sat Feb 23 2013,Barcelona,2-1,0-1,Sevilla
+Sat Feb 23 2013,La Coruna,1-2,1-0,Real Madrid
+Sat Feb 23 2013,Mallorca,1-3,1-0,Getafe
+Sat Feb 23 2013,Zaragoza,2-2,2-1,Valencia
+Sun Feb 24 2013,Ath Madrid,1-0,1-0,Espanol
+Sun Feb 24 2013,Betis,3-0,3-0,Malaga
+Sun Feb 24 2013,Celta,2-1,1-1,Granada
+Sun Feb 24 2013,Vallecano,1-2,0-0,Valladolid
+Mon Feb 25 2013,Levante,0-2,0-0,Osasuna
+Fri Mar 1 2013,Getafe,2-0,1-0,Zaragoza
+Sat Mar 2 2013,La Coruna,0-0,0-0,Vallecano
+Sat Mar 2 2013,Osasuna,0-1,0-0,Ath Bilbao
+Sat Mar 2 2013,Real Madrid,2-1,1-1,Barcelona
+Sat Mar 2 2013,Valencia,2-2,2-1,Levante
+Sun Mar 3 2013,Espanol,0-0,0-0,Valladolid
+Sun Mar 3 2013,Granada,1-2,1-1,Mallorca
+Sun Mar 3 2013,Malaga,0-0,0-0,Ath Madrid
+Sun Mar 3 2013,Sociedad,3-3,0-1,Betis
+Mon Mar 4 2013,Sevilla,4-1,2-1,Celta
+Fri Mar 8 2013,Betis,2-1,1-0,Osasuna
+Sat Mar 9 2013,Barcelona,2-0,1-0,La Coruna
+Sat Mar 9 2013,Mallorca,2-1,1-0,Sevilla
+Sat Mar 9 2013,Valladolid,1-1,1-1,Malaga
+Sat Mar 9 2013,Vallecano,2-0,1-0,Espanol
+Sun Mar 10 2013,Ath Bilbao,1-0,0-0,Valencia
+Sun Mar 10 2013,Ath Madrid,0-1,0-0,Sociedad
+Sun Mar 10 2013,Celta,1-2,0-0,Real Madrid
+Sun Mar 10 2013,Levante,0-0,0-0,Getafe
+Mon Mar 11 2013,Zaragoza,0-0,0-0,Granada
+Fri Mar 15 2013,La Coruna,3-1,1-0,Celta
+Sat Mar 16 2013,Getafe,1-0,1-0,Ath Bilbao
+Sat Mar 16 2013,Real Madrid,5-2,1-2,Mallorca
+Sat Mar 16 2013,Sociedad,4-1,3-0,Valladolid
+Sat Mar 16 2013,Valencia,3-0,1-0,Betis
+Sun Mar 17 2013,Barcelona,3-1,2-0,Vallecano
+Sun Mar 17 2013,Granada,1-1,1-0,Levante
+Sun Mar 17 2013,Malaga,0-2,0-0,Espanol
+Sun Mar 17 2013,Osasuna,0-2,0-1,Ath Madrid
+Sun Mar 17 2013,Sevilla,4-0,1-0,Zaragoza
+Sat Mar 30 2013,Celta,2-2,1-1,Barcelona
+Sat Mar 30 2013,Levante,1-0,1-0,Sevilla
+Sat Mar 30 2013,Vallecano,1-3,1-1,Malaga
+Sat Mar 30 2013,Zaragoza,1-1,1-1,Real Madrid
+Sun Mar 31 2013,Ath Madrid,1-1,1-1,Valencia
+Sun Mar 31 2013,Espanol,2-2,2-1,Sociedad
+Sun Mar 31 2013,Mallorca,2-3,1-1,La Coruna
+Sun Mar 31 2013,Valladolid,1-3,1-0,Osasuna
+Mon Apr 1 2013,Ath Bilbao,1-0,0-0,Granada
+Mon Apr 1 2013,Betis,0-0,0-0,Getafe
+Fri Apr 5 2013,Granada,1-5,0-3,Betis
+Sat Apr 6 2013,Barcelona,5-0,4-0,Mallorca
+Sat Apr 6 2013,La Coruna,3-2,2-2,Zaragoza
+Sat Apr 6 2013,Real Madrid,5-1,2-1,Levante
+Sat Apr 6 2013,Sociedad,4-2,3-1,Malaga
+Sun Apr 7 2013,Celta,0-2,0-1,Vallecano
+Sun Apr 7 2013,Getafe,0-0,0-0,Ath Madrid
+Sun Apr 7 2013,Osasuna,0-2,0-0,Espanol
+Sun Apr 7 2013,Valencia,2-1,1-0,Valladolid
+Mon Apr 8 2013,Sevilla,2-1,1-0,Ath Bilbao
+Fri Apr 12 2013,Betis,3-3,1-3,Sevilla
+Sat Apr 13 2013,Espanol,3-3,1-0,Valencia
+Sat Apr 13 2013,Levante,0-4,0-3,La Coruna
+Sat Apr 13 2013,Malaga,1-0,0-0,Osasuna
+Sat Apr 13 2013,Valladolid,2-1,0-1,Getafe
+Sun Apr 14 2013,Ath Bilbao,0-3,0-1,Real Madrid
+Sun Apr 14 2013,Ath Madrid,5-0,2-0,Granada
+Sun Apr 14 2013,Vallecano,0-2,0-2,Sociedad
+Sun Apr 14 2013,Zaragoza,0-3,0-2,Barcelona
+Mon Apr 15 2013,Mallorca,1-0,0-0,Celta
+Fri Apr 19 2013,Mallorca,1-1,1-1,Vallecano
+Sat Apr 20 2013,Barcelona,1-0,0-0,Levante
+Sat Apr 20 2013,Granada,1-1,0-0,Valladolid
+Sat Apr 20 2013,Real Madrid,3-1,1-0,Betis
+Sat Apr 20 2013,Valencia,5-1,4-1,Malaga
+Sun Apr 21 2013,Getafe,0-2,0-1,Espanol
+Sun Apr 21 2013,La Coruna,1-1,1-1,Ath Bilbao
+Sun Apr 21 2013,Osasuna,0-0,0-0,Sociedad
+Sun Apr 21 2013,Sevilla,0-1,0-0,Ath Madrid
+Mon Apr 22 2013,Celta,2-1,1-1,Zaragoza
+Fri Apr 26 2013,Vallecano,2-2,1-2,Osasuna
+Sat Apr 27 2013,Ath Bilbao,2-2,1-0,Barcelona
+Sat Apr 27 2013,Ath Madrid,1-2,1-1,Real Madrid
+Sat Apr 27 2013,Levante,0-1,0-1,Celta
+Sat Apr 27 2013,Zaragoza,3-2,1-1,Mallorca
+Sun Apr 28 2013,Espanol,0-1,0-1,Granada
+Sun Apr 28 2013,Malaga,2-1,1-0,Getafe
+Sun Apr 28 2013,Sociedad,4-2,1-1,Valencia
+Sun Apr 28 2013,Valladolid,1-1,1-0,Sevilla
+Mon Apr 29 2013,Betis,1-1,0-1,La Coruna
+Fri May 3 2013,Celta,1-1,0-1,Ath Bilbao
+Sat May 4 2013,Granada,1-0,1-0,Malaga
+Sat May 4 2013,La Coruna,0-0,0-0,Ath Madrid
+Sat May 4 2013,Real Madrid,4-3,2-2,Valladolid
+Sat May 4 2013,Valencia,4-0,2-0,Osasuna
+Sun May 5 2013,Barcelona,4-2,1-2,Betis
+Sun May 5 2013,Mallorca,1-1,1-1,Levante
+Sun May 5 2013,Sevilla,3-0,3-0,Espanol
+Sun May 5 2013,Zaragoza,3-0,1-0,Vallecano
+Mon May 6 2013,Getafe,2-1,2-1,Sociedad
+Wed May 8 2013,Celta,1-3,0-0,Ath Madrid
+Wed May 8 2013,Real Madrid,6-2,4-2,Malaga
+Fri May 10 2013,Levante,0-0,0-0,Zaragoza
+Sat May 11 2013,Ath Bilbao,2-1,1-0,Mallorca
+Sat May 11 2013,Espanol,1-1,1-0,Real Madrid
+Sat May 11 2013,Osasuna,1-0,0-0,Getafe
+Sat May 11 2013,Valladolid,1-0,0-0,La Coruna
+Sun May 12 2013,Ath Madrid,1-2,0-0,Barcelona
+Sun May 12 2013,Betis,1-0,0-0,Celta
+Sun May 12 2013,Malaga,0-0,0-0,Sevilla
+Sun May 12 2013,Vallecano,0-4,0-2,Valencia
+Mon May 13 2013,Sociedad,2-2,2-1,Granada
+Sat May 18 2013,Getafe,0-1,0-1,Valencia
+Sat May 18 2013,Granada,3-0,1-0,Osasuna
+Sat May 18 2013,Sevilla,1-2,1-2,Sociedad
+Sun May 19 2013,Barcelona,2-1,2-0,Valladolid
+Sun May 19 2013,La Coruna,2-0,0-0,Espanol
+Sun May 19 2013,Levante,2-3,0-1,Vallecano
+Sun May 19 2013,Zaragoza,1-2,1-0,Ath Bilbao
+Mon May 20 2013,Mallorca,1-0,1-0,Betis
+Sun May 26 2013,Ath Bilbao,0-1,0-0,Levante
+Sun May 26 2013,Ath Madrid,0-0,0-0,Mallorca
+Sun May 26 2013,Betis,4-0,2-0,Zaragoza
+Sun May 26 2013,Espanol,0-2,0-1,Barcelona
+Sun May 26 2013,Getafe,1-2,0-0,Vallecano
+Sun May 26 2013,Malaga,3-1,1-0,La Coruna
+Sun May 26 2013,Osasuna,2-1,0-0,Sevilla
+Sun May 26 2013,Sociedad,3-3,0-1,Real Madrid
+Sun May 26 2013,Valencia,1-0,0-0,Granada
+Sun May 26 2013,Valladolid,0-2,0-1,Celta
+Sat Jun 1 2013,Barcelona,4-1,3-0,Malaga
+Sat Jun 1 2013,Celta,1-0,1-0,Espanol
+Sat Jun 1 2013,Granada,2-0,1-0,Getafe
+Sat Jun 1 2013,La Coruna,0-1,0-1,Sociedad
+Sat Jun 1 2013,Levante,1-1,0-0,Betis
+Sat Jun 1 2013,Mallorca,4-2,2-1,Valladolid
+Sat Jun 1 2013,Real Madrid,4-2,2-0,Osasuna
+Sat Jun 1 2013,Sevilla,4-3,2-1,Valencia
+Sat Jun 1 2013,Vallecano,2-2,1-1,Ath Bilbao
+Sat Jun 1 2013,Zaragoza,1-3,0-0,Ath Madrid

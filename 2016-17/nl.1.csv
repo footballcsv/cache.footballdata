@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 5 2016,Nijmegen,1-1,0-1,Zwolle
+Sat Aug 6 2016,Den Haag,3-0,1-0,Go Ahead Eagles
+Sat Aug 6 2016,Twente,1-2,0-1,Excelsior
+Sat Aug 6 2016,Utrecht,1-2,1-0,PSV Eindhoven
+Sat Aug 6 2016,Willem II,1-4,0-4,Vitesse
+Sun Aug 7 2016,AZ Alkmaar,2-2,1-1,Heerenveen
+Sun Aug 7 2016,Groningen,0-5,0-3,Feyenoord
+Sun Aug 7 2016,Roda,1-1,0-1,Heracles
+Sun Aug 7 2016,Sparta Rotterdam,1-3,1-1,Ajax
+Fri Aug 12 2016,Heerenveen,2-2,1-2,Utrecht
+Sat Aug 13 2016,Ajax,2-2,2-1,Roda
+Sat Aug 13 2016,Excelsior,2-0,1-0,Groningen
+Sat Aug 13 2016,Vitesse,1-2,1-1,Den Haag
+Sat Aug 13 2016,Zwolle,0-3,0-1,Sparta Rotterdam
+Sun Aug 14 2016,Feyenoord,2-0,1-0,Twente
+Sun Aug 14 2016,Go Ahead Eagles,2-2,0-1,Nijmegen
+Sun Aug 14 2016,Heracles,3-1,1-0,Willem II
+Sun Aug 14 2016,PSV Eindhoven,1-0,0-0,AZ Alkmaar
+Fri Aug 19 2016,Excelsior,1-2,1-1,Den Haag
+Sat Aug 20 2016,Ajax,1-2,1-2,Willem II
+Sat Aug 20 2016,Nijmegen,2-1,1-1,Heerenveen
+Sat Aug 20 2016,Roda,0-1,0-1,Vitesse
+Sat Aug 20 2016,Zwolle,0-4,0-2,PSV Eindhoven
+Sun Aug 21 2016,Groningen,3-4,0-3,Twente
+Sun Aug 21 2016,Heracles,0-1,0-1,Feyenoord
+Sun Aug 21 2016,Sparta Rotterdam,1-0,0-0,Go Ahead Eagles
+Sun Aug 21 2016,Utrecht,1-2,0-1,AZ Alkmaar
+Fri Aug 26 2016,Vitesse,1-1,1-0,Utrecht
+Sat Aug 27 2016,Feyenoord,4-1,1-1,Excelsior
+Sat Aug 27 2016,Heerenveen,1-0,0-0,Zwolle
+Sat Aug 27 2016,Twente,3-1,2-0,Sparta Rotterdam
+Sat Aug 27 2016,Willem II,0-0,0-0,Roda
+Sun Aug 28 2016,AZ Alkmaar,2-0,1-0,Nijmegen
+Sun Aug 28 2016,Den Haag,1-1,1-1,Heracles
+Sun Aug 28 2016,Go Ahead Eagles,0-3,0-2,Ajax
+Sun Aug 28 2016,PSV Eindhoven,0-0,0-0,Groningen
+Sat Sep 10 2016,AZ Alkmaar,2-0,1-0,Willem II
+Sat Sep 10 2016,Excelsior,3-1,3-0,Heracles
+Sat Sep 10 2016,Heerenveen,3-1,1-0,Twente
+Sat Sep 10 2016,Nijmegen,0-4,0-4,PSV Eindhoven
+Sat Sep 10 2016,Zwolle,1-1,1-0,Utrecht
+Sun Sep 11 2016,Ajax,1-0,0-0,Vitesse
+Sun Sep 11 2016,Feyenoord,3-1,2-0,Den Haag
+Sun Sep 11 2016,Go Ahead Eagles,2-0,1-0,Roda
+Sun Sep 11 2016,Groningen,1-1,1-1,Sparta Rotterdam
+Fri Sep 16 2016,Utrecht,1-5,0-2,Groningen
+Sat Sep 17 2016,Roda,0-3,0-1,Heerenveen
+Sat Sep 17 2016,Twente,4-1,2-0,Den Haag
+Sat Sep 17 2016,Vitesse,2-0,0-0,Go Ahead Eagles
+Sat Sep 17 2016,Willem II,1-1,1-0,Excelsior
+Sun Sep 18 2016,Heracles,0-2,0-0,Ajax
+Sun Sep 18 2016,PSV Eindhoven,0-1,0-0,Feyenoord
+Sun Sep 18 2016,Sparta Rotterdam,2-0,1-0,Nijmegen
+Sun Sep 18 2016,Zwolle,0-2,0-1,AZ Alkmaar
+Sat Sep 24 2016,Ajax,5-1,2-1,Zwolle
+Sat Sep 24 2016,AZ Alkmaar,2-2,1-0,Go Ahead Eagles
+Sat Sep 24 2016,Den Haag,0-3,0-1,Heerenveen
+Sat Sep 24 2016,Excelsior,1-3,1-2,PSV Eindhoven
+Sat Sep 24 2016,Groningen,0-0,0-0,Heracles
+Sun Sep 25 2016,Feyenoord,5-0,2-0,Roda
+Sun Sep 25 2016,Nijmegen,0-0,0-0,Willem II
+Sun Sep 25 2016,Twente,2-1,1-0,Vitesse
+Sun Sep 25 2016,Utrecht,2-0,1-0,Sparta Rotterdam
+Fri Sep 30 2016,Zwolle,2-1,0-0,Den Haag
+Sat Oct 1 2016,Go Ahead Eagles,3-0,2-0,Excelsior
+Sat Oct 1 2016,Heerenveen,1-1,0-0,PSV Eindhoven
+Sat Oct 1 2016,Roda,0-1,0-0,Nijmegen
+Sat Oct 1 2016,Vitesse,2-1,1-1,Groningen
+Sun Oct 2 2016,Ajax,3-2,0-1,Utrecht
+Sun Oct 2 2016,Heracles,1-1,1-1,Twente
+Sun Oct 2 2016,Sparta Rotterdam,1-1,1-1,AZ Alkmaar
+Sun Oct 2 2016,Willem II,0-2,0-1,Feyenoord
+Sat Oct 15 2016,AZ Alkmaar,2-2,0-1,Vitesse
+Sat Oct 15 2016,Groningen,0-3,0-1,Heerenveen
+Sat Oct 15 2016,PSV Eindhoven,1-1,1-1,Heracles
+Sat Oct 15 2016,Sparta Rotterdam,2-2,0-1,Willem II
+Sat Oct 15 2016,Utrecht,3-0,1-0,Go Ahead Eagles
+Sun Oct 16 2016,Den Haag,0-2,0-1,Ajax
+Sun Oct 16 2016,Excelsior,0-1,0-0,Roda
+Sun Oct 16 2016,Nijmegen,1-2,1-0,Feyenoord
+Sun Oct 16 2016,Twente,2-2,1-1,Zwolle
+Fri Oct 21 2016,Excelsior,0-2,0-0,Zwolle
+Sat Oct 22 2016,Go Ahead Eagles,0-2,0-1,Twente
+Sat Oct 22 2016,PSV Eindhoven,1-0,0-0,Sparta Rotterdam
+Sat Oct 22 2016,Roda,1-1,0-1,Den Haag
+Sat Oct 22 2016,Willem II,0-1,0-0,Utrecht
+Sun Oct 23 2016,Feyenoord,1-1,0-0,Ajax
+Sun Oct 23 2016,Groningen,2-0,2-0,AZ Alkmaar
+Sun Oct 23 2016,Heerenveen,3-1,1-1,Heracles
+Sun Oct 23 2016,Nijmegen,1-1,0-1,Vitesse
+Fri Oct 28 2016,Twente,0-0,0-0,Roda
+Sat Oct 29 2016,Ajax,1-0,0-0,Excelsior
+Sat Oct 29 2016,Heracles,2-2,0-1,Sparta Rotterdam
+Sat Oct 29 2016,Vitesse,0-2,0-1,PSV Eindhoven
+Sat Oct 29 2016,Willem II,2-1,0-0,Groningen
+Sun Oct 30 2016,Den Haag,0-1,0-0,AZ Alkmaar
+Sun Oct 30 2016,Feyenoord,2-2,2-1,Heerenveen
+Sun Oct 30 2016,Utrecht,1-1,1-0,Nijmegen
+Sun Oct 30 2016,Zwolle,3-1,1-1,Go Ahead Eagles
+Fri Nov 4 2016,Sparta Rotterdam,3-1,2-1,Heerenveen
+Sat Nov 5 2016,Den Haag,1-0,0-0,Willem II
+Sat Nov 5 2016,Nijmegen,1-1,0-0,Groningen
+Sat Nov 5 2016,PSV Eindhoven,1-1,0-0,Twente
+Sat Nov 5 2016,Zwolle,0-0,0-0,Roda
+Sun Nov 6 2016,AZ Alkmaar,2-2,1-0,Ajax
+Sun Nov 6 2016,Go Ahead Eagles,1-0,1-0,Feyenoord
+Sun Nov 6 2016,Utrecht,2-1,0-0,Excelsior
+Sun Nov 6 2016,Vitesse,1-2,0-0,Heracles
+Sat Nov 19 2016,Excelsior,3-2,2-1,Sparta Rotterdam
+Sat Nov 19 2016,Groningen,2-1,1-1,Den Haag
+Sat Nov 19 2016,Heerenveen,1-1,0-0,Vitesse
+Sat Nov 19 2016,Heracles,2-1,0-1,Go Ahead Eagles
+Sat Nov 19 2016,Willem II,0-0,0-0,PSV Eindhoven
+Sun Nov 20 2016,Ajax,5-0,3-0,Nijmegen
+Sun Nov 20 2016,Feyenoord,3-0,1-0,Zwolle
+Sun Nov 20 2016,Roda,1-1,1-0,AZ Alkmaar
+Sun Nov 20 2016,Twente,1-1,1-1,Utrecht
+Fri Nov 25 2016,Go Ahead Eagles,0-1,0-0,Willem II
+Sat Nov 26 2016,Nijmegen,3-2,2-0,Twente
+Sat Nov 26 2016,PSV Eindhoven,3-1,1-0,Den Haag
+Sat Nov 26 2016,Vitesse,2-2,1-2,Excelsior
+Sat Nov 26 2016,Zwolle,0-4,0-2,Groningen
+Sun Nov 27 2016,AZ Alkmaar,5-1,3-0,Heracles
+Sun Nov 27 2016,Heerenveen,0-1,0-0,Ajax
+Sun Nov 27 2016,Sparta Rotterdam,2-2,0-1,Roda
+Sun Nov 27 2016,Utrecht,3-3,1-1,Feyenoord
+Fri Dec 2 2016,Heracles,2-0,1-0,Nijmegen
+Sat Dec 3 2016,Excelsior,3-3,2-2,AZ Alkmaar
+Sat Dec 3 2016,Go Ahead Eagles,1-3,1-3,Heerenveen
+Sat Dec 3 2016,Roda,0-0,0-0,PSV Eindhoven
+Sat Dec 3 2016,Vitesse,3-1,2-0,Zwolle
+Sun Dec 4 2016,Ajax,2-0,1-0,Groningen
+Sun Dec 4 2016,Den Haag,0-2,0-1,Utrecht
+Sun Dec 4 2016,Feyenoord,6-1,2-0,Sparta Rotterdam
+Sun Dec 4 2016,Willem II,0-0,0-0,Twente
+Fri Dec 9 2016,Groningen,2-0,1-0,Roda
+Sat Dec 10 2016,Heerenveen,2-1,0-1,Excelsior
+Sat Dec 10 2016,Nijmegen,3-0,3-0,Den Haag
+Sat Dec 10 2016,PSV Eindhoven,1-0,0-0,Go Ahead Eagles
+Sat Dec 10 2016,Zwolle,0-0,0-0,Willem II
+Sun Dec 11 2016,AZ Alkmaar,0-4,0-3,Feyenoord
+Sun Dec 11 2016,Sparta Rotterdam,0-1,0-0,Vitesse
+Sun Dec 11 2016,Twente,1-0,0-0,Ajax
+Sun Dec 11 2016,Utrecht,2-0,1-0,Heracles
+Fri Dec 16 2016,Willem II,2-1,1-1,Heerenveen
+Sat Dec 17 2016,Feyenoord,3-1,2-1,Vitesse
+Sat Dec 17 2016,Roda,0-0,0-0,Utrecht
+Sat Dec 17 2016,Twente,1-2,0-0,AZ Alkmaar
+Sun Dec 18 2016,Ajax,1-1,0-0,PSV Eindhoven
+Sun Dec 18 2016,Den Haag,1-0,0-0,Sparta Rotterdam
+Sun Dec 18 2016,Excelsior,2-2,1-1,Nijmegen
+Sun Dec 18 2016,Groningen,1-1,1-1,Go Ahead Eagles
+Sun Dec 18 2016,Heracles,3-0,1-0,Zwolle
+Fri Jan 13 2017,Go Ahead Eagles,1-3,0-0,AZ Alkmaar
+Sat Jan 14 2017,Heerenveen,2-0,0-0,Den Haag
+Sat Jan 14 2017,Heracles,1-4,0-3,Groningen
+Sat Jan 14 2017,PSV Eindhoven,2-0,1-0,Excelsior
+Sat Jan 14 2017,Sparta Rotterdam,1-2,1-0,Utrecht
+Sun Jan 15 2017,Roda,0-2,0-0,Feyenoord
+Sun Jan 15 2017,Vitesse,3-1,2-0,Twente
+Sun Jan 15 2017,Willem II,0-1,0-0,Nijmegen
+Sun Jan 15 2017,Zwolle,1-3,0-0,Ajax
+Fri Jan 20 2017,Twente,1-0,1-0,Heracles
+Sat Jan 21 2017,AZ Alkmaar,1-1,0-0,Sparta Rotterdam
+Sat Jan 21 2017,Den Haag,1-2,1-1,Zwolle
+Sat Jan 21 2017,Feyenoord,1-0,1-0,Willem II
+Sat Jan 21 2017,Groningen,1-1,1-0,Vitesse
+Sun Jan 22 2017,Excelsior,1-1,1-1,Go Ahead Eagles
+Sun Jan 22 2017,Nijmegen,2-0,1-0,Roda
+Sun Jan 22 2017,PSV Eindhoven,4-3,2-1,Heerenveen
+Sun Jan 22 2017,Utrecht,0-1,0-0,Ajax
+Fri Jan 27 2017,Willem II,3-2,2-1,Sparta Rotterdam
+Sat Jan 28 2017,Go Ahead Eagles,0-1,0-1,Utrecht
+Sat Jan 28 2017,Heracles,1-2,0-0,PSV Eindhoven
+Sat Jan 28 2017,Roda,4-0,2-0,Excelsior
+Sun Jan 29 2017,Ajax,3-0,2-0,Den Haag
+Sun Jan 29 2017,Feyenoord,4-0,2-0,Nijmegen
+Sun Jan 29 2017,Heerenveen,0-0,0-0,Groningen
+Sun Jan 29 2017,Vitesse,2-1,1-0,AZ Alkmaar
+Sun Jan 29 2017,Zwolle,1-2,1-1,Twente
+Fri Feb 3 2017,Den Haag,0-2,0-2,Vitesse
+Sat Feb 4 2017,AZ Alkmaar,2-4,1-3,PSV Eindhoven
+Sat Feb 4 2017,Groningen,1-1,0-0,Excelsior
+Sat Feb 4 2017,Nijmegen,1-2,0-2,Go Ahead Eagles
+Sat Feb 4 2017,Willem II,1-3,1-0,Heracles
+Sun Feb 5 2017,Roda,0-2,0-0,Ajax
+Sun Feb 5 2017,Sparta Rotterdam,2-3,0-0,Zwolle
+Sun Feb 5 2017,Twente,0-2,0-0,Feyenoord
+Sun Feb 5 2017,Utrecht,1-0,1-0,Heerenveen
+Fri Feb 10 2017,Zwolle,2-0,0-0,Nijmegen
+Sat Feb 11 2017,Feyenoord,2-0,1-0,Groningen
+Sat Feb 11 2017,Go Ahead Eagles,3-1,1-0,Den Haag
+Sat Feb 11 2017,Heracles,2-2,0-0,Roda
+Sat Feb 11 2017,Vitesse,0-2,0-0,Willem II
+Sun Feb 12 2017,Ajax,2-0,1-0,Sparta Rotterdam
+Sun Feb 12 2017,Excelsior,1-1,1-1,Twente
+Sun Feb 12 2017,Heerenveen,1-2,0-1,AZ Alkmaar
+Sun Feb 12 2017,PSV Eindhoven,3-0,0-0,Utrecht
+Fri Feb 17 2017,Roda,1-0,0-0,Go Ahead Eagles
+Sat Feb 18 2017,Heracles,4-0,1-0,Excelsior
+Sat Feb 18 2017,PSV Eindhoven,3-1,1-1,Nijmegen
+Sat Feb 18 2017,Twente,1-0,0-0,Heerenveen
+Sat Feb 18 2017,Utrecht,3-1,1-0,Zwolle
+Sun Feb 19 2017,Den Haag,0-1,0-0,Feyenoord
+Sun Feb 19 2017,Sparta Rotterdam,2-2,2-2,Groningen
+Sun Feb 19 2017,Vitesse,0-1,0-1,Ajax
+Sun Feb 19 2017,Willem II,1-1,0-0,AZ Alkmaar
+Fri Feb 24 2017,Den Haag,1-1,1-1,Twente
+Sat Feb 25 2017,Excelsior,0-2,0-0,Willem II
+Sat Feb 25 2017,Groningen,2-3,2-0,Utrecht
+Sat Feb 25 2017,Heerenveen,3-0,0-0,Roda
+Sat Feb 25 2017,Nijmegen,0-1,0-1,Sparta Rotterdam
+Sun Feb 26 2017,Ajax,4-1,1-1,Heracles
+Sun Feb 26 2017,AZ Alkmaar,1-1,0-0,Zwolle
+Sun Feb 26 2017,Feyenoord,2-1,1-0,PSV Eindhoven
+Sun Feb 26 2017,Go Ahead Eagles,1-3,0-1,Vitesse
+Fri Mar 3 2017,Heerenveen,2-2,0-1,Go Ahead Eagles
+Sat Mar 4 2017,PSV Eindhoven,4-0,2-0,Roda
+Sat Mar 4 2017,Twente,2-1,2-0,Willem II
+Sat Mar 4 2017,Zwolle,3-1,2-0,Vitesse
+Sun Mar 5 2017,AZ Alkmaar,1-1,1-0,Excelsior
+Sun Mar 5 2017,Groningen,1-1,0-0,Ajax
+Sun Mar 5 2017,Nijmegen,3-1,2-1,Heracles
+Sun Mar 5 2017,Sparta Rotterdam,1-0,1-0,Feyenoord
+Sun Mar 5 2017,Utrecht,1-1,1-1,Den Haag
+Fri Mar 10 2017,Vitesse,5-0,4-0,Sparta Rotterdam
+Sat Mar 11 2017,Den Haag,1-0,0-0,Nijmegen
+Sat Mar 11 2017,Excelsior,4-1,2-0,Heerenveen
+Sat Mar 11 2017,Go Ahead Eagles,1-3,0-1,PSV Eindhoven
+Sat Mar 11 2017,Heracles,2-1,0-1,Utrecht
+Sun Mar 12 2017,Ajax,3-0,0-0,Twente
+Sun Mar 12 2017,Feyenoord,5-2,2-0,AZ Alkmaar
+Sun Mar 12 2017,Roda,3-1,1-0,Groningen
+Sun Mar 12 2017,Willem II,2-0,1-0,Zwolle
+Fri Mar 17 2017,Roda,0-3,0-2,Twente
+Sat Mar 18 2017,Groningen,1-1,0-0,Willem II
+Sat Mar 18 2017,Nijmegen,0-3,0-2,Utrecht
+Sat Mar 18 2017,PSV Eindhoven,1-0,0-0,Vitesse
+Sat Mar 18 2017,Sparta Rotterdam,3-1,1-0,Heracles
+Sun Mar 19 2017,AZ Alkmaar,4-0,3-0,Den Haag
+Sun Mar 19 2017,Excelsior,1-1,1-1,Ajax
+Sun Mar 19 2017,Go Ahead Eagles,1-3,1-1,Zwolle
+Sun Mar 19 2017,Heerenveen,1-2,1-0,Feyenoord
+Sat Apr 1 2017,AZ Alkmaar,0-0,0-0,Groningen
+Sat Apr 1 2017,Heracles,4-1,4-1,Heerenveen
+Sat Apr 1 2017,Sparta Rotterdam,0-2,0-2,PSV Eindhoven
+Sat Apr 1 2017,Utrecht,2-0,1-0,Willem II
+Sat Apr 1 2017,Zwolle,1-1,1-1,Excelsior
+Sun Apr 2 2017,Ajax,2-1,2-0,Feyenoord
+Sun Apr 2 2017,Den Haag,4-1,2-0,Roda
+Sun Apr 2 2017,Twente,1-2,1-0,Go Ahead Eagles
+Sun Apr 2 2017,Vitesse,2-1,0-0,Nijmegen
+Tue Apr 4 2017,Excelsior,1-3,1-1,Utrecht
+Tue Apr 4 2017,Heerenveen,3-0,0-0,Sparta Rotterdam
+Wed Apr 5 2017,Ajax,4-1,1-0,AZ Alkmaar
+Wed Apr 5 2017,Feyenoord,8-0,5-0,Go Ahead Eagles
+Wed Apr 5 2017,Groningen,2-0,1-0,Nijmegen
+Wed Apr 5 2017,Heracles,0-1,0-1,Vitesse
+Wed Apr 5 2017,Willem II,1-2,1-2,Den Haag
+Thu Apr 6 2017,Roda,2-1,0-1,Zwolle
+Thu Apr 6 2017,Twente,2-2,1-1,PSV Eindhoven
+Fri Apr 7 2017,Sparta Rotterdam,2-3,1-2,Excelsior
+Sat Apr 8 2017,Den Haag,4-3,3-0,Groningen
+Sat Apr 8 2017,Go Ahead Eagles,1-4,1-4,Heracles
+Sat Apr 8 2017,Nijmegen,1-5,0-3,Ajax
+Sat Apr 8 2017,Vitesse,4-2,2-1,Heerenveen
+Sun Apr 9 2017,AZ Alkmaar,1-1,1-1,Roda
+Sun Apr 9 2017,PSV Eindhoven,5-0,1-0,Willem II
+Sun Apr 9 2017,Utrecht,3-0,0-0,Twente
+Sun Apr 9 2017,Zwolle,2-2,2-1,Feyenoord
+Fri Apr 14 2017,Heracles,1-2,0-0,AZ Alkmaar
+Sat Apr 15 2017,Den Haag,1-1,0-1,PSV Eindhoven
+Sat Apr 15 2017,Excelsior,1-0,1-0,Vitesse
+Sat Apr 15 2017,Roda,3-1,1-0,Sparta Rotterdam
+Sat Apr 15 2017,Twente,3-0,1-0,Nijmegen
+Sun Apr 16 2017,Ajax,5-1,3-1,Heerenveen
+Sun Apr 16 2017,Feyenoord,2-0,0-0,Utrecht
+Sun Apr 16 2017,Groningen,5-1,3-0,Zwolle
+Sun Apr 16 2017,Willem II,2-0,0-0,Go Ahead Eagles
+Fri Apr 21 2017,Heerenveen,1-0,1-0,Willem II
+Sat Apr 22 2017,AZ Alkmaar,2-1,0-0,Twente
+Sat Apr 22 2017,Go Ahead Eagles,2-3,0-1,Groningen
+Sat Apr 22 2017,Nijmegen,0-1,0-0,Excelsior
+Sat Apr 22 2017,Zwolle,1-2,0-0,Heracles
+Sun Apr 23 2017,PSV Eindhoven,1-0,1-0,Ajax
+Sun Apr 23 2017,Sparta Rotterdam,0-1,0-1,Den Haag
+Sun Apr 23 2017,Utrecht,1-0,0-0,Roda
+Sun Apr 23 2017,Vitesse,0-2,0-2,Feyenoord
+Sun May 7 2017,Ajax,4-0,2-0,Go Ahead Eagles
+Sun May 7 2017,Excelsior,3-0,0-0,Feyenoord
+Sun May 7 2017,Groningen,1-1,1-0,PSV Eindhoven
+Sun May 7 2017,Heracles,4-0,2-0,Den Haag
+Sun May 7 2017,Nijmegen,2-1,1-1,AZ Alkmaar
+Sun May 7 2017,Roda,1-0,0-0,Willem II
+Sun May 7 2017,Sparta Rotterdam,1-0,0-0,Twente
+Sun May 7 2017,Utrecht,1-0,0-0,Vitesse
+Sun May 7 2017,Zwolle,2-1,1-0,Heerenveen
+Sun May 14 2017,AZ Alkmaar,2-3,0-2,Utrecht
+Sun May 14 2017,Den Haag,4-1,3-1,Excelsior
+Sun May 14 2017,Feyenoord,3-1,2-0,Heracles
+Sun May 14 2017,Go Ahead Eagles,1-3,0-0,Sparta Rotterdam
+Sun May 14 2017,Heerenveen,0-2,0-1,Nijmegen
+Sun May 14 2017,PSV Eindhoven,4-1,0-1,Zwolle
+Sun May 14 2017,Twente,3-5,1-4,Groningen
+Sun May 14 2017,Vitesse,3-0,1-0,Roda
+Sun May 14 2017,Willem II,1-3,0-1,Ajax

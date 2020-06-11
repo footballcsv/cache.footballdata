@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 29 2016,Ajaccio GFCO,0-0,0-0,Brest
+Fri Jul 29 2016,Bourg Peronnas,0-0,0-0,Strasbourg
+Fri Jul 29 2016,Nimes,0-0,0-0,Laval
+Fri Jul 29 2016,Niort,0-0,0-0,Lens
+Fri Jul 29 2016,Orleans,0-1,0-1,Le Havre
+Fri Jul 29 2016,Tours,0-0,0-0,Ajaccio
+Fri Jul 29 2016,Troyes,1-3,0-0,Sochaux
+Fri Jul 29 2016,Valenciennes,2-0,1-0,Clermont
+Sat Jul 30 2016,Red Star,0-0,0-0,Auxerre
+Mon Aug 1 2016,Amiens,1-1,0-0,Reims
+Fri Aug 5 2016,Ajaccio,2-1,2-1,Troyes
+Fri Aug 5 2016,Auxerre,1-2,1-1,Ajaccio GFCO
+Fri Aug 5 2016,Brest,2-1,1-1,Orleans
+Fri Aug 5 2016,Clermont,0-0,0-0,Red Star
+Fri Aug 5 2016,Laval,1-1,0-0,Niort
+Fri Aug 5 2016,Le Havre,1-0,1-0,Nimes
+Fri Aug 5 2016,Lens,2-2,1-1,Tours
+Fri Aug 5 2016,Reims,1-0,1-0,Bourg Peronnas
+Fri Aug 5 2016,Sochaux,0-0,0-0,Valenciennes
+Sat Aug 6 2016,Strasbourg,1-0,1-0,Amiens
+Fri Aug 12 2016,Ajaccio GFCO,1-1,0-1,Le Havre
+Fri Aug 12 2016,Amiens,2-0,1-0,Niort
+Fri Aug 12 2016,Bourg Peronnas,2-4,0-2,Auxerre
+Fri Aug 12 2016,Clermont,1-2,1-1,Sochaux
+Fri Aug 12 2016,Orleans,2-0,0-0,Ajaccio
+Fri Aug 12 2016,Red Star,0-3,0-2,Brest
+Fri Aug 12 2016,Tours,1-3,0-1,Strasbourg
+Fri Aug 12 2016,Troyes,1-0,1-0,Laval
+Sat Aug 13 2016,Valenciennes,0-0,0-0,Reims
+Mon Aug 15 2016,Nimes,0-2,0-1,Lens
+Fri Aug 19 2016,Ajaccio,3-1,1-1,Bourg Peronnas
+Fri Aug 19 2016,Auxerre,0-1,0-0,Clermont
+Fri Aug 19 2016,Brest,3-2,1-1,Valenciennes
+Fri Aug 19 2016,Laval,0-1,0-0,Ajaccio GFCO
+Fri Aug 19 2016,Le Havre,1-3,1-2,Troyes
+Fri Aug 19 2016,Niort,1-4,1-4,Tours
+Fri Aug 19 2016,Sochaux,0-0,0-0,Orleans
+Fri Aug 19 2016,Strasbourg,1-1,0-0,Nimes
+Sat Aug 20 2016,Lens,0-1,0-1,Amiens
+Mon Aug 22 2016,Reims,2-1,1-0,Red Star
+Fri Aug 26 2016,Ajaccio GFCO,1-1,0-0,Strasbourg
+Fri Aug 26 2016,Bourg Peronnas,2-2,0-1,Niort
+Fri Aug 26 2016,Clermont,2-1,0-1,Ajaccio
+Fri Aug 26 2016,Nimes,2-3,2-1,Amiens
+Fri Aug 26 2016,Orleans,0-0,0-0,Auxerre
+Fri Aug 26 2016,Tours,1-1,0-0,Reims
+Fri Aug 26 2016,Troyes,1-1,0-1,Lens
+Fri Aug 26 2016,Valenciennes,2-0,0-0,Laval
+Sat Aug 27 2016,Red Star,0-0,0-0,Le Havre
+Mon Aug 29 2016,Sochaux,2-2,1-0,Brest
+Fri Sep 9 2016,Ajaccio,1-2,1-0,Red Star
+Fri Sep 9 2016,Amiens,3-1,2-0,Tours
+Fri Sep 9 2016,Auxerre,0-0,0-0,Sochaux
+Fri Sep 9 2016,Brest,0-2,0-1,Clermont
+Fri Sep 9 2016,Laval,3-1,1-1,Orleans
+Fri Sep 9 2016,Lens,1-1,0-0,Bourg Peronnas
+Fri Sep 9 2016,Niort,1-3,0-2,Nimes
+Fri Sep 9 2016,Reims,2-0,1-0,Ajaccio GFCO
+Sat Sep 10 2016,Le Havre,2-2,1-2,Valenciennes
+Mon Sep 12 2016,Strasbourg,2-0,1-0,Troyes
+Fri Sep 16 2016,Bourg Peronnas,2-1,1-1,Le Havre
+Fri Sep 16 2016,Clermont,1-1,0-0,Lens
+Fri Sep 16 2016,Orleans,3-1,1-0,Strasbourg
+Fri Sep 16 2016,Red Star,1-0,0-0,Laval
+Fri Sep 16 2016,Sochaux,1-1,0-1,Reims
+Fri Sep 16 2016,Tours,1-3,1-2,Nimes
+Fri Sep 16 2016,Troyes,1-1,0-1,Niort
+Fri Sep 16 2016,Valenciennes,1-1,1-0,Ajaccio
+Sat Sep 17 2016,Brest,1-0,0-0,Auxerre
+Mon Sep 19 2016,Strasbourg,0-0,0-0,Red Star
+Tue Sep 20 2016,Ajaccio,2-0,1-0,Auxerre
+Tue Sep 20 2016,Amiens,0-0,0-0,Valenciennes
+Tue Sep 20 2016,Laval,1-1,0-0,Sochaux
+Tue Sep 20 2016,Le Havre,1-1,0-1,Brest
+Tue Sep 20 2016,Lens,4-2,1-2,Orleans
+Tue Sep 20 2016,Nimes,2-2,0-0,Troyes
+Tue Sep 20 2016,Niort,0-0,0-0,Ajaccio GFCO
+Tue Sep 20 2016,Reims,2-1,0-0,Clermont
+Tue Sep 20 2016,Tours,0-2,0-0,Bourg Peronnas
+Fri Sep 23 2016,Ajaccio GFCO,0-2,0-2,Nimes
+Fri Sep 23 2016,Auxerre,0-1,0-0,Le Havre
+Fri Sep 23 2016,Bourg Peronnas,0-0,0-0,Laval
+Fri Sep 23 2016,Clermont,0-0,0-0,Strasbourg
+Fri Sep 23 2016,Orleans,1-2,0-1,Amiens
+Fri Sep 23 2016,Red Star,0-1,0-0,Niort
+Fri Sep 23 2016,Sochaux,1-0,1-0,Ajaccio
+Fri Sep 23 2016,Troyes,3-1,2-1,Tours
+Sat Sep 24 2016,Valenciennes,1-2,1-1,Lens
+Mon Sep 26 2016,Brest,2-1,0-0,Reims
+Tue Sep 27 2016,Ajaccio GFCO,1-1,0-0,Amiens
+Fri Sep 30 2016,Ajaccio,1-1,0-0,Brest
+Fri Sep 30 2016,Amiens,0-1,0-0,Troyes
+Fri Sep 30 2016,Laval,1-1,0-1,Clermont
+Fri Sep 30 2016,Lens,2-0,1-0,Red Star
+Fri Sep 30 2016,Nimes,0-0,0-0,Bourg Peronnas
+Fri Sep 30 2016,Niort,1-0,1-0,Orleans
+Fri Sep 30 2016,Reims,3-0,1-0,Auxerre
+Fri Sep 30 2016,Tours,0-3,0-1,Ajaccio GFCO
+Sat Oct 1 2016,Strasbourg,2-4,1-2,Valenciennes
+Mon Oct 3 2016,Le Havre,2-1,0-0,Sochaux
+Fri Oct 14 2016,Ajaccio,1-0,1-0,Reims
+Fri Oct 14 2016,Auxerre,2-0,1-0,Laval
+Fri Oct 14 2016,Bourg Peronnas,2-4,1-1,Amiens
+Fri Oct 14 2016,Clermont,1-3,0-1,Le Havre
+Fri Oct 14 2016,Orleans,0-0,0-0,Tours
+Fri Oct 14 2016,Red Star,3-3,2-2,Nimes
+Fri Oct 14 2016,Troyes,1-0,1-0,Ajaccio GFCO
+Fri Oct 14 2016,Valenciennes,3-1,0-0,Niort
+Sat Oct 15 2016,Brest,2-1,1-1,Strasbourg
+Mon Oct 17 2016,Sochaux,1-0,1-0,Lens
+Fri Oct 21 2016,Ajaccio GFCO,2-0,1-0,Orleans
+Fri Oct 21 2016,Laval,0-1,0-0,Brest
+Fri Oct 21 2016,Le Havre,2-0,1-0,Ajaccio
+Fri Oct 21 2016,Nimes,0-0,0-0,Sochaux
+Fri Oct 21 2016,Niort,2-1,2-0,Clermont
+Fri Oct 21 2016,Strasbourg,2-1,1-0,Auxerre
+Fri Oct 21 2016,Tours,4-1,3-1,Valenciennes
+Fri Oct 21 2016,Troyes,1-0,0-0,Bourg Peronnas
+Sat Oct 22 2016,Lens,1-1,0-0,Reims
+Mon Oct 24 2016,Amiens,0-0,0-0,Red Star
+Fri Oct 28 2016,Ajaccio,1-3,1-1,Laval
+Fri Oct 28 2016,Bourg Peronnas,1-0,1-0,Ajaccio GFCO
+Fri Oct 28 2016,Orleans,1-1,0-1,Troyes
+Fri Oct 28 2016,Red Star,3-1,3-0,Tours
+Fri Oct 28 2016,Reims,1-0,1-0,Le Havre
+Fri Oct 28 2016,Valenciennes,2-3,1-0,Nimes
+Sat Oct 29 2016,Auxerre,0-4,0-1,Niort
+Sat Oct 29 2016,Clermont,1-0,0-0,Amiens
+Sat Oct 29 2016,Sochaux,1-2,0-1,Strasbourg
+Mon Oct 31 2016,Brest,1-2,1-1,Lens
+Fri Nov 4 2016,Ajaccio GFCO,2-1,1-0,Red Star
+Fri Nov 4 2016,Amiens,0-0,0-0,Auxerre
+Fri Nov 4 2016,Bourg Peronnas,0-0,0-0,Orleans
+Fri Nov 4 2016,Laval,0-2,0-0,Le Havre
+Fri Nov 4 2016,Nimes,1-1,1-0,Clermont
+Fri Nov 4 2016,Niort,2-0,2-0,Sochaux
+Fri Nov 4 2016,Tours,0-1,0-1,Brest
+Fri Nov 4 2016,Troyes,2-0,1-0,Valenciennes
+Sat Nov 5 2016,Strasbourg,1-2,0-1,Reims
+Mon Nov 7 2016,Lens,1-1,0-0,Ajaccio
+Fri Nov 18 2016,Ajaccio,2-0,1-0,Strasbourg
+Fri Nov 18 2016,Auxerre,1-1,0-1,Lens
+Fri Nov 18 2016,Clermont,3-1,1-1,Ajaccio GFCO
+Fri Nov 18 2016,Orleans,2-1,0-1,Nimes
+Fri Nov 18 2016,Red Star,1-2,0-1,Troyes
+Fri Nov 18 2016,Reims,0-2,0-1,Laval
+Fri Nov 18 2016,Sochaux,2-1,1-0,Tours
+Fri Nov 18 2016,Valenciennes,3-3,1-1,Bourg Peronnas
+Sat Nov 19 2016,Le Havre,0-0,0-0,Amiens
+Mon Nov 21 2016,Brest,2-3,1-3,Niort
+Fri Nov 25 2016,Ajaccio GFCO,0-1,0-0,Sochaux
+Fri Nov 25 2016,Bourg Peronnas,4-1,1-0,Red Star
+Fri Nov 25 2016,Lens,1-0,0-0,Le Havre
+Fri Nov 25 2016,Nimes,3-0,2-0,Reims
+Fri Nov 25 2016,Niort,1-1,1-0,Ajaccio
+Fri Nov 25 2016,Orleans,0-2,0-0,Valenciennes
+Fri Nov 25 2016,Strasbourg,1-0,0-0,Laval
+Fri Nov 25 2016,Tours,2-1,0-0,Auxerre
+Fri Nov 25 2016,Troyes,1-0,1-0,Clermont
+Sat Nov 26 2016,Amiens,3-0,1-0,Brest
+Mon Nov 28 2016,Reims,1-0,0-0,Niort
+Tue Nov 29 2016,Ajaccio,1-1,0-0,Amiens
+Tue Nov 29 2016,Auxerre,2-0,1-0,Nimes
+Tue Nov 29 2016,Brest,2-1,1-1,Troyes
+Tue Nov 29 2016,Clermont,0-0,0-0,Tours
+Tue Nov 29 2016,Laval,0-1,0-1,Lens
+Tue Nov 29 2016,Le Havre,0-1,0-0,Strasbourg
+Tue Nov 29 2016,Red Star,1-0,1-0,Orleans
+Tue Nov 29 2016,Sochaux,1-1,0-1,Bourg Peronnas
+Tue Nov 29 2016,Valenciennes,0-0,0-0,Ajaccio GFCO
+Fri Dec 9 2016,Ajaccio GFCO,4-1,2-0,Ajaccio
+Fri Dec 9 2016,Amiens,0-1,0-1,Sochaux
+Fri Dec 9 2016,Bourg Peronnas,1-1,0-1,Clermont
+Fri Dec 9 2016,Nimes,1-2,1-2,Brest
+Fri Dec 9 2016,Niort,1-1,1-1,Le Havre
+Fri Dec 9 2016,Red Star,2-2,2-0,Valenciennes
+Fri Dec 9 2016,Tours,1-1,0-0,Laval
+Fri Dec 9 2016,Troyes,1-1,0-1,Auxerre
+Sat Dec 10 2016,Strasbourg,3-1,2-0,Lens
+Mon Dec 12 2016,Orleans,2-2,0-0,Reims
+Fri Dec 16 2016,Ajaccio,1-2,0-1,Nimes
+Fri Dec 16 2016,Auxerre,1-1,0-0,Valenciennes
+Fri Dec 16 2016,Brest,0-0,0-0,Bourg Peronnas
+Fri Dec 16 2016,Clermont,3-0,0-0,Orleans
+Fri Dec 16 2016,Laval,2-2,0-1,Amiens
+Fri Dec 16 2016,Le Havre,0-2,0-2,Tours
+Fri Dec 16 2016,Sochaux,2-0,1-0,Red Star
+Fri Dec 16 2016,Strasbourg,3-0,0-0,Niort
+Sat Dec 17 2016,Lens,2-1,1-1,Ajaccio GFCO
+Mon Dec 19 2016,Reims,2-0,2-0,Troyes
+Fri Jan 13 2017,Ajaccio GFCO,2-0,1-0,Auxerre
+Fri Jan 13 2017,Bourg Peronnas,1-0,0-0,Reims
+Fri Jan 13 2017,Nimes,0-0,0-0,Le Havre
+Fri Jan 13 2017,Niort,2-2,1-2,Laval
+Fri Jan 13 2017,Orleans,0-1,0-0,Brest
+Fri Jan 13 2017,Red Star,1-3,1-2,Clermont
+Fri Jan 13 2017,Tours,2-3,0-2,Lens
+Fri Jan 13 2017,Troyes,1-2,1-1,Ajaccio
+Sat Jan 14 2017,Amiens,4-3,3-3,Strasbourg
+Mon Jan 16 2017,Valenciennes,2-1,0-0,Sochaux
+Fri Jan 20 2017,Ajaccio,1-0,0-0,Orleans
+Fri Jan 20 2017,Auxerre,0-2,0-2,Bourg Peronnas
+Fri Jan 20 2017,Laval,1-0,0-0,Troyes
+Fri Jan 20 2017,Le Havre,1-2,0-1,Ajaccio GFCO
+Fri Jan 20 2017,Niort,2-1,2-0,Amiens
+Fri Jan 20 2017,Reims,0-0,0-0,Valenciennes
+Fri Jan 20 2017,Sochaux,3-3,2-0,Clermont
+Sat Jan 21 2017,Lens,1-3,0-2,Nimes
+Mon Jan 23 2017,Brest,0-1,0-0,Red Star
+Fri Jan 27 2017,Ajaccio GFCO,1-1,0-0,Laval
+Fri Jan 27 2017,Bourg Peronnas,3-2,1-0,Ajaccio
+Fri Jan 27 2017,Clermont,0-1,0-0,Auxerre
+Fri Jan 27 2017,Nimes,2-2,1-0,Strasbourg
+Fri Jan 27 2017,Orleans,1-0,1-0,Sochaux
+Fri Jan 27 2017,Tours,0-0,0-0,Niort
+Fri Jan 27 2017,Troyes,2-1,2-0,Le Havre
+Fri Jan 27 2017,Valenciennes,0-1,0-0,Brest
+Sat Jan 28 2017,Amiens,2-1,0-1,Lens
+Mon Jan 30 2017,Red Star,0-1,0-1,Reims
+Fri Feb 3 2017,Ajaccio,2-1,1-0,Clermont
+Fri Feb 3 2017,Amiens,1-2,1-1,Nimes
+Fri Feb 3 2017,Laval,0-0,0-0,Valenciennes
+Fri Feb 3 2017,Le Havre,1-1,1-0,Red Star
+Fri Feb 3 2017,Lens,0-0,0-0,Troyes
+Fri Feb 3 2017,Niort,3-2,0-1,Bourg Peronnas
+Fri Feb 3 2017,Reims,1-1,0-0,Tours
+Fri Feb 3 2017,Strasbourg,2-0,0-0,Ajaccio GFCO
+Sat Feb 4 2017,Auxerre,0-2,0-0,Orleans
+Sat Feb 4 2017,Brest,2-0,1-0,Sochaux
+Mon Feb 6 2017,Red Star,2-0,1-0,Ajaccio
+Mon Feb 6 2017,Valenciennes,0-0,0-0,Le Havre
+Tue Feb 7 2017,Ajaccio GFCO,1-1,0-1,Reims
+Tue Feb 7 2017,Bourg Peronnas,0-0,0-0,Lens
+Tue Feb 7 2017,Clermont,1-1,0-0,Brest
+Tue Feb 7 2017,Nimes,3-0,1-0,Niort
+Tue Feb 7 2017,Orleans,2-1,0-0,Laval
+Tue Feb 7 2017,Sochaux,0-1,0-1,Auxerre
+Tue Feb 7 2017,Tours,0-3,0-1,Amiens
+Tue Feb 7 2017,Troyes,4-0,0-0,Strasbourg
+Fri Feb 10 2017,Ajaccio,3-2,2-0,Valenciennes
+Fri Feb 10 2017,Amiens,4-0,0-0,Ajaccio GFCO
+Fri Feb 10 2017,Auxerre,3-1,0-0,Brest
+Fri Feb 10 2017,Laval,1-1,1-0,Red Star
+Fri Feb 10 2017,Le Havre,3-0,3-0,Bourg Peronnas
+Fri Feb 10 2017,Nimes,1-1,1-0,Tours
+Fri Feb 10 2017,Niort,3-2,1-1,Troyes
+Sat Feb 11 2017,Reims,0-1,0-1,Sochaux
+Mon Feb 13 2017,Lens,3-1,0-0,Clermont
+Mon Feb 13 2017,Strasbourg,3-2,2-0,Orleans
+Fri Feb 17 2017,Ajaccio GFCO,1-0,1-0,Niort
+Fri Feb 17 2017,Auxerre,1-0,1-0,Ajaccio
+Fri Feb 17 2017,Bourg Peronnas,3-2,1-2,Tours
+Fri Feb 17 2017,Clermont,0-1,0-0,Reims
+Fri Feb 17 2017,Red Star,1-1,1-0,Strasbourg
+Fri Feb 17 2017,Sochaux,1-1,0-1,Laval
+Fri Feb 17 2017,Troyes,0-0,0-0,Nimes
+Fri Feb 17 2017,Valenciennes,1-1,1-0,Amiens
+Sat Feb 18 2017,Brest,2-0,1-0,Le Havre
+Mon Feb 20 2017,Orleans,2-1,0-0,Lens
+Tue Feb 21 2017,Strasbourg,4-2,1-2,Tours
+Fri Feb 24 2017,Ajaccio,0-0,0-0,Sochaux
+Fri Feb 24 2017,Amiens,0-2,0-1,Orleans
+Fri Feb 24 2017,Laval,2-4,1-0,Bourg Peronnas
+Fri Feb 24 2017,Le Havre,1-0,0-0,Auxerre
+Fri Feb 24 2017,Nimes,1-1,0-1,Ajaccio GFCO
+Fri Feb 24 2017,Niort,2-3,1-2,Red Star
+Fri Feb 24 2017,Strasbourg,0-2,0-1,Clermont
+Fri Feb 24 2017,Tours,0-0,0-0,Troyes
+Sat Feb 25 2017,Lens,2-0,0-0,Valenciennes
+Mon Feb 27 2017,Reims,1-1,0-1,Brest
+Fri Mar 3 2017,Ajaccio GFCO,2-2,1-2,Tours
+Fri Mar 3 2017,Auxerre,1-2,0-0,Reims
+Fri Mar 3 2017,Bourg Peronnas,0-1,0-0,Nimes
+Fri Mar 3 2017,Brest,1-2,0-2,Ajaccio
+Fri Mar 3 2017,Clermont,1-1,0-1,Laval
+Fri Mar 3 2017,Red Star,2-3,1-0,Lens
+Fri Mar 3 2017,Sochaux,0-1,0-1,Le Havre
+Sat Mar 4 2017,Orleans,1-1,1-1,Niort
+Sat Mar 4 2017,Troyes,4-0,2-0,Amiens
+Mon Mar 6 2017,Valenciennes,2-1,0-0,Strasbourg
+Fri Mar 10 2017,Ajaccio GFCO,3-1,3-0,Troyes
+Fri Mar 10 2017,Amiens,2-1,1-1,Bourg Peronnas
+Fri Mar 10 2017,Laval,0-0,0-0,Auxerre
+Fri Mar 10 2017,Le Havre,0-1,0-0,Clermont
+Fri Mar 10 2017,Nimes,2-0,0-0,Red Star
+Fri Mar 10 2017,Niort,2-1,2-0,Valenciennes
+Fri Mar 10 2017,Reims,3-0,1-0,Ajaccio
+Fri Mar 10 2017,Tours,3-1,1-0,Orleans
+Sat Mar 11 2017,Strasbourg,4-1,1-0,Brest
+Mon Mar 13 2017,Lens,2-1,0-0,Sochaux
+Fri Mar 17 2017,Ajaccio,0-0,0-0,Le Havre
+Fri Mar 17 2017,Bourg Peronnas,2-4,1-3,Troyes
+Fri Mar 17 2017,Brest,3-0,2-0,Laval
+Fri Mar 17 2017,Clermont,0-1,0-0,Niort
+Fri Mar 17 2017,Orleans,1-1,1-1,Ajaccio GFCO
+Fri Mar 17 2017,Red Star,0-1,0-0,Amiens
+Fri Mar 17 2017,Sochaux,2-1,0-0,Nimes
+Fri Mar 17 2017,Valenciennes,0-4,0-2,Tours
+Sat Mar 18 2017,Reims,0-2,0-0,Lens
+Mon Mar 20 2017,Auxerre,0-2,0-0,Strasbourg
+Fri Mar 31 2017,Ajaccio GFCO,2-3,1-0,Bourg Peronnas
+Fri Mar 31 2017,Amiens,0-1,0-0,Clermont
+Fri Mar 31 2017,Laval,1-1,1-1,Ajaccio
+Fri Mar 31 2017,Le Havre,1-1,1-0,Reims
+Fri Mar 31 2017,Nimes,1-0,1-0,Valenciennes
+Fri Mar 31 2017,Niort,1-0,0-0,Auxerre
+Fri Mar 31 2017,Tours,3-1,2-1,Red Star
+Fri Mar 31 2017,Troyes,4-2,4-0,Orleans
+Sat Apr 1 2017,Lens,0-2,0-1,Brest
+Mon Apr 3 2017,Strasbourg,2-0,2-0,Sochaux
+Fri Apr 7 2017,Auxerre,1-0,1-0,Amiens
+Fri Apr 7 2017,Brest,1-1,1-1,Tours
+Fri Apr 7 2017,Clermont,2-3,0-2,Nimes
+Fri Apr 7 2017,Le Havre,2-0,0-0,Laval
+Fri Apr 7 2017,Orleans,1-0,0-0,Bourg Peronnas
+Fri Apr 7 2017,Sochaux,2-2,1-1,Niort
+Fri Apr 7 2017,Valenciennes,2-0,1-0,Troyes
+Sat Apr 8 2017,Red Star,0-3,0-1,Ajaccio GFCO
+Sat Apr 8 2017,Reims,1-1,1-1,Strasbourg
+Mon Apr 10 2017,Ajaccio,3-6,3-5,Lens
+Fri Apr 14 2017,Ajaccio GFCO,4-4,3-1,Clermont
+Fri Apr 14 2017,Amiens,2-0,1-0,Le Havre
+Fri Apr 14 2017,Bourg Peronnas,0-2,0-0,Valenciennes
+Fri Apr 14 2017,Laval,5-2,1-2,Reims
+Fri Apr 14 2017,Nimes,2-0,0-0,Orleans
+Fri Apr 14 2017,Niort,0-3,0-0,Brest
+Fri Apr 14 2017,Tours,3-1,2-1,Sochaux
+Fri Apr 14 2017,Troyes,3-2,1-0,Red Star
+Sat Apr 15 2017,Lens,0-1,0-1,Auxerre
+Mon Apr 17 2017,Strasbourg,4-2,2-1,Ajaccio
+Fri Apr 21 2017,Ajaccio,3-1,3-1,Niort
+Fri Apr 21 2017,Auxerre,1-1,1-1,Tours
+Fri Apr 21 2017,Clermont,1-1,0-1,Troyes
+Fri Apr 21 2017,Laval,1-2,1-0,Strasbourg
+Fri Apr 21 2017,Red Star,4-1,2-1,Bourg Peronnas
+Fri Apr 21 2017,Reims,1-1,1-0,Nimes
+Fri Apr 21 2017,Sochaux,1-2,1-0,Ajaccio GFCO
+Fri Apr 21 2017,Valenciennes,4-0,1-0,Orleans
+Sat Apr 22 2017,Brest,2-3,1-1,Amiens
+Mon Apr 24 2017,Le Havre,1-0,1-0,Lens
+Fri Apr 28 2017,Ajaccio GFCO,1-0,1-0,Valenciennes
+Fri Apr 28 2017,Amiens,2-1,0-0,Ajaccio
+Fri Apr 28 2017,Bourg Peronnas,0-1,0-1,Sochaux
+Fri Apr 28 2017,Nimes,0-1,0-0,Auxerre
+Fri Apr 28 2017,Niort,0-3,0-2,Reims
+Fri Apr 28 2017,Orleans,4-0,2-0,Red Star
+Fri Apr 28 2017,Strasbourg,2-0,1-0,Le Havre
+Fri Apr 28 2017,Tours,3-0,2-0,Clermont
+Sat Apr 29 2017,Troyes,1-0,1-0,Brest
+Mon May 1 2017,Lens,2-0,0-0,Laval
+Fri May 5 2017,Auxerre,2-3,2-1,Troyes
+Fri May 5 2017,Clermont,2-3,0-1,Bourg Peronnas
+Fri May 5 2017,Laval,1-3,0-2,Tours
+Fri May 5 2017,Le Havre,0-0,0-0,Niort
+Fri May 5 2017,Reims,0-2,0-1,Orleans
+Fri May 5 2017,Sochaux,1-2,1-1,Amiens
+Fri May 5 2017,Valenciennes,0-0,0-0,Red Star
+Sat May 6 2017,Brest,2-3,1-1,Nimes
+Mon May 8 2017,Ajaccio,1-0,0-0,Ajaccio GFCO
+Mon May 8 2017,Lens,1-1,0-0,Strasbourg
+Fri May 12 2017,Ajaccio GFCO,0-4,0-2,Lens
+Fri May 12 2017,Amiens,3-0,2-0,Laval
+Fri May 12 2017,Bourg Peronnas,1-2,0-1,Brest
+Fri May 12 2017,Nimes,3-1,1-1,Ajaccio
+Fri May 12 2017,Niort,2-2,1-1,Strasbourg
+Fri May 12 2017,Orleans,2-2,2-2,Clermont
+Fri May 12 2017,Red Star,1-1,0-1,Sochaux
+Fri May 12 2017,Tours,0-4,0-2,Le Havre
+Fri May 12 2017,Troyes,2-0,2-0,Reims
+Fri May 12 2017,Valenciennes,0-0,0-0,Auxerre
+Fri May 19 2017,Ajaccio,3-2,1-0,Tours
+Fri May 19 2017,Auxerre,1-0,0-0,Red Star
+Fri May 19 2017,Brest,6-2,3-0,Ajaccio GFCO
+Fri May 19 2017,Clermont,1-0,0-0,Valenciennes
+Fri May 19 2017,Laval,1-2,1-0,Nimes
+Fri May 19 2017,Le Havre,4-1,2-1,Orleans
+Fri May 19 2017,Lens,3-1,2-0,Niort
+Fri May 19 2017,Reims,1-2,0-1,Amiens
+Fri May 19 2017,Sochaux,2-3,2-0,Troyes
+Fri May 19 2017,Strasbourg,2-1,2-0,Bourg Peronnas

@@ -1,0 +1,463 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 26 2011,Girona,1-4,0-2,Elche
+Sat Aug 27 2011,Alcorcon,0-1,0-0,Xerez
+Sat Aug 27 2011,Alcoyano,1-1,0-1,Numancia
+Sat Aug 27 2011,Barcelona B,0-2,0-1,Villarreal B
+Sat Aug 27 2011,Cordoba,1-1,0-1,Almeria
+Sat Aug 27 2011,Guadalajara,1-1,1-0,Las Palmas
+Sat Aug 27 2011,Hercules,2-0,1-0,Cartagena
+Sat Aug 27 2011,La Coruna,1-0,1-0,Recreativo
+Sat Aug 27 2011,Sabadell,2-1,0-0,Huesca
+Sun Aug 28 2011,Gimnastic,0-3,0-3,Valladolid
+Sun Aug 28 2011,Murcia,1-3,1-2,Celta
+Sat Sep 3 2011,Almeria,2-2,2-0,Girona
+Sat Sep 3 2011,Elche,1-0,0-0,Murcia
+Sat Sep 3 2011,Huesca,0-3,0-0,Alcorcon
+Sat Sep 3 2011,Las Palmas,1-0,0-0,Alcoyano
+Sat Sep 3 2011,Valladolid,2-0,0-0,Cordoba
+Sat Sep 3 2011,Villarreal B,3-4,1-1,Sabadell
+Sat Sep 3 2011,Xerez,0-2,0-1,Guadalajara
+Sun Sep 4 2011,Cartagena,0-4,0-2,Barcelona B
+Sun Sep 4 2011,La Coruna,0-1,0-1,Hercules
+Sun Sep 4 2011,Numancia,0-0,0-0,Gimnastic
+Sun Sep 4 2011,Recreativo,1-2,0-1,Celta
+Sat Sep 10 2011,Alcorcon,1-1,0-0,Villarreal B
+Sat Sep 10 2011,Alcoyano,0-1,0-0,Xerez
+Sat Sep 10 2011,Cordoba,1-0,0-0,Numancia
+Sat Sep 10 2011,Guadalajara,2-1,2-0,Huesca
+Sat Sep 10 2011,Hercules,0-1,0-0,Recreativo
+Sat Sep 10 2011,Murcia,0-2,0-1,Almeria
+Sat Sep 10 2011,Sabadell,3-2,1-1,Cartagena
+Sun Sep 11 2011,Barcelona B,2-3,1-3,La Coruna
+Sun Sep 11 2011,Celta,1-2,1-1,Elche
+Sun Sep 11 2011,Gimnastic,1-3,0-1,Las Palmas
+Sun Sep 11 2011,Girona,1-1,1-1,Valladolid
+Fri Sep 16 2011,Hercules,2-1,0-0,Barcelona B
+Sat Sep 17 2011,Cartagena,0-2,0-0,Alcorcon
+Sat Sep 17 2011,Huesca,3-3,2-2,Alcoyano
+Sat Sep 17 2011,La Coruna,2-1,2-0,Sabadell
+Sat Sep 17 2011,Las Palmas,0-1,0-0,Cordoba
+Sat Sep 17 2011,Numancia,1-0,0-0,Girona
+Sat Sep 17 2011,Recreativo,1-0,0-0,Elche
+Sat Sep 17 2011,Valladolid,1-3,0-2,Murcia
+Sat Sep 17 2011,Xerez,0-0,0-0,Gimnastic
+Sun Sep 18 2011,Almeria,1-0,0-0,Celta
+Sun Sep 18 2011,Villarreal B,3-3,1-1,Guadalajara
+Fri Sep 23 2011,Elche,1-3,0-1,Almeria
+Sat Sep 24 2011,Alcorcon,4-0,3-0,La Coruna
+Sat Sep 24 2011,Alcoyano,1-1,1-1,Villarreal B
+Sat Sep 24 2011,Barcelona B,2-2,2-1,Recreativo
+Sat Sep 24 2011,Gimnastic,1-3,0-2,Huesca
+Sat Sep 24 2011,Girona,4-2,1-2,Las Palmas
+Sat Sep 24 2011,Guadalajara,2-0,1-0,Cartagena
+Sat Sep 24 2011,Sabadell,1-1,1-1,Hercules
+Sun Sep 25 2011,Celta,1-1,0-0,Valladolid
+Sun Sep 25 2011,Cordoba,2-1,1-0,Xerez
+Sun Sep 25 2011,Murcia,2-1,2-1,Numancia
+Fri Sep 30 2011,Villarreal B,3-2,1-1,Gimnastic
+Sat Oct 1 2011,Barcelona B,0-1,0-1,Sabadell
+Sat Oct 1 2011,Cartagena,1-2,1-2,Alcoyano
+Sat Oct 1 2011,Hercules,1-0,1-0,Alcorcon
+Sat Oct 1 2011,Huesca,0-1,0-0,Cordoba
+Sat Oct 1 2011,La Coruna,4-0,3-0,Guadalajara
+Sat Oct 1 2011,Las Palmas,1-1,0-1,Murcia
+Sat Oct 1 2011,Recreativo,0-1,0-1,Almeria
+Sun Oct 2 2011,Numancia,0-2,0-1,Celta
+Sun Oct 2 2011,Valladolid,2-1,0-1,Elche
+Mon Oct 3 2011,Xerez,2-1,2-0,Girona
+Sat Oct 8 2011,Alcorcon,2-2,1-1,Barcelona B
+Sat Oct 8 2011,Alcoyano,2-0,1-0,La Coruna
+Sat Oct 8 2011,Celta,1-2,1-1,Las Palmas
+Sat Oct 8 2011,Elche,2-2,1-0,Numancia
+Sat Oct 8 2011,Girona,1-1,1-1,Huesca
+Sat Oct 8 2011,Murcia,0-0,0-0,Xerez
+Sun Oct 9 2011,Almeria,1-1,1-0,Valladolid
+Sun Oct 9 2011,Cordoba,1-1,1-1,Villarreal B
+Sun Oct 9 2011,Gimnastic,0-0,0-0,Cartagena
+Sun Oct 9 2011,Guadalajara,1-2,0-1,Hercules
+Mon Oct 10 2011,Sabadell,1-0,1-0,Recreativo
+Fri Oct 14 2011,Villarreal B,2-2,1-1,Girona
+Sat Oct 15 2011,Cartagena,0-0,0-0,Cordoba
+Sat Oct 15 2011,Hercules,1-0,0-0,Alcoyano
+Sat Oct 15 2011,Huesca,2-2,2-1,Murcia
+Sat Oct 15 2011,La Coruna,2-2,1-0,Gimnastic
+Sat Oct 15 2011,Las Palmas,1-1,0-0,Elche
+Sat Oct 15 2011,Numancia,1-0,1-0,Almeria
+Sat Oct 15 2011,Recreativo,1-1,1-0,Valladolid
+Sat Oct 15 2011,Sabadell,1-0,1-0,Alcorcon
+Sun Oct 16 2011,Barcelona B,1-2,0-1,Guadalajara
+Sun Oct 16 2011,Xerez,3-3,2-1,Celta
+Fri Oct 21 2011,Guadalajara,1-0,0-0,Sabadell
+Sat Oct 22 2011,Alcorcon,2-1,2-1,Recreativo
+Sat Oct 22 2011,Alcoyano,1-4,1-1,Barcelona B
+Sat Oct 22 2011,Celta,4-0,1-0,Huesca
+Sat Oct 22 2011,Cordoba,0-2,0-1,La Coruna
+Sat Oct 22 2011,Gimnastic,0-1,0-0,Hercules
+Sat Oct 22 2011,Girona,0-2,0-0,Cartagena
+Sat Oct 22 2011,Murcia,3-1,2-1,Villarreal B
+Sat Oct 22 2011,Valladolid,2-1,0-0,Numancia
+Sun Oct 23 2011,Almeria,1-1,0-0,Las Palmas
+Sun Oct 23 2011,Elche,1-0,1-0,Xerez
+Tue Oct 25 2011,Celta,2-0,0-0,Girona
+Tue Oct 25 2011,Valladolid,2-0,2-0,Alcoyano
+Tue Oct 25 2011,Villarreal B,0-1,0-0,Hercules
+Wed Oct 26 2011,Almeria,3-1,2-1,Gimnastic
+Wed Oct 26 2011,Elche,0-1,0-0,Cordoba
+Wed Oct 26 2011,Huesca,0-1,0-0,Barcelona B
+Wed Oct 26 2011,Las Palmas,2-0,2-0,Alcorcon
+Wed Oct 26 2011,Numancia,4-0,3-0,Guadalajara
+Wed Oct 26 2011,Recreativo,0-2,0-1,Murcia
+Wed Oct 26 2011,Xerez,2-2,2-1,Sabadell
+Thu Oct 27 2011,Cartagena,2-1,1-0,La Coruna
+Sat Oct 29 2011,Alcorcon,1-0,1-0,Guadalajara
+Sat Oct 29 2011,Barcelona B,1-0,1-0,Gimnastic
+Sat Oct 29 2011,Hercules,1-0,0-0,Cordoba
+Sat Oct 29 2011,Huesca,0-1,0-0,Elche
+Sat Oct 29 2011,Las Palmas,1-0,0-0,Valladolid
+Sat Oct 29 2011,Recreativo,1-1,0-0,Numancia
+Sat Oct 29 2011,Sabadell,2-2,1-2,Alcoyano
+Sat Oct 29 2011,Xerez,0-1,0-0,Almeria
+Sun Oct 30 2011,Cartagena,1-2,1-0,Murcia
+Sun Oct 30 2011,La Coruna,3-2,1-1,Girona
+Sun Oct 30 2011,Villarreal B,2-3,2-1,Celta
+Fri Nov 4 2011,Cordoba,1-1,0-1,Barcelona B
+Sat Nov 5 2011,Alcoyano,0-0,0-0,Alcorcon
+Sat Nov 5 2011,Almeria,2-1,1-0,Huesca
+Sat Nov 5 2011,Celta,1-0,1-0,Cartagena
+Sat Nov 5 2011,Elche,3-0,1-0,Villarreal B
+Sat Nov 5 2011,Girona,1-0,0-0,Hercules
+Sat Nov 5 2011,Guadalajara,0-2,0-1,Recreativo
+Sat Nov 5 2011,Numancia,3-2,1-1,Las Palmas
+Sat Nov 5 2011,Valladolid,2-1,1-0,Xerez
+Sun Nov 6 2011,Gimnastic,5-0,2-0,Sabadell
+Mon Nov 7 2011,Murcia,0-0,0-0,La Coruna
+Sat Nov 12 2011,Alcorcon,0-1,0-0,Gimnastic
+Sat Nov 12 2011,Barcelona B,2-2,2-0,Girona
+Sat Nov 12 2011,Cartagena,1-1,1-0,Elche
+Sat Nov 12 2011,Hercules,0-1,0-0,Murcia
+Sat Nov 12 2011,Huesca,2-2,0-1,Valladolid
+Sat Nov 12 2011,Sabadell,0-3,0-1,Cordoba
+Sat Nov 12 2011,Xerez,1-2,0-0,Numancia
+Sun Nov 13 2011,Guadalajara,1-1,1-1,Alcoyano
+Sun Nov 13 2011,La Coruna,2-1,1-0,Celta
+Sun Nov 13 2011,Recreativo,4-2,3-1,Las Palmas
+Sun Nov 13 2011,Villarreal B,2-1,0-1,Almeria
+Fri Nov 18 2011,Gimnastic,0-0,0-0,Guadalajara
+Sat Nov 19 2011,Alcoyano,2-1,1-0,Recreativo
+Sat Nov 19 2011,Celta,0-1,0-1,Hercules
+Sat Nov 19 2011,Cordoba,3-1,1-0,Alcorcon
+Sat Nov 19 2011,Girona,1-1,1-1,Sabadell
+Sat Nov 19 2011,Las Palmas,0-0,0-0,Xerez
+Sat Nov 19 2011,Murcia,0-2,0-0,Barcelona B
+Sat Nov 19 2011,Numancia,1-1,0-0,Huesca
+Sat Nov 19 2011,Valladolid,2-1,1-0,Villarreal B
+Sun Nov 20 2011,Almeria,0-0,0-0,Cartagena
+Sun Nov 20 2011,Elche,3-2,2-0,La Coruna
+Fri Nov 25 2011,La Coruna,3-1,1-0,Almeria
+Sat Nov 26 2011,Alcorcon,1-0,0-0,Girona
+Sat Nov 26 2011,Alcoyano,0-0,0-0,Gimnastic
+Sat Nov 26 2011,Barcelona B,2-1,1-0,Celta
+Sat Nov 26 2011,Cartagena,0-0,0-0,Valladolid
+Sat Nov 26 2011,Guadalajara,3-1,2-0,Cordoba
+Sat Nov 26 2011,Huesca,2-0,1-0,Las Palmas
+Sat Nov 26 2011,Recreativo,1-2,0-0,Xerez
+Sat Nov 26 2011,Villarreal B,0-0,0-0,Numancia
+Sun Nov 27 2011,Hercules,1-2,0-2,Elche
+Sun Nov 27 2011,Sabadell,2-2,1-1,Murcia
+Fri Dec 2 2011,Las Palmas,3-1,2-0,Villarreal B
+Sat Dec 3 2011,Almeria,1-1,1-1,Hercules
+Sat Dec 3 2011,Celta,4-1,2-0,Sabadell
+Sat Dec 3 2011,Elche,3-0,3-0,Barcelona B
+Sat Dec 3 2011,Gimnastic,1-2,1-1,Recreativo
+Sat Dec 3 2011,Girona,0-0,0-0,Guadalajara
+Sat Dec 3 2011,Murcia,0-2,0-1,Alcorcon
+Sat Dec 3 2011,Numancia,0-0,0-0,Cartagena
+Sat Dec 3 2011,Xerez,1-3,0-2,Huesca
+Sun Dec 4 2011,Cordoba,3-0,3-0,Alcoyano
+Sun Dec 4 2011,Valladolid,0-0,0-0,La Coruna
+Fri Dec 9 2011,Barcelona B,3-3,1-0,Almeria
+Sat Dec 10 2011,Alcorcon,0-0,0-0,Celta
+Sat Dec 10 2011,Alcoyano,2-1,0-0,Girona
+Sat Dec 10 2011,Cartagena,0-0,0-0,Las Palmas
+Sat Dec 10 2011,Gimnastic,0-0,0-0,Cordoba
+Sat Dec 10 2011,La Coruna,3-1,2-0,Numancia
+Sat Dec 10 2011,Recreativo,1-1,0-0,Huesca
+Sat Dec 10 2011,Sabadell,0-0,0-0,Elche
+Sat Dec 10 2011,Villarreal B,3-1,1-0,Xerez
+Sun Dec 11 2011,Guadalajara,2-1,2-0,Murcia
+Sun Dec 11 2011,Hercules,2-2,0-2,Valladolid
+Fri Dec 16 2011,Elche,6-0,4-0,Alcorcon
+Sat Dec 17 2011,Celta,2-0,2-0,Guadalajara
+Sat Dec 17 2011,Cordoba,0-0,0-0,Recreativo
+Sat Dec 17 2011,Girona,3-2,1-1,Gimnastic
+Sat Dec 17 2011,Huesca,1-0,0-0,Villarreal B
+Sat Dec 17 2011,Murcia,3-2,0-0,Alcoyano
+Sat Dec 17 2011,Numancia,2-1,1-1,Hercules
+Sat Dec 17 2011,Valladolid,1-0,0-0,Barcelona B
+Sat Dec 17 2011,Xerez,3-0,2-0,Cartagena
+Sun Dec 18 2011,Almeria,3-0,2-0,Sabadell
+Sun Dec 18 2011,Las Palmas,0-1,0-0,La Coruna
+Fri Jan 6 2012,Alcoyano,0-3,0-2,Celta
+Sat Jan 7 2012,Barcelona B,1-1,0-0,Numancia
+Sat Jan 7 2012,Cartagena,2-0,2-0,Huesca
+Sat Jan 7 2012,Gimnastic,0-2,0-1,Murcia
+Sat Jan 7 2012,Guadalajara,2-4,2-2,Elche
+Sat Jan 7 2012,Hercules,2-1,0-0,Las Palmas
+Sat Jan 7 2012,La Coruna,2-1,2-1,Xerez
+Sat Jan 7 2012,Recreativo,3-1,2-1,Villarreal B
+Sat Jan 7 2012,Sabadell,1-4,0-3,Valladolid
+Sun Jan 8 2012,Alcorcon,1-1,0-1,Almeria
+Sun Jan 8 2012,Cordoba,1-0,1-0,Girona
+Fri Jan 13 2012,Celta,1-0,0-0,Gimnastic
+Sat Jan 14 2012,Almeria,4-0,2-0,Guadalajara
+Sat Jan 14 2012,Elche,1-2,0-0,Alcoyano
+Sat Jan 14 2012,Las Palmas,3-1,1-1,Barcelona B
+Sat Jan 14 2012,Murcia,2-1,2-0,Cordoba
+Sat Jan 14 2012,Recreativo,3-0,2-0,Girona
+Sat Jan 14 2012,Valladolid,1-1,1-0,Alcorcon
+Sat Jan 14 2012,Villarreal B,0-0,0-0,Cartagena
+Sun Jan 15 2012,Huesca,0-2,0-1,La Coruna
+Sun Jan 15 2012,Numancia,2-1,1-1,Sabadell
+Sun Jan 15 2012,Xerez,2-1,2-1,Hercules
+Fri Jan 20 2012,Alcoyano,2-2,0-1,Almeria
+Sat Jan 21 2012,Alcorcon,2-2,2-0,Numancia
+Sat Jan 21 2012,Cartagena,3-1,1-0,Recreativo
+Sat Jan 21 2012,Gimnastic,1-0,1-0,Elche
+Sat Jan 21 2012,Girona,1-1,1-1,Murcia
+Sat Jan 21 2012,Guadalajara,0-3,0-1,Valladolid
+Sat Jan 21 2012,Hercules,2-0,0-0,Huesca
+Sat Jan 21 2012,La Coruna,1-0,0-0,Villarreal B
+Sat Jan 21 2012,Sabadell,1-1,1-0,Las Palmas
+Sun Jan 22 2012,Barcelona B,2-0,1-0,Xerez
+Sun Jan 22 2012,Cordoba,0-0,0-0,Celta
+Sat Jan 28 2012,Alcorcon,3-1,1-0,Las Palmas
+Sat Jan 28 2012,Alcoyano,0-1,0-0,Valladolid
+Sat Jan 28 2012,Barcelona B,4-2,3-0,Huesca
+Sat Jan 28 2012,Girona,0-1,0-1,Celta
+Sat Jan 28 2012,Guadalajara,1-0,0-0,Numancia
+Sat Jan 28 2012,Hercules,0-2,0-0,Villarreal B
+Sat Jan 28 2012,Murcia,0-3,0-2,Recreativo
+Sat Jan 28 2012,Sabadell,2-0,1-0,Xerez
+Sun Jan 29 2012,Cordoba,2-0,1-0,Elche
+Sun Jan 29 2012,Gimnastic,1-2,0-1,Almeria
+Sun Jan 29 2012,La Coruna,2-1,1-0,Cartagena
+Fri Feb 3 2012,Villarreal B,0-0,0-0,Barcelona B
+Sat Feb 4 2012,Almeria,2-1,0-1,Cordoba
+Sat Feb 4 2012,Celta,1-0,0-0,Murcia
+Sat Feb 4 2012,Elche,1-0,0-0,Girona
+Sat Feb 4 2012,Huesca,0-0,0-0,Sabadell
+Sat Feb 4 2012,Las Palmas,3-2,1-1,Guadalajara
+Sat Feb 4 2012,Numancia,2-0,1-0,Alcoyano
+Sat Feb 4 2012,Recreativo,0-1,0-1,La Coruna
+Sat Feb 4 2012,Xerez,2-2,0-1,Alcorcon
+Sun Feb 5 2012,Cartagena,0-3,0-2,Hercules
+Sun Feb 5 2012,Valladolid,4-0,3-0,Gimnastic
+Fri Feb 10 2012,Celta,4-1,0-1,Recreativo
+Sat Feb 11 2012,Alcorcon,2-0,0-0,Huesca
+Sat Feb 11 2012,Alcoyano,2-0,0-0,Las Palmas
+Sat Feb 11 2012,Barcelona B,4-0,2-0,Cartagena
+Sat Feb 11 2012,Cordoba,2-0,1-0,Valladolid
+Sat Feb 11 2012,Gimnastic,1-1,1-0,Numancia
+Sat Feb 11 2012,Guadalajara,1-2,1-1,Xerez
+Sat Feb 11 2012,Murcia,0-2,0-1,Elche
+Sat Feb 11 2012,Sabadell,3-1,0-0,Villarreal B
+Sun Feb 12 2012,Girona,0-1,0-0,Almeria
+Sun Feb 12 2012,Hercules,1-4,0-2,La Coruna
+Fri Feb 17 2012,Numancia,5-0,1-0,Cordoba
+Sat Feb 18 2012,Almeria,4-2,2-1,Murcia
+Sat Feb 18 2012,Cartagena,1-0,0-0,Sabadell
+Sat Feb 18 2012,Huesca,2-1,1-0,Guadalajara
+Sat Feb 18 2012,La Coruna,2-1,0-0,Barcelona B
+Sat Feb 18 2012,Valladolid,1-0,1-0,Girona
+Sat Feb 18 2012,Villarreal B,0-3,0-2,Alcorcon
+Sat Feb 18 2012,Xerez,1-0,0-0,Alcoyano
+Sun Feb 19 2012,Elche,0-2,0-0,Celta
+Sun Feb 19 2012,Las Palmas,1-0,1-0,Gimnastic
+Sun Feb 19 2012,Recreativo,1-0,0-0,Hercules
+Fri Feb 24 2012,Barcelona B,0-1,0-1,Hercules
+Sat Feb 25 2012,Alcorcon,1-0,1-0,Cartagena
+Sat Feb 25 2012,Alcoyano,0-3,0-2,Huesca
+Sat Feb 25 2012,Elche,0-3,0-2,Recreativo
+Sat Feb 25 2012,Gimnastic,0-1,0-1,Xerez
+Sat Feb 25 2012,Girona,2-0,1-0,Numancia
+Sat Feb 25 2012,Guadalajara,0-2,0-1,Villarreal B
+Sat Feb 25 2012,Murcia,2-0,1-0,Valladolid
+Sat Feb 25 2012,Sabadell,1-0,1-0,La Coruna
+Sun Feb 26 2012,Celta,4-3,1-2,Almeria
+Sun Feb 26 2012,Cordoba,1-0,0-0,Las Palmas
+Fri Mar 2 2012,La Coruna,2-1,2-0,Alcorcon
+Sat Mar 3 2012,Cartagena,0-2,0-0,Guadalajara
+Sat Mar 3 2012,Hercules,1-0,0-0,Sabadell
+Sat Mar 3 2012,Huesca,0-0,0-0,Gimnastic
+Sat Mar 3 2012,Las Palmas,3-2,0-1,Girona
+Sat Mar 3 2012,Numancia,1-0,0-0,Murcia
+Sat Mar 3 2012,Valladolid,1-2,1-1,Celta
+Sat Mar 3 2012,Villarreal B,4-3,1-2,Alcoyano
+Sat Mar 3 2012,Xerez,1-2,0-0,Cordoba
+Sun Mar 4 2012,Almeria,0-2,0-1,Elche
+Sun Mar 4 2012,Recreativo,0-0,0-0,Barcelona B
+Fri Mar 9 2012,Celta,5-0,3-0,Numancia
+Sat Mar 10 2012,Alcorcon,1-0,0-0,Hercules
+Sat Mar 10 2012,Almeria,2-2,1-1,Recreativo
+Sat Mar 10 2012,Cordoba,3-1,1-0,Huesca
+Sat Mar 10 2012,Gimnastic,0-1,0-0,Villarreal B
+Sat Mar 10 2012,Girona,5-3,2-2,Xerez
+Sat Mar 10 2012,Guadalajara,1-2,0-1,La Coruna
+Sat Mar 10 2012,Murcia,1-2,1-1,Las Palmas
+Sat Mar 10 2012,Sabadell,0-0,0-0,Barcelona B
+Sun Mar 11 2012,Alcoyano,2-2,0-0,Cartagena
+Sun Mar 11 2012,Elche,1-2,1-0,Valladolid
+Fri Mar 16 2012,Villarreal B,1-1,1-0,Cordoba
+Sat Mar 17 2012,Cartagena,1-3,0-0,Gimnastic
+Sat Mar 17 2012,Hercules,5-0,2-0,Guadalajara
+Sat Mar 17 2012,Huesca,2-1,1-1,Girona
+Sat Mar 17 2012,La Coruna,3-0,2-0,Alcoyano
+Sat Mar 17 2012,Las Palmas,3-1,2-0,Celta
+Sat Mar 17 2012,Numancia,3-0,2-0,Elche
+Sat Mar 17 2012,Recreativo,1-1,1-0,Sabadell
+Sat Mar 17 2012,Xerez,3-1,1-1,Murcia
+Sun Mar 18 2012,Barcelona B,3-2,1-0,Alcorcon
+Sun Mar 18 2012,Valladolid,1-1,1-0,Almeria
+Fri Mar 23 2012,Villarreal B,2-0,0-0,Murcia
+Sat Mar 24 2012,Cartagena,1-1,1-1,Girona
+Sat Mar 24 2012,Hercules,1-3,0-2,Gimnastic
+Sat Mar 24 2012,Huesca,1-1,1-0,Celta
+Sat Mar 24 2012,Las Palmas,2-2,0-0,Almeria
+Sat Mar 24 2012,Recreativo,1-2,0-1,Alcorcon
+Sat Mar 24 2012,Sabadell,2-2,1-1,Guadalajara
+Sat Mar 24 2012,Xerez,0-0,0-0,Elche
+Sun Mar 25 2012,Barcelona B,2-1,1-1,Alcoyano
+Sun Mar 25 2012,La Coruna,2-0,1-0,Cordoba
+Sun Mar 25 2012,Numancia,1-4,0-3,Valladolid
+Fri Mar 30 2012,Numancia,1-0,0-0,Recreativo
+Sat Mar 31 2012,Alcoyano,2-1,1-0,Sabadell
+Sat Mar 31 2012,Almeria,1-1,0-1,Xerez
+Sat Mar 31 2012,Elche,1-2,1-0,Huesca
+Sat Mar 31 2012,Gimnastic,1-1,0-1,Barcelona B
+Sat Mar 31 2012,Girona,1-0,1-0,La Coruna
+Sat Mar 31 2012,Guadalajara,1-2,0-1,Alcorcon
+Sat Mar 31 2012,Murcia,2-1,1-1,Cartagena
+Sat Mar 31 2012,Valladolid,2-1,0-0,Las Palmas
+Sun Apr 1 2012,Celta,2-0,0-0,Villarreal B
+Sun Apr 1 2012,Cordoba,3-1,2-0,Hercules
+Fri Apr 6 2012,Hercules,4-2,0-1,Girona
+Sat Apr 7 2012,Alcorcon,2-1,0-0,Alcoyano
+Sat Apr 7 2012,Huesca,1-0,0-0,Almeria
+Sat Apr 7 2012,Las Palmas,1-1,0-0,Numancia
+Sat Apr 7 2012,Recreativo,4-2,2-0,Guadalajara
+Sat Apr 7 2012,Sabadell,1-0,1-0,Gimnastic
+Sat Apr 7 2012,Villarreal B,2-0,1-0,Elche
+Sat Apr 7 2012,Xerez,0-4,0-2,Valladolid
+Sun Apr 8 2012,Barcelona B,2-0,2-0,Cordoba
+Sun Apr 8 2012,La Coruna,3-1,1-1,Murcia
+Fri Apr 13 2012,Almeria,0-0,0-0,Villarreal B
+Sat Apr 14 2012,Alcoyano,0-1,0-0,Guadalajara
+Sat Apr 14 2012,Cordoba,0-0,0-0,Sabadell
+Sat Apr 14 2012,Elche,2-1,1-0,Cartagena
+Sat Apr 14 2012,Girona,1-1,0-0,Barcelona B
+Sat Apr 14 2012,Las Palmas,0-0,0-0,Recreativo
+Sat Apr 14 2012,Murcia,2-6,1-2,Hercules
+Sat Apr 14 2012,Numancia,2-2,0-1,Xerez
+Sat Apr 14 2012,Valladolid,3-0,2-0,Huesca
+Sun Apr 15 2012,Celta,2-3,0-1,La Coruna
+Sun Apr 15 2012,Gimnastic,0-2,0-1,Alcorcon
+Fri Apr 20 2012,Villarreal B,0-1,0-1,Valladolid
+Sat Apr 21 2012,Alcorcon,2-0,0-0,Cordoba
+Sat Apr 21 2012,Cartagena,1-1,0-0,Almeria
+Sat Apr 21 2012,Guadalajara,1-0,0-0,Gimnastic
+Sat Apr 21 2012,Hercules,1-0,0-0,Celta
+Sat Apr 21 2012,Huesca,2-1,2-0,Numancia
+Sat Apr 21 2012,Recreativo,1-3,1-1,Alcoyano
+Sat Apr 21 2012,Sabadell,2-3,0-1,Girona
+Sat Apr 21 2012,Xerez,2-0,0-0,Las Palmas
+Sun Apr 22 2012,Barcelona B,1-0,0-0,Murcia
+Sun Apr 22 2012,La Coruna,4-3,1-1,Elche
+Fri Apr 27 2012,Cordoba,3-2,1-0,Guadalajara
+Sat Apr 28 2012,Almeria,2-0,1-0,La Coruna
+Sat Apr 28 2012,Celta,4-1,0-1,Barcelona B
+Sat Apr 28 2012,Gimnastic,2-0,1-0,Alcoyano
+Sat Apr 28 2012,Girona,0-0,0-0,Alcorcon
+Sat Apr 28 2012,Las Palmas,1-3,0-0,Huesca
+Sat Apr 28 2012,Murcia,1-0,1-0,Sabadell
+Sat Apr 28 2012,Numancia,0-1,0-0,Villarreal B
+Sat Apr 28 2012,Valladolid,2-1,0-1,Cartagena
+Sun Apr 29 2012,Elche,0-3,0-0,Hercules
+Sun Apr 29 2012,Xerez,3-1,3-0,Recreativo
+Fri May 4 2012,Alcoyano,3-3,2-1,Cordoba
+Sat May 5 2012,Alcorcon,3-0,2-0,Murcia
+Sat May 5 2012,Barcelona B,0-1,0-0,Elche
+Sat May 5 2012,Cartagena,2-1,2-1,Numancia
+Sat May 5 2012,Guadalajara,1-4,0-2,Girona
+Sat May 5 2012,Hercules,0-0,0-0,Almeria
+Sat May 5 2012,Huesca,2-1,1-0,Xerez
+Sat May 5 2012,Sabadell,1-2,0-1,Celta
+Sat May 5 2012,Villarreal B,1-4,0-1,Las Palmas
+Sun May 6 2012,La Coruna,1-1,1-0,Valladolid
+Sun May 6 2012,Recreativo,2-2,1-1,Gimnastic
+Tue May 8 2012,Cartagena,1-1,0-1,Celta
+Fri May 11 2012,Cordoba,4-2,2-0,Gimnastic
+Fri May 11 2012,Las Palmas,1-2,1-0,Cartagena
+Sat May 12 2012,Almeria,1-2,0-2,Barcelona B
+Sat May 12 2012,Celta,3-0,2-0,Alcorcon
+Sat May 12 2012,Girona,5-1,3-0,Alcoyano
+Sat May 12 2012,Huesca,0-2,0-1,Recreativo
+Sat May 12 2012,Murcia,2-2,1-0,Guadalajara
+Sat May 12 2012,Numancia,0-3,0-2,La Coruna
+Sun May 13 2012,Elche,1-1,0-0,Sabadell
+Sun May 13 2012,Valladolid,1-1,1-0,Hercules
+Sun May 13 2012,Xerez,0-1,0-0,Villarreal B
+Wed May 16 2012,Alcorcon,3-1,2-1,Elche
+Wed May 16 2012,Alcoyano,1-3,1-1,Murcia
+Wed May 16 2012,Barcelona B,1-2,0-0,Valladolid
+Wed May 16 2012,Cartagena,0-0,0-0,Xerez
+Wed May 16 2012,Gimnastic,1-1,1-0,Girona
+Wed May 16 2012,Guadalajara,0-3,0-1,Celta
+Wed May 16 2012,Hercules,1-3,0-0,Numancia
+Wed May 16 2012,La Coruna,3-1,2-1,Las Palmas
+Wed May 16 2012,Recreativo,0-1,0-0,Cordoba
+Wed May 16 2012,Sabadell,2-1,2-0,Almeria
+Wed May 16 2012,Villarreal B,4-2,1-1,Huesca
+Sat May 19 2012,Almeria,2-0,0-0,Alcorcon
+Sat May 19 2012,Celta,4-0,2-0,Alcoyano
+Sat May 19 2012,Elche,2-3,1-3,Guadalajara
+Sat May 19 2012,Girona,3-1,2-0,Cordoba
+Sat May 19 2012,Huesca,1-0,1-0,Cartagena
+Sat May 19 2012,Las Palmas,2-0,1-0,Hercules
+Sat May 19 2012,Villarreal B,2-0,0-0,Recreativo
+Sun May 20 2012,Murcia,2-2,0-0,Gimnastic
+Sun May 20 2012,Numancia,3-0,2-0,Barcelona B
+Sun May 20 2012,Valladolid,2-0,1-0,Sabadell
+Sun May 20 2012,Xerez,3-2,1-1,La Coruna
+Tue May 22 2012,Cordoba,2-0,2-0,Cartagena
+Tue May 22 2012,Girona,2-1,1-0,Villarreal B
+Wed May 23 2012,Alcorcon,1-0,0-0,Sabadell
+Wed May 23 2012,Alcoyano,0-5,0-1,Hercules
+Wed May 23 2012,Celta,4-1,1-1,Xerez
+Wed May 23 2012,Elche,1-2,0-1,Las Palmas
+Wed May 23 2012,Gimnastic,1-2,1-1,La Coruna
+Wed May 23 2012,Guadalajara,2-0,2-0,Barcelona B
+Wed May 23 2012,Murcia,0-1,0-1,Huesca
+Thu May 24 2012,Almeria,2-0,2-0,Numancia
+Thu May 24 2012,Valladolid,1-0,0-0,Recreativo
+Sat May 26 2012,Barcelona B,2-0,0-0,Las Palmas
+Sun May 27 2012,Alcorcon,2-2,0-1,Valladolid
+Sun May 27 2012,Alcoyano,4-0,2-0,Elche
+Sun May 27 2012,Cartagena,6-2,3-1,Villarreal B
+Sun May 27 2012,Cordoba,2-1,1-0,Murcia
+Sun May 27 2012,Gimnastic,1-2,0-2,Celta
+Sun May 27 2012,Girona,0-0,0-0,Recreativo
+Sun May 27 2012,Guadalajara,0-1,0-0,Almeria
+Sun May 27 2012,Hercules,2-2,2-1,Xerez
+Sun May 27 2012,La Coruna,2-1,1-1,Huesca
+Sun May 27 2012,Sabadell,1-3,0-1,Numancia
+Sat Jun 2 2012,Las Palmas,3-2,1-1,Sabadell
+Sat Jun 2 2012,Murcia,1-2,0-1,Girona
+Sat Jun 2 2012,Recreativo,1-2,0-2,Cartagena
+Sun Jun 3 2012,Almeria,1-0,1-0,Alcoyano
+Sun Jun 3 2012,Celta,0-0,0-0,Cordoba
+Sun Jun 3 2012,Elche,1-0,1-0,Gimnastic
+Sun Jun 3 2012,Huesca,1-2,1-2,Hercules
+Sun Jun 3 2012,Numancia,0-1,0-0,Alcorcon
+Sun Jun 3 2012,Valladolid,1-3,1-1,Guadalajara
+Sun Jun 3 2012,Villarreal B,0-1,0-0,La Coruna
+Sun Jun 3 2012,Xerez,0-6,0-2,Barcelona B

@@ -1,0 +1,203 @@
+Date,Team 1,FT,HT,Team 2
+Fri Mar 4 2016,Cork City,2-0,?,Bohemians
+Fri Mar 4 2016,St. Patricks,1-3,?,Galway
+Fri Mar 4 2016,Finn Harps,2-1,?,Derry City
+Fri Mar 4 2016,Wexford,0-2,?,Longford
+Sat Mar 5 2016,Bray,1-3,?,Dundalk
+Sat Mar 5 2016,Sligo Rovers,0-2,?,Shamrock Rovers
+Fri Mar 11 2016,Bohemians,1-0,?,Sligo Rovers
+Fri Mar 11 2016,Derry City,1-0,?,Cork City
+Fri Mar 11 2016,Dundalk,3-0,?,Finn Harps
+Fri Mar 11 2016,Galway,4-0,?,Bray
+Fri Mar 11 2016,Longford,0-1,?,St. Patricks
+Fri Mar 11 2016,Shamrock Rovers,2-0,?,Wexford
+Mon Mar 14 2016,Bray,0-3,?,Derry City
+Mon Mar 14 2016,Cork City,6-0,?,Longford
+Mon Mar 14 2016,Sligo Rovers,1-1,?,Galway
+Mon Mar 14 2016,St. Patricks,3-0,?,Bohemians
+Mon Mar 14 2016,Finn Harps,0-1,?,Shamrock Rovers
+Mon Mar 14 2016,Wexford,1-2,?,Dundalk
+Fri Mar 18 2016,Bohemians,3-3,?,Wexford
+Fri Mar 18 2016,Derry City,2-1,?,Galway
+Fri Mar 18 2016,Dundalk,0-1,?,Cork City
+Fri Mar 18 2016,Shamrock Rovers,0-2,?,St. Patricks
+Sat Mar 19 2016,Longford,1-1,?,Bray
+Sat Mar 19 2016,Sligo Rovers,1-1,?,Finn Harps
+Thu Mar 24 2016,St. Patricks,0-4,?,Dundalk
+Sat Mar 26 2016,Galway,1-0,?,Bohemians
+Sat Mar 26 2016,Wexford,1-2,?,Derry City
+Sat Mar 26 2016,Bray,4-0,?,Sligo Rovers
+Sat Mar 26 2016,Finn Harps,1-0,?,Longford
+Fri Apr 1 2016,Bohemians,2-0,?,Longford
+Fri Apr 1 2016,Dundalk,1-1,?,Derry City
+Fri Apr 1 2016,Shamrock Rovers,2-0,?,Galway
+Fri Apr 1 2016,Wexford,2-0,?,Bray
+Sat Apr 2 2016,Sligo Rovers,0-0,?,Cork City
+Fri Apr 8 2016,Cork City,1-1,?,Wexford
+Fri Apr 8 2016,Derry City,3-0,?,Shamrock Rovers
+Fri Apr 8 2016,Galway,1-0,?,Finn Harps
+Fri Apr 8 2016,St. Patricks,1-1,?,Sligo Rovers
+Sat Apr 9 2016,Bray,0-2,?,Bohemians
+Sat Apr 9 2016,Longford,0-4,?,Dundalk
+Mon Apr 11 2016,Finn Harps,1-2,?,St. Patricks
+Fri Apr 15 2016,Bohemians,0-4,?,Shamrock Rovers
+Fri Apr 15 2016,Dundalk,1-0,?,Sligo Rovers
+Fri Apr 15 2016,Galway,2-2,?,Cork City
+Fri Apr 15 2016,St. Patricks,4-0,?,Wexford
+Fri Apr 15 2016,Finn Harps,1-0,?,Bray
+Sat Apr 16 2016,Longford,1-1,?,Derry City
+Fri Apr 22 2016,Cork City,3-1,?,Finn Harps
+Fri Apr 22 2016,Derry City,1-0,?,Bohemians
+Fri Apr 22 2016,Shamrock Rovers,0-2,?,Dundalk
+Fri Apr 22 2016,Wexford,0-2,?,Galway
+Sat Apr 23 2016,Bray,1-0,?,St. Patricks
+Sat Apr 23 2016,Sligo Rovers,3-0,?,Longford
+Mon Apr 25 2016,Cork City,2-0,?,Shamrock Rovers
+Fri Apr 29 2016,Bohemians,0-2,?,Dundalk
+Fri Apr 29 2016,Cork City,1-0,?,St. Patricks
+Fri Apr 29 2016,Derry City,0-2,?,Sligo Rovers
+Fri Apr 29 2016,Galway,2-2,?,Longford
+Fri Apr 29 2016,Shamrock Rovers,2-0,?,Bray
+Fri Apr 29 2016,Wexford,1-1,?,Finn Harps
+Fri May 6 2016,St. Patricks,0-1,?,Derry City
+Fri May 6 2016,Dundalk,2-1,?,Galway
+Fri May 6 2016,Finn Harps,0-0,?,Bohemians
+Sat May 7 2016,Bray,0-2,?,Cork City
+Sat May 7 2016,Longford,0-2,?,Shamrock Rovers
+Sat May 7 2016,Sligo Rovers,4-1,?,Wexford
+Tue May 10 2016,Bohemians,0-1,?,Cork City
+Tue May 10 2016,Dundalk,1-0,?,Bray
+Tue May 10 2016,Galway,0-3,?,St. Patricks
+Tue May 10 2016,Derry City,2-2,?,Finn Harps
+Tue May 10 2016,Longford,2-4,?,Wexford
+Tue May 10 2016,Shamrock Rovers,3-0,?,Sligo Rovers
+Fri May 13 2016,Cork City,2-1,?,Derry City
+Fri May 13 2016,Finn Harps,0-7,?,Dundalk
+Fri May 13 2016,St. Patricks,3-3,?,Longford
+Fri May 13 2016,Wexford,2-0,?,Shamrock Rovers
+Sat May 14 2016,Bray,1-2,?,Galway
+Sat May 14 2016,Sligo Rovers,1-0,?,Bohemians
+Tue May 17 2016,St. Patricks,4-0,?,Finn Harps
+Sun May 29 2016,Bohemians,5-1,?,St. Patricks
+Sun May 29 2016,Galway,1-2,?,Sligo Rovers
+Sun May 29 2016,Longford,0-3,?,Cork City
+Sun May 29 2016,Shamrock Rovers,1-1,?,Finn Harps
+Sun May 29 2016,Derry City,2-0,?,Bray
+Sun May 29 2016,Dundalk,3-2,?,Wexford
+Fri Jun 3 2016,Bray,0-0,?,Longford
+Fri Jun 3 2016,Galway,0-0,?,Derry City
+Fri Jun 3 2016,St. Patricks,0-2,?,Shamrock Rovers
+Fri Jun 3 2016,Cork City,1-0,?,Dundalk
+Fri Jun 3 2016,Finn Harps,3-0,?,Sligo Rovers
+Fri Jun 3 2016,Wexford,0-1,?,Bohemians
+Fri Jun 24 2016,Bohemians,1-1,?,Galway
+Fri Jun 24 2016,Derry City,1-0,?,Wexford
+Fri Jun 24 2016,Dundalk,2-0,?,St. Patricks
+Fri Jun 24 2016,Sligo Rovers,0-0,?,Bray
+Fri Jun 24 2016,Longford,0-2,?,Finn Harps
+Fri Jun 24 2016,Shamrock Rovers,0-0,?,Cork City
+Fri Jul 1 2016,Derry City,0-5,?,Dundalk
+Sat Jul 2 2016,Bray,3-0,?,Wexford
+Sat Jul 2 2016,Longford,0-1,?,Bohemians
+Tue Jul 5 2016,Dundalk,4-3,?,Longford
+Fri Jul 8 2016,Bohemians,0-0,?,Bray
+Fri Jul 8 2016,Finn Harps,1-0,?,Galway
+Sat Jul 9 2016,Sligo Rovers,1-0,?,St. Patricks
+Sun Jul 10 2016,Wexford,0-1,?,Cork City
+Fri Jul 15 2016,Derry City,4-0,?,Longford
+Fri Jul 15 2016,Shamrock Rovers,3-1,?,Bohemians
+Sat Jul 16 2016,Bray,1-0,?,Finn Harps
+Fri Jul 22 2016,Galway,4-2,?,Wexford
+Fri Jul 22 2016,Bohemians,0-1,?,Derry City
+Sat Jul 23 2016,Longford,2-2,?,Sligo Rovers
+Fri Jul 29 2016,Bray,1-1,?,Shamrock Rovers
+Fri Jul 29 2016,Finn Harps,0-1,?,Wexford
+Fri Jul 29 2016,Sligo Rovers,0-0,?,Derry City
+Sat Jul 30 2016,Longford,1-1,?,Galway
+Mon Aug 1 2016,Wexford,0-1,?,St. Patricks
+Fri Aug 5 2016,Bohemians,2-0,?,Finn Harps
+Fri Aug 5 2016,Derry City,1-1,?,St. Patricks
+Fri Aug 5 2016,Galway,1-0,?,Dundalk
+Fri Aug 5 2016,Shamrock Rovers,2-1,?,Longford
+Fri Aug 5 2016,Wexford,0-5,?,Sligo Rovers
+Mon Aug 8 2016,Cork City,1-2,?,Sligo Rovers
+Wed Aug 10 2016,Bray,2-1,?,Dundalk
+Fri Aug 12 2016,Cork City,0-0,?,Bohemians
+Fri Aug 12 2016,Sligo Rovers,3-2,?,Shamrock Rovers
+Fri Aug 12 2016,St. Patricks,1-0,?,Galway
+Fri Aug 12 2016,Finn Harps,0-5,?,Derry City
+Fri Aug 12 2016,Wexford,2-0,?,Longford
+Mon Aug 15 2016,Bohemians,3-2,?,Sligo Rovers
+Mon Aug 15 2016,Derry City,0-0,?,Cork City
+Mon Aug 15 2016,Longford,0-1,?,St. Patricks
+Mon Aug 15 2016,Shamrock Rovers,3-1,?,Wexford
+Fri Aug 19 2016,Galway,0-2,?,Bray
+Fri Aug 26 2016,Cork City,5-2,?,Longford
+Fri Aug 26 2016,St. Patricks,0-1,?,Bohemians
+Fri Aug 26 2016,Finn Harps,0-2,?,Shamrock Rovers
+Fri Aug 26 2016,Wexford,0-1,?,Dundalk
+Sat Aug 27 2016,Bray,2-2,?,Derry City
+Sat Aug 27 2016,Sligo Rovers,2-1,?,Galway
+Tue Aug 30 2016,Cork City,4-0,?,Bray
+Tue Aug 30 2016,Shamrock Rovers,0-1,?,Derry City
+Fri Sep 2 2016,Bohemians,1-2,?,Dundalk
+Fri Sep 2 2016,Derry City,0-0,?,Galway
+Fri Sep 2 2016,Shamrock Rovers,0-0,?,St. Patricks
+Tue Sep 6 2016,Galway,0-1,?,Shamrock Rovers
+Tue Sep 6 2016,Sligo Rovers,0-1,?,Dundalk
+Tue Sep 6 2016,St. Patricks,1-2,?,Bray
+Sat Sep 10 2016,Longford,0-2,?,Bray
+Mon Sep 12 2016,Dundalk,2-0,?,Finn Harps
+Fri Sep 16 2016,Cork City,3-0,?,Shamrock Rovers
+Fri Sep 16 2016,Galway,2-0,?,Bohemians
+Fri Sep 16 2016,Finn Harps,0-1,?,Longford
+Fri Sep 16 2016,Wexford,0-0,?,Derry City
+Sat Sep 17 2016,Bray,4-0,?,Sligo Rovers
+Mon Sep 19 2016,Bohemians,1-0,?,Wexford
+Mon Sep 19 2016,Finn Harps,0-1,?,Cork City
+Tue Sep 20 2016,Dundalk,1-1,?,Shamrock Rovers
+Fri Sep 23 2016,Bohemians,1-0,?,Longford
+Fri Sep 23 2016,Dundalk,3-1,?,Derry City
+Fri Sep 23 2016,Shamrock Rovers,4-2,?,Galway
+Fri Sep 23 2016,Wexford,1-3,?,Bray
+Sat Sep 24 2016,Sligo Rovers,0-0,?,Cork City
+Tue Sep 27 2016,Cork City,5-3,?,Galway
+Tue Sep 27 2016,Derry City,2-2,?,Shamrock Rovers
+Tue Sep 27 2016,St. Patricks,0-0,?,Sligo Rovers
+Fri Sep 30 2016,Bray,2-1,?,Bohemians
+Sat Oct 1 2016,Galway,3-2,?,Finn Harps
+Tue Oct 4 2016,Sligo Rovers,0-0,?,Finn Harps
+Fri Oct 7 2016,Bohemians,1-0,?,Shamrock Rovers
+Fri Oct 7 2016,St. Patricks,4-1,?,Wexford
+Fri Oct 7 2016,Finn Harps,2-1,?,Bray
+Sat Oct 8 2016,Dundalk,0-3,?,Sligo Rovers
+Sat Oct 8 2016,Galway,0-5,?,Cork City
+Sat Oct 8 2016,Longford,2-3,?,Derry City
+Tue Oct 11 2016,Dundalk,2-1,?,Cork City
+Tue Oct 11 2016,Finn Harps,1-1,?,St. Patricks
+Fri Oct 14 2016,Bray,2-1,?,St. Patricks
+Fri Oct 14 2016,Cork City,2-0,?,Finn Harps
+Fri Oct 14 2016,Derry City,2-1,?,Bohemians
+Fri Oct 14 2016,Shamrock Rovers,0-3,?,Dundalk
+Fri Oct 14 2016,Sligo Rovers,1-0,?,Longford
+Fri Oct 14 2016,Wexford,5-4,?,Galway
+Mon Oct 17 2016,St. Patricks,3-1,?,Cork City
+Mon Oct 17 2016,Longford,0-3,?,Dundalk
+Fri Oct 21 2016,Cork City,3-1,?,St. Patricks
+Fri Oct 21 2016,Derry City,2-1,?,Sligo Rovers
+Fri Oct 21 2016,Galway,0-0,?,Longford
+Fri Oct 21 2016,Shamrock Rovers,0-0,?,Bray
+Fri Oct 21 2016,Wexford,0-0,?,Finn Harps
+Sat Oct 22 2016,Cobh Ramblers,0-2,?,Drogheda
+Sun Oct 23 2016,Dundalk,2-1,?,Bohemians
+Mon Oct 24 2016,Cork City,5-0,?,Wexford
+Tue Oct 25 2016,St. Patricks,5-2,?,Dundalk
+Fri Oct 28 2016,Bray,4-1,?,Cork City
+Fri Oct 28 2016,Drogheda,1-2,?,Cobh Ramblers
+Fri Oct 28 2016,Dundalk,4-1,?,Galway
+Fri Oct 28 2016,Finn Harps,1-0,?,Bohemians
+Fri Oct 28 2016,Longford,2-4,?,Shamrock Rovers
+Fri Oct 28 2016,Sligo Rovers,5-0,?,Wexford
+Fri Oct 28 2016,St. Patricks,0-2,?,Derry City
+Mon Oct 31 2016,Wexford,2-0,?,Drogheda
+Fri Nov 4 2016,Drogheda,3-0,?,Wexford

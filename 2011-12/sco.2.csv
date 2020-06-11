@@ -1,0 +1,181 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 6 2011,Ayr,1-2,1-1,Hamilton
+Sat Aug 6 2011,Livingston,2-2,0-2,Queen of Sth
+Sat Aug 6 2011,Partick,0-1,0-0,Dundee
+Sat Aug 6 2011,Raith Rvs,1-0,1-0,Falkirk
+Sat Aug 6 2011,Ross County,0-0,0-0,Morton
+Sat Aug 13 2011,Dundee,1-1,1-1,Ayr
+Sat Aug 13 2011,Falkirk,2-1,1-1,Partick
+Sat Aug 13 2011,Hamilton,5-1,3-0,Ross County
+Sat Aug 13 2011,Morton,2-1,1-0,Livingston
+Sat Aug 13 2011,Queen of Sth,1-3,1-0,Raith Rvs
+Sat Aug 20 2011,Ayr,2-2,1-2,Falkirk
+Sat Aug 20 2011,Livingston,4-2,2-0,Dundee
+Sat Aug 20 2011,Partick,1-1,0-0,Hamilton
+Sat Aug 20 2011,Raith Rvs,1-1,1-1,Morton
+Sat Aug 20 2011,Ross County,2-0,0-0,Queen of Sth
+Sat Aug 27 2011,Ayr,2-1,1-1,Raith Rvs
+Sat Aug 27 2011,Dundee,0-1,0-1,Morton
+Sat Aug 27 2011,Falkirk,1-1,0-0,Ross County
+Sat Aug 27 2011,Hamilton,1-1,0-0,Livingston
+Sat Aug 27 2011,Partick,2-1,1-0,Queen of Sth
+Sat Sep 10 2011,Livingston,1-1,0-0,Falkirk
+Sat Sep 10 2011,Morton,4-1,3-0,Ayr
+Sat Sep 10 2011,Queen of Sth,1-0,0-0,Hamilton
+Sat Sep 10 2011,Raith Rvs,0-1,0-0,Dundee
+Sat Sep 10 2011,Ross County,2-2,1-0,Partick
+Sat Sep 17 2011,Falkirk,2-1,0-1,Dundee
+Sat Sep 17 2011,Hamilton,2-2,0-1,Raith Rvs
+Sat Sep 17 2011,Partick,4-0,0-0,Ayr
+Sat Sep 17 2011,Queen of Sth,4-1,4-0,Morton
+Sat Sep 17 2011,Ross County,1-1,1-1,Livingston
+Sat Sep 24 2011,Ayr,1-0,0-0,Queen of Sth
+Sat Sep 24 2011,Dundee,0-1,0-0,Hamilton
+Sat Sep 24 2011,Livingston,2-1,1-0,Partick
+Sat Sep 24 2011,Morton,3-2,1-2,Falkirk
+Sat Sep 24 2011,Raith Rvs,0-1,0-0,Ross County
+Fri Sep 30 2011,Partick,5-0,2-0,Morton
+Sat Oct 1 2011,Hamilton,0-1,0-1,Falkirk
+Sat Oct 1 2011,Livingston,1-1,0-0,Raith Rvs
+Sat Oct 1 2011,Queen of Sth,0-0,0-0,Dundee
+Sat Oct 1 2011,Ross County,4-0,1-0,Ayr
+Sat Oct 15 2011,Ayr,0-0,0-0,Livingston
+Sat Oct 15 2011,Dundee,1-2,1-1,Ross County
+Sat Oct 15 2011,Falkirk,1-0,0-0,Queen of Sth
+Sat Oct 15 2011,Morton,0-2,0-0,Hamilton
+Sat Oct 15 2011,Raith Rvs,2-0,1-0,Partick
+Sat Oct 22 2011,Ayr,1-3,0-1,Dundee
+Sat Oct 22 2011,Livingston,1-1,1-1,Morton
+Sat Oct 22 2011,Partick,2-2,0-1,Falkirk
+Sat Oct 22 2011,Raith Rvs,0-2,0-1,Queen of Sth
+Sat Oct 22 2011,Ross County,1-0,1-0,Hamilton
+Sat Oct 29 2011,Dundee,0-1,0-1,Partick
+Sat Oct 29 2011,Falkirk,2-0,0-0,Raith Rvs
+Sat Oct 29 2011,Hamilton,2-3,2-0,Ayr
+Sat Oct 29 2011,Morton,0-2,0-1,Ross County
+Sat Oct 29 2011,Queen of Sth,0-2,0-1,Livingston
+Sat Nov 5 2011,Ayr,0-1,0-1,Morton
+Sat Nov 5 2011,Dundee,1-0,0-0,Raith Rvs
+Sat Nov 5 2011,Falkirk,4-3,3-0,Livingston
+Sat Nov 5 2011,Hamilton,3-1,1-1,Queen of Sth
+Sat Nov 5 2011,Partick,0-1,0-1,Ross County
+Sat Nov 12 2011,Livingston,1-0,0-0,Hamilton
+Sat Nov 12 2011,Morton,1-2,1-1,Dundee
+Sat Nov 12 2011,Queen of Sth,0-0,0-0,Partick
+Sat Nov 12 2011,Raith Rvs,0-1,0-1,Ayr
+Sat Nov 12 2011,Ross County,3-1,1-1,Falkirk
+Sat Nov 26 2011,Dundee,4-2,2-1,Falkirk
+Sat Nov 26 2011,Livingston,0-3,0-0,Ross County
+Sat Nov 26 2011,Morton,2-2,1-1,Queen of Sth
+Sat Nov 26 2011,Raith Rvs,3-2,1-1,Hamilton
+Wed Nov 30 2011,Ayr,0-0,0-0,Partick
+Sat Dec 3 2011,Falkirk,1-0,0-0,Morton
+Sat Dec 3 2011,Hamilton,1-6,0-3,Dundee
+Sat Dec 3 2011,Partick,2-1,2-1,Livingston
+Sat Dec 3 2011,Queen of Sth,4-1,1-1,Ayr
+Sat Dec 3 2011,Ross County,4-2,2-2,Raith Rvs
+Sat Dec 10 2011,Dundee,2-1,2-0,Queen of Sth
+Sat Dec 10 2011,Falkirk,0-0,0-0,Hamilton
+Sat Dec 10 2011,Morton,1-2,0-1,Partick
+Sat Dec 10 2011,Raith Rvs,0-1,0-0,Livingston
+Sat Dec 17 2011,Partick,0-1,0-0,Raith Rvs
+Sat Dec 17 2011,Queen of Sth,1-5,1-1,Falkirk
+Sat Dec 17 2011,Ross County,1-1,0-1,Dundee
+Mon Dec 26 2011,Ayr,1-1,0-1,Raith Rvs
+Mon Dec 26 2011,Dundee,0-1,0-1,Morton
+Mon Dec 26 2011,Falkirk,1-1,0-0,Ross County
+Mon Dec 26 2011,Hamilton,0-1,0-0,Livingston
+Mon Dec 26 2011,Partick,1-0,0-0,Queen of Sth
+Mon Jan 2 2012,Livingston,1-2,0-1,Falkirk
+Mon Jan 2 2012,Morton,3-1,1-1,Ayr
+Mon Jan 2 2012,Queen of Sth,1-2,0-2,Hamilton
+Mon Jan 2 2012,Raith Rvs,0-1,0-1,Dundee
+Fri Jan 13 2012,Hamilton,1-0,0-0,Partick
+Sat Jan 14 2012,Dundee,3-0,1-0,Livingston
+Sat Jan 14 2012,Falkirk,0-0,0-0,Ayr
+Sat Jan 14 2012,Morton,1-1,0-0,Raith Rvs
+Sat Jan 14 2012,Queen of Sth,0-0,0-0,Ross County
+Sat Jan 21 2012,Ayr,2-2,2-0,Hamilton
+Sat Jan 21 2012,Livingston,2-2,1-1,Queen of Sth
+Sat Jan 21 2012,Partick,0-0,0-0,Dundee
+Sat Jan 21 2012,Raith Rvs,2-2,2-1,Falkirk
+Sat Jan 28 2012,Queen of Sth,2-1,0-0,Morton
+Sat Jan 28 2012,Ross County,3-0,1-0,Livingston
+Sat Feb 11 2012,Ayr,1-1,0-0,Queen of Sth
+Sat Feb 11 2012,Dundee,2-2,0-1,Hamilton
+Sat Feb 11 2012,Livingston,3-1,1-0,Partick
+Sat Feb 11 2012,Morton,0-0,0-0,Falkirk
+Sat Feb 11 2012,Raith Rvs,1-1,0-0,Ross County
+Tue Feb 14 2012,Hamilton,1-2,0-2,Morton
+Sat Feb 18 2012,Hamilton,0-1,0-1,Falkirk
+Sat Feb 18 2012,Livingston,4-0,1-0,Raith Rvs
+Sat Feb 18 2012,Partick,0-0,0-0,Morton
+Sat Feb 18 2012,Queen of Sth,1-1,1-0,Dundee
+Sat Feb 18 2012,Ross County,1-1,1-0,Ayr
+Tue Feb 21 2012,Falkirk,1-1,1-0,Dundee
+Tue Feb 21 2012,Hamilton,2-1,1-0,Raith Rvs
+Tue Feb 21 2012,Partick,4-2,0-1,Ayr
+Sat Feb 25 2012,Ayr,3-1,1-1,Livingston
+Sat Feb 25 2012,Dundee,1-1,1-1,Ross County
+Sat Feb 25 2012,Falkirk,3-0,2-0,Queen of Sth
+Sat Feb 25 2012,Morton,1-2,0-2,Hamilton
+Sat Feb 25 2012,Raith Rvs,2-1,0-1,Partick
+Wed Feb 29 2012,Ayr,2-3,0-2,Ross County
+Sat Mar 3 2012,Ayr,1-0,0-0,Falkirk
+Sat Mar 3 2012,Livingston,2-3,1-1,Dundee
+Sat Mar 3 2012,Partick,2-0,1-0,Hamilton
+Sat Mar 3 2012,Raith Rvs,5-0,1-0,Morton
+Sat Mar 3 2012,Ross County,2-1,1-0,Queen of Sth
+Tue Mar 6 2012,Livingston,1-2,1-1,Ayr
+Tue Mar 6 2012,Ross County,3-0,2-0,Partick
+Sat Mar 10 2012,Falkirk,1-1,0-1,Partick
+Sat Mar 10 2012,Hamilton,0-2,0-2,Ross County
+Sat Mar 10 2012,Morton,1-3,1-2,Livingston
+Sat Mar 10 2012,Queen of Sth,1-0,0-0,Raith Rvs
+Tue Mar 13 2012,Ross County,2-2,1-0,Morton
+Sat Mar 17 2012,Livingston,0-4,0-3,Hamilton
+Sat Mar 17 2012,Morton,0-2,0-1,Dundee
+Sat Mar 17 2012,Queen of Sth,0-5,0-2,Partick
+Sat Mar 17 2012,Raith Rvs,2-2,1-0,Ayr
+Sat Mar 17 2012,Ross County,2-1,2-0,Falkirk
+Tue Mar 20 2012,Falkirk,0-2,0-0,Morton
+Tue Mar 20 2012,Hamilton,3-1,1-1,Dundee
+Sat Mar 24 2012,Ayr,0-0,0-0,Morton
+Sat Mar 24 2012,Dundee,1-1,1-1,Raith Rvs
+Sat Mar 24 2012,Falkirk,2-5,1-2,Livingston
+Sat Mar 24 2012,Hamilton,3-0,0-0,Queen of Sth
+Sat Mar 24 2012,Partick,0-1,0-1,Ross County
+Tue Mar 27 2012,Dundee,4-1,1-0,Ayr
+Sat Mar 31 2012,Partick,2-3,1-1,Livingston
+Sat Mar 31 2012,Queen of Sth,2-1,2-0,Ayr
+Sat Mar 31 2012,Ross County,1-1,0-0,Raith Rvs
+Sat Apr 7 2012,Ayr,1-3,0-2,Partick
+Sat Apr 7 2012,Dundee,3-1,2-1,Falkirk
+Sat Apr 7 2012,Livingston,1-3,0-1,Ross County
+Sat Apr 7 2012,Morton,2-2,1-0,Queen of Sth
+Sat Apr 7 2012,Raith Rvs,2-1,0-1,Hamilton
+Tue Apr 10 2012,Dundee,1-1,0-0,Queen of Sth
+Tue Apr 10 2012,Falkirk,3-0,0-0,Hamilton
+Tue Apr 10 2012,Morton,1-0,1-0,Partick
+Tue Apr 10 2012,Raith Rvs,0-3,0-2,Livingston
+Wed Apr 11 2012,Ayr,1-3,0-0,Ross County
+Sat Apr 14 2012,Hamilton,4-3,2-0,Morton
+Sat Apr 14 2012,Livingston,0-1,0-1,Ayr
+Sat Apr 14 2012,Partick,1-1,0-0,Raith Rvs
+Sat Apr 14 2012,Queen of Sth,0-0,0-0,Falkirk
+Sat Apr 14 2012,Ross County,3-0,1-0,Dundee
+Sat Apr 21 2012,Dundee,0-3,0-1,Partick
+Sat Apr 21 2012,Falkirk,2-3,1-2,Raith Rvs
+Sat Apr 21 2012,Hamilton,3-2,1-1,Ayr
+Sat Apr 21 2012,Morton,1-1,1-1,Ross County
+Sat Apr 21 2012,Queen of Sth,0-4,0-2,Livingston
+Sat Apr 28 2012,Ayr,3-2,0-1,Dundee
+Sat Apr 28 2012,Livingston,0-0,0-0,Morton
+Sat Apr 28 2012,Partick,1-1,1-0,Falkirk
+Sat Apr 28 2012,Raith Rvs,3-1,1-0,Queen of Sth
+Sat Apr 28 2012,Ross County,5-1,2-0,Hamilton
+Sat May 5 2012,Dundee,1-0,0-0,Livingston
+Sat May 5 2012,Falkirk,3-2,1-0,Ayr
+Sat May 5 2012,Hamilton,2-2,2-2,Partick
+Sat May 5 2012,Morton,1-3,0-1,Raith Rvs
+Sat May 5 2012,Queen of Sth,3-5,2-2,Ross County

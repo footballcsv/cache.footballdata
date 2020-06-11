@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Sep 3 1994,Sevilla,1-4,?,Real Madrid
+Sun Sep 4 1994,Albacete,1-1,?,Celta
+Sun Sep 4 1994,Ath Bilbao,0-2,?,La Coruna
+Sun Sep 4 1994,Ath Madrid,2-4,?,Valencia
+Sun Sep 4 1994,Compostela,0-2,?,Sociedad
+Sun Sep 4 1994,Espanol,4-2,?,Oviedo
+Sun Sep 4 1994,Logrones,0-0,?,Betis
+Sun Sep 4 1994,Santander,0-0,?,Valladolid
+Sun Sep 4 1994,Sp Gijon,2-1,?,Barcelona
+Sun Sep 4 1994,Zaragoza,2-2,?,Tenerife
+Sat Sep 10 1994,Barcelona,2-1,?,Santander
+Sat Sep 10 1994,Celta,1-1,?,Ath Bilbao
+Sat Sep 10 1994,La Coruna,2-1,?,Sp Gijon
+Sat Sep 10 1994,Real Madrid,2-0,?,Logrones
+Sat Sep 10 1994,Tenerife,1-0,?,Ath Madrid
+Sun Sep 11 1994,Betis,4-1,?,Albacete
+Sun Sep 11 1994,Oviedo,2-2,?,Compostela
+Sun Sep 11 1994,Sociedad,1-2,?,Zaragoza
+Sun Sep 11 1994,Valencia,0-1,?,Sevilla
+Sun Sep 11 1994,Valladolid,0-4,?,Espanol
+Sun Sep 18 1994,Albacete,1-1,?,Real Madrid
+Sun Sep 18 1994,Ath Bilbao,1-0,?,Betis
+Sun Sep 18 1994,Ath Madrid,2-1,?,Sociedad
+Sun Sep 18 1994,Compostela,1-0,?,Valladolid
+Sun Sep 18 1994,Espanol,0-0,?,Barcelona
+Sun Sep 18 1994,Santander,1-2,?,La Coruna
+Sun Sep 18 1994,Sevilla,1-0,?,Logrones
+Sun Sep 18 1994,Sp Gijon,0-0,?,Celta
+Sun Sep 18 1994,Valencia,2-1,?,Tenerife
+Sun Sep 18 1994,Zaragoza,2-1,?,Oviedo
+Sat Sep 24 1994,Barcelona,4-0,?,Compostela
+Sat Sep 24 1994,La Coruna,1-1,?,Espanol
+Sat Sep 24 1994,Real Madrid,4-0,?,Ath Bilbao
+Sat Sep 24 1994,Valladolid,2-0,?,Zaragoza
+Sun Sep 25 1994,Betis,5-0,?,Sp Gijon
+Sun Sep 25 1994,Celta,2-1,?,Santander
+Sun Sep 25 1994,Logrones,1-1,?,Albacete
+Sun Sep 25 1994,Oviedo,1-0,?,Ath Madrid
+Sun Sep 25 1994,Sociedad,0-2,?,Valencia
+Sun Sep 25 1994,Tenerife,0-0,?,Sevilla
+Sat Oct 1 1994,Compostela,0-1,?,La Coruna
+Sat Oct 1 1994,Valencia,1-0,?,Oviedo
+Sun Oct 2 1994,Ath Bilbao,1-0,?,Logrones
+Sun Oct 2 1994,Ath Madrid,6-0,?,Valladolid
+Sun Oct 2 1994,Espanol,0-0,?,Celta
+Sun Oct 2 1994,Santander,0-0,?,Betis
+Sun Oct 2 1994,Sevilla,0-2,?,Albacete
+Sun Oct 2 1994,Sp Gijon,1-0,?,Real Madrid
+Sun Oct 2 1994,Tenerife,3-0,?,Sociedad
+Sun Oct 2 1994,Zaragoza,2-1,?,Barcelona
+Sat Oct 8 1994,Barcelona,4-3,?,Ath Madrid
+Sun Oct 9 1994,Albacete,1-2,?,Ath Bilbao
+Sun Oct 9 1994,Betis,3-1,?,Espanol
+Sun Oct 9 1994,Celta,1-2,?,Compostela
+Sun Oct 9 1994,La Coruna,3-3,?,Zaragoza
+Sun Oct 9 1994,Logrones,1-3,?,Sp Gijon
+Sun Oct 9 1994,Oviedo,1-2,?,Tenerife
+Sun Oct 9 1994,Real Madrid,3-1,?,Santander
+Sun Oct 9 1994,Sociedad,0-0,?,Sevilla
+Sun Oct 9 1994,Valladolid,2-0,?,Valencia
+Sat Oct 15 1994,Ath Madrid,1-1,?,La Coruna
+Sat Oct 15 1994,Espanol,1-2,?,Real Madrid
+Sat Oct 15 1994,Sevilla,0-0,?,Ath Bilbao
+Sat Oct 15 1994,Valencia,1-2,?,Barcelona
+Sun Oct 16 1994,Compostela,1-1,?,Betis
+Sun Oct 16 1994,Santander,3-0,?,Logrones
+Sun Oct 16 1994,Sociedad,3-1,?,Oviedo
+Sun Oct 16 1994,Sp Gijon,3-2,?,Albacete
+Sun Oct 16 1994,Tenerife,0-0,?,Valladolid
+Sun Oct 16 1994,Zaragoza,4-0,?,Celta
+Sat Oct 22 1994,Celta,1-0,?,Ath Madrid
+Sun Oct 23 1994,Albacete,2-0,?,Santander
+Sun Oct 23 1994,Ath Bilbao,2-0,?,Sp Gijon
+Sun Oct 23 1994,Barcelona,1-0,?,Tenerife
+Sun Oct 23 1994,Betis,0-1,?,Zaragoza
+Sun Oct 23 1994,La Coruna,3-1,?,Valencia
+Sun Oct 23 1994,Logrones,1-1,?,Espanol
+Sun Oct 23 1994,Oviedo,1-0,?,Sevilla
+Sun Oct 23 1994,Real Madrid,1-1,?,Compostela
+Sun Oct 23 1994,Valladolid,1-1,?,Sociedad
+Sat Oct 29 1994,Sociedad,1-1,?,Barcelona
+Sat Oct 29 1994,Tenerife,1-1,?,La Coruna
+Sat Oct 29 1994,Valencia,1-0,?,Celta
+Sat Oct 29 1994,Zaragoza,3-2,?,Real Madrid
+Sun Oct 30 1994,Ath Madrid,0-2,?,Betis
+Sun Oct 30 1994,Compostela,2-0,?,Logrones
+Sun Oct 30 1994,Espanol,5-1,?,Albacete
+Sun Oct 30 1994,Oviedo,1-0,?,Valladolid
+Sun Oct 30 1994,Sevilla,5-1,?,Sp Gijon
+Mon Oct 31 1994,Santander,0-2,?,Ath Bilbao
+Sat Nov 5 1994,Real Madrid,4-2,?,Ath Madrid
+Sun Nov 6 1994,Albacete,1-3,?,Compostela
+Sun Nov 6 1994,Ath Bilbao,1-3,?,Espanol
+Sun Nov 6 1994,Barcelona,1-0,?,Oviedo
+Sun Nov 6 1994,Betis,1-1,?,Valencia
+Sun Nov 6 1994,Celta,3-2,?,Tenerife
+Sun Nov 6 1994,La Coruna,3-1,?,Sociedad
+Sun Nov 6 1994,Logrones,0-0,?,Zaragoza
+Sun Nov 6 1994,Sp Gijon,2-3,?,Santander
+Sun Nov 6 1994,Valladolid,0-4,?,Sevilla
+Sat Nov 19 1994,Compostela,0-1,?,Ath Bilbao
+Sat Nov 19 1994,Oviedo,2-0,?,La Coruna
+Sat Nov 19 1994,Valencia,1-2,?,Real Madrid
+Sat Nov 19 1994,Valladolid,1-3,?,Barcelona
+Sun Nov 20 1994,Ath Madrid,3-0,?,Logrones
+Sun Nov 20 1994,Espanol,1-1,?,Sp Gijon
+Sun Nov 20 1994,Sevilla,1-3,?,Santander
+Sun Nov 20 1994,Sociedad,2-3,?,Celta
+Sun Nov 20 1994,Tenerife,1-4,?,Betis
+Sun Nov 20 1994,Zaragoza,1-0,?,Albacete
+Sun Nov 27 1994,Albacete,2-2,?,Ath Madrid
+Sun Nov 27 1994,Ath Bilbao,1-0,?,Zaragoza
+Sun Nov 27 1994,Barcelona,0-1,?,Sevilla
+Sun Nov 27 1994,Betis,0-0,?,Sociedad
+Sun Nov 27 1994,Celta,0-0,?,Oviedo
+Sun Nov 27 1994,La Coruna,4-0,?,Valladolid
+Sun Nov 27 1994,Logrones,2-2,?,Valencia
+Sun Nov 27 1994,Real Madrid,4-2,?,Tenerife
+Sun Nov 27 1994,Santander,0-0,?,Espanol
+Sun Nov 27 1994,Sp Gijon,1-1,?,Compostela
+Sat Dec 3 1994,Ath Madrid,2-1,?,Ath Bilbao
+Sat Dec 3 1994,Barcelona,1-1,?,La Coruna
+Sat Dec 3 1994,Sociedad,1-1,?,Real Madrid
+Sat Dec 3 1994,Valencia,3-3,?,Albacete
+Sun Dec 4 1994,Compostela,2-1,?,Santander
+Sun Dec 4 1994,Oviedo,0-0,?,Betis
+Sun Dec 4 1994,Sevilla,3-0,?,Espanol
+Sun Dec 4 1994,Tenerife,4-0,?,Logrones
+Sun Dec 4 1994,Valladolid,1-1,?,Celta
+Sun Dec 4 1994,Zaragoza,3-2,?,Sp Gijon
+Sat Dec 10 1994,Ath Bilbao,2-1,?,Valencia
+Sun Dec 11 1994,Albacete,2-1,?,Tenerife
+Sun Dec 11 1994,Betis,1-2,?,Valladolid
+Sun Dec 11 1994,Celta,2-4,?,Barcelona
+Sun Dec 11 1994,Espanol,2-0,?,Compostela
+Sun Dec 11 1994,La Coruna,5-1,?,Sevilla
+Sun Dec 11 1994,Logrones,0-4,?,Sociedad
+Sun Dec 11 1994,Real Madrid,2-0,?,Oviedo
+Sun Dec 11 1994,Santander,0-1,?,Zaragoza
+Sun Dec 11 1994,Sp Gijon,0-2,?,Ath Madrid
+Wed Dec 21 1994,Ath Madrid,0-1,?,Santander
+Wed Dec 21 1994,Barcelona,1-1,?,Betis
+Wed Dec 21 1994,La Coruna,1-2,?,Celta
+Wed Dec 21 1994,Oviedo,1-0,?,Logrones
+Wed Dec 21 1994,Sevilla,3-0,?,Compostela
+Wed Dec 21 1994,Sociedad,2-0,?,Albacete
+Wed Dec 21 1994,Tenerife,1-0,?,Ath Bilbao
+Wed Dec 21 1994,Valencia,0-0,?,Sp Gijon
+Wed Dec 21 1994,Zaragoza,1-0,?,Espanol
+Thu Dec 22 1994,Valladolid,0-5,?,Real Madrid
+Sat Jan 7 1995,Real Madrid,5-0,?,Barcelona
+Sun Jan 8 1995,Albacete,1-0,?,Oviedo
+Sun Jan 8 1995,Ath Bilbao,0-0,?,Sociedad
+Sun Jan 8 1995,Betis,0-0,?,La Coruna
+Sun Jan 8 1995,Celta,0-0,?,Sevilla
+Sun Jan 8 1995,Compostela,3-2,?,Zaragoza
+Sun Jan 8 1995,Espanol,2-0,?,Ath Madrid
+Sun Jan 8 1995,Logrones,0-0,?,Valladolid
+Sun Jan 8 1995,Santander,3-2,?,Valencia
+Sun Jan 8 1995,Sp Gijon,1-1,?,Tenerife
+Sat Jan 14 1995,La Coruna,0-0,?,Real Madrid
+Sun Jan 15 1995,Ath Madrid,1-1,?,Compostela
+Sun Jan 15 1995,Barcelona,3-0,?,Logrones
+Sun Jan 15 1995,Celta,0-2,?,Betis
+Sun Jan 15 1995,Oviedo,1-1,?,Ath Bilbao
+Sun Jan 15 1995,Sevilla,2-1,?,Zaragoza
+Sun Jan 15 1995,Sociedad,2-2,?,Sp Gijon
+Sun Jan 15 1995,Tenerife,3-0,?,Santander
+Sun Jan 15 1995,Valencia,0-0,?,Espanol
+Sun Jan 15 1995,Valladolid,1-1,?,Albacete
+Sat Jan 21 1995,Logrones,0-1,?,La Coruna
+Sun Jan 22 1995,Albacete,2-2,?,Barcelona
+Sun Jan 22 1995,Ath Bilbao,1-1,?,Valladolid
+Sun Jan 22 1995,Compostela,1-1,?,Valencia
+Sun Jan 22 1995,Espanol,0-0,?,Tenerife
+Sun Jan 22 1995,Real Madrid,4-0,?,Celta
+Sun Jan 22 1995,Santander,0-0,?,Sociedad
+Sun Jan 22 1995,Sevilla,0-1,?,Betis
+Sun Jan 22 1995,Sp Gijon,1-1,?,Oviedo
+Sun Jan 22 1995,Zaragoza,3-1,?,Ath Madrid
+Sat Jan 28 1995,Barcelona,1-0,?,Ath Bilbao
+Sun Jan 29 1995,Ath Madrid,2-2,?,Sevilla
+Sun Jan 29 1995,Betis,0-0,?,Real Madrid
+Sun Jan 29 1995,Celta,0-1,?,Logrones
+Sun Jan 29 1995,La Coruna,2-1,?,Albacete
+Sun Jan 29 1995,Oviedo,3-1,?,Santander
+Sun Jan 29 1995,Sociedad,2-0,?,Espanol
+Sun Jan 29 1995,Tenerife,2-0,?,Compostela
+Sun Jan 29 1995,Valencia,3-0,?,Zaragoza
+Sun Jan 29 1995,Valladolid,2-0,?,Sp Gijon
+Sat Feb 4 1995,La Coruna,0-0,?,Ath Bilbao
+Sun Feb 5 1995,Barcelona,3-1,?,Sp Gijon
+Sun Feb 5 1995,Betis,1-0,?,Logrones
+Sun Feb 5 1995,Celta,0-0,?,Albacete
+Sun Feb 5 1995,Oviedo,3-0,?,Espanol
+Sun Feb 5 1995,Real Madrid,2-0,?,Sevilla
+Sun Feb 5 1995,Sociedad,1-1,?,Compostela
+Sun Feb 5 1995,Tenerife,2-0,?,Zaragoza
+Sun Feb 5 1995,Valencia,0-0,?,Ath Madrid
+Sun Feb 5 1995,Valladolid,1-1,?,Santander
+Sat Feb 11 1995,Ath Madrid,3-1,?,Tenerife
+Sat Feb 11 1995,Santander,5-0,?,Barcelona
+Sun Feb 12 1995,Albacete,3-1,?,Betis
+Sun Feb 12 1995,Ath Bilbao,1-1,?,Celta
+Sun Feb 12 1995,Compostela,1-1,?,Oviedo
+Sun Feb 12 1995,Espanol,3-0,?,Valladolid
+Sun Feb 12 1995,Logrones,1-4,?,Real Madrid
+Sun Feb 12 1995,Sevilla,1-1,?,Valencia
+Sun Feb 12 1995,Sp Gijon,3-1,?,La Coruna
+Sun Feb 12 1995,Zaragoza,1-1,?,Sociedad
+Sat Feb 18 1995,Barcelona,3-0,?,Espanol
+Sun Feb 19 1995,Betis,0-0,?,Ath Bilbao
+Sun Feb 19 1995,Celta,2-0,?,Sp Gijon
+Sun Feb 19 1995,La Coruna,3-0,?,Santander
+Sun Feb 19 1995,Logrones,0-2,?,Sevilla
+Sun Feb 19 1995,Oviedo,2-1,?,Zaragoza
+Sun Feb 19 1995,Real Madrid,0-0,?,Albacete
+Sun Feb 19 1995,Sociedad,3-1,?,Ath Madrid
+Sun Feb 19 1995,Tenerife,1-2,?,Valencia
+Sun Feb 19 1995,Valladolid,2-0,?,Compostela
+Sat Feb 25 1995,Compostela,1-2,?,Barcelona
+Sat Feb 25 1995,Sp Gijon,1-1,?,Betis
+Sat Feb 25 1995,Zaragoza,1-0,?,Valladolid
+Sun Feb 26 1995,Albacete,0-0,?,Logrones
+Sun Feb 26 1995,Ath Bilbao,1-1,?,Real Madrid
+Sun Feb 26 1995,Ath Madrid,3-3,?,Oviedo
+Sun Feb 26 1995,Espanol,1-0,?,La Coruna
+Sun Feb 26 1995,Santander,2-0,?,Celta
+Sun Feb 26 1995,Sevilla,1-2,?,Tenerife
+Sun Feb 26 1995,Valencia,4-2,?,Sociedad
+Sat Mar 4 1995,Oviedo,1-0,?,Valencia
+Sun Mar 5 1995,Albacete,1-1,?,Sevilla
+Sun Mar 5 1995,Barcelona,3-0,?,Zaragoza
+Sun Mar 5 1995,Betis,2-0,?,Santander
+Sun Mar 5 1995,Celta,1-2,?,Espanol
+Sun Mar 5 1995,La Coruna,1-0,?,Compostela
+Sun Mar 5 1995,Logrones,0-1,?,Ath Bilbao
+Sun Mar 5 1995,Real Madrid,4-0,?,Sp Gijon
+Sun Mar 5 1995,Sociedad,5-2,?,Tenerife
+Sun Mar 5 1995,Valladolid,0-1,?,Ath Madrid
+Sat Mar 11 1995,Ath Madrid,2-0,?,Barcelona
+Sun Mar 12 1995,Ath Bilbao,1-2,?,Albacete
+Sun Mar 12 1995,Compostela,2-0,?,Celta
+Sun Mar 12 1995,Espanol,0-0,?,Betis
+Sun Mar 12 1995,Santander,3-1,?,Real Madrid
+Sun Mar 12 1995,Sevilla,2-0,?,Sociedad
+Sun Mar 12 1995,Sp Gijon,2-2,?,Logrones
+Sun Mar 12 1995,Tenerife,1-1,?,Oviedo
+Sun Mar 12 1995,Valencia,3-0,?,Valladolid
+Sun Mar 12 1995,Zaragoza,1-0,?,La Coruna
+Sat Mar 18 1995,Ath Bilbao,0-2,?,Sevilla
+Sat Mar 18 1995,La Coruna,0-1,?,Ath Madrid
+Sun Mar 19 1995,Albacete,1-2,?,Sp Gijon
+Sun Mar 19 1995,Barcelona,0-0,?,Valencia
+Sun Mar 19 1995,Betis,1-0,?,Compostela
+Sun Mar 19 1995,Celta,0-0,?,Zaragoza
+Sun Mar 19 1995,Logrones,0-1,?,Santander
+Sun Mar 19 1995,Oviedo,3-0,?,Sociedad
+Sun Mar 19 1995,Real Madrid,1-0,?,Espanol
+Sun Mar 19 1995,Valladolid,1-4,?,Tenerife
+Sat Apr 1 1995,Valencia,1-2,?,La Coruna
+Sat Apr 1 1995,Zaragoza,3-0,?,Betis
+Sun Apr 2 1995,Ath Madrid,0-2,?,Celta
+Sun Apr 2 1995,Compostela,1-1,?,Real Madrid
+Sun Apr 2 1995,Espanol,2-0,?,Logrones
+Sun Apr 2 1995,Santander,2-1,?,Albacete
+Sun Apr 2 1995,Sevilla,1-1,?,Oviedo
+Sun Apr 2 1995,Sociedad,3-0,?,Valladolid
+Sun Apr 2 1995,Sp Gijon,1-1,?,Ath Bilbao
+Sun Apr 2 1995,Tenerife,2-1,?,Barcelona
+Sat Apr 8 1995,Betis,2-0,?,Ath Madrid
+Sun Apr 9 1995,Albacete,1-1,?,Espanol
+Sun Apr 9 1995,Ath Bilbao,2-0,?,Santander
+Sun Apr 9 1995,Barcelona,1-1,?,Sociedad
+Sun Apr 9 1995,Celta,0-0,?,Valencia
+Sun Apr 9 1995,La Coruna,4-1,?,Tenerife
+Sun Apr 9 1995,Logrones,0-4,?,Compostela
+Sun Apr 9 1995,Real Madrid,3-0,?,Zaragoza
+Sun Apr 9 1995,Sp Gijon,3-0,?,Sevilla
+Sun Apr 9 1995,Valladolid,2-1,?,Oviedo
+Sat Apr 15 1995,Ath Madrid,0-2,?,Real Madrid
+Sat Apr 15 1995,Zaragoza,3-0,?,Logrones
+Sun Apr 16 1995,Compostela,0-0,?,Albacete
+Sun Apr 16 1995,Espanol,3-1,?,Ath Bilbao
+Sun Apr 16 1995,Oviedo,0-0,?,Barcelona
+Sun Apr 16 1995,Santander,0-0,?,Sp Gijon
+Sun Apr 16 1995,Sevilla,1-0,?,Valladolid
+Sun Apr 16 1995,Sociedad,1-3,?,La Coruna
+Sun Apr 16 1995,Tenerife,3-0,?,Celta
+Sun Apr 16 1995,Valencia,2-1,?,Betis
+Sat Apr 22 1995,Real Madrid,3-1,?,Valencia
+Sun Apr 23 1995,Albacete,0-3,?,Zaragoza
+Sun Apr 23 1995,Ath Bilbao,1-0,?,Compostela
+Sun Apr 23 1995,Barcelona,4-1,?,Valladolid
+Sun Apr 23 1995,Betis,3-0,?,Tenerife
+Sun Apr 23 1995,Celta,2-1,?,Sociedad
+Sun Apr 23 1995,La Coruna,2-2,?,Oviedo
+Sun Apr 23 1995,Logrones,0-0,?,Ath Madrid
+Sun Apr 23 1995,Santander,0-3,?,Sevilla
+Sun Apr 23 1995,Sp Gijon,0-0,?,Espanol
+Sun Apr 30 1995,Ath Madrid,4-0,?,Albacete
+Sun Apr 30 1995,Compostela,3-2,?,Sp Gijon
+Sun Apr 30 1995,Espanol,2-0,?,Santander
+Sun Apr 30 1995,Oviedo,2-2,?,Celta
+Sun Apr 30 1995,Sevilla,4-2,?,Barcelona
+Sun Apr 30 1995,Sociedad,1-1,?,Betis
+Sun Apr 30 1995,Tenerife,0-1,?,Real Madrid
+Sun Apr 30 1995,Valencia,3-0,?,Logrones
+Sun Apr 30 1995,Valladolid,0-0,?,La Coruna
+Sun Apr 30 1995,Zaragoza,1-4,?,Ath Bilbao
+Sat May 6 1995,La Coruna,1-0,?,Barcelona
+Sat May 6 1995,Sp Gijon,1-3,?,Zaragoza
+Sun May 7 1995,Albacete,1-0,?,Valencia
+Sun May 7 1995,Ath Bilbao,3-1,?,Ath Madrid
+Sun May 7 1995,Betis,0-0,?,Oviedo
+Sun May 7 1995,Celta,1-0,?,Valladolid
+Sun May 7 1995,Espanol,2-2,?,Sevilla
+Sun May 7 1995,Logrones,4-2,?,Tenerife
+Sun May 7 1995,Real Madrid,0-0,?,Sociedad
+Sun May 7 1995,Santander,2-2,?,Compostela
+Sat May 13 1995,Sevilla,0-0,?,La Coruna
+Sat May 13 1995,Valencia,3-1,?,Ath Bilbao
+Sun May 14 1995,Ath Madrid,3-2,?,Sp Gijon
+Sun May 14 1995,Barcelona,1-1,?,Celta
+Sun May 14 1995,Compostela,1-1,?,Espanol
+Sun May 14 1995,Oviedo,3-2,?,Real Madrid
+Sun May 14 1995,Sociedad,6-0,?,Logrones
+Sun May 14 1995,Tenerife,2-2,?,Albacete
+Sun May 14 1995,Valladolid,0-2,?,Betis
+Sun May 14 1995,Zaragoza,1-1,?,Santander
+Sat May 20 1995,Espanol,2-0,?,Zaragoza
+Sun May 21 1995,Albacete,0-1,?,Sociedad
+Sun May 21 1995,Ath Bilbao,3-2,?,Tenerife
+Sun May 21 1995,Betis,1-1,?,Barcelona
+Sun May 21 1995,Celta,0-2,?,La Coruna
+Sun May 21 1995,Compostela,0-4,?,Sevilla
+Sun May 21 1995,Logrones,0-2,?,Oviedo
+Sun May 21 1995,Real Madrid,1-0,?,Valladolid
+Sun May 21 1995,Santander,0-0,?,Ath Madrid
+Sun May 21 1995,Sp Gijon,1-0,?,Valencia
+Sat May 27 1995,Barcelona,1-0,?,Real Madrid
+Sat May 27 1995,La Coruna,2-0,?,Betis
+Sat May 27 1995,Oviedo,1-3,?,Albacete
+Sat May 27 1995,Tenerife,3-0,?,Sp Gijon
+Sat May 27 1995,Valencia,1-1,?,Santander
+Sun May 28 1995,Ath Madrid,3-1,?,Espanol
+Sun May 28 1995,Sevilla,2-3,?,Celta
+Sun May 28 1995,Sociedad,5-0,?,Ath Bilbao
+Sun May 28 1995,Valladolid,2-1,?,Logrones
+Sun May 28 1995,Zaragoza,5-3,?,Compostela
+Sat Jun 3 1995,Espanol,5-0,?,Valencia
+Sat Jun 3 1995,Real Madrid,2-1,?,La Coruna
+Sun Jun 4 1995,Albacete,1-0,?,Valladolid
+Sun Jun 4 1995,Ath Bilbao,1-0,?,Oviedo
+Sun Jun 4 1995,Betis,1-1,?,Celta
+Sun Jun 4 1995,Compostela,2-1,?,Ath Madrid
+Sun Jun 4 1995,Logrones,1-4,?,Barcelona
+Sun Jun 4 1995,Santander,2-1,?,Tenerife
+Sun Jun 4 1995,Sp Gijon,1-2,?,Sociedad
+Sun Jun 4 1995,Zaragoza,0-1,?,Sevilla
+Sat Jun 10 1995,Barcelona,0-1,?,Albacete
+Sat Jun 10 1995,Celta,0-2,?,Real Madrid
+Sat Jun 10 1995,La Coruna,5-0,?,Logrones
+Sat Jun 10 1995,Valencia,4-1,?,Compostela
+Sun Jun 11 1995,Ath Madrid,2-0,?,Zaragoza
+Sun Jun 11 1995,Betis,2-1,?,Sevilla
+Sun Jun 11 1995,Oviedo,1-0,?,Sp Gijon
+Sun Jun 11 1995,Sociedad,0-1,?,Santander
+Sun Jun 11 1995,Tenerife,1-1,?,Espanol
+Sun Jun 11 1995,Valladolid,0-1,?,Ath Bilbao
+Sat Jun 17 1995,Sp Gijon,1-3,?,Valladolid
+Sun Jun 18 1995,Albacete,2-8,?,La Coruna
+Sun Jun 18 1995,Ath Bilbao,0-2,?,Barcelona
+Sun Jun 18 1995,Compostela,2-0,?,Tenerife
+Sun Jun 18 1995,Espanol,0-0,?,Sociedad
+Sun Jun 18 1995,Logrones,0-3,?,Celta
+Sun Jun 18 1995,Real Madrid,0-2,?,Betis
+Sun Jun 18 1995,Santander,2-0,?,Oviedo
+Sun Jun 18 1995,Sevilla,2-2,?,Ath Madrid
+Sun Jun 18 1995,Zaragoza,2-2,?,Valencia

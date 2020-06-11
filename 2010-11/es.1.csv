@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 28 2010,Hercules,0-1,0-0,Ath Bilbao
+Sat Aug 28 2010,Levante,1-4,1-2,Sevilla
+Sat Aug 28 2010,Malaga,1-3,1-1,Valencia
+Sun Aug 29 2010,Espanol,3-1,1-0,Getafe
+Sun Aug 29 2010,La Coruna,0-0,0-0,Zaragoza
+Sun Aug 29 2010,Mallorca,0-0,0-0,Real Madrid
+Sun Aug 29 2010,Osasuna,0-0,0-0,Almeria
+Sun Aug 29 2010,Santander,0-3,0-2,Barcelona
+Sun Aug 29 2010,Sociedad,1-0,0-0,Villarreal
+Mon Aug 30 2010,Ath Madrid,4-0,2-0,Sp Gijon
+Sat Sep 11 2010,Ath Bilbao,1-2,0-1,Ath Madrid
+Sat Sep 11 2010,Barcelona,0-2,0-1,Hercules
+Sat Sep 11 2010,Real Madrid,1-0,0-0,Osasuna
+Sat Sep 11 2010,Valencia,1-0,1-0,Santander
+Sun Sep 12 2010,Getafe,4-1,2-1,Levante
+Sun Sep 12 2010,Sevilla,0-0,0-0,La Coruna
+Sun Sep 12 2010,Sp Gijon,2-0,0-0,Mallorca
+Sun Sep 12 2010,Villarreal,4-0,2-0,Espanol
+Sun Sep 12 2010,Zaragoza,3-5,1-5,Malaga
+Mon Sep 13 2010,Almeria,2-2,1-2,Sociedad
+Sat Sep 18 2010,Espanol,1-0,0-0,Almeria
+Sat Sep 18 2010,Mallorca,2-0,1-0,Osasuna
+Sat Sep 18 2010,Sociedad,1-2,0-0,Real Madrid
+Sat Sep 18 2010,Sp Gijon,2-2,2-1,Ath Bilbao
+Sun Sep 19 2010,Ath Madrid,1-2,1-2,Barcelona
+Sun Sep 19 2010,Hercules,1-2,1-2,Valencia
+Sun Sep 19 2010,Levante,1-2,0-2,Villarreal
+Sun Sep 19 2010,Malaga,1-2,1-2,Sevilla
+Sun Sep 19 2010,Santander,2-0,0-0,Zaragoza
+Mon Sep 20 2010,La Coruna,2-2,0-1,Getafe
+Tue Sep 21 2010,Ath Bilbao,3-0,1-0,Mallorca
+Tue Sep 21 2010,Osasuna,3-1,2-1,Sociedad
+Tue Sep 21 2010,Real Madrid,3-0,1-0,Espanol
+Wed Sep 22 2010,Almeria,0-1,0-1,Levante
+Wed Sep 22 2010,Barcelona,1-0,0-0,Sp Gijon
+Wed Sep 22 2010,Valencia,1-1,0-1,Ath Madrid
+Wed Sep 22 2010,Zaragoza,0-0,0-0,Hercules
+Thu Sep 23 2010,Getafe,0-2,0-0,Malaga
+Thu Sep 23 2010,Sevilla,1-1,1-0,Santander
+Thu Sep 23 2010,Villarreal,1-0,1-0,La Coruna
+Sat Sep 25 2010,Ath Bilbao,1-3,0-0,Barcelona
+Sat Sep 25 2010,Levante,0-0,0-0,Real Madrid
+Sat Sep 25 2010,Sp Gijon,0-2,0-2,Valencia
+Sun Sep 26 2010,Ath Madrid,1-0,1-0,Zaragoza
+Sun Sep 26 2010,Espanol,1-0,1-0,Osasuna
+Sun Sep 26 2010,Hercules,2-0,2-0,Sevilla
+Sun Sep 26 2010,La Coruna,0-2,0-2,Almeria
+Sun Sep 26 2010,Mallorca,2-0,1-0,Sociedad
+Sun Sep 26 2010,Santander,0-1,0-1,Getafe
+Mon Sep 27 2010,Malaga,2-3,2-3,Villarreal
+Sat Oct 2 2010,Sociedad,1-0,0-0,Espanol
+Sat Oct 2 2010,Valencia,2-1,1-0,Ath Bilbao
+Sat Oct 2 2010,Zaragoza,2-2,0-1,Sp Gijon
+Sun Oct 3 2010,Almeria,1-1,0-0,Malaga
+Sun Oct 3 2010,Barcelona,1-1,1-1,Mallorca
+Sun Oct 3 2010,Getafe,3-0,2-0,Hercules
+Sun Oct 3 2010,Osasuna,1-1,0-0,Levante
+Sun Oct 3 2010,Real Madrid,6-1,3-0,La Coruna
+Sun Oct 3 2010,Sevilla,3-1,2-0,Ath Madrid
+Sun Oct 3 2010,Villarreal,2-0,2-0,Santander
+Sat Oct 16 2010,Ath Madrid,2-0,1-0,Getafe
+Sat Oct 16 2010,Barcelona,2-1,0-1,Valencia
+Sat Oct 16 2010,Malaga,1-4,0-2,Real Madrid
+Sun Oct 17 2010,Ath Bilbao,2-1,2-0,Zaragoza
+Sun Oct 17 2010,La Coruna,0-0,0-0,Osasuna
+Sun Oct 17 2010,Levante,2-1,0-0,Sociedad
+Sun Oct 17 2010,Mallorca,0-1,0-1,Espanol
+Sun Oct 17 2010,Santander,1-0,1-0,Almeria
+Sun Oct 17 2010,Sp Gijon,2-0,1-0,Sevilla
+Mon Oct 18 2010,Hercules,2-2,2-1,Villarreal
+Sat Oct 23 2010,Real Madrid,6-1,3-0,Santander
+Sat Oct 23 2010,Valencia,1-2,1-2,Mallorca
+Sat Oct 23 2010,Zaragoza,0-2,0-1,Barcelona
+Sun Oct 24 2010,Almeria,1-1,0-1,Hercules
+Sun Oct 24 2010,Espanol,2-1,1-0,Levante
+Sun Oct 24 2010,Getafe,3-0,1-0,Sp Gijon
+Sun Oct 24 2010,Osasuna,3-0,2-0,Malaga
+Sun Oct 24 2010,Sevilla,4-3,2-0,Ath Bilbao
+Sun Oct 24 2010,Villarreal,2-0,1-0,Ath Madrid
+Mon Oct 25 2010,Sociedad,3-0,1-0,La Coruna
+Sat Oct 30 2010,Barcelona,5-0,2-0,Sevilla
+Sat Oct 30 2010,Hercules,1-3,1-0,Real Madrid
+Sat Oct 30 2010,Valencia,1-1,1-1,Zaragoza
+Sun Oct 31 2010,Ath Bilbao,3-0,2-0,Getafe
+Sun Oct 31 2010,Ath Madrid,1-1,1-1,Almeria
+Sun Oct 31 2010,La Coruna,3-0,1-0,Espanol
+Sun Oct 31 2010,Malaga,1-2,0-1,Sociedad
+Sun Oct 31 2010,Santander,4-1,2-0,Osasuna
+Sun Oct 31 2010,Sp Gijon,1-1,0-0,Villarreal
+Mon Nov 1 2010,Mallorca,2-1,0-1,Levante
+Sat Nov 6 2010,Espanol,1-0,1-0,Malaga
+Sat Nov 6 2010,Sociedad,1-0,1-0,Santander
+Sun Nov 7 2010,Almeria,1-1,1-0,Sp Gijon
+Sun Nov 7 2010,Getafe,1-3,0-2,Barcelona
+Sun Nov 7 2010,Levante,1-2,0-1,La Coruna
+Sun Nov 7 2010,Osasuna,3-0,1-0,Hercules
+Sun Nov 7 2010,Real Madrid,2-0,2-0,Ath Madrid
+Sun Nov 7 2010,Villarreal,4-1,2-1,Ath Bilbao
+Sun Nov 7 2010,Zaragoza,3-2,0-1,Mallorca
+Mon Nov 8 2010,Sevilla,2-0,0-0,Valencia
+Sat Nov 13 2010,Ath Bilbao,1-0,1-0,Almeria
+Sat Nov 13 2010,Ath Madrid,3-0,2-0,Osasuna
+Sat Nov 13 2010,Barcelona,3-1,1-1,Villarreal
+Sun Nov 14 2010,Hercules,2-1,0-1,Sociedad
+Sun Nov 14 2010,Malaga,1-0,0-0,Levante
+Sun Nov 14 2010,Mallorca,0-0,0-0,La Coruna
+Sun Nov 14 2010,Santander,0-0,0-0,Espanol
+Sun Nov 14 2010,Sp Gijon,0-1,0-0,Real Madrid
+Sun Nov 14 2010,Valencia,2-0,1-0,Getafe
+Sun Nov 14 2010,Zaragoza,1-2,0-1,Sevilla
+Sat Nov 20 2010,Almeria,0-8,0-5,Barcelona
+Sat Nov 20 2010,Real Madrid,5-1,2-1,Ath Bilbao
+Sat Nov 20 2010,Villarreal,1-1,0-1,Valencia
+Sun Nov 21 2010,Espanol,3-0,1-0,Hercules
+Sun Nov 21 2010,La Coruna,3-0,2-0,Malaga
+Sun Nov 21 2010,Levante,3-1,3-0,Santander
+Sun Nov 21 2010,Osasuna,1-0,0-0,Sp Gijon
+Sun Nov 21 2010,Sevilla,1-2,0-1,Mallorca
+Sun Nov 21 2010,Sociedad,2-4,1-0,Ath Madrid
+Mon Nov 22 2010,Getafe,1-1,0-1,Zaragoza
+Sat Nov 27 2010,Ath Madrid,2-3,1-1,Espanol
+Sat Nov 27 2010,Sevilla,1-3,1-0,Getafe
+Sat Nov 27 2010,Zaragoza,0-3,0-2,Villarreal
+Sun Nov 28 2010,Ath Bilbao,1-0,0-0,Osasuna
+Sun Nov 28 2010,Hercules,3-1,1-1,Levante
+Sun Nov 28 2010,Mallorca,2-0,0-0,Malaga
+Sun Nov 28 2010,Santander,1-0,0-0,La Coruna
+Sun Nov 28 2010,Sp Gijon,1-3,1-2,Sociedad
+Sun Nov 28 2010,Valencia,2-1,1-0,Almeria
+Mon Nov 29 2010,Barcelona,5-0,2-0,Real Madrid
+Sat Dec 4 2010,Levante,2-0,1-0,Ath Madrid
+Sat Dec 4 2010,Osasuna,0-3,0-1,Barcelona
+Sat Dec 4 2010,Real Madrid,2-0,0-0,Valencia
+Sun Dec 5 2010,Almeria,1-1,0-0,Zaragoza
+Sun Dec 5 2010,Espanol,1-0,0-0,Sp Gijon
+Sun Dec 5 2010,Getafe,3-0,2-0,Mallorca
+Sun Dec 5 2010,Malaga,4-1,2-1,Santander
+Sun Dec 5 2010,Sociedad,2-0,1-0,Ath Bilbao
+Sun Dec 5 2010,Villarreal,1-0,1-0,Sevilla
+Mon Dec 6 2010,La Coruna,1-0,0-0,Hercules
+Sat Dec 11 2010,Ath Madrid,2-0,2-0,La Coruna
+Sat Dec 11 2010,Getafe,1-0,0-0,Villarreal
+Sat Dec 11 2010,Sevilla,1-3,0-0,Almeria
+Sun Dec 12 2010,Ath Bilbao,2-1,0-1,Espanol
+Sun Dec 12 2010,Barcelona,5-0,2-0,Sociedad
+Sun Dec 12 2010,Hercules,4-1,0-1,Malaga
+Sun Dec 12 2010,Mallorca,0-1,0-0,Santander
+Sun Dec 12 2010,Sp Gijon,1-1,0-0,Levante
+Sun Dec 12 2010,Zaragoza,1-3,0-2,Real Madrid
+Mon Dec 13 2010,Valencia,3-3,3-1,Osasuna
+Sat Dec 18 2010,Espanol,1-5,0-2,Barcelona
+Sat Dec 18 2010,La Coruna,1-1,1-0,Sp Gijon
+Sat Dec 18 2010,Levante,1-2,1-1,Ath Bilbao
+Sat Dec 18 2010,Sociedad,1-2,1-1,Valencia
+Sat Dec 18 2010,Villarreal,3-1,2-1,Mallorca
+Sun Dec 19 2010,Almeria,2-3,2-1,Getafe
+Sun Dec 19 2010,Malaga,0-3,0-1,Ath Madrid
+Sun Dec 19 2010,Osasuna,0-0,0-0,Zaragoza
+Sun Dec 19 2010,Real Madrid,1-0,0-0,Sevilla
+Mon Dec 20 2010,Santander,0-0,0-0,Hercules
+Sun Jan 2 2011,Ath Bilbao,1-2,0-1,La Coruna
+Sun Jan 2 2011,Barcelona,2-1,0-0,Levante
+Sun Jan 2 2011,Sevilla,1-0,1-0,Osasuna
+Sun Jan 2 2011,Sp Gijon,1-2,1-1,Malaga
+Sun Jan 2 2011,Valencia,2-1,1-1,Espanol
+Mon Jan 3 2011,Ath Madrid,0-0,0-0,Santander
+Mon Jan 3 2011,Getafe,2-3,1-2,Real Madrid
+Mon Jan 3 2011,Mallorca,3-0,2-0,Hercules
+Mon Jan 3 2011,Villarreal,2-0,1-0,Almeria
+Mon Jan 3 2011,Zaragoza,2-1,1-1,Sociedad
+Sat Jan 8 2011,La Coruna,0-4,0-1,Barcelona
+Sat Jan 8 2011,Malaga,1-1,0-0,Ath Bilbao
+Sat Jan 8 2011,Sociedad,2-3,2-1,Sevilla
+Sun Jan 9 2011,Espanol,4-0,3-0,Zaragoza
+Sun Jan 9 2011,Levante,0-1,0-0,Valencia
+Sun Jan 9 2011,Mallorca,4-1,2-0,Almeria
+Sun Jan 9 2011,Osasuna,0-0,0-0,Getafe
+Sun Jan 9 2011,Real Madrid,4-2,2-2,Villarreal
+Sun Jan 9 2011,Santander,1-1,1-0,Sp Gijon
+Mon Jan 10 2011,Hercules,4-1,4-0,Ath Madrid
+Sat Jan 15 2011,Ath Bilbao,2-1,2-0,Santander
+Sat Jan 15 2011,Getafe,0-4,0-2,Sociedad
+Sat Jan 15 2011,Sevilla,1-2,0-1,Espanol
+Sat Jan 15 2011,Sp Gijon,2-0,2-0,Hercules
+Sat Jan 15 2011,Villarreal,4-2,1-0,Osasuna
+Sat Jan 15 2011,Zaragoza,1-0,1-0,Levante
+Sun Jan 16 2011,Almeria,1-1,0-0,Real Madrid
+Sun Jan 16 2011,Barcelona,4-1,3-0,Malaga
+Sun Jan 16 2011,Valencia,2-0,0-0,La Coruna
+Mon Jan 17 2011,Ath Madrid,3-0,2-0,Mallorca
+Sat Jan 22 2011,Barcelona,3-0,2-0,Santander
+Sat Jan 22 2011,Sevilla,4-1,3-0,Levante
+Sat Jan 22 2011,Valencia,4-3,1-2,Malaga
+Sun Jan 23 2011,Almeria,3-2,2-1,Osasuna
+Sun Jan 23 2011,Getafe,1-3,1-0,Espanol
+Sun Jan 23 2011,Real Madrid,1-0,0-0,Mallorca
+Sun Jan 23 2011,Sp Gijon,1-0,0-0,Ath Madrid
+Sun Jan 23 2011,Villarreal,2-1,1-1,Sociedad
+Sun Jan 23 2011,Zaragoza,1-0,1-0,La Coruna
+Mon Jan 24 2011,Ath Bilbao,3-0,1-0,Hercules
+Sat Jan 29 2011,Hercules,0-3,0-1,Barcelona
+Sat Jan 29 2011,La Coruna,3-3,1-0,Sevilla
+Sat Jan 29 2011,Levante,2-0,0-0,Getafe
+Sat Jan 29 2011,Malaga,1-2,1-1,Zaragoza
+Sat Jan 29 2011,Mallorca,0-4,0-1,Sp Gijon
+Sat Jan 29 2011,Sociedad,2-0,1-0,Almeria
+Sun Jan 30 2011,Ath Madrid,0-2,0-1,Ath Bilbao
+Sun Jan 30 2011,Espanol,0-1,0-1,Villarreal
+Sun Jan 30 2011,Osasuna,1-0,0-0,Real Madrid
+Mon Jan 31 2011,Santander,1-1,1-0,Valencia
+Sat Feb 5 2011,Almeria,3-2,3-1,Espanol
+Sat Feb 5 2011,Ath Bilbao,3-0,2-0,Sp Gijon
+Sat Feb 5 2011,Barcelona,3-0,2-0,Ath Madrid
+Sat Feb 5 2011,Getafe,4-1,3-0,La Coruna
+Sat Feb 5 2011,Osasuna,1-1,1-1,Mallorca
+Sat Feb 5 2011,Villarreal,0-1,0-0,Levante
+Sat Feb 5 2011,Zaragoza,1-1,1-1,Santander
+Sun Feb 6 2011,Real Madrid,4-1,3-0,Sociedad
+Sun Feb 6 2011,Sevilla,0-0,0-0,Malaga
+Sun Feb 6 2011,Valencia,2-0,1-0,Hercules
+Sat Feb 12 2011,Ath Madrid,1-2,1-1,Valencia
+Sat Feb 12 2011,Santander,3-2,2-1,Sevilla
+Sat Feb 12 2011,Sp Gijon,1-1,1-0,Barcelona
+Sun Feb 13 2011,Espanol,0-1,0-1,Real Madrid
+Sun Feb 13 2011,Hercules,2-1,0-1,Zaragoza
+Sun Feb 13 2011,La Coruna,1-0,0-0,Villarreal
+Sun Feb 13 2011,Levante,1-0,0-0,Almeria
+Sun Feb 13 2011,Malaga,2-2,0-2,Getafe
+Sun Feb 13 2011,Sociedad,1-0,0-0,Osasuna
+Mon Feb 14 2011,Mallorca,1-0,1-0,Ath Bilbao
+Sat Feb 19 2011,Real Madrid,2-0,2-0,Levante
+Sat Feb 19 2011,Valencia,0-0,0-0,Sp Gijon
+Sat Feb 19 2011,Zaragoza,0-1,0-0,Ath Madrid
+Sun Feb 20 2011,Almeria,1-1,0-0,La Coruna
+Sun Feb 20 2011,Barcelona,2-1,1-0,Ath Bilbao
+Sun Feb 20 2011,Getafe,0-1,0-0,Santander
+Sun Feb 20 2011,Osasuna,4-0,1-0,Espanol
+Sun Feb 20 2011,Sevilla,1-0,1-0,Hercules
+Sun Feb 20 2011,Villarreal,1-1,1-0,Malaga
+Mon Feb 21 2011,Sociedad,1-0,0-0,Mallorca
+Sat Feb 26 2011,Ath Madrid,2-2,0-1,Sevilla
+Sat Feb 26 2011,Espanol,4-1,1-1,Sociedad
+Sat Feb 26 2011,La Coruna,0-0,0-0,Real Madrid
+Sat Feb 26 2011,Mallorca,0-3,0-1,Barcelona
+Sat Feb 26 2011,Sp Gijon,0-0,0-0,Zaragoza
+Sun Feb 27 2011,Ath Bilbao,1-2,1-0,Valencia
+Sun Feb 27 2011,Hercules,0-0,0-0,Getafe
+Sun Feb 27 2011,Levante,2-1,1-1,Osasuna
+Sun Feb 27 2011,Santander,2-2,1-0,Villarreal
+Mon Feb 28 2011,Malaga,3-1,0-1,Almeria
+Tue Mar 1 2011,Espanol,1-2,1-0,Mallorca
+Tue Mar 1 2011,Sevilla,3-0,2-0,Sp Gijon
+Wed Mar 2 2011,Getafe,1-1,1-0,Ath Madrid
+Wed Mar 2 2011,Osasuna,0-0,0-0,La Coruna
+Wed Mar 2 2011,Sociedad,1-1,0-0,Levante
+Wed Mar 2 2011,Valencia,0-1,0-0,Barcelona
+Wed Mar 2 2011,Villarreal,1-0,1-0,Hercules
+Wed Mar 2 2011,Zaragoza,2-1,0-1,Ath Bilbao
+Thu Mar 3 2011,Almeria,1-1,0-1,Santander
+Thu Mar 3 2011,Real Madrid,7-0,3-0,Malaga
+Sat Mar 5 2011,Ath Madrid,3-1,1-1,Villarreal
+Sat Mar 5 2011,Barcelona,1-0,1-0,Zaragoza
+Sat Mar 5 2011,Mallorca,1-2,1-1,Valencia
+Sun Mar 6 2011,Ath Bilbao,2-0,0-0,Sevilla
+Sun Mar 6 2011,Hercules,1-2,0-0,Almeria
+Sun Mar 6 2011,Levante,1-0,1-0,Espanol
+Sun Mar 6 2011,Malaga,0-1,0-0,Osasuna
+Sun Mar 6 2011,Santander,1-3,0-2,Real Madrid
+Sun Mar 6 2011,Sp Gijon,2-0,2-0,Getafe
+Mon Mar 7 2011,La Coruna,2-1,1-0,Sociedad
+Sat Mar 12 2011,Almeria,2-2,0-1,Ath Madrid
+Sat Mar 12 2011,Real Madrid,2-0,1-0,Hercules
+Sat Mar 12 2011,Zaragoza,4-0,2-0,Valencia
+Sun Mar 13 2011,Espanol,2-0,0-0,La Coruna
+Sun Mar 13 2011,Levante,1-1,1-0,Mallorca
+Sun Mar 13 2011,Osasuna,3-1,2-0,Santander
+Sun Mar 13 2011,Sevilla,1-1,0-1,Barcelona
+Sun Mar 13 2011,Sociedad,0-2,0-1,Malaga
+Sun Mar 13 2011,Villarreal,1-1,1-0,Sp Gijon
+Mon Mar 14 2011,Getafe,2-2,0-0,Ath Bilbao
+Sat Mar 19 2011,Ath Madrid,1-2,0-2,Real Madrid
+Sat Mar 19 2011,Barcelona,2-1,1-0,Getafe
+Sat Mar 19 2011,Mallorca,1-0,0-0,Zaragoza
+Sun Mar 20 2011,Ath Bilbao,0-1,0-0,Villarreal
+Sun Mar 20 2011,Hercules,0-4,0-2,Osasuna
+Sun Mar 20 2011,La Coruna,0-1,0-0,Levante
+Sun Mar 20 2011,Malaga,2-0,2-0,Espanol
+Sun Mar 20 2011,Santander,2-1,1-0,Sociedad
+Sun Mar 20 2011,Sp Gijon,1-0,1-0,Almeria
+Sun Mar 20 2011,Valencia,0-1,0-0,Sevilla
+Sat Apr 2 2011,Getafe,2-4,1-0,Valencia
+Sat Apr 2 2011,Real Madrid,0-1,0-0,Sp Gijon
+Sat Apr 2 2011,Villarreal,0-1,0-0,Barcelona
+Sun Apr 3 2011,Espanol,1-2,1-0,Santander
+Sun Apr 3 2011,La Coruna,2-1,0-1,Mallorca
+Sun Apr 3 2011,Levante,3-1,2-0,Malaga
+Sun Apr 3 2011,Osasuna,2-3,1-1,Ath Madrid
+Sun Apr 3 2011,Sevilla,3-1,1-0,Zaragoza
+Sun Apr 3 2011,Sociedad,1-3,0-0,Hercules
+Mon Apr 4 2011,Almeria,1-3,1-1,Ath Bilbao
+Sat Apr 9 2011,Ath Bilbao,0-3,0-1,Real Madrid
+Sat Apr 9 2011,Barcelona,3-1,0-0,Almeria
+Sat Apr 9 2011,Mallorca,2-2,2-1,Sevilla
+Sun Apr 10 2011,Ath Madrid,3-0,2-0,Sociedad
+Sun Apr 10 2011,Hercules,0-0,0-0,Espanol
+Sun Apr 10 2011,Malaga,0-0,0-0,La Coruna
+Sun Apr 10 2011,Santander,1-1,1-0,Levante
+Sun Apr 10 2011,Sp Gijon,1-0,0-0,Osasuna
+Sun Apr 10 2011,Valencia,5-0,1-0,Villarreal
+Mon Apr 11 2011,Zaragoza,2-1,2-1,Getafe
+Sat Apr 16 2011,Almeria,0-3,0-0,Valencia
+Sat Apr 16 2011,Getafe,1-0,0-0,Sevilla
+Sat Apr 16 2011,Malaga,3-0,2-0,Mallorca
+Sat Apr 16 2011,Real Madrid,1-1,0-0,Barcelona
+Sun Apr 17 2011,Espanol,2-2,1-1,Ath Madrid
+Sun Apr 17 2011,La Coruna,2-0,1-0,Santander
+Sun Apr 17 2011,Levante,2-1,2-0,Hercules
+Sun Apr 17 2011,Osasuna,1-2,0-0,Ath Bilbao
+Sun Apr 17 2011,Sociedad,2-1,1-0,Sp Gijon
+Mon Apr 18 2011,Villarreal,1-0,0-0,Zaragoza
+Sat Apr 23 2011,Ath Bilbao,2-1,2-1,Sociedad
+Sat Apr 23 2011,Barcelona,2-0,1-0,Osasuna
+Sat Apr 23 2011,Valencia,3-6,0-4,Real Madrid
+Sun Apr 24 2011,Ath Madrid,4-1,1-1,Levante
+Sun Apr 24 2011,Hercules,1-0,0-0,La Coruna
+Sun Apr 24 2011,Mallorca,2-0,1-0,Getafe
+Sun Apr 24 2011,Santander,1-2,0-2,Malaga
+Sun Apr 24 2011,Sevilla,3-2,2-0,Villarreal
+Sun Apr 24 2011,Sp Gijon,1-0,0-0,Espanol
+Mon Apr 25 2011,Zaragoza,1-0,0-0,Almeria
+Sat Apr 30 2011,La Coruna,0-1,0-0,Ath Madrid
+Sat Apr 30 2011,Real Madrid,2-3,0-1,Zaragoza
+Sat Apr 30 2011,Sociedad,2-1,0-1,Barcelona
+Sun May 1 2011,Almeria,0-1,0-0,Sevilla
+Sun May 1 2011,Levante,0-0,0-0,Sp Gijon
+Sun May 1 2011,Malaga,3-1,1-1,Hercules
+Sun May 1 2011,Osasuna,1-0,0-0,Valencia
+Sun May 1 2011,Santander,2-0,2-0,Mallorca
+Sun May 1 2011,Villarreal,2-1,0-1,Getafe
+Mon May 2 2011,Espanol,2-1,1-1,Ath Bilbao
+Sat May 7 2011,Ath Bilbao,3-2,1-0,Levante
+Sat May 7 2011,Ath Madrid,0-3,0-2,Malaga
+Sat May 7 2011,Getafe,2-0,1-0,Almeria
+Sat May 7 2011,Hercules,2-3,2-3,Santander
+Sat May 7 2011,Sevilla,2-6,0-3,Real Madrid
+Sat May 7 2011,Sp Gijon,2-2,1-2,La Coruna
+Sat May 7 2011,Valencia,3-0,3-0,Sociedad
+Sun May 8 2011,Barcelona,2-0,1-0,Espanol
+Sun May 8 2011,Mallorca,0-0,0-0,Villarreal
+Sun May 8 2011,Zaragoza,1-3,1-0,Osasuna
+Tue May 10 2011,La Coruna,2-1,1-1,Ath Bilbao
+Tue May 10 2011,Malaga,2-0,1-0,Sp Gijon
+Tue May 10 2011,Real Madrid,4-0,1-0,Getafe
+Tue May 10 2011,Santander,2-1,1-1,Ath Madrid
+Wed May 11 2011,Almeria,0-0,0-0,Villarreal
+Wed May 11 2011,Espanol,2-2,1-2,Valencia
+Wed May 11 2011,Hercules,2-2,2-0,Mallorca
+Wed May 11 2011,Levante,1-1,1-1,Barcelona
+Wed May 11 2011,Osasuna,3-2,0-2,Sevilla
+Wed May 11 2011,Sociedad,2-1,1-0,Zaragoza
+Sun May 15 2011,Almeria,3-1,3-1,Mallorca
+Sun May 15 2011,Ath Bilbao,1-1,0-1,Malaga
+Sun May 15 2011,Ath Madrid,2-1,1-0,Hercules
+Sun May 15 2011,Barcelona,0-0,0-0,La Coruna
+Sun May 15 2011,Getafe,2-0,0-0,Osasuna
+Sun May 15 2011,Sevilla,3-1,0-0,Sociedad
+Sun May 15 2011,Sp Gijon,2-1,1-1,Santander
+Sun May 15 2011,Valencia,0-0,0-0,Levante
+Sun May 15 2011,Villarreal,1-3,0-2,Real Madrid
+Sun May 15 2011,Zaragoza,1-0,0-0,Espanol
+Sat May 21 2011,Espanol,2-3,0-2,Sevilla
+Sat May 21 2011,Hercules,0-0,0-0,Sp Gijon
+Sat May 21 2011,La Coruna,0-2,0-1,Valencia
+Sat May 21 2011,Levante,1-2,0-1,Zaragoza
+Sat May 21 2011,Malaga,1-3,1-1,Barcelona
+Sat May 21 2011,Mallorca,3-4,0-2,Ath Madrid
+Sat May 21 2011,Osasuna,1-0,1-0,Villarreal
+Sat May 21 2011,Real Madrid,8-1,2-1,Almeria
+Sat May 21 2011,Santander,1-2,0-2,Ath Bilbao
+Sat May 21 2011,Sociedad,1-1,0-1,Getafe

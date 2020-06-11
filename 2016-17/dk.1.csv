@@ -1,0 +1,256 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 15 2016,Viborg,0-4,?,Nordsjaelland
+Fri Jul 15 2016,Odense,0-0,?,Silkeborg
+Sat Jul 16 2016,FC Copenhagen,3-0,?,Lyngby
+Sun Jul 17 2016,Sonderjyske,1-2,?,Aarhus
+Sun Jul 17 2016,Aalborg,1-1,?,Horsens
+Sun Jul 17 2016,Brondby,4-0,?,Esbjerg
+Mon Jul 18 2016,Midtjylland,2-2,?,Randers FC
+Fri Jul 22 2016,Aarhus,2-1,?,Viborg
+Sat Jul 23 2016,Esbjerg,0-4,?,FC Copenhagen
+Sun Jul 24 2016,Horsens,1-1,?,Sonderjyske
+Sun Jul 24 2016,Lyngby,2-2,?,Odense
+Sun Jul 24 2016,Silkeborg,0-2,?,Brondby
+Sun Jul 24 2016,Nordsjaelland,0-4,?,Midtjylland
+Sun Jul 24 2016,Randers FC,0-1,?,Aalborg
+Fri Jul 29 2016,Viborg,2-1,?,Esbjerg
+Sat Jul 30 2016,FC Copenhagen,4-0,?,Nordsjaelland
+Sun Jul 31 2016,Sonderjyske,0-1,?,Lyngby
+Sun Jul 31 2016,Midtjylland,3-0,?,Silkeborg
+Sun Jul 31 2016,Brondby,2-2,?,Horsens
+Sun Jul 31 2016,Aarhus,1-2,?,Randers FC
+Mon Aug 1 2016,Aalborg,2-2,?,Odense
+Fri Aug 5 2016,Randers FC,1-0,?,Horsens
+Fri Aug 5 2016,Silkeborg,0-4,?,Lyngby
+Sat Aug 6 2016,Odense,0-0,?,Viborg
+Sun Aug 7 2016,Nordsjaelland,1-2,?,Aalborg
+Sun Aug 7 2016,Sonderjyske,1-1,?,FC Copenhagen
+Sun Aug 7 2016,Midtjylland,3-3,?,Brondby
+Mon Aug 8 2016,Esbjerg,2-2,?,Aarhus
+Fri Aug 12 2016,Viborg,0-1,?,Randers FC
+Fri Aug 12 2016,Lyngby,0-0,?,Aarhus
+Sat Aug 13 2016,Horsens,3-3,?,Silkeborg
+Sat Aug 13 2016,FC Copenhagen,3-1,?,Midtjylland
+Sun Aug 14 2016,Odense,3-1,?,Nordsjaelland
+Sun Aug 14 2016,Brondby,4-0,?,Sonderjyske
+Mon Aug 15 2016,Aalborg,2-1,?,Esbjerg
+Fri Aug 19 2016,Nordsjaelland,1-1,?,Randers FC
+Fri Aug 19 2016,Horsens,2-1,?,Lyngby
+Sat Aug 20 2016,FC Copenhagen,1-1,?,Aalborg
+Sun Aug 21 2016,Silkeborg,1-5,?,Viborg
+Sun Aug 21 2016,Aarhus,0-7,?,Brondby
+Sun Aug 21 2016,Midtjylland,2-2,?,Sonderjyske
+Mon Aug 22 2016,Esbjerg,3-2,?,Odense
+Fri Aug 26 2016,Randers FC,1-0,?,Silkeborg
+Fri Aug 26 2016,Lyngby,0-1,?,Nordsjaelland
+Sun Aug 28 2016,Sonderjyske,1-1,?,Esbjerg
+Sun Aug 28 2016,Odense,0-1,?,Horsens
+Sun Aug 28 2016,Brondby,1-1,?,FC Copenhagen
+Sun Aug 28 2016,Aalborg,2-1,?,Aarhus
+Sun Aug 28 2016,Viborg,0-0,?,Midtjylland
+Fri Sep 9 2016,Randers FC,2-0,?,Lyngby
+Fri Sep 9 2016,Midtjylland,3-0,?,Esbjerg
+Sat Sep 10 2016,Viborg,2-4,?,Horsens
+Sat Sep 10 2016,FC Copenhagen,2-0,?,Odense
+Sun Sep 11 2016,Sonderjyske,2-2,?,Silkeborg
+Sun Sep 11 2016,Aalborg,0-1,?,Brondby
+Mon Sep 12 2016,Aarhus,3-1,?,Nordsjaelland
+Fri Sep 16 2016,Esbjerg,1-1,?,Randers FC
+Sat Sep 17 2016,Silkeborg,1-0,?,Aarhus
+Sun Sep 18 2016,Nordsjaelland,2-3,?,Sonderjyske
+Sun Sep 18 2016,Odense,0-1,?,Midtjylland
+Sun Sep 18 2016,Brondby,1-2,?,Viborg
+Sun Sep 18 2016,Horsens,0-2,?,FC Copenhagen
+Mon Sep 19 2016,Lyngby,1-0,?,Aalborg
+Tue Sep 20 2016,Esbjerg,0-0,?,Silkeborg
+Wed Sep 21 2016,Randers FC,2-2,?,FC Copenhagen
+Wed Sep 21 2016,Aarhus,1-1,?,Midtjylland
+Wed Sep 21 2016,Horsens,0-0,?,Nordsjaelland
+Thu Sep 22 2016,Sonderjyske,1-0,?,Odense
+Thu Sep 22 2016,Aalborg,1-0,?,Viborg
+Thu Sep 22 2016,Lyngby,1-0,?,Brondby
+Sat Sep 24 2016,FC Copenhagen,2-0,?,Aarhus
+Sun Sep 25 2016,Viborg,0-1,?,Lyngby
+Sun Sep 25 2016,Randers FC,0-4,?,Sonderjyske
+Sun Sep 25 2016,Brondby,3-0,?,Odense
+Sun Sep 25 2016,Midtjylland,5-2,?,Horsens
+Sun Sep 25 2016,Nordsjaelland,3-0,?,Esbjerg
+Mon Sep 26 2016,Silkeborg,5-3,?,Aalborg
+Fri Sep 30 2016,Odense,2-1,?,Aarhus
+Fri Sep 30 2016,Silkeborg,2-2,?,Nordsjaelland
+Sat Oct 1 2016,Horsens,1-0,?,Esbjerg
+Sun Oct 2 2016,Aalborg,0-1,?,Sonderjyske
+Sun Oct 2 2016,Lyngby,1-0,?,Midtjylland
+Sun Oct 2 2016,Viborg,0-0,?,FC Copenhagen
+Sun Oct 2 2016,Brondby,2-2,?,Randers FC
+Fri Oct 14 2016,Sonderjyske,1-0,?,Viborg
+Fri Oct 14 2016,Aarhus,1-1,?,Horsens
+Sat Oct 15 2016,FC Copenhagen,2-0,?,Silkeborg
+Sun Oct 16 2016,Randers FC,3-0,?,Odense
+Sun Oct 16 2016,Nordsjaelland,1-1,?,Brondby
+Sun Oct 16 2016,Midtjylland,2-0,?,Aalborg
+Mon Oct 17 2016,Esbjerg,2-2,?,Lyngby
+Fri Oct 21 2016,Aalborg,1-1,?,Nordsjaelland
+Fri Oct 21 2016,Viborg,1-3,?,Silkeborg
+Sat Oct 22 2016,Lyngby,2-0,?,Sonderjyske
+Sun Oct 23 2016,Horsens,1-0,?,Randers FC
+Sun Oct 23 2016,Odense,0-3,?,FC Copenhagen
+Sun Oct 23 2016,Brondby,1-0,?,Aarhus
+Mon Oct 24 2016,Esbjerg,1-3,?,Midtjylland
+Fri Oct 28 2016,Silkeborg,1-1,?,Odense
+Fri Oct 28 2016,Nordsjaelland,4-3,?,Viborg
+Sat Oct 29 2016,Lyngby,0-2,?,Randers FC
+Sun Oct 30 2016,Sonderjyske,2-0,?,Horsens
+Sun Oct 30 2016,Brondby,2-0,?,Aalborg
+Sun Oct 30 2016,Midtjylland,1-3,?,FC Copenhagen
+Mon Oct 31 2016,Aarhus,6-2,?,Esbjerg
+Fri Nov 4 2016,Esbjerg,3-0,?,Aalborg
+Fri Nov 4 2016,Aarhus,0-0,?,Silkeborg
+Sat Nov 5 2016,Randers FC,2-1,?,Nordsjaelland
+Sun Nov 6 2016,Odense,1-2,?,Lyngby
+Sun Nov 6 2016,Horsens,1-5,?,Midtjylland
+Sun Nov 6 2016,Viborg,1-2,?,Brondby
+Sun Nov 6 2016,FC Copenhagen,4-0,?,Sonderjyske
+Fri Nov 18 2016,Lyngby,0-1,?,Horsens
+Fri Nov 18 2016,Aalborg,1-2,?,FC Copenhagen
+Sat Nov 19 2016,Nordsjaelland,3-2,?,Aarhus
+Sun Nov 20 2016,Randers FC,2-1,?,Viborg
+Sun Nov 20 2016,Odense,1-0,?,Brondby
+Sun Nov 20 2016,Sonderjyske,1-0,?,Midtjylland
+Mon Nov 21 2016,Silkeborg,3-0,?,Esbjerg
+Fri Nov 25 2016,Aalborg,2-1,?,Randers FC
+Fri Nov 25 2016,Horsens,1-5,?,Aarhus
+Sat Nov 26 2016,Viborg,2-2,?,Sonderjyske
+Sat Nov 26 2016,Lyngby,0-1,?,FC Copenhagen
+Sun Nov 27 2016,Esbjerg,2-2,?,Nordsjaelland
+Sun Nov 27 2016,Brondby,3-1,?,Silkeborg
+Mon Nov 28 2016,Midtjylland,1-0,?,Odense
+Tue Nov 29 2016,Aarhus,0-1,?,Lyngby
+Tue Nov 29 2016,Sonderjyske,1-1,?,Aalborg
+Tue Nov 29 2016,FC Copenhagen,4-0,?,Viborg
+Wed Nov 30 2016,Nordsjaelland,2-1,?,Horsens
+Wed Nov 30 2016,Randers FC,0-1,?,Brondby
+Thu Dec 1 2016,Silkeborg,2-1,?,Midtjylland
+Thu Dec 1 2016,Odense,0-1,?,Esbjerg
+Sat Dec 3 2016,Horsens,1-2,?,Viborg
+Sat Dec 3 2016,FC Copenhagen,1-0,?,Randers FC
+Sun Dec 4 2016,Nordsjaelland,0-1,?,Odense
+Sun Dec 4 2016,Esbjerg,1-1,?,Brondby
+Sun Dec 4 2016,Midtjylland,0-1,?,Aarhus
+Mon Dec 5 2016,Silkeborg,1-1,?,Sonderjyske
+Mon Dec 5 2016,Aalborg,1-0,?,Lyngby
+Fri Dec 9 2016,Horsens,3-0,?,Aalborg
+Fri Dec 9 2016,Sonderjyske,0-0,?,Nordsjaelland
+Sat Dec 10 2016,Lyngby,1-1,?,Silkeborg
+Sun Dec 11 2016,Randers FC,0-2,?,Esbjerg
+Sun Dec 11 2016,Aarhus,0-1,?,FC Copenhagen
+Sun Dec 11 2016,Brondby,2-1,?,Midtjylland
+Mon Dec 12 2016,Viborg,1-1,?,Odense
+Fri Feb 17 2017,Nordsjaelland,0-1,?,Lyngby
+Fri Feb 17 2017,Esbjerg,3-0,?,Sonderjyske
+Sat Feb 18 2017,Silkeborg,1-0,?,Horsens
+Sun Feb 19 2017,FC Copenhagen,0-0,?,Brondby
+Sun Feb 19 2017,Aarhus,1-2,?,Aalborg
+Sun Feb 19 2017,Midtjylland,0-0,?,Viborg
+Mon Feb 20 2017,Odense,3-0,?,Randers FC
+Fri Feb 24 2017,Randers FC,0-2,?,Midtjylland
+Sat Feb 25 2017,Horsens,1-1,?,Odense
+Sun Feb 26 2017,Aalborg,3-0,?,Silkeborg
+Sun Feb 26 2017,Nordsjaelland,1-1,?,FC Copenhagen
+Sun Feb 26 2017,Sonderjyske,1-2,?,Brondby
+Mon Feb 27 2017,Lyngby,0-0,?,Esbjerg
+Mon Feb 27 2017,Viborg,1-1,?,Aarhus
+Fri Mar 3 2017,Esbjerg,1-3,?,Viborg
+Fri Mar 3 2017,Midtjylland,1-1,?,Lyngby
+Sat Mar 4 2017,Aarhus,1-2,?,Sonderjyske
+Sun Mar 5 2017,Silkeborg,2-0,?,Randers FC
+Sun Mar 5 2017,FC Copenhagen,5-0,?,Horsens
+Sun Mar 5 2017,Brondby,2-3,?,Nordsjaelland
+Mon Mar 6 2017,Odense,4-0,?,Aalborg
+Fri Mar 10 2017,Randers FC,1-1,?,Aarhus
+Fri Mar 10 2017,Nordsjaelland,5-1,?,Silkeborg
+Sat Mar 11 2017,Lyngby,1-0,?,Viborg
+Sun Mar 12 2017,Odense,0-1,?,Sonderjyske
+Sun Mar 12 2017,Horsens,0-2,?,Brondby
+Sun Mar 12 2017,FC Copenhagen,2-0,?,Esbjerg
+Mon Mar 13 2017,Aalborg,1-1,?,Midtjylland
+Sun Mar 19 2017,Aarhus,1-2,?,Odense
+Sun Mar 19 2017,Brondby,3-2,?,Lyngby
+Sun Mar 19 2017,Esbjerg,1-1,?,Horsens
+Sun Mar 19 2017,Midtjylland,1-2,?,Nordsjaelland
+Sun Mar 19 2017,Silkeborg,1-3,?,FC Copenhagen
+Sun Mar 19 2017,Sonderjyske,1-0,?,Randers FC
+Sun Mar 19 2017,Viborg,2-1,?,Aalborg
+Fri Mar 31 2017,Horsens,0-0,?,Odense
+Fri Mar 31 2017,Nordsjaelland,2-0,?,Lyngby
+Sat Apr 1 2017,Silkeborg,0-0,?,Aalborg
+Sun Apr 2 2017,Esbjerg,0-0,?,Randers FC
+Sun Apr 2 2017,Viborg,2-4,?,Aarhus
+Sun Apr 2 2017,Brondby,3-2,?,Midtjylland
+Mon Apr 3 2017,Sonderjyske,1-2,?,FC Copenhagen
+Fri Apr 7 2017,Odense,3-0,?,Esbjerg
+Fri Apr 7 2017,Randers FC,2-0,?,Horsens
+Sat Apr 8 2017,Aalborg,0-1,?,Viborg
+Sun Apr 9 2017,Midtjylland,3-1,?,Sonderjyske
+Sun Apr 9 2017,Lyngby,1-2,?,Brondby
+Sun Apr 9 2017,FC Copenhagen,1-1,?,Nordsjaelland
+Mon Apr 10 2017,Aarhus,1-3,?,Silkeborg
+Fri Apr 14 2017,Sonderjyske,1-4,?,Nordsjaelland
+Sat Apr 15 2017,Esbjerg,0-1,?,Horsens
+Sun Apr 16 2017,Lyngby,2-2,?,Midtjylland
+Mon Apr 17 2017,Viborg,0-0,?,Silkeborg
+Mon Apr 17 2017,Brondby,0-1,?,FC Copenhagen
+Mon Apr 17 2017,Aalborg,1-0,?,Aarhus
+Tue Apr 18 2017,Odense,1-0,?,Randers FC
+Fri Apr 21 2017,Silkeborg,1-2,?,Viborg
+Fri Apr 21 2017,Sonderjyske,1-2,?,Lyngby
+Sat Apr 22 2017,Horsens,1-3,?,Esbjerg
+Sun Apr 23 2017,Randers FC,4-0,?,Odense
+Sun Apr 23 2017,Nordsjaelland,0-1,?,Brondby
+Sun Apr 23 2017,FC Copenhagen,3-1,?,Midtjylland
+Mon Apr 24 2017,Aarhus,4-0,?,Aalborg
+Fri Apr 28 2017,Odense,2-1,?,Horsens
+Fri Apr 28 2017,Randers FC,0-0,?,Esbjerg
+Sat Apr 29 2017,Midtjylland,3-1,?,Nordsjaelland
+Sun Apr 30 2017,Viborg,1-1,?,Aalborg
+Sun Apr 30 2017,FC Copenhagen,3-0,?,Lyngby
+Sun Apr 30 2017,Brondby,1-1,?,Sonderjyske
+Mon May 1 2017,Silkeborg,0-2,?,Aarhus
+Fri May 5 2017,Nordsjaelland,1-1,?,FC Copenhagen
+Sun May 7 2017,Lyngby,2-0,?,Sonderjyske
+Sun May 7 2017,Aalborg,0-1,?,Silkeborg
+Sun May 7 2017,Aarhus,1-0,?,Viborg
+Sun May 7 2017,Midtjylland,4-2,?,Brondby
+Mon May 8 2017,Esbjerg,1-1,?,Odense
+Mon May 8 2017,Horsens,2-1,?,Randers FC
+Fri May 12 2017,Sonderjyske,5-2,?,Midtjylland
+Fri May 12 2017,Lyngby,2-1,?,Nordsjaelland
+Fri May 12 2017,Viborg,3-0,?,Horsens
+Fri May 12 2017,Aalborg,0-2,?,Randers FC
+Sat May 13 2017,Odense,3-1,?,Silkeborg
+Sun May 14 2017,Esbjerg,0-0,?,Aarhus
+Sun May 14 2017,FC Copenhagen,1-0,?,Brondby
+Tue May 16 2017,Nordsjaelland,4-1,?,Sonderjyske
+Tue May 16 2017,Silkeborg,2-1,?,Odense
+Tue May 16 2017,Horsens,1-0,?,Viborg
+Wed May 17 2017,Aarhus,3-1,?,Esbjerg
+Wed May 17 2017,Randers FC,2-1,?,Aalborg
+Wed May 17 2017,Midtjylland,3-2,?,FC Copenhagen
+Thu May 18 2017,Brondby,0-2,?,Lyngby
+Sat May 20 2017,Nordsjaelland,2-3,?,Midtjylland
+Sat May 20 2017,Odense,1-1,?,Randers FC
+Sat May 20 2017,Esbjerg,1-1,?,Horsens
+Sun May 21 2017,Lyngby,3-1,?,FC Copenhagen
+Sun May 21 2017,Sonderjyske,3-0,?,Brondby
+Mon May 22 2017,Viborg,2-2,?,Aarhus
+Sun May 28 2017,Horsens,3-2,?,Esbjerg
+Sun May 28 2017,Brondby,1-2,?,Nordsjaelland
+Sun May 28 2017,FC Copenhagen,2-0,?,Sonderjyske
+Sun May 28 2017,Midtjylland,0-3,?,Lyngby
+Sun May 28 2017,Aarhus,1-0,?,Viborg
+Mon May 29 2017,Randers FC,2-0,?,Odense
+Wed May 31 2017,Horsens,0-0,?,Vendsyssel
+Wed May 31 2017,Helsingor,1-1,?,Viborg
+Thu Jun 1 2017,Midtjylland,3-0,?,Randers FC
+Sun Jun 4 2017,Vendsyssel,1-3,?,Horsens
+Sun Jun 4 2017,Viborg,1-1,?,Helsingor

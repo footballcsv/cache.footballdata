@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 28 2000,Wasquehal,0-1,0-1,Nancy
+Sat Jul 29 2000,Ajaccio,1-0,1-0,Le Mans
+Sat Jul 29 2000,Beauvais,1-3,0-1,Montpellier
+Sat Jul 29 2000,Caen,2-2,1-2,Cannes
+Sat Jul 29 2000,Chateauroux,1-1,0-1,Martigues
+Sat Jul 29 2000,Creteil,2-1,1-0,Lorient
+Sat Jul 29 2000,Laval,2-1,2-0,Gueugnon
+Sat Jul 29 2000,Nice,0-0,0-0,Le Havre
+Sat Jul 29 2000,Nimes,3-3,3-1,Sochaux
+Sat Jul 29 2000,Niort,3-2,3-0,Angers
+Fri Aug 4 2000,Lorient,1-1,0-0,Nimes
+Sat Aug 5 2000,Angers,1-1,0-0,Ajaccio
+Sat Aug 5 2000,Cannes,6-4,2-1,Niort
+Sat Aug 5 2000,Gueugnon,1-2,0-2,Nice
+Sat Aug 5 2000,Le Havre,1-0,1-0,Beauvais
+Sat Aug 5 2000,Le Mans,2-2,1-1,Martigues
+Sat Aug 5 2000,Montpellier,2-0,0-0,Caen
+Sat Aug 5 2000,Sochaux,5-0,2-0,Chateauroux
+Sat Aug 5 2000,Wasquehal,1-1,1-1,Creteil
+Sun Aug 6 2000,Nancy,1-0,0-0,Laval
+Sat Aug 12 2000,Ajaccio,3-3,2-1,Cannes
+Sat Aug 12 2000,Beauvais,0-0,0-0,Gueugnon
+Sat Aug 12 2000,Caen,1-3,0-1,Sochaux
+Sat Aug 12 2000,Chateauroux,0-0,0-0,Le Mans
+Sat Aug 12 2000,Creteil,1-0,0-0,Nancy
+Sat Aug 12 2000,Laval,1-0,1-0,Wasquehal
+Sat Aug 12 2000,Nice,1-1,1-1,Lorient
+Sat Aug 12 2000,Nimes,0-2,0-1,Montpellier
+Sat Aug 12 2000,Niort,1-1,1-0,Le Havre
+Sun Aug 13 2000,Martigues,1-1,0-1,Angers
+Fri Aug 18 2000,Nancy,3-1,2-1,Beauvais
+Sat Aug 19 2000,Angers,1-3,0-1,Le Mans
+Sat Aug 19 2000,Cannes,0-0,0-0,Martigues
+Sat Aug 19 2000,Gueugnon,2-0,1-0,Creteil
+Sat Aug 19 2000,Laval,2-1,0-0,Caen
+Sat Aug 19 2000,Le Havre,2-0,1-0,Nimes
+Sat Aug 19 2000,Lorient,2-1,1-0,Chateauroux
+Sat Aug 19 2000,Montpellier,1-0,0-0,Niort
+Sat Aug 19 2000,Sochaux,2-0,2-0,Ajaccio
+Sat Aug 19 2000,Wasquehal,2-1,1-1,Nice
+Sat Aug 26 2000,Ajaccio,0-2,0-0,Montpellier
+Sat Aug 26 2000,Beauvais,0-0,0-0,Wasquehal
+Sat Aug 26 2000,Caen,1-2,1-1,Lorient
+Sat Aug 26 2000,Chateauroux,3-2,1-2,Angers
+Sat Aug 26 2000,Creteil,4-0,1-0,Laval
+Sat Aug 26 2000,Le Mans,2-0,2-0,Cannes
+Sat Aug 26 2000,Martigues,2-3,1-1,Le Havre
+Sat Aug 26 2000,Nice,2-1,0-1,Nancy
+Sat Aug 26 2000,Nimes,1-1,0-1,Gueugnon
+Sat Aug 26 2000,Niort,1-0,0-0,Sochaux
+Tue Aug 29 2000,Cannes,3-0,1-0,Angers
+Tue Aug 29 2000,Creteil,1-2,0-0,Chateauroux
+Tue Aug 29 2000,Gueugnon,1-1,0-1,Caen
+Tue Aug 29 2000,Laval,2-0,1-0,Nice
+Tue Aug 29 2000,Le Havre,4-0,2-0,Ajaccio
+Tue Aug 29 2000,Lorient,2-1,1-1,Beauvais
+Tue Aug 29 2000,Montpellier,2-0,1-0,Martigues
+Tue Aug 29 2000,Nancy,3-1,0-0,Nimes
+Tue Aug 29 2000,Sochaux,2-0,1-0,Le Mans
+Tue Aug 29 2000,Wasquehal,0-0,0-0,Niort
+Fri Sep 1 2000,Ajaccio,0-0,0-0,Lorient
+Fri Sep 1 2000,Angers,0-0,0-0,Le Havre
+Fri Sep 1 2000,Beauvais,0-0,0-0,Laval
+Fri Sep 1 2000,Caen,0-3,0-1,Nancy
+Fri Sep 1 2000,Chateauroux,2-0,1-0,Cannes
+Fri Sep 1 2000,Le Mans,1-1,1-1,Montpellier
+Fri Sep 1 2000,Martigues,2-0,1-0,Sochaux
+Fri Sep 1 2000,Nice,2-0,1-0,Creteil
+Fri Sep 1 2000,Nimes,1-0,0-0,Wasquehal
+Fri Sep 1 2000,Niort,2-0,1-0,Gueugnon
+Tue Sep 5 2000,Nancy,0-0,0-0,Niort
+Wed Sep 6 2000,Creteil,1-1,1-0,Beauvais
+Wed Sep 6 2000,Gueugnon,0-0,0-0,Le Mans
+Wed Sep 6 2000,Laval,3-1,1-0,Nimes
+Wed Sep 6 2000,Le Havre,0-0,0-0,Chateauroux
+Wed Sep 6 2000,Lorient,0-1,0-1,Martigues
+Wed Sep 6 2000,Montpellier,1-1,0-1,Angers
+Wed Sep 6 2000,Nice,1-0,0-0,Ajaccio
+Wed Sep 6 2000,Sochaux,1-0,0-0,Cannes
+Wed Sep 6 2000,Wasquehal,3-3,1-1,Caen
+Sat Sep 9 2000,Ajaccio,2-0,0-0,Gueugnon
+Sat Sep 9 2000,Angers,2-0,1-0,Sochaux
+Sat Sep 9 2000,Beauvais,2-0,0-0,Nice
+Sat Sep 9 2000,Caen,1-0,1-0,Le Havre
+Sat Sep 9 2000,Cannes,0-2,0-1,Nancy
+Sat Sep 9 2000,Chateauroux,0-0,0-0,Montpellier
+Sat Sep 9 2000,Le Mans,2-2,2-1,Laval
+Sat Sep 9 2000,Martigues,1-0,0-0,Wasquehal
+Sat Sep 9 2000,Nimes,2-1,1-1,Creteil
+Sat Sep 9 2000,Niort,1-2,1-0,Lorient
+Fri Sep 15 2000,Nancy,0-0,0-0,Martigues
+Sat Sep 16 2000,Beauvais,1-1,0-0,Le Mans
+Sat Sep 16 2000,Creteil,0-1,0-1,Caen
+Sat Sep 16 2000,Laval,0-1,0-0,Niort
+Sat Sep 16 2000,Le Havre,2-2,0-1,Cannes
+Sat Sep 16 2000,Lorient,3-0,1-0,Angers
+Sat Sep 16 2000,Montpellier,0-2,0-0,Sochaux
+Sat Sep 16 2000,Nice,1-2,1-1,Nimes
+Sat Sep 16 2000,Wasquehal,2-0,2-0,Ajaccio
+Sun Sep 17 2000,Gueugnon,0-1,0-0,Chateauroux
+Sat Sep 23 2000,Ajaccio,1-2,0-1,Laval
+Sat Sep 23 2000,Angers,2-0,2-0,Wasquehal
+Sat Sep 23 2000,Caen,1-0,0-0,Nice
+Sat Sep 23 2000,Cannes,1-2,0-0,Montpellier
+Sat Sep 23 2000,Chateauroux,0-0,0-0,Nancy
+Sat Sep 23 2000,Le Mans,1-1,0-1,Lorient
+Sat Sep 23 2000,Martigues,0-0,0-0,Gueugnon
+Sat Sep 23 2000,Nimes,2-1,1-1,Beauvais
+Sat Sep 23 2000,Niort,0-0,0-0,Creteil
+Sat Sep 23 2000,Sochaux,3-0,3-0,Le Havre
+Sat Sep 30 2000,Beauvais,2-1,0-0,Chateauroux
+Sat Sep 30 2000,Creteil,1-0,1-0,Ajaccio
+Sat Sep 30 2000,Laval,2-0,0-0,Martigues
+Sat Sep 30 2000,Le Havre,3-0,1-0,Montpellier
+Sat Sep 30 2000,Lorient,1-1,1-1,Sochaux
+Sat Sep 30 2000,Nancy,0-0,0-0,Angers
+Sat Sep 30 2000,Nice,0-1,0-0,Niort
+Sat Sep 30 2000,Nimes,1-2,0-0,Caen
+Sat Sep 30 2000,Wasquehal,2-1,1-0,Le Mans
+Sun Oct 1 2000,Gueugnon,2-1,?,Cannes
+Fri Oct 6 2000,Ajaccio,1-0,0-0,Nancy
+Fri Oct 6 2000,Sochaux,1-1,1-0,Wasquehal
+Sat Oct 7 2000,Angers,1-2,1-0,Gueugnon
+Sat Oct 7 2000,Caen,1-1,1-0,Beauvais
+Sat Oct 7 2000,Cannes,0-1,0-1,Laval
+Sat Oct 7 2000,Chateauroux,7-2,3-1,Nice
+Sat Oct 7 2000,Le Mans,1-1,0-1,Le Havre
+Sat Oct 7 2000,Martigues,0-0,0-0,Creteil
+Sat Oct 7 2000,Niort,1-1,0-1,Nimes
+Tue Oct 10 2000,Nancy,1-2,0-1,Sochaux
+Wed Oct 11 2000,Beauvais,1-4,1-1,Niort
+Wed Oct 11 2000,Caen,2-0,1-0,Ajaccio
+Wed Oct 11 2000,Creteil,1-0,0-0,Le Mans
+Wed Oct 11 2000,Gueugnon,2-4,1-1,Montpellier
+Wed Oct 11 2000,Laval,4-1,1-0,Angers
+Wed Oct 11 2000,Lorient,1-0,1-0,Le Havre
+Wed Oct 11 2000,Nice,2-1,2-1,Martigues
+Wed Oct 11 2000,Nimes,2-1,1-0,Chateauroux
+Wed Oct 11 2000,Wasquehal,3-0,1-0,Cannes
+Sat Oct 14 2000,Angers,1-1,1-0,Creteil
+Sat Oct 14 2000,Cannes,1-2,0-1,Lorient
+Sat Oct 14 2000,Chateauroux,0-0,0-0,Laval
+Sat Oct 14 2000,Le Havre,1-1,0-0,Wasquehal
+Sat Oct 14 2000,Le Mans,1-0,1-0,Nice
+Sat Oct 14 2000,Martigues,0-0,0-0,Beauvais
+Sat Oct 14 2000,Niort,2-0,0-0,Caen
+Sat Oct 14 2000,Sochaux,3-0,1-0,Gueugnon
+Sun Oct 15 2000,Montpellier,1-1,1-0,Nancy
+Fri Oct 20 2000,Laval,0-0,0-0,Sochaux
+Sat Oct 21 2000,Beauvais,0-0,0-0,Ajaccio
+Sat Oct 21 2000,Caen,1-1,0-1,Chateauroux
+Sat Oct 21 2000,Creteil,3-1,1-0,Cannes
+Sat Oct 21 2000,Gueugnon,1-1,0-0,Lorient
+Sat Oct 21 2000,Nancy,2-3,0-1,Le Havre
+Sat Oct 21 2000,Nice,2-0,1-0,Angers
+Sat Oct 21 2000,Nimes,2-0,0-0,Martigues
+Sat Oct 21 2000,Niort,2-0,2-0,Le Mans
+Sat Oct 21 2000,Wasquehal,1-1,0-0,Montpellier
+Wed Oct 25 2000,Montpellier,2-2,2-1,Lorient
+Fri Oct 27 2000,Le Havre,1-3,0-0,Gueugnon
+Sat Oct 28 2000,Ajaccio,0-1,0-1,Niort
+Sat Oct 28 2000,Angers,1-1,0-0,Beauvais
+Sat Oct 28 2000,Cannes,2-1,1-0,Nice
+Sat Oct 28 2000,Chateauroux,2-0,1-0,Wasquehal
+Sat Oct 28 2000,Le Mans,1-1,0-1,Nimes
+Sat Oct 28 2000,Lorient,2-0,2-0,Nancy
+Sat Oct 28 2000,Martigues,2-2,0-2,Caen
+Sat Oct 28 2000,Sochaux,3-0,2-0,Creteil
+Sun Oct 29 2000,Montpellier,1-0,1-0,Laval
+Sat Nov 4 2000,Ajaccio,0-2,0-2,Chateauroux
+Sat Nov 4 2000,Beauvais,3-1,0-0,Cannes
+Sat Nov 4 2000,Caen,0-2,0-1,Le Mans
+Sat Nov 4 2000,Creteil,1-1,1-0,Montpellier
+Sat Nov 4 2000,Nancy,4-0,2-0,Gueugnon
+Sat Nov 4 2000,Nice,2-2,0-0,Sochaux
+Sat Nov 4 2000,Nimes,3-0,1-0,Angers
+Sat Nov 4 2000,Niort,6-1,3-0,Martigues
+Sat Nov 4 2000,Wasquehal,0-1,0-1,Lorient
+Sun Nov 5 2000,Laval,1-0,1-0,Le Havre
+Fri Nov 10 2000,Le Havre,1-1,0-0,Creteil
+Sat Nov 11 2000,Angers,0-1,0-0,Caen
+Sat Nov 11 2000,Cannes,1-1,1-1,Nimes
+Sat Nov 11 2000,Chateauroux,1-0,0-0,Niort
+Sat Nov 11 2000,Gueugnon,2-1,1-1,Wasquehal
+Sat Nov 11 2000,Le Mans,0-1,0-1,Nancy
+Sat Nov 11 2000,Martigues,2-1,0-1,Ajaccio
+Sat Nov 11 2000,Montpellier,3-0,1-0,Nice
+Sat Nov 11 2000,Sochaux,2-0,1-0,Beauvais
+Sun Nov 12 2000,Lorient,2-1,2-0,Laval
+Tue Nov 14 2000,Ajaccio,1-0,0-0,Nimes
+Fri Nov 17 2000,Chateauroux,1-1,1-0,Sochaux
+Sat Nov 18 2000,Ajaccio,3-1,0-1,Angers
+Sat Nov 18 2000,Beauvais,1-1,0-1,Le Havre
+Sat Nov 18 2000,Caen,0-0,0-0,Montpellier
+Sat Nov 18 2000,Creteil,2-0,1-0,Wasquehal
+Sat Nov 18 2000,Laval,0-0,0-0,Nancy
+Sat Nov 18 2000,Martigues,3-3,2-1,Le Mans
+Sat Nov 18 2000,Nice,1-2,0-2,Gueugnon
+Sat Nov 18 2000,Nimes,1-2,0-0,Lorient
+Sat Nov 18 2000,Niort,4-1,3-1,Cannes
+Wed Nov 29 2000,Angers,1-1,0-1,Martigues
+Wed Nov 29 2000,Cannes,1-0,1-0,Ajaccio
+Wed Nov 29 2000,Gueugnon,2-0,2-0,Beauvais
+Wed Nov 29 2000,Le Havre,2-2,1-1,Niort
+Wed Nov 29 2000,Le Mans,2-1,1-0,Chateauroux
+Wed Nov 29 2000,Lorient,3-0,1-0,Nice
+Wed Nov 29 2000,Nancy,2-0,0-0,Creteil
+Wed Nov 29 2000,Sochaux,3-0,2-0,Caen
+Wed Nov 29 2000,Wasquehal,2-1,1-0,Laval
+Thu Nov 30 2000,Montpellier,3-1,2-1,Nimes
+Sat Dec 2 2000,Ajaccio,0-0,0-0,Sochaux
+Sat Dec 2 2000,Caen,0-1,0-1,Laval
+Sat Dec 2 2000,Creteil,1-2,0-1,Gueugnon
+Sat Dec 2 2000,Le Mans,2-1,1-0,Angers
+Sat Dec 2 2000,Martigues,0-1,0-0,Cannes
+Sat Dec 2 2000,Nice,1-0,0-0,Wasquehal
+Sun Dec 3 2000,Nimes,2-2,1-1,Le Havre
+Mon Dec 4 2000,Niort,1-1,1-1,Montpellier
+Fri Dec 8 2000,Sochaux,3-0,2-0,Niort
+Sat Dec 9 2000,Angers,2-1,0-0,Chateauroux
+Sat Dec 9 2000,Cannes,0-0,0-0,Le Mans
+Sat Dec 9 2000,Gueugnon,3-3,1-3,Nimes
+Sat Dec 9 2000,Laval,3-2,1-0,Creteil
+Sat Dec 9 2000,Le Havre,0-0,0-0,Martigues
+Sat Dec 9 2000,Lorient,1-1,0-0,Caen
+Sat Dec 9 2000,Montpellier,2-0,1-0,Ajaccio
+Sat Dec 9 2000,Nancy,3-1,2-1,Nice
+Sat Dec 9 2000,Wasquehal,0-2,0-0,Beauvais
+Wed Dec 13 2000,Chateauroux,2-0,1-0,Lorient
+Wed Dec 20 2000,Le Mans,0-0,0-0,Sochaux
+Thu Dec 21 2000,Ajaccio,3-0,3-0,Le Havre
+Thu Dec 21 2000,Angers,1-3,1-2,Cannes
+Thu Dec 21 2000,Beauvais,1-3,1-3,Lorient
+Thu Dec 21 2000,Caen,2-1,0-0,Gueugnon
+Thu Dec 21 2000,Chateauroux,0-1,0-1,Creteil
+Thu Dec 21 2000,Martigues,0-1,0-0,Montpellier
+Thu Dec 21 2000,Nice,3-0,1-0,Laval
+Thu Dec 21 2000,Nimes,1-2,1-0,Nancy
+Thu Dec 21 2000,Niort,1-1,1-1,Wasquehal
+Sat Jan 13 2001,Cannes,2-2,2-2,Chateauroux
+Sat Jan 13 2001,Creteil,0-1,0-0,Nice
+Sat Jan 13 2001,Gueugnon,1-0,0-0,Niort
+Sat Jan 13 2001,Laval,0-2,0-0,Beauvais
+Sat Jan 13 2001,Le Havre,2-1,2-0,Angers
+Sat Jan 13 2001,Lorient,0-1,0-0,Ajaccio
+Sat Jan 13 2001,Montpellier,0-0,0-0,Le Mans
+Sat Jan 13 2001,Sochaux,1-0,1-0,Martigues
+Sat Jan 13 2001,Wasquehal,1-1,1-1,Nimes
+Sun Jan 14 2001,Nancy,4-0,2-0,Caen
+Sat Jan 27 2001,Ajaccio,2-1,1-0,Nice
+Sat Jan 27 2001,Beauvais,1-1,0-0,Creteil
+Sat Jan 27 2001,Caen,1-2,0-2,Wasquehal
+Sat Jan 27 2001,Cannes,2-2,1-0,Sochaux
+Sat Jan 27 2001,Le Mans,2-1,1-1,Gueugnon
+Sat Jan 27 2001,Martigues,1-1,0-0,Lorient
+Sat Jan 27 2001,Nimes,1-0,0-0,Laval
+Sat Jan 27 2001,Niort,3-2,2-2,Nancy
+Sun Jan 28 2001,Angers,0-0,0-0,Montpellier
+Sat Feb 3 2001,Creteil,1-2,1-1,Nimes
+Sat Feb 3 2001,Gueugnon,0-0,0-0,Ajaccio
+Sat Feb 3 2001,Laval,2-1,0-1,Le Mans
+Sat Feb 3 2001,Le Havre,2-1,1-0,Caen
+Sat Feb 3 2001,Montpellier,0-0,0-0,Chateauroux
+Sat Feb 3 2001,Nancy,2-0,1-0,Cannes
+Sat Feb 3 2001,Nice,0-1,0-1,Beauvais
+Sat Feb 3 2001,Sochaux,2-0,0-0,Angers
+Sat Feb 3 2001,Wasquehal,2-0,1-0,Martigues
+Sun Feb 4 2001,Lorient,0-0,0-0,Niort
+Wed Feb 7 2001,Ajaccio,2-0,1-0,Wasquehal
+Wed Feb 7 2001,Angers,2-1,1-1,Lorient
+Wed Feb 7 2001,Caen,1-0,0-0,Creteil
+Wed Feb 7 2001,Cannes,1-1,1-0,Le Havre
+Wed Feb 7 2001,Le Mans,0-4,0-2,Beauvais
+Wed Feb 7 2001,Martigues,2-1,0-1,Nancy
+Wed Feb 7 2001,Nimes,2-0,1-0,Nice
+Wed Feb 7 2001,Niort,2-2,2-1,Laval
+Thu Feb 8 2001,Sochaux,1-0,1-0,Montpellier
+Fri Feb 16 2001,Le Havre,2-3,0-2,Sochaux
+Fri Feb 16 2001,Nice,2-0,0-0,Caen
+Sat Feb 17 2001,Beauvais,1-0,0-0,Nimes
+Sat Feb 17 2001,Creteil,1-1,1-1,Niort
+Sat Feb 17 2001,Gueugnon,0-1,0-1,Martigues
+Sat Feb 17 2001,Laval,0-0,0-0,Ajaccio
+Sat Feb 17 2001,Lorient,3-1,0-1,Le Mans
+Sat Feb 17 2001,Montpellier,2-0,0-0,Cannes
+Sat Feb 17 2001,Nancy,0-0,0-0,Chateauroux
+Sat Feb 17 2001,Wasquehal,3-1,1-1,Angers
+Fri Mar 2 2001,Sochaux,0-1,0-1,Lorient
+Sat Mar 3 2001,Ajaccio,0-0,0-0,Creteil
+Sat Mar 3 2001,Angers,1-2,1-1,Nancy
+Sat Mar 3 2001,Caen,2-2,1-2,Nimes
+Sat Mar 3 2001,Cannes,0-1,0-1,Gueugnon
+Sat Mar 3 2001,Chateauroux,3-0,2-0,Beauvais
+Sat Mar 3 2001,Le Mans,0-0,0-0,Wasquehal
+Sat Mar 3 2001,Martigues,1-3,1-1,Laval
+Sat Mar 3 2001,Montpellier,1-0,0-0,Le Havre
+Sat Mar 3 2001,Niort,2-2,1-0,Nice
+Fri Mar 9 2001,Beauvais,1-1,1-0,Nancy
+Fri Mar 16 2001,Lorient,2-1,2-1,Montpellier
+Fri Mar 16 2001,Nancy,2-0,1-0,Ajaccio
+Fri Mar 16 2001,Wasquehal,1-1,0-0,Sochaux
+Sat Mar 17 2001,Beauvais,0-1,0-0,Caen
+Sat Mar 17 2001,Creteil,0-0,0-0,Martigues
+Sat Mar 17 2001,Gueugnon,2-0,1-0,Angers
+Sat Mar 17 2001,Laval,2-1,0-1,Cannes
+Sat Mar 17 2001,Le Havre,3-0,0-0,Le Mans
+Sat Mar 17 2001,Nice,1-4,0-3,Chateauroux
+Sat Mar 17 2001,Nimes,2-1,0-0,Niort
+Wed Mar 21 2001,Sochaux,1-1,0-0,Nancy
+Fri Mar 23 2001,Ajaccio,1-0,0-0,Caen
+Fri Mar 23 2001,Angers,1-0,1-0,Laval
+Fri Mar 23 2001,Cannes,0-0,0-0,Wasquehal
+Fri Mar 23 2001,Chateauroux,1-1,0-1,Nimes
+Fri Mar 23 2001,Le Mans,2-1,2-1,Creteil
+Fri Mar 23 2001,Martigues,0-1,0-0,Nice
+Fri Mar 23 2001,Montpellier,5-0,1-0,Gueugnon
+Fri Mar 23 2001,Niort,1-1,1-0,Beauvais
+Tue Mar 27 2001,Creteil,1-1,1-0,Angers
+Tue Mar 27 2001,Gueugnon,1-1,1-1,Sochaux
+Tue Mar 27 2001,Laval,0-2,0-2,Chateauroux
+Tue Mar 27 2001,Lorient,4-0,3-0,Cannes
+Tue Mar 27 2001,Nancy,0-3,0-2,Montpellier
+Tue Mar 27 2001,Nice,1-1,0-0,Le Mans
+Tue Mar 27 2001,Nimes,1-0,0-0,Ajaccio
+Tue Mar 27 2001,Wasquehal,0-1,0-0,Le Havre
+Wed Mar 28 2001,Caen,1-2,1-1,Niort
+Tue Apr 3 2001,Chateauroux,3-1,3-1,Le Havre
+Sat Apr 7 2001,Ajaccio,2-0,1-0,Beauvais
+Sat Apr 7 2001,Angers,0-0,0-0,Nice
+Sat Apr 7 2001,Cannes,4-2,1-2,Creteil
+Sat Apr 7 2001,Chateauroux,0-1,0-1,Caen
+Sat Apr 7 2001,Le Havre,1-0,0-0,Nancy
+Sat Apr 7 2001,Le Mans,2-1,1-0,Niort
+Sat Apr 7 2001,Lorient,1-4,0-1,Gueugnon
+Sat Apr 7 2001,Martigues,1-0,0-0,Nimes
+Sat Apr 7 2001,Montpellier,2-1,0-0,Wasquehal
+Sun Apr 8 2001,Sochaux,2-0,1-0,Laval
+Fri Apr 13 2001,Nancy,0-1,0-1,Lorient
+Sat Apr 14 2001,Beauvais,3-1,1-1,Martigues
+Sat Apr 14 2001,Creteil,1-0,0-0,Sochaux
+Sat Apr 14 2001,Gueugnon,1-2,1-1,Le Havre
+Sat Apr 14 2001,Laval,0-0,0-0,Montpellier
+Sat Apr 14 2001,Nice,2-0,0-0,Cannes
+Sat Apr 14 2001,Nimes,3-1,1-0,Le Mans
+Sat Apr 14 2001,Niort,4-3,2-2,Ajaccio
+Sat Apr 14 2001,Wasquehal,3-1,3-1,Chateauroux
+Fri Apr 20 2001,Beauvais,1-1,1-1,Angers
+Fri Apr 20 2001,Caen,1-2,0-1,Martigues
+Fri Apr 20 2001,Chateauroux,1-1,1-0,Gueugnon
+Fri Apr 20 2001,Le Havre,1-1,1-1,Lorient
+Fri Apr 27 2001,Montpellier,1-1,0-1,Creteil
+Sat Apr 28 2001,Angers,3-0,0-0,Nimes
+Sat Apr 28 2001,Cannes,0-1,0-0,Beauvais
+Sat Apr 28 2001,Chateauroux,2-2,0-2,Ajaccio
+Sat Apr 28 2001,Gueugnon,1-1,1-1,Nancy
+Sat Apr 28 2001,Le Havre,3-1,2-1,Laval
+Sat Apr 28 2001,Le Mans,1-1,0-0,Caen
+Sat Apr 28 2001,Lorient,2-0,1-0,Wasquehal
+Sat Apr 28 2001,Martigues,1-1,0-0,Niort
+Sat Apr 28 2001,Sochaux,5-1,2-0,Nice
+Fri May 11 2001,Ajaccio,1-0,0-0,Martigues
+Fri May 11 2001,Beauvais,1-2,0-1,Sochaux
+Fri May 11 2001,Caen,4-0,1-0,Angers
+Fri May 11 2001,Creteil,2-0,0-0,Le Havre
+Fri May 11 2001,Laval,1-2,1-1,Lorient
+Fri May 11 2001,Nancy,0-0,0-0,Le Mans
+Fri May 11 2001,Nice,2-1,2-1,Montpellier
+Fri May 11 2001,Nimes,4-3,2-1,Cannes
+Fri May 11 2001,Niort,2-0,1-0,Chateauroux
+Fri May 11 2001,Wasquehal,2-1,0-1,Gueugnon
+Fri May 18 2001,Angers,2-0,1-0,Niort
+Fri May 18 2001,Cannes,2-0,0-0,Caen
+Fri May 18 2001,Gueugnon,2-0,1-0,Laval
+Fri May 18 2001,Le Havre,1-0,1-0,Nice
+Fri May 18 2001,Le Mans,1-1,0-0,Ajaccio
+Fri May 18 2001,Lorient,3-1,2-0,Creteil
+Fri May 18 2001,Martigues,0-1,0-1,Chateauroux
+Fri May 18 2001,Montpellier,0-1,0-0,Beauvais
+Fri May 18 2001,Nancy,0-2,0-0,Wasquehal
+Fri May 18 2001,Sochaux,4-1,4-0,Nimes

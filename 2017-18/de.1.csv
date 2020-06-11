@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 18 2017,Bayern Munich,3-1,2-0,Leverkusen
+Sat Aug 19 2017,Hamburg,1-0,1-0,Augsburg
+Sat Aug 19 2017,Hertha,2-0,0-0,Stuttgart
+Sat Aug 19 2017,Hoffenheim,1-0,0-0,Werder Bremen
+Sat Aug 19 2017,Mainz,0-1,0-0,Hannover
+Sat Aug 19 2017,Schalke 04,2-0,1-0,RB Leipzig
+Sat Aug 19 2017,Wolfsburg,0-3,0-2,Dortmund
+Sun Aug 20 2017,Freiburg,0-0,0-0,Ein Frankfurt
+Sun Aug 20 2017,M'gladbach,1-0,0-0,FC Koln
+Fri Aug 25 2017,FC Koln,1-3,0-2,Hamburg
+Sat Aug 26 2017,Augsburg,2-2,1-2,M'gladbach
+Sat Aug 26 2017,Dortmund,2-0,1-0,Hertha
+Sat Aug 26 2017,Ein Frankfurt,0-1,0-1,Wolfsburg
+Sat Aug 26 2017,Leverkusen,2-2,1-0,Hoffenheim
+Sat Aug 26 2017,Stuttgart,1-0,0-0,Mainz
+Sat Aug 26 2017,Werder Bremen,0-2,0-0,Bayern Munich
+Sun Aug 27 2017,Hannover,1-0,0-0,Schalke 04
+Sun Aug 27 2017,RB Leipzig,4-1,0-1,Freiburg
+Fri Sep 8 2017,Hamburg,0-2,0-0,RB Leipzig
+Sat Sep 9 2017,Augsburg,3-0,2-0,FC Koln
+Sat Sep 9 2017,Freiburg,0-0,0-0,Dortmund
+Sat Sep 9 2017,Hoffenheim,2-0,1-0,Bayern Munich
+Sat Sep 9 2017,Mainz,3-1,1-1,Leverkusen
+Sat Sep 9 2017,M'gladbach,0-1,0-1,Ein Frankfurt
+Sat Sep 9 2017,Wolfsburg,1-1,0-0,Hannover
+Sun Sep 10 2017,Hertha,1-1,1-0,Werder Bremen
+Sun Sep 10 2017,Schalke 04,3-1,1-1,Stuttgart
+Fri Sep 15 2017,Hannover,2-0,0-0,Hamburg
+Sat Sep 16 2017,Bayern Munich,4-0,2-0,Mainz
+Sat Sep 16 2017,Ein Frankfurt,1-2,0-1,Augsburg
+Sat Sep 16 2017,RB Leipzig,2-2,2-1,M'gladbach
+Sat Sep 16 2017,Stuttgart,1-0,1-0,Wolfsburg
+Sat Sep 16 2017,Werder Bremen,1-2,1-1,Schalke 04
+Sun Sep 17 2017,Dortmund,5-0,2-0,FC Koln
+Sun Sep 17 2017,Hoffenheim,1-1,1-0,Hertha
+Sun Sep 17 2017,Leverkusen,4-0,3-0,Freiburg
+Tue Sep 19 2017,Augsburg,1-0,1-0,RB Leipzig
+Tue Sep 19 2017,M'gladbach,2-0,0-0,Stuttgart
+Tue Sep 19 2017,Schalke 04,0-3,0-2,Bayern Munich
+Tue Sep 19 2017,Wolfsburg,1-1,1-0,Werder Bremen
+Wed Sep 20 2017,FC Koln,0-1,0-1,Ein Frankfurt
+Wed Sep 20 2017,Freiburg,1-1,0-0,Hannover
+Wed Sep 20 2017,Hamburg,0-3,0-1,Dortmund
+Wed Sep 20 2017,Hertha,2-1,2-0,Leverkusen
+Wed Sep 20 2017,Mainz,2-3,2-2,Hoffenheim
+Fri Sep 22 2017,Bayern Munich,2-2,2-0,Wolfsburg
+Sat Sep 23 2017,Dortmund,6-1,3-0,M'gladbach
+Sat Sep 23 2017,Hoffenheim,2-0,1-0,Schalke 04
+Sat Sep 23 2017,Mainz,1-0,0-0,Hertha
+Sat Sep 23 2017,RB Leipzig,2-1,1-0,Ein Frankfurt
+Sat Sep 23 2017,Stuttgart,0-0,0-0,Augsburg
+Sat Sep 23 2017,Werder Bremen,0-0,0-0,Freiburg
+Sun Sep 24 2017,Hannover,0-0,0-0,FC Koln
+Sun Sep 24 2017,Leverkusen,3-0,2-0,Hamburg
+Fri Sep 29 2017,Schalke 04,1-1,1-0,Leverkusen
+Sat Sep 30 2017,Augsburg,1-2,1-2,Dortmund
+Sat Sep 30 2017,Ein Frankfurt,2-1,1-0,Stuttgart
+Sat Sep 30 2017,Hamburg,0-0,0-0,Werder Bremen
+Sat Sep 30 2017,M'gladbach,2-1,0-0,Hannover
+Sat Sep 30 2017,Wolfsburg,1-1,0-0,Mainz
+Sun Oct 1 2017,FC Koln,1-2,0-1,RB Leipzig
+Sun Oct 1 2017,Freiburg,3-2,2-1,Hoffenheim
+Sun Oct 1 2017,Hertha,2-2,0-1,Bayern Munich
+Fri Oct 13 2017,Stuttgart,2-1,1-0,FC Koln
+Sat Oct 14 2017,Bayern Munich,5-0,2-0,Freiburg
+Sat Oct 14 2017,Dortmund,2-3,1-2,RB Leipzig
+Sat Oct 14 2017,Hannover,1-2,1-1,Ein Frankfurt
+Sat Oct 14 2017,Hertha,0-2,0-0,Schalke 04
+Sat Oct 14 2017,Hoffenheim,2-2,0-0,Augsburg
+Sat Oct 14 2017,Mainz,3-2,1-1,Hamburg
+Sun Oct 15 2017,Leverkusen,2-2,1-1,Wolfsburg
+Sun Oct 15 2017,Werder Bremen,0-2,0-2,M'gladbach
+Fri Oct 20 2017,Schalke 04,2-0,1-0,Mainz
+Sat Oct 21 2017,Augsburg,1-2,1-0,Hannover
+Sat Oct 21 2017,Ein Frankfurt,2-2,0-1,Dortmund
+Sat Oct 21 2017,Hamburg,0-1,0-0,Bayern Munich
+Sat Oct 21 2017,M'gladbach,1-5,1-0,Leverkusen
+Sat Oct 21 2017,RB Leipzig,1-0,1-0,Stuttgart
+Sun Oct 22 2017,FC Koln,0-0,0-0,Werder Bremen
+Sun Oct 22 2017,Freiburg,1-1,0-0,Hertha
+Sun Oct 22 2017,Wolfsburg,1-1,0-0,Hoffenheim
+Fri Oct 27 2017,Mainz,1-1,0-1,Ein Frankfurt
+Sat Oct 28 2017,Bayern Munich,2-0,2-0,RB Leipzig
+Sat Oct 28 2017,Hannover,4-2,2-1,Dortmund
+Sat Oct 28 2017,Hertha,2-1,1-0,Hamburg
+Sat Oct 28 2017,Hoffenheim,1-3,1-0,M'gladbach
+Sat Oct 28 2017,Leverkusen,2-1,0-1,FC Koln
+Sat Oct 28 2017,Schalke 04,1-1,1-0,Wolfsburg
+Sun Oct 29 2017,Stuttgart,3-0,2-0,Freiburg
+Sun Oct 29 2017,Werder Bremen,0-3,0-2,Augsburg
+Fri Nov 3 2017,Ein Frankfurt,2-1,1-1,Werder Bremen
+Sat Nov 4 2017,Augsburg,1-1,0-0,Leverkusen
+Sat Nov 4 2017,Dortmund,1-3,0-2,Bayern Munich
+Sat Nov 4 2017,Freiburg,0-1,0-0,Schalke 04
+Sat Nov 4 2017,Hamburg,3-1,1-0,Stuttgart
+Sat Nov 4 2017,M'gladbach,1-1,0-1,Mainz
+Sat Nov 4 2017,RB Leipzig,2-1,0-0,Hannover
+Sun Nov 5 2017,FC Koln,0-3,0-1,Hoffenheim
+Sun Nov 5 2017,Wolfsburg,3-3,2-1,Hertha
+Fri Nov 17 2017,Stuttgart,2-1,1-1,Dortmund
+Sat Nov 18 2017,Bayern Munich,3-0,2-0,Augsburg
+Sat Nov 18 2017,Hertha,2-4,1-3,M'gladbach
+Sat Nov 18 2017,Hoffenheim,1-1,0-1,Ein Frankfurt
+Sat Nov 18 2017,Leverkusen,2-2,1-1,RB Leipzig
+Sat Nov 18 2017,Mainz,1-0,1-0,FC Koln
+Sat Nov 18 2017,Wolfsburg,3-1,2-0,Freiburg
+Sun Nov 19 2017,Schalke 04,2-0,1-0,Hamburg
+Sun Nov 19 2017,Werder Bremen,4-0,1-0,Hannover
+Fri Nov 24 2017,Hannover,1-1,0-1,Stuttgart
+Sat Nov 25 2017,Augsburg,2-1,0-1,Wolfsburg
+Sat Nov 25 2017,Dortmund,4-4,4-0,Schalke 04
+Sat Nov 25 2017,Ein Frankfurt,0-1,0-0,Leverkusen
+Sat Nov 25 2017,Freiburg,2-1,0-0,Mainz
+Sat Nov 25 2017,M'gladbach,2-1,2-0,Bayern Munich
+Sat Nov 25 2017,RB Leipzig,2-0,1-0,Werder Bremen
+Sun Nov 26 2017,FC Koln,0-2,0-1,Hertha
+Sun Nov 26 2017,Hamburg,3-0,1-0,Hoffenheim
+Fri Dec 1 2017,Freiburg,0-0,0-0,Hamburg
+Sat Dec 2 2017,Bayern Munich,3-1,1-1,Hannover
+Sat Dec 2 2017,Hoffenheim,4-0,1-0,RB Leipzig
+Sat Dec 2 2017,Leverkusen,1-1,1-0,Dortmund
+Sat Dec 2 2017,Mainz,1-3,0-2,Augsburg
+Sat Dec 2 2017,Schalke 04,2-2,1-0,FC Koln
+Sat Dec 2 2017,Werder Bremen,1-0,1-0,Stuttgart
+Sun Dec 3 2017,Hertha,1-2,1-1,Ein Frankfurt
+Sun Dec 3 2017,Wolfsburg,3-0,2-0,M'gladbach
+Fri Dec 8 2017,Stuttgart,0-2,0-1,Leverkusen
+Sat Dec 9 2017,Dortmund,1-2,0-1,Werder Bremen
+Sat Dec 9 2017,Ein Frankfurt,0-1,0-1,Bayern Munich
+Sat Dec 9 2017,Hamburg,0-0,0-0,Wolfsburg
+Sat Dec 9 2017,M'gladbach,1-1,1-0,Schalke 04
+Sat Dec 9 2017,RB Leipzig,2-2,2-1,Mainz
+Sun Dec 10 2017,Augsburg,1-1,0-0,Hertha
+Sun Dec 10 2017,FC Koln,3-4,3-1,Freiburg
+Sun Dec 10 2017,Hannover,2-0,0-0,Hoffenheim
+Tue Dec 12 2017,Freiburg,1-0,1-0,M'gladbach
+Tue Dec 12 2017,Hamburg,1-2,1-2,Ein Frankfurt
+Tue Dec 12 2017,Mainz,0-2,0-0,Dortmund
+Tue Dec 12 2017,Wolfsburg,1-1,1-0,RB Leipzig
+Wed Dec 13 2017,Bayern Munich,1-0,0-0,FC Koln
+Wed Dec 13 2017,Hertha,3-1,2-0,Hannover
+Wed Dec 13 2017,Hoffenheim,1-0,0-0,Stuttgart
+Wed Dec 13 2017,Leverkusen,1-0,1-0,Werder Bremen
+Wed Dec 13 2017,Schalke 04,3-2,1-0,Augsburg
+Fri Dec 15 2017,M'gladbach,3-1,1-0,Hamburg
+Sat Dec 16 2017,Augsburg,3-3,1-1,Freiburg
+Sat Dec 16 2017,Dortmund,2-1,0-1,Hoffenheim
+Sat Dec 16 2017,Ein Frankfurt,2-2,1-0,Schalke 04
+Sat Dec 16 2017,FC Koln,1-0,0-0,Wolfsburg
+Sat Dec 16 2017,Stuttgart,0-1,0-0,Bayern Munich
+Sat Dec 16 2017,Werder Bremen,2-2,2-0,Mainz
+Sun Dec 17 2017,Hannover,4-4,3-2,Leverkusen
+Sun Dec 17 2017,RB Leipzig,2-3,0-2,Hertha
+Fri Jan 12 2018,Leverkusen,1-3,0-1,Bayern Munich
+Sat Jan 13 2018,Augsburg,1-0,1-0,Hamburg
+Sat Jan 13 2018,Ein Frankfurt,1-1,1-0,Freiburg
+Sat Jan 13 2018,Hannover,3-2,2-2,Mainz
+Sat Jan 13 2018,RB Leipzig,3-1,1-0,Schalke 04
+Sat Jan 13 2018,Stuttgart,1-0,0-0,Hertha
+Sat Jan 13 2018,Werder Bremen,1-1,0-1,Hoffenheim
+Sun Jan 14 2018,Dortmund,0-0,0-0,Wolfsburg
+Sun Jan 14 2018,FC Koln,2-1,1-0,M'gladbach
+Fri Jan 19 2018,Hertha,1-1,0-0,Dortmund
+Sat Jan 20 2018,Freiburg,2-1,0-0,RB Leipzig
+Sat Jan 20 2018,Hamburg,0-2,0-1,FC Koln
+Sat Jan 20 2018,Hoffenheim,1-4,0-1,Leverkusen
+Sat Jan 20 2018,Mainz,3-2,1-1,Stuttgart
+Sat Jan 20 2018,M'gladbach,2-0,1-0,Augsburg
+Sat Jan 20 2018,Wolfsburg,1-3,0-2,Ein Frankfurt
+Sun Jan 21 2018,Bayern Munich,4-2,1-1,Werder Bremen
+Sun Jan 21 2018,Schalke 04,1-1,1-0,Hannover
+Fri Jan 26 2018,Ein Frankfurt,2-0,1-0,M'gladbach
+Sat Jan 27 2018,Bayern Munich,5-2,2-2,Hoffenheim
+Sat Jan 27 2018,Dortmund,2-2,1-1,Freiburg
+Sat Jan 27 2018,FC Koln,1-1,1-0,Augsburg
+Sat Jan 27 2018,RB Leipzig,1-1,1-1,Hamburg
+Sat Jan 27 2018,Stuttgart,0-2,0-2,Schalke 04
+Sat Jan 27 2018,Werder Bremen,0-0,0-0,Hertha
+Sun Jan 28 2018,Hannover,0-1,0-0,Wolfsburg
+Sun Jan 28 2018,Leverkusen,2-0,0-0,Mainz
+Fri Feb 2 2018,FC Koln,2-3,0-1,Dortmund
+Sat Feb 3 2018,Freiburg,0-0,0-0,Leverkusen
+Sat Feb 3 2018,Hertha,1-1,0-1,Hoffenheim
+Sat Feb 3 2018,Mainz,0-2,0-2,Bayern Munich
+Sat Feb 3 2018,M'gladbach,0-1,0-0,RB Leipzig
+Sat Feb 3 2018,Schalke 04,1-2,1-0,Werder Bremen
+Sat Feb 3 2018,Wolfsburg,1-1,1-0,Stuttgart
+Sun Feb 4 2018,Augsburg,3-0,1-0,Ein Frankfurt
+Sun Feb 4 2018,Hamburg,1-1,0-1,Hannover
+Fri Feb 9 2018,RB Leipzig,2-0,1-0,Augsburg
+Sat Feb 10 2018,Bayern Munich,2-1,2-1,Schalke 04
+Sat Feb 10 2018,Dortmund,2-0,0-0,Hamburg
+Sat Feb 10 2018,Ein Frankfurt,4-2,1-0,FC Koln
+Sat Feb 10 2018,Hannover,2-1,1-0,Freiburg
+Sat Feb 10 2018,Hoffenheim,4-2,1-1,Mainz
+Sat Feb 10 2018,Leverkusen,0-2,0-1,Hertha
+Sun Feb 11 2018,Stuttgart,1-0,1-0,M'gladbach
+Sun Feb 11 2018,Werder Bremen,3-1,2-0,Wolfsburg
+Fri Feb 16 2018,Hertha,0-2,0-1,Mainz
+Sat Feb 17 2018,FC Koln,1-1,1-1,Hannover
+Sat Feb 17 2018,Freiburg,1-0,1-0,Werder Bremen
+Sat Feb 17 2018,Hamburg,1-2,0-1,Leverkusen
+Sat Feb 17 2018,Schalke 04,2-1,2-0,Hoffenheim
+Sat Feb 17 2018,Wolfsburg,1-2,1-0,Bayern Munich
+Sun Feb 18 2018,Augsburg,0-1,0-1,Stuttgart
+Sun Feb 18 2018,M'gladbach,0-1,0-1,Dortmund
+Mon Feb 19 2018,Ein Frankfurt,2-1,2-1,RB Leipzig
+Fri Feb 23 2018,Mainz,1-1,1-1,Wolfsburg
+Sat Feb 24 2018,Bayern Munich,0-0,0-0,Hertha
+Sat Feb 24 2018,Hannover,0-1,0-0,M'gladbach
+Sat Feb 24 2018,Hoffenheim,1-1,0-0,Freiburg
+Sat Feb 24 2018,Stuttgart,1-0,1-0,Ein Frankfurt
+Sat Feb 24 2018,Werder Bremen,1-0,0-0,Hamburg
+Sun Feb 25 2018,Leverkusen,0-2,0-1,Schalke 04
+Sun Feb 25 2018,RB Leipzig,1-2,1-0,FC Koln
+Mon Feb 26 2018,Dortmund,1-1,1-0,Augsburg
+Fri Mar 2 2018,M'gladbach,2-2,2-0,Werder Bremen
+Sat Mar 3 2018,Augsburg,0-2,0-1,Hoffenheim
+Sat Mar 3 2018,Ein Frankfurt,1-0,1-0,Hannover
+Sat Mar 3 2018,Hamburg,0-0,0-0,Mainz
+Sat Mar 3 2018,RB Leipzig,1-1,1-1,Dortmund
+Sat Mar 3 2018,Schalke 04,1-0,1-0,Hertha
+Sat Mar 3 2018,Wolfsburg,1-2,0-1,Leverkusen
+Sun Mar 4 2018,FC Koln,2-3,1-2,Stuttgart
+Sun Mar 4 2018,Freiburg,0-4,0-2,Bayern Munich
+Fri Mar 9 2018,Mainz,0-1,0-0,Schalke 04
+Sat Mar 10 2018,Bayern Munich,6-0,3-0,Hamburg
+Sat Mar 10 2018,Hannover,1-3,1-2,Augsburg
+Sat Mar 10 2018,Hertha,0-0,0-0,Freiburg
+Sat Mar 10 2018,Hoffenheim,3-0,1-0,Wolfsburg
+Sat Mar 10 2018,Leverkusen,2-0,1-0,M'gladbach
+Sun Mar 11 2018,Dortmund,3-2,1-0,Ein Frankfurt
+Sun Mar 11 2018,Stuttgart,0-0,0-0,RB Leipzig
+Mon Mar 12 2018,Werder Bremen,3-1,1-0,FC Koln
+Fri Mar 16 2018,Freiburg,1-2,0-1,Stuttgart
+Sat Mar 17 2018,Augsburg,1-3,0-2,Werder Bremen
+Sat Mar 17 2018,Ein Frankfurt,3-0,3-0,Mainz
+Sat Mar 17 2018,Hamburg,1-2,1-0,Hertha
+Sat Mar 17 2018,M'gladbach,3-3,1-1,Hoffenheim
+Sat Mar 17 2018,Wolfsburg,0-1,0-0,Schalke 04
+Sun Mar 18 2018,Dortmund,1-0,1-0,Hannover
+Sun Mar 18 2018,FC Koln,2-0,1-0,Leverkusen
+Sun Mar 18 2018,RB Leipzig,2-1,1-1,Bayern Munich
+Sat Mar 31 2018,Bayern Munich,6-0,5-0,Dortmund
+Sat Mar 31 2018,Hannover,2-3,0-1,RB Leipzig
+Sat Mar 31 2018,Hertha,0-0,0-0,Wolfsburg
+Sat Mar 31 2018,Hoffenheim,6-0,1-0,FC Koln
+Sat Mar 31 2018,Leverkusen,0-0,0-0,Augsburg
+Sat Mar 31 2018,Schalke 04,2-0,0-0,Freiburg
+Sat Mar 31 2018,Stuttgart,1-1,1-1,Hamburg
+Sun Apr 1 2018,Mainz,0-0,0-0,M'gladbach
+Sun Apr 1 2018,Werder Bremen,2-1,1-0,Ein Frankfurt
+Fri Apr 6 2018,Hannover,2-1,2-0,Werder Bremen
+Sat Apr 7 2018,Augsburg,1-4,1-2,Bayern Munich
+Sat Apr 7 2018,FC Koln,1-1,1-0,Mainz
+Sat Apr 7 2018,Freiburg,0-2,0-1,Wolfsburg
+Sat Apr 7 2018,Hamburg,3-2,1-1,Schalke 04
+Sat Apr 7 2018,M'gladbach,2-1,0-1,Hertha
+Sun Apr 8 2018,Dortmund,3-0,1-0,Stuttgart
+Sun Apr 8 2018,Ein Frankfurt,1-1,0-0,Hoffenheim
+Mon Apr 9 2018,RB Leipzig,1-4,1-1,Leverkusen
+Fri Apr 13 2018,Wolfsburg,0-0,0-0,Augsburg
+Sat Apr 14 2018,Bayern Munich,5-1,2-1,M'gladbach
+Sat Apr 14 2018,Hertha,2-1,0-1,FC Koln
+Sat Apr 14 2018,Hoffenheim,2-0,2-0,Hamburg
+Sat Apr 14 2018,Leverkusen,4-1,1-1,Ein Frankfurt
+Sat Apr 14 2018,Stuttgart,1-1,0-0,Hannover
+Sun Apr 15 2018,Schalke 04,2-0,0-0,Dortmund
+Sun Apr 15 2018,Werder Bremen,1-1,1-0,RB Leipzig
+Mon Apr 16 2018,Mainz,2-0,1-0,Freiburg
+Fri Apr 20 2018,M'gladbach,3-0,3-0,Wolfsburg
+Sat Apr 21 2018,Dortmund,4-0,1-0,Leverkusen
+Sat Apr 21 2018,Ein Frankfurt,0-3,0-0,Hertha
+Sat Apr 21 2018,Hamburg,1-0,0-0,Freiburg
+Sat Apr 21 2018,Hannover,0-3,0-0,Bayern Munich
+Sat Apr 21 2018,RB Leipzig,2-5,0-3,Hoffenheim
+Sat Apr 21 2018,Stuttgart,2-0,1-0,Werder Bremen
+Sun Apr 22 2018,Augsburg,2-0,1-0,Mainz
+Sun Apr 22 2018,FC Koln,2-2,1-2,Schalke 04
+Fri Apr 27 2018,Hoffenheim,3-1,1-1,Hannover
+Sat Apr 28 2018,Bayern Munich,4-1,1-0,Ein Frankfurt
+Sat Apr 28 2018,Freiburg,3-2,1-0,FC Koln
+Sat Apr 28 2018,Hertha,2-2,0-1,Augsburg
+Sat Apr 28 2018,Leverkusen,0-1,0-0,Stuttgart
+Sat Apr 28 2018,Schalke 04,1-1,1-1,M'gladbach
+Sat Apr 28 2018,Wolfsburg,1-3,0-2,Hamburg
+Sun Apr 29 2018,Mainz,3-0,1-0,RB Leipzig
+Sun Apr 29 2018,Werder Bremen,1-1,1-1,Dortmund
+Sat May 5 2018,Augsburg,1-2,1-2,Schalke 04
+Sat May 5 2018,Dortmund,1-2,1-2,Mainz
+Sat May 5 2018,Ein Frankfurt,3-0,1-0,Hamburg
+Sat May 5 2018,FC Koln,1-3,1-0,Bayern Munich
+Sat May 5 2018,Hannover,3-1,3-0,Hertha
+Sat May 5 2018,M'gladbach,3-1,1-0,Freiburg
+Sat May 5 2018,RB Leipzig,4-1,2-0,Wolfsburg
+Sat May 5 2018,Stuttgart,2-0,1-0,Hoffenheim
+Sat May 5 2018,Werder Bremen,0-0,0-0,Leverkusen
+Sat May 12 2018,Bayern Munich,1-4,1-2,Stuttgart
+Sat May 12 2018,Freiburg,2-0,0-0,Augsburg
+Sat May 12 2018,Hamburg,2-1,1-1,M'gladbach
+Sat May 12 2018,Hertha,2-6,1-3,RB Leipzig
+Sat May 12 2018,Hoffenheim,3-1,1-0,Dortmund
+Sat May 12 2018,Leverkusen,3-2,2-0,Hannover
+Sat May 12 2018,Mainz,1-2,1-1,Werder Bremen
+Sat May 12 2018,Schalke 04,1-0,1-0,Ein Frankfurt
+Sat May 12 2018,Wolfsburg,4-1,1-1,FC Koln

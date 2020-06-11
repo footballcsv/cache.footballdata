@@ -1,0 +1,280 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 23 2019,Pisa,0-0,0-0,Benevento
+Sat Aug 24 2019,Crotone,0-0,0-0,Cosenza
+Sat Aug 24 2019,Salernitana,3-1,1-0,Pescara
+Sat Aug 24 2019,Ascoli,3-1,1-0,Trapani
+Sat Aug 24 2019,Cittadella,0-3,0-0,Spezia
+Sat Aug 24 2019,Venezia,1-2,0-0,Cremonese
+Sat Aug 24 2019,Virtus Entella,1-0,1-0,Livorno
+Sun Aug 25 2019,Empoli,2-1,1-0,Juve Stabia
+Sun Aug 25 2019,Perugia,2-1,1-1,Chievo
+Mon Aug 26 2019,Pordenone,3-0,1-0,Frosinone
+Fri Aug 30 2019,Chievo,1-1,1-1,Empoli
+Sat Aug 31 2019,Benevento,4-1,1-0,Cittadella
+Sat Aug 31 2019,Spezia,1-2,1-2,Crotone
+Sat Aug 31 2019,Cosenza,0-1,0-0,Salernitana
+Sat Aug 31 2019,Cremonese,0-1,0-1,Virtus Entella
+Sat Aug 31 2019,Livorno,0-1,0-0,Perugia
+Sat Aug 31 2019,Trapani,0-1,0-1,Venezia
+Sun Sep 1 2019,Juve Stabia,0-2,0-1,Pisa
+Sun Sep 1 2019,Pescara,4-2,1-2,Pordenone
+Sun Sep 1 2019,Frosinone,2-1,0-1,Ascoli
+Fri Sep 13 2019,Pordenone,1-0,0-0,Spezia
+Sat Sep 14 2019,Ascoli,2-0,1-0,Livorno
+Sat Sep 14 2019,Cittadella,2-0,0-0,Trapani
+Sat Sep 14 2019,Perugia,0-0,0-0,Juve Stabia
+Sat Sep 14 2019,Virtus Entella,1-0,0-0,Frosinone
+Sat Sep 14 2019,Venezia,0-2,0-1,Chievo
+Sun Sep 15 2019,Cosenza,1-2,0-1,Pescara
+Sun Sep 15 2019,Crotone,0-0,0-0,Empoli
+Sun Sep 15 2019,Pisa,4-1,1-0,Cremonese
+Mon Sep 16 2019,Salernitana,0-2,0-0,Benevento
+Fri Sep 20 2019,Frosinone,1-1,0-0,Venezia
+Sat Sep 21 2019,Benevento,1-0,0-0,Cosenza
+Sat Sep 21 2019,Cremonese,2-1,2-1,Crotone
+Sat Sep 21 2019,Empoli,1-0,1-0,Cittadella
+Sat Sep 21 2019,Juve Stabia,1-5,0-0,Ascoli
+Sat Sep 21 2019,Livorno,2-1,1-0,Pordenone
+Sat Sep 21 2019,Pescara,1-1,0-1,Virtus Entella
+Sat Sep 21 2019,Spezia,2-2,2-1,Perugia
+Sat Sep 21 2019,Chievo,2-2,0-1,Pisa
+Sun Sep 22 2019,Trapani,0-1,0-0,Salernitana
+Tue Sep 24 2019,Ascoli,3-0,2-0,Spezia
+Tue Sep 24 2019,Cittadella,2-1,1-0,Pescara
+Tue Sep 24 2019,Cosenza,1-1,0-0,Livorno
+Tue Sep 24 2019,Crotone,2-0,0-0,Juve Stabia
+Tue Sep 24 2019,Perugia,3-1,2-1,Frosinone
+Tue Sep 24 2019,Pisa,2-3,1-1,Empoli
+Tue Sep 24 2019,Pordenone,1-1,1-1,Benevento
+Tue Sep 24 2019,Virtus Entella,0-2,0-1,Venezia
+Wed Sep 25 2019,Trapani,0-0,0-0,Cremonese
+Wed Sep 25 2019,Salernitana,1-1,1-1,Chievo
+Fri Sep 27 2019,Pescara,0-3,0-1,Crotone
+Sat Sep 28 2019,Frosinone,1-1,1-0,Cosenza
+Sat Sep 28 2019,Juve Stabia,0-1,0-0,Cittadella
+Sat Sep 28 2019,Venezia,1-1,1-1,Pisa
+Sat Sep 28 2019,Empoli,3-0,2-0,Perugia
+Sun Sep 29 2019,Benevento,1-1,1-0,Virtus Entella
+Sun Sep 29 2019,Chievo,1-1,0-1,Pordenone
+Sun Sep 29 2019,Spezia,2-4,1-3,Trapani
+Sun Sep 29 2019,Livorno,2-3,1-1,Salernitana
+Mon Sep 30 2019,Cremonese,1-0,1-0,Ascoli
+Fri Oct 4 2019,Perugia,1-0,1-0,Pisa
+Sat Oct 5 2019,Cosenza,1-1,1-0,Venezia
+Sat Oct 5 2019,Crotone,3-1,2-0,Virtus Entella
+Sat Oct 5 2019,Livorno,3-4,3-1,Chievo
+Sat Oct 5 2019,Pordenone,2-0,2-0,Empoli
+Sat Oct 5 2019,Spezia,0-1,0-0,Benevento
+Sat Oct 5 2019,Trapani,1-2,1-0,Juve Stabia
+Sun Oct 6 2019,Cremonese,0-2,0-1,Cittadella
+Sun Oct 6 2019,Salernitana,1-1,1-0,Frosinone
+Sun Oct 6 2019,Ascoli,0-2,0-0,Pescara
+Fri Oct 18 2019,Cittadella,1-3,1-0,Cosenza
+Sat Oct 19 2019,Juve Stabia,4-2,4-1,Pordenone
+Sat Oct 19 2019,Pescara,1-2,1-0,Spezia
+Sat Oct 19 2019,Venezia,1-0,1-0,Salernitana
+Sat Oct 19 2019,Virtus Entella,1-1,1-0,Trapani
+Sat Oct 19 2019,Benevento,1-0,1-0,Perugia
+Sun Oct 20 2019,Chievo,2-0,1-0,Ascoli
+Sun Oct 20 2019,Pisa,1-1,1-0,Crotone
+Sun Oct 20 2019,Empoli,1-1,1-0,Cremonese
+Mon Oct 21 2019,Frosinone,1-0,0-0,Livorno
+Fri Oct 25 2019,Ascoli,2-1,2-1,Virtus Entella
+Sat Oct 26 2019,Cosenza,1-1,1-1,Chievo
+Sat Oct 26 2019,Crotone,3-2,1-1,Venezia
+Sat Oct 26 2019,Pescara,4-0,0-0,Benevento
+Sat Oct 26 2019,Pordenone,0-0,0-0,Cittadella
+Sat Oct 26 2019,Salernitana,1-1,0-0,Perugia
+Sat Oct 26 2019,Spezia,2-0,1-0,Juve Stabia
+Sat Oct 26 2019,Trapani,2-2,1-1,Empoli
+Sat Oct 26 2019,Livorno,1-0,1-0,Pisa
+Sun Oct 27 2019,Cremonese,1-1,0-0,Frosinone
+Tue Oct 29 2019,Chievo,2-1,0-1,Crotone
+Tue Oct 29 2019,Cittadella,1-0,0-0,Livorno
+Tue Oct 29 2019,Empoli,1-1,0-0,Spezia
+Tue Oct 29 2019,Juve Stabia,2-1,1-1,Pescara
+Tue Oct 29 2019,Perugia,1-1,0-1,Ascoli
+Tue Oct 29 2019,Pisa,2-1,2-0,Salernitana
+Tue Oct 29 2019,Venezia,1-2,0-0,Pordenone
+Tue Oct 29 2019,Virtus Entella,1-0,0-0,Cosenza
+Wed Oct 30 2019,Benevento,2-0,0-0,Cremonese
+Wed Oct 30 2019,Frosinone,3-0,1-0,Trapani
+Fri Nov 1 2019,Spezia,0-0,0-0,Chievo
+Sat Nov 2 2019,Ascoli,1-1,0-0,Venezia
+Sat Nov 2 2019,Crotone,2-3,0-1,Perugia
+Sat Nov 2 2019,Livorno,2-1,0-0,Juve Stabia
+Sat Nov 2 2019,Pescara,3-0,1-0,Pisa
+Sat Nov 2 2019,Salernitana,2-1,0-0,Virtus Entella
+Sun Nov 3 2019,Cittadella,0-0,0-0,Frosinone
+Sun Nov 3 2019,Pordenone,2-1,1-0,Trapani
+Sun Nov 3 2019,Benevento,2-0,2-0,Empoli
+Mon Nov 4 2019,Cosenza,2-0,2-0,Cremonese
+Fri Nov 8 2019,Crotone,3-1,2-1,Ascoli
+Sat Nov 9 2019,Juve Stabia,1-1,1-0,Benevento
+Sat Nov 9 2019,Perugia,0-2,0-2,Cittadella
+Sat Nov 9 2019,Pisa,3-2,1-0,Spezia
+Sat Nov 9 2019,Venezia,1-0,1-0,Livorno
+Sat Nov 9 2019,Virtus Entella,1-1,1-1,Pordenone
+Sat Nov 9 2019,Empoli,1-2,1-2,Pescara
+Sun Nov 10 2019,Cremonese,1-0,0-0,Salernitana
+Sun Nov 10 2019,Trapani,2-2,2-2,Cosenza
+Sun Nov 10 2019,Frosinone,2-0,1-0,Chievo
+Fri Nov 22 2019,Pescara,1-1,0-0,Cremonese
+Sat Nov 23 2019,Benevento,2-0,1-0,Crotone
+Sat Nov 23 2019,Juve Stabia,2-0,1-0,Salernitana
+Sat Nov 23 2019,Livorno,1-2,0-2,Trapani
+Sat Nov 23 2019,Pordenone,3-0,0-0,Perugia
+Sat Nov 23 2019,Empoli,1-1,1-0,Venezia
+Sun Nov 24 2019,Ascoli,3-2,1-2,Cosenza
+Sun Nov 24 2019,Cittadella,1-1,0-1,Pisa
+Sun Nov 24 2019,Spezia,2-0,1-0,Frosinone
+Mon Nov 25 2019,Chievo,2-1,2-0,Virtus Entella
+Fri Nov 29 2019,Cosenza,1-1,1-0,Spezia
+Sat Nov 30 2019,Cremonese,0-0,0-0,Livorno
+Sat Nov 30 2019,Crotone,1-1,0-0,Cittadella
+Sat Nov 30 2019,Frosinone,4-0,2-0,Empoli
+Sat Nov 30 2019,Venezia,0-2,0-1,Benevento
+Sat Nov 30 2019,Salernitana,1-1,1-0,Ascoli
+Sun Dec 1 2019,Trapani,1-0,1-0,Chievo
+Sun Dec 1 2019,Virtus Entella,2-0,1-0,Juve Stabia
+Sun Dec 1 2019,Perugia,3-1,2-1,Pescara
+Mon Dec 2 2019,Pisa,2-0,2-0,Pordenone
+Fri Dec 6 2019,Benevento,5-0,2-0,Trapani
+Sat Dec 7 2019,Cittadella,4-3,3-1,Salernitana
+Sat Dec 7 2019,Empoli,2-1,0-1,Ascoli
+Sat Dec 7 2019,Pescara,2-2,1-0,Venezia
+Sat Dec 7 2019,Spezia,2-0,1-0,Livorno
+Sat Dec 7 2019,Chievo,1-0,0-0,Cremonese
+Sun Dec 8 2019,Juve Stabia,0-2,0-1,Frosinone
+Sun Dec 8 2019,Pisa,0-2,0-1,Virtus Entella
+Sun Dec 8 2019,Pordenone,1-0,1-0,Crotone
+Mon Dec 9 2019,Perugia,2-2,1-0,Cosenza
+Fri Dec 13 2019,Chievo,2-3,2-0,Juve Stabia
+Sat Dec 14 2019,Ascoli,1-0,0-0,Cittadella
+Sat Dec 14 2019,Frosinone,2-0,0-0,Pescara
+Sat Dec 14 2019,Venezia,0-0,0-0,Spezia
+Sat Dec 14 2019,Virtus Entella,2-0,2-0,Empoli
+Sat Dec 14 2019,Livorno,0-2,0-1,Benevento
+Sun Dec 15 2019,Cosenza,1-2,0-2,Pordenone
+Sun Dec 15 2019,Cremonese,2-1,1-0,Perugia
+Sun Dec 15 2019,Salernitana,3-2,0-1,Crotone
+Mon Dec 16 2019,Trapani,1-3,1-2,Pisa
+Sat Dec 21 2019,Cittadella,1-1,1-0,Chievo
+Sat Dec 21 2019,Crotone,2-1,2-1,Livorno
+Sat Dec 21 2019,Empoli,1-1,1-1,Salernitana
+Sat Dec 21 2019,Juve Stabia,2-0,1-0,Venezia
+Sat Dec 21 2019,Perugia,2-0,0-0,Virtus Entella
+Sat Dec 21 2019,Benevento,1-0,1-0,Frosinone
+Sun Dec 22 2019,Pescara,1-1,1-1,Trapani
+Sun Dec 22 2019,Pisa,1-3,0-3,Cosenza
+Sun Dec 22 2019,Pordenone,2-1,2-0,Ascoli
+Thu Dec 26 2019,Cosenza,1-0,1-0,Empoli
+Thu Dec 26 2019,Chievo,1-2,1-2,Benevento
+Thu Dec 26 2019,Cremonese,1-1,1-1,Juve Stabia
+Thu Dec 26 2019,Frosinone,1-2,1-1,Crotone
+Thu Dec 26 2019,Livorno,0-2,0-2,Pescara
+Thu Dec 26 2019,Salernitana,4-0,1-0,Pordenone
+Thu Dec 26 2019,Trapani,2-2,1-0,Perugia
+Thu Dec 26 2019,Venezia,1-2,0-2,Cittadella
+Thu Dec 26 2019,Ascoli,1-0,0-0,Pisa
+Thu Dec 26 2019,Virtus Entella,0-0,0-0,Spezia
+Sun Dec 29 2019,Pescara,0-0,0-0,Chievo
+Sun Dec 29 2019,Cittadella,1-3,0-1,Virtus Entella
+Sun Dec 29 2019,Crotone,3-0,0-0,Trapani
+Sun Dec 29 2019,Juve Stabia,1-0,0-0,Cosenza
+Sun Dec 29 2019,Perugia,0-1,0-1,Venezia
+Sun Dec 29 2019,Pisa,0-0,0-0,Frosinone
+Sun Dec 29 2019,Pordenone,1-0,1-0,Cremonese
+Sun Dec 29 2019,Spezia,2-1,1-0,Salernitana
+Sun Dec 29 2019,Benevento,4-0,1-0,Ascoli
+Sun Dec 29 2019,Empoli,1-1,1-1,Livorno
+Fri Jan 17 2020,Frosinone,2-2,1-1,Pordenone
+Sat Jan 18 2020,Cremonese,0-0,0-0,Venezia
+Sat Jan 18 2020,Juve Stabia,1-0,1-0,Empoli
+Sat Jan 18 2020,Livorno,4-4,3-1,Virtus Entella
+Sat Jan 18 2020,Trapani,3-1,1-1,Ascoli
+Sat Jan 18 2020,Chievo,2-0,0-0,Perugia
+Sun Jan 19 2020,Pescara,1-2,0-0,Salernitana
+Sun Jan 19 2020,Spezia,1-1,1-1,Cittadella
+Sun Jan 19 2020,Benevento,1-1,1-1,Pisa
+Mon Jan 20 2020,Cosenza,0-1,0-1,Crotone
+Fri Jan 24 2020,Empoli,1-1,1-0,Chievo
+Sat Jan 25 2020,Cittadella,1-2,0-0,Benevento
+Sat Jan 25 2020,Pisa,1-1,0-0,Juve Stabia
+Sat Jan 25 2020,Pordenone,0-2,0-0,Pescara
+Sat Jan 25 2020,Virtus Entella,1-1,1-1,Cremonese
+Sat Jan 25 2020,Salernitana,2-1,2-1,Cosenza
+Sun Jan 26 2020,Crotone,1-2,0-1,Spezia
+Sun Jan 26 2020,Venezia,1-1,1-0,Trapani
+Sun Jan 26 2020,Ascoli,0-1,0-0,Frosinone
+Mon Jan 27 2020,Perugia,1-0,1-0,Livorno
+Fri Jan 31 2020,Cremonese,3-4,2-1,Pisa
+Sat Feb 1 2020,Frosinone,1-0,0-0,Virtus Entella
+Sat Feb 1 2020,Livorno,0-3,0-1,Ascoli
+Sat Feb 1 2020,Spezia,1-0,0-0,Pordenone
+Sat Feb 1 2020,Trapani,0-3,0-1,Cittadella
+Sat Feb 1 2020,Empoli,3-1,2-1,Crotone
+Sun Feb 2 2020,Chievo,0-1,0-1,Venezia
+Sun Feb 2 2020,Juve Stabia,1-2,1-1,Perugia
+Sun Feb 2 2020,Benevento,1-1,0-0,Salernitana
+Mon Feb 3 2020,Pescara,2-1,0-0,Cosenza
+Fri Feb 7 2020,Ascoli,2-2,1-0,Juve Stabia
+Sat Feb 8 2020,Cittadella,1-2,1-1,Empoli
+Sat Feb 8 2020,Crotone,1-0,0-0,Cremonese
+Sat Feb 8 2020,Pordenone,2-2,1-0,Livorno
+Sat Feb 8 2020,Venezia,0-1,0-0,Frosinone
+Sat Feb 8 2020,Perugia,0-3,0-1,Spezia
+Sun Feb 9 2020,Pisa,1-1,0-1,Chievo
+Sun Feb 9 2020,Virtus Entella,2-0,1-0,Pescara
+Sun Feb 9 2020,Cosenza,0-1,0-1,Benevento
+Mon Feb 10 2020,Salernitana,1-0,1-0,Trapani
+Tue Feb 11 2020,Spezia,3-2,0-1,Cremonese
+Fri Feb 14 2020,Pescara,1-2,1-1,Cittadella
+Sat Feb 15 2020,Benevento,2-1,1-0,Pordenone
+Sat Feb 15 2020,Juve Stabia,3-2,2-2,Crotone
+Sat Feb 15 2020,Livorno,0-3,0-3,Cosenza
+Sat Feb 15 2020,Venezia,2-2,1-1,Virtus Entella
+Sat Feb 15 2020,Spezia,3-1,0-1,Ascoli
+Sun Feb 16 2020,Cremonese,5-0,2-0,Trapani
+Sun Feb 16 2020,Frosinone,1-0,0-0,Perugia
+Sun Feb 16 2020,Empoli,2-1,0-1,Pisa
+Mon Feb 17 2020,Chievo,2-0,1-0,Salernitana
+Fri Feb 21 2020,Cosenza,0-2,0-2,Frosinone
+Sat Feb 22 2020,Cittadella,3-0,1-0,Juve Stabia
+Sat Feb 22 2020,Trapani,1-1,1-1,Spezia
+Sat Feb 22 2020,Virtus Entella,0-4,0-3,Benevento
+Sat Feb 22 2020,Pisa,1-2,1-1,Venezia
+Sun Feb 23 2020,Pordenone,0-1,0-1,Chievo
+Sun Feb 23 2020,Salernitana,1-0,1-0,Livorno
+Sun Feb 23 2020,Crotone,4-1,3-0,Pescara
+Mon Feb 24 2020,Perugia,0-1,0-0,Empoli
+Fri Feb 28 2020,Virtus Entella,1-2,0-1,Crotone
+Sat Feb 29 2020,Benevento,3-1,0-1,Spezia
+Sat Feb 29 2020,Cittadella,0-0,0-0,Cremonese
+Sat Feb 29 2020,Empoli,0-1,0-1,Pordenone
+Sat Feb 29 2020,Juve Stabia,2-2,0-1,Trapani
+Sat Feb 29 2020,Pisa,1-0,0-0,Perugia
+Sat Feb 29 2020,Venezia,1-1,1-0,Cosenza
+Sat Feb 29 2020,Chievo,0-1,0-0,Livorno
+Sat Feb 29 2020,Frosinone,1-0,0-0,Salernitana
+Sun Mar 1 2020,Pescara,2-1,1-1,Ascoli
+Tue Mar 3 2020,Cosenza,1-2,0-0,Cittadella
+Tue Mar 3 2020,Cremonese,2-3,2-2,Empoli
+Tue Mar 3 2020,Crotone,1-0,0-0,Pisa
+Tue Mar 3 2020,Livorno,2-2,1-1,Frosinone
+Tue Mar 3 2020,Perugia,1-2,0-1,Benevento
+Tue Mar 3 2020,Pordenone,2-1,1-0,Juve Stabia
+Tue Mar 3 2020,Salernitana,2-0,1-0,Venezia
+Tue Mar 3 2020,Trapani,4-1,0-1,Virtus Entella
+Wed Mar 4 2020,Ascoli,1-1,0-1,Chievo
+Wed Mar 4 2020,Spezia,2-0,0-0,Pescara
+Sat Mar 7 2020,Cittadella,0-2,0-1,Pordenone
+Sat Mar 7 2020,Empoli,1-1,0-1,Trapani
+Sat Mar 7 2020,Frosinone,0-2,0-1,Cremonese
+Sat Mar 7 2020,Perugia,1-0,1-0,Salernitana
+Sat Mar 7 2020,Venezia,1-3,0-2,Crotone
+Sat Mar 7 2020,Pisa,1-0,0-0,Livorno
+Sun Mar 8 2020,Juve Stabia,3-1,1-0,Spezia
+Sun Mar 8 2020,Virtus Entella,3-0,3-0,Ascoli
+Sun Mar 8 2020,Benevento,4-0,3-0,Pescara
+Mon Mar 9 2020,Chievo,2-0,1-0,Cosenza

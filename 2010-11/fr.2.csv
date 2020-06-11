@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 6 2010,Ajaccio,1-0,1-0,Nimes
+Fri Aug 6 2010,Boulogne,1-1,1-0,Clermont
+Fri Aug 6 2010,Chateauroux,0-0,0-0,Istres
+Fri Aug 6 2010,Dijon,0-0,0-0,Angers
+Fri Aug 6 2010,Grenoble,1-0,0-0,Le Havre
+Fri Aug 6 2010,Metz,0-2,0-1,Evian Thonon Gaillard
+Fri Aug 6 2010,Reims,1-1,1-0,Laval
+Fri Aug 6 2010,Tours,4-3,2-1,Sedan
+Fri Aug 6 2010,Vannes,1-0,1-0,Troyes
+Mon Aug 9 2010,Nantes,0-2,0-2,Le Mans
+Fri Aug 13 2010,Angers,0-0,0-0,Boulogne
+Fri Aug 13 2010,Clermont,2-2,2-1,Dijon
+Fri Aug 13 2010,Evian Thonon Gaillard,4-0,3-0,Vannes
+Fri Aug 13 2010,Istres,1-0,0-0,Tours
+Fri Aug 13 2010,Laval,1-0,0-0,Metz
+Fri Aug 13 2010,Le Havre,2-0,1-0,Ajaccio
+Fri Aug 13 2010,Le Mans,2-2,0-1,Reims
+Fri Aug 13 2010,Nimes,1-1,0-0,Chateauroux
+Fri Aug 13 2010,Sedan,1-0,0-0,Grenoble
+Fri Aug 13 2010,Troyes,0-2,0-1,Nantes
+Mon Aug 16 2010,Metz,0-1,0-0,Troyes
+Tue Aug 17 2010,Ajaccio,0-0,0-0,Le Mans
+Tue Aug 17 2010,Boulogne,2-1,1-0,Nimes
+Tue Aug 17 2010,Chateauroux,2-1,1-1,Le Havre
+Tue Aug 17 2010,Dijon,1-1,1-1,Sedan
+Tue Aug 17 2010,Grenoble,0-2,0-0,Angers
+Tue Aug 17 2010,Nantes,0-1,0-1,Evian Thonon Gaillard
+Tue Aug 17 2010,Reims,0-0,0-0,Istres
+Tue Aug 17 2010,Tours,3-2,2-0,Clermont
+Tue Aug 17 2010,Vannes,2-1,2-1,Laval
+Fri Aug 20 2010,Clermont,1-2,1-1,Angers
+Fri Aug 20 2010,Evian Thonon Gaillard,1-2,0-1,Tours
+Fri Aug 20 2010,Istres,1-1,0-0,Dijon
+Fri Aug 20 2010,Laval,0-0,0-0,Nantes
+Fri Aug 20 2010,Le Havre,2-1,0-1,Reims
+Fri Aug 20 2010,Le Mans,0-2,0-2,Chateauroux
+Fri Aug 20 2010,Metz,1-0,1-0,Vannes
+Fri Aug 20 2010,Nimes,1-0,0-0,Grenoble
+Fri Aug 20 2010,Sedan,1-1,0-1,Boulogne
+Fri Aug 20 2010,Troyes,3-0,0-0,Ajaccio
+Fri Aug 27 2010,Ajaccio,0-0,0-0,Metz
+Fri Aug 27 2010,Angers,0-3,0-1,Sedan
+Fri Aug 27 2010,Boulogne,2-0,0-0,Istres
+Fri Aug 27 2010,Clermont,2-1,1-0,Le Havre
+Fri Aug 27 2010,Dijon,1-0,0-0,Nimes
+Fri Aug 27 2010,Nantes,2-0,1-0,Vannes
+Fri Aug 27 2010,Reims,0-1,0-1,Troyes
+Fri Aug 27 2010,Tours,2-0,0-0,Laval
+Mon Aug 30 2010,Chateauroux,0-1,0-0,Evian Thonon Gaillard
+Mon Aug 30 2010,Grenoble,0-1,0-1,Le Mans
+Fri Sep 10 2010,Istres,0-1,0-0,Grenoble
+Fri Sep 10 2010,Laval,1-1,0-0,Chateauroux
+Fri Sep 10 2010,Le Havre,2-1,1-0,Dijon
+Fri Sep 10 2010,Le Mans,1-1,0-1,Boulogne
+Fri Sep 10 2010,Metz,1-1,1-1,Nantes
+Fri Sep 10 2010,Nimes,2-0,0-0,Angers
+Fri Sep 10 2010,Sedan,4-0,1-0,Clermont
+Fri Sep 10 2010,Troyes,1-2,0-1,Tours
+Fri Sep 10 2010,Vannes,4-1,2-0,Reims
+Mon Sep 13 2010,Evian Thonon Gaillard,1-1,0-1,Ajaccio
+Fri Sep 17 2010,Ajaccio,3-0,0-0,Vannes
+Fri Sep 17 2010,Boulogne,0-0,0-0,Laval
+Fri Sep 17 2010,Chateauroux,1-0,0-0,Metz
+Fri Sep 17 2010,Clermont,2-0,1-0,Nimes
+Fri Sep 17 2010,Dijon,5-1,3-0,Evian Thonon Gaillard
+Fri Sep 17 2010,Grenoble,0-2,0-0,Troyes
+Fri Sep 17 2010,Sedan,2-1,0-1,Le Mans
+Fri Sep 17 2010,Tours,0-0,0-0,Le Havre
+Sun Sep 19 2010,Angers,1-1,1-0,Istres
+Mon Sep 20 2010,Reims,2-1,1-1,Nantes
+Fri Sep 24 2010,Istres,2-2,1-2,Clermont
+Fri Sep 24 2010,Laval,0-0,0-0,Ajaccio
+Fri Sep 24 2010,Le Havre,1-0,0-0,Angers
+Fri Sep 24 2010,Le Mans,2-2,2-0,Dijon
+Fri Sep 24 2010,Metz,0-0,0-0,Reims
+Fri Sep 24 2010,Nantes,2-1,2-0,Grenoble
+Fri Sep 24 2010,Nimes,2-0,1-0,Sedan
+Fri Sep 24 2010,Troyes,3-1,2-0,Chateauroux
+Fri Sep 24 2010,Vannes,0-0,0-0,Tours
+Mon Sep 27 2010,Evian Thonon Gaillard,0-0,0-0,Boulogne
+Fri Oct 1 2010,Ajaccio,2-3,1-1,Nantes
+Fri Oct 1 2010,Angers,2-0,1-0,Laval
+Fri Oct 1 2010,Boulogne,1-1,1-0,Le Havre
+Fri Oct 1 2010,Chateauroux,2-0,1-0,Reims
+Fri Oct 1 2010,Clermont,3-3,1-2,Evian Thonon Gaillard
+Fri Oct 1 2010,Dijon,0-1,0-0,Troyes
+Fri Oct 1 2010,Grenoble,1-2,1-0,Vannes
+Fri Oct 1 2010,Nimes,1-2,1-1,Le Mans
+Fri Oct 1 2010,Sedan,5-1,4-1,Istres
+Mon Oct 4 2010,Tours,2-2,0-1,Metz
+Fri Oct 15 2010,Evian Thonon Gaillard,0-0,0-0,Angers
+Fri Oct 15 2010,Istres,0-0,0-0,Nimes
+Fri Oct 15 2010,Laval,3-0,1-0,Grenoble
+Fri Oct 15 2010,Le Havre,1-1,1-1,Sedan
+Fri Oct 15 2010,Le Mans,2-0,0-0,Clermont
+Fri Oct 15 2010,Metz,3-1,2-0,Dijon
+Fri Oct 15 2010,Nantes,0-0,0-0,Tours
+Fri Oct 15 2010,Reims,1-1,0-1,Ajaccio
+Fri Oct 15 2010,Troyes,1-1,0-1,Boulogne
+Fri Oct 15 2010,Vannes,0-1,0-0,Chateauroux
+Mon Oct 18 2010,Boulogne,0-0,0-0,Nantes
+Tue Oct 19 2010,Angers,1-3,1-0,Le Mans
+Tue Oct 19 2010,Chateauroux,1-2,1-0,Ajaccio
+Tue Oct 19 2010,Clermont,2-0,1-0,Laval
+Tue Oct 19 2010,Dijon,4-1,3-0,Vannes
+Tue Oct 19 2010,Grenoble,1-0,0-0,Metz
+Tue Oct 19 2010,Istres,0-2,0-0,Le Havre
+Tue Oct 19 2010,Nimes,1-3,0-3,Evian Thonon Gaillard
+Tue Oct 19 2010,Sedan,1-1,1-1,Troyes
+Tue Oct 19 2010,Tours,2-1,2-1,Reims
+Fri Oct 22 2010,Ajaccio,2-0,1-0,Tours
+Fri Oct 22 2010,Laval,2-0,1-0,Dijon
+Fri Oct 22 2010,Le Mans,1-0,0-0,Istres
+Fri Oct 22 2010,Metz,1-1,1-0,Angers
+Fri Oct 22 2010,Nantes,1-1,0-0,Chateauroux
+Fri Oct 22 2010,Reims,4-1,3-1,Grenoble
+Fri Oct 22 2010,Troyes,1-1,0-0,Clermont
+Fri Oct 22 2010,Vannes,0-0,0-0,Boulogne
+Mon Oct 25 2010,Evian Thonon Gaillard,2-2,1-0,Sedan
+Mon Oct 25 2010,Le Havre,0-0,0-0,Nimes
+Fri Oct 29 2010,Angers,3-0,2-0,Troyes
+Fri Oct 29 2010,Boulogne,1-0,0-0,Reims
+Fri Oct 29 2010,Clermont,1-1,0-0,Metz
+Fri Oct 29 2010,Dijon,0-0,0-0,Nantes
+Fri Oct 29 2010,Grenoble,1-1,0-1,Ajaccio
+Fri Oct 29 2010,Istres,1-1,0-1,Evian Thonon Gaillard
+Fri Oct 29 2010,Le Havre,1-1,0-1,Le Mans
+Fri Oct 29 2010,Nimes,0-0,0-0,Laval
+Fri Oct 29 2010,Sedan,4-0,2-0,Vannes
+Mon Nov 1 2010,Tours,2-0,0-0,Chateauroux
+Fri Nov 5 2010,Ajaccio,1-0,0-0,Dijon
+Fri Nov 5 2010,Chateauroux,4-3,2-1,Grenoble
+Fri Nov 5 2010,Evian Thonon Gaillard,1-1,1-1,Le Havre
+Fri Nov 5 2010,Laval,3-0,1-0,Sedan
+Fri Nov 5 2010,Metz,0-1,0-0,Le Mans
+Fri Nov 5 2010,Nantes,2-1,0-0,Nimes
+Fri Nov 5 2010,Reims,2-0,1-0,Angers
+Fri Nov 5 2010,Troyes,0-1,0-0,Istres
+Fri Nov 5 2010,Vannes,1-1,0-1,Clermont
+Mon Nov 8 2010,Tours,2-0,2-0,Boulogne
+Fri Nov 12 2010,Angers,1-1,1-0,Nantes
+Fri Nov 12 2010,Clermont,0-1,0-1,Chateauroux
+Fri Nov 12 2010,Dijon,3-2,1-0,Reims
+Fri Nov 12 2010,Grenoble,2-2,2-1,Tours
+Fri Nov 12 2010,Istres,3-0,0-0,Vannes
+Fri Nov 12 2010,Le Havre,1-0,1-0,Laval
+Fri Nov 12 2010,Le Mans,1-3,1-1,Evian Thonon Gaillard
+Fri Nov 12 2010,Nimes,1-0,0-0,Troyes
+Mon Nov 15 2010,Sedan,4-1,2-0,Ajaccio
+Fri Nov 26 2010,Ajaccio,2-0,0-0,Boulogne
+Fri Nov 26 2010,Chateauroux,0-3,0-1,Dijon
+Fri Nov 26 2010,Evian Thonon Gaillard,2-0,0-0,Grenoble
+Fri Nov 26 2010,Laval,0-0,0-0,Istres
+Fri Nov 26 2010,Metz,0-0,0-0,Sedan
+Fri Nov 26 2010,Nantes,2-0,1-0,Clermont
+Fri Nov 26 2010,Reims,1-1,0-1,Nimes
+Fri Nov 26 2010,Troyes,0-0,0-0,Le Havre
+Fri Nov 26 2010,Vannes,0-0,0-0,Angers
+Mon Nov 29 2010,Tours,0-1,0-0,Le Mans
+Fri Dec 3 2010,Angers,2-1,0-1,Chateauroux
+Fri Dec 3 2010,Boulogne,2-0,1-0,Grenoble
+Fri Dec 3 2010,Dijon,3-2,2-0,Tours
+Fri Dec 3 2010,Istres,2-1,0-0,Nantes
+Fri Dec 3 2010,Le Havre,2-1,1-0,Metz
+Fri Dec 3 2010,Nimes,2-1,0-1,Vannes
+Fri Dec 3 2010,Sedan,0-0,0-0,Reims
+Mon Dec 6 2010,Le Mans,1-0,1-0,Troyes
+Tue Dec 7 2010,Boulogne,0-2,0-1,Metz
+Tue Dec 7 2010,Clermont,2-0,0-0,Ajaccio
+Tue Dec 14 2010,Evian Thonon Gaillard,3-0,0-0,Laval
+Fri Dec 17 2010,Ajaccio,1-0,0-0,Angers
+Fri Dec 17 2010,Chateauroux,1-1,1-0,Boulogne
+Fri Dec 17 2010,Grenoble,3-1,1-0,Dijon
+Fri Dec 17 2010,Nantes,0-0,0-0,Sedan
+Fri Dec 17 2010,Reims,1-3,1-1,Clermont
+Fri Dec 17 2010,Tours,0-2,0-0,Nimes
+Fri Dec 17 2010,Troyes,1-1,0-0,Evian Thonon Gaillard
+Fri Dec 17 2010,Vannes,1-1,0-1,Le Havre
+Mon Dec 20 2010,Le Havre,0-1,0-1,Nantes
+Tue Dec 21 2010,Angers,2-2,1-1,Tours
+Tue Dec 21 2010,Boulogne,0-1,0-0,Dijon
+Tue Dec 21 2010,Clermont,2-2,2-0,Grenoble
+Tue Dec 21 2010,Evian Thonon Gaillard,1-2,0-2,Reims
+Tue Dec 21 2010,Istres,2-2,0-1,Ajaccio
+Tue Dec 21 2010,Laval,0-0,0-0,Troyes
+Tue Dec 21 2010,Le Mans,0-1,0-0,Vannes
+Tue Dec 21 2010,Nimes,2-0,1-0,Metz
+Sat Jan 15 2011,Ajaccio,2-1,1-0,Le Havre
+Sat Jan 15 2011,Boulogne,2-1,1-1,Angers
+Sat Jan 15 2011,Chateauroux,1-1,0-1,Nimes
+Sat Jan 15 2011,Dijon,0-1,0-1,Clermont
+Sat Jan 15 2011,Grenoble,1-1,0-0,Sedan
+Sat Jan 15 2011,Metz,4-0,2-0,Laval
+Sat Jan 15 2011,Reims,3-0,0-0,Le Mans
+Sat Jan 15 2011,Tours,2-3,2-1,Istres
+Sat Jan 15 2011,Vannes,2-2,2-1,Evian Thonon Gaillard
+Mon Jan 17 2011,Nantes,0-1,0-0,Troyes
+Wed Jan 19 2011,Laval,2-1,0-1,Le Mans
+Wed Jan 19 2011,Metz,0-0,0-0,Istres
+Wed Jan 19 2011,Sedan,2-0,0-0,Chateauroux
+Sat Jan 29 2011,Angers,2-2,0-1,Grenoble
+Sat Jan 29 2011,Clermont,3-1,1-0,Tours
+Sat Jan 29 2011,Evian Thonon Gaillard,3-0,2-0,Nantes
+Sat Jan 29 2011,Istres,2-0,0-0,Reims
+Sat Jan 29 2011,Laval,1-0,0-0,Vannes
+Sat Jan 29 2011,Le Mans,3-0,2-0,Ajaccio
+Sat Jan 29 2011,Nimes,0-1,0-1,Boulogne
+Sat Jan 29 2011,Sedan,0-0,0-0,Dijon
+Sat Jan 29 2011,Troyes,2-1,0-1,Metz
+Mon Jan 31 2011,Le Havre,1-0,1-0,Chateauroux
+Sat Feb 5 2011,Ajaccio,3-0,2-0,Troyes
+Sat Feb 5 2011,Angers,1-0,1-0,Clermont
+Sat Feb 5 2011,Boulogne,1-0,0-0,Sedan
+Sat Feb 5 2011,Chateauroux,1-2,1-1,Le Mans
+Sat Feb 5 2011,Dijon,0-1,0-0,Istres
+Sat Feb 5 2011,Grenoble,1-0,1-0,Nimes
+Sat Feb 5 2011,Nantes,1-1,1-0,Laval
+Sat Feb 5 2011,Reims,2-1,1-1,Le Havre
+Sat Feb 5 2011,Vannes,1-2,1-1,Metz
+Mon Feb 7 2011,Tours,1-0,0-0,Evian Thonon Gaillard
+Sat Feb 12 2011,Evian Thonon Gaillard,1-0,0-0,Chateauroux
+Sat Feb 12 2011,Istres,0-1,0-0,Boulogne
+Sat Feb 12 2011,Laval,2-2,1-1,Tours
+Sat Feb 12 2011,Le Havre,1-0,0-0,Clermont
+Sat Feb 12 2011,Le Mans,1-0,0-0,Grenoble
+Sat Feb 12 2011,Nimes,0-2,0-0,Dijon
+Sat Feb 12 2011,Sedan,0-1,0-1,Angers
+Sat Feb 12 2011,Troyes,3-2,1-0,Reims
+Sat Feb 12 2011,Vannes,1-0,0-0,Nantes
+Mon Feb 14 2011,Metz,2-2,1-1,Ajaccio
+Fri Feb 18 2011,Ajaccio,1-0,1-0,Evian Thonon Gaillard
+Fri Feb 18 2011,Angers,2-0,0-0,Nimes
+Fri Feb 18 2011,Chateauroux,1-0,0-0,Laval
+Fri Feb 18 2011,Clermont,1-1,0-1,Sedan
+Fri Feb 18 2011,Dijon,0-0,0-0,Le Havre
+Fri Feb 18 2011,Grenoble,0-2,0-0,Istres
+Fri Feb 18 2011,Nantes,0-0,0-0,Metz
+Fri Feb 18 2011,Reims,3-1,2-0,Vannes
+Fri Feb 18 2011,Tours,1-0,0-0,Troyes
+Mon Feb 21 2011,Boulogne,1-0,0-0,Le Mans
+Fri Feb 25 2011,Evian Thonon Gaillard,0-2,0-2,Dijon
+Fri Feb 25 2011,Istres,1-1,0-1,Angers
+Fri Feb 25 2011,Laval,4-0,2-0,Boulogne
+Fri Feb 25 2011,Le Mans,1-1,1-1,Sedan
+Fri Feb 25 2011,Metz,0-0,0-0,Chateauroux
+Fri Feb 25 2011,Nantes,1-1,0-0,Reims
+Fri Feb 25 2011,Nimes,1-2,0-1,Clermont
+Fri Feb 25 2011,Troyes,2-0,1-0,Grenoble
+Fri Feb 25 2011,Vannes,0-1,0-0,Ajaccio
+Mon Feb 28 2011,Le Havre,4-3,1-1,Tours
+Fri Mar 4 2011,Ajaccio,1-1,0-0,Laval
+Fri Mar 4 2011,Chateauroux,1-0,0-0,Troyes
+Fri Mar 4 2011,Clermont,2-0,0-0,Istres
+Fri Mar 4 2011,Grenoble,2-0,1-0,Nantes
+Fri Mar 4 2011,Reims,2-2,1-1,Metz
+Fri Mar 4 2011,Sedan,1-0,1-0,Nimes
+Fri Mar 4 2011,Tours,2-0,1-0,Vannes
+Sat Mar 5 2011,Angers,0-0,0-0,Le Havre
+Sat Mar 5 2011,Dijon,3-2,0-1,Le Mans
+Mon Mar 7 2011,Boulogne,1-2,0-2,Evian Thonon Gaillard
+Fri Mar 11 2011,Evian Thonon Gaillard,1-1,0-1,Clermont
+Fri Mar 11 2011,Istres,5-3,1-0,Sedan
+Fri Mar 11 2011,Laval,1-1,1-1,Angers
+Fri Mar 11 2011,Le Havre,2-0,0-0,Boulogne
+Fri Mar 11 2011,Metz,1-0,1-0,Tours
+Fri Mar 11 2011,Nantes,2-0,2-0,Ajaccio
+Fri Mar 11 2011,Reims,1-1,1-1,Chateauroux
+Fri Mar 11 2011,Troyes,2-0,1-0,Dijon
+Fri Mar 11 2011,Vannes,1-1,0-1,Grenoble
+Mon Mar 14 2011,Le Mans,1-1,1-0,Nimes
+Fri Mar 18 2011,Ajaccio,3-0,2-0,Reims
+Fri Mar 18 2011,Angers,3-0,2-0,Evian Thonon Gaillard
+Fri Mar 18 2011,Boulogne,2-0,1-0,Troyes
+Fri Mar 18 2011,Chateauroux,0-2,0-1,Vannes
+Fri Mar 18 2011,Clermont,0-0,0-0,Le Mans
+Fri Mar 18 2011,Dijon,2-1,1-0,Metz
+Fri Mar 18 2011,Grenoble,1-2,1-1,Laval
+Fri Mar 18 2011,Nimes,2-0,1-0,Istres
+Fri Mar 18 2011,Sedan,1-1,1-1,Le Havre
+Mon Mar 21 2011,Tours,2-1,0-1,Nantes
+Fri Apr 1 2011,Ajaccio,1-1,1-0,Chateauroux
+Fri Apr 1 2011,Evian Thonon Gaillard,1-0,0-0,Nimes
+Fri Apr 1 2011,Laval,1-1,0-0,Clermont
+Fri Apr 1 2011,Le Havre,1-2,0-0,Istres
+Fri Apr 1 2011,Le Mans,0-0,0-0,Angers
+Fri Apr 1 2011,Metz,0-1,0-0,Grenoble
+Fri Apr 1 2011,Reims,4-1,1-0,Tours
+Fri Apr 1 2011,Troyes,0-2,0-0,Sedan
+Fri Apr 1 2011,Vannes,2-4,1-0,Dijon
+Mon Apr 4 2011,Nantes,1-2,0-1,Boulogne
+Fri Apr 8 2011,Angers,0-0,0-0,Metz
+Fri Apr 8 2011,Boulogne,0-1,0-1,Vannes
+Fri Apr 8 2011,Chateauroux,0-0,0-0,Nantes
+Fri Apr 8 2011,Clermont,2-2,2-2,Troyes
+Fri Apr 8 2011,Dijon,2-0,1-0,Laval
+Fri Apr 8 2011,Grenoble,1-1,1-0,Reims
+Fri Apr 8 2011,Istres,0-0,0-0,Le Mans
+Fri Apr 8 2011,Nimes,1-1,0-1,Le Havre
+Fri Apr 8 2011,Sedan,1-4,1-2,Evian Thonon Gaillard
+Mon Apr 11 2011,Tours,2-2,0-1,Ajaccio
+Fri Apr 15 2011,Ajaccio,1-0,0-0,Grenoble
+Fri Apr 15 2011,Chateauroux,3-0,2-0,Tours
+Fri Apr 15 2011,Evian Thonon Gaillard,3-2,2-0,Istres
+Fri Apr 15 2011,Laval,1-0,1-0,Nimes
+Fri Apr 15 2011,Metz,3-3,2-1,Clermont
+Fri Apr 15 2011,Nantes,1-1,0-1,Dijon
+Fri Apr 15 2011,Reims,4-1,1-0,Boulogne
+Fri Apr 15 2011,Troyes,1-2,0-1,Angers
+Fri Apr 15 2011,Vannes,0-3,0-3,Sedan
+Mon Apr 18 2011,Le Mans,1-0,0-0,Le Havre
+Fri Apr 22 2011,Boulogne,3-2,1-1,Tours
+Fri Apr 22 2011,Clermont,1-0,1-0,Vannes
+Fri Apr 22 2011,Grenoble,1-1,0-1,Chateauroux
+Fri Apr 22 2011,Istres,2-0,1-0,Troyes
+Fri Apr 22 2011,Le Havre,0-0,0-0,Evian Thonon Gaillard
+Fri Apr 22 2011,Le Mans,0-0,0-0,Metz
+Fri Apr 22 2011,Nimes,2-2,0-1,Nantes
+Fri Apr 22 2011,Sedan,2-0,1-0,Laval
+Sat Apr 23 2011,Angers,0-1,0-0,Reims
+Mon Apr 25 2011,Dijon,1-1,1-1,Ajaccio
+Fri Apr 29 2011,Ajaccio,0-0,0-0,Sedan
+Fri Apr 29 2011,Chateauroux,3-1,0-1,Clermont
+Fri Apr 29 2011,Laval,2-1,1-1,Le Havre
+Fri Apr 29 2011,Metz,3-1,2-0,Boulogne
+Fri Apr 29 2011,Nantes,2-0,1-0,Angers
+Fri Apr 29 2011,Reims,1-2,0-1,Dijon
+Fri Apr 29 2011,Tours,2-2,0-1,Grenoble
+Fri Apr 29 2011,Troyes,1-3,1-1,Nimes
+Fri Apr 29 2011,Vannes,2-2,0-2,Istres
+Mon May 2 2011,Evian Thonon Gaillard,3-0,1-0,Le Mans
+Fri May 6 2011,Angers,3-0,2-0,Vannes
+Fri May 6 2011,Boulogne,0-1,0-1,Ajaccio
+Fri May 6 2011,Clermont,2-1,2-0,Nantes
+Fri May 6 2011,Dijon,3-1,0-1,Chateauroux
+Fri May 6 2011,Grenoble,1-1,1-0,Evian Thonon Gaillard
+Fri May 6 2011,Istres,0-1,0-1,Laval
+Fri May 6 2011,Le Havre,1-2,0-0,Troyes
+Fri May 6 2011,Le Mans,3-0,0-0,Tours
+Fri May 6 2011,Nimes,2-2,1-2,Reims
+Fri May 6 2011,Sedan,3-1,2-1,Metz
+Mon May 9 2011,Laval,2-2,0-2,Evian Thonon Gaillard
+Tue May 10 2011,Ajaccio,1-0,1-0,Clermont
+Tue May 10 2011,Chateauroux,1-2,0-2,Angers
+Tue May 10 2011,Grenoble,2-2,1-0,Boulogne
+Tue May 10 2011,Metz,2-0,1-0,Le Havre
+Tue May 10 2011,Nantes,2-1,2-0,Istres
+Tue May 10 2011,Reims,1-0,1-0,Sedan
+Tue May 10 2011,Tours,0-1,0-0,Dijon
+Tue May 10 2011,Troyes,0-1,0-0,Le Mans
+Tue May 10 2011,Vannes,3-1,2-1,Nimes
+Fri May 13 2011,Angers,3-1,1-1,Ajaccio
+Fri May 13 2011,Boulogne,3-2,1-1,Chateauroux
+Fri May 13 2011,Clermont,1-1,1-1,Reims
+Fri May 13 2011,Evian Thonon Gaillard,3-0,2-0,Troyes
+Fri May 13 2011,Istres,2-3,1-1,Metz
+Fri May 13 2011,Le Havre,3-4,2-1,Vannes
+Fri May 13 2011,Nimes,2-3,2-0,Tours
+Fri May 13 2011,Sedan,3-1,0-0,Nantes
+Mon May 16 2011,Dijon,2-1,1-1,Grenoble
+Mon May 16 2011,Le Mans,4-0,3-0,Laval
+Fri May 20 2011,Ajaccio,2-0,1-0,Istres
+Fri May 20 2011,Chateauroux,1-0,1-0,Sedan
+Fri May 20 2011,Dijon,1-1,0-1,Boulogne
+Fri May 20 2011,Grenoble,2-2,1-1,Clermont
+Fri May 20 2011,Metz,3-0,1-0,Nimes
+Fri May 20 2011,Nantes,2-1,2-0,Le Havre
+Fri May 20 2011,Reims,1-2,1-0,Evian Thonon Gaillard
+Fri May 20 2011,Tours,1-1,0-0,Angers
+Fri May 20 2011,Troyes,3-2,0-1,Laval
+Fri May 20 2011,Vannes,4-3,0-2,Le Mans
+Fri May 27 2011,Angers,1-0,1-0,Dijon
+Fri May 27 2011,Clermont,1-0,1-0,Boulogne
+Fri May 27 2011,Evian Thonon Gaillard,4-3,0-1,Metz
+Fri May 27 2011,Istres,5-3,3-1,Chateauroux
+Fri May 27 2011,Laval,1-2,1-2,Reims
+Fri May 27 2011,Le Havre,5-0,3-0,Grenoble
+Fri May 27 2011,Le Mans,3-2,0-2,Nantes
+Fri May 27 2011,Nimes,1-2,1-1,Ajaccio
+Fri May 27 2011,Sedan,1-0,0-0,Tours
+Fri May 27 2011,Troyes,0-1,0-0,Vannes

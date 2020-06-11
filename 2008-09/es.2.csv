@@ -1,0 +1,463 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 30 2008,Alicante,0-1,0-0,Xerez
+Sat Aug 30 2008,Celta,0-1,0-0,Girona
+Sat Aug 30 2008,Levante,2-1,1-0,Zaragoza
+Sat Aug 30 2008,Sociedad,1-0,0-0,Las Palmas
+Sat Aug 30 2008,Tenerife,3-2,1-0,Gimnastic
+Sat Aug 30 2008,Vallecano,1-0,1-0,Murcia
+Sun Aug 31 2008,Albacete,2-1,1-0,Sevilla B
+Sun Aug 31 2008,Cordoba,0-3,0-2,Hercules
+Sun Aug 31 2008,Elche,0-1,0-0,Eibar
+Sun Aug 31 2008,Huesca,2-2,1-1,Castellon
+Sun Aug 31 2008,Salamanca,0-0,0-0,Alaves
+Sat Sep 6 2008,Hercules,1-1,0-1,Vallecano
+Sat Sep 6 2008,Zaragoza,2-2,2-0,Sociedad
+Sun Sep 7 2008,Alaves,1-0,0-0,Cordoba
+Sun Sep 7 2008,Castellon,2-0,1-0,Celta
+Sun Sep 7 2008,Eibar,3-2,0-0,Tenerife
+Sun Sep 7 2008,Gimnastic,1-1,0-0,Huesca
+Sun Sep 7 2008,Girona,3-0,1-0,Alicante
+Sun Sep 7 2008,Las Palmas,2-0,1-0,Elche
+Sun Sep 7 2008,Murcia,1-2,1-1,Levante
+Sun Sep 7 2008,Sevilla B,1-1,0-0,Salamanca
+Sun Sep 7 2008,Xerez,2-1,1-1,Albacete
+Sat Sep 13 2008,Alicante,0-0,0-0,Castellon
+Sat Sep 13 2008,Celta,0-2,0-0,Gimnastic
+Sat Sep 13 2008,Cordoba,1-1,0-0,Sevilla B
+Sat Sep 13 2008,Huesca,2-0,2-0,Eibar
+Sat Sep 13 2008,Las Palmas,2-2,0-0,Zaragoza
+Sun Sep 14 2008,Albacete,1-1,0-0,Girona
+Sun Sep 14 2008,Elche,2-4,0-1,Tenerife
+Sun Sep 14 2008,Levante,0-2,0-1,Hercules
+Sun Sep 14 2008,Salamanca,2-1,1-1,Xerez
+Sun Sep 14 2008,Sociedad,2-0,1-0,Murcia
+Sun Sep 14 2008,Vallecano,2-1,1-0,Alaves
+Sat Sep 20 2008,Alaves,2-2,2-0,Levante
+Sat Sep 20 2008,Gimnastic,1-1,0-1,Alicante
+Sat Sep 20 2008,Murcia,0-0,0-0,Las Palmas
+Sat Sep 20 2008,Sevilla B,0-0,0-0,Vallecano
+Sun Sep 21 2008,Castellon,1-0,1-0,Albacete
+Sun Sep 21 2008,Eibar,0-0,0-0,Celta
+Sun Sep 21 2008,Girona,0-1,0-0,Salamanca
+Sun Sep 21 2008,Hercules,1-1,0-1,Sociedad
+Sun Sep 21 2008,Tenerife,1-1,0-1,Huesca
+Sun Sep 21 2008,Xerez,0-1,0-1,Cordoba
+Sun Sep 21 2008,Zaragoza,2-0,2-0,Elche
+Sat Sep 27 2008,Cordoba,2-0,0-0,Girona
+Sat Sep 27 2008,Las Palmas,1-1,0-0,Hercules
+Sat Sep 27 2008,Sociedad,1-1,1-1,Alaves
+Sat Sep 27 2008,Zaragoza,2-1,0-1,Murcia
+Sun Sep 28 2008,Albacete,3-2,2-0,Gimnastic
+Sun Sep 28 2008,Alicante,3-1,1-1,Eibar
+Sun Sep 28 2008,Celta,2-1,1-0,Tenerife
+Sun Sep 28 2008,Elche,2-2,0-0,Huesca
+Sun Sep 28 2008,Levante,2-0,1-0,Sevilla B
+Sun Sep 28 2008,Salamanca,1-0,1-0,Castellon
+Sun Sep 28 2008,Vallecano,3-3,0-1,Xerez
+Sat Oct 4 2008,Eibar,1-1,0-0,Albacete
+Sat Oct 4 2008,Girona,1-1,1-0,Vallecano
+Sat Oct 4 2008,Hercules,2-1,0-0,Zaragoza
+Sat Oct 4 2008,Sevilla B,1-0,1-0,Sociedad
+Sat Oct 4 2008,Tenerife,3-1,2-0,Alicante
+Sat Oct 4 2008,Xerez,2-0,1-0,Levante
+Sun Oct 5 2008,Alaves,2-1,0-1,Las Palmas
+Sun Oct 5 2008,Castellon,1-1,1-0,Cordoba
+Sun Oct 5 2008,Gimnastic,2-0,0-0,Salamanca
+Sun Oct 5 2008,Huesca,0-0,0-0,Celta
+Sun Oct 5 2008,Murcia,1-0,1-0,Elche
+Sat Oct 11 2008,Alicante,1-3,0-1,Huesca
+Sat Oct 11 2008,Las Palmas,2-0,0-0,Sevilla B
+Sat Oct 11 2008,Murcia,0-0,0-0,Hercules
+Sat Oct 11 2008,Sociedad,0-0,0-0,Xerez
+Sat Oct 11 2008,Zaragoza,4-2,2-1,Alaves
+Sun Oct 12 2008,Albacete,0-1,0-0,Tenerife
+Sun Oct 12 2008,Cordoba,0-0,0-0,Gimnastic
+Sun Oct 12 2008,Elche,1-1,1-0,Celta
+Sun Oct 12 2008,Levante,1-1,1-0,Girona
+Sun Oct 12 2008,Salamanca,2-0,0-0,Eibar
+Sun Oct 12 2008,Vallecano,4-2,2-1,Castellon
+Sat Oct 18 2008,Alaves,4-1,0-0,Murcia
+Sat Oct 18 2008,Castellon,4-1,2-0,Levante
+Sat Oct 18 2008,Celta,2-2,0-0,Alicante
+Sat Oct 18 2008,Girona,0-0,0-0,Sociedad
+Sat Oct 18 2008,Sevilla B,0-4,0-2,Zaragoza
+Sat Oct 18 2008,Tenerife,2-3,2-2,Salamanca
+Sat Oct 18 2008,Xerez,1-0,1-0,Las Palmas
+Sun Oct 19 2008,Eibar,1-0,1-0,Cordoba
+Sun Oct 19 2008,Gimnastic,3-1,1-1,Vallecano
+Sun Oct 19 2008,Hercules,0-0,0-0,Elche
+Sun Oct 19 2008,Huesca,1-2,0-2,Albacete
+Sat Oct 25 2008,Cordoba,2-0,0-0,Tenerife
+Sat Oct 25 2008,Elche,0-0,0-0,Alicante
+Sat Oct 25 2008,Las Palmas,2-2,2-0,Girona
+Sat Oct 25 2008,Vallecano,4-1,1-0,Eibar
+Sat Oct 25 2008,Zaragoza,2-1,0-0,Xerez
+Sun Oct 26 2008,Albacete,1-1,1-1,Celta
+Sun Oct 26 2008,Hercules,3-0,1-0,Alaves
+Sun Oct 26 2008,Levante,2-2,2-0,Gimnastic
+Sun Oct 26 2008,Murcia,1-0,1-0,Sevilla B
+Sun Oct 26 2008,Salamanca,2-0,1-0,Huesca
+Sun Oct 26 2008,Sociedad,2-3,0-1,Castellon
+Sat Nov 1 2008,Castellon,1-1,1-0,Las Palmas
+Sat Nov 1 2008,Gimnastic,1-2,0-1,Sociedad
+Sat Nov 1 2008,Girona,1-0,1-0,Zaragoza
+Sat Nov 1 2008,Huesca,3-1,1-0,Cordoba
+Sun Nov 2 2008,Alaves,0-3,0-1,Elche
+Sun Nov 2 2008,Alicante,1-2,1-2,Albacete
+Sun Nov 2 2008,Celta,2-0,1-0,Salamanca
+Sun Nov 2 2008,Eibar,0-0,0-0,Levante
+Sun Nov 2 2008,Sevilla B,1-2,1-0,Hercules
+Sun Nov 2 2008,Tenerife,2-0,0-0,Vallecano
+Sun Nov 2 2008,Xerez,5-3,0-2,Murcia
+Sat Nov 8 2008,Cordoba,3-4,1-2,Celta
+Sat Nov 8 2008,Las Palmas,2-2,1-1,Gimnastic
+Sat Nov 8 2008,Levante,2-1,1-0,Tenerife
+Sat Nov 8 2008,Murcia,2-0,1-0,Girona
+Sat Nov 8 2008,Sociedad,0-0,0-0,Eibar
+Sat Nov 8 2008,Vallecano,1-0,1-0,Huesca
+Sun Nov 9 2008,Alaves,2-2,1-2,Sevilla B
+Sun Nov 9 2008,Elche,0-0,0-0,Albacete
+Sun Nov 9 2008,Hercules,0-0,0-0,Xerez
+Sun Nov 9 2008,Salamanca,2-0,0-0,Alicante
+Sun Nov 9 2008,Zaragoza,1-1,1-1,Castellon
+Sat Nov 15 2008,Albacete,2-2,1-1,Salamanca
+Sat Nov 15 2008,Alicante,2-2,2-1,Cordoba
+Sat Nov 15 2008,Eibar,1-2,1-0,Las Palmas
+Sat Nov 15 2008,Gimnastic,0-0,0-0,Zaragoza
+Sun Nov 16 2008,Castellon,2-0,0-0,Murcia
+Sun Nov 16 2008,Celta,0-0,0-0,Vallecano
+Sun Nov 16 2008,Girona,1-0,0-0,Hercules
+Sun Nov 16 2008,Huesca,2-1,0-1,Levante
+Sun Nov 16 2008,Sevilla B,0-2,0-1,Elche
+Sun Nov 16 2008,Tenerife,1-1,0-0,Sociedad
+Sun Nov 16 2008,Xerez,5-0,3-0,Alaves
+Sat Nov 22 2008,Cordoba,1-0,0-0,Albacete
+Sat Nov 22 2008,Hercules,0-0,0-0,Castellon
+Sat Nov 22 2008,Las Palmas,0-1,0-1,Tenerife
+Sat Nov 22 2008,Murcia,1-1,0-1,Gimnastic
+Sat Nov 22 2008,Sevilla B,1-2,0-2,Xerez
+Sat Nov 22 2008,Zaragoza,3-0,1-0,Eibar
+Sun Nov 23 2008,Alaves,1-0,1-0,Girona
+Sun Nov 23 2008,Elche,3-1,0-0,Salamanca
+Sun Nov 23 2008,Levante,1-3,1-1,Celta
+Sun Nov 23 2008,Sociedad,1-0,0-0,Huesca
+Sun Nov 23 2008,Vallecano,0-0,0-0,Alicante
+Sat Nov 29 2008,Albacete,2-1,1-0,Vallecano
+Sat Nov 29 2008,Celta,0-0,0-0,Sociedad
+Sat Nov 29 2008,Eibar,3-1,2-0,Murcia
+Sat Nov 29 2008,Girona,1-0,1-0,Sevilla B
+Sat Nov 29 2008,Huesca,2-1,1-1,Las Palmas
+Sat Nov 29 2008,Xerez,3-1,2-1,Elche
+Sun Nov 30 2008,Alicante,0-2,0-1,Levante
+Sun Nov 30 2008,Castellon,0-1,0-1,Alaves
+Sun Nov 30 2008,Gimnastic,2-2,2-0,Hercules
+Sun Nov 30 2008,Salamanca,1-0,0-0,Cordoba
+Sun Nov 30 2008,Tenerife,1-2,0-1,Zaragoza
+Sat Dec 6 2008,Alaves,1-1,1-1,Gimnastic
+Sat Dec 6 2008,Elche,3-1,2-0,Cordoba
+Sat Dec 6 2008,Las Palmas,2-0,1-0,Celta
+Sat Dec 6 2008,Levante,3-1,1-1,Albacete
+Sat Dec 6 2008,Sociedad,1-0,0-0,Alicante
+Sat Dec 6 2008,Vallecano,1-1,1-1,Salamanca
+Sat Dec 6 2008,Xerez,2-2,1-0,Girona
+Sat Dec 6 2008,Zaragoza,2-2,0-0,Huesca
+Sun Dec 7 2008,Hercules,2-0,0-0,Eibar
+Sun Dec 7 2008,Murcia,2-2,1-0,Tenerife
+Sun Dec 7 2008,Sevilla B,0-2,0-1,Castellon
+Sat Dec 13 2008,Albacete,2-1,1-0,Sociedad
+Sat Dec 13 2008,Alicante,1-2,0-2,Las Palmas
+Sat Dec 13 2008,Celta,2-0,0-0,Zaragoza
+Sat Dec 13 2008,Cordoba,0-1,0-1,Vallecano
+Sat Dec 13 2008,Huesca,1-0,1-0,Murcia
+Sun Dec 14 2008,Castellon,2-2,1-1,Xerez
+Sun Dec 14 2008,Eibar,1-0,0-0,Alaves
+Sun Dec 14 2008,Gimnastic,3-1,2-1,Sevilla B
+Sun Dec 14 2008,Girona,1-1,1-0,Elche
+Sun Dec 14 2008,Salamanca,3-0,1-0,Levante
+Sun Dec 14 2008,Tenerife,3-2,2-1,Hercules
+Sat Dec 20 2008,Elche,2-0,0-0,Vallecano
+Sat Dec 20 2008,Girona,1-0,1-0,Castellon
+Sat Dec 20 2008,Hercules,3-2,1-0,Huesca
+Sat Dec 20 2008,Las Palmas,3-0,2-0,Albacete
+Sat Dec 20 2008,Levante,3-0,1-0,Cordoba
+Sat Dec 20 2008,Sevilla B,0-0,0-0,Eibar
+Sat Dec 20 2008,Sociedad,1-0,0-0,Salamanca
+Sat Dec 20 2008,Zaragoza,3-0,2-0,Alicante
+Sun Dec 21 2008,Alaves,1-2,0-2,Tenerife
+Sun Dec 21 2008,Xerez,1-2,1-1,Gimnastic
+Sat Jan 3 2009,Albacete,1-1,0-1,Zaragoza
+Sat Jan 3 2009,Alicante,0-2,0-2,Murcia
+Sat Jan 3 2009,Castellon,2-2,2-2,Elche
+Sat Jan 3 2009,Eibar,1-1,1-0,Xerez
+Sat Jan 3 2009,Gimnastic,3-0,2-0,Girona
+Sat Jan 3 2009,Salamanca,2-2,2-2,Las Palmas
+Sun Jan 4 2009,Celta,2-1,0-0,Hercules
+Sun Jan 4 2009,Cordoba,2-2,1-1,Sociedad
+Sun Jan 4 2009,Huesca,2-0,1-0,Alaves
+Sun Jan 4 2009,Tenerife,2-1,1-0,Sevilla B
+Sun Jan 4 2009,Vallecano,0-0,0-0,Levante
+Sat Jan 10 2009,Alaves,1-2,0-1,Celta
+Sat Jan 10 2009,Hercules,1-2,0-1,Alicante
+Sat Jan 10 2009,Las Palmas,0-0,0-0,Cordoba
+Sat Jan 10 2009,Murcia,1-0,0-0,Albacete
+Sat Jan 10 2009,Sevilla B,1-1,1-1,Huesca
+Sat Jan 10 2009,Zaragoza,1-0,0-0,Salamanca
+Sun Jan 11 2009,Castellon,2-1,0-0,Gimnastic
+Sun Jan 11 2009,Elche,0-2,0-1,Levante
+Sun Jan 11 2009,Girona,2-0,0-0,Eibar
+Sun Jan 11 2009,Sociedad,1-1,1-0,Vallecano
+Sun Jan 11 2009,Xerez,2-0,1-0,Tenerife
+Sat Jan 17 2009,Albacete,0-3,0-1,Hercules
+Sat Jan 17 2009,Celta,2-0,0-0,Sevilla B
+Sat Jan 17 2009,Cordoba,1-0,1-0,Zaragoza
+Sat Jan 17 2009,Levante,0-2,0-1,Sociedad
+Sat Jan 17 2009,Salamanca,2-3,1-1,Murcia
+Sat Jan 17 2009,Vallecano,1-1,0-0,Las Palmas
+Sun Jan 18 2009,Alicante,0-2,0-0,Alaves
+Sun Jan 18 2009,Eibar,0-1,0-0,Castellon
+Sun Jan 18 2009,Elche,2-0,1-0,Gimnastic
+Sun Jan 18 2009,Huesca,1-1,0-1,Xerez
+Sun Jan 18 2009,Tenerife,4-1,3-0,Girona
+Wed Jan 21 2009,Murcia,1-0,1-0,Celta
+Sat Jan 24 2009,Alaves,0-2,0-1,Albacete
+Sat Jan 24 2009,Castellon,2-2,0-0,Tenerife
+Sat Jan 24 2009,Girona,2-0,1-0,Huesca
+Sat Jan 24 2009,Las Palmas,1-2,1-1,Levante
+Sat Jan 24 2009,Murcia,1-0,0-0,Cordoba
+Sat Jan 24 2009,Sociedad,0-0,0-0,Elche
+Sat Jan 24 2009,Xerez,2-0,2-0,Celta
+Sun Jan 25 2009,Hercules,2-2,0-2,Salamanca
+Sun Jan 25 2009,Sevilla B,2-3,2-0,Alicante
+Sun Jan 25 2009,Zaragoza,2-3,2-1,Vallecano
+Sat Jan 31 2009,Castellon,1-1,1-0,Huesca
+Sat Jan 31 2009,Girona,2-2,0-0,Celta
+Sat Jan 31 2009,Hercules,1-0,0-0,Cordoba
+Sat Jan 31 2009,Las Palmas,0-1,0-1,Sociedad
+Sat Jan 31 2009,Murcia,0-1,0-1,Vallecano
+Sat Jan 31 2009,Sevilla B,1-1,1-1,Albacete
+Sun Feb 1 2009,Alaves,1-1,0-0,Salamanca
+Sun Feb 1 2009,Eibar,1-2,1-0,Elche
+Sun Feb 1 2009,Gimnastic,0-1,0-0,Tenerife
+Sun Feb 1 2009,Xerez,2-0,0-0,Alicante
+Sun Feb 1 2009,Zaragoza,2-1,1-1,Levante
+Wed Feb 4 2009,Gimnastic,2-0,2-0,Eibar
+Sat Feb 7 2009,Albacete,0-2,0-1,Xerez
+Sat Feb 7 2009,Levante,2-1,1-0,Murcia
+Sat Feb 7 2009,Sociedad,1-1,1-0,Zaragoza
+Sat Feb 7 2009,Vallecano,1-0,1-0,Hercules
+Sun Feb 8 2009,Alicante,1-1,0-1,Girona
+Sun Feb 8 2009,Celta,1-2,0-2,Castellon
+Sun Feb 8 2009,Cordoba,3-0,1-0,Alaves
+Sun Feb 8 2009,Elche,1-1,1-0,Las Palmas
+Sun Feb 8 2009,Huesca,3-2,1-2,Gimnastic
+Sun Feb 8 2009,Salamanca,6-0,3-0,Sevilla B
+Sun Feb 8 2009,Tenerife,2-0,1-0,Eibar
+Sat Feb 14 2009,Eibar,2-0,2-0,Huesca
+Sat Feb 14 2009,Gimnastic,1-1,0-0,Celta
+Sat Feb 14 2009,Girona,3-3,1-1,Albacete
+Sat Feb 14 2009,Hercules,4-2,1-1,Levante
+Sat Feb 14 2009,Murcia,2-0,0-0,Sociedad
+Sat Feb 14 2009,Sevilla B,0-2,0-2,Cordoba
+Sat Feb 14 2009,Zaragoza,2-0,1-0,Las Palmas
+Sun Feb 15 2009,Alaves,0-2,0-2,Vallecano
+Sun Feb 15 2009,Castellon,2-0,1-0,Alicante
+Sun Feb 15 2009,Tenerife,3-2,1-0,Elche
+Sun Feb 15 2009,Xerez,2-1,1-0,Salamanca
+Sat Feb 21 2009,Albacete,2-0,1-0,Castellon
+Sat Feb 21 2009,Celta,1-2,0-0,Eibar
+Sat Feb 21 2009,Elche,2-0,1-0,Zaragoza
+Sat Feb 21 2009,Huesca,0-0,0-0,Tenerife
+Sat Feb 21 2009,Las Palmas,0-1,0-0,Murcia
+Sat Feb 21 2009,Vallecano,1-0,1-0,Sevilla B
+Sun Feb 22 2009,Alicante,1-3,0-1,Gimnastic
+Sun Feb 22 2009,Cordoba,1-2,0-1,Xerez
+Sun Feb 22 2009,Levante,2-3,1-2,Alaves
+Sun Feb 22 2009,Salamanca,2-2,1-1,Girona
+Sun Feb 22 2009,Sociedad,1-2,0-1,Hercules
+Sat Feb 28 2009,Alaves,2-1,0-1,Sociedad
+Sat Feb 28 2009,Girona,1-1,0-0,Cordoba
+Sat Feb 28 2009,Hercules,4-2,1-1,Las Palmas
+Sat Feb 28 2009,Huesca,3-2,1-0,Elche
+Sat Feb 28 2009,Murcia,1-4,1-1,Zaragoza
+Sat Feb 28 2009,Xerez,1-1,1-1,Vallecano
+Sun Mar 1 2009,Castellon,2-0,0-0,Salamanca
+Sun Mar 1 2009,Eibar,1-2,1-0,Alicante
+Sun Mar 1 2009,Gimnastic,1-0,1-0,Albacete
+Sun Mar 1 2009,Sevilla B,1-2,1-2,Levante
+Sun Mar 1 2009,Tenerife,3-0,2-0,Celta
+Sat Mar 7 2009,Albacete,2-0,1-0,Eibar
+Sat Mar 7 2009,Alicante,2-2,0-2,Tenerife
+Sat Mar 7 2009,Celta,0-1,0-0,Huesca
+Sat Mar 7 2009,Cordoba,2-1,0-1,Castellon
+Sat Mar 7 2009,Las Palmas,2-1,1-1,Alaves
+Sat Mar 7 2009,Vallecano,1-1,0-1,Girona
+Sun Mar 8 2009,Elche,1-1,1-1,Murcia
+Sun Mar 8 2009,Levante,2-2,2-0,Xerez
+Sun Mar 8 2009,Salamanca,4-0,1-0,Gimnastic
+Sun Mar 8 2009,Sociedad,1-0,0-0,Sevilla B
+Sun Mar 8 2009,Zaragoza,2-2,1-0,Hercules
+Sat Mar 14 2009,Alaves,2-2,1-0,Zaragoza
+Sat Mar 14 2009,Castellon,0-0,0-0,Vallecano
+Sat Mar 14 2009,Celta,2-2,1-2,Elche
+Sat Mar 14 2009,Gimnastic,2-2,1-1,Cordoba
+Sat Mar 14 2009,Sevilla B,2-2,0-1,Las Palmas
+Sat Mar 14 2009,Xerez,1-3,1-2,Sociedad
+Sun Mar 15 2009,Eibar,1-2,0-0,Salamanca
+Sun Mar 15 2009,Girona,0-0,0-0,Levante
+Sun Mar 15 2009,Hercules,3-2,2-1,Murcia
+Sun Mar 15 2009,Huesca,0-1,0-1,Alicante
+Sun Mar 15 2009,Tenerife,1-1,1-1,Albacete
+Sat Mar 21 2009,Albacete,0-2,0-2,Huesca
+Sat Mar 21 2009,Alicante,2-2,0-2,Celta
+Sat Mar 21 2009,Cordoba,1-1,0-1,Eibar
+Sat Mar 21 2009,Las Palmas,2-3,1-1,Xerez
+Sat Mar 21 2009,Levante,3-1,2-0,Castellon
+Sat Mar 21 2009,Murcia,1-0,0-0,Alaves
+Sat Mar 21 2009,Salamanca,1-2,1-1,Tenerife
+Sat Mar 21 2009,Zaragoza,4-0,2-0,Sevilla B
+Sun Mar 22 2009,Elche,2-2,0-0,Hercules
+Sun Mar 22 2009,Sociedad,2-0,0-0,Girona
+Sun Mar 22 2009,Vallecano,3-2,2-2,Gimnastic
+Sat Mar 28 2009,Castellon,0-3,0-1,Sociedad
+Sat Mar 28 2009,Celta,0-0,0-0,Albacete
+Sat Mar 28 2009,Girona,2-2,2-0,Las Palmas
+Sat Mar 28 2009,Sevilla B,3-3,0-1,Murcia
+Sat Mar 28 2009,Xerez,1-2,0-1,Zaragoza
+Sun Mar 29 2009,Alaves,1-3,1-0,Hercules
+Sun Mar 29 2009,Alicante,0-3,0-1,Elche
+Sun Mar 29 2009,Eibar,0-1,0-1,Vallecano
+Sun Mar 29 2009,Gimnastic,2-0,0-0,Levante
+Sun Mar 29 2009,Huesca,0-0,0-0,Salamanca
+Sun Mar 29 2009,Tenerife,2-0,0-0,Cordoba
+Sat Apr 4 2009,Cordoba,1-0,0-0,Huesca
+Sat Apr 4 2009,Las Palmas,1-0,1-0,Castellon
+Sat Apr 4 2009,Sociedad,0-0,0-0,Gimnastic
+Sat Apr 4 2009,Vallecano,0-0,0-0,Tenerife
+Sat Apr 4 2009,Zaragoza,1-0,0-0,Girona
+Sun Apr 5 2009,Albacete,0-2,0-1,Alicante
+Sun Apr 5 2009,Elche,1-0,1-0,Alaves
+Sun Apr 5 2009,Hercules,8-0,5-0,Sevilla B
+Sun Apr 5 2009,Levante,2-0,1-0,Eibar
+Sun Apr 5 2009,Murcia,1-2,0-1,Xerez
+Sun Apr 5 2009,Salamanca,2-1,0-1,Celta
+Sat Apr 11 2009,Castellon,1-1,0-1,Zaragoza
+Sat Apr 11 2009,Eibar,1-1,0-1,Sociedad
+Sat Apr 11 2009,Gimnastic,0-0,0-0,Las Palmas
+Sat Apr 11 2009,Girona,1-0,1-0,Murcia
+Sat Apr 11 2009,Sevilla B,1-1,1-1,Alaves
+Sat Apr 11 2009,Xerez,3-0,2-0,Hercules
+Sun Apr 12 2009,Albacete,2-1,1-1,Elche
+Sun Apr 12 2009,Alicante,0-0,0-0,Salamanca
+Sun Apr 12 2009,Celta,1-0,0-0,Cordoba
+Sun Apr 12 2009,Huesca,0-1,0-0,Vallecano
+Sun Apr 12 2009,Tenerife,5-1,3-1,Levante
+Sat Apr 18 2009,Elche,2-0,1-0,Sevilla B
+Sat Apr 18 2009,Las Palmas,1-0,1-0,Eibar
+Sat Apr 18 2009,Levante,1-0,0-0,Huesca
+Sat Apr 18 2009,Murcia,2-2,1-2,Castellon
+Sat Apr 18 2009,Salamanca,3-1,1-0,Albacete
+Sat Apr 18 2009,Sociedad,1-2,0-0,Tenerife
+Sat Apr 18 2009,Vallecano,4-1,3-0,Celta
+Sat Apr 18 2009,Zaragoza,1-0,0-0,Gimnastic
+Sun Apr 19 2009,Alaves,1-2,0-0,Xerez
+Sun Apr 19 2009,Cordoba,2-1,1-0,Alicante
+Sun Apr 19 2009,Hercules,3-0,0-0,Girona
+Sat Apr 25 2009,Albacete,1-1,0-0,Cordoba
+Sat Apr 25 2009,Castellon,0-0,0-0,Hercules
+Sat Apr 25 2009,Eibar,2-3,0-2,Zaragoza
+Sat Apr 25 2009,Gimnastic,3-0,0-0,Murcia
+Sat Apr 25 2009,Girona,0-1,0-1,Alaves
+Sat Apr 25 2009,Tenerife,2-0,0-0,Las Palmas
+Sun Apr 26 2009,Alicante,2-0,1-0,Vallecano
+Sun Apr 26 2009,Celta,2-2,1-0,Levante
+Sun Apr 26 2009,Huesca,1-2,0-2,Sociedad
+Sun Apr 26 2009,Salamanca,1-1,0-1,Elche
+Sun Apr 26 2009,Xerez,2-0,1-0,Sevilla B
+Sat May 2 2009,Las Palmas,1-1,0-0,Huesca
+Sat May 2 2009,Levante,2-0,0-0,Alicante
+Sat May 2 2009,Murcia,2-0,2-0,Eibar
+Sat May 2 2009,Sociedad,2-2,0-2,Celta
+Sat May 2 2009,Vallecano,0-3,0-1,Albacete
+Sat May 2 2009,Zaragoza,1-1,1-1,Tenerife
+Sun May 3 2009,Alaves,0-1,0-0,Castellon
+Sun May 3 2009,Cordoba,0-2,0-1,Salamanca
+Sun May 3 2009,Elche,0-1,0-0,Xerez
+Sun May 3 2009,Hercules,2-2,1-1,Gimnastic
+Sun May 3 2009,Sevilla B,2-1,1-0,Girona
+Sat May 9 2009,Albacete,0-1,0-1,Levante
+Sat May 9 2009,Celta,0-1,0-0,Las Palmas
+Sat May 9 2009,Cordoba,1-1,0-1,Elche
+Sat May 9 2009,Eibar,0-1,0-0,Hercules
+Sat May 9 2009,Huesca,0-1,0-0,Zaragoza
+Sat May 9 2009,Salamanca,0-1,0-1,Vallecano
+Sun May 10 2009,Alicante,1-2,0-0,Sociedad
+Sun May 10 2009,Castellon,3-0,2-0,Sevilla B
+Sun May 10 2009,Gimnastic,1-1,0-0,Alaves
+Sun May 10 2009,Girona,0-2,0-2,Xerez
+Sun May 10 2009,Tenerife,3-1,1-0,Murcia
+Sat May 16 2009,Alaves,1-1,0-0,Eibar
+Sat May 16 2009,Elche,2-1,1-1,Girona
+Sat May 16 2009,Hercules,3-1,3-0,Tenerife
+Sat May 16 2009,Las Palmas,0-1,0-1,Alicante
+Sat May 16 2009,Murcia,0-0,0-0,Huesca
+Sat May 16 2009,Sociedad,1-0,0-0,Albacete
+Sat May 16 2009,Vallecano,5-0,1-0,Cordoba
+Sat May 16 2009,Zaragoza,3-0,2-0,Celta
+Sun May 17 2009,Levante,1-2,0-1,Salamanca
+Sun May 17 2009,Sevilla B,1-3,1-0,Gimnastic
+Sun May 17 2009,Xerez,1-0,1-0,Castellon
+Sat May 23 2009,Albacete,1-0,1-0,Las Palmas
+Sat May 23 2009,Alicante,0-3,0-1,Zaragoza
+Sat May 23 2009,Celta,2-2,2-0,Murcia
+Sat May 23 2009,Cordoba,3-1,2-1,Levante
+Sat May 23 2009,Salamanca,0-1,0-1,Sociedad
+Sun May 24 2009,Castellon,1-2,1-0,Girona
+Sun May 24 2009,Eibar,2-2,1-0,Sevilla B
+Sun May 24 2009,Gimnastic,2-1,1-0,Xerez
+Sun May 24 2009,Huesca,0-0,0-0,Hercules
+Sun May 24 2009,Tenerife,3-0,1-0,Alaves
+Sun May 24 2009,Vallecano,1-2,0-0,Elche
+Sat May 30 2009,Alaves,3-0,1-0,Huesca
+Sat May 30 2009,Girona,2-1,0-0,Gimnastic
+Sat May 30 2009,Levante,1-0,0-0,Vallecano
+Sat May 30 2009,Murcia,3-1,2-1,Alicante
+Sat May 30 2009,Sevilla B,0-4,0-3,Tenerife
+Sat May 30 2009,Xerez,3-0,0-0,Eibar
+Sat May 30 2009,Zaragoza,3-0,2-0,Albacete
+Sun May 31 2009,Elche,0-1,0-1,Castellon
+Sun May 31 2009,Hercules,2-2,2-2,Celta
+Sun May 31 2009,Las Palmas,1-1,1-0,Salamanca
+Sun May 31 2009,Sociedad,0-2,0-0,Cordoba
+Sat Jun 6 2009,Albacete,0-0,0-0,Murcia
+Sat Jun 6 2009,Alicante,1-2,0-0,Hercules
+Sat Jun 6 2009,Celta,2-1,0-0,Alaves
+Sat Jun 6 2009,Cordoba,4-1,3-1,Las Palmas
+Sat Jun 6 2009,Gimnastic,0-1,0-1,Castellon
+Sat Jun 6 2009,Salamanca,1-3,1-2,Zaragoza
+Sat Jun 6 2009,Vallecano,4-1,2-1,Sociedad
+Sun Jun 7 2009,Eibar,2-2,0-0,Girona
+Sun Jun 7 2009,Huesca,3-0,2-0,Sevilla B
+Sun Jun 7 2009,Levante,2-0,0-0,Elche
+Sun Jun 7 2009,Tenerife,2-0,1-0,Xerez
+Sat Jun 13 2009,Alaves,1-0,0-0,Alicante
+Sun Jun 14 2009,Castellon,4-0,3-0,Eibar
+Sun Jun 14 2009,Gimnastic,2-0,1-0,Elche
+Sat Jun 13 2009,Girona,0-1,0-1,Tenerife
+Sat Jun 13 2009,Hercules,4-1,2-1,Albacete
+Sat Jun 13 2009,Las Palmas,0-0,0-0,Vallecano
+Sat Jun 13 2009,Murcia,2-1,1-0,Salamanca
+Sat Jun 13 2009,Sevilla B,0-0,0-0,Celta
+Sun Jun 14 2009,Sociedad,1-1,1-1,Levante
+Sat Jun 13 2009,Xerez,2-1,0-0,Huesca
+Sat Jun 13 2009,Zaragoza,3-1,2-0,Cordoba
+Sat Jun 20 2009,Albacete,1-0,0-0,Alaves
+Sat Jun 20 2009,Alicante,3-3,0-1,Sevilla B
+Sat Jun 20 2009,Celta,1-1,0-0,Xerez
+Sat Jun 20 2009,Cordoba,2-1,1-1,Murcia
+Sat Jun 20 2009,Eibar,1-0,1-0,Gimnastic
+Sat Jun 20 2009,Elche,1-2,1-0,Sociedad
+Sat Jun 20 2009,Huesca,3-1,2-0,Girona
+Sat Jun 20 2009,Levante,2-2,1-0,Las Palmas
+Sat Jun 20 2009,Salamanca,1-5,1-4,Hercules
+Sat Jun 20 2009,Vallecano,2-2,1-2,Zaragoza
+Sun Jun 21 2009,Tenerife,1-2,1-0,Castellon

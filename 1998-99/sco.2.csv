@@ -1,0 +1,181 @@
+Date,Team 1,FT,HT,Team 2
+Tue Aug 4 1998,Airdrie,0-0,?,Clydebank
+Tue Aug 4 1998,Falkirk,1-0,?,Ayr
+Tue Aug 4 1998,Morton,0-1,?,Hibernian
+Tue Aug 4 1998,Raith Rvs,0-2,?,Hamilton
+Wed Aug 5 1998,Stranraer,0-1,?,St Mirren
+Sat Aug 15 1998,Ayr,1-0,?,Morton
+Sat Aug 15 1998,Clydebank,0-1,?,Falkirk
+Sat Aug 15 1998,Hamilton,1-1,?,Airdrie
+Sat Aug 15 1998,Hibernian,1-2,?,Stranraer
+Sat Aug 15 1998,St Mirren,2-1,?,Raith Rvs
+Sat Aug 22 1998,Airdrie,1-0,?,St Mirren
+Sat Aug 22 1998,Falkirk,1-1,?,Hibernian
+Sat Aug 22 1998,Morton,1-2,?,Hamilton
+Sat Aug 22 1998,Raith Rvs,0-0,?,Ayr
+Sat Aug 22 1998,Stranraer,0-2,?,Clydebank
+Sat Aug 29 1998,Airdrie,0-1,?,Raith Rvs
+Sat Aug 29 1998,Falkirk,1-0,?,Stranraer
+Sat Aug 29 1998,Hamilton,0-0,?,St Mirren
+Sat Aug 29 1998,Hibernian,4-2,?,Ayr
+Sat Aug 29 1998,Morton,2-2,?,Clydebank
+Sat Sep 5 1998,Ayr,2-3,?,Hamilton
+Sat Sep 5 1998,Clydebank,2-2,?,Hibernian
+Sat Sep 5 1998,Raith Rvs,0-0,?,Morton
+Sat Sep 5 1998,St Mirren,0-2,?,Falkirk
+Sat Sep 5 1998,Stranraer,1-2,?,Airdrie
+Sat Sep 12 1998,Airdrie,0-1,?,Morton
+Sat Sep 12 1998,Clydebank,0-1,?,Ayr
+Sat Sep 12 1998,Raith Rvs,1-1,?,Falkirk
+Sat Sep 12 1998,St Mirren,2-0,?,Hibernian
+Sat Sep 12 1998,Stranraer,2-1,?,Hamilton
+Sat Sep 19 1998,Ayr,7-1,?,Stranraer
+Sat Sep 19 1998,Falkirk,0-1,?,Airdrie
+Sat Sep 19 1998,Hamilton,1-2,?,Clydebank
+Sat Sep 19 1998,Hibernian,3-1,?,Raith Rvs
+Sat Sep 19 1998,Morton,0-1,?,St Mirren
+Sat Sep 26 1998,Ayr,1-2,?,Airdrie
+Sat Sep 26 1998,Clydebank,1-0,?,St Mirren
+Sat Sep 26 1998,Falkirk,2-1,?,Morton
+Sat Sep 26 1998,Hibernian,0-0,?,Hamilton
+Sat Sep 26 1998,Stranraer,2-2,?,Raith Rvs
+Sat Oct 3 1998,Airdrie,1-3,?,Hibernian
+Sat Oct 3 1998,Hamilton,2-1,?,Falkirk
+Sat Oct 3 1998,Morton,3-0,?,Stranraer
+Sat Oct 3 1998,Raith Rvs,0-1,?,Clydebank
+Sat Oct 3 1998,St Mirren,0-2,?,Ayr
+Tue Oct 6 1998,Airdrie,3-2,?,Hamilton
+Sat Oct 10 1998,Stranraer,0-1,?,Hibernian
+Sun Oct 11 1998,Falkirk,2-2,?,Clydebank
+Sun Oct 11 1998,Morton,1-2,?,Ayr
+Sun Oct 11 1998,Raith Rvs,1-0,?,St Mirren
+Sat Oct 17 1998,Ayr,4-2,?,Falkirk
+Sat Oct 17 1998,Clydebank,0-1,?,Airdrie
+Sat Oct 17 1998,Hamilton,3-2,?,Raith Rvs
+Sat Oct 17 1998,Hibernian,2-1,?,Morton
+Sat Oct 17 1998,St Mirren,1-0,?,Stranraer
+Sat Oct 24 1998,Ayr,3-3,?,Hibernian
+Sat Oct 24 1998,St Mirren,3-2,?,Hamilton
+Tue Oct 27 1998,Clydebank,2-1,?,Morton
+Wed Oct 28 1998,Stranraer,1-2,?,Falkirk
+Sat Oct 31 1998,Airdrie,3-2,?,Stranraer
+Sat Oct 31 1998,Falkirk,1-1,?,St Mirren
+Sat Oct 31 1998,Hamilton,1-3,?,Ayr
+Sat Oct 31 1998,Hibernian,2-1,?,Clydebank
+Sat Oct 31 1998,Morton,2-0,?,Raith Rvs
+Tue Nov 3 1998,Raith Rvs,1-3,?,Airdrie
+Sat Nov 7 1998,Airdrie,0-3,?,Falkirk
+Sat Nov 7 1998,Clydebank,0-0,?,Hamilton
+Sat Nov 7 1998,Raith Rvs,1-3,?,Hibernian
+Sat Nov 7 1998,St Mirren,1-0,?,Morton
+Sat Nov 7 1998,Stranraer,0-1,?,Ayr
+Sat Nov 14 1998,Ayr,4-1,?,Clydebank
+Sat Nov 14 1998,Falkirk,1-1,?,Raith Rvs
+Sat Nov 14 1998,Hamilton,1-2,?,Stranraer
+Sat Nov 14 1998,Morton,0-0,?,Airdrie
+Sat Nov 21 1998,Airdrie,0-2,?,Ayr
+Sat Nov 21 1998,Hamilton,2-2,?,Hibernian
+Sat Nov 21 1998,Morton,0-3,?,Falkirk
+Sat Nov 21 1998,Raith Rvs,2-0,?,Stranraer
+Sat Nov 21 1998,St Mirren,0-0,?,Clydebank
+Tue Nov 24 1998,Hibernian,4-1,?,St Mirren
+Sat Nov 28 1998,Ayr,1-1,?,St Mirren
+Sat Nov 28 1998,Clydebank,1-1,?,Raith Rvs
+Sat Nov 28 1998,Falkirk,2-1,?,Hamilton
+Sat Nov 28 1998,Hibernian,1-0,?,Airdrie
+Sat Nov 28 1998,Stranraer,2-3,?,Morton
+Sat Dec 5 1998,Airdrie,2-0,?,Clydebank
+Sat Dec 5 1998,Falkirk,3-0,?,Ayr
+Sat Dec 5 1998,Morton,1-3,?,Hibernian
+Sat Dec 5 1998,Stranraer,1-2,?,St Mirren
+Tue Dec 8 1998,Raith Rvs,1-1,?,Hamilton
+Sat Dec 12 1998,Ayr,0-2,?,Raith Rvs
+Sat Dec 12 1998,Clydebank,2-1,?,Stranraer
+Sat Dec 12 1998,Hamilton,0-0,?,Morton
+Sat Dec 12 1998,Hibernian,2-1,?,Falkirk
+Sat Dec 12 1998,St Mirren,1-5,?,Airdrie
+Sat Dec 19 1998,Ayr,5-0,?,Hamilton
+Sat Dec 19 1998,Hibernian,3-0,?,Clydebank
+Sat Dec 19 1998,Raith Rvs,1-3,?,Morton
+Sat Dec 19 1998,St Mirren,0-3,?,Falkirk
+Sat Dec 19 1998,Stranraer,1-2,?,Airdrie
+Sat Dec 26 1998,Airdrie,2-2,?,Raith Rvs
+Sat Dec 26 1998,Falkirk,3-2,?,Stranraer
+Sat Dec 26 1998,Hamilton,0-0,?,St Mirren
+Sat Dec 26 1998,Hibernian,3-0,?,Ayr
+Sat Dec 26 1998,Morton,1-1,?,Clydebank
+Sat Jan 2 1999,Ayr,4-0,?,Stranraer
+Sat Jan 2 1999,Falkirk,1-1,?,Airdrie
+Sat Jan 2 1999,Hibernian,5-1,?,Raith Rvs
+Tue Jan 5 1999,Morton,0-0,?,St Mirren
+Sat Jan 9 1999,Raith Rvs,2-1,?,Falkirk
+Sat Jan 9 1999,St Mirren,1-2,?,Hibernian
+Sat Jan 9 1999,Stranraer,2-2,?,Hamilton
+Tue Jan 12 1999,Hamilton,0-1,?,Clydebank
+Sat Jan 16 1999,Ayr,0-1,?,Airdrie
+Sat Jan 16 1999,Clydebank,2-2,?,St Mirren
+Sat Jan 16 1999,Falkirk,1-2,?,Morton
+Sat Jan 16 1999,Hibernian,4-0,?,Hamilton
+Sat Jan 16 1999,Stranraer,2-0,?,Raith Rvs
+Tue Jan 19 1999,Airdrie,0-2,?,Morton
+Sat Jan 30 1999,Airdrie,1-4,?,Hibernian
+Sat Jan 30 1999,Hamilton,0-2,?,Falkirk
+Sat Jan 30 1999,Morton,1-0,?,Stranraer
+Sat Jan 30 1999,Raith Rvs,2-1,?,Clydebank
+Sat Jan 30 1999,St Mirren,1-0,?,Ayr
+Sat Feb 6 1999,Ayr,1-0,?,Morton
+Sat Feb 6 1999,Hamilton,0-2,?,Airdrie
+Sat Feb 6 1999,Hibernian,2-0,?,Stranraer
+Sat Feb 6 1999,St Mirren,3-1,?,Raith Rvs
+Sat Feb 20 1999,Falkirk,1-2,?,Hibernian
+Sat Feb 20 1999,Morton,3-0,?,Hamilton
+Sat Feb 20 1999,Raith Rvs,2-4,?,Ayr
+Sat Feb 20 1999,Stranraer,0-2,?,Clydebank
+Tue Feb 23 1999,Airdrie,0-3,?,St Mirren
+Sat Feb 27 1999,Ayr,1-3,?,Hibernian
+Sat Feb 27 1999,Raith Rvs,0-1,?,Airdrie
+Sat Feb 27 1999,St Mirren,1-0,?,Hamilton
+Sat Feb 27 1999,Stranraer,0-1,?,Falkirk
+Wed Mar 10 1999,Clydebank,1-2,?,Falkirk
+Sat Mar 13 1999,Airdrie,2-0,?,Stranraer
+Sat Mar 13 1999,Clydebank,2-0,?,Hibernian
+Sat Mar 13 1999,Falkirk,1-0,?,St Mirren
+Sat Mar 13 1999,Morton,1-1,?,Raith Rvs
+Sat Mar 20 1999,Ayr,2-2,?,St Mirren
+Sat Mar 20 1999,Clydebank,0-0,?,Raith Rvs
+Sat Mar 20 1999,Falkirk,6-1,?,Hamilton
+Sat Mar 20 1999,Hibernian,3-0,?,Airdrie
+Sat Mar 20 1999,Stranraer,0-1,?,Morton
+Wed Mar 24 1999,Hamilton,0-2,?,Ayr
+Sat Apr 3 1999,Airdrie,0-2,?,Ayr
+Sat Apr 3 1999,Hamilton,0-2,?,Hibernian
+Sat Apr 3 1999,Morton,3-2,?,Falkirk
+Sat Apr 3 1999,Raith Rvs,3-2,?,Stranraer
+Sat Apr 3 1999,St Mirren,1-1,?,Clydebank
+Sat Apr 10 1999,Airdrie,1-2,?,Falkirk
+Sat Apr 10 1999,Clydebank,0-0,?,Hamilton
+Sat Apr 10 1999,Raith Rvs,1-3,?,Hibernian
+Sat Apr 10 1999,St Mirren,1-5,?,Morton
+Sat Apr 10 1999,Stranraer,0-2,?,Ayr
+Sat Apr 17 1999,Falkirk,1-0,?,Raith Rvs
+Sat Apr 17 1999,Hamilton,1-0,?,Stranraer
+Sat Apr 17 1999,Hibernian,2-1,?,St Mirren
+Sat Apr 17 1999,Morton,0-2,?,Airdrie
+Sun Apr 18 1999,Ayr,0-0,?,Clydebank
+Wed Apr 21 1999,Clydebank,1-2,?,Morton
+Sat Apr 24 1999,Ayr,1-2,?,Falkirk
+Sat Apr 24 1999,Clydebank,0-1,?,Airdrie
+Sat Apr 24 1999,Hamilton,1-2,?,Raith Rvs
+Sat Apr 24 1999,Hibernian,2-1,?,Morton
+Sat Apr 24 1999,St Mirren,5-1,?,Stranraer
+Tue Apr 27 1999,Clydebank,2-1,?,Ayr
+Sat May 1 1999,Airdrie,1-0,?,Hamilton
+Sat May 1 1999,Falkirk,0-2,?,Clydebank
+Sat May 1 1999,Morton,1-4,?,Ayr
+Sat May 1 1999,Raith Rvs,1-1,?,St Mirren
+Sat May 1 1999,Stranraer,0-4,?,Hibernian
+Sat May 8 1999,Ayr,1-0,?,Raith Rvs
+Sat May 8 1999,Clydebank,1-2,?,Stranraer
+Sat May 8 1999,Hamilton,0-2,?,Morton
+Sat May 8 1999,Hibernian,2-1,?,Falkirk
+Sat May 8 1999,St Mirren,3-0,?,Airdrie

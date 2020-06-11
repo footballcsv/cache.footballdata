@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat May 14 2016,Flamengo RJ,1-0,?,Sport Recife
+Sat May 14 2016,Palmeiras,4-0,?,Atletico-PR
+Sat May 14 2016,Atletico-MG,1-0,?,Santos
+Sat May 14 2016,Coritiba,1-0,?,Cruzeiro
+Sun May 15 2016,Botafogo RJ,0-1,?,Sao Paulo
+Sun May 15 2016,Santa Cruz,4-1,?,Vitoria
+Sun May 15 2016,America MG,0-1,?,Fluminense
+Sun May 15 2016,Corinthians,0-0,?,Gremio
+Sun May 15 2016,Figueirense,0-0,?,Ponte Preta
+Sun May 15 2016,Internacional,0-0,?,Chapecoense-SC
+Sat May 21 2016,Ponte Preta,2-1,?,Palmeiras
+Sat May 21 2016,Fluminense,2-2,?,Santa Cruz
+Sat May 21 2016,Cruzeiro,2-2,?,Figueirense
+Sun May 22 2016,Atletico-PR,1-1,?,Atletico-MG
+Sun May 22 2016,Santos,2-1,?,Coritiba
+Sun May 22 2016,Chapecoense-SC,3-1,?,America MG
+Sun May 22 2016,Gremio,1-0,?,Flamengo RJ
+Sun May 22 2016,Sao Paulo,1-2,?,Internacional
+Sun May 22 2016,Vitoria,3-2,?,Corinthians
+Sun May 22 2016,Sport Recife,1-1,?,Botafogo RJ
+Wed May 25 2016,Botafogo RJ,2-1,?,Atletico-PR
+Wed May 25 2016,Figueirense,2-2,?,Santos
+Wed May 25 2016,America MG,1-1,?,Vitoria
+Wed May 25 2016,Flamengo RJ,2-2,?,Chapecoense-SC
+Wed May 25 2016,Coritiba,1-1,?,Sao Paulo
+Wed May 25 2016,Palmeiras,2-0,?,Fluminense
+Wed May 25 2016,Santa Cruz,4-1,?,Cruzeiro
+Thu May 26 2016,Corinthians,3-0,?,Ponte Preta
+Thu May 26 2016,Internacional,1-0,?,Sport Recife
+Thu May 26 2016,Atletico-MG,0-3,?,Gremio
+Sat May 28 2016,Cruzeiro,1-1,?,America MG
+Sat May 28 2016,Atletico-PR,2-1,?,Figueirense
+Sat May 28 2016,Chapecoense-SC,1-1,?,Santa Cruz
+Sun May 29 2016,Ponte Preta,1-2,?,Flamengo RJ
+Sun May 29 2016,Sport Recife,0-2,?,Corinthians
+Sun May 29 2016,Fluminense,1-0,?,Botafogo RJ
+Sun May 29 2016,Sao Paulo,1-0,?,Palmeiras
+Sun May 29 2016,Vitoria,1-1,?,Atletico-MG
+Sun May 29 2016,Gremio,2-0,?,Coritiba
+Sun May 29 2016,Santos,0-1,?,Internacional
+Wed Jun 1 2016,Internacional,1-0,?,Atletico-PR
+Wed Jun 1 2016,Corinthians,1-0,?,Santos
+Wed Jun 1 2016,Coritiba,3-4,?,Chapecoense-SC
+Wed Jun 1 2016,Santa Cruz,0-1,?,Sport Recife
+Wed Jun 1 2016,Atletico-MG,1-1,?,Fluminense
+Wed Jun 1 2016,Botafogo RJ,0-1,?,Cruzeiro
+Wed Jun 1 2016,Figueirense,1-0,?,Sao Paulo
+Thu Jun 2 2016,America MG,1-2,?,Ponte Preta
+Thu Jun 2 2016,Flamengo RJ,1-0,?,Vitoria
+Thu Jun 2 2016,Palmeiras,4-3,?,Gremio
+Sat Jun 4 2016,Atletico-PR,1-0,?,Santa Cruz
+Sat Jun 4 2016,Chapecoense-SC,0-0,?,Fluminense
+Sat Jun 4 2016,Corinthians,2-1,?,Coritiba
+Sun Jun 5 2016,America MG,1-0,?,Figueirense
+Sun Jun 5 2016,Santos,3-0,?,Botafogo RJ
+Sun Jun 5 2016,Flamengo RJ,1-2,?,Palmeiras
+Sun Jun 5 2016,Gremio,1-0,?,Ponte Preta
+Sun Jun 5 2016,Sport Recife,4-4,?,Atletico-MG
+Sun Jun 5 2016,Vitoria,1-0,?,Internacional
+Sun Jun 5 2016,Cruzeiro,0-1,?,Sao Paulo
+Sat Jun 11 2016,Internacional,3-1,?,America MG
+Sat Jun 11 2016,Ponte Preta,2-1,?,Chapecoense-SC
+Sat Jun 11 2016,Fluminense,1-1,?,Gremio
+Sat Jun 11 2016,Sao Paulo,1-2,?,Atletico-PR
+Sun Jun 12 2016,Botafogo RJ,1-1,?,Vitoria
+Sun Jun 12 2016,Coritiba,3-2,?,Sport Recife
+Sun Jun 12 2016,Atletico-MG,2-3,?,Cruzeiro
+Sun Jun 12 2016,Figueirense,1-0,?,Flamengo RJ
+Sun Jun 12 2016,Palmeiras,1-0,?,Corinthians
+Sun Jun 12 2016,Santa Cruz,0-2,?,Santos
+Wed Jun 15 2016,Chapecoense-SC,3-3,?,Gremio
+Wed Jun 15 2016,Ponte Preta,3-2,?,Atletico-PR
+Wed Jun 15 2016,Sao Paulo,2-0,?,Vitoria
+Wed Jun 15 2016,Botafogo RJ,3-1,?,America MG
+Wed Jun 15 2016,Santa Cruz,1-0,?,Figueirense
+Wed Jun 15 2016,Santos,2-0,?,Sport Recife
+Wed Jun 15 2016,Coritiba,2-2,?,Palmeiras
+Wed Jun 15 2016,Cruzeiro,0-1,?,Flamengo RJ
+Thu Jun 16 2016,Internacional,2-0,?,Atletico-MG
+Thu Jun 16 2016,Fluminense,1-0,?,Corinthians
+Sat Jun 18 2016,Palmeiras,3-1,?,Santa Cruz
+Sat Jun 18 2016,Atletico-PR,1-0,?,Santos
+Sat Jun 18 2016,America MG,2-1,?,Coritiba
+Sun Jun 19 2016,Atletico-MG,3-0,?,Ponte Preta
+Sun Jun 19 2016,Vitoria,1-2,?,Chapecoense-SC
+Sun Jun 19 2016,Corinthians,3-1,?,Botafogo RJ
+Sun Jun 19 2016,Figueirense,3-2,?,Internacional
+Sun Jun 19 2016,Flamengo RJ,2-2,?,Sao Paulo
+Sun Jun 19 2016,Sport Recife,2-1,?,Fluminense
+Sun Jun 19 2016,Gremio,2-0,?,Cruzeiro
+Tue Jun 21 2016,Palmeiras,2-0,?,America MG
+Wed Jun 22 2016,Ponte Preta,0-4,?,Cruzeiro
+Wed Jun 22 2016,Botafogo RJ,0-0,?,Figueirense
+Wed Jun 22 2016,Santa Cruz,0-1,?,Flamengo RJ
+Wed Jun 22 2016,Atletico-MG,2-1,?,Corinthians
+Wed Jun 22 2016,Fluminense,2-4,?,Santos
+Thu Jun 23 2016,Chapecoense-SC,0-0,?,Atletico-PR
+Thu Jun 23 2016,Gremio,1-2,?,Vitoria
+Thu Jun 23 2016,Sao Paulo,0-0,?,Sport Recife
+Thu Jun 23 2016,Coritiba,1-1,?,Internacional
+Sat Jun 25 2016,Cruzeiro,2-1,?,Palmeiras
+Sat Jun 25 2016,Corinthians,2-1,?,Santa Cruz
+Sun Jun 26 2016,America MG,0-1,?,Atletico-MG
+Sun Jun 26 2016,Atletico-PR,2-0,?,Gremio
+Sun Jun 26 2016,Flamengo RJ,1-2,?,Fluminense
+Sun Jun 26 2016,Internacional,2-3,?,Botafogo RJ
+Sun Jun 26 2016,Santos,3-0,?,Sao Paulo
+Sun Jun 26 2016,Vitoria,1-1,?,Ponte Preta
+Sun Jun 26 2016,Figueirense,0-0,?,Coritiba
+Sun Jun 26 2016,Sport Recife,5-1,?,Chapecoense-SC
+Wed Jun 29 2016,Flamengo RJ,1-0,?,Internacional
+Wed Jun 29 2016,Gremio,3-2,?,Santos
+Wed Jun 29 2016,Vitoria,3-2,?,Sport Recife
+Wed Jun 29 2016,Chapecoense-SC,3-2,?,Cruzeiro
+Wed Jun 29 2016,Coritiba,1-0,?,Atletico-PR
+Wed Jun 29 2016,America MG,0-2,?,Corinthians
+Wed Jun 29 2016,Sao Paulo,2-1,?,Fluminense
+Thu Jun 30 2016,Palmeiras,4-0,?,Figueirense
+Thu Jun 30 2016,Santa Cruz,0-3,?,Ponte Preta
+Thu Jun 30 2016,Atletico-MG,5-3,?,Botafogo RJ
+Sat Jul 2 2016,Fluminense,0-0,?,Coritiba
+Sat Jul 2 2016,Atletico-PR,1-0,?,America MG
+Sun Jul 3 2016,Cruzeiro,2-2,?,Vitoria
+Sun Jul 3 2016,Internacional,0-1,?,Gremio
+Sun Jul 3 2016,Botafogo RJ,2-1,?,Santa Cruz
+Sun Jul 3 2016,Corinthians,4-0,?,Flamengo RJ
+Sun Jul 3 2016,Ponte Preta,1-0,?,Sao Paulo
+Sun Jul 3 2016,Santos,3-0,?,Chapecoense-SC
+Sun Jul 3 2016,Figueirense,1-1,?,Atletico-MG
+Mon Jul 4 2016,Sport Recife,1-3,?,Palmeiras
+Sat Jul 9 2016,Chapecoense-SC,0-2,?,Corinthians
+Sat Jul 9 2016,Coritiba,0-0,?,Botafogo RJ
+Sat Jul 9 2016,Ponte Preta,2-1,?,Sport Recife
+Sun Jul 10 2016,Flamengo RJ,2-0,?,Atletico-MG
+Sun Jul 10 2016,Gremio,2-1,?,Figueirense
+Sun Jul 10 2016,Santa Cruz,1-0,?,Internacional
+Sun Jul 10 2016,Sao Paulo,3-0,?,America MG
+Sun Jul 10 2016,Vitoria,0-0,?,Fluminense
+Mon Jul 11 2016,Cruzeiro,0-3,?,Atletico-PR
+Tue Jul 12 2016,Palmeiras,1-1,?,Santos
+Sat Jul 16 2016,Botafogo RJ,3-3,?,Flamengo RJ
+Sat Jul 16 2016,Santos,3-1,?,Ponte Preta
+Sun Jul 17 2016,America MG,0-3,?,Santa Cruz
+Sun Jul 17 2016,Atletico-PR,1-1,?,Vitoria
+Sun Jul 17 2016,Corinthians,1-1,?,Sao Paulo
+Sun Jul 17 2016,Figueirense,1-1,?,Chapecoense-SC
+Sun Jul 17 2016,Fluminense,2-0,?,Cruzeiro
+Sun Jul 17 2016,Internacional,0-1,?,Palmeiras
+Sun Jul 17 2016,Sport Recife,4-2,?,Gremio
+Mon Jul 18 2016,Atletico-MG,2-1,?,Coritiba
+Sat Jul 23 2016,Corinthians,1-1,?,Figueirense
+Sat Jul 23 2016,Santa Cruz,0-1,?,Coritiba
+Sun Jul 24 2016,Palmeiras,0-1,?,Atletico-MG
+Sun Jul 24 2016,Ponte Preta,2-2,?,Internacional
+Sun Jul 24 2016,Atletico-PR,1-0,?,Fluminense
+Sun Jul 24 2016,Chapecoense-SC,2-1,?,Botafogo RJ
+Sun Jul 24 2016,Cruzeiro,1-2,?,Sport Recife
+Sun Jul 24 2016,Gremio,1-0,?,Sao Paulo
+Sun Jul 24 2016,Vitoria,2-3,?,Santos
+Mon Jul 25 2016,Flamengo RJ,2-1,?,America MG
+Sat Jul 30 2016,Figueirense,1-0,?,Vitoria
+Sat Jul 30 2016,Sport Recife,2-0,?,Atletico-PR
+Sat Jul 30 2016,Atletico-MG,3-0,?,Santa Cruz
+Sun Jul 31 2016,Fluminense,3-0,?,Ponte Preta
+Sun Jul 31 2016,Sao Paulo,2-2,?,Chapecoense-SC
+Sun Jul 31 2016,Coritiba,0-2,?,Flamengo RJ
+Sun Jul 31 2016,Internacional,0-1,?,Corinthians
+Sun Jul 31 2016,Santos,2-0,?,Cruzeiro
+Sun Jul 31 2016,America MG,0-0,?,Gremio
+Sun Jul 31 2016,Botafogo RJ,3-1,?,Palmeiras
+Wed Aug 3 2016,Sport Recife,1-1,?,America MG
+Wed Aug 3 2016,Vitoria,3-1,?,Coritiba
+Wed Aug 3 2016,Atletico-PR,2-0,?,Corinthians
+Wed Aug 3 2016,Santos,0-0,?,Flamengo RJ
+Thu Aug 4 2016,Ponte Preta,2-0,?,Botafogo RJ
+Thu Aug 4 2016,Gremio,0-0,?,Santa Cruz
+Thu Aug 4 2016,Sao Paulo,1-2,?,Atletico-MG
+Thu Aug 4 2016,Cruzeiro,4-2,?,Internacional
+Thu Aug 4 2016,Chapecoense-SC,1-1,?,Palmeiras
+Sat Aug 6 2016,Flamengo RJ,1-0,?,Atletico-PR
+Sun Aug 7 2016,America MG,1-0,?,Santos
+Sun Aug 7 2016,Coritiba,3-1,?,Ponte Preta
+Sun Aug 7 2016,Palmeiras,2-1,?,Vitoria
+Sun Aug 7 2016,Internacional,2-2,?,Fluminense
+Sun Aug 7 2016,Santa Cruz,1-2,?,Sao Paulo
+Sun Aug 7 2016,Figueirense,1-1,?,Sport Recife
+Mon Aug 8 2016,Atletico-MG,3-1,?,Chapecoense-SC
+Mon Aug 8 2016,Corinthians,1-1,?,Cruzeiro
+Sat Aug 13 2016,Sport Recife,1-0,?,Flamengo RJ
+Sat Aug 13 2016,Ponte Preta,2-0,?,Figueirense
+Sun Aug 14 2016,Fluminense,1-0,?,America MG
+Sun Aug 14 2016,Gremio,3-0,?,Corinthians
+Sun Aug 14 2016,Cruzeiro,2-2,?,Coritiba
+Sun Aug 14 2016,Santos,3-0,?,Atletico-MG
+Sun Aug 14 2016,Vitoria,2-2,?,Santa Cruz
+Sun Aug 14 2016,Sao Paulo,0-1,?,Botafogo RJ
+Sun Aug 14 2016,Atletico-PR,0-1,?,Palmeiras
+Mon Aug 15 2016,Chapecoense-SC,1-0,?,Internacional
+Fri Aug 19 2016,America MG,1-2,?,Chapecoense-SC
+Sat Aug 20 2016,Botafogo RJ,3-0,?,Sport Recife
+Sun Aug 21 2016,Atletico-MG,1-0,?,Atletico-PR
+Sun Aug 21 2016,Flamengo RJ,2-1,?,Gremio
+Sun Aug 21 2016,Internacional,1-1,?,Sao Paulo
+Sun Aug 21 2016,Palmeiras,2-2,?,Ponte Preta
+Sun Aug 21 2016,Santa Cruz,0-1,?,Fluminense
+Sun Aug 21 2016,Coritiba,2-1,?,Santos
+Sun Aug 21 2016,Figueirense,1-2,?,Cruzeiro
+Mon Aug 22 2016,Corinthians,2-1,?,Vitoria
+Sat Aug 27 2016,Ponte Preta,2-0,?,Corinthians
+Sun Aug 28 2016,Cruzeiro,2-0,?,Santa Cruz
+Sun Aug 28 2016,Santos,0-1,?,Figueirense
+Sun Aug 28 2016,Chapecoense-SC,1-3,?,Flamengo RJ
+Sun Aug 28 2016,Fluminense,0-2,?,Palmeiras
+Sun Aug 28 2016,Gremio,1-1,?,Atletico-MG
+Sun Aug 28 2016,Sao Paulo,0-0,?,Coritiba
+Sun Aug 28 2016,Sport Recife,1-1,?,Internacional
+Sun Aug 28 2016,Vitoria,2-1,?,America MG
+Mon Aug 29 2016,Atletico-PR,1-0,?,Botafogo RJ
+Sat Sep 3 2016,Fluminense,3-2,?,Figueirense
+Sun Sep 4 2016,Botafogo RJ,2-1,?,Gremio
+Wed Sep 7 2016,Botafogo RJ,1-0,?,Fluminense
+Wed Sep 7 2016,Figueirense,1-0,?,Atletico-PR
+Wed Sep 7 2016,Santa Cruz,2-2,?,Chapecoense-SC
+Wed Sep 7 2016,Atletico-MG,2-1,?,Vitoria
+Wed Sep 7 2016,Coritiba,4-0,?,Gremio
+Wed Sep 7 2016,Flamengo RJ,2-1,?,Ponte Preta
+Wed Sep 7 2016,Palmeiras,2-1,?,Sao Paulo
+Thu Sep 8 2016,Corinthians,3-0,?,Sport Recife
+Thu Sep 8 2016,America MG,0-2,?,Cruzeiro
+Thu Sep 8 2016,Internacional,2-1,?,Santos
+Sat Sep 10 2016,Vitoria,1-2,?,Flamengo RJ
+Sun Sep 11 2016,Chapecoense-SC,1-0,?,Coritiba
+Sun Sep 11 2016,Sao Paulo,3-1,?,Figueirense
+Sun Sep 11 2016,Atletico-PR,2-1,?,Internacional
+Sun Sep 11 2016,Cruzeiro,0-2,?,Botafogo RJ
+Sun Sep 11 2016,Santos,2-1,?,Corinthians
+Sun Sep 11 2016,Sport Recife,5-3,?,Santa Cruz
+Sun Sep 11 2016,Gremio,0-0,?,Palmeiras
+Sun Sep 11 2016,Ponte Preta,1-1,?,America MG
+Mon Sep 12 2016,Fluminense,4-2,?,Atletico-MG
+Wed Sep 14 2016,Botafogo RJ,0-1,?,Santos
+Wed Sep 14 2016,Figueirense,2-2,?,America MG
+Wed Sep 14 2016,Ponte Preta,3-0,?,Gremio
+Wed Sep 14 2016,Santa Cruz,1-0,?,Atletico-PR
+Wed Sep 14 2016,Coritiba,1-1,?,Corinthians
+Wed Sep 14 2016,Palmeiras,1-1,?,Flamengo RJ
+Thu Sep 15 2016,Atletico-MG,1-0,?,Sport Recife
+Thu Sep 15 2016,Fluminense,1-2,?,Chapecoense-SC
+Thu Sep 15 2016,Internacional,0-1,?,Vitoria
+Thu Sep 15 2016,Sao Paulo,1-0,?,Cruzeiro
+Sat Sep 17 2016,Corinthians,0-2,?,Palmeiras
+Sun Sep 18 2016,Flamengo RJ,2-0,?,Figueirense
+Sun Sep 18 2016,Atletico-PR,1-0,?,Sao Paulo
+Sun Sep 18 2016,Chapecoense-SC,2-2,?,Ponte Preta
+Sun Sep 18 2016,Cruzeiro,1-1,?,Atletico-MG
+Sun Sep 18 2016,Gremio,0-1,?,Fluminense
+Sun Sep 18 2016,Sport Recife,0-1,?,Coritiba
+Sun Sep 18 2016,Santos,3-2,?,Santa Cruz
+Sun Sep 18 2016,Vitoria,0-1,?,Botafogo RJ
+Mon Sep 19 2016,America MG,1-0,?,Internacional
+Sat Sep 24 2016,Palmeiras,2-1,?,Coritiba
+Sat Sep 24 2016,Sport Recife,1-0,?,Santos
+Sat Sep 24 2016,America MG,1-0,?,Botafogo RJ
+Sun Sep 25 2016,Atletico-PR,3-0,?,Ponte Preta
+Sun Sep 25 2016,Figueirense,3-1,?,Santa Cruz
+Sun Sep 25 2016,Corinthians,0-1,?,Fluminense
+Sun Sep 25 2016,Flamengo RJ,2-1,?,Cruzeiro
+Sun Sep 25 2016,Gremio,1-0,?,Chapecoense-SC
+Sun Sep 25 2016,Vitoria,2-0,?,Sao Paulo
+Sun Sep 25 2016,Atletico-MG,3-1,?,Internacional
+Sat Oct 1 2016,Fluminense,3-1,?,Sport Recife
+Sat Oct 1 2016,Chapecoense-SC,1-4,?,Vitoria
+Sat Oct 1 2016,Santos,2-0,?,Atletico-PR
+Sat Oct 1 2016,Sao Paulo,0-0,?,Flamengo RJ
+Sat Oct 1 2016,Botafogo RJ,2-0,?,Corinthians
+Sat Oct 1 2016,Ponte Preta,1-2,?,Atletico-MG
+Sat Oct 1 2016,Cruzeiro,1-0,?,Gremio
+Sat Oct 1 2016,Internacional,1-0,?,Figueirense
+Mon Oct 3 2016,Santa Cruz,2-3,?,Palmeiras
+Mon Oct 3 2016,Coritiba,3-0,?,America MG
+Wed Oct 5 2016,Atletico-PR,3-1,?,Chapecoense-SC
+Wed Oct 5 2016,Vitoria,0-1,?,Gremio
+Wed Oct 5 2016,Corinthians,0-0,?,Atletico-MG
+Wed Oct 5 2016,Santos,2-1,?,Fluminense
+Wed Oct 5 2016,Sport Recife,1-1,?,Sao Paulo
+Thu Oct 6 2016,Internacional,1-0,?,Coritiba
+Sat Oct 8 2016,Cruzeiro,2-0,?,Ponte Preta
+Sun Oct 9 2016,America MG,0-2,?,Palmeiras
+Sun Oct 9 2016,Figueirense,0-1,?,Botafogo RJ
+Sun Oct 9 2016,Flamengo RJ,3-0,?,Santa Cruz
+Wed Oct 12 2016,Chapecoense-SC,3-0,?,Sport Recife
+Wed Oct 12 2016,Coritiba,0-0,?,Figueirense
+Wed Oct 12 2016,Botafogo RJ,1-0,?,Internacional
+Wed Oct 12 2016,Santa Cruz,2-4,?,Corinthians
+Thu Oct 13 2016,Atletico-MG,3-0,?,America MG
+Thu Oct 13 2016,Palmeiras,0-0,?,Cruzeiro
+Thu Oct 13 2016,Ponte Preta,2-0,?,Vitoria
+Thu Oct 13 2016,Fluminense,1-2,?,Flamengo RJ
+Thu Oct 13 2016,Gremio,1-0,?,Atletico-PR
+Thu Oct 13 2016,Sao Paulo,0-1,?,Santos
+Sun Oct 16 2016,Atletico-PR,2-0,?,Coritiba
+Sun Oct 16 2016,Botafogo RJ,3-2,?,Atletico-MG
+Sun Oct 16 2016,Cruzeiro,0-0,?,Chapecoense-SC
+Sun Oct 16 2016,Figueirense,1-2,?,Palmeiras
+Sun Oct 16 2016,Internacional,2-1,?,Flamengo RJ
+Sun Oct 16 2016,Corinthians,2-0,?,America MG
+Sun Oct 16 2016,Ponte Preta,3-0,?,Santa Cruz
+Sun Oct 16 2016,Santos,1-1,?,Gremio
+Sun Oct 16 2016,Sport Recife,1-0,?,Vitoria
+Mon Oct 17 2016,Fluminense,1-2,?,Sao Paulo
+Wed Oct 19 2016,Santa Cruz,0-1,?,Botafogo RJ
+Sat Oct 22 2016,Sao Paulo,2-0,?,Ponte Preta
+Sun Oct 23 2016,Flamengo RJ,2-2,?,Corinthians
+Sun Oct 23 2016,Gremio,0-0,?,Internacional
+Sun Oct 23 2016,Palmeiras,2-1,?,Sport Recife
+Sun Oct 23 2016,Vitoria,0-1,?,Cruzeiro
+Sun Oct 23 2016,Coritiba,1-1,?,Fluminense
+Sun Oct 23 2016,Atletico-MG,3-0,?,Figueirense
+Sun Oct 23 2016,Chapecoense-SC,0-1,?,Santos
+Mon Oct 24 2016,America MG,1-0,?,Atletico-PR
+Thu Oct 27 2016,Sport Recife,1-0,?,Ponte Preta
+Fri Oct 28 2016,Fluminense,2-2,?,Vitoria
+Sat Oct 29 2016,Atletico-MG,2-2,?,Flamengo RJ
+Sat Oct 29 2016,Atletico-PR,1-0,?,Cruzeiro
+Sat Oct 29 2016,Corinthians,1-1,?,Chapecoense-SC
+Sat Oct 29 2016,Botafogo RJ,0-0,?,Coritiba
+Sat Oct 29 2016,Internacional,1-1,?,Santa Cruz
+Sat Oct 29 2016,Figueirense,0-0,?,Gremio
+Sat Oct 29 2016,Santos,1-0,?,Palmeiras
+Mon Oct 31 2016,America MG,1-0,?,Sao Paulo
+Sat Nov 5 2016,Flamengo RJ,0-0,?,Botafogo RJ
+Sat Nov 5 2016,Sao Paulo,4-0,?,Corinthians
+Sun Nov 6 2016,Ponte Preta,1-2,?,Santos
+Sun Nov 6 2016,Cruzeiro,4-2,?,Fluminense
+Sun Nov 6 2016,Palmeiras,1-0,?,Internacional
+Sun Nov 6 2016,Santa Cruz,1-0,?,America MG
+Sun Nov 6 2016,Vitoria,3-2,?,Atletico-PR
+Sun Nov 6 2016,Chapecoense-SC,1-0,?,Figueirense
+Sun Nov 6 2016,Coritiba,2-0,?,Atletico-MG
+Mon Nov 7 2016,Gremio,0-3,?,Sport Recife
+Tue Nov 15 2016,Fluminense,1-1,?,Atletico-PR
+Wed Nov 16 2016,Botafogo RJ,0-2,?,Chapecoense-SC
+Wed Nov 16 2016,Coritiba,1-0,?,Santa Cruz
+Wed Nov 16 2016,America MG,0-1,?,Flamengo RJ
+Wed Nov 16 2016,Figueirense,1-1,?,Corinthians
+Wed Nov 16 2016,Sport Recife,0-1,?,Cruzeiro
+Thu Nov 17 2016,Santos,3-2,?,Vitoria
+Thu Nov 17 2016,Sao Paulo,1-1,?,Gremio
+Thu Nov 17 2016,Atletico-MG,1-1,?,Palmeiras
+Thu Nov 17 2016,Internacional,1-1,?,Ponte Preta
+Sun Nov 20 2016,Atletico-PR,2-0,?,Sport Recife
+Sun Nov 20 2016,Cruzeiro,2-2,?,Santos
+Sun Nov 20 2016,Gremio,3-0,?,America MG
+Sun Nov 20 2016,Palmeiras,1-0,?,Botafogo RJ
+Sun Nov 20 2016,Ponte Preta,1-0,?,Fluminense
+Sun Nov 20 2016,Vitoria,4-0,?,Figueirense
+Sun Nov 20 2016,Chapecoense-SC,2-0,?,Sao Paulo
+Sun Nov 20 2016,Flamengo RJ,2-2,?,Coritiba
+Sun Nov 20 2016,Santa Cruz,3-3,?,Atletico-MG
+Mon Nov 21 2016,Corinthians,1-0,?,Internacional
+Sat Nov 26 2016,America MG,2-2,?,Sport Recife
+Sat Nov 26 2016,Botafogo RJ,1-1,?,Ponte Preta
+Sat Nov 26 2016,Corinthians,0-0,?,Atletico-PR
+Sun Nov 27 2016,Atletico-MG,1-2,?,Sao Paulo
+Sun Nov 27 2016,Flamengo RJ,2-0,?,Santos
+Sun Nov 27 2016,Internacional,1-0,?,Cruzeiro
+Sun Nov 27 2016,Palmeiras,1-0,?,Chapecoense-SC
+Sun Nov 27 2016,Figueirense,1-0,?,Fluminense
+Sun Nov 27 2016,Santa Cruz,5-1,?,Gremio
+Mon Nov 28 2016,Coritiba,0-1,?,Vitoria
+Sun Dec 11 2016,Atletico-PR,0-0,?,Flamengo RJ
+Sun Dec 11 2016,Chapecoense-SC,?,?,Atletico-MG
+Sun Dec 11 2016,Cruzeiro,3-2,?,Corinthians
+Sun Dec 11 2016,Fluminense,1-1,?,Internacional
+Sun Dec 11 2016,Gremio,0-1,?,Botafogo RJ
+Sun Dec 11 2016,Ponte Preta,2-0,?,Coritiba
+Sun Dec 11 2016,Santos,1-0,?,America MG
+Sun Dec 11 2016,Sao Paulo,5-0,?,Santa Cruz
+Sun Dec 11 2016,Sport Recife,2-0,?,Figueirense
+Sun Dec 11 2016,Vitoria,1-2,?,Palmeiras

@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Thu Aug 20 1998,Heerenveen,1-0,1-0,Twente
+Fri Aug 21 1998,For Sittard,1-2,0-0,Feyenoord
+Sat Aug 22 1998,AZ Alkmaar,2-0,1-0,Sparta
+Sat Aug 22 1998,Cambuur,1-1,0-1,PSV Eindhoven
+Sat Aug 22 1998,MVV Maastricht,1-2,1-1,Graafschap
+Sat Aug 22 1998,Vitesse,1-0,0-0,Roda JC
+Sat Aug 22 1998,Waalwijk,0-1,0-1,Nijmegen
+Sun Aug 23 1998,Ajax,2-0,2-0,Willem II
+Sun Aug 23 1998,NAC Breda,2-4,1-1,Utrecht
+Fri Aug 28 1998,Roda JC,0-2,0-0,Ajax
+Sat Aug 29 1998,AZ Alkmaar,0-0,0-0,Vitesse
+Sat Aug 29 1998,PSV Eindhoven,1-2,0-1,Heerenveen
+Sat Aug 29 1998,Willem II,1-0,1-0,For Sittard
+Sun Aug 30 1998,Feyenoord,3-1,1-0,MVV Maastricht
+Sun Aug 30 1998,Nijmegen,1-1,1-0,NAC Breda
+Sun Aug 30 1998,Twente,1-0,1-0,Sparta
+Sun Aug 30 1998,Utrecht,3-0,1-0,Cambuur
+Sat Sep 5 1998,Graafschap,2-2,1-1,Waalwijk
+Sun Sep 6 1998,Sparta,1-1,0-1,Roda JC
+Tue Sep 8 1998,Feyenoord,5-0,1-0,Graafschap
+Tue Sep 8 1998,Heerenveen,2-2,1-0,Willem II
+Tue Sep 8 1998,Waalwijk,3-4,2-3,PSV Eindhoven
+Wed Sep 9 1998,Ajax,5-1,2-0,AZ Alkmaar
+Wed Sep 9 1998,Cambuur,2-2,1-0,Nijmegen
+Wed Sep 9 1998,For Sittard,0-2,0-0,Vitesse
+Wed Sep 9 1998,MVV Maastricht,1-4,1-2,Utrecht
+Wed Sep 9 1998,NAC Breda,1-1,1-1,Twente
+Fri Sep 11 1998,Heerenveen,0-1,0-0,Feyenoord
+Sat Sep 12 1998,For Sittard,2-2,0-0,AZ Alkmaar
+Sat Sep 12 1998,PSV Eindhoven,2-0,1-0,MVV Maastricht
+Sat Sep 12 1998,Roda JC,3-1,2-0,NAC Breda
+Sat Sep 12 1998,Vitesse,4-2,3-1,Cambuur
+Sat Sep 12 1998,Willem II,3-2,2-1,Sparta
+Sun Sep 13 1998,Graafschap,2-1,1-0,Nijmegen
+Sun Sep 13 1998,Twente,1-0,1-0,Waalwijk
+Sun Sep 13 1998,Utrecht,2-2,1-1,Ajax
+Fri Sep 18 1998,Nijmegen,3-1,1-1,Roda JC
+Sat Sep 19 1998,AZ Alkmaar,1-1,1-1,Willem II
+Sat Sep 19 1998,Cambuur,0-2,0-0,Twente
+Sat Sep 19 1998,MVV Maastricht,4-2,0-1,Vitesse
+Sun Sep 20 1998,Ajax,1-1,1-1,Graafschap
+Sun Sep 20 1998,Sparta,0-2,0-0,NAC Breda
+Sun Sep 20 1998,Utrecht,1-1,0-0,For Sittard
+Sun Sep 20 1998,Waalwijk,0-4,0-0,Heerenveen
+Tue Sep 22 1998,PSV Eindhoven,1-2,1-1,Feyenoord
+Wed Sep 23 1998,For Sittard,1-0,0-0,Ajax
+Wed Sep 23 1998,Graafschap,0-3,0-2,Sparta
+Wed Sep 23 1998,Heerenveen,1-0,1-0,Utrecht
+Wed Sep 23 1998,NAC Breda,1-1,0-1,AZ Alkmaar
+Wed Sep 23 1998,Twente,2-1,0-0,MVV Maastricht
+Wed Sep 23 1998,Vitesse,2-0,1-0,Waalwijk
+Wed Sep 23 1998,Willem II,2-1,2-1,Cambuur
+Sat Sep 26 1998,Cambuur,2-0,1-0,Graafschap
+Sat Sep 26 1998,Feyenoord,3-2,1-1,Willem II
+Sat Sep 26 1998,For Sittard,0-1,0-1,MVV Maastricht
+Sat Sep 26 1998,Nijmegen,2-0,1-0,Heerenveen
+Sat Sep 26 1998,Roda JC,0-0,0-0,Waalwijk
+Sat Sep 26 1998,Vitesse,5-1,2-0,Sparta
+Sun Sep 27 1998,Ajax,1-0,0-0,NAC Breda
+Sun Sep 27 1998,AZ Alkmaar,4-1,2-1,PSV Eindhoven
+Sun Sep 27 1998,Utrecht,0-3,0-2,Twente
+Sat Oct 3 1998,MVV Maastricht,3-0,2-0,Cambuur
+Sat Oct 3 1998,PSV Eindhoven,2-0,1-0,For Sittard
+Sat Oct 3 1998,Willem II,1-2,0-1,Roda JC
+Sun Oct 4 1998,Graafschap,0-0,0-0,Vitesse
+Sun Oct 4 1998,Heerenveen,2-1,1-1,NAC Breda
+Sun Oct 4 1998,Sparta,2-0,1-0,Ajax
+Sun Oct 4 1998,Twente,1-1,0-0,Feyenoord
+Sun Oct 4 1998,Utrecht,2-3,0-2,Nijmegen
+Sun Oct 4 1998,Waalwijk,2-3,2-1,AZ Alkmaar
+Fri Oct 16 1998,AZ Alkmaar,1-3,1-1,Heerenveen
+Sat Oct 17 1998,Cambuur,1-1,0-1,Waalwijk
+Sat Oct 17 1998,Feyenoord,0-0,0-0,Roda JC
+Sat Oct 17 1998,For Sittard,2-1,2-1,Sparta
+Sat Oct 17 1998,NAC Breda,2-0,1-0,MVV Maastricht
+Sat Oct 17 1998,Vitesse,3-2,3-2,Willem II
+Sun Oct 18 1998,Ajax,5-0,3-0,Twente
+Sun Oct 18 1998,Graafschap,0-0,0-0,Utrecht
+Sun Oct 18 1998,Nijmegen,2-2,1-0,PSV Eindhoven
+Fri Oct 23 1998,Nijmegen,2-2,1-1,AZ Alkmaar
+Fri Oct 23 1998,Roda JC,5-3,1-1,For Sittard
+Sat Oct 24 1998,MVV Maastricht,1-0,1-0,Waalwijk
+Sat Oct 24 1998,Twente,2-1,0-1,Graafschap
+Sun Oct 25 1998,Ajax,4-0,1-0,Cambuur
+Sun Oct 25 1998,Sparta,3-1,1-0,Heerenveen
+Sun Oct 25 1998,Utrecht,2-3,2-1,Feyenoord
+Sun Oct 25 1998,Willem II,4-2,2-1,PSV Eindhoven
+Fri Oct 30 1998,For Sittard,0-3,0-2,Twente
+Sat Oct 31 1998,Cambuur,3-1,2-1,NAC Breda
+Sat Oct 31 1998,Feyenoord,1-2,0-1,AZ Alkmaar
+Sat Oct 31 1998,Heerenveen,2-1,1-0,Vitesse
+Sat Oct 31 1998,MVV Maastricht,1-1,0-0,Willem II
+Sat Oct 31 1998,PSV Eindhoven,4-0,4-0,Sparta
+Sun Nov 1 1998,Nijmegen,0-4,0-2,Ajax
+Sun Nov 1 1998,Utrecht,0-3,0-1,Roda JC
+Sun Nov 1 1998,Waalwijk,1-2,1-0,Graafschap
+Fri Nov 6 1998,Waalwijk,2-5,1-1,Utrecht
+Sat Nov 7 1998,Graafschap,2-2,0-0,Willem II
+Sat Nov 7 1998,Roda JC,1-0,1-0,Cambuur
+Sun Nov 8 1998,AZ Alkmaar,1-1,0-1,Ajax
+Sun Nov 8 1998,Heerenveen,2-0,2-0,For Sittard
+Sun Nov 8 1998,Sparta,0-0,0-0,MVV Maastricht
+Sun Nov 8 1998,Twente,2-2,1-1,PSV Eindhoven
+Sun Nov 8 1998,Vitesse,1-0,0-0,Nijmegen
+Wed Nov 11 1998,Ajax,2-1,2-0,Roda JC
+Wed Nov 11 1998,Cambuur,0-0,0-0,AZ Alkmaar
+Wed Nov 11 1998,For Sittard,0-0,0-0,Graafschap
+Wed Nov 11 1998,MVV Maastricht,1-3,0-2,Feyenoord
+Wed Nov 11 1998,NAC Breda,1-2,1-2,Nijmegen
+Wed Nov 11 1998,Twente,1-2,0-1,Heerenveen
+Wed Nov 11 1998,Willem II,3-0,1-0,Waalwijk
+Thu Nov 12 1998,PSV Eindhoven,3-1,2-0,Vitesse
+Sat Nov 14 1998,Graafschap,2-3,0-1,Roda JC
+Sat Nov 14 1998,MVV Maastricht,2-1,1-0,AZ Alkmaar
+Sat Nov 14 1998,Nijmegen,2-2,1-2,Twente
+Sun Nov 15 1998,Ajax,2-2,1-2,PSV Eindhoven
+Sun Nov 15 1998,Feyenoord,4-1,1-1,For Sittard
+Sun Nov 15 1998,Vitesse,2-0,1-0,Utrecht
+Sun Nov 15 1998,Waalwijk,5-1,3-1,Sparta
+Sun Nov 15 1998,Willem II,2-1,2-0,NAC Breda
+Fri Nov 20 1998,MVV Maastricht,0-3,0-0,Nijmegen
+Sat Nov 21 1998,Feyenoord,4-0,2-0,Cambuur
+Sat Nov 21 1998,Graafschap,1-1,0-0,Heerenveen
+Sat Nov 21 1998,NAC Breda,1-1,0-1,For Sittard
+Sat Nov 21 1998,Roda JC,3-1,1-1,Vitesse
+Sat Nov 21 1998,Twente,5-1,2-0,Willem II
+Sun Nov 22 1998,PSV Eindhoven,5-0,2-0,Utrecht
+Sun Nov 22 1998,Sparta,0-0,0-0,AZ Alkmaar
+Sun Nov 22 1998,Waalwijk,0-1,0-1,Ajax
+Tue Nov 24 1998,Heerenveen,1-1,1-0,Cambuur
+Fri Nov 27 1998,Cambuur,3-1,0-1,For Sittard
+Fri Nov 27 1998,Roda JC,2-1,0-1,MVV Maastricht
+Sat Nov 28 1998,PSV Eindhoven,2-2,2-1,Graafschap
+Sun Nov 29 1998,Sparta,1-2,0-1,Feyenoord
+Sun Nov 29 1998,Utrecht,2-0,0-0,Willem II
+Sun Nov 29 1998,Vitesse,3-2,3-0,Ajax
+Tue Dec 1 1998,Heerenveen,3-3,0-2,PSV Eindhoven
+Wed Dec 2 1998,AZ Alkmaar,1-0,1-0,Roda JC
+Wed Dec 2 1998,Cambuur,1-1,1-0,Utrecht
+Wed Dec 2 1998,Nijmegen,3-1,2-1,Sparta
+Thu Dec 3 1998,For Sittard,3-2,0-0,Waalwijk
+Fri Dec 4 1998,Willem II,3-5,1-0,Vitesse
+Sun Dec 6 1998,Ajax,1-1,0-0,MVV Maastricht
+Sun Dec 6 1998,AZ Alkmaar,1-1,1-1,Twente
+Sun Dec 6 1998,Feyenoord,1-0,0-0,Nijmegen
+Sun Dec 6 1998,NAC Breda,3-4,2-2,PSV Eindhoven
+Sun Dec 6 1998,Sparta,1-2,1-2,Cambuur
+Sun Dec 6 1998,Utrecht,2-1,1-1,Graafschap
+Wed Dec 9 1998,NAC Breda,0-2,0-1,Vitesse
+Thu Dec 10 1998,Waalwijk,0-5,0-2,Feyenoord
+Fri Dec 11 1998,MVV Maastricht,3-3,2-1,For Sittard
+Sat Dec 12 1998,PSV Eindhoven,3-3,1-1,Roda JC
+Sat Dec 12 1998,Willem II,1-0,0-0,Nijmegen
+Sun Dec 13 1998,Ajax,0-0,0-0,Heerenveen
+Sun Dec 13 1998,AZ Alkmaar,4-3,1-1,Utrecht
+Sun Dec 13 1998,Graafschap,0-1,0-1,NAC Breda
+Sun Dec 13 1998,Sparta,4-2,1-1,Twente
+Sun Dec 13 1998,Vitesse,1-1,0-0,Feyenoord
+Wed Dec 16 1998,NAC Breda,2-3,0-2,Cambuur
+Wed Dec 16 1998,Nijmegen,1-1,1-1,Waalwijk
+Wed Dec 16 1998,Roda JC,2-0,0-0,Twente
+Fri Dec 18 1998,Heerenveen,1-1,0-0,MVV Maastricht
+Sat Dec 19 1998,Graafschap,1-1,1-1,AZ Alkmaar
+Sat Dec 19 1998,PSV Eindhoven,1-0,0-0,Willem II
+Sat Dec 19 1998,Twente,0-0,0-0,Vitesse
+Sun Dec 20 1998,Feyenoord,1-1,0-1,Ajax
+Sun Dec 20 1998,Nijmegen,0-3,0-2,For Sittard
+Sun Dec 20 1998,Utrecht,4-1,3-0,Sparta
+Sun Dec 20 1998,Waalwijk,2-1,1-1,NAC Breda
+Fri Feb 5 1999,Nijmegen,1-1,0-0,Graafschap
+Sat Feb 6 1999,For Sittard,2-0,0-0,NAC Breda
+Sat Feb 6 1999,Twente,0-3,0-2,AZ Alkmaar
+Sat Feb 6 1999,Willem II,3-2,0-0,Heerenveen
+Sun Feb 7 1999,Waalwijk,2-2,2-1,MVV Maastricht
+Tue Feb 9 1999,Roda JC,5-2,3-2,Nijmegen
+Sun Feb 14 1999,Sparta,0-1,0-0,Utrecht
+Sun Feb 14 1999,Twente,2-1,1-1,Ajax
+Wed Feb 17 1999,Heerenveen,2-2,1-0,Ajax
+Wed Feb 17 1999,Nijmegen,0-3,0-1,Willem II
+Wed Feb 17 1999,Vitesse,3-1,2-1,NAC Breda
+Wed Feb 17 1999,Waalwijk,0-0,0-0,For Sittard
+Thu Feb 18 1999,PSV Eindhoven,3-0,0-0,Twente
+Sat Feb 20 1999,AZ Alkmaar,2-1,0-1,Waalwijk
+Sat Feb 20 1999,For Sittard,2-0,1-0,Cambuur
+Sat Feb 20 1999,Roda JC,1-0,0-0,Sparta
+Sat Feb 20 1999,Vitesse,2-1,1-1,MVV Maastricht
+Sun Feb 21 1999,Feyenoord,3-1,2-0,PSV Eindhoven
+Sun Feb 21 1999,Graafschap,0-2,0-2,Twente
+Sun Feb 21 1999,Utrecht,2-2,1-1,Heerenveen
+Wed Feb 24 1999,Feyenoord,1-0,0-0,Waalwijk
+Wed Feb 24 1999,NAC Breda,0-1,0-0,Graafschap
+Fri Feb 26 1999,Cambuur,2-2,2-1,Vitesse
+Sat Feb 27 1999,Nijmegen,1-1,0-1,MVV Maastricht
+Sat Feb 27 1999,PSV Eindhoven,2-0,1-0,NAC Breda
+Sat Feb 27 1999,Roda JC,8-2,6-0,AZ Alkmaar
+Sat Feb 27 1999,Willem II,1-0,0-0,Utrecht
+Sun Feb 28 1999,Ajax,5-1,2-1,Sparta
+Sun Feb 28 1999,Feyenoord,2-1,0-0,Heerenveen
+Fri Mar 5 1999,Roda JC,1-3,0-1,PSV Eindhoven
+Sat Mar 6 1999,AZ Alkmaar,3-1,1-1,Cambuur
+Sat Mar 6 1999,MVV Maastricht,2-5,0-0,Twente
+Sat Mar 6 1999,NAC Breda,2-2,1-1,Heerenveen
+Sat Mar 6 1999,Vitesse,1-2,0-1,For Sittard
+Sun Mar 7 1999,Ajax,5-2,2-0,Utrecht
+Sun Mar 7 1999,Graafschap,3-4,2-1,Feyenoord
+Sun Mar 7 1999,Sparta,1-0,0-0,Nijmegen
+Sun Mar 7 1999,Waalwijk,1-3,0-1,Willem II
+Sat Mar 13 1999,Heerenveen,2-0,2-0,Waalwijk
+Sat Mar 13 1999,PSV Eindhoven,3-0,1-0,Cambuur
+Sat Mar 13 1999,Willem II,2-0,1-0,Graafschap
+Sun Mar 14 1999,Sparta,1-3,0-3,Vitesse
+Sun Mar 14 1999,Twente,0-0,0-0,Roda JC
+Sun Mar 14 1999,Utrecht,2-2,1-1,AZ Alkmaar
+Tue Mar 16 1999,MVV Maastricht,1-4,0-3,Ajax
+Wed Mar 17 1999,Cambuur,1-5,1-5,Feyenoord
+Wed Mar 17 1999,For Sittard,3-2,3-1,Utrecht
+Wed Mar 17 1999,NAC Breda,0-2,0-1,Waalwijk
+Thu Mar 18 1999,Roda JC,0-2,0-1,Willem II
+Fri Mar 19 1999,Twente,2-0,1-0,Nijmegen
+Sat Mar 20 1999,AZ Alkmaar,0-3,0-2,For Sittard
+Sat Mar 20 1999,Cambuur,1-0,0-0,MVV Maastricht
+Sat Mar 20 1999,Heerenveen,4-1,2-0,Graafschap
+Sun Mar 21 1999,Ajax,0-1,0-1,Vitesse
+Sun Mar 21 1999,Sparta,0-5,0-1,PSV Eindhoven
+Sun Mar 21 1999,Utrecht,2-0,0-0,NAC Breda
+Sun Mar 21 1999,Willem II,4-1,3-0,Feyenoord
+Tue Mar 23 1999,Roda JC,2-1,1-0,Heerenveen
+Sat Mar 27 1999,Graafschap,3-1,1-0,MVV Maastricht
+Thu Apr 1 1999,MVV Maastricht,0-0,0-0,Roda JC
+Fri Apr 2 1999,AZ Alkmaar,0-2,0-1,Feyenoord
+Fri Apr 2 1999,For Sittard,1-0,0-0,Heerenveen
+Fri Apr 2 1999,Nijmegen,1-0,1-0,Cambuur
+Fri Apr 2 1999,Sparta,2-3,1-1,Graafschap
+Sat Apr 3 1999,Waalwijk,0-2,0-2,Vitesse
+Sun Apr 4 1999,NAC Breda,2-2,1-2,Willem II
+Sun Apr 4 1999,PSV Eindhoven,3-1,0-1,Ajax
+Mon Apr 5 1999,Feyenoord,1-0,1-0,Sparta
+Mon Apr 5 1999,Twente,1-1,1-0,Utrecht
+Tue Apr 6 1999,Cambuur,1-1,0-0,Roda JC
+Wed Apr 7 1999,For Sittard,1-2,1-0,Willem II
+Fri Apr 9 1999,MVV Maastricht,1-1,0-1,PSV Eindhoven
+Fri Apr 9 1999,Sparta,0-1,0-0,Waalwijk
+Sat Apr 10 1999,Graafschap,0-0,0-0,For Sittard
+Sat Apr 10 1999,Heerenveen,3-2,0-0,Nijmegen
+Sat Apr 10 1999,NAC Breda,0-0,0-0,Roda JC
+Sat Apr 10 1999,Vitesse,1-1,1-0,Twente
+Sat Apr 10 1999,Willem II,2-0,1-0,AZ Alkmaar
+Sun Apr 11 1999,Cambuur,4-1,2-1,Ajax
+Sun Apr 11 1999,Feyenoord,4-2,2-2,Utrecht
+Tue Apr 13 1999,AZ Alkmaar,3-0,0-0,NAC Breda
+Fri Apr 16 1999,Vitesse,1-2,1-1,Heerenveen
+Sat Apr 17 1999,AZ Alkmaar,1-3,0-2,Graafschap
+Sat Apr 17 1999,MVV Maastricht,1-1,0-0,Sparta
+Sat Apr 17 1999,PSV Eindhoven,2-0,1-0,Nijmegen
+Sat Apr 17 1999,Twente,0-0,0-0,Cambuur
+Sun Apr 18 1999,Ajax,1-3,0-0,For Sittard
+Sun Apr 18 1999,NAC Breda,0-1,0-1,Feyenoord
+Sun Apr 18 1999,Utrecht,1-1,1-1,Waalwijk
+Tue Apr 20 1999,Vitesse,3-3,2-1,PSV Eindhoven
+Wed Apr 21 1999,Ajax,3-0,2-0,Nijmegen
+Fri Apr 23 1999,Graafschap,1-0,1-0,PSV Eindhoven
+Sat Apr 24 1999,Cambuur,2-4,2-1,Sparta
+Sat Apr 24 1999,Heerenveen,2-1,0-0,AZ Alkmaar
+Sun Apr 25 1999,Feyenoord,2-2,2-1,NAC Breda
+Sun Apr 25 1999,For Sittard,0-1,0-0,Roda JC
+Sun Apr 25 1999,Nijmegen,3-1,0-0,Vitesse
+Sun Apr 25 1999,Utrecht,0-2,0-1,MVV Maastricht
+Sun Apr 25 1999,Waalwijk,2-2,2-1,Twente
+Sun Apr 25 1999,Willem II,3-1,1-0,Ajax
+Fri Apr 30 1999,MVV Maastricht,3-3,1-1,NAC Breda
+Sat May 1 1999,Cambuur,0-0,0-0,Heerenveen
+Sat May 1 1999,PSV Eindhoven,2-2,1-0,Waalwijk
+Sat May 1 1999,Roda JC,3-1,1-0,Graafschap
+Sat May 1 1999,Twente,2-2,1-1,For Sittard
+Sat May 1 1999,Vitesse,0-1,0-1,AZ Alkmaar
+Sun May 2 1999,Ajax,6-0,1-0,Feyenoord
+Sun May 2 1999,Nijmegen,0-1,0-1,Utrecht
+Sun May 2 1999,Sparta,0-4,0-2,Willem II
+Fri May 7 1999,For Sittard,6-4,3-1,PSV Eindhoven
+Sat May 8 1999,AZ Alkmaar,1-1,0-0,Nijmegen
+Sat May 8 1999,Heerenveen,2-2,1-1,Roda JC
+Sat May 8 1999,NAC Breda,5-0,2-0,Sparta
+Sat May 8 1999,Willem II,4-1,2-0,MVV Maastricht
+Sun May 9 1999,Feyenoord,3-1,2-0,Twente
+Sun May 9 1999,Graafschap,1-3,1-0,Ajax
+Sun May 9 1999,Utrecht,1-2,0-1,Vitesse
+Sun May 9 1999,Waalwijk,4-1,3-1,Cambuur
+Wed May 12 1999,Roda JC,1-0,0-0,Feyenoord
+Sun May 16 1999,Ajax,2-0,1-0,Waalwijk
+Sun May 16 1999,Cambuur,0-2,0-0,Willem II
+Sun May 16 1999,MVV Maastricht,1-0,1-0,Heerenveen
+Sun May 16 1999,Nijmegen,0-3,0-1,Feyenoord
+Sun May 16 1999,PSV Eindhoven,7-1,4-0,AZ Alkmaar
+Sun May 16 1999,Roda JC,3-0,1-0,Utrecht
+Sun May 16 1999,Sparta,5-0,2-0,For Sittard
+Sun May 16 1999,Twente,2-2,1-1,NAC Breda
+Sun May 16 1999,Vitesse,2-1,1-0,Graafschap
+Fri May 21 1999,For Sittard,2-3,1-0,Nijmegen
+Sat May 22 1999,Graafschap,2-2,0-1,Cambuur
+Sun May 23 1999,AZ Alkmaar,4-2,1-0,MVV Maastricht
+Sun May 23 1999,Feyenoord,2-1,0-1,Vitesse
+Sun May 23 1999,Heerenveen,0-0,0-0,Sparta
+Sun May 23 1999,NAC Breda,2-2,0-0,Ajax
+Sun May 23 1999,Utrecht,2-3,2-0,PSV Eindhoven
+Sun May 23 1999,Waalwijk,4-1,1-1,Roda JC
+Sun May 23 1999,Willem II,1-2,1-0,Twente

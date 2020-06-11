@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 16 2002,Roosendaal,1-1,1-0,Zwolle
+Sat Aug 17 2002,AZ Alkmaar,3-3,1-2,Heerenveen
+Sat Aug 17 2002,Excelsior,0-2,0-2,PSV Eindhoven
+Sat Aug 17 2002,NAC Breda,2-2,1-0,Roda JC
+Sat Aug 17 2002,Twente,0-2,0-0,Willem II
+Sun Aug 18 2002,Ajax,3-1,1-1,Utrecht
+Sun Aug 18 2002,Feyenoord,2-0,0-0,Nijmegen
+Sun Aug 18 2002,Groningen,1-2,1-1,Vitesse
+Sun Aug 18 2002,Waalwijk,4-2,1-0,Graafschap
+Fri Aug 23 2002,Nijmegen,2-0,1-0,AZ Alkmaar
+Sat Aug 24 2002,Graafschap,2-0,1-0,Roosendaal
+Sat Aug 24 2002,Heerenveen,1-2,1-0,Waalwijk
+Sat Aug 24 2002,PSV Eindhoven,1-0,0-0,Groningen
+Sat Aug 24 2002,Roda JC,2-2,1-1,Feyenoord
+Sat Aug 24 2002,Zwolle,1-1,1-0,Excelsior
+Sun Aug 25 2002,Twente,1-1,1-1,Utrecht
+Sun Aug 25 2002,Vitesse,1-2,1-0,Ajax
+Sun Aug 25 2002,Willem II,1-1,1-1,NAC Breda
+Fri Aug 30 2002,Waalwijk,3-2,1-1,Twente
+Sat Aug 31 2002,NAC Breda,0-0,0-0,Nijmegen
+Sat Aug 31 2002,Roda JC,1-0,0-0,Willem II
+Sat Aug 31 2002,Zwolle,1-0,0-0,Vitesse
+Sun Sep 1 2002,Groningen,1-3,0-2,Ajax
+Sun Sep 1 2002,Roosendaal,3-0,2-0,Heerenveen
+Tue Sep 10 2002,AZ Alkmaar,0-4,0-3,PSV Eindhoven
+Tue Sep 10 2002,Feyenoord,4-1,2-1,Excelsior
+Tue Sep 10 2002,Utrecht,4-0,2-0,Graafschap
+Fri Sep 13 2002,Vitesse,3-0,1-0,Roosendaal
+Sat Sep 14 2002,Ajax,2-0,0-0,Zwolle
+Sat Sep 14 2002,Excelsior,4-2,2-1,Groningen
+Sat Sep 14 2002,Heerenveen,0-2,0-2,NAC Breda
+Sat Sep 14 2002,PSV Eindhoven,4-0,1-0,Waalwijk
+Sat Sep 14 2002,Twente,1-5,1-3,Feyenoord
+Sat Sep 14 2002,Willem II,2-0,1-0,Utrecht
+Sun Sep 15 2002,Graafschap,1-2,1-2,AZ Alkmaar
+Sun Sep 15 2002,Nijmegen,2-4,2-1,Roda JC
+Fri Sep 20 2002,Excelsior,1-2,0-2,AZ Alkmaar
+Fri Sep 20 2002,NAC Breda,2-0,1-0,Twente
+Sat Sep 21 2002,Feyenoord,2-0,1-0,Graafschap
+Sat Sep 21 2002,Roosendaal,2-3,0-0,Ajax
+Sat Sep 21 2002,Willem II,1-1,0-1,Nijmegen
+Sat Sep 21 2002,Zwolle,1-3,0-1,PSV Eindhoven
+Sun Sep 22 2002,Groningen,0-0,0-0,Utrecht
+Sun Sep 22 2002,Roda JC,1-0,1-0,Heerenveen
+Sun Sep 22 2002,Vitesse,1-1,0-0,Waalwijk
+Fri Sep 27 2002,AZ Alkmaar,4-1,3-0,Groningen
+Sat Sep 28 2002,PSV Eindhoven,4-0,3-0,Graafschap
+Sat Sep 28 2002,Roosendaal,4-2,1-1,Feyenoord
+Sat Sep 28 2002,Twente,3-3,0-0,Roda JC
+Sat Sep 28 2002,Willem II,5-2,3-0,Zwolle
+Sun Sep 29 2002,Ajax,2-2,0-2,NAC Breda
+Sun Sep 29 2002,Nijmegen,4-2,2-0,Heerenveen
+Sun Sep 29 2002,Utrecht,1-0,1-0,Vitesse
+Sun Sep 29 2002,Waalwijk,0-3,0-1,Excelsior
+Wed Oct 2 2002,Nijmegen,2-0,1-0,Groningen
+Fri Oct 4 2002,Waalwijk,0-2,0-2,Zwolle
+Sat Oct 5 2002,Graafschap,0-1,0-0,Twente
+Sat Oct 5 2002,NAC Breda,2-2,1-0,PSV Eindhoven
+Sat Oct 5 2002,Roda JC,2-3,0-1,Excelsior
+Sun Oct 6 2002,AZ Alkmaar,1-3,1-1,Vitesse
+Sun Oct 6 2002,Feyenoord,1-2,0-2,Ajax
+Sun Oct 6 2002,Heerenveen,1-1,1-0,Willem II
+Sun Oct 6 2002,Utrecht,2-2,1-1,Roosendaal
+Fri Oct 18 2002,Graafschap,1-3,0-0,Nijmegen
+Sat Oct 19 2002,Ajax,6-2,3-1,AZ Alkmaar
+Sat Oct 19 2002,PSV Eindhoven,0-0,0-0,Roda JC
+Sat Oct 19 2002,Twente,1-1,0-0,Heerenveen
+Sat Oct 19 2002,Vitesse,1-1,1-0,Feyenoord
+Sat Oct 19 2002,Willem II,3-1,2-0,Roosendaal
+Sun Oct 20 2002,Excelsior,1-1,1-1,Utrecht
+Sun Oct 20 2002,Groningen,2-3,0-1,Waalwijk
+Sun Oct 20 2002,Zwolle,0-3,0-2,NAC Breda
+Tue Oct 22 2002,Vitesse,0-2,0-1,Roda JC
+Fri Oct 25 2002,NAC Breda,0-0,0-0,Vitesse
+Sat Oct 26 2002,AZ Alkmaar,1-2,0-2,Twente
+Sat Oct 26 2002,Feyenoord,5-1,2-1,Willem II
+Sat Oct 26 2002,Heerenveen,2-0,0-0,Excelsior
+Sat Oct 26 2002,Nijmegen,0-5,0-2,PSV Eindhoven
+Sat Oct 26 2002,Roda JC,5-0,3-0,Graafschap
+Sat Oct 26 2002,Waalwijk,1-1,0-0,Ajax
+Fri Nov 1 2002,Zwolle,5-1,5-0,AZ Alkmaar
+Sat Nov 2 2002,Excelsior,0-0,0-0,Nijmegen
+Sat Nov 2 2002,Heerenveen,3-1,1-1,Graafschap
+Sat Nov 2 2002,Roosendaal,0-0,0-0,Waalwijk
+Sat Nov 2 2002,Twente,0-0,0-0,PSV Eindhoven
+Sun Nov 3 2002,Ajax,3-0,1-0,Willem II
+Sun Nov 3 2002,Groningen,0-2,0-0,Feyenoord
+Sun Nov 3 2002,Utrecht,1-0,0-0,NAC Breda
+Fri Nov 8 2002,Roda JC,1-1,0-0,Ajax
+Sat Nov 9 2002,AZ Alkmaar,2-0,1-0,Roosendaal
+Sat Nov 9 2002,Graafschap,1-1,0-0,Excelsior
+Sat Nov 9 2002,NAC Breda,0-0,0-0,Groningen
+Sat Nov 9 2002,PSV Eindhoven,3-1,0-0,Heerenveen
+Sat Nov 9 2002,Willem II,1-3,1-2,Vitesse
+Sun Nov 10 2002,Feyenoord,2-0,0-0,Zwolle
+Sun Nov 10 2002,Nijmegen,1-2,0-2,Twente
+Sun Nov 10 2002,Waalwijk,0-1,0-0,Utrecht
+Tue Nov 12 2002,Roosendaal,2-0,0-0,Groningen
+Wed Nov 13 2002,Utrecht,2-0,2-0,Zwolle
+Fri Nov 15 2002,Willem II,0-1,0-1,Waalwijk
+Sat Nov 16 2002,Groningen,3-1,0-0,Graafschap
+Sun Nov 17 2002,Ajax,6-0,1-0,Nijmegen
+Sun Nov 17 2002,Excelsior,0-3,0-1,NAC Breda
+Sun Nov 17 2002,PSV Eindhoven,1-2,0-2,Feyenoord
+Sun Nov 17 2002,Roosendaal,4-0,1-0,Roda JC
+Sun Nov 17 2002,Utrecht,2-2,0-1,AZ Alkmaar
+Sun Nov 17 2002,Vitesse,1-2,0-2,Heerenveen
+Sun Nov 17 2002,Zwolle,1-1,0-0,Twente
+Fri Nov 22 2002,Excelsior,0-3,0-1,Willem II
+Sat Nov 23 2002,Graafschap,3-2,0-2,NAC Breda
+Sat Nov 23 2002,Heerenveen,0-3,0-2,Ajax
+Sat Nov 23 2002,Roda JC,1-3,0-3,AZ Alkmaar
+Sat Nov 23 2002,Roosendaal,0-3,0-1,PSV Eindhoven
+Sat Nov 23 2002,Twente,1-0,1-0,Vitesse
+Sat Nov 23 2002,Waalwijk,1-0,0-0,Feyenoord
+Sun Nov 24 2002,Utrecht,3-2,1-0,Nijmegen
+Sun Nov 24 2002,Zwolle,0-2,0-0,Groningen
+Fri Nov 29 2002,Roda JC,2-0,0-0,Zwolle
+Sat Nov 30 2002,AZ Alkmaar,2-0,0-0,Waalwijk
+Sat Nov 30 2002,NAC Breda,1-0,0-0,Roosendaal
+Sat Nov 30 2002,PSV Eindhoven,2-1,2-0,Willem II
+Sun Dec 1 2002,Ajax,2-1,1-1,Twente
+Sun Dec 1 2002,Feyenoord,2-1,1-0,Utrecht
+Sun Dec 1 2002,Groningen,1-1,0-0,Heerenveen
+Sun Dec 1 2002,Vitesse,1-1,0-0,Graafschap
+Fri Dec 6 2002,Roosendaal,1-1,1-0,Excelsior
+Sat Dec 7 2002,Graafschap,1-1,0-1,Ajax
+Sat Dec 7 2002,Heerenveen,3-1,0-0,Feyenoord
+Sat Dec 7 2002,Willem II,3-1,1-0,AZ Alkmaar
+Sun Dec 8 2002,Nijmegen,2-0,1-0,Vitesse
+Sun Dec 8 2002,Twente,0-0,0-0,Groningen
+Sun Dec 8 2002,Utrecht,1-3,1-2,PSV Eindhoven
+Sun Dec 8 2002,Waalwijk,2-1,1-0,Roda JC
+Fri Dec 13 2002,Groningen,3-2,1-2,Roda JC
+Sat Dec 14 2002,Excelsior,2-2,1-1,Twente
+Sat Dec 14 2002,Graafschap,1-1,0-1,Willem II
+Sat Dec 14 2002,NAC Breda,1-0,1-0,Waalwijk
+Sat Dec 14 2002,Zwolle,0-0,0-0,Nijmegen
+Sun Dec 15 2002,Ajax,2-4,1-1,PSV Eindhoven
+Sun Dec 15 2002,Feyenoord,6-1,3-0,AZ Alkmaar
+Sun Dec 15 2002,Heerenveen,2-2,1-0,Utrecht
+Tue Dec 17 2002,Nijmegen,3-0,0-0,Roosendaal
+Wed Dec 18 2002,Heerenveen,2-0,1-0,Zwolle
+Wed Dec 18 2002,Vitesse,1-2,1-2,Excelsior
+Fri Dec 20 2002,Roda JC,1-0,1-0,Utrecht
+Fri Dec 20 2002,Twente,3-0,1-0,Roosendaal
+Sat Dec 21 2002,Graafschap,3-2,1-1,Zwolle
+Sat Dec 21 2002,Nijmegen,0-0,0-0,Waalwijk
+Sat Dec 21 2002,PSV Eindhoven,1-0,1-0,Vitesse
+Sat Dec 21 2002,Willem II,1-0,0-0,Groningen
+Sun Dec 22 2002,Excelsior,0-2,0-1,Ajax
+Sun Dec 22 2002,NAC Breda,1-1,0-1,Feyenoord
+Fri Jan 31 2003,PSV Eindhoven,3-0,1-0,Roosendaal
+Sat Feb 1 2003,AZ Alkmaar,0-0,0-0,Nijmegen
+Sat Feb 1 2003,NAC Breda,1-1,1-1,Heerenveen
+Sun Feb 2 2003,Feyenoord,4-2,1-1,Twente
+Sun Feb 2 2003,Waalwijk,1-0,0-0,Groningen
+Sun Feb 2 2003,Willem II,0-6,0-3,Ajax
+Fri Feb 7 2003,Zwolle,0-3,0-2,Willem II
+Sat Feb 8 2003,Heerenveen,5-0,3-0,AZ Alkmaar
+Sat Feb 8 2003,Roda JC,2-0,1-0,Vitesse
+Sat Feb 8 2003,Roosendaal,1-0,1-0,Graafschap
+Sat Feb 8 2003,Waalwijk,0-1,0-1,PSV Eindhoven
+Sun Feb 9 2003,Ajax,1-1,1-1,Feyenoord
+Sun Feb 9 2003,Groningen,0-0,0-0,Twente
+Sun Feb 9 2003,Nijmegen,2-0,0-0,NAC Breda
+Sun Feb 9 2003,Utrecht,2-2,0-1,Excelsior
+Fri Feb 14 2003,Roosendaal,0-1,0-1,Utrecht
+Sat Feb 15 2003,Ajax,2-1,1-0,Groningen
+Sat Feb 15 2003,AZ Alkmaar,1-4,0-4,Feyenoord
+Sat Feb 15 2003,NAC Breda,2-1,1-0,Excelsior
+Sat Feb 15 2003,PSV Eindhoven,6-0,5-0,Zwolle
+Sat Feb 15 2003,Willem II,5-0,2-0,Roda JC
+Sun Feb 16 2003,Graafschap,1-5,1-1,Heerenveen
+Sun Feb 16 2003,Twente,1-2,0-2,Nijmegen
+Sun Feb 16 2003,Waalwijk,1-0,1-0,Vitesse
+Wed Feb 19 2003,AZ Alkmaar,3-1,2-0,NAC Breda
+Wed Feb 19 2003,Excelsior,0-2,0-2,Roda JC
+Wed Feb 19 2003,Vitesse,2-1,1-0,Zwolle
+Fri Feb 21 2003,Nijmegen,1-0,0-0,Graafschap
+Sat Feb 22 2003,Excelsior,1-2,0-0,Roosendaal
+Sat Feb 22 2003,PSV Eindhoven,1-0,1-0,NAC Breda
+Sat Feb 22 2003,Roda JC,2-0,1-0,Twente
+Sat Feb 22 2003,Vitesse,2-2,0-1,AZ Alkmaar
+Sun Feb 23 2003,Feyenoord,4-1,3-0,Groningen
+Sun Feb 23 2003,Utrecht,1-0,0-0,Ajax
+Sun Feb 23 2003,Zwolle,2-1,1-0,Waalwijk
+Tue Feb 25 2003,Nijmegen,1-0,1-0,Willem II
+Wed Feb 26 2003,Utrecht,2-2,2-2,Heerenveen
+Fri Feb 28 2003,Graafschap,1-1,1-0,Roda JC
+Fri Feb 28 2003,Roosendaal,1-0,0-0,Willem II
+Sat Mar 1 2003,Excelsior,1-2,0-1,Waalwijk
+Sat Mar 1 2003,Heerenveen,0-1,0-0,PSV Eindhoven
+Sat Mar 1 2003,Twente,0-0,0-0,AZ Alkmaar
+Sun Mar 2 2003,Ajax,2-0,1-0,Vitesse
+Sun Mar 2 2003,Feyenoord,2-1,1-1,NAC Breda
+Sun Mar 2 2003,Groningen,4-0,1-0,Zwolle
+Fri Mar 7 2003,AZ Alkmaar,1-0,0-0,Roda JC
+Sat Mar 8 2003,Excelsior,2-6,1-3,Feyenoord
+Sat Mar 8 2003,NAC Breda,1-0,1-0,Graafschap
+Sat Mar 8 2003,PSV Eindhoven,2-1,1-0,Nijmegen
+Sat Mar 8 2003,Willem II,1-2,0-2,Twente
+Sat Mar 8 2003,Zwolle,0-5,0-3,Ajax
+Sun Mar 9 2003,Groningen,1-0,0-0,Roosendaal
+Sun Mar 9 2003,Vitesse,1-4,0-2,Utrecht
+Sun Mar 9 2003,Waalwijk,3-0,1-0,Heerenveen
+Wed Mar 12 2003,Graafschap,1-0,0-0,Utrecht
+Sat Mar 15 2003,Graafschap,2-4,1-2,Waalwijk
+Sat Mar 15 2003,Heerenveen,3-0,0-0,Twente
+Sat Mar 15 2003,Roda JC,0-0,0-0,NAC Breda
+Sat Mar 15 2003,Vitesse,0-5,0-3,PSV Eindhoven
+Sat Mar 15 2003,Zwolle,1-1,1-0,Roosendaal
+Sun Mar 16 2003,Ajax,2-1,1-1,Excelsior
+Sun Mar 16 2003,AZ Alkmaar,2-0,2-0,Utrecht
+Sun Mar 16 2003,Groningen,1-1,0-0,Willem II
+Sun Mar 16 2003,Nijmegen,1-2,1-1,Feyenoord
+Fri Mar 21 2003,Excelsior,0-1,0-0,Zwolle
+Sat Mar 22 2003,AZ Alkmaar,3-1,2-0,Graafschap
+Sat Mar 22 2003,Feyenoord,5-0,1-0,Heerenveen
+Sat Mar 22 2003,Roda JC,2-1,1-1,Nijmegen
+Sat Mar 22 2003,Roosendaal,3-1,2-0,Vitesse
+Sat Mar 22 2003,Twente,2-1,1-1,Waalwijk
+Sun Mar 23 2003,NAC Breda,0-0,0-0,Willem II
+Sun Mar 23 2003,PSV Eindhoven,2-0,1-0,Ajax
+Sun Mar 23 2003,Utrecht,0-0,0-0,Groningen
+Sat Apr 5 2003,Ajax,4-1,3-0,Roosendaal
+Sat Apr 5 2003,Graafschap,3-4,0-2,Feyenoord
+Sat Apr 5 2003,Heerenveen,3-2,0-2,Roda JC
+Sat Apr 5 2003,Twente,0-0,0-0,NAC Breda
+Sat Apr 5 2003,Vitesse,0-0,0-0,Groningen
+Sun Apr 6 2003,Nijmegen,1-0,0-0,Excelsior
+Sun Apr 6 2003,Waalwijk,2-0,2-0,AZ Alkmaar
+Sun Apr 6 2003,Willem II,1-1,0-0,PSV Eindhoven
+Sun Apr 6 2003,Zwolle,3-1,0-0,Utrecht
+Fri Apr 11 2003,Roda JC,2-3,2-2,PSV Eindhoven
+Fri Apr 11 2003,Utrecht,1-1,0-1,Willem II
+Sat Apr 12 2003,AZ Alkmaar,1-1,1-0,Zwolle
+Sat Apr 12 2003,Feyenoord,2-1,1-1,Vitesse
+Sat Apr 12 2003,Heerenveen,2-3,1-1,Nijmegen
+Sat Apr 12 2003,Twente,3-0,2-0,Graafschap
+Sun Apr 13 2003,Groningen,1-0,0-0,Excelsior
+Sun Apr 13 2003,NAC Breda,0-3,0-1,Ajax
+Sun Apr 13 2003,Waalwijk,1-2,1-1,Roosendaal
+Fri Apr 18 2003,Utrecht,4-3,2-1,Waalwijk
+Sat Apr 19 2003,Ajax,4-2,3-1,Roda JC
+Sat Apr 19 2003,Excelsior,1-0,0-0,Heerenveen
+Sat Apr 19 2003,PSV Eindhoven,2-0,1-0,Twente
+Sat Apr 19 2003,Roosendaal,0-0,0-0,AZ Alkmaar
+Sat Apr 19 2003,Willem II,3-0,2-0,Graafschap
+Sun Apr 20 2003,Vitesse,1-1,1-0,Nijmegen
+Sun Apr 20 2003,Zwolle,1-3,0-2,Feyenoord
+Fri Apr 25 2003,Waalwijk,3-1,1-0,Willem II
+Sat Apr 26 2003,Graafschap,1-6,1-3,PSV Eindhoven
+Sat Apr 26 2003,Heerenveen,2-2,1-2,Vitesse
+Sat Apr 26 2003,Twente,1-0,1-0,Excelsior
+Sun Apr 27 2003,AZ Alkmaar,1-3,0-1,Ajax
+Sun Apr 27 2003,Feyenoord,1-0,0-0,Roosendaal
+Sun Apr 27 2003,Groningen,0-0,0-0,NAC Breda
+Sun Apr 27 2003,Nijmegen,1-2,1-1,Utrecht
+Fri May 2 2003,Excelsior,3-4,1-3,Graafschap
+Sat May 3 2003,Ajax,6-1,3-0,Waalwijk
+Sat May 3 2003,PSV Eindhoven,2-2,0-2,AZ Alkmaar
+Sat May 3 2003,Vitesse,3-1,1-0,NAC Breda
+Sat May 3 2003,Willem II,1-5,0-3,Heerenveen
+Sat May 3 2003,Zwolle,3-1,2-0,Roda JC
+Sun May 4 2003,Groningen,0-0,0-0,Nijmegen
+Sun May 4 2003,Roosendaal,1-0,0-0,Twente
+Sun May 4 2003,Utrecht,1-2,1-1,Feyenoord
+Tue May 6 2003,NAC Breda,2-0,1-0,Zwolle
+Fri May 9 2003,Heerenveen,2-1,1-0,Groningen
+Fri May 9 2003,Roda JC,1-0,1-0,Roosendaal
+Sat May 10 2003,AZ Alkmaar,3-2,0-1,Willem II
+Sat May 10 2003,NAC Breda,2-0,1-0,Utrecht
+Sat May 10 2003,PSV Eindhoven,7-0,3-0,Excelsior
+Sat May 10 2003,Twente,0-0,0-0,Zwolle
+Sun May 11 2003,Feyenoord,2-1,1-1,Waalwijk
+Sun May 11 2003,Graafschap,0-1,0-1,Vitesse
+Sun May 11 2003,Nijmegen,1-2,1-0,Ajax
+Tue May 13 2003,Roda JC,5-1,1-0,Groningen
+Fri May 16 2003,Utrecht,4-4,3-1,Roda JC
+Sat May 17 2003,Roosendaal,0-2,0-1,Nijmegen
+Sat May 17 2003,Vitesse,0-1,0-0,Twente
+Sat May 17 2003,Willem II,2-1,0-1,Excelsior
+Sat May 17 2003,Zwolle,0-1,0-1,Heerenveen
+Sun May 18 2003,Ajax,7-1,2-1,Graafschap
+Sun May 18 2003,Feyenoord,3-1,2-0,PSV Eindhoven
+Sun May 18 2003,Groningen,1-0,0-0,AZ Alkmaar
+Sun May 18 2003,Waalwijk,2-3,0-0,NAC Breda
+Sun May 25 2003,Excelsior,4-4,2-2,Vitesse
+Sun May 25 2003,Graafschap,1-0,1-0,Groningen
+Sun May 25 2003,Heerenveen,6-0,4-0,Roosendaal
+Sun May 25 2003,NAC Breda,4-0,2-0,AZ Alkmaar
+Sun May 25 2003,Nijmegen,0-0,0-0,Zwolle
+Sun May 25 2003,PSV Eindhoven,2-0,2-0,Utrecht
+Sun May 25 2003,Roda JC,1-0,1-0,Waalwijk
+Sun May 25 2003,Twente,1-2,0-0,Ajax
+Sun May 25 2003,Willem II,1-1,1-0,Feyenoord
+Thu May 29 2003,Ajax,3-0,1-0,Heerenveen
+Thu May 29 2003,AZ Alkmaar,4-1,2-0,Excelsior
+Thu May 29 2003,Feyenoord,3-1,2-0,Roda JC
+Thu May 29 2003,Groningen,0-0,0-0,PSV Eindhoven
+Thu May 29 2003,Roosendaal,1-2,0-1,NAC Breda
+Thu May 29 2003,Utrecht,3-2,0-1,Twente
+Thu May 29 2003,Vitesse,2-0,0-0,Willem II
+Thu May 29 2003,Waalwijk,0-1,0-0,Nijmegen
+Thu May 29 2003,Zwolle,2-1,2-0,Graafschap

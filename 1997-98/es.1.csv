@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 30 1997,Real Madrid,1-1,0-1,Ath Madrid
+Sun Aug 31 1997,Ath Bilbao,1-3,1-3,Espanol
+Sun Aug 31 1997,Barcelona,3-0,1-0,Sociedad
+Sun Aug 31 1997,Celta,2-1,0-0,Zaragoza
+Sun Aug 31 1997,Compostela,2-0,1-0,Sp Gijon
+Sun Aug 31 1997,Mallorca,2-1,1-0,Valencia
+Sun Aug 31 1997,Oviedo,2-0,2-0,Merida
+Sun Aug 31 1997,Santander,1-0,0-0,Salamanca
+Sun Aug 31 1997,Tenerife,0-0,0-0,La Coruna
+Mon Sep 1 1997,Valladolid,1-3,1-0,Betis
+Sat Sep 6 1997,Ath Madrid,5-0,2-0,Valladolid
+Sat Sep 6 1997,Betis,1-1,0-0,Ath Bilbao
+Sun Sep 7 1997,Espanol,1-1,0-0,Celta
+Sun Sep 7 1997,La Coruna,1-1,0-1,Mallorca
+Sun Sep 7 1997,Merida,3-3,0-3,Compostela
+Sun Sep 7 1997,Salamanca,0-2,0-2,Real Madrid
+Sun Sep 7 1997,Sociedad,1-0,1-0,Santander
+Sun Sep 7 1997,Sp Gijon,0-2,0-1,Tenerife
+Sun Sep 7 1997,Zaragoza,3-3,0-2,Oviedo
+Mon Sep 8 1997,Valencia,0-3,0-2,Barcelona
+Sat Sep 13 1997,Ath Bilbao,1-0,1-0,Ath Madrid
+Sat Sep 13 1997,Barcelona,2-1,1-0,La Coruna
+Sat Sep 13 1997,Real Madrid,2-0,1-0,Sociedad
+Sat Sep 13 1997,Valladolid,1-2,1-0,Salamanca
+Sun Sep 14 1997,Celta,2-0,1-0,Betis
+Sun Sep 14 1997,Compostela,1-2,0-1,Tenerife
+Sun Sep 14 1997,Merida,0-1,0-1,Zaragoza
+Sun Sep 14 1997,Oviedo,1-1,0-1,Espanol
+Sun Sep 14 1997,Santander,2-1,2-1,Valencia
+Mon Sep 15 1997,Mallorca,6-2,2-1,Sp Gijon
+Sun Sep 28 1997,Ath Madrid,3-3,0-1,Celta
+Sun Sep 28 1997,Betis,1-1,1-1,Oviedo
+Sun Sep 28 1997,La Coruna,4-1,2-1,Santander
+Sun Sep 28 1997,Salamanca,0-0,0-0,Ath Bilbao
+Sun Sep 28 1997,Sociedad,3-0,1-0,Valladolid
+Sun Sep 28 1997,Sp Gijon,1-4,1-2,Barcelona
+Sun Sep 28 1997,Tenerife,1-4,1-2,Mallorca
+Sun Sep 28 1997,Valencia,0-2,0-0,Real Madrid
+Sun Sep 28 1997,Zaragoza,2-2,0-0,Compostela
+Mon Sep 29 1997,Espanol,0-0,0-0,Merida
+Sat Oct 4 1997,Ath Bilbao,1-1,1-0,Sociedad
+Sat Oct 4 1997,Zaragoza,1-1,0-0,Espanol
+Sun Oct 5 1997,Barcelona,3-2,2-2,Tenerife
+Sun Oct 5 1997,Celta,4-1,3-0,Salamanca
+Sun Oct 5 1997,Compostela,2-2,2-1,Mallorca
+Sun Oct 5 1997,Oviedo,0-2,0-2,Ath Madrid
+Sun Oct 5 1997,Real Madrid,0-0,0-0,La Coruna
+Sun Oct 5 1997,Santander,4-1,2-0,Sp Gijon
+Sun Oct 5 1997,Valladolid,0-3,0-2,Valencia
+Mon Oct 6 1997,Merida,1-3,1-1,Betis
+Tue Oct 14 1997,Mallorca,0-1,0-1,Barcelona
+Wed Oct 15 1997,Ath Madrid,4-0,1-0,Merida
+Wed Oct 15 1997,Betis,3-3,2-1,Zaragoza
+Wed Oct 15 1997,Espanol,1-0,0-0,Compostela
+Wed Oct 15 1997,La Coruna,1-3,1-3,Valladolid
+Wed Oct 15 1997,Salamanca,0-2,0-0,Oviedo
+Wed Oct 15 1997,Sociedad,2-1,0-0,Celta
+Wed Oct 15 1997,Sp Gijon,0-2,0-1,Real Madrid
+Wed Oct 15 1997,Tenerife,2-2,1-1,Santander
+Wed Oct 15 1997,Valencia,1-1,1-0,Ath Bilbao
+Sat Oct 18 1997,Ath Bilbao,1-1,0-0,La Coruna
+Sat Oct 18 1997,Compostela,2-2,1-0,Barcelona
+Sat Oct 18 1997,Real Madrid,3-0,1-0,Tenerife
+Sat Oct 18 1997,Valladolid,1-1,0-0,Sp Gijon
+Sat Oct 18 1997,Zaragoza,1-5,0-3,Ath Madrid
+Sun Oct 19 1997,Celta,1-0,1-0,Valencia
+Sun Oct 19 1997,Espanol,5-0,1-0,Betis
+Sun Oct 19 1997,Merida,1-0,1-0,Salamanca
+Sun Oct 19 1997,Oviedo,0-5,0-2,Sociedad
+Sun Oct 19 1997,Santander,0-1,0-1,Mallorca
+Sat Oct 25 1997,La Coruna,1-1,1-1,Celta
+Sun Oct 26 1997,Ath Madrid,0-2,0-1,Espanol
+Sun Oct 26 1997,Barcelona,2-0,0-0,Santander
+Sun Oct 26 1997,Betis,1-0,1-0,Compostela
+Sun Oct 26 1997,Salamanca,1-2,1-1,Zaragoza
+Sun Oct 26 1997,Sociedad,2-1,1-0,Merida
+Sun Oct 26 1997,Sp Gijon,1-2,0-1,Ath Bilbao
+Sun Oct 26 1997,Tenerife,1-0,0-0,Valladolid
+Sun Oct 26 1997,Valencia,1-1,1-0,Oviedo
+Mon Oct 27 1997,Mallorca,0-0,0-0,Real Madrid
+Sat Nov 1 1997,Ath Bilbao,3-0,1-0,Tenerife
+Sat Nov 1 1997,Betis,2-3,1-2,Ath Madrid
+Sat Nov 1 1997,Real Madrid,2-3,0-1,Barcelona
+Sat Nov 1 1997,Valladolid,0-0,0-0,Mallorca
+Sun Nov 2 1997,Celta,1-0,0-0,Sp Gijon
+Sun Nov 2 1997,Compostela,3-1,2-1,Santander
+Sun Nov 2 1997,Espanol,3-0,1-0,Salamanca
+Sun Nov 2 1997,Oviedo,1-1,0-0,La Coruna
+Sun Nov 2 1997,Zaragoza,0-0,0-0,Sociedad
+Mon Nov 3 1997,Merida,1-0,0-0,Valencia
+Sat Nov 8 1997,Santander,1-2,0-0,Real Madrid
+Sun Nov 9 1997,Ath Madrid,3-1,2-0,Compostela
+Sun Nov 9 1997,Barcelona,1-2,0-1,Valladolid
+Sun Nov 9 1997,La Coruna,0-1,0-0,Merida
+Sun Nov 9 1997,Mallorca,4-0,3-0,Ath Bilbao
+Sun Nov 9 1997,Salamanca,0-0,0-0,Betis
+Sun Nov 9 1997,Sociedad,2-0,1-0,Espanol
+Sun Nov 9 1997,Sp Gijon,1-2,1-1,Oviedo
+Sun Nov 9 1997,Tenerife,1-3,0-1,Celta
+Sun Nov 9 1997,Valencia,2-1,1-0,Zaragoza
+Tue Nov 11 1997,Ath Madrid,1-1,0-0,Salamanca
+Wed Nov 12 1997,Betis,0-0,0-0,Sociedad
+Wed Nov 12 1997,Celta,1-0,0-0,Mallorca
+Wed Nov 12 1997,Compostela,2-3,0-1,Real Madrid
+Wed Nov 12 1997,Espanol,3-0,2-0,Valencia
+Wed Nov 12 1997,Merida,1-0,0-0,Sp Gijon
+Wed Nov 12 1997,Oviedo,1-0,0-0,Tenerife
+Wed Nov 12 1997,Valladolid,0-0,0-0,Santander
+Wed Nov 12 1997,Zaragoza,1-2,0-1,La Coruna
+Thu Nov 13 1997,Ath Bilbao,3-0,1-0,Barcelona
+Sat Nov 15 1997,Sociedad,0-0,0-0,Ath Madrid
+Sun Nov 16 1997,Barcelona,3-2,1-1,Celta
+Sun Nov 16 1997,La Coruna,1-1,1-1,Espanol
+Sun Nov 16 1997,Mallorca,1-1,0-0,Oviedo
+Sun Nov 16 1997,Salamanca,0-1,0-0,Compostela
+Sun Nov 16 1997,Santander,0-0,0-0,Ath Bilbao
+Sun Nov 16 1997,Sp Gijon,2-3,0-2,Zaragoza
+Sun Nov 16 1997,Tenerife,1-1,1-0,Merida
+Sun Nov 16 1997,Valencia,1-0,1-0,Betis
+Mon Nov 17 1997,Real Madrid,3-1,2-1,Valladolid
+Sat Nov 22 1997,Ath Bilbao,1-1,1-0,Real Madrid
+Sat Nov 22 1997,Ath Madrid,3-1,1-0,Valencia
+Sat Nov 22 1997,Oviedo,1-0,0-0,Barcelona
+Sun Nov 23 1997,Betis,1-0,0-0,La Coruna
+Sun Nov 23 1997,Celta,1-2,1-0,Santander
+Sun Nov 23 1997,Compostela,0-0,0-0,Valladolid
+Sun Nov 23 1997,Merida,0-0,0-0,Mallorca
+Sun Nov 23 1997,Salamanca,0-0,0-0,Sociedad
+Sun Nov 23 1997,Zaragoza,1-0,0-0,Tenerife
+Mon Nov 24 1997,Espanol,1-1,1-0,Sp Gijon
+Sat Nov 29 1997,Sp Gijon,2-3,2-2,Betis
+Sun Nov 30 1997,La Coruna,2-2,1-1,Ath Madrid
+Sun Nov 30 1997,Mallorca,0-2,0-1,Zaragoza
+Sun Nov 30 1997,Real Madrid,3-1,1-0,Celta
+Sun Nov 30 1997,Santander,0-0,0-0,Oviedo
+Sun Nov 30 1997,Sociedad,5-1,3-1,Compostela
+Sun Nov 30 1997,Tenerife,0-0,0-0,Espanol
+Sun Nov 30 1997,Valencia,0-1,0-0,Salamanca
+Sun Nov 30 1997,Valladolid,3-0,1-0,Ath Bilbao
+Mon Dec 1 1997,Barcelona,3-1,1-0,Merida
+Sat Dec 6 1997,Ath Madrid,2-1,0-0,Sp Gijon
+Sat Dec 6 1997,Espanol,1-0,1-0,Mallorca
+Sat Dec 6 1997,Oviedo,1-1,0-0,Real Madrid
+Sat Dec 6 1997,Zaragoza,1-2,0-2,Barcelona
+Sun Dec 7 1997,Betis,3-0,3-0,Tenerife
+Sun Dec 7 1997,Celta,2-0,2-0,Valladolid
+Sun Dec 7 1997,Compostela,1-4,1-1,Ath Bilbao
+Sun Dec 7 1997,Merida,1-2,1-0,Santander
+Sun Dec 7 1997,Salamanca,4-1,0-1,La Coruna
+Sun Dec 7 1997,Sociedad,1-1,0-0,Valencia
+Sat Dec 13 1997,Ath Bilbao,2-1,0-1,Celta
+Sat Dec 13 1997,Barcelona,3-1,1-0,Espanol
+Sat Dec 13 1997,Mallorca,1-2,1-2,Betis
+Sun Dec 14 1997,La Coruna,1-1,1-1,Sociedad
+Sun Dec 14 1997,Real Madrid,1-0,1-0,Merida
+Sun Dec 14 1997,Santander,2-3,0-1,Zaragoza
+Sun Dec 14 1997,Sp Gijon,1-1,0-1,Salamanca
+Sun Dec 14 1997,Tenerife,2-2,2-0,Ath Madrid
+Sun Dec 14 1997,Valencia,4-1,1-0,Compostela
+Sun Dec 14 1997,Valladolid,1-0,1-0,Oviedo
+Wed Dec 17 1997,Ath Madrid,2-3,1-2,Mallorca
+Wed Dec 17 1997,Compostela,0-0,0-0,Celta
+Wed Dec 17 1997,Espanol,0-0,0-0,Santander
+Wed Dec 17 1997,Merida,0-0,0-0,Valladolid
+Wed Dec 17 1997,Oviedo,1-2,0-1,Ath Bilbao
+Wed Dec 17 1997,Salamanca,2-0,1-0,Tenerife
+Wed Dec 17 1997,Sociedad,2-1,0-0,Sp Gijon
+Wed Dec 17 1997,Zaragoza,2-2,1-2,Real Madrid
+Thu Dec 18 1997,Valencia,1-0,0-0,La Coruna
+Sat Dec 20 1997,Barcelona,3-1,0-1,Ath Madrid
+Sun Dec 21 1997,Ath Bilbao,5-1,2-0,Merida
+Sun Dec 21 1997,Celta,3-0,0-0,Oviedo
+Sun Dec 21 1997,Compostela,0-0,0-0,La Coruna
+Sun Dec 21 1997,Real Madrid,2-1,1-1,Espanol
+Sun Dec 21 1997,Santander,2-0,0-0,Betis
+Sun Dec 21 1997,Sp Gijon,0-3,0-2,Valencia
+Sun Dec 21 1997,Tenerife,0-0,0-0,Sociedad
+Sun Dec 21 1997,Valladolid,4-0,1-0,Zaragoza
+Mon Dec 22 1997,Mallorca,1-0,0-0,Salamanca
+Sat Jan 3 1998,Betis,3-2,1-1,Real Madrid
+Sun Jan 4 1998,Ath Madrid,2-1,1-0,Santander
+Sun Jan 4 1998,Espanol,2-0,0-0,Valladolid
+Sun Jan 4 1998,La Coruna,2-1,0-1,Sp Gijon
+Sun Jan 4 1998,Merida,4-0,2-0,Celta
+Sun Jan 4 1998,Oviedo,1-1,0-1,Compostela
+Sun Jan 4 1998,Sociedad,1-0,1-0,Mallorca
+Sun Jan 4 1998,Valencia,1-2,1-0,Tenerife
+Sun Jan 4 1998,Zaragoza,1-1,0-1,Ath Bilbao
+Mon Jan 5 1998,Salamanca,4-3,1-1,Barcelona
+Sat Jan 10 1998,Ath Madrid,1-1,0-0,Real Madrid
+Sun Jan 11 1998,Espanol,0-1,0-0,Ath Bilbao
+Sun Jan 11 1998,La Coruna,1-0,0-0,Tenerife
+Sun Jan 11 1998,Merida,2-1,2-1,Oviedo
+Sun Jan 11 1998,Salamanca,0-0,0-0,Santander
+Sun Jan 11 1998,Sociedad,2-2,0-1,Barcelona
+Sun Jan 11 1998,Sp Gijon,0-2,0-0,Compostela
+Sun Jan 11 1998,Zaragoza,1-0,0-0,Celta
+Mon Jan 12 1998,Valencia,0-0,0-0,Mallorca
+Sat Jan 17 1998,Celta,1-0,1-0,Espanol
+Sat Jan 17 1998,Oviedo,3-0,2-0,Zaragoza
+Sat Jan 17 1998,Valladolid,2-1,1-1,Ath Madrid
+Sun Jan 18 1998,Ath Bilbao,0-0,0-0,Betis
+Sun Jan 18 1998,Compostela,3-0,1-0,Merida
+Sun Jan 18 1998,Mallorca,0-0,0-0,La Coruna
+Sun Jan 18 1998,Real Madrid,1-0,1-0,Salamanca
+Sun Jan 18 1998,Santander,3-1,2-0,Sociedad
+Sun Jan 18 1998,Tenerife,2-1,0-0,Sp Gijon
+Mon Jan 19 1998,Barcelona,3-4,1-0,Valencia
+Sat Jan 24 1998,Ath Madrid,3-0,1-0,Ath Bilbao
+Sun Jan 25 1998,Betis,2-0,1-0,Celta
+Sun Jan 25 1998,Espanol,0-0,0-0,Oviedo
+Sun Jan 25 1998,La Coruna,3-1,1-0,Barcelona
+Sun Jan 25 1998,Sociedad,4-2,2-1,Real Madrid
+Sun Jan 25 1998,Sp Gijon,1-3,1-2,Mallorca
+Sun Jan 25 1998,Tenerife,5-1,1-1,Compostela
+Sun Jan 25 1998,Valencia,6-1,2-0,Santander
+Sun Jan 25 1998,Zaragoza,1-1,0-0,Merida
+Mon Jan 26 1998,Salamanca,1-0,1-0,Valladolid
+Sat Jan 31 1998,Ath Bilbao,1-0,0-0,Salamanca
+Sat Jan 31 1998,Mallorca,5-1,3-0,Tenerife
+Sat Jan 31 1998,Oviedo,0-0,0-0,Betis
+Sun Feb 1 1998,Barcelona,2-1,2-1,Sp Gijon
+Sun Feb 1 1998,Celta,1-1,1-1,Ath Madrid
+Sun Feb 1 1998,Compostela,2-0,0-0,Zaragoza
+Sun Feb 1 1998,Merida,1-1,0-0,Espanol
+Sun Feb 1 1998,Santander,0-1,0-0,La Coruna
+Sun Feb 1 1998,Valladolid,0-4,0-2,Sociedad
+Mon Feb 2 1998,Real Madrid,1-2,0-2,Valencia
+Sun Feb 8 1998,Betis,2-1,1-0,Merida
+Sun Feb 8 1998,Espanol,0-1,0-1,Zaragoza
+Sun Feb 8 1998,La Coruna,2-2,2-1,Real Madrid
+Sun Feb 8 1998,Mallorca,2-1,0-1,Compostela
+Sun Feb 8 1998,Salamanca,0-1,0-1,Celta
+Sun Feb 8 1998,Sociedad,1-1,0-1,Ath Bilbao
+Sun Feb 8 1998,Sp Gijon,2-1,2-0,Santander
+Sun Feb 8 1998,Tenerife,1-1,0-1,Barcelona
+Sun Feb 8 1998,Valencia,1-2,1-2,Valladolid
+Mon Feb 9 1998,Ath Madrid,4-1,2-0,Oviedo
+Sat Feb 14 1998,Valladolid,1-0,0-0,La Coruna
+Sun Feb 15 1998,Ath Bilbao,0-3,0-1,Valencia
+Sun Feb 15 1998,Barcelona,0-0,0-0,Mallorca
+Sun Feb 15 1998,Celta,2-1,1-1,Sociedad
+Sun Feb 15 1998,Compostela,1-1,0-1,Espanol
+Sun Feb 15 1998,Merida,2-1,0-0,Ath Madrid
+Sun Feb 15 1998,Oviedo,2-0,1-0,Salamanca
+Sun Feb 15 1998,Real Madrid,3-0,0-0,Sp Gijon
+Sun Feb 15 1998,Santander,2-1,0-1,Tenerife
+Sun Feb 15 1998,Zaragoza,3-1,1-1,Betis
+Sat Feb 21 1998,Sp Gijon,1-2,0-2,Valladolid
+Sat Feb 21 1998,Tenerife,4-3,1-0,Real Madrid
+Sun Feb 22 1998,Barcelona,2-0,2-0,Compostela
+Sun Feb 22 1998,Betis,1-3,1-1,Espanol
+Sun Feb 22 1998,La Coruna,3-0,0-0,Ath Bilbao
+Sun Feb 22 1998,Mallorca,2-1,0-0,Santander
+Sun Feb 22 1998,Salamanca,3-1,3-0,Merida
+Sun Feb 22 1998,Sociedad,2-2,1-1,Oviedo
+Sun Feb 22 1998,Valencia,2-1,1-0,Celta
+Mon Feb 23 1998,Ath Madrid,2-1,0-0,Zaragoza
+Wed Feb 25 1998,Betis,3-0,1-0,Valladolid
+Sat Feb 28 1998,Compostela,2-3,1-1,Betis
+Sat Feb 28 1998,Espanol,2-2,1-0,Ath Madrid
+Sat Feb 28 1998,Real Madrid,2-0,2-0,Mallorca
+Sun Mar 1 1998,Ath Bilbao,2-2,0-2,Sp Gijon
+Sun Mar 1 1998,Celta,2-1,0-1,La Coruna
+Sun Mar 1 1998,Merida,3-1,1-0,Sociedad
+Sun Mar 1 1998,Oviedo,0-0,0-0,Valencia
+Sun Mar 1 1998,Valladolid,2-1,1-0,Tenerife
+Sun Mar 1 1998,Zaragoza,1-1,0-1,Salamanca
+Mon Mar 2 1998,Santander,2-4,1-0,Barcelona
+Sat Mar 7 1998,Barcelona,3-0,0-0,Real Madrid
+Sun Mar 8 1998,Ath Madrid,0-0,0-0,Betis
+Sun Mar 8 1998,La Coruna,2-1,1-0,Oviedo
+Sun Mar 8 1998,Mallorca,1-1,0-0,Valladolid
+Sun Mar 8 1998,Salamanca,2-1,0-1,Espanol
+Sun Mar 8 1998,Santander,1-1,1-0,Compostela
+Sun Mar 8 1998,Sociedad,0-1,0-0,Zaragoza
+Sun Mar 8 1998,Sp Gijon,0-1,0-0,Celta
+Sun Mar 8 1998,Tenerife,0-2,0-1,Ath Bilbao
+Mon Mar 9 1998,Valencia,3-0,1-0,Merida
+Sat Mar 14 1998,Compostela,2-1,0-0,Ath Madrid
+Sat Mar 14 1998,Real Madrid,2-2,1-1,Santander
+Sun Mar 15 1998,Betis,2-1,1-0,Salamanca
+Sun Mar 15 1998,Celta,0-0,0-0,Tenerife
+Sun Mar 15 1998,Espanol,0-3,0-0,Sociedad
+Sun Mar 15 1998,Merida,1-0,1-0,La Coruna
+Sun Mar 15 1998,Oviedo,2-1,1-1,Sp Gijon
+Sun Mar 15 1998,Valladolid,1-2,1-0,Barcelona
+Sun Mar 15 1998,Zaragoza,0-2,0-0,Valencia
+Mon Mar 16 1998,Ath Bilbao,3-1,1-0,Mallorca
+Sat Mar 21 1998,Salamanca,5-4,2-2,Ath Madrid
+Sun Mar 22 1998,Barcelona,4-0,2-0,Ath Bilbao
+Sun Mar 22 1998,La Coruna,2-1,1-0,Zaragoza
+Sun Mar 22 1998,Mallorca,4-2,2-0,Celta
+Sun Mar 22 1998,Real Madrid,2-1,1-1,Compostela
+Sun Mar 22 1998,Santander,1-2,1-1,Valladolid
+Sun Mar 22 1998,Sociedad,2-0,1-0,Betis
+Sun Mar 22 1998,Sp Gijon,0-0,0-0,Merida
+Sun Mar 22 1998,Tenerife,1-0,1-0,Oviedo
+Sun Mar 22 1998,Valencia,0-0,0-0,Espanol
+Sat Mar 28 1998,Ath Madrid,2-2,1-0,Sociedad
+Sat Mar 28 1998,Betis,1-0,0-0,Valencia
+Sat Mar 28 1998,Valladolid,1-1,0-1,Real Madrid
+Sun Mar 29 1998,Ath Bilbao,4-3,0-2,Santander
+Sun Mar 29 1998,Celta,3-1,2-1,Barcelona
+Sun Mar 29 1998,Compostela,2-0,1-0,Salamanca
+Sun Mar 29 1998,Espanol,2-0,1-0,La Coruna
+Sun Mar 29 1998,Merida,1-1,0-0,Tenerife
+Sun Mar 29 1998,Oviedo,0-1,0-1,Mallorca
+Sun Mar 29 1998,Zaragoza,0-0,0-0,Sp Gijon
+Sat Apr 4 1998,Barcelona,2-1,2-0,Oviedo
+Sat Apr 4 1998,La Coruna,2-0,0-0,Betis
+Sat Apr 4 1998,Real Madrid,0-0,0-0,Ath Bilbao
+Sun Apr 5 1998,Mallorca,1-0,1-0,Merida
+Sun Apr 5 1998,Santander,2-1,0-0,Celta
+Sun Apr 5 1998,Sociedad,1-1,1-0,Salamanca
+Sun Apr 5 1998,Sp Gijon,1-0,1-0,Espanol
+Sun Apr 5 1998,Tenerife,0-0,0-0,Zaragoza
+Sun Apr 5 1998,Valencia,4-1,0-0,Ath Madrid
+Sun Apr 5 1998,Valladolid,4-1,3-0,Compostela
+Tue Apr 7 1998,Betis,0-2,0-0,Barcelona
+Sat Apr 11 1998,Ath Madrid,3-0,3-0,La Coruna
+Sat Apr 11 1998,Celta,2-1,1-0,Real Madrid
+Sat Apr 11 1998,Merida,1-2,0-0,Barcelona
+Sun Apr 12 1998,Ath Bilbao,2-0,1-0,Valladolid
+Sun Apr 12 1998,Compostela,1-3,0-2,Sociedad
+Sun Apr 12 1998,Espanol,2-0,2-0,Tenerife
+Sun Apr 12 1998,Oviedo,0-1,0-0,Santander
+Sun Apr 12 1998,Salamanca,6-0,3-0,Valencia
+Sun Apr 12 1998,Zaragoza,2-3,0-1,Mallorca
+Mon Apr 13 1998,Betis,2-1,2-0,Sp Gijon
+Sat Apr 18 1998,Valencia,3-2,1-1,Sociedad
+Sun Apr 19 1998,Ath Bilbao,2-0,0-0,Compostela
+Sun Apr 19 1998,Barcelona,1-0,0-0,Zaragoza
+Sun Apr 19 1998,La Coruna,1-0,0-0,Salamanca
+Sun Apr 19 1998,Mallorca,2-2,0-0,Espanol
+Sun Apr 19 1998,Real Madrid,5-1,2-0,Oviedo
+Sun Apr 19 1998,Santander,2-0,1-0,Merida
+Sun Apr 19 1998,Sp Gijon,2-3,2-0,Ath Madrid
+Sun Apr 19 1998,Tenerife,3-1,0-1,Betis
+Sun Apr 19 1998,Valladolid,0-0,0-0,Celta
+Sat Apr 25 1998,Betis,2-1,0-1,Mallorca
+Sat Apr 25 1998,Espanol,1-1,0-1,Barcelona
+Sun Apr 26 1998,Ath Madrid,2-2,1-1,Tenerife
+Sun Apr 26 1998,Celta,1-1,0-1,Ath Bilbao
+Sun Apr 26 1998,Compostela,3-1,3-1,Valencia
+Sun Apr 26 1998,Merida,2-2,0-0,Real Madrid
+Sun Apr 26 1998,Oviedo,0-1,0-0,Valladolid
+Sun Apr 26 1998,Salamanca,4-0,0-0,Sp Gijon
+Sun Apr 26 1998,Zaragoza,2-0,1-0,Santander
+Mon Apr 27 1998,Sociedad,1-1,0-1,La Coruna
+Sat May 2 1998,La Coruna,1-2,0-0,Valencia
+Sun May 3 1998,Ath Bilbao,3-0,1-0,Oviedo
+Sun May 3 1998,Barcelona,1-3,1-0,Betis
+Sun May 3 1998,Celta,3-3,1-2,Compostela
+Sun May 3 1998,Mallorca,2-1,1-1,Ath Madrid
+Sun May 3 1998,Santander,1-1,0-1,Espanol
+Sun May 3 1998,Sp Gijon,0-2,0-1,Sociedad
+Sun May 3 1998,Tenerife,2-0,0-0,Salamanca
+Sun May 3 1998,Valladolid,0-0,0-0,Merida
+Mon May 4 1998,Real Madrid,0-2,0-0,Zaragoza
+Sat May 9 1998,Espanol,1-0,0-0,Real Madrid
+Sat May 9 1998,Valencia,2-2,1-2,Sp Gijon
+Sun May 10 1998,Ath Madrid,5-2,2-1,Barcelona
+Sun May 10 1998,Betis,0-2,0-0,Santander
+Sun May 10 1998,La Coruna,2-6,2-2,Compostela
+Sun May 10 1998,Merida,0-0,0-0,Ath Bilbao
+Sun May 10 1998,Oviedo,3-1,1-0,Celta
+Sun May 10 1998,Salamanca,1-1,0-1,Mallorca
+Sun May 10 1998,Sociedad,1-1,0-1,Tenerife
+Sun May 10 1998,Zaragoza,0-0,0-0,Valladolid
+Fri May 15 1998,Ath Bilbao,1-0,1-0,Zaragoza
+Fri May 15 1998,Barcelona,1-4,0-1,Salamanca
+Fri May 15 1998,Celta,2-0,1-0,Merida
+Fri May 15 1998,Compostela,1-0,1-0,Oviedo
+Fri May 15 1998,Mallorca,0-1,0-0,Sociedad
+Fri May 15 1998,Real Madrid,1-0,0-0,Betis
+Fri May 15 1998,Santander,0-1,0-1,Ath Madrid
+Fri May 15 1998,Tenerife,3-2,1-1,Valencia
+Fri May 15 1998,Valladolid,0-0,0-0,Espanol
+Sat May 16 1998,Sp Gijon,0-3,0-1,La Coruna

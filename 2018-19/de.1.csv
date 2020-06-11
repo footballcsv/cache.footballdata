@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 24 2018,Bayern Munich,3-1,1-0,Hoffenheim
+Sat Aug 25 2018,Fortuna Dusseldorf,1-2,1-0,Augsburg
+Sat Aug 25 2018,Freiburg,0-2,0-1,Ein Frankfurt
+Sat Aug 25 2018,Hertha,1-0,1-0,Nurnberg
+Sat Aug 25 2018,M'gladbach,2-0,0-0,Leverkusen
+Sat Aug 25 2018,Werder Bremen,1-1,0-0,Hannover
+Sat Aug 25 2018,Wolfsburg,2-1,1-0,Schalke 04
+Sun Aug 26 2018,Dortmund,4-1,3-1,RB Leipzig
+Sun Aug 26 2018,Mainz,1-0,0-0,Stuttgart
+Fri Aug 31 2018,Hannover,0-0,0-0,Dortmund
+Sat Sep 1 2018,Augsburg,1-1,1-0,M'gladbach
+Sat Sep 1 2018,Ein Frankfurt,1-2,0-1,Werder Bremen
+Sat Sep 1 2018,Hoffenheim,3-1,0-1,Freiburg
+Sat Sep 1 2018,Leverkusen,1-3,1-1,Wolfsburg
+Sat Sep 1 2018,Nurnberg,1-1,0-1,Mainz
+Sat Sep 1 2018,Stuttgart,0-3,0-1,Bayern Munich
+Sun Sep 2 2018,RB Leipzig,1-1,0-0,Fortuna Dusseldorf
+Sun Sep 2 2018,Schalke 04,0-2,0-1,Hertha
+Fri Sep 14 2018,Dortmund,3-1,1-0,Ein Frankfurt
+Sat Sep 15 2018,Bayern Munich,3-1,2-1,Leverkusen
+Sat Sep 15 2018,Fortuna Dusseldorf,2-1,1-0,Hoffenheim
+Sat Sep 15 2018,Mainz,2-1,0-0,Augsburg
+Sat Sep 15 2018,M'gladbach,2-1,1-0,Schalke 04
+Sat Sep 15 2018,RB Leipzig,3-2,2-1,Hannover
+Sat Sep 15 2018,Wolfsburg,2-2,0-0,Hertha
+Sun Sep 16 2018,Freiburg,3-3,1-1,Stuttgart
+Sun Sep 16 2018,Werder Bremen,1-1,1-0,Nurnberg
+Fri Sep 21 2018,Stuttgart,0-0,0-0,Fortuna Dusseldorf
+Sat Sep 22 2018,Augsburg,2-3,1-2,Werder Bremen
+Sat Sep 22 2018,Hertha,4-2,2-1,M'gladbach
+Sat Sep 22 2018,Hoffenheim,1-1,1-0,Dortmund
+Sat Sep 22 2018,Nurnberg,2-0,0-0,Hannover
+Sat Sep 22 2018,Schalke 04,0-2,0-1,Bayern Munich
+Sat Sep 22 2018,Wolfsburg,1-3,0-2,Freiburg
+Sun Sep 23 2018,Ein Frankfurt,1-1,1-0,RB Leipzig
+Sun Sep 23 2018,Leverkusen,1-0,0-0,Mainz
+Tue Sep 25 2018,Bayern Munich,1-1,0-0,Augsburg
+Tue Sep 25 2018,Freiburg,1-0,0-0,Schalke 04
+Tue Sep 25 2018,Hannover,1-3,0-1,Hoffenheim
+Tue Sep 25 2018,Werder Bremen,3-1,2-0,Hertha
+Wed Sep 26 2018,Dortmund,7-0,2-0,Nurnberg
+Wed Sep 26 2018,Fortuna Dusseldorf,1-2,0-0,Leverkusen
+Wed Sep 26 2018,Mainz,0-0,0-0,Wolfsburg
+Wed Sep 26 2018,M'gladbach,3-1,0-0,Ein Frankfurt
+Wed Sep 26 2018,RB Leipzig,2-0,1-0,Stuttgart
+Fri Sep 28 2018,Hertha,2-0,2-0,Bayern Munich
+Sat Sep 29 2018,Hoffenheim,1-2,0-0,RB Leipzig
+Sat Sep 29 2018,Leverkusen,2-4,2-0,Dortmund
+Sat Sep 29 2018,Nurnberg,3-0,1-0,Fortuna Dusseldorf
+Sat Sep 29 2018,Schalke 04,1-0,1-0,Mainz
+Sat Sep 29 2018,Stuttgart,2-1,1-0,Werder Bremen
+Sat Sep 29 2018,Wolfsburg,2-2,1-1,M'gladbach
+Sun Sep 30 2018,Augsburg,4-1,2-0,Freiburg
+Sun Sep 30 2018,Ein Frankfurt,4-1,2-0,Hannover
+Fri Oct 5 2018,Werder Bremen,2-0,1-0,Wolfsburg
+Sat Oct 6 2018,Bayern Munich,0-3,0-2,M'gladbach
+Sat Oct 6 2018,Dortmund,4-3,0-1,Augsburg
+Sat Oct 6 2018,Fortuna Dusseldorf,0-2,0-0,Schalke 04
+Sat Oct 6 2018,Hannover,3-1,2-0,Stuttgart
+Sat Oct 6 2018,Mainz,0-0,0-0,Hertha
+Sun Oct 7 2018,Freiburg,0-0,0-0,Leverkusen
+Sun Oct 7 2018,Hoffenheim,1-2,0-1,Ein Frankfurt
+Sun Oct 7 2018,RB Leipzig,6-0,4-0,Nurnberg
+Fri Oct 19 2018,Ein Frankfurt,7-1,3-0,Fortuna Dusseldorf
+Sat Oct 20 2018,Augsburg,0-0,0-0,RB Leipzig
+Sat Oct 20 2018,Leverkusen,2-2,1-1,Hannover
+Sat Oct 20 2018,Nurnberg,1-3,1-0,Hoffenheim
+Sat Oct 20 2018,Schalke 04,0-2,0-1,Werder Bremen
+Sat Oct 20 2018,Stuttgart,0-4,0-3,Dortmund
+Sat Oct 20 2018,Wolfsburg,1-3,0-1,Bayern Munich
+Sun Oct 21 2018,Hertha,1-1,1-1,Freiburg
+Sun Oct 21 2018,M'gladbach,4-0,1-0,Mainz
+Fri Oct 26 2018,Freiburg,3-1,1-1,M'gladbach
+Sat Oct 27 2018,Dortmund,2-2,1-1,Hertha
+Sat Oct 27 2018,Fortuna Dusseldorf,0-3,0-1,Wolfsburg
+Sat Oct 27 2018,Hannover,1-2,0-1,Augsburg
+Sat Oct 27 2018,Hoffenheim,4-0,0-0,Stuttgart
+Sat Oct 27 2018,Mainz,1-2,0-1,Bayern Munich
+Sun Oct 28 2018,Nurnberg,1-1,0-0,Ein Frankfurt
+Sun Oct 28 2018,RB Leipzig,0-0,0-0,Schalke 04
+Sun Oct 28 2018,Werder Bremen,2-6,0-3,Leverkusen
+Fri Nov 2 2018,Stuttgart,0-3,0-2,Ein Frankfurt
+Sat Nov 3 2018,Augsburg,2-2,1-0,Nurnberg
+Sat Nov 3 2018,Bayern Munich,1-1,0-0,Freiburg
+Sat Nov 3 2018,Hertha,0-3,0-1,RB Leipzig
+Sat Nov 3 2018,Leverkusen,1-4,1-2,Hoffenheim
+Sat Nov 3 2018,Schalke 04,3-1,0-0,Hannover
+Sat Nov 3 2018,Wolfsburg,0-1,0-1,Dortmund
+Sun Nov 4 2018,Mainz,2-1,1-0,Werder Bremen
+Sun Nov 4 2018,M'gladbach,3-0,0-0,Fortuna Dusseldorf
+Fri Nov 9 2018,Hannover,2-1,1-0,Wolfsburg
+Sat Nov 10 2018,Dortmund,3-2,0-1,Bayern Munich
+Sat Nov 10 2018,Fortuna Dusseldorf,4-1,0-0,Hertha
+Sat Nov 10 2018,Freiburg,1-3,0-2,Mainz
+Sat Nov 10 2018,Hoffenheim,2-1,0-0,Augsburg
+Sat Nov 10 2018,Nurnberg,0-2,0-0,Stuttgart
+Sat Nov 10 2018,Werder Bremen,1-3,0-1,M'gladbach
+Sun Nov 11 2018,Ein Frankfurt,3-0,0-0,Schalke 04
+Sun Nov 11 2018,RB Leipzig,3-0,1-0,Leverkusen
+Fri Nov 23 2018,Leverkusen,2-0,0-0,Stuttgart
+Sat Nov 24 2018,Augsburg,1-3,0-1,Ein Frankfurt
+Sat Nov 24 2018,Bayern Munich,3-3,2-1,Fortuna Dusseldorf
+Sat Nov 24 2018,Hertha,3-3,1-2,Hoffenheim
+Sat Nov 24 2018,Mainz,1-2,0-0,Dortmund
+Sat Nov 24 2018,Schalke 04,5-2,2-1,Nurnberg
+Sat Nov 24 2018,Wolfsburg,1-0,0-0,RB Leipzig
+Sun Nov 25 2018,Freiburg,1-1,1-0,Werder Bremen
+Sun Nov 25 2018,M'gladbach,4-1,2-1,Hannover
+Fri Nov 30 2018,Fortuna Dusseldorf,0-1,0-0,Mainz
+Sat Dec 1 2018,Dortmund,2-0,1-0,Freiburg
+Sat Dec 1 2018,Hannover,0-2,0-1,Hertha
+Sat Dec 1 2018,Hoffenheim,1-1,0-0,Schalke 04
+Sat Dec 1 2018,Stuttgart,1-0,1-0,Augsburg
+Sat Dec 1 2018,Werder Bremen,1-2,1-1,Bayern Munich
+Sun Dec 2 2018,Ein Frankfurt,1-2,0-1,Wolfsburg
+Sun Dec 2 2018,RB Leipzig,2-0,2-0,M'gladbach
+Mon Dec 3 2018,Nurnberg,1-1,0-1,Leverkusen
+Fri Dec 7 2018,Werder Bremen,3-1,1-1,Fortuna Dusseldorf
+Sat Dec 8 2018,Bayern Munich,3-0,2-0,Nurnberg
+Sat Dec 8 2018,Freiburg,3-0,2-0,RB Leipzig
+Sat Dec 8 2018,Hertha,1-0,1-0,Ein Frankfurt
+Sat Dec 8 2018,Leverkusen,1-0,0-0,Augsburg
+Sat Dec 8 2018,Schalke 04,1-2,0-1,Dortmund
+Sat Dec 8 2018,Wolfsburg,2-2,2-1,Hoffenheim
+Sun Dec 9 2018,Mainz,1-1,0-1,Hannover
+Sun Dec 9 2018,M'gladbach,3-0,0-0,Stuttgart
+Fri Dec 14 2018,Nurnberg,0-2,0-0,Wolfsburg
+Sat Dec 15 2018,Augsburg,1-1,1-0,Schalke 04
+Sat Dec 15 2018,Dortmund,2-1,2-1,Werder Bremen
+Sat Dec 15 2018,Fortuna Dusseldorf,2-0,0-0,Freiburg
+Sat Dec 15 2018,Hannover,0-4,0-2,Bayern Munich
+Sat Dec 15 2018,Hoffenheim,0-0,0-0,M'gladbach
+Sat Dec 15 2018,Stuttgart,2-1,0-1,Hertha
+Sun Dec 16 2018,Ein Frankfurt,2-1,1-0,Leverkusen
+Sun Dec 16 2018,RB Leipzig,4-1,2-1,Mainz
+Tue Dec 18 2018,Fortuna Dusseldorf,2-1,1-0,Dortmund
+Tue Dec 18 2018,Hertha,2-2,2-2,Augsburg
+Tue Dec 18 2018,M'gladbach,2-0,0-0,Nurnberg
+Tue Dec 18 2018,Wolfsburg,2-0,2-0,Stuttgart
+Wed Dec 19 2018,Bayern Munich,1-0,0-0,RB Leipzig
+Wed Dec 19 2018,Freiburg,1-1,1-1,Hannover
+Wed Dec 19 2018,Mainz,2-2,2-2,Ein Frankfurt
+Wed Dec 19 2018,Schalke 04,1-2,1-2,Leverkusen
+Wed Dec 19 2018,Werder Bremen,1-1,0-1,Hoffenheim
+Fri Dec 21 2018,Dortmund,2-1,1-1,M'gladbach
+Sat Dec 22 2018,Ein Frankfurt,0-3,0-1,Bayern Munich
+Sat Dec 22 2018,Hannover,0-1,0-0,Fortuna Dusseldorf
+Sat Dec 22 2018,Leverkusen,3-1,2-1,Hertha
+Sat Dec 22 2018,Nurnberg,0-1,0-1,Freiburg
+Sat Dec 22 2018,RB Leipzig,3-2,2-0,Werder Bremen
+Sat Dec 22 2018,Stuttgart,1-3,0-1,Schalke 04
+Sun Dec 23 2018,Augsburg,2-3,0-2,Wolfsburg
+Sun Dec 23 2018,Hoffenheim,1-1,1-1,Mainz
+Fri Jan 18 2019,Hoffenheim,1-3,0-2,Bayern Munich
+Sat Jan 19 2019,Augsburg,1-2,0-1,Fortuna Dusseldorf
+Sat Jan 19 2019,Ein Frankfurt,3-1,3-0,Freiburg
+Sat Jan 19 2019,Hannover,0-1,0-1,Werder Bremen
+Sat Jan 19 2019,Leverkusen,0-1,0-1,M'gladbach
+Sat Jan 19 2019,RB Leipzig,0-1,0-1,Dortmund
+Sat Jan 19 2019,Stuttgart,2-3,0-2,Mainz
+Sun Jan 20 2019,Nurnberg,1-3,1-1,Hertha
+Sun Jan 20 2019,Schalke 04,2-1,1-1,Wolfsburg
+Fri Jan 25 2019,Hertha,2-2,2-2,Schalke 04
+Sat Jan 26 2019,Dortmund,5-1,1-0,Hannover
+Sat Jan 26 2019,Freiburg,2-4,1-1,Hoffenheim
+Sat Jan 26 2019,Mainz,2-1,1-1,Nurnberg
+Sat Jan 26 2019,M'gladbach,2-0,0-0,Augsburg
+Sat Jan 26 2019,Werder Bremen,2-2,1-1,Ein Frankfurt
+Sat Jan 26 2019,Wolfsburg,0-3,0-1,Leverkusen
+Sun Jan 27 2019,Bayern Munich,4-1,1-1,Stuttgart
+Sun Jan 27 2019,Fortuna Dusseldorf,0-4,0-3,RB Leipzig
+Fri Feb 1 2019,Hannover,0-3,0-1,RB Leipzig
+Sat Feb 2 2019,Ein Frankfurt,1-1,1-1,Dortmund
+Sat Feb 2 2019,Hertha,0-1,0-0,Wolfsburg
+Sat Feb 2 2019,Hoffenheim,1-1,1-0,Fortuna Dusseldorf
+Sat Feb 2 2019,Leverkusen,3-1,0-1,Bayern Munich
+Sat Feb 2 2019,Nurnberg,1-1,0-0,Werder Bremen
+Sat Feb 2 2019,Schalke 04,0-2,0-0,M'gladbach
+Sun Feb 3 2019,Augsburg,3-0,2-0,Mainz
+Sun Feb 3 2019,Stuttgart,2-2,0-1,Freiburg
+Fri Feb 8 2019,Mainz,1-5,1-4,Leverkusen
+Sat Feb 9 2019,Bayern Munich,3-1,2-1,Schalke 04
+Sat Feb 9 2019,Dortmund,3-3,2-0,Hoffenheim
+Sat Feb 9 2019,Freiburg,3-3,1-1,Wolfsburg
+Sat Feb 9 2019,Hannover,2-0,1-0,Nurnberg
+Sat Feb 9 2019,M'gladbach,0-3,0-1,Hertha
+Sat Feb 9 2019,RB Leipzig,0-0,0-0,Ein Frankfurt
+Sun Feb 10 2019,Fortuna Dusseldorf,3-0,1-0,Stuttgart
+Sun Feb 10 2019,Werder Bremen,4-0,3-0,Augsburg
+Fri Feb 15 2019,Augsburg,2-3,2-2,Bayern Munich
+Sat Feb 16 2019,Hertha,1-1,1-0,Werder Bremen
+Sat Feb 16 2019,Hoffenheim,3-0,2-0,Hannover
+Sat Feb 16 2019,Schalke 04,0-0,0-0,Freiburg
+Sat Feb 16 2019,Stuttgart,1-3,1-1,RB Leipzig
+Sat Feb 16 2019,Wolfsburg,3-0,1-0,Mainz
+Sun Feb 17 2019,Ein Frankfurt,1-1,1-0,M'gladbach
+Sun Feb 17 2019,Leverkusen,2-0,1-0,Fortuna Dusseldorf
+Mon Feb 18 2019,Nurnberg,0-0,0-0,Dortmund
+Fri Feb 22 2019,Werder Bremen,1-1,1-1,Stuttgart
+Sat Feb 23 2019,Bayern Munich,1-0,0-0,Hertha
+Sat Feb 23 2019,Fortuna Dusseldorf,2-1,0-1,Nurnberg
+Sat Feb 23 2019,Freiburg,5-1,3-0,Augsburg
+Sat Feb 23 2019,Mainz,3-0,1-0,Schalke 04
+Sat Feb 23 2019,M'gladbach,0-3,0-1,Wolfsburg
+Sun Feb 24 2019,Dortmund,3-2,2-1,Leverkusen
+Sun Feb 24 2019,Hannover,0-3,0-0,Ein Frankfurt
+Mon Feb 25 2019,RB Leipzig,1-1,0-1,Hoffenheim
+Fri Mar 1 2019,Augsburg,2-1,1-0,Dortmund
+Sat Mar 2 2019,Ein Frankfurt,3-2,1-1,Hoffenheim
+Sat Mar 2 2019,Hertha,2-1,0-0,Mainz
+Sat Mar 2 2019,Leverkusen,2-0,1-0,Freiburg
+Sat Mar 2 2019,M'gladbach,1-5,1-2,Bayern Munich
+Sat Mar 2 2019,Nurnberg,0-1,0-1,RB Leipzig
+Sat Mar 2 2019,Schalke 04,0-4,0-1,Fortuna Dusseldorf
+Sun Mar 3 2019,Stuttgart,5-1,3-0,Hannover
+Sun Mar 3 2019,Wolfsburg,1-1,0-0,Werder Bremen
+Fri Mar 8 2019,Werder Bremen,4-2,1-1,Schalke 04
+Sat Mar 9 2019,Bayern Munich,6-0,2-0,Wolfsburg
+Sat Mar 9 2019,Dortmund,3-1,0-0,Stuttgart
+Sat Mar 9 2019,Freiburg,2-1,1-0,Hertha
+Sat Mar 9 2019,Mainz,0-1,0-0,M'gladbach
+Sat Mar 9 2019,RB Leipzig,0-0,0-0,Augsburg
+Sun Mar 10 2019,Hannover,2-3,0-2,Leverkusen
+Sun Mar 10 2019,Hoffenheim,2-1,1-0,Nurnberg
+Mon Mar 11 2019,Fortuna Dusseldorf,0-3,0-0,Ein Frankfurt
+Fri Mar 15 2019,M'gladbach,1-1,1-1,Freiburg
+Sat Mar 16 2019,Augsburg,3-1,0-1,Hannover
+Sat Mar 16 2019,Hertha,2-3,2-1,Dortmund
+Sat Mar 16 2019,Schalke 04,0-1,0-1,RB Leipzig
+Sat Mar 16 2019,Stuttgart,1-1,0-1,Hoffenheim
+Sat Mar 16 2019,Wolfsburg,5-2,1-1,Fortuna Dusseldorf
+Sun Mar 17 2019,Bayern Munich,6-0,3-0,Mainz
+Sun Mar 17 2019,Ein Frankfurt,1-0,1-0,Nurnberg
+Sun Mar 17 2019,Leverkusen,1-3,0-2,Werder Bremen
+Fri Mar 29 2019,Hoffenheim,4-1,1-1,Leverkusen
+Sat Mar 30 2019,Dortmund,2-0,0-0,Wolfsburg
+Sat Mar 30 2019,Fortuna Dusseldorf,3-1,3-0,M'gladbach
+Sat Mar 30 2019,Freiburg,1-1,1-1,Bayern Munich
+Sat Mar 30 2019,Nurnberg,3-0,0-0,Augsburg
+Sat Mar 30 2019,RB Leipzig,5-0,2-0,Hertha
+Sat Mar 30 2019,Werder Bremen,3-1,2-0,Mainz
+Sun Mar 31 2019,Ein Frankfurt,3-0,1-0,Stuttgart
+Sun Mar 31 2019,Hannover,0-1,0-1,Schalke 04
+Fri Apr 5 2019,Mainz,5-0,3-0,Freiburg
+Sat Apr 6 2019,Bayern Munich,5-0,4-0,Dortmund
+Sat Apr 6 2019,Hertha,1-2,1-1,Fortuna Dusseldorf
+Sat Apr 6 2019,Leverkusen,2-4,2-1,RB Leipzig
+Sat Apr 6 2019,Schalke 04,1-2,1-1,Ein Frankfurt
+Sat Apr 6 2019,Stuttgart,1-1,0-1,Nurnberg
+Sat Apr 6 2019,Wolfsburg,3-1,1-1,Hannover
+Sun Apr 7 2019,Augsburg,0-4,0-1,Hoffenheim
+Sun Apr 7 2019,M'gladbach,1-1,0-0,Werder Bremen
+Fri Apr 12 2019,Nurnberg,1-1,0-0,Schalke 04
+Sat Apr 13 2019,Dortmund,2-1,2-0,Mainz
+Sat Apr 13 2019,Hannover,0-1,0-0,M'gladbach
+Sat Apr 13 2019,RB Leipzig,2-0,2-0,Wolfsburg
+Sat Apr 13 2019,Stuttgart,0-1,0-0,Leverkusen
+Sat Apr 13 2019,Werder Bremen,2-1,0-0,Freiburg
+Sun Apr 14 2019,Ein Frankfurt,1-3,1-2,Augsburg
+Sun Apr 14 2019,Fortuna Dusseldorf,1-4,0-2,Bayern Munich
+Sun Apr 14 2019,Hoffenheim,2-0,1-0,Hertha
+Sat Apr 20 2019,Augsburg,6-0,3-0,Stuttgart
+Sat Apr 20 2019,Bayern Munich,1-0,0-0,Werder Bremen
+Sat Apr 20 2019,Leverkusen,2-0,0-0,Nurnberg
+Sat Apr 20 2019,Mainz,3-1,1-1,Fortuna Dusseldorf
+Sat Apr 20 2019,M'gladbach,1-2,0-1,RB Leipzig
+Sat Apr 20 2019,Schalke 04,2-5,0-2,Hoffenheim
+Sun Apr 21 2019,Freiburg,0-4,0-1,Dortmund
+Sun Apr 21 2019,Hertha,0-0,0-0,Hannover
+Mon Apr 22 2019,Wolfsburg,1-1,0-0,Ein Frankfurt
+Fri Apr 26 2019,Augsburg,1-4,1-1,Leverkusen
+Sat Apr 27 2019,Dortmund,2-4,1-2,Schalke 04
+Sat Apr 27 2019,Ein Frankfurt,0-0,0-0,Hertha
+Sat Apr 27 2019,Fortuna Dusseldorf,4-1,2-1,Werder Bremen
+Sat Apr 27 2019,Hannover,1-0,0-0,Mainz
+Sat Apr 27 2019,RB Leipzig,2-1,1-0,Freiburg
+Sat Apr 27 2019,Stuttgart,1-0,0-0,M'gladbach
+Sun Apr 28 2019,Hoffenheim,1-4,1-1,Wolfsburg
+Sun Apr 28 2019,Nurnberg,1-1,0-0,Bayern Munich
+Fri May 3 2019,Mainz,3-3,1-2,RB Leipzig
+Sat May 4 2019,Bayern Munich,3-1,2-0,Hannover
+Sat May 4 2019,Hertha,3-1,2-0,Stuttgart
+Sat May 4 2019,M'gladbach,2-2,0-1,Hoffenheim
+Sat May 4 2019,Werder Bremen,2-2,0-2,Dortmund
+Sat May 4 2019,Wolfsburg,2-0,1-0,Nurnberg
+Sun May 5 2019,Freiburg,1-1,1-1,Fortuna Dusseldorf
+Sun May 5 2019,Leverkusen,6-1,6-1,Ein Frankfurt
+Sun May 5 2019,Schalke 04,0-0,0-0,Augsburg
+Sat May 11 2019,Augsburg,3-4,1-0,Hertha
+Sat May 11 2019,Dortmund,3-2,1-0,Fortuna Dusseldorf
+Sat May 11 2019,Hannover,3-0,1-0,Freiburg
+Sat May 11 2019,Hoffenheim,0-1,0-1,Werder Bremen
+Sat May 11 2019,Leverkusen,1-1,1-0,Schalke 04
+Sat May 11 2019,Nurnberg,0-4,0-0,M'gladbach
+Sat May 11 2019,RB Leipzig,0-0,0-0,Bayern Munich
+Sat May 11 2019,Stuttgart,3-0,1-0,Wolfsburg
+Sun May 12 2019,Ein Frankfurt,0-2,0-0,Mainz
+Sat May 18 2019,Bayern Munich,5-1,1-0,Ein Frankfurt
+Sat May 18 2019,Fortuna Dusseldorf,2-1,0-0,Hannover
+Sat May 18 2019,Freiburg,5-1,2-0,Nurnberg
+Sat May 18 2019,Hertha,1-5,1-2,Leverkusen
+Sat May 18 2019,Mainz,4-2,0-2,Hoffenheim
+Sat May 18 2019,M'gladbach,0-2,0-1,Dortmund
+Sat May 18 2019,Schalke 04,0-0,0-0,Stuttgart
+Sat May 18 2019,Werder Bremen,2-1,1-0,RB Leipzig
+Sat May 18 2019,Wolfsburg,8-1,3-0,Augsburg

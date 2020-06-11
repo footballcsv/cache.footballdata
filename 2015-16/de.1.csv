@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 14 2015,Bayern Munich,5-0,1-0,Hamburg
+Sat Aug 15 2015,Augsburg,0-1,0-0,Hertha
+Sat Aug 15 2015,Darmstadt,2-2,1-0,Hannover
+Sat Aug 15 2015,Dortmund,4-0,3-0,M'gladbach
+Sat Aug 15 2015,Leverkusen,2-1,1-1,Hoffenheim
+Sat Aug 15 2015,Mainz,0-1,0-0,Ingolstadt
+Sat Aug 15 2015,Werder Bremen,0-3,0-1,Schalke 04
+Sun Aug 16 2015,Stuttgart,1-3,0-0,FC Koln
+Sun Aug 16 2015,Wolfsburg,2-1,2-1,Ein Frankfurt
+Fri Aug 21 2015,Hertha,1-1,1-1,Werder Bremen
+Sat Aug 22 2015,Ein Frankfurt,1-1,0-1,Augsburg
+Sat Aug 22 2015,FC Koln,1-1,1-0,Wolfsburg
+Sat Aug 22 2015,Hamburg,3-2,1-2,Stuttgart
+Sat Aug 22 2015,Hannover,0-1,0-1,Leverkusen
+Sat Aug 22 2015,Hoffenheim,1-2,1-1,Bayern Munich
+Sat Aug 22 2015,Schalke 04,1-1,0-1,Darmstadt
+Sun Aug 23 2015,Ingolstadt,0-4,0-0,Dortmund
+Sun Aug 23 2015,M'gladbach,1-2,0-1,Mainz
+Fri Aug 28 2015,Wolfsburg,3-0,1-0,Schalke 04
+Sat Aug 29 2015,Augsburg,0-1,0-0,Ingolstadt
+Sat Aug 29 2015,Bayern Munich,3-0,1-0,Leverkusen
+Sat Aug 29 2015,Darmstadt,0-0,0-0,Hoffenheim
+Sat Aug 29 2015,FC Koln,2-1,0-0,Hamburg
+Sat Aug 29 2015,Mainz,3-0,2-0,Hannover
+Sat Aug 29 2015,Stuttgart,1-4,1-2,Ein Frankfurt
+Sun Aug 30 2015,Dortmund,3-1,1-0,Hertha
+Sun Aug 30 2015,Werder Bremen,2-1,1-1,M'gladbach
+Fri Sep 11 2015,M'gladbach,0-3,0-2,Hamburg
+Sat Sep 12 2015,Bayern Munich,2-1,0-1,Augsburg
+Sat Sep 12 2015,Ein Frankfurt,6-2,4-1,FC Koln
+Sat Sep 12 2015,Hannover,2-4,1-2,Dortmund
+Sat Sep 12 2015,Hertha,2-1,2-1,Stuttgart
+Sat Sep 12 2015,Ingolstadt,0-0,0-0,Wolfsburg
+Sat Sep 12 2015,Leverkusen,0-1,0-1,Darmstadt
+Sun Sep 13 2015,Hoffenheim,1-3,0-1,Werder Bremen
+Sun Sep 13 2015,Schalke 04,2-1,1-1,Mainz
+Fri Sep 18 2015,Mainz,3-1,1-1,Hoffenheim
+Sat Sep 19 2015,Darmstadt,0-3,0-1,Bayern Munich
+Sat Sep 19 2015,FC Koln,1-0,0-0,M'gladbach
+Sat Sep 19 2015,Hamburg,0-0,0-0,Ein Frankfurt
+Sat Sep 19 2015,Werder Bremen,0-1,0-0,Ingolstadt
+Sat Sep 19 2015,Wolfsburg,2-0,0-0,Hertha
+Sun Sep 20 2015,Augsburg,2-0,2-0,Hannover
+Sun Sep 20 2015,Dortmund,3-0,1-0,Leverkusen
+Sun Sep 20 2015,Stuttgart,0-1,0-0,Schalke 04
+Tue Sep 22 2015,Bayern Munich,5-1,0-1,Wolfsburg
+Tue Sep 22 2015,Darmstadt,2-1,1-1,Werder Bremen
+Tue Sep 22 2015,Hertha,2-0,1-0,FC Koln
+Tue Sep 22 2015,Ingolstadt,0-1,0-0,Hamburg
+Wed Sep 23 2015,Hannover,1-3,1-2,Stuttgart
+Wed Sep 23 2015,Hoffenheim,1-1,1-0,Dortmund
+Wed Sep 23 2015,Leverkusen,1-0,0-0,Mainz
+Wed Sep 23 2015,M'gladbach,4-2,4-0,Augsburg
+Wed Sep 23 2015,Schalke 04,2-0,0-0,Ein Frankfurt
+Fri Sep 25 2015,FC Koln,1-1,1-1,Ingolstadt
+Sat Sep 26 2015,Augsburg,1-3,1-1,Hoffenheim
+Sat Sep 26 2015,Hamburg,0-1,0-0,Schalke 04
+Sat Sep 26 2015,Mainz,0-3,0-0,Bayern Munich
+Sat Sep 26 2015,Stuttgart,1-3,1-2,M'gladbach
+Sat Sep 26 2015,Werder Bremen,0-3,0-1,Leverkusen
+Sat Sep 26 2015,Wolfsburg,1-1,1-0,Hannover
+Sun Sep 27 2015,Dortmund,2-2,0-1,Darmstadt
+Sun Sep 27 2015,Ein Frankfurt,1-1,1-0,Hertha
+Fri Oct 2 2015,Darmstadt,2-3,1-2,Mainz
+Sat Oct 3 2015,Hannover,1-0,0-0,Werder Bremen
+Sat Oct 3 2015,Hertha,3-0,1-0,Hamburg
+Sat Oct 3 2015,Hoffenheim,2-2,1-0,Stuttgart
+Sat Oct 3 2015,Ingolstadt,2-0,0-0,Ein Frankfurt
+Sat Oct 3 2015,M'gladbach,2-0,0-0,Wolfsburg
+Sun Oct 4 2015,Bayern Munich,5-1,2-1,Dortmund
+Sun Oct 4 2015,Leverkusen,1-1,1-1,Augsburg
+Sun Oct 4 2015,Schalke 04,0-3,0-1,FC Koln
+Fri Oct 16 2015,Mainz,0-2,0-1,Dortmund
+Sat Oct 17 2015,Augsburg,0-2,0-2,Darmstadt
+Sat Oct 17 2015,Ein Frankfurt,1-5,1-1,M'gladbach
+Sat Oct 17 2015,Hamburg,0-0,0-0,Leverkusen
+Sat Oct 17 2015,Schalke 04,2-1,1-0,Hertha
+Sat Oct 17 2015,Werder Bremen,0-1,0-1,Bayern Munich
+Sat Oct 17 2015,Wolfsburg,4-2,2-1,Hoffenheim
+Sun Oct 18 2015,FC Koln,0-1,0-1,Hannover
+Sun Oct 18 2015,Stuttgart,1-0,0-0,Ingolstadt
+Fri Oct 23 2015,Hoffenheim,0-1,0-0,Hamburg
+Sat Oct 24 2015,Bayern Munich,4-0,2-0,FC Koln
+Sat Oct 24 2015,Darmstadt,0-1,0-0,Wolfsburg
+Sat Oct 24 2015,Hannover,1-2,0-0,Ein Frankfurt
+Sat Oct 24 2015,Ingolstadt,0-1,0-1,Hertha
+Sat Oct 24 2015,Leverkusen,4-3,0-0,Stuttgart
+Sat Oct 24 2015,Mainz,1-3,0-3,Werder Bremen
+Sun Oct 25 2015,Dortmund,5-1,3-0,Augsburg
+Sun Oct 25 2015,M'gladbach,3-1,1-1,Schalke 04
+Fri Oct 30 2015,Ein Frankfurt,0-0,0-0,Bayern Munich
+Sat Oct 31 2015,Augsburg,3-3,1-2,Mainz
+Sat Oct 31 2015,FC Koln,0-0,0-0,Hoffenheim
+Sat Oct 31 2015,Hertha,1-4,0-2,M'gladbach
+Sat Oct 31 2015,Schalke 04,1-1,0-1,Ingolstadt
+Sat Oct 31 2015,Werder Bremen,1-3,1-2,Dortmund
+Sat Oct 31 2015,Wolfsburg,2-1,1-1,Leverkusen
+Sun Nov 1 2015,Hamburg,1-2,1-0,Hannover
+Sun Nov 1 2015,Stuttgart,2-0,0-0,Darmstadt
+Fri Nov 6 2015,Hannover,1-3,0-1,Hertha
+Sat Nov 7 2015,Bayern Munich,4-0,4-0,Stuttgart
+Sat Nov 7 2015,Darmstadt,1-1,0-1,Hamburg
+Sat Nov 7 2015,Hoffenheim,0-0,0-0,Ein Frankfurt
+Sat Nov 7 2015,Leverkusen,1-2,1-1,FC Koln
+Sat Nov 7 2015,Mainz,2-0,1-0,Wolfsburg
+Sat Nov 7 2015,M'gladbach,0-0,0-0,Ingolstadt
+Sun Nov 8 2015,Augsburg,1-2,0-0,Werder Bremen
+Sun Nov 8 2015,Dortmund,3-2,2-1,Schalke 04
+Fri Nov 20 2015,Hamburg,3-1,2-0,Dortmund
+Sat Nov 21 2015,Ein Frankfurt,1-3,1-2,Leverkusen
+Sat Nov 21 2015,FC Koln,0-0,0-0,Mainz
+Sat Nov 21 2015,M'gladbach,2-1,1-0,Hannover
+Sat Nov 21 2015,Schalke 04,1-3,1-1,Bayern Munich
+Sat Nov 21 2015,Stuttgart,0-4,0-3,Augsburg
+Sat Nov 21 2015,Wolfsburg,6-0,2-0,Werder Bremen
+Sun Nov 22 2015,Hertha,1-0,1-0,Hoffenheim
+Sun Nov 22 2015,Ingolstadt,3-1,0-1,Darmstadt
+Fri Nov 27 2015,Darmstadt,0-0,0-0,FC Koln
+Sat Nov 28 2015,Bayern Munich,2-0,2-0,Hertha
+Sat Nov 28 2015,Hannover,4-0,3-0,Ingolstadt
+Sat Nov 28 2015,Hoffenheim,3-3,2-1,M'gladbach
+Sat Nov 28 2015,Mainz,2-1,2-0,Ein Frankfurt
+Sat Nov 28 2015,Werder Bremen,1-3,0-2,Hamburg
+Sun Nov 29 2015,Augsburg,0-0,0-0,Wolfsburg
+Sun Nov 29 2015,Dortmund,4-1,2-1,Stuttgart
+Sun Nov 29 2015,Leverkusen,1-1,0-0,Schalke 04
+Fri Dec 4 2015,Schalke 04,3-1,0-0,Hannover
+Sat Dec 5 2015,FC Koln,0-1,0-0,Augsburg
+Sat Dec 5 2015,Hamburg,1-3,0-1,Mainz
+Sat Dec 5 2015,Hertha,2-1,1-1,Leverkusen
+Sat Dec 5 2015,Ingolstadt,1-1,0-0,Hoffenheim
+Sat Dec 5 2015,M'gladbach,3-1,0-0,Bayern Munich
+Sat Dec 5 2015,Wolfsburg,1-2,0-1,Dortmund
+Sun Dec 6 2015,Ein Frankfurt,0-1,0-1,Darmstadt
+Sun Dec 6 2015,Stuttgart,1-1,1-0,Werder Bremen
+Fri Dec 11 2015,Mainz,0-0,0-0,Stuttgart
+Sat Dec 12 2015,Bayern Munich,2-0,0-0,Ingolstadt
+Sat Dec 12 2015,Darmstadt,0-4,0-2,Hertha
+Sat Dec 12 2015,Hoffenheim,1-0,1-0,Hannover
+Sat Dec 12 2015,Leverkusen,5-0,1-0,M'gladbach
+Sat Dec 12 2015,Werder Bremen,1-1,1-0,FC Koln
+Sat Dec 12 2015,Wolfsburg,1-1,0-1,Hamburg
+Sun Dec 13 2015,Augsburg,2-1,1-0,Schalke 04
+Sun Dec 13 2015,Dortmund,4-1,1-1,Ein Frankfurt
+Fri Dec 18 2015,Schalke 04,1-0,1-0,Hoffenheim
+Sat Dec 19 2015,Ein Frankfurt,2-1,1-1,Werder Bremen
+Sat Dec 19 2015,FC Koln,2-1,0-1,Dortmund
+Sat Dec 19 2015,Hamburg,0-1,0-0,Augsburg
+Sat Dec 19 2015,Hannover,0-1,0-1,Bayern Munich
+Sat Dec 19 2015,Ingolstadt,0-1,0-0,Leverkusen
+Sat Dec 19 2015,Stuttgart,3-1,2-1,Wolfsburg
+Sun Dec 20 2015,Hertha,2-0,1-0,Mainz
+Sun Dec 20 2015,M'gladbach,3-2,1-1,Darmstadt
+Fri Jan 22 2016,Hamburg,1-2,0-1,Bayern Munich
+Sat Jan 23 2016,FC Koln,1-3,1-1,Stuttgart
+Sat Jan 23 2016,Hannover,1-2,1-1,Darmstadt
+Sat Jan 23 2016,Hertha,0-0,0-0,Augsburg
+Sat Jan 23 2016,Hoffenheim,1-1,1-0,Leverkusen
+Sat Jan 23 2016,Ingolstadt,1-0,1-0,Mainz
+Sat Jan 23 2016,M'gladbach,1-3,0-1,Dortmund
+Sun Jan 24 2016,Ein Frankfurt,3-2,0-1,Wolfsburg
+Sun Jan 24 2016,Schalke 04,1-3,1-1,Werder Bremen
+Fri Jan 29 2016,Mainz,1-0,1-0,M'gladbach
+Sat Jan 30 2016,Augsburg,0-0,0-0,Ein Frankfurt
+Sat Jan 30 2016,Darmstadt,0-2,0-1,Schalke 04
+Sat Jan 30 2016,Dortmund,2-0,0-0,Ingolstadt
+Sat Jan 30 2016,Leverkusen,3-0,1-0,Hannover
+Sat Jan 30 2016,Stuttgart,2-1,0-0,Hamburg
+Sat Jan 30 2016,Werder Bremen,3-3,0-2,Hertha
+Sun Jan 31 2016,Bayern Munich,2-0,1-0,Hoffenheim
+Sun Jan 31 2016,Wolfsburg,1-1,0-0,FC Koln
+Fri Feb 5 2016,M'gladbach,5-1,2-0,Werder Bremen
+Sat Feb 6 2016,Ein Frankfurt,2-4,0-2,Stuttgart
+Sat Feb 6 2016,Hannover,0-1,0-1,Mainz
+Sat Feb 6 2016,Hertha,0-0,0-0,Dortmund
+Sat Feb 6 2016,Ingolstadt,2-1,0-1,Augsburg
+Sat Feb 6 2016,Leverkusen,0-0,0-0,Bayern Munich
+Sat Feb 6 2016,Schalke 04,3-0,2-0,Wolfsburg
+Sun Feb 7 2016,Hamburg,1-1,0-1,FC Koln
+Sun Feb 7 2016,Hoffenheim,0-2,0-1,Darmstadt
+Fri Feb 12 2016,Mainz,2-1,1-0,Schalke 04
+Sat Feb 13 2016,Darmstadt,1-2,1-0,Leverkusen
+Sat Feb 13 2016,Dortmund,1-0,0-0,Hannover
+Sat Feb 13 2016,FC Koln,3-1,1-1,Ein Frankfurt
+Sat Feb 13 2016,Stuttgart,2-0,0-0,Hertha
+Sat Feb 13 2016,Werder Bremen,1-1,1-1,Hoffenheim
+Sat Feb 13 2016,Wolfsburg,2-0,2-0,Ingolstadt
+Sun Feb 14 2016,Augsburg,1-3,0-1,Bayern Munich
+Sun Feb 14 2016,Hamburg,3-2,2-1,M'gladbach
+Fri Feb 19 2016,Ein Frankfurt,0-0,0-0,Hamburg
+Sat Feb 20 2016,Bayern Munich,3-1,0-1,Darmstadt
+Sat Feb 20 2016,Hertha,1-1,0-0,Wolfsburg
+Sat Feb 20 2016,Hoffenheim,3-2,1-1,Mainz
+Sat Feb 20 2016,Ingolstadt,2-0,1-0,Werder Bremen
+Sat Feb 20 2016,M'gladbach,1-0,1-0,FC Koln
+Sun Feb 21 2016,Hannover,0-1,0-1,Augsburg
+Sun Feb 21 2016,Leverkusen,0-1,0-0,Dortmund
+Sun Feb 21 2016,Schalke 04,1-1,1-0,Stuttgart
+Fri Feb 26 2016,FC Koln,0-1,0-1,Hertha
+Sat Feb 27 2016,Hamburg,1-1,1-0,Ingolstadt
+Sat Feb 27 2016,Stuttgart,1-2,1-1,Hannover
+Sat Feb 27 2016,Werder Bremen,2-2,1-1,Darmstadt
+Sat Feb 27 2016,Wolfsburg,0-2,0-0,Bayern Munich
+Sun Feb 28 2016,Augsburg,2-2,0-1,M'gladbach
+Sun Feb 28 2016,Dortmund,3-1,0-1,Hoffenheim
+Sun Feb 28 2016,Ein Frankfurt,0-0,0-0,Schalke 04
+Sun Feb 28 2016,Mainz,3-1,2-0,Leverkusen
+Tue Mar 1 2016,Hannover,0-4,0-1,Wolfsburg
+Tue Mar 1 2016,Ingolstadt,1-1,1-0,FC Koln
+Wed Mar 2 2016,Bayern Munich,1-2,0-1,Mainz
+Wed Mar 2 2016,Darmstadt,0-2,0-1,Dortmund
+Wed Mar 2 2016,Hertha,2-0,0-0,Ein Frankfurt
+Wed Mar 2 2016,Hoffenheim,2-1,1-1,Augsburg
+Wed Mar 2 2016,Leverkusen,1-4,0-1,Werder Bremen
+Wed Mar 2 2016,M'gladbach,4-0,1-0,Stuttgart
+Wed Mar 2 2016,Schalke 04,3-2,1-1,Hamburg
+Sat Mar 5 2016,Augsburg,3-3,2-0,Leverkusen
+Sat Mar 5 2016,Dortmund,0-0,0-0,Bayern Munich
+Sat Mar 5 2016,Ein Frankfurt,1-1,0-1,Ingolstadt
+Sat Mar 5 2016,FC Koln,1-3,1-2,Schalke 04
+Sat Mar 5 2016,Stuttgart,5-1,2-0,Hoffenheim
+Sat Mar 5 2016,Werder Bremen,4-1,2-1,Hannover
+Sat Mar 5 2016,Wolfsburg,2-1,2-1,M'gladbach
+Sun Mar 6 2016,Hamburg,2-0,0-0,Hertha
+Sun Mar 6 2016,Mainz,0-0,0-0,Darmstadt
+Fri Mar 11 2016,Hertha,2-0,1-0,Schalke 04
+Sat Mar 12 2016,Bayern Munich,5-0,2-0,Werder Bremen
+Sat Mar 12 2016,Darmstadt,2-2,2-0,Augsburg
+Sat Mar 12 2016,Hannover,0-2,0-1,FC Koln
+Sat Mar 12 2016,Hoffenheim,1-0,1-0,Wolfsburg
+Sat Mar 12 2016,Ingolstadt,3-3,1-1,Stuttgart
+Sat Mar 12 2016,M'gladbach,3-0,1-0,Ein Frankfurt
+Sun Mar 13 2016,Dortmund,2-0,1-0,Mainz
+Sun Mar 13 2016,Leverkusen,1-0,1-0,Hamburg
+Fri Mar 18 2016,Schalke 04,2-1,0-0,M'gladbach
+Sat Mar 19 2016,Ein Frankfurt,1-0,1-0,Hannover
+Sat Mar 19 2016,FC Koln,0-1,0-1,Bayern Munich
+Sat Mar 19 2016,Hamburg,1-3,1-2,Hoffenheim
+Sat Mar 19 2016,Hertha,2-1,0-0,Ingolstadt
+Sat Mar 19 2016,Werder Bremen,1-1,1-1,Mainz
+Sat Mar 19 2016,Wolfsburg,1-1,0-0,Darmstadt
+Sun Mar 20 2016,Augsburg,1-3,1-1,Dortmund
+Sun Mar 20 2016,Stuttgart,0-2,0-1,Leverkusen
+Fri Apr 1 2016,Leverkusen,3-0,1-0,Wolfsburg
+Sat Apr 2 2016,Bayern Munich,1-0,1-0,Ein Frankfurt
+Sat Apr 2 2016,Darmstadt,2-2,1-2,Stuttgart
+Sat Apr 2 2016,Dortmund,3-2,0-0,Werder Bremen
+Sat Apr 2 2016,Hannover,0-3,0-0,Hamburg
+Sat Apr 2 2016,Ingolstadt,3-0,2-0,Schalke 04
+Sat Apr 2 2016,Mainz,4-2,2-2,Augsburg
+Sun Apr 3 2016,Hoffenheim,1-1,0-0,FC Koln
+Sun Apr 3 2016,M'gladbach,5-0,1-0,Hertha
+Fri Apr 8 2016,Hertha,2-2,1-1,Hannover
+Sat Apr 9 2016,Ein Frankfurt,0-2,0-0,Hoffenheim
+Sat Apr 9 2016,Hamburg,1-2,0-1,Darmstadt
+Sat Apr 9 2016,Ingolstadt,1-0,0-0,M'gladbach
+Sat Apr 9 2016,Stuttgart,1-3,0-1,Bayern Munich
+Sat Apr 9 2016,Werder Bremen,1-2,1-0,Augsburg
+Sat Apr 9 2016,Wolfsburg,1-1,0-0,Mainz
+Sun Apr 10 2016,FC Koln,0-2,0-2,Leverkusen
+Sun Apr 10 2016,Schalke 04,2-2,0-0,Dortmund
+Fri Apr 15 2016,Hannover,2-0,0-0,M'gladbach
+Sat Apr 16 2016,Augsburg,1-0,1-0,Stuttgart
+Sat Apr 16 2016,Bayern Munich,3-0,0-0,Schalke 04
+Sat Apr 16 2016,Darmstadt,2-0,0-0,Ingolstadt
+Sat Apr 16 2016,Hoffenheim,2-1,1-1,Hertha
+Sat Apr 16 2016,Leverkusen,3-0,0-0,Ein Frankfurt
+Sat Apr 16 2016,Werder Bremen,3-2,1-1,Wolfsburg
+Sun Apr 17 2016,Dortmund,3-0,2-0,Hamburg
+Sun Apr 17 2016,Mainz,2-3,1-0,FC Koln
+Fri Apr 22 2016,Hamburg,2-1,2-0,Werder Bremen
+Sat Apr 23 2016,FC Koln,4-1,2-1,Darmstadt
+Sat Apr 23 2016,Hertha,0-2,0-0,Bayern Munich
+Sat Apr 23 2016,Ingolstadt,2-2,2-0,Hannover
+Sat Apr 23 2016,Schalke 04,2-3,2-0,Leverkusen
+Sat Apr 23 2016,Stuttgart,0-3,0-2,Dortmund
+Sat Apr 23 2016,Wolfsburg,0-2,0-1,Augsburg
+Sun Apr 24 2016,Ein Frankfurt,2-1,1-1,Mainz
+Sun Apr 24 2016,M'gladbach,3-1,2-0,Hoffenheim
+Fri Apr 29 2016,Augsburg,0-0,0-0,FC Koln
+Sat Apr 30 2016,Bayern Munich,1-1,1-0,M'gladbach
+Sat Apr 30 2016,Darmstadt,1-2,1-0,Ein Frankfurt
+Sat Apr 30 2016,Dortmund,5-1,2-0,Wolfsburg
+Sat Apr 30 2016,Hannover,1-3,1-2,Schalke 04
+Sat Apr 30 2016,Hoffenheim,2-1,1-1,Ingolstadt
+Sat Apr 30 2016,Leverkusen,2-1,2-1,Hertha
+Sat Apr 30 2016,Mainz,0-0,0-0,Hamburg
+Mon May 2 2016,Werder Bremen,6-2,3-1,Stuttgart
+Sat May 7 2016,Ein Frankfurt,1-0,1-0,Dortmund
+Sat May 7 2016,FC Koln,0-0,0-0,Werder Bremen
+Sat May 7 2016,Hamburg,0-1,0-0,Wolfsburg
+Sat May 7 2016,Hannover,1-0,1-0,Hoffenheim
+Sat May 7 2016,Hertha,1-2,1-1,Darmstadt
+Sat May 7 2016,Ingolstadt,1-2,1-2,Bayern Munich
+Sat May 7 2016,M'gladbach,2-1,1-1,Leverkusen
+Sat May 7 2016,Schalke 04,1-1,0-0,Augsburg
+Sat May 7 2016,Stuttgart,1-3,1-1,Mainz
+Sat May 14 2016,Augsburg,1-3,1-1,Hamburg
+Sat May 14 2016,Bayern Munich,3-1,2-0,Hannover
+Sat May 14 2016,Darmstadt,0-2,0-1,M'gladbach
+Sat May 14 2016,Dortmund,2-2,1-2,FC Koln
+Sat May 14 2016,Hoffenheim,1-4,1-2,Schalke 04
+Sat May 14 2016,Leverkusen,3-2,2-1,Ingolstadt
+Sat May 14 2016,Mainz,0-0,0-0,Hertha
+Sat May 14 2016,Werder Bremen,1-0,0-0,Ein Frankfurt
+Sat May 14 2016,Wolfsburg,3-1,2-0,Stuttgart

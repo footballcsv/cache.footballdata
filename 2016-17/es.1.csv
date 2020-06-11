@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 19 2016,La Coruna,2-1,0-0,Eibar
+Fri Aug 19 2016,Malaga,1-1,0-0,Osasuna
+Sat Aug 20 2016,Barcelona,6-2,3-1,Betis
+Sat Aug 20 2016,Granada,1-1,0-0,Villarreal
+Sat Aug 20 2016,Sevilla,6-4,3-3,Espanol
+Sun Aug 21 2016,Ath Madrid,1-1,0-0,Alaves
+Sun Aug 21 2016,Sociedad,0-3,0-2,Real Madrid
+Sun Aug 21 2016,Sp Gijon,2-1,0-0,Ath Bilbao
+Mon Aug 22 2016,Celta,0-1,0-0,Leganes
+Mon Aug 22 2016,Valencia,2-4,2-3,Las Palmas
+Fri Aug 26 2016,Betis,0-0,0-0,La Coruna
+Fri Aug 26 2016,Espanol,2-2,1-0,Malaga
+Sat Aug 27 2016,Eibar,1-0,0-0,Valencia
+Sat Aug 27 2016,Leganes,0-0,0-0,Ath Madrid
+Sat Aug 27 2016,Osasuna,0-2,0-1,Sociedad
+Sat Aug 27 2016,Real Madrid,2-1,0-0,Celta
+Sun Aug 28 2016,Alaves,0-0,0-0,Sp Gijon
+Sun Aug 28 2016,Ath Bilbao,0-1,0-1,Barcelona
+Sun Aug 28 2016,Las Palmas,5-1,1-1,Granada
+Sun Aug 28 2016,Villarreal,0-0,0-0,Sevilla
+Fri Sep 9 2016,Sociedad,1-1,0-0,Espanol
+Sat Sep 10 2016,Barcelona,1-2,0-1,Alaves
+Sat Sep 10 2016,Celta,0-4,0-0,Ath Madrid
+Sat Sep 10 2016,Malaga,0-2,0-2,Villarreal
+Sat Sep 10 2016,Real Madrid,5-2,3-0,Osasuna
+Sat Sep 10 2016,Sevilla,2-1,0-1,Las Palmas
+Sun Sep 11 2016,Granada,1-2,0-1,Eibar
+Sun Sep 11 2016,La Coruna,0-1,0-1,Ath Bilbao
+Sun Sep 11 2016,Sp Gijon,2-1,2-0,Leganes
+Sun Sep 11 2016,Valencia,2-3,0-1,Betis
+Fri Sep 16 2016,Betis,2-2,1-2,Granada
+Sat Sep 17 2016,Ath Madrid,5-0,3-0,Sp Gijon
+Sat Sep 17 2016,Eibar,1-1,0-1,Sevilla
+Sat Sep 17 2016,Las Palmas,1-0,1-0,Malaga
+Sat Sep 17 2016,Leganes,1-5,0-3,Barcelona
+Sun Sep 18 2016,Ath Bilbao,2-1,2-1,Valencia
+Sun Sep 18 2016,Espanol,0-2,0-1,Real Madrid
+Sun Sep 18 2016,Osasuna,0-0,0-0,Celta
+Sun Sep 18 2016,Villarreal,2-1,2-1,Sociedad
+Mon Sep 19 2016,Alaves,0-0,0-0,La Coruna
+Tue Sep 20 2016,Malaga,2-1,1-1,Eibar
+Tue Sep 20 2016,Sevilla,1-0,0-0,Betis
+Wed Sep 21 2016,Barcelona,1-1,1-0,Ath Madrid
+Wed Sep 21 2016,Celta,2-1,0-0,Sp Gijon
+Wed Sep 21 2016,Granada,1-2,1-1,Ath Bilbao
+Wed Sep 21 2016,Real Madrid,1-1,0-1,Villarreal
+Wed Sep 21 2016,Sociedad,4-1,3-0,Las Palmas
+Thu Sep 22 2016,La Coruna,1-2,1-0,Leganes
+Thu Sep 22 2016,Osasuna,1-2,0-1,Espanol
+Thu Sep 22 2016,Valencia,2-1,1-1,Alaves
+Fri Sep 23 2016,Betis,1-0,1-0,Malaga
+Sat Sep 24 2016,Ath Bilbao,3-1,1-0,Sevilla
+Sat Sep 24 2016,Eibar,2-0,0-0,Sociedad
+Sat Sep 24 2016,Las Palmas,2-2,1-1,Real Madrid
+Sat Sep 24 2016,Sp Gijon,0-5,0-2,Barcelona
+Sun Sep 25 2016,Ath Madrid,1-0,0-0,La Coruna
+Sun Sep 25 2016,Espanol,0-2,0-0,Celta
+Sun Sep 25 2016,Leganes,1-2,1-1,Valencia
+Sun Sep 25 2016,Villarreal,3-1,3-1,Osasuna
+Mon Sep 26 2016,Alaves,3-1,0-0,Granada
+Fri Sep 30 2016,Sociedad,1-0,0-0,Betis
+Sat Oct 1 2016,Granada,0-1,0-0,Leganes
+Sat Oct 1 2016,La Coruna,2-1,1-0,Sp Gijon
+Sat Oct 1 2016,Osasuna,2-2,2-0,Las Palmas
+Sat Oct 1 2016,Sevilla,2-1,0-0,Alaves
+Sun Oct 2 2016,Celta,4-3,3-0,Barcelona
+Sun Oct 2 2016,Espanol,0-0,0-0,Villarreal
+Sun Oct 2 2016,Malaga,2-1,0-1,Ath Bilbao
+Sun Oct 2 2016,Real Madrid,1-1,1-1,Eibar
+Sun Oct 2 2016,Valencia,0-2,0-0,Ath Madrid
+Fri Oct 14 2016,Las Palmas,0-0,0-0,Espanol
+Sat Oct 15 2016,Ath Madrid,7-1,2-1,Granada
+Sat Oct 15 2016,Barcelona,4-0,3-0,La Coruna
+Sat Oct 15 2016,Betis,1-6,0-4,Real Madrid
+Sat Oct 15 2016,Leganes,2-3,0-1,Sevilla
+Sun Oct 16 2016,Alaves,1-1,1-0,Malaga
+Sun Oct 16 2016,Ath Bilbao,3-2,0-1,Sociedad
+Sun Oct 16 2016,Sp Gijon,1-2,1-1,Valencia
+Sun Oct 16 2016,Villarreal,5-0,3-0,Celta
+Mon Oct 17 2016,Eibar,2-3,2-2,Osasuna
+Fri Oct 21 2016,Osasuna,1-2,0-1,Betis
+Sat Oct 22 2016,Espanol,3-3,0-3,Eibar
+Sat Oct 22 2016,Granada,0-0,0-0,Sp Gijon
+Sat Oct 22 2016,Sociedad,3-0,1-0,Alaves
+Sat Oct 22 2016,Valencia,2-3,0-1,Barcelona
+Sun Oct 23 2016,Celta,4-1,1-1,La Coruna
+Sun Oct 23 2016,Malaga,4-0,2-0,Leganes
+Sun Oct 23 2016,Real Madrid,2-1,1-1,Ath Bilbao
+Sun Oct 23 2016,Sevilla,1-0,0-0,Ath Madrid
+Sun Oct 23 2016,Villarreal,2-1,0-1,Las Palmas
+Fri Oct 28 2016,Leganes,0-2,0-1,Sociedad
+Sat Oct 29 2016,Alaves,1-4,1-2,Real Madrid
+Sat Oct 29 2016,Ath Madrid,4-2,3-1,Malaga
+Sat Oct 29 2016,Barcelona,1-0,0-0,Granada
+Sat Oct 29 2016,Sp Gijon,1-1,1-1,Sevilla
+Sun Oct 30 2016,Ath Bilbao,1-1,1-1,Osasuna
+Sun Oct 30 2016,Betis,0-1,0-0,Espanol
+Sun Oct 30 2016,Eibar,2-1,0-1,Villarreal
+Sun Oct 30 2016,Las Palmas,3-3,0-3,Celta
+Mon Oct 31 2016,La Coruna,1-1,1-0,Valencia
+Fri Nov 4 2016,Malaga,3-2,1-1,Sp Gijon
+Sat Nov 5 2016,Granada,1-1,0-0,La Coruna
+Sat Nov 5 2016,Las Palmas,1-0,0-0,Eibar
+Sat Nov 5 2016,Osasuna,0-1,0-0,Alaves
+Sat Nov 5 2016,Sociedad,2-0,0-0,Ath Madrid
+Sun Nov 6 2016,Celta,2-1,1-1,Valencia
+Sun Nov 6 2016,Espanol,0-0,0-0,Ath Bilbao
+Sun Nov 6 2016,Real Madrid,3-0,2-0,Leganes
+Sun Nov 6 2016,Sevilla,1-2,1-1,Barcelona
+Sun Nov 6 2016,Villarreal,2-0,1-0,Betis
+Fri Nov 18 2016,Betis,2-0,2-0,Las Palmas
+Sat Nov 19 2016,Ath Madrid,0-3,0-1,Real Madrid
+Sat Nov 19 2016,Barcelona,0-0,0-0,Malaga
+Sat Nov 19 2016,Eibar,1-0,1-0,Celta
+Sat Nov 19 2016,La Coruna,2-3,2-1,Sevilla
+Sun Nov 20 2016,Alaves,0-1,0-0,Espanol
+Sun Nov 20 2016,Ath Bilbao,1-0,0-0,Villarreal
+Sun Nov 20 2016,Sp Gijon,1-3,1-1,Sociedad
+Sun Nov 20 2016,Valencia,1-1,0-1,Granada
+Mon Nov 21 2016,Leganes,2-0,1-0,Osasuna
+Fri Nov 25 2016,Eibar,3-1,2-0,Betis
+Sat Nov 26 2016,Espanol,3-0,0-0,Leganes
+Sat Nov 26 2016,Malaga,4-3,2-1,La Coruna
+Sat Nov 26 2016,Real Madrid,2-1,2-1,Sp Gijon
+Sat Nov 26 2016,Sevilla,2-1,0-0,Valencia
+Sun Nov 27 2016,Celta,3-1,2-0,Granada
+Sun Nov 27 2016,Osasuna,0-3,0-2,Ath Madrid
+Sun Nov 27 2016,Sociedad,1-1,0-0,Barcelona
+Sun Nov 27 2016,Villarreal,0-2,0-2,Alaves
+Mon Nov 28 2016,Las Palmas,3-1,1-0,Ath Bilbao
+Sat Dec 3 2016,Ath Madrid,0-0,0-0,Espanol
+Sat Dec 3 2016,Barcelona,1-1,0-0,Real Madrid
+Sat Dec 3 2016,Granada,2-1,1-0,Sevilla
+Sat Dec 3 2016,Leganes,0-0,0-0,Villarreal
+Sun Dec 4 2016,Alaves,1-1,1-0,Las Palmas
+Sun Dec 4 2016,Ath Bilbao,3-1,1-0,Eibar
+Sun Dec 4 2016,Betis,3-3,1-1,Celta
+Sun Dec 4 2016,Sp Gijon,3-1,1-0,Osasuna
+Sun Dec 4 2016,Valencia,2-2,2-1,Malaga
+Mon Dec 5 2016,La Coruna,5-1,3-0,Sociedad
+Fri Dec 9 2016,Malaga,1-1,1-0,Granada
+Sat Dec 10 2016,Las Palmas,1-1,1-0,Leganes
+Sat Dec 10 2016,Osasuna,0-3,0-0,Barcelona
+Sat Dec 10 2016,Real Madrid,3-2,0-0,La Coruna
+Sat Dec 10 2016,Sociedad,3-2,2-1,Valencia
+Sun Dec 11 2016,Betis,1-0,1-0,Ath Bilbao
+Sun Dec 11 2016,Celta,0-3,0-0,Sevilla
+Sun Dec 11 2016,Eibar,0-0,0-0,Alaves
+Sun Dec 11 2016,Espanol,2-1,0-0,Sp Gijon
+Mon Dec 12 2016,Villarreal,3-0,2-0,Ath Madrid
+Fri Dec 16 2016,Alaves,1-0,0-0,Betis
+Sat Dec 17 2016,Ath Madrid,1-0,0-0,Las Palmas
+Sat Dec 17 2016,Granada,0-2,0-0,Sociedad
+Sat Dec 17 2016,Sevilla,4-1,4-0,Malaga
+Sat Dec 17 2016,Sp Gijon,1-3,0-2,Villarreal
+Sun Dec 18 2016,Barcelona,4-1,1-0,Espanol
+Sun Dec 18 2016,La Coruna,2-0,2-0,Osasuna
+Sun Dec 18 2016,Leganes,1-1,1-0,Eibar
+Mon Dec 19 2016,Ath Bilbao,2-1,0-0,Celta
+Fri Jan 6 2017,Espanol,1-1,0-0,La Coruna
+Sat Jan 7 2017,Eibar,0-2,0-0,Ath Madrid
+Sat Jan 7 2017,Las Palmas,1-0,0-0,Sp Gijon
+Sat Jan 7 2017,Real Madrid,5-0,4-0,Granada
+Sat Jan 7 2017,Sociedad,0-4,0-2,Sevilla
+Sun Jan 8 2017,Ath Bilbao,0-0,0-0,Alaves
+Sun Jan 8 2017,Betis,2-0,0-0,Leganes
+Sun Jan 8 2017,Celta,3-1,1-0,Malaga
+Sun Jan 8 2017,Villarreal,1-1,0-0,Barcelona
+Mon Jan 9 2017,Osasuna,3-3,1-2,Valencia
+Sat Jan 14 2017,Ath Madrid,1-0,1-0,Betis
+Sat Jan 14 2017,Barcelona,5-0,1-0,Las Palmas
+Sat Jan 14 2017,La Coruna,0-0,0-0,Villarreal
+Sat Jan 14 2017,Leganes,0-0,0-0,Ath Bilbao
+Sun Jan 15 2017,Celta,1-0,0-0,Alaves
+Sun Jan 15 2017,Granada,1-1,0-1,Osasuna
+Sun Jan 15 2017,Sevilla,2-1,0-0,Real Madrid
+Sun Jan 15 2017,Sp Gijon,2-3,1-3,Eibar
+Sun Jan 15 2017,Valencia,2-1,1-0,Espanol
+Mon Jan 16 2017,Malaga,0-2,0-0,Sociedad
+Fri Jan 20 2017,Las Palmas,1-1,1-0,La Coruna
+Sat Jan 21 2017,Alaves,2-2,1-1,Leganes
+Sat Jan 21 2017,Espanol,3-1,2-1,Granada
+Sat Jan 21 2017,Real Madrid,2-1,2-0,Malaga
+Sat Jan 21 2017,Villarreal,0-2,0-2,Valencia
+Sun Jan 22 2017,Ath Bilbao,2-2,1-1,Ath Madrid
+Sun Jan 22 2017,Betis,0-0,0-0,Sp Gijon
+Sun Jan 22 2017,Eibar,0-4,0-1,Barcelona
+Sun Jan 22 2017,Osasuna,3-4,1-1,Sevilla
+Sun Jan 22 2017,Sociedad,1-0,0-0,Celta
+Fri Jan 27 2017,Osasuna,1-1,0-0,Malaga
+Sat Jan 28 2017,Alaves,0-0,0-0,Ath Madrid
+Sat Jan 28 2017,Eibar,3-1,2-1,La Coruna
+Sat Jan 28 2017,Leganes,0-2,0-1,Celta
+Sat Jan 28 2017,Villarreal,2-0,1-0,Granada
+Sun Jan 29 2017,Ath Bilbao,2-1,0-1,Sp Gijon
+Sun Jan 29 2017,Betis,1-1,0-0,Barcelona
+Sun Jan 29 2017,Espanol,3-1,2-1,Sevilla
+Sun Jan 29 2017,Real Madrid,3-0,1-0,Sociedad
+Mon Jan 30 2017,Las Palmas,3-1,1-1,Valencia
+Sat Feb 4 2017,Ath Madrid,2-0,1-0,Leganes
+Sat Feb 4 2017,Barcelona,3-0,2-0,Ath Bilbao
+Sat Feb 4 2017,Malaga,0-1,0-1,Espanol
+Sat Feb 4 2017,Valencia,0-4,0-2,Eibar
+Sun Feb 5 2017,Sevilla,0-0,0-0,Villarreal
+Sun Feb 5 2017,Sociedad,3-2,0-1,Osasuna
+Sun Feb 5 2017,Sp Gijon,2-4,0-1,Alaves
+Mon Feb 6 2017,Granada,1-0,1-0,Las Palmas
+Fri Feb 10 2017,Espanol,1-2,1-1,Sociedad
+Sat Feb 11 2017,Alaves,0-6,0-2,Barcelona
+Sat Feb 11 2017,Ath Bilbao,2-1,0-1,La Coruna
+Sat Feb 11 2017,Betis,0-0,0-0,Valencia
+Sat Feb 11 2017,Osasuna,1-3,1-1,Real Madrid
+Sun Feb 12 2017,Ath Madrid,3-2,1-1,Celta
+Sun Feb 12 2017,Las Palmas,0-1,0-0,Sevilla
+Sun Feb 12 2017,Leganes,0-2,0-0,Sp Gijon
+Sun Feb 12 2017,Villarreal,1-1,0-1,Malaga
+Mon Feb 13 2017,Eibar,4-0,2-0,Granada
+Fri Feb 17 2017,Granada,4-1,3-0,Betis
+Sat Feb 18 2017,La Coruna,0-1,0-0,Alaves
+Sat Feb 18 2017,Real Madrid,2-0,1-0,Espanol
+Sat Feb 18 2017,Sevilla,2-0,1-0,Eibar
+Sat Feb 18 2017,Sp Gijon,1-4,0-0,Ath Madrid
+Sun Feb 19 2017,Barcelona,2-1,1-0,Leganes
+Sun Feb 19 2017,Celta,3-0,1-0,Osasuna
+Sun Feb 19 2017,Sociedad,0-1,0-0,Villarreal
+Sun Feb 19 2017,Valencia,2-0,2-0,Ath Bilbao
+Mon Feb 20 2017,Malaga,2-1,2-1,Las Palmas
+Wed Feb 22 2017,Valencia,2-1,2-1,Real Madrid
+Fri Feb 24 2017,Las Palmas,0-1,0-0,Sociedad
+Sat Feb 25 2017,Alaves,2-1,0-0,Valencia
+Sat Feb 25 2017,Betis,1-2,1-0,Sevilla
+Sat Feb 25 2017,Eibar,3-0,1-0,Malaga
+Sat Feb 25 2017,Leganes,4-0,2-0,La Coruna
+Sun Feb 26 2017,Ath Bilbao,3-1,2-1,Granada
+Sun Feb 26 2017,Ath Madrid,1-2,0-0,Barcelona
+Sun Feb 26 2017,Espanol,3-0,1-0,Osasuna
+Sun Feb 26 2017,Sp Gijon,1-1,0-0,Celta
+Sun Feb 26 2017,Villarreal,2-3,0-0,Real Madrid
+Tue Feb 28 2017,Malaga,1-2,1-0,Betis
+Tue Feb 28 2017,Sociedad,2-2,1-1,Eibar
+Tue Feb 28 2017,Valencia,1-0,1-0,Leganes
+Wed Mar 1 2017,Barcelona,6-1,3-1,Sp Gijon
+Wed Mar 1 2017,Celta,2-2,2-2,Espanol
+Wed Mar 1 2017,Granada,2-1,1-0,Alaves
+Wed Mar 1 2017,Osasuna,1-4,0-2,Villarreal
+Wed Mar 1 2017,Real Madrid,3-3,1-1,Las Palmas
+Thu Mar 2 2017,La Coruna,1-1,1-0,Ath Madrid
+Thu Mar 2 2017,Sevilla,1-0,1-0,Ath Bilbao
+Fri Mar 3 2017,Betis,2-3,1-2,Sociedad
+Sat Mar 4 2017,Barcelona,5-0,2-0,Celta
+Sat Mar 4 2017,Eibar,1-4,0-3,Real Madrid
+Sat Mar 4 2017,Leganes,1-0,0-0,Granada
+Sat Mar 4 2017,Villarreal,2-0,1-0,Espanol
+Sun Mar 5 2017,Ath Bilbao,1-0,0-0,Malaga
+Sun Mar 5 2017,Ath Madrid,3-0,1-0,Valencia
+Sun Mar 5 2017,Las Palmas,5-2,1-2,Osasuna
+Sun Mar 5 2017,Sp Gijon,0-1,0-1,La Coruna
+Mon Mar 6 2017,Alaves,1-1,0-1,Sevilla
+Wed Mar 8 2017,La Coruna,1-1,0-0,Betis
+Fri Mar 10 2017,Espanol,4-3,2-1,Las Palmas
+Sat Mar 11 2017,Granada,0-1,0-0,Ath Madrid
+Sat Mar 11 2017,Malaga,1-2,0-1,Alaves
+Sat Mar 11 2017,Sevilla,1-1,1-1,Leganes
+Sat Mar 11 2017,Valencia,1-1,0-0,Sp Gijon
+Sun Mar 12 2017,Celta,0-1,0-1,Villarreal
+Sun Mar 12 2017,La Coruna,2-1,1-0,Barcelona
+Sun Mar 12 2017,Real Madrid,2-1,1-1,Betis
+Sun Mar 12 2017,Sociedad,0-2,0-1,Ath Bilbao
+Mon Mar 13 2017,Osasuna,1-1,0-0,Eibar
+Fri Mar 17 2017,Las Palmas,1-0,1-0,Villarreal
+Sat Mar 18 2017,Alaves,1-0,1-0,Sociedad
+Sat Mar 18 2017,Ath Bilbao,1-2,0-1,Real Madrid
+Sat Mar 18 2017,Betis,2-0,2-0,Osasuna
+Sat Mar 18 2017,Eibar,1-1,1-0,Espanol
+Sun Mar 19 2017,Ath Madrid,3-1,1-0,Sevilla
+Sun Mar 19 2017,Barcelona,4-2,2-2,Valencia
+Sun Mar 19 2017,La Coruna,0-1,0-0,Celta
+Sun Mar 19 2017,Leganes,0-0,0-0,Malaga
+Sun Mar 19 2017,Sp Gijon,3-1,0-0,Granada
+Fri Mar 31 2017,Espanol,2-1,0-0,Betis
+Sat Apr 1 2017,Malaga,0-2,0-1,Ath Madrid
+Sat Apr 1 2017,Osasuna,1-2,0-2,Ath Bilbao
+Sat Apr 1 2017,Sociedad,1-1,0-1,Leganes
+Sat Apr 1 2017,Villarreal,2-3,1-0,Eibar
+Sun Apr 2 2017,Granada,1-4,0-1,Barcelona
+Sun Apr 2 2017,Real Madrid,3-0,1-0,Alaves
+Sun Apr 2 2017,Sevilla,0-0,0-0,Sp Gijon
+Sun Apr 2 2017,Valencia,3-0,2-0,La Coruna
+Mon Apr 3 2017,Celta,3-1,2-0,Las Palmas
+Tue Apr 4 2017,Ath Bilbao,2-0,2-0,Espanol
+Tue Apr 4 2017,Ath Madrid,1-0,1-0,Sociedad
+Tue Apr 4 2017,Betis,0-1,0-0,Villarreal
+Wed Apr 5 2017,Alaves,0-1,0-0,Osasuna
+Wed Apr 5 2017,Barcelona,3-0,3-0,Sevilla
+Wed Apr 5 2017,La Coruna,0-0,0-0,Granada
+Wed Apr 5 2017,Leganes,2-4,2-3,Real Madrid
+Wed Apr 5 2017,Sp Gijon,0-1,0-1,Malaga
+Thu Apr 6 2017,Eibar,3-1,2-0,Las Palmas
+Thu Apr 6 2017,Valencia,3-2,1-1,Celta
+Fri Apr 7 2017,Villarreal,3-1,1-1,Ath Bilbao
+Sat Apr 8 2017,Espanol,1-0,0-0,Alaves
+Sat Apr 8 2017,Malaga,2-0,1-0,Barcelona
+Sat Apr 8 2017,Real Madrid,1-1,0-0,Ath Madrid
+Sat Apr 8 2017,Sevilla,4-2,3-2,La Coruna
+Sun Apr 9 2017,Celta,0-2,0-1,Eibar
+Sun Apr 9 2017,Granada,1-3,0-2,Valencia
+Sun Apr 9 2017,Las Palmas,4-1,1-0,Betis
+Sun Apr 9 2017,Osasuna,2-1,1-1,Leganes
+Mon Apr 10 2017,Sociedad,3-1,2-0,Sp Gijon
+Fri Apr 14 2017,Ath Bilbao,5-1,3-1,Las Palmas
+Sat Apr 15 2017,Ath Madrid,3-0,1-0,Osasuna
+Sat Apr 15 2017,Barcelona,3-2,3-2,Sociedad
+Sat Apr 15 2017,La Coruna,2-0,0-0,Malaga
+Sat Apr 15 2017,Sp Gijon,2-3,1-1,Real Madrid
+Sun Apr 16 2017,Betis,2-0,1-0,Eibar
+Sun Apr 16 2017,Granada,0-3,0-1,Celta
+Sun Apr 16 2017,Leganes,0-1,0-0,Espanol
+Sun Apr 16 2017,Valencia,0-0,0-0,Sevilla
+Mon Apr 17 2017,Alaves,2-1,2-0,Villarreal
+Fri Apr 21 2017,Sevilla,2-0,1-0,Granada
+Sat Apr 22 2017,Espanol,0-1,0-0,Ath Madrid
+Sat Apr 22 2017,Malaga,2-0,2-0,Valencia
+Sat Apr 22 2017,Osasuna,2-2,1-0,Sp Gijon
+Sat Apr 22 2017,Villarreal,2-1,0-0,Leganes
+Sun Apr 23 2017,Celta,0-1,0-0,Betis
+Sun Apr 23 2017,Las Palmas,1-1,1-0,Alaves
+Sun Apr 23 2017,Real Madrid,2-3,1-1,Barcelona
+Sun Apr 23 2017,Sociedad,1-0,1-0,La Coruna
+Mon Apr 24 2017,Eibar,0-1,0-0,Ath Bilbao
+Tue Apr 25 2017,Ath Madrid,0-1,0-0,Villarreal
+Tue Apr 25 2017,Granada,0-2,0-0,Malaga
+Tue Apr 25 2017,Sp Gijon,1-1,1-0,Espanol
+Wed Apr 26 2017,Barcelona,7-1,2-0,Osasuna
+Wed Apr 26 2017,La Coruna,2-6,1-3,Real Madrid
+Wed Apr 26 2017,Leganes,3-0,0-0,Las Palmas
+Wed Apr 26 2017,Valencia,2-3,0-2,Sociedad
+Thu Apr 27 2017,Alaves,0-0,0-0,Eibar
+Thu Apr 27 2017,Ath Bilbao,2-1,0-0,Betis
+Thu Apr 27 2017,Sevilla,2-1,0-0,Celta
+Fri Apr 28 2017,Villarreal,3-1,1-0,Sp Gijon
+Sat Apr 29 2017,Espanol,0-3,0-0,Barcelona
+Sat Apr 29 2017,Las Palmas,0-5,0-3,Ath Madrid
+Sat Apr 29 2017,Real Madrid,2-1,1-0,Valencia
+Sat Apr 29 2017,Sociedad,2-1,1-0,Granada
+Sun Apr 30 2017,Betis,1-4,1-0,Alaves
+Sun Apr 30 2017,Celta,0-3,0-1,Ath Bilbao
+Sun Apr 30 2017,Eibar,2-0,0-0,Leganes
+Sun Apr 30 2017,Osasuna,2-2,1-1,La Coruna
+Mon May 1 2017,Malaga,4-2,1-1,Sevilla
+Fri May 5 2017,Sevilla,1-1,1-0,Sociedad
+Sat May 6 2017,Ath Madrid,1-0,0-0,Eibar
+Sat May 6 2017,Barcelona,4-1,2-1,Villarreal
+Sat May 6 2017,Granada,0-4,0-4,Real Madrid
+Sat May 6 2017,Sp Gijon,1-0,0-0,Las Palmas
+Sun May 7 2017,Alaves,1-0,0-0,Ath Bilbao
+Sun May 7 2017,La Coruna,1-2,0-2,Espanol
+Sun May 7 2017,Malaga,3-0,1-0,Celta
+Sun May 7 2017,Valencia,4-1,2-0,Osasuna
+Mon May 8 2017,Leganes,4-0,2-0,Betis
+Sat May 13 2017,Espanol,0-1,0-0,Valencia
+Sat May 13 2017,Osasuna,2-1,1-1,Granada
+Sun May 14 2017,Alaves,3-1,3-0,Celta
+Sun May 14 2017,Ath Bilbao,1-1,1-0,Leganes
+Sun May 14 2017,Betis,1-1,0-0,Ath Madrid
+Sun May 14 2017,Eibar,0-1,0-1,Sp Gijon
+Sun May 14 2017,Las Palmas,1-4,0-2,Barcelona
+Sun May 14 2017,Real Madrid,4-1,2-0,Sevilla
+Sun May 14 2017,Sociedad,2-2,1-1,Malaga
+Sun May 14 2017,Villarreal,0-0,0-0,La Coruna
+Wed May 17 2017,Celta,1-4,0-1,Real Madrid
+Fri May 19 2017,Granada,1-2,1-2,Espanol
+Sat May 20 2017,La Coruna,3-0,3-0,Las Palmas
+Sat May 20 2017,Leganes,1-1,0-0,Alaves
+Sat May 20 2017,Sevilla,5-0,3-0,Osasuna
+Sat May 20 2017,Sp Gijon,2-2,1-1,Betis
+Sun May 21 2017,Ath Madrid,3-1,2-0,Ath Bilbao
+Sun May 21 2017,Barcelona,4-2,0-1,Eibar
+Sun May 21 2017,Celta,2-2,0-0,Sociedad
+Sun May 21 2017,Malaga,0-2,0-1,Real Madrid
+Sun May 21 2017,Valencia,1-3,0-1,Villarreal

@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 27 2001,Duisburg,1-4,1-2,Ahlen
+Fri Jul 27 2001,Greuther Furth,2-2,1-1,Oberhausen
+Fri Jul 27 2001,Saarbrucken,1-3,0-2,Mannheim
+Sat Jul 28 2001,Bielefeld,0-1,0-0,Babelsberg
+Sat Jul 28 2001,Ein Frankfurt,3-1,0-1,Reutlingen
+Sun Jul 29 2001,Aachen,0-2,0-0,Mainz
+Sun Jul 29 2001,Karlsruhe,1-0,0-0,Schweinfurt
+Sun Jul 29 2001,Unterhaching,0-2,0-0,Bochum
+Mon Jul 30 2001,Union Berlin,1-1,0-0,Hannover
+Fri Aug 3 2001,Ahlen,1-0,1-0,Greuther Furth
+Fri Aug 3 2001,Oberhausen,0-3,0-1,Union Berlin
+Fri Aug 3 2001,Schweinfurt,2-1,1-1,Saarbrucken
+Sat Aug 4 2001,Bochum,1-1,1-1,Karlsruhe
+Sat Aug 4 2001,Reutlingen,2-3,1-2,Bielefeld
+Sun Aug 5 2001,Babelsberg,3-1,1-1,Duisburg
+Sun Aug 5 2001,Hannover,3-0,3-0,Aachen
+Sun Aug 5 2001,Mainz,2-0,2-0,Unterhaching
+Mon Aug 6 2001,Mannheim,0-0,0-0,Ein Frankfurt
+Fri Aug 10 2001,Bielefeld,5-0,3-0,Mannheim
+Fri Aug 10 2001,Bochum,2-1,2-1,Mainz
+Fri Aug 10 2001,Duisburg,3-3,1-1,Reutlingen
+Sat Aug 11 2001,Aachen,2-1,1-1,Oberhausen
+Sat Aug 11 2001,Union Berlin,5-0,1-0,Ahlen
+Sun Aug 12 2001,Ein Frankfurt,2-0,0-0,Schweinfurt
+Sun Aug 12 2001,Greuther Furth,1-0,1-0,Babelsberg
+Sun Aug 12 2001,Unterhaching,1-1,0-0,Hannover
+Mon Aug 13 2001,Karlsruhe,2-0,1-0,Saarbrucken
+Fri Aug 17 2001,Oberhausen,0-2,0-0,Unterhaching
+Fri Aug 17 2001,Reutlingen,0-1,0-1,Greuther Furth
+Fri Aug 17 2001,Schweinfurt,1-0,0-0,Bielefeld
+Sat Aug 18 2001,Babelsberg,3-2,0-1,Union Berlin
+Sat Aug 18 2001,Saarbrucken,0-2,0-1,Ein Frankfurt
+Sun Aug 19 2001,Ahlen,1-0,1-0,Aachen
+Sun Aug 19 2001,Hannover,2-0,0-0,Bochum
+Sun Aug 19 2001,Mainz,1-0,0-0,Karlsruhe
+Mon Aug 20 2001,Mannheim,3-1,2-1,Duisburg
+Fri Sep 7 2001,Mainz,2-2,1-2,Hannover
+Fri Sep 7 2001,Union Berlin,5-0,3-0,Reutlingen
+Fri Sep 7 2001,Unterhaching,2-3,2-3,Ahlen
+Sat Sep 8 2001,Duisburg,0-0,0-0,Schweinfurt
+Sat Sep 8 2001,Greuther Furth,3-1,2-0,Mannheim
+Sun Sep 9 2001,Aachen,2-2,0-2,Babelsberg
+Sun Sep 9 2001,Bielefeld,3-1,2-0,Saarbrucken
+Sun Sep 9 2001,Bochum,3-3,2-2,Oberhausen
+Mon Sep 10 2001,Karlsruhe,2-3,1-2,Ein Frankfurt
+Fri Sep 14 2001,Ahlen,2-5,2-1,Bochum
+Fri Sep 14 2001,Oberhausen,1-3,0-2,Mainz
+Fri Sep 14 2001,Saarbrucken,1-0,0-0,Duisburg
+Sat Sep 15 2001,Babelsberg,1-4,0-2,Unterhaching
+Sat Sep 15 2001,Reutlingen,3-1,3-0,Aachen
+Sun Sep 16 2001,Hannover,5-0,3-0,Karlsruhe
+Sun Sep 16 2001,Mannheim,1-1,0-0,Union Berlin
+Sun Sep 16 2001,Schweinfurt,0-0,0-0,Greuther Furth
+Mon Sep 17 2001,Ein Frankfurt,0-2,0-0,Bielefeld
+Fri Sep 21 2001,Hannover,2-0,1-0,Oberhausen
+Fri Sep 21 2001,Karlsruhe,0-1,0-0,Bielefeld
+Fri Sep 21 2001,Unterhaching,3-2,0-1,Reutlingen
+Sat Sep 22 2001,Bochum,4-1,2-0,Babelsberg
+Sat Sep 22 2001,Mainz,5-1,3-1,Ahlen
+Sun Sep 23 2001,Aachen,1-0,1-0,Mannheim
+Sun Sep 23 2001,Greuther Furth,3-1,0-1,Saarbrucken
+Sun Sep 23 2001,Union Berlin,3-0,2-0,Schweinfurt
+Mon Sep 24 2001,Duisburg,1-1,0-1,Ein Frankfurt
+Fri Sep 28 2001,Bielefeld,2-2,1-2,Duisburg
+Fri Sep 28 2001,Oberhausen,1-2,1-1,Karlsruhe
+Fri Sep 28 2001,Reutlingen,3-0,1-0,Bochum
+Sat Sep 29 2001,Mannheim,0-1,0-1,Unterhaching
+Sat Sep 29 2001,Schweinfurt,1-0,0-0,Aachen
+Sun Sep 30 2001,Babelsberg,0-1,0-0,Mainz
+Sun Sep 30 2001,Ein Frankfurt,1-4,0-1,Greuther Furth
+Sun Sep 30 2001,Saarbrucken,2-3,0-1,Union Berlin
+Mon Oct 1 2001,Ahlen,2-5,1-2,Hannover
+Fri Oct 12 2001,Aachen,0-0,0-0,Saarbrucken
+Fri Oct 12 2001,Karlsruhe,2-0,1-0,Duisburg
+Fri Oct 12 2001,Unterhaching,1-0,0-0,Schweinfurt
+Sat Oct 13 2001,Oberhausen,2-3,1-1,Ahlen
+Sat Oct 13 2001,Union Berlin,0-4,0-1,Ein Frankfurt
+Sun Oct 14 2001,Greuther Furth,0-1,0-1,Bielefeld
+Sun Oct 14 2001,Hannover,6-1,3-0,Babelsberg
+Sun Oct 14 2001,Mainz,2-1,1-1,Reutlingen
+Mon Oct 15 2001,Bochum,1-1,1-1,Mannheim
+Fri Oct 19 2001,Ahlen,4-1,1-0,Karlsruhe
+Fri Oct 19 2001,Mannheim,2-4,2-2,Mainz
+Fri Oct 19 2001,Schweinfurt,3-3,2-0,Bochum
+Sat Oct 20 2001,Babelsberg,0-2,0-2,Oberhausen
+Sat Oct 20 2001,Reutlingen,2-2,2-2,Hannover
+Sun Oct 21 2001,Duisburg,1-1,0-1,Greuther Furth
+Sun Oct 21 2001,Ein Frankfurt,2-2,0-1,Aachen
+Sun Oct 21 2001,Saarbrucken,0-0,0-0,Unterhaching
+Mon Oct 22 2001,Bielefeld,4-1,1-0,Union Berlin
+Fri Oct 26 2001,Aachen,3-2,2-1,Bielefeld
+Fri Oct 26 2001,Mainz,4-1,2-1,Schweinfurt
+Fri Oct 26 2001,Union Berlin,0-1,0-1,Duisburg
+Sat Oct 27 2001,Karlsruhe,4-2,2-0,Greuther Furth
+Sat Oct 27 2001,Oberhausen,0-1,0-0,Reutlingen
+Sun Oct 28 2001,Ahlen,1-1,1-1,Babelsberg
+Sun Oct 28 2001,Bochum,3-2,0-1,Saarbrucken
+Sun Oct 28 2001,Unterhaching,0-1,0-0,Ein Frankfurt
+Mon Oct 29 2001,Hannover,2-0,0-0,Mannheim
+Fri Nov 2 2001,Duisburg,5-0,1-0,Aachen
+Fri Nov 2 2001,Saarbrucken,0-1,0-0,Mainz
+Fri Nov 2 2001,Schweinfurt,1-4,0-3,Hannover
+Sat Nov 3 2001,Babelsberg,2-4,0-1,Karlsruhe
+Sat Nov 3 2001,Bielefeld,2-0,1-0,Unterhaching
+Sun Nov 4 2001,Greuther Furth,0-0,0-0,Union Berlin
+Sun Nov 4 2001,Mannheim,1-1,0-0,Oberhausen
+Sun Nov 4 2001,Reutlingen,3-2,1-1,Ahlen
+Mon Nov 5 2001,Ein Frankfurt,1-0,0-0,Bochum
+Fri Nov 16 2001,Aachen,2-1,2-0,Greuther Furth
+Fri Nov 16 2001,Hannover,0-0,0-0,Saarbrucken
+Fri Nov 16 2001,Karlsruhe,1-1,0-0,Union Berlin
+Sat Nov 17 2001,Bochum,0-0,0-0,Bielefeld
+Sat Nov 17 2001,Oberhausen,5-0,1-0,Schweinfurt
+Sun Nov 18 2001,Ahlen,0-0,0-0,Mannheim
+Sun Nov 18 2001,Babelsberg,0-3,0-1,Reutlingen
+Sun Nov 18 2001,Unterhaching,0-1,0-1,Duisburg
+Mon Nov 19 2001,Mainz,1-1,0-0,Ein Frankfurt
+Fri Nov 23 2001,Duisburg,0-1,0-1,Bochum
+Fri Nov 23 2001,Ein Frankfurt,1-1,1-1,Hannover
+Fri Nov 23 2001,Greuther Furth,3-1,2-0,Unterhaching
+Sat Nov 24 2001,Bielefeld,0-1,0-0,Mainz
+Sat Nov 24 2001,Saarbrucken,1-0,0-0,Oberhausen
+Sun Nov 25 2001,Mannheim,4-1,2-1,Babelsberg
+Sun Nov 25 2001,Reutlingen,1-0,0-0,Karlsruhe
+Sun Nov 25 2001,Union Berlin,5-1,1-0,Aachen
+Mon Nov 26 2001,Schweinfurt,4-2,1-1,Ahlen
+Fri Nov 30 2001,Ahlen,3-1,1-1,Saarbrucken
+Fri Nov 30 2001,Bochum,1-1,1-1,Greuther Furth
+Fri Nov 30 2001,Mainz,4-4,1-1,Duisburg
+Sat Dec 1 2001,Aachen,2-0,1-0,Karlsruhe
+Sat Dec 1 2001,Mannheim,1-0,0-0,Reutlingen
+Sun Dec 2 2001,Babelsberg,3-1,1-0,Schweinfurt
+Sun Dec 2 2001,Oberhausen,2-1,0-0,Ein Frankfurt
+Sun Dec 2 2001,Unterhaching,2-1,1-0,Union Berlin
+Mon Dec 3 2001,Hannover,4-4,2-2,Bielefeld
+Fri Dec 7 2001,Bielefeld,3-1,1-1,Oberhausen
+Fri Dec 7 2001,Duisburg,2-6,1-4,Hannover
+Fri Dec 7 2001,Union Berlin,1-0,1-0,Bochum
+Sat Dec 8 2001,Greuther Furth,3-2,0-0,Mainz
+Sat Dec 8 2001,Karlsruhe,1-2,0-1,Mannheim
+Sun Dec 9 2001,Aachen,3-1,1-0,Unterhaching
+Sun Dec 9 2001,Ein Frankfurt,1-2,0-1,Ahlen
+Sun Dec 9 2001,Schweinfurt,2-1,1-0,Reutlingen
+Mon Dec 10 2001,Saarbrucken,1-1,1-0,Babelsberg
+Fri Dec 14 2001,Ahlen,1-1,0-0,Bielefeld
+Fri Dec 14 2001,Oberhausen,0-2,0-2,Duisburg
+Fri Dec 14 2001,Unterhaching,0-0,0-0,Karlsruhe
+Sat Dec 15 2001,Babelsberg,1-3,0-3,Ein Frankfurt
+Sat Dec 15 2001,Reutlingen,3-0,0-0,Saarbrucken
+Sun Dec 16 2001,Bochum,5-3,3-1,Aachen
+Sun Dec 16 2001,Hannover,3-1,1-0,Greuther Furth
+Sun Dec 16 2001,Mainz,1-0,1-0,Union Berlin
+Sun Dec 16 2001,Mannheim,2-0,1-0,Schweinfurt
+Tue Dec 18 2001,Ahlen,2-2,1-0,Duisburg
+Tue Dec 18 2001,Babelsberg,0-2,0-0,Bielefeld
+Tue Dec 18 2001,Reutlingen,2-1,0-1,Ein Frankfurt
+Wed Dec 19 2001,Bochum,4-0,3-0,Unterhaching
+Wed Dec 19 2001,Mainz,0-1,0-0,Aachen
+Wed Dec 19 2001,Mannheim,4-0,1-0,Saarbrucken
+Wed Dec 19 2001,Oberhausen,1-2,0-1,Greuther Furth
+Wed Dec 19 2001,Schweinfurt,1-1,1-1,Karlsruhe
+Thu Dec 20 2001,Hannover,3-2,2-0,Union Berlin
+Fri Jan 25 2002,Duisburg,4-1,2-0,Babelsberg
+Fri Jan 25 2002,Karlsruhe,4-1,2-0,Bochum
+Fri Jan 25 2002,Union Berlin,3-1,2-0,Oberhausen
+Sat Jan 26 2002,Bielefeld,1-1,0-0,Reutlingen
+Sat Jan 26 2002,Greuther Furth,3-2,2-1,Ahlen
+Sun Jan 27 2002,Aachen,2-4,1-2,Hannover
+Sun Jan 27 2002,Ein Frankfurt,2-2,1-0,Mannheim
+Sun Jan 27 2002,Saarbrucken,2-1,2-1,Schweinfurt
+Mon Jan 28 2002,Unterhaching,0-0,0-0,Mainz
+Fri Feb 1 2002,Reutlingen,0-1,0-1,Duisburg
+Fri Feb 1 2002,Saarbrucken,1-1,1-0,Karlsruhe
+Fri Feb 1 2002,Schweinfurt,0-1,0-0,Ein Frankfurt
+Sat Feb 2 2002,Babelsberg,1-5,0-2,Greuther Furth
+Sat Feb 2 2002,Mannheim,1-1,0-1,Bielefeld
+Sun Feb 3 2002,Ahlen,2-2,0-1,Union Berlin
+Sun Feb 3 2002,Hannover,1-0,1-0,Unterhaching
+Sun Feb 3 2002,Mainz,1-1,0-0,Bochum
+Sun Feb 3 2002,Oberhausen,4-0,3-0,Aachen
+Tue Feb 5 2002,Bielefeld,2-1,2-0,Schweinfurt
+Tue Feb 5 2002,Duisburg,3-1,1-0,Mannheim
+Tue Feb 5 2002,Ein Frankfurt,2-2,0-1,Saarbrucken
+Tue Feb 5 2002,Greuther Furth,4-1,3-1,Reutlingen
+Wed Feb 6 2002,Aachen,1-2,0-1,Ahlen
+Wed Feb 6 2002,Bochum,4-2,2-2,Hannover
+Wed Feb 6 2002,Karlsruhe,1-4,1-3,Mainz
+Wed Feb 6 2002,Unterhaching,1-1,0-1,Oberhausen
+Thu Feb 7 2002,Union Berlin,2-0,2-0,Babelsberg
+Fri Feb 8 2002,Mannheim,1-4,0-1,Greuther Furth
+Fri Feb 8 2002,Saarbrucken,0-2,0-0,Bielefeld
+Fri Feb 8 2002,Schweinfurt,2-2,1-0,Duisburg
+Sat Feb 9 2002,Ahlen,2-0,0-0,Unterhaching
+Sat Feb 9 2002,Ein Frankfurt,3-1,2-0,Karlsruhe
+Sun Feb 10 2002,Babelsberg,0-2,0-1,Aachen
+Sun Feb 10 2002,Oberhausen,6-1,3-0,Bochum
+Sun Feb 10 2002,Reutlingen,1-2,0-1,Union Berlin
+Mon Feb 11 2002,Hannover,2-0,1-0,Mainz
+Fri Feb 15 2002,Greuther Furth,2-0,1-0,Schweinfurt
+Fri Feb 15 2002,Union Berlin,2-0,0-0,Mannheim
+Fri Feb 15 2002,Unterhaching,3-1,1-0,Babelsberg
+Sat Feb 16 2002,Aachen,1-1,0-0,Reutlingen
+Sat Feb 16 2002,Mainz,3-3,2-0,Oberhausen
+Sun Feb 17 2002,Bochum,3-1,1-0,Ahlen
+Sun Feb 17 2002,Duisburg,5-0,2-0,Saarbrucken
+Sun Feb 17 2002,Karlsruhe,1-2,1-0,Hannover
+Mon Feb 18 2002,Bielefeld,4-1,1-0,Ein Frankfurt
+Fri Feb 22 2002,Mannheim,3-1,3-0,Aachen
+Fri Feb 22 2002,Saarbrucken,0-3,0-3,Greuther Furth
+Sat Feb 23 2002,Bielefeld,1-1,0-1,Karlsruhe
+Sat Feb 23 2002,Schweinfurt,0-1,0-0,Union Berlin
+Sun Feb 24 2002,Babelsberg,1-2,1-1,Bochum
+Sun Feb 24 2002,Ein Frankfurt,2-0,0-0,Duisburg
+Sun Feb 24 2002,Reutlingen,1-1,0-0,Unterhaching
+Mon Feb 25 2002,Ahlen,1-4,0-1,Mainz
+Fri Mar 1 2002,Duisburg,2-1,0-1,Bielefeld
+Fri Mar 1 2002,Mainz,2-2,1-0,Babelsberg
+Fri Mar 1 2002,Union Berlin,3-0,0-0,Saarbrucken
+Sat Mar 2 2002,Aachen,1-0,0-0,Schweinfurt
+Sun Mar 3 2002,Greuther Furth,1-1,1-0,Ein Frankfurt
+Sun Mar 3 2002,Karlsruhe,0-1,0-0,Oberhausen
+Sun Mar 3 2002,Unterhaching,0-0,0-0,Mannheim
+Mon Mar 4 2002,Hannover,3-1,0-1,Ahlen
+Fri Mar 8 2002,Duisburg,2-0,0-0,Karlsruhe
+Fri Mar 8 2002,Mannheim,1-2,1-2,Bochum
+Fri Mar 8 2002,Schweinfurt,3-1,1-1,Unterhaching
+Sat Mar 9 2002,Babelsberg,1-3,0-1,Hannover
+Sat Mar 9 2002,Reutlingen,2-0,1-0,Mainz
+Sun Mar 10 2002,Ahlen,2-1,1-0,Oberhausen
+Sun Mar 10 2002,Ein Frankfurt,2-2,1-0,Union Berlin
+Sun Mar 10 2002,Saarbrucken,2-1,1-0,Aachen
+Mon Mar 11 2002,Bielefeld,3-2,1-1,Greuther Furth
+Fri Mar 15 2002,Aachen,2-1,1-0,Ein Frankfurt
+Fri Mar 15 2002,Bochum,3-1,0-1,Schweinfurt
+Fri Mar 15 2002,Hannover,4-0,1-0,Reutlingen
+Sat Mar 16 2002,Karlsruhe,2-2,0-2,Ahlen
+Sat Mar 16 2002,Unterhaching,8-0,4-0,Saarbrucken
+Sun Mar 17 2002,Greuther Furth,2-1,0-0,Duisburg
+Sun Mar 17 2002,Oberhausen,2-1,0-1,Babelsberg
+Sun Mar 17 2002,Union Berlin,2-1,1-0,Bielefeld
+Mon Mar 18 2002,Mainz,3-0,2-0,Mannheim
+Wed Mar 20 2002,Bochum,3-1,2-0,Reutlingen
+Wed Mar 20 2002,Oberhausen,0-0,0-0,Hannover
+Sat Mar 23 2002,Babelsberg,1-2,1-2,Ahlen
+Sat Mar 23 2002,Bielefeld,4-1,2-1,Aachen
+Sat Mar 23 2002,Ein Frankfurt,3-2,2-0,Unterhaching
+Sat Mar 23 2002,Greuther Furth,1-1,0-1,Karlsruhe
+Sat Mar 23 2002,Schweinfurt,0-3,0-1,Mainz
+Sun Mar 24 2002,Duisburg,1-1,1-1,Union Berlin
+Sun Mar 24 2002,Reutlingen,0-2,0-0,Oberhausen
+Sun Mar 24 2002,Saarbrucken,0-2,0-1,Bochum
+Mon Mar 25 2002,Mannheim,0-1,0-0,Hannover
+Thu Mar 28 2002,Aachen,2-1,1-0,Duisburg
+Thu Mar 28 2002,Mainz,2-1,1-0,Saarbrucken
+Thu Mar 28 2002,Union Berlin,0-0,0-0,Greuther Furth
+Sat Mar 30 2002,Hannover,6-0,4-0,Schweinfurt
+Sat Mar 30 2002,Karlsruhe,2-1,2-0,Babelsberg
+Sun Mar 31 2002,Ahlen,1-2,0-2,Reutlingen
+Sun Mar 31 2002,Oberhausen,1-1,1-1,Mannheim
+Sun Mar 31 2002,Unterhaching,1-3,1-0,Bielefeld
+Mon Apr 1 2002,Bochum,3-0,2-0,Ein Frankfurt
+Fri Apr 5 2002,Saarbrucken,1-1,1-1,Hannover
+Fri Apr 5 2002,Schweinfurt,0-3,0-1,Oberhausen
+Fri Apr 5 2002,Union Berlin,1-3,1-2,Karlsruhe
+Sat Apr 6 2002,Greuther Furth,3-0,2-0,Aachen
+Sat Apr 6 2002,Mannheim,2-0,0-0,Ahlen
+Sun Apr 7 2002,Bielefeld,3-0,1-0,Bochum
+Sun Apr 7 2002,Duisburg,4-0,1-0,Unterhaching
+Sun Apr 7 2002,Reutlingen,3-2,2-1,Babelsberg
+Mon Apr 8 2002,Ein Frankfurt,0-0,0-0,Mainz
+Fri Apr 12 2002,Babelsberg,1-2,1-1,Mannheim
+Fri Apr 12 2002,Bochum,3-0,0-0,Duisburg
+Fri Apr 12 2002,Karlsruhe,1-0,0-0,Reutlingen
+Sat Apr 13 2002,Ahlen,3-1,2-0,Schweinfurt
+Sat Apr 13 2002,Hannover,1-2,1-2,Ein Frankfurt
+Sun Apr 14 2002,Aachen,1-2,1-1,Union Berlin
+Sun Apr 14 2002,Oberhausen,2-1,1-0,Saarbrucken
+Sun Apr 14 2002,Unterhaching,1-1,1-1,Greuther Furth
+Mon Apr 15 2002,Mainz,4-1,2-1,Bielefeld
+Fri Apr 19 2002,Ein Frankfurt,2-2,1-1,Oberhausen
+Fri Apr 19 2002,Greuther Furth,1-1,1-1,Bochum
+Fri Apr 19 2002,Union Berlin,0-2,0-0,Unterhaching
+Sat Apr 20 2002,Karlsruhe,1-2,1-2,Aachen
+Sat Apr 20 2002,Schweinfurt,3-3,1-1,Babelsberg
+Sun Apr 21 2002,Duisburg,1-1,0-1,Mainz
+Sun Apr 21 2002,Reutlingen,3-0,2-0,Mannheim
+Sun Apr 21 2002,Saarbrucken,2-4,1-2,Ahlen
+Mon Apr 22 2002,Bielefeld,3-2,2-1,Hannover
+Sun Apr 28 2002,Ahlen,0-1,0-0,Ein Frankfurt
+Sun Apr 28 2002,Babelsberg,1-2,1-1,Saarbrucken
+Sun Apr 28 2002,Bochum,2-1,1-1,Union Berlin
+Sun Apr 28 2002,Hannover,4-1,4-0,Duisburg
+Sun Apr 28 2002,Mainz,1-1,0-0,Greuther Furth
+Sun Apr 28 2002,Mannheim,2-1,1-0,Karlsruhe
+Sun Apr 28 2002,Oberhausen,0-0,0-0,Bielefeld
+Sun Apr 28 2002,Reutlingen,3-1,3-1,Schweinfurt
+Sun Apr 28 2002,Unterhaching,2-0,1-0,Aachen
+Sun May 5 2002,Aachen,1-3,0-2,Bochum
+Sun May 5 2002,Bielefeld,3-1,2-1,Ahlen
+Sun May 5 2002,Duisburg,1-4,1-2,Oberhausen
+Sun May 5 2002,Ein Frankfurt,1-1,1-1,Babelsberg
+Sun May 5 2002,Greuther Furth,1-5,1-2,Hannover
+Sun May 5 2002,Karlsruhe,3-0,1-0,Unterhaching
+Sun May 5 2002,Saarbrucken,4-3,1-2,Reutlingen
+Sun May 5 2002,Schweinfurt,0-1,0-1,Mannheim
+Sun May 5 2002,Union Berlin,3-1,0-0,Mainz

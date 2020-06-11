@@ -1,0 +1,138 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 3 2019,Brechin,0-1,0-0,Annan Athletic
+Sat Aug 3 2019,Cove Rangers,5-0,3-0,Edinburgh City
+Sat Aug 3 2019,Elgin,3-0,1-0,Cowdenbeath
+Sat Aug 3 2019,Stenhousemuir,2-3,0-1,Albion Rvs
+Sat Aug 3 2019,Stirling,0-1,0-0,Queens Park
+Sat Aug 10 2019,Albion Rvs,4-4,1-3,Cove Rangers
+Sat Aug 10 2019,Annan Athletic,1-1,0-0,Elgin
+Sat Aug 10 2019,Cowdenbeath,1-0,0-0,Stirling
+Sat Aug 10 2019,Edinburgh City,2-1,1-0,Brechin
+Sat Aug 10 2019,Queens Park,1-1,0-0,Stenhousemuir
+Sat Aug 17 2019,Annan Athletic,3-2,3-1,Albion Rvs
+Sat Aug 17 2019,Brechin,0-3,0-2,Queens Park
+Sat Aug 17 2019,Cove Rangers,3-2,1-0,Cowdenbeath
+Sat Aug 17 2019,Edinburgh City,1-0,0-0,Stirling
+Sat Aug 17 2019,Elgin,0-1,0-0,Stenhousemuir
+Sat Aug 24 2019,Albion Rvs,0-1,0-1,Brechin
+Sat Aug 24 2019,Cowdenbeath,3-1,1-0,Annan Athletic
+Sat Aug 24 2019,Queens Park,0-0,0-0,Elgin
+Sat Aug 24 2019,Stenhousemuir,1-3,1-0,Edinburgh City
+Sat Aug 24 2019,Stirling,1-2,0-1,Cove Rangers
+Sat Aug 31 2019,Albion Rvs,2-1,0-1,Stirling
+Sat Aug 31 2019,Annan Athletic,1-1,1-1,Stenhousemuir
+Sat Aug 31 2019,Cove Rangers,3-0,1-0,Queens Park
+Sat Aug 31 2019,Cowdenbeath,2-1,2-1,Brechin
+Sat Aug 31 2019,Elgin,3-3,0-2,Edinburgh City
+Sat Sep 14 2019,Brechin,2-4,2-4,Cove Rangers
+Sat Sep 14 2019,Edinburgh City,4-0,1-0,Annan Athletic
+Sat Sep 14 2019,Queens Park,1-1,0-1,Albion Rvs
+Sat Sep 14 2019,Stenhousemuir,0-3,0-1,Cowdenbeath
+Sat Sep 14 2019,Stirling,1-0,1-0,Elgin
+Sat Sep 21 2019,Albion Rvs,1-3,0-2,Edinburgh City
+Sat Sep 21 2019,Annan Athletic,0-0,0-0,Stirling
+Sat Sep 21 2019,Elgin,0-2,0-1,Cove Rangers
+Sat Sep 21 2019,Queens Park,0-3,0-0,Cowdenbeath
+Sat Sep 21 2019,Stenhousemuir,1-0,0-0,Brechin
+Sat Sep 28 2019,Brechin,2-1,0-0,Elgin
+Sat Sep 28 2019,Cove Rangers,3-0,1-0,Annan Athletic
+Sat Sep 28 2019,Cowdenbeath,1-0,1-0,Albion Rvs
+Sat Sep 28 2019,Edinburgh City,2-1,0-0,Queens Park
+Sat Sep 28 2019,Stirling,1-1,0-1,Stenhousemuir
+Sat Oct 5 2019,Albion Rvs,1-3,0-2,Elgin
+Sat Oct 5 2019,Brechin,1-1,0-0,Stirling
+Sat Oct 5 2019,Cowdenbeath,1-0,1-0,Edinburgh City
+Sat Oct 5 2019,Queens Park,1-2,0-2,Annan Athletic
+Sat Oct 5 2019,Stenhousemuir,3-2,3-1,Cove Rangers
+Sat Oct 26 2019,Elgin,3-1,3-1,Queens Park
+Tue Oct 29 2019,Cove Rangers,3-0,1-0,Albion Rvs
+Tue Oct 29 2019,Edinburgh City,4-0,2-0,Stenhousemuir
+Tue Oct 29 2019,Stirling,0-0,0-0,Cowdenbeath
+Sat Nov 2 2019,Brechin,2-3,0-1,Edinburgh City
+Sat Nov 2 2019,Cowdenbeath,1-3,1-2,Cove Rangers
+Sat Nov 2 2019,Elgin,4-0,3-0,Annan Athletic
+Sat Nov 2 2019,Stenhousemuir,0-3,0-1,Queens Park
+Sat Nov 2 2019,Stirling,3-0,0-0,Albion Rvs
+Sat Nov 9 2019,Albion Rvs,2-1,2-1,Stenhousemuir
+Sat Nov 9 2019,Annan Athletic,1-0,0-0,Cowdenbeath
+Sat Nov 9 2019,Cove Rangers,1-0,0-0,Stirling
+Sat Nov 9 2019,Edinburgh City,1-1,0-1,Elgin
+Sat Nov 9 2019,Queens Park,5-2,4-1,Brechin
+Tue Nov 12 2019,Annan Athletic,5-2,3-2,Brechin
+Sat Nov 16 2019,Cove Rangers,3-0,0-0,Brechin
+Sat Nov 16 2019,Cowdenbeath,1-0,1-0,Queens Park
+Sat Nov 16 2019,Edinburgh City,3-2,0-1,Albion Rvs
+Sat Nov 16 2019,Stirling,2-0,1-0,Annan Athletic
+Sat Nov 30 2019,Annan Athletic,6-1,3-1,Cove Rangers
+Sat Nov 30 2019,Brechin,1-2,0-1,Stenhousemuir
+Sat Nov 30 2019,Elgin,1-2,0-1,Stirling
+Sat Nov 30 2019,Queens Park,2-1,1-0,Edinburgh City
+Tue Dec 3 2019,Stenhousemuir,2-2,1-2,Elgin
+Sat Dec 7 2019,Albion Rvs,2-0,2-0,Queens Park
+Sat Dec 7 2019,Cowdenbeath,0-0,0-0,Elgin
+Sat Dec 7 2019,Edinburgh City,2-1,2-1,Cove Rangers
+Sat Dec 7 2019,Stenhousemuir,1-2,1-1,Annan Athletic
+Sat Dec 7 2019,Stirling,2-4,2-2,Brechin
+Sat Dec 14 2019,Annan Athletic,0-2,0-0,Edinburgh City
+Sat Dec 14 2019,Brechin,2-1,2-0,Cowdenbeath
+Sat Dec 14 2019,Cove Rangers,2-1,0-0,Stenhousemuir
+Sat Dec 14 2019,Elgin,2-2,0-1,Albion Rvs
+Sat Dec 14 2019,Queens Park,1-1,0-1,Stirling
+Sat Dec 21 2019,Albion Rvs,4-2,2-0,Annan Athletic
+Sat Dec 21 2019,Cowdenbeath,3-1,2-1,Stenhousemuir
+Sat Dec 21 2019,Elgin,3-1,1-0,Brechin
+Sat Dec 21 2019,Queens Park,1-3,0-2,Cove Rangers
+Sat Dec 21 2019,Stirling,0-1,0-0,Edinburgh City
+Sat Dec 28 2019,Annan Athletic,3-2,2-1,Queens Park
+Sat Dec 28 2019,Brechin,0-0,0-0,Albion Rvs
+Sat Dec 28 2019,Cove Rangers,2-0,1-0,Elgin
+Sat Dec 28 2019,Edinburgh City,2-0,0-0,Cowdenbeath
+Sat Dec 28 2019,Stenhousemuir,0-2,0-1,Stirling
+Sat Jan 4 2020,Albion Rvs,0-3,0-3,Stirling
+Sat Jan 4 2020,Brechin,1-5,0-1,Cove Rangers
+Sat Jan 4 2020,Cowdenbeath,3-1,3-0,Annan Athletic
+Sat Jan 4 2020,Elgin,0-1,0-1,Edinburgh City
+Sat Jan 4 2020,Queens Park,2-1,2-0,Stenhousemuir
+Sat Jan 11 2020,Annan Athletic,0-4,0-1,Elgin
+Sat Jan 11 2020,Edinburgh City,1-2,1-0,Queens Park
+Sat Jan 11 2020,Stenhousemuir,2-2,0-1,Brechin
+Sat Jan 18 2020,Annan Athletic,2-3,0-1,Stirling
+Sat Jan 18 2020,Cove Rangers,3-1,2-0,Cowdenbeath
+Sat Jan 18 2020,Elgin,2-3,0-2,Stenhousemuir
+Sat Jan 25 2020,Cove Rangers,2-0,1-0,Annan Athletic
+Sat Jan 25 2020,Cowdenbeath,3-2,2-0,Brechin
+Sat Jan 25 2020,Queens Park,2-2,0-2,Albion Rvs
+Sat Jan 25 2020,Stenhousemuir,1-2,1-0,Edinburgh City
+Sat Jan 25 2020,Stirling,1-2,0-1,Elgin
+Sat Feb 1 2020,Albion Rvs,2-2,0-1,Cove Rangers
+Sat Feb 1 2020,Annan Athletic,0-3,0-3,Stenhousemuir
+Sat Feb 1 2020,Brechin,1-2,1-0,Elgin
+Sat Feb 1 2020,Edinburgh City,0-1,0-0,Stirling
+Sat Feb 1 2020,Queens Park,1-0,1-0,Cowdenbeath
+Sat Feb 8 2020,Albion Rvs,4-1,2-1,Brechin
+Sat Feb 8 2020,Edinburgh City,3-0,1-0,Annan Athletic
+Sat Feb 8 2020,Elgin,3-0,2-0,Cove Rangers
+Sat Feb 8 2020,Stenhousemuir,2-2,1-2,Cowdenbeath
+Sat Feb 8 2020,Stirling,1-3,1-0,Queens Park
+Sat Feb 15 2020,Cove Rangers,2-1,0-0,Edinburgh City
+Sat Feb 15 2020,Cowdenbeath,1-4,1-3,Stirling
+Sat Feb 15 2020,Queens Park,2-0,1-0,Elgin
+Sat Feb 15 2020,Stenhousemuir,1-0,1-0,Albion Rvs
+Sat Feb 22 2020,Annan Athletic,2-1,2-0,Albion Rvs
+Sat Feb 22 2020,Cove Rangers,2-0,2-0,Queens Park
+Sat Feb 22 2020,Edinburgh City,0-0,0-0,Brechin
+Wed Feb 26 2020,Brechin,0-0,0-0,Queens Park
+Sat Feb 29 2020,Albion Rvs,1-2,1-2,Elgin
+Sat Feb 29 2020,Brechin,0-2,0-0,Stirling
+Sat Feb 29 2020,Cowdenbeath,1-1,1-0,Edinburgh City
+Sat Feb 29 2020,Queens Park,2-0,2-0,Annan Athletic
+Sat Feb 29 2020,Stenhousemuir,0-3,0-2,Cove Rangers
+Tue Mar 3 2020,Cowdenbeath,2-1,1-1,Albion Rvs
+Tue Mar 3 2020,Stirling,0-0,0-0,Stenhousemuir
+Sat Mar 7 2020,Annan Athletic,0-0,0-0,Cowdenbeath
+Sat Mar 7 2020,Cove Rangers,3-2,1-0,Brechin
+Sat Mar 7 2020,Edinburgh City,3-0,1-0,Albion Rvs
+Sat Mar 7 2020,Elgin,3-1,3-1,Stirling
+Sat Mar 7 2020,Stenhousemuir,0-0,0-0,Queens Park
+Tue Mar 10 2020,Elgin,3-2,0-1,Cowdenbeath
+Tue Mar 10 2020,Stirling,1-7,0-5,Cove Rangers

@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat May 19 2012,Palmeiras,1-1,?,Portuguesa
+Sat May 19 2012,Sport Recife,1-1,?,Flamengo RJ
+Sat May 19 2012,Figueirense,2-1,?,Nautico
+Sun May 20 2012,Botafogo RJ,4-2,?,Sao Paulo
+Sun May 20 2012,Corinthians,0-1,?,Fluminense
+Sun May 20 2012,Internacional,2-0,?,Coritiba
+Sun May 20 2012,Ponte Preta,0-1,?,Atletico-MG
+Sun May 20 2012,Bahia,0-0,?,Santos
+Sun May 20 2012,Cruzeiro,0-0,?,Atletico GO
+Sun May 20 2012,Vasco,2-1,?,Gremio
+Sat May 26 2012,Atletico GO,1-1,?,Ponte Preta
+Sat May 26 2012,Flamengo RJ,3-3,?,Internacional
+Sat May 26 2012,Portuguesa,0-1,?,Vasco
+Sat May 26 2012,Nautico,0-0,?,Cruzeiro
+Sun May 27 2012,Atletico-MG,1-0,?,Corinthians
+Sun May 27 2012,Coritiba,2-3,?,Botafogo RJ
+Sun May 27 2012,Santos,0-0,?,Sport Recife
+Sun May 27 2012,Sao Paulo,1-0,?,Bahia
+Sun May 27 2012,Fluminense,2-2,?,Figueirense
+Sun May 27 2012,Gremio,1-0,?,Palmeiras
+Wed Jun 6 2012,Atletico GO,0-1,?,Gremio
+Wed Jun 6 2012,Sport Recife,2-1,?,Palmeiras
+Wed Jun 6 2012,Atletico-MG,1-1,?,Bahia
+Wed Jun 6 2012,Coritiba,2-0,?,Portuguesa
+Wed Jun 6 2012,Vasco,4-2,?,Nautico
+Wed Jun 6 2012,Internacional,1-0,?,Sao Paulo
+Wed Jun 6 2012,Ponte Preta,2-2,?,Flamengo RJ
+Wed Jun 6 2012,Santos,1-1,?,Fluminense
+Thu Jun 7 2012,Botafogo RJ,2-3,?,Cruzeiro
+Thu Jun 7 2012,Corinthians,1-1,?,Figueirense
+Sat Jun 9 2012,Flamengo RJ,3-1,?,Coritiba
+Sat Jun 9 2012,Palmeiras,0-1,?,Atletico-MG
+Sun Jun 10 2012,Portuguesa,2-0,?,Atletico GO
+Sun Jun 10 2012,Bahia,1-2,?,Vasco
+Sun Jun 10 2012,Fluminense,0-0,?,Internacional
+Sun Jun 10 2012,Gremio,2-0,?,Corinthians
+Sun Jun 10 2012,Cruzeiro,1-0,?,Sport Recife
+Sun Jun 10 2012,Figueirense,0-0,?,Ponte Preta
+Sun Jun 10 2012,Nautico,3-2,?,Botafogo RJ
+Sun Jun 10 2012,Sao Paulo,1-0,?,Santos
+Sat Jun 16 2012,Cruzeiro,1-0,?,Figueirense
+Sat Jun 16 2012,Internacional,1-2,?,Botafogo RJ
+Sat Jun 16 2012,Fluminense,4-1,?,Portuguesa
+Sun Jun 17 2012,Bahia,2-1,?,Sport Recife
+Sun Jun 17 2012,Flamengo RJ,1-0,?,Santos
+Sun Jun 17 2012,Palmeiras,1-1,?,Vasco
+Sun Jun 17 2012,Sao Paulo,1-0,?,Atletico-MG
+Sun Jun 17 2012,Coritiba,3-0,?,Atletico GO
+Sun Jun 17 2012,Nautico,1-0,?,Gremio
+Sun Jun 17 2012,Ponte Preta,1-0,?,Corinthians
+Sat Jun 23 2012,Portuguesa,1-0,?,Sao Paulo
+Sat Jun 23 2012,Vasco,1-3,?,Cruzeiro
+Sat Jun 23 2012,Atletico-MG,5-1,?,Nautico
+Sun Jun 24 2012,Corinthians,2-1,?,Palmeiras
+Sun Jun 24 2012,Figueirense,1-1,?,Bahia
+Sun Jun 24 2012,Gremio,2-0,?,Flamengo RJ
+Sun Jun 24 2012,Atletico GO,1-4,?,Fluminense
+Sun Jun 24 2012,Botafogo RJ,1-2,?,Ponte Preta
+Sun Jun 24 2012,Santos,2-2,?,Coritiba
+Sun Jun 24 2012,Sport Recife,0-2,?,Internacional
+Sat Jun 30 2012,Cruzeiro,2-3,?,Sao Paulo
+Sat Jun 30 2012,Nautico,0-2,?,Fluminense
+Sat Jun 30 2012,Vasco,3-2,?,Ponte Preta
+Sun Jul 1 2012,Bahia,1-1,?,Internacional
+Sun Jul 1 2012,Coritiba,2-3,?,Sport Recife
+Sun Jul 1 2012,Portuguesa,0-0,?,Santos
+Sun Jul 1 2012,Flamengo RJ,3-2,?,Atletico GO
+Sun Jul 1 2012,Gremio,0-1,?,Atletico-MG
+Sun Jul 1 2012,Palmeiras,3-1,?,Figueirense
+Sat Jul 7 2012,Botafogo RJ,3-0,?,Bahia
+Sat Jul 7 2012,Internacional,2-1,?,Cruzeiro
+Sat Jul 7 2012,Atletico GO,0-1,?,Nautico
+Sun Jul 8 2012,Figueirense,1-1,?,Vasco
+Sun Jul 8 2012,Fluminense,1-0,?,Flamengo RJ
+Sun Jul 8 2012,Santos,4-2,?,Gremio
+Sun Jul 8 2012,Sao Paulo,3-1,?,Coritiba
+Sun Jul 8 2012,Atletico-MG,2-0,?,Portuguesa
+Sun Jul 8 2012,Ponte Preta,1-0,?,Palmeiras
+Sun Jul 8 2012,Sport Recife,1-1,?,Corinthians
+Wed Jul 11 2012,Corinthians,1-3,?,Botafogo RJ
+Sat Jul 14 2012,Corinthians,2-1,?,Nautico
+Sat Jul 14 2012,Figueirense,3-4,?,Atletico-MG
+Sat Jul 14 2012,Ponte Preta,4-1,?,Coritiba
+Sun Jul 15 2012,Bahia,1-2,?,Flamengo RJ
+Sun Jul 15 2012,Botafogo RJ,1-1,?,Fluminense
+Sun Jul 15 2012,Cruzeiro,1-3,?,Gremio
+Sun Jul 15 2012,Internacional,0-0,?,Santos
+Sun Jul 15 2012,Palmeiras,1-1,?,Sao Paulo
+Sun Jul 15 2012,Sport Recife,2-1,?,Portuguesa
+Sun Jul 15 2012,Vasco,1-0,?,Atletico GO
+Wed Jul 18 2012,Gremio,3-1,?,Sport Recife
+Wed Jul 18 2012,Santos,0-0,?,Botafogo RJ
+Wed Jul 18 2012,Nautico,3-0,?,Ponte Preta
+Wed Jul 18 2012,Portuguesa,0-2,?,Cruzeiro
+Wed Jul 18 2012,Atletico-MG,3-1,?,Internacional
+Wed Jul 18 2012,Flamengo RJ,0-3,?,Corinthians
+Wed Jul 18 2012,Sao Paulo,0-1,?,Vasco
+Thu Jul 19 2012,Atletico GO,3-2,?,Figueirense
+Thu Jul 19 2012,Coritiba,1-1,?,Palmeiras
+Thu Jul 19 2012,Fluminense,4-0,?,Bahia
+Sat Jul 21 2012,Sport Recife,1-4,?,Atletico-MG
+Sat Jul 21 2012,Vasco,2-0,?,Santos
+Sat Jul 21 2012,Corinthians,1-1,?,Portuguesa
+Sun Jul 22 2012,Cruzeiro,1-0,?,Flamengo RJ
+Sun Jul 22 2012,Figueirense,0-2,?,Sao Paulo
+Sun Jul 22 2012,Internacional,4-1,?,Atletico GO
+Sun Jul 22 2012,Palmeiras,3-0,?,Nautico
+Sun Jul 22 2012,Bahia,2-2,?,Coritiba
+Sun Jul 22 2012,Botafogo RJ,0-1,?,Gremio
+Sun Jul 22 2012,Ponte Preta,1-2,?,Fluminense
+Wed Jul 25 2012,Figueirense,0-1,?,Internacional
+Wed Jul 25 2012,Ponte Preta,1-1,?,Sport Recife
+Wed Jul 25 2012,Nautico,3-4,?,Coritiba
+Wed Jul 25 2012,Vasco,1-0,?,Botafogo RJ
+Wed Jul 25 2012,Atletico GO,4-3,?,Sao Paulo
+Wed Jul 25 2012,Corinthians,2-0,?,Cruzeiro
+Wed Jul 25 2012,Gremio,1-0,?,Fluminense
+Thu Jul 26 2012,Atletico-MG,2-0,?,Santos
+Thu Jul 26 2012,Flamengo RJ,0-0,?,Portuguesa
+Thu Jul 26 2012,Palmeiras,0-2,?,Bahia
+Sat Jul 28 2012,Coritiba,2-1,?,Gremio
+Sat Jul 28 2012,Internacional,0-0,?,Vasco
+Sat Jul 28 2012,Botafogo RJ,1-0,?,Figueirense
+Sun Jul 29 2012,Bahia,0-0,?,Corinthians
+Sun Jul 29 2012,Fluminense,0-0,?,Atletico-MG
+Sun Jul 29 2012,Sao Paulo,4-1,?,Flamengo RJ
+Sun Jul 29 2012,Sport Recife,0-0,?,Atletico GO
+Sun Jul 29 2012,Cruzeiro,2-1,?,Palmeiras
+Sun Jul 29 2012,Portuguesa,3-1,?,Nautico
+Sun Jul 29 2012,Santos,2-1,?,Ponte Preta
+Sat Aug 4 2012,Atletico GO,1-2,?,Botafogo RJ
+Sat Aug 4 2012,Palmeiras,0-1,?,Internacional
+Sat Aug 4 2012,Portuguesa,2-0,?,Figueirense
+Sun Aug 5 2012,Coritiba,0-2,?,Fluminense
+Sun Aug 5 2012,Gremio,3-1,?,Bahia
+Sun Aug 5 2012,Sao Paulo,1-0,?,Sport Recife
+Sun Aug 5 2012,Vasco,0-0,?,Corinthians
+Sun Aug 5 2012,Cruzeiro,1-2,?,Ponte Preta
+Sun Aug 5 2012,Nautico,3-0,?,Santos
+Wed Aug 8 2012,Internacional,0-0,?,Nautico
+Wed Aug 8 2012,Sport Recife,0-2,?,Vasco
+Wed Aug 8 2012,Bahia,0-0,?,Portuguesa
+Wed Aug 8 2012,Corinthians,1-1,?,Atletico GO
+Wed Aug 8 2012,Botafogo RJ,1-2,?,Palmeiras
+Wed Aug 8 2012,Figueirense,0-2,?,Flamengo RJ
+Wed Aug 8 2012,Santos,4-2,?,Cruzeiro
+Thu Aug 9 2012,Atletico-MG,1-0,?,Coritiba
+Thu Aug 9 2012,Fluminense,2-1,?,Sao Paulo
+Thu Aug 9 2012,Ponte Preta,0-0,?,Gremio
+Sat Aug 11 2012,Bahia,0-1,?,Cruzeiro
+Sat Aug 11 2012,Santos,2-2,?,Atletico GO
+Sat Aug 11 2012,Sport Recife,0-1,?,Figueirense
+Sat Aug 11 2012,Flamengo RJ,2-0,?,Nautico
+Sun Aug 12 2012,Atletico-MG,1-0,?,Vasco
+Sun Aug 12 2012,Coritiba,1-2,?,Corinthians
+Sun Aug 12 2012,Internacional,2-1,?,Ponte Preta
+Sun Aug 12 2012,Sao Paulo,1-2,?,Gremio
+Sun Aug 12 2012,Fluminense,1-0,?,Palmeiras
+Sun Aug 12 2012,Portuguesa,1-1,?,Botafogo RJ
+Wed Aug 15 2012,Cruzeiro,1-1,?,Fluminense
+Wed Aug 15 2012,Gremio,1-2,?,Portuguesa
+Wed Aug 15 2012,Atletico GO,1-1,?,Atletico-MG
+Wed Aug 15 2012,Ponte Preta,0-2,?,Bahia
+Wed Aug 15 2012,Botafogo RJ,2-0,?,Sport Recife
+Wed Aug 15 2012,Nautico,3-0,?,Sao Paulo
+Wed Aug 15 2012,Palmeiras,1-0,?,Flamengo RJ
+Thu Aug 16 2012,Corinthians,1-0,?,Internacional
+Thu Aug 16 2012,Figueirense,1-3,?,Santos
+Thu Aug 16 2012,Vasco,2-2,?,Coritiba
+Sat Aug 18 2012,Fluminense,1-0,?,Sport Recife
+Sat Aug 18 2012,Nautico,1-0,?,Bahia
+Sat Aug 18 2012,Sao Paulo,3-0,?,Ponte Preta
+Sun Aug 19 2012,Atletico-MG,3-2,?,Botafogo RJ
+Sun Aug 19 2012,Coritiba,4-0,?,Cruzeiro
+Sun Aug 19 2012,Gremio,4-0,?,Figueirense
+Sun Aug 19 2012,Santos,3-2,?,Corinthians
+Sun Aug 19 2012,Atletico GO,2-1,?,Palmeiras
+Sun Aug 19 2012,Flamengo RJ,1-0,?,Vasco
+Sun Aug 19 2012,Portuguesa,1-1,?,Internacional
+Sat Aug 25 2012,Palmeiras,1-2,?,Santos
+Sat Aug 25 2012,Vasco,1-2,?,Fluminense
+Sat Aug 25 2012,Ponte Preta,2-1,?,Portuguesa
+Sun Aug 26 2012,Botafogo RJ,0-0,?,Flamengo RJ
+Sun Aug 26 2012,Corinthians,1-2,?,Sao Paulo
+Sun Aug 26 2012,Figueirense,3-1,?,Coritiba
+Sun Aug 26 2012,Internacional,0-1,?,Gremio
+Sun Aug 26 2012,Bahia,1-1,?,Atletico GO
+Sun Aug 26 2012,Cruzeiro,2-2,?,Atletico-MG
+Sun Aug 26 2012,Sport Recife,0-0,?,Nautico
+Wed Aug 29 2012,Coritiba,1-0,?,Internacional
+Wed Aug 29 2012,Santos,1-3,?,Bahia
+Wed Aug 29 2012,Atletico-MG,2-2,?,Ponte Preta
+Wed Aug 29 2012,Nautico,3-2,?,Figueirense
+Wed Aug 29 2012,Portuguesa,3-0,?,Palmeiras
+Wed Aug 29 2012,Atletico GO,0-2,?,Cruzeiro
+Wed Aug 29 2012,Fluminense,1-1,?,Corinthians
+Wed Aug 29 2012,Gremio,2-0,?,Vasco
+Thu Aug 30 2012,Flamengo RJ,1-1,?,Sport Recife
+Thu Aug 30 2012,Sao Paulo,4-0,?,Botafogo RJ
+Sat Sep 1 2012,Figueirense,2-2,?,Fluminense
+Sat Sep 1 2012,Palmeiras,0-0,?,Gremio
+Sat Sep 1 2012,Vasco,2-0,?,Portuguesa
+Sun Sep 2 2012,Bahia,1-0,?,Sao Paulo
+Sun Sep 2 2012,Corinthians,1-0,?,Atletico-MG
+Sun Sep 2 2012,Internacional,4-1,?,Flamengo RJ
+Sun Sep 2 2012,Sport Recife,2-1,?,Santos
+Sun Sep 2 2012,Botafogo RJ,2-0,?,Coritiba
+Sun Sep 2 2012,Cruzeiro,3-0,?,Nautico
+Sun Sep 2 2012,Ponte Preta,3-1,?,Atletico GO
+Wed Sep 5 2012,Bahia,0-0,?,Atletico-MG
+Wed Sep 5 2012,Flamengo RJ,0-1,?,Ponte Preta
+Wed Sep 5 2012,Nautico,1-1,?,Vasco
+Wed Sep 5 2012,Portuguesa,3-0,?,Coritiba
+Wed Sep 5 2012,Gremio,2-1,?,Atletico GO
+Wed Sep 5 2012,Cruzeiro,1-3,?,Botafogo RJ
+Wed Sep 5 2012,Figueirense,1-0,?,Corinthians
+Wed Sep 5 2012,Sao Paulo,1-1,?,Internacional
+Thu Sep 6 2012,Fluminense,3-1,?,Santos
+Thu Sep 6 2012,Palmeiras,3-1,?,Sport Recife
+Sat Sep 8 2012,Coritiba,3-0,?,Flamengo RJ
+Sat Sep 8 2012,Ponte Preta,2-2,?,Figueirense
+Sat Sep 8 2012,Corinthians,3-1,?,Gremio
+Sun Sep 9 2012,Botafogo RJ,3-1,?,Nautico
+Sun Sep 9 2012,Internacional,0-1,?,Fluminense
+Sun Sep 9 2012,Santos,0-0,?,Sao Paulo
+Sun Sep 9 2012,Atletico GO,1-1,?,Portuguesa
+Sun Sep 9 2012,Atletico-MG,3-0,?,Palmeiras
+Sun Sep 9 2012,Sport Recife,2-1,?,Cruzeiro
+Sun Sep 9 2012,Vasco,0-4,?,Bahia
+Wed Sep 12 2012,Corinthians,1-1,?,Ponte Preta
+Wed Sep 12 2012,Figueirense,2-0,?,Cruzeiro
+Wed Sep 12 2012,Portuguesa,0-2,?,Fluminense
+Wed Sep 12 2012,Atletico GO,1-2,?,Coritiba
+Wed Sep 12 2012,Sport Recife,1-1,?,Bahia
+Wed Sep 12 2012,Atletico-MG,1-0,?,Sao Paulo
+Wed Sep 12 2012,Santos,2-0,?,Flamengo RJ
+Wed Sep 12 2012,Vasco,3-1,?,Palmeiras
+Thu Sep 13 2012,Botafogo RJ,1-1,?,Internacional
+Thu Sep 13 2012,Gremio,2-0,?,Nautico
+Sat Sep 15 2012,Sao Paulo,3-1,?,Portuguesa
+Sat Sep 15 2012,Fluminense,1-2,?,Atletico GO
+Sun Sep 16 2012,Bahia,2-1,?,Figueirense
+Sun Sep 16 2012,Coritiba,1-2,?,Santos
+Sun Sep 16 2012,Cruzeiro,1-1,?,Vasco
+Sun Sep 16 2012,Nautico,1-0,?,Atletico-MG
+Sun Sep 16 2012,Palmeiras,0-2,?,Corinthians
+Sun Sep 16 2012,Flamengo RJ,1-1,?,Gremio
+Sun Sep 16 2012,Internacional,2-2,?,Sport Recife
+Sun Sep 16 2012,Ponte Preta,0-0,?,Botafogo RJ
+Sat Sep 22 2012,Figueirense,1-3,?,Palmeiras
+Sat Sep 22 2012,Fluminense,2-1,?,Nautico
+Sat Sep 22 2012,Santos,1-3,?,Portuguesa
+Sun Sep 23 2012,Atletico GO,1-2,?,Flamengo RJ
+Sun Sep 23 2012,Botafogo RJ,2-2,?,Corinthians
+Sun Sep 23 2012,Ponte Preta,0-0,?,Vasco
+Sun Sep 23 2012,Sao Paulo,1-0,?,Cruzeiro
+Sun Sep 23 2012,Atletico-MG,0-0,?,Gremio
+Sun Sep 23 2012,Internacional,3-1,?,Bahia
+Sun Sep 23 2012,Sport Recife,1-0,?,Coritiba
+Wed Sep 26 2012,Flamengo RJ,2-1,?,Atletico-MG
+Sat Sep 29 2012,Cruzeiro,0-0,?,Internacional
+Sat Sep 29 2012,Nautico,2-0,?,Atletico GO
+Sat Sep 29 2012,Portuguesa,1-1,?,Atletico-MG
+Sat Sep 29 2012,Vasco,3-1,?,Figueirense
+Sat Sep 29 2012,Palmeiras,3-0,?,Ponte Preta
+Sun Sep 30 2012,Bahia,2-0,?,Botafogo RJ
+Sun Sep 30 2012,Corinthians,3-0,?,Sport Recife
+Sun Sep 30 2012,Coritiba,1-1,?,Sao Paulo
+Sun Sep 30 2012,Flamengo RJ,0-1,?,Fluminense
+Sun Sep 30 2012,Gremio,1-1,?,Santos
+Thu Oct 4 2012,Coritiba,1-0,?,Ponte Preta
+Thu Oct 4 2012,Flamengo RJ,0-0,?,Bahia
+Thu Oct 4 2012,Portuguesa,5-1,?,Sport Recife
+Sat Oct 6 2012,Sao Paulo,3-0,?,Palmeiras
+Sat Oct 6 2012,Atletico GO,0-1,?,Vasco
+Sat Oct 6 2012,Nautico,2-1,?,Corinthians
+Sat Oct 6 2012,Santos,1-1,?,Internacional
+Sat Oct 6 2012,Atletico-MG,6-0,?,Figueirense
+Sat Oct 6 2012,Fluminense,1-0,?,Botafogo RJ
+Sat Oct 6 2012,Gremio,2-1,?,Cruzeiro
+Wed Oct 10 2012,Bahia,0-2,?,Fluminense
+Wed Oct 10 2012,Botafogo RJ,0-2,?,Santos
+Wed Oct 10 2012,Cruzeiro,2-0,?,Portuguesa
+Wed Oct 10 2012,Figueirense,3-1,?,Atletico GO
+Wed Oct 10 2012,Ponte Preta,2-1,?,Nautico
+Wed Oct 10 2012,Corinthians,3-2,?,Flamengo RJ
+Wed Oct 10 2012,Internacional,3-0,?,Atletico-MG
+Wed Oct 10 2012,Vasco,0-2,?,Sao Paulo
+Thu Oct 11 2012,Palmeiras,0-1,?,Coritiba
+Thu Oct 11 2012,Sport Recife,1-3,?,Gremio
+Sat Oct 13 2012,Atletico GO,3-1,?,Internacional
+Sat Oct 13 2012,Flamengo RJ,1-1,?,Cruzeiro
+Sat Oct 13 2012,Portuguesa,1-1,?,Corinthians
+Sun Oct 14 2012,Atletico-MG,2-1,?,Sport Recife
+Sun Oct 14 2012,Coritiba,2-1,?,Bahia
+Sun Oct 14 2012,Nautico,1-0,?,Palmeiras
+Sun Oct 14 2012,Santos,2-0,?,Vasco
+Sun Oct 14 2012,Sao Paulo,2-0,?,Figueirense
+Sun Oct 14 2012,Fluminense,2-1,?,Ponte Preta
+Sun Oct 14 2012,Gremio,1-1,?,Botafogo RJ
+Wed Oct 17 2012,Bahia,0-1,?,Palmeiras
+Wed Oct 17 2012,Coritiba,2-1,?,Nautico
+Wed Oct 17 2012,Fluminense,2-2,?,Gremio
+Wed Oct 17 2012,Internacional,2-3,?,Figueirense
+Wed Oct 17 2012,Cruzeiro,2-0,?,Corinthians
+Wed Oct 17 2012,Portuguesa,0-0,?,Flamengo RJ
+Wed Oct 17 2012,Santos,2-2,?,Atletico-MG
+Thu Oct 18 2012,Botafogo RJ,3-2,?,Vasco
+Thu Oct 18 2012,Sao Paulo,2-0,?,Atletico GO
+Thu Oct 18 2012,Sport Recife,3-1,?,Ponte Preta
+Sat Oct 20 2012,Corinthians,1-1,?,Bahia
+Sat Oct 20 2012,Gremio,0-0,?,Coritiba
+Sat Oct 20 2012,Palmeiras,2-0,?,Cruzeiro
+Sun Oct 21 2012,Atletico-MG,3-2,?,Fluminense
+Sun Oct 21 2012,Flamengo RJ,1-0,?,Sao Paulo
+Sun Oct 21 2012,Nautico,0-0,?,Portuguesa
+Sun Oct 21 2012,Atletico GO,0-1,?,Sport Recife
+Sun Oct 21 2012,Ponte Preta,1-0,?,Santos
+Wed Oct 24 2012,Vasco,1-2,?,Internacional
+Wed Oct 24 2012,Figueirense,0-2,?,Botafogo RJ
+Thu Oct 25 2012,Fluminense,2-1,?,Coritiba
+Thu Oct 25 2012,Ponte Preta,1-0,?,Cruzeiro
+Thu Oct 25 2012,Santos,0-0,?,Nautico
+Sat Oct 27 2012,Corinthians,1-0,?,Vasco
+Sat Oct 27 2012,Internacional,2-1,?,Palmeiras
+Sat Oct 27 2012,Bahia,1-1,?,Gremio
+Sat Oct 27 2012,Botafogo RJ,4-0,?,Atletico GO
+Sat Oct 27 2012,Figueirense,0-0,?,Portuguesa
+Sat Oct 27 2012,Sport Recife,2-4,?,Sao Paulo
+Wed Oct 31 2012,Atletico-MG,1-1,?,Flamengo RJ
+Sat Nov 3 2012,Cruzeiro,0-4,?,Santos
+Sat Nov 3 2012,Gremio,1-0,?,Ponte Preta
+Sat Nov 3 2012,Flamengo RJ,1-0,?,Figueirense
+Sun Nov 4 2012,Atletico GO,0-2,?,Corinthians
+Sun Nov 4 2012,Palmeiras,2-2,?,Botafogo RJ
+Sun Nov 4 2012,Sao Paulo,1-1,?,Fluminense
+Sun Nov 4 2012,Vasco,0-3,?,Sport Recife
+Sun Nov 4 2012,Coritiba,1-0,?,Atletico-MG
+Sun Nov 4 2012,Nautico,3-0,?,Internacional
+Sun Nov 4 2012,Portuguesa,0-1,?,Bahia
+Sat Nov 10 2012,Atletico GO,2-1,?,Santos
+Sat Nov 10 2012,Botafogo RJ,3-0,?,Portuguesa
+Sat Nov 10 2012,Corinthians,5-1,?,Coritiba
+Sun Nov 11 2012,Gremio,2-1,?,Sao Paulo
+Sun Nov 11 2012,Palmeiras,2-3,?,Fluminense
+Sun Nov 11 2012,Vasco,1-1,?,Atletico-MG
+Sun Nov 11 2012,Cruzeiro,3-1,?,Bahia
+Sun Nov 11 2012,Figueirense,1-1,?,Sport Recife
+Sun Nov 11 2012,Nautico,0-1,?,Flamengo RJ
+Sun Nov 11 2012,Ponte Preta,1-0,?,Internacional
+Sat Nov 17 2012,Coritiba,1-2,?,Vasco
+Sat Nov 17 2012,Santos,2-0,?,Figueirense
+Sun Nov 18 2012,Atletico-MG,2-2,?,Atletico GO
+Sun Nov 18 2012,Bahia,1-0,?,Ponte Preta
+Sun Nov 18 2012,Flamengo RJ,1-1,?,Palmeiras
+Sun Nov 18 2012,Fluminense,0-2,?,Cruzeiro
+Sun Nov 18 2012,Sao Paulo,2-1,?,Nautico
+Sun Nov 18 2012,Internacional,0-2,?,Corinthians
+Sun Nov 18 2012,Portuguesa,2-2,?,Gremio
+Sun Nov 18 2012,Sport Recife,2-0,?,Botafogo RJ
+Sat Nov 24 2012,Corinthians,1-1,?,Santos
+Sat Nov 24 2012,Vasco,1-1,?,Flamengo RJ
+Sun Nov 25 2012,Bahia,1-1,?,Nautico
+Sun Nov 25 2012,Botafogo RJ,2-3,?,Atletico-MG
+Sun Nov 25 2012,Cruzeiro,2-1,?,Coritiba
+Sun Nov 25 2012,Figueirense,2-4,?,Gremio
+Sun Nov 25 2012,Internacional,0-2,?,Portuguesa
+Sun Nov 25 2012,Palmeiras,1-2,?,Atletico GO
+Sun Nov 25 2012,Ponte Preta,0-0,?,Sao Paulo
+Sun Nov 25 2012,Sport Recife,1-1,?,Fluminense
+Sat Dec 1 2012,Flamengo RJ,2-2,?,Botafogo RJ
+Sat Dec 1 2012,Santos,3-1,?,Palmeiras
+Sun Dec 2 2012,Atletico GO,0-1,?,Bahia
+Sun Dec 2 2012,Atletico-MG,3-2,?,Cruzeiro
+Sun Dec 2 2012,Coritiba,3-0,?,Figueirense
+Sun Dec 2 2012,Fluminense,1-2,?,Vasco
+Sun Dec 2 2012,Gremio,0-0,?,Internacional
+Sun Dec 2 2012,Nautico,1-0,?,Sport Recife
+Sun Dec 2 2012,Portuguesa,0-0,?,Ponte Preta
+Sun Dec 2 2012,Sao Paulo,3-1,?,Corinthians

@@ -1,0 +1,225 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 19 2019,Arka Gdynia,0-3,?,Jagiellonia
+Fri Jul 19 2019,LKS Lodz,0-0,?,Lechia Gdansk
+Sat Jul 20 2019,Rakow,0-1,?,Korona Kielce
+Sat Jul 20 2019,Wisla,0-1,?,Slask Wroclaw
+Sat Jul 20 2019,Piast Gliwice,1-1,?,Lech Poznan
+Sun Jul 21 2019,Zaglebie,1-1,?,Cracovia
+Sun Jul 21 2019,Legia,1-2,?,Pogon Szczecin
+Mon Jul 22 2019,Wisla Plock,1-1,?,Gornik Z.
+Fri Jul 26 2019,Gornik Z.,1-0,?,Zaglebie
+Fri Jul 26 2019,Lech Poznan,4-0,?,Wisla Plock
+Sat Jul 27 2019,Cracovia,1-2,?,LKS Lodz
+Sat Jul 27 2019,Jagiellonia,0-1,?,Rakow
+Sun Jul 28 2019,Korona Kielce,1-2,?,Legia
+Sun Jul 28 2019,Lechia Gdansk,0-0,?,Wisla
+Sun Jul 28 2019,Slask Wroclaw,2-1,?,Piast Gliwice
+Mon Jul 29 2019,Pogon Szczecin,2-0,?,Arka Gdynia
+Fri Aug 2 2019,Arka Gdynia,1-1,?,Korona Kielce
+Fri Aug 2 2019,Zaglebie,2-2,?,Jagiellonia
+Sat Aug 3 2019,Rakow,1-3,?,Cracovia
+Sat Aug 3 2019,LKS Lodz,1-2,?,Lech Poznan
+Sun Aug 4 2019,Wisla Plock,1-2,?,Lechia Gdansk
+Sun Aug 4 2019,Legia,0-0,?,Slask Wroclaw
+Sun Aug 4 2019,Piast Gliwice,0-0,?,Pogon Szczecin
+Mon Aug 5 2019,Wisla,1-0,?,Gornik Z.
+Fri Aug 9 2019,Lech Poznan,1-3,?,Slask Wroclaw
+Sat Aug 10 2019,Pogon Szczecin,1-0,?,Wisla
+Sat Aug 10 2019,Zaglebie,2-0,?,Arka Gdynia
+Sat Aug 10 2019,Gornik Z.,1-0,?,Rakow
+Sun Aug 11 2019,LKS Lodz,0-1,?,Piast Gliwice
+Sun Aug 11 2019,Cracovia,1-0,?,Korona Kielce
+Mon Aug 12 2019,Lechia Gdansk,1-1,?,Jagiellonia
+Fri Aug 16 2019,Wisla,4-0,?,LKS Lodz
+Sat Aug 17 2019,Slask Wroclaw,2-1,?,Cracovia
+Sat Aug 17 2019,Arka Gdynia,0-0,?,Lech Poznan
+Sat Aug 17 2019,Jagiellonia,3-1,?,Gornik Z.
+Sun Aug 18 2019,Piast Gliwice,1-0,?,Wisla Plock
+Sun Aug 18 2019,Legia,1-0,?,Zaglebie
+Sun Aug 18 2019,Rakow,2-1,?,Lechia Gdansk
+Mon Aug 19 2019,Korona Kielce,0-1,?,Pogon Szczecin
+Fri Aug 23 2019,Jagiellonia,3-2,?,Wisla
+Sat Aug 24 2019,Cracovia,3-1,?,Arka Gdynia
+Sat Aug 24 2019,Lechia Gdansk,1-1,?,Slask Wroclaw
+Sat Aug 24 2019,Rakow,2-3,?,Lech Poznan
+Sun Aug 25 2019,Gornik Z.,3-0,?,Korona Kielce
+Sun Aug 25 2019,LKS Lodz,2-3,?,Legia
+Sun Aug 25 2019,Zaglebie,0-3,?,Piast Gliwice
+Mon Aug 26 2019,Pogon Szczecin,1-2,?,Wisla Plock
+Fri Aug 30 2019,Arka Gdynia,1-0,?,Gornik Z.
+Fri Aug 30 2019,Korona Kielce,0-2,?,Jagiellonia
+Sat Aug 31 2019,Wisla Plock,2-1,?,LKS Lodz
+Sat Aug 31 2019,Piast Gliwice,1-2,?,Lechia Gdansk
+Sat Aug 31 2019,Wisla,4-2,?,Zaglebie
+Sun Sep 1 2019,Slask Wroclaw,1-1,?,Pogon Szczecin
+Sun Sep 1 2019,Lech Poznan,1-2,?,Cracovia
+Sun Sep 1 2019,Legia,3-1,?,Rakow
+Fri Sep 13 2019,Zaglebie,5-0,?,Wisla Plock
+Fri Sep 13 2019,Jagiellonia,0-0,?,Legia
+Sat Sep 14 2019,Rakow,2-0,?,Arka Gdynia
+Sat Sep 14 2019,Lechia Gdansk,2-1,?,Lech Poznan
+Sat Sep 14 2019,Korona Kielce,1-1,?,Wisla
+Sun Sep 15 2019,Pogon Szczecin,1-0,?,LKS Lodz
+Sun Sep 15 2019,Gornik Z.,0-0,?,Slask Wroclaw
+Mon Sep 16 2019,Cracovia,2-0,?,Piast Gliwice
+Wed Sep 18 2019,Wisla Plock,1-0,?,Legia
+Fri Sep 20 2019,Piast Gliwice,2-1,?,Rakow
+Fri Sep 20 2019,Lech Poznan,1-1,?,Jagiellonia
+Sat Sep 21 2019,LKS Lodz,1-4,?,Arka Gdynia
+Sat Sep 21 2019,Lechia Gdansk,2-0,?,Korona Kielce
+Sat Sep 21 2019,Slask Wroclaw,4-4,?,Zaglebie
+Sun Sep 22 2019,Wisla Plock,2-1,?,Wisla
+Sun Sep 22 2019,Pogon Szczecin,1-1,?,Gornik Z.
+Sun Sep 22 2019,Cracovia,1-2,?,Legia
+Fri Sep 27 2019,Korona Kielce,1-0,?,Slask Wroclaw
+Sat Sep 28 2019,Rakow,1-2,?,Wisla Plock
+Sat Sep 28 2019,Legia,1-2,?,Lechia Gdansk
+Sat Sep 28 2019,Gornik Z.,1-3,?,Lech Poznan
+Sun Sep 29 2019,Arka Gdynia,0-0,?,Piast Gliwice
+Sun Sep 29 2019,Jagiellonia,2-3,?,Pogon Szczecin
+Sun Sep 29 2019,Wisla,0-1,?,Cracovia
+Mon Sep 30 2019,Zaglebie,3-1,?,LKS Lodz
+Fri Oct 4 2019,Wisla Plock,4-1,?,Arka Gdynia
+Fri Oct 4 2019,Slask Wroclaw,1-1,?,Jagiellonia
+Sat Oct 5 2019,Pogon Szczecin,1-2,?,Rakow
+Sat Oct 5 2019,Lech Poznan,4-0,?,Wisla
+Sat Oct 5 2019,Lechia Gdansk,1-2,?,Zaglebie
+Sun Oct 6 2019,LKS Lodz,4-1,?,Korona Kielce
+Sun Oct 6 2019,Cracovia,1-1,?,Gornik Z.
+Sun Oct 6 2019,Piast Gliwice,2-0,?,Legia
+Fri Oct 18 2019,Zaglebie,0-1,?,Pogon Szczecin
+Fri Oct 18 2019,Wisla,1-2,?,Piast Gliwice
+Sat Oct 19 2019,Korona Kielce,0-1,?,Wisla Plock
+Sat Oct 19 2019,Legia,2-1,?,Lech Poznan
+Sat Oct 19 2019,Jagiellonia,3-2,?,Cracovia
+Sun Oct 20 2019,Arka Gdynia,2-2,?,Lechia Gdansk
+Sun Oct 20 2019,Gornik Z.,1-1,?,LKS Lodz
+Mon Oct 21 2019,Rakow,1-0,?,Slask Wroclaw
+Fri Oct 25 2019,Cracovia,2-0,?,Pogon Szczecin
+Fri Oct 25 2019,Lech Poznan,1-2,?,Zaglebie
+Sat Oct 26 2019,LKS Lodz,2-0,?,Rakow
+Sat Oct 26 2019,Piast Gliwice,1-0,?,Korona Kielce
+Sat Oct 26 2019,Lechia Gdansk,1-1,?,Gornik Z.
+Sun Oct 27 2019,Wisla Plock,3-1,?,Jagiellonia
+Sun Oct 27 2019,Slask Wroclaw,2-1,?,Arka Gdynia
+Sun Oct 27 2019,Legia,7-0,?,Wisla
+Sat Nov 2 2019,Korona Kielce,1-0,?,Zaglebie
+Sat Nov 2 2019,Cracovia,1-0,?,Lechia Gdansk
+Sat Nov 2 2019,Pogon Szczecin,1-1,?,Lech Poznan
+Sun Nov 3 2019,Jagiellonia,2-0,?,LKS Lodz
+Sun Nov 3 2019,Gornik Z.,1-1,?,Piast Gliwice
+Sun Nov 3 2019,Arka Gdynia,0-1,?,Legia
+Mon Nov 4 2019,Slask Wroclaw,3-1,?,Wisla Plock
+Mon Nov 4 2019,Rakow,1-0,?,Wisla
+Fri Nov 8 2019,LKS Lodz,0-1,?,Slask Wroclaw
+Fri Nov 8 2019,Piast Gliwice,3-1,?,Jagiellonia
+Sat Nov 9 2019,Wisla Plock,0-0,?,Cracovia
+Sat Nov 9 2019,Legia,5-1,?,Gornik Z.
+Sat Nov 9 2019,Wisla,0-1,?,Arka Gdynia
+Sun Nov 10 2019,Zaglebie,2-2,?,Rakow
+Sun Nov 10 2019,Lech Poznan,0-0,?,Korona Kielce
+Sun Nov 10 2019,Lechia Gdansk,0-1,?,Pogon Szczecin
+Fri Nov 22 2019,Gornik Z.,2-2,?,Wisla Plock
+Fri Nov 22 2019,Lech Poznan,3-0,?,Piast Gliwice
+Sat Nov 23 2019,Korona Kielce,3-0,?,Rakow
+Sat Nov 23 2019,Pogon Szczecin,3-1,?,Legia
+Sat Nov 23 2019,Lechia Gdansk,3-1,?,LKS Lodz
+Sun Nov 24 2019,Jagiellonia,2-0,?,Arka Gdynia
+Sun Nov 24 2019,Slask Wroclaw,2-1,?,Wisla
+Mon Nov 25 2019,Cracovia,2-0,?,Zaglebie
+Fri Nov 29 2019,Zaglebie,2-0,?,Gornik Z.
+Fri Nov 29 2019,Wisla Plock,0-2,?,Lech Poznan
+Sat Nov 30 2019,Arka Gdynia,1-1,?,Pogon Szczecin
+Sat Nov 30 2019,Piast Gliwice,0-3,?,Slask Wroclaw
+Sat Nov 30 2019,Legia,4-0,?,Korona Kielce
+Sun Dec 1 2019,Rakow,2-1,?,Jagiellonia
+Sun Dec 1 2019,LKS Lodz,1-0,?,Cracovia
+Sun Dec 1 2019,Wisla,0-1,?,Lechia Gdansk
+Fri Dec 6 2019,Korona Kielce,0-1,?,Arka Gdynia
+Fri Dec 6 2019,Gornik Z.,4-2,?,Wisla
+Sat Dec 7 2019,Jagiellonia,0-1,?,Zaglebie
+Sat Dec 7 2019,Lech Poznan,2-0,?,LKS Lodz
+Sat Dec 7 2019,Lechia Gdansk,2-0,?,Wisla Plock
+Sun Dec 8 2019,Cracovia,3-0,?,Rakow
+Sun Dec 8 2019,Pogon Szczecin,1-0,?,Piast Gliwice
+Sun Dec 8 2019,Slask Wroclaw,0-3,?,Legia
+Fri Dec 13 2019,Arka Gdynia,2-1,?,Zaglebie
+Fri Dec 13 2019,Wisla,1-0,?,Pogon Szczecin
+Sat Dec 14 2019,Rakow,2-1,?,Gornik Z.
+Sat Dec 14 2019,Slask Wroclaw,1-1,?,Lech Poznan
+Sat Dec 14 2019,Legia,3-1,?,Wisla Plock
+Sun Dec 15 2019,Piast Gliwice,2-1,?,LKS Lodz
+Sun Dec 15 2019,Korona Kielce,1-0,?,Cracovia
+Sun Dec 15 2019,Jagiellonia,3-0,?,Lechia Gdansk
+Thu Dec 19 2019,LKS Lodz,2-4,?,Wisla
+Thu Dec 19 2019,Lech Poznan,1-1,?,Arka Gdynia
+Fri Dec 20 2019,Cracovia,2-0,?,Slask Wroclaw
+Fri Dec 20 2019,Pogon Szczecin,0-1,?,Korona Kielce
+Fri Dec 20 2019,Zaglebie,2-1,?,Legia
+Sat Dec 21 2019,Lechia Gdansk,0-3,?,Rakow
+Sat Dec 21 2019,Wisla Plock,2-1,?,Piast Gliwice
+Sat Dec 21 2019,Gornik Z.,3-0,?,Jagiellonia
+Fri Feb 7 2020,Arka Gdynia,0-1,?,Cracovia
+Fri Feb 7 2020,Slask Wroclaw,2-2,?,Lechia Gdansk
+Sat Feb 8 2020,Korona Kielce,0-0,?,Gornik Z.
+Sat Feb 8 2020,Lech Poznan,3-0,?,Rakow
+Sat Feb 8 2020,Wisla,3-0,?,Jagiellonia
+Sun Feb 9 2020,Wisla Plock,2-3,?,Pogon Szczecin
+Sun Feb 9 2020,Piast Gliwice,2-0,?,Zaglebie
+Sun Feb 9 2020,Legia,3-1,?,LKS Lodz
+Fri Feb 14 2020,Gornik Z.,2-0,?,Arka Gdynia
+Fri Feb 14 2020,Lechia Gdansk,1-0,?,Piast Gliwice
+Sat Feb 15 2020,LKS Lodz,0-0,?,Wisla Plock
+Sat Feb 15 2020,Pogon Szczecin,0-0,?,Slask Wroclaw
+Sat Feb 15 2020,Rakow,2-2,?,Legia
+Sun Feb 16 2020,Jagiellonia,0-0,?,Korona Kielce
+Sun Feb 16 2020,Zaglebie,0-1,?,Wisla
+Sun Feb 16 2020,Cracovia,2-1,?,Lech Poznan
+Fri Feb 21 2020,LKS Lodz,0-0,?,Pogon Szczecin
+Fri Feb 21 2020,Slask Wroclaw,2-1,?,Gornik Z.
+Sat Feb 22 2020,Arka Gdynia,3-2,?,Rakow
+Sat Feb 22 2020,Legia,4-0,?,Jagiellonia
+Sat Feb 22 2020,Piast Gliwice,1-0,?,Cracovia
+Sun Feb 23 2020,Wisla Plock,1-1,?,Zaglebie
+Sun Feb 23 2020,Wisla,2-0,?,Korona Kielce
+Sun Feb 23 2020,Lech Poznan,2-0,?,Lechia Gdansk
+Fri Feb 28 2020,Rakow,2-0,?,Piast Gliwice
+Fri Feb 28 2020,Jagiellonia,1-1,?,Lech Poznan
+Sat Feb 29 2020,Wisla,2-2,?,Wisla Plock
+Sat Feb 29 2020,Gornik Z.,3-1,?,Pogon Szczecin
+Sat Feb 29 2020,Legia,2-1,?,Cracovia
+Sun Mar 1 2020,Korona Kielce,1-2,?,Lechia Gdansk
+Sun Mar 1 2020,Arka Gdynia,1-1,?,LKS Lodz
+Sun Mar 1 2020,Zaglebie,3-1,?,Slask Wroclaw
+Tue Mar 3 2020,Lech Poznan,4-1,?,Gornik Z.
+Tue Mar 3 2020,Wisla Plock,0-2,?,Rakow
+Tue Mar 3 2020,Cracovia,0-2,?,Wisla
+Tue Mar 3 2020,Pogon Szczecin,1-2,?,Jagiellonia
+Wed Mar 4 2020,LKS Lodz,3-2,?,Zaglebie
+Wed Mar 4 2020,Slask Wroclaw,2-1,?,Korona Kielce
+Wed Mar 4 2020,Lechia Gdansk,0-2,?,Legia
+Wed Mar 4 2020,Piast Gliwice,1-0,?,Arka Gdynia
+Fri Mar 6 2020,Gornik Z.,3-2,?,Cracovia
+Sat Mar 7 2020,Arka Gdynia,1-2,?,Wisla Plock
+Sat Mar 7 2020,Zaglebie,4-4,?,Lechia Gdansk
+Sat Mar 7 2020,Jagiellonia,1-0,?,Slask Wroclaw
+Sun Mar 8 2020,Rakow,0-0,?,Pogon Szczecin
+Sun Mar 8 2020,Wisla,1-1,?,Lech Poznan
+Sun Mar 8 2020,Legia,1-2,?,Piast Gliwice
+Mon Mar 9 2020,Korona Kielce,1-0,?,LKS Lodz
+Fri May 29 2020,Slask Wroclaw,1-1,?,Rakow
+Fri May 29 2020,Pogon Szczecin,0-3,?,Zaglebie
+Sat May 30 2020,LKS Lodz,0-1,?,Gornik Z.
+Sat May 30 2020,Piast Gliwice,4-0,?,Wisla
+Sat May 30 2020,Lech Poznan,0-1,?,Legia
+Sun May 31 2020,Wisla Plock,1-4,?,Korona Kielce
+Sun May 31 2020,Cracovia,0-1,?,Jagiellonia
+Sun May 31 2020,Lechia Gdansk,4-3,?,Arka Gdynia
+Fri Jun 5 2020,Korona Kielce,1-2,?,Piast Gliwice
+Fri Jun 5 2020,Gornik Z.,2-2,?,Lechia Gdansk
+Sat Jun 6 2020,Jagiellonia,2-2,?,Wisla Plock
+Sat Jun 6 2020,Zaglebie,3-3,?,Lech Poznan
+Sat Jun 6 2020,Pogon Szczecin,1-0,?,Cracovia
+Sun Jun 7 2020,Rakow,1-1,?,LKS Lodz
+Sun Jun 7 2020,Arka Gdynia,2-1,?,Slask Wroclaw
+Sun Jun 7 2020,Wisla,1-3,?,Legia

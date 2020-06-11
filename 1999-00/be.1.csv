@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 6 1999,Geel,1-5,0-1,Gent
+Sat Aug 7 1999,Beveren,0-2,0-1,Aalst
+Sat Aug 7 1999,Charleroi,2-1,0-0,Harelbeke
+Sat Aug 7 1999,Lierse,3-1,1-0,Germinal
+Sat Aug 7 1999,Lommel,1-0,0-0,Lokeren
+Sat Aug 7 1999,Standard,2-1,0-1,Mechelen
+Sat Aug 7 1999,Westerlo,6-6,3-2,Genk
+Sun Aug 8 1999,Anderlecht,3-2,0-1,Mouscron
+Sun Aug 8 1999,Club Brugge,4-0,1-0,St Truiden
+Sat Aug 14 1999,Gent,0-2,0-1,Genk
+Sat Aug 14 1999,Germinal,3-1,2-0,Lommel
+Sat Aug 14 1999,Mechelen,2-1,1-0,Charleroi
+Sat Aug 14 1999,St Truiden,1-1,1-0,Geel
+Sat Aug 14 1999,Westerlo,2-1,1-1,Standard
+Sun Aug 15 1999,Aalst,2-3,1-0,Lierse
+Sun Aug 15 1999,Anderlecht,5-2,2-0,Beveren
+Sun Aug 15 1999,Harelbeke,1-1,0-0,Mouscron
+Sun Aug 15 1999,Lokeren,2-5,1-3,Club Brugge
+Sat Aug 21 1999,Beveren,2-2,2-0,Harelbeke
+Sat Aug 21 1999,Charleroi,1-2,1-0,Westerlo
+Sat Aug 21 1999,Geel,1-1,0-0,Genk
+Sat Aug 21 1999,Mouscron,2-0,0-0,Mechelen
+Sat Aug 21 1999,St Truiden,1-1,0-1,Lokeren
+Sat Aug 21 1999,Standard,0-2,0-0,Gent
+Sun Aug 22 1999,Club Brugge,2-0,1-0,Germinal
+Sun Aug 22 1999,Lierse,0-3,0-2,Anderlecht
+Sun Aug 22 1999,Lommel,3-3,1-2,Aalst
+Sat Aug 28 1999,Gent,3-2,2-1,Charleroi
+Sat Aug 28 1999,Germinal,3-1,3-0,St Truiden
+Sat Aug 28 1999,Lokeren,0-0,0-0,Geel
+Sat Aug 28 1999,Mechelen,3-1,2-1,Beveren
+Sat Aug 28 1999,Westerlo,3-0,1-0,Mouscron
+Sun Aug 29 1999,Aalst,0-2,0-1,Club Brugge
+Sun Aug 29 1999,Anderlecht,3-3,1-1,Lommel
+Sun Aug 29 1999,Genk,4-0,4-0,Standard
+Sun Aug 29 1999,Harelbeke,0-3,0-0,Lierse
+Sat Sep 11 1999,Charleroi,2-1,1-1,Genk
+Sat Sep 11 1999,Geel,0-0,0-0,Standard
+Sat Sep 11 1999,Lierse,5-1,2-0,Mechelen
+Sat Sep 11 1999,Lokeren,1-1,0-1,Germinal
+Sat Sep 11 1999,Lommel,0-2,0-1,Harelbeke
+Sat Sep 11 1999,Mouscron,5-3,2-1,Gent
+Sat Sep 11 1999,St Truiden,1-5,1-0,Aalst
+Fri Sep 17 1999,Standard,1-3,1-2,Charleroi
+Sat Sep 18 1999,Genk,2-2,1-2,Mouscron
+Sat Sep 18 1999,Gent,4-1,2-0,Beveren
+Sat Sep 18 1999,Germinal,4-1,2-1,Geel
+Sat Sep 18 1999,Mechelen,1-0,0-0,Lommel
+Sun Sep 19 1999,Aalst,1-0,1-0,Lokeren
+Sun Sep 19 1999,Anderlecht,2-1,1-0,St Truiden
+Sun Sep 19 1999,Harelbeke,1-1,1-1,Club Brugge
+Sun Sep 19 1999,Westerlo,0-2,0-0,Lierse
+Fri Sep 24 1999,Mouscron,1-3,1-1,Standard
+Sat Sep 25 1999,Beveren,1-4,0-1,Genk
+Sat Sep 25 1999,Germinal,3-2,2-0,Aalst
+Sat Sep 25 1999,Lierse,2-1,2-1,Gent
+Sat Sep 25 1999,Lokeren,2-3,1-2,Anderlecht
+Sat Sep 25 1999,Lommel,2-2,0-1,Westerlo
+Sat Sep 25 1999,St Truiden,2-0,2-0,Harelbeke
+Sun Sep 26 1999,Club Brugge,6-0,4-0,Mechelen
+Sun Sep 26 1999,Geel,0-0,0-0,Charleroi
+Fri Oct 1 1999,Charleroi,2-1,1-1,Mouscron
+Sat Oct 2 1999,Gent,6-2,3-1,Lommel
+Sat Oct 2 1999,Mechelen,3-2,2-1,St Truiden
+Sat Oct 2 1999,Standard,3-1,0-0,Beveren
+Sun Oct 3 1999,Aalst,1-0,1-0,Geel
+Sun Oct 3 1999,Anderlecht,2-2,1-0,Germinal
+Sun Oct 3 1999,Genk,2-2,0-0,Lierse
+Sun Oct 3 1999,Harelbeke,2-3,1-2,Lokeren
+Sun Oct 3 1999,Westerlo,1-0,0-0,Club Brugge
+Wed Oct 13 1999,Aalst,2-3,1-1,Anderlecht
+Wed Oct 13 1999,Beveren,1-1,1-0,Charleroi
+Wed Oct 13 1999,Club Brugge,1-3,0-1,Gent
+Wed Oct 13 1999,Geel,1-4,0-3,Mouscron
+Wed Oct 13 1999,Germinal,1-0,1-0,Harelbeke
+Wed Oct 13 1999,Lierse,1-0,1-0,Standard
+Wed Oct 13 1999,Lokeren,0-2,0-1,Mechelen
+Wed Oct 13 1999,Lommel,0-1,0-0,Genk
+Wed Oct 13 1999,St Truiden,2-1,1-0,Westerlo
+Sat Oct 23 1999,Charleroi,1-1,0-1,Lierse
+Sat Oct 23 1999,Gent,4-2,2-2,St Truiden
+Sat Oct 23 1999,Mechelen,2-0,1-0,Germinal
+Sat Oct 23 1999,Standard,4-1,1-0,Lommel
+Sat Oct 23 1999,Westerlo,3-3,1-2,Lokeren
+Sun Oct 24 1999,Anderlecht,4-0,1-0,Geel
+Sun Oct 24 1999,Genk,1-0,0-0,Club Brugge
+Sun Oct 24 1999,Harelbeke,1-1,1-0,Aalst
+Sun Oct 24 1999,Mouscron,3-0,0-0,Beveren
+Thu Oct 28 1999,Anderlecht,2-0,0-0,Harelbeke
+Sat Oct 30 1999,Club Brugge,5-2,4-0,Standard
+Sat Oct 30 1999,Geel,1-1,0-1,Beveren
+Sat Oct 30 1999,Germinal,3-2,3-2,Westerlo
+Sat Oct 30 1999,Lierse,1-0,0-0,Mouscron
+Sat Oct 30 1999,Lokeren,0-4,0-2,Gent
+Sat Oct 30 1999,Lommel,1-1,1-0,Charleroi
+Sat Oct 30 1999,St Truiden,0-5,0-3,Genk
+Sun Oct 31 1999,Aalst,2-0,1-0,Mechelen
+Fri Nov 5 1999,Charleroi,0-2,0-1,Club Brugge
+Sat Nov 6 1999,Beveren,1-1,0-0,Lierse
+Sat Nov 6 1999,Genk,1-1,0-1,Lokeren
+Sat Nov 6 1999,Gent,1-3,1-3,Germinal
+Sat Nov 6 1999,Mechelen,2-5,1-4,Anderlecht
+Sat Nov 6 1999,Mouscron,0-0,0-0,Lommel
+Sat Nov 6 1999,Standard,2-1,2-1,St Truiden
+Sat Nov 6 1999,Westerlo,3-2,0-1,Aalst
+Sun Nov 7 1999,Harelbeke,3-0,1-0,Geel
+Wed Nov 10 1999,Aalst,4-2,2-1,Gent
+Wed Nov 10 1999,Anderlecht,3-0,1-0,Westerlo
+Wed Nov 10 1999,Club Brugge,1-2,0-0,Mouscron
+Wed Nov 10 1999,Geel,2-1,0-1,Lierse
+Wed Nov 10 1999,Genk,4-0,1-0,Germinal
+Wed Nov 10 1999,Harelbeke,5-2,4-1,Mechelen
+Wed Nov 10 1999,Lokeren,5-3,2-0,Standard
+Wed Nov 10 1999,Lommel,0-0,0-0,Beveren
+Wed Nov 10 1999,St Truiden,2-2,0-2,Charleroi
+Fri Nov 19 1999,Gent,0-3,0-1,Anderlecht
+Sat Nov 20 1999,Beveren,2-3,0-2,Club Brugge
+Sat Nov 20 1999,Charleroi,2-4,0-2,Lokeren
+Sat Nov 20 1999,Genk,2-1,1-1,Aalst
+Sat Nov 20 1999,Lierse,4-0,1-0,Lommel
+Sat Nov 20 1999,Mechelen,1-1,0-0,Geel
+Sat Nov 20 1999,Mouscron,3-0,1-0,St Truiden
+Sat Nov 20 1999,Standard,1-0,1-0,Germinal
+Sun Nov 21 1999,Westerlo,4-1,1-0,Harelbeke
+Fri Nov 26 1999,Club Brugge,1-0,0-0,Lierse
+Sat Nov 27 1999,Geel,0-0,0-0,Lommel
+Sat Nov 27 1999,Lokeren,3-2,1-1,Mouscron
+Sat Nov 27 1999,Mechelen,2-2,1-2,Westerlo
+Sat Nov 27 1999,St Truiden,0-2,0-1,Beveren
+Sun Nov 28 1999,Aalst,1-2,0-0,Standard
+Sun Nov 28 1999,Anderlecht,1-3,0-1,Genk
+Sun Nov 28 1999,Germinal,3-0,0-0,Charleroi
+Sun Nov 28 1999,Harelbeke,1-2,0-1,Gent
+Sat Dec 4 1999,Beveren,2-1,1-1,Lokeren
+Sat Dec 4 1999,Charleroi,0-1,0-1,Aalst
+Sat Dec 4 1999,Geel,2-3,2-0,Westerlo
+Sat Dec 4 1999,Lierse,0-0,0-0,St Truiden
+Sat Dec 4 1999,Lommel,0-0,0-0,Club Brugge
+Sat Dec 4 1999,Mouscron,1-1,0-1,Germinal
+Sun Dec 5 1999,Genk,4-3,1-1,Harelbeke
+Sun Dec 5 1999,Gent,6-1,2-0,Mechelen
+Sun Dec 5 1999,Standard,0-0,0-0,Anderlecht
+Wed Dec 8 1999,Beveren,4-0,0-0,Westerlo
+Sat Dec 11 1999,Anderlecht,3-0,1-0,Charleroi
+Sat Dec 11 1999,Club Brugge,4-0,2-0,Geel
+Sat Dec 11 1999,Germinal,2-0,1-0,Beveren
+Sat Dec 11 1999,Lokeren,5-1,0-0,Lierse
+Sat Dec 11 1999,Mechelen,2-0,1-0,Genk
+Sat Dec 11 1999,St Truiden,2-0,0-0,Lommel
+Sat Dec 11 1999,Westerlo,4-2,1-1,Gent
+Sun Dec 12 1999,Aalst,2-5,0-2,Mouscron
+Sun Dec 12 1999,Harelbeke,3-4,2-2,Standard
+Tue Jan 11 2000,Mouscron,0-2,0-1,Anderlecht
+Wed Jan 12 2000,Aalst,2-4,1-2,Beveren
+Wed Jan 12 2000,Genk,1-1,0-0,Westerlo
+Wed Jan 12 2000,Gent,1-1,0-1,Geel
+Wed Jan 12 2000,Germinal,1-1,0-0,Lierse
+Wed Jan 12 2000,Harelbeke,4-1,2-0,Charleroi
+Wed Jan 12 2000,Lokeren,2-1,0-0,Lommel
+Wed Jan 12 2000,Mechelen,2-4,1-1,Standard
+Wed Jan 12 2000,St Truiden,0-1,0-1,Club Brugge
+Sat Jan 15 2000,Beveren,0-0,0-0,Anderlecht
+Sat Jan 15 2000,Charleroi,1-4,0-3,Mechelen
+Sat Jan 15 2000,Geel,1-2,1-0,St Truiden
+Sat Jan 15 2000,Genk,0-1,0-0,Gent
+Sat Jan 15 2000,Lommel,2-2,1-1,Germinal
+Sat Jan 15 2000,Mouscron,4-2,2-0,Harelbeke
+Sun Jan 16 2000,Club Brugge,6-1,4-1,Lokeren
+Sun Jan 16 2000,Lierse,5-2,3-2,Aalst
+Sun Jan 16 2000,Standard,4-0,1-0,Westerlo
+Fri Jan 21 2000,Germinal,5-3,5-1,Club Brugge
+Sat Jan 22 2000,Genk,1-0,1-0,Geel
+Sat Jan 22 2000,Gent,1-5,0-3,Standard
+Sat Jan 22 2000,Lokeren,3-0,1-0,St Truiden
+Sat Jan 22 2000,Mechelen,1-3,0-1,Mouscron
+Sun Jan 23 2000,Aalst,3-1,0-0,Lommel
+Sun Jan 23 2000,Anderlecht,2-0,0-0,Lierse
+Sun Jan 23 2000,Harelbeke,0-5,?,Beveren
+Sun Jan 23 2000,Westerlo,1-1,1-1,Charleroi
+Fri Jan 28 2000,Standard,5-1,1-0,Genk
+Sat Jan 29 2000,Beveren,2-1,1-0,Mechelen
+Sat Jan 29 2000,Charleroi,1-2,1-0,Gent
+Sat Jan 29 2000,Geel,3-0,1-0,Lokeren
+Sat Jan 29 2000,Lommel,3-3,1-1,Anderlecht
+Sat Jan 29 2000,St Truiden,2-0,1-0,Germinal
+Sun Jan 30 2000,Club Brugge,3-0,1-0,Aalst
+Sun Jan 30 2000,Lierse,2-0,1-0,Harelbeke
+Sun Jan 30 2000,Mouscron,2-1,1-1,Westerlo
+Sat Feb 5 2000,Genk,1-2,1-0,Charleroi
+Sat Feb 5 2000,Gent,2-3,0-1,Mouscron
+Sat Feb 5 2000,Mechelen,4-3,2-2,Lierse
+Sat Feb 5 2000,Westerlo,3-2,2-1,Beveren
+Sun Feb 6 2000,Aalst,2-0,0-0,St Truiden
+Sun Feb 6 2000,Anderlecht,1-1,0-0,Club Brugge
+Sun Feb 6 2000,Harelbeke,5-1,2-1,Lommel
+Sun Feb 6 2000,Standard,3-0,2-0,Geel
+Fri Feb 11 2000,Mouscron,5-0,2-0,Genk
+Sat Feb 12 2000,Beveren,0-1,0-0,Gent
+Sat Feb 12 2000,Geel,0-2,0-1,Germinal
+Sat Feb 12 2000,Lierse,7-0,2-0,Westerlo
+Sat Feb 12 2000,Lokeren,5-1,1-0,Aalst
+Sat Feb 12 2000,Lommel,0-2,0-1,Mechelen
+Sat Feb 12 2000,St Truiden,0-4,0-2,Anderlecht
+Sun Feb 13 2000,Charleroi,1-4,0-2,Standard
+Sun Feb 13 2000,Club Brugge,1-2,0-2,Harelbeke
+Fri Feb 18 2000,Gent,2-0,1-0,Lierse
+Fri Feb 18 2000,Standard,2-0,1-0,Mouscron
+Sat Feb 19 2000,Anderlecht,5-0,1-0,Lokeren
+Sat Feb 19 2000,Charleroi,1-3,0-0,Geel
+Sat Feb 19 2000,Mechelen,0-0,0-0,Club Brugge
+Sat Feb 19 2000,Westerlo,1-0,1-0,Lommel
+Sun Feb 20 2000,Aalst,1-2,0-1,Germinal
+Sun Feb 20 2000,Genk,4-1,2-1,Beveren
+Sun Feb 20 2000,Harelbeke,3-2,1-2,St Truiden
+Sun Feb 27 2000,Club Brugge,0-2,0-0,Anderlecht
+Wed Mar 1 2000,Germinal,0-0,0-0,Lokeren
+Sat Mar 4 2000,Beveren,0-2,0-0,Standard
+Sat Mar 4 2000,Geel,1-2,0-0,Aalst
+Sat Mar 4 2000,Lierse,5-0,4-0,Genk
+Sat Mar 4 2000,Lokeren,2-0,0-0,Harelbeke
+Sat Mar 4 2000,Lommel,1-3,0-1,Gent
+Sat Mar 4 2000,Mouscron,2-1,0-0,Charleroi
+Sat Mar 4 2000,St Truiden,3-1,1-0,Mechelen
+Sun Mar 5 2000,Club Brugge,2-0,2-0,Westerlo
+Sun Mar 5 2000,Germinal,1-3,0-1,Anderlecht
+Fri Mar 10 2000,Gent,2-0,1-0,Club Brugge
+Sat Mar 11 2000,Anderlecht,4-1,3-1,Aalst
+Sat Mar 11 2000,Genk,1-2,0-1,Lommel
+Sat Mar 11 2000,Mouscron,3-1,0-1,Geel
+Sat Mar 11 2000,Standard,3-1,1-1,Lierse
+Sat Mar 11 2000,Westerlo,3-2,1-1,St Truiden
+Sun Mar 12 2000,Charleroi,2-3,1-0,Beveren
+Sun Mar 12 2000,Harelbeke,1-0,0-0,Germinal
+Sun Mar 12 2000,Mechelen,0-0,0-0,Lokeren
+Sat Mar 18 2000,Geel,0-0,0-0,Anderlecht
+Sat Mar 18 2000,Germinal,0-0,0-0,Mechelen
+Sat Mar 18 2000,Lierse,2-0,0-0,Charleroi
+Sat Mar 18 2000,Lokeren,0-0,0-0,Westerlo
+Sat Mar 18 2000,St Truiden,0-0,0-0,Gent
+Sun Mar 19 2000,Aalst,3-0,2-0,Harelbeke
+Sun Mar 19 2000,Beveren,1-1,1-1,Mouscron
+Sun Mar 19 2000,Club Brugge,2-0,2-0,Genk
+Sun Mar 19 2000,Lommel,2-1,1-1,Standard
+Fri Mar 24 2000,Standard,0-1,0-1,Club Brugge
+Sat Mar 25 2000,Beveren,1-1,1-0,Geel
+Sat Mar 25 2000,Charleroi,1-1,0-1,Lommel
+Sat Mar 25 2000,Genk,0-2,0-1,St Truiden
+Sat Mar 25 2000,Mechelen,2-0,1-0,Aalst
+Sat Mar 25 2000,Mouscron,3-3,1-2,Lierse
+Sat Mar 25 2000,Westerlo,3-2,0-1,Germinal
+Sun Mar 26 2000,Gent,1-1,0-1,Lokeren
+Sun Mar 26 2000,Harelbeke,2-2,1-1,Anderlecht
+Sat Apr 1 2000,Aalst,1-1,0-0,Westerlo
+Sat Apr 1 2000,Anderlecht,5-0,2-0,Mechelen
+Sat Apr 1 2000,Club Brugge,3-1,2-0,Charleroi
+Sat Apr 1 2000,Germinal,2-0,1-0,Gent
+Sat Apr 1 2000,Lierse,1-3,1-0,Beveren
+Sat Apr 1 2000,Lokeren,1-2,1-2,Genk
+Sat Apr 1 2000,Lommel,0-4,0-1,Mouscron
+Sun Apr 2 2000,Geel,3-2,1-1,Harelbeke
+Sun Apr 2 2000,St Truiden,2-0,1-0,Standard
+Fri Apr 7 2000,Lierse,2-2,1-2,Geel
+Fri Apr 7 2000,Mouscron,1-2,0-1,Club Brugge
+Fri Apr 7 2000,Standard,1-2,0-0,Lokeren
+Sat Apr 8 2000,Charleroi,1-1,0-1,St Truiden
+Sat Apr 8 2000,Germinal,3-0,2-0,Genk
+Sat Apr 8 2000,Westerlo,5-0,2-0,Anderlecht
+Sun Apr 9 2000,Beveren,1-0,0-0,Lommel
+Sun Apr 9 2000,Gent,4-0,2-0,Aalst
+Sun Apr 9 2000,Mechelen,4-0,3-0,Harelbeke
+Sat Apr 15 2000,Aalst,1-3,1-1,Genk
+Sat Apr 15 2000,Germinal,2-0,1-0,Standard
+Sat Apr 15 2000,Lokeren,1-1,1-0,Charleroi
+Sat Apr 15 2000,Lommel,1-0,1-0,Lierse
+Sat Apr 15 2000,St Truiden,0-0,0-0,Mouscron
+Sun Apr 16 2000,Anderlecht,1-2,1-0,Gent
+Sun Apr 16 2000,Club Brugge,3-1,2-0,Beveren
+Sun Apr 16 2000,Geel,3-0,1-0,Mechelen
+Sun Apr 16 2000,Harelbeke,3-1,1-1,Westerlo
+Fri Apr 21 2000,Lierse,1-0,0-0,Club Brugge
+Sat Apr 22 2000,Beveren,3-4,0-2,St Truiden
+Sat Apr 22 2000,Charleroi,3-0,2-0,Germinal
+Sat Apr 22 2000,Genk,1-4,0-2,Anderlecht
+Sat Apr 22 2000,Gent,4-2,1-2,Harelbeke
+Sat Apr 22 2000,Lommel,1-1,1-0,Geel
+Sat Apr 22 2000,Mouscron,0-0,0-0,Lokeren
+Sat Apr 22 2000,Standard,3-1,1-1,Aalst
+Sat Apr 22 2000,Westerlo,8-0,4-0,Mechelen
+Sat May 6 2000,Aalst,0-3,0-1,Charleroi
+Sat May 6 2000,Anderlecht,2-0,0-0,Standard
+Sat May 6 2000,Club Brugge,3-1,0-0,Lommel
+Sat May 6 2000,Germinal,0-1,0-0,Mouscron
+Sat May 6 2000,Harelbeke,1-2,0-1,Genk
+Sat May 6 2000,Lokeren,5-2,2-0,Beveren
+Sat May 6 2000,Mechelen,0-2,0-2,Gent
+Sat May 6 2000,St Truiden,2-1,2-1,Lierse
+Sat May 6 2000,Westerlo,4-1,1-0,Geel
+Thu May 11 2000,Beveren,1-4,0-4,Germinal
+Thu May 11 2000,Charleroi,1-1,0-1,Anderlecht
+Thu May 11 2000,Geel,0-2,0-1,Club Brugge
+Thu May 11 2000,Genk,3-1,2-0,Mechelen
+Thu May 11 2000,Gent,2-3,1-2,Westerlo
+Thu May 11 2000,Lierse,1-2,1-0,Lokeren
+Thu May 11 2000,Lommel,4-1,1-0,St Truiden
+Thu May 11 2000,Mouscron,1-1,0-0,Aalst
+Thu May 11 2000,Standard,1-3,0-1,Harelbeke

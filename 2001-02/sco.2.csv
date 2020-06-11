@@ -1,0 +1,181 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 4 2001,Airdrie,2-2,2-0,Raith Rvs
+Sat Aug 4 2001,Clyde,1-1,1-0,Inverness C
+Sat Aug 4 2001,Falkirk,1-2,1-0,Ayr
+Sat Aug 4 2001,Partick,3-3,2-2,St Mirren
+Sat Aug 4 2001,Ross County,0-2,0-2,Arbroath
+Sat Aug 11 2001,Arbroath,0-6,0-2,Airdrie
+Sat Aug 11 2001,Ayr,2-0,1-0,Ross County
+Sat Aug 11 2001,Inverness C,1-2,1-1,Falkirk
+Sat Aug 11 2001,Raith Rvs,1-2,0-1,Partick
+Sat Aug 11 2001,St Mirren,4-1,2-1,Clyde
+Sat Aug 18 2001,Airdrie,2-1,1-1,Ayr
+Sat Aug 18 2001,Clyde,1-0,0-0,Arbroath
+Sat Aug 18 2001,Falkirk,3-2,0-1,St Mirren
+Sat Aug 18 2001,Partick,1-0,1-0,Inverness C
+Sat Aug 18 2001,Ross County,1-0,1-0,Raith Rvs
+Sat Aug 25 2001,Arbroath,1-3,0-0,Partick
+Sat Aug 25 2001,Ayr,1-1,1-0,Raith Rvs
+Sat Aug 25 2001,Falkirk,1-1,0-1,Clyde
+Sat Aug 25 2001,Ross County,0-1,0-1,Airdrie
+Sat Aug 25 2001,St Mirren,1-1,0-0,Inverness C
+Sat Sep 8 2001,Airdrie,0-0,0-0,St Mirren
+Sat Sep 8 2001,Clyde,3-0,2-0,Ross County
+Sat Sep 8 2001,Inverness C,5-1,2-0,Arbroath
+Sat Sep 8 2001,Partick,2-1,1-1,Ayr
+Sat Sep 8 2001,Raith Rvs,5-2,3-1,Falkirk
+Sat Sep 15 2001,Airdrie,2-1,1-1,Falkirk
+Sat Sep 15 2001,Ayr,4-2,2-1,St Mirren
+Sat Sep 15 2001,Partick,3-0,2-0,Clyde
+Sat Sep 15 2001,Raith Rvs,3-1,0-1,Arbroath
+Sat Sep 15 2001,Ross County,2-1,0-0,Inverness C
+Tue Sep 18 2001,Arbroath,3-2,2-2,Ayr
+Tue Sep 18 2001,Clyde,0-3,0-3,Airdrie
+Tue Sep 18 2001,Falkirk,1-1,0-0,Partick
+Tue Sep 18 2001,St Mirren,1-0,1-0,Ross County
+Wed Sep 19 2001,Inverness C,5-2,3-0,Raith Rvs
+Sat Sep 22 2001,Airdrie,6-0,5-0,Inverness C
+Sat Sep 22 2001,Arbroath,1-0,0-0,Falkirk
+Sat Sep 22 2001,Raith Rvs,3-0,1-0,St Mirren
+Sat Sep 22 2001,Ross County,3-2,2-2,Partick
+Sun Sep 23 2001,Ayr,2-1,2-0,Clyde
+Sat Sep 29 2001,Clyde,3-2,2-0,Raith Rvs
+Sat Sep 29 2001,Falkirk,4-2,0-2,Ross County
+Sat Sep 29 2001,Inverness C,3-1,0-0,Ayr
+Sat Sep 29 2001,Partick,1-1,1-0,Airdrie
+Sat Sep 29 2001,St Mirren,1-0,1-0,Arbroath
+Sat Oct 6 2001,Raith Rvs,2-2,1-2,Airdrie
+Sat Oct 13 2001,Arbroath,2-1,1-0,Ross County
+Sat Oct 13 2001,Ayr,2-2,1-1,Falkirk
+Sat Oct 13 2001,Inverness C,5-1,2-0,Clyde
+Sat Oct 13 2001,St Mirren,1-0,0-0,Partick
+Sat Oct 20 2001,Airdrie,3-1,2-1,Arbroath
+Sat Oct 20 2001,Clyde,1-1,1-0,St Mirren
+Sat Oct 20 2001,Falkirk,1-2,1-0,Inverness C
+Sat Oct 20 2001,Partick,2-1,1-0,Raith Rvs
+Sat Oct 20 2001,Ross County,3-2,1-0,Ayr
+Sat Oct 27 2001,Arbroath,3-2,1-1,Inverness C
+Sat Oct 27 2001,Ayr,0-2,0-0,Partick
+Sat Oct 27 2001,Falkirk,1-0,1-0,Raith Rvs
+Sat Oct 27 2001,Ross County,4-0,3-0,Clyde
+Sat Oct 27 2001,St Mirren,0-0,0-0,Airdrie
+Sat Nov 3 2001,Airdrie,1-1,0-1,Ross County
+Sat Nov 3 2001,Clyde,1-1,1-0,Falkirk
+Sat Nov 3 2001,Inverness C,1-2,1-1,St Mirren
+Sat Nov 3 2001,Partick,4-1,2-0,Arbroath
+Sat Nov 3 2001,Raith Rvs,1-1,1-0,Ayr
+Sat Nov 10 2001,Airdrie,1-2,0-0,Clyde
+Sat Nov 10 2001,Ayr,0-1,0-1,Arbroath
+Sat Nov 10 2001,Partick,5-1,1-0,Falkirk
+Sat Nov 10 2001,Raith Rvs,1-5,1-2,Inverness C
+Sat Nov 10 2001,Ross County,0-1,0-0,St Mirren
+Sat Nov 17 2001,Arbroath,1-1,1-0,Raith Rvs
+Sat Nov 17 2001,Clyde,3-1,2-0,Partick
+Sat Nov 17 2001,Falkirk,1-2,1-1,Airdrie
+Sat Nov 17 2001,Inverness C,3-0,1-0,Ross County
+Sat Nov 17 2001,St Mirren,0-1,0-0,Ayr
+Sat Nov 24 2001,Airdrie,1-0,1-0,Partick
+Sat Nov 24 2001,Arbroath,0-2,0-1,St Mirren
+Sat Nov 24 2001,Ayr,3-0,1-0,Inverness C
+Sat Nov 24 2001,Raith Rvs,1-2,1-1,Clyde
+Sat Nov 24 2001,Ross County,1-2,0-1,Falkirk
+Sat Dec 1 2001,Clyde,2-2,1-1,Ayr
+Sat Dec 1 2001,Falkirk,3-2,1-0,Arbroath
+Sat Dec 1 2001,Inverness C,1-2,0-1,Airdrie
+Sat Dec 1 2001,Partick,0-0,0-0,Ross County
+Sat Dec 1 2001,St Mirren,1-1,1-1,Raith Rvs
+Sat Dec 8 2001,Arbroath,2-1,1-0,Clyde
+Sat Dec 8 2001,Ayr,1-3,0-0,Airdrie
+Sat Dec 8 2001,Inverness C,1-2,0-0,Partick
+Sat Dec 8 2001,Raith Rvs,1-3,0-3,Ross County
+Sat Dec 8 2001,St Mirren,1-5,0-1,Falkirk
+Sat Dec 15 2001,Airdrie,1-1,0-1,Raith Rvs
+Sat Dec 15 2001,Clyde,1-0,0-0,Inverness C
+Sat Dec 15 2001,Falkirk,0-2,0-0,Ayr
+Sat Dec 15 2001,Partick,1-0,0-0,St Mirren
+Sat Dec 15 2001,Ross County,0-1,0-0,Arbroath
+Sat Dec 22 2001,Inverness C,3-2,2-1,Arbroath
+Wed Dec 26 2001,Partick,2-1,0-1,Ayr
+Sat Dec 29 2001,Ayr,3-1,0-0,Raith Rvs
+Sat Dec 29 2001,St Mirren,0-0,0-0,Inverness C
+Wed Jan 2 2002,Partick,2-1,1-0,Clyde
+Sat Jan 12 2002,Arbroath,0-2,0-0,Ayr
+Sat Jan 12 2002,Clyde,0-1,0-1,Airdrie
+Sat Jan 12 2002,Falkirk,1-4,0-3,Partick
+Sat Jan 12 2002,Inverness C,5-0,2-0,Raith Rvs
+Sat Jan 12 2002,St Mirren,1-1,0-1,Ross County
+Sat Jan 19 2002,Airdrie,3-0,0-0,Inverness C
+Sat Jan 19 2002,Arbroath,0-1,0-1,Falkirk
+Sat Jan 19 2002,Ayr,0-1,0-1,Clyde
+Sat Jan 19 2002,Raith Rvs,1-0,0-0,St Mirren
+Sat Jan 19 2002,Ross County,0-1,0-1,Partick
+Tue Jan 22 2002,Airdrie,2-3,2-1,St Mirren
+Sat Jan 26 2002,Raith Rvs,0-0,0-0,Arbroath
+Sat Feb 2 2002,Clyde,1-2,0-1,Raith Rvs
+Sat Feb 2 2002,Falkirk,1-4,0-3,Ross County
+Sat Feb 2 2002,Inverness C,1-1,1-0,Ayr
+Sat Feb 2 2002,Partick,1-1,0-1,Airdrie
+Sat Feb 2 2002,St Mirren,2-3,0-2,Arbroath
+Sat Feb 9 2002,Airdrie,1-2,0-1,Ayr
+Sat Feb 9 2002,Clyde,1-0,1-0,Arbroath
+Sat Feb 9 2002,Falkirk,0-0,0-0,St Mirren
+Sat Feb 9 2002,Partick,4-1,2-0,Inverness C
+Sat Feb 9 2002,Ross County,4-2,1-1,Raith Rvs
+Sat Feb 16 2002,Arbroath,2-1,1-1,Airdrie
+Sat Feb 16 2002,Ayr,0-0,0-0,Ross County
+Sat Feb 16 2002,Inverness C,3-2,1-1,Falkirk
+Sat Feb 16 2002,Raith Rvs,2-0,2-0,Partick
+Sat Feb 16 2002,St Mirren,2-2,1-1,Clyde
+Sat Feb 23 2002,Raith Rvs,5-1,2-1,Falkirk
+Tue Feb 26 2002,Arbroath,1-0,1-0,Partick
+Tue Feb 26 2002,Ayr,4-1,2-0,St Mirren
+Sat Mar 2 2002,Airdrie,0-2,0-0,Ross County
+Sat Mar 2 2002,Clyde,2-3,0-3,Falkirk
+Sat Mar 2 2002,Inverness C,4-2,1-1,St Mirren
+Sat Mar 2 2002,Partick,2-2,0-2,Arbroath
+Sat Mar 2 2002,Raith Rvs,3-3,2-3,Ayr
+Tue Mar 5 2002,Falkirk,1-6,1-1,Clyde
+Sat Mar 9 2002,Arbroath,1-0,0-0,Inverness C
+Sat Mar 9 2002,Ayr,1-1,0-0,Partick
+Sat Mar 9 2002,Falkirk,2-1,0-0,Raith Rvs
+Sat Mar 9 2002,Ross County,2-1,0-0,Clyde
+Sat Mar 9 2002,St Mirren,2-1,1-0,Airdrie
+Tue Mar 12 2002,Airdrie,1-0,0-0,Falkirk
+Tue Mar 12 2002,Clyde,0-0,0-0,Ross County
+Sat Mar 16 2002,Airdrie,2-2,1-1,Clyde
+Sat Mar 16 2002,Partick,3-0,1-0,Falkirk
+Sat Mar 16 2002,Raith Rvs,0-0,0-0,Inverness C
+Sat Mar 16 2002,Ross County,4-1,2-1,St Mirren
+Tue Mar 19 2002,Ross County,0-0,0-0,Inverness C
+Sat Mar 23 2002,Arbroath,2-2,2-1,Raith Rvs
+Sat Mar 23 2002,Falkirk,2-2,0-1,Airdrie
+Sat Mar 23 2002,Inverness C,1-1,0-0,Ross County
+Tue Mar 26 2002,Ayr,0-0,0-0,Arbroath
+Tue Mar 26 2002,Ross County,4-1,1-1,Airdrie
+Wed Mar 27 2002,Clyde,2-1,0-0,Partick
+Sat Mar 30 2002,Clyde,2-2,0-1,Ayr
+Sat Mar 30 2002,Falkirk,1-3,1-1,Arbroath
+Sat Mar 30 2002,Inverness C,1-0,0-0,Airdrie
+Sat Mar 30 2002,Partick,1-1,0-0,Ross County
+Sat Mar 30 2002,St Mirren,1-0,1-0,Raith Rvs
+Tue Apr 2 2002,St Mirren,1-1,1-0,Ayr
+Sat Apr 6 2002,Airdrie,1-1,0-0,Partick
+Sat Apr 6 2002,Arbroath,0-3,0-1,St Mirren
+Sat Apr 6 2002,Ayr,1-0,0-0,Inverness C
+Sat Apr 6 2002,Raith Rvs,0-1,0-1,Clyde
+Sat Apr 6 2002,Ross County,4-2,1-2,Falkirk
+Sat Apr 13 2002,Arbroath,1-1,0-1,Ross County
+Sat Apr 13 2002,Ayr,0-0,0-0,Falkirk
+Sat Apr 13 2002,Inverness C,1-1,0-0,Clyde
+Sat Apr 13 2002,Raith Rvs,2-1,1-1,Airdrie
+Sat Apr 13 2002,St Mirren,0-2,0-1,Partick
+Sat Apr 20 2002,Airdrie,2-0,2-0,Arbroath
+Sat Apr 20 2002,Clyde,3-1,1-1,St Mirren
+Sat Apr 20 2002,Falkirk,0-0,0-0,Inverness C
+Sat Apr 20 2002,Partick,1-0,0-0,Raith Rvs
+Sat Apr 20 2002,Ross County,1-1,1-0,Ayr
+Sat Apr 27 2002,Arbroath,2-0,2-0,Clyde
+Sat Apr 27 2002,Ayr,1-0,1-0,Airdrie
+Sat Apr 27 2002,Inverness C,3-0,3-0,Partick
+Sat Apr 27 2002,Raith Rvs,0-1,0-0,Ross County
+Sat Apr 27 2002,St Mirren,0-0,0-0,Falkirk

@@ -1,0 +1,199 @@
+Date,Team 1,FT,HT,Team 2
+Sun Apr 15 2012,HJK,3-1,?,Mariehamn
+Sun Apr 15 2012,Honka,1-1,?,VPS
+Sun Apr 15 2012,KuPS,2-2,?,JJK Jyvaskyla
+Sun Apr 15 2012,Lahti,1-0,?,Haka
+Sun Apr 15 2012,TPS,0-1,?,MyPa
+Wed Apr 18 2012,Lahti,2-1,?,Honka
+Thu Apr 19 2012,JJK Jyvaskyla,1-4,?,Haka
+Thu Apr 19 2012,Mariehamn,1-1,?,KuPS
+Thu Apr 19 2012,MyPa,2-0,?,Jaro
+Thu Apr 19 2012,TPS,3-1,?,HJK
+Thu Apr 19 2012,VPS,0-2,?,Inter Turku
+Sun Apr 22 2012,Haka,0-2,?,Mariehamn
+Sun Apr 22 2012,Honka,0-2,?,JJK Jyvaskyla
+Sun Apr 22 2012,Inter Turku,2-0,?,MyPa
+Sun Apr 22 2012,KuPS,1-1,?,TPS
+Sun Apr 22 2012,VPS,2-1,?,Lahti
+Mon Apr 23 2012,HJK,4-1,?,Jaro
+Sun Apr 29 2012,Jaro,1-0,?,KuPS
+Sun Apr 29 2012,Lahti,0-5,?,Inter Turku
+Sun Apr 29 2012,Mariehamn,0-0,?,Honka
+Sun Apr 29 2012,MyPa,1-0,?,HJK
+Sun Apr 29 2012,TPS,2-0,?,Haka
+Mon Apr 30 2012,JJK Jyvaskyla,0-2,?,VPS
+Wed May 2 2012,Jaro,0-1,?,Inter Turku
+Wed May 2 2012,KuPS,0-3,?,HJK
+Sat May 5 2012,Haka,4-1,?,Jaro
+Sat May 5 2012,Honka,0-2,?,TPS
+Sat May 5 2012,JJK Jyvaskyla,2-1,?,Lahti
+Sat May 5 2012,KuPS,1-2,?,MyPa
+Sat May 5 2012,VPS,1-2,?,Mariehamn
+Sun May 6 2012,HJK,2-1,?,Inter Turku
+Sat May 12 2012,HJK,2-0,?,KuPS
+Sat May 12 2012,Inter Turku,2-1,?,JJK Jyvaskyla
+Sat May 12 2012,Jaro,0-1,?,Honka
+Sat May 12 2012,MyPa,3-1,?,Haka
+Sun May 13 2012,TPS,1-0,?,VPS
+Sun May 13 2012,Mariehamn,2-0,?,Lahti
+Wed May 16 2012,Haka,0-1,?,HJK
+Wed May 16 2012,Honka,2-1,?,MyPa
+Wed May 16 2012,Inter Turku,2-1,?,KuPS
+Wed May 16 2012,JJK Jyvaskyla,5-2,?,Mariehamn
+Wed May 16 2012,Lahti,2-0,?,TPS
+Wed May 16 2012,VPS,1-1,?,Jaro
+Mon May 21 2012,HJK,3-0,?,Honka
+Mon May 21 2012,Jaro,0-2,?,Lahti
+Mon May 21 2012,KuPS,3-0,?,Haka
+Mon May 21 2012,Mariehamn,2-1,?,Inter Turku
+Mon May 21 2012,MyPa,1-0,?,VPS
+Mon May 21 2012,TPS,2-3,?,JJK Jyvaskyla
+Thu May 24 2012,Honka,1-0,?,KuPS
+Thu May 24 2012,Inter Turku,4-1,?,Haka
+Thu May 24 2012,JJK Jyvaskyla,1-1,?,Jaro
+Thu May 24 2012,Lahti,0-0,?,MyPa
+Thu May 24 2012,Mariehamn,2-1,?,TPS
+Thu May 24 2012,VPS,1-0,?,HJK
+Sun May 27 2012,HJK,2-0,?,Lahti
+Sun May 27 2012,Haka,2-1,?,Honka
+Sun May 27 2012,Jaro,0-3,?,Mariehamn
+Sun May 27 2012,KuPS,0-3,?,VPS
+Sun May 27 2012,MyPa,0-1,?,JJK Jyvaskyla
+Wed May 30 2012,Inter Turku,2-0,?,Lahti
+Mon Jun 11 2012,JJK Jyvaskyla,1-5,?,KuPS
+Sat Jun 16 2012,Haka,0-1,?,VPS
+Sat Jun 16 2012,Honka,2-1,?,Inter Turku
+Sat Jun 16 2012,JJK Jyvaskyla,0-3,?,HJK
+Sat Jun 16 2012,TPS,2-3,?,Jaro
+Sun Jun 17 2012,KuPS,1-2,?,Lahti
+Sun Jun 17 2012,Mariehamn,0-0,?,MyPa
+Tue Jun 19 2012,Inter Turku,1-1,?,Jaro
+Wed Jun 20 2012,Lahti,0-1,?,Haka
+Wed Jun 20 2012,Mariehamn,2-0,?,HJK
+Wed Jun 20 2012,TPS,1-0,?,MyPa
+Wed Jun 20 2012,VPS,2-0,?,Honka
+Mon Jun 25 2012,Haka,3-1,?,JJK Jyvaskyla
+Mon Jun 25 2012,HJK,0-0,?,TPS
+Mon Jun 25 2012,Honka,3-2,?,Lahti
+Mon Jun 25 2012,Inter Turku,1-1,?,VPS
+Mon Jun 25 2012,Jaro,1-0,?,MyPa
+Mon Jun 25 2012,KuPS,2-0,?,Mariehamn
+Thu Jun 28 2012,Jaro,2-2,?,HJK
+Thu Jun 28 2012,JJK Jyvaskyla,0-1,?,Honka
+Thu Jun 28 2012,Lahti,1-0,?,VPS
+Thu Jun 28 2012,Mariehamn,1-0,?,Haka
+Thu Jun 28 2012,MyPa,4-0,?,Inter Turku
+Thu Jun 28 2012,TPS,3-0,?,KuPS
+Mon Jul 2 2012,Haka,1-0,?,TPS
+Mon Jul 2 2012,HJK,1-1,?,MyPa
+Mon Jul 2 2012,KuPS,1-0,?,Jaro
+Mon Jul 2 2012,Lahti,4-3,?,Inter Turku
+Mon Jul 2 2012,VPS,2-0,?,JJK Jyvaskyla
+Tue Jul 3 2012,Honka,2-2,?,Mariehamn
+Sat Jul 7 2012,Inter Turku,2-0,?,HJK
+Sat Jul 7 2012,Jaro,1-0,?,Haka
+Sat Jul 7 2012,Mariehamn,0-0,?,VPS
+Sun Jul 8 2012,JJK Jyvaskyla,3-1,?,Lahti
+Sun Jul 8 2012,MyPa,1-1,?,KuPS
+Mon Jul 9 2012,TPS,2-1,?,Honka
+Sat Jul 14 2012,VPS,1-3,?,TPS
+Sun Jul 15 2012,Haka,3-1,?,MyPa
+Sun Jul 15 2012,Honka,2-0,?,Jaro
+Sun Jul 15 2012,Inter Turku,3-2,?,JJK Jyvaskyla
+Mon Jul 16 2012,Lahti,2-0,?,Mariehamn
+Sat Jul 21 2012,Jaro,0-0,?,VPS
+Sat Jul 21 2012,HJK,1-0,?,Haka
+Sun Jul 22 2012,Mariehamn,3-3,?,JJK Jyvaskyla
+Sun Jul 22 2012,KuPS,0-6,?,Inter Turku
+Sun Jul 22 2012,MyPa,0-0,?,Honka
+Sun Jul 22 2012,TPS,4-0,?,Lahti
+Sat Jul 28 2012,Honka,1-0,?,HJK
+Sun Jul 29 2012,Haka,0-2,?,KuPS
+Sun Jul 29 2012,JJK Jyvaskyla,2-1,?,TPS
+Sun Jul 29 2012,Lahti,0-2,?,Jaro
+Sun Jul 29 2012,VPS,2-0,?,MyPa
+Mon Jul 30 2012,Inter Turku,0-3,?,Mariehamn
+Sat Aug 4 2012,HJK,3-3,?,VPS
+Sat Aug 4 2012,MyPa,3-1,?,Lahti
+Sun Aug 5 2012,Haka,0-2,?,Inter Turku
+Sun Aug 5 2012,Jaro,0-3,?,JJK Jyvaskyla
+Sun Aug 5 2012,KuPS,0-2,?,Honka
+Mon Aug 6 2012,TPS,1-1,?,Mariehamn
+Sat Aug 11 2012,JJK Jyvaskyla,0-3,?,MyPa
+Sat Aug 11 2012,Mariehamn,2-0,?,Jaro
+Sun Aug 12 2012,Lahti,3-0,?,HJK
+Sun Aug 12 2012,Honka,2-2,?,Haka
+Sun Aug 12 2012,TPS,4-1,?,Inter Turku
+Sun Aug 12 2012,VPS,0-1,?,KuPS
+Sat Aug 18 2012,HJK,2-0,?,JJK Jyvaskyla
+Sat Aug 18 2012,Inter Turku,2-1,?,Honka
+Sat Aug 18 2012,KuPS,1-0,?,Lahti
+Sun Aug 19 2012,Jaro,0-1,?,TPS
+Sun Aug 19 2012,VPS,2-1,?,Haka
+Mon Aug 20 2012,MyPa,2-1,?,Mariehamn
+Wed Aug 22 2012,TPS,9-2,?,Haka
+Sat Aug 25 2012,Haka,0-3,?,Lahti
+Sun Aug 26 2012,HJK,5-1,?,Mariehamn
+Sun Aug 26 2012,Inter Turku,3-1,?,Jaro
+Sun Aug 26 2012,KuPS,2-3,?,JJK Jyvaskyla
+Sun Aug 26 2012,MyPa,1-1,?,TPS
+Mon Aug 27 2012,Honka,1-2,?,VPS
+Fri Aug 31 2012,Lahti,3-2,?,Honka
+Sun Sep 2 2012,TPS,1-2,?,HJK
+Sun Sep 2 2012,Jaro,0-3,?,MyPa
+Sun Sep 2 2012,JJK Jyvaskyla,5-0,?,Haka
+Sun Sep 2 2012,Mariehamn,2-0,?,KuPS
+Mon Sep 3 2012,Inter Turku,2-0,?,VPS
+Thu Sep 13 2012,KuPS,1-3,?,TPS
+Fri Sep 14 2012,Haka,1-1,?,Mariehamn
+Fri Sep 14 2012,HJK,0-0,?,Jaro
+Fri Sep 14 2012,MyPa,0-0,?,Inter Turku
+Fri Sep 14 2012,VPS,1-3,?,Lahti
+Sat Sep 15 2012,Honka,3-0,?,JJK Jyvaskyla
+Mon Sep 17 2012,Inter Turku,3-3,?,TPS
+Mon Sep 17 2012,Jaro,1-1,?,KuPS
+Mon Sep 17 2012,MyPa,1-4,?,HJK
+Tue Sep 18 2012,JJK Jyvaskyla,1-2,?,VPS
+Tue Sep 18 2012,Mariehamn,1-1,?,Honka
+Sat Sep 22 2012,Honka,0-1,?,TPS
+Sun Sep 23 2012,Haka,0-0,?,Jaro
+Sun Sep 23 2012,HJK,1-1,?,Inter Turku
+Sun Sep 23 2012,KuPS,2-0,?,MyPa
+Sun Sep 23 2012,Lahti,2-1,?,JJK Jyvaskyla
+Sun Sep 23 2012,VPS,1-3,?,Mariehamn
+Wed Sep 26 2012,HJK,4-1,?,KuPS
+Wed Sep 26 2012,Jaro,1-0,?,Honka
+Wed Sep 26 2012,JJK Jyvaskyla,0-0,?,Inter Turku
+Wed Sep 26 2012,Mariehamn,2-2,?,Lahti
+Wed Sep 26 2012,MyPa,1-0,?,Haka
+Wed Sep 26 2012,TPS,1-0,?,VPS
+Mon Oct 1 2012,Haka,2-2,?,HJK
+Mon Oct 1 2012,JJK Jyvaskyla,3-2,?,Mariehamn
+Mon Oct 1 2012,Lahti,1-0,?,TPS
+Mon Oct 1 2012,VPS,2-1,?,Jaro
+Wed Oct 3 2012,Inter Turku,1-4,?,KuPS
+Thu Oct 4 2012,Honka,1-1,?,MyPa
+Sun Oct 7 2012,Jaro,2-1,?,Lahti
+Sun Oct 7 2012,KuPS,1-1,?,Haka
+Sun Oct 7 2012,MyPa,1-1,?,VPS
+Sun Oct 7 2012,TPS,1-0,?,JJK Jyvaskyla
+Mon Oct 8 2012,HJK,1-0,?,Honka
+Mon Oct 8 2012,Inter Turku,1-0,?,Mariehamn
+Fri Oct 19 2012,Haka,1-2,?,Inter Turku
+Fri Oct 19 2012,Honka,2-1,?,KuPS
+Fri Oct 19 2012,JJK Jyvaskyla,4-2,?,Jaro
+Fri Oct 19 2012,Lahti,3-1,?,MyPa
+Fri Oct 19 2012,Mariehamn,1-0,?,TPS
+Fri Oct 19 2012,VPS,1-3,?,HJK
+Mon Oct 22 2012,Haka,1-0,?,Honka
+Mon Oct 22 2012,HJK,2-0,?,Lahti
+Mon Oct 22 2012,Inter Turku,0-0,?,TPS
+Mon Oct 22 2012,Jaro,3-3,?,Mariehamn
+Mon Oct 22 2012,KuPS,2-1,?,VPS
+Mon Oct 22 2012,MyPa,2-1,?,JJK Jyvaskyla
+Sat Oct 27 2012,Honka,3-0,?,Inter Turku
+Sat Oct 27 2012,JJK Jyvaskyla,3-6,?,HJK
+Sat Oct 27 2012,Lahti,2-1,?,KuPS
+Sat Oct 27 2012,Mariehamn,2-2,?,MyPa
+Sat Oct 27 2012,TPS,1-2,?,Jaro
+Sat Oct 27 2012,VPS,0-1,?,Haka

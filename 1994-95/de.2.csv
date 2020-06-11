@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 20 1994,F Koln,3-0,?,Chemnitz
+Sat Aug 20 1994,Hannover,1-0,?,Meppen
+Sat Aug 20 1994,Hertha,0-1,?,Hansa Rostock
+Sat Aug 20 1994,Mainz,4-1,?,Homburg
+Sat Aug 20 1994,Saarbrucken,1-2,?,Dusseldorf
+Sat Aug 20 1994,St Pauli,0-0,?,Wolfsburg
+Sat Aug 20 1994,Wattenscheid,4-2,?,Leipzig
+Sat Aug 20 1994,Zwickau,2-2,?,FSV Frankfurt
+Sun Aug 21 1994,Nurnberg,0-0,?,Mannheim
+Wed Aug 24 1994,Chemnitz,1-1,?,Saarbrucken
+Wed Aug 24 1994,Dusseldorf,1-1,?,Wattenscheid
+Wed Aug 24 1994,FSV Frankfurt,0-5,?,F Koln
+Wed Aug 24 1994,Hansa Rostock,3-0,?,St Pauli
+Wed Aug 24 1994,Homburg,3-1,?,Zwickau
+Wed Aug 24 1994,Leipzig,3-1,?,Hannover
+Wed Aug 24 1994,Mannheim,3-0,?,Hertha
+Wed Aug 24 1994,Meppen,1-2,?,Nurnberg
+Wed Aug 24 1994,Wolfsburg,2-0,?,Mainz
+Sat Aug 27 1994,FSV Frankfurt,1-2,?,Homburg
+Sat Aug 27 1994,Hannover,0-3,?,Dusseldorf
+Sat Aug 27 1994,Hertha,5-1,?,Meppen
+Sat Aug 27 1994,Mainz,2-2,?,Hansa Rostock
+Sat Aug 27 1994,Nurnberg,3-1,?,Leipzig
+Sat Aug 27 1994,Wattenscheid,2-2,?,Chemnitz
+Sat Aug 27 1994,Zwickau,1-3,?,Wolfsburg
+Mon Aug 29 1994,St Pauli,1-1,?,Mannheim
+Wed Aug 31 1994,F Koln,4-0,?,Saarbrucken
+Sat Sep 3 1994,Chemnitz,1-1,?,Hannover
+Sat Sep 3 1994,Dusseldorf,1-1,?,Nurnberg
+Sat Sep 3 1994,Hansa Rostock,2-0,?,Zwickau
+Sat Sep 3 1994,Homburg,0-0,?,F Koln
+Sat Sep 3 1994,Leipzig,0-1,?,Hertha
+Sat Sep 3 1994,Mannheim,4-0,?,Mainz
+Sat Sep 3 1994,Meppen,3-2,?,St Pauli
+Sat Sep 3 1994,Wolfsburg,4-1,?,FSV Frankfurt
+Sun Sep 4 1994,Saarbrucken,2-0,?,Wattenscheid
+Sat Sep 17 1994,FSV Frankfurt,1-1,?,Hansa Rostock
+Sat Sep 17 1994,Hannover,0-0,?,Saarbrucken
+Sat Sep 17 1994,Homburg,1-1,?,Wolfsburg
+Sat Sep 17 1994,Mainz,1-1,?,Meppen
+Sat Sep 17 1994,Nurnberg,2-1,?,Chemnitz
+Sat Sep 17 1994,St Pauli,2-2,?,Leipzig
+Sat Sep 17 1994,Zwickau,1-1,?,Mannheim
+Sun Sep 18 1994,F Koln,0-0,?,Wattenscheid
+Sat Sep 24 1994,Chemnitz,2-0,?,Hertha
+Sat Sep 24 1994,Dusseldorf,0-1,?,St Pauli
+Sat Sep 24 1994,Hansa Rostock,2-3,?,Homburg
+Sat Sep 24 1994,Leipzig,0-2,?,Mainz
+Sat Sep 24 1994,Mannheim,3-2,?,FSV Frankfurt
+Sat Sep 24 1994,Meppen,2-2,?,Zwickau
+Sat Sep 24 1994,Saarbrucken,2-1,?,Nurnberg
+Sat Sep 24 1994,Wattenscheid,2-1,?,Hannover
+Sat Sep 24 1994,Wolfsburg,3-0,?,F Koln
+Sat Oct 1 1994,F Koln,1-3,?,Hannover
+Sat Oct 1 1994,FSV Frankfurt,1-3,?,Meppen
+Sat Oct 1 1994,Hertha,2-1,?,Saarbrucken
+Sat Oct 1 1994,Homburg,1-1,?,Mannheim
+Sat Oct 1 1994,Mainz,0-2,?,Dusseldorf
+Sat Oct 1 1994,Nurnberg,1-1,?,Wattenscheid
+Sat Oct 1 1994,St Pauli,0-0,?,Chemnitz
+Sat Oct 1 1994,Wolfsburg,0-1,?,Hansa Rostock
+Sat Oct 1 1994,Zwickau,3-0,?,Leipzig
+Tue Oct 4 1994,Hertha,0-0,?,Dusseldorf
+Sun Oct 9 1994,Chemnitz,1-1,?,Mainz
+Sun Oct 9 1994,Dusseldorf,1-1,?,Zwickau
+Sun Oct 9 1994,Hannover,6-3,?,Nurnberg
+Sun Oct 9 1994,Leipzig,3-0,?,FSV Frankfurt
+Sun Oct 9 1994,Mannheim,2-2,?,Wolfsburg
+Sun Oct 9 1994,Meppen,1-0,?,Homburg
+Sun Oct 9 1994,Saarbrucken,1-2,?,St Pauli
+Sun Oct 9 1994,Wattenscheid,0-1,?,Hertha
+Mon Oct 10 1994,Hansa Rostock,2-0,?,F Koln
+Sat Oct 15 1994,F Koln,1-1,?,Nurnberg
+Sat Oct 15 1994,Hansa Rostock,0-1,?,Mannheim
+Sat Oct 15 1994,Mainz,1-1,?,Saarbrucken
+Sat Oct 15 1994,St Pauli,4-1,?,Wattenscheid
+Sat Oct 15 1994,Zwickau,0-0,?,Chemnitz
+Sun Oct 16 1994,FSV Frankfurt,1-2,?,Dusseldorf
+Sun Oct 16 1994,Hertha,2-0,?,Hannover
+Sun Oct 16 1994,Homburg,2-1,?,Leipzig
+Sun Oct 16 1994,Wolfsburg,0-0,?,Meppen
+Sat Oct 22 1994,Chemnitz,4-2,?,FSV Frankfurt
+Sat Oct 22 1994,Dusseldorf,2-0,?,Homburg
+Sat Oct 22 1994,Hannover,0-1,?,St Pauli
+Sat Oct 22 1994,Leipzig,2-3,?,Wolfsburg
+Sat Oct 22 1994,Saarbrucken,1-1,?,Zwickau
+Sat Oct 22 1994,Wattenscheid,3-2,?,Mainz
+Sun Oct 23 1994,Meppen,2-1,?,Hansa Rostock
+Sun Oct 23 1994,Nurnberg,1-1,?,Hertha
+Mon Oct 24 1994,Mannheim,0-3,?,F Koln
+Sat Oct 29 1994,F Koln,0-0,?,Hertha
+Sat Oct 29 1994,Mainz,3-2,?,Hannover
+Sat Oct 29 1994,Mannheim,0-0,?,Meppen
+Sat Oct 29 1994,St Pauli,3-2,?,Nurnberg
+Sat Oct 29 1994,Wolfsburg,3-1,?,Dusseldorf
+Sat Oct 29 1994,Zwickau,2-1,?,Wattenscheid
+Sun Oct 30 1994,FSV Frankfurt,0-3,?,Saarbrucken
+Sun Oct 30 1994,Hansa Rostock,1-0,?,Leipzig
+Sun Oct 30 1994,Homburg,5-1,?,Chemnitz
+Sat Nov 5 1994,Dusseldorf,2-0,?,Hansa Rostock
+Sat Nov 5 1994,Hannover,1-1,?,Zwickau
+Sat Nov 5 1994,Leipzig,1-0,?,Mannheim
+Sat Nov 5 1994,Meppen,3-1,?,F Koln
+Sat Nov 5 1994,Wattenscheid,6-2,?,FSV Frankfurt
+Sun Nov 6 1994,Chemnitz,1-1,?,Wolfsburg
+Sun Nov 6 1994,Hertha,1-1,?,St Pauli
+Sun Nov 6 1994,Nurnberg,1-1,?,Mainz
+Sun Nov 6 1994,Saarbrucken,1-1,?,Homburg
+Sun Nov 13 1994,F Koln,2-2,?,St Pauli
+Sun Nov 13 1994,FSV Frankfurt,1-1,?,Hannover
+Sun Nov 13 1994,Homburg,0-1,?,Wattenscheid
+Sun Nov 13 1994,Mainz,1-1,?,Hertha
+Sun Nov 13 1994,Mannheim,1-0,?,Dusseldorf
+Sun Nov 13 1994,Meppen,1-0,?,Leipzig
+Sun Nov 13 1994,Wolfsburg,2-1,?,Saarbrucken
+Sun Nov 13 1994,Zwickau,2-0,?,Nurnberg
+Mon Nov 14 1994,Hansa Rostock,5-0,?,Chemnitz
+Sun Nov 20 1994,Chemnitz,1-1,?,Mannheim
+Sun Nov 20 1994,Dusseldorf,2-1,?,Meppen
+Sun Nov 20 1994,Hannover,4-3,?,Homburg
+Sun Nov 20 1994,Hertha,2-1,?,Zwickau
+Sun Nov 20 1994,Leipzig,2-0,?,F Koln
+Sun Nov 20 1994,Nurnberg,3-1,?,FSV Frankfurt
+Sun Nov 20 1994,Saarbrucken,2-2,?,Hansa Rostock
+Sun Nov 20 1994,St Pauli,3-1,?,Mainz
+Sun Nov 20 1994,Wattenscheid,2-2,?,Wolfsburg
+Fri Nov 25 1994,Mannheim,2-2,?,Saarbrucken
+Sun Nov 27 1994,FSV Frankfurt,1-3,?,Hertha
+Sun Nov 27 1994,Hansa Rostock,3-0,?,Wattenscheid
+Sun Nov 27 1994,Homburg,3-0,?,Nurnberg
+Sun Nov 27 1994,Mainz,4-2,?,F Koln
+Sun Nov 27 1994,Meppen,3-0,?,Chemnitz
+Sun Nov 27 1994,Wolfsburg,2-1,?,Hannover
+Sun Nov 27 1994,Zwickau,0-0,?,St Pauli
+Mon Nov 28 1994,Dusseldorf,4-2,?,Leipzig
+Fri Dec 2 1994,Hannover,2-1,?,Hansa Rostock
+Sat Dec 3 1994,Hertha,2-2,?,Homburg
+Sat Dec 3 1994,Mainz,2-2,?,Zwickau
+Sat Dec 3 1994,Saarbrucken,2-1,?,Meppen
+Sat Dec 3 1994,Wattenscheid,2-2,?,Mannheim
+Sun Dec 4 1994,Chemnitz,2-0,?,Leipzig
+Sun Dec 4 1994,F Koln,0-1,?,Dusseldorf
+Sun Dec 4 1994,St Pauli,3-0,?,FSV Frankfurt
+Mon Dec 5 1994,Nurnberg,0-0,?,Wolfsburg
+Fri Dec 9 1994,Dusseldorf,1-2,?,Chemnitz
+Fri Dec 9 1994,Homburg,1-4,?,St Pauli
+Fri Dec 9 1994,Leipzig,2-0,?,Saarbrucken
+Sat Dec 10 1994,Mannheim,2-1,?,Hannover
+Sat Dec 10 1994,Wolfsburg,1-0,?,Hertha
+Sat Dec 10 1994,Zwickau,1-1,?,F Koln
+Sun Dec 11 1994,FSV Frankfurt,1-4,?,Mainz
+Sun Dec 11 1994,Hansa Rostock,5-0,?,Nurnberg
+Sun Dec 11 1994,Meppen,2-2,?,Wattenscheid
+Sat Feb 18 1995,Chemnitz,0-1,?,F Koln
+Sat Feb 18 1995,FSV Frankfurt,3-0,?,Zwickau
+Sat Feb 18 1995,Hansa Rostock,2-1,?,Hertha
+Sat Feb 18 1995,Homburg,1-2,?,Mainz
+Sat Feb 18 1995,Leipzig,0-2,?,Wattenscheid
+Sat Feb 18 1995,Mannheim,2-1,?,Nurnberg
+Sat Feb 18 1995,Meppen,1-0,?,Hannover
+Sat Feb 18 1995,Wolfsburg,1-1,?,St Pauli
+Mon Feb 20 1995,Dusseldorf,0-0,?,Saarbrucken
+Sat Feb 25 1995,F Koln,6-2,?,FSV Frankfurt
+Sat Feb 25 1995,Hertha,0-0,?,Mannheim
+Sat Feb 25 1995,Nurnberg,0-2,?,Meppen
+Sat Feb 25 1995,St Pauli,2-0,?,Hansa Rostock
+Sat Feb 25 1995,Wattenscheid,0-0,?,Dusseldorf
+Sun Feb 26 1995,Hannover,1-1,?,Leipzig
+Sun Feb 26 1995,Saarbrucken,1-1,?,Chemnitz
+Sun Feb 26 1995,Zwickau,2-0,?,Homburg
+Fri Mar 3 1995,Hansa Rostock,1-0,?,Mainz
+Fri Mar 3 1995,Saarbrucken,1-2,?,F Koln
+Sat Mar 4 1995,Leipzig,0-0,?,Nurnberg
+Sat Mar 4 1995,Mannheim,2-1,?,St Pauli
+Sat Mar 4 1995,Wolfsburg,0-1,?,Zwickau
+Sun Mar 5 1995,Chemnitz,3-0,?,Wattenscheid
+Sun Mar 5 1995,Homburg,4-1,?,FSV Frankfurt
+Mon Mar 6 1995,Dusseldorf,1-1,?,Hannover
+Fri Mar 10 1995,Nurnberg,4-1,?,Dusseldorf
+Fri Mar 10 1995,Wattenscheid,4-1,?,Saarbrucken
+Sat Mar 11 1995,FSV Frankfurt,1-2,?,Wolfsburg
+Sat Mar 11 1995,Hannover,1-4,?,Chemnitz
+Sat Mar 11 1995,Mainz,1-1,?,Mannheim
+Sat Mar 11 1995,Zwickau,1-1,?,Hansa Rostock
+Sun Mar 12 1995,F Koln,3-0,?,Homburg
+Sun Mar 12 1995,Hertha,0-3,?,Leipzig
+Sun Mar 12 1995,St Pauli,2-1,?,Meppen
+Fri Mar 17 1995,Dusseldorf,1-1,?,Hertha
+Fri Mar 17 1995,Leipzig,2-0,?,St Pauli
+Sat Mar 18 1995,Chemnitz,0-1,?,Nurnberg
+Sat Mar 18 1995,Hansa Rostock,4-2,?,FSV Frankfurt
+Sat Mar 18 1995,Mannheim,2-1,?,Zwickau
+Sat Mar 18 1995,Wattenscheid,0-1,?,F Koln
+Sun Mar 19 1995,Meppen,3-0,?,Mainz
+Sun Mar 19 1995,Saarbrucken,3-0,?,Hannover
+Sun Mar 19 1995,Wolfsburg,2-1,?,Homburg
+Sun Mar 26 1995,F Koln,3-1,?,Wolfsburg
+Sun Mar 26 1995,FSV Frankfurt,0-3,?,Mannheim
+Sun Mar 26 1995,Hannover,0-1,?,Wattenscheid
+Sun Mar 26 1995,Hertha,0-0,?,Chemnitz
+Sun Mar 26 1995,Homburg,0-0,?,Hansa Rostock
+Sun Mar 26 1995,Mainz,0-3,?,Leipzig
+Sun Mar 26 1995,Nurnberg,0-2,?,Saarbrucken
+Sun Mar 26 1995,Zwickau,0-1,?,Meppen
+Mon Mar 27 1995,St Pauli,2-1,?,Dusseldorf
+Fri Mar 31 1995,Leipzig,0-0,?,Zwickau
+Fri Mar 31 1995,Saarbrucken,2-0,?,Hertha
+Sat Apr 1 1995,Dusseldorf,1-0,?,Mainz
+Sat Apr 1 1995,Mannheim,4-1,?,Homburg
+Sat Apr 1 1995,Wattenscheid,0-0,?,Nurnberg
+Sun Apr 2 1995,Chemnitz,3-2,?,St Pauli
+Sun Apr 2 1995,Hannover,4-1,?,F Koln
+Sun Apr 2 1995,Meppen,2-2,?,FSV Frankfurt
+Mon Apr 3 1995,Hansa Rostock,6-0,?,Wolfsburg
+Fri Apr 7 1995,F Koln,1-0,?,Hansa Rostock
+Fri Apr 7 1995,Hertha,3-1,?,Wattenscheid
+Fri Apr 7 1995,Nurnberg,0-0,?,Hannover
+Sat Apr 8 1995,FSV Frankfurt,1-1,?,Leipzig
+Sat Apr 8 1995,Homburg,0-0,?,Meppen
+Sat Apr 8 1995,Wolfsburg,0-0,?,Mannheim
+Sun Apr 9 1995,Mainz,2-5,?,Chemnitz
+Sun Apr 9 1995,St Pauli,0-0,?,Saarbrucken
+Sun Apr 9 1995,Zwickau,1-1,?,Dusseldorf
+Mon Apr 10 1995,Hannover,4-1,?,Hertha
+Thu Apr 13 1995,Dusseldorf,2-2,?,FSV Frankfurt
+Thu Apr 13 1995,Mannheim,0-2,?,Hansa Rostock
+Sat Apr 15 1995,Chemnitz,1-1,?,Zwickau
+Sat Apr 15 1995,Meppen,3-1,?,Wolfsburg
+Sat Apr 15 1995,Nurnberg,1-1,?,F Koln
+Sun Apr 16 1995,Leipzig,1-0,?,Homburg
+Sun Apr 16 1995,Saarbrucken,1-0,?,Mainz
+Sun Apr 16 1995,Wattenscheid,0-0,?,St Pauli
+Fri Apr 21 1995,F Koln,0-2,?,Mannheim
+Fri Apr 21 1995,Hansa Rostock,2-2,?,Meppen
+Fri Apr 21 1995,Hertha,1-1,?,Nurnberg
+Sat Apr 22 1995,FSV Frankfurt,2-1,?,Chemnitz
+Sat Apr 22 1995,Homburg,0-2,?,Dusseldorf
+Sat Apr 22 1995,St Pauli,1-1,?,Hannover
+Sat Apr 22 1995,Wolfsburg,1-1,?,Leipzig
+Sun Apr 23 1995,Mainz,2-0,?,Wattenscheid
+Sun Apr 23 1995,Zwickau,0-0,?,Saarbrucken
+Fri Apr 28 1995,Leipzig,0-1,?,Hansa Rostock
+Fri Apr 28 1995,Wattenscheid,3-0,?,Zwickau
+Sat Apr 29 1995,Dusseldorf,1-1,?,Wolfsburg
+Sat Apr 29 1995,Hannover,2-0,?,Mainz
+Sat Apr 29 1995,Saarbrucken,2-1,?,FSV Frankfurt
+Sun Apr 30 1995,Chemnitz,3-0,?,Homburg
+Sun Apr 30 1995,Hertha,6-2,?,F Koln
+Sun Apr 30 1995,Meppen,0-0,?,Mannheim
+Mon May 1 1995,Nurnberg,1-1,?,St Pauli
+Wed May 3 1995,Mainz,2-0,?,Wolfsburg
+Thu May 4 1995,Meppen,3-0,?,Hertha
+Fri May 5 1995,Hansa Rostock,3-3,?,Dusseldorf
+Fri May 5 1995,Homburg,0-1,?,Saarbrucken
+Sat May 6 1995,FSV Frankfurt,1-5,?,Wattenscheid
+Sat May 6 1995,Mainz,1-0,?,Nurnberg
+Sun May 7 1995,F Koln,2-2,?,Meppen
+Sun May 7 1995,Wolfsburg,3-1,?,Chemnitz
+Sun May 7 1995,Zwickau,1-1,?,Hannover
+Mon May 8 1995,St Pauli,1-1,?,Hertha
+Wed May 10 1995,Mannheim,1-3,?,Leipzig
+Fri May 12 1995,Saarbrucken,0-0,?,Wolfsburg
+Fri May 12 1995,Wattenscheid,4-2,?,Homburg
+Sat May 13 1995,Chemnitz,1-1,?,Hansa Rostock
+Sat May 13 1995,Hertha,1-1,?,Mainz
+Sat May 13 1995,Leipzig,0-0,?,Meppen
+Sun May 14 1995,Hannover,7-0,?,FSV Frankfurt
+Sun May 14 1995,Nurnberg,1-1,?,Zwickau
+Sun May 14 1995,St Pauli,2-0,?,F Koln
+Mon May 15 1995,Dusseldorf,1-1,?,Mannheim
+Fri May 19 1995,Mannheim,3-0,?,Chemnitz
+Fri May 19 1995,Wolfsburg,3-1,?,Wattenscheid
+Fri May 19 1995,Zwickau,0-3,?,Hertha
+Sat May 20 1995,FSV Frankfurt,1-2,?,Nurnberg
+Sat May 20 1995,Homburg,0-2,?,Hannover
+Sat May 20 1995,Mainz,1-1,?,St Pauli
+Sun May 21 1995,F Koln,0-2,?,Leipzig
+Sun May 21 1995,Meppen,2-4,?,Dusseldorf
+Mon May 22 1995,Hansa Rostock,3-2,?,Saarbrucken
+Fri May 26 1995,Hannover,1-1,?,Wolfsburg
+Fri May 26 1995,Nurnberg,3-0,?,Homburg
+Fri May 26 1995,St Pauli,5-0,?,Zwickau
+Sat May 27 1995,F Koln,3-1,?,Mainz
+Sat May 27 1995,Hertha,0-1,?,FSV Frankfurt
+Sat May 27 1995,Saarbrucken,4-0,?,Mannheim
+Sun May 28 1995,Leipzig,1-2,?,Dusseldorf
+Sun May 28 1995,Wattenscheid,0-4,?,Hansa Rostock
+Mon May 29 1995,Chemnitz,2-0,?,Meppen
+Sun Jun 11 1995,Dusseldorf,3-1,?,F Koln
+Sun Jun 11 1995,FSV Frankfurt,1-3,?,St Pauli
+Sun Jun 11 1995,Hansa Rostock,3-0,?,Hannover
+Sun Jun 11 1995,Homburg,4-1,?,Hertha
+Sun Jun 11 1995,Mannheim,1-1,?,Wattenscheid
+Sun Jun 11 1995,Meppen,5-1,?,Saarbrucken
+Sun Jun 11 1995,Wolfsburg,3-2,?,Nurnberg
+Sun Jun 11 1995,Zwickau,2-1,?,Mainz
+Thu Jun 15 1995,Leipzig,1-0,?,Chemnitz
+Sun Jun 18 1995,Chemnitz,0-2,?,Dusseldorf
+Sun Jun 18 1995,F Koln,5-0,?,Zwickau
+Sun Jun 18 1995,Hannover,2-2,?,Mannheim
+Sun Jun 18 1995,Hertha,1-3,?,Wolfsburg
+Sun Jun 18 1995,Mainz,7-1,?,FSV Frankfurt
+Sun Jun 18 1995,Nurnberg,0-1,?,Hansa Rostock
+Sun Jun 18 1995,Saarbrucken,3-3,?,Leipzig
+Sun Jun 18 1995,St Pauli,5-0,?,Homburg
+Sun Jun 18 1995,Wattenscheid,0-2,?,Meppen

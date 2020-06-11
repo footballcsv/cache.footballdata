@@ -1,0 +1,243 @@
+Date,Team 1,FT,HT,Team 2
+Sun Mar 30 2014,Brommapojkarna,1-2,?,Kalmar
+Sun Mar 30 2014,Helsingborg,1-1,?,Djurgarden
+Sun Mar 30 2014,Mjallby,2-2,?,Gefle
+Sun Mar 30 2014,Halmstad,1-2,?,Orebro
+Sun Mar 30 2014,Malmo FF,3-0,?,Falkenbergs
+Mon Mar 31 2014,Atvidabergs,2-1,?,Elfsborg
+Mon Mar 31 2014,Hacken,2-0,?,Norrkoping
+Mon Mar 31 2014,AIK,0-2,?,Goteborg
+Fri Apr 4 2014,Elfsborg,3-1,?,Hacken
+Sat Apr 5 2014,Falkenbergs,1-0,?,Brommapojkarna
+Sun Apr 6 2014,Djurgarden,3-0,?,Halmstad
+Sun Apr 6 2014,Gefle,1-2,?,AIK
+Sun Apr 6 2014,Norrkoping,2-0,?,Helsingborg
+Mon Apr 7 2014,Kalmar,2-2,?,Atvidabergs
+Mon Apr 7 2014,Goteborg,0-3,?,Malmo FF
+Tue Apr 8 2014,Orebro,1-0,?,Mjallby
+Fri Apr 11 2014,Mjallby,0-2,?,Djurgarden
+Sat Apr 12 2014,Atvidabergs,2-0,?,Falkenbergs
+Sat Apr 12 2014,Malmo FF,1-0,?,Gefle
+Sun Apr 13 2014,AIK,1-1,?,Orebro
+Sun Apr 13 2014,Halmstad,0-0,?,Norrkoping
+Sun Apr 13 2014,Helsingborg,4-2,?,Hacken
+Mon Apr 14 2014,Brommapojkarna,1-1,?,Goteborg
+Mon Apr 14 2014,Kalmar,0-0,?,Elfsborg
+Wed Apr 16 2014,Hacken,3-0,?,Halmstad
+Wed Apr 16 2014,Norrkoping,1-1,?,Mjallby
+Wed Apr 16 2014,Orebro,1-2,?,Malmo FF
+Wed Apr 16 2014,Djurgarden,2-3,?,AIK
+Thu Apr 17 2014,Falkenbergs,1-3,?,Kalmar
+Thu Apr 17 2014,Gefle,3-0,?,Brommapojkarna
+Thu Apr 17 2014,Goteborg,5-0,?,Atvidabergs
+Thu Apr 17 2014,Elfsborg,1-0,?,Helsingborg
+Sun Apr 20 2014,Halmstad,2-1,?,Helsingborg
+Sun Apr 20 2014,Kalmar,1-1,?,Goteborg
+Sun Apr 20 2014,AIK,1-2,?,Norrkoping
+Sun Apr 20 2014,Mjallby,1-4,?,Hacken
+Mon Apr 21 2014,Atvidabergs,2-2,?,Gefle
+Mon Apr 21 2014,Falkenbergs,2-3,?,Elfsborg
+Mon Apr 21 2014,Brommapojkarna,2-2,?,Orebro
+Mon Apr 21 2014,Malmo FF,2-2,?,Djurgarden
+Fri Apr 25 2014,Goteborg,1-0,?,Falkenbergs
+Fri Apr 25 2014,Orebro,3-2,?,Atvidabergs
+Sun Apr 27 2014,Djurgarden,3-2,?,Brommapojkarna
+Sun Apr 27 2014,Helsingborg,3-1,?,Mjallby
+Sun Apr 27 2014,Hacken,2-2,?,AIK
+Mon Apr 28 2014,Elfsborg,4-1,?,Halmstad
+Mon Apr 28 2014,Gefle,0-2,?,Kalmar
+Mon Apr 28 2014,Norrkoping,1-2,?,Malmo FF
+Sat May 3 2014,Brommapojkarna,3-0,?,Norrkoping
+Sat May 3 2014,Mjallby,2-1,?,Halmstad
+Sun May 4 2014,Atvidabergs,1-1,?,Djurgarden
+Sun May 4 2014,Malmo FF,1-2,?,Hacken
+Sun May 4 2014,Goteborg,0-0,?,Elfsborg
+Sun May 4 2014,Kalmar,2-0,?,Orebro
+Mon May 5 2014,Falkenbergs,1-1,?,Gefle
+Mon May 5 2014,AIK,2-1,?,Helsingborg
+Wed May 7 2014,Djurgarden,0-0,?,Kalmar
+Wed May 7 2014,Elfsborg,3-1,?,Mjallby
+Wed May 7 2014,Hacken,3-1,?,Brommapojkarna
+Wed May 7 2014,Norrkoping,2-1,?,Atvidabergs
+Thu May 8 2014,Gefle,1-1,?,Goteborg
+Thu May 8 2014,Halmstad,2-2,?,AIK
+Thu May 8 2014,Orebro,0-0,?,Falkenbergs
+Thu May 8 2014,Helsingborg,0-1,?,Malmo FF
+Sat May 10 2014,Kalmar,2-0,?,Norrkoping
+Sun May 11 2014,AIK,2-1,?,Mjallby
+Sun May 11 2014,Gefle,0-1,?,Elfsborg
+Sun May 11 2014,Goteborg,2-1,?,Orebro
+Mon May 12 2014,Atvidabergs,1-0,?,Hacken
+Mon May 12 2014,Brommapojkarna,0-1,?,Helsingborg
+Mon May 12 2014,Malmo FF,3-1,?,Halmstad
+Mon May 12 2014,Falkenbergs,1-0,?,Djurgarden
+Thu May 15 2014,Brommapojkarna,0-1,?,Mjallby
+Thu May 15 2014,Norrkoping,0-3,?,Falkenbergs
+Thu May 15 2014,AIK,2-1,?,Elfsborg
+Mon May 19 2014,Halmstad,3-0,?,Brommapojkarna
+Mon May 19 2014,Orebro,2-2,?,Gefle
+Tue May 20 2014,Hacken,4-1,?,Kalmar
+Wed May 21 2014,Helsingborg,0-0,?,Atvidabergs
+Wed May 21 2014,Djurgarden,0-0,?,Goteborg
+Thu May 22 2014,Mjallby,0-1,?,Malmo FF
+Sat May 24 2014,Atvidabergs,1-0,?,Halmstad
+Sat May 24 2014,Elfsborg,1-0,?,Orebro
+Sat May 24 2014,Falkenbergs,1-1,?,Hacken
+Sun May 25 2014,Kalmar,2-0,?,Helsingborg
+Sun May 25 2014,Goteborg,2-2,?,Norrkoping
+Mon May 26 2014,Gefle,1-1,?,Djurgarden
+Mon May 26 2014,Malmo FF,2-2,?,AIK
+Fri May 30 2014,Orebro,0-1,?,Djurgarden
+Sat May 31 2014,Halmstad,1-1,?,Kalmar
+Sat May 31 2014,Mjallby,1-0,?,Atvidabergs
+Sun Jun 1 2014,Helsingborg,1-0,?,Falkenbergs
+Sun Jun 1 2014,Elfsborg,0-1,?,Malmo FF
+Mon Jun 2 2014,AIK,4-2,?,Brommapojkarna
+Mon Jun 2 2014,Norrkoping,1-0,?,Gefle
+Mon Jun 2 2014,Hacken,1-1,?,Goteborg
+Sat Jul 5 2014,Falkenbergs,1-1,?,Halmstad
+Sat Jul 5 2014,Gefle,1-0,?,Hacken
+Sat Jul 5 2014,Kalmar,2-1,?,Mjallby
+Sun Jul 6 2014,Orebro,2-2,?,Norrkoping
+Sun Jul 6 2014,Brommapojkarna,1-1,?,Malmo FF
+Sun Jul 6 2014,Goteborg,6-2,?,Helsingborg
+Mon Jul 7 2014,Atvidabergs,0-3,?,AIK
+Mon Jul 7 2014,Djurgarden,1-1,?,Elfsborg
+Sat Jul 12 2014,AIK,3-0,?,Kalmar
+Sat Jul 12 2014,Mjallby,1-1,?,Falkenbergs
+Sat Jul 12 2014,Malmo FF,3-0,?,Atvidabergs
+Sun Jul 13 2014,Helsingborg,1-1,?,Gefle
+Sun Jul 13 2014,Elfsborg,2-2,?,Brommapojkarna
+Sun Jul 13 2014,Halmstad,2-2,?,Goteborg
+Sun Jul 13 2014,Hacken,4-1,?,Orebro
+Mon Jul 14 2014,Norrkoping,3-5,?,Djurgarden
+Sat Jul 19 2014,Gefle,2-0,?,Halmstad
+Sat Jul 19 2014,Kalmar,1-1,?,Malmo FF
+Sun Jul 20 2014,Falkenbergs,4-1,?,AIK
+Sun Jul 20 2014,Goteborg,3-1,?,Mjallby
+Sun Jul 20 2014,Atvidabergs,3-2,?,Brommapojkarna
+Sun Jul 20 2014,Norrkoping,4-2,?,Elfsborg
+Sun Jul 20 2014,Orebro,1-1,?,Helsingborg
+Mon Jul 21 2014,Djurgarden,1-2,?,Hacken
+Sat Jul 26 2014,Malmo FF,3-1,?,Kalmar
+Sat Jul 26 2014,Halmstad,3-2,?,Gefle
+Sun Jul 27 2014,Brommapojkarna,2-2,?,Atvidabergs
+Sun Jul 27 2014,Mjallby,3-0,?,Goteborg
+Sun Jul 27 2014,Elfsborg,3-0,?,Norrkoping
+Sun Jul 27 2014,Helsingborg,1-1,?,Orebro
+Mon Jul 28 2014,AIK,3-0,?,Falkenbergs
+Mon Jul 28 2014,Hacken,2-1,?,Djurgarden
+Sat Aug 2 2014,Falkenbergs,2-5,?,Malmo FF
+Sat Aug 2 2014,Norrkoping,0-0,?,Hacken
+Sat Aug 2 2014,Orebro,1-2,?,Halmstad
+Sun Aug 3 2014,Kalmar,1-1,?,Brommapojkarna
+Sun Aug 3 2014,Elfsborg,1-0,?,Atvidabergs
+Mon Aug 4 2014,Djurgarden,2-2,?,Helsingborg
+Mon Aug 4 2014,Gefle,1-0,?,Mjallby
+Mon Aug 4 2014,Goteborg,0-2,?,AIK
+Sat Aug 9 2014,Atvidabergs,3-1,?,Kalmar
+Sat Aug 9 2014,Mjallby,0-1,?,Orebro
+Sun Aug 10 2014,Halmstad,2-1,?,Djurgarden
+Sun Aug 10 2014,Helsingborg,0-0,?,Norrkoping
+Sun Aug 10 2014,AIK,3-1,?,Gefle
+Sun Aug 10 2014,Brommapojkarna,2-3,?,Falkenbergs
+Sun Aug 10 2014,Malmo FF,2-2,?,Goteborg
+Mon Aug 11 2014,Hacken,0-2,?,Elfsborg
+Wed Aug 13 2014,Atvidabergs,1-1,?,Goteborg
+Wed Aug 13 2014,Brommapojkarna,1-2,?,Gefle
+Wed Aug 13 2014,Malmo FF,3-2,?,Orebro
+Wed Aug 13 2014,AIK,1-1,?,Djurgarden
+Thu Aug 14 2014,Halmstad,1-4,?,Hacken
+Thu Aug 14 2014,Kalmar,3-1,?,Falkenbergs
+Thu Aug 14 2014,Mjallby,3-1,?,Norrkoping
+Thu Aug 14 2014,Helsingborg,4-1,?,Elfsborg
+Sat Aug 16 2014,Gefle,0-0,?,Malmo FF
+Sun Aug 17 2014,Falkenbergs,3-0,?,Atvidabergs
+Sun Aug 17 2014,Orebro,4-2,?,AIK
+Sun Aug 17 2014,Elfsborg,2-0,?,Kalmar
+Sun Aug 17 2014,Goteborg,3-0,?,Brommapojkarna
+Mon Aug 18 2014,Djurgarden,4-0,?,Mjallby
+Mon Aug 18 2014,Norrkoping,1-2,?,Halmstad
+Mon Aug 18 2014,Hacken,1-1,?,Helsingborg
+Fri Aug 22 2014,Mjallby,1-2,?,Helsingborg
+Sat Aug 23 2014,Malmo FF,3-0,?,Norrkoping
+Sun Aug 24 2014,Falkenbergs,1-2,?,Goteborg
+Sun Aug 24 2014,AIK,1-0,?,Hacken
+Sun Aug 24 2014,Halmstad,1-1,?,Elfsborg
+Mon Aug 25 2014,Atvidabergs,1-2,?,Orebro
+Mon Aug 25 2014,Kalmar,2-1,?,Gefle
+Mon Aug 25 2014,Brommapojkarna,0-4,?,Djurgarden
+Fri Aug 29 2014,Helsingborg,1-4,?,Halmstad
+Fri Aug 29 2014,Orebro,3-1,?,Brommapojkarna
+Sat Aug 30 2014,Gefle,0-1,?,Atvidabergs
+Sat Aug 30 2014,Hacken,1-1,?,Mjallby
+Sun Aug 31 2014,Goteborg,2-0,?,Kalmar
+Sun Aug 31 2014,Norrkoping,2-4,?,AIK
+Sun Aug 31 2014,Djurgarden,2-0,?,Malmo FF
+Sun Aug 31 2014,Elfsborg,1-0,?,Falkenbergs
+Sat Sep 13 2014,Hacken,3-3,?,Malmo FF
+Sun Sep 14 2014,Gefle,3-1,?,Falkenbergs
+Sun Sep 14 2014,Halmstad,1-2,?,Mjallby
+Sun Sep 14 2014,Djurgarden,0-1,?,Atvidabergs
+Sun Sep 14 2014,Elfsborg,0-0,?,Goteborg
+Mon Sep 15 2014,Norrkoping,3-1,?,Brommapojkarna
+Mon Sep 15 2014,Orebro,2-0,?,Kalmar
+Mon Sep 15 2014,Helsingborg,3-1,?,AIK
+Fri Sep 19 2014,Goteborg,4-0,?,Gefle
+Sat Sep 20 2014,Brommapojkarna,1-5,?,Hacken
+Sat Sep 20 2014,Falkenbergs,1-3,?,Orebro
+Sun Sep 21 2014,AIK,0-1,?,Halmstad
+Sun Sep 21 2014,Kalmar,0-4,?,Djurgarden
+Sun Sep 21 2014,Mjallby,1-0,?,Elfsborg
+Sun Sep 21 2014,Malmo FF,1-1,?,Helsingborg
+Mon Sep 22 2014,Atvidabergs,2-2,?,Norrkoping
+Wed Sep 24 2014,Djurgarden,1-0,?,Falkenbergs
+Wed Sep 24 2014,Elfsborg,1-0,?,Gefle
+Wed Sep 24 2014,Halmstad,0-1,?,Malmo FF
+Wed Sep 24 2014,Helsingborg,3-1,?,Brommapojkarna
+Wed Sep 24 2014,Mjallby,1-0,?,AIK
+Wed Sep 24 2014,Orebro,3-4,?,Goteborg
+Thu Sep 25 2014,Hacken,0-2,?,Atvidabergs
+Thu Sep 25 2014,Norrkoping,0-0,?,Kalmar
+Sat Sep 27 2014,Malmo FF,4-1,?,Mjallby
+Sun Sep 28 2014,Kalmar,2-3,?,Hacken
+Sun Sep 28 2014,Elfsborg,1-1,?,AIK
+Sun Sep 28 2014,Falkenbergs,4-2,?,Norrkoping
+Mon Sep 29 2014,Atvidabergs,1-2,?,Helsingborg
+Mon Sep 29 2014,Brommapojkarna,0-3,?,Halmstad
+Mon Sep 29 2014,Gefle,1-2,?,Orebro
+Mon Sep 29 2014,Goteborg,2-1,?,Djurgarden
+Fri Oct 3 2014,Helsingborg,4-1,?,Kalmar
+Sat Oct 4 2014,Djurgarden,1-2,?,Gefle
+Sat Oct 4 2014,Mjallby,0-1,?,Brommapojkarna
+Sun Oct 5 2014,Halmstad,1-3,?,Atvidabergs
+Sun Oct 5 2014,Norrkoping,3-0,?,Goteborg
+Sun Oct 5 2014,Orebro,5-1,?,Elfsborg
+Sun Oct 5 2014,AIK,2-3,?,Malmo FF
+Sun Oct 5 2014,Hacken,1-2,?,Falkenbergs
+Sat Oct 18 2014,Malmo FF,1-2,?,Elfsborg
+Sat Oct 18 2014,Atvidabergs,2-1,?,Mjallby
+Sat Oct 18 2014,Kalmar,1-3,?,Halmstad
+Sun Oct 19 2014,Goteborg,3-2,?,Hacken
+Sun Oct 19 2014,Brommapojkarna,0-4,?,AIK
+Sun Oct 19 2014,Gefle,1-2,?,Norrkoping
+Mon Oct 20 2014,Djurgarden,0-3,?,Orebro
+Mon Oct 20 2014,Falkenbergs,2-0,?,Helsingborg
+Sat Oct 25 2014,Hacken,3-1,?,Gefle
+Sun Oct 26 2014,AIK,4-1,?,Atvidabergs
+Sun Oct 26 2014,Norrkoping,2-0,?,Orebro
+Sun Oct 26 2014,Elfsborg,0-1,?,Djurgarden
+Sun Oct 26 2014,Halmstad,4-0,?,Falkenbergs
+Mon Oct 27 2014,Malmo FF,2-0,?,Brommapojkarna
+Mon Oct 27 2014,Mjallby,0-2,?,Kalmar
+Mon Oct 27 2014,Helsingborg,0-3,?,Goteborg
+Sat Nov 1 2014,Atvidabergs,2-1,?,Malmo FF
+Sat Nov 1 2014,Brommapojkarna,0-1,?,Elfsborg
+Sat Nov 1 2014,Djurgarden,1-1,?,Norrkoping
+Sat Nov 1 2014,Falkenbergs,1-1,?,Mjallby
+Sat Nov 1 2014,Gefle,2-1,?,Helsingborg
+Sat Nov 1 2014,Goteborg,5-1,?,Halmstad
+Sat Nov 1 2014,Kalmar,1-1,?,AIK
+Sat Nov 1 2014,Orebro,5-2,?,Hacken
+Thu Nov 6 2014,Ljungskile,1-3,?,Gefle
+Sun Nov 9 2014,Gefle,1-0,?,Ljungskile

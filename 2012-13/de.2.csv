@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 3 2012,Erzgebirge Aue,0-0,0-0,St Pauli
+Fri Aug 3 2012,Hertha,2-2,0-1,Paderborn
+Fri Aug 3 2012,Ingolstadt,2-2,2-0,Cottbus
+Sat Aug 4 2012,Bochum,2-1,0-1,Dresden
+Sat Aug 4 2012,Munich 1860,1-0,1-0,Regensburg
+Sun Aug 5 2012,Braunschweig,1-0,0-0,FC Koln
+Sun Aug 5 2012,Duisburg,1-4,1-2,Aalen
+Sun Aug 5 2012,Sandhausen,1-1,1-1,Frankfurt FSV
+Mon Aug 6 2012,Kaiserslautern,3-3,0-0,Union Berlin
+Fri Aug 10 2012,Aalen,1-2,1-2,Kaiserslautern
+Fri Aug 10 2012,Cottbus,3-0,2-0,Erzgebirge Aue
+Fri Aug 10 2012,FC Koln,1-1,0-0,Sandhausen
+Sat Aug 11 2012,Paderborn,4-0,2-0,Bochum
+Sat Aug 11 2012,St Pauli,1-1,0-0,Ingolstadt
+Sun Aug 12 2012,Frankfurt FSV,3-1,0-1,Hertha
+Sun Aug 12 2012,Regensburg,2-0,1-0,Duisburg
+Sun Aug 12 2012,Union Berlin,0-1,0-1,Braunschweig
+Mon Aug 13 2012,Dresden,2-2,1-1,Munich 1860
+Fri Aug 24 2012,Braunschweig,2-1,0-1,Paderborn
+Fri Aug 24 2012,Hertha,2-1,2-0,Regensburg
+Fri Aug 24 2012,Sandhausen,2-0,1-0,Union Berlin
+Sat Aug 25 2012,Cottbus,2-0,1-0,St Pauli
+Sat Aug 25 2012,Duisburg,1-3,0-2,Dresden
+Sun Aug 26 2012,Bochum,0-1,0-0,Aalen
+Sun Aug 26 2012,Ingolstadt,0-2,0-1,Frankfurt FSV
+Sun Aug 26 2012,Kaiserslautern,0-0,0-0,Munich 1860
+Mon Aug 27 2012,Erzgebirge Aue,2-0,1-0,FC Koln
+Fri Aug 31 2012,Dresden,1-3,0-1,Kaiserslautern
+Fri Aug 31 2012,FC Koln,0-1,0-1,Cottbus
+Fri Aug 31 2012,Munich 1860,3-0,1-0,Duisburg
+Sat Sep 1 2012,Aalen,0-3,0-1,Braunschweig
+Sat Sep 1 2012,St Pauli,2-1,0-0,Sandhausen
+Sun Sep 2 2012,Frankfurt FSV,1-0,0-0,Erzgebirge Aue
+Sun Sep 2 2012,Paderborn,1-3,0-2,Ingolstadt
+Sun Sep 2 2012,Regensburg,0-1,0-0,Bochum
+Mon Sep 3 2012,Union Berlin,1-2,0-1,Hertha
+Fri Sep 14 2012,Bochum,0-0,0-0,Munich 1860
+Fri Sep 14 2012,Cottbus,2-2,0-1,Frankfurt FSV
+Fri Sep 14 2012,Ingolstadt,2-1,1-1,Union Berlin
+Sat Sep 15 2012,Braunschweig,1-0,0-0,Regensburg
+Sat Sep 15 2012,Sandhausen,1-1,1-0,Dresden
+Sun Sep 16 2012,Erzgebirge Aue,0-1,0-0,Paderborn
+Sun Sep 16 2012,Hertha,2-0,0-0,Aalen
+Sun Sep 16 2012,Kaiserslautern,2-1,1-0,Duisburg
+Mon Sep 17 2012,FC Koln,0-0,0-0,St Pauli
+Fri Sep 21 2012,Aalen,2-0,1-0,Erzgebirge Aue
+Fri Sep 21 2012,Frankfurt FSV,2-1,1-0,St Pauli
+Fri Sep 21 2012,Union Berlin,2-1,1-1,FC Koln
+Sat Sep 22 2012,Kaiserslautern,1-1,0-0,Hertha
+Sat Sep 22 2012,Paderborn,3-0,0-0,Sandhausen
+Sat Sep 22 2012,Regensburg,0-1,0-1,Cottbus
+Sun Sep 23 2012,Dresden,0-1,0-0,Ingolstadt
+Sun Sep 23 2012,Duisburg,0-0,0-0,Bochum
+Sun Sep 23 2012,Munich 1860,1-1,0-1,Braunschweig
+Tue Sep 25 2012,Cottbus,2-1,0-0,Paderborn
+Tue Sep 25 2012,FC Koln,2-1,0-0,Frankfurt FSV
+Tue Sep 25 2012,Sandhausen,1-2,1-1,Regensburg
+Tue Sep 25 2012,St Pauli,0-1,0-1,Aalen
+Wed Sep 26 2012,Braunschweig,3-0,0-0,Duisburg
+Wed Sep 26 2012,Erzgebirge Aue,1-1,0-1,Union Berlin
+Wed Sep 26 2012,Hertha,1-0,1-0,Dresden
+Wed Sep 26 2012,Ingolstadt,0-2,0-1,Munich 1860
+Thu Sep 27 2012,Bochum,1-2,0-1,Kaiserslautern
+Fri Sep 28 2012,Aalen,3-0,1-0,Frankfurt FSV
+Fri Sep 28 2012,Paderborn,1-2,0-1,FC Koln
+Fri Sep 28 2012,Regensburg,3-0,2-0,St Pauli
+Sat Sep 29 2012,Munich 1860,4-0,3-0,Sandhausen
+Sat Sep 29 2012,Union Berlin,3-1,1-0,Cottbus
+Sun Sep 30 2012,Bochum,1-1,0-1,Ingolstadt
+Sun Sep 30 2012,Dresden,3-1,2-0,Erzgebirge Aue
+Sun Sep 30 2012,Kaiserslautern,1-1,1-0,Braunschweig
+Mon Oct 1 2012,Duisburg,2-2,0-1,Hertha
+Fri Oct 5 2012,Frankfurt FSV,1-1,0-0,Paderborn
+Fri Oct 5 2012,Hertha,3-0,0-0,Munich 1860
+Fri Oct 5 2012,St Pauli,2-2,0-1,Union Berlin
+Sat Oct 6 2012,Braunschweig,3-0,1-0,Bochum
+Sat Oct 6 2012,Cottbus,0-1,0-1,Duisburg
+Sun Oct 7 2012,Erzgebirge Aue,3-1,1-0,Regensburg
+Sun Oct 7 2012,Ingolstadt,1-1,0-0,Kaiserslautern
+Sun Oct 7 2012,Sandhausen,1-0,1-0,Aalen
+Mon Oct 8 2012,FC Koln,1-1,0-1,Dresden
+Fri Oct 19 2012,Bochum,0-2,0-0,Hertha
+Fri Oct 19 2012,Duisburg,0-2,0-0,Ingolstadt
+Fri Oct 19 2012,Kaiserslautern,3-1,2-1,Sandhausen
+Sat Oct 20 2012,Dresden,0-2,0-1,Braunschweig
+Sat Oct 20 2012,Regensburg,2-3,1-0,FC Koln
+Sun Oct 21 2012,Aalen,1-1,0-0,Cottbus
+Sun Oct 21 2012,Paderborn,1-1,0-0,St Pauli
+Sun Oct 21 2012,Union Berlin,1-0,1-0,Frankfurt FSV
+Mon Oct 22 2012,Munich 1860,1-1,0-0,Erzgebirge Aue
+Fri Oct 26 2012,Cottbus,1-0,1-0,Munich 1860
+Fri Oct 26 2012,FC Koln,3-3,2-1,Kaiserslautern
+Fri Oct 26 2012,Ingolstadt,2-0,0-0,Aalen
+Sat Oct 27 2012,Braunschweig,1-1,1-0,Hertha
+Sat Oct 27 2012,Erzgebirge Aue,6-1,3-0,Bochum
+Sat Oct 27 2012,Sandhausen,0-2,0-1,Duisburg
+Sun Oct 28 2012,Frankfurt FSV,3-1,1-0,Regensburg
+Sun Oct 28 2012,St Pauli,3-2,1-2,Dresden
+Sun Oct 28 2012,Union Berlin,0-1,0-0,Paderborn
+Fri Nov 2 2012,Braunschweig,2-1,1-0,Sandhausen
+Fri Nov 2 2012,Hertha,0-0,0-0,Ingolstadt
+Fri Nov 2 2012,Regensburg,0-2,0-1,Paderborn
+Sat Nov 3 2012,Duisburg,1-2,0-2,Frankfurt FSV
+Sat Nov 3 2012,Munich 1860,0-2,0-1,St Pauli
+Sun Nov 4 2012,Aalen,2-0,1-0,FC Koln
+Sun Nov 4 2012,Bochum,2-2,0-1,Cottbus
+Sun Nov 4 2012,Dresden,0-2,0-1,Union Berlin
+Mon Nov 5 2012,Kaiserslautern,4-1,2-1,Erzgebirge Aue
+Fri Nov 9 2012,Erzgebirge Aue,1-1,0-1,Braunschweig
+Fri Nov 9 2012,FC Koln,0-0,0-0,Duisburg
+Fri Nov 9 2012,Sandhausen,1-6,0-2,Hertha
+Sat Nov 10 2012,Paderborn,1-1,0-0,Kaiserslautern
+Sat Nov 10 2012,Union Berlin,0-0,0-0,Aalen
+Sun Nov 11 2012,Cottbus,2-0,2-0,Dresden
+Sun Nov 11 2012,Frankfurt FSV,0-1,0-1,Munich 1860
+Sun Nov 11 2012,Ingolstadt,4-2,0-1,Regensburg
+Mon Nov 12 2012,St Pauli,1-1,1-0,Bochum
+Fri Nov 16 2012,Dresden,2-1,2-0,Frankfurt FSV
+Fri Nov 16 2012,Kaiserslautern,1-0,1-0,Cottbus
+Fri Nov 16 2012,Munich 1860,0-2,0-1,FC Koln
+Sat Nov 17 2012,Aalen,0-1,0-0,Paderborn
+Sat Nov 17 2012,Braunschweig,3-0,1-0,Ingolstadt
+Sun Nov 18 2012,Bochum,5-2,3-2,Sandhausen
+Sun Nov 18 2012,Duisburg,2-1,1-1,Erzgebirge Aue
+Sun Nov 18 2012,Regensburg,3-3,2-1,Union Berlin
+Mon Nov 19 2012,Hertha,1-0,0-0,St Pauli
+Fri Nov 23 2012,FC Koln,3-1,2-0,Bochum
+Fri Nov 23 2012,Paderborn,2-2,2-2,Dresden
+Fri Nov 23 2012,Regensburg,1-3,1-0,Aalen
+Sat Nov 24 2012,Cottbus,3-1,2-1,Braunschweig
+Sat Nov 24 2012,Frankfurt FSV,0-1,0-1,Kaiserslautern
+Sat Nov 24 2012,Union Berlin,2-2,1-0,Munich 1860
+Sun Nov 25 2012,Erzgebirge Aue,0-4,0-2,Hertha
+Sun Nov 25 2012,Ingolstadt,1-1,1-0,Sandhausen
+Sun Nov 25 2012,St Pauli,4-1,1-1,Duisburg
+Tue Nov 27 2012,Bochum,1-3,0-1,Frankfurt FSV
+Tue Nov 27 2012,Dresden,0-0,0-0,Aalen
+Tue Nov 27 2012,Kaiserslautern,1-1,1-1,Regensburg
+Tue Nov 27 2012,Munich 1860,1-0,1-0,Paderborn
+Wed Nov 28 2012,Braunschweig,1-0,1-0,St Pauli
+Wed Nov 28 2012,Duisburg,1-2,0-2,Union Berlin
+Wed Nov 28 2012,Ingolstadt,1-2,1-1,Erzgebirge Aue
+Wed Nov 28 2012,Sandhausen,3-1,0-1,Cottbus
+Thu Nov 29 2012,Hertha,1-1,1-1,FC Koln
+Fri Nov 30 2012,Aalen,1-1,0-0,Munich 1860
+Fri Nov 30 2012,Regensburg,0-0,0-0,Dresden
+Sat Dec 1 2012,Erzgebirge Aue,2-2,1-1,Sandhausen
+Sat Dec 1 2012,St Pauli,1-0,0-0,Kaiserslautern
+Sat Dec 1 2012,Union Berlin,2-1,1-1,Bochum
+Sun Dec 2 2012,FC Koln,1-0,1-0,Ingolstadt
+Sun Dec 2 2012,Frankfurt FSV,1-2,0-2,Braunschweig
+Sun Dec 2 2012,Paderborn,0-2,0-0,Duisburg
+Mon Dec 3 2012,Cottbus,1-2,0-1,Hertha
+Fri Dec 7 2012,Aalen,0-1,0-0,Duisburg
+Fri Dec 7 2012,Frankfurt FSV,3-1,2-0,Sandhausen
+Fri Dec 7 2012,Union Berlin,2-0,1-0,Kaiserslautern
+Sat Dec 8 2012,Dresden,0-3,0-2,Bochum
+Sat Dec 8 2012,Paderborn,0-1,0-0,Hertha
+Sun Dec 9 2012,Cottbus,1-1,1-0,Ingolstadt
+Sun Dec 9 2012,Regensburg,1-1,0-0,Munich 1860
+Sun Dec 9 2012,St Pauli,0-3,0-0,Erzgebirge Aue
+Mon Dec 10 2012,FC Koln,2-2,0-1,Braunschweig
+Fri Dec 14 2012,Erzgebirge Aue,3-0,1-0,Cottbus
+Fri Dec 14 2012,Kaiserslautern,0-1,0-1,Aalen
+Fri Dec 14 2012,Sandhausen,0-0,0-0,FC Koln
+Sat Dec 15 2012,Hertha,2-1,0-0,Frankfurt FSV
+Sat Dec 15 2012,Ingolstadt,0-0,0-0,St Pauli
+Sun Dec 16 2012,Bochum,4-0,2-0,Paderborn
+Sun Dec 16 2012,Duisburg,4-2,0-2,Regensburg
+Sun Dec 16 2012,Munich 1860,1-1,0-0,Dresden
+Mon Dec 17 2012,Braunschweig,4-3,2-2,Union Berlin
+Fri Feb 1 2013,Aalen,2-2,0-1,Bochum
+Fri Feb 1 2013,Dresden,0-0,0-0,Duisburg
+Fri Feb 1 2013,Union Berlin,3-1,2-0,Sandhausen
+Sat Feb 2 2013,FC Koln,2-1,1-0,Erzgebirge Aue
+Sat Feb 2 2013,Paderborn,1-2,0-1,Braunschweig
+Sun Feb 3 2013,Frankfurt FSV,0-2,0-0,Ingolstadt
+Sun Feb 3 2013,Regensburg,1-5,0-0,Hertha
+Sun Feb 3 2013,St Pauli,0-0,0-0,Cottbus
+Mon Feb 4 2013,Munich 1860,0-1,0-0,Kaiserslautern
+Fri Feb 8 2013,Braunschweig,1-1,0-1,Aalen
+Fri Feb 8 2013,Erzgebirge Aue,0-2,0-0,Frankfurt FSV
+Fri Feb 8 2013,Kaiserslautern,3-0,2-0,Dresden
+Sat Feb 9 2013,Cottbus,0-0,0-0,FC Koln
+Sat Feb 9 2013,Duisburg,1-3,1-2,Munich 1860
+Sun Feb 10 2013,Bochum,0-2,0-0,Regensburg
+Sun Feb 10 2013,Ingolstadt,1-3,0-1,Paderborn
+Sun Feb 10 2013,Sandhausen,4-1,3-0,St Pauli
+Mon Feb 11 2013,Hertha,2-2,0-1,Union Berlin
+Fri Feb 15 2013,Munich 1860,0-1,0-1,Bochum
+Fri Feb 15 2013,Paderborn,2-0,2-0,Erzgebirge Aue
+Fri Feb 15 2013,Regensburg,0-1,0-1,Braunschweig
+Sat Feb 16 2013,Aalen,0-1,0-0,Hertha
+Sat Feb 16 2013,Union Berlin,1-1,0-0,Ingolstadt
+Sun Feb 17 2013,Dresden,3-1,1-0,Sandhausen
+Sun Feb 17 2013,Duisburg,0-0,0-0,Kaiserslautern
+Sun Feb 17 2013,Frankfurt FSV,1-0,1-0,Cottbus
+Mon Feb 18 2013,St Pauli,0-1,0-1,FC Koln
+Fri Feb 22 2013,Bochum,2-2,0-1,Duisburg
+Fri Feb 22 2013,Erzgebirge Aue,1-1,1-0,Aalen
+Fri Feb 22 2013,St Pauli,3-0,1-0,Frankfurt FSV
+Sat Feb 23 2013,FC Koln,2-0,1-0,Union Berlin
+Sat Feb 23 2013,Ingolstadt,1-1,1-0,Dresden
+Sun Feb 24 2013,Braunschweig,1-2,0-0,Munich 1860
+Sun Feb 24 2013,Cottbus,1-1,0-1,Regensburg
+Sun Feb 24 2013,Sandhausen,1-3,1-0,Paderborn
+Mon Feb 25 2013,Hertha,1-0,0-0,Kaiserslautern
+Fri Mar 1 2013,Paderborn,0-1,0-0,Cottbus
+Fri Mar 1 2013,Regensburg,1-3,1-2,Sandhausen
+Fri Mar 1 2013,Union Berlin,3-0,2-0,Erzgebirge Aue
+Sat Mar 2 2013,Dresden,1-0,1-0,Hertha
+Sat Mar 2 2013,Kaiserslautern,0-0,0-0,Bochum
+Sun Mar 3 2013,Aalen,0-1,0-0,St Pauli
+Sun Mar 3 2013,Frankfurt FSV,1-1,0-0,FC Koln
+Sun Mar 3 2013,Munich 1860,1-1,1-0,Ingolstadt
+Mon Mar 4 2013,Duisburg,1-0,0-0,Braunschweig
+Fri Mar 8 2013,Frankfurt FSV,6-1,3-0,Aalen
+Fri Mar 8 2013,Sandhausen,0-1,0-0,Munich 1860
+Fri Mar 8 2013,St Pauli,3-2,1-1,Regensburg
+Sat Mar 9 2013,Cottbus,2-1,1-1,Union Berlin
+Sat Mar 9 2013,FC Koln,3-0,1-0,Paderborn
+Sun Mar 10 2013,Erzgebirge Aue,1-0,1-0,Dresden
+Sun Mar 10 2013,Hertha,4-2,2-0,Duisburg
+Sun Mar 10 2013,Ingolstadt,2-1,0-0,Bochum
+Mon Mar 11 2013,Braunschweig,1-1,0-1,Kaiserslautern
+Fri Mar 15 2013,Duisburg,2-1,1-0,Cottbus
+Fri Mar 15 2013,Paderborn,3-0,1-0,Frankfurt FSV
+Fri Mar 15 2013,Union Berlin,4-2,2-1,St Pauli
+Sat Mar 16 2013,Bochum,0-1,0-0,Braunschweig
+Sat Mar 16 2013,Munich 1860,0-0,0-0,Hertha
+Sun Mar 17 2013,Aalen,2-2,1-0,Sandhausen
+Sun Mar 17 2013,Kaiserslautern,3-0,1-0,Ingolstadt
+Sun Mar 17 2013,Regensburg,1-1,1-1,Erzgebirge Aue
+Mon Mar 18 2013,Dresden,0-2,0-0,FC Koln
+Thu Mar 28 2013,Braunschweig,2-1,1-1,Dresden
+Thu Mar 28 2013,Cottbus,1-1,0-0,Aalen
+Thu Mar 28 2013,Erzgebirge Aue,0-1,0-1,Munich 1860
+Sat Mar 30 2013,Hertha,2-0,1-0,Bochum
+Sat Mar 30 2013,Ingolstadt,0-1,0-1,Duisburg
+Sun Mar 31 2013,FC Koln,2-1,1-0,Regensburg
+Sun Mar 31 2013,Frankfurt FSV,3-0,2-0,Union Berlin
+Sun Mar 31 2013,Sandhausen,1-1,0-1,Kaiserslautern
+Mon Apr 1 2013,St Pauli,2-2,0-0,Paderborn
+Fri Apr 5 2013,Aalen,2-1,1-1,Ingolstadt
+Fri Apr 5 2013,Bochum,0-3,0-3,Erzgebirge Aue
+Fri Apr 5 2013,Kaiserslautern,3-0,1-0,FC Koln
+Sat Apr 6 2013,Dresden,3-2,0-0,St Pauli
+Sat Apr 6 2013,Regensburg,1-4,0-0,Frankfurt FSV
+Sun Apr 7 2013,Duisburg,2-1,1-1,Sandhausen
+Sun Apr 7 2013,Munich 1860,1-1,0-0,Cottbus
+Sun Apr 7 2013,Paderborn,1-1,0-1,Union Berlin
+Mon Apr 8 2013,Hertha,3-0,1-0,Braunschweig
+Fri Apr 12 2013,Ingolstadt,1-1,1-0,Hertha
+Fri Apr 12 2013,Sandhausen,1-3,0-2,Braunschweig
+Fri Apr 12 2013,Union Berlin,0-0,0-0,Dresden
+Sat Apr 13 2013,Frankfurt FSV,1-1,1-1,Duisburg
+Sat Apr 13 2013,St Pauli,3-1,1-0,Munich 1860
+Sun Apr 14 2013,Cottbus,0-2,0-0,Bochum
+Sun Apr 14 2013,FC Koln,1-0,0-0,Aalen
+Sun Apr 14 2013,Paderborn,0-0,0-0,Regensburg
+Mon Apr 15 2013,Erzgebirge Aue,1-1,0-1,Kaiserslautern
+Fri Apr 19 2013,Aalen,3-0,2-0,Union Berlin
+Fri Apr 19 2013,Bochum,3-0,2-0,St Pauli
+Fri Apr 19 2013,Regensburg,1-2,1-2,Ingolstadt
+Sat Apr 20 2013,Kaiserslautern,3-0,1-0,Paderborn
+Sat Apr 20 2013,Munich 1860,1-2,0-2,Frankfurt FSV
+Sun Apr 21 2013,Braunschweig,1-1,1-0,Erzgebirge Aue
+Sun Apr 21 2013,Dresden,1-0,0-0,Cottbus
+Sun Apr 21 2013,Hertha,1-0,0-0,Sandhausen
+Mon Apr 22 2013,Duisburg,1-1,0-1,FC Koln
+Fri Apr 26 2013,Ingolstadt,0-1,0-0,Braunschweig
+Fri Apr 26 2013,Sandhausen,0-1,0-1,Bochum
+Fri Apr 26 2013,Union Berlin,1-0,0-0,Regensburg
+Sat Apr 27 2013,Erzgebirge Aue,0-0,0-0,Duisburg
+Sat Apr 27 2013,Frankfurt FSV,3-1,0-0,Dresden
+Sun Apr 28 2013,FC Koln,1-1,1-0,Munich 1860
+Sun Apr 28 2013,Paderborn,2-2,2-0,Aalen
+Sun Apr 28 2013,St Pauli,2-3,0-1,Hertha
+Mon Apr 29 2013,Cottbus,4-2,1-0,Kaiserslautern
+Fri May 3 2013,Aalen,2-1,1-1,Regensburg
+Fri May 3 2013,Dresden,2-1,1-1,Paderborn
+Fri May 3 2013,Hertha,3-2,3-0,Erzgebirge Aue
+Sat May 4 2013,Bochum,2-1,0-1,FC Koln
+Sat May 4 2013,Sandhausen,3-1,1-1,Ingolstadt
+Sun May 5 2013,Duisburg,0-0,0-0,St Pauli
+Sun May 5 2013,Kaiserslautern,4-1,4-0,Frankfurt FSV
+Sun May 5 2013,Munich 1860,3-0,2-0,Union Berlin
+Mon May 6 2013,Braunschweig,0-0,0-0,Cottbus
+Sun May 12 2013,Aalen,3-0,1-0,Dresden
+Sun May 12 2013,Cottbus,3-0,2-0,Sandhausen
+Sun May 12 2013,Erzgebirge Aue,0-1,0-0,Ingolstadt
+Sun May 12 2013,FC Koln,1-2,0-1,Hertha
+Sun May 12 2013,Frankfurt FSV,2-1,1-0,Bochum
+Sun May 12 2013,Paderborn,2-0,1-0,Munich 1860
+Sun May 12 2013,Regensburg,1-3,1-2,Kaiserslautern
+Sun May 12 2013,St Pauli,5-1,2-0,Braunschweig
+Sun May 12 2013,Union Berlin,2-1,0-0,Duisburg
+Sun May 19 2013,Bochum,1-2,0-0,Union Berlin
+Sun May 19 2013,Braunschweig,2-2,1-1,Frankfurt FSV
+Sun May 19 2013,Dresden,3-1,0-0,Regensburg
+Sun May 19 2013,Duisburg,3-2,1-1,Paderborn
+Sun May 19 2013,Hertha,1-1,0-1,Cottbus
+Sun May 19 2013,Ingolstadt,0-3,0-0,FC Koln
+Sun May 19 2013,Kaiserslautern,1-2,0-2,St Pauli
+Sun May 19 2013,Munich 1860,3-0,1-0,Aalen
+Sun May 19 2013,Sandhausen,0-1,0-0,Erzgebirge Aue

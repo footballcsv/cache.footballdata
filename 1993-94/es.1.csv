@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sun Sep 5 1993,Ath Bilbao,4-1,?,Albacete
+Sun Sep 5 1993,Ath Madrid,1-0,?,Logrones
+Sun Sep 5 1993,Barcelona,3-0,?,Sociedad
+Sun Sep 5 1993,La Coruna,0-0,?,Celta
+Sun Sep 5 1993,Osasuna,1-4,?,Real Madrid
+Sun Sep 5 1993,Oviedo,0-3,?,Valencia
+Sun Sep 5 1993,Santander,1-0,?,Vallecano
+Sun Sep 5 1993,Tenerife,1-0,?,Lerida
+Sun Sep 5 1993,Valladolid,0-1,?,Sp Gijon
+Sun Sep 5 1993,Zaragoza,1-2,?,Sevilla
+Sun Sep 12 1993,Albacete,0-0,?,Barcelona
+Sun Sep 12 1993,Celta,1-1,?,Oviedo
+Sun Sep 12 1993,Lerida,1-2,?,Ath Bilbao
+Sun Sep 12 1993,Logrones,0-1,?,Santander
+Sun Sep 12 1993,Real Madrid,1-3,?,Valladolid
+Sun Sep 12 1993,Sevilla,1-1,?,Osasuna
+Sun Sep 12 1993,Sociedad,2-2,?,Zaragoza
+Sun Sep 12 1993,Sp Gijon,0-2,?,La Coruna
+Sun Sep 12 1993,Valencia,2-2,?,Ath Madrid
+Sun Sep 12 1993,Vallecano,4-3,?,Tenerife
+Sun Sep 19 1993,Ath Bilbao,0-0,?,Barcelona
+Sun Sep 19 1993,Ath Madrid,3-2,?,Celta
+Sun Sep 19 1993,La Coruna,4-0,?,Real Madrid
+Sun Sep 19 1993,Lerida,0-1,?,Vallecano
+Sun Sep 19 1993,Osasuna,0-2,?,Sociedad
+Sun Sep 19 1993,Oviedo,0-1,?,Sp Gijon
+Sun Sep 19 1993,Santander,0-1,?,Valencia
+Sun Sep 19 1993,Tenerife,2-0,?,Logrones
+Sun Sep 19 1993,Valladolid,2-2,?,Sevilla
+Sun Sep 19 1993,Zaragoza,1-1,?,Albacete
+Sun Sep 26 1993,Albacete,2-1,?,Osasuna
+Sun Sep 26 1993,Barcelona,4-1,?,Zaragoza
+Sun Sep 26 1993,Celta,0-0,?,Santander
+Sun Sep 26 1993,Logrones,2-1,?,Lerida
+Sun Sep 26 1993,Real Madrid,0-1,?,Oviedo
+Sun Sep 26 1993,Sevilla,0-0,?,La Coruna
+Sun Sep 26 1993,Sociedad,1-0,?,Valladolid
+Sun Sep 26 1993,Sp Gijon,1-1,?,Ath Madrid
+Sun Sep 26 1993,Valencia,3-2,?,Tenerife
+Sun Sep 26 1993,Vallecano,1-2,?,Ath Bilbao
+Sun Oct 3 1993,Ath Bilbao,2-1,?,Zaragoza
+Sun Oct 3 1993,Ath Madrid,0-0,?,Real Madrid
+Sun Oct 3 1993,La Coruna,0-1,?,Sociedad
+Sun Oct 3 1993,Lerida,1-1,?,Valencia
+Sun Oct 3 1993,Osasuna,2-3,?,Barcelona
+Sun Oct 3 1993,Oviedo,0-2,?,Sevilla
+Sun Oct 3 1993,Santander,2-0,?,Sp Gijon
+Sun Oct 3 1993,Tenerife,0-0,?,Celta
+Sun Oct 3 1993,Valladolid,1-0,?,Albacete
+Sun Oct 3 1993,Vallecano,3-1,?,Logrones
+Wed Oct 6 1993,Albacete,0-0,?,La Coruna
+Wed Oct 6 1993,Barcelona,3-0,?,Valladolid
+Wed Oct 6 1993,Celta,1-0,?,Lerida
+Wed Oct 6 1993,Logrones,4-2,?,Ath Bilbao
+Wed Oct 6 1993,Real Madrid,2-1,?,Santander
+Wed Oct 6 1993,Sevilla,2-1,?,Ath Madrid
+Wed Oct 6 1993,Sociedad,2-2,?,Oviedo
+Wed Oct 6 1993,Sp Gijon,1-2,?,Tenerife
+Wed Oct 6 1993,Valencia,3-1,?,Vallecano
+Wed Oct 6 1993,Zaragoza,2-1,?,Osasuna
+Sun Oct 17 1993,Ath Bilbao,1-2,?,Osasuna
+Sun Oct 17 1993,Ath Madrid,1-2,?,Sociedad
+Sun Oct 17 1993,La Coruna,1-0,?,Barcelona
+Sun Oct 17 1993,Lerida,1-1,?,Sp Gijon
+Sun Oct 17 1993,Logrones,2-0,?,Valencia
+Sun Oct 17 1993,Oviedo,1-1,?,Albacete
+Sun Oct 17 1993,Santander,1-0,?,Sevilla
+Sun Oct 17 1993,Tenerife,0-0,?,Real Madrid
+Sun Oct 17 1993,Valladolid,0-0,?,Zaragoza
+Sun Oct 17 1993,Vallecano,1-1,?,Celta
+Sun Oct 24 1993,Albacete,2-2,?,Ath Madrid
+Sun Oct 24 1993,Barcelona,1-0,?,Oviedo
+Sun Oct 24 1993,Celta,2-0,?,Logrones
+Sun Oct 24 1993,Osasuna,2-0,?,Valladolid
+Sun Oct 24 1993,Real Madrid,5-0,?,Lerida
+Sun Oct 24 1993,Sevilla,4-0,?,Tenerife
+Sun Oct 24 1993,Sociedad,2-0,?,Santander
+Sun Oct 24 1993,Sp Gijon,2-0,?,Vallecano
+Sun Oct 24 1993,Valencia,1-0,?,Ath Bilbao
+Sun Oct 24 1993,Zaragoza,0-1,?,La Coruna
+Sun Oct 31 1993,Ath Bilbao,3-0,?,Valladolid
+Sun Oct 31 1993,Ath Madrid,4-3,?,Barcelona
+Sun Oct 31 1993,La Coruna,3-1,?,Osasuna
+Sun Oct 31 1993,Lerida,0-3,?,Sevilla
+Sun Oct 31 1993,Logrones,1-2,?,Sp Gijon
+Sun Oct 31 1993,Oviedo,2-1,?,Zaragoza
+Sun Oct 31 1993,Santander,1-1,?,Albacete
+Sun Oct 31 1993,Tenerife,2-1,?,Sociedad
+Sun Oct 31 1993,Valencia,3-0,?,Celta
+Sun Oct 31 1993,Vallecano,0-2,?,Real Madrid
+Sun Nov 7 1993,Albacete,2-3,?,Tenerife
+Sun Nov 7 1993,Barcelona,2-1,?,Santander
+Sun Nov 7 1993,Celta,1-1,?,Ath Bilbao
+Sun Nov 7 1993,Osasuna,2-0,?,Oviedo
+Sun Nov 7 1993,Real Madrid,2-1,?,Logrones
+Sun Nov 7 1993,Sevilla,3-1,?,Vallecano
+Sun Nov 7 1993,Sociedad,1-3,?,Lerida
+Sun Nov 7 1993,Sp Gijon,2-0,?,Valencia
+Sun Nov 7 1993,Valladolid,0-0,?,La Coruna
+Sun Nov 7 1993,Zaragoza,2-1,?,Ath Madrid
+Wed Nov 10 1993,Ath Bilbao,3-1,?,La Coruna
+Wed Nov 10 1993,Ath Madrid,3-0,?,Osasuna
+Wed Nov 10 1993,Celta,0-2,?,Sp Gijon
+Wed Nov 10 1993,Lerida,0-1,?,Albacete
+Wed Nov 10 1993,Logrones,1-1,?,Sevilla
+Wed Nov 10 1993,Oviedo,1-0,?,Valladolid
+Wed Nov 10 1993,Santander,2-0,?,Zaragoza
+Wed Nov 10 1993,Tenerife,2-3,?,Barcelona
+Wed Nov 10 1993,Valencia,0-3,?,Real Madrid
+Wed Nov 10 1993,Vallecano,4-1,?,Sociedad
+Sun Nov 21 1993,Albacete,1-1,?,Vallecano
+Sun Nov 21 1993,Barcelona,0-1,?,Lerida
+Sun Nov 21 1993,La Coruna,4-0,?,Oviedo
+Sun Nov 21 1993,Osasuna,0-0,?,Santander
+Sun Nov 21 1993,Real Madrid,2-1,?,Celta
+Sun Nov 21 1993,Sevilla,0-1,?,Valencia
+Sun Nov 21 1993,Sociedad,2-2,?,Logrones
+Sun Nov 21 1993,Sp Gijon,0-1,?,Ath Bilbao
+Sun Nov 21 1993,Valladolid,1-1,?,Ath Madrid
+Sun Nov 21 1993,Zaragoza,6-2,?,Tenerife
+Sun Nov 28 1993,Ath Bilbao,1-1,?,Oviedo
+Sun Nov 28 1993,Ath Madrid,0-1,?,La Coruna
+Sun Nov 28 1993,Celta,2-1,?,Sevilla
+Sun Nov 28 1993,Lerida,0-1,?,Zaragoza
+Sun Nov 28 1993,Logrones,2-2,?,Albacete
+Sun Nov 28 1993,Santander,5-1,?,Valladolid
+Sun Nov 28 1993,Sp Gijon,2-1,?,Real Madrid
+Sun Nov 28 1993,Tenerife,1-0,?,Osasuna
+Sun Nov 28 1993,Valencia,0-0,?,Sociedad
+Sun Nov 28 1993,Vallecano,2-4,?,Barcelona
+Sun Dec 5 1993,Albacete,3-1,?,Valencia
+Sun Dec 5 1993,Barcelona,2-2,?,Logrones
+Sun Dec 5 1993,La Coruna,1-0,?,Santander
+Sun Dec 5 1993,Osasuna,1-0,?,Lerida
+Sun Dec 5 1993,Oviedo,1-1,?,Ath Madrid
+Sun Dec 5 1993,Real Madrid,2-1,?,Ath Bilbao
+Sun Dec 5 1993,Sevilla,1-2,?,Sp Gijon
+Sun Dec 5 1993,Sociedad,2-1,?,Celta
+Sun Dec 5 1993,Valladolid,2-0,?,Tenerife
+Sun Dec 5 1993,Zaragoza,4-1,?,Vallecano
+Sun Dec 12 1993,Ath Bilbao,3-2,?,Ath Madrid
+Sun Dec 12 1993,Celta,1-4,?,Albacete
+Sun Dec 12 1993,Lerida,1-0,?,Valladolid
+Sun Dec 12 1993,Logrones,2-2,?,Zaragoza
+Sun Dec 12 1993,Real Madrid,0-0,?,Sevilla
+Sun Dec 12 1993,Santander,1-2,?,Oviedo
+Sun Dec 12 1993,Sp Gijon,3-2,?,Sociedad
+Sun Dec 12 1993,Tenerife,0-1,?,La Coruna
+Sun Dec 12 1993,Valencia,0-4,?,Barcelona
+Sun Dec 12 1993,Vallecano,1-0,?,Osasuna
+Sun Dec 19 1993,Albacete,3-1,?,Sp Gijon
+Sun Dec 19 1993,Ath Madrid,4-0,?,Santander
+Sun Dec 19 1993,Barcelona,1-0,?,Celta
+Sun Dec 19 1993,La Coruna,2-0,?,Lerida
+Sun Dec 19 1993,Osasuna,1-3,?,Logrones
+Sun Dec 19 1993,Oviedo,1-0,?,Tenerife
+Sun Dec 19 1993,Sevilla,1-3,?,Ath Bilbao
+Sun Dec 19 1993,Sociedad,2-0,?,Real Madrid
+Sun Dec 19 1993,Valladolid,1-3,?,Vallecano
+Sun Dec 19 1993,Zaragoza,1-0,?,Valencia
+Sun Jan 2 1994,Ath Bilbao,1-2,?,Santander
+Sun Jan 2 1994,Celta,1-0,?,Zaragoza
+Sun Jan 2 1994,Lerida,1-1,?,Oviedo
+Sun Jan 2 1994,Logrones,0-0,?,Valladolid
+Sun Jan 2 1994,Real Madrid,2-0,?,Albacete
+Sun Jan 2 1994,Sevilla,1-0,?,Sociedad
+Sun Jan 2 1994,Sp Gijon,2-0,?,Barcelona
+Sun Jan 2 1994,Tenerife,1-1,?,Ath Madrid
+Sun Jan 2 1994,Valencia,0-0,?,Osasuna
+Sun Jan 2 1994,Vallecano,0-0,?,La Coruna
+Sun Jan 9 1994,Albacete,2-2,?,Sevilla
+Sun Jan 9 1994,Ath Bilbao,0-0,?,Sociedad
+Sun Jan 9 1994,Ath Madrid,0-0,?,Lerida
+Sun Jan 9 1994,Barcelona,5-0,?,Real Madrid
+Sun Jan 9 1994,La Coruna,3-0,?,Logrones
+Sun Jan 9 1994,Osasuna,0-1,?,Celta
+Sun Jan 9 1994,Oviedo,5-0,?,Vallecano
+Sun Jan 9 1994,Santander,1-0,?,Tenerife
+Sun Jan 9 1994,Valladolid,1-1,?,Valencia
+Sun Jan 9 1994,Zaragoza,3-0,?,Sp Gijon
+Sun Jan 16 1994,Celta,1-2,?,Valladolid
+Sun Jan 16 1994,Lerida,0-0,?,Santander
+Sun Jan 16 1994,Logrones,2-2,?,Oviedo
+Sun Jan 16 1994,Real Madrid,3-2,?,Zaragoza
+Sun Jan 16 1994,Sevilla,0-0,?,Barcelona
+Sun Jan 16 1994,Sociedad,1-1,?,Albacete
+Sun Jan 16 1994,Sp Gijon,7-1,?,Osasuna
+Sun Jan 16 1994,Tenerife,2-1,?,Ath Bilbao
+Sun Jan 16 1994,Valencia,1-3,?,La Coruna
+Sun Jan 16 1994,Vallecano,2-1,?,Ath Madrid
+Sun Jan 23 1994,Albacete,1-0,?,Ath Bilbao
+Sun Jan 23 1994,Celta,0-0,?,La Coruna
+Sun Jan 23 1994,Lerida,1-1,?,Tenerife
+Sun Jan 23 1994,Logrones,1-0,?,Ath Madrid
+Sun Jan 23 1994,Real Madrid,0-0,?,Osasuna
+Sun Jan 23 1994,Sevilla,0-1,?,Zaragoza
+Sun Jan 23 1994,Sociedad,2-1,?,Barcelona
+Sun Jan 23 1994,Sp Gijon,2-0,?,Valladolid
+Sun Jan 23 1994,Valencia,2-2,?,Oviedo
+Sun Jan 23 1994,Vallecano,1-1,?,Santander
+Sun Jan 30 1994,Ath Bilbao,4-0,?,Lerida
+Sun Jan 30 1994,Ath Madrid,2-0,?,Valencia
+Sun Jan 30 1994,Barcelona,2-1,?,Albacete
+Sun Jan 30 1994,La Coruna,2-1,?,Sp Gijon
+Sun Jan 30 1994,Osasuna,0-0,?,Sevilla
+Sun Jan 30 1994,Oviedo,1-0,?,Celta
+Sun Jan 30 1994,Santander,0-0,?,Logrones
+Sun Jan 30 1994,Tenerife,3-1,?,Vallecano
+Sun Jan 30 1994,Valladolid,0-0,?,Real Madrid
+Sun Jan 30 1994,Zaragoza,3-0,?,Sociedad
+Sun Feb 6 1994,Albacete,2-1,?,Zaragoza
+Sun Feb 6 1994,Barcelona,2-3,?,Ath Bilbao
+Sun Feb 6 1994,Celta,3-2,?,Ath Madrid
+Sun Feb 6 1994,Logrones,1-2,?,Tenerife
+Sun Feb 6 1994,Real Madrid,2-0,?,La Coruna
+Sun Feb 6 1994,Sevilla,3-3,?,Valladolid
+Sun Feb 6 1994,Sociedad,1-0,?,Osasuna
+Sun Feb 6 1994,Sp Gijon,0-0,?,Oviedo
+Sun Feb 6 1994,Valencia,2-1,?,Santander
+Sun Feb 6 1994,Vallecano,1-2,?,Lerida
+Sun Feb 13 1994,Ath Bilbao,0-0,?,Vallecano
+Sun Feb 13 1994,Ath Madrid,2-0,?,Sp Gijon
+Sun Feb 13 1994,La Coruna,2-0,?,Sevilla
+Sun Feb 13 1994,Lerida,1-1,?,Logrones
+Sun Feb 13 1994,Osasuna,3-1,?,Albacete
+Sun Feb 13 1994,Oviedo,0-1,?,Real Madrid
+Sun Feb 13 1994,Santander,2-1,?,Celta
+Sun Feb 13 1994,Tenerife,1-0,?,Valencia
+Sun Feb 13 1994,Valladolid,0-0,?,Sociedad
+Sun Feb 13 1994,Zaragoza,6-3,?,Barcelona
+Sun Feb 20 1994,Albacete,1-1,?,Valladolid
+Sun Feb 20 1994,Barcelona,8-1,?,Osasuna
+Sun Feb 20 1994,Celta,1-0,?,Tenerife
+Sun Feb 20 1994,Logrones,1-1,?,Vallecano
+Sun Feb 20 1994,Real Madrid,1-0,?,Ath Madrid
+Sun Feb 20 1994,Sevilla,2-0,?,Oviedo
+Sun Feb 20 1994,Sociedad,0-1,?,La Coruna
+Sun Feb 20 1994,Sp Gijon,0-2,?,Santander
+Sun Feb 20 1994,Valencia,3-3,?,Lerida
+Sun Feb 20 1994,Zaragoza,1-0,?,Ath Bilbao
+Wed Feb 23 1994,Ath Bilbao,0-0,?,Logrones
+Wed Feb 23 1994,Ath Madrid,2-4,?,Sevilla
+Wed Feb 23 1994,La Coruna,5-1,?,Albacete
+Wed Feb 23 1994,Lerida,0-0,?,Celta
+Wed Feb 23 1994,Osasuna,0-0,?,Zaragoza
+Wed Feb 23 1994,Oviedo,2-1,?,Sociedad
+Wed Feb 23 1994,Santander,1-3,?,Real Madrid
+Wed Feb 23 1994,Tenerife,3-0,?,Sp Gijon
+Wed Feb 23 1994,Valladolid,1-3,?,Barcelona
+Wed Feb 23 1994,Vallecano,1-1,?,Valencia
+Sun Feb 27 1994,Albacete,5-0,?,Oviedo
+Sun Feb 27 1994,Barcelona,3-0,?,La Coruna
+Sun Feb 27 1994,Celta,0-0,?,Vallecano
+Sun Feb 27 1994,Osasuna,0-0,?,Ath Bilbao
+Sun Feb 27 1994,Real Madrid,1-1,?,Tenerife
+Sun Feb 27 1994,Sevilla,2-1,?,Santander
+Sun Feb 27 1994,Sociedad,2-1,?,Ath Madrid
+Sun Feb 27 1994,Sp Gijon,1-1,?,Lerida
+Sun Feb 27 1994,Valencia,3-1,?,Logrones
+Sun Feb 27 1994,Zaragoza,2-0,?,Valladolid
+Sun Mar 6 1994,Ath Bilbao,2-1,?,Valencia
+Sun Mar 6 1994,Ath Madrid,0-0,?,Albacete
+Sun Mar 6 1994,La Coruna,1-1,?,Zaragoza
+Sun Mar 6 1994,Lerida,2-1,?,Real Madrid
+Sun Mar 6 1994,Logrones,1-1,?,Celta
+Sun Mar 6 1994,Oviedo,1-3,?,Barcelona
+Sun Mar 6 1994,Santander,4-1,?,Sociedad
+Sun Mar 6 1994,Tenerife,2-1,?,Sevilla
+Sun Mar 6 1994,Valladolid,2-1,?,Osasuna
+Sun Mar 6 1994,Vallecano,2-1,?,Sp Gijon
+Sun Mar 13 1994,Albacete,3-0,?,Santander
+Sun Mar 13 1994,Barcelona,5-3,?,Ath Madrid
+Sun Mar 13 1994,Celta,1-2,?,Valencia
+Sun Mar 13 1994,Osasuna,0-0,?,La Coruna
+Sun Mar 13 1994,Real Madrid,5-2,?,Vallecano
+Sun Mar 13 1994,Sevilla,2-1,?,Lerida
+Sun Mar 13 1994,Sociedad,2-1,?,Tenerife
+Sun Mar 13 1994,Sp Gijon,1-2,?,Logrones
+Sun Mar 13 1994,Valladolid,1-1,?,Ath Bilbao
+Sun Mar 13 1994,Zaragoza,2-1,?,Oviedo
+Sun Mar 20 1994,Ath Bilbao,2-1,?,Celta
+Sun Mar 20 1994,Ath Madrid,0-4,?,Zaragoza
+Sun Mar 20 1994,La Coruna,0-0,?,Valladolid
+Sun Mar 20 1994,Lerida,1-0,?,Sociedad
+Sun Mar 20 1994,Logrones,3-4,?,Real Madrid
+Sun Mar 20 1994,Oviedo,1-0,?,Osasuna
+Sun Mar 20 1994,Santander,1-1,?,Barcelona
+Sun Mar 20 1994,Tenerife,2-1,?,Albacete
+Sun Mar 20 1994,Valencia,1-0,?,Sp Gijon
+Sun Mar 20 1994,Vallecano,2-1,?,Sevilla
+Sun Mar 27 1994,Albacete,2-1,?,Lerida
+Sun Mar 27 1994,Barcelona,2-1,?,Tenerife
+Sun Mar 27 1994,La Coruna,4-1,?,Ath Bilbao
+Sun Mar 27 1994,Osasuna,0-1,?,Ath Madrid
+Sun Mar 27 1994,Real Madrid,3-2,?,Valencia
+Sun Mar 27 1994,Sevilla,4-1,?,Logrones
+Sun Mar 27 1994,Sociedad,1-1,?,Vallecano
+Sun Mar 27 1994,Sp Gijon,2-1,?,Celta
+Sun Mar 27 1994,Valladolid,0-0,?,Oviedo
+Sun Mar 27 1994,Zaragoza,2-0,?,Santander
+Sun Apr 3 1994,Ath Bilbao,7-0,?,Sp Gijon
+Sun Apr 3 1994,Ath Madrid,2-0,?,Valladolid
+Sun Apr 3 1994,Celta,3-2,?,Real Madrid
+Sun Apr 3 1994,Lerida,1-2,?,Barcelona
+Sun Apr 3 1994,Logrones,2-0,?,Sociedad
+Sun Apr 3 1994,Oviedo,2-5,?,La Coruna
+Sun Apr 3 1994,Santander,3-1,?,Osasuna
+Sun Apr 3 1994,Tenerife,5-3,?,Zaragoza
+Sun Apr 3 1994,Valencia,1-1,?,Sevilla
+Sun Apr 3 1994,Vallecano,0-0,?,Albacete
+Wed Apr 6 1994,Albacete,2-2,?,Logrones
+Wed Apr 6 1994,Barcelona,1-0,?,Vallecano
+Wed Apr 6 1994,La Coruna,2-1,?,Ath Madrid
+Wed Apr 6 1994,Osasuna,1-0,?,Tenerife
+Wed Apr 6 1994,Oviedo,3-0,?,Ath Bilbao
+Wed Apr 6 1994,Real Madrid,2-2,?,Sp Gijon
+Wed Apr 6 1994,Sevilla,4-1,?,Celta
+Wed Apr 6 1994,Sociedad,0-0,?,Valencia
+Wed Apr 6 1994,Valladolid,0-3,?,Santander
+Wed Apr 6 1994,Zaragoza,1-1,?,Lerida
+Sun Apr 10 1994,Ath Bilbao,2-1,?,Real Madrid
+Sun Apr 10 1994,Ath Madrid,0-3,?,Oviedo
+Sun Apr 10 1994,Celta,3-2,?,Sociedad
+Sun Apr 10 1994,Lerida,1-2,?,Osasuna
+Sun Apr 10 1994,Logrones,0-0,?,Barcelona
+Sun Apr 10 1994,Santander,0-1,?,La Coruna
+Sun Apr 10 1994,Sp Gijon,0-1,?,Sevilla
+Sun Apr 10 1994,Tenerife,0-2,?,Valladolid
+Sun Apr 10 1994,Valencia,4-0,?,Albacete
+Sun Apr 10 1994,Vallecano,1-2,?,Zaragoza
+Sun Apr 17 1994,Albacete,0-4,?,Celta
+Sun Apr 17 1994,Ath Madrid,4-2,?,Ath Bilbao
+Sun Apr 17 1994,Barcelona,3-1,?,Valencia
+Sun Apr 17 1994,La Coruna,2-0,?,Tenerife
+Sun Apr 17 1994,Osasuna,1-1,?,Vallecano
+Sun Apr 17 1994,Oviedo,3-0,?,Santander
+Sun Apr 17 1994,Sevilla,0-1,?,Real Madrid
+Sun Apr 17 1994,Sociedad,0-1,?,Sp Gijon
+Sun Apr 17 1994,Valladolid,0-2,?,Lerida
+Sun Apr 17 1994,Zaragoza,1-1,?,Logrones
+Sun Apr 24 1994,Ath Bilbao,1-1,?,Sevilla
+Sun Apr 24 1994,Celta,0-4,?,Barcelona
+Sun Apr 24 1994,Lerida,0-0,?,La Coruna
+Sun Apr 24 1994,Logrones,3-2,?,Osasuna
+Sun Apr 24 1994,Real Madrid,0-1,?,Sociedad
+Sun Apr 24 1994,Santander,2-0,?,Ath Madrid
+Sun Apr 24 1994,Sp Gijon,1-0,?,Albacete
+Sun Apr 24 1994,Tenerife,2-2,?,Oviedo
+Sun Apr 24 1994,Valencia,3-0,?,Zaragoza
+Sun Apr 24 1994,Vallecano,0-1,?,Valladolid
+Sun May 1 1994,Albacete,1-4,?,Real Madrid
+Sun May 1 1994,Ath Madrid,2-0,?,Tenerife
+Sun May 1 1994,Barcelona,4-0,?,Sp Gijon
+Sun May 1 1994,La Coruna,0-0,?,Vallecano
+Sun May 1 1994,Osasuna,3-3,?,Valencia
+Sun May 1 1994,Oviedo,0-0,?,Lerida
+Sun May 1 1994,Santander,2-2,?,Ath Bilbao
+Sun May 1 1994,Sociedad,0-0,?,Sevilla
+Sun May 1 1994,Valladolid,2-0,?,Logrones
+Sun May 1 1994,Zaragoza,4-1,?,Celta
+Sun May 8 1994,Celta,4-0,?,Osasuna
+Sun May 8 1994,Lerida,0-1,?,Ath Madrid
+Sun May 8 1994,Logrones,0-2,?,La Coruna
+Sun May 8 1994,Real Madrid,0-1,?,Barcelona
+Sun May 8 1994,Sevilla,2-0,?,Albacete
+Sun May 8 1994,Sociedad,0-0,?,Ath Bilbao
+Sun May 8 1994,Sp Gijon,0-3,?,Zaragoza
+Sun May 8 1994,Tenerife,1-0,?,Santander
+Sun May 8 1994,Valencia,5-1,?,Valladolid
+Sun May 8 1994,Vallecano,0-0,?,Oviedo
+Sun May 15 1994,Albacete,1-1,?,Sociedad
+Sun May 15 1994,Ath Bilbao,3-2,?,Tenerife
+Sun May 15 1994,Ath Madrid,2-0,?,Vallecano
+Sun May 15 1994,Barcelona,5-2,?,Sevilla
+Sun May 15 1994,La Coruna,0-0,?,Valencia
+Sun May 15 1994,Osasuna,3-0,?,Sp Gijon
+Sun May 15 1994,Oviedo,1-2,?,Logrones
+Sun May 15 1994,Santander,2-1,?,Lerida
+Sun May 15 1994,Valladolid,0-0,?,Celta
+Sun May 15 1994,Zaragoza,4-1,?,Real Madrid

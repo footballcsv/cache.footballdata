@@ -1,0 +1,243 @@
+Date,Team 1,FT,HT,Team 2
+Sat Apr 2 2016,Malmo FF,3-1,?,Norrkoping
+Sat Apr 2 2016,Kalmar,0-1,?,Jonkopings
+Sun Apr 3 2016,AIK,1-1,?,Sundsvall
+Sun Apr 3 2016,Gefle,1-1,?,Helsingborg
+Sun Apr 3 2016,Hacken,2-1,?,Elfsborg
+Sun Apr 3 2016,Falkenbergs,0-2,?,Goteborg
+Sun Apr 3 2016,Orebro,0-2,?,Djurgarden
+Mon Apr 4 2016,Hammarby,1-1,?,Ostersunds
+Wed Apr 6 2016,Goteborg,1-0,?,Hacken
+Wed Apr 6 2016,Jonkopings,3-2,?,Malmo FF
+Wed Apr 6 2016,Norrkoping,4-1,?,Kalmar
+Thu Apr 7 2016,Djurgarden,5-0,?,Falkenbergs
+Thu Apr 7 2016,Elfsborg,4-1,?,Hammarby
+Thu Apr 7 2016,Helsingborg,1-3,?,Orebro
+Thu Apr 7 2016,Ostersunds,0-2,?,AIK
+Thu Apr 7 2016,Sundsvall,1-2,?,Gefle
+Sat Apr 9 2016,Hacken,1-2,?,Norrkoping
+Sun Apr 10 2016,Gefle,1-2,?,Djurgarden
+Sun Apr 10 2016,Hammarby,5-1,?,Helsingborg
+Sun Apr 10 2016,Falkenbergs,1-2,?,Ostersunds
+Sun Apr 10 2016,Kalmar,3-2,?,Elfsborg
+Mon Apr 11 2016,AIK,3-3,?,Goteborg
+Mon Apr 11 2016,Malmo FF,1-2,?,Sundsvall
+Mon Apr 11 2016,Orebro,2-1,?,Jonkopings
+Fri Apr 15 2016,Ostersunds,2-1,?,Hacken
+Sat Apr 16 2016,Helsingborg,3-1,?,Falkenbergs
+Sun Apr 17 2016,Jonkopings,1-0,?,Gefle
+Sun Apr 17 2016,Norrkoping,4-1,?,AIK
+Sun Apr 17 2016,Goteborg,1-1,?,Kalmar
+Mon Apr 18 2016,Elfsborg,0-1,?,Malmo FF
+Mon Apr 18 2016,Sundsvall,3-1,?,Orebro
+Tue Apr 19 2016,Djurgarden,1-3,?,Hammarby
+Fri Apr 22 2016,Falkenbergs,2-1,?,Norrkoping
+Sat Apr 23 2016,Gefle,0-0,?,Ostersunds
+Sat Apr 23 2016,Hammarby,1-1,?,Jonkopings
+Sun Apr 24 2016,Hacken,0-1,?,Sundsvall
+Sun Apr 24 2016,Malmo FF,1-0,?,Djurgarden
+Sun Apr 24 2016,Orebro,3-2,?,Goteborg
+Mon Apr 25 2016,AIK,2-1,?,Elfsborg
+Mon Apr 25 2016,Kalmar,2-3,?,Helsingborg
+Tue Apr 26 2016,Norrkoping,3-1,?,Hammarby
+Wed Apr 27 2016,Goteborg,0-3,?,Malmo FF
+Wed Apr 27 2016,Jonkopings,1-1,?,Falkenbergs
+Wed Apr 27 2016,Ostersunds,2-4,?,Orebro
+Thu Apr 28 2016,Elfsborg,3-0,?,Djurgarden
+Thu Apr 28 2016,Hacken,6-1,?,Gefle
+Thu Apr 28 2016,Helsingborg,2-1,?,AIK
+Thu Apr 28 2016,Sundsvall,1-1,?,Kalmar
+Sun May 1 2016,Falkenbergs,1-2,?,Elfsborg
+Sun May 1 2016,Hammarby,1-1,?,Sundsvall
+Sun May 1 2016,Malmo FF,3-0,?,Hacken
+Mon May 2 2016,AIK,0-0,?,Jonkopings
+Mon May 2 2016,Djurgarden,3-0,?,Ostersunds
+Mon May 2 2016,Gefle,2-6,?,Goteborg
+Mon May 2 2016,Kalmar,3-2,?,Orebro
+Mon May 2 2016,Norrkoping,3-0,?,Helsingborg
+Sat May 7 2016,Elfsborg,2-0,?,Gefle
+Sat May 7 2016,Ostersunds,1-0,?,Kalmar
+Sun May 8 2016,Helsingborg,2-1,?,Malmo FF
+Sun May 8 2016,Jonkopings,0-2,?,Norrkoping
+Sun May 8 2016,Hacken,2-3,?,AIK
+Mon May 9 2016,Goteborg,2-1,?,Djurgarden
+Mon May 9 2016,Orebro,3-2,?,Hammarby
+Mon May 9 2016,Sundsvall,2-1,?,Falkenbergs
+Fri May 13 2016,Jonkopings,1-1,?,Helsingborg
+Sat May 14 2016,Kalmar,1-1,?,Hammarby
+Sat May 14 2016,Malmo FF,3-0,?,Gefle
+Sun May 15 2016,Norrkoping,3-1,?,Sundsvall
+Sun May 15 2016,Orebro,1-0,?,Elfsborg
+Sun May 15 2016,Falkenbergs,1-4,?,Hacken
+Sun May 15 2016,Ostersunds,2-0,?,Goteborg
+Mon May 16 2016,AIK,2-0,?,Djurgarden
+Wed May 18 2016,Hacken,3-1,?,Jonkopings
+Wed May 18 2016,Hammarby,2-3,?,Malmo FF
+Wed May 18 2016,Helsingborg,1-1,?,Ostersunds
+Wed May 18 2016,Sundsvall,1-3,?,Elfsborg
+Thu May 19 2016,Djurgarden,0-3,?,Kalmar
+Thu May 19 2016,Gefle,0-4,?,Orebro
+Thu May 19 2016,Goteborg,1-1,?,Norrkoping
+Fri May 20 2016,Falkenbergs,2-3,?,AIK
+Sat May 21 2016,Sundsvall,5-0,?,Ostersunds
+Sun May 22 2016,Kalmar,1-1,?,Hacken
+Sun May 22 2016,Orebro,2-2,?,Norrkoping
+Sun May 22 2016,Djurgarden,3-0,?,Helsingborg
+Sun May 22 2016,Elfsborg,3-3,?,Jonkopings
+Mon May 23 2016,Gefle,0-1,?,AIK
+Mon May 23 2016,Goteborg,2-1,?,Hammarby
+Mon May 23 2016,Malmo FF,2-0,?,Falkenbergs
+Sat May 28 2016,AIK,0-0,?,Orebro
+Sat May 28 2016,Jonkopings,1-1,?,Sundsvall
+Sat May 28 2016,Ostersunds,1-4,?,Malmo FF
+Sun May 29 2016,Falkenbergs,1-2,?,Kalmar
+Sun May 29 2016,Hammarby,2-1,?,Gefle
+Sun May 29 2016,Helsingborg,1-3,?,Goteborg
+Sun May 29 2016,Hacken,3-1,?,Djurgarden
+Sun May 29 2016,Norrkoping,0-0,?,Elfsborg
+Sat Jul 9 2016,Djurgarden,0-1,?,Norrkoping
+Sat Jul 9 2016,Gefle,1-2,?,Falkenbergs
+Sat Jul 9 2016,Hacken,4-2,?,Hammarby
+Sun Jul 10 2016,Goteborg,4-1,?,Sundsvall
+Sun Jul 10 2016,Ostersunds,1-0,?,Jonkopings
+Sun Jul 10 2016,Helsingborg,2-4,?,Elfsborg
+Sun Jul 10 2016,Kalmar,1-1,?,AIK
+Mon Jul 11 2016,Malmo FF,1-0,?,Orebro
+Sat Jul 16 2016,Norrkoping,3-3,?,Ostersunds
+Sat Jul 16 2016,Sundsvall,0-2,?,Helsingborg
+Sun Jul 17 2016,Elfsborg,1-1,?,Goteborg
+Sun Jul 17 2016,AIK,1-1,?,Malmo FF
+Sun Jul 17 2016,Hammarby,3-3,?,Falkenbergs
+Sun Jul 17 2016,Orebro,0-0,?,Hacken
+Mon Jul 18 2016,Gefle,4-2,?,Kalmar
+Mon Jul 18 2016,Jonkopings,1-0,?,Djurgarden
+Sat Jul 23 2016,Falkenbergs,1-3,?,Orebro
+Sat Jul 23 2016,Malmo FF,1-1,?,Kalmar
+Sat Jul 23 2016,Norrkoping,2-0,?,Gefle
+Sun Jul 24 2016,Hammarby,0-3,?,AIK
+Sun Jul 24 2016,Goteborg,2-1,?,Jonkopings
+Sun Jul 24 2016,Helsingborg,0-2,?,Hacken
+Mon Jul 25 2016,Djurgarden,1-3,?,Sundsvall
+Mon Jul 25 2016,Elfsborg,3-1,?,Ostersunds
+Sat Jul 30 2016,Gefle,0-2,?,Hammarby
+Sat Jul 30 2016,Ostersunds,0-0,?,Elfsborg
+Sat Jul 30 2016,Sundsvall,1-2,?,Norrkoping
+Sun Jul 31 2016,Jonkopings,1-1,?,Goteborg
+Sun Jul 31 2016,AIK,2-0,?,Falkenbergs
+Sun Jul 31 2016,Hacken,1-1,?,Helsingborg
+Mon Aug 1 2016,Kalmar,2-1,?,Djurgarden
+Mon Aug 1 2016,Orebro,0-3,?,Malmo FF
+Fri Aug 5 2016,Helsingborg,2-3,?,Gefle
+Sat Aug 6 2016,Falkenbergs,0-5,?,Jonkopings
+Sat Aug 6 2016,Ostersunds,4-0,?,Sundsvall
+Sun Aug 7 2016,Malmo FF,2-0,?,AIK
+Sun Aug 7 2016,Elfsborg,2-4,?,Hacken
+Sun Aug 7 2016,Hammarby,2-1,?,Kalmar
+Sun Aug 7 2016,Norrkoping,3-1,?,Orebro
+Mon Aug 8 2016,Djurgarden,3-1,?,Goteborg
+Wed Aug 10 2016,Norrkoping,3-1,?,Hacken
+Fri Aug 12 2016,Goteborg,2-0,?,Falkenbergs
+Sat Aug 13 2016,AIK,2-1,?,Helsingborg
+Sat Aug 13 2016,Gefle,0-0,?,Norrkoping
+Sun Aug 14 2016,Kalmar,1-1,?,Malmo FF
+Sun Aug 14 2016,Djurgarden,2-2,?,Elfsborg
+Sun Aug 14 2016,Hacken,0-1,?,Orebro
+Mon Aug 15 2016,Jonkopings,1-1,?,Ostersunds
+Mon Aug 15 2016,Sundsvall,0-0,?,Hammarby
+Sat Aug 20 2016,Helsingborg,0-1,?,Kalmar
+Sat Aug 20 2016,Ostersunds,1-0,?,Djurgarden
+Sun Aug 21 2016,Hammarby,2-0,?,Goteborg
+Sun Aug 21 2016,Falkenbergs,1-1,?,Gefle
+Sun Aug 21 2016,Orebro,0-2,?,AIK
+Mon Aug 22 2016,Elfsborg,4-0,?,Sundsvall
+Mon Aug 22 2016,Malmo FF,4-1,?,Jonkopings
+Sat Aug 27 2016,Djurgarden,2-1,?,Gefle
+Sat Aug 27 2016,Kalmar,0-1,?,Norrkoping
+Sun Aug 28 2016,AIK,0-0,?,Hammarby
+Sun Aug 28 2016,Hacken,3-1,?,Ostersunds
+Sun Aug 28 2016,Jonkopings,1-0,?,Elfsborg
+Sun Aug 28 2016,Goteborg,2-0,?,Helsingborg
+Sun Aug 28 2016,Orebro,3-2,?,Falkenbergs
+Sun Aug 28 2016,Sundsvall,0-1,?,Malmo FF
+Sat Sep 10 2016,Elfsborg,1-1,?,Kalmar
+Sun Sep 11 2016,Falkenbergs,1-2,?,Djurgarden
+Sun Sep 11 2016,Sundsvall,1-3,?,AIK
+Sun Sep 11 2016,Norrkoping,5-1,?,Jonkopings
+Sun Sep 11 2016,Ostersunds,2-0,?,Helsingborg
+Mon Sep 12 2016,Gefle,2-2,?,Hacken
+Mon Sep 12 2016,Hammarby,1-1,?,Orebro
+Mon Sep 12 2016,Malmo FF,3-1,?,Goteborg
+Fri Sep 16 2016,Jonkopings,0-1,?,Hammarby
+Fri Sep 16 2016,Orebro,3-3,?,Sundsvall
+Sat Sep 17 2016,Kalmar,2-0,?,Ostersunds
+Sun Sep 18 2016,AIK,1-0,?,Gefle
+Sun Sep 18 2016,Elfsborg,5-0,?,Falkenbergs
+Sun Sep 18 2016,Helsingborg,1-2,?,Norrkoping
+Sun Sep 18 2016,Djurgarden,3-1,?,Malmo FF
+Mon Sep 19 2016,Hacken,2-2,?,Goteborg
+Wed Sep 21 2016,Djurgarden,0-3,?,AIK
+Wed Sep 21 2016,Gefle,0-1,?,Jonkopings
+Wed Sep 21 2016,Helsingborg,2-1,?,Sundsvall
+Wed Sep 21 2016,Kalmar,3-0,?,Falkenbergs
+Wed Sep 21 2016,Ostersunds,0-2,?,Norrkoping
+Thu Sep 22 2016,Goteborg,3-2,?,Orebro
+Thu Sep 22 2016,Hammarby,2-3,?,Hacken
+Thu Sep 22 2016,Malmo FF,1-0,?,Elfsborg
+Sat Sep 24 2016,Jonkopings,0-1,?,Kalmar
+Sun Sep 25 2016,Elfsborg,2-2,?,AIK
+Sun Sep 25 2016,Malmo FF,2-0,?,Helsingborg
+Mon Sep 26 2016,Falkenbergs,0-2,?,Hammarby
+Mon Sep 26 2016,Goteborg,2-0,?,Ostersunds
+Mon Sep 26 2016,Norrkoping,1-3,?,Djurgarden
+Mon Sep 26 2016,Orebro,2-2,?,Gefle
+Mon Sep 26 2016,Sundsvall,0-0,?,Hacken
+Fri Sep 30 2016,Helsingborg,0-1,?,Hammarby
+Sat Oct 1 2016,Sundsvall,3-1,?,Jonkopings
+Sat Oct 1 2016,Hacken,2-4,?,Malmo FF
+Sat Oct 1 2016,Ostersunds,6-1,?,Falkenbergs
+Sun Oct 2 2016,Gefle,2-2,?,Elfsborg
+Sun Oct 2 2016,Kalmar,4-2,?,Goteborg
+Sun Oct 2 2016,AIK,6-0,?,Norrkoping
+Sun Oct 2 2016,Djurgarden,3-2,?,Orebro
+Sat Oct 15 2016,Falkenbergs,1-1,?,Sundsvall
+Sun Oct 16 2016,AIK,2-0,?,Ostersunds
+Sun Oct 16 2016,Norrkoping,1-2,?,Malmo FF
+Sun Oct 16 2016,Orebro,2-1,?,Kalmar
+Sun Oct 16 2016,Elfsborg,1-0,?,Helsingborg
+Sun Oct 16 2016,Jonkopings,1-1,?,Hacken
+Mon Oct 17 2016,Goteborg,3-3,?,Gefle
+Mon Oct 17 2016,Hammarby,4-2,?,Djurgarden
+Fri Oct 21 2016,Gefle,1-1,?,Sundsvall
+Sat Oct 22 2016,Malmo FF,0-3,?,Ostersunds
+Sun Oct 23 2016,Norrkoping,2-1,?,Falkenbergs
+Sun Oct 23 2016,Orebro,0-0,?,Helsingborg
+Sun Oct 23 2016,Hacken,2-3,?,Kalmar
+Sun Oct 23 2016,Hammarby,2-4,?,Elfsborg
+Mon Oct 24 2016,Djurgarden,0-2,?,Jonkopings
+Mon Oct 24 2016,Goteborg,1-0,?,AIK
+Wed Oct 26 2016,Elfsborg,2-1,?,Norrkoping
+Wed Oct 26 2016,Falkenbergs,0-3,?,Malmo FF
+Wed Oct 26 2016,Kalmar,0-1,?,Gefle
+Wed Oct 26 2016,Ostersunds,2-0,?,Hammarby
+Thu Oct 27 2016,AIK,2-1,?,Hacken
+Thu Oct 27 2016,Helsingborg,1-2,?,Djurgarden
+Thu Oct 27 2016,Jonkopings,1-1,?,Orebro
+Thu Oct 27 2016,Sundsvall,1-3,?,Goteborg
+Sun Oct 30 2016,Hammarby,1-1,?,Norrkoping
+Sun Oct 30 2016,Kalmar,2-0,?,Sundsvall
+Sun Oct 30 2016,Falkenbergs,1-4,?,Helsingborg
+Sun Oct 30 2016,Gefle,1-0,?,Malmo FF
+Mon Oct 31 2016,Djurgarden,1-0,?,Hacken
+Mon Oct 31 2016,Goteborg,2-2,?,Elfsborg
+Mon Oct 31 2016,Jonkopings,0-0,?,AIK
+Mon Oct 31 2016,Orebro,1-5,?,Ostersunds
+Sun Nov 6 2016,AIK,3-1,?,Kalmar
+Sun Nov 6 2016,Elfsborg,2-1,?,Orebro
+Sun Nov 6 2016,Hacken,7-0,?,Falkenbergs
+Sun Nov 6 2016,Helsingborg,2-0,?,Jonkopings
+Sun Nov 6 2016,Malmo FF,3-0,?,Hammarby
+Sun Nov 6 2016,Norrkoping,3-1,?,Goteborg
+Sun Nov 6 2016,Ostersunds,2-4,?,Gefle
+Sun Nov 6 2016,Sundsvall,2-5,?,Djurgarden
+Thu Nov 17 2016,Halmstad,1-1,?,Helsingborg
+Sun Nov 20 2016,Helsingborg,1-2,?,Halmstad

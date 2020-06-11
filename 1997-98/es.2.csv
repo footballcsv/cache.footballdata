@@ -1,0 +1,463 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 30 1997,Leganes,1-0,1-0,Eibar
+Sat Aug 30 1997,Levante,0-1,0-0,Toledo
+Sat Aug 30 1997,Sevilla,5-1,3-1,Lleida
+Sun Aug 31 1997,Alaves,5-1,2-0,Albacete
+Sun Aug 31 1997,Ath Madrid B,1-1,1-0,Las Palmas
+Sun Aug 31 1997,Badajoz,1-1,0-0,Jaen
+Sun Aug 31 1997,Extremadura,1-0,0-0,Xerez
+Sun Aug 31 1997,Hercules,0-0,0-0,Vallecano
+Sun Aug 31 1997,Logrones,0-1,0-1,Orense
+Sun Aug 31 1997,Numancia,2-1,1-1,Elche
+Sun Aug 31 1997,Osasuna,0-1,0-0,Villarreal
+Sat Sep 6 1997,Albacete,3-0,1-0,Levante
+Sat Sep 6 1997,Eibar,2-1,0-0,Alaves
+Sat Sep 6 1997,Las Palmas,1-1,1-1,Leganes
+Sat Sep 6 1997,Lleida,0-2,0-1,Ath Madrid B
+Sat Sep 6 1997,Villarreal,2-1,2-1,Hercules
+Sun Sep 7 1997,Elche,0-1,0-1,Extremadura
+Sun Sep 7 1997,Jaen,1-1,0-0,Logrones
+Sun Sep 7 1997,Orense,0-1,0-0,Sevilla
+Sun Sep 7 1997,Toledo,1-0,0-0,Osasuna
+Sun Sep 7 1997,Vallecano,2-0,1-0,Numancia
+Sun Sep 7 1997,Xerez,0-0,0-0,Badajoz
+Sat Sep 13 1997,Ath Madrid B,1-0,1-0,Orense
+Sat Sep 13 1997,Levante,1-2,0-0,Eibar
+Sat Sep 13 1997,Sevilla,4-0,2-0,Jaen
+Sun Sep 14 1997,Alaves,1-1,1-0,Las Palmas
+Sun Sep 14 1997,Badajoz,5-0,1-0,Elche
+Sun Sep 14 1997,Hercules,4-1,1-1,Toledo
+Sun Sep 14 1997,Leganes,0-0,0-0,Lleida
+Sun Sep 14 1997,Logrones,0-0,0-0,Xerez
+Sun Sep 14 1997,Numancia,0-3,0-1,Extremadura
+Sun Sep 14 1997,Osasuna,0-0,0-0,Albacete
+Sun Sep 14 1997,Vallecano,5-0,2-0,Villarreal
+Sat Sep 20 1997,Eibar,0-1,0-0,Osasuna
+Sat Sep 20 1997,Elche,5-0,1-0,Logrones
+Sat Sep 20 1997,Las Palmas,1-2,0-0,Levante
+Sat Sep 20 1997,Orense,4-0,0-0,Leganes
+Sun Sep 21 1997,Albacete,1-0,1-0,Hercules
+Sun Sep 21 1997,Extremadura,0-0,0-0,Badajoz
+Sun Sep 21 1997,Jaen,1-1,1-0,Ath Madrid B
+Sun Sep 21 1997,Lleida,1-2,1-2,Alaves
+Sun Sep 21 1997,Toledo,1-1,0-1,Vallecano
+Sun Sep 21 1997,Villarreal,0-1,0-0,Numancia
+Sun Sep 21 1997,Xerez,1-0,0-0,Sevilla
+Sat Sep 27 1997,Alaves,0-1,0-1,Orense
+Sat Sep 27 1997,Levante,1-1,1-1,Lleida
+Sat Sep 27 1997,Vallecano,0-0,0-0,Albacete
+Sun Sep 28 1997,Ath Madrid B,2-0,0-0,Xerez
+Sun Sep 28 1997,Hercules,0-0,0-0,Eibar
+Sun Sep 28 1997,Leganes,2-1,1-0,Jaen
+Sun Sep 28 1997,Logrones,1-1,0-0,Extremadura
+Sun Sep 28 1997,Numancia,0-0,0-0,Badajoz
+Sun Sep 28 1997,Osasuna,3-1,1-0,Las Palmas
+Sun Sep 28 1997,Sevilla,0-0,0-0,Elche
+Sun Sep 28 1997,Villarreal,1-1,0-0,Toledo
+Sat Oct 4 1997,Eibar,0-1,0-0,Vallecano
+Sat Oct 4 1997,Elche,3-1,1-0,Ath Madrid B
+Sat Oct 4 1997,Las Palmas,3-2,1-2,Hercules
+Sun Oct 5 1997,Albacete,1-1,1-1,Villarreal
+Sun Oct 5 1997,Badajoz,0-0,0-0,Logrones
+Sun Oct 5 1997,Extremadura,3-0,1-0,Sevilla
+Sun Oct 5 1997,Jaen,0-0,0-0,Alaves
+Sun Oct 5 1997,Lleida,2-1,0-1,Osasuna
+Sun Oct 5 1997,Orense,2-0,1-0,Levante
+Sun Oct 5 1997,Toledo,1-1,1-0,Numancia
+Sun Oct 5 1997,Xerez,3-0,1-0,Leganes
+Sat Oct 11 1997,Alaves,1-0,0-0,Xerez
+Sat Oct 11 1997,Ath Madrid B,3-1,1-1,Extremadura
+Sat Oct 11 1997,Hercules,4-3,4-0,Lleida
+Sun Oct 12 1997,Leganes,1-0,1-0,Elche
+Sun Oct 12 1997,Levante,2-0,1-0,Jaen
+Sun Oct 12 1997,Numancia,1-0,0-0,Logrones
+Sun Oct 12 1997,Osasuna,1-1,0-0,Orense
+Sun Oct 12 1997,Sevilla,1-1,0-1,Badajoz
+Sun Oct 12 1997,Toledo,2-2,1-1,Albacete
+Sun Oct 12 1997,Vallecano,3-3,1-1,Las Palmas
+Sun Oct 12 1997,Villarreal,1-0,0-0,Eibar
+Wed Oct 15 1997,Albacete,2-0,1-0,Numancia
+Wed Oct 15 1997,Badajoz,1-1,0-0,Ath Madrid B
+Wed Oct 15 1997,Eibar,3-3,2-1,Toledo
+Wed Oct 15 1997,Elche,0-1,0-0,Alaves
+Wed Oct 15 1997,Extremadura,0-0,0-0,Leganes
+Wed Oct 15 1997,Jaen,1-1,1-0,Osasuna
+Wed Oct 15 1997,Las Palmas,0-0,0-0,Villarreal
+Wed Oct 15 1997,Lleida,3-1,2-0,Vallecano
+Wed Oct 15 1997,Logrones,2-2,1-0,Sevilla
+Wed Oct 15 1997,Orense,2-0,1-0,Hercules
+Wed Oct 15 1997,Xerez,4-1,2-1,Levante
+Sat Oct 18 1997,Osasuna,2-0,0-0,Xerez
+Sat Oct 18 1997,Vallecano,0-0,0-0,Orense
+Sat Oct 18 1997,Villarreal,0-0,0-0,Lleida
+Sun Oct 19 1997,Alaves,0-1,0-0,Extremadura
+Sun Oct 19 1997,Albacete,1-1,0-0,Eibar
+Sun Oct 19 1997,Ath Madrid B,1-1,0-0,Logrones
+Sun Oct 19 1997,Hercules,1-0,1-0,Jaen
+Sun Oct 19 1997,Leganes,1-1,0-1,Badajoz
+Sun Oct 19 1997,Levante,3-3,0-1,Elche
+Sun Oct 19 1997,Numancia,1-1,0-1,Sevilla
+Sun Oct 19 1997,Toledo,2-2,1-2,Las Palmas
+Sat Oct 25 1997,Eibar,1-0,0-0,Numancia
+Sat Oct 25 1997,Extremadura,1-0,0-0,Levante
+Sat Oct 25 1997,Orense,0-0,0-0,Villarreal
+Sat Oct 25 1997,Sevilla,1-3,0-2,Ath Madrid B
+Sun Oct 26 1997,Badajoz,0-0,0-0,Alaves
+Sun Oct 26 1997,Elche,2-0,0-0,Osasuna
+Sun Oct 26 1997,Jaen,0-1,0-0,Vallecano
+Sun Oct 26 1997,Las Palmas,3-2,2-0,Albacete
+Sun Oct 26 1997,Lleida,2-1,0-0,Toledo
+Sun Oct 26 1997,Logrones,2-0,1-0,Leganes
+Sun Oct 26 1997,Xerez,0-0,0-0,Hercules
+Sat Nov 1 1997,Levante,1-1,0-1,Badajoz
+Sat Nov 1 1997,Osasuna,2-1,2-0,Extremadura
+Sat Nov 1 1997,Vallecano,0-0,0-0,Xerez
+Sun Nov 2 1997,Alaves,2-0,0-0,Logrones
+Sun Nov 2 1997,Albacete,0-1,0-0,Lleida
+Sun Nov 2 1997,Eibar,0-0,0-0,Las Palmas
+Sun Nov 2 1997,Hercules,2-1,1-0,Elche
+Sun Nov 2 1997,Leganes,1-0,0-0,Sevilla
+Sun Nov 2 1997,Numancia,0-0,0-0,Ath Madrid B
+Sun Nov 2 1997,Toledo,0-1,0-0,Orense
+Sun Nov 2 1997,Villarreal,1-1,0-1,Jaen
+Sat Nov 8 1997,Ath Madrid B,1-1,0-1,Leganes
+Sat Nov 8 1997,Extremadura,1-1,0-0,Hercules
+Sat Nov 8 1997,Las Palmas,5-1,1-0,Numancia
+Sat Nov 8 1997,Lleida,1-1,0-1,Eibar
+Sun Nov 9 1997,Elche,2-1,1-1,Vallecano
+Sun Nov 9 1997,Jaen,3-1,2-1,Toledo
+Sun Nov 9 1997,Logrones,0-0,0-0,Levante
+Sun Nov 9 1997,Orense,2-2,1-1,Albacete
+Sun Nov 9 1997,Sevilla,1-0,0-0,Alaves
+Sun Nov 9 1997,Xerez,1-1,1-0,Villarreal
+Wed Nov 12 1997,Alaves,2-1,0-0,Ath Madrid B
+Wed Nov 12 1997,Albacete,2-2,2-0,Jaen
+Wed Nov 12 1997,Eibar,3-0,2-0,Orense
+Wed Nov 12 1997,Hercules,3-1,1-1,Badajoz
+Wed Nov 12 1997,Las Palmas,0-0,0-0,Lleida
+Wed Nov 12 1997,Levante,0-0,0-0,Sevilla
+Wed Nov 12 1997,Numancia,1-1,0-0,Leganes
+Wed Nov 12 1997,Osasuna,1-0,0-0,Logrones
+Wed Nov 12 1997,Toledo,0-0,0-0,Xerez
+Wed Nov 12 1997,Vallecano,5-2,4-1,Extremadura
+Wed Nov 12 1997,Villarreal,1-1,1-0,Elche
+Sat Nov 15 1997,Elche,1-1,0-1,Toledo
+Sat Nov 15 1997,Leganes,1-2,0-1,Alaves
+Sun Nov 16 1997,Ath Madrid B,3-1,1-1,Levante
+Sun Nov 16 1997,Badajoz,1-3,0-3,Vallecano
+Sun Nov 16 1997,Extremadura,0-0,0-0,Villarreal
+Sun Nov 16 1997,Jaen,0-1,0-1,Eibar
+Sun Nov 16 1997,Lleida,3-0,1-0,Numancia
+Sun Nov 16 1997,Logrones,0-1,0-0,Hercules
+Sun Nov 16 1997,Orense,1-1,1-1,Las Palmas
+Sun Nov 16 1997,Sevilla,2-0,1-0,Osasuna
+Sun Nov 16 1997,Xerez,0-1,0-0,Albacete
+Sat Nov 22 1997,Albacete,2-0,2-0,Elche
+Sat Nov 22 1997,Las Palmas,3-0,2-0,Jaen
+Sat Nov 22 1997,Osasuna,3-0,0-0,Ath Madrid B
+Sun Nov 23 1997,Eibar,3-0,1-0,Xerez
+Sun Nov 23 1997,Hercules,1-0,0-0,Sevilla
+Sun Nov 23 1997,Levante,0-1,0-1,Leganes
+Sun Nov 23 1997,Lleida,2-1,1-0,Orense
+Sun Nov 23 1997,Numancia,0-2,0-1,Alaves
+Sun Nov 23 1997,Toledo,0-1,0-0,Extremadura
+Sun Nov 23 1997,Vallecano,2-1,1-0,Logrones
+Sun Nov 23 1997,Villarreal,1-0,0-0,Badajoz
+Sat Nov 29 1997,Ath Madrid B,3-1,1-1,Hercules
+Sat Nov 29 1997,Elche,0-4,0-0,Eibar
+Sat Nov 29 1997,Jaen,1-2,0-1,Lleida
+Sat Nov 29 1997,Orense,1-1,0-0,Numancia
+Sat Nov 29 1997,Xerez,0-3,0-0,Las Palmas
+Sun Nov 30 1997,Alaves,1-0,1-0,Levante
+Sun Nov 30 1997,Badajoz,0-1,0-0,Toledo
+Sun Nov 30 1997,Extremadura,2-0,2-0,Albacete
+Sun Nov 30 1997,Leganes,0-0,0-0,Osasuna
+Sun Nov 30 1997,Logrones,3-1,1-1,Villarreal
+Sun Nov 30 1997,Sevilla,3-2,2-0,Vallecano
+Sat Dec 6 1997,Eibar,0-0,0-0,Extremadura
+Sat Dec 6 1997,Hercules,1-3,0-0,Leganes
+Sat Dec 6 1997,Las Palmas,4-3,2-1,Elche
+Sat Dec 6 1997,Vallecano,1-0,0-0,Ath Madrid B
+Sun Dec 7 1997,Albacete,1-2,1-2,Badajoz
+Sun Dec 7 1997,Lleida,2-0,2-0,Xerez
+Sun Dec 7 1997,Numancia,3-1,1-1,Levante
+Sun Dec 7 1997,Orense,1-1,0-1,Jaen
+Sun Dec 7 1997,Osasuna,0-1,0-0,Alaves
+Sun Dec 7 1997,Toledo,0-0,0-0,Logrones
+Sun Dec 7 1997,Villarreal,3-0,0-0,Sevilla
+Sat Dec 13 1997,Ath Madrid B,1-1,1-0,Villarreal
+Sat Dec 13 1997,Badajoz,1-0,0-0,Eibar
+Sat Dec 13 1997,Leganes,0-1,0-0,Vallecano
+Sat Dec 13 1997,Levante,0-2,0-0,Osasuna
+Sat Dec 13 1997,Xerez,0-1,0-0,Orense
+Sun Dec 14 1997,Alaves,1-2,0-1,Hercules
+Sun Dec 14 1997,Elche,0-0,0-0,Lleida
+Sun Dec 14 1997,Extremadura,1-1,1-0,Las Palmas
+Sun Dec 14 1997,Jaen,1-0,0-0,Numancia
+Sun Dec 14 1997,Logrones,1-2,1-0,Albacete
+Sun Dec 14 1997,Sevilla,2-0,0-0,Toledo
+Wed Dec 17 1997,Albacete,1-0,0-0,Sevilla
+Wed Dec 17 1997,Eibar,2-1,1-0,Logrones
+Wed Dec 17 1997,Hercules,1-1,0-0,Levante
+Wed Dec 17 1997,Jaen,1-1,1-1,Xerez
+Wed Dec 17 1997,Las Palmas,2-0,0-0,Badajoz
+Wed Dec 17 1997,Lleida,2-0,0-0,Extremadura
+Wed Dec 17 1997,Numancia,0-0,0-0,Osasuna
+Wed Dec 17 1997,Orense,2-1,0-0,Elche
+Wed Dec 17 1997,Toledo,0-1,0-0,Ath Madrid B
+Wed Dec 17 1997,Vallecano,0-0,0-0,Alaves
+Wed Dec 17 1997,Villarreal,3-1,1-0,Leganes
+Sat Dec 20 1997,Alaves,5-1,3-0,Villarreal
+Sat Dec 20 1997,Leganes,3-1,2-0,Toledo
+Sun Dec 21 1997,Ath Madrid B,2-0,1-0,Albacete
+Sun Dec 21 1997,Badajoz,1-0,1-0,Lleida
+Sun Dec 21 1997,Elche,1-0,0-0,Jaen
+Sun Dec 21 1997,Extremadura,3-1,1-0,Orense
+Sun Dec 21 1997,Levante,1-0,0-0,Vallecano
+Sun Dec 21 1997,Logrones,0-1,0-0,Las Palmas
+Sun Dec 21 1997,Numancia,1-1,0-1,Xerez
+Sun Dec 21 1997,Osasuna,2-1,1-0,Hercules
+Sun Dec 21 1997,Sevilla,1-1,1-0,Eibar
+Sat Jan 3 1998,Las Palmas,1-1,0-1,Sevilla
+Sat Jan 3 1998,Orense,0-3,0-1,Badajoz
+Sat Jan 3 1998,Vallecano,0-1,0-0,Osasuna
+Sat Jan 3 1998,Villarreal,3-2,2-1,Levante
+Sun Jan 4 1998,Albacete,0-2,0-1,Leganes
+Sun Jan 4 1998,Eibar,1-0,0-0,Ath Madrid B
+Sun Jan 4 1998,Hercules,0-1,0-0,Numancia
+Sun Jan 4 1998,Jaen,2-4,1-1,Extremadura
+Sun Jan 4 1998,Lleida,0-0,0-0,Logrones
+Sun Jan 4 1998,Toledo,0-0,0-0,Alaves
+Sun Jan 4 1998,Xerez,1-1,0-1,Elche
+Sat Jan 10 1998,Albacete,1-1,0-1,Alaves
+Sat Jan 10 1998,Eibar,0-0,0-0,Leganes
+Sat Jan 10 1998,Lleida,3-0,1-0,Sevilla
+Sat Jan 10 1998,Villarreal,1-0,1-0,Osasuna
+Sun Jan 11 1998,Elche,3-0,0-0,Numancia
+Sun Jan 11 1998,Jaen,2-1,2-1,Badajoz
+Sun Jan 11 1998,Las Palmas,3-3,0-2,Ath Madrid B
+Sun Jan 11 1998,Orense,0-0,0-0,Logrones
+Sun Jan 11 1998,Toledo,1-0,1-0,Levante
+Sun Jan 11 1998,Vallecano,0-0,0-0,Hercules
+Sun Jan 11 1998,Xerez,1-3,1-1,Extremadura
+Sat Jan 17 1998,Ath Madrid B,3-1,2-1,Lleida
+Sat Jan 17 1998,Hercules,2-1,1-1,Villarreal
+Sat Jan 17 1998,Numancia,0-1,0-0,Vallecano
+Sat Jan 17 1998,Osasuna,1-1,0-0,Toledo
+Sat Jan 17 1998,Sevilla,1-0,1-0,Orense
+Sun Jan 18 1998,Alaves,1-0,1-0,Eibar
+Sun Jan 18 1998,Badajoz,0-0,0-0,Xerez
+Sun Jan 18 1998,Extremadura,3-2,3-1,Elche
+Sun Jan 18 1998,Leganes,0-0,0-0,Las Palmas
+Sun Jan 18 1998,Levante,1-3,0-2,Albacete
+Sun Jan 18 1998,Logrones,1-2,1-1,Jaen
+Sat Jan 24 1998,Eibar,1-1,1-0,Levante
+Sat Jan 24 1998,Orense,3-4,2-3,Ath Madrid B
+Sat Jan 24 1998,Xerez,0-0,0-0,Logrones
+Sun Jan 25 1998,Albacete,2-1,2-0,Osasuna
+Sun Jan 25 1998,Elche,0-1,0-0,Badajoz
+Sun Jan 25 1998,Extremadura,0-0,0-0,Numancia
+Sun Jan 25 1998,Jaen,1-0,1-0,Sevilla
+Sun Jan 25 1998,Las Palmas,4-0,2-0,Alaves
+Sun Jan 25 1998,Lleida,0-2,0-0,Leganes
+Sun Jan 25 1998,Toledo,1-1,1-0,Hercules
+Sun Jan 25 1998,Villarreal,3-0,1-0,Vallecano
+Sat Jan 31 1998,Ath Madrid B,1-1,0-0,Jaen
+Sat Jan 31 1998,Hercules,3-1,1-0,Albacete
+Sat Jan 31 1998,Osasuna,1-1,0-1,Eibar
+Sat Jan 31 1998,Vallecano,2-1,0-0,Toledo
+Sun Feb 1 1998,Alaves,2-1,1-0,Lleida
+Sun Feb 1 1998,Badajoz,2-0,1-0,Extremadura
+Sun Feb 1 1998,Leganes,1-2,0-0,Orense
+Sun Feb 1 1998,Levante,0-2,0-0,Las Palmas
+Sun Feb 1 1998,Logrones,0-1,0-0,Elche
+Sun Feb 1 1998,Numancia,1-2,0-0,Villarreal
+Sun Feb 1 1998,Sevilla,2-0,0-0,Xerez
+Wed Feb 4 1998,Badajoz,2-1,0-0,Osasuna
+Sat Feb 7 1998,Albacete,0-1,0-1,Vallecano
+Sat Feb 7 1998,Las Palmas,3-0,1-0,Osasuna
+Sat Feb 7 1998,Lleida,0-3,0-1,Levante
+Sat Feb 7 1998,Orense,0-0,0-0,Alaves
+Sun Feb 8 1998,Badajoz,2-2,1-0,Numancia
+Sun Feb 8 1998,Eibar,0-1,0-1,Hercules
+Sun Feb 8 1998,Elche,0-2,0-1,Sevilla
+Sun Feb 8 1998,Extremadura,2-0,1-0,Logrones
+Sun Feb 8 1998,Jaen,1-2,0-2,Leganes
+Sun Feb 8 1998,Toledo,2-1,2-0,Villarreal
+Sun Feb 8 1998,Xerez,2-1,2-0,Ath Madrid B
+Sat Feb 14 1998,Hercules,4-0,2-0,Las Palmas
+Sat Feb 14 1998,Leganes,1-1,1-1,Xerez
+Sat Feb 14 1998,Osasuna,0-1,0-1,Lleida
+Sat Feb 14 1998,Sevilla,3-1,2-1,Extremadura
+Sun Feb 15 1998,Alaves,1-0,1-0,Jaen
+Sun Feb 15 1998,Ath Madrid B,3-0,1-0,Elche
+Sun Feb 15 1998,Levante,1-0,0-0,Orense
+Sun Feb 15 1998,Logrones,2-1,0-0,Badajoz
+Sun Feb 15 1998,Numancia,1-0,0-0,Toledo
+Sun Feb 15 1998,Vallecano,0-1,0-0,Eibar
+Sun Feb 15 1998,Villarreal,1-0,1-0,Albacete
+Sat Feb 21 1998,Eibar,0-0,0-0,Villarreal
+Sat Feb 21 1998,Extremadura,2-1,0-1,Ath Madrid B
+Sun Feb 22 1998,Albacete,3-1,2-1,Toledo
+Sun Feb 22 1998,Badajoz,2-0,1-0,Sevilla
+Sun Feb 22 1998,Elche,1-1,0-1,Leganes
+Sun Feb 22 1998,Jaen,0-0,0-0,Levante
+Sun Feb 22 1998,Las Palmas,2-0,0-0,Vallecano
+Sun Feb 22 1998,Lleida,2-1,0-0,Hercules
+Sun Feb 22 1998,Logrones,2-0,0-0,Numancia
+Sun Feb 22 1998,Orense,2-0,1-0,Osasuna
+Sun Feb 22 1998,Xerez,0-1,0-0,Alaves
+Sat Feb 28 1998,Hercules,2-1,0-1,Orense
+Sat Feb 28 1998,Osasuna,2-0,0-0,Jaen
+Sat Feb 28 1998,Vallecano,2-0,2-0,Lleida
+Sun Mar 1 1998,Alaves,0-0,0-0,Elche
+Sun Mar 1 1998,Ath Madrid B,1-2,0-0,Badajoz
+Sun Mar 1 1998,Leganes,3-2,2-1,Extremadura
+Sun Mar 1 1998,Levante,0-1,0-1,Xerez
+Sun Mar 1 1998,Numancia,1-1,0-1,Albacete
+Sun Mar 1 1998,Sevilla,1-1,1-0,Logrones
+Sun Mar 1 1998,Toledo,2-0,0-0,Eibar
+Sun Mar 1 1998,Villarreal,0-0,0-0,Las Palmas
+Sat Mar 7 1998,Badajoz,1-1,1-0,Leganes
+Sat Mar 7 1998,Eibar,2-0,0-0,Albacete
+Sat Mar 7 1998,Jaen,0-0,0-0,Hercules
+Sat Mar 7 1998,Las Palmas,1-2,0-1,Toledo
+Sun Mar 8 1998,Elche,1-0,1-0,Levante
+Sun Mar 8 1998,Extremadura,2-1,1-0,Alaves
+Sun Mar 8 1998,Lleida,0-2,0-0,Villarreal
+Sun Mar 8 1998,Logrones,1-0,1-0,Ath Madrid B
+Sun Mar 8 1998,Orense,2-0,0-0,Vallecano
+Sun Mar 8 1998,Sevilla,1-0,1-0,Numancia
+Sun Mar 8 1998,Xerez,0-2,0-2,Osasuna
+Wed Mar 11 1998,Alaves,1-0,0-0,Badajoz
+Wed Mar 11 1998,Ath Madrid B,0-1,0-0,Sevilla
+Wed Mar 11 1998,Hercules,0-0,0-0,Xerez
+Wed Mar 11 1998,Leganes,1-1,1-0,Logrones
+Wed Mar 11 1998,Levante,0-1,0-1,Extremadura
+Wed Mar 11 1998,Numancia,0-0,0-0,Eibar
+Wed Mar 11 1998,Osasuna,0-0,0-0,Elche
+Wed Mar 11 1998,Toledo,1-0,0-0,Lleida
+Wed Mar 11 1998,Vallecano,0-1,0-1,Jaen
+Wed Mar 11 1998,Villarreal,2-0,0-0,Orense
+Thu Mar 12 1998,Albacete,0-2,0-1,Las Palmas
+Sat Mar 14 1998,Ath Madrid B,4-2,3-1,Numancia
+Sat Mar 14 1998,Jaen,1-2,1-0,Villarreal
+Sat Mar 14 1998,Logrones,1-1,1-1,Alaves
+Sun Mar 15 1998,Badajoz,2-0,0-0,Levante
+Sun Mar 15 1998,Elche,1-1,1-1,Hercules
+Sun Mar 15 1998,Extremadura,1-1,1-0,Osasuna
+Sun Mar 15 1998,Las Palmas,4-1,1-1,Eibar
+Sun Mar 15 1998,Lleida,2-0,1-0,Albacete
+Sun Mar 15 1998,Orense,0-0,0-0,Toledo
+Sun Mar 15 1998,Sevilla,3-2,1-0,Leganes
+Sun Mar 15 1998,Xerez,1-0,0-0,Vallecano
+Sat Mar 21 1998,Eibar,1-0,0-0,Lleida
+Sat Mar 21 1998,Leganes,2-1,0-0,Ath Madrid B
+Sat Mar 21 1998,Vallecano,1-2,1-0,Elche
+Sun Mar 22 1998,Alaves,1-0,0-0,Sevilla
+Sun Mar 22 1998,Albacete,1-0,1-0,Orense
+Sun Mar 22 1998,Hercules,0-1,0-1,Extremadura
+Sun Mar 22 1998,Levante,1-2,0-2,Logrones
+Sun Mar 22 1998,Numancia,0-0,0-0,Las Palmas
+Sun Mar 22 1998,Osasuna,1-2,1-1,Badajoz
+Sun Mar 22 1998,Toledo,0-0,0-0,Jaen
+Sun Mar 22 1998,Villarreal,3-0,2-0,Xerez
+Sat Mar 28 1998,Ath Madrid B,0-1,0-0,Alaves
+Sat Mar 28 1998,Elche,2-2,0-1,Villarreal
+Sat Mar 28 1998,Lleida,5-2,2-1,Las Palmas
+Sun Mar 29 1998,Badajoz,2-0,0-0,Hercules
+Sun Mar 29 1998,Extremadura,3-1,2-0,Vallecano
+Sun Mar 29 1998,Jaen,1-0,0-0,Albacete
+Sun Mar 29 1998,Leganes,0-1,0-0,Numancia
+Sun Mar 29 1998,Logrones,0-0,0-0,Osasuna
+Sun Mar 29 1998,Orense,1-0,0-0,Eibar
+Sun Mar 29 1998,Sevilla,0-4,0-2,Levante
+Sun Mar 29 1998,Xerez,0-2,0-0,Toledo
+Sat Apr 4 1998,Alaves,3-0,3-0,Leganes
+Sat Apr 4 1998,Hercules,1-2,0-0,Logrones
+Sat Apr 4 1998,Las Palmas,2-0,1-0,Orense
+Sat Apr 4 1998,Osasuna,3-0,1-0,Sevilla
+Sun Apr 5 1998,Albacete,1-0,0-0,Xerez
+Sun Apr 5 1998,Eibar,0-0,0-0,Jaen
+Sun Apr 5 1998,Levante,2-1,1-0,Ath Madrid B
+Sun Apr 5 1998,Numancia,1-0,0-0,Lleida
+Sun Apr 5 1998,Toledo,2-0,1-0,Elche
+Sun Apr 5 1998,Vallecano,4-3,1-1,Badajoz
+Sun Apr 5 1998,Villarreal,0-2,0-0,Extremadura
+Wed Apr 8 1998,Alaves,3-0,1-0,Numancia
+Wed Apr 8 1998,Ath Madrid B,5-0,3-0,Osasuna
+Wed Apr 8 1998,Elche,3-0,1-0,Albacete
+Wed Apr 8 1998,Sevilla,1-0,0-0,Hercules
+Wed Apr 8 1998,Xerez,1-0,1-0,Eibar
+Thu Apr 9 1998,Badajoz,0-0,0-0,Villarreal
+Thu Apr 9 1998,Extremadura,0-1,0-1,Toledo
+Thu Apr 9 1998,Jaen,1-4,1-1,Las Palmas
+Thu Apr 9 1998,Leganes,4-4,1-2,Levante
+Thu Apr 9 1998,Logrones,3-1,0-1,Vallecano
+Thu Apr 9 1998,Orense,0-0,0-0,Lleida
+Sat Apr 11 1998,Hercules,2-1,2-0,Ath Madrid B
+Sat Apr 11 1998,Lleida,1-1,0-0,Jaen
+Sat Apr 11 1998,Osasuna,2-1,1-0,Leganes
+Sun Apr 12 1998,Albacete,0-2,0-1,Extremadura
+Sun Apr 12 1998,Eibar,1-0,0-0,Elche
+Sun Apr 12 1998,Las Palmas,2-0,2-0,Xerez
+Sun Apr 12 1998,Levante,0-1,0-1,Alaves
+Sun Apr 12 1998,Numancia,4-0,1-0,Orense
+Sun Apr 12 1998,Toledo,1-2,0-0,Badajoz
+Sun Apr 12 1998,Vallecano,1-3,0-1,Sevilla
+Sun Apr 12 1998,Villarreal,2-1,0-0,Logrones
+Sat Apr 18 1998,Ath Madrid B,1-1,0-1,Vallecano
+Sat Apr 18 1998,Elche,0-1,0-1,Las Palmas
+Sat Apr 18 1998,Extremadura,1-0,0-0,Eibar
+Sun Apr 19 1998,Alaves,1-0,0-0,Osasuna
+Sun Apr 19 1998,Badajoz,0-0,0-0,Albacete
+Sun Apr 19 1998,Jaen,1-1,0-1,Orense
+Sun Apr 19 1998,Leganes,2-1,2-1,Hercules
+Sun Apr 19 1998,Levante,1-1,1-1,Numancia
+Sun Apr 19 1998,Logrones,1-2,0-1,Toledo
+Sun Apr 19 1998,Sevilla,0-0,0-0,Villarreal
+Sun Apr 19 1998,Xerez,1-3,1-0,Lleida
+Sat Apr 25 1998,Hercules,1-1,0-0,Alaves
+Sat Apr 25 1998,Orense,1-2,1-0,Xerez
+Sat Apr 25 1998,Vallecano,1-0,1-0,Leganes
+Sun Apr 26 1998,Albacete,1-2,0-0,Logrones
+Sun Apr 26 1998,Eibar,3-1,1-1,Badajoz
+Sun Apr 26 1998,Las Palmas,2-1,1-1,Extremadura
+Sun Apr 26 1998,Lleida,2-0,1-0,Elche
+Sun Apr 26 1998,Numancia,2-2,0-0,Jaen
+Sun Apr 26 1998,Osasuna,0-1,0-0,Levante
+Sun Apr 26 1998,Toledo,1-0,0-0,Sevilla
+Sun Apr 26 1998,Villarreal,1-1,0-0,Ath Madrid B
+Sat May 2 1998,Badajoz,1-0,0-0,Las Palmas
+Sat May 2 1998,Elche,2-2,1-0,Orense
+Sat May 2 1998,Xerez,0-3,0-2,Jaen
+Sun May 3 1998,Alaves,3-0,1-0,Vallecano
+Sun May 3 1998,Ath Madrid B,2-1,2-0,Toledo
+Sun May 3 1998,Extremadura,3-0,2-0,Lleida
+Sun May 3 1998,Leganes,0-2,0-1,Villarreal
+Sun May 3 1998,Levante,0-0,0-0,Hercules
+Sun May 3 1998,Logrones,1-1,0-0,Eibar
+Sun May 3 1998,Osasuna,0-1,0-0,Numancia
+Wed May 6 1998,Sevilla,2-0,0-0,Albacete
+Sat May 9 1998,Lleida,2-0,1-0,Badajoz
+Sat May 9 1998,Orense,0-1,0-0,Extremadura
+Sat May 9 1998,Toledo,3-2,1-2,Leganes
+Sat May 9 1998,Villarreal,2-1,1-1,Alaves
+Sun May 10 1998,Albacete,1-1,1-1,Ath Madrid B
+Sun May 10 1998,Eibar,1-1,0-1,Sevilla
+Sun May 10 1998,Hercules,0-0,0-0,Osasuna
+Sun May 10 1998,Jaen,2-1,0-0,Elche
+Sun May 10 1998,Las Palmas,0-4,0-3,Logrones
+Sun May 10 1998,Vallecano,3-0,1-0,Levante
+Sun May 10 1998,Xerez,2-2,0-1,Numancia
+Fri May 15 1998,Levante,1-2,0-0,Villarreal
+Fri May 15 1998,Sevilla,1-1,0-1,Las Palmas
+Sat May 16 1998,Alaves,3-0,1-0,Toledo
+Sat May 16 1998,Ath Madrid B,2-0,0-0,Eibar
+Sat May 16 1998,Badajoz,2-0,1-0,Orense
+Sat May 16 1998,Elche,1-0,0-0,Xerez
+Sat May 16 1998,Extremadura,2-2,2-2,Jaen
+Sat May 16 1998,Leganes,0-2,0-1,Albacete
+Sat May 16 1998,Logrones,0-1,0-0,Lleida
+Sat May 16 1998,Numancia,0-0,0-0,Hercules
+Sat May 16 1998,Osasuna,1-3,1-0,Vallecano

@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 6 2011,Ajaccio,0-2,0-1,Toulouse
+Sat Aug 6 2011,Brest,2-2,2-2,Evian Thonon Gaillard
+Sat Aug 6 2011,Caen,1-0,1-0,Valenciennes
+Sat Aug 6 2011,Marseille,2-2,1-0,Sochaux
+Sat Aug 6 2011,Montpellier,3-1,1-1,Auxerre
+Sat Aug 6 2011,Nancy,1-1,0-0,Lille
+Sat Aug 6 2011,Nice,1-3,1-2,Lyon
+Sat Aug 6 2011,Paris SG,0-1,0-1,Lorient
+Sun Aug 7 2011,Bordeaux,1-2,0-2,St Etienne
+Sun Aug 7 2011,Dijon,1-5,1-2,Rennes
+Sat Aug 13 2011,Lorient,1-1,0-0,Bordeaux
+Sat Aug 13 2011,Lyon,1-1,0-0,Ajaccio
+Sat Aug 13 2011,Rennes,1-1,0-0,Paris SG
+Sat Aug 13 2011,Sochaux,1-2,0-1,Caen
+Sat Aug 13 2011,St Etienne,1-0,0-0,Nancy
+Sat Aug 13 2011,Toulouse,2-0,0-0,Dijon
+Sat Aug 13 2011,Valenciennes,0-0,0-0,Brest
+Sun Aug 14 2011,Auxerre,2-2,0-2,Marseille
+Sun Aug 14 2011,Evian Thonon Gaillard,1-0,0-0,Nice
+Sun Aug 14 2011,Lille,0-1,0-0,Montpellier
+Sat Aug 20 2011,Ajaccio,1-1,1-0,Evian Thonon Gaillard
+Sat Aug 20 2011,Bordeaux,1-1,1-0,Auxerre
+Sat Aug 20 2011,Brest,1-1,1-0,Lyon
+Sat Aug 20 2011,Caen,1-2,0-0,Lille
+Sat Aug 20 2011,Dijon,2-0,1-0,Lorient
+Sat Aug 20 2011,Nice,1-1,1-0,Toulouse
+Sun Aug 21 2011,Marseille,0-0,0-0,St Etienne
+Sun Aug 21 2011,Montpellier,4-0,1-0,Rennes
+Sun Aug 21 2011,Nancy,1-2,0-0,Sochaux
+Sun Aug 21 2011,Paris SG,2-1,1-1,Valenciennes
+Sat Aug 27 2011,Auxerre,4-1,1-0,Ajaccio
+Sat Aug 27 2011,Evian Thonon Gaillard,0-1,0-0,Dijon
+Sat Aug 27 2011,Lorient,2-1,0-1,Nancy
+Sat Aug 27 2011,Lyon,2-1,0-0,Montpellier
+Sat Aug 27 2011,Nice,0-0,0-0,Brest
+Sat Aug 27 2011,Valenciennes,1-2,1-0,Bordeaux
+Sun Aug 28 2011,Lille,3-2,1-0,Marseille
+Sun Aug 28 2011,Rennes,3-2,3-0,Caen
+Sun Aug 28 2011,Sochaux,2-1,2-1,St Etienne
+Sun Aug 28 2011,Toulouse,1-3,1-0,Paris SG
+Sat Sep 10 2011,Ajaccio,3-1,0-1,Valenciennes
+Sat Sep 10 2011,Bordeaux,0-0,0-0,Evian Thonon Gaillard
+Sat Sep 10 2011,Caen,0-1,0-0,Toulouse
+Sat Sep 10 2011,Dijon,1-2,1-1,Lyon
+Sat Sep 10 2011,Marseille,0-1,0-0,Rennes
+Sat Sep 10 2011,Sochaux,1-1,1-0,Lorient
+Sat Sep 10 2011,St Etienne,1-3,1-0,Lille
+Sun Sep 11 2011,Montpellier,1-0,0-0,Nice
+Sun Sep 11 2011,Nancy,0-0,0-0,Auxerre
+Sun Sep 11 2011,Paris SG,1-0,0-0,Brest
+Sat Sep 17 2011,Auxerre,1-1,1-1,Caen
+Sat Sep 17 2011,Brest,2-2,0-2,Montpellier
+Sat Sep 17 2011,Lille,2-2,0-0,Sochaux
+Sat Sep 17 2011,Lorient,3-0,1-0,St Etienne
+Sat Sep 17 2011,Nice,3-0,1-0,Ajaccio
+Sat Sep 17 2011,Toulouse,3-2,0-2,Bordeaux
+Sat Sep 17 2011,Valenciennes,4-0,0-0,Dijon
+Sun Sep 18 2011,Evian Thonon Gaillard,2-2,2-1,Paris SG
+Sun Sep 18 2011,Lyon,2-0,2-0,Marseille
+Sun Sep 18 2011,Rennes,1-1,1-0,Nancy
+Tue Sep 20 2011,Bordeaux,1-1,1-0,Lille
+Wed Sep 21 2011,Ajaccio,1-3,0-3,Montpellier
+Wed Sep 21 2011,Caen,1-0,1-0,Lyon
+Wed Sep 21 2011,Dijon,1-0,1-0,Brest
+Wed Sep 21 2011,Lorient,1-1,1-0,Auxerre
+Wed Sep 21 2011,Marseille,2-0,1-0,Evian Thonon Gaillard
+Wed Sep 21 2011,Nancy,1-1,1-0,Valenciennes
+Wed Sep 21 2011,Paris SG,2-1,1-0,Nice
+Wed Sep 21 2011,Sochaux,2-6,2-2,Rennes
+Wed Sep 21 2011,St Etienne,1-1,0-1,Toulouse
+Sat Sep 24 2011,Evian Thonon Gaillard,2-4,2-2,Caen
+Sat Sep 24 2011,Lille,1-1,1-0,Lorient
+Sat Sep 24 2011,Lyon,3-1,2-0,Bordeaux
+Sat Sep 24 2011,Montpellier,0-3,0-2,Paris SG
+Sat Sep 24 2011,Nice,1-1,0-1,Dijon
+Sat Sep 24 2011,Toulouse,1-0,0-0,Nancy
+Sat Sep 24 2011,Valenciennes,1-1,0-1,Marseille
+Sun Sep 25 2011,Auxerre,4-1,0-1,Sochaux
+Sun Sep 25 2011,Brest,1-1,0-0,Ajaccio
+Sun Sep 25 2011,Rennes,1-1,1-0,St Etienne
+Sat Oct 1 2011,Bordeaux,2-2,1-0,Montpellier
+Sat Oct 1 2011,Caen,1-1,0-0,Nice
+Sat Oct 1 2011,Dijon,1-1,1-1,Ajaccio
+Sat Oct 1 2011,Lorient,2-0,1-0,Valenciennes
+Sat Oct 1 2011,Nancy,1-1,0-0,Evian Thonon Gaillard
+Sat Oct 1 2011,Sochaux,3-0,1-0,Toulouse
+Sat Oct 1 2011,St Etienne,1-1,1-1,Auxerre
+Sun Oct 2 2011,Lille,2-0,2-0,Rennes
+Sun Oct 2 2011,Marseille,1-1,1-1,Brest
+Sun Oct 2 2011,Paris SG,2-0,0-0,Lyon
+Sat Oct 15 2011,Auxerre,1-3,1-0,Lille
+Sat Oct 15 2011,Brest,1-1,1-0,Caen
+Sat Oct 15 2011,Evian Thonon Gaillard,1-2,0-0,St Etienne
+Sat Oct 15 2011,Lyon,3-1,3-0,Nancy
+Sat Oct 15 2011,Montpellier,5-3,1-2,Dijon
+Sat Oct 15 2011,Nice,3-0,2-0,Bordeaux
+Sat Oct 15 2011,Toulouse,0-0,0-0,Marseille
+Sun Oct 16 2011,Ajaccio,1-3,1-1,Paris SG
+Sun Oct 16 2011,Rennes,2-0,1-0,Lorient
+Sun Oct 16 2011,Valenciennes,3-0,1-0,Sochaux
+Sat Oct 22 2011,Bordeaux,1-1,0-0,Brest
+Sat Oct 22 2011,Caen,1-3,0-2,Montpellier
+Sat Oct 22 2011,Lorient,0-0,0-0,Toulouse
+Sat Oct 22 2011,Marseille,2-0,1-0,Ajaccio
+Sat Oct 22 2011,Nancy,1-0,0-0,Nice
+Sat Oct 22 2011,Sochaux,1-1,0-0,Evian Thonon Gaillard
+Sat Oct 22 2011,St Etienne,1-0,0-0,Valenciennes
+Sun Oct 23 2011,Auxerre,0-1,0-0,Rennes
+Sun Oct 23 2011,Lille,3-1,1-1,Lyon
+Sun Oct 23 2011,Paris SG,2-0,1-0,Dijon
+Sat Oct 29 2011,Ajaccio,0-2,0-2,Bordeaux
+Sat Oct 29 2011,Brest,3-1,3-0,Lorient
+Sat Oct 29 2011,Dijon,2-3,0-2,Marseille
+Sat Oct 29 2011,Evian Thonon Gaillard,3-1,2-0,Auxerre
+Sat Oct 29 2011,Lyon,2-0,0-0,St Etienne
+Sat Oct 29 2011,Montpellier,2-0,0-0,Nancy
+Sat Oct 29 2011,Paris SG,4-2,1-1,Caen
+Sun Oct 30 2011,Nice,1-1,1-1,Sochaux
+Sun Oct 30 2011,Toulouse,1-0,1-0,Rennes
+Sun Oct 30 2011,Valenciennes,0-0,0-0,Lille
+Sat Nov 5 2011,Lille,1-1,0-1,Evian Thonon Gaillard
+Sun Nov 6 2011,Auxerre,2-0,0-0,Toulouse
+Sun Nov 6 2011,Bordeaux,1-1,1-1,Paris SG
+Sun Nov 6 2011,Caen,3-0,1-0,Dijon
+Sun Nov 6 2011,Lorient,2-0,0-0,Ajaccio
+Sun Nov 6 2011,Marseille,2-0,0-0,Nice
+Sun Nov 6 2011,Nancy,2-1,0-0,Brest
+Sun Nov 6 2011,Rennes,1-1,1-1,Valenciennes
+Sun Nov 6 2011,Sochaux,2-1,2-1,Lyon
+Sun Nov 6 2011,St Etienne,1-1,1-0,Montpellier
+Fri Nov 18 2011,Lyon,1-2,1-1,Rennes
+Fri Nov 18 2011,Toulouse,0-0,0-0,Lille
+Sat Nov 19 2011,Ajaccio,2-2,0-0,Caen
+Sat Nov 19 2011,Dijon,2-0,0-0,Bordeaux
+Sat Nov 19 2011,Evian Thonon Gaillard,2-1,1-0,Lorient
+Sat Nov 19 2011,Montpellier,1-0,0-0,Marseille
+Sat Nov 19 2011,Nice,0-2,0-2,St Etienne
+Sun Nov 20 2011,Brest,2-0,0-0,Sochaux
+Sun Nov 20 2011,Paris SG,0-1,0-0,Nancy
+Sun Nov 20 2011,Valenciennes,2-1,0-1,Auxerre
+Sat Nov 26 2011,Bordeaux,2-0,0-0,Caen
+Sat Nov 26 2011,Lille,2-0,1-0,Brest
+Sat Nov 26 2011,Nancy,1-2,1-1,Dijon
+Sat Nov 26 2011,Rennes,3-2,1-2,Evian Thonon Gaillard
+Sat Nov 26 2011,Sochaux,1-3,0-0,Montpellier
+Sat Nov 26 2011,St Etienne,3-1,2-0,Ajaccio
+Sat Nov 26 2011,Toulouse,2-0,1-0,Valenciennes
+Sun Nov 27 2011,Auxerre,0-3,0-1,Lyon
+Sun Nov 27 2011,Lorient,1-0,0-0,Nice
+Sun Nov 27 2011,Marseille,3-0,1-0,Paris SG
+Fri Dec 2 2011,Caen,1-2,1-1,Marseille
+Sat Dec 3 2011,Ajaccio,2-3,2-2,Lille
+Sat Dec 3 2011,Brest,2-2,2-1,St Etienne
+Sat Dec 3 2011,Dijon,0-0,0-0,Sochaux
+Sat Dec 3 2011,Evian Thonon Gaillard,2-1,2-0,Valenciennes
+Sat Dec 3 2011,Montpellier,4-0,1-0,Lorient
+Sat Dec 3 2011,Nice,2-0,2-0,Rennes
+Sun Dec 4 2011,Bordeaux,2-0,1-0,Nancy
+Sun Dec 4 2011,Lyon,3-2,1-0,Toulouse
+Sun Dec 4 2011,Paris SG,3-2,0-0,Auxerre
+Sat Dec 10 2011,Marseille,0-0,0-0,Bordeaux
+Sat Dec 10 2011,Nancy,2-2,1-1,Ajaccio
+Sat Dec 10 2011,Rennes,1-1,1-1,Brest
+Sat Dec 10 2011,Sochaux,0-1,0-1,Paris SG
+Sat Dec 10 2011,St Etienne,2-0,1-0,Caen
+Sat Dec 10 2011,Toulouse,2-1,1-0,Evian Thonon Gaillard
+Sat Dec 10 2011,Valenciennes,1-0,0-0,Montpellier
+Sun Dec 11 2011,Auxerre,2-1,1-1,Nice
+Sun Dec 11 2011,Lille,2-0,1-0,Dijon
+Sun Dec 11 2011,Lorient,0-1,0-0,Lyon
+Sat Dec 17 2011,Brest,1-0,1-0,Auxerre
+Sat Dec 17 2011,Caen,1-2,0-1,Nancy
+Sat Dec 17 2011,Dijon,1-2,0-1,St Etienne
+Sat Dec 17 2011,Lyon,2-1,1-1,Evian Thonon Gaillard
+Sat Dec 17 2011,Marseille,2-1,0-0,Lorient
+Sat Dec 17 2011,Montpellier,1-1,1-1,Toulouse
+Sat Dec 17 2011,Nice,2-0,0-0,Valenciennes
+Sun Dec 18 2011,Ajaccio,1-0,0-0,Rennes
+Sun Dec 18 2011,Bordeaux,1-0,1-0,Sochaux
+Sun Dec 18 2011,Paris SG,0-0,0-0,Lille
+Tue Dec 20 2011,Nancy,1-3,1-2,Marseille
+Wed Dec 21 2011,Auxerre,2-2,0-2,Dijon
+Wed Dec 21 2011,Evian Thonon Gaillard,4-2,0-0,Montpellier
+Wed Dec 21 2011,Lille,4-4,2-3,Nice
+Wed Dec 21 2011,Lorient,0-0,0-0,Caen
+Wed Dec 21 2011,Rennes,1-0,0-0,Bordeaux
+Wed Dec 21 2011,Sochaux,0-2,0-0,Ajaccio
+Wed Dec 21 2011,St Etienne,0-1,0-1,Paris SG
+Wed Dec 21 2011,Toulouse,0-0,0-0,Brest
+Wed Dec 21 2011,Valenciennes,1-0,1-0,Lyon
+Sat Jan 14 2012,Ajaccio,2-1,2-1,Auxerre
+Sat Jan 14 2012,Bordeaux,2-1,2-0,Valenciennes
+Sat Jan 14 2012,Brest,1-0,1-0,Nice
+Sat Jan 14 2012,Caen,0-2,0-1,Rennes
+Sat Jan 14 2012,Dijon,3-1,1-0,Evian Thonon Gaillard
+Sat Jan 14 2012,Montpellier,1-0,0-0,Lyon
+Sat Jan 14 2012,Nancy,2-2,1-0,Lorient
+Sat Jan 14 2012,Paris SG,3-1,1-0,Toulouse
+Sat Jan 14 2012,St Etienne,1-0,0-0,Sochaux
+Sun Jan 15 2012,Marseille,2-0,0-0,Lille
+Sat Jan 28 2012,Auxerre,1-3,0-0,Nancy
+Sat Jan 28 2012,Brest,0-1,0-1,Paris SG
+Sat Jan 28 2012,Lille,3-0,0-0,St Etienne
+Sat Jan 28 2012,Lorient,1-1,0-0,Sochaux
+Sat Jan 28 2012,Lyon,3-1,1-0,Dijon
+Sat Jan 28 2012,Nice,0-1,0-0,Montpellier
+Sat Jan 28 2012,Toulouse,1-0,1-0,Caen
+Sun Jan 29 2012,Evian Thonon Gaillard,0-0,0-0,Bordeaux
+Sun Jan 29 2012,Rennes,1-2,1-1,Marseille
+Sun Jan 29 2012,Valenciennes,1-2,0-1,Ajaccio
+Sat Feb 4 2012,Ajaccio,1-1,0-0,Nice
+Sat Feb 4 2012,Bordeaux,2-0,2-0,Toulouse
+Sat Feb 4 2012,Dijon,1-2,0-2,Valenciennes
+Sat Feb 4 2012,Montpellier,1-0,1-0,Brest
+Sat Feb 4 2012,Nancy,0-0,0-0,Rennes
+Sat Feb 4 2012,Paris SG,3-1,0-1,Evian Thonon Gaillard
+Sun Feb 5 2012,Marseille,2-2,2-2,Lyon
+Sat Feb 11 2012,Auxerre,1-1,1-0,Lorient
+Sat Feb 11 2012,Brest,1-1,0-0,Dijon
+Sat Feb 11 2012,Lyon,1-2,0-1,Caen
+Sat Feb 11 2012,Montpellier,3-0,0-0,Ajaccio
+Sat Feb 11 2012,Rennes,1-0,1-0,Sochaux
+Sat Feb 11 2012,Valenciennes,1-0,0-0,Nancy
+Sun Feb 12 2012,Lille,4-5,1-2,Bordeaux
+Sun Feb 12 2012,Nice,0-0,0-0,Paris SG
+Sun Feb 12 2012,Toulouse,0-1,0-0,St Etienne
+Sat Feb 18 2012,Ajaccio,0-0,0-0,Brest
+Sat Feb 18 2012,Caen,2-2,1-0,Evian Thonon Gaillard
+Sat Feb 18 2012,Dijon,3-0,1-0,Nice
+Sat Feb 18 2012,Lorient,0-1,0-0,Lille
+Sat Feb 18 2012,Marseille,1-1,1-0,Valenciennes
+Sat Feb 18 2012,Nancy,0-3,0-2,Toulouse
+Sat Feb 18 2012,Sochaux,0-0,0-0,Auxerre
+Sun Feb 19 2012,Bordeaux,1-0,1-0,Lyon
+Sun Feb 19 2012,Paris SG,2-2,1-1,Montpellier
+Sun Feb 19 2012,St Etienne,4-0,1-0,Rennes
+Wed Feb 22 2012,Caen,2-1,0-0,Auxerre
+Wed Feb 22 2012,Sochaux,0-1,0-0,Lille
+Wed Feb 22 2012,St Etienne,4-2,0-0,Lorient
+Sat Feb 25 2012,Ajaccio,2-1,0-0,Dijon
+Sat Feb 25 2012,Auxerre,0-0,0-0,St Etienne
+Sat Feb 25 2012,Evian Thonon Gaillard,2-0,2-0,Nancy
+Sat Feb 25 2012,Lyon,4-4,3-2,Paris SG
+Sat Feb 25 2012,Montpellier,1-0,0-0,Bordeaux
+Sat Feb 25 2012,Nice,1-0,0-0,Caen
+Sat Feb 25 2012,Valenciennes,2-0,0-0,Lorient
+Sun Feb 26 2012,Brest,1-0,1-0,Marseille
+Sun Feb 26 2012,Rennes,1-1,0-1,Lille
+Sun Feb 26 2012,Toulouse,2-0,1-0,Sochaux
+Sat Mar 3 2012,Bordeaux,1-2,0-2,Nice
+Sat Mar 3 2012,Dijon,1-1,0-0,Montpellier
+Sat Mar 3 2012,Lille,2-2,1-0,Auxerre
+Sat Mar 3 2012,Marseille,0-1,0-0,Toulouse
+Sat Mar 3 2012,Nancy,2-0,0-0,Lyon
+Sat Mar 3 2012,Sochaux,1-1,0-0,Valenciennes
+Sat Mar 3 2012,St Etienne,0-2,0-1,Evian Thonon Gaillard
+Sun Mar 4 2012,Caen,0-0,0-0,Brest
+Sun Mar 4 2012,Lorient,0-2,0-1,Rennes
+Sun Mar 4 2012,Paris SG,4-1,2-1,Ajaccio
+Tue Mar 6 2012,Evian Thonon Gaillard,2-0,2-0,Marseille
+Fri Mar 9 2012,Ajaccio,1-0,0-0,Marseille
+Sat Mar 10 2012,Brest,0-2,0-1,Bordeaux
+Sat Mar 10 2012,Evian Thonon Gaillard,2-3,1-2,Sochaux
+Sat Mar 10 2012,Lyon,2-1,2-1,Lille
+Sat Mar 10 2012,Nice,1-1,1-1,Nancy
+Sat Mar 10 2012,Toulouse,1-1,0-0,Lorient
+Sat Mar 10 2012,Valenciennes,1-2,0-0,St Etienne
+Sun Mar 11 2012,Dijon,1-2,0-0,Paris SG
+Sun Mar 11 2012,Montpellier,3-0,0-0,Caen
+Sun Mar 11 2012,Rennes,1-1,0-1,Auxerre
+Sat Mar 17 2012,Auxerre,0-2,0-1,Evian Thonon Gaillard
+Sat Mar 17 2012,Bordeaux,1-1,0-0,Ajaccio
+Sat Mar 17 2012,Caen,2-2,0-0,Paris SG
+Sat Mar 17 2012,Lorient,2-1,0-1,Brest
+Sat Mar 17 2012,Marseille,1-2,1-1,Dijon
+Sat Mar 17 2012,Nancy,1-0,0-0,Montpellier
+Sat Mar 17 2012,St Etienne,0-1,0-0,Lyon
+Sun Mar 18 2012,Lille,4-0,1-0,Valenciennes
+Sun Mar 18 2012,Rennes,0-1,0-1,Toulouse
+Sun Mar 18 2012,Sochaux,2-0,1-0,Nice
+Sat Mar 24 2012,Ajaccio,1-1,0-1,Lorient
+Sat Mar 24 2012,Brest,0-1,0-1,Nancy
+Sat Mar 24 2012,Evian Thonon Gaillard,0-3,0-1,Lille
+Sat Mar 24 2012,Lyon,2-1,1-0,Sochaux
+Sat Mar 24 2012,Montpellier,1-0,0-0,St Etienne
+Sat Mar 24 2012,Nice,1-1,0-0,Marseille
+Sat Mar 24 2012,Valenciennes,1-0,1-0,Rennes
+Sun Mar 25 2012,Dijon,2-0,1-0,Caen
+Sun Mar 25 2012,Paris SG,1-1,0-0,Bordeaux
+Sun Mar 25 2012,Toulouse,1-0,1-0,Auxerre
+Sat Mar 31 2012,Auxerre,2-0,1-0,Valenciennes
+Sat Mar 31 2012,Bordeaux,1-1,0-0,Dijon
+Sat Mar 31 2012,Lorient,0-1,0-1,Evian Thonon Gaillard
+Sat Mar 31 2012,Nancy,2-1,1-0,Paris SG
+Sat Mar 31 2012,Sochaux,2-1,0-1,Brest
+Sat Mar 31 2012,St Etienne,2-3,2-1,Nice
+Sun Apr 1 2012,Caen,0-0,0-0,Ajaccio
+Sun Apr 1 2012,Lille,2-1,2-0,Toulouse
+Sun Apr 1 2012,Rennes,1-1,1-0,Lyon
+Sat Apr 7 2012,Ajaccio,1-1,0-0,St Etienne
+Sat Apr 7 2012,Brest,3-1,2-1,Lille
+Sat Apr 7 2012,Dijon,0-2,0-1,Nancy
+Sat Apr 7 2012,Evian Thonon Gaillard,1-3,1-0,Rennes
+Sat Apr 7 2012,Lyon,2-1,1-1,Auxerre
+Sat Apr 7 2012,Montpellier,2-1,1-1,Sochaux
+Sat Apr 7 2012,Valenciennes,2-0,0-0,Toulouse
+Sun Apr 8 2012,Caen,1-0,1-0,Bordeaux
+Sun Apr 8 2012,Nice,2-0,0-0,Lorient
+Sun Apr 8 2012,Paris SG,2-1,1-0,Marseille
+Wed Apr 11 2012,Marseille,1-3,1-1,Montpellier
+Sun Apr 15 2012,Auxerre,1-1,0-1,Paris SG
+Sun Apr 15 2012,Lille,4-1,2-0,Ajaccio
+Sun Apr 15 2012,Lorient,2-1,0-0,Montpellier
+Sun Apr 15 2012,Nancy,2-2,0-1,Bordeaux
+Sun Apr 15 2012,Sochaux,1-0,0-0,Dijon
+Sun Apr 15 2012,St Etienne,2-1,0-0,Brest
+Sun Apr 15 2012,Valenciennes,0-3,0-3,Evian Thonon Gaillard
+Mon Apr 16 2012,Rennes,3-1,1-1,Nice
+Wed Apr 18 2012,Marseille,1-1,1-1,Caen
+Wed Apr 18 2012,Toulouse,3-0,2-0,Lyon
+Sat Apr 21 2012,Bordeaux,2-1,2-0,Marseille
+Sat Apr 21 2012,Brest,0-1,0-1,Rennes
+Sat Apr 21 2012,Caen,1-4,0-1,St Etienne
+Sat Apr 21 2012,Dijon,0-2,0-2,Lille
+Sat Apr 21 2012,Evian Thonon Gaillard,2-1,1-0,Toulouse
+Sat Apr 21 2012,Montpellier,1-0,1-0,Valenciennes
+Sat Apr 21 2012,Nice,1-0,1-0,Auxerre
+Sun Apr 22 2012,Ajaccio,0-0,0-0,Nancy
+Sun Apr 22 2012,Lyon,3-2,1-2,Lorient
+Sun Apr 22 2012,Paris SG,6-1,3-1,Sochaux
+Fri Apr 27 2012,Lorient,2-1,1-0,Marseille
+Fri Apr 27 2012,Toulouse,0-1,0-1,Montpellier
+Sun Apr 29 2012,Auxerre,4-0,4-0,Brest
+Sun Apr 29 2012,Lille,2-1,0-0,Paris SG
+Sun Apr 29 2012,Nancy,1-1,0-0,Caen
+Sun Apr 29 2012,Rennes,3-1,1-0,Ajaccio
+Sun Apr 29 2012,Sochaux,0-3,0-1,Bordeaux
+Sun Apr 29 2012,St Etienne,1-0,1-0,Dijon
+Sun Apr 29 2012,Valenciennes,2-0,1-0,Nice
+Tue May 1 2012,Montpellier,2-2,1-1,Evian Thonon Gaillard
+Wed May 2 2012,Ajaccio,2-1,0-0,Sochaux
+Wed May 2 2012,Bordeaux,2-0,0-0,Rennes
+Wed May 2 2012,Brest,0-0,0-0,Toulouse
+Wed May 2 2012,Caen,1-0,0-0,Lorient
+Wed May 2 2012,Lyon,4-1,1-1,Valenciennes
+Wed May 2 2012,Marseille,1-0,1-0,Nancy
+Wed May 2 2012,Nice,0-1,0-1,Lille
+Wed May 2 2012,Paris SG,2-0,1-0,St Etienne
+Thu May 3 2012,Dijon,0-2,0-1,Auxerre
+Sun May 6 2012,Evian Thonon Gaillard,2-1,1-1,Ajaccio
+Sun May 6 2012,Lyon,1-1,1-0,Brest
+Sun May 6 2012,Valenciennes,3-4,2-3,Paris SG
+Mon May 7 2012,Auxerre,2-4,0-3,Bordeaux
+Mon May 7 2012,Lille,3-0,2-0,Caen
+Mon May 7 2012,Lorient,0-0,0-0,Dijon
+Mon May 7 2012,Rennes,0-2,0-1,Montpellier
+Mon May 7 2012,Sochaux,1-0,0-0,Nancy
+Mon May 7 2012,St Etienne,0-0,0-0,Marseille
+Mon May 7 2012,Toulouse,0-0,0-0,Nice
+Thu May 10 2012,Evian Thonon Gaillard,1-3,1-1,Lyon
+Sun May 13 2012,Ajaccio,1-1,0-0,Lyon
+Sun May 13 2012,Bordeaux,1-0,0-0,Lorient
+Sun May 13 2012,Brest,1-0,1-0,Valenciennes
+Sun May 13 2012,Caen,1-3,0-2,Sochaux
+Sun May 13 2012,Dijon,1-1,1-1,Toulouse
+Sun May 13 2012,Marseille,3-0,1-0,Auxerre
+Sun May 13 2012,Montpellier,1-0,0-0,Lille
+Sun May 13 2012,Nancy,3-2,3-1,St Etienne
+Sun May 13 2012,Nice,1-1,1-1,Evian Thonon Gaillard
+Sun May 13 2012,Paris SG,3-0,0-0,Rennes
+Sun May 20 2012,Auxerre,1-2,1-1,Montpellier
+Sun May 20 2012,Evian Thonon Gaillard,0-1,0-0,Brest
+Sun May 20 2012,Lille,4-1,4-1,Nancy
+Sun May 20 2012,Lorient,1-2,1-0,Paris SG
+Sun May 20 2012,Lyon,3-4,2-2,Nice
+Sun May 20 2012,Rennes,5-0,1-0,Dijon
+Sun May 20 2012,Sochaux,1-0,0-0,Marseille
+Sun May 20 2012,St Etienne,2-3,1-2,Bordeaux
+Sun May 20 2012,Toulouse,0-2,0-2,Ajaccio
+Sun May 20 2012,Valenciennes,3-1,1-0,Caen

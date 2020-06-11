@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 28 2006,Club Brugge,5-0,2-0,Gent
+Sat Jul 29 2006,Charleroi,0-0,0-0,Lierse
+Sat Jul 29 2006,FC Brussels,1-0,0-0,Bergen
+Sat Jul 29 2006,Genk,3-1,2-0,Waregem
+Sat Jul 29 2006,Germinal,1-0,1-0,Beveren
+Sat Jul 29 2006,Mouscron,2-1,2-0,Cercle Brugge
+Sun Jul 30 2006,Lokeren,2-1,2-1,Standard
+Sun Jul 30 2006,St Truiden,2-4,0-0,Anderlecht
+Sun Jul 30 2006,Westerlo,2-1,0-0,Roeselare
+Fri Aug 4 2006,Standard,1-2,1-1,Charleroi
+Sat Aug 5 2006,Anderlecht,1-0,0-0,Germinal
+Sat Aug 5 2006,Bergen,2-0,0-0,St Truiden
+Sat Aug 5 2006,Beveren,0-3,0-2,Westerlo
+Sat Aug 5 2006,Cercle Brugge,0-0,0-0,Lokeren
+Sat Aug 5 2006,Gent,1-3,1-1,Mouscron
+Sat Aug 5 2006,Lierse,0-3,0-2,Genk
+Sat Aug 5 2006,Waregem,0-1,0-0,FC Brussels
+Sun Aug 6 2006,Roeselare,3-2,2-0,Club Brugge
+Sat Aug 19 2006,Charleroi,2-1,2-0,Cercle Brugge
+Sat Aug 19 2006,Club Brugge,2-0,1-0,Beveren
+Sat Aug 19 2006,FC Brussels,2-2,1-1,St Truiden
+Sat Aug 19 2006,Genk,1-1,1-1,Standard
+Sat Aug 19 2006,Germinal,2-1,0-0,Bergen
+Sat Aug 19 2006,Mouscron,2-2,2-0,Roeselare
+Sat Aug 19 2006,Waregem,2-1,1-1,Lierse
+Sun Aug 20 2006,Lokeren,1-1,1-1,Gent
+Sun Aug 20 2006,Westerlo,3-4,1-2,Anderlecht
+Sat Aug 26 2006,Bergen,1-1,0-0,Westerlo
+Sat Aug 26 2006,Beveren,3-1,1-0,Mouscron
+Sat Aug 26 2006,Cercle Brugge,0-1,0-0,Genk
+Sat Aug 26 2006,Lierse,0-1,0-0,FC Brussels
+Sat Aug 26 2006,St Truiden,2-0,0-0,Germinal
+Sat Aug 26 2006,Standard,1-1,0-0,Waregem
+Sun Aug 27 2006,Anderlecht,1-0,0-0,Club Brugge
+Sun Aug 27 2006,Gent,2-1,0-1,Charleroi
+Sun Aug 27 2006,Roeselare,2-2,1-1,Lokeren
+Sat Sep 9 2006,Charleroi,2-1,1-0,Roeselare
+Sat Sep 9 2006,Club Brugge,0-0,0-0,Bergen
+Sat Sep 9 2006,FC Brussels,1-2,0-0,Germinal
+Sat Sep 9 2006,Lierse,1-3,0-2,Standard
+Sat Sep 9 2006,Mouscron,1-1,0-0,Anderlecht
+Sat Sep 9 2006,Waregem,1-2,0-1,Cercle Brugge
+Sat Sep 9 2006,Westerlo,1-0,0-0,St Truiden
+Sun Sep 10 2006,Genk,3-1,1-1,Gent
+Sun Sep 10 2006,Lokeren,2-0,2-0,Beveren
+Sat Sep 16 2006,Anderlecht,2-0,1-0,Lokeren
+Sat Sep 16 2006,Bergen,1-0,1-0,Mouscron
+Sat Sep 16 2006,Beveren,2-2,0-1,Charleroi
+Sat Sep 16 2006,Cercle Brugge,2-1,1-1,Lierse
+Sat Sep 16 2006,Germinal,0-0,0-0,Westerlo
+Sun Sep 17 2006,Gent,1-1,0-1,Waregem
+Sun Sep 17 2006,Roeselare,3-3,0-1,Genk
+Sun Sep 17 2006,St Truiden,2-3,1-1,Club Brugge
+Sun Sep 17 2006,Standard,2-1,1-1,FC Brussels
+Fri Sep 22 2006,Charleroi,1-1,0-0,Anderlecht
+Sat Sep 23 2006,Club Brugge,1-0,0-0,Germinal
+Sat Sep 23 2006,FC Brussels,0-1,0-0,Westerlo
+Sat Sep 23 2006,Genk,1-0,0-0,Beveren
+Sat Sep 23 2006,Lierse,1-4,0-1,Gent
+Sat Sep 23 2006,Lokeren,0-2,0-0,Bergen
+Sat Sep 23 2006,Mouscron,1-0,0-0,St Truiden
+Sat Sep 23 2006,Standard,1-0,1-0,Cercle Brugge
+Sun Sep 24 2006,Waregem,4-2,1-1,Roeselare
+Sat Sep 30 2006,Anderlecht,1-4,0-2,Genk
+Sat Sep 30 2006,Bergen,1-2,1-0,Charleroi
+Sat Sep 30 2006,Cercle Brugge,1-0,1-0,FC Brussels
+Sat Sep 30 2006,Germinal,6-2,2-1,Mouscron
+Sat Sep 30 2006,Roeselare,2-0,1-0,Lierse
+Sat Sep 30 2006,St Truiden,1-0,1-0,Lokeren
+Sun Oct 1 2006,Beveren,1-0,1-0,Waregem
+Sun Oct 1 2006,Gent,2-1,1-0,Standard
+Sun Oct 1 2006,Westerlo,1-2,0-1,Club Brugge
+Sat Oct 14 2006,Cercle Brugge,0-1,0-0,Gent
+Sat Oct 14 2006,Charleroi,2-1,1-0,St Truiden
+Sat Oct 14 2006,Lierse,0-1,0-1,Beveren
+Sat Oct 14 2006,Lokeren,0-0,0-0,Germinal
+Sat Oct 14 2006,Mouscron,4-0,1-0,Westerlo
+Sat Oct 14 2006,Standard,2-1,0-1,Roeselare
+Sat Oct 14 2006,Waregem,0-4,0-2,Anderlecht
+Sun Oct 15 2006,FC Brussels,1-1,1-0,Club Brugge
+Sun Oct 15 2006,Genk,5-1,3-1,Bergen
+Fri Oct 27 2006,Club Brugge,5-1,2-0,Mouscron
+Sat Oct 28 2006,Anderlecht,2-0,1-0,Lierse
+Sat Oct 28 2006,Bergen,0-0,0-0,Waregem
+Sat Oct 28 2006,Beveren,0-3,0-1,Standard
+Sat Oct 28 2006,Gent,3-3,2-1,FC Brussels
+Sat Oct 28 2006,Germinal,1-1,0-0,Charleroi
+Sat Oct 28 2006,Roeselare,1-0,0-0,Cercle Brugge
+Sat Oct 28 2006,Westerlo,4-1,2-1,Lokeren
+Sun Oct 29 2006,St Truiden,1-2,1-2,Genk
+Fri Nov 3 2006,Genk,4-0,4-0,Germinal
+Sat Nov 4 2006,Cercle Brugge,2-2,0-1,Beveren
+Sat Nov 4 2006,FC Brussels,1-1,1-1,Mouscron
+Sat Nov 4 2006,Gent,2-0,1-0,Roeselare
+Sat Nov 4 2006,Lierse,0-0,0-0,Bergen
+Sun Nov 5 2006,Charleroi,1-2,0-1,Westerlo
+Sun Nov 5 2006,Lokeren,3-2,1-1,Club Brugge
+Sun Nov 5 2006,Standard,0-0,0-0,Anderlecht
+Sun Nov 5 2006,Waregem,3-0,1-0,St Truiden
+Fri Nov 10 2006,Westerlo,0-1,0-1,Genk
+Sat Nov 11 2006,Anderlecht,2-0,1-0,Cercle Brugge
+Sat Nov 11 2006,Beveren,1-0,0-0,Gent
+Sat Nov 11 2006,Club Brugge,2-0,1-0,Charleroi
+Sat Nov 11 2006,Germinal,1-1,1-0,Waregem
+Sat Nov 11 2006,Mouscron,1-1,0-1,Lokeren
+Sat Nov 11 2006,Roeselare,1-1,0-0,FC Brussels
+Sat Nov 11 2006,St Truiden,4-0,2-0,Lierse
+Sun Nov 12 2006,Bergen,2-3,0-2,Standard
+Sat Nov 18 2006,Cercle Brugge,3-0,2-0,Bergen
+Sat Nov 18 2006,FC Brussels,0-0,0-0,Lokeren
+Sat Nov 18 2006,Gent,2-1,1-1,Anderlecht
+Sat Nov 18 2006,Lierse,2-3,1-0,Germinal
+Sat Nov 18 2006,Roeselare,2-1,1-0,Beveren
+Sat Nov 18 2006,Standard,1-2,0-0,St Truiden
+Sat Nov 18 2006,Waregem,2-2,2-1,Westerlo
+Sun Nov 19 2006,Charleroi,1-0,0-0,Mouscron
+Sun Nov 19 2006,Genk,0-0,0-0,Club Brugge
+Fri Nov 24 2006,Germinal,1-3,0-1,Standard
+Sat Nov 25 2006,Bergen,0-1,0-1,Gent
+Sat Nov 25 2006,Beveren,2-2,1-1,FC Brussels
+Sat Nov 25 2006,Lokeren,0-0,0-0,Charleroi
+Sat Nov 25 2006,Mouscron,2-2,1-2,Genk
+Sat Nov 25 2006,St Truiden,2-0,1-0,Cercle Brugge
+Sat Nov 25 2006,Westerlo,2-0,0-0,Lierse
+Sun Nov 26 2006,Anderlecht,3-2,2-1,Roeselare
+Sun Nov 26 2006,Club Brugge,4-1,2-1,Waregem
+Fri Dec 1 2006,Beveren,1-1,0-1,Anderlecht
+Sat Dec 2 2006,Cercle Brugge,1-2,1-0,Germinal
+Sat Dec 2 2006,FC Brussels,0-2,0-1,Charleroi
+Sat Dec 2 2006,Genk,1-0,0-0,Lokeren
+Sat Dec 2 2006,Gent,3-1,3-0,St Truiden
+Sat Dec 2 2006,Roeselare,2-1,1-1,Bergen
+Sat Dec 2 2006,Standard,3-0,2-0,Westerlo
+Sat Dec 2 2006,Waregem,0-0,0-0,Mouscron
+Sun Dec 3 2006,Lierse,1-2,1-2,Club Brugge
+Fri Dec 8 2006,Charleroi,4-1,2-0,Genk
+Sat Dec 9 2006,Bergen,1-0,1-0,Beveren
+Sat Dec 9 2006,Germinal,0-3,0-1,Gent
+Sat Dec 9 2006,Lokeren,0-2,0-1,Waregem
+Sat Dec 9 2006,Mouscron,2-2,0-0,Lierse
+Sat Dec 9 2006,St Truiden,1-1,0-0,Roeselare
+Sat Dec 9 2006,Westerlo,0-0,0-0,Cercle Brugge
+Sun Dec 10 2006,Club Brugge,4-4,2-0,Standard
+Sun Dec 10 2006,FC Brussels,0-1,0-0,Anderlecht
+Fri Dec 15 2006,Standard,2-0,0-0,Mouscron
+Sat Dec 16 2006,Anderlecht,4-1,1-1,Bergen
+Sat Dec 16 2006,Beveren,1-2,0-2,St Truiden
+Sat Dec 16 2006,Genk,3-1,1-0,FC Brussels
+Sat Dec 16 2006,Gent,2-0,0-0,Westerlo
+Sat Dec 16 2006,Lierse,1-0,0-0,Lokeren
+Sat Dec 16 2006,Roeselare,1-1,0-0,Germinal
+Sun Dec 17 2006,Cercle Brugge,1-0,0-0,Club Brugge
+Sun Dec 17 2006,Waregem,1-0,1-0,Charleroi
+Fri Jan 19 2007,Waregem,2-2,1-0,Genk
+Sat Jan 20 2007,Anderlecht,2-0,1-0,St Truiden
+Sat Jan 20 2007,Bergen,1-1,0-0,FC Brussels
+Sat Jan 20 2007,Beveren,1-1,0-0,Germinal
+Sat Jan 20 2007,Cercle Brugge,2-1,0-1,Mouscron
+Sat Jan 20 2007,Lierse,2-1,1-0,Charleroi
+Sat Jan 20 2007,Roeselare,2-0,1-0,Westerlo
+Sun Jan 21 2007,Gent,0-0,0-0,Club Brugge
+Sun Jan 21 2007,Standard,3-1,1-1,Lokeren
+Fri Jan 26 2007,Charleroi,2-5,2-2,Standard
+Sat Jan 27 2007,Club Brugge,0-1,0-0,Roeselare
+Sat Jan 27 2007,FC Brussels,2-0,0-0,Waregem
+Sat Jan 27 2007,Genk,3-0,2-0,Lierse
+Sat Jan 27 2007,Lokeren,2-0,0-0,Cercle Brugge
+Sat Jan 27 2007,Mouscron,0-3,0-1,Gent
+Sat Jan 27 2007,St Truiden,1-0,0-0,Bergen
+Sat Jan 27 2007,Westerlo,2-0,1-0,Beveren
+Sun Jan 28 2007,Germinal,1-3,0-1,Anderlecht
+Fri Feb 2 2007,Beveren,0-2,0-0,Club Brugge
+Sat Feb 3 2007,Anderlecht,1-0,1-0,Westerlo
+Sat Feb 3 2007,Bergen,2-1,1-0,Germinal
+Sat Feb 3 2007,Cercle Brugge,0-0,0-0,Charleroi
+Sat Feb 3 2007,Gent,3-1,0-1,Lokeren
+Sat Feb 3 2007,Lierse,1-0,0-0,Waregem
+Sat Feb 3 2007,Roeselare,2-1,1-0,Mouscron
+Sat Feb 3 2007,St Truiden,2-2,1-0,FC Brussels
+Sun Feb 4 2007,Standard,2-1,1-0,Genk
+Sat Feb 10 2007,FC Brussels,2-1,1-1,Lierse
+Sat Feb 10 2007,Genk,3-0,3-0,Cercle Brugge
+Sat Feb 10 2007,Germinal,3-2,1-1,St Truiden
+Sat Feb 10 2007,Lokeren,1-1,0-0,Roeselare
+Sat Feb 10 2007,Mouscron,4-2,0-2,Beveren
+Sat Feb 10 2007,Waregem,3-1,0-0,Standard
+Sat Feb 10 2007,Westerlo,2-1,2-1,Bergen
+Sun Feb 11 2007,Charleroi,1-0,0-0,Gent
+Sun Feb 11 2007,Club Brugge,2-2,1-0,Anderlecht
+Fri Feb 16 2007,Bergen,1-0,0-0,Club Brugge
+Sat Feb 17 2007,Anderlecht,2-1,2-1,Mouscron
+Sat Feb 17 2007,Beveren,3-2,1-1,Lokeren
+Sat Feb 17 2007,Germinal,3-0,1-0,FC Brussels
+Sat Feb 17 2007,Roeselare,1-2,0-0,Charleroi
+Sat Feb 17 2007,St Truiden,0-2,0-0,Westerlo
+Sat Feb 17 2007,Standard,3-2,1-0,Lierse
+Sun Feb 18 2007,Cercle Brugge,2-0,0-0,Waregem
+Sun Feb 18 2007,Gent,1-3,1-1,Genk
+Fri Feb 23 2007,Club Brugge,1-0,0-0,St Truiden
+Sat Feb 24 2007,Charleroi,2-1,0-1,Beveren
+Sat Feb 24 2007,FC Brussels,0-3,0-2,Standard
+Sat Feb 24 2007,Genk,3-0,1-0,Roeselare
+Sat Feb 24 2007,Lierse,0-2,0-0,Cercle Brugge
+Sat Feb 24 2007,Mouscron,2-2,2-1,Bergen
+Sat Feb 24 2007,Westerlo,1-1,0-0,Germinal
+Sun Feb 25 2007,Lokeren,1-1,1-0,Anderlecht
+Sun Feb 25 2007,Waregem,3-2,2-0,Gent
+Fri Mar 2 2007,Roeselare,3-1,0-0,Waregem
+Sat Mar 3 2007,Anderlecht,3-2,1-0,Charleroi
+Sat Mar 3 2007,Bergen,1-0,1-0,Lokeren
+Sat Mar 3 2007,Beveren,0-5,0-3,Genk
+Sat Mar 3 2007,Cercle Brugge,0-2,0-0,Standard
+Sat Mar 3 2007,Gent,4-0,2-0,Lierse
+Sat Mar 3 2007,St Truiden,1-1,1-1,Mouscron
+Sat Mar 3 2007,Westerlo,1-1,1-0,FC Brussels
+Sun Mar 4 2007,Germinal,4-0,1-0,Club Brugge
+Fri Mar 9 2007,Charleroi,1-0,0-0,Bergen
+Sat Mar 10 2007,Club Brugge,2-0,1-0,Westerlo
+Sat Mar 10 2007,FC Brussels,0-0,0-0,Cercle Brugge
+Sat Mar 10 2007,Lierse,3-1,1-0,Roeselare
+Sat Mar 10 2007,Lokeren,1-1,1-1,St Truiden
+Sat Mar 10 2007,Mouscron,1-0,1-0,Germinal
+Sat Mar 10 2007,Standard,0-1,0-0,Gent
+Sat Mar 10 2007,Waregem,2-1,1-0,Beveren
+Sun Mar 11 2007,Genk,1-1,0-1,Anderlecht
+Fri Mar 16 2007,Germinal,1-2,0-0,Lokeren
+Sat Mar 17 2007,Anderlecht,0-0,0-0,Waregem
+Sat Mar 17 2007,Bergen,5-0,2-0,Genk
+Sat Mar 17 2007,Beveren,1-1,0-0,Lierse
+Sat Mar 17 2007,Club Brugge,4-1,1-0,FC Brussels
+Sat Mar 17 2007,St Truiden,1-1,0-0,Charleroi
+Sat Mar 17 2007,Westerlo,1-0,1-0,Mouscron
+Sun Mar 18 2007,Gent,0-2,0-1,Cercle Brugge
+Sun Mar 18 2007,Roeselare,2-3,0-1,Standard
+Fri Mar 30 2007,FC Brussels,1-1,1-0,Gent
+Sat Mar 31 2007,Cercle Brugge,1-1,0-0,Roeselare
+Sat Mar 31 2007,Charleroi,3-3,3-2,Germinal
+Sat Mar 31 2007,Lierse,1-4,0-2,Anderlecht
+Sat Mar 31 2007,Lokeren,1-1,1-0,Westerlo
+Sat Mar 31 2007,Standard,0-0,0-0,Beveren
+Sat Mar 31 2007,Waregem,1-2,0-2,Bergen
+Sun Apr 1 2007,Genk,2-0,2-0,St Truiden
+Sun Apr 1 2007,Mouscron,2-1,1-0,Club Brugge
+Fri Apr 6 2007,Anderlecht,1-0,1-0,Standard
+Sat Apr 7 2007,Bergen,1-1,1-1,Lierse
+Sat Apr 7 2007,Beveren,1-1,1-0,Cercle Brugge
+Sat Apr 7 2007,Club Brugge,2-2,0-1,Lokeren
+Sat Apr 7 2007,Mouscron,2-2,1-0,FC Brussels
+Sat Apr 7 2007,Roeselare,1-3,0-1,Gent
+Sat Apr 7 2007,St Truiden,2-2,0-1,Waregem
+Sun Apr 8 2007,Germinal,2-1,1-0,Genk
+Sun Apr 8 2007,Westerlo,0-1,0-1,Charleroi
+Fri Apr 13 2007,Cercle Brugge,0-1,0-1,Anderlecht
+Sat Apr 14 2007,FC Brussels,6-2,3-0,Roeselare
+Sat Apr 14 2007,Genk,3-1,2-0,Westerlo
+Sat Apr 14 2007,Lierse,0-0,0-0,St Truiden
+Sat Apr 14 2007,Lokeren,1-1,0-0,Mouscron
+Sat Apr 14 2007,Standard,1-0,1-0,Bergen
+Sat Apr 14 2007,Waregem,0-2,0-0,Germinal
+Sun Apr 15 2007,Charleroi,1-1,0-0,Club Brugge
+Sun Apr 15 2007,Gent,2-1,2-0,Beveren
+Fri Apr 20 2007,Germinal,2-3,1-0,Lierse
+Sat Apr 21 2007,Bergen,1-0,0-0,Cercle Brugge
+Sat Apr 21 2007,Beveren,2-2,1-2,Roeselare
+Sat Apr 21 2007,Lokeren,0-0,0-0,FC Brussels
+Sat Apr 21 2007,Mouscron,2-1,2-0,Charleroi
+Sat Apr 21 2007,St Truiden,0-3,0-1,Standard
+Sat Apr 21 2007,Westerlo,4-2,1-0,Waregem
+Sun Apr 22 2007,Anderlecht,1-0,1-0,Gent
+Sun Apr 22 2007,Club Brugge,0-1,0-1,Genk
+Fri Apr 27 2007,Standard,2-2,1-1,Germinal
+Sat Apr 28 2007,Cercle Brugge,0-1,0-1,St Truiden
+Sat Apr 28 2007,Charleroi,4-3,2-0,Lokeren
+Sat Apr 28 2007,FC Brussels,2-0,1-0,Beveren
+Sat Apr 28 2007,Gent,4-1,2-1,Bergen
+Sat Apr 28 2007,Lierse,1-1,0-0,Westerlo
+Sat Apr 28 2007,Waregem,2-1,1-1,Club Brugge
+Sun Apr 29 2007,Genk,3-2,1-0,Mouscron
+Sun Apr 29 2007,Roeselare,0-5,0-4,Anderlecht
+Fri May 4 2007,Lokeren,0-1,0-1,Genk
+Sat May 5 2007,Bergen,6-1,3-1,Roeselare
+Sat May 5 2007,Charleroi,1-0,0-0,FC Brussels
+Sat May 5 2007,Club Brugge,4-0,1-0,Lierse
+Sat May 5 2007,Germinal,1-0,0-0,Cercle Brugge
+Sat May 5 2007,Mouscron,3-0,2-0,Waregem
+Sat May 5 2007,St Truiden,0-1,0-0,Gent
+Sun May 6 2007,Anderlecht,8-1,3-0,Beveren
+Sun May 6 2007,Westerlo,1-1,1-0,Standard
+Fri May 11 2007,Cercle Brugge,4-1,2-1,Westerlo
+Sat May 12 2007,Anderlecht,6-0,2-0,FC Brussels
+Sat May 12 2007,Beveren,0-0,0-0,Bergen
+Sat May 12 2007,Genk,0-2,0-1,Charleroi
+Sat May 12 2007,Gent,1-2,0-2,Germinal
+Sat May 12 2007,Lierse,3-3,1-0,Mouscron
+Sat May 12 2007,Roeselare,3-2,1-1,St Truiden
+Sat May 12 2007,Standard,1-0,1-0,Club Brugge
+Sat May 12 2007,Waregem,1-1,0-1,Lokeren
+Fri May 18 2007,Germinal,3-0,1-0,Roeselare
+Sat May 19 2007,Bergen,3-1,2-0,Anderlecht
+Sat May 19 2007,Charleroi,2-1,1-0,Waregem
+Sat May 19 2007,Club Brugge,3-3,1-1,Cercle Brugge
+Sat May 19 2007,FC Brussels,3-1,1-1,Genk
+Sat May 19 2007,Lokeren,1-4,0-2,Lierse
+Sat May 19 2007,Mouscron,2-0,2-0,Standard
+Sat May 19 2007,St Truiden,3-2,1-1,Beveren
+Sat May 19 2007,Westerlo,1-1,0-0,Gent

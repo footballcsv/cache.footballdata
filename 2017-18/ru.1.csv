@@ -1,0 +1,245 @@
+Date,Team 1,FT,HT,Team 2
+Sat Jul 15 2017,Ural,1-1,?,FK Rostov
+Sat Jul 15 2017,Tosno,0-1,?,Ufa
+Sat Jul 15 2017,FK Anzi Makhackala,1-3,?,CSKA Moscow
+Sun Jul 16 2017,SKA Khabarovsk,0-2,?,Zenit
+Sun Jul 16 2017,Rubin Kazan,1-2,?,Krasnodar
+Sun Jul 16 2017,Akhmat Grozny,1-0,?,Amkar
+Tue Jul 18 2017,Dynamo Moscow,2-2,?,Spartak Moscow
+Tue Jul 18 2017,Lokomotiv Moscow,1-0,?,Arsenal Tula
+Fri Jul 21 2017,CSKA Moscow,1-3,?,Lokomotiv Moscow
+Fri Jul 21 2017,FK Anzi Makhackala,1-0,?,Amkar
+Sat Jul 22 2017,Zenit,2-1,?,Rubin Kazan
+Sat Jul 22 2017,Krasnodar,2-0,?,Tosno
+Sun Jul 23 2017,Ufa,0-0,?,Spartak Moscow
+Sun Jul 23 2017,Dynamo Moscow,0-1,?,Ural
+Sun Jul 23 2017,FK Rostov,0-1,?,Akhmat Grozny
+Mon Jul 24 2017,Arsenal Tula,1-0,?,SKA Khabarovsk
+Sat Jul 29 2017,CSKA Moscow,2-0,?,SKA Khabarovsk
+Sat Jul 29 2017,Ural,1-1,?,Ufa
+Sat Jul 29 2017,Rubin Kazan,2-1,?,Arsenal Tula
+Sat Jul 29 2017,Akhmat Grozny,2-0,?,Dynamo Moscow
+Sun Jul 30 2017,Amkar,0-1,?,FK Rostov
+Sun Jul 30 2017,Lokomotiv Moscow,1-0,?,FK Anzi Makhackala
+Sun Jul 30 2017,Tosno,0-1,?,Zenit
+Mon Jul 31 2017,Spartak Moscow,2-0,?,Krasnodar
+Fri Aug 4 2017,FK Anzi Makhackala,0-1,?,FK Rostov
+Sat Aug 5 2017,Ufa,3-2,?,Akhmat Grozny
+Sat Aug 5 2017,Dynamo Moscow,3-0,?,Amkar
+Sat Aug 5 2017,Lokomotiv Moscow,1-0,?,SKA Khabarovsk
+Sun Aug 6 2017,Arsenal Tula,1-2,?,Tosno
+Sun Aug 6 2017,CSKA Moscow,1-2,?,Rubin Kazan
+Sun Aug 6 2017,Krasnodar,1-1,?,Ural
+Sun Aug 6 2017,Zenit,5-1,?,Spartak Moscow
+Tue Aug 8 2017,SKA Khabarovsk,2-0,?,FK Anzi Makhackala
+Tue Aug 8 2017,Amkar,0-0,?,Ufa
+Wed Aug 9 2017,Ural,1-1,?,Zenit
+Wed Aug 9 2017,Spartak Moscow,2-0,?,Arsenal Tula
+Wed Aug 9 2017,FK Rostov,1-0,?,Dynamo Moscow
+Wed Aug 9 2017,Rubin Kazan,1-1,?,Lokomotiv Moscow
+Wed Aug 9 2017,Tosno,1-2,?,CSKA Moscow
+Thu Aug 10 2017,Akhmat Grozny,2-3,?,Krasnodar
+Sat Aug 12 2017,Ufa,1-4,?,FK Rostov
+Sat Aug 12 2017,CSKA Moscow,2-1,?,Spartak Moscow
+Sat Aug 12 2017,FK Anzi Makhackala,1-3,?,Dynamo Moscow
+Sun Aug 13 2017,SKA Khabarovsk,1-1,?,Rubin Kazan
+Sun Aug 13 2017,Lokomotiv Moscow,0-2,?,Tosno
+Sun Aug 13 2017,Krasnodar,1-1,?,Amkar
+Sun Aug 13 2017,Zenit,4-0,?,Akhmat Grozny
+Mon Aug 14 2017,Arsenal Tula,2-2,?,Ural
+Fri Aug 18 2017,Tosno,0-0,?,SKA Khabarovsk
+Sat Aug 19 2017,Ural,0-0,?,CSKA Moscow
+Sat Aug 19 2017,Spartak Moscow,3-4,?,Lokomotiv Moscow
+Sat Aug 19 2017,Rubin Kazan,6-0,?,FK Anzi Makhackala
+Sun Aug 20 2017,Amkar,0-1,?,Zenit
+Sun Aug 20 2017,Dynamo Moscow,1-1,?,Ufa
+Sun Aug 20 2017,FK Rostov,0-0,?,Krasnodar
+Mon Aug 21 2017,Akhmat Grozny,1-2,?,Arsenal Tula
+Fri Aug 25 2017,FK Anzi Makhackala,1-0,?,Ufa
+Sat Aug 26 2017,Arsenal Tula,0-1,?,Amkar
+Sat Aug 26 2017,Rubin Kazan,1-0,?,Tosno
+Sat Aug 26 2017,Lokomotiv Moscow,2-1,?,Ural
+Sun Aug 27 2017,SKA Khabarovsk,0-0,?,Spartak Moscow
+Sun Aug 27 2017,CSKA Moscow,0-1,?,Akhmat Grozny
+Sun Aug 27 2017,Krasnodar,2-0,?,Dynamo Moscow
+Sun Aug 27 2017,Zenit,0-0,?,FK Rostov
+Fri Sep 8 2017,Amkar,0-1,?,CSKA Moscow
+Sat Sep 9 2017,Tosno,2-2,?,FK Anzi Makhackala
+Sat Sep 9 2017,FK Rostov,2-2,?,Arsenal Tula
+Sat Sep 9 2017,Spartak Moscow,1-0,?,Rubin Kazan
+Sun Sep 10 2017,Dynamo Moscow,0-0,?,Zenit
+Sun Sep 10 2017,Ufa,0-1,?,Krasnodar
+Sun Sep 10 2017,Akhmat Grozny,1-1,?,Lokomotiv Moscow
+Mon Sep 11 2017,Ural,1-1,?,SKA Khabarovsk
+Fri Sep 15 2017,Arsenal Tula,1-0,?,Dynamo Moscow
+Sat Sep 16 2017,CSKA Moscow,2-0,?,FK Rostov
+Sat Sep 16 2017,FK Anzi Makhackala,1-5,?,Krasnodar
+Sun Sep 17 2017,SKA Khabarovsk,2-2,?,Akhmat Grozny
+Sun Sep 17 2017,Tosno,2-2,?,Spartak Moscow
+Sun Sep 17 2017,Rubin Kazan,0-1,?,Ural
+Mon Sep 18 2017,Lokomotiv Moscow,0-1,?,Amkar
+Mon Sep 18 2017,Zenit,3-0,?,Ufa
+Sat Sep 23 2017,Dynamo Moscow,0-0,?,CSKA Moscow
+Sat Sep 23 2017,Spartak Moscow,2-2,?,FK Anzi Makhackala
+Sun Sep 24 2017,Ural,3-1,?,Tosno
+Sun Sep 24 2017,FK Rostov,0-1,?,Lokomotiv Moscow
+Sun Sep 24 2017,Ufa,1-0,?,Arsenal Tula
+Sun Sep 24 2017,Krasnodar,0-2,?,Zenit
+Mon Sep 25 2017,Amkar,3-0,?,SKA Khabarovsk
+Mon Sep 25 2017,Akhmat Grozny,1-0,?,Rubin Kazan
+Fri Sep 29 2017,Arsenal Tula,1-0,?,Krasnodar
+Sat Sep 30 2017,SKA Khabarovsk,2-1,?,FK Rostov
+Sat Sep 30 2017,Tosno,1-0,?,Akhmat Grozny
+Sat Sep 30 2017,Rubin Kazan,0-1,?,Amkar
+Sat Sep 30 2017,Spartak Moscow,2-0,?,Ural
+Sun Oct 1 2017,CSKA Moscow,0-0,?,Ufa
+Sun Oct 1 2017,Lokomotiv Moscow,3-0,?,Dynamo Moscow
+Sun Oct 1 2017,FK Anzi Makhackala,2-2,?,Zenit
+Fri Oct 13 2017,Akhmat Grozny,1-2,?,Spartak Moscow
+Sat Oct 14 2017,Dynamo Moscow,2-0,?,SKA Khabarovsk
+Sat Oct 14 2017,Ural,2-1,?,FK Anzi Makhackala
+Sat Oct 14 2017,Krasnodar,0-1,?,CSKA Moscow
+Sun Oct 15 2017,Ufa,1-0,?,Lokomotiv Moscow
+Sun Oct 15 2017,FK Rostov,0-1,?,Rubin Kazan
+Sun Oct 15 2017,Zenit,0-1,?,Arsenal Tula
+Mon Oct 16 2017,Amkar,0-0,?,Tosno
+Sat Oct 21 2017,SKA Khabarovsk,2-2,?,Ufa
+Sat Oct 21 2017,Tosno,1-1,?,FK Rostov
+Sat Oct 21 2017,Rubin Kazan,0-0,?,Dynamo Moscow
+Sat Oct 21 2017,Spartak Moscow,0-0,?,Amkar
+Sun Oct 22 2017,Ural,2-0,?,Akhmat Grozny
+Sun Oct 22 2017,CSKA Moscow,0-0,?,Zenit
+Sun Oct 22 2017,FK Anzi Makhackala,3-2,?,Arsenal Tula
+Mon Oct 23 2017,Lokomotiv Moscow,2-0,?,Krasnodar
+Fri Oct 27 2017,Arsenal Tula,1-0,?,CSKA Moscow
+Sat Oct 28 2017,FK Rostov,2-2,?,Spartak Moscow
+Sun Oct 29 2017,Amkar,1-1,?,Ural
+Sun Oct 29 2017,Dynamo Moscow,0-1,?,Tosno
+Sun Oct 29 2017,Zenit,0-3,?,Lokomotiv Moscow
+Sun Oct 29 2017,Krasnodar,4-1,?,SKA Khabarovsk
+Mon Oct 30 2017,Ufa,2-1,?,Rubin Kazan
+Mon Oct 30 2017,Akhmat Grozny,1-1,?,FK Anzi Makhackala
+Fri Nov 3 2017,Ural,2-2,?,Dynamo Moscow
+Sat Nov 4 2017,Tosno,1-3,?,Krasnodar
+Sat Nov 4 2017,Akhmat Grozny,1-0,?,FK Rostov
+Sun Nov 5 2017,SKA Khabarovsk,1-2,?,Arsenal Tula
+Sun Nov 5 2017,Amkar,1-2,?,FK Anzi Makhackala
+Sun Nov 5 2017,Lokomotiv Moscow,2-2,?,CSKA Moscow
+Sun Nov 5 2017,Rubin Kazan,0-0,?,Zenit
+Sun Nov 5 2017,Spartak Moscow,3-1,?,Ufa
+Sat Nov 18 2017,SKA Khabarovsk,2-4,?,CSKA Moscow
+Sat Nov 18 2017,Dynamo Moscow,1-1,?,Akhmat Grozny
+Sat Nov 18 2017,Krasnodar,1-4,?,Spartak Moscow
+Sat Nov 18 2017,Arsenal Tula,0-0,?,Rubin Kazan
+Sun Nov 19 2017,Ufa,2-0,?,Ural
+Sun Nov 19 2017,FK Anzi Makhackala,0-1,?,Lokomotiv Moscow
+Sun Nov 19 2017,FK Rostov,0-0,?,Amkar
+Sun Nov 19 2017,Zenit,5-0,?,Tosno
+Fri Nov 24 2017,Amkar,2-1,?,Dynamo Moscow
+Sat Nov 25 2017,Tosno,3-2,?,Arsenal Tula
+Sat Nov 25 2017,Akhmat Grozny,2-1,?,Ufa
+Sun Nov 26 2017,Ural,0-1,?,Krasnodar
+Sun Nov 26 2017,Rubin Kazan,0-1,?,CSKA Moscow
+Sun Nov 26 2017,FK Rostov,2-0,?,FK Anzi Makhackala
+Mon Nov 27 2017,SKA Khabarovsk,1-2,?,Lokomotiv Moscow
+Mon Nov 27 2017,Spartak Moscow,3-1,?,Zenit
+Fri Dec 1 2017,Arsenal Tula,0-1,?,Spartak Moscow
+Fri Dec 1 2017,CSKA Moscow,6-0,?,Tosno
+Sat Dec 2 2017,Dynamo Moscow,2-0,?,FK Rostov
+Sat Dec 2 2017,Zenit,2-1,?,Ural
+Sat Dec 2 2017,Lokomotiv Moscow,1-0,?,Rubin Kazan
+Sun Dec 3 2017,Ufa,3-0,?,Amkar
+Sun Dec 3 2017,Krasnodar,3-2,?,Akhmat Grozny
+Sun Dec 3 2017,FK Anzi Makhackala,4-0,?,SKA Khabarovsk
+Fri Dec 8 2017,Ural,1-1,?,Arsenal Tula
+Sat Dec 9 2017,Dynamo Moscow,2-0,?,FK Anzi Makhackala
+Sat Dec 9 2017,Rubin Kazan,3-1,?,SKA Khabarovsk
+Sun Dec 10 2017,Amkar,1-3,?,Krasnodar
+Sun Dec 10 2017,Spartak Moscow,3-0,?,CSKA Moscow
+Sun Dec 10 2017,FK Rostov,1-0,?,Ufa
+Mon Dec 11 2017,Akhmat Grozny,0-0,?,Zenit
+Mon Dec 11 2017,Tosno,1-3,?,Lokomotiv Moscow
+Fri Mar 2 2018,FK Anzi Makhackala,1-1,?,Rubin Kazan
+Sat Mar 3 2018,CSKA Moscow,1-0,?,Ural
+Sat Mar 3 2018,Zenit,0-0,?,Amkar
+Sat Mar 3 2018,Krasnodar,3-1,?,FK Rostov
+Sun Mar 4 2018,SKA Khabarovsk,0-1,?,Tosno
+Sun Mar 4 2018,Ufa,1-1,?,Dynamo Moscow
+Sun Mar 4 2018,Lokomotiv Moscow,0-0,?,Spartak Moscow
+Sun Mar 4 2018,Arsenal Tula,1-0,?,Akhmat Grozny
+Fri Mar 9 2018,Amkar,0-2,?,Arsenal Tula
+Sat Mar 10 2018,Ufa,3-2,?,FK Anzi Makhackala
+Sat Mar 10 2018,Dynamo Moscow,0-0,?,Krasnodar
+Sat Mar 10 2018,Tosno,0-1,?,Rubin Kazan
+Sun Mar 11 2018,FK Rostov,0-0,?,Zenit
+Sun Mar 11 2018,Akhmat Grozny,0-3,?,CSKA Moscow
+Sun Mar 11 2018,Spartak Moscow,1-0,?,SKA Khabarovsk
+Mon Mar 12 2018,Ural,0-2,?,Lokomotiv Moscow
+Sat Mar 17 2018,SKA Khabarovsk,0-3,?,Ural
+Sat Mar 17 2018,Arsenal Tula,2-2,?,FK Rostov
+Sat Mar 17 2018,Krasnodar,0-1,?,Ufa
+Sat Mar 17 2018,FK Anzi Makhackala,2-0,?,Tosno
+Sat Mar 17 2018,Rubin Kazan,1-2,?,Spartak Moscow
+Sat Mar 31 2018,Akhmat Grozny,0-0,?,SKA Khabarovsk
+Sat Mar 31 2018,Amkar,2-1,?,Lokomotiv Moscow
+Sat Mar 31 2018,Dynamo Moscow,2-1,?,Arsenal Tula
+Sat Mar 31 2018,Spartak Moscow,2-1,?,Tosno
+Sun Apr 1 2018,Ural,1-1,?,Rubin Kazan
+Sun Apr 1 2018,Ufa,1-2,?,Zenit
+Sun Apr 1 2018,FK Rostov,1-2,?,CSKA Moscow
+Sun Apr 1 2018,Krasnodar,1-1,?,FK Anzi Makhackala
+Sat Apr 7 2018,SKA Khabarovsk,0-2,?,Amkar
+Sat Apr 7 2018,Rubin Kazan,3-2,?,Akhmat Grozny
+Sat Apr 7 2018,Zenit,1-2,?,Krasnodar
+Sat Apr 7 2018,Arsenal Tula,2-1,?,Ufa
+Sun Apr 8 2018,Tosno,2-2,?,Ural
+Sun Apr 8 2018,Lokomotiv Moscow,1-0,?,FK Rostov
+Sun Apr 8 2018,FK Anzi Makhackala,1-4,?,Spartak Moscow
+Mon Apr 9 2018,CSKA Moscow,1-2,?,Dynamo Moscow
+Fri Apr 13 2018,Akhmat Grozny,1-0,?,Tosno
+Sat Apr 14 2018,Amkar,0-3,?,Rubin Kazan
+Sat Apr 14 2018,Dynamo Moscow,0-4,?,Lokomotiv Moscow
+Sat Apr 14 2018,Zenit,1-0,?,FK Anzi Makhackala
+Sat Apr 14 2018,Krasnodar,3-0,?,Arsenal Tula
+Sun Apr 15 2018,Ural,2-1,?,Spartak Moscow
+Sun Apr 15 2018,Ufa,1-1,?,CSKA Moscow
+Sun Apr 15 2018,FK Rostov,2-0,?,SKA Khabarovsk
+Wed Apr 18 2018,Lokomotiv Moscow,0-0,?,Akhmat Grozny
+Wed Apr 18 2018,Zenit,2-1,?,Dynamo Moscow
+Wed Apr 18 2018,CSKA Moscow,3-0,?,Amkar
+Sat Apr 21 2018,Rubin Kazan,1-1,?,FK Rostov
+Sat Apr 21 2018,FK Anzi Makhackala,0-1,?,Ural
+Sun Apr 22 2018,SKA Khabarovsk,0-1,?,Dynamo Moscow
+Sun Apr 22 2018,Arsenal Tula,3-3,?,Zenit
+Sun Apr 22 2018,CSKA Moscow,2-1,?,Krasnodar
+Sun Apr 22 2018,Tosno,0-2,?,Amkar
+Sun Apr 22 2018,Lokomotiv Moscow,0-0,?,Ufa
+Mon Apr 23 2018,Spartak Moscow,1-3,?,Akhmat Grozny
+Sat Apr 28 2018,Arsenal Tula,2-1,?,FK Anzi Makhackala
+Sun Apr 29 2018,Amkar,0-2,?,Spartak Moscow
+Sun Apr 29 2018,Zenit,0-0,?,CSKA Moscow
+Sun Apr 29 2018,FK Rostov,2-0,?,Tosno
+Mon Apr 30 2018,Ufa,1-0,?,SKA Khabarovsk
+Mon Apr 30 2018,Dynamo Moscow,0-0,?,Rubin Kazan
+Mon Apr 30 2018,Akhmat Grozny,0-0,?,Ural
+Mon Apr 30 2018,Krasnodar,2-0,?,Lokomotiv Moscow
+Sat May 5 2018,SKA Khabarovsk,0-1,?,Krasnodar
+Sat May 5 2018,Tosno,1-2,?,Dynamo Moscow
+Sat May 5 2018,Lokomotiv Moscow,1-0,?,Zenit
+Sat May 5 2018,Spartak Moscow,2-0,?,FK Rostov
+Sun May 6 2018,Ural,0-2,?,Amkar
+Sun May 6 2018,CSKA Moscow,6-0,?,Arsenal Tula
+Mon May 7 2018,FK Anzi Makhackala,0-2,?,Akhmat Grozny
+Mon May 7 2018,Rubin Kazan,0-0,?,Ufa
+Sun May 13 2018,Amkar,0-0,?,Akhmat Grozny
+Sun May 13 2018,Arsenal Tula,2-0,?,Lokomotiv Moscow
+Sun May 13 2018,CSKA Moscow,2-1,?,FK Anzi Makhackala
+Sun May 13 2018,FK Rostov,1-0,?,Ural
+Sun May 13 2018,Krasnodar,1-1,?,Rubin Kazan
+Sun May 13 2018,Spartak Moscow,0-1,?,Dynamo Moscow
+Sun May 13 2018,Ufa,5-0,?,Tosno
+Sun May 13 2018,Zenit,6-0,?,SKA Khabarovsk
+Thu May 17 2018,Yenisey,3-0,?,FK Anzi Makhackala
+Thu May 17 2018,Amkar,2-0,?,Tambov
+Sun May 20 2018,Tambov,0-1,?,Amkar
+Sun May 20 2018,FK Anzi Makhackala,4-3,?,Yenisey

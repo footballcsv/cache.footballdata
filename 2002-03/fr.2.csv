@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 2 2002,Reims,1-3,0-1,Lorient
+Sat Aug 3 2002,Amiens,0-1,0-1,Le Mans
+Sat Aug 3 2002,Caen,3-1,0-0,Valence
+Sat Aug 3 2002,Chateauroux,1-0,1-0,Beauvais
+Sat Aug 3 2002,Clermont,1-1,1-0,Niort
+Sat Aug 3 2002,Grenoble,1-0,1-0,St Etienne
+Sat Aug 3 2002,Gueugnon,0-2,0-0,Metz
+Sat Aug 3 2002,Istres,0-4,0-2,Toulouse
+Sat Aug 3 2002,Laval,1-0,1-0,Wasquehal
+Sat Aug 3 2002,Nancy,2-3,1-3,Creteil
+Sat Aug 10 2002,Beauvais,1-0,1-0,Clermont
+Sat Aug 10 2002,Caen,4-1,3-1,Chateauroux
+Sat Aug 10 2002,Creteil,1-1,1-0,Laval
+Sat Aug 10 2002,Le Mans,3-1,2-0,Gueugnon
+Sat Aug 10 2002,Metz,0-0,0-0,Reims
+Sat Aug 10 2002,Niort,2-0,0-0,Amiens
+Sat Aug 10 2002,St Etienne,3-0,2-0,Istres
+Sat Aug 10 2002,Valence,2-0,1-0,Nancy
+Sat Aug 10 2002,Wasquehal,1-1,0-1,Grenoble
+Sun Aug 11 2002,Lorient,1-0,0-0,Toulouse
+Fri Aug 16 2002,Nancy,0-0,0-0,Caen
+Sat Aug 17 2002,Amiens,1-0,1-0,St Etienne
+Sat Aug 17 2002,Chateauroux,2-0,1-0,Creteil
+Sat Aug 17 2002,Clermont,1-0,1-0,Valence
+Sat Aug 17 2002,Grenoble,1-0,0-0,Niort
+Sat Aug 17 2002,Gueugnon,0-2,0-2,Wasquehal
+Sat Aug 17 2002,Istres,1-1,1-1,Lorient
+Sat Aug 17 2002,Laval,2-0,1-0,Beauvais
+Sat Aug 17 2002,Reims,1-2,0-0,Le Mans
+Sat Aug 17 2002,Toulouse,3-0,1-0,Metz
+Sat Aug 24 2002,Beauvais,1-0,1-0,Gueugnon
+Sat Aug 24 2002,Caen,0-0,0-0,Laval
+Sat Aug 24 2002,Creteil,0-0,0-0,Grenoble
+Sat Aug 24 2002,Le Mans,2-1,2-1,Toulouse
+Sat Aug 24 2002,Metz,2-1,1-1,Lorient
+Sat Aug 24 2002,Niort,1-3,1-2,Istres
+Sat Aug 24 2002,Valence,4-0,1-0,Chateauroux
+Sat Aug 24 2002,Wasquehal,2-0,1-0,Clermont
+Sun Aug 25 2002,Nancy,1-0,0-0,Amiens
+Sun Aug 25 2002,St Etienne,0-0,0-0,Reims
+Fri Aug 30 2002,Clermont,1-2,1-1,Creteil
+Fri Aug 30 2002,Grenoble,0-2,0-1,Beauvais
+Sat Aug 31 2002,Amiens,1-2,1-1,Wasquehal
+Sat Aug 31 2002,Chateauroux,1-0,0-0,Nancy
+Sat Aug 31 2002,Gueugnon,0-2,0-1,St Etienne
+Sat Aug 31 2002,Istres,1-1,1-0,Metz
+Sat Aug 31 2002,Laval,1-2,0-1,Valence
+Sat Aug 31 2002,Reims,1-1,0-0,Niort
+Sat Aug 31 2002,Toulouse,2-0,1-0,Caen
+Sun Sep 1 2002,Lorient,3-4,1-3,Le Mans
+Wed Sep 4 2002,Beauvais,2-0,1-0,Istres
+Wed Sep 4 2002,Caen,1-1,1-1,Clermont
+Wed Sep 4 2002,Chateauroux,2-1,1-0,Gueugnon
+Wed Sep 4 2002,Creteil,1-1,0-0,Amiens
+Wed Sep 4 2002,Nancy,2-1,0-0,Laval
+Wed Sep 4 2002,Niort,2-0,0-0,Toulouse
+Wed Sep 4 2002,St Etienne,1-1,1-0,Lorient
+Wed Sep 4 2002,Valence,1-0,0-0,Grenoble
+Wed Sep 4 2002,Wasquehal,1-1,0-1,Reims
+Thu Sep 5 2002,Le Mans,1-0,1-0,Metz
+Tue Sep 10 2002,Istres,1-0,1-0,Le Mans
+Wed Sep 11 2002,Amiens,3-0,0-0,Valence
+Wed Sep 11 2002,Clermont,3-1,1-0,Nancy
+Wed Sep 11 2002,Grenoble,2-2,1-1,Caen
+Wed Sep 11 2002,Gueugnon,2-2,2-1,Creteil
+Wed Sep 11 2002,Laval,1-0,1-0,Chateauroux
+Wed Sep 11 2002,Metz,2-0,2-0,Wasquehal
+Wed Sep 11 2002,Reims,0-0,0-0,Beauvais
+Wed Sep 11 2002,Toulouse,1-0,0-0,St Etienne
+Thu Sep 12 2002,Lorient,1-0,1-0,Niort
+Sat Sep 14 2002,Beauvais,0-0,0-0,Toulouse
+Sat Sep 14 2002,Chateauroux,1-0,0-0,Clermont
+Sat Sep 14 2002,Laval,1-0,0-0,Reims
+Sat Sep 14 2002,Nancy,1-1,1-0,Grenoble
+Sat Sep 14 2002,St Etienne,0-0,0-0,Le Mans
+Sat Sep 14 2002,Valence,0-1,0-0,Gueugnon
+Sat Sep 14 2002,Wasquehal,0-0,0-0,Istres
+Sun Sep 15 2002,Caen,2-0,2-0,Amiens
+Sun Sep 15 2002,Creteil,3-1,0-1,Lorient
+Sun Sep 15 2002,Niort,2-0,2-0,Metz
+Fri Sep 20 2002,Metz,1-1,1-0,St Etienne
+Fri Sep 20 2002,Toulouse,1-0,1-0,Wasquehal
+Sat Sep 21 2002,Amiens,2-0,1-0,Beauvais
+Sat Sep 21 2002,Clermont,3-0,0-0,Laval
+Sat Sep 21 2002,Grenoble,0-0,0-0,Chateauroux
+Sat Sep 21 2002,Gueugnon,1-1,0-1,Caen
+Sat Sep 21 2002,Istres,2-2,1-1,Valence
+Sat Sep 21 2002,Le Mans,1-0,0-0,Niort
+Sat Sep 21 2002,Reims,0-0,0-0,Creteil
+Sun Sep 22 2002,Lorient,1-0,0-0,Nancy
+Sat Sep 28 2002,Beauvais,0-1,0-1,Lorient
+Sat Sep 28 2002,Caen,1-1,0-1,Reims
+Sat Sep 28 2002,Chateauroux,1-1,1-0,Amiens
+Sat Sep 28 2002,Creteil,5-0,4-0,Istres
+Sat Sep 28 2002,Laval,1-1,1-0,Grenoble
+Sat Sep 28 2002,Nancy,1-1,0-0,Gueugnon
+Sat Sep 28 2002,Niort,3-0,1-0,St Etienne
+Sat Sep 28 2002,Valence,0-1,0-0,Toulouse
+Sat Sep 28 2002,Wasquehal,2-1,1-0,Le Mans
+Sun Sep 29 2002,Clermont,2-1,1-1,Metz
+Fri Oct 4 2002,Amiens,1-0,0-0,Laval
+Fri Oct 4 2002,Le Mans,3-0,0-0,Nancy
+Sat Oct 5 2002,Grenoble,6-1,4-1,Clermont
+Sat Oct 5 2002,Gueugnon,1-0,1-0,Niort
+Sat Oct 5 2002,Istres,0-2,0-2,Chateauroux
+Sat Oct 5 2002,Metz,1-0,1-0,Beauvais
+Sat Oct 5 2002,Reims,2-0,0-0,Valence
+Sat Oct 5 2002,St Etienne,2-0,1-0,Wasquehal
+Sat Oct 5 2002,Toulouse,0-0,0-0,Creteil
+Sun Oct 6 2002,Lorient,2-0,0-0,Caen
+Fri Oct 18 2002,Valence,3-1,0-0,Metz
+Sat Oct 19 2002,Beauvais,3-0,1-0,St Etienne
+Sat Oct 19 2002,Caen,1-0,0-0,Istres
+Sat Oct 19 2002,Chateauroux,3-1,1-1,Reims
+Sat Oct 19 2002,Clermont,2-1,1-1,Lorient
+Sat Oct 19 2002,Creteil,2-2,1-1,Le Mans
+Sat Oct 19 2002,Grenoble,0-0,0-0,Amiens
+Sat Oct 19 2002,Laval,2-0,1-0,Gueugnon
+Sat Oct 19 2002,Nancy,3-2,3-1,Toulouse
+Sat Oct 19 2002,Wasquehal,1-1,0-0,Niort
+Sat Oct 26 2002,Amiens,1-0,1-0,Clermont
+Sat Oct 26 2002,Gueugnon,1-0,0-0,Grenoble
+Sat Oct 26 2002,Istres,3-1,2-1,Laval
+Sat Oct 26 2002,Le Mans,2-0,1-0,Valence
+Sat Oct 26 2002,Lorient,0-0,0-0,Wasquehal
+Sat Oct 26 2002,Metz,1-0,0-0,Creteil
+Sat Oct 26 2002,Niort,0-1,0-1,Beauvais
+Sat Oct 26 2002,Reims,1-0,0-0,Nancy
+Sat Oct 26 2002,St Etienne,2-1,1-0,Caen
+Sun Oct 27 2002,Toulouse,1-0,0-0,Chateauroux
+Fri Nov 1 2002,Caen,1-1,0-0,Le Mans
+Sat Nov 2 2002,Amiens,0-1,0-1,Reims
+Sat Nov 2 2002,Beauvais,0-0,0-0,Wasquehal
+Sat Nov 2 2002,Chateauroux,3-1,1-0,Lorient
+Sat Nov 2 2002,Clermont,0-0,0-0,Gueugnon
+Sat Nov 2 2002,Creteil,0-0,0-0,Niort
+Sat Nov 2 2002,Grenoble,5-0,2-0,Istres
+Sat Nov 2 2002,Laval,1-1,0-1,Toulouse
+Sat Nov 2 2002,Valence,0-0,0-0,St Etienne
+Sun Nov 3 2002,Nancy,1-2,1-1,Metz
+Fri Nov 8 2002,Wasquehal,2-2,1-2,Caen
+Sat Nov 9 2002,Gueugnon,1-1,0-0,Amiens
+Sat Nov 9 2002,Istres,2-0,1-0,Nancy
+Sat Nov 9 2002,Le Mans,1-0,0-0,Beauvais
+Sat Nov 9 2002,Metz,2-0,1-0,Chateauroux
+Sat Nov 9 2002,Niort,2-2,1-1,Valence
+Sat Nov 9 2002,Reims,0-1,0-0,Grenoble
+Sat Nov 9 2002,St Etienne,1-1,0-1,Creteil
+Sat Nov 9 2002,Toulouse,2-1,1-1,Clermont
+Sun Nov 10 2002,Lorient,2-1,1-1,Laval
+Fri Nov 15 2002,Chateauroux,1-1,0-0,Le Mans
+Sat Nov 16 2002,Amiens,1-1,0-0,Istres
+Sat Nov 16 2002,Caen,0-1,0-0,Niort
+Sat Nov 16 2002,Clermont,3-2,1-2,Reims
+Sat Nov 16 2002,Creteil,1-0,1-0,Beauvais
+Sat Nov 16 2002,Grenoble,1-1,0-0,Toulouse
+Sat Nov 16 2002,Gueugnon,1-0,0-0,Lorient
+Sat Nov 16 2002,Laval,1-1,0-0,Metz
+Sun Nov 17 2002,Nancy,1-0,1-0,St Etienne
+Fri Nov 29 2002,Metz,4-0,2-0,Caen
+Sat Nov 30 2002,Istres,1-1,0-1,Clermont
+Sat Nov 30 2002,Le Mans,1-1,0-0,Laval
+Sat Nov 30 2002,Lorient,0-2,0-0,Grenoble
+Sat Nov 30 2002,Niort,3-2,0-1,Nancy
+Sat Nov 30 2002,Reims,1-1,0-1,Gueugnon
+Sat Nov 30 2002,St Etienne,0-0,0-0,Chateauroux
+Sat Nov 30 2002,Toulouse,1-2,1-0,Amiens
+Sat Nov 30 2002,Wasquehal,2-3,0-1,Creteil
+Wed Dec 4 2002,Caen,0-0,0-0,Beauvais
+Wed Dec 4 2002,Chateauroux,4-0,3-0,Niort
+Wed Dec 4 2002,Clermont,1-0,1-0,Le Mans
+Wed Dec 4 2002,Grenoble,0-0,0-0,Metz
+Wed Dec 4 2002,Gueugnon,0-1,0-1,Toulouse
+Wed Dec 4 2002,Laval,1-0,0-0,St Etienne
+Wed Dec 4 2002,Nancy,0-0,0-0,Wasquehal
+Wed Dec 4 2002,Reims,2-2,1-0,Istres
+Wed Dec 4 2002,Valence,2-1,2-1,Creteil
+Thu Dec 5 2002,Amiens,0-2,0-1,Lorient
+Sat Dec 7 2002,Valence,0-1,0-0,Wasquehal
+Wed Dec 11 2002,Beauvais,0-0,0-0,Valence
+Wed Dec 18 2002,Le Mans,1-0,0-0,Grenoble
+Wed Dec 18 2002,Wasquehal,0-0,0-0,Chateauroux
+Thu Dec 19 2002,Beauvais,1-1,1-1,Nancy
+Thu Dec 19 2002,Creteil,1-1,0-0,Caen
+Thu Dec 19 2002,Istres,1-0,0-0,Gueugnon
+Thu Dec 19 2002,Lorient,1-0,1-0,Valence
+Thu Dec 19 2002,Metz,1-0,1-0,Amiens
+Thu Dec 19 2002,Niort,2-1,1-0,Laval
+Thu Dec 19 2002,St Etienne,3-1,2-0,Clermont
+Thu Dec 19 2002,Toulouse,2-0,0-0,Reims
+Sat Jan 11 2003,Grenoble,3-0,0-0,Wasquehal
+Sat Jan 11 2003,Toulouse,3-1,0-1,Lorient
+Wed Jan 15 2003,Le Mans,1-1,1-0,Reims
+Wed Jan 15 2003,Lorient,1-0,1-0,Istres
+Wed Jan 15 2003,Niort,1-0,0-0,Grenoble
+Wed Jan 15 2003,Valence,4-1,2-1,Clermont
+Thu Jan 16 2003,Metz,0-0,0-0,Toulouse
+Sat Jan 18 2003,Amiens,1-0,1-0,Niort
+Sat Jan 18 2003,Chateauroux,2-1,1-1,Caen
+Wed Jan 22 2003,Amiens,0-0,0-0,Nancy
+Wed Jan 22 2003,Chateauroux,1-1,1-1,Valence
+Wed Jan 22 2003,Clermont,1-0,1-0,Wasquehal
+Wed Jan 22 2003,Grenoble,3-0,1-0,Creteil
+Wed Jan 22 2003,Gueugnon,2-0,1-0,Beauvais
+Wed Jan 22 2003,Istres,1-3,1-1,Niort
+Wed Jan 22 2003,Laval,3-2,1-1,Caen
+Wed Jan 22 2003,Lorient,2-0,0-0,Metz
+Wed Jan 22 2003,Reims,1-0,1-0,St Etienne
+Tue Jan 21 2003,Toulouse,2-0,0-0,Le Mans
+Tue Jan 28 2003,Le Mans,0-1,0-1,Lorient
+Tue Jan 28 2003,Metz,4-1,2-0,Istres
+Wed Jan 29 2003,Beauvais,0-1,0-1,Grenoble
+Wed Jan 29 2003,Creteil,0-1,0-0,Clermont
+Wed Jan 29 2003,Nancy,1-0,0-0,Chateauroux
+Wed Jan 29 2003,Niort,0-0,0-0,Reims
+Wed Jan 29 2003,St Etienne,0-3,0-2,Gueugnon
+Wed Jan 29 2003,Valence,1-0,0-0,Laval
+Wed Jan 29 2003,Wasquehal,0-0,0-0,Amiens
+Thu Jan 30 2003,Caen,0-2,0-1,Toulouse
+Fri Jan 31 2003,Metz,4-0,2-0,Le Mans
+Sat Feb 1 2003,Grenoble,1-2,0-2,Valence
+Sat Feb 1 2003,Istres,0-0,0-0,Beauvais
+Sat Feb 1 2003,Laval,0-1,0-1,Nancy
+Sat Feb 1 2003,Lorient,1-1,1-1,St Etienne
+Sun Feb 2 2003,Clermont,2-3,2-2,Caen
+Sun Feb 2 2003,Toulouse,4-1,1-0,Niort
+Tue Feb 4 2003,Beauvais,1-0,0-0,Reims
+Tue Feb 4 2003,Chateauroux,0-2,0-0,Laval
+Wed Feb 5 2003,Caen,0-0,0-0,Grenoble
+Wed Feb 5 2003,Le Mans,1-0,0-0,Istres
+Wed Feb 5 2003,Nancy,1-0,0-0,Clermont
+Wed Feb 5 2003,Niort,1-1,0-0,Lorient
+Wed Feb 5 2003,Valence,0-1,0-1,Amiens
+Wed Feb 5 2003,Wasquehal,0-0,0-0,Metz
+Fri Feb 7 2003,Reims,3-2,3-2,Laval
+Sat Feb 8 2003,Amiens,1-0,0-0,Caen
+Sat Feb 8 2003,Clermont,1-3,0-0,Chateauroux
+Sat Feb 8 2003,Grenoble,0-1,0-0,Nancy
+Sat Feb 8 2003,Gueugnon,2-0,1-0,Valence
+Sat Feb 8 2003,Istres,1-0,0-0,Wasquehal
+Sat Feb 8 2003,Lorient,0-0,0-0,Creteil
+Sat Feb 8 2003,Metz,2-1,0-0,Niort
+Sun Feb 9 2003,Le Mans,2-2,1-1,St Etienne
+Sun Feb 9 2003,Toulouse,2-0,0-0,Beauvais
+Thu Feb 13 2003,Creteil,0-2,0-1,Chateauroux
+Fri Feb 14 2003,Clermont,1-0,0-0,Beauvais
+Fri Feb 14 2003,Istres,0-0,0-0,St Etienne
+Tue Feb 18 2003,Gueugnon,0-1,0-0,Le Mans
+Tue Feb 18 2003,Nancy,2-2,0-0,Valence
+Sat Feb 22 2003,Beauvais,1-1,0-0,Amiens
+Sat Feb 22 2003,Caen,3-0,1-0,Gueugnon
+Sat Feb 22 2003,Chateauroux,0-0,0-0,Grenoble
+Sat Feb 22 2003,Creteil,1-1,1-0,Reims
+Sat Feb 22 2003,Laval,1-3,1-0,Clermont
+Sat Feb 22 2003,Niort,1-1,0-0,Le Mans
+Sat Feb 22 2003,St Etienne,1-1,1-1,Metz
+Sat Feb 22 2003,Valence,0-0,0-0,Istres
+Sat Feb 22 2003,Wasquehal,0-0,0-0,Toulouse
+Fri Feb 28 2003,Grenoble,0-1,0-0,Laval
+Fri Feb 28 2003,St Etienne,2-0,0-0,Niort
+Sat Mar 1 2003,Amiens,0-2,0-1,Chateauroux
+Sat Mar 1 2003,Gueugnon,2-2,0-0,Nancy
+Sat Mar 1 2003,Istres,1-0,0-0,Creteil
+Sat Mar 1 2003,Le Mans,0-0,0-0,Wasquehal
+Sat Mar 1 2003,Lorient,3-0,2-0,Beauvais
+Sat Mar 1 2003,Metz,2-1,0-1,Clermont
+Sat Mar 1 2003,Reims,1-2,0-1,Caen
+Sat Mar 1 2003,Toulouse,3-1,1-1,Valence
+Tue Mar 4 2003,Laval,1-0,0-0,Creteil
+Fri Mar 7 2003,Creteil,2-2,1-2,Toulouse
+Sat Mar 8 2003,Beauvais,1-2,0-1,Metz
+Sat Mar 8 2003,Caen,0-0,0-0,Lorient
+Sat Mar 8 2003,Chateauroux,1-0,0-0,Istres
+Sat Mar 8 2003,Clermont,2-0,2-0,Grenoble
+Sat Mar 8 2003,Laval,1-0,1-0,Amiens
+Sat Mar 8 2003,Nancy,2-2,1-1,Le Mans
+Sat Mar 8 2003,Niort,0-1,0-1,Gueugnon
+Sat Mar 8 2003,Valence,0-0,0-0,Reims
+Sat Mar 8 2003,Wasquehal,1-1,1-1,St Etienne
+Wed Mar 12 2003,Caen,2-0,0-0,Nancy
+Thu Mar 13 2003,Wasquehal,0-0,0-0,Gueugnon
+Fri Mar 14 2003,Beauvais,1-2,0-1,Laval
+Fri Mar 14 2003,St Etienne,4-1,2-0,Amiens
+Sun Mar 16 2003,Reims,0-2,0-0,Metz
+Tue Mar 18 2003,Amiens,2-0,0-0,Creteil
+Tue Mar 18 2003,Gueugnon,2-2,2-2,Chateauroux
+Fri Mar 21 2003,Le Mans,2-1,1-0,Creteil
+Sat Mar 22 2003,Amiens,1-1,0-1,Grenoble
+Sat Mar 22 2003,Gueugnon,2-1,2-1,Laval
+Sat Mar 22 2003,Istres,0-4,0-1,Caen
+Sat Mar 22 2003,Lorient,0-0,0-0,Clermont
+Sat Mar 22 2003,Metz,1-2,0-2,Valence
+Sat Mar 22 2003,Niort,1-1,1-1,Wasquehal
+Sat Mar 22 2003,Reims,0-1,0-0,Chateauroux
+Sat Mar 22 2003,St Etienne,1-0,0-0,Beauvais
+Sat Mar 22 2003,Toulouse,0-0,0-0,Nancy
+Thu Mar 27 2003,Chateauroux,0-0,0-0,Toulouse
+Fri Mar 28 2003,Beauvais,0-2,0-0,Niort
+Fri Mar 28 2003,Caen,0-0,0-0,St Etienne
+Fri Mar 28 2003,Clermont,1-1,1-1,Amiens
+Fri Mar 28 2003,Creteil,1-1,1-1,Metz
+Fri Mar 28 2003,Grenoble,2-0,1-0,Gueugnon
+Fri Mar 28 2003,Laval,3-1,2-0,Istres
+Fri Mar 28 2003,Nancy,2-1,2-1,Reims
+Fri Mar 28 2003,Valence,2-2,2-1,Le Mans
+Fri Mar 28 2003,Wasquehal,1-2,1-0,Lorient
+Fri Apr 4 2003,Le Mans,2-0,1-0,Caen
+Fri Apr 4 2003,Metz,4-0,1-0,Nancy
+Fri Apr 4 2003,Toulouse,2-1,1-1,Laval
+Sat Apr 5 2003,Gueugnon,2-0,1-0,Clermont
+Sat Apr 5 2003,Istres,3-1,0-0,Grenoble
+Sat Apr 5 2003,Lorient,2-0,2-0,Chateauroux
+Sat Apr 5 2003,Niort,1-0,1-0,Creteil
+Sat Apr 5 2003,Reims,1-1,1-1,Amiens
+Sat Apr 5 2003,St Etienne,2-0,1-0,Valence
+Sat Apr 5 2003,Wasquehal,0-2,0-1,Beauvais
+Fri Apr 11 2003,Nancy,0-2,0-0,Istres
+Sat Apr 12 2003,Amiens,0-0,0-0,Gueugnon
+Sat Apr 12 2003,Beauvais,0-2,0-1,Le Mans
+Sat Apr 12 2003,Caen,2-1,1-1,Wasquehal
+Sat Apr 12 2003,Chateauroux,0-0,0-0,Metz
+Sat Apr 12 2003,Clermont,0-1,0-0,Toulouse
+Sat Apr 12 2003,Creteil,0-0,0-0,St Etienne
+Sat Apr 12 2003,Grenoble,4-1,2-1,Reims
+Sat Apr 12 2003,Valence,2-2,0-0,Niort
+Sun Apr 13 2003,Laval,0-1,0-1,Lorient
+Fri Apr 18 2003,Toulouse,2-0,1-0,Grenoble
+Sat Apr 19 2003,Beauvais,0-0,0-0,Creteil
+Sat Apr 19 2003,Istres,2-0,0-0,Amiens
+Sat Apr 19 2003,Le Mans,1-0,1-0,Chateauroux
+Sat Apr 19 2003,Lorient,0-1,0-0,Gueugnon
+Sat Apr 19 2003,Metz,2-1,1-0,Laval
+Sat Apr 19 2003,Niort,1-1,0-1,Caen
+Sat Apr 19 2003,Reims,0-0,0-0,Clermont
+Sat Apr 19 2003,St Etienne,0-1,0-1,Nancy
+Sat Apr 19 2003,Wasquehal,1-0,1-0,Valence
+Tue Apr 22 2003,Nancy,0-0,0-0,Lorient
+Thu Apr 24 2003,St Etienne,1-0,0-0,Toulouse
+Fri Apr 25 2003,Creteil,2-2,0-2,Gueugnon
+Fri Apr 25 2003,Reims,4-1,0-1,Wasquehal
+Fri May 2 2003,Grenoble,0-0,0-0,Lorient
+Fri May 2 2003,Laval,1-1,0-1,Le Mans
+Sat May 3 2003,Amiens,3-1,2-0,Toulouse
+Sat May 3 2003,Caen,1-0,0-0,Metz
+Sat May 3 2003,Chateauroux,1-1,0-0,St Etienne
+Sat May 3 2003,Clermont,1-1,1-1,Istres
+Sat May 3 2003,Creteil,2-1,0-0,Wasquehal
+Sat May 3 2003,Gueugnon,2-2,2-2,Reims
+Sat May 3 2003,Nancy,0-0,0-0,Niort
+Sat May 3 2003,Valence,0-0,0-0,Beauvais
+Fri May 9 2003,Metz,1-0,0-0,Grenoble
+Fri May 9 2003,Toulouse,0-1,0-0,Gueugnon
+Sat May 10 2003,Beauvais,1-2,0-0,Caen
+Sat May 10 2003,Creteil,0-1,0-0,Valence
+Sat May 10 2003,Istres,0-0,0-0,Reims
+Sat May 10 2003,Le Mans,3-0,1-0,Clermont
+Sat May 10 2003,Lorient,1-0,0-0,Amiens
+Sat May 10 2003,Niort,4-0,1-0,Chateauroux
+Sat May 10 2003,St Etienne,1-0,1-0,Laval
+Sat May 10 2003,Wasquehal,1-1,0-0,Nancy
+Fri May 16 2003,Amiens,1-0,0-0,Metz
+Fri May 16 2003,Caen,2-2,1-0,Creteil
+Fri May 16 2003,Chateauroux,2-2,1-0,Wasquehal
+Fri May 16 2003,Clermont,1-0,1-0,St Etienne
+Fri May 16 2003,Grenoble,0-0,0-0,Le Mans
+Fri May 16 2003,Gueugnon,1-1,1-0,Istres
+Fri May 16 2003,Laval,2-1,0-1,Niort
+Fri May 16 2003,Nancy,0-2,0-0,Beauvais
+Fri May 16 2003,Reims,0-1,0-0,Toulouse
+Fri May 16 2003,Valence,1-1,1-0,Lorient
+Fri May 23 2003,Beauvais,0-1,0-0,Chateauroux
+Fri May 23 2003,Creteil,2-0,1-0,Nancy
+Fri May 23 2003,Le Mans,1-1,1-1,Amiens
+Fri May 23 2003,Lorient,3-0,1-0,Reims
+Fri May 23 2003,Metz,4-0,2-0,Gueugnon
+Fri May 23 2003,Niort,3-2,2-2,Clermont
+Fri May 23 2003,St Etienne,2-1,0-0,Grenoble
+Fri May 23 2003,Toulouse,1-0,0-0,Istres
+Fri May 23 2003,Valence,0-0,0-0,Caen
+Fri May 23 2003,Wasquehal,0-1,0-0,Laval

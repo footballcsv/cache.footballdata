@@ -1,0 +1,189 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 24 2019,Lamia,1-1,1-1,Panathinaikos
+Sat Aug 24 2019,Aris,1-1,0-1,OFI Crete
+Sat Aug 24 2019,Olympiakos,1-0,1-0,Asteras Tripolis
+Sun Aug 25 2019,Atromitos,1-1,1-1,Larisa
+Sun Aug 25 2019,Panionios,1-2,0-1,Volos NFC
+Sun Aug 25 2019,PAOK,2-1,1-0,Panetolikos
+Sun Aug 25 2019,AEK,1-2,0-0,Xanthi
+Sat Aug 31 2019,Panetolikos,1-2,0-0,Xanthi
+Sat Aug 31 2019,Panathinaikos,1-3,0-1,OFI Crete
+Sat Aug 31 2019,Volos NFC,1-0,0-0,Aris
+Sun Sep 1 2019,PAOK,2-1,1-0,Panionios
+Sun Sep 1 2019,Larisa,0-1,0-1,Olympiakos
+Sun Sep 1 2019,Lamia,2-2,1-1,Atromitos
+Sun Sep 1 2019,Asteras Tripolis,2-3,1-1,AEK
+Sat Sep 14 2019,Atromitos,2-3,1-2,PAOK
+Sat Sep 14 2019,OFI Crete,3-1,0-0,Panetolikos
+Sat Sep 14 2019,Olympiakos,5-0,1-0,Volos NFC
+Sun Sep 15 2019,Xanthi,2-1,1-0,Asteras Tripolis
+Sun Sep 15 2019,AEK,2-0,2-0,Lamia
+Sun Sep 15 2019,Panionios,1-0,0-0,Larisa
+Sun Sep 15 2019,Aris,4-0,2-0,Panathinaikos
+Sat Sep 21 2019,Volos NFC,1-0,0-0,OFI Crete
+Sat Sep 21 2019,Asteras Tripolis,2-1,2-0,Atromitos
+Sat Sep 21 2019,Panetolikos,0-1,0-0,AEK
+Sun Sep 22 2019,Larisa,3-0,1-0,Xanthi
+Sun Sep 22 2019,PAOK,2-2,1-1,Aris
+Sun Sep 22 2019,Lamia,1-1,0-0,Panionios
+Sun Sep 22 2019,Panathinaikos,1-1,0-1,Olympiakos
+Sat Sep 28 2019,Aris,2-3,2-2,Larisa
+Sat Sep 28 2019,Atromitos,2-0,1-0,Panetolikos
+Sat Sep 28 2019,Olympiakos,2-0,0-0,Lamia
+Sun Sep 29 2019,OFI Crete,3-1,0-0,Asteras Tripolis
+Sun Sep 29 2019,Xanthi,3-1,1-0,Volos NFC
+Sun Sep 29 2019,Panionios,0-1,0-1,Panathinaikos
+Sun Sep 29 2019,AEK,2-2,0-1,PAOK
+Sat Oct 5 2019,Panathinaikos,0-1,0-0,Xanthi
+Sat Oct 5 2019,Larisa,0-0,0-0,AEK
+Sun Oct 6 2019,Volos NFC,2-3,2-2,Atromitos
+Sun Oct 6 2019,Asteras Tripolis,1-2,0-1,PAOK
+Sun Oct 6 2019,OFI Crete,4-1,1-1,Panionios
+Sun Oct 6 2019,Aris,1-2,1-2,Olympiakos
+Mon Oct 7 2019,Lamia,0-0,0-0,Panetolikos
+Sat Oct 19 2019,Olympiakos,2-1,1-1,OFI Crete
+Sat Oct 19 2019,Panetolikos,2-2,1-1,Larisa
+Sun Oct 20 2019,Xanthi,0-1,0-1,Aris
+Sun Oct 20 2019,Panionios,0-1,0-1,Asteras Tripolis
+Sun Oct 20 2019,PAOK,3-0,3-0,Lamia
+Sun Oct 20 2019,AEK,3-2,1-1,Volos NFC
+Sun Oct 20 2019,Atromitos,0-1,0-1,Panathinaikos
+Sat Oct 26 2019,OFI Crete,2-0,0-0,Xanthi
+Sat Oct 26 2019,Volos NFC,0-2,0-1,PAOK
+Sun Oct 27 2019,Panathinaikos,1-2,0-1,Larisa
+Sun Oct 27 2019,Atromitos,4-0,3-0,Panionios
+Sun Oct 27 2019,Aris,2-0,2-0,Panetolikos
+Sun Oct 27 2019,Olympiakos,2-0,1-0,AEK
+Mon Oct 28 2019,Asteras Tripolis,4-1,2-1,Lamia
+Sat Nov 2 2019,Panionios,1-1,0-0,Aris
+Sat Nov 2 2019,Xanthi,0-0,0-0,Olympiakos
+Sun Nov 3 2019,Larisa,3-2,1-2,OFI Crete
+Sun Nov 3 2019,Panetolikos,1-1,1-1,Asteras Tripolis
+Sun Nov 3 2019,AEK,3-2,0-1,Atromitos
+Sun Nov 3 2019,PAOK,2-2,0-1,Panathinaikos
+Mon Nov 4 2019,Lamia,1-0,0-0,Volos NFC
+Sat Nov 9 2019,Volos NFC,3-2,0-1,Panetolikos
+Sat Nov 9 2019,OFI Crete,0-1,0-0,PAOK
+Sun Nov 10 2019,Aris,2-1,2-1,Asteras Tripolis
+Sun Nov 10 2019,Xanthi,1-2,0-0,Panionios
+Sun Nov 10 2019,Olympiakos,2-0,0-0,Atromitos
+Sun Nov 10 2019,Panathinaikos,3-2,0-2,AEK
+Mon Nov 11 2019,Larisa,0-3,0-1,Lamia
+Sat Nov 23 2019,Panionios,1-1,0-0,Olympiakos
+Sat Nov 23 2019,Lamia,1-0,0-0,Xanthi
+Sun Nov 24 2019,Atromitos,2-1,1-1,OFI Crete
+Sun Nov 24 2019,Asteras Tripolis,0-0,0-0,Volos NFC
+Sun Nov 24 2019,PAOK,1-0,1-0,Larisa
+Sun Nov 24 2019,AEK,1-1,0-0,Aris
+Sun Nov 24 2019,Panetolikos,0-0,0-0,Panathinaikos
+Sat Nov 30 2019,Larisa,2-1,0-1,Volos NFC
+Sat Nov 30 2019,Panionios,3-0,1-0,Panetolikos
+Sat Nov 30 2019,OFI Crete,1-0,0-0,AEK
+Sun Dec 1 2019,Panathinaikos,1-0,1-0,Asteras Tripolis
+Sun Dec 1 2019,Aris,1-1,1-1,Lamia
+Sun Dec 1 2019,Xanthi,1-0,0-0,Atromitos
+Sun Dec 1 2019,Olympiakos,1-1,0-1,PAOK
+Sat Dec 7 2019,PAOK,2-0,0-0,Xanthi
+Sat Dec 7 2019,AEK,5-0,2-0,Panionios
+Sat Dec 7 2019,Panetolikos,0-3,0-3,Olympiakos
+Sun Dec 8 2019,Lamia,2-1,1-1,OFI Crete
+Sun Dec 8 2019,Asteras Tripolis,1-1,1-0,Larisa
+Sun Dec 8 2019,Atromitos,2-2,1-1,Aris
+Sun Dec 8 2019,Volos NFC,1-1,1-1,Panathinaikos
+Sat Dec 14 2019,OFI Crete,3-1,1-1,Aris
+Sat Dec 14 2019,Panathinaikos,2-0,1-0,Lamia
+Sat Dec 14 2019,Xanthi,0-1,0-0,AEK
+Sun Dec 15 2019,Larisa,1-2,1-2,Atromitos
+Sun Dec 15 2019,Volos NFC,2-1,0-1,Panionios
+Sun Dec 15 2019,Asteras Tripolis,0-5,0-4,Olympiakos
+Sun Dec 15 2019,Panetolikos,0-3,0-1,PAOK
+Wed Dec 18 2019,Xanthi,0-0,0-0,Panetolikos
+Wed Dec 18 2019,OFI Crete,1-1,0-0,Panathinaikos
+Wed Dec 18 2019,Olympiakos,4-1,4-0,Larisa
+Wed Dec 18 2019,AEK,2-1,1-0,Asteras Tripolis
+Wed Dec 18 2019,Atromitos,1-1,0-0,Lamia
+Thu Dec 19 2019,Aris,4-0,3-0,Volos NFC
+Thu Dec 19 2019,Panionios,0-2,0-0,PAOK
+Sat Dec 21 2019,Asteras Tripolis,5-0,2-0,Xanthi
+Sat Dec 21 2019,Lamia,0-0,0-0,AEK
+Sun Dec 22 2019,Larisa,2-0,2-0,Panionios
+Sun Dec 22 2019,Panetolikos,2-0,0-0,OFI Crete
+Sun Dec 22 2019,Volos NFC,0-0,0-0,Olympiakos
+Sun Dec 22 2019,Panathinaikos,0-0,0-0,Aris
+Mon Dec 23 2019,PAOK,5-1,3-0,Atromitos
+Sat Jan 4 2020,OFI Crete,1-2,0-1,Volos NFC
+Sat Jan 4 2020,Aris,4-2,2-1,PAOK
+Sat Jan 4 2020,Atromitos,2-1,0-0,Asteras Tripolis
+Sun Jan 5 2020,AEK,3-1,1-1,Panetolikos
+Sun Jan 5 2020,Panionios,0-1,0-1,Lamia
+Sun Jan 5 2020,Xanthi,2-1,0-0,Larisa
+Sun Jan 5 2020,Olympiakos,1-0,0-0,Panathinaikos
+Sat Jan 11 2020,Volos NFC,1-3,0-1,Xanthi
+Sat Jan 11 2020,Larisa,0-0,0-0,Aris
+Sat Jan 11 2020,Panetolikos,0-1,0-0,Atromitos
+Sun Jan 12 2020,Asteras Tripolis,2-0,1-0,OFI Crete
+Sun Jan 12 2020,Lamia,0-4,0-1,Olympiakos
+Sun Jan 12 2020,Panathinaikos,3-0,2-0,Panionios
+Sun Jan 12 2020,PAOK,1-0,0-0,AEK
+Sat Jan 18 2020,Panionios,1-2,0-1,OFI Crete
+Sat Jan 18 2020,Panetolikos,1-1,0-1,Lamia
+Sun Jan 19 2020,Xanthi,0-1,0-0,Panathinaikos
+Sun Jan 19 2020,AEK,3-0,1-0,Larisa
+Sun Jan 19 2020,Atromitos,0-0,0-0,Volos NFC
+Sun Jan 19 2020,PAOK,3-1,1-0,Asteras Tripolis
+Sun Jan 19 2020,Olympiakos,4-2,3-1,Aris
+Wed Jan 22 2020,Larisa,2-2,0-1,Panetolikos
+Wed Jan 22 2020,OFI Crete,0-1,0-1,Olympiakos
+Wed Jan 22 2020,Volos NFC,1-3,0-2,AEK
+Wed Jan 22 2020,Panathinaikos,3-0,1-0,Atromitos
+Thu Jan 23 2020,Asteras Tripolis,2-0,1-0,Panionios
+Thu Jan 23 2020,Lamia,0-1,0-1,PAOK
+Thu Jan 23 2020,Aris,1-0,0-0,Xanthi
+Sat Jan 25 2020,Larisa,0-2,0-1,Panathinaikos
+Sun Jan 26 2020,Panionios,1-0,0-0,Atromitos
+Sun Jan 26 2020,Xanthi,2-2,0-1,OFI Crete
+Sun Jan 26 2020,Panetolikos,2-0,0-0,Aris
+Sun Jan 26 2020,AEK,0-0,0-0,Olympiakos
+Mon Jan 27 2020,PAOK,1-0,0-0,Volos NFC
+Mon Jan 27 2020,Lamia,1-1,0-0,Asteras Tripolis
+Sat Feb 1 2020,OFI Crete,0-0,0-0,Larisa
+Sat Feb 1 2020,Volos NFC,1-0,0-0,Lamia
+Sat Feb 1 2020,Olympiakos,3-1,2-0,Xanthi
+Sun Feb 2 2020,Aris,2-0,2-0,Panionios
+Sun Feb 2 2020,Asteras Tripolis,2-1,0-0,Panetolikos
+Sun Feb 2 2020,Atromitos,0-1,0-0,AEK
+Sun Feb 2 2020,Panathinaikos,2-0,0-0,PAOK
+Sat Feb 8 2020,Panionios,0-0,0-0,Xanthi
+Sat Feb 8 2020,Lamia,0-0,0-0,Larisa
+Sun Feb 9 2020,Asteras Tripolis,1-1,1-1,Aris
+Sun Feb 9 2020,Atromitos,0-1,0-0,Olympiakos
+Sun Feb 9 2020,PAOK,4-0,0-0,OFI Crete
+Sun Feb 9 2020,AEK,1-0,1-0,Panathinaikos
+Mon Feb 10 2020,Panetolikos,1-1,1-0,Volos NFC
+Sat Feb 15 2020,Larisa,1-2,0-2,PAOK
+Sat Feb 15 2020,Olympiakos,4-0,4-0,Panionios
+Sun Feb 16 2020,Panathinaikos,3-1,2-0,Panetolikos
+Sun Feb 16 2020,Volos NFC,0-1,0-0,Asteras Tripolis
+Sun Feb 16 2020,Xanthi,0-0,0-0,Lamia
+Sun Feb 16 2020,Aris,0-1,0-1,AEK
+Mon Feb 17 2020,OFI Crete,1-0,0-0,Atromitos
+Sat Feb 22 2020,Asteras Tripolis,1-1,0-0,Panathinaikos
+Sat Feb 22 2020,Lamia,2-2,1-0,Aris
+Sun Feb 23 2020,Panetolikos,1-0,0-0,Panionios
+Sun Feb 23 2020,Atromitos,1-0,1-0,Xanthi
+Sun Feb 23 2020,Volos NFC,0-0,0-0,Larisa
+Sun Feb 23 2020,AEK,3-0,3-0,OFI Crete
+Sun Feb 23 2020,PAOK,0-1,0-0,Olympiakos
+Sun Mar 1 2020,Aris,1-2,0-0,Atromitos
+Sun Mar 1 2020,Larisa,3-0,3-0,Asteras Tripolis
+Sun Mar 1 2020,OFI Crete,3-0,3-0,Lamia
+Sun Mar 1 2020,Olympiakos,2-0,0-0,Panetolikos
+Sun Mar 1 2020,Panathinaikos,4-1,2-0,Volos NFC
+Sun Mar 1 2020,Panionios,1-1,1-0,AEK
+Sun Mar 1 2020,Xanthi,1-1,1-1,PAOK
+Sat Jun 6 2020,Panionios,1-0,0-0,Volos NFC
+Sat Jun 6 2020,Aris,3-1,1-1,OFI Crete
+Sun Jun 7 2020,Larisa,1-2,1-1,Asteras Tripolis
+Sun Jun 7 2020,PAOK,0-1,0-1,Olympiakos
+Sun Jun 7 2020,AEK,1-1,0-0,Panathinaikos
+Mon Jun 8 2020,Lamia,2-0,1-0,Panetolikos

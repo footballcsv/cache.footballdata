@@ -1,0 +1,229 @@
+Date,Team 1,FT,HT,Team 2
+Sat Jul 23 2011,Aberdeen,0-0,0-0,St Johnstone
+Sat Jul 23 2011,Motherwell,3-0,2-0,Inverness C
+Sat Jul 23 2011,Rangers,1-1,0-1,Hearts
+Sun Jul 24 2011,Dundee United,1-1,0-0,Kilmarnock
+Sun Jul 24 2011,Hibernian,0-2,0-1,Celtic
+Mon Jul 25 2011,Dunfermline,0-0,0-0,St Mirren
+Sat Jul 30 2011,Inverness C,0-1,0-0,Hibernian
+Sat Jul 30 2011,Kilmarnock,0-0,0-0,Motherwell
+Sat Jul 30 2011,St Johnstone,0-2,0-1,Rangers
+Sat Jul 30 2011,St Mirren,1-0,0-0,Aberdeen
+Sun Jul 31 2011,Hearts,0-1,0-1,Dundee United
+Sat Aug 6 2011,Dundee United,1-1,0-1,St Mirren
+Sat Aug 6 2011,Dunfermline,3-3,1-0,Inverness C
+Sun Aug 7 2011,Aberdeen,0-1,0-0,Celtic
+Sun Aug 7 2011,Motherwell,1-0,0-0,Hearts
+Sat Aug 13 2011,Celtic,5-1,2-1,Dundee United
+Sat Aug 13 2011,Hearts,3-0,2-0,Aberdeen
+Sat Aug 13 2011,Inverness C,0-2,0-0,Rangers
+Sat Aug 13 2011,St Johnstone,0-1,0-1,Dunfermline
+Sat Aug 13 2011,St Mirren,0-1,0-0,Motherwell
+Sun Aug 14 2011,Kilmarnock,4-1,2-1,Hibernian
+Sat Aug 20 2011,Aberdeen,2-1,2-0,Inverness C
+Sat Aug 20 2011,Dundee United,0-1,0-0,Dunfermline
+Sat Aug 20 2011,Hibernian,1-2,1-2,St Mirren
+Sun Aug 21 2011,Celtic,0-1,0-0,St Johnstone
+Sun Aug 21 2011,Kilmarnock,0-0,0-0,Hearts
+Sun Aug 21 2011,Motherwell,0-3,0-2,Rangers
+Sat Aug 27 2011,Dunfermline,2-4,0-2,Motherwell
+Sat Aug 27 2011,Inverness C,2-1,1-1,Kilmarnock
+Sat Aug 27 2011,St Johnstone,3-3,3-1,Dundee United
+Sun Aug 28 2011,Hearts,2-0,1-0,Hibernian
+Sun Aug 28 2011,Rangers,2-0,1-0,Aberdeen
+Sun Aug 28 2011,St Mirren,0-2,0-2,Celtic
+Sat Sep 10 2011,Celtic,4-0,2-0,Motherwell
+Sat Sep 10 2011,Dundee United,0-1,0-0,Rangers
+Sat Sep 10 2011,Inverness C,1-1,0-0,Hearts
+Sat Sep 10 2011,Kilmarnock,3-2,2-1,Dunfermline
+Sat Sep 10 2011,St Mirren,0-0,0-0,St Johnstone
+Sun Sep 11 2011,Hibernian,0-0,0-0,Aberdeen
+Sat Sep 17 2011,Aberdeen,2-2,1-2,Kilmarnock
+Sat Sep 17 2011,Dundee United,3-1,2-1,Inverness C
+Sat Sep 17 2011,Dunfermline,2-2,0-1,Hibernian
+Sat Sep 17 2011,Hearts,2-0,1-0,St Mirren
+Sat Sep 17 2011,Motherwell,0-3,0-1,St Johnstone
+Sun Sep 18 2011,Rangers,4-2,1-2,Celtic
+Sat Sep 24 2011,Celtic,2-0,2-0,Inverness C
+Sat Sep 24 2011,Dunfermline,0-4,0-2,Rangers
+Sat Sep 24 2011,Hibernian,3-3,1-2,Dundee United
+Sat Sep 24 2011,Motherwell,1-0,0-0,Aberdeen
+Sat Sep 24 2011,St Mirren,3-0,2-0,Kilmarnock
+Sun Sep 25 2011,St Johnstone,2-0,1-0,Hearts
+Tue Sep 27 2011,Rangers,2-0,0-0,Kilmarnock
+Wed Sep 28 2011,Hibernian,3-2,2-1,St Johnstone
+Fri Sep 30 2011,Aberdeen,4-0,3-0,Dunfermline
+Sat Oct 1 2011,Dundee United,1-3,0-2,Motherwell
+Sat Oct 1 2011,Inverness C,2-1,1-1,St Mirren
+Sat Oct 1 2011,Kilmarnock,1-2,1-1,St Johnstone
+Sat Oct 1 2011,Rangers,1-0,0-0,Hibernian
+Sun Oct 2 2011,Hearts,2-0,0-0,Celtic
+Sat Oct 15 2011,Aberdeen,3-1,1-0,Dundee United
+Sat Oct 15 2011,Dunfermline,0-2,0-1,Hearts
+Sat Oct 15 2011,Hibernian,0-1,0-1,Motherwell
+Sat Oct 15 2011,Kilmarnock,3-3,3-0,Celtic
+Sat Oct 15 2011,Rangers,1-1,0-0,St Mirren
+Sat Oct 15 2011,St Johnstone,2-0,1-0,Inverness C
+Sat Oct 22 2011,Dundee United,0-0,0-0,St Johnstone
+Sat Oct 22 2011,Inverness C,1-1,1-0,Dunfermline
+Sat Oct 22 2011,Motherwell,0-0,0-0,Kilmarnock
+Sat Oct 22 2011,St Mirren,2-3,2-3,Hibernian
+Sun Oct 23 2011,Celtic,2-1,1-0,Aberdeen
+Sun Oct 23 2011,Hearts,0-2,0-1,Rangers
+Sat Oct 29 2011,Aberdeen,1-2,0-0,Rangers
+Sat Oct 29 2011,Celtic,0-0,0-0,Hibernian
+Sat Oct 29 2011,Dunfermline,1-4,0-2,Dundee United
+Sat Oct 29 2011,Hearts,0-1,0-0,Kilmarnock
+Sat Oct 29 2011,Inverness C,2-3,1-1,Motherwell
+Sat Oct 29 2011,St Johnstone,0-1,0-0,St Mirren
+Sat Nov 5 2011,Hibernian,0-1,0-1,Dunfermline
+Sat Nov 5 2011,Kilmarnock,3-6,1-1,Inverness C
+Sat Nov 5 2011,Rangers,3-1,1-0,Dundee United
+Sat Nov 5 2011,St Mirren,0-0,0-0,Hearts
+Sun Nov 6 2011,Motherwell,1-2,1-1,Celtic
+Sat Nov 19 2011,Aberdeen,1-2,1-1,Motherwell
+Sat Nov 19 2011,Dundee United,1-0,1-0,Hearts
+Sat Nov 19 2011,Hibernian,1-1,0-1,Kilmarnock
+Sat Nov 19 2011,Inverness C,0-2,0-0,Celtic
+Sat Nov 19 2011,Rangers,0-0,0-0,St Johnstone
+Sat Nov 19 2011,St Mirren,2-1,2-0,Dunfermline
+Wed Nov 23 2011,Celtic,2-1,2-0,Dunfermline
+Sat Nov 26 2011,Celtic,5-0,2-0,St Mirren
+Sat Nov 26 2011,Dunfermline,3-3,0-1,Aberdeen
+Sat Nov 26 2011,Hearts,2-1,0-0,Inverness C
+Sat Nov 26 2011,Motherwell,0-0,0-0,Dundee United
+Sat Nov 26 2011,St Johnstone,3-1,2-1,Hibernian
+Sun Nov 27 2011,Kilmarnock,1-0,0-0,Rangers
+Sat Dec 3 2011,Hearts,1-2,0-1,St Johnstone
+Sat Dec 3 2011,Kilmarnock,2-0,1-0,Aberdeen
+Sat Dec 3 2011,Rangers,2-1,2-1,Dunfermline
+Sat Dec 3 2011,St Mirren,1-2,1-1,Inverness C
+Sun Dec 4 2011,Dundee United,0-1,0-1,Celtic
+Sat Dec 10 2011,Aberdeen,2-2,2-1,St Mirren
+Sat Dec 10 2011,Celtic,1-0,0-0,Hearts
+Sat Dec 10 2011,Hibernian,0-2,0-0,Rangers
+Sat Dec 10 2011,Inverness C,2-3,1-0,Dundee United
+Sat Dec 10 2011,St Johnstone,0-3,0-2,Motherwell
+Tue Dec 13 2011,St Johnstone,1-2,0-1,Aberdeen
+Sat Dec 17 2011,Aberdeen,1-0,0-0,Hibernian
+Sat Dec 17 2011,Hearts,4-0,2-0,Dunfermline
+Sat Dec 17 2011,Kilmarnock,1-1,0-0,Dundee United
+Sat Dec 17 2011,Motherwell,1-1,0-0,St Mirren
+Sat Dec 17 2011,Rangers,2-1,0-0,Inverness C
+Sun Dec 18 2011,St Johnstone,0-2,0-0,Celtic
+Sat Dec 24 2011,Celtic,2-1,1-0,Kilmarnock
+Sat Dec 24 2011,Dundee United,3-1,0-1,Hibernian
+Sat Dec 24 2011,Dunfermline,0-3,0-1,St Johnstone
+Sat Dec 24 2011,Hearts,2-0,2-0,Motherwell
+Sat Dec 24 2011,Inverness C,2-1,0-0,Aberdeen
+Sat Dec 24 2011,St Mirren,2-1,2-1,Rangers
+Wed Dec 28 2011,Aberdeen,0-0,0-0,Hearts
+Wed Dec 28 2011,Celtic,1-0,0-0,Rangers
+Wed Dec 28 2011,Hibernian,1-1,1-1,Inverness C
+Wed Dec 28 2011,St Johnstone,2-0,2-0,Kilmarnock
+Wed Dec 28 2011,St Mirren,2-2,2-2,Dundee United
+Mon Jan 2 2012,Dundee United,1-2,1-0,Aberdeen
+Mon Jan 2 2012,Dunfermline,0-3,0-2,Celtic
+Mon Jan 2 2012,Hibernian,1-3,0-0,Hearts
+Mon Jan 2 2012,Kilmarnock,2-1,1-1,St Mirren
+Mon Jan 2 2012,Rangers,3-0,1-0,Motherwell
+Sat Jan 14 2012,Aberdeen,0-0,0-0,Kilmarnock
+Sat Jan 14 2012,Celtic,2-1,2-0,Dundee United
+Sat Jan 14 2012,Dunfermline,2-3,1-1,Hibernian
+Sat Jan 14 2012,Hearts,5-2,2-2,St Mirren
+Sat Jan 14 2012,Motherwell,0-1,0-0,Inverness C
+Sat Jan 14 2012,St Johnstone,1-2,0-1,Rangers
+Sat Jan 21 2012,Dundee United,1-1,1-0,Motherwell
+Sat Jan 21 2012,Hibernian,2-3,0-1,St Johnstone
+Sat Jan 21 2012,Inverness C,1-0,0-0,Hearts
+Sat Jan 21 2012,Kilmarnock,0-3,0-1,Dunfermline
+Sat Jan 21 2012,Rangers,1-1,0-0,Aberdeen
+Sat Jan 21 2012,St Mirren,0-2,0-0,Celtic
+Tue Jan 24 2012,Motherwell,3-1,1-0,Dunfermline
+Sat Jan 28 2012,Aberdeen,1-0,1-0,Dunfermline
+Sat Jan 28 2012,Inverness C,0-0,0-0,St Mirren
+Sat Jan 28 2012,Motherwell,3-2,1-1,St Johnstone
+Sat Jan 28 2012,Rangers,4-0,1-0,Hibernian
+Tue Feb 7 2012,Dunfermline,1-1,1-1,Kilmarnock
+Wed Feb 8 2012,Hearts,0-4,0-3,Celtic
+Sat Feb 11 2012,Celtic,1-0,1-0,Inverness C
+Sat Feb 11 2012,Dunfermline,1-4,1-2,Rangers
+Sat Feb 11 2012,Hibernian,0-0,0-0,Aberdeen
+Sat Feb 11 2012,Kilmarnock,1-1,0-0,Hearts
+Sat Feb 11 2012,St Johnstone,1-5,0-1,Dundee United
+Sat Feb 11 2012,St Mirren,0-0,0-0,Motherwell
+Sat Feb 18 2012,Dundee United,0-0,0-0,St Mirren
+Sat Feb 18 2012,Dunfermline,1-1,1-0,Inverness C
+Sat Feb 18 2012,Motherwell,3-0,2-0,Hearts
+Sat Feb 18 2012,Rangers,0-1,0-1,Kilmarnock
+Sun Feb 19 2012,Aberdeen,0-0,0-0,St Johnstone
+Sun Feb 19 2012,Hibernian,0-5,0-2,Celtic
+Tue Feb 21 2012,Dundee United,4-0,0-0,Kilmarnock
+Wed Feb 22 2012,Celtic,2-0,1-0,Dunfermline
+Wed Feb 22 2012,Motherwell,4-3,0-1,Hibernian
+Sat Feb 25 2012,Celtic,1-0,0-0,Motherwell
+Sat Feb 25 2012,Hearts,0-2,0-1,Dundee United
+Sat Feb 25 2012,Kilmarnock,1-3,0-1,Hibernian
+Sat Feb 25 2012,St Johnstone,3-1,2-0,Dunfermline
+Sat Feb 25 2012,St Mirren,1-1,0-0,Aberdeen
+Sun Feb 26 2012,Inverness C,1-4,1-3,Rangers
+Sat Mar 3 2012,Aberdeen,1-1,1-1,Celtic
+Sat Mar 3 2012,Dunfermline,0-2,0-0,Motherwell
+Sat Mar 3 2012,Hibernian,0-0,0-0,St Mirren
+Sat Mar 3 2012,Kilmarnock,0-0,0-0,St Johnstone
+Sat Mar 3 2012,Rangers,1-2,1-0,Hearts
+Mon Mar 5 2012,Dundee United,3-0,1-0,Inverness C
+Sat Mar 10 2012,Inverness C,1-1,0-1,Kilmarnock
+Sat Mar 17 2012,Dundee United,2-1,1-0,Rangers
+Sat Mar 17 2012,Motherwell,1-0,1-0,Aberdeen
+Sat Mar 17 2012,St Mirren,0-3,0-1,St Johnstone
+Sun Mar 18 2012,Hearts,2-0,1-0,Hibernian
+Sat Mar 24 2012,Aberdeen,0-1,0-1,Inverness C
+Sat Mar 24 2012,Dunfermline,1-1,0-1,St Mirren
+Sat Mar 24 2012,Hibernian,0-2,0-0,Dundee United
+Sat Mar 24 2012,Kilmarnock,2-0,0-0,Motherwell
+Sat Mar 24 2012,St Johnstone,2-1,1-1,Hearts
+Sun Mar 25 2012,Rangers,3-2,1-0,Celtic
+Wed Mar 28 2012,Inverness C,0-1,0-1,St Johnstone
+Sat Mar 31 2012,Dundee United,3-0,0-0,Dunfermline
+Sat Mar 31 2012,Hearts,3-0,1-0,Aberdeen
+Sat Mar 31 2012,Motherwell,1-2,1-1,Rangers
+Sat Mar 31 2012,St Mirren,4-2,1-1,Kilmarnock
+Sun Apr 1 2012,Celtic,2-0,0-0,St Johnstone
+Sun Apr 1 2012,Inverness C,2-3,0-0,Hibernian
+Sat Apr 7 2012,Aberdeen,3-1,1-1,Dundee United
+Sat Apr 7 2012,Dunfermline,1-2,0-0,Hearts
+Sat Apr 7 2012,Kilmarnock,0-6,0-4,Celtic
+Sat Apr 7 2012,Rangers,3-1,2-0,St Mirren
+Sat Apr 7 2012,St Johnstone,0-0,0-0,Inverness C
+Sun Apr 8 2012,Hibernian,1-1,1-0,Motherwell
+Sat Apr 21 2012,Hearts,0-3,0-2,Rangers
+Sat Apr 21 2012,Inverness C,0-2,0-0,Aberdeen
+Sat Apr 21 2012,St Johnstone,0-2,0-1,Dundee United
+Sat Apr 21 2012,St Mirren,4-4,2-1,Dunfermline
+Sun Apr 22 2012,Hibernian,0-1,0-1,Kilmarnock
+Sun Apr 22 2012,Motherwell,0-3,0-0,Celtic
+Sat Apr 28 2012,Dundee United,2-2,1-1,Hearts
+Sat Apr 28 2012,Dunfermline,3-0,0-0,Aberdeen
+Sat Apr 28 2012,Kilmarnock,4-3,1-2,Inverness C
+Sat Apr 28 2012,Motherwell,5-1,2-0,St Johnstone
+Sun Apr 29 2012,Celtic,3-0,2-0,Rangers
+Sun Apr 29 2012,St Mirren,1-0,0-0,Hibernian
+Tue May 1 2012,Hearts,0-1,0-1,Motherwell
+Wed May 2 2012,Aberdeen,1-2,0-2,Hibernian
+Wed May 2 2012,Inverness C,0-0,0-0,Dunfermline
+Wed May 2 2012,Kilmarnock,0-2,0-2,St Mirren
+Wed May 2 2012,Rangers,5-0,3-0,Dundee United
+Thu May 3 2012,Celtic,1-0,1-0,St Johnstone
+Sat May 5 2012,Kilmarnock,1-1,0-1,Aberdeen
+Sat May 5 2012,Rangers,0-0,0-0,Motherwell
+Sat May 5 2012,St Mirren,0-1,0-0,Inverness C
+Sun May 6 2012,Dundee United,1-0,1-0,Celtic
+Sun May 6 2012,Hearts,2-0,1-0,St Johnstone
+Mon May 7 2012,Hibernian,4-0,3-0,Dunfermline
+Sat May 12 2012,Aberdeen,0-0,0-0,St Mirren
+Sat May 12 2012,Dunfermline,1-2,1-0,Kilmarnock
+Sat May 12 2012,Inverness C,2-0,0-0,Hibernian
+Sun May 13 2012,Celtic,5-0,3-0,Hearts
+Sun May 13 2012,Motherwell,0-2,0-1,Dundee United
+Sun May 13 2012,St Johnstone,0-4,0-1,Rangers

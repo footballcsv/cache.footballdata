@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 4 1995,Aalst,3-1,1-1,Anderlecht
+Sat Aug 5 1995,Cercle Brugge,3-2,0-2,Antwerp
+Sat Aug 5 1995,Charleroi,4-2,1-0,Mechelen
+Sat Aug 5 1995,Lierse,0-1,0-0,Harelbeke
+Sat Aug 5 1995,Molenbeek,1-0,0-0,Beveren
+Sat Aug 5 1995,St Truiden,4-1,2-0,Seraing
+Sat Aug 5 1995,Standard,1-0,0-0,Lommel
+Sat Aug 5 1995,Waregem,2-2,0-1,Gent
+Sun Aug 6 1995,Germinal,1-2,0-1,Club Brugge
+Fri Aug 11 1995,Club Brugge,2-0,1-0,St Truiden
+Sat Aug 12 1995,Anderlecht,0-2,0-1,Charleroi
+Sat Aug 12 1995,Antwerp,3-1,2-1,Lierse
+Sat Aug 12 1995,Beveren,0-2,0-1,Aalst
+Sat Aug 12 1995,Gent,2-4,0-0,Standard
+Sat Aug 12 1995,Lommel,0-1,0-1,Cercle Brugge
+Sat Aug 12 1995,Mechelen,1-1,0-1,Germinal
+Sat Aug 12 1995,Seraing,0-2,0-0,Waregem
+Sun Aug 13 1995,Harelbeke,4-2,2-0,Molenbeek
+Wed Aug 16 1995,Aalst,2-0,2-0,Harelbeke
+Wed Aug 16 1995,Cercle Brugge,0-0,0-0,Gent
+Wed Aug 16 1995,Charleroi,3-1,2-0,Beveren
+Wed Aug 16 1995,Lierse,3-1,2-0,Lommel
+Wed Aug 16 1995,Molenbeek,0-0,0-0,Antwerp
+Wed Aug 16 1995,Seraing,1-1,0-1,Club Brugge
+Wed Aug 16 1995,St Truiden,2-2,0-1,Mechelen
+Wed Aug 16 1995,Waregem,0-4,0-2,Standard
+Sun Aug 20 1995,Anderlecht,4-0,1-0,St Truiden
+Sun Aug 20 1995,Antwerp,0-1,0-0,Aalst
+Sun Aug 20 1995,Beveren,3-2,2-1,Germinal
+Sun Aug 20 1995,Gent,0-2,0-0,Lierse
+Sun Aug 20 1995,Lommel,0-1,0-0,Molenbeek
+Sun Aug 20 1995,Mechelen,1-4,1-1,Seraing
+Sun Aug 20 1995,Standard,4-0,1-0,Cercle Brugge
+Mon Aug 21 1995,Club Brugge,3-1,2-0,Waregem
+Mon Aug 21 1995,Harelbeke,4-0,3-0,Charleroi
+Sun Aug 27 1995,Aalst,4-1,2-0,Lommel
+Sun Aug 27 1995,Charleroi,2-0,1-0,Antwerp
+Sun Aug 27 1995,Club Brugge,6-0,3-0,Mechelen
+Sun Aug 27 1995,Germinal,1-1,0-0,Harelbeke
+Sun Aug 27 1995,Lierse,0-0,0-0,Standard
+Sun Aug 27 1995,Molenbeek,1-0,0-0,Gent
+Sun Aug 27 1995,Seraing,2-1,1-0,Anderlecht
+Sun Aug 27 1995,St Truiden,0-2,0-1,Beveren
+Sun Aug 27 1995,Waregem,1-1,0-0,Cercle Brugge
+Tue Aug 29 1995,Anderlecht,2-1,0-0,Club Brugge
+Tue Aug 29 1995,Beveren,1-0,0-0,Seraing
+Tue Aug 29 1995,Cercle Brugge,2-3,1-1,Lierse
+Tue Aug 29 1995,Gent,3-1,0-1,Aalst
+Tue Aug 29 1995,Harelbeke,3-0,2-0,St Truiden
+Tue Aug 29 1995,Lommel,1-1,0-1,Charleroi
+Tue Aug 29 1995,Mechelen,3-0,2-0,Waregem
+Tue Aug 29 1995,Standard,1-1,0-0,Molenbeek
+Sun Sep 10 1995,Aalst,1-1,0-0,Standard
+Sun Sep 10 1995,Charleroi,3-3,2-2,Gent
+Sun Sep 10 1995,Club Brugge,3-1,3-0,Beveren
+Sun Sep 10 1995,Germinal,1-2,0-1,Lommel
+Sun Sep 10 1995,Mechelen,1-3,0-1,Anderlecht
+Sun Sep 10 1995,Molenbeek,2-2,0-1,Cercle Brugge
+Sun Sep 10 1995,Seraing,0-1,0-0,Harelbeke
+Sun Sep 10 1995,St Truiden,2-3,2-1,Antwerp
+Sun Sep 10 1995,Waregem,1-3,1-1,Lierse
+Sun Sep 17 1995,Anderlecht,2-0,0-0,Waregem
+Sun Sep 17 1995,Antwerp,4-2,1-2,Seraing
+Sun Sep 17 1995,Beveren,1-1,0-1,Mechelen
+Sun Sep 17 1995,Cercle Brugge,1-1,1-0,Aalst
+Sun Sep 17 1995,Gent,0-2,0-1,Germinal
+Sun Sep 17 1995,Lierse,1-1,0-0,Molenbeek
+Sun Sep 17 1995,Lommel,2-3,1-2,St Truiden
+Sun Sep 17 1995,Standard,2-2,0-1,Charleroi
+Mon Sep 18 1995,Harelbeke,0-2,0-1,Club Brugge
+Wed Sep 20 1995,Aalst,1-2,0-1,Lierse
+Wed Sep 20 1995,Anderlecht,1-0,0-0,Beveren
+Wed Sep 20 1995,Charleroi,1-1,0-1,Cercle Brugge
+Wed Sep 20 1995,Club Brugge,2-0,0-0,Antwerp
+Wed Sep 20 1995,Germinal,2-0,1-0,Standard
+Wed Sep 20 1995,Mechelen,1-0,1-0,Harelbeke
+Wed Sep 20 1995,Seraing,2-1,0-0,Lommel
+Wed Sep 20 1995,St Truiden,1-0,0-0,Gent
+Wed Sep 20 1995,Waregem,0-1,0-1,Molenbeek
+Sun Sep 24 1995,Antwerp,1-2,1-1,Mechelen
+Sun Sep 24 1995,Beveren,5-1,1-0,Waregem
+Sun Sep 24 1995,Cercle Brugge,2-2,0-1,Germinal
+Sun Sep 24 1995,Gent,4-2,3-0,Seraing
+Sun Sep 24 1995,Harelbeke,0-4,0-1,Anderlecht
+Sun Sep 24 1995,Lierse,2-1,1-1,Charleroi
+Sun Sep 24 1995,Lommel,2-2,0-2,Club Brugge
+Sun Sep 24 1995,Molenbeek,0-0,0-0,Aalst
+Sun Sep 24 1995,Standard,1-1,1-0,St Truiden
+Sat Sep 30 1995,Anderlecht,1-1,0-1,Antwerp
+Sat Sep 30 1995,Beveren,0-0,0-0,Harelbeke
+Sat Sep 30 1995,Charleroi,2-2,2-0,Molenbeek
+Sat Sep 30 1995,Club Brugge,3-0,1-0,Gent
+Sat Sep 30 1995,Germinal,1-1,0-0,Lierse
+Sat Sep 30 1995,Mechelen,2-0,1-0,Lommel
+Sat Sep 30 1995,Seraing,0-0,0-0,Standard
+Sat Sep 30 1995,St Truiden,1-1,0-0,Cercle Brugge
+Sat Sep 30 1995,Waregem,0-0,0-0,Aalst
+Sat Oct 7 1995,Germinal,2-2,1-2,Anderlecht
+Sun Oct 15 1995,Aalst,3-4,0-2,Charleroi
+Sun Oct 15 1995,Cercle Brugge,0-0,0-0,Seraing
+Sun Oct 15 1995,Gent,0-0,0-0,Mechelen
+Sun Oct 15 1995,Lierse,3-0,1-0,St Truiden
+Sun Oct 15 1995,Lommel,2-2,1-2,Anderlecht
+Sun Oct 15 1995,Molenbeek,1-0,0-0,Germinal
+Sun Oct 15 1995,Standard,1-0,0-0,Club Brugge
+Mon Oct 16 1995,Antwerp,1-1,0-1,Beveren
+Mon Oct 16 1995,Harelbeke,2-1,0-0,Waregem
+Sun Oct 22 1995,Anderlecht,3-0,2-0,Gent
+Sun Oct 22 1995,Beveren,0-1,0-0,Lommel
+Sun Oct 22 1995,Club Brugge,2-2,0-1,Cercle Brugge
+Sun Oct 22 1995,Germinal,5-1,1-0,Aalst
+Sun Oct 22 1995,Harelbeke,3-1,1-0,Antwerp
+Sun Oct 22 1995,Mechelen,2-0,1-0,Standard
+Sun Oct 22 1995,Seraing,1-3,1-2,Lierse
+Sun Oct 22 1995,St Truiden,0-1,0-1,Molenbeek
+Mon Oct 23 1995,Waregem,4-1,4-0,Charleroi
+Sun Oct 29 1995,Aalst,0-0,0-0,St Truiden
+Sun Oct 29 1995,Antwerp,2-0,1-0,Waregem
+Sun Oct 29 1995,Cercle Brugge,3-2,1-2,Mechelen
+Sun Oct 29 1995,Charleroi,1-1,0-0,Germinal
+Sun Oct 29 1995,Gent,3-0,2-0,Beveren
+Sun Oct 29 1995,Lierse,2-2,1-2,Club Brugge
+Sun Oct 29 1995,Lommel,2-0,1-0,Harelbeke
+Sun Oct 29 1995,Molenbeek,4-0,2-0,Seraing
+Sun Oct 29 1995,Standard,2-4,1-2,Anderlecht
+Sun Nov 5 1995,Anderlecht,3-0,0-0,Cercle Brugge
+Sun Nov 5 1995,Antwerp,4-1,2-0,Lommel
+Sun Nov 5 1995,Beveren,0-0,0-0,Standard
+Sun Nov 5 1995,Club Brugge,3-0,2-0,Molenbeek
+Sun Nov 5 1995,Harelbeke,0-1,0-0,Gent
+Sun Nov 5 1995,Mechelen,0-0,0-0,Lierse
+Sun Nov 5 1995,Seraing,2-4,1-1,Aalst
+Sun Nov 5 1995,St Truiden,4-1,2-0,Charleroi
+Sun Nov 5 1995,Waregem,1-0,0-0,Germinal
+Sat Nov 11 1995,Antwerp,0-2,0-1,Germinal
+Sun Nov 19 1995,Aalst,0-2,0-0,Club Brugge
+Sun Nov 19 1995,Cercle Brugge,2-0,1-0,Beveren
+Sun Nov 19 1995,Charleroi,4-2,2-0,Seraing
+Sun Nov 19 1995,Gent,1-0,1-0,Antwerp
+Sun Nov 19 1995,Germinal,3-1,2-1,St Truiden
+Sun Nov 19 1995,Lierse,3-2,3-1,Anderlecht
+Sun Nov 19 1995,Molenbeek,0-1,0-1,Mechelen
+Sun Nov 19 1995,Standard,2-1,1-0,Harelbeke
+Sun Nov 19 1995,Waregem,1-3,1-2,Lommel
+Fri Nov 24 1995,Club Brugge,0-0,0-0,Charleroi
+Sat Nov 25 1995,Anderlecht,1-0,0-0,Molenbeek
+Sat Nov 25 1995,Beveren,2-2,1-0,Lierse
+Sat Nov 25 1995,Lommel,1-1,1-0,Gent
+Sat Nov 25 1995,Mechelen,1-0,0-0,Aalst
+Sat Nov 25 1995,Seraing,1-1,1-1,Germinal
+Sat Nov 25 1995,St Truiden,1-1,1-0,Waregem
+Sun Nov 26 1995,Antwerp,3-2,2-1,Standard
+Sun Nov 26 1995,Harelbeke,0-2,0-0,Cercle Brugge
+Sat Dec 2 1995,Anderlecht,4-0,2-0,Aalst
+Sun Dec 3 1995,Antwerp,0-1,0-1,Cercle Brugge
+Sun Dec 3 1995,Beveren,1-1,1-0,Molenbeek
+Sun Dec 3 1995,Club Brugge,3-1,0-0,Germinal
+Sun Dec 3 1995,Gent,0-0,0-0,Waregem
+Sun Dec 3 1995,Harelbeke,2-3,0-1,Lierse
+Sun Dec 3 1995,Lommel,1-0,0-0,Standard
+Sun Dec 3 1995,Mechelen,1-2,0-2,Charleroi
+Sun Dec 3 1995,Seraing,1-2,0-2,St Truiden
+Sun Dec 17 1995,Aalst,5-1,2-1,Beveren
+Sun Dec 17 1995,Cercle Brugge,0-1,0-0,Lommel
+Sun Dec 17 1995,Charleroi,1-3,1-3,Anderlecht
+Sun Dec 17 1995,Germinal,1-0,0-0,Mechelen
+Sun Dec 17 1995,Lierse,1-2,1-1,Antwerp
+Sun Dec 17 1995,Molenbeek,3-1,3-1,Harelbeke
+Sun Dec 17 1995,St Truiden,2-4,2-2,Club Brugge
+Sun Dec 17 1995,Standard,1-1,1-1,Gent
+Sun Dec 17 1995,Waregem,0-3,0-2,Seraing
+Sat Dec 23 1995,Anderlecht,4-2,1-0,Germinal
+Sat Dec 23 1995,Antwerp,1-1,1-0,Molenbeek
+Sat Dec 23 1995,Beveren,1-1,0-0,Charleroi
+Sat Dec 23 1995,Club Brugge,3-1,1-1,Seraing
+Sat Dec 23 1995,Gent,1-5,0-2,Cercle Brugge
+Sat Dec 23 1995,Harelbeke,2-1,0-1,Aalst
+Sat Dec 23 1995,Lommel,0-0,0-0,Lierse
+Sat Dec 23 1995,Mechelen,2-0,1-0,St Truiden
+Sat Dec 23 1995,Standard,1-1,1-0,Waregem
+Sun Jan 28 1996,Aalst,0-0,0-0,Antwerp
+Sun Jan 28 1996,Cercle Brugge,2-3,1-2,Standard
+Sun Jan 28 1996,Charleroi,0-0,0-0,Harelbeke
+Sun Jan 28 1996,Germinal,1-0,1-0,Beveren
+Sun Jan 28 1996,Lierse,2-3,0-1,Gent
+Sun Jan 28 1996,Molenbeek,0-2,0-0,Lommel
+Sun Jan 28 1996,Seraing,2-1,1-0,Mechelen
+Sun Jan 28 1996,St Truiden,0-5,0-4,Anderlecht
+Sun Jan 28 1996,Waregem,2-5,0-2,Club Brugge
+Sun Feb 4 1996,Anderlecht,7-0,4-0,Seraing
+Sun Feb 4 1996,Antwerp,1-0,0-0,Charleroi
+Sun Feb 4 1996,Beveren,0-2,0-0,St Truiden
+Sun Feb 4 1996,Cercle Brugge,4-1,2-0,Waregem
+Sun Feb 4 1996,Gent,2-0,0-0,Molenbeek
+Sun Feb 4 1996,Harelbeke,1-2,0-1,Germinal
+Sun Feb 4 1996,Lommel,1-0,0-0,Aalst
+Sun Feb 4 1996,Mechelen,0-2,0-1,Club Brugge
+Sun Feb 4 1996,Standard,2-0,1-0,Lierse
+Sun Feb 11 1996,Aalst,2-2,1-1,Gent
+Sun Feb 11 1996,Charleroi,5-0,2-0,Lommel
+Sun Feb 11 1996,Club Brugge,2-1,0-1,Anderlecht
+Sun Feb 11 1996,Germinal,2-0,0-0,Antwerp
+Sun Feb 11 1996,Lierse,0-1,0-1,Cercle Brugge
+Sun Feb 11 1996,Molenbeek,3-1,0-0,Standard
+Sun Feb 11 1996,Seraing,1-0,0-0,Beveren
+Sun Feb 11 1996,St Truiden,2-0,2-0,Harelbeke
+Sun Feb 11 1996,Waregem,0-1,0-0,Mechelen
+Sun Feb 18 1996,Anderlecht,3-1,2-1,Mechelen
+Sun Feb 18 1996,Antwerp,1-1,1-1,St Truiden
+Sun Feb 18 1996,Beveren,3-5,2-2,Club Brugge
+Sun Feb 18 1996,Cercle Brugge,1-1,0-1,Molenbeek
+Sun Feb 18 1996,Gent,1-0,0-0,Charleroi
+Sun Feb 18 1996,Harelbeke,2-1,0-0,Seraing
+Sun Feb 18 1996,Lierse,1-1,1-1,Waregem
+Sun Feb 18 1996,Lommel,2-1,1-1,Germinal
+Sun Feb 18 1996,Standard,2-1,1-0,Aalst
+Fri Mar 1 1996,Beveren,0-2,0-0,Anderlecht
+Sat Mar 2 1996,Gent,0-1,0-0,St Truiden
+Sat Mar 2 1996,Lierse,3-1,1-0,Aalst
+Sat Mar 2 1996,Lommel,0-1,0-0,Seraing
+Sat Mar 2 1996,Molenbeek,4-1,0-1,Waregem
+Sat Mar 2 1996,Standard,0-0,0-0,Germinal
+Sun Mar 3 1996,Antwerp,0-3,0-0,Club Brugge
+Sun Mar 3 1996,Cercle Brugge,0-2,0-1,Charleroi
+Sun Mar 3 1996,Harelbeke,0-0,0-0,Mechelen
+Sun Mar 10 1996,Aalst,1-1,0-0,Molenbeek
+Mon Mar 11 1996,Anderlecht,1-3,1-2,Harelbeke
+Mon Mar 11 1996,Charleroi,1-1,1-0,Lierse
+Mon Mar 11 1996,Club Brugge,2-0,0-0,Lommel
+Mon Mar 11 1996,Germinal,1-0,0-0,Cercle Brugge
+Mon Mar 11 1996,Mechelen,0-1,0-0,Antwerp
+Mon Mar 11 1996,Seraing,2-2,1-1,Gent
+Mon Mar 11 1996,St Truiden,3-1,1-0,Standard
+Mon Mar 11 1996,Waregem,1-4,0-1,Beveren
+Fri Mar 15 1996,Molenbeek,3-1,1-0,Charleroi
+Sat Mar 16 1996,Lierse,2-1,1-0,Germinal
+Sat Mar 16 1996,Lommel,2-1,1-1,Mechelen
+Sat Mar 16 1996,Standard,3-0,1-0,Seraing
+Sun Mar 17 1996,Aalst,1-1,0-0,Waregem
+Sun Mar 17 1996,Antwerp,1-1,0-0,Anderlecht
+Sun Mar 17 1996,Cercle Brugge,2-1,0-1,St Truiden
+Sun Mar 17 1996,Gent,0-2,0-1,Club Brugge
+Sun Mar 17 1996,Harelbeke,1-0,0-0,Beveren
+Fri Mar 22 1996,Charleroi,2-2,2-2,Standard
+Sat Mar 23 1996,Mechelen,2-1,1-0,Beveren
+Sat Mar 23 1996,Molenbeek,0-0,0-0,Lierse
+Sat Mar 23 1996,Seraing,0-1,0-1,Antwerp
+Sat Mar 23 1996,St Truiden,0-2,0-1,Lommel
+Sun Mar 24 1996,Aalst,4-3,2-1,Cercle Brugge
+Sun Mar 24 1996,Club Brugge,2-0,0-0,Harelbeke
+Sun Mar 24 1996,Germinal,2-0,2-0,Gent
+Sun Mar 24 1996,Waregem,1-4,1-1,Anderlecht
+Sat Mar 30 1996,Anderlecht,3-2,3-1,Lommel
+Sat Mar 30 1996,Beveren,4-0,1-0,Antwerp
+Sat Mar 30 1996,Charleroi,2-0,1-0,Aalst
+Sat Mar 30 1996,Mechelen,0-0,0-0,Gent
+Sat Mar 30 1996,Seraing,1-0,1-0,Cercle Brugge
+Sat Mar 30 1996,St Truiden,3-1,1-0,Lierse
+Sun Mar 31 1996,Club Brugge,6-1,0-1,Standard
+Sun Mar 31 1996,Germinal,1-0,1-0,Molenbeek
+Sun Mar 31 1996,Waregem,1-2,1-0,Harelbeke
+Fri Apr 5 1996,Cercle Brugge,1-2,1-1,Club Brugge
+Fri Apr 5 1996,Charleroi,1-0,0-0,Waregem
+Sat Apr 6 1996,Aalst,2-0,1-0,Germinal
+Sat Apr 6 1996,Antwerp,2-3,1-0,Harelbeke
+Sat Apr 6 1996,Gent,1-3,0-1,Anderlecht
+Sat Apr 6 1996,Lierse,4-0,2-0,Seraing
+Sat Apr 6 1996,Lommel,2-0,0-0,Beveren
+Sat Apr 6 1996,Molenbeek,2-0,0-0,St Truiden
+Sat Apr 6 1996,Standard,2-1,2-1,Mechelen
+Fri Apr 12 1996,Anderlecht,2-1,1-1,Standard
+Sat Apr 13 1996,Beveren,2-2,0-1,Gent
+Sat Apr 13 1996,Germinal,3-1,0-0,Charleroi
+Sat Apr 13 1996,Harelbeke,0-3,0-2,Lommel
+Sat Apr 13 1996,Mechelen,2-1,1-0,Cercle Brugge
+Sat Apr 13 1996,Seraing,0-1,0-1,Molenbeek
+Sat Apr 13 1996,St Truiden,2-2,1-1,Aalst
+Sun Apr 14 1996,Club Brugge,2-1,0-0,Lierse
+Sun Apr 14 1996,Waregem,1-1,0-0,Antwerp
+Sun Apr 21 1996,Aalst,5-0,2-0,Seraing
+Sun Apr 21 1996,Cercle Brugge,2-1,1-0,Anderlecht
+Sun Apr 21 1996,Charleroi,4-0,2-0,St Truiden
+Sun Apr 21 1996,Gent,1-0,0-0,Harelbeke
+Sun Apr 21 1996,Germinal,2-0,1-0,Waregem
+Sun Apr 21 1996,Lierse,0-3,0-0,Mechelen
+Sun Apr 21 1996,Lommel,0-0,0-0,Antwerp
+Sun Apr 21 1996,Molenbeek,0-0,0-0,Club Brugge
+Sun Apr 21 1996,Standard,2-2,2-1,Beveren
+Sun May 5 1996,Anderlecht,3-1,2-0,Lierse
+Sun May 5 1996,Antwerp,2-1,0-0,Gent
+Sun May 5 1996,Beveren,1-3,1-0,Cercle Brugge
+Sun May 5 1996,Club Brugge,1-3,1-1,Aalst
+Sun May 5 1996,Harelbeke,2-3,0-1,Standard
+Sun May 5 1996,Lommel,2-1,0-0,Waregem
+Sun May 5 1996,Mechelen,1-1,1-1,Molenbeek
+Sun May 5 1996,Seraing,2-3,2-1,Charleroi
+Sun May 5 1996,St Truiden,2-1,0-0,Germinal
+Sun May 12 1996,Aalst,3-2,0-2,Mechelen
+Sun May 12 1996,Cercle Brugge,2-1,0-1,Harelbeke
+Sun May 12 1996,Charleroi,1-3,0-1,Club Brugge
+Sun May 12 1996,Gent,2-0,1-0,Lommel
+Sun May 12 1996,Germinal,5-0,3-0,Seraing
+Sun May 12 1996,Lierse,3-1,0-1,Beveren
+Sun May 12 1996,Molenbeek,0-0,0-0,Anderlecht
+Sun May 12 1996,Standard,1-0,0-0,Antwerp
+Sun May 12 1996,Waregem,2-1,1-1,St Truiden

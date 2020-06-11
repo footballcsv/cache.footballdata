@@ -1,0 +1,170 @@
+Date,Team 1,FT,HT,Team 2
+Wed Apr 3 2019,HJK,2-1,?,Inter Turku
+Wed Apr 3 2019,KuPS,2-2,?,Rovaniemi
+Sat Apr 6 2019,SJK,1-0,?,HIFK
+Sun Apr 7 2019,Rovaniemi,1-2,?,Honka
+Sun Apr 7 2019,KPV Kokkola,0-2,?,Ilves
+Sun Apr 7 2019,Lahti,3-3,?,KuPS
+Mon Apr 8 2019,HJK,2-1,?,Mariehamn
+Mon Apr 8 2019,VPS,1-2,?,Inter Turku
+Sat Apr 13 2019,Inter Turku,1-2,?,SJK
+Sat Apr 13 2019,KPV Kokkola,0-1,?,Rovaniemi
+Sat Apr 13 2019,KuPS,0-0,?,HJK
+Sun Apr 14 2019,Ilves,0-0,?,VPS
+Mon Apr 15 2019,HIFK,0-1,?,Lahti
+Mon Apr 15 2019,Honka,1-3,?,Mariehamn
+Thu Apr 18 2019,SJK,0-0,?,HJK
+Fri Apr 19 2019,Lahti,1-1,?,Inter Turku
+Sat Apr 20 2019,KuPS,0-3,?,Honka
+Sat Apr 20 2019,VPS,2-2,?,KPV Kokkola
+Sat Apr 20 2019,Mariehamn,2-0,?,Rovaniemi
+Mon Apr 22 2019,SJK,0-1,?,Ilves
+Tue Apr 23 2019,HJK,1-1,?,HIFK
+Thu Apr 25 2019,Honka,3-2,?,Inter Turku
+Thu Apr 25 2019,KPV Kokkola,0-4,?,Mariehamn
+Fri Apr 26 2019,Ilves,1-0,?,Lahti
+Fri Apr 26 2019,Rovaniemi,0-1,?,KuPS
+Fri Apr 26 2019,VPS,1-1,?,SJK
+Mon Apr 29 2019,HIFK,2-0,?,Honka
+Mon Apr 29 2019,Inter Turku,4-1,?,HJK
+Tue Apr 30 2019,Lahti,1-1,?,VPS
+Tue Apr 30 2019,SJK,1-0,?,KPV Kokkola
+Wed May 1 2019,Mariehamn,3-4,?,KuPS
+Fri May 3 2019,HJK,0-0,?,Ilves
+Fri May 3 2019,Rovaniemi,1-0,?,HIFK
+Sun May 5 2019,KuPS,3-1,?,KPV Kokkola
+Sun May 5 2019,Lahti,1-1,?,SJK
+Tue May 7 2019,Ilves,1-1,?,Honka
+Tue May 7 2019,Inter Turku,3-0,?,Rovaniemi
+Tue May 7 2019,VPS,1-1,?,HJK
+Wed May 8 2019,HIFK,1-1,?,Mariehamn
+Sat May 11 2019,HJK,2-2,?,SJK
+Sat May 11 2019,Honka,1-1,?,VPS
+Sat May 11 2019,KPV Kokkola,0-0,?,Lahti
+Sun May 12 2019,HIFK,1-1,?,KuPS
+Sun May 12 2019,Mariehamn,1-2,?,Inter Turku
+Sun May 12 2019,Rovaniemi,0-1,?,Ilves
+Fri May 17 2019,Inter Turku,1-0,?,KuPS
+Sat May 18 2019,SJK,1-2,?,Honka
+Mon May 20 2019,Ilves,0-0,?,Mariehamn
+Mon May 20 2019,KPV Kokkola,1-1,?,HIFK
+Mon May 20 2019,Lahti,3-0,?,HJK
+Mon May 20 2019,VPS,0-1,?,Rovaniemi
+Fri May 24 2019,KuPS,1-0,?,Ilves
+Sat May 25 2019,HIFK,1-1,?,Inter Turku
+Sat May 25 2019,Rovaniemi,1-1,?,SJK
+Sun May 26 2019,HJK,3-1,?,KPV Kokkola
+Sun May 26 2019,Mariehamn,1-0,?,VPS
+Mon May 27 2019,Honka,2-0,?,Lahti
+Fri May 31 2019,HIFK,2-1,?,VPS
+Fri May 31 2019,Inter Turku,2-3,?,Ilves
+Fri May 31 2019,Rovaniemi,0-1,?,HJK
+Sun Jun 2 2019,Honka,0-1,?,KPV Kokkola
+Sun Jun 2 2019,KuPS,0-1,?,SJK
+Sun Jun 2 2019,Mariehamn,0-1,?,Lahti
+Sun Jun 16 2019,KPV Kokkola,1-3,?,Inter Turku
+Mon Jun 17 2019,VPS,1-2,?,KuPS
+Tue Jun 18 2019,HIFK,1-0,?,SJK
+Tue Jun 18 2019,Lahti,1-2,?,Rovaniemi
+Wed Jun 19 2019,HJK,0-1,?,Honka
+Tue Jun 25 2019,Mariehamn,0-2,?,HJK
+Tue Jun 25 2019,Honka,1-0,?,Rovaniemi
+Tue Jun 25 2019,Ilves,4-2,?,KPV Kokkola
+Tue Jun 25 2019,Inter Turku,1-1,?,VPS
+Tue Jun 25 2019,KuPS,5-1,?,Lahti
+Sat Jun 29 2019,HJK,1-1,?,KuPS
+Sat Jun 29 2019,VPS,1-2,?,Ilves
+Sat Jun 29 2019,Rovaniemi,0-0,?,KPV Kokkola
+Sun Jun 30 2019,Lahti,0-0,?,HIFK
+Sun Jun 30 2019,Mariehamn,2-2,?,Honka
+Mon Jul 1 2019,SJK,2-1,?,Inter Turku
+Thu Jul 4 2019,HIFK,0-2,?,HJK
+Fri Jul 5 2019,Inter Turku,2-0,?,Lahti
+Sat Jul 6 2019,Honka,1-2,?,KuPS
+Sat Jul 6 2019,KPV Kokkola,2-1,?,VPS
+Sat Jul 6 2019,Rovaniemi,1-2,?,Mariehamn
+Sun Jul 7 2019,Ilves,3-0,?,SJK
+Sat Jul 13 2019,Honka,3-0,?,HIFK
+Sat Jul 13 2019,SJK,1-0,?,VPS
+Sun Jul 14 2019,Lahti,1-0,?,Ilves
+Sun Jul 14 2019,Mariehamn,3-0,?,KPV Kokkola
+Sat Jul 20 2019,Ilves,1-1,?,HJK
+Sat Jul 20 2019,KPV Kokkola,1-2,?,SJK
+Sat Jul 20 2019,VPS,1-1,?,Lahti
+Sun Jul 21 2019,HIFK,1-0,?,Rovaniemi
+Sun Jul 21 2019,Inter Turku,3-1,?,Honka
+Sun Jul 21 2019,KuPS,0-0,?,Mariehamn
+Fri Jul 26 2019,SJK,0-2,?,Lahti
+Sat Jul 27 2019,HJK,1-1,?,VPS
+Sat Jul 27 2019,Honka,1-2,?,Ilves
+Sun Jul 28 2019,KPV Kokkola,2-1,?,KuPS
+Sun Jul 28 2019,Mariehamn,1-3,?,HIFK
+Sun Jul 28 2019,Rovaniemi,0-2,?,Inter Turku
+Sat Aug 3 2019,VPS,2-3,?,Honka
+Sun Aug 4 2019,Ilves,2-2,?,Rovaniemi
+Sun Aug 4 2019,KuPS,1-1,?,HIFK
+Sun Aug 4 2019,Lahti,1-0,?,KPV Kokkola
+Sun Aug 4 2019,Inter Turku,1-0,?,Mariehamn
+Fri Aug 9 2019,HIFK,3-2,?,KPV Kokkola
+Sat Aug 10 2019,HJK,4-0,?,Lahti
+Sat Aug 10 2019,Honka,0-0,?,SJK
+Sat Aug 10 2019,KuPS,2-0,?,Inter Turku
+Sun Aug 11 2019,Mariehamn,0-1,?,Ilves
+Sun Aug 11 2019,Rovaniemi,2-1,?,VPS
+Thu Aug 15 2019,SJK,0-2,?,Mariehamn
+Fri Aug 16 2019,Ilves,0-2,?,KuPS
+Fri Aug 16 2019,Inter Turku,3-2,?,HIFK
+Sun Aug 18 2019,KPV Kokkola,2-1,?,HJK
+Mon Aug 19 2019,Lahti,3-2,?,Honka
+Mon Aug 19 2019,SJK,0-0,?,Rovaniemi
+Mon Aug 19 2019,VPS,2-1,?,Mariehamn
+Fri Aug 23 2019,HIFK,2-2,?,Ilves
+Sat Aug 24 2019,Honka,0-1,?,HJK
+Sat Aug 24 2019,KuPS,5-0,?,VPS
+Sun Aug 25 2019,Mariehamn,1-0,?,SJK
+Sun Aug 25 2019,Rovaniemi,3-0,?,Lahti
+Mon Aug 26 2019,Inter Turku,2-1,?,KPV Kokkola
+Tue Aug 27 2019,Ilves,3-1,?,HIFK
+Sat Aug 31 2019,KPV Kokkola,0-1,?,Honka
+Sat Aug 31 2019,SJK,1-3,?,KuPS
+Sat Aug 31 2019,Ilves,0-1,?,Inter Turku
+Sat Aug 31 2019,VPS,3-2,?,HIFK
+Sun Sep 1 2019,Lahti,0-1,?,Mariehamn
+Sun Sep 1 2019,HJK,2-2,?,Rovaniemi
+Fri Sep 13 2019,HIFK,3-1,?,KPV Kokkola
+Fri Sep 13 2019,SJK,1-1,?,VPS
+Sat Sep 14 2019,Lahti,3-0,?,Rovaniemi
+Sun Sep 15 2019,Inter Turku,2-0,?,Mariehamn
+Sun Sep 15 2019,Ilves,0-2,?,Honka
+Sun Sep 15 2019,KuPS,1-0,?,HJK
+Fri Sep 20 2019,VPS,1-2,?,Lahti
+Sat Sep 21 2019,Honka,3-1,?,HJK
+Sat Sep 21 2019,KPV Kokkola,4-1,?,Rovaniemi
+Sat Sep 21 2019,HIFK,2-0,?,SJK
+Sun Sep 22 2019,Ilves,1-0,?,Inter Turku
+Sun Sep 22 2019,Mariehamn,0-1,?,KuPS
+Fri Sep 27 2019,KuPS,2-0,?,Ilves
+Fri Sep 27 2019,SJK,0-2,?,KPV Kokkola
+Sat Sep 28 2019,Lahti,2-2,?,HIFK
+Sat Sep 28 2019,Inter Turku,0-1,?,Honka
+Sat Sep 28 2019,Rovaniemi,2-1,?,VPS
+Sat Sep 28 2019,HJK,3-0,?,Mariehamn
+Sun Oct 6 2019,HJK,0-1,?,Inter Turku
+Sun Oct 6 2019,KuPS,1-1,?,Honka
+Sun Oct 6 2019,Lahti,1-4,?,KPV Kokkola
+Sun Oct 6 2019,Mariehamn,2-2,?,Ilves
+Sun Oct 6 2019,Rovaniemi,1-0,?,SJK
+Sun Oct 6 2019,VPS,2-3,?,HIFK
+Sat Oct 19 2019,HIFK,2-0,?,Rovaniemi
+Sat Oct 19 2019,Honka,3-0,?,Mariehamn
+Sat Oct 19 2019,Ilves,2-1,?,HJK
+Sat Oct 19 2019,Inter Turku,0-2,?,KuPS
+Sat Oct 19 2019,KPV Kokkola,2-3,?,VPS
+Sat Oct 19 2019,SJK,0-0,?,Lahti
+Wed Oct 23 2019,HJK,2-2,?,Lahti
+Wed Oct 23 2019,Mariehamn,0-0,?,HIFK
+Thu Oct 24 2019,TPS,0-0,?,KPV Kokkola
+Sun Oct 27 2019,KPV Kokkola,0-3,?,TPS
+Sun Oct 27 2019,HJK,1-1,?,Mariehamn
+Wed Oct 30 2019,Mariehamn,1-2,?,Honka
+Sun Nov 3 2019,Honka,1-0,?,Mariehamn

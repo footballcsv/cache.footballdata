@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sun Aug 31 1997,Ancona,1-0,?,Torino
+Sun Aug 31 1997,Cagliari,2-0,?,Treviso
+Sun Aug 31 1997,Chievo,1-0,?,Reggina
+Sun Aug 31 1997,Lucchese,2-1,?,Ravenna
+Sun Aug 31 1997,Monza,1-1,?,Pescara
+Sun Aug 31 1997,Padova,0-1,?,C. Sangro
+Sun Aug 31 1997,Perugia,4-1,?,F. Andria
+Sun Aug 31 1997,Reggiana,1-0,?,Foggia
+Sun Aug 31 1997,Salernitana,2-0,?,Verona
+Sun Aug 31 1997,Venezia,2-0,?,Genoa
+Sun Sep 7 1997,C. Sangro,1-1,?,Ancona
+Sun Sep 7 1997,F. Andria,1-0,?,Chievo
+Sun Sep 7 1997,Foggia,1-2,?,Venezia
+Sun Sep 7 1997,Genoa,1-1,?,Lucchese
+Sun Sep 7 1997,Pescara,0-1,?,Cagliari
+Sun Sep 7 1997,Ravenna,0-0,?,Perugia
+Sun Sep 7 1997,Reggina,1-0,?,Reggiana
+Sun Sep 7 1997,Torino,2-1,?,Padova
+Sun Sep 7 1997,Treviso,1-1,?,Salernitana
+Sun Sep 7 1997,Verona,3-2,?,Monza
+Sun Sep 14 1997,Ancona,4-3,?,Genoa
+Sun Sep 14 1997,Cagliari,1-1,?,C. Sangro
+Sun Sep 14 1997,Chievo,1-1,?,Salernitana
+Sun Sep 14 1997,F. Andria,3-0,?,Pescara
+Sun Sep 14 1997,Monza,1-0,?,Venezia
+Sun Sep 14 1997,Padova,0-0,?,Verona
+Sun Sep 14 1997,Perugia,1-0,?,Lucchese
+Sun Sep 14 1997,Reggiana,1-1,?,Ravenna
+Sun Sep 14 1997,Reggina,0-0,?,Treviso
+Sun Sep 14 1997,Torino,1-1,?,Foggia
+Sun Sep 21 1997,C. Sangro,3-3,?,F. Andria
+Sun Sep 21 1997,Foggia,3-2,?,Reggina
+Sun Sep 21 1997,Genoa,0-1,?,Chievo
+Sun Sep 21 1997,Lucchese,2-0,?,Padova
+Sun Sep 21 1997,Pescara,3-0,?,Torino
+Sun Sep 21 1997,Ravenna,2-0,?,Ancona
+Sun Sep 21 1997,Salernitana,4-0,?,Reggiana
+Sun Sep 21 1997,Treviso,3-0,?,Monza
+Sun Sep 21 1997,Venezia,2-0,?,Perugia
+Sun Sep 21 1997,Verona,2-1,?,Cagliari
+Sun Sep 28 1997,Ancona,0-1,?,Venezia
+Sun Sep 28 1997,C. Sangro,2-1,?,Ravenna
+Sun Sep 28 1997,Cagliari,1-1,?,Foggia
+Sun Sep 28 1997,Chievo,1-0,?,Reggiana
+Sun Sep 28 1997,F. Andria,3-0,?,Lucchese
+Sun Sep 28 1997,Padova,0-0,?,Salernitana
+Sun Sep 28 1997,Perugia,2-1,?,Treviso
+Sun Sep 28 1997,Pescara,1-1,?,Verona
+Sun Sep 28 1997,Reggina,1-0,?,Monza
+Sun Sep 28 1997,Torino,2-1,?,Genoa
+Sun Oct 5 1997,Ancona,2-3,?,Reggina
+Sun Oct 5 1997,Foggia,1-0,?,Pescara
+Sun Oct 5 1997,Genoa,1-3,?,Cagliari
+Sun Oct 5 1997,Lucchese,1-0,?,C. Sangro
+Sun Oct 5 1997,Monza,1-1,?,F. Andria
+Sun Oct 5 1997,Ravenna,2-0,?,Chievo
+Sun Oct 5 1997,Reggiana,1-0,?,Treviso
+Sun Oct 5 1997,Salernitana,2-0,?,Perugia
+Sun Oct 5 1997,Venezia,3-0,?,Padova
+Sun Oct 5 1997,Verona,4-0,?,Torino
+Sun Oct 12 1997,C. Sangro,3-5,?,Salernitana
+Sun Oct 12 1997,Cagliari,2-2,?,Monza
+Sun Oct 12 1997,F. Andria,1-1,?,Ancona
+Sun Oct 12 1997,Genoa,3-2,?,Foggia
+Sun Oct 12 1997,Padova,0-0,?,Reggiana
+Sun Oct 12 1997,Pescara,2-1,?,Lucchese
+Sun Oct 12 1997,Reggina,0-1,?,Perugia
+Sun Oct 12 1997,Torino,0-4,?,Venezia
+Sun Oct 12 1997,Treviso,3-0,?,Ravenna
+Sun Oct 12 1997,Verona,4-0,?,Chievo
+Sun Oct 19 1997,Ancona,4-4,?,Treviso
+Sun Oct 19 1997,Chievo,1-1,?,C. Sangro
+Sun Oct 19 1997,Foggia,2-1,?,F. Andria
+Sun Oct 19 1997,Lucchese,0-1,?,Reggina
+Sun Oct 19 1997,Monza,1-1,?,Torino
+Sun Oct 19 1997,Perugia,1-3,?,Padova
+Sun Oct 19 1997,Ravenna,0-0,?,Cagliari
+Sun Oct 19 1997,Reggiana,0-1,?,Genoa
+Sun Oct 19 1997,Salernitana,5-1,?,Pescara
+Sun Oct 19 1997,Venezia,1-0,?,Verona
+Sun Oct 26 1997,Cagliari,1-1,?,Salernitana
+Sun Oct 26 1997,F. Andria,0-2,?,Torino
+Sun Oct 26 1997,Lucchese,2-1,?,Reggiana
+Sun Oct 26 1997,Monza,2-2,?,C. Sangro
+Sun Oct 26 1997,Padova,3-2,?,Chievo
+Sun Oct 26 1997,Perugia,1-1,?,Ancona
+Sun Oct 26 1997,Pescara,1-0,?,Genoa
+Sun Oct 26 1997,Reggina,1-0,?,Ravenna
+Sun Oct 26 1997,Treviso,1-1,?,Venezia
+Sun Oct 26 1997,Verona,3-2,?,Foggia
+Sun Nov 9 1997,Ancona,0-0,?,Verona
+Sun Nov 9 1997,C. Sangro,1-1,?,Reggina
+Sun Nov 9 1997,Chievo,1-1,?,Monza
+Sun Nov 9 1997,Foggia,0-0,?,Treviso
+Sun Nov 9 1997,Genoa,2-1,?,F. Andria
+Sun Nov 9 1997,Ravenna,1-0,?,Padova
+Sun Nov 9 1997,Reggiana,2-0,?,Perugia
+Sun Nov 9 1997,Salernitana,1-1,?,Lucchese
+Sun Nov 9 1997,Torino,3-0,?,Cagliari
+Sun Nov 9 1997,Venezia,3-0,?,Pescara
+Sun Nov 16 1997,Cagliari,3-0,?,F. Andria
+Sun Nov 16 1997,Lucchese,1-2,?,Chievo
+Sun Nov 16 1997,Monza,1-1,?,Foggia
+Sun Nov 16 1997,Padova,0-1,?,Ancona
+Sun Nov 16 1997,Perugia,1-0,?,C. Sangro
+Sun Nov 16 1997,Reggiana,2-0,?,Venezia
+Sun Nov 16 1997,Reggina,2-2,?,Torino
+Sun Nov 16 1997,Salernitana,1-0,?,Ravenna
+Sun Nov 16 1997,Treviso,2-1,?,Pescara
+Sun Nov 16 1997,Verona,4-0,?,Genoa
+Sun Nov 30 1997,Ancona,3-3,?,Salernitana
+Sun Nov 30 1997,C. Sangro,2-2,?,Reggiana
+Sun Nov 30 1997,Cagliari,2-0,?,Reggina
+Sun Nov 30 1997,Chievo,1-1,?,Perugia
+Sun Nov 30 1997,F. Andria,1-0,?,Verona
+Sun Nov 30 1997,Foggia,2-2,?,Lucchese
+Sun Nov 30 1997,Genoa,5-1,?,Monza
+Sun Nov 30 1997,Pescara,4-0,?,Padova
+Sun Nov 30 1997,Torino,4-0,?,Treviso
+Sun Nov 30 1997,Venezia,2-1,?,Ravenna
+Sun Dec 7 1997,C. Sangro,1-1,?,Pescara
+Sun Dec 7 1997,Chievo,1-1,?,Venezia
+Sun Dec 7 1997,Lucchese,0-0,?,Monza
+Sun Dec 7 1997,Padova,3-0,?,Foggia
+Sun Dec 7 1997,Perugia,1-1,?,Cagliari
+Sun Dec 7 1997,Ravenna,1-1,?,Torino
+Sun Dec 7 1997,Reggiana,1-0,?,Ancona
+Sun Dec 7 1997,Reggina,2-3,?,F. Andria
+Sun Dec 7 1997,Salernitana,2-1,?,Genoa
+Sun Dec 7 1997,Treviso,1-0,?,Verona
+Sun Dec 14 1997,Ancona,0-1,?,Lucchese
+Sun Dec 14 1997,Cagliari,0-0,?,Reggiana
+Sun Dec 14 1997,F. Andria,0-0,?,Treviso
+Sun Dec 14 1997,Foggia,0-1,?,Chievo
+Sun Dec 14 1997,Genoa,0-0,?,Reggina
+Sun Dec 14 1997,Monza,2-0,?,Padova
+Sun Dec 14 1997,Pescara,1-1,?,Ravenna
+Sun Dec 14 1997,Torino,4-1,?,C. Sangro
+Sun Dec 14 1997,Venezia,0-3,?,Salernitana
+Sun Dec 14 1997,Verona,0-1,?,Perugia
+Sun Dec 21 1997,C. Sangro,1-3,?,Venezia
+Sun Dec 21 1997,Chievo,0-1,?,Ancona
+Sun Dec 21 1997,Lucchese,1-2,?,Cagliari
+Sun Dec 21 1997,Padova,0-0,?,F. Andria
+Sun Dec 21 1997,Perugia,2-2,?,Foggia
+Sun Dec 21 1997,Ravenna,1-1,?,Monza
+Sun Dec 21 1997,Reggiana,0-1,?,Verona
+Sun Dec 21 1997,Reggina,0-0,?,Pescara
+Sun Dec 21 1997,Salernitana,2-1,?,Torino
+Sun Dec 21 1997,Treviso,2-1,?,Genoa
+Sun Jan 4 1998,Cagliari,1-0,?,Padova
+Sun Jan 4 1998,F. Andria,0-0,?,Ravenna
+Sun Jan 4 1998,Foggia,2-0,?,C. Sangro
+Sun Jan 4 1998,Genoa,2-0,?,Perugia
+Sun Jan 4 1998,Monza,1-1,?,Salernitana
+Sun Jan 4 1998,Pescara,3-2,?,Ancona
+Sun Jan 4 1998,Torino,1-0,?,Reggiana
+Sun Jan 4 1998,Treviso,0-0,?,Chievo
+Sun Jan 4 1998,Venezia,0-0,?,Lucchese
+Sun Jan 4 1998,Verona,1-1,?,Reggina
+Sun Jan 11 1998,Ancona,0-1,?,Monza
+Sun Jan 11 1998,C. Sangro,3-3,?,Genoa
+Sun Jan 11 1998,Chievo,0-2,?,Torino
+Sun Jan 11 1998,Lucchese,1-0,?,Verona
+Sun Jan 11 1998,Padova,0-0,?,Treviso
+Sun Jan 11 1998,Perugia,1-1,?,Pescara
+Sun Jan 11 1998,Ravenna,3-1,?,Foggia
+Sun Jan 11 1998,Reggiana,1-0,?,F. Andria
+Sun Jan 11 1998,Salernitana,2-0,?,Reggina
+Sun Jan 11 1998,Venezia,2-2,?,Cagliari
+Sun Jan 18 1998,Cagliari,3-0,?,Ancona
+Sun Jan 18 1998,F. Andria,1-1,?,Venezia
+Sun Jan 18 1998,Foggia,2-0,?,Salernitana
+Sun Jan 18 1998,Genoa,1-0,?,Ravenna
+Sun Jan 18 1998,Monza,0-0,?,Reggiana
+Sun Jan 18 1998,Pescara,3-1,?,Chievo
+Sun Jan 18 1998,Reggina,3-0,?,Padova
+Sun Jan 18 1998,Torino,0-0,?,Perugia
+Sun Jan 18 1998,Treviso,3-0,?,Lucchese
+Sun Jan 18 1998,Verona,0-0,?,C. Sangro
+Sun Jan 25 1998,Ancona,3-2,?,Foggia
+Sun Jan 25 1998,C. Sangro,0-0,?,Treviso
+Sun Jan 25 1998,Chievo,2-1,?,Cagliari
+Sun Jan 25 1998,Lucchese,3-1,?,Torino
+Sun Jan 25 1998,Padova,1-1,?,Genoa
+Sun Jan 25 1998,Perugia,3-2,?,Monza
+Sun Jan 25 1998,Ravenna,1-1,?,Verona
+Sun Jan 25 1998,Reggiana,1-0,?,Pescara
+Sun Jan 25 1998,Salernitana,1-1,?,F. Andria
+Sun Jan 25 1998,Venezia,4-0,?,Reggina
+Sun Feb 1 1998,C. Sangro,1-1,?,Padova
+Sun Feb 1 1998,F. Andria,1-1,?,Perugia
+Sun Feb 1 1998,Foggia,0-2,?,Reggiana
+Sun Feb 1 1998,Genoa,3-1,?,Venezia
+Sun Feb 1 1998,Pescara,2-2,?,Monza
+Sun Feb 1 1998,Ravenna,2-1,?,Lucchese
+Sun Feb 1 1998,Reggina,0-0,?,Chievo
+Sun Feb 1 1998,Torino,1-1,?,Ancona
+Sun Feb 1 1998,Treviso,0-1,?,Cagliari
+Sun Feb 1 1998,Verona,0-2,?,Salernitana
+Sun Feb 8 1998,Ancona,1-1,?,C. Sangro
+Sun Feb 8 1998,Cagliari,2-0,?,Pescara
+Sun Feb 8 1998,Chievo,1-1,?,F. Andria
+Sun Feb 8 1998,Lucchese,2-3,?,Genoa
+Sun Feb 8 1998,Monza,5-1,?,Verona
+Sun Feb 8 1998,Padova,2-1,?,Torino
+Sun Feb 8 1998,Perugia,2-1,?,Ravenna
+Sun Feb 8 1998,Reggiana,1-1,?,Reggina
+Sun Feb 8 1998,Salernitana,4-0,?,Treviso
+Sun Feb 8 1998,Venezia,1-0,?,Foggia
+Sat Feb 14 1998,Treviso,2-0,?,Reggina
+Sun Feb 15 1998,C. Sangro,0-3,?,Cagliari
+Sun Feb 15 1998,Foggia,0-3,?,Torino
+Sun Feb 15 1998,Genoa,2-1,?,Ancona
+Sun Feb 15 1998,Lucchese,0-0,?,Perugia
+Sun Feb 15 1998,Pescara,0-2,?,F. Andria
+Sun Feb 15 1998,Ravenna,2-3,?,Reggiana
+Sun Feb 15 1998,Salernitana,2-3,?,Chievo
+Sun Feb 15 1998,Venezia,4-2,?,Monza
+Sun Feb 15 1998,Verona,5-1,?,Padova
+Sat Feb 21 1998,Monza,1-1,?,Treviso
+Sun Feb 22 1998,Ancona,0-2,?,Ravenna
+Sun Feb 22 1998,Cagliari,2-1,?,Verona
+Sun Feb 22 1998,Chievo,0-1,?,Genoa
+Sun Feb 22 1998,F. Andria,1-0,?,C. Sangro
+Sun Feb 22 1998,Padova,1-1,?,Lucchese
+Sun Feb 22 1998,Perugia,2-0,?,Venezia
+Sun Feb 22 1998,Reggiana,0-1,?,Salernitana
+Sun Feb 22 1998,Reggina,0-0,?,Foggia
+Sun Feb 22 1998,Torino,0-1,?,Pescara
+Sat Feb 28 1998,Genoa,2-2,?,Torino
+Sun Mar 1 1998,Foggia,1-1,?,Cagliari
+Sun Mar 1 1998,Lucchese,1-0,?,F. Andria
+Sun Mar 1 1998,Monza,0-1,?,Reggina
+Sun Mar 1 1998,Ravenna,1-3,?,C. Sangro
+Sun Mar 1 1998,Reggiana,2-2,?,Chievo
+Sun Mar 1 1998,Salernitana,2-0,?,Padova
+Sun Mar 1 1998,Treviso,2-1,?,Perugia
+Sun Mar 1 1998,Venezia,1-1,?,Ancona
+Sun Mar 1 1998,Verona,2-0,?,Pescara
+Sun Mar 8 1998,C. Sangro,0-2,?,Lucchese
+Sun Mar 8 1998,Cagliari,1-1,?,Genoa
+Sun Mar 8 1998,Chievo,2-0,?,Ravenna
+Sun Mar 8 1998,F. Andria,1-3,?,Monza
+Sun Mar 8 1998,Padova,0-0,?,Venezia
+Sun Mar 8 1998,Perugia,1-1,?,Salernitana
+Sun Mar 8 1998,Pescara,1-0,?,Foggia
+Sun Mar 8 1998,Reggina,2-1,?,Ancona
+Sun Mar 8 1998,Torino,2-1,?,Verona
+Sun Mar 8 1998,Treviso,0-5,?,Reggiana
+Sat Mar 14 1998,Chievo,2-0,?,Verona
+Sun Mar 15 1998,Ancona,2-0,?,F. Andria
+Sun Mar 15 1998,Foggia,3-1,?,Genoa
+Sun Mar 15 1998,Lucchese,0-3,?,Pescara
+Sun Mar 15 1998,Monza,0-0,?,Cagliari
+Sun Mar 15 1998,Perugia,0-1,?,Reggina
+Sun Mar 15 1998,Ravenna,2-0,?,Treviso
+Sun Mar 15 1998,Reggiana,0-2,?,Padova
+Sun Mar 15 1998,Salernitana,1-0,?,C. Sangro
+Sun Mar 15 1998,Venezia,0-0,?,Torino
+Sat Mar 21 1998,Verona,0-1,?,Venezia
+Sun Mar 22 1998,C. Sangro,0-4,?,Chievo
+Sun Mar 22 1998,Cagliari,2-1,?,Ravenna
+Sun Mar 22 1998,F. Andria,2-0,?,Foggia
+Sun Mar 22 1998,Genoa,2-2,?,Reggiana
+Sun Mar 22 1998,Padova,3-1,?,Perugia
+Sun Mar 22 1998,Pescara,0-0,?,Salernitana
+Sun Mar 22 1998,Reggina,0-0,?,Lucchese
+Sun Mar 22 1998,Torino,1-0,?,Monza
+Sun Mar 22 1998,Treviso,5-0,?,Ancona
+Sat Apr 4 1998,Salernitana,1-0,?,Cagliari
+Sun Apr 5 1998,Ancona,2-2,?,Perugia
+Sun Apr 5 1998,C. Sangro,1-1,?,Monza
+Sun Apr 5 1998,Chievo,1-1,?,Padova
+Sun Apr 5 1998,Foggia,0-0,?,Verona
+Sun Apr 5 1998,Genoa,4-0,?,Pescara
+Sun Apr 5 1998,Ravenna,2-2,?,Reggina
+Sun Apr 5 1998,Reggiana,3-0,?,Lucchese
+Sun Apr 5 1998,Torino,2-1,?,F. Andria
+Sun Apr 5 1998,Venezia,0-0,?,Treviso
+Sat Apr 11 1998,Cagliari,2-2,?,Torino
+Sat Apr 11 1998,F. Andria,2-0,?,Genoa
+Sat Apr 11 1998,Lucchese,1-1,?,Salernitana
+Sat Apr 11 1998,Monza,1-0,?,Chievo
+Sat Apr 11 1998,Padova,0-0,?,Ravenna
+Sat Apr 11 1998,Perugia,2-0,?,Reggiana
+Sat Apr 11 1998,Pescara,2-1,?,Venezia
+Sat Apr 11 1998,Reggina,2-1,?,C. Sangro
+Sat Apr 11 1998,Treviso,3-3,?,Foggia
+Sat Apr 11 1998,Verona,2-0,?,Ancona
+Sat Apr 18 1998,Genoa,1-0,?,Verona
+Sun Apr 19 1998,Ancona,0-0,?,Padova
+Sun Apr 19 1998,C. Sangro,1-1,?,Perugia
+Sun Apr 19 1998,Chievo,3-1,?,Lucchese
+Sun Apr 19 1998,F. Andria,1-1,?,Cagliari
+Sun Apr 19 1998,Foggia,5-1,?,Monza
+Sun Apr 19 1998,Pescara,1-0,?,Treviso
+Sun Apr 19 1998,Ravenna,0-0,?,Salernitana
+Sun Apr 19 1998,Torino,2-0,?,Reggina
+Sun Apr 19 1998,Venezia,2-1,?,Reggiana
+Sat Apr 25 1998,Reggina,2-2,?,Cagliari
+Sun Apr 26 1998,Lucchese,2-0,?,Foggia
+Sun Apr 26 1998,Monza,0-0,?,Genoa
+Sun Apr 26 1998,Padova,1-0,?,Pescara
+Sun Apr 26 1998,Perugia,3-0,?,Chievo
+Sun Apr 26 1998,Ravenna,1-0,?,Venezia
+Sun Apr 26 1998,Reggiana,1-0,?,C. Sangro
+Sun Apr 26 1998,Salernitana,3-2,?,Ancona
+Sun Apr 26 1998,Treviso,0-0,?,Torino
+Sun Apr 26 1998,Verona,2-1,?,F. Andria
+Sat May 2 1998,Ancona,1-1,?,Reggiana
+Sun May 3 1998,Cagliari,0-0,?,Perugia
+Sun May 3 1998,F. Andria,0-2,?,Reggina
+Sun May 3 1998,Foggia,2-0,?,Padova
+Sun May 3 1998,Genoa,1-1,?,Salernitana
+Sun May 3 1998,Monza,3-1,?,Lucchese
+Sun May 3 1998,Pescara,1-2,?,C. Sangro
+Sun May 3 1998,Torino,1-0,?,Ravenna
+Sun May 3 1998,Venezia,2-0,?,Chievo
+Sun May 3 1998,Verona,1-1,?,Treviso
+Sun May 10 1998,C. Sangro,2-1,?,Torino
+Sun May 10 1998,Chievo,1-1,?,Foggia
+Sun May 10 1998,Lucchese,1-1,?,Ancona
+Sun May 10 1998,Padova,1-2,?,Monza
+Sun May 10 1998,Perugia,2-1,?,Verona
+Sun May 10 1998,Ravenna,2-1,?,Pescara
+Sun May 10 1998,Reggiana,0-0,?,Cagliari
+Sun May 10 1998,Reggina,2-0,?,Genoa
+Sun May 10 1998,Salernitana,0-0,?,Venezia
+Sun May 10 1998,Treviso,1-1,?,F. Andria
+Sun May 17 1998,Ancona,3-2,?,Chievo
+Sun May 17 1998,Cagliari,3-1,?,Lucchese
+Sun May 17 1998,F. Andria,2-0,?,Padova
+Sun May 17 1998,Foggia,1-1,?,Perugia
+Sun May 17 1998,Genoa,0-1,?,Treviso
+Sun May 17 1998,Monza,1-2,?,Ravenna
+Sun May 17 1998,Pescara,1-1,?,Reggina
+Sun May 17 1998,Torino,1-0,?,Salernitana
+Sun May 17 1998,Venezia,3-0,?,C. Sangro
+Sun May 17 1998,Verona,0-1,?,Reggiana
+Sun May 24 1998,Ancona,0-0,?,Pescara
+Sun May 24 1998,C. Sangro,0-1,?,Foggia
+Sun May 24 1998,Chievo,1-0,?,Treviso
+Sun May 24 1998,Lucchese,2-0,?,Venezia
+Sun May 24 1998,Padova,1-2,?,Cagliari
+Sun May 24 1998,Perugia,1-0,?,Genoa
+Sun May 24 1998,Ravenna,0-1,?,F. Andria
+Sun May 24 1998,Reggiana,0-1,?,Torino
+Sun May 24 1998,Reggina,0-3,?,Verona
+Sun May 24 1998,Salernitana,4-1,?,Monza
+Sun May 31 1998,Cagliari,1-1,?,Venezia
+Sun May 31 1998,F. Andria,1-1,?,Reggiana
+Sun May 31 1998,Foggia,2-2,?,Ravenna
+Sun May 31 1998,Genoa,2-1,?,C. Sangro
+Sun May 31 1998,Monza,3-3,?,Ancona
+Sun May 31 1998,Pescara,1-2,?,Perugia
+Sun May 31 1998,Reggina,1-0,?,Salernitana
+Sun May 31 1998,Torino,1-1,?,Chievo
+Sun May 31 1998,Treviso,3-2,?,Padova
+Sun May 31 1998,Verona,2-0,?,Lucchese
+Sun Jun 7 1998,Ancona,4-1,?,Cagliari
+Sun Jun 7 1998,C. Sangro,0-2,?,Verona
+Sun Jun 7 1998,Chievo,2-2,?,Pescara
+Sun Jun 7 1998,Lucchese,0-0,?,Treviso
+Sun Jun 7 1998,Padova,3-1,?,Reggina
+Sun Jun 7 1998,Perugia,2-1,?,Torino
+Sun Jun 7 1998,Ravenna,3-0,?,Genoa
+Sun Jun 7 1998,Reggiana,0-2,?,Monza
+Sun Jun 7 1998,Salernitana,3-2,?,Foggia
+Sun Jun 7 1998,Venezia,1-1,?,F. Andria
+Sun Jun 14 1998,Cagliari,2-2,?,Chievo
+Sun Jun 14 1998,F. Andria,2-2,?,Salernitana
+Sun Jun 14 1998,Foggia,2-2,?,Ancona
+Sun Jun 14 1998,Genoa,1-0,?,Padova
+Sun Jun 14 1998,Monza,0-2,?,Perugia
+Sun Jun 14 1998,Pescara,2-0,?,Reggiana
+Sun Jun 14 1998,Reggina,1-1,?,Venezia
+Sun Jun 14 1998,Torino,1-0,?,Lucchese
+Sun Jun 14 1998,Treviso,3-2,?,C. Sangro
+Sun Jun 14 1998,Verona,4-2,?,Ravenna

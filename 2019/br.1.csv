@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Apr 27 2019,Sao Paulo,2-0,?,Botafogo RJ
+Sat Apr 27 2019,Atletico-MG,2-1,?,Avai
+Sat Apr 27 2019,Chapecoense-SC,2-0,?,Internacional
+Sat Apr 27 2019,Flamengo RJ,3-1,?,Cruzeiro
+Sun Apr 28 2019,Gremio,1-2,?,Santos
+Sun Apr 28 2019,Athletico-PR,4-1,?,Vasco
+Sun Apr 28 2019,Bahia,3-2,?,Corinthians
+Sun Apr 28 2019,Ceara,4-0,?,CSA
+Sun Apr 28 2019,Fluminense,0-1,?,Goias
+Sun Apr 28 2019,Palmeiras,4-0,?,Fortaleza
+Wed May 1 2019,Corinthians,1-0,?,Chapecoense-SC
+Wed May 1 2019,CSA,1-1,?,Palmeiras
+Wed May 1 2019,Internacional,2-1,?,Flamengo RJ
+Wed May 1 2019,Avai,1-1,?,Gremio
+Wed May 1 2019,Cruzeiro,1-0,?,Ceara
+Wed May 1 2019,Fortaleza,2-1,?,Athletico-PR
+Wed May 1 2019,Goias,1-2,?,Sao Paulo
+Wed May 1 2019,Vasco,1-2,?,Atletico-MG
+Thu May 2 2019,Santos,2-1,?,Fluminense
+Thu May 2 2019,Botafogo RJ,3-2,?,Bahia
+Sat May 4 2019,Palmeiras,1-0,?,Internacional
+Sat May 4 2019,Vasco,1-1,?,Corinthians
+Sat May 4 2019,Ceara,1-2,?,Atletico-MG
+Sun May 5 2019,Chapecoense-SC,1-1,?,Athletico-PR
+Sun May 5 2019,Botafogo RJ,1-0,?,Fortaleza
+Sun May 5 2019,Cruzeiro,2-1,?,Goias
+Sun May 5 2019,CSA,0-0,?,Santos
+Sun May 5 2019,Sao Paulo,1-1,?,Flamengo RJ
+Sun May 5 2019,Bahia,1-0,?,Avai
+Sun May 5 2019,Gremio,4-5,?,Fluminense
+Sat May 11 2019,Fluminense,0-1,?,Botafogo RJ
+Sat May 11 2019,Corinthians,0-0,?,Gremio
+Sat May 11 2019,Goias,2-1,?,Ceara
+Sun May 12 2019,Flamengo RJ,2-1,?,Chapecoense-SC
+Sun May 12 2019,Atletico-MG,0-2,?,Palmeiras
+Sun May 12 2019,Internacional,3-1,?,Cruzeiro
+Sun May 12 2019,Santos,3-0,?,Vasco
+Sun May 12 2019,Athletico-PR,1-0,?,Bahia
+Sun May 12 2019,Avai,0-0,?,CSA
+Sun May 12 2019,Fortaleza,0-1,?,Sao Paulo
+Sat May 18 2019,Fluminense,4-1,?,Cruzeiro
+Sat May 18 2019,Atletico-MG,2-1,?,Flamengo RJ
+Sat May 18 2019,Palmeiras,4-0,?,Santos
+Sun May 19 2019,Sao Paulo,0-0,?,Bahia
+Sun May 19 2019,Athletico-PR,0-2,?,Corinthians
+Sun May 19 2019,Chapecoense-SC,1-3,?,Fortaleza
+Sun May 19 2019,Goias,1-0,?,Botafogo RJ
+Sun May 19 2019,Internacional,2-0,?,CSA
+Sun May 19 2019,Ceara,2-1,?,Gremio
+Sun May 19 2019,Vasco,1-1,?,Avai
+Sat May 25 2019,Botafogo RJ,0-1,?,Palmeiras
+Sat May 25 2019,Gremio,1-0,?,Atletico-MG
+Sun May 26 2019,Flamengo RJ,3-2,?,Athletico-PR
+Sun May 26 2019,Santos,0-0,?,Internacional
+Sun May 26 2019,Bahia,3-2,?,Fluminense
+Sun May 26 2019,Corinthians,1-0,?,Sao Paulo
+Sun May 26 2019,Cruzeiro,1-2,?,Chapecoense-SC
+Sun May 26 2019,Fortaleza,1-1,?,Vasco
+Mon May 27 2019,Avai,1-2,?,Ceara
+Mon May 27 2019,CSA,1-0,?,Goias
+Sat Jun 1 2019,Flamengo RJ,2-0,?,Fortaleza
+Sat Jun 1 2019,Bahia,1-0,?,Gremio
+Sun Jun 2 2019,Botafogo RJ,1-0,?,Vasco
+Sun Jun 2 2019,Athletico-PR,3-0,?,Fluminense
+Sun Jun 2 2019,Ceara,0-1,?,Santos
+Sun Jun 2 2019,Sao Paulo,1-1,?,Cruzeiro
+Sun Jun 2 2019,Atletico-MG,4-0,?,CSA
+Sun Jun 2 2019,Chapecoense-SC,1-2,?,Palmeiras
+Sun Jun 2 2019,Internacional,2-0,?,Avai
+Fri Jun 7 2019,Vasco,2-1,?,Internacional
+Sat Jun 8 2019,Palmeiras,1-0,?,Athletico-PR
+Sat Jun 8 2019,Cruzeiro,0-0,?,Corinthians
+Sat Jun 8 2019,Gremio,1-0,?,Fortaleza
+Sat Jun 8 2019,Ceara,0-0,?,Bahia
+Sat Jun 8 2019,Avai,0-0,?,Sao Paulo
+Sun Jun 9 2019,CSA,1-2,?,Botafogo RJ
+Sun Jun 9 2019,Fluminense,0-0,?,Flamengo RJ
+Sun Jun 9 2019,Santos,3-1,?,Atletico-MG
+Mon Jun 10 2019,Goias,3-1,?,Chapecoense-SC
+Wed Jun 12 2019,Botafogo RJ,0-1,?,Gremio
+Wed Jun 12 2019,Fortaleza,2-1,?,Cruzeiro
+Wed Jun 12 2019,CSA,0-2,?,Flamengo RJ
+Wed Jun 12 2019,Internacional,3-1,?,Bahia
+Wed Jun 12 2019,Santos,1-0,?,Corinthians
+Thu Jun 13 2019,Vasco,1-0,?,Ceara
+Thu Jun 13 2019,Atletico-MG,1-1,?,Sao Paulo
+Thu Jun 13 2019,Chapecoense-SC,1-1,?,Fluminense
+Thu Jun 13 2019,Goias,2-1,?,Athletico-PR
+Thu Jun 13 2019,Palmeiras,2-0,?,Avai
+Sat Jul 13 2019,Fortaleza,2-0,?,Avai
+Sat Jul 13 2019,Gremio,2-1,?,Vasco
+Sat Jul 13 2019,Bahia,0-1,?,Santos
+Sat Jul 13 2019,Sao Paulo,1-1,?,Palmeiras
+Sun Jul 14 2019,Flamengo RJ,6-1,?,Goias
+Sun Jul 14 2019,Athletico-PR,1-0,?,Internacional
+Sun Jul 14 2019,Corinthians,1-0,?,CSA
+Sun Jul 14 2019,Cruzeiro,0-0,?,Botafogo RJ
+Sun Jul 14 2019,Chapecoense-SC,1-2,?,Atletico-MG
+Mon Jul 15 2019,Fluminense,1-1,?,Ceara
+Sat Jul 20 2019,Vasco,2-1,?,Fluminense
+Sat Jul 20 2019,Bahia,0-0,?,Cruzeiro
+Sat Jul 20 2019,Ceara,2-0,?,Palmeiras
+Sat Jul 20 2019,CSA,0-4,?,Athletico-PR
+Sat Jul 20 2019,Internacional,1-1,?,Gremio
+Sun Jul 21 2019,Botafogo RJ,0-1,?,Santos
+Sun Jul 21 2019,Atletico-MG,2-2,?,Fortaleza
+Sun Jul 21 2019,Corinthians,1-1,?,Flamengo RJ
+Sun Jul 21 2019,Avai,0-0,?,Goias
+Mon Jul 22 2019,Sao Paulo,4-0,?,Chapecoense-SC
+Sat Jul 27 2019,Palmeiras,1-1,?,Vasco
+Sat Jul 27 2019,Cruzeiro,0-2,?,Athletico-PR
+Sat Jul 27 2019,Fluminense,1-2,?,Sao Paulo
+Sat Jul 27 2019,Internacional,1-0,?,Ceara
+Sun Jul 28 2019,Chapecoense-SC,0-0,?,Bahia
+Sun Jul 28 2019,Flamengo RJ,3-2,?,Botafogo RJ
+Sun Jul 28 2019,Santos,3-1,?,Avai
+Sun Jul 28 2019,Fortaleza,1-3,?,Corinthians
+Sun Jul 28 2019,Goias,0-0,?,Atletico-MG
+Mon Jul 29 2019,CSA,0-0,?,Gremio
+Sat Aug 3 2019,Ceara,2-1,?,Fortaleza
+Sat Aug 3 2019,Fluminense,2-1,?,Internacional
+Sun Aug 4 2019,Santos,6-1,?,Goias
+Sun Aug 4 2019,Avai,0-2,?,Botafogo RJ
+Sun Aug 4 2019,Bahia,3-0,?,Flamengo RJ
+Sun Aug 4 2019,Atletico-MG,2-0,?,Cruzeiro
+Sun Aug 4 2019,Corinthians,1-1,?,Palmeiras
+Sun Aug 4 2019,Vasco,0-0,?,CSA
+Mon Aug 5 2019,Gremio,3-3,?,Chapecoense-SC
+Wed Aug 7 2019,Corinthians,2-0,?,Goias
+Sat Aug 10 2019,Ceara,4-1,?,Chapecoense-SC
+Sat Aug 10 2019,Sao Paulo,3-2,?,Santos
+Sat Aug 10 2019,Flamengo RJ,3-1,?,Gremio
+Sat Aug 10 2019,Atletico-MG,2-1,?,Fluminense
+Sun Aug 11 2019,Internacional,0-0,?,Corinthians
+Sun Aug 11 2019,Avai,2-2,?,Cruzeiro
+Sun Aug 11 2019,Botafogo RJ,2-1,?,Athletico-PR
+Sun Aug 11 2019,Palmeiras,2-2,?,Bahia
+Sun Aug 11 2019,Goias,0-1,?,Vasco
+Mon Aug 12 2019,CSA,0-2,?,Fortaleza
+Sat Aug 17 2019,Corinthians,2-0,?,Botafogo RJ
+Sat Aug 17 2019,Fortaleza,0-1,?,Internacional
+Sat Aug 17 2019,Athletico-PR,1-0,?,Atletico-MG
+Sat Aug 17 2019,Vasco,1-4,?,Flamengo RJ
+Sat Aug 17 2019,Gremio,1-1,?,Palmeiras
+Sun Aug 18 2019,Bahia,1-1,?,Goias
+Sun Aug 18 2019,Cruzeiro,2-0,?,Santos
+Sun Aug 18 2019,Fluminense,0-1,?,CSA
+Sun Aug 18 2019,Sao Paulo,1-0,?,Ceara
+Sun Aug 18 2019,Chapecoense-SC,1-0,?,Avai
+Wed Aug 21 2019,Athletico-PR,0-1,?,Sao Paulo
+Sat Aug 24 2019,Atletico-MG,0-1,?,Bahia
+Sat Aug 24 2019,Gremio,2-1,?,Athletico-PR
+Sun Aug 25 2019,Goias,2-1,?,Internacional
+Sun Aug 25 2019,Santos,3-3,?,Fortaleza
+Sun Aug 25 2019,Vasco,2-0,?,Sao Paulo
+Sun Aug 25 2019,Avai,1-1,?,Corinthians
+Sun Aug 25 2019,Ceara,0-3,?,Flamengo RJ
+Sun Aug 25 2019,CSA,1-1,?,Cruzeiro
+Mon Aug 26 2019,Botafogo RJ,0-0,?,Chapecoense-SC
+Sat Aug 31 2019,Sao Paulo,0-0,?,Gremio
+Sat Aug 31 2019,Bahia,1-0,?,CSA
+Sat Aug 31 2019,Athletico-PR,1-0,?,Ceara
+Sat Aug 31 2019,Chapecoense-SC,0-1,?,Santos
+Sat Aug 31 2019,Internacional,3-2,?,Botafogo RJ
+Sun Sep 1 2019,Flamengo RJ,3-0,?,Palmeiras
+Sun Sep 1 2019,Fortaleza,2-0,?,Goias
+Sun Sep 1 2019,Corinthians,1-0,?,Atletico-MG
+Sun Sep 1 2019,Cruzeiro,1-0,?,Vasco
+Mon Sep 2 2019,Fluminense,0-1,?,Avai
+Sat Sep 7 2019,Corinthians,2-2,?,Ceara
+Sat Sep 7 2019,Vasco,0-2,?,Bahia
+Sat Sep 7 2019,Avai,0-3,?,Flamengo RJ
+Sat Sep 7 2019,Fortaleza,0-1,?,Fluminense
+Sat Sep 7 2019,Internacional,1-0,?,Sao Paulo
+Sat Sep 7 2019,Goias,1-2,?,Palmeiras
+Sun Sep 8 2019,Cruzeiro,1-4,?,Gremio
+Sun Sep 8 2019,Botafogo RJ,2-1,?,Atletico-MG
+Sun Sep 8 2019,Santos,1-1,?,Athletico-PR
+Sun Sep 8 2019,CSA,2-0,?,Chapecoense-SC
+Tue Sep 10 2019,Palmeiras,3-0,?,Fluminense
+Sat Sep 14 2019,Flamengo RJ,1-0,?,Santos
+Sat Sep 14 2019,Chapecoense-SC,1-2,?,Vasco
+Sat Sep 14 2019,Palmeiras,1-0,?,Cruzeiro
+Sat Sep 14 2019,Ceara,0-0,?,Botafogo RJ
+Sun Sep 15 2019,Athletico-PR,0-1,?,Avai
+Sun Sep 15 2019,Atletico-MG,1-3,?,Internacional
+Sun Sep 15 2019,Bahia,1-1,?,Fortaleza
+Sun Sep 15 2019,Fluminense,1-0,?,Corinthians
+Sun Sep 15 2019,Gremio,3-0,?,Goias
+Sun Sep 15 2019,Sao Paulo,1-1,?,CSA
+Sat Sep 21 2019,Botafogo RJ,1-2,?,Sao Paulo
+Sat Sep 21 2019,Cruzeiro,1-2,?,Flamengo RJ
+Sat Sep 21 2019,Corinthians,2-1,?,Bahia
+Sat Sep 21 2019,Santos,0-3,?,Gremio
+Sun Sep 22 2019,Internacional,1-0,?,Chapecoense-SC
+Sun Sep 22 2019,CSA,1-0,?,Ceara
+Sun Sep 22 2019,Fortaleza,0-1,?,Palmeiras
+Sun Sep 22 2019,Vasco,1-1,?,Athletico-PR
+Sun Sep 22 2019,Goias,3-0,?,Fluminense
+Mon Sep 23 2019,Avai,1-0,?,Atletico-MG
+Wed Sep 25 2019,Ceara,0-0,?,Cruzeiro
+Wed Sep 25 2019,Bahia,2-0,?,Botafogo RJ
+Wed Sep 25 2019,Flamengo RJ,3-1,?,Internacional
+Wed Sep 25 2019,Sao Paulo,0-1,?,Goias
+Thu Sep 26 2019,Palmeiras,6-2,?,CSA
+Thu Sep 26 2019,Fluminense,1-1,?,Santos
+Thu Sep 26 2019,Gremio,6-1,?,Avai
+Thu Sep 26 2019,Athletico-PR,4-1,?,Fortaleza
+Sat Sep 28 2019,Flamengo RJ,0-0,?,Sao Paulo
+Sun Sep 29 2019,Corinthians,1-0,?,Vasco
+Sun Sep 29 2019,Fluminense,2-1,?,Gremio
+Sun Sep 29 2019,Internacional,1-1,?,Palmeiras
+Sun Sep 29 2019,Santos,2-0,?,CSA
+Sun Sep 29 2019,Athletico-PR,1-1,?,Chapecoense-SC
+Sun Sep 29 2019,Atletico-MG,2-1,?,Ceara
+Mon Sep 30 2019,Avai,0-2,?,Bahia
+Mon Sep 30 2019,Fortaleza,1-0,?,Botafogo RJ
+Mon Sep 30 2019,Goias,1-0,?,Cruzeiro
+Wed Oct 2 2019,Atletico-MG,1-2,?,Vasco
+Wed Oct 2 2019,Chapecoense-SC,0-1,?,Corinthians
+Sat Oct 5 2019,Sao Paulo,2-1,?,Fortaleza
+Sat Oct 5 2019,Vasco,0-1,?,Santos
+Sat Oct 5 2019,Bahia,1-2,?,Athletico-PR
+Sat Oct 5 2019,Gremio,0-0,?,Corinthians
+Sat Oct 5 2019,Cruzeiro,1-1,?,Internacional
+Sun Oct 6 2019,Chapecoense-SC,0-1,?,Flamengo RJ
+Sun Oct 6 2019,Botafogo RJ,0-1,?,Fluminense
+Sun Oct 6 2019,Ceara,0-1,?,Goias
+Sun Oct 6 2019,Palmeiras,1-1,?,Atletico-MG
+Sun Oct 6 2019,CSA,3-1,?,Avai
+Wed Oct 9 2019,Botafogo RJ,3-1,?,Goias
+Wed Oct 9 2019,CSA,1-0,?,Internacional
+Wed Oct 9 2019,Fortaleza,2-0,?,Chapecoense-SC
+Wed Oct 9 2019,Bahia,0-0,?,Sao Paulo
+Wed Oct 9 2019,Gremio,2-1,?,Ceara
+Wed Oct 9 2019,Cruzeiro,0-0,?,Fluminense
+Wed Oct 9 2019,Santos,2-0,?,Palmeiras
+Thu Oct 10 2019,Avai,0-0,?,Vasco
+Thu Oct 10 2019,Corinthians,2-2,?,Athletico-PR
+Thu Oct 10 2019,Flamengo RJ,3-1,?,Atletico-MG
+Sat Oct 12 2019,Goias,1-0,?,CSA
+Sat Oct 12 2019,Fluminense,2-0,?,Bahia
+Sat Oct 12 2019,Palmeiras,1-0,?,Botafogo RJ
+Sun Oct 13 2019,Athletico-PR,0-2,?,Flamengo RJ
+Sun Oct 13 2019,Ceara,1-0,?,Avai
+Sun Oct 13 2019,Internacional,0-0,?,Santos
+Sun Oct 13 2019,Vasco,1-0,?,Fortaleza
+Sun Oct 13 2019,Sao Paulo,1-0,?,Corinthians
+Sun Oct 13 2019,Atletico-MG,1-4,?,Gremio
+Sun Oct 13 2019,Chapecoense-SC,1-1,?,Cruzeiro
+Wed Oct 16 2019,CSA,2-2,?,Atletico-MG
+Wed Oct 16 2019,Gremio,0-1,?,Bahia
+Wed Oct 16 2019,Fortaleza,1-2,?,Flamengo RJ
+Wed Oct 16 2019,Cruzeiro,1-0,?,Sao Paulo
+Wed Oct 16 2019,Palmeiras,1-0,?,Chapecoense-SC
+Wed Oct 16 2019,Goias,2-2,?,Corinthians
+Wed Oct 16 2019,Vasco,2-1,?,Botafogo RJ
+Thu Oct 17 2019,Avai,0-2,?,Internacional
+Thu Oct 17 2019,Santos,2-1,?,Ceara
+Thu Oct 17 2019,Fluminense,1-2,?,Athletico-PR
+Sat Oct 19 2019,Fortaleza,2-1,?,Gremio
+Sat Oct 19 2019,Corinthians,1-2,?,Cruzeiro
+Sun Oct 20 2019,Atletico-MG,2-0,?,Santos
+Sun Oct 20 2019,Internacional,0-1,?,Vasco
+Sun Oct 20 2019,Sao Paulo,1-0,?,Avai
+Sun Oct 20 2019,Flamengo RJ,2-0,?,Fluminense
+Sun Oct 20 2019,Athletico-PR,1-1,?,Palmeiras
+Sun Oct 20 2019,Chapecoense-SC,2-2,?,Goias
+Mon Oct 21 2019,Bahia,1-2,?,Ceara
+Mon Oct 21 2019,Botafogo RJ,2-1,?,CSA
+Sat Oct 26 2019,Ceara,1-1,?,Vasco
+Sat Oct 26 2019,Corinthians,0-0,?,Santos
+Sat Oct 26 2019,Bahia,2-3,?,Internacional
+Sat Oct 26 2019,Fluminense,1-1,?,Chapecoense-SC
+Sat Oct 26 2019,Cruzeiro,1-1,?,Fortaleza
+Sun Oct 27 2019,Athletico-PR,4-1,?,Goias
+Sun Oct 27 2019,Gremio,3-0,?,Botafogo RJ
+Sun Oct 27 2019,Sao Paulo,2-0,?,Atletico-MG
+Sun Oct 27 2019,Avai,1-2,?,Palmeiras
+Sun Oct 27 2019,Flamengo RJ,1-0,?,CSA
+Wed Oct 30 2019,Atletico-MG,0-2,?,Chapecoense-SC
+Wed Oct 30 2019,Avai,1-3,?,Fortaleza
+Wed Oct 30 2019,Palmeiras,3-0,?,Sao Paulo
+Wed Oct 30 2019,Ceara,2-0,?,Fluminense
+Wed Oct 30 2019,CSA,2-1,?,Corinthians
+Wed Oct 30 2019,Vasco,1-3,?,Gremio
+Thu Oct 31 2019,Santos,1-0,?,Bahia
+Thu Oct 31 2019,Goias,2-2,?,Flamengo RJ
+Thu Oct 31 2019,Botafogo RJ,0-2,?,Cruzeiro
+Thu Oct 31 2019,Internacional,1-1,?,Athletico-PR
+Sat Nov 2 2019,Fortaleza,2-2,?,Atletico-MG
+Sat Nov 2 2019,Fluminense,0-0,?,Vasco
+Sat Nov 2 2019,Palmeiras,1-0,?,Ceara
+Sat Nov 2 2019,Chapecoense-SC,0-3,?,Sao Paulo
+Sun Nov 3 2019,Flamengo RJ,4-1,?,Corinthians
+Sun Nov 3 2019,Athletico-PR,1-0,?,CSA
+Sun Nov 3 2019,Gremio,2-0,?,Internacional
+Sun Nov 3 2019,Cruzeiro,1-1,?,Bahia
+Sun Nov 3 2019,Santos,4-1,?,Botafogo RJ
+Sun Nov 3 2019,Goias,2-0,?,Avai
+Wed Nov 6 2019,Corinthians,3-2,?,Fortaleza
+Wed Nov 6 2019,Atletico-MG,2-0,?,Goias
+Wed Nov 6 2019,Avai,1-2,?,Santos
+Wed Nov 6 2019,Athletico-PR,0-0,?,Cruzeiro
+Wed Nov 6 2019,Bahia,1-1,?,Chapecoense-SC
+Wed Nov 6 2019,Vasco,1-2,?,Palmeiras
+Thu Nov 7 2019,Ceara,2-0,?,Internacional
+Thu Nov 7 2019,Sao Paulo,0-2,?,Fluminense
+Thu Nov 7 2019,Botafogo RJ,0-1,?,Flamengo RJ
+Thu Nov 7 2019,Gremio,2-1,?,CSA
+Sat Nov 9 2019,Goias,0-3,?,Santos
+Sat Nov 9 2019,Palmeiras,1-1,?,Corinthians
+Sun Nov 10 2019,Cruzeiro,0-0,?,Atletico-MG
+Sun Nov 10 2019,Internacional,2-1,?,Fluminense
+Sun Nov 10 2019,Sao Paulo,0-1,?,Athletico-PR
+Sun Nov 10 2019,Flamengo RJ,3-1,?,Bahia
+Sun Nov 10 2019,Chapecoense-SC,0-1,?,Gremio
+Sun Nov 10 2019,CSA,0-3,?,Vasco
+Sun Nov 10 2019,Fortaleza,1-0,?,Ceara
+Mon Nov 11 2019,Botafogo RJ,2-0,?,Avai
+Wed Nov 13 2019,Flamengo RJ,4-4,?,Vasco
+Sat Nov 16 2019,Santos,1-1,?,Sao Paulo
+Sat Nov 16 2019,Fluminense,1-1,?,Atletico-MG
+Sun Nov 17 2019,Bahia,1-1,?,Palmeiras
+Sun Nov 17 2019,Gremio,0-1,?,Flamengo RJ
+Sun Nov 17 2019,Athletico-PR,1-0,?,Botafogo RJ
+Sun Nov 17 2019,Chapecoense-SC,1-0,?,Ceara
+Sun Nov 17 2019,Corinthians,0-0,?,Internacional
+Sun Nov 17 2019,Fortaleza,3-0,?,CSA
+Mon Nov 18 2019,Vasco,1-1,?,Goias
+Mon Nov 18 2019,Cruzeiro,0-0,?,Avai
+Sat Nov 23 2019,Santos,4-1,?,Cruzeiro
+Sun Nov 24 2019,Atletico-MG,0-1,?,Athletico-PR
+Sun Nov 24 2019,Goias,4-3,?,Bahia
+Sun Nov 24 2019,Palmeiras,1-2,?,Gremio
+Sun Nov 24 2019,Botafogo RJ,1-0,?,Corinthians
+Sun Nov 24 2019,Avai,0-1,?,Chapecoense-SC
+Sun Nov 24 2019,Ceara,1-1,?,Sao Paulo
+Sun Nov 24 2019,Internacional,2-2,?,Fortaleza
+Mon Nov 25 2019,CSA,0-1,?,Fluminense
+Wed Nov 27 2019,Chapecoense-SC,0-1,?,Botafogo RJ
+Wed Nov 27 2019,Internacional,1-2,?,Goias
+Wed Nov 27 2019,Bahia,1-1,?,Atletico-MG
+Wed Nov 27 2019,Athletico-PR,2-0,?,Gremio
+Wed Nov 27 2019,Corinthians,3-0,?,Avai
+Wed Nov 27 2019,Flamengo RJ,4-1,?,Ceara
+Thu Nov 28 2019,Fluminense,1-0,?,Palmeiras
+Thu Nov 28 2019,Fortaleza,2-1,?,Santos
+Thu Nov 28 2019,Sao Paulo,1-0,?,Vasco
+Thu Nov 28 2019,Cruzeiro,0-1,?,CSA
+Sat Nov 30 2019,Botafogo RJ,0-1,?,Internacional
+Sat Nov 30 2019,Ceara,1-1,?,Athletico-PR
+Sun Dec 1 2019,Avai,1-1,?,Fluminense
+Sun Dec 1 2019,Goias,1-2,?,Fortaleza
+Sun Dec 1 2019,Palmeiras,1-3,?,Flamengo RJ
+Sun Dec 1 2019,Atletico-MG,2-1,?,Corinthians
+Sun Dec 1 2019,CSA,1-2,?,Bahia
+Sun Dec 1 2019,Gremio,3-0,?,Sao Paulo
+Sun Dec 1 2019,Santos,2-0,?,Chapecoense-SC
+Mon Dec 2 2019,Vasco,1-0,?,Cruzeiro
+Wed Dec 4 2019,Athletico-PR,1-0,?,Santos
+Wed Dec 4 2019,Atletico-MG,2-0,?,Botafogo RJ
+Wed Dec 4 2019,Ceara,0-1,?,Corinthians
+Wed Dec 4 2019,Chapecoense-SC,3-0,?,CSA
+Wed Dec 4 2019,Fluminense,0-0,?,Fortaleza
+Wed Dec 4 2019,Sao Paulo,2-1,?,Internacional
+Thu Dec 5 2019,Bahia,1-1,?,Vasco
+Thu Dec 5 2019,Gremio,2-0,?,Cruzeiro
+Thu Dec 5 2019,Palmeiras,5-1,?,Goias
+Thu Dec 5 2019,Flamengo RJ,6-1,?,Avai
+Sun Dec 8 2019,Avai,0-0,?,Athletico-PR
+Sun Dec 8 2019,Botafogo RJ,1-1,?,Ceara
+Sun Dec 8 2019,Corinthians,1-2,?,Fluminense
+Sun Dec 8 2019,Cruzeiro,0-2,?,Palmeiras
+Sun Dec 8 2019,CSA,1-2,?,Sao Paulo
+Sun Dec 8 2019,Fortaleza,2-1,?,Bahia
+Sun Dec 8 2019,Goias,3-2,?,Gremio
+Sun Dec 8 2019,Internacional,2-1,?,Atletico-MG
+Sun Dec 8 2019,Santos,4-0,?,Flamengo RJ
+Sun Dec 8 2019,Vasco,1-1,?,Chapecoense-SC

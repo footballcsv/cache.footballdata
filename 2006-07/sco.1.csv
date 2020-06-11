@@ -1,0 +1,229 @@
+Date,Team 1,FT,HT,Team 2
+Sat Jul 29 2006,Celtic,4-1,2-0,Kilmarnock
+Sat Jul 29 2006,Dundee United,1-2,1-1,Falkirk
+Sat Jul 29 2006,Dunfermline,1-2,0-1,Hearts
+Sat Jul 29 2006,Hibernian,1-1,1-1,Aberdeen
+Sat Jul 29 2006,Inverness C,1-2,0-0,St Mirren
+Sun Jul 30 2006,Motherwell,1-2,0-1,Rangers
+Sat Aug 5 2006,Aberdeen,1-1,1-0,Inverness C
+Sat Aug 5 2006,Falkirk,1-0,1-0,Dunfermline
+Sat Aug 5 2006,Kilmarnock,2-1,0-1,Hibernian
+Sat Aug 5 2006,Rangers,2-2,0-1,Dundee United
+Sat Aug 5 2006,St Mirren,2-0,1-0,Motherwell
+Sun Aug 6 2006,Hearts,2-1,0-0,Celtic
+Sat Aug 12 2006,Celtic,2-0,1-0,St Mirren
+Sat Aug 12 2006,Hearts,0-0,0-0,Falkirk
+Sat Aug 12 2006,Inverness C,0-0,0-0,Hibernian
+Sat Aug 12 2006,Kilmarnock,0-0,0-0,Dundee United
+Sat Aug 12 2006,Motherwell,0-2,0-1,Aberdeen
+Sun Aug 13 2006,Dunfermline,1-1,0-0,Rangers
+Sat Aug 19 2006,Dundee United,0-0,0-0,Dunfermline
+Sat Aug 19 2006,Falkirk,1-2,1-1,Kilmarnock
+Sat Aug 19 2006,Hibernian,3-1,1-0,Motherwell
+Sat Aug 19 2006,Rangers,2-0,0-0,Hearts
+Sat Aug 19 2006,St Mirren,1-1,0-1,Aberdeen
+Sun Aug 20 2006,Inverness C,1-1,0-1,Celtic
+Sat Aug 26 2006,Aberdeen,1-0,0-0,Dunfermline
+Sat Aug 26 2006,Celtic,2-1,0-1,Hibernian
+Sat Aug 26 2006,Falkirk,0-1,0-0,Motherwell
+Sat Aug 26 2006,Hearts,4-1,2-1,Inverness C
+Sat Aug 26 2006,St Mirren,1-3,0-2,Dundee United
+Sun Aug 27 2006,Kilmarnock,2-2,0-1,Rangers
+Sat Sep 9 2006,Aberdeen,0-1,0-0,Celtic
+Sat Sep 9 2006,Dunfermline,3-2,1-1,Kilmarnock
+Sat Sep 9 2006,Hearts,0-1,0-0,St Mirren
+Sat Sep 9 2006,Motherwell,1-4,0-1,Inverness C
+Sat Sep 9 2006,Rangers,4-0,2-0,Falkirk
+Sun Sep 10 2006,Dundee United,0-3,0-0,Hibernian
+Sat Sep 16 2006,Celtic,1-0,1-0,Dunfermline
+Sat Sep 16 2006,Falkirk,0-2,0-0,Aberdeen
+Sat Sep 16 2006,Inverness C,0-0,0-0,Dundee United
+Sat Sep 16 2006,St Mirren,0-1,0-0,Kilmarnock
+Sun Sep 17 2006,Hibernian,2-1,1-0,Rangers
+Sun Sep 17 2006,Motherwell,0-1,0-0,Hearts
+Sat Sep 23 2006,Celtic,2-0,1-0,Rangers
+Sat Sep 23 2006,Dundee United,1-1,0-0,Motherwell
+Sat Sep 23 2006,Dunfermline,2-1,0-1,St Mirren
+Sat Sep 23 2006,Hibernian,0-1,0-1,Falkirk
+Sat Sep 23 2006,Kilmarnock,1-1,1-1,Inverness C
+Sun Sep 24 2006,Aberdeen,1-3,0-0,Hearts
+Sat Sep 30 2006,Inverness C,1-0,0-0,Dunfermline
+Sat Sep 30 2006,Motherwell,5-0,3-0,Kilmarnock
+Sat Sep 30 2006,St Mirren,1-0,1-0,Hibernian
+Sun Oct 1 2006,Falkirk,0-1,0-0,Celtic
+Sun Oct 1 2006,Hearts,4-0,2-0,Dundee United
+Sun Oct 1 2006,Rangers,1-0,0-0,Aberdeen
+Sat Oct 14 2006,Dundee United,1-4,1-1,Celtic
+Sat Oct 14 2006,Falkirk,1-1,0-0,St Mirren
+Sat Oct 14 2006,Kilmarnock,1-0,0-0,Aberdeen
+Sat Oct 14 2006,Motherwell,2-1,0-0,Dunfermline
+Sat Oct 14 2006,Rangers,0-1,0-0,Inverness C
+Sun Oct 15 2006,Hibernian,2-2,2-1,Hearts
+Sat Oct 21 2006,Aberdeen,3-1,1-0,Dundee United
+Sat Oct 21 2006,Celtic,2-1,1-0,Motherwell
+Sat Oct 21 2006,Hearts,0-2,0-2,Kilmarnock
+Sat Oct 21 2006,Inverness C,3-2,0-1,Falkirk
+Sun Oct 22 2006,St Mirren,2-3,1-2,Rangers
+Mon Oct 23 2006,Dunfermline,0-4,0-1,Hibernian
+Sat Oct 28 2006,Falkirk,5-1,2-0,Dundee United
+Sat Oct 28 2006,Hearts,1-1,1-0,Dunfermline
+Sat Oct 28 2006,Rangers,1-1,1-0,Motherwell
+Sat Oct 28 2006,St Mirren,1-1,0-1,Inverness C
+Sun Oct 29 2006,Kilmarnock,1-2,0-0,Celtic
+Mon Oct 30 2006,Aberdeen,2-1,0-0,Hibernian
+Sat Nov 4 2006,Celtic,2-1,0-0,Hearts
+Sat Nov 4 2006,Dunfermline,0-3,0-1,Falkirk
+Sat Nov 4 2006,Hibernian,2-2,0-0,Kilmarnock
+Sat Nov 4 2006,Motherwell,0-0,0-0,St Mirren
+Sun Nov 5 2006,Dundee United,2-1,0-0,Rangers
+Mon Nov 6 2006,Inverness C,1-1,0-0,Aberdeen
+Sat Nov 11 2006,Aberdeen,2-1,0-0,Motherwell
+Sat Nov 11 2006,Dundee United,1-0,0-0,Kilmarnock
+Sat Nov 11 2006,Hibernian,2-0,0-0,Inverness C
+Sat Nov 11 2006,Rangers,2-0,0-0,Dunfermline
+Sun Nov 12 2006,St Mirren,1-3,0-2,Celtic
+Mon Nov 13 2006,Falkirk,1-1,0-0,Hearts
+Sat Nov 18 2006,Aberdeen,2-0,0-0,St Mirren
+Sat Nov 18 2006,Celtic,3-0,1-0,Inverness C
+Sat Nov 18 2006,Dunfermline,2-1,0-0,Dundee United
+Sat Nov 18 2006,Kilmarnock,2-1,0-1,Falkirk
+Sat Nov 18 2006,Motherwell,1-6,0-4,Hibernian
+Sun Nov 19 2006,Hearts,0-1,0-0,Rangers
+Sat Nov 25 2006,Dunfermline,0-3,0-0,Aberdeen
+Sat Nov 25 2006,Inverness C,0-0,0-0,Hearts
+Sat Nov 25 2006,Motherwell,4-2,1-1,Falkirk
+Sun Nov 26 2006,Dundee United,1-0,0-0,St Mirren
+Sun Nov 26 2006,Hibernian,2-2,1-0,Celtic
+Sun Nov 26 2006,Rangers,3-0,2-0,Kilmarnock
+Sat Dec 2 2006,Celtic,1-0,0-0,Aberdeen
+Sat Dec 2 2006,Hibernian,2-1,1-1,Dundee United
+Sat Dec 2 2006,Inverness C,0-1,0-0,Motherwell
+Sat Dec 2 2006,Kilmarnock,5-1,4-1,Dunfermline
+Sat Dec 2 2006,St Mirren,2-2,2-1,Hearts
+Sun Dec 3 2006,Falkirk,1-0,1-0,Rangers
+Sat Dec 9 2006,Aberdeen,2-1,2-0,Falkirk
+Sat Dec 9 2006,Dundee United,3-1,1-1,Inverness C
+Sat Dec 9 2006,Hearts,4-1,1-1,Motherwell
+Sat Dec 9 2006,Kilmarnock,1-1,0-0,St Mirren
+Sat Dec 9 2006,Rangers,3-0,3-0,Hibernian
+Sun Dec 10 2006,Dunfermline,1-2,0-0,Celtic
+Sat Dec 16 2006,Falkirk,2-1,2-0,Hibernian
+Sat Dec 16 2006,Hearts,0-1,0-0,Aberdeen
+Sat Dec 16 2006,Inverness C,3-4,3-2,Kilmarnock
+Sat Dec 16 2006,Motherwell,2-3,0-2,Dundee United
+Sat Dec 16 2006,St Mirren,0-0,0-0,Dunfermline
+Sun Dec 17 2006,Rangers,1-1,0-1,Celtic
+Sat Dec 23 2006,Aberdeen,1-2,0-2,Rangers
+Sat Dec 23 2006,Celtic,1-0,1-0,Falkirk
+Sat Dec 23 2006,Dundee United,0-1,0-0,Hearts
+Sat Dec 23 2006,Dunfermline,0-0,0-0,Inverness C
+Sat Dec 23 2006,Hibernian,5-1,2-1,St Mirren
+Sat Dec 23 2006,Kilmarnock,1-2,1-2,Motherwell
+Tue Dec 26 2006,Aberdeen,3-1,2-0,Kilmarnock
+Tue Dec 26 2006,Celtic,2-2,0-1,Dundee United
+Tue Dec 26 2006,Dunfermline,0-2,0-1,Motherwell
+Tue Dec 26 2006,Hearts,3-2,1-0,Hibernian
+Tue Dec 26 2006,St Mirren,1-0,0-0,Falkirk
+Wed Dec 27 2006,Inverness C,2-1,1-1,Rangers
+Sat Dec 30 2006,Dundee United,3-1,0-0,Aberdeen
+Sat Dec 30 2006,Falkirk,3-1,3-0,Inverness C
+Sat Dec 30 2006,Hibernian,2-0,0-0,Dunfermline
+Sat Dec 30 2006,Kilmarnock,0-0,0-0,Hearts
+Sat Dec 30 2006,Motherwell,1-1,0-1,Celtic
+Sat Dec 30 2006,Rangers,1-1,1-1,St Mirren
+Mon Jan 1 2007,Dundee United,1-5,1-2,Falkirk
+Mon Jan 1 2007,Inverness C,2-1,2-0,St Mirren
+Tue Jan 2 2007,Celtic,2-0,1-0,Kilmarnock
+Tue Jan 2 2007,Dunfermline,0-1,0-1,Hearts
+Tue Jan 2 2007,Hibernian,0-0,0-0,Aberdeen
+Tue Jan 2 2007,Motherwell,0-1,0-0,Rangers
+Sat Jan 13 2007,Aberdeen,1-1,0-0,Inverness C
+Sat Jan 13 2007,Falkirk,1-0,0-0,Dunfermline
+Sat Jan 13 2007,Rangers,5-0,2-0,Dundee United
+Sun Jan 14 2007,Hearts,1-2,1-0,Celtic
+Mon Jan 15 2007,Kilmarnock,0-2,0-0,Hibernian
+Sat Jan 20 2007,Celtic,5-1,1-0,St Mirren
+Sat Jan 20 2007,Hearts,1-0,0-0,Falkirk
+Sat Jan 20 2007,Kilmarnock,1-0,0-0,Dundee United
+Sun Jan 21 2007,Dunfermline,0-1,0-1,Rangers
+Sun Jan 21 2007,Inverness C,3-0,3-0,Hibernian
+Sat Jan 27 2007,Dundee United,0-0,0-0,Dunfermline
+Sat Jan 27 2007,Falkirk,0-2,0-2,Kilmarnock
+Sat Jan 27 2007,Hibernian,2-0,0-0,Motherwell
+Sat Jan 27 2007,Rangers,0-0,0-0,Hearts
+Sat Jan 27 2007,St Mirren,0-2,0-2,Aberdeen
+Sun Jan 28 2007,Inverness C,1-2,0-1,Celtic
+Sat Feb 10 2007,Aberdeen,3-0,1-0,Dunfermline
+Sat Feb 10 2007,Celtic,1-0,0-0,Hibernian
+Sat Feb 10 2007,Falkirk,1-2,0-0,Motherwell
+Sat Feb 10 2007,Hearts,1-0,0-0,Inverness C
+Sat Feb 10 2007,St Mirren,0-1,0-0,Dundee United
+Sun Feb 11 2007,Kilmarnock,1-3,0-2,Rangers
+Sat Feb 17 2007,Aberdeen,1-2,0-2,Celtic
+Sat Feb 17 2007,Dunfermline,1-1,1-1,Kilmarnock
+Sat Feb 17 2007,Hearts,1-1,0-1,St Mirren
+Sat Feb 17 2007,Motherwell,1-0,1-0,Inverness C
+Sun Feb 18 2007,Dundee United,0-0,0-0,Hibernian
+Sun Feb 18 2007,Rangers,2-1,1-0,Falkirk
+Tue Feb 20 2007,St Mirren,0-0,0-0,Motherwell
+Sat Mar 3 2007,Celtic,2-1,1-0,Dunfermline
+Sat Mar 3 2007,Falkirk,1-2,0-1,Aberdeen
+Sat Mar 3 2007,Inverness C,1-0,0-0,Dundee United
+Sat Mar 3 2007,St Mirren,0-2,0-0,Kilmarnock
+Sun Mar 4 2007,Hibernian,0-2,0-1,Rangers
+Mon Mar 5 2007,Motherwell,0-2,0-1,Hearts
+Sat Mar 10 2007,Aberdeen,1-0,1-0,Hearts
+Sat Mar 10 2007,Dundee United,1-1,1-1,Motherwell
+Sat Mar 10 2007,Dunfermline,0-0,0-0,St Mirren
+Sat Mar 10 2007,Hibernian,2-0,0-0,Falkirk
+Sat Mar 10 2007,Kilmarnock,3-2,3-1,Inverness C
+Sun Mar 11 2007,Celtic,0-1,0-0,Rangers
+Tue Mar 13 2007,Motherwell,0-2,0-1,Aberdeen
+Sat Mar 17 2007,Hearts,0-4,0-0,Dundee United
+Sat Mar 17 2007,Inverness C,1-3,1-0,Dunfermline
+Sat Mar 17 2007,Rangers,3-0,3-0,Aberdeen
+Sun Mar 18 2007,Falkirk,1-0,1-0,Celtic
+Sat Mar 31 2007,Dundee United,1-1,0-0,Celtic
+Sat Mar 31 2007,Falkirk,2-0,2-0,St Mirren
+Sat Mar 31 2007,Kilmarnock,1-2,0-0,Aberdeen
+Sat Mar 31 2007,Motherwell,2-0,0-0,Dunfermline
+Sat Mar 31 2007,Rangers,1-1,1-0,Inverness C
+Sun Apr 1 2007,Hibernian,0-1,0-0,Hearts
+Tue Apr 3 2007,Motherwell,0-1,0-0,Kilmarnock
+Wed Apr 4 2007,St Mirren,1-1,0-1,Hibernian
+Sat Apr 7 2007,Aberdeen,2-4,2-3,Dundee United
+Sat Apr 7 2007,Celtic,1-0,0-0,Motherwell
+Sat Apr 7 2007,Dunfermline,1-0,0-0,Hibernian
+Sat Apr 7 2007,Hearts,1-0,0-0,Kilmarnock
+Sat Apr 7 2007,Inverness C,1-1,0-0,Falkirk
+Sun Apr 8 2007,St Mirren,0-1,0-1,Rangers
+Sat Apr 21 2007,Aberdeen,2-2,1-2,Hibernian
+Sat Apr 21 2007,Dunfermline,1-0,1-0,Dundee United
+Sat Apr 21 2007,Inverness C,2-0,2-0,Motherwell
+Sat Apr 21 2007,Rangers,2-1,0-1,Hearts
+Sun Apr 22 2007,Kilmarnock,1-2,0-1,Celtic
+Mon Apr 23 2007,Falkirk,0-2,0-1,St Mirren
+Sat Apr 28 2007,Aberdeen,3-0,1-0,Kilmarnock
+Sat Apr 28 2007,Dundee United,1-1,1-0,Inverness C
+Sat Apr 28 2007,Hibernian,3-3,2-1,Rangers
+Sat Apr 28 2007,Motherwell,3-3,2-0,Falkirk
+Sun Apr 29 2007,Celtic,1-3,0-0,Hearts
+Mon Apr 30 2007,St Mirren,0-1,0-0,Dunfermline
+Sat May 5 2007,Dundee United,0-2,0-1,St Mirren
+Sat May 5 2007,Falkirk,1-0,0-0,Inverness C
+Sat May 5 2007,Hibernian,0-1,0-0,Kilmarnock
+Sat May 5 2007,Rangers,2-0,1-0,Celtic
+Sun May 6 2007,Hearts,1-1,1-0,Aberdeen
+Mon May 7 2007,Dunfermline,4-1,2-0,Motherwell
+Sat May 12 2007,Celtic,2-1,1-1,Aberdeen
+Sat May 12 2007,Falkirk,2-0,1-0,Dundee United
+Sat May 12 2007,Hearts,2-0,2-0,Hibernian
+Sat May 12 2007,Inverness C,2-1,0-1,Dunfermline
+Sat May 12 2007,Motherwell,2-3,1-0,St Mirren
+Sun May 13 2007,Rangers,0-1,0-0,Kilmarnock
+Sat May 19 2007,Dundee United,0-0,0-0,Motherwell
+Sat May 19 2007,Dunfermline,0-3,0-0,Falkirk
+Sat May 19 2007,St Mirren,0-1,0-0,Inverness C
+Sun May 20 2007,Aberdeen,2-0,2-0,Rangers
+Sun May 20 2007,Hibernian,2-1,0-0,Celtic
+Sun May 20 2007,Kilmarnock,1-0,0-0,Hearts

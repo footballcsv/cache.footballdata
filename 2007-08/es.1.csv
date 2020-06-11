@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 25 2007,Real Madrid,2-1,1-1,Ath Madrid
+Sat Aug 25 2007,Sevilla,4-1,0-1,Getafe
+Sun Aug 26 2007,Ath Bilbao,0-0,0-0,Osasuna
+Sun Aug 26 2007,Espanol,0-1,0-0,Valladolid
+Sun Aug 26 2007,La Coruna,0-3,0-2,Almeria
+Sun Aug 26 2007,Mallorca,3-0,1-0,Levante
+Sun Aug 26 2007,Murcia,2-1,1-1,Zaragoza
+Sun Aug 26 2007,Recreativo,1-1,1-1,Betis
+Sun Aug 26 2007,Santander,0-0,0-0,Barcelona
+Sun Aug 26 2007,Valencia,0-3,0-1,Villarreal
+Sat Sep 1 2007,Levante,0-0,0-0,Murcia
+Sat Sep 1 2007,Zaragoza,1-1,0-0,Santander
+Sun Sep 2 2007,Almeria,1-2,0-0,Valencia
+Sun Sep 2 2007,Ath Madrid,1-1,0-1,Mallorca
+Sun Sep 2 2007,Barcelona,3-1,2-0,Ath Bilbao
+Sun Sep 2 2007,Betis,2-2,0-2,Espanol
+Sun Sep 2 2007,Getafe,1-1,0-0,Recreativo
+Sun Sep 2 2007,Valladolid,2-2,1-0,La Coruna
+Sun Sep 2 2007,Villarreal,0-5,0-1,Real Madrid
+Sat Sep 15 2007,Ath Bilbao,1-1,1-1,Zaragoza
+Sat Sep 15 2007,Real Madrid,3-1,1-0,Almeria
+Sat Sep 15 2007,Valencia,2-1,1-1,Valladolid
+Sun Sep 16 2007,Espanol,1-0,0-0,Getafe
+Sun Sep 16 2007,La Coruna,1-0,1-0,Betis
+Sun Sep 16 2007,Mallorca,0-1,0-0,Villarreal
+Sun Sep 16 2007,Murcia,1-1,0-1,Ath Madrid
+Sun Sep 16 2007,Osasuna,0-0,0-0,Barcelona
+Sun Sep 16 2007,Santander,1-0,1-0,Levante
+Sun Sep 16 2007,Sevilla,4-1,2-0,Recreativo
+Sat Sep 22 2007,Barcelona,2-1,0-0,Sevilla
+Sat Sep 22 2007,Recreativo,2-1,0-1,Espanol
+Sun Sep 23 2007,Almeria,1-1,1-0,Mallorca
+Sun Sep 23 2007,Ath Madrid,4-0,1-0,Santander
+Sun Sep 23 2007,Betis,1-2,0-0,Valencia
+Sun Sep 23 2007,Getafe,0-0,0-0,La Coruna
+Sun Sep 23 2007,Levante,1-2,0-1,Ath Bilbao
+Sun Sep 23 2007,Valladolid,1-1,0-0,Real Madrid
+Sun Sep 23 2007,Villarreal,2-0,0-0,Murcia
+Sun Sep 23 2007,Zaragoza,2-1,1-1,Osasuna
+Tue Sep 25 2007,Sevilla,2-3,0-1,Espanol
+Wed Sep 26 2007,Ath Bilbao,0-2,0-1,Ath Madrid
+Wed Sep 26 2007,Barcelona,4-1,4-1,Zaragoza
+Wed Sep 26 2007,La Coruna,0-2,0-1,Recreativo
+Wed Sep 26 2007,Mallorca,4-2,0-2,Valladolid
+Wed Sep 26 2007,Murcia,0-1,0-1,Almeria
+Wed Sep 26 2007,Osasuna,4-1,1-1,Levante
+Wed Sep 26 2007,Santander,0-2,0-1,Villarreal
+Wed Sep 26 2007,Valencia,2-1,2-0,Getafe
+Thu Sep 27 2007,Real Madrid,2-0,0-0,Betis
+Sat Sep 29 2007,Levante,1-4,0-2,Barcelona
+Sat Sep 29 2007,Zaragoza,2-0,0-0,Sevilla
+Sun Sep 30 2007,Almeria,0-1,0-1,Santander
+Sun Sep 30 2007,Ath Madrid,2-0,1-0,Osasuna
+Sun Sep 30 2007,Betis,3-0,0-0,Mallorca
+Sun Sep 30 2007,Espanol,1-0,1-0,La Coruna
+Sun Sep 30 2007,Getafe,0-1,0-0,Real Madrid
+Sun Sep 30 2007,Recreativo,0-1,0-1,Valencia
+Sun Sep 30 2007,Valladolid,1-4,0-1,Murcia
+Sun Sep 30 2007,Villarreal,1-0,0-0,Ath Bilbao
+Sat Oct 6 2007,Valencia,1-2,1-1,Espanol
+Sun Oct 7 2007,Ath Bilbao,1-1,1-0,Almeria
+Sun Oct 7 2007,Barcelona,3-0,2-0,Ath Madrid
+Sun Oct 7 2007,Mallorca,4-2,0-1,Getafe
+Sun Oct 7 2007,Murcia,0-0,0-0,Betis
+Sun Oct 7 2007,Osasuna,3-2,2-2,Villarreal
+Sun Oct 7 2007,Real Madrid,2-0,0-0,Recreativo
+Sun Oct 7 2007,Santander,2-0,0-0,Valladolid
+Sun Oct 7 2007,Sevilla,0-1,0-0,La Coruna
+Sun Oct 7 2007,Zaragoza,3-0,0-0,Levante
+Sat Oct 20 2007,Espanol,2-1,1-0,Real Madrid
+Sat Oct 20 2007,La Coruna,2-4,1-3,Valencia
+Sat Oct 20 2007,Levante,0-2,0-2,Sevilla
+Sat Oct 20 2007,Villarreal,3-1,3-1,Barcelona
+Sun Oct 21 2007,Almeria,2-0,0-0,Osasuna
+Sun Oct 21 2007,Ath Madrid,4-0,2-0,Zaragoza
+Sun Oct 21 2007,Betis,1-1,0-0,Santander
+Sun Oct 21 2007,Getafe,2-0,0-0,Murcia
+Sun Oct 21 2007,Recreativo,0-2,0-1,Mallorca
+Sun Oct 21 2007,Valladolid,1-2,0-2,Ath Bilbao
+Sat Oct 27 2007,Ath Bilbao,0-0,0-0,Betis
+Sat Oct 27 2007,Mallorca,2-2,1-2,Espanol
+Sat Oct 27 2007,Real Madrid,3-1,1-1,La Coruna
+Sun Oct 28 2007,Barcelona,2-0,1-0,Almeria
+Sun Oct 28 2007,Levante,0-1,0-1,Ath Madrid
+Sun Oct 28 2007,Murcia,1-0,0-0,Recreativo
+Sun Oct 28 2007,Osasuna,2-2,0-1,Valladolid
+Sun Oct 28 2007,Santander,2-0,1-0,Getafe
+Sun Oct 28 2007,Sevilla,3-0,1-0,Valencia
+Sun Oct 28 2007,Zaragoza,4-1,1-0,Villarreal
+Wed Oct 31 2007,Almeria,0-1,0-0,Zaragoza
+Wed Oct 31 2007,Ath Madrid,4-3,2-2,Sevilla
+Wed Oct 31 2007,Betis,0-3,0-1,Osasuna
+Wed Oct 31 2007,Getafe,2-0,2-0,Ath Bilbao
+Wed Oct 31 2007,La Coruna,1-1,1-1,Mallorca
+Wed Oct 31 2007,Recreativo,0-0,0-0,Santander
+Wed Oct 31 2007,Valencia,1-5,0-4,Real Madrid
+Wed Oct 31 2007,Villarreal,3-0,3-0,Levante
+Thu Nov 1 2007,Espanol,0-0,0-0,Murcia
+Thu Nov 1 2007,Valladolid,1-1,1-1,Barcelona
+Sat Nov 3 2007,Mallorca,0-2,0-1,Valencia
+Sat Nov 3 2007,Sevilla,2-0,2-0,Real Madrid
+Sun Nov 4 2007,Ath Bilbao,2-0,0-0,Recreativo
+Sun Nov 4 2007,Ath Madrid,3-4,2-2,Villarreal
+Sun Nov 4 2007,Barcelona,3-0,1-0,Betis
+Sun Nov 4 2007,Levante,3-0,3-0,Almeria
+Sun Nov 4 2007,Murcia,0-2,0-0,La Coruna
+Sun Nov 4 2007,Osasuna,0-2,0-0,Getafe
+Sun Nov 4 2007,Santander,1-1,0-0,Espanol
+Sun Nov 4 2007,Zaragoza,2-3,1-3,Valladolid
+Sat Nov 10 2007,Getafe,2-0,1-0,Barcelona
+Sat Nov 10 2007,Valencia,3-0,2-0,Murcia
+Sun Nov 11 2007,Almeria,0-0,0-0,Ath Madrid
+Sun Nov 11 2007,Betis,2-1,0-1,Zaragoza
+Sun Nov 11 2007,Espanol,2-1,1-1,Ath Bilbao
+Sun Nov 11 2007,La Coruna,0-1,0-0,Santander
+Sun Nov 11 2007,Real Madrid,4-3,2-2,Mallorca
+Sun Nov 11 2007,Recreativo,1-0,0-0,Osasuna
+Sun Nov 11 2007,Valladolid,1-0,0-0,Levante
+Sun Nov 11 2007,Villarreal,3-2,1-1,Sevilla
+Sat Nov 24 2007,Barcelona,3-0,0-0,Recreativo
+Sat Nov 24 2007,Murcia,1-1,0-1,Real Madrid
+Sat Nov 24 2007,Sevilla,1-2,0-2,Mallorca
+Sun Nov 25 2007,Ath Bilbao,2-2,1-0,La Coruna
+Sun Nov 25 2007,Ath Madrid,4-3,1-1,Valladolid
+Sun Nov 25 2007,Levante,4-3,2-2,Betis
+Sun Nov 25 2007,Osasuna,1-2,0-2,Espanol
+Sun Nov 25 2007,Santander,1-0,0-0,Valencia
+Sun Nov 25 2007,Villarreal,1-1,1-0,Almeria
+Sun Nov 25 2007,Zaragoza,1-1,0-0,Getafe
+Sat Dec 1 2007,Almeria,1-0,0-0,Sevilla
+Sat Dec 1 2007,Espanol,1-1,0-1,Barcelona
+Sat Dec 1 2007,Real Madrid,3-1,2-0,Santander
+Sun Dec 2 2007,Betis,0-2,0-1,Ath Madrid
+Sun Dec 2 2007,Getafe,2-1,0-1,Levante
+Sun Dec 2 2007,La Coruna,1-2,0-0,Osasuna
+Sun Dec 2 2007,Mallorca,1-1,0-1,Murcia
+Sun Dec 2 2007,Recreativo,2-1,2-1,Zaragoza
+Sun Dec 2 2007,Valencia,0-3,0-1,Ath Bilbao
+Sun Dec 2 2007,Valladolid,2-0,1-0,Villarreal
+Wed Dec 5 2007,Osasuna,1-1,1-0,Sevilla
+Sat Dec 8 2007,Ath Bilbao,0-1,0-0,Real Madrid
+Sat Dec 8 2007,Osasuna,0-0,0-0,Valencia
+Sun Dec 9 2007,Almeria,1-0,0-0,Valladolid
+Sun Dec 9 2007,Ath Madrid,1-0,1-0,Getafe
+Sun Dec 9 2007,Barcelona,2-1,1-1,La Coruna
+Sun Dec 9 2007,Levante,0-2,0-1,Recreativo
+Sun Dec 9 2007,Santander,3-1,2-1,Mallorca
+Sun Dec 9 2007,Sevilla,3-1,1-0,Murcia
+Sun Dec 9 2007,Villarreal,0-1,0-1,Betis
+Sun Dec 9 2007,Zaragoza,3-3,1-3,Espanol
+Sat Dec 15 2007,Espanol,1-0,1-0,Levante
+Sat Dec 15 2007,Valencia,0-3,0-2,Barcelona
+Sun Dec 16 2007,Betis,3-1,1-1,Almeria
+Sun Dec 16 2007,Getafe,1-3,0-1,Villarreal
+Sun Dec 16 2007,La Coruna,1-1,0-1,Zaragoza
+Sun Dec 16 2007,Mallorca,0-0,0-0,Ath Bilbao
+Sun Dec 16 2007,Murcia,2-1,0-0,Santander
+Sun Dec 16 2007,Real Madrid,2-0,1-0,Osasuna
+Sun Dec 16 2007,Recreativo,0-0,0-0,Ath Madrid
+Sun Dec 16 2007,Valladolid,0-0,0-0,Sevilla
+Sat Dec 22 2007,Almeria,0-2,0-1,Getafe
+Sat Dec 22 2007,Sevilla,4-1,1-0,Santander
+Sat Dec 22 2007,Zaragoza,2-2,2-0,Valencia
+Sun Dec 23 2007,Ath Bilbao,1-1,1-0,Murcia
+Sun Dec 23 2007,Ath Madrid,1-2,1-0,Espanol
+Sun Dec 23 2007,Barcelona,0-1,0-1,Real Madrid
+Sun Dec 23 2007,Levante,0-1,0-0,La Coruna
+Sun Dec 23 2007,Osasuna,3-1,1-0,Mallorca
+Sun Dec 23 2007,Valladolid,0-0,0-0,Betis
+Sun Dec 23 2007,Villarreal,1-1,1-1,Recreativo
+Sat Jan 5 2008,Espanol,3-0,3-0,Villarreal
+Sat Jan 5 2008,Mallorca,0-2,0-0,Barcelona
+Sun Jan 6 2008,Getafe,0-3,0-0,Valladolid
+Sun Jan 6 2008,La Coruna,0-3,0-1,Ath Madrid
+Sun Jan 6 2008,Murcia,2-0,0-0,Osasuna
+Sun Jan 6 2008,Real Madrid,2-0,0-0,Zaragoza
+Sun Jan 6 2008,Recreativo,1-1,1-1,Almeria
+Sun Jan 6 2008,Santander,1-0,1-0,Ath Bilbao
+Sun Jan 6 2008,Sevilla,3-0,2-0,Betis
+Sun Jan 6 2008,Valencia,0-0,0-0,Levante
+Sat Jan 12 2008,Ath Bilbao,2-0,1-0,Sevilla
+Sat Jan 12 2008,Barcelona,4-0,1-0,Murcia
+Sun Jan 13 2008,Almeria,1-0,0-0,Espanol
+Sun Jan 13 2008,Ath Madrid,1-0,1-0,Valencia
+Sun Jan 13 2008,Betis,3-2,2-0,Getafe
+Sun Jan 13 2008,Levante,0-2,0-0,Real Madrid
+Sun Jan 13 2008,Osasuna,0-2,0-0,Santander
+Sun Jan 13 2008,Valladolid,3-1,2-1,Recreativo
+Sun Jan 13 2008,Villarreal,4-3,1-1,La Coruna
+Sun Jan 13 2008,Zaragoza,2-2,2-1,Mallorca
+Sat Jan 19 2008,Getafe,3-2,1-1,Sevilla
+Sat Jan 19 2008,Villarreal,3-0,1-0,Valencia
+Sun Jan 20 2008,Almeria,1-0,0-0,La Coruna
+Sun Jan 20 2008,Ath Madrid,0-2,0-2,Real Madrid
+Sun Jan 20 2008,Barcelona,1-0,1-0,Santander
+Sun Jan 20 2008,Betis,1-1,0-0,Recreativo
+Sun Jan 20 2008,Levante,2-2,1-1,Mallorca
+Sun Jan 20 2008,Osasuna,2-0,0-0,Ath Bilbao
+Sun Jan 20 2008,Valladolid,2-1,2-0,Espanol
+Sun Jan 20 2008,Zaragoza,3-1,1-0,Murcia
+Sat Jan 26 2008,Sevilla,2-1,0-0,Osasuna
+Sun Jan 27 2008,Ath Bilbao,1-1,0-1,Barcelona
+Sun Jan 27 2008,Espanol,1-2,0-1,Betis
+Sun Jan 27 2008,La Coruna,3-1,1-0,Valladolid
+Sun Jan 27 2008,Mallorca,1-0,1-0,Ath Madrid
+Sun Jan 27 2008,Murcia,2-3,0-0,Levante
+Sun Jan 27 2008,Real Madrid,3-2,1-1,Villarreal
+Sun Jan 27 2008,Recreativo,1-3,1-2,Getafe
+Sun Jan 27 2008,Santander,2-2,1-0,Zaragoza
+Sun Jan 27 2008,Valencia,0-1,0-1,Almeria
+Sat Feb 2 2008,Almeria,2-0,1-0,Real Madrid
+Sat Feb 2 2008,Betis,0-1,0-1,La Coruna
+Sun Feb 3 2008,Ath Madrid,1-1,0-0,Murcia
+Sun Feb 3 2008,Barcelona,1-0,0-0,Osasuna
+Sun Feb 3 2008,Getafe,0-1,0-1,Espanol
+Sun Feb 3 2008,Levante,1-1,0-0,Santander
+Sun Feb 3 2008,Recreativo,1-2,0-1,Sevilla
+Sun Feb 3 2008,Valladolid,0-2,0-0,Valencia
+Sun Feb 3 2008,Villarreal,1-1,1-1,Mallorca
+Sun Feb 3 2008,Zaragoza,1-0,1-0,Ath Bilbao
+Sat Feb 9 2008,La Coruna,1-1,1-0,Getafe
+Sat Feb 9 2008,Murcia,0-1,0-0,Villarreal
+Sat Feb 9 2008,Sevilla,1-1,1-0,Barcelona
+Sun Feb 10 2008,Ath Bilbao,1-0,0-0,Levante
+Sun Feb 10 2008,Espanol,1-2,1-2,Recreativo
+Sun Feb 10 2008,Mallorca,0-0,0-0,Almeria
+Sun Feb 10 2008,Osasuna,1-0,1-0,Zaragoza
+Sun Feb 10 2008,Real Madrid,7-0,5-0,Valladolid
+Sun Feb 10 2008,Santander,0-2,0-0,Ath Madrid
+Sun Feb 10 2008,Valencia,3-1,2-0,Betis
+Sat Feb 16 2008,Betis,2-1,2-1,Real Madrid
+Sat Feb 16 2008,Espanol,2-4,1-2,Sevilla
+Sat Feb 16 2008,Zaragoza,1-2,0-1,Barcelona
+Sun Feb 17 2008,Almeria,1-0,1-0,Murcia
+Sun Feb 17 2008,Ath Madrid,1-2,1-2,Ath Bilbao
+Sun Feb 17 2008,Getafe,0-0,0-0,Valencia
+Sun Feb 17 2008,Levante,2-1,0-1,Osasuna
+Sun Feb 17 2008,Recreativo,3-2,0-1,La Coruna
+Sun Feb 17 2008,Valladolid,1-1,1-0,Mallorca
+Sun Feb 17 2008,Villarreal,0-0,0-0,Santander
+Sat Feb 23 2008,Sevilla,5-0,3-0,Zaragoza
+Sat Feb 23 2008,Valencia,1-1,1-0,Recreativo
+Sun Feb 24 2008,Ath Bilbao,1-2,1-0,Villarreal
+Sun Feb 24 2008,Barcelona,5-1,2-1,Levante
+Sun Feb 24 2008,La Coruna,2-0,2-0,Espanol
+Sun Feb 24 2008,Mallorca,1-1,0-0,Betis
+Sun Feb 24 2008,Murcia,0-1,0-1,Valladolid
+Sun Feb 24 2008,Osasuna,3-1,2-1,Ath Madrid
+Sun Feb 24 2008,Real Madrid,0-1,0-0,Getafe
+Sun Feb 24 2008,Santander,1-0,0-0,Almeria
+Sat Mar 1 2008,Ath Madrid,4-2,2-1,Barcelona
+Sat Mar 1 2008,Espanol,2-0,1-0,Valencia
+Sat Mar 1 2008,La Coruna,2-1,1-1,Sevilla
+Sat Mar 1 2008,Recreativo,2-3,1-1,Real Madrid
+Sun Mar 2 2008,Almeria,1-1,0-0,Ath Bilbao
+Sun Mar 2 2008,Betis,4-0,2-0,Murcia
+Sun Mar 2 2008,Getafe,3-3,2-1,Mallorca
+Sun Mar 2 2008,Levante,2-1,1-0,Zaragoza
+Sun Mar 2 2008,Valladolid,0-1,0-0,Santander
+Sun Mar 2 2008,Villarreal,0-0,0-0,Osasuna
+Sat Mar 8 2008,Real Madrid,2-1,1-1,Espanol
+Sat Mar 8 2008,Zaragoza,2-1,1-1,Ath Madrid
+Sun Mar 9 2008,Ath Bilbao,2-0,1-0,Valladolid
+Sun Mar 9 2008,Barcelona,1-2,0-1,Villarreal
+Sun Mar 9 2008,Mallorca,7-1,5-1,Recreativo
+Sun Mar 9 2008,Murcia,0-3,0-0,Getafe
+Sun Mar 9 2008,Osasuna,2-1,2-1,Almeria
+Sun Mar 9 2008,Santander,3-0,0-0,Betis
+Sun Mar 9 2008,Sevilla,2-1,1-1,Levante
+Sun Mar 9 2008,Valencia,2-2,2-2,La Coruna
+Sat Mar 15 2008,Betis,1-2,1-1,Ath Bilbao
+Sat Mar 15 2008,La Coruna,1-0,0-0,Real Madrid
+Sat Mar 15 2008,Recreativo,4-2,1-1,Murcia
+Sat Mar 15 2008,Valencia,1-2,0-2,Sevilla
+Sun Mar 16 2008,Almeria,2-2,1-1,Barcelona
+Sun Mar 16 2008,Ath Madrid,3-0,2-0,Levante
+Sun Mar 16 2008,Espanol,2-1,0-1,Mallorca
+Sun Mar 16 2008,Getafe,2-1,0-0,Santander
+Sun Mar 16 2008,Valladolid,0-0,0-0,Osasuna
+Sun Mar 16 2008,Villarreal,2-0,1-0,Zaragoza
+Sat Mar 22 2008,Mallorca,1-0,1-0,La Coruna
+Sat Mar 22 2008,Sevilla,1-2,0-1,Ath Madrid
+Sun Mar 23 2008,Ath Bilbao,1-0,1-0,Getafe
+Sun Mar 23 2008,Barcelona,4-1,1-1,Valladolid
+Sun Mar 23 2008,Levante,1-2,0-1,Villarreal
+Sun Mar 23 2008,Murcia,4-0,1-0,Espanol
+Sun Mar 23 2008,Osasuna,0-1,0-0,Betis
+Sun Mar 23 2008,Real Madrid,2-3,1-1,Valencia
+Sun Mar 23 2008,Santander,2-0,0-0,Recreativo
+Sun Mar 23 2008,Zaragoza,1-1,0-0,Almeria
+Sat Mar 29 2008,Betis,3-2,0-2,Barcelona
+Sat Mar 29 2008,Villarreal,3-0,2-0,Ath Madrid
+Sun Mar 30 2008,Almeria,2-1,2-0,Levante
+Sun Mar 30 2008,Espanol,0-3,0-2,Santander
+Sun Mar 30 2008,Getafe,0-2,0-1,Osasuna
+Sun Mar 30 2008,La Coruna,3-1,1-1,Murcia
+Sun Mar 30 2008,Real Madrid,3-1,2-1,Sevilla
+Sun Mar 30 2008,Recreativo,1-1,1-0,Ath Bilbao
+Sun Mar 30 2008,Valencia,0-3,0-2,Mallorca
+Sun Mar 30 2008,Valladolid,2-1,0-1,Zaragoza
+Sat Apr 5 2008,Mallorca,1-1,0-1,Real Madrid
+Sat Apr 5 2008,Osasuna,0-1,0-1,Recreativo
+Sun Apr 6 2008,Ath Bilbao,1-0,1-0,Espanol
+Sun Apr 6 2008,Ath Madrid,6-3,4-3,Almeria
+Sun Apr 6 2008,Barcelona,0-0,0-0,Getafe
+Sun Apr 6 2008,Levante,0-3,0-1,Valladolid
+Sun Apr 6 2008,Murcia,1-0,1-0,Valencia
+Sun Apr 6 2008,Santander,1-3,1-3,La Coruna
+Sun Apr 6 2008,Sevilla,2-0,1-0,Villarreal
+Sun Apr 6 2008,Zaragoza,0-3,0-2,Betis
+Sat Apr 12 2008,Recreativo,2-2,1-1,Barcelona
+Sat Apr 12 2008,Valencia,1-2,0-0,Santander
+Sun Apr 13 2008,Almeria,1-0,0-0,Villarreal
+Sun Apr 13 2008,Betis,0-1,0-0,Levante
+Sun Apr 13 2008,Espanol,0-1,0-1,Osasuna
+Sun Apr 13 2008,Getafe,0-0,0-0,Zaragoza
+Sun Apr 13 2008,La Coruna,3-0,1-0,Ath Bilbao
+Sun Apr 13 2008,Mallorca,2-3,0-1,Sevilla
+Sun Apr 13 2008,Real Madrid,1-0,0-0,Murcia
+Sun Apr 13 2008,Valladolid,1-1,0-0,Ath Madrid
+Sat Apr 19 2008,Ath Madrid,1-3,1-1,Betis
+Sat Apr 19 2008,Barcelona,0-0,0-0,Espanol
+Sat Apr 19 2008,Sevilla,1-4,0-1,Almeria
+Sat Apr 19 2008,Zaragoza,3-0,2-0,Recreativo
+Sun Apr 20 2008,Ath Bilbao,5-1,1-0,Valencia
+Sun Apr 20 2008,Levante,3-1,2-0,Getafe
+Sun Apr 20 2008,Murcia,1-4,0-2,Mallorca
+Sun Apr 20 2008,Osasuna,0-1,0-0,La Coruna
+Sun Apr 20 2008,Santander,0-2,0-1,Real Madrid
+Sun Apr 20 2008,Villarreal,2-0,1-0,Valladolid
+Sat Apr 26 2008,La Coruna,2-0,0-0,Barcelona
+Sat Apr 26 2008,Murcia,0-0,0-0,Sevilla
+Sun Apr 27 2008,Betis,0-1,0-1,Villarreal
+Sun Apr 27 2008,Espanol,1-1,0-0,Zaragoza
+Sun Apr 27 2008,Getafe,1-1,1-1,Ath Madrid
+Sun Apr 27 2008,Mallorca,3-1,0-0,Santander
+Sun Apr 27 2008,Real Madrid,3-0,1-0,Ath Bilbao
+Sun Apr 27 2008,Recreativo,2-0,2-0,Levante
+Sun Apr 27 2008,Valencia,3-0,1-0,Osasuna
+Sun Apr 27 2008,Valladolid,1-0,0-0,Almeria
+Sat May 3 2008,Ath Madrid,3-0,1-0,Recreativo
+Sat May 3 2008,Zaragoza,1-0,0-0,La Coruna
+Sun May 4 2008,Almeria,1-1,0-1,Betis
+Sun May 4 2008,Ath Bilbao,1-2,1-1,Mallorca
+Sun May 4 2008,Barcelona,6-0,3-0,Valencia
+Sun May 4 2008,Levante,1-1,0-0,Espanol
+Sun May 4 2008,Osasuna,1-2,0-0,Real Madrid
+Sun May 4 2008,Santander,3-2,1-2,Murcia
+Sun May 4 2008,Sevilla,2-0,2-0,Valladolid
+Sun May 4 2008,Villarreal,2-0,2-0,Getafe
+Wed May 7 2008,Betis,1-1,0-0,Valladolid
+Wed May 7 2008,Getafe,4-2,1-2,Almeria
+Wed May 7 2008,La Coruna,1-0,0-0,Levante
+Wed May 7 2008,Mallorca,2-1,1-0,Osasuna
+Wed May 7 2008,Murcia,1-2,1-1,Ath Bilbao
+Wed May 7 2008,Real Madrid,4-1,2-0,Barcelona
+Wed May 7 2008,Recreativo,0-2,0-0,Villarreal
+Wed May 7 2008,Santander,0-3,0-1,Sevilla
+Wed May 7 2008,Valencia,1-0,1-0,Zaragoza
+Thu May 8 2008,Espanol,0-2,0-2,Ath Madrid
+Sun May 11 2008,Almeria,0-2,0-2,Recreativo
+Sun May 11 2008,Ath Bilbao,0-0,0-0,Santander
+Sun May 11 2008,Ath Madrid,1-0,1-0,La Coruna
+Sun May 11 2008,Barcelona,2-3,1-0,Mallorca
+Sun May 11 2008,Betis,0-2,0-1,Sevilla
+Sun May 11 2008,Levante,1-5,1-3,Valencia
+Sun May 11 2008,Osasuna,2-1,1-0,Murcia
+Sun May 11 2008,Valladolid,0-0,0-0,Getafe
+Sun May 11 2008,Villarreal,2-0,2-0,Espanol
+Sun May 11 2008,Zaragoza,2-2,1-1,Real Madrid
+Sat May 17 2008,Murcia,3-5,1-3,Barcelona
+Sun May 18 2008,Espanol,1-3,0-1,Almeria
+Sun May 18 2008,Getafe,1-1,1-0,Betis
+Sun May 18 2008,La Coruna,0-2,0-1,Villarreal
+Sun May 18 2008,Mallorca,3-2,1-0,Zaragoza
+Sun May 18 2008,Real Madrid,5-2,3-0,Levante
+Sun May 18 2008,Recreativo,1-1,0-1,Valladolid
+Sun May 18 2008,Santander,1-0,0-0,Osasuna
+Sun May 18 2008,Sevilla,4-1,1-1,Ath Bilbao
+Sun May 18 2008,Valencia,3-1,2-0,Ath Madrid

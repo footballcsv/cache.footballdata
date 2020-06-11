@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 17 2018,Betis,0-3,0-1,Levante
+Fri Aug 17 2018,Girona,0-0,0-0,Valladolid
+Sat Aug 18 2018,Barcelona,3-0,0-0,Alaves
+Sat Aug 18 2018,Celta,1-1,0-1,Espanol
+Sat Aug 18 2018,Villarreal,1-2,1-1,Sociedad
+Sun Aug 19 2018,Eibar,1-2,0-2,Huesca
+Sun Aug 19 2018,Real Madrid,2-0,1-0,Getafe
+Sun Aug 19 2018,Vallecano,1-4,0-3,Sevilla
+Mon Aug 20 2018,Ath Bilbao,2-1,1-1,Leganes
+Mon Aug 20 2018,Valencia,1-1,0-1,Ath Madrid
+Fri Aug 24 2018,Getafe,2-0,1-0,Eibar
+Fri Aug 24 2018,Leganes,2-2,0-2,Sociedad
+Sat Aug 25 2018,Alaves,0-0,0-0,Betis
+Sat Aug 25 2018,Ath Madrid,1-0,0-0,Vallecano
+Sat Aug 25 2018,Valladolid,0-1,0-0,Barcelona
+Sun Aug 26 2018,Espanol,2-0,0-0,Valencia
+Sun Aug 26 2018,Girona,1-4,1-1,Real Madrid
+Sun Aug 26 2018,Sevilla,0-0,0-0,Villarreal
+Mon Aug 27 2018,Ath Bilbao,2-2,0-0,Huesca
+Mon Aug 27 2018,Levante,1-2,0-2,Celta
+Fri Aug 31 2018,Eibar,2-1,1-1,Sociedad
+Fri Aug 31 2018,Getafe,0-0,0-0,Valladolid
+Fri Aug 31 2018,Villarreal,0-1,0-0,Girona
+Sat Sep 1 2018,Celta,2-0,0-0,Ath Madrid
+Sat Sep 1 2018,Real Madrid,4-1,1-1,Leganes
+Sun Sep 2 2018,Alaves,2-1,0-1,Espanol
+Sun Sep 2 2018,Barcelona,8-2,3-2,Huesca
+Sun Sep 2 2018,Betis,1-0,0-0,Sevilla
+Sun Sep 2 2018,Levante,2-2,2-1,Valencia
+Fri Sep 14 2018,Huesca,0-1,0-1,Vallecano
+Sat Sep 15 2018,Ath Bilbao,1-1,1-0,Real Madrid
+Sat Sep 15 2018,Ath Madrid,1-1,0-0,Eibar
+Sat Sep 15 2018,Sociedad,1-2,1-0,Barcelona
+Sat Sep 15 2018,Valencia,0-0,0-0,Betis
+Sun Sep 16 2018,Espanol,1-0,0-0,Levante
+Sun Sep 16 2018,Leganes,0-1,0-0,Villarreal
+Sun Sep 16 2018,Sevilla,0-2,0-2,Getafe
+Sun Sep 16 2018,Valladolid,0-1,0-0,Alaves
+Mon Sep 17 2018,Girona,3-2,2-1,Celta
+Fri Sep 21 2018,Huesca,0-1,0-0,Sociedad
+Sat Sep 22 2018,Celta,3-3,2-1,Valladolid
+Sat Sep 22 2018,Eibar,1-0,0-0,Leganes
+Sat Sep 22 2018,Getafe,0-2,0-1,Ath Madrid
+Sat Sep 22 2018,Real Madrid,1-0,1-0,Espanol
+Sat Sep 22 2018,Vallecano,1-5,1-2,Alaves
+Sun Sep 23 2018,Barcelona,2-2,1-1,Girona
+Sun Sep 23 2018,Betis,2-2,0-2,Ath Bilbao
+Sun Sep 23 2018,Levante,2-6,1-4,Sevilla
+Sun Sep 23 2018,Villarreal,0-0,0-0,Valencia
+Tue Sep 25 2018,Ath Madrid,3-0,3-0,Huesca
+Tue Sep 25 2018,Espanol,1-0,0-0,Eibar
+Tue Sep 25 2018,Sociedad,2-2,1-2,Vallecano
+Wed Sep 26 2018,Ath Bilbao,0-3,0-0,Villarreal
+Wed Sep 26 2018,Leganes,2-1,0-1,Barcelona
+Wed Sep 26 2018,Sevilla,3-0,3-0,Real Madrid
+Wed Sep 26 2018,Valencia,1-1,1-0,Celta
+Thu Sep 27 2018,Alaves,1-1,0-0,Getafe
+Thu Sep 27 2018,Girona,0-1,0-0,Betis
+Thu Sep 27 2018,Valladolid,2-1,0-0,Levante
+Fri Sep 28 2018,Vallecano,2-2,1-2,Espanol
+Sat Sep 29 2018,Barcelona,1-1,0-1,Ath Bilbao
+Sat Sep 29 2018,Eibar,1-3,0-0,Sevilla
+Sat Sep 29 2018,Real Madrid,0-0,0-0,Ath Madrid
+Sat Sep 29 2018,Sociedad,0-1,0-1,Valencia
+Sun Sep 30 2018,Betis,1-0,0-0,Leganes
+Sun Sep 30 2018,Huesca,1-1,0-1,Girona
+Sun Sep 30 2018,Levante,2-1,2-1,Alaves
+Sun Sep 30 2018,Villarreal,0-1,0-0,Valladolid
+Mon Oct 1 2018,Celta,1-1,1-0,Getafe
+Fri Oct 5 2018,Ath Bilbao,1-3,1-1,Sociedad
+Sat Oct 6 2018,Alaves,1-0,0-0,Real Madrid
+Sat Oct 6 2018,Getafe,0-1,0-0,Levante
+Sat Oct 6 2018,Girona,2-3,2-2,Eibar
+Sat Oct 6 2018,Leganes,1-0,1-0,Vallecano
+Sun Oct 7 2018,Ath Madrid,1-0,0-0,Betis
+Sun Oct 7 2018,Espanol,3-1,1-1,Villarreal
+Sun Oct 7 2018,Sevilla,2-1,1-0,Celta
+Sun Oct 7 2018,Valencia,1-1,1-1,Barcelona
+Sun Oct 7 2018,Valladolid,1-0,1-0,Huesca
+Fri Oct 19 2018,Celta,0-1,0-0,Alaves
+Sat Oct 20 2018,Barcelona,4-2,2-0,Sevilla
+Sat Oct 20 2018,Real Madrid,1-2,0-2,Levante
+Sat Oct 20 2018,Valencia,1-1,0-0,Leganes
+Sat Oct 20 2018,Villarreal,1-1,0-0,Ath Madrid
+Sun Oct 21 2018,Betis,0-1,0-1,Valladolid
+Sun Oct 21 2018,Eibar,1-1,1-1,Ath Bilbao
+Sun Oct 21 2018,Huesca,0-2,0-1,Espanol
+Sun Oct 21 2018,Vallecano,1-2,0-0,Getafe
+Mon Oct 22 2018,Sociedad,0-0,0-0,Girona
+Wed Oct 24 2018,Vallecano,1-1,1-0,Ath Bilbao
+Fri Oct 26 2018,Valladolid,1-1,0-1,Espanol
+Sat Oct 27 2018,Ath Bilbao,0-0,0-0,Valencia
+Sat Oct 27 2018,Ath Madrid,2-0,1-0,Sociedad
+Sat Oct 27 2018,Celta,4-0,2-0,Eibar
+Sat Oct 27 2018,Girona,2-1,2-0,Vallecano
+Sat Oct 27 2018,Levante,2-0,1-0,Leganes
+Sun Oct 28 2018,Alaves,2-1,0-1,Villarreal
+Sun Oct 28 2018,Barcelona,5-1,2-0,Real Madrid
+Sun Oct 28 2018,Getafe,2-0,0-0,Betis
+Sun Oct 28 2018,Sevilla,2-1,0-0,Huesca
+Sat Nov 3 2018,Leganes,1-1,0-0,Ath Madrid
+Sat Nov 3 2018,Real Madrid,2-0,0-0,Valladolid
+Sat Nov 3 2018,Valencia,0-1,0-0,Girona
+Sat Nov 3 2018,Vallecano,2-3,1-1,Barcelona
+Sun Nov 4 2018,Betis,3-3,1-0,Celta
+Sun Nov 4 2018,Eibar,2-1,0-1,Alaves
+Sun Nov 4 2018,Huesca,1-1,0-0,Getafe
+Sun Nov 4 2018,Sociedad,0-0,0-0,Sevilla
+Sun Nov 4 2018,Villarreal,1-1,0-0,Levante
+Mon Nov 5 2018,Espanol,1-0,1-0,Ath Bilbao
+Fri Nov 9 2018,Levante,1-3,1-0,Sociedad
+Sat Nov 10 2018,Ath Madrid,3-2,0-1,Ath Bilbao
+Sat Nov 10 2018,Getafe,0-1,0-0,Valencia
+Sat Nov 10 2018,Girona,0-0,0-0,Leganes
+Sat Nov 10 2018,Valladolid,0-0,0-0,Eibar
+Sun Nov 11 2018,Alaves,2-1,1-1,Huesca
+Sun Nov 11 2018,Barcelona,3-4,0-2,Betis
+Sun Nov 11 2018,Celta,2-4,0-1,Real Madrid
+Sun Nov 11 2018,Sevilla,2-1,0-1,Espanol
+Sun Nov 11 2018,Vallecano,2-2,1-1,Villarreal
+Fri Nov 23 2018,Leganes,1-0,1-0,Alaves
+Sat Nov 24 2018,Ath Madrid,1-1,0-0,Barcelona
+Sat Nov 24 2018,Eibar,3-0,1-0,Real Madrid
+Sat Nov 24 2018,Huesca,2-2,1-1,Levante
+Sat Nov 24 2018,Valencia,3-0,1-0,Vallecano
+Sun Nov 25 2018,Ath Bilbao,1-1,0-0,Getafe
+Sun Nov 25 2018,Espanol,1-3,0-2,Girona
+Sun Nov 25 2018,Sevilla,1-0,1-0,Valladolid
+Sun Nov 25 2018,Villarreal,2-1,0-0,Betis
+Mon Nov 26 2018,Sociedad,2-1,1-0,Celta
+Fri Nov 30 2018,Vallecano,1-0,0-0,Eibar
+Sat Dec 1 2018,Celta,2-0,1-0,Huesca
+Sat Dec 1 2018,Getafe,3-0,0-0,Espanol
+Sat Dec 1 2018,Real Madrid,2-0,1-0,Valencia
+Sat Dec 1 2018,Valladolid,2-4,0-2,Leganes
+Sun Dec 2 2018,Alaves,1-1,1-0,Sevilla
+Sun Dec 2 2018,Barcelona,2-0,1-0,Villarreal
+Sun Dec 2 2018,Betis,1-0,1-0,Sociedad
+Sun Dec 2 2018,Girona,1-1,1-0,Ath Madrid
+Mon Dec 3 2018,Levante,3-0,1-0,Ath Bilbao
+Fri Dec 7 2018,Leganes,1-1,0-1,Getafe
+Sat Dec 8 2018,Ath Madrid,3-0,1-0,Alaves
+Sat Dec 8 2018,Espanol,0-4,0-3,Barcelona
+Sat Dec 8 2018,Valencia,1-1,0-0,Sevilla
+Sat Dec 8 2018,Villarreal,2-3,0-1,Celta
+Sun Dec 9 2018,Betis,2-0,0-0,Vallecano
+Sun Dec 9 2018,Eibar,4-4,1-2,Levante
+Sun Dec 9 2018,Huesca,0-1,0-1,Real Madrid
+Sun Dec 9 2018,Sociedad,1-2,0-1,Valladolid
+Mon Dec 10 2018,Ath Bilbao,1-0,0-0,Girona
+Fri Dec 14 2018,Celta,0-0,0-0,Leganes
+Sat Dec 15 2018,Eibar,1-1,0-1,Valencia
+Sat Dec 15 2018,Getafe,1-0,1-0,Sociedad
+Sat Dec 15 2018,Real Madrid,1-0,1-0,Vallecano
+Sat Dec 15 2018,Valladolid,2-3,0-2,Ath Madrid
+Sun Dec 16 2018,Espanol,1-3,1-1,Betis
+Sun Dec 16 2018,Huesca,2-2,1-0,Villarreal
+Sun Dec 16 2018,Levante,0-5,0-2,Barcelona
+Sun Dec 16 2018,Sevilla,2-0,0-0,Girona
+Mon Dec 17 2018,Alaves,0-0,0-0,Ath Bilbao
+Fri Dec 21 2018,Girona,1-1,0-0,Getafe
+Fri Dec 21 2018,Sociedad,0-1,0-1,Alaves
+Sat Dec 22 2018,Ath Bilbao,1-1,1-0,Valladolid
+Sat Dec 22 2018,Ath Madrid,1-0,0-0,Espanol
+Sat Dec 22 2018,Barcelona,2-0,2-0,Celta
+Sat Dec 22 2018,Betis,1-1,1-0,Eibar
+Sun Dec 23 2018,Leganes,1-1,1-0,Sevilla
+Sun Dec 23 2018,Valencia,2-1,1-0,Huesca
+Sun Dec 23 2018,Vallecano,2-1,1-0,Levante
+Thu Jan 3 2019,Villarreal,2-2,1-2,Real Madrid
+Fri Jan 4 2019,Espanol,1-0,1-0,Leganes
+Fri Jan 4 2019,Levante,2-2,0-1,Girona
+Sat Jan 5 2019,Alaves,2-1,2-1,Valencia
+Sat Jan 5 2019,Huesca,2-1,0-0,Betis
+Sat Jan 5 2019,Valladolid,0-1,0-1,Vallecano
+Sun Jan 6 2019,Eibar,0-0,0-0,Villarreal
+Sun Jan 6 2019,Getafe,1-2,1-2,Barcelona
+Sun Jan 6 2019,Real Madrid,0-2,0-1,Sociedad
+Sun Jan 6 2019,Sevilla,1-1,1-1,Ath Madrid
+Mon Jan 7 2019,Celta,1-2,1-1,Ath Bilbao
+Fri Jan 11 2019,Vallecano,4-2,2-2,Celta
+Sat Jan 12 2019,Girona,1-1,1-0,Alaves
+Sat Jan 12 2019,Leganes,1-0,0-0,Huesca
+Sat Jan 12 2019,Valencia,1-1,0-0,Valladolid
+Sat Jan 12 2019,Villarreal,1-2,0-0,Getafe
+Sun Jan 13 2019,Ath Bilbao,2-0,1-0,Sevilla
+Sun Jan 13 2019,Ath Madrid,1-0,0-0,Levante
+Sun Jan 13 2019,Barcelona,3-0,1-0,Eibar
+Sun Jan 13 2019,Betis,1-2,0-1,Real Madrid
+Mon Jan 14 2019,Sociedad,3-2,2-2,Espanol
+Fri Jan 18 2019,Getafe,4-0,1-0,Alaves
+Sat Jan 19 2019,Celta,1-2,1-0,Valencia
+Sat Jan 19 2019,Huesca,0-3,0-1,Ath Madrid
+Sat Jan 19 2019,Real Madrid,2-0,0-0,Sevilla
+Sun Jan 20 2019,Barcelona,3-1,1-0,Leganes
+Sun Jan 20 2019,Betis,3-2,1-2,Girona
+Sun Jan 20 2019,Levante,2-0,1-0,Valladolid
+Sun Jan 20 2019,Vallecano,2-2,2-1,Sociedad
+Sun Jan 20 2019,Villarreal,1-1,0-1,Ath Bilbao
+Mon Jan 21 2019,Eibar,3-0,1-0,Espanol
+Sat Jan 26 2019,Ath Madrid,2-0,2-0,Getafe
+Sat Jan 26 2019,Leganes,2-2,0-2,Eibar
+Sat Jan 26 2019,Sevilla,5-0,0-0,Levante
+Sat Jan 26 2019,Valencia,3-0,1-0,Villarreal
+Sun Jan 27 2019,Ath Bilbao,1-0,1-0,Betis
+Sun Jan 27 2019,Espanol,2-4,1-3,Real Madrid
+Sun Jan 27 2019,Girona,0-2,0-1,Barcelona
+Sun Jan 27 2019,Sociedad,0-0,0-0,Huesca
+Sun Jan 27 2019,Valladolid,2-1,0-1,Celta
+Mon Jan 28 2019,Alaves,0-1,0-0,Vallecano
+Fri Feb 1 2019,Huesca,4-0,1-0,Valladolid
+Sat Feb 2 2019,Barcelona,2-2,1-2,Valencia
+Sat Feb 2 2019,Celta,1-0,0-0,Sevilla
+Sat Feb 2 2019,Levante,0-0,0-0,Getafe
+Sat Feb 2 2019,Sociedad,2-1,2-0,Ath Bilbao
+Sun Feb 3 2019,Betis,1-0,0-0,Ath Madrid
+Sun Feb 3 2019,Eibar,3-0,1-0,Girona
+Sun Feb 3 2019,Real Madrid,3-0,1-0,Alaves
+Sun Feb 3 2019,Villarreal,2-2,1-0,Espanol
+Mon Feb 4 2019,Vallecano,1-2,0-1,Leganes
+Fri Feb 8 2019,Valladolid,0-0,0-0,Villarreal
+Sat Feb 9 2019,Ath Madrid,1-3,1-2,Real Madrid
+Sat Feb 9 2019,Espanol,2-1,0-1,Vallecano
+Sat Feb 9 2019,Getafe,3-1,1-1,Celta
+Sat Feb 9 2019,Girona,0-2,0-2,Huesca
+Sun Feb 10 2019,Ath Bilbao,0-0,0-0,Barcelona
+Sun Feb 10 2019,Leganes,3-0,2-0,Betis
+Sun Feb 10 2019,Sevilla,2-2,0-1,Eibar
+Sun Feb 10 2019,Valencia,0-0,0-0,Sociedad
+Mon Feb 11 2019,Alaves,2-0,1-0,Levante
+Fri Feb 15 2019,Eibar,2-2,0-1,Getafe
+Sat Feb 16 2019,Barcelona,1-0,1-0,Valladolid
+Sat Feb 16 2019,Celta,1-4,0-2,Levante
+Sat Feb 16 2019,Sociedad,3-0,0-0,Leganes
+Sat Feb 16 2019,Vallecano,0-1,0-0,Ath Madrid
+Sun Feb 17 2019,Betis,1-1,1-1,Alaves
+Sun Feb 17 2019,Real Madrid,1-2,1-0,Girona
+Sun Feb 17 2019,Valencia,0-0,0-0,Espanol
+Sun Feb 17 2019,Villarreal,3-0,2-0,Sevilla
+Mon Feb 18 2019,Huesca,0-1,0-1,Ath Bilbao
+Fri Feb 22 2019,Espanol,1-1,1-0,Huesca
+Sat Feb 23 2019,Alaves,0-0,0-0,Celta
+Sat Feb 23 2019,Ath Bilbao,1-0,1-0,Eibar
+Sat Feb 23 2019,Getafe,2-1,1-0,Vallecano
+Sat Feb 23 2019,Sevilla,2-4,2-1,Barcelona
+Sun Feb 24 2019,Ath Madrid,2-0,1-0,Villarreal
+Sun Feb 24 2019,Leganes,1-1,0-1,Valencia
+Sun Feb 24 2019,Levante,1-2,0-1,Real Madrid
+Sun Feb 24 2019,Valladolid,0-2,0-1,Betis
+Mon Feb 25 2019,Girona,0-0,0-0,Sociedad
+Fri Mar 1 2019,Vallecano,0-2,0-1,Girona
+Sat Mar 2 2019,Espanol,3-1,1-1,Valladolid
+Sat Mar 2 2019,Huesca,2-1,1-0,Sevilla
+Sat Mar 2 2019,Real Madrid,0-1,0-1,Barcelona
+Sat Mar 2 2019,Villarreal,1-2,0-0,Alaves
+Sun Mar 3 2019,Betis,1-2,0-2,Getafe
+Sun Mar 3 2019,Eibar,1-0,0-0,Celta
+Sun Mar 3 2019,Sociedad,0-2,0-2,Ath Madrid
+Sun Mar 3 2019,Valencia,2-0,0-0,Ath Bilbao
+Mon Mar 4 2019,Leganes,1-0,1-0,Levante
+Fri Mar 8 2019,Ath Bilbao,1-1,0-1,Espanol
+Sat Mar 9 2019,Alaves,1-1,0-0,Eibar
+Sat Mar 9 2019,Ath Madrid,1-0,0-0,Leganes
+Sat Mar 9 2019,Barcelona,3-1,1-1,Vallecano
+Sat Mar 9 2019,Getafe,2-1,0-1,Huesca
+Sun Mar 10 2019,Celta,0-1,0-0,Betis
+Sun Mar 10 2019,Girona,2-3,1-1,Valencia
+Sun Mar 10 2019,Levante,0-2,0-0,Villarreal
+Sun Mar 10 2019,Sevilla,5-2,1-1,Sociedad
+Sun Mar 10 2019,Valladolid,1-4,1-1,Real Madrid
+Fri Mar 15 2019,Sociedad,1-1,1-0,Levante
+Sat Mar 16 2019,Ath Bilbao,2-0,0-0,Ath Madrid
+Sat Mar 16 2019,Huesca,1-3,1-1,Alaves
+Sat Mar 16 2019,Leganes,0-2,0-2,Girona
+Sat Mar 16 2019,Real Madrid,2-0,0-0,Celta
+Sun Mar 17 2019,Betis,1-4,0-2,Barcelona
+Sun Mar 17 2019,Eibar,1-2,0-0,Valladolid
+Sun Mar 17 2019,Espanol,0-1,0-0,Sevilla
+Sun Mar 17 2019,Valencia,0-0,0-0,Getafe
+Sun Mar 17 2019,Villarreal,3-1,0-1,Vallecano
+Fri Mar 29 2019,Girona,1-2,1-0,Ath Bilbao
+Sat Mar 30 2019,Alaves,0-4,0-2,Ath Madrid
+Sat Mar 30 2019,Barcelona,2-0,0-0,Espanol
+Sat Mar 30 2019,Celta,3-2,0-2,Villarreal
+Sat Mar 30 2019,Getafe,0-2,0-0,Leganes
+Sun Mar 31 2019,Levante,2-2,2-1,Eibar
+Sun Mar 31 2019,Real Madrid,3-2,1-1,Huesca
+Sun Mar 31 2019,Sevilla,0-1,0-1,Valencia
+Sun Mar 31 2019,Valladolid,1-1,1-0,Sociedad
+Sun Mar 31 2019,Vallecano,1-1,1-0,Betis
+Tue Apr 2 2019,Ath Madrid,2-0,0-0,Girona
+Tue Apr 2 2019,Espanol,1-1,0-0,Getafe
+Tue Apr 2 2019,Villarreal,4-4,1-2,Barcelona
+Wed Apr 3 2019,Ath Bilbao,3-2,2-0,Levante
+Wed Apr 3 2019,Eibar,2-1,0-1,Vallecano
+Wed Apr 3 2019,Huesca,3-3,0-1,Celta
+Wed Apr 3 2019,Valencia,2-1,1-0,Real Madrid
+Thu Apr 4 2019,Leganes,1-0,0-0,Valladolid
+Thu Apr 4 2019,Sevilla,2-0,1-0,Alaves
+Thu Apr 4 2019,Sociedad,2-1,1-0,Betis
+Sat Apr 6 2019,Barcelona,2-0,0-0,Ath Madrid
+Sat Apr 6 2019,Girona,1-2,0-0,Espanol
+Sat Apr 6 2019,Real Madrid,2-1,0-1,Eibar
+Sat Apr 6 2019,Vallecano,2-0,1-0,Valencia
+Sun Apr 7 2019,Alaves,1-1,1-0,Leganes
+Sun Apr 7 2019,Betis,2-1,1-1,Villarreal
+Sun Apr 7 2019,Celta,3-1,0-1,Sociedad
+Sun Apr 7 2019,Getafe,1-0,0-0,Ath Bilbao
+Sun Apr 7 2019,Levante,2-2,1-0,Huesca
+Sun Apr 7 2019,Valladolid,0-2,0-0,Sevilla
+Sat Apr 13 2019,Ath Madrid,2-0,1-0,Celta
+Sat Apr 13 2019,Espanol,2-1,1-0,Alaves
+Sat Apr 13 2019,Huesca,0-0,0-0,Barcelona
+Sat Apr 13 2019,Sevilla,3-2,1-0,Betis
+Sun Apr 14 2019,Ath Bilbao,3-2,1-1,Vallecano
+Sun Apr 14 2019,Girona,0-1,0-1,Villarreal
+Sun Apr 14 2019,Sociedad,1-1,1-0,Eibar
+Sun Apr 14 2019,Valencia,3-1,1-0,Levante
+Sun Apr 14 2019,Valladolid,2-2,1-1,Getafe
+Mon Apr 15 2019,Leganes,1-1,1-0,Real Madrid
+Fri Apr 19 2019,Alaves,2-2,2-1,Valladolid
+Sat Apr 20 2019,Barcelona,2-1,1-0,Sociedad
+Sat Apr 20 2019,Celta,2-1,1-0,Girona
+Sat Apr 20 2019,Eibar,0-1,0-0,Ath Madrid
+Sat Apr 20 2019,Vallecano,0-0,0-0,Huesca
+Sun Apr 21 2019,Betis,1-2,0-1,Valencia
+Sun Apr 21 2019,Getafe,3-0,2-0,Sevilla
+Sun Apr 21 2019,Levante,2-2,0-1,Espanol
+Sun Apr 21 2019,Real Madrid,3-0,0-0,Ath Bilbao
+Sun Apr 21 2019,Villarreal,2-1,0-0,Leganes
+Tue Apr 23 2019,Alaves,0-2,0-0,Barcelona
+Tue Apr 23 2019,Huesca,2-0,0-0,Eibar
+Tue Apr 23 2019,Valladolid,1-0,0-0,Girona
+Wed Apr 24 2019,Ath Madrid,3-2,1-1,Valencia
+Wed Apr 24 2019,Espanol,1-1,1-0,Celta
+Wed Apr 24 2019,Leganes,0-1,0-1,Ath Bilbao
+Wed Apr 24 2019,Levante,4-0,2-0,Betis
+Thu Apr 25 2019,Getafe,0-0,0-0,Real Madrid
+Thu Apr 25 2019,Sevilla,5-0,0-0,Vallecano
+Thu Apr 25 2019,Sociedad,0-1,0-0,Villarreal
+Sat Apr 27 2019,Ath Bilbao,1-1,1-1,Alaves
+Sat Apr 27 2019,Ath Madrid,1-0,0-0,Valladolid
+Sat Apr 27 2019,Barcelona,1-0,0-0,Levante
+Sat Apr 27 2019,Leganes,0-0,0-0,Celta
+Sun Apr 28 2019,Girona,1-0,0-0,Sevilla
+Sun Apr 28 2019,Sociedad,2-1,1-0,Getafe
+Sun Apr 28 2019,Valencia,0-1,0-0,Eibar
+Sun Apr 28 2019,Vallecano,1-0,1-0,Real Madrid
+Sun Apr 28 2019,Villarreal,1-1,1-0,Huesca
+Mon Apr 29 2019,Betis,1-1,0-1,Espanol
+Fri May 3 2019,Sevilla,0-3,0-2,Leganes
+Sat May 4 2019,Alaves,0-1,0-1,Sociedad
+Sat May 4 2019,Celta,2-0,0-0,Barcelona
+Sat May 4 2019,Espanol,3-0,1-0,Ath Madrid
+Sat May 4 2019,Levante,4-1,2-0,Vallecano
+Sun May 5 2019,Eibar,1-0,1-0,Betis
+Sun May 5 2019,Getafe,2-0,1-0,Girona
+Sun May 5 2019,Huesca,2-6,0-5,Valencia
+Sun May 5 2019,Real Madrid,3-2,2-1,Villarreal
+Sun May 5 2019,Valladolid,1-0,1-0,Ath Bilbao
+Sun May 12 2019,Ath Bilbao,3-1,3-0,Celta
+Sun May 12 2019,Ath Madrid,1-1,1-0,Sevilla
+Sun May 12 2019,Barcelona,2-0,1-0,Getafe
+Sun May 12 2019,Betis,2-1,1-0,Huesca
+Sun May 12 2019,Girona,1-2,0-0,Levante
+Sun May 12 2019,Leganes,0-2,0-1,Espanol
+Sun May 12 2019,Sociedad,3-1,1-1,Real Madrid
+Sun May 12 2019,Valencia,3-1,2-1,Alaves
+Sun May 12 2019,Vallecano,1-2,0-1,Valladolid
+Sun May 12 2019,Villarreal,1-0,0-0,Eibar
+Sat May 18 2019,Alaves,2-1,1-0,Girona
+Sat May 18 2019,Celta,2-2,0-1,Vallecano
+Sat May 18 2019,Espanol,2-0,0-0,Sociedad
+Sat May 18 2019,Getafe,2-2,1-1,Villarreal
+Sat May 18 2019,Huesca,2-1,0-1,Leganes
+Sat May 18 2019,Levante,2-2,2-0,Ath Madrid
+Sat May 18 2019,Sevilla,2-0,1-0,Ath Bilbao
+Sat May 18 2019,Valladolid,0-2,0-1,Valencia
+Sun May 19 2019,Eibar,2-2,2-2,Barcelona
+Sun May 19 2019,Real Madrid,0-2,0-0,Betis

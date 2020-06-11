@@ -1,0 +1,379 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 25 2017,Tigre,0-3,?,Velez Sarsfield
+Fri Aug 25 2017,Banfield,2-1,?,Belgrano
+Sat Aug 26 2017,Defensa y Justicia,4-4,?,Gimnasia L.P.
+Sat Aug 26 2017,Colon Santa FE,1-1,?,Rosario Central
+Sat Aug 26 2017,Talleres Cordoba,5-2,?,Lanus
+Sat Aug 26 2017,Independiente,3-1,?,Huracan
+Sun Aug 27 2017,San Martin S.J.,2-0,?,Patronato
+Sun Aug 27 2017,Atl. Tucuman,2-1,?,Godoy Cruz
+Sun Aug 27 2017,San Lorenzo,1-1,?,Racing Club
+Sun Aug 27 2017,Boca Juniors,3-0,?,Olimpo Bahia Blanca
+Sun Aug 27 2017,Temperley,0-1,?,River Plate
+Mon Aug 28 2017,Newells Old Boys,1-1,?,Union de Santa Fe
+Mon Aug 28 2017,Estudiantes L.P.,2-1,?,Arsenal Sarandi
+Fri Sep 8 2017,Arsenal Sarandi,0-1,?,Colon Santa FE
+Fri Sep 8 2017,Velez Sarsfield,2-0,?,Atl. Tucuman
+Fri Sep 8 2017,Olimpo Bahia Blanca,1-1,?,Independiente
+Sat Sep 9 2017,Belgrano,1-0,?,San Martin S.J.
+Sat Sep 9 2017,Estudiantes L.P.,0-1,?,Defensa y Justicia
+Sat Sep 9 2017,Patronato,2-1,?,Argentinos Jrs
+Sat Sep 9 2017,Racing Club,4-1,?,Temperley
+Sun Sep 10 2017,Chacarita Juniors,1-1,?,Tigre
+Sun Sep 10 2017,Godoy Cruz,2-1,?,Talleres Cordoba
+Sun Sep 10 2017,Rosario Central,0-0,?,San Lorenzo
+Sun Sep 10 2017,River Plate,3-1,?,Banfield
+Sun Sep 10 2017,Lanus,0-1,?,Boca Juniors
+Mon Sep 11 2017,Union de Santa Fe,1-0,?,Gimnasia L.P.
+Mon Sep 11 2017,Huracan,1-0,?,Newells Old Boys
+Fri Sep 15 2017,Tigre,1-3,?,Patronato
+Fri Sep 15 2017,Colon Santa FE,0-0,?,Estudiantes L.P.
+Sat Sep 16 2017,Argentinos Jrs,1-2,?,Belgrano
+Sat Sep 16 2017,Defensa y Justicia,1-3,?,Union de Santa Fe
+Sat Sep 16 2017,Newells Old Boys,2-0,?,Olimpo Bahia Blanca
+Sat Sep 16 2017,San Lorenzo,1-0,?,Arsenal Sarandi
+Sat Sep 16 2017,Independiente,0-1,?,Lanus
+Sun Sep 17 2017,Talleres Cordoba,0-0,?,Velez Sarsfield
+Sun Sep 17 2017,Atl. Tucuman,1-1,?,Chacarita Juniors
+Sun Sep 17 2017,Banfield,1-0,?,Racing Club
+Sun Sep 17 2017,Boca Juniors,4-1,?,Godoy Cruz
+Sun Sep 17 2017,San Martin S.J.,1-3,?,River Plate
+Mon Sep 18 2017,Gimnasia L.P.,1-3,?,Huracan
+Mon Sep 18 2017,Temperley,1-1,?,Rosario Central
+Fri Sep 22 2017,Belgrano,0-0,?,Tigre
+Fri Sep 22 2017,Patronato,2-1,?,Atl. Tucuman
+Sat Sep 23 2017,Arsenal Sarandi,0-1,?,Temperley
+Sat Sep 23 2017,Huracan,0-0,?,Union de Santa Fe
+Sat Sep 23 2017,Chacarita Juniors,0-1,?,Talleres Cordoba
+Sat Sep 23 2017,Velez Sarsfield,0-4,?,Boca Juniors
+Sat Sep 23 2017,Godoy Cruz,1-0,?,Independiente
+Sun Sep 24 2017,Colon Santa FE,3-1,?,Defensa y Justicia
+Sun Sep 24 2017,Olimpo Bahia Blanca,0-1,?,Gimnasia L.P.
+Sun Sep 24 2017,Rosario Central,0-4,?,Banfield
+Sun Sep 24 2017,River Plate,1-1,?,Argentinos Jrs
+Sun Sep 24 2017,Racing Club,0-0,?,San Martin S.J.
+Mon Sep 25 2017,Lanus,1-0,?,Newells Old Boys
+Mon Sep 25 2017,Estudiantes L.P.,1-3,?,San Lorenzo
+Fri Sep 29 2017,Defensa y Justicia,0-0,?,Huracan
+Fri Sep 29 2017,Union de Santa Fe,2-0,?,Olimpo Bahia Blanca
+Fri Sep 29 2017,Atl. Tucuman,0-0,?,Belgrano
+Sat Sep 30 2017,San Lorenzo,0-0,?,Colon Santa FE
+Sat Sep 30 2017,Temperley,0-3,?,Estudiantes L.P.
+Sat Sep 30 2017,Gimnasia L.P.,1-3,?,Lanus
+Sat Sep 30 2017,Argentinos Jrs,2-0,?,Racing Club
+Sun Oct 1 2017,Talleres Cordoba,1-0,?,Patronato
+Sun Oct 1 2017,San Martin S.J.,3-1,?,Rosario Central
+Sun Oct 1 2017,Independiente,1-0,?,Velez Sarsfield
+Sun Oct 1 2017,Boca Juniors,1-0,?,Chacarita Juniors
+Sun Oct 1 2017,Tigre,1-1,?,River Plate
+Mon Oct 2 2017,Banfield,1-2,?,Arsenal Sarandi
+Mon Oct 2 2017,Newells Old Boys,0-0,?,Godoy Cruz
+Sun Oct 8 2017,Argentinos Jrs,1-0,?,Chacarita Juniors
+Fri Oct 13 2017,Lanus,2-1,?,Union de Santa Fe
+Fri Oct 13 2017,San Lorenzo,3-1,?,Defensa y Justicia
+Sat Oct 14 2017,Colon Santa FE,2-0,?,Temperley
+Sat Oct 14 2017,Rosario Central,1-3,?,Argentinos Jrs
+Sat Oct 14 2017,Estudiantes L.P.,1-1,?,Banfield
+Sat Oct 14 2017,Velez Sarsfield,1-0,?,Newells Old Boys
+Sat Oct 14 2017,Racing Club,1-0,?,Tigre
+Sun Oct 15 2017,Chacarita Juniors,1-2,?,Independiente
+Sun Oct 15 2017,Godoy Cruz,3-0,?,Gimnasia L.P.
+Sun Oct 15 2017,Belgrano,0-0,?,Talleres Cordoba
+Sun Oct 15 2017,River Plate,2-2,?,Atl. Tucuman
+Sun Oct 15 2017,Patronato,0-2,?,Boca Juniors
+Mon Oct 16 2017,Olimpo Bahia Blanca,0-2,?,Huracan
+Mon Oct 16 2017,Arsenal Sarandi,0-1,?,San Martin S.J.
+Fri Oct 27 2017,Banfield,1-1,?,Colon Santa FE
+Fri Oct 27 2017,Argentinos Jrs,3-2,?,Arsenal Sarandi
+Sat Oct 28 2017,Huracan,4-0,?,Lanus
+Sat Oct 28 2017,Union de Santa Fe,2-0,?,Godoy Cruz
+Sat Oct 28 2017,San Martin S.J.,1-0,?,Estudiantes L.P.
+Sat Oct 28 2017,Atl. Tucuman,3-1,?,Racing Club
+Sat Oct 28 2017,Talleres Cordoba,4-0,?,River Plate
+Sun Oct 29 2017,Newells Old Boys,2-1,?,Chacarita Juniors
+Sun Oct 29 2017,Gimnasia L.P.,4-0,?,Velez Sarsfield
+Sun Oct 29 2017,Temperley,0-2,?,San Lorenzo
+Sun Oct 29 2017,Boca Juniors,4-0,?,Belgrano
+Sun Oct 29 2017,Independiente,1-1,?,Patronato
+Mon Oct 30 2017,Defensa y Justicia,1-1,?,Olimpo Bahia Blanca
+Mon Oct 30 2017,Tigre,1-1,?,Rosario Central
+Fri Nov 3 2017,Chacarita Juniors,2-0,?,Gimnasia L.P.
+Fri Nov 3 2017,Godoy Cruz,2-1,?,Huracan
+Sat Nov 4 2017,Colon Santa FE,3-3,?,San Martin S.J.
+Sat Nov 4 2017,Lanus,0-2,?,Olimpo Bahia Blanca
+Sat Nov 4 2017,San Lorenzo,0-1,?,Banfield
+Sat Nov 4 2017,Rosario Central,0-1,?,Atl. Tucuman
+Sat Nov 4 2017,Racing Club,1-1,?,Talleres Cordoba
+Sun Nov 5 2017,Temperley,1-4,?,Defensa y Justicia
+Sun Nov 5 2017,Belgrano,0-0,?,Independiente
+Sun Nov 5 2017,Estudiantes L.P.,1-0,?,Argentinos Jrs
+Sun Nov 5 2017,River Plate,1-2,?,Boca Juniors
+Mon Nov 6 2017,Arsenal Sarandi,0-0,?,Tigre
+Mon Nov 6 2017,Patronato,0-0,?,Newells Old Boys
+Mon Nov 6 2017,Velez Sarsfield,0-2,?,Union de Santa Fe
+Fri Nov 17 2017,Argentinos Jrs,0-1,?,Colon Santa FE
+Fri Nov 17 2017,Atl. Tucuman,0-0,?,Arsenal Sarandi
+Fri Nov 17 2017,Newells Old Boys,0-1,?,Belgrano
+Sat Nov 18 2017,Banfield,0-0,?,Temperley
+Sat Nov 18 2017,Defensa y Justicia,3-0,?,Lanus
+Sat Nov 18 2017,San Martin S.J.,1-3,?,San Lorenzo
+Sat Nov 18 2017,Independiente,1-0,?,River Plate
+Sun Nov 19 2017,Tigre,2-0,?,Estudiantes L.P.
+Sun Nov 19 2017,Union de Santa Fe,0-0,?,Chacarita Juniors
+Sun Nov 19 2017,Boca Juniors,1-2,?,Racing Club
+Sun Nov 19 2017,Talleres Cordoba,0-1,?,Rosario Central
+Mon Nov 20 2017,Gimnasia L.P.,2-0,?,Patronato
+Mon Nov 20 2017,Olimpo Bahia Blanca,1-1,?,Godoy Cruz
+Mon Nov 20 2017,Huracan,1-0,?,Velez Sarsfield
+Wed Nov 22 2017,River Plate,2-0,?,Union de Santa Fe
+Thu Nov 23 2017,Velez Sarsfield,0-1,?,Godoy Cruz
+Fri Nov 24 2017,Banfield,0-1,?,Defensa y Justicia
+Fri Nov 24 2017,Chacarita Juniors,0-2,?,Huracan
+Fri Nov 24 2017,Colon Santa FE,3-1,?,Tigre
+Sat Nov 25 2017,Belgrano,2-0,?,Gimnasia L.P.
+Sat Nov 25 2017,Patronato,2-3,?,Union de Santa Fe
+Sat Nov 25 2017,San Lorenzo,1-0,?,Argentinos Jrs
+Sat Nov 25 2017,Racing Club,0-1,?,Independiente
+Sun Nov 26 2017,Estudiantes L.P.,1-0,?,Atl. Tucuman
+Sun Nov 26 2017,River Plate,1-3,?,Newells Old Boys
+Sun Nov 26 2017,Rosario Central,1-0,?,Boca Juniors
+Mon Nov 27 2017,Arsenal Sarandi,0-1,?,Talleres Cordoba
+Mon Nov 27 2017,Velez Sarsfield,3-0,?,Olimpo Bahia Blanca
+Mon Nov 27 2017,Temperley,1-0,?,San Martin S.J.
+Thu Nov 30 2017,San Lorenzo,2-0,?,Atl. Tucuman
+Fri Dec 1 2017,Union de Santa Fe,1-1,?,Belgrano
+Fri Dec 1 2017,Defensa y Justicia,3-2,?,Godoy Cruz
+Fri Dec 1 2017,Huracan,1-1,?,Patronato
+Sat Dec 2 2017,Argentinos Jrs,2-2,?,Temperley
+Sat Dec 2 2017,Olimpo Bahia Blanca,2-0,?,Chacarita Juniors
+Sat Dec 2 2017,Newells Old Boys,2-2,?,Racing Club
+Sun Dec 3 2017,Talleres Cordoba,0-1,?,Estudiantes L.P.
+Sun Dec 3 2017,Tigre,1-2,?,San Lorenzo
+Sun Dec 3 2017,Boca Juniors,2-0,?,Arsenal Sarandi
+Sun Dec 3 2017,Gimnasia L.P.,2-1,?,River Plate
+Mon Dec 4 2017,Lanus,0-0,?,Velez Sarsfield
+Mon Dec 4 2017,Atl. Tucuman,2-0,?,Colon Santa FE
+Mon Dec 4 2017,San Martin S.J.,2-1,?,Banfield
+Fri Dec 8 2017,Temperley,2-1,?,Tigre
+Fri Dec 8 2017,Patronato,1-0,?,Olimpo Bahia Blanca
+Fri Dec 8 2017,Belgrano,1-0,?,Huracan
+Sat Dec 9 2017,Banfield,2-3,?,Argentinos Jrs
+Sat Dec 9 2017,Arsenal Sarandi,1-2,?,Independiente
+Sun Dec 10 2017,Rosario Central,1-0,?,Newells Old Boys
+Sun Dec 10 2017,Colon Santa FE,0-2,?,Talleres Cordoba
+Sun Dec 10 2017,Racing Club,3-1,?,Gimnasia L.P.
+Sun Dec 10 2017,Estudiantes L.P.,0-1,?,Boca Juniors
+Mon Dec 11 2017,San Martin S.J.,1-0,?,Defensa y Justicia
+Mon Dec 11 2017,Chacarita Juniors,3-0,?,Lanus
+Wed Jan 24 2018,Independiente,1-1,?,Rosario Central
+Fri Jan 26 2018,Godoy Cruz,1-0,?,Chacarita Juniors
+Fri Jan 26 2018,Tigre,1-2,?,Banfield
+Fri Jan 26 2018,Talleres Cordoba,2-0,?,San Lorenzo
+Sat Jan 27 2018,Defensa y Justicia,0-1,?,Velez Sarsfield
+Sat Jan 27 2018,Newells Old Boys,2-1,?,Arsenal Sarandi
+Sat Jan 27 2018,Lanus,1-1,?,Patronato
+Sat Jan 27 2018,Boca Juniors,2-0,?,Colon Santa FE
+Sun Jan 28 2018,Argentinos Jrs,2-0,?,San Martin S.J.
+Sun Jan 28 2018,Olimpo Bahia Blanca,1-2,?,Belgrano
+Sun Jan 28 2018,Huracan,1-0,?,River Plate
+Sun Jan 28 2018,Union de Santa Fe,2-1,?,Racing Club
+Mon Jan 29 2018,Atl. Tucuman,3-0,?,Temperley
+Mon Jan 29 2018,Gimnasia L.P.,2-1,?,Rosario Central
+Mon Jan 29 2018,Independiente,1-2,?,Estudiantes L.P.
+Fri Feb 2 2018,Argentinos Jrs,2-1,?,Defensa y Justicia
+Fri Feb 2 2018,Patronato,0-0,?,Godoy Cruz
+Fri Feb 2 2018,Belgrano,0-0,?,Lanus
+Sat Feb 3 2018,Banfield,0-0,?,Atl. Tucuman
+Sat Feb 3 2018,Rosario Central,1-0,?,Union de Santa Fe
+Sat Feb 3 2018,Colon Santa FE,0-1,?,Independiente
+Sat Feb 3 2018,River Plate,2-0,?,Olimpo Bahia Blanca
+Sun Feb 4 2018,Arsenal Sarandi,0-0,?,Gimnasia L.P.
+Sun Feb 4 2018,Estudiantes L.P.,4-2,?,Newells Old Boys
+Sun Feb 4 2018,San Lorenzo,1-1,?,Boca Juniors
+Sun Feb 4 2018,Racing Club,4-0,?,Huracan
+Mon Feb 5 2018,Chacarita Juniors,2-0,?,Velez Sarsfield
+Mon Feb 5 2018,Temperley,0-1,?,Talleres Cordoba
+Mon Feb 5 2018,San Martin S.J.,0-0,?,Tigre
+Wed Feb 7 2018,Godoy Cruz,4-1,?,Lanus
+Fri Feb 9 2018,Defensa y Justicia,4-2,?,Chacarita Juniors
+Fri Feb 9 2018,Union de Santa Fe,0-0,?,Arsenal Sarandi
+Fri Feb 9 2018,Newells Old Boys,0-1,?,Colon Santa FE
+Sat Feb 10 2018,Gimnasia L.P.,0-0,?,Estudiantes L.P.
+Sat Feb 10 2018,Velez Sarsfield,0-2,?,Patronato
+Sat Feb 10 2018,Olimpo Bahia Blanca,1-2,?,Racing Club
+Sun Feb 11 2018,Godoy Cruz,2-1,?,Belgrano
+Sun Feb 11 2018,Talleres Cordoba,1-0,?,Banfield
+Sun Feb 11 2018,Boca Juniors,1-0,?,Temperley
+Sun Feb 11 2018,Lanus,1-0,?,River Plate
+Mon Feb 12 2018,Atl. Tucuman,2-1,?,San Martin S.J.
+Mon Feb 12 2018,Tigre,2-0,?,Argentinos Jrs
+Mon Feb 12 2018,Huracan,2-3,?,Rosario Central
+Fri Feb 16 2018,Estudiantes L.P.,2-0,?,Union de Santa Fe
+Fri Feb 16 2018,Racing Club,3-1,?,Lanus
+Fri Feb 16 2018,Belgrano,2-2,?,Velez Sarsfield
+Sat Feb 17 2018,Argentinos Jrs,2-2,?,Atl. Tucuman
+Sat Feb 17 2018,San Lorenzo,1-0,?,Newells Old Boys
+Sat Feb 17 2018,Temperley,0-0,?,Independiente
+Sat Feb 17 2018,Rosario Central,5-0,?,Olimpo Bahia Blanca
+Sun Feb 18 2018,Arsenal Sarandi,1-1,?,Huracan
+Sun Feb 18 2018,San Martin S.J.,1-1,?,Talleres Cordoba
+Sun Feb 18 2018,River Plate,2-2,?,Godoy Cruz
+Sun Feb 18 2018,Banfield,0-1,?,Boca Juniors
+Mon Feb 19 2018,Patronato,3-0,?,Chacarita Juniors
+Mon Feb 19 2018,Tigre,1-1,?,Defensa y Justicia
+Mon Feb 19 2018,Colon Santa FE,1-0,?,Gimnasia L.P.
+Fri Feb 23 2018,Huracan,1-0,?,Estudiantes L.P.
+Fri Feb 23 2018,Olimpo Bahia Blanca,2-1,?,Arsenal Sarandi
+Fri Feb 23 2018,Godoy Cruz,1-2,?,Racing Club
+Sat Feb 24 2018,Defensa y Justicia,1-0,?,Patronato
+Sat Feb 24 2018,Lanus,1-1,?,Rosario Central
+Sat Feb 24 2018,Velez Sarsfield,1-0,?,River Plate
+Sat Feb 24 2018,Atl. Tucuman,0-0,?,Tigre
+Sun Feb 25 2018,Chacarita Juniors,0-1,?,Belgrano
+Sun Feb 25 2018,Independiente,1-0,?,Banfield
+Sun Feb 25 2018,Boca Juniors,4-2,?,San Martin S.J.
+Sun Feb 25 2018,Union de Santa Fe,1-1,?,Colon Santa FE
+Mon Feb 26 2018,Newells Old Boys,0-0,?,Temperley
+Mon Feb 26 2018,Talleres Cordoba,2-0,?,Argentinos Jrs
+Mon Feb 26 2018,Gimnasia L.P.,1-0,?,San Lorenzo
+Fri Mar 2 2018,Arsenal Sarandi,2-1,?,Lanus
+Fri Mar 2 2018,Belgrano,2-2,?,Patronato
+Fri Mar 2 2018,Colon Santa FE,0-0,?,Huracan
+Sat Mar 3 2018,San Lorenzo,0-0,?,Union de Santa Fe
+Sat Mar 3 2018,Tigre,0-0,?,Talleres Cordoba
+Sat Mar 3 2018,Rosario Central,1-2,?,Godoy Cruz
+Sat Mar 3 2018,Temperley,1-1,?,Gimnasia L.P.
+Sun Mar 4 2018,Atl. Tucuman,0-1,?,Defensa y Justicia
+Sun Mar 4 2018,Banfield,1-0,?,Newells Old Boys
+Sun Mar 4 2018,River Plate,1-1,?,Chacarita Juniors
+Sun Mar 4 2018,Racing Club,2-1,?,Velez Sarsfield
+Mon Mar 5 2018,Estudiantes L.P.,1-0,?,Olimpo Bahia Blanca
+Mon Mar 5 2018,San Martin S.J.,0-4,?,Independiente
+Mon Mar 5 2018,Argentinos Jrs,2-0,?,Boca Juniors
+Fri Mar 9 2018,Gimnasia L.P.,0-2,?,Banfield
+Fri Mar 9 2018,Godoy Cruz,1-0,?,Arsenal Sarandi
+Fri Mar 9 2018,Talleres Cordoba,3-1,?,Atl. Tucuman
+Sat Mar 10 2018,Chacarita Juniors,1-1,?,Racing Club
+Sat Mar 10 2018,Olimpo Bahia Blanca,0-3,?,Colon Santa FE
+Sat Mar 10 2018,Boca Juniors,2-1,?,Tigre
+Sat Mar 10 2018,Patronato,0-1,?,River Plate
+Sun Mar 11 2018,Huracan,1-1,?,San Lorenzo
+Sun Mar 11 2018,Lanus,0-0,?,Estudiantes L.P.
+Sun Mar 11 2018,Velez Sarsfield,2-2,?,Rosario Central
+Sun Mar 11 2018,Independiente,2-1,?,Argentinos Jrs
+Mon Mar 12 2018,Defensa y Justicia,1-1,?,Belgrano
+Mon Mar 12 2018,Union de Santa Fe,3-0,?,Temperley
+Mon Mar 12 2018,Newells Old Boys,2-0,?,San Martin S.J.
+Fri Mar 16 2018,Rosario Central,3-1,?,Chacarita Juniors
+Fri Mar 16 2018,Colon Santa FE,1-2,?,Lanus
+Sat Mar 17 2018,Argentinos Jrs,1-0,?,Newells Old Boys
+Sat Mar 17 2018,Temperley,1-2,?,Huracan
+Sat Mar 17 2018,San Martin S.J.,3-0,?,Gimnasia L.P.
+Sat Mar 17 2018,San Lorenzo,2-0,?,Olimpo Bahia Blanca
+Sat Mar 17 2018,Talleres Cordoba,1-0,?,Defensa y Justicia
+Sun Mar 18 2018,Racing Club,5-0,?,Patronato
+Sun Mar 18 2018,Arsenal Sarandi,1-1,?,Velez Sarsfield
+Sun Mar 18 2018,Estudiantes L.P.,0-1,?,Godoy Cruz
+Sun Mar 18 2018,Atl. Tucuman,1-1,?,Boca Juniors
+Sun Mar 18 2018,River Plate,3-1,?,Belgrano
+Mon Mar 19 2018,Banfield,0-2,?,Union de Santa Fe
+Mon Mar 19 2018,Tigre,1-1,?,Independiente
+Fri Mar 30 2018,Huracan,1-1,?,Banfield
+Fri Mar 30 2018,Belgrano,2-2,?,Racing Club
+Sat Mar 31 2018,Newells Old Boys,2-1,?,Tigre
+Sat Mar 31 2018,Velez Sarsfield,3-3,?,Estudiantes L.P.
+Sat Mar 31 2018,Gimnasia L.P.,1-3,?,Argentinos Jrs
+Sat Mar 31 2018,Union de Santa Fe,1-1,?,San Martin S.J.
+Sat Mar 31 2018,Independiente,0-2,?,Atl. Tucuman
+Sun Apr 1 2018,Defensa y Justicia,1-3,?,River Plate
+Sun Apr 1 2018,Chacarita Juniors,2-2,?,Arsenal Sarandi
+Sun Apr 1 2018,Patronato,3-0,?,Rosario Central
+Sun Apr 1 2018,Boca Juniors,2-1,?,Talleres Cordoba
+Sun Apr 1 2018,Lanus,0-2,?,San Lorenzo
+Mon Apr 2 2018,Olimpo Bahia Blanca,1-1,?,Temperley
+Mon Apr 2 2018,Godoy Cruz,2-1,?,Colon Santa FE
+Wed Apr 4 2018,Independiente,0-1,?,San Lorenzo
+Fri Apr 6 2018,Tigre,2-0,?,Gimnasia L.P.
+Fri Apr 6 2018,Argentinos Jrs,3-1,?,Union de Santa Fe
+Sat Apr 7 2018,Rosario Central,2-1,?,Belgrano
+Sat Apr 7 2018,Temperley,2-2,?,Lanus
+Sat Apr 7 2018,Banfield,3-0,?,Olimpo Bahia Blanca
+Sat Apr 7 2018,Boca Juniors,1-2,?,Defensa y Justicia
+Sun Apr 8 2018,San Lorenzo,0-5,?,Godoy Cruz
+Sun Apr 8 2018,San Martin S.J.,0-1,?,Huracan
+Sun Apr 8 2018,Atl. Tucuman,1-1,?,Newells Old Boys
+Sun Apr 8 2018,Talleres Cordoba,0-2,?,Independiente
+Sun Apr 8 2018,Racing Club,0-2,?,River Plate
+Mon Apr 9 2018,Arsenal Sarandi,1-1,?,Patronato
+Mon Apr 9 2018,Estudiantes L.P.,0-2,?,Chacarita Juniors
+Fri Apr 13 2018,Gimnasia L.P.,1-2,?,Atl. Tucuman
+Fri Apr 13 2018,Huracan,1-0,?,Argentinos Jrs
+Sat Apr 14 2018,Godoy Cruz,3-0,?,Temperley
+Sat Apr 14 2018,Olimpo Bahia Blanca,0-2,?,San Martin S.J.
+Sat Apr 14 2018,Lanus,0-0,?,Banfield
+Sat Apr 14 2018,Belgrano,3-0,?,Arsenal Sarandi
+Sat Apr 14 2018,Defensa y Justicia,3-2,?,Racing Club
+Sun Apr 15 2018,Union de Santa Fe,3-3,?,Tigre
+Sun Apr 15 2018,Patronato,0-1,?,Estudiantes L.P.
+Sun Apr 15 2018,Chacarita Juniors,0-2,?,Colon Santa FE
+Sun Apr 15 2018,River Plate,2-0,?,Rosario Central
+Sun Apr 15 2018,Independiente,1-0,?,Boca Juniors
+Mon Apr 16 2018,Newells Old Boys,2-1,?,Talleres Cordoba
+Mon Apr 16 2018,Velez Sarsfield,2-2,?,San Lorenzo
+Fri Apr 20 2018,Argentinos Jrs,1-0,?,Olimpo Bahia Blanca
+Fri Apr 20 2018,Estudiantes L.P.,0-1,?,Belgrano
+Sat Apr 21 2018,San Martin S.J.,1-1,?,Lanus
+Sat Apr 21 2018,Temperley,2-4,?,Velez Sarsfield
+Sat Apr 21 2018,Talleres Cordoba,2-0,?,Gimnasia L.P.
+Sat Apr 21 2018,Banfield,1-1,?,Godoy Cruz
+Sat Apr 21 2018,San Lorenzo,1-0,?,Chacarita Juniors
+Sun Apr 22 2018,Tigre,0-2,?,Huracan
+Sun Apr 22 2018,Rosario Central,0-2,?,Racing Club
+Sun Apr 22 2018,Atl. Tucuman,0-0,?,Union de Santa Fe
+Sun Apr 22 2018,Arsenal Sarandi,0-3,?,River Plate
+Sun Apr 22 2018,Boca Juniors,3-1,?,Newells Old Boys
+Mon Apr 23 2018,Colon Santa FE,4-0,?,Patronato
+Mon Apr 23 2018,Independiente,0-1,?,Defensa y Justicia
+Fri Apr 27 2018,Chacarita Juniors,1-2,?,Temperley
+Fri Apr 27 2018,Godoy Cruz,2-0,?,San Martin S.J.
+Sat Apr 28 2018,Defensa y Justicia,3-1,?,Rosario Central
+Sat Apr 28 2018,Velez Sarsfield,1-0,?,Banfield
+Sat Apr 28 2018,Newells Old Boys,0-1,?,Independiente
+Sat Apr 28 2018,Lanus,0-0,?,Argentinos Jrs
+Sat Apr 28 2018,Huracan,3-2,?,Atl. Tucuman
+Sun Apr 29 2018,Patronato,0-0,?,San Lorenzo
+Sun Apr 29 2018,Belgrano,1-0,?,Colon Santa FE
+Mon Apr 30 2018,Union de Santa Fe,3-0,?,Talleres Cordoba
+Mon Apr 30 2018,Olimpo Bahia Blanca,1-5,?,Tigre
+Fri May 4 2018,San Martin S.J.,0-2,?,Velez Sarsfield
+Fri May 4 2018,San Lorenzo,2-0,?,Belgrano
+Sat May 5 2018,Argentinos Jrs,1-2,?,Godoy Cruz
+Sat May 5 2018,Arsenal Sarandi,4-0,?,Rosario Central
+Sat May 5 2018,Newells Old Boys,1-0,?,Defensa y Justicia
+Sat May 5 2018,Talleres Cordoba,0-0,?,Huracan
+Sat May 5 2018,Atl. Tucuman,1-1,?,Olimpo Bahia Blanca
+Sun May 6 2018,Temperley,1-2,?,Patronato
+Sun May 6 2018,Independiente,2-2,?,Gimnasia L.P.
+Sun May 6 2018,Tigre,0-0,?,Lanus
+Sun May 6 2018,Boca Juniors,2-0,?,Union de Santa Fe
+Sun May 6 2018,Estudiantes L.P.,1-2,?,Racing Club
+Mon May 7 2018,Banfield,2-1,?,Chacarita Juniors
+Mon May 7 2018,Colon Santa FE,0-0,?,River Plate
+Wed May 9 2018,Racing Club,2-0,?,Arsenal Sarandi
+Wed May 9 2018,Gimnasia L.P.,2-2,?,Boca Juniors
+Thu May 10 2018,Colon Santa FE,0-1,?,Velez Sarsfield
+Fri May 11 2018,River Plate,2-0,?,Estudiantes L.P.
+Fri May 11 2018,Chacarita Juniors,1-4,?,San Martin S.J.
+Fri May 11 2018,Lanus,0-0,?,Atl. Tucuman
+Sat May 12 2018,Huracan,3-3,?,Boca Juniors
+Sat May 12 2018,Patronato,0-0,?,Banfield
+Sat May 12 2018,Defensa y Justicia,2-0,?,Arsenal Sarandi
+Sat May 12 2018,Olimpo Bahia Blanca,2-2,?,Talleres Cordoba
+Sat May 12 2018,Union de Santa Fe,1-0,?,Independiente
+Sat May 12 2018,Belgrano,2-3,?,Temperley
+Sun May 13 2018,Godoy Cruz,2-0,?,Tigre
+Sun May 13 2018,Velez Sarsfield,1-1,?,Argentinos Jrs
+Mon May 14 2018,Racing Club,1-3,?,Colon Santa FE
+Mon May 14 2018,Rosario Central,1-1,?,Estudiantes L.P.
+Mon May 14 2018,Gimnasia L.P.,2-0,?,Newells Old Boys
+Mon May 14 2018,River Plate,2-0,?,San Lorenzo

@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Jul 31 1999,Ajaccio,0-1,0-1,Lorient
+Sat Jul 31 1999,Chateauroux,3-3,0-2,Valence
+Sat Jul 31 1999,Creteil,1-1,1-0,Niort
+Sat Jul 31 1999,Guingamp,2-3,2-0,Amiens
+Sat Jul 31 1999,Laval,0-1,0-1,Lille
+Sat Jul 31 1999,Louhans-Cuis.,0-1,0-0,Cannes
+Sat Jul 31 1999,Nice,1-1,0-0,Gueugnon
+Sat Jul 31 1999,Nimes,2-1,1-0,Sochaux
+Sat Jul 31 1999,Toulouse,0-1,0-1,Caen
+Sat Jul 31 1999,Wasquehal,1-2,0-1,Le Mans
+Thu Aug 5 1999,Lorient,1-1,1-0,Chateauroux
+Sat Aug 7 1999,Amiens,1-1,0-0,Laval
+Sat Aug 7 1999,Caen,0-0,0-0,Wasquehal
+Sat Aug 7 1999,Cannes,0-2,0-1,Toulouse
+Sat Aug 7 1999,Gueugnon,2-2,1-2,Ajaccio
+Sat Aug 7 1999,Guingamp,0-2,0-1,Creteil
+Sat Aug 7 1999,Le Mans,2-2,2-1,Niort
+Sat Aug 7 1999,Lille,1-0,0-0,Nimes
+Sat Aug 7 1999,Sochaux,2-1,1-1,Nice
+Sat Aug 7 1999,Valence,3-0,0-0,Louhans-Cuis.
+Fri Aug 13 1999,Ajaccio,0-2,0-0,Sochaux
+Fri Aug 13 1999,Chateauroux,0-1,0-0,Gueugnon
+Fri Aug 13 1999,Creteil,1-1,1-0,Le Mans
+Fri Aug 13 1999,Laval,0-2,0-0,Guingamp
+Fri Aug 13 1999,Louhans-Cuis.,0-1,0-1,Lorient
+Fri Aug 13 1999,Nimes,2-2,1-1,Amiens
+Fri Aug 13 1999,Niort,0-0,0-0,Caen
+Fri Aug 13 1999,Toulouse,2-0,1-0,Valence
+Fri Aug 13 1999,Wasquehal,0-2,0-1,Cannes
+Sat Aug 14 1999,Nice,0-0,0-0,Lille
+Tue Aug 17 1999,Amiens,4-1,2-1,Nice
+Tue Aug 17 1999,Caen,1-1,1-0,Le Mans
+Tue Aug 17 1999,Cannes,2-1,1-1,Niort
+Tue Aug 17 1999,Gueugnon,0-1,0-0,Louhans-Cuis.
+Tue Aug 17 1999,Guingamp,1-0,0-0,Nimes
+Tue Aug 17 1999,Laval,1-0,0-0,Creteil
+Tue Aug 17 1999,Lille,4-2,0-0,Ajaccio
+Tue Aug 17 1999,Lorient,1-1,1-0,Toulouse
+Tue Aug 17 1999,Sochaux,1-2,0-0,Chateauroux
+Tue Aug 17 1999,Valence,1-0,1-0,Wasquehal
+Fri Aug 20 1999,Nice,0-0,0-0,Guingamp
+Sat Aug 21 1999,Ajaccio,1-3,0-0,Amiens
+Sat Aug 21 1999,Chateauroux,2-3,0-0,Lille
+Sat Aug 21 1999,Creteil,2-1,2-1,Caen
+Sat Aug 21 1999,Le Mans,2-1,1-0,Cannes
+Sat Aug 21 1999,Louhans-Cuis.,2-2,1-2,Sochaux
+Sat Aug 21 1999,Nimes,0-0,0-0,Laval
+Sat Aug 21 1999,Niort,1-1,1-1,Valence
+Sat Aug 21 1999,Toulouse,2-0,1-0,Gueugnon
+Sat Aug 21 1999,Wasquehal,1-0,0-0,Lorient
+Fri Aug 27 1999,Amiens,1-0,0-0,Chateauroux
+Fri Aug 27 1999,Cannes,1-0,1-0,Caen
+Fri Aug 27 1999,Gueugnon,1-1,1-1,Wasquehal
+Fri Aug 27 1999,Guingamp,1-1,0-1,Ajaccio
+Fri Aug 27 1999,Laval,1-1,0-1,Nice
+Fri Aug 27 1999,Lille,1-0,0-0,Louhans-Cuis.
+Fri Aug 27 1999,Lorient,2-0,2-0,Niort
+Fri Aug 27 1999,Nimes,2-1,1-0,Creteil
+Fri Aug 27 1999,Valence,0-0,0-0,Le Mans
+Sat Aug 28 1999,Sochaux,0-2,0-2,Toulouse
+Fri Sep 3 1999,Ajaccio,1-0,0-0,Laval
+Fri Sep 3 1999,Caen,1-0,0-0,Valence
+Fri Sep 3 1999,Chateauroux,2-3,2-1,Guingamp
+Fri Sep 3 1999,Creteil,1-1,0-0,Cannes
+Fri Sep 3 1999,Le Mans,2-1,0-0,Lorient
+Fri Sep 3 1999,Louhans-Cuis.,0-0,0-0,Amiens
+Fri Sep 3 1999,Nice,1-1,0-1,Nimes
+Fri Sep 3 1999,Niort,1-0,1-0,Gueugnon
+Fri Sep 3 1999,Toulouse,0-2,0-1,Lille
+Fri Sep 3 1999,Wasquehal,0-0,0-0,Sochaux
+Tue Sep 7 1999,Amiens,1-1,1-1,Toulouse
+Tue Sep 7 1999,Gueugnon,2-1,1-0,Le Mans
+Tue Sep 7 1999,Guingamp,2-2,1-1,Louhans-Cuis.
+Tue Sep 7 1999,Laval,4-0,2-0,Chateauroux
+Tue Sep 7 1999,Lille,1-0,1-0,Wasquehal
+Tue Sep 7 1999,Lorient,1-2,1-2,Caen
+Tue Sep 7 1999,Nice,2-0,0-0,Creteil
+Tue Sep 7 1999,Nimes,1-0,0-0,Ajaccio
+Tue Sep 7 1999,Sochaux,1-0,1-0,Niort
+Tue Sep 7 1999,Valence,0-0,0-0,Cannes
+Sat Sep 11 1999,Ajaccio,1-0,0-0,Nice
+Sat Sep 11 1999,Caen,2-2,1-1,Gueugnon
+Sat Sep 11 1999,Cannes,1-0,1-0,Lorient
+Sat Sep 11 1999,Chateauroux,0-0,0-0,Nimes
+Sat Sep 11 1999,Creteil,2-1,1-1,Valence
+Sat Sep 11 1999,Le Mans,2-1,1-0,Sochaux
+Sat Sep 11 1999,Louhans-Cuis.,2-0,1-0,Laval
+Sat Sep 11 1999,Niort,0-3,0-0,Lille
+Sat Sep 11 1999,Toulouse,1-2,0-1,Guingamp
+Sat Sep 11 1999,Wasquehal,0-0,0-0,Amiens
+Sat Sep 18 1999,Ajaccio,2-0,1-0,Creteil
+Sat Sep 18 1999,Amiens,0-0,0-0,Niort
+Sat Sep 18 1999,Gueugnon,1-1,1-1,Cannes
+Sat Sep 18 1999,Guingamp,3-1,1-1,Wasquehal
+Sat Sep 18 1999,Lille,2-0,0-0,Le Mans
+Sat Sep 18 1999,Lorient,3-1,1-1,Valence
+Sat Sep 18 1999,Nice,0-0,0-0,Chateauroux
+Sat Sep 18 1999,Nimes,2-1,1-0,Louhans-Cuis.
+Sat Sep 18 1999,Sochaux,1-2,1-1,Caen
+Sun Sep 19 1999,Laval,0-3,0-1,Toulouse
+Fri Sep 24 1999,Caen,1-0,1-0,Lille
+Fri Sep 24 1999,Creteil,0-1,0-0,Lorient
+Sat Sep 25 1999,Cannes,1-3,1-0,Sochaux
+Sat Sep 25 1999,Chateauroux,1-0,0-0,Ajaccio
+Sat Sep 25 1999,Le Mans,1-1,1-1,Amiens
+Sat Sep 25 1999,Louhans-Cuis.,0-0,0-0,Nice
+Sat Sep 25 1999,Niort,3-3,2-2,Guingamp
+Sat Sep 25 1999,Toulouse,0-1,0-0,Nimes
+Sat Sep 25 1999,Wasquehal,1-1,0-0,Laval
+Sun Sep 26 1999,Valence,0-1,0-0,Gueugnon
+Fri Oct 1 1999,Ajaccio,3-0,0-0,Louhans-Cuis.
+Fri Oct 1 1999,Amiens,0-4,0-2,Caen
+Fri Oct 1 1999,Chateauroux,0-0,0-0,Creteil
+Fri Oct 1 1999,Gueugnon,3-0,2-0,Lorient
+Fri Oct 1 1999,Guingamp,3-1,2-1,Le Mans
+Fri Oct 1 1999,Laval,3-1,1-0,Niort
+Fri Oct 1 1999,Lille,2-0,2-0,Cannes
+Fri Oct 1 1999,Nice,2-0,0-0,Toulouse
+Fri Oct 1 1999,Nimes,1-2,1-1,Wasquehal
+Fri Oct 1 1999,Sochaux,2-0,0-0,Valence
+Thu Oct 7 1999,Lorient,0-0,0-0,Sochaux
+Fri Oct 8 1999,Caen,1-2,1-1,Guingamp
+Fri Oct 8 1999,Cannes,1-0,1-0,Amiens
+Fri Oct 8 1999,Creteil,1-4,1-2,Gueugnon
+Fri Oct 8 1999,Le Mans,0-0,0-0,Laval
+Fri Oct 8 1999,Louhans-Cuis.,1-3,0-1,Chateauroux
+Fri Oct 8 1999,Niort,0-1,0-1,Nimes
+Fri Oct 8 1999,Toulouse,4-1,0-0,Ajaccio
+Fri Oct 8 1999,Valence,2-2,1-1,Lille
+Fri Oct 8 1999,Wasquehal,2-2,0-2,Nice
+Thu Oct 14 1999,Chateauroux,0-3,0-1,Toulouse
+Sat Oct 16 1999,Ajaccio,2-1,0-0,Wasquehal
+Sat Oct 16 1999,Amiens,0-0,0-0,Valence
+Sat Oct 16 1999,Guingamp,2-1,0-0,Cannes
+Sat Oct 16 1999,Laval,1-1,1-1,Caen
+Sat Oct 16 1999,Lille,1-0,0-0,Lorient
+Sat Oct 16 1999,Louhans-Cuis.,1-2,0-1,Creteil
+Sat Oct 16 1999,Nice,0-0,0-0,Niort
+Sat Oct 16 1999,Nimes,1-2,0-1,Le Mans
+Sat Oct 16 1999,Sochaux,0-1,0-0,Gueugnon
+Sat Oct 23 1999,Caen,2-1,1-1,Nimes
+Sat Oct 23 1999,Cannes,0-0,0-0,Laval
+Sat Oct 23 1999,Creteil,0-0,0-0,Sochaux
+Sat Oct 23 1999,Gueugnon,0-1,0-1,Lille
+Sat Oct 23 1999,Le Mans,0-0,0-0,Nice
+Sat Oct 23 1999,Lorient,2-0,0-0,Amiens
+Sat Oct 23 1999,Niort,1-0,0-0,Ajaccio
+Sat Oct 23 1999,Toulouse,2-0,0-0,Louhans-Cuis.
+Sat Oct 23 1999,Valence,1-1,0-1,Guingamp
+Sat Oct 23 1999,Wasquehal,0-0,0-0,Chateauroux
+Sat Oct 30 1999,Ajaccio,0-1,0-0,Le Mans
+Sat Oct 30 1999,Amiens,1-1,1-1,Gueugnon
+Sat Oct 30 1999,Chateauroux,1-0,0-0,Niort
+Sat Oct 30 1999,Guingamp,3-0,3-0,Lorient
+Sat Oct 30 1999,Laval,3-2,1-2,Valence
+Sat Oct 30 1999,Lille,0-1,0-1,Sochaux
+Sat Oct 30 1999,Louhans-Cuis.,2-1,2-0,Wasquehal
+Sat Oct 30 1999,Nice,0-0,0-0,Caen
+Sat Oct 30 1999,Nimes,1-1,1-0,Cannes
+Sat Oct 30 1999,Toulouse,1-1,0-0,Creteil
+Sat Nov 6 1999,Caen,1-1,1-0,Ajaccio
+Sat Nov 6 1999,Cannes,0-1,0-0,Nice
+Sat Nov 6 1999,Creteil,1-0,0-0,Lille
+Sat Nov 6 1999,Gueugnon,1-1,0-0,Guingamp
+Sat Nov 6 1999,Le Mans,2-1,1-1,Chateauroux
+Sat Nov 6 1999,Lorient,0-0,0-0,Laval
+Sat Nov 6 1999,Niort,1-0,1-0,Louhans-Cuis.
+Sat Nov 6 1999,Sochaux,3-2,1-0,Amiens
+Sat Nov 6 1999,Valence,0-2,0-0,Nimes
+Sat Nov 6 1999,Wasquehal,0-1,0-1,Toulouse
+Tue Nov 9 1999,Ajaccio,1-0,0-0,Cannes
+Tue Nov 9 1999,Amiens,0-1,0-0,Lille
+Tue Nov 9 1999,Chateauroux,0-0,0-0,Caen
+Tue Nov 9 1999,Guingamp,1-2,1-0,Sochaux
+Tue Nov 9 1999,Laval,2-1,1-0,Gueugnon
+Tue Nov 9 1999,Louhans-Cuis.,0-1,0-0,Le Mans
+Tue Nov 9 1999,Nice,0-0,0-0,Valence
+Tue Nov 9 1999,Nimes,1-2,0-1,Lorient
+Tue Nov 9 1999,Toulouse,1-1,0-1,Niort
+Tue Nov 9 1999,Wasquehal,1-0,1-0,Creteil
+Fri Nov 12 1999,Caen,6-1,4-0,Louhans-Cuis.
+Fri Nov 12 1999,Cannes,0-1,0-0,Chateauroux
+Fri Nov 12 1999,Creteil,2-0,0-0,Amiens
+Fri Nov 12 1999,Gueugnon,3-1,1-0,Nimes
+Fri Nov 12 1999,Le Mans,1-1,0-0,Toulouse
+Fri Nov 12 1999,Lille,2-0,1-0,Guingamp
+Fri Nov 12 1999,Lorient,0-1,0-0,Nice
+Fri Nov 12 1999,Niort,0-0,0-0,Wasquehal
+Fri Nov 12 1999,Sochaux,0-2,0-2,Laval
+Fri Nov 12 1999,Valence,1-2,0-2,Ajaccio
+Sat Nov 20 1999,Ajaccio,0-0,0-0,Gueugnon
+Sat Nov 20 1999,Chateauroux,1-0,1-0,Lorient
+Sat Nov 20 1999,Creteil,1-3,1-2,Guingamp
+Sat Nov 20 1999,Laval,1-0,0-0,Amiens
+Sat Nov 20 1999,Louhans-Cuis.,3-2,1-0,Valence
+Sat Nov 20 1999,Nice,2-1,0-0,Sochaux
+Sat Nov 20 1999,Niort,4-3,3-1,Le Mans
+Sat Nov 20 1999,Toulouse,2-1,0-1,Cannes
+Sat Nov 20 1999,Wasquehal,0-0,0-0,Caen
+Sun Nov 21 1999,Nimes,3-3,1-0,Lille
+Sat Dec 4 1999,Amiens,0-0,0-0,Nimes
+Sat Dec 4 1999,Caen,2-1,2-1,Niort
+Sat Dec 4 1999,Cannes,0-0,0-0,Wasquehal
+Sat Dec 4 1999,Gueugnon,1-1,1-1,Chateauroux
+Sat Dec 4 1999,Guingamp,2-2,2-0,Laval
+Sat Dec 4 1999,Le Mans,2-0,1-0,Creteil
+Sat Dec 4 1999,Lille,1-0,0-0,Nice
+Sat Dec 4 1999,Lorient,5-1,2-0,Louhans-Cuis.
+Sat Dec 4 1999,Sochaux,1-2,1-1,Ajaccio
+Sat Dec 4 1999,Valence,0-2,0-1,Toulouse
+Sat Dec 11 1999,Ajaccio,0-1,0-0,Lille
+Sat Dec 11 1999,Chateauroux,1-1,1-1,Sochaux
+Sat Dec 11 1999,Creteil,2-0,0-0,Laval
+Sat Dec 11 1999,Le Mans,0-0,0-0,Caen
+Sat Dec 11 1999,Louhans-Cuis.,1-1,0-1,Gueugnon
+Sat Dec 11 1999,Nice,0-0,0-0,Amiens
+Sat Dec 11 1999,Nimes,2-0,0-0,Guingamp
+Sat Dec 11 1999,Niort,1-1,0-1,Cannes
+Sat Dec 11 1999,Toulouse,5-0,1-0,Lorient
+Sat Dec 11 1999,Wasquehal,3-3,0-2,Valence
+Fri Jan 14 2000,Guingamp,5-0,4-0,Nice
+Sat Jan 15 2000,Amiens,0-1,0-0,Ajaccio
+Sat Jan 15 2000,Caen,1-1,0-1,Creteil
+Sat Jan 15 2000,Cannes,2-1,1-1,Le Mans
+Sat Jan 15 2000,Gueugnon,0-0,0-0,Toulouse
+Sat Jan 15 2000,Laval,1-1,0-1,Nimes
+Sat Jan 15 2000,Lille,1-0,0-0,Chateauroux
+Sat Jan 15 2000,Lorient,0-0,0-0,Wasquehal
+Sat Jan 15 2000,Sochaux,1-1,0-0,Louhans-Cuis.
+Sat Jan 15 2000,Valence,0-0,0-0,Niort
+Wed Jan 26 2000,Ajaccio,1-0,1-0,Guingamp
+Wed Jan 26 2000,Caen,1-1,1-1,Cannes
+Wed Jan 26 2000,Chateauroux,0-0,0-0,Amiens
+Wed Jan 26 2000,Creteil,3-2,2-0,Nimes
+Wed Jan 26 2000,Le Mans,4-0,2-0,Valence
+Wed Jan 26 2000,Louhans-Cuis.,1-2,1-1,Lille
+Wed Jan 26 2000,Nice,2-2,1-0,Laval
+Wed Jan 26 2000,Niort,1-0,0-0,Lorient
+Wed Jan 26 2000,Toulouse,3-0,3-0,Sochaux
+Wed Jan 26 2000,Wasquehal,1-0,0-0,Gueugnon
+Wed Feb 2 2000,Amiens,1-1,1-0,Louhans-Cuis.
+Wed Feb 2 2000,Cannes,1-0,0-0,Creteil
+Wed Feb 2 2000,Gueugnon,2-2,0-1,Niort
+Wed Feb 2 2000,Guingamp,3-2,1-2,Chateauroux
+Wed Feb 2 2000,Laval,1-0,0-0,Ajaccio
+Wed Feb 2 2000,Lille,2-0,1-0,Toulouse
+Wed Feb 2 2000,Lorient,0-0,0-0,Le Mans
+Wed Feb 2 2000,Nimes,1-1,1-1,Nice
+Wed Feb 2 2000,Sochaux,2-1,0-0,Wasquehal
+Wed Feb 2 2000,Valence,0-0,0-0,Caen
+Sat Feb 5 2000,Ajaccio,2-1,1-1,Nimes
+Sat Feb 5 2000,Caen,1-2,1-0,Lorient
+Sat Feb 5 2000,Cannes,0-0,0-0,Valence
+Sat Feb 5 2000,Chateauroux,3-1,3-1,Laval
+Sat Feb 5 2000,Creteil,0-0,0-0,Nice
+Sat Feb 5 2000,Le Mans,1-1,0-1,Gueugnon
+Sat Feb 5 2000,Louhans-Cuis.,0-0,0-0,Guingamp
+Sat Feb 5 2000,Niort,2-1,1-1,Sochaux
+Sat Feb 5 2000,Toulouse,2-0,1-0,Amiens
+Sat Feb 5 2000,Wasquehal,2-1,0-1,Lille
+Wed Feb 16 2000,Amiens,4-1,1-0,Wasquehal
+Wed Feb 16 2000,Laval,1-0,0-0,Louhans-Cuis.
+Wed Feb 16 2000,Lille,1-0,0-0,Niort
+Wed Feb 16 2000,Lorient,1-1,0-0,Cannes
+Wed Feb 16 2000,Nice,0-1,0-0,Ajaccio
+Wed Feb 16 2000,Nimes,1-1,0-1,Chateauroux
+Wed Feb 16 2000,Sochaux,3-1,1-0,Le Mans
+Wed Feb 16 2000,Valence,3-1,0-0,Creteil
+Thu Feb 17 2000,Guingamp,2-0,2-0,Toulouse
+Thu Feb 24 2000,Caen,1-2,1-0,Sochaux
+Sat Feb 26 2000,Cannes,1-1,1-1,Gueugnon
+Sat Feb 26 2000,Chateauroux,3-0,1-0,Nice
+Sat Feb 26 2000,Creteil,1-1,0-1,Ajaccio
+Sat Feb 26 2000,Le Mans,1-1,1-0,Lille
+Sat Feb 26 2000,Louhans-Cuis.,1-0,0-0,Nimes
+Sat Feb 26 2000,Niort,1-2,0-0,Amiens
+Sat Feb 26 2000,Toulouse,0-2,0-1,Laval
+Sat Feb 26 2000,Valence,0-1,0-1,Lorient
+Sat Feb 26 2000,Wasquehal,2-3,2-2,Guingamp
+Fri Mar 10 2000,Lille,3-2,2-1,Caen
+Sat Mar 11 2000,Ajaccio,1-0,0-0,Chateauroux
+Sat Mar 11 2000,Amiens,2-0,1-0,Le Mans
+Sat Mar 11 2000,Gueugnon,0-0,0-0,Valence
+Sat Mar 11 2000,Guingamp,1-1,0-0,Niort
+Sat Mar 11 2000,Laval,0-1,0-1,Wasquehal
+Sat Mar 11 2000,Lorient,3-0,2-0,Creteil
+Sat Mar 11 2000,Nice,2-0,0-0,Louhans-Cuis.
+Sat Mar 11 2000,Nimes,3-0,2-0,Toulouse
+Sat Mar 11 2000,Sochaux,1-0,1-0,Cannes
+Fri Mar 17 2000,Gueugnon,4-0,2-0,Caen
+Fri Mar 24 2000,Caen,4-1,2-1,Amiens
+Fri Mar 24 2000,Creteil,0-1,0-1,Chateauroux
+Fri Mar 24 2000,Le Mans,1-1,0-1,Guingamp
+Fri Mar 24 2000,Lorient,0-3,0-1,Gueugnon
+Fri Mar 24 2000,Louhans-Cuis.,1-1,1-1,Ajaccio
+Fri Mar 24 2000,Niort,3-2,2-0,Laval
+Fri Mar 24 2000,Valence,2-1,0-0,Sochaux
+Fri Mar 24 2000,Wasquehal,0-0,0-0,Nimes
+Sat Mar 25 2000,Cannes,2-2,0-1,Lille
+Sat Mar 25 2000,Toulouse,0-0,0-0,Nice
+Tue Mar 28 2000,Gueugnon,1-0,0-0,Creteil
+Wed Mar 29 2000,Ajaccio,0-1,0-0,Toulouse
+Wed Mar 29 2000,Amiens,0-2,0-0,Cannes
+Wed Mar 29 2000,Chateauroux,3-2,0-1,Louhans-Cuis.
+Wed Mar 29 2000,Laval,2-1,2-0,Le Mans
+Wed Mar 29 2000,Lille,4-1,1-0,Valence
+Wed Mar 29 2000,Nice,1-1,0-0,Wasquehal
+Wed Mar 29 2000,Sochaux,1-1,1-0,Lorient
+Thu Mar 30 2000,Guingamp,3-1,0-1,Caen
+Sat Apr 1 2000,Nimes,1-4,0-2,Niort
+Sat Apr 8 2000,Caen,1-1,1-0,Laval
+Sat Apr 8 2000,Cannes,0-2,0-1,Guingamp
+Sat Apr 8 2000,Creteil,2-1,2-1,Louhans-Cuis.
+Sat Apr 8 2000,Gueugnon,1-2,1-0,Sochaux
+Sat Apr 8 2000,Le Mans,1-0,0-0,Nimes
+Sat Apr 8 2000,Lorient,0-0,0-0,Lille
+Sat Apr 8 2000,Niort,1-2,0-1,Nice
+Sat Apr 8 2000,Toulouse,0-1,0-1,Chateauroux
+Sat Apr 8 2000,Valence,2-1,0-1,Amiens
+Sat Apr 8 2000,Wasquehal,3-1,2-1,Ajaccio
+Sat Apr 15 2000,Ajaccio,2-2,0-1,Niort
+Sat Apr 15 2000,Amiens,0-0,0-0,Lorient
+Sat Apr 15 2000,Chateauroux,1-1,0-1,Wasquehal
+Sat Apr 15 2000,Guingamp,1-0,0-0,Valence
+Sat Apr 15 2000,Laval,2-1,0-1,Cannes
+Sat Apr 15 2000,Lille,1-1,0-0,Gueugnon
+Sat Apr 15 2000,Louhans-Cuis.,1-2,1-1,Toulouse
+Sat Apr 15 2000,Nice,1-1,0-1,Le Mans
+Sat Apr 15 2000,Nimes,0-0,0-0,Caen
+Sat Apr 15 2000,Sochaux,5-1,4-0,Creteil
+Fri Apr 21 2000,Caen,1-1,1-1,Nice
+Fri Apr 21 2000,Cannes,2-0,1-0,Nimes
+Fri Apr 21 2000,Creteil,3-1,2-1,Toulouse
+Fri Apr 21 2000,Le Mans,1-1,0-0,Ajaccio
+Fri Apr 21 2000,Lorient,0-2,0-0,Guingamp
+Fri Apr 21 2000,Niort,1-0,0-0,Chateauroux
+Fri Apr 21 2000,Sochaux,2-0,1-0,Lille
+Fri Apr 21 2000,Valence,1-1,0-0,Laval
+Fri Apr 21 2000,Wasquehal,2-1,2-0,Louhans-Cuis.
+Thu Apr 27 2000,Amiens,0-2,0-0,Sochaux
+Fri Apr 28 2000,Ajaccio,1-0,0-0,Caen
+Fri Apr 28 2000,Chateauroux,3-2,1-1,Le Mans
+Fri Apr 28 2000,Guingamp,0-2,0-1,Gueugnon
+Fri Apr 28 2000,Laval,1-1,1-1,Lorient
+Fri Apr 28 2000,Lille,5-0,1-0,Creteil
+Fri Apr 28 2000,Louhans-Cuis.,2-3,2-0,Niort
+Fri Apr 28 2000,Nice,2-0,1-0,Cannes
+Fri Apr 28 2000,Nimes,3-2,0-0,Valence
+Fri Apr 28 2000,Toulouse,2-0,1-0,Wasquehal
+Wed May 3 2000,Gueugnon,2-0,1-0,Amiens
+Fri May 5 2000,Caen,4-1,0-1,Chateauroux
+Fri May 5 2000,Cannes,2-0,1-0,Ajaccio
+Fri May 5 2000,Creteil,1-1,1-0,Wasquehal
+Fri May 5 2000,Gueugnon,1-1,1-0,Laval
+Fri May 5 2000,Le Mans,2-1,0-0,Louhans-Cuis.
+Fri May 5 2000,Lille,1-0,0-0,Amiens
+Fri May 5 2000,Lorient,0-1,0-1,Nimes
+Fri May 5 2000,Niort,1-1,0-0,Toulouse
+Fri May 5 2000,Sochaux,1-1,0-0,Guingamp
+Fri May 5 2000,Valence,2-0,1-0,Nice
+Fri May 12 2000,Ajaccio,2-0,2-0,Valence
+Fri May 12 2000,Amiens,0-0,0-0,Creteil
+Fri May 12 2000,Chateauroux,3-0,1-0,Cannes
+Fri May 12 2000,Guingamp,1-1,0-1,Lille
+Fri May 12 2000,Laval,1-2,0-1,Sochaux
+Fri May 12 2000,Louhans-Cuis.,0-4,0-1,Caen
+Fri May 12 2000,Nice,3-1,2-0,Lorient
+Fri May 12 2000,Nimes,0-1,0-1,Gueugnon
+Fri May 12 2000,Toulouse,3-0,2-0,Le Mans
+Fri May 12 2000,Wasquehal,2-0,1-0,Niort
+Sat May 20 2000,Amiens,0-0,0-0,Guingamp
+Sat May 20 2000,Caen,1-1,0-0,Toulouse
+Sat May 20 2000,Cannes,2-1,0-1,Louhans-Cuis.
+Sat May 20 2000,Gueugnon,0-4,0-1,Nice
+Sat May 20 2000,Le Mans,0-0,0-0,Wasquehal
+Sat May 20 2000,Lille,1-0,0-0,Laval
+Sat May 20 2000,Lorient,1-0,0-0,Ajaccio
+Sat May 20 2000,Niort,1-3,1-0,Creteil
+Sat May 20 2000,Sochaux,2-0,0-0,Nimes
+Sat May 20 2000,Valence,2-2,1-1,Chateauroux

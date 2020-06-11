@@ -1,0 +1,181 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 13 2012,Servette,0-1,?,Basel
+Sat Jul 14 2012,Thun,0-0,?,Lausanne
+Sun Jul 15 2012,Grasshoppers,0-2,?,Sion
+Sun Jul 15 2012,Luzern,1-1,?,Zurich
+Sun Jul 15 2012,St. Gallen,1-1,?,Young Boys
+Sat Jul 21 2012,Basel,2-2,?,Luzern
+Sat Jul 21 2012,Lausanne,0-1,?,St. Gallen
+Sun Jul 22 2012,Sion,1-0,?,Servette
+Sun Jul 22 2012,Young Boys,0-1,?,Grasshoppers
+Sun Jul 22 2012,Zurich,0-2,?,Thun
+Sat Jul 28 2012,Grasshoppers,2-2,?,Basel
+Sat Jul 28 2012,St. Gallen,3-1,?,Zurich
+Sun Jul 29 2012,Lausanne,5-1,?,Servette
+Sun Jul 29 2012,Young Boys,3-0,?,Thun
+Sun Jul 29 2012,Luzern,0-3,?,Sion
+Sat Aug 4 2012,Sion,1-1,?,Basel
+Sat Aug 4 2012,St. Gallen,1-1,?,Grasshoppers
+Sun Aug 5 2012,Thun,2-1,?,Luzern
+Sun Aug 5 2012,Zurich,4-0,?,Lausanne
+Sun Aug 5 2012,Servette,1-1,?,Young Boys
+Sat Aug 11 2012,Lausanne,0-2,?,Sion
+Sat Aug 11 2012,Luzern,1-1,?,St. Gallen
+Sun Aug 12 2012,Grasshoppers,1-0,?,Servette
+Sun Aug 12 2012,Young Boys,4-1,?,Zurich
+Sun Aug 12 2012,Basel,3-1,?,Thun
+Sat Aug 18 2012,Basel,2-0,?,Lausanne
+Sat Aug 18 2012,Thun,0-1,?,St. Gallen
+Sun Aug 19 2012,Servette,1-1,?,Zurich
+Sun Aug 19 2012,Sion,1-0,?,Young Boys
+Sun Aug 19 2012,Luzern,0-2,?,Grasshoppers
+Sat Aug 25 2012,Grasshoppers,1-0,?,Thun
+Sat Aug 25 2012,St. Gallen,2-1,?,Basel
+Sun Aug 26 2012,Servette,0-2,?,Luzern
+Sun Aug 26 2012,Zurich,1-0,?,Sion
+Sun Aug 26 2012,Young Boys,0-0,?,Lausanne
+Sat Sep 1 2012,Lausanne,0-2,?,Grasshoppers
+Sat Sep 1 2012,Sion,0-3,?,St. Gallen
+Sun Sep 2 2012,Luzern,1-2,?,Young Boys
+Sun Sep 2 2012,Thun,3-0,?,Servette
+Sun Sep 2 2012,Basel,0-0,?,Zurich
+Sat Sep 22 2012,Sion,2-1,?,Thun
+Sat Sep 22 2012,Zurich,0-1,?,Grasshoppers
+Sun Sep 23 2012,Lausanne,1-0,?,Luzern
+Sun Sep 23 2012,St. Gallen,2-0,?,Servette
+Sun Sep 23 2012,Young Boys,1-1,?,Basel
+Wed Sep 26 2012,Servette,0-1,?,Lausanne
+Wed Sep 26 2012,Zurich,0-2,?,St. Gallen
+Wed Sep 26 2012,Basel,4-1,?,Sion
+Thu Sep 27 2012,Grasshoppers,2-0,?,Luzern
+Thu Sep 27 2012,Thun,2-1,?,Young Boys
+Sat Sep 29 2012,Lausanne,1-1,?,Basel
+Sun Sep 30 2012,Luzern,2-1,?,Thun
+Sun Sep 30 2012,Young Boys,6-2,?,Servette
+Sun Sep 30 2012,Sion,2-2,?,Zurich
+Mon Oct 1 2012,Grasshoppers,1-0,?,St. Gallen
+Sat Oct 6 2012,St. Gallen,2-1,?,Lausanne
+Sat Oct 6 2012,Thun,2-3,?,Grasshoppers
+Sun Oct 7 2012,Sion,3-2,?,Luzern
+Sun Oct 7 2012,Zurich,1-1,?,Young Boys
+Sun Oct 7 2012,Basel,3-2,?,Servette
+Sat Oct 20 2012,Servette,1-1,?,St. Gallen
+Sat Oct 20 2012,Thun,1-1,?,Sion
+Sun Oct 21 2012,Lausanne,0-2,?,Zurich
+Sun Oct 21 2012,Luzern,1-0,?,Basel
+Sun Oct 21 2012,Grasshoppers,3-2,?,Young Boys
+Sat Oct 27 2012,Sion,1-1,?,Lausanne
+Sun Oct 28 2012,Servette,2-0,?,Grasshoppers
+Sun Oct 28 2012,St. Gallen,1-0,?,Thun
+Sun Oct 28 2012,Zurich,1-2,?,Basel
+Sat Nov 3 2012,Basel,2-0,?,Young Boys
+Sat Nov 3 2012,Grasshoppers,1-1,?,Lausanne
+Sun Nov 4 2012,Luzern,1-1,?,Servette
+Sun Nov 4 2012,Thun,1-4,?,Zurich
+Sun Nov 4 2012,St. Gallen,0-3,?,Sion
+Sat Nov 17 2012,Lausanne,3-0,?,Thun
+Sat Nov 17 2012,Zurich,0-2,?,Luzern
+Sun Nov 18 2012,Servette,0-2,?,Sion
+Sun Nov 18 2012,Young Boys,0-0,?,St. Gallen
+Sun Nov 18 2012,Basel,4-0,?,Grasshoppers
+Sat Nov 24 2012,Sion,1-1,?,Grasshoppers
+Sat Nov 24 2012,Zurich,0-2,?,Servette
+Sun Nov 25 2012,Lausanne,2-1,?,Young Boys
+Sun Nov 25 2012,St. Gallen,1-1,?,Luzern
+Sun Nov 25 2012,Thun,3-2,?,Basel
+Wed Nov 28 2012,Young Boys,2-1,?,Luzern
+Sat Dec 1 2012,Basel,1-0,?,St. Gallen
+Sat Dec 1 2012,Luzern,0-0,?,Lausanne
+Sun Dec 2 2012,Servette,0-0,?,Thun
+Sun Dec 2 2012,Young Boys,3-1,?,Sion
+Sun Dec 2 2012,Grasshoppers,1-0,?,Zurich
+Sat Feb 9 2013,Servette,0-1,?,Grasshoppers
+Sat Feb 9 2013,Young Boys,3-2,?,Luzern
+Sun Feb 10 2013,Zurich,2-0,?,Lausanne
+Sun Feb 10 2013,Basel,3-0,?,Sion
+Sat Feb 16 2013,Grasshoppers,2-0,?,Young Boys
+Sat Feb 16 2013,Sion,1-0,?,St. Gallen
+Sun Feb 17 2013,Lausanne,1-2,?,Basel
+Sun Feb 17 2013,Luzern,1-1,?,Zurich
+Sun Feb 17 2013,Thun,1-1,?,Servette
+Sat Feb 23 2013,Servette,1-0,?,Lausanne
+Sat Feb 23 2013,Zurich,4-0,?,Young Boys
+Sun Feb 24 2013,St. Gallen,4-0,?,Luzern
+Sun Feb 24 2013,Thun,4-0,?,Sion
+Sun Feb 24 2013,Basel,0-0,?,Grasshoppers
+Sat Mar 2 2013,Luzern,0-0,?,Thun
+Sat Mar 2 2013,Zurich,3-1,?,Sion
+Sun Mar 3 2013,Servette,1-2,?,Basel
+Sun Mar 3 2013,Young Boys,2-0,?,St. Gallen
+Sun Mar 3 2013,Lausanne,0-0,?,Grasshoppers
+Sat Mar 9 2013,Grasshoppers,3-1,?,St. Gallen
+Sat Mar 9 2013,Luzern,1-1,?,Servette
+Sun Mar 10 2013,Sion,0-1,?,Lausanne
+Sun Mar 10 2013,Thun,0-4,?,Zurich
+Sun Mar 10 2013,Basel,3-0,?,Young Boys
+Wed Mar 13 2013,St. Gallen,0-0,?,Thun
+Sat Mar 16 2013,Servette,1-2,?,Zurich
+Sat Mar 16 2013,St. Gallen,3-1,?,Lausanne
+Sun Mar 17 2013,Basel,1-0,?,Thun
+Sun Mar 17 2013,Young Boys,0-0,?,Sion
+Sun Mar 17 2013,Grasshoppers,0-0,?,Luzern
+Sat Mar 30 2013,Sion,1-1,?,Servette
+Sat Mar 30 2013,Thun,1-0,?,Grasshoppers
+Sat Mar 30 2013,Zurich,1-3,?,St. Gallen
+Mon Apr 1 2013,Lausanne,0-0,?,Young Boys
+Mon Apr 1 2013,Luzern,0-4,?,Basel
+Sat Apr 6 2013,Sion,2-1,?,Luzern
+Sat Apr 6 2013,Zurich,2-4,?,Grasshoppers
+Sun Apr 7 2013,Lausanne,2-4,?,Thun
+Sun Apr 7 2013,Young Boys,0-2,?,Servette
+Sun Apr 7 2013,St. Gallen,1-1,?,Basel
+Sat Apr 13 2013,Luzern,1-0,?,Lausanne
+Sat Apr 13 2013,Servette,1-3,?,St. Gallen
+Sun Apr 14 2013,Basel,3-1,?,Zurich
+Sun Apr 14 2013,Young Boys,1-2,?,Thun
+Sun Apr 14 2013,Grasshoppers,1-1,?,Sion
+Sat Apr 20 2013,Lausanne,1-3,?,St. Gallen
+Sat Apr 20 2013,Zurich,4-0,?,Servette
+Sun Apr 21 2013,Luzern,1-1,?,Grasshoppers
+Sun Apr 21 2013,Thun,2-2,?,Basel
+Sun Apr 21 2013,Sion,0-0,?,Young Boys
+Sat Apr 27 2013,Grasshoppers,0-2,?,Thun
+Sun Apr 28 2013,Basel,0-3,?,Luzern
+Sun Apr 28 2013,Young Boys,3-1,?,Lausanne
+Sun Apr 28 2013,St. Gallen,1-2,?,Zurich
+Fri May 3 2013,Lausanne,1-1,?,Zurich
+Sat May 4 2013,Grasshoppers,2-0,?,Servette
+Sat May 4 2013,St. Gallen,3-1,?,Young Boys
+Sun May 5 2013,Sion,0-1,?,Basel
+Sun May 5 2013,Thun,1-1,?,Luzern
+Tue May 7 2013,Young Boys,4-0,?,Grasshoppers
+Wed May 8 2013,Lausanne,1-3,?,Sion
+Wed May 8 2013,Luzern,2-0,?,St. Gallen
+Wed May 8 2013,Zurich,3-1,?,Basel
+Thu May 9 2013,Servette,2-0,?,Thun
+Sat May 11 2013,Luzern,3-1,?,Young Boys
+Sat May 11 2013,St. Gallen,5-0,?,Sion
+Sun May 12 2013,Basel,2-0,?,Servette
+Sun May 12 2013,Thun,2-0,?,Lausanne
+Sun May 12 2013,Grasshoppers,0-1,?,Zurich
+Thu May 16 2013,Basel,2-0,?,Lausanne
+Thu May 16 2013,Sion,0-4,?,Grasshoppers
+Fri May 17 2013,Thun,3-0,?,St. Gallen
+Sat May 18 2013,Servette,0-1,?,Young Boys
+Sat May 18 2013,Zurich,4-1,?,Luzern
+Wed May 22 2013,Servette,4-0,?,Sion
+Sat May 25 2013,Lausanne,3-0,?,Luzern
+Sat May 25 2013,Sion,0-1,?,Thun
+Sun May 26 2013,St. Gallen,4-1,?,Servette
+Sun May 26 2013,Young Boys,2-4,?,Zurich
+Sun May 26 2013,Grasshoppers,1-0,?,Basel
+Wed May 29 2013,Lausanne,3-0,?,Servette
+Wed May 29 2013,Luzern,2-0,?,Sion
+Wed May 29 2013,St. Gallen,1-2,?,Grasshoppers
+Wed May 29 2013,Young Boys,0-1,?,Basel
+Wed May 29 2013,Zurich,2-0,?,Thun
+Sat Jun 1 2013,Basel,1-0,?,St. Gallen
+Sat Jun 1 2013,Grasshoppers,4-1,?,Lausanne
+Sat Jun 1 2013,Servette,3-4,?,Luzern
+Sat Jun 1 2013,Sion,4-2,?,Zurich
+Sat Jun 1 2013,Thun,2-2,?,Young Boys

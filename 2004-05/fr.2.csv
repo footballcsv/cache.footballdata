@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 6 2004,Brest,3-2,1-2,Nancy
+Fri Aug 6 2004,Chateauroux,1-1,1-1,Angers
+Fri Aug 6 2004,Grenoble,4-2,1-0,Guingamp
+Fri Aug 6 2004,Gueugnon,1-1,1-1,Amiens
+Fri Aug 6 2004,Laval,2-1,1-0,Dijon
+Fri Aug 6 2004,Le Mans,2-2,1-0,Clermont
+Fri Aug 6 2004,Reims,2-1,0-1,Creteil
+Fri Aug 6 2004,Sedan,3-2,2-2,Lorient
+Sun Aug 8 2004,Montpellier,3-4,1-1,Troyes
+Mon Aug 9 2004,Le Havre,1-2,1-1,Niort
+Thu Aug 12 2004,Guingamp,1-2,1-1,Brest
+Fri Aug 13 2004,Amiens,1-2,1-0,Le Havre
+Fri Aug 13 2004,Angers,0-1,0-1,Montpellier
+Fri Aug 13 2004,Clermont,0-2,0-0,Gueugnon
+Fri Aug 13 2004,Creteil,1-0,0-0,Le Mans
+Fri Aug 13 2004,Lorient,2-1,1-0,Chateauroux
+Fri Aug 13 2004,Nancy,1-2,0-1,Sedan
+Fri Aug 13 2004,Niort,1-3,1-2,Grenoble
+Fri Aug 13 2004,Reims,2-0,1-0,Laval
+Fri Aug 13 2004,Troyes,2-2,1-1,Dijon
+Mon Aug 16 2004,Sedan,3-0,2-0,Guingamp
+Tue Aug 17 2004,Brest,1-0,1-0,Niort
+Tue Aug 17 2004,Chateauroux,0-0,0-0,Nancy
+Tue Aug 17 2004,Dijon,1-0,0-0,Angers
+Tue Aug 17 2004,Grenoble,1-1,0-0,Amiens
+Tue Aug 17 2004,Gueugnon,1-0,1-0,Creteil
+Tue Aug 17 2004,Laval,2-1,1-0,Troyes
+Tue Aug 17 2004,Le Havre,0-0,0-0,Clermont
+Tue Aug 17 2004,Le Mans,0-0,0-0,Reims
+Tue Aug 17 2004,Montpellier,0-1,0-1,Lorient
+Fri Aug 20 2004,Amiens,1-0,1-0,Brest
+Fri Aug 20 2004,Angers,2-1,1-1,Troyes
+Fri Aug 20 2004,Clermont,5-0,1-0,Grenoble
+Fri Aug 20 2004,Creteil,0-2,0-1,Le Havre
+Fri Aug 20 2004,Guingamp,2-0,1-0,Chateauroux
+Fri Aug 20 2004,Lorient,0-2,0-1,Dijon
+Fri Aug 20 2004,Nancy,1-0,0-0,Montpellier
+Fri Aug 20 2004,Niort,3-0,2-0,Sedan
+Fri Aug 20 2004,Reims,2-1,1-1,Gueugnon
+Mon Aug 23 2004,Le Mans,3-0,1-0,Laval
+Fri Aug 27 2004,Brest,1-2,1-2,Clermont
+Fri Aug 27 2004,Chateauroux,2-0,1-0,Niort
+Fri Aug 27 2004,Dijon,0-1,0-0,Nancy
+Fri Aug 27 2004,Grenoble,1-1,0-0,Creteil
+Fri Aug 27 2004,Gueugnon,0-0,0-0,Le Mans
+Fri Aug 27 2004,Laval,1-1,0-0,Angers
+Fri Aug 27 2004,Le Havre,3-1,1-0,Reims
+Fri Aug 27 2004,Montpellier,1-1,0-1,Guingamp
+Fri Aug 27 2004,Sedan,0-1,0-1,Amiens
+Mon Aug 30 2004,Troyes,1-2,1-2,Lorient
+Fri Sep 3 2004,Clermont,0-1,0-1,Sedan
+Fri Sep 3 2004,Creteil,2-3,1-2,Brest
+Fri Sep 3 2004,Gueugnon,1-1,1-1,Laval
+Fri Sep 3 2004,Guingamp,0-1,0-1,Dijon
+Fri Sep 3 2004,Le Mans,1-0,0-0,Le Havre
+Fri Sep 3 2004,Lorient,1-2,1-1,Angers
+Fri Sep 3 2004,Niort,0-1,0-0,Montpellier
+Fri Sep 3 2004,Reims,1-1,0-0,Grenoble
+Sun Sep 5 2004,Amiens,2-2,2-1,Chateauroux
+Mon Sep 6 2004,Nancy,1-0,0-0,Troyes
+Fri Sep 10 2004,Angers,1-1,0-0,Nancy
+Fri Sep 10 2004,Chateauroux,1-1,1-0,Clermont
+Fri Sep 10 2004,Grenoble,2-1,1-1,Le Mans
+Fri Sep 10 2004,Laval,0-0,0-0,Lorient
+Fri Sep 10 2004,Le Havre,0-1,0-1,Gueugnon
+Fri Sep 10 2004,Sedan,1-0,0-0,Creteil
+Fri Sep 10 2004,Troyes,1-1,1-0,Guingamp
+Sat Sep 11 2004,Dijon,2-1,1-0,Niort
+Sun Sep 12 2004,Brest,4-2,1-1,Reims
+Mon Sep 13 2004,Montpellier,0-2,0-1,Amiens
+Fri Sep 17 2004,Amiens,2-1,0-1,Dijon
+Fri Sep 17 2004,Clermont,0-0,0-0,Montpellier
+Fri Sep 17 2004,Gueugnon,1-0,0-0,Grenoble
+Fri Sep 17 2004,Guingamp,1-0,0-0,Angers
+Fri Sep 17 2004,Le Havre,1-1,1-0,Laval
+Fri Sep 17 2004,Le Mans,1-1,0-0,Brest
+Fri Sep 17 2004,Nancy,1-0,1-0,Lorient
+Fri Sep 17 2004,Reims,0-0,0-0,Sedan
+Sun Sep 19 2004,Creteil,3-1,1-1,Chateauroux
+Sun Sep 19 2004,Niort,0-1,0-0,Troyes
+Mon Sep 20 2004,Lorient,1-1,0-1,Guingamp
+Tue Sep 21 2004,Brest,0-0,0-0,Gueugnon
+Tue Sep 21 2004,Dijon,2-2,0-0,Clermont
+Tue Sep 21 2004,Grenoble,2-1,0-0,Le Havre
+Tue Sep 21 2004,Laval,1-2,1-1,Nancy
+Tue Sep 21 2004,Sedan,1-2,0-2,Le Mans
+Wed Sep 22 2004,Angers,1-2,1-1,Niort
+Wed Sep 22 2004,Chateauroux,1-1,0-1,Reims
+Wed Sep 22 2004,Montpellier,0-0,0-0,Creteil
+Wed Sep 22 2004,Troyes,0-0,0-0,Amiens
+Fri Sep 24 2004,Grenoble,2-1,2-0,Laval
+Fri Sep 24 2004,Guingamp,3-2,1-1,Nancy
+Fri Sep 24 2004,Le Havre,0-0,0-0,Brest
+Sat Sep 25 2004,Amiens,0-2,0-1,Angers
+Sat Sep 25 2004,Clermont,1-3,1-0,Troyes
+Sat Sep 25 2004,Le Mans,0-2,0-1,Chateauroux
+Sat Sep 25 2004,Niort,4-0,2-0,Lorient
+Sat Sep 25 2004,Reims,0-2,0-1,Montpellier
+Sun Sep 26 2004,Creteil,1-1,1-0,Dijon
+Mon Sep 27 2004,Gueugnon,0-0,0-0,Sedan
+Fri Oct 1 2004,Angers,1-1,0-1,Clermont
+Fri Oct 1 2004,Brest,1-1,1-1,Grenoble
+Fri Oct 1 2004,Laval,1-0,1-0,Guingamp
+Fri Oct 1 2004,Lorient,1-2,0-0,Amiens
+Fri Oct 1 2004,Montpellier,2-0,0-0,Le Mans
+Fri Oct 1 2004,Nancy,3-1,0-0,Niort
+Fri Oct 1 2004,Sedan,1-0,1-0,Le Havre
+Fri Oct 1 2004,Troyes,2-1,0-0,Creteil
+Sun Oct 3 2004,Chateauroux,0-0,0-0,Gueugnon
+Mon Oct 4 2004,Dijon,0-0,0-0,Reims
+Fri Oct 15 2004,Amiens,0-3,0-1,Nancy
+Fri Oct 15 2004,Brest,2-1,0-1,Laval
+Fri Oct 15 2004,Clermont,2-0,1-0,Lorient
+Fri Oct 15 2004,Creteil,2-0,2-0,Angers
+Fri Oct 15 2004,Gueugnon,2-1,1-1,Montpellier
+Fri Oct 15 2004,Le Havre,0-1,0-1,Chateauroux
+Fri Oct 15 2004,Le Mans,2-1,1-0,Dijon
+Fri Oct 15 2004,Niort,1-0,0-0,Guingamp
+Fri Oct 15 2004,Reims,2-0,1-0,Troyes
+Mon Oct 18 2004,Grenoble,0-0,0-0,Sedan
+Fri Oct 22 2004,Angers,3-0,1-0,Reims
+Fri Oct 22 2004,Chateauroux,1-1,0-1,Grenoble
+Fri Oct 22 2004,Dijon,0-0,0-0,Gueugnon
+Fri Oct 22 2004,Laval,1-0,1-0,Niort
+Fri Oct 22 2004,Lorient,3-1,0-0,Creteil
+Fri Oct 22 2004,Montpellier,3-0,1-0,Le Havre
+Fri Oct 22 2004,Nancy,2-1,1-1,Clermont
+Fri Oct 22 2004,Troyes,2-0,2-0,Le Mans
+Sun Oct 24 2004,Sedan,0-0,0-0,Brest
+Mon Oct 25 2004,Guingamp,2-1,0-0,Amiens
+Fri Oct 29 2004,Amiens,4-1,1-0,Niort
+Fri Oct 29 2004,Brest,0-0,0-0,Chateauroux
+Fri Oct 29 2004,Creteil,2-1,1-0,Nancy
+Fri Oct 29 2004,Grenoble,0-0,0-0,Montpellier
+Fri Oct 29 2004,Le Havre,1-0,1-0,Dijon
+Fri Oct 29 2004,Reims,1-4,1-2,Lorient
+Fri Oct 29 2004,Sedan,0-3,0-1,Laval
+Sun Oct 31 2004,Le Mans,3-0,2-0,Angers
+Mon Nov 1 2004,Clermont,2-1,0-1,Guingamp
+Fri Nov 5 2004,Chateauroux,0-0,0-0,Sedan
+Fri Nov 5 2004,Dijon,2-1,1-1,Grenoble
+Fri Nov 5 2004,Guingamp,2-0,1-0,Creteil
+Fri Nov 5 2004,Laval,1-0,0-0,Amiens
+Fri Nov 5 2004,Lorient,1-2,0-1,Le Mans
+Fri Nov 5 2004,Montpellier,1-0,0-0,Brest
+Fri Nov 5 2004,Nancy,3-1,2-1,Reims
+Fri Nov 5 2004,Niort,0-2,0-1,Clermont
+Fri Nov 5 2004,Troyes,2-1,0-1,Le Havre
+Mon Nov 8 2004,Angers,1-1,1-0,Gueugnon
+Fri Nov 12 2004,Clermont,0-0,0-0,Amiens
+Fri Nov 12 2004,Creteil,0-1,0-0,Niort
+Fri Nov 12 2004,Grenoble,1-2,1-1,Troyes
+Fri Nov 12 2004,Gueugnon,2-1,0-1,Lorient
+Fri Nov 12 2004,Le Havre,0-0,0-0,Angers
+Fri Nov 12 2004,Le Mans,1-2,0-0,Nancy
+Fri Nov 12 2004,Sedan,2-0,0-0,Montpellier
+Sat Nov 13 2004,Chateauroux,1-0,1-0,Laval
+Sat Nov 13 2004,Reims,3-2,0-1,Guingamp
+Mon Nov 15 2004,Brest,1-1,1-1,Dijon
+Tue Nov 23 2004,Gueugnon,1-2,1-0,Troyes
+Fri Nov 26 2004,Amiens,0-0,0-0,Creteil
+Fri Nov 26 2004,Angers,0-0,0-0,Grenoble
+Fri Nov 26 2004,Dijon,1-0,0-0,Sedan
+Fri Nov 26 2004,Guingamp,2-1,0-1,Le Mans
+Fri Nov 26 2004,Laval,4-3,2-1,Clermont
+Fri Nov 26 2004,Lorient,2-0,1-0,Le Havre
+Fri Nov 26 2004,Niort,0-1,0-0,Reims
+Fri Nov 26 2004,Troyes,2-0,1-0,Brest
+Sun Nov 28 2004,Montpellier,0-0,0-0,Chateauroux
+Mon Nov 29 2004,Nancy,1-0,1-0,Gueugnon
+Fri Dec 3 2004,Brest,1-0,1-0,Angers
+Fri Dec 3 2004,Creteil,1-1,0-1,Clermont
+Fri Dec 3 2004,Grenoble,1-2,0-1,Lorient
+Fri Dec 3 2004,Gueugnon,0-0,0-0,Guingamp
+Fri Dec 3 2004,Le Havre,0-0,0-0,Nancy
+Fri Dec 3 2004,Le Mans,1-0,0-0,Niort
+Fri Dec 3 2004,Montpellier,3-1,1-0,Laval
+Fri Dec 3 2004,Reims,0-0,0-0,Amiens
+Fri Dec 3 2004,Sedan,2-1,2-1,Troyes
+Mon Dec 6 2004,Chateauroux,2-1,0-0,Dijon
+Thu Dec 16 2004,Lorient,3-0,0-0,Brest
+Fri Dec 17 2004,Amiens,0-0,0-0,Le Mans
+Fri Dec 17 2004,Angers,2-2,0-2,Sedan
+Fri Dec 17 2004,Clermont,0-0,0-0,Reims
+Fri Dec 17 2004,Dijon,1-0,1-0,Montpellier
+Fri Dec 17 2004,Guingamp,1-0,1-0,Le Havre
+Fri Dec 17 2004,Laval,0-0,0-0,Creteil
+Fri Dec 17 2004,Nancy,2-0,1-0,Grenoble
+Fri Dec 17 2004,Niort,1-1,0-1,Gueugnon
+Fri Dec 17 2004,Troyes,5-5,2-1,Chateauroux
+Mon Jan 10 2005,Sedan,2-0,1-0,Nancy
+Tue Jan 11 2005,Brest,2-2,1-1,Guingamp
+Tue Jan 11 2005,Chateauroux,3-0,1-0,Lorient
+Tue Jan 11 2005,Dijon,1-1,1-1,Troyes
+Tue Jan 11 2005,Grenoble,5-1,1-1,Niort
+Tue Jan 11 2005,Gueugnon,2-0,1-0,Clermont
+Tue Jan 11 2005,Laval,1-2,1-1,Reims
+Tue Jan 11 2005,Le Havre,1-0,0-0,Amiens
+Tue Jan 11 2005,Le Mans,1-0,0-0,Creteil
+Tue Jan 11 2005,Montpellier,2-1,0-0,Angers
+Fri Jan 14 2005,Angers,2-2,2-0,Dijon
+Fri Jan 14 2005,Clermont,0-1,0-0,Le Havre
+Fri Jan 14 2005,Creteil,3-0,3-0,Gueugnon
+Fri Jan 14 2005,Guingamp,4-0,1-0,Sedan
+Fri Jan 14 2005,Lorient,1-2,0-1,Montpellier
+Fri Jan 14 2005,Niort,1-1,1-0,Brest
+Fri Jan 14 2005,Reims,0-1,0-0,Le Mans
+Fri Jan 14 2005,Troyes,0-2,0-1,Laval
+Sun Jan 16 2005,Nancy,1-1,1-0,Chateauroux
+Mon Jan 17 2005,Amiens,0-2,0-0,Grenoble
+Fri Jan 21 2005,Brest,1-1,1-1,Amiens
+Fri Jan 21 2005,Chateauroux,2-0,0-0,Guingamp
+Fri Jan 21 2005,Dijon,0-0,0-0,Lorient
+Fri Jan 21 2005,Gueugnon,1-1,1-0,Reims
+Fri Jan 21 2005,Laval,1-2,1-2,Le Mans
+Fri Jan 21 2005,Le Havre,1-1,1-0,Creteil
+Fri Jan 21 2005,Sedan,0-0,0-0,Niort
+Fri Jan 21 2005,Troyes,4-1,2-0,Angers
+Sun Jan 23 2005,Montpellier,1-1,1-1,Nancy
+Mon Jan 24 2005,Lorient,1-2,1-2,Troyes
+Tue Jan 25 2005,Amiens,1-2,0-1,Sedan
+Tue Jan 25 2005,Angers,0-1,0-0,Laval
+Tue Jan 25 2005,Clermont,0-0,0-0,Brest
+Tue Jan 25 2005,Creteil,0-0,0-0,Grenoble
+Tue Jan 25 2005,Le Mans,1-2,1-0,Gueugnon
+Tue Jan 25 2005,Niort,0-0,0-0,Chateauroux
+Tue Jan 25 2005,Reims,3-0,1-0,Le Havre
+Wed Jan 26 2005,Guingamp,3-1,0-0,Montpellier
+Fri Jan 28 2005,Angers,2-0,1-0,Lorient
+Fri Jan 28 2005,Brest,1-0,0-0,Creteil
+Fri Jan 28 2005,Chateauroux,1-0,1-0,Amiens
+Fri Jan 28 2005,Le Havre,0-1,0-1,Le Mans
+Fri Jan 28 2005,Sedan,2-0,2-0,Clermont
+Sat Jan 29 2005,Montpellier,2-0,1-0,Niort
+Mon Jan 31 2005,Laval,1-0,0-0,Gueugnon
+Fri Feb 4 2005,Amiens,2-0,1-0,Montpellier
+Fri Feb 4 2005,Clermont,2-0,0-0,Chateauroux
+Fri Feb 4 2005,Creteil,2-0,0-0,Sedan
+Fri Feb 4 2005,Gueugnon,1-0,1-0,Le Havre
+Fri Feb 4 2005,Guingamp,0-1,0-0,Troyes
+Fri Feb 4 2005,Le Mans,1-0,1-0,Grenoble
+Fri Feb 4 2005,Lorient,1-1,0-1,Laval
+Fri Feb 4 2005,Nancy,3-1,1-0,Angers
+Fri Feb 4 2005,Niort,0-0,0-0,Dijon
+Fri Feb 4 2005,Reims,0-0,0-0,Brest
+Tue Feb 8 2005,Grenoble,1-0,0-0,Clermont
+Fri Feb 11 2005,Nancy,2-0,1-0,Dijon
+Tue Feb 15 2005,Dijon,1-1,0-1,Guingamp
+Tue Feb 15 2005,Troyes,2-1,2-1,Nancy
+Fri Feb 18 2005,Angers,1-0,0-0,Guingamp
+Fri Feb 18 2005,Chateauroux,2-2,1-2,Creteil
+Fri Feb 18 2005,Dijon,2-1,1-1,Amiens
+Fri Feb 18 2005,Grenoble,2-1,1-1,Gueugnon
+Fri Feb 18 2005,Laval,0-1,0-0,Le Havre
+Fri Feb 18 2005,Montpellier,1-0,0-0,Clermont
+Fri Feb 18 2005,Sedan,2-0,0-0,Reims
+Fri Feb 18 2005,Troyes,1-1,0-0,Niort
+Sun Feb 20 2005,Lorient,1-1,0-1,Nancy
+Mon Feb 21 2005,Brest,1-0,0-0,Le Mans
+Tue Feb 22 2005,Grenoble,2-0,1-0,Reims
+Fri Feb 25 2005,Amiens,3-2,1-1,Troyes
+Fri Feb 25 2005,Clermont,0-0,0-0,Dijon
+Fri Feb 25 2005,Gueugnon,1-0,1-0,Brest
+Fri Feb 25 2005,Le Havre,2-1,0-1,Grenoble
+Fri Feb 25 2005,Le Mans,3-0,0-0,Sedan
+Fri Feb 25 2005,Nancy,0-1,0-1,Laval
+Fri Feb 25 2005,Niort,0-0,0-0,Angers
+Fri Feb 25 2005,Reims,1-1,0-0,Chateauroux
+Fri Mar 4 2005,Angers,3-2,2-1,Amiens
+Fri Mar 4 2005,Brest,1-0,0-0,Le Havre
+Fri Mar 4 2005,Dijon,1-0,0-0,Creteil
+Fri Mar 4 2005,Lorient,3-1,2-0,Niort
+Fri Mar 4 2005,Montpellier,0-0,0-0,Reims
+Fri Mar 4 2005,Nancy,2-1,1-0,Guingamp
+Fri Mar 4 2005,Sedan,3-0,2-0,Gueugnon
+Sat Mar 5 2005,Laval,3-1,1-0,Grenoble
+Mon Mar 7 2005,Chateauroux,1-3,1-2,Le Mans
+Fri Mar 11 2005,Amiens,0-0,0-0,Lorient
+Fri Mar 11 2005,Clermont,0-0,0-0,Angers
+Fri Mar 11 2005,Grenoble,0-2,0-1,Brest
+Fri Mar 11 2005,Gueugnon,1-3,0-1,Chateauroux
+Fri Mar 11 2005,Guingamp,2-1,0-1,Laval
+Fri Mar 11 2005,Le Havre,0-0,0-0,Sedan
+Fri Mar 11 2005,Le Mans,2-0,1-0,Montpellier
+Fri Mar 11 2005,Niort,1-2,1-1,Nancy
+Fri Mar 11 2005,Reims,0-5,0-2,Dijon
+Mon Mar 14 2005,Creteil,0-1,0-0,Troyes
+Mon Mar 14 2005,Guingamp,1-1,0-0,Lorient
+Fri Mar 18 2005,Angers,1-1,0-1,Creteil
+Fri Mar 18 2005,Chateauroux,4-1,2-0,Le Havre
+Fri Mar 18 2005,Dijon,0-2,0-1,Le Mans
+Fri Mar 18 2005,Guingamp,3-1,0-0,Niort
+Fri Mar 18 2005,Laval,2-1,0-0,Brest
+Fri Mar 18 2005,Lorient,1-0,0-0,Clermont
+Fri Mar 18 2005,Montpellier,1-1,0-1,Gueugnon
+Fri Mar 18 2005,Sedan,1-2,0-0,Grenoble
+Sun Mar 20 2005,Nancy,1-2,0-1,Amiens
+Mon Mar 21 2005,Troyes,2-0,1-0,Reims
+Fri Mar 25 2005,Creteil,3-3,2-2,Montpellier
+Mon Mar 28 2005,Troyes,1-0,1-0,Clermont
+Fri Apr 1 2005,Amiens,1-1,1-1,Guingamp
+Fri Apr 1 2005,Brest,2-0,1-0,Sedan
+Fri Apr 1 2005,Clermont,0-0,0-0,Nancy
+Fri Apr 1 2005,Creteil,2-0,0-0,Lorient
+Fri Apr 1 2005,Grenoble,2-0,1-0,Chateauroux
+Fri Apr 1 2005,Gueugnon,0-1,0-1,Dijon
+Fri Apr 1 2005,Le Havre,0-1,0-0,Montpellier
+Fri Apr 1 2005,Niort,2-0,1-0,Laval
+Fri Apr 1 2005,Reims,1-1,1-0,Angers
+Mon Apr 4 2005,Le Mans,2-3,1-1,Troyes
+Fri Apr 8 2005,Angers,0-2,0-1,Le Mans
+Fri Apr 8 2005,Chateauroux,1-2,1-1,Brest
+Fri Apr 8 2005,Dijon,0-0,0-0,Le Havre
+Fri Apr 8 2005,Guingamp,3-1,2-0,Clermont
+Fri Apr 8 2005,Lorient,3-1,2-0,Reims
+Fri Apr 8 2005,Montpellier,3-1,2-1,Grenoble
+Fri Apr 8 2005,Nancy,1-0,1-0,Creteil
+Fri Apr 8 2005,Niort,3-1,2-0,Amiens
+Fri Apr 8 2005,Troyes,1-0,0-0,Gueugnon
+Mon Apr 11 2005,Laval,2-2,1-1,Sedan
+Fri Apr 15 2005,Amiens,2-1,1-0,Laval
+Fri Apr 15 2005,Brest,1-1,0-1,Montpellier
+Fri Apr 15 2005,Clermont,2-0,1-0,Niort
+Fri Apr 15 2005,Creteil,1-1,1-1,Guingamp
+Fri Apr 15 2005,Grenoble,1-3,0-3,Dijon
+Fri Apr 15 2005,Gueugnon,1-0,0-0,Angers
+Fri Apr 15 2005,Le Mans,3-1,1-1,Lorient
+Fri Apr 15 2005,Reims,0-4,0-1,Nancy
+Fri Apr 15 2005,Sedan,2-1,1-0,Chateauroux
+Mon Apr 18 2005,Le Havre,1-0,1-0,Troyes
+Fri Apr 22 2005,Amiens,1-1,0-1,Clermont
+Fri Apr 22 2005,Angers,0-2,0-0,Le Havre
+Fri Apr 22 2005,Dijon,2-2,0-2,Brest
+Fri Apr 22 2005,Guingamp,2-0,0-0,Reims
+Fri Apr 22 2005,Laval,2-3,0-0,Chateauroux
+Fri Apr 22 2005,Lorient,3-2,3-0,Gueugnon
+Fri Apr 22 2005,Nancy,1-3,1-1,Le Mans
+Fri Apr 22 2005,Niort,2-2,1-2,Creteil
+Fri Apr 22 2005,Troyes,2-2,1-1,Grenoble
+Mon Apr 25 2005,Montpellier,0-1,0-0,Sedan
+Fri May 6 2005,Chateauroux,2-0,0-0,Montpellier
+Fri May 6 2005,Clermont,3-1,0-0,Laval
+Fri May 6 2005,Creteil,1-0,0-0,Amiens
+Fri May 6 2005,Grenoble,0-0,0-0,Angers
+Fri May 6 2005,Gueugnon,0-2,0-2,Nancy
+Fri May 6 2005,Le Havre,3-1,0-1,Lorient
+Fri May 6 2005,Le Mans,0-0,0-0,Guingamp
+Fri May 6 2005,Reims,2-0,0-0,Niort
+Fri May 6 2005,Sedan,0-1,0-1,Dijon
+Mon May 9 2005,Brest,1-1,1-0,Troyes
+Fri May 13 2005,Amiens,1-1,0-0,Reims
+Fri May 13 2005,Angers,1-0,1-0,Brest
+Fri May 13 2005,Dijon,3-0,1-0,Chateauroux
+Fri May 13 2005,Guingamp,2-0,1-0,Gueugnon
+Fri May 13 2005,Laval,1-3,0-1,Montpellier
+Fri May 13 2005,Lorient,2-0,1-0,Grenoble
+Fri May 13 2005,Niort,0-3,0-0,Le Mans
+Sat May 14 2005,Clermont,0-1,0-1,Creteil
+Sat May 14 2005,Troyes,2-1,0-0,Sedan
+Mon May 16 2005,Nancy,1-0,0-0,Le Havre
+Fri May 20 2005,Brest,0-0,0-0,Lorient
+Fri May 20 2005,Chateauroux,3-1,3-0,Troyes
+Fri May 20 2005,Creteil,3-1,1-1,Laval
+Fri May 20 2005,Grenoble,1-1,0-0,Nancy
+Fri May 20 2005,Gueugnon,2-1,1-1,Niort
+Fri May 20 2005,Le Havre,2-2,0-1,Guingamp
+Fri May 20 2005,Le Mans,1-1,0-0,Amiens
+Fri May 20 2005,Montpellier,4-2,1-1,Dijon
+Fri May 20 2005,Reims,3-0,2-0,Clermont
+Fri May 20 2005,Sedan,1-0,0-0,Angers
+Fri May 27 2005,Amiens,4-0,1-0,Gueugnon
+Fri May 27 2005,Angers,1-2,1-2,Chateauroux
+Fri May 27 2005,Clermont,0-0,0-0,Le Mans
+Fri May 27 2005,Creteil,4-0,2-0,Reims
+Fri May 27 2005,Dijon,0-0,0-0,Laval
+Fri May 27 2005,Guingamp,3-1,3-0,Grenoble
+Fri May 27 2005,Lorient,2-1,1-0,Sedan
+Fri May 27 2005,Nancy,1-0,1-0,Brest
+Fri May 27 2005,Niort,6-1,5-0,Le Havre
+Fri May 27 2005,Troyes,2-1,1-1,Montpellier

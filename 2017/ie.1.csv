@@ -1,0 +1,199 @@
+Date,Team 1,FT,HT,Team 2
+Fri Feb 24 2017,Bohemians,1-4,?,Derry City
+Fri Feb 24 2017,Galway,0-1,?,Drogheda
+Fri Feb 24 2017,Limerick,5-1,?,Sligo Rovers
+Fri Feb 24 2017,St. Patricks,1-2,?,Bray
+Fri Feb 24 2017,Dundalk,2-1,?,Shamrock Rovers
+Fri Feb 24 2017,Finn Harps,0-1,?,Cork City
+Fri Mar 3 2017,Shamrock Rovers,2-1,?,Bohemians
+Fri Mar 3 2017,Bray,5-3,?,Finn Harps
+Fri Mar 3 2017,Cork City,4-0,?,Galway
+Fri Mar 3 2017,Drogheda,2-0,?,St. Patricks
+Sat Mar 4 2017,Sligo Rovers,0-4,?,Dundalk
+Fri Mar 10 2017,Bohemians,3-2,?,Bray
+Fri Mar 10 2017,Dundalk,1-0,?,Limerick
+Fri Mar 10 2017,Sligo Rovers,1-1,?,St. Patricks
+Fri Mar 10 2017,Drogheda,1-4,?,Cork City
+Fri Mar 10 2017,Finn Harps,1-1,?,Galway
+Fri Mar 10 2017,Shamrock Rovers,0-1,?,Derry City
+Mon Mar 13 2017,Galway,1-2,?,Shamrock Rovers
+Mon Mar 13 2017,Bray,2-1,?,Drogheda
+Mon Mar 13 2017,Cork City,2-1,?,Sligo Rovers
+Mon Mar 13 2017,Derry City,3-1,?,Dundalk
+Mon Mar 13 2017,Limerick,0-1,?,Bohemians
+Mon Mar 13 2017,St. Patricks,1-2,?,Finn Harps
+Fri Mar 17 2017,Shamrock Rovers,1-2,?,Cork City
+Fri Mar 17 2017,Bohemians,1-1,?,Galway
+Sat Mar 18 2017,Limerick,1-1,?,Finn Harps
+Sat Mar 18 2017,Derry City,4-0,?,Drogheda
+Sat Mar 18 2017,Dundalk,3-0,?,St. Patricks
+Sat Mar 18 2017,Sligo Rovers,3-2,?,Bray
+Sat Mar 25 2017,Cork City,2-1,?,Dundalk
+Sat Mar 25 2017,St. Patricks,2-1,?,Shamrock Rovers
+Sat Mar 25 2017,Drogheda,0-1,?,Bohemians
+Sat Mar 25 2017,Bray,0-1,?,Limerick
+Sat Mar 25 2017,Finn Harps,2-1,?,Sligo Rovers
+Fri Mar 31 2017,Dundalk,3-1,?,Drogheda
+Fri Mar 31 2017,Bohemians,0-4,?,St. Patricks
+Fri Mar 31 2017,Derry City,2-3,?,Bray
+Fri Mar 31 2017,Limerick,0-3,?,Cork City
+Fri Mar 31 2017,Shamrock Rovers,3-2,?,Finn Harps
+Mon Apr 3 2017,Galway,1-1,?,Sligo Rovers
+Fri Apr 7 2017,Cork City,3-0,?,Derry City
+Fri Apr 7 2017,Bray,1-0,?,Galway
+Fri Apr 7 2017,Drogheda,2-1,?,Shamrock Rovers
+Fri Apr 7 2017,St. Patricks,0-2,?,Limerick
+Fri Apr 7 2017,Finn Harps,0-2,?,Dundalk
+Sat Apr 8 2017,Sligo Rovers,2-0,?,Bohemians
+Fri Apr 14 2017,Bohemians,0-2,?,Cork City
+Fri Apr 14 2017,Derry City,0-2,?,Finn Harps
+Fri Apr 14 2017,Dundalk,1-3,?,Bray
+Fri Apr 14 2017,Galway,1-1,?,St. Patricks
+Fri Apr 14 2017,Shamrock Rovers,1-0,?,Sligo Rovers
+Sat Apr 15 2017,Limerick,3-0,?,Drogheda
+Fri Apr 21 2017,Bray,4-2,?,Shamrock Rovers
+Fri Apr 21 2017,Dundalk,2-0,?,Bohemians
+Fri Apr 21 2017,Limerick,1-1,?,Galway
+Fri Apr 21 2017,St. Patricks,0-3,?,Cork City
+Fri Apr 21 2017,Finn Harps,0-2,?,Drogheda
+Sat Apr 22 2017,Sligo Rovers,1-1,?,Derry City
+Tue Apr 25 2017,Derry City,1-1,?,Limerick
+Fri Apr 28 2017,Bohemians,2-0,?,Finn Harps
+Fri Apr 28 2017,Cork City,2-1,?,Bray
+Fri Apr 28 2017,Derry City,2-2,?,St. Patricks
+Fri Apr 28 2017,Drogheda,1-1,?,Sligo Rovers
+Fri Apr 28 2017,Galway,2-1,?,Dundalk
+Fri Apr 28 2017,Shamrock Rovers,1-1,?,Limerick
+Fri May 5 2017,Bray,1-1,?,St. Patricks
+Fri May 5 2017,Cork City,5-0,?,Finn Harps
+Fri May 5 2017,Derry City,2-0,?,Bohemians
+Fri May 5 2017,Drogheda,2-2,?,Galway
+Fri May 5 2017,Shamrock Rovers,2-1,?,Dundalk
+Sat May 6 2017,Sligo Rovers,3-0,?,Limerick
+Mon May 8 2017,Galway,0-0,?,Derry City
+Fri May 12 2017,Bohemians,0-2,?,Shamrock Rovers
+Fri May 12 2017,Dundalk,4-0,?,Sligo Rovers
+Fri May 12 2017,Galway,1-1,?,Cork City
+Fri May 12 2017,St. Patricks,2-0,?,Drogheda
+Fri May 12 2017,Finn Harps,0-3,?,Bray
+Sat May 13 2017,Limerick,1-1,?,Derry City
+Fri May 19 2017,Bray,1-2,?,Bohemians
+Fri May 19 2017,Cork City,5-0,?,Drogheda
+Fri May 19 2017,Derry City,3-1,?,Shamrock Rovers
+Fri May 19 2017,Galway,2-1,?,Finn Harps
+Fri May 19 2017,Limerick,0-3,?,Dundalk
+Fri May 19 2017,St. Patricks,1-1,?,Sligo Rovers
+Mon May 22 2017,Sligo Rovers,1-2,?,Cork City
+Mon May 22 2017,Finn Harps,3-1,?,St. Patricks
+Mon May 22 2017,Shamrock Rovers,2-0,?,Galway
+Tue May 23 2017,Bohemians,1-2,?,Limerick
+Tue May 23 2017,Drogheda,0-0,?,Bray
+Tue May 23 2017,Dundalk,0-0,?,Derry City
+Fri May 26 2017,Bray,2-2,?,Sligo Rovers
+Fri May 26 2017,Cork City,4-1,?,Shamrock Rovers
+Fri May 26 2017,Drogheda,0-0,?,Derry City
+Fri May 26 2017,Galway,1-2,?,Bohemians
+Fri May 26 2017,St. Patricks,0-2,?,Dundalk
+Fri May 26 2017,Finn Harps,3-2,?,Limerick
+Tue May 30 2017,Shamrock Rovers,2-0,?,Bray
+Fri Jun 2 2017,Dundalk,0-3,?,Cork City
+Fri Jun 2 2017,Bohemians,0-0,?,Drogheda
+Fri Jun 2 2017,Derry City,2-1,?,Galway
+Fri Jun 2 2017,Limerick,5-3,?,Bray
+Fri Jun 2 2017,Sligo Rovers,0-0,?,Finn Harps
+Fri Jun 2 2017,Shamrock Rovers,1-1,?,St. Patricks
+Fri Jun 16 2017,Bray,3-2,?,Derry City
+Fri Jun 16 2017,Drogheda,0-6,?,Dundalk
+Fri Jun 16 2017,St. Patricks,1-3,?,Bohemians
+Fri Jun 16 2017,Cork City,4-1,?,Limerick
+Fri Jun 16 2017,Finn Harps,0-1,?,Shamrock Rovers
+Sat Jun 17 2017,Sligo Rovers,1-1,?,Galway
+Fri Jun 23 2017,Bohemians,2-0,?,Sligo Rovers
+Fri Jun 23 2017,Derry City,1-2,?,Cork City
+Fri Jun 23 2017,Galway,1-2,?,Bray
+Fri Jun 23 2017,Dundalk,4-0,?,Finn Harps
+Fri Jun 23 2017,Shamrock Rovers,4-1,?,Drogheda
+Sat Jun 24 2017,Limerick,2-2,?,St. Patricks
+Mon Jun 26 2017,Dundalk,2-0,?,Galway
+Fri Jun 30 2017,Bray,0-3,?,Dundalk
+Fri Jun 30 2017,Drogheda,0-2,?,Limerick
+Fri Jun 30 2017,St. Patricks,1-1,?,Galway
+Sun Jul 2 2017,Sligo Rovers,1-0,?,Shamrock Rovers
+Wed Jul 5 2017,Bohemians,0-1,?,Dundalk
+Fri Jul 7 2017,Drogheda,0-2,?,Finn Harps
+Fri Jul 7 2017,Galway,3-1,?,Limerick
+Sun Jul 9 2017,Cork City,1-0,?,St. Patricks
+Sun Jul 9 2017,Derry City,4-0,?,Sligo Rovers
+Fri Jul 14 2017,St. Patricks,2-1,?,Derry City
+Fri Jul 14 2017,Finn Harps,2-1,?,Bohemians
+Sat Jul 15 2017,Sligo Rovers,1-1,?,Drogheda
+Sun Jul 16 2017,Bray,0-2,?,Cork City
+Fri Jul 21 2017,Bohemians,0-1,?,Derry City
+Fri Jul 21 2017,Galway,4-1,?,Drogheda
+Fri Jul 21 2017,St. Patricks,3-1,?,Bray
+Sat Jul 22 2017,Limerick,0-0,?,Sligo Rovers
+Sun Jul 23 2017,Dundalk,0-1,?,Shamrock Rovers
+Mon Jul 24 2017,Finn Harps,0-2,?,Derry City
+Fri Jul 28 2017,Bray,2-3,?,Finn Harps
+Fri Jul 28 2017,Cork City,2-1,?,Galway
+Fri Jul 28 2017,Drogheda,0-1,?,St. Patricks
+Fri Jul 28 2017,Shamrock Rovers,1-2,?,Bohemians
+Sat Jul 29 2017,Sligo Rovers,1-1,?,Dundalk
+Sun Jul 30 2017,Derry City,3-0,?,Limerick
+Mon Jul 31 2017,Cork City,0-1,?,Bohemians
+Fri Aug 4 2017,Bohemians,0-0,?,Bray
+Fri Aug 4 2017,Drogheda,0-1,?,Cork City
+Fri Aug 4 2017,Dundalk,3-0,?,Limerick
+Fri Aug 4 2017,Finn Harps,1-3,?,Galway
+Fri Aug 4 2017,Shamrock Rovers,0-2,?,Derry City
+Sat Aug 5 2017,Sligo Rovers,1-1,?,St. Patricks
+Tue Aug 15 2017,Limerick,0-2,?,Shamrock Rovers
+Tue Aug 15 2017,Sligo Rovers,0-0,?,Bray
+Fri Aug 18 2017,Cork City,0-1,?,Sligo Rovers
+Fri Aug 18 2017,Bray,2-1,?,Drogheda
+Fri Aug 18 2017,Galway,1-2,?,Shamrock Rovers
+Fri Aug 18 2017,St. Patricks,4-0,?,Finn Harps
+Sat Aug 19 2017,Limerick,1-0,?,Bohemians
+Sun Aug 20 2017,Derry City,0-4,?,Dundalk
+Mon Aug 21 2017,Finn Harps,0-1,?,Cork City
+Fri Sep 1 2017,Bohemians,1-1,?,Galway
+Fri Sep 1 2017,Dundalk,6-0,?,St. Patricks
+Fri Sep 1 2017,Limerick,0-2,?,Finn Harps
+Fri Sep 1 2017,Shamrock Rovers,3-1,?,Cork City
+Fri Sep 15 2017,Bray,1-1,?,Limerick
+Fri Sep 15 2017,Drogheda,1-4,?,Bohemians
+Fri Sep 15 2017,Galway,2-1,?,Derry City
+Sat Sep 16 2017,Finn Harps,1-2,?,Sligo Rovers
+Fri Sep 22 2017,Bohemians,3-2,?,St. Patricks
+Fri Sep 22 2017,Derry City,0-5,?,Bray
+Fri Sep 22 2017,Dundalk,3-0,?,Drogheda
+Fri Sep 22 2017,Galway,3-1,?,Sligo Rovers
+Fri Sep 22 2017,Limerick,2-1,?,Cork City
+Fri Sep 22 2017,Shamrock Rovers,4-1,?,Finn Harps
+Mon Sep 25 2017,Cork City,1-1,?,Dundalk
+Mon Sep 25 2017,St. Patricks,2-0,?,Shamrock Rovers
+Fri Sep 29 2017,Derry City,2-1,?,Drogheda
+Sat Oct 7 2017,Bray,3-3,?,Galway
+Sat Oct 7 2017,Drogheda,0-2,?,Shamrock Rovers
+Sat Oct 7 2017,Finn Harps,0-2,?,Dundalk
+Sat Oct 7 2017,Sligo Rovers,1-0,?,Bohemians
+Sat Oct 7 2017,St. Patricks,2-2,?,Limerick
+Fri Oct 13 2017,Bohemians,0-0,?,Cork City
+Fri Oct 13 2017,Derry City,3-0,?,Finn Harps
+Fri Oct 13 2017,Dundalk,1-0,?,Bray
+Fri Oct 13 2017,Galway,1-1,?,St. Patricks
+Fri Oct 13 2017,Shamrock Rovers,1-1,?,Sligo Rovers
+Sat Oct 14 2017,Limerick,1-0,?,Drogheda
+Tue Oct 17 2017,Cork City,0-0,?,Derry City
+Fri Oct 20 2017,Bray,1-0,?,Shamrock Rovers
+Fri Oct 20 2017,Dundalk,0-1,?,Bohemians
+Fri Oct 20 2017,Limerick,2-2,?,Galway
+Fri Oct 20 2017,St. Patricks,4-2,?,Cork City
+Sat Oct 21 2017,Sligo Rovers,3-0,?,Derry City
+Mon Oct 23 2017,Finn Harps,2-3,?,Drogheda
+Fri Oct 27 2017,Bohemians,3-1,?,Finn Harps
+Fri Oct 27 2017,Cork City,1-0,?,Bray
+Fri Oct 27 2017,Derry City,1-1,?,St. Patricks
+Fri Oct 27 2017,Drogheda,0-0,?,Sligo Rovers
+Fri Oct 27 2017,Galway,3-4,?,Dundalk
+Fri Oct 27 2017,Shamrock Rovers,2-1,?,Limerick

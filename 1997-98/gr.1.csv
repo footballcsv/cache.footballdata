@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Sun Aug 31 1997,Apollon,0-2,?,Ionikos
+Sun Aug 31 1997,Olympiakos,3-1,?,Ethnikos Piraeus
+Sun Aug 31 1997,Panahaiki,0-1,?,Heracles
+Sun Aug 31 1997,Panionios,0-3,?,Panathinaikos
+Sun Aug 31 1997,PAOK,0-0,?,AEK
+Sun Aug 31 1997,Proodeytiki,3-0,?,Athinaikos
+Sun Aug 31 1997,Veroia,4-2,?,Kavala
+Sun Aug 31 1997,Xanthi,2-1,?,OFI
+Mon Sep 1 1997,Kalamata,1-2,?,Paniliakos
+Sun Sep 14 1997,AEK,2-1,?,Proodeytiki
+Sun Sep 14 1997,Athinaikos,1-2,?,Olympiakos
+Sun Sep 14 1997,Ethnikos Piraeus,2-0,?,Kavala
+Sun Sep 14 1997,Heracles,3-0,?,Veroia
+Sun Sep 14 1997,Ionikos,5-0,?,Panahaiki
+Sun Sep 14 1997,OFI,2-1,?,PAOK
+Sun Sep 14 1997,Xanthi,1-1,?,Kalamata
+Mon Sep 15 1997,Panathinaikos,1-0,?,Apollon
+Mon Sep 15 1997,Paniliakos,0-2,?,Panionios
+Sun Sep 21 1997,Apollon,2-0,?,Paniliakos
+Sun Sep 21 1997,Ethnikos Piraeus,0-1,?,Heracles
+Sun Sep 21 1997,Kalamata,0-0,?,Panionios
+Sun Sep 21 1997,Kavala,1-0,?,Athinaikos
+Sun Sep 21 1997,Panahaiki,0-1,?,Panathinaikos
+Sun Sep 21 1997,PAOK,1-1,?,Xanthi
+Sun Sep 21 1997,Proodeytiki,2-2,?,OFI
+Sun Sep 21 1997,Veroia,0-1,?,Ionikos
+Mon Sep 22 1997,Olympiakos,0-1,?,AEK
+Sun Sep 28 1997,AEK,1-0,?,Kavala
+Sun Sep 28 1997,Athinaikos,0-0,?,Heracles
+Sun Sep 28 1997,Ionikos,1-0,?,Ethnikos Piraeus
+Sun Sep 28 1997,OFI,2-3,?,Olympiakos
+Sun Sep 28 1997,Panathinaikos,2-0,?,Veroia
+Sun Sep 28 1997,Panionios,1-3,?,Apollon
+Sun Sep 28 1997,PAOK,4-0,?,Kalamata
+Sun Sep 28 1997,Xanthi,4-0,?,Proodeytiki
+Wed Oct 1 1997,Paniliakos,2-0,?,Panahaiki
+Sun Oct 5 1997,Athinaikos,0-1,?,Ionikos
+Sun Oct 5 1997,Ethnikos Piraeus,0-2,?,Panathinaikos
+Sun Oct 5 1997,Kalamata,0-1,?,Apollon
+Sun Oct 5 1997,Kavala,3-3,?,OFI
+Sun Oct 5 1997,Olympiakos,6-1,?,Xanthi
+Sun Oct 5 1997,Panahaiki,3-2,?,Panionios
+Sun Oct 5 1997,Proodeytiki,3-3,?,PAOK
+Sun Oct 5 1997,Veroia,3-1,?,Paniliakos
+Tue Oct 7 1997,Heracles,1-4,?,AEK
+Sun Oct 19 1997,AEK,0-2,?,Ionikos
+Sun Oct 19 1997,Apollon,2-1,?,Panahaiki
+Sun Oct 19 1997,OFI,1-0,?,Heracles
+Sun Oct 19 1997,Paniliakos,2-0,?,Ethnikos Piraeus
+Sun Oct 19 1997,Panionios,3-1,?,Veroia
+Sun Oct 19 1997,PAOK,2-1,?,Olympiakos
+Sun Oct 19 1997,Proodeytiki,1-0,?,Kalamata
+Sun Oct 19 1997,Xanthi,5-2,?,Kavala
+Mon Oct 20 1997,Panathinaikos,4-1,?,Athinaikos
+Sun Oct 26 1997,AEK,2-1,?,Panathinaikos
+Sun Oct 26 1997,Athinaikos,4-3,?,Paniliakos
+Sun Oct 26 1997,Ethnikos Piraeus,1-0,?,Panionios
+Sun Oct 26 1997,Heracles,2-0,?,Xanthi
+Sun Oct 26 1997,Ionikos,5-0,?,OFI
+Sun Oct 26 1997,Kalamata,0-1,?,Panahaiki
+Sun Oct 26 1997,Kavala,0-1,?,PAOK
+Sun Oct 26 1997,Olympiakos,3-0,?,Proodeytiki
+Sun Oct 26 1997,Veroia,1-1,?,Apollon
+Sun Nov 2 1997,Apollon,1-0,?,Ethnikos Piraeus
+Sun Nov 2 1997,OFI,0-3,?,Panathinaikos
+Sun Nov 2 1997,Olympiakos,3-0,?,Kalamata
+Sun Nov 2 1997,Panahaiki,2-1,?,Veroia
+Sun Nov 2 1997,Paniliakos,2-4,?,AEK
+Sun Nov 2 1997,Panionios,1-0,?,Athinaikos
+Sun Nov 2 1997,PAOK,2-2,?,Heracles
+Sun Nov 2 1997,Proodeytiki,1-1,?,Kavala
+Sun Nov 2 1997,Xanthi,4-2,?,Ionikos
+Sun Nov 9 1997,AEK,2-0,?,Panionios
+Sun Nov 9 1997,Athinaikos,0-0,?,Apollon
+Sun Nov 9 1997,Ethnikos Piraeus,0-0,?,Panahaiki
+Sun Nov 9 1997,Heracles,1-0,?,Proodeytiki
+Sun Nov 9 1997,Ionikos,3-2,?,PAOK
+Sun Nov 9 1997,Kalamata,1-0,?,Veroia
+Sun Nov 9 1997,Kavala,0-1,?,Olympiakos
+Sun Nov 9 1997,OFI,3-2,?,Paniliakos
+Sun Nov 9 1997,Panathinaikos,4-1,?,Xanthi
+Sun Nov 16 1997,Apollon,3-4,?,AEK
+Sun Nov 16 1997,Kavala,5-1,?,Kalamata
+Sun Nov 16 1997,Olympiakos,5-2,?,Heracles
+Sun Nov 16 1997,Panahaiki,4-1,?,Athinaikos
+Sun Nov 16 1997,Paniliakos,4-3,?,Xanthi
+Sun Nov 16 1997,Panionios,3-0,?,OFI
+Sun Nov 16 1997,PAOK,2-1,?,Panathinaikos
+Sun Nov 16 1997,Veroia,3-0,?,Ethnikos Piraeus
+Mon Nov 17 1997,Proodeytiki,1-0,?,Ionikos
+Sun Nov 23 1997,AEK,5-1,?,Panahaiki
+Sun Nov 23 1997,Athinaikos,1-0,?,Veroia
+Sun Nov 23 1997,Heracles,3-2,?,Kavala
+Sun Nov 23 1997,Ionikos,0-1,?,Olympiakos
+Sun Nov 23 1997,Kalamata,0-1,?,Ethnikos Piraeus
+Sun Nov 23 1997,OFI,2-1,?,Apollon
+Sun Nov 23 1997,Panathinaikos,5-0,?,Proodeytiki
+Sun Nov 23 1997,Paniliakos,1-2,?,PAOK
+Sun Nov 23 1997,Xanthi,2-0,?,Panionios
+Sat Nov 29 1997,Heracles,2-1,?,Kalamata
+Sat Nov 29 1997,Veroia,1-2,?,AEK
+Sun Nov 30 1997,Apollon,1-2,?,Xanthi
+Sun Nov 30 1997,Ethnikos Piraeus,1-0,?,Athinaikos
+Sun Nov 30 1997,Kavala,2-3,?,Ionikos
+Sun Nov 30 1997,Panahaiki,0-2,?,OFI
+Sun Nov 30 1997,Panionios,0-3,?,PAOK
+Sun Nov 30 1997,Proodeytiki,0-1,?,Paniliakos
+Mon Dec 1 1997,Olympiakos,3-1,?,Panathinaikos
+Sun Dec 7 1997,AEK,2-1,?,Ethnikos Piraeus
+Sun Dec 7 1997,Ionikos,1-0,?,Heracles
+Sun Dec 7 1997,Kalamata,2-0,?,Athinaikos
+Sun Dec 7 1997,OFI,3-0,?,Veroia
+Sun Dec 7 1997,Panathinaikos,4-1,?,Kavala
+Sun Dec 7 1997,Paniliakos,1-1,?,Olympiakos
+Sun Dec 7 1997,Panionios,4-0,?,Proodeytiki
+Sun Dec 7 1997,PAOK,1-0,?,Apollon
+Mon Dec 8 1997,Xanthi,0-1,?,Panahaiki
+Sun Dec 14 1997,Apollon,1-0,?,Proodeytiki
+Sun Dec 14 1997,Athinaikos,0-1,?,AEK
+Sun Dec 14 1997,Ethnikos Piraeus,0-1,?,OFI
+Sun Dec 14 1997,Heracles,0-1,?,Panathinaikos
+Sun Dec 14 1997,Kavala,1-1,?,Paniliakos
+Sun Dec 14 1997,Olympiakos,2-0,?,Panionios
+Sun Dec 14 1997,Panahaiki,1-4,?,PAOK
+Sun Dec 14 1997,Veroia,2-1,?,Xanthi
+Sun Dec 21 1997,Apollon,0-5,?,Olympiakos
+Sun Dec 21 1997,Kalamata,1-2,?,AEK
+Sun Dec 21 1997,OFI,1-1,?,Athinaikos
+Sun Dec 21 1997,Panathinaikos,5-1,?,Ionikos
+Sun Dec 21 1997,Paniliakos,1-1,?,Heracles
+Sun Dec 21 1997,Panionios,3-0,?,Kavala
+Sun Dec 21 1997,PAOK,3-1,?,Veroia
+Sun Dec 21 1997,Proodeytiki,1-0,?,Panahaiki
+Sun Dec 21 1997,Xanthi,3-0,?,Ethnikos Piraeus
+Sun Dec 28 1997,Ionikos,0-0,?,Kalamata
+Sun Jan 4 1998,AEK,3-0,?,OFI
+Sun Jan 4 1998,Athinaikos,4-1,?,Xanthi
+Sun Jan 4 1998,Ethnikos Piraeus,0-1,?,PAOK
+Sun Jan 4 1998,Heracles,1-0,?,Panionios
+Sun Jan 4 1998,Ionikos,0-0,?,Paniliakos
+Sun Jan 4 1998,Kavala,0-2,?,Apollon
+Sun Jan 4 1998,Panahaiki,1-2,?,Olympiakos
+Sun Jan 4 1998,Panathinaikos,1-0,?,Kalamata
+Sun Jan 4 1998,Veroia,2-2,?,Proodeytiki
+Sat Jan 10 1998,Panahaiki,2-0,?,Kavala
+Sun Jan 11 1998,Apollon,0-0,?,Heracles
+Sun Jan 11 1998,Kalamata,1-0,?,OFI
+Sun Jan 11 1998,Olympiakos,4-1,?,Veroia
+Sun Jan 11 1998,Paniliakos,0-0,?,Panathinaikos
+Sun Jan 11 1998,Panionios,2-2,?,Ionikos
+Sun Jan 11 1998,PAOK,1-0,?,Athinaikos
+Sun Jan 11 1998,Proodeytiki,2-3,?,Ethnikos Piraeus
+Mon Jan 12 1998,Xanthi,0-0,?,AEK
+Sun Jan 18 1998,AEK,3-0,?,PAOK
+Sun Jan 18 1998,Athinaikos,1-0,?,Proodeytiki
+Sun Jan 18 1998,Ethnikos Piraeus,1-3,?,Olympiakos
+Sun Jan 18 1998,Heracles,3-1,?,Panahaiki
+Sun Jan 18 1998,Ionikos,1-1,?,Apollon
+Sun Jan 18 1998,Kavala,0-1,?,Veroia
+Sun Jan 18 1998,OFI,2-1,?,Xanthi
+Sun Jan 18 1998,Panathinaikos,2-1,?,Panionios
+Sun Jan 18 1998,Paniliakos,1-1,?,Kalamata
+Sat Jan 24 1998,Apollon,2-5,?,Panathinaikos
+Sun Jan 25 1998,Kalamata,1-2,?,Xanthi
+Sun Jan 25 1998,Kavala,2-1,?,Ethnikos Piraeus
+Sun Jan 25 1998,Olympiakos,4-0,?,Athinaikos
+Sun Jan 25 1998,Panahaiki,0-1,?,Ionikos
+Sun Jan 25 1998,Panionios,3-1,?,Paniliakos
+Sun Jan 25 1998,PAOK,1-0,?,OFI
+Sun Jan 25 1998,Proodeytiki,3-2,?,AEK
+Sun Jan 25 1998,Veroia,0-1,?,Heracles
+Sun Feb 1 1998,Athinaikos,0-0,?,Kavala
+Sun Feb 1 1998,Heracles,3-2,?,Ethnikos Piraeus
+Sun Feb 1 1998,Ionikos,1-1,?,Veroia
+Sun Feb 1 1998,OFI,3-0,?,Proodeytiki
+Sun Feb 1 1998,Panathinaikos,6-1,?,Panahaiki
+Sun Feb 1 1998,Paniliakos,3-0,?,Apollon
+Sun Feb 1 1998,Panionios,1-2,?,Kalamata
+Sun Feb 1 1998,Xanthi,2-2,?,PAOK
+Mon Feb 2 1998,AEK,1-0,?,Olympiakos
+Sat Feb 7 1998,Veroia,0-3,?,Panathinaikos
+Sun Feb 8 1998,Apollon,0-0,?,Panionios
+Sun Feb 8 1998,Ethnikos Piraeus,0-1,?,Ionikos
+Sun Feb 8 1998,Heracles,4-0,?,Athinaikos
+Sun Feb 8 1998,Kalamata,1-1,?,PAOK
+Sun Feb 8 1998,Kavala,1-1,?,AEK
+Sun Feb 8 1998,Panahaiki,0-4,?,Paniliakos
+Sun Feb 8 1998,Proodeytiki,0-3,?,Xanthi
+Mon Feb 9 1998,Olympiakos,1-0,?,OFI
+Sat Feb 14 1998,Apollon,1-0,?,Kalamata
+Sun Feb 15 1998,AEK,2-2,?,Heracles
+Sun Feb 15 1998,Ionikos,1-0,?,Athinaikos
+Sun Feb 15 1998,OFI,3-0,?,Kavala
+Sun Feb 15 1998,Panathinaikos,4-2,?,Ethnikos Piraeus
+Sun Feb 15 1998,Paniliakos,0-0,?,Veroia
+Sun Feb 15 1998,Panionios,1-0,?,Panahaiki
+Sun Feb 15 1998,PAOK,3-1,?,Proodeytiki
+Sun Feb 15 1998,Xanthi,0-4,?,Olympiakos
+Sat Feb 21 1998,Athinaikos,0-3,?,Panathinaikos
+Sun Feb 22 1998,Ethnikos Piraeus,1-0,?,Paniliakos
+Sun Feb 22 1998,Heracles,3-1,?,OFI
+Sun Feb 22 1998,Kalamata,3-1,?,Proodeytiki
+Sun Feb 22 1998,Kavala,2-0,?,Xanthi
+Sun Feb 22 1998,Olympiakos,2-0,?,PAOK
+Sun Feb 22 1998,Panahaiki,1-0,?,Apollon
+Sun Feb 22 1998,Veroia,4-0,?,Panionios
+Mon Feb 23 1998,Ionikos,1-1,?,AEK
+Sat Feb 28 1998,Panahaiki,1-1,?,Kalamata
+Sat Feb 28 1998,Xanthi,0-0,?,Heracles
+Sun Mar 1 1998,Apollon,0-1,?,Veroia
+Sun Mar 1 1998,OFI,0-2,?,Ionikos
+Sun Mar 1 1998,Panathinaikos,0-1,?,AEK
+Sun Mar 1 1998,Paniliakos,1-1,?,Athinaikos
+Sun Mar 1 1998,Panionios,5-1,?,Ethnikos Piraeus
+Sun Mar 1 1998,PAOK,2-0,?,Kavala
+Mon Mar 2 1998,Proodeytiki,0-1,?,Olympiakos
+Sat Mar 7 1998,Veroia,0-0,?,Panahaiki
+Sun Mar 8 1998,Athinaikos,3-0,?,Panionios
+Sun Mar 8 1998,Ethnikos Piraeus,2-0,?,Apollon
+Sun Mar 8 1998,Heracles,2-3,?,PAOK
+Sun Mar 8 1998,Ionikos,1-0,?,Xanthi
+Sun Mar 8 1998,Kalamata,0-4,?,Olympiakos
+Sun Mar 8 1998,Kavala,0-2,?,Proodeytiki
+Sun Mar 8 1998,Panathinaikos,6-2,?,OFI
+Mon Mar 9 1998,AEK,1-2,?,Paniliakos
+Sat Mar 14 1998,Panionios,0-1,?,AEK
+Sun Mar 15 1998,Apollon,2-0,?,Athinaikos
+Sun Mar 15 1998,Olympiakos,4-2,?,Kavala
+Sun Mar 15 1998,Panahaiki,1-0,?,Ethnikos Piraeus
+Sun Mar 15 1998,Paniliakos,2-0,?,OFI
+Sun Mar 15 1998,PAOK,3-1,?,Ionikos
+Sun Mar 15 1998,Proodeytiki,4-4,?,Heracles
+Sun Mar 15 1998,Veroia,2-0,?,Kalamata
+Sun Mar 15 1998,Xanthi,1-3,?,Panathinaikos
+Sun Mar 22 1998,Athinaikos,3-2,?,Panahaiki
+Sun Mar 22 1998,Ethnikos Piraeus,0-1,?,Veroia
+Sun Mar 22 1998,Heracles,0-2,?,Olympiakos
+Sun Mar 22 1998,Ionikos,1-0,?,Proodeytiki
+Sun Mar 22 1998,Kalamata,0-2,?,Kavala
+Sun Mar 22 1998,OFI,3-0,?,Panionios
+Sun Mar 22 1998,Panathinaikos,3-1,?,PAOK
+Sun Mar 22 1998,Xanthi,2-0,?,Paniliakos
+Mon Mar 23 1998,AEK,1-0,?,Apollon
+Sun Mar 29 1998,Apollon,3-0,?,OFI
+Sun Mar 29 1998,Ethnikos Piraeus,2-2,?,Kalamata
+Sun Mar 29 1998,Kavala,2-0,?,Heracles
+Sun Mar 29 1998,Olympiakos,2-0,?,Ionikos
+Sun Mar 29 1998,Panahaiki,0-0,?,AEK
+Sun Mar 29 1998,Panionios,1-1,?,Xanthi
+Sun Mar 29 1998,PAOK,3-2,?,Paniliakos
+Sun Mar 29 1998,Proodeytiki,0-1,?,Panathinaikos
+Sun Mar 29 1998,Veroia,0-0,?,Athinaikos
+Sat Apr 4 1998,Panathinaikos,0-2,?,Olympiakos
+Sun Apr 5 1998,AEK,1-2,?,Veroia
+Sun Apr 5 1998,Athinaikos,1-1,?,Ethnikos Piraeus
+Sun Apr 5 1998,Ionikos,2-0,?,Kavala
+Sun Apr 5 1998,Kalamata,3-1,?,Heracles
+Sun Apr 5 1998,OFI,1-0,?,Panahaiki
+Sun Apr 5 1998,Paniliakos,0-1,?,Proodeytiki
+Sun Apr 5 1998,PAOK,6-1,?,Panionios
+Sun Apr 5 1998,Xanthi,1-0,?,Apollon
+Sun Apr 12 1998,Apollon,4-4,?,PAOK
+Sun Apr 12 1998,Athinaikos,0-0,?,Kalamata
+Sun Apr 12 1998,Ethnikos Piraeus,1-3,?,AEK
+Sun Apr 12 1998,Heracles,1-1,?,Ionikos
+Sun Apr 12 1998,Kavala,0-4,?,Panathinaikos
+Sun Apr 12 1998,Olympiakos,4-2,?,Paniliakos
+Sun Apr 12 1998,Panahaiki,2-1,?,Xanthi
+Sun Apr 12 1998,Proodeytiki,1-1,?,Panionios
+Sun Apr 12 1998,Veroia,3-0,?,OFI
+Sun May 3 1998,AEK,1-1,?,Athinaikos
+Sun May 3 1998,Kalamata,2-0,?,Ionikos
+Sun May 3 1998,OFI,3-0,?,Ethnikos Piraeus
+Sun May 3 1998,Panathinaikos,1-0,?,Heracles
+Sun May 3 1998,Paniliakos,0-2,?,Kavala
+Sun May 3 1998,PAOK,4-1,?,Panahaiki
+Sun May 3 1998,Proodeytiki,1-0,?,Apollon
+Sun May 3 1998,Xanthi,4-0,?,Veroia
+Mon May 4 1998,Panionios,1-2,?,Olympiakos
+Sun May 10 1998,AEK,4-2,?,Kalamata
+Sun May 10 1998,Athinaikos,0-2,?,OFI
+Sun May 10 1998,Heracles,0-0,?,Paniliakos
+Sun May 10 1998,Ionikos,0-1,?,Panathinaikos
+Sun May 10 1998,Kavala,1-0,?,Panionios
+Sun May 10 1998,Olympiakos,5-3,?,Apollon
+Sun May 10 1998,Panahaiki,1-1,?,Proodeytiki
+Sun May 10 1998,Veroia,1-3,?,PAOK
+Mon May 11 1998,Ethnikos Piraeus,1-0,?,Xanthi
+Wed May 13 1998,Apollon,1-2,?,Kavala
+Wed May 13 1998,Kalamata,0-2,?,Panathinaikos
+Wed May 13 1998,OFI,1-1,?,AEK
+Wed May 13 1998,Olympiakos,3-1,?,Panahaiki
+Wed May 13 1998,Paniliakos,0-1,?,Ionikos
+Wed May 13 1998,Panionios,3-1,?,Heracles
+Wed May 13 1998,PAOK,0-1,?,Ethnikos Piraeus
+Wed May 13 1998,Proodeytiki,3-0,?,Veroia
+Wed May 13 1998,Xanthi,3-0,?,Athinaikos
+Sun May 17 1998,AEK,2-0,?,Xanthi
+Sun May 17 1998,Athinaikos,0-5,?,PAOK
+Sun May 17 1998,Ethnikos Piraeus,1-0,?,Proodeytiki
+Sun May 17 1998,Heracles,4-2,?,Apollon
+Sun May 17 1998,Ionikos,2-2,?,Panionios
+Sun May 17 1998,Kavala,4-0,?,Panahaiki
+Sun May 17 1998,OFI,1-0,?,Kalamata
+Sun May 17 1998,Panathinaikos,7-0,?,Paniliakos
+Mon May 18 1998,Veroia,2-0,?,Olympiakos

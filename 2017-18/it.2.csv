@@ -1,0 +1,463 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 25 2017,Parma,1-0,1-0,Cremonese
+Sat Aug 26 2017,Avellino,2-1,0-1,Brescia
+Sat Aug 26 2017,Carpi,1-0,1-0,Novara
+Sat Aug 26 2017,Cittadella,3-2,3-1,Ascoli
+Sat Aug 26 2017,Palermo,2-0,1-0,Spezia
+Sat Aug 26 2017,Pro Vercelli,0-2,0-1,Frosinone
+Sat Aug 26 2017,Ternana,1-1,1-1,Empoli
+Sat Aug 26 2017,Venezia,0-0,0-0,Salernitana
+Sat Aug 26 2017,Virtus Entella,1-5,1-4,Perugia
+Sun Aug 27 2017,Pescara,5-1,1-0,Foggia
+Mon Aug 28 2017,Bari,3-0,1-0,Cesena
+Sat Sep 2 2017,Brescia,0-0,0-0,Palermo
+Sun Sep 3 2017,Ascoli,1-0,1-0,Pro Vercelli
+Sun Sep 3 2017,Cesena,0-0,0-0,Venezia
+Sun Sep 3 2017,Cremonese,3-1,2-1,Avellino
+Sun Sep 3 2017,Empoli,3-2,2-1,Bari
+Sun Sep 3 2017,Foggia,1-1,1-1,Virtus Entella
+Sun Sep 3 2017,Frosinone,2-1,2-1,Cittadella
+Sun Sep 3 2017,Novara,0-1,0-1,Parma
+Sun Sep 3 2017,Perugia,4-2,2-0,Pescara
+Sun Sep 3 2017,Spezia,0-1,0-1,Carpi
+Mon Sep 4 2017,Salernitana,3-3,1-2,Ternana
+Fri Sep 8 2017,Pescara,3-3,3-0,Frosinone
+Sat Sep 9 2017,Ascoli,1-2,1-1,Novara
+Sat Sep 9 2017,Avellino,5-1,3-1,Foggia
+Sat Sep 9 2017,Bari,0-2,0-1,Venezia
+Sat Sep 9 2017,Carpi,1-0,1-0,Salernitana
+Sat Sep 9 2017,Palermo,3-3,2-1,Empoli
+Sat Sep 9 2017,Pro Vercelli,1-4,0-2,Cremonese
+Sat Sep 9 2017,Spezia,2-1,1-0,Virtus Entella
+Sat Sep 9 2017,Ternana,1-0,1-0,Cesena
+Sun Sep 10 2017,Parma,0-1,0-0,Brescia
+Mon Sep 11 2017,Cittadella,1-1,0-1,Perugia
+Fri Sep 15 2017,Cesena,3-1,2-0,Avellino
+Fri Sep 15 2017,Venezia,0-0,0-0,Spezia
+Sat Sep 16 2017,Brescia,0-0,0-0,Pro Vercelli
+Sat Sep 16 2017,Cremonese,1-1,1-1,Carpi
+Sat Sep 16 2017,Empoli,3-0,1-0,Ascoli
+Sat Sep 16 2017,Foggia,1-1,1-0,Palermo
+Sat Sep 16 2017,Frosinone,3-2,2-2,Bari
+Sat Sep 16 2017,Novara,1-0,0-0,Cittadella
+Sat Sep 16 2017,Perugia,3-0,1-0,Parma
+Sat Sep 16 2017,Salernitana,2-2,0-1,Pescara
+Sat Sep 16 2017,Virtus Entella,3-1,1-1,Ternana
+Mon Sep 18 2017,Avellino,1-1,0-0,Venezia
+Tue Sep 19 2017,Ascoli,0-1,0-0,Frosinone
+Tue Sep 19 2017,Bari,1-0,0-0,Cremonese
+Tue Sep 19 2017,Carpi,1-3,1-0,Foggia
+Tue Sep 19 2017,Cittadella,4-0,3-0,Cesena
+Tue Sep 19 2017,Palermo,1-0,0-0,Perugia
+Tue Sep 19 2017,Parma,1-2,0-1,Empoli
+Tue Sep 19 2017,Pescara,2-2,1-0,Virtus Entella
+Tue Sep 19 2017,Pro Vercelli,1-1,1-0,Salernitana
+Tue Sep 19 2017,Spezia,1-0,1-0,Novara
+Sat Sep 23 2017,Bari,3-0,2-0,Ternana
+Sat Sep 23 2017,Brescia,2-2,1-0,Foggia
+Sat Sep 23 2017,Cremonese,0-0,0-0,Pescara
+Sat Sep 23 2017,Empoli,0-1,0-1,Cittadella
+Sat Sep 23 2017,Novara,1-2,0-2,Avellino
+Sat Sep 23 2017,Perugia,1-0,1-0,Frosinone
+Sat Sep 23 2017,Salernitana,2-0,1-0,Spezia
+Sat Sep 23 2017,Venezia,0-1,0-0,Parma
+Sat Sep 23 2017,Virtus Entella,0-0,0-0,Carpi
+Sun Sep 24 2017,Cesena,0-2,0-0,Ascoli
+Mon Sep 25 2017,Palermo,2-1,1-1,Pro Vercelli
+Fri Sep 29 2017,Parma,2-2,2-0,Salernitana
+Sat Sep 30 2017,Ascoli,0-0,0-0,Palermo
+Sat Sep 30 2017,Avellino,3-2,0-1,Empoli
+Sat Sep 30 2017,Brescia,2-1,0-0,Perugia
+Sat Sep 30 2017,Carpi,0-1,0-1,Pescara
+Sat Sep 30 2017,Cittadella,0-1,0-1,Virtus Entella
+Sat Sep 30 2017,Pro Vercelli,5-2,1-2,Cesena
+Sat Sep 30 2017,Spezia,1-0,0-0,Bari
+Sat Sep 30 2017,Ternana,2-3,0-1,Venezia
+Sun Oct 1 2017,Foggia,2-2,1-1,Novara
+Mon Oct 2 2017,Frosinone,0-0,0-0,Cremonese
+Tue Oct 3 2017,Ternana,1-1,1-1,Brescia
+Sat Oct 7 2017,Cesena,1-0,1-0,Spezia
+Sat Oct 7 2017,Salernitana,0-0,0-0,Ascoli
+Sun Oct 8 2017,Bari,2-1,0-0,Avellino
+Sun Oct 8 2017,Cremonese,3-3,1-3,Ternana
+Sun Oct 8 2017,Empoli,3-1,0-0,Foggia
+Sun Oct 8 2017,Novara,2-1,0-0,Frosinone
+Sun Oct 8 2017,Palermo,1-1,1-0,Parma
+Sun Oct 8 2017,Perugia,1-5,0-1,Pro Vercelli
+Sun Oct 8 2017,Pescara,1-2,1-2,Cittadella
+Sun Oct 8 2017,Venezia,2-0,1-0,Carpi
+Sun Oct 8 2017,Virtus Entella,3-0,1-0,Brescia
+Fri Oct 13 2017,Foggia,2-1,2-1,Perugia
+Sat Oct 14 2017,Ascoli,3-3,0-1,Venezia
+Sat Oct 14 2017,Brescia,0-1,0-0,Novara
+Sat Oct 14 2017,Carpi,2-1,2-0,Cesena
+Sat Oct 14 2017,Cittadella,1-2,0-0,Cremonese
+Sat Oct 14 2017,Frosinone,0-0,0-0,Palermo
+Sat Oct 14 2017,Parma,0-1,0-0,Pescara
+Sat Oct 14 2017,Pro Vercelli,2-2,1-0,Bari
+Sat Oct 14 2017,Ternana,4-2,2-2,Spezia
+Sun Oct 15 2017,Avellino,2-3,0-0,Salernitana
+Mon Oct 16 2017,Virtus Entella,2-3,0-2,Empoli
+Fri Oct 20 2017,Bari,4-2,1-1,Cittadella
+Fri Oct 20 2017,Cremonese,2-0,1-0,Brescia
+Sat Oct 21 2017,Cesena,3-3,0-0,Foggia
+Sat Oct 21 2017,Palermo,0-2,0-0,Novara
+Sat Oct 21 2017,Parma,3-1,1-0,Virtus Entella
+Sat Oct 21 2017,Pescara,2-1,1-1,Avellino
+Sat Oct 21 2017,Pro Vercelli,0-0,0-0,Carpi
+Sat Oct 21 2017,Salernitana,1-1,1-0,Frosinone
+Sat Oct 21 2017,Spezia,4-2,2-1,Perugia
+Sat Oct 21 2017,Ternana,1-1,0-0,Ascoli
+Sat Oct 21 2017,Venezia,1-0,0-0,Empoli
+Mon Oct 23 2017,Brescia,2-1,1-1,Bari
+Tue Oct 24 2017,Ascoli,3-1,0-0,Spezia
+Tue Oct 24 2017,Avellino,1-0,0-0,Pro Vercelli
+Tue Oct 24 2017,Carpi,1-3,0-2,Palermo
+Tue Oct 24 2017,Cittadella,2-1,1-1,Venezia
+Tue Oct 24 2017,Empoli,3-1,2-0,Pescara
+Tue Oct 24 2017,Foggia,0-3,0-1,Parma
+Tue Oct 24 2017,Frosinone,4-2,1-1,Ternana
+Tue Oct 24 2017,Novara,2-3,1-1,Salernitana
+Tue Oct 24 2017,Perugia,0-3,0-1,Cesena
+Tue Oct 24 2017,Virtus Entella,1-1,0-1,Cremonese
+Sat Oct 28 2017,Bari,3-0,0-0,Ascoli
+Sat Oct 28 2017,Cesena,2-2,1-0,Novara
+Sat Oct 28 2017,Cremonese,3-3,1-1,Perugia
+Sat Oct 28 2017,Palermo,2-0,1-0,Virtus Entella
+Sat Oct 28 2017,Pescara,0-3,0-1,Brescia
+Sat Oct 28 2017,Salernitana,2-1,2-1,Empoli
+Sat Oct 28 2017,Spezia,0-0,0-0,Cittadella
+Sat Oct 28 2017,Venezia,1-1,1-1,Frosinone
+Sun Oct 29 2017,Parma,2-0,1-0,Avellino
+Sun Oct 29 2017,Pro Vercelli,1-4,1-2,Foggia
+Mon Oct 30 2017,Ternana,0-0,0-0,Carpi
+Fri Nov 3 2017,Pescara,2-2,1-2,Palermo
+Sat Nov 4 2017,Brescia,1-2,0-0,Venezia
+Sat Nov 4 2017,Carpi,4-2,2-2,Ascoli
+Sat Nov 4 2017,Cittadella,1-1,1-0,Ternana
+Sat Nov 4 2017,Foggia,2-3,2-2,Cremonese
+Sat Nov 4 2017,Frosinone,2-1,2-1,Parma
+Sat Nov 4 2017,Novara,0-1,0-0,Pro Vercelli
+Sat Nov 4 2017,Salernitana,2-2,2-1,Bari
+Sat Nov 4 2017,Virtus Entella,2-2,1-2,Cesena
+Sun Nov 5 2017,Empoli,1-1,0-0,Spezia
+Mon Nov 6 2017,Perugia,1-1,0-1,Avellino
+Sat Nov 11 2017,Avellino,0-0,0-0,Virtus Entella
+Sat Nov 11 2017,Pro Vercelli,2-1,1-1,Empoli
+Sat Nov 11 2017,Spezia,1-1,0-0,Frosinone
+Sun Nov 12 2017,Ascoli,0-2,0-0,Foggia
+Sun Nov 12 2017,Bari,1-0,0-0,Pescara
+Sun Nov 12 2017,Carpi,1-1,1-1,Brescia
+Sun Nov 12 2017,Cesena,3-3,2-1,Salernitana
+Sun Nov 12 2017,Cittadella,1-2,0-1,Parma
+Sun Nov 12 2017,Cremonese,1-2,1-1,Palermo
+Sun Nov 12 2017,Ternana,1-1,0-0,Novara
+Sun Nov 12 2017,Venezia,1-0,1-0,Perugia
+Fri Nov 17 2017,Frosinone,1-1,0-1,Avellino
+Sat Nov 18 2017,Brescia,1-1,0-0,Spezia
+Sat Nov 18 2017,Empoli,5-3,1-0,Cesena
+Sat Nov 18 2017,Foggia,1-1,0-1,Ternana
+Sat Nov 18 2017,Novara,1-2,0-0,Bari
+Sat Nov 18 2017,Parma,4-0,1-0,Ascoli
+Sat Nov 18 2017,Perugia,5-0,3-0,Carpi
+Sat Nov 18 2017,Pescara,3-1,1-0,Pro Vercelli
+Sat Nov 18 2017,Virtus Entella,0-0,0-0,Venezia
+Sun Nov 19 2017,Salernitana,1-1,1-0,Cremonese
+Mon Nov 20 2017,Palermo,0-3,0-1,Cittadella
+Fri Nov 24 2017,Empoli,3-3,0-2,Frosinone
+Sat Nov 25 2017,Ascoli,0-0,0-0,Cremonese
+Sat Nov 25 2017,Avellino,1-3,0-1,Palermo
+Sat Nov 25 2017,Carpi,2-1,2-1,Parma
+Sat Nov 25 2017,Cittadella,2-1,1-1,Salernitana
+Sat Nov 25 2017,Pro Vercelli,1-1,0-1,Virtus Entella
+Sat Nov 25 2017,Spezia,4-0,1-0,Pescara
+Sat Nov 25 2017,Venezia,1-3,0-2,Novara
+Sun Nov 26 2017,Bari,1-0,0-0,Foggia
+Sun Nov 26 2017,Ternana,1-1,1-0,Perugia
+Mon Nov 27 2017,Cesena,1-0,1-0,Brescia
+Sat Dec 2 2017,Brescia,2-0,0-0,Salernitana
+Sat Dec 2 2017,Cremonese,1-0,0-0,Spezia
+Sat Dec 2 2017,Foggia,1-3,1-2,Cittadella
+Sat Dec 2 2017,Frosinone,3-3,2-2,Cesena
+Sat Dec 2 2017,Novara,1-1,0-0,Empoli
+Sat Dec 2 2017,Palermo,0-0,0-0,Venezia
+Sat Dec 2 2017,Parma,3-0,0-0,Pro Vercelli
+Sat Dec 2 2017,Pescara,3-3,2-0,Ternana
+Sun Dec 3 2017,Avellino,1-1,1-0,Carpi
+Sun Dec 3 2017,Virtus Entella,3-1,2-0,Bari
+Mon Dec 4 2017,Perugia,1-0,0-0,Ascoli
+Fri Dec 8 2017,Cesena,4-2,0-0,Pescara
+Fri Dec 8 2017,Novara,1-1,0-1,Cremonese
+Fri Dec 8 2017,Spezia,1-0,1-0,Foggia
+Fri Dec 8 2017,Ternana,1-1,0-1,Parma
+Sat Dec 9 2017,Ascoli,1-1,1-0,Virtus Entella
+Sat Dec 9 2017,Cittadella,2-2,1-1,Avellino
+Sat Dec 9 2017,Empoli,1-0,1-0,Carpi
+Sat Dec 9 2017,Frosinone,2-0,1-0,Brescia
+Sat Dec 9 2017,Salernitana,1-1,0-0,Perugia
+Sat Dec 9 2017,Venezia,1-1,1-1,Pro Vercelli
+Sun Dec 10 2017,Bari,0-3,0-0,Palermo
+Fri Dec 15 2017,Foggia,2-2,0-1,Venezia
+Sat Dec 16 2017,Avellino,1-1,0-1,Ascoli
+Sat Dec 16 2017,Carpi,1-1,0-0,Frosinone
+Sat Dec 16 2017,Cremonese,1-1,0-1,Empoli
+Sat Dec 16 2017,Palermo,1-0,1-0,Ternana
+Sat Dec 16 2017,Parma,0-0,0-0,Cesena
+Sat Dec 16 2017,Perugia,1-3,1-2,Bari
+Sat Dec 16 2017,Pro Vercelli,0-2,0-1,Spezia
+Sat Dec 16 2017,Virtus Entella,0-2,0-1,Salernitana
+Sun Dec 17 2017,Brescia,1-1,1-0,Cittadella
+Sun Dec 17 2017,Pescara,1-0,1-0,Novara
+Wed Dec 20 2017,Venezia,1-1,0-0,Cremonese
+Thu Dec 21 2017,Ascoli,1-1,0-1,Pescara
+Thu Dec 21 2017,Bari,0-0,0-0,Parma
+Thu Dec 21 2017,Cesena,1-1,1-1,Palermo
+Thu Dec 21 2017,Cittadella,0-1,0-1,Carpi
+Thu Dec 21 2017,Empoli,1-1,0-0,Brescia
+Thu Dec 21 2017,Frosinone,4-3,1-1,Virtus Entella
+Thu Dec 21 2017,Novara,1-1,0-0,Perugia
+Thu Dec 21 2017,Salernitana,0-3,0-0,Foggia
+Thu Dec 21 2017,Spezia,1-0,1-0,Avellino
+Thu Dec 21 2017,Ternana,4-3,3-1,Pro Vercelli
+Wed Dec 27 2017,Parma,0-0,0-0,Spezia
+Thu Dec 28 2017,Avellino,2-1,1-0,Ternana
+Thu Dec 28 2017,Brescia,0-1,0-1,Ascoli
+Thu Dec 28 2017,Carpi,0-0,0-0,Bari
+Thu Dec 28 2017,Cremonese,1-0,0-0,Cesena
+Thu Dec 28 2017,Foggia,1-2,1-0,Frosinone
+Thu Dec 28 2017,Palermo,3-0,1-0,Salernitana
+Thu Dec 28 2017,Perugia,2-4,1-3,Empoli
+Thu Dec 28 2017,Pescara,1-0,0-0,Venezia
+Thu Dec 28 2017,Pro Vercelli,1-2,0-1,Cittadella
+Thu Dec 28 2017,Virtus Entella,2-1,0-1,Novara
+Sat Jan 20 2018,Ascoli,1-2,1-0,Cittadella
+Sat Jan 20 2018,Cesena,1-1,1-0,Bari
+Sat Jan 20 2018,Cremonese,1-0,0-0,Parma
+Sat Jan 20 2018,Empoli,2-1,1-1,Ternana
+Sat Jan 20 2018,Foggia,0-1,0-1,Pescara
+Sat Jan 20 2018,Frosinone,4-0,3-0,Pro Vercelli
+Sat Jan 20 2018,Novara,1-0,1-0,Carpi
+Sat Jan 20 2018,Perugia,2-0,0-0,Virtus Entella
+Sat Jan 20 2018,Salernitana,3-2,3-0,Venezia
+Sat Jan 20 2018,Spezia,0-0,0-0,Palermo
+Sun Jan 21 2018,Brescia,2-3,2-1,Avellino
+Fri Jan 26 2018,Pescara,0-2,0-1,Perugia
+Sat Jan 27 2018,Avellino,0-0,0-0,Cremonese
+Sat Jan 27 2018,Bari,0-4,0-2,Empoli
+Sat Jan 27 2018,Carpi,2-1,0-0,Spezia
+Sat Jan 27 2018,Palermo,2-0,1-0,Brescia
+Sat Jan 27 2018,Parma,3-0,2-0,Novara
+Sat Jan 27 2018,Pro Vercelli,2-0,1-0,Ascoli
+Sat Jan 27 2018,Venezia,1-0,0-0,Cesena
+Sat Jan 27 2018,Virtus Entella,1-2,0-1,Foggia
+Sun Jan 28 2018,Cittadella,1-2,0-1,Frosinone
+Mon Jan 29 2018,Ternana,2-2,0-1,Salernitana
+Fri Feb 2 2018,Empoli,4-0,2-0,Palermo
+Sat Feb 3 2018,Brescia,2-1,1-0,Parma
+Sat Feb 3 2018,Cremonese,2-3,1-1,Pro Vercelli
+Sat Feb 3 2018,Foggia,2-1,1-1,Avellino
+Sat Feb 3 2018,Frosinone,3-0,0-0,Pescara
+Sat Feb 3 2018,Novara,1-2,1-2,Ascoli
+Sat Feb 3 2018,Perugia,1-3,1-1,Cittadella
+Sat Feb 3 2018,Salernitana,1-2,1-1,Carpi
+Sat Feb 3 2018,Venezia,3-1,3-0,Bari
+Sun Feb 4 2018,Cesena,4-3,3-2,Ternana
+Mon Feb 5 2018,Virtus Entella,0-1,0-0,Spezia
+Sat Feb 10 2018,Ascoli,1-2,0-1,Empoli
+Sat Feb 10 2018,Avellino,1-1,0-0,Cesena
+Sat Feb 10 2018,Bari,1-0,0-0,Frosinone
+Sat Feb 10 2018,Carpi,1-1,0-1,Cremonese
+Sat Feb 10 2018,Pescara,1-0,0-0,Salernitana
+Sat Feb 10 2018,Pro Vercelli,0-0,0-0,Brescia
+Sat Feb 10 2018,Spezia,1-1,0-1,Venezia
+Sat Feb 10 2018,Ternana,0-1,0-0,Virtus Entella
+Sun Feb 11 2018,Cittadella,1-3,1-1,Novara
+Sun Feb 11 2018,Parma,1-1,0-0,Perugia
+Mon Feb 12 2018,Palermo,1-2,0-0,Foggia
+Fri Feb 16 2018,Cremonese,0-1,0-0,Bari
+Sat Feb 17 2018,Cesena,0-1,0-1,Cittadella
+Sat Feb 17 2018,Empoli,4-0,2-0,Parma
+Sat Feb 17 2018,Foggia,3-0,2-0,Carpi
+Sat Feb 17 2018,Novara,1-1,1-1,Spezia
+Sat Feb 17 2018,Perugia,1-0,0-0,Palermo
+Sat Feb 17 2018,Salernitana,0-0,0-0,Pro Vercelli
+Sat Feb 17 2018,Venezia,3-1,1-0,Avellino
+Sat Feb 17 2018,Virtus Entella,0-0,0-0,Pescara
+Sun Feb 18 2018,Brescia,3-1,1-0,Ternana
+Sun Feb 18 2018,Frosinone,2-0,2-0,Ascoli
+Fri Feb 23 2018,Parma,1-1,0-0,Venezia
+Fri Feb 23 2018,Spezia,3-0,1-0,Salernitana
+Sat Feb 24 2018,Ascoli,2-1,1-1,Cesena
+Sat Feb 24 2018,Avellino,2-1,1-0,Novara
+Sat Feb 24 2018,Carpi,0-0,0-0,Virtus Entella
+Sat Feb 24 2018,Cittadella,1-1,1-0,Empoli
+Sat Feb 24 2018,Foggia,1-2,1-0,Brescia
+Sat Feb 24 2018,Frosinone,1-3,1-1,Perugia
+Sat Feb 24 2018,Pescara,0-0,0-0,Cremonese
+Sat Feb 24 2018,Pro Vercelli,0-0,0-0,Palermo
+Sat Feb 24 2018,Ternana,1-2,1-1,Bari
+Mon Feb 26 2018,Salernitana,0-1,0-1,Parma
+Tue Feb 27 2018,Cremonese,2-2,2-0,Frosinone
+Tue Feb 27 2018,Empoli,1-1,1-0,Avellino
+Tue Feb 27 2018,Novara,0-1,0-1,Foggia
+Tue Feb 27 2018,Palermo,4-1,0-1,Ascoli
+Tue Feb 27 2018,Venezia,2-0,1-0,Ternana
+Tue Feb 27 2018,Virtus Entella,0-1,0-1,Cittadella
+Sat Mar 3 2018,Ascoli,1-3,0-1,Salernitana
+Sat Mar 3 2018,Cittadella,2-0,1-0,Pescara
+Sat Mar 3 2018,Frosinone,1-0,1-0,Novara
+Sat Mar 3 2018,Spezia,1-2,1-1,Cesena
+Sat Mar 3 2018,Ternana,2-1,2-0,Cremonese
+Tue Mar 6 2018,Cesena,2-2,2-0,Pro Vercelli
+Tue Mar 6 2018,Perugia,2-0,1-0,Brescia
+Sat Mar 10 2018,Bari,2-2,0-1,Pro Vercelli
+Sat Mar 10 2018,Cesena,0-0,0-0,Carpi
+Sat Mar 10 2018,Cremonese,1-1,1-0,Cittadella
+Sat Mar 10 2018,Palermo,1-0,0-0,Frosinone
+Sat Mar 10 2018,Perugia,2-0,0-0,Foggia
+Sat Mar 10 2018,Pescara,1-4,0-1,Parma
+Sat Mar 10 2018,Spezia,1-1,1-1,Ternana
+Sat Mar 10 2018,Venezia,1-0,0-0,Ascoli
+Sun Mar 11 2018,Empoli,2-1,1-0,Virtus Entella
+Sun Mar 11 2018,Salernitana,2-0,2-0,Avellino
+Mon Mar 12 2018,Novara,2-1,0-1,Brescia
+Tue Mar 13 2018,Bari,1-1,0-1,Spezia
+Tue Mar 13 2018,Pescara,0-1,0-1,Carpi
+Fri Mar 16 2018,Foggia,2-1,0-1,Cesena
+Sat Mar 17 2018,Ascoli,2-1,1-0,Ternana
+Sat Mar 17 2018,Brescia,1-1,0-1,Cremonese
+Sat Mar 17 2018,Cittadella,0-0,0-0,Bari
+Sat Mar 17 2018,Empoli,3-2,1-0,Venezia
+Sat Mar 17 2018,Frosinone,0-0,0-0,Salernitana
+Sat Mar 17 2018,Novara,2-2,1-0,Palermo
+Sat Mar 17 2018,Perugia,3-0,2-0,Spezia
+Sat Mar 17 2018,Virtus Entella,2-0,1-0,Parma
+Sun Mar 18 2018,Avellino,2-2,0-1,Pescara
+Mon Mar 19 2018,Carpi,2-0,1-0,Pro Vercelli
+Sat Mar 24 2018,Bari,3-0,2-0,Brescia
+Sat Mar 24 2018,Spezia,1-1,0-0,Ascoli
+Sun Mar 25 2018,Cesena,1-1,0-0,Perugia
+Sun Mar 25 2018,Cremonese,0-1,0-1,Virtus Entella
+Sun Mar 25 2018,Palermo,4-0,1-0,Carpi
+Sun Mar 25 2018,Parma,3-1,0-1,Foggia
+Sun Mar 25 2018,Pescara,0-1,0-1,Empoli
+Sun Mar 25 2018,Pro Vercelli,0-0,0-0,Avellino
+Sun Mar 25 2018,Salernitana,1-0,0-0,Novara
+Sun Mar 25 2018,Ternana,0-0,0-0,Frosinone
+Sun Mar 25 2018,Venezia,2-1,1-0,Cittadella
+Wed Mar 28 2018,Ascoli,1-0,1-0,Bari
+Thu Mar 29 2018,Avellino,1-2,1-2,Parma
+Thu Mar 29 2018,Brescia,2-1,1-1,Pescara
+Thu Mar 29 2018,Carpi,2-1,1-1,Ternana
+Thu Mar 29 2018,Cittadella,1-2,1-1,Spezia
+Thu Mar 29 2018,Empoli,2-0,0-0,Salernitana
+Thu Mar 29 2018,Foggia,2-1,2-1,Pro Vercelli
+Thu Mar 29 2018,Frosinone,2-1,0-1,Venezia
+Thu Mar 29 2018,Virtus Entella,1-2,0-1,Palermo
+Fri Mar 30 2018,Novara,1-0,0-0,Cesena
+Fri Mar 30 2018,Perugia,1-0,0-0,Cremonese
+Mon Apr 2 2018,Avellino,1-2,1-0,Bari
+Mon Apr 2 2018,Carpi,0-0,0-0,Venezia
+Mon Apr 2 2018,Foggia,0-3,0-1,Empoli
+Mon Apr 2 2018,Parma,3-2,2-0,Palermo
+Tue Apr 3 2018,Brescia,0-0,0-0,Virtus Entella
+Tue Apr 3 2018,Pro Vercelli,0-2,0-0,Perugia
+Sat Apr 7 2018,Ascoli,2-0,2-0,Carpi
+Sat Apr 7 2018,Bari,1-1,1-0,Salernitana
+Sat Apr 7 2018,Cremonese,0-4,0-3,Foggia
+Sat Apr 7 2018,Palermo,1-1,1-1,Pescara
+Sat Apr 7 2018,Parma,2-0,2-0,Frosinone
+Sat Apr 7 2018,Spezia,1-1,1-0,Empoli
+Sat Apr 7 2018,Ternana,5-1,2-1,Cittadella
+Sun Apr 8 2018,Cesena,3-0,2-0,Virtus Entella
+Sun Apr 8 2018,Pro Vercelli,0-0,0-0,Novara
+Sun Apr 8 2018,Venezia,1-2,0-1,Brescia
+Mon Apr 9 2018,Avellino,2-0,1-0,Perugia
+Fri Apr 13 2018,Foggia,3-0,2-0,Ascoli
+Fri Apr 13 2018,Parma,0-0,0-0,Cittadella
+Sat Apr 14 2018,Brescia,1-1,0-0,Carpi
+Sat Apr 14 2018,Empoli,3-2,2-1,Pro Vercelli
+Sat Apr 14 2018,Frosinone,1-1,0-0,Spezia
+Sat Apr 14 2018,Novara,0-3,0-1,Ternana
+Sat Apr 14 2018,Palermo,1-1,0-0,Cremonese
+Sat Apr 14 2018,Perugia,1-1,0-0,Venezia
+Sat Apr 14 2018,Pescara,2-2,0-2,Bari
+Sat Apr 14 2018,Salernitana,1-1,0-1,Cesena
+Sat Apr 14 2018,Virtus Entella,1-1,0-0,Avellino
+Mon Apr 16 2018,Ascoli,0-1,0-1,Parma
+Tue Apr 17 2018,Avellino,0-2,0-0,Frosinone
+Tue Apr 17 2018,Bari,1-1,0-1,Novara
+Tue Apr 17 2018,Carpi,1-2,0-1,Perugia
+Tue Apr 17 2018,Cesena,2-3,1-2,Empoli
+Tue Apr 17 2018,Cittadella,0-0,0-0,Palermo
+Tue Apr 17 2018,Cremonese,1-1,1-1,Salernitana
+Tue Apr 17 2018,Pro Vercelli,3-1,1-1,Pescara
+Tue Apr 17 2018,Spezia,0-1,0-1,Brescia
+Tue Apr 17 2018,Ternana,2-2,1-0,Foggia
+Tue Apr 17 2018,Venezia,2-0,1-0,Virtus Entella
+Sat Apr 21 2018,Brescia,0-0,0-0,Cesena
+Sat Apr 21 2018,Cremonese,1-2,1-1,Ascoli
+Sat Apr 21 2018,Foggia,1-1,1-1,Bari
+Sat Apr 21 2018,Novara,1-3,1-1,Venezia
+Sat Apr 21 2018,Palermo,3-0,1-0,Avellino
+Sat Apr 21 2018,Parma,2-1,1-0,Carpi
+Sat Apr 21 2018,Salernitana,1-3,0-2,Cittadella
+Sat Apr 21 2018,Virtus Entella,3-2,0-1,Pro Vercelli
+Sun Apr 22 2018,Perugia,2-3,2-1,Ternana
+Sun Apr 22 2018,Pescara,3-2,2-0,Spezia
+Mon Apr 23 2018,Frosinone,2-4,1-0,Empoli
+Fri Apr 27 2018,Bari,1-0,1-0,Virtus Entella
+Fri Apr 27 2018,Venezia,3-0,2-0,Palermo
+Sat Apr 28 2018,Ascoli,2-2,1-1,Perugia
+Sat Apr 28 2018,Carpi,0-0,0-0,Avellino
+Sat Apr 28 2018,Cesena,1-0,0-0,Frosinone
+Sat Apr 28 2018,Cittadella,3-1,0-0,Foggia
+Sat Apr 28 2018,Empoli,1-1,1-1,Novara
+Sat Apr 28 2018,Pro Vercelli,1-0,0-0,Parma
+Sat Apr 28 2018,Salernitana,4-2,1-0,Brescia
+Sat Apr 28 2018,Spezia,1-0,0-0,Cremonese
+Sat Apr 28 2018,Ternana,0-3,0-2,Pescara
+Mon Apr 30 2018,Palermo,1-1,0-0,Bari
+Tue May 1 2018,Avellino,0-2,0-0,Cittadella
+Tue May 1 2018,Brescia,1-2,1-1,Frosinone
+Tue May 1 2018,Carpi,0-0,0-0,Empoli
+Tue May 1 2018,Cremonese,1-1,0-0,Novara
+Tue May 1 2018,Foggia,2-1,1-0,Spezia
+Tue May 1 2018,Parma,2-0,2-0,Ternana
+Tue May 1 2018,Perugia,1-1,0-1,Salernitana
+Tue May 1 2018,Pescara,0-0,0-0,Cesena
+Tue May 1 2018,Pro Vercelli,0-2,0-1,Venezia
+Tue May 1 2018,Virtus Entella,1-1,0-1,Ascoli
+Sat May 5 2018,Ascoli,1-1,1-1,Avellino
+Sat May 5 2018,Bari,3-1,1-0,Perugia
+Sat May 5 2018,Cittadella,2-2,1-1,Brescia
+Sat May 5 2018,Frosinone,1-0,1-0,Carpi
+Sat May 5 2018,Novara,1-1,1-0,Pescara
+Sat May 5 2018,Salernitana,1-0,0-0,Virtus Entella
+Sat May 5 2018,Spezia,5-1,2-1,Pro Vercelli
+Sat May 5 2018,Ternana,2-3,0-2,Palermo
+Sat May 5 2018,Venezia,2-1,1-0,Foggia
+Sun May 6 2018,Cesena,2-1,0-0,Parma
+Mon May 7 2018,Empoli,1-1,0-0,Cremonese
+Fri May 11 2018,Avellino,1-0,0-0,Spezia
+Sat May 12 2018,Brescia,0-2,0-0,Empoli
+Sat May 12 2018,Carpi,1-1,1-1,Cittadella
+Sat May 12 2018,Cremonese,5-1,1-1,Venezia
+Sat May 12 2018,Foggia,1-0,1-0,Salernitana
+Sat May 12 2018,Palermo,0-0,0-0,Cesena
+Sat May 12 2018,Parma,1-0,0-0,Bari
+Sat May 12 2018,Perugia,1-1,1-0,Novara
+Sat May 12 2018,Pescara,0-1,0-1,Ascoli
+Sat May 12 2018,Pro Vercelli,2-1,1-0,Ternana
+Sat May 12 2018,Virtus Entella,0-1,0-1,Frosinone
+Fri May 18 2018,Ascoli,0-0,0-0,Brescia
+Fri May 18 2018,Bari,2-0,2-0,Carpi
+Fri May 18 2018,Cesena,1-0,0-0,Cremonese
+Fri May 18 2018,Cittadella,2-0,0-0,Pro Vercelli
+Fri May 18 2018,Empoli,2-1,1-1,Perugia
+Fri May 18 2018,Frosinone,2-2,0-1,Foggia
+Fri May 18 2018,Novara,0-1,0-0,Virtus Entella
+Fri May 18 2018,Salernitana,0-2,0-1,Palermo
+Fri May 18 2018,Spezia,0-2,0-1,Parma
+Fri May 18 2018,Ternana,1-2,1-2,Avellino
+Fri May 18 2018,Venezia,0-0,0-0,Pescara

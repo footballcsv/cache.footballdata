@@ -1,0 +1,187 @@
+Date,Team 1,FT,HT,Team 2
+Fri Feb 15 2019,Bohemians,1-0,?,Finn Harps
+Fri Feb 15 2019,Derry City,3-0,?,UC Dublin
+Fri Feb 15 2019,Dundalk,1-1,?,Sligo Rovers
+Fri Feb 15 2019,St. Patricks,1-0,?,Cork City
+Fri Feb 15 2019,Waterford,1-2,?,Shamrock Rovers
+Fri Feb 22 2019,Cork City,0-2,?,Waterford
+Fri Feb 22 2019,Sligo Rovers,0-1,?,St. Patricks
+Fri Feb 22 2019,UC Dublin,0-2,?,Bohemians
+Fri Feb 22 2019,Finn Harps,1-1,?,Dundalk
+Fri Feb 22 2019,Shamrock Rovers,2-0,?,Derry City
+Mon Feb 25 2019,Bohemians,1-0,?,Shamrock Rovers
+Mon Feb 25 2019,Derry City,3-2,?,Waterford
+Mon Feb 25 2019,Dundalk,2-1,?,UC Dublin
+Mon Feb 25 2019,Sligo Rovers,1-2,?,Cork City
+Mon Feb 25 2019,St. Patricks,0-0,?,Finn Harps
+Fri Mar 1 2019,Cork City,0-0,?,Derry City
+Fri Mar 1 2019,UC Dublin,1-1,?,St. Patricks
+Fri Mar 1 2019,Waterford,0-0,?,Bohemians
+Fri Mar 1 2019,Finn Harps,1-2,?,Sligo Rovers
+Fri Mar 1 2019,Shamrock Rovers,0-0,?,Dundalk
+Mon Mar 4 2019,Shamrock Rovers,3-0,?,Finn Harps
+Fri Mar 8 2019,Bohemians,1-1,?,Derry City
+Fri Mar 8 2019,Dundalk,4-0,?,Waterford
+Fri Mar 8 2019,St. Patricks,0-1,?,Shamrock Rovers
+Fri Mar 8 2019,Finn Harps,3-4,?,Cork City
+Sat Mar 9 2019,Sligo Rovers,1-0,?,UC Dublin
+Fri Mar 15 2019,Cork City,2-0,?,Bohemians
+Fri Mar 15 2019,Derry City,0-2,?,Dundalk
+Fri Mar 15 2019,UC Dublin,3-0,?,Finn Harps
+Fri Mar 15 2019,Waterford,2-0,?,St. Patricks
+Fri Mar 15 2019,Shamrock Rovers,3-0,?,Sligo Rovers
+Fri Mar 22 2019,Finn Harps,0-1,?,Shamrock Rovers
+Fri Mar 29 2019,Bohemians,1-0,?,St. Patricks
+Fri Mar 29 2019,Derry City,2-0,?,Sligo Rovers
+Fri Mar 29 2019,Dundalk,1-0,?,Cork City
+Fri Mar 29 2019,Waterford,4-0,?,Finn Harps
+Fri Mar 29 2019,Shamrock Rovers,3-1,?,UC Dublin
+Fri Apr 5 2019,Cork City,1-3,?,Shamrock Rovers
+Fri Apr 5 2019,Finn Harps,2-3,?,Derry City
+Fri Apr 5 2019,St. Patricks,1-0,?,Dundalk
+Fri Apr 5 2019,UC Dublin,4-1,?,Waterford
+Sat Apr 6 2019,Sligo Rovers,0-2,?,Bohemians
+Fri Apr 12 2019,Cork City,1-1,?,St. Patricks
+Fri Apr 12 2019,Sligo Rovers,2-1,?,Dundalk
+Fri Apr 12 2019,UC Dublin,0-2,?,Derry City
+Fri Apr 12 2019,Finn Harps,0-1,?,Bohemians
+Fri Apr 12 2019,Shamrock Rovers,2-1,?,Waterford
+Mon Apr 15 2019,Dundalk,1-0,?,Bohemians
+Mon Apr 15 2019,Sligo Rovers,0-0,?,Waterford
+Mon Apr 15 2019,St. Patricks,1-3,?,Derry City
+Mon Apr 15 2019,UC Dublin,2-1,?,Cork City
+Fri Apr 19 2019,Bohemians,3-0,?,UC Dublin
+Fri Apr 19 2019,Derry City,0-1,?,Shamrock Rovers
+Fri Apr 19 2019,Dundalk,3-0,?,Finn Harps
+Fri Apr 19 2019,St. Patricks,2-1,?,Sligo Rovers
+Fri Apr 19 2019,Waterford,2-0,?,Cork City
+Mon Apr 22 2019,UC Dublin,1-3,?,Dundalk
+Mon Apr 22 2019,Waterford,2-2,?,Derry City
+Mon Apr 22 2019,Cork City,0-0,?,Sligo Rovers
+Mon Apr 22 2019,Finn Harps,0-2,?,St. Patricks
+Tue Apr 23 2019,Shamrock Rovers,0-1,?,Bohemians
+Fri Apr 26 2019,Bohemians,0-0,?,Waterford
+Fri Apr 26 2019,Derry City,2-0,?,Cork City
+Fri Apr 26 2019,Sligo Rovers,1-1,?,Finn Harps
+Fri Apr 26 2019,St. Patricks,2-0,?,UC Dublin
+Fri Apr 26 2019,Dundalk,2-1,?,Shamrock Rovers
+Mon Apr 29 2019,Cork City,1-1,?,Finn Harps
+Mon Apr 29 2019,Derry City,0-2,?,Bohemians
+Mon Apr 29 2019,UC Dublin,0-2,?,Sligo Rovers
+Mon Apr 29 2019,Waterford,0-3,?,Dundalk
+Mon Apr 29 2019,Shamrock Rovers,1-0,?,St. Patricks
+Fri May 3 2019,Bohemians,0-1,?,Cork City
+Fri May 3 2019,Dundalk,2-2,?,Derry City
+Fri May 3 2019,St. Patricks,0-3,?,Waterford
+Fri May 3 2019,Finn Harps,3-0,?,UC Dublin
+Sat May 4 2019,Sligo Rovers,2-1,?,Shamrock Rovers
+Fri May 10 2019,Bohemians,0-2,?,Dundalk
+Fri May 10 2019,Cork City,2-0,?,UC Dublin
+Fri May 10 2019,Derry City,1-1,?,St. Patricks
+Sat May 11 2019,Waterford,3-3,?,Sligo Rovers
+Fri May 17 2019,Cork City,0-2,?,Dundalk
+Fri May 17 2019,St. Patricks,1-1,?,Bohemians
+Fri May 17 2019,UC Dublin,0-1,?,Shamrock Rovers
+Fri May 17 2019,Finn Harps,3-2,?,Waterford
+Sat May 18 2019,Sligo Rovers,0-0,?,Derry City
+Mon May 20 2019,Dundalk,2-1,?,Bohemians
+Mon May 20 2019,UC Dublin,0-1,?,Cork City
+Mon May 20 2019,Finn Harps,0-3,?,Shamrock Rovers
+Tue May 21 2019,St. Patricks,1-0,?,Derry City
+Fri May 24 2019,Bohemians,1-2,?,Sligo Rovers
+Fri May 24 2019,Derry City,4-0,?,Finn Harps
+Fri May 24 2019,Dundalk,1-0,?,St. Patricks
+Fri May 24 2019,Waterford,1-0,?,UC Dublin
+Fri May 24 2019,Shamrock Rovers,2-0,?,Cork City
+Fri May 31 2019,Bohemians,5-3,?,Finn Harps
+Fri May 31 2019,Dundalk,4-0,?,Sligo Rovers
+Fri May 31 2019,St. Patricks,1-1,?,Cork City
+Sat Jun 8 2019,Shamrock Rovers,2-2,?,Derry City
+Sat Jun 8 2019,Sligo Rovers,1-1,?,St. Patricks
+Sat Jun 8 2019,Finn Harps,0-3,?,Dundalk
+Fri Jun 14 2019,Sligo Rovers,1-1,?,Cork City
+Fri Jun 14 2019,St. Patricks,1-0,?,Finn Harps
+Fri Jun 14 2019,Bohemians,2-1,?,Shamrock Rovers
+Fri Jun 28 2019,Cork City,1-4,?,Derry City
+Fri Jun 28 2019,UC Dublin,0-1,?,St. Patricks
+Fri Jun 28 2019,Waterford,1-2,?,Bohemians
+Fri Jun 28 2019,Finn Harps,2-0,?,Sligo Rovers
+Fri Jun 28 2019,Shamrock Rovers,0-1,?,Dundalk
+Mon Jul 1 2019,Dundalk,3-0,?,Waterford
+Mon Jul 1 2019,Sligo Rovers,5-1,?,UC Dublin
+Mon Jul 1 2019,St. Patricks,0-2,?,Shamrock Rovers
+Mon Jul 1 2019,Bohemians,0-0,?,Derry City
+Mon Jul 1 2019,Finn Harps,0-0,?,Cork City
+Fri Jul 5 2019,Derry City,2-2,?,Dundalk
+Fri Jul 5 2019,UC Dublin,1-0,?,Finn Harps
+Fri Jul 5 2019,Waterford,1-2,?,St. Patricks
+Fri Jul 5 2019,Cork City,0-0,?,Bohemians
+Fri Jul 5 2019,Shamrock Rovers,0-0,?,Sligo Rovers
+Fri Jul 12 2019,Derry City,0-0,?,UC Dublin
+Sat Jul 13 2019,Sligo Rovers,0-0,?,Waterford
+Mon Jul 15 2019,UC Dublin,1-0,?,Bohemians
+Fri Jul 19 2019,Derry City,3-0,?,Sligo Rovers
+Fri Jul 19 2019,Waterford,0-1,?,Finn Harps
+Sun Jul 21 2019,Bohemians,3-0,?,St. Patricks
+Sun Jul 21 2019,Shamrock Rovers,7-0,?,UC Dublin
+Fri Jul 26 2019,UC Dublin,1-2,?,Waterford
+Fri Jul 26 2019,Finn Harps,1-0,?,Derry City
+Sat Jul 27 2019,St. Patricks,0-1,?,Dundalk
+Sat Jul 27 2019,Sligo Rovers,1-1,?,Bohemians
+Sun Jul 28 2019,Cork City,1-1,?,Shamrock Rovers
+Mon Jul 29 2019,Derry City,2-0,?,Waterford
+Fri Aug 2 2019,UC Dublin,1-3,?,Derry City
+Fri Aug 2 2019,Cork City,0-1,?,St. Patricks
+Fri Aug 2 2019,Finn Harps,1-0,?,Bohemians
+Fri Aug 16 2019,Bohemians,10-1,?,UC Dublin
+Fri Aug 16 2019,Derry City,0-2,?,Shamrock Rovers
+Fri Aug 16 2019,St. Patricks,2-1,?,Sligo Rovers
+Fri Aug 16 2019,Waterford,1-2,?,Cork City
+Fri Aug 16 2019,Dundalk,5-0,?,Finn Harps
+Mon Aug 19 2019,Waterford,1-5,?,Shamrock Rovers
+Mon Aug 26 2019,Dundalk,3-0,?,UC Dublin
+Tue Aug 27 2019,Shamrock Rovers,2-1,?,Waterford
+Fri Aug 30 2019,Cork City,2-4,?,Sligo Rovers
+Fri Aug 30 2019,UC Dublin,0-5,?,Dundalk
+Fri Aug 30 2019,Waterford,1-1,?,Derry City
+Fri Aug 30 2019,Shamrock Rovers,1-0,?,Bohemians
+Mon Sep 2 2019,Cork City,1-2,?,Waterford
+Mon Sep 2 2019,Sligo Rovers,0-2,?,Dundalk
+Fri Sep 6 2019,Dundalk,1-0,?,Cork City
+Fri Sep 6 2019,Finn Harps,1-2,?,St. Patricks
+Fri Sep 13 2019,Bohemians,1-2,?,Waterford
+Fri Sep 13 2019,St. Patricks,0-0,?,UC Dublin
+Fri Sep 13 2019,Sligo Rovers,3-1,?,Finn Harps
+Fri Sep 20 2019,Cork City,0-0,?,Finn Harps
+Fri Sep 20 2019,Derry City,0-0,?,Bohemians
+Fri Sep 20 2019,UC Dublin,0-2,?,Sligo Rovers
+Fri Sep 20 2019,Waterford,0-1,?,Dundalk
+Fri Sep 20 2019,Shamrock Rovers,0-0,?,St. Patricks
+Mon Sep 23 2019,Dundalk,3-2,?,Shamrock Rovers
+Fri Sep 27 2019,Derry City,4-0,?,Cork City
+Fri Oct 4 2019,Bohemians,1-0,?,Cork City
+Fri Oct 4 2019,Cabinteely,0-0,?,Longford
+Fri Oct 4 2019,Dundalk,1-0,?,Derry City
+Fri Oct 4 2019,St. Patricks,0-2,?,Waterford
+Fri Oct 4 2019,Finn Harps,0-0,?,UC Dublin
+Sat Oct 5 2019,Sligo Rovers,0-0,?,Shamrock Rovers
+Tue Oct 8 2019,Waterford,2-0,?,Sligo Rovers
+Fri Oct 11 2019,Bohemians,2-1,?,Dundalk
+Fri Oct 11 2019,Cork City,3-2,?,UC Dublin
+Fri Oct 11 2019,Longford,1-2,?,Cabinteely
+Fri Oct 11 2019,Shamrock Rovers,1-0,?,Finn Harps
+Fri Oct 18 2019,Cabinteely,1-1,?,Drogheda
+Fri Oct 18 2019,Cork City,1-0,?,Dundalk
+Fri Oct 18 2019,St. Patricks,0-0,?,Bohemians
+Fri Oct 18 2019,UC Dublin,0-3,?,Shamrock Rovers
+Fri Oct 18 2019,Finn Harps,1-0,?,Waterford
+Sat Oct 19 2019,Sligo Rovers,1-2,?,Derry City
+Tue Oct 22 2019,Derry City,1-3,?,St. Patricks
+Fri Oct 25 2019,Bohemians,2-1,?,Sligo Rovers
+Fri Oct 25 2019,Derry City,4-0,?,Finn Harps
+Fri Oct 25 2019,Drogheda,5-1,?,Cabinteely
+Fri Oct 25 2019,Dundalk,4-0,?,St. Patricks
+Fri Oct 25 2019,Shamrock Rovers,3-0,?,Cork City
+Fri Oct 25 2019,Waterford,4-2,?,UC Dublin
+Mon Oct 28 2019,Drogheda,1-0,?,Finn Harps
+Fri Nov 1 2019,Finn Harps,1-0,?,Drogheda

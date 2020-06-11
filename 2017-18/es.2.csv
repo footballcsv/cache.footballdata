@@ -1,0 +1,463 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 18 2017,Lorca,2-0,1-0,Leonesa
+Fri Aug 18 2017,Tenerife,1-0,0-0,Zaragoza
+Sat Aug 19 2017,Alcorcon,0-0,0-0,Sp Gijon
+Sat Aug 19 2017,Cordoba,1-2,0-2,Cadiz
+Sat Aug 19 2017,Numancia,1-0,0-0,Huesca
+Sat Aug 19 2017,Osasuna,1-1,0-0,Sevilla B
+Sat Aug 19 2017,Valladolid,1-2,0-2,Barcelona B
+Sun Aug 20 2017,Gimnastic,0-1,0-1,Almeria
+Sun Aug 20 2017,Granada,0-0,0-0,Albacete
+Sun Aug 20 2017,Oviedo,2-3,1-2,Vallecano
+Mon Aug 21 2017,Lugo,0-0,0-0,Reus Deportiu
+Fri Aug 25 2017,Albacete,0-3,0-1,Cordoba
+Sat Aug 26 2017,Almeria,1-1,0-0,Oviedo
+Sat Aug 26 2017,Huesca,2-0,2-0,Lorca
+Sat Aug 26 2017,Leonesa,2-1,0-1,Osasuna
+Sat Aug 26 2017,Sevilla B,1-2,0-2,Valladolid
+Sat Aug 26 2017,Vallecano,2-2,2-0,Numancia
+Sun Aug 27 2017,Cadiz,0-0,0-0,Alcorcon
+Sun Aug 27 2017,Reus Deportiu,1-1,1-0,Gimnastic
+Sun Aug 27 2017,Sp Gijon,2-0,0-0,Lugo
+Sun Aug 27 2017,Zaragoza,1-1,0-1,Granada
+Mon Aug 28 2017,Barcelona B,0-3,0-2,Tenerife
+Fri Sep 1 2017,Granada,2-2,1-1,Barcelona B
+Sat Sep 2 2017,Gimnastic,0-4,0-3,Sp Gijon
+Sat Sep 2 2017,Lorca,0-0,0-0,Vallecano
+Sat Sep 2 2017,Lugo,0-1,0-0,Cadiz
+Sat Sep 2 2017,Numancia,1-0,0-0,Almeria
+Sat Sep 2 2017,Osasuna,1-1,0-0,Huesca
+Sun Sep 3 2017,Cordoba,1-2,1-1,Zaragoza
+Sun Sep 3 2017,Oviedo,3-0,1-0,Reus Deportiu
+Sun Sep 3 2017,Sevilla B,1-2,0-0,Leonesa
+Sun Sep 3 2017,Valladolid,2-0,1-0,Tenerife
+Mon Sep 4 2017,Alcorcon,1-0,0-0,Albacete
+Fri Sep 8 2017,Cadiz,2-0,0-0,Gimnastic
+Sat Sep 9 2017,Almeria,2-1,0-0,Lorca
+Sat Sep 9 2017,Barcelona B,4-0,3-0,Cordoba
+Sat Sep 9 2017,Huesca,0-0,0-0,Sevilla B
+Sat Sep 9 2017,Sp Gijon,1-1,1-0,Oviedo
+Sun Sep 10 2017,Albacete,0-1,0-0,Lugo
+Sun Sep 10 2017,Leonesa,4-4,1-1,Valladolid
+Sun Sep 10 2017,Tenerife,2-2,0-1,Granada
+Sun Sep 10 2017,Vallecano,0-3,0-1,Osasuna
+Sun Sep 10 2017,Zaragoza,0-1,0-1,Alcorcon
+Mon Sep 11 2017,Reus Deportiu,1-0,1-0,Numancia
+Fri Sep 15 2017,Lugo,2-1,0-1,Zaragoza
+Sat Sep 16 2017,Lorca,1-1,1-0,Reus Deportiu
+Sat Sep 16 2017,Numancia,3-0,2-0,Sp Gijon
+Sat Sep 16 2017,Osasuna,2-1,0-1,Almeria
+Sat Sep 16 2017,Sevilla B,0-0,0-0,Vallecano
+Sat Sep 16 2017,Valladolid,2-1,1-0,Granada
+Sun Sep 17 2017,Alcorcon,1-1,0-0,Barcelona B
+Sun Sep 17 2017,Cordoba,2-0,0-0,Tenerife
+Sun Sep 17 2017,Gimnastic,3-1,2-1,Albacete
+Sun Sep 17 2017,Leonesa,3-2,2-1,Huesca
+Sun Sep 17 2017,Oviedo,1-0,0-0,Cadiz
+Fri Sep 22 2017,Almeria,3-0,1-0,Sevilla B
+Sat Sep 23 2017,Granada,3-1,1-0,Cordoba
+Sat Sep 23 2017,Reus Deportiu,0-0,0-0,Osasuna
+Sat Sep 23 2017,Sp Gijon,1-0,1-0,Lorca
+Sat Sep 23 2017,Tenerife,4-0,2-0,Alcorcon
+Sun Sep 24 2017,Albacete,2-1,0-0,Oviedo
+Sun Sep 24 2017,Cadiz,0-0,0-0,Numancia
+Sun Sep 24 2017,Huesca,1-0,1-0,Valladolid
+Sun Sep 24 2017,Vallecano,3-1,1-1,Leonesa
+Sun Sep 24 2017,Zaragoza,1-1,1-0,Gimnastic
+Mon Sep 25 2017,Barcelona B,1-2,1-1,Lugo
+Fri Sep 29 2017,Leonesa,0-0,0-0,Almeria
+Sat Sep 30 2017,Lorca,3-0,1-0,Cadiz
+Sat Sep 30 2017,Numancia,5-1,1-1,Albacete
+Sat Sep 30 2017,Valladolid,4-1,3-0,Cordoba
+Sun Oct 1 2017,Alcorcon,1-2,1-1,Granada
+Sun Oct 1 2017,Huesca,2-1,1-1,Vallecano
+Sun Oct 1 2017,Lugo,1-0,0-0,Tenerife
+Sun Oct 1 2017,Osasuna,2-0,1-0,Sp Gijon
+Sun Oct 1 2017,Sevilla B,0-1,0-1,Reus Deportiu
+Mon Oct 2 2017,Oviedo,2-2,2-2,Zaragoza
+Sat Oct 7 2017,Almeria,0-3,0-2,Huesca
+Sat Oct 7 2017,Cadiz,0-2,0-0,Osasuna
+Sat Oct 7 2017,Reus Deportiu,1-1,1-1,Leonesa
+Sat Oct 7 2017,Sp Gijon,3-0,1-0,Sevilla B
+Sat Oct 7 2017,Tenerife,2-0,0-0,Gimnastic
+Sun Oct 8 2017,Albacete,2-1,1-0,Lorca
+Sun Oct 8 2017,Barcelona B,1-1,1-0,Oviedo
+Sun Oct 8 2017,Cordoba,3-0,0-0,Alcorcon
+Sun Oct 8 2017,Granada,2-0,1-0,Lugo
+Sun Oct 8 2017,Vallecano,4-1,3-0,Valladolid
+Sun Oct 8 2017,Zaragoza,3-0,1-0,Numancia
+Tue Oct 10 2017,Huesca,1-1,0-0,Reus Deportiu
+Tue Oct 10 2017,Leonesa,0-2,0-0,Sp Gijon
+Wed Oct 11 2017,Gimnastic,2-0,2-0,Granada
+Wed Oct 11 2017,Lorca,0-2,0-0,Zaragoza
+Wed Oct 11 2017,Numancia,1-0,0-0,Barcelona B
+Wed Oct 11 2017,Oviedo,1-1,1-0,Tenerife
+Wed Oct 11 2017,Sevilla B,0-0,0-0,Cadiz
+Thu Oct 12 2017,Lugo,2-0,0-0,Cordoba
+Thu Oct 12 2017,Osasuna,1-0,1-0,Albacete
+Thu Oct 12 2017,Valladolid,4-0,1-0,Alcorcon
+Thu Oct 12 2017,Vallecano,1-0,0-0,Almeria
+Fri Oct 13 2017,Sp Gijon,1-1,0-0,Huesca
+Sat Oct 14 2017,Barcelona B,1-0,0-0,Lorca
+Sat Oct 14 2017,Cadiz,2-2,2-0,Leonesa
+Sat Oct 14 2017,Granada,2-0,1-0,Oviedo
+Sat Oct 14 2017,Tenerife,1-1,1-1,Numancia
+Sun Oct 15 2017,Albacete,2-1,2-0,Sevilla B
+Sun Oct 15 2017,Almeria,1-1,1-1,Valladolid
+Sun Oct 15 2017,Cordoba,1-5,1-2,Gimnastic
+Sun Oct 15 2017,Reus Deportiu,0-2,0-1,Vallecano
+Sun Oct 15 2017,Zaragoza,1-1,1-0,Osasuna
+Mon Oct 16 2017,Alcorcon,0-1,0-0,Lugo
+Fri Oct 20 2017,Osasuna,2-2,1-2,Barcelona B
+Sat Oct 21 2017,Huesca,1-0,1-0,Cadiz
+Sat Oct 21 2017,Lorca,2-2,2-1,Tenerife
+Sat Oct 21 2017,Numancia,1-3,0-2,Granada
+Sat Oct 21 2017,Sevilla B,2-2,1-1,Zaragoza
+Sun Oct 22 2017,Almeria,0-1,0-1,Reus Deportiu
+Sun Oct 22 2017,Gimnastic,0-3,0-2,Alcorcon
+Sun Oct 22 2017,Oviedo,2-0,0-0,Cordoba
+Sun Oct 22 2017,Valladolid,2-2,0-2,Lugo
+Sun Oct 22 2017,Vallecano,1-1,1-1,Sp Gijon
+Mon Oct 23 2017,Leonesa,0-0,0-0,Albacete
+Fri Oct 27 2017,Zaragoza,0-0,0-0,Leonesa
+Sat Oct 28 2017,Albacete,0-0,0-0,Huesca
+Sat Oct 28 2017,Cadiz,0-0,0-0,Vallecano
+Sat Oct 28 2017,Lugo,1-0,1-0,Gimnastic
+Sat Oct 28 2017,Sp Gijon,2-0,2-0,Almeria
+Sun Oct 29 2017,Alcorcon,2-0,1-0,Oviedo
+Sun Oct 29 2017,Barcelona B,1-1,1-0,Sevilla B
+Sun Oct 29 2017,Cordoba,1-1,1-1,Numancia
+Sun Oct 29 2017,Reus Deportiu,2-2,1-1,Valladolid
+Sun Oct 29 2017,Tenerife,0-0,0-0,Osasuna
+Mon Oct 30 2017,Granada,4-1,2-0,Lorca
+Wed Nov 1 2017,Gimnastic,0-0,0-0,Barcelona B
+Fri Nov 3 2017,Numancia,1-0,0-0,Alcorcon
+Sat Nov 4 2017,Lorca,1-0,0-0,Cordoba
+Sat Nov 4 2017,Reus Deportiu,1-0,0-0,Sp Gijon
+Sat Nov 4 2017,Sevilla B,1-1,0-1,Tenerife
+Sat Nov 4 2017,Vallecano,1-1,0-0,Albacete
+Sun Nov 5 2017,Almeria,0-2,0-1,Cadiz
+Sun Nov 5 2017,Leonesa,1-1,0-1,Barcelona B
+Sun Nov 5 2017,Osasuna,0-0,0-0,Granada
+Sun Nov 5 2017,Oviedo,3-2,0-1,Lugo
+Sun Nov 5 2017,Valladolid,0-3,0-1,Gimnastic
+Mon Nov 6 2017,Huesca,3-1,1-0,Zaragoza
+Fri Nov 10 2017,Cordoba,0-1,0-0,Osasuna
+Sat Nov 11 2017,Albacete,2-0,1-0,Almeria
+Sat Nov 11 2017,Alcorcon,1-1,1-0,Lorca
+Sat Nov 11 2017,Barcelona B,0-2,0-0,Huesca
+Sat Nov 11 2017,Tenerife,2-0,2-0,Leonesa
+Sat Nov 11 2017,Zaragoza,3-2,2-0,Vallecano
+Sun Nov 12 2017,Gimnastic,1-2,1-0,Oviedo
+Sun Nov 12 2017,Granada,1-2,0-1,Sevilla B
+Sun Nov 12 2017,Lugo,0-1,0-1,Numancia
+Sun Nov 12 2017,Sp Gijon,1-1,1-0,Valladolid
+Mon Nov 13 2017,Cadiz,1-0,1-0,Reus Deportiu
+Fri Nov 17 2017,Almeria,3-0,1-0,Zaragoza
+Sat Nov 18 2017,Huesca,3-0,2-0,Tenerife
+Sat Nov 18 2017,Lorca,1-2,1-1,Lugo
+Sat Nov 18 2017,Reus Deportiu,1-1,0-1,Albacete
+Sat Nov 18 2017,Valladolid,3-1,1-0,Oviedo
+Sun Nov 19 2017,Leonesa,1-1,1-0,Granada
+Sun Nov 19 2017,Numancia,1-2,1-1,Gimnastic
+Sun Nov 19 2017,Osasuna,2-3,1-0,Alcorcon
+Sun Nov 19 2017,Sevilla B,1-1,0-0,Cordoba
+Sun Nov 19 2017,Sp Gijon,0-3,0-1,Cadiz
+Sun Nov 19 2017,Vallecano,1-0,0-0,Barcelona B
+Fri Nov 24 2017,Tenerife,2-2,0-1,Vallecano
+Sat Nov 25 2017,Alcorcon,0-0,0-0,Sevilla B
+Sat Nov 25 2017,Cadiz,1-0,1-0,Valladolid
+Sat Nov 25 2017,Gimnastic,0-2,0-0,Lorca
+Sat Nov 25 2017,Oviedo,3-1,1-1,Numancia
+Sat Nov 25 2017,Zaragoza,0-0,0-0,Reus Deportiu
+Sun Nov 26 2017,Albacete,2-2,1-0,Sp Gijon
+Sun Nov 26 2017,Barcelona B,1-1,0-0,Almeria
+Sun Nov 26 2017,Cordoba,2-2,2-0,Leonesa
+Sun Nov 26 2017,Granada,2-0,2-0,Huesca
+Sun Nov 26 2017,Lugo,1-0,0-0,Osasuna
+Sat Dec 2 2017,Huesca,3-1,2-0,Cordoba
+Sat Dec 2 2017,Lorca,0-2,0-2,Oviedo
+Sat Dec 2 2017,Reus Deportiu,2-1,1-1,Barcelona B
+Sat Dec 2 2017,Vallecano,1-0,0-0,Granada
+Sun Dec 3 2017,Almeria,2-1,1-0,Tenerife
+Sun Dec 3 2017,Cadiz,2-0,1-0,Albacete
+Sun Dec 3 2017,Leonesa,2-2,1-1,Alcorcon
+Sun Dec 3 2017,Sevilla B,1-1,1-0,Lugo
+Sun Dec 3 2017,Sp Gijon,0-1,0-0,Zaragoza
+Sun Dec 3 2017,Valladolid,2-3,2-0,Numancia
+Fri Dec 8 2017,Barcelona B,2-1,2-0,Sp Gijon
+Fri Dec 8 2017,Granada,3-2,1-0,Almeria
+Sat Dec 9 2017,Albacete,2-1,1-0,Valladolid
+Sat Dec 9 2017,Alcorcon,1-1,1-1,Huesca
+Sat Dec 9 2017,Numancia,1-0,1-0,Lorca
+Sat Dec 9 2017,Zaragoza,0-2,0-0,Cadiz
+Sun Dec 10 2017,Cordoba,2-2,2-0,Vallecano
+Sun Dec 10 2017,Gimnastic,2-1,2-0,Sevilla B
+Sun Dec 10 2017,Lugo,3-1,0-0,Leonesa
+Sun Dec 10 2017,Oviedo,1-0,1-0,Osasuna
+Sun Dec 10 2017,Tenerife,3-0,1-0,Reus Deportiu
+Fri Dec 15 2017,Cadiz,3-1,0-0,Barcelona B
+Sat Dec 16 2017,Albacete,0-0,0-0,Zaragoza
+Sat Dec 16 2017,Almeria,1-0,0-0,Cordoba
+Sat Dec 16 2017,Osasuna,2-2,2-1,Numancia
+Sat Dec 16 2017,Reus Deportiu,0-0,0-0,Granada
+Sat Dec 16 2017,Valladolid,3-0,1-0,Lorca
+Sun Dec 17 2017,Huesca,3-0,2-0,Lugo
+Sun Dec 17 2017,Leonesa,2-0,0-0,Gimnastic
+Sun Dec 17 2017,Sevilla B,0-1,0-1,Oviedo
+Sun Dec 17 2017,Sp Gijon,3-0,2-0,Tenerife
+Sun Dec 17 2017,Vallecano,2-1,0-0,Alcorcon
+Tue Dec 19 2017,Barcelona B,0-1,0-1,Albacete
+Tue Dec 19 2017,Valladolid,3-2,3-1,Zaragoza
+Wed Dec 20 2017,Cordoba,5-0,2-0,Reus Deportiu
+Wed Dec 20 2017,Granada,2-1,0-0,Sp Gijon
+Wed Dec 20 2017,Lorca,0-1,0-1,Osasuna
+Thu Dec 21 2017,Numancia,3-0,0-0,Sevilla B
+Thu Dec 21 2017,Tenerife,1-1,0-1,Cadiz
+Fri Dec 22 2017,Alcorcon,2-0,1-0,Almeria
+Fri Dec 22 2017,Lugo,1-2,0-1,Vallecano
+Sat Dec 23 2017,Gimnastic,1-2,0-1,Huesca
+Sat Dec 23 2017,Oviedo,3-0,1-0,Leonesa
+Sat Jan 6 2018,Cadiz,1-0,1-0,Granada
+Sat Jan 6 2018,Osasuna,4-2,1-2,Valladolid
+Sat Jan 6 2018,Reus Deportiu,1-1,0-1,Alcorcon
+Sat Jan 6 2018,Sp Gijon,3-2,2-0,Cordoba
+Sat Jan 6 2018,Vallecano,2-3,1-2,Gimnastic
+Sat Jan 6 2018,Zaragoza,1-1,0-0,Barcelona B
+Sun Jan 7 2018,Albacete,1-2,0-0,Tenerife
+Sun Jan 7 2018,Almeria,1-0,0-0,Lugo
+Sun Jan 7 2018,Huesca,1-1,1-0,Oviedo
+Sun Jan 7 2018,Leonesa,2-2,0-0,Numancia
+Sun Jan 7 2018,Sevilla B,3-2,2-2,Lorca
+Fri Jan 12 2018,Vallecano,2-2,1-1,Oviedo
+Sat Jan 13 2018,Almeria,1-1,0-0,Gimnastic
+Sat Jan 13 2018,Barcelona B,0-1,0-0,Valladolid
+Sat Jan 13 2018,Reus Deportiu,0-1,0-1,Lugo
+Sat Jan 13 2018,Sp Gijon,3-0,1-0,Alcorcon
+Sat Jan 13 2018,Zaragoza,1-0,1-0,Tenerife
+Sun Jan 14 2018,Albacete,2-1,1-0,Granada
+Sun Jan 14 2018,Cadiz,2-0,1-0,Cordoba
+Sun Jan 14 2018,Huesca,2-1,0-0,Numancia
+Sun Jan 14 2018,Leonesa,2-1,0-0,Lorca
+Sun Jan 14 2018,Sevilla B,0-1,0-0,Osasuna
+Thu Jan 18 2018,Osasuna,0-2,0-1,Gimnastic
+Fri Jan 19 2018,Granada,2-1,2-1,Zaragoza
+Sat Jan 20 2018,Cordoba,1-0,0-0,Albacete
+Sat Jan 20 2018,Lorca,2-3,2-1,Huesca
+Sat Jan 20 2018,Lugo,3-1,1-0,Sp Gijon
+Sat Jan 20 2018,Oviedo,2-1,0-0,Almeria
+Sat Jan 20 2018,Valladolid,1-0,0-0,Sevilla B
+Sun Jan 21 2018,Alcorcon,1-0,1-0,Cadiz
+Sun Jan 21 2018,Gimnastic,1-2,0-1,Reus Deportiu
+Sun Jan 21 2018,Numancia,0-0,0-0,Vallecano
+Sun Jan 21 2018,Osasuna,2-1,1-0,Leonesa
+Sun Jan 21 2018,Tenerife,1-3,0-3,Barcelona B
+Fri Jan 26 2018,Zaragoza,1-0,1-0,Cordoba
+Sat Jan 27 2018,Albacete,2-0,1-0,Alcorcon
+Sat Jan 27 2018,Barcelona B,3-0,1-0,Granada
+Sat Jan 27 2018,Cadiz,1-1,0-0,Lugo
+Sat Jan 27 2018,Reus Deportiu,0-0,0-0,Oviedo
+Sat Jan 27 2018,Vallecano,5-1,2-0,Lorca
+Sun Jan 28 2018,Almeria,0-0,0-0,Numancia
+Sun Jan 28 2018,Huesca,1-0,1-0,Osasuna
+Sun Jan 28 2018,Leonesa,2-1,0-1,Sevilla B
+Sun Jan 28 2018,Sp Gijon,2-0,1-0,Gimnastic
+Sun Jan 28 2018,Tenerife,0-0,0-0,Valladolid
+Fri Feb 2 2018,Osasuna,1-1,0-1,Vallecano
+Sat Feb 3 2018,Alcorcon,1-1,1-1,Zaragoza
+Sat Feb 3 2018,Gimnastic,0-0,0-0,Cadiz
+Sat Feb 3 2018,Granada,2-1,2-0,Tenerife
+Sat Feb 3 2018,Lorca,1-2,1-0,Almeria
+Sat Feb 3 2018,Valladolid,3-2,2-2,Leonesa
+Sun Feb 4 2018,Cordoba,1-2,1-0,Barcelona B
+Sun Feb 4 2018,Lugo,1-1,0-0,Albacete
+Sun Feb 4 2018,Numancia,1-0,0-0,Reus Deportiu
+Sun Feb 4 2018,Oviedo,2-1,1-1,Sp Gijon
+Sun Feb 4 2018,Sevilla B,0-1,0-0,Huesca
+Fri Feb 9 2018,Granada,1-0,1-0,Valladolid
+Sat Feb 10 2018,Almeria,0-1,0-0,Osasuna
+Sat Feb 10 2018,Barcelona B,0-1,0-0,Alcorcon
+Sat Feb 10 2018,Cadiz,2-1,0-0,Oviedo
+Sat Feb 10 2018,Sp Gijon,2-0,0-0,Numancia
+Sun Feb 11 2018,Albacete,0-1,0-1,Gimnastic
+Sun Feb 11 2018,Huesca,1-0,0-0,Leonesa
+Sun Feb 11 2018,Reus Deportiu,3-0,0-0,Lorca
+Sun Feb 11 2018,Tenerife,5-1,2-1,Cordoba
+Sun Feb 11 2018,Vallecano,2-0,0-0,Sevilla B
+Sun Feb 11 2018,Zaragoza,2-0,1-0,Lugo
+Fri Feb 16 2018,Valladolid,3-2,2-0,Huesca
+Sat Feb 17 2018,Alcorcon,1-1,1-1,Tenerife
+Sat Feb 17 2018,Gimnastic,0-2,0-1,Zaragoza
+Sat Feb 17 2018,Lorca,0-0,0-0,Sp Gijon
+Sat Feb 17 2018,Osasuna,0-0,0-0,Reus Deportiu
+Sat Feb 17 2018,Oviedo,0-0,0-0,Albacete
+Sun Feb 18 2018,Cordoba,1-2,1-0,Granada
+Sun Feb 18 2018,Leonesa,2-3,0-2,Vallecano
+Sun Feb 18 2018,Lugo,1-2,1-0,Barcelona B
+Sun Feb 18 2018,Numancia,1-0,0-0,Cadiz
+Sun Feb 18 2018,Sevilla B,0-3,0-1,Almeria
+Fri Feb 23 2018,Sp Gijon,2-0,1-0,Osasuna
+Sat Feb 24 2018,Almeria,2-1,2-0,Leonesa
+Sat Feb 24 2018,Barcelona B,1-1,0-0,Gimnastic
+Sat Feb 24 2018,Cadiz,0-0,0-0,Lorca
+Sat Feb 24 2018,Vallecano,3-0,3-0,Huesca
+Sun Feb 25 2018,Albacete,1-0,1-0,Numancia
+Sun Feb 25 2018,Cordoba,2-1,0-1,Valladolid
+Sun Feb 25 2018,Granada,2-0,0-0,Alcorcon
+Sun Feb 25 2018,Reus Deportiu,2-0,0-0,Sevilla B
+Sun Feb 25 2018,Zaragoza,2-1,0-0,Oviedo
+Mon Feb 26 2018,Tenerife,3-1,2-1,Lugo
+Fri Mar 2 2018,Oviedo,0-0,0-0,Barcelona B
+Sat Mar 3 2018,Leonesa,2-0,2-0,Reus Deportiu
+Sat Mar 3 2018,Lugo,2-1,1-1,Granada
+Sat Mar 3 2018,Numancia,1-2,1-1,Zaragoza
+Sat Mar 3 2018,Osasuna,1-0,1-0,Cadiz
+Sun Mar 4 2018,Alcorcon,1-2,1-1,Cordoba
+Sun Mar 4 2018,Gimnastic,1-2,1-2,Tenerife
+Sun Mar 4 2018,Huesca,2-2,1-1,Almeria
+Sun Mar 4 2018,Lorca,1-2,1-0,Albacete
+Sun Mar 4 2018,Sevilla B,0-1,0-1,Sp Gijon
+Sun Mar 4 2018,Valladolid,1-1,0-0,Vallecano
+Fri Mar 9 2018,Tenerife,3-1,2-0,Oviedo
+Sat Mar 10 2018,Alcorcon,0-0,0-0,Valladolid
+Sat Mar 10 2018,Almeria,0-1,0-1,Vallecano
+Sat Mar 10 2018,Cadiz,4-1,2-0,Sevilla B
+Sat Mar 10 2018,Granada,0-1,0-1,Gimnastic
+Sun Mar 11 2018,Albacete,0-0,0-0,Osasuna
+Sun Mar 11 2018,Barcelona B,2-2,1-0,Numancia
+Sun Mar 11 2018,Cordoba,1-0,0-0,Lugo
+Sun Mar 11 2018,Reus Deportiu,0-0,0-0,Huesca
+Sun Mar 11 2018,Sp Gijon,4-0,1-0,Leonesa
+Sun Mar 11 2018,Zaragoza,3-1,2-0,Lorca
+Fri Mar 16 2018,Sevilla B,1-2,1-1,Albacete
+Sat Mar 17 2018,Leonesa,0-1,0-0,Cadiz
+Sat Mar 17 2018,Lorca,1-1,1-0,Barcelona B
+Sat Mar 17 2018,Lugo,2-1,0-1,Alcorcon
+Sat Mar 17 2018,Osasuna,1-2,0-0,Zaragoza
+Sun Mar 18 2018,Gimnastic,0-2,0-1,Cordoba
+Sun Mar 18 2018,Numancia,2-0,0-0,Tenerife
+Sun Mar 18 2018,Oviedo,2-1,1-1,Granada
+Sun Mar 18 2018,Valladolid,2-1,0-1,Almeria
+Sun Mar 18 2018,Vallecano,3-2,2-1,Reus Deportiu
+Mon Mar 19 2018,Huesca,0-2,0-1,Sp Gijon
+Sat Mar 24 2018,Albacete,0-0,0-0,Leonesa
+Sat Mar 24 2018,Cordoba,1-1,0-1,Oviedo
+Sat Mar 24 2018,Lugo,0-0,0-0,Valladolid
+Sat Mar 24 2018,Reus Deportiu,1-0,1-0,Almeria
+Sat Mar 24 2018,Sp Gijon,1-0,0-0,Vallecano
+Sun Mar 25 2018,Alcorcon,1-0,1-0,Gimnastic
+Sun Mar 25 2018,Barcelona B,0-2,0-1,Osasuna
+Sun Mar 25 2018,Granada,1-0,0-0,Numancia
+Sun Mar 25 2018,Tenerife,2-0,1-0,Lorca
+Sun Mar 25 2018,Zaragoza,0-1,0-1,Sevilla B
+Mon Mar 26 2018,Cadiz,1-1,0-1,Huesca
+Sat Mar 31 2018,Leonesa,0-1,0-1,Zaragoza
+Sat Mar 31 2018,Numancia,2-1,2-1,Cordoba
+Sat Mar 31 2018,Oviedo,0-1,0-0,Alcorcon
+Sat Mar 31 2018,Valladolid,1-0,1-0,Reus Deportiu
+Sun Apr 1 2018,Almeria,1-3,0-1,Sp Gijon
+Sun Apr 1 2018,Gimnastic,3-0,1-0,Lugo
+Sun Apr 1 2018,Lorca,3-2,1-0,Granada
+Sun Apr 1 2018,Osasuna,0-1,0-0,Tenerife
+Sun Apr 1 2018,Sevilla B,3-1,0-0,Barcelona B
+Sun Apr 1 2018,Vallecano,1-1,1-1,Cadiz
+Fri Apr 6 2018,Cadiz,0-0,0-0,Almeria
+Sat Apr 7 2018,Albacete,0-1,0-0,Vallecano
+Sat Apr 7 2018,Alcorcon,0-1,0-0,Numancia
+Sat Apr 7 2018,Barcelona B,0-1,0-1,Leonesa
+Sat Apr 7 2018,Granada,1-1,0-0,Osasuna
+Sat Apr 7 2018,Zaragoza,1-0,0-0,Huesca
+Sun Apr 8 2018,Cordoba,1-0,0-0,Lorca
+Sun Apr 8 2018,Gimnastic,1-0,0-0,Valladolid
+Sun Apr 8 2018,Lugo,0-1,0-0,Oviedo
+Sun Apr 8 2018,Sp Gijon,2-1,2-0,Reus Deportiu
+Sun Apr 8 2018,Tenerife,2-0,0-0,Sevilla B
+Thu Apr 12 2018,Huesca,0-0,0-0,Albacete
+Sat Apr 14 2018,Leonesa,3-2,3-1,Tenerife
+Sat Apr 14 2018,Lorca,1-1,1-1,Alcorcon
+Sat Apr 14 2018,Numancia,2-0,0-0,Lugo
+Sat Apr 14 2018,Reus Deportiu,1-0,0-0,Cadiz
+Sun Apr 15 2018,Almeria,1-1,0-1,Albacete
+Sun Apr 15 2018,Osasuna,1-1,0-1,Cordoba
+Sun Apr 15 2018,Oviedo,1-0,1-0,Gimnastic
+Sun Apr 15 2018,Sevilla B,0-0,0-0,Granada
+Sun Apr 15 2018,Valladolid,0-1,0-1,Sp Gijon
+Sun Apr 15 2018,Vallecano,2-1,0-0,Zaragoza
+Mon Apr 16 2018,Huesca,2-1,0-0,Barcelona B
+Fri Apr 20 2018,Cordoba,3-0,2-0,Sevilla B
+Fri Apr 20 2018,Oviedo,1-2,0-0,Valladolid
+Sat Apr 21 2018,Albacete,0-1,0-0,Reus Deportiu
+Sat Apr 21 2018,Gimnastic,0-0,0-0,Numancia
+Sat Apr 21 2018,Tenerife,2-4,2-1,Huesca
+Sat Apr 21 2018,Zaragoza,2-1,0-0,Almeria
+Sun Apr 22 2018,Alcorcon,0-0,0-0,Osasuna
+Sun Apr 22 2018,Barcelona B,2-3,0-1,Vallecano
+Sun Apr 22 2018,Cadiz,0-0,0-0,Sp Gijon
+Sun Apr 22 2018,Granada,3-3,1-0,Leonesa
+Sun Apr 22 2018,Lugo,1-1,0-0,Lorca
+Fri Apr 27 2018,Reus Deportiu,1-1,0-1,Zaragoza
+Sat Apr 28 2018,Almeria,1-0,0-0,Barcelona B
+Sat Apr 28 2018,Huesca,2-1,2-1,Granada
+Sat Apr 28 2018,Osasuna,1-1,0-0,Lugo
+Sat Apr 28 2018,Sevilla B,1-0,0-0,Alcorcon
+Sat Apr 28 2018,Valladolid,1-1,0-0,Cadiz
+Sun Apr 29 2018,Leonesa,2-1,1-0,Cordoba
+Sun Apr 29 2018,Lorca,1-0,0-0,Gimnastic
+Sun Apr 29 2018,Numancia,3-0,2-0,Oviedo
+Sun Apr 29 2018,Sp Gijon,2-1,1-1,Albacete
+Sun Apr 29 2018,Vallecano,3-1,1-1,Tenerife
+Fri May 4 2018,Alcorcon,0-0,0-0,Leonesa
+Sat May 5 2018,Barcelona B,0-1,0-1,Reus Deportiu
+Sat May 5 2018,Cordoba,2-4,0-2,Huesca
+Sat May 5 2018,Numancia,0-1,0-0,Valladolid
+Sat May 5 2018,Tenerife,0-0,0-0,Almeria
+Sat May 5 2018,Zaragoza,2-1,2-0,Sp Gijon
+Sun May 6 2018,Albacete,1-1,1-1,Cadiz
+Sun May 6 2018,Gimnastic,0-2,0-2,Osasuna
+Sun May 6 2018,Lugo,1-0,1-0,Sevilla B
+Sun May 6 2018,Oviedo,2-0,1-0,Lorca
+Mon May 7 2018,Granada,0-2,0-0,Vallecano
+Fri May 11 2018,Lorca,2-1,1-0,Numancia
+Sat May 12 2018,Osasuna,2-1,0-1,Oviedo
+Sat May 12 2018,Reus Deportiu,1-1,1-1,Tenerife
+Sat May 12 2018,Sp Gijon,2-3,1-2,Barcelona B
+Sat May 12 2018,Valladolid,3-2,1-1,Albacete
+Sun May 13 2018,Almeria,2-0,1-0,Granada
+Sun May 13 2018,Huesca,1-1,0-1,Alcorcon
+Sun May 13 2018,Leonesa,1-1,1-0,Lugo
+Sun May 13 2018,Sevilla B,1-0,0-0,Gimnastic
+Sun May 13 2018,Vallecano,1-2,1-0,Cordoba
+Mon May 14 2018,Cadiz,2-0,1-0,Zaragoza
+Fri May 18 2018,Tenerife,1-0,0-0,Sp Gijon
+Sat May 19 2018,Gimnastic,5-3,0-2,Leonesa
+Sat May 19 2018,Granada,1-0,1-0,Reus Deportiu
+Sat May 19 2018,Lorca,1-5,1-1,Valladolid
+Sat May 19 2018,Oviedo,2-1,1-0,Sevilla B
+Sun May 20 2018,Alcorcon,4-0,1-0,Vallecano
+Sun May 20 2018,Barcelona B,3-1,3-0,Cadiz
+Sun May 20 2018,Cordoba,2-0,1-0,Almeria
+Sun May 20 2018,Numancia,1-1,0-0,Osasuna
+Sun May 20 2018,Zaragoza,4-1,3-1,Albacete
+Mon May 21 2018,Lugo,0-2,0-2,Huesca
+Sun May 27 2018,Albacete,0-0,0-0,Barcelona B
+Sun May 27 2018,Almeria,0-0,0-0,Alcorcon
+Sun May 27 2018,Cadiz,1-1,0-0,Tenerife
+Sun May 27 2018,Huesca,0-1,0-0,Gimnastic
+Sun May 27 2018,Leonesa,2-0,1-0,Oviedo
+Sun May 27 2018,Osasuna,1-0,0-0,Lorca
+Sun May 27 2018,Reus Deportiu,1-2,0-1,Cordoba
+Sun May 27 2018,Sevilla B,2-1,1-0,Numancia
+Sun May 27 2018,Sp Gijon,2-1,1-0,Granada
+Sun May 27 2018,Vallecano,1-0,1-0,Lugo
+Sun May 27 2018,Zaragoza,3-2,1-0,Valladolid
+Fri Jun 1 2018,Lorca,2-1,1-0,Sevilla B
+Sat Jun 2 2018,Alcorcon,3-0,2-0,Reus Deportiu
+Sat Jun 2 2018,Barcelona B,0-2,0-1,Zaragoza
+Sat Jun 2 2018,Cordoba,3-0,2-0,Sp Gijon
+Sat Jun 2 2018,Gimnastic,2-0,2-0,Vallecano
+Sat Jun 2 2018,Granada,2-1,1-0,Cadiz
+Sat Jun 2 2018,Lugo,1-1,0-0,Almeria
+Sat Jun 2 2018,Numancia,2-1,1-0,Leonesa
+Sat Jun 2 2018,Oviedo,2-1,1-0,Huesca
+Sat Jun 2 2018,Tenerife,1-1,0-1,Albacete
+Sat Jun 2 2018,Valladolid,2-0,1-0,Osasuna

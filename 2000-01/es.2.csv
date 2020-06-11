@@ -1,0 +1,463 @@
+Date,Team 1,FT,HT,Team 2
+Sat Sep 2 2000,Albacete,1-0,1-0,Tenerife
+Sat Sep 2 2000,Getafe,0-0,0-0,Cordoba
+Sat Sep 2 2000,Lleida,0-0,0-0,Eibar
+Sun Sep 3 2000,Compostela,0-0,0-0,Betis
+Sun Sep 3 2000,Elche,2-0,1-0,Salamanca
+Sun Sep 3 2000,Jaen,1-0,0-0,Ferrol
+Sun Sep 3 2000,Leganes,1-1,1-0,Extremadura
+Sun Sep 3 2000,Levante,4-1,0-1,Ath Madrid
+Sun Sep 3 2000,Recreativo,0-0,0-0,Badajoz
+Sun Sep 3 2000,Sevilla,2-1,0-0,Murcia
+Sun Sep 3 2000,Sp Gijon,0-0,0-0,U.Las Palmas
+Sat Sep 9 2000,Ath Madrid,0-1,0-1,Recreativo
+Sat Sep 9 2000,U.Las Palmas,0-1,0-0,Getafe
+Sun Sep 10 2000,Badajoz,0-1,0-0,Jaen
+Sun Sep 10 2000,Betis,1-2,0-2,Elche
+Sun Sep 10 2000,Cordoba,1-1,1-1,Levante
+Sun Sep 10 2000,Eibar,0-1,0-0,Leganes
+Sun Sep 10 2000,Extremadura,1-1,1-0,Albacete
+Sun Sep 10 2000,Murcia,0-0,0-0,Lleida
+Sun Sep 10 2000,Ferrol,1-3,0-1,Compostela
+Sun Sep 10 2000,Salamanca,0-1,0-1,Sevilla
+Sun Sep 10 2000,Tenerife,1-0,0-0,Sp Gijon
+Sat Sep 16 2000,Albacete,1-3,0-2,Eibar
+Sat Sep 16 2000,Elche,1-2,0-1,Sevilla
+Sun Sep 17 2000,Betis,2-1,2-0,Ferrol
+Sun Sep 17 2000,Compostela,0-1,0-0,Badajoz
+Sun Sep 17 2000,Getafe,0-5,0-2,Tenerife
+Sun Sep 17 2000,Jaen,1-0,0-0,Ath Madrid
+Sun Sep 17 2000,Leganes,3-2,2-1,Murcia
+Sun Sep 17 2000,Levante,2-0,2-0,U.Las Palmas
+Sun Sep 17 2000,Lleida,0-3,0-3,Salamanca
+Sun Sep 17 2000,Recreativo,1-0,1-0,Cordoba
+Sun Sep 17 2000,Sp Gijon,2-0,2-0,Extremadura
+Sat Sep 23 2000,Ath Madrid,2-0,1-0,Compostela
+Sat Sep 23 2000,Cordoba,1-0,0-0,Jaen
+Sat Sep 23 2000,Ferrol,2-1,1-0,Elche
+Sat Sep 23 2000,Tenerife,1-1,0-1,Levante
+Sat Sep 23 2000,U.Las Palmas,0-0,0-0,Recreativo
+Sun Sep 24 2000,Badajoz,0-0,0-0,Betis
+Sun Sep 24 2000,Eibar,0-0,0-0,Sp Gijon
+Sun Sep 24 2000,Extremadura,1-0,0-0,Getafe
+Sun Sep 24 2000,Murcia,2-0,1-0,Albacete
+Sun Sep 24 2000,Salamanca,1-1,0-1,Leganes
+Sun Sep 24 2000,Sevilla,2-0,1-0,Lleida
+Sat Sep 30 2000,Elche,2-1,0-0,Lleida
+Sat Sep 30 2000,Leganes,1-1,0-0,Sevilla
+Sat Sep 30 2000,Ferrol,2-2,1-1,Badajoz
+Sat Sep 30 2000,Recreativo,0-0,0-0,Tenerife
+Sun Oct 1 2000,Albacete,1-0,0-0,Salamanca
+Sun Oct 1 2000,Betis,1-1,1-0,Ath Madrid
+Sun Oct 1 2000,Compostela,0-1,0-0,Cordoba
+Sun Oct 1 2000,Getafe,0-0,0-0,Eibar
+Sun Oct 1 2000,Jaen,1-0,0-0,U.Las Palmas
+Sun Oct 1 2000,Levante,1-0,0-0,Extremadura
+Sun Oct 1 2000,Sp Gijon,2-2,0-2,Murcia
+Sat Oct 7 2000,Cordoba,1-0,1-0,Betis
+Sat Oct 7 2000,Eibar,0-0,0-0,Levante
+Sun Oct 8 2000,Ath Madrid,1-1,0-0,Ferrol
+Sun Oct 8 2000,Badajoz,1-1,0-1,Elche
+Sun Oct 8 2000,Extremadura,1-1,0-1,Recreativo
+Sun Oct 8 2000,Lleida,1-0,1-0,Leganes
+Sun Oct 8 2000,Murcia,2-1,1-0,Getafe
+Sun Oct 8 2000,Salamanca,2-1,1-0,Sp Gijon
+Sun Oct 8 2000,Sevilla,1-0,0-0,Albacete
+Sun Oct 8 2000,Tenerife,1-1,1-1,Jaen
+Sun Oct 8 2000,U.Las Palmas,1-1,0-1,Compostela
+Sat Oct 14 2000,Badajoz,0-0,0-0,Ath Madrid
+Sat Oct 14 2000,Betis,2-0,1-0,U.Las Palmas
+Sun Oct 15 2000,Albacete,2-1,1-1,Lleida
+Sun Oct 15 2000,Compostela,0-2,0-2,Tenerife
+Sun Oct 15 2000,Elche,1-1,1-1,Leganes
+Sun Oct 15 2000,Getafe,1-2,1-0,Salamanca
+Sun Oct 15 2000,Jaen,0-0,0-0,Extremadura
+Sun Oct 15 2000,Levante,2-3,2-1,Murcia
+Sun Oct 15 2000,Ferrol,0-2,0-1,Cordoba
+Sun Oct 15 2000,Recreativo,3-0,1-0,Eibar
+Sun Oct 15 2000,Sp Gijon,3-0,1-0,Sevilla
+Sat Oct 21 2000,Ath Madrid,2-0,1-0,Elche
+Sat Oct 21 2000,Tenerife,0-1,0-1,Betis
+Sat Oct 21 2000,U.Las Palmas,1-3,1-1,Ferrol
+Sun Oct 22 2000,Cordoba,2-0,1-0,Badajoz
+Sun Oct 22 2000,Eibar,1-0,1-0,Jaen
+Sun Oct 22 2000,Extremadura,3-2,2-1,Compostela
+Sun Oct 22 2000,Leganes,0-0,0-0,Albacete
+Sun Oct 22 2000,Lleida,0-1,0-0,Sp Gijon
+Sun Oct 22 2000,Murcia,2-0,2-0,Recreativo
+Sun Oct 22 2000,Salamanca,1-1,0-0,Levante
+Sun Oct 22 2000,Sevilla,1-1,1-1,Getafe
+Sat Oct 28 2000,Badajoz,3-1,0-0,U.Las Palmas
+Sat Oct 28 2000,Compostela,2-1,1-1,Eibar
+Sat Oct 28 2000,Levante,2-0,0-0,Sevilla
+Sat Oct 28 2000,Ferrol,1-2,0-0,Tenerife
+Sat Oct 28 2000,Recreativo,0-0,0-0,Salamanca
+Sun Oct 29 2000,Ath Madrid,1-1,0-0,Cordoba
+Sun Oct 29 2000,Betis,1-0,1-0,Extremadura
+Sun Oct 29 2000,Elche,0-1,0-0,Albacete
+Sun Oct 29 2000,Getafe,2-1,2-0,Lleida
+Sun Oct 29 2000,Jaen,2-1,2-1,Murcia
+Sun Oct 29 2000,Sp Gijon,2-2,2-0,Leganes
+Wed Nov 1 2000,Albacete,3-1,1-0,Sp Gijon
+Wed Nov 1 2000,Cordoba,0-1,0-0,Elche
+Wed Nov 1 2000,Eibar,0-0,0-0,Betis
+Wed Nov 1 2000,Extremadura,1-0,1-0,Ferrol
+Wed Nov 1 2000,Leganes,2-3,0-1,Getafe
+Wed Nov 1 2000,Lleida,3-3,2-1,Levante
+Wed Nov 1 2000,Murcia,2-0,1-0,Compostela
+Wed Nov 1 2000,Salamanca,1-0,0-0,Jaen
+Wed Nov 1 2000,Sevilla,0-0,0-0,Recreativo
+Wed Nov 1 2000,Tenerife,3-0,2-0,Badajoz
+Wed Nov 1 2000,U.Las Palmas,2-1,1-0,Ath Madrid
+Sat Nov 4 2000,Jaen,2-1,1-1,Sevilla
+Sun Nov 5 2000,Ath Madrid,1-2,0-0,Tenerife
+Sun Nov 5 2000,Badajoz,1-1,0-0,Extremadura
+Sun Nov 5 2000,Betis,2-1,2-1,Murcia
+Sun Nov 5 2000,Compostela,2-1,0-0,Salamanca
+Sun Nov 5 2000,Cordoba,2-1,0-1,U.Las Palmas
+Sun Nov 5 2000,Elche,2-2,0-2,Sp Gijon
+Sun Nov 5 2000,Getafe,1-1,0-0,Albacete
+Sun Nov 5 2000,Levante,0-2,0-1,Leganes
+Sun Nov 5 2000,Ferrol,0-1,0-1,Eibar
+Sun Nov 5 2000,Recreativo,1-1,1-0,Lleida
+Sat Nov 11 2000,Extremadura,0-1,0-1,Ath Madrid
+Sat Nov 11 2000,U.Las Palmas,2-2,1-1,Elche
+Sun Nov 12 2000,Albacete,1-1,1-1,Levante
+Sun Nov 12 2000,Eibar,0-1,0-0,Badajoz
+Sun Nov 12 2000,Leganes,1-1,0-1,Recreativo
+Sun Nov 12 2000,Lleida,5-2,2-1,Jaen
+Sun Nov 12 2000,Murcia,1-1,0-1,Ferrol
+Sun Nov 12 2000,Salamanca,1-0,0-0,Betis
+Sun Nov 12 2000,Sevilla,4-0,4-0,Compostela
+Sun Nov 12 2000,Sp Gijon,3-1,2-0,Getafe
+Sun Nov 12 2000,Tenerife,3-0,1-0,Cordoba
+Sat Nov 18 2000,Ath Madrid,1-1,1-0,Eibar
+Sat Nov 18 2000,Recreativo,1-0,0-0,Albacete
+Sat Nov 18 2000,U.Las Palmas,0-1,0-0,Tenerife
+Sun Nov 19 2000,Badajoz,1-1,0-0,Murcia
+Sun Nov 19 2000,Betis,1-3,0-0,Sevilla
+Sun Nov 19 2000,Compostela,2-1,2-0,Lleida
+Sun Nov 19 2000,Cordoba,2-0,1-0,Extremadura
+Sun Nov 19 2000,Elche,1-4,1-1,Getafe
+Sun Nov 19 2000,Jaen,0-0,0-0,Leganes
+Sun Nov 19 2000,Levante,1-1,0-0,Sp Gijon
+Sun Nov 19 2000,Ferrol,0-1,0-0,Salamanca
+Sat Nov 25 2000,Extremadura,2-1,2-0,U.Las Palmas
+Sat Nov 25 2000,Lleida,0-1,0-0,Betis
+Sun Nov 26 2000,Albacete,2-1,1-1,Jaen
+Sun Nov 26 2000,Eibar,3-0,0-0,Cordoba
+Sun Nov 26 2000,Getafe,1-2,1-1,Levante
+Sun Nov 26 2000,Leganes,3-0,1-0,Compostela
+Sun Nov 26 2000,Murcia,1-1,0-1,Ath Madrid
+Sun Nov 26 2000,Salamanca,1-1,0-0,Badajoz
+Sun Nov 26 2000,Sevilla,3-0,2-0,Ferrol
+Sun Nov 26 2000,Sp Gijon,0-1,0-1,Recreativo
+Sun Nov 26 2000,Tenerife,3-1,0-0,Elche
+Sat Dec 2 2000,Ath Madrid,3-0,2-0,Salamanca
+Sat Dec 2 2000,Elche,1-1,0-0,Levante
+Sat Dec 2 2000,Ferrol,3-1,2-1,Lleida
+Sat Dec 2 2000,Recreativo,0-0,0-0,Getafe
+Sat Dec 2 2000,U.Las Palmas,0-0,0-0,Eibar
+Sun Dec 3 2000,Badajoz,2-0,0-0,Sevilla
+Sun Dec 3 2000,Betis,2-1,0-0,Leganes
+Sun Dec 3 2000,Compostela,0-2,0-0,Albacete
+Sun Dec 3 2000,Cordoba,1-3,1-1,Murcia
+Sun Dec 3 2000,Jaen,0-2,0-0,Sp Gijon
+Sun Dec 3 2000,Tenerife,0-2,0-1,Extremadura
+Sat Dec 9 2000,Eibar,2-2,1-1,Tenerife
+Sat Dec 9 2000,Extremadura,1-2,0-1,Elche
+Sat Dec 9 2000,Getafe,0-1,0-1,Jaen
+Sat Dec 9 2000,Lleida,1-1,1-0,Badajoz
+Sat Dec 9 2000,Salamanca,1-1,1-0,Cordoba
+Sun Dec 10 2000,Albacete,0-0,0-0,Betis
+Sun Dec 10 2000,Leganes,1-1,1-0,Ferrol
+Sun Dec 10 2000,Levante,1-1,1-0,Recreativo
+Sun Dec 10 2000,Murcia,1-1,0-0,U.Las Palmas
+Sun Dec 10 2000,Sevilla,3-1,2-0,Ath Madrid
+Sun Dec 10 2000,Sp Gijon,5-2,3-2,Compostela
+Sat Dec 16 2000,Jaen,0-1,0-1,Levante
+Sat Dec 16 2000,Tenerife,1-0,1-0,Murcia
+Sat Dec 16 2000,U.Las Palmas,1-3,1-1,Salamanca
+Sun Dec 17 2000,Ath Madrid,3-2,2-1,Lleida
+Sun Dec 17 2000,Badajoz,1-0,1-0,Leganes
+Sun Dec 17 2000,Betis,1-0,1-0,Sp Gijon
+Sun Dec 17 2000,Compostela,1-1,0-0,Getafe
+Sun Dec 17 2000,Cordoba,0-1,0-1,Sevilla
+Sun Dec 17 2000,Elche,0-1,0-0,Recreativo
+Sun Dec 17 2000,Extremadura,2-0,0-0,Eibar
+Wed Dec 20 2000,Albacete,1-1,0-0,Badajoz
+Wed Dec 20 2000,Eibar,2-1,1-0,Elche
+Wed Dec 20 2000,Getafe,0-2,0-1,Betis
+Wed Dec 20 2000,Levante,0-2,0-0,Compostela
+Wed Dec 20 2000,Lleida,2-0,1-0,Cordoba
+Wed Dec 20 2000,Murcia,1-3,0-1,Extremadura
+Wed Dec 20 2000,Recreativo,2-0,1-0,Jaen
+Wed Dec 20 2000,Salamanca,3-1,2-0,Tenerife
+Wed Dec 20 2000,Sevilla,2-2,0-1,U.Las Palmas
+Wed Dec 20 2000,Sp Gijon,1-1,1-1,Ferrol
+Thu Dec 21 2000,Leganes,1-2,1-1,Ath Madrid
+Sat Jan 6 2001,Betis,1-0,1-0,Levante
+Sun Jan 7 2001,Ath Madrid,0-0,0-0,Albacete
+Sun Jan 7 2001,Badajoz,2-0,2-0,Sp Gijon
+Sun Jan 7 2001,Compostela,2-0,1-0,Recreativo
+Sun Jan 7 2001,Cordoba,1-1,0-1,Leganes
+Sun Jan 7 2001,Eibar,0-1,0-0,Murcia
+Sun Jan 7 2001,Elche,0-0,0-0,Jaen
+Sun Jan 7 2001,Extremadura,0-1,0-0,Salamanca
+Sun Jan 7 2001,Ferrol,2-1,0-0,Getafe
+Sun Jan 7 2001,Tenerife,1-2,0-1,Sevilla
+Sun Jan 7 2001,U.Las Palmas,0-0,0-0,Lleida
+Sat Jan 13 2001,Lleida,1-1,1-0,Tenerife
+Sat Jan 13 2001,Sevilla,3-0,2-0,Extremadura
+Sun Jan 14 2001,Albacete,0-0,0-0,Cordoba
+Sun Jan 14 2001,Elche,1-1,1-1,Murcia
+Sun Jan 14 2001,Getafe,2-1,1-0,Badajoz
+Sun Jan 14 2001,Jaen,1-1,0-1,Compostela
+Sun Jan 14 2001,Leganes,1-1,0-1,U.Las Palmas
+Sun Jan 14 2001,Levante,0-0,0-0,Ferrol
+Sun Jan 14 2001,Recreativo,1-1,0-1,Betis
+Sun Jan 14 2001,Salamanca,0-2,0-1,Eibar
+Sun Jan 14 2001,Sp Gijon,1-0,0-0,Ath Madrid
+Sat Jan 20 2001,Ath Madrid,2-1,0-0,Getafe
+Sat Jan 20 2001,Compostela,1-1,1-0,Elche
+Sat Jan 20 2001,Eibar,1-0,1-0,Sevilla
+Sat Jan 20 2001,U.Las Palmas,1-0,0-0,Albacete
+Sun Jan 21 2001,Badajoz,1-1,0-0,Levante
+Sun Jan 21 2001,Betis,1-0,0-0,Jaen
+Sun Jan 21 2001,Cordoba,2-0,0-0,Sp Gijon
+Sun Jan 21 2001,Extremadura,0-0,0-0,Lleida
+Sun Jan 21 2001,Murcia,1-2,0-0,Salamanca
+Sun Jan 21 2001,Ferrol,1-0,1-0,Recreativo
+Sun Jan 21 2001,Tenerife,3-2,1-0,Leganes
+Sat Jan 27 2001,Ath Madrid,1-1,1-0,Levante
+Sat Jan 27 2001,Betis,2-0,1-0,Compostela
+Sun Jan 28 2001,Badajoz,1-1,1-0,Recreativo
+Sun Jan 28 2001,Cordoba,4-1,3-1,Getafe
+Sun Jan 28 2001,Eibar,2-0,0-0,Lleida
+Sun Jan 28 2001,Extremadura,0-3,0-3,Leganes
+Sun Jan 28 2001,Murcia,1-1,1-1,Sevilla
+Sun Jan 28 2001,Ferrol,1-1,0-0,Jaen
+Sun Jan 28 2001,Salamanca,2-0,0-0,Elche
+Sun Jan 28 2001,Tenerife,1-0,0-0,Albacete
+Sun Jan 28 2001,U.Las Palmas,0-2,0-1,Sp Gijon
+Sat Feb 3 2001,Recreativo,1-1,0-0,Ath Madrid
+Sun Feb 4 2001,Albacete,2-1,1-1,Extremadura
+Sun Feb 4 2001,Compostela,0-5,0-0,Ferrol
+Sun Feb 4 2001,Elche,1-1,1-0,Betis
+Sun Feb 4 2001,Getafe,0-0,0-0,U.Las Palmas
+Sun Feb 4 2001,Jaen,0-0,0-0,Badajoz
+Sun Feb 4 2001,Leganes,1-1,0-0,Eibar
+Sun Feb 4 2001,Levante,2-1,0-1,Cordoba
+Sun Feb 4 2001,Lleida,0-1,0-0,Murcia
+Sun Feb 4 2001,Sevilla,2-0,1-0,Salamanca
+Sun Feb 4 2001,Sp Gijon,0-0,0-0,Tenerife
+Sat Feb 10 2001,Sevilla,1-1,0-0,Elche
+Sun Feb 11 2001,Ath Madrid,5-0,1-0,Jaen
+Sun Feb 11 2001,Badajoz,2-1,2-0,Compostela
+Sun Feb 11 2001,Cordoba,1-3,1-1,Recreativo
+Sun Feb 11 2001,Eibar,0-0,0-0,Albacete
+Sun Feb 11 2001,Extremadura,1-2,0-0,Sp Gijon
+Sun Feb 11 2001,Murcia,2-2,0-1,Leganes
+Sun Feb 11 2001,Ferrol,0-1,0-1,Betis
+Sun Feb 11 2001,Salamanca,2-0,1-0,Lleida
+Sun Feb 11 2001,Tenerife,3-0,0-0,Getafe
+Sun Feb 11 2001,U.Las Palmas,2-2,2-0,Levante
+Sat Feb 17 2001,Compostela,2-3,2-0,Ath Madrid
+Sat Feb 17 2001,Jaen,0-0,0-0,Cordoba
+Sat Feb 17 2001,Recreativo,4-1,2-0,U.Las Palmas
+Sun Feb 18 2001,Albacete,2-1,1-0,Murcia
+Sun Feb 18 2001,Betis,1-1,0-1,Badajoz
+Sun Feb 18 2001,Elche,2-0,1-0,Ferrol
+Sun Feb 18 2001,Getafe,0-1,0-0,Extremadura
+Sun Feb 18 2001,Leganes,0-1,0-0,Salamanca
+Sun Feb 18 2001,Levante,2-0,0-0,Tenerife
+Sun Feb 18 2001,Lleida,0-1,0-0,Sevilla
+Sun Feb 18 2001,Sp Gijon,0-0,0-0,Eibar
+Wed Feb 21 2001,Ferrol,3-2,1-1,Albacete
+Sat Feb 24 2001,Eibar,0-0,0-0,Getafe
+Sat Feb 24 2001,Lleida,1-1,1-0,Elche
+Sat Feb 24 2001,Tenerife,1-1,0-1,Recreativo
+Sun Feb 25 2001,Ath Madrid,2-1,1-1,Betis
+Sun Feb 25 2001,Badajoz,1-0,0-0,Ferrol
+Sun Feb 25 2001,Cordoba,0-0,0-0,Compostela
+Sun Feb 25 2001,Extremadura,2-1,2-0,Levante
+Sun Feb 25 2001,Murcia,5-0,0-0,Sp Gijon
+Sun Feb 25 2001,Salamanca,1-2,0-1,Albacete
+Sun Feb 25 2001,Sevilla,4-2,3-2,Leganes
+Sun Feb 25 2001,U.Las Palmas,0-0,0-0,Jaen
+Sat Mar 3 2001,Betis,1-1,1-0,Cordoba
+Sat Mar 3 2001,Compostela,0-0,0-0,U.Las Palmas
+Sat Mar 3 2001,Levante,0-0,0-0,Eibar
+Sun Mar 4 2001,Albacete,2-1,1-1,Sevilla
+Sun Mar 4 2001,Elche,0-0,0-0,Badajoz
+Sun Mar 4 2001,Getafe,4-0,2-0,Murcia
+Sun Mar 4 2001,Jaen,0-0,0-0,Tenerife
+Sun Mar 4 2001,Leganes,0-0,0-0,Lleida
+Sun Mar 4 2001,Ferrol,0-2,0-0,Ath Madrid
+Sun Mar 4 2001,Recreativo,3-1,1-0,Extremadura
+Sun Mar 4 2001,Sp Gijon,2-0,0-0,Salamanca
+Sat Mar 10 2001,Ath Madrid,2-0,1-0,Badajoz
+Sat Mar 10 2001,Sevilla,1-1,0-1,Sp Gijon
+Sun Mar 11 2001,Cordoba,0-1,0-1,Ferrol
+Sun Mar 11 2001,Eibar,2-1,1-1,Recreativo
+Sun Mar 11 2001,Extremadura,2-0,0-0,Jaen
+Sun Mar 11 2001,Leganes,2-0,1-0,Elche
+Sun Mar 11 2001,Lleida,1-2,1-1,Albacete
+Sun Mar 11 2001,Murcia,2-0,2-0,Levante
+Sun Mar 11 2001,Salamanca,4-2,2-1,Getafe
+Sun Mar 11 2001,Tenerife,4-0,3-0,Compostela
+Sun Mar 11 2001,U.Las Palmas,1-1,0-0,Betis
+Sat Mar 17 2001,Badajoz,0-0,0-0,Cordoba
+Sat Mar 17 2001,Elche,2-1,1-0,Ath Madrid
+Sun Mar 18 2001,Albacete,0-0,0-0,Leganes
+Sun Mar 18 2001,Betis,0-2,0-1,Tenerife
+Sun Mar 18 2001,Compostela,3-2,1-1,Extremadura
+Sun Mar 18 2001,Getafe,0-1,0-1,Sevilla
+Sun Mar 18 2001,Jaen,1-0,1-0,Eibar
+Sun Mar 18 2001,Levante,2-0,0-0,Salamanca
+Sun Mar 18 2001,Ferrol,1-2,0-1,U.Las Palmas
+Sun Mar 18 2001,Recreativo,4-1,1-1,Murcia
+Sun Mar 18 2001,Sp Gijon,1-2,0-1,Lleida
+Sat Mar 24 2001,Cordoba,1-1,0-1,Ath Madrid
+Sun Mar 25 2001,Albacete,2-0,0-0,Elche
+Sun Mar 25 2001,Eibar,0-0,0-0,Compostela
+Sun Mar 25 2001,Extremadura,1-0,1-0,Betis
+Sun Mar 25 2001,Leganes,0-1,0-1,Sp Gijon
+Sun Mar 25 2001,Lleida,1-2,1-0,Getafe
+Sun Mar 25 2001,Murcia,2-2,0-2,Jaen
+Sun Mar 25 2001,Salamanca,0-1,0-0,Recreativo
+Sun Mar 25 2001,Sevilla,3-2,2-1,Levante
+Sun Mar 25 2001,Tenerife,1-1,1-0,Ferrol
+Sun Mar 25 2001,U.Las Palmas,1-1,1-0,Badajoz
+Sat Mar 31 2001,Ath Madrid,2-0,0-0,U.Las Palmas
+Sat Mar 31 2001,Elche,1-2,1-0,Cordoba
+Sat Mar 31 2001,Getafe,0-1,0-1,Leganes
+Sat Mar 31 2001,Ferrol,1-1,0-1,Extremadura
+Sun Apr 1 2001,Badajoz,1-2,0-0,Tenerife
+Sun Apr 1 2001,Betis,1-0,1-0,Eibar
+Sun Apr 1 2001,Compostela,2-0,1-0,Murcia
+Sun Apr 1 2001,Jaen,2-1,1-0,Salamanca
+Sun Apr 1 2001,Levante,3-2,2-1,Lleida
+Sun Apr 1 2001,Recreativo,1-1,0-0,Sevilla
+Sun Apr 1 2001,Sp Gijon,4-2,1-1,Albacete
+Sat Apr 7 2001,Lleida,0-0,0-0,Recreativo
+Sat Apr 7 2001,Sevilla,0-1,0-0,Jaen
+Sat Apr 7 2001,U.Las Palmas,0-2,0-1,Cordoba
+Sun Apr 8 2001,Albacete,2-1,0-1,Getafe
+Sun Apr 8 2001,Eibar,1-1,1-1,Ferrol
+Sun Apr 8 2001,Extremadura,1-0,1-0,Badajoz
+Sun Apr 8 2001,Leganes,1-0,0-0,Levante
+Sun Apr 8 2001,Murcia,1-3,0-1,Betis
+Sun Apr 8 2001,Salamanca,1-2,1-0,Compostela
+Sun Apr 8 2001,Sp Gijon,2-1,1-0,Elche
+Sun Apr 8 2001,Tenerife,1-2,0-1,Ath Madrid
+Sat Apr 14 2001,Compostela,0-2,0-1,Sevilla
+Sat Apr 14 2001,Cordoba,1-0,0-0,Tenerife
+Sun Apr 15 2001,Ath Madrid,2-0,0-0,Extremadura
+Sun Apr 15 2001,Badajoz,1-0,0-0,Eibar
+Sun Apr 15 2001,Betis,2-1,1-1,Salamanca
+Sun Apr 15 2001,Elche,0-1,0-0,U.Las Palmas
+Sun Apr 15 2001,Getafe,3-1,2-0,Sp Gijon
+Sun Apr 15 2001,Jaen,2-1,1-0,Lleida
+Sun Apr 15 2001,Levante,0-0,0-0,Albacete
+Sun Apr 15 2001,Ferrol,1-1,0-1,Murcia
+Sun Apr 15 2001,Recreativo,1-1,0-1,Leganes
+Sat Apr 21 2001,Leganes,0-0,0-0,Jaen
+Sat Apr 21 2001,Tenerife,2-0,0-0,U.Las Palmas
+Sun Apr 22 2001,Albacete,0-2,0-1,Recreativo
+Sun Apr 22 2001,Eibar,2-1,2-0,Ath Madrid
+Sun Apr 22 2001,Extremadura,1-0,0-0,Cordoba
+Sun Apr 22 2001,Getafe,1-1,1-1,Elche
+Sun Apr 22 2001,Lleida,1-2,1-1,Compostela
+Sun Apr 22 2001,Murcia,0-0,0-0,Badajoz
+Sun Apr 22 2001,Salamanca,1-1,1-1,Ferrol
+Sun Apr 22 2001,Sevilla,1-1,1-0,Betis
+Sun Apr 22 2001,Sp Gijon,1-2,1-0,Levante
+Sat Apr 28 2001,Ath Madrid,0-3,0-1,Murcia
+Sat Apr 28 2001,Badajoz,0-1,0-0,Salamanca
+Sat Apr 28 2001,Betis,4-1,2-1,Lleida
+Sat Apr 28 2001,Compostela,1-1,0-1,Leganes
+Sun Apr 29 2001,Cordoba,2-0,0-0,Eibar
+Sun Apr 29 2001,Elche,0-2,0-0,Tenerife
+Sun Apr 29 2001,Jaen,3-0,1-0,Albacete
+Sun Apr 29 2001,Levante,3-3,1-2,Getafe
+Sun Apr 29 2001,Ferrol,1-1,1-0,Sevilla
+Sun Apr 29 2001,Recreativo,1-1,0-1,Sp Gijon
+Sun Apr 29 2001,U.Las Palmas,1-0,0-0,Extremadura
+Sat May 5 2001,Eibar,3-0,1-0,U.Las Palmas
+Sat May 5 2001,Getafe,0-1,0-0,Recreativo
+Sat May 5 2001,Levante,3-3,1-1,Elche
+Sat May 5 2001,Lleida,0-1,0-1,Ferrol
+Sun May 6 2001,Albacete,2-0,1-0,Compostela
+Sun May 6 2001,Extremadura,1-0,1-0,Tenerife
+Sun May 6 2001,Leganes,1-1,1-0,Betis
+Sun May 6 2001,Murcia,0-0,0-0,Cordoba
+Sun May 6 2001,Salamanca,1-3,0-2,Ath Madrid
+Sun May 6 2001,Sevilla,5-2,2-0,Badajoz
+Sun May 6 2001,Sp Gijon,1-0,0-0,Jaen
+Sat May 12 2001,Ath Madrid,2-0,0-0,Sevilla
+Sun May 13 2001,Badajoz,1-0,1-0,Lleida
+Sun May 13 2001,Betis,1-2,0-1,Albacete
+Sun May 13 2001,Compostela,1-2,0-1,Sp Gijon
+Sun May 13 2001,Cordoba,1-1,1-0,Salamanca
+Sun May 13 2001,Elche,3-1,1-0,Extremadura
+Sun May 13 2001,Jaen,3-1,1-0,Getafe
+Sun May 13 2001,Ferrol,1-0,0-0,Leganes
+Sun May 13 2001,Recreativo,1-1,1-1,Levante
+Sun May 13 2001,Tenerife,0-0,0-0,Eibar
+Sun May 13 2001,U.Las Palmas,2-1,1-0,Murcia
+Sat May 19 2001,Getafe,2-1,0-0,Compostela
+Sat May 19 2001,Murcia,0-1,0-0,Tenerife
+Sat May 19 2001,Sp Gijon,1-2,1-1,Betis
+Sun May 20 2001,Albacete,1-0,0-0,Ferrol
+Sun May 20 2001,Eibar,0-0,0-0,Extremadura
+Sun May 20 2001,Leganes,0-0,0-0,Badajoz
+Sun May 20 2001,Levante,2-2,1-2,Jaen
+Sun May 20 2001,Lleida,1-1,1-0,Ath Madrid
+Sun May 20 2001,Recreativo,0-0,0-0,Elche
+Sun May 20 2001,Salamanca,4-0,0-0,U.Las Palmas
+Sun May 20 2001,Sevilla,2-0,1-0,Cordoba
+Sat May 26 2001,Elche,2-0,1-0,Eibar
+Sat May 26 2001,Jaen,3-1,1-1,Recreativo
+Sat May 26 2001,Ferrol,2-3,0-1,Sp Gijon
+Sat May 26 2001,U.Las Palmas,1-3,1-2,Sevilla
+Sun May 27 2001,Ath Madrid,1-0,0-0,Leganes
+Sun May 27 2001,Badajoz,0-0,0-0,Albacete
+Sun May 27 2001,Betis,1-0,0-0,Getafe
+Sun May 27 2001,Compostela,1-1,0-0,Levante
+Sun May 27 2001,Cordoba,3-0,2-0,Lleida
+Sun May 27 2001,Extremadura,2-0,1-0,Murcia
+Sun May 27 2001,Tenerife,1-1,1-0,Salamanca
+Sat Jun 2 2001,Levante,3-2,2-0,Betis
+Sun Jun 3 2001,Albacete,0-1,0-0,Ath Madrid
+Sun Jun 3 2001,Getafe,1-2,0-0,Ferrol
+Sun Jun 3 2001,Jaen,3-1,0-1,Elche
+Sun Jun 3 2001,Leganes,4-0,2-0,Cordoba
+Sun Jun 3 2001,Lleida,4-2,2-1,U.Las Palmas
+Sun Jun 3 2001,Murcia,1-0,0-0,Eibar
+Sun Jun 3 2001,Recreativo,2-0,0-0,Compostela
+Sun Jun 3 2001,Salamanca,1-2,0-0,Extremadura
+Sun Jun 3 2001,Sevilla,1-0,0-0,Tenerife
+Sun Jun 3 2001,Sp Gijon,1-0,0-0,Badajoz
+Sat Jun 9 2001,Extremadura,1-1,1-0,Sevilla
+Sun Jun 10 2001,Ath Madrid,1-0,0-0,Sp Gijon
+Sun Jun 10 2001,Badajoz,2-2,1-1,Getafe
+Sun Jun 10 2001,Betis,1-0,0-0,Recreativo
+Sun Jun 10 2001,Compostela,0-0,0-0,Jaen
+Sun Jun 10 2001,Cordoba,1-4,0-3,Albacete
+Sun Jun 10 2001,Eibar,1-3,0-0,Salamanca
+Sun Jun 10 2001,Murcia,0-1,0-1,Elche
+Sun Jun 10 2001,Ferrol,1-1,1-1,Levante
+Sun Jun 10 2001,Tenerife,3-2,2-0,Lleida
+Sun Jun 10 2001,U.Las Palmas,2-1,1-1,Leganes
+Sat Jun 16 2001,Lleida,2-2,0-1,Extremadura
+Sat Jun 16 2001,Recreativo,1-2,1-2,Ferrol
+Sat Jun 16 2001,Salamanca,1-2,0-1,Murcia
+Sat Jun 16 2001,Sevilla,2-1,1-1,Eibar
+Sun Jun 17 2001,Albacete,2-3,2-2,U.Las Palmas
+Sun Jun 17 2001,Elche,2-2,1-2,Compostela
+Sun Jun 17 2001,Getafe,0-1,0-1,Ath Madrid
+Sun Jun 17 2001,Jaen,0-2,0-1,Betis
+Sun Jun 17 2001,Leganes,0-1,0-0,Tenerife
+Sun Jun 17 2001,Levante,2-1,1-0,Badajoz
+Sun Jun 17 2001,Sp Gijon,2-2,0-0,Cordoba

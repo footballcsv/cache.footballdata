@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Apr 14 2018,Cruzeiro,0-1,?,Gremio
+Sat Apr 14 2018,Vitoria,2-2,?,Flamengo RJ
+Sat Apr 14 2018,Santos,2-0,?,Ceara
+Sun Apr 15 2018,America MG,3-0,?,Sport Recife
+Sun Apr 15 2018,Corinthians,2-1,?,Fluminense
+Sun Apr 15 2018,Internacional,2-0,?,Bahia
+Sun Apr 15 2018,Vasco,2-1,?,Atletico-MG
+Sun Apr 15 2018,Atletico-PR,5-1,?,Chapecoense-SC
+Mon Apr 16 2018,Botafogo RJ,1-1,?,Palmeiras
+Mon Apr 16 2018,Sao Paulo,1-0,?,Parana
+Sat Apr 21 2018,Bahia,1-0,?,Santos
+Sat Apr 21 2018,Flamengo RJ,2-0,?,America MG
+Sun Apr 22 2018,Parana,0-4,?,Corinthians
+Sun Apr 22 2018,Atletico-MG,2-1,?,Vitoria
+Sun Apr 22 2018,Ceara,0-0,?,Sao Paulo
+Sun Apr 22 2018,Chapecoense-SC,1-1,?,Vasco
+Sun Apr 22 2018,Fluminense,1-0,?,Cruzeiro
+Sun Apr 22 2018,Palmeiras,1-0,?,Internacional
+Sun Apr 22 2018,Gremio,0-0,?,Atletico-PR
+Mon Apr 23 2018,Sport Recife,1-1,?,Botafogo RJ
+Sat Apr 28 2018,Botafogo RJ,2-1,?,Gremio
+Sun Apr 29 2018,Atletico-MG,1-0,?,Corinthians
+Sun Apr 29 2018,Bahia,0-0,?,Atletico-PR
+Sun Apr 29 2018,Ceara,0-3,?,Flamengo RJ
+Sun Apr 29 2018,Fluminense,1-1,?,Sao Paulo
+Sun Apr 29 2018,Palmeiras,0-0,?,Chapecoense-SC
+Sun Apr 29 2018,Parana,1-2,?,Sport Recife
+Sun Apr 29 2018,Internacional,0-0,?,Cruzeiro
+Mon Apr 30 2018,America MG,2-1,?,Vitoria
+Sat May 5 2018,Sao Paulo,2-2,?,Atletico-MG
+Sat May 5 2018,Vasco,4-1,?,America MG
+Sun May 6 2018,Corinthians,1-1,?,Ceara
+Sun May 6 2018,Atletico-PR,1-3,?,Palmeiras
+Sun May 6 2018,Cruzeiro,1-0,?,Botafogo RJ
+Sun May 6 2018,Flamengo RJ,2-0,?,Internacional
+Sun May 6 2018,Vitoria,1-2,?,Fluminense
+Sun May 6 2018,Gremio,5-1,?,Santos
+Sun May 6 2018,Sport Recife,2-0,?,Bahia
+Mon May 7 2018,Chapecoense-SC,1-1,?,Parana
+Sat May 12 2018,Gremio,0-0,?,Internacional
+Sun May 13 2018,Cruzeiro,2-0,?,Sport Recife
+Sun May 13 2018,Atletico-PR,1-2,?,Atletico-MG
+Sun May 13 2018,Bahia,2-2,?,Sao Paulo
+Sun May 13 2018,Chapecoense-SC,3-2,?,Flamengo RJ
+Sun May 13 2018,Corinthians,1-0,?,Palmeiras
+Sun May 13 2018,Vasco,2-3,?,Vitoria
+Sun May 13 2018,Santos,3-1,?,Parana
+Mon May 14 2018,Botafogo RJ,2-1,?,Fluminense
+Mon May 14 2018,Ceara,2-2,?,America MG
+Sat May 19 2018,Atletico-MG,1-0,?,Cruzeiro
+Sat May 19 2018,Flamengo RJ,1-1,?,Vasco
+Sat May 19 2018,Palmeiras,3-0,?,Bahia
+Sun May 20 2018,Vitoria,2-1,?,Ceara
+Sun May 20 2018,America MG,1-0,?,Botafogo RJ
+Sun May 20 2018,Parana,0-0,?,Gremio
+Sun May 20 2018,Sao Paulo,1-0,?,Santos
+Sun May 20 2018,Sport Recife,1-1,?,Corinthians
+Sun May 20 2018,Fluminense,2-0,?,Atletico-PR
+Mon May 21 2018,Internacional,3-0,?,Chapecoense-SC
+Sat May 26 2018,Fluminense,3-1,?,Chapecoense-SC
+Sat May 26 2018,Palmeiras,2-3,?,Sport Recife
+Sat May 26 2018,Atletico-MG,0-1,?,Flamengo RJ
+Sun May 27 2018,Parana,0-0,?,Atletico-PR
+Sun May 27 2018,Bahia,3-0,?,Vasco
+Sun May 27 2018,Botafogo RJ,1-1,?,Vitoria
+Sun May 27 2018,Internacional,2-1,?,Corinthians
+Sun May 27 2018,Santos,0-1,?,Cruzeiro
+Sun May 27 2018,America MG,1-3,?,Sao Paulo
+Sun May 27 2018,Ceara,0-1,?,Gremio
+Wed May 30 2018,Sport Recife,3-2,?,Atletico-MG
+Wed May 30 2018,Vasco,1-0,?,Parana
+Wed May 30 2018,Vitoria,2-3,?,Internacional
+Wed May 30 2018,Chapecoense-SC,2-0,?,Ceara
+Wed May 30 2018,Sao Paulo,3-2,?,Botafogo RJ
+Wed May 30 2018,Cruzeiro,1-0,?,Palmeiras
+Wed May 30 2018,Gremio,0-0,?,Fluminense
+Thu May 31 2018,Flamengo RJ,2-0,?,Bahia
+Thu May 31 2018,Corinthians,1-0,?,America MG
+Thu May 31 2018,Atletico-PR,2-0,?,Santos
+Sat Jun 2 2018,Atletico-MG,3-3,?,Chapecoense-SC
+Sat Jun 2 2018,Internacional,0-0,?,Sport Recife
+Sat Jun 2 2018,Vasco,1-2,?,Botafogo RJ
+Sat Jun 2 2018,Palmeiras,3-1,?,Sao Paulo
+Sun Jun 3 2018,America MG,3-1,?,Atletico-PR
+Sun Jun 3 2018,Bahia,0-2,?,Gremio
+Sun Jun 3 2018,Flamengo RJ,1-0,?,Corinthians
+Sun Jun 3 2018,Santos,5-2,?,Vitoria
+Sun Jun 3 2018,Ceara,0-1,?,Cruzeiro
+Mon Jun 4 2018,Parana,2-1,?,Fluminense
+Tue Jun 5 2018,Sao Paulo,0-0,?,Internacional
+Wed Jun 6 2018,Botafogo RJ,0-0,?,Ceara
+Wed Jun 6 2018,Vitoria,1-0,?,Chapecoense-SC
+Wed Jun 6 2018,Corinthians,1-1,?,Santos
+Wed Jun 6 2018,Sport Recife,1-0,?,Atletico-PR
+Wed Jun 6 2018,Cruzeiro,1-1,?,Vasco
+Wed Jun 6 2018,Gremio,0-2,?,Palmeiras
+Thu Jun 7 2018,Fluminense,0-2,?,Flamengo RJ
+Thu Jun 7 2018,Parana,1-0,?,Bahia
+Thu Jun 7 2018,America MG,1-3,?,Atletico-MG
+Sat Jun 9 2018,Atletico-PR,0-1,?,Sao Paulo
+Sat Jun 9 2018,Chapecoense-SC,2-0,?,Cruzeiro
+Sat Jun 9 2018,Vasco,3-2,?,Sport Recife
+Sat Jun 9 2018,Corinthians,0-0,?,Vitoria
+Sun Jun 10 2018,Atletico-MG,5-2,?,Fluminense
+Sun Jun 10 2018,Bahia,3-3,?,Botafogo RJ
+Sun Jun 10 2018,Ceara,2-2,?,Palmeiras
+Sun Jun 10 2018,Gremio,1-0,?,America MG
+Sun Jun 10 2018,Flamengo RJ,2-0,?,Parana
+Sun Jun 10 2018,Santos,1-2,?,Internacional
+Tue Jun 12 2018,Sao Paulo,3-0,?,Vitoria
+Wed Jun 13 2018,America MG,0-0,?,Chapecoense-SC
+Wed Jun 13 2018,Fluminense,0-1,?,Santos
+Wed Jun 13 2018,Parana,1-1,?,Cruzeiro
+Wed Jun 13 2018,Sport Recife,0-0,?,Gremio
+Wed Jun 13 2018,Botafogo RJ,2-0,?,Atletico-PR
+Wed Jun 13 2018,Palmeiras,1-1,?,Flamengo RJ
+Wed Jun 13 2018,Atletico-MG,2-1,?,Ceara
+Wed Jun 13 2018,Bahia,1-0,?,Corinthians
+Wed Jun 13 2018,Internacional,3-1,?,Vasco
+Wed Jul 18 2018,Ceara,1-0,?,Sport Recife
+Wed Jul 18 2018,Vitoria,1-0,?,Parana
+Wed Jul 18 2018,Corinthians,2-0,?,Botafogo RJ
+Wed Jul 18 2018,Flamengo RJ,0-1,?,Sao Paulo
+Wed Jul 18 2018,Gremio,2-0,?,Atletico-MG
+Thu Jul 19 2018,Chapecoense-SC,1-1,?,Bahia
+Thu Jul 19 2018,Cruzeiro,3-1,?,America MG
+Thu Jul 19 2018,Santos,1-1,?,Palmeiras
+Thu Jul 19 2018,Vasco,1-1,?,Fluminense
+Thu Jul 19 2018,Atletico-PR,2-2,?,Internacional
+Sat Jul 21 2018,Flamengo RJ,2-0,?,Botafogo RJ
+Sat Jul 21 2018,Sao Paulo,3-1,?,Corinthians
+Sun Jul 22 2018,Bahia,4-1,?,Vitoria
+Sun Jul 22 2018,Palmeiras,3-2,?,Atletico-MG
+Sun Jul 22 2018,Parana,1-0,?,America MG
+Sun Jul 22 2018,Sport Recife,1-2,?,Fluminense
+Sun Jul 22 2018,Vasco,1-0,?,Gremio
+Sun Jul 22 2018,Chapecoense-SC,0-0,?,Santos
+Sun Jul 22 2018,Cruzeiro,2-1,?,Atletico-PR
+Mon Jul 23 2018,Internacional,1-0,?,Ceara
+Wed Jul 25 2018,Fluminense,1-0,?,Palmeiras
+Wed Jul 25 2018,Atletico-MG,2-0,?,Parana
+Wed Jul 25 2018,Corinthians,2-0,?,Cruzeiro
+Wed Jul 25 2018,Santos,1-1,?,Flamengo RJ
+Thu Jul 26 2018,Botafogo RJ,1-0,?,Chapecoense-SC
+Thu Jul 26 2018,Gremio,2-1,?,Sao Paulo
+Thu Jul 26 2018,Vitoria,1-0,?,Sport Recife
+Thu Jul 26 2018,America MG,2-1,?,Internacional
+Sat Jul 28 2018,Ceara,1-0,?,Fluminense
+Sun Jul 29 2018,Palmeiras,3-0,?,Parana
+Sun Jul 29 2018,Vasco,1-4,?,Corinthians
+Sun Jul 29 2018,Atletico-PR,4-0,?,Vitoria
+Sun Jul 29 2018,Cruzeiro,0-2,?,Sao Paulo
+Sun Jul 29 2018,Flamengo RJ,4-1,?,Sport Recife
+Sun Jul 29 2018,Internacional,3-0,?,Botafogo RJ
+Sun Jul 29 2018,Chapecoense-SC,1-1,?,Gremio
+Sun Jul 29 2018,Santos,0-1,?,America MG
+Mon Jul 30 2018,Bahia,2-2,?,Atletico-MG
+Sat Aug 4 2018,Botafogo RJ,0-0,?,Santos
+Sat Aug 4 2018,Gremio,2-0,?,Flamengo RJ
+Sat Aug 4 2018,Corinthians,0-0,?,Atletico-PR
+Sun Aug 5 2018,America MG,0-0,?,Palmeiras
+Sun Aug 5 2018,Parana,0-1,?,Ceara
+Sun Aug 5 2018,Sao Paulo,2-1,?,Vasco
+Sun Aug 5 2018,Vitoria,1-1,?,Cruzeiro
+Sun Aug 5 2018,Fluminense,1-1,?,Bahia
+Sun Aug 5 2018,Sport Recife,1-1,?,Chapecoense-SC
+Mon Aug 6 2018,Atletico-MG,0-1,?,Internacional
+Wed Aug 8 2018,Ceara,1-1,?,Santos
+Sat Aug 11 2018,Ceara,0-0,?,Atletico-PR
+Sat Aug 11 2018,Bahia,1-0,?,America MG
+Sun Aug 12 2018,Atletico-MG,3-1,?,Santos
+Sun Aug 12 2018,Parana,1-1,?,Botafogo RJ
+Sun Aug 12 2018,Chapecoense-SC,2-1,?,Corinthians
+Sun Aug 12 2018,Flamengo RJ,1-0,?,Cruzeiro
+Sun Aug 12 2018,Sport Recife,1-3,?,Sao Paulo
+Sun Aug 12 2018,Gremio,4-0,?,Vitoria
+Sun Aug 12 2018,Palmeiras,1-0,?,Vasco
+Mon Aug 13 2018,Fluminense,0-3,?,Internacional
+Sat Aug 18 2018,Santos,3-0,?,Sport Recife
+Sat Aug 18 2018,Corinthians,0-1,?,Gremio
+Sun Aug 19 2018,Atletico-PR,3-0,?,Flamengo RJ
+Sun Aug 19 2018,Internacional,1-0,?,Parana
+Sun Aug 19 2018,Botafogo RJ,0-3,?,Atletico-MG
+Sun Aug 19 2018,Cruzeiro,1-1,?,Bahia
+Sun Aug 19 2018,Vitoria,0-3,?,Palmeiras
+Sun Aug 19 2018,America MG,0-0,?,Fluminense
+Sun Aug 19 2018,Sao Paulo,2-0,?,Chapecoense-SC
+Mon Aug 20 2018,Vasco,1-1,?,Ceara
+Wed Aug 22 2018,Bahia,0-1,?,Internacional
+Wed Aug 22 2018,Parana,1-1,?,Sao Paulo
+Wed Aug 22 2018,Palmeiras,2-0,?,Botafogo RJ
+Wed Aug 22 2018,Sport Recife,0-2,?,America MG
+Wed Aug 22 2018,Fluminense,1-0,?,Corinthians
+Wed Aug 22 2018,Gremio,1-1,?,Cruzeiro
+Thu Aug 23 2018,Flamengo RJ,1-0,?,Vitoria
+Thu Aug 23 2018,Atletico-MG,0-0,?,Vasco
+Sat Aug 25 2018,Santos,2-0,?,Bahia
+Sat Aug 25 2018,Atletico-PR,2-1,?,Gremio
+Sat Aug 25 2018,Corinthians,1-0,?,Parana
+Sat Aug 25 2018,Botafogo RJ,2-0,?,Sport Recife
+Sat Aug 25 2018,Cruzeiro,2-1,?,Fluminense
+Sun Aug 26 2018,Sao Paulo,1-0,?,Ceara
+Sun Aug 26 2018,America MG,2-2,?,Flamengo RJ
+Sun Aug 26 2018,Internacional,0-0,?,Palmeiras
+Sun Aug 26 2018,Vitoria,1-0,?,Atletico-MG
+Sun Aug 26 2018,Vasco,3-1,?,Chapecoense-SC
+Wed Aug 29 2018,Atletico-PR,1-0,?,Vasco
+Wed Aug 29 2018,Ceara,0-2,?,Bahia
+Sat Sep 1 2018,Gremio,4-0,?,Botafogo RJ
+Sat Sep 1 2018,Vitoria,1-0,?,America MG
+Sat Sep 1 2018,Vasco,0-3,?,Santos
+Sat Sep 1 2018,Corinthians,1-1,?,Atletico-MG
+Sun Sep 2 2018,Flamengo RJ,0-1,?,Ceara
+Sun Sep 2 2018,Atletico-PR,2-0,?,Bahia
+Sun Sep 2 2018,Sao Paulo,1-1,?,Fluminense
+Sun Sep 2 2018,Sport Recife,1-0,?,Parana
+Sun Sep 2 2018,Chapecoense-SC,1-2,?,Palmeiras
+Sun Sep 2 2018,Cruzeiro,0-0,?,Internacional
+Wed Sep 5 2018,Bahia,2-0,?,Sport Recife
+Wed Sep 5 2018,Botafogo RJ,1-1,?,Cruzeiro
+Wed Sep 5 2018,Ceara,2-1,?,Corinthians
+Wed Sep 5 2018,Palmeiras,2-0,?,Atletico-PR
+Wed Sep 5 2018,Parana,1-1,?,Chapecoense-SC
+Wed Sep 5 2018,Atletico-MG,1-0,?,Sao Paulo
+Wed Sep 5 2018,Internacional,2-1,?,Flamengo RJ
+Thu Sep 6 2018,Fluminense,0-0,?,Vitoria
+Thu Sep 6 2018,Santos,0-0,?,Gremio
+Thu Sep 6 2018,America MG,2-1,?,Vasco
+Sat Sep 8 2018,Sport Recife,0-0,?,Cruzeiro
+Sat Sep 8 2018,Sao Paulo,1-0,?,Bahia
+Sat Sep 8 2018,Flamengo RJ,2-0,?,Chapecoense-SC
+Sun Sep 9 2018,America MG,0-0,?,Ceara
+Sun Sep 9 2018,Fluminense,1-0,?,Botafogo RJ
+Sun Sep 9 2018,Internacional,1-0,?,Gremio
+Sun Sep 9 2018,Palmeiras,1-0,?,Corinthians
+Sun Sep 9 2018,Parana,0-2,?,Santos
+Sun Sep 9 2018,Vitoria,1-0,?,Vasco
+Mon Sep 10 2018,Atletico-MG,3-1,?,Atletico-PR
+Thu Sep 13 2018,Chapecoense-SC,2-1,?,Atletico-PR
+Sat Sep 15 2018,Ceara,2-0,?,Vitoria
+Sat Sep 15 2018,Gremio,2-0,?,Parana
+Sat Sep 15 2018,Vasco,1-1,?,Flamengo RJ
+Sun Sep 16 2018,Botafogo RJ,1-0,?,America MG
+Sun Sep 16 2018,Atletico-PR,3-1,?,Fluminense
+Sun Sep 16 2018,Bahia,1-1,?,Palmeiras
+Sun Sep 16 2018,Cruzeiro,0-0,?,Atletico-MG
+Sun Sep 16 2018,Santos,0-0,?,Sao Paulo
+Sun Sep 16 2018,Corinthians,2-1,?,Sport Recife
+Mon Sep 17 2018,Chapecoense-SC,2-1,?,Internacional
+Sat Sep 22 2018,Sao Paulo,1-1,?,America MG
+Sun Sep 23 2018,Gremio,3-2,?,Ceara
+Sun Sep 23 2018,Atletico-PR,3-0,?,Parana
+Sun Sep 23 2018,Corinthians,1-1,?,Internacional
+Sun Sep 23 2018,Flamengo RJ,2-1,?,Atletico-MG
+Sun Sep 23 2018,Sport Recife,0-1,?,Palmeiras
+Sun Sep 23 2018,Vitoria,3-4,?,Botafogo RJ
+Sun Sep 23 2018,Cruzeiro,2-1,?,Santos
+Mon Sep 24 2018,Chapecoense-SC,1-2,?,Fluminense
+Mon Sep 24 2018,Vasco,2-1,?,Bahia
+Thu Sep 27 2018,Santos,1-1,?,Vasco
+Sat Sep 29 2018,Fluminense,0-1,?,Gremio
+Sat Sep 29 2018,America MG,0-0,?,Corinthians
+Sat Sep 29 2018,Bahia,0-0,?,Flamengo RJ
+Sun Sep 30 2018,Palmeiras,3-1,?,Cruzeiro
+Sun Sep 30 2018,Atletico-MG,5-2,?,Sport Recife
+Sun Sep 30 2018,Botafogo RJ,2-2,?,Sao Paulo
+Sun Sep 30 2018,Internacional,2-1,?,Vitoria
+Sun Sep 30 2018,Santos,1-0,?,Atletico-PR
+Sun Sep 30 2018,Ceara,3-1,?,Chapecoense-SC
+Mon Oct 1 2018,Parana,1-1,?,Vasco
+Fri Oct 5 2018,Sport Recife,2-1,?,Internacional
+Fri Oct 5 2018,Corinthians,0-3,?,Flamengo RJ
+Fri Oct 5 2018,Vitoria,0-1,?,Santos
+Sat Oct 6 2018,Atletico-PR,4-0,?,America MG
+Sat Oct 6 2018,Chapecoense-SC,1-0,?,Atletico-MG
+Sat Oct 6 2018,Sao Paulo,0-2,?,Palmeiras
+Sat Oct 6 2018,Gremio,2-2,?,Bahia
+Mon Oct 8 2018,Fluminense,4-0,?,Parana
+Tue Oct 9 2018,Botafogo RJ,1-1,?,Vasco
+Sat Oct 13 2018,Flamengo RJ,3-0,?,Fluminense
+Sat Oct 13 2018,Santos,1-0,?,Corinthians
+Sat Oct 13 2018,Bahia,2-0,?,Parana
+Sun Oct 14 2018,Chapecoense-SC,0-1,?,Vitoria
+Sun Oct 14 2018,Internacional,3-1,?,Sao Paulo
+Sun Oct 14 2018,Palmeiras,2-0,?,Gremio
+Sun Oct 14 2018,Vasco,2-0,?,Cruzeiro
+Sun Oct 14 2018,Atletico-MG,0-0,?,America MG
+Sun Oct 14 2018,Atletico-PR,4-0,?,Sport Recife
+Mon Oct 15 2018,Ceara,0-0,?,Botafogo RJ
+Sat Oct 20 2018,America MG,1-1,?,Gremio
+Sat Oct 20 2018,Botafogo RJ,0-1,?,Bahia
+Sat Oct 20 2018,Sao Paulo,0-0,?,Atletico-PR
+Sat Oct 20 2018,Sport Recife,2-1,?,Vasco
+Sun Oct 21 2018,Fluminense,1-0,?,Atletico-MG
+Sun Oct 21 2018,Palmeiras,2-1,?,Ceara
+Sun Oct 21 2018,Vitoria,2-2,?,Corinthians
+Sun Oct 21 2018,Cruzeiro,3-0,?,Chapecoense-SC
+Sun Oct 21 2018,Parana,0-4,?,Flamengo RJ
+Mon Oct 22 2018,Internacional,2-2,?,Santos
+Wed Oct 24 2018,Cruzeiro,0-2,?,Ceara
+Fri Oct 26 2018,Vitoria,0-1,?,Sao Paulo
+Fri Oct 26 2018,Vasco,1-1,?,Internacional
+Sat Oct 27 2018,Gremio,3-4,?,Sport Recife
+Sat Oct 27 2018,Santos,3-0,?,Fluminense
+Sat Oct 27 2018,Chapecoense-SC,1-0,?,America MG
+Sat Oct 27 2018,Corinthians,2-1,?,Bahia
+Sat Oct 27 2018,Flamengo RJ,1-1,?,Palmeiras
+Sat Oct 27 2018,Atletico-PR,2-1,?,Botafogo RJ
+Sat Oct 27 2018,Cruzeiro,3-1,?,Parana
+Mon Oct 29 2018,Ceara,2-1,?,Atletico-MG
+Sat Nov 3 2018,Atletico-MG,0-1,?,Gremio
+Sat Nov 3 2018,Fluminense,0-1,?,Vasco
+Sat Nov 3 2018,Palmeiras,3-2,?,Santos
+Sun Nov 4 2018,America MG,1-2,?,Cruzeiro
+Sun Nov 4 2018,Botafogo RJ,1-0,?,Corinthians
+Sun Nov 4 2018,Parana,1-1,?,Vitoria
+Sun Nov 4 2018,Sao Paulo,2-2,?,Flamengo RJ
+Sun Nov 4 2018,Bahia,1-0,?,Chapecoense-SC
+Sun Nov 4 2018,Internacional,2-1,?,Atletico-PR
+Mon Nov 5 2018,Sport Recife,1-0,?,Ceara
+Sat Nov 10 2018,America MG,0-1,?,Parana
+Sat Nov 10 2018,Corinthians,1-1,?,Sao Paulo
+Sat Nov 10 2018,Atletico-PR,2-0,?,Cruzeiro
+Sat Nov 10 2018,Botafogo RJ,2-1,?,Flamengo RJ
+Sun Nov 11 2018,Atletico-MG,1-1,?,Palmeiras
+Sun Nov 11 2018,Ceara,1-1,?,Internacional
+Sun Nov 11 2018,Gremio,2-1,?,Vasco
+Sun Nov 11 2018,Vitoria,2-2,?,Bahia
+Sun Nov 11 2018,Fluminense,0-0,?,Sport Recife
+Mon Nov 12 2018,Santos,0-1,?,Chapecoense-SC
+Wed Nov 14 2018,Vasco,1-1,?,Atletico-PR
+Wed Nov 14 2018,Bahia,2-1,?,Ceara
+Wed Nov 14 2018,Parana,0-1,?,Atletico-MG
+Wed Nov 14 2018,Cruzeiro,1-0,?,Corinthians
+Wed Nov 14 2018,Palmeiras,3-0,?,Fluminense
+Wed Nov 14 2018,Sport Recife,0-0,?,Vitoria
+Thu Nov 15 2018,Chapecoense-SC,0-1,?,Botafogo RJ
+Thu Nov 15 2018,Flamengo RJ,1-0,?,Santos
+Thu Nov 15 2018,Sao Paulo,1-1,?,Gremio
+Thu Nov 15 2018,Internacional,2-0,?,America MG
+Sat Nov 17 2018,Corinthians,1-0,?,Vasco
+Sat Nov 17 2018,Vitoria,1-2,?,Atletico-PR
+Sat Nov 17 2018,Atletico-MG,1-0,?,Bahia
+Sun Nov 18 2018,America MG,2-1,?,Santos
+Sun Nov 18 2018,Botafogo RJ,1-0,?,Internacional
+Sun Nov 18 2018,Parana,1-1,?,Palmeiras
+Sun Nov 18 2018,Sport Recife,0-1,?,Flamengo RJ
+Sun Nov 18 2018,Gremio,2-0,?,Chapecoense-SC
+Sun Nov 18 2018,Sao Paulo,1-0,?,Cruzeiro
+Mon Nov 19 2018,Fluminense,0-0,?,Ceara
+Wed Nov 21 2018,Internacional,1-2,?,Atletico-MG
+Wed Nov 21 2018,Santos,1-1,?,Botafogo RJ
+Wed Nov 21 2018,Atletico-PR,1-0,?,Corinthians
+Wed Nov 21 2018,Cruzeiro,3-0,?,Vitoria
+Wed Nov 21 2018,Flamengo RJ,2-0,?,Gremio
+Wed Nov 21 2018,Palmeiras,4-0,?,America MG
+Thu Nov 22 2018,Vasco,2-0,?,Sao Paulo
+Thu Nov 22 2018,Bahia,2-0,?,Fluminense
+Thu Nov 22 2018,Ceara,1-0,?,Parana
+Thu Nov 22 2018,Chapecoense-SC,2-1,?,Sport Recife
+Sat Nov 24 2018,Santos,3-2,?,Atletico-MG
+Sun Nov 25 2018,Atletico-PR,2-2,?,Ceara
+Sun Nov 25 2018,Cruzeiro,0-2,?,Flamengo RJ
+Sun Nov 25 2018,Vasco,0-1,?,Palmeiras
+Sun Nov 25 2018,Vitoria,0-0,?,Gremio
+Sun Nov 25 2018,America MG,1-0,?,Bahia
+Sun Nov 25 2018,Corinthians,0-0,?,Chapecoense-SC
+Sun Nov 25 2018,Internacional,2-0,?,Fluminense
+Mon Nov 26 2018,Botafogo RJ,2-1,?,Parana
+Mon Nov 26 2018,Sao Paulo,0-0,?,Sport Recife
+Sat Dec 1 2018,Atletico-MG,1-0,?,Botafogo RJ
+Sat Dec 1 2018,Flamengo RJ,1-2,?,Atletico-PR
+Sun Dec 2 2018,Bahia,0-0,?,Cruzeiro
+Sun Dec 2 2018,Ceara,0-0,?,Vasco
+Sun Dec 2 2018,Chapecoense-SC,1-0,?,Sao Paulo
+Sun Dec 2 2018,Fluminense,1-0,?,America MG
+Sun Dec 2 2018,Gremio,1-0,?,Corinthians
+Sun Dec 2 2018,Palmeiras,3-2,?,Vitoria
+Sun Dec 2 2018,Parana,1-1,?,Internacional
+Sun Dec 2 2018,Sport Recife,2-1,?,Santos

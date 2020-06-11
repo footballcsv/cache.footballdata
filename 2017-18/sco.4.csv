@@ -1,0 +1,181 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 5 2017,Annan Athletic,1-2,1-0,Peterhead
+Sat Aug 5 2017,Berwick,3-1,1-1,Clyde
+Sat Aug 5 2017,Edinburgh City,1-3,0-2,Montrose
+Sat Aug 5 2017,Elgin,1-1,1-1,Cowdenbeath
+Sat Aug 5 2017,Stenhousemuir,2-3,2-1,Stirling
+Sat Aug 12 2017,Clyde,2-1,1-0,Annan Athletic
+Sat Aug 12 2017,Cowdenbeath,1-0,1-0,Edinburgh City
+Sat Aug 12 2017,Montrose,1-1,0-0,Stenhousemuir
+Sat Aug 12 2017,Peterhead,3-0,2-0,Elgin
+Sat Aug 12 2017,Stirling,4-0,2-0,Berwick
+Sat Aug 19 2017,Berwick,1-5,1-3,Annan Athletic
+Sat Aug 19 2017,Elgin,3-2,1-2,Clyde
+Sat Aug 19 2017,Montrose,1-0,1-0,Cowdenbeath
+Sat Aug 19 2017,Stenhousemuir,3-1,1-1,Peterhead
+Sat Aug 19 2017,Stirling,2-0,2-0,Edinburgh City
+Sat Aug 26 2017,Annan Athletic,0-1,0-1,Montrose
+Sat Aug 26 2017,Clyde,1-1,0-1,Stenhousemuir
+Sat Aug 26 2017,Cowdenbeath,0-1,0-1,Berwick
+Sat Aug 26 2017,Edinburgh City,0-3,0-2,Elgin
+Sat Aug 26 2017,Peterhead,2-4,1-4,Stirling
+Sat Sep 9 2017,Edinburgh City,1-0,1-0,Berwick
+Sat Sep 9 2017,Elgin,0-1,0-1,Annan Athletic
+Sat Sep 9 2017,Peterhead,1-1,0-0,Montrose
+Sat Sep 9 2017,Stenhousemuir,1-0,1-0,Cowdenbeath
+Sat Sep 9 2017,Stirling,2-3,1-1,Clyde
+Sat Sep 16 2017,Annan Athletic,1-1,0-1,Stenhousemuir
+Sat Sep 16 2017,Berwick,3-2,0-1,Elgin
+Sat Sep 16 2017,Clyde,2-3,1-1,Edinburgh City
+Sat Sep 16 2017,Cowdenbeath,0-4,0-3,Peterhead
+Sat Sep 16 2017,Montrose,1-3,0-1,Stirling
+Sat Sep 23 2017,Clyde,1-1,0-0,Cowdenbeath
+Sat Sep 23 2017,Edinburgh City,0-3,0-1,Peterhead
+Sat Sep 23 2017,Elgin,3-0,1-0,Montrose
+Sat Sep 23 2017,Stenhousemuir,3-0,2-0,Berwick
+Sat Sep 23 2017,Stirling,3-2,2-1,Annan Athletic
+Sat Sep 30 2017,Annan Athletic,1-0,1-0,Cowdenbeath
+Sat Sep 30 2017,Montrose,3-2,3-1,Clyde
+Sat Sep 30 2017,Peterhead,0-2,0-0,Berwick
+Sat Sep 30 2017,Stenhousemuir,3-0,0-0,Edinburgh City
+Sat Sep 30 2017,Stirling,2-2,2-0,Elgin
+Sat Oct 21 2017,Berwick,0-1,0-1,Montrose
+Sat Oct 21 2017,Clyde,1-4,1-1,Peterhead
+Sat Oct 21 2017,Cowdenbeath,0-3,0-2,Stirling
+Sat Oct 21 2017,Edinburgh City,0-1,0-0,Annan Athletic
+Sat Oct 21 2017,Elgin,2-0,0-0,Stenhousemuir
+Sat Oct 28 2017,Berwick,1-0,0-0,Cowdenbeath
+Sat Oct 28 2017,Clyde,2-4,1-1,Elgin
+Sat Oct 28 2017,Montrose,1-0,0-0,Edinburgh City
+Sat Oct 28 2017,Peterhead,1-0,1-0,Annan Athletic
+Sat Oct 28 2017,Stirling,1-2,0-1,Stenhousemuir
+Sat Nov 4 2017,Annan Athletic,0-0,0-0,Berwick
+Sat Nov 4 2017,Cowdenbeath,1-3,0-2,Montrose
+Sat Nov 4 2017,Edinburgh City,1-2,1-1,Stirling
+Sat Nov 4 2017,Elgin,0-2,0-1,Peterhead
+Sat Nov 4 2017,Stenhousemuir,1-1,1-0,Clyde
+Sat Nov 11 2017,Berwick,1-1,0-0,Edinburgh City
+Sat Nov 11 2017,Clyde,1-1,0-0,Stirling
+Sat Nov 11 2017,Cowdenbeath,1-3,0-2,Elgin
+Sat Nov 11 2017,Montrose,1-1,1-0,Annan Athletic
+Sat Nov 11 2017,Peterhead,2-3,0-1,Stenhousemuir
+Sat Nov 18 2017,Cowdenbeath,1-1,0-1,Annan Athletic
+Sat Nov 25 2017,Annan Athletic,0-0,0-0,Clyde
+Sat Nov 25 2017,Edinburgh City,0-0,0-0,Cowdenbeath
+Sat Nov 25 2017,Elgin,5-1,1-0,Berwick
+Sat Nov 25 2017,Stenhousemuir,0-1,0-1,Montrose
+Sat Dec 2 2017,Annan Athletic,2-0,1-0,Elgin
+Sat Dec 2 2017,Berwick,1-0,1-0,Stirling
+Sat Dec 2 2017,Clyde,0-0,0-0,Montrose
+Sat Dec 2 2017,Peterhead,3-0,0-0,Edinburgh City
+Tue Dec 5 2017,Stirling,0-1,0-1,Peterhead
+Sat Dec 9 2017,Elgin,1-1,0-0,Edinburgh City
+Sat Dec 9 2017,Montrose,3-0,3-0,Berwick
+Sat Dec 9 2017,Stenhousemuir,1-3,0-0,Annan Athletic
+Sat Dec 16 2017,Annan Athletic,1-1,0-1,Stirling
+Sat Dec 16 2017,Edinburgh City,1-2,1-2,Stenhousemuir
+Sat Dec 16 2017,Montrose,3-0,1-0,Elgin
+Tue Dec 19 2017,Cowdenbeath,1-1,1-0,Stenhousemuir
+Sat Dec 23 2017,Annan Athletic,2-1,1-1,Edinburgh City
+Sat Dec 23 2017,Clyde,0-0,0-0,Berwick
+Sat Dec 23 2017,Peterhead,3-2,0-1,Cowdenbeath
+Sat Dec 23 2017,Stenhousemuir,4-1,2-0,Elgin
+Sat Dec 23 2017,Stirling,0-1,0-0,Montrose
+Sat Dec 30 2017,Montrose,2-6,1-2,Peterhead
+Tue Jan 2 2018,Clyde,0-0,0-0,Annan Athletic
+Tue Jan 2 2018,Edinburgh City,3-0,1-0,Berwick
+Tue Jan 2 2018,Montrose,1-1,0-0,Cowdenbeath
+Tue Jan 2 2018,Peterhead,7-0,1-0,Elgin
+Tue Jan 2 2018,Stenhousemuir,2-1,0-0,Stirling
+Sat Jan 6 2018,Annan Athletic,0-1,0-1,Montrose
+Sat Jan 6 2018,Cowdenbeath,0-2,0-2,Edinburgh City
+Sat Jan 6 2018,Elgin,2-1,1-0,Clyde
+Sat Jan 6 2018,Stenhousemuir,1-4,1-1,Peterhead
+Sat Jan 6 2018,Stirling,2-0,1-0,Berwick
+Sat Jan 13 2018,Berwick,0-2,0-0,Annan Athletic
+Sat Jan 13 2018,Clyde,0-3,0-1,Stenhousemuir
+Sat Jan 13 2018,Edinburgh City,0-2,0-2,Montrose
+Sat Jan 13 2018,Elgin,1-0,0-0,Cowdenbeath
+Sat Jan 13 2018,Peterhead,4-3,2-2,Stirling
+Sat Jan 20 2018,Montrose,1-3,0-1,Clyde
+Sat Jan 27 2018,Clyde,1-0,0-0,Peterhead
+Sat Jan 27 2018,Cowdenbeath,1-3,1-1,Berwick
+Sat Jan 27 2018,Edinburgh City,3-2,2-0,Annan Athletic
+Sat Jan 27 2018,Elgin,2-0,1-0,Stenhousemuir
+Sat Jan 27 2018,Montrose,2-1,0-1,Stirling
+Tue Jan 30 2018,Berwick,2-3,1-2,Peterhead
+Wed Jan 31 2018,Stirling,1-0,1-0,Cowdenbeath
+Sat Feb 3 2018,Annan Athletic,1-1,0-1,Cowdenbeath
+Sat Feb 3 2018,Clyde,3-2,2-1,Edinburgh City
+Sat Feb 3 2018,Peterhead,0-1,0-0,Montrose
+Sat Feb 3 2018,Stenhousemuir,4-0,2-0,Berwick
+Sat Feb 3 2018,Stirling,3-1,2-0,Elgin
+Sat Feb 10 2018,Berwick,0-1,0-0,Clyde
+Sat Feb 10 2018,Cowdenbeath,1-2,0-0,Stirling
+Sat Feb 10 2018,Edinburgh City,0-0,0-0,Peterhead
+Sat Feb 10 2018,Elgin,2-1,1-1,Annan Athletic
+Sat Feb 10 2018,Montrose,1-0,0-0,Stenhousemuir
+Sat Feb 17 2018,Clyde,2-0,0-0,Cowdenbeath
+Sat Feb 17 2018,Elgin,2-2,1-1,Montrose
+Sat Feb 17 2018,Peterhead,1-1,0-1,Berwick
+Sat Feb 17 2018,Stenhousemuir,1-0,1-0,Edinburgh City
+Sat Feb 17 2018,Stirling,3-0,0-0,Annan Athletic
+Tue Feb 20 2018,Annan Athletic,3-3,0-2,Peterhead
+Sat Feb 24 2018,Annan Athletic,2-0,0-0,Stenhousemuir
+Sat Feb 24 2018,Berwick,2-2,1-2,Montrose
+Sat Feb 24 2018,Cowdenbeath,0-2,0-1,Peterhead
+Sat Feb 24 2018,Edinburgh City,4-0,2-0,Elgin
+Sat Feb 24 2018,Stirling,2-1,1-1,Clyde
+Tue Feb 27 2018,Peterhead,2-1,2-0,Clyde
+Sat Mar 10 2018,Annan Athletic,2-3,0-0,Edinburgh City
+Sat Mar 10 2018,Elgin,3-0,2-0,Berwick
+Sat Mar 10 2018,Stenhousemuir,2-3,0-2,Clyde
+Sat Mar 10 2018,Stirling,0-1,0-0,Peterhead
+Tue Mar 13 2018,Berwick,0-1,0-1,Stirling
+Tue Mar 13 2018,Clyde,1-0,0-0,Elgin
+Tue Mar 13 2018,Edinburgh City,1-1,0-0,Cowdenbeath
+Tue Mar 13 2018,Montrose,2-1,1-0,Annan Athletic
+Tue Mar 13 2018,Peterhead,1-2,0-2,Stenhousemuir
+Sat Mar 17 2018,Annan Athletic,1-1,0-0,Clyde
+Sat Mar 17 2018,Cowdenbeath,3-1,2-0,Elgin
+Sat Mar 17 2018,Edinburgh City,2-2,1-1,Stirling
+Sat Mar 17 2018,Montrose,3-2,0-1,Peterhead
+Tue Mar 20 2018,Edinburgh City,0-3,0-2,Clyde
+Tue Mar 20 2018,Elgin,0-2,0-0,Stirling
+Tue Mar 20 2018,Stenhousemuir,1-2,0-2,Cowdenbeath
+Sat Mar 24 2018,Berwick,1-1,0-0,Edinburgh City
+Sat Mar 24 2018,Clyde,3-0,3-0,Montrose
+Sat Mar 24 2018,Peterhead,1-0,0-0,Annan Athletic
+Sat Mar 24 2018,Stenhousemuir,0-2,0-1,Elgin
+Sat Mar 24 2018,Stirling,2-2,1-0,Cowdenbeath
+Tue Mar 27 2018,Berwick,2-2,0-1,Elgin
+Tue Mar 27 2018,Cowdenbeath,0-3,0-1,Clyde
+Tue Mar 27 2018,Stirling,2-2,1-1,Edinburgh City
+Sat Mar 31 2018,Annan Athletic,0-0,0-0,Berwick
+Sat Mar 31 2018,Cowdenbeath,1-1,1-1,Stenhousemuir
+Sat Mar 31 2018,Elgin,3-0,3-0,Stirling
+Sat Mar 31 2018,Montrose,3-0,2-0,Edinburgh City
+Sat Mar 31 2018,Peterhead,3-0,1-0,Clyde
+Sat Apr 7 2018,Annan Athletic,4-1,1-0,Elgin
+Sat Apr 7 2018,Berwick,1-3,0-2,Peterhead
+Sat Apr 7 2018,Cowdenbeath,1-0,0-0,Clyde
+Sat Apr 7 2018,Edinburgh City,1-4,0-2,Stenhousemuir
+Sat Apr 7 2018,Stirling,0-5,0-1,Montrose
+Tue Apr 10 2018,Cowdenbeath,0-3,0-1,Montrose
+Sat Apr 14 2018,Clyde,2-1,0-0,Stirling
+Sat Apr 14 2018,Elgin,1-1,1-0,Edinburgh City
+Sat Apr 14 2018,Montrose,1-0,1-0,Berwick
+Sat Apr 14 2018,Peterhead,1-0,0-0,Cowdenbeath
+Sat Apr 14 2018,Stenhousemuir,3-2,1-1,Annan Athletic
+Tue Apr 17 2018,Berwick,0-0,0-0,Stenhousemuir
+Sat Apr 21 2018,Annan Athletic,3-1,1-1,Stirling
+Sat Apr 21 2018,Berwick,1-0,1-0,Cowdenbeath
+Sat Apr 21 2018,Edinburgh City,1-3,0-1,Clyde
+Sat Apr 21 2018,Elgin,0-1,0-0,Peterhead
+Sat Apr 21 2018,Stenhousemuir,0-2,0-2,Montrose
+Tue Apr 24 2018,Berwick,2-2,2-2,Stenhousemuir
+Sat Apr 28 2018,Clyde,1-2,0-1,Berwick
+Sat Apr 28 2018,Cowdenbeath,0-2,0-2,Annan Athletic
+Sat Apr 28 2018,Montrose,1-1,0-1,Elgin
+Sat Apr 28 2018,Peterhead,2-1,1-0,Edinburgh City
+Sat Apr 28 2018,Stirling,1-1,0-1,Stenhousemuir

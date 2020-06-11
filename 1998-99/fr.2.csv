@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 8 1998,Gueugnon,2-1,1-1,Caen
+Sat Aug 8 1998,Laval,2-1,2-1,Ajaccio
+Sat Aug 8 1998,Le Mans,1-1,0-0,Beauvais
+Sat Aug 8 1998,Lille,1-2,0-1,Guingamp
+Sat Aug 8 1998,Nice,1-1,1-0,Chateauroux
+Sat Aug 8 1998,Nimes,1-1,0-0,Niort
+Sat Aug 8 1998,Red Star 93,0-0,0-0,Wasquehal
+Sat Aug 8 1998,St Etienne,1-1,0-0,Sedan
+Sat Aug 8 1998,Troyes,2-1,0-0,Cannes
+Sat Aug 8 1998,Valence,1-1,0-0,Amiens
+Sat Aug 15 1998,Amiens,0-2,0-1,Ajaccio
+Sat Aug 15 1998,Beauvais,0-3,0-2,Troyes
+Sat Aug 15 1998,Caen,1-1,0-1,St Etienne
+Sat Aug 15 1998,Cannes,1-1,1-1,Red Star 93
+Sat Aug 15 1998,Chateauroux,5-0,3-0,Valence
+Sat Aug 15 1998,Guingamp,1-3,0-2,Laval
+Sat Aug 15 1998,Le Mans,4-0,3-0,Nimes
+Sat Aug 15 1998,Niort,0-0,0-0,Lille
+Sat Aug 15 1998,Sedan,4-0,1-0,Nice
+Sat Aug 15 1998,Wasquehal,1-0,1-0,Gueugnon
+Sat Aug 22 1998,Ajaccio,1-0,1-0,Chateauroux
+Sat Aug 22 1998,Gueugnon,1-0,0-0,Cannes
+Sat Aug 22 1998,Laval,1-0,0-0,Amiens
+Sat Aug 22 1998,Lille,0-0,0-0,Caen
+Sat Aug 22 1998,Nice,0-2,0-0,Wasquehal
+Sat Aug 22 1998,Nimes,4-0,1-0,Beauvais
+Sat Aug 22 1998,Red Star 93,2-0,1-0,Niort
+Sat Aug 22 1998,St Etienne,0-0,0-0,Guingamp
+Sat Aug 22 1998,Troyes,2-1,0-0,Le Mans
+Sat Aug 22 1998,Valence,1-1,1-1,Sedan
+Sat Aug 29 1998,Beauvais,1-1,1-0,Gueugnon
+Sat Aug 29 1998,Caen,2-0,1-0,Nice
+Sat Aug 29 1998,Cannes,1-0,1-0,Nimes
+Sat Aug 29 1998,Chateauroux,0-0,0-0,Amiens
+Sat Aug 29 1998,Guingamp,0-2,0-0,Valence
+Sat Aug 29 1998,Le Mans,1-2,0-0,Red Star 93
+Sat Aug 29 1998,Niort,0-0,0-0,Laval
+Sat Aug 29 1998,Sedan,3-0,2-0,Ajaccio
+Sat Aug 29 1998,Troyes,1-1,0-0,St Etienne
+Sat Aug 29 1998,Wasquehal,0-1,0-1,Lille
+Fri Sep 4 1998,Ajaccio,1-1,0-1,Wasquehal
+Fri Sep 4 1998,Amiens,3-1,2-0,Sedan
+Fri Sep 4 1998,Gueugnon,1-1,0-1,Le Mans
+Fri Sep 4 1998,Laval,1-2,1-1,Chateauroux
+Fri Sep 4 1998,Lille,0-2,0-1,Cannes
+Fri Sep 4 1998,Nice,0-0,0-0,Guingamp
+Fri Sep 4 1998,Nimes,2-2,1-1,Troyes
+Fri Sep 4 1998,Red Star 93,4-3,3-1,Beauvais
+Fri Sep 4 1998,St Etienne,2-0,1-0,Niort
+Fri Sep 4 1998,Valence,0-1,0-1,Caen
+Thu Sep 10 1998,Wasquehal,1-0,1-0,Valence
+Sat Sep 12 1998,Beauvais,1-0,0-0,Lille
+Sat Sep 12 1998,Caen,1-1,0-0,Ajaccio
+Sat Sep 12 1998,Cannes,0-0,0-0,St Etienne
+Sat Sep 12 1998,Guingamp,2-2,1-1,Amiens
+Sat Sep 12 1998,Le Mans,1-0,1-0,Nice
+Sat Sep 12 1998,Nimes,0-1,0-1,Laval
+Sat Sep 12 1998,Niort,3-1,2-1,Gueugnon
+Sat Sep 12 1998,Sedan,1-1,0-0,Chateauroux
+Sat Sep 12 1998,Troyes,3-1,1-0,Red Star 93
+Sat Sep 19 1998,Ajaccio,1-3,1-1,Guingamp
+Sat Sep 19 1998,Amiens,3-1,1-1,Caen
+Sat Sep 19 1998,Chateauroux,0-0,0-0,Wasquehal
+Sat Sep 19 1998,Gueugnon,1-0,1-0,Troyes
+Sat Sep 19 1998,Laval,0-0,0-0,Sedan
+Sat Sep 19 1998,Lille,3-3,0-1,Le Mans
+Sat Sep 19 1998,Nice,0-3,0-2,Cannes
+Sat Sep 19 1998,Red Star 93,1-2,0-1,Nimes
+Sat Sep 19 1998,St Etienne,2-1,1-0,Beauvais
+Sat Sep 19 1998,Valence,2-0,1-0,Niort
+Wed Sep 23 1998,Beauvais,0-3,0-2,Nice
+Wed Sep 23 1998,Caen,1-0,1-0,Chateauroux
+Wed Sep 23 1998,Cannes,1-0,0-0,Amiens
+Wed Sep 23 1998,Guingamp,2-1,1-1,Sedan
+Wed Sep 23 1998,Le Mans,1-2,1-0,St Etienne
+Wed Sep 23 1998,Nimes,0-0,0-0,Gueugnon
+Wed Sep 23 1998,Niort,1-4,1-3,Ajaccio
+Wed Sep 23 1998,Red Star 93,1-2,0-0,Valence
+Wed Sep 23 1998,Troyes,1-0,0-0,Lille
+Wed Sep 23 1998,Wasquehal,0-0,0-0,Laval
+Sat Sep 26 1998,Ajaccio,4-1,1-0,Le Mans
+Sat Sep 26 1998,Amiens,0-2,0-0,Troyes
+Sat Sep 26 1998,Chateauroux,2-1,0-0,Guingamp
+Sat Sep 26 1998,Gueugnon,1-1,0-1,Red Star 93
+Sat Sep 26 1998,Laval,2-1,1-0,Caen
+Sat Sep 26 1998,Lille,3-0,1-0,Nimes
+Sat Sep 26 1998,Nice,0-0,0-0,Niort
+Sat Sep 26 1998,Sedan,1-2,1-2,Beauvais
+Sat Sep 26 1998,St Etienne,3-0,2-0,Wasquehal
+Sat Sep 26 1998,Valence,1-3,0-0,Cannes
+Sat Oct 3 1998,Beauvais,3-1,1-1,Ajaccio
+Sat Oct 3 1998,Caen,4-1,1-0,Guingamp
+Sat Oct 3 1998,Cannes,0-0,0-0,Laval
+Sat Oct 3 1998,Gueugnon,1-0,1-0,Amiens
+Sat Oct 3 1998,Le Mans,6-0,2-0,Valence
+Sat Oct 3 1998,Nimes,3-3,0-2,St Etienne
+Sat Oct 3 1998,Niort,3-0,2-0,Chateauroux
+Sat Oct 3 1998,Red Star 93,2-3,0-2,Lille
+Sat Oct 3 1998,Troyes,2-0,2-0,Nice
+Sat Oct 3 1998,Wasquehal,0-1,0-1,Sedan
+Fri Oct 9 1998,Ajaccio,0-0,0-0,Cannes
+Fri Oct 9 1998,Amiens,0-2,0-2,Niort
+Fri Oct 9 1998,Chateauroux,1-1,1-0,Le Mans
+Fri Oct 9 1998,Guingamp,0-1,0-1,Wasquehal
+Fri Oct 9 1998,Laval,2-1,0-0,Beauvais
+Fri Oct 9 1998,Lille,1-0,1-0,Gueugnon
+Fri Oct 9 1998,Nice,2-1,1-1,Nimes
+Fri Oct 9 1998,Sedan,0-1,0-1,Caen
+Fri Oct 9 1998,St Etienne,2-1,2-0,Red Star 93
+Fri Oct 9 1998,Valence,0-3,0-1,Troyes
+Sat Oct 17 1998,Beauvais,2-2,2-1,Chateauroux
+Sat Oct 17 1998,Cannes,2-1,0-0,Sedan
+Sat Oct 17 1998,Gueugnon,1-1,0-0,Laval
+Sat Oct 17 1998,Le Mans,1-0,0-0,Amiens
+Sat Oct 17 1998,Lille,1-2,0-2,St Etienne
+Sat Oct 17 1998,Nimes,3-0,2-0,Valence
+Sat Oct 17 1998,Niort,1-1,0-0,Guingamp
+Sat Oct 17 1998,Red Star 93,3-2,1-1,Nice
+Sat Oct 17 1998,Troyes,0-4,0-1,Ajaccio
+Sat Oct 17 1998,Wasquehal,0-0,0-0,Caen
+Fri Oct 23 1998,Laval,4-2,1-2,Red Star 93
+Sat Oct 24 1998,Ajaccio,2-1,1-1,Nimes
+Sat Oct 24 1998,Amiens,2-5,1-1,Wasquehal
+Sat Oct 24 1998,Caen,3-1,2-0,Niort
+Sat Oct 24 1998,Chateauroux,1-1,0-0,Cannes
+Sat Oct 24 1998,Guingamp,1-1,1-0,Le Mans
+Sat Oct 24 1998,Nice,0-0,0-0,Lille
+Sat Oct 24 1998,St Etienne,3-0,0-0,Gueugnon
+Sat Oct 24 1998,Valence,3-2,1-1,Beauvais
+Sun Oct 25 1998,Sedan,1-1,1-0,Troyes
+Fri Oct 30 1998,Beauvais,0-2,0-0,Guingamp
+Sat Oct 31 1998,Cannes,1-1,1-0,Caen
+Sat Oct 31 1998,Gueugnon,2-0,0-0,Nice
+Sat Oct 31 1998,Le Mans,1-2,1-1,Sedan
+Sat Oct 31 1998,Lille,2-1,1-0,Laval
+Sat Oct 31 1998,Nimes,3-0,3-0,Amiens
+Sat Oct 31 1998,Niort,1-1,1-0,Wasquehal
+Sat Oct 31 1998,St Etienne,1-0,0-0,Valence
+Sat Oct 31 1998,Troyes,0-0,0-0,Chateauroux
+Sun Nov 1 1998,Red Star 93,1-1,0-0,Ajaccio
+Sat Nov 7 1998,Ajaccio,1-3,1-2,Gueugnon
+Sat Nov 7 1998,Amiens,3-0,0-0,Red Star 93
+Sat Nov 7 1998,Caen,2-0,0-0,Beauvais
+Sat Nov 7 1998,Chateauroux,1-0,1-0,Nimes
+Sat Nov 7 1998,Guingamp,0-0,0-0,Cannes
+Sat Nov 7 1998,Laval,0-1,0-1,Troyes
+Sat Nov 7 1998,Nice,0-1,0-1,St Etienne
+Sat Nov 7 1998,Sedan,2-0,2-0,Niort
+Sat Nov 7 1998,Valence,1-2,1-1,Lille
+Sat Nov 7 1998,Wasquehal,1-0,1-0,Le Mans
+Wed Nov 11 1998,Beauvais,1-0,0-0,Wasquehal
+Wed Nov 11 1998,Cannes,0-3,0-0,Niort
+Wed Nov 11 1998,Le Mans,2-1,0-1,Caen
+Wed Nov 11 1998,Lille,1-3,1-0,Ajaccio
+Wed Nov 11 1998,Nice,0-0,0-0,Amiens
+Wed Nov 11 1998,Nimes,1-1,1-0,Sedan
+Wed Nov 11 1998,Red Star 93,1-1,0-0,Chateauroux
+Wed Nov 11 1998,St Etienne,1-1,0-1,Laval
+Wed Nov 11 1998,Troyes,2-1,0-0,Guingamp
+Sat Nov 14 1998,Ajaccio,1-1,0-1,St Etienne
+Sat Nov 14 1998,Amiens,1-3,1-3,Lille
+Sat Nov 14 1998,Caen,2-0,2-0,Troyes
+Sat Nov 14 1998,Chateauroux,2-1,2-0,Gueugnon
+Sat Nov 14 1998,Guingamp,0-0,0-0,Nimes
+Sat Nov 14 1998,Laval,0-0,0-0,Le Mans
+Sat Nov 14 1998,Niort,4-0,1-0,Beauvais
+Sat Nov 14 1998,Sedan,5-0,4-0,Red Star 93
+Sat Nov 14 1998,Valence,0-0,0-0,Nice
+Sat Nov 14 1998,Wasquehal,1-1,1-1,Cannes
+Tue Nov 17 1998,Le Mans,0-0,0-0,Niort
+Tue Nov 17 1998,Troyes,3-0,1-0,Wasquehal
+Wed Nov 18 1998,Beauvais,3-1,1-1,Cannes
+Wed Nov 18 1998,Gueugnon,1-1,1-0,Sedan
+Wed Nov 18 1998,Lille,2-2,1-0,Chateauroux
+Wed Nov 18 1998,Nice,3-0,0-0,Ajaccio
+Wed Nov 18 1998,Nimes,3-1,1-1,Caen
+Wed Nov 18 1998,Red Star 93,0-0,0-0,Guingamp
+Wed Nov 18 1998,St Etienne,0-0,0-0,Amiens
+Wed Nov 18 1998,Valence,2-1,0-1,Laval
+Sat Nov 21 1998,Ajaccio,0-0,0-0,Valence
+Sat Nov 21 1998,Amiens,1-1,1-1,Beauvais
+Sat Nov 21 1998,Caen,3-1,2-1,Red Star 93
+Sat Nov 21 1998,Cannes,1-0,1-0,Le Mans
+Sat Nov 21 1998,Chateauroux,0-2,0-1,St Etienne
+Sat Nov 21 1998,Laval,1-0,0-0,Nice
+Sat Nov 21 1998,Niort,1-1,0-1,Troyes
+Sat Nov 21 1998,Sedan,1-1,1-1,Lille
+Sat Nov 21 1998,Wasquehal,0-1,0-1,Nimes
+Sun Nov 22 1998,Guingamp,0-2,0-0,Gueugnon
+Tue Nov 24 1998,Gueugnon,2-1,0-0,Valence
+Tue Dec 1 1998,St Etienne,2-0,1-0,Caen
+Wed Dec 2 1998,Ajaccio,1-1,1-1,Amiens
+Wed Dec 2 1998,Gueugnon,1-0,1-0,Wasquehal
+Wed Dec 2 1998,Laval,0-1,0-1,Guingamp
+Wed Dec 2 1998,Lille,1-0,1-0,Niort
+Wed Dec 2 1998,Nice,0-0,0-0,Sedan
+Wed Dec 2 1998,Nimes,1-1,1-1,Le Mans
+Wed Dec 2 1998,Red Star 93,1-1,0-0,Cannes
+Wed Dec 2 1998,Troyes,2-1,0-1,Beauvais
+Wed Dec 2 1998,Valence,1-2,0-0,Chateauroux
+Sat Dec 5 1998,Beauvais,3-1,0-1,Nimes
+Sat Dec 5 1998,Caen,0-1,0-1,Lille
+Sat Dec 5 1998,Cannes,0-0,0-0,Gueugnon
+Sat Dec 5 1998,Chateauroux,0-1,0-1,Ajaccio
+Sat Dec 5 1998,Guingamp,1-0,1-0,St Etienne
+Sat Dec 5 1998,Le Mans,2-2,1-1,Troyes
+Sat Dec 5 1998,Niort,3-1,2-0,Red Star 93
+Sat Dec 5 1998,Sedan,3-1,1-1,Valence
+Sat Dec 5 1998,Wasquehal,2-2,1-0,Nice
+Sun Dec 6 1998,Amiens,1-1,0-0,Laval
+Sat Dec 12 1998,Ajaccio,2-2,0-2,Sedan
+Sat Dec 12 1998,Amiens,3-0,1-0,Chateauroux
+Sat Dec 12 1998,Gueugnon,1-0,0-0,Beauvais
+Sat Dec 12 1998,Laval,1-1,0-0,Niort
+Sat Dec 12 1998,Lille,1-1,0-0,Wasquehal
+Sat Dec 12 1998,Nice,0-0,0-0,Caen
+Sat Dec 12 1998,Nimes,4-1,2-1,Cannes
+Sat Dec 12 1998,Red Star 93,1-0,0-0,Le Mans
+Sat Dec 12 1998,St Etienne,0-0,0-0,Troyes
+Sat Dec 12 1998,Valence,2-0,2-0,Guingamp
+Wed Dec 16 1998,Beauvais,1-1,1-0,Red Star 93
+Wed Dec 16 1998,Caen,1-1,0-1,Valence
+Wed Dec 16 1998,Cannes,1-0,0-0,Lille
+Wed Dec 16 1998,Chateauroux,1-0,0-0,Laval
+Wed Dec 16 1998,Guingamp,2-0,1-0,Nice
+Wed Dec 16 1998,Le Mans,2-2,1-1,Gueugnon
+Wed Dec 16 1998,Niort,1-0,0-0,St Etienne
+Wed Dec 16 1998,Sedan,1-0,1-0,Amiens
+Wed Dec 16 1998,Troyes,1-0,1-0,Nimes
+Wed Dec 16 1998,Wasquehal,4-0,2-0,Ajaccio
+Sat Jan 16 1999,Ajaccio,2-1,1-1,Caen
+Sat Jan 16 1999,Amiens,1-0,0-0,Guingamp
+Sat Jan 16 1999,Chateauroux,1-0,1-0,Sedan
+Sat Jan 16 1999,Lille,1-0,1-0,Beauvais
+Sat Jan 16 1999,Nice,2-0,1-0,Le Mans
+Sat Jan 16 1999,Red Star 93,2-2,0-0,Troyes
+Sat Jan 16 1999,St Etienne,6-1,4-1,Cannes
+Sun Jan 17 1999,Gueugnon,1-1,0-1,Niort
+Sun Jan 17 1999,Laval,2-1,1-1,Nimes
+Sun Jan 17 1999,Valence,2-0,0-0,Wasquehal
+Sat Jan 30 1999,Beauvais,1-2,0-2,St Etienne
+Sat Jan 30 1999,Caen,0-0,0-0,Amiens
+Sat Jan 30 1999,Cannes,0-1,0-0,Nice
+Sat Jan 30 1999,Guingamp,1-2,1-1,Ajaccio
+Sat Jan 30 1999,Le Mans,2-1,1-1,Lille
+Sat Jan 30 1999,Nimes,2-0,0-0,Red Star 93
+Sat Jan 30 1999,Niort,1-0,0-0,Valence
+Sat Jan 30 1999,Sedan,1-0,0-0,Laval
+Sat Jan 30 1999,Troyes,0-0,0-0,Gueugnon
+Sat Jan 30 1999,Wasquehal,1-0,0-0,Chateauroux
+Sat Feb 6 1999,Ajaccio,1-1,0-0,Niort
+Sat Feb 6 1999,Amiens,2-0,1-0,Cannes
+Sat Feb 6 1999,Chateauroux,2-1,1-1,Caen
+Sat Feb 6 1999,Gueugnon,2-2,2-1,Nimes
+Sat Feb 6 1999,Laval,1-0,0-0,Wasquehal
+Sat Feb 6 1999,Lille,1-0,0-0,Troyes
+Sat Feb 6 1999,Nice,1-1,1-0,Beauvais
+Sat Feb 6 1999,Sedan,2-0,0-0,Guingamp
+Sat Feb 6 1999,St Etienne,1-0,1-0,Le Mans
+Sat Feb 6 1999,Valence,1-1,0-0,Red Star 93
+Sat Feb 13 1999,Beauvais,0-2,0-1,Sedan
+Sat Feb 13 1999,Caen,2-1,1-1,Laval
+Sat Feb 13 1999,Cannes,1-1,1-1,Valence
+Sat Feb 13 1999,Guingamp,1-4,1-1,Chateauroux
+Sat Feb 13 1999,Le Mans,0-0,0-0,Ajaccio
+Sat Feb 13 1999,Nimes,3-0,2-0,Lille
+Sat Feb 13 1999,Niort,1-0,1-0,Nice
+Sat Feb 13 1999,Red Star 93,2-2,1-0,Gueugnon
+Sat Feb 13 1999,Troyes,3-0,1-0,Amiens
+Sat Feb 13 1999,Wasquehal,1-3,1-2,St Etienne
+Sat Feb 27 1999,Ajaccio,2-1,1-1,Beauvais
+Sat Feb 27 1999,Amiens,1-0,0-0,Gueugnon
+Sat Feb 27 1999,Chateauroux,2-1,1-1,Niort
+Sat Feb 27 1999,Guingamp,0-0,0-0,Caen
+Sat Feb 27 1999,Laval,1-2,1-1,Cannes
+Sat Feb 27 1999,Lille,2-0,1-0,Red Star 93
+Sat Feb 27 1999,Nice,0-0,0-0,Troyes
+Sat Feb 27 1999,Sedan,2-0,1-0,Wasquehal
+Sat Feb 27 1999,Valence,0-1,0-0,Le Mans
+Fri Mar 5 1999,St Etienne,3-1,2-1,Nimes
+Wed Mar 10 1999,Beauvais,1-1,0-1,Laval
+Wed Mar 10 1999,Cannes,1-0,1-0,Ajaccio
+Wed Mar 10 1999,Gueugnon,0-1,0-1,Lille
+Wed Mar 10 1999,Le Mans,1-1,1-0,Chateauroux
+Wed Mar 10 1999,Nimes,0-1,0-1,Nice
+Wed Mar 10 1999,Niort,1-0,1-0,Amiens
+Wed Mar 10 1999,Red Star 93,1-2,0-2,St Etienne
+Wed Mar 10 1999,Troyes,0-0,0-0,Valence
+Wed Mar 10 1999,Wasquehal,1-2,1-1,Guingamp
+Sat Mar 20 1999,Ajaccio,0-3,0-2,Troyes
+Sat Mar 20 1999,Amiens,0-2,0-0,Le Mans
+Sat Mar 20 1999,Caen,2-0,1-0,Wasquehal
+Sat Mar 20 1999,Chateauroux,1-1,0-0,Beauvais
+Sat Mar 20 1999,Guingamp,2-0,0-0,Niort
+Sat Mar 20 1999,Laval,1-1,1-1,Gueugnon
+Sat Mar 20 1999,Nice,3-0,1-0,Red Star 93
+Sat Mar 20 1999,Sedan,3-1,2-0,Cannes
+Sat Mar 20 1999,St Etienne,3-2,2-1,Lille
+Sat Mar 20 1999,Valence,1-1,0-0,Nimes
+Fri Mar 26 1999,Beauvais,0-5,0-3,Valence
+Fri Mar 26 1999,Gueugnon,4-1,1-0,St Etienne
+Fri Mar 26 1999,Le Mans,0-1,0-0,Guingamp
+Fri Mar 26 1999,Lille,2-0,0-0,Nice
+Fri Mar 26 1999,Nimes,2-1,1-0,Ajaccio
+Fri Mar 26 1999,Niort,1-2,0-1,Caen
+Fri Mar 26 1999,Red Star 93,3-1,2-1,Laval
+Fri Mar 26 1999,Troyes,0-2,0-0,Sedan
+Fri Mar 26 1999,Wasquehal,0-0,0-0,Amiens
+Sat Mar 27 1999,Cannes,0-1,0-1,Chateauroux
+Sat Apr 3 1999,Ajaccio,4-3,2-1,Red Star 93
+Sat Apr 3 1999,Amiens,1-1,1-1,Nimes
+Sat Apr 3 1999,Caen,1-0,0-0,Cannes
+Sat Apr 3 1999,Chateauroux,0-1,0-0,Troyes
+Sat Apr 3 1999,Guingamp,3-0,1-0,Beauvais
+Sat Apr 3 1999,Laval,1-0,1-0,Lille
+Sat Apr 3 1999,Nice,4-0,1-0,Gueugnon
+Sat Apr 3 1999,Sedan,1-0,0-0,Le Mans
+Sat Apr 3 1999,Valence,2-2,2-1,St Etienne
+Sat Apr 3 1999,Wasquehal,1-1,0-1,Niort
+Wed Apr 14 1999,Beauvais,3-1,1-1,Caen
+Wed Apr 14 1999,Cannes,0-1,0-1,Guingamp
+Wed Apr 14 1999,Gueugnon,3-1,0-1,Ajaccio
+Wed Apr 14 1999,Le Mans,1-1,1-1,Wasquehal
+Wed Apr 14 1999,Lille,2-1,0-1,Valence
+Wed Apr 14 1999,Nimes,0-0,0-0,Chateauroux
+Wed Apr 14 1999,Niort,1-1,0-0,Sedan
+Wed Apr 14 1999,Red Star 93,1-4,0-2,Amiens
+Wed Apr 14 1999,St Etienne,0-2,0-0,Nice
+Wed Apr 14 1999,Troyes,1-1,1-1,Laval
+Sat Apr 17 1999,Caen,1-3,0-3,Sedan
+Sat Apr 24 1999,Ajaccio,0-2,0-0,Lille
+Sat Apr 24 1999,Amiens,0-1,0-1,Nice
+Sat Apr 24 1999,Caen,3-2,1-2,Le Mans
+Sat Apr 24 1999,Chateauroux,1-4,0-2,Red Star 93
+Sat Apr 24 1999,Guingamp,2-0,0-0,Troyes
+Sat Apr 24 1999,Laval,1-1,0-1,St Etienne
+Sat Apr 24 1999,Niort,3-2,2-0,Cannes
+Sat Apr 24 1999,Sedan,1-1,0-0,Nimes
+Sat Apr 24 1999,Valence,1-2,1-1,Gueugnon
+Sat Apr 24 1999,Wasquehal,1-0,0-0,Beauvais
+Sat May 1 1999,Beauvais,3-2,1-1,Niort
+Sat May 1 1999,Cannes,3-2,2-1,Wasquehal
+Sat May 1 1999,Gueugnon,2-1,1-1,Chateauroux
+Sat May 1 1999,Le Mans,0-0,0-0,Laval
+Sat May 1 1999,Lille,0-1,0-0,Amiens
+Sat May 1 1999,Nice,2-0,1-0,Valence
+Sat May 1 1999,Nimes,0-0,0-0,Guingamp
+Sat May 1 1999,Red Star 93,3-2,0-2,Sedan
+Sat May 1 1999,St Etienne,2-2,1-1,Ajaccio
+Sat May 1 1999,Troyes,0-1,0-1,Caen
+Fri May 7 1999,Ajaccio,0-0,0-0,Nice
+Fri May 7 1999,Amiens,3-0,2-0,St Etienne
+Fri May 7 1999,Caen,3-2,3-1,Nimes
+Fri May 7 1999,Cannes,1-0,1-0,Beauvais
+Fri May 7 1999,Chateauroux,0-1,0-0,Lille
+Fri May 7 1999,Guingamp,2-1,1-0,Red Star 93
+Fri May 7 1999,Laval,0-1,0-1,Valence
+Fri May 7 1999,Niort,0-0,0-0,Le Mans
+Fri May 7 1999,Sedan,2-1,2-1,Gueugnon
+Fri May 7 1999,Wasquehal,2-1,2-0,Troyes
+Sat May 22 1999,Beauvais,3-2,1-1,Amiens
+Sat May 22 1999,Gueugnon,0-0,0-0,Guingamp
+Sat May 22 1999,Le Mans,1-0,0-0,Cannes
+Sat May 22 1999,Lille,1-0,0-0,Sedan
+Sat May 22 1999,Nice,1-3,0-0,Laval
+Sat May 22 1999,Nimes,1-2,1-1,Wasquehal
+Sat May 22 1999,Red Star 93,0-0,0-0,Caen
+Sat May 22 1999,St Etienne,0-0,0-0,Chateauroux
+Sat May 22 1999,Troyes,1-1,0-1,Niort
+Sat May 22 1999,Valence,4-1,0-1,Ajaccio
+Sat May 29 1999,Ajaccio,1-0,1-0,Laval
+Sat May 29 1999,Amiens,3-1,0-0,Valence
+Sat May 29 1999,Beauvais,2-0,1-0,Le Mans
+Sat May 29 1999,Caen,1-1,0-1,Gueugnon
+Sat May 29 1999,Cannes,0-2,0-0,Troyes
+Sat May 29 1999,Chateauroux,0-0,0-0,Nice
+Sat May 29 1999,Guingamp,0-2,0-1,Lille
+Sat May 29 1999,Niort,0-1,0-1,Nimes
+Sat May 29 1999,Sedan,3-0,2-0,St Etienne
+Sat May 29 1999,Wasquehal,2-3,1-3,Red Star 93

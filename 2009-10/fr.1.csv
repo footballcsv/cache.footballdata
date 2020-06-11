@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 8 2009,Auxerre,0-1,0-1,Sochaux
+Sat Aug 8 2009,Grenoble,0-2,0-1,Marseille
+Sat Aug 8 2009,Le Mans,2-2,1-1,Lyon
+Sat Aug 8 2009,Monaco,1-0,1-0,Toulouse
+Sat Aug 8 2009,Montpellier,1-1,0-0,Paris SG
+Sat Aug 8 2009,Rennes,3-0,2-0,Boulogne
+Sat Aug 8 2009,St Etienne,0-2,0-1,Nice
+Sat Aug 8 2009,Valenciennes,1-3,1-1,Nancy
+Sun Aug 9 2009,Bordeaux,4-1,1-1,Lens
+Sun Aug 9 2009,Lille,1-2,0-1,Lorient
+Sat Aug 15 2009,Lens,2-0,1-0,Auxerre
+Sat Aug 15 2009,Lorient,2-2,0-0,Montpellier
+Sat Aug 15 2009,Lyon,1-0,1-0,Valenciennes
+Sat Aug 15 2009,Nancy,4-0,2-0,Monaco
+Sat Aug 15 2009,Paris SG,3-1,1-1,Le Mans
+Sat Aug 15 2009,Sochaux,2-3,0-2,Bordeaux
+Sat Aug 15 2009,Toulouse,3-1,1-1,St Etienne
+Sun Aug 16 2009,Boulogne,2-1,2-0,Grenoble
+Sun Aug 16 2009,Marseille,1-0,1-0,Lille
+Sun Aug 16 2009,Nice,1-1,1-1,Rennes
+Sat Aug 22 2009,Auxerre,0-3,0-2,Lyon
+Sat Aug 22 2009,Le Mans,2-1,1-0,Nancy
+Sat Aug 22 2009,Monaco,2-0,2-0,Lorient
+Sat Aug 22 2009,Montpellier,2-0,0-0,Sochaux
+Sat Aug 22 2009,Rennes,1-1,1-0,Marseille
+Sat Aug 22 2009,St Etienne,0-1,0-1,Boulogne
+Sat Aug 22 2009,Valenciennes,2-3,0-1,Paris SG
+Sun Aug 23 2009,Bordeaux,4-0,1-0,Nice
+Sun Aug 23 2009,Grenoble,1-2,1-1,Lens
+Sun Aug 23 2009,Lille,1-1,1-0,Toulouse
+Sat Aug 29 2009,Boulogne,0-0,0-0,Auxerre
+Sat Aug 29 2009,Lens,2-2,1-1,Rennes
+Sat Aug 29 2009,Lorient,1-0,0-0,Le Mans
+Sat Aug 29 2009,Lyon,3-1,1-0,Nancy
+Sat Aug 29 2009,Nice,0-3,0-1,Montpellier
+Sat Aug 29 2009,Sochaux,1-0,1-0,Monaco
+Sat Aug 29 2009,St Etienne,1-0,1-0,Grenoble
+Sun Aug 30 2009,Marseille,0-0,0-0,Bordeaux
+Sun Aug 30 2009,Paris SG,3-0,1-0,Lille
+Sun Aug 30 2009,Toulouse,0-1,0-0,Valenciennes
+Sat Sep 12 2009,Bordeaux,1-0,1-0,Grenoble
+Sat Sep 12 2009,Le Mans,1-2,0-1,Marseille
+Sat Sep 12 2009,Lille,1-0,0-0,Sochaux
+Sat Sep 12 2009,Lyon,1-0,0-0,Lorient
+Sat Sep 12 2009,Montpellier,1-0,1-0,Lens
+Sat Sep 12 2009,Nancy,0-0,0-0,Toulouse
+Sat Sep 12 2009,Valenciennes,1-1,0-0,Boulogne
+Sun Sep 13 2009,Auxerre,2-0,1-0,Nice
+Sun Sep 13 2009,Monaco,2-0,0-0,Paris SG
+Sun Sep 13 2009,Rennes,1-0,0-0,St Etienne
+Sat Sep 19 2009,Boulogne,0-2,0-1,Bordeaux
+Sat Sep 19 2009,Grenoble,0-4,0-3,Rennes
+Sat Sep 19 2009,Lorient,3-1,1-0,Nancy
+Sat Sep 19 2009,Marseille,4-2,3-0,Montpellier
+Sat Sep 19 2009,Nice,1-3,1-2,Monaco
+Sat Sep 19 2009,Sochaux,2-5,2-1,Valenciennes
+Sat Sep 19 2009,St Etienne,1-1,1-0,Auxerre
+Sun Sep 20 2009,Lens,1-1,0-0,Lille
+Sun Sep 20 2009,Paris SG,1-1,1-0,Lyon
+Sun Sep 20 2009,Toulouse,2-0,1-0,Le Mans
+Sat Sep 26 2009,Auxerre,2-0,0-0,Grenoble
+Sat Sep 26 2009,Lorient,1-1,1-1,Paris SG
+Sat Sep 26 2009,Lyon,2-1,0-1,Toulouse
+Sat Sep 26 2009,Monaco,1-2,0-1,St Etienne
+Sat Sep 26 2009,Montpellier,1-0,0-0,Boulogne
+Sat Sep 26 2009,Nancy,2-1,2-0,Sochaux
+Sat Sep 26 2009,Valenciennes,3-2,2-2,Marseille
+Sun Sep 27 2009,Bordeaux,1-0,1-0,Rennes
+Sun Sep 27 2009,Le Mans,3-0,2-0,Lens
+Sun Sep 27 2009,Lille,1-1,0-0,Nice
+Sat Oct 3 2009,Grenoble,2-3,0-2,Montpellier
+Sat Oct 3 2009,Lens,0-2,0-1,Lyon
+Sat Oct 3 2009,Nice,3-2,0-1,Valenciennes
+Sat Oct 3 2009,Paris SG,1-1,1-1,Nancy
+Sat Oct 3 2009,Rennes,0-1,0-1,Auxerre
+Sat Oct 3 2009,Sochaux,1-0,0-0,Le Mans
+Sat Oct 3 2009,St Etienne,3-1,2-0,Bordeaux
+Sun Oct 4 2009,Boulogne,2-3,2-1,Lille
+Sun Oct 4 2009,Marseille,1-2,0-2,Monaco
+Sun Oct 4 2009,Toulouse,0-1,0-0,Lorient
+Sat Oct 17 2009,Auxerre,1-0,0-0,Bordeaux
+Sat Oct 17 2009,Le Mans,1-1,0-0,Boulogne
+Sat Oct 17 2009,Lille,0-0,0-0,Rennes
+Sat Oct 17 2009,Lyon,0-2,0-1,Sochaux
+Sat Oct 17 2009,Montpellier,2-1,0-0,St Etienne
+Sat Oct 17 2009,Nancy,0-3,0-1,Marseille
+Sat Oct 17 2009,Valenciennes,2-0,2-0,Grenoble
+Sun Oct 18 2009,Lorient,4-1,1-0,Nice
+Sun Oct 18 2009,Monaco,2-0,1-0,Lens
+Sun Oct 18 2009,Toulouse,1-0,0-0,Paris SG
+Sat Oct 24 2009,Bordeaux,3-0,1-0,Le Mans
+Sat Oct 24 2009,Boulogne,1-3,0-1,Monaco
+Sat Oct 24 2009,Grenoble,1-2,0-0,Nancy
+Sat Oct 24 2009,Nice,4-1,2-0,Lyon
+Sat Oct 24 2009,Rennes,3-0,1-0,Montpellier
+Sat Oct 24 2009,Sochaux,1-0,1-0,Lorient
+Sat Oct 24 2009,St Etienne,0-2,0-1,Valenciennes
+Sun Oct 25 2009,Auxerre,3-2,1-2,Lille
+Sun Oct 25 2009,Lens,0-2,0-1,Toulouse
+Sat Oct 31 2009,Auxerre,2-1,2-0,Montpellier
+Sat Oct 31 2009,Bordeaux,1-0,0-0,Monaco
+Sat Oct 31 2009,Boulogne,1-2,1-1,Nancy
+Sat Oct 31 2009,Grenoble,0-2,0-1,Lille
+Sat Oct 31 2009,Lens,1-1,0-1,Lorient
+Sat Oct 31 2009,Marseille,1-1,0-1,Toulouse
+Sat Oct 31 2009,St Etienne,0-1,0-0,Lyon
+Sun Nov 1 2009,Nice,1-0,1-0,Le Mans
+Sun Nov 1 2009,Rennes,0-3,0-0,Valenciennes
+Sun Nov 1 2009,Sochaux,1-4,0-1,Paris SG
+Sat Nov 7 2009,Le Mans,0-1,0-0,Auxerre
+Sat Nov 7 2009,Lorient,5-0,2-0,Boulogne
+Sat Nov 7 2009,Monaco,0-0,0-0,Grenoble
+Sat Nov 7 2009,Nancy,0-1,0-0,St Etienne
+Sat Nov 7 2009,Paris SG,0-1,0-0,Nice
+Sat Nov 7 2009,Sochaux,1-2,0-1,Lens
+Sat Nov 7 2009,Valenciennes,1-1,0-1,Montpellier
+Sun Nov 8 2009,Lille,2-0,0-0,Bordeaux
+Sun Nov 8 2009,Lyon,5-5,2-2,Marseille
+Sun Nov 8 2009,Toulouse,3-2,1-1,Rennes
+Fri Nov 20 2009,Marseille,1-0,1-0,Paris SG
+Sat Nov 21 2009,Auxerre,2-0,1-0,Monaco
+Sat Nov 21 2009,Bordeaux,0-1,0-1,Valenciennes
+Sat Nov 21 2009,Grenoble,1-1,0-0,Lyon
+Sat Nov 21 2009,Lens,2-1,0-0,Nancy
+Sat Nov 21 2009,Rennes,2-1,1-0,Le Mans
+Sun Nov 22 2009,Montpellier,2-0,0-0,Lille
+Sun Nov 22 2009,Nice,1-0,0-0,Toulouse
+Sun Nov 22 2009,St Etienne,0-2,0-2,Lorient
+Sat Nov 28 2009,Lens,1-0,0-0,Marseille
+Sat Nov 28 2009,Lille,4-0,1-0,Valenciennes
+Sat Nov 28 2009,Lorient,2-2,1-0,Grenoble
+Sat Nov 28 2009,Paris SG,1-0,0-0,Auxerre
+Sat Nov 28 2009,Sochaux,1-0,1-0,Nice
+Sat Nov 28 2009,Toulouse,1-0,1-0,Boulogne
+Sun Nov 29 2009,Le Mans,1-1,0-1,St Etienne
+Sun Nov 29 2009,Lyon,1-1,1-1,Rennes
+Sun Nov 29 2009,Nancy,0-3,0-1,Bordeaux
+Wed Dec 2 2009,Boulogne,2-5,1-0,Paris SG
+Sat Dec 5 2009,Bordeaux,1-0,1-0,Paris SG
+Sat Dec 5 2009,Montpellier,2-1,1-0,Le Mans
+Sat Dec 5 2009,Nice,1-3,1-1,Marseille
+Sat Dec 5 2009,Rennes,1-0,1-0,Lorient
+Sat Dec 5 2009,St Etienne,0-0,0-0,Sochaux
+Sat Dec 5 2009,Valenciennes,3-1,1-0,Monaco
+Sun Dec 6 2009,Auxerre,1-3,1-1,Nancy
+Sun Dec 6 2009,Boulogne,2-1,2-1,Lens
+Sun Dec 6 2009,Grenoble,1-0,0-0,Toulouse
+Sun Dec 6 2009,Lille,4-3,1-3,Lyon
+Thu Dec 10 2009,Lille,4-0,1-0,St Etienne
+Thu Dec 10 2009,Toulouse,2-0,0-0,Sochaux
+Sat Dec 12 2009,Le Mans,2-1,1-1,Valenciennes
+Sat Dec 12 2009,Lens,2-0,2-0,Nice
+Sat Dec 12 2009,Lorient,0-0,0-0,Auxerre
+Sat Dec 12 2009,Marseille,2-0,0-0,Boulogne
+Sat Dec 12 2009,Nancy,1-2,1-0,Rennes
+Sun Dec 13 2009,Lyon,0-1,0-0,Bordeaux
+Sun Dec 13 2009,Monaco,0-4,0-1,Lille
+Sun Dec 13 2009,Paris SG,3-0,3-0,St Etienne
+Sun Dec 13 2009,Sochaux,1-0,1-0,Grenoble
+Sun Dec 13 2009,Toulouse,0-1,0-1,Montpellier
+Tue Dec 15 2009,Valenciennes,0-0,0-0,Auxerre
+Wed Dec 16 2009,Le Mans,1-0,1-0,Grenoble
+Wed Dec 16 2009,Lorient,1-2,0-0,Marseille
+Wed Dec 16 2009,Lyon,2-0,0-0,Boulogne
+Wed Dec 16 2009,Monaco,1-0,1-0,Rennes
+Wed Dec 16 2009,Montpellier,0-1,0-0,Bordeaux
+Wed Dec 16 2009,Nancy,2-0,0-0,Nice
+Wed Dec 16 2009,Paris SG,1-1,0-0,Lens
+Sat Dec 19 2009,Bordeaux,4-1,2-0,Lorient
+Sat Dec 19 2009,Grenoble,1-1,0-0,Nice
+Sat Dec 19 2009,Montpellier,0-2,0-2,Nancy
+Sat Dec 19 2009,Rennes,1-0,1-0,Paris SG
+Sat Dec 19 2009,St Etienne,0-0,0-0,Marseille
+Sat Dec 19 2009,Valenciennes,0-0,0-0,Lens
+Sun Dec 20 2009,Auxerre,1-1,0-1,Toulouse
+Sun Dec 20 2009,Lille,3-0,3-0,Le Mans
+Sun Dec 20 2009,Monaco,1-1,1-1,Lyon
+Tue Dec 22 2009,Lens,1-0,0-0,St Etienne
+Wed Dec 23 2009,Le Mans,1-1,1-0,Monaco
+Wed Dec 23 2009,Lorient,3-2,1-2,Valenciennes
+Wed Dec 23 2009,Lyon,1-2,0-0,Montpellier
+Wed Dec 23 2009,Marseille,0-2,0-1,Auxerre
+Wed Dec 23 2009,Nancy,0-4,0-1,Lille
+Wed Dec 23 2009,Nice,2-2,0-0,Boulogne
+Wed Dec 23 2009,Paris SG,4-0,2-0,Grenoble
+Wed Dec 23 2009,Sochaux,2-0,1-0,Rennes
+Wed Dec 23 2009,Toulouse,1-2,1-1,Bordeaux
+Wed Jan 13 2010,Boulogne,0-0,0-0,Sochaux
+Wed Jan 13 2010,Monaco,4-0,1-0,Montpellier
+Sat Jan 16 2010,Auxerre,0-0,0-0,Boulogne
+Sat Jan 16 2010,Grenoble,1-2,1-2,St Etienne
+Sat Jan 16 2010,Le Mans,0-3,0-2,Lorient
+Sat Jan 16 2010,Lille,3-1,1-0,Paris SG
+Sat Jan 16 2010,Monaco,2-0,0-0,Sochaux
+Sat Jan 16 2010,Montpellier,1-0,0-0,Nice
+Sat Jan 16 2010,Nancy,0-2,0-0,Lyon
+Sat Jan 16 2010,Rennes,1-1,0-0,Lens
+Sat Jan 16 2010,Valenciennes,1-3,1-1,Toulouse
+Sun Jan 17 2010,Bordeaux,1-1,1-0,Marseille
+Tue Jan 19 2010,St Etienne,0-0,0-0,Rennes
+Wed Jan 20 2010,Boulogne,0-2,0-0,Valenciennes
+Wed Jan 20 2010,Grenoble,1-3,1-0,Bordeaux
+Wed Jan 20 2010,Lens,0-1,0-0,Montpellier
+Wed Jan 20 2010,Lorient,1-3,1-0,Lyon
+Wed Jan 20 2010,Marseille,2-1,1-1,Le Mans
+Wed Jan 20 2010,Nice,0-1,0-0,Auxerre
+Wed Jan 20 2010,Paris SG,0-1,0-0,Monaco
+Wed Jan 20 2010,Sochaux,2-1,2-0,Lille
+Wed Jan 20 2010,Toulouse,0-0,0-0,Nancy
+Sat Jan 30 2010,Bordeaux,0-0,0-0,Boulogne
+Sat Jan 30 2010,Le Mans,1-3,0-0,Toulouse
+Sat Jan 30 2010,Lille,1-0,1-0,Lens
+Sat Jan 30 2010,Monaco,3-2,1-0,Nice
+Sat Jan 30 2010,Montpellier,2-0,0-0,Marseille
+Sat Jan 30 2010,Nancy,1-0,1-0,Lorient
+Sat Jan 30 2010,Rennes,4-0,2-0,Grenoble
+Sun Jan 31 2010,Auxerre,1-0,0-0,St Etienne
+Sun Jan 31 2010,Lyon,2-1,0-1,Paris SG
+Sun Jan 31 2010,Valenciennes,1-1,1-0,Sochaux
+Sat Feb 6 2010,Boulogne,0-2,0-1,Montpellier
+Sat Feb 6 2010,Grenoble,5-0,4-0,Auxerre
+Sat Feb 6 2010,Lens,2-1,1-0,Le Mans
+Sat Feb 6 2010,Nice,1-1,1-0,Lille
+Sat Feb 6 2010,Paris SG,0-3,0-3,Lorient
+Sat Feb 6 2010,Rennes,4-2,2-0,Bordeaux
+Sat Feb 6 2010,Sochaux,1-1,0-1,Nancy
+Sun Feb 7 2010,Marseille,5-1,2-0,Valenciennes
+Sun Feb 7 2010,St Etienne,3-0,1-0,Monaco
+Sun Feb 7 2010,Toulouse,0-0,0-0,Lyon
+Sat Feb 13 2010,Le Mans,0-0,0-0,Sochaux
+Sat Feb 13 2010,Lille,3-1,3-1,Boulogne
+Sat Feb 13 2010,Lyon,1-0,0-0,Lens
+Sat Feb 13 2010,Monaco,1-2,1-1,Marseille
+Sat Feb 13 2010,Montpellier,1-0,1-0,Grenoble
+Sat Feb 13 2010,Nancy,0-0,0-0,Paris SG
+Sat Feb 13 2010,Valenciennes,2-1,0-0,Nice
+Sun Feb 14 2010,Auxerre,1-0,1-0,Rennes
+Sun Feb 14 2010,Bordeaux,3-1,2-1,St Etienne
+Sun Feb 14 2010,Lorient,1-1,0-0,Toulouse
+Sat Feb 20 2010,Boulogne,1-3,0-2,Le Mans
+Sat Feb 20 2010,Grenoble,0-1,0-1,Valenciennes
+Sat Feb 20 2010,Lens,3-0,2-0,Monaco
+Sat Feb 20 2010,Nice,1-0,0-0,Lorient
+Sat Feb 20 2010,Paris SG,1-0,1-0,Toulouse
+Sat Feb 20 2010,St Etienne,1-0,0-0,Montpellier
+Sun Feb 21 2010,Marseille,3-1,2-1,Nancy
+Sun Feb 21 2010,Rennes,1-2,1-1,Lille
+Sun Feb 21 2010,Sochaux,0-4,0-3,Lyon
+Sat Feb 27 2010,Lorient,1-0,1-0,Sochaux
+Sat Feb 27 2010,Lyon,2-0,1-0,Nice
+Sat Feb 27 2010,Monaco,1-0,1-0,Boulogne
+Sat Feb 27 2010,Montpellier,3-1,2-0,Rennes
+Sat Feb 27 2010,Nancy,0-2,0-1,Grenoble
+Sat Feb 27 2010,Toulouse,1-0,0-0,Lens
+Sat Feb 27 2010,Valenciennes,1-0,0-0,St Etienne
+Sun Feb 28 2010,Lille,1-2,1-1,Auxerre
+Sun Feb 28 2010,Paris SG,0-3,0-1,Marseille
+Sat Mar 6 2010,Auxerre,1-0,1-0,Valenciennes
+Sat Mar 6 2010,Boulogne,0-0,0-0,Lyon
+Sat Mar 6 2010,Lens,1-1,0-0,Paris SG
+Sat Mar 6 2010,Nice,2-3,2-2,Nancy
+Sat Mar 6 2010,Rennes,1-0,1-0,Monaco
+Sat Mar 6 2010,Sochaux,1-0,0-0,Toulouse
+Sat Mar 6 2010,St Etienne,1-1,1-1,Lille
+Sun Mar 7 2010,Bordeaux,1-1,0-0,Montpellier
+Sun Mar 7 2010,Grenoble,1-1,1-0,Le Mans
+Sun Mar 7 2010,Marseille,1-1,1-0,Lorient
+Wed Mar 10 2010,Bordeaux,1-2,1-0,Auxerre
+Sat Mar 13 2010,Le Mans,0-1,0-0,Nice
+Sat Mar 13 2010,Lorient,1-0,0-0,Lens
+Sat Mar 13 2010,Lyon,1-1,0-1,St Etienne
+Sat Mar 13 2010,Monaco,0-0,0-0,Bordeaux
+Sat Mar 13 2010,Montpellier,1-1,0-1,Auxerre
+Sat Mar 13 2010,Nancy,1-3,1-1,Boulogne
+Sat Mar 13 2010,Paris SG,4-1,3-0,Sochaux
+Sun Mar 14 2010,Lille,1-0,0-0,Grenoble
+Sun Mar 14 2010,Toulouse,1-1,1-1,Marseille
+Sun Mar 14 2010,Valenciennes,0-2,0-2,Rennes
+Sat Mar 20 2010,Auxerre,2-1,1-0,Le Mans
+Sat Mar 20 2010,Boulogne,2-0,1-0,Lorient
+Sat Mar 20 2010,Grenoble,0-0,0-0,Monaco
+Sat Mar 20 2010,Lens,0-0,0-0,Sochaux
+Sat Mar 20 2010,Nice,1-0,0-0,Paris SG
+Sat Mar 20 2010,Rennes,4-1,2-0,Toulouse
+Sat Mar 20 2010,St Etienne,0-0,0-0,Nancy
+Sun Mar 21 2010,Bordeaux,3-1,1-1,Lille
+Sun Mar 21 2010,Marseille,2-1,0-0,Lyon
+Sun Mar 21 2010,Montpellier,2-1,1-0,Valenciennes
+Fri Mar 26 2010,Lyon,2-0,0-0,Grenoble
+Sun Mar 28 2010,Le Mans,1-3,0-0,Rennes
+Sun Mar 28 2010,Lille,4-1,1-0,Montpellier
+Sun Mar 28 2010,Lorient,4-0,2-0,St Etienne
+Sun Mar 28 2010,Nancy,5-1,2-0,Lens
+Sun Mar 28 2010,Paris SG,3-0,2-0,Boulogne
+Sun Mar 28 2010,Toulouse,0-2,0-1,Nice
+Mon Mar 29 2010,Monaco,0-0,0-0,Auxerre
+Sat Apr 3 2010,Bordeaux,1-2,1-1,Nancy
+Sat Apr 3 2010,Grenoble,1-2,1-1,Lorient
+Sat Apr 3 2010,Montpellier,0-0,0-0,Monaco
+Sat Apr 3 2010,Nice,0-0,0-0,Sochaux
+Sat Apr 3 2010,Rennes,1-2,1-0,Lyon
+Sat Apr 3 2010,St Etienne,2-0,0-0,Le Mans
+Sat Apr 3 2010,Valenciennes,1-0,0-0,Lille
+Sun Apr 4 2010,Auxerre,1-1,1-1,Paris SG
+Sun Apr 4 2010,Boulogne,1-1,1-0,Toulouse
+Sun Apr 4 2010,Marseille,1-0,1-0,Lens
+Wed Apr 7 2010,Marseille,3-0,2-0,Sochaux
+Sat Apr 10 2010,Le Mans,2-2,1-2,Montpellier
+Sat Apr 10 2010,Lens,3-0,1-0,Boulogne
+Sat Apr 10 2010,Lorient,1-1,1-1,Rennes
+Sat Apr 10 2010,Monaco,2-1,0-1,Valenciennes
+Sat Apr 10 2010,Paris SG,3-1,1-0,Bordeaux
+Sat Apr 10 2010,Sochaux,0-2,0-1,St Etienne
+Sat Apr 10 2010,Toulouse,4-0,1-0,Grenoble
+Sun Apr 11 2010,Lyon,1-1,0-0,Lille
+Sun Apr 11 2010,Marseille,4-1,1-0,Nice
+Sun Apr 11 2010,Nancy,0-1,0-0,Auxerre
+Wed Apr 14 2010,Le Mans,2-1,2-1,Bordeaux
+Wed Apr 14 2010,Sochaux,0-1,0-0,Marseille
+Sat Apr 17 2010,Auxerre,4-1,2-0,Lorient
+Sat Apr 17 2010,Bordeaux,2-2,1-0,Lyon
+Sat Apr 17 2010,Boulogne,1-2,0-1,Marseille
+Sat Apr 17 2010,Grenoble,2-2,0-1,Sochaux
+Sat Apr 17 2010,Nice,0-0,0-0,Lens
+Sat Apr 17 2010,Rennes,0-0,0-0,Nancy
+Sat Apr 17 2010,Valenciennes,0-1,0-0,Le Mans
+Sun Apr 18 2010,Lille,4-0,2-0,Monaco
+Sun Apr 18 2010,Montpellier,1-1,1-0,Toulouse
+Sun Apr 18 2010,St Etienne,0-0,0-0,Paris SG
+Sat Apr 24 2010,Le Mans,1-2,0-1,Lille
+Sat Apr 24 2010,Lorient,1-0,0-0,Bordeaux
+Sat Apr 24 2010,Nancy,0-0,0-0,Montpellier
+Sat Apr 24 2010,Nice,2-1,1-1,Grenoble
+Sat Apr 24 2010,Paris SG,1-1,0-1,Rennes
+Sat Apr 24 2010,Sochaux,0-3,0-1,Boulogne
+Sun Apr 25 2010,Lens,1-1,1-0,Valenciennes
+Sun Apr 25 2010,Marseille,1-0,1-0,St Etienne
+Sun Apr 25 2010,Toulouse,0-3,0-0,Auxerre
+Tue Apr 27 2010,Grenoble,4-0,2-0,Paris SG
+Tue Apr 27 2010,Monaco,1-1,0-1,Le Mans
+Wed Apr 28 2010,Valenciennes,2-0,1-0,Bordeaux
+Fri Apr 30 2010,Auxerre,0-0,0-0,Marseille
+Sun May 2 2010,Bordeaux,1-0,1-0,Toulouse
+Sun May 2 2010,Boulogne,3-3,0-1,Nice
+Sun May 2 2010,Lille,3-1,2-0,Nancy
+Sun May 2 2010,Montpellier,0-1,0-0,Lyon
+Sun May 2 2010,Rennes,1-2,0-1,Sochaux
+Sun May 2 2010,St Etienne,1-4,1-0,Lens
+Sun May 2 2010,Valenciennes,0-0,0-0,Lorient
+Wed May 5 2010,Boulogne,0-1,0-0,St Etienne
+Wed May 5 2010,Lens,1-1,0-1,Grenoble
+Wed May 5 2010,Lorient,2-2,1-1,Monaco
+Wed May 5 2010,Lyon,2-1,1-1,Auxerre
+Wed May 5 2010,Marseille,3-1,1-1,Rennes
+Wed May 5 2010,Nancy,3-2,2-2,Le Mans
+Wed May 5 2010,Nice,1-1,1-1,Bordeaux
+Wed May 5 2010,Paris SG,2-2,1-0,Valenciennes
+Wed May 5 2010,Sochaux,0-1,0-0,Montpellier
+Wed May 5 2010,Toulouse,0-2,0-1,Lille
+Sat May 8 2010,Auxerre,0-0,0-0,Lens
+Sat May 8 2010,Bordeaux,2-0,0-0,Sochaux
+Sat May 8 2010,Grenoble,2-0,1-0,Boulogne
+Sat May 8 2010,Le Mans,1-0,1-0,Paris SG
+Sat May 8 2010,Lille,3-2,1-2,Marseille
+Sat May 8 2010,Monaco,2-1,1-0,Nancy
+Sat May 8 2010,Montpellier,2-1,2-0,Lorient
+Sat May 8 2010,Rennes,2-2,0-1,Nice
+Sat May 8 2010,St Etienne,0-1,0-0,Toulouse
+Sat May 8 2010,Valenciennes,2-2,0-1,Lyon
+Wed May 12 2010,Lyon,3-0,1-0,Monaco
+Sat May 15 2010,Boulogne,1-0,1-0,Rennes
+Sat May 15 2010,Lens,4-3,2-1,Bordeaux
+Sat May 15 2010,Lorient,2-1,1-1,Lille
+Sat May 15 2010,Lyon,2-0,1-0,Le Mans
+Sat May 15 2010,Marseille,2-0,1-0,Grenoble
+Sat May 15 2010,Nancy,1-1,1-0,Valenciennes
+Sat May 15 2010,Nice,1-1,1-0,St Etienne
+Sat May 15 2010,Paris SG,1-3,0-1,Montpellier
+Sat May 15 2010,Sochaux,1-2,0-1,Auxerre
+Sat May 15 2010,Toulouse,0-0,0-0,Monaco

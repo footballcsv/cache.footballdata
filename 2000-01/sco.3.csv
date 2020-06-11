@@ -1,0 +1,181 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 5 2000,Arbroath,1-1,1-1,Partick
+Sat Aug 5 2000,Queens Park,1-0,0-0,Berwick
+Sat Aug 5 2000,Stenhousemuir,4-3,3-0,Queen of Sth
+Sat Aug 5 2000,Stirling,2-2,1-2,Clydebank
+Sat Aug 5 2000,Stranraer,2-0,0-0,Forfar
+Sat Aug 12 2000,Berwick,2-1,2-1,Arbroath
+Sat Aug 12 2000,Clydebank,1-0,0-0,Stenhousemuir
+Sat Aug 12 2000,Forfar,0-1,0-0,Queens Park
+Sat Aug 12 2000,Partick,2-1,1-0,Stranraer
+Sat Aug 12 2000,Queen of Sth,0-0,0-0,Stirling
+Sat Aug 19 2000,Arbroath,1-0,1-0,Clydebank
+Sat Aug 19 2000,Queens Park,1-0,1-0,Queen of Sth
+Sat Aug 19 2000,Stenhousemuir,4-0,3-0,Partick
+Sat Aug 19 2000,Stirling,3-3,2-2,Forfar
+Sat Aug 19 2000,Stranraer,2-2,0-0,Berwick
+Sat Aug 26 2000,Clydebank,1-2,1-1,Queen of Sth
+Sat Aug 26 2000,Forfar,2-2,1-2,Stenhousemuir
+Sat Aug 26 2000,Partick,1-1,0-1,Berwick
+Sat Aug 26 2000,Stirling,0-1,0-1,Queens Park
+Sat Aug 26 2000,Stranraer,2-1,1-0,Arbroath
+Sat Sep 9 2000,Arbroath,3-4,0-3,Forfar
+Sat Sep 9 2000,Berwick,3-1,0-0,Clydebank
+Sat Sep 9 2000,Queen of Sth,1-4,0-1,Stranraer
+Sat Sep 9 2000,Queens Park,0-1,0-0,Partick
+Sat Sep 9 2000,Stenhousemuir,0-2,0-0,Stirling
+Sat Sep 16 2000,Arbroath,3-0,1-0,Stenhousemuir
+Sat Sep 16 2000,Berwick,0-4,0-2,Queen of Sth
+Sat Sep 16 2000,Forfar,0-2,0-2,Clydebank
+Sat Sep 16 2000,Partick,3-1,1-0,Stirling
+Sat Sep 16 2000,Stranraer,3-0,0-0,Queens Park
+Sat Sep 23 2000,Clydebank,2-1,0-0,Partick
+Sat Sep 23 2000,Queen of Sth,0-1,0-1,Forfar
+Sat Sep 23 2000,Queens Park,0-0,0-0,Arbroath
+Sat Sep 23 2000,Stenhousemuir,2-0,2-0,Berwick
+Sat Sep 23 2000,Stirling,2-0,2-0,Stranraer
+Sat Sep 30 2000,Arbroath,2-0,1-0,Queen of Sth
+Sat Sep 30 2000,Berwick,2-2,2-0,Stirling
+Sat Sep 30 2000,Partick,1-1,0-0,Forfar
+Sat Sep 30 2000,Queens Park,2-0,0-0,Stenhousemuir
+Sat Sep 30 2000,Stranraer,0-2,0-1,Clydebank
+Sat Oct 7 2000,Clydebank,2-0,1-0,Queens Park
+Sat Oct 7 2000,Forfar,3-5,1-3,Berwick
+Sat Oct 7 2000,Queen of Sth,1-2,0-1,Partick
+Sat Oct 7 2000,Stenhousemuir,1-2,0-0,Stranraer
+Sat Oct 7 2000,Stirling,0-0,0-0,Arbroath
+Sat Oct 14 2000,Berwick,1-1,0-1,Queens Park
+Sat Oct 14 2000,Clydebank,3-0,2-0,Stirling
+Sat Oct 14 2000,Forfar,0-0,0-0,Stranraer
+Sat Oct 14 2000,Partick,1-1,0-0,Arbroath
+Sat Oct 14 2000,Queen of Sth,4-2,2-0,Stenhousemuir
+Sat Oct 21 2000,Arbroath,0-2,0-1,Berwick
+Sat Oct 21 2000,Queens Park,0-0,0-0,Forfar
+Sat Oct 21 2000,Stenhousemuir,2-1,0-1,Clydebank
+Sat Oct 21 2000,Stirling,0-1,0-0,Queen of Sth
+Sat Oct 21 2000,Stranraer,0-3,0-1,Partick
+Sat Oct 28 2000,Arbroath,1-1,1-0,Stranraer
+Sat Oct 28 2000,Berwick,1-2,1-1,Partick
+Sat Oct 28 2000,Queen of Sth,1-1,1-0,Clydebank
+Sat Oct 28 2000,Queens Park,3-0,0-0,Stirling
+Sat Oct 28 2000,Stenhousemuir,2-0,1-0,Forfar
+Sat Nov 4 2000,Clydebank,0-1,0-0,Berwick
+Sat Nov 4 2000,Forfar,0-1,0-0,Arbroath
+Sat Nov 4 2000,Partick,2-1,2-1,Queens Park
+Sat Nov 4 2000,Stirling,2-3,1-0,Stenhousemuir
+Sat Nov 4 2000,Stranraer,3-2,2-2,Queen of Sth
+Sat Nov 11 2000,Arbroath,2-2,1-1,Queens Park
+Sat Nov 11 2000,Berwick,4-1,2-0,Stenhousemuir
+Sat Nov 11 2000,Forfar,0-1,0-0,Queen of Sth
+Sat Nov 11 2000,Partick,2-0,1-0,Clydebank
+Sat Nov 11 2000,Stranraer,1-1,0-1,Stirling
+Sat Nov 18 2000,Clydebank,1-1,1-1,Forfar
+Sat Nov 18 2000,Queen of Sth,2-1,2-0,Berwick
+Sat Nov 18 2000,Queens Park,1-2,1-0,Stranraer
+Sat Nov 18 2000,Stenhousemuir,3-1,0-1,Arbroath
+Sat Nov 18 2000,Stirling,1-1,0-1,Partick
+Sat Nov 25 2000,Arbroath,3-2,1-2,Stirling
+Sat Nov 25 2000,Berwick,1-1,1-1,Forfar
+Sat Nov 25 2000,Partick,2-1,2-1,Queen of Sth
+Sat Nov 25 2000,Queens Park,1-1,1-1,Clydebank
+Sat Nov 25 2000,Stranraer,1-4,0-1,Stenhousemuir
+Sat Dec 2 2000,Forfar,0-1,0-0,Partick
+Sat Dec 2 2000,Queen of Sth,1-1,0-0,Arbroath
+Sat Dec 2 2000,Stenhousemuir,1-1,1-0,Queens Park
+Sat Dec 2 2000,Stirling,1-1,0-0,Berwick
+Tue Dec 5 2000,Clydebank,2-3,2-2,Stranraer
+Sat Dec 16 2000,Arbroath,1-1,1-0,Partick
+Sat Dec 16 2000,Queens Park,0-2,0-0,Berwick
+Sat Dec 16 2000,Stirling,0-0,0-0,Clydebank
+Sat Dec 16 2000,Stranraer,3-1,1-1,Forfar
+Sat Dec 23 2000,Clydebank,1-2,0-1,Arbroath
+Sat Dec 23 2000,Queen of Sth,1-1,1-1,Queens Park
+Tue Dec 26 2000,Partick,3-0,0-0,Stenhousemuir
+Sat Dec 30 2000,Partick,1-1,1-0,Berwick
+Tue Jan 2 2001,Arbroath,1-1,0-0,Forfar
+Tue Jan 2 2001,Berwick,1-2,1-1,Clydebank
+Tue Jan 2 2001,Queen of Sth,2-3,1-2,Stranraer
+Tue Jan 2 2001,Queens Park,0-2,0-2,Partick
+Tue Jan 2 2001,Stenhousemuir,1-1,0-1,Stirling
+Sat Jan 6 2001,Forfar,7-0,4-0,Stenhousemuir
+Sat Jan 13 2001,Arbroath,5-0,2-0,Stenhousemuir
+Sat Jan 13 2001,Partick,1-1,0-1,Stirling
+Sat Jan 13 2001,Stranraer,0-1,0-0,Queens Park
+Sat Jan 20 2001,Queens Park,1-1,1-1,Arbroath
+Sat Jan 27 2001,Forfar,1-3,0-2,Clydebank
+Sat Feb 3 2001,Queen of Sth,1-3,1-1,Partick
+Sat Feb 3 2001,Stenhousemuir,2-2,0-1,Stranraer
+Sat Feb 3 2001,Stirling,1-1,0-0,Arbroath
+Sat Feb 10 2001,Partick,4-0,0-0,Forfar
+Sat Feb 10 2001,Queens Park,1-2,0-0,Stenhousemuir
+Tue Feb 13 2001,Clydebank,0-4,0-0,Partick
+Sat Feb 17 2001,Arbroath,4-2,2-2,Clydebank
+Sat Feb 17 2001,Queens Park,1-2,1-0,Queen of Sth
+Sat Feb 17 2001,Stenhousemuir,2-0,1-0,Partick
+Sat Feb 17 2001,Stranraer,1-1,0-1,Berwick
+Sat Feb 24 2001,Partick,3-0,2-0,Stranraer
+Sat Feb 24 2001,Queen of Sth,2-1,2-0,Stirling
+Sat Mar 3 2001,Partick,2-1,1-1,Queens Park
+Tue Mar 6 2001,Stenhousemuir,1-2,0-0,Queen of Sth
+Tue Mar 6 2001,Stranraer,0-0,0-0,Clydebank
+Sat Mar 10 2001,Arbroath,2-1,2-0,Stranraer
+Sat Mar 10 2001,Berwick,0-1,0-0,Partick
+Sat Mar 10 2001,Queen of Sth,1-0,1-0,Clydebank
+Sat Mar 10 2001,Queens Park,1-1,0-0,Stirling
+Sat Mar 10 2001,Stenhousemuir,0-1,0-0,Forfar
+Tue Mar 13 2001,Clydebank,1-2,1-0,Queen of Sth
+Tue Mar 13 2001,Forfar,3-0,0-0,Queens Park
+Tue Mar 13 2001,Stenhousemuir,0-2,0-2,Berwick
+Tue Mar 13 2001,Stirling,0-1,0-0,Stranraer
+Sat Mar 17 2001,Arbroath,2-0,1-0,Queens Park
+Sat Mar 17 2001,Berwick,1-0,1-0,Stenhousemuir
+Sat Mar 17 2001,Partick,2-0,0-0,Clydebank
+Sat Mar 17 2001,Queen of Sth,2-3,1-1,Forfar
+Sat Mar 17 2001,Stranraer,0-3,0-1,Stirling
+Tue Mar 20 2001,Arbroath,5-2,1-1,Queen of Sth
+Tue Mar 20 2001,Berwick,1-1,1-1,Stranraer
+Tue Mar 20 2001,Clydebank,2-1,1-0,Queens Park
+Tue Mar 20 2001,Stirling,1-0,0-0,Forfar
+Sat Mar 24 2001,Stirling,0-2,0-1,Queens Park
+Sun Mar 25 2001,Berwick,2-2,1-0,Queen of Sth
+Sun Mar 25 2001,Stranraer,0-1,0-0,Arbroath
+Tue Mar 27 2001,Clydebank,1-0,1-0,Stenhousemuir
+Wed Mar 28 2001,Berwick,4-1,3-1,Stirling
+Sat Mar 31 2001,Clydebank,2-1,1-0,Forfar
+Sat Mar 31 2001,Queen of Sth,3-3,1-1,Berwick
+Sat Mar 31 2001,Queens Park,1-0,0-0,Stranraer
+Sat Mar 31 2001,Stenhousemuir,0-1,0-0,Arbroath
+Sat Mar 31 2001,Stirling,0-3,0-1,Partick
+Tue Apr 3 2001,Forfar,0-1,0-0,Berwick
+Tue Apr 3 2001,Stirling,0-0,0-0,Stenhousemuir
+Tue Apr 3 2001,Stranraer,2-0,1-0,Queen of Sth
+Sat Apr 7 2001,Arbroath,1-1,1-0,Stirling
+Sat Apr 7 2001,Berwick,1-0,0-0,Forfar
+Sat Apr 7 2001,Partick,0-2,0-1,Queen of Sth
+Sat Apr 7 2001,Queens Park,0-0,0-0,Clydebank
+Sat Apr 7 2001,Stranraer,2-1,0-0,Stenhousemuir
+Tue Apr 10 2001,Clydebank,2-2,1-0,Berwick
+Tue Apr 10 2001,Forfar,1-0,0-0,Stirling
+Sat Apr 14 2001,Clydebank,0-0,0-0,Stranraer
+Sat Apr 14 2001,Forfar,2-2,2-1,Partick
+Sat Apr 14 2001,Queen of Sth,1-0,0-0,Arbroath
+Sat Apr 14 2001,Stenhousemuir,2-0,1-0,Queens Park
+Sat Apr 14 2001,Stirling,1-0,0-0,Berwick
+Tue Apr 17 2001,Berwick,1-0,0-0,Arbroath
+Sat Apr 21 2001,Berwick,1-0,1-0,Queens Park
+Sat Apr 21 2001,Clydebank,1-1,0-0,Stirling
+Sat Apr 21 2001,Forfar,2-3,2-0,Stranraer
+Sat Apr 21 2001,Partick,0-1,0-0,Arbroath
+Sat Apr 21 2001,Queen of Sth,1-3,1-1,Stenhousemuir
+Tue Apr 24 2001,Forfar,1-1,1-1,Arbroath
+Sat Apr 28 2001,Arbroath,2-0,0-0,Berwick
+Sat Apr 28 2001,Queens Park,0-2,0-0,Forfar
+Sat Apr 28 2001,Stenhousemuir,0-0,0-0,Clydebank
+Sat Apr 28 2001,Stirling,1-1,0-1,Queen of Sth
+Sat Apr 28 2001,Stranraer,3-4,3-1,Partick
+Tue May 1 2001,Forfar,3-1,0-1,Queen of Sth
+Sat May 5 2001,Berwick,0-2,0-2,Stranraer
+Sat May 5 2001,Clydebank,3-1,1-0,Arbroath
+Sat May 5 2001,Forfar,3-1,2-0,Stirling
+Sat May 5 2001,Partick,4-0,0-0,Stenhousemuir
+Sat May 5 2001,Queen of Sth,0-1,0-1,Queens Park

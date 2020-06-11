@@ -1,0 +1,392 @@
+Date,Team 1,FT,HT,Team 2
+Fri Mar 3 2017,Portland Timbers,5-1,?,Minnesota United
+Sat Mar 4 2017,Columbus Crew,1-1,?,Chicago Fire
+Sat Mar 4 2017,Los Angeles Galaxy,1-2,?,FC Dallas
+Sat Mar 4 2017,Real Salt Lake,0-0,?,Toronto FC
+Sat Mar 4 2017,Colorado Rapids,1-0,?,New England Revolution
+Sat Mar 4 2017,DC United,0-0,?,Sporting Kansas City
+Sat Mar 4 2017,Houston Dynamo,2-1,?,Seattle Sounders
+Sat Mar 4 2017,San Jose Earthquakes,1-0,?,Montreal Impact
+Sun Mar 5 2017,Orlando City,1-0,?,New York City
+Sun Mar 5 2017,Atlanta United,1-2,?,New York Red Bulls
+Sun Mar 5 2017,Vancouver Whitecaps,0-0,?,Philadelphia Union
+Sat Mar 11 2017,Chicago Fire,2-0,?,Real Salt Lake
+Sat Mar 11 2017,New York Red Bulls,1-0,?,Colorado Rapids
+Sat Mar 11 2017,Philadelphia Union,2-2,?,Toronto FC
+Sat Mar 11 2017,Montreal Impact,2-2,?,Seattle Sounders
+Sat Mar 11 2017,Houston Dynamo,3-1,?,Columbus Crew
+Sat Mar 11 2017,Sporting Kansas City,0-0,?,FC Dallas
+Sat Mar 11 2017,San Jose Earthquakes,3-2,?,Vancouver Whitecaps
+Sun Mar 12 2017,New York City,4-0,?,DC United
+Sun Mar 12 2017,Minnesota United,1-6,?,Atlanta United
+Sun Mar 12 2017,Los Angeles Galaxy,0-1,?,Portland Timbers
+Sat Mar 18 2017,New York City,1-1,?,Montreal Impact
+Sat Mar 18 2017,Atlanta United,4-0,?,Chicago Fire
+Sat Mar 18 2017,Vancouver Whitecaps,0-2,?,Toronto FC
+Sat Mar 18 2017,DC United,0-2,?,Columbus Crew
+Sat Mar 18 2017,Orlando City,2-1,?,Philadelphia Union
+Sat Mar 18 2017,FC Dallas,2-1,?,New England Revolution
+Sat Mar 18 2017,Sporting Kansas City,2-1,?,San Jose Earthquakes
+Sat Mar 18 2017,Colorado Rapids,2-2,?,Minnesota United
+Sat Mar 18 2017,Real Salt Lake,1-2,?,Los Angeles Galaxy
+Sat Mar 18 2017,Portland Timbers,4-2,?,Houston Dynamo
+Sun Mar 19 2017,Seattle Sounders,3-1,?,New York Red Bulls
+Sat Mar 25 2017,New England Revolution,5-2,?,Minnesota United
+Sat Mar 25 2017,New York Red Bulls,0-0,?,Real Salt Lake
+Sat Mar 25 2017,Columbus Crew,3-2,?,Portland Timbers
+Fri Mar 31 2017,Toronto FC,0-0,?,Sporting Kansas City
+Fri Mar 31 2017,Seattle Sounders,0-0,?,Atlanta United
+Sat Apr 1 2017,New York City,2-1,?,San Jose Earthquakes
+Sat Apr 1 2017,Chicago Fire,2-2,?,Montreal Impact
+Sat Apr 1 2017,Columbus Crew,2-0,?,Orlando City
+Sat Apr 1 2017,DC United,2-1,?,Philadelphia Union
+Sat Apr 1 2017,Minnesota United,4-2,?,Real Salt Lake
+Sat Apr 1 2017,Houston Dynamo,4-1,?,New York Red Bulls
+Sat Apr 1 2017,Vancouver Whitecaps,4-2,?,Los Angeles Galaxy
+Sun Apr 2 2017,Portland Timbers,1-1,?,New England Revolution
+Fri Apr 7 2017,Los Angeles Galaxy,2-0,?,Montreal Impact
+Sat Apr 8 2017,Chicago Fire,1-0,?,Columbus Crew
+Sat Apr 8 2017,New England Revolution,2-0,?,Houston Dynamo
+Sat Apr 8 2017,DC United,2-1,?,New York City
+Sat Apr 8 2017,Philadelphia Union,1-3,?,Portland Timbers
+Sat Apr 8 2017,Toronto FC,2-2,?,Atlanta United
+Sat Apr 8 2017,FC Dallas,2-0,?,Minnesota United
+Sat Apr 8 2017,Real Salt Lake,3-0,?,Vancouver Whitecaps
+Sat Apr 8 2017,San Jose Earthquakes,1-1,?,Seattle Sounders
+Sun Apr 9 2017,Orlando City,1-0,?,New York Red Bulls
+Sun Apr 9 2017,Sporting Kansas City,3-1,?,Colorado Rapids
+Fri Apr 14 2017,Philadelphia Union,0-2,?,New York City
+Fri Apr 14 2017,Vancouver Whitecaps,2-1,?,Seattle Sounders
+Fri Apr 14 2017,San Jose Earthquakes,1-1,?,FC Dallas
+Sat Apr 15 2017,Montreal Impact,2-1,?,Atlanta United
+Sat Apr 15 2017,Orlando City,2-1,?,Los Angeles Galaxy
+Sat Apr 15 2017,Chicago Fire,3-0,?,New England Revolution
+Sat Apr 15 2017,New York Red Bulls,2-0,?,DC United
+Sat Apr 15 2017,Columbus Crew,2-1,?,Toronto FC
+Sat Apr 15 2017,Houston Dynamo,2-2,?,Minnesota United
+Sat Apr 15 2017,Colorado Rapids,1-2,?,Real Salt Lake
+Sat Apr 15 2017,Portland Timbers,0-1,?,Sporting Kansas City
+Wed Apr 19 2017,New England Revolution,0-0,?,San Jose Earthquakes
+Fri Apr 21 2017,Toronto FC,3-1,?,Chicago Fire
+Sat Apr 22 2017,Philadelphia Union,3-3,?,Montreal Impact
+Sat Apr 22 2017,Houston Dynamo,2-0,?,San Jose Earthquakes
+Sat Apr 22 2017,Portland Timbers,2-1,?,Vancouver Whitecaps
+Sat Apr 22 2017,New England Revolution,2-2,?,DC United
+Sat Apr 22 2017,New York Red Bulls,2-0,?,Columbus Crew
+Sat Apr 22 2017,FC Dallas,1-0,?,Sporting Kansas City
+Sat Apr 22 2017,Real Salt Lake,1-3,?,Atlanta United
+Sun Apr 23 2017,New York City,1-2,?,Orlando City
+Sun Apr 23 2017,Los Angeles Galaxy,0-3,?,Seattle Sounders
+Sun Apr 23 2017,Minnesota United,1-0,?,Colorado Rapids
+Fri Apr 28 2017,Toronto FC,2-0,?,Houston Dynamo
+Sat Apr 29 2017,Montreal Impact,1-2,?,Vancouver Whitecaps
+Sat Apr 29 2017,Orlando City,2-0,?,Colorado Rapids
+Sat Apr 29 2017,Columbus Crew,2-3,?,New York City
+Sat Apr 29 2017,New York Red Bulls,2-1,?,Chicago Fire
+Sat Apr 29 2017,FC Dallas,2-2,?,Portland Timbers
+Sat Apr 29 2017,Minnesota United,0-1,?,San Jose Earthquakes
+Sat Apr 29 2017,Sporting Kansas City,3-0,?,Real Salt Lake
+Sat Apr 29 2017,Seattle Sounders,3-3,?,New England Revolution
+Sat Apr 29 2017,Los Angeles Galaxy,0-0,?,Philadelphia Union
+Sun Apr 30 2017,Atlanta United,1-3,?,DC United
+Wed May 3 2017,Toronto FC,2-1,?,Orlando City
+Wed May 3 2017,Sporting Kansas City,2-0,?,New York Red Bulls
+Fri May 5 2017,Colorado Rapids,0-1,?,Vancouver Whitecaps
+Sat May 6 2017,Seattle Sounders,0-1,?,Toronto FC
+Sat May 6 2017,DC United,0-1,?,Montreal Impact
+Sat May 6 2017,Philadelphia Union,3-0,?,New York Red Bulls
+Sat May 6 2017,Columbus Crew,2-0,?,New England Revolution
+Sat May 6 2017,Houston Dynamo,4-0,?,Orlando City
+Sat May 6 2017,Real Salt Lake,0-3,?,FC Dallas
+Sat May 6 2017,Los Angeles Galaxy,2-2,?,Chicago Fire
+Sat May 6 2017,San Jose Earthquakes,3-0,?,Portland Timbers
+Sun May 7 2017,Minnesota United,2-0,?,Sporting Kansas City
+Sun May 7 2017,New York City,3-1,?,Atlanta United
+Wed May 10 2017,Columbus Crew,1-2,?,Toronto FC
+Fri May 12 2017,Houston Dynamo,2-1,?,Vancouver Whitecaps
+Sat May 13 2017,Toronto FC,3-2,?,Minnesota United
+Sat May 13 2017,Colorado Rapids,3-0,?,San Jose Earthquakes
+Sat May 13 2017,Montreal Impact,2-3,?,Columbus Crew
+Sat May 13 2017,DC United,0-4,?,Philadelphia Union
+Sat May 13 2017,Orlando City,2-2,?,Sporting Kansas City
+Sat May 13 2017,New England Revolution,4-0,?,Real Salt Lake
+Sat May 13 2017,Chicago Fire,4-1,?,Seattle Sounders
+Sun May 14 2017,Portland Timbers,1-1,?,Atlanta United
+Sun May 14 2017,New York Red Bulls,1-3,?,Los Angeles Galaxy
+Sun May 14 2017,FC Dallas,1-1,?,New York City
+Wed May 17 2017,Philadelphia Union,2-0,?,Houston Dynamo
+Wed May 17 2017,Chicago Fire,3-0,?,Colorado Rapids
+Wed May 17 2017,Sporting Kansas City,3-0,?,Seattle Sounders
+Wed May 17 2017,Real Salt Lake,2-1,?,New York City
+Wed May 17 2017,San Jose Earthquakes,1-1,?,Orlando City
+Fri May 19 2017,New York Red Bulls,1-1,?,Toronto FC
+Sat May 20 2017,Montreal Impact,4-1,?,Portland Timbers
+Sat May 20 2017,DC United,0-1,?,Chicago Fire
+Sat May 20 2017,Seattle Sounders,1-0,?,Real Salt Lake
+Sat May 20 2017,Atlanta United,4-1,?,Houston Dynamo
+Sat May 20 2017,Philadelphia Union,2-1,?,Colorado Rapids
+Sat May 20 2017,Vancouver Whitecaps,2-0,?,Sporting Kansas City
+Sat May 20 2017,FC Dallas,0-1,?,San Jose Earthquakes
+Sun May 21 2017,New England Revolution,2-1,?,Columbus Crew
+Sun May 21 2017,Minnesota United,1-2,?,Los Angeles Galaxy
+Sun May 21 2017,Orlando City,0-3,?,New York City
+Thu May 25 2017,Chicago Fire,2-1,?,FC Dallas
+Fri May 26 2017,Toronto FC,5-0,?,Columbus Crew
+Sat May 27 2017,Seattle Sounders,1-0,?,Portland Timbers
+Sat May 27 2017,Vancouver Whitecaps,0-1,?,DC United
+Sat May 27 2017,New York Red Bulls,2-1,?,New England Revolution
+Sat May 27 2017,Colorado Rapids,1-0,?,Sporting Kansas City
+Sat May 27 2017,Minnesota United,1-0,?,Orlando City
+Sat May 27 2017,Real Salt Lake,1-0,?,Philadelphia Union
+Sat May 27 2017,San Jose Earthquakes,2-4,?,Los Angeles Galaxy
+Sun May 28 2017,Atlanta United,3-1,?,New York City
+Sun May 28 2017,FC Dallas,0-0,?,Houston Dynamo
+Wed May 31 2017,Columbus Crew,3-0,?,Seattle Sounders
+Wed May 31 2017,New York City,2-2,?,New England Revolution
+Wed May 31 2017,Orlando City,2-0,?,DC United
+Wed May 31 2017,Houston Dynamo,5-1,?,Real Salt Lake
+Fri Jun 2 2017,Portland Timbers,2-0,?,San Jose Earthquakes
+Sat Jun 3 2017,New York City,2-1,?,Philadelphia Union
+Sat Jun 3 2017,Sporting Kansas City,3-0,?,Minnesota United
+Sat Jun 3 2017,Vancouver Whitecaps,3-1,?,Atlanta United
+Sat Jun 3 2017,DC United,0-0,?,Los Angeles Galaxy
+Sat Jun 3 2017,Montreal Impact,1-0,?,New York Red Bulls
+Sat Jun 3 2017,New England Revolution,3-0,?,Toronto FC
+Sat Jun 3 2017,FC Dallas,6-2,?,Real Salt Lake
+Sat Jun 3 2017,Colorado Rapids,2-1,?,Columbus Crew
+Sun Jun 4 2017,Orlando City,0-0,?,Chicago Fire
+Sun Jun 4 2017,Seattle Sounders,1-0,?,Houston Dynamo
+Sat Jun 10 2017,Chicago Fire,2-0,?,Atlanta United
+Sat Jun 10 2017,Sporting Kansas City,1-1,?,Montreal Impact
+Sat Jun 10 2017,Portland Timbers,2-0,?,FC Dallas
+Sat Jun 17 2017,New York City,2-1,?,Seattle Sounders
+Sat Jun 17 2017,Atlanta United,3-1,?,Columbus Crew
+Sat Jun 17 2017,New England Revolution,1-2,?,Chicago Fire
+Sat Jun 17 2017,Orlando City,3-3,?,Montreal Impact
+Sat Jun 17 2017,Toronto FC,2-0,?,DC United
+Sat Jun 17 2017,San Jose Earthquakes,0-0,?,Sporting Kansas City
+Sat Jun 17 2017,Colorado Rapids,2-1,?,Portland Timbers
+Sat Jun 17 2017,Real Salt Lake,1-0,?,Minnesota United
+Sat Jun 17 2017,Vancouver Whitecaps,1-1,?,FC Dallas
+Sat Jun 17 2017,Los Angeles Galaxy,2-2,?,Houston Dynamo
+Sun Jun 18 2017,Philadelphia Union,0-2,?,New York Red Bulls
+Wed Jun 21 2017,DC United,2-1,?,Atlanta United
+Wed Jun 21 2017,Minnesota United,3-2,?,Portland Timbers
+Wed Jun 21 2017,Colorado Rapids,1-3,?,Los Angeles Galaxy
+Wed Jun 21 2017,Seattle Sounders,1-1,?,Orlando City
+Fri Jun 23 2017,Toronto FC,2-0,?,New England Revolution
+Fri Jun 23 2017,Houston Dynamo,1-1,?,FC Dallas
+Sat Jun 24 2017,New York Red Bulls,0-2,?,New York City
+Sat Jun 24 2017,Atlanta United,1-0,?,Colorado Rapids
+Sat Jun 24 2017,Philadelphia Union,1-0,?,DC United
+Sat Jun 24 2017,Columbus Crew,4-1,?,Montreal Impact
+Sat Jun 24 2017,Minnesota United,2-2,?,Vancouver Whitecaps
+Sat Jun 24 2017,Chicago Fire,4-0,?,Orlando City
+Sat Jun 24 2017,Los Angeles Galaxy,1-2,?,Sporting Kansas City
+Sat Jun 24 2017,San Jose Earthquakes,2-1,?,Real Salt Lake
+Sun Jun 25 2017,Portland Timbers,2-2,?,Seattle Sounders
+Thu Jun 29 2017,New York City,3-1,?,Minnesota United
+Fri Jun 30 2017,Real Salt Lake,0-1,?,Orlando City
+Sat Jul 1 2017,Chicago Fire,4-0,?,Vancouver Whitecaps
+Sat Jul 1 2017,FC Dallas,3-1,?,Toronto FC
+Sat Jul 1 2017,Montreal Impact,2-0,?,DC United
+Sat Jul 1 2017,Sporting Kansas City,1-1,?,Portland Timbers
+Sat Jul 1 2017,Columbus Crew,0-2,?,Atlanta United
+Sat Jul 1 2017,Colorado Rapids,3-1,?,Houston Dynamo
+Sat Jul 1 2017,San Jose Earthquakes,2-1,?,Los Angeles Galaxy
+Sun Jul 2 2017,Philadelphia Union,3-0,?,New England Revolution
+Tue Jul 4 2017,Atlanta United,4-2,?,San Jose Earthquakes
+Tue Jul 4 2017,Minnesota United,0-1,?,Columbus Crew
+Tue Jul 4 2017,FC Dallas,4-2,?,DC United
+Tue Jul 4 2017,Colorado Rapids,1-3,?,Seattle Sounders
+Tue Jul 4 2017,Los Angeles Galaxy,2-6,?,Real Salt Lake
+Wed Jul 5 2017,New England Revolution,2-3,?,New York Red Bulls
+Wed Jul 5 2017,Orlando City,1-3,?,Toronto FC
+Wed Jul 5 2017,Houston Dynamo,3-1,?,Montreal Impact
+Wed Jul 5 2017,Vancouver Whitecaps,3-2,?,New York City
+Wed Jul 5 2017,Portland Timbers,2-2,?,Chicago Fire
+Thu Jul 6 2017,Sporting Kansas City,1-1,?,Philadelphia Union
+Wed Jul 19 2017,Montreal Impact,2-1,?,Philadelphia Union
+Wed Jul 19 2017,New York City,2-2,?,Toronto FC
+Wed Jul 19 2017,New York Red Bulls,5-1,?,San Jose Earthquakes
+Wed Jul 19 2017,Minnesota United,0-0,?,Houston Dynamo
+Wed Jul 19 2017,Los Angeles Galaxy,0-1,?,Vancouver Whitecaps
+Wed Jul 19 2017,Portland Timbers,1-4,?,Real Salt Lake
+Wed Jul 19 2017,Seattle Sounders,4-3,?,DC United
+Fri Jul 21 2017,Orlando City,0-1,?,Atlanta United
+Sat Jul 22 2017,New York City,2-1,?,Chicago Fire
+Sat Jul 22 2017,Minnesota United,0-3,?,New York Red Bulls
+Sat Jul 22 2017,DC United,1-3,?,Houston Dynamo
+Sat Jul 22 2017,Toronto FC,1-1,?,Colorado Rapids
+Sat Jul 22 2017,Columbus Crew,1-0,?,Philadelphia Union
+Sat Jul 22 2017,Montreal Impact,1-2,?,FC Dallas
+Sat Jul 22 2017,New England Revolution,4-3,?,Los Angeles Galaxy
+Sat Jul 22 2017,Real Salt Lake,1-1,?,Sporting Kansas City
+Sun Jul 23 2017,Vancouver Whitecaps,1-2,?,Portland Timbers
+Sun Jul 23 2017,Seattle Sounders,3-0,?,San Jose Earthquakes
+Wed Jul 26 2017,Philadelphia Union,3-0,?,Columbus Crew
+Sat Jul 29 2017,Atlanta United,1-1,?,Orlando City
+Sat Jul 29 2017,New England Revolution,3-0,?,Philadelphia Union
+Sat Jul 29 2017,New York Red Bulls,4-0,?,Montreal Impact
+Sat Jul 29 2017,FC Dallas,0-4,?,Vancouver Whitecaps
+Sat Jul 29 2017,Houston Dynamo,2-2,?,Portland Timbers
+Sat Jul 29 2017,Minnesota United,4-0,?,DC United
+Sat Jul 29 2017,Real Salt Lake,2-2,?,Columbus Crew
+Sat Jul 29 2017,San Jose Earthquakes,1-0,?,Colorado Rapids
+Sat Jul 29 2017,Sporting Kansas City,3-2,?,Chicago Fire
+Sat Jul 29 2017,Los Angeles Galaxy,0-0,?,Seattle Sounders
+Sun Jul 30 2017,Toronto FC,4-0,?,New York City
+Sat Aug 5 2017,DC United,1-1,?,Toronto FC
+Sat Aug 5 2017,Philadelphia Union,3-1,?,FC Dallas
+Sat Aug 5 2017,Montreal Impact,2-1,?,Orlando City
+Sat Aug 5 2017,Minnesota United,0-4,?,Seattle Sounders
+Sat Aug 5 2017,Chicago Fire,4-1,?,New England Revolution
+Sat Aug 5 2017,Colorado Rapids,2-2,?,Vancouver Whitecaps
+Sat Aug 5 2017,Real Salt Lake,0-0,?,Houston Dynamo
+Sat Aug 5 2017,San Jose Earthquakes,2-1,?,Columbus Crew
+Sun Aug 6 2017,Portland Timbers,3-1,?,Los Angeles Galaxy
+Sun Aug 6 2017,New York City,3-2,?,New York Red Bulls
+Sun Aug 6 2017,Sporting Kansas City,1-1,?,Atlanta United
+Sat Aug 12 2017,Seattle Sounders,1-0,?,Sporting Kansas City
+Sat Aug 12 2017,Toronto FC,4-1,?,Portland Timbers
+Sat Aug 12 2017,Columbus Crew,3-1,?,Chicago Fire
+Sat Aug 12 2017,New York Red Bulls,3-1,?,Orlando City
+Sat Aug 12 2017,FC Dallas,0-0,?,Colorado Rapids
+Sat Aug 12 2017,New England Revolution,1-0,?,Vancouver Whitecaps
+Sat Aug 12 2017,Philadelphia Union,0-3,?,Montreal Impact
+Sat Aug 12 2017,Houston Dynamo,3-0,?,San Jose Earthquakes
+Sat Aug 12 2017,Los Angeles Galaxy,0-2,?,New York City
+Sun Aug 13 2017,DC United,0-1,?,Real Salt Lake
+Wed Aug 16 2017,Montreal Impact,3-0,?,Chicago Fire
+Fri Aug 18 2017,Portland Timbers,2-0,?,New York Red Bulls
+Sat Aug 19 2017,Montreal Impact,3-1,?,Real Salt Lake
+Sat Aug 19 2017,Orlando City,1-1,?,Columbus Crew
+Sat Aug 19 2017,Chicago Fire,1-3,?,Toronto FC
+Sat Aug 19 2017,Sporting Kansas City,2-0,?,FC Dallas
+Sat Aug 19 2017,Colorado Rapids,0-1,?,DC United
+Sat Aug 19 2017,Vancouver Whitecaps,2-1,?,Houston Dynamo
+Sat Aug 19 2017,San Jose Earthquakes,2-2,?,Philadelphia Union
+Sun Aug 20 2017,New York City,2-1,?,New England Revolution
+Sun Aug 20 2017,Seattle Sounders,2-1,?,Minnesota United
+Wed Aug 23 2017,Columbus Crew,2-0,?,Los Angeles Galaxy
+Wed Aug 23 2017,DC United,1-0,?,Atlanta United
+Wed Aug 23 2017,FC Dallas,3-3,?,Houston Dynamo
+Wed Aug 23 2017,Toronto FC,3-0,?,Philadelphia Union
+Wed Aug 23 2017,Real Salt Lake,4-0,?,San Jose Earthquakes
+Wed Aug 23 2017,Vancouver Whitecaps,1-1,?,Seattle Sounders
+Wed Aug 23 2017,Portland Timbers,2-1,?,Colorado Rapids
+Fri Aug 25 2017,New York Red Bulls,1-1,?,New York City
+Sat Aug 26 2017,DC United,1-0,?,New England Revolution
+Sat Aug 26 2017,Philadelphia Union,2-2,?,Atlanta United
+Sat Aug 26 2017,Columbus Crew,2-1,?,FC Dallas
+Sat Aug 26 2017,Orlando City,1-2,?,Vancouver Whitecaps
+Sat Aug 26 2017,Chicago Fire,1-2,?,Minnesota United
+Sat Aug 26 2017,Real Salt Lake,4-1,?,Colorado Rapids
+Sun Aug 27 2017,Montreal Impact,1-3,?,Toronto FC
+Sun Aug 27 2017,Los Angeles Galaxy,0-3,?,San Jose Earthquakes
+Sun Aug 27 2017,Seattle Sounders,1-1,?,Portland Timbers
+Sat Sep 2 2017,Montreal Impact,0-1,?,Chicago Fire
+Sat Sep 2 2017,New England Revolution,4-0,?,Orlando City
+Sat Sep 2 2017,FC Dallas,2-2,?,New York Red Bulls
+Sat Sep 2 2017,Los Angeles Galaxy,3-0,?,Colorado Rapids
+Wed Sep 6 2017,New York City,1-0,?,Sporting Kansas City
+Sat Sep 9 2017,Chicago Fire,1-1,?,New York Red Bulls
+Sat Sep 9 2017,Toronto FC,4-0,?,San Jose Earthquakes
+Sat Sep 9 2017,New York City,0-1,?,Portland Timbers
+Sat Sep 9 2017,DC United,1-2,?,Orlando City
+Sat Sep 9 2017,New England Revolution,1-0,?,Montreal Impact
+Sat Sep 9 2017,Minnesota United,1-1,?,Philadelphia Union
+Sat Sep 9 2017,Houston Dynamo,0-1,?,Colorado Rapids
+Sat Sep 9 2017,Vancouver Whitecaps,3-2,?,Real Salt Lake
+Sun Sep 10 2017,Columbus Crew,1-1,?,Sporting Kansas City
+Sun Sep 10 2017,Atlanta United,3-0,?,FC Dallas
+Sun Sep 10 2017,Seattle Sounders,1-1,?,Los Angeles Galaxy
+Wed Sep 13 2017,Atlanta United,7-0,?,New England Revolution
+Wed Sep 13 2017,Vancouver Whitecaps,3-0,?,Minnesota United
+Sat Sep 16 2017,Atlanta United,3-3,?,Orlando City
+Sat Sep 16 2017,Vancouver Whitecaps,2-2,?,Columbus Crew
+Sat Sep 16 2017,Montreal Impact,2-3,?,Minnesota United
+Sat Sep 16 2017,FC Dallas,0-0,?,Seattle Sounders
+Sat Sep 16 2017,Chicago Fire,3-0,?,DC United
+Sat Sep 16 2017,Sporting Kansas City,3-1,?,New England Revolution
+Sat Sep 16 2017,Colorado Rapids,1-1,?,New York City
+Sat Sep 16 2017,Real Salt Lake,2-1,?,Portland Timbers
+Sat Sep 16 2017,Los Angeles Galaxy,0-4,?,Toronto FC
+Sat Sep 16 2017,San Jose Earthquakes,1-0,?,Houston Dynamo
+Sun Sep 17 2017,New York Red Bulls,0-0,?,Philadelphia Union
+Wed Sep 20 2017,Atlanta United,4-0,?,Los Angeles Galaxy
+Wed Sep 20 2017,Toronto FC,3-5,?,Montreal Impact
+Sat Sep 23 2017,New York City,1-1,?,Houston Dynamo
+Sat Sep 23 2017,New England Revolution,2-1,?,Toronto FC
+Sat Sep 23 2017,DC United,4-0,?,San Jose Earthquakes
+Sat Sep 23 2017,Philadelphia Union,3-1,?,Chicago Fire
+Sat Sep 23 2017,Columbus Crew,3-2,?,New York Red Bulls
+Sat Sep 23 2017,Minnesota United,4-1,?,FC Dallas
+Sat Sep 23 2017,Real Salt Lake,2-0,?,Seattle Sounders
+Sat Sep 23 2017,Vancouver Whitecaps,2-1,?,Colorado Rapids
+Sun Sep 24 2017,Sporting Kansas City,2-1,?,Los Angeles Galaxy
+Sun Sep 24 2017,Atlanta United,2-0,?,Montreal Impact
+Sun Sep 24 2017,Portland Timbers,3-0,?,Orlando City
+Wed Sep 27 2017,Atlanta United,3-0,?,Philadelphia Union
+Wed Sep 27 2017,Montreal Impact,0-1,?,New York City
+Wed Sep 27 2017,New York Red Bulls,3-3,?,DC United
+Wed Sep 27 2017,Orlando City,6-1,?,New England Revolution
+Wed Sep 27 2017,FC Dallas,2-0,?,Colorado Rapids
+Wed Sep 27 2017,Houston Dynamo,3-3,?,Los Angeles Galaxy
+Wed Sep 27 2017,San Jose Earthquakes,1-4,?,Chicago Fire
+Wed Sep 27 2017,Seattle Sounders,3-0,?,Vancouver Whitecaps
+Sat Sep 30 2017,Orlando City,0-0,?,FC Dallas
+Sat Sep 30 2017,Toronto FC,4-2,?,New York Red Bulls
+Sat Sep 30 2017,Columbus Crew,2-0,?,DC United
+Sat Sep 30 2017,New England Revolution,0-0,?,Atlanta United
+Sat Sep 30 2017,Chicago Fire,1-1,?,New York City
+Sat Sep 30 2017,Houston Dynamo,2-1,?,Minnesota United
+Sat Sep 30 2017,Colorado Rapids,2-1,?,Montreal Impact
+Sat Sep 30 2017,Sporting Kansas City,0-1,?,Vancouver Whitecaps
+Sat Sep 30 2017,Los Angeles Galaxy,1-1,?,Real Salt Lake
+Sat Sep 30 2017,San Jose Earthquakes,2-1,?,Portland Timbers
+Sun Oct 1 2017,Philadelphia Union,2-0,?,Seattle Sounders
+Tue Oct 3 2017,Atlanta United,2-3,?,Minnesota United
+Sat Oct 7 2017,New York Red Bulls,3-0,?,Vancouver Whitecaps
+Sat Oct 7 2017,Minnesota United,1-1,?,Sporting Kansas City
+Sat Oct 7 2017,Colorado Rapids,1-1,?,FC Dallas
+Wed Oct 11 2017,Houston Dynamo,2-1,?,Sporting Kansas City
+Sun Oct 15 2017,Chicago Fire,3-2,?,Philadelphia Union
+Sun Oct 15 2017,New England Revolution,2-1,?,New York City
+Sun Oct 15 2017,New York Red Bulls,0-0,?,Atlanta United
+Sun Oct 15 2017,Orlando City,0-1,?,Columbus Crew
+Sun Oct 15 2017,Toronto FC,1-0,?,Montreal Impact
+Sun Oct 15 2017,Colorado Rapids,1-0,?,Real Salt Lake
+Sun Oct 15 2017,Los Angeles Galaxy,3-0,?,Minnesota United
+Sun Oct 15 2017,Portland Timbers,4-0,?,DC United
+Sun Oct 15 2017,Seattle Sounders,4-0,?,FC Dallas
+Sun Oct 15 2017,Sporting Kansas City,0-0,?,Houston Dynamo
+Sun Oct 15 2017,Vancouver Whitecaps,1-1,?,San Jose Earthquakes
+Sun Oct 22 2017,Atlanta United,2-2,?,Toronto FC
+Sun Oct 22 2017,DC United,1-2,?,New York Red Bulls
+Sun Oct 22 2017,FC Dallas,5-1,?,Los Angeles Galaxy
+Sun Oct 22 2017,Houston Dynamo,3-0,?,Chicago Fire
+Sun Oct 22 2017,Montreal Impact,2-3,?,New England Revolution
+Sun Oct 22 2017,New York City,2-2,?,Columbus Crew
+Sun Oct 22 2017,Philadelphia Union,6-1,?,Orlando City
+Sun Oct 22 2017,Portland Timbers,2-1,?,Vancouver Whitecaps
+Sun Oct 22 2017,Real Salt Lake,2-1,?,Sporting Kansas City
+Sun Oct 22 2017,San Jose Earthquakes,3-2,?,Minnesota United
+Sun Oct 22 2017,Seattle Sounders,3-0,?,Colorado Rapids
+Wed Oct 25 2017,Chicago Fire,0-4,?,New York Red Bulls
+Wed Oct 25 2017,Vancouver Whitecaps,5-0,?,San Jose Earthquakes
+Thu Oct 26 2017,Atlanta United,0-0,?,Columbus Crew
+Thu Oct 26 2017,Houston Dynamo,0-0,?,Sporting Kansas City
+Sun Oct 29 2017,Vancouver Whitecaps,0-0,?,Seattle Sounders
+Mon Oct 30 2017,New York Red Bulls,1-2,?,Toronto FC
+Mon Oct 30 2017,Houston Dynamo,0-0,?,Portland Timbers
+Tue Oct 31 2017,Columbus Crew,4-1,?,New York City
+Thu Nov 2 2017,Seattle Sounders,2-0,?,Vancouver Whitecaps
+Sun Nov 5 2017,Toronto FC,0-1,?,New York Red Bulls
+Sun Nov 5 2017,New York City,2-0,?,Columbus Crew
+Sun Nov 5 2017,Portland Timbers,1-2,?,Houston Dynamo
+Tue Nov 21 2017,Columbus Crew,0-0,?,Toronto FC
+Tue Nov 21 2017,Houston Dynamo,0-2,?,Seattle Sounders
+Wed Nov 29 2017,Toronto FC,1-0,?,Columbus Crew
+Thu Nov 30 2017,Seattle Sounders,3-0,?,Houston Dynamo
+Sat Dec 9 2017,Toronto FC,2-0,?,Seattle Sounders

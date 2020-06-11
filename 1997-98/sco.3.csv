@@ -1,0 +1,181 @@
+Date,Team 1,FT,HT,Team 2
+Tue Aug 5 1997,Clydebank,3-0,?,Brechin
+Tue Aug 5 1997,Stenhousemuir,2-1,?,Queen of Sth
+Wed Aug 6 1997,Inverness C,1-1,?,Livingston
+Wed Aug 6 1997,Stranraer,0-0,?,Clyde
+Sat Aug 16 1997,Brechin,2-2,?,Inverness C
+Sat Aug 16 1997,Clyde,1-2,?,Forfar
+Sat Aug 16 1997,East Fife,0-3,?,Stenhousemuir
+Sat Aug 16 1997,Livingston,1-0,?,Stranraer
+Sat Aug 16 1997,Queen of Sth,2-2,?,Clydebank
+Sat Aug 23 1997,Clydebank,2-2,?,Clyde
+Sat Aug 23 1997,Forfar,2-5,?,Brechin
+Sat Aug 23 1997,Inverness C,0-1,?,East Fife
+Sat Aug 23 1997,Stenhousemuir,1-1,?,Livingston
+Sat Aug 23 1997,Stranraer,2-1,?,Queen of Sth
+Sat Aug 30 1997,East Fife,3-0,?,Clyde
+Sat Aug 30 1997,Forfar,0-2,?,Clydebank
+Sat Aug 30 1997,Livingston,3-1,?,Queen of Sth
+Sat Aug 30 1997,Stenhousemuir,3-2,?,Inverness C
+Sat Aug 30 1997,Stranraer,4-0,?,Brechin
+Sun Sep 7 1997,Forfar,1-2,?,East Fife
+Sat Sep 13 1997,Brechin,0-2,?,Livingston
+Sat Sep 13 1997,Clyde,2-0,?,Stenhousemuir
+Sat Sep 13 1997,Clydebank,1-2,?,East Fife
+Sat Sep 13 1997,Inverness C,2-2,?,Stranraer
+Sat Sep 13 1997,Queen of Sth,0-1,?,Forfar
+Sat Sep 20 1997,Clyde,1-1,?,Brechin
+Sat Sep 20 1997,Clydebank,1-0,?,Stenhousemuir
+Sat Sep 20 1997,East Fife,2-3,?,Livingston
+Sat Sep 20 1997,Forfar,3-1,?,Stranraer
+Sat Sep 20 1997,Queen of Sth,2-1,?,Inverness C
+Sat Sep 27 1997,Brechin,0-3,?,Queen of Sth
+Sat Sep 27 1997,Inverness C,1-2,?,Clyde
+Sat Sep 27 1997,Livingston,0-0,?,Clydebank
+Sat Sep 27 1997,Stenhousemuir,1-4,?,Forfar
+Sat Sep 27 1997,Stranraer,3-2,?,East Fife
+Sat Oct 4 1997,Clyde,1-0,?,Livingston
+Sat Oct 4 1997,Clydebank,0-0,?,Stranraer
+Sat Oct 4 1997,East Fife,3-2,?,Queen of Sth
+Sat Oct 4 1997,Forfar,2-1,?,Inverness C
+Sat Oct 4 1997,Stenhousemuir,3-2,?,Brechin
+Sat Oct 18 1997,Brechin,0-0,?,East Fife
+Sat Oct 18 1997,Inverness C,0-0,?,Clydebank
+Sat Oct 18 1997,Livingston,4-3,?,Forfar
+Sat Oct 18 1997,Queen of Sth,4-3,?,Clyde
+Sat Oct 18 1997,Stranraer,4-1,?,Stenhousemuir
+Sat Oct 25 1997,Brechin,2-0,?,Forfar
+Sat Oct 25 1997,Clyde,0-1,?,Clydebank
+Sat Oct 25 1997,East Fife,1-5,?,Inverness C
+Sat Oct 25 1997,Livingston,2-1,?,Stenhousemuir
+Sat Oct 25 1997,Queen of Sth,2-1,?,Stranraer
+Sat Nov 1 1997,Forfar,2-2,?,Clyde
+Sat Nov 1 1997,Inverness C,0-0,?,Brechin
+Sat Nov 1 1997,Stenhousemuir,0-0,?,East Fife
+Sat Nov 1 1997,Stranraer,1-1,?,Livingston
+Wed Nov 5 1997,Clydebank,4-0,?,Queen of Sth
+Sat Nov 8 1997,Brechin,2-2,?,Stranraer
+Sat Nov 8 1997,Clyde,3-0,?,East Fife
+Sat Nov 8 1997,Clydebank,1-1,?,Forfar
+Sat Nov 8 1997,Inverness C,4-1,?,Stenhousemuir
+Sat Nov 8 1997,Queen of Sth,1-0,?,Livingston
+Sat Nov 15 1997,East Fife,2-3,?,Clydebank
+Sat Nov 15 1997,Forfar,2-4,?,Queen of Sth
+Sat Nov 15 1997,Livingston,5-2,?,Brechin
+Sat Nov 15 1997,Stenhousemuir,0-0,?,Clyde
+Sat Nov 15 1997,Stranraer,2-1,?,Inverness C
+Sat Nov 22 1997,Clyde,4-3,?,Inverness C
+Sat Nov 22 1997,Clydebank,1-1,?,Livingston
+Sat Nov 22 1997,East Fife,2-2,?,Stranraer
+Sat Nov 22 1997,Forfar,1-1,?,Stenhousemuir
+Sat Nov 22 1997,Queen of Sth,0-0,?,Brechin
+Sat Nov 29 1997,Brechin,2-1,?,Clyde
+Sat Nov 29 1997,Inverness C,2-1,?,Queen of Sth
+Sat Nov 29 1997,Stenhousemuir,2-3,?,Clydebank
+Sat Nov 29 1997,Stranraer,2-2,?,Forfar
+Wed Dec 3 1997,Livingston,1-0,?,East Fife
+Sat Dec 13 1997,Clydebank,1-1,?,Inverness C
+Sat Dec 13 1997,East Fife,3-1,?,Brechin
+Sat Dec 13 1997,Forfar,2-2,?,Livingston
+Sat Dec 13 1997,Stenhousemuir,3-0,?,Stranraer
+Tue Dec 16 1997,Clyde,0-0,?,Queen of Sth
+Sat Dec 20 1997,Brechin,1-1,?,Stenhousemuir
+Sat Dec 20 1997,Inverness C,2-2,?,Forfar
+Sat Dec 20 1997,Livingston,0-2,?,Clyde
+Sat Dec 20 1997,Queen of Sth,2-1,?,East Fife
+Sat Dec 20 1997,Stranraer,0-1,?,Clydebank
+Sat Dec 27 1997,Clydebank,2-1,?,Clyde
+Sat Dec 27 1997,Forfar,5-0,?,Brechin
+Sat Dec 27 1997,Inverness C,4-0,?,East Fife
+Sat Dec 27 1997,Stenhousemuir,1-2,?,Livingston
+Sat Dec 27 1997,Stranraer,3-4,?,Queen of Sth
+Sat Jan 10 1998,Brechin,0-1,?,Clydebank
+Sun Jan 11 1998,East Fife,1-0,?,Forfar
+Tue Jan 13 1998,Clyde,0-1,?,Stranraer
+Sat Jan 17 1998,Inverness C,5-1,?,Clyde
+Sat Jan 17 1998,Stranraer,2-3,?,East Fife
+Tue Jan 20 1998,Queen of Sth,0-1,?,Stenhousemuir
+Sat Jan 31 1998,Clyde,2-2,?,Brechin
+Sat Jan 31 1998,Clydebank,1-0,?,Stenhousemuir
+Sat Jan 31 1998,East Fife,2-0,?,Livingston
+Sat Jan 31 1998,Forfar,2-1,?,Stranraer
+Sat Jan 31 1998,Queen of Sth,1-0,?,Inverness C
+Tue Feb 3 1998,Brechin,1-1,?,Queen of Sth
+Tue Feb 3 1998,Stenhousemuir,2-2,?,Forfar
+Sat Feb 7 1998,Brechin,2-1,?,East Fife
+Sat Feb 7 1998,Inverness C,3-2,?,Clydebank
+Sat Feb 7 1998,Livingston,4-0,?,Forfar
+Sat Feb 7 1998,Queen of Sth,0-0,?,Clyde
+Sat Feb 7 1998,Stranraer,1-2,?,Stenhousemuir
+Tue Feb 10 1998,Livingston,0-3,?,Clydebank
+Sat Feb 14 1998,Clydebank,0-1,?,Stranraer
+Sun Feb 15 1998,East Fife,1-5,?,Queen of Sth
+Tue Feb 17 1998,Clyde,0-3,?,Livingston
+Tue Feb 17 1998,Stenhousemuir,3-1,?,Brechin
+Sat Feb 21 1998,Clydebank,2-1,?,Brechin
+Sat Feb 21 1998,Forfar,1-0,?,East Fife
+Sat Feb 21 1998,Inverness C,2-2,?,Livingston
+Sat Feb 21 1998,Stenhousemuir,2-0,?,Queen of Sth
+Sat Feb 21 1998,Stranraer,3-0,?,Clyde
+Tue Feb 24 1998,Queen of Sth,0-0,?,Clydebank
+Wed Feb 25 1998,Brechin,3-1,?,Inverness C
+Wed Feb 25 1998,Clyde,1-2,?,Forfar
+Wed Feb 25 1998,East Fife,2-1,?,Stenhousemuir
+Wed Feb 25 1998,Livingston,0-1,?,Stranraer
+Sat Feb 28 1998,East Fife,1-1,?,Clyde
+Sat Feb 28 1998,Forfar,0-0,?,Clydebank
+Sat Feb 28 1998,Stenhousemuir,0-3,?,Inverness C
+Tue Mar 3 1998,Livingston,2-2,?,Inverness C
+Wed Mar 4 1998,Stranraer,0-2,?,Brechin
+Sat Mar 7 1998,Clyde,0-0,?,Stenhousemuir
+Sat Mar 7 1998,Inverness C,1-2,?,Stranraer
+Sat Mar 7 1998,Queen of Sth,5-1,?,Forfar
+Tue Mar 10 1998,Forfar,1-2,?,Inverness C
+Sat Mar 14 1998,Clyde,1-6,?,Inverness C
+Sat Mar 14 1998,Clydebank,0-2,?,Livingston
+Sat Mar 14 1998,East Fife,0-3,?,Stranraer
+Sat Mar 14 1998,Forfar,0-1,?,Stenhousemuir
+Sat Mar 14 1998,Queen of Sth,1-1,?,Brechin
+Tue Mar 17 1998,Brechin,0-2,?,Livingston
+Tue Mar 17 1998,Clydebank,0-3,?,East Fife
+Sat Mar 21 1998,Brechin,0-2,?,Clyde
+Sat Mar 21 1998,Inverness C,0-3,?,Queen of Sth
+Sat Mar 21 1998,Livingston,2-2,?,East Fife
+Sat Mar 21 1998,Stenhousemuir,0-0,?,Clydebank
+Sat Mar 21 1998,Stranraer,4-0,?,Forfar
+Wed Mar 25 1998,Livingston,1-1,?,Queen of Sth
+Sat Mar 28 1998,Clyde,3-1,?,Queen of Sth
+Sat Mar 28 1998,Clydebank,1-0,?,Inverness C
+Sat Mar 28 1998,East Fife,4-1,?,Brechin
+Sat Mar 28 1998,Forfar,2-1,?,Livingston
+Sat Mar 28 1998,Stenhousemuir,0-1,?,Stranraer
+Sat Apr 4 1998,Inverness C,0-0,?,Forfar
+Sat Apr 4 1998,Stranraer,2-1,?,Clydebank
+Sun Apr 5 1998,Queen of Sth,1-4,?,East Fife
+Tue Apr 7 1998,Brechin,4-3,?,Stenhousemuir
+Tue Apr 7 1998,Livingston,4-0,?,Clyde
+Sat Apr 11 1998,Brechin,1-3,?,Stranraer
+Sat Apr 11 1998,Clyde,0-0,?,East Fife
+Sat Apr 11 1998,Clydebank,0-1,?,Forfar
+Sat Apr 11 1998,Inverness C,2-1,?,Stenhousemuir
+Sat Apr 11 1998,Queen of Sth,0-1,?,Livingston
+Sat Apr 18 1998,East Fife,0-2,?,Clydebank
+Sat Apr 18 1998,Forfar,2-4,?,Queen of Sth
+Sat Apr 18 1998,Livingston,1-0,?,Brechin
+Sat Apr 18 1998,Stenhousemuir,1-1,?,Clyde
+Sat Apr 18 1998,Stranraer,3-1,?,Inverness C
+Sat Apr 25 1998,Brechin,1-1,?,Forfar
+Sat Apr 25 1998,Clyde,2-0,?,Clydebank
+Sat Apr 25 1998,East Fife,0-1,?,Inverness C
+Sat Apr 25 1998,Livingston,1-1,?,Stenhousemuir
+Sat Apr 25 1998,Queen of Sth,3-2,?,Stranraer
+Sat May 2 1998,Clydebank,1-1,?,Queen of Sth
+Sat May 2 1998,Forfar,0-1,?,Clyde
+Sat May 2 1998,Inverness C,2-1,?,Brechin
+Sat May 2 1998,Stenhousemuir,2-3,?,East Fife
+Sat May 2 1998,Stranraer,2-0,?,Livingston
+Sat May 9 1998,Brechin,1-6,?,Clydebank
+Sat May 9 1998,Clyde,0-1,?,Stranraer
+Sat May 9 1998,East Fife,0-1,?,Forfar
+Sat May 9 1998,Livingston,1-2,?,Inverness C
+Sat May 9 1998,Queen of Sth,1-0,?,Stenhousemuir

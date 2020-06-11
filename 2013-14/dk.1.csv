@@ -1,0 +1,199 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 19 2013,Aarhus,0-2,?,Midtjylland
+Sat Jul 20 2013,Viborg,2-2,?,Randers FC
+Sun Jul 21 2013,Odense,1-1,?,Sonderjyske
+Sun Jul 21 2013,Brondby,1-1,?,Vestsjaelland
+Sun Jul 21 2013,Aalborg,2-1,?,FC Copenhagen
+Mon Jul 22 2013,Esbjerg,4-0,?,Nordsjaelland
+Fri Jul 26 2013,Nordsjaelland,1-1,?,Viborg
+Sat Jul 27 2013,Vestsjaelland,0-2,?,Aarhus
+Sun Jul 28 2013,Randers FC,1-1,?,Odense
+Sun Jul 28 2013,Sonderjyske,1-0,?,Brondby
+Sun Jul 28 2013,Midtjylland,1-0,?,FC Copenhagen
+Mon Jul 29 2013,Esbjerg,1-2,?,Aalborg
+Fri Aug 2 2013,Midtjylland,2-1,?,Sonderjyske
+Sat Aug 3 2013,Aarhus,2-1,?,Nordsjaelland
+Sun Aug 4 2013,Odense,4-2,?,Viborg
+Sun Aug 4 2013,FC Copenhagen,1-3,?,Randers FC
+Sun Aug 4 2013,Brondby,0-2,?,Esbjerg
+Mon Aug 5 2013,Vestsjaelland,2-1,?,Aalborg
+Fri Aug 9 2013,Viborg,2-2,?,Brondby
+Sat Aug 10 2013,Esbjerg,5-1,?,Aarhus
+Sun Aug 11 2013,Randers FC,1-3,?,Midtjylland
+Sun Aug 11 2013,Aalborg,0-0,?,Odense
+Sun Aug 11 2013,Nordsjaelland,2-2,?,FC Copenhagen
+Mon Aug 12 2013,Sonderjyske,0-0,?,Vestsjaelland
+Fri Aug 16 2013,Midtjylland,5-2,?,Brondby
+Sat Aug 17 2013,Nordsjaelland,2-1,?,Aalborg
+Sun Aug 18 2013,Vestsjaelland,1-1,?,Odense
+Sun Aug 18 2013,Sonderjyske,0-3,?,Viborg
+Sun Aug 18 2013,FC Copenhagen,1-1,?,Aarhus
+Mon Aug 19 2013,Randers FC,3-2,?,Esbjerg
+Fri Aug 23 2013,Aarhus,3-1,?,Sonderjyske
+Sun Aug 25 2013,Odense,1-0,?,Nordsjaelland
+Sun Aug 25 2013,Viborg,3-1,?,Esbjerg
+Sun Aug 25 2013,FC Copenhagen,1-1,?,Vestsjaelland
+Sun Aug 25 2013,Brondby,0-0,?,Randers FC
+Mon Aug 26 2013,Aalborg,1-1,?,Midtjylland
+Fri Aug 30 2013,Odense,3-6,?,Aarhus
+Sun Sep 1 2013,Nordsjaelland,1-2,?,Vestsjaelland
+Sun Sep 1 2013,Esbjerg,1-1,?,Midtjylland
+Sun Sep 1 2013,Viborg,1-4,?,FC Copenhagen
+Sun Sep 1 2013,Aalborg,2-1,?,Brondby
+Mon Sep 2 2013,Randers FC,0-2,?,Sonderjyske
+Fri Sep 13 2013,Sonderjyske,1-3,?,Aalborg
+Sat Sep 14 2013,FC Copenhagen,1-1,?,Esbjerg
+Sun Sep 15 2013,Aarhus,0-1,?,Viborg
+Sun Sep 15 2013,Vestsjaelland,2-0,?,Randers FC
+Sun Sep 15 2013,Brondby,2-1,?,Odense
+Mon Sep 16 2013,Midtjylland,2-1,?,Nordsjaelland
+Fri Sep 20 2013,Randers FC,3-2,?,Aalborg
+Sat Sep 21 2013,Midtjylland,0-0,?,Viborg
+Sun Sep 22 2013,Sonderjyske,2-0,?,Nordsjaelland
+Sun Sep 22 2013,Aarhus,1-3,?,Brondby
+Sun Sep 22 2013,FC Copenhagen,2-1,?,Odense
+Mon Sep 23 2013,Vestsjaelland,1-3,?,Esbjerg
+Fri Sep 27 2013,Viborg,2-0,?,Vestsjaelland
+Sat Sep 28 2013,Brondby,3-2,?,FC Copenhagen
+Sun Sep 29 2013,Esbjerg,4-1,?,Sonderjyske
+Sun Sep 29 2013,Aalborg,0-0,?,Aarhus
+Sun Sep 29 2013,Odense,1-1,?,Midtjylland
+Mon Sep 30 2013,Nordsjaelland,1-0,?,Randers FC
+Sat Oct 5 2013,Randers FC,2-2,?,Aarhus
+Sun Oct 6 2013,Esbjerg,1-3,?,Odense
+Sun Oct 6 2013,Aalborg,3-1,?,Viborg
+Sun Oct 6 2013,FC Copenhagen,2-1,?,Sonderjyske
+Sun Oct 6 2013,Nordsjaelland,1-1,?,Brondby
+Mon Oct 7 2013,Midtjylland,2-2,?,Vestsjaelland
+Fri Oct 18 2013,Aarhus,0-1,?,Nordsjaelland
+Sat Oct 19 2013,Midtjylland,1-1,?,Randers FC
+Sun Oct 20 2013,Vestsjaelland,2-1,?,Esbjerg
+Sun Oct 20 2013,Brondby,0-0,?,Viborg
+Sun Oct 20 2013,FC Copenhagen,3-0,?,Aalborg
+Mon Oct 21 2013,Sonderjyske,1-5,?,Odense
+Fri Oct 25 2013,Viborg,4-1,?,Vestsjaelland
+Sat Oct 26 2013,Nordsjaelland,2-1,?,Midtjylland
+Sun Oct 27 2013,Aalborg,2-0,?,Sonderjyske
+Sun Oct 27 2013,Randers FC,1-1,?,FC Copenhagen
+Sun Oct 27 2013,Odense,0-0,?,Brondby
+Mon Oct 28 2013,Esbjerg,0-2,?,Aarhus
+Fri Nov 1 2013,Sonderjyske,1-3,?,Randers FC
+Sat Nov 2 2013,FC Copenhagen,4-0,?,Nordsjaelland
+Sat Nov 2 2013,Aalborg,1-0,?,Odense
+Sun Nov 3 2013,Aarhus,2-1,?,Viborg
+Sun Nov 3 2013,Midtjylland,3-0,?,Esbjerg
+Mon Nov 4 2013,Vestsjaelland,0-2,?,Brondby
+Fri Nov 8 2013,Viborg,2-3,?,Midtjylland
+Sat Nov 9 2013,Nordsjaelland,3-0,?,Sonderjyske
+Sun Nov 10 2013,Odense,1-3,?,Vestsjaelland
+Sun Nov 10 2013,Esbjerg,1-1,?,FC Copenhagen
+Sun Nov 10 2013,Brondby,3-0,?,Aarhus
+Mon Nov 11 2013,Randers FC,1-4,?,Aalborg
+Fri Nov 22 2013,Sonderjyske,1-0,?,Esbjerg
+Sat Nov 23 2013,Randers FC,1-1,?,Odense
+Sun Nov 24 2013,Aarhus,2-2,?,Vestsjaelland
+Sun Nov 24 2013,FC Copenhagen,4-1,?,Viborg
+Sun Nov 24 2013,Midtjylland,0-1,?,Brondby
+Mon Nov 25 2013,Aalborg,1-1,?,Nordsjaelland
+Fri Nov 29 2013,Vestsjaelland,0-1,?,Midtjylland
+Sat Nov 30 2013,Viborg,2-2,?,Sonderjyske
+Sun Dec 1 2013,Nordsjaelland,1-1,?,Randers FC
+Sun Dec 1 2013,Odense,4-1,?,Aarhus
+Sun Dec 1 2013,Brondby,1-3,?,FC Copenhagen
+Mon Dec 2 2013,Esbjerg,2-2,?,Aalborg
+Fri Dec 6 2013,Nordsjaelland,2-0,?,Odense
+Sat Dec 7 2013,FC Copenhagen,1-0,?,Vestsjaelland
+Sun Dec 8 2013,Randers FC,1-0,?,Esbjerg
+Sun Dec 8 2013,Midtjylland,3-0,?,Aarhus
+Sun Dec 8 2013,Sonderjyske,1-1,?,Brondby
+Mon Dec 9 2013,Aalborg,5-0,?,Viborg
+Fri Feb 21 2014,Vestsjaelland,0-4,?,Sonderjyske
+Sat Feb 22 2014,Odense,2-1,?,Midtjylland
+Sun Feb 23 2014,Viborg,1-1,?,Randers FC
+Sun Feb 23 2014,Aarhus,1-1,?,FC Copenhagen
+Sun Feb 23 2014,Brondby,2-2,?,Aalborg
+Mon Feb 24 2014,Esbjerg,2-1,?,Nordsjaelland
+Fri Feb 28 2014,Nordsjaelland,2-0,?,Viborg
+Sat Mar 1 2014,Sonderjyske,1-2,?,Aarhus
+Sun Mar 2 2014,Esbjerg,1-0,?,Odense
+Sun Mar 2 2014,Aalborg,0-0,?,Vestsjaelland
+Sun Mar 2 2014,Randers FC,0-1,?,Brondby
+Sun Mar 2 2014,FC Copenhagen,1-5,?,Midtjylland
+Fri Mar 7 2014,Vestsjaelland,1-1,?,Randers FC
+Sat Mar 8 2014,Aarhus,2-5,?,Aalborg
+Sun Mar 9 2014,Viborg,1-3,?,Esbjerg
+Sun Mar 9 2014,Brondby,4-1,?,Nordsjaelland
+Sun Mar 9 2014,Odense,0-1,?,FC Copenhagen
+Mon Mar 10 2014,Midtjylland,2-0,?,Sonderjyske
+Fri Mar 14 2014,Sonderjyske,0-0,?,FC Copenhagen
+Sat Mar 15 2014,Nordsjaelland,1-2,?,Vestsjaelland
+Sun Mar 16 2014,Odense,1-1,?,Viborg
+Sun Mar 16 2014,Aalborg,1-0,?,Midtjylland
+Sun Mar 16 2014,Esbjerg,0-0,?,Brondby
+Mon Mar 17 2014,Randers FC,1-3,?,Aarhus
+Fri Mar 21 2014,Vestsjaelland,0-1,?,Viborg
+Sat Mar 22 2014,Midtjylland,0-1,?,Nordsjaelland
+Sun Mar 23 2014,Sonderjyske,3-2,?,Aalborg
+Sun Mar 23 2014,FC Copenhagen,1-1,?,Randers FC
+Sun Mar 23 2014,Brondby,1-2,?,Odense
+Mon Mar 24 2014,Aarhus,0-3,?,Esbjerg
+Fri Mar 28 2014,Odense,2-2,?,Sonderjyske
+Sat Mar 29 2014,Esbjerg,0-0,?,Vestsjaelland
+Sun Mar 30 2014,Randers FC,0-3,?,Midtjylland
+Sun Mar 30 2014,Viborg,0-1,?,Brondby
+Sun Mar 30 2014,Aalborg,2-1,?,FC Copenhagen
+Mon Mar 31 2014,Nordsjaelland,1-0,?,Aarhus
+Fri Apr 4 2014,Aarhus,0-1,?,Randers FC
+Sat Apr 5 2014,Midtjylland,2-3,?,Aalborg
+Sun Apr 6 2014,Viborg,2-2,?,Odense
+Sun Apr 6 2014,FC Copenhagen,2-0,?,Sonderjyske
+Sun Apr 6 2014,Brondby,1-0,?,Esbjerg
+Mon Apr 7 2014,Vestsjaelland,0-0,?,Nordsjaelland
+Fri Apr 11 2014,Sonderjyske,1-1,?,Vestsjaelland
+Sat Apr 12 2014,Midtjylland,0-2,?,Odense
+Sun Apr 13 2014,Randers FC,3-1,?,Viborg
+Sun Apr 13 2014,FC Copenhagen,1-0,?,Aarhus
+Sun Apr 13 2014,Aalborg,2-0,?,Brondby
+Mon Apr 14 2014,Nordsjaelland,0-1,?,Esbjerg
+Wed Apr 16 2014,Viborg,0-2,?,Aalborg
+Thu Apr 17 2014,Odense,0-1,?,Nordsjaelland
+Thu Apr 17 2014,Esbjerg,0-3,?,Randers FC
+Thu Apr 17 2014,Vestsjaelland,0-1,?,FC Copenhagen
+Fri Apr 18 2014,Brondby,3-1,?,Sonderjyske
+Fri Apr 18 2014,Aarhus,0-4,?,Midtjylland
+Sun Apr 20 2014,Vestsjaelland,1-0,?,Odense
+Sun Apr 20 2014,Aalborg,1-2,?,Randers FC
+Mon Apr 21 2014,Sonderjyske,3-1,?,Nordsjaelland
+Mon Apr 21 2014,Midtjylland,5-2,?,Viborg
+Mon Apr 21 2014,Aarhus,1-2,?,Brondby
+Mon Apr 21 2014,FC Copenhagen,2-2,?,Esbjerg
+Fri Apr 25 2014,Randers FC,1-1,?,Sonderjyske
+Sat Apr 26 2014,Odense,2-3,?,Aalborg
+Sun Apr 27 2014,Viborg,0-3,?,Aarhus
+Sun Apr 27 2014,Brondby,2-2,?,Vestsjaelland
+Sun Apr 27 2014,Nordsjaelland,1-0,?,FC Copenhagen
+Mon Apr 28 2014,Esbjerg,0-0,?,Midtjylland
+Fri May 2 2014,Randers FC,0-1,?,Nordsjaelland
+Sat May 3 2014,Aalborg,0-2,?,Esbjerg
+Sun May 4 2014,Sonderjyske,1-0,?,Viborg
+Sun May 4 2014,Midtjylland,3-1,?,Vestsjaelland
+Sun May 4 2014,FC Copenhagen,1-1,?,Brondby
+Mon May 5 2014,Aarhus,0-1,?,Odense
+Wed May 7 2014,Esbjerg,2-1,?,Sonderjyske
+Wed May 7 2014,Nordsjaelland,2-4,?,Aalborg
+Thu May 8 2014,Odense,2-1,?,Randers FC
+Thu May 8 2014,Viborg,0-2,?,FC Copenhagen
+Thu May 8 2014,Brondby,3-1,?,Midtjylland
+Thu May 8 2014,Vestsjaelland,2-1,?,Aarhus
+Sun May 11 2014,Aarhus,0-3,?,Sonderjyske
+Sun May 11 2014,Brondby,1-1,?,Randers FC
+Sun May 11 2014,Midtjylland,2-3,?,FC Copenhagen
+Sun May 11 2014,Odense,1-2,?,Esbjerg
+Sun May 11 2014,Vestsjaelland,0-0,?,Aalborg
+Sun May 11 2014,Viborg,1-3,?,Nordsjaelland
+Sun May 18 2014,Aalborg,1-0,?,Aarhus
+Sun May 18 2014,Esbjerg,0-0,?,Viborg
+Sun May 18 2014,FC Copenhagen,3-2,?,Odense
+Sun May 18 2014,Nordsjaelland,2-2,?,Brondby
+Sun May 18 2014,Randers FC,1-1,?,Vestsjaelland
+Sun May 18 2014,Sonderjyske,3-1,?,Midtjylland

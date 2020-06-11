@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 1 2014,Fortuna Dusseldorf,2-2,1-0,Braunschweig
+Sat Aug 2 2014,Bochum,1-1,1-1,Greuther Furth
+Sat Aug 2 2014,RB Leipzig,0-0,0-0,Aalen
+Sat Aug 2 2014,St Pauli,1-1,0-1,Ingolstadt
+Sun Aug 3 2014,Darmstadt,1-0,1-0,Sandhausen
+Sun Aug 3 2014,Heidenheim,2-1,1-1,Frankfurt FSV
+Sun Aug 3 2014,Karlsruhe,0-0,0-0,Union Berlin
+Sun Aug 3 2014,Nurnberg,1-0,0-0,Erzgebirge Aue
+Mon Aug 4 2014,Kaiserslautern,3-2,0-2,Munich 1860
+Fri Aug 8 2014,Aalen,2-0,1-0,St Pauli
+Fri Aug 8 2014,Frankfurt FSV,2-3,2-3,Karlsruhe
+Fri Aug 8 2014,Union Berlin,1-1,0-1,Fortuna Dusseldorf
+Sat Aug 9 2014,Braunschweig,3-0,1-0,Heidenheim
+Sat Aug 9 2014,Erzgebirge Aue,1-5,1-3,Bochum
+Sun Aug 10 2014,Ingolstadt,2-2,1-1,Darmstadt
+Sun Aug 10 2014,Munich 1860,0-3,0-1,RB Leipzig
+Sun Aug 10 2014,Sandhausen,1-1,0-0,Kaiserslautern
+Mon Aug 11 2014,Greuther Furth,5-1,2-1,Nurnberg
+Fri Aug 22 2014,Heidenheim,2-2,0-1,Munich 1860
+Fri Aug 22 2014,RB Leipzig,1-0,1-0,Erzgebirge Aue
+Fri Aug 22 2014,St Pauli,2-1,1-1,Sandhausen
+Sat Aug 23 2014,Fortuna Dusseldorf,0-2,0-1,Karlsruhe
+Sat Aug 23 2014,Nurnberg,0-1,0-1,Frankfurt FSV
+Sun Aug 24 2014,Darmstadt,2-0,0-0,Aalen
+Sun Aug 24 2014,Ingolstadt,2-0,0-0,Greuther Furth
+Sun Aug 24 2014,Kaiserslautern,2-1,1-1,Braunschweig
+Mon Aug 25 2014,Bochum,1-1,0-0,Union Berlin
+Fri Aug 29 2014,Aalen,2-2,0-1,Kaiserslautern
+Fri Aug 29 2014,Frankfurt FSV,0-0,0-0,RB Leipzig
+Fri Aug 29 2014,Union Berlin,0-4,0-2,Nurnberg
+Sat Aug 30 2014,Erzgebirge Aue,0-3,0-2,Fortuna Dusseldorf
+Sat Aug 30 2014,Karlsruhe,1-1,0-1,Heidenheim
+Sun Aug 31 2014,Braunschweig,1-2,1-1,Bochum
+Sun Aug 31 2014,Munich 1860,1-1,0-1,Darmstadt
+Sun Aug 31 2014,Sandhausen,0-3,0-1,Ingolstadt
+Mon Sep 1 2014,Greuther Furth,3-0,2-0,St Pauli
+Fri Sep 12 2014,Bochum,1-1,0-1,Karlsruhe
+Fri Sep 12 2014,Ingolstadt,4-1,1-0,Aalen
+Fri Sep 12 2014,Kaiserslautern,1-0,1-0,Frankfurt FSV
+Sat Sep 13 2014,Darmstadt,2-0,1-0,Erzgebirge Aue
+Sat Sep 13 2014,RB Leipzig,3-1,2-0,Braunschweig
+Sun Sep 14 2014,Heidenheim,3-1,0-0,Union Berlin
+Sun Sep 14 2014,Sandhausen,1-0,0-0,Greuther Furth
+Sun Sep 14 2014,St Pauli,1-2,1-2,Munich 1860
+Mon Sep 15 2014,Nurnberg,0-2,0-1,Fortuna Dusseldorf
+Fri Sep 19 2014,Aalen,0-1,0-0,Sandhausen
+Fri Sep 19 2014,Braunschweig,2-0,1-0,Darmstadt
+Fri Sep 19 2014,Erzgebirge Aue,3-0,1-0,St Pauli
+Sat Sep 20 2014,Frankfurt FSV,1-5,1-1,Bochum
+Sat Sep 20 2014,Greuther Furth,2-1,0-1,Kaiserslautern
+Sat Sep 20 2014,Munich 1860,1-1,1-1,Ingolstadt
+Sun Sep 21 2014,Fortuna Dusseldorf,3-2,2-1,Heidenheim
+Sun Sep 21 2014,Karlsruhe,3-0,3-0,Nurnberg
+Sun Sep 21 2014,Union Berlin,2-1,0-0,RB Leipzig
+Tue Sep 23 2014,Greuther Furth,1-1,0-1,Aalen
+Tue Sep 23 2014,Ingolstadt,1-1,1-1,Erzgebirge Aue
+Tue Sep 23 2014,Sandhausen,1-0,0-0,Munich 1860
+Tue Sep 23 2014,St Pauli,1-0,1-0,Braunschweig
+Wed Sep 24 2014,Darmstadt,4-0,3-0,Frankfurt FSV
+Wed Sep 24 2014,Heidenheim,3-0,2-0,Nurnberg
+Wed Sep 24 2014,Kaiserslautern,1-0,1-0,Union Berlin
+Wed Sep 24 2014,RB Leipzig,3-1,1-1,Karlsruhe
+Thu Sep 25 2014,Bochum,1-1,1-0,Fortuna Dusseldorf
+Fri Sep 26 2014,Braunschweig,2-1,1-0,Sandhausen
+Fri Sep 26 2014,Erzgebirge Aue,1-0,0-0,Aalen
+Fri Sep 26 2014,Munich 1860,2-0,1-0,Greuther Furth
+Sat Sep 27 2014,Karlsruhe,0-1,0-1,Ingolstadt
+Sat Sep 27 2014,Union Berlin,1-1,0-0,Darmstadt
+Sun Sep 28 2014,Fortuna Dusseldorf,2-2,0-1,RB Leipzig
+Sun Sep 28 2014,Frankfurt FSV,3-3,1-2,St Pauli
+Sun Sep 28 2014,Heidenheim,5-0,4-0,Bochum
+Mon Sep 29 2014,Nurnberg,3-2,2-0,Kaiserslautern
+Fri Oct 3 2014,Aalen,2-0,0-0,Munich 1860
+Fri Oct 3 2014,Bochum,1-1,1-0,Nurnberg
+Fri Oct 3 2014,Greuther Furth,2-0,2-0,Erzgebirge Aue
+Sat Oct 4 2014,Kaiserslautern,2-0,2-0,Karlsruhe
+Sat Oct 4 2014,St Pauli,3-0,1-0,Union Berlin
+Sun Oct 5 2014,Darmstadt,1-4,0-2,Fortuna Dusseldorf
+Sun Oct 5 2014,Ingolstadt,1-0,0-0,Braunschweig
+Sun Oct 5 2014,Sandhausen,0-3,0-0,Frankfurt FSV
+Mon Oct 6 2014,RB Leipzig,1-1,1-1,Heidenheim
+Fri Oct 17 2014,Bochum,1-1,0-1,Darmstadt
+Fri Oct 17 2014,Heidenheim,1-1,0-0,Kaiserslautern
+Fri Oct 17 2014,Nurnberg,1-0,0-0,RB Leipzig
+Sat Oct 18 2014,Braunschweig,2-2,0-0,Greuther Furth
+Sat Oct 18 2014,Union Berlin,3-1,0-1,Sandhausen
+Sun Oct 19 2014,Erzgebirge Aue,4-1,3-0,Munich 1860
+Sun Oct 19 2014,Frankfurt FSV,0-1,0-1,Ingolstadt
+Sun Oct 19 2014,Karlsruhe,0-0,0-0,Aalen
+Mon Oct 20 2014,Fortuna Dusseldorf,1-0,1-0,St Pauli
+Fri Oct 24 2014,Aalen,1-2,1-0,Union Berlin
+Fri Oct 24 2014,Greuther Furth,2-5,2-3,Frankfurt FSV
+Fri Oct 24 2014,RB Leipzig,2-0,2-0,Bochum
+Sat Oct 25 2014,Kaiserslautern,1-1,0-0,Fortuna Dusseldorf
+Sat Oct 25 2014,St Pauli,0-4,0-2,Karlsruhe
+Sun Oct 26 2014,Ingolstadt,1-0,1-0,Heidenheim
+Sun Oct 26 2014,Munich 1860,1-2,1-1,Braunschweig
+Sun Oct 26 2014,Sandhausen,1-1,0-0,Erzgebirge Aue
+Mon Oct 27 2014,Darmstadt,3-0,1-0,Nurnberg
+Fri Oct 31 2014,Fortuna Dusseldorf,0-0,0-0,Ingolstadt
+Fri Oct 31 2014,Karlsruhe,1-1,0-0,Sandhausen
+Fri Oct 31 2014,Union Berlin,0-1,0-1,Greuther Furth
+Sat Nov 1 2014,Heidenheim,1-1,1-1,Darmstadt
+Sat Nov 1 2014,Nurnberg,2-2,1-1,St Pauli
+Sun Nov 2 2014,Bochum,0-3,0-0,Munich 1860
+Sun Nov 2 2014,Braunschweig,2-1,1-0,Aalen
+Sun Nov 2 2014,Frankfurt FSV,1-1,1-0,Erzgebirge Aue
+Mon Nov 3 2014,RB Leipzig,0-0,0-0,Kaiserslautern
+Fri Nov 7 2014,Aalen,0-1,0-0,Frankfurt FSV
+Fri Nov 7 2014,Kaiserslautern,2-2,0-1,Bochum
+Fri Nov 7 2014,Sandhausen,2-1,1-1,Nurnberg
+Sat Nov 8 2014,Darmstadt,1-0,1-0,RB Leipzig
+Sat Nov 8 2014,St Pauli,0-3,0-2,Heidenheim
+Sun Nov 9 2014,Erzgebirge Aue,1-2,1-1,Braunschweig
+Sun Nov 9 2014,Greuther Furth,0-3,0-0,Karlsruhe
+Sun Nov 9 2014,Ingolstadt,3-3,2-2,Union Berlin
+Mon Nov 10 2014,Munich 1860,0-1,0-1,Fortuna Dusseldorf
+Fri Nov 21 2014,Bochum,4-0,1-0,Aalen
+Fri Nov 21 2014,Heidenheim,3-0,1-0,Sandhausen
+Fri Nov 21 2014,Kaiserslautern,0-0,0-0,Darmstadt
+Sat Nov 22 2014,Frankfurt FSV,0-3,0-2,Braunschweig
+Sat Nov 22 2014,Union Berlin,1-4,0-2,Munich 1860
+Sun Nov 23 2014,Karlsruhe,1-0,0-0,Erzgebirge Aue
+Sun Nov 23 2014,Nurnberg,2-1,2-0,Ingolstadt
+Sun Nov 23 2014,RB Leipzig,4-1,2-0,St Pauli
+Mon Nov 24 2014,Fortuna Dusseldorf,3-3,1-1,Greuther Furth
+Fri Nov 28 2014,Darmstadt,0-0,0-0,Karlsruhe
+Fri Nov 28 2014,Erzgebirge Aue,1-2,0-0,Union Berlin
+Fri Nov 28 2014,Greuther Furth,0-0,0-0,Heidenheim
+Sat Nov 29 2014,Aalen,2-0,1-0,Fortuna Dusseldorf
+Sat Nov 29 2014,Ingolstadt,3-0,1-0,Bochum
+Sun Nov 30 2014,Munich 1860,0-2,0-1,Frankfurt FSV
+Sun Nov 30 2014,Sandhausen,0-0,0-0,RB Leipzig
+Sun Nov 30 2014,St Pauli,1-3,0-2,Kaiserslautern
+Mon Dec 1 2014,Braunschweig,1-0,1-0,Nurnberg
+Fri Dec 5 2014,Bochum,3-3,1-2,St Pauli
+Fri Dec 5 2014,Fortuna Dusseldorf,1-3,1-1,Sandhausen
+Fri Dec 5 2014,Heidenheim,0-1,0-0,Aalen
+Sat Dec 6 2014,Darmstadt,0-0,0-0,Greuther Furth
+Sat Dec 6 2014,Kaiserslautern,3-0,3-0,Erzgebirge Aue
+Sun Dec 7 2014,Karlsruhe,1-0,1-0,Braunschweig
+Sun Dec 7 2014,RB Leipzig,0-1,0-1,Ingolstadt
+Sun Dec 7 2014,Union Berlin,2-1,0-0,Frankfurt FSV
+Mon Dec 8 2014,Nurnberg,2-1,2-1,Munich 1860
+Fri Dec 12 2014,Erzgebirge Aue,1-1,1-0,Heidenheim
+Fri Dec 12 2014,Greuther Furth,0-1,0-0,RB Leipzig
+Fri Dec 12 2014,Sandhausen,0-0,0-0,Bochum
+Sat Dec 13 2014,Braunschweig,1-1,1-1,Union Berlin
+Sat Dec 13 2014,Frankfurt FSV,0-2,0-1,Fortuna Dusseldorf
+Sat Dec 13 2014,Munich 1860,2-3,1-0,Karlsruhe
+Sun Dec 14 2014,Aalen,1-2,0-1,Nurnberg
+Sun Dec 14 2014,Ingolstadt,2-0,0-0,Kaiserslautern
+Sun Dec 14 2014,St Pauli,0-1,0-0,Darmstadt
+Tue Dec 16 2014,Braunschweig,2-1,0-0,Fortuna Dusseldorf
+Tue Dec 16 2014,Frankfurt FSV,2-0,1-0,Heidenheim
+Tue Dec 16 2014,Greuther Furth,0-0,0-0,Bochum
+Tue Dec 16 2014,Union Berlin,2-0,1-0,Karlsruhe
+Wed Dec 17 2014,Aalen,0-0,0-0,RB Leipzig
+Wed Dec 17 2014,Erzgebirge Aue,0-1,0-0,Nurnberg
+Wed Dec 17 2014,Ingolstadt,2-1,1-0,St Pauli
+Wed Dec 17 2014,Munich 1860,1-1,1-0,Kaiserslautern
+Wed Dec 17 2014,Sandhausen,1-2,0-1,Darmstadt
+Fri Dec 19 2014,Fortuna Dusseldorf,1-0,0-0,Union Berlin
+Fri Dec 19 2014,Heidenheim,0-1,0-0,Braunschweig
+Fri Dec 19 2014,Karlsruhe,4-1,2-0,Frankfurt FSV
+Sat Dec 20 2014,Nurnberg,0-0,0-0,Greuther Furth
+Sat Dec 20 2014,St Pauli,3-1,1-0,Aalen
+Sun Dec 21 2014,Bochum,1-1,0-1,Erzgebirge Aue
+Sun Dec 21 2014,Darmstadt,2-2,1-2,Ingolstadt
+Sun Dec 21 2014,Kaiserslautern,1-0,0-0,Sandhausen
+Mon Dec 22 2014,RB Leipzig,1-1,1-0,Munich 1860
+Fri Feb 6 2015,Aalen,0-0,0-0,Darmstadt
+Fri Feb 6 2015,Erzgebirge Aue,2-0,1-0,RB Leipzig
+Fri Feb 6 2015,Greuther Furth,0-1,0-1,Ingolstadt
+Sat Feb 7 2015,Sandhausen,0-0,0-0,St Pauli
+Sat Feb 7 2015,Union Berlin,2-1,0-1,Bochum
+Sun Feb 8 2015,Braunschweig,0-2,0-1,Kaiserslautern
+Sun Feb 8 2015,Frankfurt FSV,2-1,1-1,Nurnberg
+Sun Feb 8 2015,Karlsruhe,1-1,0-0,Fortuna Dusseldorf
+Mon Feb 9 2015,Munich 1860,1-2,1-0,Heidenheim
+Fri Feb 13 2015,Bochum,3-2,2-1,Braunschweig
+Fri Feb 13 2015,Fortuna Dusseldorf,2-3,1-3,Erzgebirge Aue
+Fri Feb 13 2015,Heidenheim,0-1,0-1,Karlsruhe
+Sat Feb 14 2015,Ingolstadt,1-3,0-2,Sandhausen
+Sat Feb 14 2015,Kaiserslautern,1-0,1-0,Aalen
+Sun Feb 15 2015,Darmstadt,1-1,0-1,Munich 1860
+Sun Feb 15 2015,Nurnberg,3-1,1-1,Union Berlin
+Sun Feb 15 2015,RB Leipzig,0-1,0-0,Frankfurt FSV
+Mon Feb 16 2015,St Pauli,0-1,0-1,Greuther Furth
+Fri Feb 20 2015,Aalen,1-1,0-0,Ingolstadt
+Fri Feb 20 2015,Erzgebirge Aue,0-1,0-0,Darmstadt
+Fri Feb 20 2015,Greuther Furth,0-0,0-0,Sandhausen
+Sat Feb 21 2015,Karlsruhe,0-0,0-0,Bochum
+Sat Feb 21 2015,Munich 1860,2-1,1-0,St Pauli
+Sun Feb 22 2015,Fortuna Dusseldorf,1-3,0-0,Nurnberg
+Sun Feb 22 2015,Frankfurt FSV,2-0,0-0,Kaiserslautern
+Sun Feb 22 2015,Union Berlin,3-1,2-1,Heidenheim
+Mon Feb 23 2015,Braunschweig,1-1,1-0,RB Leipzig
+Fri Feb 27 2015,Bochum,3-3,1-0,Frankfurt FSV
+Fri Feb 27 2015,Darmstadt,1-0,0-0,Braunschweig
+Fri Feb 27 2015,Kaiserslautern,2-1,1-0,Greuther Furth
+Sat Feb 28 2015,Nurnberg,1-1,1-1,Karlsruhe
+Sat Feb 28 2015,Sandhausen,2-0,0-0,Aalen
+Sun Mar 1 2015,Heidenheim,1-2,1-1,Fortuna Dusseldorf
+Sun Mar 1 2015,RB Leipzig,3-2,3-2,Union Berlin
+Sun Mar 1 2015,St Pauli,0-0,0-0,Erzgebirge Aue
+Mon Mar 2 2015,Ingolstadt,1-1,1-0,Munich 1860
+Fri Mar 6 2015,Erzgebirge Aue,0-3,0-0,Ingolstadt
+Fri Mar 6 2015,Fortuna Dusseldorf,2-2,2-2,Bochum
+Fri Mar 6 2015,Nurnberg,0-1,0-1,Heidenheim
+Sat Mar 7 2015,Aalen,1-1,0-1,Greuther Furth
+Sat Mar 7 2015,Braunschweig,0-2,0-1,St Pauli
+Sun Mar 8 2015,Frankfurt FSV,1-1,0-0,Darmstadt
+Sun Mar 8 2015,Munich 1860,2-3,1-1,Sandhausen
+Sun Mar 8 2015,Union Berlin,0-0,0-0,Kaiserslautern
+Mon Mar 9 2015,Karlsruhe,0-0,0-0,RB Leipzig
+Fri Mar 13 2015,Bochum,4-1,2-1,Heidenheim
+Fri Mar 13 2015,Darmstadt,5-0,2-0,Union Berlin
+Fri Mar 13 2015,Greuther Furth,0-3,0-1,Munich 1860
+Sat Mar 14 2015,Kaiserslautern,2-1,2-0,Nurnberg
+Sat Mar 14 2015,St Pauli,1-1,0-0,Frankfurt FSV
+Sun Mar 15 2015,Aalen,3-0,1-0,Erzgebirge Aue
+Sun Mar 15 2015,Ingolstadt,1-3,1-1,Karlsruhe
+Sun Mar 15 2015,Sandhausen,0-1,0-0,Braunschweig
+Mon Mar 16 2015,RB Leipzig,3-1,2-0,Fortuna Dusseldorf
+Fri Mar 20 2015,Frankfurt FSV,1-1,0-1,Sandhausen
+Fri Mar 20 2015,Munich 1860,1-1,0-0,Aalen
+Fri Mar 20 2015,Union Berlin,1-0,0-0,St Pauli
+Sat Mar 21 2015,Braunschweig,0-0,0-0,Ingolstadt
+Sat Mar 21 2015,Fortuna Dusseldorf,2-0,1-0,Darmstadt
+Sun Mar 22 2015,Erzgebirge Aue,0-0,0-0,Greuther Furth
+Sun Mar 22 2015,Heidenheim,1-0,0-0,RB Leipzig
+Sun Mar 22 2015,Karlsruhe,0-0,0-0,Kaiserslautern
+Mon Mar 23 2015,Nurnberg,1-2,0-1,Bochum
+Sat Apr 4 2015,Greuther Furth,1-2,1-1,Braunschweig
+Sat Apr 4 2015,Kaiserslautern,4-0,2-0,Heidenheim
+Sun Apr 5 2015,Aalen,2-2,0-1,Karlsruhe
+Sun Apr 5 2015,Darmstadt,2-0,1-0,Bochum
+Sun Apr 5 2015,Ingolstadt,2-0,1-0,Frankfurt FSV
+Sun Apr 5 2015,Munich 1860,0-1,0-1,Erzgebirge Aue
+Sun Apr 5 2015,RB Leipzig,2-1,0-1,Nurnberg
+Sun Apr 5 2015,Sandhausen,1-1,1-0,Union Berlin
+Mon Apr 6 2015,St Pauli,4-0,3-0,Fortuna Dusseldorf
+Fri Apr 10 2015,Heidenheim,0-1,0-1,Ingolstadt
+Fri Apr 10 2015,Karlsruhe,3-0,2-0,St Pauli
+Fri Apr 10 2015,Nurnberg,1-1,1-0,Darmstadt
+Sat Apr 11 2015,Braunschweig,2-0,1-0,Munich 1860
+Sat Apr 11 2015,Frankfurt FSV,1-1,1-0,Greuther Furth
+Sun Apr 12 2015,Bochum,1-2,0-1,RB Leipzig
+Sun Apr 12 2015,Erzgebirge Aue,0-1,0-0,Sandhausen
+Sun Apr 12 2015,Union Berlin,1-1,0-0,Aalen
+Mon Apr 13 2015,Fortuna Dusseldorf,1-1,0-1,Kaiserslautern
+Fri Apr 17 2015,Ingolstadt,3-2,0-1,Fortuna Dusseldorf
+Fri Apr 17 2015,Sandhausen,0-0,0-0,Karlsruhe
+Fri Apr 17 2015,St Pauli,1-0,0-0,Nurnberg
+Sat Apr 18 2015,Aalen,2-1,0-0,Braunschweig
+Sat Apr 18 2015,Munich 1860,2-1,0-1,Bochum
+Sun Apr 19 2015,Darmstadt,1-1,0-0,Heidenheim
+Sun Apr 19 2015,Erzgebirge Aue,1-0,0-0,Frankfurt FSV
+Sun Apr 19 2015,Greuther Furth,2-2,0-1,Union Berlin
+Mon Apr 20 2015,Kaiserslautern,1-1,1-1,RB Leipzig
+Fri Apr 24 2015,Bochum,0-2,0-1,Kaiserslautern
+Fri Apr 24 2015,Nurnberg,2-0,0-0,Sandhausen
+Fri Apr 24 2015,RB Leipzig,2-1,0-0,Darmstadt
+Sat Apr 25 2015,Fortuna Dusseldorf,1-1,0-1,Munich 1860
+Sat Apr 25 2015,Karlsruhe,2-1,0-1,Greuther Furth
+Sun Apr 26 2015,Frankfurt FSV,1-1,1-0,Aalen
+Sun Apr 26 2015,Heidenheim,2-1,0-0,St Pauli
+Sun Apr 26 2015,Union Berlin,2-2,0-1,Ingolstadt
+Mon Apr 27 2015,Braunschweig,4-2,1-2,Erzgebirge Aue
+Sat May 2 2015,Braunschweig,2-0,0-0,Frankfurt FSV
+Sat May 2 2015,Darmstadt,3-2,3-1,Kaiserslautern
+Sun May 3 2015,Aalen,2-4,0-2,Bochum
+Sun May 3 2015,Erzgebirge Aue,3-1,1-0,Karlsruhe
+Sun May 3 2015,Greuther Furth,3-0,1-0,Fortuna Dusseldorf
+Sun May 3 2015,Munich 1860,0-3,0-1,Union Berlin
+Sun May 3 2015,Sandhausen,2-2,0-0,Heidenheim
+Sun May 3 2015,St Pauli,1-0,1-0,RB Leipzig
+Mon May 4 2015,Ingolstadt,1-1,0-0,Nurnberg
+Fri May 8 2015,Fortuna Dusseldorf,0-2,0-1,Aalen
+Fri May 8 2015,Frankfurt FSV,0-1,0-0,Munich 1860
+Fri May 8 2015,RB Leipzig,0-4,0-1,Sandhausen
+Sat May 9 2015,Kaiserslautern,0-2,0-0,St Pauli
+Sat May 9 2015,Union Berlin,1-2,0-1,Erzgebirge Aue
+Sun May 10 2015,Bochum,3-1,1-1,Ingolstadt
+Sun May 10 2015,Heidenheim,3-0,2-0,Greuther Furth
+Sun May 10 2015,Nurnberg,3-1,1-0,Braunschweig
+Mon May 11 2015,Karlsruhe,0-1,0-0,Darmstadt
+Sun May 17 2015,Aalen,2-4,1-2,Heidenheim
+Sun May 17 2015,Braunschweig,0-2,0-1,Karlsruhe
+Sun May 17 2015,Erzgebirge Aue,0-0,0-0,Kaiserslautern
+Sun May 17 2015,Frankfurt FSV,1-3,1-1,Union Berlin
+Sun May 17 2015,Greuther Furth,1-0,0-0,Darmstadt
+Sun May 17 2015,Ingolstadt,2-1,1-1,RB Leipzig
+Sun May 17 2015,Munich 1860,2-1,0-1,Nurnberg
+Sun May 17 2015,Sandhausen,0-2,0-1,Fortuna Dusseldorf
+Sun May 17 2015,St Pauli,5-1,2-1,Bochum
+Sun May 24 2015,Bochum,0-0,0-0,Sandhausen
+Sun May 24 2015,Darmstadt,1-0,0-0,St Pauli
+Sun May 24 2015,Fortuna Dusseldorf,2-3,2-2,Frankfurt FSV
+Sun May 24 2015,Heidenheim,2-2,0-0,Erzgebirge Aue
+Sun May 24 2015,Kaiserslautern,1-1,1-0,Ingolstadt
+Sun May 24 2015,Karlsruhe,2-0,1-0,Munich 1860
+Sun May 24 2015,Nurnberg,2-1,1-0,Aalen
+Sun May 24 2015,RB Leipzig,2-0,2-0,Greuther Furth
+Sun May 24 2015,Union Berlin,2-0,0-0,Braunschweig

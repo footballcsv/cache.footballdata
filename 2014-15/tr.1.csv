@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 29 2014,Balikesirspor,1-2,1-1,Akhisar Belediyespor
+Fri Aug 29 2014,Rizespor,1-1,0-1,Genclerbirligi
+Sat Aug 30 2014,Bursaspor,0-2,0-0,Galatasaray
+Sat Aug 30 2014,Buyuksehyr,1-1,1-1,Kasimpasa
+Sat Aug 30 2014,Eskisehirspor,2-1,0-1,Konyaspor
+Sat Aug 30 2014,Mersin Idman Yurdu,0-1,0-1,Besiktas
+Sun Aug 31 2014,Erciyesspor,0-0,0-0,Trabzonspor
+Sun Aug 31 2014,Fenerbahce,3-2,1-1,Karabukspor
+Sun Aug 31 2014,Sivasspor,1-2,0-0,Gaziantepspor
+Sat Sep 13 2014,Galatasaray,0-0,0-0,Eskisehirspor
+Sat Sep 13 2014,Genclerbirligi,1-2,1-0,Bursaspor
+Sat Sep 13 2014,Karabukspor,0-0,0-0,Buyuksehyr
+Sat Sep 13 2014,Konyaspor,2-0,1-0,Balikesirspor
+Sun Sep 14 2014,Gaziantepspor,2-2,0-2,Erciyesspor
+Sun Sep 14 2014,Kasimpasa,2-2,0-2,Mersin Idman Yurdu
+Sun Sep 14 2014,Trabzonspor,0-0,0-0,Fenerbahce
+Mon Sep 15 2014,Akhisar Belediyespor,2-2,1-0,Sivasspor
+Mon Sep 15 2014,Besiktas,1-1,0-0,Rizespor
+Fri Sep 19 2014,Eskisehirspor,0-2,0-1,Genclerbirligi
+Sat Sep 20 2014,Balikesirspor,2-0,2-0,Galatasaray
+Sat Sep 20 2014,Erciyesspor,1-2,1-0,Akhisar Belediyespor
+Sat Sep 20 2014,Mersin Idman Yurdu,2-0,1-0,Rizespor
+Sun Sep 21 2014,Fenerbahce,1-0,0-0,Gaziantepspor
+Sun Sep 21 2014,Kasimpasa,2-1,1-1,Karabukspor
+Sun Sep 21 2014,Sivasspor,0-0,0-0,Konyaspor
+Mon Sep 22 2014,Bursaspor,0-1,0-0,Besiktas
+Mon Sep 22 2014,Buyuksehyr,1-1,0-0,Trabzonspor
+Fri Sep 26 2014,Galatasaray,2-1,2-0,Sivasspor
+Sat Sep 27 2014,Besiktas,1-1,1-0,Eskisehirspor
+Sat Sep 27 2014,Trabzonspor,1-1,1-0,Kasimpasa
+Sun Sep 28 2014,Akhisar Belediyespor,2-0,1-0,Fenerbahce
+Sun Sep 28 2014,Genclerbirligi,3-1,1-0,Balikesirspor
+Sun Sep 28 2014,Konyaspor,1-1,1-0,Erciyesspor
+Sun Sep 28 2014,Rizespor,0-1,0-1,Bursaspor
+Mon Sep 29 2014,Gaziantepspor,0-0,0-0,Buyuksehyr
+Mon Sep 29 2014,Karabukspor,0-2,0-1,Mersin Idman Yurdu
+Fri Oct 3 2014,Mersin Idman Yurdu,2-1,1-0,Bursaspor
+Sat Oct 4 2014,Erciyesspor,1-2,0-0,Galatasaray
+Sat Oct 4 2014,Fenerbahce,2-1,1-1,Konyaspor
+Sat Oct 4 2014,Kasimpasa,4-2,1-0,Gaziantepspor
+Sat Oct 4 2014,Sivasspor,1-0,1-0,Genclerbirligi
+Sun Oct 5 2014,Balikesirspor,0-1,0-0,Besiktas
+Sun Oct 5 2014,Buyuksehyr,4-0,2-0,Akhisar Belediyespor
+Sun Oct 5 2014,Eskisehirspor,1-2,0-0,Rizespor
+Sun Oct 5 2014,Karabukspor,3-0,2-0,Trabzonspor
+Sat Oct 18 2014,Galatasaray,2-1,0-0,Fenerbahce
+Sat Oct 18 2014,Gaziantepspor,1-0,1-0,Karabukspor
+Sat Oct 18 2014,Konyaspor,0-0,0-0,Buyuksehyr
+Sun Oct 19 2014,Akhisar Belediyespor,2-0,0-0,Kasimpasa
+Sun Oct 19 2014,Besiktas,3-2,0-1,Sivasspor
+Sun Oct 19 2014,Bursaspor,2-2,1-0,Eskisehirspor
+Sun Oct 19 2014,Trabzonspor,3-1,0-0,Mersin Idman Yurdu
+Mon Oct 20 2014,Genclerbirligi,0-0,0-0,Erciyesspor
+Mon Oct 20 2014,Rizespor,2-2,1-1,Balikesirspor
+Fri Oct 24 2014,Karabukspor,2-1,0-0,Akhisar Belediyespor
+Fri Oct 24 2014,Kasimpasa,2-0,1-0,Konyaspor
+Sat Oct 25 2014,Balikesirspor,0-5,0-4,Bursaspor
+Sat Oct 25 2014,Fenerbahce,2-1,0-0,Genclerbirligi
+Sat Oct 25 2014,Sivasspor,0-1,0-0,Rizespor
+Sun Oct 26 2014,Buyuksehyr,4-0,2-0,Galatasaray
+Sun Oct 26 2014,Mersin Idman Yurdu,4-2,1-2,Eskisehirspor
+Sun Oct 26 2014,Trabzonspor,4-4,0-2,Gaziantepspor
+Mon Oct 27 2014,Erciyesspor,3-2,0-0,Besiktas
+Fri Oct 31 2014,Galatasaray,2-1,0-1,Kasimpasa
+Sat Nov 1 2014,Akhisar Belediyespor,1-1,1-1,Trabzonspor
+Sat Nov 1 2014,Bursaspor,3-0,0-0,Sivasspor
+Sat Nov 1 2014,Genclerbirligi,1-0,0-0,Buyuksehyr
+Sun Nov 2 2014,Besiktas,0-2,0-1,Fenerbahce
+Sun Nov 2 2014,Gaziantepspor,1-0,0-0,Mersin Idman Yurdu
+Sun Nov 2 2014,Rizespor,1-1,0-0,Erciyesspor
+Mon Nov 3 2014,Eskisehirspor,2-2,0-1,Balikesirspor
+Mon Nov 3 2014,Konyaspor,1-0,0-0,Karabukspor
+Fri Nov 7 2014,Gaziantepspor,1-0,1-0,Akhisar Belediyespor
+Fri Nov 7 2014,Sivasspor,1-1,0-0,Eskisehirspor
+Sat Nov 8 2014,Fenerbahce,2-1,1-1,Rizespor
+Sat Nov 8 2014,Karabukspor,1-2,0-1,Galatasaray
+Sat Nov 8 2014,Mersin Idman Yurdu,2-1,1-0,Balikesirspor
+Sun Nov 9 2014,Buyuksehyr,1-2,1-0,Besiktas
+Sun Nov 9 2014,Erciyesspor,1-1,0-1,Bursaspor
+Sun Nov 9 2014,Kasimpasa,2-2,0-1,Genclerbirligi
+Sun Nov 9 2014,Trabzonspor,3-2,2-1,Konyaspor
+Sat Nov 22 2014,Akhisar Belediyespor,1-1,0-0,Mersin Idman Yurdu
+Sat Nov 22 2014,Galatasaray,0-3,0-0,Trabzonspor
+Sat Nov 22 2014,Rizespor,0-2,0-1,Buyuksehyr
+Sun Nov 23 2014,Besiktas,2-0,2-0,Kasimpasa
+Sun Nov 23 2014,Eskisehirspor,2-1,1-0,Erciyesspor
+Sun Nov 23 2014,Genclerbirligi,2-2,2-1,Karabukspor
+Sun Nov 23 2014,Konyaspor,2-0,0-0,Gaziantepspor
+Mon Nov 24 2014,Balikesirspor,1-3,0-1,Sivasspor
+Mon Nov 24 2014,Bursaspor,1-1,1-0,Fenerbahce
+Fri Nov 28 2014,Akhisar Belediyespor,0-0,0-0,Konyaspor
+Fri Nov 28 2014,Buyuksehyr,0-0,0-0,Bursaspor
+Sat Nov 29 2014,Erciyesspor,4-0,2-0,Balikesirspor
+Sat Nov 29 2014,Gaziantepspor,0-1,0-0,Galatasaray
+Sat Nov 29 2014,Kasimpasa,3-1,2-1,Rizespor
+Sun Nov 30 2014,Fenerbahce,2-2,0-1,Eskisehirspor
+Sun Nov 30 2014,Mersin Idman Yurdu,2-0,0-0,Sivasspor
+Mon Dec 1 2014,Karabukspor,1-2,0-0,Besiktas
+Mon Dec 1 2014,Trabzonspor,4-1,3-0,Genclerbirligi
+Sat Dec 6 2014,Balikesirspor,0-1,0-1,Fenerbahce
+Sat Dec 6 2014,Galatasaray,2-1,1-0,Akhisar Belediyespor
+Sat Dec 6 2014,Genclerbirligi,2-0,0-0,Gaziantepspor
+Sat Dec 6 2014,Konyaspor,2-0,0-0,Mersin Idman Yurdu
+Sun Dec 7 2014,Besiktas,3-0,2-0,Trabzonspor
+Sun Dec 7 2014,Bursaspor,5-1,3-0,Kasimpasa
+Sun Dec 7 2014,Eskisehirspor,0-1,0-0,Buyuksehyr
+Sun Dec 7 2014,Rizespor,0-3,0-2,Karabukspor
+Mon Dec 8 2014,Sivasspor,1-1,1-1,Erciyesspor
+Fri Dec 12 2014,Fenerbahce,4-1,3-1,Sivasspor
+Sat Dec 13 2014,Akhisar Belediyespor,1-1,0-0,Genclerbirligi
+Sat Dec 13 2014,Buyuksehyr,1-0,0-0,Balikesirspor
+Sat Dec 13 2014,Kasimpasa,1-0,1-0,Eskisehirspor
+Sat Dec 13 2014,Konyaspor,0-5,0-3,Galatasaray
+Sun Dec 14 2014,Gaziantepspor,0-1,0-0,Besiktas
+Sun Dec 14 2014,Karabukspor,3-2,1-2,Bursaspor
+Sun Dec 14 2014,Mersin Idman Yurdu,1-1,1-0,Erciyesspor
+Mon Dec 15 2014,Trabzonspor,3-2,1-1,Rizespor
+Fri Dec 19 2014,Erciyesspor,0-1,0-0,Fenerbahce
+Sat Dec 20 2014,Eskisehirspor,1-1,0-0,Karabukspor
+Sat Dec 20 2014,Galatasaray,3-2,1-2,Mersin Idman Yurdu
+Sat Dec 20 2014,Genclerbirligi,5-0,1-0,Konyaspor
+Sat Dec 20 2014,Sivasspor,0-2,0-1,Buyuksehyr
+Sun Dec 21 2014,Balikesirspor,5-3,0-1,Kasimpasa
+Sun Dec 21 2014,Besiktas,3-1,1-0,Akhisar Belediyespor
+Sun Dec 21 2014,Bursaspor,3-3,2-2,Trabzonspor
+Mon Dec 22 2014,Rizespor,0-1,0-1,Gaziantepspor
+Fri Dec 26 2014,Genclerbirligi,1-1,0-1,Galatasaray
+Sat Dec 27 2014,Buyuksehyr,3-1,1-0,Erciyesspor
+Sat Dec 27 2014,Fenerbahce,1-0,1-0,Mersin Idman Yurdu
+Sat Dec 27 2014,Karabukspor,0-1,0-0,Balikesirspor
+Sun Dec 28 2014,Akhisar Belediyespor,0-4,0-3,Rizespor
+Sun Dec 28 2014,Gaziantepspor,1-2,1-0,Bursaspor
+Sun Dec 28 2014,Kasimpasa,0-0,0-0,Sivasspor
+Sun Dec 28 2014,Konyaspor,1-2,0-1,Besiktas
+Mon Dec 29 2014,Trabzonspor,1-4,0-1,Eskisehirspor
+Sat Jan 3 2015,Bursaspor,3-1,1-0,Akhisar Belediyespor
+Sat Jan 3 2015,Fenerbahce,2-0,1-0,Buyuksehyr
+Sat Jan 3 2015,Rizespor,1-1,1-0,Konyaspor
+Sun Jan 4 2015,Besiktas,0-2,0-0,Galatasaray
+Sun Jan 4 2015,Erciyesspor,2-5,1-2,Kasimpasa
+Sun Jan 4 2015,Eskisehirspor,1-3,0-1,Gaziantepspor
+Sun Jan 4 2015,Sivasspor,2-0,1-0,Karabukspor
+Mon Jan 5 2015,Balikesirspor,2-2,2-0,Trabzonspor
+Mon Jan 5 2015,Mersin Idman Yurdu,1-1,0-0,Genclerbirligi
+Fri Jan 23 2015,Konyaspor,2-3,1-2,Bursaspor
+Fri Jan 23 2015,Trabzonspor,3-1,1-1,Sivasspor
+Sat Jan 24 2015,Akhisar Belediyespor,2-2,0-1,Eskisehirspor
+Sat Jan 24 2015,Buyuksehyr,2-2,0-1,Mersin Idman Yurdu
+Sat Jan 24 2015,Gaziantepspor,1-0,0-0,Balikesirspor
+Sat Jan 24 2015,Kasimpasa,0-3,0-1,Fenerbahce
+Sun Jan 25 2015,Galatasaray,2-0,2-0,Rizespor
+Sun Jan 25 2015,Karabukspor,1-2,0-0,Erciyesspor
+Mon Jan 26 2015,Genclerbirligi,0-2,0-0,Besiktas
+Fri Jan 30 2015,Akhisar Belediyespor,2-2,2-0,Balikesirspor
+Fri Jan 30 2015,Trabzonspor,2-1,2-0,Erciyesspor
+Sat Jan 31 2015,Gaziantepspor,1-3,1-0,Sivasspor
+Sat Jan 31 2015,Karabukspor,1-2,0-1,Fenerbahce
+Sat Jan 31 2015,Kasimpasa,0-1,0-0,Buyuksehyr
+Sun Feb 1 2015,Besiktas,2-1,1-0,Mersin Idman Yurdu
+Sun Feb 1 2015,Galatasaray,2-2,1-1,Bursaspor
+Sun Feb 1 2015,Genclerbirligi,0-2,0-2,Rizespor
+Sun Feb 1 2015,Konyaspor,1-0,1-0,Eskisehirspor
+Fri Feb 6 2015,Buyuksehyr,2-2,1-1,Karabukspor
+Sat Feb 7 2015,Erciyesspor,0-1,0-0,Gaziantepspor
+Sat Feb 7 2015,Fenerbahce,0-0,0-0,Trabzonspor
+Sat Feb 7 2015,Sivasspor,2-0,0-0,Akhisar Belediyespor
+Sun Feb 8 2015,Balikesirspor,0-1,0-0,Konyaspor
+Sun Feb 8 2015,Bursaspor,3-1,0-1,Genclerbirligi
+Sun Feb 8 2015,Mersin Idman Yurdu,6-2,1-0,Kasimpasa
+Sun Feb 8 2015,Rizespor,1-2,0-0,Besiktas
+Mon Feb 9 2015,Eskisehirspor,1-2,1-1,Galatasaray
+Sat Feb 14 2015,Akhisar Belediyespor,1-0,0-0,Erciyesspor
+Sat Feb 14 2015,Gaziantepspor,0-5,0-1,Fenerbahce
+Sat Feb 14 2015,Karabukspor,0-0,0-0,Kasimpasa
+Sun Feb 15 2015,Besiktas,3-2,1-1,Bursaspor
+Sun Feb 15 2015,Konyaspor,0-1,0-0,Sivasspor
+Sun Feb 15 2015,Rizespor,0-4,0-1,Mersin Idman Yurdu
+Sun Feb 15 2015,Trabzonspor,3-2,2-2,Buyuksehyr
+Mon Feb 16 2015,Galatasaray,3-1,3-0,Balikesirspor
+Mon Feb 16 2015,Genclerbirligi,1-2,1-1,Eskisehirspor
+Fri Feb 20 2015,Erciyesspor,3-0,3-0,Konyaspor
+Sat Feb 21 2015,Bursaspor,1-1,1-0,Rizespor
+Sat Feb 21 2015,Buyuksehyr,1-0,1-0,Gaziantepspor
+Sat Feb 21 2015,Sivasspor,2-3,1-1,Galatasaray
+Sun Feb 22 2015,Balikesirspor,0-1,0-0,Genclerbirligi
+Sun Feb 22 2015,Eskisehirspor,1-0,1-0,Besiktas
+Sun Feb 22 2015,Kasimpasa,1-1,0-1,Trabzonspor
+Sun Feb 22 2015,Mersin Idman Yurdu,2-1,1-1,Karabukspor
+Mon Feb 23 2015,Fenerbahce,1-2,1-1,Akhisar Belediyespor
+Fri Feb 27 2015,Galatasaray,3-1,1-1,Erciyesspor
+Sat Feb 28 2015,Genclerbirligi,0-0,0-0,Sivasspor
+Sat Feb 28 2015,Konyaspor,1-1,1-0,Fenerbahce
+Sat Feb 28 2015,Rizespor,3-0,2-0,Eskisehirspor
+Sun Mar 1 2015,Akhisar Belediyespor,0-2,0-0,Buyuksehyr
+Sun Mar 1 2015,Besiktas,2-2,1-0,Balikesirspor
+Sun Mar 1 2015,Bursaspor,2-1,0-1,Mersin Idman Yurdu
+Sun Mar 1 2015,Gaziantepspor,0-2,0-1,Kasimpasa
+Mon Mar 2 2015,Trabzonspor,3-2,1-2,Karabukspor
+Fri Mar 6 2015,Kasimpasa,2-2,1-0,Akhisar Belediyespor
+Sat Mar 7 2015,Balikesirspor,2-2,1-0,Rizespor
+Sat Mar 7 2015,Erciyesspor,2-4,0-2,Genclerbirligi
+Sat Mar 7 2015,Eskisehirspor,0-0,0-0,Bursaspor
+Sun Mar 8 2015,Buyuksehyr,0-0,0-0,Konyaspor
+Sun Mar 8 2015,Fenerbahce,1-0,0-0,Galatasaray
+Sun Mar 8 2015,Karabukspor,0-0,0-0,Gaziantepspor
+Sun Mar 8 2015,Sivasspor,0-1,0-1,Besiktas
+Mon Mar 9 2015,Mersin Idman Yurdu,1-5,0-2,Trabzonspor
+Fri Mar 13 2015,Bursaspor,4-2,2-2,Balikesirspor
+Fri Mar 13 2015,Konyaspor,2-1,2-1,Kasimpasa
+Sat Mar 14 2015,Akhisar Belediyespor,5-1,2-0,Karabukspor
+Sat Mar 14 2015,Galatasaray,2-2,1-0,Buyuksehyr
+Sat Mar 14 2015,Rizespor,2-1,0-0,Sivasspor
+Sun Mar 15 2015,Besiktas,5-1,3-0,Erciyesspor
+Sun Mar 15 2015,Eskisehirspor,2-0,2-0,Mersin Idman Yurdu
+Sun Mar 15 2015,Genclerbirligi,2-1,1-0,Fenerbahce
+Mon Mar 16 2015,Gaziantepspor,2-0,1-0,Trabzonspor
+Fri Mar 20 2015,Balikesirspor,4-1,2-1,Eskisehirspor
+Fri Mar 20 2015,Karabukspor,0-1,0-0,Konyaspor
+Sat Mar 21 2015,Erciyesspor,0-3,0-2,Rizespor
+Sat Mar 21 2015,Kasimpasa,2-3,2-0,Galatasaray
+Sat Mar 21 2015,Mersin Idman Yurdu,0-1,0-1,Gaziantepspor
+Sat Mar 21 2015,Sivasspor,4-1,4-0,Bursaspor
+Sun Mar 22 2015,Buyuksehyr,3-1,0-0,Genclerbirligi
+Sun Mar 22 2015,Fenerbahce,1-0,0-0,Besiktas
+Sun Mar 22 2015,Trabzonspor,2-0,1-0,Akhisar Belediyespor
+Sat Apr 4 2015,Balikesirspor,1-3,0-1,Mersin Idman Yurdu
+Sat Apr 4 2015,Eskisehirspor,1-3,1-0,Sivasspor
+Sat Apr 4 2015,Genclerbirligi,5-2,2-1,Kasimpasa
+Sat Apr 4 2015,Rizespor,1-5,0-3,Fenerbahce
+Sun Apr 5 2015,Akhisar Belediyespor,3-0,1-0,Gaziantepspor
+Sun Apr 5 2015,Bursaspor,3-0,2-0,Erciyesspor
+Sun Apr 5 2015,Galatasaray,4-2,1-0,Karabukspor
+Sun Apr 5 2015,Konyaspor,1-0,0-0,Trabzonspor
+Mon Apr 6 2015,Besiktas,0-0,0-0,Buyuksehyr
+Fri Apr 17 2015,Gaziantepspor,1-1,1-0,Konyaspor
+Sat Apr 18 2015,Karabukspor,2-1,1-1,Genclerbirligi
+Sat Apr 18 2015,Kasimpasa,1-5,1-2,Besiktas
+Sun Apr 19 2015,Buyuksehyr,3-1,1-0,Rizespor
+Sun Apr 19 2015,Erciyesspor,0-1,0-1,Eskisehirspor
+Sun Apr 19 2015,Sivasspor,1-1,0-0,Balikesirspor
+Sun Apr 19 2015,Trabzonspor,2-1,1-0,Galatasaray
+Mon Apr 20 2015,Fenerbahce,1-0,0-0,Bursaspor
+Mon Apr 20 2015,Mersin Idman Yurdu,1-1,0-0,Akhisar Belediyespor
+Fri Apr 24 2015,Sivasspor,1-2,0-0,Mersin Idman Yurdu
+Sat Apr 25 2015,Bursaspor,4-1,0-1,Buyuksehyr
+Sat Apr 25 2015,Eskisehirspor,1-1,0-1,Fenerbahce
+Sat Apr 25 2015,Rizespor,1-3,0-1,Kasimpasa
+Sun Apr 26 2015,Balikesirspor,1-1,1-0,Erciyesspor
+Sun Apr 26 2015,Galatasaray,1-0,0-0,Gaziantepspor
+Sun Apr 26 2015,Genclerbirligi,1-1,0-0,Trabzonspor
+Sun Apr 26 2015,Konyaspor,2-1,1-1,Akhisar Belediyespor
+Mon Apr 27 2015,Besiktas,2-1,1-0,Karabukspor
+Sat May 2 2015,Buyuksehyr,1-1,0-0,Eskisehirspor
+Sat May 2 2015,Fenerbahce,4-3,3-3,Balikesirspor
+Sat May 2 2015,Karabukspor,2-0,0-0,Rizespor
+Sat May 2 2015,Mersin Idman Yurdu,3-1,3-1,Konyaspor
+Sun May 3 2015,Gaziantepspor,0-3,0-0,Genclerbirligi
+Sun May 3 2015,Kasimpasa,5-3,2-2,Bursaspor
+Sun May 3 2015,Trabzonspor,0-2,0-0,Besiktas
+Mon May 4 2015,Akhisar Belediyespor,0-2,0-2,Galatasaray
+Mon May 4 2015,Erciyesspor,2-3,2-0,Sivasspor
+Fri May 8 2015,Erciyesspor,2-2,1-0,Mersin Idman Yurdu
+Fri May 8 2015,Eskisehirspor,4-1,3-0,Kasimpasa
+Fri May 8 2015,Galatasaray,1-0,0-0,Konyaspor
+Sat May 9 2015,Balikesirspor,1-2,0-1,Buyuksehyr
+Sat May 9 2015,Bursaspor,7-1,2-1,Karabukspor
+Sat May 9 2015,Genclerbirligi,0-0,0-0,Akhisar Belediyespor
+Sat May 9 2015,Sivasspor,2-3,2-1,Fenerbahce
+Sun May 10 2015,Besiktas,1-1,1-1,Gaziantepspor
+Sun May 10 2015,Rizespor,0-2,0-1,Trabzonspor
+Tue May 12 2015,Buyuksehyr,2-1,0-1,Sivasspor
+Tue May 12 2015,Karabukspor,2-2,1-0,Eskisehirspor
+Tue May 12 2015,Kasimpasa,2-3,1-1,Balikesirspor
+Tue May 12 2015,Konyaspor,1-0,0-0,Genclerbirligi
+Tue May 12 2015,Mersin Idman Yurdu,0-1,0-1,Galatasaray
+Wed May 13 2015,Fenerbahce,1-1,1-1,Erciyesspor
+Wed May 13 2015,Gaziantepspor,1-2,0-1,Rizespor
+Wed May 13 2015,Trabzonspor,1-0,0-0,Bursaspor
+Thu May 14 2015,Akhisar Belediyespor,1-1,1-0,Besiktas
+Sat May 16 2015,Balikesirspor,4-2,2-1,Karabukspor
+Sat May 16 2015,Galatasaray,1-0,0-0,Genclerbirligi
+Sat May 16 2015,Sivasspor,1-1,0-0,Kasimpasa
+Sun May 17 2015,Bursaspor,2-0,1-0,Gaziantepspor
+Sun May 17 2015,Erciyesspor,0-1,0-0,Buyuksehyr
+Sun May 17 2015,Eskisehirspor,2-0,2-0,Trabzonspor
+Sun May 17 2015,Mersin Idman Yurdu,0-1,0-0,Fenerbahce
+Mon May 18 2015,Besiktas,0-1,0-0,Konyaspor
+Mon May 18 2015,Rizespor,3-1,1-0,Akhisar Belediyespor
+Fri May 22 2015,Genclerbirligi,1-2,1-0,Mersin Idman Yurdu
+Sat May 23 2015,Kasimpasa,3-3,1-1,Erciyesspor
+Sat May 23 2015,Konyaspor,1-1,0-1,Rizespor
+Sat May 23 2015,Trabzonspor,3-2,1-1,Balikesirspor
+Sun May 24 2015,Galatasaray,2-0,1-0,Besiktas
+Sun May 24 2015,Gaziantepspor,3-2,2-0,Eskisehirspor
+Sun May 24 2015,Karabukspor,2-1,0-1,Sivasspor
+Mon May 25 2015,Akhisar Belediyespor,0-1,0-0,Bursaspor
+Mon May 25 2015,Buyuksehyr,2-2,0-0,Fenerbahce
+Fri May 29 2015,Balikesirspor,1-1,1-1,Gaziantepspor
+Fri May 29 2015,Besiktas,2-1,1-0,Genclerbirligi
+Fri May 29 2015,Erciyesspor,4-3,1-2,Karabukspor
+Fri May 29 2015,Eskisehirspor,1-3,0-1,Akhisar Belediyespor
+Sat May 30 2015,Bursaspor,0-0,0-0,Konyaspor
+Sat May 30 2015,Fenerbahce,2-0,0-0,Kasimpasa
+Sat May 30 2015,Mersin Idman Yurdu,2-2,0-0,Buyuksehyr
+Sat May 30 2015,Rizespor,1-1,0-0,Galatasaray
+Sat May 30 2015,Sivasspor,1-1,1-1,Trabzonspor

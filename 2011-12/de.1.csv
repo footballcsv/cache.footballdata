@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 5 2011,Dortmund,3-1,2-0,Hamburg
+Sat Aug 6 2011,Augsburg,2-2,0-0,Freiburg
+Sat Aug 6 2011,FC Koln,0-3,0-1,Wolfsburg
+Sat Aug 6 2011,Hannover,2-1,2-1,Hoffenheim
+Sat Aug 6 2011,Hertha,0-1,0-0,Nurnberg
+Sat Aug 6 2011,Stuttgart,3-0,1-0,Schalke 04
+Sat Aug 6 2011,Werder Bremen,2-0,0-0,Kaiserslautern
+Sun Aug 7 2011,Bayern Munich,0-1,0-0,M'gladbach
+Sun Aug 7 2011,Mainz,2-0,1-0,Leverkusen
+Sat Aug 13 2011,Freiburg,1-2,0-0,Mainz
+Sat Aug 13 2011,Hamburg,2-2,1-1,Hertha
+Sat Aug 13 2011,Hoffenheim,1-0,1-0,Dortmund
+Sat Aug 13 2011,M'gladbach,1-1,0-0,Stuttgart
+Sat Aug 13 2011,Nurnberg,1-2,0-2,Hannover
+Sat Aug 13 2011,Schalke 04,5-1,1-1,FC Koln
+Sat Aug 13 2011,Wolfsburg,0-1,0-0,Bayern Munich
+Sun Aug 14 2011,Kaiserslautern,1-1,0-1,Augsburg
+Sun Aug 14 2011,Leverkusen,1-0,0-0,Werder Bremen
+Fri Aug 19 2011,M'gladbach,4-1,3-1,Wolfsburg
+Sat Aug 20 2011,Augsburg,0-2,0-1,Hoffenheim
+Sat Aug 20 2011,Bayern Munich,5-0,3-0,Hamburg
+Sat Aug 20 2011,Dortmund,2-0,0-0,Nurnberg
+Sat Aug 20 2011,FC Koln,1-1,1-1,Kaiserslautern
+Sat Aug 20 2011,Stuttgart,0-1,0-1,Leverkusen
+Sat Aug 20 2011,Werder Bremen,5-3,2-1,Freiburg
+Sun Aug 21 2011,Hannover,1-1,1-0,Hertha
+Sun Aug 21 2011,Mainz,2-4,2-0,Schalke 04
+Fri Aug 26 2011,Hertha,1-0,0-0,Stuttgart
+Sat Aug 27 2011,Freiburg,3-0,2-0,Wolfsburg
+Sat Aug 27 2011,Hamburg,3-4,1-1,FC Koln
+Sat Aug 27 2011,Hoffenheim,1-2,1-1,Werder Bremen
+Sat Aug 27 2011,Kaiserslautern,0-3,0-1,Bayern Munich
+Sat Aug 27 2011,Leverkusen,0-0,0-0,Dortmund
+Sat Aug 27 2011,Nurnberg,1-0,0-0,Augsburg
+Sun Aug 28 2011,Hannover,1-1,1-1,Mainz
+Sun Aug 28 2011,Schalke 04,1-0,0-0,M'gladbach
+Fri Sep 9 2011,Augsburg,1-4,1-2,Leverkusen
+Sat Sep 10 2011,Bayern Munich,7-0,3-0,Freiburg
+Sat Sep 10 2011,Dortmund,1-2,0-0,Hertha
+Sat Sep 10 2011,Mainz,0-4,0-2,Hoffenheim
+Sat Sep 10 2011,M'gladbach,1-0,0-0,Kaiserslautern
+Sat Sep 10 2011,Stuttgart,3-0,1-0,Hannover
+Sat Sep 10 2011,Werder Bremen,2-0,0-0,Hamburg
+Sun Sep 11 2011,FC Koln,1-2,1-2,Nurnberg
+Sun Sep 11 2011,Wolfsburg,2-1,1-1,Schalke 04
+Fri Sep 16 2011,Freiburg,1-2,0-1,Stuttgart
+Sat Sep 17 2011,Hamburg,0-1,0-0,M'gladbach
+Sat Sep 17 2011,Hertha,2-2,0-1,Augsburg
+Sat Sep 17 2011,Hoffenheim,3-1,2-0,Wolfsburg
+Sat Sep 17 2011,Kaiserslautern,3-1,1-1,Mainz
+Sat Sep 17 2011,Leverkusen,1-4,0-1,FC Koln
+Sat Sep 17 2011,Nurnberg,1-1,0-1,Werder Bremen
+Sun Sep 18 2011,Hannover,2-1,0-0,Dortmund
+Sun Sep 18 2011,Schalke 04,0-2,0-1,Bayern Munich
+Fri Sep 23 2011,Stuttgart,1-2,1-0,Hamburg
+Sat Sep 24 2011,Augsburg,0-0,0-0,Hannover
+Sat Sep 24 2011,Bayern Munich,3-0,2-0,Leverkusen
+Sat Sep 24 2011,Mainz,1-2,1-0,Dortmund
+Sat Sep 24 2011,M'gladbach,1-0,0-0,Nurnberg
+Sat Sep 24 2011,Schalke 04,4-2,1-1,Freiburg
+Sat Sep 24 2011,Wolfsburg,1-0,0-0,Kaiserslautern
+Sun Sep 25 2011,FC Koln,2-0,1-0,Hoffenheim
+Sun Sep 25 2011,Werder Bremen,2-1,1-1,Hertha
+Fri Sep 30 2011,Kaiserslautern,0-2,0-0,Stuttgart
+Sat Oct 1 2011,Dortmund,4-0,2-0,Augsburg
+Sat Oct 1 2011,Freiburg,1-0,1-0,M'gladbach
+Sat Oct 1 2011,Hertha,3-0,3-0,FC Koln
+Sat Oct 1 2011,Hoffenheim,0-0,0-0,Bayern Munich
+Sat Oct 1 2011,Leverkusen,3-1,1-0,Wolfsburg
+Sat Oct 1 2011,Nurnberg,3-3,2-2,Mainz
+Sun Oct 2 2011,Hamburg,1-2,1-1,Schalke 04
+Sun Oct 2 2011,Hannover,3-2,2-1,Werder Bremen
+Fri Oct 14 2011,Werder Bremen,0-2,0-1,Dortmund
+Sat Oct 15 2011,Bayern Munich,4-0,3-0,Hertha
+Sat Oct 15 2011,Mainz,0-1,0-0,Augsburg
+Sat Oct 15 2011,M'gladbach,2-2,0-1,Leverkusen
+Sat Oct 15 2011,Schalke 04,1-2,0-1,Kaiserslautern
+Sat Oct 15 2011,Stuttgart,2-0,0-0,Hoffenheim
+Sat Oct 15 2011,Wolfsburg,2-1,1-0,Nurnberg
+Sun Oct 16 2011,FC Koln,2-0,1-0,Hannover
+Sun Oct 16 2011,Freiburg,1-2,0-1,Hamburg
+Fri Oct 21 2011,Augsburg,1-1,0-0,Werder Bremen
+Sat Oct 22 2011,Dortmund,5-0,3-0,FC Koln
+Sat Oct 22 2011,Hamburg,1-1,0-1,Wolfsburg
+Sat Oct 22 2011,Hertha,0-0,0-0,Mainz
+Sat Oct 22 2011,Hoffenheim,1-0,0-0,M'gladbach
+Sat Oct 22 2011,Kaiserslautern,1-0,0-0,Freiburg
+Sat Oct 22 2011,Nurnberg,2-2,1-0,Stuttgart
+Sun Oct 23 2011,Hannover,2-1,1-0,Bayern Munich
+Sun Oct 23 2011,Leverkusen,0-1,0-0,Schalke 04
+Fri Oct 28 2011,Freiburg,0-1,0-1,Leverkusen
+Sat Oct 29 2011,Bayern Munich,4-0,3-0,Nurnberg
+Sat Oct 29 2011,Mainz,1-3,1-1,Werder Bremen
+Sat Oct 29 2011,M'gladbach,2-1,1-1,Hannover
+Sat Oct 29 2011,Schalke 04,3-1,1-0,Hoffenheim
+Sat Oct 29 2011,Stuttgart,1-1,1-1,Dortmund
+Sat Oct 29 2011,Wolfsburg,2-3,1-2,Hertha
+Sun Oct 30 2011,FC Koln,3-0,2-0,Augsburg
+Sun Oct 30 2011,Hamburg,1-1,0-1,Kaiserslautern
+Fri Nov 4 2011,Mainz,3-1,0-0,Stuttgart
+Sat Nov 5 2011,Dortmund,5-1,2-0,Wolfsburg
+Sat Nov 5 2011,Hertha,1-2,1-1,M'gladbach
+Sat Nov 5 2011,Hoffenheim,1-1,1-0,Kaiserslautern
+Sat Nov 5 2011,Leverkusen,2-2,2-1,Hamburg
+Sat Nov 5 2011,Nurnberg,1-2,1-1,Freiburg
+Sat Nov 5 2011,Werder Bremen,3-2,0-2,FC Koln
+Sun Nov 6 2011,Augsburg,1-2,0-2,Bayern Munich
+Sun Nov 6 2011,Hannover,2-2,1-1,Schalke 04
+Fri Nov 18 2011,Kaiserslautern,0-2,0-0,Leverkusen
+Sat Nov 19 2011,Bayern Munich,0-1,0-0,Dortmund
+Sat Nov 19 2011,Freiburg,2-2,0-2,Hertha
+Sat Nov 19 2011,M'gladbach,5-0,3-0,Werder Bremen
+Sat Nov 19 2011,Schalke 04,4-0,2-0,Nurnberg
+Sat Nov 19 2011,Wolfsburg,4-1,2-1,Hannover
+Sun Nov 20 2011,Hamburg,2-0,1-0,Hoffenheim
+Sun Nov 20 2011,Stuttgart,2-1,1-0,Augsburg
+Fri Nov 25 2011,FC Koln,0-3,0-2,M'gladbach
+Sat Nov 26 2011,Augsburg,2-0,0-0,Wolfsburg
+Sat Nov 26 2011,Dortmund,2-0,1-0,Schalke 04
+Sat Nov 26 2011,Hannover,1-1,0-0,Hamburg
+Sat Nov 26 2011,Hertha,3-3,2-1,Leverkusen
+Sat Nov 26 2011,Hoffenheim,1-1,1-0,Freiburg
+Sat Nov 26 2011,Nurnberg,1-0,1-0,Kaiserslautern
+Sun Nov 27 2011,Mainz,3-2,1-0,Bayern Munich
+Sun Nov 27 2011,Werder Bremen,2-0,0-0,Stuttgart
+Fri Dec 2 2011,Leverkusen,2-0,1-0,Hoffenheim
+Sat Dec 3 2011,Bayern Munich,4-1,1-0,Werder Bremen
+Sat Dec 3 2011,Freiburg,1-1,0-1,Hannover
+Sat Dec 3 2011,Kaiserslautern,1-1,1-1,Hertha
+Sat Dec 3 2011,M'gladbach,1-1,0-1,Dortmund
+Sat Dec 3 2011,Stuttgart,2-2,2-1,FC Koln
+Sat Dec 3 2011,Wolfsburg,2-2,2-0,Mainz
+Sun Dec 4 2011,Hamburg,2-0,1-0,Nurnberg
+Sun Dec 4 2011,Schalke 04,3-1,1-0,Augsburg
+Fri Dec 9 2011,Hertha,1-2,1-2,Schalke 04
+Sat Dec 10 2011,Augsburg,1-0,0-0,M'gladbach
+Sat Dec 10 2011,FC Koln,4-0,1-0,Freiburg
+Sat Dec 10 2011,Hannover,0-0,0-0,Leverkusen
+Sat Dec 10 2011,Mainz,0-0,0-0,Hamburg
+Sat Dec 10 2011,Nurnberg,0-2,0-1,Hoffenheim
+Sat Dec 10 2011,Werder Bremen,4-1,2-0,Wolfsburg
+Sun Dec 11 2011,Dortmund,1-1,1-0,Kaiserslautern
+Sun Dec 11 2011,Stuttgart,1-2,1-1,Bayern Munich
+Tue Dec 13 2011,FC Koln,1-1,0-0,Mainz
+Fri Dec 16 2011,Bayern Munich,3-0,0-0,FC Koln
+Sat Dec 17 2011,Freiburg,1-4,1-2,Dortmund
+Sat Dec 17 2011,Hamburg,1-1,0-0,Augsburg
+Sat Dec 17 2011,Hoffenheim,1-1,1-0,Hertha
+Sat Dec 17 2011,Leverkusen,0-3,0-2,Nurnberg
+Sat Dec 17 2011,Schalke 04,5-0,2-0,Werder Bremen
+Sat Dec 17 2011,Wolfsburg,1-0,0-0,Stuttgart
+Sun Dec 18 2011,Kaiserslautern,1-1,0-1,Hannover
+Sun Dec 18 2011,M'gladbach,1-0,1-0,Mainz
+Fri Jan 20 2012,M'gladbach,3-1,2-0,Bayern Munich
+Sat Jan 21 2012,Freiburg,1-0,0-0,Augsburg
+Sat Jan 21 2012,Hoffenheim,0-0,0-0,Hannover
+Sat Jan 21 2012,Kaiserslautern,0-0,0-0,Werder Bremen
+Sat Jan 21 2012,Nurnberg,2-0,1-0,Hertha
+Sat Jan 21 2012,Schalke 04,3-1,1-0,Stuttgart
+Sat Jan 21 2012,Wolfsburg,1-0,0-0,FC Koln
+Sun Jan 22 2012,Hamburg,1-5,0-2,Dortmund
+Sun Jan 22 2012,Leverkusen,3-2,2-0,Mainz
+Fri Jan 27 2012,Hannover,1-0,1-0,Nurnberg
+Sat Jan 28 2012,Augsburg,2-2,1-1,Kaiserslautern
+Sat Jan 28 2012,Bayern Munich,2-0,0-0,Wolfsburg
+Sat Jan 28 2012,Dortmund,3-1,2-0,Hoffenheim
+Sat Jan 28 2012,FC Koln,1-4,1-0,Schalke 04
+Sat Jan 28 2012,Hertha,1-2,0-2,Hamburg
+Sat Jan 28 2012,Werder Bremen,1-1,1-0,Leverkusen
+Sun Jan 29 2012,Mainz,3-1,3-0,Freiburg
+Sun Jan 29 2012,Stuttgart,0-3,0-1,M'gladbach
+Fri Feb 3 2012,Nurnberg,0-2,0-0,Dortmund
+Sat Feb 4 2012,Hamburg,1-1,1-0,Bayern Munich
+Sat Feb 4 2012,Hertha,0-1,0-0,Hannover
+Sat Feb 4 2012,Hoffenheim,2-2,1-1,Augsburg
+Sat Feb 4 2012,Leverkusen,2-2,1-1,Stuttgart
+Sat Feb 4 2012,Schalke 04,1-1,0-1,Mainz
+Sat Feb 4 2012,Wolfsburg,0-0,0-0,M'gladbach
+Sun Feb 5 2012,Freiburg,2-2,1-1,Werder Bremen
+Sun Feb 5 2012,Kaiserslautern,0-1,0-0,FC Koln
+Fri Feb 10 2012,Wolfsburg,3-2,2-2,Freiburg
+Sat Feb 11 2012,Bayern Munich,2-0,2-0,Kaiserslautern
+Sat Feb 11 2012,Dortmund,1-0,1-0,Leverkusen
+Sat Feb 11 2012,Mainz,1-1,1-0,Hannover
+Sat Feb 11 2012,M'gladbach,3-0,3-0,Schalke 04
+Sat Feb 11 2012,Stuttgart,5-0,4-0,Hertha
+Sat Feb 11 2012,Werder Bremen,1-1,0-1,Hoffenheim
+Sun Feb 12 2012,Augsburg,0-0,0-0,Nurnberg
+Sun Feb 12 2012,FC Koln,0-1,0-0,Hamburg
+Fri Feb 17 2012,Hoffenheim,1-1,1-1,Mainz
+Sat Feb 18 2012,Freiburg,0-0,0-0,Bayern Munich
+Sat Feb 18 2012,Hamburg,1-3,0-2,Werder Bremen
+Sat Feb 18 2012,Hertha,0-1,0-0,Dortmund
+Sat Feb 18 2012,Kaiserslautern,1-2,0-2,M'gladbach
+Sat Feb 18 2012,Leverkusen,4-1,1-0,Augsburg
+Sat Feb 18 2012,Nurnberg,2-1,1-0,FC Koln
+Sun Feb 19 2012,Hannover,4-2,2-0,Stuttgart
+Sun Feb 19 2012,Schalke 04,4-0,2-0,Wolfsburg
+Fri Feb 24 2012,M'gladbach,1-1,1-0,Hamburg
+Sat Feb 25 2012,Augsburg,3-0,0-0,Hertha
+Sat Feb 25 2012,FC Koln,0-2,0-1,Leverkusen
+Sat Feb 25 2012,Mainz,4-0,3-0,Kaiserslautern
+Sat Feb 25 2012,Stuttgart,4-1,2-1,Freiburg
+Sat Feb 25 2012,Werder Bremen,0-1,0-0,Nurnberg
+Sat Feb 25 2012,Wolfsburg,1-2,0-1,Hoffenheim
+Sun Feb 26 2012,Bayern Munich,2-0,1-0,Schalke 04
+Sun Feb 26 2012,Dortmund,3-1,1-0,Hannover
+Sat Mar 3 2012,Dortmund,2-1,1-0,Mainz
+Sat Mar 3 2012,Freiburg,2-1,1-0,Schalke 04
+Sat Mar 3 2012,Hamburg,0-4,0-2,Stuttgart
+Sat Mar 3 2012,Hannover,2-2,1-1,Augsburg
+Sat Mar 3 2012,Hertha,1-0,0-0,Werder Bremen
+Sat Mar 3 2012,Kaiserslautern,0-0,0-0,Wolfsburg
+Sat Mar 3 2012,Leverkusen,2-0,0-0,Bayern Munich
+Sun Mar 4 2012,Hoffenheim,1-1,1-0,FC Koln
+Sun Mar 4 2012,Nurnberg,1-0,0-0,M'gladbach
+Fri Mar 9 2012,Stuttgart,0-0,0-0,Kaiserslautern
+Sat Mar 10 2012,Augsburg,0-0,0-0,Dortmund
+Sat Mar 10 2012,Bayern Munich,7-1,5-0,Hoffenheim
+Sat Mar 10 2012,FC Koln,1-0,1-0,Hertha
+Sat Mar 10 2012,Mainz,2-1,2-0,Nurnberg
+Sat Mar 10 2012,M'gladbach,0-0,0-0,Freiburg
+Sat Mar 10 2012,Wolfsburg,3-2,2-1,Leverkusen
+Sun Mar 11 2012,Schalke 04,3-1,3-1,Hamburg
+Sun Mar 11 2012,Werder Bremen,3-0,1-0,Hannover
+Fri Mar 16 2012,Hoffenheim,1-2,0-2,Stuttgart
+Sat Mar 17 2012,Augsburg,2-1,1-1,Mainz
+Sat Mar 17 2012,Dortmund,1-0,1-0,Werder Bremen
+Sat Mar 17 2012,Hamburg,1-3,0-2,Freiburg
+Sat Mar 17 2012,Hertha,0-6,0-3,Bayern Munich
+Sat Mar 17 2012,Leverkusen,1-2,0-1,M'gladbach
+Sat Mar 17 2012,Nurnberg,1-3,1-2,Wolfsburg
+Sun Mar 18 2012,Hannover,4-1,1-1,FC Koln
+Sun Mar 18 2012,Kaiserslautern,1-4,1-2,Schalke 04
+Fri Mar 23 2012,Wolfsburg,2-1,0-0,Hamburg
+Sat Mar 24 2012,Bayern Munich,2-1,1-0,Hannover
+Sat Mar 24 2012,Freiburg,2-0,2-0,Kaiserslautern
+Sat Mar 24 2012,Mainz,1-3,0-1,Hertha
+Sat Mar 24 2012,M'gladbach,1-2,1-0,Hoffenheim
+Sat Mar 24 2012,Schalke 04,2-0,1-0,Leverkusen
+Sat Mar 24 2012,Werder Bremen,1-1,0-0,Augsburg
+Sun Mar 25 2012,FC Koln,1-6,1-1,Dortmund
+Sun Mar 25 2012,Stuttgart,1-0,0-0,Nurnberg
+Fri Mar 30 2012,Dortmund,4-4,1-0,Stuttgart
+Sat Mar 31 2012,Augsburg,2-1,2-1,FC Koln
+Sat Mar 31 2012,Hertha,1-4,1-2,Wolfsburg
+Sat Mar 31 2012,Kaiserslautern,0-1,0-1,Hamburg
+Sat Mar 31 2012,Leverkusen,0-2,0-1,Freiburg
+Sat Mar 31 2012,Nurnberg,0-1,0-0,Bayern Munich
+Sat Mar 31 2012,Werder Bremen,0-3,0-1,Mainz
+Sun Apr 1 2012,Hannover,2-1,0-0,M'gladbach
+Sun Apr 1 2012,Hoffenheim,1-1,1-0,Schalke 04
+Sat Apr 7 2012,Bayern Munich,2-1,1-1,Augsburg
+Sat Apr 7 2012,FC Koln,1-1,1-1,Werder Bremen
+Sat Apr 7 2012,Freiburg,2-2,0-2,Nurnberg
+Sat Apr 7 2012,Kaiserslautern,1-2,0-1,Hoffenheim
+Sat Apr 7 2012,M'gladbach,0-0,0-0,Hertha
+Sat Apr 7 2012,Stuttgart,4-1,1-1,Mainz
+Sat Apr 7 2012,Wolfsburg,1-3,0-1,Dortmund
+Sun Apr 8 2012,Hamburg,1-1,1-0,Leverkusen
+Sun Apr 8 2012,Schalke 04,3-0,1-0,Hannover
+Tue Apr 10 2012,Augsburg,1-3,1-2,Stuttgart
+Tue Apr 10 2012,Hertha,1-2,0-1,Freiburg
+Tue Apr 10 2012,Mainz,4-0,3-0,FC Koln
+Tue Apr 10 2012,Werder Bremen,2-2,1-0,M'gladbach
+Wed Apr 11 2012,Dortmund,1-0,0-0,Bayern Munich
+Wed Apr 11 2012,Hannover,2-0,1-0,Wolfsburg
+Wed Apr 11 2012,Hoffenheim,4-0,2-0,Hamburg
+Wed Apr 11 2012,Leverkusen,3-1,1-1,Kaiserslautern
+Wed Apr 11 2012,Nurnberg,4-1,3-0,Schalke 04
+Fri Apr 13 2012,Stuttgart,4-1,2-1,Werder Bremen
+Sat Apr 14 2012,Bayern Munich,0-0,0-0,Mainz
+Sat Apr 14 2012,Hamburg,1-0,1-0,Hannover
+Sat Apr 14 2012,Kaiserslautern,0-2,0-1,Nurnberg
+Sat Apr 14 2012,Leverkusen,3-3,1-0,Hertha
+Sat Apr 14 2012,Schalke 04,1-2,1-1,Dortmund
+Sat Apr 14 2012,Wolfsburg,1-2,1-1,Augsburg
+Sun Apr 15 2012,Freiburg,0-0,0-0,Hoffenheim
+Sun Apr 15 2012,M'gladbach,3-0,1-0,FC Koln
+Fri Apr 20 2012,Mainz,0-0,0-0,Wolfsburg
+Sat Apr 21 2012,Dortmund,2-0,1-0,M'gladbach
+Sat Apr 21 2012,FC Koln,1-1,0-0,Stuttgart
+Sat Apr 21 2012,Hertha,1-2,0-2,Kaiserslautern
+Sat Apr 21 2012,Hoffenheim,0-1,0-0,Leverkusen
+Sat Apr 21 2012,Nurnberg,1-1,0-0,Hamburg
+Sat Apr 21 2012,Werder Bremen,1-2,0-0,Bayern Munich
+Sun Apr 22 2012,Augsburg,1-1,1-1,Schalke 04
+Sun Apr 22 2012,Hannover,0-0,0-0,Freiburg
+Sat Apr 28 2012,Bayern Munich,2-0,1-0,Stuttgart
+Sat Apr 28 2012,Freiburg,4-1,1-0,FC Koln
+Sat Apr 28 2012,Hamburg,0-0,0-0,Mainz
+Sat Apr 28 2012,Hoffenheim,2-3,1-2,Nurnberg
+Sat Apr 28 2012,Kaiserslautern,2-5,1-3,Dortmund
+Sat Apr 28 2012,Leverkusen,1-0,0-0,Hannover
+Sat Apr 28 2012,M'gladbach,0-0,0-0,Augsburg
+Sat Apr 28 2012,Schalke 04,4-0,1-0,Hertha
+Sat Apr 28 2012,Wolfsburg,3-1,1-1,Werder Bremen
+Sat May 5 2012,Augsburg,1-0,1-0,Hamburg
+Sat May 5 2012,Dortmund,4-0,4-0,Freiburg
+Sat May 5 2012,FC Koln,1-4,0-1,Bayern Munich
+Sat May 5 2012,Hannover,2-1,1-1,Kaiserslautern
+Sat May 5 2012,Hertha,3-1,1-0,Hoffenheim
+Sat May 5 2012,Mainz,0-3,0-1,M'gladbach
+Sat May 5 2012,Nurnberg,1-4,0-2,Leverkusen
+Sat May 5 2012,Stuttgart,3-2,0-1,Wolfsburg
+Sat May 5 2012,Werder Bremen,2-3,1-1,Schalke 04

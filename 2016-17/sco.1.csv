@@ -1,0 +1,229 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 6 2016,Kilmarnock,1-2,0-1,Motherwell
+Sat Aug 6 2016,Partick,2-0,1-0,Inverness C
+Sat Aug 6 2016,Rangers,1-1,0-1,Hamilton
+Sat Aug 6 2016,Ross County,1-3,0-2,Dundee
+Sun Aug 7 2016,Hearts,1-2,1-1,Celtic
+Sun Aug 7 2016,St Johnstone,0-0,0-0,Aberdeen
+Sat Aug 13 2016,Aberdeen,0-0,0-0,Hearts
+Sat Aug 13 2016,Dundee,1-2,1-2,Rangers
+Sat Aug 13 2016,Hamilton,1-2,1-0,Kilmarnock
+Sat Aug 13 2016,Inverness C,2-3,1-2,Ross County
+Sat Aug 13 2016,Motherwell,1-2,0-0,St Johnstone
+Fri Aug 19 2016,Dundee,1-1,1-1,Hamilton
+Sat Aug 20 2016,Aberdeen,2-1,1-0,Partick
+Sat Aug 20 2016,Hearts,5-1,2-0,Inverness C
+Sat Aug 20 2016,Rangers,2-1,0-1,Motherwell
+Sat Aug 20 2016,Ross County,2-0,1-0,Kilmarnock
+Sat Aug 20 2016,St Johnstone,2-4,0-3,Celtic
+Fri Aug 26 2016,Kilmarnock,1-1,1-0,Rangers
+Sat Aug 27 2016,Celtic,4-1,2-1,Aberdeen
+Sat Aug 27 2016,Hamilton,1-0,0-0,Ross County
+Sat Aug 27 2016,Inverness C,2-1,0-0,St Johnstone
+Sat Aug 27 2016,Motherwell,0-0,0-0,Dundee
+Sat Aug 27 2016,Partick,1-2,0-1,Hearts
+Sat Sep 10 2016,Aberdeen,1-1,0-0,Inverness C
+Sat Sep 10 2016,Celtic,5-1,2-1,Rangers
+Sat Sep 10 2016,Dundee,1-1,1-1,Kilmarnock
+Sat Sep 10 2016,Hearts,3-1,0-0,Hamilton
+Sat Sep 10 2016,Partick,0-2,0-1,St Johnstone
+Sat Sep 10 2016,Ross County,1-1,0-0,Motherwell
+Sat Sep 17 2016,Kilmarnock,2-2,1-1,Partick
+Sat Sep 17 2016,Motherwell,4-2,3-1,Hamilton
+Sat Sep 17 2016,Rangers,0-0,0-0,Ross County
+Sat Sep 17 2016,St Johnstone,1-0,0-0,Hearts
+Sun Sep 18 2016,Dundee,1-3,1-1,Aberdeen
+Sun Sep 18 2016,Inverness C,2-2,1-2,Celtic
+Sat Sep 24 2016,Celtic,6-1,2-1,Kilmarnock
+Sat Sep 24 2016,Hearts,0-0,0-0,Ross County
+Sat Sep 24 2016,Inverness C,3-1,2-0,Dundee
+Sat Sep 24 2016,Partick,1-1,1-0,Motherwell
+Sun Sep 25 2016,Aberdeen,2-1,0-0,Rangers
+Sun Sep 25 2016,Hamilton,1-1,1-0,St Johnstone
+Fri Sep 30 2016,Motherwell,1-3,0-1,Hearts
+Sat Oct 1 2016,Dundee,0-1,0-0,Celtic
+Sat Oct 1 2016,Hamilton,1-1,1-0,Inverness C
+Sat Oct 1 2016,Kilmarnock,0-4,0-1,Aberdeen
+Sat Oct 1 2016,Rangers,2-0,2-0,Partick
+Sat Oct 1 2016,Ross County,0-2,0-1,St Johnstone
+Fri Oct 14 2016,Inverness C,0-1,0-1,Rangers
+Sat Oct 15 2016,Aberdeen,4-0,2-0,Ross County
+Sat Oct 15 2016,Celtic,2-0,1-0,Motherwell
+Sat Oct 15 2016,Hearts,2-0,0-0,Dundee
+Sat Oct 15 2016,Partick,2-2,2-1,Hamilton
+Sat Oct 15 2016,St Johnstone,0-1,0-0,Kilmarnock
+Sat Oct 22 2016,Inverness C,1-1,0-1,Kilmarnock
+Sat Oct 22 2016,Partick,1-1,1-0,Ross County
+Sun Oct 23 2016,St Johnstone,2-1,0-0,Dundee
+Tue Oct 25 2016,Hamilton,1-0,1-0,Aberdeen
+Wed Oct 26 2016,Dundee,0-2,0-1,Partick
+Wed Oct 26 2016,Kilmarnock,2-0,1-0,Hearts
+Wed Oct 26 2016,Motherwell,0-3,0-0,Inverness C
+Wed Oct 26 2016,Rangers,1-1,1-1,St Johnstone
+Wed Oct 26 2016,Ross County,0-4,0-1,Celtic
+Sat Oct 29 2016,Aberdeen,0-1,0-1,Celtic
+Sat Oct 29 2016,Hamilton,0-1,0-0,Dundee
+Sat Oct 29 2016,Inverness C,3-3,2-1,Hearts
+Sat Oct 29 2016,Motherwell,4-1,2-0,Ross County
+Sat Oct 29 2016,Rangers,3-0,2-0,Kilmarnock
+Sat Oct 29 2016,St Johnstone,1-2,1-1,Partick
+Fri Nov 4 2016,Partick,1-2,0-1,Aberdeen
+Sat Nov 5 2016,Celtic,3-0,0-0,Inverness C
+Sat Nov 5 2016,Dundee,2-0,1-0,Motherwell
+Sat Nov 5 2016,Hearts,2-2,1-1,St Johnstone
+Sat Nov 5 2016,Kilmarnock,0-0,0-0,Hamilton
+Sun Nov 6 2016,Ross County,1-1,1-1,Rangers
+Fri Nov 18 2016,Kilmarnock,0-1,0-1,Celtic
+Sat Nov 19 2016,Inverness C,1-3,1-2,Aberdeen
+Sat Nov 19 2016,Motherwell,2-0,2-0,Partick
+Sat Nov 19 2016,Rangers,1-0,0-0,Dundee
+Sat Nov 19 2016,St Johnstone,2-4,0-2,Ross County
+Mon Nov 21 2016,Hamilton,3-3,1-1,Hearts
+Sat Nov 26 2016,Dundee,2-1,1-0,Inverness C
+Sat Nov 26 2016,Hearts,3-0,1-0,Motherwell
+Sat Nov 26 2016,Partick,1-2,0-0,Rangers
+Sat Nov 26 2016,Ross County,1-1,1-0,Hamilton
+Wed Nov 30 2016,Hearts,2-0,1-0,Rangers
+Sat Dec 3 2016,Hamilton,1-1,1-0,Partick
+Sat Dec 3 2016,Kilmarnock,2-0,1-0,Dundee
+Sat Dec 3 2016,Motherwell,3-4,2-0,Celtic
+Sat Dec 3 2016,Rangers,2-1,0-0,Aberdeen
+Sat Dec 3 2016,Ross County,2-2,1-0,Hearts
+Sat Dec 3 2016,St Johnstone,3-0,1-0,Inverness C
+Tue Dec 6 2016,Aberdeen,5-1,3-0,Kilmarnock
+Fri Dec 9 2016,Partick,1-4,0-1,Celtic
+Sat Dec 10 2016,Aberdeen,0-0,0-0,St Johnstone
+Sat Dec 10 2016,Dundee,0-0,0-0,Ross County
+Sat Dec 10 2016,Inverness C,1-1,0-1,Hamilton
+Sat Dec 10 2016,Motherwell,0-0,0-0,Kilmarnock
+Sat Dec 10 2016,Rangers,2-0,1-0,Hearts
+Tue Dec 13 2016,Celtic,1-0,1-0,Hamilton
+Fri Dec 16 2016,Hamilton,1-2,0-1,Rangers
+Sat Dec 17 2016,Celtic,2-1,1-0,Dundee
+Sat Dec 17 2016,Hearts,1-1,1-0,Partick
+Sat Dec 17 2016,Kilmarnock,1-1,0-0,Inverness C
+Sat Dec 17 2016,Ross County,2-1,1-0,Aberdeen
+Sat Dec 17 2016,St Johnstone,1-1,0-1,Motherwell
+Tue Dec 20 2016,Celtic,1-0,1-0,Partick
+Fri Dec 23 2016,Dundee,3-2,0-1,Hearts
+Fri Dec 23 2016,Kilmarnock,0-1,0-1,St Johnstone
+Fri Dec 23 2016,Motherwell,1-3,1-2,Aberdeen
+Fri Dec 23 2016,Ross County,1-3,0-0,Partick
+Sat Dec 24 2016,Hamilton,0-3,0-1,Celtic
+Sat Dec 24 2016,Rangers,1-0,1-0,Inverness C
+Tue Dec 27 2016,Aberdeen,2-1,1-1,Hamilton
+Tue Dec 27 2016,Hearts,4-0,2-0,Kilmarnock
+Wed Dec 28 2016,Celtic,2-0,2-0,Ross County
+Wed Dec 28 2016,Inverness C,1-2,0-0,Motherwell
+Wed Dec 28 2016,Partick,2-0,2-0,Dundee
+Wed Dec 28 2016,St Johnstone,1-1,1-1,Rangers
+Fri Dec 30 2016,Hearts,0-1,0-0,Aberdeen
+Sat Dec 31 2016,Dundee,3-0,2-0,St Johnstone
+Sat Dec 31 2016,Hamilton,1-1,0-0,Motherwell
+Sat Dec 31 2016,Partick,0-0,0-0,Kilmarnock
+Sat Dec 31 2016,Rangers,1-2,1-1,Celtic
+Sat Dec 31 2016,Ross County,3-2,2-1,Inverness C
+Wed Jan 25 2017,Celtic,1-0,0-0,St Johnstone
+Fri Jan 27 2017,Aberdeen,3-0,2-0,Dundee
+Sat Jan 28 2017,Inverness C,0-0,0-0,Partick
+Sat Jan 28 2017,Kilmarnock,3-2,1-2,Ross County
+Sat Jan 28 2017,Motherwell,0-2,0-0,Rangers
+Sat Jan 28 2017,St Johnstone,3-0,0-0,Hamilton
+Sun Jan 29 2017,Celtic,4-0,1-0,Hearts
+Tue Jan 31 2017,Hamilton,3-0,1-0,Inverness C
+Tue Jan 31 2017,Ross County,1-2,1-1,Motherwell
+Wed Feb 1 2017,Celtic,1-0,0-0,Aberdeen
+Wed Feb 1 2017,Hearts,4-1,1-1,Rangers
+Wed Feb 1 2017,Partick,0-1,0-1,St Johnstone
+Sat Feb 4 2017,Aberdeen,2-0,0-0,Partick
+Sat Feb 4 2017,Hamilton,1-1,1-1,Kilmarnock
+Sat Feb 4 2017,Inverness C,2-2,0-2,Dundee
+Sat Feb 4 2017,Motherwell,0-3,0-0,Hearts
+Sat Feb 4 2017,Rangers,1-1,0-1,Ross County
+Sun Feb 5 2017,St Johnstone,2-5,2-1,Celtic
+Sat Feb 11 2017,Dundee,1-1,1-1,Kilmarnock
+Wed Feb 15 2017,Aberdeen,7-2,4-0,Motherwell
+Sat Feb 18 2017,Celtic,2-0,2-0,Motherwell
+Sat Feb 18 2017,Hearts,1-1,0-1,Inverness C
+Sat Feb 18 2017,Partick,2-0,0-0,Hamilton
+Sat Feb 18 2017,Ross County,1-2,0-1,St Johnstone
+Sun Feb 19 2017,Dundee,2-1,2-0,Rangers
+Sun Feb 19 2017,Kilmarnock,1-2,1-0,Aberdeen
+Fri Feb 24 2017,Inverness C,2-1,1-0,Rangers
+Sat Feb 25 2017,Aberdeen,1-0,0-0,Ross County
+Sat Feb 25 2017,Celtic,2-0,1-0,Hamilton
+Sat Feb 25 2017,Motherwell,1-5,1-5,Dundee
+Sat Feb 25 2017,Partick,2-0,1-0,Hearts
+Sat Feb 25 2017,St Johnstone,0-2,0-1,Kilmarnock
+Tue Feb 28 2017,Hamilton,1-0,1-0,Aberdeen
+Wed Mar 1 2017,Dundee,0-1,0-1,Partick
+Wed Mar 1 2017,Hearts,0-1,0-0,Ross County
+Wed Mar 1 2017,Inverness C,0-4,0-1,Celtic
+Wed Mar 1 2017,Rangers,3-2,1-0,St Johnstone
+Sat Mar 4 2017,Kilmarnock,1-2,1-0,Motherwell
+Sat Mar 11 2017,Aberdeen,1-0,0-0,Motherwell
+Sat Mar 11 2017,Hearts,4-0,1-0,Hamilton
+Sat Mar 11 2017,Partick,1-1,0-0,Inverness C
+Sat Mar 11 2017,Ross County,1-2,0-0,Kilmarnock
+Sat Mar 11 2017,St Johnstone,2-0,2-0,Dundee
+Sun Mar 12 2017,Celtic,1-1,1-0,Rangers
+Sat Mar 18 2017,Aberdeen,2-0,1-0,Hearts
+Sat Mar 18 2017,Inverness C,1-1,0-0,Ross County
+Sat Mar 18 2017,Kilmarnock,1-1,0-0,Partick
+Sat Mar 18 2017,Motherwell,1-2,1-1,St Johnstone
+Sat Mar 18 2017,Rangers,4-0,2-0,Hamilton
+Sun Mar 19 2017,Dundee,1-2,0-1,Celtic
+Fri Mar 31 2017,Dundee,0-7,0-4,Aberdeen
+Sat Apr 1 2017,Hamilton,1-0,0-0,St Johnstone
+Sat Apr 1 2017,Inverness C,1-1,1-1,Kilmarnock
+Sat Apr 1 2017,Partick,2-1,0-0,Ross County
+Sat Apr 1 2017,Rangers,1-1,0-1,Motherwell
+Sun Apr 2 2017,Hearts,0-5,0-2,Celtic
+Tue Apr 4 2017,Aberdeen,1-0,1-0,Inverness C
+Tue Apr 4 2017,Ross County,2-1,1-1,Dundee
+Wed Apr 5 2017,Celtic,1-1,0-0,Partick
+Wed Apr 5 2017,Kilmarnock,0-0,0-0,Rangers
+Wed Apr 5 2017,Motherwell,0-0,0-0,Hamilton
+Wed Apr 5 2017,St Johnstone,1-0,0-0,Hearts
+Sat Apr 8 2017,Celtic,3-1,1-0,Kilmarnock
+Sat Apr 8 2017,Hamilton,1-1,1-0,Ross County
+Sat Apr 8 2017,Hearts,1-0,1-0,Dundee
+Sat Apr 8 2017,Inverness C,0-3,0-1,St Johnstone
+Sat Apr 8 2017,Partick,1-0,1-0,Motherwell
+Sun Apr 9 2017,Aberdeen,0-3,0-0,Rangers
+Fri Apr 14 2017,Kilmarnock,0-0,0-0,Hearts
+Sat Apr 15 2017,Dundee,0-2,0-1,Hamilton
+Sat Apr 15 2017,Motherwell,4-2,2-1,Inverness C
+Sat Apr 15 2017,Rangers,2-0,1-0,Partick
+Sat Apr 15 2017,St Johnstone,1-2,0-2,Aberdeen
+Sun Apr 16 2017,Ross County,2-2,0-1,Celtic
+Fri Apr 28 2017,Ross County,4-0,2-0,Inverness C
+Sat Apr 29 2017,Aberdeen,0-2,0-0,St Johnstone
+Sat Apr 29 2017,Hamilton,0-2,0-2,Kilmarnock
+Sat Apr 29 2017,Hearts,2-2,0-0,Partick
+Sat Apr 29 2017,Motherwell,2-3,0-1,Dundee
+Sat Apr 29 2017,Rangers,1-5,0-2,Celtic
+Sat May 6 2017,Celtic,4-1,0-0,St Johnstone
+Sat May 6 2017,Inverness C,2-1,2-0,Hamilton
+Sat May 6 2017,Kilmarnock,0-1,0-0,Dundee
+Sat May 6 2017,Motherwell,0-1,0-0,Ross County
+Sun May 7 2017,Hearts,1-2,0-1,Aberdeen
+Sun May 7 2017,Partick,1-2,1-0,Rangers
+Fri May 12 2017,Aberdeen,1-3,1-3,Celtic
+Sat May 13 2017,Dundee,1-1,0-1,Ross County
+Sat May 13 2017,Hamilton,0-1,0-0,Motherwell
+Sat May 13 2017,Kilmarnock,2-1,1-0,Inverness C
+Sat May 13 2017,Rangers,2-1,1-0,Hearts
+Sat May 13 2017,St Johnstone,1-0,1-0,Partick
+Tue May 16 2017,Motherwell,3-1,1-1,Kilmarnock
+Tue May 16 2017,Ross County,3-2,1-1,Hamilton
+Wed May 17 2017,Dundee,0-2,0-2,Inverness C
+Wed May 17 2017,Rangers,1-2,0-1,Aberdeen
+Wed May 17 2017,St Johnstone,1-0,1-0,Hearts
+Thu May 18 2017,Partick,0-5,0-3,Celtic
+Sat May 20 2017,Hamilton,4-0,2-0,Dundee
+Sat May 20 2017,Inverness C,3-2,0-0,Motherwell
+Sat May 20 2017,Kilmarnock,1-2,1-1,Ross County
+Sun May 21 2017,Celtic,2-0,0-0,Hearts
+Sun May 21 2017,Partick,0-6,0-5,Aberdeen
+Sun May 21 2017,St Johnstone,1-2,0-1,Rangers

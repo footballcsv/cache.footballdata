@@ -1,0 +1,181 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 13 1994,Aberdeen,3-1,?,Hearts
+Sat Aug 13 1994,Falkirk,1-1,?,Celtic
+Sat Aug 13 1994,Hibernian,5-0,?,Dundee United
+Sat Aug 13 1994,Partick,2-0,?,Kilmarnock
+Sat Aug 13 1994,Rangers,2-1,?,Motherwell
+Sat Aug 20 1994,Aberdeen,2-2,?,Falkirk
+Sat Aug 20 1994,Celtic,2-1,?,Dundee United
+Sat Aug 20 1994,Hibernian,0-0,?,Kilmarnock
+Sat Aug 20 1994,Motherwell,1-1,?,Hearts
+Sat Aug 20 1994,Partick,0-2,?,Rangers
+Sun Aug 28 1994,Dundee United,2-1,?,Aberdeen
+Sun Aug 28 1994,Falkirk,2-1,?,Partick
+Sun Aug 28 1994,Hearts,0-1,?,Hibernian
+Sun Aug 28 1994,Kilmarnock,0-1,?,Motherwell
+Sun Aug 28 1994,Rangers,0-2,?,Celtic
+Sat Sep 10 1994,Dundee United,1-1,?,Motherwell
+Sat Sep 10 1994,Hibernian,2-2,?,Aberdeen
+Sat Sep 10 1994,Kilmarnock,1-1,?,Falkirk
+Sat Sep 10 1994,Partick,1-2,?,Celtic
+Sun Sep 11 1994,Rangers,3-0,?,Hearts
+Sat Sep 17 1994,Aberdeen,1-1,?,Partick
+Sat Sep 17 1994,Celtic,1-1,?,Kilmarnock
+Sat Sep 17 1994,Falkirk,0-2,?,Rangers
+Sat Sep 17 1994,Hearts,2-1,?,Dundee United
+Sat Sep 17 1994,Motherwell,1-1,?,Hibernian
+Sat Sep 24 1994,Aberdeen,2-2,?,Rangers
+Sat Sep 24 1994,Celtic,2-0,?,Hibernian
+Sat Sep 24 1994,Dundee United,1-0,?,Falkirk
+Sat Sep 24 1994,Hearts,3-0,?,Kilmarnock
+Sat Sep 24 1994,Partick,2-2,?,Motherwell
+Sat Oct 1 1994,Falkirk,2-1,?,Hearts
+Sat Oct 1 1994,Hibernian,3-0,?,Partick
+Sat Oct 1 1994,Kilmarnock,2-1,?,Aberdeen
+Sat Oct 1 1994,Motherwell,1-1,?,Celtic
+Sat Oct 1 1994,Rangers,2-0,?,Dundee United
+Sat Oct 8 1994,Celtic,0-0,?,Aberdeen
+Sat Oct 8 1994,Hibernian,2-1,?,Rangers
+Sat Oct 8 1994,Kilmarnock,0-2,?,Dundee United
+Sat Oct 8 1994,Motherwell,5-3,?,Falkirk
+Sat Oct 8 1994,Partick,0-1,?,Hearts
+Sat Oct 15 1994,Aberdeen,1-3,?,Motherwell
+Sat Oct 15 1994,Dundee United,0-1,?,Partick
+Sat Oct 15 1994,Falkirk,0-0,?,Hibernian
+Sat Oct 15 1994,Hearts,1-0,?,Celtic
+Sat Oct 15 1994,Rangers,2-0,?,Kilmarnock
+Sat Oct 22 1994,Celtic,0-2,?,Falkirk
+Sat Oct 22 1994,Dundee United,0-0,?,Hibernian
+Sat Oct 22 1994,Hearts,2-0,?,Aberdeen
+Sat Oct 22 1994,Kilmarnock,2-0,?,Partick
+Sat Oct 22 1994,Motherwell,2-1,?,Rangers
+Sat Oct 29 1994,Aberdeen,3-0,?,Dundee United
+Sat Oct 29 1994,Hibernian,2-1,?,Hearts
+Sat Oct 29 1994,Motherwell,3-2,?,Kilmarnock
+Sat Oct 29 1994,Partick,1-2,?,Falkirk
+Sun Oct 30 1994,Celtic,1-3,?,Rangers
+Sat Nov 5 1994,Dundee United,2-2,?,Celtic
+Sat Nov 5 1994,Falkirk,2-1,?,Aberdeen
+Sat Nov 5 1994,Hearts,1-2,?,Motherwell
+Sat Nov 5 1994,Kilmarnock,0-0,?,Hibernian
+Sat Nov 5 1994,Rangers,3-0,?,Partick
+Tue Nov 8 1994,Falkirk,3-3,?,Kilmarnock
+Tue Nov 8 1994,Motherwell,1-1,?,Dundee United
+Wed Nov 9 1994,Aberdeen,0-0,?,Hibernian
+Wed Nov 9 1994,Celtic,0-0,?,Partick
+Wed Nov 9 1994,Hearts,1-1,?,Rangers
+Sat Nov 19 1994,Dundee United,5-2,?,Hearts
+Sat Nov 19 1994,Hibernian,2-2,?,Motherwell
+Sat Nov 19 1994,Kilmarnock,0-0,?,Celtic
+Sat Nov 19 1994,Partick,2-1,?,Aberdeen
+Sat Nov 19 1994,Rangers,1-1,?,Falkirk
+Fri Nov 25 1994,Rangers,1-0,?,Aberdeen
+Sat Nov 26 1994,Falkirk,1-3,?,Dundee United
+Sat Nov 26 1994,Kilmarnock,3-1,?,Hearts
+Sat Nov 26 1994,Motherwell,3-1,?,Partick
+Sun Nov 27 1994,Hibernian,1-1,?,Celtic
+Sat Dec 3 1994,Aberdeen,0-1,?,Kilmarnock
+Sat Dec 3 1994,Celtic,2-2,?,Motherwell
+Sat Dec 3 1994,Hearts,1-1,?,Falkirk
+Sat Dec 3 1994,Partick,2-2,?,Hibernian
+Sun Dec 4 1994,Dundee United,0-3,?,Rangers
+Sat Dec 10 1994,Hibernian,2-2,?,Falkirk
+Sat Dec 10 1994,Kilmarnock,1-2,?,Rangers
+Sat Dec 10 1994,Motherwell,0-1,?,Aberdeen
+Mon Dec 26 1994,Aberdeen,0-0,?,Celtic
+Mon Dec 26 1994,Dundee United,2-2,?,Kilmarnock
+Mon Dec 26 1994,Falkirk,0-1,?,Motherwell
+Mon Dec 26 1994,Hearts,3-0,?,Partick
+Mon Dec 26 1994,Rangers,2-0,?,Hibernian
+Sat Dec 31 1994,Aberdeen,3-1,?,Hearts
+Sat Dec 31 1994,Celtic,2-0,?,Falkirk
+Sat Dec 31 1994,Hibernian,4-0,?,Dundee United
+Sat Dec 31 1994,Motherwell,1-3,?,Rangers
+Sat Dec 31 1994,Partick,2-2,?,Kilmarnock
+Mon Jan 2 1995,Dundee United,0-0,?,Aberdeen
+Wed Jan 4 1995,Rangers,1-1,?,Celtic
+Sat Jan 7 1995,Aberdeen,0-0,?,Falkirk
+Sat Jan 7 1995,Celtic,1-1,?,Dundee United
+Sat Jan 7 1995,Hibernian,2-1,?,Kilmarnock
+Sat Jan 7 1995,Partick,1-1,?,Rangers
+Sun Jan 8 1995,Motherwell,1-2,?,Hearts
+Wed Jan 11 1995,Celtic,1-1,?,Hearts
+Fri Jan 13 1995,Motherwell,0-0,?,Hibernian
+Sat Jan 14 1995,Aberdeen,3-1,?,Partick
+Sat Jan 14 1995,Celtic,2-1,?,Kilmarnock
+Sat Jan 14 1995,Falkirk,2-3,?,Rangers
+Sat Jan 14 1995,Hearts,2-0,?,Dundee United
+Tue Jan 17 1995,Falkirk,1-3,?,Partick
+Tue Jan 17 1995,Kilmarnock,2-0,?,Motherwell
+Wed Jan 18 1995,Hearts,2-0,?,Hibernian
+Sat Jan 21 1995,Dundee United,6-1,?,Motherwell
+Sat Jan 21 1995,Hibernian,4-2,?,Aberdeen
+Sat Jan 21 1995,Kilmarnock,2-1,?,Falkirk
+Sat Jan 21 1995,Partick,0-0,?,Celtic
+Sat Jan 21 1995,Rangers,1-0,?,Hearts
+Sat Feb 4 1995,Falkirk,2-0,?,Hearts
+Sat Feb 4 1995,Hibernian,1-2,?,Partick
+Sat Feb 4 1995,Kilmarnock,3-1,?,Aberdeen
+Sat Feb 4 1995,Motherwell,1-0,?,Celtic
+Sat Feb 4 1995,Rangers,1-1,?,Dundee United
+Sat Feb 11 1995,Celtic,2-2,?,Hibernian
+Sat Feb 11 1995,Hearts,2-2,?,Kilmarnock
+Sun Feb 12 1995,Aberdeen,2-0,?,Rangers
+Tue Feb 21 1995,Dundee United,1-0,?,Falkirk
+Sat Feb 25 1995,Aberdeen,0-2,?,Motherwell
+Sat Feb 25 1995,Dundee United,2-0,?,Partick
+Sat Feb 25 1995,Falkirk,1-0,?,Hibernian
+Sat Feb 25 1995,Hearts,1-1,?,Celtic
+Sat Feb 25 1995,Rangers,3-0,?,Kilmarnock
+Sat Mar 4 1995,Hibernian,1-1,?,Rangers
+Sat Mar 4 1995,Kilmarnock,2-0,?,Dundee United
+Sun Mar 5 1995,Celtic,2-0,?,Aberdeen
+Tue Mar 7 1995,Motherwell,2-2,?,Falkirk
+Tue Mar 7 1995,Partick,2-0,?,Dundee United
+Fri Mar 10 1995,Partick,2-2,?,Aberdeen
+Fri Mar 10 1995,Rangers,2-2,?,Falkirk
+Wed Mar 15 1995,Partick,0-0,?,Motherwell
+Sat Mar 18 1995,Aberdeen,0-0,?,Hibernian
+Sat Mar 18 1995,Hearts,2-1,?,Rangers
+Sat Mar 18 1995,Motherwell,2-1,?,Dundee United
+Tue Mar 21 1995,Dundee United,1-1,?,Hearts
+Tue Mar 21 1995,Kilmarnock,0-1,?,Celtic
+Wed Mar 22 1995,Hibernian,2-0,?,Motherwell
+Sat Mar 25 1995,Falkirk,2-0,?,Kilmarnock
+Sat Apr 1 1995,Aberdeen,0-1,?,Kilmarnock
+Sat Apr 1 1995,Celtic,1-1,?,Motherwell
+Sat Apr 1 1995,Dundee United,0-2,?,Rangers
+Sat Apr 1 1995,Hearts,0-1,?,Falkirk
+Sat Apr 1 1995,Partick,2-2,?,Hibernian
+Tue Apr 4 1995,Partick,3-1,?,Hearts
+Sat Apr 8 1995,Falkirk,3-1,?,Dundee United
+Sat Apr 8 1995,Motherwell,1-2,?,Partick
+Sat Apr 8 1995,Rangers,3-2,?,Aberdeen
+Sun Apr 9 1995,Kilmarnock,3-2,?,Hearts
+Sat Apr 15 1995,Aberdeen,2-0,?,Celtic
+Sat Apr 15 1995,Dundee United,1-2,?,Kilmarnock
+Sat Apr 15 1995,Falkirk,3-0,?,Motherwell
+Sat Apr 15 1995,Hearts,0-1,?,Partick
+Sun Apr 16 1995,Rangers,3-1,?,Hibernian
+Tue Apr 18 1995,Motherwell,2-1,?,Aberdeen
+Tue Apr 18 1995,Partick,1-3,?,Dundee United
+Wed Apr 19 1995,Celtic,0-1,?,Hearts
+Wed Apr 19 1995,Hibernian,0-2,?,Falkirk
+Thu Apr 20 1995,Kilmarnock,0-1,?,Rangers
+Sat Apr 29 1995,Dundee United,0-1,?,Hibernian
+Sat Apr 29 1995,Falkirk,1-2,?,Celtic
+Sat Apr 29 1995,Hearts,1-2,?,Aberdeen
+Sat Apr 29 1995,Kilmarnock,0-0,?,Partick
+Sat Apr 29 1995,Rangers,0-2,?,Motherwell
+Tue May 2 1995,Celtic,1-3,?,Partick
+Sat May 6 1995,Aberdeen,2-1,?,Dundee United
+Sat May 6 1995,Hibernian,3-1,?,Hearts
+Sat May 6 1995,Motherwell,2-0,?,Kilmarnock
+Sat May 6 1995,Partick,0-0,?,Falkirk
+Sun May 7 1995,Celtic,3-0,?,Rangers
+Wed May 10 1995,Hibernian,1-1,?,Celtic
+Sat May 13 1995,Dundee United,0-1,?,Celtic
+Sat May 13 1995,Falkirk,0-2,?,Aberdeen
+Sat May 13 1995,Hearts,2-0,?,Motherwell
+Sat May 13 1995,Kilmarnock,1-2,?,Hibernian
+Sat May 13 1995,Rangers,1-1,?,Partick

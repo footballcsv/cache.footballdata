@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 28 2017,Bochum,0-1,0-0,St Pauli
+Sat Jul 29 2017,Bielefeld,2-1,1-1,Regensburg
+Sat Jul 29 2017,Darmstadt,1-0,0-0,Greuther Furth
+Sat Jul 29 2017,Ingolstadt,0-1,0-0,Union Berlin
+Sun Jul 30 2017,Dresden,1-0,0-0,Duisburg
+Sun Jul 30 2017,Holstein Kiel,2-2,0-2,Sandhausen
+Sun Jul 30 2017,Nurnberg,3-0,2-0,Kaiserslautern
+Mon Jul 31 2017,Fortuna Dusseldorf,2-2,1-1,Braunschweig
+Fri Aug 4 2017,Kaiserslautern,1-1,1-0,Darmstadt
+Fri Aug 4 2017,Sandhausen,1-0,0-0,Ingolstadt
+Fri Aug 4 2017,Union Berlin,4-3,3-3,Holstein Kiel
+Sat Aug 5 2017,Braunschweig,2-0,1-0,Heidenheim
+Sat Aug 5 2017,Duisburg,1-1,1-0,Bochum
+Sun Aug 6 2017,Erzgebirge Aue,0-2,0-1,Fortuna Dusseldorf
+Sun Aug 6 2017,Greuther Furth,1-2,0-2,Bielefeld
+Sun Aug 6 2017,Regensburg,0-1,0-0,Nurnberg
+Mon Aug 7 2017,St Pauli,2-2,1-1,Dresden
+Wed Aug 9 2017,Heidenheim,2-1,1-1,Erzgebirge Aue
+Fri Aug 18 2017,Braunschweig,1-1,1-1,Erzgebirge Aue
+Fri Aug 18 2017,Darmstadt,3-0,1-0,St Pauli
+Sat Aug 19 2017,Dresden,0-4,0-1,Sandhausen
+Sat Aug 19 2017,Fortuna Dusseldorf,2-0,1-0,Kaiserslautern
+Sat Aug 19 2017,Heidenheim,1-2,0-0,Duisburg
+Sun Aug 20 2017,Holstein Kiel,3-1,2-1,Greuther Furth
+Sun Aug 20 2017,Ingolstadt,2-4,0-1,Regensburg
+Sun Aug 20 2017,Nurnberg,2-2,0-0,Union Berlin
+Mon Aug 21 2017,Bielefeld,2-0,2-0,Bochum
+Fri Aug 25 2017,Duisburg,1-2,1-1,Darmstadt
+Fri Aug 25 2017,Greuther Furth,0-1,0-0,Ingolstadt
+Sat Aug 26 2017,Erzgebirge Aue,3-1,0-0,Nurnberg
+Sat Aug 26 2017,Regensburg,1-2,1-2,Holstein Kiel
+Sat Aug 26 2017,St Pauli,1-0,0-0,Heidenheim
+Sun Aug 27 2017,Bochum,3-2,2-1,Dresden
+Sun Aug 27 2017,Sandhausen,1-2,1-0,Fortuna Dusseldorf
+Sun Aug 27 2017,Union Berlin,1-1,0-0,Bielefeld
+Mon Aug 28 2017,Kaiserslautern,1-1,0-1,Braunschweig
+Fri Sep 8 2017,Dresden,1-1,1-0,Greuther Furth
+Fri Sep 8 2017,Heidenheim,1-3,0-0,Regensburg
+Sat Sep 9 2017,Bielefeld,0-4,0-1,Duisburg
+Sat Sep 9 2017,Holstein Kiel,2-1,1-0,Kaiserslautern
+Sat Sep 9 2017,Ingolstadt,1-2,0-1,Erzgebirge Aue
+Sun Sep 10 2017,Braunschweig,1-1,0-0,Sandhausen
+Sun Sep 10 2017,Darmstadt,1-2,1-0,Bochum
+Sun Sep 10 2017,Fortuna Dusseldorf,3-2,1-0,Union Berlin
+Mon Sep 11 2017,Nurnberg,0-1,0-0,St Pauli
+Fri Sep 15 2017,Erzgebirge Aue,0-3,0-2,Holstein Kiel
+Fri Sep 15 2017,Union Berlin,1-1,0-0,Braunschweig
+Sat Sep 16 2017,Duisburg,1-6,0-2,Nurnberg
+Sat Sep 16 2017,Sandhausen,1-0,0-0,Kaiserslautern
+Sat Sep 16 2017,St Pauli,0-4,0-4,Ingolstadt
+Sun Sep 17 2017,Bochum,1-2,1-1,Heidenheim
+Sun Sep 17 2017,Darmstadt,4-3,1-2,Bielefeld
+Sun Sep 17 2017,Greuther Furth,3-1,2-0,Fortuna Dusseldorf
+Sun Sep 17 2017,Regensburg,0-2,0-0,Dresden
+Tue Sep 19 2017,Holstein Kiel,0-1,0-1,St Pauli
+Tue Sep 19 2017,Ingolstadt,2-2,1-1,Duisburg
+Tue Sep 19 2017,Kaiserslautern,0-2,0-1,Erzgebirge Aue
+Tue Sep 19 2017,Sandhausen,1-0,0-0,Union Berlin
+Wed Sep 20 2017,Braunschweig,3-0,2-0,Greuther Furth
+Wed Sep 20 2017,Dresden,0-2,0-0,Bielefeld
+Wed Sep 20 2017,Fortuna Dusseldorf,1-0,0-0,Regensburg
+Wed Sep 20 2017,Heidenheim,2-2,1-1,Darmstadt
+Thu Sep 21 2017,Nurnberg,3-1,1-1,Bochum
+Fri Sep 22 2017,Duisburg,1-3,0-1,Holstein Kiel
+Fri Sep 22 2017,Erzgebirge Aue,1-0,1-0,Sandhausen
+Sat Sep 23 2017,Bielefeld,1-1,0-0,Heidenheim
+Sat Sep 23 2017,Regensburg,2-1,0-1,Braunschweig
+Sat Sep 23 2017,St Pauli,1-2,1-2,Fortuna Dusseldorf
+Sun Sep 24 2017,Bochum,2-0,2-0,Ingolstadt
+Sun Sep 24 2017,Darmstadt,3-3,1-2,Dresden
+Sun Sep 24 2017,Greuther Furth,1-3,0-1,Nurnberg
+Mon Sep 25 2017,Union Berlin,5-0,4-0,Kaiserslautern
+Fri Sep 29 2017,Ingolstadt,3-0,1-0,Darmstadt
+Fri Sep 29 2017,Kaiserslautern,3-0,0-0,Greuther Furth
+Sat Sep 30 2017,Erzgebirge Aue,1-2,0-0,Union Berlin
+Sat Sep 30 2017,Holstein Kiel,3-0,2-0,Bochum
+Sat Sep 30 2017,Nurnberg,1-2,0-0,Bielefeld
+Sun Oct 1 2017,Braunschweig,0-2,0-0,St Pauli
+Sun Oct 1 2017,Heidenheim,0-2,0-1,Dresden
+Sun Oct 1 2017,Sandhausen,2-0,0-0,Regensburg
+Mon Oct 2 2017,Fortuna Dusseldorf,3-1,2-0,Duisburg
+Fri Oct 13 2017,Duisburg,0-0,0-0,Braunschweig
+Fri Oct 13 2017,St Pauli,1-1,0-0,Kaiserslautern
+Sat Oct 14 2017,Bielefeld,0-2,0-1,Fortuna Dusseldorf
+Sat Oct 14 2017,Bochum,2-0,1-0,Sandhausen
+Sat Oct 14 2017,Dresden,2-2,1-2,Ingolstadt
+Sun Oct 15 2017,Greuther Furth,2-1,1-0,Erzgebirge Aue
+Sun Oct 15 2017,Heidenheim,3-5,1-2,Holstein Kiel
+Sun Oct 15 2017,Regensburg,0-2,0-1,Union Berlin
+Mon Oct 16 2017,Darmstadt,3-4,1-1,Nurnberg
+Fri Oct 20 2017,Fortuna Dusseldorf,1-0,1-0,Darmstadt
+Fri Oct 20 2017,Ingolstadt,3-0,1-0,Heidenheim
+Sat Oct 21 2017,Braunschweig,1-0,1-0,Bochum
+Sat Oct 21 2017,Holstein Kiel,2-1,0-0,Bielefeld
+Sat Oct 21 2017,Union Berlin,3-1,2-0,Greuther Furth
+Sun Oct 22 2017,Erzgebirge Aue,1-0,0-0,Regensburg
+Sun Oct 22 2017,Kaiserslautern,0-1,0-0,Duisburg
+Sun Oct 22 2017,Nurnberg,2-1,1-0,Dresden
+Mon Oct 23 2017,Sandhausen,1-1,0-0,St Pauli
+Fri Oct 27 2017,Bielefeld,1-3,1-2,Ingolstadt
+Fri Oct 27 2017,St Pauli,1-1,1-0,Erzgebirge Aue
+Sat Oct 28 2017,Darmstadt,1-1,1-1,Holstein Kiel
+Sat Oct 28 2017,Greuther Furth,2-1,1-0,Sandhausen
+Sat Oct 28 2017,Regensburg,3-1,2-1,Kaiserslautern
+Sun Oct 29 2017,Dresden,1-1,1-0,Braunschweig
+Sun Oct 29 2017,Duisburg,1-1,0-0,Union Berlin
+Sun Oct 29 2017,Heidenheim,1-0,0-0,Nurnberg
+Mon Oct 30 2017,Bochum,0-0,0-0,Fortuna Dusseldorf
+Fri Nov 3 2017,Kaiserslautern,0-0,0-0,Bochum
+Fri Nov 3 2017,Sandhausen,0-1,0-1,Duisburg
+Sat Nov 4 2017,Braunschweig,2-2,1-1,Darmstadt
+Sat Nov 4 2017,Regensburg,3-2,2-1,Greuther Furth
+Sat Nov 4 2017,Union Berlin,1-0,0-0,St Pauli
+Sun Nov 5 2017,Erzgebirge Aue,1-1,1-0,Bielefeld
+Sun Nov 5 2017,Fortuna Dusseldorf,2-2,0-0,Heidenheim
+Sun Nov 5 2017,Holstein Kiel,3-0,1-0,Dresden
+Mon Nov 6 2017,Nurnberg,1-2,1-1,Ingolstadt
+Fri Nov 17 2017,Bielefeld,2-2,1-0,Braunschweig
+Fri Nov 17 2017,Darmstadt,1-2,0-1,Sandhausen
+Sat Nov 18 2017,Bochum,1-1,1-1,Greuther Furth
+Sat Nov 18 2017,Heidenheim,4-3,1-0,Union Berlin
+Sat Nov 18 2017,Nurnberg,2-2,0-0,Holstein Kiel
+Sun Nov 19 2017,Duisburg,3-0,0-0,Erzgebirge Aue
+Sun Nov 19 2017,Ingolstadt,1-0,1-0,Fortuna Dusseldorf
+Sun Nov 19 2017,St Pauli,2-2,2-2,Regensburg
+Mon Nov 20 2017,Dresden,1-2,1-0,Kaiserslautern
+Fri Nov 24 2017,Sandhausen,1-2,1-0,Heidenheim
+Fri Nov 24 2017,Union Berlin,3-3,1-0,Darmstadt
+Sat Nov 25 2017,Braunschweig,2-3,1-1,Nurnberg
+Sat Nov 25 2017,Holstein Kiel,0-0,0-0,Ingolstadt
+Sat Nov 25 2017,Regensburg,4-0,3-0,Duisburg
+Sun Nov 26 2017,Erzgebirge Aue,1-1,1-1,Bochum
+Sun Nov 26 2017,Greuther Furth,4-0,2-0,St Pauli
+Sun Nov 26 2017,Kaiserslautern,0-2,0-1,Bielefeld
+Mon Nov 27 2017,Fortuna Dusseldorf,1-3,1-3,Dresden
+Fri Dec 1 2017,Bielefeld,5-0,1-0,St Pauli
+Fri Dec 1 2017,Heidenheim,3-2,0-0,Kaiserslautern
+Sat Dec 2 2017,Duisburg,2-0,2-0,Greuther Furth
+Sat Dec 2 2017,Holstein Kiel,2-2,0-1,Fortuna Dusseldorf
+Sat Dec 2 2017,Nurnberg,1-0,0-0,Sandhausen
+Sun Dec 3 2017,Bochum,2-1,1-1,Union Berlin
+Sun Dec 3 2017,Darmstadt,0-1,0-0,Regensburg
+Sun Dec 3 2017,Dresden,4-0,2-0,Erzgebirge Aue
+Mon Dec 4 2017,Ingolstadt,0-2,0-0,Braunschweig
+Fri Dec 8 2017,Braunschweig,0-0,0-0,Holstein Kiel
+Fri Dec 8 2017,Erzgebirge Aue,1-0,1-0,Darmstadt
+Sat Dec 9 2017,Greuther Furth,1-0,1-0,Heidenheim
+Sat Dec 9 2017,Regensburg,0-1,0-1,Bochum
+Sat Dec 9 2017,Union Berlin,0-1,0-0,Dresden
+Sun Dec 10 2017,Kaiserslautern,1-1,1-0,Ingolstadt
+Sun Dec 10 2017,Sandhausen,3-1,1-0,Bielefeld
+Sun Dec 10 2017,St Pauli,2-2,0-1,Duisburg
+Mon Dec 11 2017,Fortuna Dusseldorf,0-2,0-0,Nurnberg
+Fri Dec 15 2017,Braunschweig,0-1,0-1,Fortuna Dusseldorf
+Fri Dec 15 2017,Union Berlin,1-2,0-0,Ingolstadt
+Sat Dec 16 2017,Erzgebirge Aue,1-1,1-0,Heidenheim
+Sat Dec 16 2017,Kaiserslautern,1-1,0-1,Nurnberg
+Sat Dec 16 2017,Regensburg,3-2,2-1,Bielefeld
+Sun Dec 17 2017,Duisburg,2-0,1-0,Dresden
+Sun Dec 17 2017,Greuther Furth,1-1,1-0,Darmstadt
+Sun Dec 17 2017,Sandhausen,3-1,0-0,Holstein Kiel
+Mon Dec 18 2017,St Pauli,2-1,1-0,Bochum
+Tue Jan 23 2018,Bochum,0-2,0-2,Duisburg
+Tue Jan 23 2018,Holstein Kiel,2-2,2-1,Union Berlin
+Tue Jan 23 2018,Ingolstadt,0-0,0-0,Sandhausen
+Tue Jan 23 2018,Nurnberg,2-2,1-2,Regensburg
+Wed Jan 24 2018,Bielefeld,0-0,0-0,Greuther Furth
+Wed Jan 24 2018,Fortuna Dusseldorf,2-1,1-0,Erzgebirge Aue
+Wed Jan 24 2018,Heidenheim,2-0,0-0,Braunschweig
+Thu Jan 25 2018,Dresden,1-3,0-1,St Pauli
+Fri Jan 26 2018,Regensburg,3-2,0-2,Ingolstadt
+Fri Jan 26 2018,Union Berlin,0-1,0-1,Nurnberg
+Sat Jan 27 2018,Duisburg,3-3,1-3,Heidenheim
+Sat Jan 27 2018,Greuther Furth,0-0,0-0,Holstein Kiel
+Sat Jan 27 2018,Kaiserslautern,1-3,0-0,Fortuna Dusseldorf
+Sun Jan 28 2018,Erzgebirge Aue,1-3,1-2,Braunschweig
+Sun Jan 28 2018,Sandhausen,1-0,0-0,Dresden
+Sun Jan 28 2018,St Pauli,0-1,0-1,Darmstadt
+Mon Jan 29 2018,Bochum,0-1,0-0,Bielefeld
+Fri Feb 2 2018,Fortuna Dusseldorf,1-0,1-0,Sandhausen
+Fri Feb 2 2018,Nurnberg,4-1,1-0,Erzgebirge Aue
+Sat Feb 3 2018,Heidenheim,3-1,2-1,St Pauli
+Sat Feb 3 2018,Holstein Kiel,1-1,1-1,Regensburg
+Sat Feb 3 2018,Ingolstadt,3-0,1-0,Greuther Furth
+Sun Feb 4 2018,Braunschweig,1-2,0-2,Kaiserslautern
+Sun Feb 4 2018,Darmstadt,1-2,1-1,Duisburg
+Sun Feb 4 2018,Dresden,2-0,1-0,Bochum
+Mon Feb 5 2018,Bielefeld,1-1,0-1,Union Berlin
+Fri Feb 9 2018,Bochum,2-1,0-0,Darmstadt
+Fri Feb 9 2018,Kaiserslautern,3-1,2-1,Holstein Kiel
+Sat Feb 10 2018,Duisburg,2-2,0-1,Bielefeld
+Sat Feb 10 2018,Regensburg,2-0,1-0,Heidenheim
+Sat Feb 10 2018,Union Berlin,3-1,0-1,Fortuna Dusseldorf
+Sun Feb 11 2018,Erzgebirge Aue,0-0,0-0,Ingolstadt
+Sun Feb 11 2018,Greuther Furth,1-0,1-0,Dresden
+Sun Feb 11 2018,Sandhausen,0-0,0-0,Braunschweig
+Mon Feb 12 2018,St Pauli,0-0,0-0,Nurnberg
+Fri Feb 16 2018,Heidenheim,1-0,1-0,Bochum
+Fri Feb 16 2018,Kaiserslautern,0-1,0-0,Sandhausen
+Sat Feb 17 2018,Bielefeld,2-0,1-0,Darmstadt
+Sat Feb 17 2018,Fortuna Dusseldorf,1-1,0-1,Greuther Furth
+Sat Feb 17 2018,Holstein Kiel,2-2,2-2,Erzgebirge Aue
+Sat Feb 17 2018,Ingolstadt,0-1,0-1,St Pauli
+Sun Feb 18 2018,Braunschweig,1-0,1-0,Union Berlin
+Sun Feb 18 2018,Dresden,1-0,0-0,Regensburg
+Sun Feb 18 2018,Nurnberg,3-1,2-1,Duisburg
+Wed Feb 21 2018,Darmstadt,1-2,0-1,Kaiserslautern
+Fri Feb 23 2018,Bielefeld,2-3,1-0,Dresden
+Fri Feb 23 2018,Regensburg,4-3,2-3,Fortuna Dusseldorf
+Sat Feb 24 2018,Duisburg,2-1,1-1,Ingolstadt
+Sat Feb 24 2018,Erzgebirge Aue,2-1,1-0,Kaiserslautern
+Sat Feb 24 2018,Greuther Furth,2-1,1-1,Braunschweig
+Sat Feb 24 2018,Union Berlin,2-1,2-0,Sandhausen
+Sun Feb 25 2018,Bochum,0-0,0-0,Nurnberg
+Sun Feb 25 2018,Darmstadt,1-1,0-1,Heidenheim
+Sun Feb 25 2018,St Pauli,3-2,1-2,Holstein Kiel
+Fri Mar 2 2018,Dresden,0-2,0-1,Darmstadt
+Fri Mar 2 2018,Kaiserslautern,4-3,2-1,Union Berlin
+Sat Mar 3 2018,Holstein Kiel,5-0,2-0,Duisburg
+Sat Mar 3 2018,Nurnberg,0-2,0-0,Greuther Furth
+Sat Mar 3 2018,Sandhausen,1-1,0-0,Erzgebirge Aue
+Sun Mar 4 2018,Braunschweig,2-1,1-0,Regensburg
+Sun Mar 4 2018,Fortuna Dusseldorf,2-1,1-0,St Pauli
+Sun Mar 4 2018,Heidenheim,2-2,1-0,Bielefeld
+Mon Mar 5 2018,Ingolstadt,0-1,0-1,Bochum
+Fri Mar 9 2018,Bielefeld,1-0,0-0,Nurnberg
+Fri Mar 9 2018,Dresden,3-2,2-1,Heidenheim
+Sat Mar 10 2018,Bochum,1-1,1-0,Holstein Kiel
+Sat Mar 10 2018,Darmstadt,1-1,0-1,Ingolstadt
+Sat Mar 10 2018,Greuther Furth,2-1,1-1,Kaiserslautern
+Sat Mar 10 2018,St Pauli,0-0,0-0,Braunschweig
+Sun Mar 11 2018,Duisburg,1-2,0-1,Fortuna Dusseldorf
+Sun Mar 11 2018,Regensburg,2-1,1-0,Sandhausen
+Sun Mar 11 2018,Union Berlin,0-0,0-0,Erzgebirge Aue
+Fri Mar 16 2018,Fortuna Dusseldorf,4-2,1-1,Bielefeld
+Fri Mar 16 2018,Holstein Kiel,2-1,2-0,Heidenheim
+Sat Mar 17 2018,Kaiserslautern,1-1,0-0,St Pauli
+Sat Mar 17 2018,Sandhausen,2-3,2-1,Bochum
+Sat Mar 17 2018,Union Berlin,2-2,1-0,Regensburg
+Sun Mar 18 2018,Braunschweig,3-2,3-0,Duisburg
+Sun Mar 18 2018,Ingolstadt,4-2,2-0,Dresden
+Sun Mar 18 2018,Nurnberg,1-1,0-1,Darmstadt
+Mon Mar 19 2018,Erzgebirge Aue,2-1,2-0,Greuther Furth
+Sat Mar 31 2018,Dresden,1-1,1-0,Nurnberg
+Sat Mar 31 2018,Duisburg,1-4,0-1,Kaiserslautern
+Sat Mar 31 2018,Heidenheim,1-2,0-0,Ingolstadt
+Sun Apr 1 2018,Bielefeld,1-1,1-1,Holstein Kiel
+Sun Apr 1 2018,Bochum,2-0,1-0,Braunschweig
+Sun Apr 1 2018,Greuther Furth,2-1,1-0,Union Berlin
+Sun Apr 1 2018,Regensburg,1-3,0-2,Erzgebirge Aue
+Sun Apr 1 2018,St Pauli,1-1,1-0,Sandhausen
+Mon Apr 2 2018,Darmstadt,1-0,1-0,Fortuna Dusseldorf
+Fri Apr 6 2018,Fortuna Dusseldorf,1-2,0-0,Bochum
+Fri Apr 6 2018,Sandhausen,0-0,0-0,Greuther Furth
+Sat Apr 7 2018,Erzgebirge Aue,2-1,1-1,St Pauli
+Sat Apr 7 2018,Holstein Kiel,0-0,0-0,Darmstadt
+Sat Apr 7 2018,Nurnberg,3-2,3-1,Heidenheim
+Sat Apr 7 2018,Union Berlin,0-0,0-0,Duisburg
+Sun Apr 8 2018,Braunschweig,1-1,1-1,Dresden
+Sun Apr 8 2018,Ingolstadt,2-2,0-0,Bielefeld
+Sun Apr 8 2018,Kaiserslautern,1-1,0-1,Regensburg
+Fri Apr 13 2018,Bochum,3-2,2-1,Kaiserslautern
+Fri Apr 13 2018,Greuther Furth,1-2,0-0,Regensburg
+Sat Apr 14 2018,Bielefeld,2-0,1-0,Erzgebirge Aue
+Sat Apr 14 2018,Dresden,0-4,0-1,Holstein Kiel
+Sat Apr 14 2018,Duisburg,0-2,0-1,Sandhausen
+Sat Apr 14 2018,St Pauli,0-1,0-0,Union Berlin
+Sun Apr 15 2018,Darmstadt,1-1,0-1,Braunschweig
+Sun Apr 15 2018,Heidenheim,3-1,1-0,Fortuna Dusseldorf
+Sun Apr 15 2018,Ingolstadt,1-1,0-0,Nurnberg
+Fri Apr 20 2018,Braunschweig,0-0,0-0,Bielefeld
+Fri Apr 20 2018,Greuther Furth,1-1,1-0,Bochum
+Sat Apr 21 2018,Regensburg,3-1,2-0,St Pauli
+Sat Apr 21 2018,Sandhausen,1-1,1-0,Darmstadt
+Sat Apr 21 2018,Union Berlin,1-1,0-0,Heidenheim
+Sun Apr 22 2018,Erzgebirge Aue,1-3,0-0,Duisburg
+Sun Apr 22 2018,Fortuna Dusseldorf,3-0,2-0,Ingolstadt
+Sun Apr 22 2018,Kaiserslautern,0-1,0-0,Dresden
+Mon Apr 23 2018,Holstein Kiel,1-3,1-2,Nurnberg
+Fri Apr 27 2018,Bielefeld,3-2,0-1,Kaiserslautern
+Fri Apr 27 2018,Bochum,2-1,1-1,Erzgebirge Aue
+Sat Apr 28 2018,Darmstadt,3-1,3-0,Union Berlin
+Sat Apr 28 2018,Dresden,1-2,0-1,Fortuna Dusseldorf
+Sat Apr 28 2018,St Pauli,3-0,2-0,Greuther Furth
+Sun Apr 29 2018,Duisburg,4-1,0-0,Regensburg
+Sun Apr 29 2018,Heidenheim,2-0,2-0,Sandhausen
+Sun Apr 29 2018,Ingolstadt,1-5,1-1,Holstein Kiel
+Mon Apr 30 2018,Nurnberg,2-0,1-0,Braunschweig
+Sun May 6 2018,Braunschweig,0-2,0-0,Ingolstadt
+Sun May 6 2018,Erzgebirge Aue,0-0,0-0,Dresden
+Sun May 6 2018,Fortuna Dusseldorf,1-1,0-0,Holstein Kiel
+Sun May 6 2018,Greuther Furth,2-2,1-0,Duisburg
+Sun May 6 2018,Kaiserslautern,1-0,0-0,Heidenheim
+Sun May 6 2018,Regensburg,0-3,0-1,Darmstadt
+Sun May 6 2018,Sandhausen,0-2,0-1,Nurnberg
+Sun May 6 2018,St Pauli,1-0,1-0,Bielefeld
+Sun May 6 2018,Union Berlin,3-1,1-0,Bochum
+Sun May 13 2018,Bielefeld,0-0,0-0,Sandhausen
+Sun May 13 2018,Bochum,1-1,0-0,Regensburg
+Sun May 13 2018,Darmstadt,1-0,0-0,Erzgebirge Aue
+Sun May 13 2018,Dresden,0-1,0-0,Union Berlin
+Sun May 13 2018,Duisburg,2-0,1-0,St Pauli
+Sun May 13 2018,Heidenheim,1-1,0-0,Greuther Furth
+Sun May 13 2018,Holstein Kiel,6-2,4-2,Braunschweig
+Sun May 13 2018,Ingolstadt,1-3,0-2,Kaiserslautern
+Sun May 13 2018,Nurnberg,2-3,2-1,Fortuna Dusseldorf

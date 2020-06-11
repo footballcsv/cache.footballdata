@@ -1,0 +1,241 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 17 2012,Pogon Szczecin,4-0,?,Zaglebie
+Fri Aug 17 2012,Piast Gliwice,1-2,?,Gornik Z.
+Sat Aug 18 2012,Jagiellonia,2-1,?,Podbeskidzie
+Sat Aug 18 2012,Widzew Lodz,2-1,?,Slask Wroclaw
+Sat Aug 18 2012,Lech Poznan,4-0,?,Ruch
+Sun Aug 19 2012,Wisla,2-1,?,GKS Belchatow
+Sun Aug 19 2012,Legia,4-0,?,Korona Kielce
+Mon Aug 20 2012,Lechia Gdansk,1-3,?,Polonia Warszawa
+Fri Aug 24 2012,Zaglebie,2-1,?,Piast Gliwice
+Fri Aug 24 2012,Jagiellonia,1-1,?,Gornik Z.
+Sat Aug 25 2012,Podbeskidzie,1-1,?,Wisla
+Sat Aug 25 2012,Widzew Lodz,2-0,?,Ruch
+Sat Aug 25 2012,Polonia Warszawa,1-2,?,Lech Poznan
+Sun Aug 26 2012,Slask Wroclaw,2-0,?,Korona Kielce
+Sun Aug 26 2012,GKS Belchatow,0-2,?,Legia
+Mon Aug 27 2012,Pogon Szczecin,0-2,?,Lechia Gdansk
+Fri Aug 31 2012,Piast Gliwice,1-0,?,Pogon Szczecin
+Fri Aug 31 2012,Wisla,1-3,?,Polonia Warszawa
+Sat Sep 1 2012,Korona Kielce,0-1,?,Lechia Gdansk
+Sat Sep 1 2012,Widzew Lodz,1-0,?,GKS Belchatow
+Sat Sep 1 2012,Jagiellonia,0-0,?,Zaglebie
+Sun Sep 2 2012,Lech Poznan,0-0,?,Gornik Z.
+Sun Sep 2 2012,Slask Wroclaw,1-0,?,Ruch
+Mon Sep 3 2012,Legia,3-1,?,Podbeskidzie
+Fri Sep 14 2012,Podbeskidzie,1-1,?,Slask Wroclaw
+Fri Sep 14 2012,Pogon Szczecin,2-0,?,Wisla
+Sat Sep 15 2012,Polonia Warszawa,1-1,?,Jagiellonia
+Sat Sep 15 2012,Lechia Gdansk,1-2,?,Piast Gliwice
+Sat Sep 15 2012,Ruch,1-1,?,Korona Kielce
+Sun Sep 16 2012,Zaglebie,0-1,?,Widzew Lodz
+Sun Sep 16 2012,Gornik Z.,2-2,?,Legia
+Mon Sep 17 2012,GKS Belchatow,0-1,?,Lech Poznan
+Fri Sep 21 2012,Korona Kielce,2-1,?,Podbeskidzie
+Fri Sep 21 2012,Legia,1-1,?,Polonia Warszawa
+Sat Sep 22 2012,Jagiellonia,0-2,?,Piast Gliwice
+Sat Sep 22 2012,Ruch,2-1,?,Zaglebie
+Sat Sep 22 2012,Wisla,1-0,?,Lechia Gdansk
+Sun Sep 23 2012,Slask Wroclaw,2-1,?,GKS Belchatow
+Sun Sep 23 2012,Lech Poznan,1-1,?,Pogon Szczecin
+Mon Sep 24 2012,Widzew Lodz,1-1,?,Gornik Z.
+Fri Sep 28 2012,Podbeskidzie,1-2,?,Ruch
+Fri Sep 28 2012,Polonia Warszawa,3-1,?,Widzew Lodz
+Sat Sep 29 2012,GKS Belchatow,1-1,?,Korona Kielce
+Sat Sep 29 2012,Pogon Szczecin,1-1,?,Jagiellonia
+Sat Sep 29 2012,Zaglebie,2-2,?,Legia
+Sun Sep 30 2012,Gornik Z.,4-1,?,Slask Wroclaw
+Sun Sep 30 2012,Lechia Gdansk,2-0,?,Lech Poznan
+Mon Oct 1 2012,Piast Gliwice,2-0,?,Wisla
+Fri Oct 5 2012,Ruch,2-1,?,GKS Belchatow
+Fri Oct 5 2012,Legia,2-1,?,Wisla
+Sat Oct 6 2012,Korona Kielce,1-0,?,Zaglebie
+Sat Oct 6 2012,Podbeskidzie,1-3,?,Gornik Z.
+Sat Oct 6 2012,Lech Poznan,4-0,?,Piast Gliwice
+Sun Oct 7 2012,Widzew Lodz,1-3,?,Pogon Szczecin
+Sun Oct 7 2012,Slask Wroclaw,2-1,?,Polonia Warszawa
+Mon Oct 8 2012,Jagiellonia,0-2,?,Lechia Gdansk
+Fri Oct 19 2012,Gornik Z.,2-0,?,Korona Kielce
+Fri Oct 19 2012,Zaglebie,0-1,?,Lech Poznan
+Sat Oct 20 2012,GKS Belchatow,2-1,?,Podbeskidzie
+Sat Oct 20 2012,Piast Gliwice,1-2,?,Widzew Lodz
+Sat Oct 20 2012,Wisla,0-0,?,Jagiellonia
+Sun Oct 21 2012,Lechia Gdansk,2-3,?,Slask Wroclaw
+Sun Oct 21 2012,Polonia Warszawa,2-1,?,Ruch
+Mon Oct 22 2012,Pogon Szczecin,0-3,?,Legia
+Fri Oct 26 2012,Podbeskidzie,2-3,?,Lechia Gdansk
+Fri Oct 26 2012,Widzew Lodz,1-2,?,Wisla
+Sat Oct 27 2012,Korona Kielce,2-1,?,Pogon Szczecin
+Sat Oct 27 2012,GKS Belchatow,0-5,?,Polonia Warszawa
+Sat Oct 27 2012,Lech Poznan,0-2,?,Jagiellonia
+Sun Oct 28 2012,Slask Wroclaw,0-2,?,Zaglebie
+Sun Oct 28 2012,Legia,3-2,?,Piast Gliwice
+Mon Oct 29 2012,Ruch,0-0,?,Gornik Z.
+Fri Nov 2 2012,Gornik Z.,2-0,?,GKS Belchatow
+Fri Nov 2 2012,Wisla,0-1,?,Lech Poznan
+Sat Nov 3 2012,Piast Gliwice,1-3,?,Ruch
+Sat Nov 3 2012,Zaglebie,1-2,?,Podbeskidzie
+Sat Nov 3 2012,Jagiellonia,2-2,?,Widzew Lodz
+Sun Nov 4 2012,Lechia Gdansk,1-2,?,Legia
+Sun Nov 4 2012,Polonia Warszawa,2-0,?,Korona Kielce
+Mon Nov 5 2012,Pogon Szczecin,0-3,?,Slask Wroclaw
+Fri Nov 9 2012,Ruch,0-1,?,Lechia Gdansk
+Fri Nov 9 2012,Widzew Lodz,0-1,?,Lech Poznan
+Sat Nov 10 2012,Podbeskidzie,0-1,?,Polonia Warszawa
+Sat Nov 10 2012,Slask Wroclaw,1-3,?,Piast Gliwice
+Sat Nov 10 2012,Legia,1-2,?,Jagiellonia
+Sun Nov 11 2012,Gornik Z.,0-2,?,Zaglebie
+Sun Nov 11 2012,Korona Kielce,1-1,?,Wisla
+Mon Nov 12 2012,GKS Belchatow,0-1,?,Pogon Szczecin
+Fri Nov 16 2012,Zaglebie,1-0,?,GKS Belchatow
+Fri Nov 16 2012,Lechia Gdansk,2-0,?,Widzew Lodz
+Sat Nov 17 2012,Piast Gliwice,1-0,?,Podbeskidzie
+Sat Nov 17 2012,Jagiellonia,0-0,?,Korona Kielce
+Sat Nov 17 2012,Polonia Warszawa,1-1,?,Gornik Z.
+Sun Nov 18 2012,Lech Poznan,1-3,?,Legia
+Sun Nov 18 2012,Wisla,1-0,?,Slask Wroclaw
+Mon Nov 19 2012,Pogon Szczecin,1-0,?,Ruch
+Fri Nov 23 2012,Korona Kielce,4-0,?,Piast Gliwice
+Fri Nov 23 2012,Legia,1-0,?,Widzew Lodz
+Sat Nov 24 2012,GKS Belchatow,1-1,?,Lechia Gdansk
+Sat Nov 24 2012,Polonia Warszawa,0-1,?,Zaglebie
+Sat Nov 24 2012,Gornik Z.,0-0,?,Pogon Szczecin
+Sun Nov 25 2012,Slask Wroclaw,3-3,?,Jagiellonia
+Sun Nov 25 2012,Ruch,1-2,?,Wisla
+Mon Nov 26 2012,Podbeskidzie,2-3,?,Lech Poznan
+Fri Nov 30 2012,Jagiellonia,2-2,?,GKS Belchatow
+Fri Nov 30 2012,Lech Poznan,0-3,?,Slask Wroclaw
+Sat Dec 1 2012,Pogon Szczecin,2-0,?,Podbeskidzie
+Sat Dec 1 2012,Widzew Lodz,1-0,?,Korona Kielce
+Sat Dec 1 2012,Wisla,1-3,?,Gornik Z.
+Sun Dec 2 2012,Lechia Gdansk,2-2,?,Zaglebie
+Sun Dec 2 2012,Legia,3-0,?,Ruch
+Mon Dec 3 2012,Piast Gliwice,1-1,?,Polonia Warszawa
+Fri Dec 7 2012,Ruch,1-1,?,Jagiellonia
+Fri Dec 7 2012,Slask Wroclaw,1-0,?,Legia
+Sat Dec 8 2012,GKS Belchatow,1-3,?,Piast Gliwice
+Sat Dec 8 2012,Zaglebie,4-1,?,Wisla
+Sat Dec 8 2012,Gornik Z.,2-0,?,Lechia Gdansk
+Sun Dec 9 2012,Podbeskidzie,2-2,?,Widzew Lodz
+Sun Dec 9 2012,Korona Kielce,0-1,?,Lech Poznan
+Mon Dec 10 2012,Polonia Warszawa,2-0,?,Pogon Szczecin
+Fri Feb 22 2013,Zaglebie,3-0,?,Pogon Szczecin
+Fri Feb 22 2013,Polonia Warszawa,1-1,?,Lechia Gdansk
+Sat Feb 23 2013,Podbeskidzie,4-0,?,Jagiellonia
+Sat Feb 23 2013,Slask Wroclaw,2-1,?,Widzew Lodz
+Sat Feb 23 2013,Korona Kielce,3-2,?,Legia
+Sun Feb 24 2013,GKS Belchatow,0-0,?,Wisla
+Sun Feb 24 2013,Ruch,0-4,?,Lech Poznan
+Mon Feb 25 2013,Gornik Z.,1-0,?,Piast Gliwice
+Fri Mar 1 2013,Lechia Gdansk,1-1,?,Pogon Szczecin
+Fri Mar 1 2013,Lech Poznan,0-1,?,Polonia Warszawa
+Sat Mar 2 2013,Ruch,3-0,?,Widzew Lodz
+Sat Mar 2 2013,Piast Gliwice,1-1,?,Zaglebie
+Sat Mar 2 2013,Legia,0-0,?,GKS Belchatow
+Sun Mar 3 2013,Korona Kielce,1-1,?,Slask Wroclaw
+Sun Mar 3 2013,Gornik Z.,1-2,?,Jagiellonia
+Mon Mar 4 2013,Wisla,0-0,?,Podbeskidzie
+Fri Mar 8 2013,Zaglebie,2-1,?,Jagiellonia
+Fri Mar 8 2013,Podbeskidzie,1-2,?,Legia
+Sat Mar 9 2013,GKS Belchatow,0-0,?,Widzew Lodz
+Sat Mar 9 2013,Ruch,1-1,?,Slask Wroclaw
+Sat Mar 9 2013,Polonia Warszawa,1-2,?,Wisla
+Sun Mar 10 2013,Pogon Szczecin,0-2,?,Piast Gliwice
+Sun Mar 10 2013,Gornik Z.,0-1,?,Lech Poznan
+Mon Mar 11 2013,Lechia Gdansk,3-2,?,Korona Kielce
+Fri Mar 15 2013,Jagiellonia,2-0,?,Polonia Warszawa
+Fri Mar 15 2013,Legia,3-0,?,Gornik Z.
+Sat Mar 16 2013,Korona Kielce,2-1,?,Ruch
+Sat Mar 16 2013,Widzew Lodz,0-0,?,Zaglebie
+Sat Mar 16 2013,Lech Poznan,0-0,?,GKS Belchatow
+Sun Mar 17 2013,Slask Wroclaw,1-1,?,Podbeskidzie
+Sun Mar 17 2013,Wisla,2-0,?,Pogon Szczecin
+Mon Mar 18 2013,Piast Gliwice,2-0,?,Lechia Gdansk
+Thu Mar 28 2013,Podbeskidzie,1-1,?,Korona Kielce
+Thu Mar 28 2013,Gornik Z.,3-1,?,Widzew Lodz
+Sat Mar 30 2013,Piast Gliwice,1-1,?,Jagiellonia
+Sat Mar 30 2013,GKS Belchatow,1-0,?,Slask Wroclaw
+Sat Mar 30 2013,Polonia Warszawa,1-2,?,Legia
+Mon Apr 1 2013,Zaglebie,2-3,?,Ruch
+Mon Apr 1 2013,Lechia Gdansk,0-0,?,Wisla
+Mon Apr 1 2013,Pogon Szczecin,0-2,?,Lech Poznan
+Fri Apr 5 2013,Ruch,1-3,?,Podbeskidzie
+Fri Apr 5 2013,Lech Poznan,4-2,?,Lechia Gdansk
+Sat Apr 6 2013,Jagiellonia,1-0,?,Pogon Szczecin
+Sat Apr 6 2013,Slask Wroclaw,2-1,?,Gornik Z.
+Sat Apr 6 2013,Legia,2-0,?,Zaglebie
+Sun Apr 7 2013,Korona Kielce,1-0,?,GKS Belchatow
+Sun Apr 7 2013,Wisla,1-2,?,Piast Gliwice
+Mon Apr 8 2013,Widzew Lodz,3-2,?,Polonia Warszawa
+Fri Apr 12 2013,Pogon Szczecin,1-1,?,Widzew Lodz
+Fri Apr 12 2013,Zaglebie,2-1,?,Korona Kielce
+Sat Apr 13 2013,GKS Belchatow,0-3,?,Ruch
+Sat Apr 13 2013,Polonia Warszawa,2-2,?,Slask Wroclaw
+Sat Apr 13 2013,Wisla,1-2,?,Legia
+Sun Apr 14 2013,Gornik Z.,0-1,?,Podbeskidzie
+Sun Apr 14 2013,Lechia Gdansk,2-3,?,Jagiellonia
+Mon Apr 15 2013,Piast Gliwice,0-3,?,Lech Poznan
+Fri Apr 19 2013,Widzew Lodz,1-1,?,Piast Gliwice
+Fri Apr 19 2013,Korona Kielce,1-0,?,Gornik Z.
+Sat Apr 20 2013,Podbeskidzie,1-1,?,GKS Belchatow
+Sat Apr 20 2013,Jagiellonia,2-2,?,Wisla
+Sat Apr 20 2013,Legia,3-1,?,Pogon Szczecin
+Sun Apr 21 2013,Slask Wroclaw,1-1,?,Lechia Gdansk
+Sun Apr 21 2013,Lech Poznan,3-1,?,Zaglebie
+Mon Apr 22 2013,Ruch,2-1,?,Polonia Warszawa
+Fri Apr 26 2013,Pogon Szczecin,2-1,?,Korona Kielce
+Fri Apr 26 2013,Wisla,1-0,?,Widzew Lodz
+Sat Apr 27 2013,Polonia Warszawa,0-1,?,GKS Belchatow
+Sat Apr 27 2013,Lechia Gdansk,1-2,?,Podbeskidzie
+Sat Apr 27 2013,Piast Gliwice,0-0,?,Legia
+Sun Apr 28 2013,Zaglebie,4-0,?,Slask Wroclaw
+Sun Apr 28 2013,Gornik Z.,2-0,?,Ruch
+Mon Apr 29 2013,Jagiellonia,0-1,?,Lech Poznan
+Fri May 3 2013,Podbeskidzie,1-1,?,Zaglebie
+Fri May 3 2013,Korona Kielce,1-1,?,Polonia Warszawa
+Sat May 4 2013,Widzew Lodz,3-0,?,Jagiellonia
+Sat May 4 2013,GKS Belchatow,2-0,?,Gornik Z.
+Sat May 4 2013,Lech Poznan,1-0,?,Wisla
+Sun May 5 2013,Legia,1-0,?,Lechia Gdansk
+Sun May 5 2013,Slask Wroclaw,1-0,?,Pogon Szczecin
+Mon May 6 2013,Ruch,1-2,?,Piast Gliwice
+Fri May 10 2013,Polonia Warszawa,2-1,?,Podbeskidzie
+Fri May 10 2013,Lech Poznan,4-0,?,Widzew Lodz
+Sat May 11 2013,Pogon Szczecin,0-1,?,GKS Belchatow
+Sat May 11 2013,Wisla,3-0,?,Korona Kielce
+Sat May 11 2013,Jagiellonia,0-3,?,Legia
+Sun May 12 2013,Piast Gliwice,3-2,?,Slask Wroclaw
+Sun May 12 2013,Lechia Gdansk,4-4,?,Ruch
+Mon May 13 2013,Zaglebie,1-2,?,Gornik Z.
+Fri May 17 2013,Ruch,2-3,?,Pogon Szczecin
+Fri May 17 2013,Slask Wroclaw,3-0,?,Wisla
+Sat May 18 2013,Legia,1-0,?,Lech Poznan
+Sat May 18 2013,Podbeskidzie,1-2,?,Piast Gliwice
+Sat May 18 2013,Gornik Z.,0-4,?,Polonia Warszawa
+Sun May 19 2013,GKS Belchatow,3-2,?,Zaglebie
+Sun May 19 2013,Korona Kielce,5-0,?,Jagiellonia
+Mon May 20 2013,Widzew Lodz,1-2,?,Lechia Gdansk
+Thu May 23 2013,Piast Gliwice,1-1,?,Korona Kielce
+Fri May 24 2013,Wisla,1-1,?,Ruch
+Fri May 24 2013,Widzew Lodz,1-1,?,Legia
+Sat May 25 2013,Lechia Gdansk,1-1,?,GKS Belchatow
+Sat May 25 2013,Lech Poznan,0-2,?,Podbeskidzie
+Sun May 26 2013,Pogon Szczecin,1-0,?,Gornik Z.
+Sun May 26 2013,Jagiellonia,0-3,?,Slask Wroclaw
+Mon May 27 2013,Zaglebie,0-0,?,Polonia Warszawa
+Thu May 30 2013,Gornik Z.,0-1,?,Wisla
+Thu May 30 2013,Podbeskidzie,2-1,?,Pogon Szczecin
+Thu May 30 2013,Polonia Warszawa,1-1,?,Piast Gliwice
+Thu May 30 2013,Ruch,0-0,?,Legia
+Thu May 30 2013,Slask Wroclaw,1-1,?,Lech Poznan
+Thu May 30 2013,Zaglebie,0-3,?,Lechia Gdansk
+Thu May 30 2013,GKS Belchatow,1-1,?,Jagiellonia
+Thu May 30 2013,Korona Kielce,0-0,?,Widzew Lodz
+Sun Jun 2 2013,Jagiellonia,1-0,?,Ruch
+Sun Jun 2 2013,Lech Poznan,2-0,?,Korona Kielce
+Sun Jun 2 2013,Lechia Gdansk,0-2,?,Gornik Z.
+Sun Jun 2 2013,Legia,5-0,?,Slask Wroclaw
+Sun Jun 2 2013,Piast Gliwice,2-3,?,GKS Belchatow
+Sun Jun 2 2013,Pogon Szczecin,3-1,?,Polonia Warszawa
+Sun Jun 2 2013,Widzew Lodz,1-2,?,Podbeskidzie
+Sun Jun 2 2013,Wisla,0-1,?,Zaglebie

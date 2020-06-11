@@ -1,0 +1,181 @@
+Date,Team 1,FT,HT,Team 2
+Tue Aug 4 1998,Alloa,1-2,?,Forfar
+Tue Aug 4 1998,Arbroath,0-2,?,East Fife
+Tue Aug 4 1998,Clyde,2-0,?,Queen of Sth
+Tue Aug 4 1998,Livingston,1-1,?,Stirling
+Tue Aug 4 1998,Partick,0-1,?,Inverness C
+Sat Aug 15 1998,East Fife,2-2,?,Alloa
+Sat Aug 15 1998,Forfar,0-1,?,Partick
+Sat Aug 15 1998,Inverness C,2-1,?,Livingston
+Sat Aug 15 1998,Queen of Sth,0-0,?,Arbroath
+Sat Aug 15 1998,Stirling,1-2,?,Clyde
+Sat Aug 22 1998,Alloa,1-1,?,Inverness C
+Sat Aug 22 1998,Arbroath,0-3,?,Stirling
+Sat Aug 22 1998,Clyde,0-0,?,East Fife
+Sat Aug 22 1998,Livingston,1-1,?,Forfar
+Sat Aug 22 1998,Partick,2-2,?,Queen of Sth
+Sat Aug 29 1998,Alloa,7-0,?,Stirling
+Sat Aug 29 1998,Arbroath,2-1,?,Forfar
+Sat Aug 29 1998,Clyde,1-2,?,Partick
+Sat Aug 29 1998,East Fife,1-5,?,Inverness C
+Sat Aug 29 1998,Queen of Sth,0-1,?,Livingston
+Sat Sep 5 1998,Forfar,2-2,?,Clyde
+Sat Sep 5 1998,Inverness C,2-1,?,Arbroath
+Sat Sep 5 1998,Livingston,3-1,?,East Fife
+Sat Sep 5 1998,Partick,1-0,?,Alloa
+Sat Sep 5 1998,Stirling,1-0,?,Queen of Sth
+Sat Sep 12 1998,Alloa,3-0,?,Clyde
+Sat Sep 12 1998,Forfar,1-2,?,East Fife
+Sat Sep 12 1998,Inverness C,3-2,?,Queen of Sth
+Sat Sep 12 1998,Livingston,2-1,?,Arbroath
+Sat Sep 12 1998,Partick,1-0,?,Stirling
+Sat Sep 19 1998,Arbroath,0-2,?,Alloa
+Sat Sep 19 1998,Clyde,1-1,?,Livingston
+Sat Sep 19 1998,East Fife,1-3,?,Partick
+Sat Sep 19 1998,Queen of Sth,3-0,?,Forfar
+Sat Sep 19 1998,Stirling,0-1,?,Inverness C
+Sat Sep 26 1998,Alloa,3-4,?,Livingston
+Sat Sep 26 1998,Clyde,4-1,?,Inverness C
+Sat Sep 26 1998,Forfar,1-2,?,Stirling
+Sat Sep 26 1998,Partick,2-0,?,Arbroath
+Sun Sep 27 1998,East Fife,2-0,?,Queen of Sth
+Sat Oct 3 1998,Arbroath,0-0,?,Clyde
+Sat Oct 3 1998,Inverness C,2-2,?,Forfar
+Sat Oct 3 1998,Livingston,1-0,?,Partick
+Sat Oct 3 1998,Queen of Sth,2-1,?,Alloa
+Sat Oct 3 1998,Stirling,3-2,?,East Fife
+Sat Oct 10 1998,Alloa,5-1,?,East Fife
+Sat Oct 10 1998,Arbroath,2-1,?,Queen of Sth
+Sat Oct 10 1998,Clyde,2-1,?,Stirling
+Sat Oct 10 1998,Livingston,2-1,?,Inverness C
+Sun Oct 11 1998,Partick,2-0,?,Forfar
+Sat Oct 17 1998,East Fife,0-3,?,Arbroath
+Sat Oct 17 1998,Forfar,1-2,?,Alloa
+Sat Oct 17 1998,Inverness C,3-2,?,Partick
+Sat Oct 17 1998,Queen of Sth,2-1,?,Clyde
+Sat Oct 17 1998,Stirling,1-3,?,Livingston
+Sat Oct 24 1998,Inverness C,4-2,?,East Fife
+Sat Oct 24 1998,Livingston,2-0,?,Queen of Sth
+Sat Oct 24 1998,Partick,0-2,?,Clyde
+Sat Oct 24 1998,Stirling,4-2,?,Alloa
+Mon Oct 26 1998,Forfar,1-3,?,Arbroath
+Sat Oct 31 1998,Alloa,3-1,?,Partick
+Sat Oct 31 1998,Arbroath,0-1,?,Inverness C
+Sat Oct 31 1998,Clyde,3-1,?,Forfar
+Sat Oct 31 1998,East Fife,2-3,?,Livingston
+Sat Oct 31 1998,Queen of Sth,2-3,?,Stirling
+Sat Nov 7 1998,Alloa,1-1,?,Arbroath
+Sat Nov 7 1998,Forfar,1-0,?,Queen of Sth
+Sat Nov 7 1998,Inverness C,3-1,?,Stirling
+Sat Nov 7 1998,Livingston,2-0,?,Clyde
+Sat Nov 7 1998,Partick,0-1,?,East Fife
+Sat Nov 14 1998,Arbroath,2-2,?,Livingston
+Sat Nov 14 1998,Clyde,2-1,?,Alloa
+Sat Nov 14 1998,East Fife,1-0,?,Forfar
+Sat Nov 14 1998,Queen of Sth,2-2,?,Inverness C
+Sat Nov 14 1998,Stirling,2-0,?,Partick
+Sat Nov 21 1998,Arbroath,1-0,?,Partick
+Sat Nov 21 1998,Inverness C,1-1,?,Clyde
+Sat Nov 21 1998,Livingston,2-1,?,Alloa
+Sat Nov 21 1998,Queen of Sth,0-0,?,East Fife
+Sat Nov 21 1998,Stirling,3-1,?,Forfar
+Sat Nov 28 1998,Alloa,2-1,?,Queen of Sth
+Sat Nov 28 1998,Clyde,3-0,?,Arbroath
+Sat Nov 28 1998,East Fife,2-3,?,Stirling
+Sat Nov 28 1998,Forfar,2-2,?,Inverness C
+Sat Nov 28 1998,Partick,1-3,?,Livingston
+Sat Dec 12 1998,East Fife,0-0,?,Clyde
+Sat Dec 12 1998,Forfar,1-2,?,Livingston
+Sat Dec 12 1998,Queen of Sth,0-0,?,Partick
+Sat Dec 12 1998,Stirling,0-1,?,Arbroath
+Wed Dec 16 1998,Inverness C,3-2,?,Alloa
+Sat Dec 19 1998,Alloa,3-1,?,Forfar
+Sat Dec 19 1998,Arbroath,2-1,?,East Fife
+Sat Dec 19 1998,Clyde,2-1,?,Queen of Sth
+Sat Dec 19 1998,Livingston,0-0,?,Stirling
+Sat Dec 19 1998,Partick,2-1,?,Inverness C
+Sat Dec 26 1998,Clyde,0-1,?,Partick
+Sun Dec 27 1998,East Fife,3-2,?,Inverness C
+Sun Dec 27 1998,Queen of Sth,2-2,?,Livingston
+Tue Dec 29 1998,Alloa,2-2,?,Stirling
+Sat Jan 9 1999,Inverness C,2-0,?,Arbroath
+Wed Jan 13 1999,Partick,2-1,?,Alloa
+Sat Jan 16 1999,Alloa,1-3,?,Livingston
+Sat Jan 16 1999,Clyde,1-1,?,Inverness C
+Sat Jan 16 1999,Forfar,3-3,?,Stirling
+Sat Jan 16 1999,Partick,0-0,?,Arbroath
+Sun Jan 17 1999,East Fife,0-1,?,Queen of Sth
+Tue Jan 19 1999,Arbroath,2-2,?,Forfar
+Wed Jan 20 1999,Livingston,1-0,?,East Fife
+Tue Jan 26 1999,Stirling,1-3,?,Queen of Sth
+Sat Jan 30 1999,Arbroath,0-3,?,Clyde
+Sat Jan 30 1999,Inverness C,2-0,?,Forfar
+Sat Jan 30 1999,Livingston,1-1,?,Partick
+Sat Jan 30 1999,Queen of Sth,0-0,?,Alloa
+Sat Jan 30 1999,Stirling,0-1,?,East Fife
+Tue Feb 2 1999,Forfar,3-1,?,Clyde
+Sat Feb 6 1999,Arbroath,1-2,?,Alloa
+Sat Feb 6 1999,Clyde,0-3,?,Livingston
+Sat Feb 6 1999,East Fife,1-0,?,Partick
+Sat Feb 6 1999,Queen of Sth,0-3,?,Forfar
+Sat Feb 6 1999,Stirling,1-5,?,Inverness C
+Sat Feb 13 1999,Inverness C,1-0,?,Queen of Sth
+Tue Feb 16 1999,Alloa,1-0,?,Clyde
+Tue Feb 16 1999,Forfar,2-4,?,East Fife
+Tue Feb 16 1999,Livingston,1-0,?,Arbroath
+Wed Feb 17 1999,Partick,0-1,?,Stirling
+Sat Feb 20 1999,Alloa,1-4,?,Inverness C
+Sat Feb 20 1999,Arbroath,1-0,?,Stirling
+Sat Feb 20 1999,Clyde,1-0,?,East Fife
+Sat Feb 20 1999,Livingston,3-0,?,Forfar
+Sat Feb 20 1999,Partick,1-3,?,Queen of Sth
+Sat Feb 27 1999,East Fife,0-4,?,Alloa
+Sat Feb 27 1999,Forfar,2-1,?,Partick
+Sat Feb 27 1999,Inverness C,3-1,?,Livingston
+Sat Feb 27 1999,Queen of Sth,3-0,?,Arbroath
+Sat Feb 27 1999,Stirling,2-3,?,Clyde
+Sat Mar 6 1999,Alloa,0-1,?,Partick
+Sat Mar 6 1999,Arbroath,3-1,?,Inverness C
+Sat Mar 6 1999,Clyde,1-0,?,Forfar
+Sat Mar 6 1999,East Fife,1-1,?,Livingston
+Sat Mar 6 1999,Queen of Sth,3-0,?,Stirling
+Sat Mar 13 1999,Forfar,5-2,?,Arbroath
+Sat Mar 13 1999,Inverness C,4-0,?,East Fife
+Sat Mar 13 1999,Livingston,1-2,?,Queen of Sth
+Sat Mar 13 1999,Partick,0-1,?,Clyde
+Sat Mar 13 1999,Stirling,1-1,?,Alloa
+Sat Mar 20 1999,Alloa,3-5,?,Queen of Sth
+Sat Mar 20 1999,Clyde,1-1,?,Arbroath
+Sat Mar 20 1999,East Fife,1-0,?,Stirling
+Sat Mar 20 1999,Forfar,0-3,?,Inverness C
+Sat Mar 20 1999,Partick,1-1,?,Livingston
+Sat Apr 3 1999,Arbroath,2-1,?,Partick
+Sat Apr 3 1999,Inverness C,3-0,?,Clyde
+Sat Apr 3 1999,Livingston,1-0,?,Alloa
+Sat Apr 3 1999,Queen of Sth,2-0,?,East Fife
+Sat Apr 3 1999,Stirling,2-2,?,Forfar
+Sat Apr 10 1999,Alloa,1-2,?,Arbroath
+Sat Apr 10 1999,Forfar,2-1,?,Queen of Sth
+Sat Apr 10 1999,Inverness C,2-2,?,Stirling
+Sat Apr 10 1999,Livingston,2-0,?,Clyde
+Sat Apr 10 1999,Partick,2-2,?,East Fife
+Sat Apr 17 1999,Arbroath,1-1,?,Livingston
+Sat Apr 17 1999,Clyde,0-1,?,Alloa
+Sat Apr 17 1999,East Fife,2-1,?,Forfar
+Sat Apr 17 1999,Queen of Sth,1-1,?,Inverness C
+Sat Apr 17 1999,Stirling,3-0,?,Partick
+Sat Apr 24 1999,East Fife,1-2,?,Arbroath
+Sat Apr 24 1999,Forfar,3-1,?,Alloa
+Sat Apr 24 1999,Inverness C,3-2,?,Partick
+Sat Apr 24 1999,Queen of Sth,2-1,?,Clyde
+Sat Apr 24 1999,Stirling,0-0,?,Livingston
+Sat May 1 1999,Alloa,3-1,?,East Fife
+Sat May 1 1999,Arbroath,0-2,?,Queen of Sth
+Sat May 1 1999,Clyde,4-1,?,Stirling
+Sat May 1 1999,Livingston,4-3,?,Inverness C
+Sat May 1 1999,Partick,1-0,?,Forfar
+Sat May 8 1999,East Fife,2-1,?,Clyde
+Sat May 8 1999,Forfar,1-2,?,Livingston
+Sat May 8 1999,Inverness C,1-1,?,Alloa
+Sat May 8 1999,Queen of Sth,2-2,?,Partick
+Sat May 8 1999,Stirling,2-1,?,Arbroath

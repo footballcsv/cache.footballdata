@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 14 2015,Tondela,1-2,0-1,Sp Lisbon
+Sat Aug 15 2015,Belenenses,3-3,1-1,Rio Ave
+Sat Aug 15 2015,Porto,3-0,1-0,Guimaraes
+Sun Aug 16 2015,Benfica,4-0,0-0,Estoril
+Sun Aug 16 2015,Moreirense,0-2,0-0,Arouca
+Sun Aug 16 2015,Setubal,2-2,2-0,Boavista
+Sun Aug 16 2015,Sp Braga,2-1,1-1,Nacional
+Sun Aug 16 2015,Uniao Madeira,2-1,1-0,Maritimo
+Mon Aug 17 2015,Pacos Ferreira,1-0,1-0,Academica
+Fri Aug 21 2015,Rio Ave,1-0,1-0,Sp Braga
+Sat Aug 22 2015,Maritimo,1-1,1-1,Porto
+Sat Aug 22 2015,Sp Lisbon,1-1,1-0,Pacos Ferreira
+Sun Aug 23 2015,Arouca,1-0,1-0,Benfica
+Sun Aug 23 2015,Boavista,1-0,0-0,Tondela
+Sun Aug 23 2015,Estoril,2-0,0-0,Moreirense
+Sun Aug 23 2015,Guimaraes,1-1,1-0,Belenenses
+Sun Aug 23 2015,Nacional,1-0,1-0,Uniao Madeira
+Mon Aug 24 2015,Academica,0-4,0-1,Setubal
+Sat Aug 29 2015,Benfica,3-2,0-1,Moreirense
+Sat Aug 29 2015,Porto,2-0,1-0,Estoril
+Sat Aug 29 2015,Setubal,2-2,0-0,Rio Ave
+Sun Aug 30 2015,Academica,1-3,1-2,Sp Lisbon
+Sun Aug 30 2015,Pacos Ferreira,1-1,1-1,Arouca
+Sun Aug 30 2015,Sp Braga,4-0,1-0,Boavista
+Sun Aug 30 2015,Tondela,1-0,0-0,Nacional
+Mon Aug 31 2015,Belenenses,1-1,0-1,Maritimo
+Mon Aug 31 2015,Uniao Madeira,0-0,0-0,Guimaraes
+Fri Sep 11 2015,Benfica,6-0,3-0,Belenenses
+Sat Sep 12 2015,Arouca,1-3,0-1,Porto
+Sat Sep 12 2015,Estoril,1-0,0-0,Sp Braga
+Sun Sep 13 2015,Guimaraes,1-0,1-0,Tondela
+Sun Sep 13 2015,Maritimo,5-2,0-1,Setubal
+Sun Sep 13 2015,Moreirense,0-0,0-0,Uniao Madeira
+Sun Sep 13 2015,Nacional,2-0,1-0,Academica
+Sun Sep 13 2015,Rio Ave,1-2,0-2,Sp Lisbon
+Mon Sep 14 2015,Boavista,0-1,0-0,Pacos Ferreira
+Fri Sep 18 2015,Setubal,2-2,1-1,Guimaraes
+Sat Sep 19 2015,Pacos Ferreira,0-3,0-2,Rio Ave
+Sat Sep 19 2015,Tondela,0-1,0-0,Estoril
+Sun Sep 20 2015,Academica,0-2,0-1,Boavista
+Sun Sep 20 2015,Porto,1-0,0-0,Benfica
+Sun Sep 20 2015,Uniao Madeira,0-0,0-0,Arouca
+Mon Sep 21 2015,Belenenses,2-0,2-0,Moreirense
+Mon Sep 21 2015,Sp Braga,5-1,2-1,Maritimo
+Mon Sep 21 2015,Sp Lisbon,1-0,0-0,Nacional
+Fri Sep 25 2015,Moreirense,2-2,0-1,Porto
+Sat Sep 26 2015,Benfica,3-0,1-0,Pacos Ferreira
+Sat Sep 26 2015,Boavista,0-0,0-0,Sp Lisbon
+Sun Sep 27 2015,Arouca,2-2,0-1,Belenenses
+Sun Sep 27 2015,Estoril,2-1,1-0,Uniao Madeira
+Sun Sep 27 2015,Guimaraes,0-1,0-0,Sp Braga
+Sun Sep 27 2015,Maritimo,1-0,0-0,Tondela
+Sun Sep 27 2015,Nacional,1-1,0-1,Setubal
+Mon Sep 28 2015,Rio Ave,1-0,1-0,Academica
+Fri Oct 2 2015,Setubal,1-0,0-0,Estoril
+Sat Oct 3 2015,Academica,1-0,0-0,Maritimo
+Sat Oct 3 2015,Pacos Ferreira,3-1,1-1,Nacional
+Sat Oct 3 2015,Rio Ave,1-0,0-0,Boavista
+Sat Oct 3 2015,Tondela,1-1,0-1,Moreirense
+Sun Oct 4 2015,Porto,4-0,0-0,Belenenses
+Sun Oct 4 2015,Sp Braga,0-0,0-0,Arouca
+Sun Oct 4 2015,Sp Lisbon,5-1,2-0,Guimaraes
+Fri Oct 23 2015,Nacional,0-0,0-0,Boavista
+Sat Oct 24 2015,Estoril,2-2,0-1,Rio Ave
+Sat Oct 24 2015,Guimaraes,1-1,1-0,Academica
+Sat Oct 24 2015,Maritimo,0-2,0-1,Pacos Ferreira
+Sun Oct 25 2015,Arouca,1-1,0-0,Tondela
+Sun Oct 25 2015,Benfica,0-3,0-3,Sp Lisbon
+Sun Oct 25 2015,Moreirense,0-2,0-1,Setubal
+Sun Oct 25 2015,Porto,0-0,0-0,Sp Braga
+Mon Oct 26 2015,Belenenses,1-0,0-0,Uniao Madeira
+Fri Oct 30 2015,Tondela,0-4,0-3,Benfica
+Sat Oct 31 2015,Sp Braga,4-0,1-0,Belenenses
+Sat Oct 31 2015,Sp Lisbon,1-0,0-0,Estoril
+Sun Nov 1 2015,Academica,1-1,1-0,Moreirense
+Sun Nov 1 2015,Boavista,0-1,0-1,Maritimo
+Sun Nov 1 2015,Rio Ave,1-0,0-0,Nacional
+Sun Nov 1 2015,Setubal,0-0,0-0,Arouca
+Mon Nov 2 2015,Pacos Ferreira,0-1,0-0,Guimaraes
+Fri Nov 6 2015,Estoril,1-1,1-0,Academica
+Sat Nov 7 2015,Guimaraes,0-1,0-1,Nacional
+Sun Nov 8 2015,Arouca,0-1,0-0,Sp Lisbon
+Sun Nov 8 2015,Benfica,2-0,1-0,Boavista
+Sun Nov 8 2015,Maritimo,3-2,2-0,Rio Ave
+Sun Nov 8 2015,Moreirense,2-0,1-0,Pacos Ferreira
+Sun Nov 8 2015,Porto,2-0,0-0,Setubal
+Mon Nov 9 2015,Belenenses,2-1,1-0,Tondela
+Mon Nov 9 2015,Uniao Madeira,0-1,0-0,Sp Braga
+Fri Nov 27 2015,Nacional,3-1,1-1,Maritimo
+Sat Nov 28 2015,Boavista,1-2,1-0,Guimaraes
+Sat Nov 28 2015,Setubal,2-2,1-0,Uniao Madeira
+Sat Nov 28 2015,Tondela,0-1,0-1,Porto
+Sun Nov 29 2015,Academica,1-1,1-1,Arouca
+Sun Nov 29 2015,Pacos Ferreira,2-0,1-0,Estoril
+Sun Nov 29 2015,Rio Ave,0-1,0-0,Moreirense
+Mon Nov 30 2015,Sp Braga,0-2,0-2,Benfica
+Mon Nov 30 2015,Sp Lisbon,1-0,0-0,Belenenses
+Wed Dec 2 2015,Uniao Madeira,0-4,0-3,Porto
+Fri Dec 4 2015,Benfica,3-0,1-0,Academica
+Sat Dec 5 2015,Belenenses,0-3,0-2,Setubal
+Sat Dec 5 2015,Maritimo,0-1,0-0,Sp Lisbon
+Sat Dec 5 2015,Porto,2-1,1-1,Pacos Ferreira
+Sun Dec 6 2015,Arouca,3-2,2-2,Boavista
+Sun Dec 6 2015,Estoril,1-1,0-0,Nacional
+Sun Dec 6 2015,Moreirense,0-0,0-0,Sp Braga
+Sun Dec 6 2015,Uniao Madeira,2-0,1-0,Tondela
+Mon Dec 7 2015,Guimaraes,3-1,1-1,Rio Ave
+Fri Dec 11 2015,Boavista,1-1,1-1,Estoril
+Sat Dec 12 2015,Guimaraes,3-4,1-2,Maritimo
+Sat Dec 12 2015,Pacos Ferreira,6-0,3-0,Uniao Madeira
+Sat Dec 12 2015,Rio Ave,3-1,1-0,Arouca
+Sat Dec 12 2015,Setubal,2-4,0-2,Benfica
+Sun Dec 13 2015,Sp Lisbon,3-1,2-0,Moreirense
+Sun Dec 13 2015,Tondela,0-1,0-0,Sp Braga
+Mon Dec 14 2015,Academica,4-3,2-1,Belenenses
+Mon Dec 14 2015,Nacional,1-2,1-2,Porto
+Tue Dec 15 2015,Uniao Madeira,0-0,0-0,Benfica
+Sat Dec 19 2015,Arouca,4-1,2-0,Maritimo
+Sat Dec 19 2015,Estoril,0-1,0-1,Guimaraes
+Sun Dec 20 2015,Benfica,3-1,1-1,Rio Ave
+Sun Dec 20 2015,Moreirense,2-0,2-0,Nacional
+Sun Dec 20 2015,Porto,3-1,1-0,Academica
+Sun Dec 20 2015,Tondela,1-3,1-3,Setubal
+Sun Dec 20 2015,Uniao Madeira,1-0,0-0,Sp Lisbon
+Mon Dec 21 2015,Belenenses,1-0,1-0,Boavista
+Mon Dec 21 2015,Sp Braga,1-1,1-0,Pacos Ferreira
+Sat Jan 2 2016,Academica,3-1,1-1,Uniao Madeira
+Sat Jan 2 2016,Boavista,0-3,0-1,Moreirense
+Sat Jan 2 2016,Guimaraes,0-1,0-0,Benfica
+Sat Jan 2 2016,Maritimo,1-1,1-0,Estoril
+Sat Jan 2 2016,Nacional,2-2,1-2,Arouca
+Sat Jan 2 2016,Pacos Ferreira,2-2,1-1,Belenenses
+Sat Jan 2 2016,Setubal,1-1,1-0,Sp Braga
+Sat Jan 2 2016,Sp Lisbon,2-0,1-0,Porto
+Sun Jan 3 2016,Rio Ave,2-3,1-0,Tondela
+Wed Jan 6 2016,Arouca,1-0,1-0,Estoril
+Wed Jan 6 2016,Belenenses,2-2,0-1,Nacional
+Wed Jan 6 2016,Benfica,6-0,3-0,Maritimo
+Wed Jan 6 2016,Moreirense,3-4,1-3,Guimaraes
+Wed Jan 6 2016,Porto,1-1,1-1,Rio Ave
+Wed Jan 6 2016,Setubal,0-6,0-2,Sp Lisbon
+Wed Jan 6 2016,Sp Braga,3-0,2-0,Academica
+Wed Jan 6 2016,Tondela,0-2,0-1,Pacos Ferreira
+Wed Jan 6 2016,Uniao Madeira,1-0,0-0,Boavista
+Sat Jan 9 2016,Guimaraes,2-2,2-0,Arouca
+Sun Jan 10 2016,Academica,2-1,0-1,Tondela
+Sun Jan 10 2016,Boavista,0-5,0-1,Porto
+Sun Jan 10 2016,Estoril,2-0,0-0,Belenenses
+Sun Jan 10 2016,Maritimo,5-1,2-0,Moreirense
+Sun Jan 10 2016,Rio Ave,1-0,1-0,Uniao Madeira
+Sun Jan 10 2016,Sp Lisbon,3-2,0-2,Sp Braga
+Mon Jan 11 2016,Nacional,1-4,0-1,Benfica
+Mon Jan 11 2016,Pacos Ferreira,2-1,1-1,Setubal
+Fri Jan 15 2016,Sp Lisbon,2-2,0-1,Tondela
+Sat Jan 16 2016,Academica,1-1,1-1,Pacos Ferreira
+Sat Jan 16 2016,Estoril,1-2,1-0,Benfica
+Sat Jan 16 2016,Maritimo,0-1,0-0,Uniao Madeira
+Sun Jan 17 2016,Arouca,1-2,1-1,Moreirense
+Sun Jan 17 2016,Guimaraes,1-0,1-0,Porto
+Sun Jan 17 2016,Nacional,2-3,1-1,Sp Braga
+Sun Jan 17 2016,Rio Ave,1-2,1-2,Belenenses
+Mon Jan 18 2016,Boavista,4-0,1-0,Setubal
+Fri Jan 22 2016,Setubal,2-1,1-0,Academica
+Sat Jan 23 2016,Benfica,3-1,2-0,Arouca
+Sat Jan 23 2016,Moreirense,1-3,1-2,Estoril
+Sat Jan 23 2016,Pacos Ferreira,1-3,0-1,Sp Lisbon
+Sat Jan 23 2016,Uniao Madeira,3-0,2-0,Nacional
+Sun Jan 24 2016,Belenenses,3-3,2-2,Guimaraes
+Sun Jan 24 2016,Porto,1-0,1-0,Maritimo
+Sun Jan 24 2016,Sp Braga,5-1,2-0,Rio Ave
+Mon Jan 25 2016,Tondela,1-2,1-1,Boavista
+Fri Jan 29 2016,Guimaraes,3-1,1-1,Uniao Madeira
+Sat Jan 30 2016,Estoril,1-3,1-2,Porto
+Sat Jan 30 2016,Sp Lisbon,3-2,2-1,Academica
+Sun Jan 31 2016,Arouca,2-2,0-1,Pacos Ferreira
+Sun Jan 31 2016,Boavista,0-0,0-0,Sp Braga
+Sun Jan 31 2016,Moreirense,1-4,0-2,Benfica
+Sun Jan 31 2016,Nacional,3-1,2-0,Tondela
+Sun Jan 31 2016,Rio Ave,2-1,2-0,Setubal
+Mon Feb 1 2016,Maritimo,1-2,0-1,Belenenses
+Fri Feb 5 2016,Belenenses,0-5,0-1,Benfica
+Sat Feb 6 2016,Setubal,1-1,1-0,Maritimo
+Sat Feb 6 2016,Tondela,1-1,1-1,Guimaraes
+Sun Feb 7 2016,Academica,2-2,1-0,Nacional
+Sun Feb 7 2016,Pacos Ferreira,0-1,0-0,Boavista
+Sun Feb 7 2016,Porto,1-2,1-1,Arouca
+Sun Feb 7 2016,Uniao Madeira,0-1,0-1,Moreirense
+Mon Feb 8 2016,Sp Braga,2-0,0-0,Estoril
+Mon Feb 8 2016,Sp Lisbon,0-0,0-0,Rio Ave
+Fri Feb 12 2016,Benfica,1-2,1-1,Porto
+Sat Feb 13 2016,Guimaraes,2-2,1-1,Setubal
+Sat Feb 13 2016,Moreirense,2-3,1-2,Belenenses
+Sat Feb 13 2016,Nacional,0-4,0-1,Sp Lisbon
+Sun Feb 14 2016,Arouca,3-0,1-0,Uniao Madeira
+Sun Feb 14 2016,Boavista,0-0,0-0,Academica
+Sun Feb 14 2016,Estoril,2-1,1-1,Tondela
+Sun Feb 14 2016,Maritimo,1-3,1-3,Sp Braga
+Mon Feb 15 2016,Rio Ave,1-1,0-1,Pacos Ferreira
+Fri Feb 19 2016,Uniao Madeira,1-1,1-0,Estoril
+Sat Feb 20 2016,Academica,0-2,0-1,Rio Ave
+Sat Feb 20 2016,Pacos Ferreira,1-3,1-2,Benfica
+Sun Feb 21 2016,Belenenses,0-2,0-0,Arouca
+Sun Feb 21 2016,Porto,3-2,1-2,Moreirense
+Sun Feb 21 2016,Setubal,1-1,0-1,Nacional
+Sun Feb 21 2016,Sp Braga,3-3,2-2,Guimaraes
+Sun Feb 21 2016,Tondela,3-4,1-2,Maritimo
+Mon Feb 22 2016,Sp Lisbon,2-0,2-0,Boavista
+Fri Feb 26 2016,Nacional,3-0,1-0,Pacos Ferreira
+Sat Feb 27 2016,Arouca,0-0,0-0,Sp Braga
+Sat Feb 27 2016,Boavista,1-2,0-1,Rio Ave
+Sat Feb 27 2016,Estoril,3-0,2-0,Setubal
+Sun Feb 28 2016,Belenenses,1-2,0-2,Porto
+Sun Feb 28 2016,Maritimo,1-0,0-0,Academica
+Sun Feb 28 2016,Moreirense,1-2,1-1,Tondela
+Mon Feb 29 2016,Benfica,2-0,1-0,Uniao Madeira
+Mon Feb 29 2016,Guimaraes,0-0,0-0,Sp Lisbon
+Fri Mar 4 2016,Pacos Ferreira,2-2,0-0,Maritimo
+Sat Mar 5 2016,Sp Lisbon,0-1,0-1,Benfica
+Sun Mar 6 2016,Academica,2-0,0-0,Guimaraes
+Sun Mar 6 2016,Boavista,0-1,0-1,Nacional
+Sun Mar 6 2016,Setubal,0-1,0-0,Moreirense
+Sun Mar 6 2016,Sp Braga,3-1,0-0,Porto
+Sun Mar 6 2016,Tondela,0-1,0-0,Arouca
+Sun Mar 6 2016,Uniao Madeira,0-0,0-0,Belenenses
+Mon Mar 7 2016,Rio Ave,1-3,0-1,Estoril
+Fri Mar 11 2016,Maritimo,0-3,0-0,Boavista
+Sat Mar 12 2016,Estoril,1-2,0-2,Sp Lisbon
+Sat Mar 12 2016,Porto,3-2,1-0,Uniao Madeira
+Sun Mar 13 2016,Arouca,1-0,1-0,Setubal
+Sun Mar 13 2016,Belenenses,3-0,0-0,Sp Braga
+Sun Mar 13 2016,Guimaraes,0-1,0-1,Pacos Ferreira
+Sun Mar 13 2016,Moreirense,2-2,0-1,Academica
+Sun Mar 13 2016,Nacional,1-0,0-0,Rio Ave
+Mon Mar 14 2016,Benfica,4-1,2-0,Tondela
+Fri Mar 18 2016,Rio Ave,1-0,1-0,Maritimo
+Sat Mar 19 2016,Setubal,0-1,0-1,Porto
+Sat Mar 19 2016,Sp Lisbon,5-1,4-0,Arouca
+Sun Mar 20 2016,Academica,0-3,0-2,Estoril
+Sun Mar 20 2016,Boavista,0-1,0-0,Benfica
+Sun Mar 20 2016,Nacional,3-2,1-2,Guimaraes
+Sun Mar 20 2016,Pacos Ferreira,0-0,0-0,Moreirense
+Sun Mar 20 2016,Sp Braga,2-0,1-0,Uniao Madeira
+Sun Mar 20 2016,Tondela,2-2,0-1,Belenenses
+Fri Apr 1 2016,Benfica,5-1,3-0,Sp Braga
+Sat Apr 2 2016,Arouca,3-2,3-1,Academica
+Sat Apr 2 2016,Guimaraes,1-1,1-1,Boavista
+Sat Apr 2 2016,Maritimo,2-0,0-0,Nacional
+Sun Apr 3 2016,Estoril,1-0,1-0,Pacos Ferreira
+Sun Apr 3 2016,Moreirense,0-1,0-0,Rio Ave
+Sun Apr 3 2016,Uniao Madeira,2-2,2-0,Setubal
+Mon Apr 4 2016,Belenenses,2-5,0-2,Sp Lisbon
+Mon Apr 4 2016,Porto,0-1,0-0,Tondela
+Fri Apr 8 2016,Boavista,0-0,0-0,Arouca
+Sat Apr 9 2016,Academica,1-2,1-1,Benfica
+Sat Apr 9 2016,Sp Lisbon,3-1,1-0,Maritimo
+Sun Apr 10 2016,Nacional,4-1,1-0,Estoril
+Sun Apr 10 2016,Pacos Ferreira,1-0,0-0,Porto
+Sun Apr 10 2016,Setubal,0-1,0-0,Belenenses
+Sun Apr 10 2016,Sp Braga,1-1,0-0,Moreirense
+Sun Apr 10 2016,Tondela,1-0,1-0,Uniao Madeira
+Mon Apr 11 2016,Rio Ave,2-0,2-0,Guimaraes
+Sat Apr 16 2016,Arouca,0-0,0-0,Rio Ave
+Sat Apr 16 2016,Estoril,1-0,0-0,Boavista
+Sat Apr 16 2016,Moreirense,0-1,0-1,Sp Lisbon
+Sun Apr 17 2016,Belenenses,1-1,1-0,Academica
+Sun Apr 17 2016,Maritimo,3-0,2-0,Guimaraes
+Sun Apr 17 2016,Porto,4-0,2-0,Nacional
+Sun Apr 17 2016,Uniao Madeira,3-4,2-0,Pacos Ferreira
+Mon Apr 18 2016,Benfica,2-1,2-1,Setubal
+Mon Apr 18 2016,Sp Braga,3-0,1-0,Tondela
+Fri Apr 22 2016,Boavista,1-0,1-0,Belenenses
+Sat Apr 23 2016,Academica,1-2,1-1,Porto
+Sat Apr 23 2016,Pacos Ferreira,1-0,1-0,Sp Braga
+Sat Apr 23 2016,Sp Lisbon,2-0,2-0,Uniao Madeira
+Sun Apr 24 2016,Guimaraes,1-1,0-0,Estoril
+Sun Apr 24 2016,Maritimo,1-2,0-2,Arouca
+Sun Apr 24 2016,Nacional,0-1,0-1,Moreirense
+Sun Apr 24 2016,Rio Ave,0-1,0-0,Benfica
+Sun Apr 24 2016,Setubal,0-1,0-0,Tondela
+Fri Apr 29 2016,Benfica,1-0,0-0,Guimaraes
+Fri Apr 29 2016,Sp Braga,3-2,1-1,Setubal
+Sat Apr 30 2016,Belenenses,0-2,0-1,Pacos Ferreira
+Sat Apr 30 2016,Porto,1-3,1-2,Sp Lisbon
+Sat Apr 30 2016,Tondela,1-1,1-0,Rio Ave
+Sun May 1 2016,Arouca,3-0,2-0,Nacional
+Sun May 1 2016,Estoril,2-1,0-1,Maritimo
+Sun May 1 2016,Moreirense,1-1,1-1,Boavista
+Sun May 1 2016,Uniao Madeira,3-1,1-0,Academica
+Fri May 6 2016,Pacos Ferreira,1-4,1-1,Tondela
+Sat May 7 2016,Academica,0-0,0-0,Sp Braga
+Sat May 7 2016,Rio Ave,1-3,1-1,Porto
+Sat May 7 2016,Sp Lisbon,5-0,2-0,Setubal
+Sun May 8 2016,Boavista,1-0,1-0,Uniao Madeira
+Sun May 8 2016,Guimaraes,4-1,1-1,Moreirense
+Sun May 8 2016,Maritimo,0-2,0-0,Benfica
+Sun May 8 2016,Nacional,2-2,1-0,Belenenses
+Mon May 9 2016,Estoril,1-1,0-1,Arouca
+Sat May 14 2016,Arouca,2-2,0-2,Guimaraes
+Sat May 14 2016,Belenenses,2-1,2-1,Estoril
+Sat May 14 2016,Porto,4-0,1-0,Boavista
+Sat May 14 2016,Setubal,0-0,0-0,Pacos Ferreira
+Sat May 14 2016,Tondela,2-0,1-0,Academica
+Sat May 14 2016,Uniao Madeira,1-2,1-0,Rio Ave
+Sun May 15 2016,Benfica,4-1,2-0,Nacional
+Sun May 15 2016,Moreirense,2-1,1-0,Maritimo
+Sun May 15 2016,Sp Braga,0-4,0-2,Sp Lisbon

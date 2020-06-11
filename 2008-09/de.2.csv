@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 15 2008,Aachen,2-1,1-1,Wehen
+Fri Aug 15 2008,Mainz,3-3,3-0,Kaiserslautern
+Fri Aug 15 2008,St Pauli,2-2,2-1,Osnabruck
+Sun Aug 17 2008,Ahlen,2-1,0-0,Frankfurt FSV
+Sun Aug 17 2008,Freiburg,2-1,1-1,Munich 1860
+Sun Aug 17 2008,Ingolstadt,3-2,2-1,Greuther Furth
+Sun Aug 17 2008,Koblenz,3-0,2-0,Oberhausen
+Sun Aug 17 2008,Nurnberg,2-1,1-0,Augsburg
+Mon Aug 18 2008,Duisburg,2-2,1-1,Hansa Rostock
+Fri Aug 22 2008,Frankfurt FSV,0-0,0-0,Koblenz
+Fri Aug 22 2008,Greuther Furth,5-2,1-1,St Pauli
+Fri Aug 22 2008,Osnabruck,2-2,0-0,Freiburg
+Sun Aug 24 2008,Augsburg,3-0,2-0,Ahlen
+Sun Aug 24 2008,Hansa Rostock,1-0,0-0,Aachen
+Sun Aug 24 2008,Munich 1860,1-2,0-2,Mainz
+Sun Aug 24 2008,Oberhausen,2-1,2-1,Ingolstadt
+Sun Aug 24 2008,Wehen,1-1,1-1,Duisburg
+Mon Aug 25 2008,Kaiserslautern,2-1,2-0,Nurnberg
+Fri Aug 29 2008,Duisburg,2-0,1-0,Augsburg
+Fri Aug 29 2008,Ingolstadt,1-3,1-0,Kaiserslautern
+Fri Aug 29 2008,Mainz,4-2,2-1,Osnabruck
+Sun Aug 31 2008,Ahlen,2-1,0-0,Munich 1860
+Sun Aug 31 2008,Frankfurt FSV,1-1,1-0,Greuther Furth
+Sun Aug 31 2008,Koblenz,0-0,0-0,Wehen
+Sun Aug 31 2008,Nurnberg,2-2,0-2,Aachen
+Sun Aug 31 2008,St Pauli,4-1,3-0,Oberhausen
+Mon Sep 1 2008,Freiburg,1-0,1-0,Hansa Rostock
+Fri Sep 12 2008,Aachen,1-0,1-0,Ingolstadt
+Fri Sep 12 2008,Kaiserslautern,4-1,1-0,St Pauli
+Fri Sep 12 2008,Oberhausen,1-3,1-1,Ahlen
+Sun Sep 14 2008,Augsburg,1-3,1-2,Freiburg
+Sun Sep 14 2008,Greuther Furth,4-3,3-1,Koblenz
+Sun Sep 14 2008,Hansa Rostock,2-2,0-0,Mainz
+Sun Sep 14 2008,Osnabruck,3-2,1-0,Frankfurt FSV
+Sun Sep 14 2008,Wehen,2-2,2-0,Nurnberg
+Mon Sep 15 2008,Munich 1860,2-0,0-0,Duisburg
+Fri Sep 19 2008,Ahlen,2-2,1-1,Hansa Rostock
+Fri Sep 19 2008,Duisburg,3-2,3-0,Aachen
+Fri Sep 19 2008,Koblenz,2-1,2-1,Augsburg
+Fri Sep 19 2008,Mainz,2-0,1-0,Nurnberg
+Fri Sep 19 2008,St Pauli,1-0,1-0,Munich 1860
+Sun Sep 21 2008,Frankfurt FSV,3-1,1-1,Oberhausen
+Sun Sep 21 2008,Freiburg,5-0,1-0,Wehen
+Sun Sep 21 2008,Ingolstadt,2-1,1-0,Osnabruck
+Mon Sep 22 2008,Greuther Furth,0-1,0-0,Kaiserslautern
+Fri Sep 26 2008,Hansa Rostock,3-0,1-0,St Pauli
+Fri Sep 26 2008,Oberhausen,0-4,0-2,Greuther Furth
+Fri Sep 26 2008,Osnabruck,1-0,1-0,Koblenz
+Sun Sep 28 2008,Aachen,1-0,0-0,Freiburg
+Sun Sep 28 2008,Augsburg,0-2,0-1,Mainz
+Sun Sep 28 2008,Kaiserslautern,2-1,0-0,Frankfurt FSV
+Sun Sep 28 2008,Munich 1860,1-1,1-0,Ingolstadt
+Sun Sep 28 2008,Wehen,1-3,0-2,Ahlen
+Mon Sep 29 2008,Nurnberg,0-1,0-1,Duisburg
+Fri Oct 3 2008,Frankfurt FSV,0-3,0-0,Munich 1860
+Fri Oct 3 2008,Freiburg,2-0,1-0,Duisburg
+Fri Oct 3 2008,Oberhausen,2-1,2-1,Augsburg
+Sun Oct 5 2008,Ahlen,1-1,1-1,Nurnberg
+Sun Oct 5 2008,Greuther Furth,4-2,3-0,Osnabruck
+Sun Oct 5 2008,Ingolstadt,4-2,1-1,Hansa Rostock
+Sun Oct 5 2008,Koblenz,5-0,2-0,Kaiserslautern
+Sun Oct 5 2008,St Pauli,3-2,2-1,Aachen
+Mon Oct 6 2008,Mainz,5-0,2-0,Wehen
+Fri Oct 17 2008,Kaiserslautern,4-1,0-1,Ahlen
+Fri Oct 17 2008,Nurnberg,2-0,0-0,Freiburg
+Fri Oct 17 2008,Osnabruck,2-1,1-1,Oberhausen
+Sun Oct 19 2008,Augsburg,3-2,0-0,St Pauli
+Sun Oct 19 2008,Duisburg,6-1,2-1,Ingolstadt
+Sun Oct 19 2008,Hansa Rostock,9-0,3-0,Koblenz
+Sun Oct 19 2008,Munich 1860,3-1,0-1,Greuther Furth
+Sun Oct 19 2008,Wehen,3-1,1-0,Frankfurt FSV
+Mon Oct 20 2008,Aachen,2-0,2-0,Mainz
+Fri Oct 24 2008,Ahlen,0-3,0-2,Freiburg
+Fri Oct 24 2008,Frankfurt FSV,0-0,0-0,Hansa Rostock
+Fri Oct 24 2008,Greuther Furth,1-1,1-1,Aachen
+Fri Oct 24 2008,Ingolstadt,1-2,1-2,Augsburg
+Fri Oct 24 2008,St Pauli,2-0,0-0,Wehen
+Sun Oct 26 2008,Koblenz,1-1,0-1,Nurnberg
+Sun Oct 26 2008,Mainz,0-0,0-0,Duisburg
+Sun Oct 26 2008,Oberhausen,2-1,1-1,Kaiserslautern
+Sun Oct 26 2008,Osnabruck,0-2,0-1,Munich 1860
+Tue Oct 28 2008,Aachen,0-2,0-1,Ahlen
+Tue Oct 28 2008,Augsburg,2-2,1-1,Frankfurt FSV
+Tue Oct 28 2008,Hansa Rostock,1-2,1-0,Greuther Furth
+Tue Oct 28 2008,Wehen,0-0,0-0,Ingolstadt
+Wed Oct 29 2008,Duisburg,1-2,0-0,St Pauli
+Wed Oct 29 2008,Freiburg,0-1,0-1,Mainz
+Wed Oct 29 2008,Kaiserslautern,2-0,0-0,Osnabruck
+Wed Oct 29 2008,Munich 1860,1-0,0-0,Koblenz
+Wed Oct 29 2008,Nurnberg,2-1,2-1,Oberhausen
+Fri Oct 31 2008,Frankfurt FSV,0-3,0-1,Aachen
+Fri Oct 31 2008,Greuther Furth,1-1,0-1,Wehen
+Sun Nov 2 2008,Ahlen,0-2,0-0,Mainz
+Sun Nov 2 2008,Ingolstadt,4-0,2-0,Freiburg
+Sun Nov 2 2008,Koblenz,1-1,0-0,Duisburg
+Sun Nov 2 2008,Oberhausen,1-0,0-0,Hansa Rostock
+Sun Nov 2 2008,Osnabruck,1-1,1-1,Augsburg
+Sun Nov 2 2008,St Pauli,1-0,0-0,Nurnberg
+Mon Nov 3 2008,Kaiserslautern,0-0,0-0,Munich 1860
+Fri Nov 7 2008,Aachen,2-0,2-0,Koblenz
+Fri Nov 7 2008,Nurnberg,0-0,0-0,Frankfurt FSV
+Fri Nov 7 2008,Wehen,4-2,0-0,Kaiserslautern
+Sun Nov 9 2008,Augsburg,1-1,0-1,Greuther Furth
+Sun Nov 9 2008,Duisburg,0-1,0-1,Ahlen
+Sun Nov 9 2008,Hansa Rostock,2-2,2-0,Osnabruck
+Sun Nov 9 2008,Mainz,0-3,0-2,Ingolstadt
+Sun Nov 9 2008,Munich 1860,0-1,0-1,Oberhausen
+Mon Nov 10 2008,Freiburg,2-0,0-0,St Pauli
+Fri Nov 14 2008,Munich 1860,0-1,0-1,Augsburg
+Fri Nov 14 2008,Osnabruck,1-1,1-1,Wehen
+Fri Nov 14 2008,St Pauli,2-2,2-2,Ahlen
+Sun Nov 16 2008,Frankfurt FSV,1-2,0-1,Freiburg
+Sun Nov 16 2008,Greuther Furth,4-3,1-2,Duisburg
+Sun Nov 16 2008,Ingolstadt,0-3,0-1,Nurnberg
+Sun Nov 16 2008,Koblenz,0-3,0-1,Mainz
+Sun Nov 16 2008,Oberhausen,1-1,1-0,Aachen
+Mon Nov 17 2008,Kaiserslautern,6-0,2-0,Hansa Rostock
+Fri Nov 21 2008,Aachen,3-1,0-0,Osnabruck
+Fri Nov 21 2008,Ahlen,3-0,0-0,Ingolstadt
+Fri Nov 21 2008,Duisburg,0-0,0-0,Frankfurt FSV
+Sun Nov 23 2008,Augsburg,1-0,1-0,Kaiserslautern
+Sun Nov 23 2008,Freiburg,1-1,0-0,Koblenz
+Sun Nov 23 2008,Mainz,2-2,0-1,St Pauli
+Sun Nov 23 2008,Nurnberg,2-1,0-1,Greuther Furth
+Sun Nov 23 2008,Wehen,0-0,0-0,Oberhausen
+Mon Nov 24 2008,Hansa Rostock,0-1,0-0,Munich 1860
+Fri Nov 28 2008,Kaiserslautern,1-1,0-0,Aachen
+Fri Nov 28 2008,Koblenz,4-1,3-1,Ahlen
+Fri Nov 28 2008,Osnabruck,1-1,0-1,Nurnberg
+Sun Nov 30 2008,Augsburg,2-0,1-0,Hansa Rostock
+Sun Nov 30 2008,Greuther Furth,1-1,1-1,Freiburg
+Sun Nov 30 2008,Munich 1860,3-3,2-0,Wehen
+Sun Nov 30 2008,Oberhausen,0-3,0-2,Duisburg
+Sun Nov 30 2008,St Pauli,1-0,1-0,Ingolstadt
+Mon Dec 1 2008,Frankfurt FSV,1-4,0-1,Mainz
+Fri Dec 5 2008,Aachen,2-0,1-0,Munich 1860
+Fri Dec 5 2008,Ingolstadt,1-1,0-1,Frankfurt FSV
+Fri Dec 5 2008,Mainz,0-1,0-0,Greuther Furth
+Sun Dec 7 2008,Ahlen,1-2,1-0,Osnabruck
+Sun Dec 7 2008,Duisburg,0-0,0-0,Kaiserslautern
+Sun Dec 7 2008,Freiburg,2-1,0-1,Oberhausen
+Sun Dec 7 2008,St Pauli,3-2,1-1,Koblenz
+Sun Dec 7 2008,Wehen,1-2,0-0,Augsburg
+Mon Dec 8 2008,Nurnberg,4-0,3-0,Hansa Rostock
+Fri Dec 12 2008,Frankfurt FSV,1-0,0-0,St Pauli
+Fri Dec 12 2008,Koblenz,0-1,0-1,Ingolstadt
+Fri Dec 12 2008,Osnabruck,1-1,1-1,Duisburg
+Sun Dec 14 2008,Augsburg,3-1,0-0,Aachen
+Sun Dec 14 2008,Greuther Furth,3-0,1-0,Ahlen
+Sun Dec 14 2008,Hansa Rostock,1-0,1-0,Wehen
+Sun Dec 14 2008,Munich 1860,1-1,0-1,Nurnberg
+Sun Dec 14 2008,Oberhausen,2-1,1-1,Mainz
+Mon Dec 15 2008,Kaiserslautern,2-0,0-0,Freiburg
+Fri Jan 30 2009,Augsburg,0-0,0-0,Nurnberg
+Fri Jan 30 2009,Oberhausen,0-0,0-0,Koblenz
+Fri Jan 30 2009,Osnabruck,2-2,1-0,St Pauli
+Sun Feb 1 2009,Frankfurt FSV,4-0,2-0,Ahlen
+Sun Feb 1 2009,Greuther Furth,6-1,5-1,Ingolstadt
+Sun Feb 1 2009,Hansa Rostock,0-1,0-0,Duisburg
+Sun Feb 1 2009,Munich 1860,0-2,0-1,Freiburg
+Sun Feb 1 2009,Wehen,1-0,1-0,Aachen
+Mon Feb 2 2009,Kaiserslautern,1-1,0-1,Mainz
+Fri Feb 6 2009,Aachen,3-3,0-1,Hansa Rostock
+Fri Feb 6 2009,Freiburg,4-1,1-0,Osnabruck
+Fri Feb 6 2009,Koblenz,1-3,1-2,Frankfurt FSV
+Sun Feb 8 2009,Ahlen,2-1,0-1,Augsburg
+Sun Feb 8 2009,Duisburg,2-1,2-1,Wehen
+Sun Feb 8 2009,Ingolstadt,0-0,0-0,Oberhausen
+Sun Feb 8 2009,Mainz,2-2,2-1,Munich 1860
+Sun Feb 8 2009,St Pauli,0-3,0-2,Greuther Furth
+Mon Feb 9 2009,Nurnberg,3-0,2-0,Kaiserslautern
+Fri Feb 13 2009,Greuther Furth,0-0,0-0,Frankfurt FSV
+Fri Feb 13 2009,Oberhausen,3-2,3-1,St Pauli
+Fri Feb 13 2009,Wehen,1-3,0-2,Koblenz
+Sun Feb 15 2009,Aachen,6-2,4-1,Nurnberg
+Sun Feb 15 2009,Augsburg,1-1,1-1,Duisburg
+Sun Feb 15 2009,Kaiserslautern,2-0,1-0,Ingolstadt
+Sun Feb 15 2009,Munich 1860,2-1,1-0,Ahlen
+Sun Feb 15 2009,Osnabruck,1-3,1-2,Mainz
+Mon Feb 16 2009,Hansa Rostock,1-3,1-1,Freiburg
+Fri Feb 20 2009,Freiburg,1-0,0-0,Augsburg
+Fri Feb 20 2009,Ingolstadt,0-0,0-0,Aachen
+Fri Feb 20 2009,Mainz,3-1,1-1,Hansa Rostock
+Sun Feb 22 2009,Ahlen,1-3,0-1,Oberhausen
+Sun Feb 22 2009,Duisburg,4-1,2-0,Munich 1860
+Sun Feb 22 2009,Frankfurt FSV,1-0,0-0,Osnabruck
+Sun Feb 22 2009,Koblenz,3-0,2-0,Greuther Furth
+Sun Feb 22 2009,Nurnberg,1-0,0-0,Wehen
+Mon Feb 23 2009,St Pauli,2-0,0-0,Kaiserslautern
+Fri Feb 27 2009,Hansa Rostock,0-0,0-0,Ahlen
+Fri Feb 27 2009,Nurnberg,0-0,0-0,Mainz
+Fri Feb 27 2009,Wehen,0-1,0-1,Freiburg
+Sun Mar 1 2009,Augsburg,0-2,0-2,Koblenz
+Sun Mar 1 2009,Kaiserslautern,1-2,1-1,Greuther Furth
+Sun Mar 1 2009,Munich 1860,5-1,4-1,St Pauli
+Sun Mar 1 2009,Oberhausen,2-0,0-0,Frankfurt FSV
+Sun Mar 1 2009,Osnabruck,1-0,1-0,Ingolstadt
+Mon Mar 2 2009,Aachen,1-2,1-1,Duisburg
+Fri Mar 6 2009,Frankfurt FSV,1-0,0-0,Kaiserslautern
+Fri Mar 6 2009,Koblenz,3-0,2-0,Osnabruck
+Fri Mar 6 2009,St Pauli,3-2,0-2,Hansa Rostock
+Sun Mar 8 2009,Ahlen,1-0,1-0,Wehen
+Sun Mar 8 2009,Freiburg,2-1,1-0,Aachen
+Sun Mar 8 2009,Greuther Furth,3-1,0-1,Oberhausen
+Sun Mar 8 2009,Ingolstadt,2-3,2-3,Munich 1860
+Sun Mar 8 2009,Mainz,1-1,0-1,Augsburg
+Mon Mar 9 2009,Duisburg,2-2,0-0,Nurnberg
+Fri Mar 13 2009,Kaiserslautern,2-1,1-1,Koblenz
+Fri Mar 13 2009,Munich 1860,1-1,0-1,Frankfurt FSV
+Fri Mar 13 2009,Nurnberg,4-0,2-0,Ahlen
+Sun Mar 15 2009,Aachen,1-3,0-1,St Pauli
+Sun Mar 15 2009,Augsburg,1-2,0-1,Oberhausen
+Sun Mar 15 2009,Duisburg,2-0,0-0,Freiburg
+Sun Mar 15 2009,Hansa Rostock,1-1,1-1,Ingolstadt
+Sun Mar 15 2009,Osnabruck,5-1,1-1,Greuther Furth
+Mon Mar 16 2009,Wehen,0-2,0-1,Mainz
+Fri Mar 20 2009,Frankfurt FSV,2-1,1-0,Wehen
+Fri Mar 20 2009,Koblenz,1-1,1-1,Hansa Rostock
+Fri Mar 20 2009,Oberhausen,0-0,0-0,Osnabruck
+Sun Mar 22 2009,Ahlen,0-1,0-0,Kaiserslautern
+Sun Mar 22 2009,Greuther Furth,1-0,0-0,Munich 1860
+Sun Mar 22 2009,Ingolstadt,0-0,0-0,Duisburg
+Sun Mar 22 2009,Mainz,1-4,0-2,Aachen
+Sun Mar 22 2009,St Pauli,1-1,0-0,Augsburg
+Mon Mar 23 2009,Freiburg,0-1,0-0,Nurnberg
+Fri Apr 3 2009,Augsburg,1-1,0-1,Ingolstadt
+Fri Apr 3 2009,Duisburg,0-1,0-1,Mainz
+Fri Apr 3 2009,Nurnberg,2-0,1-0,Koblenz
+Sun Apr 5 2009,Aachen,1-0,0-0,Greuther Furth
+Sun Apr 5 2009,Hansa Rostock,2-0,1-0,Frankfurt FSV
+Sun Apr 5 2009,Kaiserslautern,1-1,1-0,Oberhausen
+Sun Apr 5 2009,Munich 1860,1-1,0-1,Osnabruck
+Sun Apr 5 2009,Wehen,3-1,1-1,St Pauli
+Mon Apr 6 2009,Freiburg,1-1,0-0,Ahlen
+Thu Apr 9 2009,Greuther Furth,0-1,0-0,Hansa Rostock
+Thu Apr 9 2009,Ingolstadt,0-0,0-0,Wehen
+Thu Apr 9 2009,Oberhausen,0-3,0-2,Nurnberg
+Sun Apr 12 2009,Ahlen,0-2,0-2,Aachen
+Sun Apr 12 2009,Frankfurt FSV,2-1,1-0,Augsburg
+Sun Apr 12 2009,Koblenz,3-2,2-0,Munich 1860
+Sun Apr 12 2009,Osnabruck,0-2,0-2,Kaiserslautern
+Sun Apr 12 2009,St Pauli,2-2,1-0,Duisburg
+Mon Apr 13 2009,Mainz,1-2,1-0,Freiburg
+Fri Apr 17 2009,Augsburg,3-0,2-0,Osnabruck
+Fri Apr 17 2009,Hansa Rostock,3-1,2-1,Oberhausen
+Fri Apr 17 2009,Mainz,0-0,0-0,Ahlen
+Sun Apr 19 2009,Aachen,2-0,0-0,Frankfurt FSV
+Sun Apr 19 2009,Duisburg,2-3,1-1,Koblenz
+Sun Apr 19 2009,Freiburg,3-2,2-0,Ingolstadt
+Sun Apr 19 2009,Nurnberg,2-0,1-0,St Pauli
+Sun Apr 19 2009,Wehen,0-1,0-1,Greuther Furth
+Mon Apr 20 2009,Munich 1860,1-1,1-1,Kaiserslautern
+Fri Apr 24 2009,Ahlen,0-2,0-2,Duisburg
+Fri Apr 24 2009,Greuther Furth,2-1,2-0,Augsburg
+Fri Apr 24 2009,St Pauli,1-2,1-0,Freiburg
+Sun Apr 26 2009,Frankfurt FSV,2-1,1-1,Nurnberg
+Sun Apr 26 2009,Ingolstadt,3-4,1-1,Mainz
+Sun Apr 26 2009,Kaiserslautern,1-0,0-0,Wehen
+Sun Apr 26 2009,Koblenz,0-2,0-0,Aachen
+Sun Apr 26 2009,Oberhausen,1-1,1-1,Munich 1860
+Mon Apr 27 2009,Osnabruck,0-0,0-0,Hansa Rostock
+Fri May 1 2009,Augsburg,3-0,1-0,Munich 1860
+Fri May 1 2009,Hansa Rostock,5-1,2-0,Kaiserslautern
+Fri May 1 2009,Wehen,0-1,0-0,Osnabruck
+Sun May 3 2009,Aachen,2-2,1-1,Oberhausen
+Sun May 3 2009,Ahlen,1-0,0-0,St Pauli
+Sun May 3 2009,Freiburg,4-1,2-0,Frankfurt FSV
+Sun May 3 2009,Mainz,2-0,1-0,Koblenz
+Sun May 3 2009,Nurnberg,1-0,1-0,Ingolstadt
+Mon May 4 2009,Duisburg,2-0,0-0,Greuther Furth
+Fri May 8 2009,Frankfurt FSV,0-0,0-0,Duisburg
+Fri May 8 2009,Kaiserslautern,1-0,1-0,Augsburg
+Fri May 8 2009,Munich 1860,3-3,1-2,Hansa Rostock
+Fri May 8 2009,Oberhausen,0-1,0-1,Wehen
+Fri May 8 2009,Osnabruck,2-1,1-0,Aachen
+Sun May 10 2009,Greuther Furth,1-1,0-0,Nurnberg
+Sun May 10 2009,Ingolstadt,0-2,0-0,Ahlen
+Sun May 10 2009,Koblenz,2-5,2-2,Freiburg
+Sun May 10 2009,St Pauli,2-0,1-0,Mainz
+Tue May 12 2009,Aachen,1-0,0-0,Kaiserslautern
+Tue May 12 2009,Duisburg,1-1,0-1,Oberhausen
+Tue May 12 2009,Hansa Rostock,3-3,1-1,Augsburg
+Tue May 12 2009,Wehen,0-0,0-0,Munich 1860
+Wed May 13 2009,Ahlen,1-1,0-0,Koblenz
+Wed May 13 2009,Freiburg,0-0,0-0,Greuther Furth
+Wed May 13 2009,Mainz,2-1,1-0,Frankfurt FSV
+Wed May 13 2009,Nurnberg,2-0,1-0,Osnabruck
+Thu May 14 2009,Ingolstadt,0-1,0-0,St Pauli
+Sun May 17 2009,Augsburg,1-1,0-0,Wehen
+Sun May 17 2009,Frankfurt FSV,1-1,0-0,Ingolstadt
+Sun May 17 2009,Greuther Furth,0-2,0-0,Mainz
+Sun May 17 2009,Hansa Rostock,0-0,0-0,Nurnberg
+Sun May 17 2009,Kaiserslautern,3-5,0-3,Duisburg
+Sun May 17 2009,Koblenz,2-1,2-1,St Pauli
+Sun May 17 2009,Munich 1860,1-1,1-0,Aachen
+Sun May 17 2009,Oberhausen,1-0,0-0,Freiburg
+Sun May 17 2009,Osnabruck,2-2,1-1,Ahlen
+Sun May 24 2009,Aachen,4-0,3-0,Augsburg
+Sun May 24 2009,Ahlen,2-4,1-2,Greuther Furth
+Sun May 24 2009,Duisburg,4-1,2-0,Osnabruck
+Sun May 24 2009,Freiburg,4-3,2-1,Kaiserslautern
+Sun May 24 2009,Ingolstadt,4-0,2-0,Koblenz
+Sun May 24 2009,Mainz,4-0,2-0,Oberhausen
+Sun May 24 2009,Nurnberg,2-1,2-0,Munich 1860
+Sun May 24 2009,St Pauli,2-0,1-0,Frankfurt FSV
+Sun May 24 2009,Wehen,1-1,1-0,Hansa Rostock

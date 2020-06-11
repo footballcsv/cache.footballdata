@@ -1,0 +1,199 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 13 2012,Aarhus,1-1,?,Aalborg
+Sat Jul 14 2012,Sonderjyske,6-1,?,Randers FC
+Sun Jul 15 2012,Esbjerg,2-3,?,Silkeborg
+Sun Jul 15 2012,Brondby,0-1,?,Odense
+Sun Jul 15 2012,FC Copenhagen,4-2,?,Midtjylland
+Mon Jul 16 2012,Horsens,0-4,?,Nordsjaelland
+Fri Jul 20 2012,Silkeborg,0-2,?,Horsens
+Sat Jul 21 2012,Midtjylland,3-1,?,Nordsjaelland
+Sun Jul 22 2012,Odense,0-1,?,Randers FC
+Sun Jul 22 2012,Sonderjyske,1-1,?,FC Copenhagen
+Sun Jul 22 2012,Aalborg,2-1,?,Brondby
+Mon Jul 23 2012,Aarhus,0-0,?,Esbjerg
+Fri Jul 27 2012,Horsens,2-2,?,Midtjylland
+Sat Jul 28 2012,FC Copenhagen,3-0,?,Aalborg
+Sat Jul 28 2012,Esbjerg,1-2,?,Sonderjyske
+Sun Jul 29 2012,Randers FC,2-1,?,Aarhus
+Sun Jul 29 2012,Nordsjaelland,1-1,?,Odense
+Mon Jul 30 2012,Brondby,2-1,?,Silkeborg
+Fri Aug 3 2012,Silkeborg,0-1,?,Odense
+Sat Aug 4 2012,Aalborg,1-1,?,Nordsjaelland
+Sat Aug 4 2012,Esbjerg,1-2,?,FC Copenhagen
+Sun Aug 5 2012,Midtjylland,2-1,?,Randers FC
+Sun Aug 5 2012,Aarhus,3-1,?,Brondby
+Mon Aug 6 2012,Sonderjyske,0-2,?,Horsens
+Fri Aug 10 2012,Odense,2-1,?,Midtjylland
+Sat Aug 11 2012,Nordsjaelland,6-1,?,Silkeborg
+Sun Aug 12 2012,Horsens,1-4,?,Aalborg
+Sun Aug 12 2012,Brondby,0-1,?,Sonderjyske
+Sun Aug 12 2012,FC Copenhagen,3-0,?,Aarhus
+Mon Aug 13 2012,Randers FC,1-0,?,Esbjerg
+Fri Aug 17 2012,Aalborg,3-0,?,Midtjylland
+Sat Aug 18 2012,Silkeborg,0-1,?,Randers FC
+Sat Aug 18 2012,FC Copenhagen,1-1,?,Brondby
+Sun Aug 19 2012,Esbjerg,0-0,?,Horsens
+Sun Aug 19 2012,Aarhus,0-1,?,Nordsjaelland
+Mon Aug 20 2012,Sonderjyske,1-2,?,Odense
+Fri Aug 24 2012,Nordsjaelland,4-1,?,Sonderjyske
+Sat Aug 25 2012,Randers FC,2-3,?,FC Copenhagen
+Sun Aug 26 2012,Midtjylland,1-1,?,Silkeborg
+Sun Aug 26 2012,Odense,0-4,?,Aalborg
+Sun Aug 26 2012,Brondby,1-1,?,Esbjerg
+Mon Aug 27 2012,Horsens,1-4,?,Aarhus
+Fri Aug 31 2012,Sonderjyske,0-4,?,Aalborg
+Sat Sep 1 2012,Silkeborg,0-4,?,Aarhus
+Sun Sep 2 2012,Randers FC,0-1,?,Horsens
+Sun Sep 2 2012,Midtjylland,1-0,?,Esbjerg
+Sun Sep 2 2012,Nordsjaelland,0-0,?,Brondby
+Sun Sep 2 2012,Odense,2-2,?,FC Copenhagen
+Fri Sep 14 2012,Esbjerg,3-0,?,Odense
+Sat Sep 15 2012,Sonderjyske,0-2,?,Silkeborg
+Sat Sep 15 2012,FC Copenhagen,2-1,?,Nordsjaelland
+Sun Sep 16 2012,Aalborg,4-0,?,Randers FC
+Sun Sep 16 2012,Brondby,2-2,?,Horsens
+Mon Sep 17 2012,Aarhus,3-2,?,Midtjylland
+Fri Sep 21 2012,Aarhus,2-2,?,Sonderjyske
+Sat Sep 22 2012,Nordsjaelland,1-1,?,Randers FC
+Sun Sep 23 2012,Horsens,2-2,?,Odense
+Sun Sep 23 2012,Midtjylland,1-1,?,Brondby
+Sun Sep 23 2012,FC Copenhagen,5-0,?,Silkeborg
+Mon Sep 24 2012,Aalborg,0-2,?,Esbjerg
+Fri Sep 28 2012,Nordsjaelland,3-0,?,Esbjerg
+Sat Sep 29 2012,Horsens,1-1,?,FC Copenhagen
+Sun Sep 30 2012,Silkeborg,2-1,?,Aalborg
+Sun Sep 30 2012,Odense,1-2,?,Aarhus
+Sun Sep 30 2012,Randers FC,3-2,?,Brondby
+Mon Oct 1 2012,Midtjylland,1-3,?,Sonderjyske
+Fri Oct 5 2012,Odense,3-0,?,Nordsjaelland
+Sat Oct 6 2012,Sonderjyske,0-3,?,Aarhus
+Sun Oct 7 2012,Silkeborg,1-1,?,Horsens
+Sun Oct 7 2012,Randers FC,2-1,?,Midtjylland
+Sun Oct 7 2012,Esbjerg,2-2,?,FC Copenhagen
+Sun Oct 7 2012,Brondby,1-3,?,Aalborg
+Fri Oct 19 2012,Nordsjaelland,3-0,?,Silkeborg
+Sat Oct 20 2012,Aalborg,2-1,?,Sonderjyske
+Sun Oct 21 2012,Horsens,0-0,?,Esbjerg
+Sun Oct 21 2012,Midtjylland,1-1,?,Odense
+Sun Oct 21 2012,FC Copenhagen,1-0,?,Brondby
+Mon Oct 22 2012,Aarhus,1-1,?,Randers FC
+Fri Oct 26 2012,Nordsjaelland,1-0,?,Aalborg
+Sat Oct 27 2012,Silkeborg,1-2,?,Randers FC
+Sun Oct 28 2012,Esbjerg,1-2,?,Sonderjyske
+Sun Oct 28 2012,Odense,2-4,?,Aarhus
+Sun Oct 28 2012,Midtjylland,1-1,?,Brondby
+Mon Oct 29 2012,Horsens,1-0,?,FC Copenhagen
+Fri Nov 2 2012,Esbjerg,1-0,?,Silkeborg
+Sat Nov 3 2012,Sonderjyske,1-2,?,Nordsjaelland
+Sun Nov 4 2012,Randers FC,0-0,?,Horsens
+Sun Nov 4 2012,Brondby,0-3,?,Odense
+Sun Nov 4 2012,Aarhus,0-2,?,FC Copenhagen
+Mon Nov 5 2012,Aalborg,1-3,?,Midtjylland
+Fri Nov 9 2012,Horsens,2-0,?,Aarhus
+Sat Nov 10 2012,Nordsjaelland,2-2,?,Randers FC
+Sun Nov 11 2012,Odense,5-0,?,Sonderjyske
+Sun Nov 11 2012,Silkeborg,1-2,?,Brondby
+Sun Nov 11 2012,FC Copenhagen,4-0,?,Aalborg
+Mon Nov 12 2012,Midtjylland,0-0,?,Esbjerg
+Fri Nov 16 2012,Aarhus,0-2,?,Nordsjaelland
+Sat Nov 17 2012,Sonderjyske,2-3,?,Silkeborg
+Sun Nov 18 2012,Aalborg,2-0,?,Horsens
+Sun Nov 18 2012,Brondby,2-2,?,Esbjerg
+Sun Nov 18 2012,FC Copenhagen,2-1,?,Midtjylland
+Mon Nov 19 2012,Randers FC,3-2,?,Odense
+Fri Nov 23 2012,Randers FC,0-1,?,Aalborg
+Sat Nov 24 2012,Silkeborg,0-2,?,Odense
+Sun Nov 25 2012,Esbjerg,1-0,?,Nordsjaelland
+Sun Nov 25 2012,Sonderjyske,1-2,?,FC Copenhagen
+Sun Nov 25 2012,Brondby,2-0,?,Horsens
+Mon Nov 26 2012,Aarhus,1-1,?,Midtjylland
+Fri Nov 30 2012,Horsens,1-3,?,Sonderjyske
+Sat Dec 1 2012,Odense,3-0,?,Esbjerg
+Sun Dec 2 2012,Midtjylland,1-3,?,Silkeborg
+Sun Dec 2 2012,FC Copenhagen,2-0,?,Randers FC
+Sun Dec 2 2012,Nordsjaelland,3-0,?,Brondby
+Mon Dec 3 2012,Aalborg,0-3,?,Aarhus
+Fri Dec 7 2012,Sonderjyske,2-2,?,Brondby
+Sat Dec 8 2012,Randers FC,2-1,?,Esbjerg
+Sun Dec 9 2012,Horsens,0-2,?,Midtjylland
+Sun Dec 9 2012,FC Copenhagen,4-1,?,Nordsjaelland
+Mon Dec 10 2012,Aarhus,3-3,?,Silkeborg
+Fri Mar 1 2013,Silkeborg,3-2,?,Aalborg
+Sat Mar 2 2013,Midtjylland,1-0,?,Sonderjyske
+Sun Mar 3 2013,Nordsjaelland,1-0,?,Horsens
+Sun Mar 3 2013,Brondby,0-2,?,Randers FC
+Sun Mar 3 2013,Odense,2-3,?,FC Copenhagen
+Mon Mar 4 2013,Esbjerg,2-1,?,Aarhus
+Wed Mar 6 2013,Aalborg,2-2,?,Odense
+Fri Mar 8 2013,Randers FC,2-0,?,Sonderjyske
+Sat Mar 9 2013,Aalborg,0-0,?,Esbjerg
+Sun Mar 10 2013,Horsens,2-0,?,Odense
+Sun Mar 10 2013,FC Copenhagen,3-1,?,Silkeborg
+Sun Mar 10 2013,Aarhus,0-3,?,Brondby
+Mon Mar 11 2013,Midtjylland,1-1,?,Nordsjaelland
+Fri Mar 15 2013,FC Copenhagen,2-1,?,Horsens
+Sun Mar 17 2013,Randers FC,1-0,?,Silkeborg
+Sun Mar 17 2013,Aarhus,2-1,?,Odense
+Sun Mar 17 2013,Brondby,1-1,?,Midtjylland
+Thu Mar 28 2013,Horsens,2-2,?,Aalborg
+Thu Mar 28 2013,Silkeborg,0-5,?,Sonderjyske
+Thu Mar 28 2013,Odense,0-0,?,Randers FC
+Fri Mar 29 2013,Nordsjaelland,4-2,?,Aarhus
+Fri Mar 29 2013,Esbjerg,1-0,?,Brondby
+Fri Mar 29 2013,Midtjylland,2-2,?,FC Copenhagen
+Sun Mar 31 2013,Sonderjyske,0-2,?,Randers FC
+Sun Mar 31 2013,Odense,2-0,?,Horsens
+Mon Apr 1 2013,Esbjerg,1-0,?,Aalborg
+Mon Apr 1 2013,Nordsjaelland,3-1,?,Midtjylland
+Mon Apr 1 2013,Silkeborg,1-0,?,FC Copenhagen
+Mon Apr 1 2013,Brondby,3-2,?,Aarhus
+Thu Apr 4 2013,Aalborg,0-1,?,Nordsjaelland
+Fri Apr 5 2013,Aarhus,0-1,?,Esbjerg
+Sat Apr 6 2013,Sonderjyske,0-2,?,Midtjylland
+Sun Apr 7 2013,Horsens,0-2,?,Nordsjaelland
+Sun Apr 7 2013,Randers FC,0-1,?,Brondby
+Sun Apr 7 2013,FC Copenhagen,1-1,?,Odense
+Mon Apr 8 2013,Aalborg,1-0,?,Silkeborg
+Tue Apr 9 2013,Sonderjyske,3-1,?,Esbjerg
+Fri Apr 12 2013,Silkeborg,3-1,?,Aarhus
+Sat Apr 13 2013,Midtjylland,5-2,?,Horsens
+Sun Apr 14 2013,Esbjerg,4-0,?,Randers FC
+Sun Apr 14 2013,Brondby,0-3,?,Sonderjyske
+Sun Apr 14 2013,Odense,3-4,?,Aalborg
+Mon Apr 15 2013,Nordsjaelland,2-3,?,FC Copenhagen
+Sat Apr 20 2013,Aarhus,0-0,?,Horsens
+Sun Apr 21 2013,Randers FC,0-0,?,Nordsjaelland
+Sun Apr 21 2013,Sonderjyske,4-1,?,Odense
+Sun Apr 21 2013,Brondby,2-2,?,Silkeborg
+Sun Apr 21 2013,Aalborg,1-1,?,FC Copenhagen
+Mon Apr 22 2013,Esbjerg,0-1,?,Midtjylland
+Fri Apr 26 2013,Silkeborg,0-1,?,Esbjerg
+Sat Apr 27 2013,Nordsjaelland,2-2,?,Sonderjyske
+Sun Apr 28 2013,Horsens,1-0,?,Randers FC
+Sun Apr 28 2013,Odense,1-2,?,Brondby
+Sun Apr 28 2013,FC Copenhagen,0-0,?,Aarhus
+Mon Apr 29 2013,Midtjylland,2-3,?,Aalborg
+Fri May 3 2013,Silkeborg,2-2,?,Nordsjaelland
+Sat May 4 2013,Sonderjyske,1-0,?,Aalborg
+Sun May 5 2013,Esbjerg,1-0,?,Horsens
+Sun May 5 2013,Randers FC,1-0,?,Aarhus
+Sun May 5 2013,Brondby,0-0,?,FC Copenhagen
+Mon May 6 2013,Odense,0-1,?,Midtjylland
+Fri May 10 2013,Nordsjaelland,4-1,?,Odense
+Sat May 11 2013,Aarhus,2-1,?,Sonderjyske
+Sun May 12 2013,Midtjylland,3-0,?,Randers FC
+Sun May 12 2013,Aalborg,1-1,?,Brondby
+Sun May 12 2013,FC Copenhagen,0-2,?,Esbjerg
+Mon May 13 2013,Horsens,2-0,?,Silkeborg
+Thu May 16 2013,Aarhus,3-0,?,Aalborg
+Thu May 16 2013,Brondby,4-0,?,Nordsjaelland
+Thu May 16 2013,Esbjerg,6-2,?,Odense
+Thu May 16 2013,Randers FC,1-0,?,FC Copenhagen
+Thu May 16 2013,Silkeborg,1-1,?,Midtjylland
+Thu May 16 2013,Sonderjyske,4-2,?,Horsens
+Mon May 20 2013,Aalborg,2-2,?,Randers FC
+Mon May 20 2013,FC Copenhagen,1-1,?,Sonderjyske
+Mon May 20 2013,Horsens,0-1,?,Brondby
+Mon May 20 2013,Midtjylland,3-2,?,Aarhus
+Mon May 20 2013,Nordsjaelland,1-0,?,Esbjerg
+Mon May 20 2013,Odense,3-3,?,Silkeborg

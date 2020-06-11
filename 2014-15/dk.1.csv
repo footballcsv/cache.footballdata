@@ -1,0 +1,199 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 18 2014,Nordsjaelland,3-2,?,Vestsjaelland
+Sat Jul 19 2014,Sonderjyske,0-0,?,Aalborg
+Sun Jul 20 2014,Odense,1-2,?,Hobro
+Sun Jul 20 2014,Silkeborg,0-0,?,FC Copenhagen
+Sun Jul 20 2014,Midtjylland,3-1,?,Brondby
+Mon Jul 21 2014,Esbjerg,0-1,?,Randers FC
+Fri Jul 25 2014,Vestsjaelland,3-1,?,Odense
+Sat Jul 26 2014,Aalborg,2-0,?,Midtjylland
+Sat Jul 26 2014,FC Copenhagen,2-1,?,Nordsjaelland
+Sun Jul 27 2014,Randers FC,2-1,?,Hobro
+Sun Jul 27 2014,Esbjerg,1-1,?,Sonderjyske
+Mon Jul 28 2014,Brondby,2-0,?,Silkeborg
+Fri Aug 1 2014,Silkeborg,0-2,?,Sonderjyske
+Sat Aug 2 2014,Vestsjaelland,2-2,?,FC Copenhagen
+Sat Aug 2 2014,Odense,1-1,?,Aalborg
+Sun Aug 3 2014,Nordsjaelland,3-2,?,Esbjerg
+Sun Aug 3 2014,Hobro,2-0,?,Brondby
+Mon Aug 4 2014,Midtjylland,3-1,?,Randers FC
+Fri Aug 8 2014,Randers FC,1-0,?,Vestsjaelland
+Sat Aug 9 2014,Aalborg,1-2,?,Nordsjaelland
+Sun Aug 10 2014,Sonderjyske,1-3,?,Midtjylland
+Sun Aug 10 2014,FC Copenhagen,0-3,?,Hobro
+Sun Aug 10 2014,Brondby,1-1,?,Odense
+Mon Aug 11 2014,Esbjerg,0-0,?,Silkeborg
+Fri Aug 15 2014,FC Copenhagen,1-2,?,Midtjylland
+Sat Aug 16 2014,Aalborg,1-1,?,Esbjerg
+Sun Aug 17 2014,Vestsjaelland,2-0,?,Silkeborg
+Sun Aug 17 2014,Brondby,2-0,?,Sonderjyske
+Sun Aug 17 2014,Randers FC,0-2,?,Odense
+Mon Aug 18 2014,Hobro,0-0,?,Nordsjaelland
+Sat Aug 30 2014,Sonderjyske,1-1,?,Randers FC
+Sun Aug 31 2014,Silkeborg,2-2,?,Aalborg
+Sun Aug 31 2014,Midtjylland,2-0,?,Esbjerg
+Sun Aug 31 2014,Nordsjaelland,0-3,?,Brondby
+Sun Aug 31 2014,Odense,0-1,?,FC Copenhagen
+Mon Sep 1 2014,Hobro,3-1,?,Vestsjaelland
+Fri Sep 12 2014,Midtjylland,3-2,?,Odense
+Sat Sep 13 2014,Aalborg,1-0,?,FC Copenhagen
+Sun Sep 14 2014,Silkeborg,1-2,?,Nordsjaelland
+Sun Sep 14 2014,Brondby,0-2,?,Randers FC
+Sun Sep 14 2014,Esbjerg,3-0,?,Vestsjaelland
+Mon Sep 15 2014,Sonderjyske,1-1,?,Hobro
+Fri Sep 19 2014,Randers FC,1-0,?,Silkeborg
+Sat Sep 20 2014,Hobro,1-1,?,Esbjerg
+Sun Sep 21 2014,Odense,1-1,?,Sonderjyske
+Sun Sep 21 2014,FC Copenhagen,1-0,?,Brondby
+Sun Sep 21 2014,Nordsjaelland,2-1,?,Midtjylland
+Mon Sep 22 2014,Vestsjaelland,1-0,?,Aalborg
+Fri Sep 26 2014,Aalborg,0-0,?,Randers FC
+Sat Sep 27 2014,Sonderjyske,1-1,?,FC Copenhagen
+Sat Sep 27 2014,Silkeborg,2-2,?,Hobro
+Sun Sep 28 2014,Midtjylland,1-0,?,Vestsjaelland
+Sun Sep 28 2014,Esbjerg,2-2,?,Brondby
+Mon Sep 29 2014,Nordsjaelland,2-1,?,Odense
+Fri Oct 3 2014,Hobro,1-5,?,Midtjylland
+Sat Oct 4 2014,Odense,2-0,?,Silkeborg
+Sun Oct 5 2014,Vestsjaelland,1-1,?,Sonderjyske
+Sun Oct 5 2014,Randers FC,0-0,?,Nordsjaelland
+Sun Oct 5 2014,FC Copenhagen,2-1,?,Esbjerg
+Sun Oct 5 2014,Brondby,2-1,?,Aalborg
+Fri Oct 17 2014,Aalborg,1-1,?,Hobro
+Sat Oct 18 2014,Nordsjaelland,2-3,?,Sonderjyske
+Sun Oct 19 2014,Midtjylland,2-1,?,Silkeborg
+Sun Oct 19 2014,Brondby,5-0,?,Vestsjaelland
+Sun Oct 19 2014,FC Copenhagen,1-0,?,Randers FC
+Mon Oct 20 2014,Esbjerg,2-0,?,Odense
+Fri Oct 24 2014,Silkeborg,1-2,?,Vestsjaelland
+Sat Oct 25 2014,Sonderjyske,1-1,?,Midtjylland
+Sun Oct 26 2014,Randers FC,3-0,?,Odense
+Sun Oct 26 2014,Hobro,0-2,?,FC Copenhagen
+Sun Oct 26 2014,Esbjerg,0-0,?,Brondby
+Mon Oct 27 2014,Nordsjaelland,0-1,?,Aalborg
+Fri Oct 31 2014,Midtjylland,2-0,?,Nordsjaelland
+Sat Nov 1 2014,Vestsjaelland,1-4,?,Esbjerg
+Sun Nov 2 2014,Odense,3-1,?,Hobro
+Sun Nov 2 2014,FC Copenhagen,1-1,?,Sonderjyske
+Sun Nov 2 2014,Brondby,1-0,?,Randers FC
+Mon Nov 3 2014,Aalborg,2-0,?,Silkeborg
+Fri Nov 7 2014,Silkeborg,1-2,?,Midtjylland
+Sat Nov 8 2014,Randers FC,3-2,?,Esbjerg
+Sun Nov 9 2014,Sonderjyske,2-1,?,Odense
+Sun Nov 9 2014,Aalborg,2-0,?,Vestsjaelland
+Sun Nov 9 2014,Hobro,3-0,?,Brondby
+Sun Nov 9 2014,Nordsjaelland,0-0,?,FC Copenhagen
+Fri Nov 21 2014,Vestsjaelland,0-1,?,Randers FC
+Sat Nov 22 2014,Esbjerg,4-2,?,Hobro
+Sat Nov 22 2014,FC Copenhagen,1-0,?,Silkeborg
+Sun Nov 23 2014,Odense,1-0,?,Nordsjaelland
+Sun Nov 23 2014,Brondby,1-0,?,Sonderjyske
+Sun Nov 23 2014,Midtjylland,2-0,?,Aalborg
+Fri Nov 28 2014,Sonderjyske,0-0,?,Esbjerg
+Sat Nov 29 2014,Silkeborg,0-1,?,Odense
+Sun Nov 30 2014,Hobro,0-1,?,Randers FC
+Sun Nov 30 2014,Nordsjaelland,2-0,?,Brondby
+Sun Nov 30 2014,Aalborg,0-1,?,FC Copenhagen
+Mon Dec 1 2014,Midtjylland,2-1,?,Vestsjaelland
+Fri Dec 5 2014,Randers FC,0-0,?,Sonderjyske
+Sat Dec 6 2014,Odense,1-1,?,Aalborg
+Sun Dec 7 2014,Vestsjaelland,1-1,?,Hobro
+Sun Dec 7 2014,Brondby,1-0,?,Silkeborg
+Sun Dec 7 2014,FC Copenhagen,3-0,?,Midtjylland
+Mon Dec 8 2014,Esbjerg,0-0,?,Nordsjaelland
+Fri Feb 20 2015,Nordsjaelland,0-3,?,Randers FC
+Sat Feb 21 2015,Silkeborg,1-3,?,Esbjerg
+Sun Feb 22 2015,Sonderjyske,1-0,?,Hobro
+Sun Feb 22 2015,FC Copenhagen,2-0,?,Vestsjaelland
+Sun Feb 22 2015,Aalborg,1-0,?,Brondby
+Mon Feb 23 2015,Midtjylland,3-0,?,Odense
+Fri Feb 27 2015,Vestsjaelland,0-1,?,Sonderjyske
+Sat Feb 28 2015,Hobro,1-0,?,Nordsjaelland
+Sun Mar 1 2015,Randers FC,1-2,?,Silkeborg
+Sun Mar 1 2015,Odense,1-0,?,FC Copenhagen
+Sun Mar 1 2015,Brondby,1-1,?,Midtjylland
+Mon Mar 2 2015,Esbjerg,1-3,?,Aalborg
+Sat Mar 7 2015,Nordsjaelland,4-0,?,Sonderjyske
+Sun Mar 8 2015,Silkeborg,0-1,?,Hobro
+Sun Mar 8 2015,FC Copenhagen,3-1,?,Brondby
+Sun Mar 8 2015,Midtjylland,3-0,?,Esbjerg
+Sun Mar 8 2015,Aalborg,2-1,?,Randers FC
+Mon Mar 9 2015,Vestsjaelland,1-2,?,Odense
+Fri Mar 13 2015,Randers FC,1-2,?,Midtjylland
+Sat Mar 14 2015,Sonderjyske,1-4,?,Silkeborg
+Sun Mar 15 2015,Nordsjaelland,2-0,?,Vestsjaelland
+Sun Mar 15 2015,Esbjerg,0-1,?,FC Copenhagen
+Sun Mar 15 2015,Brondby,2-0,?,Odense
+Mon Mar 16 2015,Hobro,1-0,?,Aalborg
+Fri Mar 20 2015,Odense,0-2,?,Esbjerg
+Sat Mar 21 2015,Midtjylland,3-0,?,Hobro
+Sun Mar 22 2015,Silkeborg,2-2,?,Nordsjaelland
+Sun Mar 22 2015,Aalborg,1-4,?,Sonderjyske
+Sun Mar 22 2015,Vestsjaelland,0-1,?,Brondby
+Sun Mar 22 2015,FC Copenhagen,1-1,?,Randers FC
+Sat Apr 4 2015,Sonderjyske,1-2,?,Nordsjaelland
+Sun Apr 5 2015,Hobro,2-2,?,Silkeborg
+Sun Apr 5 2015,Esbjerg,3-3,?,Midtjylland
+Mon Apr 6 2015,Brondby,0-0,?,FC Copenhagen
+Mon Apr 6 2015,Randers FC,1-1,?,Aalborg
+Tue Apr 7 2015,Odense,1-2,?,Vestsjaelland
+Fri Apr 10 2015,Hobro,3-1,?,Esbjerg
+Sat Apr 11 2015,Randers FC,1-1,?,Vestsjaelland
+Sun Apr 12 2015,Nordsjaelland,1-2,?,Odense
+Sun Apr 12 2015,Aalborg,1-2,?,Midtjylland
+Sun Apr 12 2015,Sonderjyske,0-1,?,Brondby
+Mon Apr 13 2015,Silkeborg,0-4,?,FC Copenhagen
+Fri Apr 17 2015,Midtjylland,1-0,?,Silkeborg
+Sat Apr 18 2015,Vestsjaelland,2-1,?,Aalborg
+Sun Apr 19 2015,Odense,0-0,?,Sonderjyske
+Sun Apr 19 2015,Brondby,0-1,?,Hobro
+Sun Apr 19 2015,FC Copenhagen,2-0,?,Nordsjaelland
+Mon Apr 20 2015,Esbjerg,0-0,?,Randers FC
+Fri Apr 24 2015,Esbjerg,0-2,?,Odense
+Sat Apr 25 2015,Nordsjaelland,1-0,?,Silkeborg
+Sun Apr 26 2015,Sonderjyske,0-3,?,Aalborg
+Sun Apr 26 2015,Brondby,4-0,?,Vestsjaelland
+Sun Apr 26 2015,Randers FC,3-0,?,FC Copenhagen
+Mon Apr 27 2015,Hobro,0-0,?,Midtjylland
+Fri May 1 2015,Aalborg,5-0,?,Hobro
+Sat May 2 2015,Silkeborg,2-2,?,Sonderjyske
+Sun May 3 2015,Vestsjaelland,2-1,?,Nordsjaelland
+Sun May 3 2015,FC Copenhagen,2-1,?,Esbjerg
+Sun May 3 2015,Odense,0-2,?,Brondby
+Mon May 4 2015,Midtjylland,5-2,?,Randers FC
+Fri May 8 2015,Randers FC,2-0,?,Nordsjaelland
+Sat May 9 2015,Esbjerg,5-2,?,Silkeborg
+Sun May 10 2015,Hobro,2-2,?,Sonderjyske
+Sun May 10 2015,Odense,3-1,?,Midtjylland
+Sun May 10 2015,Brondby,1-1,?,Aalborg
+Mon May 11 2015,Vestsjaelland,0-1,?,FC Copenhagen
+Fri May 15 2015,Aalborg,0-2,?,Odense
+Sun May 17 2015,Hobro,0-1,?,Vestsjaelland
+Sun May 17 2015,Silkeborg,0-2,?,Brondby
+Sun May 17 2015,Midtjylland,2-0,?,FC Copenhagen
+Mon May 18 2015,Nordsjaelland,1-3,?,Esbjerg
+Mon May 18 2015,Sonderjyske,1-1,?,Randers FC
+Wed May 20 2015,Odense,1-1,?,Silkeborg
+Wed May 20 2015,FC Copenhagen,1-0,?,Aalborg
+Thu May 21 2015,Randers FC,0-1,?,Hobro
+Thu May 21 2015,Vestsjaelland,0-0,?,Midtjylland
+Thu May 21 2015,Brondby,3-1,?,Nordsjaelland
+Thu May 21 2015,Esbjerg,2-3,?,Sonderjyske
+Sun May 24 2015,Sonderjyske,1-1,?,Vestsjaelland
+Mon May 25 2015,Nordsjaelland,4-2,?,Hobro
+Mon May 25 2015,Silkeborg,0-2,?,Randers FC
+Mon May 25 2015,FC Copenhagen,1-0,?,Odense
+Mon May 25 2015,Midtjylland,2-3,?,Brondby
+Tue May 26 2015,Aalborg,1-0,?,Esbjerg
+Sun May 31 2015,Esbjerg,2-1,?,Vestsjaelland
+Sun May 31 2015,Hobro,2-2,?,Odense
+Sun May 31 2015,Nordsjaelland,1-0,?,Midtjylland
+Sun May 31 2015,Randers FC,1-1,?,Brondby
+Sun May 31 2015,Silkeborg,1-2,?,Aalborg
+Sun May 31 2015,Sonderjyske,1-2,?,FC Copenhagen
+Sun Jun 7 2015,Aalborg,1-0,?,Nordsjaelland
+Sun Jun 7 2015,Brondby,0-1,?,Esbjerg
+Sun Jun 7 2015,FC Copenhagen,1-0,?,Hobro
+Sun Jun 7 2015,Midtjylland,2-1,?,Sonderjyske
+Sun Jun 7 2015,Odense,0-2,?,Randers FC
+Sun Jun 7 2015,Vestsjaelland,3-1,?,Silkeborg

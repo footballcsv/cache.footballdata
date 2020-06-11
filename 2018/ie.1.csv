@@ -1,0 +1,186 @@
+Date,Team 1,FT,HT,Team 2
+Fri Feb 16 2018,Bohemians,3-1,?,Shamrock Rovers
+Fri Feb 16 2018,Dundalk,0-0,?,Bray
+Fri Feb 16 2018,St. Patricks,2-3,?,Cork City
+Fri Feb 16 2018,Waterford,2-1,?,Derry City
+Sat Feb 17 2018,Sligo Rovers,0-1,?,Limerick
+Fri Feb 23 2018,Bray,1-2,?,St. Patricks
+Fri Feb 23 2018,Cork City,2-0,?,Waterford
+Fri Feb 23 2018,Sligo Rovers,2-1,?,Derry City
+Fri Feb 23 2018,Shamrock Rovers,0-0,?,Dundalk
+Sat Feb 24 2018,Limerick,1-1,?,Bohemians
+Mon Feb 26 2018,Sligo Rovers,1-4,?,Cork City
+Mon Feb 26 2018,Waterford,2-0,?,St. Patricks
+Mon Feb 26 2018,Shamrock Rovers,6-0,?,Bray
+Tue Feb 27 2018,Bohemians,0-1,?,Derry City
+Tue Feb 27 2018,Dundalk,8-0,?,Limerick
+Fri Mar 9 2018,Bohemians,0-1,?,St. Patricks
+Fri Mar 9 2018,Limerick,1-0,?,Bray
+Fri Mar 9 2018,Sligo Rovers,1-2,?,Waterford
+Fri Mar 9 2018,Dundalk,1-0,?,Cork City
+Fri Mar 9 2018,Shamrock Rovers,6-1,?,Derry City
+Mon Mar 12 2018,Bray,1-2,?,Sligo Rovers
+Mon Mar 12 2018,Cork City,1-0,?,Shamrock Rovers
+Mon Mar 12 2018,Derry City,5-0,?,Limerick
+Mon Mar 12 2018,St. Patricks,0-0,?,Dundalk
+Mon Mar 12 2018,Waterford,1-0,?,Bohemians
+Fri Mar 16 2018,Bohemians,2-2,?,Sligo Rovers
+Fri Mar 16 2018,Derry City,5-1,?,Bray
+Fri Mar 16 2018,Dundalk,1-0,?,Waterford
+Fri Mar 16 2018,Limerick,1-1,?,Cork City
+Fri Mar 16 2018,Shamrock Rovers,1-0,?,St. Patricks
+Mon Mar 19 2018,Cork City,3-0,?,Bohemians
+Mon Mar 19 2018,Limerick,0-1,?,Shamrock Rovers
+Fri Mar 23 2018,Bohemians,2-1,?,Bray
+Fri Mar 23 2018,St. Patricks,1-0,?,Limerick
+Fri Mar 23 2018,Waterford,2-1,?,Shamrock Rovers
+Sat Mar 24 2018,Sligo Rovers,0-2,?,Dundalk
+Fri Mar 30 2018,Derry City,2-1,?,St. Patricks
+Fri Mar 30 2018,Bray,0-4,?,Cork City
+Fri Mar 30 2018,Dundalk,3-0,?,Bohemians
+Fri Mar 30 2018,Limerick,0-2,?,Waterford
+Fri Mar 30 2018,Shamrock Rovers,1-0,?,Sligo Rovers
+Fri Apr 6 2018,Dundalk,2-1,?,Shamrock Rovers
+Fri Apr 6 2018,Bohemians,0-0,?,Limerick
+Fri Apr 6 2018,St. Patricks,5-0,?,Bray
+Fri Apr 6 2018,Waterford,2-1,?,Cork City
+Sat Apr 7 2018,Sligo Rovers,0-2,?,Derry City
+Fri Apr 13 2018,Bray,0-2,?,Dundalk
+Fri Apr 13 2018,Cork City,1-0,?,St. Patricks
+Fri Apr 13 2018,Derry City,1-0,?,Waterford
+Fri Apr 13 2018,Shamrock Rovers,1-2,?,Bohemians
+Sat Apr 14 2018,Limerick,1-2,?,Sligo Rovers
+Mon Apr 16 2018,Bray,1-0,?,Shamrock Rovers
+Mon Apr 16 2018,Derry City,3-1,?,Bohemians
+Mon Apr 16 2018,St. Patricks,1-0,?,Waterford
+Tue Apr 17 2018,Cork City,1-0,?,Sligo Rovers
+Tue Apr 17 2018,Limerick,0-3,?,Dundalk
+Fri Apr 20 2018,Dundalk,2-2,?,Derry City
+Fri Apr 20 2018,Waterford,3-0,?,Bray
+Fri Apr 20 2018,Bohemians,0-2,?,Cork City
+Fri Apr 20 2018,Shamrock Rovers,1-1,?,Limerick
+Sat Apr 21 2018,Sligo Rovers,0-0,?,St. Patricks
+Fri Apr 27 2018,Cork City,1-0,?,Dundalk
+Fri Apr 27 2018,Bray,0-1,?,Limerick
+Fri Apr 27 2018,Derry City,0-0,?,Shamrock Rovers
+Fri Apr 27 2018,St. Patricks,2-2,?,Bohemians
+Fri Apr 27 2018,Waterford,1-1,?,Sligo Rovers
+Mon Apr 30 2018,Bohemians,0-1,?,Waterford
+Mon Apr 30 2018,Dundalk,5-0,?,St. Patricks
+Mon Apr 30 2018,Limerick,0-3,?,Derry City
+Mon Apr 30 2018,Sligo Rovers,2-1,?,Bray
+Mon Apr 30 2018,Shamrock Rovers,3-0,?,Cork City
+Fri May 4 2018,Bray,2-1,?,Derry City
+Fri May 4 2018,St. Patricks,2-0,?,Shamrock Rovers
+Fri May 4 2018,Waterford,2-1,?,Dundalk
+Sat May 5 2018,Cork City,2-1,?,Limerick
+Sat May 5 2018,Sligo Rovers,0-2,?,Bohemians
+Fri May 11 2018,Bray,1-3,?,Bohemians
+Fri May 11 2018,Derry City,0-0,?,Cork City
+Fri May 11 2018,Dundalk,2-1,?,Sligo Rovers
+Fri May 11 2018,Limerick,0-1,?,St. Patricks
+Fri May 11 2018,Shamrock Rovers,1-1,?,Waterford
+Mon May 14 2018,Bray,2-2,?,Waterford
+Mon May 14 2018,Derry City,1-4,?,Dundalk
+Tue May 15 2018,St. Patricks,2-0,?,Sligo Rovers
+Fri May 18 2018,Bohemians,0-2,?,Dundalk
+Fri May 18 2018,Cork City,4-0,?,Bray
+Fri May 18 2018,St. Patricks,5-2,?,Derry City
+Fri May 18 2018,Waterford,3-6,?,Limerick
+Sat May 19 2018,Sligo Rovers,0-0,?,Shamrock Rovers
+Mon May 21 2018,Derry City,2-0,?,Bray
+Mon May 21 2018,Dundalk,2-0,?,Waterford
+Mon May 21 2018,Limerick,0-2,?,Cork City
+Tue May 22 2018,Shamrock Rovers,3-0,?,St. Patricks
+Fri May 25 2018,Bohemians,1-1,?,Shamrock Rovers
+Fri May 25 2018,Dundalk,5-0,?,Bray
+Fri May 25 2018,Sligo Rovers,0-0,?,Limerick
+Fri May 25 2018,St. Patricks,1-3,?,Cork City
+Fri May 25 2018,Waterford,4-0,?,Derry City
+Fri Jun 1 2018,Bray,3-1,?,St. Patricks
+Fri Jun 1 2018,Cork City,3-0,?,Waterford
+Fri Jun 1 2018,Derry City,0-2,?,Sligo Rovers
+Fri Jun 1 2018,Limerick,1-1,?,Bohemians
+Fri Jun 1 2018,Shamrock Rovers,2-5,?,Dundalk
+Mon Jun 4 2018,Cork City,4-2,?,Derry City
+Fri Jun 8 2018,Bohemians,1-2,?,Derry City
+Fri Jun 8 2018,Dundalk,4-0,?,Limerick
+Fri Jun 8 2018,Waterford,2-0,?,St. Patricks
+Sat Jun 9 2018,Shamrock Rovers,5-0,?,Bray
+Sat Jun 9 2018,Sligo Rovers,0-2,?,Cork City
+Fri Jun 15 2018,Bray,0-0,?,Waterford
+Fri Jun 15 2018,Cork City,1-0,?,Bohemians
+Fri Jun 15 2018,Derry City,0-4,?,Dundalk
+Fri Jun 15 2018,Limerick,0-2,?,Shamrock Rovers
+Fri Jun 15 2018,St. Patricks,0-3,?,Sligo Rovers
+Fri Jun 29 2018,Dundalk,2-1,?,Cork City
+Fri Jun 29 2018,Bohemians,1-0,?,St. Patricks
+Fri Jun 29 2018,Limerick,2-1,?,Bray
+Fri Jun 29 2018,Shamrock Rovers,2-0,?,Derry City
+Sat Jun 30 2018,Sligo Rovers,2-3,?,Waterford
+Fri Jul 6 2018,Cork City,0-0,?,Shamrock Rovers
+Fri Jul 6 2018,Derry City,2-1,?,Limerick
+Fri Jul 6 2018,St. Patricks,1-3,?,Dundalk
+Fri Jul 6 2018,Waterford,1-1,?,Bohemians
+Sun Jul 8 2018,Bray,2-1,?,Sligo Rovers
+Fri Jul 13 2018,Bohemians,0-3,?,Sligo Rovers
+Fri Jul 20 2018,Bohemians,6-0,?,Bray
+Fri Jul 20 2018,St. Patricks,2-1,?,Limerick
+Sun Jul 22 2018,Waterford,0-1,?,Shamrock Rovers
+Mon Jul 23 2018,Cork City,5-0,?,Derry City
+Fri Jul 27 2018,Bray,1-3,?,Cork City
+Fri Jul 27 2018,Derry City,2-1,?,St. Patricks
+Fri Jul 27 2018,Limerick,2-1,?,Waterford
+Fri Jul 27 2018,Shamrock Rovers,2-0,?,Sligo Rovers
+Sun Jul 29 2018,Dundalk,2-0,?,Bohemians
+Fri Aug 3 2018,Bohemians,5-0,?,Limerick
+Fri Aug 3 2018,Derry City,1-2,?,Sligo Rovers
+Fri Aug 3 2018,St. Patricks,3-0,?,Bray
+Fri Aug 3 2018,Waterford,1-2,?,Cork City
+Fri Aug 17 2018,Bray,1-3,?,Dundalk
+Fri Aug 17 2018,Derry City,1-2,?,Waterford
+Fri Aug 17 2018,Limerick,1-3,?,Sligo Rovers
+Fri Aug 17 2018,Shamrock Rovers,0-1,?,Bohemians
+Sun Aug 19 2018,Cork City,1-1,?,St. Patricks
+Mon Aug 20 2018,Sligo Rovers,0-2,?,Dundalk
+Tue Aug 28 2018,Dundalk,1-2,?,Shamrock Rovers
+Fri Aug 31 2018,Bray,0-3,?,Shamrock Rovers
+Fri Aug 31 2018,Cork City,1-2,?,Sligo Rovers
+Fri Aug 31 2018,Derry City,0-2,?,Bohemians
+Fri Aug 31 2018,Limerick,0-1,?,Dundalk
+Fri Aug 31 2018,St. Patricks,3-0,?,Waterford
+Fri Sep 14 2018,Bohemians,4-2,?,Cork City
+Fri Sep 14 2018,Waterford,2-0,?,Bray
+Fri Sep 14 2018,Shamrock Rovers,5-0,?,Limerick
+Sat Sep 15 2018,Sligo Rovers,1-2,?,St. Patricks
+Fri Sep 21 2018,Cork City,0-1,?,Dundalk
+Fri Sep 21 2018,Bray,0-2,?,Limerick
+Fri Sep 21 2018,Waterford,1-0,?,Sligo Rovers
+Sat Sep 22 2018,Derry City,0-1,?,Shamrock Rovers
+Sat Sep 22 2018,St. Patricks,1-3,?,Bohemians
+Tue Sep 25 2018,Dundalk,3-2,?,Derry City
+Fri Oct 5 2018,Bohemians,1-3,?,Waterford
+Fri Oct 5 2018,Drogheda,0-1,?,Shelbourne
+Fri Oct 5 2018,Dundalk,1-1,?,St. Patricks
+Fri Oct 5 2018,Limerick,0-1,?,Derry City
+Fri Oct 5 2018,Shamrock Rovers,0-0,?,Cork City
+Sat Oct 6 2018,Sligo Rovers,2-1,?,Bray
+Mon Oct 8 2018,Shelbourne,1-2,?,Drogheda
+Fri Oct 12 2018,Cork City,3-0,?,Limerick
+Fri Oct 12 2018,Drogheda,1-1,?,Finn Harps
+Fri Oct 12 2018,St. Patricks,0-1,?,Shamrock Rovers
+Fri Oct 12 2018,Waterford,1-2,?,Dundalk
+Fri Oct 19 2018,Bray,0-5,?,Bohemians
+Fri Oct 19 2018,Derry City,0-3,?,Cork City
+Fri Oct 19 2018,Dundalk,5-0,?,Sligo Rovers
+Fri Oct 19 2018,Limerick,0-4,?,St. Patricks
+Fri Oct 19 2018,Shamrock Rovers,3-1,?,Waterford
+Mon Oct 22 2018,Bray,2-1,?,Derry City
+Mon Oct 22 2018,Sligo Rovers,1-1,?,Bohemians
+Fri Oct 26 2018,Bohemians,1-1,?,Dundalk
+Fri Oct 26 2018,Cork City,5-1,?,Bray
+Fri Oct 26 2018,Sligo Rovers,2-0,?,Shamrock Rovers
+Fri Oct 26 2018,St. Patricks,5-0,?,Derry City
+Fri Oct 26 2018,Waterford,4-1,?,Limerick
+Mon Oct 29 2018,Finn Harps,1-0,?,Limerick
+Fri Nov 2 2018,Limerick,0-2,?,Finn Harps

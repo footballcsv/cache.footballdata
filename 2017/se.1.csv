@@ -1,0 +1,243 @@
+Date,Team 1,FT,HT,Team 2
+Sat Apr 1 2017,Goteborg,1-1,?,Malmo FF
+Sat Apr 1 2017,Halmstad,1-0,?,Ostersunds
+Sun Apr 2 2017,AIK,0-0,?,Hacken
+Sun Apr 2 2017,Sundsvall,3-1,?,AFC Eskilstuna
+Sun Apr 2 2017,Norrkoping,2-1,?,Hammarby
+Mon Apr 3 2017,Djurgarden,0-2,?,Sirius
+Mon Apr 3 2017,Kalmar,1-5,?,Elfsborg
+Mon Apr 3 2017,Orebro,2-1,?,Jonkopings
+Sat Apr 8 2017,AFC Eskilstuna,2-2,?,Orebro
+Sun Apr 9 2017,Hammarby,1-1,?,Kalmar
+Sun Apr 9 2017,Ostersunds,1-0,?,Norrkoping
+Sun Apr 9 2017,Hacken,0-0,?,Djurgarden
+Sun Apr 9 2017,Jonkopings,2-2,?,Halmstad
+Sun Apr 9 2017,Sirius,0-2,?,Goteborg
+Mon Apr 10 2017,Elfsborg,1-2,?,AIK
+Tue Apr 11 2017,Malmo FF,2-0,?,Sundsvall
+Sun Apr 16 2017,Halmstad,0-3,?,Malmo FF
+Sun Apr 16 2017,Orebro,2-1,?,Ostersunds
+Sun Apr 16 2017,Djurgarden,3-0,?,Elfsborg
+Sun Apr 16 2017,Sundsvall,1-2,?,Hacken
+Mon Apr 17 2017,AIK,1-2,?,Hammarby
+Mon Apr 17 2017,Kalmar,1-3,?,Jonkopings
+Mon Apr 17 2017,Goteborg,1-1,?,AFC Eskilstuna
+Mon Apr 17 2017,Norrkoping,0-2,?,Sirius
+Thu Apr 20 2017,Elfsborg,3-0,?,Orebro
+Sat Apr 22 2017,Jonkopings,2-1,?,AIK
+Sun Apr 23 2017,Hacken,1-2,?,Norrkoping
+Sun Apr 23 2017,Hammarby,0-0,?,Sundsvall
+Sun Apr 23 2017,AFC Eskilstuna,0-0,?,Halmstad
+Sun Apr 23 2017,Ostersunds,1-1,?,Goteborg
+Mon Apr 24 2017,Malmo FF,3-2,?,Djurgarden
+Mon Apr 24 2017,Sirius,3-0,?,Kalmar
+Wed Apr 26 2017,AFC Eskilstuna,1-3,?,Ostersunds
+Wed Apr 26 2017,Goteborg,1-1,?,Hammarby
+Wed Apr 26 2017,Orebro,0-0,?,Hacken
+Wed Apr 26 2017,Sundsvall,1-1,?,Elfsborg
+Thu Apr 27 2017,AIK,1-0,?,Sirius
+Thu Apr 27 2017,Halmstad,0-1,?,Djurgarden
+Thu Apr 27 2017,Kalmar,0-0,?,Malmo FF
+Thu Apr 27 2017,Norrkoping,3-0,?,Jonkopings
+Sat Apr 29 2017,Hammarby,4-0,?,AFC Eskilstuna
+Sun Apr 30 2017,AIK,0-0,?,Sundsvall
+Mon May 1 2017,Kalmar,2-0,?,Halmstad
+Mon May 1 2017,Malmo FF,2-1,?,Orebro
+Mon May 1 2017,Djurgarden,3-3,?,Norrkoping
+Mon May 1 2017,Sirius,1-1,?,Jonkopings
+Tue May 2 2017,Elfsborg,4-4,?,Ostersunds
+Tue May 2 2017,Hacken,4-0,?,Goteborg
+Fri May 5 2017,Hacken,2-2,?,Sirius
+Sat May 6 2017,Halmstad,0-1,?,AIK
+Sun May 7 2017,Goteborg,3-0,?,Kalmar
+Sun May 7 2017,Ostersunds,2-1,?,Hammarby
+Sun May 7 2017,Jonkopings,1-0,?,AFC Eskilstuna
+Sun May 7 2017,Orebro,0-4,?,Djurgarden
+Mon May 8 2017,Elfsborg,1-2,?,Malmo FF
+Mon May 8 2017,Norrkoping,0-0,?,Sundsvall
+Fri May 12 2017,AFC Eskilstuna,1-2,?,Norrkoping
+Sat May 13 2017,AIK,1-0,?,Orebro
+Sat May 13 2017,Kalmar,0-1,?,Hacken
+Sun May 14 2017,Halmstad,1-2,?,Hammarby
+Sun May 14 2017,Sundsvall,0-0,?,Jonkopings
+Sun May 14 2017,Malmo FF,2-1,?,Ostersunds
+Sun May 14 2017,Sirius,4-1,?,Elfsborg
+Mon May 15 2017,Djurgarden,1-0,?,Goteborg
+Tue May 16 2017,Norrkoping,2-0,?,Kalmar
+Wed May 17 2017,Hacken,2-1,?,Halmstad
+Wed May 17 2017,Hammarby,1-1,?,Malmo FF
+Wed May 17 2017,Orebro,0-2,?,Sundsvall
+Wed May 17 2017,Ostersunds,0-0,?,Sirius
+Thu May 18 2017,Elfsborg,2-1,?,AFC Eskilstuna
+Thu May 18 2017,Jonkopings,1-1,?,Djurgarden
+Sat May 20 2017,Ostersunds,2-1,?,Kalmar
+Sat May 20 2017,Halmstad,0-0,?,Orebro
+Sun May 21 2017,AFC Eskilstuna,0-0,?,Hacken
+Sun May 21 2017,Sirius,1-1,?,Hammarby
+Sun May 21 2017,Malmo FF,1-2,?,Norrkoping
+Mon May 22 2017,Djurgarden,0-1,?,AIK
+Mon May 22 2017,Elfsborg,3-0,?,Jonkopings
+Mon May 22 2017,Sundsvall,0-4,?,Goteborg
+Sat May 27 2017,Djurgarden,4-1,?,AFC Eskilstuna
+Sat May 27 2017,Kalmar,3-0,?,Sundsvall
+Sat May 27 2017,Norrkoping,3-2,?,Halmstad
+Sun May 28 2017,Hammarby,2-2,?,Jonkopings
+Sun May 28 2017,Goteborg,1-1,?,Elfsborg
+Mon May 29 2017,AIK,0-1,?,Malmo FF
+Mon May 29 2017,Hacken,0-1,?,Ostersunds
+Mon May 29 2017,Orebro,2-1,?,Sirius
+Thu Jun 1 2017,Norrkoping,0-0,?,AIK
+Fri Jun 2 2017,Elfsborg,2-0,?,Hacken
+Sat Jun 3 2017,Kalmar,0-1,?,Orebro
+Sat Jun 3 2017,Ostersunds,3-1,?,Sundsvall
+Sat Jun 3 2017,Jonkopings,1-2,?,Malmo FF
+Sun Jun 4 2017,AFC Eskilstuna,1-3,?,AIK
+Sun Jun 4 2017,Hammarby,3-1,?,Djurgarden
+Sun Jun 4 2017,Norrkoping,2-0,?,Goteborg
+Sun Jun 4 2017,Sirius,2-1,?,Halmstad
+Sat Jul 1 2017,Malmo FF,3-2,?,AFC Eskilstuna
+Sat Jul 1 2017,Sundsvall,1-2,?,Sirius
+Sat Jul 1 2017,Halmstad,1-1,?,Elfsborg
+Sun Jul 2 2017,Jonkopings,0-2,?,Goteborg
+Sun Jul 2 2017,AIK,2-2,?,Ostersunds
+Sun Jul 2 2017,Orebro,4-2,?,Norrkoping
+Mon Jul 3 2017,Djurgarden,4-1,?,Kalmar
+Mon Jul 3 2017,Hacken,2-0,?,Hammarby
+Sat Jul 8 2017,Hammarby,3-1,?,Orebro
+Sat Jul 8 2017,Sirius,1-0,?,AFC Eskilstuna
+Sat Jul 8 2017,Hacken,0-1,?,Malmo FF
+Sun Jul 9 2017,Norrkoping,1-3,?,Elfsborg
+Sun Jul 9 2017,Kalmar,0-1,?,AIK
+Sun Jul 9 2017,Ostersunds,1-1,?,Jonkopings
+Mon Jul 10 2017,Djurgarden,2-1,?,Sundsvall
+Mon Jul 10 2017,Goteborg,1-1,?,Halmstad
+Sat Jul 15 2017,AFC Eskilstuna,2-1,?,Kalmar
+Sat Jul 15 2017,Malmo FF,3-3,?,Sirius
+Sat Jul 15 2017,Sundsvall,1-0,?,Halmstad
+Sun Jul 16 2017,Orebro,4-2,?,Goteborg
+Sun Jul 16 2017,AIK,1-0,?,Norrkoping
+Sun Jul 16 2017,Ostersunds,2-1,?,Djurgarden
+Mon Jul 17 2017,Elfsborg,3-0,?,Hammarby
+Mon Jul 17 2017,Jonkopings,0-1,?,Hacken
+Sat Jul 22 2017,Halmstad,2-2,?,Sundsvall
+Sat Jul 22 2017,Malmo FF,2-0,?,Jonkopings
+Sat Jul 22 2017,Sirius,2-2,?,Hacken
+Sun Jul 23 2017,Djurgarden,3-0,?,Ostersunds
+Sun Jul 23 2017,Goteborg,2-2,?,Orebro
+Sun Jul 23 2017,Kalmar,2-0,?,AFC Eskilstuna
+Mon Jul 24 2017,Hammarby,2-1,?,Elfsborg
+Sat Jul 29 2017,Elfsborg,0-2,?,Sirius
+Sat Jul 29 2017,Jonkopings,1-0,?,Hammarby
+Sat Jul 29 2017,Sundsvall,0-1,?,Malmo FF
+Sun Jul 30 2017,Goteborg,4-1,?,Norrkoping
+Sun Jul 30 2017,Ostersunds,0-0,?,Halmstad
+Sun Jul 30 2017,AIK,0-1,?,Kalmar
+Mon Jul 31 2017,AFC Eskilstuna,1-2,?,Djurgarden
+Mon Jul 31 2017,Hacken,1-1,?,Orebro
+Sat Aug 5 2017,Halmstad,6-1,?,Jonkopings
+Sat Aug 5 2017,Orebro,2-2,?,Elfsborg
+Sun Aug 6 2017,Hammarby,1-2,?,Hacken
+Sun Aug 6 2017,Kalmar,1-0,?,Goteborg
+Sun Aug 6 2017,Sundsvall,1-1,?,Ostersunds
+Sun Aug 6 2017,Sirius,1-4,?,AIK
+Mon Aug 7 2017,Djurgarden,0-1,?,Malmo FF
+Mon Aug 7 2017,Norrkoping,1-0,?,AFC Eskilstuna
+Thu Aug 10 2017,Goteborg,2-1,?,AIK
+Fri Aug 11 2017,Malmo FF,6-0,?,Kalmar
+Sat Aug 12 2017,Halmstad,0-3,?,Sirius
+Sun Aug 13 2017,AIK,1-1,?,AFC Eskilstuna
+Sun Aug 13 2017,Hammarby,2-2,?,Ostersunds
+Sun Aug 13 2017,Jonkopings,1-2,?,Orebro
+Sun Aug 13 2017,Norrkoping,0-1,?,Djurgarden
+Mon Aug 14 2017,Elfsborg,1-2,?,Goteborg
+Mon Aug 14 2017,Hacken,2-0,?,Sundsvall
+Fri Aug 18 2017,Jonkopings,2-2,?,Elfsborg
+Sat Aug 19 2017,AFC Eskilstuna,3-1,?,Malmo FF
+Sun Aug 20 2017,Djurgarden,2-1,?,Halmstad
+Sun Aug 20 2017,Ostersunds,0-3,?,AIK
+Sun Aug 20 2017,Goteborg,1-1,?,Hacken
+Sun Aug 20 2017,Sirius,0-1,?,Norrkoping
+Mon Aug 21 2017,Orebro,0-3,?,Hammarby
+Mon Aug 21 2017,Sundsvall,1-3,?,Kalmar
+Sat Aug 26 2017,AFC Eskilstuna,0-0,?,Hammarby
+Sun Aug 27 2017,AIK,1-1,?,Djurgarden
+Sun Aug 27 2017,Hacken,3-1,?,Jonkopings
+Sun Aug 27 2017,Kalmar,4-2,?,Sirius
+Sun Aug 27 2017,Norrkoping,0-2,?,Ostersunds
+Sun Aug 27 2017,Elfsborg,1-0,?,Halmstad
+Sun Aug 27 2017,Malmo FF,2-2,?,Goteborg
+Sun Aug 27 2017,Sundsvall,2-1,?,Orebro
+Sat Sep 9 2017,Ostersunds,3-0,?,AFC Eskilstuna
+Sun Sep 10 2017,Elfsborg,2-2,?,Kalmar
+Sun Sep 10 2017,Halmstad,0-3,?,Hacken
+Sun Sep 10 2017,Hammarby,1-1,?,AIK
+Sun Sep 10 2017,Orebro,2-1,?,Malmo FF
+Sun Sep 10 2017,Jonkopings,1-2,?,Norrkoping
+Sun Sep 10 2017,Sirius,0-1,?,Sundsvall
+Mon Sep 11 2017,Goteborg,1-3,?,Djurgarden
+Fri Sep 15 2017,Kalmar,1-1,?,Norrkoping
+Sat Sep 16 2017,Goteborg,1-1,?,Jonkopings
+Sat Sep 16 2017,Djurgarden,4-1,?,Orebro
+Sat Sep 16 2017,Hacken,3-0,?,Elfsborg
+Sun Sep 17 2017,AIK,4-1,?,Halmstad
+Sun Sep 17 2017,Sirius,0-5,?,Ostersunds
+Sun Sep 17 2017,Malmo FF,4-0,?,Hammarby
+Mon Sep 18 2017,AFC Eskilstuna,1-2,?,Sundsvall
+Tue Sep 19 2017,Elfsborg,2-2,?,Djurgarden
+Tue Sep 19 2017,Norrkoping,4-1,?,Hacken
+Wed Sep 20 2017,Halmstad,1-1,?,Kalmar
+Wed Sep 20 2017,Hammarby,2-1,?,Goteborg
+Wed Sep 20 2017,Jonkopings,3-1,?,Sirius
+Wed Sep 20 2017,Ostersunds,2-2,?,Malmo FF
+Thu Sep 21 2017,Orebro,2-3,?,AFC Eskilstuna
+Thu Sep 21 2017,Sundsvall,0-0,?,AIK
+Sat Sep 23 2017,Halmstad,2-1,?,Norrkoping
+Sun Sep 24 2017,Djurgarden,1-1,?,Hammarby
+Sun Sep 24 2017,Kalmar,2-1,?,Ostersunds
+Sun Sep 24 2017,Hacken,1-6,?,AIK
+Sun Sep 24 2017,Jonkopings,2-2,?,Sundsvall
+Mon Sep 25 2017,AFC Eskilstuna,1-0,?,Goteborg
+Mon Sep 25 2017,Malmo FF,6-0,?,Elfsborg
+Mon Sep 25 2017,Sirius,3-4,?,Orebro
+Fri Sep 29 2017,Goteborg,4-0,?,Sirius
+Sat Sep 30 2017,AFC Eskilstuna,1-1,?,Jonkopings
+Sun Oct 1 2017,Malmo FF,2-0,?,Halmstad
+Sun Oct 1 2017,Ostersunds,0-0,?,Hacken
+Sun Oct 1 2017,Sundsvall,0-5,?,Djurgarden
+Sun Oct 1 2017,AIK,5-2,?,Elfsborg
+Sun Oct 1 2017,Hammarby,0-2,?,Norrkoping
+Sun Oct 1 2017,Orebro,1-0,?,Kalmar
+Sat Oct 14 2017,Halmstad,1-2,?,Goteborg
+Sat Oct 14 2017,Hacken,3-0,?,AFC Eskilstuna
+Sat Oct 14 2017,Ostersunds,3-0,?,Orebro
+Sun Oct 15 2017,AIK,2-0,?,Jonkopings
+Sun Oct 15 2017,Elfsborg,2-1,?,Sundsvall
+Sun Oct 15 2017,Sirius,2-0,?,Djurgarden
+Mon Oct 16 2017,Kalmar,2-0,?,Hammarby
+Mon Oct 16 2017,Norrkoping,1-3,?,Malmo FF
+Fri Oct 20 2017,Orebro,0-1,?,Halmstad
+Sat Oct 21 2017,AFC Eskilstuna,2-3,?,Elfsborg
+Sun Oct 22 2017,Goteborg,0-1,?,Ostersunds
+Sun Oct 22 2017,Sundsvall,2-2,?,Norrkoping
+Sun Oct 22 2017,Djurgarden,1-1,?,Hacken
+Mon Oct 23 2017,Hammarby,3-3,?,Sirius
+Mon Oct 23 2017,Jonkopings,2-0,?,Kalmar
+Mon Oct 23 2017,Malmo FF,0-0,?,AIK
+Sat Oct 28 2017,Ostersunds,4-1,?,Elfsborg
+Sat Oct 28 2017,Halmstad,1-1,?,AFC Eskilstuna
+Sun Oct 29 2017,Sirius,0-4,?,Malmo FF
+Sun Oct 29 2017,Sundsvall,1-4,?,Hammarby
+Sun Oct 29 2017,Djurgarden,0-0,?,Jonkopings
+Sun Oct 29 2017,Hacken,2-0,?,Kalmar
+Mon Oct 30 2017,AIK,2-1,?,Goteborg
+Mon Oct 30 2017,Norrkoping,2-0,?,Orebro
+Sun Nov 5 2017,AFC Eskilstuna,1-3,?,Sirius
+Sun Nov 5 2017,Elfsborg,3-3,?,Norrkoping
+Sun Nov 5 2017,Goteborg,0-3,?,Sundsvall
+Sun Nov 5 2017,Hammarby,1-3,?,Halmstad
+Sun Nov 5 2017,Jonkopings,0-0,?,Ostersunds
+Sun Nov 5 2017,Kalmar,0-2,?,Djurgarden
+Sun Nov 5 2017,Malmo FF,1-2,?,Hacken
+Sun Nov 5 2017,Orebro,1-2,?,AIK
+Wed Nov 15 2017,Trelleborgs,2-0,?,Jonkopings
+Sun Nov 19 2017,Jonkopings,1-1,?,Trelleborgs

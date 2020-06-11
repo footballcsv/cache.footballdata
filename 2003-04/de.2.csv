@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Sun Aug 3 2003,Ahlen,0-1,0-1,Osnabruck
+Sun Aug 3 2003,Bielefeld,1-3,0-1,Oberhausen
+Sun Aug 3 2003,Burghausen,1-1,1-1,Aachen
+Sun Aug 3 2003,Cottbus,2-3,2-1,Ein Trier
+Sun Aug 3 2003,Duisburg,2-1,0-0,Lubeck
+Sun Aug 3 2003,Erzgebirge Aue,0-1,0-1,Regensburg
+Sun Aug 3 2003,Greuther Furth,2-4,1-2,Unterhaching
+Sun Aug 3 2003,Mainz,2-1,1-1,Union Berlin
+Mon Aug 4 2003,Karlsruhe,2-3,0-0,Nurnberg
+Fri Aug 8 2003,Ein Trier,2-1,2-0,Erzgebirge Aue
+Fri Aug 8 2003,Lubeck,0-0,0-0,Bielefeld
+Fri Aug 8 2003,Regensburg,0-0,0-0,Greuther Furth
+Sun Aug 10 2003,Nurnberg,2-0,1-0,Burghausen
+Sun Aug 10 2003,Oberhausen,1-3,1-0,Ahlen
+Sun Aug 10 2003,Osnabruck,1-2,0-1,Karlsruhe
+Sun Aug 10 2003,Union Berlin,0-1,0-1,Cottbus
+Sun Aug 10 2003,Unterhaching,1-0,0-0,Duisburg
+Mon Aug 11 2003,Aachen,2-2,1-1,Mainz
+Fri Aug 15 2003,Erzgebirge Aue,2-1,2-1,Union Berlin
+Fri Aug 15 2003,Karlsruhe,1-2,0-2,Oberhausen
+Fri Aug 15 2003,Lubeck,0-2,0-0,Unterhaching
+Sun Aug 17 2003,Bielefeld,3-0,2-0,Ahlen
+Sun Aug 17 2003,Burghausen,4-1,2-0,Osnabruck
+Sun Aug 17 2003,Cottbus,3-1,1-0,Aachen
+Sun Aug 17 2003,Duisburg,2-2,1-1,Regensburg
+Sun Aug 17 2003,Greuther Furth,4-2,2-1,Ein Trier
+Mon Aug 18 2003,Mainz,2-1,1-0,Nurnberg
+Fri Aug 22 2003,Ahlen,1-2,1-1,Karlsruhe
+Fri Aug 22 2003,Ein Trier,1-1,1-1,Duisburg
+Fri Aug 22 2003,Regensburg,0-4,0-2,Lubeck
+Sun Aug 24 2003,Aachen,1-0,1-0,Erzgebirge Aue
+Sun Aug 24 2003,Oberhausen,1-2,0-0,Burghausen
+Sun Aug 24 2003,Osnabruck,2-2,2-1,Mainz
+Sun Aug 24 2003,Union Berlin,3-0,1-0,Greuther Furth
+Sun Aug 24 2003,Unterhaching,1-0,1-0,Bielefeld
+Mon Aug 25 2003,Nurnberg,2-2,1-2,Cottbus
+Fri Sep 12 2003,Burghausen,0-1,0-0,Ahlen
+Fri Sep 12 2003,Duisburg,1-0,1-0,Union Berlin
+Fri Sep 12 2003,Mainz,2-0,1-0,Oberhausen
+Sun Sep 14 2003,Cottbus,3-0,2-0,Osnabruck
+Sun Sep 14 2003,Erzgebirge Aue,3-3,1-2,Nurnberg
+Sun Sep 14 2003,Greuther Furth,7-1,4-1,Aachen
+Sun Sep 14 2003,Lubeck,2-2,0-1,Ein Trier
+Sun Sep 14 2003,Unterhaching,2-2,1-2,Regensburg
+Mon Sep 15 2003,Bielefeld,3-1,2-0,Karlsruhe
+Fri Sep 19 2003,Aachen,2-1,2-0,Duisburg
+Fri Sep 19 2003,Regensburg,1-2,1-2,Bielefeld
+Fri Sep 19 2003,Union Berlin,1-2,0-0,Lubeck
+Sun Sep 21 2003,Ahlen,1-3,0-1,Mainz
+Sun Sep 21 2003,Ein Trier,2-1,1-0,Unterhaching
+Sun Sep 21 2003,Karlsruhe,0-0,0-0,Burghausen
+Sun Sep 21 2003,Oberhausen,0-0,0-0,Cottbus
+Sun Sep 21 2003,Osnabruck,0-1,0-0,Erzgebirge Aue
+Mon Sep 22 2003,Nurnberg,1-1,1-0,Greuther Furth
+Fri Sep 26 2003,Cottbus,3-2,2-0,Ahlen
+Fri Sep 26 2003,Lubeck,3-5,1-3,Aachen
+Fri Sep 26 2003,Unterhaching,1-1,1-0,Union Berlin
+Sun Sep 28 2003,Bielefeld,3-1,1-1,Burghausen
+Sun Sep 28 2003,Duisburg,2-1,1-0,Nurnberg
+Sun Sep 28 2003,Erzgebirge Aue,1-1,1-1,Oberhausen
+Sun Sep 28 2003,Greuther Furth,1-1,0-0,Osnabruck
+Sun Sep 28 2003,Regensburg,2-1,1-1,Ein Trier
+Mon Sep 29 2003,Mainz,1-1,0-0,Karlsruhe
+Fri Oct 3 2003,Ein Trier,2-3,1-2,Bielefeld
+Fri Oct 3 2003,Karlsruhe,3-1,0-1,Cottbus
+Fri Oct 3 2003,Osnabruck,2-2,1-1,Duisburg
+Sun Oct 5 2003,Ahlen,1-0,0-0,Erzgebirge Aue
+Sun Oct 5 2003,Burghausen,2-0,1-0,Mainz
+Sun Oct 5 2003,Nurnberg,1-2,1-0,Lubeck
+Sun Oct 5 2003,Oberhausen,3-1,2-0,Greuther Furth
+Sun Oct 5 2003,Union Berlin,2-2,1-0,Regensburg
+Mon Oct 6 2003,Aachen,5-1,2-1,Unterhaching
+Fri Oct 17 2003,Duisburg,1-1,0-1,Oberhausen
+Fri Oct 17 2003,Ein Trier,1-1,0-1,Union Berlin
+Fri Oct 17 2003,Lubeck,1-1,1-1,Osnabruck
+Sun Oct 19 2003,Bielefeld,1-0,1-0,Mainz
+Sun Oct 19 2003,Cottbus,2-1,0-1,Burghausen
+Sun Oct 19 2003,Erzgebirge Aue,2-0,1-0,Karlsruhe
+Sun Oct 19 2003,Greuther Furth,2-0,2-0,Ahlen
+Sun Oct 19 2003,Regensburg,1-2,1-1,Aachen
+Mon Oct 20 2003,Unterhaching,1-1,0-0,Nurnberg
+Fri Oct 24 2003,Burghausen,2-0,0-0,Erzgebirge Aue
+Fri Oct 24 2003,Nurnberg,3-2,2-0,Regensburg
+Fri Oct 24 2003,Oberhausen,3-3,2-2,Lubeck
+Sun Oct 26 2003,Aachen,2-0,1-0,Ein Trier
+Sun Oct 26 2003,Ahlen,2-3,1-0,Duisburg
+Sun Oct 26 2003,Karlsruhe,1-0,0-0,Greuther Furth
+Sun Oct 26 2003,Osnabruck,2-1,1-1,Unterhaching
+Sun Oct 26 2003,Union Berlin,1-0,1-0,Bielefeld
+Mon Oct 27 2003,Mainz,4-1,2-1,Cottbus
+Fri Oct 31 2003,Bielefeld,1-3,1-0,Cottbus
+Fri Oct 31 2003,Erzgebirge Aue,1-1,1-0,Mainz
+Fri Oct 31 2003,Lubeck,4-1,2-0,Ahlen
+Sun Nov 2 2003,Duisburg,0-2,0-0,Karlsruhe
+Sun Nov 2 2003,Ein Trier,0-2,0-0,Nurnberg
+Sun Nov 2 2003,Greuther Furth,2-2,1-1,Burghausen
+Sun Nov 2 2003,Regensburg,1-0,0-0,Osnabruck
+Sun Nov 2 2003,Unterhaching,1-4,1-1,Oberhausen
+Mon Nov 3 2003,Union Berlin,2-1,0-1,Aachen
+Fri Nov 7 2003,Mainz,1-3,1-1,Greuther Furth
+Fri Nov 7 2003,Oberhausen,2-1,1-1,Regensburg
+Fri Nov 7 2003,Osnabruck,3-0,1-0,Ein Trier
+Sun Nov 9 2003,Aachen,2-0,1-0,Bielefeld
+Sun Nov 9 2003,Ahlen,2-2,0-0,Unterhaching
+Sun Nov 9 2003,Burghausen,1-2,1-1,Duisburg
+Sun Nov 9 2003,Karlsruhe,1-0,1-0,Lubeck
+Sun Nov 9 2003,Nurnberg,3-0,1-0,Union Berlin
+Mon Nov 10 2003,Cottbus,2-1,0-1,Erzgebirge Aue
+Fri Nov 21 2003,Bielefeld,1-1,1-1,Erzgebirge Aue
+Fri Nov 21 2003,Duisburg,0-1,0-0,Mainz
+Fri Nov 21 2003,Lubeck,2-2,0-0,Burghausen
+Fri Nov 21 2003,Union Berlin,2-0,1-0,Osnabruck
+Sun Nov 23 2003,Ein Trier,0-3,0-2,Oberhausen
+Sun Nov 23 2003,Greuther Furth,2-1,2-1,Cottbus
+Sun Nov 23 2003,Regensburg,3-0,0-0,Ahlen
+Sun Nov 23 2003,Unterhaching,3-0,2-0,Karlsruhe
+Fri Nov 28 2003,Cottbus,1-1,0-0,Duisburg
+Fri Nov 28 2003,Karlsruhe,0-3,0-1,Regensburg
+Fri Nov 28 2003,Osnabruck,3-1,1-0,Aachen
+Sun Nov 30 2003,Ahlen,2-0,0-0,Ein Trier
+Sun Nov 30 2003,Burghausen,0-2,0-2,Unterhaching
+Sun Nov 30 2003,Erzgebirge Aue,1-1,1-1,Greuther Furth
+Sun Nov 30 2003,Mainz,3-1,1-1,Lubeck
+Sun Nov 30 2003,Oberhausen,0-0,0-0,Union Berlin
+Mon Dec 1 2003,Nurnberg,1-0,1-0,Bielefeld
+Fri Dec 5 2003,Duisburg,2-2,2-1,Erzgebirge Aue
+Fri Dec 5 2003,Ein Trier,1-1,0-0,Karlsruhe
+Fri Dec 5 2003,Regensburg,0-2,0-1,Burghausen
+Sun Dec 7 2003,Aachen,1-0,0-0,Oberhausen
+Sun Dec 7 2003,Bielefeld,1-1,1-0,Greuther Furth
+Sun Dec 7 2003,Lubeck,1-1,0-0,Cottbus
+Sun Dec 7 2003,Nurnberg,2-0,1-0,Osnabruck
+Sun Dec 7 2003,Union Berlin,0-2,0-0,Ahlen
+Mon Dec 8 2003,Unterhaching,1-1,0-1,Mainz
+Fri Dec 12 2003,Ahlen,0-0,0-0,Aachen
+Fri Dec 12 2003,Bielefeld,5-0,3-0,Osnabruck
+Fri Dec 12 2003,Greuther Furth,3-3,2-2,Duisburg
+Fri Dec 12 2003,Oberhausen,3-1,1-1,Nurnberg
+Sun Dec 14 2003,Burghausen,1-1,1-0,Ein Trier
+Sun Dec 14 2003,Cottbus,3-1,1-1,Unterhaching
+Sun Dec 14 2003,Erzgebirge Aue,0-0,0-0,Lubeck
+Sun Dec 14 2003,Karlsruhe,2-1,2-1,Union Berlin
+Sun Dec 14 2003,Mainz,1-1,0-0,Regensburg
+Tue Dec 16 2003,Duisburg,0-2,0-0,Bielefeld
+Tue Dec 16 2003,Nurnberg,2-0,1-0,Ahlen
+Tue Dec 16 2003,Osnabruck,0-2,0-1,Oberhausen
+Wed Dec 17 2003,Aachen,0-0,0-0,Karlsruhe
+Wed Dec 17 2003,Ein Trier,1-0,1-0,Mainz
+Wed Dec 17 2003,Lubeck,1-0,0-0,Greuther Furth
+Wed Dec 17 2003,Union Berlin,1-2,1-1,Burghausen
+Wed Dec 17 2003,Unterhaching,1-2,1-1,Erzgebirge Aue
+Thu Dec 18 2003,Regensburg,0-0,0-0,Cottbus
+Mon Jan 26 2004,Aachen,3-2,2-2,Nurnberg
+Sat Jan 31 2004,Aachen,0-1,0-1,Burghausen
+Sat Jan 31 2004,Unterhaching,3-1,1-1,Greuther Furth
+Sun Feb 1 2004,Ein Trier,2-0,1-0,Cottbus
+Sun Feb 1 2004,Nurnberg,2-0,2-0,Karlsruhe
+Sun Feb 1 2004,Osnabruck,1-2,1-1,Ahlen
+Sun Feb 1 2004,Regensburg,1-1,1-0,Erzgebirge Aue
+Sun Feb 1 2004,Union Berlin,1-1,1-0,Mainz
+Mon Feb 2 2004,Oberhausen,3-2,0-1,Bielefeld
+Fri Feb 6 2004,Ahlen,0-2,0-2,Oberhausen
+Fri Feb 6 2004,Burghausen,0-0,0-0,Nurnberg
+Fri Feb 6 2004,Karlsruhe,3-0,3-0,Osnabruck
+Sun Feb 8 2004,Bielefeld,1-3,0-1,Lubeck
+Sun Feb 8 2004,Duisburg,0-1,0-1,Unterhaching
+Sun Feb 8 2004,Erzgebirge Aue,2-1,1-1,Ein Trier
+Sun Feb 8 2004,Greuther Furth,2-2,1-2,Regensburg
+Sun Feb 8 2004,Mainz,3-2,0-2,Aachen
+Mon Feb 9 2004,Cottbus,2-1,1-0,Union Berlin
+Wed Feb 11 2004,Lubeck,1-1,1-1,Duisburg
+Fri Feb 13 2004,Ein Trier,2-0,0-0,Greuther Furth
+Fri Feb 13 2004,Oberhausen,1-0,0-0,Karlsruhe
+Fri Feb 13 2004,Osnabruck,3-0,1-0,Burghausen
+Sun Feb 15 2004,Aachen,0-2,0-1,Cottbus
+Sun Feb 15 2004,Ahlen,0-0,0-0,Bielefeld
+Sun Feb 15 2004,Regensburg,0-5,0-1,Duisburg
+Sun Feb 15 2004,Union Berlin,3-0,1-0,Erzgebirge Aue
+Sun Feb 15 2004,Unterhaching,0-1,0-1,Lubeck
+Mon Feb 16 2004,Nurnberg,2-2,1-1,Mainz
+Fri Feb 20 2004,Cottbus,1-3,1-2,Nurnberg
+Fri Feb 20 2004,Duisburg,2-0,1-0,Ein Trier
+Fri Feb 20 2004,Mainz,0-0,0-0,Osnabruck
+Sun Feb 22 2004,Burghausen,5-0,2-0,Oberhausen
+Sun Feb 22 2004,Erzgebirge Aue,0-1,0-1,Aachen
+Sun Feb 22 2004,Greuther Furth,2-2,1-1,Union Berlin
+Sun Feb 22 2004,Karlsruhe,1-0,0-0,Ahlen
+Sun Feb 22 2004,Lubeck,0-3,0-2,Regensburg
+Mon Feb 23 2004,Bielefeld,1-0,1-0,Unterhaching
+Fri Feb 27 2004,Aachen,0-0,0-0,Greuther Furth
+Fri Feb 27 2004,Karlsruhe,2-2,0-1,Bielefeld
+Fri Feb 27 2004,Nurnberg,2-0,2-0,Erzgebirge Aue
+Sun Feb 29 2004,Osnabruck,0-1,0-0,Cottbus
+Sun Feb 29 2004,Regensburg,1-0,1-0,Unterhaching
+Sun Feb 29 2004,Union Berlin,2-1,0-1,Duisburg
+Mon Mar 1 2004,Ein Trier,4-2,2-1,Lubeck
+Fri Mar 5 2004,Burghausen,0-0,0-0,Karlsruhe
+Fri Mar 5 2004,Lubeck,0-2,0-1,Union Berlin
+Fri Mar 5 2004,Unterhaching,0-0,0-0,Ein Trier
+Sun Mar 7 2004,Bielefeld,0-0,0-0,Regensburg
+Sun Mar 7 2004,Cottbus,3-1,1-0,Oberhausen
+Sun Mar 7 2004,Erzgebirge Aue,1-0,0-0,Osnabruck
+Sun Mar 7 2004,Greuther Furth,2-2,2-1,Nurnberg
+Sun Mar 7 2004,Mainz,0-0,0-0,Ahlen
+Mon Mar 8 2004,Duisburg,2-1,0-1,Aachen
+Wed Mar 10 2004,Oberhausen,0-0,0-0,Mainz
+Fri Mar 12 2004,Aachen,3-1,1-1,Lubeck
+Fri Mar 12 2004,Ahlen,0-0,0-0,Cottbus
+Fri Mar 12 2004,Ein Trier,4-0,1-0,Regensburg
+Sun Mar 14 2004,Burghausen,0-1,0-1,Bielefeld
+Sun Mar 14 2004,Nurnberg,2-0,1-0,Duisburg
+Sun Mar 14 2004,Oberhausen,1-4,1-1,Erzgebirge Aue
+Sun Mar 14 2004,Osnabruck,0-1,0-1,Greuther Furth
+Sun Mar 14 2004,Union Berlin,0-0,0-0,Unterhaching
+Mon Mar 15 2004,Karlsruhe,1-1,0-0,Mainz
+Wed Mar 17 2004,Ahlen,3-1,3-1,Burghausen
+Fri Mar 19 2004,Cottbus,2-1,0-0,Karlsruhe
+Fri Mar 19 2004,Duisburg,3-1,2-1,Osnabruck
+Fri Mar 19 2004,Greuther Furth,0-1,0-1,Oberhausen
+Sun Mar 21 2004,Bielefeld,3-1,2-1,Ein Trier
+Sun Mar 21 2004,Erzgebirge Aue,2-0,1-0,Ahlen
+Sun Mar 21 2004,Mainz,1-0,0-0,Burghausen
+Sun Mar 21 2004,Regensburg,3-1,3-0,Union Berlin
+Sun Mar 21 2004,Unterhaching,1-1,0-1,Aachen
+Mon Mar 22 2004,Lubeck,2-1,1-0,Nurnberg
+Fri Mar 26 2004,Burghausen,1-1,1-0,Cottbus
+Fri Mar 26 2004,Oberhausen,0-3,0-1,Duisburg
+Fri Mar 26 2004,Osnabruck,3-1,2-1,Lubeck
+Sun Mar 28 2004,Aachen,1-0,0-0,Regensburg
+Sun Mar 28 2004,Ahlen,3-2,1-0,Greuther Furth
+Sun Mar 28 2004,Karlsruhe,3-5,1-4,Erzgebirge Aue
+Sun Mar 28 2004,Nurnberg,3-0,2-0,Unterhaching
+Sun Mar 28 2004,Union Berlin,1-3,1-0,Ein Trier
+Mon Mar 29 2004,Mainz,0-2,0-1,Bielefeld
+Fri Apr 2 2004,Ein Trier,3-3,1-2,Aachen
+Fri Apr 2 2004,Lubeck,1-0,0-0,Oberhausen
+Fri Apr 2 2004,Regensburg,2-1,1-0,Nurnberg
+Sun Apr 4 2004,Bielefeld,2-1,1-1,Union Berlin
+Sun Apr 4 2004,Duisburg,1-2,1-0,Ahlen
+Sun Apr 4 2004,Erzgebirge Aue,3-0,1-0,Burghausen
+Sun Apr 4 2004,Greuther Furth,2-1,0-1,Karlsruhe
+Sun Apr 4 2004,Unterhaching,2-1,1-1,Osnabruck
+Mon Apr 5 2004,Cottbus,0-0,0-0,Mainz
+Thu Apr 8 2004,Aachen,4-2,2-2,Union Berlin
+Thu Apr 8 2004,Cottbus,1-2,0-0,Bielefeld
+Thu Apr 8 2004,Oberhausen,3-1,1-0,Unterhaching
+Sun Apr 11 2004,Ahlen,1-1,1-1,Lubeck
+Sun Apr 11 2004,Burghausen,0-2,0-1,Greuther Furth
+Sun Apr 11 2004,Karlsruhe,1-0,1-0,Duisburg
+Sun Apr 11 2004,Mainz,1-1,0-0,Erzgebirge Aue
+Sun Apr 11 2004,Osnabruck,3-0,1-0,Regensburg
+Mon Apr 12 2004,Nurnberg,3-1,2-1,Ein Trier
+Fri Apr 16 2004,Erzgebirge Aue,1-0,0-0,Cottbus
+Fri Apr 16 2004,Lubeck,2-2,1-0,Karlsruhe
+Fri Apr 16 2004,Regensburg,1-1,1-1,Oberhausen
+Sun Apr 18 2004,Duisburg,1-0,0-0,Burghausen
+Sun Apr 18 2004,Ein Trier,0-0,0-0,Osnabruck
+Sun Apr 18 2004,Greuther Furth,3-1,2-0,Mainz
+Sun Apr 18 2004,Union Berlin,3-5,1-3,Nurnberg
+Sun Apr 18 2004,Unterhaching,0-0,0-0,Ahlen
+Mon Apr 19 2004,Bielefeld,3-0,1-0,Aachen
+Fri Apr 23 2004,Burghausen,2-1,0-0,Lubeck
+Fri Apr 23 2004,Mainz,4-1,2-0,Duisburg
+Fri Apr 23 2004,Osnabruck,0-2,0-1,Union Berlin
+Sun Apr 25 2004,Ahlen,3-1,0-1,Regensburg
+Sun Apr 25 2004,Cottbus,4-2,0-1,Greuther Furth
+Sun Apr 25 2004,Erzgebirge Aue,1-1,0-1,Bielefeld
+Sun Apr 25 2004,Karlsruhe,0-1,0-0,Unterhaching
+Sun Apr 25 2004,Oberhausen,1-2,1-1,Ein Trier
+Mon Apr 26 2004,Nurnberg,3-0,0-0,Aachen
+Fri Apr 30 2004,Aachen,2-1,0-0,Osnabruck
+Fri Apr 30 2004,Ein Trier,3-0,2-0,Ahlen
+Fri Apr 30 2004,Lubeck,1-4,1-2,Mainz
+Sun May 2 2004,Duisburg,4-2,1-0,Cottbus
+Sun May 2 2004,Greuther Furth,5-1,3-1,Erzgebirge Aue
+Sun May 2 2004,Regensburg,1-1,0-1,Karlsruhe
+Sun May 2 2004,Union Berlin,2-2,1-0,Oberhausen
+Sun May 2 2004,Unterhaching,1-2,0-0,Burghausen
+Mon May 3 2004,Bielefeld,1-3,1-2,Nurnberg
+Fri May 7 2004,Burghausen,2-0,2-0,Regensburg
+Fri May 7 2004,Mainz,2-0,2-0,Unterhaching
+Fri May 7 2004,Osnabruck,3-4,2-1,Nurnberg
+Sun May 9 2004,Ahlen,1-0,0-0,Union Berlin
+Sun May 9 2004,Cottbus,1-1,1-0,Lubeck
+Sun May 9 2004,Erzgebirge Aue,2-1,0-1,Duisburg
+Sun May 9 2004,Greuther Furth,1-2,0-2,Bielefeld
+Sun May 9 2004,Karlsruhe,0-1,0-0,Ein Trier
+Mon May 10 2004,Oberhausen,1-2,1-0,Aachen
+Sun May 16 2004,Aachen,1-1,0-1,Ahlen
+Sun May 16 2004,Duisburg,1-1,1-1,Greuther Furth
+Sun May 16 2004,Ein Trier,0-0,0-0,Burghausen
+Sun May 16 2004,Lubeck,2-2,0-2,Erzgebirge Aue
+Sun May 16 2004,Nurnberg,1-3,0-1,Oberhausen
+Sun May 16 2004,Osnabruck,0-0,0-0,Bielefeld
+Sun May 16 2004,Regensburg,0-0,0-0,Mainz
+Sun May 16 2004,Union Berlin,2-2,2-1,Karlsruhe
+Sun May 16 2004,Unterhaching,2-0,2-0,Cottbus
+Sun May 23 2004,Ahlen,2-0,2-0,Nurnberg
+Sun May 23 2004,Bielefeld,1-3,0-1,Duisburg
+Sun May 23 2004,Burghausen,3-1,2-0,Union Berlin
+Sun May 23 2004,Cottbus,3-0,1-0,Regensburg
+Sun May 23 2004,Erzgebirge Aue,3-3,2-3,Unterhaching
+Sun May 23 2004,Greuther Furth,2-0,1-0,Lubeck
+Sun May 23 2004,Karlsruhe,1-0,1-0,Aachen
+Sun May 23 2004,Mainz,3-0,1-0,Ein Trier
+Sun May 23 2004,Oberhausen,3-2,1-2,Osnabruck

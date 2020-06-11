@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 9 2013,Montpellier,1-1,1-0,Paris SG
+Sat Aug 10 2013,Bordeaux,0-2,0-0,Monaco
+Sat Aug 10 2013,Evian Thonon Gaillard,1-1,1-0,Sochaux
+Sat Aug 10 2013,Lille,1-0,1-0,Lorient
+Sat Aug 10 2013,Lyon,4-0,1-0,Nice
+Sat Aug 10 2013,Nantes,2-0,1-0,Bastia
+Sat Aug 10 2013,Rennes,2-1,1-1,Reims
+Sat Aug 10 2013,Valenciennes,3-0,1-0,Toulouse
+Sun Aug 11 2013,Ajaccio,0-1,0-1,St Etienne
+Sun Aug 11 2013,Guingamp,1-3,0-3,Marseille
+Fri Aug 16 2013,Sochaux,1-3,1-2,Lyon
+Sat Aug 17 2013,Bastia,2-0,0-0,Valenciennes
+Sat Aug 17 2013,Marseille,2-0,1-0,Evian Thonon Gaillard
+Sat Aug 17 2013,Nice,2-1,1-1,Rennes
+Sat Aug 17 2013,Reims,2-1,1-0,Lille
+Sat Aug 17 2013,St Etienne,1-0,0-0,Guingamp
+Sat Aug 17 2013,Toulouse,1-1,1-1,Bordeaux
+Sun Aug 18 2013,Lorient,2-1,1-1,Nantes
+Sun Aug 18 2013,Monaco,4-1,2-1,Montpellier
+Sun Aug 18 2013,Paris SG,1-1,0-1,Ajaccio
+Fri Aug 23 2013,Monaco,0-0,0-0,Toulouse
+Sat Aug 24 2013,Bordeaux,1-0,1-0,Bastia
+Sat Aug 24 2013,Evian Thonon Gaillard,1-2,0-2,Rennes
+Sat Aug 24 2013,Guingamp,2-0,1-0,Lorient
+Sat Aug 24 2013,Lyon,0-1,0-0,Reims
+Sat Aug 24 2013,Montpellier,2-1,1-1,Sochaux
+Sat Aug 24 2013,Valenciennes,0-1,0-0,Marseille
+Sun Aug 25 2013,Ajaccio,0-0,0-0,Nice
+Sun Aug 25 2013,Lille,1-0,1-0,St Etienne
+Sun Aug 25 2013,Nantes,1-2,0-1,Paris SG
+Sat Aug 31 2013,Bastia,2-1,1-0,Toulouse
+Sat Aug 31 2013,Evian Thonon Gaillard,2-1,2-0,Lyon
+Sat Aug 31 2013,Lorient,1-0,1-0,Valenciennes
+Sat Aug 31 2013,Paris SG,2-0,0-0,Guingamp
+Sat Aug 31 2013,Reims,0-0,0-0,Nantes
+Sat Aug 31 2013,Rennes,0-0,0-0,Lille
+Sat Aug 31 2013,Sochaux,0-0,0-0,Ajaccio
+Sun Sep 1 2013,Marseille,1-2,1-0,Monaco
+Sun Sep 1 2013,Nice,2-2,2-1,Montpellier
+Sun Sep 1 2013,St Etienne,2-1,1-0,Bordeaux
+Fri Sep 13 2013,Bordeaux,0-2,0-1,Paris SG
+Sat Sep 14 2013,Ajaccio,2-3,0-2,Evian Thonon Gaillard
+Sat Sep 14 2013,Guingamp,1-1,0-0,Bastia
+Sat Sep 14 2013,Montpellier,0-0,0-0,Reims
+Sat Sep 14 2013,Nantes,1-0,0-0,Sochaux
+Sat Sep 14 2013,Toulouse,1-1,0-0,Marseille
+Sat Sep 14 2013,Valenciennes,1-3,0-1,St Etienne
+Sun Sep 15 2013,Lille,0-2,0-2,Nice
+Sun Sep 15 2013,Lyon,0-0,0-0,Rennes
+Sun Sep 15 2013,Monaco,1-0,1-0,Lorient
+Fri Sep 20 2013,St Etienne,1-2,1-0,Toulouse
+Sat Sep 21 2013,Bastia,0-0,0-0,Marseille
+Sat Sep 21 2013,Evian Thonon Gaillard,2-2,0-1,Montpellier
+Sat Sep 21 2013,Reims,1-1,0-1,Guingamp
+Sat Sep 21 2013,Rennes,2-0,2-0,Ajaccio
+Sat Sep 21 2013,Sochaux,0-2,0-2,Lille
+Sun Sep 22 2013,Lorient,3-3,2-3,Bordeaux
+Sun Sep 22 2013,Lyon,3-1,1-1,Nantes
+Sun Sep 22 2013,Nice,4-0,2-0,Valenciennes
+Sun Sep 22 2013,Paris SG,1-1,1-1,Monaco
+Tue Sep 24 2013,Lille,3-0,2-0,Evian Thonon Gaillard
+Tue Sep 24 2013,Marseille,2-1,2-1,St Etienne
+Wed Sep 25 2013,Ajaccio,2-1,1-0,Lyon
+Wed Sep 25 2013,Bordeaux,0-0,0-0,Reims
+Wed Sep 25 2013,Guingamp,5-1,3-0,Sochaux
+Wed Sep 25 2013,Monaco,3-0,2-0,Bastia
+Wed Sep 25 2013,Nantes,2-0,1-0,Nice
+Wed Sep 25 2013,Toulouse,1-0,0-0,Lorient
+Wed Sep 25 2013,Valenciennes,0-1,0-1,Paris SG
+Thu Sep 26 2013,Montpellier,0-0,0-0,Rennes
+Sat Sep 28 2013,Evian Thonon Gaillard,1-1,1-0,Bordeaux
+Sat Sep 28 2013,Lorient,0-2,0-0,Marseille
+Sat Sep 28 2013,Lyon,0-0,0-0,Lille
+Sat Sep 28 2013,Nice,1-0,0-0,Guingamp
+Sat Sep 28 2013,Paris SG,2-0,1-0,Toulouse
+Sat Sep 28 2013,Sochaux,2-0,2-0,Valenciennes
+Sat Sep 28 2013,St Etienne,2-2,1-0,Bastia
+Sun Sep 29 2013,Ajaccio,1-1,1-1,Montpellier
+Sun Sep 29 2013,Reims,1-1,1-1,Monaco
+Sun Sep 29 2013,Rennes,1-3,0-2,Nantes
+Fri Oct 4 2013,Bastia,4-1,2-1,Lorient
+Sat Oct 5 2013,Guingamp,2-0,0-0,Rennes
+Sat Oct 5 2013,Lille,3-0,1-0,Ajaccio
+Sat Oct 5 2013,Monaco,2-1,1-0,St Etienne
+Sat Oct 5 2013,Nantes,3-0,2-0,Evian Thonon Gaillard
+Sat Oct 5 2013,Toulouse,1-0,1-0,Nice
+Sat Oct 5 2013,Valenciennes,1-1,0-1,Reims
+Sun Oct 6 2013,Bordeaux,4-1,2-1,Sochaux
+Sun Oct 6 2013,Marseille,1-2,1-1,Paris SG
+Sun Oct 6 2013,Montpellier,5-1,2-0,Lyon
+Fri Oct 18 2013,Nice,1-0,1-0,Marseille
+Fri Oct 18 2013,Reims,1-2,0-1,Toulouse
+Sat Oct 19 2013,Ajaccio,0-1,0-0,Nantes
+Sat Oct 19 2013,Evian Thonon Gaillard,1-2,1-0,Guingamp
+Sat Oct 19 2013,Montpellier,0-1,0-1,Lille
+Sat Oct 19 2013,Paris SG,4-0,2-0,Bastia
+Sat Oct 19 2013,Rennes,2-2,1-0,Valenciennes
+Sun Oct 20 2013,Lyon,1-1,0-0,Bordeaux
+Sun Oct 20 2013,Sochaux,2-2,0-2,Monaco
+Sun Oct 20 2013,St Etienne,3-2,2-1,Lorient
+Fri Oct 25 2013,Nantes,0-1,0-1,Lille
+Sat Oct 26 2013,Bastia,1-0,1-0,Nice
+Sat Oct 26 2013,Guingamp,2-1,0-1,Ajaccio
+Sat Oct 26 2013,Lorient,2-1,1-0,Sochaux
+Sat Oct 26 2013,Marseille,2-3,0-2,Reims
+Sat Oct 26 2013,Toulouse,0-5,0-3,Rennes
+Sat Oct 26 2013,Valenciennes,0-1,0-0,Evian Thonon Gaillard
+Sun Oct 27 2013,Bordeaux,2-0,0-0,Montpellier
+Sun Oct 27 2013,Monaco,2-1,2-0,Lyon
+Sun Oct 27 2013,St Etienne,2-2,1-0,Paris SG
+Fri Nov 1 2013,Paris SG,4-0,3-0,Lorient
+Sat Nov 2 2013,Ajaccio,1-3,1-1,Valenciennes
+Sat Nov 2 2013,Evian Thonon Gaillard,2-1,0-0,Toulouse
+Sat Nov 2 2013,Lyon,2-0,2-0,Guingamp
+Sat Nov 2 2013,Reims,4-2,2-0,Bastia
+Sat Nov 2 2013,Rennes,1-1,1-1,Marseille
+Sat Nov 2 2013,Sochaux,0-0,0-0,St Etienne
+Sun Nov 3 2013,Lille,2-0,1-0,Monaco
+Sun Nov 3 2013,Montpellier,1-1,0-1,Nantes
+Sun Nov 3 2013,Nice,1-2,0-1,Bordeaux
+Fri Nov 8 2013,Monaco,1-1,1-1,Evian Thonon Gaillard
+Sat Nov 9 2013,Bastia,1-0,1-0,Rennes
+Sat Nov 9 2013,Guingamp,0-0,0-0,Lille
+Sat Nov 9 2013,Lorient,0-0,0-0,Reims
+Sat Nov 9 2013,Paris SG,3-1,1-0,Nice
+Sat Nov 9 2013,Toulouse,1-1,1-1,Ajaccio
+Sat Nov 9 2013,Valenciennes,1-1,1-0,Montpellier
+Sun Nov 10 2013,Bordeaux,0-3,0-1,Nantes
+Sun Nov 10 2013,Marseille,2-1,1-0,Sochaux
+Sun Nov 10 2013,St Etienne,1-2,0-0,Lyon
+Fri Nov 22 2013,Ajaccio,1-3,1-2,Marseille
+Sat Nov 23 2013,Evian Thonon Gaillard,0-4,0-2,Lorient
+Sat Nov 23 2013,Lyon,1-1,1-0,Valenciennes
+Sat Nov 23 2013,Montpellier,1-1,0-0,Guingamp
+Sat Nov 23 2013,Reims,0-3,0-1,Paris SG
+Sat Nov 23 2013,Rennes,1-1,0-0,Bordeaux
+Sat Nov 23 2013,Sochaux,1-1,0-1,Bastia
+Sun Nov 24 2013,Lille,1-0,0-0,Toulouse
+Sun Nov 24 2013,Nantes,0-1,0-0,Monaco
+Sun Nov 24 2013,Nice,0-1,0-1,St Etienne
+Fri Nov 29 2013,Marseille,2-0,1-0,Montpellier
+Sat Nov 30 2013,Guingamp,1-0,0-0,Nantes
+Sat Nov 30 2013,Lorient,3-0,1-0,Nice
+Sat Nov 30 2013,Monaco,2-0,2-0,Rennes
+Sat Nov 30 2013,St Etienne,4-0,0-0,Reims
+Sat Nov 30 2013,Toulouse,5-1,2-1,Sochaux
+Sat Nov 30 2013,Valenciennes,0-1,0-0,Lille
+Sun Dec 1 2013,Bastia,2-0,0-0,Evian Thonon Gaillard
+Sun Dec 1 2013,Bordeaux,4-0,1-0,Ajaccio
+Sun Dec 1 2013,Paris SG,4-0,2-0,Lyon
+Tue Dec 3 2013,Lille,1-0,0-0,Marseille
+Tue Dec 3 2013,Nantes,2-1,0-0,Valenciennes
+Tue Dec 3 2013,Nice,0-3,0-2,Monaco
+Wed Dec 4 2013,Ajaccio,1-1,0-1,Bastia
+Wed Dec 4 2013,Evian Thonon Gaillard,2-0,0-0,Paris SG
+Wed Dec 4 2013,Guingamp,0-1,0-1,Bordeaux
+Wed Dec 4 2013,Montpellier,0-2,0-0,Lorient
+Wed Dec 4 2013,Rennes,3-1,1-0,St Etienne
+Wed Dec 4 2013,Sochaux,0-2,0-1,Reims
+Thu Dec 5 2013,Lyon,1-1,1-0,Toulouse
+Fri Dec 6 2013,Marseille,0-1,0-1,Nantes
+Sat Dec 7 2013,Lorient,2-0,1-0,Rennes
+Sat Dec 7 2013,Paris SG,5-0,1-0,Sochaux
+Sat Dec 7 2013,Reims,1-0,0-0,Nice
+Sat Dec 7 2013,Valenciennes,1-1,1-0,Guingamp
+Sun Dec 8 2013,Bastia,1-3,1-0,Lyon
+Sun Dec 8 2013,Bordeaux,1-0,1-0,Lille
+Sun Dec 8 2013,Monaco,1-0,0-0,Ajaccio
+Sun Dec 8 2013,Toulouse,1-1,0-1,Montpellier
+Fri Dec 13 2013,Montpellier,0-1,0-0,St Etienne
+Sat Dec 14 2013,Ajaccio,1-2,1-1,Lorient
+Sat Dec 14 2013,Evian Thonon Gaillard,1-1,0-0,Reims
+Sat Dec 14 2013,Guingamp,0-2,0-2,Monaco
+Sat Dec 14 2013,Nantes,1-2,0-0,Toulouse
+Sat Dec 14 2013,Nice,1-0,1-0,Sochaux
+Sat Dec 14 2013,Rennes,1-3,0-1,Paris SG
+Sun Dec 15 2013,Bordeaux,2-1,0-0,Valenciennes
+Sun Dec 15 2013,Lille,2-1,2-1,Bastia
+Sun Dec 15 2013,Lyon,2-2,2-1,Marseille
+Fri Dec 20 2013,Monaco,1-2,0-1,Valenciennes
+Sat Dec 21 2013,Bastia,0-0,0-0,Montpellier
+Sat Dec 21 2013,Nice,3-1,0-1,Evian Thonon Gaillard
+Sat Dec 21 2013,Reims,4-1,0-0,Ajaccio
+Sat Dec 21 2013,Sochaux,2-1,1-1,Rennes
+Sat Dec 21 2013,St Etienne,2-0,1-0,Nantes
+Sat Dec 21 2013,Toulouse,0-0,0-0,Guingamp
+Sun Dec 22 2013,Lorient,2-2,0-1,Lyon
+Sun Dec 22 2013,Marseille,2-2,0-1,Bordeaux
+Sun Dec 22 2013,Paris SG,2-2,1-1,Lille
+Wed Jan 8 2014,St Etienne,1-0,1-0,Evian Thonon Gaillard
+Fri Jan 10 2014,Montpellier,1-1,0-0,Monaco
+Sat Jan 11 2014,Ajaccio,1-2,1-1,Paris SG
+Sat Jan 11 2014,Bordeaux,0-1,0-0,Toulouse
+Sat Jan 11 2014,Guingamp,0-0,0-0,St Etienne
+Sat Jan 11 2014,Lyon,2-0,0-0,Sochaux
+Sat Jan 11 2014,Rennes,0-0,0-0,Nice
+Sat Jan 11 2014,Valenciennes,3-2,2-0,Bastia
+Sun Jan 12 2014,Evian Thonon Gaillard,1-2,1-2,Marseille
+Sun Jan 12 2014,Lille,1-2,0-0,Reims
+Sun Jan 12 2014,Nantes,1-0,0-0,Lorient
+Fri Jan 17 2014,St Etienne,2-0,0-0,Lille
+Sat Jan 18 2014,Bastia,1-0,1-0,Bordeaux
+Sat Jan 18 2014,Lorient,2-0,2-0,Guingamp
+Sat Jan 18 2014,Nice,2-0,1-0,Ajaccio
+Sat Jan 18 2014,Rennes,0-0,0-0,Evian Thonon Gaillard
+Sat Jan 18 2014,Sochaux,0-2,0-1,Montpellier
+Sun Jan 19 2014,Paris SG,5-0,2-0,Nantes
+Sun Jan 19 2014,Reims,0-2,0-1,Lyon
+Sun Jan 19 2014,Toulouse,0-2,0-1,Monaco
+Fri Jan 24 2014,Lille,1-1,1-1,Rennes
+Sat Jan 25 2014,Ajaccio,1-1,1-0,Sochaux
+Sat Jan 25 2014,Guingamp,1-1,0-0,Paris SG
+Sat Jan 25 2014,Montpellier,3-1,1-0,Nice
+Sat Jan 25 2014,Nantes,0-0,0-0,Reims
+Sat Jan 25 2014,Valenciennes,1-1,0-1,Lorient
+Sun Jan 26 2014,Bordeaux,2-0,1-0,St Etienne
+Sun Jan 26 2014,Lyon,3-0,2-0,Evian Thonon Gaillard
+Sun Jan 26 2014,Monaco,2-0,1-0,Marseille
+Wed Jan 29 2014,Marseille,2-1,1-1,Valenciennes
+Fri Jan 31 2014,Paris SG,2-0,0-0,Bordeaux
+Sat Feb 1 2014,Bastia,3-2,0-0,Guingamp
+Sat Feb 1 2014,Evian Thonon Gaillard,1-1,0-0,Ajaccio
+Sat Feb 1 2014,Lorient,2-2,1-1,Monaco
+Sat Feb 1 2014,Reims,2-4,0-1,Montpellier
+Sat Feb 1 2014,Sochaux,1-0,1-0,Nantes
+Sat Feb 1 2014,St Etienne,3-0,1-0,Valenciennes
+Sun Feb 2 2014,Marseille,2-2,2-1,Toulouse
+Sun Feb 2 2014,Nice,1-0,1-0,Lille
+Sun Feb 2 2014,Rennes,2-0,1-0,Lyon
+Fri Feb 7 2014,Toulouse,0-0,0-0,St Etienne
+Sat Feb 8 2014,Ajaccio,3-1,2-1,Rennes
+Sat Feb 8 2014,Guingamp,1-2,0-0,Reims
+Sat Feb 8 2014,Lille,2-0,1-0,Sochaux
+Sat Feb 8 2014,Marseille,3-0,2-0,Bastia
+Sat Feb 8 2014,Montpellier,1-1,1-1,Evian Thonon Gaillard
+Sat Feb 8 2014,Valenciennes,2-1,1-0,Nice
+Sun Feb 9 2014,Monaco,1-1,0-1,Paris SG
+Sun Feb 9 2014,Nantes,1-2,0-1,Lyon
+Tue Feb 11 2014,Toulouse,1-3,1-2,Bastia
+Fri Feb 14 2014,Paris SG,3-0,1-0,Valenciennes
+Sat Feb 15 2014,Bastia,0-2,0-1,Monaco
+Sat Feb 15 2014,Lorient,1-3,1-0,Toulouse
+Sat Feb 15 2014,Nice,0-0,0-0,Nantes
+Sat Feb 15 2014,Reims,1-0,0-0,Bordeaux
+Sat Feb 15 2014,Rennes,2-2,1-0,Montpellier
+Sat Feb 15 2014,Sochaux,1-0,0-0,Guingamp
+Sun Feb 16 2014,Evian Thonon Gaillard,2-2,1-1,Lille
+Sun Feb 16 2014,Lyon,3-1,1-0,Ajaccio
+Sun Feb 16 2014,St Etienne,1-1,0-0,Marseille
+Fri Feb 21 2014,Monaco,3-2,1-0,Reims
+Sat Feb 22 2014,Bastia,0-2,0-1,St Etienne
+Sat Feb 22 2014,Bordeaux,2-1,0-0,Evian Thonon Gaillard
+Sat Feb 22 2014,Guingamp,1-0,0-0,Nice
+Sat Feb 22 2014,Marseille,1-0,0-0,Lorient
+Sat Feb 22 2014,Montpellier,2-0,0-0,Ajaccio
+Sat Feb 22 2014,Valenciennes,2-2,0-0,Sochaux
+Sun Feb 23 2014,Lille,0-0,0-0,Lyon
+Sun Feb 23 2014,Nantes,0-3,0-1,Rennes
+Sun Feb 23 2014,Toulouse,2-4,1-1,Paris SG
+Tue Feb 25 2014,Bordeaux,3-2,2-1,Lorient
+Fri Feb 28 2014,Evian Thonon Gaillard,2-0,0-0,Nantes
+Sat Mar 1 2014,Lorient,1-1,1-0,Bastia
+Sat Mar 1 2014,Nice,0-2,0-0,Toulouse
+Sat Mar 1 2014,Reims,3-1,2-0,Valenciennes
+Sat Mar 1 2014,Rennes,0-2,0-1,Guingamp
+Sat Mar 1 2014,Sochaux,2-0,0-0,Bordeaux
+Sat Mar 1 2014,St Etienne,2-0,1-0,Monaco
+Sun Mar 2 2014,Ajaccio,2-3,2-2,Lille
+Sun Mar 2 2014,Lyon,0-0,0-0,Montpellier
+Sun Mar 2 2014,Paris SG,2-0,0-0,Marseille
+Fri Mar 7 2014,Marseille,0-1,0-0,Nice
+Sat Mar 8 2014,Bastia,0-3,0-2,Paris SG
+Sat Mar 8 2014,Guingamp,0-1,0-0,Evian Thonon Gaillard
+Sat Mar 8 2014,Monaco,2-1,1-0,Sochaux
+Sat Mar 8 2014,Nantes,2-2,1-1,Ajaccio
+Sat Mar 8 2014,Toulouse,3-2,0-2,Reims
+Sat Mar 8 2014,Valenciennes,2-1,0-0,Rennes
+Sun Mar 9 2014,Bordeaux,1-2,1-0,Lyon
+Sun Mar 9 2014,Lille,2-0,1-0,Montpellier
+Sun Mar 9 2014,Lorient,1-0,0-0,St Etienne
+Fri Mar 14 2014,Reims,1-1,0-0,Marseille
+Sat Mar 15 2014,Ajaccio,1-2,1-1,Guingamp
+Sat Mar 15 2014,Evian Thonon Gaillard,0-1,0-0,Valenciennes
+Sat Mar 15 2014,Lille,0-0,0-0,Nantes
+Sat Mar 15 2014,Nice,2-0,1-0,Bastia
+Sat Mar 15 2014,Rennes,2-3,0-2,Toulouse
+Sat Mar 15 2014,Sochaux,2-0,1-0,Lorient
+Sun Mar 16 2014,Lyon,2-3,1-2,Monaco
+Sun Mar 16 2014,Montpellier,1-1,1-1,Bordeaux
+Sun Mar 16 2014,Paris SG,2-0,2-0,St Etienne
+Fri Mar 21 2014,Lorient,0-1,0-1,Paris SG
+Sat Mar 22 2014,Bastia,2-0,2-0,Reims
+Sat Mar 22 2014,Bordeaux,1-1,0-0,Nice
+Sat Mar 22 2014,Marseille,0-1,0-0,Rennes
+Sat Mar 22 2014,Nantes,2-1,2-1,Montpellier
+Sat Mar 22 2014,Toulouse,1-1,0-0,Evian Thonon Gaillard
+Sat Mar 22 2014,Valenciennes,2-3,0-0,Ajaccio
+Sun Mar 23 2014,Guingamp,0-1,0-0,Lyon
+Sun Mar 23 2014,Monaco,1-1,1-1,Lille
+Sun Mar 23 2014,St Etienne,3-1,0-0,Sochaux
+Fri Mar 28 2014,Nice,0-1,0-0,Paris SG
+Sat Mar 29 2014,Ajaccio,2-2,2-1,Toulouse
+Sat Mar 29 2014,Evian Thonon Gaillard,1-0,0-0,Monaco
+Sat Mar 29 2014,Montpellier,0-0,0-0,Valenciennes
+Sat Mar 29 2014,Nantes,0-0,0-0,Bordeaux
+Sat Mar 29 2014,Reims,1-1,0-1,Lorient
+Sat Mar 29 2014,Sochaux,1-1,1-0,Marseille
+Sun Mar 30 2014,Lille,1-0,0-0,Guingamp
+Sun Mar 30 2014,Lyon,1-2,1-1,St Etienne
+Sun Mar 30 2014,Rennes,3-0,2-0,Bastia
+Fri Apr 4 2014,Marseille,3-1,1-0,Ajaccio
+Sat Apr 5 2014,Bastia,2-2,0-2,Sochaux
+Sat Apr 5 2014,Bordeaux,2-2,1-0,Rennes
+Sat Apr 5 2014,Guingamp,1-2,0-2,Montpellier
+Sat Apr 5 2014,Lorient,1-1,1-0,Evian Thonon Gaillard
+Sat Apr 5 2014,Paris SG,3-0,1-0,Reims
+Sat Apr 5 2014,Toulouse,1-2,0-2,Lille
+Sun Apr 6 2014,Monaco,3-1,1-0,Nantes
+Sun Apr 6 2014,St Etienne,1-1,0-0,Nice
+Sun Apr 6 2014,Valenciennes,1-2,0-1,Lyon
+Fri Apr 11 2014,Montpellier,2-3,0-1,Marseille
+Sat Apr 12 2014,Ajaccio,1-1,0-0,Bordeaux
+Sat Apr 12 2014,Evian Thonon Gaillard,2-1,1-1,Bastia
+Sat Apr 12 2014,Lille,1-0,0-0,Valenciennes
+Sat Apr 12 2014,Nice,1-2,1-1,Lorient
+Sat Apr 12 2014,Rennes,0-1,0-0,Monaco
+Sat Apr 12 2014,Sochaux,2-0,1-0,Toulouse
+Sun Apr 13 2014,Lyon,1-0,1-0,Paris SG
+Sun Apr 13 2014,Nantes,1-0,1-0,Guingamp
+Sun Apr 13 2014,Reims,2-2,1-0,St Etienne
+Fri Apr 18 2014,St Etienne,0-0,0-0,Rennes
+Sun Apr 20 2014,Bastia,2-1,1-1,Ajaccio
+Sun Apr 20 2014,Bordeaux,5-1,3-1,Guingamp
+Sun Apr 20 2014,Lorient,4-4,1-1,Montpellier
+Sun Apr 20 2014,Marseille,0-0,0-0,Lille
+Sun Apr 20 2014,Monaco,1-0,1-0,Nice
+Sun Apr 20 2014,Reims,0-1,0-1,Sochaux
+Sun Apr 20 2014,Valenciennes,2-6,0-3,Nantes
+Wed Apr 23 2014,Paris SG,1-0,0-0,Evian Thonon Gaillard
+Wed Apr 23 2014,Toulouse,0-0,0-0,Lyon
+Fri Apr 25 2014,Nantes,1-1,0-1,Marseille
+Sat Apr 26 2014,Ajaccio,1-4,0-0,Monaco
+Sat Apr 26 2014,Evian Thonon Gaillard,1-2,0-2,St Etienne
+Sat Apr 26 2014,Guingamp,1-0,0-0,Valenciennes
+Sat Apr 26 2014,Montpellier,2-1,0-1,Toulouse
+Sat Apr 26 2014,Nice,1-0,0-0,Reims
+Sat Apr 26 2014,Rennes,1-1,0-1,Lorient
+Sun Apr 27 2014,Lille,2-1,1-0,Bordeaux
+Sun Apr 27 2014,Lyon,4-1,2-0,Bastia
+Sun Apr 27 2014,Sochaux,1-1,0-1,Paris SG
+Fri May 2 2014,Bastia,1-1,0-1,Lille
+Sun May 4 2014,Lorient,1-0,1-0,Ajaccio
+Sun May 4 2014,Marseille,4-2,2-1,Lyon
+Sun May 4 2014,Reims,1-0,1-0,Evian Thonon Gaillard
+Sun May 4 2014,Sochaux,2-0,1-0,Nice
+Sun May 4 2014,St Etienne,2-0,0-0,Montpellier
+Sun May 4 2014,Toulouse,1-1,0-1,Nantes
+Sun May 4 2014,Valenciennes,0-1,0-0,Bordeaux
+Wed May 7 2014,Monaco,1-1,0-0,Guingamp
+Wed May 7 2014,Paris SG,1-2,1-2,Rennes
+Sat May 10 2014,Ajaccio,2-1,2-1,Reims
+Sat May 10 2014,Bordeaux,1-1,0-1,Marseille
+Sat May 10 2014,Evian Thonon Gaillard,2-0,1-0,Nice
+Sat May 10 2014,Guingamp,2-0,2-0,Toulouse
+Sat May 10 2014,Lille,1-3,0-1,Paris SG
+Sat May 10 2014,Lyon,0-1,0-0,Lorient
+Sat May 10 2014,Montpellier,0-2,0-1,Bastia
+Sat May 10 2014,Nantes,1-3,0-3,St Etienne
+Sat May 10 2014,Rennes,1-2,0-1,Sochaux
+Sat May 10 2014,Valenciennes,1-2,0-1,Monaco
+Sat May 17 2014,Bastia,0-0,0-0,Nantes
+Sat May 17 2014,Lorient,1-4,1-1,Lille
+Sat May 17 2014,Marseille,1-0,0-0,Guingamp
+Sat May 17 2014,Monaco,1-1,0-1,Bordeaux
+Sat May 17 2014,Nice,0-1,0-1,Lyon
+Sat May 17 2014,Paris SG,4-0,2-0,Montpellier
+Sat May 17 2014,Reims,1-3,0-1,Rennes
+Sat May 17 2014,Sochaux,0-3,0-2,Evian Thonon Gaillard
+Sat May 17 2014,St Etienne,3-1,2-0,Ajaccio
+Sat May 17 2014,Toulouse,3-1,2-0,Valenciennes

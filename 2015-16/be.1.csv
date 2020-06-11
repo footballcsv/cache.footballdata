@@ -1,0 +1,241 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 24 2015,St Truiden,2-1,0-1,Club Brugge
+Sat Jul 25 2015,Genk,3-1,1-0,Oud-Heverlee Leuven
+Sat Jul 25 2015,Kortrijk,2-1,1-0,Standard
+Sat Jul 25 2015,Oostende,3-1,1-0,Mechelen
+Sat Jul 25 2015,Waregem,3-1,1-0,Lokeren
+Sun Jul 26 2015,Anderlecht,3-2,2-0,Waasland-Beveren
+Sun Jul 26 2015,Charleroi,2-1,2-0,Mouscron-Peruwelz
+Sun Jul 26 2015,Westerlo,1-1,1-1,Gent
+Fri Jul 31 2015,Gent,1-0,1-0,Genk
+Sat Aug 1 2015,Club Brugge,3-0,1-0,Mechelen
+Sat Aug 1 2015,Mouscron-Peruwelz,0-2,0-1,St Truiden
+Sat Aug 1 2015,Oostende,2-1,1-0,Westerlo
+Sat Aug 1 2015,Waasland-Beveren,2-1,1-0,Kortrijk
+Sun Aug 2 2015,Lokeren,2-2,1-1,Charleroi
+Sun Aug 2 2015,Oud-Heverlee Leuven,0-2,0-0,Anderlecht
+Sun Aug 2 2015,Standard,2-1,1-1,Waregem
+Fri Aug 7 2015,Waregem,0-0,0-0,Genk
+Sat Aug 8 2015,Kortrijk,0-0,0-0,Lokeren
+Sat Aug 8 2015,Mechelen,3-1,1-0,Mouscron-Peruwelz
+Sat Aug 8 2015,St Truiden,1-1,0-0,Oostende
+Sat Aug 8 2015,Westerlo,3-2,1-1,Oud-Heverlee Leuven
+Sun Aug 9 2015,Anderlecht,1-1,1-0,Gent
+Sun Aug 9 2015,Charleroi,0-0,0-0,Club Brugge
+Sun Aug 9 2015,Standard,1-0,0-0,Waasland-Beveren
+Fri Aug 14 2015,Club Brugge,2-1,0-0,Kortrijk
+Sat Aug 15 2015,Genk,2-1,1-1,Westerlo
+Sat Aug 15 2015,Lokeren,2-0,1-0,Mechelen
+Sat Aug 15 2015,Mouscron-Peruwelz,1-1,1-1,Standard
+Sat Aug 15 2015,Waasland-Beveren,2-1,1-0,Waregem
+Sun Aug 16 2015,Gent,1-0,1-0,St Truiden
+Sun Aug 16 2015,Oostende,3-1,1-0,Anderlecht
+Sun Aug 16 2015,Oud-Heverlee Leuven,2-0,0-0,Charleroi
+Fri Aug 21 2015,St Truiden,3-1,1-0,Genk
+Sat Aug 22 2015,Charleroi,0-0,0-0,Westerlo
+Sat Aug 22 2015,Mechelen,2-1,0-0,Oud-Heverlee Leuven
+Sat Aug 22 2015,Waasland-Beveren,3-3,1-2,Mouscron-Peruwelz
+Sat Aug 22 2015,Waregem,2-0,1-0,Club Brugge
+Sun Aug 23 2015,Anderlecht,1-0,0-0,Lokeren
+Sun Aug 23 2015,Kortrijk,0-0,0-0,Gent
+Sun Aug 23 2015,Standard,1-2,1-1,Oostende
+Fri Aug 28 2015,Genk,2-0,1-0,Charleroi
+Sat Aug 29 2015,Gent,2-2,0-1,Mechelen
+Sat Aug 29 2015,Mouscron-Peruwelz,0-1,0-0,Kortrijk
+Sat Aug 29 2015,Oostende,0-2,0-1,Waregem
+Sat Aug 29 2015,Oud-Heverlee Leuven,1-0,0-0,St Truiden
+Sun Aug 30 2015,Club Brugge,7-1,4-1,Standard
+Sun Aug 30 2015,Lokeren,1-2,0-0,Waasland-Beveren
+Sun Aug 30 2015,Westerlo,0-3,0-1,Anderlecht
+Fri Sep 11 2015,Mouscron-Peruwelz,2-1,0-1,Club Brugge
+Sat Sep 12 2015,Kortrijk,0-0,0-0,Oud-Heverlee Leuven
+Sat Sep 12 2015,Mechelen,2-2,1-0,Westerlo
+Sat Sep 12 2015,Waasland-Beveren,1-5,0-2,Oostende
+Sat Sep 12 2015,Waregem,1-1,0-1,Gent
+Sun Sep 13 2015,Anderlecht,0-0,0-0,Genk
+Sun Sep 13 2015,St Truiden,1-1,0-0,Charleroi
+Sun Sep 13 2015,Standard,0-1,0-0,Lokeren
+Fri Sep 18 2015,Genk,3-1,1-0,Mechelen
+Sat Sep 19 2015,Lokeren,1-2,1-2,Mouscron-Peruwelz
+Sat Sep 19 2015,Oostende,1-0,0-0,Kortrijk
+Sat Sep 19 2015,Oud-Heverlee Leuven,2-3,1-3,Waregem
+Sat Sep 19 2015,Westerlo,0-3,0-2,St Truiden
+Sun Sep 20 2015,Charleroi,1-1,0-0,Anderlecht
+Sun Sep 20 2015,Club Brugge,5-1,2-0,Waasland-Beveren
+Sun Sep 20 2015,Gent,4-1,2-1,Standard
+Fri Sep 25 2015,Waregem,4-2,2-1,Westerlo
+Sat Sep 26 2015,Mechelen,0-1,0-0,Charleroi
+Sat Sep 26 2015,Mouscron-Peruwelz,2-2,1-1,Oostende
+Sat Sep 26 2015,Standard,2-2,0-2,Oud-Heverlee Leuven
+Sat Sep 26 2015,Waasland-Beveren,1-3,0-1,Gent
+Sun Sep 27 2015,Anderlecht,1-0,1-0,St Truiden
+Sun Sep 27 2015,Kortrijk,1-0,0-0,Genk
+Sun Sep 27 2015,Lokeren,0-1,0-1,Club Brugge
+Fri Oct 2 2015,Oostende,2-0,0-0,Lokeren
+Sat Oct 3 2015,Charleroi,3-0,0-0,Waregem
+Sat Oct 3 2015,Oud-Heverlee Leuven,1-1,0-0,Mouscron-Peruwelz
+Sat Oct 3 2015,St Truiden,1-3,0-2,Waasland-Beveren
+Sat Oct 3 2015,Westerlo,1-1,1-0,Kortrijk
+Sun Oct 4 2015,Anderlecht,1-1,0-0,Mechelen
+Sun Oct 4 2015,Genk,3-1,1-0,Standard
+Sun Oct 4 2015,Gent,4-1,1-0,Club Brugge
+Fri Oct 16 2015,Mouscron-Peruwelz,1-2,1-0,Gent
+Sat Oct 17 2015,Lokeren,1-2,0-1,Oud-Heverlee Leuven
+Sat Oct 17 2015,Mechelen,3-0,1-0,St Truiden
+Sat Oct 17 2015,Standard,1-2,0-2,Westerlo
+Sat Oct 17 2015,Waasland-Beveren,0-1,0-0,Genk
+Sun Oct 18 2015,Club Brugge,1-0,1-0,Oostende
+Sun Oct 18 2015,Kortrijk,2-0,1-0,Charleroi
+Sun Oct 18 2015,Waregem,0-4,0-2,Anderlecht
+Fri Oct 23 2015,Genk,0-4,0-2,Mouscron-Peruwelz
+Sat Oct 24 2015,Gent,2-2,0-0,Oostende
+Sat Oct 24 2015,Mechelen,3-4,2-2,Waregem
+Sat Oct 24 2015,Oud-Heverlee Leuven,0-2,0-2,Waasland-Beveren
+Sat Oct 24 2015,Westerlo,1-2,0-2,Lokeren
+Sun Oct 25 2015,Anderlecht,3-1,1-0,Club Brugge
+Sun Oct 25 2015,Charleroi,2-3,1-1,Standard
+Sun Oct 25 2015,St Truiden,2-1,0-1,Kortrijk
+Tue Oct 27 2015,Lokeren,1-2,0-1,Gent
+Tue Oct 27 2015,Mouscron-Peruwelz,2-2,1-1,Westerlo
+Tue Oct 27 2015,Oostende,3-2,2-0,Genk
+Wed Oct 28 2015,Club Brugge,2-0,1-0,Oud-Heverlee Leuven
+Wed Oct 28 2015,Standard,2-1,2-0,Mechelen
+Wed Oct 28 2015,Waasland-Beveren,0-1,0-0,Charleroi
+Wed Oct 28 2015,Waregem,4-0,2-0,St Truiden
+Thu Oct 29 2015,Kortrijk,1-1,1-0,Anderlecht
+Fri Oct 30 2015,Genk,0-2,0-1,Lokeren
+Sat Oct 31 2015,Charleroi,1-1,0-0,Oostende
+Sat Oct 31 2015,Mechelen,2-0,1-0,Waasland-Beveren
+Sat Oct 31 2015,Oud-Heverlee Leuven,0-2,0-1,Gent
+Sat Oct 31 2015,Westerlo,0-2,0-2,Club Brugge
+Sun Nov 1 2015,Anderlecht,2-0,0-0,Mouscron-Peruwelz
+Sun Nov 1 2015,St Truiden,1-0,0-0,Standard
+Sun Nov 1 2015,Waregem,2-2,1-1,Kortrijk
+Fri Nov 6 2015,Mouscron-Peruwelz,2-2,1-0,Waregem
+Sat Nov 7 2015,Kortrijk,1-0,1-0,Mechelen
+Sat Nov 7 2015,Lokeren,1-1,0-0,St Truiden
+Sat Nov 7 2015,Oostende,3-0,2-0,Oud-Heverlee Leuven
+Sat Nov 7 2015,Waasland-Beveren,2-2,0-1,Westerlo
+Sun Nov 8 2015,Club Brugge,1-0,0-0,Genk
+Sun Nov 8 2015,Gent,1-3,1-2,Charleroi
+Sun Nov 8 2015,Standard,1-0,1-0,Anderlecht
+Fri Nov 20 2015,Gent,5-0,2-0,Westerlo
+Sat Nov 21 2015,Club Brugge,3-0,3-0,Waregem
+Sat Nov 21 2015,Oud-Heverlee Leuven,1-3,0-2,Genk
+Sat Nov 21 2015,Waasland-Beveren,2-1,1-1,St Truiden
+Sun Nov 22 2015,Mechelen,2-1,1-0,Oostende
+Sun Nov 22 2015,Standard,1-1,0-0,Kortrijk
+Fri Nov 27 2015,Waregem,2-3,0-2,Standard
+Sat Nov 28 2015,Charleroi,1-2,0-1,Lokeren
+Sat Nov 28 2015,Genk,0-1,0-1,Gent
+Sat Nov 28 2015,Kortrijk,3-1,3-1,Waasland-Beveren
+Sat Nov 28 2015,St Truiden,0-1,0-0,Mouscron-Peruwelz
+Sun Nov 29 2015,Anderlecht,3-2,2-1,Oud-Heverlee Leuven
+Sun Nov 29 2015,Mechelen,1-4,1-0,Club Brugge
+Sun Nov 29 2015,Westerlo,0-1,0-0,Oostende
+Fri Dec 4 2015,Gent,2-2,1-1,Waregem
+Sat Dec 5 2015,Mouscron-Peruwelz,2-3,1-1,Mechelen
+Sat Dec 5 2015,Oostende,1-2,1-1,St Truiden
+Sat Dec 5 2015,Oud-Heverlee Leuven,5-1,3-0,Westerlo
+Sat Dec 5 2015,Waasland-Beveren,0-0,0-0,Standard
+Sun Dec 6 2015,Club Brugge,2-1,1-0,Charleroi
+Sun Dec 6 2015,Genk,0-0,0-0,Anderlecht
+Sun Dec 6 2015,Lokeren,3-1,0-1,Kortrijk
+Fri Dec 11 2015,Westerlo,0-0,0-0,Genk
+Sat Dec 12 2015,Charleroi,2-1,0-0,Oud-Heverlee Leuven
+Sat Dec 12 2015,Kortrijk,1-3,0-2,Mouscron-Peruwelz
+Sat Dec 12 2015,Mechelen,1-1,1-1,Lokeren
+Sat Dec 12 2015,Waregem,2-1,2-0,Waasland-Beveren
+Sun Dec 13 2015,Anderlecht,1-1,0-0,Oostende
+Sun Dec 13 2015,St Truiden,0-2,0-1,Gent
+Sun Dec 13 2015,Standard,2-0,0-0,Club Brugge
+Fri Dec 18 2015,Lokeren,1-1,0-1,Waregem
+Sat Dec 19 2015,Genk,3-0,1-0,St Truiden
+Sat Dec 19 2015,Mouscron-Peruwelz,0-1,0-0,Waasland-Beveren
+Sat Dec 19 2015,Oud-Heverlee Leuven,3-1,0-1,Mechelen
+Sat Dec 19 2015,Westerlo,2-1,1-1,Charleroi
+Sun Dec 20 2015,Club Brugge,1-4,0-2,Anderlecht
+Sun Dec 20 2015,Gent,3-0,1-0,Kortrijk
+Sun Dec 20 2015,Oostende,4-1,2-1,Standard
+Tue Dec 22 2015,Mouscron-Peruwelz,0-1,0-1,Charleroi
+Wed Dec 23 2015,Lokeren,1-1,0-0,Anderlecht
+Sat Dec 26 2015,Charleroi,1-0,0-0,Genk
+Sat Dec 26 2015,Kortrijk,1-4,1-1,Club Brugge
+Sat Dec 26 2015,Mechelen,2-0,0-0,Gent
+Sat Dec 26 2015,St Truiden,2-2,0-1,Oud-Heverlee Leuven
+Sat Dec 26 2015,Waasland-Beveren,2-3,2-0,Lokeren
+Sun Dec 27 2015,Anderlecht,2-1,1-0,Westerlo
+Sun Dec 27 2015,Standard,3-0,1-0,Mouscron-Peruwelz
+Sun Dec 27 2015,Waregem,1-0,0-0,Oostende
+Fri Jan 15 2016,Genk,2-1,1-1,Waregem
+Sat Jan 16 2016,Charleroi,0-0,0-0,St Truiden
+Sat Jan 16 2016,Club Brugge,3-0,1-0,Mouscron-Peruwelz
+Sat Jan 16 2016,Oud-Heverlee Leuven,1-0,0-0,Kortrijk
+Sat Jan 16 2016,Westerlo,3-2,0-0,Mechelen
+Sun Jan 17 2016,Gent,2-0,1-0,Anderlecht
+Sun Jan 17 2016,Lokeren,0-2,0-0,Standard
+Sun Jan 17 2016,Oostende,3-3,2-2,Waasland-Beveren
+Fri Jan 22 2016,Kortrijk,2-1,1-0,Oostende
+Sat Jan 23 2016,Mechelen,1-1,0-0,Genk
+Sat Jan 23 2016,Mouscron-Peruwelz,1-1,0-0,Lokeren
+Sat Jan 23 2016,St Truiden,1-2,0-0,Westerlo
+Sat Jan 23 2016,Waregem,2-2,1-1,Oud-Heverlee Leuven
+Sun Jan 24 2016,Anderlecht,2-1,1-1,Charleroi
+Sun Jan 24 2016,Standard,0-3,0-0,Gent
+Sun Jan 24 2016,Waasland-Beveren,1-2,1-1,Club Brugge
+Fri Jan 29 2016,St Truiden,1-2,1-1,Anderlecht
+Sat Jan 30 2016,Charleroi,3-2,1-2,Mechelen
+Sat Jan 30 2016,Genk,1-0,1-0,Kortrijk
+Sat Jan 30 2016,Oud-Heverlee Leuven,0-2,0-2,Standard
+Sat Jan 30 2016,Westerlo,1-2,1-0,Waregem
+Sun Jan 31 2016,Club Brugge,2-1,2-1,Lokeren
+Sun Jan 31 2016,Gent,2-1,1-1,Waasland-Beveren
+Sun Jan 31 2016,Oostende,3-3,1-0,Mouscron-Peruwelz
+Fri Feb 5 2016,Mechelen,2-2,1-1,Anderlecht
+Sat Feb 6 2016,Kortrijk,1-1,0-0,Westerlo
+Sat Feb 6 2016,Mouscron-Peruwelz,0-1,0-0,Genk
+Sat Feb 6 2016,Waasland-Beveren,2-2,0-1,Oud-Heverlee Leuven
+Sat Feb 6 2016,Waregem,2-3,1-1,Charleroi
+Sun Feb 7 2016,Club Brugge,1-0,0-0,Gent
+Sun Feb 7 2016,Lokeren,0-1,0-0,Oostende
+Sun Feb 7 2016,Standard,1-2,1-1,St Truiden
+Fri Feb 12 2016,Gent,2-0,0-0,Mouscron-Peruwelz
+Sat Feb 13 2016,Anderlecht,3-0,1-0,Waregem
+Sat Feb 13 2016,Charleroi,1-1,1-0,Kortrijk
+Sat Feb 13 2016,Genk,6-1,4-1,Waasland-Beveren
+Sat Feb 13 2016,Oud-Heverlee Leuven,3-3,0-1,Lokeren
+Sun Feb 14 2016,Oostende,0-2,0-1,Club Brugge
+Sun Feb 14 2016,St Truiden,0-3,0-0,Mechelen
+Sun Feb 14 2016,Westerlo,2-0,0-0,Standard
+Fri Feb 19 2016,Club Brugge,6-0,3-0,Westerlo
+Sat Feb 20 2016,Kortrijk,3-0,2-0,St Truiden
+Sat Feb 20 2016,Lokeren,0-0,0-0,Genk
+Sat Feb 20 2016,Mouscron-Peruwelz,3-1,0-1,Oud-Heverlee Leuven
+Sat Feb 20 2016,Standard,3-0,1-0,Charleroi
+Sun Feb 21 2016,Oostende,5-2,3-2,Gent
+Sun Feb 21 2016,Waasland-Beveren,1-0,0-0,Anderlecht
+Sun Feb 21 2016,Waregem,2-3,1-0,Mechelen
+Fri Feb 26 2016,Gent,3-1,2-1,Lokeren
+Sat Feb 27 2016,Mechelen,0-2,0-1,Kortrijk
+Sat Feb 27 2016,Oud-Heverlee Leuven,4-1,2-0,Oostende
+Sat Feb 27 2016,St Truiden,1-2,0-1,Waregem
+Sat Feb 27 2016,Westerlo,2-2,2-2,Mouscron-Peruwelz
+Sun Feb 28 2016,Anderlecht,3-3,1-2,Standard
+Sun Feb 28 2016,Charleroi,2-3,1-0,Waasland-Beveren
+Sun Feb 28 2016,Genk,3-2,1-1,Club Brugge
+Fri Mar 4 2016,Gent,1-1,0-0,Oud-Heverlee Leuven
+Sat Mar 5 2016,Club Brugge,3-0,1-0,St Truiden
+Sat Mar 5 2016,Kortrijk,1-0,1-0,Waregem
+Sat Mar 5 2016,Lokeren,2-1,1-1,Westerlo
+Sat Mar 5 2016,Mouscron-Peruwelz,2-1,1-1,Anderlecht
+Sat Mar 5 2016,Oostende,2-1,0-0,Charleroi
+Sat Mar 5 2016,Standard,2-1,0-1,Genk
+Sat Mar 5 2016,Waasland-Beveren,0-0,0-0,Mechelen
+Sun Mar 13 2016,Anderlecht,3-0,1-0,Kortrijk
+Sun Mar 13 2016,Charleroi,1-1,0-0,Gent
+Sun Mar 13 2016,Genk,4-1,2-0,Oostende
+Sun Mar 13 2016,Mechelen,4-0,3-0,Standard
+Sun Mar 13 2016,Oud-Heverlee Leuven,0-1,0-0,Club Brugge
+Sun Mar 13 2016,St Truiden,1-1,0-0,Lokeren
+Sun Mar 13 2016,Waregem,3-0,1-0,Mouscron-Peruwelz
+Sun Mar 13 2016,Westerlo,1-0,1-0,Waasland-Beveren

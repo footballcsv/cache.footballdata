@@ -1,0 +1,181 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 6 2016,Ayr,0-2,0-1,Raith Rvs
+Sat Aug 6 2016,Dundee United,1-1,0-1,Queen of Sth
+Sat Aug 6 2016,Dunfermline,4-3,2-1,Dumbarton
+Sat Aug 6 2016,Falkirk,1-2,1-1,Hibernian
+Sat Aug 6 2016,St Mirren,1-1,0-1,Morton
+Sat Aug 13 2016,Dumbarton,1-0,0-0,Dundee United
+Sat Aug 13 2016,Hibernian,2-1,1-0,Dunfermline
+Sat Aug 13 2016,Morton,1-1,1-0,Falkirk
+Sat Aug 13 2016,Queen of Sth,4-1,2-0,Ayr
+Sat Aug 13 2016,Raith Rvs,3-1,1-0,St Mirren
+Sat Aug 20 2016,Dundee United,3-0,2-0,Ayr
+Sat Aug 20 2016,Morton,1-1,0-1,Dumbarton
+Sat Aug 20 2016,Queen of Sth,2-0,1-0,Falkirk
+Sat Aug 20 2016,Raith Rvs,2-0,0-0,Dunfermline
+Sat Aug 20 2016,St Mirren,0-2,0-2,Hibernian
+Sat Aug 27 2016,Ayr,1-1,1-0,St Mirren
+Sat Aug 27 2016,Dundee United,2-2,2-1,Raith Rvs
+Sat Aug 27 2016,Dunfermline,0-1,0-1,Queen of Sth
+Sat Aug 27 2016,Falkirk,1-0,0-0,Dumbarton
+Sat Aug 27 2016,Hibernian,4-0,2-0,Morton
+Sat Sep 10 2016,Ayr,2-1,0-0,Morton
+Sat Sep 10 2016,Dumbarton,0-1,0-1,Hibernian
+Sat Sep 10 2016,Dunfermline,1-3,0-1,Dundee United
+Sat Sep 10 2016,Raith Rvs,0-2,0-1,Falkirk
+Sat Sep 10 2016,St Mirren,1-3,1-2,Queen of Sth
+Sat Sep 17 2016,Dumbarton,1-1,1-1,St Mirren
+Sat Sep 17 2016,Falkirk,3-1,1-1,Dundee United
+Sat Sep 17 2016,Hibernian,1-2,0-0,Ayr
+Sat Sep 17 2016,Morton,2-1,1-1,Dunfermline
+Sat Sep 17 2016,Queen of Sth,3-1,0-0,Raith Rvs
+Sat Sep 24 2016,Dundee United,2-1,0-0,Morton
+Sat Sep 24 2016,Dunfermline,4-3,1-2,St Mirren
+Sat Sep 24 2016,Falkirk,2-0,0-0,Ayr
+Sat Sep 24 2016,Queen of Sth,0-0,0-0,Hibernian
+Sat Sep 24 2016,Raith Rvs,3-2,3-0,Dumbarton
+Sat Oct 1 2016,Ayr,0-0,0-0,Dunfermline
+Sat Oct 1 2016,Dumbarton,0-0,0-0,Queen of Sth
+Sat Oct 1 2016,Morton,1-0,1-0,Raith Rvs
+Sat Oct 1 2016,St Mirren,1-1,0-1,Falkirk
+Sun Oct 2 2016,Hibernian,1-1,1-0,Dundee United
+Sat Oct 15 2016,Dumbarton,0-3,0-1,Ayr
+Sat Oct 15 2016,Falkirk,2-1,1-0,Dunfermline
+Sat Oct 15 2016,Queen of Sth,0-5,0-3,Morton
+Sat Oct 15 2016,Raith Rvs,0-0,0-0,Hibernian
+Sat Oct 15 2016,St Mirren,0-2,0-1,Dundee United
+Sat Oct 22 2016,Ayr,1-0,0-0,Queen of Sth
+Sat Oct 22 2016,Dundee United,2-1,0-0,Dumbarton
+Sat Oct 22 2016,Dunfermline,1-3,1-0,Hibernian
+Sat Oct 22 2016,Falkirk,2-4,1-2,Raith Rvs
+Sat Oct 29 2016,Dumbarton,2-2,1-0,Dunfermline
+Sat Oct 29 2016,Dundee United,1-0,0-0,Falkirk
+Sat Oct 29 2016,Hibernian,2-0,2-0,St Mirren
+Sat Oct 29 2016,Morton,2-1,0-1,Ayr
+Sat Oct 29 2016,Raith Rvs,1-0,0-0,Queen of Sth
+Tue Nov 1 2016,Morton,3-1,2-0,St Mirren
+Sat Nov 5 2016,Ayr,0-3,0-1,Hibernian
+Sat Nov 5 2016,Dunfermline,0-0,0-0,Raith Rvs
+Sat Nov 5 2016,Falkirk,1-1,0-0,Morton
+Sat Nov 5 2016,Queen of Sth,1-4,1-2,Dundee United
+Sat Nov 5 2016,St Mirren,0-1,0-0,Dumbarton
+Tue Nov 8 2016,Dundee United,1-0,0-0,Dunfermline
+Sat Nov 12 2016,Dumbarton,0-2,0-0,Morton
+Sat Nov 12 2016,Hibernian,1-1,0-0,Falkirk
+Sat Nov 19 2016,Ayr,0-1,0-1,Falkirk
+Sat Nov 19 2016,Dumbarton,0-0,0-0,Raith Rvs
+Sat Nov 19 2016,Hibernian,4-0,2-0,Queen of Sth
+Sat Nov 19 2016,Morton,0-0,0-0,Dundee United
+Sat Nov 19 2016,St Mirren,0-1,0-1,Dunfermline
+Tue Nov 22 2016,Raith Rvs,1-1,1-0,Ayr
+Fri Dec 2 2016,Dundee United,1-0,0-0,Hibernian
+Sat Dec 3 2016,Dunfermline,1-1,1-0,Ayr
+Sat Dec 3 2016,Falkirk,3-1,0-1,St Mirren
+Sat Dec 3 2016,Queen of Sth,1-2,0-2,Dumbarton
+Tue Dec 6 2016,Queen of Sth,2-3,2-1,St Mirren
+Sat Dec 10 2016,Ayr,0-1,0-1,Dundee United
+Sat Dec 10 2016,Dunfermline,2-1,2-1,Morton
+Sat Dec 10 2016,Falkirk,2-2,1-1,Queen of Sth
+Sat Dec 10 2016,Hibernian,2-0,1-0,Dumbarton
+Sat Dec 10 2016,St Mirren,1-0,0-0,Raith Rvs
+Sat Dec 17 2016,Dumbarton,2-1,1-0,Falkirk
+Sat Dec 17 2016,Morton,1-1,0-0,Hibernian
+Sat Dec 17 2016,Queen of Sth,2-2,1-0,Dunfermline
+Sat Dec 17 2016,Raith Rvs,0-0,0-0,Dundee United
+Sat Dec 17 2016,St Mirren,1-1,0-0,Ayr
+Sat Dec 24 2016,Ayr,4-4,2-1,Dumbarton
+Sat Dec 24 2016,Dundee United,2-1,2-1,St Mirren
+Sat Dec 24 2016,Hibernian,1-1,0-0,Raith Rvs
+Sat Dec 24 2016,Morton,1-0,1-0,Queen of Sth
+Mon Dec 26 2016,Dunfermline,1-1,0-1,Falkirk
+Sat Dec 31 2016,Dumbarton,1-0,1-0,Dundee United
+Sat Dec 31 2016,Falkirk,1-2,1-1,Hibernian
+Sat Dec 31 2016,Queen of Sth,0-0,0-0,Ayr
+Sat Dec 31 2016,St Mirren,1-1,1-0,Morton
+Mon Jan 2 2017,Raith Rvs,0-2,0-1,Dunfermline
+Fri Jan 6 2017,Hibernian,3-0,2-0,Dundee United
+Sat Jan 7 2017,Ayr,0-2,0-2,Dunfermline
+Sat Jan 7 2017,Morton,2-1,1-0,Dumbarton
+Sat Jan 7 2017,Raith Rvs,1-4,1-3,Falkirk
+Sat Jan 7 2017,St Mirren,0-3,0-1,Queen of Sth
+Sat Jan 14 2017,Dumbarton,0-1,0-1,Hibernian
+Sat Jan 14 2017,Dundee United,3-3,1-1,Queen of Sth
+Sat Jan 14 2017,Dunfermline,1-1,1-0,St Mirren
+Sat Jan 14 2017,Falkirk,1-1,1-1,Ayr
+Sat Jan 14 2017,Morton,2-0,1-0,Raith Rvs
+Sat Jan 21 2017,Dumbarton,1-2,0-1,Queen of Sth
+Sat Jan 28 2017,Ayr,1-4,1-3,Morton
+Sat Jan 28 2017,Dunfermline,1-1,1-1,Dundee United
+Sat Jan 28 2017,Queen of Sth,0-1,0-0,Hibernian
+Sat Jan 28 2017,Raith Rvs,1-3,1-0,Dumbarton
+Sat Jan 28 2017,St Mirren,1-2,0-1,Falkirk
+Sat Feb 4 2017,Dumbarton,2-2,0-1,St Mirren
+Sat Feb 4 2017,Dundee United,3-0,1-0,Raith Rvs
+Sat Feb 4 2017,Falkirk,2-0,1-0,Dunfermline
+Sat Feb 4 2017,Hibernian,1-1,0-1,Ayr
+Sat Feb 4 2017,Queen of Sth,3-0,0-0,Morton
+Tue Feb 7 2017,Raith Rvs,0-1,0-0,Morton
+Sat Feb 11 2017,Falkirk,3-0,1-0,Dundee United
+Sat Feb 18 2017,Dumbarton,2-2,0-0,Ayr
+Sat Feb 18 2017,Morton,2-2,1-1,Falkirk
+Sat Feb 18 2017,Raith Rvs,1-1,0-0,Hibernian
+Sat Feb 25 2017,Ayr,0-2,0-0,St Mirren
+Sat Feb 25 2017,Dundee United,1-1,0-1,Morton
+Sat Feb 25 2017,Falkirk,2-2,1-1,Dumbarton
+Sat Feb 25 2017,Hibernian,2-2,2-1,Dunfermline
+Sat Feb 25 2017,Queen of Sth,2-1,2-0,Raith Rvs
+Tue Feb 28 2017,Ayr,1-0,0-0,Raith Rvs
+Wed Mar 1 2017,St Mirren,2-0,1-0,Hibernian
+Sat Mar 4 2017,Dunfermline,5-1,2-0,Dumbarton
+Sat Mar 4 2017,Queen of Sth,0-2,0-1,Falkirk
+Tue Mar 7 2017,Dunfermline,1-1,1-1,Queen of Sth
+Wed Mar 8 2017,Raith Rvs,2-0,0-0,St Mirren
+Fri Mar 10 2017,Dundee United,0-1,0-1,Hibernian
+Sat Mar 11 2017,Ayr,1-4,0-1,Falkirk
+Sat Mar 11 2017,Dumbarton,4-0,2-0,Raith Rvs
+Sat Mar 11 2017,Morton,1-0,0-0,Queen of Sth
+Sat Mar 11 2017,St Mirren,0-0,0-0,Dunfermline
+Wed Mar 15 2017,St Mirren,3-2,2-1,Dundee United
+Sat Mar 18 2017,Dunfermline,0-1,0-0,Ayr
+Sat Mar 18 2017,Falkirk,0-1,0-0,Morton
+Sat Mar 18 2017,Hibernian,2-2,0-1,Dumbarton
+Sat Mar 18 2017,Queen of Sth,0-2,0-1,St Mirren
+Sat Mar 18 2017,Raith Rvs,2-1,1-0,Dundee United
+Sat Mar 25 2017,Ayr,2-1,1-1,Dumbarton
+Sat Mar 25 2017,Hibernian,2-1,0-0,Falkirk
+Sat Mar 25 2017,Morton,0-1,0-1,Dunfermline
+Sat Mar 25 2017,Raith Rvs,1-1,1-1,Queen of Sth
+Tue Mar 28 2017,Dundee United,2-1,1-0,Ayr
+Wed Mar 29 2017,Hibernian,0-0,0-0,Morton
+Sat Apr 1 2017,Dumbarton,1-0,0-0,Morton
+Sat Apr 1 2017,Dunfermline,1-1,0-1,Hibernian
+Sat Apr 1 2017,Falkirk,1-0,0-0,Raith Rvs
+Sat Apr 1 2017,Queen of Sth,4-2,2-1,Dundee United
+Sat Apr 1 2017,St Mirren,6-2,4-0,Ayr
+Sat Apr 8 2017,Ayr,0-2,0-0,Queen of Sth
+Sat Apr 8 2017,Dundee United,1-1,0-0,Falkirk
+Sat Apr 8 2017,Dunfermline,1-0,0-0,Raith Rvs
+Sat Apr 8 2017,Morton,1-1,0-1,Hibernian
+Sat Apr 8 2017,St Mirren,1-1,1-1,Dumbarton
+Tue Apr 11 2017,Dundee United,1-0,1-0,Dunfermline
+Tue Apr 11 2017,Morton,1-4,1-1,St Mirren
+Sat Apr 15 2017,Ayr,0-0,0-0,Dundee United
+Sat Apr 15 2017,Dumbarton,0-2,0-0,Dunfermline
+Sat Apr 15 2017,Falkirk,2-2,1-1,St Mirren
+Sat Apr 15 2017,Hibernian,3-0,2-0,Queen of Sth
+Sat Apr 15 2017,Raith Rvs,2-0,1-0,Morton
+Sat Apr 22 2017,Dundee United,3-2,1-1,St Mirren
+Sat Apr 22 2017,Dunfermline,1-2,1-0,Falkirk
+Sat Apr 22 2017,Morton,1-1,1-1,Ayr
+Sat Apr 22 2017,Queen of Sth,1-2,1-2,Dumbarton
+Wed Apr 26 2017,Hibernian,3-2,1-0,Raith Rvs
+Sat Apr 29 2017,Ayr,0-4,0-2,Hibernian
+Sat Apr 29 2017,Dundee United,2-2,1-1,Dumbarton
+Sat Apr 29 2017,Dunfermline,3-1,1-1,Morton
+Sat Apr 29 2017,Falkirk,2-2,1-1,Queen of Sth
+Sat Apr 29 2017,St Mirren,5-0,2-0,Raith Rvs
+Sat May 6 2017,Dumbarton,0-1,0-0,Falkirk
+Sat May 6 2017,Hibernian,1-1,0-0,St Mirren
+Sat May 6 2017,Morton,1-1,0-0,Dundee United
+Sat May 6 2017,Queen of Sth,0-1,0-0,Dunfermline
+Sat May 6 2017,Raith Rvs,2-1,1-0,Ayr

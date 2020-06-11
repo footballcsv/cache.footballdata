@@ -1,0 +1,463 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 19 2016,Almeria,1-1,0-0,Cadiz
+Fri Aug 19 2016,Mirandes,1-1,0-0,Getafe
+Sat Aug 20 2016,Alcorcon,0-0,0-0,Huesca
+Sat Aug 20 2016,Cordoba,1-0,1-0,Tenerife
+Sat Aug 20 2016,Elche,2-1,2-1,Vallecano
+Sat Aug 20 2016,Mallorca,0-1,0-0,Reus Deportiu
+Sun Aug 21 2016,Gimnastic,2-2,0-2,Lugo
+Sun Aug 21 2016,Numancia,0-1,0-0,Levante
+Sun Aug 21 2016,Sevilla B,3-3,1-0,Girona
+Sun Aug 21 2016,Valladolid,1-0,1-0,Oviedo
+Mon Aug 22 2016,Zaragoza,3-1,3-0,UCAM Murcia
+Fri Aug 26 2016,Getafe,0-0,0-0,Numancia
+Fri Aug 26 2016,Tenerife,1-1,0-1,Sevilla B
+Sat Aug 27 2016,Girona,3-1,2-0,Elche
+Sat Aug 27 2016,Lugo,3-3,1-1,Zaragoza
+Sat Aug 27 2016,Oviedo,2-0,0-0,Almeria
+Sat Aug 27 2016,Reus Deportiu,1-1,1-1,Mirandes
+Sun Aug 28 2016,Cadiz,1-1,1-0,Mallorca
+Sun Aug 28 2016,Huesca,1-1,0-0,Gimnastic
+Sun Aug 28 2016,Levante,2-0,2-0,Alcorcon
+Sun Aug 28 2016,UCAM Murcia,1-1,0-0,Cordoba
+Sun Aug 28 2016,Vallecano,0-0,0-0,Valladolid
+Fri Sep 2 2016,Cordoba,3-3,1-1,Lugo
+Fri Sep 2 2016,Sevilla B,1-1,0-0,UCAM Murcia
+Sat Sep 3 2016,Almeria,3-0,2-0,Vallecano
+Sat Sep 3 2016,Elche,3-1,1-0,Tenerife
+Sat Sep 3 2016,Getafe,1-1,0-0,Reus Deportiu
+Sat Sep 3 2016,Mirandes,3-2,0-2,Cadiz
+Sat Sep 3 2016,Valladolid,2-1,2-0,Girona
+Sun Sep 4 2016,Gimnastic,1-1,0-0,Levante
+Sun Sep 4 2016,Mallorca,0-0,0-0,Oviedo
+Sun Sep 4 2016,Numancia,1-1,1-1,Alcorcon
+Sun Sep 4 2016,Zaragoza,1-0,0-0,Huesca
+Sat Sep 10 2016,Levante,4-2,3-1,Zaragoza
+Sat Sep 10 2016,Lugo,1-0,0-0,Sevilla B
+Sat Sep 10 2016,Reus Deportiu,1-1,0-0,Numancia
+Sat Sep 10 2016,Tenerife,1-0,1-0,Valladolid
+Sun Sep 11 2016,Alcorcon,1-0,0-0,Gimnastic
+Sun Sep 11 2016,Cadiz,3-0,1-0,Getafe
+Sun Sep 11 2016,Girona,3-3,2-1,Almeria
+Sun Sep 11 2016,Huesca,3-0,2-0,Cordoba
+Sun Sep 11 2016,Oviedo,0-0,0-0,Mirandes
+Sun Sep 11 2016,UCAM Murcia,1-1,0-1,Elche
+Sun Sep 11 2016,Vallecano,1-0,0-0,Mallorca
+Sat Sep 17 2016,Cordoba,1-0,1-0,Levante
+Sat Sep 17 2016,Elche,0-3,0-2,Lugo
+Sat Sep 17 2016,Numancia,1-0,1-0,Gimnastic
+Sat Sep 17 2016,Reus Deportiu,1-0,0-0,Cadiz
+Sat Sep 17 2016,Valladolid,0-1,0-0,UCAM Murcia
+Sat Sep 17 2016,Zaragoza,2-0,1-0,Alcorcon
+Sun Sep 18 2016,Almeria,0-1,0-0,Tenerife
+Sun Sep 18 2016,Getafe,2-1,0-1,Oviedo
+Sun Sep 18 2016,Mallorca,1-0,1-0,Girona
+Sun Sep 18 2016,Mirandes,2-1,1-1,Vallecano
+Sun Sep 18 2016,Sevilla B,2-0,0-0,Huesca
+Tue Sep 20 2016,Alcorcon,0-1,0-0,Cordoba
+Tue Sep 20 2016,Cadiz,1-0,0-0,Numancia
+Tue Sep 20 2016,Gimnastic,0-0,0-0,Zaragoza
+Tue Sep 20 2016,Lugo,1-0,1-0,Valladolid
+Wed Sep 21 2016,Huesca,0-3,0-0,Elche
+Wed Sep 21 2016,Levante,1-0,0-0,Sevilla B
+Wed Sep 21 2016,UCAM Murcia,4-0,1-0,Almeria
+Thu Sep 22 2016,Girona,1-1,0-0,Mirandes
+Thu Sep 22 2016,Oviedo,0-1,0-0,Reus Deportiu
+Thu Sep 22 2016,Tenerife,0-0,0-0,Mallorca
+Thu Sep 22 2016,Vallecano,2-0,1-0,Getafe
+Sat Sep 24 2016,Almeria,0-0,0-0,Lugo
+Sat Sep 24 2016,Cordoba,2-0,1-0,Gimnastic
+Sat Sep 24 2016,Elche,0-1,0-0,Levante
+Sat Sep 24 2016,Sevilla B,1-1,1-0,Alcorcon
+Sat Sep 24 2016,Valladolid,1-2,0-0,Huesca
+Sun Sep 25 2016,Cadiz,0-2,0-2,Oviedo
+Sun Sep 25 2016,Getafe,0-2,0-1,Girona
+Sun Sep 25 2016,Mallorca,0-0,0-0,UCAM Murcia
+Sun Sep 25 2016,Mirandes,3-2,2-0,Tenerife
+Sun Sep 25 2016,Numancia,2-1,1-1,Zaragoza
+Sun Sep 25 2016,Reus Deportiu,1-1,1-0,Vallecano
+Sat Oct 1 2016,Alcorcon,1-0,0-0,Elche
+Sat Oct 1 2016,Gimnastic,1-1,1-1,Sevilla B
+Sat Oct 1 2016,Huesca,2-0,1-0,Almeria
+Sat Oct 1 2016,Lugo,3-1,2-1,Mallorca
+Sat Oct 1 2016,Zaragoza,1-1,1-1,Cordoba
+Sun Oct 2 2016,Girona,1-0,0-0,Reus Deportiu
+Sun Oct 2 2016,Levante,3-2,1-1,Valladolid
+Sun Oct 2 2016,Oviedo,2-2,1-1,Numancia
+Sun Oct 2 2016,Tenerife,0-0,0-0,Getafe
+Sun Oct 2 2016,UCAM Murcia,2-2,1-2,Mirandes
+Sun Oct 2 2016,Vallecano,3-0,1-0,Cadiz
+Sat Oct 8 2016,Elche,4-4,2-1,Gimnastic
+Sat Oct 8 2016,Getafe,2-0,0-0,UCAM Murcia
+Sat Oct 8 2016,Numancia,1-1,1-0,Cordoba
+Sat Oct 8 2016,Reus Deportiu,0-0,0-0,Tenerife
+Sat Oct 8 2016,Sevilla B,2-1,0-0,Zaragoza
+Sat Oct 8 2016,Valladolid,2-0,2-0,Alcorcon
+Sun Oct 9 2016,Almeria,2-2,1-0,Levante
+Sun Oct 9 2016,Cadiz,0-0,0-0,Girona
+Sun Oct 9 2016,Mallorca,3-0,2-0,Huesca
+Sun Oct 9 2016,Mirandes,2-2,0-2,Lugo
+Sun Oct 9 2016,Oviedo,2-0,1-0,Vallecano
+Sat Oct 15 2016,Alcorcon,0-0,0-0,Almeria
+Sat Oct 15 2016,Girona,0-0,0-0,Oviedo
+Sat Oct 15 2016,Huesca,3-0,1-0,Mirandes
+Sat Oct 15 2016,Levante,2-1,1-1,Mallorca
+Sat Oct 15 2016,Lugo,0-1,0-0,Getafe
+Sun Oct 16 2016,Cordoba,0-1,0-0,Sevilla B
+Sun Oct 16 2016,Gimnastic,1-2,1-1,Valladolid
+Sun Oct 16 2016,Tenerife,1-1,0-0,Cadiz
+Sun Oct 16 2016,UCAM Murcia,0-2,0-2,Reus Deportiu
+Sun Oct 16 2016,Vallecano,3-3,1-1,Numancia
+Sun Oct 16 2016,Zaragoza,1-3,0-3,Elche
+Sat Oct 22 2016,Elche,1-1,1-0,Cordoba
+Sat Oct 22 2016,Getafe,1-1,0-0,Huesca
+Sat Oct 22 2016,Numancia,1-2,1-1,Sevilla B
+Sat Oct 22 2016,Reus Deportiu,2-1,2-0,Lugo
+Sat Oct 22 2016,Vallecano,1-0,0-0,Girona
+Sun Oct 23 2016,Almeria,3-0,1-0,Gimnastic
+Sun Oct 23 2016,Cadiz,2-2,2-0,UCAM Murcia
+Sun Oct 23 2016,Mallorca,1-0,0-0,Alcorcon
+Sun Oct 23 2016,Mirandes,0-3,0-1,Levante
+Sun Oct 23 2016,Oviedo,2-0,1-0,Tenerife
+Sun Oct 23 2016,Valladolid,0-0,0-0,Zaragoza
+Sat Oct 29 2016,Cordoba,1-1,1-1,Valladolid
+Sat Oct 29 2016,Huesca,2-1,0-1,Reus Deportiu
+Sat Oct 29 2016,Tenerife,3-2,2-1,Vallecano
+Sat Oct 29 2016,Zaragoza,2-1,1-0,Almeria
+Sun Oct 30 2016,Alcorcon,1-0,0-0,Mirandes
+Sun Oct 30 2016,Gimnastic,2-2,1-0,Mallorca
+Sun Oct 30 2016,Girona,3-0,3-0,Numancia
+Sun Oct 30 2016,Levante,1-1,1-1,Getafe
+Sun Oct 30 2016,Lugo,0-1,0-0,Cadiz
+Sun Oct 30 2016,Sevilla B,2-0,0-0,Elche
+Sun Oct 30 2016,UCAM Murcia,0-1,0-1,Oviedo
+Sat Nov 5 2016,Cadiz,1-0,0-0,Huesca
+Sat Nov 5 2016,Girona,1-1,1-1,Tenerife
+Sat Nov 5 2016,Mallorca,2-2,0-1,Zaragoza
+Sat Nov 5 2016,Valladolid,2-0,0-0,Sevilla B
+Sat Nov 5 2016,Vallecano,0-1,0-0,UCAM Murcia
+Sun Nov 6 2016,Almeria,3-1,3-1,Cordoba
+Sun Nov 6 2016,Getafe,1-0,0-0,Alcorcon
+Sun Nov 6 2016,Mirandes,0-1,0-0,Gimnastic
+Sun Nov 6 2016,Numancia,2-2,2-0,Elche
+Sun Nov 6 2016,Oviedo,1-1,0-1,Lugo
+Sun Nov 6 2016,Reus Deportiu,0-1,0-0,Levante
+Fri Nov 11 2016,Cordoba,0-2,0-0,Mallorca
+Sat Nov 12 2016,Alcorcon,1-0,0-0,Reus Deportiu
+Sat Nov 12 2016,Elche,2-0,1-0,Valladolid
+Sat Nov 12 2016,Gimnastic,1-0,1-0,Getafe
+Sat Nov 12 2016,Huesca,4-0,3-0,Oviedo
+Sat Nov 12 2016,Levante,0-0,0-0,Cadiz
+Sat Nov 12 2016,Tenerife,1-1,1-0,Numancia
+Sun Nov 13 2016,Lugo,1-0,1-0,Vallecano
+Sun Nov 13 2016,Sevilla B,1-0,1-0,Almeria
+Sun Nov 13 2016,UCAM Murcia,0-1,0-0,Girona
+Sun Nov 13 2016,Zaragoza,2-0,2-0,Mirandes
+Fri Nov 18 2016,Almeria,2-1,1-1,Elche
+Sat Nov 19 2016,Girona,3-1,2-1,Lugo
+Sat Nov 19 2016,Mallorca,2-2,0-2,Sevilla B
+Sat Nov 19 2016,Numancia,2-1,1-0,Valladolid
+Sat Nov 19 2016,Oviedo,2-0,0-0,Levante
+Sun Nov 20 2016,Cadiz,4-1,0-1,Alcorcon
+Sun Nov 20 2016,Getafe,1-0,0-0,Zaragoza
+Sun Nov 20 2016,Mirandes,1-1,1-0,Cordoba
+Sun Nov 20 2016,Reus Deportiu,1-0,0-0,Gimnastic
+Sun Nov 20 2016,Tenerife,2-1,2-1,UCAM Murcia
+Sun Nov 20 2016,Vallecano,2-2,1-1,Huesca
+Fri Nov 25 2016,Gimnastic,1-0,0-0,Cadiz
+Sat Nov 26 2016,Alcorcon,5-1,2-0,Oviedo
+Sat Nov 26 2016,Lugo,1-3,1-1,Tenerife
+Sat Nov 26 2016,UCAM Murcia,3-2,0-1,Numancia
+Sat Nov 26 2016,Valladolid,0-0,0-0,Almeria
+Sat Nov 26 2016,Zaragoza,2-2,1-0,Reus Deportiu
+Sun Nov 27 2016,Cordoba,1-3,0-1,Getafe
+Sun Nov 27 2016,Elche,1-0,0-0,Mallorca
+Sun Nov 27 2016,Huesca,1-2,1-2,Girona
+Sun Nov 27 2016,Sevilla B,1-0,1-0,Mirandes
+Fri Dec 2 2016,Getafe,2-0,1-0,Sevilla B
+Sat Dec 3 2016,Cadiz,3-0,1-0,Zaragoza
+Sat Dec 3 2016,Mirandes,1-0,1-0,Elche
+Sat Dec 3 2016,Numancia,1-0,1-0,Almeria
+Sat Dec 3 2016,UCAM Murcia,1-2,1-1,Lugo
+Sun Dec 4 2016,Girona,2-1,1-0,Levante
+Sun Dec 4 2016,Mallorca,0-3,0-0,Valladolid
+Sun Dec 4 2016,Oviedo,1-0,1-0,Gimnastic
+Sun Dec 4 2016,Reus Deportiu,1-2,0-1,Cordoba
+Sun Dec 4 2016,Tenerife,1-1,1-0,Huesca
+Sun Dec 4 2016,Vallecano,2-0,0-0,Alcorcon
+Fri Dec 9 2016,Sevilla B,0-1,0-0,Reus Deportiu
+Sat Dec 10 2016,Elche,2-2,0-2,Getafe
+Sat Dec 10 2016,Gimnastic,0-1,0-0,Vallecano
+Sat Dec 10 2016,Huesca,5-2,2-1,UCAM Murcia
+Sat Dec 10 2016,Levante,1-0,0-0,Tenerife
+Sun Dec 11 2016,Alcorcon,2-1,2-0,Girona
+Sun Dec 11 2016,Almeria,2-1,1-0,Mallorca
+Sun Dec 11 2016,Cordoba,1-3,0-0,Cadiz
+Sun Dec 11 2016,Lugo,3-1,1-1,Numancia
+Sun Dec 11 2016,Valladolid,5-0,2-0,Mirandes
+Sun Dec 11 2016,Zaragoza,2-1,1-0,Oviedo
+Wed Dec 14 2016,Levante,1-0,1-0,Vallecano
+Fri Dec 16 2016,Reus Deportiu,0-1,0-0,Elche
+Sat Dec 17 2016,Getafe,3-1,0-0,Valladolid
+Sat Dec 17 2016,Girona,4-2,1-2,Gimnastic
+Sat Dec 17 2016,Lugo,1-1,0-1,Huesca
+Sat Dec 17 2016,Oviedo,1-2,0-1,Cordoba
+Sat Dec 17 2016,Tenerife,2-0,1-0,Alcorcon
+Sun Dec 18 2016,Cadiz,4-1,1-0,Sevilla B
+Sun Dec 18 2016,Mirandes,2-1,0-0,Almeria
+Sun Dec 18 2016,Numancia,3-1,2-1,Mallorca
+Sun Dec 18 2016,Vallecano,1-2,0-0,Zaragoza
+Fri Jan 6 2017,Almeria,0-1,0-0,Getafe
+Fri Jan 6 2017,Mallorca,2-0,0-0,Mirandes
+Fri Jan 6 2017,Numancia,0-0,0-0,Huesca
+Fri Jan 6 2017,Valladolid,1-0,0-0,Reus Deportiu
+Sat Jan 7 2017,Cordoba,0-0,0-0,Vallecano
+Sat Jan 7 2017,Levante,1-0,0-0,Lugo
+Sun Jan 8 2017,Alcorcon,0-0,0-0,UCAM Murcia
+Sun Jan 8 2017,Elche,2-3,1-1,Cadiz
+Sun Jan 8 2017,Gimnastic,1-1,0-1,Tenerife
+Sun Jan 8 2017,Sevilla B,5-3,3-0,Oviedo
+Sun Jan 8 2017,Zaragoza,0-2,0-0,Girona
+Wed Jan 11 2017,UCAM Murcia,0-2,0-1,Levante
+Fri Jan 13 2017,Cadiz,0-1,0-1,Valladolid
+Sat Jan 14 2017,Mirandes,0-3,0-1,Numancia
+Sat Jan 14 2017,Oviedo,2-1,0-0,Elche
+Sat Jan 14 2017,Tenerife,1-0,0-0,Zaragoza
+Sat Jan 14 2017,UCAM Murcia,1-1,0-1,Gimnastic
+Sat Jan 14 2017,Vallecano,1-1,0-1,Sevilla B
+Sun Jan 15 2017,Getafe,1-1,0-1,Mallorca
+Sun Jan 15 2017,Girona,2-0,1-0,Cordoba
+Sun Jan 15 2017,Huesca,0-2,0-1,Levante
+Sun Jan 15 2017,Lugo,1-0,0-0,Alcorcon
+Sun Jan 15 2017,Reus Deportiu,1-0,1-0,Almeria
+Sat Jan 21 2017,Huesca,0-1,0-0,Alcorcon
+Sat Jan 21 2017,Lugo,2-3,1-0,Gimnastic
+Sat Jan 21 2017,Oviedo,1-0,1-0,Valladolid
+Sat Jan 21 2017,Tenerife,2-0,0-0,Cordoba
+Sat Jan 21 2017,UCAM Murcia,1-0,1-0,Zaragoza
+Sat Jan 21 2017,Vallecano,1-1,0-1,Elche
+Sun Jan 22 2017,Cadiz,1-0,0-0,Almeria
+Sun Jan 22 2017,Getafe,1-1,1-0,Mirandes
+Sun Jan 22 2017,Girona,2-0,0-0,Sevilla B
+Sun Jan 22 2017,Levante,1-0,1-0,Numancia
+Sun Jan 22 2017,Reus Deportiu,1-1,0-1,Mallorca
+Fri Jan 27 2017,Elche,1-0,0-0,Girona
+Sat Jan 28 2017,Alcorcon,2-0,2-0,Levante
+Sat Jan 28 2017,Gimnastic,0-0,0-0,Huesca
+Sat Jan 28 2017,Mirandes,1-1,1-0,Reus Deportiu
+Sat Jan 28 2017,Sevilla B,0-0,0-0,Tenerife
+Sat Jan 28 2017,Valladolid,2-1,0-1,Vallecano
+Sun Jan 29 2017,Almeria,3-0,0-0,Oviedo
+Sun Jan 29 2017,Cordoba,1-1,1-0,UCAM Murcia
+Sun Jan 29 2017,Mallorca,0-0,0-0,Cadiz
+Sun Jan 29 2017,Numancia,2-0,1-0,Getafe
+Sun Jan 29 2017,Zaragoza,1-1,0-0,Lugo
+Fri Feb 3 2017,UCAM Murcia,1-0,0-0,Sevilla B
+Sat Feb 4 2017,Alcorcon,2-3,1-1,Numancia
+Sat Feb 4 2017,Cadiz,2-1,1-1,Mirandes
+Sat Feb 4 2017,Huesca,2-3,0-0,Zaragoza
+Sat Feb 4 2017,Lugo,1-0,1-0,Cordoba
+Sat Feb 4 2017,Tenerife,2-0,1-0,Elche
+Sun Feb 5 2017,Girona,2-1,1-0,Valladolid
+Sun Feb 5 2017,Levante,2-1,0-0,Gimnastic
+Sun Feb 5 2017,Oviedo,2-1,1-1,Mallorca
+Sun Feb 5 2017,Reus Deportiu,1-1,0-1,Getafe
+Sun Feb 5 2017,Vallecano,1-0,1-0,Almeria
+Fri Feb 10 2017,Sevilla B,1-1,0-0,Lugo
+Sat Feb 11 2017,Almeria,0-0,0-0,Girona
+Sat Feb 11 2017,Getafe,3-2,2-1,Cadiz
+Sat Feb 11 2017,Gimnastic,1-1,1-1,Alcorcon
+Sat Feb 11 2017,Zaragoza,0-1,0-1,Levante
+Sun Feb 12 2017,Cordoba,0-2,0-0,Huesca
+Sun Feb 12 2017,Elche,1-1,1-0,UCAM Murcia
+Sun Feb 12 2017,Mallorca,2-1,2-0,Vallecano
+Sun Feb 12 2017,Mirandes,0-2,0-1,Oviedo
+Sun Feb 12 2017,Numancia,1-0,1-0,Reus Deportiu
+Sun Feb 12 2017,Valladolid,0-0,0-0,Tenerife
+Fri Feb 17 2017,Lugo,1-2,1-2,Elche
+Sat Feb 18 2017,Gimnastic,2-0,0-0,Numancia
+Sat Feb 18 2017,Girona,1-0,0-0,Mallorca
+Sat Feb 18 2017,Levante,3-1,1-1,Cordoba
+Sat Feb 18 2017,Tenerife,1-0,1-0,Almeria
+Sat Feb 18 2017,UCAM Murcia,1-3,0-2,Valladolid
+Sun Feb 19 2017,Alcorcon,1-1,0-0,Zaragoza
+Sun Feb 19 2017,Cadiz,0-0,0-0,Reus Deportiu
+Sun Feb 19 2017,Huesca,2-1,2-0,Sevilla B
+Sun Feb 19 2017,Oviedo,2-1,1-0,Getafe
+Sun Feb 19 2017,Vallecano,1-2,0-0,Mirandes
+Fri Feb 24 2017,Reus Deportiu,1-1,1-0,Oviedo
+Sat Feb 25 2017,Cordoba,1-0,0-0,Alcorcon
+Sat Feb 25 2017,Elche,1-1,0-1,Huesca
+Sat Feb 25 2017,Getafe,1-0,0-0,Vallecano
+Sat Feb 25 2017,Mallorca,1-4,1-0,Tenerife
+Sat Feb 25 2017,Mirandes,0-2,0-0,Girona
+Sun Feb 26 2017,Almeria,2-3,1-1,UCAM Murcia
+Sun Feb 26 2017,Numancia,0-3,0-0,Cadiz
+Sun Feb 26 2017,Sevilla B,1-1,0-1,Levante
+Sun Feb 26 2017,Valladolid,1-1,1-1,Lugo
+Sun Feb 26 2017,Zaragoza,1-2,1-1,Gimnastic
+Fri Mar 3 2017,Tenerife,1-1,1-1,Mirandes
+Sat Mar 4 2017,Alcorcon,0-0,0-0,Sevilla B
+Sat Mar 4 2017,Girona,5-1,3-0,Getafe
+Sat Mar 4 2017,Oviedo,2-1,1-1,Cadiz
+Sat Mar 4 2017,Vallecano,0-0,0-0,Reus Deportiu
+Sun Mar 5 2017,Gimnastic,2-1,1-1,Cordoba
+Sun Mar 5 2017,Huesca,1-0,0-0,Valladolid
+Sun Mar 5 2017,Levante,2-1,0-1,Elche
+Sun Mar 5 2017,Lugo,1-2,0-1,Almeria
+Sun Mar 5 2017,UCAM Murcia,1-1,0-1,Mallorca
+Sun Mar 5 2017,Zaragoza,3-0,2-0,Numancia
+Fri Mar 10 2017,Elche,0-0,0-0,Alcorcon
+Sat Mar 11 2017,Cordoba,2-1,0-1,Zaragoza
+Sat Mar 11 2017,Mallorca,1-1,0-1,Lugo
+Sat Mar 11 2017,Mirandes,1-1,0-0,UCAM Murcia
+Sat Mar 11 2017,Numancia,0-0,0-0,Oviedo
+Sat Mar 11 2017,Valladolid,0-4,0-2,Levante
+Sun Mar 12 2017,Almeria,0-0,0-0,Huesca
+Sun Mar 12 2017,Cadiz,1-0,1-0,Vallecano
+Sun Mar 12 2017,Getafe,2-2,1-0,Tenerife
+Sun Mar 12 2017,Reus Deportiu,1-2,0-0,Girona
+Sun Mar 12 2017,Sevilla B,2-2,0-1,Gimnastic
+Fri Mar 17 2017,Gimnastic,1-3,0-3,Elche
+Sat Mar 18 2017,Cordoba,0-0,0-0,Numancia
+Sat Mar 18 2017,Huesca,2-1,0-0,Mallorca
+Sat Mar 18 2017,Lugo,2-1,0-0,Mirandes
+Sat Mar 18 2017,UCAM Murcia,2-0,2-0,Getafe
+Sat Mar 18 2017,Zaragoza,1-2,0-1,Sevilla B
+Sun Mar 19 2017,Alcorcon,1-2,1-2,Valladolid
+Sun Mar 19 2017,Girona,1-2,0-2,Cadiz
+Sun Mar 19 2017,Levante,1-0,1-0,Almeria
+Sun Mar 19 2017,Tenerife,0-1,0-1,Reus Deportiu
+Sun Mar 19 2017,Vallecano,2-0,1-0,Oviedo
+Sat Mar 25 2017,Almeria,3-1,1-0,Alcorcon
+Sat Mar 25 2017,Mallorca,1-1,0-1,Levante
+Sat Mar 25 2017,Numancia,0-0,0-0,Vallecano
+Sat Mar 25 2017,Oviedo,2-0,0-0,Girona
+Sat Mar 25 2017,Valladolid,1-2,0-1,Gimnastic
+Sun Mar 26 2017,Cadiz,0-1,0-0,Tenerife
+Sun Mar 26 2017,Elche,0-3,0-3,Zaragoza
+Sun Mar 26 2017,Getafe,2-0,1-0,Lugo
+Sun Mar 26 2017,Mirandes,1-3,1-2,Huesca
+Sun Mar 26 2017,Reus Deportiu,0-0,0-0,UCAM Murcia
+Sun Mar 26 2017,Sevilla B,1-0,1-0,Cordoba
+Fri Mar 31 2017,Alcorcon,1-0,0-0,Mallorca
+Sat Apr 1 2017,Girona,1-3,1-2,Vallecano
+Sat Apr 1 2017,Huesca,0-0,0-0,Getafe
+Sat Apr 1 2017,Levante,2-1,1-0,Mirandes
+Sat Apr 1 2017,UCAM Murcia,1-1,1-1,Cadiz
+Sun Apr 2 2017,Cordoba,1-0,0-0,Elche
+Sun Apr 2 2017,Gimnastic,0-1,0-0,Almeria
+Sun Apr 2 2017,Lugo,1-0,0-0,Reus Deportiu
+Sun Apr 2 2017,Tenerife,1-0,1-0,Oviedo
+Sun Apr 2 2017,Zaragoza,1-1,1-1,Valladolid
+Mon Apr 3 2017,Sevilla B,1-1,1-1,Numancia
+Fri Apr 7 2017,Mirandes,2-0,0-0,Alcorcon
+Sat Apr 8 2017,Cadiz,1-1,1-1,Lugo
+Sat Apr 8 2017,Getafe,2-0,2-0,Levante
+Sat Apr 8 2017,Mallorca,0-0,0-0,Gimnastic
+Sat Apr 8 2017,Vallecano,1-1,1-1,Tenerife
+Sun Apr 9 2017,Almeria,2-2,2-2,Zaragoza
+Sun Apr 9 2017,Elche,3-2,1-1,Sevilla B
+Sun Apr 9 2017,Numancia,0-2,0-0,Girona
+Sun Apr 9 2017,Oviedo,2-0,1-0,UCAM Murcia
+Sun Apr 9 2017,Reus Deportiu,0-1,0-0,Huesca
+Sun Apr 9 2017,Valladolid,2-1,1-0,Cordoba
+Sat Apr 15 2017,Elche,1-3,0-1,Numancia
+Sat Apr 15 2017,Gimnastic,4-1,1-1,Mirandes
+Sat Apr 15 2017,Huesca,1-1,0-0,Cadiz
+Sat Apr 15 2017,Tenerife,3-3,1-2,Girona
+Sun Apr 16 2017,Alcorcon,0-3,0-2,Getafe
+Sun Apr 16 2017,Cordoba,1-0,1-0,Almeria
+Sun Apr 16 2017,Lugo,2-1,1-1,Oviedo
+Sun Apr 16 2017,Sevilla B,6-2,4-0,Valladolid
+Sun Apr 16 2017,UCAM Murcia,0-1,0-1,Vallecano
+Sun Apr 16 2017,Zaragoza,1-0,1-0,Mallorca
+Mon Apr 17 2017,Levante,0-0,0-0,Reus Deportiu
+Fri Apr 21 2017,Oviedo,1-1,1-0,Huesca
+Sat Apr 22 2017,Cadiz,1-1,0-1,Levante
+Sat Apr 22 2017,Getafe,1-1,1-0,Gimnastic
+Sat Apr 22 2017,Girona,1-2,1-1,UCAM Murcia
+Sat Apr 22 2017,Valladolid,2-1,1-1,Elche
+Sat Apr 22 2017,Vallecano,2-0,0-0,Lugo
+Sun Apr 23 2017,Almeria,2-1,1-0,Sevilla B
+Sun Apr 23 2017,Mallorca,1-1,1-1,Cordoba
+Sun Apr 23 2017,Mirandes,0-1,0-1,Zaragoza
+Sun Apr 23 2017,Numancia,1-1,0-0,Tenerife
+Sun Apr 23 2017,Reus Deportiu,0-0,0-0,Alcorcon
+Fri Apr 28 2017,Elche,2-3,0-1,Almeria
+Sat Apr 29 2017,Levante,1-0,0-0,Oviedo
+Sat Apr 29 2017,UCAM Murcia,1-0,1-0,Tenerife
+Sat Apr 29 2017,Valladolid,1-1,0-0,Numancia
+Sat Apr 29 2017,Zaragoza,1-2,1-0,Getafe
+Sun Apr 30 2017,Alcorcon,0-2,0-1,Cadiz
+Sun Apr 30 2017,Cordoba,1-1,0-0,Mirandes
+Sun Apr 30 2017,Lugo,1-2,0-2,Girona
+Sun Apr 30 2017,Sevilla B,2-3,0-1,Mallorca
+Mon May 1 2017,Gimnastic,0-1,0-0,Reus Deportiu
+Mon May 1 2017,Huesca,2-0,0-0,Vallecano
+Fri May 5 2017,Oviedo,0-1,0-0,Alcorcon
+Sat May 6 2017,Girona,3-1,2-1,Huesca
+Sat May 6 2017,Mallorca,1-0,0-0,Elche
+Sat May 6 2017,Numancia,1-0,1-0,UCAM Murcia
+Sat May 6 2017,Vallecano,2-1,1-1,Levante
+Sun May 7 2017,Almeria,0-3,0-1,Valladolid
+Sun May 7 2017,Cadiz,0-0,0-0,Gimnastic
+Sun May 7 2017,Getafe,2-0,1-0,Cordoba
+Sun May 7 2017,Mirandes,0-1,0-0,Sevilla B
+Sun May 7 2017,Reus Deportiu,1-0,1-0,Zaragoza
+Sun May 7 2017,Tenerife,2-1,1-0,Lugo
+Fri May 12 2017,Sevilla B,2-1,1-0,Getafe
+Fri May 12 2017,Zaragoza,1-1,1-0,Cadiz
+Sat May 13 2017,Alcorcon,2-0,0-0,Vallecano
+Sat May 13 2017,Almeria,2-0,2-0,Numancia
+Sat May 13 2017,Cordoba,1-0,0-0,Reus Deportiu
+Sat May 13 2017,Elche,0-1,0-0,Mirandes
+Sat May 13 2017,Gimnastic,2-2,0-2,Oviedo
+Sat May 13 2017,Huesca,2-2,0-2,Tenerife
+Sat May 13 2017,Levante,2-1,1-0,Girona
+Sat May 13 2017,Valladolid,2-1,1-0,Mallorca
+Sun May 14 2017,Lugo,0-0,0-0,UCAM Murcia
+Fri May 19 2017,Getafe,2-0,1-0,Elche
+Fri May 19 2017,Vallecano,2-0,0-0,Gimnastic
+Sat May 20 2017,Cadiz,1-1,0-0,Cordoba
+Sat May 20 2017,Girona,0-0,0-0,Alcorcon
+Sat May 20 2017,Mallorca,1-0,1-0,Almeria
+Sat May 20 2017,Oviedo,0-0,0-0,Zaragoza
+Sat May 20 2017,Reus Deportiu,2-1,1-0,Sevilla B
+Sat May 20 2017,Tenerife,0-0,0-0,Levante
+Sat May 20 2017,UCAM Murcia,3-1,2-0,Huesca
+Sun May 21 2017,Mirandes,2-2,0-2,Valladolid
+Sun May 21 2017,Numancia,0-1,0-0,Lugo
+Fri May 26 2017,Levante,3-1,1-1,UCAM Murcia
+Sat May 27 2017,Almeria,2-0,1-0,Mirandes
+Sat May 27 2017,Huesca,1-0,1-0,Lugo
+Sat May 27 2017,Sevilla B,3-3,2-0,Cadiz
+Sat May 27 2017,Valladolid,1-0,0-0,Getafe
+Sun May 28 2017,Alcorcon,1-3,0-2,Tenerife
+Sun May 28 2017,Cordoba,4-2,3-0,Oviedo
+Sun May 28 2017,Elche,1-1,0-0,Reus Deportiu
+Sun May 28 2017,Gimnastic,3-1,0-1,Girona
+Sun May 28 2017,Mallorca,0-0,0-0,Numancia
+Sun May 28 2017,Zaragoza,1-1,1-0,Vallecano
+Fri Jun 2 2017,Lugo,1-0,0-0,Levante
+Sun Jun 4 2017,Cadiz,2-1,0-0,Elche
+Sun Jun 4 2017,Getafe,4-0,2-0,Almeria
+Sun Jun 4 2017,Girona,0-0,0-0,Zaragoza
+Sun Jun 4 2017,Huesca,0-0,0-0,Numancia
+Sun Jun 4 2017,Mirandes,2-2,2-1,Mallorca
+Sun Jun 4 2017,Oviedo,1-0,1-0,Sevilla B
+Sun Jun 4 2017,Reus Deportiu,2-0,2-0,Valladolid
+Sun Jun 4 2017,Tenerife,0-1,0-0,Gimnastic
+Sun Jun 4 2017,UCAM Murcia,0-1,0-1,Alcorcon
+Sun Jun 4 2017,Vallecano,1-2,1-1,Cordoba
+Fri Jun 9 2017,Sevilla B,1-2,0-1,Vallecano
+Sat Jun 10 2017,Alcorcon,3-0,1-0,Lugo
+Sat Jun 10 2017,Almeria,1-0,1-0,Reus Deportiu
+Sat Jun 10 2017,Cordoba,2-1,0-0,Girona
+Sat Jun 10 2017,Elche,0-2,0-0,Oviedo
+Sat Jun 10 2017,Gimnastic,1-0,0-0,UCAM Murcia
+Sat Jun 10 2017,Levante,1-2,0-0,Huesca
+Sat Jun 10 2017,Mallorca,3-3,1-1,Getafe
+Sat Jun 10 2017,Valladolid,1-0,0-0,Cadiz
+Sat Jun 10 2017,Zaragoza,1-2,0-1,Tenerife
+Sun Jun 11 2017,Numancia,0-2,0-0,Mirandes

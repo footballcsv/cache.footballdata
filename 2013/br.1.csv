@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat May 25 2013,Vasco,1-0,?,Portuguesa
+Sat May 25 2013,Vitoria,2-2,?,Internacional
+Sat May 25 2013,Corinthians,1-1,?,Botafogo RJ
+Sun May 26 2013,Criciuma,3-1,?,Bahia
+Sun May 26 2013,Gremio,2-0,?,Nautico
+Sun May 26 2013,Ponte Preta,0-2,?,Sao Paulo
+Sun May 26 2013,Santos,0-0,?,Flamengo RJ
+Sun May 26 2013,Coritiba,2-1,?,Atletico-MG
+Sun May 26 2013,Cruzeiro,5-0,?,Goias
+Sun May 26 2013,Fluminense,2-1,?,Atletico-PR
+Wed May 29 2013,Atletico-PR,2-2,?,Cruzeiro
+Wed May 29 2013,Botafogo RJ,2-1,?,Santos
+Wed May 29 2013,Sao Paulo,5-1,?,Vasco
+Wed May 29 2013,Bahia,0-0,?,Coritiba
+Wed May 29 2013,Flamengo RJ,0-2,?,Ponte Preta
+Wed May 29 2013,Nautico,0-3,?,Vitoria
+Wed May 29 2013,Goias,1-1,?,Corinthians
+Thu May 30 2013,Internacional,2-0,?,Criciuma
+Sat Jun 1 2013,Atletico-PR,2-2,?,Flamengo RJ
+Sat Jun 1 2013,Botafogo RJ,2-1,?,Cruzeiro
+Sat Jun 1 2013,Santos,1-1,?,Gremio
+Sat Jun 1 2013,Goias,1-1,?,Coritiba
+Sat Jun 1 2013,Vitoria,2-0,?,Vasco
+Sat Jun 1 2013,Corinthians,1-0,?,Ponte Preta
+Sun Jun 2 2013,Atletico-MG,0-0,?,Sao Paulo
+Sun Jun 2 2013,Fluminense,3-0,?,Criciuma
+Sun Jun 2 2013,Internacional,1-2,?,Bahia
+Sun Jun 2 2013,Nautico,2-2,?,Portuguesa
+Wed Jun 5 2013,Criciuma,3-1,?,Santos
+Wed Jun 5 2013,Portuguesa,1-1,?,Internacional
+Wed Jun 5 2013,Sao Paulo,0-1,?,Goias
+Wed Jun 5 2013,Gremio,1-0,?,Vitoria
+Wed Jun 5 2013,Ponte Preta,3-4,?,Atletico-PR
+Wed Jun 5 2013,Vasco,2-0,?,Atletico-MG
+Wed Jun 5 2013,Bahia,2-1,?,Botafogo RJ
+Wed Jun 5 2013,Cruzeiro,1-0,?,Corinthians
+Wed Jun 5 2013,Flamengo RJ,0-1,?,Nautico
+Thu Jun 6 2013,Coritiba,2-1,?,Fluminense
+Sat Jun 8 2013,Criciuma,0-3,?,Flamengo RJ
+Sat Jun 8 2013,Cruzeiro,2-2,?,Internacional
+Sat Jun 8 2013,Corinthians,0-0,?,Portuguesa
+Sat Jun 8 2013,Vasco,1-1,?,Bahia
+Sat Jun 8 2013,Ponte Preta,0-2,?,Botafogo RJ
+Sun Jun 9 2013,Atletico-MG,2-0,?,Gremio
+Sun Jun 9 2013,Coritiba,1-0,?,Nautico
+Sun Jun 9 2013,Fluminense,2-1,?,Goias
+Sun Jun 9 2013,Vitoria,3-2,?,Atletico-PR
+Wed Jun 12 2013,Santos,1-0,?,Atletico-MG
+Wed Jun 12 2013,Gremio,1-1,?,Sao Paulo
+Wed Jun 12 2013,Portuguesa,2-1,?,Fluminense
+Sat Jul 6 2013,Atletico-PR,1-1,?,Gremio
+Sat Jul 6 2013,Flamengo RJ,2-2,?,Coritiba
+Sat Jul 6 2013,Nautico,1-3,?,Ponte Preta
+Sat Jul 6 2013,Portuguesa,1-1,?,Cruzeiro
+Sun Jul 7 2013,Bahia,0-2,?,Corinthians
+Sun Jul 7 2013,Goias,1-0,?,Vitoria
+Sun Jul 7 2013,Internacional,5-3,?,Vasco
+Sun Jul 7 2013,Sao Paulo,0-2,?,Santos
+Sun Jul 7 2013,Atletico-MG,3-2,?,Criciuma
+Sun Jul 7 2013,Botafogo RJ,1-0,?,Fluminense
+Wed Jul 10 2013,Sao Paulo,1-2,?,Bahia
+Sat Jul 13 2013,Fluminense,2-3,?,Internacional
+Sat Jul 13 2013,Santos,4-1,?,Portuguesa
+Sat Jul 13 2013,Ponte Preta,0-0,?,Bahia
+Sun Jul 14 2013,Corinthians,0-1,?,Atletico-MG
+Sun Jul 14 2013,Coritiba,1-0,?,Atletico-PR
+Sun Jul 14 2013,Gremio,2-1,?,Botafogo RJ
+Sun Jul 14 2013,Vitoria,3-2,?,Sao Paulo
+Sun Jul 14 2013,Criciuma,0-0,?,Goias
+Sun Jul 14 2013,Cruzeiro,3-0,?,Nautico
+Sun Jul 14 2013,Vasco,0-1,?,Flamengo RJ
+Sat Jul 20 2013,Botafogo RJ,2-0,?,Nautico
+Sat Jul 20 2013,Criciuma,2-1,?,Gremio
+Sat Jul 20 2013,Sao Paulo,0-3,?,Cruzeiro
+Sun Jul 21 2013,Atletico-PR,1-1,?,Corinthians
+Sun Jul 21 2013,Internacional,1-0,?,Flamengo RJ
+Sun Jul 21 2013,Santos,2-2,?,Coritiba
+Sun Jul 21 2013,Vitoria,0-0,?,Bahia
+Sun Jul 21 2013,Fluminense,1-3,?,Vasco
+Sun Jul 21 2013,Goias,2-1,?,Portuguesa
+Wed Jul 24 2013,Sao Paulo,0-1,?,Internacional
+Sat Jul 27 2013,Portuguesa,2-3,?,Atletico-PR
+Sat Jul 27 2013,Vasco,3-2,?,Criciuma
+Sat Jul 27 2013,Ponte Preta,1-0,?,Santos
+Sun Jul 28 2013,Corinthians,0-0,?,Sao Paulo
+Sun Jul 28 2013,Cruzeiro,4-1,?,Atletico-MG
+Sun Jul 28 2013,Gremio,2-0,?,Fluminense
+Sun Jul 28 2013,Nautico,3-0,?,Internacional
+Sun Jul 28 2013,Bahia,2-1,?,Goias
+Sun Jul 28 2013,Coritiba,1-1,?,Vitoria
+Sun Jul 28 2013,Flamengo RJ,1-1,?,Botafogo RJ
+Wed Jul 31 2013,Atletico-MG,1-2,?,Atletico-PR
+Wed Jul 31 2013,Fluminense,1-0,?,Cruzeiro
+Wed Jul 31 2013,Portuguesa,1-1,?,Criciuma
+Wed Jul 31 2013,Coritiba,5-3,?,Ponte Preta
+Wed Jul 31 2013,Bahia,3-0,?,Flamengo RJ
+Wed Jul 31 2013,Corinthians,2-0,?,Gremio
+Thu Aug 1 2013,Botafogo RJ,2-0,?,Vitoria
+Thu Aug 1 2013,Goias,1-1,?,Vasco
+Sat Aug 3 2013,Cruzeiro,1-0,?,Coritiba
+Sun Aug 4 2013,Atletico-PR,2-0,?,Goias
+Sun Aug 4 2013,Criciuma,0-2,?,Corinthians
+Sun Aug 4 2013,Flamengo RJ,3-0,?,Atletico-MG
+Sun Aug 4 2013,Gremio,1-1,?,Internacional
+Sun Aug 4 2013,Ponte Preta,1-1,?,Fluminense
+Sun Aug 4 2013,Vasco,2-3,?,Botafogo RJ
+Sun Aug 4 2013,Vitoria,2-1,?,Portuguesa
+Wed Aug 7 2013,Criciuma,1-2,?,Cruzeiro
+Wed Aug 7 2013,Vitoria,1-1,?,Fluminense
+Wed Aug 7 2013,Atletico-PR,1-0,?,Bahia
+Wed Aug 7 2013,Flamengo RJ,1-1,?,Portuguesa
+Wed Aug 7 2013,Atletico-MG,2-2,?,Botafogo RJ
+Wed Aug 7 2013,Goias,2-1,?,Nautico
+Wed Aug 7 2013,Santos,1-1,?,Corinthians
+Thu Aug 8 2013,Gremio,0-1,?,Coritiba
+Thu Aug 8 2013,Vasco,1-1,?,Ponte Preta
+Sat Aug 10 2013,Botafogo RJ,1-1,?,Goias
+Sat Aug 10 2013,Nautico,0-0,?,Atletico-MG
+Sun Aug 11 2013,Corinthians,2-0,?,Vitoria
+Sun Aug 11 2013,Coritiba,0-1,?,Vasco
+Sun Aug 11 2013,Cruzeiro,0-0,?,Santos
+Sun Aug 11 2013,Fluminense,2-3,?,Flamengo RJ
+Sun Aug 11 2013,Bahia,0-3,?,Gremio
+Sun Aug 11 2013,Internacional,2-2,?,Atletico-PR
+Sun Aug 11 2013,Ponte Preta,3-1,?,Criciuma
+Sun Aug 11 2013,Portuguesa,2-1,?,Sao Paulo
+Wed Aug 14 2013,Atletico-MG,2-0,?,Bahia
+Wed Aug 14 2013,Criciuma,3-0,?,Nautico
+Wed Aug 14 2013,Santos,1-1,?,Vasco
+Wed Aug 14 2013,Coritiba,1-1,?,Portuguesa
+Wed Aug 14 2013,Vitoria,3-1,?,Ponte Preta
+Wed Aug 14 2013,Fluminense,0-0,?,Corinthians
+Wed Aug 14 2013,Goias,1-1,?,Flamengo RJ
+Wed Aug 14 2013,Gremio,3-1,?,Cruzeiro
+Thu Aug 15 2013,Sao Paulo,1-1,?,Atletico-PR
+Thu Aug 15 2013,Botafogo RJ,3-3,?,Internacional
+Sat Aug 17 2013,Cruzeiro,5-1,?,Vitoria
+Sat Aug 17 2013,Nautico,0-1,?,Fluminense
+Sat Aug 17 2013,Vasco,2-3,?,Gremio
+Sun Aug 18 2013,Corinthians,1-0,?,Coritiba
+Sun Aug 18 2013,Flamengo RJ,0-0,?,Sao Paulo
+Sun Aug 18 2013,Ponte Preta,0-1,?,Goias
+Sun Aug 18 2013,Portuguesa,1-3,?,Botafogo RJ
+Sun Aug 18 2013,Atletico-PR,2-1,?,Criciuma
+Sun Aug 18 2013,Bahia,0-0,?,Santos
+Sun Aug 18 2013,Internacional,0-0,?,Atletico-MG
+Sat Aug 24 2013,Flamengo RJ,0-1,?,Gremio
+Sat Aug 24 2013,Ponte Preta,0-2,?,Cruzeiro
+Sat Aug 24 2013,Santos,2-0,?,Vitoria
+Sat Aug 24 2013,Criciuma,2-1,?,Coritiba
+Sun Aug 25 2013,Atletico-MG,2-1,?,Portuguesa
+Sun Aug 25 2013,Bahia,2-0,?,Nautico
+Sun Aug 25 2013,Sao Paulo,2-1,?,Fluminense
+Sun Aug 25 2013,Vasco,1-1,?,Corinthians
+Sun Aug 25 2013,Atletico-PR,2-0,?,Botafogo RJ
+Sun Aug 25 2013,Internacional,3-3,?,Goias
+Sat Aug 31 2013,Goias,0-0,?,Atletico-MG
+Sat Aug 31 2013,Gremio,1-0,?,Ponte Preta
+Sat Aug 31 2013,Nautico,1-4,?,Atletico-PR
+Sat Aug 31 2013,Portuguesa,4-2,?,Bahia
+Sat Aug 31 2013,Fluminense,0-2,?,Santos
+Sun Sep 1 2013,Botafogo RJ,0-0,?,Sao Paulo
+Sun Sep 1 2013,Corinthians,4-0,?,Flamengo RJ
+Sun Sep 1 2013,Coritiba,0-0,?,Internacional
+Sun Sep 1 2013,Vitoria,0-1,?,Criciuma
+Sun Sep 1 2013,Cruzeiro,5-3,?,Vasco
+Tue Sep 3 2013,Goias,2-0,?,Gremio
+Tue Sep 3 2013,Nautico,0-1,?,Sao Paulo
+Wed Sep 4 2013,Atletico-PR,2-1,?,Santos
+Wed Sep 4 2013,Flamengo RJ,2-1,?,Vitoria
+Wed Sep 4 2013,Portuguesa,2-1,?,Ponte Preta
+Wed Sep 4 2013,Atletico-MG,2-2,?,Fluminense
+Wed Sep 4 2013,Bahia,1-3,?,Cruzeiro
+Wed Sep 4 2013,Internacional,1-0,?,Corinthians
+Thu Sep 5 2013,Botafogo RJ,3-1,?,Coritiba
+Thu Sep 5 2013,Nautico,0-3,?,Vasco
+Thu Sep 5 2013,Sao Paulo,1-2,?,Criciuma
+Sat Sep 7 2013,Fluminense,1-0,?,Bahia
+Sat Sep 7 2013,Ponte Preta,1-3,?,Internacional
+Sat Sep 7 2013,Santos,1-0,?,Goias
+Sat Sep 7 2013,Vitoria,1-1,?,Atletico-MG
+Sat Sep 7 2013,Gremio,3-2,?,Portuguesa
+Sun Sep 8 2013,Corinthians,0-0,?,Nautico
+Sun Sep 8 2013,Coritiba,2-0,?,Sao Paulo
+Sun Sep 8 2013,Cruzeiro,1-0,?,Flamengo RJ
+Sun Sep 8 2013,Criciuma,1-2,?,Botafogo RJ
+Sun Sep 8 2013,Vasco,0-0,?,Atletico-PR
+Tue Sep 10 2013,Internacional,1-2,?,Santos
+Wed Sep 11 2013,Atletico-PR,1-1,?,Fluminense
+Wed Sep 11 2013,Bahia,2-2,?,Criciuma
+Wed Sep 11 2013,Goias,1-2,?,Cruzeiro
+Wed Sep 11 2013,Botafogo RJ,1-0,?,Corinthians
+Wed Sep 11 2013,Nautico,0-2,?,Gremio
+Wed Sep 11 2013,Portuguesa,2-0,?,Vasco
+Thu Sep 12 2013,Internacional,2-2,?,Vitoria
+Thu Sep 12 2013,Atletico-MG,3-0,?,Coritiba
+Thu Sep 12 2013,Flamengo RJ,2-1,?,Santos
+Thu Sep 12 2013,Sao Paulo,1-0,?,Ponte Preta
+Sat Sep 14 2013,Cruzeiro,1-0,?,Atletico-PR
+Sat Sep 14 2013,Fluminense,2-1,?,Portuguesa
+Sun Sep 15 2013,Corinthians,1-2,?,Goias
+Sun Sep 15 2013,Coritiba,2-2,?,Bahia
+Sun Sep 15 2013,Criciuma,0-1,?,Internacional
+Sun Sep 15 2013,Ponte Preta,1-1,?,Flamengo RJ
+Sun Sep 15 2013,Vasco,0-2,?,Sao Paulo
+Sun Sep 15 2013,Gremio,0-1,?,Atletico-MG
+Sun Sep 15 2013,Santos,1-2,?,Botafogo RJ
+Sun Sep 15 2013,Vitoria,2-1,?,Nautico
+Wed Sep 18 2013,Gremio,1-1,?,Santos
+Wed Sep 18 2013,Vasco,1-2,?,Vitoria
+Wed Sep 18 2013,Coritiba,2-2,?,Goias
+Wed Sep 18 2013,Criciuma,1-2,?,Fluminense
+Wed Sep 18 2013,Cruzeiro,3-0,?,Botafogo RJ
+Wed Sep 18 2013,Ponte Preta,2-0,?,Corinthians
+Wed Sep 18 2013,Sao Paulo,1-0,?,Atletico-MG
+Thu Sep 19 2013,Flamengo RJ,2-4,?,Atletico-PR
+Thu Sep 19 2013,Bahia,2-0,?,Internacional
+Thu Sep 19 2013,Portuguesa,3-0,?,Nautico
+Sat Sep 21 2013,Fluminense,1-1,?,Coritiba
+Sat Sep 21 2013,Vitoria,0-0,?,Gremio
+Sun Sep 22 2013,Botafogo RJ,1-2,?,Bahia
+Sun Sep 22 2013,Corinthians,0-0,?,Cruzeiro
+Sun Sep 22 2013,Goias,1-0,?,Sao Paulo
+Sun Sep 22 2013,Internacional,0-1,?,Portuguesa
+Sun Sep 22 2013,Nautico,0-0,?,Flamengo RJ
+Sun Sep 22 2013,Atletico-MG,2-1,?,Vasco
+Sun Sep 22 2013,Atletico-PR,1-0,?,Ponte Preta
+Sun Sep 22 2013,Santos,2-1,?,Criciuma
+Wed Sep 25 2013,Criciuma,1-1,?,Atletico-MG
+Wed Sep 25 2013,Santos,1-1,?,Nautico
+Sat Sep 28 2013,Goias,1-2,?,Fluminense
+Sat Sep 28 2013,Nautico,3-0,?,Coritiba
+Sat Sep 28 2013,Botafogo RJ,0-1,?,Ponte Preta
+Sun Sep 29 2013,Bahia,0-0,?,Vasco
+Sun Sep 29 2013,Flamengo RJ,4-1,?,Criciuma
+Sun Sep 29 2013,Portuguesa,4-0,?,Corinthians
+Sun Sep 29 2013,Sao Paulo,0-1,?,Gremio
+Sun Sep 29 2013,Atletico-MG,3-1,?,Santos
+Sun Sep 29 2013,Atletico-PR,3-5,?,Vitoria
+Sun Sep 29 2013,Internacional,1-2,?,Cruzeiro
+Tue Oct 1 2013,Ponte Preta,1-2,?,Nautico
+Wed Oct 2 2013,Cruzeiro,4-0,?,Portuguesa
+Wed Oct 2 2013,Gremio,1-0,?,Atletico-PR
+Wed Oct 2 2013,Fluminense,1-1,?,Botafogo RJ
+Wed Oct 2 2013,Vitoria,2-1,?,Goias
+Wed Oct 2 2013,Corinthians,2-0,?,Bahia
+Wed Oct 2 2013,Coritiba,0-2,?,Flamengo RJ
+Wed Oct 2 2013,Santos,3-0,?,Sao Paulo
+Thu Oct 3 2013,Atletico-MG,4-0,?,Ponte Preta
+Thu Oct 3 2013,Vasco,3-1,?,Internacional
+Sat Oct 5 2013,Botafogo RJ,0-1,?,Gremio
+Sat Oct 5 2013,Sao Paulo,3-2,?,Vitoria
+Sun Oct 6 2013,Atletico-MG,0-0,?,Corinthians
+Sun Oct 6 2013,Atletico-PR,2-1,?,Coritiba
+Sun Oct 6 2013,Flamengo RJ,1-1,?,Vasco
+Sun Oct 6 2013,Internacional,1-0,?,Fluminense
+Sun Oct 6 2013,Nautico,1-4,?,Cruzeiro
+Sun Oct 6 2013,Bahia,1-1,?,Ponte Preta
+Sun Oct 6 2013,Goias,1-1,?,Criciuma
+Sun Oct 6 2013,Portuguesa,3-0,?,Santos
+Wed Oct 9 2013,Coritiba,1-0,?,Santos
+Wed Oct 9 2013,Gremio,1-2,?,Criciuma
+Wed Oct 9 2013,Bahia,2-0,?,Vitoria
+Wed Oct 9 2013,Ponte Preta,2-0,?,Atletico-MG
+Wed Oct 9 2013,Corinthians,0-0,?,Atletico-PR
+Wed Oct 9 2013,Cruzeiro,0-2,?,Sao Paulo
+Wed Oct 9 2013,Nautico,1-3,?,Botafogo RJ
+Wed Oct 9 2013,Vasco,1-0,?,Fluminense
+Thu Oct 10 2013,Portuguesa,1-2,?,Goias
+Thu Oct 10 2013,Flamengo RJ,2-1,?,Internacional
+Sat Oct 12 2013,Fluminense,1-1,?,Gremio
+Sat Oct 12 2013,Vitoria,2-1,?,Coritiba
+Sat Oct 12 2013,Santos,2-1,?,Ponte Preta
+Sun Oct 13 2013,Atletico-MG,1-0,?,Cruzeiro
+Sun Oct 13 2013,Criciuma,3-2,?,Vasco
+Sun Oct 13 2013,Internacional,4-1,?,Nautico
+Sun Oct 13 2013,Sao Paulo,0-0,?,Corinthians
+Sun Oct 13 2013,Atletico-PR,1-0,?,Portuguesa
+Sun Oct 13 2013,Botafogo RJ,2-1,?,Flamengo RJ
+Sun Oct 13 2013,Goias,3-1,?,Bahia
+Wed Oct 16 2013,Cruzeiro,1-0,?,Fluminense
+Wed Oct 16 2013,Santos,0-0,?,Internacional
+Wed Oct 16 2013,Criciuma,1-3,?,Portuguesa
+Wed Oct 16 2013,Ponte Preta,1-0,?,Coritiba
+Wed Oct 16 2013,Sao Paulo,3-0,?,Nautico
+Wed Oct 16 2013,Atletico-PR,1-0,?,Atletico-MG
+Wed Oct 16 2013,Flamengo RJ,2-1,?,Bahia
+Wed Oct 16 2013,Gremio,1-0,?,Corinthians
+Thu Oct 17 2013,Vasco,0-2,?,Goias
+Thu Oct 17 2013,Vitoria,1-0,?,Botafogo RJ
+Sat Oct 19 2013,Fluminense,1-1,?,Ponte Preta
+Sat Oct 19 2013,Nautico,1-5,?,Santos
+Sat Oct 19 2013,Corinthians,1-0,?,Criciuma
+Sun Oct 20 2013,Atletico-MG,1-0,?,Flamengo RJ
+Sun Oct 20 2013,Bahia,0-1,?,Sao Paulo
+Sun Oct 20 2013,Goias,3-0,?,Atletico-PR
+Sun Oct 20 2013,Internacional,2-2,?,Gremio
+Sun Oct 20 2013,Botafogo RJ,2-2,?,Vasco
+Sun Oct 20 2013,Coritiba,2-1,?,Cruzeiro
+Sun Oct 20 2013,Portuguesa,1-1,?,Vitoria
+Sat Oct 26 2013,Botafogo RJ,1-0,?,Atletico-MG
+Sat Oct 26 2013,Cruzeiro,5-3,?,Criciuma
+Sun Oct 27 2013,Bahia,1-1,?,Atletico-PR
+Sun Oct 27 2013,Corinthians,1-1,?,Santos
+Sun Oct 27 2013,Internacional,2-3,?,Sao Paulo
+Sun Oct 27 2013,Ponte Preta,2-1,?,Vasco
+Sun Oct 27 2013,Portuguesa,0-0,?,Flamengo RJ
+Sun Oct 27 2013,Coritiba,4-0,?,Gremio
+Sun Oct 27 2013,Fluminense,2-3,?,Vitoria
+Sun Oct 27 2013,Nautico,0-2,?,Goias
+Sat Nov 2 2013,Sao Paulo,2-1,?,Portuguesa
+Sat Nov 2 2013,Vasco,2-1,?,Coritiba
+Sat Nov 2 2013,Atletico-MG,5-0,?,Nautico
+Sun Nov 3 2013,Goias,1-0,?,Botafogo RJ
+Sun Nov 3 2013,Gremio,0-0,?,Bahia
+Sun Nov 3 2013,Santos,0-1,?,Cruzeiro
+Sun Nov 3 2013,Vitoria,1-1,?,Corinthians
+Sun Nov 3 2013,Atletico-PR,1-0,?,Internacional
+Sun Nov 3 2013,Criciuma,1-1,?,Ponte Preta
+Sun Nov 3 2013,Flamengo RJ,1-0,?,Fluminense
+Sat Nov 9 2013,Bahia,0-0,?,Atletico-MG
+Sat Nov 9 2013,Portuguesa,0-0,?,Coritiba
+Sat Nov 9 2013,Flamengo RJ,1-1,?,Goias
+Sun Nov 10 2013,Atletico-PR,3-0,?,Sao Paulo
+Sun Nov 10 2013,Cruzeiro,3-0,?,Gremio
+Sun Nov 10 2013,Internacional,2-1,?,Botafogo RJ
+Sun Nov 10 2013,Ponte Preta,0-3,?,Vitoria
+Sun Nov 10 2013,Corinthians,1-0,?,Fluminense
+Sun Nov 10 2013,Nautico,0-1,?,Criciuma
+Sun Nov 10 2013,Vasco,2-2,?,Santos
+Wed Nov 13 2013,Goias,2-0,?,Ponte Preta
+Wed Nov 13 2013,Gremio,1-0,?,Vasco
+Wed Nov 13 2013,Botafogo RJ,0-0,?,Portuguesa
+Wed Nov 13 2013,Criciuma,2-1,?,Atletico-PR
+Wed Nov 13 2013,Coritiba,0-1,?,Corinthians
+Wed Nov 13 2013,Sao Paulo,2-0,?,Flamengo RJ
+Wed Nov 13 2013,Vitoria,1-3,?,Cruzeiro
+Thu Nov 14 2013,Santos,3-0,?,Bahia
+Thu Nov 14 2013,Atletico-MG,2-1,?,Internacional
+Thu Nov 14 2013,Fluminense,2-0,?,Nautico
+Sat Nov 16 2013,Botafogo RJ,4-0,?,Atletico-PR
+Sat Nov 16 2013,Coritiba,1-2,?,Criciuma
+Sun Nov 17 2013,Corinthians,0-0,?,Vasco
+Sun Nov 17 2013,Cruzeiro,2-2,?,Ponte Preta
+Sun Nov 17 2013,Fluminense,2-1,?,Sao Paulo
+Sun Nov 17 2013,Vitoria,2-0,?,Santos
+Sun Nov 17 2013,Goias,3-1,?,Internacional
+Sun Nov 17 2013,Gremio,2-1,?,Flamengo RJ
+Sun Nov 17 2013,Nautico,0-1,?,Bahia
+Sun Nov 17 2013,Portuguesa,2-0,?,Atletico-MG
+Sat Nov 23 2013,Criciuma,1-1,?,Vitoria
+Sat Nov 23 2013,Vasco,2-1,?,Cruzeiro
+Sat Nov 23 2013,Atletico-MG,4-1,?,Goias
+Sun Nov 24 2013,Atletico-PR,6-1,?,Nautico
+Sun Nov 24 2013,Flamengo RJ,1-0,?,Corinthians
+Sun Nov 24 2013,Ponte Preta,1-1,?,Gremio
+Sun Nov 24 2013,Santos,1-0,?,Fluminense
+Sun Nov 24 2013,Bahia,1-0,?,Portuguesa
+Sun Nov 24 2013,Internacional,0-0,?,Coritiba
+Sun Nov 24 2013,Sao Paulo,1-1,?,Botafogo RJ
+Sat Nov 30 2013,Fluminense,2-2,?,Atletico-MG
+Sat Nov 30 2013,Corinthians,0-0,?,Internacional
+Sun Dec 1 2013,Coritiba,2-1,?,Botafogo RJ
+Sun Dec 1 2013,Criciuma,1-0,?,Sao Paulo
+Sun Dec 1 2013,Cruzeiro,1-2,?,Bahia
+Sun Dec 1 2013,Ponte Preta,0-2,?,Portuguesa
+Sun Dec 1 2013,Vasco,2-0,?,Nautico
+Sun Dec 1 2013,Vitoria,4-2,?,Flamengo RJ
+Sun Dec 1 2013,Gremio,1-0,?,Goias
+Sun Dec 1 2013,Santos,2-1,?,Atletico-PR
+Sat Dec 7 2013,Flamengo RJ,1-1,?,Cruzeiro
+Sat Dec 7 2013,Nautico,1-0,?,Corinthians
+Sun Dec 8 2013,Atletico-MG,2-2,?,Vitoria
+Sun Dec 8 2013,Atletico-PR,5-1,?,Vasco
+Sun Dec 8 2013,Bahia,1-2,?,Fluminense
+Sun Dec 8 2013,Botafogo RJ,3-0,?,Criciuma
+Sun Dec 8 2013,Goias,0-3,?,Santos
+Sun Dec 8 2013,Internacional,0-0,?,Ponte Preta
+Sun Dec 8 2013,Portuguesa,0-0,?,Gremio
+Sun Dec 8 2013,Sao Paulo,0-1,?,Coritiba

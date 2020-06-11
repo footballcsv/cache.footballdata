@@ -1,0 +1,180 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 3 2019,Celtic,7-0,3-0,St Johnstone
+Sat Aug 3 2019,Hibernian,1-0,0-0,St Mirren
+Sat Aug 3 2019,Livingston,0-0,0-0,Motherwell
+Sat Aug 3 2019,Ross County,3-0,2-0,Hamilton
+Sun Aug 4 2019,Kilmarnock,1-2,0-1,Rangers
+Sun Aug 4 2019,Aberdeen,3-2,1-0,Hearts
+Sat Aug 10 2019,Motherwell,2-5,1-2,Celtic
+Sat Aug 10 2019,St Johnstone,2-2,0-2,Livingston
+Sat Aug 10 2019,Hamilton,2-0,1-0,Kilmarnock
+Sat Aug 10 2019,Hearts,0-0,0-0,Ross County
+Sun Aug 11 2019,Rangers,6-1,2-1,Hibernian
+Sun Aug 11 2019,St Mirren,1-0,1-0,Aberdeen
+Sat Aug 24 2019,Hamilton,1-3,1-2,Motherwell
+Sat Aug 24 2019,Hibernian,2-2,1-0,St Johnstone
+Sat Aug 24 2019,Kilmarnock,0-0,0-0,Aberdeen
+Sat Aug 24 2019,Ross County,1-4,1-3,Livingston
+Sun Aug 25 2019,St Mirren,0-1,0-0,Rangers
+Sun Aug 25 2019,Celtic,3-1,1-0,Hearts
+Sat Aug 31 2019,Aberdeen,3-0,2-0,Ross County
+Sat Aug 31 2019,Hearts,2-2,1-0,Hamilton
+Sat Aug 31 2019,Livingston,2-1,1-0,St Mirren
+Sat Aug 31 2019,Motherwell,3-0,1-0,Hibernian
+Sat Aug 31 2019,St Johnstone,0-1,0-1,Kilmarnock
+Sun Sep 1 2019,Rangers,0-2,0-1,Celtic
+Sat Sep 14 2019,Hamilton,0-1,0-1,Celtic
+Sat Sep 14 2019,Aberdeen,1-1,1-1,St Johnstone
+Sat Sep 14 2019,Hearts,2-3,0-1,Motherwell
+Sat Sep 14 2019,Kilmarnock,2-0,0-0,Hibernian
+Sat Sep 14 2019,Rangers,3-1,0-0,Livingston
+Sat Sep 14 2019,Ross County,2-1,0-0,St Mirren
+Sat Sep 21 2019,Livingston,0-2,0-1,Aberdeen
+Sat Sep 21 2019,Motherwell,1-2,0-0,Ross County
+Sat Sep 21 2019,St Mirren,0-0,0-0,Hamilton
+Sun Sep 22 2019,St Johnstone,0-4,0-0,Rangers
+Sun Sep 22 2019,Celtic,3-1,1-1,Kilmarnock
+Sun Sep 22 2019,Hibernian,1-2,0-0,Hearts
+Sat Sep 28 2019,Hibernian,1-1,1-1,Celtic
+Sat Sep 28 2019,Hamilton,2-1,1-1,Livingston
+Sat Sep 28 2019,Kilmarnock,0-0,0-0,Ross County
+Sat Sep 28 2019,Rangers,5-0,2-0,Aberdeen
+Sat Sep 28 2019,St Johnstone,0-1,0-1,Motherwell
+Sat Sep 28 2019,St Mirren,0-0,0-0,Hearts
+Sat Oct 5 2019,Aberdeen,1-1,0-0,Hibernian
+Sat Oct 5 2019,Hearts,0-1,0-1,Kilmarnock
+Sat Oct 5 2019,Motherwell,2-0,1-0,St Mirren
+Sat Oct 5 2019,Ross County,2-2,1-1,St Johnstone
+Sun Oct 6 2019,Livingston,2-0,0-0,Celtic
+Sun Oct 6 2019,Rangers,5-0,2-0,Hamilton
+Sat Oct 19 2019,Celtic,6-0,1-0,Ross County
+Sat Oct 19 2019,Hamilton,1-1,0-1,Hibernian
+Sat Oct 19 2019,Kilmarnock,2-1,1-0,Livingston
+Sat Oct 19 2019,Motherwell,0-3,0-1,Aberdeen
+Sat Oct 19 2019,St Mirren,2-0,1-0,St Johnstone
+Sun Oct 20 2019,Hearts,1-1,1-1,Rangers
+Sat Oct 26 2019,Hibernian,2-2,0-0,Ross County
+Sat Oct 26 2019,Kilmarnock,1-0,0-0,St Mirren
+Sat Oct 26 2019,Livingston,0-0,0-0,Hearts
+Sat Oct 26 2019,St Johnstone,3-2,1-1,Hamilton
+Sun Oct 27 2019,Aberdeen,0-4,0-4,Celtic
+Sun Oct 27 2019,Rangers,2-1,1-1,Motherwell
+Wed Oct 30 2019,Celtic,2-0,0-0,St Mirren
+Wed Oct 30 2019,Hamilton,0-1,0-1,Aberdeen
+Wed Oct 30 2019,Hibernian,2-2,0-2,Livingston
+Wed Oct 30 2019,Motherwell,2-1,1-1,Kilmarnock
+Wed Oct 30 2019,Ross County,0-4,0-3,Rangers
+Wed Oct 30 2019,St Johnstone,1-0,0-0,Hearts
+Sat Nov 2 2019,Aberdeen,3-0,2-0,Kilmarnock
+Sat Nov 2 2019,Hamilton,2-2,0-1,Ross County
+Sat Nov 2 2019,Motherwell,2-1,0-0,Livingston
+Sat Nov 9 2019,Hearts,5-2,3-2,St Mirren
+Sat Nov 9 2019,Kilmarnock,2-2,1-2,Hamilton
+Sat Nov 9 2019,Ross County,1-3,1-1,Aberdeen
+Sat Nov 9 2019,St Johnstone,1-4,0-2,Hibernian
+Sun Nov 10 2019,Celtic,2-0,1-0,Motherwell
+Sun Nov 10 2019,Livingston,0-2,0-1,Rangers
+Sat Nov 23 2019,Celtic,4-0,1-0,Livingston
+Sat Nov 23 2019,Hibernian,3-1,2-1,Motherwell
+Sat Nov 23 2019,Kilmarnock,3-0,3-0,Hearts
+Sat Nov 23 2019,St Mirren,2-1,1-1,Ross County
+Sun Nov 24 2019,Hamilton,1-3,1-2,Rangers
+Sun Nov 24 2019,St Johnstone,1-1,0-1,Aberdeen
+Tue Nov 26 2019,St Mirren,1-2,0-1,Hibernian
+Sat Nov 30 2019,Aberdeen,2-1,1-1,St Mirren
+Sat Nov 30 2019,Hibernian,2-2,1-0,Kilmarnock
+Sat Nov 30 2019,Livingston,0-0,0-0,Hamilton
+Sat Nov 30 2019,Motherwell,4-0,1-0,St Johnstone
+Sun Dec 1 2019,Ross County,1-4,1-2,Celtic
+Sun Dec 1 2019,Rangers,5-0,2-0,Hearts
+Wed Dec 4 2019,Aberdeen,2-2,1-2,Rangers
+Wed Dec 4 2019,Celtic,2-1,1-0,Hamilton
+Wed Dec 4 2019,Hearts,1-1,0-1,Livingston
+Wed Dec 4 2019,Kilmarnock,0-0,0-0,St Johnstone
+Wed Dec 4 2019,Ross County,2-1,0-1,Hibernian
+Wed Dec 4 2019,St Mirren,0-3,0-2,Motherwell
+Sat Dec 7 2019,Hamilton,0-1,0-0,St Mirren
+Sat Dec 7 2019,Hibernian,3-0,0-0,Aberdeen
+Sat Dec 7 2019,Livingston,3-0,0-0,Kilmarnock
+Sat Dec 7 2019,Motherwell,1-0,1-0,Hearts
+Sat Dec 14 2019,Aberdeen,1-0,0-0,Hamilton
+Sat Dec 14 2019,Hearts,0-1,0-0,St Johnstone
+Sat Dec 14 2019,Ross County,1-0,0-0,Kilmarnock
+Sat Dec 14 2019,St Mirren,3-3,1-2,Livingston
+Sun Dec 15 2019,Motherwell,0-2,0-1,Rangers
+Sun Dec 15 2019,Celtic,2-0,1-0,Hibernian
+Wed Dec 18 2019,Hearts,0-2,0-2,Celtic
+Fri Dec 20 2019,Hibernian,0-3,0-2,Rangers
+Sat Dec 21 2019,Celtic,2-1,1-1,Aberdeen
+Sat Dec 21 2019,Hamilton,2-1,0-0,Hearts
+Sat Dec 21 2019,Kilmarnock,0-1,0-0,Motherwell
+Sat Dec 21 2019,Livingston,4-0,2-0,Ross County
+Sat Dec 21 2019,St Johnstone,0-0,0-0,St Mirren
+Thu Dec 26 2019,Hearts,0-2,0-2,Hibernian
+Thu Dec 26 2019,Aberdeen,2-1,1-0,Livingston
+Thu Dec 26 2019,Hamilton,0-1,0-0,St Johnstone
+Thu Dec 26 2019,Rangers,1-0,0-0,Kilmarnock
+Thu Dec 26 2019,Ross County,1-2,1-0,Motherwell
+Thu Dec 26 2019,St Mirren,1-2,0-2,Celtic
+Sun Dec 29 2019,Celtic,1-2,1-1,Rangers
+Sun Dec 29 2019,Hearts,1-1,0-0,Aberdeen
+Sun Dec 29 2019,Livingston,2-0,0-0,Hibernian
+Sun Dec 29 2019,Motherwell,1-2,1-0,Hamilton
+Sun Dec 29 2019,St Johnstone,1-1,0-0,Ross County
+Sun Dec 29 2019,St Mirren,1-0,1-0,Kilmarnock
+Wed Jan 22 2020,Aberdeen,0-1,0-1,Motherwell
+Wed Jan 22 2020,Hibernian,2-1,0-1,Hamilton
+Wed Jan 22 2020,Kilmarnock,1-3,0-1,Celtic
+Wed Jan 22 2020,Livingston,1-0,0-0,St Johnstone
+Wed Jan 22 2020,Rangers,1-0,1-0,St Mirren
+Wed Jan 22 2020,Ross County,0-0,0-0,Hearts
+Sat Jan 25 2020,Celtic,3-0,1-0,Ross County
+Sat Jan 25 2020,Hamilton,2-4,1-2,Livingston
+Sat Jan 25 2020,Motherwell,0-0,0-0,Hibernian
+Sat Jan 25 2020,St Johnstone,2-1,1-1,Kilmarnock
+Sun Jan 26 2020,St Mirren,0-0,0-0,Aberdeen
+Sun Jan 26 2020,Hearts,2-1,0-0,Rangers
+Wed Jan 29 2020,Rangers,2-0,1-0,Ross County
+Wed Jan 29 2020,St Johnstone,0-3,0-3,Celtic
+Sat Feb 1 2020,Hibernian,2-2,2-2,St Mirren
+Sat Feb 1 2020,Kilmarnock,3-1,0-1,Ross County
+Sat Feb 1 2020,Livingston,1-0,0-0,Motherwell
+Sat Feb 1 2020,Rangers,0-0,0-0,Aberdeen
+Sat Feb 1 2020,St Johnstone,3-3,1-2,Hearts
+Sun Feb 2 2020,Hamilton,1-4,1-1,Celtic
+Wed Feb 5 2020,Aberdeen,0-1,0-1,St Johnstone
+Wed Feb 5 2020,Hearts,2-3,0-2,Kilmarnock
+Wed Feb 5 2020,Motherwell,0-4,0-1,Celtic
+Wed Feb 5 2020,Rangers,2-1,1-1,Hibernian
+Wed Feb 5 2020,Ross County,2-0,1-0,Livingston
+Wed Feb 5 2020,St Mirren,1-1,0-1,Hamilton
+Tue Feb 11 2020,Hamilton,1-3,0-3,Aberdeen
+Wed Feb 12 2020,Celtic,5-0,1-0,Hearts
+Wed Feb 12 2020,Hibernian,3-0,2-0,Ross County
+Wed Feb 12 2020,Kilmarnock,2-1,0-1,Rangers
+Wed Feb 12 2020,Livingston,2-1,1-0,St Mirren
+Wed Feb 12 2020,St Johnstone,2-1,1-1,Motherwell
+Sat Feb 15 2020,Hearts,2-2,0-2,Hamilton
+Sat Feb 15 2020,Ross County,1-1,0-1,St Johnstone
+Sun Feb 16 2020,Aberdeen,1-2,1-1,Celtic
+Sun Feb 16 2020,Rangers,1-0,0-0,Livingston
+Sun Feb 16 2020,Kilmarnock,1-2,1-2,Hibernian
+Sat Feb 22 2020,Aberdeen,1-2,1-1,Ross County
+Sat Feb 22 2020,Hamilton,0-0,0-0,Motherwell
+Sat Feb 22 2020,Hibernian,1-1,0-0,Livingston
+Sun Feb 23 2020,St Johnstone,2-2,1-0,Rangers
+Sun Feb 23 2020,Celtic,3-1,2-1,Kilmarnock
+Tue Feb 25 2020,Motherwell,1-2,1-0,St Mirren
+Tue Mar 3 2020,Hibernian,1-3,0-0,Hearts
+Wed Mar 4 2020,Kilmarnock,2-2,2-1,Aberdeen
+Wed Mar 4 2020,Livingston,2-2,1-1,Celtic
+Wed Mar 4 2020,Motherwell,4-1,2-1,Ross County
+Wed Mar 4 2020,Rangers,0-1,0-0,Hamilton
+Wed Mar 4 2020,St Mirren,0-0,0-0,St Johnstone
+Sat Mar 7 2020,Aberdeen,3-1,0-1,Hibernian
+Sat Mar 7 2020,Celtic,5-0,2-0,St Mirren
+Sat Mar 7 2020,Hamilton,1-0,0-0,Kilmarnock
+Sat Mar 7 2020,Hearts,1-1,0-1,Motherwell
+Sat Mar 7 2020,St Johnstone,1-0,0-0,Livingston
+Sun Mar 8 2020,Ross County,0-1,0-0,Rangers
+Wed Mar 11 2020,St Mirren,1-0,0-0,Hearts

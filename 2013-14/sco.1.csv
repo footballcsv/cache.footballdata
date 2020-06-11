@@ -1,0 +1,229 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 2 2013,Partick,0-0,0-0,Dundee United
+Sat Aug 3 2013,Aberdeen,2-1,1-0,Kilmarnock
+Sat Aug 3 2013,Celtic,2-1,1-1,Ross County
+Sat Aug 3 2013,Inverness C,3-0,0-0,St Mirren
+Sun Aug 4 2013,Hibernian,0-1,0-0,Motherwell
+Sun Aug 4 2013,St Johnstone,1-0,1-0,Hearts
+Sat Aug 10 2013,Dundee United,0-1,0-1,Inverness C
+Sat Aug 10 2013,Ross County,1-3,0-1,Partick
+Sun Aug 11 2013,Hearts,1-0,0-0,Hibernian
+Sun Aug 11 2013,Kilmarnock,0-0,0-0,St Johnstone
+Sun Aug 11 2013,Motherwell,1-3,1-0,Aberdeen
+Fri Aug 16 2013,Partick,1-1,0-0,Hearts
+Sat Aug 17 2013,Aberdeen,0-2,0-1,Celtic
+Sat Aug 17 2013,Hibernian,1-1,0-1,Dundee United
+Sat Aug 17 2013,Inverness C,2-0,2-0,Motherwell
+Sat Aug 17 2013,St Johnstone,4-0,2-0,Ross County
+Sat Aug 17 2013,St Mirren,1-1,0-0,Kilmarnock
+Sat Aug 24 2013,Celtic,2-2,1-2,Inverness C
+Sat Aug 24 2013,Dundee United,4-0,3-0,St Johnstone
+Sat Aug 24 2013,Hearts,2-1,1-0,Aberdeen
+Sat Aug 24 2013,Kilmarnock,1-2,1-0,Hibernian
+Sat Aug 24 2013,Motherwell,1-0,1-0,Partick
+Sat Aug 24 2013,Ross County,3-0,2-0,St Mirren
+Sat Aug 31 2013,Aberdeen,0-0,0-0,St Johnstone
+Sat Aug 31 2013,Dundee United,0-1,0-0,Celtic
+Sat Aug 31 2013,Hibernian,0-0,0-0,Ross County
+Sat Aug 31 2013,Inverness C,2-0,2-0,Hearts
+Sat Aug 31 2013,Motherwell,2-1,2-1,Kilmarnock
+Sat Aug 31 2013,St Mirren,1-2,0-0,Partick
+Sat Sep 14 2013,Hearts,1-3,0-1,Celtic
+Sat Sep 14 2013,Kilmarnock,1-2,0-1,Inverness C
+Sat Sep 14 2013,Partick,0-3,0-2,Aberdeen
+Sat Sep 14 2013,St Johnstone,1-2,1-1,Hibernian
+Sat Sep 14 2013,St Mirren,0-1,0-1,Motherwell
+Sun Sep 15 2013,Ross County,2-4,0-3,Dundee United
+Sat Sep 21 2013,Aberdeen,1-0,0-0,Inverness C
+Sat Sep 21 2013,Celtic,2-1,2-0,St Johnstone
+Sat Sep 21 2013,Hibernian,2-0,1-0,St Mirren
+Sat Sep 21 2013,Partick,1-1,1-0,Kilmarnock
+Sat Sep 21 2013,Ross County,2-1,0-1,Hearts
+Sun Sep 22 2013,Dundee United,2-2,0-1,Motherwell
+Sat Sep 28 2013,Hearts,0-0,0-0,Dundee United
+Sat Sep 28 2013,Inverness C,3-0,1-0,Hibernian
+Sat Sep 28 2013,Kilmarnock,2-5,2-3,Celtic
+Sat Sep 28 2013,Motherwell,3-1,0-1,Ross County
+Sat Sep 28 2013,St Johnstone,1-1,1-1,Partick
+Mon Sep 30 2013,St Mirren,1-1,0-0,Aberdeen
+Sat Oct 5 2013,Celtic,2-0,1-0,Motherwell
+Sat Oct 5 2013,Dundee United,1-0,0-0,Kilmarnock
+Sat Oct 5 2013,Hearts,0-2,0-1,St Mirren
+Sat Oct 5 2013,Ross County,1-0,0-0,Aberdeen
+Sat Oct 5 2013,St Johnstone,4-0,2-0,Inverness C
+Mon Oct 7 2013,Partick,0-1,0-0,Hibernian
+Sat Oct 19 2013,Aberdeen,1-0,0-0,Dundee United
+Sat Oct 19 2013,Hibernian,1-1,1-0,Celtic
+Sat Oct 19 2013,Kilmarnock,2-0,1-0,Ross County
+Sat Oct 19 2013,Motherwell,2-1,0-0,Hearts
+Sat Oct 19 2013,St Mirren,4-3,1-1,St Johnstone
+Sun Oct 20 2013,Inverness C,1-2,0-1,Partick
+Sat Oct 26 2013,Dundee United,4-0,2-0,St Mirren
+Sat Oct 26 2013,Hibernian,0-2,0-0,Aberdeen
+Sat Oct 26 2013,Kilmarnock,2-0,1-0,Hearts
+Sun Oct 27 2013,Partick,1-2,0-1,Celtic
+Sun Oct 27 2013,St Johnstone,2-0,0-0,Motherwell
+Sat Nov 2 2013,Celtic,1-1,0-1,Dundee United
+Sat Nov 2 2013,Hearts,0-2,0-1,St Johnstone
+Sat Nov 2 2013,Inverness C,2-1,1-0,Kilmarnock
+Sun Nov 3 2013,Motherwell,1-0,1-0,Hibernian
+Mon Nov 4 2013,Aberdeen,4-0,2-0,Partick
+Sat Nov 9 2013,Aberdeen,1-3,1-0,Hearts
+Sat Nov 9 2013,Hibernian,0-2,0-2,Inverness C
+Sat Nov 9 2013,Motherwell,0-4,0-2,Dundee United
+Sat Nov 9 2013,Partick,0-3,0-1,St Mirren
+Sat Nov 9 2013,Ross County,1-4,0-1,Celtic
+Sat Nov 9 2013,St Johnstone,3-1,2-0,Kilmarnock
+Sun Nov 17 2013,St Mirren,2-1,1-0,Ross County
+Sat Nov 23 2013,Celtic,3-1,1-1,Aberdeen
+Sat Nov 23 2013,Dundee United,4-1,1-0,Partick
+Sat Nov 23 2013,Hearts,2-2,1-1,Ross County
+Sat Nov 23 2013,Inverness C,1-0,1-0,St Johnstone
+Sat Nov 23 2013,Kilmarnock,0-2,0-0,Motherwell
+Sat Nov 23 2013,St Mirren,0-0,0-0,Hibernian
+Fri Dec 6 2013,Motherwell,0-5,0-1,Celtic
+Sat Dec 7 2013,Dundee United,4-1,1-1,Hearts
+Sat Dec 7 2013,Hibernian,1-1,0-0,Partick
+Sat Dec 7 2013,Ross County,1-2,1-2,Kilmarnock
+Sat Dec 7 2013,St Johnstone,0-2,0-1,Aberdeen
+Sat Dec 7 2013,St Mirren,0-0,0-0,Inverness C
+Sat Dec 14 2013,Aberdeen,2-0,1-0,St Mirren
+Sat Dec 14 2013,Celtic,1-0,1-0,Hibernian
+Sat Dec 14 2013,Hearts,0-2,0-0,Inverness C
+Sat Dec 14 2013,Kilmarnock,1-4,0-0,Dundee United
+Sat Dec 14 2013,Ross County,1-2,0-2,Motherwell
+Sat Dec 21 2013,Celtic,2-0,0-0,Hearts
+Sat Dec 21 2013,Dundee United,1-0,0-0,Ross County
+Sat Dec 21 2013,Hibernian,0-0,0-0,St Johnstone
+Sat Dec 21 2013,Inverness C,3-4,0-4,Aberdeen
+Sat Dec 21 2013,Kilmarnock,2-1,1-0,Partick
+Sat Dec 21 2013,Motherwell,3-0,2-0,St Mirren
+Thu Dec 26 2013,Aberdeen,0-1,0-0,Motherwell
+Thu Dec 26 2013,Hearts,0-4,0-2,Kilmarnock
+Thu Dec 26 2013,Partick,0-0,0-0,Inverness C
+Thu Dec 26 2013,Ross County,0-2,0-1,Hibernian
+Thu Dec 26 2013,St Johnstone,0-1,0-1,Celtic
+Thu Dec 26 2013,St Mirren,4-1,2-1,Dundee United
+Sun Dec 29 2013,Aberdeen,1-0,1-0,Ross County
+Sun Dec 29 2013,Hibernian,3-0,1-0,Kilmarnock
+Sun Dec 29 2013,Inverness C,0-1,0-1,Celtic
+Sun Dec 29 2013,Partick,1-5,1-3,Motherwell
+Sun Dec 29 2013,St Johnstone,3-0,1-0,Dundee United
+Sun Dec 29 2013,St Mirren,1-1,1-0,Hearts
+Wed Jan 1 2014,Celtic,1-0,1-0,Partick
+Wed Jan 1 2014,Dundee United,1-2,0-0,Aberdeen
+Wed Jan 1 2014,Inverness C,1-2,0-2,Ross County
+Wed Jan 1 2014,Motherwell,4-0,1-0,St Johnstone
+Thu Jan 2 2014,Hibernian,2-1,0-0,Hearts
+Thu Jan 2 2014,Kilmarnock,2-1,1-1,St Mirren
+Sat Jan 4 2014,Ross County,1-0,0-0,St Johnstone
+Sun Jan 5 2014,Dundee United,2-2,0-1,Hibernian
+Sun Jan 5 2014,Hearts,0-2,0-2,Partick
+Sun Jan 5 2014,Kilmarnock,0-1,0-0,Aberdeen
+Sun Jan 5 2014,St Mirren,0-4,0-0,Celtic
+Fri Jan 10 2014,Aberdeen,1-0,0-0,Hibernian
+Sat Jan 11 2014,Hearts,0-1,0-1,Motherwell
+Sat Jan 11 2014,Partick,3-3,2-1,Ross County
+Sat Jan 11 2014,St Johnstone,2-0,0-0,St Mirren
+Sun Jan 12 2014,Inverness C,1-1,1-1,Dundee United
+Sat Jan 18 2014,Aberdeen,0-1,0-1,Inverness C
+Sat Jan 18 2014,Celtic,3-0,2-0,Motherwell
+Sat Jan 18 2014,Hibernian,2-3,0-3,St Mirren
+Sat Jan 18 2014,Partick,1-1,1-0,Kilmarnock
+Sat Jan 18 2014,Ross County,3-0,1-0,Dundee United
+Sat Jan 18 2014,St Johnstone,3-3,1-0,Hearts
+Tue Jan 21 2014,Partick,0-1,0-1,St Johnstone
+Sat Jan 25 2014,Kilmarnock,2-0,1-0,Inverness C
+Sat Jan 25 2014,Motherwell,2-2,0-0,Aberdeen
+Sat Jan 25 2014,Ross County,1-2,1-1,Hearts
+Sat Jan 25 2014,St Mirren,0-0,0-0,Partick
+Sun Jan 26 2014,Hibernian,0-4,0-1,Celtic
+Wed Jan 29 2014,Celtic,4-0,2-0,Kilmarnock
+Wed Jan 29 2014,Hearts,2-1,1-1,St Mirren
+Sat Feb 1 2014,Kilmarnock,2-2,0-2,Ross County
+Sat Feb 1 2014,Partick,1-1,0-1,Dundee United
+Sun Feb 2 2014,Celtic,1-0,1-0,St Mirren
+Sat Feb 15 2014,Dundee United,3-2,1-1,Kilmarnock
+Sat Feb 15 2014,Hibernian,2-1,2-0,Ross County
+Sat Feb 15 2014,Inverness C,0-0,0-0,Hearts
+Sat Feb 15 2014,Motherwell,4-3,1-1,Partick
+Sat Feb 15 2014,St Mirren,0-1,0-0,Aberdeen
+Sun Feb 16 2014,Celtic,3-0,1-0,St Johnstone
+Fri Feb 21 2014,Dundee United,3-1,2-0,Motherwell
+Sat Feb 22 2014,Hearts,0-2,0-0,Celtic
+Sat Feb 22 2014,Kilmarnock,1-1,1-0,Hibernian
+Sat Feb 22 2014,Partick,3-1,0-0,Aberdeen
+Sat Feb 22 2014,Ross County,2-1,1-0,St Mirren
+Sat Feb 22 2014,St Johnstone,0-1,0-1,Inverness C
+Tue Feb 25 2014,Aberdeen,2-1,2-0,Celtic
+Tue Feb 25 2014,Ross County,0-3,0-2,Inverness C
+Tue Feb 25 2014,St Johnstone,3-0,2-0,Motherwell
+Fri Feb 28 2014,Hibernian,1-3,1-1,Dundee United
+Sat Mar 1 2014,Aberdeen,1-0,1-0,St Johnstone
+Sat Mar 1 2014,Celtic,5-0,2-0,Inverness C
+Sat Mar 1 2014,Motherwell,4-1,2-0,Hearts
+Sat Mar 1 2014,Ross County,1-1,1-1,Partick
+Sat Mar 1 2014,St Mirren,2-0,0-0,Kilmarnock
+Sat Mar 8 2014,Hibernian,3-3,1-2,Motherwell
+Sat Mar 8 2014,Kilmarnock,4-2,1-1,Hearts
+Wed Mar 12 2014,Dundee United,0-1,0-0,St Johnstone
+Wed Mar 12 2014,Inverness C,0-0,0-0,Hibernian
+Fri Mar 14 2014,Kilmarnock,0-3,0-0,Celtic
+Sat Mar 15 2014,Dundee United,3-2,0-2,St Mirren
+Sat Mar 15 2014,Partick,3-1,1-0,Hibernian
+Sat Mar 15 2014,St Johnstone,0-1,0-1,Ross County
+Wed Mar 19 2014,Motherwell,2-0,2-0,Inverness C
+Fri Mar 21 2014,Hearts,1-2,0-1,Dundee United
+Sat Mar 22 2014,Aberdeen,2-1,1-1,Kilmarnock
+Sat Mar 22 2014,Celtic,3-0,1-0,St Mirren
+Sat Mar 22 2014,Inverness C,1-0,0-0,Partick
+Sat Mar 22 2014,Motherwell,2-1,0-0,Ross County
+Sat Mar 22 2014,St Johnstone,2-0,1-0,Hibernian
+Tue Mar 25 2014,Ross County,1-1,1-0,Aberdeen
+Tue Mar 25 2014,St Mirren,0-1,0-1,St Johnstone
+Wed Mar 26 2014,Dundee United,2-1,0-0,Inverness C
+Wed Mar 26 2014,Partick,1-5,0-1,Celtic
+Sat Mar 29 2014,Aberdeen,1-1,0-1,Dundee United
+Sat Mar 29 2014,Celtic,1-1,1-1,Ross County
+Sat Mar 29 2014,Inverness C,2-2,2-1,St Mirren
+Sat Mar 29 2014,Motherwell,1-2,1-0,Kilmarnock
+Sat Mar 29 2014,St Johnstone,1-1,1-0,Partick
+Sun Mar 30 2014,Hearts,2-0,1-0,Hibernian
+Tue Apr 1 2014,Inverness C,1-2,0-1,Motherwell
+Wed Apr 2 2014,Hearts,1-1,0-0,Aberdeen
+Fri Apr 4 2014,Ross County,1-2,0-1,Inverness C
+Sat Apr 5 2014,Dundee United,0-2,0-2,Celtic
+Sat Apr 5 2014,Kilmarnock,1-2,1-2,St Johnstone
+Sat Apr 5 2014,Partick,2-4,1-1,Hearts
+Sat Apr 5 2014,St Mirren,3-2,1-2,Motherwell
+Mon Apr 7 2014,Hibernian,0-2,0-1,Aberdeen
+Fri Apr 18 2014,Inverness C,0-0,0-0,Aberdeen
+Sat Apr 19 2014,Hearts,2-0,0-0,Ross County
+Sat Apr 19 2014,Kilmarnock,1-2,0-0,Partick
+Sat Apr 19 2014,Motherwell,3-3,2-1,Celtic
+Sat Apr 19 2014,St Johnstone,2-0,1-0,Dundee United
+Sat Apr 19 2014,St Mirren,2-0,2-0,Hibernian
+Fri Apr 25 2014,Partick,1-1,1-1,St Mirren
+Sat Apr 26 2014,Aberdeen,1-1,1-1,St Johnstone
+Sat Apr 26 2014,Dundee United,5-1,2-0,Motherwell
+Sat Apr 26 2014,Ross County,2-1,1-0,Kilmarnock
+Sun Apr 27 2014,Celtic,6-0,2-0,Inverness C
+Sun Apr 27 2014,Hibernian,1-2,0-2,Hearts
+Sat May 3 2014,Celtic,5-2,2-1,Aberdeen
+Sat May 3 2014,Hibernian,1-1,0-1,Partick
+Sat May 3 2014,Inverness C,1-1,1-0,Dundee United
+Sat May 3 2014,Motherwell,2-1,2-1,St Johnstone
+Sat May 3 2014,St Mirren,1-0,0-0,Ross County
+Sun May 4 2014,Hearts,5-0,3-0,Kilmarnock
+Tue May 6 2014,Dundee United,1-3,1-1,Aberdeen
+Tue May 6 2014,Ross County,1-0,0-0,Hibernian
+Wed May 7 2014,Hearts,2-4,2-1,Partick
+Wed May 7 2014,Kilmarnock,1-0,1-0,St Mirren
+Wed May 7 2014,Motherwell,2-1,2-0,Inverness C
+Wed May 7 2014,St Johnstone,3-3,1-0,Celtic
+Sat May 10 2014,Hibernian,0-1,0-1,Kilmarnock
+Sat May 10 2014,Partick,2-3,0-1,Ross County
+Sat May 10 2014,St Mirren,1-1,1-0,Hearts
+Sun May 11 2014,Aberdeen,0-1,0-0,Motherwell
+Sun May 11 2014,Celtic,3-1,0-0,Dundee United
+Sun May 11 2014,Inverness C,2-0,0-0,St Johnstone

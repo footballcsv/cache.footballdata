@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Apr 19 2014,Fluminense,3-0,?,Figueirense
+Sat Apr 19 2014,Internacional,1-0,?,Vitoria
+Sat Apr 19 2014,Chapecoense-SC,0-0,?,Coritiba
+Sun Apr 20 2014,Atletico-MG,0-0,?,Corinthians
+Sun Apr 20 2014,Atletico-PR,1-0,?,Gremio
+Sun Apr 20 2014,Bahia,1-2,?,Cruzeiro
+Sun Apr 20 2014,Sao Paulo,3-0,?,Botafogo RJ
+Sun Apr 20 2014,Criciuma,1-2,?,Palmeiras
+Sun Apr 20 2014,Flamengo RJ,0-0,?,Goias
+Sun Apr 20 2014,Santos,1-1,?,Sport Recife
+Sat Apr 26 2014,Coritiba,0-0,?,Santos
+Sat Apr 26 2014,Palmeiras,0-1,?,Fluminense
+Sun Apr 27 2014,Botafogo RJ,2-2,?,Internacional
+Sun Apr 27 2014,Corinthians,2-0,?,Flamengo RJ
+Sun Apr 27 2014,Cruzeiro,1-1,?,Sao Paulo
+Sun Apr 27 2014,Vitoria,2-2,?,Atletico-PR
+Sun Apr 27 2014,Figueirense,0-2,?,Bahia
+Sun Apr 27 2014,Goias,1-0,?,Criciuma
+Sun Apr 27 2014,Gremio,2-1,?,Atletico-MG
+Sun Apr 27 2014,Sport Recife,2-1,?,Chapecoense-SC
+Sat May 3 2014,Atletico-PR,2-3,?,Cruzeiro
+Sat May 3 2014,Santos,0-0,?,Gremio
+Sat May 3 2014,Sao Paulo,2-2,?,Coritiba
+Sat May 3 2014,Fluminense,1-2,?,Vitoria
+Sun May 4 2014,Bahia,1-0,?,Botafogo RJ
+Sun May 4 2014,Criciuma,1-0,?,Figueirense
+Sun May 4 2014,Flamengo RJ,4-2,?,Palmeiras
+Sun May 4 2014,Internacional,2-1,?,Sport Recife
+Sun May 4 2014,Atletico-MG,0-1,?,Goias
+Sun May 4 2014,Chapecoense-SC,0-1,?,Corinthians
+Sat May 10 2014,Internacional,2-1,?,Atletico-PR
+Sat May 10 2014,Palmeiras,2-0,?,Goias
+Sat May 10 2014,Botafogo RJ,6-0,?,Criciuma
+Sun May 11 2014,Atletico-MG,2-1,?,Cruzeiro
+Sun May 11 2014,Chapecoense-SC,1-2,?,Gremio
+Sun May 11 2014,Fluminense,2-0,?,Flamengo RJ
+Sun May 11 2014,Sao Paulo,1-1,?,Corinthians
+Sun May 11 2014,Bahia,1-1,?,Vitoria
+Sun May 11 2014,Coritiba,0-1,?,Sport Recife
+Sun May 11 2014,Figueirense,0-2,?,Santos
+Wed May 14 2014,Goias,2-0,?,Botafogo RJ
+Sat May 17 2014,Cruzeiro,3-2,?,Coritiba
+Sun May 18 2014,Atletico-PR,1-1,?,Chapecoense-SC
+Sun May 18 2014,Corinthians,0-1,?,Figueirense
+Sun May 18 2014,Flamengo RJ,0-2,?,Sao Paulo
+Sun May 18 2014,Gremio,1-0,?,Fluminense
+Sun May 18 2014,Criciuma,0-0,?,Internacional
+Sun May 18 2014,Santos,1-2,?,Atletico-MG
+Sun May 18 2014,Vitoria,0-1,?,Palmeiras
+Wed May 21 2014,Coritiba,1-1,?,Internacional
+Wed May 21 2014,Flamengo RJ,1-1,?,Bahia
+Wed May 21 2014,Criciuma,1-0,?,Chapecoense-SC
+Wed May 21 2014,Cruzeiro,2-0,?,Sport Recife
+Wed May 21 2014,Corinthians,1-1,?,Atletico-PR
+Wed May 21 2014,Fluminense,5-2,?,Sao Paulo
+Wed May 21 2014,Gremio,2-1,?,Botafogo RJ
+Thu May 22 2014,Goias,2-2,?,Santos
+Thu May 22 2014,Palmeiras,1-0,?,Figueirense
+Thu May 22 2014,Vitoria,2-3,?,Atletico-MG
+Sat May 24 2014,Bahia,0-1,?,Fluminense
+Sat May 24 2014,Sao Paulo,1-0,?,Gremio
+Sun May 25 2014,Atletico-PR,2-0,?,Coritiba
+Sun May 25 2014,Figueirense,0-1,?,Goias
+Sun May 25 2014,Santos,0-0,?,Flamengo RJ
+Sun May 25 2014,Sport Recife,1-4,?,Corinthians
+Sun May 25 2014,Atletico-MG,0-0,?,Criciuma
+Sun May 25 2014,Botafogo RJ,1-1,?,Vitoria
+Sun May 25 2014,Chapecoense-SC,2-0,?,Palmeiras
+Sun May 25 2014,Internacional,1-3,?,Cruzeiro
+Wed May 28 2014,Criciuma,1-0,?,Coritiba
+Wed May 28 2014,Palmeiras,0-2,?,Botafogo RJ
+Wed May 28 2014,Sport Recife,0-0,?,Gremio
+Wed May 28 2014,Goias,0-0,?,Vitoria
+Wed May 28 2014,Internacional,2-0,?,Chapecoense-SC
+Wed May 28 2014,Atletico-MG,2-0,?,Fluminense
+Wed May 28 2014,Atletico-PR,2-2,?,Sao Paulo
+Wed May 28 2014,Corinthians,1-0,?,Cruzeiro
+Thu May 29 2014,Flamengo RJ,1-1,?,Figueirense
+Thu May 29 2014,Bahia,0-2,?,Santos
+Sat May 31 2014,Coritiba,3-0,?,Goias
+Sat May 31 2014,Sao Paulo,2-1,?,Atletico-MG
+Sat May 31 2014,Vitoria,0-1,?,Sport Recife
+Sun Jun 1 2014,Chapecoense-SC,2-1,?,Bahia
+Sun Jun 1 2014,Corinthians,1-1,?,Botafogo RJ
+Sun Jun 1 2014,Cruzeiro,3-0,?,Flamengo RJ
+Sun Jun 1 2014,Gremio,0-0,?,Palmeiras
+Sun Jun 1 2014,Figueirense,1-3,?,Atletico-PR
+Sun Jun 1 2014,Fluminense,1-1,?,Internacional
+Sun Jun 1 2014,Santos,2-0,?,Criciuma
+Wed Jun 4 2014,Sport Recife,1-0,?,Bahia
+Wed Jul 16 2014,Coritiba,0-2,?,Figueirense
+Wed Jul 16 2014,Gremio,0-0,?,Goias
+Wed Jul 16 2014,Sport Recife,1-0,?,Botafogo RJ
+Wed Jul 16 2014,Bahia,0-2,?,Sao Paulo
+Wed Jul 16 2014,Criciuma,3-2,?,Fluminense
+Wed Jul 16 2014,Flamengo RJ,1-2,?,Atletico-PR
+Thu Jul 17 2014,Corinthians,2-1,?,Internacional
+Thu Jul 17 2014,Santos,2-0,?,Palmeiras
+Thu Jul 17 2014,Cruzeiro,3-1,?,Vitoria
+Sat Jul 19 2014,Atletico-MG,1-1,?,Bahia
+Sat Jul 19 2014,Figueirense,0-1,?,Gremio
+Sat Jul 19 2014,Sao Paulo,0-1,?,Chapecoense-SC
+Sat Jul 19 2014,Botafogo RJ,1-0,?,Coritiba
+Sun Jul 20 2014,Internacional,4-0,?,Flamengo RJ
+Sun Jul 20 2014,Palmeiras,1-2,?,Cruzeiro
+Sun Jul 20 2014,Vitoria,0-0,?,Corinthians
+Sun Jul 20 2014,Atletico-PR,2-0,?,Criciuma
+Sun Jul 20 2014,Fluminense,1-0,?,Santos
+Sun Jul 20 2014,Goias,0-0,?,Sport Recife
+Sat Jul 26 2014,Criciuma,1-3,?,Vitoria
+Sat Jul 26 2014,Cruzeiro,5-0,?,Figueirense
+Sat Jul 26 2014,Santos,3-0,?,Chapecoense-SC
+Sat Jul 26 2014,Bahia,0-1,?,Internacional
+Sun Jul 27 2014,Atletico-PR,0-3,?,Fluminense
+Sun Jul 27 2014,Corinthians,2-0,?,Palmeiras
+Sun Jul 27 2014,Goias,2-1,?,Sao Paulo
+Sun Jul 27 2014,Sport Recife,2-1,?,Atletico-MG
+Sun Jul 27 2014,Flamengo RJ,1-0,?,Botafogo RJ
+Sun Jul 27 2014,Gremio,2-3,?,Coritiba
+Sat Aug 2 2014,Botafogo RJ,1-1,?,Cruzeiro
+Sat Aug 2 2014,Sao Paulo,1-1,?,Criciuma
+Sat Aug 2 2014,Vitoria,2-1,?,Gremio
+Sun Aug 3 2014,Chapecoense-SC,1-0,?,Flamengo RJ
+Sun Aug 3 2014,Coritiba,0-0,?,Corinthians
+Sun Aug 3 2014,Figueirense,3-0,?,Sport Recife
+Sun Aug 3 2014,Palmeiras,1-1,?,Bahia
+Sun Aug 3 2014,Atletico-MG,3-1,?,Atletico-PR
+Sun Aug 3 2014,Fluminense,2-0,?,Goias
+Sun Aug 3 2014,Internacional,1-0,?,Santos
+Wed Aug 6 2014,Chapecoense-SC,1-1,?,Atletico-MG
+Sat Aug 9 2014,Bahia,1-0,?,Goias
+Sat Aug 9 2014,Criciuma,0-0,?,Cruzeiro
+Sat Aug 9 2014,Fluminense,1-1,?,Coritiba
+Sun Aug 10 2014,Atletico-PR,2-0,?,Botafogo RJ
+Sun Aug 10 2014,Flamengo RJ,1-0,?,Sport Recife
+Sun Aug 10 2014,Internacional,2-0,?,Gremio
+Sun Aug 10 2014,Santos,0-1,?,Corinthians
+Sun Aug 10 2014,Atletico-MG,2-1,?,Palmeiras
+Sun Aug 10 2014,Chapecoense-SC,0-1,?,Figueirense
+Sun Aug 10 2014,Sao Paulo,3-1,?,Vitoria
+Sat Aug 16 2014,Goias,0-1,?,Internacional
+Sat Aug 16 2014,Corinthians,1-1,?,Bahia
+Sun Aug 17 2014,Coritiba,0-1,?,Flamengo RJ
+Sun Aug 17 2014,Cruzeiro,3-0,?,Santos
+Sun Aug 17 2014,Gremio,2-0,?,Criciuma
+Sun Aug 17 2014,Palmeiras,1-2,?,Sao Paulo
+Sun Aug 17 2014,Vitoria,0-0,?,Chapecoense-SC
+Sun Aug 17 2014,Botafogo RJ,2-0,?,Fluminense
+Sun Aug 17 2014,Figueirense,2-2,?,Atletico-MG
+Sun Aug 17 2014,Sport Recife,1-1,?,Atletico-PR
+Wed Aug 20 2014,Figueirense,1-0,?,Botafogo RJ
+Wed Aug 20 2014,Santos,2-0,?,Atletico-PR
+Wed Aug 20 2014,Sport Recife,2-1,?,Palmeiras
+Wed Aug 20 2014,Bahia,0-0,?,Criciuma
+Wed Aug 20 2014,Coritiba,2-0,?,Vitoria
+Wed Aug 20 2014,Chapecoense-SC,1-0,?,Fluminense
+Wed Aug 20 2014,Flamengo RJ,2-1,?,Atletico-MG
+Wed Aug 20 2014,Internacional,0-1,?,Sao Paulo
+Thu Aug 21 2014,Corinthians,5-2,?,Goias
+Thu Aug 21 2014,Cruzeiro,1-0,?,Gremio
+Sat Aug 23 2014,Atletico-MG,1-0,?,Internacional
+Sat Aug 23 2014,Botafogo RJ,1-0,?,Chapecoense-SC
+Sat Aug 23 2014,Palmeiras,1-0,?,Coritiba
+Sun Aug 24 2014,Criciuma,0-2,?,Flamengo RJ
+Sun Aug 24 2014,Fluminense,4-0,?,Sport Recife
+Sun Aug 24 2014,Gremio,2-1,?,Corinthians
+Sun Aug 24 2014,Sao Paulo,2-1,?,Santos
+Sun Aug 24 2014,Vitoria,0-1,?,Figueirense
+Sun Aug 24 2014,Atletico-PR,0-0,?,Bahia
+Sun Aug 24 2014,Goias,0-1,?,Cruzeiro
+Sat Aug 30 2014,Cruzeiro,4-2,?,Chapecoense-SC
+Sat Aug 30 2014,Palmeiras,0-1,?,Internacional
+Sun Aug 31 2014,Botafogo RJ,1-0,?,Santos
+Sun Aug 31 2014,Corinthians,1-1,?,Fluminense
+Sun Aug 31 2014,Coritiba,0-0,?,Atletico-MG
+Sun Aug 31 2014,Figueirense,1-1,?,Sao Paulo
+Sun Aug 31 2014,Sport Recife,2-0,?,Criciuma
+Sun Aug 31 2014,Goias,3-1,?,Atletico-PR
+Sun Aug 31 2014,Gremio,1-0,?,Bahia
+Sun Aug 31 2014,Vitoria,1-2,?,Flamengo RJ
+Sat Sep 6 2014,Flamengo RJ,0-1,?,Gremio
+Sat Sep 6 2014,Santos,3-1,?,Vitoria
+Sat Sep 6 2014,Chapecoense-SC,0-0,?,Goias
+Sun Sep 7 2014,Atletico-MG,1-0,?,Botafogo RJ
+Sun Sep 7 2014,Criciuma,0-0,?,Corinthians
+Sun Sep 7 2014,Fluminense,3-3,?,Cruzeiro
+Sun Sep 7 2014,Sao Paulo,2-0,?,Sport Recife
+Sun Sep 7 2014,Atletico-PR,1-1,?,Palmeiras
+Sun Sep 7 2014,Bahia,0-0,?,Coritiba
+Sun Sep 7 2014,Internacional,2-3,?,Figueirense
+Wed Sep 10 2014,Figueirense,1-1,?,Fluminense
+Wed Sep 10 2014,Gremio,1-0,?,Atletico-PR
+Wed Sep 10 2014,Palmeiras,1-0,?,Criciuma
+Wed Sep 10 2014,Coritiba,3-0,?,Chapecoense-SC
+Wed Sep 10 2014,Sport Recife,3-1,?,Santos
+Wed Sep 10 2014,Botafogo RJ,2-4,?,Sao Paulo
+Wed Sep 10 2014,Goias,1-0,?,Flamengo RJ
+Wed Sep 10 2014,Vitoria,2-0,?,Internacional
+Thu Sep 11 2014,Corinthians,1-0,?,Atletico-MG
+Thu Sep 11 2014,Cruzeiro,2-1,?,Bahia
+Sat Sep 13 2014,Chapecoense-SC,3-1,?,Sport Recife
+Sat Sep 13 2014,Fluminense,3-0,?,Palmeiras
+Sat Sep 13 2014,Santos,2-1,?,Coritiba
+Sun Sep 14 2014,Bahia,3-0,?,Figueirense
+Sun Sep 14 2014,Flamengo RJ,1-0,?,Corinthians
+Sun Sep 14 2014,Internacional,2-0,?,Botafogo RJ
+Sun Sep 14 2014,Sao Paulo,2-0,?,Cruzeiro
+Sun Sep 14 2014,Atletico-MG,0-0,?,Gremio
+Sun Sep 14 2014,Atletico-PR,2-0,?,Vitoria
+Sun Sep 14 2014,Criciuma,1-0,?,Goias
+Wed Sep 17 2014,Cruzeiro,2-0,?,Atletico-PR
+Wed Sep 17 2014,Vitoria,3-1,?,Fluminense
+Wed Sep 17 2014,Figueirense,1-1,?,Criciuma
+Wed Sep 17 2014,Sport Recife,0-0,?,Internacional
+Wed Sep 17 2014,Botafogo RJ,2-3,?,Bahia
+Wed Sep 17 2014,Coritiba,3-1,?,Sao Paulo
+Wed Sep 17 2014,Palmeiras,2-2,?,Flamengo RJ
+Thu Sep 18 2014,Corinthians,1-1,?,Chapecoense-SC
+Thu Sep 18 2014,Goias,2-3,?,Atletico-MG
+Thu Sep 18 2014,Gremio,0-0,?,Santos
+Sat Sep 20 2014,Atletico-PR,0-1,?,Internacional
+Sat Sep 20 2014,Criciuma,1-1,?,Botafogo RJ
+Sun Sep 21 2014,Corinthians,3-2,?,Sao Paulo
+Sun Sep 21 2014,Cruzeiro,2-3,?,Atletico-MG
+Sun Sep 21 2014,Flamengo RJ,1-1,?,Fluminense
+Sun Sep 21 2014,Sport Recife,1-0,?,Coritiba
+Sun Sep 21 2014,Vitoria,2-1,?,Bahia
+Sun Sep 21 2014,Goias,6-0,?,Palmeiras
+Sun Sep 21 2014,Gremio,1-0,?,Chapecoense-SC
+Sun Sep 21 2014,Santos,3-1,?,Figueirense
+Wed Sep 24 2014,Coritiba,1-2,?,Cruzeiro
+Wed Sep 24 2014,Internacional,3-0,?,Criciuma
+Wed Sep 24 2014,Bahia,1-0,?,Sport Recife
+Wed Sep 24 2014,Chapecoense-SC,3-0,?,Atletico-PR
+Wed Sep 24 2014,Figueirense,1-0,?,Corinthians
+Wed Sep 24 2014,Fluminense,0-0,?,Gremio
+Wed Sep 24 2014,Sao Paulo,2-2,?,Flamengo RJ
+Thu Sep 25 2014,Botafogo RJ,1-0,?,Goias
+Thu Sep 25 2014,Palmeiras,2-0,?,Vitoria
+Thu Sep 25 2014,Atletico-MG,3-2,?,Santos
+Sat Sep 27 2014,Chapecoense-SC,1-1,?,Criciuma
+Sat Sep 27 2014,Sport Recife,0-0,?,Cruzeiro
+Sat Sep 27 2014,Sao Paulo,1-3,?,Fluminense
+Sun Sep 28 2014,Atletico-MG,2-0,?,Vitoria
+Sun Sep 28 2014,Atletico-PR,1-0,?,Corinthians
+Sun Sep 28 2014,Bahia,2-1,?,Flamengo RJ
+Sun Sep 28 2014,Botafogo RJ,0-2,?,Gremio
+Sun Sep 28 2014,Figueirense,3-1,?,Palmeiras
+Sun Sep 28 2014,Internacional,4-2,?,Coritiba
+Sun Sep 28 2014,Santos,2-0,?,Goias
+Thu Oct 2 2014,Palmeiras,4-2,?,Chapecoense-SC
+Sat Oct 4 2014,Coritiba,1-0,?,Atletico-PR
+Sat Oct 4 2014,Flamengo RJ,0-1,?,Santos
+Sat Oct 4 2014,Fluminense,1-1,?,Bahia
+Sat Oct 4 2014,Gremio,0-1,?,Sao Paulo
+Sat Oct 4 2014,Vitoria,2-1,?,Botafogo RJ
+Sat Oct 4 2014,Corinthians,3-0,?,Sport Recife
+Sat Oct 4 2014,Criciuma,3-1,?,Atletico-MG
+Sat Oct 4 2014,Cruzeiro,2-1,?,Internacional
+Sat Oct 4 2014,Goias,1-0,?,Figueirense
+Wed Oct 8 2014,Botafogo RJ,0-1,?,Palmeiras
+Wed Oct 8 2014,Coritiba,1-0,?,Criciuma
+Wed Oct 8 2014,Sao Paulo,1-0,?,Atletico-PR
+Wed Oct 8 2014,Vitoria,2-2,?,Goias
+Wed Oct 8 2014,Cruzeiro,0-1,?,Corinthians
+Wed Oct 8 2014,Figueirense,1-2,?,Flamengo RJ
+Wed Oct 8 2014,Gremio,2-0,?,Sport Recife
+Thu Oct 9 2014,Fluminense,0-0,?,Atletico-MG
+Thu Oct 9 2014,Santos,1-0,?,Bahia
+Thu Oct 9 2014,Chapecoense-SC,5-0,?,Internacional
+Sat Oct 11 2014,Botafogo RJ,1-0,?,Corinthians
+Sat Oct 11 2014,Goias,3-0,?,Coritiba
+Sat Oct 11 2014,Palmeiras,2-1,?,Gremio
+Sun Oct 12 2014,Atletico-MG,1-0,?,Sao Paulo
+Sun Oct 12 2014,Bahia,0-1,?,Chapecoense-SC
+Sun Oct 12 2014,Flamengo RJ,3-0,?,Cruzeiro
+Sun Oct 12 2014,Internacional,2-1,?,Fluminense
+Sun Oct 12 2014,Atletico-PR,3-0,?,Figueirense
+Sun Oct 12 2014,Criciuma,3-0,?,Santos
+Sun Oct 12 2014,Sport Recife,1-2,?,Vitoria
+Sat Oct 18 2014,Fluminense,4-2,?,Criciuma
+Sat Oct 18 2014,Goias,0-0,?,Gremio
+Sat Oct 18 2014,Sao Paulo,2-1,?,Bahia
+Sat Oct 18 2014,Atletico-MG,1-0,?,Chapecoense-SC
+Sun Oct 19 2014,Atletico-PR,2-1,?,Flamengo RJ
+Sun Oct 19 2014,Figueirense,4-0,?,Coritiba
+Sun Oct 19 2014,Internacional,1-2,?,Corinthians
+Sun Oct 19 2014,Palmeiras,1-3,?,Santos
+Sun Oct 19 2014,Botafogo RJ,1-1,?,Sport Recife
+Sun Oct 19 2014,Vitoria,0-1,?,Cruzeiro
+Tue Oct 21 2014,Bahia,1-1,?,Atletico-MG
+Wed Oct 22 2014,Corinthians,2-1,?,Vitoria
+Wed Oct 22 2014,Criciuma,0-1,?,Atletico-PR
+Wed Oct 22 2014,Cruzeiro,1-1,?,Palmeiras
+Wed Oct 22 2014,Flamengo RJ,2-0,?,Internacional
+Wed Oct 22 2014,Coritiba,2-0,?,Botafogo RJ
+Wed Oct 22 2014,Gremio,1-0,?,Figueirense
+Wed Oct 22 2014,Chapecoense-SC,0-0,?,Sao Paulo
+Wed Oct 22 2014,Santos,0-1,?,Fluminense
+Wed Oct 22 2014,Sport Recife,0-1,?,Goias
+Sat Oct 25 2014,Figueirense,1-1,?,Cruzeiro
+Sat Oct 25 2014,Fluminense,2-1,?,Atletico-PR
+Sat Oct 25 2014,Palmeiras,1-1,?,Corinthians
+Sat Oct 25 2014,Atletico-MG,3-2,?,Sport Recife
+Sat Oct 25 2014,Chapecoense-SC,1-1,?,Santos
+Sat Oct 25 2014,Coritiba,1-1,?,Gremio
+Sat Oct 25 2014,Vitoria,3-1,?,Criciuma
+Sat Oct 25 2014,Botafogo RJ,2-1,?,Flamengo RJ
+Sat Oct 25 2014,Internacional,2-0,?,Bahia
+Mon Oct 27 2014,Sao Paulo,3-0,?,Goias
+Sat Nov 1 2014,Goias,0-2,?,Fluminense
+Sat Nov 1 2014,Gremio,1-0,?,Vitoria
+Sat Nov 1 2014,Corinthians,2-2,?,Coritiba
+Sun Nov 2 2014,Criciuma,1-2,?,Sao Paulo
+Sun Nov 2 2014,Cruzeiro,2-1,?,Botafogo RJ
+Sun Nov 2 2014,Santos,1-2,?,Internacional
+Sun Nov 2 2014,Sport Recife,1-0,?,Figueirense
+Sun Nov 2 2014,Atletico-PR,1-0,?,Atletico-MG
+Sun Nov 2 2014,Flamengo RJ,3-0,?,Chapecoense-SC
+Sun Nov 2 2014,Bahia,0-1,?,Palmeiras
+Sat Nov 8 2014,Coritiba,1-0,?,Fluminense
+Sat Nov 8 2014,Palmeiras,0-2,?,Atletico-MG
+Sat Nov 8 2014,Botafogo RJ,0-2,?,Atletico-PR
+Sun Nov 9 2014,Figueirense,1-0,?,Chapecoense-SC
+Sun Nov 9 2014,Gremio,4-1,?,Internacional
+Sun Nov 9 2014,Sport Recife,2-2,?,Flamengo RJ
+Sun Nov 9 2014,Vitoria,1-2,?,Sao Paulo
+Sun Nov 9 2014,Corinthians,1-0,?,Santos
+Sun Nov 9 2014,Cruzeiro,3-1,?,Criciuma
+Sun Nov 9 2014,Goias,3-0,?,Bahia
+Wed Nov 12 2014,Sao Paulo,1-1,?,Internacional
+Sat Nov 15 2014,Criciuma,0-3,?,Gremio
+Sat Nov 15 2014,Fluminense,1-0,?,Botafogo RJ
+Sun Nov 16 2014,Atletico-PR,0-1,?,Sport Recife
+Sun Nov 16 2014,Bahia,1-2,?,Corinthians
+Sun Nov 16 2014,Flamengo RJ,3-2,?,Coritiba
+Sun Nov 16 2014,Internacional,1-0,?,Goias
+Sun Nov 16 2014,Santos,0-1,?,Cruzeiro
+Sun Nov 16 2014,Atletico-MG,1-1,?,Figueirense
+Sun Nov 16 2014,Chapecoense-SC,0-1,?,Vitoria
+Sun Nov 16 2014,Sao Paulo,2-0,?,Palmeiras
+Wed Nov 19 2014,Atletico-PR,1-1,?,Santos
+Wed Nov 19 2014,Botafogo RJ,0-1,?,Figueirense
+Wed Nov 19 2014,Criciuma,0-1,?,Bahia
+Wed Nov 19 2014,Goias,0-1,?,Corinthians
+Wed Nov 19 2014,Vitoria,1-1,?,Coritiba
+Wed Nov 19 2014,Atletico-MG,4-0,?,Flamengo RJ
+Wed Nov 19 2014,Palmeiras,0-2,?,Sport Recife
+Thu Nov 20 2014,Fluminense,1-4,?,Chapecoense-SC
+Thu Nov 20 2014,Gremio,1-2,?,Cruzeiro
+Sat Nov 22 2014,Internacional,2-1,?,Atletico-MG
+Sat Nov 22 2014,Bahia,1-2,?,Atletico-PR
+Sun Nov 23 2014,Cruzeiro,2-1,?,Goias
+Sun Nov 23 2014,Figueirense,2-0,?,Vitoria
+Sun Nov 23 2014,Flamengo RJ,1-1,?,Criciuma
+Sun Nov 23 2014,Santos,0-1,?,Sao Paulo
+Sun Nov 23 2014,Sport Recife,2-2,?,Fluminense
+Sun Nov 23 2014,Chapecoense-SC,2-0,?,Botafogo RJ
+Sun Nov 23 2014,Corinthians,1-0,?,Gremio
+Sun Nov 23 2014,Coritiba,2-0,?,Palmeiras
+Sat Nov 29 2014,Criciuma,2-2,?,Sport Recife
+Sat Nov 29 2014,Internacional,3-1,?,Palmeiras
+Sat Nov 29 2014,Flamengo RJ,4-0,?,Vitoria
+Sun Nov 30 2014,Chapecoense-SC,1-1,?,Cruzeiro
+Sun Nov 30 2014,Fluminense,5-2,?,Corinthians
+Sun Nov 30 2014,Santos,2-0,?,Botafogo RJ
+Sun Nov 30 2014,Sao Paulo,1-1,?,Figueirense
+Sun Nov 30 2014,Atletico-MG,1-2,?,Coritiba
+Sun Nov 30 2014,Atletico-PR,1-0,?,Goias
+Sun Nov 30 2014,Bahia,1-0,?,Gremio
+Sat Dec 6 2014,Corinthians,2-1,?,Criciuma
+Sat Dec 6 2014,Figueirense,1-2,?,Internacional
+Sun Dec 7 2014,Botafogo RJ,0-0,?,Atletico-MG
+Sun Dec 7 2014,Coritiba,3-2,?,Bahia
+Sun Dec 7 2014,Cruzeiro,2-1,?,Fluminense
+Sun Dec 7 2014,Goias,4-2,?,Chapecoense-SC
+Sun Dec 7 2014,Gremio,1-1,?,Flamengo RJ
+Sun Dec 7 2014,Palmeiras,1-1,?,Atletico-PR
+Sun Dec 7 2014,Sport Recife,1-0,?,Sao Paulo
+Sun Dec 7 2014,Vitoria,0-1,?,Santos
