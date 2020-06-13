@@ -1,6 +1,6 @@
-# Mirror - Football-Data
+# Cache - Football-Data
 
-A mirror for the football leagues from 25 seasons back to 1993/94 from Joseph Buchdahl's Football Data website (football-data.co.uk) up and running since 2001 (and updated twice a week).
+A cache for the football leagues from 25 seasons back to 1993/94 from Joseph Buchdahl's Football Data website (football-data.co.uk) up and running since 2001 (and updated twice a week).
 
 
 ## What's Joseph Buchdahl's Football Data?
@@ -51,7 +51,7 @@ and get at least updated twice weekly
 
 
 
-## Why Mirror the Datasets?
+## Why Cache the Datasets?
 
 ### What's unchanged / mirrored?
 
