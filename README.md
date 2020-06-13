@@ -1,6 +1,6 @@
 # Cache - Football-Data
 
-A cache for the football leagues from 25 seasons back to 1993/94 from Joseph Buchdahl's Football Data website (football-data.co.uk) up and running since 2001 (and updated twice a week).
+A cache for datasets for the football leagues from 25 seasons back to 1993/94 from Joseph Buchdahl's Football Data website (football-data.co.uk) up and running since 2001 (and updated twice a week).
 
 
 ## What's Joseph Buchdahl's Football Data?
