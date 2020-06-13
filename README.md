@@ -53,7 +53,7 @@ and get at least updated twice weekly
 
 ## Why Cache the Datasets?
 
-### What's unchanged / mirrored?
+### What's unchanged?
 
 The club names get copied as is incl. typos.
 
