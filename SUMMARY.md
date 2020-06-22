@@ -30,8 +30,8 @@
     Munich 1860 (820)            => TSV 1860 München          | München,  Bayern
     Duisburg (782)               => MSV Duisburg              | Duisburg,  Nordrhein-Westfalen
     St Pauli (782)               => FC St. Pauli              | Hamburg (St. Pauli),  Hamburg
+    Greuther Furth (778)         => SpVgg Greuther Fürth      | Fürth,  Bayern
     Karlsruhe (778)              => Karlsruher SC             | Karlsruhe,  Baden-Württemberg
-    Greuther Furth (777)         => SpVgg Greuther Fürth      | Fürth,  Bayern
     Bielefeld (743)              => Arminia Bielefeld         | Bielefeld,  Nordrhein-Westfalen
     Hansa Rostock (616)                                       | Rostock,  Mecklenburg-Vorpommern
     Cottbus (578)                => Energie Cottbus           | Cottbus,  Brandenburg
@@ -43,7 +43,7 @@
     Paderborn (404)              => SC Paderborn 07           | Paderborn,  Nordrhein-Westfalen
     Unterhaching (374)           => SpVgg Unterhaching        | Unterhaching,  Bayern
     Fortuna Dusseldorf (370)     => Fortuna Düsseldorf        | Düsseldorf,  Nordrhein-Westfalen
-    Dresden (368)                => Dynamo Dresden            | Dresden,  Sachsen
+    Dresden (369)                => Dynamo Dresden            | Dresden,  Sachsen
     Braunschweig (340)           => Eintracht Braunschweig    | Braunschweig,  Niedersachsen
     Ingolstadt (340)             => FC Ingolstadt 04          | Ingolstadt,  Bayern
     Oberhausen (340)             => Rot-Weiß Oberhausen       | Oberhausen,  Nordrhein-Westfalen
@@ -295,12 +295,12 @@ xxx Telford United (92)          => Telford United FC (1872-2004) | Telford,  Sh
     Espanol (985)                => RCD Espanyol              | Barcelona,  Cataluña
     Osasuna (967)                => CA Osasuna                | ?  
     Numancia (939)               => CD Numancia               | ?  
-    Albacete (934)               => Albacete Balompié         | Albacete,  Castilla-La Mancha
+    Albacete (935)               => Albacete Balompié         | Albacete,  Castilla-La Mancha
     Levante (903)                => Levante UD                | Valencia,  Comunidad Valenciana
     Las Palmas (889)             => UD Las Palmas             | Las Palmas,  Islas Canarias
     Mallorca (883)               => RCD Mallorca              | Palma de Mallorca,  Islas Baleares
     Villarreal (875)             => Villarreal CF             | Villarreal,  Comunidad Valenciana
-    Vallecano (868)              => Rayo Vallecano            | Madrid,  Comunidad de Madrid
+    Vallecano (869)              => Rayo Vallecano            | Madrid,  Comunidad de Madrid
     Elche (863)                  => Elche CF                  | Elche,  Comunidad Valenciana
     Santander (849)              => Real Racing Santander     | Santander
     Malaga (845)                 => Málaga CF                 | Málaga,  Andalucía
@@ -327,7 +327,7 @@ xxx Telford United (92)          => Telford United FC (1872-2004) | Telford,  Sh
     Lugo (325)                   => CD Lugo                   | ?  
     Poli Ejido (294)             => Polideportivo Ejido       | ?  
     Badajoz (290)                => CD Badajoz                | Badajoz,  Extremadura
-    Lleida (290)                 => UE Lleida                 | ?  
+xxx Lleida (290)                 => UE Lleida (1939-2011)     | Lleida,  Cataluña
     Ponferradina (283)           => SD Ponferradina           | ?  
     Ferrol (252)                 => Racing Ferrol             | Ferrol,  Galicia
 xxx Extremadura (248)            => CF Extremadura (-2010)    | Almendralejo,  Extremadura
@@ -368,7 +368,7 @@ xxx Extremadura (248)            => CF Extremadura (-2010)    | Almendralejo,  E
     UCAM Murcia (42)                                          | Murcia,  Región de Murcia
     Vecindario (42)              => UD Vecindario             | ?  
     Ecija (38)                   => Écija Balompié            | Écija,  Andalucía
-    Lerida (38)                  => UE Lleida                 | ?  
+xxx Lerida (38)                  => UE Lleida (1939-2011)     | Lleida,  Cataluña
     Villareal (38)               => Villarreal CF             | Villarreal,  Comunidad Valenciana
     Fuenlabrada (31)             => CF Fuenlabrada            | Fuenlabrada,  Comunidad de Madrid
 ```
@@ -377,7 +377,7 @@ xxx Extremadura (248)            => CF Extremadura (-2010)    | Almendralejo,  E
 
 3 duplicates:
 - **Villarreal CF** _(2)_ Villarreal · Villareal
-- **UE Lleida** _(2)_ Lleida · Lerida
+- **UE Lleida (1939-2011)** _(2)_ Lleida · Lerida
 - **CD Ourense** _(2)_ Orense · Ourense
 
 
@@ -532,7 +532,7 @@ xxx Cesena (610)                 => AC Cesena (1940-2018)     | Cesena
     Trapani (196)                => Trapani Calcio            | Trapani
     Virtus Entella (196)                                      | Chiavari
     Ravenna (194)                => Ravenna FC                | Ravenna
-    Foggia (184)                                              | Foggia
+    Foggia (184)                 => Calcio Foggia 1920        | Foggia
     Reggiana (178)               => AC Reggiana               | Reggio Emilia
     Latina (168)                 => SSD Latina Calcio         | Latina
     Rimini (168)                 => Rimini FC SSD             | Rimini
@@ -568,20 +568,20 @@ xxx Cesena (610)                 => AC Cesena (1940-2018)     | Cesena
 ```
     Heerenveen (910)             => SC Heerenveen             | Heerenveen,  Friesland
     PSV Eindhoven (910)                                       | Eindhoven,  Noord-Brabant
-    Vitesse (910)                => Vitesse Arnhem            | Arnhem
+    Vitesse (910)                => Vitesse Arnhem            | Arnhem,  Gelderland
     Ajax (909)                   => Ajax Amsterdam            | Amsterdam,  Noord-Holland
     Feyenoord (909)              => Feyenoord Rotterdam       | Rotterdam,  Zuid-Holland
-    Utrecht (909)                => FC Utrecht                | Utrecht
+    Utrecht (909)                => FC Utrecht                | Utrecht,  Utrecht
     Twente (876)                 => FC Twente                 | Enschede,  Overijssel
-    Groningen (842)              => FC Groningen              | Groningen
+    Groningen (842)              => FC Groningen              | Groningen,  Groningen
     Willem II (842)              => Willem II Tilburg         | Tilburg,  Noord-Brabant
     NAC Breda (782)                                           | Breda,  Noord-Brabant
     AZ Alkmaar (773)                                          | Alkmaar,  Noord-Holland
-    Nijmegen (748)               => NEC Nijmegen              | Nijmegen
+    Nijmegen (748)               => NEC Nijmegen              | Nijmegen,  Gelderland
     Waalwijk (638)               => RKC Waalwijk              | Waalwijk,  Noord-Brabant
     Roda JC (578)                => Roda JC Kerkrade          | Kerkrade,  Limburg
     Den Haag (536)               => ADO Den Haag              | Den Haag,  Zuid-Holland
-    Graafschap (510)             => BV De Graafschap          | Doetinchem
+    Graafschap (510)             => BV De Graafschap          | Doetinchem,  Gelderland
     Heracles (502)               => Heracles Almelo           | Almelo,  Overijssel
     Sparta (476)                 => Sparta Rotterdam          | Rotterdam,  Zuid-Holland
     Excelsior (340)              => SBV Excelsior Rotterdam   | Rotterdam,  Zuid-Holland
@@ -589,15 +589,15 @@ xxx Cesena (610)                 => AC Cesena (1940-2018)     | Cesena
     For Sittard (298)            => Fortuna Sittard           | Sittard,  Limburg
     VVV Venlo (298)                                           | Venlo,  Limburg
     Roda (238)                   => Roda JC Kerkrade          | Kerkrade,  Limburg
-    Volendam (238)               => FC Volendam               | Volendam
+    Volendam (238)               => FC Volendam               | Volendam,  Noord-Holland
     Cambuur (204)                => SC Cambuur                | Leeuwarden,  Friesland
     Go Ahead Eagles (204)                                     | Deventer,  Overijssel
     MVV Maastricht (170)                                      | Maastricht,  Limburg
-    Roosendaal (170)             => RBC Roosendaal            | Roosendaal
+    Roosendaal (170)             => RBC Roosendaal            | Roosendaal,  Noord-Brabant
     Den Bosch (102)              => FC Den Bosch              | 's-Hertogenbosch,  Noord-Brabant
     Sparta Rotterdam (94)                                     | Rotterdam,  Zuid-Holland
     Dordrecht (68)               => FC Dordrecht              | Dordrecht,  Zuid-Holland
-    FC Emmen (60)                                             | Emmen
+    FC Emmen (60)                                             | Emmen,  Drenthe
 ```
 
 
@@ -691,13 +691,13 @@ xxx Cesena (610)                 => AC Cesena (1940-2018)     | Cesena
 45 club names:
 
 ```
-    Benfica (843)                => SL Benfica                | Lisboa
-    Maritimo (843)               => CS Marítimo               | Funchal
-    Porto (843)                  => FC Porto                  | Porto
+    Benfica (844)                => SL Benfica                | Lisboa
+    Maritimo (844)               => CS Marítimo               | Funchal
+    Porto (844)                  => FC Porto                  | Porto
     Sp Braga (843)               => SC Braga                  | Braga
     Sp Lisbon (843)              => Sporting CP               | Lisboa
     Guimaraes (813)              => Vitória de Guimarães      | Guimarães
-    Setubal (741)                => Vitória de Setúbal        | Setúbal
+    Setubal (742)                => Vitória de Setúbal        | Setúbal
     Belenenses (719)             => Os Belenenses             | Lisboa
     Boavista (663)               => Boavista FC               | Porto
     Rio Ave (613)                => Rio Ave FC                | Vila do Conde
@@ -705,7 +705,7 @@ xxx Cesena (610)                 => AC Cesena (1940-2018)     | Cesena
     Leiria (524)                 => União de Leiria           | Leiria
     Academica (512)              => Académica de Coimbra      | Coimbra
     Nacional (512)               => CD Nacional Madeira       | Funchal
-    Gil Vicente (489)            => Gil Vicente FC            | Barcelos
+    Gil Vicente (490)            => Gil Vicente FC            | Barcelos
     Est Amadora (396)            => CF Estrela da Amadora     | Amadora
     Beira Mar (358)              => SC Beira-Mar              | Aveiro
     Moreirense (327)             => Moreirense FC             | Moreira de Cónegos
@@ -714,7 +714,7 @@ xxx Cesena (610)                 => AC Cesena (1940-2018)     | Cesena
     Estoril (230)                => Estoril Praia             | Estoril
     Naval (184)                  => Naval 1º de Maio          | Figueira da Foz
     Alverca (170)                => FC Alverca                | Alverca do Ribatejo
-    Santa Clara (161)            => CD Santa Clara            | Ponta Delgada
+    Santa Clara (162)            => CD Santa Clara            | Ponta Delgada
     Tondela (161)                => CD Tondela                | Tondela
     Aves (157)                   => CD Aves                   | Aves
     Olhanense (150)              => SC Olhanense              | Olhão
@@ -723,7 +723,7 @@ xxx Cesena (610)                 => AC Cesena (1940-2018)     | Cesena
     Desp. Chaves (136)           => Desportivo de Chaves      | Chaves
     Arouca (132)                 => FC Arouca                 | Arouca
     Feirense (132)               => CD Feirense               | Santa Maria da Feira
-    Portimonense (123)           => Portimonense SC           | Portimão
+    Portimonense (124)           => Portimonense SC           | Portimão
     Leca (102)                   => Leça FC                   | Leça da Palmeira
     Penafiel (102)               => FC Penafiel               | Penafiel
     Varzim (102)                 => Varzim SC                 | Póvoa de Varzim
@@ -735,7 +735,7 @@ xxx Cesena (610)                 => AC Cesena (1940-2018)     | Cesena
     Madeira (34)                 => União da Madeira          | Funchal
     Uniao Madeira (34)           => União da Madeira          | Funchal
     Trofense (30)                => CD Trofense               | Tulipa
-    Famalicao (25)               => FC Famalicão              | Vila Nova de Famalicão
+    Famalicao (26)               => FC Famalicão              | Vila Nova de Famalicão
 ```
 
 
@@ -966,9 +966,9 @@ xxx Germinal (592)               => Germinal Beerschot (1920-2013) | Antwerpen, 
     Nautico (76)                 => Náutico PE                | Recife,  Pernambuco
     Portuguesa (76)                                           | São Paulo,  São Paulo
     Athletico-PR (38)            => Atlético PR               | Curitiba,  Paraná
-    CSA (38)                                                  | Maceió,  Alagoas
+    CSA (38)                     => CS Alagoano               | Maceió,  Alagoas
     Fortaleza (38)                                            | Fortaleza,  Ceará
-    Joinville (38)               => Joinvile EC               | Joinville,  Santa Catarina
+    Joinville (38)               => Joinville EC              | Joinville,  Santa Catarina
     Parana (38)                  => Paraná Clube              | Curitiba,  Paraná
     Santa Cruz (38)                                           | Recife,  Pernambuco
 ```
@@ -1244,22 +1244,22 @@ xxx Chivas USA (102)             => CD Chivas USA (2005-2014) | Carson,  Califor
 16 club names:
 
 ```
-    Rapid Vienna (275)           => SK Rapid Wien             | Wien (Hütteldorf),  Wien
-    Sturm Graz (274)             => SK Sturm Graz             | Graz,  Steiermark
-    Admira (272)                 => FC Admira Wacker Mödling  | Maria Enzersdorf (Südstadt),  Niederösterreich
-    Austria Vienna (272)         => FK Austria Wien           | Wien (Favoriten),  Wien
-    Salzburg (272)               => FC RB Salzburg            | Salzburg (Wals-Siezenheim),  Salzburg
-    Wolfsberger AC (272)                                      | Wolfsberg,  Kärnten
-    Mattersburg (201)            => SV Mattersburg            | Mattersburg,  Burgenland
-    Altach (200)                 => SCR Altach                | Altach,  Vorarlberg
+    Rapid Vienna (276)           => SK Rapid Wien             | Wien (Hütteldorf),  Wien
+    Sturm Graz (275)             => SK Sturm Graz             | Graz,  Steiermark
+    Admira (273)                 => FC Admira Wacker Mödling  | Maria Enzersdorf (Südstadt),  Niederösterreich
+    Austria Vienna (273)         => FK Austria Wien           | Wien (Favoriten),  Wien
+    Salzburg (273)               => FC RB Salzburg            | Salzburg (Wals-Siezenheim),  Salzburg
+    Wolfsberger AC (273)                                      | Wolfsberg,  Kärnten
+    Mattersburg (202)            => SV Mattersburg            | Mattersburg,  Burgenland
+    Altach (201)                 => SCR Altach                | Altach,  Vorarlberg
     Ried (180)                   => SV Ried                   | Ried i. Innkreis,  Oberösterreich
-    St. Polten (130)             => SKN St. Pölten            | St. Pölten,  Niederösterreich
+    St. Polten (131)             => SKN St. Pölten            | St. Pölten,  Niederösterreich
     Neustadt (110)               => SC Wiener Neustadt        | Wr. Neustadt,  Niederösterreich
     Grodig (108)                 => SV Grödig                 | Grödig,  Salzburg
     Wacker Innsbruck (104)       => FC Wacker Innsbruck       | Innsbruck,  Tirol
-    LASK (92)                    => LASK Linz                 | Linz (Pasching),  Oberösterreich
-    Hartberg (56)                => TSV Hartberg              | Hartberg,  Steiermark
-    Tirol (24)                   => WSG Tirol                 | Wattens,  Tirol
+    LASK (93)                    => LASK Linz                 | Linz (Pasching),  Oberösterreich
+    Hartberg (57)                => TSV Hartberg              | Hartberg,  Steiermark
+    Tirol (25)                   => WSG Tirol                 | Wattens,  Tirol
 ```
 
 
@@ -1353,22 +1353,22 @@ xxx Chivas USA (102)             => CD Chivas USA (2005-2014) | Carson,  Califor
 27 club names:
 
 ```
-    Jagiellonia (280)            => Jagiellonia Białystok     | Białystok
-    Korona Kielce (280)                                       | Kielce
-    Lech Poznan (280)            => KKS Lech Poznań           | Poznań
-    Lechia Gdansk (280)          => Lechia Gdańsk             | Gdańsk
-    Legia (280)                  => Legia Warszawa            | Warszawa
-    Piast Gliwice (280)                                       | Gliwice
-    Pogon Szczecin (280)         => Pogoń Szczecin            | Szczecin
-    Slask Wroclaw (280)          => WKS Śląsk Wrocław         | Wrocław
-    Wisla (280)                  => Wisła Kraków              | Kraków
-    Cracovia (250)               => KS Cracovia               | Kraków
-    Gornik Z. (243)              => Górnik Zabrze             | Zabrze
-    Zaglebie (243)               => Zagłębie Lubin            | Lubin
+    Jagiellonia (281)            => Jagiellonia Białystok     | Białystok
+    Korona Kielce (281)                                       | Kielce
+    Lech Poznan (281)            => KKS Lech Poznań           | Poznań
+    Lechia Gdansk (281)          => Lechia Gdańsk             | Gdańsk
+    Legia (281)                  => Legia Warszawa            | Warszawa
+    Piast Gliwice (281)                                       | Gliwice
+    Pogon Szczecin (281)         => Pogoń Szczecin            | Szczecin
+    Slask Wroclaw (281)          => WKS Śląsk Wrocław         | Wrocław
+    Wisla (281)                  => Wisła Kraków              | Kraków
+    Cracovia (251)               => KS Cracovia               | Kraków
+    Gornik Z. (244)              => Górnik Zabrze             | Zabrze
+    Zaglebie (244)               => Zagłębie Lubin            | Lubin
     Ruch (178)                   => Ruch Chorzów              | Chorzów
     Podbeskidzie (141)           => Podbeskidzie Bielsko-Biała | Bielsko-Biała
-    Arka Gdynia (139)                                         | Gdynia
-    Wisla Plock (139)            => Wisła Płock               | Płock
+    Arka Gdynia (140)                                         | Gdynia
+    Wisla Plock (140)            => Wisła Płock               | Płock
     Leczna (111)                 => Górnik Łęczna             | Łęczna
     Termalica B-B. (111)         => Bruk-Bet Termalica Nieciecza | Nieciecza
     Zawisza (74)                 => Zawisza Bydgoszcz         | Bydgoszcz
@@ -1378,8 +1378,8 @@ xxx Chivas USA (102)             => CD Chivas USA (2005-2014) | Carson,  Califor
     Sandecja Nowy S. (37)        => Sandecja Nowy Sącz        | Nieciecza
     Zaglebie Sosnowiec (37)      => Zagłębie Sosnowiec        | Sosnowiec
     Polonia Warszawa (30)        => KSP Polonia Warszawa      | Warszawa
-    LKS Lodz (28)                => ŁKS Łódź                  | Łódź
-    Rakow (28)                   => Raków Częstochowa         | Częstochowa
+    LKS Lodz (29)                => ŁKS Łódź                  | Łódź
+    Rakow (29)                   => Raków Częstochowa         | Częstochowa
 ```
 
 
