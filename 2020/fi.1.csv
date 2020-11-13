@@ -1,0 +1,134 @@
+Date,Team 1,FT,HT,Team 2
+Wed Jul 1 2020,Haka,1-1,?,Honka
+Wed Jul 1 2020,HIFK,0-3,?,KuPS
+Wed Jul 1 2020,Ilves,4-3,?,Mariehamn
+Wed Jul 1 2020,Lahti,0-4,?,HJK
+Wed Jul 1 2020,SJK,1-0,?,TPS
+Thu Jul 2 2020,Inter Turku,3-1,?,Rovaniemi
+Tue Jul 7 2020,KuPS,1-0,?,Inter Turku
+Tue Jul 7 2020,TPS,0-1,?,Ilves
+Wed Jul 8 2020,HJK,3-1,?,Haka
+Wed Jul 8 2020,Lahti,0-0,?,SJK
+Wed Jul 8 2020,Mariehamn,0-0,?,Honka
+Wed Jul 8 2020,Rovaniemi,0-1,?,HIFK
+Sat Jul 11 2020,Inter Turku,5-1,?,Ilves
+Sun Jul 12 2020,Honka,1-1,?,KuPS
+Fri Jul 17 2020,Ilves,0-0,?,KuPS
+Fri Jul 17 2020,Inter Turku,1-0,?,HJK
+Fri Jul 17 2020,Rovaniemi,2-2,?,Haka
+Fri Jul 17 2020,SJK,1-2,?,Mariehamn
+Sat Jul 18 2020,Honka,3-1,?,TPS
+Sat Jul 18 2020,HIFK,0-3,?,Lahti
+Tue Jul 21 2020,Rovaniemi,1-1,?,Ilves
+Wed Jul 22 2020,HIFK,2-1,?,SJK
+Wed Jul 22 2020,Honka,1-1,?,Inter Turku
+Wed Jul 22 2020,KuPS,3-0,?,Lahti
+Wed Jul 22 2020,Mariehamn,2-2,?,Haka
+Wed Jul 22 2020,TPS,0-2,?,HJK
+Sat Jul 25 2020,TPS,1-3,?,Lahti
+Sat Jul 25 2020,HJK,2-0,?,Ilves
+Sun Jul 26 2020,Honka,1-0,?,Rovaniemi
+Sun Jul 26 2020,Haka,0-2,?,Inter Turku
+Sun Jul 26 2020,KuPS,2-1,?,SJK
+Sun Jul 26 2020,Mariehamn,0-3,?,HIFK
+Sat Aug 1 2020,HJK,2-2,?,KuPS
+Sat Aug 1 2020,Ilves,2-2,?,HIFK
+Sat Aug 1 2020,Inter Turku,2-1,?,Mariehamn
+Sat Aug 1 2020,Rovaniemi,2-3,?,TPS
+Sat Aug 1 2020,SJK,1-1,?,Haka
+Mon Aug 3 2020,Lahti,0-0,?,Honka
+Wed Aug 5 2020,Haka,0-2,?,HIFK
+Wed Aug 5 2020,Ilves,1-0,?,Rovaniemi
+Wed Aug 5 2020,Mariehamn,2-0,?,Inter Turku
+Wed Aug 5 2020,SJK,1-1,?,KuPS
+Thu Aug 6 2020,HJK,1-1,?,Lahti
+Thu Aug 6 2020,TPS,0-2,?,Honka
+Sun Aug 9 2020,Rovaniemi,2-3,?,Mariehamn
+Sun Aug 9 2020,Inter Turku,2-0,?,Haka
+Sun Aug 9 2020,KuPS,0-3,?,HJK
+Sun Aug 9 2020,Lahti,3-2,?,Ilves
+Mon Aug 10 2020,HIFK,2-0,?,TPS
+Mon Aug 10 2020,Honka,0-0,?,SJK
+Fri Aug 14 2020,Haka,2-4,?,KuPS
+Fri Aug 14 2020,Inter Turku,3-2,?,HIFK
+Fri Aug 14 2020,Lahti,3-0,?,Rovaniemi
+Sat Aug 15 2020,HJK,1-1,?,Honka
+Sat Aug 15 2020,Ilves,0-0,?,SJK
+Sun Aug 16 2020,Mariehamn,1-0,?,TPS
+Tue Aug 18 2020,Haka,1-4,?,HJK
+Tue Aug 18 2020,Rovaniemi,0-2,?,Inter Turku
+Fri Aug 21 2020,SJK,0-2,?,Honka
+Sat Aug 22 2020,TPS,1-0,?,Inter Turku
+Sat Aug 22 2020,Ilves,3-1,?,Lahti
+Sat Aug 22 2020,KuPS,2-1,?,Mariehamn
+Sat Aug 22 2020,Rovaniemi,0-1,?,HJK
+Sun Aug 23 2020,HIFK,0-1,?,Haka
+Wed Aug 26 2020,Haka,2-2,?,Lahti
+Wed Aug 26 2020,HJK,2-0,?,SJK
+Wed Aug 26 2020,Mariehamn,4-0,?,Rovaniemi
+Wed Aug 26 2020,TPS,1-0,?,HIFK
+Sat Aug 29 2020,SJK,2-1,?,Rovaniemi
+Sat Aug 29 2020,KuPS,3-1,?,TPS
+Sun Aug 30 2020,HJK,6-1,?,Mariehamn
+Mon Aug 31 2020,Lahti,2-2,?,Inter Turku
+Tue Sep 1 2020,Haka,0-2,?,Ilves
+Tue Sep 1 2020,Honka,0-1,?,HIFK
+Wed Sep 9 2020,Honka,3-2,?,Ilves
+Wed Sep 9 2020,KuPS,3-0,?,Rovaniemi
+Wed Sep 9 2020,Mariehamn,2-2,?,Lahti
+Wed Sep 9 2020,SJK,3-2,?,Inter Turku
+Wed Sep 9 2020,TPS,2-3,?,Haka
+Thu Sep 10 2020,HIFK,4-3,?,HJK
+Sat Sep 12 2020,Haka,1-4,?,SJK
+Sat Sep 12 2020,Rovaniemi,1-3,?,Honka
+Sun Sep 13 2020,Ilves,1-2,?,HJK
+Mon Sep 14 2020,TPS,1-1,?,Mariehamn
+Mon Sep 14 2020,HIFK,0-0,?,Inter Turku
+Mon Sep 14 2020,Lahti,1-2,?,KuPS
+Thu Sep 17 2020,Lahti,1-1,?,TPS
+Sat Sep 19 2020,HIFK,2-2,?,Mariehamn
+Sat Sep 19 2020,Ilves,1-1,?,Haka
+Sat Sep 19 2020,Inter Turku,0-1,?,SJK
+Sun Sep 20 2020,Honka,0-0,?,HJK
+Sun Sep 20 2020,Rovaniemi,0-2,?,KuPS
+Wed Sep 23 2020,Haka,0-2,?,Rovaniemi
+Wed Sep 23 2020,Inter Turku,0-0,?,Honka
+Wed Sep 23 2020,Mariehamn,0-2,?,Ilves
+Wed Sep 23 2020,SJK,0-1,?,Lahti
+Thu Sep 24 2020,HJK,2-2,?,TPS
+Sun Sep 27 2020,Honka,1-2,?,Haka
+Sun Sep 27 2020,Ilves,4-0,?,TPS
+Sun Sep 27 2020,Mariehamn,0-2,?,KuPS
+Mon Sep 28 2020,HJK,4-0,?,Rovaniemi
+Mon Sep 28 2020,Inter Turku,3-0,?,Lahti
+Mon Sep 28 2020,SJK,3-2,?,HIFK
+Fri Oct 2 2020,HIFK,1-1,?,Honka
+Fri Oct 2 2020,Lahti,3-1,?,Mariehamn
+Mon Oct 5 2020,KuPS,1-1,?,Ilves
+Thu Oct 8 2020,KuPS,3-2,?,HIFK
+Thu Oct 15 2020,Rovaniemi,0-4,?,Lahti
+Thu Oct 15 2020,HIFK,1-2,?,Ilves
+Thu Oct 15 2020,Honka,1-0,?,Mariehamn
+Thu Oct 15 2020,Inter Turku,2-0,?,KuPS
+Thu Oct 15 2020,SJK,1-2,?,HJK
+Fri Oct 16 2020,Haka,2-1,?,TPS
+Sun Oct 18 2020,HJK,3-0,?,HIFK
+Sun Oct 18 2020,Ilves,0-2,?,Inter Turku
+Sun Oct 18 2020,KuPS,0-2,?,Honka
+Sun Oct 18 2020,Mariehamn,2-3,?,SJK
+Mon Oct 19 2020,Lahti,0-0,?,Haka
+Mon Oct 19 2020,TPS,4-1,?,Rovaniemi
+Thu Oct 22 2020,HIFK,1-0,?,Rovaniemi
+Thu Oct 22 2020,Honka,2-1,?,Lahti
+Thu Oct 22 2020,Inter Turku,3-0,?,TPS
+Thu Oct 22 2020,KuPS,2-3,?,Haka
+Thu Oct 22 2020,SJK,1-3,?,Ilves
+Sat Oct 31 2020,TPS,1-0,?,SJK
+Sun Nov 1 2020,Mariehamn,0-5,?,HJK
+Wed Nov 4 2020,Haka,0-1,?,Mariehamn
+Wed Nov 4 2020,HJK,1-1,?,Inter Turku
+Wed Nov 4 2020,Ilves,4-1,?,Honka
+Wed Nov 4 2020,Lahti,2-1,?,HIFK
+Wed Nov 4 2020,Rovaniemi,2-3,?,SJK
+Wed Nov 4 2020,TPS,3-2,?,KuPS
+Wed Nov 11 2020,KTP,0-0,?,TPS

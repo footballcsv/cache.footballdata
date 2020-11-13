@@ -1,0 +1,113 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 8 2020,Khimki,0-2,?,CSKA Moscow
+Sat Aug 8 2020,Tambov,0-1,?,FK Rostov
+Sun Aug 9 2020,Ufa,0-3,?,Krasnodar
+Sun Aug 9 2020,Arsenal Tula,0-0,?,Akhmat Grozny
+Sun Aug 9 2020,Spartak Moscow,2-2,?,Sochi
+Mon Aug 10 2020,Ural,0-2,?,Dynamo Moscow
+Tue Aug 11 2020,R. Volgograd,0-2,?,Zenit
+Tue Aug 11 2020,Rubin Kazan,0-2,?,Lokomotiv Moscow
+Fri Aug 14 2020,Arsenal Tula,2-3,?,Ufa
+Fri Aug 14 2020,Sochi,1-1,?,Khimki
+Fri Aug 14 2020,Spartak Moscow,2-0,?,Akhmat Grozny
+Sat Aug 15 2020,Dynamo Moscow,0-0,?,R. Volgograd
+Sat Aug 15 2020,Rubin Kazan,1-1,?,Ural
+Sat Aug 15 2020,CSKA Moscow,2-1,?,Tambov
+Sat Aug 15 2020,Lokomotiv Moscow,1-0,?,Krasnodar
+Sat Aug 15 2020,FK Rostov,0-2,?,Zenit
+Tue Aug 18 2020,Sochi,3-2,?,Rubin Kazan
+Tue Aug 18 2020,Tambov,1-0,?,Khimki
+Tue Aug 18 2020,Krasnodar,2-0,?,Arsenal Tula
+Wed Aug 19 2020,Ufa,1-1,?,Spartak Moscow
+Wed Aug 19 2020,Ural,1-1,?,Lokomotiv Moscow
+Wed Aug 19 2020,Akhmat Grozny,3-1,?,R. Volgograd
+Wed Aug 19 2020,Dynamo Moscow,2-0,?,FK Rostov
+Wed Aug 19 2020,Zenit,2-1,?,CSKA Moscow
+Sat Aug 22 2020,Ural,1-0,?,Krasnodar
+Sat Aug 22 2020,Khimki,1-2,?,Akhmat Grozny
+Sat Aug 22 2020,Arsenal Tula,2-0,?,Dynamo Moscow
+Sat Aug 22 2020,Zenit,4-1,?,Tambov
+Sat Aug 22 2020,CSKA Moscow,1-2,?,Rubin Kazan
+Sat Aug 22 2020,R. Volgograd,1-2,?,Sochi
+Sun Aug 23 2020,Ufa,0-1,?,FK Rostov
+Sun Aug 23 2020,Spartak Moscow,2-1,?,Lokomotiv Moscow
+Tue Aug 25 2020,Tambov,0-1,?,Sochi
+Tue Aug 25 2020,Arsenal Tula,1-1,?,Khimki
+Wed Aug 26 2020,Lokomotiv Moscow,2-3,?,Akhmat Grozny
+Wed Aug 26 2020,R. Volgograd,0-1,?,Spartak Moscow
+Wed Aug 26 2020,Rubin Kazan,3-0,?,Ufa
+Wed Aug 26 2020,FK Rostov,1-0,?,Ural
+Wed Aug 26 2020,Krasnodar,1-1,?,CSKA Moscow
+Wed Aug 26 2020,Dynamo Moscow,1-0,?,Zenit
+Sat Aug 29 2020,Spartak Moscow,2-1,?,Arsenal Tula
+Sat Aug 29 2020,Khimki,1-1,?,R. Volgograd
+Sun Aug 30 2020,Ufa,1-1,?,Dynamo Moscow
+Sun Aug 30 2020,Lokomotiv Moscow,0-0,?,Zenit
+Sun Aug 30 2020,Akhmat Grozny,0-3,?,CSKA Moscow
+Sun Aug 30 2020,Rubin Kazan,2-2,?,Tambov
+Sun Aug 30 2020,Krasnodar,1-1,?,FK Rostov
+Sun Aug 30 2020,Sochi,0-0,?,Ural
+Sat Sep 12 2020,Tambov,2-0,?,Ufa
+Sat Sep 12 2020,Ural,3-1,?,Khimki
+Sat Sep 12 2020,Akhmat Grozny,0-1,?,Sochi
+Sun Sep 13 2020,Dynamo Moscow,0-1,?,Rubin Kazan
+Sun Sep 13 2020,CSKA Moscow,3-1,?,Spartak Moscow
+Sun Sep 13 2020,R. Volgograd,0-3,?,Krasnodar
+Mon Sep 14 2020,Zenit,3-1,?,Arsenal Tula
+Mon Sep 14 2020,FK Rostov,0-0,?,Lokomotiv Moscow
+Fri Sep 18 2020,Krasnodar,7-2,?,Khimki
+Sat Sep 19 2020,FK Rostov,3-0,?,R. Volgograd
+Sat Sep 19 2020,Ural,1-1,?,Zenit
+Sun Sep 20 2020,Arsenal Tula,3-2,?,Sochi
+Sun Sep 20 2020,Ufa,0-1,?,CSKA Moscow
+Sun Sep 20 2020,Rubin Kazan,0-2,?,Spartak Moscow
+Sun Sep 20 2020,Lokomotiv Moscow,1-0,?,Tambov
+Mon Sep 21 2020,Dynamo Moscow,1-0,?,Akhmat Grozny
+Sat Sep 26 2020,Tambov,0-2,?,Spartak Moscow
+Sat Sep 26 2020,Zenit,6-0,?,Ufa
+Sat Sep 26 2020,Sochi,1-1,?,Krasnodar
+Sun Sep 27 2020,Arsenal Tula,2-3,?,FK Rostov
+Sun Sep 27 2020,Akhmat Grozny,2-0,?,Ural
+Sun Sep 27 2020,CSKA Moscow,0-1,?,Lokomotiv Moscow
+Sun Sep 27 2020,R. Volgograd,1-3,?,Rubin Kazan
+Mon Sep 28 2020,Khimki,1-0,?,Dynamo Moscow
+Sat Oct 3 2020,Ufa,0-0,?,R. Volgograd
+Sat Oct 3 2020,Tambov,1-1,?,Arsenal Tula
+Sat Oct 3 2020,Ural,0-2,?,CSKA Moscow
+Sat Oct 3 2020,Spartak Moscow,1-1,?,Zenit
+Sun Oct 4 2020,Lokomotiv Moscow,2-1,?,Khimki
+Sun Oct 4 2020,Rubin Kazan,1-1,?,Akhmat Grozny
+Sun Oct 4 2020,Sochi,4-2,?,FK Rostov
+Sun Oct 4 2020,Dynamo Moscow,2-0,?,Krasnodar
+Sat Oct 17 2020,Zenit,3-1,?,Sochi
+Sat Oct 17 2020,Krasnodar,3-1,?,Rubin Kazan
+Sat Oct 17 2020,Lokomotiv Moscow,1-0,?,Ufa
+Sat Oct 17 2020,Khimki,2-3,?,Spartak Moscow
+Sun Oct 18 2020,Arsenal Tula,1-0,?,Ural
+Sun Oct 18 2020,R. Volgograd,0-2,?,Tambov
+Sun Oct 18 2020,CSKA Moscow,3-1,?,Dynamo Moscow
+Sun Oct 18 2020,FK Rostov,3-0,?,Akhmat Grozny
+Sat Oct 24 2020,Dynamo Moscow,3-1,?,Sochi
+Sat Oct 24 2020,Zenit,1-2,?,Rubin Kazan
+Sat Oct 24 2020,Krasnodar,1-3,?,Spartak Moscow
+Sat Oct 24 2020,Lokomotiv Moscow,1-2,?,R. Volgograd
+Sun Oct 25 2020,Ural,0-0,?,Tambov
+Sun Oct 25 2020,FK Rostov,0-2,?,Khimki
+Sun Oct 25 2020,Akhmat Grozny,3-1,?,Ufa
+Mon Oct 26 2020,CSKA Moscow,5-1,?,Arsenal Tula
+Sat Oct 31 2020,Rubin Kazan,3-1,?,Arsenal Tula
+Sat Oct 31 2020,Akhmat Grozny,2-0,?,Krasnodar
+Sat Oct 31 2020,Spartak Moscow,0-1,?,FK Rostov
+Sat Oct 31 2020,Sochi,2-1,?,Lokomotiv Moscow
+Sun Nov 1 2020,Ufa,1-2,?,Ural
+Sun Nov 1 2020,Khimki,0-2,?,Zenit
+Sun Nov 1 2020,R. Volgograd,0-1,?,CSKA Moscow
+Sun Nov 1 2020,Tambov,1-2,?,Dynamo Moscow
+Fri Nov 6 2020,Sochi,1-1,?,Ufa
+Sat Nov 7 2020,Ural,2-2,?,Spartak Moscow
+Sat Nov 7 2020,Arsenal Tula,1-1,?,R. Volgograd
+Sat Nov 7 2020,Tambov,0-1,?,Akhmat Grozny
+Sun Nov 8 2020,Khimki,2-0,?,Rubin Kazan
+Sun Nov 8 2020,CSKA Moscow,2-0,?,FK Rostov
+Sun Nov 8 2020,Dynamo Moscow,5-1,?,Lokomotiv Moscow
+Sun Nov 8 2020,Zenit,3-1,?,Krasnodar

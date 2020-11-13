@@ -1,0 +1,119 @@
+Date,Team 1,FT,HT,Team 2
+Sat Sep 12 2020,Ponferradina,1-2,1-1,Castellon
+Sat Sep 12 2020,Leganes,1-0,0-0,Las Palmas
+Sat Sep 12 2020,Sp Gijon,1-0,0-0,Logrones
+Sat Sep 12 2020,Espanol,3-0,2-0,Albacete
+Sun Sep 13 2020,Oviedo,0-0,0-0,Cartagena
+Sun Sep 13 2020,Mallorca,0-1,0-0,Vallecano
+Sun Sep 13 2020,Fuenlabrada,2-0,0-0,Lugo
+Sun Sep 13 2020,Mirandes,0-0,0-0,Alcorcon
+Sun Sep 13 2020,Tenerife,2-0,1-0,Malaga
+Sat Sep 19 2020,Mirandes,1-1,0-0,Oviedo
+Sat Sep 19 2020,Alcorcon,2-0,0-0,Tenerife
+Sat Sep 19 2020,Castellon,0-1,0-1,Malaga
+Sat Sep 19 2020,Vallecano,2-1,0-1,Sabadell
+Sun Sep 20 2020,Lugo,2-1,0-1,Leganes
+Sun Sep 20 2020,Espanol,0-0,0-0,Mallorca
+Sun Sep 20 2020,Albacete,0-2,0-1,Ponferradina
+Sun Sep 20 2020,Cartagena,0-1,0-0,Sp Gijon
+Sun Sep 20 2020,Las Palmas,3-3,1-0,Fuenlabrada
+Sat Sep 26 2020,Zaragoza,2-2,1-1,Las Palmas
+Sat Sep 26 2020,Logrones,1-1,0-0,Castellon
+Sat Sep 26 2020,Malaga,1-0,1-0,Alcorcon
+Sat Sep 26 2020,Sp Gijon,2-0,0-0,Girona
+Sat Sep 26 2020,Fuenlabrada,1-0,0-0,Albacete
+Sun Sep 27 2020,Lugo,0-2,0-2,Almeria
+Sun Sep 27 2020,Mallorca,1-0,0-0,Sabadell
+Sun Sep 27 2020,Oviedo,0-2,0-0,Espanol
+Sun Sep 27 2020,Ponferradina,3-0,3-0,Vallecano
+Sun Sep 27 2020,Tenerife,1-2,1-1,Mirandes
+Sun Sep 27 2020,Leganes,3-1,3-0,Cartagena
+Sat Oct 3 2020,Alcorcon,0-0,0-0,Zaragoza
+Sat Oct 3 2020,Mirandes,0-1,0-0,Ponferradina
+Sat Oct 3 2020,Albacete,1-1,0-1,Oviedo
+Sat Oct 3 2020,Mallorca,2-0,1-0,Tenerife
+Sat Oct 3 2020,Las Palmas,2-1,0-0,Logrones
+Sat Oct 3 2020,Vallecano,4-0,2-0,Malaga
+Sun Oct 4 2020,Girona,0-1,0-1,Fuenlabrada
+Sun Oct 4 2020,Sabadell,0-1,0-0,Espanol
+Sun Oct 4 2020,Almeria,0-1,0-0,Sp Gijon
+Sun Oct 4 2020,Castellon,2-0,1-0,Leganes
+Sun Oct 4 2020,Cartagena,2-1,1-0,Lugo
+Sat Oct 10 2020,Sabadell,0-2,0-0,Mirandes
+Sat Oct 10 2020,Espanol,1-0,0-0,Alcorcon
+Sat Oct 10 2020,Logrones,1-0,0-0,Almeria
+Sat Oct 10 2020,Tenerife,1-0,0-0,Vallecano
+Sun Oct 11 2020,Fuenlabrada,1-1,1-0,Castellon
+Sun Oct 11 2020,Lugo,0-1,0-0,Mallorca
+Sun Oct 11 2020,Leganes,0-1,0-1,Girona
+Sun Oct 11 2020,Malaga,0-0,0-0,Las Palmas
+Sun Oct 11 2020,Zaragoza,1-0,0-0,Albacete
+Sun Oct 11 2020,Ponferradina,0-2,0-0,Cartagena
+Sun Oct 11 2020,Oviedo,1-0,1-0,Sp Gijon
+Sat Oct 17 2020,Albacete,3-0,1-0,Sabadell
+Sat Oct 17 2020,Castellon,0-1,0-0,Lugo
+Sat Oct 17 2020,Cartagena,1-1,0-0,Fuenlabrada
+Sat Oct 17 2020,Las Palmas,2-0,1-0,Almeria
+Sat Oct 17 2020,Logrones,0-1,0-1,Leganes
+Sun Oct 18 2020,Vallecano,1-0,0-0,Espanol
+Sun Oct 18 2020,Mirandes,0-0,0-0,Mallorca
+Sun Oct 18 2020,Zaragoza,1-2,0-2,Malaga
+Sun Oct 18 2020,Girona,1-0,0-0,Oviedo
+Sun Oct 18 2020,Sp Gijon,1-1,0-0,Tenerife
+Wed Oct 21 2020,Espanol,2-0,2-0,Mirandes
+Wed Oct 21 2020,Las Palmas,2-1,0-0,Castellon
+Wed Oct 21 2020,Lugo,3-0,0-0,Girona
+Wed Oct 21 2020,Ponferradina,1-0,1-0,Tenerife
+Wed Oct 21 2020,Almeria,1-1,0-1,Cartagena
+Wed Oct 21 2020,Fuenlabrada,0-0,0-0,Logrones
+Thu Oct 22 2020,Leganes,1-0,0-0,Zaragoza
+Thu Oct 22 2020,Malaga,1-0,1-0,Sp Gijon
+Thu Oct 22 2020,Mallorca,0-0,0-0,Albacete
+Thu Oct 22 2020,Oviedo,0-0,0-0,Vallecano
+Sat Oct 24 2020,Cartagena,3-0,2-0,Las Palmas
+Sat Oct 24 2020,Logrones,2-3,1-0,Lugo
+Sat Oct 24 2020,Almeria,3-0,1-0,Fuenlabrada
+Sat Oct 24 2020,Castellon,0-1,0-1,Girona
+Sun Oct 25 2020,Sp Gijon,2-1,0-1,Ponferradina
+Sun Oct 25 2020,Leganes,2-1,0-0,Oviedo
+Sun Oct 25 2020,Tenerife,0-0,0-0,Espanol
+Sun Oct 25 2020,Albacete,2-1,1-0,Vallecano
+Sun Oct 25 2020,Malaga,1-1,1-0,Mirandes
+Sun Oct 25 2020,Zaragoza,0-0,0-0,Sabadell
+Mon Oct 26 2020,Alcorcon,0-2,0-2,Mallorca
+Tue Oct 27 2020,Girona,2-1,1-1,Cartagena
+Wed Oct 28 2020,Albacete,1-1,1-0,Las Palmas
+Wed Oct 28 2020,Castellon,1-2,0-1,Almeria
+Wed Oct 28 2020,Espanol,2-0,1-0,Ponferradina
+Wed Oct 28 2020,Oviedo,2-3,1-0,Logrones
+Thu Oct 29 2020,Alcorcon,1-2,0-0,Sp Gijon
+Thu Oct 29 2020,Mallorca,3-1,1-0,Malaga
+Thu Oct 29 2020,Mirandes,1-0,0-0,Zaragoza
+Thu Oct 29 2020,Tenerife,1-1,1-0,Lugo
+Thu Oct 29 2020,Sabadell,1-0,0-0,Leganes
+Thu Oct 29 2020,Vallecano,2-0,0-0,Fuenlabrada
+Sat Oct 31 2020,Cartagena,3-1,3-0,Albacete
+Sat Oct 31 2020,Las Palmas,1-2,0-2,Oviedo
+Sun Nov 1 2020,Leganes,1-0,0-0,Mirandes
+Sun Nov 1 2020,Zaragoza,0-0,0-0,Mallorca
+Sun Nov 1 2020,Fuenlabrada,1-1,1-0,Tenerife
+Sun Nov 1 2020,Ponferradina,0-3,0-1,Sabadell
+Sun Nov 1 2020,Lugo,1-0,1-0,Vallecano
+Sun Nov 1 2020,Almeria,0-0,0-0,Girona
+Mon Nov 2 2020,Logrones,1-0,1-0,Alcorcon
+Mon Nov 2 2020,Sp Gijon,1-0,1-0,Castellon
+Mon Nov 2 2020,Malaga,0-3,0-1,Espanol
+Wed Nov 4 2020,Zaragoza,2-2,0-1,Girona
+Thu Nov 5 2020,Alcorcon,0-1,0-0,Ponferradina
+Thu Nov 5 2020,Sabadell,1-2,1-1,Almeria
+Fri Nov 6 2020,Albacete,0-0,0-0,Leganes
+Sat Nov 7 2020,Cartagena,0-1,0-0,Logrones
+Sat Nov 7 2020,Mirandes,1-0,1-0,Sp Gijon
+Sat Nov 7 2020,Espanol,2-1,1-1,Lugo
+Sun Nov 8 2020,Sabadell,1-2,1-1,Malaga
+Sun Nov 8 2020,Alcorcon,0-3,0-1,Fuenlabrada
+Sun Nov 8 2020,Vallecano,0-1,0-0,Almeria
+Sun Nov 8 2020,Mallorca,3-0,2-0,Ponferradina
+Sun Nov 8 2020,Oviedo,4-0,1-0,Castellon
+Sun Nov 8 2020,Tenerife,1-0,1-0,Zaragoza
+Mon Nov 9 2020,Girona,1-1,0-1,Las Palmas

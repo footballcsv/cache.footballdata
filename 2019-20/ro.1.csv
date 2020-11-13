@@ -32,44 +32,44 @@ Fri Aug 9 2019,Poli Iasi,2-0,?,Din. Bucuresti
 Sat Aug 10 2019,Gaz Metan Medias,1-0,?,Astra
 Sat Aug 10 2019,CFR Cluj,3-0,?,FC Hermannstadt
 Sun Aug 11 2019,U Craiova,0-1,?,Sepsi Sf. Gheorghe
-Sun Aug 11 2019,FC Steaua Bucuresti,1-3,?,FC FC Voluntari
+Sun Aug 11 2019,FC Steaua Bucuresti,1-3,?,FC Voluntari
 Mon Aug 12 2019,Viitorul Constanta,2-2,?,FC Botosani
 Fri Aug 16 2019,FC Hermannstadt,2-1,?,Academica Clinceni
 Fri Aug 16 2019,Chindia Targoviste,3-2,?,Din. Bucuresti
 Sat Aug 17 2019,Sepsi Sf. Gheorghe,1-1,?,CFR Cluj
 Sun Aug 18 2019,FC Botosani,1-1,?,U Craiova
 Sun Aug 18 2019,FC Steaua Bucuresti,1-2,?,Poli Iasi
-Mon Aug 19 2019,FC FC Voluntari,0-3,?,Gaz Metan Medias
+Mon Aug 19 2019,FC Voluntari,0-3,?,Gaz Metan Medias
 Mon Aug 19 2019,Astra,1-1,?,Viitorul Constanta
 Fri Aug 23 2019,Poli Iasi,2-2,?,Chindia Targoviste
 Fri Aug 23 2019,U Craiova,1-0,?,Astra
 Sat Aug 24 2019,Academica Clinceni,1-1,?,Sepsi Sf. Gheorghe
 Sat Aug 24 2019,CFR Cluj,4-1,?,FC Botosani
-Sun Aug 25 2019,Viitorul Constanta,4-0,?,FC FC Voluntari
+Sun Aug 25 2019,Viitorul Constanta,4-0,?,FC Voluntari
 Sun Aug 25 2019,Gaz Metan Medias,4-0,?,FC Steaua Bucuresti
 Mon Aug 26 2019,Din. Bucuresti,3-0,?,FC Hermannstadt
 Fri Aug 30 2019,FC Botosani,2-2,?,Academica Clinceni
-Fri Aug 30 2019,FC FC Voluntari,1-2,?,U Craiova
+Fri Aug 30 2019,FC Voluntari,1-2,?,U Craiova
 Sat Aug 31 2019,Gaz Metan Medias,3-2,?,Poli Iasi
 Sat Aug 31 2019,Astra,3-2,?,CFR Cluj
 Sun Sep 1 2019,FC Hermannstadt,2-1,?,Chindia Targoviste
 Sun Sep 1 2019,FC Steaua Bucuresti,2-1,?,Viitorul Constanta
 Mon Sep 2 2019,Sepsi Sf. Gheorghe,0-1,?,Din. Bucuresti
 Fri Sep 13 2019,Academica Clinceni,1-1,?,Astra
-Fri Sep 13 2019,CFR Cluj,5-0,?,FC FC Voluntari
+Fri Sep 13 2019,CFR Cluj,5-0,?,FC Voluntari
 Sat Sep 14 2019,Chindia Targoviste,0-0,?,Sepsi Sf. Gheorghe
 Sat Sep 14 2019,Din. Bucuresti,1-1,?,FC Botosani
 Sun Sep 15 2019,Poli Iasi,0-0,?,FC Hermannstadt
 Sun Sep 15 2019,U Craiova,0-1,?,FC Steaua Bucuresti
 Mon Sep 16 2019,Viitorul Constanta,4-1,?,Gaz Metan Medias
 Fri Sep 20 2019,Gaz Metan Medias,2-3,?,U Craiova
-Sat Sep 21 2019,FC FC Voluntari,1-2,?,Academica Clinceni
+Sat Sep 21 2019,FC Voluntari,1-2,?,Academica Clinceni
 Sat Sep 21 2019,Sepsi Sf. Gheorghe,3-0,?,FC Hermannstadt
 Sat Sep 21 2019,Astra,3-2,?,Din. Bucuresti
 Sun Sep 22 2019,FC Botosani,0-3,?,Chindia Targoviste
 Sun Sep 22 2019,FC Steaua Bucuresti,0-0,?,CFR Cluj
 Mon Sep 23 2019,Viitorul Constanta,2-1,?,Poli Iasi
-Fri Sep 27 2019,Din. Bucuresti,2-1,?,FC FC Voluntari
+Fri Sep 27 2019,Din. Bucuresti,2-1,?,FC Voluntari
 Sat Sep 28 2019,FC Hermannstadt,0-1,?,FC Botosani
 Sat Sep 28 2019,Chindia Targoviste,1-0,?,Astra
 Sun Sep 29 2019,Academica Clinceni,0-3,?,FC Steaua Bucuresti
@@ -81,7 +81,7 @@ Fri Oct 4 2019,U Craiova,1-1,?,Poli Iasi
 Sat Oct 5 2019,Gaz Metan Medias,2-1,?,Academica Clinceni
 Sat Oct 5 2019,FC Steaua Bucuresti,1-1,?,Din. Bucuresti
 Sun Oct 6 2019,Viitorul Constanta,3-1,?,CFR Cluj
-Mon Oct 7 2019,FC FC Voluntari,0-1,?,Chindia Targoviste
+Mon Oct 7 2019,FC Voluntari,0-1,?,Chindia Targoviste
 Mon Oct 7 2019,Astra,0-0,?,FC Hermannstadt
 Fri Oct 18 2019,FC Hermannstadt,0-0,?,FC Voluntari
 Fri Oct 18 2019,Din. Bucuresti,2-0,?,Gaz Metan Medias
@@ -194,3 +194,70 @@ Sun Mar 8 2020,Chindia Targoviste,1-1,?,Sepsi Sf. Gheorghe
 Sun Mar 8 2020,FC Steaua Bucuresti,4-1,?,U Craiova
 Mon Mar 9 2020,FC Voluntari,1-1,?,FC Hermannstadt
 Mon Mar 9 2020,Gaz Metan Medias,0-0,?,CFR Cluj
+Sat Jun 13 2020,FC Voluntari,3-0,?,Academica Clinceni
+Sat Jun 13 2020,Sepsi Sf. Gheorghe,1-1,?,FC Hermannstadt
+Sun Jun 14 2020,Viitorul Constanta,2-1,?,Poli Iasi
+Sun Jun 14 2020,CFR Cluj,1-0,?,FC Steaua Bucuresti
+Mon Jun 15 2020,Astra,0-0,?,Gaz Metan Medias
+Tue Jun 16 2020,Sepsi Sf. Gheorghe,1-2,?,FC Voluntari
+Wed Jun 17 2020,Chindia Targoviste,2-1,?,Viitorul Constanta
+Thu Jun 18 2020,Poli Iasi,0-1,?,Academica Clinceni
+Fri Jun 19 2020,U Craiova,2-1,?,Astra
+Sat Jun 20 2020,FC Botosani,0-2,?,CFR Cluj
+Sun Jun 21 2020,FC Voluntari,1-0,?,Poli Iasi
+Sun Jun 21 2020,Din. Bucuresti,1-3,?,Sepsi Sf. Gheorghe
+Sun Jun 21 2020,FC Steaua Bucuresti,2-2,?,Gaz Metan Medias
+Mon Jun 22 2020,Academica Clinceni,1-0,?,Chindia Targoviste
+Mon Jun 22 2020,Viitorul Constanta,4-1,?,FC Hermannstadt
+Tue Jun 23 2020,U Craiova,2-1,?,FC Botosani
+Fri Jun 26 2020,FC Hermannstadt,0-1,?,Academica Clinceni
+Fri Jun 26 2020,Gaz Metan Medias,0-2,?,FC Botosani
+Sat Jun 27 2020,Chindia Targoviste,0-2,?,Poli Iasi
+Sat Jun 27 2020,Sepsi Sf. Gheorghe,3-3,?,Viitorul Constanta
+Sun Jun 28 2020,Din. Bucuresti,0-1,?,FC Voluntari
+Sun Jun 28 2020,CFR Cluj,2-3,?,U Craiova
+Mon Jun 29 2020,Astra,3-2,?,FC Steaua Bucuresti
+Tue Jun 30 2020,Poli Iasi,2-3,?,FC Hermannstadt
+Wed Jul 1 2020,Academica Clinceni,1-0,?,Sepsi Sf. Gheorghe
+Wed Jul 1 2020,FC Voluntari,2-0,?,Chindia Targoviste
+Thu Jul 2 2020,Viitorul Constanta,1-0,?,Din. Bucuresti
+Fri Jul 3 2020,Gaz Metan Medias,1-2,?,U Craiova
+Sat Jul 4 2020,FC Steaua Bucuresti,1-1,?,FC Botosani
+Sun Jul 5 2020,Poli Iasi,3-1,?,Sepsi Sf. Gheorghe
+Sun Jul 5 2020,Academica Clinceni,1-3,?,Din. Bucuresti
+Sun Jul 5 2020,Astra,2-2,?,CFR Cluj
+Mon Jul 6 2020,Chindia Targoviste,0-1,?,FC Hermannstadt
+Mon Jul 6 2020,FC Voluntari,0-0,?,Viitorul Constanta
+Fri Jul 10 2020,FC Botosani,0-0,?,Astra
+Sat Jul 11 2020,Viitorul Constanta,5-0,?,Academica Clinceni
+Sat Jul 11 2020,FC Hermannstadt,2-1,?,FC Voluntari
+Sun Jul 12 2020,Din. Bucuresti,1-1,?,Poli Iasi
+Sun Jul 12 2020,U Craiova,2-1,?,FC Steaua Bucuresti
+Mon Jul 13 2020,Sepsi Sf. Gheorghe,2-0,?,Chindia Targoviste
+Mon Jul 13 2020,CFR Cluj,2-0,?,Gaz Metan Medias
+Fri Jul 17 2020,Academica Clinceni,2-1,?,FC Voluntari
+Fri Jul 17 2020,Gaz Metan Medias,0-4,?,Astra
+Sat Jul 18 2020,FC Hermannstadt,2-2,?,Sepsi Sf. Gheorghe
+Sun Jul 19 2020,FC Botosani,0-2,?,U Craiova
+Mon Jul 20 2020,Poli Iasi,1-1,?,Viitorul Constanta
+Sat Jul 25 2020,Viitorul Constanta,4-1,?,Chindia Targoviste
+Sat Jul 25 2020,Gaz Metan Medias,0-1,?,FC Steaua Bucuresti
+Sun Jul 26 2020,Academica Clinceni,3-0,?,Poli Iasi
+Sun Jul 26 2020,FC Voluntari,2-0,?,Sepsi Sf. Gheorghe
+Tue Jul 28 2020,CFR Cluj,1-0,?,FC Botosani
+Wed Jul 29 2020,Chindia Targoviste,3-1,?,Academica Clinceni
+Wed Jul 29 2020,FC Hermannstadt,2-0,?,Viitorul Constanta
+Thu Jul 30 2020,Poli Iasi,2-1,?,FC Voluntari
+Fri Jul 31 2020,FC Steaua Bucuresti,0-2,?,CFR Cluj
+Sat Aug 1 2020,Academica Clinceni,0-2,?,FC Hermannstadt
+Sat Aug 1 2020,Viitorul Constanta,0-3,?,Sepsi Sf. Gheorghe
+Sat Aug 1 2020,FC Botosani,4-1,?,Gaz Metan Medias
+Sun Aug 2 2020,Poli Iasi,1-0,?,Chindia Targoviste
+Sun Aug 2 2020,FC Voluntari,1-2,?,Din. Bucuresti
+Mon Aug 3 2020,U Craiova,1-3,?,CFR Cluj
+Wed Aug 5 2020,Chindia Targoviste,2-0,?,FC Voluntari
+Wed Aug 5 2020,Din. Bucuresti,1-1,?,Viitorul Constanta
+Wed Aug 5 2020,FC Hermannstadt,2-2,?,Poli Iasi
+Wed Aug 5 2020,Sepsi Sf. Gheorghe,1-0,?,Academica Clinceni
+Sun Aug 9 2020,Chindia Targoviste,2-0,?,Mioveni
+Wed Aug 12 2020,Mioveni,1-1,?,Chindia Targoviste
