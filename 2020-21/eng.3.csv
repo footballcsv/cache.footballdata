@@ -1,0 +1,125 @@
+Date,Team 1,FT,HT,Team 2
+Sat Sep 12 2020,Accrington,2-0,1-0,Peterboro
+Sat Sep 12 2020,Crewe,0-2,0-2,Charlton
+Sat Sep 12 2020,Doncaster,1-1,0-0,Milton Keynes Dons
+Sat Sep 12 2020,Fleetwood Town,2-1,1-0,Burton
+Sat Sep 12 2020,Gillingham,0-2,0-1,Hull
+Sat Sep 12 2020,Lincoln,2-0,1-0,Oxford
+Sat Sep 12 2020,Northampton,2-2,2-2,AFC Wimbledon
+Sat Sep 12 2020,Plymouth,1-0,1-0,Blackpool
+Sat Sep 12 2020,Portsmouth,0-0,0-0,Shrewsbury
+Sat Sep 12 2020,Sunderland,1-1,0-1,Bristol Rvs
+Sat Sep 12 2020,Swindon,3-1,3-0,Rochdale
+Sun Sep 13 2020,Ipswich,2-0,1-0,Wigan
+Sat Sep 19 2020,AFC Wimbledon,4-4,1-2,Plymouth
+Sat Sep 19 2020,Blackpool,2-0,1-0,Swindon
+Sat Sep 19 2020,Bristol Rvs,0-2,0-0,Ipswich
+Sat Sep 19 2020,Burton,2-1,0-0,Accrington
+Sat Sep 19 2020,Charlton,1-3,0-1,Doncaster
+Sat Sep 19 2020,Hull,1-0,0-0,Crewe
+Sat Sep 19 2020,Milton Keynes Dons,1-2,0-1,Lincoln
+Sat Sep 19 2020,Oxford,0-2,0-0,Sunderland
+Sat Sep 19 2020,Peterboro,2-1,0-0,Fleetwood Town
+Sat Sep 19 2020,Shrewsbury,1-2,0-1,Northampton
+Sat Sep 19 2020,Wigan,2-3,1-2,Gillingham
+Sun Sep 20 2020,Rochdale,0-0,0-0,Portsmouth
+Sat Sep 26 2020,Accrington,1-4,0-1,Oxford
+Sat Sep 26 2020,Crewe,2-0,2-0,Milton Keynes Dons
+Sat Sep 26 2020,Doncaster,4-1,2-1,Bristol Rvs
+Sat Sep 26 2020,Fleetwood Town,0-1,0-1,AFC Wimbledon
+Sat Sep 26 2020,Gillingham,2-0,1-0,Blackpool
+Sat Sep 26 2020,Ipswich,2-0,0-0,Rochdale
+Sat Sep 26 2020,Northampton,0-2,0-2,Hull
+Sat Sep 26 2020,Plymouth,1-1,1-1,Shrewsbury
+Sat Sep 26 2020,Portsmouth,1-2,0-1,Wigan
+Sat Sep 26 2020,Sunderland,1-0,0-0,Peterboro
+Sat Sep 26 2020,Swindon,4-2,3-1,Burton
+Sun Sep 27 2020,Lincoln,2-0,1-0,Charlton
+Sat Oct 3 2020,AFC Wimbledon,1-2,1-2,Accrington
+Sat Oct 3 2020,Blackpool,2-3,1-1,Lincoln
+Sat Oct 3 2020,Bristol Rvs,2-0,0-0,Northampton
+Sat Oct 3 2020,Burton,2-4,2-1,Portsmouth
+Sat Oct 3 2020,Charlton,0-0,0-0,Sunderland
+Sat Oct 3 2020,Hull,1-0,1-0,Plymouth
+Sat Oct 3 2020,Milton Keynes Dons,1-1,0-1,Ipswich
+Sat Oct 3 2020,Peterboro,3-1,0-1,Swindon
+Sat Oct 3 2020,Rochdale,2-1,1-0,Fleetwood Town
+Sat Oct 3 2020,Shrewsbury,1-1,1-0,Gillingham
+Sat Oct 3 2020,Wigan,1-0,0-0,Doncaster
+Fri Oct 9 2020,Fleetwood Town,4-1,1-1,Hull
+Sat Oct 10 2020,Gillingham,3-1,2-0,Oxford
+Sat Oct 10 2020,Accrington,2-1,0-0,Rochdale
+Sat Oct 10 2020,Blackpool,1-4,0-3,Ipswich
+Sat Oct 10 2020,Crewe,3-0,2-0,Wigan
+Sat Oct 10 2020,Lincoln,1-2,0-0,Bristol Rvs
+Sat Oct 10 2020,Northampton,0-2,0-1,Peterboro
+Sat Oct 10 2020,Plymouth,2-0,1-0,Burton
+Sat Oct 10 2020,Portsmouth,2-1,2-1,Milton Keynes Dons
+Sat Oct 10 2020,Swindon,0-1,0-1,AFC Wimbledon
+Sat Oct 17 2020,Milton Keynes Dons,2-0,1-0,Gillingham
+Sat Oct 17 2020,AFC Wimbledon,0-1,0-0,Shrewsbury
+Sat Oct 17 2020,Bristol Rvs,1-1,0-0,Burton
+Sat Oct 17 2020,Charlton,1-0,0-0,Wigan
+Sat Oct 17 2020,Crewe,1-1,0-0,Blackpool
+Sat Oct 17 2020,Fleetwood Town,0-0,0-0,Lincoln
+Sat Oct 17 2020,Ipswich,2-0,0-0,Accrington
+Sat Oct 17 2020,Peterboro,2-0,1-0,Oxford
+Sat Oct 17 2020,Plymouth,2-1,1-0,Northampton
+Sat Oct 17 2020,Portsmouth,0-1,0-0,Doncaster
+Sat Oct 17 2020,Rochdale,0-3,0-1,Hull
+Sat Oct 17 2020,Swindon,0-2,0-1,Sunderland
+Tue Oct 20 2020,Shrewsbury,0-1,0-1,Bristol Rvs
+Tue Oct 20 2020,Gillingham,0-2,0-2,Portsmouth
+Tue Oct 20 2020,Accrington,1-0,0-0,Fleetwood Town
+Tue Oct 20 2020,Blackpool,0-1,0-0,Charlton
+Tue Oct 20 2020,Doncaster,4-1,2-1,Ipswich
+Tue Oct 20 2020,Hull,1-0,1-0,AFC Wimbledon
+Tue Oct 20 2020,Lincoln,2-0,0-0,Plymouth
+Tue Oct 20 2020,Oxford,3-2,1-1,Milton Keynes Dons
+Tue Oct 20 2020,Sunderland,1-0,1-0,Crewe
+Tue Oct 20 2020,Wigan,0-1,0-1,Peterboro
+Tue Oct 20 2020,Burton,0-1,0-0,Rochdale
+Tue Oct 20 2020,Northampton,2-1,2-0,Swindon
+Sat Oct 24 2020,Gillingham,0-2,0-0,Fleetwood Town
+Sat Oct 24 2020,Blackpool,1-0,0-0,Milton Keynes Dons
+Sat Oct 24 2020,Burton,1-1,0-0,AFC Wimbledon
+Sat Oct 24 2020,Doncaster,1-2,1-1,Crewe
+Sat Oct 24 2020,Hull,1-2,1-0,Peterboro
+Sat Oct 24 2020,Lincoln,1-0,0-0,Ipswich
+Sat Oct 24 2020,Northampton,0-2,0-0,Charlton
+Sat Oct 24 2020,Shrewsbury,1-2,1-2,Rochdale
+Sat Oct 24 2020,Sunderland,1-3,1-2,Portsmouth
+Sat Oct 24 2020,Wigan,1-1,0-1,Plymouth
+Tue Oct 27 2020,AFC Wimbledon,1-0,1-0,Blackpool
+Tue Oct 27 2020,Bristol Rvs,1-3,1-0,Hull
+Tue Oct 27 2020,Charlton,2-0,2-0,Oxford
+Tue Oct 27 2020,Crewe,0-1,0-1,Lincoln
+Tue Oct 27 2020,Ipswich,1-0,0-0,Gillingham
+Tue Oct 27 2020,Milton Keynes Dons,2-0,0-0,Wigan
+Tue Oct 27 2020,Peterboro,2-2,1-1,Burton
+Tue Oct 27 2020,Fleetwood Town,1-0,1-0,Shrewsbury
+Tue Oct 27 2020,Plymouth,2-1,1-0,Doncaster
+Tue Oct 27 2020,Portsmouth,4-0,1-0,Northampton
+Tue Oct 27 2020,Rochdale,2-2,2-2,Sunderland
+Sat Oct 31 2020,Gillingham,0-2,0-0,Sunderland
+Sat Oct 31 2020,Burton,1-2,0-1,Blackpool
+Sat Oct 31 2020,Doncaster,1-0,1-0,Lincoln
+Sat Oct 31 2020,Fleetwood Town,2-0,1-0,Oxford
+Sat Oct 31 2020,Ipswich,1-0,0-0,Crewe
+Sat Oct 31 2020,Milton Keynes Dons,1-1,1-1,AFC Wimbledon
+Sat Oct 31 2020,Peterboro,5-1,2-1,Shrewsbury
+Sat Oct 31 2020,Portsmouth,0-2,0-1,Charlton
+Sat Oct 31 2020,Rochdale,1-1,1-1,Bristol Rvs
+Sat Oct 31 2020,Swindon,2-1,1-1,Hull
+Sat Oct 31 2020,Wigan,2-3,0-2,Northampton
+Tue Nov 3 2020,Shrewsbury,1-1,0-0,Burton
+Tue Nov 3 2020,Blackpool,1-0,0-0,Wigan
+Tue Nov 3 2020,Bristol Rvs,0-2,0-1,Peterboro
+Tue Nov 3 2020,Charlton,3-2,2-2,Fleetwood Town
+Tue Nov 3 2020,Crewe,0-1,0-0,Gillingham
+Tue Nov 3 2020,Lincoln,1-3,0-1,Portsmouth
+Tue Nov 3 2020,Oxford,3-1,1-1,Rochdale
+Tue Nov 3 2020,Plymouth,4-2,3-2,Swindon
+Tue Nov 3 2020,Sunderland,2-1,1-1,Ipswich
+Tue Nov 3 2020,AFC Wimbledon,2-2,1-1,Doncaster
+Tue Nov 3 2020,Northampton,0-0,0-0,Milton Keynes Dons
