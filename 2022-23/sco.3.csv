@@ -1,0 +1,181 @@
+Date,Team 1,FT,HT,Team 2
+Sat Jul 30 2022,Dunfermline,1-0,0-0,Alloa
+Sat Jul 30 2022,Falkirk,0-0,0-0,Montrose
+Sat Jul 30 2022,Kelty Hearts,0-2,0-1,FC Edinburgh
+Sat Jul 30 2022,Peterhead,0-2,0-2,Airdrie Utd
+Sat Jul 30 2022,Queen of Sth,1-4,1-2,Clyde
+Sat Aug 6 2022,Airdrie Utd,4-0,1-0,Falkirk
+Sat Aug 6 2022,Alloa,3-1,1-0,Kelty Hearts
+Sat Aug 6 2022,Clyde,2-2,2-2,Peterhead
+Sat Aug 6 2022,FC Edinburgh,0-3,0-2,Dunfermline
+Sat Aug 6 2022,Montrose,0-0,0-0,Queen of Sth
+Sat Aug 13 2022,Alloa,2-4,1-2,FC Edinburgh
+Sat Aug 13 2022,Clyde,3-0,0-0,Kelty Hearts
+Sat Aug 13 2022,Dunfermline,1-0,0-0,Montrose
+Sat Aug 13 2022,Falkirk,3-1,1-1,Peterhead
+Sat Aug 13 2022,Queen of Sth,1-1,0-1,Airdrie Utd
+Sat Aug 20 2022,Airdrie Utd,2-0,1-0,Alloa
+Sat Aug 20 2022,FC Edinburgh,0-3,0-1,Falkirk
+Sat Aug 20 2022,Kelty Hearts,0-0,0-0,Dunfermline
+Sat Aug 20 2022,Montrose,2-1,1-0,Clyde
+Sat Aug 20 2022,Peterhead,1-4,1-2,Queen of Sth
+Sat Aug 27 2022,Alloa,5-0,3-0,Peterhead
+Sat Aug 27 2022,Dunfermline,1-1,0-0,Airdrie Utd
+Sat Aug 27 2022,Falkirk,3-1,2-0,Queen of Sth
+Sat Aug 27 2022,FC Edinburgh,2-0,1-0,Clyde
+Sat Aug 27 2022,Montrose,3-0,1-0,Kelty Hearts
+Sat Sep 3 2022,Airdrie Utd,0-6,0-2,FC Edinburgh
+Sat Sep 3 2022,Clyde,2-4,1-1,Alloa
+Sat Sep 3 2022,Kelty Hearts,2-0,2-0,Falkirk
+Sat Sep 3 2022,Peterhead,0-2,0-1,Montrose
+Sat Sep 3 2022,Queen of Sth,0-2,0-2,Dunfermline
+Sat Sep 17 2022,Airdrie Utd,5-0,1-0,Clyde
+Sat Sep 17 2022,Alloa,2-1,0-0,Montrose
+Sat Sep 17 2022,Dunfermline,1-1,0-1,Falkirk
+Sat Sep 17 2022,Peterhead,2-1,1-0,Kelty Hearts
+Sat Sep 17 2022,Queen of Sth,4-1,1-0,FC Edinburgh
+Sat Oct 1 2022,Dunfermline,2-2,0-0,Peterhead
+Sat Oct 1 2022,Falkirk,2-0,2-0,Clyde
+Sat Oct 1 2022,Kelty Hearts,1-0,0-0,Airdrie Utd
+Sat Oct 1 2022,Montrose,1-2,1-1,FC Edinburgh
+Sat Oct 1 2022,Queen of Sth,1-1,1-0,Alloa
+Tue Oct 4 2022,Montrose,4-2,2-0,Airdrie Utd
+Wed Oct 5 2022,FC Edinburgh,2-0,0-0,Peterhead
+Sat Oct 8 2022,Airdrie Utd,3-3,2-2,Queen of Sth
+Sat Oct 8 2022,Alloa,0-3,0-2,Dunfermline
+Sat Oct 8 2022,Clyde,1-3,0-0,Montrose
+Sat Oct 8 2022,FC Edinburgh,2-0,1-0,Kelty Hearts
+Sat Oct 8 2022,Peterhead,0-4,0-1,Falkirk
+Tue Oct 11 2022,Kelty Hearts,1-0,1-0,Queen of Sth
+Sat Oct 15 2022,Alloa,2-0,0-0,Airdrie Utd
+Sat Oct 15 2022,Dunfermline,1-0,0-0,FC Edinburgh
+Sat Oct 15 2022,Kelty Hearts,2-1,0-0,Clyde
+Sat Oct 15 2022,Montrose,1-1,1-1,Falkirk
+Sat Oct 15 2022,Queen of Sth,2-0,1-0,Peterhead
+Tue Oct 18 2022,Clyde,0-2,0-1,Dunfermline
+Tue Oct 18 2022,Falkirk,3-1,3-0,Alloa
+Sat Oct 22 2022,Clyde,1-2,0-1,Queen of Sth
+Sat Oct 22 2022,Falkirk,2-3,0-2,Kelty Hearts
+Sat Oct 22 2022,FC Edinburgh,3-1,1-0,Airdrie Utd
+Sat Oct 22 2022,Montrose,2-0,0-0,Dunfermline
+Sat Oct 22 2022,Peterhead,0-2,0-0,Alloa
+Sat Oct 29 2022,Airdrie Utd,4-0,3-0,Montrose
+Sat Oct 29 2022,Alloa,2-1,1-1,Clyde
+Sat Oct 29 2022,Dunfermline,2-1,1-1,Kelty Hearts
+Sat Oct 29 2022,Peterhead,1-1,0-0,FC Edinburgh
+Sat Oct 29 2022,Queen of Sth,1-3,0-2,Falkirk
+Sat Nov 5 2022,Clyde,0-1,0-0,Airdrie Utd
+Sat Nov 5 2022,Falkirk,0-1,0-0,Dunfermline
+Sat Nov 5 2022,FC Edinburgh,0-3,0-1,Queen of Sth
+Sat Nov 5 2022,Kelty Hearts,1-1,0-1,Alloa
+Sat Nov 5 2022,Montrose,3-0,0-0,Peterhead
+Sat Nov 12 2022,Airdrie Utd,1-1,0-1,Peterhead
+Sat Nov 12 2022,Alloa,5-1,1-1,Queen of Sth
+Sat Nov 12 2022,Dunfermline,2-2,0-2,Clyde
+Sat Nov 12 2022,Falkirk,2-0,0-0,FC Edinburgh
+Sat Nov 12 2022,Kelty Hearts,1-3,0-1,Montrose
+Sat Nov 19 2022,Airdrie Utd,1-0,0-0,Kelty Hearts
+Sat Nov 19 2022,Clyde,3-3,2-1,Falkirk
+Sat Nov 19 2022,FC Edinburgh,4-3,1-3,Alloa
+Sat Nov 19 2022,Peterhead,0-2,0-2,Dunfermline
+Sat Nov 19 2022,Queen of Sth,4-0,2-0,Montrose
+Sat Dec 3 2022,Clyde,0-2,0-1,FC Edinburgh
+Sat Dec 3 2022,Dunfermline,1-1,0-1,Queen of Sth
+Sat Dec 3 2022,Falkirk,1-1,1-0,Airdrie Utd
+Sat Dec 3 2022,Kelty Hearts,3-0,0-0,Peterhead
+Sat Dec 3 2022,Montrose,0-0,0-0,Alloa
+Sat Dec 17 2022,FC Edinburgh,2-2,1-0,Montrose
+Sat Dec 17 2022,Queen of Sth,1-2,1-0,Kelty Hearts
+Fri Dec 23 2022,Clyde,2-2,2-1,Alloa
+Fri Dec 23 2022,Falkirk,5-2,2-2,Queen of Sth
+Fri Dec 23 2022,Montrose,2-4,1-1,Airdrie Utd
+Sat Dec 24 2022,Kelty Hearts,1-2,0-0,Dunfermline
+Sat Dec 24 2022,FC Edinburgh,4-0,1-0,Peterhead
+Sat Dec 31 2022,Alloa,0-0,0-0,Kelty Hearts
+Sat Dec 31 2022,Queen of Sth,1-0,0-0,Clyde
+Mon Jan 2 2023,Airdrie Utd,3-5,2-2,FC Edinburgh
+Mon Jan 2 2023,Peterhead,0-0,0-0,Montrose
+Sat Jan 7 2023,Clyde,1-2,0-1,Kelty Hearts
+Sat Jan 7 2023,Falkirk,2-1,1-0,Montrose
+Sat Jan 7 2023,FC Edinburgh,0-1,0-1,Dunfermline
+Sat Jan 7 2023,Peterhead,0-3,0-0,Airdrie Utd
+Sat Jan 7 2023,Queen of Sth,1-2,1-0,Alloa
+Sat Jan 14 2023,Alloa,2-1,2-0,FC Edinburgh
+Sat Jan 14 2023,Dunfermline,4-0,2-0,Peterhead
+Sat Jan 14 2023,Falkirk,4-0,1-0,Clyde
+Sat Jan 14 2023,Kelty Hearts,1-1,0-1,Airdrie Utd
+Sat Jan 14 2023,Montrose,1-0,0-0,Queen of Sth
+Sat Jan 21 2023,Peterhead,1-0,0-0,Clyde
+Sat Jan 28 2023,Airdrie Utd,4-0,3-0,Alloa
+Sat Jan 28 2023,Clyde,1-1,1-1,Dunfermline
+Sat Jan 28 2023,FC Edinburgh,1-2,0-0,Falkirk
+Sat Jan 28 2023,Montrose,3-3,2-1,Kelty Hearts
+Sat Jan 28 2023,Peterhead,1-3,1-0,Queen of Sth
+Sat Feb 4 2023,Airdrie Utd,1-0,0-0,Clyde
+Sat Feb 4 2023,Alloa,1-0,1-0,Peterhead
+Sat Feb 4 2023,Dunfermline,2-0,1-0,Montrose
+Sat Feb 4 2023,Kelty Hearts,1-2,1-0,Falkirk
+Sat Feb 4 2023,Queen of Sth,1-0,0-0,FC Edinburgh
+Tue Feb 7 2023,Alloa,1-1,0-0,Falkirk
+Sat Feb 11 2023,Airdrie Utd,3-4,2-0,Dunfermline
+Sat Feb 18 2023,Clyde,1-0,0-0,Peterhead
+Sat Feb 18 2023,Dunfermline,1-1,0-1,Airdrie Utd
+Sat Feb 18 2023,Falkirk,1-0,1-0,Alloa
+Sat Feb 18 2023,Kelty Hearts,3-0,0-0,Queen of Sth
+Sat Feb 18 2023,Montrose,3-3,1-2,FC Edinburgh
+Sat Feb 25 2023,Airdrie Utd,1-3,1-1,Falkirk
+Sat Feb 25 2023,Alloa,1-0,0-0,Montrose
+Sat Feb 25 2023,FC Edinburgh,3-0,1-0,Clyde
+Sat Feb 25 2023,Peterhead,1-1,1-1,Kelty Hearts
+Sat Feb 25 2023,Queen of Sth,0-2,0-1,Dunfermline
+Sat Mar 4 2023,Dunfermline,2-0,1-0,Alloa
+Sat Mar 4 2023,Falkirk,5-0,0-0,Peterhead
+Sat Mar 4 2023,Kelty Hearts,1-2,0-1,FC Edinburgh
+Sat Mar 4 2023,Montrose,2-0,2-0,Clyde
+Sat Mar 4 2023,Queen of Sth,3-2,2-0,Airdrie Utd
+Tue Mar 7 2023,Dunfermline,2-0,0-0,Falkirk
+Sat Mar 11 2023,Airdrie Utd,6-1,3-0,Kelty Hearts
+Sat Mar 11 2023,Clyde,1-1,1-0,Queen of Sth
+Sat Mar 11 2023,FC Edinburgh,0-2,0-1,Alloa
+Sat Mar 18 2023,Airdrie Utd,7-0,4-0,Peterhead
+Sat Mar 18 2023,Alloa,3-1,1-0,Clyde
+Sat Mar 18 2023,Dunfermline,0-0,0-0,FC Edinburgh
+Sat Mar 18 2023,Kelty Hearts,1-2,1-0,Montrose
+Sat Mar 18 2023,Queen of Sth,1-0,1-0,Falkirk
+Fri Mar 24 2023,Clyde,1-5,1-3,Airdrie Utd
+Fri Mar 24 2023,Falkirk,0-0,0-0,Kelty Hearts
+Fri Mar 24 2023,FC Edinburgh,1-3,0-0,Queen of Sth
+Sat Mar 25 2023,Peterhead,0-2,0-0,Alloa
+Sat Mar 25 2023,Montrose,1-3,0-2,Dunfermline
+Sat Apr 1 2023,Alloa,0-1,0-1,Airdrie Utd
+Sat Apr 1 2023,Clyde,0-0,0-0,Falkirk
+Sat Apr 1 2023,Dunfermline,0-0,0-0,Kelty Hearts
+Sat Apr 1 2023,FC Edinburgh,1-1,0-1,Montrose
+Sat Apr 1 2023,Queen of Sth,2-1,0-0,Peterhead
+Sat Apr 8 2023,Airdrie Utd,3-0,0-0,Montrose
+Sat Apr 8 2023,Alloa,1-2,0-2,Queen of Sth
+Sat Apr 8 2023,Falkirk,2-2,2-2,Dunfermline
+Sat Apr 8 2023,Kelty Hearts,0-0,0-0,Clyde
+Sat Apr 8 2023,Peterhead,1-0,1-0,FC Edinburgh
+Tue Apr 11 2023,Montrose,1-2,0-2,Falkirk
+Tue Apr 11 2023,Peterhead,0-2,0-0,Dunfermline
+Sat Apr 15 2023,Clyde,2-1,2-1,FC Edinburgh
+Sat Apr 15 2023,Dunfermline,5-0,2-0,Queen of Sth
+Sat Apr 15 2023,Falkirk,2-2,1-0,Airdrie Utd
+Sat Apr 15 2023,Kelty Hearts,0-1,0-0,Alloa
+Sat Apr 15 2023,Montrose,2-1,1-0,Peterhead
+Tue Apr 18 2023,Falkirk,1-2,0-0,FC Edinburgh
+Sat Apr 22 2023,Airdrie Utd,1-1,0-0,Dunfermline
+Sat Apr 22 2023,Alloa,1-4,0-2,Falkirk
+Sat Apr 22 2023,FC Edinburgh,2-2,0-1,Kelty Hearts
+Sat Apr 22 2023,Peterhead,1-1,1-0,Clyde
+Sat Apr 22 2023,Queen of Sth,2-3,2-3,Montrose
+Sat Apr 29 2023,Airdrie Utd,1-3,0-2,Queen of Sth
+Sat Apr 29 2023,Dunfermline,2-1,1-1,Clyde
+Sat Apr 29 2023,Kelty Hearts,2-1,0-0,Peterhead
+Sat Apr 29 2023,Montrose,0-4,0-2,Alloa
+Sat May 6 2023,Alloa,0-2,0-0,Dunfermline
+Sat May 6 2023,Clyde,2-1,0-0,Montrose
+Sat May 6 2023,FC Edinburgh,1-4,0-1,Airdrie Utd
+Sat May 6 2023,Peterhead,1-3,1-1,Falkirk
+Sat May 6 2023,Queen of Sth,4-1,2-1,Kelty Hearts

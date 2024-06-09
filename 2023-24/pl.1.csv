@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 21 2023,Warta Poznan,0-1,?,Pogon Szczecin
+Fri Jul 21 2023,Legia,3-0,?,LKS Lodz
+Sat Jul 22 2023,Stal Mielec,2-2,?,Cracovia
+Sat Jul 22 2023,Rakow,3-0,?,Jagiellonia
+Sat Jul 22 2023,Piast Gliwice,1-2,?,Lech Poznan
+Sun Jul 23 2023,Gornik Zabrze,0-2,?,Radomiak Radom
+Sun Jul 23 2023,Zaglebie,2-1,?,Ruch Chorzow
+Sun Jul 23 2023,Widzew Lodz,3-2,?,Puszcza
+Mon Jul 24 2023,Korona Kielce,1-1,?,Slask Wroclaw
+Fri Jul 28 2023,Ruch Chorzow,2-0,?,LKS Lodz
+Sat Jul 29 2023,Warta Poznan,2-0,?,Gornik Zabrze
+Sat Jul 29 2023,Jagiellonia,4-1,?,Puszcza
+Sat Jul 29 2023,Slask Wroclaw,1-2,?,Zaglebie
+Sun Jul 30 2023,Stal Mielec,0-0,?,Piast Gliwice
+Sun Jul 30 2023,Lech Poznan,2-0,?,Radomiak Radom
+Sun Jul 30 2023,Pogon Szczecin,2-1,?,Widzew Lodz
+Fri Aug 4 2023,Jagiellonia,2-1,?,Widzew Lodz
+Fri Aug 4 2023,LKS Lodz,2-1,?,Korona Kielce
+Sat Aug 5 2023,Rakow,2-2,?,Warta Poznan
+Sat Aug 5 2023,Gornik Zabrze,0-0,?,Piast Gliwice
+Sat Aug 5 2023,Radomiak Radom,0-1,?,Cracovia
+Sun Aug 6 2023,Zaglebie,1-1,?,Lech Poznan
+Sun Aug 6 2023,Legia,3-0,?,Ruch Chorzow
+Mon Aug 7 2023,Puszcza,1-0,?,Stal Mielec
+Fri Aug 11 2023,Cracovia,2-1,?,Zaglebie
+Fri Aug 11 2023,Piast Gliwice,2-1,?,Rakow
+Sat Aug 12 2023,Stal Mielec,3-1,?,Slask Wroclaw
+Sat Aug 12 2023,Korona Kielce,0-1,?,Gornik Zabrze
+Sat Aug 12 2023,Widzew Lodz,1-0,?,LKS Lodz
+Sun Aug 13 2023,Pogon Szczecin,0-2,?,Radomiak Radom
+Sun Aug 13 2023,Puszcza,1-1,?,Legia
+Mon Aug 14 2023,Warta Poznan,2-2,?,Ruch Chorzow
+Fri Aug 18 2023,Zaglebie,1-0,?,Puszcza
+Fri Aug 18 2023,Gornik Zabrze,1-1,?,Widzew Lodz
+Sat Aug 19 2023,Radomiak Radom,3-2,?,Warta Poznan
+Sat Aug 19 2023,Rakow,2-0,?,Stal Mielec
+Sat Aug 19 2023,Ruch Chorzow,0-1,?,Jagiellonia
+Sun Aug 20 2023,LKS Lodz,1-0,?,Pogon Szczecin
+Sun Aug 20 2023,Slask Wroclaw,3-1,?,Lech Poznan
+Sun Aug 20 2023,Legia,1-0,?,Korona Kielce
+Mon Aug 21 2023,Cracovia,1-1,?,Piast Gliwice
+Fri Aug 25 2023,Stal Mielec,2-0,?,Radomiak Radom
+Fri Aug 25 2023,Widzew Lodz,0-2,?,Slask Wroclaw
+Sat Aug 26 2023,Warta Poznan,0-0,?,Cracovia
+Sat Aug 26 2023,Puszcza,2-1,?,LKS Lodz
+Sat Aug 26 2023,Piast Gliwice,0-0,?,Ruch Chorzow
+Sun Aug 27 2023,Korona Kielce,2-0,?,Zaglebie
+Sun Aug 27 2023,Jagiellonia,4-1,?,Gornik Zabrze
+Wed Aug 30 2023,Pogon Szczecin,0-2,?,Slask Wroclaw
+Fri Sep 1 2023,LKS Lodz,0-2,?,Warta Poznan
+Fri Sep 1 2023,Ruch Chorzow,1-1,?,Stal Mielec
+Sat Sep 2 2023,Radomiak Radom,1-1,?,Piast Gliwice
+Sat Sep 2 2023,Cracovia,0-0,?,Korona Kielce
+Sat Sep 2 2023,Lech Poznan,1-1,?,Gornik Zabrze
+Sun Sep 3 2023,Slask Wroclaw,2-1,?,Jagiellonia
+Sun Sep 3 2023,Zaglebie,1-0,?,Pogon Szczecin
+Sun Sep 3 2023,Legia,3-1,?,Widzew Lodz
+Sun Sep 3 2023,Rakow,2-0,?,Puszcza
+Fri Sep 15 2023,Puszcza,1-3,?,Slask Wroclaw
+Fri Sep 15 2023,Gornik Zabrze,1-0,?,Ruch Chorzow
+Sat Sep 16 2023,Pogon Szczecin,3-1,?,Korona Kielce
+Sat Sep 16 2023,Rakow,1-0,?,LKS Lodz
+Sat Sep 16 2023,Piast Gliwice,1-1,?,Legia
+Sun Sep 17 2023,Jagiellonia,3-2,?,Radomiak Radom
+Sun Sep 17 2023,Widzew Lodz,2-0,?,Cracovia
+Sun Sep 17 2023,Warta Poznan,0-2,?,Lech Poznan
+Mon Sep 18 2023,Stal Mielec,4-2,?,Zaglebie
+Fri Sep 22 2023,Korona Kielce,1-1,?,Widzew Lodz
+Fri Sep 22 2023,LKS Lodz,2-2,?,Jagiellonia
+Sat Sep 23 2023,Radomiak Radom,1-1,?,Puszcza
+Sat Sep 23 2023,Slask Wroclaw,1-0,?,Piast Gliwice
+Sat Sep 23 2023,Cracovia,1-5,?,Pogon Szczecin
+Sat Sep 23 2023,Lech Poznan,2-1,?,Stal Mielec
+Sun Sep 24 2023,Zaglebie,1-0,?,Warta Poznan
+Sun Sep 24 2023,Ruch Chorzow,3-5,?,Rakow
+Sun Sep 24 2023,Legia,2-1,?,Gornik Zabrze
+Wed Sep 27 2023,Pogon Szczecin,3-4,?,Legia
+Thu Sep 28 2023,Lech Poznan,4-1,?,Rakow
+Fri Sep 29 2023,Stal Mielec,2-3,?,Korona Kielce
+Fri Sep 29 2023,Piast Gliwice,3-2,?,Widzew Lodz
+Sat Sep 30 2023,LKS Lodz,0-2,?,Cracovia
+Sat Sep 30 2023,Puszcza,2-2,?,Ruch Chorzow
+Sat Sep 30 2023,Warta Poznan,0-1,?,Slask Wroclaw
+Sun Oct 1 2023,Rakow,3-0,?,Radomiak Radom
+Sun Oct 1 2023,Pogon Szczecin,5-0,?,Lech Poznan
+Sun Oct 1 2023,Jagiellonia,2-0,?,Legia
+Mon Oct 2 2023,Gornik Zabrze,0-2,?,Zaglebie
+Fri Oct 6 2023,Korona Kielce,1-1,?,Warta Poznan
+Fri Oct 6 2023,Lech Poznan,4-1,?,Puszcza
+Sat Oct 7 2023,Radomiak Radom,3-0,?,LKS Lodz
+Sat Oct 7 2023,Widzew Lodz,1-0,?,Stal Mielec
+Sat Oct 7 2023,Zaglebie,1-1,?,Piast Gliwice
+Sat Oct 7 2023,Ruch Chorzow,0-3,?,Pogon Szczecin
+Sun Oct 8 2023,Slask Wroclaw,1-1,?,Gornik Zabrze
+Sun Oct 8 2023,Cracovia,2-4,?,Jagiellonia
+Sun Oct 8 2023,Legia,1-2,?,Rakow
+Fri Oct 20 2023,Piast Gliwice,0-0,?,Pogon Szczecin
+Fri Oct 20 2023,Jagiellonia,3-0,?,Zaglebie
+Sat Oct 21 2023,Puszcza,1-1,?,Cracovia
+Sat Oct 21 2023,Slask Wroclaw,4-0,?,Legia
+Sat Oct 21 2023,Lech Poznan,3-1,?,LKS Lodz
+Sun Oct 22 2023,Radomiak Radom,1-1,?,Korona Kielce
+Sun Oct 22 2023,Gornik Zabrze,2-1,?,Rakow
+Mon Oct 23 2023,Stal Mielec,0-1,?,Warta Poznan
+Tue Oct 24 2023,Lech Poznan,3-3,?,Jagiellonia
+Fri Oct 27 2023,Korona Kielce,5-3,?,Puszcza
+Fri Oct 27 2023,LKS Lodz,0-5,?,Gornik Zabrze
+Sat Oct 28 2023,Warta Poznan,1-1,?,Piast Gliwice
+Sat Oct 28 2023,Pogon Szczecin,2-1,?,Jagiellonia
+Sat Oct 28 2023,Cracovia,1-1,?,Lech Poznan
+Sat Oct 28 2023,Ruch Chorzow,2-2,?,Slask Wroclaw
+Sun Oct 29 2023,Zaglebie,2-3,?,Radomiak Radom
+Sun Oct 29 2023,Legia,1-3,?,Stal Mielec
+Sun Oct 29 2023,Rakow,1-1,?,Widzew Lodz
+Fri Nov 3 2023,Piast Gliwice,0-0,?,Korona Kielce
+Fri Nov 3 2023,Jagiellonia,4-0,?,Stal Mielec
+Sat Nov 4 2023,Puszcza,0-2,?,Pogon Szczecin
+Sat Nov 4 2023,Widzew Lodz,0-1,?,Warta Poznan
+Sat Nov 4 2023,Lech Poznan,2-0,?,Ruch Chorzow
+Sun Nov 5 2023,Slask Wroclaw,2-1,?,LKS Lodz
+Sun Nov 5 2023,Rakow,5-0,?,Zaglebie
+Sun Nov 5 2023,Radomiak Radom,0-1,?,Legia
+Mon Nov 6 2023,Gornik Zabrze,1-0,?,Cracovia
+Fri Nov 10 2023,Warta Poznan,0-2,?,Puszcza
+Fri Nov 10 2023,Cracovia,0-1,?,Slask Wroclaw
+Sat Nov 11 2023,LKS Lodz,3-3,?,Piast Gliwice
+Sat Nov 11 2023,Zaglebie,1-1,?,Widzew Lodz
+Sat Nov 11 2023,Korona Kielce,2-2,?,Jagiellonia
+Sun Nov 12 2023,Stal Mielec,2-1,?,Gornik Zabrze
+Sun Nov 12 2023,Pogon Szczecin,1-1,?,Rakow
+Sun Nov 12 2023,Legia,0-0,?,Lech Poznan
+Mon Nov 13 2023,Ruch Chorzow,0-0,?,Radomiak Radom
+Sat Nov 18 2023,Widzew Lodz,2-1,?,Ruch Chorzow
+Fri Nov 24 2023,LKS Lodz,0-2,?,Zaglebie
+Fri Nov 24 2023,Jagiellonia,0-0,?,Piast Gliwice
+Sat Nov 25 2023,Rakow,1-1,?,Cracovia
+Sat Nov 25 2023,Pogon Szczecin,2-3,?,Stal Mielec
+Sat Nov 25 2023,Legia,2-2,?,Warta Poznan
+Sun Nov 26 2023,Puszcza,2-1,?,Gornik Zabrze
+Sun Nov 26 2023,Ruch Chorzow,1-1,?,Korona Kielce
+Sun Nov 26 2023,Lech Poznan,1-3,?,Widzew Lodz
+Mon Nov 27 2023,Radomiak Radom,0-1,?,Slask Wroclaw
+Fri Dec 1 2023,Warta Poznan,1-2,?,Jagiellonia
+Fri Dec 1 2023,Gornik Zabrze,1-0,?,Pogon Szczecin
+Sat Dec 2 2023,Widzew Lodz,0-3,?,Radomiak Radom
+Sat Dec 2 2023,Korona Kielce,0-1,?,Lech Poznan
+Sun Dec 3 2023,Cracovia,4-4,?,Ruch Chorzow
+Sun Dec 3 2023,Zaglebie,0-3,?,Legia
+Sun Dec 3 2023,Slask Wroclaw,1-1,?,Rakow
+Fri Dec 8 2023,Ruch Chorzow,2-2,?,Zaglebie
+Fri Dec 8 2023,Pogon Szczecin,3-3,?,Warta Poznan
+Sat Dec 9 2023,Radomiak Radom,1-1,?,Gornik Zabrze
+Sat Dec 9 2023,Cracovia,2-2,?,Stal Mielec
+Sat Dec 9 2023,Slask Wroclaw,0-0,?,Korona Kielce
+Sun Dec 10 2023,Lech Poznan,0-1,?,Piast Gliwice
+Sun Dec 10 2023,LKS Lodz,1-1,?,Legia
+Sun Dec 10 2023,Jagiellonia,4-2,?,Rakow
+Mon Dec 11 2023,Puszcza,1-0,?,Widzew Lodz
+Fri Dec 15 2023,Gornik Zabrze,3-0,?,Warta Poznan
+Fri Dec 15 2023,Zaglebie,1-2,?,Slask Wroclaw
+Sat Dec 16 2023,Puszcza,3-3,?,Jagiellonia
+Sat Dec 16 2023,Widzew Lodz,1-2,?,Pogon Szczecin
+Sat Dec 16 2023,Radomiak Radom,2-2,?,Lech Poznan
+Sun Dec 17 2023,LKS Lodz,1-1,?,Ruch Chorzow
+Sun Dec 17 2023,Rakow,1-0,?,Korona Kielce
+Sun Dec 17 2023,Legia,2-0,?,Cracovia
+Mon Dec 18 2023,Piast Gliwice,3-0,?,Stal Mielec
+Wed Dec 20 2023,Cracovia,2-0,?,Legia
+Fri Feb 9 2024,Stal Mielec,2-1,?,Puszcza
+Fri Feb 9 2024,Ruch Chorzow,0-1,?,Legia
+Sat Feb 10 2024,Cracovia,6-0,?,Radomiak Radom
+Sat Feb 10 2024,Piast Gliwice,1-3,?,Gornik Zabrze
+Sat Feb 10 2024,Lech Poznan,2-0,?,Zaglebie
+Sun Feb 11 2024,Warta Poznan,2-1,?,Rakow
+Sun Feb 11 2024,Widzew Lodz,1-3,?,Jagiellonia
+Sun Feb 11 2024,Slask Wroclaw,0-1,?,Pogon Szczecin
+Mon Feb 12 2024,Korona Kielce,2-1,?,LKS Lodz
+Fri Feb 16 2024,Radomiak Radom,0-4,?,Pogon Szczecin
+Fri Feb 16 2024,Slask Wroclaw,0-1,?,Stal Mielec
+Sat Feb 17 2024,Ruch Chorzow,0-0,?,Warta Poznan
+Sat Feb 17 2024,Jagiellonia,1-2,?,Lech Poznan
+Sat Feb 17 2024,Rakow,3-1,?,Piast Gliwice
+Sun Feb 18 2024,Zaglebie,1-1,?,Cracovia
+Sun Feb 18 2024,Legia,1-1,?,Puszcza
+Sun Feb 18 2024,LKS Lodz,0-2,?,Widzew Lodz
+Mon Feb 19 2024,Gornik Zabrze,3-1,?,Korona Kielce
+Fri Feb 23 2024,Piast Gliwice,0-0,?,Cracovia
+Fri Feb 23 2024,Pogon Szczecin,4-2,?,LKS Lodz
+Sat Feb 24 2024,Jagiellonia,1-1,?,Ruch Chorzow
+Sat Feb 24 2024,Lech Poznan,0-0,?,Slask Wroclaw
+Sat Feb 24 2024,Stal Mielec,0-0,?,Rakow
+Sun Feb 25 2024,Puszcza,2-2,?,Zaglebie
+Sun Feb 25 2024,Widzew Lodz,3-1,?,Gornik Zabrze
+Sun Feb 25 2024,Korona Kielce,3-3,?,Legia
+Mon Feb 26 2024,Warta Poznan,0-0,?,Radomiak Radom
+Wed Feb 28 2024,Stal Mielec,1-0,?,LKS Lodz
+Fri Mar 1 2024,Cracovia,0-1,?,Warta Poznan
+Fri Mar 1 2024,Ruch Chorzow,3-0,?,Piast Gliwice
+Sat Mar 2 2024,Gornik Zabrze,2-1,?,Jagiellonia
+Sat Mar 2 2024,Slask Wroclaw,2-1,?,Widzew Lodz
+Sat Mar 2 2024,Legia,1-1,?,Pogon Szczecin
+Sun Mar 3 2024,LKS Lodz,3-2,?,Puszcza
+Sun Mar 3 2024,Zaglebie,1-0,?,Korona Kielce
+Sun Mar 3 2024,Rakow,4-0,?,Lech Poznan
+Mon Mar 4 2024,Radomiak Radom,2-1,?,Stal Mielec
+Fri Mar 8 2024,Piast Gliwice,2-3,?,Radomiak Radom
+Fri Mar 8 2024,Jagiellonia,3-1,?,Slask Wroclaw
+Sat Mar 9 2024,Korona Kielce,1-1,?,Cracovia
+Sat Mar 9 2024,Puszcza,1-1,?,Rakow
+Sat Mar 9 2024,Gornik Zabrze,0-0,?,Lech Poznan
+Sun Mar 10 2024,Stal Mielec,3-1,?,Ruch Chorzow
+Sun Mar 10 2024,Pogon Szczecin,0-2,?,Zaglebie
+Sun Mar 10 2024,Widzew Lodz,1-0,?,Legia
+Mon Mar 11 2024,Warta Poznan,0-1,?,LKS Lodz
+Wed Mar 13 2024,Korona Kielce,0-2,?,Rakow
+Tue Mar 12 2024,Piast Gliwice,1-0,?,Puszcza
+Fri Mar 15 2024,Zaglebie,0-0,?,Stal Mielec
+Fri Mar 15 2024,Lech Poznan,2-0,?,Warta Poznan
+Sat Mar 16 2024,Cracovia,2-2,?,Widzew Lodz
+Sat Mar 16 2024,Radomiak Radom,0-2,?,Jagiellonia
+Sat Mar 16 2024,Ruch Chorzow,1-2,?,Gornik Zabrze
+Sat Mar 16 2024,Slask Wroclaw,0-0,?,Puszcza
+Sun Mar 17 2024,Korona Kielce,2-2,?,Pogon Szczecin
+Sun Mar 17 2024,LKS Lodz,1-1,?,Rakow
+Sun Mar 17 2024,Legia,3-1,?,Piast Gliwice
+Sat Mar 30 2024,Rakow,1-1,?,Ruch Chorzow
+Sat Mar 30 2024,Jagiellonia,6-0,?,LKS Lodz
+Sat Mar 30 2024,Piast Gliwice,2-2,?,Slask Wroclaw
+Sat Mar 30 2024,Pogon Szczecin,3-1,?,Cracovia
+Mon Apr 1 2024,Puszcza,1-1,?,Radomiak Radom
+Mon Apr 1 2024,Stal Mielec,0-0,?,Lech Poznan
+Mon Apr 1 2024,Widzew Lodz,3-1,?,Korona Kielce
+Mon Apr 1 2024,Gornik Zabrze,1-3,?,Legia
+Tue Apr 2 2024,Warta Poznan,1-1,?,Zaglebie
+Fri Apr 5 2024,Cracovia,2-2,?,LKS Lodz
+Fri Apr 5 2024,Radomiak Radom,2-1,?,Rakow
+Sat Apr 6 2024,Korona Kielce,1-0,?,Stal Mielec
+Sat Apr 6 2024,Ruch Chorzow,0-0,?,Puszcza
+Sat Apr 6 2024,Slask Wroclaw,2-1,?,Warta Poznan
+Sun Apr 7 2024,Widzew Lodz,1-0,?,Piast Gliwice
+Sun Apr 7 2024,Lech Poznan,1-0,?,Pogon Szczecin
+Sun Apr 7 2024,Legia,1-1,?,Jagiellonia
+Mon Apr 8 2024,Zaglebie,1-2,?,Gornik Zabrze
+Fri Apr 12 2024,Warta Poznan,1-0,?,Korona Kielce
+Fri Apr 12 2024,Pogon Szczecin,5-0,?,Ruch Chorzow
+Sat Apr 13 2024,Stal Mielec,0-0,?,Widzew Lodz
+Sat Apr 13 2024,Puszcza,2-1,?,Lech Poznan
+Sat Apr 13 2024,Rakow,1-1,?,Legia
+Sun Apr 14 2024,LKS Lodz,3-2,?,Radomiak Radom
+Sun Apr 14 2024,Jagiellonia,1-3,?,Cracovia
+Sun Apr 14 2024,Gornik Zabrze,2-0,?,Slask Wroclaw
+Mon Apr 15 2024,Piast Gliwice,2-0,?,Zaglebie
+Fri Apr 19 2024,Korona Kielce,4-0,?,Radomiak Radom
+Fri Apr 19 2024,Rakow,0-1,?,Gornik Zabrze
+Sat Apr 20 2024,Pogon Szczecin,0-2,?,Piast Gliwice
+Sat Apr 20 2024,Ruch Chorzow,2-3,?,Widzew Lodz
+Sat Apr 20 2024,Zaglebie,1-2,?,Jagiellonia
+Sun Apr 21 2024,Cracovia,0-1,?,Puszcza
+Sun Apr 21 2024,LKS Lodz,2-3,?,Lech Poznan
+Sun Apr 21 2024,Legia,0-0,?,Slask Wroclaw
+Mon Apr 22 2024,Warta Poznan,5-2,?,Stal Mielec
+Fri Apr 26 2024,Piast Gliwice,2-0,?,Warta Poznan
+Fri Apr 26 2024,Jagiellonia,2-2,?,Pogon Szczecin
+Sat Apr 27 2024,Gornik Zabrze,4-1,?,LKS Lodz
+Sat Apr 27 2024,Slask Wroclaw,2-3,?,Ruch Chorzow
+Sat Apr 27 2024,Widzew Lodz,0-1,?,Rakow
+Sun Apr 28 2024,Radomiak Radom,3-4,?,Zaglebie
+Sun Apr 28 2024,Stal Mielec,1-3,?,Legia
+Sun Apr 28 2024,Lech Poznan,0-0,?,Cracovia
+Mon Apr 29 2024,Puszcza,1-1,?,Korona Kielce
+Fri May 3 2024,Cracovia,5-0,?,Gornik Zabrze
+Fri May 3 2024,Ruch Chorzow,2-1,?,Lech Poznan
+Sat May 4 2024,LKS Lodz,1-2,?,Slask Wroclaw
+Sat May 4 2024,Zaglebie,2-0,?,Rakow
+Sat May 4 2024,Stal Mielec,3-2,?,Jagiellonia
+Sun May 5 2024,Warta Poznan,2-1,?,Widzew Lodz
+Sun May 5 2024,Korona Kielce,1-1,?,Piast Gliwice
+Sun May 5 2024,Legia,0-3,?,Radomiak Radom
+Mon May 6 2024,Pogon Szczecin,1-0,?,Puszcza
+Fri May 10 2024,Piast Gliwice,4-0,?,LKS Lodz
+Fri May 10 2024,Slask Wroclaw,4-0,?,Cracovia
+Sat May 11 2024,Gornik Zabrze,1-1,?,Stal Mielec
+Sat May 11 2024,Jagiellonia,3-0,?,Korona Kielce
+Sat May 11 2024,Rakow,2-1,?,Pogon Szczecin
+Sun May 12 2024,Puszcza,1-0,?,Warta Poznan
+Sun May 12 2024,Widzew Lodz,1-3,?,Zaglebie
+Sun May 12 2024,Lech Poznan,1-2,?,Legia
+Mon May 13 2024,Radomiak Radom,0-2,?,Ruch Chorzow
+Fri May 17 2024,Stal Mielec,0-0,?,Pogon Szczecin
+Fri May 17 2024,Gornik Zabrze,1-1,?,Puszcza
+Sat May 18 2024,Korona Kielce,2-0,?,Ruch Chorzow
+Sat May 18 2024,Slask Wroclaw,2-0,?,Radomiak Radom
+Sat May 18 2024,Piast Gliwice,1-1,?,Jagiellonia
+Sun May 19 2024,Cracovia,2-0,?,Rakow
+Sun May 19 2024,Warta Poznan,0-1,?,Legia
+Sun May 19 2024,Widzew Lodz,1-1,?,Lech Poznan
+Mon May 20 2024,Zaglebie,2-1,?,LKS Lodz
+Sat May 25 2024,Jagiellonia,3-0,?,Warta Poznan
+Sat May 25 2024,Lech Poznan,1-2,?,Korona Kielce
+Sat May 25 2024,Legia,2-1,?,Zaglebie
+Sat May 25 2024,LKS Lodz,3-2,?,Stal Mielec
+Sat May 25 2024,Pogon Szczecin,1-0,?,Gornik Zabrze
+Sat May 25 2024,Puszcza,1-0,?,Piast Gliwice
+Sat May 25 2024,Radomiak Radom,1-3,?,Widzew Lodz
+Sat May 25 2024,Rakow,1-2,?,Slask Wroclaw
+Sat May 25 2024,Ruch Chorzow,2-0,?,Cracovia

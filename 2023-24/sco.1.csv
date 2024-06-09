@@ -1,0 +1,229 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 5 2023,Celtic,4-2,3-0,Ross County
+Sat Aug 5 2023,Dundee,1-1,0-1,Motherwell
+Sat Aug 5 2023,Livingston,0-0,0-0,Aberdeen
+Sat Aug 5 2023,St Johnstone,0-2,0-0,Hearts
+Sat Aug 5 2023,Kilmarnock,1-0,0-0,Rangers
+Sun Aug 6 2023,Hibernian,2-3,0-2,St Mirren
+Sat Aug 12 2023,Rangers,4-0,1-0,Livingston
+Sat Aug 12 2023,Ross County,2-0,1-0,St Johnstone
+Sat Aug 12 2023,St Mirren,2-1,2-0,Dundee
+Sun Aug 13 2023,Aberdeen,1-3,1-2,Celtic
+Sun Aug 13 2023,Hearts,0-0,0-0,Kilmarnock
+Sun Aug 13 2023,Motherwell,2-1,0-0,Hibernian
+Sat Aug 26 2023,Ross County,0-2,0-2,Rangers
+Sat Aug 26 2023,Celtic,0-0,0-0,St Johnstone
+Sat Aug 26 2023,Hibernian,2-3,0-1,Livingston
+Sat Aug 26 2023,Motherwell,2-1,0-1,Kilmarnock
+Sun Aug 27 2023,Dundee,1-0,0-0,Hearts
+Sun Aug 27 2023,St Mirren,2-2,0-1,Aberdeen
+Sat Sep 2 2023,Kilmarnock,0-1,0-0,Ross County
+Sat Sep 2 2023,Livingston,1-1,0-0,St Mirren
+Sat Sep 2 2023,St Johnstone,2-2,0-1,Dundee
+Sun Sep 3 2023,Rangers,0-1,0-1,Celtic
+Sun Sep 3 2023,Aberdeen,0-2,0-0,Hibernian
+Sun Sep 3 2023,Hearts,0-1,0-1,Motherwell
+Sat Sep 16 2023,St Johnstone,0-2,0-1,Rangers
+Sat Sep 16 2023,Celtic,3-0,0-0,Dundee
+Sat Sep 16 2023,Hearts,2-0,1-0,Aberdeen
+Sat Sep 16 2023,Kilmarnock,2-2,0-1,Hibernian
+Sat Sep 16 2023,Motherwell,0-1,0-0,St Mirren
+Sat Sep 16 2023,Ross County,1-1,0-0,Livingston
+Sat Sep 23 2023,Livingston,0-3,0-1,Celtic
+Sat Sep 23 2023,Dundee,2-2,1-1,Kilmarnock
+Sat Sep 23 2023,Hibernian,2-0,1-0,St Johnstone
+Sat Sep 23 2023,St Mirren,1-0,1-0,Hearts
+Sun Sep 24 2023,Aberdeen,4-0,2-0,Ross County
+Sun Sep 24 2023,Rangers,1-0,1-0,Motherwell
+Sat Sep 30 2023,Motherwell,1-2,0-0,Celtic
+Sat Sep 30 2023,Hibernian,0-0,0-0,Dundee
+Sat Sep 30 2023,Kilmarnock,1-1,1-1,St Mirren
+Sat Sep 30 2023,Rangers,1-3,0-1,Aberdeen
+Sat Sep 30 2023,Ross County,0-1,0-0,Hearts
+Sat Sep 30 2023,St Johnstone,1-1,1-0,Livingston
+Sat Oct 7 2023,Celtic,3-1,2-0,Kilmarnock
+Sat Oct 7 2023,Hearts,2-2,1-0,Hibernian
+Sat Oct 7 2023,Livingston,2-0,0-0,Motherwell
+Sun Oct 8 2023,St Mirren,0-3,0-1,Rangers
+Sun Oct 8 2023,Aberdeen,0-0,0-0,St Johnstone
+Sat Oct 21 2023,Kilmarnock,3-1,2-1,Livingston
+Sat Oct 21 2023,Rangers,4-0,2-0,Hibernian
+Sun Oct 22 2023,Hearts,1-4,0-2,Celtic
+Tue Oct 24 2023,Dundee,0-0,0-0,Ross County
+Sat Oct 28 2023,Hibernian,0-0,0-0,Celtic
+Sat Oct 28 2023,Livingston,0-2,0-0,Dundee
+Sat Oct 28 2023,Motherwell,3-3,0-0,Ross County
+Sat Oct 28 2023,St Mirren,4-0,1-0,St Johnstone
+Sun Oct 29 2023,Kilmarnock,2-0,1-0,Aberdeen
+Sun Oct 29 2023,Rangers,2-1,0-1,Hearts
+Tue Oct 31 2023,Hibernian,2-2,1-0,Ross County
+Wed Nov 1 2023,Celtic,2-1,1-1,St Mirren
+Wed Nov 1 2023,Dundee,0-5,0-1,Rangers
+Wed Nov 1 2023,Hearts,1-0,0-0,Livingston
+Wed Nov 1 2023,Motherwell,2-4,0-2,Aberdeen
+Wed Nov 1 2023,St Johnstone,2-1,2-0,Kilmarnock
+Sat Nov 4 2023,Ross County,0-3,0-1,Celtic
+Sat Nov 4 2023,Kilmarnock,1-0,0-0,Motherwell
+Sun Nov 5 2023,Dundee,1-0,0-0,Livingston
+Tue Nov 7 2023,St Johnstone,2-2,2-0,Motherwell
+Wed Nov 8 2023,St Mirren,2-2,0-1,Hibernian
+Sat Nov 11 2023,Dundee,4-0,2-0,St Mirren
+Sat Nov 11 2023,Hibernian,1-0,1-0,Kilmarnock
+Sat Nov 11 2023,Motherwell,1-2,0-1,Hearts
+Sat Nov 11 2023,St Johnstone,1-0,0-0,Ross County
+Sun Nov 12 2023,Livingston,0-2,0-1,Rangers
+Sun Nov 12 2023,Celtic,6-0,2-0,Aberdeen
+Sat Nov 25 2023,Celtic,1-1,0-0,Motherwell
+Sat Nov 25 2023,Dundee,1-2,0-1,Hibernian
+Sat Nov 25 2023,Hearts,1-0,0-0,St Johnstone
+Sat Nov 25 2023,Ross County,0-0,0-0,Kilmarnock
+Sat Nov 25 2023,St Mirren,1-0,1-0,Livingston
+Sun Nov 26 2023,Aberdeen,1-1,1-0,Rangers
+Tue Nov 28 2023,Ross County,1-0,0-0,St Mirren
+Sat Dec 2 2023,Kilmarnock,0-1,0-1,Hearts
+Sat Dec 2 2023,Motherwell,3-3,1-2,Dundee
+Sun Dec 3 2023,St Johnstone,1-3,1-0,Celtic
+Sun Dec 3 2023,Hibernian,2-0,1-0,Aberdeen
+Sun Dec 3 2023,Rangers,2-0,1-0,St Mirren
+Tue Dec 5 2023,Ross County,3-0,2-0,Motherwell
+Wed Dec 6 2023,Aberdeen,0-1,0-0,Kilmarnock
+Wed Dec 6 2023,Celtic,4-1,2-0,Hibernian
+Wed Dec 6 2023,St Johnstone,1-0,0-0,St Mirren
+Wed Dec 6 2023,Hearts,0-1,0-1,Rangers
+Sat Dec 9 2023,Aberdeen,2-1,0-1,Hearts
+Sat Dec 9 2023,Livingston,0-1,0-1,Hibernian
+Sat Dec 9 2023,Motherwell,1-1,0-0,St Johnstone
+Sat Dec 9 2023,Rangers,3-1,3-1,Dundee
+Sat Dec 9 2023,St Mirren,2-0,0-0,Ross County
+Sun Dec 10 2023,Kilmarnock,2-1,0-1,Celtic
+Sat Dec 16 2023,Celtic,0-2,0-2,Hearts
+Sat Dec 16 2023,Livingston,0-0,0-0,Kilmarnock
+Sat Dec 16 2023,Ross County,0-1,0-0,Dundee
+Sat Dec 16 2023,St Johnstone,1-0,0-0,Hibernian
+Sat Dec 16 2023,St Mirren,0-0,0-0,Motherwell
+Wed Dec 20 2023,Aberdeen,2-1,1-1,Livingston
+Wed Dec 20 2023,Rangers,2-0,1-0,St Johnstone
+Sat Dec 23 2023,Celtic,2-0,0-0,Livingston
+Sat Dec 23 2023,Hearts,2-0,1-0,St Mirren
+Sat Dec 23 2023,Kilmarnock,2-1,2-0,St Johnstone
+Sun Dec 24 2023,Motherwell,0-2,0-2,Rangers
+Tue Dec 26 2023,Dundee,0-3,0-0,Celtic
+Wed Dec 27 2023,Livingston,0-0,0-0,St Johnstone
+Wed Dec 27 2023,St Mirren,0-1,0-1,Kilmarnock
+Wed Dec 27 2023,Hibernian,0-1,0-0,Hearts
+Sat Dec 30 2023,Celtic,2-1,1-0,Rangers
+Sat Dec 30 2023,Aberdeen,0-3,0-1,St Mirren
+Sat Dec 30 2023,Hearts,2-2,0-0,Ross County
+Sat Dec 30 2023,Kilmarnock,2-2,0-1,Dundee
+Sat Dec 30 2023,Motherwell,3-1,3-1,Livingston
+Tue Jan 2 2024,Hibernian,2-2,1-1,Motherwell
+Tue Jan 2 2024,Livingston,1-2,0-0,Hearts
+Tue Jan 2 2024,Rangers,3-1,2-0,Kilmarnock
+Tue Jan 2 2024,Ross County,0-3,0-2,Aberdeen
+Tue Jan 2 2024,St Mirren,0-3,0-2,Celtic
+Tue Jan 23 2024,Hearts,3-2,0-2,Dundee
+Wed Jan 24 2024,Hibernian,0-3,0-2,Rangers
+Wed Jan 24 2024,St Johnstone,1-1,0-0,Aberdeen
+Sat Jan 27 2024,St Mirren,0-1,0-1,Rangers
+Sat Jan 27 2024,Celtic,1-0,1-0,Ross County
+Sat Jan 27 2024,Hearts,2-0,0-0,Aberdeen
+Sat Jan 27 2024,Kilmarnock,2-2,1-0,Hibernian
+Sat Jan 27 2024,Livingston,1-4,0-1,Dundee
+Sat Jan 27 2024,St Johnstone,1-1,1-1,Motherwell
+Tue Jan 30 2024,Aberdeen,1-1,1-0,Dundee
+Tue Jan 30 2024,Livingston,2-2,1-1,Ross County
+Sat Feb 3 2024,Aberdeen,1-1,0-0,Celtic
+Sat Feb 3 2024,Dundee,2-3,1-0,Hearts
+Sat Feb 3 2024,Hibernian,0-3,0-3,St Mirren
+Sat Feb 3 2024,Motherwell,1-1,1-1,Kilmarnock
+Sat Feb 3 2024,Rangers,3-0,2-0,Livingston
+Sat Feb 3 2024,Ross County,0-1,0-1,St Johnstone
+Tue Feb 6 2024,Motherwell,5-0,3-0,Ross County
+Tue Feb 6 2024,Rangers,2-1,1-1,Aberdeen
+Wed Feb 7 2024,Kilmarnock,1-0,0-0,Livingston
+Wed Feb 7 2024,St Johnstone,0-1,0-0,Hearts
+Wed Feb 7 2024,St Mirren,2-0,0-0,Dundee
+Wed Feb 7 2024,Hibernian,1-2,0-1,Celtic
+Sun Feb 11 2024,Dundee,2-1,0-1,St Johnstone
+Wed Feb 14 2024,Aberdeen,3-3,2-3,Motherwell
+Wed Feb 14 2024,Rangers,3-1,2-1,Ross County
+Sat Feb 17 2024,Aberdeen,2-2,1-1,Hibernian
+Sat Feb 17 2024,Celtic,1-1,1-0,Kilmarnock
+Sat Feb 17 2024,Dundee,2-0,1-0,Ross County
+Sat Feb 17 2024,Hearts,2-0,0-0,Motherwell
+Sat Feb 17 2024,Livingston,1-0,1-0,St Mirren
+Sun Feb 18 2024,St Johnstone,0-3,0-1,Rangers
+Sat Feb 24 2024,Hibernian,2-1,1-0,Dundee
+Sat Feb 24 2024,Kilmarnock,2-0,1-0,Aberdeen
+Sat Feb 24 2024,Rangers,5-0,3-0,Hearts
+Sat Feb 24 2024,Ross County,3-2,2-0,Livingston
+Sat Feb 24 2024,St Mirren,2-0,1-0,St Johnstone
+Sun Feb 25 2024,Motherwell,1-3,1-0,Celtic
+Tue Feb 27 2024,Ross County,1-1,1-0,St Mirren
+Wed Feb 28 2024,Aberdeen,0-2,0-1,St Johnstone
+Wed Feb 28 2024,Celtic,7-1,6-0,Dundee
+Wed Feb 28 2024,Hearts,1-1,1-1,Hibernian
+Wed Feb 28 2024,Kilmarnock,1-2,1-0,Rangers
+Wed Feb 28 2024,Livingston,1-3,1-0,Motherwell
+Sat Mar 2 2024,Dundee,2-2,1-1,Kilmarnock
+Sat Mar 2 2024,Hibernian,2-0,0-0,Ross County
+Sat Mar 2 2024,Rangers,1-2,0-1,Motherwell
+Sat Mar 2 2024,St Johnstone,1-1,0-1,Livingston
+Sat Mar 2 2024,St Mirren,2-1,0-1,Aberdeen
+Sun Mar 3 2024,Hearts,2-0,1-0,Celtic
+Wed Mar 13 2024,Dundee,1-0,0-0,Aberdeen
+Wed Mar 13 2024,Ross County,2-2,1-0,Hibernian
+Sat Mar 16 2024,Celtic,3-1,1-0,St Johnstone
+Sat Mar 16 2024,Hibernian,3-0,3-0,Livingston
+Sat Mar 16 2024,Kilmarnock,5-2,0-2,St Mirren
+Sat Mar 16 2024,Motherwell,0-1,0-1,Aberdeen
+Sat Mar 16 2024,Ross County,2-1,1-0,Hearts
+Sat Mar 30 2024,Aberdeen,2-1,1-1,Ross County
+Sat Mar 30 2024,Hearts,1-1,1-0,Kilmarnock
+Sat Mar 30 2024,Motherwell,1-1,0-1,St Mirren
+Sat Mar 30 2024,Rangers,3-1,2-1,Hibernian
+Sat Mar 30 2024,St Johnstone,1-2,0-1,Dundee
+Sun Mar 31 2024,Livingston,0-3,0-0,Celtic
+Sat Apr 6 2024,Dundee,2-3,1-0,Motherwell
+Sat Apr 6 2024,Hibernian,1-2,0-0,St Johnstone
+Sat Apr 6 2024,Kilmarnock,1-0,0-0,Ross County
+Sat Apr 6 2024,Livingston,0-0,0-0,Aberdeen
+Sat Apr 6 2024,St Mirren,1-2,0-1,Hearts
+Sun Apr 7 2024,Rangers,3-3,0-2,Celtic
+Sat Apr 13 2024,Aberdeen,0-0,0-0,Dundee
+Sat Apr 13 2024,Celtic,3-0,0-0,St Mirren
+Sat Apr 13 2024,Hearts,4-2,4-2,Livingston
+Sat Apr 13 2024,Motherwell,1-1,0-0,Hibernian
+Sat Apr 13 2024,St Johnstone,0-2,0-1,Kilmarnock
+Sun Apr 14 2024,Ross County,3-2,0-1,Rangers
+Wed Apr 17 2024,Dundee,0-0,0-0,Rangers
+Sat Apr 27 2024,Aberdeen,1-0,0-0,Motherwell
+Sat Apr 27 2024,Kilmarnock,0-0,0-0,Hearts
+Sat Apr 27 2024,Livingston,2-0,1-0,Ross County
+Sat Apr 27 2024,St Johnstone,1-3,0-2,Hibernian
+Sun Apr 28 2024,St Mirren,1-2,1-1,Rangers
+Sun Apr 28 2024,Dundee,1-2,0-1,Celtic
+Sat May 4 2024,Aberdeen,1-0,0-0,St Johnstone
+Sat May 4 2024,Celtic,3-0,2-0,Hearts
+Sat May 4 2024,Dundee,1-3,0-1,St Mirren
+Sat May 4 2024,Motherwell,4-1,2-0,Livingston
+Sat May 4 2024,Ross County,2-1,1-1,Hibernian
+Sun May 5 2024,Rangers,4-1,1-1,Kilmarnock
+Sat May 11 2024,Celtic,2-1,2-1,Rangers
+Sat May 11 2024,Hearts,3-0,1-0,Dundee
+Sat May 11 2024,Livingston,2-1,0-1,St Johnstone
+Sat May 11 2024,Ross County,1-5,1-2,Motherwell
+Sat May 11 2024,St Mirren,0-1,0-1,Kilmarnock
+Sun May 12 2024,Hibernian,0-4,0-2,Aberdeen
+Tue May 14 2024,Rangers,5-2,1-2,Dundee
+Wed May 15 2024,Kilmarnock,0-5,0-3,Celtic
+Wed May 15 2024,Aberdeen,5-1,0-0,Livingston
+Wed May 15 2024,Hibernian,3-0,2-0,Motherwell
+Wed May 15 2024,St Johnstone,1-1,0-1,Ross County
+Wed May 15 2024,St Mirren,2-2,1-1,Hearts
+Sat May 18 2024,Celtic,3-2,2-2,St Mirren
+Sat May 18 2024,Dundee,1-1,1-1,Kilmarnock
+Sat May 18 2024,Hearts,3-3,1-0,Rangers
+Sun May 19 2024,Livingston,1-1,0-0,Hibernian
+Sun May 19 2024,Motherwell,1-2,0-2,St Johnstone
+Sun May 19 2024,Ross County,2-2,1-1,Aberdeen

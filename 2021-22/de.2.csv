@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 23 2021,Schalke 04,1-3,1-0,Hamburg
+Sat Jul 24 2021,Darmstadt,0-2,0-1,Regensburg
+Sat Jul 24 2021,Dresden,3-0,1-0,Ingolstadt
+Sat Jul 24 2021,Hansa Rostock,1-3,0-2,Karlsruhe
+Sat Jul 24 2021,Heidenheim,0-0,0-0,Paderborn
+Sat Jul 24 2021,Werder Bremen,1-1,0-0,Hannover
+Sun Jul 25 2021,Nurnberg,0-0,0-0,Erzgebirge Aue
+Sun Jul 25 2021,Sandhausen,0-2,0-0,Fortuna Dusseldorf
+Sun Jul 25 2021,St Pauli,3-0,1-0,Holstein Kiel
+Fri Jul 30 2021,Karlsruhe,3-0,1-0,Darmstadt
+Fri Jul 30 2021,Paderborn,2-2,1-0,Nurnberg
+Sat Jul 31 2021,Hannover,0-3,0-1,Hansa Rostock
+Sat Jul 31 2021,Ingolstadt,1-2,0-0,Heidenheim
+Sat Jul 31 2021,Regensburg,3-0,1-0,Sandhausen
+Sat Jul 31 2021,Fortuna Dusseldorf,2-3,0-1,Werder Bremen
+Sun Aug 1 2021,Erzgebirge Aue,0-0,0-0,St Pauli
+Sun Aug 1 2021,Hamburg,1-1,1-0,Dresden
+Sun Aug 1 2021,Holstein Kiel,0-3,0-2,Schalke 04
+Fri Aug 13 2021,Schalke 04,1-1,1-0,Erzgebirge Aue
+Fri Aug 13 2021,St Pauli,3-2,1-1,Hamburg
+Sat Aug 14 2021,Holstein Kiel,0-3,0-2,Regensburg
+Sat Aug 14 2021,Nurnberg,2-0,0-0,Fortuna Dusseldorf
+Sat Aug 14 2021,Sandhausen,0-0,0-0,Karlsruhe
+Sat Aug 14 2021,Dresden,2-0,0-0,Hannover
+Sun Aug 15 2021,Darmstadt,6-1,4-0,Ingolstadt
+Sun Aug 15 2021,Heidenheim,1-1,0-0,Hansa Rostock
+Sun Aug 15 2021,Werder Bremen,1-4,0-3,Paderborn
+Fri Aug 20 2021,Fortuna Dusseldorf,2-2,1-1,Holstein Kiel
+Fri Aug 20 2021,Hannover,1-0,0-0,Heidenheim
+Sat Aug 21 2021,Karlsruhe,0-0,0-0,Werder Bremen
+Sat Aug 21 2021,Paderborn,3-1,1-1,St Pauli
+Sat Aug 21 2021,Regensburg,4-1,1-0,Schalke 04
+Sat Aug 21 2021,Hansa Rostock,1-3,1-1,Dresden
+Sun Aug 22 2021,Erzgebirge Aue,1-3,0-0,Sandhausen
+Sun Aug 22 2021,Hamburg,2-2,2-2,Darmstadt
+Sun Aug 22 2021,Ingolstadt,0-0,0-0,Nurnberg
+Fri Aug 27 2021,Nurnberg,2-1,0-0,Karlsruhe
+Fri Aug 27 2021,Sandhausen,0-2,0-1,Ingolstadt
+Sat Aug 28 2021,Darmstadt,4-0,2-0,Hannover
+Sat Aug 28 2021,Heidenheim,0-0,0-0,Hamburg
+Sat Aug 28 2021,Holstein Kiel,3-0,2-0,Erzgebirge Aue
+Sat Aug 28 2021,Schalke 04,3-1,1-1,Fortuna Dusseldorf
+Sun Aug 29 2021,Dresden,0-3,0-3,Paderborn
+Sun Aug 29 2021,St Pauli,2-0,0-0,Regensburg
+Sun Aug 29 2021,Werder Bremen,3-0,1-0,Hansa Rostock
+Sat Sep 11 2021,Hannover,1-0,1-0,St Pauli
+Sat Sep 11 2021,Ingolstadt,0-3,0-2,Werder Bremen
+Sat Sep 11 2021,Karlsruhe,2-2,1-0,Holstein Kiel
+Sat Sep 11 2021,Hamburg,2-1,0-0,Sandhausen
+Sun Sep 12 2021,Erzgebirge Aue,0-1,0-1,Fortuna Dusseldorf
+Sun Sep 12 2021,Hansa Rostock,2-1,1-0,Darmstadt
+Sun Sep 12 2021,Heidenheim,2-1,1-0,Dresden
+Sun Sep 12 2021,Paderborn,0-1,0-0,Schalke 04
+Sun Sep 12 2021,Regensburg,2-2,1-1,Nurnberg
+Fri Sep 17 2021,Nurnberg,1-0,0-0,Hansa Rostock
+Fri Sep 17 2021,Schalke 04,1-2,1-1,Karlsruhe
+Sat Sep 18 2021,Fortuna Dusseldorf,1-1,1-1,Regensburg
+Sat Sep 18 2021,Holstein Kiel,0-3,0-3,Hannover
+Sat Sep 18 2021,Sandhausen,1-3,0-2,Heidenheim
+Sat Sep 18 2021,Werder Bremen,0-2,0-2,Hamburg
+Sun Sep 19 2021,Darmstadt,1-0,1-0,Dresden
+Sun Sep 19 2021,Erzgebirge Aue,1-4,0-3,Paderborn
+Sun Sep 19 2021,St Pauli,4-1,1-0,Ingolstadt
+Fri Sep 24 2021,Heidenheim,2-1,1-0,Darmstadt
+Fri Sep 24 2021,Regensburg,3-2,2-0,Erzgebirge Aue
+Sat Sep 25 2021,Ingolstadt,1-2,0-0,Fortuna Dusseldorf
+Sat Sep 25 2021,Karlsruhe,1-3,0-2,St Pauli
+Sat Sep 25 2021,Paderborn,1-2,1-0,Holstein Kiel
+Sat Sep 25 2021,Hansa Rostock,0-2,0-1,Schalke 04
+Sun Sep 26 2021,Dresden,3-0,1-0,Werder Bremen
+Sun Sep 26 2021,Hamburg,2-2,1-1,Nurnberg
+Sun Sep 26 2021,Hannover,1-2,0-0,Sandhausen
+Fri Oct 1 2021,Erzgebirge Aue,1-1,1-0,Hamburg
+Fri Oct 1 2021,Werder Bremen,3-0,0-0,Heidenheim
+Sat Oct 2 2021,Fortuna Dusseldorf,2-3,1-1,Paderborn
+Sat Oct 2 2021,Holstein Kiel,0-2,0-2,Hansa Rostock
+Sat Oct 2 2021,Regensburg,2-2,0-1,Karlsruhe
+Sat Oct 2 2021,Nurnberg,0-0,0-0,Hannover
+Sun Oct 3 2021,Sandhausen,1-6,1-2,Darmstadt
+Sun Oct 3 2021,Schalke 04,3-0,1-0,Ingolstadt
+Sun Oct 3 2021,St Pauli,3-0,1-0,Dresden
+Fri Oct 15 2021,Hannover,0-1,0-0,Schalke 04
+Fri Oct 15 2021,Paderborn,1-1,0-1,Regensburg
+Sat Oct 16 2021,Heidenheim,2-4,1-0,St Pauli
+Sat Oct 16 2021,Ingolstadt,1-1,0-1,Holstein Kiel
+Sat Oct 16 2021,Karlsruhe,2-1,0-0,Erzgebirge Aue
+Sat Oct 16 2021,Hamburg,1-1,1-0,Fortuna Dusseldorf
+Sun Oct 17 2021,Darmstadt,3-0,1-0,Werder Bremen
+Sun Oct 17 2021,Dresden,0-1,0-1,Nurnberg
+Sun Oct 17 2021,Hansa Rostock,1-1,0-1,Sandhausen
+Fri Oct 22 2021,Erzgebirge Aue,1-0,0-0,Ingolstadt
+Fri Oct 22 2021,Paderborn,1-2,1-1,Hamburg
+Sat Oct 23 2021,Fortuna Dusseldorf,3-1,1-1,Karlsruhe
+Sat Oct 23 2021,Holstein Kiel,1-1,1-1,Darmstadt
+Sat Oct 23 2021,Nurnberg,4-0,1-0,Heidenheim
+Sat Oct 23 2021,Schalke 04,3-0,1-0,Dresden
+Sun Oct 24 2021,Regensburg,3-1,2-0,Hannover
+Sun Oct 24 2021,Sandhausen,2-2,1-1,Werder Bremen
+Sun Oct 24 2021,St Pauli,4-0,2-0,Hansa Rostock
+Fri Oct 29 2021,Darmstadt,2-0,1-0,Nurnberg
+Fri Oct 29 2021,Heidenheim,1-0,0-0,Schalke 04
+Sat Oct 30 2021,Dresden,0-1,0-0,Sandhausen
+Sat Oct 30 2021,Hannover,1-1,1-1,Erzgebirge Aue
+Sat Oct 30 2021,Werder Bremen,1-1,0-0,St Pauli
+Sat Oct 30 2021,Hamburg,1-1,1-0,Holstein Kiel
+Sun Oct 31 2021,Hansa Rostock,2-1,1-0,Fortuna Dusseldorf
+Sun Oct 31 2021,Ingolstadt,0-3,0-1,Regensburg
+Sun Oct 31 2021,Karlsruhe,2-4,0-4,Paderborn
+Fri Nov 5 2021,Holstein Kiel,2-1,0-1,Dresden
+Fri Nov 5 2021,Nurnberg,1-2,1-0,Werder Bremen
+Sat Nov 6 2021,Fortuna Dusseldorf,1-1,1-0,Hannover
+Sat Nov 6 2021,Paderborn,2-1,0-0,Ingolstadt
+Sat Nov 6 2021,Regensburg,2-3,1-1,Hansa Rostock
+Sat Nov 6 2021,Karlsruhe,1-1,1-1,Hamburg
+Sun Nov 7 2021,Erzgebirge Aue,2-0,2-0,Heidenheim
+Sun Nov 7 2021,Schalke 04,2-4,1-2,Darmstadt
+Fri Nov 19 2021,Hannover,0-0,0-0,Paderborn
+Fri Nov 19 2021,Sandhausen,1-2,0-0,Nurnberg
+Sat Nov 20 2021,Darmstadt,4-0,4-0,St Pauli
+Sat Nov 20 2021,Hamburg,4-1,2-1,Regensburg
+Sat Nov 20 2021,Hansa Rostock,1-2,1-1,Erzgebirge Aue
+Sat Nov 20 2021,Werder Bremen,1-1,0-0,Schalke 04
+Sun Nov 21 2021,Dresden,1-0,1-0,Fortuna Dusseldorf
+Sun Nov 21 2021,Heidenheim,2-1,1-1,Holstein Kiel
+Sun Nov 21 2021,Ingolstadt,1-1,1-1,Karlsruhe
+Wed Nov 24 2021,St Pauli,3-1,2-0,Sandhausen
+Fri Nov 26 2021,Fortuna Dusseldorf,0-1,0-0,Heidenheim
+Fri Nov 26 2021,Regensburg,3-1,1-0,Dresden
+Sat Nov 27 2021,Erzgebirge Aue,1-2,0-0,Darmstadt
+Sat Nov 27 2021,Karlsruhe,4-0,3-0,Hannover
+Sat Nov 27 2021,Schalke 04,5-2,0-0,Sandhausen
+Sat Nov 27 2021,Holstein Kiel,2-1,1-0,Werder Bremen
+Sun Nov 28 2021,Hamburg,3-0,2-0,Ingolstadt
+Sun Nov 28 2021,Nurnberg,2-3,1-2,St Pauli
+Sun Nov 28 2021,Paderborn,1-1,0-1,Hansa Rostock
+Fri Dec 3 2021,Darmstadt,1-3,0-2,Fortuna Dusseldorf
+Fri Dec 3 2021,Werder Bremen,4-0,2-0,Erzgebirge Aue
+Sat Dec 4 2021,Hansa Rostock,1-1,0-1,Ingolstadt
+Sat Dec 4 2021,Nurnberg,2-1,1-0,Holstein Kiel
+Sat Dec 4 2021,Sandhausen,1-1,0-1,Paderborn
+Sat Dec 4 2021,St Pauli,2-1,2-0,Schalke 04
+Sun Dec 5 2021,Dresden,3-1,0-0,Karlsruhe
+Sun Dec 5 2021,Hannover,1-0,1-0,Hamburg
+Sun Dec 5 2021,Heidenheim,3-0,1-0,Regensburg
+Fri Dec 10 2021,Regensburg,2-3,1-1,Werder Bremen
+Fri Dec 10 2021,Schalke 04,4-1,1-0,Nurnberg
+Sat Dec 11 2021,Holstein Kiel,2-2,1-1,Sandhausen
+Sat Dec 11 2021,Ingolstadt,1-2,1-2,Hannover
+Sat Dec 11 2021,Paderborn,0-1,0-0,Darmstadt
+Sat Dec 11 2021,Fortuna Dusseldorf,1-1,0-0,St Pauli
+Sun Dec 12 2021,Erzgebirge Aue,0-1,0-0,Dresden
+Sun Dec 12 2021,Hamburg,3-0,2-0,Hansa Rostock
+Sun Dec 12 2021,Karlsruhe,3-2,2-1,Heidenheim
+Fri Dec 17 2021,Fortuna Dusseldorf,0-1,0-1,Sandhausen
+Fri Dec 17 2021,Holstein Kiel,3-0,3-0,St Pauli
+Sat Dec 18 2021,Erzgebirge Aue,1-3,1-2,Nurnberg
+Sat Dec 18 2021,Ingolstadt,3-0,2-0,Dresden
+Sat Dec 18 2021,Paderborn,1-2,0-0,Heidenheim
+Sat Dec 18 2021,Hamburg,1-1,1-0,Schalke 04
+Sun Dec 19 2021,Hannover,1-4,1-1,Werder Bremen
+Sun Dec 19 2021,Karlsruhe,2-2,2-1,Hansa Rostock
+Sun Dec 19 2021,Regensburg,0-2,0-0,Darmstadt
+Fri Jan 14 2022,Dresden,1-1,0-1,Hamburg
+Fri Jan 14 2022,Hansa Rostock,0-1,0-0,Hannover
+Sat Jan 15 2022,Nurnberg,1-2,0-2,Paderborn
+Sat Jan 15 2022,St Pauli,2-2,1-1,Erzgebirge Aue
+Sat Jan 15 2022,Werder Bremen,3-0,0-0,Fortuna Dusseldorf
+Sat Jan 15 2022,Darmstadt,2-2,0-1,Karlsruhe
+Sun Jan 16 2022,Heidenheim,2-1,1-0,Ingolstadt
+Sun Jan 16 2022,Sandhausen,0-3,0-2,Regensburg
+Sun Jan 16 2022,Schalke 04,1-1,0-0,Holstein Kiel
+Fri Jan 21 2022,Fortuna Dusseldorf,0-1,0-1,Nurnberg
+Fri Jan 21 2022,Hamburg,2-1,0-1,St Pauli
+Sat Jan 22 2022,Hansa Rostock,0-0,0-0,Heidenheim
+Sat Jan 22 2022,Ingolstadt,0-2,0-1,Darmstadt
+Sat Jan 22 2022,Paderborn,3-4,2-1,Werder Bremen
+Sat Jan 22 2022,Erzgebirge Aue,0-5,0-2,Schalke 04
+Sun Jan 23 2022,Hannover,0-0,0-0,Dresden
+Sun Jan 23 2022,Regensburg,1-2,1-1,Holstein Kiel
+Fri Feb 4 2022,Heidenheim,3-1,2-1,Hannover
+Fri Feb 4 2022,Nurnberg,0-5,0-3,Ingolstadt
+Sat Feb 5 2022,Sandhausen,2-0,1-0,Erzgebirge Aue
+Sat Feb 5 2022,Schalke 04,2-1,0-1,Regensburg
+Sat Feb 5 2022,Werder Bremen,2-1,0-0,Karlsruhe
+Sat Feb 5 2022,St Pauli,2-2,2-1,Paderborn
+Sun Feb 6 2022,Darmstadt,0-5,0-3,Hamburg
+Sun Feb 6 2022,Dresden,1-4,0-4,Hansa Rostock
+Sun Feb 6 2022,Holstein Kiel,1-0,0-0,Fortuna Dusseldorf
+Tue Feb 8 2022,Karlsruhe,0-2,0-1,Sandhausen
+Fri Feb 11 2022,Erzgebirge Aue,2-3,0-2,Holstein Kiel
+Fri Feb 11 2022,Hansa Rostock,1-2,0-0,Werder Bremen
+Sat Feb 12 2022,Hamburg,2-0,0-0,Heidenheim
+Sat Feb 12 2022,Karlsruhe,4-1,1-1,Nurnberg
+Sat Feb 12 2022,Paderborn,0-0,0-0,Dresden
+Sat Feb 12 2022,Regensburg,2-3,0-2,St Pauli
+Sun Feb 13 2022,Fortuna Dusseldorf,2-1,0-1,Schalke 04
+Sun Feb 13 2022,Hannover,2-2,1-1,Darmstadt
+Sun Feb 13 2022,Ingolstadt,0-0,0-0,Sandhausen
+Fri Feb 18 2022,Dresden,1-1,0-0,Heidenheim
+Fri Feb 18 2022,Schalke 04,2-0,1-0,Paderborn
+Sat Feb 19 2022,Holstein Kiel,0-2,0-1,Karlsruhe
+Sat Feb 19 2022,Sandhausen,1-1,1-0,Hamburg
+Sat Feb 19 2022,Werder Bremen,1-1,0-0,Ingolstadt
+Sat Feb 19 2022,Nurnberg,2-0,1-0,Regensburg
+Sun Feb 20 2022,Darmstadt,1-1,1-0,Hansa Rostock
+Sun Feb 20 2022,Fortuna Dusseldorf,3-1,1-0,Erzgebirge Aue
+Sun Feb 20 2022,St Pauli,0-3,0-1,Hannover
+Fri Feb 25 2022,Hannover,2-0,0-0,Holstein Kiel
+Fri Feb 25 2022,Paderborn,3-3,1-0,Erzgebirge Aue
+Sat Feb 26 2022,Hansa Rostock,0-2,0-1,Nurnberg
+Sat Feb 26 2022,Ingolstadt,1-3,1-2,St Pauli
+Sat Feb 26 2022,Karlsruhe,1-1,1-1,Schalke 04
+Sat Feb 26 2022,Dresden,0-1,0-0,Darmstadt
+Sun Feb 27 2022,Hamburg,2-3,0-1,Werder Bremen
+Sun Feb 27 2022,Heidenheim,1-1,1-1,Sandhausen
+Sun Feb 27 2022,Regensburg,0-0,0-0,Fortuna Dusseldorf
+Fri Mar 4 2022,Darmstadt,3-2,0-1,Heidenheim
+Fri Mar 4 2022,Holstein Kiel,3-4,1-1,Paderborn
+Sat Mar 5 2022,Sandhausen,3-1,2-1,Hannover
+Sat Mar 5 2022,Schalke 04,3-4,2-2,Hansa Rostock
+Sat Mar 5 2022,St Pauli,3-1,3-0,Karlsruhe
+Sat Mar 5 2022,Nurnberg,2-1,1-1,Hamburg
+Sun Mar 6 2022,Erzgebirge Aue,1-0,1-0,Regensburg
+Sun Mar 6 2022,Fortuna Dusseldorf,3-0,2-0,Ingolstadt
+Sun Mar 6 2022,Werder Bremen,2-1,2-1,Dresden
+Fri Mar 11 2022,Darmstadt,1-1,1-0,Sandhausen
+Fri Mar 11 2022,Hansa Rostock,3-2,1-0,Holstein Kiel
+Sat Mar 12 2022,Dresden,1-1,1-1,St Pauli
+Sat Mar 12 2022,Paderborn,1-1,0-1,Fortuna Dusseldorf
+Sat Mar 12 2022,Heidenheim,2-1,1-0,Werder Bremen
+Sun Mar 13 2022,Hannover,0-3,0-1,Nurnberg
+Sun Mar 13 2022,Ingolstadt,0-3,0-0,Schalke 04
+Sun Mar 13 2022,Karlsruhe,1-1,0-1,Regensburg
+Fri Mar 18 2022,Erzgebirge Aue,0-3,0-0,Karlsruhe
+Fri Mar 18 2022,St Pauli,1-0,0-0,Heidenheim
+Sat Mar 19 2022,Fortuna Dusseldorf,1-1,0-0,Hamburg
+Sat Mar 19 2022,Sandhausen,0-1,0-0,Hansa Rostock
+Sat Mar 19 2022,Schalke 04,2-1,1-0,Hannover
+Sat Mar 19 2022,Werder Bremen,1-0,0-0,Darmstadt
+Sun Mar 20 2022,Holstein Kiel,1-0,1-0,Ingolstadt
+Sun Mar 20 2022,Nurnberg,1-1,1-1,Dresden
+Sun Mar 20 2022,Regensburg,1-0,0-0,Paderborn
+Fri Apr 1 2022,Dresden,1-2,0-1,Schalke 04
+Fri Apr 1 2022,Ingolstadt,3-2,2-0,Erzgebirge Aue
+Sat Apr 2 2022,Darmstadt,3-1,2-0,Holstein Kiel
+Sat Apr 2 2022,Hamburg,1-2,0-1,Paderborn
+Sat Apr 2 2022,Hannover,1-1,1-1,Regensburg
+Sat Apr 2 2022,Hansa Rostock,1-0,0-0,St Pauli
+Sun Apr 3 2022,Heidenheim,3-1,2-0,Nurnberg
+Sun Apr 3 2022,Karlsruhe,2-2,0-2,Fortuna Dusseldorf
+Sun Apr 3 2022,Werder Bremen,1-1,0-0,Sandhausen
+Tue Apr 5 2022,Hamburg,4-0,2-0,Erzgebirge Aue
+Fri Apr 8 2022,Fortuna Dusseldorf,3-0,1-0,Hansa Rostock
+Fri Apr 8 2022,Regensburg,1-1,0-1,Ingolstadt
+Sat Apr 9 2022,Erzgebirge Aue,1-3,0-2,Hannover
+Sat Apr 9 2022,Schalke 04,3-0,1-0,Heidenheim
+Sat Apr 9 2022,St Pauli,1-1,1-0,Werder Bremen
+Sat Apr 9 2022,Nurnberg,3-1,1-0,Darmstadt
+Sun Apr 10 2022,Holstein Kiel,1-0,1-0,Hamburg
+Sun Apr 10 2022,Paderborn,2-2,1-1,Karlsruhe
+Sun Apr 10 2022,Sandhausen,2-1,1-0,Dresden
+Sat Apr 16 2022,Dresden,0-0,0-0,Holstein Kiel
+Sat Apr 16 2022,Hannover,0-0,0-0,Fortuna Dusseldorf
+Sat Apr 16 2022,Sandhausen,1-1,0-1,St Pauli
+Sat Apr 16 2022,Hamburg,3-0,2-0,Karlsruhe
+Sun Apr 17 2022,Darmstadt,2-5,2-3,Schalke 04
+Sun Apr 17 2022,Hansa Rostock,1-1,1-0,Regensburg
+Sun Apr 17 2022,Heidenheim,0-2,0-0,Erzgebirge Aue
+Sun Apr 17 2022,Ingolstadt,0-1,0-0,Paderborn
+Sun Apr 17 2022,Werder Bremen,1-1,0-1,Nurnberg
+Fri Apr 22 2022,Fortuna Dusseldorf,2-2,2-0,Dresden
+Fri Apr 22 2022,Karlsruhe,2-2,0-1,Ingolstadt
+Sat Apr 23 2022,Holstein Kiel,1-1,0-0,Heidenheim
+Sat Apr 23 2022,Regensburg,2-4,0-1,Hamburg
+Sat Apr 23 2022,Schalke 04,1-4,0-2,Werder Bremen
+Sat Apr 23 2022,St Pauli,1-2,0-2,Darmstadt
+Sun Apr 24 2022,Erzgebirge Aue,2-2,2-1,Hansa Rostock
+Sun Apr 24 2022,Nurnberg,2-4,1-1,Sandhausen
+Sun Apr 24 2022,Paderborn,3-0,2-0,Hannover
+Fri Apr 29 2022,Hannover,2-0,1-0,Karlsruhe
+Fri Apr 29 2022,Heidenheim,1-3,0-2,Fortuna Dusseldorf
+Fri Apr 29 2022,Sandhausen,1-2,0-0,Schalke 04
+Fri Apr 29 2022,St Pauli,1-1,0-0,Nurnberg
+Fri Apr 29 2022,Werder Bremen,2-3,2-1,Holstein Kiel
+Sat Apr 30 2022,Dresden,1-1,0-0,Regensburg
+Sat Apr 30 2022,Hansa Rostock,0-0,0-0,Paderborn
+Sat Apr 30 2022,Ingolstadt,0-4,0-2,Hamburg
+Sat Apr 30 2022,Darmstadt,6-0,4-0,Erzgebirge Aue
+Fri May 6 2022,Fortuna Dusseldorf,2-1,2-0,Darmstadt
+Fri May 6 2022,Paderborn,2-0,1-0,Sandhausen
+Sat May 7 2022,Hamburg,2-1,2-1,Hannover
+Sat May 7 2022,Ingolstadt,0-0,0-0,Hansa Rostock
+Sat May 7 2022,Regensburg,0-2,0-0,Heidenheim
+Sat May 7 2022,Schalke 04,3-2,0-2,St Pauli
+Sun May 8 2022,Erzgebirge Aue,0-3,0-0,Werder Bremen
+Sun May 8 2022,Holstein Kiel,3-0,2-0,Nurnberg
+Sun May 8 2022,Karlsruhe,2-2,0-1,Dresden
+Sun May 15 2022,Darmstadt,3-0,3-0,Paderborn
+Sun May 15 2022,Dresden,0-1,0-0,Erzgebirge Aue
+Sun May 15 2022,Hannover,3-2,1-1,Ingolstadt
+Sun May 15 2022,Hansa Rostock,2-3,1-0,Hamburg
+Sun May 15 2022,Heidenheim,2-0,2-0,Karlsruhe
+Sun May 15 2022,Nurnberg,1-2,0-1,Schalke 04
+Sun May 15 2022,Sandhausen,3-1,3-0,Holstein Kiel
+Sun May 15 2022,St Pauli,2-0,0-0,Fortuna Dusseldorf
+Sun May 15 2022,Werder Bremen,2-0,1-0,Regensburg

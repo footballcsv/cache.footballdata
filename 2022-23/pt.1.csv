@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 5 2022,Benfica,4-0,3-0,Arouca
+Sat Aug 6 2022,Rio Ave,0-1,0-0,Vizela
+Sat Aug 6 2022,Estoril,2-0,2-0,Famalicao
+Sat Aug 6 2022,Porto,5-1,3-0,Maritimo
+Sun Aug 7 2022,Santa Clara,0-0,0-0,Casa Pia
+Sun Aug 7 2022,Sp Braga,3-3,2-2,Sp Lisbon
+Sun Aug 7 2022,Chaves,0-1,0-1,Guimaraes
+Sun Aug 7 2022,Portimonense,0-1,0-1,Boavista
+Mon Aug 8 2022,Gil Vicente,1-0,0-0,Pacos Ferreira
+Fri Aug 12 2022,Famalicao,0-3,0-2,Sp Braga
+Sat Aug 13 2022,Casa Pia,0-1,0-0,Benfica
+Sat Aug 13 2022,Sp Lisbon,3-0,1-0,Rio Ave
+Sun Aug 14 2022,Boavista,2-1,0-1,Santa Clara
+Sun Aug 14 2022,Vizela,0-1,0-0,Porto
+Sun Aug 14 2022,Guimaraes,1-0,1-0,Estoril
+Mon Aug 15 2022,Maritimo,1-2,1-0,Chaves
+Mon Aug 15 2022,Arouca,1-0,1-0,Gil Vicente
+Mon Aug 15 2022,Pacos Ferreira,0-3,0-1,Portimonense
+Fri Aug 19 2022,Estoril,2-2,1-0,Rio Ave
+Sat Aug 20 2022,Santa Clara,1-2,0-0,Arouca
+Sat Aug 20 2022,Chaves,1-1,1-1,Vizela
+Sat Aug 20 2022,Porto,3-0,1-0,Sp Lisbon
+Sun Aug 21 2022,Casa Pia,2-0,0-0,Boavista
+Sun Aug 21 2022,Sp Braga,5-0,2-0,Maritimo
+Sun Aug 21 2022,Portimonense,2-1,0-0,Guimaraes
+Mon Aug 22 2022,Gil Vicente,0-0,0-0,Famalicao
+Fri Aug 26 2022,Pacos Ferreira,0-3,0-2,Estoril
+Sat Aug 27 2022,Maritimo,0-1,0-1,Portimonense
+Sat Aug 27 2022,Boavista,0-3,0-1,Benfica
+Sat Aug 27 2022,Sp Lisbon,0-2,0-0,Chaves
+Sun Aug 28 2022,Famalicao,1-0,1-0,Santa Clara
+Sun Aug 28 2022,Arouca,0-6,0-4,Sp Braga
+Sun Aug 28 2022,Rio Ave,3-1,3-0,Porto
+Mon Aug 29 2022,Guimaraes,0-1,0-1,Casa Pia
+Mon Aug 29 2022,Vizela,2-2,2-2,Gil Vicente
+Tue Aug 30 2022,Benfica,3-2,2-1,Pacos Ferreira
+Fri Sep 2 2022,Benfica,2-1,0-1,Vizela
+Fri Sep 2 2022,Estoril,0-2,0-2,Sp Lisbon
+Sat Sep 3 2022,Sp Braga,1-0,0-0,Guimaraes
+Sat Sep 3 2022,Gil Vicente,0-2,0-2,Porto
+Sun Sep 4 2022,Casa Pia,0-0,0-0,Arouca
+Sun Sep 4 2022,Santa Clara,2-1,0-1,Maritimo
+Sun Sep 4 2022,Portimonense,1-0,0-0,Famalicao
+Mon Sep 5 2022,Boavista,1-0,0-0,Pacos Ferreira
+Mon Sep 5 2022,Chaves,1-1,1-0,Rio Ave
+Fri Sep 9 2022,Guimaraes,1-0,0-0,Santa Clara
+Sat Sep 10 2022,Famalicao,0-1,0-0,Benfica
+Sat Sep 10 2022,Sp Lisbon,4-0,2-0,Portimonense
+Sat Sep 10 2022,Porto,3-0,1-0,Chaves
+Sun Sep 11 2022,Pacos Ferreira,2-3,1-0,Casa Pia
+Sun Sep 11 2022,Arouca,1-2,1-1,Boavista
+Sun Sep 11 2022,Maritimo,1-2,1-0,Gil Vicente
+Sun Sep 11 2022,Rio Ave,2-3,0-2,Sp Braga
+Mon Sep 12 2022,Vizela,0-1,0-1,Estoril
+Fri Sep 16 2022,Portimonense,1-0,1-0,Chaves
+Sat Sep 17 2022,Gil Vicente,2-2,0-1,Rio Ave
+Sat Sep 17 2022,Santa Clara,1-1,1-0,Pacos Ferreira
+Sat Sep 17 2022,Estoril,1-1,1-0,Porto
+Sat Sep 17 2022,Boavista,2-1,1-0,Sp Lisbon
+Sun Sep 18 2022,Arouca,2-2,1-0,Guimaraes
+Sun Sep 18 2022,Benfica,5-0,1-0,Maritimo
+Sun Sep 18 2022,Casa Pia,1-0,0-0,Famalicao
+Sun Sep 18 2022,Sp Braga,2-0,0-0,Vizela
+Fri Sep 30 2022,Sp Lisbon,3-1,2-0,Gil Vicente
+Fri Sep 30 2022,Porto,4-1,2-0,Sp Braga
+Sat Oct 1 2022,Vizela,1-0,1-0,Portimonense
+Sat Oct 1 2022,Chaves,1-1,1-0,Estoril
+Sat Oct 1 2022,Guimaraes,0-0,0-0,Benfica
+Sun Oct 2 2022,Rio Ave,1-0,1-0,Santa Clara
+Sun Oct 2 2022,Pacos Ferreira,1-1,0-0,Arouca
+Sun Oct 2 2022,Famalicao,4-0,2-0,Boavista
+Mon Oct 3 2022,Maritimo,1-2,1-1,Casa Pia
+Fri Oct 7 2022,Gil Vicente,0-1,0-0,Estoril
+Sat Oct 8 2022,Santa Clara,1-2,0-1,Sp Lisbon
+Sat Oct 8 2022,Benfica,4-2,3-1,Rio Ave
+Sat Oct 8 2022,Portimonense,0-2,0-1,Porto
+Sat Oct 8 2022,Pacos Ferreira,0-1,0-1,Guimaraes
+Sun Oct 9 2022,Boavista,1-1,1-0,Maritimo
+Sun Oct 9 2022,Casa Pia,0-1,0-0,Vizela
+Sun Oct 9 2022,Sp Braga,0-1,0-1,Chaves
+Mon Oct 10 2022,Arouca,4-1,1-1,Famalicao
+Fri Oct 21 2022,Porto,0-1,0-0,Benfica
+Sat Oct 22 2022,Famalicao,2-1,1-1,Pacos Ferreira
+Sat Oct 22 2022,Estoril,0-2,0-2,Sp Braga
+Sat Oct 22 2022,Sp Lisbon,3-1,0-1,Casa Pia
+Sun Oct 23 2022,Maritimo,1-1,1-1,Arouca
+Sun Oct 23 2022,Vizela,0-1,0-0,Santa Clara
+Sun Oct 23 2022,Chaves,3-1,0-1,Gil Vicente
+Sun Oct 23 2022,Guimaraes,3-2,1-1,Boavista
+Mon Oct 24 2022,Rio Ave,1-0,1-0,Portimonense
+Fri Oct 28 2022,Pacos Ferreira,0-1,0-1,Maritimo
+Sat Oct 29 2022,Santa Clara,1-1,0-1,Porto
+Sat Oct 29 2022,Benfica,5-0,3-0,Chaves
+Sat Oct 29 2022,Arouca,1-0,0-0,Sp Lisbon
+Sun Oct 30 2022,Boavista,2-2,1-2,Vizela
+Sun Oct 30 2022,Portimonense,1-1,0-1,Estoril
+Sun Oct 30 2022,Casa Pia,1-0,0-0,Rio Ave
+Sun Oct 30 2022,Gil Vicente,0-1,0-0,Sp Braga
+Mon Oct 31 2022,Guimaraes,3-2,1-0,Famalicao
+Fri Nov 4 2022,Gil Vicente,1-2,1-1,Portimonense
+Sat Nov 5 2022,Vizela,0-1,0-1,Arouca
+Sat Nov 5 2022,Porto,4-0,3-0,Pacos Ferreira
+Sat Nov 5 2022,Sp Lisbon,3-0,2-0,Guimaraes
+Sun Nov 6 2022,Rio Ave,1-0,0-0,Boavista
+Sun Nov 6 2022,Maritimo,0-0,0-0,Famalicao
+Sun Nov 6 2022,Sp Braga,0-1,0-1,Casa Pia
+Sun Nov 6 2022,Estoril,1-5,0-3,Benfica
+Mon Nov 7 2022,Chaves,0-0,0-0,Santa Clara
+Sat Nov 12 2022,Arouca,0-1,0-0,Rio Ave
+Sat Nov 12 2022,Boavista,1-4,0-1,Porto
+Sun Nov 13 2022,Guimaraes,1-0,0-0,Maritimo
+Sun Nov 13 2022,Pacos Ferreira,0-2,0-0,Vizela
+Sun Nov 13 2022,Benfica,3-1,2-1,Gil Vicente
+Sun Nov 13 2022,Casa Pia,1-2,1-0,Chaves
+Sun Nov 13 2022,Portimonense,1-2,1-0,Sp Braga
+Sun Nov 13 2022,Famalicao,1-2,0-2,Sp Lisbon
+Mon Nov 14 2022,Santa Clara,3-1,2-1,Estoril
+Fri Dec 23 2022,Rio Ave,1-1,1-1,Maritimo
+Wed Dec 28 2022,Portimonense,1-2,1-1,Casa Pia
+Wed Dec 28 2022,Porto,5-1,3-0,Arouca
+Thu Dec 29 2022,Gil Vicente,1-0,1-0,Santa Clara
+Thu Dec 29 2022,Sp Lisbon,3-0,3-0,Pacos Ferreira
+Fri Dec 30 2022,Chaves,0-2,0-1,Famalicao
+Fri Dec 30 2022,Vizela,3-0,1-0,Guimaraes
+Fri Dec 30 2022,Sp Braga,3-0,2-0,Benfica
+Thu Jan 5 2023,Santa Clara,0-4,0-2,Sp Braga
+Fri Jan 6 2023,Benfica,1-0,1-0,Portimonense
+Fri Jan 6 2023,Famalicao,2-1,1-0,Vizela
+Sat Jan 7 2023,Arouca,2-0,1-0,Estoril
+Sat Jan 7 2023,Guimaraes,0-0,0-0,Rio Ave
+Sat Jan 7 2023,Casa Pia,0-0,0-0,Porto
+Sun Jan 8 2023,Pacos Ferreira,1-1,0-0,Chaves
+Sun Jan 8 2023,Maritimo,1-0,0-0,Sp Lisbon
+Sun Jan 8 2023,Boavista,1-0,1-0,Gil Vicente
+Fri Jan 13 2023,Portimonense,0-0,0-0,Santa Clara
+Sat Jan 14 2023,Vizela,3-0,2-0,Maritimo
+Sat Jan 14 2023,Rio Ave,0-1,0-1,Pacos Ferreira
+Sat Jan 14 2023,Sp Braga,1-0,0-0,Boavista
+Sun Jan 15 2023,Chaves,1-1,1-0,Arouca
+Sun Jan 15 2023,Benfica,2-2,1-1,Sp Lisbon
+Sun Jan 15 2023,Porto,4-1,3-0,Famalicao
+Mon Jan 16 2023,Estoril,2-0,1-0,Casa Pia
+Mon Jan 16 2023,Gil Vicente,2-1,1-1,Guimaraes
+Fri Jan 20 2023,Arouca,4-0,2-0,Portimonense
+Fri Jan 20 2023,Sp Lisbon,2-1,0-0,Vizela
+Sat Jan 21 2023,Pacos Ferreira,1-2,0-0,Sp Braga
+Sat Jan 21 2023,Santa Clara,0-3,0-2,Benfica
+Sat Jan 21 2023,Guimaraes,0-1,0-1,Porto
+Sun Jan 22 2023,Maritimo,1-0,1-0,Estoril
+Sun Jan 22 2023,Casa Pia,1-3,0-0,Gil Vicente
+Sun Jan 22 2023,Famalicao,0-0,0-0,Rio Ave
+Mon Jan 23 2023,Boavista,1-1,1-0,Chaves
+Thu Jan 26 2023,Pacos Ferreira,0-2,0-2,Benfica
+Sun Jan 29 2023,Casa Pia,2-1,0-0,Santa Clara
+Sun Jan 29 2023,Vizela,3-1,0-1,Rio Ave
+Sun Jan 29 2023,Boavista,4-2,0-0,Portimonense
+Sun Jan 29 2023,Famalicao,1-0,0-0,Estoril
+Mon Jan 30 2023,Guimaraes,2-1,1-0,Chaves
+Tue Jan 31 2023,Pacos Ferreira,2-1,1-0,Gil Vicente
+Tue Jan 31 2023,Arouca,0-3,0-1,Benfica
+Wed Feb 1 2023,Maritimo,0-2,0-0,Porto
+Wed Feb 1 2023,Sp Lisbon,5-0,1-0,Sp Braga
+Sat Feb 4 2023,Santa Clara,2-2,0-1,Boavista
+Sat Feb 4 2023,Benfica,3-0,2-0,Casa Pia
+Sat Feb 4 2023,Estoril,0-1,0-1,Guimaraes
+Sun Feb 5 2023,Chaves,2-1,2-1,Maritimo
+Sun Feb 5 2023,Sp Braga,4-1,1-0,Famalicao
+Sun Feb 5 2023,Porto,2-0,1-0,Vizela
+Sun Feb 5 2023,Gil Vicente,1-1,1-1,Arouca
+Mon Feb 6 2023,Portimonense,1-0,0-0,Pacos Ferreira
+Mon Feb 6 2023,Rio Ave,0-1,0-0,Sp Lisbon
+Thu Feb 9 2023,Estoril,2-1,0-1,Boavista
+Fri Feb 10 2023,Vizela,0-0,0-0,Chaves
+Sat Feb 11 2023,Arouca,1-0,0-0,Santa Clara
+Sat Feb 11 2023,Guimaraes,1-0,1-0,Portimonense
+Sun Feb 12 2023,Famalicao,0-1,0-0,Gil Vicente
+Sun Feb 12 2023,Sp Lisbon,1-2,0-0,Porto
+Sun Feb 12 2023,Maritimo,1-2,1-2,Sp Braga
+Mon Feb 13 2023,Rio Ave,2-0,0-0,Estoril
+Mon Feb 13 2023,Boavista,0-0,0-0,Casa Pia
+Fri Feb 17 2023,Gil Vicente,1-1,0-0,Vizela
+Sat Feb 18 2023,Estoril,1-3,0-2,Pacos Ferreira
+Sat Feb 18 2023,Portimonense,2-1,0-1,Maritimo
+Sat Feb 18 2023,Porto,1-0,1-0,Rio Ave
+Sun Feb 19 2023,Santa Clara,1-3,0-0,Famalicao
+Sun Feb 19 2023,Sp Braga,2-0,1-0,Arouca
+Sun Feb 19 2023,Casa Pia,0-0,0-0,Guimaraes
+Mon Feb 20 2023,Chaves,2-3,1-1,Sp Lisbon
+Mon Feb 20 2023,Benfica,3-1,0-0,Boavista
+Fri Feb 24 2023,Famalicao,1-0,0-0,Portimonense
+Sat Feb 25 2023,Arouca,2-0,0-0,Casa Pia
+Sat Feb 25 2023,Maritimo,3-1,0-1,Santa Clara
+Sat Feb 25 2023,Vizela,0-2,0-1,Benfica
+Sun Feb 26 2023,Rio Ave,1-0,0-0,Chaves
+Sun Feb 26 2023,Pacos Ferreira,1-3,0-1,Boavista
+Sun Feb 26 2023,Porto,1-2,1-2,Gil Vicente
+Mon Feb 27 2023,Sp Lisbon,2-0,1-0,Estoril
+Mon Feb 27 2023,Guimaraes,2-1,2-0,Sp Braga
+Fri Mar 3 2023,Boavista,0-0,0-0,Arouca
+Fri Mar 3 2023,Benfica,2-0,1-0,Famalicao
+Sat Mar 4 2023,Estoril,0-3,0-2,Vizela
+Sat Mar 4 2023,Portimonense,0-1,0-0,Sp Lisbon
+Sat Mar 4 2023,Chaves,1-3,0-2,Porto
+Sun Mar 5 2023,Gil Vicente,2-0,1-0,Maritimo
+Sun Mar 5 2023,Santa Clara,1-3,0-3,Guimaraes
+Sun Mar 5 2023,Sp Braga,2-0,1-0,Rio Ave
+Mon Mar 6 2023,Casa Pia,2-1,0-1,Pacos Ferreira
+Fri Mar 10 2023,Porto,3-2,2-1,Estoril
+Sat Mar 11 2023,Chaves,2-0,1-0,Portimonense
+Sat Mar 11 2023,Pacos Ferreira,1-0,0-0,Santa Clara
+Sat Mar 11 2023,Guimaraes,0-2,0-0,Arouca
+Sat Mar 11 2023,Vizela,0-4,0-1,Sp Braga
+Sun Mar 12 2023,Rio Ave,2-1,2-0,Gil Vicente
+Sun Mar 12 2023,Maritimo,0-3,0-1,Benfica
+Sun Mar 12 2023,Sp Lisbon,3-0,2-0,Boavista
+Mon Mar 13 2023,Famalicao,1-0,1-0,Casa Pia
+Fri Mar 17 2023,Santa Clara,0-2,0-0,Rio Ave
+Sat Mar 18 2023,Portimonense,0-1,0-0,Vizela
+Sat Mar 18 2023,Arouca,1-1,0-0,Pacos Ferreira
+Sat Mar 18 2023,Benfica,5-1,3-0,Guimaraes
+Sat Mar 18 2023,Estoril,0-2,0-1,Chaves
+Sun Mar 19 2023,Casa Pia,2-0,1-0,Maritimo
+Sun Mar 19 2023,Sp Braga,0-0,0-0,Porto
+Sun Mar 19 2023,Boavista,1-2,0-0,Famalicao
+Fri Mar 31 2023,Estoril,1-0,1-0,Gil Vicente
+Sat Apr 1 2023,Vizela,3-1,1-1,Casa Pia
+Sat Apr 1 2023,Guimaraes,0-0,0-0,Pacos Ferreira
+Sat Apr 1 2023,Sp Lisbon,3-0,2-0,Santa Clara
+Sun Apr 2 2023,Chaves,1-2,1-1,Sp Braga
+Sun Apr 2 2023,Maritimo,4-2,2-0,Boavista
+Sun Apr 2 2023,Rio Ave,0-1,0-0,Benfica
+Sun Apr 2 2023,Porto,1-0,1-0,Portimonense
+Mon Apr 3 2023,Famalicao,0-1,0-0,Arouca
+Wed Apr 5 2023,Gil Vicente,0-0,0-0,Sp Lisbon
+Fri Apr 7 2023,Santa Clara,0-1,0-1,Vizela
+Fri Apr 7 2023,Benfica,1-2,1-1,Porto
+Fri Apr 7 2023,Boavista,2-1,1-0,Guimaraes
+Sat Apr 8 2023,Arouca,1-0,1-0,Maritimo
+Sat Apr 8 2023,Pacos Ferreira,1-3,1-1,Famalicao
+Sat Apr 8 2023,Portimonense,2-2,0-1,Rio Ave
+Sat Apr 8 2023,Sp Braga,4-1,1-0,Estoril
+Sun Apr 9 2023,Casa Pia,3-4,2-2,Sp Lisbon
+Mon Apr 10 2023,Gil Vicente,0-0,0-0,Chaves
+Fri Apr 14 2023,Famalicao,2-1,1-0,Guimaraes
+Sat Apr 15 2023,Estoril,0-1,0-0,Portimonense
+Sat Apr 15 2023,Maritimo,3-1,2-0,Pacos Ferreira
+Sat Apr 15 2023,Chaves,1-0,0-0,Benfica
+Sat Apr 15 2023,Porto,2-1,1-0,Santa Clara
+Sun Apr 16 2023,Rio Ave,1-1,0-1,Casa Pia
+Sun Apr 16 2023,Sp Braga,1-0,1-0,Gil Vicente
+Sun Apr 16 2023,Sp Lisbon,1-1,0-1,Arouca
+Mon Apr 17 2023,Vizela,1-1,0-0,Boavista
+Fri Apr 21 2023,Casa Pia,0-1,0-0,Sp Braga
+Sat Apr 22 2023,Famalicao,3-2,0-2,Maritimo
+Sat Apr 22 2023,Boavista,3-2,3-1,Rio Ave
+Sat Apr 22 2023,Pacos Ferreira,0-2,0-0,Porto
+Sun Apr 23 2023,Portimonense,1-0,0-0,Gil Vicente
+Sun Apr 23 2023,Benfica,1-0,1-0,Estoril
+Sun Apr 23 2023,Santa Clara,1-1,0-0,Chaves
+Sun Apr 23 2023,Arouca,1-0,1-0,Vizela
+Mon Apr 24 2023,Guimaraes,0-2,0-0,Sp Lisbon
+Fri Apr 28 2023,Rio Ave,1-0,0-0,Arouca
+Sat Apr 29 2023,Maritimo,1-2,0-1,Guimaraes
+Sat Apr 29 2023,Sp Braga,4-1,3-1,Portimonense
+Sat Apr 29 2023,Chaves,1-0,1-0,Casa Pia
+Sat Apr 29 2023,Vizela,1-2,0-2,Pacos Ferreira
+Sat Apr 29 2023,Gil Vicente,0-2,0-0,Benfica
+Sun Apr 30 2023,Estoril,3-0,2-0,Santa Clara
+Sun Apr 30 2023,Porto,1-0,0-0,Boavista
+Sun Apr 30 2023,Sp Lisbon,2-1,1-0,Famalicao
+Fri May 5 2023,Casa Pia,1-1,0-0,Portimonense
+Sat May 6 2023,Santa Clara,3-2,2-0,Gil Vicente
+Sat May 6 2023,Boavista,1-0,0-0,Estoril
+Sat May 6 2023,Benfica,1-0,0-0,Sp Braga
+Sun May 7 2023,Maritimo,2-2,1-2,Rio Ave
+Sun May 7 2023,Guimaraes,3-0,2-0,Vizela
+Sun May 7 2023,Pacos Ferreira,0-4,0-2,Sp Lisbon
+Mon May 8 2023,Famalicao,1-2,0-0,Chaves
+Mon May 8 2023,Arouca,0-1,0-1,Porto
+Fri May 12 2023,Gil Vicente,3-1,1-0,Boavista
+Sat May 13 2023,Chaves,2-0,0-0,Pacos Ferreira
+Sat May 13 2023,Vizela,0-0,0-0,Famalicao
+Sat May 13 2023,Portimonense,1-5,1-3,Benfica
+Sat May 13 2023,Sp Lisbon,2-1,0-1,Maritimo
+Sun May 14 2023,Rio Ave,0-1,0-0,Guimaraes
+Sun May 14 2023,Sp Braga,5-3,3-1,Santa Clara
+Sun May 14 2023,Porto,2-1,0-1,Casa Pia
+Mon May 15 2023,Estoril,2-0,0-0,Arouca
+Fri May 19 2023,Maritimo,1-0,0-0,Vizela
+Sat May 20 2023,Arouca,1-0,0-0,Chaves
+Sat May 20 2023,Santa Clara,1-0,1-0,Portimonense
+Sat May 20 2023,Boavista,1-1,0-0,Sp Braga
+Sat May 20 2023,Famalicao,2-4,2-2,Porto
+Sun May 21 2023,Guimaraes,1-0,0-0,Gil Vicente
+Sun May 21 2023,Casa Pia,2-2,0-0,Estoril
+Sun May 21 2023,Pacos Ferreira,3-1,1-1,Rio Ave
+Sun May 21 2023,Sp Lisbon,2-2,2-0,Benfica
+Fri May 26 2023,Rio Ave,2-2,0-2,Famalicao
+Fri May 26 2023,Vizela,1-2,1-1,Sp Lisbon
+Sat May 27 2023,Gil Vicente,1-0,0-0,Casa Pia
+Sat May 27 2023,Chaves,1-4,0-2,Boavista
+Sat May 27 2023,Estoril,3-1,1-0,Maritimo
+Sat May 27 2023,Benfica,3-0,2-0,Santa Clara
+Sat May 27 2023,Portimonense,0-2,0-0,Arouca
+Sat May 27 2023,Porto,3-0,3-0,Guimaraes
+Sat May 27 2023,Sp Braga,3-0,2-0,Pacos Ferreira

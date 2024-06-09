@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Jul 30 2022,Accrington,2-2,0-1,Charlton
+Sat Jul 30 2022,Bristol Rvs,1-2,0-0,Forest Green
+Sat Jul 30 2022,Cambridge,1-0,1-0,Milton Keynes Dons
+Sat Jul 30 2022,Cheltenham,2-3,2-0,Peterboro
+Sat Jul 30 2022,Derby,1-0,0-0,Oxford
+Sat Jul 30 2022,Ipswich,1-1,1-1,Bolton
+Sat Jul 30 2022,Lincoln,1-1,0-1,Exeter
+Sat Jul 30 2022,Morecambe,0-0,0-0,Shrewsbury
+Sat Jul 30 2022,Plymouth,1-0,1-0,Barnsley
+Sat Jul 30 2022,Port Vale,2-1,2-1,Fleetwood Town
+Sat Jul 30 2022,Sheffield Weds,3-3,1-0,Portsmouth
+Sat Jul 30 2022,Wycombe,3-0,3-0,Burton
+Sat Aug 6 2022,Barnsley,1-0,0-0,Cheltenham
+Sat Aug 6 2022,Bolton,3-0,2-0,Wycombe
+Sat Aug 6 2022,Burton,0-4,0-4,Bristol Rvs
+Sat Aug 6 2022,Charlton,1-0,0-0,Derby
+Sat Aug 6 2022,Exeter,4-0,2-0,Port Vale
+Sat Aug 6 2022,Fleetwood Town,2-1,1-1,Plymouth
+Sat Aug 6 2022,Forest Green,1-2,0-2,Ipswich
+Sat Aug 6 2022,Milton Keynes Dons,0-1,0-1,Sheffield Weds
+Sat Aug 6 2022,Oxford,1-0,0-0,Cambridge
+Sat Aug 6 2022,Peterboro,3-0,2-0,Morecambe
+Sat Aug 6 2022,Portsmouth,0-0,0-0,Lincoln
+Sat Aug 6 2022,Shrewsbury,0-1,0-0,Accrington
+Sat Aug 13 2022,Bristol Rvs,1-0,1-0,Oxford
+Sat Aug 13 2022,Accrington,4-4,0-2,Burton
+Sat Aug 13 2022,Cambridge,2-1,0-1,Exeter
+Sat Aug 13 2022,Cheltenham,0-2,0-1,Portsmouth
+Sat Aug 13 2022,Derby,2-1,2-0,Barnsley
+Sat Aug 13 2022,Ipswich,3-0,2-0,Milton Keynes Dons
+Sat Aug 13 2022,Lincoln,1-1,0-0,Forest Green
+Sat Aug 13 2022,Morecambe,1-1,1-0,Fleetwood Town
+Sat Aug 13 2022,Plymouth,2-0,1-0,Peterboro
+Sat Aug 13 2022,Port Vale,0-0,0-0,Bolton
+Sat Aug 13 2022,Sheffield Weds,1-0,0-0,Charlton
+Sat Aug 13 2022,Wycombe,1-2,0-0,Shrewsbury
+Tue Aug 16 2022,Barnsley,3-0,2-0,Bristol Rvs
+Tue Aug 16 2022,Bolton,1-0,1-0,Morecambe
+Tue Aug 16 2022,Burton,0-1,0-0,Ipswich
+Tue Aug 16 2022,Charlton,5-1,3-0,Plymouth
+Tue Aug 16 2022,Exeter,3-1,2-0,Wycombe
+Tue Aug 16 2022,Fleetwood Town,0-0,0-0,Cheltenham
+Tue Aug 16 2022,Milton Keynes Dons,2-1,1-0,Port Vale
+Tue Aug 16 2022,Oxford,1-2,0-2,Lincoln
+Tue Aug 16 2022,Peterboro,2-0,0-0,Sheffield Weds
+Tue Aug 16 2022,Portsmouth,4-1,1-1,Cambridge
+Tue Aug 16 2022,Shrewsbury,0-0,0-0,Derby
+Sat Aug 20 2022,Barnsley,0-3,0-1,Wycombe
+Sat Aug 20 2022,Bolton,0-2,0-2,Sheffield Weds
+Sat Aug 20 2022,Burton,0-2,0-0,Port Vale
+Sat Aug 20 2022,Charlton,1-1,1-0,Cambridge
+Sat Aug 20 2022,Exeter,0-1,0-0,Cheltenham
+Sat Aug 20 2022,Fleetwood Town,0-0,0-0,Derby
+Sat Aug 20 2022,Forest Green,0-3,0-2,Plymouth
+Sat Aug 20 2022,Milton Keynes Dons,1-1,1-0,Accrington
+Sat Aug 20 2022,Oxford,1-1,0-0,Morecambe
+Sat Aug 20 2022,Peterboro,4-0,3-0,Lincoln
+Sat Aug 20 2022,Portsmouth,3-1,1-0,Bristol Rvs
+Sat Aug 20 2022,Shrewsbury,0-3,0-1,Ipswich
+Sat Aug 27 2022,Accrington,0-0,0-0,Exeter
+Sat Aug 27 2022,Bristol Rvs,1-1,0-0,Shrewsbury
+Sat Aug 27 2022,Cambridge,4-3,1-2,Burton
+Sat Aug 27 2022,Cheltenham,1-2,0-0,Oxford
+Sat Aug 27 2022,Derby,2-1,0-0,Peterboro
+Sat Aug 27 2022,Ipswich,2-2,1-1,Barnsley
+Sat Aug 27 2022,Lincoln,2-2,2-1,Fleetwood Town
+Sat Aug 27 2022,Morecambe,0-4,0-2,Milton Keynes Dons
+Sat Aug 27 2022,Plymouth,2-0,1-0,Bolton
+Sat Aug 27 2022,Port Vale,0-1,0-1,Portsmouth
+Sat Aug 27 2022,Sheffield Weds,5-0,4-0,Forest Green
+Sat Aug 27 2022,Wycombe,1-1,1-1,Charlton
+Sat Sep 3 2022,Accrington,0-2,0-0,Ipswich
+Sat Sep 3 2022,Bolton,3-1,2-1,Charlton
+Sat Sep 3 2022,Bristol Rvs,2-2,1-1,Morecambe
+Sat Sep 3 2022,Cambridge,2-0,2-0,Lincoln
+Sat Sep 3 2022,Derby,2-3,2-0,Plymouth
+Sat Sep 3 2022,Exeter,1-0,0-0,Milton Keynes Dons
+Sat Sep 3 2022,Fleetwood Town,1-1,0-1,Wycombe
+Sat Sep 3 2022,Forest Green,0-2,0-1,Shrewsbury
+Sat Sep 3 2022,Oxford,2-1,0-0,Burton
+Sat Sep 3 2022,Port Vale,2-2,2-1,Cheltenham
+Sat Sep 3 2022,Portsmouth,2-1,1-1,Peterboro
+Sat Sep 3 2022,Sheffield Weds,0-2,0-1,Barnsley
+Tue Sep 6 2022,Forest Green,2-1,1-0,Accrington
+Tue Sep 13 2022,Barnsley,1-1,1-0,Port Vale
+Tue Sep 13 2022,Burton,0-2,0-0,Portsmouth
+Tue Sep 13 2022,Charlton,1-1,1-1,Forest Green
+Tue Sep 13 2022,Cheltenham,2-1,0-1,Cambridge
+Tue Sep 13 2022,Ipswich,2-0,1-0,Bristol Rvs
+Tue Sep 13 2022,Lincoln,2-0,1-0,Derby
+Tue Sep 13 2022,Milton Keynes Dons,0-2,0-1,Bolton
+Tue Sep 13 2022,Morecambe,0-3,0-0,Sheffield Weds
+Tue Sep 13 2022,Peterboro,0-1,0-1,Fleetwood Town
+Tue Sep 13 2022,Plymouth,1-0,0-0,Oxford
+Tue Sep 13 2022,Shrewsbury,3-2,2-2,Exeter
+Tue Sep 13 2022,Wycombe,1-0,1-0,Accrington
+Sat Sep 17 2022,Accrington,1-0,1-0,Cheltenham
+Sat Sep 17 2022,Bolton,1-0,0-0,Peterboro
+Sat Sep 17 2022,Bristol Rvs,3-6,1-3,Lincoln
+Sat Sep 17 2022,Cambridge,0-3,0-1,Barnsley
+Sat Sep 17 2022,Derby,2-1,0-1,Wycombe
+Sat Sep 17 2022,Exeter,0-2,0-0,Burton
+Sat Sep 17 2022,Fleetwood Town,1-1,1-0,Charlton
+Sat Sep 17 2022,Forest Green,1-2,1-1,Morecambe
+Sat Sep 17 2022,Oxford,1-2,0-1,Milton Keynes Dons
+Sat Sep 17 2022,Port Vale,2-1,1-1,Shrewsbury
+Sat Sep 17 2022,Portsmouth,2-2,1-0,Plymouth
+Sat Sep 17 2022,Sheffield Weds,2-2,0-1,Ipswich
+Sat Sep 24 2022,Forest Green,0-4,0-3,Exeter
+Sat Sep 24 2022,Barnsley,3-1,1-0,Charlton
+Sat Sep 24 2022,Bristol Rvs,0-1,0-0,Accrington
+Sat Sep 24 2022,Morecambe,1-2,1-1,Cambridge
+Sat Sep 24 2022,Peterboro,3-0,2-0,Port Vale
+Sat Sep 24 2022,Sheffield Weds,3-1,2-1,Wycombe
+Sat Sep 24 2022,Shrewsbury,2-1,1-0,Burton
+Sun Sep 25 2022,Plymouth,2-1,0-1,Ipswich
+Sat Oct 1 2022,Accrington,3-1,0-0,Morecambe
+Sat Oct 1 2022,Bolton,2-0,1-0,Lincoln
+Sat Oct 1 2022,Burton,3-2,1-0,Forest Green
+Sat Oct 1 2022,Cambridge,0-2,0-1,Derby
+Sat Oct 1 2022,Charlton,1-1,0-1,Oxford
+Sat Oct 1 2022,Cheltenham,2-0,1-0,Shrewsbury
+Sat Oct 1 2022,Exeter,2-2,0-0,Bristol Rvs
+Sat Oct 1 2022,Fleetwood Town,0-1,0-0,Barnsley
+Sat Oct 1 2022,Ipswich,3-2,1-1,Portsmouth
+Sat Oct 1 2022,Milton Keynes Dons,2-3,0-2,Peterboro
+Sat Oct 1 2022,Port Vale,0-1,0-0,Sheffield Weds
+Sat Oct 1 2022,Wycombe,0-1,0-1,Plymouth
+Tue Oct 4 2022,Burton,0-1,0-1,Fleetwood Town
+Tue Oct 4 2022,Cheltenham,1-0,0-0,Bolton
+Tue Oct 4 2022,Ipswich,3-0,0-0,Cambridge
+Tue Oct 4 2022,Plymouth,2-1,1-1,Sheffield Weds
+Sat Oct 8 2022,Barnsley,0-2,0-1,Exeter
+Sat Oct 8 2022,Bristol Rvs,2-1,1-1,Cambridge
+Sat Oct 8 2022,Derby,1-2,1-0,Port Vale
+Sat Oct 8 2022,Forest Green,1-0,1-0,Bolton
+Sat Oct 8 2022,Lincoln,0-0,0-0,Charlton
+Sat Oct 8 2022,Morecambe,1-2,1-0,Ipswich
+Sat Oct 8 2022,Oxford,0-1,0-1,Wycombe
+Sat Oct 8 2022,Peterboro,1-1,0-0,Burton
+Sat Oct 8 2022,Plymouth,3-0,1-0,Accrington
+Sat Oct 8 2022,Portsmouth,1-1,1-1,Fleetwood Town
+Sat Oct 8 2022,Sheffield Weds,3-0,1-0,Cheltenham
+Sat Oct 8 2022,Shrewsbury,2-1,2-0,Milton Keynes Dons
+Tue Oct 11 2022,Charlton,4-2,2-1,Exeter
+Tue Oct 11 2022,Milton Keynes Dons,0-1,0-0,Bristol Rvs
+Tue Oct 11 2022,Peterboro,4-1,2-1,Forest Green
+Sat Oct 15 2022,Accrington,0-3,0-2,Derby
+Sat Oct 15 2022,Bolton,0-0,0-0,Barnsley
+Sat Oct 15 2022,Burton,1-1,1-0,Morecambe
+Sat Oct 15 2022,Cambridge,0-2,0-1,Sheffield Weds
+Sat Oct 15 2022,Cheltenham,1-4,0-4,Bristol Rvs
+Sat Oct 15 2022,Exeter,2-4,0-3,Oxford
+Sat Oct 15 2022,Fleetwood Town,0-1,0-1,Shrewsbury
+Sat Oct 15 2022,Ipswich,0-1,0-1,Lincoln
+Sat Oct 15 2022,Milton Keynes Dons,1-4,0-3,Plymouth
+Sat Oct 15 2022,Port Vale,2-2,0-2,Forest Green
+Sat Oct 15 2022,Wycombe,3-1,1-1,Peterboro
+Mon Oct 17 2022,Charlton,3-0,2-0,Portsmouth
+Fri Oct 21 2022,Ipswich,1-0,0-0,Derby
+Sat Oct 22 2022,Lincoln,1-1,0-1,Sheffield Weds
+Sat Oct 22 2022,Accrington,2-3,1-0,Bolton
+Sat Oct 22 2022,Bristol Rvs,2-2,0-2,Plymouth
+Sat Oct 22 2022,Burton,1-0,0-0,Cheltenham
+Sat Oct 22 2022,Cambridge,0-1,0-0,Port Vale
+Sat Oct 22 2022,Exeter,2-1,1-1,Fleetwood Town
+Sat Oct 22 2022,Forest Green,0-1,0-1,Portsmouth
+Sat Oct 22 2022,Milton Keynes Dons,0-1,0-1,Wycombe
+Sat Oct 22 2022,Morecambe,1-0,1-0,Barnsley
+Sat Oct 22 2022,Oxford,1-2,0-2,Peterboro
+Sat Oct 22 2022,Shrewsbury,0-1,0-0,Charlton
+Tue Oct 25 2022,Barnsley,0-1,0-1,Lincoln
+Tue Oct 25 2022,Bolton,2-1,0-0,Burton
+Tue Oct 25 2022,Charlton,0-2,0-0,Milton Keynes Dons
+Tue Oct 25 2022,Cheltenham,1-0,1-0,Morecambe
+Tue Oct 25 2022,Derby,0-0,0-0,Exeter
+Tue Oct 25 2022,Fleetwood Town,1-1,0-1,Forest Green
+Tue Oct 25 2022,Peterboro,3-1,1-1,Accrington
+Tue Oct 25 2022,Plymouth,2-1,0-1,Shrewsbury
+Tue Oct 25 2022,Port Vale,2-3,1-2,Ipswich
+Tue Oct 25 2022,Portsmouth,1-1,0-1,Oxford
+Tue Oct 25 2022,Wycombe,2-3,1-2,Cambridge
+Wed Oct 26 2022,Sheffield Weds,1-1,1-0,Bristol Rvs
+Sat Oct 29 2022,Barnsley,2-0,1-0,Forest Green
+Sat Oct 29 2022,Bolton,1-3,0-1,Oxford
+Sat Oct 29 2022,Charlton,4-4,0-1,Ipswich
+Sat Oct 29 2022,Cheltenham,0-0,0-0,Milton Keynes Dons
+Sat Oct 29 2022,Derby,4-2,4-2,Bristol Rvs
+Sat Oct 29 2022,Fleetwood Town,3-0,0-0,Accrington
+Sat Oct 29 2022,Peterboro,1-0,1-0,Cambridge
+Sat Oct 29 2022,Port Vale,1-0,0-0,Lincoln
+Sat Oct 29 2022,Portsmouth,1-1,1-1,Shrewsbury
+Sat Oct 29 2022,Sheffield Weds,4-2,2-0,Burton
+Sat Oct 29 2022,Wycombe,1-1,1-0,Morecambe
+Mon Oct 31 2022,Plymouth,4-2,1-1,Exeter
+Tue Nov 1 2022,Lincoln,1-1,0-0,Accrington
+Tue Nov 1 2022,Morecambe,1-1,1-0,Derby
+Tue Nov 1 2022,Oxford,1-1,0-1,Fleetwood Town
+Tue Nov 1 2022,Wycombe,2-2,1-1,Port Vale
+Wed Nov 9 2022,Shrewsbury,1-1,0-1,Oxford
+Sat Nov 12 2022,Accrington,0-1,0-1,Sheffield Weds
+Sat Nov 12 2022,Bristol Rvs,2-2,0-1,Fleetwood Town
+Sat Nov 12 2022,Burton,3-3,2-2,Charlton
+Sat Nov 12 2022,Cambridge,0-0,0-0,Bolton
+Sat Nov 12 2022,Exeter,3-2,1-1,Peterboro
+Sat Nov 12 2022,Forest Green,0-2,0-2,Wycombe
+Sat Nov 12 2022,Ipswich,1-1,1-1,Cheltenham
+Sat Nov 12 2022,Lincoln,1-1,1-1,Plymouth
+Sat Nov 12 2022,Milton Keynes Dons,1-3,1-1,Derby
+Sat Nov 12 2022,Morecambe,1-1,1-0,Portsmouth
+Sat Nov 12 2022,Oxford,4-0,2-0,Port Vale
+Sat Nov 12 2022,Shrewsbury,0-1,0-1,Barnsley
+Fri Nov 18 2022,Portsmouth,0-0,0-0,Derby
+Sat Nov 19 2022,Exeter,0-2,0-1,Ipswich
+Sat Nov 19 2022,Barnsley,3-1,1-1,Milton Keynes Dons
+Sat Nov 19 2022,Bristol Rvs,1-0,0-0,Peterboro
+Sat Nov 19 2022,Burton,2-2,1-0,Plymouth
+Sat Nov 19 2022,Cambridge,0-1,0-1,Accrington
+Sat Nov 19 2022,Cheltenham,1-0,1-0,Wycombe
+Sat Nov 19 2022,Fleetwood Town,1-2,1-0,Bolton
+Sat Nov 19 2022,Lincoln,2-1,1-0,Morecambe
+Sat Nov 19 2022,Oxford,1-1,1-0,Forest Green
+Sat Nov 19 2022,Port Vale,1-0,0-0,Charlton
+Sat Nov 19 2022,Sheffield Weds,1-0,1-0,Shrewsbury
+Fri Dec 2 2022,Bolton,1-1,0-1,Bristol Rvs
+Fri Dec 2 2022,Charlton,0-1,0-0,Cheltenham
+Fri Dec 2 2022,Ipswich,1-1,1-0,Fleetwood Town
+Fri Dec 2 2022,Morecambe,1-1,1-1,Exeter
+Fri Dec 2 2022,Peterboro,1-2,1-1,Barnsley
+Fri Dec 2 2022,Plymouth,0-2,0-0,Port Vale
+Sat Dec 3 2022,Derby,0-0,0-0,Sheffield Weds
+Sat Dec 3 2022,Milton Keynes Dons,1-1,0-1,Burton
+Sat Dec 3 2022,Shrewsbury,2-0,1-0,Lincoln
+Sat Dec 3 2022,Forest Green,2-1,1-0,Cambridge
+Sat Dec 3 2022,Accrington,1-1,0-0,Oxford
+Sun Dec 4 2022,Wycombe,2-0,1-0,Portsmouth
+Sat Dec 10 2022,Ipswich,2-1,1-1,Peterboro
+Sat Dec 10 2022,Shrewsbury,3-2,1-1,Bolton
+Sat Dec 10 2022,Burton,1-1,0-1,Derby
+Sat Dec 10 2022,Forest Green,1-0,0-0,Cheltenham
+Sat Dec 10 2022,Bristol Rvs,1-0,0-0,Port Vale
+Sat Dec 10 2022,Cambridge,0-0,0-0,Plymouth
+Sat Dec 10 2022,Exeter,1-1,0-0,Sheffield Weds
+Sat Dec 10 2022,Lincoln,0-0,0-0,Wycombe
+Sat Dec 10 2022,Milton Keynes Dons,1-2,0-0,Fleetwood Town
+Sat Dec 17 2022,Barnsley,2-0,1-0,Burton
+Sat Dec 17 2022,Bolton,2-0,2-0,Exeter
+Sat Dec 17 2022,Charlton,1-2,1-0,Bristol Rvs
+Sat Dec 17 2022,Derby,4-0,2-0,Forest Green
+Sat Dec 17 2022,Plymouth,2-1,0-0,Morecambe
+Sat Dec 17 2022,Portsmouth,0-2,0-1,Milton Keynes Dons
+Sat Dec 17 2022,Sheffield Weds,0-0,0-0,Oxford
+Sat Dec 17 2022,Wycombe,1-0,1-0,Ipswich
+Mon Dec 26 2022,Accrington,1-1,0-1,Barnsley
+Mon Dec 26 2022,Burton,3-0,3-0,Lincoln
+Mon Dec 26 2022,Cambridge,2-1,0-0,Shrewsbury
+Mon Dec 26 2022,Charlton,1-1,0-0,Peterboro
+Mon Dec 26 2022,Cheltenham,0-1,0-0,Plymouth
+Mon Dec 26 2022,Exeter,0-0,0-0,Portsmouth
+Mon Dec 26 2022,Fleetwood Town,1-2,1-1,Sheffield Weds
+Mon Dec 26 2022,Ipswich,3-0,2-0,Oxford
+Mon Dec 26 2022,Milton Keynes Dons,1-0,0-0,Forest Green
+Mon Dec 26 2022,Port Vale,1-0,1-0,Morecambe
+Mon Dec 26 2022,Wycombe,2-1,1-1,Bristol Rvs
+Tue Dec 27 2022,Bolton,0-0,0-0,Derby
+Thu Dec 29 2022,Barnsley,2-1,0-0,Fleetwood Town
+Thu Dec 29 2022,Bristol Rvs,3-4,0-2,Exeter
+Thu Dec 29 2022,Forest Green,1-2,0-1,Burton
+Thu Dec 29 2022,Morecambe,2-0,2-0,Accrington
+Thu Dec 29 2022,Oxford,3-1,2-0,Charlton
+Thu Dec 29 2022,Peterboro,2-0,1-0,Milton Keynes Dons
+Thu Dec 29 2022,Plymouth,1-0,1-0,Wycombe
+Thu Dec 29 2022,Portsmouth,2-2,1-1,Ipswich
+Thu Dec 29 2022,Sheffield Weds,2-0,1-0,Port Vale
+Thu Dec 29 2022,Shrewsbury,0-1,0-1,Cheltenham
+Fri Dec 30 2022,Derby,1-0,0-0,Cambridge
+Fri Dec 30 2022,Lincoln,1-1,1-0,Bolton
+Sun Jan 1 2023,Bristol Rvs,2-1,2-0,Cheltenham
+Sun Jan 1 2023,Forest Green,1-3,1-0,Port Vale
+Sun Jan 1 2023,Morecambe,5-0,2-0,Burton
+Sun Jan 1 2023,Oxford,0-1,0-0,Exeter
+Sun Jan 1 2023,Peterboro,0-3,0-1,Wycombe
+Sun Jan 1 2023,Plymouth,3-1,2-1,Milton Keynes Dons
+Sun Jan 1 2023,Portsmouth,1-3,1-1,Charlton
+Sun Jan 1 2023,Shrewsbury,0-3,0-2,Fleetwood Town
+Mon Jan 2 2023,Barnsley,0-3,0-2,Bolton
+Mon Jan 2 2023,Derby,4-0,3-0,Accrington
+Mon Jan 2 2023,Lincoln,1-1,0-0,Ipswich
+Mon Jan 2 2023,Sheffield Weds,5-0,2-0,Cambridge
+Sat Jan 7 2023,Bolton,0-0,0-0,Plymouth
+Sat Jan 7 2023,Cambridge,1-2,1-2,Bristol Rvs
+Sat Jan 7 2023,Charlton,2-1,2-0,Lincoln
+Sat Jan 7 2023,Morecambe,2-1,1-1,Cheltenham
+Sat Jan 14 2023,Accrington,2-0,0-0,Bristol Rvs
+Sat Jan 14 2023,Bolton,3-0,1-0,Portsmouth
+Sat Jan 14 2023,Burton,0-4,0-2,Shrewsbury
+Sat Jan 14 2023,Charlton,2-0,1-0,Barnsley
+Sat Jan 14 2023,Cheltenham,2-3,1-2,Derby
+Sat Jan 14 2023,Exeter,1-1,0-0,Forest Green
+Sat Jan 14 2023,Fleetwood Town,1-2,1-0,Oxford
+Sat Jan 14 2023,Ipswich,1-1,0-0,Plymouth
+Sat Jan 14 2023,Milton Keynes Dons,0-0,0-0,Lincoln
+Sat Jan 14 2023,Wycombe,0-1,0-1,Sheffield Weds
+Mon Jan 16 2023,Port Vale,0-2,0-0,Peterboro
+Sat Jan 21 2023,Barnsley,3-1,3-0,Accrington
+Sat Jan 21 2023,Derby,2-1,1-0,Bolton
+Sat Jan 21 2023,Forest Green,1-2,1-1,Milton Keynes Dons
+Sat Jan 21 2023,Oxford,2-1,1-1,Ipswich
+Sat Jan 21 2023,Plymouth,4-2,2-1,Cheltenham
+Sat Jan 21 2023,Portsmouth,2-0,0-0,Exeter
+Sat Jan 21 2023,Sheffield Weds,1-0,1-0,Fleetwood Town
+Sat Jan 21 2023,Shrewsbury,5-1,2-0,Cambridge
+Tue Jan 24 2023,Bolton,1-0,1-0,Forest Green
+Tue Jan 24 2023,Fleetwood Town,0-2,0-1,Portsmouth
+Tue Jan 24 2023,Ipswich,4-0,4-0,Morecambe
+Tue Jan 24 2023,Milton Keynes Dons,0-1,0-0,Shrewsbury
+Tue Jan 24 2023,Port Vale,1-2,0-0,Derby
+Tue Jan 24 2023,Wycombe,2-0,2-0,Oxford
+Sat Jan 28 2023,Charlton,1-2,0-1,Bolton
+Sat Jan 28 2023,Burton,2-0,1-0,Oxford
+Sat Jan 28 2023,Cheltenham,0-0,0-0,Port Vale
+Sat Jan 28 2023,Lincoln,0-0,0-0,Cambridge
+Sat Jan 28 2023,Milton Keynes Dons,0-2,0-1,Exeter
+Sat Jan 28 2023,Morecambe,5-1,1-0,Bristol Rvs
+Sat Jan 28 2023,Peterboro,2-1,2-0,Portsmouth
+Sat Jan 28 2023,Shrewsbury,2-1,0-1,Forest Green
+Wed Feb 1 2023,Oxford,1-2,0-1,Barnsley
+Sat Feb 4 2023,Accrington,0-3,0-1,Lincoln
+Sat Feb 4 2023,Bolton,1-0,0-0,Cheltenham
+Sat Feb 4 2023,Bristol Rvs,0-2,0-1,Milton Keynes Dons
+Sat Feb 4 2023,Cambridge,1-1,1-0,Ipswich
+Sat Feb 4 2023,Derby,5-0,1-0,Morecambe
+Sat Feb 4 2023,Exeter,1-2,1-2,Charlton
+Sat Feb 4 2023,Fleetwood Town,2-3,0-0,Burton
+Sat Feb 4 2023,Forest Green,0-2,0-0,Peterboro
+Sat Feb 4 2023,Oxford,0-1,0-0,Shrewsbury
+Sat Feb 4 2023,Port Vale,0-3,0-1,Wycombe
+Sat Feb 4 2023,Portsmouth,1-1,0-0,Barnsley
+Sat Feb 4 2023,Sheffield Weds,1-0,1-0,Plymouth
+Tue Feb 7 2023,Port Vale,1-1,0-0,Accrington
+Sat Feb 11 2023,Barnsley,2-0,1-0,Cambridge
+Sat Feb 11 2023,Burton,1-0,0-0,Exeter
+Sat Feb 11 2023,Charlton,1-2,1-1,Fleetwood Town
+Sat Feb 11 2023,Cheltenham,0-0,0-0,Accrington
+Sat Feb 11 2023,Ipswich,2-2,1-2,Sheffield Weds
+Sat Feb 11 2023,Lincoln,1-0,1-0,Bristol Rvs
+Sat Feb 11 2023,Milton Keynes Dons,1-1,1-0,Oxford
+Sat Feb 11 2023,Morecambe,1-1,0-0,Forest Green
+Sat Feb 11 2023,Peterboro,0-5,0-2,Bolton
+Sat Feb 11 2023,Plymouth,3-1,1-0,Portsmouth
+Sat Feb 11 2023,Shrewsbury,3-2,3-1,Port Vale
+Sat Feb 11 2023,Wycombe,3-2,1-0,Derby
+Tue Feb 14 2023,Accrington,0-2,0-1,Wycombe
+Tue Feb 14 2023,Bolton,5-0,3-0,Milton Keynes Dons
+Tue Feb 14 2023,Bristol Rvs,0-0,0-0,Ipswich
+Tue Feb 14 2023,Cambridge,1-2,0-0,Cheltenham
+Tue Feb 14 2023,Derby,1-1,0-1,Lincoln
+Tue Feb 14 2023,Exeter,0-0,0-0,Shrewsbury
+Tue Feb 14 2023,Fleetwood Town,1-0,1-0,Peterboro
+Tue Feb 14 2023,Forest Green,0-1,0-1,Charlton
+Tue Feb 14 2023,Oxford,1-3,1-1,Plymouth
+Tue Feb 14 2023,Port Vale,1-3,1-2,Barnsley
+Tue Feb 14 2023,Portsmouth,1-0,0-0,Burton
+Tue Feb 14 2023,Sheffield Weds,3-0,2-0,Morecambe
+Sat Feb 18 2023,Accrington,1-0,1-0,Shrewsbury
+Sat Feb 18 2023,Bristol Rvs,1-2,1-1,Burton
+Sat Feb 18 2023,Cambridge,1-0,1-0,Oxford
+Sat Feb 18 2023,Cheltenham,0-4,0-3,Barnsley
+Sat Feb 18 2023,Derby,2-0,1-0,Charlton
+Sat Feb 18 2023,Ipswich,4-0,2-0,Forest Green
+Sat Feb 18 2023,Lincoln,0-0,0-0,Portsmouth
+Sat Feb 18 2023,Morecambe,0-3,0-3,Peterboro
+Sat Feb 18 2023,Plymouth,0-0,0-0,Fleetwood Town
+Sat Feb 18 2023,Port Vale,1-0,0-0,Exeter
+Sat Feb 18 2023,Sheffield Weds,5-2,1-2,Milton Keynes Dons
+Sat Feb 18 2023,Wycombe,1-0,1-0,Bolton
+Tue Feb 21 2023,Fleetwood Town,1-0,0-0,Cambridge
+Tue Feb 21 2023,Morecambe,1-0,0-0,Port Vale
+Sat Feb 25 2023,Oxford,0-3,0-2,Bristol Rvs
+Sat Feb 25 2023,Barnsley,4-1,3-1,Derby
+Sat Feb 25 2023,Bolton,2-1,2-1,Port Vale
+Sat Feb 25 2023,Burton,0-0,0-0,Accrington
+Sat Feb 25 2023,Charlton,0-1,0-1,Sheffield Weds
+Sat Feb 25 2023,Exeter,2-0,1-0,Cambridge
+Sat Feb 25 2023,Fleetwood Town,1-0,1-0,Morecambe
+Sat Feb 25 2023,Forest Green,1-1,0-1,Lincoln
+Sat Feb 25 2023,Milton Keynes Dons,0-1,0-1,Ipswich
+Sat Feb 25 2023,Peterboro,5-2,2-1,Plymouth
+Sat Feb 25 2023,Portsmouth,4-0,3-0,Cheltenham
+Sat Feb 25 2023,Shrewsbury,2-0,1-0,Wycombe
+Tue Feb 28 2023,Derby,2-0,1-0,Cheltenham
+Tue Feb 28 2023,Lincoln,1-1,1-0,Milton Keynes Dons
+Tue Feb 28 2023,Peterboro,0-0,0-0,Charlton
+Tue Feb 28 2023,Portsmouth,3-1,0-0,Bolton
+Sat Mar 4 2023,Morecambe,0-0,0-0,Bolton
+Sat Mar 4 2023,Accrington,2-1,1-1,Forest Green
+Sat Mar 4 2023,Bristol Rvs,0-0,0-0,Barnsley
+Sat Mar 4 2023,Cambridge,0-1,0-0,Portsmouth
+Sat Mar 4 2023,Cheltenham,1-0,0-0,Fleetwood Town
+Sat Mar 4 2023,Derby,2-2,2-0,Shrewsbury
+Sat Mar 4 2023,Ipswich,4-0,3-0,Burton
+Sat Mar 4 2023,Lincoln,1-0,1-0,Oxford
+Sat Mar 4 2023,Plymouth,2-0,0-0,Charlton
+Sat Mar 4 2023,Port Vale,1-0,1-0,Milton Keynes Dons
+Sat Mar 4 2023,Sheffield Weds,1-0,0-0,Peterboro
+Sat Mar 4 2023,Wycombe,1-1,1-0,Exeter
+Tue Mar 7 2023,Barnsley,3-1,2-0,Portsmouth
+Tue Mar 7 2023,Cambridge,1-1,1-1,Morecambe
+Tue Mar 7 2023,Cheltenham,0-0,0-0,Lincoln
+Tue Mar 7 2023,Ipswich,3-0,1-0,Accrington
+Tue Mar 7 2023,Peterboro,2-1,1-1,Shrewsbury
+Tue Mar 7 2023,Wycombe,2-0,1-0,Fleetwood Town
+Tue Mar 7 2023,Plymouth,2-1,0-1,Derby
+Sat Mar 11 2023,Barnsley,3-0,0-0,Plymouth
+Sat Mar 11 2023,Bolton,0-2,0-1,Ipswich
+Sat Mar 11 2023,Burton,2-1,2-0,Wycombe
+Sat Mar 11 2023,Charlton,1-1,1-1,Accrington
+Sat Mar 11 2023,Exeter,2-1,1-1,Lincoln
+Sat Mar 11 2023,Fleetwood Town,1-1,0-0,Port Vale
+Sat Mar 11 2023,Forest Green,1-3,1-2,Bristol Rvs
+Sat Mar 11 2023,Milton Keynes Dons,1-0,1-0,Cambridge
+Sat Mar 11 2023,Oxford,2-3,1-2,Derby
+Sat Mar 11 2023,Peterboro,0-3,0-2,Cheltenham
+Sat Mar 11 2023,Portsmouth,0-1,0-1,Sheffield Weds
+Sat Mar 11 2023,Shrewsbury,3-1,2-1,Morecambe
+Tue Mar 14 2023,Accrington,1-3,0-1,Portsmouth
+Tue Mar 14 2023,Bristol Rvs,0-2,0-1,Wycombe
+Tue Mar 14 2023,Burton,2-5,1-3,Peterboro
+Tue Mar 14 2023,Morecambe,1-4,0-3,Charlton
+Fri Mar 17 2023,Sheffield Weds,1-1,1-1,Bolton
+Sat Mar 18 2023,Lincoln,0-3,0-1,Peterboro
+Sat Mar 18 2023,Accrington,0-1,0-1,Milton Keynes Dons
+Sat Mar 18 2023,Bristol Rvs,0-2,0-1,Portsmouth
+Sat Mar 18 2023,Cambridge,1-2,0-2,Charlton
+Sat Mar 18 2023,Cheltenham,3-1,1-0,Exeter
+Sat Mar 18 2023,Derby,0-2,0-2,Fleetwood Town
+Sat Mar 18 2023,Ipswich,2-0,1-0,Shrewsbury
+Sat Mar 18 2023,Morecambe,1-1,0-1,Oxford
+Sat Mar 18 2023,Plymouth,2-0,1-0,Forest Green
+Sat Mar 18 2023,Port Vale,2-3,1-1,Burton
+Sat Mar 18 2023,Wycombe,0-1,0-0,Barnsley
+Tue Mar 21 2023,Accrington,0-2,0-1,Plymouth
+Tue Mar 21 2023,Barnsley,4-2,2-1,Sheffield Weds
+Sat Mar 25 2023,Charlton,1-1,1-0,Wycombe
+Sat Mar 25 2023,Exeter,5-0,1-0,Accrington
+Sat Mar 25 2023,Fleetwood Town,2-1,1-1,Lincoln
+Sat Mar 25 2023,Milton Keynes Dons,1-0,0-0,Morecambe
+Sat Mar 25 2023,Peterboro,2-0,0-0,Derby
+Sat Mar 25 2023,Portsmouth,2-2,0-2,Port Vale
+Sun Mar 26 2023,Forest Green,1-0,1-0,Sheffield Weds
+Tue Mar 28 2023,Exeter,3-1,1-1,Barnsley
+Wed Mar 29 2023,Cheltenham,2-2,0-0,Sheffield Weds
+Sat Apr 1 2023,Barnsley,5-0,3-0,Morecambe
+Sat Apr 1 2023,Charlton,6-0,3-0,Shrewsbury
+Sat Apr 1 2023,Cheltenham,0-0,0-0,Burton
+Sat Apr 1 2023,Derby,0-2,0-1,Ipswich
+Sat Apr 1 2023,Fleetwood Town,2-2,2-1,Exeter
+Sat Apr 1 2023,Peterboro,0-0,0-0,Oxford
+Sat Apr 1 2023,Port Vale,0-2,0-0,Cambridge
+Sat Apr 1 2023,Portsmouth,1-0,0-0,Forest Green
+Sat Apr 1 2023,Sheffield Weds,1-1,1-1,Lincoln
+Sat Apr 1 2023,Wycombe,2-2,1-1,Milton Keynes Dons
+Fri Apr 7 2023,Accrington,3-0,2-0,Port Vale
+Fri Apr 7 2023,Bristol Rvs,1-0,0-0,Charlton
+Fri Apr 7 2023,Burton,2-1,0-0,Barnsley
+Fri Apr 7 2023,Cambridge,2-1,1-0,Fleetwood Town
+Fri Apr 7 2023,Exeter,0-1,0-1,Bolton
+Fri Apr 7 2023,Forest Green,0-2,0-1,Derby
+Fri Apr 7 2023,Ipswich,4-0,2-0,Wycombe
+Fri Apr 7 2023,Lincoln,2-0,1-0,Cheltenham
+Fri Apr 7 2023,Milton Keynes Dons,1-1,0-1,Portsmouth
+Fri Apr 7 2023,Morecambe,1-3,1-0,Plymouth
+Fri Apr 7 2023,Oxford,1-1,0-1,Sheffield Weds
+Fri Apr 7 2023,Shrewsbury,0-3,0-1,Peterboro
+Mon Apr 10 2023,Barnsley,2-1,2-0,Shrewsbury
+Mon Apr 10 2023,Bolton,1-1,0-0,Cambridge
+Mon Apr 10 2023,Charlton,3-2,2-1,Burton
+Mon Apr 10 2023,Cheltenham,1-1,0-0,Ipswich
+Mon Apr 10 2023,Derby,1-1,1-0,Milton Keynes Dons
+Mon Apr 10 2023,Fleetwood Town,1-2,1-0,Bristol Rvs
+Mon Apr 10 2023,Peterboro,3-1,2-0,Exeter
+Mon Apr 10 2023,Plymouth,0-2,0-1,Lincoln
+Mon Apr 10 2023,Port Vale,0-0,0-0,Oxford
+Mon Apr 10 2023,Portsmouth,0-0,0-0,Morecambe
+Mon Apr 10 2023,Sheffield Weds,3-0,1-0,Accrington
+Mon Apr 10 2023,Wycombe,2-0,1-0,Forest Green
+Sat Apr 15 2023,Exeter,0-1,0-0,Plymouth
+Sat Apr 15 2023,Cambridge,2-0,1-0,Peterboro
+Sat Apr 15 2023,Accrington,2-5,0-2,Fleetwood Town
+Sat Apr 15 2023,Bristol Rvs,1-1,0-1,Derby
+Sat Apr 15 2023,Burton,3-2,3-1,Sheffield Weds
+Sat Apr 15 2023,Forest Green,1-5,0-3,Barnsley
+Sat Apr 15 2023,Ipswich,6-0,2-0,Charlton
+Sat Apr 15 2023,Lincoln,3-2,2-2,Port Vale
+Sat Apr 15 2023,Milton Keynes Dons,2-2,1-1,Cheltenham
+Sat Apr 15 2023,Morecambe,1-0,0-0,Wycombe
+Sat Apr 15 2023,Oxford,0-1,0-1,Bolton
+Sat Apr 15 2023,Shrewsbury,1-1,0-0,Portsmouth
+Tue Apr 18 2023,Accrington,1-2,0-2,Peterboro
+Tue Apr 18 2023,Bristol Rvs,1-2,0-2,Sheffield Weds
+Tue Apr 18 2023,Burton,1-1,0-1,Bolton
+Tue Apr 18 2023,Cambridge,1-2,0-2,Wycombe
+Tue Apr 18 2023,Exeter,1-2,0-0,Derby
+Tue Apr 18 2023,Forest Green,0-0,0-0,Fleetwood Town
+Tue Apr 18 2023,Ipswich,2-1,0-1,Port Vale
+Tue Apr 18 2023,Lincoln,0-0,0-0,Barnsley
+Tue Apr 18 2023,Milton Keynes Dons,0-1,0-0,Charlton
+Tue Apr 18 2023,Oxford,1-1,1-1,Portsmouth
+Tue Apr 18 2023,Shrewsbury,1-2,0-0,Plymouth
+Sat Apr 22 2023,Barnsley,2-0,1-0,Oxford
+Sat Apr 22 2023,Bolton,1-0,0-0,Shrewsbury
+Sat Apr 22 2023,Charlton,2-3,1-1,Morecambe
+Sat Apr 22 2023,Cheltenham,3-1,3-0,Forest Green
+Sat Apr 22 2023,Derby,1-0,0-0,Burton
+Sat Apr 22 2023,Fleetwood Town,1-0,1-0,Milton Keynes Dons
+Sat Apr 22 2023,Peterboro,0-3,0-1,Ipswich
+Sat Apr 22 2023,Plymouth,3-1,1-1,Cambridge
+Sat Apr 22 2023,Port Vale,2-0,2-0,Bristol Rvs
+Sat Apr 22 2023,Portsmouth,1-0,0-0,Accrington
+Sat Apr 22 2023,Sheffield Weds,2-1,0-0,Exeter
+Sat Apr 22 2023,Wycombe,0-2,0-1,Lincoln
+Tue Apr 25 2023,Barnsley,0-3,0-2,Ipswich
+Tue Apr 25 2023,Bolton,0-1,0-1,Accrington
+Tue Apr 25 2023,Lincoln,0-1,0-0,Burton
+Tue Apr 25 2023,Oxford,4-0,1-0,Cheltenham
+Tue Apr 25 2023,Plymouth,2-0,0-0,Bristol Rvs
+Sat Apr 29 2023,Accrington,1-2,0-1,Cambridge
+Sat Apr 29 2023,Bolton,2-0,1-0,Fleetwood Town
+Sat Apr 29 2023,Charlton,3-2,1-0,Port Vale
+Sat Apr 29 2023,Derby,1-1,0-1,Portsmouth
+Sat Apr 29 2023,Forest Green,0-3,0-1,Oxford
+Sat Apr 29 2023,Ipswich,6-0,5-0,Exeter
+Sat Apr 29 2023,Milton Keynes Dons,4-4,0-1,Barnsley
+Sat Apr 29 2023,Morecambe,3-2,0-1,Lincoln
+Sat Apr 29 2023,Peterboro,0-0,0-0,Bristol Rvs
+Sat Apr 29 2023,Plymouth,1-0,1-0,Burton
+Sat Apr 29 2023,Shrewsbury,0-3,0-1,Sheffield Weds
+Sat Apr 29 2023,Wycombe,0-3,0-1,Cheltenham
+Tue May 2 2023,Shrewsbury,2-1,1-0,Bristol Rvs
+Wed May 3 2023,Burton,1-0,1-0,Cambridge
+Sun May 7 2023,Barnsley,0-2,0-1,Peterboro
+Sun May 7 2023,Bristol Rvs,2-3,1-1,Bolton
+Sun May 7 2023,Burton,0-0,0-0,Milton Keynes Dons
+Sun May 7 2023,Cambridge,2-0,2-0,Forest Green
+Sun May 7 2023,Cheltenham,2-2,0-1,Charlton
+Sun May 7 2023,Exeter,3-2,0-0,Morecambe
+Sun May 7 2023,Fleetwood Town,2-2,0-0,Ipswich
+Sun May 7 2023,Lincoln,1-0,0-0,Shrewsbury
+Sun May 7 2023,Oxford,1-2,1-0,Accrington
+Sun May 7 2023,Port Vale,1-3,1-2,Plymouth
+Sun May 7 2023,Portsmouth,2-2,1-1,Wycombe
+Sun May 7 2023,Sheffield Weds,1-0,1-0,Derby

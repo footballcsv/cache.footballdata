@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 23 2021,Termalica B-B.,1-1,?,Stal Mielec
+Fri Jul 23 2021,Lech Poznan,0-0,?,Radomiak Radom
+Sat Jul 24 2021,Leczna,1-1,?,Cracovia
+Sat Jul 24 2021,Jagiellonia,1-1,?,Lechia Gdansk
+Sat Jul 24 2021,Legia,1-0,?,Wisla Plock
+Sun Jul 25 2021,Piast Gliwice,2-3,?,Rakow
+Sun Jul 25 2021,Slask Wroclaw,2-2,?,Warta Poznan
+Sun Jul 25 2021,Pogon Szczecin,2-0,?,Gornik Z.
+Mon Jul 26 2021,Wisla,3-0,?,Zaglebie
+Fri Jul 30 2021,Zaglebie,3-1,?,Leczna
+Fri Jul 30 2021,Gornik Z.,1-3,?,Lech Poznan
+Sat Jul 31 2021,Stal Mielec,0-2,?,Piast Gliwice
+Sat Jul 31 2021,Termalica B-B.,2-2,?,Wisla
+Sat Jul 31 2021,Radomiak Radom,3-1,?,Legia
+Sun Aug 1 2021,Warta Poznan,1-1,?,Pogon Szczecin
+Sun Aug 1 2021,Cracovia,1-2,?,Slask Wroclaw
+Sun Aug 1 2021,Jagiellonia,3-0,?,Rakow
+Mon Aug 2 2021,Lechia Gdansk,1-0,?,Wisla Plock
+Fri Aug 6 2021,Leczna,0-4,?,Warta Poznan
+Fri Aug 6 2021,Lech Poznan,2-0,?,Cracovia
+Sat Aug 7 2021,Jagiellonia,1-0,?,Termalica B-B.
+Sat Aug 7 2021,Gornik Z.,1-0,?,Stal Mielec
+Sun Aug 8 2021,Pogon Szczecin,1-0,?,Piast Gliwice
+Sun Aug 8 2021,Wisla,1-2,?,Rakow
+Sun Aug 8 2021,Slask Wroclaw,1-1,?,Lechia Gdansk
+Mon Aug 9 2021,Wisla Plock,1-0,?,Radomiak Radom
+Fri Aug 13 2021,Termalica B-B.,1-3,?,Lech Poznan
+Fri Aug 13 2021,Stal Mielec,2-1,?,Wisla
+Sat Aug 14 2021,Piast Gliwice,4-3,?,Wisla Plock
+Sat Aug 14 2021,Lechia Gdansk,3-0,?,Cracovia
+Sat Aug 14 2021,Warta Poznan,0-2,?,Legia
+Sun Aug 15 2021,Slask Wroclaw,0-0,?,Leczna
+Sun Aug 15 2021,Zaglebie,2-0,?,Pogon Szczecin
+Mon Aug 16 2021,Jagiellonia,1-3,?,Gornik Z.
+Fri Aug 20 2021,Wisla Plock,4-0,?,Zaglebie
+Fri Aug 20 2021,Radomiak Radom,1-0,?,Warta Poznan
+Sat Aug 21 2021,Pogon Szczecin,4-1,?,Stal Mielec
+Sat Aug 21 2021,Cracovia,2-1,?,Jagiellonia
+Sat Aug 21 2021,Leczna,1-3,?,Wisla
+Sun Aug 22 2021,Piast Gliwice,1-1,?,Slask Wroclaw
+Sun Aug 22 2021,Lech Poznan,2-0,?,Lechia Gdansk
+Fri Aug 27 2021,Stal Mielec,2-0,?,Leczna
+Fri Aug 27 2021,Warta Poznan,1-1,?,Jagiellonia
+Sat Aug 28 2021,Termalica B-B.,1-2,?,Cracovia
+Sat Aug 28 2021,Lechia Gdansk,2-2,?,Radomiak Radom
+Sat Aug 28 2021,Lech Poznan,1-1,?,Pogon Szczecin
+Sat Aug 28 2021,Gornik Z.,0-1,?,Piast Gliwice
+Sun Aug 29 2021,Wisla Plock,1-1,?,Rakow
+Sun Aug 29 2021,Zaglebie,1-3,?,Slask Wroclaw
+Sun Aug 29 2021,Wisla,1-0,?,Legia
+Sat Sep 11 2021,Warta Poznan,0-0,?,Termalica B-B.
+Sat Sep 11 2021,Cracovia,2-2,?,Gornik Z.
+Sat Sep 11 2021,Jagiellonia,1-1,?,Stal Mielec
+Sat Sep 11 2021,Slask Wroclaw,1-0,?,Legia
+Sun Sep 12 2021,Piast Gliwice,0-1,?,Zaglebie
+Sun Sep 12 2021,Wisla,2-2,?,Lechia Gdansk
+Sun Sep 12 2021,Rakow,2-2,?,Lech Poznan
+Mon Sep 13 2021,Leczna,3-2,?,Wisla Plock
+Mon Sep 13 2021,Radomiak Radom,1-1,?,Pogon Szczecin
+Fri Sep 17 2021,Zaglebie,2-1,?,Termalica B-B.
+Fri Sep 17 2021,Lech Poznan,5-0,?,Wisla
+Sat Sep 18 2021,Wisla Plock,3-0,?,Jagiellonia
+Sat Sep 18 2021,Pogon Szczecin,1-1,?,Cracovia
+Sat Sep 18 2021,Radomiak Radom,1-1,?,Slask Wroclaw
+Sat Sep 18 2021,Lechia Gdansk,1-0,?,Piast Gliwice
+Sun Sep 19 2021,Stal Mielec,0-3,?,Rakow
+Sun Sep 19 2021,Gornik Z.,1-0,?,Warta Poznan
+Sun Sep 19 2021,Legia,3-1,?,Leczna
+Fri Sep 24 2021,Leczna,0-4,?,Lechia Gdansk
+Fri Sep 24 2021,Jagiellonia,1-0,?,Lech Poznan
+Sat Sep 25 2021,Stal Mielec,1-0,?,Radomiak Radom
+Sat Sep 25 2021,Warta Poznan,0-2,?,Zaglebie
+Sat Sep 25 2021,Legia,2-3,?,Rakow
+Sun Sep 26 2021,Termalica B-B.,3-1,?,Gornik Z.
+Sun Sep 26 2021,Slask Wroclaw,3-1,?,Wisla Plock
+Sun Sep 26 2021,Wisla,0-1,?,Pogon Szczecin
+Mon Sep 27 2021,Piast Gliwice,2-4,?,Cracovia
+Wed Sep 29 2021,Rakow,2-2,?,Radomiak Radom
+Fri Oct 1 2021,Zaglebie,0-1,?,Jagiellonia
+Fri Oct 1 2021,Piast Gliwice,1-0,?,Wisla
+Sat Oct 2 2021,Radomiak Radom,1-1,?,Termalica B-B.
+Sat Oct 2 2021,Cracovia,3-3,?,Stal Mielec
+Sat Oct 2 2021,Lech Poznan,4-0,?,Slask Wroclaw
+Sat Oct 2 2021,Gornik Z.,4-2,?,Wisla Plock
+Sun Oct 3 2021,Rakow,3-0,?,Warta Poznan
+Sun Oct 3 2021,Pogon Szczecin,4-1,?,Leczna
+Sun Oct 3 2021,Lechia Gdansk,3-1,?,Legia
+Sat Oct 16 2021,Leczna,1-1,?,Piast Gliwice
+Sat Oct 16 2021,Termalica B-B.,0-2,?,Lechia Gdansk
+Sat Oct 16 2021,Gornik Z.,0-1,?,Wisla
+Sat Oct 16 2021,Slask Wroclaw,1-2,?,Rakow
+Sun Oct 17 2021,Wisla Plock,1-0,?,Pogon Szczecin
+Sun Oct 17 2021,Cracovia,2-0,?,Warta Poznan
+Sun Oct 17 2021,Legia,0-1,?,Lech Poznan
+Mon Oct 18 2021,Stal Mielec,4-2,?,Zaglebie
+Mon Oct 18 2021,Jagiellonia,1-1,?,Radomiak Radom
+Fri Oct 22 2021,Radomiak Radom,3-1,?,Leczna
+Fri Oct 22 2021,Lech Poznan,4-1,?,Wisla Plock
+Sat Oct 23 2021,Rakow,3-2,?,Termalica B-B.
+Sat Oct 23 2021,Lechia Gdansk,1-1,?,Gornik Z.
+Sat Oct 23 2021,Pogon Szczecin,4-1,?,Jagiellonia
+Sat Oct 23 2021,Wisla,0-5,?,Slask Wroclaw
+Sun Oct 24 2021,Zaglebie,1-1,?,Cracovia
+Sun Oct 24 2021,Warta Poznan,0-0,?,Stal Mielec
+Sun Oct 24 2021,Piast Gliwice,4-1,?,Legia
+Fri Oct 29 2021,Cracovia,1-2,?,Radomiak Radom
+Fri Oct 29 2021,Stal Mielec,0-0,?,Lech Poznan
+Sat Oct 30 2021,Termalica B-B.,4-3,?,Slask Wroclaw
+Sat Oct 30 2021,Warta Poznan,0-2,?,Lechia Gdansk
+Sat Oct 30 2021,Gornik Z.,0-0,?,Zaglebie
+Sat Oct 30 2021,Jagiellonia,3-3,?,Piast Gliwice
+Sun Oct 31 2021,Wisla Plock,2-0,?,Wisla
+Sun Oct 31 2021,Leczna,0-0,?,Rakow
+Sun Oct 31 2021,Legia,0-2,?,Pogon Szczecin
+Fri Nov 5 2021,Wisla Plock,1-1,?,Termalica B-B.
+Fri Nov 5 2021,Slask Wroclaw,2-2,?,Jagiellonia
+Sat Nov 6 2021,Piast Gliwice,0-1,?,Warta Poznan
+Sat Nov 6 2021,Radomiak Radom,1-0,?,Gornik Z.
+Sat Nov 6 2021,Lechia Gdansk,2-1,?,Zaglebie
+Sat Nov 6 2021,Leczna,1-1,?,Lech Poznan
+Sun Nov 7 2021,Rakow,0-0,?,Pogon Szczecin
+Sun Nov 7 2021,Legia,1-3,?,Stal Mielec
+Sun Nov 7 2021,Wisla,1-0,?,Cracovia
+Sat Nov 20 2021,Warta Poznan,1-2,?,Wisla Plock
+Sat Nov 20 2021,Jagiellonia,3-1,?,Wisla
+Sat Nov 20 2021,Stal Mielec,3-3,?,Lechia Gdansk
+Sat Nov 20 2021,Lech Poznan,1-0,?,Piast Gliwice
+Sun Nov 21 2021,Termalica B-B.,1-1,?,Leczna
+Sun Nov 21 2021,Pogon Szczecin,2-1,?,Slask Wroclaw
+Sun Nov 21 2021,Gornik Z.,3-2,?,Legia
+Mon Nov 22 2021,Zaglebie,0-2,?,Radomiak Radom
+Mon Nov 22 2021,Cracovia,1-0,?,Rakow
+Fri Nov 26 2021,Piast Gliwice,2-1,?,Termalica B-B.
+Fri Nov 26 2021,Wisla,0-1,?,Radomiak Radom
+Sat Nov 27 2021,Leczna,1-2,?,Gornik Z.
+Sat Nov 27 2021,Slask Wroclaw,2-1,?,Stal Mielec
+Sat Nov 27 2021,Pogon Szczecin,5-1,?,Lechia Gdansk
+Sat Nov 27 2021,Rakow,4-0,?,Zaglebie
+Sun Nov 28 2021,Wisla Plock,2-1,?,Cracovia
+Sun Nov 28 2021,Lech Poznan,2-0,?,Warta Poznan
+Sun Nov 28 2021,Legia,1-0,?,Jagiellonia
+Fri Dec 3 2021,Stal Mielec,2-1,?,Wisla Plock
+Fri Dec 3 2021,Gornik Z.,3-1,?,Slask Wroclaw
+Sat Dec 4 2021,Termalica B-B.,1-3,?,Pogon Szczecin
+Sat Dec 4 2021,Jagiellonia,1-2,?,Leczna
+Sat Dec 4 2021,Lechia Gdansk,3-1,?,Rakow
+Sun Dec 5 2021,Zaglebie,2-3,?,Lech Poznan
+Sun Dec 5 2021,Cracovia,1-0,?,Legia
+Mon Dec 6 2021,Warta Poznan,1-1,?,Wisla
+Fri Dec 10 2021,Stal Mielec,1-0,?,Termalica B-B.
+Fri Dec 10 2021,Rakow,1-0,?,Piast Gliwice
+Sat Dec 11 2021,Radomiak Radom,2-1,?,Lech Poznan
+Sat Dec 11 2021,Zaglebie,2-1,?,Wisla
+Sat Dec 11 2021,Lechia Gdansk,1-2,?,Jagiellonia
+Sun Dec 12 2021,Cracovia,0-2,?,Leczna
+Sun Dec 12 2021,Wisla Plock,1-0,?,Legia
+Sun Dec 12 2021,Gornik Z.,2-2,?,Pogon Szczecin
+Mon Dec 13 2021,Warta Poznan,2-1,?,Slask Wroclaw
+Tue Dec 14 2021,Radomiak Radom,2-2,?,Piast Gliwice
+Wed Dec 15 2021,Rakow,1-2,?,Gornik Z.
+Wed Dec 15 2021,Legia,4-0,?,Zaglebie
+Fri Dec 17 2021,Wisla,3-0,?,Termalica B-B.
+Fri Dec 17 2021,Wisla Plock,1-0,?,Lechia Gdansk
+Sat Dec 18 2021,Piast Gliwice,1-1,?,Stal Mielec
+Sat Dec 18 2021,Pogon Szczecin,1-1,?,Warta Poznan
+Sat Dec 18 2021,Slask Wroclaw,0-2,?,Cracovia
+Sat Dec 18 2021,Rakow,5-0,?,Jagiellonia
+Sun Dec 19 2021,Leczna,2-1,?,Zaglebie
+Sun Dec 19 2021,Lech Poznan,2-1,?,Gornik Z.
+Sun Dec 19 2021,Legia,0-3,?,Radomiak Radom
+Fri Feb 4 2022,Termalica B-B.,2-1,?,Jagiellonia
+Fri Feb 4 2022,Zaglebie,1-3,?,Legia
+Sat Feb 5 2022,Stal Mielec,1-2,?,Gornik Z.
+Sat Feb 5 2022,Piast Gliwice,0-2,?,Pogon Szczecin
+Sat Feb 5 2022,Lechia Gdansk,2-0,?,Slask Wroclaw
+Sun Feb 6 2022,Warta Poznan,1-1,?,Leczna
+Sun Feb 6 2022,Rakow,2-0,?,Wisla
+Sun Feb 6 2022,Cracovia,3-3,?,Lech Poznan
+Mon Feb 7 2022,Radomiak Radom,1-1,?,Wisla Plock
+Fri Feb 11 2022,Leczna,1-1,?,Slask Wroclaw
+Fri Feb 11 2022,Cracovia,2-0,?,Lechia Gdansk
+Sat Feb 12 2022,Wisla,0-1,?,Stal Mielec
+Sat Feb 12 2022,Radomiak Radom,0-1,?,Rakow
+Sat Feb 12 2022,Lech Poznan,5-0,?,Termalica B-B.
+Sun Feb 13 2022,Wisla Plock,0-2,?,Piast Gliwice
+Sun Feb 13 2022,Pogon Szczecin,2-1,?,Zaglebie
+Sun Feb 13 2022,Legia,0-1,?,Warta Poznan
+Mon Feb 14 2022,Gornik Z.,1-2,?,Jagiellonia
+Fri Feb 18 2022,Zaglebie,3-1,?,Wisla Plock
+Fri Feb 18 2022,Stal Mielec,0-1,?,Pogon Szczecin
+Sat Feb 19 2022,Jagiellonia,0-0,?,Cracovia
+Sat Feb 19 2022,Slask Wroclaw,1-3,?,Piast Gliwice
+Sat Feb 19 2022,Termalica B-B.,0-0,?,Legia
+Sun Feb 20 2022,Warta Poznan,3-1,?,Radomiak Radom
+Sun Feb 20 2022,Gornik Z.,1-1,?,Rakow
+Sun Feb 20 2022,Lechia Gdansk,1-0,?,Lech Poznan
+Mon Feb 21 2022,Wisla,0-0,?,Leczna
+Fri Feb 25 2022,Rakow,2-0,?,Wisla Plock
+Fri Feb 25 2022,Legia,2-1,?,Wisla
+Sat Feb 26 2022,Pogon Szczecin,0-3,?,Lech Poznan
+Sat Feb 26 2022,Leczna,2-0,?,Stal Mielec
+Sat Feb 26 2022,Piast Gliwice,0-0,?,Gornik Z.
+Sun Feb 27 2022,Jagiellonia,1-1,?,Warta Poznan
+Sun Feb 27 2022,Radomiak Radom,2-0,?,Lechia Gdansk
+Sun Feb 27 2022,Slask Wroclaw,0-0,?,Zaglebie
+Mon Feb 28 2022,Cracovia,1-2,?,Termalica B-B.
+Fri Mar 4 2022,Stal Mielec,1-1,?,Jagiellonia
+Fri Mar 4 2022,Pogon Szczecin,4-0,?,Radomiak Radom
+Sat Mar 5 2022,Termalica B-B.,1-0,?,Warta Poznan
+Sat Mar 5 2022,Zaglebie,0-0,?,Piast Gliwice
+Sat Mar 5 2022,Lechia Gdansk,1-1,?,Wisla
+Sun Mar 6 2022,Wisla Plock,3-1,?,Leczna
+Sun Mar 6 2022,Gornik Z.,3-0,?,Cracovia
+Sun Mar 6 2022,Lech Poznan,0-1,?,Rakow
+Mon Mar 7 2022,Legia,1-0,?,Slask Wroclaw
+Fri Mar 11 2022,Termalica B-B.,0-2,?,Zaglebie
+Fri Mar 11 2022,Leczna,0-1,?,Legia
+Sat Mar 12 2022,Warta Poznan,2-1,?,Gornik Z.
+Sat Mar 12 2022,Piast Gliwice,1-0,?,Lechia Gdansk
+Sat Mar 12 2022,Cracovia,1-1,?,Pogon Szczecin
+Sun Mar 13 2022,Jagiellonia,0-1,?,Wisla Plock
+Sun Mar 13 2022,Slask Wroclaw,0-0,?,Radomiak Radom
+Sun Mar 13 2022,Wisla,1-1,?,Lech Poznan
+Mon Mar 14 2022,Rakow,2-1,?,Stal Mielec
+Tue Mar 15 2022,Legia,4-1,?,Termalica B-B.
+Fri Mar 18 2022,Zaglebie,0-4,?,Warta Poznan
+Fri Mar 18 2022,Pogon Szczecin,4-1,?,Wisla
+Sat Mar 19 2022,Wisla Plock,1-2,?,Slask Wroclaw
+Sat Mar 19 2022,Rakow,1-1,?,Legia
+Sat Mar 19 2022,Lechia Gdansk,2-0,?,Leczna
+Sat Mar 19 2022,Lech Poznan,3-0,?,Jagiellonia
+Sun Mar 20 2022,Radomiak Radom,1-1,?,Stal Mielec
+Sun Mar 20 2022,Cracovia,0-1,?,Piast Gliwice
+Sun Mar 20 2022,Gornik Z.,1-1,?,Termalica B-B.
+Fri Apr 1 2022,Stal Mielec,1-2,?,Cracovia
+Fri Apr 1 2022,Slask Wroclaw,0-1,?,Lech Poznan
+Sat Apr 2 2022,Warta Poznan,0-2,?,Rakow
+Sat Apr 2 2022,Leczna,0-4,?,Pogon Szczecin
+Sat Apr 2 2022,Legia,2-1,?,Lechia Gdansk
+Sun Apr 3 2022,Termalica B-B.,1-1,?,Radomiak Radom
+Sun Apr 3 2022,Jagiellonia,2-1,?,Zaglebie
+Sun Apr 3 2022,Wisla,2-2,?,Piast Gliwice
+Mon Apr 4 2022,Wisla Plock,3-2,?,Gornik Z.
+Fri Apr 8 2022,Zaglebie,3-1,?,Stal Mielec
+Fri Apr 8 2022,Pogon Szczecin,1-2,?,Wisla Plock
+Sat Apr 9 2022,Piast Gliwice,1-0,?,Leczna
+Sat Apr 9 2022,Lech Poznan,1-1,?,Legia
+Sat Apr 9 2022,Lechia Gdansk,2-0,?,Termalica B-B.
+Sun Apr 10 2022,Warta Poznan,1-0,?,Cracovia
+Sun Apr 10 2022,Wisla,4-1,?,Gornik Z.
+Sun Apr 10 2022,Rakow,1-1,?,Slask Wroclaw
+Mon Apr 11 2022,Radomiak Radom,2-2,?,Jagiellonia
+Sat Apr 16 2022,Leczna,1-0,?,Radomiak Radom
+Sat Apr 16 2022,Stal Mielec,0-1,?,Warta Poznan
+Sat Apr 16 2022,Termalica B-B.,0-3,?,Rakow
+Sat Apr 16 2022,Jagiellonia,1-2,?,Pogon Szczecin
+Sat Apr 16 2022,Wisla Plock,0-1,?,Lech Poznan
+Mon Apr 18 2022,Cracovia,1-0,?,Zaglebie
+Mon Apr 18 2022,Slask Wroclaw,1-1,?,Wisla
+Mon Apr 18 2022,Gornik Z.,1-3,?,Lechia Gdansk
+Mon Apr 18 2022,Legia,0-1,?,Piast Gliwice
+Wed Apr 20 2022,Lech Poznan,3-0,?,Leczna
+Wed Apr 20 2022,Pogon Szczecin,1-2,?,Rakow
+Fri Apr 22 2022,Radomiak Radom,0-1,?,Cracovia
+Fri Apr 22 2022,Zaglebie,2-4,?,Gornik Z.
+Sat Apr 23 2022,Slask Wroclaw,0-4,?,Termalica B-B.
+Sat Apr 23 2022,Piast Gliwice,2-1,?,Jagiellonia
+Sat Apr 23 2022,Lechia Gdansk,2-0,?,Warta Poznan
+Sun Apr 24 2022,Lech Poznan,3-1,?,Stal Mielec
+Sun Apr 24 2022,Rakow,2-1,?,Leczna
+Sun Apr 24 2022,Pogon Szczecin,3-1,?,Legia
+Mon Apr 25 2022,Wisla,3-4,?,Wisla Plock
+Fri Apr 29 2022,Warta Poznan,2-3,?,Piast Gliwice
+Fri Apr 29 2022,Gornik Z.,0-0,?,Radomiak Radom
+Sat Apr 30 2022,Jagiellonia,1-1,?,Slask Wroclaw
+Sat Apr 30 2022,Zaglebie,2-2,?,Lechia Gdansk
+Sat Apr 30 2022,Stal Mielec,2-1,?,Legia
+Sun May 1 2022,Termalica B-B.,1-0,?,Wisla Plock
+Sun May 1 2022,Cracovia,0-0,?,Wisla
+Fri May 6 2022,Radomiak Radom,1-6,?,Zaglebie
+Fri May 6 2022,Legia,5-3,?,Gornik Z.
+Sat May 7 2022,Wisla Plock,0-3,?,Warta Poznan
+Sat May 7 2022,Slask Wroclaw,1-1,?,Pogon Szczecin
+Sat May 7 2022,Wisla,0-0,?,Jagiellonia
+Sun May 8 2022,Lechia Gdansk,3-2,?,Stal Mielec
+Sun May 8 2022,Rakow,1-1,?,Cracovia
+Sun May 8 2022,Piast Gliwice,1-2,?,Lech Poznan
+Mon May 9 2022,Leczna,1-1,?,Termalica B-B.
+Fri May 13 2022,Cracovia,3-0,?,Wisla Plock
+Fri May 13 2022,Jagiellonia,2-2,?,Legia
+Sat May 14 2022,Termalica B-B.,0-1,?,Piast Gliwice
+Sat May 14 2022,Warta Poznan,1-2,?,Lech Poznan
+Sat May 14 2022,Zaglebie,1-0,?,Rakow
+Sat May 14 2022,Lechia Gdansk,0-0,?,Pogon Szczecin
+Sun May 15 2022,Stal Mielec,1-1,?,Slask Wroclaw
+Sun May 15 2022,Gornik Z.,4-2,?,Leczna
+Sun May 15 2022,Radomiak Radom,4-2,?,Wisla
+Sat May 21 2022,Lech Poznan,2-1,?,Zaglebie
+Sat May 21 2022,Leczna,0-1,?,Jagiellonia
+Sat May 21 2022,Legia,3-0,?,Cracovia
+Sat May 21 2022,Piast Gliwice,1-1,?,Radomiak Radom
+Sat May 21 2022,Pogon Szczecin,2-2,?,Termalica B-B.
+Sat May 21 2022,Rakow,3-0,?,Lechia Gdansk
+Sat May 21 2022,Slask Wroclaw,3-4,?,Gornik Z.
+Sat May 21 2022,Wisla,0-1,?,Warta Poznan
+Sat May 21 2022,Wisla Plock,3-0,?,Stal Mielec

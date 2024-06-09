@@ -1,0 +1,243 @@
+Date,Team 1,FT,HT,Team 2
+Sat Apr 2 2022,Ham-Kam,2-2,?,Lillestrom
+Sat Apr 2 2022,Molde,1-0,?,Valerenga
+Sun Apr 3 2022,Aalesund,1-0,?,Kristiansund
+Sun Apr 3 2022,Haugesund,1-3,?,Sandefjord
+Sun Apr 3 2022,Jerv,1-0,?,Stromsgodset
+Sun Apr 3 2022,Odd,2-0,?,Tromso
+Sun Apr 3 2022,Sarpsborg 08,0-1,?,Viking
+Sun Apr 3 2022,Bodo/Glimt,2-2,?,Rosenborg
+Sat Apr 9 2022,Lillestrom,4-0,?,Jerv
+Sun Apr 10 2022,Kristiansund,2-3,?,Sarpsborg 08
+Sun Apr 10 2022,Rosenborg,1-0,?,Odd
+Sun Apr 10 2022,Sandefjord,1-2,?,Bodo/Glimt
+Sun Apr 10 2022,Stromsgodset,1-3,?,Molde
+Sun Apr 10 2022,Tromso,2-1,?,Ham-Kam
+Sun Apr 10 2022,Valerenga,2-1,?,Haugesund
+Sun Apr 10 2022,Viking,1-0,?,Aalesund
+Mon Apr 18 2022,Aalesund,2-2,?,Tromso
+Mon Apr 18 2022,Ham-Kam,3-0,?,Sandefjord
+Mon Apr 18 2022,Haugesund,0-1,?,Stromsgodset
+Mon Apr 18 2022,Jerv,1-0,?,Kristiansund
+Mon Apr 18 2022,Molde,1-2,?,Lillestrom
+Mon Apr 18 2022,Odd,2-1,?,Viking
+Mon Apr 18 2022,Sarpsborg 08,1-1,?,Rosenborg
+Mon Apr 18 2022,Bodo/Glimt,5-1,?,Valerenga
+Sat Apr 23 2022,Odd,2-3,?,Aalesund
+Sat Apr 23 2022,Stromsgodset,0-5,?,Sandefjord
+Sun Apr 24 2022,Kristiansund,2-2,?,Ham-Kam
+Sun Apr 24 2022,Lillestrom,1-0,?,Haugesund
+Sun Apr 24 2022,Tromso,2-5,?,Sarpsborg 08
+Sun Apr 24 2022,Valerenga,1-0,?,Jerv
+Sun Apr 24 2022,Viking,2-0,?,Bodo/Glimt
+Sun Apr 24 2022,Rosenborg,0-0,?,Molde
+Thu Apr 28 2022,Lillestrom,2-0,?,Aalesund
+Sat Apr 30 2022,Viking,5-1,?,Haugesund
+Sat May 7 2022,Sarpsborg 08,1-0,?,Odd
+Sat May 7 2022,Molde,3-4,?,Viking
+Sun May 8 2022,Bodo/Glimt,1-1,?,Lillestrom
+Sun May 8 2022,Haugesund,2-0,?,Kristiansund
+Sun May 8 2022,Jerv,1-1,?,Tromso
+Sun May 8 2022,Sandefjord,1-3,?,Valerenga
+Sun May 8 2022,Stromsgodset,3-0,?,Rosenborg
+Sun May 8 2022,Ham-Kam,0-0,?,Aalesund
+Wed May 11 2022,Molde,3-0,?,Odd
+Thu May 12 2022,Tromso,1-0,?,Valerenga
+Thu May 12 2022,Viking,0-0,?,Stromsgodset
+Mon May 16 2022,Aalesund,0-2,?,Molde
+Mon May 16 2022,Bodo/Glimt,1-1,?,Tromso
+Mon May 16 2022,Kristiansund,0-3,?,Stromsgodset
+Mon May 16 2022,Lillestrom,1-0,?,Sarpsborg 08
+Mon May 16 2022,Odd,0-4,?,Haugesund
+Mon May 16 2022,Rosenborg,3-0,?,Sandefjord
+Mon May 16 2022,Viking,3-0,?,Jerv
+Mon May 16 2022,Valerenga,1-1,?,Ham-Kam
+Sat May 21 2022,Sandefjord,1-4,?,Lillestrom
+Sat May 21 2022,Molde,2-1,?,Kristiansund
+Sun May 22 2022,Haugesund,1-4,?,Bodo/Glimt
+Sun May 22 2022,Jerv,0-1,?,Odd
+Sun May 22 2022,Sarpsborg 08,1-2,?,Aalesund
+Sun May 22 2022,Stromsgodset,3-2,?,Valerenga
+Sun May 22 2022,Tromso,1-1,?,Viking
+Sun May 22 2022,Ham-Kam,1-1,?,Rosenborg
+Wed May 25 2022,Aalesund,2-1,?,Jerv
+Wed May 25 2022,Bodo/Glimt,2-2,?,Stromsgodset
+Wed May 25 2022,Odd,0-1,?,Sandefjord
+Wed May 25 2022,Viking,1-1,?,Ham-Kam
+Wed May 25 2022,Lillestrom,2-0,?,Valerenga
+Thu May 26 2022,Rosenborg,3-3,?,Haugesund
+Thu May 26 2022,Sarpsborg 08,1-2,?,Molde
+Sat May 28 2022,Ham-Kam,1-2,?,Odd
+Sat May 28 2022,Stromsgodset,3-2,?,Viking
+Sun May 29 2022,Haugesund,2-2,?,Aalesund
+Sun May 29 2022,Jerv,0-5,?,Sarpsborg 08
+Sun May 29 2022,Molde,3-1,?,Bodo/Glimt
+Sun May 29 2022,Tromso,2-2,?,Lillestrom
+Sun May 29 2022,Valerenga,0-4,?,Rosenborg
+Sat Jun 18 2022,Sarpsborg 08,5-1,?,Stromsgodset
+Sat Jun 18 2022,Kristiansund,0-2,?,Bodo/Glimt
+Sun Jun 19 2022,Jerv,1-2,?,Ham-Kam
+Sun Jun 19 2022,Lillestrom,3-1,?,Rosenborg
+Sun Jun 19 2022,Odd,1-2,?,Molde
+Sun Jun 19 2022,Tromso,1-1,?,Haugesund
+Sun Jun 19 2022,Viking,1-2,?,Sandefjord
+Sun Jun 19 2022,Aalesund,2-2,?,Valerenga
+Sat Jun 25 2022,Haugesund,4-2,?,Viking
+Sat Jun 25 2022,Rosenborg,3-1,?,Kristiansund
+Sun Jun 26 2022,Bodo/Glimt,2-0,?,Aalesund
+Sun Jun 26 2022,Ham-Kam,3-2,?,Sarpsborg 08
+Sun Jun 26 2022,Sandefjord,2-2,?,Tromso
+Sun Jun 26 2022,Stromsgodset,3-0,?,Lillestrom
+Sun Jun 26 2022,Valerenga,0-1,?,Odd
+Sat Jul 2 2022,Jerv,1-0,?,Haugesund
+Sat Jul 2 2022,Odd,3-2,?,Bodo/Glimt
+Sun Jul 3 2022,Aalesund,1-0,?,Stromsgodset
+Sun Jul 3 2022,Ham-Kam,0-0,?,Molde
+Sun Jul 3 2022,Kristiansund,1-3,?,Lillestrom
+Sun Jul 3 2022,Sarpsborg 08,4-3,?,Sandefjord
+Sun Jul 3 2022,Viking,1-1,?,Rosenborg
+Wed Jul 6 2022,Molde,1-1,?,Jerv
+Sat Jul 9 2022,Bodo/Glimt,4-1,?,Sarpsborg 08
+Sat Jul 9 2022,Stromsgodset,0-0,?,Odd
+Sun Jul 10 2022,Lillestrom,0-1,?,Viking
+Sun Jul 10 2022,Molde,5-1,?,Tromso
+Sun Jul 10 2022,Rosenborg,3-2,?,Jerv
+Sun Jul 10 2022,Valerenga,3-0,?,Kristiansund
+Sun Jul 10 2022,Haugesund,1-1,?,Ham-Kam
+Tue Jul 12 2022,Sandefjord,2-2,?,Aalesund
+Sat Jul 16 2022,Jerv,1-2,?,Sandefjord
+Sat Jul 16 2022,Ham-Kam,0-2,?,Bodo/Glimt
+Sun Jul 17 2022,Molde,1-0,?,Haugesund
+Sun Jul 17 2022,Odd,1-2,?,Lillestrom
+Sun Jul 17 2022,Sarpsborg 08,0-1,?,Valerenga
+Sun Jul 17 2022,Viking,2-1,?,Kristiansund
+Sun Jul 17 2022,Aalesund,0-0,?,Rosenborg
+Sat Jul 23 2022,Bodo/Glimt,5-0,?,Jerv
+Sat Jul 23 2022,Rosenborg,3-0,?,Tromso
+Sun Jul 24 2022,Haugesund,3-1,?,Sarpsborg 08
+Sun Jul 24 2022,Kristiansund,2-2,?,Odd
+Sun Jul 24 2022,Sandefjord,2-3,?,Molde
+Sun Jul 24 2022,Valerenga,4-2,?,Viking
+Sun Jul 24 2022,Stromsgodset,1-1,?,Ham-Kam
+Wed Jul 27 2022,Sandefjord,2-0,?,Kristiansund
+Sat Jul 30 2022,Aalesund,1-2,?,Bodo/Glimt
+Sat Jul 30 2022,Ham-Kam,0-1,?,Kristiansund
+Sat Jul 30 2022,Odd,2-3,?,Rosenborg
+Sat Jul 30 2022,Tromso,3-0,?,Sandefjord
+Sat Jul 30 2022,Jerv,2-5,?,Valerenga
+Sun Jul 31 2022,Molde,3-0,?,Stromsgodset
+Sun Jul 31 2022,Sarpsborg 08,0-2,?,Lillestrom
+Wed Aug 3 2022,Kristiansund,1-1,?,Tromso
+Sat Aug 6 2022,Bodo/Glimt,7-0,?,Odd
+Sat Aug 6 2022,Rosenborg,2-1,?,Ham-Kam
+Sun Aug 7 2022,Haugesund,3-1,?,Jerv
+Sun Aug 7 2022,Kristiansund,2-3,?,Molde
+Sun Aug 7 2022,Lillestrom,1-1,?,Tromso
+Sun Aug 7 2022,Sandefjord,2-2,?,Viking
+Sun Aug 7 2022,Stromsgodset,3-1,?,Sarpsborg 08
+Sun Aug 7 2022,Valerenga,4-0,?,Aalesund
+Fri Aug 12 2022,Sandefjord,2-5,?,Rosenborg
+Fri Aug 12 2022,Sarpsborg 08,1-4,?,Bodo/Glimt
+Sat Aug 13 2022,Aalesund,1-2,?,Haugesund
+Sun Aug 14 2022,Jerv,1-0,?,Lillestrom
+Sun Aug 14 2022,Tromso,2-1,?,Kristiansund
+Sun Aug 14 2022,Ham-Kam,1-1,?,Valerenga
+Sat Aug 20 2022,Bodo/Glimt,2-2,?,Ham-Kam
+Sat Aug 20 2022,Odd,1-0,?,Sarpsborg 08
+Sun Aug 21 2022,Haugesund,0-1,?,Molde
+Sun Aug 21 2022,Lillestrom,3-0,?,Sandefjord
+Sun Aug 21 2022,Stromsgodset,6-0,?,Jerv
+Sun Aug 21 2022,Valerenga,1-0,?,Tromso
+Sun Aug 21 2022,Rosenborg,2-1,?,Aalesund
+Sat Aug 27 2022,Jerv,0-2,?,Bodo/Glimt
+Sat Aug 27 2022,Sandefjord,2-2,?,Stromsgodset
+Sun Aug 28 2022,Aalesund,1-1,?,Odd
+Sun Aug 28 2022,Ham-Kam,1-0,?,Haugesund
+Sun Aug 28 2022,Lillestrom,1-1,?,Kristiansund
+Sun Aug 28 2022,Molde,4-1,?,Sarpsborg 08
+Sun Aug 28 2022,Viking,1-2,?,Valerenga
+Sun Aug 28 2022,Tromso,4-3,?,Rosenborg
+Wed Aug 31 2022,Kristiansund,2-1,?,Viking
+Wed Aug 31 2022,Tromso,1-0,?,Stromsgodset
+Sat Sep 3 2022,Bodo/Glimt,1-4,?,Molde
+Sun Sep 4 2022,Haugesund,2-1,?,Tromso
+Sun Sep 4 2022,Kristiansund,3-1,?,Sandefjord
+Sun Sep 4 2022,Odd,2-1,?,Jerv
+Sun Sep 4 2022,Rosenborg,4-1,?,Viking
+Sun Sep 4 2022,Sarpsborg 08,2-1,?,Ham-Kam
+Sun Sep 4 2022,Stromsgodset,1-2,?,Aalesund
+Sun Sep 4 2022,Valerenga,3-1,?,Lillestrom
+Sat Sep 10 2022,Sandefjord,1-3,?,Odd
+Sat Sep 10 2022,Lillestrom,2-1,?,Stromsgodset
+Sun Sep 11 2022,Aalesund,1-3,?,Sarpsborg 08
+Sun Sep 11 2022,Ham-Kam,1-2,?,Viking
+Sun Sep 11 2022,Jerv,2-4,?,Molde
+Sun Sep 11 2022,Kristiansund,3-2,?,Valerenga
+Sun Sep 11 2022,Tromso,3-2,?,Bodo/Glimt
+Sun Sep 11 2022,Haugesund,2-1,?,Rosenborg
+Sat Sep 17 2022,Odd,2-0,?,Ham-Kam
+Sun Sep 18 2022,Bodo/Glimt,1-1,?,Haugesund
+Sun Sep 18 2022,Rosenborg,3-1,?,Lillestrom
+Sun Sep 18 2022,Sarpsborg 08,4-3,?,Jerv
+Sun Sep 18 2022,Stromsgodset,4-1,?,Kristiansund
+Sun Sep 18 2022,Valerenga,4-0,?,Sandefjord
+Sun Sep 18 2022,Viking,2-2,?,Tromso
+Sun Sep 18 2022,Molde,3-0,?,Aalesund
+Sat Oct 1 2022,Tromso,0-1,?,Molde
+Sat Oct 1 2022,Lillestrom,1-4,?,Bodo/Glimt
+Sat Oct 1 2022,Valerenga,4-0,?,Stromsgodset
+Sun Oct 2 2022,Aalesund,2-1,?,Viking
+Sun Oct 2 2022,Ham-Kam,2-1,?,Jerv
+Sun Oct 2 2022,Haugesund,2-2,?,Odd
+Sun Oct 2 2022,Sandefjord,1-1,?,Sarpsborg 08
+Sun Oct 2 2022,Kristiansund,4-4,?,Rosenborg
+Sat Oct 8 2022,Sarpsborg 08,4-0,?,Haugesund
+Sun Oct 9 2022,Bodo/Glimt,4-1,?,Sandefjord
+Sun Oct 9 2022,Molde,5-0,?,Ham-Kam
+Sun Oct 9 2022,Odd,1-1,?,Kristiansund
+Sun Oct 9 2022,Stromsgodset,1-2,?,Tromso
+Sun Oct 9 2022,Viking,0-3,?,Lillestrom
+Sun Oct 9 2022,Rosenborg,3-0,?,Valerenga
+Sat Oct 15 2022,Tromso,3-2,?,Odd
+Sat Oct 15 2022,Rosenborg,3-0,?,Stromsgodset
+Sun Oct 16 2022,Valerenga,0-6,?,Bodo/Glimt
+Sun Oct 16 2022,Aalesund,0-0,?,Ham-Kam
+Sun Oct 16 2022,Kristiansund,0-1,?,Haugesund
+Sun Oct 16 2022,Sandefjord,1-2,?,Jerv
+Sun Oct 16 2022,Viking,0-1,?,Sarpsborg 08
+Sun Oct 16 2022,Lillestrom,0-1,?,Molde
+Wed Oct 19 2022,Jerv,0-1,?,Aalesund
+Sat Oct 22 2022,Ham-Kam,1-1,?,Stromsgodset
+Sat Oct 22 2022,Odd,2-1,?,Valerenga
+Sun Oct 23 2022,Aalesund,1-0,?,Sandefjord
+Sun Oct 23 2022,Bodo/Glimt,5-0,?,Kristiansund
+Sun Oct 23 2022,Haugesund,0-1,?,Lillestrom
+Sun Oct 23 2022,Jerv,2-2,?,Viking
+Sun Oct 23 2022,Sarpsborg 08,1-1,?,Tromso
+Sun Oct 23 2022,Molde,2-1,?,Rosenborg
+Sat Oct 29 2022,Stromsgodset,1-2,?,Haugesund
+Sat Oct 29 2022,Valerenga,3-3,?,Sarpsborg 08
+Sun Oct 30 2022,Kristiansund,4-0,?,Aalesund
+Sun Oct 30 2022,Lillestrom,0-2,?,Odd
+Sun Oct 30 2022,Rosenborg,3-2,?,Bodo/Glimt
+Sun Oct 30 2022,Sandefjord,1-2,?,Ham-Kam
+Sun Oct 30 2022,Tromso,2-2,?,Jerv
+Sun Oct 30 2022,Viking,1-4,?,Molde
+Sun Nov 6 2022,Aalesund,2-1,?,Lillestrom
+Sun Nov 6 2022,Bodo/Glimt,5-4,?,Viking
+Sun Nov 6 2022,Ham-Kam,1-2,?,Tromso
+Sun Nov 6 2022,Haugesund,1-1,?,Valerenga
+Sun Nov 6 2022,Jerv,2-4,?,Rosenborg
+Sun Nov 6 2022,Molde,2-1,?,Sandefjord
+Sun Nov 6 2022,Odd,5-1,?,Stromsgodset
+Sun Nov 6 2022,Sarpsborg 08,2-2,?,Kristiansund
+Sun Nov 13 2022,Kristiansund,1-1,?,Jerv
+Sun Nov 13 2022,Lillestrom,3-1,?,Ham-Kam
+Sun Nov 13 2022,Rosenborg,2-3,?,Sarpsborg 08
+Sun Nov 13 2022,Sandefjord,2-2,?,Haugesund
+Sun Nov 13 2022,Stromsgodset,2-4,?,Bodo/Glimt
+Sun Nov 13 2022,Tromso,2-2,?,Aalesund
+Sun Nov 13 2022,Valerenga,1-2,?,Molde
+Sun Nov 13 2022,Viking,1-1,?,Odd
+Wed Nov 16 2022,Sandefjord,4-0,?,Kongsvinger
+Sat Nov 19 2022,Kongsvinger,2-1,?,Sandefjord

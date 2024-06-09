@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 28 2023,Hamburg,5-3,1-2,Schalke 04
+Sat Jul 29 2023,Hannover,2-2,1-2,Elversberg
+Sat Jul 29 2023,Kaiserslautern,1-2,0-0,St Pauli
+Sat Jul 29 2023,Osnabruck,2-3,1-2,Karlsruhe
+Sat Jul 29 2023,Wehen,1-1,0-1,Magdeburg
+Sat Jul 29 2023,Fortuna Dusseldorf,1-0,0-0,Hertha
+Sun Jul 30 2023,Braunschweig,0-1,0-0,Holstein Kiel
+Sun Jul 30 2023,Greuther Furth,5-0,3-0,Paderborn
+Sun Jul 30 2023,Hansa Rostock,2-0,1-0,Nurnberg
+Fri Aug 4 2023,Hertha,0-1,0-0,Wehen
+Fri Aug 4 2023,Paderborn,1-1,0-0,Osnabruck
+Sat Aug 5 2023,Elversberg,1-2,0-0,Hansa Rostock
+Sat Aug 5 2023,Holstein Kiel,2-1,0-0,Greuther Furth
+Sat Aug 5 2023,St Pauli,0-0,0-0,Fortuna Dusseldorf
+Sat Aug 5 2023,Schalke 04,3-0,1-0,Kaiserslautern
+Sun Aug 6 2023,Karlsruhe,2-2,1-0,Hamburg
+Sun Aug 6 2023,Magdeburg,2-1,2-0,Braunschweig
+Sun Aug 6 2023,Nurnberg,2-2,0-2,Hannover
+Fri Aug 18 2023,Kaiserslautern,3-2,1-0,Elversberg
+Fri Aug 18 2023,Wehen,1-0,1-0,Karlsruhe
+Sat Aug 19 2023,Fortuna Dusseldorf,1-2,0-1,Paderborn
+Sat Aug 19 2023,Greuther Furth,0-0,0-0,St Pauli
+Sat Aug 19 2023,Hansa Rostock,1-2,0-1,Hannover
+Sat Aug 19 2023,Hamburg,3-0,2-0,Hertha
+Sun Aug 20 2023,Braunschweig,1-0,1-0,Schalke 04
+Sun Aug 20 2023,Holstein Kiel,2-4,1-2,Magdeburg
+Sun Aug 20 2023,Osnabruck,2-3,0-1,Nurnberg
+Fri Aug 25 2023,Paderborn,1-2,0-0,Kaiserslautern
+Fri Aug 25 2023,Schalke 04,0-2,0-1,Holstein Kiel
+Sat Aug 26 2023,Elversberg,0-5,0-3,Fortuna Dusseldorf
+Sat Aug 26 2023,Hansa Rostock,2-1,1-1,Osnabruck
+Sat Aug 26 2023,Hertha,5-0,2-0,Greuther Furth
+Sat Aug 26 2023,Hannover,0-1,0-0,Hamburg
+Sun Aug 27 2023,Karlsruhe,2-0,1-0,Braunschweig
+Sun Aug 27 2023,Nurnberg,2-1,0-0,Wehen
+Sun Aug 27 2023,St Pauli,0-0,0-0,Magdeburg
+Fri Sep 1 2023,Braunschweig,1-1,0-0,St Pauli
+Fri Sep 1 2023,Fortuna Dusseldorf,3-1,1-1,Karlsruhe
+Sat Sep 2 2023,Holstein Kiel,2-1,1-1,Paderborn
+Sat Sep 2 2023,Magdeburg,6-4,2-3,Hertha
+Sat Sep 2 2023,Wehen,1-1,0-0,Schalke 04
+Sat Sep 2 2023,Kaiserslautern,3-1,3-1,Nurnberg
+Sun Sep 3 2023,Greuther Furth,1-3,0-2,Hannover
+Sun Sep 3 2023,Hamburg,2-0,1-0,Hansa Rostock
+Sun Sep 3 2023,Osnabruck,0-1,0-0,Elversberg
+Fri Sep 15 2023,Nurnberg,1-1,1-1,Greuther Furth
+Fri Sep 15 2023,Paderborn,2-1,0-1,Wehen
+Sat Sep 16 2023,Elversberg,2-1,1-0,Hamburg
+Sat Sep 16 2023,Hansa Rostock,1-3,1-2,Fortuna Dusseldorf
+Sat Sep 16 2023,Karlsruhe,1-1,1-1,Kaiserslautern
+Sat Sep 16 2023,Schalke 04,4-3,1-2,Magdeburg
+Sun Sep 17 2023,Hannover,7-0,2-0,Osnabruck
+Sun Sep 17 2023,Hertha,3-0,2-0,Braunschweig
+Sun Sep 17 2023,St Pauli,5-1,3-0,Holstein Kiel
+Fri Sep 22 2023,Magdeburg,1-1,0-1,Paderborn
+Fri Sep 22 2023,Osnabruck,2-1,2-1,Hamburg
+Sat Sep 23 2023,Braunschweig,2-2,1-2,Nurnberg
+Sat Sep 23 2023,Greuther Furth,4-3,3-3,Karlsruhe
+Sat Sep 23 2023,Wehen,0-2,0-1,Elversberg
+Sat Sep 23 2023,St Pauli,3-1,1-1,Schalke 04
+Sun Sep 24 2023,Fortuna Dusseldorf,1-1,0-1,Hannover
+Sun Sep 24 2023,Holstein Kiel,2-3,0-2,Hertha
+Sun Sep 24 2023,Kaiserslautern,3-1,2-1,Hansa Rostock
+Fri Sep 29 2023,Hamburg,1-0,0-0,Fortuna Dusseldorf
+Fri Sep 29 2023,Paderborn,3-1,1-0,Schalke 04
+Sat Sep 30 2023,Hannover,2-0,1-0,Wehen
+Sat Sep 30 2023,Hansa Rostock,1-0,0-0,Braunschweig
+Sat Sep 30 2023,Karlsruhe,0-2,0-2,Holstein Kiel
+Sat Sep 30 2023,Hertha,1-2,0-1,St Pauli
+Sun Oct 1 2023,Elversberg,1-1,1-1,Greuther Furth
+Sun Oct 1 2023,Nurnberg,1-0,0-0,Magdeburg
+Sun Oct 1 2023,Osnabruck,2-2,2-1,Kaiserslautern
+Fri Oct 6 2023,Fortuna Dusseldorf,1-1,0-0,Osnabruck
+Fri Oct 6 2023,Kaiserslautern,3-1,1-1,Hannover
+Sat Oct 7 2023,Greuther Furth,1-0,1-0,Hansa Rostock
+Sat Oct 7 2023,Magdeburg,1-1,0-1,Karlsruhe
+Sat Oct 7 2023,Wehen,1-1,0-0,Hamburg
+Sat Oct 7 2023,St Pauli,5-1,1-1,Nurnberg
+Sun Oct 8 2023,Braunschweig,1-3,1-2,Paderborn
+Sun Oct 8 2023,Holstein Kiel,1-1,1-0,Elversberg
+Sun Oct 8 2023,Schalke 04,1-2,0-1,Hertha
+Fri Oct 20 2023,Elversberg,3-0,2-0,Braunschweig
+Fri Oct 20 2023,Hannover,2-1,1-0,Magdeburg
+Sat Oct 21 2023,Hamburg,2-0,2-0,Greuther Furth
+Sat Oct 21 2023,Osnabruck,0-2,0-1,Wehen
+Sat Oct 21 2023,Paderborn,2-2,1-0,St Pauli
+Sat Oct 21 2023,Fortuna Dusseldorf,4-3,1-3,Kaiserslautern
+Sun Oct 22 2023,Hansa Rostock,1-3,1-1,Holstein Kiel
+Sun Oct 22 2023,Karlsruhe,3-0,2-0,Schalke 04
+Sun Oct 22 2023,Nurnberg,3-1,0-1,Hertha
+Fri Oct 27 2023,Braunschweig,1-4,0-2,Fortuna Dusseldorf
+Fri Oct 27 2023,Greuther Furth,4-0,1-0,Osnabruck
+Sat Oct 28 2023,Hertha,3-1,2-0,Paderborn
+Sat Oct 28 2023,Schalke 04,3-2,1-0,Hannover
+Sat Oct 28 2023,St Pauli,2-1,0-1,Karlsruhe
+Sat Oct 28 2023,Kaiserslautern,3-3,2-1,Hamburg
+Sun Oct 29 2023,Holstein Kiel,0-2,0-0,Nurnberg
+Sun Oct 29 2023,Magdeburg,1-2,0-2,Elversberg
+Sun Oct 29 2023,Wehen,1-0,0-0,Hansa Rostock
+Fri Nov 3 2023,Elversberg,0-2,0-2,St Pauli
+Fri Nov 3 2023,Fortuna Dusseldorf,1-3,0-3,Wehen
+Sat Nov 4 2023,Kaiserslautern,0-2,0-1,Greuther Furth
+Sat Nov 4 2023,Nurnberg,1-2,0-1,Schalke 04
+Sat Nov 4 2023,Osnabruck,1-1,0-0,Holstein Kiel
+Sat Nov 4 2023,Hamburg,2-0,1-0,Magdeburg
+Sun Nov 5 2023,Hannover,2-0,2-0,Braunschweig
+Sun Nov 5 2023,Hansa Rostock,0-0,0-0,Hertha
+Sun Nov 5 2023,Karlsruhe,0-3,0-1,Paderborn
+Fri Nov 10 2023,Schalke 04,1-2,1-2,Elversberg
+Fri Nov 10 2023,St Pauli,0-0,0-0,Hannover
+Sat Nov 11 2023,Braunschweig,3-2,1-1,Osnabruck
+Sat Nov 11 2023,Holstein Kiel,4-2,1-0,Hamburg
+Sat Nov 11 2023,Paderborn,1-3,0-3,Nurnberg
+Sat Nov 11 2023,Hertha,2-2,2-1,Karlsruhe
+Sun Nov 12 2023,Greuther Furth,1-0,0-0,Fortuna Dusseldorf
+Sun Nov 12 2023,Magdeburg,1-2,1-0,Hansa Rostock
+Sun Nov 12 2023,Wehen,2-1,0-1,Kaiserslautern
+Fri Nov 24 2023,Hamburg,2-1,2-0,Braunschweig
+Fri Nov 24 2023,Hannover,2-2,0-2,Hertha
+Sat Nov 25 2023,Elversberg,4-1,1-1,Paderborn
+Sat Nov 25 2023,Hansa Rostock,2-3,1-3,St Pauli
+Sat Nov 25 2023,Osnabruck,0-2,0-0,Magdeburg
+Sat Nov 25 2023,Fortuna Dusseldorf,5-3,3-0,Schalke 04
+Sun Nov 26 2023,Greuther Furth,2-0,1-0,Wehen
+Sun Nov 26 2023,Kaiserslautern,0-3,0-2,Holstein Kiel
+Sun Nov 26 2023,Karlsruhe,4-1,1-0,Nurnberg
+Fri Dec 1 2023,Schalke 04,4-0,1-0,Osnabruck
+Fri Dec 1 2023,St Pauli,2-2,2-0,Hamburg
+Sat Dec 2 2023,Braunschweig,0-1,0-1,Greuther Furth
+Sat Dec 2 2023,Holstein Kiel,3-2,2-0,Wehen
+Sat Dec 2 2023,Nurnberg,0-5,0-3,Fortuna Dusseldorf
+Sat Dec 2 2023,Magdeburg,4-1,1-1,Kaiserslautern
+Sun Dec 3 2023,Hertha,5-1,2-1,Elversberg
+Sun Dec 3 2023,Karlsruhe,2-2,1-2,Hansa Rostock
+Sun Dec 3 2023,Paderborn,1-0,0-0,Hannover
+Fri Dec 8 2023,Hannover,2-2,0-1,Karlsruhe
+Fri Dec 8 2023,Wehen,1-3,1-0,Braunschweig
+Sat Dec 9 2023,Greuther Furth,1-1,0-0,Magdeburg
+Sat Dec 9 2023,Hamburg,1-2,1-1,Paderborn
+Sat Dec 9 2023,Kaiserslautern,1-2,1-0,Hertha
+Sat Dec 9 2023,Osnabruck,1-1,0-1,St Pauli
+Sun Dec 10 2023,Elversberg,0-1,0-0,Nurnberg
+Sun Dec 10 2023,Fortuna Dusseldorf,0-1,0-1,Holstein Kiel
+Sun Dec 10 2023,Hansa Rostock,0-2,0-0,Schalke 04
+Fri Dec 15 2023,Paderborn,3-0,1-0,Hansa Rostock
+Fri Dec 15 2023,Schalke 04,2-2,1-0,Greuther Furth
+Sat Dec 16 2023,Hertha,0-0,0-0,Osnabruck
+Sat Dec 16 2023,Magdeburg,2-3,2-0,Fortuna Dusseldorf
+Sat Dec 16 2023,Nurnberg,0-2,0-0,Hamburg
+Sat Dec 16 2023,Holstein Kiel,3-0,3-0,Hannover
+Sun Dec 17 2023,Braunschweig,2-1,1-1,Kaiserslautern
+Sun Dec 17 2023,Karlsruhe,3-2,2-1,Elversberg
+Sun Dec 17 2023,St Pauli,1-1,0-0,Wehen
+Fri Jan 19 2024,Holstein Kiel,1-2,1-1,Braunschweig
+Fri Jan 19 2024,Karlsruhe,2-1,1-1,Osnabruck
+Sat Jan 20 2024,Elversberg,2-2,0-1,Hannover
+Sat Jan 20 2024,Nurnberg,3-0,2-0,Hansa Rostock
+Sat Jan 20 2024,St Pauli,2-0,1-0,Kaiserslautern
+Sat Jan 20 2024,Schalke 04,0-2,0-2,Hamburg
+Sun Jan 21 2024,Hertha,2-2,2-1,Fortuna Dusseldorf
+Sun Jan 21 2024,Magdeburg,1-0,0-0,Wehen
+Sun Jan 21 2024,Paderborn,0-1,0-1,Greuther Furth
+Fri Jan 26 2024,Hannover,3-0,2-0,Nurnberg
+Fri Jan 26 2024,Kaiserslautern,4-1,1-0,Schalke 04
+Sat Jan 27 2024,Hansa Rostock,2-1,0-1,Elversberg
+Sat Jan 27 2024,Osnabruck,0-0,0-0,Paderborn
+Sat Jan 27 2024,Wehen,3-1,1-0,Hertha
+Sat Jan 27 2024,Fortuna Dusseldorf,1-2,0-2,St Pauli
+Sun Jan 28 2024,Braunschweig,1-0,1-0,Magdeburg
+Sun Jan 28 2024,Greuther Furth,2-1,0-0,Holstein Kiel
+Sun Jan 28 2024,Hamburg,3-4,2-2,Karlsruhe
+Fri Feb 2 2024,Karlsruhe,2-2,1-0,Wehen
+Fri Feb 2 2024,Magdeburg,1-1,0-1,Holstein Kiel
+Sat Feb 3 2024,Nurnberg,2-2,1-1,Osnabruck
+Sat Feb 3 2024,Schalke 04,1-0,0-0,Braunschweig
+Sat Feb 3 2024,St Pauli,3-2,2-1,Greuther Furth
+Sat Feb 3 2024,Hertha,1-2,0-0,Hamburg
+Sun Feb 4 2024,Elversberg,2-1,1-1,Kaiserslautern
+Sun Feb 4 2024,Hannover,2-1,1-1,Hansa Rostock
+Sun Feb 4 2024,Paderborn,4-3,3-0,Fortuna Dusseldorf
+Fri Feb 9 2024,Hamburg,3-4,1-3,Hannover
+Fri Feb 9 2024,Wehen,1-1,0-0,Nurnberg
+Sat Feb 10 2024,Braunschweig,2-0,1-0,Karlsruhe
+Sat Feb 10 2024,Fortuna Dusseldorf,1-1,1-0,Elversberg
+Sat Feb 10 2024,Magdeburg,1-0,0-0,St Pauli
+Sat Feb 10 2024,Kaiserslautern,1-2,1-0,Paderborn
+Sun Feb 11 2024,Greuther Furth,1-2,0-1,Hertha
+Sun Feb 11 2024,Holstein Kiel,1-0,0-0,Schalke 04
+Sun Feb 11 2024,Osnabruck,0-0,0-0,Hansa Rostock
+Fri Feb 16 2024,Hannover,2-1,0-1,Greuther Furth
+Fri Feb 16 2024,Hertha,3-2,2-1,Magdeburg
+Sat Feb 17 2024,Hansa Rostock,2-2,0-1,Hamburg
+Sat Feb 17 2024,Paderborn,0-4,0-2,Holstein Kiel
+Sat Feb 17 2024,Schalke 04,1-0,0-0,Wehen
+Sat Feb 17 2024,Karlsruhe,2-2,0-1,Fortuna Dusseldorf
+Sun Feb 18 2024,Elversberg,3-1,3-0,Osnabruck
+Sun Feb 18 2024,Nurnberg,1-1,0-1,Kaiserslautern
+Sun Feb 18 2024,St Pauli,1-0,1-0,Braunschweig
+Fri Feb 23 2024,Holstein Kiel,3-4,0-3,St Pauli
+Fri Feb 23 2024,Wehen,1-2,1-1,Paderborn
+Sat Feb 24 2024,Braunschweig,1-1,1-0,Hertha
+Sat Feb 24 2024,Kaiserslautern,0-4,0-0,Karlsruhe
+Sat Feb 24 2024,Osnabruck,1-0,0-0,Hannover
+Sat Feb 24 2024,Magdeburg,3-0,3-0,Schalke 04
+Sun Feb 25 2024,Fortuna Dusseldorf,2-0,2-0,Hansa Rostock
+Sun Feb 25 2024,Greuther Furth,2-1,1-1,Nurnberg
+Sun Feb 25 2024,Hamburg,1-0,0-0,Elversberg
+Fri Mar 1 2024,Hertha,2-2,2-0,Holstein Kiel
+Fri Mar 1 2024,Schalke 04,3-1,1-0,St Pauli
+Sat Mar 2 2024,Hannover,2-2,0-2,Fortuna Dusseldorf
+Sat Mar 2 2024,Hansa Rostock,0-3,0-1,Kaiserslautern
+Sat Mar 2 2024,Nurnberg,2-1,2-0,Braunschweig
+Sat Mar 2 2024,Karlsruhe,4-0,1-0,Greuther Furth
+Sun Mar 3 2024,Elversberg,0-3,0-1,Wehen
+Sun Mar 3 2024,Hamburg,1-2,1-1,Osnabruck
+Sun Mar 3 2024,Paderborn,0-0,0-0,Magdeburg
+Fri Mar 8 2024,Braunschweig,0-1,0-0,Hansa Rostock
+Fri Mar 8 2024,Fortuna Dusseldorf,2-0,1-0,Hamburg
+Sat Mar 9 2024,Holstein Kiel,1-0,0-0,Karlsruhe
+Sat Mar 9 2024,Schalke 04,3-3,1-0,Paderborn
+Sat Mar 9 2024,Wehen,1-1,1-0,Hannover
+Sat Mar 9 2024,Magdeburg,0-1,0-0,Nurnberg
+Sun Mar 10 2024,Greuther Furth,1-4,0-1,Elversberg
+Sun Mar 10 2024,Kaiserslautern,3-2,0-0,Osnabruck
+Sun Mar 10 2024,St Pauli,2-0,2-0,Hertha
+Fri Mar 15 2024,Osnabruck,0-4,0-1,Fortuna Dusseldorf
+Fri Mar 15 2024,Paderborn,1-2,0-0,Braunschweig
+Sat Mar 16 2024,Elversberg,0-2,0-1,Holstein Kiel
+Sat Mar 16 2024,Hansa Rostock,1-0,1-0,Greuther Furth
+Sat Mar 16 2024,Nurnberg,0-2,0-1,St Pauli
+Sat Mar 16 2024,Hannover,1-1,0-0,Kaiserslautern
+Sun Mar 17 2024,Hamburg,3-0,1-0,Wehen
+Sun Mar 17 2024,Hertha,5-2,3-2,Schalke 04
+Sun Mar 17 2024,Karlsruhe,7-0,4-0,Magdeburg
+Sat Mar 30 2024,Braunschweig,5-0,2-0,Elversberg
+Sat Mar 30 2024,Holstein Kiel,2-0,1-0,Hansa Rostock
+Sat Mar 30 2024,Kaiserslautern,1-3,1-0,Fortuna Dusseldorf
+Sat Mar 30 2024,Hertha,3-3,1-2,Nurnberg
+Sun Mar 31 2024,Greuther Furth,1-1,0-0,Hamburg
+Sun Mar 31 2024,Magdeburg,0-3,0-1,Hannover
+Sun Mar 31 2024,Schalke 04,0-0,0-0,Karlsruhe
+Sun Mar 31 2024,St Pauli,2-1,1-0,Paderborn
+Sun Mar 31 2024,Wehen,0-1,0-1,Osnabruck
+Fri Apr 5 2024,Hansa Rostock,3-1,0-0,Wehen
+Fri Apr 5 2024,Paderborn,2-3,1-1,Hertha
+Sat Apr 6 2024,Elversberg,0-0,0-0,Magdeburg
+Sat Apr 6 2024,Hamburg,2-1,1-1,Kaiserslautern
+Sat Apr 6 2024,Nurnberg,0-4,0-3,Holstein Kiel
+Sat Apr 6 2024,Karlsruhe,2-1,1-1,St Pauli
+Sun Apr 7 2024,Fortuna Dusseldorf,2-0,1-0,Braunschweig
+Sun Apr 7 2024,Hannover,1-1,0-1,Schalke 04
+Sun Apr 7 2024,Osnabruck,2-0,2-0,Greuther Furth
+Fri Apr 12 2024,Greuther Furth,2-1,0-1,Kaiserslautern
+Fri Apr 12 2024,Hertha,4-0,2-0,Hansa Rostock
+Sat Apr 13 2024,Holstein Kiel,4-0,2-0,Osnabruck
+Sat Apr 13 2024,Paderborn,1-1,1-1,Karlsruhe
+Sat Apr 13 2024,Wehen,0-2,0-1,Fortuna Dusseldorf
+Sat Apr 13 2024,Schalke 04,2-0,1-0,Nurnberg
+Sun Apr 14 2024,Braunschweig,0-0,0-0,Hannover
+Sun Apr 14 2024,Magdeburg,2-2,2-0,Hamburg
+Sun Apr 14 2024,St Pauli,3-4,1-0,Elversberg
+Fri Apr 19 2024,Elversberg,1-1,1-0,Schalke 04
+Fri Apr 19 2024,Nurnberg,0-2,0-1,Paderborn
+Sat Apr 20 2024,Fortuna Dusseldorf,1-0,0-0,Greuther Furth
+Sat Apr 20 2024,Kaiserslautern,1-1,1-0,Wehen
+Sat Apr 20 2024,Osnabruck,0-3,0-2,Braunschweig
+Sat Apr 20 2024,Hamburg,0-1,0-0,Holstein Kiel
+Sun Apr 21 2024,Hannover,1-2,1-1,St Pauli
+Sun Apr 21 2024,Hansa Rostock,0-2,0-2,Magdeburg
+Sun Apr 21 2024,Karlsruhe,3-2,2-1,Hertha
+Fri Apr 26 2024,Hertha,1-1,1-0,Hannover
+Fri Apr 26 2024,St Pauli,1-0,0-0,Hansa Rostock
+Sat Apr 27 2024,Braunschweig,0-4,0-2,Hamburg
+Sat Apr 27 2024,Holstein Kiel,1-3,1-2,Kaiserslautern
+Sat Apr 27 2024,Paderborn,3-1,0-0,Elversberg
+Sat Apr 27 2024,Schalke 04,1-1,0-0,Fortuna Dusseldorf
+Sun Apr 28 2024,Magdeburg,1-1,1-1,Osnabruck
+Sun Apr 28 2024,Nurnberg,0-1,0-1,Karlsruhe
+Sun Apr 28 2024,Wehen,3-5,2-3,Greuther Furth
+Fri May 3 2024,Fortuna Dusseldorf,3-1,2-0,Nurnberg
+Fri May 3 2024,Hamburg,1-0,0-0,St Pauli
+Sat May 4 2024,Greuther Furth,3-3,1-2,Braunschweig
+Sat May 4 2024,Hansa Rostock,1-2,1-0,Karlsruhe
+Sat May 4 2024,Kaiserslautern,4-1,2-0,Magdeburg
+Sun May 5 2024,Elversberg,4-2,1-1,Hertha
+Sun May 5 2024,Hannover,3-2,3-2,Paderborn
+Sun May 5 2024,Wehen,0-1,0-0,Holstein Kiel
+Tue May 7 2024,Osnabruck,0-4,0-2,Schalke 04
+Fri May 10 2024,Magdeburg,0-0,0-0,Greuther Furth
+Fri May 10 2024,Paderborn,1-0,1-0,Hamburg
+Sat May 11 2024,Hertha,3-1,2-1,Kaiserslautern
+Sat May 11 2024,Nurnberg,3-0,1-0,Elversberg
+Sat May 11 2024,Schalke 04,2-1,2-1,Hansa Rostock
+Sat May 11 2024,Holstein Kiel,1-1,1-0,Fortuna Dusseldorf
+Sun May 12 2024,Braunschweig,1-0,1-0,Wehen
+Sun May 12 2024,Karlsruhe,1-2,1-1,Hannover
+Sun May 12 2024,St Pauli,3-1,1-0,Osnabruck
+Sun May 19 2024,Elversberg,0-3,0-0,Karlsruhe
+Sun May 19 2024,Fortuna Dusseldorf,3-2,2-1,Magdeburg
+Sun May 19 2024,Greuther Furth,2-0,0-0,Schalke 04
+Sun May 19 2024,Hamburg,4-1,3-1,Nurnberg
+Sun May 19 2024,Hannover,1-2,0-2,Holstein Kiel
+Sun May 19 2024,Hansa Rostock,1-2,0-0,Paderborn
+Sun May 19 2024,Kaiserslautern,5-0,1-0,Braunschweig
+Sun May 19 2024,Osnabruck,2-1,1-1,Hertha
+Sun May 19 2024,Wehen,1-2,1-0,St Pauli

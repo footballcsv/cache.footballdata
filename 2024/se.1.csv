@@ -1,0 +1,99 @@
+Date,Team 1,FT,HT,Team 2
+Sat Mar 30 2024,Norrkoping,1-5,?,Malmo FF
+Sun Mar 31 2024,GAIS,0-4,?,Brommapojkarna
+Sun Mar 31 2024,Hammarby,3-1,?,Kalmar
+Sun Mar 31 2024,Hacken,0-1,?,Mjallby
+Mon Apr 1 2024,Goteborg,1-4,?,Djurgarden
+Mon Apr 1 2024,Sirius,3-0,?,Halmstad
+Mon Apr 1 2024,AIK,1-0,?,Vasteras SK
+Mon Apr 1 2024,Elfsborg,2-2,?,Varnamo
+Sat Apr 6 2024,Brommapojkarna,2-2,?,AIK
+Sat Apr 6 2024,Mjallby,3-0,?,Norrkoping
+Sun Apr 7 2024,Halmstad,1-0,?,Goteborg
+Sun Apr 7 2024,Malmo FF,2-0,?,Hammarby
+Sun Apr 7 2024,Vasteras SK,0-1,?,Elfsborg
+Mon Apr 8 2024,Kalmar,1-2,?,Sirius
+Mon Apr 8 2024,Varnamo,1-2,?,GAIS
+Mon Apr 8 2024,Djurgarden,3-3,?,Hacken
+Sat Apr 13 2024,Mjallby,1-1,?,AIK
+Sat Apr 13 2024,Vasteras SK,0-1,?,Halmstad
+Sun Apr 14 2024,Kalmar,0-1,?,Goteborg
+Sun Apr 14 2024,Norrkoping,1-0,?,GAIS
+Sun Apr 14 2024,Djurgarden,2-0,?,Sirius
+Mon Apr 15 2024,Hacken,4-3,?,Brommapojkarna
+Mon Apr 15 2024,Varnamo,0-4,?,Malmo FF
+Mon Apr 15 2024,Hammarby,3-0,?,Elfsborg
+Sat Apr 20 2024,Goteborg,1-1,?,Norrkoping
+Sat Apr 20 2024,Sirius,0-1,?,Varnamo
+Sat Apr 20 2024,Malmo FF,1-0,?,Vasteras SK
+Sun Apr 21 2024,AIK,2-0,?,Djurgarden
+Sun Apr 21 2024,GAIS,2-1,?,Mjallby
+Sun Apr 21 2024,Hacken,2-1,?,Hammarby
+Sun Apr 21 2024,Halmstad,0-2,?,Brommapojkarna
+Mon Apr 22 2024,Elfsborg,1-2,?,Kalmar
+Wed Apr 24 2024,AIK,2-0,?,Varnamo
+Wed Apr 24 2024,Brommapojkarna,1-1,?,Sirius
+Wed Apr 24 2024,Goteborg,0-1,?,Hacken
+Thu Apr 25 2024,Djurgarden,0-1,?,Malmo FF
+Thu Apr 25 2024,Halmstad,2-1,?,Hammarby
+Thu Apr 25 2024,Kalmar,2-3,?,GAIS
+Thu Apr 25 2024,Norrkoping,4-2,?,Elfsborg
+Thu Apr 25 2024,Vasteras SK,2-1,?,Mjallby
+Sun Apr 28 2024,Malmo FF,5-0,?,AIK
+Sun Apr 28 2024,Varnamo,1-3,?,Halmstad
+Sun Apr 28 2024,Djurgarden,1-0,?,GAIS
+Sun Apr 28 2024,Hacken,1-2,?,Norrkoping
+Mon Apr 29 2024,Brommapojkarna,0-3,?,Goteborg
+Mon Apr 29 2024,Elfsborg,2-0,?,Sirius
+Mon Apr 29 2024,Mjallby,3-2,?,Kalmar
+Mon Apr 29 2024,Hammarby,2-1,?,Vasteras SK
+Sat May 4 2024,Kalmar,5-2,?,Halmstad
+Sat May 4 2024,Mjallby,1-1,?,Brommapojkarna
+Sat May 4 2024,Sirius,0-3,?,Hacken
+Sun May 5 2024,Elfsborg,3-1,?,Malmo FF
+Sun May 5 2024,Vasteras SK,0-2,?,Djurgarden
+Sun May 5 2024,AIK,6-2,?,Norrkoping
+Sun May 5 2024,Hammarby,1-2,?,Varnamo
+Mon May 6 2024,GAIS,2-1,?,Goteborg
+Sat May 11 2024,AIK,1-3,?,Sirius
+Sat May 11 2024,Halmstad,1-3,?,Mjallby
+Sat May 11 2024,GAIS,2-0,?,Vasteras SK
+Sun May 12 2024,Hacken,3-1,?,Kalmar
+Sun May 12 2024,Norrkoping,1-2,?,Hammarby
+Sun May 12 2024,Djurgarden,2-0,?,Elfsborg
+Sun May 12 2024,Varnamo,1-1,?,Brommapojkarna
+Mon May 13 2024,Goteborg,0-3,?,Malmo FF
+Wed May 15 2024,Elfsborg,6-1,?,AIK
+Wed May 15 2024,Halmstad,3-0,?,Hacken
+Wed May 15 2024,Mjallby,3-0,?,Hammarby
+Wed May 15 2024,Vasteras SK,0-2,?,Varnamo
+Thu May 16 2024,Brommapojkarna,0-5,?,Djurgarden
+Thu May 16 2024,Kalmar,1-1,?,Norrkoping
+Thu May 16 2024,Malmo FF,1-0,?,GAIS
+Thu May 16 2024,Sirius,2-2,?,Goteborg
+Sun May 19 2024,Brommapojkarna,2-1,?,Norrkoping
+Sun May 19 2024,Hammarby,2-1,?,AIK
+Sun May 19 2024,GAIS,2-1,?,Elfsborg
+Sun May 19 2024,Varnamo,0-2,?,Kalmar
+Mon May 20 2024,Djurgarden,2-0,?,Halmstad
+Mon May 20 2024,Sirius,0-0,?,Vasteras SK
+Mon May 20 2024,Hacken,2-2,?,Malmo FF
+Tue May 21 2024,Goteborg,1-0,?,Mjallby
+Fri May 24 2024,Elfsborg,2-0,?,Halmstad
+Fri May 24 2024,Malmo FF,5-0,?,Kalmar
+Sat May 25 2024,GAIS,3-0,?,Hacken
+Sat May 25 2024,Mjallby,1-3,?,Djurgarden
+Sun May 26 2024,Hammarby,3-0,?,Sirius
+Sun May 26 2024,Vasteras SK,1-1,?,Brommapojkarna
+Mon May 27 2024,Norrkoping,0-4,?,Varnamo
+Mon May 27 2024,AIK,5-2,?,Goteborg
+Tue May 28 2024,Malmo FF,2-1,?,Elfsborg
+Wed May 29 2024,Mjallby,2-1,?,Hacken
+Sat Jun 1 2024,Brommapojkarna,2-2,?,Malmo FF
+Sat Jun 1 2024,Goteborg,1-0,?,Elfsborg
+Sat Jun 1 2024,Halmstad,4-0,?,GAIS
+Sat Jun 1 2024,Sirius,5-1,?,Norrkoping
+Sun Jun 2 2024,Djurgarden,0-3,?,Hammarby
+Sun Jun 2 2024,Kalmar,0-4,?,Vasteras SK
+Sun Jun 2 2024,Hacken,4-1,?,AIK
+Sun Jun 2 2024,Varnamo,1-2,?,Mjallby

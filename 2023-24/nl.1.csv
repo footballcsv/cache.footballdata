@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 11 2023,Volendam,1-2,1-0,Vitesse
+Sat Aug 12 2023,PSV Eindhoven,2-0,1-0,Utrecht
+Sat Aug 12 2023,Heerenveen,3-1,3-0,Waalwijk
+Sat Aug 12 2023,Ajax,4-1,1-1,Heracles
+Sat Aug 12 2023,Zwolle,1-2,0-1,Sparta Rotterdam
+Sun Aug 13 2023,Nijmegen,3-4,2-1,Excelsior
+Sun Aug 13 2023,AZ Alkmaar,5-1,2-0,Go Ahead Eagles
+Sun Aug 13 2023,Feyenoord,0-0,0-0,For Sittard
+Sun Aug 13 2023,Almere City,1-4,0-0,Twente
+Fri Aug 18 2023,Heracles,2-1,0-1,Nijmegen
+Sat Aug 19 2023,Excelsior,2-2,1-1,Ajax
+Sat Aug 19 2023,Vitesse,1-3,1-0,PSV Eindhoven
+Sat Aug 19 2023,For Sittard,2-1,2-1,Almere City
+Sat Aug 19 2023,Go Ahead Eagles,4-1,3-0,Volendam
+Sun Aug 20 2023,Utrecht,0-2,0-0,Heerenveen
+Sun Aug 20 2023,Sparta Rotterdam,2-2,1-0,Feyenoord
+Sun Aug 20 2023,Twente,3-1,1-1,Zwolle
+Sun Aug 20 2023,Waalwijk,1-3,1-0,AZ Alkmaar
+Sat Aug 26 2023,Nijmegen,3-0,1-0,Waalwijk
+Sat Aug 26 2023,Excelsior,2-2,1-0,For Sittard
+Sun Aug 27 2023,Zwolle,1-0,0-0,Utrecht
+Sun Aug 27 2023,Feyenoord,6-1,3-0,Almere City
+Sun Aug 27 2023,Heerenveen,1-3,0-1,Sparta Rotterdam
+Fri Sep 1 2023,Sparta Rotterdam,1-1,0-0,Nijmegen
+Sat Sep 2 2023,Almere City,1-2,0-1,Zwolle
+Sat Sep 2 2023,Go Ahead Eagles,3-2,2-1,Heerenveen
+Sat Sep 2 2023,Waalwijk,0-4,0-1,PSV Eindhoven
+Sat Sep 2 2023,Heracles,3-1,0-1,Excelsior
+Sun Sep 3 2023,Utrecht,1-5,1-2,Feyenoord
+Sun Sep 3 2023,For Sittard,0-0,0-0,Ajax
+Sun Sep 3 2023,Volendam,0-2,0-1,Twente
+Sun Sep 3 2023,Vitesse,0-2,0-0,AZ Alkmaar
+Sat Sep 16 2023,Feyenoord,6-1,3-1,Heerenveen
+Sat Sep 16 2023,Vitesse,0-2,0-1,Waalwijk
+Sat Sep 16 2023,For Sittard,3-1,0-1,Volendam
+Sat Sep 16 2023,PSV Eindhoven,4-0,2-0,Nijmegen
+Sat Sep 16 2023,Heracles,1-3,0-2,Utrecht
+Sun Sep 17 2023,Zwolle,1-1,0-0,Go Ahead Eagles
+Sun Sep 17 2023,Excelsior,0-0,0-0,Almere City
+Sun Sep 17 2023,Twente,3-1,2-1,Ajax
+Sun Sep 17 2023,AZ Alkmaar,2-0,2-0,Sparta Rotterdam
+Fri Sep 22 2023,Go Ahead Eagles,3-0,1-0,For Sittard
+Sat Sep 23 2023,Volendam,2-2,0-0,Heracles
+Sat Sep 23 2023,Nijmegen,3-0,2-0,Utrecht
+Sat Sep 23 2023,Almere City,0-4,0-2,PSV Eindhoven
+Sat Sep 23 2023,Heerenveen,0-3,0-2,Excelsior
+Sun Sep 24 2023,Sparta Rotterdam,1-0,1-0,Vitesse
+Sun Sep 24 2023,Waalwijk,1-0,0-0,Twente
+Sun Sep 24 2023,Zwolle,0-3,0-1,AZ Alkmaar
+Wed Sep 27 2023,Ajax,0-4,0-3,Feyenoord
+Wed Sep 27 2023,PSV Eindhoven,3-0,1-0,Go Ahead Eagles
+Wed Sep 27 2023,Twente,1-0,1-0,Vitesse
+Thu Sep 28 2023,AZ Alkmaar,1-1,1-0,Heracles
+Sat Sep 30 2023,Feyenoord,3-1,1-0,Go Ahead Eagles
+Sat Sep 30 2023,PSV Eindhoven,3-1,1-0,Volendam
+Sat Sep 30 2023,Utrecht,0-2,0-0,Almere City
+Sat Sep 30 2023,Twente,1-0,0-0,Heerenveen
+Sun Oct 1 2023,Nijmegen,1-3,1-1,Vitesse
+Sun Oct 1 2023,Excelsior,2-1,0-0,Sparta Rotterdam
+Sun Oct 1 2023,Heracles,2-1,0-0,Zwolle
+Sun Oct 1 2023,AZ Alkmaar,4-0,1-0,For Sittard
+Fri Oct 6 2023,Volendam,1-0,0-0,Utrecht
+Sat Oct 7 2023,Heerenveen,1-1,1-1,Nijmegen
+Sat Oct 7 2023,Almere City,1-0,1-0,Waalwijk
+Sat Oct 7 2023,Go Ahead Eagles,4-0,2-0,Heracles
+Sat Oct 7 2023,Vitesse,0-0,0-0,Excelsior
+Sun Oct 8 2023,Zwolle,0-2,0-1,Feyenoord
+Sun Oct 8 2023,Ajax,1-2,0-1,AZ Alkmaar
+Sun Oct 8 2023,For Sittard,0-3,0-1,Twente
+Sun Oct 8 2023,Sparta Rotterdam,0-4,0-0,PSV Eindhoven
+Sat Oct 21 2023,PSV Eindhoven,3-1,1-0,For Sittard
+Sat Oct 21 2023,Waalwijk,2-1,1-0,Volendam
+Sat Oct 21 2023,Nijmegen,1-1,0-1,Almere City
+Sat Oct 21 2023,AZ Alkmaar,3-0,1-0,Heerenveen
+Sat Oct 21 2023,Feyenoord,4-0,2-0,Vitesse
+Sun Oct 22 2023,Utrecht,4-3,1-0,Ajax
+Sun Oct 22 2023,Excelsior,2-4,1-0,Zwolle
+Sun Oct 22 2023,Heracles,2-2,0-2,Twente
+Sun Oct 22 2023,Go Ahead Eagles,0-0,0-0,Sparta Rotterdam
+Fri Oct 27 2023,Vitesse,1-1,0-1,Zwolle
+Sat Oct 28 2023,Heerenveen,3-0,2-0,Heracles
+Sat Oct 28 2023,Almere City,0-0,0-0,Go Ahead Eagles
+Sat Oct 28 2023,Sparta Rotterdam,2-0,0-0,Waalwijk
+Sat Oct 28 2023,For Sittard,0-0,0-0,Utrecht
+Sun Oct 29 2023,Twente,2-1,1-0,Feyenoord
+Sun Oct 29 2023,PSV Eindhoven,5-2,1-2,Ajax
+Sun Oct 29 2023,Volendam,3-1,0-1,Excelsior
+Thu Nov 2 2023,Ajax,2-0,0-0,Volendam
+Sat Nov 4 2023,Heracles,0-6,0-2,PSV Eindhoven
+Sat Nov 4 2023,Excelsior,1-1,0-0,AZ Alkmaar
+Sat Nov 4 2023,Waalwijk,1-2,1-1,Feyenoord
+Sat Nov 4 2023,Go Ahead Eagles,5-1,1-0,Vitesse
+Sun Nov 5 2023,Utrecht,1-1,1-1,Twente
+Sun Nov 5 2023,Nijmegen,3-3,1-1,Volendam
+Sun Nov 5 2023,Zwolle,2-0,1-0,For Sittard
+Sun Nov 5 2023,Ajax,4-1,2-1,Heerenveen
+Sun Nov 5 2023,Sparta Rotterdam,1-2,0-1,Almere City
+Fri Nov 10 2023,For Sittard,4-1,4-0,Heracles
+Sat Nov 11 2023,Waalwijk,0-1,0-1,Go Ahead Eagles
+Sat Nov 11 2023,Twente,3-3,1-0,Nijmegen
+Sat Nov 11 2023,Vitesse,1-3,1-1,Heerenveen
+Sun Nov 12 2023,PSV Eindhoven,4-0,2-0,Zwolle
+Sun Nov 12 2023,Almere City,2-2,0-0,Ajax
+Sun Nov 12 2023,Volendam,1-4,1-2,Sparta Rotterdam
+Sun Nov 12 2023,Feyenoord,1-0,1-0,AZ Alkmaar
+Sun Nov 12 2023,Utrecht,2-2,0-0,Excelsior
+Sat Nov 25 2023,Excelsior,2-4,1-1,Feyenoord
+Sat Nov 25 2023,Heerenveen,3-0,1-0,For Sittard
+Sat Nov 25 2023,Twente,0-3,0-1,PSV Eindhoven
+Sat Nov 25 2023,Ajax,5-0,2-0,Vitesse
+Sat Nov 25 2023,Zwolle,1-2,1-1,Waalwijk
+Sun Nov 26 2023,Almere City,0-5,0-1,Heracles
+Sun Nov 26 2023,AZ Alkmaar,3-0,1-0,Volendam
+Sun Nov 26 2023,Nijmegen,1-1,0-0,Go Ahead Eagles
+Sun Nov 26 2023,Sparta Rotterdam,1-2,1-1,Utrecht
+Fri Dec 1 2023,Heerenveen,3-0,2-0,Almere City
+Sat Dec 2 2023,Volendam,0-5,0-0,Zwolle
+Sat Dec 2 2023,For Sittard,3-1,2-0,Vitesse
+Sat Dec 2 2023,Waalwijk,2-2,1-0,Excelsior
+Sat Dec 2 2023,Heracles,0-1,0-0,Sparta Rotterdam
+Sun Dec 3 2023,Feyenoord,1-2,0-0,PSV Eindhoven
+Sun Dec 3 2023,Go Ahead Eagles,1-3,0-2,Twente
+Sun Dec 3 2023,Nijmegen,1-2,0-0,Ajax
+Sun Dec 3 2023,Utrecht,1-1,0-1,AZ Alkmaar
+Wed Dec 6 2023,AZ Alkmaar,1-2,0-2,Nijmegen
+Wed Dec 6 2023,Waalwijk,2-3,1-2,Ajax
+Thu Dec 7 2023,PSV Eindhoven,2-0,1-0,Heerenveen
+Thu Dec 7 2023,Feyenoord,3-1,1-1,Volendam
+Fri Dec 8 2023,Twente,4-2,1-2,Excelsior
+Sat Dec 9 2023,Ajax,2-1,2-0,Sparta Rotterdam
+Sat Dec 9 2023,Zwolle,1-3,0-1,Nijmegen
+Sat Dec 9 2023,AZ Alkmaar,4-1,1-0,Almere City
+Sun Dec 10 2023,Go Ahead Eagles,0-2,0-2,Utrecht
+Sun Dec 10 2023,For Sittard,1-0,0-0,Waalwijk
+Sun Dec 10 2023,Vitesse,2-0,1-0,Heracles
+Fri Dec 15 2023,Nijmegen,4-1,2-0,For Sittard
+Sat Dec 16 2023,Utrecht,1-1,1-1,Waalwijk
+Sat Dec 16 2023,Excelsior,1-1,0-0,Go Ahead Eagles
+Sat Dec 16 2023,Heerenveen,1-2,0-1,Volendam
+Sun Dec 17 2023,Almere City,5-0,2-0,Vitesse
+Sun Dec 17 2023,Heracles,0-4,0-2,Feyenoord
+Sun Dec 17 2023,Sparta Rotterdam,2-2,0-1,Twente
+Sun Dec 17 2023,Ajax,2-2,1-0,Zwolle
+Sun Dec 17 2023,AZ Alkmaar,0-4,0-3,PSV Eindhoven
+Fri Jan 12 2024,Waalwijk,1-2,0-1,Heracles
+Sat Jan 13 2024,For Sittard,0-2,0-1,Sparta Rotterdam
+Sat Jan 13 2024,Twente,2-1,1-1,AZ Alkmaar
+Sat Jan 13 2024,Zwolle,2-2,0-1,Heerenveen
+Sat Jan 13 2024,PSV Eindhoven,3-1,2-0,Excelsior
+Sun Jan 14 2024,Volendam,0-1,0-1,Almere City
+Sun Jan 14 2024,Go Ahead Eagles,2-3,1-2,Ajax
+Sun Jan 14 2024,Vitesse,0-0,0-0,Utrecht
+Sun Jan 14 2024,Feyenoord,2-2,2-1,Nijmegen
+Fri Jan 19 2024,Excelsior,3-0,2-0,Heerenveen
+Sat Jan 20 2024,Nijmegen,1-0,0-0,Twente
+Sat Jan 20 2024,Heracles,1-1,0-1,Volendam
+Sat Jan 20 2024,AZ Alkmaar,2-2,0-0,Zwolle
+Sun Jan 21 2024,Utrecht,1-1,0-1,PSV Eindhoven
+Sun Jan 21 2024,Sparta Rotterdam,0-2,0-1,Go Ahead Eagles
+Sun Jan 21 2024,Vitesse,1-2,0-1,Feyenoord
+Sun Jan 21 2024,Ajax,4-1,2-1,Waalwijk
+Wed Jan 24 2024,Almere City,0-0,0-0,For Sittard
+Fri Jan 26 2024,Zwolle,1-0,1-0,Vitesse
+Sat Jan 27 2024,PSV Eindhoven,2-0,1-0,Almere City
+Sat Jan 27 2024,Waalwijk,1-1,0-0,Sparta Rotterdam
+Sat Jan 27 2024,Excelsior,1-1,0-0,Utrecht
+Sat Jan 27 2024,Heracles,2-4,1-1,Ajax
+Sun Jan 28 2024,Heerenveen,2-2,1-1,AZ Alkmaar
+Sun Jan 28 2024,Feyenoord,0-0,0-0,Twente
+Sun Jan 28 2024,Go Ahead Eagles,2-2,0-1,Nijmegen
+Sun Jan 28 2024,Volendam,0-1,0-0,For Sittard
+Fri Feb 2 2024,Almere City,2-1,1-1,Excelsior
+Sat Feb 3 2024,Twente,3-0,1-0,Waalwijk
+Sat Feb 3 2024,For Sittard,3-3,0-2,Heerenveen
+Sat Feb 3 2024,Ajax,1-1,1-1,PSV Eindhoven
+Sat Feb 3 2024,Nijmegen,3-1,0-1,Heracles
+Sun Feb 4 2024,Vitesse,0-2,0-1,Go Ahead Eagles
+Sun Feb 4 2024,AZ Alkmaar,0-1,0-1,Feyenoord
+Sun Feb 4 2024,Utrecht,4-2,2-1,Volendam
+Sun Feb 4 2024,Sparta Rotterdam,0-2,0-1,Zwolle
+Fri Feb 9 2024,Waalwijk,2-0,2-0,Nijmegen
+Sat Feb 10 2024,Excelsior,0-3,0-3,Twente
+Sat Feb 10 2024,Almere City,0-0,0-0,AZ Alkmaar
+Sat Feb 10 2024,Heracles,3-2,1-2,Vitesse
+Sun Feb 11 2024,Go Ahead Eagles,1-1,0-0,Zwolle
+Sun Feb 11 2024,Heerenveen,3-2,2-0,Ajax
+Sun Feb 11 2024,Utrecht,4-0,1-0,For Sittard
+Sun Feb 11 2024,Volendam,1-5,1-1,PSV Eindhoven
+Sun Feb 11 2024,Feyenoord,2-0,0-0,Sparta Rotterdam
+Fri Feb 16 2024,PSV Eindhoven,2-0,1-0,Heracles
+Sat Feb 17 2024,For Sittard,1-2,1-0,AZ Alkmaar
+Sat Feb 17 2024,Sparta Rotterdam,4-2,2-2,Excelsior
+Sat Feb 17 2024,Heerenveen,0-2,0-0,Go Ahead Eagles
+Sat Feb 17 2024,Zwolle,0-1,0-0,Almere City
+Sun Feb 18 2024,Twente,0-1,0-1,Utrecht
+Sun Feb 18 2024,Ajax,2-2,1-0,Nijmegen
+Sun Feb 18 2024,Vitesse,1-1,1-1,Volendam
+Sun Feb 18 2024,Feyenoord,1-0,0-0,Waalwijk
+Fri Feb 23 2024,Utrecht,1-0,0-0,Heracles
+Sat Feb 24 2024,Waalwijk,0-1,0-0,For Sittard
+Sat Feb 24 2024,Zwolle,1-7,1-2,PSV Eindhoven
+Sat Feb 24 2024,Nijmegen,2-0,2-0,Sparta Rotterdam
+Sun Feb 25 2024,Excelsior,1-2,0-0,Vitesse
+Sun Feb 25 2024,Almere City,0-2,0-0,Feyenoord
+Sun Feb 25 2024,Twente,3-0,2-0,Go Ahead Eagles
+Sun Feb 25 2024,AZ Alkmaar,2-0,1-0,Ajax
+Sun Feb 25 2024,Volendam,0-4,0-1,Heerenveen
+Fri Mar 1 2024,Volendam,2-5,0-3,Nijmegen
+Sat Mar 2 2024,Go Ahead Eagles,1-0,0-0,Waalwijk
+Sat Mar 2 2024,Vitesse,1-2,1-1,Twente
+Sat Mar 2 2024,Sparta Rotterdam,1-1,0-1,AZ Alkmaar
+Sun Mar 3 2024,Ajax,2-0,1-0,Utrecht
+Sun Mar 3 2024,Heerenveen,2-0,1-0,Zwolle
+Sun Mar 3 2024,PSV Eindhoven,2-2,1-1,Feyenoord
+Sun Mar 3 2024,For Sittard,5-2,4-0,Excelsior
+Sun Mar 3 2024,Heracles,2-2,0-2,Almere City
+Fri Mar 8 2024,Go Ahead Eagles,0-1,0-1,PSV Eindhoven
+Sat Mar 9 2024,Twente,2-1,1-0,Sparta Rotterdam
+Sat Mar 9 2024,Almere City,1-1,1-1,Utrecht
+Sat Mar 9 2024,Waalwijk,3-1,1-0,Vitesse
+Sun Mar 10 2024,AZ Alkmaar,4-0,3-0,Excelsior
+Sun Mar 10 2024,Ajax,2-2,1-0,For Sittard
+Sun Mar 10 2024,Zwolle,1-1,0-0,Volendam
+Sun Mar 10 2024,Nijmegen,2-0,0-0,Heerenveen
+Sun Mar 10 2024,Feyenoord,3-0,2-0,Heracles
+Fri Mar 15 2024,Heracles,2-0,0-0,Go Ahead Eagles
+Sat Mar 16 2024,For Sittard,3-1,1-0,Zwolle
+Sat Mar 16 2024,Excelsior,1-1,1-0,Waalwijk
+Sat Mar 16 2024,Vitesse,1-1,0-1,Almere City
+Sun Mar 17 2024,Volendam,0-4,0-2,AZ Alkmaar
+Sun Mar 17 2024,Heerenveen,2-3,1-1,Feyenoord
+Sun Mar 17 2024,Utrecht,1-0,0-0,Nijmegen
+Sun Mar 17 2024,Sparta Rotterdam,2-2,1-0,Ajax
+Sun Mar 17 2024,PSV Eindhoven,1-0,0-0,Twente
+Sat Mar 30 2024,Nijmegen,3-1,1-1,PSV Eindhoven
+Sat Mar 30 2024,Sparta Rotterdam,4-0,1-0,For Sittard
+Sat Mar 30 2024,Go Ahead Eagles,3-0,1-0,Excelsior
+Sat Mar 30 2024,Waalwijk,1-1,0-0,Heerenveen
+Sat Mar 30 2024,AZ Alkmaar,2-0,0-0,Vitesse
+Sun Mar 31 2024,Zwolle,1-3,0-2,Ajax
+Sun Mar 31 2024,Feyenoord,4-2,1-2,Utrecht
+Sun Mar 31 2024,Twente,1-0,0-0,Heracles
+Sun Mar 31 2024,Almere City,1-1,0-0,Volendam
+Tue Apr 2 2024,Vitesse,1-4,1-3,Sparta Rotterdam
+Tue Apr 2 2024,Excelsior,0-2,0-0,PSV Eindhoven
+Tue Apr 2 2024,For Sittard,1-1,0-0,Nijmegen
+Wed Apr 3 2024,Heracles,5-0,3-0,AZ Alkmaar
+Wed Apr 3 2024,Utrecht,5-1,0-0,Zwolle
+Wed Apr 3 2024,Heerenveen,3-3,2-3,Twente
+Thu Apr 4 2024,Volendam,0-0,0-0,Feyenoord
+Thu Apr 4 2024,Waalwijk,0-0,0-0,Almere City
+Thu Apr 4 2024,Ajax,1-1,1-0,Go Ahead Eagles
+Sat Apr 6 2024,Sparta Rotterdam,1-2,1-0,Heracles
+Sat Apr 6 2024,PSV Eindhoven,5-1,2-0,AZ Alkmaar
+Sat Apr 6 2024,Zwolle,2-1,1-0,Excelsior
+Sat Apr 6 2024,Twente,2-0,0-0,For Sittard
+Sun Apr 7 2024,Vitesse,0-3,0-0,Nijmegen
+Sun Apr 7 2024,Feyenoord,6-0,3-0,Ajax
+Sun Apr 7 2024,Go Ahead Eagles,1-1,1-1,Almere City
+Sun Apr 7 2024,Volendam,3-2,2-0,Waalwijk
+Sun Apr 7 2024,Heerenveen,2-3,0-1,Utrecht
+Fri Apr 12 2024,Excelsior,4-0,2-0,Volendam
+Sat Apr 13 2024,PSV Eindhoven,6-0,3-0,Vitesse
+Sat Apr 13 2024,AZ Alkmaar,3-2,0-2,Waalwijk
+Sat Apr 13 2024,Almere City,2-3,1-2,Sparta Rotterdam
+Sun Apr 14 2024,Heracles,0-2,0-1,Heerenveen
+Sun Apr 14 2024,For Sittard,0-1,0-1,Feyenoord
+Sun Apr 14 2024,Utrecht,2-1,1-1,Go Ahead Eagles
+Sun Apr 14 2024,Ajax,2-1,0-1,Twente
+Sun Apr 14 2024,Nijmegen,2-2,0-1,Zwolle
+Wed Apr 24 2024,Twente,3-1,1-0,Almere City
+Wed Apr 24 2024,Ajax,2-2,1-1,Excelsior
+Thu Apr 25 2024,Heerenveen,0-8,0-5,PSV Eindhoven
+Thu Apr 25 2024,Go Ahead Eagles,1-3,1-2,Feyenoord
+Sun Apr 28 2024,Nijmegen,0-3,0-1,AZ Alkmaar
+Sun Apr 28 2024,Zwolle,3-1,1-1,Heracles
+Sun Apr 28 2024,Sparta Rotterdam,1-0,0-0,Volendam
+Sun Apr 28 2024,Waalwijk,2-2,1-0,Utrecht
+Sun Apr 28 2024,Vitesse,3-2,1-1,For Sittard
+Fri May 3 2024,Almere City,1-1,0-0,Heerenveen
+Fri May 3 2024,For Sittard,0-0,0-0,Go Ahead Eagles
+Sun May 5 2024,Heracles,0-5,0-2,Waalwijk
+Sun May 5 2024,PSV Eindhoven,4-2,2-2,Sparta Rotterdam
+Sun May 5 2024,Utrecht,1-0,0-0,Vitesse
+Sun May 5 2024,Volendam,1-4,0-1,Ajax
+Sun May 5 2024,AZ Alkmaar,2-1,0-1,Twente
+Sun May 5 2024,Feyenoord,5-0,2-0,Zwolle
+Mon May 6 2024,Excelsior,0-3,0-0,Nijmegen
+Sun May 12 2024,Ajax,3-0,3-0,Almere City
+Sun May 12 2024,Excelsior,4-0,1-0,Heracles
+Sun May 12 2024,For Sittard,1-1,1-0,PSV Eindhoven
+Sun May 12 2024,Go Ahead Eagles,0-3,0-2,AZ Alkmaar
+Sun May 12 2024,Heerenveen,1-3,1-1,Vitesse
+Sun May 12 2024,Nijmegen,2-3,0-1,Feyenoord
+Sun May 12 2024,Twente,7-2,5-2,Volendam
+Sun May 12 2024,Utrecht,0-1,0-0,Sparta Rotterdam
+Sun May 12 2024,Waalwijk,1-1,0-0,Zwolle
+Sun May 19 2024,Almere City,1-4,1-2,Nijmegen
+Sun May 19 2024,AZ Alkmaar,3-3,3-0,Utrecht
+Sun May 19 2024,Feyenoord,4-0,0-0,Excelsior
+Sun May 19 2024,Heracles,0-0,0-0,For Sittard
+Sun May 19 2024,PSV Eindhoven,3-1,1-1,Waalwijk
+Sun May 19 2024,Sparta Rotterdam,2-1,0-0,Heerenveen
+Sun May 19 2024,Vitesse,2-2,1-1,Ajax
+Sun May 19 2024,Volendam,1-2,1-1,Go Ahead Eagles
+Sun May 19 2024,Zwolle,1-2,0-0,Twente

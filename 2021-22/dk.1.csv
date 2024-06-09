@@ -1,0 +1,194 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 16 2021,Midtjylland,1-2,?,Odense
+Sun Jul 18 2021,Nordsjaelland,1-2,?,Viborg
+Sun Jul 18 2021,Vejle,0-2,?,Randers FC
+Sun Jul 18 2021,FC Copenhagen,2-2,?,Aalborg
+Sun Jul 18 2021,Aarhus,1-1,?,Brondby
+Mon Jul 19 2021,Silkeborg,0-0,?,Sonderjyske
+Sat Jul 24 2021,Aalborg,0-1,?,Midtjylland
+Sun Jul 25 2021,Nordsjaelland,0-0,?,Aarhus
+Sun Jul 25 2021,Randers FC,1-1,?,Odense
+Sun Jul 25 2021,FC Copenhagen,0-0,?,Silkeborg
+Sun Jul 25 2021,Brondby,1-1,?,Viborg
+Mon Jul 26 2021,Sonderjyske,1-0,?,Vejle
+Sat Jul 31 2021,Viborg,0-2,?,Midtjylland
+Sun Aug 1 2021,Aarhus,1-2,?,Randers FC
+Sun Aug 1 2021,Silkeborg,0-0,?,Aalborg
+Sun Aug 1 2021,Vejle,2-2,?,Brondby
+Sun Aug 1 2021,Odense,0-2,?,FC Copenhagen
+Mon Aug 2 2021,Sonderjyske,0-2,?,Nordsjaelland
+Fri Aug 6 2021,Silkeborg,4-1,?,Viborg
+Fri Aug 6 2021,Midtjylland,4-1,?,Vejle
+Sun Aug 8 2021,Randers FC,1-0,?,Sonderjyske
+Sun Aug 8 2021,FC Copenhagen,4-2,?,Brondby
+Sun Aug 8 2021,Aalborg,2-0,?,Aarhus
+Mon Aug 9 2021,Nordsjaelland,3-1,?,Odense
+Fri Aug 13 2021,Sonderjyske,0-2,?,Midtjylland
+Fri Aug 13 2021,Viborg,1-2,?,Randers FC
+Fri Aug 13 2021,Brondby,0-1,?,Nordsjaelland
+Sun Aug 15 2021,Odense,1-1,?,Silkeborg
+Sun Aug 15 2021,Aarhus,1-3,?,FC Copenhagen
+Mon Aug 16 2021,Vejle,0-1,?,Aalborg
+Fri Aug 20 2021,Midtjylland,3-0,?,Silkeborg
+Sat Aug 21 2021,Odense,2-2,?,Brondby
+Sun Aug 22 2021,Randers FC,1-1,?,Aalborg
+Sun Aug 22 2021,FC Copenhagen,2-0,?,Sonderjyske
+Sun Aug 22 2021,Viborg,2-0,?,Aarhus
+Mon Aug 23 2021,Nordsjaelland,3-1,?,Vejle
+Fri Aug 27 2021,Aalborg,2-1,?,Nordsjaelland
+Sun Aug 29 2021,Silkeborg,2-1,?,Randers FC
+Sun Aug 29 2021,Sonderjyske,2-2,?,Viborg
+Sun Aug 29 2021,Vejle,0-4,?,FC Copenhagen
+Sun Aug 29 2021,Aarhus,2-2,?,Odense
+Sun Aug 29 2021,Brondby,2-0,?,Midtjylland
+Fri Sep 10 2021,Midtjylland,2-0,?,Nordsjaelland
+Fri Sep 10 2021,Brondby,1-1,?,Silkeborg
+Sun Sep 12 2021,Viborg,2-3,?,Aalborg
+Sun Sep 12 2021,Randers FC,0-2,?,FC Copenhagen
+Sun Sep 12 2021,Aarhus,1-0,?,Vejle
+Mon Sep 13 2021,Odense,2-1,?,Sonderjyske
+Fri Sep 17 2021,Aalborg,2-0,?,Odense
+Sun Sep 19 2021,Randers FC,3-2,?,Nordsjaelland
+Sun Sep 19 2021,Vejle,1-1,?,Viborg
+Sun Sep 19 2021,Sonderjyske,1-0,?,Brondby
+Sun Sep 19 2021,FC Copenhagen,0-1,?,Midtjylland
+Mon Sep 20 2021,Silkeborg,0-2,?,Aarhus
+Sun Sep 26 2021,Midtjylland,1-0,?,Randers FC
+Sun Sep 26 2021,Viborg,1-1,?,Odense
+Sun Sep 26 2021,Nordsjaelland,1-5,?,FC Copenhagen
+Sun Sep 26 2021,Brondby,2-1,?,Aalborg
+Sun Sep 26 2021,Vejle,2-4,?,Silkeborg
+Mon Sep 27 2021,Aarhus,1-0,?,Sonderjyske
+Fri Oct 1 2021,Odense,6-0,?,Vejle
+Sun Oct 3 2021,Aalborg,4-0,?,Sonderjyske
+Sun Oct 3 2021,Silkeborg,4-1,?,Nordsjaelland
+Sun Oct 3 2021,Midtjylland,4-0,?,Aarhus
+Sun Oct 3 2021,Randers FC,1-1,?,Brondby
+Sun Oct 3 2021,FC Copenhagen,1-1,?,Viborg
+Fri Oct 15 2021,Viborg,1-1,?,Silkeborg
+Sun Oct 17 2021,Nordsjaelland,2-2,?,Midtjylland
+Sun Oct 17 2021,Odense,1-2,?,Randers FC
+Sun Oct 17 2021,Brondby,3-2,?,Vejle
+Sun Oct 17 2021,Sonderjyske,1-1,?,FC Copenhagen
+Mon Oct 18 2021,Aarhus,1-0,?,Aalborg
+Fri Oct 22 2021,Vejle,2-0,?,Nordsjaelland
+Sun Oct 24 2021,Brondby,2-1,?,FC Copenhagen
+Sun Oct 24 2021,Silkeborg,1-1,?,Odense
+Sun Oct 24 2021,Randers FC,1-0,?,Aarhus
+Sun Oct 24 2021,Midtjylland,3-2,?,Sonderjyske
+Mon Oct 25 2021,Aalborg,2-5,?,Viborg
+Sun Oct 31 2021,Nordsjaelland,0-2,?,Aalborg
+Sun Oct 31 2021,Randers FC,1-3,?,Midtjylland
+Sun Oct 31 2021,FC Copenhagen,3-0,?,Vejle
+Sun Oct 31 2021,Viborg,0-1,?,Brondby
+Sun Oct 31 2021,Sonderjyske,0-6,?,Silkeborg
+Mon Nov 1 2021,Odense,0-0,?,Aarhus
+Fri Nov 5 2021,Viborg,2-2,?,Nordsjaelland
+Sun Nov 7 2021,Aalborg,1-1,?,Randers FC
+Sun Nov 7 2021,Vejle,3-1,?,Sonderjyske
+Sun Nov 7 2021,Aarhus,3-0,?,Midtjylland
+Sun Nov 7 2021,Brondby,2-1,?,Odense
+Sun Nov 7 2021,Silkeborg,0-0,?,FC Copenhagen
+Fri Nov 19 2021,Odense,2-3,?,Viborg
+Sun Nov 21 2021,Nordsjaelland,1-1,?,Silkeborg
+Sun Nov 21 2021,Randers FC,4-1,?,Vejle
+Sun Nov 21 2021,FC Copenhagen,1-1,?,Aarhus
+Sun Nov 21 2021,Midtjylland,1-2,?,Brondby
+Mon Nov 22 2021,Sonderjyske,1-3,?,Aalborg
+Fri Nov 26 2021,Aarhus,1-1,?,Silkeborg
+Sun Nov 28 2021,Odense,2-0,?,Nordsjaelland
+Sun Nov 28 2021,Viborg,1-1,?,Sonderjyske
+Sun Nov 28 2021,Brondby,1-0,?,Randers FC
+Sun Nov 28 2021,Aalborg,1-3,?,FC Copenhagen
+Mon Nov 29 2021,Vejle,1-1,?,Midtjylland
+Fri Feb 18 2022,Sonderjyske,2-3,?,Aarhus
+Sun Feb 20 2022,Midtjylland,0-2,?,Aalborg
+Sun Feb 20 2022,Silkeborg,3-0,?,Vejle
+Sun Feb 20 2022,Nordsjaelland,0-2,?,Brondby
+Sun Feb 20 2022,FC Copenhagen,2-0,?,Odense
+Mon Feb 21 2022,Randers FC,0-1,?,Viborg
+Fri Feb 25 2022,Vejle,3-2,?,Aarhus
+Sun Feb 27 2022,Aalborg,1-4,?,Silkeborg
+Sun Feb 27 2022,Nordsjaelland,0-0,?,Randers FC
+Sun Feb 27 2022,Viborg,0-2,?,FC Copenhagen
+Sun Feb 27 2022,Odense,2-2,?,Midtjylland
+Mon Feb 28 2022,Brondby,1-0,?,Sonderjyske
+Fri Mar 4 2022,Midtjylland,3-1,?,Viborg
+Fri Mar 4 2022,FC Copenhagen,3-0,?,Randers FC
+Sun Mar 6 2022,Sonderjyske,2-2,?,Odense
+Sun Mar 6 2022,Aalborg,0-0,?,Vejle
+Sun Mar 6 2022,Silkeborg,0-1,?,Brondby
+Mon Mar 7 2022,Aarhus,2-3,?,Nordsjaelland
+Fri Mar 11 2022,Nordsjaelland,1-1,?,Sonderjyske
+Sun Mar 13 2022,Randers FC,2-1,?,Silkeborg
+Sun Mar 13 2022,Viborg,2-0,?,Vejle
+Sun Mar 13 2022,Brondby,1-1,?,Aarhus
+Sun Mar 13 2022,Midtjylland,0-1,?,FC Copenhagen
+Mon Mar 14 2022,Odense,2-3,?,Aalborg
+Sun Mar 20 2022,Aalborg,3-0,?,Brondby
+Sun Mar 20 2022,Aarhus,1-1,?,Viborg
+Sun Mar 20 2022,FC Copenhagen,1-0,?,Nordsjaelland
+Sun Mar 20 2022,Silkeborg,0-1,?,Midtjylland
+Sun Mar 20 2022,Sonderjyske,1-1,?,Randers FC
+Sun Mar 20 2022,Vejle,2-0,?,Odense
+Fri Apr 1 2022,Viborg,2-1,?,Sonderjyske
+Sun Apr 3 2022,Aarhus,0-0,?,Vejle
+Sun Apr 3 2022,Odense,2-1,?,Nordsjaelland
+Sun Apr 3 2022,Brondby,0-1,?,Randers FC
+Sun Apr 3 2022,Aalborg,0-1,?,FC Copenhagen
+Mon Apr 4 2022,Midtjylland,3-2,?,Silkeborg
+Fri Apr 8 2022,Aalborg,3-0,?,Randers FC
+Sun Apr 10 2022,Nordsjaelland,2-2,?,Aarhus
+Sun Apr 10 2022,Sonderjyske,2-2,?,Odense
+Sun Apr 10 2022,Silkeborg,3-0,?,Brondby
+Sun Apr 10 2022,FC Copenhagen,1-0,?,Midtjylland
+Mon Apr 11 2022,Vejle,2-2,?,Viborg
+Wed Apr 13 2022,Randers FC,1-3,?,Midtjylland
+Thu Apr 14 2022,Aarhus,0-2,?,Viborg
+Thu Apr 14 2022,Odense,2-1,?,Vejle
+Thu Apr 14 2022,Silkeborg,3-1,?,FC Copenhagen
+Thu Apr 14 2022,Brondby,0-1,?,Aalborg
+Fri Apr 15 2022,Nordsjaelland,2-0,?,Sonderjyske
+Sun Apr 17 2022,Viborg,1-1,?,Odense
+Mon Apr 18 2022,Sonderjyske,2-1,?,Aarhus
+Mon Apr 18 2022,Vejle,0-0,?,Nordsjaelland
+Mon Apr 18 2022,FC Copenhagen,2-0,?,Brondby
+Mon Apr 18 2022,Midtjylland,2-0,?,Aalborg
+Tue Apr 19 2022,Randers FC,1-2,?,Silkeborg
+Fri Apr 22 2022,Sonderjyske,0-1,?,Vejle
+Sun Apr 24 2022,Aalborg,1-2,?,Silkeborg
+Sun Apr 24 2022,Nordsjaelland,2-0,?,Viborg
+Sun Apr 24 2022,FC Copenhagen,0-1,?,Randers FC
+Sun Apr 24 2022,Aarhus,1-2,?,Odense
+Mon Apr 25 2022,Brondby,1-3,?,Midtjylland
+Fri Apr 29 2022,Viborg,1-1,?,Nordsjaelland
+Sun May 1 2022,Odense,1-0,?,Aarhus
+Sun May 1 2022,Vejle,0-3,?,Sonderjyske
+Sun May 1 2022,Randers FC,2-1,?,Brondby
+Sun May 1 2022,Midtjylland,0-0,?,FC Copenhagen
+Mon May 2 2022,Silkeborg,4-2,?,Aalborg
+Fri May 6 2022,Silkeborg,1-0,?,Randers FC
+Sun May 8 2022,Nordsjaelland,1-1,?,Odense
+Sun May 8 2022,Brondby,1-1,?,FC Copenhagen
+Sun May 8 2022,Aalborg,1-2,?,Midtjylland
+Sun May 8 2022,Aarhus,1-1,?,Sonderjyske
+Mon May 9 2022,Viborg,2-2,?,Vejle
+Wed May 11 2022,Randers FC,2-2,?,Aalborg
+Wed May 11 2022,Sonderjyske,1-1,?,Nordsjaelland
+Wed May 11 2022,FC Copenhagen,2-1,?,Silkeborg
+Thu May 12 2022,Odense,1-1,?,Viborg
+Thu May 12 2022,Vejle,1-0,?,Aarhus
+Thu May 12 2022,Midtjylland,2-2,?,Brondby
+Sun May 15 2022,Nordsjaelland,2-1,?,Vejle
+Sun May 15 2022,Odense,1-1,?,Sonderjyske
+Sun May 15 2022,Randers FC,0-2,?,FC Copenhagen
+Sun May 15 2022,Aalborg,1-3,?,Brondby
+Sun May 15 2022,Viborg,1-0,?,Aarhus
+Mon May 16 2022,Silkeborg,1-4,?,Midtjylland
+Sat May 21 2022,Aarhus,2-2,?,Nordsjaelland
+Sat May 21 2022,Sonderjyske,0-2,?,Viborg
+Sat May 21 2022,Vejle,2-1,?,Odense
+Sun May 22 2022,Brondby,2-1,?,Silkeborg
+Sun May 22 2022,FC Copenhagen,3-0,?,Aalborg
+Sun May 22 2022,Midtjylland,3-2,?,Randers FC
+Sun May 29 2022,Aalborg,1-1,?,Viborg

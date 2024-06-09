@@ -1,0 +1,243 @@
+Date,Team 1,FT,HT,Team 2
+Sat Apr 2 2022,Hammarby,2-1,?,Helsingborg
+Sat Apr 2 2022,Hacken,4-2,?,AIK
+Sun Apr 3 2022,Goteborg,2-1,?,Varnamo
+Sun Apr 3 2022,Sirius,2-1,?,Sundsvall
+Sun Apr 3 2022,Kalmar,0-1,?,Malmo FF
+Sun Apr 3 2022,Norrkoping,0-1,?,Varberg
+Mon Apr 4 2022,Elfsborg,0-2,?,Mjallby
+Mon Apr 4 2022,Djurgarden,3-1,?,Degerfors
+Sat Apr 9 2022,Sundsvall,1-5,?,Hammarby
+Sat Apr 9 2022,Degerfors,1-2,?,Hacken
+Sun Apr 10 2022,Helsingborg,0-1,?,Goteborg
+Sun Apr 10 2022,Varberg,0-3,?,Kalmar
+Sun Apr 10 2022,AIK,1-0,?,Norrkoping
+Sun Apr 10 2022,Mjallby,1-0,?,Djurgarden
+Mon Apr 11 2022,Varnamo,0-0,?,Sirius
+Mon Apr 11 2022,Malmo FF,1-1,?,Elfsborg
+Fri Apr 15 2022,Hammarby,2-0,?,Mjallby
+Sat Apr 16 2022,Djurgarden,2-1,?,Norrkoping
+Sat Apr 16 2022,Varberg,2-0,?,Sundsvall
+Sun Apr 17 2022,Kalmar,2-0,?,Degerfors
+Sun Apr 17 2022,Malmo FF,3-0,?,AIK
+Sun Apr 17 2022,Elfsborg,4-1,?,Varnamo
+Sun Apr 17 2022,Hacken,0-2,?,Goteborg
+Sun Apr 17 2022,Sirius,1-0,?,Helsingborg
+Wed Apr 20 2022,AIK,1-0,?,Varberg
+Wed Apr 20 2022,Goteborg,1-1,?,Djurgarden
+Wed Apr 20 2022,Mjallby,3-0,?,Sirius
+Wed Apr 20 2022,Norrkoping,1-1,?,Hacken
+Wed Apr 20 2022,Sundsvall,1-0,?,Kalmar
+Thu Apr 21 2022,Degerfors,0-1,?,Hammarby
+Thu Apr 21 2022,Helsingborg,1-0,?,Elfsborg
+Thu Apr 21 2022,Varnamo,0-0,?,Malmo FF
+Sun Apr 24 2022,AIK,1-0,?,Djurgarden
+Sun Apr 24 2022,Varberg,0-0,?,Mjallby
+Sun Apr 24 2022,Helsingborg,1-1,?,Hacken
+Mon Apr 25 2022,Elfsborg,3-1,?,Sundsvall
+Mon Apr 25 2022,Sirius,0-3,?,Hammarby
+Mon Apr 25 2022,Varnamo,2-0,?,Degerfors
+Mon Apr 25 2022,Malmo FF,1-0,?,Goteborg
+Tue Apr 26 2022,Kalmar,1-2,?,Norrkoping
+Sat Apr 30 2022,Djurgarden,4-0,?,Sirius
+Sun May 1 2022,Degerfors,0-6,?,Elfsborg
+Sun May 1 2022,Mjallby,2-1,?,Helsingborg
+Sun May 1 2022,Hacken,3-1,?,Varberg
+Sun May 1 2022,Sundsvall,0-2,?,AIK
+Mon May 2 2022,Goteborg,1-2,?,Kalmar
+Mon May 2 2022,Norrkoping,2-0,?,Varnamo
+Mon May 2 2022,Hammarby,0-0,?,Malmo FF
+Thu May 5 2022,Djurgarden,2-2,?,Helsingborg
+Sat May 7 2022,AIK,1-0,?,Goteborg
+Sat May 7 2022,Malmo FF,2-0,?,Mjallby
+Sun May 8 2022,Kalmar,2-0,?,Hammarby
+Sun May 8 2022,Varberg,0-2,?,Sirius
+Mon May 9 2022,Helsingborg,0-1,?,Norrkoping
+Mon May 9 2022,Sundsvall,2-3,?,Degerfors
+Mon May 9 2022,Varnamo,1-2,?,Hacken
+Mon May 9 2022,Elfsborg,0-0,?,Djurgarden
+Wed May 11 2022,AIK,2-0,?,Malmo FF
+Sat May 14 2022,Mjallby,1-1,?,Varnamo
+Sat May 14 2022,Sirius,2-0,?,Elfsborg
+Sun May 15 2022,Hacken,3-1,?,Kalmar
+Sun May 15 2022,Hammarby,3-3,?,AIK
+Sun May 15 2022,Degerfors,2-1,?,Helsingborg
+Sun May 15 2022,Goteborg,1-1,?,Varberg
+Sun May 15 2022,Norrkoping,5-1,?,Sundsvall
+Mon May 16 2022,Djurgarden,4-0,?,Malmo FF
+Sat May 21 2022,AIK,2-2,?,Sirius
+Sat May 21 2022,Helsingborg,1-4,?,Varnamo
+Sun May 22 2022,Elfsborg,3-1,?,Goteborg
+Sun May 22 2022,Hammarby,3-0,?,Norrkoping
+Sun May 22 2022,Varberg,2-1,?,Degerfors
+Sun May 22 2022,Kalmar,1-0,?,Djurgarden
+Sun May 22 2022,Malmo FF,1-2,?,Hacken
+Mon May 23 2022,Sundsvall,2-0,?,Mjallby
+Sat May 28 2022,Goteborg,2-0,?,Sundsvall
+Sat May 28 2022,Mjallby,1-1,?,Kalmar
+Sat May 28 2022,Hacken,4-3,?,Sirius
+Sun May 29 2022,Degerfors,0-2,?,Malmo FF
+Sun May 29 2022,Djurgarden,4-0,?,Varberg
+Sun May 29 2022,Norrkoping,2-2,?,Elfsborg
+Sun May 29 2022,Helsingborg,1-2,?,AIK
+Sun May 29 2022,Varnamo,1-0,?,Hammarby
+Sun Jun 26 2022,Degerfors,1-1,?,AIK
+Sun Jun 26 2022,Hammarby,2-2,?,Hacken
+Sun Jun 26 2022,Mjallby,1-1,?,Norrkoping
+Sun Jun 26 2022,Sundsvall,2-5,?,Djurgarden
+Mon Jun 27 2022,Elfsborg,4-1,?,Varberg
+Mon Jun 27 2022,Kalmar,1-0,?,Varnamo
+Mon Jun 27 2022,Sirius,1-2,?,Goteborg
+Mon Jun 27 2022,Malmo FF,2-1,?,Helsingborg
+Fri Jul 1 2022,Sundsvall,2-1,?,Malmo FF
+Sat Jul 2 2022,AIK,0-1,?,Mjallby
+Sat Jul 2 2022,Helsingborg,1-1,?,Kalmar
+Sun Jul 3 2022,Djurgarden,1-0,?,Hammarby
+Sun Jul 3 2022,Varberg,3-0,?,Varnamo
+Sun Jul 3 2022,Hacken,1-1,?,Elfsborg
+Sun Jul 3 2022,Norrkoping,0-1,?,Sirius
+Mon Jul 4 2022,Goteborg,2-0,?,Degerfors
+Sat Jul 9 2022,Malmo FF,3-0,?,Varberg
+Sat Jul 9 2022,Degerfors,1-1,?,Norrkoping
+Sun Jul 10 2022,Elfsborg,2-2,?,AIK
+Sun Jul 10 2022,Mjallby,1-2,?,Hacken
+Sun Jul 10 2022,Kalmar,1-1,?,Sirius
+Mon Jul 11 2022,Hammarby,3-0,?,Goteborg
+Mon Jul 11 2022,Helsingborg,0-2,?,Djurgarden
+Mon Jul 11 2022,Varnamo,1-1,?,Sundsvall
+Sat Jul 16 2022,Norrkoping,0-2,?,Malmo FF
+Sat Jul 16 2022,Djurgarden,5-0,?,Varnamo
+Sun Jul 17 2022,AIK,1-0,?,Kalmar
+Sun Jul 17 2022,Goteborg,1-1,?,Mjallby
+Sun Jul 17 2022,Hammarby,3-0,?,Elfsborg
+Sun Jul 17 2022,Sirius,2-0,?,Degerfors
+Mon Jul 18 2022,Sundsvall,1-5,?,Hacken
+Mon Jul 18 2022,Varberg,0-0,?,Helsingborg
+Sat Jul 23 2022,Malmo FF,3-1,?,Sirius
+Sat Jul 23 2022,Mjallby,2-1,?,Degerfors
+Sun Jul 24 2022,Helsingborg,1-0,?,Sundsvall
+Sun Jul 24 2022,Varnamo,2-3,?,AIK
+Sun Jul 24 2022,Hacken,1-2,?,Djurgarden
+Sun Jul 24 2022,Kalmar,1-0,?,Elfsborg
+Mon Jul 25 2022,Norrkoping,0-2,?,Goteborg
+Mon Jul 25 2022,Varberg,0-3,?,Hammarby
+Sat Jul 30 2022,Degerfors,2-1,?,Kalmar
+Sat Jul 30 2022,Sundsvall,1-3,?,Varberg
+Sun Jul 31 2022,Elfsborg,4-4,?,Hacken
+Sun Jul 31 2022,Hammarby,1-2,?,Varnamo
+Sun Jul 31 2022,Sirius,0-1,?,Mjallby
+Mon Aug 1 2022,Goteborg,2-0,?,Norrkoping
+Sat Aug 6 2022,Norrkoping,2-0,?,Degerfors
+Sun Aug 7 2022,Hammarby,3-0,?,Sundsvall
+Sun Aug 7 2022,Kalmar,1-0,?,AIK
+Sun Aug 7 2022,Sirius,2-1,?,Malmo FF
+Sun Aug 7 2022,Mjallby,1-1,?,Elfsborg
+Sun Aug 7 2022,Varnamo,0-0,?,Djurgarden
+Mon Aug 8 2022,Hacken,5-0,?,Helsingborg
+Mon Aug 8 2022,Varberg,0-4,?,Goteborg
+Sat Aug 13 2022,Helsingborg,0-0,?,Sirius
+Sun Aug 14 2022,AIK,2-2,?,Varnamo
+Sun Aug 14 2022,Djurgarden,3-2,?,Kalmar
+Sun Aug 14 2022,Malmo FF,3-1,?,Sundsvall
+Sun Aug 14 2022,Degerfors,1-1,?,Varberg
+Sun Aug 14 2022,Elfsborg,1-1,?,Norrkoping
+Mon Aug 15 2022,Hacken,1-0,?,Mjallby
+Mon Aug 15 2022,Goteborg,0-1,?,Hammarby
+Sat Aug 20 2022,Varberg,2-2,?,Djurgarden
+Sun Aug 21 2022,Mjallby,1-1,?,Malmo FF
+Sun Aug 21 2022,Varnamo,1-1,?,Elfsborg
+Sun Aug 21 2022,Norrkoping,2-4,?,AIK
+Sun Aug 21 2022,Sundsvall,1-2,?,Helsingborg
+Mon Aug 22 2022,Kalmar,1-0,?,Goteborg
+Mon Aug 22 2022,Sirius,0-1,?,Hacken
+Mon Aug 22 2022,Hammarby,5-1,?,Degerfors
+Sat Aug 27 2022,Hacken,4-1,?,Varnamo
+Sat Aug 27 2022,Degerfors,3-1,?,Sundsvall
+Sun Aug 28 2022,AIK,2-2,?,Hammarby
+Sun Aug 28 2022,Goteborg,2-0,?,Sirius
+Sun Aug 28 2022,Varberg,1-1,?,Norrkoping
+Sun Aug 28 2022,Helsingborg,0-1,?,Mjallby
+Sun Aug 28 2022,Malmo FF,0-1,?,Kalmar
+Mon Aug 29 2022,Djurgarden,2-1,?,Elfsborg
+Sun Sep 4 2022,Hacken,2-2,?,Degerfors
+Sun Sep 4 2022,Sirius,0-1,?,Djurgarden
+Sun Sep 4 2022,AIK,4-0,?,Sundsvall
+Sun Sep 4 2022,Elfsborg,3-2,?,Malmo FF
+Mon Sep 5 2022,Kalmar,1-0,?,Varberg
+Mon Sep 5 2022,Mjallby,1-4,?,Goteborg
+Mon Sep 5 2022,Varnamo,3-2,?,Helsingborg
+Mon Sep 5 2022,Norrkoping,4-1,?,Hammarby
+Sat Sep 10 2022,Sirius,2-3,?,Varnamo
+Sat Sep 10 2022,Degerfors,0-0,?,Mjallby
+Sun Sep 11 2022,Hammarby,0-0,?,Djurgarden
+Sun Sep 11 2022,Sundsvall,0-2,?,Elfsborg
+Sun Sep 11 2022,Malmo FF,2-1,?,Norrkoping
+Sun Sep 11 2022,Varberg,2-0,?,AIK
+Mon Sep 12 2022,Kalmar,1-1,?,Hacken
+Mon Sep 12 2022,Goteborg,1-3,?,Helsingborg
+Sat Sep 17 2022,Hacken,1-1,?,Hammarby
+Sat Sep 17 2022,Norrkoping,2-2,?,Kalmar
+Sat Sep 17 2022,Varnamo,1-0,?,Varberg
+Sun Sep 18 2022,Elfsborg,3-0,?,Sirius
+Sun Sep 18 2022,Helsingborg,1-2,?,Malmo FF
+Sun Sep 18 2022,Mjallby,1-1,?,Sundsvall
+Sun Sep 18 2022,AIK,1-1,?,Degerfors
+Sun Sep 18 2022,Djurgarden,3-0,?,Goteborg
+Sat Oct 1 2022,Malmo FF,0-0,?,Hammarby
+Sat Oct 1 2022,Degerfors,3-0,?,Djurgarden
+Sun Oct 2 2022,Sundsvall,1-3,?,Norrkoping
+Sun Oct 2 2022,Varberg,1-1,?,Hacken
+Sun Oct 2 2022,Kalmar,2-0,?,Helsingborg
+Sun Oct 2 2022,Sirius,1-1,?,AIK
+Mon Oct 3 2022,Varnamo,2-1,?,Mjallby
+Mon Oct 3 2022,Goteborg,1-3,?,Elfsborg
+Sat Oct 8 2022,Degerfors,0-0,?,Sirius
+Sun Oct 9 2022,Elfsborg,0-2,?,Kalmar
+Sun Oct 9 2022,Malmo FF,0-0,?,Varnamo
+Sun Oct 9 2022,Sundsvall,3-2,?,Goteborg
+Sun Oct 9 2022,AIK,2-0,?,Helsingborg
+Sun Oct 9 2022,Djurgarden,0-1,?,Hacken
+Mon Oct 10 2022,Norrkoping,2-2,?,Mjallby
+Mon Oct 10 2022,Hammarby,5-1,?,Varberg
+Fri Oct 14 2022,Elfsborg,1-1,?,Degerfors
+Sat Oct 15 2022,Hacken,4-1,?,Sundsvall
+Sat Oct 15 2022,Helsingborg,1-3,?,Varberg
+Sat Oct 15 2022,Varnamo,1-3,?,Kalmar
+Sat Oct 15 2022,Sirius,2-0,?,Norrkoping
+Sun Oct 16 2022,Djurgarden,1-2,?,AIK
+Sun Oct 16 2022,Mjallby,0-3,?,Hammarby
+Mon Oct 17 2022,Goteborg,2-1,?,Malmo FF
+Wed Oct 19 2022,Varberg,0-3,?,Elfsborg
+Wed Oct 19 2022,AIK,1-2,?,Hacken
+Wed Oct 19 2022,Norrkoping,2-0,?,Helsingborg
+Wed Oct 19 2022,Sundsvall,1-2,?,Varnamo
+Thu Oct 20 2022,Malmo FF,2-3,?,Djurgarden
+Thu Oct 20 2022,Degerfors,3-1,?,Goteborg
+Thu Oct 20 2022,Kalmar,1-2,?,Mjallby
+Thu Oct 20 2022,Hammarby,1-1,?,Sirius
+Sun Oct 23 2022,Elfsborg,2-1,?,Hammarby
+Sun Oct 23 2022,Helsingborg,1-2,?,Degerfors
+Sun Oct 23 2022,Hacken,2-1,?,Malmo FF
+Mon Oct 24 2022,Mjallby,4-1,?,Varberg
+Mon Oct 24 2022,Sirius,0-0,?,Kalmar
+Mon Oct 24 2022,Varnamo,1-1,?,Norrkoping
+Mon Oct 24 2022,Djurgarden,4-0,?,Sundsvall
+Mon Oct 24 2022,Goteborg,1-0,?,AIK
+Sat Oct 29 2022,Degerfors,0-0,?,Varnamo
+Sun Oct 30 2022,Goteborg,0-4,?,Hacken
+Sun Oct 30 2022,Mjallby,1-2,?,AIK
+Sun Oct 30 2022,Sundsvall,2-3,?,Sirius
+Sun Oct 30 2022,Hammarby,4-2,?,Kalmar
+Sun Oct 30 2022,Varberg,2-5,?,Malmo FF
+Mon Oct 31 2022,Elfsborg,3-0,?,Helsingborg
+Mon Oct 31 2022,Norrkoping,0-1,?,Djurgarden
+Sun Nov 6 2022,AIK,0-1,?,Elfsborg
+Sun Nov 6 2022,Djurgarden,0-1,?,Mjallby
+Sun Nov 6 2022,Hacken,3-3,?,Norrkoping
+Sun Nov 6 2022,Helsingborg,0-2,?,Hammarby
+Sun Nov 6 2022,Kalmar,4-0,?,Sundsvall
+Sun Nov 6 2022,Malmo FF,2-2,?,Degerfors
+Sun Nov 6 2022,Sirius,2-3,?,Varberg
+Sun Nov 6 2022,Varnamo,1-4,?,Goteborg
+Thu Nov 10 2022,Oster,1-2,?,Varberg
+Sun Nov 13 2022,Varberg,2-1,?,Oster

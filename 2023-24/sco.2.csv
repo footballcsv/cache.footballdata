@@ -1,0 +1,181 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 4 2023,Arbroath,0-4,0-4,Dundee United
+Sat Aug 5 2023,Dunfermline,2-1,1-1,Airdrie Utd
+Sat Aug 5 2023,Inverness C,1-2,0-1,Queens Park
+Sat Aug 5 2023,Morton,3-1,0-0,Ayr
+Sat Aug 5 2023,Partick,2-2,2-0,Raith Rvs
+Sat Aug 12 2023,Airdrie Utd,2-1,0-1,Partick
+Sat Aug 12 2023,Ayr,1-0,1-0,Inverness C
+Sat Aug 12 2023,Dundee United,1-1,0-0,Dunfermline
+Sat Aug 12 2023,Queens Park,2-1,1-0,Arbroath
+Sat Aug 12 2023,Raith Rvs,3-2,2-1,Morton
+Sat Aug 19 2023,Arbroath,0-1,0-0,Queens Park
+Sat Aug 26 2023,Airdrie Utd,2-1,2-0,Inverness C
+Sat Aug 26 2023,Ayr,0-3,0-0,Dundee United
+Sat Aug 26 2023,Dunfermline,0-1,0-1,Raith Rvs
+Sat Aug 26 2023,Morton,0-3,0-1,Arbroath
+Sat Aug 26 2023,Partick,3-1,2-1,Queens Park
+Sat Sep 2 2023,Arbroath,2-1,1-1,Ayr
+Sat Sep 2 2023,Dundee United,2-0,1-0,Airdrie Utd
+Sat Sep 2 2023,Inverness C,1-1,1-0,Dunfermline
+Sat Sep 2 2023,Morton,1-4,1-1,Partick
+Sat Sep 2 2023,Raith Rvs,3-2,1-0,Queens Park
+Fri Sep 15 2023,Ayr,0-4,0-1,Partick
+Sat Sep 16 2023,Arbroath,4-0,2-0,Airdrie Utd
+Sat Sep 16 2023,Dundee United,1-1,1-0,Morton
+Sat Sep 16 2023,Queens Park,0-2,0-0,Dunfermline
+Sat Sep 16 2023,Raith Rvs,1-0,0-0,Inverness C
+Fri Sep 22 2023,Queens Park,2-5,1-4,Ayr
+Sat Sep 23 2023,Airdrie Utd,1-0,0-0,Raith Rvs
+Sat Sep 23 2023,Dunfermline,3-1,2-0,Morton
+Sat Sep 23 2023,Inverness C,0-1,0-0,Dundee United
+Sat Sep 23 2023,Partick,0-3,0-2,Arbroath
+Sat Sep 30 2023,Arbroath,2-3,0-2,Inverness C
+Sat Sep 30 2023,Ayr,1-2,0-2,Raith Rvs
+Sat Sep 30 2023,Dundee United,4-1,1-1,Queens Park
+Sat Sep 30 2023,Morton,0-1,0-1,Airdrie Utd
+Sat Sep 30 2023,Partick,3-0,1-0,Dunfermline
+Sat Oct 7 2023,Airdrie Utd,1-2,0-1,Ayr
+Sat Oct 7 2023,Inverness C,0-0,0-0,Partick
+Sat Oct 7 2023,Queens Park,0-0,0-0,Morton
+Sat Oct 7 2023,Raith Rvs,1-1,1-0,Dundee United
+Fri Oct 20 2023,Airdrie Utd,1-1,1-0,Queens Park
+Sat Oct 21 2023,Dunfermline,0-1,0-1,Ayr
+Sat Oct 21 2023,Partick,0-5,0-1,Dundee United
+Fri Oct 27 2023,Dundee United,6-0,3-0,Arbroath
+Fri Oct 27 2023,Queens Park,2-2,0-1,Partick
+Sat Oct 28 2023,Ayr,0-1,0-0,Morton
+Sat Oct 28 2023,Inverness C,1-0,1-0,Airdrie Utd
+Sat Oct 28 2023,Raith Rvs,1-0,0-0,Dunfermline
+Tue Oct 31 2023,Airdrie Utd,0-2,0-1,Dundee United
+Tue Oct 31 2023,Morton,1-2,0-2,Raith Rvs
+Tue Oct 31 2023,Partick,2-2,1-1,Ayr
+Fri Nov 3 2023,Morton,1-2,0-2,Dunfermline
+Sat Nov 4 2023,Arbroath,1-3,0-1,Partick
+Sat Nov 4 2023,Ayr,2-2,2-0,Queens Park
+Sat Nov 4 2023,Dundee United,1-1,0-0,Inverness C
+Sat Nov 4 2023,Raith Rvs,1-1,1-0,Airdrie Utd
+Fri Nov 10 2023,Dunfermline,1-2,0-1,Dundee United
+Sat Nov 11 2023,Airdrie Utd,2-0,1-0,Arbroath
+Sat Nov 11 2023,Inverness C,3-1,3-0,Ayr
+Sat Nov 11 2023,Partick,2-1,1-1,Morton
+Sat Nov 11 2023,Queens Park,2-3,0-1,Raith Rvs
+Sat Nov 18 2023,Dunfermline,1-1,0-1,Inverness C
+Tue Nov 28 2023,Dunfermline,3-0,0-0,Arbroath
+Sat Dec 2 2023,Inverness C,1-2,0-0,Raith Rvs
+Sat Dec 2 2023,Partick,2-1,2-0,Airdrie Utd
+Fri Dec 8 2023,Raith Rvs,4-3,1-0,Partick
+Sat Dec 9 2023,Airdrie Utd,1-2,0-1,Dunfermline
+Sat Dec 9 2023,Arbroath,1-2,0-1,Morton
+Sat Dec 9 2023,Dundee United,1-0,0-0,Ayr
+Sat Dec 9 2023,Queens Park,1-4,1-1,Inverness C
+Tue Dec 12 2023,Morton,2-1,1-0,Inverness C
+Wed Dec 13 2023,Arbroath,1-2,1-1,Raith Rvs
+Sat Dec 16 2023,Ayr,1-0,1-0,Airdrie Utd
+Sat Dec 16 2023,Dundee United,0-1,0-0,Raith Rvs
+Sat Dec 16 2023,Dunfermline,1-2,0-2,Partick
+Sat Dec 16 2023,Inverness C,1-2,1-2,Arbroath
+Sat Dec 16 2023,Morton,1-0,1-0,Queens Park
+Fri Dec 22 2023,Queens Park,0-0,0-0,Dundee United
+Fri Dec 22 2023,Raith Rvs,4-4,2-1,Ayr
+Sat Dec 23 2023,Airdrie Utd,0-0,0-0,Morton
+Sat Dec 23 2023,Arbroath,1-1,1-0,Dunfermline
+Sat Dec 23 2023,Partick,1-1,1-1,Inverness C
+Fri Dec 29 2023,Dundee United,3-0,1-0,Partick
+Sat Dec 30 2023,Ayr,2-2,1-2,Dunfermline
+Sat Dec 30 2023,Inverness C,0-0,0-0,Morton
+Sat Dec 30 2023,Queens Park,1-2,1-0,Airdrie Utd
+Sat Dec 30 2023,Raith Rvs,2-2,1-0,Arbroath
+Tue Jan 2 2024,Airdrie Utd,2-0,0-0,Inverness C
+Tue Jan 2 2024,Arbroath,0-3,0-1,Dundee United
+Tue Jan 2 2024,Dunfermline,1-2,1-1,Raith Rvs
+Tue Jan 2 2024,Morton,3-0,1-0,Ayr
+Tue Jan 2 2024,Partick,3-2,1-1,Queens Park
+Fri Jan 5 2024,Queens Park,2-1,0-0,Dunfermline
+Sat Jan 6 2024,Airdrie Utd,1-0,1-0,Raith Rvs
+Sat Jan 6 2024,Ayr,1-3,0-1,Inverness C
+Sat Jan 6 2024,Dundee United,2-3,2-2,Morton
+Sat Jan 6 2024,Partick,4-0,1-0,Arbroath
+Fri Jan 12 2024,Inverness C,0-1,0-0,Dundee United
+Sat Jan 13 2024,Arbroath,0-0,0-0,Ayr
+Sat Jan 13 2024,Morton,1-1,1-0,Partick
+Sat Jan 13 2024,Raith Rvs,1-2,1-1,Queens Park
+Tue Jan 23 2024,Ayr,2-0,0-0,Arbroath
+Sat Jan 27 2024,Airdrie Utd,1-1,1-1,Partick
+Sat Jan 27 2024,Dundee United,0-0,0-0,Dunfermline
+Sat Jan 27 2024,Morton,3-0,0-0,Arbroath
+Sat Jan 27 2024,Queens Park,1-2,0-1,Ayr
+Sat Jan 27 2024,Raith Rvs,2-3,1-3,Inverness C
+Sat Feb 3 2024,Ayr,1-2,1-0,Dundee United
+Sat Feb 3 2024,Dunfermline,0-5,0-2,Morton
+Sat Feb 3 2024,Inverness C,0-1,0-0,Queens Park
+Sat Feb 10 2024,Dunfermline,0-3,0-0,Queens Park
+Fri Feb 16 2024,Raith Rvs,2-1,1-1,Dundee United
+Sat Feb 17 2024,Airdrie Utd,2-3,1-1,Ayr
+Sat Feb 17 2024,Dunfermline,1-1,1-0,Arbroath
+Sat Feb 17 2024,Inverness C,3-3,1-0,Partick
+Sat Feb 17 2024,Queens Park,0-0,0-0,Morton
+Fri Feb 23 2024,Partick,1-3,1-1,Dunfermline
+Sat Feb 24 2024,Arbroath,1-1,0-0,Inverness C
+Sat Feb 24 2024,Ayr,1-2,1-2,Raith Rvs
+Sat Feb 24 2024,Dundee United,3-1,2-1,Queens Park
+Sat Feb 24 2024,Morton,2-1,2-0,Airdrie Utd
+Tue Feb 27 2024,Ayr,4-3,3-1,Partick
+Tue Feb 27 2024,Dundee United,0-2,0-0,Airdrie Utd
+Tue Feb 27 2024,Inverness C,0-0,0-0,Dunfermline
+Tue Feb 27 2024,Queens Park,6-0,3-0,Arbroath
+Tue Feb 27 2024,Raith Rvs,0-0,0-0,Morton
+Fri Mar 1 2024,Arbroath,3-2,0-1,Raith Rvs
+Sat Mar 2 2024,Airdrie Utd,1-1,0-1,Queens Park
+Sat Mar 2 2024,Dunfermline,2-0,2-0,Ayr
+Sat Mar 2 2024,Morton,0-2,0-2,Inverness C
+Sat Mar 2 2024,Partick,1-1,1-0,Dundee United
+Tue Mar 5 2024,Dunfermline,0-2,0-1,Airdrie Utd
+Tue Mar 5 2024,Morton,0-1,0-1,Dundee United
+Sat Mar 9 2024,Dundee United,4-0,2-0,Arbroath
+Sat Mar 9 2024,Inverness C,0-0,0-0,Airdrie Utd
+Sat Mar 9 2024,Queens Park,2-2,1-0,Partick
+Sat Mar 9 2024,Raith Rvs,2-0,1-0,Dunfermline
+Tue Mar 12 2024,Partick,0-1,0-1,Raith Rvs
+Fri Mar 15 2024,Dunfermline,3-1,2-0,Dundee United
+Sat Mar 16 2024,Airdrie Utd,5-2,2-1,Arbroath
+Sat Mar 16 2024,Inverness C,1-2,1-1,Ayr
+Sat Mar 16 2024,Partick,2-1,1-0,Morton
+Sat Mar 16 2024,Queens Park,0-0,0-0,Raith Rvs
+Sat Mar 23 2024,Arbroath,0-1,0-1,Partick
+Sat Mar 23 2024,Ayr,1-2,0-1,Queens Park
+Sat Mar 23 2024,Dundee United,1-1,0-1,Inverness C
+Sat Mar 23 2024,Morton,0-1,0-0,Dunfermline
+Fri Mar 29 2024,Ayr,2-1,0-1,Airdrie Utd
+Sat Mar 30 2024,Arbroath,2-3,0-3,Dunfermline
+Sat Mar 30 2024,Dundee United,2-0,1-0,Raith Rvs
+Sat Mar 30 2024,Morton,2-0,0-0,Queens Park
+Sat Mar 30 2024,Partick,1-0,1-0,Inverness C
+Tue Apr 2 2024,Arbroath,1-2,0-0,Airdrie Utd
+Sat Apr 6 2024,Airdrie Utd,3-1,2-0,Morton
+Sat Apr 6 2024,Dunfermline,1-1,0-1,Partick
+Sat Apr 6 2024,Inverness C,2-1,1-0,Arbroath
+Sat Apr 6 2024,Queens Park,0-5,0-1,Dundee United
+Sat Apr 6 2024,Raith Rvs,2-1,1-0,Ayr
+Tue Apr 9 2024,Ayr,1-1,1-1,Morton
+Tue Apr 9 2024,Raith Rvs,1-3,0-2,Airdrie Utd
+Fri Apr 12 2024,Morton,1-4,0-2,Dundee United
+Sat Apr 13 2024,Airdrie Utd,2-1,1-0,Dunfermline
+Sat Apr 13 2024,Ayr,5-0,3-0,Arbroath
+Sat Apr 13 2024,Queens Park,0-1,0-1,Inverness C
+Sat Apr 13 2024,Raith Rvs,0-0,0-0,Partick
+Fri Apr 19 2024,Inverness C,0-1,0-0,Raith Rvs
+Sat Apr 20 2024,Arbroath,1-2,0-0,Morton
+Sat Apr 20 2024,Dundee United,1-0,0-0,Ayr
+Sat Apr 20 2024,Dunfermline,0-0,0-0,Queens Park
+Sat Apr 20 2024,Partick,4-0,0-0,Airdrie Utd
+Fri Apr 26 2024,Airdrie Utd,0-0,0-0,Dundee United
+Sat Apr 27 2024,Arbroath,0-5,0-3,Queens Park
+Sat Apr 27 2024,Dunfermline,1-1,1-0,Inverness C
+Sat Apr 27 2024,Morton,0-0,0-0,Raith Rvs
+Sat Apr 27 2024,Partick,0-0,0-0,Ayr
+Fri May 3 2024,Ayr,3-3,1-3,Dunfermline
+Fri May 3 2024,Dundee United,4-1,1-1,Partick
+Fri May 3 2024,Inverness C,3-1,1-1,Morton
+Fri May 3 2024,Queens Park,2-0,1-0,Airdrie Utd
+Fri May 3 2024,Raith Rvs,5-0,2-0,Arbroath

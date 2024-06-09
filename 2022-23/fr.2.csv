@@ -1,0 +1,380 @@
+Date,Team 1,FT,HT,Team 2
+Sat Jul 30 2022,Dijon,2-1,2-0,St Etienne
+Sat Jul 30 2022,Annecy,1-2,0-2,Niort
+Sat Jul 30 2022,Bastia,0-2,0-1,Laval
+Sat Jul 30 2022,Bordeaux,0-0,0-0,Valenciennes
+Sat Jul 30 2022,Guingamp,4-0,3-0,Pau FC
+Sat Jul 30 2022,Le Havre,0-0,0-0,Grenoble
+Sat Jul 30 2022,Metz,3-0,2-0,Amiens
+Sat Jul 30 2022,Nimes,0-1,0-0,Caen
+Sat Jul 30 2022,Quevilly Rouen,0-0,0-0,Rodez
+Mon Aug 1 2022,Sochaux,0-0,0-0,Paris FC
+Sat Aug 6 2022,St Etienne,1-1,1-1,Nimes
+Sat Aug 6 2022,Amiens,1-0,0-0,Annecy
+Sat Aug 6 2022,Grenoble,1-0,1-0,Sochaux
+Sat Aug 6 2022,Laval,1-2,1-0,Guingamp
+Sat Aug 6 2022,Niort,1-4,0-4,Bastia
+Sat Aug 6 2022,Paris FC,2-1,2-0,Quevilly Rouen
+Sat Aug 6 2022,Pau FC,0-0,0-0,Dijon
+Sat Aug 6 2022,Rodez,0-3,0-2,Bordeaux
+Sat Aug 6 2022,Valenciennes,1-0,1-0,Le Havre
+Mon Aug 8 2022,Caen,1-0,1-0,Metz
+Sat Aug 13 2022,Guingamp,0-0,0-0,Paris FC
+Sat Aug 13 2022,Annecy,0-1,0-1,Laval
+Sat Aug 13 2022,Bastia,3-0,2-0,Grenoble
+Sat Aug 13 2022,Bordeaux,1-0,0-0,Niort
+Sat Aug 13 2022,Dijon,2-2,0-0,Caen
+Sat Aug 13 2022,Le Havre,1-1,1-0,Pau FC
+Sat Aug 13 2022,Metz,2-0,1-0,Valenciennes
+Sat Aug 13 2022,Nimes,1-0,0-0,Rodez
+Sat Aug 13 2022,Sochaux,0-1,0-0,Amiens
+Mon Aug 15 2022,Quevilly Rouen,2-2,2-2,St Etienne
+Sat Aug 20 2022,St Etienne,0-6,0-0,Le Havre
+Sat Aug 20 2022,Amiens,3-1,2-1,Bastia
+Sat Aug 20 2022,Caen,4-1,2-1,Guingamp
+Sat Aug 20 2022,Dijon,2-1,1-0,Nimes
+Sat Aug 20 2022,Laval,3-3,1-3,Metz
+Sat Aug 20 2022,Niort,2-1,0-0,Paris FC
+Sat Aug 20 2022,Pau FC,0-3,0-1,Sochaux
+Sat Aug 20 2022,Rodez,2-2,1-2,Annecy
+Sat Aug 20 2022,Valenciennes,0-0,0-0,Quevilly Rouen
+Mon Aug 22 2022,Grenoble,0-0,0-0,Bordeaux
+Sat Aug 27 2022,Bordeaux,0-1,0-1,Guingamp
+Sat Aug 27 2022,Metz,1-2,0-1,Dijon
+Sat Aug 27 2022,Annecy,0-0,0-0,Grenoble
+Sat Aug 27 2022,Bastia,0-2,0-0,Rodez
+Sat Aug 27 2022,Le Havre,1-1,0-1,Amiens
+Sat Aug 27 2022,Nimes,1-0,0-0,Laval
+Sat Aug 27 2022,Paris FC,1-1,0-1,Caen
+Sat Aug 27 2022,Quevilly Rouen,2-1,0-0,Pau FC
+Sat Aug 27 2022,Sochaux,3-0,1-0,Niort
+Sat Aug 27 2022,Valenciennes,2-2,1-1,St Etienne
+Tue Aug 30 2022,Amiens,1-1,0-0,Paris FC
+Tue Aug 30 2022,Bordeaux,4-0,3-0,Quevilly Rouen
+Tue Aug 30 2022,Caen,1-1,1-1,Pau FC
+Tue Aug 30 2022,Dijon,0-2,0-1,Annecy
+Tue Aug 30 2022,Grenoble,3-2,1-0,Nimes
+Tue Aug 30 2022,Guingamp,1-2,1-1,Sochaux
+Tue Aug 30 2022,Laval,1-3,1-0,Le Havre
+Tue Aug 30 2022,Niort,0-1,0-1,Valenciennes
+Tue Aug 30 2022,Rodez,1-4,0-3,Metz
+Tue Aug 30 2022,St Etienne,5-0,4-0,Bastia
+Fri Sep 2 2022,Amiens,1-0,0-0,Grenoble
+Fri Sep 2 2022,Bastia,1-0,0-0,Dijon
+Fri Sep 2 2022,Le Havre,2-1,1-0,Caen
+Fri Sep 2 2022,Metz,0-0,0-0,Annecy
+Fri Sep 2 2022,Quevilly Rouen,3-3,3-2,Niort
+Fri Sep 2 2022,Sochaux,4-1,1-1,Laval
+Fri Sep 2 2022,Valenciennes,3-2,1-1,Nimes
+Sat Sep 3 2022,Paris FC,1-3,0-2,Bordeaux
+Mon Sep 5 2022,Pau FC,2-2,0-1,St Etienne
+Sat Sep 10 2022,St Etienne,2-0,1-0,Bordeaux
+Sat Sep 10 2022,Annecy,1-0,0-0,Quevilly Rouen
+Sat Sep 10 2022,Caen,3-1,0-0,Amiens
+Sat Sep 10 2022,Dijon,0-2,0-1,Sochaux
+Sat Sep 10 2022,Grenoble,1-2,0-0,Paris FC
+Sat Sep 10 2022,Laval,0-1,0-0,Pau FC
+Sat Sep 10 2022,Nimes,0-0,0-0,Bastia
+Sat Sep 10 2022,Niort,0-1,0-0,Le Havre
+Sat Sep 10 2022,Rodez,1-1,0-0,Valenciennes
+Mon Sep 12 2022,Metz,3-6,3-3,Guingamp
+Sat Sep 17 2022,Bordeaux,2-1,1-0,Dijon
+Sat Sep 17 2022,Guingamp,2-1,1-0,St Etienne
+Sat Sep 17 2022,Amiens,3-0,0-0,Niort
+Sat Sep 17 2022,Bastia,1-0,1-0,Metz
+Sat Sep 17 2022,Grenoble,1-0,0-0,Caen
+Sat Sep 17 2022,Le Havre,2-0,0-0,Annecy
+Sat Sep 17 2022,Paris FC,1-2,1-0,Rodez
+Sat Sep 17 2022,Pau FC,1-0,0-0,Valenciennes
+Sat Sep 17 2022,Quevilly Rouen,1-3,1-2,Laval
+Sat Sep 17 2022,Sochaux,3-1,2-1,Nimes
+Sat Oct 1 2022,St Etienne,2-2,0-1,Grenoble
+Sat Oct 1 2022,Annecy,0-2,0-1,Bastia
+Sat Oct 1 2022,Caen,0-1,0-1,Quevilly Rouen
+Sat Oct 1 2022,Dijon,0-0,0-0,Le Havre
+Sat Oct 1 2022,Metz,1-0,1-0,Pau FC
+Sat Oct 1 2022,Nimes,0-1,0-0,Paris FC
+Sat Oct 1 2022,Niort,0-0,0-0,Guingamp
+Sat Oct 1 2022,Rodez,0-1,0-1,Amiens
+Sat Oct 1 2022,Valenciennes,2-1,1-1,Sochaux
+Mon Oct 3 2022,Laval,1-2,0-1,Bordeaux
+Tue Oct 4 2022,Guingamp,0-0,0-0,Rodez
+Sat Oct 8 2022,Bordeaux,2-0,1-0,Metz
+Sat Oct 8 2022,Amiens,2-1,0-1,Dijon
+Sat Oct 8 2022,Caen,1-0,1-0,Niort
+Sat Oct 8 2022,Grenoble,3-2,3-2,Laval
+Sat Oct 8 2022,Guingamp,0-4,0-1,Annecy
+Sat Oct 8 2022,Le Havre,3-0,2-0,Bastia
+Sat Oct 8 2022,Paris FC,0-1,0-1,Valenciennes
+Sat Oct 8 2022,Pau FC,2-2,1-0,Rodez
+Sat Oct 8 2022,Quevilly Rouen,3-1,2-0,Nimes
+Mon Oct 10 2022,Sochaux,2-1,1-0,St Etienne
+Sat Oct 15 2022,St Etienne,0-2,0-0,Paris FC
+Sat Oct 15 2022,Annecy,0-2,0-1,Pau FC
+Sat Oct 15 2022,Dijon,0-0,0-0,Quevilly Rouen
+Sat Oct 15 2022,Laval,4-0,2-0,Caen
+Sat Oct 15 2022,Metz,0-0,0-0,Sochaux
+Sat Oct 15 2022,Nimes,2-0,2-0,Amiens
+Sat Oct 15 2022,Niort,0-3,0-1,Grenoble
+Sat Oct 15 2022,Rodez,1-1,0-1,Le Havre
+Sat Oct 15 2022,Valenciennes,1-0,1-0,Guingamp
+Mon Oct 17 2022,Bastia,1-1,0-0,Bordeaux
+Sat Oct 22 2022,Amiens,0-1,0-0,St Etienne
+Sat Oct 22 2022,Bordeaux,1-0,1-0,Annecy
+Sat Oct 22 2022,Caen,2-0,0-0,Rodez
+Sat Oct 22 2022,Grenoble,1-0,0-0,Valenciennes
+Sat Oct 22 2022,Guingamp,1-1,0-0,Bastia
+Sat Oct 22 2022,Niort,2-1,0-0,Dijon
+Sat Oct 22 2022,Paris FC,0-0,0-0,Laval
+Sat Oct 22 2022,Pau FC,1-0,1-0,Nimes
+Sat Oct 22 2022,Sochaux,2-2,0-1,Quevilly Rouen
+Mon Oct 24 2022,Le Havre,2-0,1-0,Metz
+Sat Nov 5 2022,Nimes,1-0,1-0,Bordeaux
+Sat Nov 5 2022,Annecy,2-1,0-1,Sochaux
+Sat Nov 5 2022,Bastia,0-1,0-1,Paris FC
+Sat Nov 5 2022,Dijon,1-1,0-1,Guingamp
+Sat Nov 5 2022,Laval,2-1,1-1,Niort
+Sat Nov 5 2022,Pau FC,2-1,1-0,Amiens
+Sat Nov 5 2022,Quevilly Rouen,0-1,0-0,Le Havre
+Sat Nov 5 2022,Rodez,0-1,0-0,Grenoble
+Sat Nov 5 2022,Valenciennes,1-1,1-1,Caen
+Mon Nov 7 2022,Metz,3-2,2-1,St Etienne
+Sat Nov 12 2022,St Etienne,0-2,0-0,Rodez
+Sat Nov 12 2022,Amiens,0-2,0-1,Quevilly Rouen
+Sat Nov 12 2022,Bordeaux,1-1,0-1,Pau FC
+Sat Nov 12 2022,Caen,0-0,0-0,Annecy
+Sat Nov 12 2022,Grenoble,0-0,0-0,Dijon
+Sat Nov 12 2022,Guingamp,0-1,0-0,Le Havre
+Sat Nov 12 2022,Laval,1-0,1-0,Valenciennes
+Sat Nov 12 2022,Niort,1-1,0-1,Nimes
+Sat Nov 12 2022,Paris FC,1-4,1-2,Metz
+Sat Nov 12 2022,Sochaux,1-0,1-0,Bastia
+Mon Dec 26 2022,Annecy,2-1,1-0,St Etienne
+Mon Dec 26 2022,Le Havre,1-0,1-0,Bordeaux
+Mon Dec 26 2022,Bastia,1-0,0-0,Caen
+Mon Dec 26 2022,Dijon,5-0,3-0,Laval
+Mon Dec 26 2022,Metz,0-0,0-0,Niort
+Mon Dec 26 2022,Nimes,1-2,1-1,Guingamp
+Mon Dec 26 2022,Pau FC,0-1,0-1,Paris FC
+Mon Dec 26 2022,Quevilly Rouen,2-0,0-0,Grenoble
+Mon Dec 26 2022,Sochaux,1-0,0-0,Rodez
+Mon Dec 26 2022,Valenciennes,1-1,1-1,Amiens
+Fri Dec 30 2022,Bordeaux,2-1,2-0,Sochaux
+Fri Dec 30 2022,St Etienne,1-1,0-1,Caen
+Fri Dec 30 2022,Annecy,0-0,0-0,Nimes
+Fri Dec 30 2022,Bastia,1-0,0-0,Valenciennes
+Fri Dec 30 2022,Grenoble,0-1,0-0,Metz
+Fri Dec 30 2022,Guingamp,0-2,0-1,Quevilly Rouen
+Fri Dec 30 2022,Laval,0-3,0-1,Amiens
+Fri Dec 30 2022,Niort,2-1,1-0,Pau FC
+Fri Dec 30 2022,Paris FC,0-0,0-0,Le Havre
+Fri Dec 30 2022,Rodez,2-1,2-0,Dijon
+Tue Jan 10 2023,Amiens,1-1,0-0,Guingamp
+Tue Jan 10 2023,Caen,2-2,0-2,Bordeaux
+Tue Jan 10 2023,Le Havre,1-0,0-0,Sochaux
+Tue Jan 10 2023,Nimes,1-4,0-0,Metz
+Tue Jan 10 2023,Paris FC,2-1,1-0,Dijon
+Tue Jan 10 2023,Pau FC,0-0,0-0,Grenoble
+Tue Jan 10 2023,Quevilly Rouen,1-1,1-0,Bastia
+Tue Jan 10 2023,Rodez,1-1,0-0,Niort
+Tue Jan 10 2023,St Etienne,1-0,0-0,Laval
+Tue Jan 10 2023,Valenciennes,2-2,1-1,Annecy
+Fri Jan 13 2023,Annecy,2-0,1-0,Paris FC
+Fri Jan 13 2023,Bastia,1-0,0-0,Pau FC
+Fri Jan 13 2023,Bordeaux,1-1,1-0,Amiens
+Fri Jan 13 2023,Dijon,2-1,1-0,Valenciennes
+Fri Jan 13 2023,Guingamp,2-4,1-1,Grenoble
+Fri Jan 13 2023,Laval,3-1,1-0,Rodez
+Fri Jan 13 2023,Le Havre,3-1,0-0,Nimes
+Fri Jan 13 2023,Metz,2-0,0-0,Quevilly Rouen
+Mon Jan 16 2023,Niort,0-1,0-0,St Etienne
+Fri Jan 20 2023,Sochaux,1-2,1-0,Caen
+Sat Jan 28 2023,St Etienne,2-3,0-1,Sochaux
+Sat Jan 28 2023,Amiens,1-1,1-0,Le Havre
+Sat Jan 28 2023,Caen,0-0,0-0,Laval
+Sat Jan 28 2023,Dijon,0-3,0-1,Bordeaux
+Sat Jan 28 2023,Grenoble,0-1,0-0,Bastia
+Sat Jan 28 2023,Nimes,3-2,3-1,Niort
+Sat Jan 28 2023,Pau FC,2-2,0-2,Annecy
+Sat Jan 28 2023,Quevilly Rouen,3-1,1-0,Paris FC
+Sat Jan 28 2023,Rodez,0-1,0-0,Guingamp
+Sat Jan 28 2023,Valenciennes,1-1,0-0,Metz
+Tue Jan 31 2023,Annecy,2-0,0-0,Caen
+Tue Jan 31 2023,Bastia,2-0,0-0,St Etienne
+Tue Jan 31 2023,Bordeaux,1-2,0-1,Le Havre
+Tue Jan 31 2023,Grenoble,1-0,0-0,Quevilly Rouen
+Tue Jan 31 2023,Guingamp,1-2,1-0,Nimes
+Tue Jan 31 2023,Laval,1-0,0-0,Dijon
+Tue Jan 31 2023,Metz,1-1,0-0,Rodez
+Tue Jan 31 2023,Niort,1-3,0-2,Amiens
+Tue Jan 31 2023,Paris FC,0-1,0-0,Pau FC
+Tue Jan 31 2023,Sochaux,4-0,2-0,Valenciennes
+Fri Feb 3 2023,Caen,3-1,0-0,Bastia
+Fri Feb 3 2023,Dijon,0-1,0-1,Niort
+Fri Feb 3 2023,Le Havre,0-0,0-0,Paris FC
+Fri Feb 3 2023,Nimes,0-2,0-1,Grenoble
+Fri Feb 3 2023,Pau FC,0-2,0-1,Bordeaux
+Fri Feb 3 2023,Quevilly Rouen,2-0,1-0,Guingamp
+Fri Feb 3 2023,Rodez,1-2,1-1,Sochaux
+Fri Feb 3 2023,Valenciennes,3-1,2-0,Laval
+Sat Feb 4 2023,St Etienne,3-2,1-1,Annecy
+Mon Feb 6 2023,Amiens,0-2,0-0,Metz
+Sat Feb 11 2023,St Etienne,2-0,2-0,Dijon
+Sat Feb 11 2023,Bastia,0-1,0-1,Quevilly Rouen
+Sat Feb 11 2023,Grenoble,1-1,0-1,Pau FC
+Sat Feb 11 2023,Guingamp,3-1,1-0,Valenciennes
+Sat Feb 11 2023,Laval,1-1,1-1,Annecy
+Sat Feb 11 2023,Niort,3-1,2-1,Bordeaux
+Sat Feb 11 2023,Rodez,1-1,1-0,Nimes
+Sat Feb 11 2023,Sochaux,1-1,0-1,Le Havre
+Mon Feb 13 2023,Metz,0-0,0-0,Caen
+Sat Feb 18 2023,Bordeaux,2-1,2-0,Paris FC
+Sat Feb 18 2023,Annecy,2-0,1-0,Amiens
+Sat Feb 18 2023,Bastia,1-1,1-0,Guingamp
+Sat Feb 18 2023,Caen,2-1,0-1,Grenoble
+Sat Feb 18 2023,Dijon,0-0,0-0,Metz
+Sat Feb 18 2023,Le Havre,1-0,0-0,Niort
+Sat Feb 18 2023,Pau FC,0-1,0-1,Laval
+Sat Feb 18 2023,Quevilly Rouen,0-0,0-0,Sochaux
+Sat Feb 18 2023,Valenciennes,0-0,0-0,Rodez
+Mon Feb 20 2023,Nimes,1-2,0-1,St Etienne
+Sat Feb 25 2023,Grenoble,0-0,0-0,Le Havre
+Sat Feb 25 2023,Guingamp,1-2,0-2,Caen
+Sat Feb 25 2023,Laval,0-1,0-0,Quevilly Rouen
+Sat Feb 25 2023,Metz,2-0,1-0,Nimes
+Sat Feb 25 2023,Paris FC,3-0,0-0,Niort
+Sat Feb 25 2023,Rodez,0-2,0-1,Bastia
+Sat Feb 25 2023,Sochaux,5-1,3-0,Annecy
+Sat Feb 25 2023,St Etienne,2-0,1-0,Pau FC
+Sat Feb 25 2023,Valenciennes,2-2,0-0,Dijon
+Mon Feb 27 2023,Amiens,1-2,1-0,Bordeaux
+Sat Mar 4 2023,Bordeaux,1-1,0-0,St Etienne
+Sat Mar 4 2023,Amiens,1-0,1-0,Pau FC
+Sat Mar 4 2023,Annecy,0-3,0-1,Metz
+Sat Mar 4 2023,Bastia,4-2,2-1,Nimes
+Sat Mar 4 2023,Dijon,1-0,1-0,Grenoble
+Sat Mar 4 2023,Le Havre,2-1,1-1,Laval
+Sat Mar 4 2023,Niort,2-3,1-2,Rodez
+Sat Mar 4 2023,Paris FC,1-2,0-2,Guingamp
+Sat Mar 4 2023,Quevilly Rouen,1-1,0-1,Valenciennes
+Mon Mar 6 2023,Caen,0-0,0-0,Sochaux
+Sat Mar 11 2023,Sochaux,1-1,1-1,Bordeaux
+Sat Mar 11 2023,Grenoble,2-1,1-1,Annecy
+Sat Mar 11 2023,Guingamp,2-0,1-0,Dijon
+Sat Mar 11 2023,Laval,1-2,1-1,Paris FC
+Sat Mar 11 2023,Nimes,2-0,0-0,Quevilly Rouen
+Sat Mar 11 2023,Pau FC,1-0,1-0,Niort
+Sat Mar 11 2023,Rodez,3-2,2-1,Caen
+Sat Mar 11 2023,St Etienne,1-1,0-0,Amiens
+Sat Mar 11 2023,Valenciennes,2-2,1-1,Bastia
+Mon Mar 13 2023,Metz,1-1,1-0,Le Havre
+Tue Mar 14 2023,Paris FC,3-0,1-0,Amiens
+Sat Mar 18 2023,Le Havre,2-2,0-0,St Etienne
+Sat Mar 18 2023,Amiens,1-3,1-1,Rodez
+Sat Mar 18 2023,Annecy,1-1,1-1,Guingamp
+Sat Mar 18 2023,Bordeaux,1-0,0-0,Nimes
+Sat Mar 18 2023,Caen,2-1,1-1,Valenciennes
+Sat Mar 18 2023,Dijon,0-1,0-1,Pau FC
+Sat Mar 18 2023,Niort,3-2,1-1,Laval
+Sat Mar 18 2023,Paris FC,0-1,0-0,Bastia
+Sat Mar 18 2023,Quevilly Rouen,1-2,0-0,Metz
+Sat Mar 18 2023,Sochaux,1-0,0-0,Grenoble
+Sat Apr 1 2023,St Etienne,2-0,0-0,Niort
+Sat Apr 1 2023,Bastia,3-2,1-2,Sochaux
+Sat Apr 1 2023,Caen,2-1,0-1,Dijon
+Sat Apr 1 2023,Grenoble,2-1,1-0,Amiens
+Sat Apr 1 2023,Metz,1-0,0-0,Laval
+Sat Apr 1 2023,Nimes,4-0,2-0,Annecy
+Sat Apr 1 2023,Pau FC,0-1,0-1,Le Havre
+Sat Apr 1 2023,Rodez,1-0,0-0,Quevilly Rouen
+Sat Apr 1 2023,Valenciennes,4-5,2-2,Paris FC
+Mon Apr 3 2023,Guingamp,0-1,0-1,Bordeaux
+Sat Apr 8 2023,Bordeaux,2-0,1-0,Bastia
+Sat Apr 8 2023,Amiens,1-0,0-0,Nimes
+Sat Apr 8 2023,Dijon,1-0,0-0,Rodez
+Sat Apr 8 2023,Laval,0-1,0-1,Grenoble
+Sat Apr 8 2023,Le Havre,0-0,0-0,Guingamp
+Sat Apr 8 2023,Niort,0-3,0-3,Sochaux
+Sat Apr 8 2023,Paris FC,2-4,2-2,St Etienne
+Sat Apr 8 2023,Pau FC,1-1,0-0,Metz
+Sat Apr 8 2023,Quevilly Rouen,2-1,2-0,Caen
+Mon Apr 10 2023,Annecy,2-1,1-1,Valenciennes
+Sat Apr 15 2023,Metz,3-0,0-0,Bordeaux
+Sat Apr 15 2023,Bastia,3-0,3-0,Annecy
+Sat Apr 15 2023,Caen,3-1,2-0,Paris FC
+Sat Apr 15 2023,Guingamp,3-1,1-0,Amiens
+Sat Apr 15 2023,Nimes,0-1,0-1,Le Havre
+Sat Apr 15 2023,Quevilly Rouen,2-2,1-0,Dijon
+Sat Apr 15 2023,Rodez,1-0,1-0,Laval
+Sat Apr 15 2023,Sochaux,2-3,0-2,Pau FC
+Sat Apr 15 2023,Valenciennes,0-0,0-0,Niort
+Mon Apr 17 2023,Grenoble,0-2,0-0,St Etienne
+Sat Apr 22 2023,St Etienne,1-3,1-3,Metz
+Sat Apr 22 2023,Amiens,0-2,0-0,Valenciennes
+Sat Apr 22 2023,Annecy,0-3,0-0,Rodez
+Sat Apr 22 2023,Dijon,1-1,0-0,Bastia
+Sat Apr 22 2023,Laval,2-1,2-0,Sochaux
+Sat Apr 22 2023,Le Havre,0-0,0-0,Quevilly Rouen
+Sat Apr 22 2023,Niort,1-2,0-2,Caen
+Sat Apr 22 2023,Paris FC,3-0,1-0,Nimes
+Sat Apr 22 2023,Pau FC,2-1,1-1,Guingamp
+Mon Apr 24 2023,Bordeaux,3-0,1-0,Grenoble
+Sat Apr 29 2023,Caen,1-2,0-1,Le Havre
+Sat Apr 29 2023,Bastia,1-1,1-1,Amiens
+Sat Apr 29 2023,Grenoble,2-0,1-0,Niort
+Sat Apr 29 2023,Guingamp,3-1,1-1,Laval
+Sat Apr 29 2023,Metz,1-1,1-1,Paris FC
+Sat Apr 29 2023,Nimes,3-2,2-1,Pau FC
+Sat Apr 29 2023,Quevilly Rouen,2-2,0-1,Annecy
+Sat Apr 29 2023,Rodez,1-1,0-0,St Etienne
+Sat Apr 29 2023,Valenciennes,0-2,0-0,Bordeaux
+Mon May 1 2023,Sochaux,0-2,0-2,Dijon
+Sat May 6 2023,Bordeaux,1-0,1-0,Caen
+Sat May 6 2023,Amiens,1-0,0-0,Sochaux
+Sat May 6 2023,Annecy,1-1,0-0,Dijon
+Sat May 6 2023,Laval,2-1,2-0,Bastia
+Sat May 6 2023,Nimes,3-3,1-1,Valenciennes
+Sat May 6 2023,Niort,1-3,1-1,Metz
+Sat May 6 2023,Paris FC,1-0,1-0,Grenoble
+Sat May 6 2023,Pau FC,3-4,1-1,Quevilly Rouen
+Sat May 6 2023,St Etienne,3-2,1-2,Guingamp
+Mon May 8 2023,Le Havre,1-0,0-0,Rodez
+Sat May 13 2023,Quevilly Rouen,0-0,0-0,Bordeaux
+Sat May 13 2023,Bastia,2-1,0-0,Niort
+Sat May 13 2023,Caen,4-2,0-0,Nimes
+Sat May 13 2023,Dijon,3-0,2-0,Amiens
+Sat May 13 2023,Laval,2-1,1-1,St Etienne
+Sat May 13 2023,Metz,1-0,0-0,Grenoble
+Sat May 13 2023,Rodez,0-0,0-0,Paris FC
+Sat May 13 2023,Sochaux,0-1,0-0,Guingamp
+Sat May 13 2023,Valenciennes,1-1,0-0,Pau FC
+Mon May 15 2023,Annecy,1-0,0-0,Le Havre
+Fri May 19 2023,Grenoble,1-1,1-1,Rodez
+Sat May 20 2023,Bordeaux,3-0,2-0,Laval
+Sat May 20 2023,Amiens,1-3,1-1,Caen
+Sat May 20 2023,Guingamp,1-1,0-1,Metz
+Sat May 20 2023,Nimes,1-2,1-0,Dijon
+Sat May 20 2023,Niort,2-2,0-1,Annecy
+Sat May 20 2023,Paris FC,2-1,0-1,Sochaux
+Sat May 20 2023,Pau FC,2-6,1-2,Bastia
+Sat May 20 2023,St Etienne,4-2,1-1,Quevilly Rouen
+Mon May 22 2023,Le Havre,0-2,0-2,Valenciennes
+Fri May 26 2023,Annecy,1-0,1-0,Bordeaux
+Fri May 26 2023,Bastia,1-1,0-0,Le Havre
+Fri May 26 2023,Caen,2-2,0-2,St Etienne
+Fri May 26 2023,Dijon,1-1,0-0,Paris FC
+Fri May 26 2023,Guingamp,2-0,1-0,Niort
+Fri May 26 2023,Laval,2-0,2-0,Nimes
+Fri May 26 2023,Quevilly Rouen,1-3,1-0,Amiens
+Fri May 26 2023,Rodez,2-3,1-3,Pau FC
+Fri May 26 2023,Sochaux,0-1,0-0,Metz
+Fri May 26 2023,Valenciennes,1-0,0-0,Grenoble
+Fri Jun 2 2023,Amiens,1-2,0-0,Laval
+Fri Jun 2 2023,Grenoble,0-2,0-1,Guingamp
+Fri Jun 2 2023,Le Havre,1-0,1-0,Dijon
+Fri Jun 2 2023,Metz,3-2,1-0,Bastia
+Fri Jun 2 2023,Nimes,3-1,1-1,Sochaux
+Fri Jun 2 2023,Niort,3-3,2-1,Quevilly Rouen
+Fri Jun 2 2023,Paris FC,1-0,0-0,Annecy
+Fri Jun 2 2023,Pau FC,1-0,1-0,Caen
+Fri Jun 2 2023,St Etienne,2-0,0-0,Valenciennes

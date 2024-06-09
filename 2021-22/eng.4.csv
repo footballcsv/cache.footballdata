@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 7 2021,Carlisle,0-0,0-0,Colchester
+Sat Aug 7 2021,Exeter,0-0,0-0,Bradford
+Sat Aug 7 2021,Forest Green,2-1,1-0,Sutton
+Sat Aug 7 2021,Harrogate,3-2,2-1,Rochdale
+Sat Aug 7 2021,Hartlepool,1-0,0-0,Crawley Town
+Sat Aug 7 2021,Mansfield,2-1,1-0,Bristol Rvs
+Sat Aug 7 2021,Northampton,1-0,1-0,Port Vale
+Sat Aug 7 2021,Oldham,0-1,0-0,Newport County
+Sat Aug 7 2021,Salford,1-1,1-1,Leyton Orient
+Sat Aug 7 2021,Scunthorpe,1-3,0-0,Swindon
+Sat Aug 7 2021,Stevenage,1-0,0-0,Barrow
+Sat Aug 7 2021,Tranmere,1-0,0-0,Walsall
+Sat Aug 14 2021,Barrow,3-2,1-1,Hartlepool
+Sat Aug 14 2021,Bradford,2-1,1-0,Oldham
+Sat Aug 14 2021,Bristol Rvs,0-2,0-0,Stevenage
+Sat Aug 14 2021,Colchester,0-1,0-1,Northampton
+Sat Aug 14 2021,Leyton Orient,3-0,2-0,Exeter
+Sat Aug 14 2021,Mansfield,2-1,2-1,Newport County
+Sat Aug 14 2021,Port Vale,0-0,0-0,Tranmere
+Sat Aug 14 2021,Rochdale,0-0,0-0,Scunthorpe
+Sat Aug 14 2021,Salford,0-0,0-0,Sutton
+Sat Aug 14 2021,Swindon,1-2,1-2,Carlisle
+Sat Aug 14 2021,Walsall,1-3,0-3,Forest Green
+Tue Aug 17 2021,Barrow,0-0,0-0,Exeter
+Tue Aug 17 2021,Bradford,4-1,3-1,Stevenage
+Tue Aug 17 2021,Bristol Rvs,1-0,1-0,Oldham
+Tue Aug 17 2021,Colchester,1-1,0-0,Mansfield
+Tue Aug 17 2021,Crawley Town,2-1,1-1,Salford
+Tue Aug 17 2021,Port Vale,0-0,0-0,Carlisle
+Tue Aug 17 2021,Rochdale,1-2,0-1,Forest Green
+Tue Aug 17 2021,Swindon,0-0,0-0,Tranmere
+Tue Aug 17 2021,Walsall,1-1,0-0,Scunthorpe
+Sat Aug 21 2021,Carlisle,1-1,1-0,Leyton Orient
+Sat Aug 21 2021,Exeter,4-1,4-0,Bristol Rvs
+Sat Aug 21 2021,Forest Green,6-3,2-2,Crawley Town
+Sat Aug 21 2021,Harrogate,2-1,0-1,Barrow
+Sat Aug 21 2021,Hartlepool,2-0,1-0,Walsall
+Sat Aug 21 2021,Mansfield,2-3,1-1,Bradford
+Sat Aug 21 2021,Northampton,1-3,1-1,Rochdale
+Sat Aug 21 2021,Oldham,1-2,0-2,Colchester
+Sat Aug 21 2021,Salford,0-1,0-0,Swindon
+Sat Aug 21 2021,Scunthorpe,1-1,0-0,Sutton
+Sat Aug 21 2021,Stevenage,1-1,1-1,Port Vale
+Sat Aug 21 2021,Tranmere,0-1,0-0,Newport County
+Tue Aug 24 2021,Leyton Orient,0-2,0-2,Harrogate
+Fri Aug 27 2021,Rochdale,1-1,0-1,Colchester
+Sat Aug 28 2021,Barrow,1-1,1-1,Bristol Rvs
+Sat Aug 28 2021,Crawley Town,0-0,0-0,Northampton
+Sat Aug 28 2021,Forest Green,0-2,0-2,Port Vale
+Sat Aug 28 2021,Harrogate,1-1,1-0,Exeter
+Sat Aug 28 2021,Hartlepool,2-1,1-1,Carlisle
+Sat Aug 28 2021,Leyton Orient,2-0,0-0,Bradford
+Sat Aug 28 2021,Salford,3-0,3-0,Newport County
+Sat Aug 28 2021,Scunthorpe,1-0,1-0,Tranmere
+Sat Aug 28 2021,Sutton,1-2,0-0,Oldham
+Sat Aug 28 2021,Swindon,1-0,0-0,Mansfield
+Sat Aug 28 2021,Walsall,1-0,1-0,Stevenage
+Sat Sep 4 2021,Bradford,1-1,1-1,Walsall
+Sat Sep 4 2021,Bristol Rvs,1-0,0-0,Crawley Town
+Sat Sep 4 2021,Carlisle,2-1,1-1,Salford
+Sat Sep 4 2021,Exeter,0-0,0-0,Forest Green
+Sat Sep 4 2021,Mansfield,1-3,1-2,Harrogate
+Sat Sep 4 2021,Newport County,2-2,1-1,Leyton Orient
+Sat Sep 4 2021,Northampton,2-0,0-0,Scunthorpe
+Sat Sep 4 2021,Oldham,0-3,0-1,Barrow
+Sat Sep 4 2021,Port Vale,2-3,1-1,Rochdale
+Sat Sep 4 2021,Stevenage,1-1,0-0,Swindon
+Sat Sep 4 2021,Tranmere,1-0,0-0,Hartlepool
+Fri Sep 10 2021,Barrow,2-3,1-2,Colchester
+Fri Sep 10 2021,Harrogate,2-2,2-2,Newport County
+Sat Sep 11 2021,Crawley Town,2-1,1-0,Carlisle
+Sat Sep 11 2021,Forest Green,1-0,0-0,Northampton
+Sat Sep 11 2021,Hartlepool,1-0,0-0,Bristol Rvs
+Sat Sep 11 2021,Leyton Orient,4-0,2-0,Oldham
+Sat Sep 11 2021,Rochdale,1-0,0-0,Tranmere
+Sat Sep 11 2021,Salford,1-0,0-0,Bradford
+Sat Sep 11 2021,Scunthorpe,0-4,0-1,Exeter
+Sat Sep 11 2021,Sutton,2-1,0-0,Stevenage
+Sat Sep 11 2021,Swindon,1-2,0-1,Port Vale
+Sat Sep 11 2021,Walsall,3-1,2-0,Mansfield
+Tue Sep 14 2021,Newport County,0-1,0-1,Northampton
+Tue Sep 14 2021,Sutton,1-0,1-0,Hartlepool
+Sat Sep 18 2021,Northampton,1-1,0-0,Swindon
+Sat Sep 18 2021,Bradford,1-1,0-1,Barrow
+Sat Sep 18 2021,Bristol Rvs,1-3,0-3,Leyton Orient
+Sat Sep 18 2021,Carlisle,2-2,0-2,Scunthorpe
+Sat Sep 18 2021,Colchester,0-1,0-1,Crawley Town
+Sat Sep 18 2021,Exeter,2-0,0-0,Sutton
+Sat Sep 18 2021,Mansfield,1-1,0-0,Rochdale
+Sat Sep 18 2021,Newport County,2-1,1-1,Walsall
+Sat Sep 18 2021,Oldham,0-0,0-0,Hartlepool
+Sat Sep 18 2021,Port Vale,2-0,1-0,Harrogate
+Sat Sep 18 2021,Stevenage,0-4,0-1,Forest Green
+Sat Sep 18 2021,Tranmere,2-0,1-0,Salford
+Tue Sep 21 2021,Crawley Town,2-2,2-1,Harrogate
+Fri Sep 24 2021,Barrow,2-1,0-1,Newport County
+Sat Sep 25 2021,Crawley Town,2-1,1-0,Bradford
+Sat Sep 25 2021,Forest Green,0-0,0-0,Tranmere
+Sat Sep 25 2021,Harrogate,0-0,0-0,Stevenage
+Sat Sep 25 2021,Hartlepool,1-1,1-1,Exeter
+Sat Sep 25 2021,Leyton Orient,0-0,0-0,Mansfield
+Sat Sep 25 2021,Rochdale,0-1,0-0,Oldham
+Sat Sep 25 2021,Salford,2-2,1-1,Northampton
+Sat Sep 25 2021,Scunthorpe,0-1,0-1,Port Vale
+Sat Sep 25 2021,Sutton,4-0,2-0,Carlisle
+Sat Sep 25 2021,Swindon,0-0,0-0,Colchester
+Sat Sep 25 2021,Walsall,1-2,1-0,Bristol Rvs
+Sat Oct 2 2021,Bradford,2-0,1-0,Rochdale
+Sat Oct 2 2021,Bristol Rvs,1-3,1-0,Swindon
+Sat Oct 2 2021,Carlisle,0-2,0-2,Forest Green
+Sat Oct 2 2021,Colchester,0-2,0-2,Salford
+Sat Oct 2 2021,Exeter,2-2,1-1,Walsall
+Sat Oct 2 2021,Mansfield,0-1,0-0,Barrow
+Sat Oct 2 2021,Newport County,3-0,1-0,Scunthorpe
+Sat Oct 2 2021,Northampton,0-2,0-1,Sutton
+Sat Oct 2 2021,Oldham,1-2,0-1,Harrogate
+Sat Oct 2 2021,Port Vale,3-2,1-0,Leyton Orient
+Sat Oct 2 2021,Stevenage,2-0,1-0,Hartlepool
+Sat Oct 2 2021,Tranmere,2-1,1-0,Crawley Town
+Fri Oct 8 2021,Tranmere,2-0,0-0,Colchester
+Sat Oct 9 2021,Forest Green,0-2,0-0,Swindon
+Sat Oct 9 2021,Barrow,1-1,0-0,Leyton Orient
+Sat Oct 9 2021,Bristol Rvs,3-0,1-0,Carlisle
+Sat Oct 9 2021,Harrogate,6-1,5-0,Scunthorpe
+Sat Oct 9 2021,Hartlepool,2-1,0-0,Northampton
+Sat Oct 9 2021,Mansfield,0-0,0-0,Oldham
+Sat Oct 9 2021,Newport County,0-0,0-0,Bradford
+Sat Oct 9 2021,Rochdale,0-1,0-1,Crawley Town
+Sat Oct 9 2021,Stevenage,2-2,1-1,Exeter
+Sat Oct 9 2021,Sutton,4-3,1-2,Port Vale
+Sat Oct 9 2021,Walsall,2-1,1-0,Salford
+Sat Oct 16 2021,Bradford,2-2,1-0,Bristol Rvs
+Sat Oct 16 2021,Carlisle,0-1,0-0,Tranmere
+Sat Oct 16 2021,Colchester,1-0,0-0,Harrogate
+Sat Oct 16 2021,Crawley Town,0-1,0-0,Sutton
+Sat Oct 16 2021,Exeter,2-2,1-2,Newport County
+Sat Oct 16 2021,Leyton Orient,0-0,0-0,Walsall
+Sat Oct 16 2021,Northampton,2-0,1-0,Mansfield
+Sat Oct 16 2021,Oldham,3-0,2-0,Stevenage
+Sat Oct 16 2021,Port Vale,3-1,0-1,Barrow
+Sat Oct 16 2021,Salford,2-0,1-0,Hartlepool
+Sat Oct 16 2021,Scunthorpe,0-2,0-0,Forest Green
+Sat Oct 16 2021,Swindon,2-2,1-0,Rochdale
+Tue Oct 19 2021,Barrow,1-1,0-1,Scunthorpe
+Tue Oct 19 2021,Bradford,1-3,0-1,Hartlepool
+Tue Oct 19 2021,Colchester,1-1,0-0,Bristol Rvs
+Tue Oct 19 2021,Crawley Town,1-3,1-0,Exeter
+Tue Oct 19 2021,Harrogate,2-2,1-1,Tranmere
+Tue Oct 19 2021,Leyton Orient,1-1,0-0,Forest Green
+Tue Oct 19 2021,Mansfield,1-1,0-1,Port Vale
+Tue Oct 19 2021,Newport County,2-2,2-1,Carlisle
+Tue Oct 19 2021,Northampton,3-0,2-0,Stevenage
+Tue Oct 19 2021,Oldham,1-3,0-2,Walsall
+Tue Oct 19 2021,Salford,0-0,0-0,Rochdale
+Tue Oct 19 2021,Sutton,1-2,1-2,Swindon
+Sat Oct 23 2021,Bristol Rvs,1-3,1-2,Newport County
+Sat Oct 23 2021,Carlisle,0-0,0-0,Oldham
+Sat Oct 23 2021,Exeter,2-1,0-0,Mansfield
+Sat Oct 23 2021,Forest Green,3-1,1-1,Salford
+Sat Oct 23 2021,Hartlepool,3-2,0-2,Harrogate
+Sat Oct 23 2021,Port Vale,3-0,2-0,Colchester
+Sat Oct 23 2021,Rochdale,3-2,1-0,Sutton
+Sat Oct 23 2021,Scunthorpe,2-1,1-0,Crawley Town
+Sat Oct 23 2021,Stevenage,0-0,0-0,Leyton Orient
+Sat Oct 23 2021,Swindon,1-3,0-2,Bradford
+Sat Oct 23 2021,Tranmere,0-2,0-0,Northampton
+Sat Oct 23 2021,Walsall,2-2,1-1,Barrow
+Tue Oct 26 2021,Colchester,1-3,1-2,Sutton
+Sat Oct 30 2021,Northampton,3-0,1-0,Carlisle
+Sat Oct 30 2021,Bradford,1-1,1-0,Forest Green
+Sat Oct 30 2021,Colchester,2-1,2-0,Scunthorpe
+Sat Oct 30 2021,Crawley Town,1-4,1-0,Port Vale
+Sat Oct 30 2021,Harrogate,0-1,0-0,Bristol Rvs
+Sat Oct 30 2021,Leyton Orient,5-0,2-0,Hartlepool
+Sat Oct 30 2021,Mansfield,2-0,1-0,Tranmere
+Sat Oct 30 2021,Newport County,5-0,3-0,Stevenage
+Sat Oct 30 2021,Oldham,1-3,0-1,Swindon
+Sat Oct 30 2021,Salford,1-2,0-0,Exeter
+Sat Oct 30 2021,Sutton,0-1,0-0,Walsall
+Sat Oct 30 2021,Barrow,1-2,0-1,Rochdale
+Fri Nov 12 2021,Hartlepool,1-2,0-1,Newport County
+Sat Nov 13 2021,Port Vale,1-1,0-0,Bradford
+Sat Nov 13 2021,Carlisle,0-0,0-0,Barrow
+Sat Nov 13 2021,Bristol Rvs,2-1,0-1,Northampton
+Sat Nov 13 2021,Exeter,2-1,1-0,Oldham
+Sat Nov 13 2021,Rochdale,2-2,1-1,Leyton Orient
+Sat Nov 13 2021,Scunthorpe,1-1,1-0,Salford
+Sat Nov 13 2021,Stevenage,1-2,0-1,Mansfield
+Sat Nov 13 2021,Tranmere,0-1,0-0,Sutton
+Sat Nov 13 2021,Walsall,1-3,0-1,Harrogate
+Sat Nov 20 2021,Barrow,0-1,0-0,Crawley Town
+Sat Nov 20 2021,Bradford,1-1,0-0,Northampton
+Sat Nov 20 2021,Bristol Rvs,2-2,2-1,Tranmere
+Sat Nov 20 2021,Exeter,2-1,0-0,Carlisle
+Sat Nov 20 2021,Harrogate,0-2,0-1,Salford
+Sat Nov 20 2021,Hartlepool,1-3,0-3,Forest Green
+Sat Nov 20 2021,Leyton Orient,4-1,1-1,Sutton
+Sat Nov 20 2021,Mansfield,3-1,2-1,Scunthorpe
+Sat Nov 20 2021,Newport County,1-2,0-0,Swindon
+Sat Nov 20 2021,Oldham,3-2,1-1,Port Vale
+Sat Nov 20 2021,Stevenage,1-0,1-0,Colchester
+Sat Nov 20 2021,Walsall,0-0,0-0,Rochdale
+Tue Nov 23 2021,Carlisle,0-2,0-1,Harrogate
+Tue Nov 23 2021,Colchester,3-1,2-0,Exeter
+Tue Nov 23 2021,Crawley Town,1-1,0-0,Newport County
+Tue Nov 23 2021,Forest Green,2-0,0-0,Barrow
+Tue Nov 23 2021,Northampton,2-1,2-0,Oldham
+Tue Nov 23 2021,Port Vale,0-1,0-1,Walsall
+Tue Nov 23 2021,Rochdale,2-2,2-1,Stevenage
+Tue Nov 23 2021,Salford,1-1,0-1,Bristol Rvs
+Tue Nov 23 2021,Scunthorpe,1-1,0-1,Leyton Orient
+Tue Nov 23 2021,Sutton,2-0,1-0,Mansfield
+Tue Nov 23 2021,Swindon,3-1,0-0,Hartlepool
+Tue Nov 23 2021,Tranmere,2-1,0-1,Bradford
+Fri Nov 26 2021,Colchester,1-1,0-1,Newport County
+Sat Nov 27 2021,Carlisle,1-0,0-0,Walsall
+Sat Nov 27 2021,Crawley Town,1-2,0-1,Mansfield
+Sat Nov 27 2021,Forest Green,2-0,1-0,Bristol Rvs
+Sat Nov 27 2021,Northampton,1-0,1-0,Leyton Orient
+Sat Nov 27 2021,Port Vale,2-0,1-0,Hartlepool
+Sat Nov 27 2021,Rochdale,1-1,0-0,Exeter
+Sat Nov 27 2021,Salford,2-0,1-0,Oldham
+Sat Nov 27 2021,Scunthorpe,1-1,1-0,Bradford
+Sat Nov 27 2021,Sutton,1-0,1-0,Barrow
+Sat Nov 27 2021,Swindon,1-1,0-1,Harrogate
+Tue Dec 7 2021,Bristol Rvs,1-2,0-2,Port Vale
+Tue Dec 7 2021,Exeter,1-2,0-1,Northampton
+Tue Dec 7 2021,Harrogate,1-4,0-3,Forest Green
+Tue Dec 7 2021,Leyton Orient,4-1,1-1,Swindon
+Tue Dec 7 2021,Mansfield,1-0,1-0,Carlisle
+Tue Dec 7 2021,Newport County,3-2,0-2,Sutton
+Tue Dec 7 2021,Oldham,0-1,0-0,Tranmere
+Tue Dec 7 2021,Stevenage,1-1,1-1,Scunthorpe
+Tue Dec 7 2021,Walsall,1-1,1-1,Crawley Town
+Wed Dec 8 2021,Bradford,0-0,0-0,Colchester
+Wed Dec 8 2021,Hartlepool,2-1,0-0,Rochdale
+Sat Dec 11 2021,Barrow,2-0,0-0,Swindon
+Sat Dec 11 2021,Bradford,2-2,1-1,Sutton
+Sat Dec 11 2021,Bristol Rvs,4-2,1-0,Rochdale
+Sat Dec 11 2021,Exeter,0-1,0-1,Tranmere
+Sat Dec 11 2021,Harrogate,1-2,1-1,Northampton
+Sat Dec 11 2021,Hartlepool,0-0,0-0,Scunthorpe
+Sat Dec 11 2021,Leyton Orient,1-2,0-1,Crawley Town
+Sat Dec 11 2021,Mansfield,2-1,2-1,Salford
+Sat Dec 11 2021,Newport County,2-1,0-1,Port Vale
+Sat Dec 11 2021,Oldham,5-5,1-3,Forest Green
+Sat Dec 11 2021,Stevenage,0-2,0-1,Carlisle
+Sat Dec 11 2021,Walsall,3-0,2-0,Colchester
+Sat Dec 18 2021,Rochdale,3-0,1-0,Newport County
+Sat Dec 18 2021,Salford,1-0,1-0,Stevenage
+Sat Dec 18 2021,Sutton,1-0,1-0,Harrogate
+Sat Dec 18 2021,Tranmere,1-0,0-0,Leyton Orient
+Sun Dec 26 2021,Mansfield,3-2,0-1,Hartlepool
+Sun Dec 26 2021,Oldham,1-3,1-0,Scunthorpe
+Sun Dec 26 2021,Tranmere,2-0,1-0,Barrow
+Wed Dec 29 2021,Barrow,0-0,0-0,Oldham
+Wed Dec 29 2021,Swindon,0-0,0-0,Stevenage
+Sat Jan 1 2022,Barrow,1-2,0-1,Bradford
+Sat Jan 1 2022,Crawley Town,3-1,2-0,Colchester
+Sat Jan 1 2022,Forest Green,2-0,0-0,Stevenage
+Sat Jan 1 2022,Hartlepool,0-0,0-0,Oldham
+Sat Jan 1 2022,Scunthorpe,0-1,0-1,Carlisle
+Sat Jan 1 2022,Sutton,2-1,1-1,Exeter
+Sat Jan 1 2022,Swindon,5-2,1-1,Northampton
+Sat Jan 1 2022,Walsall,3-3,0-1,Newport County
+Tue Jan 4 2022,Forest Green,0-0,0-0,Exeter
+Sat Jan 8 2022,Carlisle,2-0,1-0,Bradford
+Sat Jan 8 2022,Newport County,0-2,0-1,Salford
+Sat Jan 8 2022,Northampton,0-1,0-1,Crawley Town
+Sat Jan 8 2022,Stevenage,3-1,2-0,Walsall
+Sat Jan 8 2022,Tranmere,4-0,2-0,Scunthorpe
+Tue Jan 11 2022,Mansfield,3-2,3-1,Swindon
+Tue Jan 11 2022,Forest Green,2-0,1-0,Colchester
+Tue Jan 11 2022,Salford,1-1,1-0,Tranmere
+Sat Jan 15 2022,Newport County,4-0,2-0,Harrogate
+Sat Jan 15 2022,Bradford,2-1,0-1,Salford
+Sat Jan 15 2022,Bristol Rvs,2-0,0-0,Hartlepool
+Sat Jan 15 2022,Carlisle,1-1,0-1,Crawley Town
+Sat Jan 15 2022,Colchester,0-2,0-0,Barrow
+Sat Jan 15 2022,Exeter,2-0,0-0,Scunthorpe
+Sat Jan 15 2022,Mansfield,2-0,0-0,Walsall
+Sat Jan 15 2022,Northampton,1-1,0-0,Forest Green
+Sat Jan 15 2022,Port Vale,1-3,1-2,Swindon
+Sat Jan 15 2022,Stevenage,3-3,2-0,Sutton
+Sat Jan 15 2022,Tranmere,2-0,2-0,Rochdale
+Tue Jan 18 2022,Carlisle,0-0,0-0,Hartlepool
+Tue Jan 18 2022,Port Vale,0-1,0-0,Salford
+Tue Jan 18 2022,Stevenage,2-1,1-1,Crawley Town
+Tue Jan 18 2022,Sutton,3-2,1-2,Colchester
+Sat Jan 22 2022,Swindon,1-1,1-1,Bristol Rvs
+Sat Jan 22 2022,Barrow,1-3,1-2,Mansfield
+Sat Jan 22 2022,Crawley Town,0-1,0-0,Tranmere
+Sat Jan 22 2022,Forest Green,3-0,1-0,Carlisle
+Sat Jan 22 2022,Harrogate,3-0,1-0,Oldham
+Sat Jan 22 2022,Hartlepool,1-1,0-0,Stevenage
+Sat Jan 22 2022,Leyton Orient,0-0,0-0,Port Vale
+Sat Jan 22 2022,Rochdale,0-0,0-0,Bradford
+Sat Jan 22 2022,Salford,0-3,0-2,Colchester
+Sat Jan 22 2022,Scunthorpe,0-1,0-0,Newport County
+Sat Jan 22 2022,Sutton,0-0,0-0,Northampton
+Sat Jan 22 2022,Walsall,0-2,0-1,Exeter
+Tue Jan 25 2022,Barrow,0-2,0-0,Salford
+Tue Jan 25 2022,Leyton Orient,0-1,0-0,Newport County
+Tue Jan 25 2022,Scunthorpe,2-3,0-1,Bristol Rvs
+Tue Jan 25 2022,Walsall,1-2,0-1,Bradford
+Sat Jan 29 2022,Bradford,1-2,1-0,Crawley Town
+Sat Jan 29 2022,Bristol Rvs,1-0,0-0,Walsall
+Sat Jan 29 2022,Carlisle,0-2,0-2,Sutton
+Sat Jan 29 2022,Colchester,1-1,0-0,Swindon
+Sat Jan 29 2022,Exeter,0-0,0-0,Hartlepool
+Sat Jan 29 2022,Mansfield,2-0,1-0,Leyton Orient
+Sat Jan 29 2022,Newport County,2-1,2-0,Barrow
+Sat Jan 29 2022,Northampton,1-0,1-0,Salford
+Sat Jan 29 2022,Oldham,0-0,0-0,Rochdale
+Sat Jan 29 2022,Port Vale,1-0,0-0,Scunthorpe
+Sat Jan 29 2022,Stevenage,3-0,2-0,Harrogate
+Sat Jan 29 2022,Tranmere,0-4,0-2,Forest Green
+Tue Feb 1 2022,Bradford,1-1,0-0,Leyton Orient
+Tue Feb 1 2022,Colchester,1-1,0-0,Rochdale
+Tue Feb 1 2022,Harrogate,0-0,0-0,Mansfield
+Tue Feb 1 2022,Northampton,0-1,0-0,Barrow
+Tue Feb 1 2022,Port Vale,1-1,1-0,Forest Green
+Tue Feb 1 2022,Salford,2-1,0-0,Carlisle
+Tue Feb 1 2022,Swindon,1-1,0-1,Crawley Town
+Tue Feb 1 2022,Tranmere,1-0,0-0,Stevenage
+Sat Feb 5 2022,Harrogate,2-0,0-0,Bradford
+Sat Feb 5 2022,Barrow,1-1,0-1,Tranmere
+Sat Feb 5 2022,Crawley Town,2-2,1-0,Stevenage
+Sat Feb 5 2022,Forest Green,2-0,1-0,Newport County
+Sat Feb 5 2022,Leyton Orient,0-1,0-1,Colchester
+Sat Feb 5 2022,Scunthorpe,0-1,0-0,Oldham
+Sat Feb 5 2022,Sutton,1-1,1-0,Bristol Rvs
+Sat Feb 5 2022,Swindon,1-2,0-0,Exeter
+Sat Feb 5 2022,Walsall,0-1,0-1,Northampton
+Tue Feb 8 2022,Carlisle,1-3,1-2,Port Vale
+Tue Feb 8 2022,Exeter,1-0,0-0,Leyton Orient
+Tue Feb 8 2022,Forest Green,2-1,0-0,Rochdale
+Tue Feb 8 2022,Harrogate,1-3,0-0,Crawley Town
+Tue Feb 8 2022,Hartlepool,3-1,3-1,Barrow
+Tue Feb 8 2022,Mansfield,2-1,1-0,Colchester
+Tue Feb 8 2022,Northampton,1-0,0-0,Newport County
+Tue Feb 8 2022,Oldham,2-1,2-1,Bristol Rvs
+Tue Feb 8 2022,Scunthorpe,1-0,1-0,Walsall
+Tue Feb 8 2022,Stevenage,0-1,0-0,Bradford
+Tue Feb 8 2022,Sutton,0-0,0-0,Salford
+Tue Feb 8 2022,Tranmere,3-0,1-0,Swindon
+Sat Feb 12 2022,Barrow,0-0,0-0,Stevenage
+Sat Feb 12 2022,Bradford,0-1,0-1,Exeter
+Sat Feb 12 2022,Bristol Rvs,0-0,0-0,Mansfield
+Sat Feb 12 2022,Colchester,2-2,0-0,Carlisle
+Sat Feb 12 2022,Crawley Town,0-1,0-1,Hartlepool
+Sat Feb 12 2022,Leyton Orient,0-2,0-0,Salford
+Sat Feb 12 2022,Newport County,3-3,2-1,Oldham
+Sat Feb 12 2022,Port Vale,0-0,0-0,Northampton
+Sat Feb 12 2022,Rochdale,3-3,1-2,Harrogate
+Sat Feb 12 2022,Sutton,1-1,1-0,Forest Green
+Sat Feb 12 2022,Swindon,3-0,0-0,Scunthorpe
+Sat Feb 12 2022,Walsall,1-0,0-0,Tranmere
+Tue Feb 15 2022,Bristol Rvs,2-0,1-0,Sutton
+Tue Feb 15 2022,Exeter,4-3,1-2,Harrogate
+Tue Feb 15 2022,Hartlepool,1-0,1-0,Tranmere
+Sat Feb 19 2022,Northampton,3-0,1-0,Colchester
+Sat Feb 19 2022,Carlisle,0-3,0-1,Swindon
+Sat Feb 19 2022,Forest Green,0-1,0-1,Walsall
+Sat Feb 19 2022,Hartlepool,1-1,0-1,Sutton
+Sat Feb 19 2022,Newport County,1-1,0-0,Mansfield
+Sat Feb 19 2022,Oldham,2-0,2-0,Bradford
+Sat Feb 19 2022,Scunthorpe,1-2,1-0,Rochdale
+Sat Feb 19 2022,Stevenage,0-4,0-1,Bristol Rvs
+Sat Feb 19 2022,Tranmere,1-1,0-0,Port Vale
+Tue Feb 22 2022,Bradford,1-3,1-1,Harrogate
+Tue Feb 22 2022,Colchester,1-2,1-0,Hartlepool
+Tue Feb 22 2022,Leyton Orient,0-2,0-2,Bristol Rvs
+Tue Feb 22 2022,Rochdale,1-1,0-1,Port Vale
+Tue Feb 22 2022,Scunthorpe,0-0,0-0,Northampton
+Tue Feb 22 2022,Swindon,5-0,2-0,Walsall
+Sat Feb 26 2022,Barrow,0-0,0-0,Harrogate
+Sat Feb 26 2022,Bradford,0-2,0-1,Mansfield
+Sat Feb 26 2022,Bristol Rvs,1-1,1-1,Exeter
+Sat Feb 26 2022,Colchester,1-1,0-1,Oldham
+Sat Feb 26 2022,Crawley Town,2-1,2-0,Forest Green
+Sat Feb 26 2022,Leyton Orient,0-1,0-1,Carlisle
+Sat Feb 26 2022,Newport County,4-2,0-0,Tranmere
+Sat Feb 26 2022,Port Vale,2-0,2-0,Stevenage
+Sat Feb 26 2022,Rochdale,1-0,0-0,Northampton
+Sat Feb 26 2022,Sutton,4-1,3-0,Scunthorpe
+Sat Feb 26 2022,Swindon,1-2,0-0,Salford
+Sat Feb 26 2022,Walsall,3-1,2-0,Hartlepool
+Tue Mar 1 2022,Bristol Rvs,1-0,0-0,Barrow
+Tue Mar 1 2022,Carlisle,2-0,1-0,Rochdale
+Tue Mar 1 2022,Colchester,2-2,0-0,Leyton Orient
+Tue Mar 1 2022,Crawley Town,2-2,0-0,Oldham
+Tue Mar 1 2022,Harrogate,1-1,1-0,Port Vale
+Tue Mar 1 2022,Newport County,1-1,1-0,Forest Green
+Tue Mar 1 2022,Northampton,1-1,1-0,Walsall
+Fri Mar 4 2022,Mansfield,2-1,1-0,Exeter
+Sat Mar 5 2022,Harrogate,1-2,1-1,Hartlepool
+Sat Mar 5 2022,Barrow,1-1,1-0,Walsall
+Sat Mar 5 2022,Bradford,1-2,1-1,Swindon
+Sat Mar 5 2022,Colchester,1-0,0-0,Port Vale
+Sat Mar 5 2022,Crawley Town,0-0,0-0,Scunthorpe
+Sat Mar 5 2022,Leyton Orient,2-2,1-2,Stevenage
+Sat Mar 5 2022,Newport County,1-0,1-0,Bristol Rvs
+Sat Mar 5 2022,Northampton,3-2,2-0,Tranmere
+Sat Mar 5 2022,Oldham,1-2,1-0,Carlisle
+Sat Mar 5 2022,Salford,1-1,1-0,Forest Green
+Sat Mar 5 2022,Sutton,3-0,2-0,Rochdale
+Tue Mar 8 2022,Crawley Town,1-2,0-1,Bristol Rvs
+Tue Mar 8 2022,Exeter,3-1,2-0,Swindon
+Fri Mar 11 2022,Tranmere,3-2,1-1,Mansfield
+Sat Mar 12 2022,Bristol Rvs,3-0,2-0,Harrogate
+Sat Mar 12 2022,Carlisle,2-1,0-0,Northampton
+Sat Mar 12 2022,Exeter,0-0,0-0,Salford
+Sat Mar 12 2022,Forest Green,0-2,0-0,Bradford
+Sat Mar 12 2022,Hartlepool,0-0,0-0,Leyton Orient
+Sat Mar 12 2022,Port Vale,4-1,2-1,Crawley Town
+Sat Mar 12 2022,Rochdale,0-0,0-0,Barrow
+Sat Mar 12 2022,Scunthorpe,1-3,1-0,Colchester
+Sat Mar 12 2022,Stevenage,0-2,0-0,Newport County
+Sat Mar 12 2022,Swindon,1-0,0-0,Oldham
+Sat Mar 12 2022,Walsall,1-0,1-0,Sutton
+Tue Mar 15 2022,Bristol Rvs,1-0,0-0,Colchester
+Tue Mar 15 2022,Carlisle,1-2,0-1,Newport County
+Tue Mar 15 2022,Exeter,2-1,2-1,Crawley Town
+Tue Mar 15 2022,Forest Green,1-1,1-0,Leyton Orient
+Tue Mar 15 2022,Hartlepool,0-2,0-0,Bradford
+Tue Mar 15 2022,Port Vale,3-1,1-1,Mansfield
+Tue Mar 15 2022,Rochdale,1-1,1-0,Salford
+Tue Mar 15 2022,Scunthorpe,0-1,0-1,Barrow
+Tue Mar 15 2022,Stevenage,1-2,0-1,Northampton
+Tue Mar 15 2022,Swindon,2-1,1-1,Sutton
+Tue Mar 15 2022,Tranmere,2-0,0-0,Harrogate
+Tue Mar 15 2022,Walsall,2-1,1-1,Oldham
+Fri Mar 18 2022,Newport County,2-3,1-2,Hartlepool
+Sat Mar 19 2022,Barrow,1-2,0-1,Carlisle
+Sat Mar 19 2022,Bradford,1-2,0-0,Port Vale
+Sat Mar 19 2022,Crawley Town,3-1,1-0,Swindon
+Sat Mar 19 2022,Harrogate,1-1,0-0,Walsall
+Sat Mar 19 2022,Leyton Orient,3-1,1-1,Rochdale
+Sat Mar 19 2022,Northampton,0-1,0-1,Bristol Rvs
+Sat Mar 19 2022,Oldham,0-2,0-0,Exeter
+Sat Mar 19 2022,Salford,5-1,2-0,Scunthorpe
+Sat Mar 19 2022,Sutton,1-1,1-0,Tranmere
+Mon Mar 21 2022,Colchester,0-1,0-1,Forest Green
+Tue Mar 22 2022,Harrogate,0-3,0-0,Leyton Orient
+Tue Mar 22 2022,Oldham,1-3,0-1,Sutton
+Tue Mar 22 2022,Port Vale,0-0,0-0,Exeter
+Tue Mar 22 2022,Rochdale,0-1,0-0,Mansfield
+Sat Mar 26 2022,Bradford,0-0,0-0,Newport County
+Sat Mar 26 2022,Carlisle,1-0,0-0,Bristol Rvs
+Sat Mar 26 2022,Colchester,1-0,0-0,Tranmere
+Sat Mar 26 2022,Crawley Town,1-0,1-0,Rochdale
+Sat Mar 26 2022,Exeter,2-1,2-1,Stevenage
+Sat Mar 26 2022,Leyton Orient,2-0,0-0,Barrow
+Sat Mar 26 2022,Northampton,2-0,1-0,Hartlepool
+Sat Mar 26 2022,Oldham,1-2,1-0,Mansfield
+Sat Mar 26 2022,Port Vale,2-0,2-0,Sutton
+Sat Mar 26 2022,Salford,2-1,1-1,Walsall
+Sat Mar 26 2022,Scunthorpe,0-3,0-1,Harrogate
+Tue Mar 29 2022,Hartlepool,2-2,2-2,Mansfield
+Tue Mar 29 2022,Oldham,2-0,1-0,Leyton Orient
+Tue Mar 29 2022,Rochdale,2-0,1-0,Carlisle
+Tue Mar 29 2022,Salford,2-1,1-0,Crawley Town
+Sat Apr 2 2022,Barrow,1-2,1-0,Port Vale
+Sat Apr 2 2022,Bristol Rvs,2-1,0-0,Bradford
+Sat Apr 2 2022,Forest Green,1-0,0-0,Scunthorpe
+Sat Apr 2 2022,Harrogate,1-2,1-2,Colchester
+Sat Apr 2 2022,Hartlepool,0-2,0-2,Salford
+Sat Apr 2 2022,Mansfield,1-0,1-0,Northampton
+Sat Apr 2 2022,Newport County,0-1,0-0,Exeter
+Sat Apr 2 2022,Rochdale,0-0,0-0,Swindon
+Sat Apr 2 2022,Stevenage,0-1,0-1,Oldham
+Sat Apr 2 2022,Tranmere,2-2,1-0,Carlisle
+Sat Apr 2 2022,Walsall,0-2,0-2,Leyton Orient
+Tue Apr 5 2022,Forest Green,1-0,1-0,Mansfield
+Tue Apr 5 2022,Salford,0-1,0-0,Port Vale
+Sat Apr 9 2022,Carlisle,0-1,0-0,Exeter
+Sat Apr 9 2022,Colchester,0-2,0-1,Stevenage
+Sat Apr 9 2022,Crawley Town,1-0,0-0,Barrow
+Sat Apr 9 2022,Forest Green,1-1,0-0,Hartlepool
+Sat Apr 9 2022,Northampton,0-0,0-0,Bradford
+Sat Apr 9 2022,Port Vale,3-2,2-2,Oldham
+Sat Apr 9 2022,Rochdale,1-0,0-0,Walsall
+Sat Apr 9 2022,Salford,2-0,0-0,Harrogate
+Sat Apr 9 2022,Scunthorpe,0-4,0-3,Mansfield
+Sat Apr 9 2022,Sutton,1-0,1-0,Leyton Orient
+Sat Apr 9 2022,Swindon,0-1,0-0,Newport County
+Sat Apr 9 2022,Tranmere,1-1,0-0,Bristol Rvs
+Fri Apr 15 2022,Exeter,2-0,1-0,Colchester
+Fri Apr 15 2022,Barrow,4-0,2-0,Forest Green
+Fri Apr 15 2022,Bradford,1-1,1-0,Tranmere
+Fri Apr 15 2022,Bristol Rvs,1-0,0-0,Salford
+Fri Apr 15 2022,Harrogate,1-4,0-2,Swindon
+Fri Apr 15 2022,Hartlepool,0-1,0-0,Port Vale
+Fri Apr 15 2022,Leyton Orient,3-0,3-0,Scunthorpe
+Fri Apr 15 2022,Mansfield,2-3,0-1,Sutton
+Fri Apr 15 2022,Newport County,1-2,0-2,Crawley Town
+Fri Apr 15 2022,Oldham,0-2,0-1,Northampton
+Fri Apr 15 2022,Stevenage,1-0,0-0,Rochdale
+Fri Apr 15 2022,Walsall,1-0,1-0,Carlisle
+Mon Apr 18 2022,Carlisle,1-0,0-0,Mansfield
+Mon Apr 18 2022,Colchester,3-0,2-0,Bradford
+Mon Apr 18 2022,Crawley Town,1-0,0-0,Walsall
+Mon Apr 18 2022,Forest Green,2-0,2-0,Oldham
+Mon Apr 18 2022,Northampton,3-0,1-0,Harrogate
+Mon Apr 18 2022,Port Vale,1-3,1-2,Bristol Rvs
+Mon Apr 18 2022,Rochdale,2-1,0-1,Hartlepool
+Mon Apr 18 2022,Salford,2-2,1-0,Barrow
+Mon Apr 18 2022,Scunthorpe,1-1,0-0,Stevenage
+Mon Apr 18 2022,Sutton,1-0,1-0,Newport County
+Mon Apr 18 2022,Swindon,1-2,0-1,Leyton Orient
+Mon Apr 18 2022,Tranmere,2-0,1-0,Exeter
+Fri Apr 22 2022,Newport County,1-2,1-0,Colchester
+Sat Apr 23 2022,Barrow,1-0,0-0,Sutton
+Sat Apr 23 2022,Bradford,2-1,2-1,Scunthorpe
+Sat Apr 23 2022,Bristol Rvs,0-0,0-0,Forest Green
+Sat Apr 23 2022,Exeter,2-0,1-0,Rochdale
+Sat Apr 23 2022,Harrogate,3-0,2-0,Carlisle
+Sat Apr 23 2022,Hartlepool,0-3,0-1,Swindon
+Sat Apr 23 2022,Leyton Orient,2-4,1-4,Northampton
+Sat Apr 23 2022,Mansfield,2-0,1-0,Crawley Town
+Sat Apr 23 2022,Oldham,1-2,1-2,Salford
+Sat Apr 23 2022,Stevenage,2-0,1-0,Tranmere
+Sat Apr 23 2022,Walsall,2-0,0-0,Port Vale
+Tue Apr 26 2022,Exeter,2-1,1-1,Barrow
+Tue Apr 26 2022,Mansfield,2-0,0-0,Stevenage
+Tue Apr 26 2022,Sutton,3-0,2-0,Crawley Town
+Tue Apr 26 2022,Swindon,2-1,2-0,Forest Green
+Sat Apr 30 2022,Carlisle,2-1,0-0,Stevenage
+Sat Apr 30 2022,Colchester,2-2,1-1,Walsall
+Sat Apr 30 2022,Crawley Town,0-2,0-1,Leyton Orient
+Sat Apr 30 2022,Forest Green,1-3,1-1,Harrogate
+Sat Apr 30 2022,Northampton,1-1,1-0,Exeter
+Sat Apr 30 2022,Rochdale,3-4,2-0,Bristol Rvs
+Sat Apr 30 2022,Scunthorpe,1-1,0-0,Hartlepool
+Sat Apr 30 2022,Sutton,1-4,0-1,Bradford
+Sat Apr 30 2022,Swindon,2-1,1-0,Barrow
+Sat Apr 30 2022,Tranmere,2-0,1-0,Oldham
+Mon May 2 2022,Salford,2-2,1-2,Mansfield
+Mon May 2 2022,Port Vale,1-2,0-1,Newport County
+Sat May 7 2022,Barrow,1-3,1-3,Northampton
+Sat May 7 2022,Bradford,2-0,1-0,Carlisle
+Sat May 7 2022,Bristol Rvs,7-0,2-0,Scunthorpe
+Sat May 7 2022,Exeter,0-1,0-1,Port Vale
+Sat May 7 2022,Harrogate,0-2,0-1,Sutton
+Sat May 7 2022,Hartlepool,0-2,0-1,Colchester
+Sat May 7 2022,Leyton Orient,0-1,0-1,Tranmere
+Sat May 7 2022,Mansfield,2-2,1-0,Forest Green
+Sat May 7 2022,Newport County,0-2,0-1,Rochdale
+Sat May 7 2022,Oldham,3-3,2-2,Crawley Town
+Sat May 7 2022,Stevenage,4-2,2-1,Salford
+Sat May 7 2022,Walsall,0-3,0-3,Swindon

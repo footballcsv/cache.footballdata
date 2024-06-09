@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 6 2021,Monaco,1-1,1-1,Nantes
+Sat Aug 7 2021,Lyon,1-1,0-1,Brest
+Sat Aug 7 2021,Troyes,1-2,1-2,Paris SG
+Sun Aug 8 2021,Rennes,1-1,1-1,Lens
+Sun Aug 8 2021,Bordeaux,0-2,0-0,Clermont
+Sun Aug 8 2021,Nice,0-0,0-0,Reims
+Sun Aug 8 2021,St Etienne,1-1,0-0,Lorient
+Sun Aug 8 2021,Strasbourg,0-2,0-0,Angers
+Sun Aug 8 2021,Metz,3-3,2-1,Lille
+Sun Aug 8 2021,Montpellier,2-3,2-0,Marseille
+Fri Aug 13 2021,Lorient,1-0,1-0,Monaco
+Sat Aug 14 2021,Lille,0-4,0-3,Nice
+Sat Aug 14 2021,Paris SG,4-2,3-0,Strasbourg
+Sun Aug 15 2021,Angers,3-0,1-0,Lyon
+Sun Aug 15 2021,Brest,1-1,0-0,Rennes
+Sun Aug 15 2021,Clermont,2-0,0-0,Troyes
+Sun Aug 15 2021,Nantes,2-0,1-0,Metz
+Sun Aug 15 2021,Reims,3-3,2-3,Montpellier
+Sun Aug 15 2021,Lens,2-2,1-1,St Etienne
+Sun Aug 15 2021,Marseille,2-2,2-0,Bordeaux
+Fri Aug 20 2021,Brest,2-4,1-2,Paris SG
+Sat Aug 21 2021,Monaco,0-2,0-0,Lens
+Sat Aug 21 2021,St Etienne,1-1,0-1,Lille
+Sun Aug 22 2021,Lyon,3-3,3-1,Clermont
+Sun Aug 22 2021,Bordeaux,1-1,1-1,Angers
+Sun Aug 22 2021,Metz,1-1,1-1,Reims
+Sun Aug 22 2021,Montpellier,3-1,0-1,Lorient
+Sun Aug 22 2021,Strasbourg,1-1,0-1,Troyes
+Sun Aug 22 2021,Rennes,1-0,0-0,Nantes
+Fri Aug 27 2021,Nantes,0-1,0-1,Lyon
+Sat Aug 28 2021,Nice,4-0,3-0,Bordeaux
+Sat Aug 28 2021,Marseille,3-1,1-1,St Etienne
+Sun Aug 29 2021,Troyes,1-2,0-1,Monaco
+Sun Aug 29 2021,Angers,2-0,0-0,Rennes
+Sun Aug 29 2021,Clermont,2-2,1-2,Metz
+Sun Aug 29 2021,Lens,2-2,1-2,Lorient
+Sun Aug 29 2021,Strasbourg,3-1,2-1,Brest
+Sun Aug 29 2021,Lille,2-1,1-1,Montpellier
+Sun Aug 29 2021,Reims,0-2,0-1,Paris SG
+Fri Sep 10 2021,Lorient,2-1,1-1,Lille
+Sat Sep 11 2021,Paris SG,4-0,2-0,Clermont
+Sat Sep 11 2021,Monaco,0-2,0-1,Marseille
+Sun Sep 12 2021,Montpellier,2-0,1-0,St Etienne
+Sun Sep 12 2021,Bordeaux,2-3,0-2,Lens
+Sun Sep 12 2021,Brest,1-1,0-0,Angers
+Sun Sep 12 2021,Metz,0-2,0-0,Troyes
+Sun Sep 12 2021,Rennes,0-2,0-1,Reims
+Sun Sep 12 2021,Nantes,0-2,0-0,Nice
+Sun Sep 12 2021,Lyon,3-1,1-0,Strasbourg
+Fri Sep 17 2021,Strasbourg,3-0,3-0,Metz
+Sat Sep 18 2021,Lens,1-0,0-0,Lille
+Sat Sep 18 2021,St Etienne,1-2,0-1,Bordeaux
+Sun Sep 19 2021,Nice,2-2,0-1,Monaco
+Sun Sep 19 2021,Angers,1-4,1-3,Nantes
+Sun Sep 19 2021,Clermont,1-1,0-0,Brest
+Sun Sep 19 2021,Reims,0-0,0-0,Lorient
+Sun Sep 19 2021,Troyes,1-1,1-0,Montpellier
+Sun Sep 19 2021,Marseille,2-0,0-0,Rennes
+Sun Sep 19 2021,Paris SG,2-1,0-0,Lyon
+Wed Sep 22 2021,Lille,2-1,2-0,Reims
+Wed Sep 22 2021,Monaco,3-1,1-1,St Etienne
+Wed Sep 22 2021,Montpellier,3-3,1-2,Bordeaux
+Wed Sep 22 2021,Nantes,3-1,1-0,Brest
+Wed Sep 22 2021,Rennes,6-0,2-0,Clermont
+Wed Sep 22 2021,Angers,0-0,0-0,Marseille
+Wed Sep 22 2021,Lens,0-1,0-0,Strasbourg
+Wed Sep 22 2021,Lorient,1-0,1-0,Nice
+Wed Sep 22 2021,Lyon,3-1,0-1,Troyes
+Wed Sep 22 2021,Metz,1-2,1-1,Paris SG
+Sat Sep 25 2021,St Etienne,0-3,0-1,Nice
+Sat Sep 25 2021,Strasbourg,1-2,0-1,Lille
+Sat Sep 25 2021,Lyon,1-1,0-1,Lorient
+Sat Sep 25 2021,Paris SG,2-0,1-0,Montpellier
+Sun Sep 26 2021,Bordeaux,1-1,0-0,Rennes
+Sun Sep 26 2021,Brest,1-2,0-1,Metz
+Sun Sep 26 2021,Reims,3-1,0-0,Nantes
+Sun Sep 26 2021,Troyes,1-1,1-0,Angers
+Sun Sep 26 2021,Clermont,1-3,1-1,Monaco
+Sun Sep 26 2021,Marseille,2-3,2-2,Lens
+Fri Oct 1 2021,Lens,2-0,1-0,Reims
+Sat Oct 2 2021,Montpellier,1-1,1-1,Strasbourg
+Sat Oct 2 2021,Nice,2-1,1-0,Brest
+Sun Oct 3 2021,Rennes,2-0,1-0,Paris SG
+Sun Oct 3 2021,Angers,3-2,0-1,Metz
+Sun Oct 3 2021,Lorient,1-1,0-1,Clermont
+Sun Oct 3 2021,Monaco,3-0,1-0,Bordeaux
+Sun Oct 3 2021,Nantes,2-0,0-0,Troyes
+Sun Oct 3 2021,Lille,2-0,1-0,Marseille
+Sun Oct 3 2021,St Etienne,1-1,0-1,Lyon
+Fri Oct 15 2021,Paris SG,2-1,0-1,Angers
+Sat Oct 16 2021,Clermont,1-0,1-0,Lille
+Sat Oct 16 2021,Lyon,2-0,0-0,Monaco
+Sun Oct 17 2021,Troyes,1-0,1-0,Nice
+Sun Oct 17 2021,Bordeaux,1-1,0-0,Nantes
+Sun Oct 17 2021,Brest,1-1,0-1,Reims
+Sun Oct 17 2021,Metz,0-3,0-3,Rennes
+Sun Oct 17 2021,Strasbourg,5-1,2-1,St Etienne
+Sun Oct 17 2021,Montpellier,1-0,0-0,Lens
+Sun Oct 17 2021,Marseille,4-1,1-1,Lorient
+Fri Oct 22 2021,St Etienne,2-2,0-1,Angers
+Sat Oct 23 2021,Nantes,2-1,1-0,Clermont
+Sat Oct 23 2021,Lille,1-1,1-1,Brest
+Sun Oct 24 2021,Nice,3-2,0-1,Lyon
+Sun Oct 24 2021,Lens,4-1,2-1,Metz
+Sun Oct 24 2021,Lorient,1-1,0-0,Bordeaux
+Sun Oct 24 2021,Reims,1-2,1-1,Troyes
+Sun Oct 24 2021,Rennes,1-0,0-0,Strasbourg
+Sun Oct 24 2021,Monaco,3-1,2-0,Montpellier
+Sun Oct 24 2021,Marseille,0-0,0-0,Paris SG
+Wed Oct 27 2021,Nice,1-1,1-1,Marseille
+Fri Oct 29 2021,Paris SG,2-1,0-1,Lille
+Sat Oct 30 2021,Metz,1-1,1-1,St Etienne
+Sat Oct 30 2021,Lyon,2-1,2-0,Lens
+Sun Oct 31 2021,Angers,1-2,1-0,Nice
+Sun Oct 31 2021,Bordeaux,3-2,0-1,Reims
+Sun Oct 31 2021,Montpellier,2-0,0-0,Nantes
+Sun Oct 31 2021,Strasbourg,4-0,3-0,Lorient
+Sun Oct 31 2021,Troyes,2-2,2-1,Rennes
+Sun Oct 31 2021,Brest,2-0,1-0,Monaco
+Sun Oct 31 2021,Clermont,0-1,0-1,Marseille
+Fri Nov 5 2021,Lens,4-0,3-0,Troyes
+Sat Nov 6 2021,Lille,1-1,1-0,Angers
+Sat Nov 6 2021,Bordeaux,2-3,0-2,Paris SG
+Sun Nov 7 2021,Marseille,0-0,0-0,Metz
+Sun Nov 7 2021,Lorient,1-2,1-0,Brest
+Sun Nov 7 2021,Nantes,2-2,1-1,Strasbourg
+Sun Nov 7 2021,Reims,0-0,0-0,Monaco
+Sun Nov 7 2021,St Etienne,3-2,0-0,Clermont
+Sun Nov 7 2021,Nice,0-1,0-0,Montpellier
+Sun Nov 7 2021,Rennes,4-1,1-0,Lyon
+Fri Nov 19 2021,Monaco,2-2,1-2,Lille
+Sat Nov 20 2021,Paris SG,3-1,1-0,Nantes
+Sat Nov 20 2021,Rennes,2-0,2-0,Montpellier
+Sun Nov 21 2021,Brest,4-0,3-0,Lens
+Sun Nov 21 2021,Angers,1-0,0-0,Lorient
+Sun Nov 21 2021,Metz,3-3,1-2,Bordeaux
+Sun Nov 21 2021,Strasbourg,1-1,0-1,Reims
+Sun Nov 21 2021,Troyes,0-1,0-0,St Etienne
+Sun Nov 21 2021,Clermont,1-2,1-0,Nice
+Fri Nov 26 2021,Lens,2-2,0-1,Angers
+Sat Nov 27 2021,Lille,1-1,1-1,Nantes
+Sat Nov 27 2021,Nice,0-1,0-1,Metz
+Sun Nov 28 2021,St Etienne,1-3,1-1,Paris SG
+Sun Nov 28 2021,Bordeaux,1-2,1-0,Brest
+Sun Nov 28 2021,Lorient,0-2,0-0,Rennes
+Sun Nov 28 2021,Monaco,1-1,1-0,Strasbourg
+Sun Nov 28 2021,Reims,1-0,0-0,Clermont
+Sun Nov 28 2021,Montpellier,0-1,0-1,Lyon
+Sun Nov 28 2021,Marseille,1-0,0-0,Troyes
+Wed Dec 1 2021,Angers,1-3,0-2,Monaco
+Wed Dec 1 2021,Brest,1-0,0-0,St Etienne
+Wed Dec 1 2021,Metz,1-3,0-2,Montpellier
+Wed Dec 1 2021,Strasbourg,5-2,3-1,Bordeaux
+Wed Dec 1 2021,Troyes,2-0,2-0,Lorient
+Wed Dec 1 2021,Clermont,2-2,1-1,Lens
+Wed Dec 1 2021,Lyon,1-2,0-0,Reims
+Wed Dec 1 2021,Nantes,0-1,0-1,Marseille
+Wed Dec 1 2021,Paris SG,0-0,0-0,Nice
+Wed Dec 1 2021,Rennes,1-2,0-2,Lille
+Sat Dec 4 2021,Marseille,1-2,1-0,Brest
+Sat Dec 4 2021,Lille,2-1,0-1,Troyes
+Sat Dec 4 2021,Lens,1-1,0-0,Paris SG
+Sun Dec 5 2021,St Etienne,0-5,0-3,Rennes
+Sun Dec 5 2021,Lorient,0-1,0-0,Nantes
+Sun Dec 5 2021,Monaco,4-0,2-0,Metz
+Sun Dec 5 2021,Montpellier,1-0,1-0,Clermont
+Sun Dec 5 2021,Reims,1-2,0-0,Angers
+Sun Dec 5 2021,Nice,0-3,0-1,Strasbourg
+Sun Dec 5 2021,Bordeaux,2-2,1-2,Lyon
+Fri Dec 10 2021,Nantes,3-2,0-2,Lens
+Sat Dec 11 2021,Brest,0-4,0-1,Montpellier
+Sat Dec 11 2021,Reims,2-0,1-0,St Etienne
+Sun Dec 12 2021,Lille,0-0,0-0,Lyon
+Sun Dec 12 2021,Angers,0-1,0-0,Clermont
+Sun Dec 12 2021,Metz,4-1,3-0,Lorient
+Sun Dec 12 2021,Rennes,1-2,0-1,Nice
+Sun Dec 12 2021,Troyes,1-2,1-1,Bordeaux
+Sun Dec 12 2021,Strasbourg,0-2,0-0,Marseille
+Sun Dec 12 2021,Paris SG,2-0,2-0,Monaco
+Wed Dec 22 2021,Bordeaux,2-3,2-1,Lille
+Wed Dec 22 2021,Lorient,1-1,1-0,Paris SG
+Wed Dec 22 2021,Lyon,1-1,0-0,Metz
+Wed Dec 22 2021,Marseille,1-1,0-0,Reims
+Wed Dec 22 2021,Monaco,2-1,1-1,Rennes
+Wed Dec 22 2021,Montpellier,4-1,2-1,Angers
+Wed Dec 22 2021,Nice,2-1,0-1,Lens
+Wed Dec 22 2021,St Etienne,0-1,0-0,Nantes
+Wed Dec 22 2021,Troyes,1-1,0-1,Brest
+Fri Jan 7 2022,Bordeaux,0-1,0-1,Marseille
+Sat Jan 8 2022,Lens,1-0,0-0,Rennes
+Sun Jan 9 2022,Brest,0-3,0-1,Nice
+Sun Jan 9 2022,Clermont,0-0,0-0,Reims
+Sun Jan 9 2022,Metz,0-2,0-0,Strasbourg
+Sun Jan 9 2022,Nantes,0-0,0-0,Monaco
+Sun Jan 9 2022,Lyon,1-1,1-0,Paris SG
+Fri Jan 14 2022,Nice,2-1,1-1,Nantes
+Sat Jan 15 2022,St Etienne,1-2,1-0,Lens
+Sat Jan 15 2022,Paris SG,2-0,1-0,Brest
+Sun Jan 16 2022,Rennes,6-0,2-0,Bordeaux
+Sun Jan 16 2022,Lorient,0-0,0-0,Angers
+Sun Jan 16 2022,Monaco,4-0,1-0,Clermont
+Sun Jan 16 2022,Reims,0-1,0-0,Metz
+Sun Jan 16 2022,Strasbourg,3-1,0-1,Montpellier
+Sun Jan 16 2022,Troyes,0-1,0-1,Lyon
+Sun Jan 16 2022,Marseille,1-1,0-1,Lille
+Wed Jan 19 2022,Clermont,0-2,0-1,Strasbourg
+Wed Jan 19 2022,Lille,3-1,3-0,Lorient
+Wed Jan 19 2022,Montpellier,0-1,0-0,Troyes
+Fri Jan 21 2022,Lyon,1-0,1-0,St Etienne
+Sat Jan 22 2022,Brest,2-0,1-0,Lille
+Sat Jan 22 2022,Lens,0-2,0-1,Marseille
+Sun Jan 23 2022,Metz,0-2,0-0,Nice
+Sun Jan 23 2022,Angers,2-1,2-1,Troyes
+Sun Jan 23 2022,Bordeaux,4-3,3-1,Strasbourg
+Sun Jan 23 2022,Clermont,2-1,0-1,Rennes
+Sun Jan 23 2022,Nantes,4-2,1-0,Lorient
+Sun Jan 23 2022,Montpellier,3-2,2-1,Monaco
+Sun Jan 23 2022,Paris SG,4-0,1-0,Reims
+Wed Jan 26 2022,Angers,0-1,0-1,St Etienne
+Tue Feb 1 2022,Lyon,2-1,0-1,Marseille
+Fri Feb 4 2022,Marseille,5-2,2-2,Angers
+Sat Feb 5 2022,St Etienne,3-1,0-1,Montpellier
+Sat Feb 5 2022,Monaco,2-0,2-0,Lyon
+Sun Feb 6 2022,Lorient,2-0,1-0,Lens
+Sun Feb 6 2022,Nice,0-1,0-0,Clermont
+Sun Feb 6 2022,Reims,5-0,1-0,Bordeaux
+Sun Feb 6 2022,Strasbourg,1-0,0-0,Nantes
+Sun Feb 6 2022,Troyes,0-0,0-0,Metz
+Sun Feb 6 2022,Rennes,2-0,1-0,Brest
+Sun Feb 6 2022,Lille,1-5,1-3,Paris SG
+Fri Feb 11 2022,Paris SG,1-0,0-0,Rennes
+Sat Feb 12 2022,Montpellier,0-1,0-0,Lille
+Sat Feb 12 2022,Lyon,2-0,1-0,Nice
+Sun Feb 13 2022,Monaco,0-0,0-0,Lorient
+Sun Feb 13 2022,Angers,0-1,0-1,Strasbourg
+Sun Feb 13 2022,Brest,5-1,2-1,Troyes
+Sun Feb 13 2022,Clermont,1-2,1-0,St Etienne
+Sun Feb 13 2022,Nantes,1-0,1-0,Reims
+Sun Feb 13 2022,Lens,3-2,3-1,Bordeaux
+Sun Feb 13 2022,Metz,1-2,0-1,Marseille
+Fri Feb 18 2022,Lille,0-0,0-0,Metz
+Sat Feb 19 2022,Lens,1-1,1-1,Lyon
+Sat Feb 19 2022,Nantes,3-1,3-0,Paris SG
+Sun Feb 20 2022,Nice,1-0,1-0,Angers
+Sun Feb 20 2022,Lorient,0-1,0-0,Montpellier
+Sun Feb 20 2022,Reims,1-1,1-1,Brest
+Sun Feb 20 2022,Rennes,4-1,2-1,Troyes
+Sun Feb 20 2022,St Etienne,2-2,2-2,Strasbourg
+Sun Feb 20 2022,Bordeaux,1-1,1-0,Monaco
+Sun Feb 20 2022,Marseille,0-2,0-1,Clermont
+Fri Feb 25 2022,Montpellier,2-4,2-2,Rennes
+Sat Feb 26 2022,Strasbourg,0-0,0-0,Nice
+Sat Feb 26 2022,Paris SG,3-1,1-1,St Etienne
+Sun Feb 27 2022,Monaco,1-2,0-0,Reims
+Sun Feb 27 2022,Angers,1-2,0-0,Lens
+Sun Feb 27 2022,Brest,0-1,0-0,Lorient
+Sun Feb 27 2022,Clermont,1-1,1-1,Bordeaux
+Sun Feb 27 2022,Metz,0-0,0-0,Nantes
+Sun Feb 27 2022,Troyes,1-1,0-1,Marseille
+Sun Feb 27 2022,Lyon,0-1,0-1,Lille
+Fri Mar 4 2022,Lorient,1-4,0-2,Lyon
+Sat Mar 5 2022,Lens,0-1,0-0,Brest
+Sat Mar 5 2022,Nice,1-0,0-0,Paris SG
+Sun Mar 6 2022,St Etienne,1-0,0-0,Metz
+Sun Mar 6 2022,Bordeaux,0-2,0-1,Troyes
+Sun Mar 6 2022,Nantes,2-0,0-0,Montpellier
+Sun Mar 6 2022,Reims,1-1,0-0,Strasbourg
+Sun Mar 6 2022,Rennes,2-0,1-0,Angers
+Sun Mar 6 2022,Lille,4-0,1-0,Clermont
+Sun Mar 6 2022,Marseille,0-1,0-0,Monaco
+Fri Mar 11 2022,Lille,0-0,0-0,St Etienne
+Sat Mar 12 2022,Montpellier,0-0,0-0,Nice
+Sat Mar 12 2022,Troyes,1-0,1-0,Nantes
+Sun Mar 13 2022,Paris SG,3-0,1-0,Bordeaux
+Sun Mar 13 2022,Angers,0-1,0-1,Reims
+Sun Mar 13 2022,Clermont,0-2,0-0,Lorient
+Sun Mar 13 2022,Metz,0-0,0-0,Lens
+Sun Mar 13 2022,Strasbourg,1-0,1-0,Monaco
+Sun Mar 13 2022,Lyon,2-4,0-3,Rennes
+Sun Mar 13 2022,Brest,1-4,0-1,Marseille
+Fri Mar 18 2022,St Etienne,1-1,0-1,Troyes
+Sat Mar 19 2022,Lens,3-1,2-1,Clermont
+Sat Mar 19 2022,Nantes,0-1,0-1,Lille
+Sun Mar 20 2022,Monaco,3-0,1-0,Paris SG
+Sun Mar 20 2022,Angers,1-0,1-0,Brest
+Sun Mar 20 2022,Bordeaux,0-2,0-2,Montpellier
+Sun Mar 20 2022,Lorient,0-0,0-0,Strasbourg
+Sun Mar 20 2022,Rennes,6-1,3-0,Metz
+Sun Mar 20 2022,Reims,0-0,0-0,Lyon
+Sun Mar 20 2022,Marseille,2-1,1-0,Nice
+Sat Apr 2 2022,Nice,1-1,0-0,Rennes
+Sat Apr 2 2022,Lille,0-0,0-0,Bordeaux
+Sun Apr 3 2022,Strasbourg,1-0,0-0,Lens
+Sun Apr 3 2022,Clermont,2-3,0-1,Nantes
+Sun Apr 3 2022,Metz,1-2,0-0,Monaco
+Sun Apr 3 2022,Montpellier,1-2,0-0,Brest
+Sun Apr 3 2022,St Etienne,2-4,1-1,Marseille
+Sun Apr 3 2022,Troyes,1-0,0-0,Reims
+Sun Apr 3 2022,Lyon,3-2,1-0,Angers
+Sun Apr 3 2022,Paris SG,5-1,2-0,Lorient
+Fri Apr 8 2022,Lorient,6-2,2-2,St Etienne
+Sat Apr 9 2022,Reims,2-3,0-2,Rennes
+Sat Apr 9 2022,Clermont,1-6,1-2,Paris SG
+Sun Apr 10 2022,Bordeaux,3-1,0-1,Metz
+Sun Apr 10 2022,Angers,1-1,0-0,Lille
+Sun Apr 10 2022,Brest,1-1,0-1,Nantes
+Sun Apr 10 2022,Monaco,2-1,1-1,Troyes
+Sun Apr 10 2022,Lens,3-0,0-0,Nice
+Sun Apr 10 2022,Strasbourg,1-1,1-0,Lyon
+Sun Apr 10 2022,Marseille,2-0,2-0,Montpellier
+Fri Apr 15 2022,Rennes,2-3,1-1,Monaco
+Sat Apr 16 2022,St Etienne,2-1,2-1,Brest
+Sat Apr 16 2022,Lille,1-2,1-2,Lens
+Sun Apr 17 2022,Nice,2-1,0-0,Lorient
+Sun Apr 17 2022,Metz,1-1,1-1,Clermont
+Sun Apr 17 2022,Montpellier,0-0,0-0,Reims
+Sun Apr 17 2022,Nantes,1-1,0-1,Angers
+Sun Apr 17 2022,Troyes,1-1,0-0,Strasbourg
+Sun Apr 17 2022,Lyon,6-1,3-0,Bordeaux
+Sun Apr 17 2022,Paris SG,2-1,2-1,Marseille
+Wed Apr 20 2022,Bordeaux,2-2,2-1,St Etienne
+Wed Apr 20 2022,Lorient,1-0,0-0,Metz
+Wed Apr 20 2022,Monaco,1-0,1-0,Nice
+Wed Apr 20 2022,Reims,2-1,1-0,Lille
+Wed Apr 20 2022,Troyes,0-1,0-0,Clermont
+Wed Apr 20 2022,Angers,0-3,0-2,Paris SG
+Wed Apr 20 2022,Brest,2-1,1-0,Lyon
+Wed Apr 20 2022,Lens,2-0,1-0,Montpellier
+Wed Apr 20 2022,Marseille,3-2,1-2,Nantes
+Wed Apr 20 2022,Strasbourg,2-1,1-0,Rennes
+Sat Apr 23 2022,Lyon,5-2,2-2,Montpellier
+Sat Apr 23 2022,St Etienne,1-4,1-2,Monaco
+Sat Apr 23 2022,Paris SG,1-1,0-0,Lens
+Sun Apr 24 2022,Rennes,5-0,2-0,Lorient
+Sun Apr 24 2022,Clermont,2-2,0-2,Angers
+Sun Apr 24 2022,Metz,0-1,0-1,Brest
+Sun Apr 24 2022,Nantes,5-3,0-2,Bordeaux
+Sun Apr 24 2022,Nice,1-0,0-0,Troyes
+Sun Apr 24 2022,Lille,1-0,0-0,Strasbourg
+Sun Apr 24 2022,Reims,0-1,0-0,Marseille
+Fri Apr 29 2022,Strasbourg,3-3,1-1,Paris SG
+Sat Apr 30 2022,Lens,2-2,0-2,Nantes
+Sat Apr 30 2022,Rennes,2-0,1-0,St Etienne
+Sun May 1 2022,Troyes,3-0,1-0,Lille
+Sun May 1 2022,Brest,2-0,0-0,Clermont
+Sun May 1 2022,Lorient,1-2,1-1,Reims
+Sun May 1 2022,Monaco,2-0,1-0,Angers
+Sun May 1 2022,Montpellier,2-2,0-1,Metz
+Sun May 1 2022,Bordeaux,0-1,0-0,Nice
+Sun May 1 2022,Marseille,0-3,0-0,Lyon
+Fri May 6 2022,Lille,1-2,0-1,Monaco
+Sat May 7 2022,Brest,0-1,0-0,Strasbourg
+Sun May 8 2022,Metz,3-2,2-1,Lyon
+Sun May 8 2022,Angers,4-1,2-0,Bordeaux
+Sun May 8 2022,Clermont,2-1,1-1,Montpellier
+Sun May 8 2022,Reims,1-2,1-0,Lens
+Sun May 8 2022,Lorient,0-3,0-1,Marseille
+Sun May 8 2022,Paris SG,2-2,2-1,Troyes
+Wed May 11 2022,Nice,4-2,0-2,St Etienne
+Wed May 11 2022,Nantes,2-1,1-1,Rennes
+Sat May 14 2022,Bordeaux,0-0,0-0,Lorient
+Sat May 14 2022,Lyon,3-2,1-0,Nantes
+Sat May 14 2022,Metz,1-0,0-0,Angers
+Sat May 14 2022,Monaco,4-2,1-2,Brest
+Sat May 14 2022,Montpellier,0-4,0-3,Paris SG
+Sat May 14 2022,Nice,1-3,1-0,Lille
+Sat May 14 2022,Rennes,2-0,2-0,Marseille
+Sat May 14 2022,St Etienne,1-2,1-1,Reims
+Sat May 14 2022,Strasbourg,1-0,1-0,Clermont
+Sat May 14 2022,Troyes,1-3,1-2,Lens
+Sat May 21 2022,Angers,2-0,1-0,Montpellier
+Sat May 21 2022,Brest,2-4,2-2,Bordeaux
+Sat May 21 2022,Clermont,1-2,0-1,Lyon
+Sat May 21 2022,Lens,2-2,1-1,Monaco
+Sat May 21 2022,Lille,2-2,1-1,Rennes
+Sat May 21 2022,Lorient,1-1,0-1,Troyes
+Sat May 21 2022,Marseille,4-0,1-0,Strasbourg
+Sat May 21 2022,Nantes,1-1,1-0,St Etienne
+Sat May 21 2022,Paris SG,5-0,3-0,Metz
+Sat May 21 2022,Reims,2-3,2-0,Nice

@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jun 3 2022,Guangzhou FC,0-1,?,Shanghai Shenhua
+Fri Jun 3 2022,Hebei,0-4,?,Wuhan Three Towns
+Fri Jun 3 2022,Shandong Taishan,1-0,?,Zhejiang Professional
+Sat Jun 4 2022,Shanghai Port,0-1,?,Wuhan FC
+Sat Jun 4 2022,Shenzhen,2-0,?,Chengdu Rongcheng
+Sat Jun 4 2022,Changchun Yatai,4-1,?,Guangzhou City
+Sat Jun 4 2022,Meizhou Hakka,1-1,?,Tianjin Jinmen Tiger
+Sat Jun 4 2022,Henan Songshan Longmen,2-2,?,Dalian Pro
+Sun Jun 5 2022,Beijing Guoan,1-2,?,Cangzhou
+Tue Jun 7 2022,Wuhan Three Towns,6-0,?,Guangzhou FC
+Tue Jun 7 2022,Wuhan FC,2-1,?,Hebei
+Tue Jun 7 2022,Zhejiang Professional,0-0,?,Changchun Yatai
+Wed Jun 8 2022,Henan Songshan Longmen,4-1,?,Shandong Taishan
+Wed Jun 8 2022,Chengdu Rongcheng,2-3,?,Beijing Guoan
+Wed Jun 8 2022,Dalian Pro,2-0,?,Guangzhou City
+Wed Jun 8 2022,Shanghai Shenhua,2-0,?,Shanghai Port
+Thu Jun 9 2022,Cangzhou,1-1,?,Meizhou Hakka
+Thu Jun 9 2022,Tianjin Jinmen Tiger,1-2,?,Shenzhen
+Sat Jun 11 2022,Guangzhou FC,0-1,?,Wuhan FC
+Sat Jun 11 2022,Hebei,0-2,?,Shanghai Port
+Sat Jun 11 2022,Henan Songshan Longmen,3-1,?,Zhejiang Professional
+Sun Jun 12 2022,Guangzhou City,0-1,?,Shandong Taishan
+Sun Jun 12 2022,Cangzhou,0-0,?,Chengdu Rongcheng
+Sun Jun 12 2022,Changchun Yatai,1-1,?,Dalian Pro
+Sun Jun 12 2022,Shanghai Shenhua,1-1,?,Wuhan Three Towns
+Mon Jun 13 2022,Beijing Guoan,1-0,?,Tianjin Jinmen Tiger
+Mon Jun 13 2022,Shenzhen,1-2,?,Meizhou Hakka
+Wed Jun 15 2022,Shanghai Port,1-0,?,Guangzhou FC
+Wed Jun 15 2022,Guangzhou City,0-3,?,Henan Songshan Longmen
+Wed Jun 15 2022,Wuhan FC,1-3,?,Wuhan Three Towns
+Thu Jun 16 2022,Hebei,1-3,?,Shanghai Shenhua
+Thu Jun 16 2022,Tianjin Jinmen Tiger,1-1,?,Chengdu Rongcheng
+Thu Jun 16 2022,Dalian Pro,1-1,?,Zhejiang Professional
+Thu Jun 16 2022,Shandong Taishan,4-0,?,Changchun Yatai
+Fri Jun 17 2022,Shenzhen,1-0,?,Cangzhou
+Fri Jun 17 2022,Meizhou Hakka,2-2,?,Beijing Guoan
+Sun Jun 19 2022,Wuhan Three Towns,2-1,?,Shanghai Port
+Sun Jun 19 2022,Guangzhou FC,1-0,?,Hebei
+Mon Jun 20 2022,Changchun Yatai,0-0,?,Henan Songshan Longmen
+Mon Jun 20 2022,Chengdu Rongcheng,0-0,?,Meizhou Hakka
+Mon Jun 20 2022,Guangzhou City,2-4,?,Zhejiang Professional
+Mon Jun 20 2022,Shanghai Shenhua,2-0,?,Wuhan FC
+Tue Jun 21 2022,Beijing Guoan,4-1,?,Shenzhen
+Tue Jun 21 2022,Cangzhou,0-2,?,Tianjin Jinmen Tiger
+Tue Jun 21 2022,Shandong Taishan,3-0,?,Dalian Pro
+Fri Jun 24 2022,Guangzhou City,1-3,?,Changchun Yatai
+Fri Jun 24 2022,Dalian Pro,0-2,?,Henan Songshan Longmen
+Sat Jun 25 2022,Cangzhou,1-1,?,Beijing Guoan
+Sat Jun 25 2022,Tianjin Jinmen Tiger,1-0,?,Meizhou Hakka
+Sat Jun 25 2022,Wuhan FC,1-2,?,Shanghai Port
+Sat Jun 25 2022,Zhejiang Professional,2-0,?,Shandong Taishan
+Sun Jun 26 2022,Wuhan Three Towns,5-0,?,Hebei
+Sun Jun 26 2022,Shanghai Shenhua,2-1,?,Guangzhou FC
+Sun Jun 26 2022,Chengdu Rongcheng,2-2,?,Shenzhen
+Tue Jun 28 2022,Shandong Taishan,2-0,?,Henan Songshan Longmen
+Tue Jun 28 2022,Guangzhou City,0-3,?,Dalian Pro
+Wed Jun 29 2022,Shanghai Port,1-1,?,Shanghai Shenhua
+Wed Jun 29 2022,Meizhou Hakka,4-1,?,Cangzhou
+Wed Jun 29 2022,Shenzhen,2-3,?,Tianjin Jinmen Tiger
+Wed Jun 29 2022,Changchun Yatai,1-1,?,Zhejiang Professional
+Thu Jun 30 2022,Guangzhou FC,1-2,?,Wuhan Three Towns
+Thu Jun 30 2022,Beijing Guoan,0-0,?,Chengdu Rongcheng
+Thu Jun 30 2022,Hebei,2-1,?,Wuhan FC
+Sun Jul 3 2022,Meizhou Hakka,1-0,?,Shenzhen
+Sun Jul 3 2022,Dalian Pro,2-2,?,Changchun Yatai
+Sun Jul 3 2022,Tianjin Jinmen Tiger,1-2,?,Beijing Guoan
+Sun Jul 3 2022,Shandong Taishan,2-0,?,Guangzhou City
+Sun Jul 3 2022,Wuhan Three Towns,4-2,?,Shanghai Shenhua
+Sun Jul 3 2022,Zhejiang Professional,0-1,?,Henan Songshan Longmen
+Mon Jul 4 2022,Wuhan FC,2-1,?,Guangzhou FC
+Mon Jul 4 2022,Shanghai Port,2-1,?,Hebei
+Mon Jul 4 2022,Chengdu Rongcheng,1-1,?,Cangzhou
+Wed Jul 6 2022,Zhejiang Professional,2-0,?,Dalian Pro
+Wed Jul 6 2022,Changchun Yatai,1-2,?,Shandong Taishan
+Thu Jul 7 2022,Beijing Guoan,0-0,?,Meizhou Hakka
+Thu Jul 7 2022,Shanghai Shenhua,1-0,?,Hebei
+Thu Jul 7 2022,Cangzhou,1-2,?,Shenzhen
+Thu Jul 7 2022,Henan Songshan Longmen,2-1,?,Guangzhou City
+Fri Jul 8 2022,Chengdu Rongcheng,2-1,?,Tianjin Jinmen Tiger
+Fri Jul 8 2022,Wuhan Three Towns,5-0,?,Wuhan FC
+Fri Jul 8 2022,Guangzhou FC,0-1,?,Shanghai Port
+Sun Jul 10 2022,Dalian Pro,1-3,?,Shandong Taishan
+Sun Jul 10 2022,Zhejiang Professional,2-0,?,Guangzhou City
+Mon Jul 11 2022,Meizhou Hakka,1-2,?,Chengdu Rongcheng
+Mon Jul 11 2022,Hebei,0-1,?,Guangzhou FC
+Mon Jul 11 2022,Henan Songshan Longmen,6-2,?,Changchun Yatai
+Mon Jul 11 2022,Shenzhen,2-1,?,Beijing Guoan
+Tue Jul 12 2022,Wuhan FC,2-2,?,Shanghai Shenhua
+Tue Jul 12 2022,Shanghai Port,0-1,?,Wuhan Three Towns
+Tue Jul 12 2022,Tianjin Jinmen Tiger,3-0,?,Cangzhou
+Fri Aug 5 2022,Shanghai Shenhua,0-0,?,Changchun Yatai
+Fri Aug 5 2022,Hebei,0-1,?,Chengdu Rongcheng
+Fri Aug 5 2022,Shenzhen,0-2,?,Zhejiang Professional
+Sat Aug 6 2022,Dalian Pro,1-1,?,Shanghai Port
+Sat Aug 6 2022,Guangzhou City,0-3,?,Wuhan Three Towns
+Sat Aug 6 2022,Tianjin Jinmen Tiger,0-1,?,Shandong Taishan
+Sun Aug 7 2022,Henan Songshan Longmen,3-0,?,Beijing Guoan
+Sun Aug 7 2022,Meizhou Hakka,2-1,?,Wuhan FC
+Sun Aug 7 2022,Cangzhou,2-0,?,Guangzhou FC
+Thu Aug 11 2022,Hebei,3-4,?,Tianjin Jinmen Tiger
+Fri Aug 12 2022,Wuhan Three Towns,5-1,?,Beijing Guoan
+Fri Aug 12 2022,Cangzhou,0-2,?,Shandong Taishan
+Fri Aug 12 2022,Guangzhou FC,1-2,?,Chengdu Rongcheng
+Sat Aug 13 2022,Henan Songshan Longmen,0-1,?,Meizhou Hakka
+Sat Aug 13 2022,Guangzhou City,0-5,?,Wuhan FC
+Mon Aug 15 2022,Hebei,0-7,?,Shandong Taishan
+Mon Aug 15 2022,Tianjin Jinmen Tiger,2-2,?,Changchun Yatai
+Tue Aug 16 2022,Shanghai Port,2-0,?,Shenzhen
+Wed Aug 17 2022,Shanghai Shenhua,0-2,?,Chengdu Rongcheng
+Wed Aug 17 2022,Henan Songshan Longmen,0-3,?,Wuhan Three Towns
+Wed Aug 17 2022,Meizhou Hakka,2-1,?,Guangzhou City
+Wed Aug 17 2022,Wuhan FC,1-4,?,Beijing Guoan
+Thu Aug 18 2022,Dalian Pro,2-0,?,Cangzhou
+Fri Aug 19 2022,Hebei,1-7,?,Changchun Yatai
+Sat Aug 20 2022,Shanghai Port,1-1,?,Zhejiang Professional
+Sun Aug 21 2022,Shandong Taishan,2-1,?,Chengdu Rongcheng
+Sun Aug 21 2022,Wuhan FC,2-2,?,Henan Songshan Longmen
+Sun Aug 21 2022,Guangzhou FC,4-1,?,Shenzhen
+Sun Aug 21 2022,Shanghai Shenhua,1-1,?,Tianjin Jinmen Tiger
+Mon Aug 22 2022,Beijing Guoan,1-0,?,Guangzhou City
+Mon Aug 22 2022,Meizhou Hakka,1-2,?,Wuhan Three Towns
+Wed Aug 24 2022,Cangzhou,1-1,?,Zhejiang Professional
+Wed Aug 24 2022,Guangzhou FC,0-0,?,Dalian Pro
+Fri Aug 26 2022,Beijing Guoan,0-2,?,Shanghai Shenhua
+Sat Aug 27 2022,Shanghai Port,1-0,?,Tianjin Jinmen Tiger
+Sat Aug 27 2022,Guangzhou City,1-2,?,Chengdu Rongcheng
+Sat Aug 27 2022,Wuhan FC,1-2,?,Shandong Taishan
+Sun Aug 28 2022,Cangzhou,1-2,?,Changchun Yatai
+Sun Aug 28 2022,Henan Songshan Longmen,2-1,?,Guangzhou FC
+Sun Aug 28 2022,Meizhou Hakka,4-2,?,Dalian Pro
+Sun Aug 28 2022,Wuhan Three Towns,5-1,?,Shenzhen
+Sun Aug 28 2022,Zhejiang Professional,3-0,?,Hebei
+Wed Aug 31 2022,Shanghai Shenhua,2-1,?,Shandong Taishan
+Thu Sep 1 2022,Cangzhou,0-0,?,Shanghai Port
+Thu Sep 1 2022,Changchun Yatai,0-1,?,Chengdu Rongcheng
+Thu Sep 1 2022,Dalian Pro,5-1,?,Shenzhen
+Thu Sep 1 2022,Zhejiang Professional,3-0,?,Guangzhou FC
+Sat Sep 3 2022,Guangzhou City,2-0,?,Tianjin Jinmen Tiger
+Tue Sep 6 2022,Beijing Guoan,2-2,?,Zhejiang Professional
+Fri Sep 9 2022,Guangzhou FC,0-0,?,Tianjin Jinmen Tiger
+Sat Sep 10 2022,Meizhou Hakka,6-0,?,Hebei
+Sat Sep 10 2022,Zhejiang Professional,1-1,?,Shanghai Shenhua
+Tue Sep 13 2022,Guangzhou City,1-0,?,Guangzhou FC
+Wed Sep 14 2022,Beijing Guoan,3-1,?,Hebei
+Wed Sep 14 2022,Henan Songshan Longmen,0-1,?,Tianjin Jinmen Tiger
+Wed Sep 14 2022,Meizhou Hakka,0-0,?,Zhejiang Professional
+Wed Sep 14 2022,Shandong Taishan,1-1,?,Wuhan Three Towns
+Tue Sep 20 2022,Changchun Yatai,1-2,?,Wuhan Three Towns
+Tue Sep 20 2022,Shanghai Shenhua,1-0,?,Meizhou Hakka
+Tue Sep 20 2022,Dalian Pro,2-1,?,Hebei
+Tue Sep 20 2022,Henan Songshan Longmen,1-2,?,Shanghai Port
+Tue Sep 20 2022,Wuhan FC,0-3,?,Shenzhen
+Sat Sep 24 2022,Changchun Yatai,2-0,?,Wuhan FC
+Sat Sep 24 2022,Dalian Pro,2-2,?,Beijing Guoan
+Sat Sep 24 2022,Wuhan Three Towns,3-4,?,Cangzhou
+Sat Sep 24 2022,Shenzhen,0-4,?,Shandong Taishan
+Sun Sep 25 2022,Shanghai Port,2-0,?,Guangzhou City
+Sun Sep 25 2022,Chengdu Rongcheng,0-0,?,Henan Songshan Longmen
+Thu Sep 29 2022,Shanghai Port,3-0,?,Chengdu Rongcheng
+Thu Sep 29 2022,Dalian Pro,1-2,?,Shanghai Shenhua
+Thu Sep 29 2022,Wuhan FC,1-4,?,Cangzhou
+Fri Sep 30 2022,Changchun Yatai,1-0,?,Shenzhen
+Tue Oct 4 2022,Hebei,0-5,?,Cangzhou
+Tue Oct 4 2022,Dalian Pro,0-2,?,Tianjin Jinmen Tiger
+Tue Oct 4 2022,Guangzhou City,1-1,?,Shenzhen
+Tue Oct 4 2022,Shanghai Shenhua,1-0,?,Henan Songshan Longmen
+Tue Oct 4 2022,Zhejiang Professional,2-1,?,Wuhan Three Towns
+Wed Oct 5 2022,Changchun Yatai,0-0,?,Guangzhou FC
+Wed Oct 5 2022,Meizhou Hakka,1-2,?,Shandong Taishan
+Wed Oct 5 2022,Shanghai Port,0-1,?,Beijing Guoan
+Wed Oct 5 2022,Wuhan FC,0-1,?,Chengdu Rongcheng
+Sat Oct 8 2022,Henan Songshan Longmen,1-0,?,Hebei
+Sat Oct 8 2022,Cangzhou,0-0,?,Guangzhou City
+Sat Oct 8 2022,Tianjin Jinmen Tiger,0-1,?,Wuhan Three Towns
+Sun Oct 9 2022,Changchun Yatai,1-4,?,Shanghai Port
+Sun Oct 9 2022,Beijing Guoan,3-3,?,Shandong Taishan
+Sun Oct 9 2022,Dalian Pro,2-0,?,Chengdu Rongcheng
+Sun Oct 9 2022,Guangzhou FC,1-3,?,Meizhou Hakka
+Sun Oct 9 2022,Wuhan FC,0-3,?,Zhejiang Professional
+Sun Oct 9 2022,Shenzhen,0-0,?,Shanghai Shenhua
+Mon Oct 24 2022,Chengdu Rongcheng,1-1,?,Zhejiang Professional
+Mon Oct 24 2022,Henan Songshan Longmen,3-0,?,Cangzhou
+Mon Oct 24 2022,Changchun Yatai,0-1,?,Beijing Guoan
+Mon Oct 24 2022,Shanghai Port,7-0,?,Meizhou Hakka
+Mon Oct 24 2022,Shandong Taishan,3-0,?,Guangzhou FC
+Mon Oct 24 2022,Shenzhen,2-1,?,Hebei
+Mon Oct 24 2022,Tianjin Jinmen Tiger,3-1,?,Wuhan FC
+Tue Oct 25 2022,Shanghai Shenhua,1-1,?,Guangzhou City
+Tue Oct 25 2022,Wuhan Three Towns,4-0,?,Dalian Pro
+Sat Oct 29 2022,Hebei,0-4,?,Guangzhou City
+Sat Oct 29 2022,Changchun Yatai,1-0,?,Meizhou Hakka
+Sat Oct 29 2022,Shanghai Shenhua,1-2,?,Cangzhou
+Sat Oct 29 2022,Shenzhen,0-2,?,Henan Songshan Longmen
+Sat Oct 29 2022,Beijing Guoan,4-1,?,Guangzhou FC
+Sat Oct 29 2022,Wuhan Three Towns,0-1,?,Chengdu Rongcheng
+Sat Oct 29 2022,Tianjin Jinmen Tiger,1-2,?,Zhejiang Professional
+Sun Oct 30 2022,Dalian Pro,2-1,?,Wuhan FC
+Sun Oct 30 2022,Shandong Taishan,3-1,?,Shanghai Port
+Thu Nov 3 2022,Changchun Yatai,0-0,?,Shanghai Shenhua
+Thu Nov 3 2022,Shandong Taishan,4-1,?,Tianjin Jinmen Tiger
+Thu Nov 3 2022,Zhejiang Professional,0-2,?,Shenzhen
+Thu Nov 3 2022,Chengdu Rongcheng,6-0,?,Hebei
+Thu Nov 3 2022,Wuhan Three Towns,4-1,?,Guangzhou City
+Fri Nov 4 2022,Shanghai Port,2-1,?,Dalian Pro
+Fri Nov 4 2022,Guangzhou FC,3-3,?,Cangzhou
+Fri Nov 4 2022,Beijing Guoan,2-1,?,Henan Songshan Longmen
+Fri Nov 4 2022,Wuhan FC,0-0,?,Meizhou Hakka
+Mon Nov 7 2022,Shandong Taishan,2-0,?,Shanghai Shenhua
+Mon Nov 7 2022,Tianjin Jinmen Tiger,5-0,?,Hebei
+Mon Nov 7 2022,Chengdu Rongcheng,2-2,?,Changchun Yatai
+Tue Nov 8 2022,Guangzhou FC,1-5,?,Zhejiang Professional
+Tue Nov 8 2022,Wuhan FC,2-1,?,Guangzhou City
+Tue Nov 8 2022,Shanghai Port,2-0,?,Cangzhou
+Tue Nov 8 2022,Beijing Guoan,0-2,?,Wuhan Three Towns
+Tue Nov 8 2022,Meizhou Hakka,3-2,?,Henan Songshan Longmen
+Tue Nov 8 2022,Shenzhen,0-2,?,Dalian Pro
+Sat Nov 12 2022,Shandong Taishan,4-0,?,Hebei
+Sat Nov 12 2022,Changchun Yatai,2-3,?,Tianjin Jinmen Tiger
+Sat Nov 12 2022,Chengdu Rongcheng,3-2,?,Shanghai Shenhua
+Sat Nov 12 2022,Guangzhou City,0-1,?,Meizhou Hakka
+Sun Nov 13 2022,Dalian Pro,1-1,?,Guangzhou FC
+Sun Nov 13 2022,Shenzhen,0-3,?,Shanghai Port
+Sun Nov 13 2022,Beijing Guoan,3-1,?,Wuhan FC
+Sun Nov 13 2022,Wuhan Three Towns,1-3,?,Henan Songshan Longmen
+Sun Nov 13 2022,Zhejiang Professional,3-3,?,Cangzhou
+Mon Nov 21 2022,Changchun Yatai,4-1,?,Hebei
+Mon Nov 21 2022,Tianjin Jinmen Tiger,2-1,?,Shanghai Shenhua
+Mon Nov 21 2022,Chengdu Rongcheng,2-1,?,Shandong Taishan
+Mon Nov 21 2022,Guangzhou City,1-2,?,Beijing Guoan
+Mon Nov 21 2022,Wuhan Three Towns,3-0,?,Meizhou Hakka
+Tue Nov 22 2022,Cangzhou,1-1,?,Dalian Pro
+Tue Nov 22 2022,Henan Songshan Longmen,3-0,?,Wuhan FC
+Tue Nov 22 2022,Shenzhen,2-1,?,Guangzhou FC
+Tue Nov 22 2022,Zhejiang Professional,2-1,?,Shanghai Port
+Fri Nov 25 2022,Chengdu Rongcheng,3-0,?,Guangzhou City
+Fri Nov 25 2022,Shanghai Shenhua,1-2,?,Beijing Guoan
+Sat Nov 26 2022,Changchun Yatai,0-2,?,Cangzhou
+Sat Nov 26 2022,Dalian Pro,2-1,?,Meizhou Hakka
+Sat Nov 26 2022,Shandong Taishan,5-0,?,Wuhan FC
+Sat Nov 26 2022,Hebei,1-6,?,Zhejiang Professional
+Sat Nov 26 2022,Guangzhou FC,1-1,?,Henan Songshan Longmen
+Sat Nov 26 2022,Shenzhen,0-4,?,Wuhan Three Towns
+Sat Nov 26 2022,Tianjin Jinmen Tiger,1-0,?,Shanghai Port
+Wed Nov 30 2022,Shandong Taishan,2-3,?,Cangzhou
+Wed Nov 30 2022,Hebei,1-4,?,Dalian Pro
+Wed Nov 30 2022,Tianjin Jinmen Tiger,1-0,?,Guangzhou City
+Wed Nov 30 2022,Shanghai Port,1-3,?,Henan Songshan Longmen
+Wed Nov 30 2022,Shenzhen,1-2,?,Wuhan FC
+Wed Nov 30 2022,Wuhan Three Towns,2-3,?,Changchun Yatai
+Wed Nov 30 2022,Zhejiang Professional,2-0,?,Beijing Guoan
+Thu Dec 1 2022,Chengdu Rongcheng,2-0,?,Guangzhou FC
+Thu Dec 1 2022,Meizhou Hakka,0-1,?,Shanghai Shenhua
+Sun Dec 4 2022,Cangzhou,0-4,?,Wuhan Three Towns
+Sun Dec 4 2022,Guangzhou City,1-2,?,Shanghai Port
+Sun Dec 4 2022,Wuhan FC,1-1,?,Changchun Yatai
+Mon Dec 5 2022,Beijing Guoan,1-3,?,Dalian Pro
+Mon Dec 5 2022,Hebei,0-4,?,Meizhou Hakka
+Mon Dec 5 2022,Tianjin Jinmen Tiger,0-0,?,Guangzhou FC
+Mon Dec 5 2022,Henan Songshan Longmen,0-1,?,Chengdu Rongcheng
+Mon Dec 5 2022,Shanghai Shenhua,0-2,?,Zhejiang Professional
+Fri Dec 9 2022,Cangzhou,1-0,?,Wuhan FC
+Fri Dec 9 2022,Shanghai Shenhua,1-2,?,Dalian Pro
+Fri Dec 9 2022,Wuhan Three Towns,1-1,?,Shandong Taishan
+Sat Dec 10 2022,Chengdu Rongcheng,0-0,?,Shanghai Port
+Sat Dec 10 2022,Hebei,0-4,?,Beijing Guoan
+Sat Dec 10 2022,Shenzhen,0-2,?,Changchun Yatai
+Sat Dec 10 2022,Guangzhou FC,0-0,?,Guangzhou City
+Sat Dec 10 2022,Zhejiang Professional,2-0,?,Meizhou Hakka
+Sat Dec 10 2022,Tianjin Jinmen Tiger,1-1,?,Henan Songshan Longmen
+Wed Dec 14 2022,Dalian Pro,1-2,?,Wuhan Three Towns
+Wed Dec 14 2022,Wuhan FC,0-3,?,Tianjin Jinmen Tiger
+Wed Dec 14 2022,Guangzhou City,1-1,?,Shanghai Shenhua
+Thu Dec 15 2022,Beijing Guoan,3-0,?,Changchun Yatai
+Thu Dec 15 2022,Cangzhou,1-1,?,Henan Songshan Longmen
+Thu Dec 15 2022,Guangzhou FC,2-4,?,Shandong Taishan
+Thu Dec 15 2022,Meizhou Hakka,0-1,?,Shanghai Port
+Thu Dec 15 2022,Zhejiang Professional,1-1,?,Chengdu Rongcheng
+Thu Dec 15 2022,Hebei,2-0,?,Shenzhen
+Mon Dec 19 2022,Shandong Taishan,8-0,?,Shenzhen
+Fri Dec 23 2022,Guangzhou City,4-1,?,Hebei
+Fri Dec 23 2022,Guangzhou FC,1-3,?,Beijing Guoan
+Fri Dec 23 2022,Henan Songshan Longmen,3-0,?,Shenzhen
+Fri Dec 23 2022,Meizhou Hakka,1-0,?,Changchun Yatai
+Fri Dec 23 2022,Wuhan FC,3-0,?,Dalian Pro
+Fri Dec 23 2022,Zhejiang Professional,3-0,?,Tianjin Jinmen Tiger
+Fri Dec 23 2022,Cangzhou,0-3,?,Shanghai Shenhua
+Fri Dec 23 2022,Chengdu Rongcheng,1-0,?,Wuhan Three Towns
+Fri Dec 23 2022,Shanghai Port,2-0,?,Shandong Taishan
+Tue Dec 27 2022,Beijing Guoan,0-3,?,Shanghai Port
+Tue Dec 27 2022,Cangzhou,3-0,?,Hebei
+Tue Dec 27 2022,Chengdu Rongcheng,3-1,?,Wuhan FC
+Tue Dec 27 2022,Guangzhou FC,1-4,?,Changchun Yatai
+Tue Dec 27 2022,Henan Songshan Longmen,1-1,?,Shanghai Shenhua
+Tue Dec 27 2022,Shandong Taishan,3-0,?,Meizhou Hakka
+Tue Dec 27 2022,Shenzhen,0-3,?,Guangzhou City
+Tue Dec 27 2022,Tianjin Jinmen Tiger,0-3,?,Dalian Pro
+Tue Dec 27 2022,Wuhan Three Towns,2-0,?,Zhejiang Professional
+Fri Dec 30 2022,Hebei,0-4,?,Henan Songshan Longmen
+Fri Dec 30 2022,Shanghai Shenhua,2-0,?,Shenzhen
+Sat Dec 31 2022,Chengdu Rongcheng,3-0,?,Dalian Pro
+Sat Dec 31 2022,Guangzhou City,1-4,?,Cangzhou
+Sat Dec 31 2022,Meizhou Hakka,1-0,?,Guangzhou FC
+Sat Dec 31 2022,Shandong Taishan,3-0,?,Beijing Guoan
+Sat Dec 31 2022,Shanghai Port,4-0,?,Changchun Yatai
+Sat Dec 31 2022,Wuhan Three Towns,3-0,?,Tianjin Jinmen Tiger
+Sat Dec 31 2022,Zhejiang Professional,4-0,?,Wuhan FC

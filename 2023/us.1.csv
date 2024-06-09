@@ -1,0 +1,522 @@
+Date,Team 1,FT,HT,Team 2
+Sat Feb 25 2023,Nashville SC,2-0,?,New York City
+Sat Feb 25 2023,Atlanta Utd,2-1,?,San Jose Earthquakes
+Sat Feb 25 2023,Charlotte,0-1,?,New England Revolution
+Sat Feb 25 2023,DC United,3-2,?,Toronto FC
+Sat Feb 25 2023,FC Cincinnati,2-1,?,Houston Dynamo
+Sat Feb 25 2023,Inter Miami,2-0,?,CF Montreal
+Sat Feb 25 2023,Orlando City,1-0,?,New York Red Bulls
+Sat Feb 25 2023,Philadelphia Union,4-1,?,Columbus Crew
+Sat Feb 25 2023,Austin FC,2-3,?,St. Louis City
+Sat Feb 25 2023,FC Dallas,0-1,?,Minnesota United
+Sat Feb 25 2023,Vancouver Whitecaps,1-2,?,Real Salt Lake
+Sun Feb 26 2023,Seattle Sounders,4-0,?,Colorado Rapids
+Mon Feb 27 2023,Portland Timbers,1-0,?,Sporting Kansas City
+Sat Mar 4 2023,Los Angeles FC,3-2,?,Portland Timbers
+Sat Mar 4 2023,Atlanta Utd,1-1,?,Toronto FC
+Sat Mar 4 2023,Columbus Crew,2-0,?,DC United
+Sat Mar 4 2023,Inter Miami,2-0,?,Philadelphia Union
+Sat Mar 4 2023,New England Revolution,3-0,?,Houston Dynamo
+Sat Mar 4 2023,New York Red Bulls,0-0,?,Nashville SC
+Sat Mar 4 2023,Orlando City,0-0,?,FC Cincinnati
+Sat Mar 4 2023,Austin FC,1-0,?,CF Montreal
+Sat Mar 4 2023,Chicago Fire,1-1,?,New York City
+Sat Mar 4 2023,FC Dallas,3-1,?,Los Angeles Galaxy
+Sat Mar 4 2023,St. Louis City,3-1,?,Charlotte
+Sat Mar 4 2023,Colorado Rapids,0-0,?,Sporting Kansas City
+Sat Mar 4 2023,San Jose Earthquakes,2-1,?,Vancouver Whitecaps
+Sat Mar 4 2023,Seattle Sounders,2-0,?,Real Salt Lake
+Sat Mar 11 2023,Charlotte,0-3,?,Atlanta Utd
+Sat Mar 11 2023,Vancouver Whitecaps,1-1,?,FC Dallas
+Sat Mar 11 2023,DC United,1-1,?,Orlando City
+Sat Mar 11 2023,FC Cincinnati,1-0,?,Seattle Sounders
+Sat Mar 11 2023,New York City,1-0,?,Inter Miami
+Sat Mar 11 2023,Philadelphia Union,1-0,?,Chicago Fire
+Sat Mar 11 2023,Toronto FC,1-1,?,Columbus Crew
+Sat Mar 11 2023,Minnesota United,1-1,?,New York Red Bulls
+Sat Mar 11 2023,Nashville SC,2-0,?,CF Montreal
+Sat Mar 11 2023,Sporting Kansas City,0-0,?,Los Angeles Galaxy
+Sat Mar 11 2023,Real Salt Lake,1-2,?,Austin FC
+Sat Mar 11 2023,Portland Timbers,1-2,?,St. Louis City
+Sat Mar 11 2023,San Jose Earthquakes,1-0,?,Colorado Rapids
+Sun Mar 12 2023,Los Angeles FC,4-0,?,New England Revolution
+Sat Mar 18 2023,Seattle Sounders,0-0,?,Los Angeles FC
+Sat Mar 18 2023,Atlanta Utd,5-1,?,Portland Timbers
+Sat Mar 18 2023,CF Montreal,3-2,?,Philadelphia Union
+Sat Mar 18 2023,New England Revolution,1-0,?,Nashville SC
+Sat Mar 18 2023,New York City,3-2,?,DC United
+Sat Mar 18 2023,New York Red Bulls,2-1,?,Columbus Crew
+Sat Mar 18 2023,Orlando City,1-2,?,Charlotte
+Sat Mar 18 2023,Toronto FC,2-0,?,Inter Miami
+Sat Mar 18 2023,Chicago Fire,3-3,?,FC Cincinnati
+Sat Mar 18 2023,FC Dallas,2-1,?,Sporting Kansas City
+Sat Mar 18 2023,Houston Dynamo,2-0,?,Austin FC
+Sat Mar 18 2023,St. Louis City,3-0,?,San Jose Earthquakes
+Sat Mar 18 2023,Colorado Rapids,1-2,?,Minnesota United
+Sat Mar 18 2023,Los Angeles Galaxy,1-1,?,Vancouver Whitecaps
+Sat Mar 25 2023,Portland Timbers,0-0,?,Los Angeles Galaxy
+Sat Mar 25 2023,Charlotte,1-1,?,New York Red Bulls
+Sat Mar 25 2023,Columbus Crew,6-1,?,Atlanta Utd
+Sat Mar 25 2023,DC United,1-2,?,New England Revolution
+Sat Mar 25 2023,Inter Miami,2-3,?,Chicago Fire
+Sat Mar 25 2023,Philadelphia Union,1-2,?,Orlando City
+Sat Mar 25 2023,Austin FC,1-1,?,Colorado Rapids
+Sat Mar 25 2023,Houston Dynamo,1-0,?,New York City
+Sat Mar 25 2023,Minnesota United,1-1,?,Vancouver Whitecaps
+Sat Mar 25 2023,Nashville SC,0-1,?,FC Cincinnati
+Sat Mar 25 2023,Sporting Kansas City,1-4,?,Seattle Sounders
+Sat Mar 25 2023,Real Salt Lake,0-4,?,St. Louis City
+Sat Mar 25 2023,Los Angeles FC,2-1,?,FC Dallas
+Sat Mar 25 2023,San Jose Earthquakes,0-0,?,Toronto FC
+Sat Apr 1 2023,Atlanta Utd,1-0,?,New York Red Bulls
+Sat Apr 1 2023,Columbus Crew,4-0,?,Real Salt Lake
+Sat Apr 1 2023,FC Cincinnati,1-0,?,Inter Miami
+Sat Apr 1 2023,Los Angeles Galaxy,1-2,?,Seattle Sounders
+Sat Apr 1 2023,New England Revolution,1-1,?,New York City
+Sat Apr 1 2023,Orlando City,0-2,?,Nashville SC
+Sat Apr 1 2023,Philadelphia Union,0-0,?,Sporting Kansas City
+Sat Apr 1 2023,Toronto FC,2-2,?,Charlotte
+Sat Apr 1 2023,Chicago Fire,0-0,?,DC United
+Sat Apr 1 2023,FC Dallas,1-1,?,Portland Timbers
+Sat Apr 1 2023,St. Louis City,0-1,?,Minnesota United
+Sat Apr 1 2023,Colorado Rapids,0-0,?,Los Angeles FC
+Sat Apr 1 2023,San Jose Earthquakes,2-1,?,Houston Dynamo
+Sat Apr 1 2023,Vancouver Whitecaps,5-0,?,CF Montreal
+Sat Apr 8 2023,DC United,0-2,?,Columbus Crew
+Sat Apr 8 2023,FC Cincinnati,1-0,?,Philadelphia Union
+Sat Apr 8 2023,Inter Miami,0-1,?,FC Dallas
+Sat Apr 8 2023,Los Angeles FC,3-0,?,Austin FC
+Sat Apr 8 2023,New England Revolution,4-0,?,CF Montreal
+Sat Apr 8 2023,New York City,1-1,?,Atlanta Utd
+Sat Apr 8 2023,New York Red Bulls,1-1,?,San Jose Earthquakes
+Sat Apr 8 2023,Chicago Fire,2-1,?,Minnesota United
+Sat Apr 8 2023,Houston Dynamo,3-0,?,Los Angeles Galaxy
+Sat Apr 8 2023,Nashville SC,0-0,?,Toronto FC
+Sat Apr 8 2023,Sporting Kansas City,0-1,?,Colorado Rapids
+Sat Apr 8 2023,Real Salt Lake,3-1,?,Charlotte
+Sat Apr 8 2023,Seattle Sounders,3-0,?,St. Louis City
+Sat Apr 8 2023,Vancouver Whitecaps,1-0,?,Portland Timbers
+Sat Apr 15 2023,CF Montreal,0-1,?,DC United
+Sat Apr 15 2023,Charlotte,2-2,?,Colorado Rapids
+Sat Apr 15 2023,Columbus Crew,1-1,?,New England Revolution
+Sat Apr 15 2023,New York City,2-1,?,Nashville SC
+Sat Apr 15 2023,New York Red Bulls,1-1,?,Houston Dynamo
+Sat Apr 15 2023,Toronto FC,2-2,?,Atlanta Utd
+Sat Apr 15 2023,Austin FC,0-0,?,Vancouver Whitecaps
+Sat Apr 15 2023,Chicago Fire,2-2,?,Philadelphia Union
+Sat Apr 15 2023,FC Dallas,2-1,?,Real Salt Lake
+Sat Apr 15 2023,Minnesota United,1-2,?,Orlando City
+Sat Apr 15 2023,St. Louis City,5-1,?,FC Cincinnati
+Sat Apr 15 2023,Portland Timbers,4-1,?,Seattle Sounders
+Sat Apr 15 2023,San Jose Earthquakes,3-0,?,Sporting Kansas City
+Sun Apr 16 2023,Los Angeles Galaxy,2-3,?,Los Angeles FC
+Sat Apr 22 2023,CF Montreal,2-0,?,New York Red Bulls
+Sat Apr 22 2023,Charlotte,1-0,?,Columbus Crew
+Sat Apr 22 2023,FC Cincinnati,2-1,?,Portland Timbers
+Sat Apr 22 2023,New England Revolution,2-1,?,Sporting Kansas City
+Sat Apr 22 2023,New York City,3-1,?,FC Dallas
+Sat Apr 22 2023,Orlando City,1-3,?,DC United
+Sat Apr 22 2023,Philadelphia Union,4-2,?,Toronto FC
+Sat Apr 22 2023,Houston Dynamo,1-0,?,Inter Miami
+Sat Apr 22 2023,Nashville SC,1-1,?,Los Angeles FC
+Sat Apr 22 2023,Colorado Rapids,1-1,?,St. Louis City
+Sat Apr 22 2023,Real Salt Lake,3-1,?,San Jose Earthquakes
+Sat Apr 22 2023,Los Angeles Galaxy,2-0,?,Austin FC
+Sat Apr 22 2023,Seattle Sounders,1-0,?,Minnesota United
+Sun Apr 23 2023,Atlanta Utd,2-1,?,Chicago Fire
+Sat Apr 29 2023,Nashville SC,3-1,?,Atlanta Utd
+Sat Apr 29 2023,Columbus Crew,1-2,?,Inter Miami
+Sat Apr 29 2023,DC United,3-0,?,Charlotte
+Sat Apr 29 2023,New England Revolution,1-1,?,FC Cincinnati
+Sat Apr 29 2023,Orlando City,2-0,?,Los Angeles Galaxy
+Sat Apr 29 2023,Toronto FC,1-0,?,New York City
+Sat Apr 29 2023,Austin FC,2-2,?,San Jose Earthquakes
+Sat Apr 29 2023,Chicago Fire,1-1,?,New York Red Bulls
+Sat Apr 29 2023,Sporting Kansas City,0-2,?,CF Montreal
+Sat Apr 29 2023,St. Louis City,1-2,?,Portland Timbers
+Sat Apr 29 2023,Real Salt Lake,0-0,?,Seattle Sounders
+Sat Apr 29 2023,Vancouver Whitecaps,0-0,?,Colorado Rapids
+Sun Apr 30 2023,Minnesota United,0-0,?,FC Dallas
+Sat May 6 2023,CF Montreal,2-0,?,Orlando City
+Sat May 6 2023,Charlotte,3-2,?,New York City
+Sat May 6 2023,FC Cincinnati,2-1,?,DC United
+Sat May 6 2023,Inter Miami,2-1,?,Atlanta Utd
+Sat May 6 2023,New York Red Bulls,0-1,?,Philadelphia Union
+Sat May 6 2023,San Jose Earthquakes,2-1,?,Los Angeles FC
+Sat May 6 2023,Toronto FC,0-2,?,New England Revolution
+Sat May 6 2023,Houston Dynamo,0-0,?,Real Salt Lake
+Sat May 6 2023,Nashville SC,3-0,?,Chicago Fire
+Sat May 6 2023,Los Angeles Galaxy,1-3,?,Colorado Rapids
+Sat May 6 2023,Portland Timbers,2-2,?,Austin FC
+Sat May 6 2023,Vancouver Whitecaps,3-2,?,Minnesota United
+Sun May 7 2023,Seattle Sounders,1-2,?,Sporting Kansas City
+Sat May 13 2023,Chicago Fire,1-0,?,St. Louis City
+Sat May 13 2023,Atlanta Utd,1-3,?,Charlotte
+Sat May 13 2023,CF Montreal,2-0,?,Toronto FC
+Sat May 13 2023,Columbus Crew,2-2,?,Orlando City
+Sat May 13 2023,DC United,1-1,?,Nashville SC
+Sat May 13 2023,Inter Miami,2-1,?,New England Revolution
+Sat May 13 2023,New York Red Bulls,1-0,?,New York City
+Sat May 13 2023,Austin FC,0-1,?,FC Dallas
+Sat May 13 2023,Houston Dynamo,0-1,?,Seattle Sounders
+Sat May 13 2023,Sporting Kansas City,3-0,?,Minnesota United
+Sat May 13 2023,Colorado Rapids,1-2,?,Philadelphia Union
+Sat May 13 2023,Real Salt Lake,0-3,?,Los Angeles FC
+Sat May 13 2023,Portland Timbers,3-1,?,Vancouver Whitecaps
+Sun May 14 2023,Los Angeles Galaxy,2-1,?,San Jose Earthquakes
+Wed May 17 2023,Atlanta Utd,4-0,?,Colorado Rapids
+Wed May 17 2023,Charlotte,2-1,?,Chicago Fire
+Wed May 17 2023,Columbus Crew,2-0,?,Los Angeles Galaxy
+Wed May 17 2023,FC Cincinnati,3-0,?,CF Montreal
+Wed May 17 2023,Orlando City,1-1,?,New York City
+Wed May 17 2023,Philadelphia Union,0-0,?,DC United
+Wed May 17 2023,Toronto FC,0-0,?,New York Red Bulls
+Wed May 17 2023,FC Dallas,2-1,?,Vancouver Whitecaps
+Wed May 17 2023,Minnesota United,1-0,?,Houston Dynamo
+Wed May 17 2023,Nashville SC,2-1,?,Inter Miami
+Wed May 17 2023,Real Salt Lake,0-0,?,Portland Timbers
+Wed May 17 2023,Los Angeles FC,1-1,?,Sporting Kansas City
+Wed May 17 2023,Seattle Sounders,1-2,?,Austin FC
+Sat May 20 2023,Charlotte,1-2,?,Nashville SC
+Sat May 20 2023,DC United,3-0,?,Los Angeles Galaxy
+Sat May 20 2023,FC Cincinnati,3-2,?,Columbus Crew
+Sat May 20 2023,Inter Miami,1-3,?,Orlando City
+Sat May 20 2023,New York Red Bulls,2-1,?,CF Montreal
+Sat May 20 2023,Philadelphia Union,3-0,?,New England Revolution
+Sat May 20 2023,Austin FC,1-0,?,Toronto FC
+Sat May 20 2023,Chicago Fire,3-3,?,Atlanta Utd
+Sat May 20 2023,FC Dallas,1-1,?,Houston Dynamo
+Sat May 20 2023,Colorado Rapids,2-3,?,Real Salt Lake
+Sat May 20 2023,St. Louis City,4-0,?,Sporting Kansas City
+Sat May 20 2023,Los Angeles FC,2-1,?,San Jose Earthquakes
+Sat May 20 2023,Portland Timbers,0-1,?,Minnesota United
+Sat May 20 2023,Vancouver Whitecaps,2-0,?,Seattle Sounders
+Sat May 27 2023,CF Montreal,1-0,?,Inter Miami
+Sat May 27 2023,New England Revolution,3-3,?,Chicago Fire
+Sat May 27 2023,New York City,1-3,?,Philadelphia Union
+Sat May 27 2023,Orlando City,1-1,?,Atlanta Utd
+Sat May 27 2023,Toronto FC,2-1,?,DC United
+Sat May 27 2023,Houston Dynamo,2-1,?,Austin FC
+Sat May 27 2023,Minnesota United,1-1,?,Real Salt Lake
+Sat May 27 2023,St. Louis City,3-1,?,Vancouver Whitecaps
+Sat May 27 2023,Colorado Rapids,0-1,?,FC Cincinnati
+Sat May 27 2023,Los Angeles Galaxy,0-1,?,Charlotte
+Sat May 27 2023,San Jose Earthquakes,1-1,?,FC Dallas
+Sat May 27 2023,Seattle Sounders,1-0,?,New York Red Bulls
+Sun May 28 2023,Sporting Kansas City,4-1,?,Portland Timbers
+Sun May 28 2023,Nashville SC,3-1,?,Columbus Crew
+Wed May 31 2023,Atlanta Utd,3-3,?,New England Revolution
+Wed May 31 2023,Columbus Crew,3-2,?,Colorado Rapids
+Wed May 31 2023,DC United,2-2,?,CF Montreal
+Wed May 31 2023,Inter Miami,0-1,?,New York Red Bulls
+Wed May 31 2023,New York City,1-3,?,FC Cincinnati
+Wed May 31 2023,Philadelphia Union,1-0,?,Charlotte
+Wed May 31 2023,Toronto FC,0-0,?,Chicago Fire
+Wed May 31 2023,Austin FC,2-1,?,Minnesota United
+Wed May 31 2023,Sporting Kansas City,2-1,?,FC Dallas
+Wed May 31 2023,Real Salt Lake,2-3,?,Los Angeles Galaxy
+Wed May 31 2023,Seattle Sounders,0-1,?,San Jose Earthquakes
+Wed May 31 2023,Vancouver Whitecaps,6-2,?,Houston Dynamo
+Sat Jun 3 2023,New York City,0-0,?,New England Revolution
+Sat Jun 3 2023,Seattle Sounders,0-0,?,Portland Timbers
+Sat Jun 3 2023,Columbus Crew,4-2,?,Charlotte
+Sat Jun 3 2023,FC Cincinnati,1-0,?,Chicago Fire
+Sat Jun 3 2023,Inter Miami,1-2,?,DC United
+Sat Jun 3 2023,New York Red Bulls,0-3,?,Orlando City
+Sat Jun 3 2023,Philadelphia Union,3-0,?,CF Montreal
+Sat Jun 3 2023,Austin FC,1-2,?,Real Salt Lake
+Sat Jun 3 2023,FC Dallas,1-2,?,Nashville SC
+Sat Jun 3 2023,Minnesota United,1-1,?,Toronto FC
+Sat Jun 3 2023,St. Louis City,3-0,?,Houston Dynamo
+Sat Jun 3 2023,Colorado Rapids,0-0,?,San Jose Earthquakes
+Sat Jun 3 2023,Vancouver Whitecaps,1-1,?,Sporting Kansas City
+Wed Jun 7 2023,FC Dallas,2-0,?,St. Louis City
+Wed Jun 7 2023,Los Angeles FC,0-0,?,Atlanta Utd
+Sat Jun 10 2023,Atlanta Utd,3-1,?,DC United
+Sat Jun 10 2023,CF Montreal,4-0,?,Minnesota United
+Sat Jun 10 2023,Charlotte,3-3,?,Seattle Sounders
+Sat Jun 10 2023,New England Revolution,3-1,?,Inter Miami
+Sat Jun 10 2023,Orlando City,2-0,?,Colorado Rapids
+Sat Jun 10 2023,Toronto FC,1-1,?,Nashville SC
+Sat Jun 10 2023,Chicago Fire,1-2,?,Columbus Crew
+Sat Jun 10 2023,Houston Dynamo,4-0,?,Los Angeles FC
+Sat Jun 10 2023,Sporting Kansas City,4-1,?,Austin FC
+Sat Jun 10 2023,Real Salt Lake,0-0,?,New York City
+Sat Jun 10 2023,San Jose Earthquakes,2-1,?,Philadelphia Union
+Sat Jun 10 2023,Vancouver Whitecaps,1-1,?,FC Cincinnati
+Sun Jun 11 2023,St. Louis City,1-1,?,Los Angeles Galaxy
+Sun Jun 11 2023,Portland Timbers,1-0,?,FC Dallas
+Wed Jun 14 2023,Los Angeles FC,0-1,?,Houston Dynamo
+Sat Jun 17 2023,New York City,1-1,?,Columbus Crew
+Sat Jun 17 2023,DC United,1-2,?,Real Salt Lake
+Sat Jun 17 2023,New England Revolution,3-1,?,Orlando City
+Sat Jun 17 2023,Nashville SC,3-1,?,St. Louis City
+Sat Jun 17 2023,Sporting Kansas City,1-2,?,Los Angeles FC
+Sat Jun 17 2023,San Jose Earthquakes,0-0,?,Portland Timbers
+Wed Jun 21 2023,Atlanta Utd,2-2,?,New York City
+Wed Jun 21 2023,CF Montreal,1-0,?,Nashville SC
+Wed Jun 21 2023,FC Cincinnati,3-0,?,Toronto FC
+Wed Jun 21 2023,New York Red Bulls,2-2,?,Charlotte
+Wed Jun 21 2023,Orlando City,2-2,?,Philadelphia Union
+Wed Jun 21 2023,Houston Dynamo,4-1,?,San Jose Earthquakes
+Wed Jun 21 2023,St. Louis City,1-3,?,Real Salt Lake
+Wed Jun 21 2023,Austin FC,3-0,?,FC Dallas
+Wed Jun 21 2023,Los Angeles FC,1-0,?,Seattle Sounders
+Wed Jun 21 2023,Los Angeles Galaxy,2-2,?,Sporting Kansas City
+Wed Jun 21 2023,Portland Timbers,1-2,?,Chicago Fire
+Sat Jun 24 2023,Charlotte,0-0,?,CF Montreal
+Sat Jun 24 2023,Columbus Crew,2-0,?,Nashville SC
+Sat Jun 24 2023,DC United,3-0,?,FC Cincinnati
+Sat Jun 24 2023,New England Revolution,2-1,?,Toronto FC
+Sat Jun 24 2023,New York Red Bulls,4-0,?,Atlanta Utd
+Sat Jun 24 2023,Philadelphia Union,4-1,?,Inter Miami
+Sat Jun 24 2023,Sporting Kansas City,0-1,?,Chicago Fire
+Sat Jun 24 2023,Austin FC,3-0,?,Houston Dynamo
+Sat Jun 24 2023,Colorado Rapids,0-0,?,Los Angeles Galaxy
+Sat Jun 24 2023,Real Salt Lake,2-2,?,Minnesota United
+Sat Jun 24 2023,Los Angeles FC,2-3,?,Vancouver Whitecaps
+Sat Jun 24 2023,Portland Timbers,1-1,?,New York City
+Sat Jun 24 2023,San Jose Earthquakes,1-2,?,St. Louis City
+Sat Jun 24 2023,Seattle Sounders,0-0,?,Orlando City
+Sat Jul 1 2023,CF Montreal,0-1,?,New York City
+Sat Jul 1 2023,Columbus Crew,2-1,?,New York Red Bulls
+Sat Jul 1 2023,FC Cincinnati,2-2,?,New England Revolution
+Sat Jul 1 2023,Inter Miami,1-1,?,Austin FC
+Sat Jul 1 2023,Orlando City,3-1,?,Chicago Fire
+Sat Jul 1 2023,Toronto FC,0-1,?,Real Salt Lake
+Sat Jul 1 2023,FC Dallas,2-0,?,Los Angeles FC
+Sat Jul 1 2023,Minnesota United,4-1,?,Portland Timbers
+Sat Jul 1 2023,Nashville SC,2-0,?,DC United
+Sat Jul 1 2023,Sporting Kansas City,3-0,?,Vancouver Whitecaps
+Sat Jul 1 2023,St. Louis City,2-0,?,Colorado Rapids
+Sat Jul 1 2023,San Jose Earthquakes,2-2,?,Los Angeles Galaxy
+Sat Jul 1 2023,Seattle Sounders,1-0,?,Houston Dynamo
+Sun Jul 2 2023,Atlanta Utd,2-0,?,Philadelphia Union
+Tue Jul 4 2023,Inter Miami,2-2,?,Columbus Crew
+Tue Jul 4 2023,Orlando City,4-0,?,Toronto FC
+Tue Jul 4 2023,FC Dallas,0-1,?,DC United
+Tue Jul 4 2023,Los Angeles Galaxy,2-1,?,Los Angeles FC
+Wed Jul 5 2023,New York City,1-1,?,Charlotte
+Sat Jul 8 2023,CF Montreal,0-1,?,Atlanta Utd
+Sat Jul 8 2023,Charlotte,2-2,?,FC Cincinnati
+Sat Jul 8 2023,Columbus Crew,1-1,?,New York City
+Sat Jul 8 2023,DC United,2-2,?,Inter Miami
+Sat Jul 8 2023,New York Red Bulls,2-1,?,New England Revolution
+Sat Jul 8 2023,Toronto FC,0-1,?,St. Louis City
+Sat Jul 8 2023,Chicago Fire,1-0,?,Nashville SC
+Sat Jul 8 2023,Houston Dynamo,2-2,?,Sporting Kansas City
+Sat Jul 8 2023,Minnesota United,1-4,?,Austin FC
+Sat Jul 8 2023,Colorado Rapids,2-1,?,FC Dallas
+Sat Jul 8 2023,Real Salt Lake,4-0,?,Orlando City
+Sat Jul 8 2023,Los Angeles FC,1-1,?,San Jose Earthquakes
+Sat Jul 8 2023,Los Angeles Galaxy,3-1,?,Philadelphia Union
+Sat Jul 8 2023,Vancouver Whitecaps,2-3,?,Seattle Sounders
+Wed Jul 12 2023,New England Revolution,2-1,?,Atlanta Utd
+Wed Jul 12 2023,New York Red Bulls,1-2,?,FC Cincinnati
+Wed Jul 12 2023,Chicago Fire,3-0,?,CF Montreal
+Wed Jul 12 2023,Houston Dynamo,0-3,?,Minnesota United
+Wed Jul 12 2023,Nashville SC,0-2,?,Philadelphia Union
+Wed Jul 12 2023,Sporting Kansas City,2-2,?,Real Salt Lake
+Wed Jul 12 2023,Colorado Rapids,0-0,?,Portland Timbers
+Wed Jul 12 2023,Los Angeles FC,3-0,?,St. Louis City
+Wed Jul 12 2023,San Jose Earthquakes,2-0,?,Seattle Sounders
+Wed Jul 12 2023,Vancouver Whitecaps,2-1,?,Austin FC
+Sat Jul 15 2023,Atlanta Utd,1-2,?,Orlando City
+Sat Jul 15 2023,CF Montreal,2-0,?,Charlotte
+Sat Jul 15 2023,FC Cincinnati,3-1,?,Nashville SC
+Sat Jul 15 2023,New England Revolution,4-0,?,DC United
+Sat Jul 15 2023,Philadelphia Union,2-1,?,New York City
+Sat Jul 15 2023,Chicago Fire,1-0,?,Toronto FC
+Sat Jul 15 2023,Minnesota United,1-1,?,Los Angeles FC
+Sat Jul 15 2023,St. Louis City,3-0,?,Inter Miami
+Sat Jul 15 2023,Austin FC,2-1,?,Sporting Kansas City
+Sat Jul 15 2023,Colorado Rapids,0-0,?,Houston Dynamo
+Sat Jul 15 2023,Real Salt Lake,3-1,?,New York Red Bulls
+Sat Jul 15 2023,Portland Timbers,3-2,?,Columbus Crew
+Sat Jul 15 2023,Seattle Sounders,1-1,?,FC Dallas
+Sat Jul 15 2023,Vancouver Whitecaps,4-2,?,Los Angeles Galaxy
+Sun Aug 20 2023,Columbus Crew,3-0,?,FC Cincinnati
+Sun Aug 20 2023,New York City,0-2,?,Minnesota United
+Sun Aug 20 2023,New York Red Bulls,1-0,?,DC United
+Sun Aug 20 2023,Toronto FC,2-3,?,CF Montreal
+Sun Aug 20 2023,Chicago Fire,1-3,?,Orlando City
+Sun Aug 20 2023,Houston Dynamo,5-0,?,Portland Timbers
+Sun Aug 20 2023,St. Louis City,6-3,?,Austin FC
+Sun Aug 20 2023,Seattle Sounders,0-2,?,Atlanta Utd
+Sun Aug 20 2023,Vancouver Whitecaps,0-1,?,San Jose Earthquakes
+Wed Aug 23 2023,Los Angeles FC,4-0,?,Colorado Rapids
+Sat Aug 26 2023,Atlanta Utd,4-0,?,Nashville SC
+Sat Aug 26 2023,CF Montreal,1-0,?,New England Revolution
+Sat Aug 26 2023,Charlotte,2-1,?,Los Angeles FC
+Sat Aug 26 2023,Columbus Crew,2-0,?,Toronto FC
+Sat Aug 26 2023,DC United,1-3,?,Philadelphia Union
+Sat Aug 26 2023,FC Cincinnati,3-0,?,New York City
+Sat Aug 26 2023,New York Red Bulls,0-2,?,Inter Miami
+Sat Aug 26 2023,Orlando City,2-1,?,St. Louis City
+Sat Aug 26 2023,FC Dallas,1-0,?,Austin FC
+Sat Aug 26 2023,Sporting Kansas City,3-0,?,San Jose Earthquakes
+Sat Aug 26 2023,Real Salt Lake,0-3,?,Houston Dynamo
+Sat Aug 26 2023,Los Angeles Galaxy,3-0,?,Chicago Fire
+Sat Aug 26 2023,Portland Timbers,2-3,?,Vancouver Whitecaps
+Sun Aug 27 2023,Minnesota United,1-1,?,Seattle Sounders
+Wed Aug 30 2023,Atlanta Utd,1-2,?,FC Cincinnati
+Wed Aug 30 2023,Charlotte,1-1,?,Orlando City
+Wed Aug 30 2023,Inter Miami,0-0,?,Nashville SC
+Wed Aug 30 2023,New England Revolution,1-0,?,New York Red Bulls
+Wed Aug 30 2023,New York City,2-0,?,CF Montreal
+Wed Aug 30 2023,Toronto FC,3-1,?,Philadelphia Union
+Wed Aug 30 2023,Austin FC,1-2,?,Seattle Sounders
+Wed Aug 30 2023,Chicago Fire,0-1,?,Vancouver Whitecaps
+Wed Aug 30 2023,Houston Dynamo,2-0,?,Columbus Crew
+Wed Aug 30 2023,Minnesota United,3-0,?,Colorado Rapids
+Wed Aug 30 2023,St. Louis City,2-1,?,FC Dallas
+Wed Aug 30 2023,Portland Timbers,2-1,?,Real Salt Lake
+Wed Aug 30 2023,San Jose Earthquakes,2-3,?,Los Angeles Galaxy
+Sat Sep 2 2023,New York City,1-1,?,Vancouver Whitecaps
+Sat Sep 2 2023,CF Montreal,2-4,?,Columbus Crew
+Sat Sep 2 2023,DC United,4-0,?,Chicago Fire
+Sat Sep 2 2023,FC Cincinnati,0-1,?,Orlando City
+Sat Sep 2 2023,New England Revolution,2-2,?,Austin FC
+Sat Sep 2 2023,FC Dallas,2-2,?,Atlanta Utd
+Sat Sep 2 2023,Nashville SC,1-1,?,Charlotte
+Sat Sep 2 2023,Sporting Kansas City,2-1,?,St. Louis City
+Sat Sep 2 2023,Real Salt Lake,2-0,?,Colorado Rapids
+Sat Sep 2 2023,Los Angeles Galaxy,0-0,?,Houston Dynamo
+Sat Sep 2 2023,San Jose Earthquakes,1-1,?,Minnesota United
+Sat Sep 2 2023,Seattle Sounders,2-2,?,Portland Timbers
+Sun Sep 3 2023,Philadelphia Union,4-1,?,New York Red Bulls
+Sun Sep 3 2023,Los Angeles FC,1-3,?,Inter Miami
+Sat Sep 9 2023,DC United,0-0,?,San Jose Earthquakes
+Sat Sep 9 2023,Inter Miami,3-2,?,Sporting Kansas City
+Sat Sep 9 2023,Minnesota United,1-1,?,New England Revolution
+Sat Sep 9 2023,Portland Timbers,2-0,?,Los Angeles FC
+Sun Sep 10 2023,Los Angeles Galaxy,2-2,?,St. Louis City
+Sat Sep 16 2023,New York City,0-0,?,New York Red Bulls
+Sat Sep 16 2023,Atlanta Utd,5-2,?,Inter Miami
+Sat Sep 16 2023,CF Montreal,0-0,?,Chicago Fire
+Sat Sep 16 2023,Charlotte,0-0,?,DC United
+Sat Sep 16 2023,Orlando City,4-3,?,Columbus Crew
+Sat Sep 16 2023,Philadelphia Union,2-2,?,FC Cincinnati
+Sat Sep 16 2023,Toronto FC,1-2,?,Vancouver Whitecaps
+Sat Sep 16 2023,FC Dallas,1-1,?,Seattle Sounders
+Sat Sep 16 2023,Houston Dynamo,1-1,?,St. Louis City
+Sat Sep 16 2023,Minnesota United,0-1,?,Sporting Kansas City
+Sat Sep 16 2023,Colorado Rapids,2-1,?,New England Revolution
+Sat Sep 16 2023,Los Angeles FC,4-2,?,Los Angeles Galaxy
+Sat Sep 16 2023,San Jose Earthquakes,2-1,?,Real Salt Lake
+Sun Sep 17 2023,Austin FC,1-2,?,Portland Timbers
+Wed Sep 20 2023,CF Montreal,1-1,?,FC Cincinnati
+Wed Sep 20 2023,Charlotte,2-2,?,Philadelphia Union
+Wed Sep 20 2023,Columbus Crew,3-0,?,Chicago Fire
+Wed Sep 20 2023,DC United,1-1,?,Atlanta Utd
+Wed Sep 20 2023,Inter Miami,4-0,?,Toronto FC
+Wed Sep 20 2023,New York City,2-0,?,Orlando City
+Wed Sep 20 2023,New York Red Bulls,1-1,?,Austin FC
+Wed Sep 20 2023,Houston Dynamo,4-1,?,Vancouver Whitecaps
+Wed Sep 20 2023,Sporting Kansas City,0-3,?,Nashville SC
+Wed Sep 20 2023,St. Louis City,0-0,?,Los Angeles FC
+Wed Sep 20 2023,Colorado Rapids,1-2,?,Seattle Sounders
+Wed Sep 20 2023,Real Salt Lake,1-3,?,FC Dallas
+Wed Sep 20 2023,Los Angeles Galaxy,4-3,?,Minnesota United
+Wed Sep 20 2023,Portland Timbers,2-1,?,San Jose Earthquakes
+Sat Sep 23 2023,Atlanta Utd,4-1,?,CF Montreal
+Sat Sep 23 2023,DC United,3-5,?,New York Red Bulls
+Sat Sep 23 2023,FC Cincinnati,3-0,?,Charlotte
+Sat Sep 23 2023,Philadelphia Union,0-0,?,Los Angeles FC
+Sat Sep 23 2023,Chicago Fire,2-2,?,New England Revolution
+Sat Sep 23 2023,FC Dallas,1-1,?,Columbus Crew
+Sat Sep 23 2023,Minnesota United,1-2,?,St. Louis City
+Sat Sep 23 2023,Sporting Kansas City,2-1,?,Houston Dynamo
+Sat Sep 23 2023,Real Salt Lake,2-1,?,Vancouver Whitecaps
+Sat Sep 23 2023,Portland Timbers,3-2,?,Colorado Rapids
+Sat Sep 23 2023,San Jose Earthquakes,1-1,?,Nashville SC
+Sun Sep 24 2023,New York City,3-0,?,Toronto FC
+Sun Sep 24 2023,Orlando City,1-1,?,Inter Miami
+Sun Sep 24 2023,Austin FC,3-3,?,Los Angeles Galaxy
+Wed Sep 27 2023,Philadelphia Union,1-1,?,FC Dallas
+Wed Sep 27 2023,Colorado Rapids,2-2,?,Vancouver Whitecaps
+Sat Sep 30 2023,Columbus Crew,1-1,?,Philadelphia Union
+Sat Sep 30 2023,Inter Miami,1-1,?,New York City
+Sat Sep 30 2023,New England Revolution,2-1,?,Charlotte
+Sat Sep 30 2023,New York Red Bulls,0-1,?,Chicago Fire
+Sat Sep 30 2023,Orlando City,3-0,?,CF Montreal
+Sat Sep 30 2023,Toronto FC,2-3,?,FC Cincinnati
+Sat Sep 30 2023,Houston Dynamo,0-0,?,FC Dallas
+Sat Sep 30 2023,Minnesota United,1-1,?,San Jose Earthquakes
+Sat Sep 30 2023,Nashville SC,0-0,?,Seattle Sounders
+Sat Sep 30 2023,St. Louis City,4-1,?,Sporting Kansas City
+Sat Sep 30 2023,Colorado Rapids,1-0,?,Austin FC
+Sat Sep 30 2023,Los Angeles Galaxy,3-3,?,Portland Timbers
+Sat Sep 30 2023,Vancouver Whitecaps,2-2,?,DC United
+Sun Oct 1 2023,Los Angeles FC,0-1,?,Real Salt Lake
+Wed Oct 4 2023,CF Montreal,1-1,?,Houston Dynamo
+Wed Oct 4 2023,Charlotte,3-0,?,Toronto FC
+Wed Oct 4 2023,FC Cincinnati,1-2,?,New York Red Bulls
+Wed Oct 4 2023,New England Revolution,1-2,?,Columbus Crew
+Wed Oct 4 2023,Philadelphia Union,3-2,?,Atlanta Utd
+Wed Oct 4 2023,Austin FC,3-0,?,DC United
+Wed Oct 4 2023,Chicago Fire,4-1,?,Inter Miami
+Wed Oct 4 2023,Nashville SC,0-1,?,Orlando City
+Wed Oct 4 2023,Los Angeles FC,5-1,?,Minnesota United
+Wed Oct 4 2023,Seattle Sounders,2-1,?,Los Angeles Galaxy
+Wed Oct 4 2023,Vancouver Whitecaps,3-0,?,St. Louis City
+Sat Oct 7 2023,Atlanta Utd,1-1,?,Columbus Crew
+Sat Oct 7 2023,CF Montreal,4-1,?,Portland Timbers
+Sat Oct 7 2023,DC United,2-0,?,New York City
+Sat Oct 7 2023,Inter Miami,0-1,?,FC Cincinnati
+Sat Oct 7 2023,New York Red Bulls,3-0,?,Toronto FC
+Sat Oct 7 2023,Orlando City,3-2,?,New England Revolution
+Sat Oct 7 2023,Philadelphia Union,0-0,?,Nashville SC
+Sat Oct 7 2023,Austin FC,2-4,?,Los Angeles FC
+Sat Oct 7 2023,Chicago Fire,0-2,?,Charlotte
+Sat Oct 7 2023,FC Dallas,1-1,?,San Jose Earthquakes
+Sat Oct 7 2023,Houston Dynamo,5-1,?,Colorado Rapids
+Sat Oct 7 2023,Minnesota United,5-2,?,Los Angeles Galaxy
+Sat Oct 7 2023,Real Salt Lake,2-3,?,Sporting Kansas City
+Sat Oct 7 2023,Seattle Sounders,0-0,?,Vancouver Whitecaps
+Sat Oct 14 2023,FC Dallas,1-1,?,Colorado Rapids
+Sat Oct 14 2023,Nashville SC,3-2,?,New England Revolution
+Sat Oct 14 2023,Los Angeles Galaxy,2-2,?,Real Salt Lake
+Wed Oct 18 2023,Inter Miami,2-2,?,Charlotte
+Sat Oct 21 2023,Charlotte,1-0,?,Inter Miami
+Sat Oct 21 2023,Columbus Crew,2-1,?,CF Montreal
+Sat Oct 21 2023,FC Cincinnati,2-2,?,Atlanta Utd
+Sat Oct 21 2023,Nashville SC,0-1,?,New York Red Bulls
+Sat Oct 21 2023,New England Revolution,2-1,?,Philadelphia Union
+Sat Oct 21 2023,New York City,1-0,?,Chicago Fire
+Sat Oct 21 2023,Toronto FC,0-2,?,Orlando City
+Sat Oct 21 2023,Colorado Rapids,0-1,?,Real Salt Lake
+Sat Oct 21 2023,Los Angeles Galaxy,1-4,?,FC Dallas
+Sat Oct 21 2023,Portland Timbers,1-3,?,Houston Dynamo
+Sat Oct 21 2023,San Jose Earthquakes,1-1,?,Austin FC
+Sat Oct 21 2023,Sporting Kansas City,3-1,?,Minnesota United
+Sat Oct 21 2023,St. Louis City,0-2,?,Seattle Sounders
+Sat Oct 21 2023,Vancouver Whitecaps,1-1,?,Los Angeles FC
+Wed Oct 25 2023,New York Red Bulls,5-2,?,Charlotte
+Wed Oct 25 2023,Sporting Kansas City,0-0,?,San Jose Earthquakes
+Sat Oct 28 2023,Philadelphia Union,3-1,?,New England Revolution
+Sat Oct 28 2023,Los Angeles FC,5-2,?,Vancouver Whitecaps
+Sun Oct 29 2023,Houston Dynamo,2-1,?,Real Salt Lake
+Sun Oct 29 2023,FC Cincinnati,3-0,?,New York Red Bulls
+Sun Oct 29 2023,St. Louis City,1-4,?,Sporting Kansas City
+Mon Oct 30 2023,Orlando City,1-0,?,Nashville SC
+Mon Oct 30 2023,Seattle Sounders,2-0,?,FC Dallas
+Wed Nov 1 2023,Columbus Crew,2-0,?,Atlanta Utd
+Sat Nov 4 2023,New York Red Bulls,1-1,?,FC Cincinnati
+Sat Nov 4 2023,FC Dallas,3-1,?,Seattle Sounders
+Sun Nov 5 2023,Sporting Kansas City,2-1,?,St. Louis City
+Sun Nov 5 2023,Vancouver Whitecaps,0-1,?,Los Angeles FC
+Mon Nov 6 2023,Real Salt Lake,1-1,?,Houston Dynamo
+Tue Nov 7 2023,Atlanta Utd,4-2,?,Columbus Crew
+Tue Nov 7 2023,Nashville SC,0-1,?,Orlando City
+Wed Nov 8 2023,New England Revolution,0-1,?,Philadelphia Union
+Fri Nov 10 2023,Seattle Sounders,1-0,?,FC Dallas
+Sat Nov 11 2023,Houston Dynamo,1-1,?,Real Salt Lake
+Sun Nov 12 2023,Columbus Crew,4-2,?,Atlanta Utd
+Sat Nov 25 2023,Orlando City,0-0,?,Columbus Crew
+Sat Nov 25 2023,FC Cincinnati,1-0,?,Philadelphia Union
+Sun Nov 26 2023,Houston Dynamo,1-0,?,Sporting Kansas City
+Sun Nov 26 2023,Seattle Sounders,0-1,?,Los Angeles FC
+Sat Dec 2 2023,FC Cincinnati,2-2,?,Columbus Crew
+Sat Dec 2 2023,Los Angeles FC,2-0,?,Houston Dynamo
+Sat Dec 9 2023,Columbus Crew,2-1,?,Los Angeles FC

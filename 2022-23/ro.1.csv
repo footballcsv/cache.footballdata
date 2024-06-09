@@ -1,0 +1,322 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 15 2022,FC Hermannstadt,3-0,?,Mioveni
+Fri Jul 15 2022,Univ. Craiova,2-2,?,Sepsi Sf. Gheorghe
+Sat Jul 16 2022,FC Arges,2-0,?,UTA Arad
+Sat Jul 16 2022,CFR Cluj,1-0,?,FC Rapid Bucuresti
+Sun Jul 17 2022,Farul Constanta,2-1,?,U Craiova 1948
+Sun Jul 17 2022,FCSB,1-1,?,U. Cluj
+Mon Jul 18 2022,FC Botosani,3-2,?,Chindia Targoviste
+Mon Jul 18 2022,Petrolul,0-1,?,FC Voluntari
+Fri Jul 22 2022,Mioveni,0-2,?,Farul Constanta
+Sat Jul 23 2022,FC Voluntari,0-1,?,FC Botosani
+Sun Jul 24 2022,Sepsi Sf. Gheorghe,4-0,?,FC Arges
+Sun Jul 24 2022,U Craiova 1948,3-1,?,CFR Cluj
+Sun Jul 24 2022,U. Cluj,1-1,?,Univ. Craiova
+Sun Jul 24 2022,FC Rapid Bucuresti,2-0,?,FCSB
+Mon Jul 25 2022,Chindia Targoviste,1-1,?,FC Hermannstadt
+Mon Jul 25 2022,UTA Arad,2-0,?,Petrolul
+Fri Jul 29 2022,FC Arges,3-1,?,U. Cluj
+Fri Jul 29 2022,Farul Constanta,0-0,?,Chindia Targoviste
+Sat Jul 30 2022,FC Voluntari,3-0,?,UTA Arad
+Sat Jul 30 2022,CFR Cluj,4-2,?,Mioveni
+Sun Jul 31 2022,Petrolul,1-1,?,Sepsi Sf. Gheorghe
+Sun Jul 31 2022,Univ. Craiova,0-1,?,FC Rapid Bucuresti
+Sun Jul 31 2022,FCSB,1-1,?,U Craiova 1948
+Mon Aug 1 2022,FC Hermannstadt,1-1,?,FC Botosani
+Fri Aug 5 2022,U. Cluj,0-1,?,Petrolul
+Sat Aug 6 2022,Mioveni,1-1,?,FCSB
+Sat Aug 6 2022,FC Rapid Bucuresti,2-1,?,FC Arges
+Sun Aug 7 2022,Sepsi Sf. Gheorghe,0-0,?,UTA Arad
+Sun Aug 7 2022,Chindia Targoviste,0-2,?,CFR Cluj
+Sun Aug 7 2022,U Craiova 1948,1-2,?,Univ. Craiova
+Mon Aug 8 2022,FC Hermannstadt,2-1,?,FC Voluntari
+Mon Aug 8 2022,FC Botosani,1-1,?,Farul Constanta
+Fri Aug 12 2022,FC Arges,0-2,?,U Craiova 1948
+Sat Aug 13 2022,UTA Arad,2-1,?,U. Cluj
+Sat Aug 13 2022,Petrolul,1-0,?,FC Rapid Bucuresti
+Sun Aug 14 2022,Univ. Craiova,1-0,?,Mioveni
+Sun Aug 14 2022,CFR Cluj,0-1,?,FC Botosani
+Sun Aug 14 2022,FCSB,3-2,?,Chindia Targoviste
+Mon Aug 15 2022,FC Voluntari,0-0,?,Sepsi Sf. Gheorghe
+Mon Aug 15 2022,Farul Constanta,0-0,?,FC Hermannstadt
+Fri Aug 19 2022,Mioveni,0-1,?,FC Arges
+Fri Aug 19 2022,U Craiova 1948,0-1,?,Petrolul
+Sat Aug 20 2022,FC Rapid Bucuresti,1-0,?,UTA Arad
+Mon Aug 22 2022,U. Cluj,0-1,?,Sepsi Sf. Gheorghe
+Mon Aug 22 2022,Farul Constanta,2-1,?,FC Voluntari
+Fri Aug 26 2022,FC Voluntari,0-0,?,U. Cluj
+Fri Aug 26 2022,UTA Arad,2-1,?,U Craiova 1948
+Sat Aug 27 2022,Petrolul,0-0,?,Mioveni
+Sat Aug 27 2022,Sepsi Sf. Gheorghe,1-2,?,FC Rapid Bucuresti
+Sun Aug 28 2022,FC Arges,2-1,?,Chindia Targoviste
+Sun Aug 28 2022,CFR Cluj,1-3,?,Farul Constanta
+Sun Aug 28 2022,FCSB,2-2,?,FC Hermannstadt
+Mon Aug 29 2022,Univ. Craiova,1-0,?,FC Botosani
+Tue Aug 30 2022,Mioveni,1-1,?,UTA Arad
+Tue Aug 30 2022,U Craiova 1948,1-0,?,Sepsi Sf. Gheorghe
+Tue Aug 30 2022,FC Rapid Bucuresti,1-0,?,U. Cluj
+Wed Aug 31 2022,Chindia Targoviste,2-3,?,Petrolul
+Wed Aug 31 2022,CFR Cluj,4-0,?,FC Voluntari
+Wed Aug 31 2022,Farul Constanta,3-1,?,FCSB
+Thu Sep 1 2022,FC Botosani,0-0,?,FC Arges
+Thu Sep 1 2022,FC Hermannstadt,1-0,?,Univ. Craiova
+Fri Sep 2 2022,Sepsi Sf. Gheorghe,0-1,?,Mioveni
+Fri Sep 2 2022,U. Cluj,1-1,?,U Craiova 1948
+Sat Sep 3 2022,UTA Arad,1-1,?,Chindia Targoviste
+Sat Sep 3 2022,FC Voluntari,0-1,?,FC Rapid Bucuresti
+Sun Sep 4 2022,Petrolul,2-1,?,FC Botosani
+Mon Sep 5 2022,FC Arges,0-1,?,FC Hermannstadt
+Mon Sep 5 2022,Univ. Craiova,4-3,?,Farul Constanta
+Fri Sep 9 2022,FC Botosani,1-2,?,UTA Arad
+Sat Sep 10 2022,Chindia Targoviste,1-2,?,Sepsi Sf. Gheorghe
+Sat Sep 10 2022,FC Hermannstadt,2-1,?,Petrolul
+Sat Sep 10 2022,U Craiova 1948,1-0,?,FC Rapid Bucuresti
+Sun Sep 11 2022,Farul Constanta,3-0,?,FC Arges
+Sun Sep 11 2022,CFR Cluj,2-0,?,Univ. Craiova
+Mon Sep 12 2022,Mioveni,0-1,?,U. Cluj
+Mon Sep 12 2022,FCSB,1-1,?,FC Voluntari
+Fri Sep 16 2022,FC Voluntari,1-0,?,U Craiova 1948
+Fri Sep 16 2022,Petrolul,1-3,?,Farul Constanta
+Sat Sep 17 2022,UTA Arad,1-2,?,FC Hermannstadt
+Sat Sep 17 2022,Sepsi Sf. Gheorghe,7-0,?,FC Botosani
+Sat Sep 17 2022,FC Rapid Bucuresti,2-1,?,Mioveni
+Sun Sep 18 2022,U. Cluj,1-0,?,Chindia Targoviste
+Sun Sep 18 2022,Univ. Craiova,2-1,?,FCSB
+Mon Sep 19 2022,FC Arges,0-1,?,CFR Cluj
+Fri Sep 30 2022,Univ. Craiova,1-1,?,FC Voluntari
+Sat Oct 1 2022,Mioveni,2-2,?,U Craiova 1948
+Sat Oct 1 2022,CFR Cluj,1-0,?,Petrolul
+Sun Oct 2 2022,FC Hermannstadt,1-2,?,Sepsi Sf. Gheorghe
+Sun Oct 2 2022,Farul Constanta,2-0,?,UTA Arad
+Sun Oct 2 2022,FCSB,3-2,?,FC Arges
+Mon Oct 3 2022,FC Botosani,1-1,?,U. Cluj
+Mon Oct 3 2022,Chindia Targoviste,2-1,?,FC Rapid Bucuresti
+Fri Oct 7 2022,FC Voluntari,3-1,?,Mioveni
+Fri Oct 7 2022,FC Arges,1-0,?,Univ. Craiova
+Sat Oct 8 2022,U. Cluj,1-0,?,FC Hermannstadt
+Sat Oct 8 2022,FC Rapid Bucuresti,1-1,?,FC Botosani
+Sun Oct 9 2022,Sepsi Sf. Gheorghe,0-1,?,Farul Constanta
+Sun Oct 9 2022,Petrolul,0-2,?,FCSB
+Mon Oct 10 2022,U Craiova 1948,0-1,?,Chindia Targoviste
+Mon Oct 10 2022,UTA Arad,1-1,?,CFR Cluj
+Fri Oct 14 2022,FC Arges,0-0,?,FC Voluntari
+Fri Oct 14 2022,FC Hermannstadt,0-2,?,FC Rapid Bucuresti
+Sat Oct 15 2022,FC Botosani,1-0,?,U Craiova 1948
+Sat Oct 15 2022,Farul Constanta,2-0,?,U. Cluj
+Sat Oct 15 2022,Univ. Craiova,2-1,?,Petrolul
+Sun Oct 16 2022,Chindia Targoviste,1-0,?,Mioveni
+Sun Oct 16 2022,FCSB,2-1,?,UTA Arad
+Mon Oct 17 2022,CFR Cluj,2-1,?,Sepsi Sf. Gheorghe
+Fri Oct 21 2022,FC Rapid Bucuresti,1-1,?,Farul Constanta
+Sat Oct 22 2022,FC Voluntari,0-3,?,Chindia Targoviste
+Sat Oct 22 2022,U Craiova 1948,1-1,?,FC Hermannstadt
+Sun Oct 23 2022,Mioveni,0-0,?,FC Botosani
+Sun Oct 23 2022,UTA Arad,1-2,?,Univ. Craiova
+Sun Oct 23 2022,U. Cluj,1-2,?,CFR Cluj
+Mon Oct 24 2022,Petrolul,2-0,?,FC Arges
+Mon Oct 24 2022,Sepsi Sf. Gheorghe,0-1,?,FCSB
+Fri Oct 28 2022,Chindia Targoviste,2-2,?,FC Botosani
+Fri Oct 28 2022,U Craiova 1948,1-2,?,Farul Constanta
+Sat Oct 29 2022,FC Voluntari,0-1,?,Petrolul
+Sat Oct 29 2022,Sepsi Sf. Gheorghe,0-1,?,Univ. Craiova
+Sun Oct 30 2022,UTA Arad,0-1,?,FC Arges
+Sun Oct 30 2022,FC Rapid Bucuresti,2-1,?,CFR Cluj
+Mon Oct 31 2022,Mioveni,0-2,?,FC Hermannstadt
+Mon Oct 31 2022,U. Cluj,2-1,?,FCSB
+Fri Nov 4 2022,FC Botosani,0-1,?,FC Voluntari
+Fri Nov 4 2022,Farul Constanta,2-1,?,Mioveni
+Sat Nov 5 2022,FC Arges,0-5,?,Sepsi Sf. Gheorghe
+Sat Nov 5 2022,Petrolul,2-1,?,UTA Arad
+Sat Nov 5 2022,Univ. Craiova,1-0,?,U. Cluj
+Sun Nov 6 2022,FC Hermannstadt,0-1,?,Chindia Targoviste
+Sun Nov 6 2022,FCSB,3-1,?,FC Rapid Bucuresti
+Mon Nov 7 2022,CFR Cluj,3-1,?,U Craiova 1948
+Fri Nov 11 2022,Sepsi Sf. Gheorghe,2-0,?,Petrolul
+Sat Nov 12 2022,Chindia Targoviste,1-1,?,Farul Constanta
+Sat Nov 12 2022,FC Rapid Bucuresti,2-2,?,Univ. Craiova
+Sun Nov 13 2022,UTA Arad,1-1,?,FC Voluntari
+Sun Nov 13 2022,Mioveni,0-1,?,CFR Cluj
+Sun Nov 13 2022,U Craiova 1948,0-2,?,FCSB
+Mon Nov 14 2022,U. Cluj,1-1,?,FC Arges
+Mon Nov 14 2022,FC Botosani,0-0,?,FC Hermannstadt
+Tue Nov 29 2022,Chindia Targoviste,1-1,?,Univ. Craiova
+Wed Nov 30 2022,FC Hermannstadt,2-3,?,CFR Cluj
+Thu Dec 1 2022,FC Botosani,2-3,?,FCSB
+Fri Dec 2 2022,UTA Arad,1-4,?,Sepsi Sf. Gheorghe
+Fri Dec 2 2022,Petrolul,2-0,?,U. Cluj
+Sat Dec 3 2022,FC Voluntari,3-0,?,FC Hermannstadt
+Sat Dec 3 2022,Univ. Craiova,0-2,?,U Craiova 1948
+Sun Dec 4 2022,Farul Constanta,8-0,?,FC Botosani
+Sun Dec 4 2022,CFR Cluj,2-0,?,Chindia Targoviste
+Sun Dec 4 2022,FC Arges,1-1,?,FC Rapid Bucuresti
+Mon Dec 5 2022,FCSB,5-1,?,Mioveni
+Fri Dec 9 2022,Sepsi Sf. Gheorghe,1-1,?,FC Voluntari
+Sat Dec 10 2022,FC Hermannstadt,4-0,?,Farul Constanta
+Sun Dec 11 2022,U. Cluj,0-0,?,UTA Arad
+Sun Dec 11 2022,FC Botosani,1-1,?,CFR Cluj
+Sun Dec 11 2022,Chindia Targoviste,0-2,?,FCSB
+Mon Dec 12 2022,U Craiova 1948,1-0,?,FC Arges
+Mon Dec 12 2022,Mioveni,0-1,?,Univ. Craiova
+Wed Dec 14 2022,FC Rapid Bucuresti,3-1,?,Petrolul
+Thu Dec 15 2022,FCSB,0-1,?,CFR Cluj
+Fri Dec 16 2022,FC Voluntari,1-1,?,Farul Constanta
+Sat Dec 17 2022,Sepsi Sf. Gheorghe,2-1,?,U. Cluj
+Sat Dec 17 2022,Univ. Craiova,3-0,?,Chindia Targoviste
+Sun Dec 18 2022,FC Arges,2-2,?,Mioveni
+Sun Dec 18 2022,Petrolul,1-1,?,U Craiova 1948
+Sun Dec 18 2022,UTA Arad,1-1,?,FC Rapid Bucuresti
+Mon Dec 19 2022,FCSB,1-0,?,FC Botosani
+Tue Dec 20 2022,CFR Cluj,0-1,?,FC Hermannstadt
+Fri Jan 20 2023,U. Cluj,2-1,?,FC Voluntari
+Fri Jan 20 2023,FC Rapid Bucuresti,3-0,?,Sepsi Sf. Gheorghe
+Sat Jan 21 2023,Mioveni,1-0,?,Petrolul
+Sat Jan 21 2023,FC Botosani,1-0,?,Univ. Craiova
+Sun Jan 22 2023,U Craiova 1948,1-1,?,UTA Arad
+Sun Jan 22 2023,FC Hermannstadt,0-1,?,FCSB
+Mon Jan 23 2023,Chindia Targoviste,1-1,?,FC Arges
+Mon Jan 23 2023,Farul Constanta,0-3,?,CFR Cluj
+Fri Jan 27 2023,U. Cluj,0-0,?,FC Rapid Bucuresti
+Sat Jan 28 2023,UTA Arad,1-2,?,Mioveni
+Sat Jan 28 2023,Petrolul,1-2,?,Chindia Targoviste
+Sat Jan 28 2023,Univ. Craiova,2-0,?,FC Hermannstadt
+Sun Jan 29 2023,FC Arges,0-2,?,FC Botosani
+Sun Jan 29 2023,FCSB,2-3,?,Farul Constanta
+Mon Jan 30 2023,FC Voluntari,0-1,?,CFR Cluj
+Fri Feb 3 2023,Chindia Targoviste,2-1,?,UTA Arad
+Fri Feb 3 2023,U Craiova 1948,5-0,?,U. Cluj
+Sat Feb 4 2023,FC Hermannstadt,1-1,?,FC Arges
+Sat Feb 4 2023,FC Rapid Bucuresti,4-1,?,FC Voluntari
+Sun Feb 5 2023,Mioveni,1-1,?,Sepsi Sf. Gheorghe
+Sun Feb 5 2023,CFR Cluj,0-1,?,FCSB
+Mon Feb 6 2023,FC Botosani,5-0,?,Petrolul
+Mon Feb 6 2023,Farul Constanta,2-1,?,Univ. Craiova
+Fri Feb 10 2023,U. Cluj,2-2,?,Mioveni
+Fri Feb 10 2023,FC Rapid Bucuresti,1-2,?,U Craiova 1948
+Sat Feb 11 2023,UTA Arad,3-1,?,FC Botosani
+Sat Feb 11 2023,Univ. Craiova,2-0,?,CFR Cluj
+Sun Feb 12 2023,FC Arges,0-0,?,Farul Constanta
+Sun Feb 12 2023,FC Voluntari,1-2,?,FCSB
+Mon Feb 13 2023,Sepsi Sf. Gheorghe,2-2,?,Chindia Targoviste
+Mon Feb 13 2023,Petrolul,2-0,?,FC Hermannstadt
+Fri Feb 17 2023,Chindia Targoviste,2-2,?,U. Cluj
+Fri Feb 17 2023,Mioveni,0-0,?,FC Rapid Bucuresti
+Sat Feb 18 2023,FC Hermannstadt,0-0,?,UTA Arad
+Sat Feb 18 2023,Farul Constanta,2-0,?,Petrolul
+Sun Feb 19 2023,CFR Cluj,3-1,?,FC Arges
+Sun Feb 19 2023,FCSB,1-1,?,Univ. Craiova
+Mon Feb 20 2023,FC Botosani,1-1,?,Sepsi Sf. Gheorghe
+Mon Feb 20 2023,U Craiova 1948,2-1,?,FC Voluntari
+Fri Feb 24 2023,U Craiova 1948,2-1,?,Mioveni
+Fri Feb 24 2023,UTA Arad,0-1,?,Farul Constanta
+Sat Feb 25 2023,Sepsi Sf. Gheorghe,2-1,?,FC Hermannstadt
+Sat Feb 25 2023,U. Cluj,2-0,?,FC Botosani
+Sat Feb 25 2023,FC Rapid Bucuresti,2-0,?,Chindia Targoviste
+Sun Feb 26 2023,FC Voluntari,1-0,?,Univ. Craiova
+Sun Feb 26 2023,FC Arges,1-2,?,FCSB
+Mon Feb 27 2023,Petrolul,2-5,?,CFR Cluj
+Tue Feb 28 2023,FC Hermannstadt,0-1,?,U. Cluj
+Tue Feb 28 2023,Chindia Targoviste,0-0,?,U Craiova 1948
+Tue Feb 28 2023,Farul Constanta,2-0,?,Sepsi Sf. Gheorghe
+Wed Mar 1 2023,Mioveni,0-3,?,FC Voluntari
+Wed Mar 1 2023,Univ. Craiova,1-0,?,FC Arges
+Wed Mar 1 2023,FC Botosani,1-2,?,FC Rapid Bucuresti
+Thu Mar 2 2023,CFR Cluj,2-1,?,UTA Arad
+Thu Mar 2 2023,FCSB,4-1,?,Petrolul
+Fri Mar 3 2023,U. Cluj,2-0,?,Farul Constanta
+Sat Mar 4 2023,U Craiova 1948,1-0,?,FC Botosani
+Sat Mar 4 2023,FC Rapid Bucuresti,0-1,?,FC Hermannstadt
+Sun Mar 5 2023,Mioveni,2-0,?,Chindia Targoviste
+Sun Mar 5 2023,Petrolul,0-1,?,Univ. Craiova
+Sun Mar 5 2023,UTA Arad,3-1,?,FCSB
+Mon Mar 6 2023,FC Voluntari,0-0,?,FC Arges
+Mon Mar 6 2023,Sepsi Sf. Gheorghe,2-2,?,CFR Cluj
+Fri Mar 10 2023,FC Botosani,1-1,?,Mioveni
+Fri Mar 10 2023,Univ. Craiova,2-1,?,UTA Arad
+Sat Mar 11 2023,FC Arges,0-1,?,Petrolul
+Sat Mar 11 2023,Farul Constanta,2-1,?,FC Rapid Bucuresti
+Sun Mar 12 2023,FC Hermannstadt,1-0,?,U Craiova 1948
+Sun Mar 12 2023,FCSB,1-0,?,Sepsi Sf. Gheorghe
+Mon Mar 13 2023,Chindia Targoviste,1-1,?,FC Voluntari
+Mon Mar 13 2023,CFR Cluj,4-0,?,U. Cluj
+Thu Mar 16 2023,Sepsi Sf. Gheorghe,4-0,?,U Craiova 1948
+Fri Mar 17 2023,FC Voluntari,1-1,?,FC Hermannstadt
+Fri Mar 17 2023,Petrolul,1-0,?,UTA Arad
+Sat Mar 18 2023,FC Botosani,1-0,?,Chindia Targoviste
+Sat Mar 18 2023,FCSB,1-1,?,Univ. Craiova
+Sun Mar 19 2023,Farul Constanta,2-1,?,Sepsi Sf. Gheorghe
+Sun Mar 19 2023,CFR Cluj,2-2,?,FC Rapid Bucuresti
+Mon Mar 20 2023,U Craiova 1948,3-0,?,Mioveni
+Mon Mar 20 2023,U. Cluj,2-0,?,FC Arges
+Fri Mar 31 2023,U Craiova 1948,0-1,?,Petrolul
+Sat Apr 1 2023,UTA Arad,2-0,?,U. Cluj
+Sat Apr 1 2023,FC Hermannstadt,1-1,?,FC Botosani
+Sat Apr 1 2023,FC Rapid Bucuresti,1-1,?,Farul Constanta
+Sun Apr 2 2023,FC Arges,0-2,?,FC Voluntari
+Sun Apr 2 2023,Univ. Craiova,1-1,?,CFR Cluj
+Mon Apr 3 2023,Mioveni,0-1,?,Chindia Targoviste
+Mon Apr 3 2023,Sepsi Sf. Gheorghe,1-2,?,FCSB
+Sat Apr 8 2023,FC Voluntari,1-1,?,UTA Arad
+Sat Apr 8 2023,U. Cluj,1-3,?,U Craiova 1948
+Sat Apr 8 2023,Farul Constanta,3-2,?,Univ. Craiova
+Sun Apr 9 2023,Chindia Targoviste,1-2,?,FC Hermannstadt
+Sun Apr 9 2023,FC Botosani,1-0,?,FC Arges
+Sun Apr 9 2023,CFR Cluj,1-1,?,FCSB
+Mon Apr 10 2023,Petrolul,2-0,?,Mioveni
+Mon Apr 10 2023,Sepsi Sf. Gheorghe,2-0,?,FC Rapid Bucuresti
+Fri Apr 14 2023,U Craiova 1948,3-3,?,FC Voluntari
+Fri Apr 14 2023,UTA Arad,0-2,?,FC Botosani
+Sat Apr 15 2023,Mioveni,0-2,?,FC Hermannstadt
+Sat Apr 15 2023,CFR Cluj,2-1,?,Sepsi Sf. Gheorghe
+Sun Apr 16 2023,Petrolul,0-2,?,U. Cluj
+Sun Apr 16 2023,Univ. Craiova,3-1,?,FC Rapid Bucuresti
+Mon Apr 17 2023,FC Arges,1-0,?,Chindia Targoviste
+Mon Apr 17 2023,FCSB,2-1,?,Farul Constanta
+Fri Apr 21 2023,Sepsi Sf. Gheorghe,1-2,?,Univ. Craiova
+Sat Apr 22 2023,FC Hermannstadt,2-1,?,FC Arges
+Sat Apr 22 2023,FC Botosani,0-0,?,U Craiova 1948
+Sat Apr 22 2023,Farul Constanta,1-0,?,CFR Cluj
+Sun Apr 23 2023,Chindia Targoviste,2-1,?,UTA Arad
+Sun Apr 23 2023,FC Rapid Bucuresti,1-0,?,FCSB
+Mon Apr 24 2023,U. Cluj,1-0,?,Mioveni
+Mon Apr 24 2023,FC Voluntari,2-2,?,Petrolul
+Fri Apr 28 2023,U Craiova 1948,1-0,?,Chindia Targoviste
+Sat Apr 29 2023,Mioveni,0-2,?,FC Arges
+Sat Apr 29 2023,Petrolul,1-0,?,FC Botosani
+Sat Apr 29 2023,Sepsi Sf. Gheorghe,1-1,?,Farul Constanta
+Sun Apr 30 2023,Univ. Craiova,1-2,?,FCSB
+Mon May 1 2023,U. Cluj,2-3,?,FC Voluntari
+Mon May 1 2023,FC Rapid Bucuresti,3-1,?,CFR Cluj
+Tue May 2 2023,UTA Arad,1-0,?,FC Hermannstadt
+Fri May 5 2023,FC Voluntari,1-0,?,Mioveni
+Fri May 5 2023,Chindia Targoviste,1-2,?,Petrolul
+Sat May 6 2023,FC Botosani,0-0,?,U. Cluj
+Sat May 6 2023,Farul Constanta,7-2,?,FC Rapid Bucuresti
+Sun May 7 2023,CFR Cluj,1-1,?,Univ. Craiova
+Mon May 8 2023,FC Hermannstadt,0-0,?,U Craiova 1948
+Mon May 8 2023,FC Arges,2-2,?,UTA Arad
+Mon May 8 2023,FCSB,3-1,?,Sepsi Sf. Gheorghe
+Fri May 12 2023,FC Voluntari,2-0,?,FC Botosani
+Fri May 12 2023,FC Rapid Bucuresti,0-0,?,Sepsi Sf. Gheorghe
+Sat May 13 2023,Petrolul,0-1,?,FC Hermannstadt
+Sat May 13 2023,U. Cluj,2-0,?,Chindia Targoviste
+Sat May 13 2023,Univ. Craiova,1-1,?,Farul Constanta
+Sun May 14 2023,Mioveni,0-2,?,UTA Arad
+Sun May 14 2023,U Craiova 1948,2-1,?,FC Arges
+Sun May 14 2023,FCSB,1-0,?,CFR Cluj
+Fri May 19 2023,FC Hermannstadt,1-2,?,U. Cluj
+Fri May 19 2023,Chindia Targoviste,2-2,?,FC Voluntari
+Fri May 19 2023,FC Arges,3-0,?,Petrolul
+Fri May 19 2023,UTA Arad,1-1,?,U Craiova 1948
+Sat May 20 2023,FC Botosani,5-1,?,Mioveni
+Sat May 20 2023,Sepsi Sf. Gheorghe,1-2,?,CFR Cluj
+Sun May 21 2023,Farul Constanta,3-2,?,FCSB
+Mon May 22 2023,FC Rapid Bucuresti,2-3,?,Univ. Craiova
+Fri May 26 2023,U Craiova 1948,4-3,?,FC Voluntari
+Sat May 27 2023,FCSB,1-5,?,FC Rapid Bucuresti
+Sun May 28 2023,Gloria Buzau,0-0,?,UTA Arad
+Sun May 28 2023,CFR Cluj,1-2,?,Farul Constanta
+Sun May 28 2023,Univ. Craiova,0-1,?,Sepsi Sf. Gheorghe
+Mon May 29 2023,Din. Bucuresti,6-1,?,FC Arges
+Thu Jun 1 2023,CFR Cluj,1-0,?,U Craiova 1948
+Sat Jun 3 2023,FC Arges,4-2,?,Din. Bucuresti
+Sun Jun 4 2023,UTA Arad,5-1,?,Gloria Buzau

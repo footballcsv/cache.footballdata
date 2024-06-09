@@ -1,0 +1,463 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 12 2022,Levante,0-0,0-0,Huesca
+Sat Aug 13 2022,Eibar,2-1,0-0,Tenerife
+Sat Aug 13 2022,Mirandes,1-1,1-1,Sp Gijon
+Sat Aug 13 2022,Leganes,1-2,0-1,Alaves
+Sat Aug 13 2022,Las Palmas,0-0,0-0,Zaragoza
+Sun Aug 14 2022,Santander,0-2,0-0,Villarreal B
+Sun Aug 14 2022,Ibiza,0-2,0-0,Granada
+Sun Aug 14 2022,Burgos,1-0,0-0,Malaga
+Mon Aug 15 2022,Oviedo,0-1,0-0,Andorra
+Mon Aug 15 2022,Lugo,1-2,1-1,Albacete
+Mon Aug 15 2022,Cartagena,2-3,1-1,Ponferradina
+Fri Aug 19 2022,Villarreal B,2-2,2-1,Eibar
+Fri Aug 19 2022,Alaves,1-0,1-0,Mirandes
+Sat Aug 20 2022,Sp Gijon,4-1,1-0,Andorra
+Sat Aug 20 2022,Albacete,0-0,0-0,Burgos
+Sat Aug 20 2022,Zaragoza,0-0,0-0,Levante
+Sat Aug 20 2022,Granada,2-0,0-0,Santander
+Sun Aug 21 2022,Oviedo,1-0,0-0,Leganes
+Sun Aug 21 2022,Huesca,2-3,1-1,Cartagena
+Sun Aug 21 2022,Tenerife,1-1,1-0,Lugo
+Mon Aug 22 2022,Ponferradina,2-1,1-1,Ibiza
+Mon Aug 22 2022,Malaga,0-4,0-1,Las Palmas
+Fri Aug 26 2022,Albacete,2-1,1-0,Huesca
+Fri Aug 26 2022,Cartagena,1-0,0-0,Zaragoza
+Sat Aug 27 2022,Sp Gijon,0-0,0-0,Burgos
+Sat Aug 27 2022,Lugo,1-0,1-0,Leganes
+Sat Aug 27 2022,Mirandes,1-3,0-1,Malaga
+Sat Aug 27 2022,Levante,2-0,1-0,Tenerife
+Sun Aug 28 2022,Santander,0-1,0-0,Oviedo
+Sun Aug 28 2022,Eibar,1-0,1-0,Ponferradina
+Sun Aug 28 2022,Ibiza,1-1,1-0,Alaves
+Mon Aug 29 2022,Granada,3-0,2-0,Villarreal B
+Mon Aug 29 2022,Las Palmas,2-0,1-0,Andorra
+Fri Sep 2 2022,Leganes,2-1,1-0,Eibar
+Sat Sep 3 2022,Alaves,1-1,1-0,Las Palmas
+Sat Sep 3 2022,Villarreal B,3-0,1-0,Mirandes
+Sat Sep 3 2022,Ponferradina,1-3,0-2,Sp Gijon
+Sat Sep 3 2022,Tenerife,1-0,0-0,Santander
+Sun Sep 4 2022,Andorra,1-0,1-0,Granada
+Sun Sep 4 2022,Malaga,1-2,1-2,Albacete
+Sun Sep 4 2022,Burgos,1-0,1-0,Cartagena
+Sun Sep 4 2022,Huesca,3-0,1-0,Ibiza
+Sun Sep 4 2022,Zaragoza,1-2,1-0,Lugo
+Mon Sep 5 2022,Oviedo,1-1,1-0,Levante
+Fri Sep 9 2022,Las Palmas,1-0,1-0,Leganes
+Sat Sep 10 2022,Lugo,1-2,1-0,Alaves
+Sat Sep 10 2022,Burgos,0-0,0-0,Oviedo
+Sat Sep 10 2022,Cartagena,2-1,0-0,Albacete
+Sat Sep 10 2022,Levante,4-1,1-0,Villarreal B
+Sun Sep 11 2022,Sp Gijon,0-2,0-1,Santander
+Sun Sep 11 2022,Ibiza,1-0,0-0,Tenerife
+Sun Sep 11 2022,Mirandes,1-1,1-0,Andorra
+Sun Sep 11 2022,Ponferradina,1-2,1-1,Zaragoza
+Sun Sep 11 2022,Huesca,1-0,0-0,Malaga
+Mon Sep 12 2022,Eibar,4-0,1-0,Granada
+Fri Sep 16 2022,Levante,0-1,0-1,Cartagena
+Sat Sep 17 2022,Villarreal B,3-1,1-0,Lugo
+Sat Sep 17 2022,Oviedo,0-1,0-0,Ibiza
+Sat Sep 17 2022,Andorra,2-0,1-0,Eibar
+Sat Sep 17 2022,Granada,2-1,1-0,Mirandes
+Sat Sep 17 2022,Zaragoza,1-0,0-0,Sp Gijon
+Sun Sep 18 2022,Leganes,0-0,0-0,Burgos
+Sun Sep 18 2022,Alaves,2-1,1-0,Huesca
+Sun Sep 18 2022,Santander,0-0,0-0,Las Palmas
+Sun Sep 18 2022,Albacete,0-1,0-0,Ponferradina
+Mon Sep 19 2022,Tenerife,3-1,1-1,Malaga
+Fri Sep 23 2022,Sp Gijon,2-1,1-1,Ibiza
+Sat Sep 24 2022,Huesca,1-0,1-0,Leganes
+Sat Sep 24 2022,Mirandes,2-0,1-0,Zaragoza
+Sat Sep 24 2022,Malaga,1-1,1-1,Villarreal B
+Sat Sep 24 2022,Ponferradina,2-2,1-1,Tenerife
+Sun Sep 25 2022,Burgos,0-0,0-0,Levante
+Sun Sep 25 2022,Lugo,0-0,0-0,Oviedo
+Sun Sep 25 2022,Albacete,1-1,0-0,Andorra
+Sun Sep 25 2022,Eibar,2-1,2-0,Santander
+Mon Sep 26 2022,Cartagena,1-1,1-0,Alaves
+Mon Sep 26 2022,Las Palmas,2-0,1-0,Granada
+Fri Sep 30 2022,Tenerife,1-1,0-1,Sp Gijon
+Sat Oct 1 2022,Mirandes,3-3,1-1,Las Palmas
+Sat Oct 1 2022,Santander,0-0,0-0,Malaga
+Sat Oct 1 2022,Andorra,3-1,0-1,Levante
+Sat Oct 1 2022,Villarreal B,0-0,0-0,Burgos
+Sun Oct 2 2022,Alaves,3-1,2-1,Ponferradina
+Sun Oct 2 2022,Leganes,1-2,1-0,Albacete
+Sun Oct 2 2022,Granada,0-0,0-0,Huesca
+Sun Oct 2 2022,Oviedo,1-3,0-2,Cartagena
+Sun Oct 2 2022,Ibiza,3-2,2-1,Lugo
+Mon Oct 3 2022,Zaragoza,0-0,0-0,Eibar
+Fri Oct 7 2022,Sp Gijon,3-1,2-0,Villarreal B
+Sat Oct 8 2022,Ponferradina,0-0,0-0,Granada
+Sat Oct 8 2022,Huesca,1-1,0-0,Lugo
+Sat Oct 8 2022,Las Palmas,0-0,0-0,Ibiza
+Sat Oct 8 2022,Burgos,3-0,0-0,Alaves
+Sun Oct 9 2022,Cartagena,1-2,0-0,Leganes
+Sun Oct 9 2022,Zaragoza,1-1,1-0,Oviedo
+Sun Oct 9 2022,Albacete,1-1,0-0,Tenerife
+Sun Oct 9 2022,Levante,0-1,0-0,Santander
+Sun Oct 9 2022,Malaga,0-0,0-0,Andorra
+Mon Oct 10 2022,Eibar,0-0,0-0,Mirandes
+Wed Oct 12 2022,Villarreal B,2-2,0-1,Ponferradina
+Wed Oct 12 2022,Andorra,0-1,0-0,Burgos
+Wed Oct 12 2022,Leganes,1-0,0-0,Malaga
+Wed Oct 12 2022,Alaves,0-0,0-0,Albacete
+Wed Oct 12 2022,Oviedo,0-1,0-0,Huesca
+Wed Oct 12 2022,Tenerife,0-0,0-0,Cartagena
+Wed Oct 12 2022,Lugo,0-1,0-0,Las Palmas
+Wed Oct 12 2022,Santander,1-0,0-0,Zaragoza
+Thu Oct 13 2022,Ibiza,1-2,1-0,Eibar
+Thu Oct 13 2022,Mirandes,0-1,0-1,Levante
+Thu Oct 13 2022,Granada,5-0,2-0,Sp Gijon
+Sat Oct 15 2022,Andorra,0-1,0-0,Alaves
+Sat Oct 15 2022,Zaragoza,2-1,1-0,Villarreal B
+Sat Oct 15 2022,Huesca,0-0,0-0,Santander
+Sat Oct 15 2022,Ponferradina,0-1,0-1,Las Palmas
+Sat Oct 15 2022,Albacete,1-0,0-0,Oviedo
+Sun Oct 16 2022,Levante,2-1,0-0,Leganes
+Sun Oct 16 2022,Burgos,2-1,1-0,Mirandes
+Sun Oct 16 2022,Malaga,3-2,1-0,Lugo
+Sun Oct 16 2022,Cartagena,2-0,0-0,Ibiza
+Sun Oct 16 2022,Tenerife,2-0,1-0,Granada
+Mon Oct 17 2022,Sp Gijon,2-0,1-0,Eibar
+Fri Oct 21 2022,Granada,1-0,0-0,Zaragoza
+Sat Oct 22 2022,Villarreal B,1-0,0-0,Andorra
+Sat Oct 22 2022,Alaves,0-0,0-0,Sp Gijon
+Sat Oct 22 2022,Mirandes,1-1,0-0,Huesca
+Sat Oct 22 2022,Ibiza,1-2,1-1,Levante
+Sun Oct 23 2022,Santander,1-1,1-0,Ponferradina
+Sun Oct 23 2022,Lugo,2-0,1-0,Burgos
+Sun Oct 23 2022,Eibar,1-1,1-1,Albacete
+Sun Oct 23 2022,Leganes,2-1,1-0,Tenerife
+Sun Oct 23 2022,Las Palmas,1-0,0-0,Cartagena
+Mon Oct 24 2022,Oviedo,1-0,1-0,Malaga
+Fri Oct 28 2022,Tenerife,0-2,0-1,Zaragoza
+Sat Oct 29 2022,Andorra,3-0,2-0,Ponferradina
+Sat Oct 29 2022,Huesca,1-0,1-0,Las Palmas
+Sat Oct 29 2022,Alaves,2-1,1-0,Oviedo
+Sat Oct 29 2022,Leganes,0-0,0-0,Santander
+Sat Oct 29 2022,Burgos,2-0,1-0,Ibiza
+Sun Oct 30 2022,Lugo,0-0,0-0,Mirandes
+Sun Oct 30 2022,Malaga,0-1,0-1,Eibar
+Sun Oct 30 2022,Cartagena,0-0,0-0,Granada
+Sun Oct 30 2022,Albacete,0-0,0-0,Villarreal B
+Mon Oct 31 2022,Levante,1-0,0-0,Sp Gijon
+Tue Nov 1 2022,Ponferradina,1-0,1-0,Huesca
+Tue Nov 1 2022,Zaragoza,0-2,0-1,Andorra
+Tue Nov 1 2022,Las Palmas,0-2,0-0,Burgos
+Tue Nov 1 2022,Santander,1-1,1-1,Alaves
+Tue Nov 1 2022,Ibiza,0-2,0-1,Leganes
+Wed Nov 2 2022,Eibar,1-0,0-0,Lugo
+Wed Nov 2 2022,Villarreal B,2-1,0-0,Oviedo
+Wed Nov 2 2022,Mirandes,1-0,0-0,Tenerife
+Thu Nov 3 2022,Cartagena,2-1,0-0,Malaga
+Thu Nov 3 2022,Sp Gijon,2-2,1-1,Albacete
+Thu Nov 3 2022,Granada,0-0,0-0,Levante
+Fri Nov 4 2022,Alaves,1-0,0-0,Zaragoza
+Sat Nov 5 2022,Burgos,0-1,0-0,Tenerife
+Sat Nov 5 2022,Andorra,0-1,0-0,Santander
+Sat Nov 5 2022,Huesca,1-0,1-0,Villarreal B
+Sat Nov 5 2022,Leganes,2-1,2-1,Ponferradina
+Sun Nov 6 2022,Ibiza,1-1,1-0,Mirandes
+Sun Nov 6 2022,Oviedo,1-0,0-0,Granada
+Sun Nov 6 2022,Las Palmas,1-1,1-1,Eibar
+Sun Nov 6 2022,Malaga,1-1,0-1,Sp Gijon
+Sun Nov 6 2022,Albacete,2-3,1-1,Levante
+Mon Nov 7 2022,Lugo,1-1,1-1,Cartagena
+Fri Nov 18 2022,Granada,4-0,0-0,Albacete
+Sat Nov 19 2022,Ponferradina,1-1,0-0,Oviedo
+Sat Nov 19 2022,Sp Gijon,2-2,2-1,Leganes
+Sat Nov 19 2022,Tenerife,2-0,0-0,Huesca
+Sat Nov 19 2022,Zaragoza,1-1,0-0,Malaga
+Sun Nov 20 2022,Villarreal B,1-0,0-0,Ibiza
+Sun Nov 20 2022,Andorra,4-0,0-0,Lugo
+Sun Nov 20 2022,Eibar,0-0,0-0,Alaves
+Sun Nov 20 2022,Santander,0-1,0-0,Burgos
+Sun Nov 20 2022,Levante,1-1,0-0,Las Palmas
+Mon Nov 21 2022,Mirandes,2-1,0-0,Cartagena
+Fri Nov 25 2022,Huesca,0-0,0-0,Sp Gijon
+Sat Nov 26 2022,Alaves,2-0,1-0,Villarreal B
+Sat Nov 26 2022,Malaga,1-0,0-0,Ponferradina
+Sat Nov 26 2022,Albacete,2-1,1-0,Santander
+Sat Nov 26 2022,Oviedo,1-0,1-0,Mirandes
+Sat Nov 26 2022,Las Palmas,3-1,1-0,Tenerife
+Sun Nov 27 2022,Burgos,2-2,0-0,Zaragoza
+Sun Nov 27 2022,Leganes,1-0,0-0,Granada
+Sun Nov 27 2022,Lugo,1-1,1-1,Levante
+Sun Nov 27 2022,Cartagena,2-1,0-1,Eibar
+Mon Nov 28 2022,Ibiza,0-1,0-1,Andorra
+Wed Nov 30 2022,Tenerife,0-1,0-0,Oviedo
+Fri Dec 2 2022,Granada,3-1,2-1,Alaves
+Sat Dec 3 2022,Zaragoza,2-1,0-1,Ibiza
+Sat Dec 3 2022,Mirandes,4-2,3-1,Albacete
+Sat Dec 3 2022,Sp Gijon,0-1,0-1,Las Palmas
+Sat Dec 3 2022,Villarreal B,0-0,0-0,Leganes
+Sun Dec 4 2022,Andorra,0-1,0-0,Cartagena
+Sun Dec 4 2022,Santander,0-1,0-0,Lugo
+Sun Dec 4 2022,Eibar,2-1,0-1,Huesca
+Sun Dec 4 2022,Levante,1-0,0-0,Malaga
+Mon Dec 5 2022,Ponferradina,1-2,1-1,Burgos
+Tue Dec 6 2022,Leganes,2-2,1-1,Mirandes
+Tue Dec 6 2022,Oviedo,0-0,0-0,Las Palmas
+Tue Dec 6 2022,Albacete,0-0,0-0,Zaragoza
+Wed Dec 7 2022,Cartagena,0-1,0-0,Villarreal B
+Wed Dec 7 2022,Huesca,1-0,0-0,Andorra
+Wed Dec 7 2022,Tenerife,2-1,1-0,Alaves
+Thu Dec 8 2022,Burgos,1-2,1-0,Eibar
+Thu Dec 8 2022,Lugo,0-1,0-0,Sp Gijon
+Thu Dec 8 2022,Ibiza,1-0,0-0,Santander
+Thu Dec 8 2022,Levante,0-0,0-0,Ponferradina
+Thu Dec 8 2022,Malaga,1-1,1-0,Granada
+Sat Dec 10 2022,Andorra,1-1,0-0,Leganes
+Sat Dec 10 2022,Villarreal B,2-2,0-1,Tenerife
+Sat Dec 10 2022,Zaragoza,3-0,2-0,Huesca
+Sun Dec 11 2022,Ibiza,1-1,0-1,Malaga
+Sun Dec 11 2022,Ponferradina,1-0,1-0,Lugo
+Sun Dec 11 2022,Sp Gijon,0-0,0-0,Cartagena
+Sun Dec 11 2022,Eibar,1-0,0-0,Oviedo
+Sun Dec 11 2022,Granada,1-0,1-0,Burgos
+Sun Dec 11 2022,Las Palmas,1-2,0-1,Albacete
+Sun Dec 11 2022,Santander,1-2,1-1,Mirandes
+Mon Dec 12 2022,Alaves,0-2,0-2,Levante
+Fri Dec 16 2022,Tenerife,1-1,1-1,Andorra
+Sat Dec 17 2022,Lugo,1-0,1-0,Granada
+Sat Dec 17 2022,Mirandes,2-1,2-0,Ponferradina
+Sat Dec 17 2022,Villarreal B,0-1,0-1,Las Palmas
+Sat Dec 17 2022,Cartagena,0-3,0-2,Santander
+Sat Dec 17 2022,Oviedo,1-0,0-0,Sp Gijon
+Sun Dec 18 2022,Albacete,4-0,3-0,Ibiza
+Sun Dec 18 2022,Levante,0-0,0-0,Eibar
+Sun Dec 18 2022,Burgos,1-1,0-1,Huesca
+Sun Dec 18 2022,Malaga,1-0,0-0,Alaves
+Mon Dec 19 2022,Leganes,2-1,1-1,Zaragoza
+Fri Jan 6 2023,Ponferradina,2-1,0-1,Villarreal B
+Fri Jan 6 2023,Sp Gijon,1-1,0-1,Levante
+Fri Jan 6 2023,Leganes,1-0,0-0,Lugo
+Sat Jan 7 2023,Andorra,3-1,2-0,Oviedo
+Sat Jan 7 2023,Malaga,1-1,0-0,Tenerife
+Sat Jan 7 2023,Alaves,1-0,0-0,Burgos
+Sun Jan 8 2023,Granada,1-0,0-0,Cartagena
+Sun Jan 8 2023,Zaragoza,0-0,0-0,Mirandes
+Sun Jan 8 2023,Las Palmas,1-1,1-0,Santander
+Sun Jan 8 2023,Eibar,1-0,1-0,Ibiza
+Mon Jan 9 2023,Huesca,1-1,0-1,Albacete
+Fri Jan 13 2023,Oviedo,1-0,0-0,Alaves
+Sat Jan 14 2023,Cartagena,0-0,0-0,Huesca
+Sat Jan 14 2023,Ibiza,1-2,1-0,Las Palmas
+Sat Jan 14 2023,Villarreal B,2-3,2-0,Zaragoza
+Sat Jan 14 2023,Santander,2-0,2-0,Sp Gijon
+Sat Jan 14 2023,Tenerife,0-0,0-0,Ponferradina
+Sat Jan 14 2023,Levante,3-1,2-1,Granada
+Sun Jan 15 2023,Eibar,2-1,1-0,Malaga
+Sun Jan 15 2023,Burgos,2-1,0-1,Andorra
+Sun Jan 15 2023,Mirandes,2-0,1-0,Lugo
+Mon Jan 16 2023,Albacete,1-0,1-0,Leganes
+Fri Jan 20 2023,Las Palmas,2-1,0-0,Mirandes
+Sat Jan 21 2023,Malaga,1-1,1-0,Burgos
+Sat Jan 21 2023,Ponferradina,0-1,0-0,Eibar
+Sat Jan 21 2023,Granada,2-0,1-0,Ibiza
+Sat Jan 21 2023,Alaves,3-0,1-0,Santander
+Sun Jan 22 2023,Leganes,2-2,1-1,Levante
+Sun Jan 22 2023,Cartagena,0-1,0-1,Tenerife
+Sun Jan 22 2023,Sp Gijon,1-0,1-0,Zaragoza
+Sun Jan 22 2023,Huesca,1-1,1-1,Oviedo
+Sun Jan 22 2023,Lugo,1-2,0-0,Villarreal B
+Mon Jan 23 2023,Andorra,0-1,0-0,Albacete
+Fri Jan 27 2023,Santander,1-1,1-0,Tenerife
+Sat Jan 28 2023,Granada,2-0,2-0,Andorra
+Sat Jan 28 2023,Eibar,0-0,0-0,Leganes
+Sat Jan 28 2023,Oviedo,0-1,0-1,Villarreal B
+Sat Jan 28 2023,Las Palmas,1-0,0-0,Huesca
+Sun Jan 29 2023,Mirandes,1-3,1-1,Alaves
+Sun Jan 29 2023,Levante,1-0,1-0,Burgos
+Sun Jan 29 2023,Albacete,2-0,0-0,Lugo
+Sun Jan 29 2023,Sp Gijon,0-0,0-0,Malaga
+Sun Jan 29 2023,Ibiza,2-2,1-2,Cartagena
+Mon Jan 30 2023,Zaragoza,0-0,0-0,Ponferradina
+Fri Feb 3 2023,Malaga,0-1,0-0,Oviedo
+Sat Feb 4 2023,Huesca,1-0,0-0,Mirandes
+Sat Feb 4 2023,Leganes,1-0,1-0,Sp Gijon
+Sat Feb 4 2023,Tenerife,1-0,1-0,Albacete
+Sat Feb 4 2023,Alaves,2-0,0-0,Eibar
+Sun Feb 5 2023,Villarreal B,0-2,0-2,Granada
+Sun Feb 5 2023,Andorra,0-1,0-0,Zaragoza
+Sun Feb 5 2023,Cartagena,1-2,0-0,Levante
+Sun Feb 5 2023,Ponferradina,1-1,1-0,Santander
+Sun Feb 5 2023,Lugo,0-0,0-0,Ibiza
+Mon Feb 6 2023,Burgos,0-0,0-0,Las Palmas
+Fri Feb 10 2023,Granada,2-0,1-0,Tenerife
+Sat Feb 11 2023,Zaragoza,1-4,0-1,Alaves
+Sat Feb 11 2023,Levante,1-0,1-0,Andorra
+Sat Feb 11 2023,Mirandes,2-1,1-0,Villarreal B
+Sat Feb 11 2023,Las Palmas,3-0,2-0,Lugo
+Sun Feb 12 2023,Albacete,3-2,1-2,Malaga
+Sun Feb 12 2023,Oviedo,0-1,0-0,Burgos
+Sun Feb 12 2023,Eibar,0-3,0-2,Cartagena
+Sun Feb 12 2023,Sp Gijon,1-1,1-1,Huesca
+Sun Feb 12 2023,Ibiza,1-1,1-0,Ponferradina
+Mon Feb 13 2023,Santander,2-1,1-0,Leganes
+Fri Feb 17 2023,Cartagena,2-1,2-0,Oviedo
+Sat Feb 18 2023,Lugo,0-2,0-1,Eibar
+Sat Feb 18 2023,Leganes,0-0,0-0,Las Palmas
+Sat Feb 18 2023,Ponferradina,0-0,0-0,Levante
+Sat Feb 18 2023,Tenerife,1-0,0-0,Mirandes
+Sun Feb 19 2023,Huesca,1-1,1-1,Granada
+Sun Feb 19 2023,Alaves,4-2,3-1,Ibiza
+Sun Feb 19 2023,Andorra,1-0,0-0,Sp Gijon
+Sun Feb 19 2023,Burgos,1-1,0-0,Albacete
+Sun Feb 19 2023,Villarreal B,2-1,0-0,Santander
+Mon Feb 20 2023,Malaga,3-0,0-0,Zaragoza
+Fri Feb 24 2023,Eibar,2-0,1-0,Villarreal B
+Sat Feb 25 2023,Alaves,0-0,0-0,Cartagena
+Sat Feb 25 2023,Santander,2-1,2-0,Andorra
+Sat Feb 25 2023,Mirandes,0-0,0-0,Leganes
+Sat Feb 25 2023,Sp Gijon,1-0,0-0,Tenerife
+Sun Feb 26 2023,Ibiza,2-2,1-2,Huesca
+Sun Feb 26 2023,Levante,3-1,2-1,Lugo
+Sun Feb 26 2023,Zaragoza,0-0,0-0,Burgos
+Sun Feb 26 2023,Las Palmas,2-0,0-0,Ponferradina
+Sun Feb 26 2023,Oviedo,1-1,1-0,Albacete
+Mon Feb 27 2023,Granada,1-0,0-0,Malaga
+Fri Mar 3 2023,Andorra,0-0,0-0,Las Palmas
+Sat Mar 4 2023,Burgos,1-3,1-0,Granada
+Sat Mar 4 2023,Huesca,3-0,1-0,Levante
+Sat Mar 4 2023,Tenerife,0-1,0-1,Eibar
+Sat Mar 4 2023,Mirandes,1-0,1-0,Oviedo
+Sun Mar 5 2023,Leganes,0-1,0-0,Ibiza
+Sun Mar 5 2023,Albacete,2-1,2-1,Sp Gijon
+Sun Mar 5 2023,Lugo,0-0,0-0,Zaragoza
+Sun Mar 5 2023,Malaga,0-1,0-0,Santander
+Sun Mar 5 2023,Ponferradina,0-3,0-1,Cartagena
+Mon Mar 6 2023,Villarreal B,1-0,1-0,Alaves
+Fri Mar 10 2023,Oviedo,0-0,0-0,Tenerife
+Sat Mar 11 2023,Eibar,1-0,1-0,Burgos
+Sat Mar 11 2023,Alaves,0-0,0-0,Lugo
+Sat Mar 11 2023,Ibiza,0-0,0-0,Villarreal B
+Sat Mar 11 2023,Las Palmas,2-2,1-1,Malaga
+Sun Mar 12 2023,Zaragoza,3-0,1-0,Leganes
+Sun Mar 12 2023,Sp Gijon,3-4,1-2,Mirandes
+Sun Mar 12 2023,Cartagena,0-3,0-0,Andorra
+Sun Mar 12 2023,Levante,0-0,0-0,Albacete
+Sun Mar 12 2023,Granada,2-2,0-0,Ponferradina
+Mon Mar 13 2023,Santander,1-1,1-1,Huesca
+Fri Mar 17 2023,Malaga,0-0,0-0,Levante
+Sat Mar 18 2023,Andorra,2-2,0-2,Ibiza
+Sat Mar 18 2023,Albacete,1-2,0-1,Granada
+Sat Mar 18 2023,Leganes,0-1,0-0,Oviedo
+Sat Mar 18 2023,Tenerife,4-1,3-0,Las Palmas
+Sat Mar 18 2023,Ponferradina,1-0,0-0,Alaves
+Sun Mar 19 2023,Burgos,0-0,0-0,Sp Gijon
+Sun Mar 19 2023,Huesca,1-1,1-1,Zaragoza
+Sun Mar 19 2023,Lugo,1-1,1-0,Santander
+Sun Mar 19 2023,Villarreal B,5-2,1-2,Cartagena
+Mon Mar 20 2023,Mirandes,2-3,2-0,Eibar
+Fri Mar 24 2023,Cartagena,2-0,0-0,Lugo
+Sat Mar 25 2023,Ibiza,2-0,0-0,Burgos
+Sat Mar 25 2023,Santander,0-1,0-1,Levante
+Sat Mar 25 2023,Alaves,1-0,0-0,Tenerife
+Sun Mar 26 2023,Eibar,0-0,0-0,Andorra
+Sun Mar 26 2023,Ponferradina,0-0,0-0,Mirandes
+Sun Mar 26 2023,Zaragoza,1-1,0-0,Albacete
+Sun Mar 26 2023,Granada,1-0,0-0,Oviedo
+Sun Mar 26 2023,Villarreal B,0-0,0-0,Huesca
+Sun Mar 26 2023,Las Palmas,1-1,0-1,Sp Gijon
+Mon Mar 27 2023,Malaga,2-0,0-0,Leganes
+Fri Mar 31 2023,Levante,1-1,1-0,Zaragoza
+Sat Apr 1 2023,Burgos,2-1,1-0,Santander
+Sat Apr 1 2023,Leganes,1-3,1-0,Cartagena
+Sat Apr 1 2023,Tenerife,1-1,0-0,Villarreal B
+Sat Apr 1 2023,Oviedo,1-1,0-0,Eibar
+Sun Apr 2 2023,Huesca,0-1,0-0,Alaves
+Sun Apr 2 2023,Lugo,0-0,0-0,Ponferradina
+Sun Apr 2 2023,Andorra,1-0,0-0,Malaga
+Sun Apr 2 2023,Sp Gijon,1-0,1-0,Granada
+Sun Apr 2 2023,Mirandes,2-2,1-1,Ibiza
+Mon Apr 3 2023,Albacete,1-2,1-0,Las Palmas
+Fri Apr 7 2023,Lugo,0-0,0-0,Tenerife
+Fri Apr 7 2023,Villarreal B,1-2,0-2,Malaga
+Sat Apr 8 2023,Zaragoza,1-0,1-0,Granada
+Sat Apr 8 2023,Ibiza,1-3,0-2,Sp Gijon
+Sat Apr 8 2023,Santander,4-1,3-1,Albacete
+Sun Apr 9 2023,Huesca,2-1,2-0,Burgos
+Sun Apr 9 2023,Eibar,1-1,0-0,Levante
+Sun Apr 9 2023,Cartagena,1-0,0-0,Mirandes
+Sun Apr 9 2023,Ponferradina,0-1,0-0,Leganes
+Sun Apr 9 2023,Las Palmas,0-1,0-0,Oviedo
+Mon Apr 10 2023,Alaves,0-0,0-0,Andorra
+Fri Apr 14 2023,Albacete,3-1,2-0,Eibar
+Sat Apr 15 2023,Granada,2-1,2-0,Las Palmas
+Sat Apr 15 2023,Oviedo,2-1,1-1,Lugo
+Sat Apr 15 2023,Zaragoza,4-1,3-0,Santander
+Sat Apr 15 2023,Burgos,2-2,0-1,Ponferradina
+Sun Apr 16 2023,Andorra,1-0,1-0,Huesca
+Sun Apr 16 2023,Sp Gijon,0-0,0-0,Alaves
+Sun Apr 16 2023,Malaga,1-0,1-0,Cartagena
+Sun Apr 16 2023,Tenerife,4-0,2-0,Ibiza
+Sun Apr 16 2023,Leganes,1-0,1-0,Villarreal B
+Mon Apr 17 2023,Levante,1-2,0-1,Mirandes
+Fri Apr 21 2023,Eibar,1-1,0-1,Zaragoza
+Sat Apr 22 2023,Villarreal B,1-2,1-1,Albacete
+Sat Apr 22 2023,Cartagena,2-1,2-1,Sp Gijon
+Sat Apr 22 2023,Ponferradina,1-4,0-2,Andorra
+Sat Apr 22 2023,Las Palmas,0-0,0-0,Levante
+Sat Apr 22 2023,Ibiza,1-2,1-1,Oviedo
+Sun Apr 23 2023,Lugo,0-2,0-2,Malaga
+Sun Apr 23 2023,Mirandes,2-1,0-0,Burgos
+Sun Apr 23 2023,Santander,1-0,0-0,Granada
+Sun Apr 23 2023,Alaves,2-1,1-0,Leganes
+Mon Apr 24 2023,Huesca,1-1,1-0,Tenerife
+Fri Apr 28 2023,Santander,1-0,1-0,Ibiza
+Sat Apr 29 2023,Levante,2-0,2-0,Alaves
+Sat Apr 29 2023,Albacete,1-1,1-0,Cartagena
+Sat Apr 29 2023,Tenerife,1-0,1-0,Leganes
+Sun Apr 30 2023,Andorra,0-1,0-0,Mirandes
+Sun Apr 30 2023,Oviedo,3-2,0-2,Ponferradina
+Sun Apr 30 2023,Granada,1-1,0-0,Eibar
+Sun Apr 30 2023,Zaragoza,1-1,0-0,Las Palmas
+Mon May 1 2023,Sp Gijon,3-1,2-0,Lugo
+Mon May 1 2023,Malaga,0-0,0-0,Huesca
+Mon May 1 2023,Burgos,1-0,1-0,Villarreal B
+Fri May 5 2023,Alaves,1-1,0-1,Granada
+Sat May 6 2023,Mirandes,1-1,1-1,Santander
+Sat May 6 2023,Leganes,2-1,1-1,Huesca
+Sat May 6 2023,Tenerife,1-0,0-0,Levante
+Sun May 7 2023,Villarreal B,2-0,1-0,Sp Gijon
+Sun May 7 2023,Ibiza,0-5,0-2,Albacete
+Sun May 7 2023,Ponferradina,2-0,0-0,Malaga
+Sun May 7 2023,Lugo,2-2,1-1,Andorra
+Sun May 7 2023,Oviedo,2-1,1-0,Zaragoza
+Sun May 7 2023,Cartagena,0-0,0-0,Burgos
+Mon May 8 2023,Eibar,0-1,0-0,Las Palmas
+Fri May 12 2023,Burgos,0-3,0-2,Leganes
+Sat May 13 2023,Sp Gijon,1-1,0-1,Oviedo
+Sat May 13 2023,Granada,2-0,2-0,Lugo
+Sat May 13 2023,Zaragoza,2-0,1-0,Cartagena
+Sat May 13 2023,Malaga,2-0,1-0,Mirandes
+Sun May 14 2023,Santander,1-0,1-0,Eibar
+Sun May 14 2023,Andorra,1-0,0-0,Tenerife
+Sun May 14 2023,Albacete,1-1,1-0,Alaves
+Sun May 14 2023,Huesca,1-1,0-0,Ponferradina
+Sun May 14 2023,Las Palmas,1-1,1-0,Villarreal B
+Mon May 15 2023,Levante,0-0,0-0,Ibiza
+Sat May 20 2023,Ibiza,1-0,0-0,Zaragoza
+Sat May 20 2023,Alaves,2-1,0-0,Malaga
+Sat May 20 2023,Cartagena,1-4,1-3,Las Palmas
+Sat May 20 2023,Eibar,2-2,0-1,Sp Gijon
+Sat May 20 2023,Lugo,1-2,0-0,Huesca
+Sat May 20 2023,Mirandes,1-3,0-1,Granada
+Sat May 20 2023,Ponferradina,1-1,0-1,Albacete
+Sat May 20 2023,Villarreal B,2-3,1-2,Levante
+Sat May 20 2023,Tenerife,2-1,0-1,Burgos
+Sun May 21 2023,Oviedo,1-0,1-0,Santander
+Sun May 21 2023,Leganes,1-1,1-1,Andorra
+Fri May 26 2023,Zaragoza,1-1,0-0,Tenerife
+Sat May 27 2023,Andorra,4-3,1-2,Villarreal B
+Sat May 27 2023,Burgos,0-1,0-1,Lugo
+Sat May 27 2023,Albacete,2-1,0-0,Mirandes
+Sat May 27 2023,Malaga,1-1,0-0,Ibiza
+Sat May 27 2023,Granada,2-0,1-0,Leganes
+Sat May 27 2023,Huesca,0-1,0-0,Eibar
+Sat May 27 2023,Las Palmas,0-0,0-0,Alaves
+Sat May 27 2023,Levante,2-1,0-0,Oviedo
+Sun May 28 2023,Santander,3-1,3-0,Cartagena
+Sun May 28 2023,Sp Gijon,1-4,0-1,Ponferradina

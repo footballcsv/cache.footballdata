@@ -1,0 +1,322 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 14 2023,Otelul,1-1,?,UTA Arad
+Fri Jul 14 2023,FC Rapid Bucuresti,0-0,?,Sepsi Sf. Gheorghe
+Sat Jul 15 2023,FC Hermannstadt,0-1,?,Farul Constanta
+Sat Jul 15 2023,CFR Cluj,2-0,?,Poli Iasi
+Sun Jul 16 2023,Petrolul,1-1,?,U. Cluj
+Sun Jul 16 2023,U Craiova 1948,1-3,?,FCSB
+Mon Jul 17 2023,FC Voluntari,2-1,?,FC Botosani
+Mon Jul 17 2023,Din. Bucuresti,0-2,?,Univ. Craiova
+Fri Jul 21 2023,Sepsi Sf. Gheorghe,1-0,?,U Craiova 1948
+Fri Jul 21 2023,UTA Arad,1-3,?,CFR Cluj
+Sat Jul 22 2023,Farul Constanta,4-1,?,FC Voluntari
+Sat Jul 22 2023,FCSB,2-1,?,Din. Bucuresti
+Sun Jul 23 2023,Poli Iasi,1-3,?,FC Hermannstadt
+Sun Jul 23 2023,U. Cluj,0-3,?,FC Rapid Bucuresti
+Mon Jul 24 2023,FC Botosani,1-1,?,Petrolul
+Mon Jul 24 2023,Univ. Craiova,0-0,?,Otelul
+Fri Jul 28 2023,U Craiova 1948,3-4,?,U. Cluj
+Fri Jul 28 2023,FC Rapid Bucuresti,2-2,?,FC Botosani
+Sat Jul 29 2023,FC Hermannstadt,2-1,?,UTA Arad
+Sat Jul 29 2023,Otelul,0-2,?,FCSB
+Sun Jul 30 2023,Farul Constanta,1-3,?,Poli Iasi
+Sun Jul 30 2023,CFR Cluj,1-1,?,Univ. Craiova
+Mon Jul 31 2023,Petrolul,0-2,?,FC Voluntari
+Mon Jul 31 2023,Din. Bucuresti,0-3,?,Sepsi Sf. Gheorghe
+Fri Aug 4 2023,UTA Arad,1-0,?,Poli Iasi
+Fri Aug 4 2023,Univ. Craiova,1-0,?,FC Hermannstadt
+Sat Aug 5 2023,FC Botosani,0-1,?,U Craiova 1948
+Sat Aug 5 2023,U. Cluj,1-1,?,Din. Bucuresti
+Sun Aug 6 2023,Petrolul,3-2,?,Farul Constanta
+Sun Aug 6 2023,FCSB,1-0,?,CFR Cluj
+Mon Aug 7 2023,Sepsi Sf. Gheorghe,1-1,?,Otelul
+Mon Aug 7 2023,FC Voluntari,2-1,?,FC Rapid Bucuresti
+Fri Aug 11 2023,U Craiova 1948,3-1,?,FC Voluntari
+Sat Aug 12 2023,Otelul,1-1,?,U. Cluj
+Sat Aug 12 2023,Poli Iasi,1-4,?,Univ. Craiova
+Sun Aug 13 2023,FC Rapid Bucuresti,0-2,?,Petrolul
+Mon Aug 14 2023,Din. Bucuresti,1-0,?,FC Botosani
+Fri Aug 18 2023,Petrolul,4-3,?,U Craiova 1948
+Fri Aug 18 2023,Univ. Craiova,3-0,?,UTA Arad
+Sat Aug 19 2023,FC Botosani,0-0,?,Otelul
+Sat Aug 19 2023,FC Voluntari,2-3,?,Din. Bucuresti
+Sun Aug 20 2023,FC Rapid Bucuresti,3-1,?,Farul Constanta
+Sun Aug 20 2023,FCSB,2-1,?,Poli Iasi
+Mon Aug 21 2023,Sepsi Sf. Gheorghe,1-1,?,FC Hermannstadt
+Mon Aug 21 2023,U. Cluj,3-4,?,CFR Cluj
+Fri Aug 25 2023,Otelul,2-2,?,FC Voluntari
+Fri Aug 25 2023,U Craiova 1948,3-5,?,FC Rapid Bucuresti
+Sat Aug 26 2023,CFR Cluj,3-1,?,FC Botosani
+Sat Aug 26 2023,Din. Bucuresti,1-1,?,Petrolul
+Sun Aug 27 2023,Farul Constanta,2-0,?,Univ. Craiova
+Mon Aug 28 2023,FC Hermannstadt,2-2,?,U. Cluj
+Mon Aug 28 2023,UTA Arad,2-1,?,FCSB
+Fri Sep 1 2023,Petrolul,2-2,?,Otelul
+Fri Sep 1 2023,FC Rapid Bucuresti,4-0,?,Din. Bucuresti
+Sat Sep 2 2023,FC Voluntari,1-4,?,CFR Cluj
+Sat Sep 2 2023,FCSB,3-0,?,Univ. Craiova
+Sun Sep 3 2023,U Craiova 1948,4-0,?,Farul Constanta
+Mon Sep 4 2023,U. Cluj,0-2,?,Poli Iasi
+Mon Sep 4 2023,FC Botosani,2-2,?,FC Hermannstadt
+Mon Sep 4 2023,Sepsi Sf. Gheorghe,1-0,?,UTA Arad
+Fri Sep 15 2023,UTA Arad,0-1,?,U. Cluj
+Fri Sep 15 2023,Din. Bucuresti,0-1,?,U Craiova 1948
+Sat Sep 16 2023,Univ. Craiova,2-1,?,Sepsi Sf. Gheorghe
+Sun Sep 17 2023,FC Hermannstadt,3-1,?,FC Voluntari
+Sun Sep 17 2023,Otelul,0-0,?,FC Rapid Bucuresti
+Sun Sep 17 2023,Farul Constanta,0-1,?,FCSB
+Mon Sep 18 2023,Poli Iasi,1-1,?,FC Botosani
+Mon Sep 18 2023,CFR Cluj,1-0,?,Petrolul
+Thu Sep 21 2023,FC Hermannstadt,2-2,?,FCSB
+Fri Sep 22 2023,U Craiova 1948,0-2,?,Otelul
+Fri Sep 22 2023,Din. Bucuresti,0-2,?,Farul Constanta
+Sat Sep 23 2023,FC Voluntari,1-2,?,Poli Iasi
+Sat Sep 23 2023,FC Botosani,2-2,?,UTA Arad
+Sat Sep 23 2023,U. Cluj,1-1,?,Univ. Craiova
+Sun Sep 24 2023,Petrolul,0-0,?,FC Hermannstadt
+Sun Sep 24 2023,Sepsi Sf. Gheorghe,2-5,?,FCSB
+Mon Sep 25 2023,FC Rapid Bucuresti,3-1,?,CFR Cluj
+Fri Sep 29 2023,Otelul,1-0,?,Din. Bucuresti
+Sat Sep 30 2023,UTA Arad,0-0,?,FC Voluntari
+Sat Sep 30 2023,Farul Constanta,2-1,?,Sepsi Sf. Gheorghe
+Sun Oct 1 2023,Univ. Craiova,5-1,?,FC Botosani
+Sun Oct 1 2023,FC Hermannstadt,1-1,?,FC Rapid Bucuresti
+Sun Oct 1 2023,CFR Cluj,2-0,?,U Craiova 1948
+Mon Oct 2 2023,Poli Iasi,0-0,?,Petrolul
+Mon Oct 2 2023,FCSB,2-2,?,U. Cluj
+Thu Oct 5 2023,CFR Cluj,3-0,?,Sepsi Sf. Gheorghe
+Fri Oct 6 2023,U Craiova 1948,1-1,?,FC Hermannstadt
+Fri Oct 6 2023,FC Rapid Bucuresti,3-2,?,Poli Iasi
+Sat Oct 7 2023,Petrolul,0-0,?,UTA Arad
+Sat Oct 7 2023,FC Voluntari,0-0,?,Univ. Craiova
+Sat Oct 7 2023,FC Botosani,0-1,?,FCSB
+Sun Oct 8 2023,Otelul,0-1,?,Farul Constanta
+Sun Oct 8 2023,Din. Bucuresti,1-1,?,CFR Cluj
+Mon Oct 9 2023,U. Cluj,1-0,?,Sepsi Sf. Gheorghe
+Thu Oct 19 2023,Poli Iasi,1-0,?,Sepsi Sf. Gheorghe
+Fri Oct 20 2023,UTA Arad,2-2,?,FC Rapid Bucuresti
+Sat Oct 21 2023,FC Hermannstadt,4-0,?,Din. Bucuresti
+Sat Oct 21 2023,Farul Constanta,1-1,?,U. Cluj
+Sun Oct 22 2023,Poli Iasi,1-1,?,U Craiova 1948
+Sun Oct 22 2023,Univ. Craiova,1-3,?,Petrolul
+Sun Oct 22 2023,FCSB,0-0,?,FC Voluntari
+Mon Oct 23 2023,Sepsi Sf. Gheorghe,5-2,?,FC Botosani
+Mon Oct 23 2023,CFR Cluj,0-0,?,Otelul
+Thu Oct 26 2023,Farul Constanta,2-2,?,UTA Arad
+Fri Oct 27 2023,FC Voluntari,0-2,?,Sepsi Sf. Gheorghe
+Fri Oct 27 2023,Din. Bucuresti,0-0,?,Poli Iasi
+Sat Oct 28 2023,Otelul,1-1,?,FC Hermannstadt
+Sat Oct 28 2023,Petrolul,2-2,?,FCSB
+Sun Oct 29 2023,U Craiova 1948,2-3,?,UTA Arad
+Sun Oct 29 2023,FC Rapid Bucuresti,2-0,?,Univ. Craiova
+Mon Oct 30 2023,FC Botosani,0-3,?,U. Cluj
+Mon Oct 30 2023,CFR Cluj,3-1,?,Farul Constanta
+Fri Nov 3 2023,Poli Iasi,1-1,?,Otelul
+Sat Nov 4 2023,Sepsi Sf. Gheorghe,0-0,?,Petrolul
+Sat Nov 4 2023,Univ. Craiova,1-1,?,U Craiova 1948
+Sun Nov 5 2023,U. Cluj,1-2,?,FC Voluntari
+Sun Nov 5 2023,Farul Constanta,1-1,?,FC Botosani
+Sun Nov 5 2023,FCSB,1-2,?,FC Rapid Bucuresti
+Mon Nov 6 2023,UTA Arad,2-1,?,Din. Bucuresti
+Mon Nov 6 2023,FC Hermannstadt,1-0,?,CFR Cluj
+Fri Nov 10 2023,Sepsi Sf. Gheorghe,0-0,?,FC Rapid Bucuresti
+Sat Nov 11 2023,U. Cluj,0-0,?,Petrolul
+Sat Nov 11 2023,Poli Iasi,3-3,?,CFR Cluj
+Sat Nov 11 2023,Farul Constanta,1-1,?,FC Hermannstadt
+Sun Nov 12 2023,FC Botosani,3-3,?,FC Voluntari
+Sun Nov 12 2023,Univ. Craiova,1-0,?,Din. Bucuresti
+Sun Nov 12 2023,FCSB,2-1,?,U Craiova 1948
+Mon Nov 13 2023,UTA Arad,2-4,?,Otelul
+Fri Nov 24 2023,FC Hermannstadt,0-0,?,Poli Iasi
+Fri Nov 24 2023,Petrolul,2-1,?,FC Botosani
+Sat Nov 25 2023,FC Voluntari,4-2,?,Farul Constanta
+Sat Nov 25 2023,CFR Cluj,0-0,?,UTA Arad
+Sun Nov 26 2023,Otelul,1-3,?,Univ. Craiova
+Sun Nov 26 2023,Din. Bucuresti,0-1,?,FCSB
+Mon Nov 27 2023,U Craiova 1948,2-1,?,Sepsi Sf. Gheorghe
+Mon Nov 27 2023,FC Rapid Bucuresti,2-3,?,U. Cluj
+Fri Dec 1 2023,FC Voluntari,0-0,?,Petrolul
+Fri Dec 1 2023,Poli Iasi,2-3,?,Farul Constanta
+Sat Dec 2 2023,UTA Arad,2-0,?,FC Hermannstadt
+Sat Dec 2 2023,FC Botosani,0-0,?,FC Rapid Bucuresti
+Sat Dec 2 2023,Univ. Craiova,1-0,?,CFR Cluj
+Sun Dec 3 2023,U. Cluj,2-1,?,U Craiova 1948
+Sun Dec 3 2023,FCSB,0-2,?,Otelul
+Mon Dec 4 2023,Sepsi Sf. Gheorghe,2-1,?,Din. Bucuresti
+Fri Dec 8 2023,Poli Iasi,1-0,?,UTA Arad
+Sat Dec 9 2023,FC Rapid Bucuresti,1-2,?,FC Voluntari
+Sun Dec 10 2023,FC Hermannstadt,2-1,?,Univ. Craiova
+Sun Dec 10 2023,Farul Constanta,3-1,?,Petrolul
+Sun Dec 10 2023,CFR Cluj,1-1,?,FCSB
+Mon Dec 11 2023,U Craiova 1948,2-0,?,FC Botosani
+Mon Dec 11 2023,Din. Bucuresti,0-1,?,U. Cluj
+Tue Dec 12 2023,Otelul,2-3,?,Sepsi Sf. Gheorghe
+Fri Dec 15 2023,FC Voluntari,0-1,?,U Craiova 1948
+Fri Dec 15 2023,Petrolul,0-0,?,FC Rapid Bucuresti
+Sat Dec 16 2023,UTA Arad,0-0,?,Farul Constanta
+Sat Dec 16 2023,Univ. Craiova,2-2,?,Poli Iasi
+Sat Dec 16 2023,FCSB,3-0,?,FC Hermannstadt
+Sun Dec 17 2023,U. Cluj,0-1,?,Otelul
+Sun Dec 17 2023,Sepsi Sf. Gheorghe,2-1,?,CFR Cluj
+Mon Dec 18 2023,FC Botosani,0-2,?,Din. Bucuresti
+Tue Dec 19 2023,U Craiova 1948,2-0,?,Petrolul
+Tue Dec 19 2023,Poli Iasi,1-3,?,FCSB
+Wed Dec 20 2023,UTA Arad,2-2,?,Univ. Craiova
+Wed Dec 20 2023,Farul Constanta,0-0,?,FC Rapid Bucuresti
+Thu Dec 21 2023,FC Hermannstadt,1-1,?,Sepsi Sf. Gheorghe
+Thu Dec 21 2023,CFR Cluj,4-0,?,U. Cluj
+Fri Dec 22 2023,Otelul,0-2,?,FC Botosani
+Fri Dec 22 2023,Din. Bucuresti,1-0,?,FC Voluntari
+Fri Jan 19 2024,Sepsi Sf. Gheorghe,6-0,?,Poli Iasi
+Fri Jan 19 2024,FC Rapid Bucuresti,4-3,?,U Craiova 1948
+Sat Jan 20 2024,U. Cluj,2-1,?,FC Hermannstadt
+Sat Jan 20 2024,Petrolul,1-0,?,Din. Bucuresti
+Sun Jan 21 2024,FC Botosani,1-0,?,CFR Cluj
+Sun Jan 21 2024,Univ. Craiova,1-2,?,Farul Constanta
+Mon Jan 22 2024,FC Voluntari,1-1,?,Otelul
+Mon Jan 22 2024,FCSB,4-0,?,UTA Arad
+Fri Jan 26 2024,Farul Constanta,1-0,?,U Craiova 1948
+Sat Jan 27 2024,UTA Arad,2-1,?,Sepsi Sf. Gheorghe
+Sat Jan 27 2024,Otelul,0-0,?,Petrolul
+Sat Jan 27 2024,Din. Bucuresti,1-2,?,FC Rapid Bucuresti
+Sun Jan 28 2024,FC Hermannstadt,2-0,?,FC Botosani
+Sun Jan 28 2024,Poli Iasi,1-0,?,U. Cluj
+Sun Jan 28 2024,Univ. Craiova,0-3,?,FCSB
+Mon Jan 29 2024,CFR Cluj,4-1,?,FC Voluntari
+Fri Feb 2 2024,FC Botosani,2-1,?,Poli Iasi
+Fri Feb 2 2024,U Craiova 1948,2-1,?,Din. Bucuresti
+Sat Feb 3 2024,Petrolul,1-2,?,CFR Cluj
+Sat Feb 3 2024,FC Rapid Bucuresti,2-1,?,Otelul
+Sun Feb 4 2024,U. Cluj,1-3,?,UTA Arad
+Sun Feb 4 2024,Sepsi Sf. Gheorghe,1-3,?,Univ. Craiova
+Mon Feb 5 2024,FC Voluntari,1-1,?,FC Hermannstadt
+Mon Feb 5 2024,FCSB,1-1,?,Farul Constanta
+Fri Feb 9 2024,Otelul,1-0,?,U Craiova 1948
+Fri Feb 9 2024,Univ. Craiova,2-2,?,U. Cluj
+Sat Feb 10 2024,Poli Iasi,0-0,?,FC Voluntari
+Sat Feb 10 2024,CFR Cluj,0-1,?,FC Rapid Bucuresti
+Sun Feb 11 2024,FC Hermannstadt,0-0,?,Petrolul
+Sun Feb 11 2024,FCSB,1-0,?,Sepsi Sf. Gheorghe
+Mon Feb 12 2024,UTA Arad,2-2,?,FC Botosani
+Mon Feb 12 2024,Farul Constanta,0-2,?,Din. Bucuresti
+Fri Feb 16 2024,Petrolul,2-1,?,Poli Iasi
+Fri Feb 16 2024,FC Rapid Bucuresti,2-0,?,FC Hermannstadt
+Sat Feb 17 2024,FC Voluntari,0-1,?,UTA Arad
+Sat Feb 17 2024,U Craiova 1948,1-3,?,CFR Cluj
+Sun Feb 18 2024,FC Botosani,2-2,?,Univ. Craiova
+Sun Feb 18 2024,Din. Bucuresti,3-1,?,Otelul
+Mon Feb 19 2024,Sepsi Sf. Gheorghe,0-1,?,Farul Constanta
+Mon Feb 19 2024,U. Cluj,0-0,?,FCSB
+Fri Feb 23 2024,FC Hermannstadt,1-0,?,U Craiova 1948
+Fri Feb 23 2024,CFR Cluj,4-0,?,Din. Bucuresti
+Sat Feb 24 2024,UTA Arad,1-0,?,Petrolul
+Sat Feb 24 2024,Farul Constanta,1-1,?,Otelul
+Sat Feb 24 2024,Poli Iasi,3-1,?,FC Rapid Bucuresti
+Sun Feb 25 2024,Sepsi Sf. Gheorghe,0-0,?,U. Cluj
+Sun Feb 25 2024,FCSB,3-2,?,FC Botosani
+Mon Feb 26 2024,Univ. Craiova,2-1,?,FC Voluntari
+Tue Feb 27 2024,U Craiova 1948,1-1,?,Poli Iasi
+Tue Feb 27 2024,Din. Bucuresti,1-0,?,FC Hermannstadt
+Tue Feb 27 2024,Otelul,2-2,?,CFR Cluj
+Wed Feb 28 2024,U. Cluj,1-0,?,Farul Constanta
+Wed Feb 28 2024,FC Rapid Bucuresti,4-1,?,UTA Arad
+Thu Feb 29 2024,FC Botosani,1-2,?,Sepsi Sf. Gheorghe
+Thu Feb 29 2024,Petrolul,2-3,?,Univ. Craiova
+Thu Feb 29 2024,FC Voluntari,1-2,?,FCSB
+Fri Mar 1 2024,Poli Iasi,0-0,?,Din. Bucuresti
+Sat Mar 2 2024,UTA Arad,3-2,?,U Craiova 1948
+Sat Mar 2 2024,FC Hermannstadt,4-1,?,Otelul
+Sat Mar 2 2024,Farul Constanta,1-1,?,CFR Cluj
+Sun Mar 3 2024,U. Cluj,1-0,?,FC Botosani
+Sun Mar 3 2024,FCSB,1-0,?,Petrolul
+Mon Mar 4 2024,Sepsi Sf. Gheorghe,4-0,?,FC Voluntari
+Mon Mar 4 2024,Univ. Craiova,1-1,?,FC Rapid Bucuresti
+Fri Mar 8 2024,CFR Cluj,1-0,?,FC Hermannstadt
+Fri Mar 8 2024,Din. Bucuresti,1-0,?,UTA Arad
+Fri Mar 8 2024,FC Botosani,0-0,?,Farul Constanta
+Fri Mar 8 2024,FC Voluntari,0-0,?,U. Cluj
+Fri Mar 8 2024,Petrolul,1-2,?,Sepsi Sf. Gheorghe
+Sat Mar 9 2024,FC Rapid Bucuresti,4-0,?,FCSB
+Sun Mar 10 2024,U Craiova 1948,1-2,?,Univ. Craiova
+Mon Mar 11 2024,Otelul,1-1,?,Poli Iasi
+Fri Mar 15 2024,U. Cluj,3-0,?,FC Botosani
+Fri Mar 15 2024,FC Rapid Bucuresti,1-2,?,Farul Constanta
+Sat Mar 16 2024,Otelul,1-0,?,Poli Iasi
+Sat Mar 16 2024,CFR Cluj,1-2,?,Univ. Craiova
+Sun Mar 17 2024,FC Hermannstadt,3-0,?,Din. Bucuresti
+Sun Mar 17 2024,FCSB,2-1,?,Sepsi Sf. Gheorghe
+Mon Mar 18 2024,UTA Arad,4-3,?,FC Voluntari
+Mon Mar 18 2024,Petrolul,1-0,?,U Craiova 1948
+Fri Mar 29 2024,FC Voluntari,1-0,?,FC Hermannstadt
+Fri Mar 29 2024,Sepsi Sf. Gheorghe,1-1,?,CFR Cluj
+Sat Mar 30 2024,FC Botosani,2-1,?,Poli Iasi
+Sat Mar 30 2024,U. Cluj,0-0,?,UTA Arad
+Sat Mar 30 2024,Univ. Craiova,2-1,?,FC Rapid Bucuresti
+Sun Mar 31 2024,U Craiova 1948,1-2,?,Otelul
+Sun Mar 31 2024,Farul Constanta,0-1,?,FCSB
+Mon Apr 1 2024,Din. Bucuresti,1-1,?,Petrolul
+Fri Apr 5 2024,UTA Arad,1-0,?,FC Botosani
+Fri Apr 5 2024,Sepsi Sf. Gheorghe,1-1,?,Farul Constanta
+Sat Apr 6 2024,Petrolul,0-4,?,FC Voluntari
+Sat Apr 6 2024,FC Rapid Bucuresti,1-4,?,CFR Cluj
+Sun Apr 7 2024,FC Hermannstadt,1-1,?,U. Cluj
+Sun Apr 7 2024,FCSB,2-0,?,Univ. Craiova
+Mon Apr 8 2024,Poli Iasi,0-0,?,U Craiova 1948
+Mon Apr 8 2024,Otelul,1-0,?,Din. Bucuresti
+Fri Apr 12 2024,UTA Arad,1-3,?,FC Hermannstadt
+Fri Apr 12 2024,Univ. Craiova,1-2,?,Farul Constanta
+Sat Apr 13 2024,FC Voluntari,1-1,?,Otelul
+Sat Apr 13 2024,U. Cluj,1-2,?,Petrolul
+Sun Apr 14 2024,FC Botosani,4-1,?,U Craiova 1948
+Sun Apr 14 2024,Din. Bucuresti,1-0,?,Poli Iasi
+Sun Apr 14 2024,CFR Cluj,0-1,?,FCSB
+Mon Apr 15 2024,FC Rapid Bucuresti,0-1,?,Sepsi Sf. Gheorghe
+Fri Apr 19 2024,FC Hermannstadt,1-1,?,FC Botosani
+Fri Apr 19 2024,Farul Constanta,5-1,?,CFR Cluj
+Sat Apr 20 2024,Poli Iasi,3-1,?,FC Voluntari
+Sat Apr 20 2024,U Craiova 1948,1-1,?,Din. Bucuresti
+Sat Apr 20 2024,FCSB,2-2,?,FC Rapid Bucuresti
+Sun Apr 21 2024,Otelul,1-0,?,U. Cluj
+Sun Apr 21 2024,Sepsi Sf. Gheorghe,1-3,?,Univ. Craiova
+Mon Apr 22 2024,Petrolul,1-1,?,UTA Arad
+Tue Apr 23 2024,FC Voluntari,0-0,?,U Craiova 1948
+Tue Apr 23 2024,FC Botosani,2-1,?,Din. Bucuresti
+Wed Apr 24 2024,U. Cluj,1-0,?,Poli Iasi
+Wed Apr 24 2024,Farul Constanta,3-1,?,FC Rapid Bucuresti
+Wed Apr 24 2024,Sepsi Sf. Gheorghe,2-2,?,FCSB
+Thu Apr 25 2024,UTA Arad,3-1,?,Otelul
+Thu Apr 25 2024,FC Hermannstadt,2-0,?,Petrolul
+Thu Apr 25 2024,Univ. Craiova,0-1,?,CFR Cluj
+Fri Apr 26 2024,Din. Bucuresti,1-1,?,FC Voluntari
+Sat Apr 27 2024,U Craiova 1948,3-2,?,U. Cluj
+Sat Apr 27 2024,FCSB,2-1,?,Farul Constanta
+Sun Apr 28 2024,Otelul,1-0,?,FC Hermannstadt
+Sun Apr 28 2024,Poli Iasi,0-2,?,UTA Arad
+Sun Apr 28 2024,CFR Cluj,2-1,?,Sepsi Sf. Gheorghe
+Mon Apr 29 2024,Petrolul,1-2,?,FC Botosani
+Mon Apr 29 2024,FC Rapid Bucuresti,1-2,?,Univ. Craiova
+Fri May 3 2024,Farul Constanta,1-4,?,Sepsi Sf. Gheorghe
+Sat May 4 2024,FC Botosani,0-0,?,FC Voluntari
+Sat May 4 2024,U. Cluj,3-3,?,Din. Bucuresti
+Sun May 5 2024,Petrolul,2-1,?,Otelul
+Sun May 5 2024,CFR Cluj,3-2,?,FC Rapid Bucuresti
+Mon May 6 2024,FC Hermannstadt,0-1,?,Poli Iasi
+Mon May 6 2024,UTA Arad,3-1,?,U Craiova 1948
+Mon May 6 2024,Univ. Craiova,2-0,?,FCSB
+Fri May 10 2024,Sepsi Sf. Gheorghe,3-2,?,FC Rapid Bucuresti
+Sat May 11 2024,FCSB,0-1,?,CFR Cluj
+Sun May 12 2024,Din. Bucuresti,2-0,?,UTA Arad
+Sun May 12 2024,FC Voluntari,0-1,?,U. Cluj
+Sun May 12 2024,Otelul,2-0,?,FC Botosani
+Sun May 12 2024,Poli Iasi,2-0,?,Petrolul
+Sun May 12 2024,U Craiova 1948,1-3,?,FC Hermannstadt
+Mon May 13 2024,Farul Constanta,3-3,?,Univ. Craiova
+Fri May 17 2024,FC Botosani,1-0,?,Mioveni
+Sat May 18 2024,CFR Cluj,5-1,?,Farul Constanta
+Sat May 18 2024,Univ. Craiova,3-2,?,Sepsi Sf. Gheorghe
+Sun May 19 2024,Otelul,0-2,?,U. Cluj
+Sun May 19 2024,FC Rapid Bucuresti,2-0,?,FCSB
+Mon May 20 2024,Din. Bucuresti,2-0,?,Csikszereda M. Ciuc
+Fri May 24 2024,Mioveni,0-1,?,FC Botosani
+Sun May 26 2024,Univ. Craiova,2-1,?,U. Cluj
+Mon May 27 2024,Csikszereda M. Ciuc,0-0,?,Din. Bucuresti

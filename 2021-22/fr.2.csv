@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Jul 24 2021,Bastia,1-1,0-1,Nimes
+Sat Jul 24 2021,Amiens,1-2,1-0,Auxerre
+Sat Jul 24 2021,Caen,4-0,3-0,Rodez
+Sat Jul 24 2021,Dunkerque,1-1,1-1,Quevilly Rouen
+Sat Jul 24 2021,Grenoble,0-4,0-1,Paris FC
+Sat Jul 24 2021,Le Havre,0-0,0-0,Guingamp
+Sat Jul 24 2021,Pau FC,2-1,1-0,Nancy
+Sat Jul 24 2021,Toulouse,2-2,1-1,Ajaccio
+Sat Jul 24 2021,Valenciennes,0-0,0-0,Niort
+Mon Jul 26 2021,Dijon,1-3,0-0,Sochaux
+Sat Jul 31 2021,Nimes,2-1,1-0,Dijon
+Sat Jul 31 2021,Ajaccio,3-1,2-0,Amiens
+Sat Jul 31 2021,Guingamp,1-1,0-0,Valenciennes
+Sat Jul 31 2021,Nancy,0-4,0-3,Toulouse
+Sat Jul 31 2021,Niort,0-1,0-0,Caen
+Sat Jul 31 2021,Paris FC,2-1,1-1,Dunkerque
+Sat Jul 31 2021,Rodez,1-0,1-0,Pau FC
+Sat Jul 31 2021,Sochaux,0-2,0-2,Le Havre
+Mon Aug 2 2021,Auxerre,3-0,2-0,Grenoble
+Sat Aug 7 2021,Caen,1-2,0-0,Sochaux
+Sat Aug 7 2021,Amiens,1-3,1-2,Quevilly Rouen
+Sat Aug 7 2021,Auxerre,0-0,0-0,Ajaccio
+Sat Aug 7 2021,Dijon,1-1,0-0,Rodez
+Sat Aug 7 2021,Dunkerque,1-2,1-1,Niort
+Sat Aug 7 2021,Grenoble,0-0,0-0,Guingamp
+Sat Aug 7 2021,Le Havre,1-2,0-1,Paris FC
+Sat Aug 7 2021,Pau FC,0-1,0-1,Toulouse
+Sat Aug 7 2021,Valenciennes,0-3,0-0,Nimes
+Wed Aug 11 2021,Bastia,1-1,1-0,Nancy
+Sat Aug 14 2021,Toulouse,1-0,1-0,Bastia
+Sat Aug 14 2021,Guingamp,0-2,0-1,Amiens
+Sat Aug 14 2021,Nancy,0-1,0-0,Valenciennes
+Sat Aug 14 2021,Nimes,0-0,0-0,Pau FC
+Sat Aug 14 2021,Niort,1-0,1-0,Grenoble
+Sat Aug 14 2021,Quevilly Rouen,2-1,1-0,Dijon
+Sat Aug 14 2021,Rodez,0-0,0-0,Le Havre
+Sat Aug 14 2021,Sochaux,1-0,1-0,Dunkerque
+Mon Aug 16 2021,Paris FC,1-1,0-0,Auxerre
+Wed Aug 18 2021,Quevilly Rouen,1-2,0-1,Bastia
+Sat Aug 21 2021,Dijon,2-4,1-1,Toulouse
+Sat Aug 21 2021,Amiens,0-0,0-0,Sochaux
+Sat Aug 21 2021,Caen,1-0,1-0,Nancy
+Sat Aug 21 2021,Dunkerque,0-2,0-0,Nimes
+Sat Aug 21 2021,Grenoble,2-0,1-0,Quevilly Rouen
+Sat Aug 21 2021,Le Havre,2-1,1-0,Niort
+Sat Aug 21 2021,Pau FC,2-0,1-0,Bastia
+Sat Aug 21 2021,Valenciennes,1-4,1-1,Rodez
+Mon Aug 23 2021,Auxerre,1-2,0-1,Guingamp
+Wed Aug 25 2021,Ajaccio,2-0,1-0,Caen
+Sat Aug 28 2021,Nimes,0-0,0-0,Caen
+Sat Aug 28 2021,Toulouse,1-0,1-0,Valenciennes
+Sat Aug 28 2021,Bastia,0-0,0-0,Le Havre
+Sat Aug 28 2021,Guingamp,1-1,0-1,Ajaccio
+Sat Aug 28 2021,Nancy,1-4,0-2,Auxerre
+Sat Aug 28 2021,Niort,0-0,0-0,Amiens
+Sat Aug 28 2021,Pau FC,2-0,1-0,Dijon
+Sat Aug 28 2021,Quevilly Rouen,0-1,0-0,Paris FC
+Sat Aug 28 2021,Rodez,2-2,0-1,Dunkerque
+Sat Aug 28 2021,Sochaux,1-0,1-0,Grenoble
+Sat Sep 11 2021,Paris FC,0-1,0-1,Guingamp
+Sat Sep 11 2021,Ajaccio,1-0,0-0,Sochaux
+Sat Sep 11 2021,Amiens,0-1,0-1,Rodez
+Sat Sep 11 2021,Auxerre,4-0,1-0,Niort
+Sat Sep 11 2021,Caen,1-2,1-1,Pau FC
+Sat Sep 11 2021,Dijon,2-1,0-0,Bastia
+Sat Sep 11 2021,Dunkerque,0-0,0-0,Nancy
+Sat Sep 11 2021,Grenoble,2-1,0-1,Nimes
+Sat Sep 11 2021,Valenciennes,1-2,1-0,Quevilly Rouen
+Mon Sep 13 2021,Le Havre,1-1,0-1,Toulouse
+Tue Sep 14 2021,Ajaccio,1-0,0-0,Paris FC
+Sat Sep 18 2021,Sochaux,2-0,1-0,Paris FC
+Sat Sep 18 2021,Toulouse,4-1,2-0,Grenoble
+Sat Sep 18 2021,Bastia,1-1,1-0,Caen
+Sat Sep 18 2021,Dijon,2-0,0-0,Dunkerque
+Sat Sep 18 2021,Nancy,1-1,0-0,Le Havre
+Sat Sep 18 2021,Nimes,3-3,2-0,Amiens
+Sat Sep 18 2021,Niort,2-0,1-0,Guingamp
+Sat Sep 18 2021,Pau FC,1-1,1-1,Valenciennes
+Sat Sep 18 2021,Quevilly Rouen,0-0,0-0,Auxerre
+Sat Sep 18 2021,Rodez,0-2,0-1,Ajaccio
+Tue Sep 21 2021,Ajaccio,0-0,0-0,Niort
+Tue Sep 21 2021,Amiens,2-2,1-1,Pau FC
+Tue Sep 21 2021,Auxerre,1-0,1-0,Rodez
+Tue Sep 21 2021,Caen,0-1,0-1,Dijon
+Tue Sep 21 2021,Dunkerque,0-2,0-1,Toulouse
+Tue Sep 21 2021,Grenoble,4-1,1-1,Nancy
+Tue Sep 21 2021,Guingamp,1-2,1-0,Sochaux
+Tue Sep 21 2021,Le Havre,1-0,1-0,Quevilly Rouen
+Tue Sep 21 2021,Paris FC,2-0,0-0,Nimes
+Tue Sep 21 2021,Valenciennes,2-1,1-1,Bastia
+Fri Sep 24 2021,Dijon,0-1,0-1,Valenciennes
+Fri Sep 24 2021,Nancy,1-1,0-1,Amiens
+Fri Sep 24 2021,Nimes,0-1,0-0,Le Havre
+Fri Sep 24 2021,Niort,4-1,2-0,Paris FC
+Fri Sep 24 2021,Pau FC,1-2,0-2,Dunkerque
+Fri Sep 24 2021,Quevilly Rouen,2-2,2-2,Guingamp
+Fri Sep 24 2021,Rodez,1-1,0-1,Grenoble
+Fri Sep 24 2021,Sochaux,0-0,0-0,Auxerre
+Sat Sep 25 2021,Bastia,2-0,0-0,Ajaccio
+Mon Sep 27 2021,Toulouse,2-3,2-3,Caen
+Sat Oct 2 2021,Amiens,0-0,0-0,Toulouse
+Sat Oct 2 2021,Auxerre,2-2,1-0,Nimes
+Sat Oct 2 2021,Ajaccio,0-1,0-0,Quevilly Rouen
+Sat Oct 2 2021,Caen,1-2,0-2,Valenciennes
+Sat Oct 2 2021,Dunkerque,2-0,0-0,Bastia
+Sat Oct 2 2021,Grenoble,2-0,2-0,Pau FC
+Sat Oct 2 2021,Guingamp,2-1,1-1,Rodez
+Sat Oct 2 2021,Le Havre,2-0,1-0,Dijon
+Sat Oct 2 2021,Paris FC,1-1,1-0,Nancy
+Sat Oct 2 2021,Sochaux,1-0,0-0,Niort
+Sat Oct 16 2021,Toulouse,6-0,3-0,Auxerre
+Sat Oct 16 2021,Bastia,0-0,0-0,Grenoble
+Sat Oct 16 2021,Caen,2-2,1-1,Le Havre
+Sat Oct 16 2021,Dijon,1-0,0-0,Amiens
+Sat Oct 16 2021,Nancy,2-1,0-1,Guingamp
+Sat Oct 16 2021,Pau FC,1-0,1-0,Paris FC
+Sat Oct 16 2021,Quevilly Rouen,0-3,0-2,Niort
+Sat Oct 16 2021,Rodez,0-1,0-0,Sochaux
+Sat Oct 16 2021,Valenciennes,1-3,0-2,Dunkerque
+Mon Oct 18 2021,Nimes,0-2,0-2,Ajaccio
+Sat Oct 23 2021,Paris FC,2-2,2-0,Toulouse
+Sat Oct 23 2021,Ajaccio,2-0,1-0,Nancy
+Sat Oct 23 2021,Amiens,3-0,1-0,Valenciennes
+Sat Oct 23 2021,Dunkerque,1-1,0-0,Caen
+Sat Oct 23 2021,Grenoble,1-2,1-0,Dijon
+Sat Oct 23 2021,Guingamp,3-1,1-0,Nimes
+Sat Oct 23 2021,Le Havre,1-0,1-0,Pau FC
+Sat Oct 23 2021,Niort,0-2,0-1,Rodez
+Sat Oct 23 2021,Sochaux,1-1,0-1,Quevilly Rouen
+Mon Oct 25 2021,Auxerre,1-0,1-0,Bastia
+Sat Oct 30 2021,Toulouse,2-2,0-1,Guingamp
+Sat Oct 30 2021,Bastia,0-0,0-0,Amiens
+Sat Oct 30 2021,Caen,0-1,0-1,Grenoble
+Sat Oct 30 2021,Dijon,0-1,0-1,Paris FC
+Sat Oct 30 2021,Dunkerque,1-0,0-0,Le Havre
+Sat Oct 30 2021,Nancy,0-0,0-0,Sochaux
+Sat Oct 30 2021,Nimes,1-2,0-1,Niort
+Sat Oct 30 2021,Pau FC,1-0,0-0,Ajaccio
+Sat Oct 30 2021,Rodez,3-0,0-0,Quevilly Rouen
+Mon Nov 1 2021,Valenciennes,1-2,0-0,Auxerre
+Sat Nov 6 2021,Auxerre,4-1,1-0,Pau FC
+Sat Nov 6 2021,Sochaux,0-1,0-0,Nimes
+Sat Nov 6 2021,Ajaccio,1-0,0-0,Dijon
+Sat Nov 6 2021,Amiens,0-0,0-0,Caen
+Sat Nov 6 2021,Grenoble,1-0,0-0,Dunkerque
+Sat Nov 6 2021,Guingamp,2-3,0-1,Bastia
+Sat Nov 6 2021,Le Havre,0-0,0-0,Valenciennes
+Sat Nov 6 2021,Niort,1-3,0-1,Nancy
+Sat Nov 6 2021,Paris FC,1-0,1-0,Rodez
+Sat Nov 6 2021,Quevilly Rouen,0-0,0-0,Toulouse
+Sat Nov 20 2021,Toulouse,4-1,1-1,Sochaux
+Sat Nov 20 2021,Bastia,2-0,2-0,Niort
+Sat Nov 20 2021,Caen,0-1,0-0,Paris FC
+Sat Nov 20 2021,Dunkerque,0-1,0-0,Ajaccio
+Sat Nov 20 2021,Le Havre,1-1,1-0,Amiens
+Sat Nov 20 2021,Nancy,0-2,0-2,Rodez
+Sat Nov 20 2021,Nimes,2-1,1-1,Quevilly Rouen
+Sat Nov 20 2021,Pau FC,2-0,1-0,Guingamp
+Sat Nov 20 2021,Valenciennes,1-0,1-0,Grenoble
+Mon Nov 22 2021,Dijon,3-1,2-0,Auxerre
+Fri Dec 3 2021,Ajaccio,0-0,0-0,Valenciennes
+Fri Dec 3 2021,Amiens,3-0,1-0,Dunkerque
+Fri Dec 3 2021,Grenoble,1-2,0-1,Le Havre
+Fri Dec 3 2021,Guingamp,3-2,0-1,Dijon
+Fri Dec 3 2021,Paris FC,1-0,0-0,Bastia
+Fri Dec 3 2021,Quevilly Rouen,2-1,1-1,Nancy
+Fri Dec 3 2021,Rodez,1-0,1-0,Nimes
+Fri Dec 3 2021,Sochaux,2-1,0-0,Pau FC
+Sat Dec 4 2021,Auxerre,2-2,1-1,Caen
+Mon Dec 6 2021,Niort,2-1,0-0,Toulouse
+Sat Dec 11 2021,Le Havre,0-1,0-0,Ajaccio
+Sat Dec 11 2021,Amiens,4-1,2-0,Grenoble
+Sat Dec 11 2021,Bastia,2-2,2-0,Sochaux
+Sat Dec 11 2021,Caen,2-0,1-0,Guingamp
+Sat Dec 11 2021,Dijon,2-2,0-2,Niort
+Sat Dec 11 2021,Dunkerque,0-2,0-0,Auxerre
+Sat Dec 11 2021,Nimes,2-1,2-1,Nancy
+Sat Dec 11 2021,Pau FC,1-2,0-0,Quevilly Rouen
+Sat Dec 11 2021,Valenciennes,1-4,0-3,Paris FC
+Mon Dec 13 2021,Toulouse,1-1,1-0,Rodez
+Tue Dec 21 2021,Ajaccio,1-0,0-0,Grenoble
+Tue Dec 21 2021,Auxerre,2-3,1-2,Le Havre
+Tue Dec 21 2021,Guingamp,2-1,0-0,Dunkerque
+Tue Dec 21 2021,Nancy,0-3,0-1,Dijon
+Tue Dec 21 2021,Nimes,1-2,0-1,Toulouse
+Tue Dec 21 2021,Niort,3-0,0-0,Pau FC
+Tue Dec 21 2021,Paris FC,1-0,1-0,Amiens
+Tue Dec 21 2021,Quevilly Rouen,2-2,0-1,Caen
+Tue Dec 21 2021,Rodez,0-0,0-0,Bastia
+Tue Dec 21 2021,Sochaux,1-1,0-1,Valenciennes
+Sat Jan 8 2022,Le Havre,0-1,0-0,Sochaux
+Sat Jan 8 2022,Bastia,3-0,1-0,Quevilly Rouen
+Sat Jan 8 2022,Dijon,1-2,0-2,Nimes
+Sat Jan 8 2022,Grenoble,0-1,0-1,Auxerre
+Sat Jan 8 2022,Pau FC,4-0,0-0,Rodez
+Sat Jan 8 2022,Valenciennes,1-1,1-0,Guingamp
+Sat Jan 15 2022,Guingamp,0-0,0-0,Grenoble
+Sat Jan 15 2022,Nancy,2-1,1-0,Bastia
+Sat Jan 15 2022,Rodez,0-2,0-1,Dijon
+Sat Jan 15 2022,Sochaux,3-2,0-2,Caen
+Sat Jan 15 2022,Toulouse,1-1,0-0,Pau FC
+Mon Jan 17 2022,Paris FC,2-2,2-0,Le Havre
+Wed Jan 19 2022,Amiens,0-1,0-1,Ajaccio
+Wed Jan 19 2022,Toulouse,4-0,2-0,Nancy
+Sat Jan 22 2022,Amiens,3-0,0-0,Guingamp
+Sat Jan 22 2022,Bastia,0-0,0-0,Toulouse
+Sat Jan 22 2022,Dijon,1-0,0-0,Quevilly Rouen
+Sat Jan 22 2022,Dunkerque,0-0,0-0,Sochaux
+Sat Jan 22 2022,Le Havre,0-0,0-0,Rodez
+Mon Jan 24 2022,Caen,2-0,0-0,Ajaccio
+Wed Jan 26 2022,Quevilly Rouen,1-1,0-1,Amiens
+Fri Jan 28 2022,Ajaccio,0-0,0-0,Auxerre
+Fri Jan 28 2022,Caen,0-2,0-1,Niort
+Fri Jan 28 2022,Dunkerque,1-1,0-0,Paris FC
+Fri Jan 28 2022,Nimes,2-1,2-0,Valenciennes
+Tue Feb 1 2022,Auxerre,1-2,1-1,Paris FC
+Tue Feb 1 2022,Niort,2-0,0-0,Dunkerque
+Tue Feb 1 2022,Pau FC,0-3,0-0,Nimes
+Tue Feb 1 2022,Valenciennes,6-1,5-1,Nancy
+Sat Feb 5 2022,Toulouse,4-1,2-1,Dijon
+Sat Feb 5 2022,Bastia,1-1,0-0,Pau FC
+Sat Feb 5 2022,Guingamp,1-1,0-0,Auxerre
+Sat Feb 5 2022,Nancy,1-1,0-0,Caen
+Sat Feb 5 2022,Nimes,0-1,0-0,Dunkerque
+Sat Feb 5 2022,Niort,0-0,0-0,Le Havre
+Sat Feb 5 2022,Quevilly Rouen,1-0,0-0,Grenoble
+Sat Feb 5 2022,Rodez,0-0,0-0,Valenciennes
+Sat Feb 5 2022,Sochaux,1-1,1-1,Amiens
+Mon Feb 7 2022,Paris FC,2-0,0-0,Ajaccio
+Sat Feb 12 2022,Valenciennes,1-3,0-1,Toulouse
+Sat Feb 12 2022,Ajaccio,0-1,0-0,Guingamp
+Sat Feb 12 2022,Amiens,3-1,2-0,Niort
+Sat Feb 12 2022,Auxerre,1-1,1-1,Nancy
+Sat Feb 12 2022,Caen,4-0,3-0,Nimes
+Sat Feb 12 2022,Dijon,0-1,0-0,Pau FC
+Sat Feb 12 2022,Dunkerque,2-0,2-0,Rodez
+Sat Feb 12 2022,Grenoble,1-3,1-1,Sochaux
+Sat Feb 12 2022,Paris FC,3-0,2-0,Quevilly Rouen
+Mon Feb 14 2022,Le Havre,2-4,2-2,Bastia
+Tue Feb 15 2022,Grenoble,1-0,0-0,Niort
+Sat Feb 19 2022,Sochaux,0-1,0-0,Ajaccio
+Sat Feb 19 2022,Bastia,0-0,0-0,Dijon
+Sat Feb 19 2022,Guingamp,1-1,0-0,Paris FC
+Sat Feb 19 2022,Nancy,2-0,1-0,Dunkerque
+Sat Feb 19 2022,Nimes,3-1,1-0,Grenoble
+Sat Feb 19 2022,Niort,0-1,0-1,Auxerre
+Sat Feb 19 2022,Pau FC,1-0,0-0,Caen
+Sat Feb 19 2022,Quevilly Rouen,1-1,1-1,Valenciennes
+Sat Feb 19 2022,Rodez,1-1,1-1,Amiens
+Mon Feb 21 2022,Toulouse,4-0,2-0,Le Havre
+Sat Feb 26 2022,Paris FC,3-1,0-1,Sochaux
+Sat Feb 26 2022,Ajaccio,2-1,2-1,Rodez
+Sat Feb 26 2022,Amiens,3-0,1-0,Nimes
+Sat Feb 26 2022,Auxerre,1-0,1-0,Quevilly Rouen
+Sat Feb 26 2022,Caen,2-1,1-1,Bastia
+Sat Feb 26 2022,Dunkerque,2-1,1-0,Dijon
+Sat Feb 26 2022,Guingamp,1-0,0-0,Niort
+Sat Feb 26 2022,Le Havre,1-0,1-0,Nancy
+Sat Feb 26 2022,Valenciennes,1-0,0-0,Pau FC
+Mon Feb 28 2022,Grenoble,0-2,0-0,Toulouse
+Sat Mar 5 2022,Nimes,1-1,1-1,Paris FC
+Sat Mar 5 2022,Bastia,1-1,1-1,Valenciennes
+Sat Mar 5 2022,Dijon,1-0,1-0,Caen
+Sat Mar 5 2022,Nancy,0-1,0-0,Grenoble
+Sat Mar 5 2022,Niort,0-1,0-0,Ajaccio
+Sat Mar 5 2022,Pau FC,2-1,0-1,Amiens
+Sat Mar 5 2022,Quevilly Rouen,0-2,0-1,Le Havre
+Sat Mar 5 2022,Rodez,1-3,0-1,Auxerre
+Sat Mar 5 2022,Sochaux,1-0,0-0,Guingamp
+Mon Mar 7 2022,Toulouse,2-0,1-0,Dunkerque
+Sat Mar 12 2022,Ajaccio,0-1,0-1,Bastia
+Sat Mar 12 2022,Auxerre,3-2,2-1,Sochaux
+Sat Mar 12 2022,Amiens,1-0,0-0,Nancy
+Sat Mar 12 2022,Caen,4-1,2-0,Toulouse
+Sat Mar 12 2022,Dunkerque,1-0,1-0,Pau FC
+Sat Mar 12 2022,Grenoble,0-0,0-0,Rodez
+Sat Mar 12 2022,Guingamp,1-1,1-1,Quevilly Rouen
+Sat Mar 12 2022,Le Havre,0-1,0-1,Nimes
+Sat Mar 12 2022,Paris FC,2-0,1-0,Niort
+Sat Mar 12 2022,Valenciennes,0-0,0-0,Dijon
+Tue Mar 15 2022,Bastia,1-0,1-0,Dunkerque
+Tue Mar 15 2022,Dijon,2-0,0-0,Le Havre
+Tue Mar 15 2022,Nancy,3-0,3-0,Paris FC
+Tue Mar 15 2022,Nimes,1-2,1-2,Auxerre
+Tue Mar 15 2022,Niort,1-1,0-1,Sochaux
+Tue Mar 15 2022,Pau FC,0-1,0-1,Grenoble
+Tue Mar 15 2022,Quevilly Rouen,0-0,0-0,Ajaccio
+Tue Mar 15 2022,Rodez,1-1,0-1,Guingamp
+Tue Mar 15 2022,Toulouse,6-0,3-0,Amiens
+Tue Mar 15 2022,Valenciennes,1-1,1-1,Caen
+Sat Mar 19 2022,Auxerre,1-2,0-2,Toulouse
+Sat Mar 19 2022,Le Havre,2-4,0-1,Caen
+Sat Mar 19 2022,Ajaccio,1-0,0-0,Nimes
+Sat Mar 19 2022,Amiens,1-1,0-0,Dijon
+Sat Mar 19 2022,Dunkerque,1-2,0-1,Valenciennes
+Sat Mar 19 2022,Grenoble,1-1,0-0,Bastia
+Sat Mar 19 2022,Guingamp,3-1,2-0,Nancy
+Sat Mar 19 2022,Niort,2-0,1-0,Quevilly Rouen
+Sat Mar 19 2022,Paris FC,1-1,0-0,Pau FC
+Sat Mar 19 2022,Sochaux,2-0,2-0,Rodez
+Sat Apr 2 2022,Toulouse,2-1,0-1,Paris FC
+Sat Apr 2 2022,Bastia,1-1,1-0,Auxerre
+Sat Apr 2 2022,Caen,2-1,1-0,Dunkerque
+Sat Apr 2 2022,Dijon,1-0,0-0,Grenoble
+Sat Apr 2 2022,Nimes,0-2,0-0,Guingamp
+Sat Apr 2 2022,Pau FC,2-1,1-1,Le Havre
+Sat Apr 2 2022,Quevilly Rouen,0-2,0-1,Sochaux
+Sat Apr 2 2022,Rodez,1-1,1-1,Niort
+Sat Apr 2 2022,Valenciennes,0-2,0-2,Amiens
+Mon Apr 4 2022,Nancy,0-2,0-0,Ajaccio
+Sat Apr 9 2022,Guingamp,2-4,2-2,Toulouse
+Sat Apr 9 2022,Ajaccio,2-1,0-0,Pau FC
+Sat Apr 9 2022,Amiens,0-0,0-0,Bastia
+Sat Apr 9 2022,Auxerre,1-0,1-0,Valenciennes
+Sat Apr 9 2022,Grenoble,0-2,0-0,Caen
+Sat Apr 9 2022,Le Havre,2-1,1-0,Dunkerque
+Sat Apr 9 2022,Niort,0-0,0-0,Nimes
+Sat Apr 9 2022,Quevilly Rouen,2-0,2-0,Rodez
+Sat Apr 9 2022,Sochaux,1-0,1-0,Nancy
+Mon Apr 11 2022,Paris FC,2-2,0-1,Dijon
+Sat Apr 16 2022,Pau FC,1-4,1-2,Auxerre
+Sat Apr 16 2022,Toulouse,2-0,0-0,Quevilly Rouen
+Sat Apr 16 2022,Bastia,1-2,0-0,Guingamp
+Sat Apr 16 2022,Caen,1-1,0-0,Amiens
+Sat Apr 16 2022,Dijon,0-3,0-1,Ajaccio
+Sat Apr 16 2022,Dunkerque,0-3,0-2,Grenoble
+Sat Apr 16 2022,Nancy,0-2,0-0,Niort
+Sat Apr 16 2022,Nimes,1-3,1-1,Sochaux
+Sat Apr 16 2022,Rodez,0-1,0-1,Paris FC
+Sat Apr 16 2022,Valenciennes,0-1,0-1,Le Havre
+Tue Apr 19 2022,Ajaccio,2-1,2-0,Dunkerque
+Tue Apr 19 2022,Amiens,0-2,0-0,Le Havre
+Tue Apr 19 2022,Auxerre,2-1,2-0,Dijon
+Tue Apr 19 2022,Grenoble,3-0,1-0,Valenciennes
+Tue Apr 19 2022,Guingamp,3-0,2-0,Pau FC
+Tue Apr 19 2022,Niort,1-1,0-1,Bastia
+Tue Apr 19 2022,Paris FC,1-0,1-0,Caen
+Tue Apr 19 2022,Quevilly Rouen,0-1,0-1,Nimes
+Tue Apr 19 2022,Rodez,1-1,0-0,Nancy
+Tue Apr 19 2022,Sochaux,1-1,1-0,Toulouse
+Fri Apr 22 2022,Bastia,2-1,2-0,Paris FC
+Fri Apr 22 2022,Dijon,3-3,3-0,Guingamp
+Fri Apr 22 2022,Dunkerque,0-0,0-0,Amiens
+Fri Apr 22 2022,Le Havre,0-1,0-0,Grenoble
+Fri Apr 22 2022,Nancy,0-3,?,Quevilly Rouen
+Fri Apr 22 2022,Nimes,3-2,2-0,Rodez
+Fri Apr 22 2022,Pau FC,0-1,0-1,Sochaux
+Fri Apr 22 2022,Valenciennes,0-0,0-0,Ajaccio
+Sat Apr 23 2022,Caen,1-1,0-1,Auxerre
+Mon Apr 25 2022,Toulouse,2-0,1-0,Niort
+Sat Apr 30 2022,Auxerre,1-0,0-0,Dunkerque
+Sat Apr 30 2022,Ajaccio,2-1,2-1,Le Havre
+Sat Apr 30 2022,Grenoble,1-1,1-0,Amiens
+Sat Apr 30 2022,Guingamp,2-1,0-1,Caen
+Sat Apr 30 2022,Nancy,1-3,0-1,Nimes
+Sat Apr 30 2022,Niort,1-3,1-1,Dijon
+Sat Apr 30 2022,Paris FC,1-1,1-1,Valenciennes
+Sat Apr 30 2022,Quevilly Rouen,1-2,1-0,Pau FC
+Sat Apr 30 2022,Sochaux,2-1,0-0,Bastia
+Mon May 2 2022,Rodez,1-0,0-0,Toulouse
+Sat May 7 2022,Amiens,1-2,0-0,Paris FC
+Sat May 7 2022,Bastia,0-1,0-0,Rodez
+Sat May 7 2022,Caen,2-0,0-0,Quevilly Rouen
+Sat May 7 2022,Dijon,2-3,1-0,Nancy
+Sat May 7 2022,Dunkerque,1-3,0-3,Guingamp
+Sat May 7 2022,Grenoble,1-1,1-0,Ajaccio
+Sat May 7 2022,Le Havre,1-2,1-0,Auxerre
+Sat May 7 2022,Pau FC,2-2,1-2,Niort
+Sat May 7 2022,Toulouse,2-1,0-1,Nimes
+Sat May 7 2022,Valenciennes,1-0,0-0,Sochaux
+Sat May 14 2022,Ajaccio,1-0,1-0,Toulouse
+Sat May 14 2022,Auxerre,2-1,1-0,Amiens
+Sat May 14 2022,Guingamp,2-1,1-1,Le Havre
+Sat May 14 2022,Nancy,2-3,2-3,Pau FC
+Sat May 14 2022,Nimes,0-2,0-0,Bastia
+Sat May 14 2022,Niort,1-2,1-1,Valenciennes
+Sat May 14 2022,Paris FC,2-0,0-0,Grenoble
+Sat May 14 2022,Quevilly Rouen,3-1,1-1,Dunkerque
+Sat May 14 2022,Rodez,2-0,0-0,Caen
+Sat May 14 2022,Sochaux,2-2,1-0,Dijon

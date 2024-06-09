@@ -1,0 +1,259 @@
+Date,Team 1,FT,HT,Team 2
+Thu Jan 25 2024,Instituto,0-0,?,Dep. Riestra
+Thu Jan 25 2024,Tigre,0-0,?,Sarmiento Junin
+Thu Jan 25 2024,Atl. Tucuman,1-1,?,Rosario Central
+Thu Jan 25 2024,Central Cordoba,0-1,?,Newells Old Boys
+Fri Jan 26 2024,Barracas Central,1-1,?,Velez Sarsfield
+Fri Jan 26 2024,Talleres Cordoba,0-1,?,Gimnasia L.P.
+Fri Jan 26 2024,Banfield,0-2,?,Huracan
+Fri Jan 26 2024,Ind. Rivadavia,0-1,?,Independiente
+Sat Jan 27 2024,San Lorenzo,0-2,?,Lanus
+Sat Jan 27 2024,Platense,0-0,?,Boca Juniors
+Sat Jan 27 2024,Racing Club,0-1,?,Union de Santa Fe
+Sun Jan 28 2024,Godoy Cruz,2-0,?,Defensa y Justicia
+Sun Jan 28 2024,River Plate,1-1,?,Argentinos Jrs
+Sun Jan 28 2024,Estudiantes L.P.,1-0,?,Belgrano
+Mon Jan 29 2024,Instituto,3-0,?,Atl. Tucuman
+Tue Jan 30 2024,Huracan,1-2,?,Talleres Cordoba
+Tue Jan 30 2024,Gimnasia L.P.,2-3,?,Ind. Rivadavia
+Tue Jan 30 2024,Rosario Central,0-0,?,Banfield
+Tue Jan 30 2024,Lanus,0-2,?,Newells Old Boys
+Tue Jan 30 2024,Velez Sarsfield,0-1,?,Independiente
+Wed Jan 31 2024,Argentinos Jrs,2-0,?,Dep. Riestra
+Wed Jan 31 2024,Defensa y Justicia,3-0,?,Platense
+Wed Jan 31 2024,Belgrano,1-1,?,San Lorenzo
+Wed Jan 31 2024,Racing Club,3-0,?,Tigre
+Wed Jan 31 2024,Barracas Central,0-2,?,River Plate
+Thu Feb 1 2024,Boca Juniors,1-1,?,Sarmiento Junin
+Thu Feb 1 2024,Central Cordoba,0-2,?,Godoy Cruz
+Thu Feb 1 2024,Union de Santa Fe,0-1,?,Estudiantes L.P.
+Sat Feb 3 2024,Independiente,0-1,?,Gimnasia L.P.
+Sat Feb 3 2024,Ind. Rivadavia,2-0,?,Huracan
+Sat Feb 3 2024,Talleres Cordoba,4-1,?,Rosario Central
+Sun Feb 4 2024,Dep. Riestra,0-1,?,Barracas Central
+Sun Feb 4 2024,River Plate,5-0,?,Velez Sarsfield
+Sun Feb 4 2024,Platense,1-0,?,Central Cordoba
+Sun Feb 4 2024,Newells Old Boys,1-0,?,Belgrano
+Mon Feb 5 2024,Godoy Cruz,1-0,?,Lanus
+Mon Feb 5 2024,San Lorenzo,0-0,?,Union de Santa Fe
+Mon Feb 5 2024,Tigre,0-2,?,Boca Juniors
+Mon Feb 5 2024,Estudiantes L.P.,0-0,?,Racing Club
+Mon Feb 5 2024,Banfield,0-2,?,Instituto
+Thu Feb 8 2024,Huracan,0-0,?,Independiente
+Thu Feb 8 2024,Rosario Central,1-0,?,Ind. Rivadavia
+Tue Feb 6 2024,Atl. Tucuman,0-0,?,Argentinos Jrs
+Tue Feb 6 2024,Sarmiento Junin,2-3,?,Defensa y Justicia
+Fri Feb 9 2024,Estudiantes L.P.,2-0,?,Tigre
+Fri Feb 9 2024,Union de Santa Fe,1-3,?,Newells Old Boys
+Fri Feb 9 2024,Racing Club,4-1,?,San Lorenzo
+Fri Feb 9 2024,Velez Sarsfield,3-1,?,Gimnasia L.P.
+Sat Feb 10 2024,Argentinos Jrs,4-2,?,Banfield
+Sat Feb 10 2024,Boca Juniors,0-0,?,Defensa y Justicia
+Sat Feb 10 2024,Belgrano,0-1,?,Godoy Cruz
+Sat Feb 10 2024,Central Cordoba,3-0,?,Sarmiento Junin
+Sun Feb 11 2024,Dep. Riestra,0-3,?,River Plate
+Sun Feb 11 2024,Lanus,3-0,?,Platense
+Sun Feb 11 2024,Barracas Central,2-0,?,Atl. Tucuman
+Mon Feb 12 2024,Instituto,2-2,?,Talleres Cordoba
+Mon Feb 12 2024,Newells Old Boys,0-4,?,Racing Club
+Tue Feb 13 2024,San Lorenzo,1-1,?,Estudiantes L.P.
+Tue Feb 13 2024,Gimnasia L.P.,3-1,?,Huracan
+Tue Feb 13 2024,Godoy Cruz,0-0,?,Union de Santa Fe
+Tue Feb 13 2024,Independiente,1-0,?,Rosario Central
+Wed Feb 14 2024,Sarmiento Junin,0-1,?,Lanus
+Wed Feb 14 2024,Tigre,0-1,?,Defensa y Justicia
+Wed Feb 14 2024,Banfield,0-0,?,Barracas Central
+Wed Feb 14 2024,Boca Juniors,2-0,?,Central Cordoba
+Wed Feb 14 2024,Atl. Tucuman,0-0,?,River Plate
+Thu Feb 15 2024,Dep. Riestra,1-2,?,Velez Sarsfield
+Thu Feb 15 2024,Platense,1-1,?,Belgrano
+Thu Feb 15 2024,Ind. Rivadavia,0-2,?,Instituto
+Thu Feb 15 2024,Talleres Cordoba,2-1,?,Argentinos Jrs
+Sat Feb 17 2024,San Lorenzo,2-0,?,Tigre
+Sat Feb 17 2024,Racing Club,0-2,?,Godoy Cruz
+Sat Feb 17 2024,Rosario Central,2-1,?,Gimnasia L.P.
+Sun Feb 18 2024,Instituto,0-2,?,Independiente
+Sun Feb 18 2024,Velez Sarsfield,1-0,?,Huracan
+Sun Feb 18 2024,River Plate,1-1,?,Banfield
+Sun Feb 18 2024,Lanus,2-1,?,Boca Juniors
+Mon Feb 19 2024,Dep. Riestra,1-0,?,Atl. Tucuman
+Mon Feb 19 2024,Barracas Central,2-1,?,Talleres Cordoba
+Mon Feb 19 2024,Estudiantes L.P.,2-0,?,Newells Old Boys
+Mon Feb 19 2024,Belgrano,4-1,?,Sarmiento Junin
+Mon Feb 19 2024,Union de Santa Fe,0-0,?,Platense
+Tue Feb 20 2024,Argentinos Jrs,2-1,?,Ind. Rivadavia
+Tue Feb 20 2024,Defensa y Justicia,1-1,?,Central Cordoba
+Sat Feb 24 2024,Independiente,0-1,?,Racing Club
+Sat Feb 24 2024,Belgrano,2-2,?,Talleres Cordoba
+Sat Feb 24 2024,Huracan,0-0,?,San Lorenzo
+Sat Feb 24 2024,Sarmiento Junin,0-0,?,Barracas Central
+Sat Feb 24 2024,Union de Santa Fe,4-1,?,Ind. Rivadavia
+Sun Feb 25 2024,River Plate,1-1,?,Boca Juniors
+Sun Feb 25 2024,Gimnasia L.P.,0-0,?,Estudiantes L.P.
+Sun Feb 25 2024,Newells Old Boys,0-1,?,Rosario Central
+Sun Feb 25 2024,Instituto,0-2,?,Godoy Cruz
+Sun Feb 25 2024,Lanus,1-1,?,Banfield
+Mon Feb 26 2024,Defensa y Justicia,1-1,?,Dep. Riestra
+Mon Feb 26 2024,Argentinos Jrs,3-1,?,Platense
+Mon Feb 26 2024,Velez Sarsfield,2-2,?,Tigre
+Mon Feb 26 2024,Central Cordoba,0-0,?,Atl. Tucuman
+Thu Feb 29 2024,Gimnasia L.P.,1-3,?,Instituto
+Thu Feb 29 2024,Huracan,2-0,?,Rosario Central
+Thu Feb 29 2024,Ind. Rivadavia,1-3,?,Barracas Central
+Fri Mar 1 2024,Tigre,1-0,?,Central Cordoba
+Fri Mar 1 2024,Banfield,2-0,?,Dep. Riestra
+Fri Mar 1 2024,Platense,0-0,?,Racing Club
+Sat Mar 2 2024,Sarmiento Junin,1-2,?,Union de Santa Fe
+Sat Mar 2 2024,Atl. Tucuman,0-0,?,Velez Sarsfield
+Sat Mar 2 2024,Independiente,2-1,?,Argentinos Jrs
+Sat Mar 2 2024,Talleres Cordoba,2-2,?,River Plate
+Sun Mar 3 2024,Defensa y Justicia,0-4,?,Lanus
+Sun Mar 3 2024,Godoy Cruz,1-2,?,Estudiantes L.P.
+Sun Mar 3 2024,Boca Juniors,3-2,?,Belgrano
+Sun Mar 3 2024,Newells Old Boys,2-2,?,San Lorenzo
+Mon Mar 4 2024,Instituto,2-0,?,Huracan
+Tue Mar 5 2024,Barracas Central,2-2,?,Independiente
+Tue Mar 5 2024,Racing Club,0-1,?,Sarmiento Junin
+Tue Mar 5 2024,Velez Sarsfield,1-0,?,Rosario Central
+Wed Mar 6 2024,Argentinos Jrs,2-0,?,Gimnasia L.P.
+Wed Mar 6 2024,Estudiantes L.P.,1-2,?,Platense
+Wed Mar 6 2024,Union de Santa Fe,1-0,?,Boca Juniors
+Wed Mar 6 2024,Atl. Tucuman,0-3,?,Banfield
+Wed Mar 6 2024,River Plate,2-0,?,Ind. Rivadavia
+Thu Mar 7 2024,Dep. Riestra,0-1,?,Talleres Cordoba
+Thu Mar 7 2024,Lanus,0-1,?,Central Cordoba
+Thu Mar 7 2024,Belgrano,1-1,?,Defensa y Justicia
+Thu Mar 7 2024,Newells Old Boys,1-0,?,Tigre
+Sat Mar 9 2024,Gimnasia L.P.,2-0,?,Barracas Central
+Sat Mar 9 2024,Sarmiento Junin,3-1,?,Estudiantes L.P.
+Sat Mar 9 2024,Independiente,1-1,?,River Plate
+Sat Mar 9 2024,Platense,0-0,?,San Lorenzo
+Sat Mar 9 2024,Rosario Central,1-0,?,Instituto
+Sun Mar 10 2024,Godoy Cruz,1-1,?,Newells Old Boys
+Sun Mar 10 2024,Huracan,1-1,?,Argentinos Jrs
+Sun Mar 10 2024,Defensa y Justicia,2-1,?,Union de Santa Fe
+Sun Mar 10 2024,Talleres Cordoba,4-1,?,Atl. Tucuman
+Sun Mar 10 2024,Boca Juniors,4-2,?,Racing Club
+Mon Mar 11 2024,Tigre,2-3,?,Lanus
+Mon Mar 11 2024,Ind. Rivadavia,1-2,?,Dep. Riestra
+Mon Mar 11 2024,Banfield,1-2,?,Velez Sarsfield
+Tue Mar 12 2024,Central Cordoba,2-2,?,Belgrano
+Fri Mar 15 2024,Dep. Riestra,1-0,?,Independiente
+Fri Mar 15 2024,Newells Old Boys,0-0,?,Platense
+Sat Mar 16 2024,San Lorenzo,1-0,?,Sarmiento Junin
+Sat Mar 16 2024,Racing Club,1-1,?,Defensa y Justicia
+Sat Mar 16 2024,Atl. Tucuman,2-2,?,Ind. Rivadavia
+Sat Mar 16 2024,Velez Sarsfield,1-0,?,Instituto
+Sun Mar 17 2024,Barracas Central,1-0,?,Huracan
+Sun Mar 17 2024,Godoy Cruz,1-0,?,Tigre
+Sun Mar 17 2024,River Plate,3-1,?,Gimnasia L.P.
+Sun Mar 17 2024,Banfield,0-0,?,Talleres Cordoba
+Mon Mar 18 2024,Union de Santa Fe,2-2,?,Central Cordoba
+Tue Mar 19 2024,Argentinos Jrs,3-0,?,Rosario Central
+Wed Mar 20 2024,Belgrano,0-1,?,Lanus
+Thu Mar 21 2024,San Lorenzo,1-0,?,Godoy Cruz
+Wed Mar 27 2024,Lanus,2-2,?,Union de Santa Fe
+Thu Mar 28 2024,Rosario Central,1-2,?,Barracas Central
+Thu Mar 28 2024,Instituto,1-2,?,Argentinos Jrs
+Fri Mar 29 2024,Defensa y Justicia,1-0,?,Estudiantes L.P.
+Fri Mar 29 2024,Tigre,1-4,?,Belgrano
+Fri Mar 29 2024,Huracan,1-0,?,River Plate
+Sat Mar 30 2024,Boca Juniors,2-1,?,San Lorenzo
+Sat Mar 30 2024,Central Cordoba,1-3,?,Racing Club
+Sat Mar 30 2024,Talleres Cordoba,1-0,?,Velez Sarsfield
+Sun Mar 31 2024,Gimnasia L.P.,2-1,?,Dep. Riestra
+Sun Mar 31 2024,Sarmiento Junin,0-1,?,Newells Old Boys
+Sun Mar 31 2024,Independiente,1-1,?,Atl. Tucuman
+Sun Mar 31 2024,Ind. Rivadavia,1-2,?,Banfield
+Mon Apr 1 2024,Platense,1-2,?,Godoy Cruz
+Fri Apr 5 2024,Velez Sarsfield,0-0,?,Argentinos Jrs
+Fri Apr 5 2024,Banfield,0-1,?,Independiente
+Sat Apr 6 2024,Newells Old Boys,1-3,?,Boca Juniors
+Sat Apr 6 2024,Estudiantes L.P.,5-0,?,Central Cordoba
+Sat Apr 6 2024,San Lorenzo,0-2,?,Defensa y Justicia
+Sat Apr 6 2024,Talleres Cordoba,1-1,?,Ind. Rivadavia
+Sat Apr 6 2024,Union de Santa Fe,1-2,?,Belgrano
+Sun Apr 7 2024,Atl. Tucuman,3-2,?,Gimnasia L.P.
+Sun Apr 7 2024,Barracas Central,3-2,?,Instituto
+Sun Apr 7 2024,Racing Club,2-0,?,Lanus
+Sun Apr 7 2024,River Plate,2-1,?,Rosario Central
+Mon Apr 8 2024,Dep. Riestra,0-0,?,Huracan
+Mon Apr 8 2024,Godoy Cruz,1-0,?,Sarmiento Junin
+Mon Apr 8 2024,Platense,3-1,?,Tigre
+Fri Apr 12 2024,Estudiantes L.P.,1-0,?,Boca Juniors
+Sat Apr 13 2024,Tigre,0-1,?,Union de Santa Fe
+Sat Apr 13 2024,Huracan,4-0,?,Atl. Tucuman
+Sun Apr 14 2024,Sarmiento Junin,0-1,?,Platense
+Sun Apr 14 2024,Gimnasia L.P.,1-2,?,Banfield
+Sun Apr 14 2024,Central Cordoba,0-0,?,San Lorenzo
+Mon Apr 15 2024,Argentinos Jrs,3-3,?,Barracas Central
+Mon Apr 15 2024,Ind. Rivadavia,0-1,?,Velez Sarsfield
+Mon Apr 15 2024,Independiente,2-2,?,Talleres Cordoba
+Mon Apr 15 2024,Instituto,1-3,?,River Plate
+Tue Apr 16 2024,Belgrano,0-4,?,Racing Club
+Tue Apr 16 2024,Boca Juniors,1-0,?,Godoy Cruz
+Tue Apr 16 2024,Defensa y Justicia,1-0,?,Newells Old Boys
+Tue Apr 16 2024,Lanus,1-2,?,Estudiantes L.P.
+Wed Apr 17 2024,Rosario Central,1-1,?,Dep. Riestra
+Sat Apr 20 2024,Argentinos Jrs,2-1,?,Defensa y Justicia
+Sat Apr 20 2024,Estudiantes L.P.,3-0,?,Barracas Central
+Sat Apr 20 2024,Godoy Cruz,1-2,?,Velez Sarsfield
+Sun Apr 21 2024,River Plate,2-3,?,Boca Juniors
+Sun Apr 28 2024,Argentinos Jrs,0-0,?,Velez Sarsfield
+Tue Apr 30 2024,Estudiantes L.P.,1-1,?,Boca Juniors
+Sun May 5 2024,Estudiantes L.P.,1-1,?,Velez Sarsfield
+Fri May 10 2024,Sarmiento Junin,1-2,?,Instituto
+Fri May 10 2024,Argentinos Jrs,3-2,?,Rosario Central
+Fri May 10 2024,Newells Old Boys,2-0,?,Platense
+Sat May 11 2024,Huracan,3-1,?,Defensa y Justicia
+Sat May 11 2024,Godoy Cruz,0-1,?,Barracas Central
+Sat May 11 2024,Independiente,1-3,?,Talleres Cordoba
+Sat May 11 2024,River Plate,3-0,?,Central Cordoba
+Sun May 12 2024,Dep. Riestra,1-0,?,San Lorenzo
+Sun May 12 2024,Tigre,0-1,?,Estudiantes L.P.
+Sun May 12 2024,Belgrano,4-4,?,Racing Club
+Sun May 12 2024,Lanus,0-2,?,Ind. Rivadavia
+Sun May 12 2024,Atl. Tucuman,1-0,?,Boca Juniors
+Mon May 13 2024,Gimnasia L.P.,3-1,?,Velez Sarsfield
+Mon May 13 2024,Union de Santa Fe,1-0,?,Banfield
+Sat May 18 2024,Ind. Rivadavia,0-0,?,Godoy Cruz
+Sat May 18 2024,River Plate,3-0,?,Belgrano
+Sat May 18 2024,Defensa y Justicia,1-1,?,Gimnasia L.P.
+Sat May 18 2024,Instituto,1-1,?,Union de Santa Fe
+Sun May 19 2024,Barracas Central,1-1,?,Sarmiento Junin
+Sun May 19 2024,Platense,0-0,?,Independiente
+Sun May 19 2024,Banfield,1-1,?,Huracan
+Sun May 19 2024,Talleres Cordoba,2-0,?,Atl. Tucuman
+Sun May 19 2024,Central Cordoba,2-4,?,Boca Juniors
+Mon May 20 2024,Estudiantes L.P.,2-0,?,Dep. Riestra
+Mon May 20 2024,San Lorenzo,1-1,?,Lanus
+Mon May 20 2024,Racing Club,3-0,?,Argentinos Jrs
+Mon May 20 2024,Rosario Central,1-1,?,Tigre
+Tue May 21 2024,Velez Sarsfield,1-0,?,Newells Old Boys
+Fri May 24 2024,Dep. Riestra,0-2,?,Rosario Central
+Fri May 24 2024,Tigre,0-4,?,Racing Club
+Fri May 24 2024,Belgrano,2-1,?,Central Cordoba
+Fri May 24 2024,Lanus,2-1,?,Estudiantes L.P.
+Sat May 25 2024,Argentinos Jrs,1-0,?,River Plate
+Sat May 25 2024,Newells Old Boys,1-0,?,Defensa y Justicia
+Sat May 25 2024,Boca Juniors,0-0,?,Talleres Cordoba
+Sun May 26 2024,Huracan,1-0,?,Instituto
+Sun May 26 2024,Sarmiento Junin,0-1,?,Ind. Rivadavia
+Sun May 26 2024,Gimnasia L.P.,3-0,?,Banfield
+Sun May 26 2024,Independiente,1-1,?,Velez Sarsfield
+Mon May 27 2024,Union de Santa Fe,2-0,?,Barracas Central
+Mon May 27 2024,Atl. Tucuman,1-1,?,Platense
+Sat Jun 1 2024,Racing Club,1-0,?,Dep. Riestra
+Sat Jun 1 2024,Belgrano,1-0,?,Argentinos Jrs
+Sat Jun 1 2024,Velez Sarsfield,1-1,?,Atl. Tucuman
+Sun Jun 2 2024,Platense,1-0,?,Boca Juniors
+Sun Jun 2 2024,Central Cordoba,2-4,?,Talleres Cordoba
+Sun Jun 2 2024,Rosario Central,1-1,?,Lanus
+Sun Jun 2 2024,Instituto,2-1,?,Gimnasia L.P.
+Sun Jun 2 2024,River Plate,3-1,?,Tigre
+Mon Jun 3 2024,San Lorenzo,0-1,?,Sarmiento Junin
+Mon Jun 3 2024,Defensa y Justicia,0-0,?,Independiente
+Mon Jun 3 2024,Estudiantes L.P.,1-1,?,Godoy Cruz
+Tue Jun 4 2024,Barracas Central,0-2,?,Huracan
+Tue Jun 4 2024,Banfield,2-0,?,Newells Old Boys
+Tue Jun 4 2024,Ind. Rivadavia,0-1,?,Union de Santa Fe

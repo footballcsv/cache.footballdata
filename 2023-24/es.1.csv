@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 11 2023,Almeria,0-2,0-2,Vallecano
+Fri Aug 11 2023,Sevilla,1-2,0-0,Valencia
+Sat Aug 12 2023,Sociedad,1-1,1-0,Girona
+Sat Aug 12 2023,Las Palmas,1-1,1-0,Mallorca
+Sat Aug 12 2023,Ath Bilbao,0-2,0-2,Real Madrid
+Sun Aug 13 2023,Celta,0-2,0-1,Osasuna
+Sun Aug 13 2023,Villarreal,1-2,0-1,Betis
+Sun Aug 13 2023,Getafe,0-0,0-0,Barcelona
+Mon Aug 14 2023,Cadiz,1-0,1-0,Alaves
+Mon Aug 14 2023,Ath Madrid,3-1,1-0,Granada
+Fri Aug 18 2023,Mallorca,0-1,0-0,Villarreal
+Fri Aug 18 2023,Valencia,1-0,0-0,Las Palmas
+Sat Aug 19 2023,Sociedad,1-1,1-0,Celta
+Sat Aug 19 2023,Almeria,1-3,1-1,Real Madrid
+Sat Aug 19 2023,Osasuna,0-2,0-2,Ath Bilbao
+Sun Aug 20 2023,Girona,3-0,1-0,Getafe
+Sun Aug 20 2023,Barcelona,2-0,0-0,Cadiz
+Sun Aug 20 2023,Betis,0-0,0-0,Ath Madrid
+Mon Aug 21 2023,Alaves,4-3,2-2,Sevilla
+Mon Aug 21 2023,Granada,0-2,0-0,Vallecano
+Fri Aug 25 2023,Las Palmas,0-0,0-0,Sociedad
+Fri Aug 25 2023,Celta,0-1,0-0,Real Madrid
+Sat Aug 26 2023,Cadiz,1-1,0-0,Almeria
+Sat Aug 26 2023,Granada,3-2,1-1,Mallorca
+Sat Aug 26 2023,Sevilla,1-2,1-1,Girona
+Sun Aug 27 2023,Villarreal,3-4,2-2,Barcelona
+Sun Aug 27 2023,Valencia,1-2,0-1,Osasuna
+Sun Aug 27 2023,Ath Bilbao,4-2,3-2,Betis
+Mon Aug 28 2023,Getafe,1-0,0-0,Alaves
+Mon Aug 28 2023,Vallecano,0-7,0-3,Ath Madrid
+Fri Sep 1 2023,Cadiz,3-1,2-1,Villarreal
+Fri Sep 1 2023,Almeria,2-3,0-2,Celta
+Sat Sep 2 2023,Sociedad,5-3,2-1,Granada
+Sat Sep 2 2023,Real Madrid,2-1,0-1,Getafe
+Sat Sep 2 2023,Alaves,1-0,1-0,Valencia
+Sat Sep 2 2023,Betis,1-0,0-0,Vallecano
+Sun Sep 3 2023,Girona,1-0,0-0,Las Palmas
+Sun Sep 3 2023,Mallorca,0-0,0-0,Ath Bilbao
+Sun Sep 3 2023,Osasuna,1-2,0-1,Barcelona
+Fri Sep 15 2023,Vallecano,2-0,1-0,Alaves
+Sat Sep 16 2023,Ath Bilbao,3-0,0-0,Cadiz
+Sat Sep 16 2023,Valencia,3-0,2-0,Ath Madrid
+Sat Sep 16 2023,Celta,0-1,0-0,Mallorca
+Sat Sep 16 2023,Barcelona,5-0,2-0,Betis
+Sun Sep 17 2023,Getafe,3-2,1-1,Osasuna
+Sun Sep 17 2023,Villarreal,2-1,1-1,Almeria
+Sun Sep 17 2023,Sevilla,1-0,0-0,Las Palmas
+Sun Sep 17 2023,Real Madrid,2-1,0-1,Sociedad
+Mon Sep 18 2023,Granada,2-4,0-3,Girona
+Fri Sep 22 2023,Alaves,0-2,0-1,Ath Bilbao
+Sat Sep 23 2023,Girona,5-3,4-1,Mallorca
+Sat Sep 23 2023,Osasuna,0-0,0-0,Sevilla
+Sat Sep 23 2023,Barcelona,3-2,0-1,Celta
+Sat Sep 23 2023,Almeria,2-2,0-1,Valencia
+Sun Sep 24 2023,Sociedad,4-3,1-2,Getafe
+Sun Sep 24 2023,Vallecano,1-1,1-1,Villarreal
+Sun Sep 24 2023,Betis,1-1,0-1,Cadiz
+Sun Sep 24 2023,Las Palmas,1-0,0-0,Granada
+Sun Sep 24 2023,Ath Madrid,3-1,2-1,Real Madrid
+Tue Sep 26 2023,Sevilla,5-1,3-0,Almeria
+Tue Sep 26 2023,Mallorca,2-2,2-1,Barcelona
+Wed Sep 27 2023,Ath Bilbao,2-2,1-0,Getafe
+Wed Sep 27 2023,Real Madrid,2-0,1-0,Las Palmas
+Wed Sep 27 2023,Villarreal,1-2,0-0,Girona
+Wed Sep 27 2023,Cadiz,0-0,0-0,Vallecano
+Wed Sep 27 2023,Valencia,0-1,0-1,Sociedad
+Thu Sep 28 2023,Celta,1-1,1-0,Alaves
+Thu Sep 28 2023,Granada,1-1,0-0,Betis
+Thu Sep 28 2023,Osasuna,0-2,0-1,Ath Madrid
+Fri Sep 29 2023,Barcelona,1-0,0-0,Sevilla
+Sat Sep 30 2023,Getafe,0-0,0-0,Villarreal
+Sat Sep 30 2023,Vallecano,2-2,1-1,Mallorca
+Sat Sep 30 2023,Girona,0-3,0-2,Real Madrid
+Sat Sep 30 2023,Sociedad,3-0,1-0,Ath Bilbao
+Sun Oct 1 2023,Almeria,3-3,3-0,Granada
+Sun Oct 1 2023,Alaves,0-2,0-1,Osasuna
+Sun Oct 1 2023,Ath Madrid,3-2,1-2,Cadiz
+Sun Oct 1 2023,Betis,3-0,1-0,Valencia
+Mon Oct 2 2023,Las Palmas,2-1,0-0,Celta
+Fri Oct 6 2023,Ath Bilbao,3-0,1-0,Almeria
+Sat Oct 7 2023,Cadiz,0-1,0-0,Girona
+Sat Oct 7 2023,Real Madrid,4-0,1-0,Osasuna
+Sat Oct 7 2023,Mallorca,1-1,1-1,Valencia
+Sat Oct 7 2023,Sevilla,2-2,0-2,Vallecano
+Sun Oct 8 2023,Villarreal,1-2,0-1,Las Palmas
+Sun Oct 8 2023,Ath Madrid,2-1,1-0,Sociedad
+Sun Oct 8 2023,Alaves,1-1,1-1,Betis
+Sun Oct 8 2023,Celta,2-2,2-2,Getafe
+Sun Oct 8 2023,Granada,2-2,2-1,Barcelona
+Fri Oct 20 2023,Osasuna,2-0,1-0,Granada
+Sat Oct 21 2023,Sociedad,1-0,0-0,Mallorca
+Sat Oct 21 2023,Getafe,1-1,1-1,Betis
+Sat Oct 21 2023,Sevilla,1-1,0-0,Real Madrid
+Sat Oct 21 2023,Celta,0-3,0-1,Ath Madrid
+Sun Oct 22 2023,Las Palmas,0-1,0-0,Vallecano
+Sun Oct 22 2023,Girona,5-2,3-2,Almeria
+Sun Oct 22 2023,Villarreal,1-1,0-0,Alaves
+Sun Oct 22 2023,Barcelona,1-0,0-0,Ath Bilbao
+Mon Oct 23 2023,Valencia,2-0,2-0,Cadiz
+Fri Oct 27 2023,Girona,1-0,0-0,Celta
+Sat Oct 28 2023,Almeria,1-2,0-1,Las Palmas
+Sat Oct 28 2023,Barcelona,1-2,1-0,Real Madrid
+Sat Oct 28 2023,Mallorca,0-0,0-0,Getafe
+Sat Oct 28 2023,Cadiz,2-2,2-1,Sevilla
+Sun Oct 29 2023,Betis,2-1,1-0,Osasuna
+Sun Oct 29 2023,Vallecano,2-2,1-1,Sociedad
+Sun Oct 29 2023,Ath Bilbao,2-2,1-0,Valencia
+Sun Oct 29 2023,Ath Madrid,2-1,2-0,Alaves
+Mon Oct 30 2023,Granada,2-3,2-3,Villarreal
+Fri Nov 3 2023,Las Palmas,2-1,0-0,Ath Madrid
+Sat Nov 4 2023,Osasuna,2-4,1-1,Girona
+Sat Nov 4 2023,Betis,2-0,1-0,Mallorca
+Sat Nov 4 2023,Celta,1-1,1-0,Sevilla
+Sat Nov 4 2023,Sociedad,0-1,0-0,Barcelona
+Sun Nov 5 2023,Alaves,1-0,0-0,Almeria
+Sun Nov 5 2023,Valencia,1-0,1-0,Granada
+Sun Nov 5 2023,Villarreal,2-3,0-3,Ath Bilbao
+Sun Nov 5 2023,Real Madrid,0-0,0-0,Vallecano
+Mon Nov 6 2023,Getafe,1-0,0-0,Cadiz
+Fri Nov 10 2023,Ath Bilbao,4-3,2-2,Celta
+Sat Nov 11 2023,Vallecano,1-2,1-1,Girona
+Sat Nov 11 2023,Almeria,1-3,0-0,Sociedad
+Sat Nov 11 2023,Granada,1-1,1-1,Getafe
+Sat Nov 11 2023,Osasuna,1-1,0-0,Las Palmas
+Sat Nov 11 2023,Real Madrid,5-1,2-0,Valencia
+Sun Nov 12 2023,Barcelona,2-1,0-1,Alaves
+Sun Nov 12 2023,Sevilla,1-1,0-0,Betis
+Sun Nov 12 2023,Ath Madrid,3-1,1-1,Villarreal
+Fri Nov 24 2023,Alaves,3-1,2-0,Granada
+Sat Nov 25 2023,Vallecano,1-1,1-0,Barcelona
+Sat Nov 25 2023,Valencia,0-0,0-0,Celta
+Sat Nov 25 2023,Getafe,2-1,2-1,Almeria
+Sat Nov 25 2023,Ath Madrid,1-0,0-0,Mallorca
+Sun Nov 26 2023,Villarreal,3-1,0-0,Osasuna
+Sun Nov 26 2023,Sociedad,2-1,2-0,Sevilla
+Sun Nov 26 2023,Cadiz,0-3,0-1,Real Madrid
+Sun Nov 26 2023,Betis,1-0,1-0,Las Palmas
+Mon Nov 27 2023,Girona,1-1,0-0,Ath Bilbao
+Wed Nov 29 2023,Mallorca,1-1,1-1,Cadiz
+Fri Dec 1 2023,Las Palmas,2-0,1-0,Getafe
+Sat Dec 2 2023,Girona,2-1,0-0,Valencia
+Sat Dec 2 2023,Ath Bilbao,4-0,1-0,Vallecano
+Sat Dec 2 2023,Real Madrid,2-0,1-0,Granada
+Sat Dec 2 2023,Osasuna,1-1,1-1,Sociedad
+Sun Dec 3 2023,Mallorca,0-0,0-0,Alaves
+Sun Dec 3 2023,Almeria,0-0,0-0,Betis
+Sun Dec 3 2023,Sevilla,1-1,0-0,Villarreal
+Sun Dec 3 2023,Barcelona,1-0,1-0,Ath Madrid
+Mon Dec 4 2023,Celta,1-1,0-1,Cadiz
+Fri Dec 8 2023,Getafe,1-0,0-0,Valencia
+Sat Dec 9 2023,Alaves,0-1,0-1,Las Palmas
+Sat Dec 9 2023,Betis,1-1,0-0,Real Madrid
+Sat Dec 9 2023,Villarreal,0-3,0-3,Sociedad
+Sat Dec 9 2023,Mallorca,1-0,1-0,Sevilla
+Sun Dec 10 2023,Ath Madrid,2-1,2-0,Almeria
+Sun Dec 10 2023,Cadiz,1-1,1-0,Osasuna
+Sun Dec 10 2023,Barcelona,2-4,1-2,Girona
+Mon Dec 11 2023,Granada,1-1,0-1,Ath Bilbao
+Mon Dec 11 2023,Vallecano,0-0,0-0,Celta
+Fri Dec 15 2023,Osasuna,1-0,0-0,Vallecano
+Sat Dec 16 2023,Celta,1-0,1-0,Granada
+Sat Dec 16 2023,Ath Bilbao,2-0,0-0,Ath Madrid
+Sat Dec 16 2023,Sevilla,0-3,0-2,Getafe
+Sat Dec 16 2023,Valencia,1-1,0-0,Barcelona
+Sun Dec 17 2023,Almeria,0-0,0-0,Mallorca
+Sun Dec 17 2023,Sociedad,0-0,0-0,Betis
+Sun Dec 17 2023,Las Palmas,1-1,1-0,Cadiz
+Sun Dec 17 2023,Real Madrid,4-1,2-0,Villarreal
+Mon Dec 18 2023,Girona,3-0,2-0,Alaves
+Tue Dec 19 2023,Vallecano,0-1,0-0,Valencia
+Tue Dec 19 2023,Ath Madrid,3-3,1-0,Getafe
+Tue Dec 19 2023,Granada,0-3,0-2,Sevilla
+Wed Dec 20 2023,Barcelona,3-2,1-1,Almeria
+Wed Dec 20 2023,Ath Bilbao,1-0,0-0,Las Palmas
+Wed Dec 20 2023,Villarreal,3-2,2-0,Celta
+Thu Dec 21 2023,Betis,1-1,0-1,Girona
+Thu Dec 21 2023,Cadiz,0-0,0-0,Sociedad
+Thu Dec 21 2023,Alaves,0-1,0-0,Real Madrid
+Thu Dec 21 2023,Mallorca,3-2,1-1,Osasuna
+Sat Dec 23 2023,Ath Madrid,1-0,0-0,Sevilla
+Tue Jan 2 2024,Getafe,0-2,0-1,Vallecano
+Tue Jan 2 2024,Sociedad,1-1,0-0,Alaves
+Tue Jan 2 2024,Valencia,3-1,2-0,Villarreal
+Wed Jan 3 2024,Granada,2-0,1-0,Cadiz
+Wed Jan 3 2024,Celta,2-1,1-1,Betis
+Wed Jan 3 2024,Real Madrid,1-0,0-0,Mallorca
+Wed Jan 3 2024,Girona,4-3,3-2,Ath Madrid
+Thu Jan 4 2024,Osasuna,1-0,1-0,Almeria
+Thu Jan 4 2024,Sevilla,0-2,0-1,Ath Bilbao
+Thu Jan 4 2024,Las Palmas,1-2,1-0,Barcelona
+Fri Jan 12 2024,Sevilla,2-3,0-2,Alaves
+Sat Jan 13 2024,Las Palmas,3-0,1-0,Villarreal
+Sat Jan 13 2024,Mallorca,1-1,1-1,Celta
+Sat Jan 13 2024,Ath Bilbao,2-1,2-0,Sociedad
+Sat Jan 13 2024,Betis,1-0,0-0,Granada
+Sun Jan 14 2024,Almeria,0-0,0-0,Girona
+Sun Jan 14 2024,Cadiz,1-4,1-1,Valencia
+Fri Jan 19 2024,Alaves,1-0,0-0,Cadiz
+Sat Jan 20 2024,Vallecano,0-2,0-1,Las Palmas
+Sat Jan 20 2024,Villarreal,1-1,1-0,Mallorca
+Sat Jan 20 2024,Valencia,1-0,0-0,Ath Bilbao
+Sat Jan 20 2024,Celta,0-1,0-1,Sociedad
+Sun Jan 21 2024,Osasuna,3-2,2-0,Getafe
+Sun Jan 21 2024,Real Madrid,3-2,0-2,Almeria
+Sun Jan 21 2024,Betis,2-4,0-1,Barcelona
+Sun Jan 21 2024,Girona,5-1,3-1,Sevilla
+Mon Jan 22 2024,Granada,0-1,0-0,Ath Madrid
+Fri Jan 26 2024,Almeria,0-3,0-1,Alaves
+Sat Jan 27 2024,Sociedad,0-0,0-0,Vallecano
+Sat Jan 27 2024,Las Palmas,1-2,0-0,Real Madrid
+Sat Jan 27 2024,Barcelona,3-5,0-1,Villarreal
+Sat Jan 27 2024,Mallorca,0-1,0-1,Betis
+Sun Jan 28 2024,Celta,0-1,0-1,Girona
+Sun Jan 28 2024,Cadiz,0-0,0-0,Ath Bilbao
+Sun Jan 28 2024,Sevilla,1-1,1-0,Osasuna
+Sun Jan 28 2024,Ath Madrid,2-0,1-0,Valencia
+Mon Jan 29 2024,Getafe,2-0,2-0,Granada
+Wed Jan 31 2024,Barcelona,1-0,0-0,Osasuna
+Wed Jan 31 2024,Ath Madrid,2-1,1-1,Vallecano
+Thu Feb 1 2024,Getafe,0-2,0-1,Real Madrid
+Fri Feb 2 2024,Ath Bilbao,4-0,2-0,Mallorca
+Sat Feb 3 2024,Valencia,2-1,2-0,Almeria
+Sat Feb 3 2024,Granada,1-1,1-0,Las Palmas
+Sat Feb 3 2024,Alaves,1-3,0-1,Barcelona
+Sat Feb 3 2024,Girona,0-0,0-0,Sociedad
+Sun Feb 4 2024,Villarreal,0-0,0-0,Cadiz
+Sun Feb 4 2024,Osasuna,0-3,0-2,Celta
+Sun Feb 4 2024,Betis,1-1,1-1,Getafe
+Sun Feb 4 2024,Real Madrid,1-1,1-0,Ath Madrid
+Mon Feb 5 2024,Vallecano,1-2,1-2,Sevilla
+Fri Feb 9 2024,Cadiz,0-2,0-1,Betis
+Sat Feb 10 2024,Alaves,1-1,1-1,Villarreal
+Sat Feb 10 2024,Sociedad,0-1,0-0,Osasuna
+Sat Feb 10 2024,Real Madrid,4-0,2-0,Girona
+Sat Feb 10 2024,Las Palmas,2-0,0-0,Valencia
+Sun Feb 11 2024,Getafe,3-2,2-0,Celta
+Sun Feb 11 2024,Mallorca,2-1,0-0,Vallecano
+Sun Feb 11 2024,Sevilla,1-0,1-0,Ath Madrid
+Sun Feb 11 2024,Barcelona,3-3,1-1,Granada
+Mon Feb 12 2024,Almeria,0-0,0-0,Ath Bilbao
+Fri Feb 16 2024,Villarreal,1-1,0-1,Getafe
+Sat Feb 17 2024,Ath Madrid,5-0,2-0,Las Palmas
+Sat Feb 17 2024,Osasuna,2-0,0-0,Cadiz
+Sat Feb 17 2024,Celta,1-2,0-1,Barcelona
+Sat Feb 17 2024,Valencia,0-0,0-0,Sevilla
+Sun Feb 18 2024,Vallecano,1-1,1-1,Real Madrid
+Sun Feb 18 2024,Granada,1-1,0-1,Almeria
+Sun Feb 18 2024,Mallorca,1-2,1-1,Sociedad
+Sun Feb 18 2024,Betis,0-0,0-0,Alaves
+Mon Feb 19 2024,Ath Bilbao,3-2,1-0,Girona
+Fri Feb 23 2024,Sociedad,1-3,0-1,Villarreal
+Sat Feb 24 2024,Barcelona,4-0,1-0,Getafe
+Sat Feb 24 2024,Alaves,1-1,0-0,Mallorca
+Sat Feb 24 2024,Almeria,2-2,1-1,Ath Madrid
+Sun Feb 25 2024,Cadiz,2-2,0-1,Celta
+Sun Feb 25 2024,Betis,3-1,2-1,Ath Bilbao
+Sun Feb 25 2024,Las Palmas,1-1,0-0,Osasuna
+Sun Feb 25 2024,Real Madrid,1-0,0-0,Sevilla
+Mon Feb 26 2024,Girona,3-0,0-0,Vallecano
+Fri Mar 1 2024,Celta,1-0,0-0,Almeria
+Sat Mar 2 2024,Sevilla,3-2,2-1,Sociedad
+Sat Mar 2 2024,Vallecano,1-1,0-0,Cadiz
+Sat Mar 2 2024,Getafe,3-3,3-1,Las Palmas
+Sat Mar 2 2024,Valencia,2-2,2-1,Real Madrid
+Sun Mar 3 2024,Villarreal,5-1,3-0,Granada
+Sun Mar 3 2024,Ath Madrid,2-1,2-0,Betis
+Sun Mar 3 2024,Mallorca,1-0,1-0,Girona
+Sun Mar 3 2024,Ath Bilbao,0-0,0-0,Barcelona
+Mon Mar 4 2024,Osasuna,1-0,0-0,Alaves
+Fri Mar 8 2024,Barcelona,1-0,0-0,Mallorca
+Sat Mar 9 2024,Valencia,1-0,1-0,Getafe
+Sat Mar 9 2024,Cadiz,2-0,1-0,Ath Madrid
+Sat Mar 9 2024,Granada,2-3,2-1,Sociedad
+Sat Mar 9 2024,Girona,2-0,1-0,Osasuna
+Sun Mar 10 2024,Alaves,1-0,1-0,Vallecano
+Sun Mar 10 2024,Las Palmas,0-2,0-1,Ath Bilbao
+Sun Mar 10 2024,Real Madrid,4-0,1-0,Celta
+Sun Mar 10 2024,Betis,2-3,2-1,Villarreal
+Mon Mar 11 2024,Almeria,2-2,1-0,Sevilla
+Fri Mar 15 2024,Sociedad,2-0,1-0,Cadiz
+Sat Mar 16 2024,Mallorca,1-0,0-0,Granada
+Sat Mar 16 2024,Osasuna,2-4,1-2,Real Madrid
+Sat Mar 16 2024,Getafe,1-0,1-0,Girona
+Sat Mar 16 2024,Ath Bilbao,2-0,2-0,Alaves
+Sun Mar 17 2024,Sevilla,1-2,1-0,Celta
+Sun Mar 17 2024,Las Palmas,0-1,0-1,Almeria
+Sun Mar 17 2024,Villarreal,1-0,0-0,Valencia
+Sun Mar 17 2024,Vallecano,2-0,1-0,Betis
+Sun Mar 17 2024,Ath Madrid,0-3,0-1,Barcelona
+Fri Mar 29 2024,Cadiz,1-0,0-0,Granada
+Sat Mar 30 2024,Getafe,0-1,0-1,Sevilla
+Sat Mar 30 2024,Almeria,0-3,0-2,Osasuna
+Sat Mar 30 2024,Valencia,0-0,0-0,Mallorca
+Sat Mar 30 2024,Barcelona,1-0,0-0,Las Palmas
+Sun Mar 31 2024,Celta,0-0,0-0,Vallecano
+Sun Mar 31 2024,Girona,3-2,1-1,Betis
+Sun Mar 31 2024,Alaves,0-1,0-0,Sociedad
+Sun Mar 31 2024,Real Madrid,2-0,1-0,Ath Bilbao
+Mon Apr 1 2024,Villarreal,1-2,0-1,Ath Madrid
+Thu Apr 4 2024,Granada,0-1,0-0,Valencia
+Fri Apr 12 2024,Betis,2-1,0-0,Celta
+Sat Apr 13 2024,Ath Madrid,3-1,2-1,Girona
+Sat Apr 13 2024,Vallecano,0-0,0-0,Getafe
+Sat Apr 13 2024,Mallorca,0-1,0-0,Real Madrid
+Sat Apr 13 2024,Cadiz,0-1,0-1,Barcelona
+Sun Apr 14 2024,Las Palmas,0-2,0-1,Sevilla
+Sun Apr 14 2024,Granada,2-0,2-0,Alaves
+Sun Apr 14 2024,Ath Bilbao,1-1,0-0,Villarreal
+Sun Apr 14 2024,Sociedad,2-2,1-1,Almeria
+Mon Apr 15 2024,Osasuna,0-1,0-1,Valencia
+Fri Apr 19 2024,Ath Bilbao,1-1,1-1,Granada
+Sat Apr 20 2024,Celta,4-1,2-1,Las Palmas
+Sat Apr 20 2024,Vallecano,2-1,0-1,Osasuna
+Sat Apr 20 2024,Valencia,1-2,0-1,Betis
+Sat Apr 20 2024,Girona,4-1,2-0,Cadiz
+Sun Apr 21 2024,Getafe,1-1,1-1,Sociedad
+Sun Apr 21 2024,Almeria,1-2,1-1,Villarreal
+Sun Apr 21 2024,Alaves,2-0,1-0,Ath Madrid
+Sun Apr 21 2024,Real Madrid,3-2,1-1,Barcelona
+Mon Apr 22 2024,Sevilla,2-1,0-0,Mallorca
+Fri Apr 26 2024,Sociedad,0-1,0-1,Real Madrid
+Sat Apr 27 2024,Las Palmas,0-2,0-1,Girona
+Sat Apr 27 2024,Almeria,1-3,1-1,Getafe
+Sat Apr 27 2024,Alaves,3-0,0-0,Celta
+Sat Apr 27 2024,Ath Madrid,3-1,1-1,Ath Bilbao
+Sun Apr 28 2024,Cadiz,1-1,0-1,Mallorca
+Sun Apr 28 2024,Granada,3-0,1-0,Osasuna
+Sun Apr 28 2024,Villarreal,3-0,1-0,Vallecano
+Sun Apr 28 2024,Betis,1-1,1-0,Sevilla
+Mon Apr 29 2024,Barcelona,4-2,1-2,Valencia
+Fri May 3 2024,Getafe,0-2,0-1,Ath Bilbao
+Sat May 4 2024,Sociedad,2-0,2-0,Las Palmas
+Sat May 4 2024,Real Madrid,3-0,0-0,Cadiz
+Sat May 4 2024,Girona,4-2,1-2,Barcelona
+Sat May 4 2024,Mallorca,0-1,0-1,Ath Madrid
+Sun May 5 2024,Osasuna,0-2,0-2,Betis
+Sun May 5 2024,Celta,3-2,2-1,Villarreal
+Sun May 5 2024,Valencia,0-1,0-0,Alaves
+Sun May 5 2024,Sevilla,3-0,1-0,Granada
+Sun May 5 2024,Vallecano,0-1,0-1,Almeria
+Fri May 10 2024,Alaves,2-2,1-2,Girona
+Sat May 11 2024,Mallorca,1-0,1-0,Las Palmas
+Sat May 11 2024,Villarreal,3-2,1-2,Sevilla
+Sat May 11 2024,Granada,0-4,0-2,Real Madrid
+Sat May 11 2024,Ath Bilbao,2-2,0-1,Osasuna
+Sun May 12 2024,Cadiz,1-0,1-0,Getafe
+Sun May 12 2024,Ath Madrid,1-0,0-0,Celta
+Sun May 12 2024,Valencia,0-0,0-0,Vallecano
+Sun May 12 2024,Betis,3-2,2-1,Almeria
+Mon May 13 2024,Barcelona,2-0,1-0,Sociedad
+Tue May 14 2024,Osasuna,1-1,1-0,Mallorca
+Tue May 14 2024,Real Madrid,5-0,3-0,Alaves
+Tue May 14 2024,Girona,0-1,0-0,Villarreal
+Wed May 15 2024,Sevilla,0-1,0-0,Cadiz
+Wed May 15 2024,Vallecano,2-1,1-0,Granada
+Wed May 15 2024,Celta,2-1,0-1,Ath Bilbao
+Wed May 15 2024,Getafe,0-3,0-2,Ath Madrid
+Thu May 16 2024,Las Palmas,2-2,1-1,Betis
+Thu May 16 2024,Almeria,0-2,0-1,Barcelona
+Thu May 16 2024,Sociedad,1-0,1-0,Valencia
+Sat May 18 2024,Alaves,1-0,1-0,Getafe
+Sun May 19 2024,Ath Bilbao,2-0,2-0,Sevilla
+Sun May 19 2024,Ath Madrid,1-4,0-1,Osasuna
+Sun May 19 2024,Barcelona,3-0,1-0,Vallecano
+Sun May 19 2024,Betis,0-2,0-2,Sociedad
+Sun May 19 2024,Cadiz,0-0,0-0,Las Palmas
+Sun May 19 2024,Granada,1-2,0-0,Celta
+Sun May 19 2024,Mallorca,2-2,1-1,Almeria
+Sun May 19 2024,Valencia,1-3,0-1,Girona
+Sun May 19 2024,Villarreal,4-4,1-4,Real Madrid
+Fri May 24 2024,Girona,7-0,3-0,Granada
+Sat May 25 2024,Osasuna,1-1,1-0,Villarreal
+Sat May 25 2024,Sociedad,0-2,0-1,Ath Madrid
+Sat May 25 2024,Almeria,6-1,0-1,Cadiz
+Sat May 25 2024,Vallecano,0-1,0-0,Ath Bilbao
+Sat May 25 2024,Real Madrid,0-0,0-0,Betis
+Sun May 26 2024,Getafe,1-2,0-0,Mallorca
+Sun May 26 2024,Celta,2-2,0-1,Valencia
+Sun May 26 2024,Las Palmas,1-1,0-0,Alaves
+Sun May 26 2024,Sevilla,1-2,1-1,Barcelona

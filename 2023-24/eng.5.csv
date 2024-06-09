@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 5 2023,Aldershot,5-2,3-1,Oxford City
+Sat Aug 5 2023,Altrincham,1-1,0-0,Dag and Red
+Sat Aug 5 2023,Barnet,3-2,1-0,Hartlepool
+Sat Aug 5 2023,Chesterfield,4-3,1-1,Dorking
+Sat Aug 5 2023,Gateshead,2-2,2-0,Boreham Wood
+Sat Aug 5 2023,Halifax,2-0,0-0,Bromley
+Sat Aug 5 2023,Kidderminster,0-0,0-0,Woking
+Sat Aug 5 2023,Maidenhead,2-2,2-1,Fylde
+Sat Aug 5 2023,Solihull,1-1,0-0,Eastleigh
+Sat Aug 5 2023,Southend,4-0,1-0,Oldham
+Sat Aug 5 2023,Wealdstone,2-1,0-1,York
+Sat Aug 5 2023,Rochdale,0-1,0-1,Ebbsfleet
+Sat Aug 12 2023,Boreham Wood,2-0,0-0,Halifax
+Sat Aug 12 2023,Dag and Red,0-2,0-1,Southend
+Sat Aug 12 2023,Dorking,0-2,0-0,Maidenhead
+Sat Aug 12 2023,Eastleigh,0-0,0-0,Wealdstone
+Sat Aug 12 2023,Ebbsfleet,1-2,0-1,Solihull
+Sat Aug 12 2023,Fylde,2-4,0-3,Chesterfield
+Sat Aug 12 2023,Hartlepool,2-1,1-0,Gateshead
+Sat Aug 12 2023,Oldham,5-1,3-0,Aldershot
+Sat Aug 12 2023,Oxford City,0-1,0-0,Rochdale
+Sat Aug 12 2023,Woking,2-3,2-2,Altrincham
+Sat Aug 12 2023,York,0-1,0-0,Kidderminster
+Sat Aug 12 2023,Bromley,0-2,0-1,Barnet
+Tue Aug 15 2023,Bromley,1-1,0-1,Wealdstone
+Tue Aug 15 2023,Dag and Red,2-4,0-1,Gateshead
+Tue Aug 15 2023,Dorking,2-1,1-1,Southend
+Tue Aug 15 2023,Eastleigh,3-3,1-3,Barnet
+Tue Aug 15 2023,Ebbsfleet,2-0,1-0,Aldershot
+Tue Aug 15 2023,Fylde,2-1,0-0,Kidderminster
+Tue Aug 15 2023,Hartlepool,3-1,0-0,Maidenhead
+Tue Aug 15 2023,Oldham,1-2,1-1,Halifax
+Tue Aug 15 2023,Oxford City,1-2,0-1,Chesterfield
+Tue Aug 15 2023,Woking,3-2,0-1,Rochdale
+Tue Aug 15 2023,York,2-2,2-1,Altrincham
+Wed Aug 16 2023,Boreham Wood,1-2,0-1,Solihull
+Sat Aug 19 2023,Chesterfield,1-1,0-0,Oldham
+Sat Aug 19 2023,Aldershot,1-1,1-0,York
+Sat Aug 19 2023,Altrincham,1-1,1-0,Boreham Wood
+Sat Aug 19 2023,Barnet,2-0,1-0,Woking
+Sat Aug 19 2023,Gateshead,4-1,1-1,Ebbsfleet
+Sat Aug 19 2023,Halifax,1-1,1-0,Oxford City
+Sat Aug 19 2023,Kidderminster,0-0,0-0,Bromley
+Sat Aug 19 2023,Maidenhead,1-0,0-0,Dag and Red
+Sat Aug 19 2023,Rochdale,2-0,2-0,Eastleigh
+Sat Aug 19 2023,Solihull,3-0,2-0,Dorking
+Sat Aug 19 2023,Southend,2-3,1-1,Hartlepool
+Sat Aug 19 2023,Wealdstone,3-2,1-1,Fylde
+Fri Aug 25 2023,Rochdale,2-2,1-1,Bromley
+Fri Aug 25 2023,Solihull,1-1,1-0,Halifax
+Fri Aug 25 2023,Southend,2-0,2-0,Eastleigh
+Sat Aug 26 2023,Aldershot,3-1,1-0,Wealdstone
+Sat Aug 26 2023,Altrincham,2-1,0-1,Chesterfield
+Sat Aug 26 2023,Boreham Wood,0-0,0-0,Oldham
+Sat Aug 26 2023,Dag and Red,1-0,0-0,Barnet
+Sat Aug 26 2023,Dorking,2-2,1-0,York
+Sat Aug 26 2023,Ebbsfleet,3-0,3-0,Kidderminster
+Sat Aug 26 2023,Gateshead,1-3,1-0,Woking
+Sat Aug 26 2023,Maidenhead,0-0,0-0,Oxford City
+Sat Aug 26 2023,Hartlepool,3-1,2-1,Fylde
+Mon Aug 28 2023,Barnet,3-2,1-1,Ebbsfleet
+Mon Aug 28 2023,Bromley,2-1,1-0,Southend
+Mon Aug 28 2023,Chesterfield,3-2,1-2,Hartlepool
+Mon Aug 28 2023,Eastleigh,3-0,1-0,Aldershot
+Mon Aug 28 2023,Fylde,3-3,0-2,Altrincham
+Mon Aug 28 2023,Halifax,0-0,0-0,Gateshead
+Mon Aug 28 2023,Kidderminster,0-0,0-0,Maidenhead
+Mon Aug 28 2023,Oldham,0-2,0-0,Solihull
+Mon Aug 28 2023,Oxford City,4-0,0-0,Boreham Wood
+Mon Aug 28 2023,Wealdstone,0-2,0-0,Dag and Red
+Mon Aug 28 2023,Woking,2-0,1-0,Dorking
+Mon Aug 28 2023,York,1-3,1-1,Rochdale
+Sat Sep 2 2023,Aldershot,3-4,1-1,Chesterfield
+Sat Sep 2 2023,Altrincham,1-2,1-1,Bromley
+Sat Sep 2 2023,Boreham Wood,0-1,0-0,Barnet
+Sat Sep 2 2023,Dag and Red,3-1,2-1,Fylde
+Sat Sep 2 2023,Dorking,0-0,0-0,Eastleigh
+Sat Sep 2 2023,Ebbsfleet,4-1,2-1,York
+Sat Sep 2 2023,Hartlepool,2-1,1-0,Wealdstone
+Sat Sep 2 2023,Maidenhead,0-0,0-0,Woking
+Sat Sep 2 2023,Rochdale,0-1,0-1,Halifax
+Sat Sep 2 2023,Solihull,3-3,2-1,Oxford City
+Sat Sep 2 2023,Southend,2-1,0-0,Kidderminster
+Sat Sep 2 2023,Gateshead,2-2,0-1,Oldham
+Sat Sep 9 2023,Halifax,1-1,0-0,Southend
+Sat Sep 9 2023,Barnet,3-0,1-0,Altrincham
+Sat Sep 9 2023,Bromley,4-1,3-0,Maidenhead
+Sat Sep 9 2023,Chesterfield,3-1,0-1,Dag and Red
+Sat Sep 9 2023,Eastleigh,0-6,0-4,Gateshead
+Sat Sep 9 2023,Fylde,0-2,0-0,Aldershot
+Sat Sep 9 2023,Kidderminster,1-1,1-0,Rochdale
+Sat Sep 9 2023,Oldham,0-0,0-0,Dorking
+Sat Sep 9 2023,Oxford City,5-2,1-2,Hartlepool
+Sat Sep 9 2023,Wealdstone,2-1,0-0,Ebbsfleet
+Sat Sep 9 2023,Woking,1-1,0-1,Solihull
+Sat Sep 9 2023,York,2-2,1-0,Boreham Wood
+Sat Sep 16 2023,Aldershot,1-1,0-0,Gateshead
+Sat Sep 16 2023,Bromley,3-0,2-0,Oldham
+Sat Sep 16 2023,Ebbsfleet,0-1,0-0,Chesterfield
+Sat Sep 16 2023,Fylde,1-2,0-1,Eastleigh
+Sat Sep 16 2023,Halifax,0-1,0-1,Dorking
+Sat Sep 16 2023,Hartlepool,0-2,0-0,Woking
+Sat Sep 16 2023,Maidenhead,0-1,0-0,Boreham Wood
+Sat Sep 16 2023,Oxford City,0-0,0-0,Dag and Red
+Sat Sep 16 2023,Rochdale,4-2,2-1,Barnet
+Sat Sep 16 2023,Wealdstone,0-0,0-0,Altrincham
+Sat Sep 16 2023,York,3-0,1-0,Southend
+Sat Sep 16 2023,Kidderminster,0-1,0-1,Solihull
+Tue Sep 19 2023,Altrincham,2-2,2-1,Hartlepool
+Tue Sep 19 2023,Barnet,2-1,1-0,Aldershot
+Tue Sep 19 2023,Boreham Wood,1-1,0-0,Rochdale
+Tue Sep 19 2023,Chesterfield,3-2,2-1,Halifax
+Tue Sep 19 2023,Dag and Red,0-1,0-0,Bromley
+Tue Sep 19 2023,Dorking,3-1,3-0,Wealdstone
+Tue Sep 19 2023,Eastleigh,2-2,1-0,Oxford City
+Tue Sep 19 2023,Gateshead,3-0,2-0,Kidderminster
+Tue Sep 19 2023,Oldham,2-0,1-0,York
+Tue Sep 19 2023,Solihull,2-1,2-1,Fylde
+Tue Sep 19 2023,Southend,2-0,0-0,Maidenhead
+Tue Sep 19 2023,Woking,1-1,1-0,Ebbsfleet
+Sat Sep 23 2023,Woking,1-2,0-1,York
+Sat Sep 23 2023,Altrincham,6-1,4-1,Ebbsfleet
+Sat Sep 23 2023,Barnet,0-0,0-0,Halifax
+Sat Sep 23 2023,Boreham Wood,1-2,0-1,Aldershot
+Sat Sep 23 2023,Chesterfield,3-2,0-1,Wealdstone
+Sat Sep 23 2023,Dag and Red,0-1,0-1,Hartlepool
+Sat Sep 23 2023,Dorking,1-2,0-0,Rochdale
+Sat Sep 23 2023,Eastleigh,2-1,2-1,Kidderminster
+Sat Sep 23 2023,Gateshead,3-0,0-0,Maidenhead
+Sat Sep 23 2023,Oldham,4-0,2-0,Oxford City
+Sat Sep 23 2023,Solihull,1-1,0-0,Bromley
+Sat Sep 23 2023,Southend,1-2,0-1,Fylde
+Tue Sep 26 2023,Aldershot,1-1,1-0,Southend
+Tue Sep 26 2023,Bromley,1-0,1-0,Eastleigh
+Tue Sep 26 2023,Ebbsfleet,0-1,0-0,Dorking
+Tue Sep 26 2023,Fylde,2-2,1-1,Boreham Wood
+Tue Sep 26 2023,Halifax,0-0,0-0,Dag and Red
+Tue Sep 26 2023,Hartlepool,0-2,0-2,Solihull
+Tue Sep 26 2023,Kidderminster,1-2,0-1,Oldham
+Tue Sep 26 2023,Maidenhead,0-1,0-0,Altrincham
+Tue Sep 26 2023,Oxford City,0-4,0-1,Gateshead
+Tue Sep 26 2023,Wealdstone,1-0,1-0,Woking
+Tue Sep 26 2023,York,2-4,1-1,Barnet
+Tue Sep 26 2023,Rochdale,1-2,1-2,Chesterfield
+Sat Sep 30 2023,Aldershot,3-2,1-1,Dag and Red
+Sat Sep 30 2023,Bromley,3-1,0-0,Gateshead
+Sat Sep 30 2023,Ebbsfleet,3-1,2-1,Boreham Wood
+Sat Sep 30 2023,Fylde,0-2,0-1,Woking
+Sat Sep 30 2023,Halifax,2-3,0-1,Eastleigh
+Sat Sep 30 2023,Hartlepool,0-2,0-0,Dorking
+Sat Sep 30 2023,Kidderminster,1-2,0-2,Barnet
+Sat Sep 30 2023,Maidenhead,1-1,1-0,Chesterfield
+Sat Sep 30 2023,Rochdale,2-2,2-1,Southend
+Sat Sep 30 2023,Wealdstone,1-1,1-1,Oldham
+Sat Sep 30 2023,York,2-2,1-0,Solihull
+Sat Sep 30 2023,Oxford City,1-2,0-1,Altrincham
+Tue Oct 3 2023,Altrincham,2-1,1-0,Aldershot
+Tue Oct 3 2023,Barnet,2-1,0-1,Fylde
+Tue Oct 3 2023,Chesterfield,2-0,0-0,Bromley
+Tue Oct 3 2023,Dag and Red,1-2,0-0,York
+Tue Oct 3 2023,Dorking,0-1,0-1,Kidderminster
+Tue Oct 3 2023,Eastleigh,5-2,2-1,Ebbsfleet
+Tue Oct 3 2023,Gateshead,2-1,0-0,Wealdstone
+Tue Oct 3 2023,Oldham,1-1,1-0,Maidenhead
+Tue Oct 3 2023,Solihull,2-0,0-0,Rochdale
+Tue Oct 3 2023,Southend,2-0,2-0,Oxford City
+Tue Oct 3 2023,Woking,1-2,1-0,Halifax
+Wed Oct 4 2023,Boreham Wood,1-0,0-0,Hartlepool
+Sat Oct 7 2023,Boreham Wood,0-2,0-1,Chesterfield
+Sat Oct 7 2023,Ebbsfleet,0-2,0-1,Halifax
+Sat Oct 7 2023,Gateshead,0-2,0-0,Altrincham
+Sat Oct 7 2023,Hartlepool,3-1,1-1,Eastleigh
+Sat Oct 7 2023,Kidderminster,1-0,0-0,Wealdstone
+Sat Oct 7 2023,Maidenhead,2-2,0-1,Rochdale
+Sat Oct 7 2023,Oldham,1-1,1-0,Dag and Red
+Sat Oct 7 2023,Oxford City,3-0,1-0,Fylde
+Sat Oct 7 2023,Solihull,0-1,0-0,Aldershot
+Sat Oct 7 2023,Woking,0-2,0-1,Southend
+Sat Oct 7 2023,York,2-2,1-0,Bromley
+Sat Oct 7 2023,Dorking,2-3,2-0,Barnet
+Sat Oct 21 2023,Aldershot,2-1,0-0,Hartlepool
+Sat Oct 21 2023,Barnet,3-2,1-2,Maidenhead
+Sat Oct 21 2023,Bromley,3-1,1-1,Oxford City
+Sat Oct 21 2023,Dag and Red,2-1,1-1,Woking
+Sat Oct 21 2023,Eastleigh,3-1,1-0,York
+Sat Oct 21 2023,Fylde,1-1,0-1,Ebbsfleet
+Sat Oct 21 2023,Halifax,2-1,1-1,Kidderminster
+Sat Oct 21 2023,Rochdale,3-4,0-1,Oldham
+Sat Oct 21 2023,Southend,5-0,2-0,Solihull
+Sat Oct 21 2023,Wealdstone,1-1,1-1,Boreham Wood
+Tue Oct 24 2023,Aldershot,4-2,2-2,Maidenhead
+Tue Oct 24 2023,Altrincham,1-1,1-1,Kidderminster
+Tue Oct 24 2023,Barnet,1-1,0-0,Solihull
+Tue Oct 24 2023,Bromley,2-1,1-1,Dorking
+Tue Oct 24 2023,Chesterfield,4-0,0-0,York
+Tue Oct 24 2023,Dag and Red,1-3,1-1,Boreham Wood
+Tue Oct 24 2023,Eastleigh,0-1,0-1,Woking
+Tue Oct 24 2023,Fylde,3-0,2-0,Oldham
+Tue Oct 24 2023,Halifax,2-1,1-1,Hartlepool
+Tue Oct 24 2023,Rochdale,2-2,2-0,Gateshead
+Tue Oct 24 2023,Southend,3-0,1-0,Ebbsfleet
+Tue Oct 24 2023,Wealdstone,3-1,1-1,Oxford City
+Sat Oct 28 2023,Boreham Wood,1-1,0-1,Southend
+Sat Oct 28 2023,Dorking,2-1,1-0,Aldershot
+Sat Oct 28 2023,Ebbsfleet,0-1,0-0,Dag and Red
+Sat Oct 28 2023,Gateshead,0-4,0-2,Fylde
+Sat Oct 28 2023,Hartlepool,2-3,1-3,Rochdale
+Sat Oct 28 2023,Kidderminster,1-3,1-1,Chesterfield
+Sat Oct 28 2023,Maidenhead,3-2,2-0,Eastleigh
+Sat Oct 28 2023,Oldham,2-2,1-2,Altrincham
+Sat Oct 28 2023,Oxford City,0-2,0-2,Barnet
+Sat Oct 28 2023,Solihull,1-0,0-0,Wealdstone
+Sat Oct 28 2023,Woking,0-1,0-0,Bromley
+Sat Oct 28 2023,York,1-1,0-0,Halifax
+Sat Nov 4 2023,Dorking,1-3,1-2,Dag and Red
+Sat Nov 11 2023,Aldershot,1-0,1-0,Kidderminster
+Sat Nov 11 2023,Altrincham,2-0,0-0,Southend
+Sat Nov 11 2023,Boreham Wood,1-1,0-1,Bromley
+Sat Nov 11 2023,Chesterfield,4-2,0-0,Barnet
+Sat Nov 11 2023,Fylde,0-2,0-2,York
+Sat Nov 11 2023,Gateshead,6-0,3-0,Dorking
+Sat Nov 11 2023,Hartlepool,2-2,1-1,Ebbsfleet
+Sat Nov 11 2023,Maidenhead,1-0,1-0,Halifax
+Sat Nov 11 2023,Oldham,1-1,0-1,Eastleigh
+Sat Nov 11 2023,Oxford City,3-2,2-0,Woking
+Sat Nov 11 2023,Wealdstone,3-2,1-1,Rochdale
+Sat Nov 11 2023,Dag and Red,1-2,1-1,Solihull
+Sat Nov 18 2023,Barnet,0-2,0-0,Gateshead
+Sat Nov 18 2023,Bromley,1-0,0-0,Fylde
+Sat Nov 18 2023,Dorking,2-1,1-0,Boreham Wood
+Sat Nov 18 2023,Eastleigh,2-1,1-0,Altrincham
+Sat Nov 18 2023,Ebbsfleet,0-4,0-2,Oxford City
+Sat Nov 18 2023,Halifax,1-0,0-0,Wealdstone
+Sat Nov 18 2023,Kidderminster,0-1,0-0,Dag and Red
+Sat Nov 18 2023,Rochdale,2-1,1-1,Aldershot
+Sat Nov 18 2023,Solihull,1-2,0-1,Maidenhead
+Sat Nov 18 2023,Southend,2-1,0-1,Chesterfield
+Sat Nov 18 2023,Woking,0-1,0-0,Oldham
+Sat Nov 18 2023,York,1-3,0-2,Hartlepool
+Tue Nov 21 2023,Bromley,2-3,2-0,Aldershot
+Tue Nov 21 2023,Eastleigh,2-1,1-1,Boreham Wood
+Tue Nov 21 2023,Ebbsfleet,1-1,0-0,Maidenhead
+Tue Nov 21 2023,Halifax,2-2,0-1,Fylde
+Tue Nov 21 2023,Kidderminster,1-1,1-1,Hartlepool
+Tue Nov 21 2023,Rochdale,3-0,1-0,Altrincham
+Tue Nov 21 2023,Solihull,1-2,0-2,Gateshead
+Tue Nov 21 2023,Woking,0-2,0-1,Chesterfield
+Tue Nov 21 2023,York,2-0,2-0,Oxford City
+Wed Nov 22 2023,Barnet,1-4,0-1,Oldham
+Sat Nov 25 2023,Fylde,3-3,3-1,Dorking
+Sat Nov 25 2023,Aldershot,1-0,0-0,Halifax
+Sat Nov 25 2023,Altrincham,6-1,3-0,Solihull
+Sat Nov 25 2023,Boreham Wood,4-2,1-2,Woking
+Sat Nov 25 2023,Chesterfield,3-2,0-0,Eastleigh
+Sat Nov 25 2023,Dag and Red,1-2,0-1,Rochdale
+Sat Nov 25 2023,Gateshead,1-1,1-0,Southend
+Sat Nov 25 2023,Hartlepool,1-4,0-2,Bromley
+Sat Nov 25 2023,Maidenhead,1-1,0-0,York
+Sat Nov 25 2023,Oldham,1-4,0-1,Ebbsfleet
+Sat Nov 25 2023,Oxford City,2-2,2-1,Kidderminster
+Sat Nov 25 2023,Wealdstone,3-2,1-2,Barnet
+Sat Dec 2 2023,Bromley,1-0,0-0,Rochdale
+Sat Dec 2 2023,Kidderminster,2-0,2-0,Ebbsfleet
+Sat Dec 2 2023,Oxford City,1-4,0-3,Maidenhead
+Sat Dec 16 2023,Gateshead,0-2,0-1,Halifax
+Sat Dec 16 2023,Aldershot,3-5,0-3,Eastleigh
+Sat Dec 16 2023,Altrincham,2-1,0-1,Fylde
+Sat Dec 16 2023,Boreham Wood,2-1,2-1,Oxford City
+Sat Dec 16 2023,Dag and Red,0-2,0-0,Wealdstone
+Sat Dec 16 2023,Dorking,1-2,1-1,Woking
+Sat Dec 16 2023,Ebbsfleet,1-1,0-0,Barnet
+Sat Dec 16 2023,Hartlepool,0-1,0-1,Chesterfield
+Sat Dec 16 2023,Maidenhead,1-0,0-0,Kidderminster
+Sat Dec 16 2023,Rochdale,0-0,0-0,York
+Sat Dec 16 2023,Solihull,2-3,1-0,Oldham
+Sat Dec 16 2023,Southend,1-2,0-1,Bromley
+Sat Dec 23 2023,Barnet,6-0,3-0,Boreham Wood
+Sat Dec 23 2023,Chesterfield,4-1,1-1,Aldershot
+Sat Dec 23 2023,Eastleigh,2-1,1-0,Dorking
+Sat Dec 23 2023,Fylde,1-1,0-1,Dag and Red
+Sat Dec 23 2023,Halifax,2-2,2-1,Rochdale
+Sat Dec 23 2023,Kidderminster,1-2,1-2,Southend
+Sat Dec 23 2023,Oldham,1-2,1-0,Gateshead
+Sat Dec 23 2023,Oxford City,1-2,0-0,Solihull
+Sat Dec 23 2023,Wealdstone,4-4,3-2,Hartlepool
+Sat Dec 23 2023,Woking,0-0,0-0,Maidenhead
+Sat Dec 23 2023,York,1-1,1-0,Ebbsfleet
+Sat Dec 23 2023,Bromley,2-2,0-1,Altrincham
+Tue Dec 26 2023,Aldershot,0-0,0-0,Woking
+Tue Dec 26 2023,Altrincham,1-2,0-1,Halifax
+Tue Dec 26 2023,Boreham Wood,1-1,0-0,Kidderminster
+Tue Dec 26 2023,Dag and Red,4-1,1-0,Eastleigh
+Tue Dec 26 2023,Dorking,0-2,0-0,Oxford City
+Tue Dec 26 2023,Ebbsfleet,2-3,0-1,Bromley
+Tue Dec 26 2023,Gateshead,1-1,0-1,York
+Tue Dec 26 2023,Hartlepool,1-3,1-2,Oldham
+Tue Dec 26 2023,Maidenhead,0-2,0-2,Wealdstone
+Tue Dec 26 2023,Rochdale,2-0,1-0,Fylde
+Tue Dec 26 2023,Solihull,2-0,2-0,Chesterfield
+Tue Dec 26 2023,Southend,0-2,0-1,Barnet
+Sat Dec 30 2023,Barnet,1-0,0-0,Southend
+Sat Dec 30 2023,Bromley,5-1,2-1,Ebbsfleet
+Sat Dec 30 2023,Kidderminster,1-2,1-2,Boreham Wood
+Sat Dec 30 2023,Oldham,2-0,1-0,Hartlepool
+Mon Jan 1 2024,Chesterfield,3-2,0-1,Solihull
+Mon Jan 1 2024,Eastleigh,4-4,2-2,Dag and Red
+Mon Jan 1 2024,Fylde,2-0,0-0,Rochdale
+Mon Jan 1 2024,Halifax,0-0,0-0,Altrincham
+Mon Jan 1 2024,Oxford City,1-2,0-0,Dorking
+Mon Jan 1 2024,Woking,2-3,1-2,Aldershot
+Mon Jan 1 2024,York,2-0,1-0,Gateshead
+Sat Jan 6 2024,Altrincham,3-2,2-0,Barnet
+Sat Jan 6 2024,Dorking,0-1,0-1,Oldham
+Sat Jan 6 2024,Ebbsfleet,2-0,1-0,Wealdstone
+Sat Jan 6 2024,Hartlepool,2-1,0-0,Oxford City
+Sat Jan 6 2024,Maidenhead,0-0,0-0,Bromley
+Sat Jan 6 2024,Rochdale,2-0,0-0,Kidderminster
+Sat Jan 6 2024,Solihull,3-0,1-0,Woking
+Sat Jan 6 2024,Southend,3-0,1-0,Halifax
+Sun Jan 7 2024,Boreham Wood,1-1,0-0,York
+Tue Jan 9 2024,Barnet,2-1,1-1,Dag and Red
+Tue Jan 9 2024,Fylde,2-1,2-0,Hartlepool
+Wed Jan 10 2024,Chesterfield,5-0,4-0,Gateshead
+Sat Jan 13 2024,Eastleigh,0-1,0-0,Southend
+Tue Jan 16 2024,Chesterfield,2-1,1-1,Altrincham
+Sat Jan 20 2024,Bromley,2-2,1-1,Boreham Wood
+Sat Jan 20 2024,Dorking,1-0,1-0,Gateshead
+Sat Jan 20 2024,Ebbsfleet,0-1,0-0,Hartlepool
+Sat Jan 20 2024,Kidderminster,4-2,2-2,Aldershot
+Tue Jan 23 2024,Aldershot,1-1,1-0,Bromley
+Tue Jan 23 2024,Chesterfield,1-0,1-0,Woking
+Tue Jan 23 2024,Dag and Red,2-1,0-0,Dorking
+Tue Jan 23 2024,Fylde,2-2,2-0,Halifax
+Tue Jan 23 2024,Hartlepool,0-1,0-0,Kidderminster
+Tue Jan 23 2024,Maidenhead,0-1,0-0,Ebbsfleet
+Tue Jan 23 2024,Oldham,2-0,1-0,Barnet
+Tue Jan 23 2024,Oxford City,1-2,0-1,York
+Wed Jan 24 2024,Boreham Wood,4-4,0-2,Eastleigh
+Sat Jan 27 2024,Aldershot,3-1,2-1,Rochdale
+Sat Jan 27 2024,Altrincham,4-0,2-0,Eastleigh
+Sat Jan 27 2024,Boreham Wood,0-3,0-2,Dorking
+Sat Jan 27 2024,Chesterfield,3-0,1-0,Southend
+Sat Jan 27 2024,Dag and Red,0-1,0-0,Kidderminster
+Sat Jan 27 2024,Fylde,1-0,1-0,Bromley
+Sat Jan 27 2024,Gateshead,2-1,0-1,Barnet
+Sat Jan 27 2024,Hartlepool,2-1,0-0,York
+Sat Jan 27 2024,Maidenhead,2-1,1-1,Solihull
+Sat Jan 27 2024,Oldham,0-1,0-0,Woking
+Sat Jan 27 2024,Oxford City,1-0,1-0,Ebbsfleet
+Sat Jan 27 2024,Wealdstone,2-0,1-0,Halifax
+Tue Jan 30 2024,Solihull,1-1,0-0,Dag and Red
+Tue Jan 30 2024,Wealdstone,3-3,2-2,Aldershot
+Sat Feb 3 2024,Barnet,1-1,1-0,Wealdstone
+Sat Feb 3 2024,Bromley,1-2,1-1,Hartlepool
+Sat Feb 3 2024,Dorking,1-3,0-2,Fylde
+Sat Feb 3 2024,Eastleigh,1-3,0-1,Chesterfield
+Sat Feb 3 2024,Halifax,1-2,1-0,Aldershot
+Sat Feb 3 2024,Kidderminster,3-2,0-2,Oxford City
+Sat Feb 3 2024,Rochdale,1-2,1-2,Dag and Red
+Sat Feb 3 2024,Solihull,0-1,0-1,Altrincham
+Sat Feb 3 2024,Southend,0-1,0-0,Gateshead
+Sat Feb 3 2024,Woking,0-1,0-1,Boreham Wood
+Sat Feb 3 2024,York,1-1,1-1,Maidenhead
+Sat Feb 3 2024,Ebbsfleet,0-0,0-0,Oldham
+Tue Feb 6 2024,Dag and Red,1-2,0-1,Chesterfield
+Tue Feb 6 2024,Gateshead,1-1,0-0,Eastleigh
+Tue Feb 6 2024,Halifax,1-3,0-2,Solihull
+Tue Feb 6 2024,Wealdstone,0-1,0-0,Maidenhead
+Tue Feb 6 2024,Woking,2-0,1-0,Oxford City
+Sat Feb 10 2024,Altrincham,3-0,1-0,Rochdale
+Sat Feb 10 2024,Boreham Wood,1-0,1-0,Maidenhead
+Sat Feb 10 2024,Chesterfield,2-2,2-1,Ebbsfleet
+Sat Feb 10 2024,Dag and Red,7-1,3-0,Oxford City
+Sat Feb 10 2024,Dorking,1-3,1-2,Halifax
+Sat Feb 10 2024,Eastleigh,1-2,0-1,Fylde
+Sat Feb 10 2024,Southend,0-1,0-0,York
+Sat Feb 10 2024,Woking,1-1,0-1,Hartlepool
+Tue Feb 13 2024,Aldershot,0-5,0-3,Fylde
+Tue Feb 13 2024,Halifax,2-1,1-0,Maidenhead
+Tue Feb 13 2024,Oldham,2-1,0-1,Boreham Wood
+Tue Feb 13 2024,York,0-1,0-0,Dorking
+Sat Feb 17 2024,Bromley,4-3,0-1,Chesterfield
+Sat Feb 17 2024,Ebbsfleet,3-0,0-0,Eastleigh
+Sat Feb 17 2024,Fylde,2-4,2-2,Barnet
+Sat Feb 17 2024,Halifax,2-1,2-0,Woking
+Sat Feb 17 2024,Hartlepool,3-1,1-1,Boreham Wood
+Sat Feb 17 2024,Kidderminster,0-0,0-0,Dorking
+Sat Feb 17 2024,Maidenhead,1-3,0-1,Oldham
+Sat Feb 17 2024,Oxford City,0-0,0-0,Southend
+Sat Feb 17 2024,Rochdale,1-2,1-1,Solihull
+Sat Feb 17 2024,Wealdstone,2-4,1-3,Gateshead
+Sat Feb 17 2024,York,1-1,1-1,Dag and Red
+Sat Feb 17 2024,Aldershot,2-0,2-0,Altrincham
+Tue Feb 20 2024,Aldershot,1-0,0-0,Barnet
+Tue Feb 20 2024,Bromley,2-2,2-0,Dag and Red
+Tue Feb 20 2024,Ebbsfleet,1-0,1-0,Woking
+Tue Feb 20 2024,Fylde,2-2,2-1,Solihull
+Tue Feb 20 2024,Hartlepool,3-2,0-1,Altrincham
+Tue Feb 20 2024,Kidderminster,0-2,0-1,Gateshead
+Tue Feb 20 2024,Maidenhead,1-2,1-1,Southend
+Tue Feb 20 2024,Oxford City,2-5,0-4,Eastleigh
+Tue Feb 20 2024,York,1-1,0-0,Oldham
+Sat Feb 24 2024,Eastleigh,2-0,0-0,Bromley
+Sat Feb 24 2024,Altrincham,1-3,1-2,Maidenhead
+Sat Feb 24 2024,Barnet,2-0,1-0,York
+Sat Feb 24 2024,Boreham Wood,4-0,3-0,Fylde
+Sat Feb 24 2024,Chesterfield,2-2,0-0,Rochdale
+Sat Feb 24 2024,Dag and Red,0-1,0-0,Halifax
+Sat Feb 24 2024,Dorking,1-4,1-2,Ebbsfleet
+Sat Feb 24 2024,Gateshead,4-0,1-0,Oxford City
+Sat Feb 24 2024,Oldham,1-2,0-1,Kidderminster
+Sat Feb 24 2024,Solihull,2-1,1-0,Hartlepool
+Sat Feb 24 2024,Southend,4-1,0-1,Aldershot
+Sat Feb 24 2024,Woking,1-1,0-0,Wealdstone
+Tue Feb 27 2024,Barnet,0-2,0-1,Chesterfield
+Tue Feb 27 2024,Eastleigh,1-2,0-1,Oldham
+Tue Feb 27 2024,Rochdale,3-0,3-0,Wealdstone
+Tue Feb 27 2024,Solihull,0-1,0-0,Kidderminster
+Tue Feb 27 2024,Southend,2-1,2-1,Altrincham
+Tue Feb 27 2024,Woking,3-2,1-2,Gateshead
+Sat Mar 2 2024,Dorking,4-1,2-1,Chesterfield
+Sat Mar 2 2024,Boreham Wood,1-1,1-0,Gateshead
+Sat Mar 2 2024,Bromley,2-0,1-0,Halifax
+Sat Mar 2 2024,Dag and Red,3-1,1-1,Altrincham
+Sat Mar 2 2024,Eastleigh,3-3,2-0,Solihull
+Sat Mar 2 2024,Ebbsfleet,2-1,1-1,Rochdale
+Sat Mar 2 2024,Fylde,4-1,1-0,Maidenhead
+Sat Mar 2 2024,Hartlepool,1-2,0-2,Barnet
+Sat Mar 2 2024,Oldham,1-1,0-0,Southend
+Sat Mar 2 2024,Oxford City,1-2,1-2,Aldershot
+Sat Mar 2 2024,York,2-3,1-1,Wealdstone
+Tue Mar 5 2024,Altrincham,2-1,2-0,Dorking
+Tue Mar 5 2024,Barnet,2-0,1-0,Rochdale
+Tue Mar 5 2024,Gateshead,2-3,1-2,Solihull
+Tue Mar 5 2024,Oldham,0-0,0-0,Bromley
+Tue Mar 5 2024,Southend,1-1,0-1,Wealdstone
+Tue Mar 5 2024,Woking,2-1,0-1,Kidderminster
+Tue Mar 5 2024,York,1-3,1-1,Fylde
+Sat Mar 9 2024,Aldershot,2-0,1-0,Oldham
+Sat Mar 9 2024,Altrincham,0-1,0-0,Woking
+Sat Mar 9 2024,Chesterfield,4-1,1-0,Fylde
+Sat Mar 9 2024,Halifax,2-1,1-0,Boreham Wood
+Sat Mar 9 2024,Kidderminster,0-0,0-0,York
+Sat Mar 9 2024,Maidenhead,4-2,3-1,Dorking
+Sat Mar 9 2024,Rochdale,2-2,1-2,Oxford City
+Sat Mar 9 2024,Southend,1-1,0-1,Dag and Red
+Tue Mar 12 2024,Aldershot,4-1,2-1,Ebbsfleet
+Tue Mar 12 2024,Altrincham,6-1,3-0,York
+Tue Mar 12 2024,Chesterfield,2-0,1-0,Oxford City
+Tue Mar 12 2024,Gateshead,1-0,0-0,Dag and Red
+Tue Mar 12 2024,Kidderminster,1-1,0-1,Fylde
+Tue Mar 12 2024,Rochdale,2-1,1-1,Woking
+Tue Mar 12 2024,Solihull,2-0,0-0,Boreham Wood
+Tue Mar 12 2024,Southend,2-0,1-0,Dorking
+Sat Mar 16 2024,Oldham,2-2,2-1,Chesterfield
+Sat Mar 16 2024,Boreham Wood,0-1,0-0,Altrincham
+Sat Mar 16 2024,Bromley,0-0,0-0,Kidderminster
+Sat Mar 16 2024,Dag and Red,4-1,2-0,Maidenhead
+Sat Mar 16 2024,Dorking,1-1,0-0,Solihull
+Sat Mar 16 2024,Eastleigh,1-4,1-2,Rochdale
+Sat Mar 16 2024,Ebbsfleet,4-2,1-2,Gateshead
+Sat Mar 16 2024,Fylde,1-2,0-1,Wealdstone
+Sat Mar 16 2024,Hartlepool,0-0,0-0,Southend
+Sat Mar 16 2024,Woking,1-0,0-0,Barnet
+Sat Mar 16 2024,York,1-0,0-0,Aldershot
+Sun Mar 17 2024,Oxford City,0-2,0-2,Halifax
+Tue Mar 19 2024,Barnet,2-1,2-1,Eastleigh
+Wed Mar 20 2024,Halifax,4-2,3-1,Chesterfield
+Wed Mar 20 2024,Wealdstone,0-1,0-0,Bromley
+Sat Mar 23 2024,Aldershot,1-1,0-0,Solihull
+Sat Mar 23 2024,Altrincham,2-3,1-0,Gateshead
+Sat Mar 23 2024,Barnet,6-0,4-0,Dorking
+Sat Mar 23 2024,Bromley,0-2,0-1,York
+Sat Mar 23 2024,Chesterfield,3-0,1-0,Boreham Wood
+Sat Mar 23 2024,Dag and Red,0-0,0-0,Oldham
+Sat Mar 23 2024,Eastleigh,1-1,0-1,Hartlepool
+Sat Mar 23 2024,Fylde,2-1,0-1,Oxford City
+Sat Mar 23 2024,Rochdale,1-0,1-0,Maidenhead
+Sat Mar 23 2024,Southend,0-0,0-0,Woking
+Sat Mar 23 2024,Wealdstone,1-1,1-0,Kidderminster
+Tue Mar 26 2024,Altrincham,4-1,1-1,Wealdstone
+Tue Mar 26 2024,Gateshead,7-1,1-1,Hartlepool
+Tue Mar 26 2024,Solihull,0-3,0-2,Southend
+Fri Mar 29 2024,Boreham Wood,1-4,1-4,Dag and Red
+Fri Mar 29 2024,Dorking,0-2,0-1,Bromley
+Fri Mar 29 2024,Ebbsfleet,1-1,0-1,Southend
+Fri Mar 29 2024,Gateshead,1-0,1-0,Rochdale
+Fri Mar 29 2024,Hartlepool,1-0,0-0,Halifax
+Fri Mar 29 2024,Kidderminster,1-3,1-1,Altrincham
+Fri Mar 29 2024,Maidenhead,4-0,2-0,Aldershot
+Fri Mar 29 2024,Oldham,1-3,1-3,Fylde
+Fri Mar 29 2024,Oxford City,1-0,1-0,Wealdstone
+Fri Mar 29 2024,Solihull,2-2,1-2,Barnet
+Fri Mar 29 2024,Woking,0-1,0-1,Eastleigh
+Fri Mar 29 2024,York,2-1,0-1,Chesterfield
+Mon Apr 1 2024,Aldershot,1-1,1-0,Dorking
+Mon Apr 1 2024,Altrincham,1-0,1-0,Oldham
+Mon Apr 1 2024,Barnet,3-1,1-0,Oxford City
+Mon Apr 1 2024,Bromley,1-1,0-1,Woking
+Mon Apr 1 2024,Chesterfield,1-3,1-1,Kidderminster
+Mon Apr 1 2024,Dag and Red,1-1,0-0,Ebbsfleet
+Mon Apr 1 2024,Eastleigh,2-3,2-0,Maidenhead
+Mon Apr 1 2024,Rochdale,1-1,0-0,Hartlepool
+Mon Apr 1 2024,Southend,4-2,3-0,Boreham Wood
+Mon Apr 1 2024,Wealdstone,0-1,0-0,Solihull
+Tue Apr 2 2024,Halifax,1-1,0-0,York
+Sat Apr 6 2024,Oldham,1-1,1-1,Rochdale
+Sat Apr 6 2024,Boreham Wood,4-0,1-0,Wealdstone
+Sat Apr 6 2024,Dorking,0-0,0-0,Altrincham
+Sat Apr 6 2024,Ebbsfleet,2-1,1-0,Fylde
+Sat Apr 6 2024,Hartlepool,2-0,1-0,Aldershot
+Sat Apr 6 2024,Maidenhead,2-2,1-0,Barnet
+Sat Apr 6 2024,Woking,3-2,1-1,Dag and Red
+Sat Apr 6 2024,York,0-1,0-0,Eastleigh
+Sat Apr 6 2024,Kidderminster,0-2,0-0,Halifax
+Tue Apr 9 2024,Barnet,1-1,0-0,Bromley
+Tue Apr 9 2024,Maidenhead,3-1,1-0,Hartlepool
+Tue Apr 9 2024,Solihull,3-0,1-0,Ebbsfleet
+Tue Apr 9 2024,Wealdstone,1-2,1-1,Southend
+Thu Apr 11 2024,Fylde,2-0,0-0,Gateshead
+Thu Apr 11 2024,Wealdstone,4-2,0-0,Dorking
+Sat Apr 13 2024,Bromley,3-0,2-0,Solihull
+Sat Apr 13 2024,Ebbsfleet,0-2,0-2,Altrincham
+Sat Apr 13 2024,Fylde,0-2,0-0,Southend
+Sat Apr 13 2024,Halifax,0-2,0-2,Barnet
+Sat Apr 13 2024,Hartlepool,1-1,0-1,Dag and Red
+Sat Apr 13 2024,Kidderminster,0-1,0-1,Eastleigh
+Sat Apr 13 2024,Maidenhead,2-1,0-0,Gateshead
+Sat Apr 13 2024,Oxford City,0-0,0-0,Oldham
+Sat Apr 13 2024,Rochdale,1-1,0-0,Dorking
+Sat Apr 13 2024,Wealdstone,1-0,0-0,Chesterfield
+Sat Apr 13 2024,York,2-0,0-0,Woking
+Sat Apr 13 2024,Aldershot,0-3,0-2,Boreham Wood
+Mon Apr 15 2024,Gateshead,2-1,2-0,Chesterfield
+Tue Apr 16 2024,Halifax,0-0,0-0,Ebbsfleet
+Tue Apr 16 2024,Oxford City,1-3,0-2,Bromley
+Tue Apr 16 2024,Rochdale,0-0,0-0,Boreham Wood
+Tue Apr 16 2024,Wealdstone,0-1,0-0,Eastleigh
+Wed Apr 17 2024,Gateshead,0-1,0-0,Aldershot
+Thu Apr 18 2024,Halifax,2-2,1-1,Oldham
+Sat Apr 20 2024,Altrincham,1-0,1-0,Oxford City
+Sat Apr 20 2024,Barnet,4-1,2-0,Kidderminster
+Sat Apr 20 2024,Boreham Wood,0-0,0-0,Ebbsfleet
+Sat Apr 20 2024,Chesterfield,3-2,2-0,Maidenhead
+Sat Apr 20 2024,Dag and Red,3-3,1-0,Aldershot
+Sat Apr 20 2024,Dorking,3-4,1-3,Hartlepool
+Sat Apr 20 2024,Eastleigh,0-3,0-1,Halifax
+Sat Apr 20 2024,Gateshead,2-1,0-1,Bromley
+Sat Apr 20 2024,Oldham,2-3,1-0,Wealdstone
+Sat Apr 20 2024,Solihull,1-0,0-0,York
+Sat Apr 20 2024,Southend,1-2,1-1,Rochdale
+Sat Apr 20 2024,Woking,3-0,1-0,Fylde

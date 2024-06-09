@@ -1,0 +1,380 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 5 2023,St Etienne,0-1,0-0,Grenoble
+Sat Aug 5 2023,Ajaccio,1-1,1-1,Rodez
+Sat Aug 5 2023,Amiens,1-0,0-0,Quevilly Rouen
+Sat Aug 5 2023,Annecy,1-4,1-0,Guingamp
+Sat Aug 5 2023,Concarneau,0-0,0-0,Bastia
+Sat Aug 5 2023,Dunkerque,2-2,1-2,Troyes
+Sat Aug 5 2023,Laval,1-0,0-0,Angers
+Sat Aug 5 2023,Paris FC,0-2,0-1,Caen
+Sat Aug 5 2023,Valenciennes,1-4,1-1,Auxerre
+Mon Aug 7 2023,Pau FC,3-0,2-0,Bordeaux
+Sat Aug 12 2023,Rodez,2-1,1-0,St Etienne
+Sat Aug 12 2023,Angers,0-0,0-0,Annecy
+Sat Aug 12 2023,Auxerre,0-1,0-0,Amiens
+Sat Aug 12 2023,Bastia,3-0,1-0,Valenciennes
+Sat Aug 12 2023,Caen,2-0,2-0,Pau FC
+Sat Aug 12 2023,Grenoble,2-0,0-0,Paris FC
+Sat Aug 12 2023,Guingamp,0-1,0-0,Dunkerque
+Sat Aug 12 2023,Quevilly Rouen,0-1,0-1,Ajaccio
+Sat Aug 12 2023,Troyes,3-1,2-0,Laval
+Mon Aug 14 2023,Bordeaux,1-0,0-0,Concarneau
+Sat Aug 19 2023,Angers,2-2,1-1,Auxerre
+Sat Aug 19 2023,Amiens,2-1,1-1,Bastia
+Sat Aug 19 2023,Annecy,3-0,0-0,Dunkerque
+Sat Aug 19 2023,Concarneau,0-2,0-0,Caen
+Sat Aug 19 2023,Grenoble,0-0,0-0,Troyes
+Sat Aug 19 2023,Laval,1-0,0-0,Rodez
+Sat Aug 19 2023,Pau FC,2-0,1-0,Paris FC
+Sat Aug 19 2023,St Etienne,2-1,2-0,Quevilly Rouen
+Sat Aug 19 2023,Valenciennes,0-0,0-0,Guingamp
+Mon Aug 21 2023,Ajaccio,0-0,0-0,Bordeaux
+Sat Aug 26 2023,Bordeaux,2-0,0-0,Amiens
+Sat Aug 26 2023,Auxerre,0-0,0-0,Grenoble
+Sat Aug 26 2023,Bastia,3-2,0-2,Troyes
+Sat Aug 26 2023,Caen,3-0,2-0,Ajaccio
+Sat Aug 26 2023,Dunkerque,0-1,0-0,Angers
+Sat Aug 26 2023,Guingamp,4-0,2-0,Pau FC
+Sat Aug 26 2023,Paris FC,3-0,1-0,Concarneau
+Sat Aug 26 2023,Quevilly Rouen,0-0,0-0,Laval
+Sat Aug 26 2023,Rodez,0-1,0-1,Valenciennes
+Mon Aug 28 2023,Annecy,1-1,1-0,St Etienne
+Sat Sep 2 2023,Bordeaux,2-4,1-2,Auxerre
+Sat Sep 2 2023,Ajaccio,2-2,0-1,Dunkerque
+Sat Sep 2 2023,Amiens,4-1,1-1,Guingamp
+Sat Sep 2 2023,Angers,2-0,1-0,Paris FC
+Sat Sep 2 2023,Concarneau,1-1,0-1,Annecy
+Sat Sep 2 2023,Grenoble,0-0,0-0,Bastia
+Sat Sep 2 2023,Laval,2-1,0-0,Caen
+Sat Sep 2 2023,Pau FC,2-2,2-0,Rodez
+Sat Sep 2 2023,St Etienne,0-0,0-0,Valenciennes
+Sat Sep 2 2023,Troyes,2-2,0-2,Quevilly Rouen
+Sat Sep 16 2023,Caen,1-2,0-1,St Etienne
+Sat Sep 16 2023,Annecy,0-0,0-0,Troyes
+Sat Sep 16 2023,Auxerre,2-2,1-1,Pau FC
+Sat Sep 16 2023,Bastia,0-3,0-1,Laval
+Sat Sep 16 2023,Dunkerque,0-0,0-0,Grenoble
+Sat Sep 16 2023,Paris FC,3-0,2-0,Amiens
+Sat Sep 16 2023,Quevilly Rouen,2-3,0-3,Concarneau
+Sat Sep 16 2023,Rodez,4-1,0-1,Angers
+Sat Sep 16 2023,Valenciennes,1-2,0-1,Bordeaux
+Mon Sep 18 2023,Guingamp,3-0,2-0,Ajaccio
+Sat Sep 23 2023,Troyes,1-2,0-1,Auxerre
+Sat Sep 23 2023,Ajaccio,2-1,0-0,Paris FC
+Sat Sep 23 2023,Amiens,0-0,0-0,Valenciennes
+Sat Sep 23 2023,Angers,2-0,1-0,Bastia
+Sat Sep 23 2023,Concarneau,0-1,0-0,St Etienne
+Sat Sep 23 2023,Dunkerque,1-2,0-1,Rodez
+Sat Sep 23 2023,Grenoble,2-1,1-1,Quevilly Rouen
+Sat Sep 23 2023,Laval,2-1,0-0,Guingamp
+Sat Sep 23 2023,Pau FC,0-3,0-2,Annecy
+Tue Sep 26 2023,Amiens,0-0,0-0,Ajaccio
+Tue Sep 26 2023,Auxerre,4-0,2-0,Annecy
+Tue Sep 26 2023,Bastia,1-4,0-1,Pau FC
+Tue Sep 26 2023,Caen,1-2,1-0,Grenoble
+Tue Sep 26 2023,Guingamp,0-0,0-0,Bordeaux
+Tue Sep 26 2023,Paris FC,0-1,0-0,Laval
+Tue Sep 26 2023,Quevilly Rouen,0-1,0-1,Angers
+Tue Sep 26 2023,Rodez,2-1,0-0,Troyes
+Tue Sep 26 2023,Valenciennes,0-1,0-1,Concarneau
+Sat Sep 30 2023,Troyes,0-1,0-0,St Etienne
+Sat Sep 30 2023,Angers,2-0,0-0,Concarneau
+Sat Sep 30 2023,Annecy,2-2,1-0,Paris FC
+Sat Sep 30 2023,Auxerre,3-1,1-0,Rodez
+Sat Sep 30 2023,Caen,0-1,0-0,Guingamp
+Sat Sep 30 2023,Dunkerque,0-1,0-0,Quevilly Rouen
+Sat Sep 30 2023,Grenoble,2-0,1-0,Bordeaux
+Sat Sep 30 2023,Laval,1-0,0-0,Valenciennes
+Sat Sep 30 2023,Pau FC,1-0,1-0,Amiens
+Mon Oct 2 2023,Ajaccio,2-0,0-0,Bastia
+Tue Oct 3 2023,Bordeaux,1-1,1-1,Caen
+Wed Oct 4 2023,St Etienne,2-0,0-0,Dunkerque
+Sat Oct 7 2023,Bordeaux,0-1,0-1,Laval
+Sat Oct 7 2023,Amiens,1-4,1-2,Angers
+Sat Oct 7 2023,Bastia,2-1,0-0,Annecy
+Sat Oct 7 2023,Concarneau,4-3,1-2,Dunkerque
+Sat Oct 7 2023,Guingamp,2-2,2-1,Grenoble
+Sat Oct 7 2023,Paris FC,0-2,0-1,Auxerre
+Sat Oct 7 2023,Quevilly Rouen,2-2,1-1,Pau FC
+Sat Oct 7 2023,Rodez,5-3,2-3,Caen
+Sat Oct 7 2023,St Etienne,0-0,0-0,Ajaccio
+Sat Oct 7 2023,Valenciennes,1-1,0-1,Troyes
+Sat Oct 21 2023,Caen,1-1,0-1,Auxerre
+Sat Oct 21 2023,Ajaccio,2-0,0-0,Pau FC
+Sat Oct 21 2023,Angers,2-0,1-0,Bordeaux
+Sat Oct 21 2023,Annecy,1-1,1-1,Amiens
+Sat Oct 21 2023,Dunkerque,1-3,0-1,Paris FC
+Sat Oct 21 2023,Grenoble,3-3,2-1,Valenciennes
+Sat Oct 21 2023,Guingamp,2-2,1-1,Quevilly Rouen
+Sat Oct 21 2023,Rodez,1-1,0-1,Bastia
+Sat Oct 21 2023,Troyes,0-0,0-0,Concarneau
+Mon Oct 23 2023,Laval,0-1,0-1,St Etienne
+Sat Oct 28 2023,Bordeaux,2-2,2-1,Rodez
+Sat Oct 28 2023,Amiens,0-0,0-0,Laval
+Sat Oct 28 2023,Auxerre,0-1,0-0,Dunkerque
+Sat Oct 28 2023,Bastia,0-0,0-0,Guingamp
+Sat Oct 28 2023,Concarneau,2-1,0-0,Ajaccio
+Sat Oct 28 2023,Paris FC,2-2,0-0,Troyes
+Sat Oct 28 2023,Pau FC,3-2,1-1,Grenoble
+Sat Oct 28 2023,Quevilly Rouen,1-2,1-1,Annecy
+Sat Oct 28 2023,Valenciennes,2-2,2-0,Caen
+Mon Oct 30 2023,St Etienne,2-0,0-0,Angers
+Sat Nov 4 2023,St Etienne,0-1,0-0,Paris FC
+Sat Nov 4 2023,Angers,2-0,2-0,Valenciennes
+Sat Nov 4 2023,Annecy,1-3,1-1,Laval
+Sat Nov 4 2023,Bastia,3-1,2-0,Bordeaux
+Sat Nov 4 2023,Dunkerque,0-1,0-1,Amiens
+Sat Nov 4 2023,Grenoble,0-3,0-2,Ajaccio
+Sat Nov 4 2023,Quevilly Rouen,3-1,2-1,Rodez
+Sat Nov 4 2023,Troyes,2-1,1-0,Caen
+Mon Nov 6 2023,Guingamp,2-1,0-0,Auxerre
+Sat Nov 11 2023,Bordeaux,3-1,2-1,Annecy
+Sat Nov 11 2023,Ajaccio,1-0,1-0,Troyes
+Sat Nov 11 2023,Amiens,1-2,1-1,Grenoble
+Sat Nov 11 2023,Auxerre,5-2,3-1,St Etienne
+Sat Nov 11 2023,Caen,3-3,2-2,Quevilly Rouen
+Sat Nov 11 2023,Laval,0-3,0-1,Concarneau
+Sat Nov 11 2023,Paris FC,1-0,1-0,Bastia
+Sat Nov 11 2023,Pau FC,4-4,2-1,Angers
+Sat Nov 11 2023,Rodez,0-0,0-0,Guingamp
+Sat Nov 11 2023,Valenciennes,0-1,0-0,Dunkerque
+Sat Nov 25 2023,St Etienne,1-2,1-0,Pau FC
+Sat Nov 25 2023,Amiens,1-1,1-1,Concarneau
+Sat Nov 25 2023,Annecy,2-0,1-0,Ajaccio
+Sat Nov 25 2023,Bastia,0-0,0-0,Auxerre
+Sat Nov 25 2023,Dunkerque,0-2,0-2,Laval
+Sat Nov 25 2023,Grenoble,2-1,1-1,Rodez
+Sat Nov 25 2023,Paris FC,1-2,1-1,Bordeaux
+Sat Nov 25 2023,Quevilly Rouen,0-0,0-0,Valenciennes
+Sat Nov 25 2023,Troyes,0-1,0-1,Guingamp
+Mon Nov 27 2023,Angers,3-0,1-0,Caen
+Tue Nov 28 2023,Concarneau,1-2,0-1,Pau FC
+Sat Dec 2 2023,Bordeaux,0-1,0-1,Troyes
+Sat Dec 2 2023,Ajaccio,1-1,1-1,Angers
+Sat Dec 2 2023,Amiens,1-0,1-0,St Etienne
+Sat Dec 2 2023,Auxerre,3-2,1-2,Quevilly Rouen
+Sat Dec 2 2023,Caen,1-0,0-0,Bastia
+Sat Dec 2 2023,Guingamp,0-1,0-0,Paris FC
+Sat Dec 2 2023,Laval,1-1,0-0,Grenoble
+Sat Dec 2 2023,Pau FC,1-1,1-0,Dunkerque
+Sat Dec 2 2023,Rodez,2-0,1-0,Concarneau
+Sat Dec 2 2023,Valenciennes,0-0,0-0,Annecy
+Tue Dec 5 2023,Ajaccio,2-0,0-0,Laval
+Tue Dec 5 2023,Angers,1-0,1-0,Grenoble
+Tue Dec 5 2023,Concarneau,1-2,0-2,Auxerre
+Tue Dec 5 2023,Dunkerque,0-5,0-2,Bastia
+Tue Dec 5 2023,Paris FC,2-0,2-0,Rodez
+Tue Dec 5 2023,Pau FC,3-1,1-0,Valenciennes
+Tue Dec 5 2023,Quevilly Rouen,3-2,2-0,Bordeaux
+Tue Dec 5 2023,St Etienne,1-3,1-1,Guingamp
+Tue Dec 5 2023,Troyes,2-0,2-0,Amiens
+Wed Dec 6 2023,Annecy,1-2,1-0,Caen
+Sat Dec 16 2023,Auxerre,2-0,2-0,Ajaccio
+Sat Dec 16 2023,Bordeaux,0-0,0-0,St Etienne
+Sat Dec 16 2023,Bastia,0-0,0-0,Quevilly Rouen
+Sat Dec 16 2023,Caen,1-0,1-0,Dunkerque
+Sat Dec 16 2023,Grenoble,1-0,0-0,Annecy
+Sat Dec 16 2023,Guingamp,0-1,0-0,Concarneau
+Sat Dec 16 2023,Laval,1-1,0-0,Pau FC
+Sat Dec 16 2023,Rodez,2-2,0-1,Amiens
+Sat Dec 16 2023,Troyes,1-4,1-3,Angers
+Sat Dec 16 2023,Valenciennes,0-1,0-1,Paris FC
+Tue Dec 19 2023,Ajaccio,2-1,2-1,Valenciennes
+Tue Dec 19 2023,Amiens,0-0,0-0,Caen
+Tue Dec 19 2023,Angers,1-0,1-0,Guingamp
+Tue Dec 19 2023,Annecy,1-2,0-1,Rodez
+Tue Dec 19 2023,Concarneau,0-3,0-1,Grenoble
+Tue Dec 19 2023,Dunkerque,0-2,0-1,Bordeaux
+Tue Dec 19 2023,Laval,1-3,1-1,Auxerre
+Tue Dec 19 2023,Paris FC,2-2,1-1,Quevilly Rouen
+Tue Dec 19 2023,Pau FC,1-1,0-0,Troyes
+Tue Dec 19 2023,St Etienne,3-2,2-0,Bastia
+Sat Jan 13 2024,St Etienne,0-0,0-0,Laval
+Sat Jan 13 2024,Bastia,2-0,1-0,Angers
+Sat Jan 13 2024,Caen,1-0,0-0,Concarneau
+Sat Jan 13 2024,Grenoble,2-2,1-0,Dunkerque
+Sat Jan 13 2024,Paris FC,2-1,0-0,Annecy
+Sat Jan 13 2024,Quevilly Rouen,0-1,0-0,Guingamp
+Sat Jan 13 2024,Rodez,2-1,0-0,Pau FC
+Sat Jan 13 2024,Troyes,3-1,1-1,Ajaccio
+Sat Jan 13 2024,Valenciennes,0-1,0-1,Amiens
+Mon Jan 15 2024,Auxerre,3-1,1-1,Bordeaux
+Tue Jan 23 2024,Amiens,1-0,0-0,Annecy
+Tue Jan 23 2024,Angers,3-2,2-1,Quevilly Rouen
+Tue Jan 23 2024,Bastia,1-2,1-0,Caen
+Tue Jan 23 2024,Bordeaux,3-1,0-0,Valenciennes
+Tue Jan 23 2024,Concarneau,1-0,0-0,Troyes
+Tue Jan 23 2024,Dunkerque,2-0,1-0,Ajaccio
+Tue Jan 23 2024,Grenoble,1-1,1-1,Auxerre
+Tue Jan 23 2024,Guingamp,3-3,3-3,Rodez
+Tue Jan 23 2024,Laval,1-1,1-0,Paris FC
+Tue Jan 23 2024,Pau FC,0-1,0-1,St Etienne
+Sat Jan 27 2024,St Etienne,0-1,0-1,Amiens
+Sat Jan 27 2024,Ajaccio,1-0,1-0,Concarneau
+Sat Jan 27 2024,Annecy,0-0,0-0,Pau FC
+Sat Jan 27 2024,Auxerre,1-1,1-1,Guingamp
+Sat Jan 27 2024,Caen,0-0,0-0,Troyes
+Sat Jan 27 2024,Paris FC,1-2,0-1,Dunkerque
+Sat Jan 27 2024,Quevilly Rouen,1-1,0-0,Grenoble
+Sat Jan 27 2024,Rodez,1-2,0-0,Laval
+Sat Jan 27 2024,Valenciennes,3-1,1-1,Bastia
+Mon Jan 29 2024,Bordeaux,1-0,0-0,Angers
+Sat Feb 3 2024,Dunkerque,1-0,0-0,St Etienne
+Sat Feb 3 2024,Amiens,1-1,0-0,Paris FC
+Sat Feb 3 2024,Angers,2-1,1-1,Rodez
+Sat Feb 3 2024,Concarneau,1-0,0-0,Valenciennes
+Sat Feb 3 2024,Grenoble,5-1,2-0,Caen
+Sat Feb 3 2024,Guingamp,1-4,1-2,Annecy
+Sat Feb 3 2024,Laval,2-4,0-2,Quevilly Rouen
+Sat Feb 3 2024,Pau FC,2-2,1-1,Auxerre
+Sat Feb 3 2024,Troyes,2-1,0-0,Bordeaux
+Mon Feb 5 2024,Bastia,1-0,0-0,Ajaccio
+Sat Feb 10 2024,Auxerre,1-0,0-0,Angers
+Sat Feb 10 2024,Ajaccio,3-0,1-0,Guingamp
+Sat Feb 10 2024,Annecy,0-3,0-0,Concarneau
+Sat Feb 10 2024,Bordeaux,1-0,1-0,Grenoble
+Sat Feb 10 2024,Caen,2-0,0-0,Amiens
+Sat Feb 10 2024,Paris FC,1-1,0-0,Pau FC
+Sat Feb 10 2024,Quevilly Rouen,0-1,0-1,Bastia
+Sat Feb 10 2024,Rodez,0-0,0-0,Dunkerque
+Sat Feb 10 2024,Valenciennes,1-1,0-0,Laval
+Mon Feb 12 2024,St Etienne,5-0,2-0,Troyes
+Sat Feb 17 2024,Angers,0-3,0-2,St Etienne
+Sat Feb 17 2024,Annecy,0-2,0-1,Auxerre
+Sat Feb 17 2024,Bastia,0-2,0-1,Rodez
+Sat Feb 17 2024,Concarneau,2-2,1-0,Paris FC
+Sat Feb 17 2024,Dunkerque,2-1,1-1,Valenciennes
+Sat Feb 17 2024,Guingamp,1-0,1-0,Caen
+Sat Feb 17 2024,Laval,1-1,1-0,Ajaccio
+Sat Feb 17 2024,Pau FC,0-2,0-2,Quevilly Rouen
+Sat Feb 17 2024,Troyes,3-1,1-0,Grenoble
+Mon Feb 19 2024,Amiens,1-1,1-0,Bordeaux
+Sat Feb 24 2024,St Etienne,2-1,2-0,Annecy
+Sat Feb 24 2024,Ajaccio,0-0,0-0,Amiens
+Sat Feb 24 2024,Auxerre,1-1,1-0,Bastia
+Sat Feb 24 2024,Bordeaux,1-0,1-0,Guingamp
+Sat Feb 24 2024,Concarneau,1-3,0-1,Laval
+Sat Feb 24 2024,Grenoble,0-1,0-1,Pau FC
+Sat Feb 24 2024,Quevilly Rouen,0-0,0-0,Paris FC
+Sat Feb 24 2024,Troyes,1-2,1-1,Dunkerque
+Sat Feb 24 2024,Valenciennes,0-2,0-1,Rodez
+Mon Feb 26 2024,Caen,2-0,1-0,Angers
+Sat Mar 2 2024,Paris FC,0-0,0-0,St Etienne
+Sat Mar 2 2024,Annecy,0-0,0-0,Quevilly Rouen
+Sat Mar 2 2024,Auxerre,0-0,0-0,Valenciennes
+Sat Mar 2 2024,Bastia,1-0,1-0,Grenoble
+Sat Mar 2 2024,Dunkerque,2-2,1-1,Concarneau
+Sat Mar 2 2024,Guingamp,0-0,0-0,Troyes
+Sat Mar 2 2024,Laval,1-1,1-0,Amiens
+Sat Mar 2 2024,Pau FC,2-3,0-1,Caen
+Sat Mar 2 2024,Rodez,2-2,2-1,Bordeaux
+Mon Mar 4 2024,Angers,3-1,1-1,Ajaccio
+Sat Mar 9 2024,St Etienne,1-0,0-0,Auxerre
+Sat Mar 9 2024,Ajaccio,1-3,1-1,Annecy
+Sat Mar 9 2024,Amiens,1-1,1-1,Rodez
+Sat Mar 9 2024,Bordeaux,0-0,0-0,Quevilly Rouen
+Sat Mar 9 2024,Caen,0-1,0-0,Paris FC
+Sat Mar 9 2024,Concarneau,2-3,0-1,Guingamp
+Sat Mar 9 2024,Dunkerque,1-0,0-0,Pau FC
+Sat Mar 9 2024,Troyes,2-0,1-0,Bastia
+Sat Mar 9 2024,Valenciennes,0-0,0-0,Angers
+Mon Mar 11 2024,Grenoble,0-2,0-1,Laval
+Sat Mar 16 2024,Auxerre,2-1,0-1,Caen
+Sat Mar 16 2024,Angers,1-3,1-0,Amiens
+Sat Mar 16 2024,Annecy,3-1,2-1,Bordeaux
+Sat Mar 16 2024,Bastia,0-4,0-2,St Etienne
+Sat Mar 16 2024,Guingamp,3-0,2-0,Valenciennes
+Sat Mar 16 2024,Laval,1-2,0-2,Dunkerque
+Sat Mar 16 2024,Paris FC,2-0,0-0,Ajaccio
+Sat Mar 16 2024,Pau FC,2-0,0-0,Concarneau
+Sat Mar 16 2024,Quevilly Rouen,1-1,0-1,Troyes
+Sat Mar 16 2024,Rodez,3-1,1-1,Grenoble
+Sat Mar 30 2024,Valenciennes,0-2,0-2,St Etienne
+Sat Mar 30 2024,Amiens,2-3,1-0,Pau FC
+Sat Mar 30 2024,Bordeaux,3-3,1-2,Paris FC
+Sat Mar 30 2024,Concarneau,2-4,2-0,Angers
+Sat Mar 30 2024,Dunkerque,0-2,0-0,Annecy
+Sat Mar 30 2024,Grenoble,0-0,0-0,Guingamp
+Sat Mar 30 2024,Laval,1-2,0-0,Bastia
+Sat Mar 30 2024,Quevilly Rouen,1-2,0-2,Caen
+Sat Mar 30 2024,Troyes,2-3,0-1,Rodez
+Mon Apr 1 2024,Ajaccio,0-1,0-1,Auxerre
+Sat Apr 6 2024,St Etienne,1-0,1-0,Concarneau
+Sat Apr 6 2024,Angers,1-1,0-1,Laval
+Sat Apr 6 2024,Annecy,2-1,0-1,Valenciennes
+Sat Apr 6 2024,Bastia,1-1,1-0,Dunkerque
+Sat Apr 6 2024,Caen,0-1,0-1,Bordeaux
+Sat Apr 6 2024,Guingamp,0-0,0-0,Amiens
+Sat Apr 6 2024,Paris FC,2-1,0-1,Grenoble
+Sat Apr 6 2024,Pau FC,1-1,1-1,Ajaccio
+Sat Apr 6 2024,Rodez,3-3,2-1,Quevilly Rouen
+Mon Apr 8 2024,Auxerre,2-0,0-0,Troyes
+Sat Apr 13 2024,Ajaccio,2-0,2-0,St Etienne
+Sat Apr 13 2024,Bordeaux,2-3,1-3,Bastia
+Sat Apr 13 2024,Caen,1-0,1-0,Rodez
+Sat Apr 13 2024,Concarneau,0-0,0-0,Amiens
+Sat Apr 13 2024,Dunkerque,0-1,0-0,Guingamp
+Sat Apr 13 2024,Laval,0-3,0-3,Annecy
+Sat Apr 13 2024,Quevilly Rouen,4-3,1-1,Auxerre
+Sat Apr 13 2024,Troyes,1-2,0-1,Paris FC
+Sat Apr 13 2024,Valenciennes,1-4,0-2,Pau FC
+Mon Apr 15 2024,Grenoble,0-0,0-0,Angers
+Sat Apr 20 2024,Rodez,2-0,0-0,Auxerre
+Sat Apr 20 2024,Ajaccio,2-1,2-0,Caen
+Sat Apr 20 2024,Amiens,0-1,0-0,Dunkerque
+Sat Apr 20 2024,Angers,2-1,0-1,Troyes
+Sat Apr 20 2024,Annecy,0-1,0-0,Grenoble
+Sat Apr 20 2024,Concarneau,0-0,0-0,Quevilly Rouen
+Sat Apr 20 2024,Guingamp,0-1,0-1,Bastia
+Sat Apr 20 2024,Paris FC,2-1,2-1,Valenciennes
+Sat Apr 20 2024,Pau FC,3-0,2-0,Laval
+Sat Apr 20 2024,St Etienne,2-1,0-1,Bordeaux
+Tue Apr 23 2024,Auxerre,4-0,3-0,Laval
+Tue Apr 23 2024,Bastia,2-0,0-0,Concarneau
+Tue Apr 23 2024,Bordeaux,2-0,1-0,Dunkerque
+Tue Apr 23 2024,Caen,2-1,1-0,Annecy
+Tue Apr 23 2024,Grenoble,0-2,0-0,St Etienne
+Tue Apr 23 2024,Guingamp,1-2,1-1,Angers
+Tue Apr 23 2024,Quevilly Rouen,3-3,1-3,Amiens
+Tue Apr 23 2024,Rodez,1-0,1-0,Paris FC
+Tue Apr 23 2024,Troyes,2-2,0-1,Pau FC
+Tue Apr 23 2024,Valenciennes,1-0,0-0,Ajaccio
+Sat Apr 27 2024,St Etienne,1-0,1-0,Caen
+Sat Apr 27 2024,Ajaccio,1-1,0-1,Quevilly Rouen
+Sat Apr 27 2024,Amiens,0-0,0-0,Troyes
+Sat Apr 27 2024,Annecy,3-2,3-0,Bastia
+Sat Apr 27 2024,Concarneau,1-2,0-0,Rodez
+Sat Apr 27 2024,Laval,1-0,0-0,Bordeaux
+Sat Apr 27 2024,Paris FC,3-1,1-1,Angers
+Sat Apr 27 2024,Pau FC,1-2,0-1,Guingamp
+Sat Apr 27 2024,Valenciennes,2-0,1-0,Grenoble
+Mon Apr 29 2024,Dunkerque,1-3,1-0,Auxerre
+Fri May 3 2024,Angers,2-1,1-0,Pau FC
+Fri May 3 2024,Bastia,1-2,0-2,Amiens
+Fri May 3 2024,Bordeaux,4-0,2-0,Ajaccio
+Fri May 3 2024,Caen,1-0,0-0,Laval
+Fri May 3 2024,Grenoble,2-1,2-1,Concarneau
+Fri May 3 2024,Quevilly Rouen,1-2,1-0,Dunkerque
+Fri May 3 2024,Rodez,1-3,0-1,Annecy
+Sat May 4 2024,Auxerre,2-0,1-0,Paris FC
+Sat May 4 2024,Guingamp,2-2,0-2,St Etienne
+Fri May 10 2024,Ajaccio,1-2,0-1,Grenoble
+Fri May 10 2024,Amiens,0-0,0-0,Auxerre
+Fri May 10 2024,Annecy,1-2,1-1,Angers
+Fri May 10 2024,Concarneau,4-2,1-1,Bordeaux
+Fri May 10 2024,Dunkerque,2-2,0-1,Caen
+Fri May 10 2024,Laval,1-2,1-0,Troyes
+Fri May 10 2024,Paris FC,2-1,1-0,Guingamp
+Fri May 10 2024,Pau FC,1-2,1-0,Bastia
+Fri May 10 2024,St Etienne,1-1,1-0,Rodez
+Fri May 10 2024,Valenciennes,2-1,2-0,Quevilly Rouen
+Fri May 17 2024,Angers,0-0,0-0,Dunkerque
+Fri May 17 2024,Auxerre,4-1,1-1,Concarneau
+Fri May 17 2024,Bastia,1-1,1-1,Paris FC
+Fri May 17 2024,Bordeaux,3-2,2-0,Pau FC
+Fri May 17 2024,Caen,3-0,1-0,Valenciennes
+Fri May 17 2024,Grenoble,1-3,1-0,Amiens
+Fri May 17 2024,Guingamp,0-1,0-1,Laval
+Fri May 17 2024,Quevilly Rouen,2-1,0-0,St Etienne
+Fri May 17 2024,Rodez,2-0,2-0,Ajaccio
+Fri May 17 2024,Troyes,1-1,1-1,Annecy

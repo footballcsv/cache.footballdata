@@ -1,0 +1,241 @@
+Date,Team 1,FT,HT,Team 2
+Sat Apr 1 2023,Malmo FF,1-0,?,Kalmar
+Sat Apr 1 2023,Djurgarden,3-1,?,Brommapojkarna
+Sun Apr 2 2023,Hammarby,3-1,?,Degerfors
+Sun Apr 2 2023,Norrkoping,1-1,?,Sirius
+Sun Apr 2 2023,Goteborg,0-1,?,Varnamo
+Sun Apr 2 2023,Halmstad,2-1,?,AIK
+Mon Apr 3 2023,Mjallby,2-2,?,Varberg
+Mon Apr 3 2023,Elfsborg,0-2,?,Hacken
+Sat Apr 8 2023,Brommapojkarna,1-2,?,Malmo FF
+Sat Apr 8 2023,Degerfors,3-1,?,Halmstad
+Sun Apr 9 2023,Hacken,3-1,?,Hammarby
+Sun Apr 9 2023,Kalmar,2-0,?,Goteborg
+Sun Apr 9 2023,Sirius,0-0,?,Djurgarden
+Mon Apr 10 2023,Varnamo,0-1,?,Mjallby
+Mon Apr 10 2023,AIK,0-3,?,Norrkoping
+Mon Apr 10 2023,Varberg,0-0,?,Elfsborg
+Sat Apr 15 2023,Elfsborg,5-0,?,Brommapojkarna
+Sat Apr 15 2023,Hacken,1-3,?,Kalmar
+Sun Apr 16 2023,AIK,2-0,?,Hammarby
+Sun Apr 16 2023,Norrkoping,2-1,?,Varnamo
+Sun Apr 16 2023,Halmstad,2-0,?,Djurgarden
+Sun Apr 16 2023,Mjallby,2-0,?,Degerfors
+Mon Apr 17 2023,Varberg,1-1,?,Sirius
+Mon Apr 17 2023,Goteborg,0-1,?,Malmo FF
+Sat Apr 22 2023,Hammarby,2-0,?,Varberg
+Sat Apr 22 2023,Degerfors,1-2,?,Elfsborg
+Sun Apr 23 2023,Djurgarden,1-0,?,Goteborg
+Sun Apr 23 2023,Kalmar,2-0,?,Halmstad
+Sun Apr 23 2023,Sirius,1-4,?,Hacken
+Mon Apr 24 2023,Brommapojkarna,2-0,?,Mjallby
+Mon Apr 24 2023,Varnamo,1-0,?,AIK
+Mon Apr 24 2023,Malmo FF,3-0,?,Norrkoping
+Sat Apr 29 2023,AIK,0-0,?,Sirius
+Sat Apr 29 2023,Mjallby,0-1,?,Elfsborg
+Sat Apr 29 2023,Hacken,3-1,?,Varnamo
+Sat Apr 29 2023,Halmstad,0-2,?,Brommapojkarna
+Sun Apr 30 2023,Malmo FF,4-2,?,Hammarby
+Sun Apr 30 2023,Varberg,0-0,?,Kalmar
+Sun Apr 30 2023,Degerfors,2-1,?,Djurgarden
+Mon May 1 2023,Goteborg,1-1,?,Norrkoping
+Wed May 3 2023,Elfsborg,6-1,?,Halmstad
+Wed May 3 2023,Hacken,4-1,?,Djurgarden
+Wed May 3 2023,Kalmar,2-2,?,Sirius
+Wed May 3 2023,Mjallby,0-0,?,AIK
+Thu May 4 2023,Goteborg,6-0,?,Degerfors
+Thu May 4 2023,Norrkoping,2-0,?,Hammarby
+Thu May 4 2023,Varberg,0-6,?,Malmo FF
+Thu May 4 2023,Varnamo,0-1,?,Brommapojkarna
+Sun May 7 2023,Malmo FF,3-1,?,AIK
+Sun May 7 2023,Halmstad,1-0,?,Hacken
+Mon May 8 2023,Brommapojkarna,0-0,?,Goteborg
+Mon May 8 2023,Degerfors,0-2,?,Norrkoping
+Mon May 8 2023,Sirius,3-4,?,Elfsborg
+Mon May 8 2023,Djurgarden,3-1,?,Kalmar
+Tue May 9 2023,Hammarby,0-0,?,Mjallby
+Tue May 9 2023,Varnamo,3-1,?,Varberg
+Sat May 13 2023,Hacken,6-1,?,Degerfors
+Sat May 13 2023,Varberg,1-3,?,Norrkoping
+Sun May 14 2023,Elfsborg,2-0,?,Varnamo
+Sun May 14 2023,Hammarby,4-3,?,Djurgarden
+Sun May 14 2023,Mjallby,3-0,?,Sirius
+Sun May 14 2023,Halmstad,0-1,?,Malmo FF
+Sun May 14 2023,Kalmar,1-3,?,Brommapojkarna
+Mon May 15 2023,AIK,2-2,?,Goteborg
+Sat May 20 2023,Degerfors,2-1,?,AIK
+Sun May 21 2023,Brommapojkarna,2-1,?,Varberg
+Sun May 21 2023,Djurgarden,2-0,?,Mjallby
+Sun May 21 2023,Malmo FF,2-2,?,Hacken
+Sun May 21 2023,Goteborg,1-1,?,Hammarby
+Sun May 21 2023,Sirius,1-2,?,Halmstad
+Mon May 22 2023,Varnamo,0-1,?,Kalmar
+Mon May 22 2023,Norrkoping,1-2,?,Elfsborg
+Wed May 24 2023,Djurgarden,1-0,?,Hacken
+Thu May 25 2023,Degerfors,2-2,?,Hammarby
+Sat May 27 2023,Mjallby,0-2,?,Halmstad
+Sat May 27 2023,Brommapojkarna,1-2,?,Sirius
+Sun May 28 2023,Djurgarden,1-0,?,AIK
+Sun May 28 2023,Kalmar,2-1,?,Norrkoping
+Sun May 28 2023,Elfsborg,3-0,?,Malmo FF
+Mon May 29 2023,Degerfors,1-1,?,Varberg
+Mon May 29 2023,Hammarby,0-2,?,Varnamo
+Mon May 29 2023,Hacken,4-1,?,Goteborg
+Sat Jun 3 2023,Goteborg,0-1,?,Mjallby
+Sat Jun 3 2023,Norrkoping,0-2,?,Brommapojkarna
+Sun Jun 4 2023,AIK,1-1,?,Kalmar
+Sun Jun 4 2023,Halmstad,0-0,?,Hammarby
+Sun Jun 4 2023,Elfsborg,1-1,?,Djurgarden
+Sun Jun 4 2023,Sirius,2-0,?,Varnamo
+Mon Jun 5 2023,Varberg,0-2,?,Hacken
+Mon Jun 5 2023,Malmo FF,5-0,?,Degerfors
+Fri Jun 9 2023,Hammarby,2-1,?,Brommapojkarna
+Sat Jun 10 2023,Kalmar,2-1,?,Degerfors
+Sat Jun 10 2023,Varnamo,1-3,?,Malmo FF
+Sat Jun 10 2023,Varberg,1-2,?,Halmstad
+Sun Jun 11 2023,AIK,1-2,?,Elfsborg
+Sun Jun 11 2023,Sirius,2-0,?,Goteborg
+Sun Jun 11 2023,Djurgarden,2-2,?,Norrkoping
+Sun Jun 11 2023,Hacken,3-0,?,Mjallby
+Sat Jul 1 2023,Brommapojkarna,0-2,?,AIK
+Sat Jul 1 2023,Degerfors,0-2,?,Varnamo
+Sat Jul 1 2023,Malmo FF,3-0,?,Sirius
+Sun Jul 2 2023,Halmstad,0-0,?,Goteborg
+Sun Jul 2 2023,Norrkoping,2-2,?,Hacken
+Sun Jul 2 2023,Djurgarden,2-0,?,Varberg
+Mon Jul 3 2023,Elfsborg,2-0,?,Hammarby
+Mon Jul 3 2023,Mjallby,1-1,?,Kalmar
+Sat Jul 8 2023,AIK,1-2,?,Hacken
+Sat Jul 8 2023,Varnamo,1-2,?,Djurgarden
+Sat Jul 8 2023,Brommapojkarna,1-2,?,Degerfors
+Sun Jul 9 2023,Malmo FF,1-2,?,Mjallby
+Sun Jul 9 2023,Sirius,1-2,?,Hammarby
+Sun Jul 9 2023,Kalmar,0-4,?,Elfsborg
+Mon Jul 10 2023,Goteborg,1-2,?,Varberg
+Mon Jul 10 2023,Norrkoping,1-2,?,Halmstad
+Sat Jul 15 2023,Halmstad,2-2,?,Varnamo
+Sat Jul 15 2023,Degerfors,0-3,?,Sirius
+Sat Jul 15 2023,Hacken,4-2,?,Brommapojkarna
+Sun Jul 16 2023,Elfsborg,1-1,?,Goteborg
+Sun Jul 16 2023,Hammarby,3-1,?,Kalmar
+Sun Jul 16 2023,Mjallby,1-2,?,Norrkoping
+Mon Jul 17 2023,Djurgarden,2-0,?,Malmo FF
+Mon Jul 17 2023,Varberg,1-2,?,AIK
+Fri Jul 21 2023,Brommapojkarna,1-0,?,Hammarby
+Sat Jul 22 2023,Djurgarden,0-4,?,Elfsborg
+Sat Jul 22 2023,Varnamo,1-0,?,Hacken
+Sun Jul 23 2023,AIK,0-0,?,Malmo FF
+Sun Jul 23 2023,Norrkoping,1-0,?,Degerfors
+Sun Jul 23 2023,Goteborg,0-0,?,Halmstad
+Sun Jul 23 2023,Kalmar,1-0,?,Varberg
+Mon Jul 24 2023,Sirius,2-3,?,Mjallby
+Sat Jul 29 2023,Hacken,3-1,?,Elfsborg
+Sat Jul 29 2023,Degerfors,2-0,?,Brommapojkarna
+Sat Jul 29 2023,Halmstad,0-5,?,Varberg
+Sun Jul 30 2023,Hammarby,2-1,?,Norrkoping
+Sun Jul 30 2023,Mjallby,0-1,?,Djurgarden
+Sun Jul 30 2023,Goteborg,2-0,?,Kalmar
+Mon Jul 31 2023,Malmo FF,3-1,?,Varnamo
+Mon Jul 31 2023,Sirius,0-1,?,AIK
+Sat Aug 5 2023,Brommapojkarna,0-2,?,Varnamo
+Sun Aug 6 2023,Elfsborg,1-0,?,Sirius
+Sun Aug 6 2023,Kalmar,1-1,?,AIK
+Mon Aug 7 2023,Malmo FF,3-0,?,Halmstad
+Mon Aug 7 2023,Norrkoping,3-0,?,Goteborg
+Mon Aug 7 2023,Varberg,0-3,?,Mjallby
+Sat Aug 12 2023,AIK,2-2,?,Brommapojkarna
+Sun Aug 13 2023,Goteborg,2-1,?,Djurgarden
+Sun Aug 13 2023,Sirius,3-0,?,Kalmar
+Sun Aug 13 2023,Hacken,2-0,?,Varberg
+Sun Aug 13 2023,Halmstad,1-3,?,Norrkoping
+Sun Aug 13 2023,Hammarby,1-0,?,Elfsborg
+Mon Aug 14 2023,Mjallby,1-0,?,Malmo FF
+Mon Aug 14 2023,Varnamo,0-1,?,Degerfors
+Sat Aug 19 2023,Brommapojkarna,3-1,?,Halmstad
+Sat Aug 19 2023,Degerfors,1-2,?,Goteborg
+Sat Aug 19 2023,Varberg,0-3,?,Varnamo
+Sun Aug 20 2023,Hacken,3-2,?,Sirius
+Sun Aug 20 2023,Malmo FF,0-0,?,Djurgarden
+Sun Aug 20 2023,Elfsborg,2-0,?,Mjallby
+Sun Aug 20 2023,Kalmar,0-0,?,Hammarby
+Mon Aug 21 2023,Norrkoping,3-1,?,AIK
+Sun Aug 27 2023,Brommapojkarna,2-3,?,Kalmar
+Sun Aug 27 2023,Mjallby,0-3,?,Hammarby
+Sun Aug 27 2023,Varnamo,0-0,?,Halmstad
+Sun Aug 27 2023,Djurgarden,4-1,?,Degerfors
+Sun Aug 27 2023,Goteborg,4-2,?,Hacken
+Mon Aug 28 2023,AIK,3-0,?,Varberg
+Mon Aug 28 2023,Elfsborg,3-2,?,Norrkoping
+Mon Aug 28 2023,Sirius,1-3,?,Malmo FF
+Sat Sep 2 2023,Halmstad,2-1,?,Sirius
+Sat Sep 2 2023,Varnamo,1-0,?,Elfsborg
+Sun Sep 3 2023,Degerfors,1-0,?,Hacken
+Sun Sep 3 2023,Hammarby,4-2,?,AIK
+Sun Sep 3 2023,Kalmar,0-2,?,Mjallby
+Sun Sep 3 2023,Malmo FF,2-2,?,Goteborg
+Sun Sep 3 2023,Norrkoping,0-2,?,Djurgarden
+Sun Sep 3 2023,Varberg,4-3,?,Brommapojkarna
+Sat Sep 16 2023,Goteborg,1-0,?,Brommapojkarna
+Sat Sep 16 2023,Sirius,7-0,?,Varberg
+Sat Sep 16 2023,Djurgarden,1-2,?,Varnamo
+Sun Sep 17 2023,Hammarby,1-3,?,Malmo FF
+Sun Sep 17 2023,Elfsborg,0-3,?,Kalmar
+Sun Sep 17 2023,Hacken,3-2,?,Halmstad
+Mon Sep 18 2023,Norrkoping,0-2,?,Mjallby
+Mon Sep 18 2023,AIK,2-0,?,Degerfors
+Sat Sep 23 2023,Degerfors,1-2,?,Malmo FF
+Sat Sep 23 2023,Brommapojkarna,2-2,?,Norrkoping
+Sun Sep 24 2023,AIK,2-0,?,Djurgarden
+Sun Sep 24 2023,Mjallby,0-1,?,Goteborg
+Sun Sep 24 2023,Kalmar,1-0,?,Hacken
+Sun Sep 24 2023,Varberg,0-1,?,Hammarby
+Mon Sep 25 2023,Halmstad,0-1,?,Elfsborg
+Mon Sep 25 2023,Varnamo,0-1,?,Sirius
+Sat Sep 30 2023,Djurgarden,1-0,?,Halmstad
+Sat Sep 30 2023,Norrkoping,1-0,?,Kalmar
+Sun Oct 1 2023,Hacken,2-0,?,AIK
+Sun Oct 1 2023,Sirius,3-2,?,Degerfors
+Sun Oct 1 2023,Hammarby,1-1,?,Goteborg
+Sun Oct 1 2023,Mjallby,2-3,?,Varnamo
+Mon Oct 2 2023,Elfsborg,2-1,?,Varberg
+Mon Oct 2 2023,Malmo FF,2-1,?,Brommapojkarna
+Sat Oct 7 2023,AIK,1-0,?,Mjallby
+Sat Oct 7 2023,Halmstad,0-0,?,Degerfors
+Sat Oct 7 2023,Goteborg,0-1,?,Sirius
+Sun Oct 8 2023,Brommapojkarna,0-3,?,Elfsborg
+Sun Oct 8 2023,Kalmar,1-0,?,Malmo FF
+Sun Oct 8 2023,Varnamo,2-1,?,Norrkoping
+Sun Oct 8 2023,Hammarby,2-2,?,Hacken
+Sun Oct 8 2023,Varberg,0-1,?,Djurgarden
+Sat Oct 21 2023,Degerfors,1-3,?,Kalmar
+Sat Oct 21 2023,Sirius,3-2,?,Brommapojkarna
+Sun Oct 22 2023,Djurgarden,0-0,?,Hammarby
+Sun Oct 22 2023,Halmstad,1-1,?,Mjallby
+Sun Oct 22 2023,Hacken,4-1,?,Norrkoping
+Sun Oct 22 2023,Malmo FF,5-0,?,Varberg
+Mon Oct 23 2023,Varnamo,3-1,?,Goteborg
+Mon Oct 23 2023,Elfsborg,3-0,?,AIK
+Sat Oct 28 2023,Brommapojkarna,1-2,?,Djurgarden
+Sat Oct 28 2023,Varberg,1-1,?,Degerfors
+Sun Oct 29 2023,Kalmar,1-3,?,Varnamo
+Sun Oct 29 2023,Mjallby,2-1,?,Hacken
+Sun Oct 29 2023,Norrkoping,0-1,?,Malmo FF
+Sun Oct 29 2023,AIK,1-1,?,Halmstad
+Mon Oct 30 2023,Hammarby,2-2,?,Sirius
+Mon Oct 30 2023,Goteborg,1-2,?,Elfsborg
+Sat Nov 4 2023,Varnamo,0-0,?,Hammarby
+Sat Nov 4 2023,Djurgarden,2-4,?,Sirius
+Sun Nov 5 2023,Hacken,4-2,?,Malmo FF
+Sun Nov 5 2023,Halmstad,3-0,?,Kalmar
+Sun Nov 5 2023,Elfsborg,2-2,?,Degerfors
+Sun Nov 5 2023,Mjallby,1-2,?,Brommapojkarna
+Mon Nov 6 2023,Norrkoping,4-3,?,Varberg
+Mon Nov 6 2023,Goteborg,1-1,?,AIK
+Sun Nov 12 2023,AIK,3-1,?,Varnamo
+Sun Nov 12 2023,Brommapojkarna,2-1,?,Hacken
+Sun Nov 12 2023,Degerfors,1-2,?,Mjallby
+Sun Nov 12 2023,Hammarby,2-2,?,Halmstad
+Sun Nov 12 2023,Kalmar,2-1,?,Djurgarden
+Sun Nov 12 2023,Malmo FF,1-0,?,Elfsborg
+Sun Nov 12 2023,Sirius,2-0,?,Norrkoping
+Sun Nov 12 2023,Varberg,1-2,?,Goteborg

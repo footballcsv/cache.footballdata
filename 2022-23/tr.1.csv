@@ -1,0 +1,343 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 5 2022,Istanbulspor,0-2,0-1,Trabzonspor
+Sat Aug 6 2022,Sivasspor,1-1,0-1,Gaziantep
+Sat Aug 6 2022,Besiktas,1-0,0-0,Kayserispor
+Sun Aug 7 2022,Giresunspor,2-3,0-2,Ad. Demirspor
+Sun Aug 7 2022,Karagumruk,2-4,0-2,Alanyaspor
+Sun Aug 7 2022,Antalyaspor,0-1,0-0,Galatasaray
+Mon Aug 8 2022,Buyuksehyr,4-0,2-0,Kasimpasa
+Mon Aug 8 2022,Ankaragucu,0-0,0-0,Konyaspor
+Mon Aug 8 2022,Fenerbahce,3-3,2-1,Umraniyespor
+Fri Aug 12 2022,Trabzonspor,1-0,0-0,Hatayspor
+Sat Aug 13 2022,Kayserispor,1-0,1-0,Istanbulspor
+Sat Aug 13 2022,Ad. Demirspor,3-0,1-0,Sivasspor
+Sat Aug 13 2022,Galatasaray,0-1,0-0,Giresunspor
+Sun Aug 14 2022,Gaziantep,1-0,0-0,Ankaragucu
+Sun Aug 14 2022,Umraniyespor,0-1,0-0,Antalyaspor
+Sun Aug 14 2022,Alanyaspor,3-3,1-3,Besiktas
+Mon Aug 15 2022,Konyaspor,0-0,0-0,Buyuksehyr
+Mon Aug 15 2022,Kasimpasa,0-6,0-3,Fenerbahce
+Fri Aug 19 2022,Umraniyespor,0-1,0-0,Galatasaray
+Sat Aug 20 2022,Giresunspor,1-0,0-0,Kasimpasa
+Sat Aug 20 2022,Hatayspor,1-2,1-1,Gaziantep
+Sat Aug 20 2022,Antalyaspor,5-2,2-1,Trabzonspor
+Sun Aug 21 2022,Buyuksehyr,2-0,1-0,Kayserispor
+Sun Aug 21 2022,Besiktas,4-1,2-0,Karagumruk
+Mon Aug 22 2022,Istanbulspor,0-4,0-2,Konyaspor
+Mon Aug 22 2022,Sivasspor,1-1,1-0,Alanyaspor
+Mon Aug 22 2022,Fenerbahce,4-2,2-0,Ad. Demirspor
+Fri Aug 26 2022,Gaziantep,5-2,1-2,Antalyaspor
+Sat Aug 27 2022,Karagumruk,4-1,2-0,Ankaragucu
+Sat Aug 27 2022,Ad. Demirspor,1-0,1-0,Umraniyespor
+Sat Aug 27 2022,Alanyaspor,0-1,0-0,Istanbulspor
+Sun Aug 28 2022,Kasimpasa,1-0,1-0,Hatayspor
+Sun Aug 28 2022,Kayserispor,3-0,1-0,Giresunspor
+Sun Aug 28 2022,Trabzonspor,0-0,0-0,Galatasaray
+Mon Aug 29 2022,Konyaspor,1-0,0-0,Fenerbahce
+Mon Aug 29 2022,Besiktas,3-1,3-0,Sivasspor
+Fri Sep 2 2022,Umraniyespor,0-1,0-0,Trabzonspor
+Sat Sep 3 2022,Buyuksehyr,2-0,1-0,Alanyaspor
+Sat Sep 3 2022,Sivasspor,0-0,0-0,Karagumruk
+Sat Sep 3 2022,Fenerbahce,2-0,1-0,Kayserispor
+Sat Sep 3 2022,Giresunspor,0-1,0-0,Konyaspor
+Sun Sep 4 2022,Hatayspor,1-1,1-0,Ad. Demirspor
+Sun Sep 4 2022,Ankaragucu,2-3,1-2,Besiktas
+Sun Sep 4 2022,Antalyaspor,0-2,0-1,Kasimpasa
+Mon Sep 5 2022,Galatasaray,2-1,1-1,Gaziantep
+Fri Sep 9 2022,Alanyaspor,2-1,0-0,Ankaragucu
+Sat Sep 10 2022,Konyaspor,1-0,0-0,Hatayspor
+Sat Sep 10 2022,Karagumruk,1-1,0-0,Giresunspor
+Sun Sep 11 2022,Sivasspor,1-1,0-0,Istanbulspor
+Sun Sep 11 2022,Gaziantep,1-1,0-0,Umraniyespor
+Sun Sep 11 2022,Kasimpasa,2-3,1-1,Galatasaray
+Sun Sep 11 2022,Kayserispor,1-0,0-0,Antalyaspor
+Mon Sep 12 2022,Besiktas,0-1,0-0,Buyuksehyr
+Mon Sep 12 2022,Ad. Demirspor,3-2,1-1,Trabzonspor
+Fri Sep 16 2022,Galatasaray,2-1,1-1,Konyaspor
+Fri Sep 16 2022,Hatayspor,0-4,0-2,Kayserispor
+Sat Sep 17 2022,Umraniyespor,1-2,0-1,Kasimpasa
+Sat Sep 17 2022,Antalyaspor,0-3,0-1,Ad. Demirspor
+Sat Sep 17 2022,Istanbulspor,2-2,1-2,Besiktas
+Sun Sep 18 2022,Buyuksehyr,0-0,0-0,Karagumruk
+Sun Sep 18 2022,Trabzonspor,3-2,2-2,Gaziantep
+Sun Sep 18 2022,Ankaragucu,2-1,2-0,Sivasspor
+Sun Sep 18 2022,Fenerbahce,5-0,3-0,Alanyaspor
+Sat Oct 1 2022,Kasimpasa,1-0,0-0,Gaziantep
+Sat Oct 1 2022,Ankaragucu,1-2,0-1,Buyuksehyr
+Sat Oct 1 2022,Kayserispor,1-2,1-0,Trabzonspor
+Sat Oct 1 2022,Ad. Demirspor,0-0,0-0,Galatasaray
+Sun Oct 2 2022,Alanyaspor,1-1,0-0,Giresunspor
+Sun Oct 2 2022,Sivasspor,1-2,1-2,Hatayspor
+Sun Oct 2 2022,Konyaspor,1-0,1-0,Umraniyespor
+Sun Oct 2 2022,Besiktas,0-0,0-0,Fenerbahce
+Mon Oct 3 2022,Karagumruk,1-2,1-0,Istanbulspor
+Fri Oct 7 2022,Gaziantep,1-1,0-0,Ad. Demirspor
+Sat Oct 8 2022,Istanbulspor,1-2,0-1,Ankaragucu
+Sat Oct 8 2022,Antalyaspor,1-1,0-0,Konyaspor
+Sat Oct 8 2022,Giresunspor,0-1,0-1,Besiktas
+Sun Oct 9 2022,Umraniyespor,2-2,0-1,Kayserispor
+Sun Oct 9 2022,Hatayspor,1-0,0-0,Alanyaspor
+Sun Oct 9 2022,Fenerbahce,5-4,2-2,Karagumruk
+Mon Oct 10 2022,Buyuksehyr,0-2,0-1,Sivasspor
+Mon Oct 10 2022,Trabzonspor,0-0,0-0,Kasimpasa
+Fri Oct 14 2022,Alanyaspor,3-2,1-0,Antalyaspor
+Sat Oct 15 2022,Karagumruk,3-0,2-0,Hatayspor
+Sat Oct 15 2022,Kasimpasa,1-4,0-2,Ad. Demirspor
+Sat Oct 15 2022,Kayserispor,2-1,2-0,Galatasaray
+Sat Oct 15 2022,Konyaspor,0-1,0-0,Gaziantep
+Sun Oct 16 2022,Buyuksehyr,2-0,1-0,Istanbulspor
+Sun Oct 16 2022,Besiktas,2-2,1-2,Trabzonspor
+Mon Oct 17 2022,Ankaragucu,0-3,0-2,Fenerbahce
+Mon Oct 17 2022,Sivasspor,3-0,2-0,Giresunspor
+Fri Oct 21 2022,Antalyaspor,2-1,1-1,Istanbulspor
+Sat Oct 22 2022,Umraniyespor,1-3,1-1,Karagumruk
+Sat Oct 22 2022,Trabzonspor,1-0,1-0,Sivasspor
+Sat Oct 22 2022,Fenerbahce,1-0,0-0,Buyuksehyr
+Sun Oct 23 2022,Kasimpasa,0-1,0-1,Kayserispor
+Sun Oct 23 2022,Ad. Demirspor,1-1,1-1,Konyaspor
+Sun Oct 23 2022,Galatasaray,2-2,2-0,Alanyaspor
+Mon Oct 24 2022,Giresunspor,1-1,0-0,Ankaragucu
+Mon Oct 24 2022,Hatayspor,2-1,0-1,Besiktas
+Fri Oct 28 2022,Karagumruk,0-2,0-0,Galatasaray
+Sat Oct 29 2022,Konyaspor,1-1,0-0,Kasimpasa
+Sat Oct 29 2022,Alanyaspor,2-0,1-0,Gaziantep
+Sun Oct 30 2022,Ankaragucu,4-1,1-0,Hatayspor
+Sun Oct 30 2022,Besiktas,5-2,2-1,Umraniyespor
+Sun Oct 30 2022,Kayserispor,2-2,0-1,Ad. Demirspor
+Sun Oct 30 2022,Istanbulspor,2-5,0-2,Fenerbahce
+Mon Oct 31 2022,Buyuksehyr,3-1,1-0,Giresunspor
+Mon Oct 31 2022,Sivasspor,0-2,0-2,Antalyaspor
+Fri Nov 4 2022,Kasimpasa,1-1,0-0,Ankaragucu
+Fri Nov 4 2022,Umraniyespor,3-1,2-0,Alanyaspor
+Sat Nov 5 2022,Giresunspor,3-2,1-1,Istanbulspor
+Sat Nov 5 2022,Galatasaray,2-1,1-1,Besiktas
+Sun Nov 6 2022,Gaziantep,1-2,0-1,Kayserispor
+Sun Nov 6 2022,Antalyaspor,4-2,3-2,Karagumruk
+Sun Nov 6 2022,Trabzonspor,2-2,2-1,Konyaspor
+Mon Nov 7 2022,Fenerbahce,1-0,0-0,Sivasspor
+Mon Nov 7 2022,Hatayspor,3-3,1-0,Buyuksehyr
+Fri Nov 11 2022,Alanyaspor,0-0,0-0,Ad. Demirspor
+Fri Nov 11 2022,Ankaragucu,1-1,0-0,Trabzonspor
+Sat Nov 12 2022,Sivasspor,2-2,1-1,Umraniyespor
+Sat Nov 12 2022,Fenerbahce,1-2,1-0,Giresunspor
+Sat Nov 12 2022,Buyuksehyr,0-7,0-3,Galatasaray
+Sun Nov 13 2022,Karagumruk,3-3,1-2,Gaziantep
+Sun Nov 13 2022,Istanbulspor,0-1,0-1,Hatayspor
+Sun Nov 13 2022,Kayserispor,1-2,1-2,Konyaspor
+Fri Dec 23 2022,Antalyaspor,0-2,0-0,Ankaragucu
+Fri Dec 23 2022,Umraniyespor,1-3,1-1,Buyuksehyr
+Sat Dec 24 2022,Hatayspor,1-1,0-0,Giresunspor
+Sat Dec 24 2022,Kasimpasa,1-2,1-1,Sivasspor
+Sat Dec 24 2022,Trabzonspor,2-0,0-0,Fenerbahce
+Sun Dec 25 2022,Ad. Demirspor,2-1,2-1,Karagumruk
+Sun Dec 25 2022,Gaziantep,1-1,0-0,Besiktas
+Sun Dec 25 2022,Konyaspor,2-2,1-0,Alanyaspor
+Sun Dec 25 2022,Galatasaray,2-1,2-0,Istanbulspor
+Tue Dec 27 2022,Ankaragucu,1-2,1-1,Umraniyespor
+Tue Dec 27 2022,Buyuksehyr,2-0,0-0,Antalyaspor
+Tue Dec 27 2022,Fenerbahce,4-0,2-0,Hatayspor
+Wed Dec 28 2022,Alanyaspor,3-1,2-0,Kayserispor
+Wed Dec 28 2022,Istanbulspor,2-1,1-1,Kasimpasa
+Wed Dec 28 2022,Karagumruk,4-1,2-1,Trabzonspor
+Thu Dec 29 2022,Giresunspor,2-1,1-0,Gaziantep
+Thu Dec 29 2022,Sivasspor,1-2,0-1,Galatasaray
+Thu Dec 29 2022,Besiktas,1-0,1-0,Ad. Demirspor
+Tue Jan 3 2023,Umraniyespor,2-2,1-1,Hatayspor
+Tue Jan 3 2023,Antalyaspor,1-2,1-0,Fenerbahce
+Wed Jan 4 2023,Kasimpasa,4-1,2-0,Alanyaspor
+Wed Jan 4 2023,Kayserispor,2-4,0-2,Karagumruk
+Wed Jan 4 2023,Galatasaray,2-1,2-1,Ankaragucu
+Wed Jan 4 2023,Konyaspor,2-2,1-1,Sivasspor
+Thu Jan 5 2023,Gaziantep,1-1,0-1,Buyuksehyr
+Thu Jan 5 2023,Ad. Demirspor,6-0,1-0,Istanbulspor
+Thu Jan 5 2023,Trabzonspor,3-0,1-0,Giresunspor
+Sat Jan 7 2023,Hatayspor,0-0,0-0,Antalyaspor
+Sat Jan 7 2023,Besiktas,2-1,2-0,Kasimpasa
+Sun Jan 8 2023,Karagumruk,3-3,2-0,Konyaspor
+Sun Jan 8 2023,Ankaragucu,2-1,1-1,Kayserispor
+Sun Jan 8 2023,Giresunspor,0-1,0-0,Umraniyespor
+Sun Jan 8 2023,Fenerbahce,0-3,0-1,Galatasaray
+Mon Jan 9 2023,Buyuksehyr,2-1,0-0,Ad. Demirspor
+Mon Jan 9 2023,Alanyaspor,5-0,3-0,Trabzonspor
+Mon Jan 9 2023,Istanbulspor,1-1,0-1,Gaziantep
+Fri Jan 13 2023,Kayserispor,4-1,3-0,Sivasspor
+Fri Jan 13 2023,Galatasaray,4-0,3-0,Hatayspor
+Sat Jan 14 2023,Antalyaspor,2-2,1-1,Giresunspor
+Sat Jan 14 2023,Ad. Demirspor,3-1,0-0,Ankaragucu
+Sat Jan 14 2023,Konyaspor,1-2,1-0,Besiktas
+Sat Jan 14 2023,Trabzonspor,1-0,1-0,Buyuksehyr
+Sun Jan 15 2023,Umraniyespor,0-2,0-2,Istanbulspor
+Sun Jan 15 2023,Kasimpasa,2-2,1-0,Karagumruk
+Sun Jan 15 2023,Gaziantep,1-2,0-1,Fenerbahce
+Fri Jan 20 2023,Ad. Demirspor,1-1,0-1,Giresunspor
+Sat Jan 21 2023,Kasimpasa,1-3,1-0,Buyuksehyr
+Sat Jan 21 2023,Galatasaray,2-1,0-0,Antalyaspor
+Sun Jan 22 2023,Gaziantep,1-2,0-1,Sivasspor
+Sun Jan 22 2023,Alanyaspor,2-2,1-0,Karagumruk
+Sun Jan 22 2023,Kayserispor,0-2,0-2,Besiktas
+Sun Jan 22 2023,Trabzonspor,4-0,1-0,Istanbulspor
+Mon Jan 23 2023,Konyaspor,0-1,0-0,Ankaragucu
+Mon Jan 23 2023,Umraniyespor,1-2,0-0,Fenerbahce
+Fri Jan 27 2023,Besiktas,3-0,1-0,Alanyaspor
+Sat Jan 28 2023,Sivasspor,1-2,0-1,Ad. Demirspor
+Sat Jan 28 2023,Ankaragucu,0-2,0-0,Gaziantep
+Sat Jan 28 2023,Hatayspor,2-1,0-1,Trabzonspor
+Sat Jan 28 2023,Antalyaspor,3-2,1-1,Umraniyespor
+Sat Jan 28 2023,Giresunspor,0-4,0-1,Galatasaray
+Sun Jan 29 2023,Istanbulspor,2-4,2-1,Kayserispor
+Sun Jan 29 2023,Buyuksehyr,2-0,1-0,Konyaspor
+Sun Jan 29 2023,Fenerbahce,5-1,2-1,Kasimpasa
+Tue Jan 31 2023,Alanyaspor,0-3,0-2,Sivasspor
+Tue Jan 31 2023,Karagumruk,1-1,0-1,Besiktas
+Wed Feb 1 2023,Gaziantep,4-1,1-1,Hatayspor
+Wed Feb 1 2023,Kasimpasa,5-1,3-1,Giresunspor
+Wed Feb 1 2023,Galatasaray,3-2,1-2,Umraniyespor
+Wed Feb 1 2023,Trabzonspor,2-0,1-0,Antalyaspor
+Thu Feb 2 2023,Kayserispor,1-0,0-0,Buyuksehyr
+Thu Feb 2 2023,Konyaspor,0-1,0-0,Istanbulspor
+Thu Feb 2 2023,Ad. Demirspor,1-1,0-0,Fenerbahce
+Sat Feb 4 2023,Ankaragucu,0-2,0-1,Karagumruk
+Sat Feb 4 2023,Sivasspor,1-0,1-0,Besiktas
+Sat Feb 4 2023,Antalyaspor,1-0,1-0,Gaziantep
+Sun Feb 5 2023,Istanbulspor,2-1,0-0,Alanyaspor
+Sun Feb 5 2023,Hatayspor,1-0,0-0,Kasimpasa
+Sun Feb 5 2023,Galatasaray,2-1,1-1,Trabzonspor
+Sat Feb 25 2023,Umraniyespor,3-0,?,Gaziantep
+Sat Feb 25 2023,Fenerbahce,4-0,2-0,Konyaspor
+Sat Feb 25 2023,Giresunspor,1-2,0-2,Kayserispor
+Sun Feb 26 2023,Umraniyespor,1-1,0-0,Ad. Demirspor
+Sun Feb 26 2023,Besiktas,0-0,0-0,Antalyaspor
+Fri Mar 3 2023,Alanyaspor,1-0,0-0,Buyuksehyr
+Sat Mar 4 2023,Karagumruk,4-3,1-1,Sivasspor
+Sat Mar 4 2023,Trabzonspor,1-2,0-0,Umraniyespor
+Sat Mar 4 2023,Kayserispor,1-2,0-1,Fenerbahce
+Sun Mar 5 2023,Ad. Demirspor,3-0,?,Hatayspor
+Sun Mar 5 2023,Gaziantep,0-3,?,Galatasaray
+Sun Mar 5 2023,Konyaspor,0-0,0-0,Giresunspor
+Sun Mar 5 2023,Besiktas,2-1,1-0,Ankaragucu
+Mon Mar 6 2023,Kasimpasa,3-1,2-1,Antalyaspor
+Fri Mar 10 2023,Giresunspor,2-2,2-1,Karagumruk
+Sat Mar 11 2023,Antalyaspor,4-0,1-0,Kayserispor
+Sat Mar 11 2023,Galatasaray,1-0,0-0,Kasimpasa
+Sun Mar 12 2023,Ankaragucu,2-0,1-0,Alanyaspor
+Sun Mar 12 2023,Hatayspor,0-3,?,Konyaspor
+Sun Mar 12 2023,Trabzonspor,4-1,1-1,Ad. Demirspor
+Sun Mar 12 2023,Buyuksehyr,0-2,0-1,Besiktas
+Mon Mar 13 2023,Istanbulspor,3-0,1-0,Sivasspor
+Fri Mar 17 2023,Konyaspor,2-1,0-1,Galatasaray
+Sat Mar 18 2023,Kasimpasa,1-1,1-1,Umraniyespor
+Sat Mar 18 2023,Ad. Demirspor,2-0,2-0,Antalyaspor
+Sat Mar 18 2023,Besiktas,3-1,1-0,Istanbulspor
+Sun Mar 19 2023,Karagumruk,2-2,1-1,Buyuksehyr
+Sun Mar 19 2023,Sivasspor,2-0,1-0,Ankaragucu
+Sun Mar 19 2023,Alanyaspor,1-3,1-0,Fenerbahce
+Sun Mar 19 2023,Gaziantep,0-3,?,Trabzonspor
+Sun Mar 19 2023,Kayserispor,3-0,?,Hatayspor
+Sat Apr 1 2023,Buyuksehyr,1-0,1-0,Ankaragucu
+Sat Apr 1 2023,Trabzonspor,3-4,1-2,Kayserispor
+Sat Apr 1 2023,Galatasaray,2-0,0-0,Ad. Demirspor
+Sun Apr 2 2023,Umraniyespor,2-2,0-0,Konyaspor
+Sun Apr 2 2023,Giresunspor,2-2,0-1,Alanyaspor
+Sun Apr 2 2023,Gaziantep,0-3,?,Kasimpasa
+Sun Apr 2 2023,Hatayspor,0-3,?,Sivasspor
+Sun Apr 2 2023,Fenerbahce,2-4,1-0,Besiktas
+Mon Apr 3 2023,Istanbulspor,0-1,0-1,Karagumruk
+Fri Apr 7 2023,Konyaspor,1-1,1-1,Antalyaspor
+Sat Apr 8 2023,Ankaragucu,3-2,2-0,Istanbulspor
+Sat Apr 8 2023,Kasimpasa,2-0,1-0,Trabzonspor
+Sun Apr 9 2023,Sivasspor,1-1,1-0,Buyuksehyr
+Sun Apr 9 2023,Ad. Demirspor,3-0,?,Gaziantep
+Sun Apr 9 2023,Alanyaspor,3-0,?,Hatayspor
+Sun Apr 9 2023,Besiktas,3-1,2-1,Giresunspor
+Mon Apr 10 2023,Kayserispor,3-1,1-1,Umraniyespor
+Mon Apr 10 2023,Karagumruk,1-2,1-0,Fenerbahce
+Fri Apr 14 2023,Antalyaspor,3-1,2-1,Alanyaspor
+Fri Apr 14 2023,Galatasaray,6-0,4-0,Kayserispor
+Sat Apr 15 2023,Ad. Demirspor,5-0,3-0,Kasimpasa
+Sat Apr 15 2023,Istanbulspor,1-0,1-0,Buyuksehyr
+Sat Apr 15 2023,Fenerbahce,2-1,0-0,Ankaragucu
+Sun Apr 16 2023,Giresunspor,1-0,1-0,Sivasspor
+Sun Apr 16 2023,Gaziantep,0-3,?,Konyaspor
+Sun Apr 16 2023,Hatayspor,0-3,?,Karagumruk
+Sun Apr 16 2023,Trabzonspor,0-0,0-0,Besiktas
+Tue Apr 18 2023,Alanyaspor,1-4,1-2,Galatasaray
+Tue Apr 18 2023,Karagumruk,4-2,2-1,Umraniyespor
+Wed Apr 19 2023,Istanbulspor,3-3,2-1,Antalyaspor
+Wed Apr 19 2023,Kayserispor,0-0,0-0,Kasimpasa
+Wed Apr 19 2023,Besiktas,3-0,?,Hatayspor
+Wed Apr 19 2023,Buyuksehyr,1-2,1-0,Fenerbahce
+Wed Apr 19 2023,Konyaspor,1-2,1-1,Ad. Demirspor
+Thu Apr 20 2023,Ankaragucu,3-1,0-1,Giresunspor
+Thu Apr 20 2023,Sivasspor,4-1,2-1,Trabzonspor
+Sat Apr 22 2023,Umraniyespor,0-2,0-1,Besiktas
+Sun Apr 23 2023,Kasimpasa,1-2,1-2,Konyaspor
+Sun Apr 23 2023,Ad. Demirspor,5-3,4-3,Kayserispor
+Sun Apr 23 2023,Galatasaray,3-3,2-3,Karagumruk
+Sun Apr 23 2023,Gaziantep,0-3,?,Alanyaspor
+Sun Apr 23 2023,Hatayspor,0-3,?,Ankaragucu
+Mon Apr 24 2023,Giresunspor,2-4,0-4,Buyuksehyr
+Mon Apr 24 2023,Antalyaspor,1-2,0-2,Sivasspor
+Mon Apr 24 2023,Fenerbahce,3-3,1-0,Istanbulspor
+Fri Apr 28 2023,Alanyaspor,1-0,1-0,Umraniyespor
+Sat Apr 29 2023,Karagumruk,0-1,0-1,Antalyaspor
+Sat Apr 29 2023,Konyaspor,2-1,1-1,Trabzonspor
+Sat Apr 29 2023,Ankaragucu,0-0,0-0,Kasimpasa
+Sat Apr 29 2023,Sivasspor,1-3,0-3,Fenerbahce
+Sun Apr 30 2023,Besiktas,3-1,1-1,Galatasaray
+Sun Apr 30 2023,Buyuksehyr,3-0,?,Hatayspor
+Sun Apr 30 2023,Kayserispor,3-0,?,Gaziantep
+Mon May 1 2023,Istanbulspor,1-0,1-0,Giresunspor
+Sat May 6 2023,Antalyaspor,1-3,1-0,Besiktas
+Sat May 6 2023,Ad. Demirspor,4-2,2-2,Alanyaspor
+Sun May 7 2023,Umraniyespor,4-1,2-1,Sivasspor
+Sun May 7 2023,Konyaspor,2-2,0-0,Kayserispor
+Sun May 7 2023,Giresunspor,1-1,0-1,Fenerbahce
+Sun May 7 2023,Gaziantep,0-3,?,Karagumruk
+Sun May 7 2023,Hatayspor,0-3,?,Istanbulspor
+Mon May 8 2023,Galatasaray,1-0,1-0,Buyuksehyr
+Mon May 8 2023,Trabzonspor,2-0,1-0,Ankaragucu
+Tue May 16 2023,Sivasspor,1-2,0-0,Kasimpasa
+Tue May 16 2023,Alanyaspor,0-3,0-1,Konyaspor
+Tue May 16 2023,Istanbulspor,0-2,0-1,Galatasaray
+Wed May 17 2023,Buyuksehyr,1-1,1-0,Umraniyespor
+Wed May 17 2023,Ankaragucu,1-1,0-0,Antalyaspor
+Wed May 17 2023,Besiktas,3-0,?,Gaziantep
+Wed May 17 2023,Giresunspor,3-0,?,Hatayspor
+Wed May 17 2023,Karagumruk,2-3,1-0,Ad. Demirspor
+Thu May 18 2023,Fenerbahce,3-1,1-0,Trabzonspor
+Sat May 20 2023,Kasimpasa,1-0,0-0,Istanbulspor
+Sat May 20 2023,Galatasaray,2-0,1-0,Sivasspor
+Sat May 20 2023,Kayserispor,0-4,0-2,Alanyaspor
+Sun May 21 2023,Umraniyespor,1-2,1-1,Ankaragucu
+Sun May 21 2023,Ad. Demirspor,1-4,1-1,Besiktas
+Sun May 21 2023,Antalyaspor,0-0,0-0,Buyuksehyr
+Sun May 21 2023,Gaziantep,0-3,?,Giresunspor
+Sun May 21 2023,Hatayspor,0-3,?,Fenerbahce
+Mon May 22 2023,Trabzonspor,4-1,3-1,Karagumruk
+Tue May 30 2023,Alanyaspor,1-3,0-0,Kasimpasa
+Tue May 30 2023,Ankaragucu,1-4,1-2,Galatasaray
+Tue May 30 2023,Buyuksehyr,3-0,?,Gaziantep
+Tue May 30 2023,Fenerbahce,2-0,1-0,Antalyaspor
+Tue May 30 2023,Giresunspor,2-4,0-2,Trabzonspor
+Tue May 30 2023,Hatayspor,0-3,?,Umraniyespor
+Tue May 30 2023,Istanbulspor,0-2,0-1,Ad. Demirspor
+Tue May 30 2023,Karagumruk,2-0,2-0,Kayserispor
+Tue May 30 2023,Sivasspor,1-0,1-0,Konyaspor
+Sat Jun 3 2023,Konyaspor,1-1,1-1,Karagumruk
+Sat Jun 3 2023,Ad. Demirspor,2-3,1-2,Buyuksehyr
+Sat Jun 3 2023,Antalyaspor,3-0,?,Hatayspor
+Sat Jun 3 2023,Gaziantep,0-3,?,Istanbulspor
+Sat Jun 3 2023,Kasimpasa,2-5,0-2,Besiktas
+Sat Jun 3 2023,Kayserispor,0-1,0-1,Ankaragucu
+Sat Jun 3 2023,Trabzonspor,5-1,4-1,Alanyaspor
+Sat Jun 3 2023,Umraniyespor,0-1,0-1,Giresunspor
+Sun Jun 4 2023,Galatasaray,3-0,1-0,Fenerbahce
+Tue Jun 6 2023,Karagumruk,3-0,1-0,Kasimpasa
+Tue Jun 6 2023,Sivasspor,1-1,1-1,Kayserispor
+Tue Jun 6 2023,Buyuksehyr,3-1,1-0,Trabzonspor
+Wed Jun 7 2023,Ankaragucu,1-2,0-1,Ad. Demirspor
+Wed Jun 7 2023,Besiktas,3-3,2-1,Konyaspor
+Wed Jun 7 2023,Fenerbahce,3-0,?,Gaziantep
+Wed Jun 7 2023,Giresunspor,2-0,1-0,Antalyaspor
+Wed Jun 7 2023,Hatayspor,0-3,?,Galatasaray
+Wed Jun 7 2023,Istanbulspor,4-0,1-0,Umraniyespor

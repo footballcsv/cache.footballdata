@@ -1,0 +1,245 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 23 2021,FK Rostov,0-2,?,Dynamo Moscow
+Sat Jul 24 2021,Khimki,1-3,?,Zenit
+Sat Jul 24 2021,Lokomotiv Moscow,3-1,?,Arsenal Tula
+Sat Jul 24 2021,Rubin Kazan,1-0,?,Spartak Moscow
+Sun Jul 25 2021,Ural,0-3,?,Krasnodar
+Sun Jul 25 2021,Krylya Sovetov,1-2,?,Akhmat Grozny
+Sun Jul 25 2021,CSKA Moscow,1-0,?,Ufa
+Mon Jul 26 2021,Pari NN,1-0,?,Sochi
+Fri Jul 30 2021,Arsenal Tula,0-3,?,Rubin Kazan
+Fri Jul 30 2021,Krylya Sovetov,0-1,?,Spartak Moscow
+Sat Jul 31 2021,Ufa,2-3,?,Dynamo Moscow
+Sat Jul 31 2021,CSKA Moscow,1-2,?,Lokomotiv Moscow
+Sun Aug 1 2021,Ural,1-1,?,Pari NN
+Sun Aug 1 2021,FK Rostov,2-4,?,Zenit
+Sun Aug 1 2021,Krasnodar,0-1,?,Khimki
+Mon Aug 2 2021,Akhmat Grozny,1-2,?,Sochi
+Fri Aug 6 2021,Ufa,1-1,?,Lokomotiv Moscow
+Sat Aug 7 2021,Zenit,3-2,?,Krasnodar
+Sat Aug 7 2021,Arsenal Tula,2-1,?,Krylya Sovetov
+Sat Aug 7 2021,Spartak Moscow,1-2,?,Pari NN
+Sun Aug 8 2021,Khimki,1-1,?,FK Rostov
+Sun Aug 8 2021,Dynamo Moscow,2-1,?,CSKA Moscow
+Sun Aug 8 2021,Rubin Kazan,2-1,?,Akhmat Grozny
+Mon Aug 9 2021,Sochi,2-0,?,Ural
+Sat Aug 14 2021,Pari NN,1-2,?,Ufa
+Sat Aug 14 2021,Spartak Moscow,1-0,?,Ural
+Sat Aug 14 2021,Akhmat Grozny,2-1,?,Dynamo Moscow
+Sat Aug 14 2021,FK Rostov,1-3,?,CSKA Moscow
+Sun Aug 15 2021,Lokomotiv Moscow,1-1,?,Zenit
+Sun Aug 15 2021,Krasnodar,3-2,?,Arsenal Tula
+Sun Aug 15 2021,Rubin Kazan,1-1,?,Krylya Sovetov
+Mon Aug 16 2021,Sochi,3-0,?,Khimki
+Sat Aug 21 2021,Arsenal Tula,1-1,?,Spartak Moscow
+Sat Aug 21 2021,CSKA Moscow,2-0,?,Akhmat Grozny
+Sat Aug 21 2021,Ufa,1-1,?,Zenit
+Sat Aug 21 2021,Ural,0-1,?,Dynamo Moscow
+Sat Aug 21 2021,Krylya Sovetov,1-0,?,Sochi
+Sun Aug 22 2021,Lokomotiv Moscow,2-1,?,Krasnodar
+Sun Aug 22 2021,Pari NN,1-2,?,FK Rostov
+Sun Aug 22 2021,Khimki,1-1,?,Rubin Kazan
+Thu Aug 26 2021,Ufa,1-2,?,Krylya Sovetov
+Thu Aug 26 2021,Spartak Moscow,1-2,?,Sochi
+Thu Aug 26 2021,Akhmat Grozny,2-1,?,Arsenal Tula
+Thu Aug 26 2021,Zenit,1-0,?,CSKA Moscow
+Fri Aug 27 2021,Ural,1-1,?,FK Rostov
+Fri Aug 27 2021,Khimki,1-1,?,Pari NN
+Fri Aug 27 2021,Dynamo Moscow,1-1,?,Lokomotiv Moscow
+Fri Aug 27 2021,Krasnodar,2-0,?,Rubin Kazan
+Sat Sep 11 2021,Lokomotiv Moscow,2-0,?,Krylya Sovetov
+Sat Sep 11 2021,Zenit,3-1,?,Akhmat Grozny
+Sat Sep 11 2021,Spartak Moscow,3-1,?,Khimki
+Sun Sep 12 2021,Arsenal Tula,2-2,?,CSKA Moscow
+Sun Sep 12 2021,Sochi,3-1,?,Ufa
+Sun Sep 12 2021,Dynamo Moscow,1-2,?,Pari NN
+Mon Sep 13 2021,Rubin Kazan,4-0,?,Ural
+Mon Sep 13 2021,FK Rostov,1-1,?,Krasnodar
+Sat Sep 18 2021,Ufa,3-2,?,Khimki
+Sat Sep 18 2021,Krylya Sovetov,4-2,?,FK Rostov
+Sat Sep 18 2021,Akhmat Grozny,0-2,?,Krasnodar
+Sun Sep 19 2021,Pari NN,2-3,?,Arsenal Tula
+Sun Sep 19 2021,Sochi,0-1,?,Dynamo Moscow
+Mon Sep 20 2021,Ural,0-0,?,Lokomotiv Moscow
+Mon Sep 20 2021,Rubin Kazan,1-3,?,Zenit
+Mon Sep 20 2021,CSKA Moscow,1-0,?,Spartak Moscow
+Sat Sep 25 2021,Khimki,0-0,?,Lokomotiv Moscow
+Sat Sep 25 2021,Zenit,2-1,?,Krylya Sovetov
+Sat Sep 25 2021,Spartak Moscow,2-0,?,Ufa
+Sun Sep 26 2021,Dynamo Moscow,2-0,?,Rubin Kazan
+Sun Sep 26 2021,FK Rostov,1-2,?,Akhmat Grozny
+Sun Sep 26 2021,Krasnodar,3-0,?,Sochi
+Mon Sep 27 2021,Ural,2-0,?,Arsenal Tula
+Mon Sep 27 2021,Pari NN,0-2,?,CSKA Moscow
+Sat Oct 2 2021,Rubin Kazan,0-1,?,Pari NN
+Sat Oct 2 2021,Dynamo Moscow,0-1,?,Krylya Sovetov
+Sat Oct 2 2021,Arsenal Tula,0-0,?,Khimki
+Sat Oct 2 2021,CSKA Moscow,0-0,?,Krasnodar
+Sun Oct 3 2021,Ufa,0-1,?,Ural
+Sun Oct 3 2021,Zenit,1-2,?,Sochi
+Sun Oct 3 2021,Akhmat Grozny,0-1,?,Spartak Moscow
+Sun Oct 3 2021,Lokomotiv Moscow,1-2,?,FK Rostov
+Sat Oct 16 2021,Arsenal Tula,2-1,?,Zenit
+Sat Oct 16 2021,Rubin Kazan,2-2,?,Lokomotiv Moscow
+Sat Oct 16 2021,Sochi,3-2,?,FK Rostov
+Sat Oct 16 2021,Spartak Moscow,2-2,?,Dynamo Moscow
+Sun Oct 17 2021,Ural,0-1,?,CSKA Moscow
+Sun Oct 17 2021,Krylya Sovetov,2-0,?,Pari NN
+Sun Oct 17 2021,Khimki,2-0,?,Akhmat Grozny
+Sun Oct 17 2021,Krasnodar,1-1,?,Ufa
+Fri Oct 22 2021,Dynamo Moscow,4-1,?,Khimki
+Sat Oct 23 2021,Pari NN,1-4,?,Krasnodar
+Sat Oct 23 2021,FK Rostov,4-0,?,Arsenal Tula
+Sat Oct 23 2021,CSKA Moscow,3-1,?,Krylya Sovetov
+Sun Oct 24 2021,Ufa,1-1,?,Rubin Kazan
+Sun Oct 24 2021,Akhmat Grozny,1-0,?,Ural
+Sun Oct 24 2021,Zenit,7-1,?,Spartak Moscow
+Mon Oct 25 2021,Lokomotiv Moscow,2-1,?,Sochi
+Fri Oct 29 2021,Zenit,4-1,?,Dynamo Moscow
+Sat Oct 30 2021,Rubin Kazan,1-0,?,CSKA Moscow
+Sat Oct 30 2021,Spartak Moscow,1-1,?,FK Rostov
+Sat Oct 30 2021,Krasnodar,0-1,?,Krylya Sovetov
+Sat Oct 30 2021,Pari NN,1-2,?,Lokomotiv Moscow
+Sun Oct 31 2021,Ufa,1-0,?,Akhmat Grozny
+Sun Oct 31 2021,Arsenal Tula,1-2,?,Sochi
+Sun Oct 31 2021,Khimki,0-0,?,Ural
+Sat Nov 6 2021,Arsenal Tula,0-0,?,Ufa
+Sat Nov 6 2021,Dynamo Moscow,1-0,?,Krasnodar
+Sat Nov 6 2021,Krylya Sovetov,3-0,?,Khimki
+Sat Nov 6 2021,Sochi,4-1,?,CSKA Moscow
+Sun Nov 7 2021,Ural,0-0,?,Zenit
+Sun Nov 7 2021,FK Rostov,5-1,?,Rubin Kazan
+Sun Nov 7 2021,Akhmat Grozny,3-1,?,Pari NN
+Sun Nov 7 2021,Spartak Moscow,1-1,?,Lokomotiv Moscow
+Fri Nov 19 2021,Zenit,5-1,?,Pari NN
+Sat Nov 20 2021,Krylya Sovetov,1-1,?,Ural
+Sat Nov 20 2021,Lokomotiv Moscow,1-2,?,Akhmat Grozny
+Sat Nov 20 2021,Krasnodar,2-1,?,Spartak Moscow
+Sun Nov 21 2021,CSKA Moscow,0-0,?,Khimki
+Sun Nov 21 2021,FK Rostov,2-2,?,Ufa
+Sun Nov 21 2021,Dynamo Moscow,5-1,?,Arsenal Tula
+Sun Nov 21 2021,Sochi,1-2,?,Rubin Kazan
+Sat Nov 27 2021,Ural,1-1,?,Sochi
+Sat Nov 27 2021,Akhmat Grozny,2-0,?,FK Rostov
+Sat Nov 27 2021,Khimki,3-3,?,Krasnodar
+Sun Nov 28 2021,Pari NN,0-0,?,Krylya Sovetov
+Sun Nov 28 2021,Rubin Kazan,2-3,?,Dynamo Moscow
+Sun Nov 28 2021,CSKA Moscow,0-2,?,Zenit
+Mon Nov 29 2021,Ufa,1-1,?,Spartak Moscow
+Mon Nov 29 2021,Arsenal Tula,3-1,?,Lokomotiv Moscow
+Fri Dec 3 2021,Zenit,2-2,?,FK Rostov
+Sat Dec 4 2021,Krylya Sovetov,0-1,?,CSKA Moscow
+Sat Dec 4 2021,Spartak Moscow,2-1,?,Akhmat Grozny
+Sat Dec 4 2021,Lokomotiv Moscow,0-1,?,Ural
+Sun Dec 5 2021,Khimki,1-2,?,Arsenal Tula
+Sun Dec 5 2021,Dynamo Moscow,2-0,?,Ufa
+Sun Dec 5 2021,Pari NN,2-1,?,Rubin Kazan
+Sun Dec 5 2021,Sochi,1-2,?,Krasnodar
+Sat Dec 11 2021,Krylya Sovetov,2-0,?,Rubin Kazan
+Sat Dec 11 2021,CSKA Moscow,2-0,?,Arsenal Tula
+Sat Dec 11 2021,FK Rostov,1-4,?,Ural
+Sun Dec 12 2021,Dynamo Moscow,1-1,?,Zenit
+Sun Dec 12 2021,Akhmat Grozny,4-1,?,Khimki
+Sun Dec 12 2021,Krasnodar,0-0,?,Pari NN
+Sun Dec 12 2021,Lokomotiv Moscow,2-0,?,Ufa
+Mon Dec 13 2021,Sochi,3-0,?,Spartak Moscow
+Sat Feb 26 2022,Khimki,0-3,?,Dynamo Moscow
+Sat Feb 26 2022,Pari NN,1-0,?,Ural
+Sat Feb 26 2022,Sochi,2-0,?,Arsenal Tula
+Sat Feb 26 2022,Spartak Moscow,0-2,?,CSKA Moscow
+Sun Feb 27 2022,Akhmat Grozny,2-1,?,Ufa
+Mon Feb 28 2022,Zenit,3-2,?,Rubin Kazan
+Sat Mar 5 2022,CSKA Moscow,1-0,?,Pari NN
+Sun Mar 6 2022,Krylya Sovetov,2-2,?,Arsenal Tula
+Sun Mar 6 2022,Lokomotiv Moscow,3-2,?,Khimki
+Sun Mar 6 2022,Dynamo Moscow,0-2,?,Spartak Moscow
+Mon Mar 7 2022,Krasnodar,2-1,?,Ural
+Mon Mar 7 2022,FK Rostov,0-1,?,Sochi
+Mon Mar 7 2022,Zenit,2-0,?,Ufa
+Mon Mar 7 2022,Akhmat Grozny,1-2,?,Rubin Kazan
+Sat Mar 12 2022,Ufa,0-0,?,Pari NN
+Sat Mar 12 2022,Arsenal Tula,1-4,?,Dynamo Moscow
+Sat Mar 12 2022,Lokomotiv Moscow,1-2,?,CSKA Moscow
+Sun Mar 13 2022,Ural,0-0,?,Akhmat Grozny
+Sun Mar 13 2022,Khimki,0-0,?,Sochi
+Sun Mar 13 2022,Krylya Sovetov,1-1,?,Zenit
+Sun Mar 13 2022,Spartak Moscow,1-2,?,Krasnodar
+Mon Mar 14 2022,Rubin Kazan,1-2,?,FK Rostov
+Sat Mar 19 2022,Ural,0-1,?,Khimki
+Sat Mar 19 2022,Pari NN,1-1,?,Spartak Moscow
+Sat Mar 19 2022,Akhmat Grozny,2-3,?,Lokomotiv Moscow
+Sat Mar 19 2022,Zenit,3-0,?,Arsenal Tula
+Sun Mar 20 2022,CSKA Moscow,6-1,?,Rubin Kazan
+Sun Mar 20 2022,Ufa,1-1,?,Krasnodar
+Sun Mar 20 2022,Sochi,2-3,?,Krylya Sovetov
+Sun Mar 20 2022,Dynamo Moscow,1-1,?,FK Rostov
+Fri Apr 1 2022,Rubin Kazan,2-3,?,Khimki
+Sat Apr 2 2022,Arsenal Tula,0-0,?,Akhmat Grozny
+Sat Apr 2 2022,Krylya Sovetov,1-2,?,Ufa
+Sat Apr 2 2022,FK Rostov,1-2,?,Pari NN
+Sat Apr 2 2022,Lokomotiv Moscow,1-0,?,Spartak Moscow
+Sun Apr 3 2022,Krasnodar,0-1,?,Dynamo Moscow
+Sun Apr 3 2022,CSKA Moscow,2-2,?,Ural
+Sun Apr 3 2022,Sochi,0-0,?,Zenit
+Wed Apr 6 2022,FK Rostov,1-0,?,Krylya Sovetov
+Sat Apr 9 2022,Khimki,4-2,?,CSKA Moscow
+Sat Apr 9 2022,Pari NN,0-1,?,Dynamo Moscow
+Sat Apr 9 2022,Rubin Kazan,0-1,?,Krasnodar
+Sat Apr 9 2022,Akhmat Grozny,0-2,?,Zenit
+Sun Apr 10 2022,Ural,0-1,?,Krylya Sovetov
+Sun Apr 10 2022,Ufa,1-2,?,Sochi
+Sun Apr 10 2022,Spartak Moscow,3-0,?,Arsenal Tula
+Sun Apr 10 2022,FK Rostov,4-1,?,Lokomotiv Moscow
+Fri Apr 15 2022,Dynamo Moscow,2-0,?,Akhmat Grozny
+Sat Apr 16 2022,Ufa,1-1,?,CSKA Moscow
+Sat Apr 16 2022,Zenit,3-1,?,Ural
+Sat Apr 16 2022,Spartak Moscow,1-1,?,Rubin Kazan
+Sun Apr 17 2022,Arsenal Tula,1-2,?,FK Rostov
+Sun Apr 17 2022,Krylya Sovetov,2-0,?,Krasnodar
+Sun Apr 17 2022,Sochi,2-2,?,Lokomotiv Moscow
+Sun Apr 17 2022,Pari NN,0-0,?,Khimki
+Sat Apr 23 2022,Ural,2-1,?,Ufa
+Sat Apr 23 2022,Lokomotiv Moscow,2-1,?,Pari NN
+Sat Apr 23 2022,Sochi,3-2,?,Akhmat Grozny
+Sun Apr 24 2022,Khimki,4-1,?,Krylya Sovetov
+Sun Apr 24 2022,Rubin Kazan,1-0,?,Arsenal Tula
+Sun Apr 24 2022,FK Rostov,3-2,?,Spartak Moscow
+Sun Apr 24 2022,CSKA Moscow,1-0,?,Dynamo Moscow
+Mon Apr 25 2022,Krasnodar,1-3,?,Zenit
+Sat Apr 30 2022,Dynamo Moscow,2-3,?,Ural
+Sat Apr 30 2022,Rubin Kazan,0-6,?,Sochi
+Sat Apr 30 2022,Krasnodar,2-1,?,FK Rostov
+Sat Apr 30 2022,Zenit,3-1,?,Lokomotiv Moscow
+Sun May 1 2022,Spartak Moscow,2-1,?,Krylya Sovetov
+Sun May 1 2022,Khimki,1-1,?,Ufa
+Sun May 1 2022,Akhmat Grozny,2-0,?,CSKA Moscow
+Mon May 2 2022,Arsenal Tula,2-2,?,Pari NN
+Wed May 4 2022,Krasnodar,1-0,?,Lokomotiv Moscow
+Fri May 6 2022,Krylya Sovetov,5-2,?,Dynamo Moscow
+Sat May 7 2022,Ural,1-3,?,Spartak Moscow
+Sat May 7 2022,Pari NN,0-1,?,Akhmat Grozny
+Sat May 7 2022,Zenit,1-0,?,Khimki
+Sat May 7 2022,CSKA Moscow,0-1,?,Sochi
+Sun May 8 2022,Ufa,0-0,?,FK Rostov
+Sun May 8 2022,Arsenal Tula,1-1,?,Krasnodar
+Sun May 8 2022,Lokomotiv Moscow,1-0,?,Rubin Kazan
+Fri May 13 2022,Sochi,0-0,?,Pari NN
+Sat May 14 2022,Ufa,2-1,?,Arsenal Tula
+Sat May 14 2022,FK Rostov,2-1,?,Khimki
+Sat May 14 2022,Lokomotiv Moscow,3-3,?,Dynamo Moscow
+Sat May 14 2022,Akhmat Grozny,1-0,?,Krylya Sovetov
+Sun May 15 2022,Ural,3-0,?,Rubin Kazan
+Sun May 15 2022,Spartak Moscow,1-1,?,Zenit
+Sun May 15 2022,Krasnodar,1-0,?,CSKA Moscow
+Sat May 21 2022,Arsenal Tula,1-2,?,Ural
+Sat May 21 2022,CSKA Moscow,4-0,?,FK Rostov
+Sat May 21 2022,Dynamo Moscow,1-5,?,Sochi
+Sat May 21 2022,Khimki,2-1,?,Spartak Moscow
+Sat May 21 2022,Krasnodar,1-1,?,Akhmat Grozny
+Sat May 21 2022,Krylya Sovetov,0-1,?,Lokomotiv Moscow
+Sat May 21 2022,Pari NN,1-0,?,Zenit
+Sat May 21 2022,Rubin Kazan,1-2,?,Ufa
+Wed May 25 2022,SKA Khabarovsk,1-0,?,Khimki
+Wed May 25 2022,Orenburg,2-2,?,Ufa
+Sat May 28 2022,Khimki,3-0,?,SKA Khabarovsk
+Sat May 28 2022,Ufa,1-2,?,Orenburg

@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 6 2021,Bournemouth,2-2,1-1,West Brom
+Sat Aug 7 2021,Blackburn,2-1,1-0,Swansea
+Sat Aug 7 2021,Bristol City,1-1,1-0,Blackpool
+Sat Aug 7 2021,Cardiff,1-1,0-0,Barnsley
+Sat Aug 7 2021,Derby,1-1,1-1,Huddersfield
+Sat Aug 7 2021,Luton,3-0,1-0,Peterboro
+Sat Aug 7 2021,Preston,1-4,1-1,Hull
+Sat Aug 7 2021,QPR,1-1,1-1,Millwall
+Sat Aug 7 2021,Stoke,3-2,2-1,Reading
+Sat Aug 7 2021,Sheffield United,0-1,0-1,Birmingham
+Sun Aug 8 2021,Fulham,1-1,1-0,Middlesbrough
+Sun Aug 8 2021,Coventry,2-1,0-1,Nott'm Forest
+Sat Aug 14 2021,Peterboro,2-1,0-0,Derby
+Sat Aug 14 2021,Barnsley,1-0,1-0,Coventry
+Sat Aug 14 2021,Birmingham,0-0,0-0,Stoke
+Sat Aug 14 2021,Blackpool,0-2,0-0,Cardiff
+Sat Aug 14 2021,Huddersfield,1-5,1-3,Fulham
+Sat Aug 14 2021,Hull,0-3,0-1,QPR
+Sat Aug 14 2021,Middlesbrough,2-1,1-0,Bristol City
+Sat Aug 14 2021,Millwall,1-1,0-0,Blackburn
+Sat Aug 14 2021,Nott'm Forest,1-2,0-1,Bournemouth
+Sat Aug 14 2021,Reading,2-1,1-0,Preston
+Sat Aug 14 2021,West Brom,3-2,2-0,Luton
+Sat Aug 14 2021,Swansea,0-0,0-0,Sheffield United
+Tue Aug 17 2021,Barnsley,0-1,0-1,Luton
+Tue Aug 17 2021,Blackpool,0-1,0-1,Coventry
+Tue Aug 17 2021,Huddersfield,1-0,0-0,Preston
+Tue Aug 17 2021,Millwall,1-2,0-2,Fulham
+Tue Aug 17 2021,Peterboro,2-2,0-0,Cardiff
+Tue Aug 17 2021,Swansea,1-3,0-1,Stoke
+Tue Aug 17 2021,Reading,2-3,1-2,Bristol City
+Wed Aug 18 2021,Birmingham,0-2,0-0,Bournemouth
+Wed Aug 18 2021,Hull,0-1,0-0,Derby
+Wed Aug 18 2021,Middlesbrough,2-3,1-0,QPR
+Wed Aug 18 2021,Nott'm Forest,1-2,0-0,Blackburn
+Wed Aug 18 2021,West Brom,4-0,1-0,Sheffield United
+Fri Aug 20 2021,Bristol City,0-1,0-1,Swansea
+Sat Aug 21 2021,QPR,2-2,0-2,Barnsley
+Sat Aug 21 2021,Blackburn,1-2,0-2,West Brom
+Sat Aug 21 2021,Bournemouth,2-2,2-0,Blackpool
+Sat Aug 21 2021,Cardiff,3-1,0-0,Millwall
+Sat Aug 21 2021,Coventry,2-1,0-1,Reading
+Sat Aug 21 2021,Derby,0-0,0-0,Middlesbrough
+Sat Aug 21 2021,Fulham,2-0,2-0,Hull
+Sat Aug 21 2021,Luton,0-5,0-2,Birmingham
+Sat Aug 21 2021,Preston,1-0,1-0,Peterboro
+Sat Aug 21 2021,Sheffield United,1-2,0-0,Huddersfield
+Sat Aug 21 2021,Stoke,1-0,0-0,Nott'm Forest
+Sat Aug 28 2021,Cardiff,1-2,0-1,Bristol City
+Sat Aug 28 2021,Derby,1-1,1-0,Nott'm Forest
+Sat Aug 28 2021,Barnsley,1-1,1-1,Birmingham
+Sat Aug 28 2021,Fulham,3-0,1-0,Stoke
+Sat Aug 28 2021,Huddersfield,4-0,1-0,Reading
+Sat Aug 28 2021,Hull,0-0,0-0,Bournemouth
+Sat Aug 28 2021,Luton,0-0,0-0,Sheffield United
+Sat Aug 28 2021,Middlesbrough,1-1,1-1,Blackburn
+Sat Aug 28 2021,Millwall,2-1,0-0,Blackpool
+Sat Aug 28 2021,Preston,3-1,2-1,Swansea
+Sat Aug 28 2021,QPR,2-0,0-0,Coventry
+Sat Aug 28 2021,Peterboro,0-1,0-0,West Brom
+Fri Sep 10 2021,Birmingham,2-0,1-0,Derby
+Sat Sep 11 2021,Blackburn,2-2,2-0,Luton
+Sat Sep 11 2021,Blackpool,1-0,0-0,Fulham
+Sat Sep 11 2021,Bournemouth,3-0,1-0,Barnsley
+Sat Sep 11 2021,Bristol City,0-0,0-0,Preston
+Sat Sep 11 2021,Coventry,2-0,0-0,Middlesbrough
+Sat Sep 11 2021,Reading,3-3,1-1,QPR
+Sat Sep 11 2021,Sheffield United,6-2,1-1,Peterboro
+Sat Sep 11 2021,Stoke,2-1,0-0,Huddersfield
+Sat Sep 11 2021,Swansea,0-0,0-0,Hull
+Sat Sep 11 2021,West Brom,1-1,0-0,Millwall
+Sun Sep 12 2021,Nott'm Forest,1-2,1-0,Cardiff
+Tue Sep 14 2021,Blackburn,2-0,0-0,Hull
+Tue Sep 14 2021,Blackpool,0-3,0-0,Huddersfield
+Tue Sep 14 2021,Bournemouth,2-1,2-0,QPR
+Tue Sep 14 2021,Sheffield United,2-2,1-1,Preston
+Tue Sep 14 2021,Reading,3-1,0-0,Peterboro
+Tue Sep 14 2021,West Brom,0-0,0-0,Derby
+Wed Sep 15 2021,Birmingham,1-4,0-2,Fulham
+Wed Sep 15 2021,Bristol City,1-1,0-0,Luton
+Wed Sep 15 2021,Coventry,1-0,1-0,Cardiff
+Wed Sep 15 2021,Nott'm Forest,0-2,0-1,Middlesbrough
+Wed Sep 15 2021,Stoke,1-1,1-1,Barnsley
+Wed Sep 15 2021,Swansea,0-0,0-0,Millwall
+Sat Sep 18 2021,Hull,1-3,0-1,Sheffield United
+Sat Sep 18 2021,Barnsley,0-0,0-0,Blackburn
+Sat Sep 18 2021,Cardiff,0-1,0-0,Bournemouth
+Sat Sep 18 2021,Derby,2-1,2-0,Stoke
+Sat Sep 18 2021,Fulham,1-2,0-1,Reading
+Sat Sep 18 2021,Huddersfield,0-2,0-1,Nott'm Forest
+Sat Sep 18 2021,Luton,3-3,3-0,Swansea
+Sat Sep 18 2021,Middlesbrough,1-2,1-0,Blackpool
+Sat Sep 18 2021,Millwall,1-1,1-1,Coventry
+Sat Sep 18 2021,Peterboro,3-0,2-0,Birmingham
+Sat Sep 18 2021,Preston,1-1,1-1,West Brom
+Sat Sep 18 2021,QPR,1-2,0-1,Bristol City
+Fri Sep 24 2021,Coventry,3-0,0-0,Peterboro
+Fri Sep 24 2021,West Brom,2-1,0-1,QPR
+Sat Sep 25 2021,Reading,1-0,0-0,Middlesbrough
+Sat Sep 25 2021,Birmingham,0-0,0-0,Preston
+Sat Sep 25 2021,Blackburn,5-1,3-0,Cardiff
+Sat Sep 25 2021,Blackpool,1-0,1-0,Barnsley
+Sat Sep 25 2021,Bournemouth,2-1,2-0,Luton
+Sat Sep 25 2021,Bristol City,1-1,0-0,Fulham
+Sat Sep 25 2021,Nott'm Forest,1-1,0-1,Millwall
+Sat Sep 25 2021,Sheffield United,1-0,0-0,Derby
+Sat Sep 25 2021,Stoke,2-0,1-0,Hull
+Sat Sep 25 2021,Swansea,1-0,1-0,Huddersfield
+Tue Sep 28 2021,Cardiff,0-4,0-1,West Brom
+Tue Sep 28 2021,Huddersfield,3-2,1-0,Blackburn
+Tue Sep 28 2021,Hull,1-1,0-1,Blackpool
+Tue Sep 28 2021,Middlesbrough,2-0,2-0,Sheffield United
+Tue Sep 28 2021,Preston,1-1,1-1,Stoke
+Tue Sep 28 2021,QPR,2-0,1-0,Birmingham
+Wed Sep 29 2021,Barnsley,1-3,1-0,Nott'm Forest
+Wed Sep 29 2021,Derby,1-0,1-0,Reading
+Wed Sep 29 2021,Fulham,3-1,3-1,Swansea
+Wed Sep 29 2021,Luton,5-0,4-0,Coventry
+Wed Sep 29 2021,Millwall,1-0,0-0,Bristol City
+Wed Sep 29 2021,Peterboro,0-0,0-0,Bournemouth
+Fri Oct 1 2021,Stoke,1-0,0-0,West Brom
+Sat Oct 2 2021,Coventry,4-1,0-1,Fulham
+Sat Oct 2 2021,Barnsley,0-1,0-0,Millwall
+Sat Oct 2 2021,Birmingham,0-3,0-2,Nott'm Forest
+Sat Oct 2 2021,Blackpool,2-1,2-0,Blackburn
+Sat Oct 2 2021,Bournemouth,2-1,0-0,Sheffield United
+Sat Oct 2 2021,Cardiff,0-1,0-1,Reading
+Sat Oct 2 2021,Derby,0-0,0-0,Swansea
+Sat Oct 2 2021,Hull,2-0,0-0,Middlesbrough
+Sat Oct 2 2021,Luton,0-0,0-0,Huddersfield
+Sat Oct 2 2021,Peterboro,2-3,2-2,Bristol City
+Sat Oct 2 2021,QPR,3-2,1-1,Preston
+Fri Oct 15 2021,West Brom,1-0,0-0,Birmingham
+Sat Oct 16 2021,Fulham,4-1,1-0,QPR
+Sat Oct 16 2021,Blackburn,2-2,2-0,Coventry
+Sat Oct 16 2021,Bristol City,0-2,0-2,Bournemouth
+Sat Oct 16 2021,Huddersfield,2-0,1-0,Hull
+Sat Oct 16 2021,Middlesbrough,2-0,0-0,Peterboro
+Sat Oct 16 2021,Millwall,0-2,0-1,Luton
+Sat Oct 16 2021,Nott'm Forest,2-1,1-0,Blackpool
+Sat Oct 16 2021,Preston,0-0,0-0,Derby
+Sat Oct 16 2021,Reading,1-0,0-0,Barnsley
+Sat Oct 16 2021,Sheffield United,2-1,0-0,Stoke
+Sun Oct 17 2021,Swansea,3-0,1-0,Cardiff
+Tue Oct 19 2021,Bristol City,1-2,1-0,Nott'm Forest
+Tue Oct 19 2021,Derby,2-2,1-0,Luton
+Tue Oct 19 2021,QPR,1-0,0-0,Blackburn
+Tue Oct 19 2021,Sheffield United,1-2,1-1,Millwall
+Tue Oct 19 2021,Stoke,0-1,0-0,Bournemouth
+Wed Oct 20 2021,Fulham,2-0,0-0,Cardiff
+Wed Oct 20 2021,Huddersfield,0-0,0-0,Birmingham
+Wed Oct 20 2021,Hull,1-2,1-1,Peterboro
+Wed Oct 20 2021,Middlesbrough,2-0,1-0,Barnsley
+Wed Oct 20 2021,Preston,2-1,0-1,Coventry
+Wed Oct 20 2021,Swansea,2-1,0-1,West Brom
+Wed Oct 20 2021,Reading,2-3,2-0,Blackpool
+Sat Oct 23 2021,Cardiff,0-2,0-1,Middlesbrough
+Sat Oct 23 2021,Birmingham,2-1,0-0,Swansea
+Sat Oct 23 2021,Blackburn,2-0,0-0,Reading
+Sat Oct 23 2021,Blackpool,2-0,1-0,Preston
+Sat Oct 23 2021,Bournemouth,3-0,2-0,Huddersfield
+Sat Oct 23 2021,Coventry,1-1,1-0,Derby
+Sat Oct 23 2021,Luton,1-0,1-0,Hull
+Sat Oct 23 2021,Millwall,2-1,0-1,Stoke
+Sat Oct 23 2021,Peterboro,2-1,0-0,QPR
+Sat Oct 23 2021,West Brom,3-0,2-0,Bristol City
+Sun Oct 24 2021,Barnsley,2-3,0-0,Sheffield United
+Sun Oct 24 2021,Nott'm Forest,0-4,0-1,Fulham
+Fri Oct 29 2021,QPR,1-1,1-0,Nott'm Forest
+Sat Oct 30 2021,Fulham,3-0,2-0,West Brom
+Sat Oct 30 2021,Bristol City,2-1,2-1,Barnsley
+Sat Oct 30 2021,Derby,1-2,0-2,Blackburn
+Sat Oct 30 2021,Huddersfield,1-0,0-0,Millwall
+Sat Oct 30 2021,Hull,0-1,0-1,Coventry
+Sat Oct 30 2021,Middlesbrough,0-2,0-0,Birmingham
+Sat Oct 30 2021,Preston,2-0,2-0,Luton
+Sat Oct 30 2021,Sheffield United,0-1,0-0,Blackpool
+Sat Oct 30 2021,Stoke,3-3,2-0,Cardiff
+Sat Oct 30 2021,Swansea,3-0,3-0,Peterboro
+Sat Oct 30 2021,Reading,0-2,0-1,Bournemouth
+Tue Nov 2 2021,Birmingham,3-0,1-0,Bristol City
+Tue Nov 2 2021,Coventry,1-2,1-2,Swansea
+Tue Nov 2 2021,Luton,3-1,0-1,Middlesbrough
+Tue Nov 2 2021,Millwall,1-0,0-0,Reading
+Tue Nov 2 2021,Nott'm Forest,1-1,0-0,Sheffield United
+Tue Nov 2 2021,Peterboro,1-1,0-0,Huddersfield
+Wed Nov 3 2021,Barnsley,2-1,1-1,Derby
+Wed Nov 3 2021,Blackburn,0-7,0-2,Fulham
+Wed Nov 3 2021,Blackpool,0-1,0-0,Stoke
+Wed Nov 3 2021,Bournemouth,1-2,0-0,Preston
+Wed Nov 3 2021,Cardiff,0-1,0-1,QPR
+Wed Nov 3 2021,West Brom,1-0,0-0,Hull
+Sat Nov 6 2021,Barnsley,0-2,0-1,Hull
+Sat Nov 6 2021,Blackburn,3-1,1-1,Sheffield United
+Sat Nov 6 2021,Bournemouth,4-0,1-0,Swansea
+Sat Nov 6 2021,Cardiff,2-1,0-1,Huddersfield
+Sat Nov 6 2021,Coventry,3-2,0-1,Bristol City
+Sat Nov 6 2021,Luton,0-1,0-1,Stoke
+Sat Nov 6 2021,Millwall,1-1,1-1,Derby
+Sat Nov 6 2021,Nott'm Forest,3-0,2-0,Preston
+Sat Nov 6 2021,Peterboro,0-1,0-0,Fulham
+Sat Nov 6 2021,West Brom,1-1,0-1,Middlesbrough
+Sat Nov 6 2021,Birmingham,1-2,1-0,Reading
+Sat Nov 6 2021,Blackpool,1-1,0-1,QPR
+Fri Nov 19 2021,QPR,2-0,1-0,Luton
+Sat Nov 20 2021,Sheffield United,0-0,0-0,Coventry
+Sat Nov 20 2021,Bristol City,1-1,1-0,Blackburn
+Sat Nov 20 2021,Fulham,4-1,2-0,Barnsley
+Sat Nov 20 2021,Huddersfield,1-0,1-0,West Brom
+Sat Nov 20 2021,Hull,2-0,1-0,Birmingham
+Sat Nov 20 2021,Middlesbrough,1-1,1-1,Millwall
+Sat Nov 20 2021,Preston,1-2,1-0,Cardiff
+Sat Nov 20 2021,Reading,1-1,0-1,Nott'm Forest
+Sat Nov 20 2021,Stoke,2-0,1-0,Peterboro
+Sat Nov 20 2021,Swansea,1-1,1-0,Blackpool
+Sun Nov 21 2021,Derby,3-2,1-2,Bournemouth
+Tue Nov 23 2021,Blackpool,0-0,0-0,West Brom
+Tue Nov 23 2021,Coventry,0-0,0-0,Birmingham
+Tue Nov 23 2021,Middlesbrough,1-2,1-0,Preston
+Tue Nov 23 2021,Nott'm Forest,0-0,0-0,Luton
+Tue Nov 23 2021,Reading,0-1,0-0,Sheffield United
+Wed Nov 24 2021,Barnsley,0-2,0-0,Swansea
+Wed Nov 24 2021,Blackburn,4-0,3-0,Peterboro
+Wed Nov 24 2021,Bristol City,1-0,1-0,Stoke
+Wed Nov 24 2021,Cardiff,0-1,0-1,Hull
+Wed Nov 24 2021,Fulham,0-0,0-0,Derby
+Wed Nov 24 2021,Millwall,1-1,0-1,Bournemouth
+Wed Nov 24 2021,QPR,1-0,0-0,Huddersfield
+Fri Nov 26 2021,West Brom,0-0,0-0,Nott'm Forest
+Sat Nov 27 2021,Preston,1-1,0-1,Fulham
+Sat Nov 27 2021,Birmingham,1-0,0-0,Blackpool
+Sat Nov 27 2021,Bournemouth,2-2,1-0,Coventry
+Sat Nov 27 2021,Huddersfield,1-2,0-2,Middlesbrough
+Sat Nov 27 2021,Hull,2-1,1-1,Millwall
+Sat Nov 27 2021,Luton,1-2,0-1,Cardiff
+Sat Nov 27 2021,Peterboro,0-0,0-0,Barnsley
+Sat Nov 27 2021,Stoke,0-1,0-0,Blackburn
+Sat Nov 27 2021,Swansea,2-3,1-2,Reading
+Sun Nov 28 2021,Sheffield United,2-0,1-0,Bristol City
+Mon Nov 29 2021,Derby,1-2,1-0,QPR
+Fri Dec 3 2021,Fulham,1-1,0-0,Bournemouth
+Sat Dec 4 2021,Coventry,1-2,0-2,West Brom
+Sat Dec 4 2021,Barnsley,1-1,1-1,Huddersfield
+Sat Dec 4 2021,Blackburn,1-0,0-0,Preston
+Sat Dec 4 2021,Blackpool,0-3,0-1,Luton
+Sat Dec 4 2021,Bristol City,1-0,1-0,Derby
+Sat Dec 4 2021,Cardiff,2-3,1-0,Sheffield United
+Sat Dec 4 2021,Middlesbrough,1-0,1-0,Swansea
+Sat Dec 4 2021,Millwall,3-1,2-0,Birmingham
+Sat Dec 4 2021,Nott'm Forest,2-0,0-0,Peterboro
+Sat Dec 4 2021,Reading,1-1,1-0,Hull
+Sun Dec 5 2021,QPR,0-2,0-1,Stoke
+Sat Dec 11 2021,Huddersfield,1-1,1-0,Coventry
+Sat Dec 11 2021,Birmingham,2-2,2-0,Cardiff
+Sat Dec 11 2021,Bournemouth,0-2,0-1,Blackburn
+Sat Dec 11 2021,Derby,1-0,0-0,Blackpool
+Sat Dec 11 2021,Hull,2-2,1-0,Bristol City
+Sat Dec 11 2021,Luton,1-1,0-1,Fulham
+Sat Dec 11 2021,Peterboro,2-1,0-1,Millwall
+Sat Dec 11 2021,Preston,2-1,0-0,Barnsley
+Sat Dec 11 2021,Stoke,0-0,0-0,Middlesbrough
+Sat Dec 11 2021,Swansea,1-4,0-0,Nott'm Forest
+Sat Dec 11 2021,West Brom,1-0,0-0,Reading
+Fri Dec 17 2021,Barnsley,0-0,0-0,West Brom
+Sat Dec 18 2021,Middlesbrough,1-0,0-0,Bournemouth
+Sat Dec 18 2021,Blackburn,4-0,1-0,Birmingham
+Sat Dec 18 2021,Blackpool,3-1,1-1,Peterboro
+Sat Dec 18 2021,Bristol City,2-3,1-1,Huddersfield
+Sat Dec 18 2021,Nott'm Forest,2-1,0-1,Hull
+Mon Dec 20 2021,Fulham,0-1,0-1,Sheffield United
+Sun Dec 26 2021,Huddersfield,3-2,1-2,Blackpool
+Sun Dec 26 2021,Middlesbrough,2-0,1-0,Nott'm Forest
+Mon Dec 27 2021,Derby,1-0,0-0,West Brom
+Mon Dec 27 2021,QPR,0-1,0-1,Bournemouth
+Wed Dec 29 2021,Blackburn,2-1,1-1,Barnsley
+Wed Dec 29 2021,Blackpool,1-2,0-0,Middlesbrough
+Wed Dec 29 2021,Coventry,0-1,0-0,Millwall
+Thu Dec 30 2021,Bournemouth,3-0,1-0,Cardiff
+Thu Dec 30 2021,Bristol City,1-2,1-1,QPR
+Thu Dec 30 2021,Nott'm Forest,0-1,0-1,Huddersfield
+Thu Dec 30 2021,Stoke,1-2,0-1,Derby
+Sat Jan 1 2022,Blackpool,1-0,1-0,Hull
+Sun Jan 2 2022,Bristol City,3-2,1-2,Millwall
+Sun Jan 2 2022,Birmingham,1-2,0-1,QPR
+Sun Jan 2 2022,Blackburn,0-0,0-0,Huddersfield
+Sun Jan 2 2022,West Brom,1-1,0-1,Cardiff
+Mon Jan 3 2022,Reading,2-2,1-0,Derby
+Mon Jan 3 2022,Stoke,1-2,0-0,Preston
+Tue Jan 11 2022,Reading,0-7,0-2,Fulham
+Sat Jan 15 2022,Cardiff,0-1,0-1,Blackburn
+Sat Jan 15 2022,Luton,3-2,2-0,Bournemouth
+Sat Jan 15 2022,Derby,2-0,0-0,Sheffield United
+Sat Jan 15 2022,Fulham,6-2,5-2,Bristol City
+Sat Jan 15 2022,Huddersfield,1-1,1-0,Swansea
+Sat Jan 15 2022,Middlesbrough,2-1,0-0,Reading
+Sat Jan 15 2022,Millwall,0-1,0-0,Nott'm Forest
+Sat Jan 15 2022,Peterboro,1-4,1-2,Coventry
+Sat Jan 15 2022,Preston,1-1,1-0,Birmingham
+Sat Jan 15 2022,QPR,1-0,0-0,West Brom
+Sun Jan 16 2022,Hull,0-2,0-1,Stoke
+Tue Jan 18 2022,Fulham,6-2,4-1,Birmingham
+Tue Jan 18 2022,Preston,2-2,0-2,Sheffield United
+Wed Jan 19 2022,Hull,2-0,1-0,Blackburn
+Wed Jan 19 2022,Reading,0-2,0-1,Luton
+Sat Jan 22 2022,Bristol City,3-2,1-1,Cardiff
+Sat Jan 22 2022,Nott'm Forest,2-1,0-0,Derby
+Sat Jan 22 2022,Birmingham,2-1,1-0,Barnsley
+Sat Jan 22 2022,Blackpool,1-0,0-0,Millwall
+Sat Jan 22 2022,Bournemouth,0-1,0-0,Hull
+Sat Jan 22 2022,Coventry,1-2,0-1,QPR
+Sat Jan 22 2022,Reading,3-4,3-3,Huddersfield
+Sat Jan 22 2022,Sheffield United,2-0,0-0,Luton
+Sat Jan 22 2022,Stoke,2-3,1-2,Fulham
+Sat Jan 22 2022,Swansea,1-0,0-0,Preston
+Sat Jan 22 2022,West Brom,3-0,0-0,Peterboro
+Mon Jan 24 2022,Blackburn,1-0,0-0,Middlesbrough
+Tue Jan 25 2022,Birmingham,2-2,0-1,Peterboro
+Tue Jan 25 2022,Coventry,1-0,0-0,Stoke
+Tue Jan 25 2022,Luton,2-1,1-0,Bristol City
+Tue Jan 25 2022,Nott'm Forest,3-0,2-0,Barnsley
+Tue Jan 25 2022,QPR,0-0,0-0,Swansea
+Wed Jan 26 2022,West Brom,0-2,0-1,Preston
+Fri Jan 28 2022,Huddersfield,1-1,1-0,Stoke
+Sat Jan 29 2022,Barnsley,0-1,0-1,Bournemouth
+Sat Jan 29 2022,Fulham,1-1,1-0,Blackpool
+Sat Jan 29 2022,Hull,2-0,2-0,Swansea
+Sat Jan 29 2022,Luton,0-0,0-0,Blackburn
+Sat Jan 29 2022,Middlesbrough,1-0,0-0,Coventry
+Sat Jan 29 2022,Millwall,2-0,0-0,West Brom
+Sat Jan 29 2022,Preston,2-2,0-1,Bristol City
+Sat Jan 29 2022,QPR,4-0,3-0,Reading
+Sat Jan 29 2022,Peterboro,0-2,0-0,Sheffield United
+Sun Jan 30 2022,Derby,2-2,0-1,Birmingham
+Sun Jan 30 2022,Cardiff,2-1,1-0,Nott'm Forest
+Tue Feb 1 2022,Millwall,0-0,0-0,Preston
+Tue Feb 1 2022,Swansea,0-1,0-0,Luton
+Wed Feb 2 2022,Barnsley,0-1,0-0,Cardiff
+Wed Feb 2 2022,Huddersfield,2-0,0-0,Derby
+Fri Feb 4 2022,Birmingham,1-2,0-0,Sheffield United
+Sat Feb 5 2022,Blackpool,3-1,2-0,Bristol City
+Sat Feb 5 2022,Hull,0-1,0-0,Preston
+Sat Feb 5 2022,Swansea,1-0,1-0,Blackburn
+Tue Feb 8 2022,Coventry,1-1,1-1,Blackpool
+Tue Feb 8 2022,Derby,3-1,2-0,Hull
+Tue Feb 8 2022,Fulham,3-0,1-0,Millwall
+Tue Feb 8 2022,Luton,2-1,1-1,Barnsley
+Tue Feb 8 2022,Stoke,3-0,0-0,Swansea
+Wed Feb 9 2022,Blackburn,0-2,0-1,Nott'm Forest
+Wed Feb 9 2022,Bournemouth,3-1,2-0,Birmingham
+Wed Feb 9 2022,Bristol City,2-1,1-0,Reading
+Wed Feb 9 2022,Cardiff,4-0,2-0,Peterboro
+Wed Feb 9 2022,Preston,0-0,0-0,Huddersfield
+Wed Feb 9 2022,QPR,2-2,1-1,Middlesbrough
+Wed Feb 9 2022,Sheffield United,2-0,1-0,West Brom
+Sat Feb 12 2022,Huddersfield,0-0,0-0,Sheffield United
+Sat Feb 12 2022,Barnsley,1-0,0-0,QPR
+Sat Feb 12 2022,Birmingham,3-0,1-0,Luton
+Sat Feb 12 2022,Blackpool,1-2,1-0,Bournemouth
+Sat Feb 12 2022,Hull,0-1,0-0,Fulham
+Sat Feb 12 2022,Middlesbrough,4-1,3-1,Derby
+Sat Feb 12 2022,Millwall,2-1,0-0,Cardiff
+Sat Feb 12 2022,Nott'm Forest,2-2,0-0,Stoke
+Sat Feb 12 2022,Peterboro,0-1,0-0,Preston
+Sat Feb 12 2022,Reading,2-3,1-1,Coventry
+Sun Feb 13 2022,Swansea,3-1,0-1,Bristol City
+Mon Feb 14 2022,West Brom,0-0,0-0,Blackburn
+Tue Feb 15 2022,Cardiff,2-0,0-0,Coventry
+Tue Feb 15 2022,Millwall,2-0,0-0,QPR
+Tue Feb 15 2022,Sheffield United,0-0,0-0,Hull
+Wed Feb 16 2022,Peterboro,0-0,0-0,Reading
+Sat Feb 19 2022,Fulham,1-2,0-2,Huddersfield
+Sat Feb 19 2022,Bristol City,2-1,1-0,Middlesbrough
+Sat Feb 19 2022,Cardiff,1-1,0-1,Blackpool
+Sat Feb 19 2022,Coventry,1-0,0-0,Barnsley
+Sat Feb 19 2022,Derby,1-0,0-0,Peterboro
+Sat Feb 19 2022,Luton,2-0,0-0,West Brom
+Sat Feb 19 2022,Preston,2-3,0-2,Reading
+Sat Feb 19 2022,QPR,1-1,0-1,Hull
+Sat Feb 19 2022,Sheffield United,4-0,3-0,Swansea
+Sat Feb 19 2022,Stoke,2-2,1-1,Birmingham
+Tue Feb 22 2022,Bristol City,1-2,0-1,Coventry
+Tue Feb 22 2022,Hull,0-2,0-2,Barnsley
+Tue Feb 22 2022,Middlesbrough,2-1,0-1,West Brom
+Tue Feb 22 2022,Preston,0-0,0-0,Nott'm Forest
+Tue Feb 22 2022,Reading,2-1,0-0,Birmingham
+Wed Feb 23 2022,Derby,1-2,0-2,Millwall
+Wed Feb 23 2022,Fulham,2-1,1-0,Peterboro
+Wed Feb 23 2022,Huddersfield,2-1,0-0,Cardiff
+Wed Feb 23 2022,QPR,2-1,1-0,Blackpool
+Wed Feb 23 2022,Sheffield United,1-0,0-0,Blackburn
+Wed Feb 23 2022,Stoke,1-2,0-0,Luton
+Sat Feb 26 2022,Blackburn,1-0,0-0,QPR
+Sat Feb 26 2022,Barnsley,3-2,2-0,Middlesbrough
+Sat Feb 26 2022,Birmingham,0-2,0-2,Huddersfield
+Sat Feb 26 2022,Blackpool,4-1,1-1,Reading
+Sat Feb 26 2022,Bournemouth,2-1,0-1,Stoke
+Sat Feb 26 2022,Cardiff,0-1,0-1,Fulham
+Sat Feb 26 2022,Coventry,1-1,0-0,Preston
+Sat Feb 26 2022,Luton,1-0,0-0,Derby
+Sat Feb 26 2022,Millwall,1-0,0-0,Sheffield United
+Sat Feb 26 2022,Nott'm Forest,2-0,1-0,Bristol City
+Sat Feb 26 2022,Peterboro,0-3,0-1,Hull
+Mon Feb 28 2022,West Brom,0-2,0-0,Swansea
+Tue Mar 1 2022,Cardiff,1-0,0-0,Derby
+Fri Mar 4 2022,Huddersfield,3-0,2-0,Peterboro
+Fri Mar 4 2022,Sheffield United,1-1,0-0,Nott'm Forest
+Sat Mar 5 2022,Fulham,2-0,2-0,Blackburn
+Sat Mar 5 2022,Bristol City,1-2,0-2,Birmingham
+Sat Mar 5 2022,Derby,2-0,1-0,Barnsley
+Sat Mar 5 2022,Hull,0-2,0-1,West Brom
+Sat Mar 5 2022,Middlesbrough,2-1,1-0,Luton
+Sat Mar 5 2022,Preston,2-1,0-0,Bournemouth
+Sat Mar 5 2022,QPR,1-2,1-0,Cardiff
+Sat Mar 5 2022,Reading,0-1,0-1,Millwall
+Sat Mar 5 2022,Stoke,0-1,0-0,Blackpool
+Sat Mar 5 2022,Swansea,3-1,2-0,Coventry
+Tue Mar 8 2022,Barnsley,1-1,0-0,Stoke
+Tue Mar 8 2022,Blackburn,0-0,0-0,Millwall
+Tue Mar 8 2022,Bournemouth,1-1,0-1,Peterboro
+Tue Mar 8 2022,Coventry,0-1,0-1,Luton
+Tue Mar 8 2022,Sheffield United,4-1,2-0,Middlesbrough
+Tue Mar 8 2022,Swansea,1-5,0-0,Fulham
+Fri Mar 11 2022,West Brom,2-2,0-1,Huddersfield
+Sat Mar 12 2022,Barnsley,1-1,1-0,Fulham
+Sat Mar 12 2022,Birmingham,0-0,0-0,Hull
+Sat Mar 12 2022,Blackburn,0-1,0-0,Bristol City
+Sat Mar 12 2022,Blackpool,1-0,1-0,Swansea
+Sat Mar 12 2022,Bournemouth,2-0,1-0,Derby
+Sat Mar 12 2022,Cardiff,0-0,0-0,Preston
+Sat Mar 12 2022,Coventry,4-1,1-1,Sheffield United
+Sat Mar 12 2022,Millwall,0-0,0-0,Middlesbrough
+Sat Mar 12 2022,Nott'm Forest,4-0,1-0,Reading
+Sat Mar 12 2022,Peterboro,2-2,1-1,Stoke
+Sun Mar 13 2022,Luton,1-2,1-0,QPR
+Tue Mar 15 2022,Barnsley,2-0,2-0,Bristol City
+Tue Mar 15 2022,Birmingham,0-2,0-1,Middlesbrough
+Tue Mar 15 2022,Blackburn,3-1,0-1,Derby
+Tue Mar 15 2022,Bournemouth,1-1,1-0,Reading
+Tue Mar 15 2022,West Brom,1-0,0-0,Fulham
+Wed Mar 16 2022,Blackpool,0-0,0-0,Sheffield United
+Wed Mar 16 2022,Cardiff,2-1,2-1,Stoke
+Wed Mar 16 2022,Coventry,0-2,0-2,Hull
+Wed Mar 16 2022,Luton,4-0,3-0,Preston
+Wed Mar 16 2022,Millwall,2-0,1-0,Huddersfield
+Wed Mar 16 2022,Nott'm Forest,3-1,0-1,QPR
+Wed Mar 16 2022,Peterboro,2-3,0-1,Swansea
+Sat Mar 19 2022,Derby,1-1,0-1,Coventry
+Sat Mar 19 2022,Sheffield United,2-0,0-0,Barnsley
+Sat Mar 19 2022,Bristol City,2-2,1-0,West Brom
+Sat Mar 19 2022,Huddersfield,0-3,0-2,Bournemouth
+Sat Mar 19 2022,Hull,1-3,0-1,Luton
+Sat Mar 19 2022,Reading,1-0,0-0,Blackburn
+Sat Mar 19 2022,Stoke,2-0,1-0,Millwall
+Sat Mar 19 2022,Swansea,0-0,0-0,Birmingham
+Sun Mar 20 2022,QPR,1-3,1-1,Peterboro
+Fri Apr 1 2022,Hull,0-1,0-0,Huddersfield
+Sat Apr 2 2022,Blackpool,1-4,0-3,Nott'm Forest
+Sat Apr 2 2022,Barnsley,1-1,1-0,Reading
+Sat Apr 2 2022,Bournemouth,3-2,1-1,Bristol City
+Sat Apr 2 2022,Cardiff,0-4,0-1,Swansea
+Sat Apr 2 2022,Coventry,2-2,1-0,Blackburn
+Sat Apr 2 2022,Derby,1-0,0-0,Preston
+Sat Apr 2 2022,Luton,2-2,1-1,Millwall
+Sat Apr 2 2022,Peterboro,0-4,0-1,Middlesbrough
+Sat Apr 2 2022,QPR,0-2,0-1,Fulham
+Sat Apr 2 2022,Stoke,1-0,0-0,Sheffield United
+Sun Apr 3 2022,Birmingham,1-0,0-0,West Brom
+Tue Apr 5 2022,Millwall,0-1,0-0,Swansea
+Tue Apr 5 2022,Peterboro,1-1,0-0,Luton
+Tue Apr 5 2022,Preston,1-0,1-0,Blackpool
+Tue Apr 5 2022,Sheffield United,1-0,1-0,QPR
+Tue Apr 5 2022,Reading,2-1,1-1,Stoke
+Wed Apr 6 2022,Middlesbrough,0-1,0-0,Fulham
+Wed Apr 6 2022,Nott'm Forest,2-0,1-0,Coventry
+Wed Apr 6 2022,West Brom,2-0,2-0,Bournemouth
+Sat Apr 9 2022,Sheffield United,0-0,0-0,Bournemouth
+Sat Apr 9 2022,Blackburn,1-1,1-0,Blackpool
+Sat Apr 9 2022,Bristol City,1-1,1-0,Peterboro
+Sat Apr 9 2022,Middlesbrough,0-1,0-0,Hull
+Sat Apr 9 2022,Millwall,4-1,1-0,Barnsley
+Sat Apr 9 2022,Nott'm Forest,2-0,1-0,Birmingham
+Sat Apr 9 2022,Preston,2-1,1-0,QPR
+Sat Apr 9 2022,Reading,1-2,1-0,Cardiff
+Sat Apr 9 2022,Swansea,2-1,2-1,Derby
+Sat Apr 9 2022,West Brom,1-3,0-1,Stoke
+Sun Apr 10 2022,Fulham,1-3,0-2,Coventry
+Mon Apr 11 2022,Huddersfield,2-0,0-0,Luton
+Fri Apr 15 2022,Luton,1-0,1-0,Nott'm Forest
+Fri Apr 15 2022,Birmingham,2-4,2-2,Coventry
+Fri Apr 15 2022,Bournemouth,0-0,0-0,Middlesbrough
+Fri Apr 15 2022,Hull,2-1,2-0,Cardiff
+Fri Apr 15 2022,Peterboro,2-1,0-0,Blackburn
+Fri Apr 15 2022,Preston,1-1,1-1,Millwall
+Fri Apr 15 2022,Sheffield United,1-2,0-1,Reading
+Fri Apr 15 2022,Stoke,0-1,0-0,Bristol City
+Fri Apr 15 2022,Swansea,1-1,0-0,Barnsley
+Fri Apr 15 2022,West Brom,2-1,1-0,Blackpool
+Fri Apr 15 2022,Huddersfield,2-2,1-1,QPR
+Fri Apr 15 2022,Derby,2-1,0-1,Fulham
+Mon Apr 18 2022,Middlesbrough,0-2,0-1,Huddersfield
+Mon Apr 18 2022,Barnsley,0-2,0-1,Peterboro
+Mon Apr 18 2022,Blackburn,0-1,0-1,Stoke
+Mon Apr 18 2022,Blackpool,6-1,3-0,Birmingham
+Mon Apr 18 2022,Cardiff,0-1,0-0,Luton
+Mon Apr 18 2022,Coventry,0-3,0-2,Bournemouth
+Mon Apr 18 2022,Millwall,2-1,0-0,Hull
+Mon Apr 18 2022,QPR,1-0,0-0,Derby
+Mon Apr 18 2022,Reading,4-4,1-3,Swansea
+Mon Apr 18 2022,Bristol City,1-1,0-0,Sheffield United
+Mon Apr 18 2022,Nott'm Forest,4-0,3-0,West Brom
+Tue Apr 19 2022,Fulham,3-0,3-0,Preston
+Fri Apr 22 2022,Huddersfield,2-1,2-0,Barnsley
+Sat Apr 23 2022,Luton,1-1,1-0,Blackpool
+Sat Apr 23 2022,Birmingham,2-2,0-0,Millwall
+Sat Apr 23 2022,Bournemouth,1-1,0-0,Fulham
+Sat Apr 23 2022,Derby,1-3,0-2,Bristol City
+Sat Apr 23 2022,Hull,3-0,1-0,Reading
+Sat Apr 23 2022,Peterboro,0-1,0-1,Nott'm Forest
+Sat Apr 23 2022,Sheffield United,1-0,0-0,Cardiff
+Sat Apr 23 2022,Stoke,1-0,1-0,QPR
+Sat Apr 23 2022,Swansea,1-1,0-0,Middlesbrough
+Sat Apr 23 2022,West Brom,0-0,0-0,Coventry
+Mon Apr 25 2022,Preston,1-4,1-3,Blackburn
+Tue Apr 26 2022,Barnsley,0-2,0-1,Blackpool
+Tue Apr 26 2022,Fulham,0-1,0-1,Nott'm Forest
+Tue Apr 26 2022,Swansea,3-3,2-0,Bournemouth
+Wed Apr 27 2022,Middlesbrough,2-0,1-0,Cardiff
+Fri Apr 29 2022,QPR,1-3,1-0,Sheffield United
+Sat Apr 30 2022,Barnsley,1-3,1-1,Preston
+Sat Apr 30 2022,Blackburn,0-3,0-1,Bournemouth
+Sat Apr 30 2022,Blackpool,0-2,0-0,Derby
+Sat Apr 30 2022,Bristol City,5-0,3-0,Hull
+Sat Apr 30 2022,Cardiff,1-1,0-1,Birmingham
+Sat Apr 30 2022,Coventry,1-2,0-1,Huddersfield
+Sat Apr 30 2022,Middlesbrough,3-1,2-0,Stoke
+Sat Apr 30 2022,Millwall,3-0,0-0,Peterboro
+Sat Apr 30 2022,Nott'm Forest,5-1,1-1,Swansea
+Sat Apr 30 2022,Reading,0-1,0-0,West Brom
+Mon May 2 2022,Fulham,7-0,2-0,Luton
+Tue May 3 2022,Bournemouth,1-0,0-0,Nott'm Forest
+Sat May 7 2022,Birmingham,1-2,0-2,Blackburn
+Sat May 7 2022,Bournemouth,1-0,0-0,Millwall
+Sat May 7 2022,Derby,0-1,0-0,Cardiff
+Sat May 7 2022,Huddersfield,2-0,2-0,Bristol City
+Sat May 7 2022,Hull,1-1,0-0,Nott'm Forest
+Sat May 7 2022,Luton,1-0,1-0,Reading
+Sat May 7 2022,Peterboro,5-0,1-0,Blackpool
+Sat May 7 2022,Preston,4-1,2-0,Middlesbrough
+Sat May 7 2022,Sheffield United,4-0,3-0,Fulham
+Sat May 7 2022,Stoke,1-1,1-1,Coventry
+Sat May 7 2022,Swansea,0-1,0-0,QPR
+Sat May 7 2022,West Brom,4-0,2-0,Barnsley

@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 29 2022,Huddersfield,0-1,0-1,Burnley
+Sat Jul 30 2022,Blackburn,1-0,1-0,QPR
+Sat Jul 30 2022,Blackpool,1-0,1-0,Reading
+Sat Jul 30 2022,Cardiff,1-0,0-0,Norwich
+Sat Jul 30 2022,Hull,2-1,0-1,Bristol City
+Sat Jul 30 2022,Luton,0-0,0-0,Birmingham
+Sat Jul 30 2022,Millwall,2-0,1-0,Stoke
+Sat Jul 30 2022,Rotherham,1-1,1-1,Swansea
+Sat Jul 30 2022,Wigan,0-0,0-0,Preston
+Sat Jul 30 2022,Middlesbrough,1-1,1-0,West Brom
+Sun Jul 31 2022,Sunderland,1-1,1-0,Coventry
+Mon Aug 1 2022,Watford,1-0,0-0,Sheffield United
+Fri Aug 5 2022,Birmingham,2-1,2-0,Huddersfield
+Sat Aug 6 2022,Norwich,1-1,0-1,Wigan
+Sat Aug 6 2022,Bristol City,2-3,1-1,Sunderland
+Sat Aug 6 2022,Burnley,1-1,0-1,Luton
+Sat Aug 6 2022,Preston,0-0,0-0,Hull
+Sat Aug 6 2022,QPR,3-2,3-1,Middlesbrough
+Sat Aug 6 2022,Reading,2-1,1-1,Cardiff
+Sat Aug 6 2022,Sheffield United,2-0,2-0,Millwall
+Sat Aug 6 2022,Stoke,2-0,1-0,Blackpool
+Sat Aug 6 2022,Swansea,0-3,0-1,Blackburn
+Mon Aug 8 2022,West Brom,1-1,1-1,Watford
+Fri Aug 12 2022,Watford,1-0,1-0,Burnley
+Sat Aug 13 2022,Cardiff,1-0,1-0,Birmingham
+Sat Aug 13 2022,Blackpool,0-1,0-0,Swansea
+Sat Aug 13 2022,Huddersfield,3-1,1-0,Stoke
+Sat Aug 13 2022,Hull,2-1,1-0,Norwich
+Sat Aug 13 2022,Luton,0-1,0-1,Preston
+Sat Aug 13 2022,Millwall,3-2,1-2,Coventry
+Sat Aug 13 2022,Rotherham,4-0,4-0,Reading
+Sat Aug 13 2022,Sunderland,2-2,2-0,QPR
+Sat Aug 13 2022,Wigan,1-1,0-1,Bristol City
+Sun Aug 14 2022,Middlesbrough,2-2,1-1,Sheffield United
+Sun Aug 14 2022,Blackburn,2-1,1-0,West Brom
+Tue Aug 16 2022,Birmingham,1-1,1-0,Watford
+Tue Aug 16 2022,Bristol City,2-0,2-0,Luton
+Tue Aug 16 2022,Burnley,1-1,1-1,Hull
+Tue Aug 16 2022,Norwich,2-1,2-0,Huddersfield
+Tue Aug 16 2022,Preston,0-0,0-0,Rotherham
+Tue Aug 16 2022,Swansea,2-2,2-0,Millwall
+Tue Aug 16 2022,QPR,0-1,0-1,Blackpool
+Wed Aug 17 2022,Stoke,2-2,1-1,Middlesbrough
+Wed Aug 17 2022,Reading,3-0,1-0,Blackburn
+Wed Aug 17 2022,Sheffield United,2-1,1-0,Sunderland
+Wed Aug 17 2022,West Brom,0-0,0-0,Cardiff
+Fri Aug 19 2022,Norwich,2-0,0-0,Millwall
+Sat Aug 20 2022,Birmingham,0-1,0-0,Wigan
+Sat Aug 20 2022,Burnley,3-3,3-1,Blackpool
+Sat Aug 20 2022,Preston,0-0,0-0,Watford
+Sat Aug 20 2022,QPR,1-1,1-1,Rotherham
+Sat Aug 20 2022,Reading,1-0,1-0,Middlesbrough
+Sat Aug 20 2022,Sheffield United,3-0,1-0,Blackburn
+Sat Aug 20 2022,Stoke,0-1,0-1,Sunderland
+Sat Aug 20 2022,Swansea,0-2,0-1,Luton
+Sat Aug 20 2022,West Brom,5-2,1-0,Hull
+Sun Aug 21 2022,Bristol City,2-0,1-0,Cardiff
+Fri Aug 26 2022,Luton,1-1,1-0,Sheffield United
+Sat Aug 27 2022,Sunderland,0-1,0-0,Norwich
+Sat Aug 27 2022,Blackburn,0-1,0-1,Stoke
+Sat Aug 27 2022,Blackpool,3-3,1-1,Bristol City
+Sat Aug 27 2022,Cardiff,0-0,0-0,Preston
+Sat Aug 27 2022,Huddersfield,2-2,2-1,West Brom
+Sat Aug 27 2022,Hull,3-2,2-1,Coventry
+Sat Aug 27 2022,Middlesbrough,2-1,2-0,Swansea
+Sat Aug 27 2022,Millwall,0-1,0-1,Reading
+Sat Aug 27 2022,Rotherham,2-0,1-0,Birmingham
+Sat Aug 27 2022,Watford,2-3,1-2,QPR
+Sat Aug 27 2022,Wigan,1-5,1-2,Burnley
+Tue Aug 30 2022,Birmingham,1-2,0-0,Norwich
+Tue Aug 30 2022,Burnley,2-0,0-0,Millwall
+Tue Aug 30 2022,Cardiff,1-2,0-0,Luton
+Tue Aug 30 2022,QPR,3-1,3-0,Hull
+Tue Aug 30 2022,Sheffield United,4-0,1-0,Reading
+Tue Aug 30 2022,Wigan,1-1,1-1,West Brom
+Tue Aug 30 2022,Watford,2-1,1-1,Middlesbrough
+Wed Aug 31 2022,Bristol City,2-0,1-0,Huddersfield
+Wed Aug 31 2022,Coventry,0-1,0-0,Preston
+Wed Aug 31 2022,Stoke,1-1,0-1,Swansea
+Wed Aug 31 2022,Sunderland,3-0,0-0,Rotherham
+Wed Aug 31 2022,Blackpool,0-1,0-1,Blackburn
+Fri Sep 2 2022,West Brom,1-1,0-1,Burnley
+Sat Sep 3 2022,Blackburn,2-3,0-1,Bristol City
+Sat Sep 3 2022,Luton,1-2,1-0,Wigan
+Sat Sep 3 2022,Millwall,2-0,0-0,Cardiff
+Sat Sep 3 2022,Norwich,3-0,2-0,Coventry
+Sat Sep 3 2022,Preston,0-1,0-1,Birmingham
+Sat Sep 3 2022,Rotherham,1-1,1-1,Watford
+Sat Sep 3 2022,Swansea,1-0,1-0,QPR
+Sun Sep 4 2022,Reading,2-1,1-1,Stoke
+Sun Sep 4 2022,Huddersfield,0-1,0-1,Blackpool
+Sun Sep 4 2022,Hull,0-2,0-1,Sheffield United
+Mon Sep 5 2022,Middlesbrough,1-0,1-0,Sunderland
+Tue Sep 13 2022,Blackburn,2-0,1-0,Watford
+Tue Sep 13 2022,Huddersfield,1-2,0-1,Wigan
+Tue Sep 13 2022,Hull,0-3,0-2,Stoke
+Tue Sep 13 2022,Middlesbrough,2-3,0-3,Cardiff
+Tue Sep 13 2022,Swansea,0-1,0-0,Sheffield United
+Tue Sep 13 2022,Preston,1-1,1-1,Burnley
+Wed Sep 14 2022,Luton,2-2,2-1,Coventry
+Wed Sep 14 2022,Millwall,0-2,0-0,QPR
+Wed Sep 14 2022,Norwich,3-2,2-1,Bristol City
+Wed Sep 14 2022,Rotherham,3-0,1-0,Blackpool
+Wed Sep 14 2022,Reading,0-3,0-2,Sunderland
+Wed Sep 14 2022,West Brom,2-3,1-1,Birmingham
+Sat Sep 17 2022,Swansea,3-0,0-0,Hull
+Sat Sep 17 2022,Birmingham,0-0,0-0,Coventry
+Sat Sep 17 2022,Burnley,2-1,1-1,Bristol City
+Sat Sep 17 2022,Huddersfield,1-0,1-0,Cardiff
+Sat Sep 17 2022,Luton,2-0,0-0,Blackburn
+Sat Sep 17 2022,Millwall,2-1,1-1,Blackpool
+Sat Sep 17 2022,Norwich,1-1,0-1,West Brom
+Sat Sep 17 2022,Preston,0-2,0-1,Sheffield United
+Sat Sep 17 2022,QPR,0-0,0-0,Stoke
+Sat Sep 17 2022,Watford,2-2,1-1,Sunderland
+Sat Sep 17 2022,Wigan,0-1,0-0,Reading
+Sat Sep 17 2022,Middlesbrough,0-0,0-0,Rotherham
+Fri Sep 30 2022,Hull,0-2,0-2,Luton
+Sat Oct 1 2022,Blackburn,2-1,0-0,Millwall
+Sat Oct 1 2022,Blackpool,0-1,0-1,Norwich
+Sat Oct 1 2022,Bristol City,1-2,0-2,QPR
+Sat Oct 1 2022,Cardiff,1-1,0-0,Burnley
+Sat Oct 1 2022,Coventry,1-0,1-0,Middlesbrough
+Sat Oct 1 2022,Reading,3-1,2-0,Huddersfield
+Sat Oct 1 2022,Rotherham,0-2,0-1,Wigan
+Sat Oct 1 2022,Sheffield United,1-1,0-0,Birmingham
+Sat Oct 1 2022,Sunderland,0-0,0-0,Preston
+Sat Oct 1 2022,West Brom,2-3,0-1,Swansea
+Sun Oct 2 2022,Stoke,0-4,0-1,Watford
+Tue Oct 4 2022,Bristol City,0-0,0-0,Coventry
+Tue Oct 4 2022,Luton,3-3,3-2,Huddersfield
+Tue Oct 4 2022,Sheffield United,0-1,0-0,QPR
+Tue Oct 4 2022,Sunderland,0-0,0-0,Blackpool
+Tue Oct 4 2022,Cardiff,1-0,0-0,Blackburn
+Tue Oct 4 2022,Reading,1-1,0-0,Norwich
+Wed Oct 5 2022,Burnley,1-1,0-0,Stoke
+Wed Oct 5 2022,Hull,2-1,1-1,Wigan
+Wed Oct 5 2022,Middlesbrough,1-0,1-0,Birmingham
+Wed Oct 5 2022,Rotherham,1-1,1-1,Millwall
+Wed Oct 5 2022,Watford,1-2,1-0,Swansea
+Wed Oct 5 2022,Preston,1-0,1-0,West Brom
+Fri Oct 7 2022,QPR,2-1,1-1,Reading
+Sat Oct 8 2022,Birmingham,3-0,2-0,Bristol City
+Sat Oct 8 2022,Blackburn,3-0,1-0,Rotherham
+Sat Oct 8 2022,Blackpool,3-1,1-1,Watford
+Sat Oct 8 2022,Coventry,0-1,0-1,Burnley
+Sat Oct 8 2022,Millwall,2-0,1-0,Middlesbrough
+Sat Oct 8 2022,Norwich,2-3,1-1,Preston
+Sat Oct 8 2022,Stoke,3-1,2-1,Sheffield United
+Sat Oct 8 2022,Swansea,2-1,2-0,Sunderland
+Sat Oct 8 2022,West Brom,0-0,0-0,Luton
+Sat Oct 8 2022,Wigan,1-3,0-1,Cardiff
+Sun Oct 9 2022,Huddersfield,2-0,1-0,Hull
+Tue Oct 11 2022,Wigan,1-0,0-0,Blackburn
+Wed Oct 12 2022,Bristol City,2-1,0-0,Preston
+Sat Oct 15 2022,Luton,3-1,1-0,QPR
+Sat Oct 15 2022,Rotherham,2-1,1-1,Huddersfield
+Sat Oct 15 2022,Bristol City,1-2,0-1,Millwall
+Sat Oct 15 2022,Burnley,4-0,3-0,Swansea
+Sat Oct 15 2022,Cardiff,0-1,0-1,Coventry
+Sat Oct 15 2022,Middlesbrough,1-2,1-2,Blackburn
+Sat Oct 15 2022,Preston,0-2,0-0,Stoke
+Sat Oct 15 2022,Reading,0-2,0-1,West Brom
+Sat Oct 15 2022,Sheffield United,3-3,2-2,Blackpool
+Sat Oct 15 2022,Sunderland,2-1,0-1,Wigan
+Sat Oct 15 2022,Watford,2-1,2-1,Norwich
+Sun Oct 16 2022,Hull,0-2,0-1,Birmingham
+Tue Oct 18 2022,Huddersfield,0-1,0-0,Preston
+Tue Oct 18 2022,Norwich,0-1,0-0,Luton
+Tue Oct 18 2022,Swansea,3-2,1-2,Reading
+Tue Oct 18 2022,Blackburn,2-0,1-0,Sunderland
+Tue Oct 18 2022,Stoke,0-1,0-1,Rotherham
+Tue Oct 18 2022,West Brom,0-2,0-2,Bristol City
+Wed Oct 19 2022,Birmingham,1-1,0-0,Burnley
+Wed Oct 19 2022,Blackpool,1-3,1-2,Hull
+Wed Oct 19 2022,Coventry,1-0,0-0,Sheffield United
+Wed Oct 19 2022,QPR,3-0,2-0,Cardiff
+Wed Oct 19 2022,Wigan,1-4,1-1,Middlesbrough
+Wed Oct 19 2022,Millwall,3-0,3-0,Watford
+Sat Oct 22 2022,Blackpool,4-2,1-1,Preston
+Sat Oct 22 2022,Blackburn,2-1,2-0,Birmingham
+Sat Oct 22 2022,Middlesbrough,0-0,0-0,Huddersfield
+Sat Oct 22 2022,Millwall,2-1,1-1,West Brom
+Sat Oct 22 2022,QPR,2-1,2-1,Wigan
+Sat Oct 22 2022,Reading,2-0,0-0,Bristol City
+Sat Oct 22 2022,Rotherham,2-4,1-1,Hull
+Sat Oct 22 2022,Sheffield United,2-2,0-2,Norwich
+Sat Oct 22 2022,Stoke,0-2,0-0,Coventry
+Sat Oct 22 2022,Sunderland,2-4,2-0,Burnley
+Sun Oct 23 2022,Swansea,2-0,1-0,Cardiff
+Sun Oct 23 2022,Watford,4-0,2-0,Luton
+Tue Oct 25 2022,Coventry,2-2,0-1,Rotherham
+Tue Oct 25 2022,Burnley,1-0,0-0,Norwich
+Fri Oct 28 2022,Birmingham,2-0,2-0,QPR
+Sat Oct 29 2022,Bristol City,1-1,1-0,Swansea
+Sat Oct 29 2022,West Brom,0-2,0-2,Sheffield United
+Sat Oct 29 2022,Burnley,2-1,0-0,Reading
+Sat Oct 29 2022,Cardiff,1-0,0-0,Rotherham
+Sat Oct 29 2022,Coventry,1-2,1-0,Blackpool
+Sat Oct 29 2022,Huddersfield,1-0,1-0,Millwall
+Sat Oct 29 2022,Hull,0-1,0-1,Blackburn
+Sat Oct 29 2022,Luton,1-1,1-0,Sunderland
+Sat Oct 29 2022,Norwich,3-1,1-0,Stoke
+Sat Oct 29 2022,Preston,2-1,1-1,Middlesbrough
+Sat Oct 29 2022,Wigan,0-1,0-0,Watford
+Tue Nov 1 2022,Coventry,1-0,1-0,Blackburn
+Tue Nov 1 2022,Hull,1-3,0-1,Middlesbrough
+Tue Nov 1 2022,Luton,0-0,0-0,Reading
+Tue Nov 1 2022,Preston,1-0,1-0,Swansea
+Tue Nov 1 2022,Bristol City,0-1,0-0,Sheffield United
+Tue Nov 1 2022,West Brom,1-0,0-0,Blackpool
+Wed Nov 2 2022,Birmingham,0-0,0-0,Millwall
+Wed Nov 2 2022,Burnley,3-2,1-1,Rotherham
+Wed Nov 2 2022,Cardiff,1-2,1-1,Watford
+Wed Nov 2 2022,Huddersfield,0-2,0-0,Sunderland
+Wed Nov 2 2022,Norwich,0-0,0-0,QPR
+Wed Nov 2 2022,Wigan,0-1,0-0,Stoke
+Fri Nov 4 2022,Reading,1-2,0-0,Preston
+Sat Nov 5 2022,Sheffield United,5-2,1-2,Burnley
+Sat Nov 5 2022,Blackburn,1-0,1-0,Huddersfield
+Sat Nov 5 2022,Blackpool,0-1,0-0,Luton
+Sat Nov 5 2022,Middlesbrough,1-1,0-1,Bristol City
+Sat Nov 5 2022,Millwall,0-0,0-0,Hull
+Sat Nov 5 2022,QPR,0-1,0-0,West Brom
+Sat Nov 5 2022,Rotherham,1-2,0-1,Norwich
+Sat Nov 5 2022,Stoke,1-2,0-1,Birmingham
+Sat Nov 5 2022,Sunderland,0-1,0-0,Cardiff
+Sat Nov 5 2022,Swansea,2-2,1-2,Wigan
+Sat Nov 5 2022,Watford,0-1,0-0,Coventry
+Tue Nov 8 2022,Birmingham,2-2,1-2,Swansea
+Tue Nov 8 2022,Blackpool,0-3,0-1,Middlesbrough
+Tue Nov 8 2022,Cardiff,2-3,0-1,Hull
+Tue Nov 8 2022,Coventry,2-0,0-0,Wigan
+Tue Nov 8 2022,QPR,1-2,1-2,Huddersfield
+Tue Nov 8 2022,Sheffield United,0-1,0-1,Rotherham
+Tue Nov 8 2022,Stoke,2-0,2-0,Luton
+Tue Nov 8 2022,Watford,2-0,1-0,Reading
+Fri Nov 11 2022,Birmingham,1-2,0-1,Sunderland
+Sat Nov 12 2022,Bristol City,0-0,0-0,Watford
+Sat Nov 12 2022,Cardiff,0-1,0-0,Sheffield United
+Sat Nov 12 2022,Coventry,2-0,1-0,QPR
+Sat Nov 12 2022,Huddersfield,0-0,0-0,Swansea
+Sat Nov 12 2022,Hull,1-2,1-1,Reading
+Sat Nov 12 2022,Luton,1-1,0-1,Rotherham
+Sat Nov 12 2022,Norwich,1-2,1-0,Middlesbrough
+Sat Nov 12 2022,Preston,2-4,2-2,Millwall
+Sat Nov 12 2022,West Brom,2-0,1-0,Stoke
+Sat Nov 12 2022,Wigan,2-1,0-1,Blackpool
+Sun Nov 13 2022,Burnley,3-0,0-0,Blackburn
+Sat Dec 3 2022,Sunderland,3-0,0-0,Millwall
+Sat Dec 10 2022,Blackburn,1-4,0-1,Preston
+Sat Dec 10 2022,Rotherham,1-3,1-2,Bristol City
+Sat Dec 10 2022,Reading,1-0,0-0,Coventry
+Sat Dec 10 2022,Blackpool,0-0,0-0,Birmingham
+Sat Dec 10 2022,Middlesbrough,2-1,1-1,Luton
+Sat Dec 10 2022,Millwall,1-1,1-1,Wigan
+Sat Dec 10 2022,Sheffield United,1-0,1-0,Huddersfield
+Sat Dec 10 2022,Stoke,2-2,2-1,Cardiff
+Sat Dec 10 2022,Swansea,0-1,0-1,Norwich
+Sun Dec 11 2022,QPR,0-3,0-2,Burnley
+Sun Dec 11 2022,Watford,0-0,0-0,Hull
+Mon Dec 12 2022,Sunderland,1-2,1-0,West Brom
+Fri Dec 16 2022,Birmingham,3-2,3-0,Reading
+Sat Dec 17 2022,Bristol City,1-2,1-1,Stoke
+Sat Dec 17 2022,Burnley,3-1,0-0,Middlesbrough
+Sat Dec 17 2022,Cardiff,1-1,1-0,Blackpool
+Sat Dec 17 2022,Coventry,3-3,1-0,Swansea
+Sat Dec 17 2022,Huddersfield,0-2,0-0,Watford
+Sat Dec 17 2022,Hull,1-1,0-0,Sunderland
+Sat Dec 17 2022,Preston,0-1,0-0,QPR
+Sat Dec 17 2022,West Brom,3-0,1-0,Rotherham
+Sat Dec 17 2022,Norwich,0-2,0-1,Blackburn
+Mon Dec 19 2022,Wigan,1-2,0-1,Sheffield United
+Wed Dec 21 2022,Coventry,1-0,0-0,West Brom
+Mon Dec 26 2022,Watford,0-2,0-1,Millwall
+Mon Dec 26 2022,Sunderland,2-1,1-1,Blackburn
+Mon Dec 26 2022,Bristol City,0-2,0-1,West Brom
+Mon Dec 26 2022,Hull,1-1,0-1,Blackpool
+Mon Dec 26 2022,Middlesbrough,4-1,1-0,Wigan
+Mon Dec 26 2022,Preston,1-2,1-0,Huddersfield
+Mon Dec 26 2022,Rotherham,2-2,1-0,Stoke
+Mon Dec 26 2022,Sheffield United,3-1,1-0,Coventry
+Mon Dec 26 2022,Cardiff,0-0,0-0,QPR
+Mon Dec 26 2022,Luton,2-1,0-0,Norwich
+Tue Dec 27 2022,Reading,2-1,1-0,Swansea
+Tue Dec 27 2022,Burnley,3-0,2-0,Birmingham
+Thu Dec 29 2022,QPR,0-3,0-1,Luton
+Thu Dec 29 2022,Blackburn,1-2,1-0,Middlesbrough
+Thu Dec 29 2022,Coventry,0-0,0-0,Cardiff
+Thu Dec 29 2022,Huddersfield,2-0,1-0,Rotherham
+Thu Dec 29 2022,Millwall,0-0,0-0,Bristol City
+Thu Dec 29 2022,Wigan,1-4,1-1,Sunderland
+Thu Dec 29 2022,West Brom,2-0,1-0,Preston
+Thu Dec 29 2022,Blackpool,1-2,0-1,Sheffield United
+Fri Dec 30 2022,Birmingham,0-1,0-0,Hull
+Fri Dec 30 2022,Norwich,1-1,0-0,Reading
+Fri Dec 30 2022,Stoke,0-1,0-0,Burnley
+Fri Dec 30 2022,Swansea,4-0,1-0,Watford
+Sun Jan 1 2023,Blackburn,1-0,0-0,Cardiff
+Sun Jan 1 2023,Blackpool,1-1,1-0,Sunderland
+Sun Jan 1 2023,Coventry,1-1,1-1,Bristol City
+Sun Jan 1 2023,Huddersfield,1-2,1-1,Luton
+Sun Jan 1 2023,Millwall,3-0,1-0,Rotherham
+Mon Jan 2 2023,Birmingham,1-3,0-0,Middlesbrough
+Mon Jan 2 2023,Norwich,0-1,0-0,Watford
+Mon Jan 2 2023,Stoke,0-1,0-0,Preston
+Mon Jan 2 2023,Swansea,1-2,1-2,Burnley
+Mon Jan 2 2023,West Brom,1-0,0-0,Reading
+Mon Jan 2 2023,Wigan,1-4,0-1,Hull
+Mon Jan 2 2023,QPR,1-1,1-0,Sheffield United
+Sat Jan 14 2023,Rotherham,4-0,1-0,Blackburn
+Sat Jan 14 2023,Bristol City,4-2,2-1,Birmingham
+Sat Jan 14 2023,Burnley,1-0,0-0,Coventry
+Sat Jan 14 2023,Cardiff,1-1,0-0,Wigan
+Sat Jan 14 2023,Hull,1-1,0-1,Huddersfield
+Sat Jan 14 2023,Luton,2-3,2-1,West Brom
+Sat Jan 14 2023,Middlesbrough,1-0,0-0,Millwall
+Sat Jan 14 2023,Preston,0-4,0-3,Norwich
+Sat Jan 14 2023,Reading,2-2,2-0,QPR
+Sat Jan 14 2023,Sheffield United,3-1,2-1,Stoke
+Sat Jan 14 2023,Sunderland,1-3,0-0,Swansea
+Sat Jan 14 2023,Watford,2-0,0-0,Blackpool
+Fri Jan 20 2023,Sheffield United,1-0,1-0,Hull
+Fri Jan 20 2023,Burnley,2-1,0-1,West Brom
+Sat Jan 21 2023,Coventry,2-4,2-3,Norwich
+Sat Jan 21 2023,Birmingham,1-2,0-2,Preston
+Sat Jan 21 2023,Bristol City,1-1,0-0,Blackburn
+Sat Jan 21 2023,Cardiff,0-1,0-1,Millwall
+Sat Jan 21 2023,QPR,1-1,1-0,Swansea
+Sat Jan 21 2023,Stoke,4-0,1-0,Reading
+Sat Jan 21 2023,Watford,1-1,0-1,Rotherham
+Sat Jan 21 2023,Wigan,0-2,0-1,Luton
+Sun Jan 22 2023,Sunderland,2-0,0-0,Middlesbrough
+Sat Jan 28 2023,Coventry,2-0,0-0,Huddersfield
+Sat Jan 28 2023,Hull,3-0,1-0,QPR
+Sat Jan 28 2023,Middlesbrough,2-0,2-0,Watford
+Tue Jan 31 2023,Luton,1-0,0-0,Cardiff
+Fri Feb 3 2023,West Brom,1-0,1-0,Coventry
+Sat Feb 4 2023,Norwich,0-3,0-1,Burnley
+Sat Feb 4 2023,Rotherham,0-0,0-0,Sheffield United
+Sat Feb 4 2023,Huddersfield,1-1,1-1,QPR
+Sat Feb 4 2023,Hull,1-0,0-0,Cardiff
+Sat Feb 4 2023,Luton,1-0,1-0,Stoke
+Sat Feb 4 2023,Middlesbrough,3-0,1-0,Blackpool
+Sat Feb 4 2023,Millwall,1-1,0-0,Sunderland
+Sat Feb 4 2023,Preston,1-2,0-2,Bristol City
+Sat Feb 4 2023,Reading,2-2,0-1,Watford
+Sat Feb 4 2023,Swansea,3-4,2-1,Birmingham
+Mon Feb 6 2023,Blackburn,0-0,0-0,Wigan
+Tue Feb 7 2023,Blackpool,2-2,0-1,Huddersfield
+Fri Feb 10 2023,Birmingham,2-0,1-0,West Brom
+Sat Feb 11 2023,Blackpool,0-0,0-0,Rotherham
+Sat Feb 11 2023,Bristol City,1-0,1-0,Norwich
+Sat Feb 11 2023,Burnley,3-0,1-0,Preston
+Sat Feb 11 2023,Cardiff,1-3,1-2,Middlesbrough
+Sat Feb 11 2023,Coventry,1-1,1-1,Luton
+Sat Feb 11 2023,QPR,1-2,0-1,Millwall
+Sat Feb 11 2023,Sheffield United,3-0,2-0,Swansea
+Sat Feb 11 2023,Stoke,0-0,0-0,Hull
+Sat Feb 11 2023,Sunderland,1-0,0-0,Reading
+Sat Feb 11 2023,Watford,1-1,0-1,Blackburn
+Sat Feb 11 2023,Wigan,1-0,0-0,Huddersfield
+Tue Feb 14 2023,Birmingham,0-2,0-0,Cardiff
+Tue Feb 14 2023,Coventry,1-0,0-0,Millwall
+Tue Feb 14 2023,Norwich,3-1,1-1,Hull
+Tue Feb 14 2023,QPR,0-3,0-1,Sunderland
+Tue Feb 14 2023,Burnley,1-1,0-1,Watford
+Tue Feb 14 2023,Reading,2-1,0-1,Rotherham
+Wed Feb 15 2023,Bristol City,1-1,1-0,Wigan
+Wed Feb 15 2023,Preston,1-1,0-0,Luton
+Wed Feb 15 2023,Stoke,3-0,1-0,Huddersfield
+Wed Feb 15 2023,Swansea,2-1,1-0,Blackpool
+Wed Feb 15 2023,Sheffield United,1-3,1-1,Middlesbrough
+Wed Feb 15 2023,West Brom,1-1,0-0,Blackburn
+Fri Feb 17 2023,Cardiff,1-0,0-0,Reading
+Sat Feb 18 2023,Millwall,3-2,1-1,Sheffield United
+Sat Feb 18 2023,Blackburn,1-0,0-0,Swansea
+Sat Feb 18 2023,Blackpool,1-0,1-0,Stoke
+Sat Feb 18 2023,Huddersfield,2-1,1-1,Birmingham
+Sat Feb 18 2023,Hull,0-0,0-0,Preston
+Sat Feb 18 2023,Luton,0-1,0-0,Burnley
+Sat Feb 18 2023,Middlesbrough,3-1,0-0,QPR
+Sat Feb 18 2023,Rotherham,0-2,0-0,Coventry
+Sat Feb 18 2023,Sunderland,1-1,0-0,Bristol City
+Sat Feb 18 2023,Wigan,0-0,0-0,Norwich
+Mon Feb 20 2023,Watford,3-2,1-0,West Brom
+Tue Feb 21 2023,Blackburn,1-0,1-0,Blackpool
+Tue Feb 21 2023,Millwall,1-1,0-0,Burnley
+Tue Feb 21 2023,Norwich,3-1,2-0,Birmingham
+Tue Feb 21 2023,Rotherham,2-1,1-0,Sunderland
+Tue Feb 21 2023,Swansea,1-3,1-2,Stoke
+Sat Feb 25 2023,Coventry,2-1,1-0,Sunderland
+Sat Feb 25 2023,Birmingham,0-1,0-0,Luton
+Sat Feb 25 2023,Bristol City,1-0,0-0,Hull
+Sat Feb 25 2023,Burnley,4-0,3-0,Huddersfield
+Sat Feb 25 2023,Norwich,2-0,2-0,Cardiff
+Sat Feb 25 2023,Preston,2-1,0-1,Wigan
+Sat Feb 25 2023,QPR,1-3,1-2,Blackburn
+Sat Feb 25 2023,Reading,3-1,1-0,Blackpool
+Sat Feb 25 2023,Sheffield United,1-0,0-0,Watford
+Sat Feb 25 2023,Stoke,0-1,0-1,Millwall
+Sat Feb 25 2023,West Brom,2-0,2-0,Middlesbrough
+Mon Feb 27 2023,Swansea,1-1,1-0,Rotherham
+Tue Feb 28 2023,Preston,0-0,0-0,Coventry
+Tue Feb 28 2023,Luton,2-2,0-1,Millwall
+Fri Mar 3 2023,Hull,2-0,1-0,West Brom
+Sat Mar 4 2023,Blackburn,1-0,1-0,Sheffield United
+Sat Mar 4 2023,Cardiff,2-0,0-0,Bristol City
+Sat Mar 4 2023,Blackpool,0-0,0-0,Burnley
+Sat Mar 4 2023,Huddersfield,0-4,0-1,Coventry
+Sat Mar 4 2023,Luton,1-0,1-0,Swansea
+Sat Mar 4 2023,Middlesbrough,5-0,2-0,Reading
+Sat Mar 4 2023,Millwall,2-3,1-1,Norwich
+Sat Mar 4 2023,Rotherham,3-1,1-0,QPR
+Sat Mar 4 2023,Sunderland,1-5,0-1,Stoke
+Sat Mar 4 2023,Watford,0-0,0-0,Preston
+Sat Mar 4 2023,Wigan,1-1,0-1,Birmingham
+Tue Mar 7 2023,Huddersfield,0-0,0-0,Bristol City
+Tue Mar 7 2023,Reading,0-1,0-0,Sheffield United
+Tue Mar 7 2023,West Brom,1-0,1-0,Wigan
+Fri Mar 10 2023,Stoke,3-2,2-0,Blackburn
+Sat Mar 11 2023,Bristol City,2-0,0-0,Blackpool
+Sat Mar 11 2023,Birmingham,2-0,2-0,Rotherham
+Sat Mar 11 2023,Burnley,3-0,1-0,Wigan
+Sat Mar 11 2023,Coventry,1-1,0-0,Hull
+Sat Mar 11 2023,Preston,2-0,0-0,Cardiff
+Sat Mar 11 2023,QPR,1-0,1-0,Watford
+Sat Mar 11 2023,Reading,0-1,0-1,Millwall
+Sat Mar 11 2023,Sheffield United,0-1,0-0,Luton
+Sat Mar 11 2023,Swansea,1-3,1-0,Middlesbrough
+Sat Mar 11 2023,West Brom,1-0,1-0,Huddersfield
+Sun Mar 12 2023,Norwich,0-1,0-1,Sunderland
+Tue Mar 14 2023,Blackpool,6-1,4-1,QPR
+Tue Mar 14 2023,Millwall,2-1,0-0,Swansea
+Tue Mar 14 2023,Rotherham,1-2,1-2,Preston
+Tue Mar 14 2023,Watford,3-0,2-0,Birmingham
+Tue Mar 14 2023,Wigan,1-1,0-0,Coventry
+Tue Mar 14 2023,Middlesbrough,1-1,1-1,Stoke
+Wed Mar 15 2023,Blackburn,2-1,1-0,Reading
+Wed Mar 15 2023,Cardiff,1-1,0-1,West Brom
+Wed Mar 15 2023,Huddersfield,1-1,0-1,Norwich
+Wed Mar 15 2023,Hull,1-3,0-1,Burnley
+Wed Mar 15 2023,Luton,1-0,1-0,Bristol City
+Wed Mar 15 2023,Sunderland,1-2,1-1,Sheffield United
+Sat Mar 18 2023,Blackpool,1-4,1-2,Coventry
+Sat Mar 18 2023,Middlesbrough,4-0,1-0,Preston
+Sat Mar 18 2023,Millwall,0-1,0-0,Huddersfield
+Sat Mar 18 2023,QPR,0-1,0-1,Birmingham
+Sat Mar 18 2023,Reading,1-1,1-1,Hull
+Sat Mar 18 2023,Stoke,0-0,0-0,Norwich
+Sat Mar 18 2023,Sunderland,1-1,0-0,Luton
+Sat Mar 18 2023,Watford,1-1,1-0,Wigan
+Sun Mar 19 2023,Swansea,2-0,1-0,Bristol City
+Fri Mar 31 2023,Burnley,0-0,0-0,Sunderland
+Sat Apr 1 2023,Luton,2-0,1-0,Watford
+Sat Apr 1 2023,Preston,3-1,2-0,Blackpool
+Sat Apr 1 2023,Birmingham,1-0,0-0,Blackburn
+Sat Apr 1 2023,Bristol City,1-1,1-0,Reading
+Sat Apr 1 2023,Cardiff,2-3,1-2,Swansea
+Sat Apr 1 2023,Coventry,0-4,0-2,Stoke
+Sat Apr 1 2023,Huddersfield,4-2,0-1,Middlesbrough
+Sat Apr 1 2023,Hull,0-0,0-0,Rotherham
+Sat Apr 1 2023,Norwich,0-1,0-0,Sheffield United
+Sat Apr 1 2023,West Brom,0-0,0-0,Millwall
+Sat Apr 1 2023,Wigan,1-0,1-0,QPR
+Fri Apr 7 2023,Millwall,0-0,0-0,Luton
+Fri Apr 7 2023,Rotherham,3-1,1-1,West Brom
+Fri Apr 7 2023,Blackburn,0-2,0-1,Norwich
+Fri Apr 7 2023,Blackpool,1-3,0-3,Cardiff
+Fri Apr 7 2023,QPR,0-2,0-0,Preston
+Fri Apr 7 2023,Reading,1-1,1-1,Birmingham
+Fri Apr 7 2023,Sheffield United,1-0,1-0,Wigan
+Fri Apr 7 2023,Stoke,1-2,1-0,Bristol City
+Fri Apr 7 2023,Swansea,0-0,0-0,Coventry
+Fri Apr 7 2023,Watford,2-3,1-1,Huddersfield
+Fri Apr 7 2023,Sunderland,4-4,2-2,Hull
+Fri Apr 7 2023,Middlesbrough,1-2,0-1,Burnley
+Mon Apr 10 2023,Huddersfield,2-2,2-0,Blackburn
+Mon Apr 10 2023,Birmingham,0-0,0-0,Stoke
+Mon Apr 10 2023,Cardiff,0-1,0-0,Sunderland
+Mon Apr 10 2023,Coventry,2-2,0-2,Watford
+Mon Apr 10 2023,Hull,1-0,0-0,Millwall
+Mon Apr 10 2023,Luton,3-1,1-1,Blackpool
+Mon Apr 10 2023,Norwich,0-0,0-0,Rotherham
+Mon Apr 10 2023,Preston,2-1,0-0,Reading
+Mon Apr 10 2023,West Brom,2-2,2-1,QPR
+Mon Apr 10 2023,Wigan,0-2,0-2,Swansea
+Mon Apr 10 2023,Bristol City,2-2,1-0,Middlesbrough
+Mon Apr 10 2023,Burnley,2-0,0-0,Sheffield United
+Fri Apr 14 2023,Middlesbrough,5-1,4-1,Norwich
+Sat Apr 15 2023,Sheffield United,4-1,1-1,Cardiff
+Sat Apr 15 2023,Blackpool,1-0,1-0,Wigan
+Sat Apr 15 2023,Millwall,2-0,1-0,Preston
+Sat Apr 15 2023,QPR,0-3,0-1,Coventry
+Sat Apr 15 2023,Reading,0-0,0-0,Burnley
+Sat Apr 15 2023,Rotherham,0-2,0-1,Luton
+Sat Apr 15 2023,Stoke,1-2,1-0,West Brom
+Sat Apr 15 2023,Sunderland,2-1,1-1,Birmingham
+Sat Apr 15 2023,Swansea,1-0,0-0,Huddersfield
+Sat Apr 15 2023,Watford,2-0,1-0,Bristol City
+Sat Apr 15 2023,Blackburn,0-0,0-0,Hull
+Tue Apr 18 2023,Blackpool,0-2,0-1,West Brom
+Tue Apr 18 2023,Rotherham,2-2,1-1,Burnley
+Tue Apr 18 2023,Sheffield United,1-0,0-0,Bristol City
+Tue Apr 18 2023,Stoke,0-1,0-0,Wigan
+Tue Apr 18 2023,Sunderland,1-1,1-0,Huddersfield
+Tue Apr 18 2023,Millwall,0-1,0-1,Birmingham
+Wed Apr 19 2023,Blackburn,1-1,1-0,Coventry
+Wed Apr 19 2023,QPR,1-1,1-0,Norwich
+Wed Apr 19 2023,Swansea,4-2,3-0,Preston
+Wed Apr 19 2023,Watford,1-3,1-3,Cardiff
+Wed Apr 19 2023,Middlesbrough,3-1,0-1,Hull
+Wed Apr 19 2023,Reading,1-1,0-0,Luton
+Sat Apr 22 2023,Birmingham,0-1,0-0,Blackpool
+Sat Apr 22 2023,Bristol City,2-1,1-0,Rotherham
+Sat Apr 22 2023,Burnley,1-2,0-0,QPR
+Sat Apr 22 2023,Cardiff,1-1,1-1,Stoke
+Sat Apr 22 2023,Coventry,2-1,1-0,Reading
+Sat Apr 22 2023,Hull,1-0,1-0,Watford
+Sat Apr 22 2023,Norwich,0-3,0-2,Swansea
+Sat Apr 22 2023,Wigan,2-1,1-1,Millwall
+Sat Apr 22 2023,Preston,1-1,0-0,Blackburn
+Sun Apr 23 2023,West Brom,1-2,1-0,Sunderland
+Mon Apr 24 2023,Luton,2-1,0-1,Middlesbrough
+Tue Apr 25 2023,Blackburn,0-1,0-0,Burnley
+Wed Apr 26 2023,Sheffield United,2-0,0-0,West Brom
+Thu Apr 27 2023,Rotherham,1-2,1-1,Cardiff
+Fri Apr 28 2023,Blackpool,2-3,1-1,Millwall
+Sat Apr 29 2023,Bristol City,1-2,0-1,Burnley
+Sat Apr 29 2023,Coventry,2-0,2-0,Birmingham
+Sat Apr 29 2023,Hull,1-1,1-1,Swansea
+Sat Apr 29 2023,Reading,1-1,0-0,Wigan
+Sat Apr 29 2023,Sheffield United,4-1,1-0,Preston
+Sat Apr 29 2023,Stoke,0-1,0-0,QPR
+Sat Apr 29 2023,Sunderland,2-2,0-1,Watford
+Sat Apr 29 2023,West Brom,2-1,1-1,Norwich
+Sun Apr 30 2023,Cardiff,1-2,0-0,Huddersfield
+Mon May 1 2023,Rotherham,1-0,0-0,Middlesbrough
+Mon May 1 2023,Blackburn,1-1,0-0,Luton
+Thu May 4 2023,Huddersfield,1-0,0-0,Sheffield United
+Mon May 8 2023,Birmingham,1-2,0-0,Sheffield United
+Mon May 8 2023,Burnley,3-0,2-0,Cardiff
+Mon May 8 2023,Huddersfield,2-0,0-0,Reading
+Mon May 8 2023,Luton,0-0,0-0,Hull
+Mon May 8 2023,Middlesbrough,1-1,1-1,Coventry
+Mon May 8 2023,Millwall,3-4,3-1,Blackburn
+Mon May 8 2023,Norwich,0-1,0-1,Blackpool
+Mon May 8 2023,Preston,0-3,0-0,Sunderland
+Mon May 8 2023,QPR,0-2,0-1,Bristol City
+Mon May 8 2023,Swansea,3-2,1-1,West Brom
+Mon May 8 2023,Watford,2-0,0-0,Stoke
+Mon May 8 2023,Wigan,0-0,0-0,Rotherham

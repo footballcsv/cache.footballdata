@@ -1,0 +1,194 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 21 2023,Midtjylland,1-0,?,Hvidovre IF
+Sat Jul 22 2023,Lyngby,1-2,?,FC Copenhagen
+Sun Jul 23 2023,Aarhus,1-0,?,Vejle
+Sun Jul 23 2023,Odense,2-2,?,Randers FC
+Sun Jul 23 2023,Silkeborg,1-2,?,Brondby
+Mon Jul 24 2023,Nordsjaelland,4-1,?,Viborg
+Fri Jul 28 2023,Viborg,2-2,?,Lyngby
+Sat Jul 29 2023,Vejle,2-3,?,FC Copenhagen
+Sun Jul 30 2023,Midtjylland,2-0,?,Silkeborg
+Sun Jul 30 2023,Randers FC,2-2,?,Hvidovre IF
+Sun Jul 30 2023,Brondby,1-2,?,Odense
+Mon Jul 31 2023,Aarhus,1-3,?,Nordsjaelland
+Fri Aug 4 2023,Silkeborg,2-1,?,Vejle
+Sat Aug 5 2023,FC Copenhagen,4-0,?,Randers FC
+Sun Aug 6 2023,Hvidovre IF,0-2,?,Aarhus
+Sun Aug 6 2023,Lyngby,4-1,?,Midtjylland
+Sun Aug 6 2023,Nordsjaelland,3-1,?,Brondby
+Mon Aug 7 2023,Odense,1-2,?,Viborg
+Fri Aug 11 2023,FC Copenhagen,2-1,?,Odense
+Sun Aug 13 2023,Randers FC,0-5,?,Nordsjaelland
+Sun Aug 13 2023,Vejle,1-2,?,Midtjylland
+Sun Aug 13 2023,Brondby,3-0,?,Lyngby
+Sun Aug 13 2023,Aarhus,2-2,?,Silkeborg
+Mon Aug 14 2023,Viborg,0-0,?,Hvidovre IF
+Fri Aug 18 2023,Hvidovre IF,0-2,?,FC Copenhagen
+Sun Aug 20 2023,Silkeborg,2-0,?,Nordsjaelland
+Sun Aug 20 2023,Lyngby,1-0,?,Randers FC
+Sun Aug 20 2023,Midtjylland,0-1,?,Brondby
+Sun Aug 20 2023,Odense,1-1,?,Aarhus
+Mon Aug 21 2023,Viborg,2-1,?,Vejle
+Fri Aug 25 2023,Randers FC,1-0,?,Viborg
+Sat Aug 26 2023,FC Copenhagen,1-3,?,Silkeborg
+Sun Aug 27 2023,Aarhus,1-0,?,Lyngby
+Sun Aug 27 2023,Hvidovre IF,1-5,?,Odense
+Sun Aug 27 2023,Nordsjaelland,3-0,?,Midtjylland
+Mon Aug 28 2023,Vejle,0-1,?,Brondby
+Fri Sep 1 2023,Odense,1-2,?,Vejle
+Sun Sep 3 2023,Lyngby,1-1,?,Nordsjaelland
+Sun Sep 3 2023,Silkeborg,1-0,?,Hvidovre IF
+Sun Sep 3 2023,Brondby,3-1,?,Randers FC
+Sun Sep 3 2023,FC Copenhagen,2-0,?,Viborg
+Sun Sep 3 2023,Midtjylland,1-1,?,Aarhus
+Fri Sep 15 2023,Viborg,2-2,?,Midtjylland
+Sat Sep 16 2023,Nordsjaelland,2-2,?,FC Copenhagen
+Sun Sep 17 2023,Vejle,1-2,?,Randers FC
+Sun Sep 17 2023,Hvidovre IF,0-1,?,Lyngby
+Sun Sep 17 2023,Aarhus,0-3,?,Brondby
+Mon Sep 18 2023,Odense,0-3,?,Silkeborg
+Fri Sep 22 2023,Lyngby,1-1,?,Vejle
+Sun Sep 24 2023,Brondby,2-3,?,FC Copenhagen
+Sun Sep 24 2023,Silkeborg,2-0,?,Viborg
+Sun Sep 24 2023,Randers FC,1-1,?,Aarhus
+Sun Sep 24 2023,Midtjylland,2-1,?,Odense
+Mon Sep 25 2023,Nordsjaelland,0-0,?,Hvidovre IF
+Sat Sep 30 2023,FC Copenhagen,0-2,?,Midtjylland
+Sun Oct 1 2023,Randers FC,1-0,?,Silkeborg
+Sun Oct 1 2023,Vejle,0-0,?,Nordsjaelland
+Sun Oct 1 2023,Hvidovre IF,0-3,?,Brondby
+Sun Oct 1 2023,Viborg,2-1,?,Aarhus
+Mon Oct 2 2023,Odense,1-2,?,Lyngby
+Fri Oct 6 2023,Silkeborg,5-0,?,Lyngby
+Sun Oct 8 2023,Nordsjaelland,0-1,?,Odense
+Sun Oct 8 2023,Vejle,3-1,?,Hvidovre IF
+Sun Oct 8 2023,Brondby,1-0,?,Viborg
+Sun Oct 8 2023,Midtjylland,2-2,?,Randers FC
+Sun Oct 8 2023,Aarhus,1-1,?,FC Copenhagen
+Fri Oct 20 2023,Hvidovre IF,1-2,?,Silkeborg
+Sat Oct 21 2023,FC Copenhagen,2-1,?,Vejle
+Sun Oct 22 2023,Lyngby,0-2,?,Aarhus
+Sun Oct 22 2023,Viborg,0-2,?,Nordsjaelland
+Sun Oct 22 2023,Randers FC,2-2,?,Brondby
+Mon Oct 23 2023,Odense,1-2,?,Midtjylland
+Fri Oct 27 2023,Midtjylland,2-1,?,Lyngby
+Sat Oct 28 2023,FC Copenhagen,4-0,?,Hvidovre IF
+Sun Oct 29 2023,Vejle,1-1,?,Viborg
+Sun Oct 29 2023,Silkeborg,0-0,?,Odense
+Sun Oct 29 2023,Brondby,2-1,?,Nordsjaelland
+Mon Oct 30 2023,Aarhus,2-1,?,Randers FC
+Sat Nov 4 2023,Lyngby,2-2,?,Odense
+Sun Nov 5 2023,Nordsjaelland,1-0,?,Vejle
+Sun Nov 5 2023,Viborg,2-1,?,Silkeborg
+Sun Nov 5 2023,Randers FC,2-4,?,FC Copenhagen
+Sun Nov 5 2023,Hvidovre IF,1-4,?,Midtjylland
+Mon Nov 6 2023,Brondby,1-1,?,Aarhus
+Fri Nov 10 2023,Silkeborg,1-1,?,Randers FC
+Sun Nov 12 2023,FC Copenhagen,0-0,?,Brondby
+Sun Nov 12 2023,Vejle,1-0,?,Lyngby
+Sun Nov 12 2023,Midtjylland,2-0,?,Nordsjaelland
+Sun Nov 12 2023,Odense,0-2,?,Hvidovre IF
+Sun Nov 12 2023,Aarhus,2-0,?,Viborg
+Fri Nov 24 2023,Hvidovre IF,1-1,?,Vejle
+Sat Nov 25 2023,Viborg,2-1,?,FC Copenhagen
+Sun Nov 26 2023,Nordsjaelland,0-0,?,Aarhus
+Sun Nov 26 2023,Randers FC,0-1,?,Odense
+Sun Nov 26 2023,Lyngby,3-3,?,Brondby
+Mon Nov 27 2023,Silkeborg,1-4,?,Midtjylland
+Fri Dec 1 2023,Randers FC,0-0,?,Vejle
+Sun Dec 3 2023,Lyngby,2-0,?,Silkeborg
+Sun Dec 3 2023,Odense,1-1,?,Nordsjaelland
+Sun Dec 3 2023,Brondby,4-0,?,Hvidovre IF
+Sun Dec 3 2023,FC Copenhagen,1-2,?,Aarhus
+Mon Dec 4 2023,Midtjylland,5-1,?,Viborg
+Fri Feb 16 2024,Viborg,1-2,?,Odense
+Sun Feb 18 2024,Hvidovre IF,1-3,?,Randers FC
+Sun Feb 18 2024,Nordsjaelland,3-2,?,Lyngby
+Sun Feb 18 2024,Silkeborg,0-3,?,FC Copenhagen
+Sun Feb 18 2024,Brondby,1-0,?,Midtjylland
+Mon Feb 19 2024,Vejle,0-0,?,Aarhus
+Fri Feb 23 2024,Randers FC,1-0,?,Lyngby
+Sun Feb 25 2024,Hvidovre IF,2-2,?,Viborg
+Sun Feb 25 2024,Vejle,2-0,?,Silkeborg
+Sun Feb 25 2024,Odense,0-3,?,Brondby
+Sun Feb 25 2024,Aarhus,2-3,?,Midtjylland
+Mon Feb 26 2024,FC Copenhagen,2-0,?,Nordsjaelland
+Fri Mar 1 2024,Midtjylland,2-0,?,FC Copenhagen
+Sun Mar 3 2024,Lyngby,2-4,?,Hvidovre IF
+Sun Mar 3 2024,Viborg,3-0,?,Randers FC
+Sun Mar 3 2024,Brondby,1-1,?,Vejle
+Sun Mar 3 2024,Aarhus,1-1,?,Odense
+Mon Mar 4 2024,Nordsjaelland,3-1,?,Silkeborg
+Fri Mar 8 2024,Hvidovre IF,1-2,?,Nordsjaelland
+Sun Mar 10 2024,Silkeborg,0-1,?,Aarhus
+Sun Mar 10 2024,Vejle,0-1,?,Odense
+Sun Mar 10 2024,FC Copenhagen,4-0,?,Lyngby
+Sun Mar 10 2024,Viborg,1-2,?,Brondby
+Mon Mar 11 2024,Randers FC,0-1,?,Midtjylland
+Sun Mar 17 2024,Aarhus,1-0,?,Hvidovre IF
+Sun Mar 17 2024,Brondby,4-1,?,Silkeborg
+Sun Mar 17 2024,Lyngby,2-0,?,Viborg
+Sun Mar 17 2024,Midtjylland,3-0,?,Vejle
+Sun Mar 17 2024,Nordsjaelland,1-1,?,Randers FC
+Sun Mar 17 2024,Odense,0-2,?,FC Copenhagen
+Sun Mar 31 2024,Randers FC,6-2,?,Lyngby
+Sun Mar 31 2024,Viborg,3-1,?,Hvidovre IF
+Mon Apr 1 2024,FC Copenhagen,1-2,?,Brondby
+Mon Apr 1 2024,Midtjylland,2-3,?,Nordsjaelland
+Mon Apr 1 2024,Silkeborg,2-2,?,Aarhus
+Tue Apr 2 2024,Odense,0-1,?,Vejle
+Fri Apr 5 2024,Lyngby,0-0,?,Odense
+Sun Apr 7 2024,Hvidovre IF,1-3,?,Randers FC
+Sun Apr 7 2024,Vejle,1-1,?,Viborg
+Sun Apr 7 2024,Nordsjaelland,2-1,?,FC Copenhagen
+Sun Apr 7 2024,Aarhus,0-1,?,Midtjylland
+Mon Apr 8 2024,Brondby,1-1,?,Silkeborg
+Fri Apr 12 2024,Odense,1-3,?,Viborg
+Sun Apr 14 2024,Lyngby,1-1,?,Hvidovre IF
+Sun Apr 14 2024,Vejle,1-2,?,Randers FC
+Sun Apr 14 2024,Aarhus,2-2,?,Brondby
+Sun Apr 14 2024,Midtjylland,2-2,?,FC Copenhagen
+Mon Apr 15 2024,Silkeborg,0-1,?,Nordsjaelland
+Fri Apr 19 2024,Randers FC,2-2,?,Odense
+Sun Apr 21 2024,Hvidovre IF,2-1,?,Vejle
+Sun Apr 21 2024,Viborg,2-1,?,Lyngby
+Sun Apr 21 2024,FC Copenhagen,2-0,?,Silkeborg
+Sun Apr 21 2024,Brondby,2-1,?,Midtjylland
+Mon Apr 22 2024,Nordsjaelland,7-2,?,Aarhus
+Fri Apr 26 2024,Lyngby,1-1,?,Vejle
+Sun Apr 28 2024,Odense,1-2,?,Hvidovre IF
+Sun Apr 28 2024,Viborg,0-0,?,Randers FC
+Sun Apr 28 2024,Nordsjaelland,1-1,?,Brondby
+Sun Apr 28 2024,FC Copenhagen,3-2,?,Aarhus
+Mon Apr 29 2024,Silkeborg,3-0,?,Midtjylland
+Fri May 3 2024,Aarhus,1-3,?,Nordsjaelland
+Sun May 5 2024,Hvidovre IF,0-1,?,Viborg
+Sun May 5 2024,Lyngby,2-1,?,Randers FC
+Sun May 5 2024,Silkeborg,0-3,?,FC Copenhagen
+Sun May 5 2024,Midtjylland,3-2,?,Brondby
+Mon May 6 2024,Vejle,3-2,?,Odense
+Fri May 10 2024,Odense,1-2,?,Lyngby
+Sun May 12 2024,Randers FC,2-2,?,Hvidovre IF
+Sun May 12 2024,Viborg,1-2,?,Vejle
+Sun May 12 2024,Brondby,1-3,?,FC Copenhagen
+Sun May 12 2024,Midtjylland,2-1,?,Aarhus
+Sun May 12 2024,Nordsjaelland,4-1,?,Silkeborg
+Wed May 15 2024,Randers FC,1-0,?,Viborg
+Wed May 15 2024,Vejle,1-0,?,Lyngby
+Wed May 15 2024,Brondby,1-0,?,Nordsjaelland
+Thu May 16 2024,Aarhus,0-1,?,Silkeborg
+Thu May 16 2024,Hvidovre IF,1-2,?,Odense
+Thu May 16 2024,FC Copenhagen,1-2,?,Midtjylland
+Sun May 19 2024,Odense,2-0,?,Randers FC
+Mon May 20 2024,Lyngby,3-1,?,Viborg
+Mon May 20 2024,Vejle,2-0,?,Hvidovre IF
+Mon May 20 2024,Silkeborg,0-2,?,Brondby
+Mon May 20 2024,Nordsjaelland,3-3,?,Midtjylland
+Tue May 21 2024,Aarhus,3-2,?,FC Copenhagen
+Sat May 25 2024,Hvidovre IF,0-0,?,Lyngby
+Sat May 25 2024,Randers FC,1-0,?,Vejle
+Sat May 25 2024,Viborg,2-1,?,Odense
+Sun May 26 2024,Brondby,2-3,?,Aarhus
+Sun May 26 2024,FC Copenhagen,1-1,?,Nordsjaelland
+Sun May 26 2024,Midtjylland,3-3,?,Silkeborg
+Fri May 31 2024,FC Copenhagen,2-1,?,Randers FC

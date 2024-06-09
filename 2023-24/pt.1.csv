@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 11 2023,Sp Braga,1-2,1-0,Famalicao
+Sat Aug 12 2023,Gil Vicente,5-0,2-0,Portimonense
+Sat Aug 12 2023,Farense,0-3,0-1,Casa Pia
+Sat Aug 12 2023,Sp Lisbon,3-2,2-0,Vizela
+Sun Aug 13 2023,Rio Ave,2-0,0-0,Chaves
+Sun Aug 13 2023,Estrela,0-1,0-1,Guimaraes
+Sun Aug 13 2023,Arouca,4-3,1-1,Estoril
+Mon Aug 14 2023,Moreirense,1-2,0-0,Porto
+Mon Aug 14 2023,Boavista,3-2,0-1,Benfica
+Fri Aug 18 2023,Casa Pia,1-2,0-1,Sp Lisbon
+Sat Aug 19 2023,Guimaraes,2-1,0-0,Gil Vicente
+Sat Aug 19 2023,Chaves,2-4,1-1,Sp Braga
+Sat Aug 19 2023,Benfica,2-0,0-0,Estrela
+Sat Aug 19 2023,Portimonense,1-4,0-3,Boavista
+Sun Aug 20 2023,Estoril,2-0,0-0,Rio Ave
+Sun Aug 20 2023,Porto,2-1,1-1,Farense
+Sun Aug 20 2023,Vizela,2-2,1-1,Arouca
+Mon Aug 21 2023,Famalicao,0-0,0-0,Moreirense
+Fri Aug 25 2023,Estrela,2-1,0-0,Estoril
+Sat Aug 26 2023,Arouca,1-1,0-1,Portimonense
+Sat Aug 26 2023,Farense,5-0,4-0,Chaves
+Sat Aug 26 2023,Gil Vicente,2-3,0-1,Benfica
+Sun Aug 27 2023,Boavista,1-1,0-1,Casa Pia
+Sun Aug 27 2023,Guimaraes,2-0,0-0,Vizela
+Sun Aug 27 2023,Sp Lisbon,1-0,0-0,Famalicao
+Mon Aug 28 2023,Rio Ave,1-2,0-0,Porto
+Fri Sep 1 2023,Vizela,1-0,0-0,Gil Vicente
+Sat Sep 2 2023,Casa Pia,1-1,1-0,Rio Ave
+Sat Sep 2 2023,Famalicao,1-0,0-0,Farense
+Sat Sep 2 2023,Portimonense,1-1,1-1,Estrela
+Sat Sep 2 2023,Benfica,4-0,3-0,Guimaraes
+Sun Sep 3 2023,Chaves,1-2,0-1,Moreirense
+Sun Sep 3 2023,Estoril,1-2,1-2,Boavista
+Sun Sep 3 2023,Porto,1-1,0-0,Arouca
+Sun Sep 3 2023,Sp Braga,1-1,0-1,Sp Lisbon
+Sat Sep 9 2023,Moreirense,2-3,2-1,Sp Braga
+Fri Sep 15 2023,Estrela,0-1,0-1,Porto
+Sat Sep 16 2023,Rio Ave,1-1,0-1,Famalicao
+Sat Sep 16 2023,Farense,3-1,2-0,Sp Braga
+Sat Sep 16 2023,Vizela,1-2,0-2,Benfica
+Sun Sep 17 2023,Arouca,0-1,0-0,Casa Pia
+Sun Sep 17 2023,Gil Vicente,5-3,3-0,Estoril
+Sun Sep 17 2023,Guimaraes,1-2,1-0,Portimonense
+Sun Sep 17 2023,Sp Lisbon,3-0,0-0,Moreirense
+Mon Sep 18 2023,Boavista,4-1,4-0,Chaves
+Fri Sep 22 2023,Famalicao,1-0,1-0,Arouca
+Sat Sep 23 2023,Estoril,2-2,0-0,Vizela
+Sat Sep 23 2023,Moreirense,1-0,1-0,Farense
+Sat Sep 23 2023,Casa Pia,0-0,0-0,Guimaraes
+Sat Sep 23 2023,Porto,2-1,1-1,Gil Vicente
+Sun Sep 24 2023,Chaves,2-2,0-1,Estrela
+Sun Sep 24 2023,Portimonense,1-3,0-2,Benfica
+Sun Sep 24 2023,Sp Braga,4-1,2-1,Boavista
+Mon Sep 25 2023,Sp Lisbon,2-0,2-0,Rio Ave
+Thu Sep 28 2023,Estrela,2-4,0-1,Sp Braga
+Fri Sep 29 2023,Benfica,1-0,0-0,Porto
+Sat Sep 30 2023,Vizela,2-3,0-2,Portimonense
+Sat Sep 30 2023,Boavista,2-2,1-1,Famalicao
+Sat Sep 30 2023,Farense,2-3,1-2,Sp Lisbon
+Sun Oct 1 2023,Arouca,0-2,0-0,Chaves
+Sun Oct 1 2023,Guimaraes,3-2,0-2,Estoril
+Sun Oct 1 2023,Rio Ave,0-4,0-2,Moreirense
+Mon Oct 2 2023,Gil Vicente,2-0,0-0,Casa Pia
+Fri Oct 6 2023,Moreirense,1-1,1-1,Boavista
+Sat Oct 7 2023,Chaves,4-2,1-2,Gil Vicente
+Sat Oct 7 2023,Farense,0-0,0-0,Vizela
+Sat Oct 7 2023,Sp Braga,2-1,0-1,Rio Ave
+Sat Oct 7 2023,Estoril,0-1,0-0,Benfica
+Sun Oct 8 2023,Casa Pia,0-1,0-0,Estrela
+Sun Oct 8 2023,Famalicao,1-3,0-2,Guimaraes
+Sun Oct 8 2023,Porto,1-0,1-0,Portimonense
+Sun Oct 8 2023,Sp Lisbon,2-1,1-0,Arouca
+Fri Oct 27 2023,Arouca,0-1,0-1,Moreirense
+Sat Oct 28 2023,Portimonense,1-0,1-0,Estoril
+Sat Oct 28 2023,Benfica,1-1,1-0,Casa Pia
+Sat Oct 28 2023,Guimaraes,5-0,3-0,Chaves
+Sat Oct 28 2023,Gil Vicente,3-3,1-0,Sp Braga
+Sun Oct 29 2023,Rio Ave,3-4,2-2,Farense
+Sun Oct 29 2023,Estrela,1-0,0-0,Famalicao
+Sun Oct 29 2023,Vizela,0-2,0-2,Porto
+Mon Oct 30 2023,Boavista,0-2,0-1,Sp Lisbon
+Fri Nov 3 2023,Porto,0-1,0-0,Estoril
+Sat Nov 4 2023,Chaves,0-2,0-0,Benfica
+Sat Nov 4 2023,Famalicao,3-1,2-0,Gil Vicente
+Sat Nov 4 2023,Sp Braga,6-1,0-1,Portimonense
+Sun Nov 5 2023,Casa Pia,0-1,0-0,Vizela
+Sun Nov 5 2023,Moreirense,1-0,0-0,Guimaraes
+Sun Nov 5 2023,Rio Ave,2-0,1-0,Boavista
+Sun Nov 5 2023,Sp Lisbon,3-2,1-0,Estrela
+Mon Nov 6 2023,Farense,2-0,2-0,Arouca
+Fri Nov 10 2023,Estoril,4-0,2-0,Casa Pia
+Sat Nov 11 2023,Portimonense,2-1,2-0,Chaves
+Sat Nov 11 2023,Estrela,0-1,0-0,Moreirense
+Sat Nov 11 2023,Vizela,0-0,0-0,Famalicao
+Sat Nov 11 2023,Guimaraes,1-2,1-1,Porto
+Sun Nov 12 2023,Boavista,1-3,0-1,Farense
+Sun Nov 12 2023,Gil Vicente,1-1,0-0,Rio Ave
+Sun Nov 12 2023,Arouca,0-1,0-1,Sp Braga
+Sun Nov 12 2023,Benfica,2-1,0-1,Sp Lisbon
+Fri Dec 1 2023,Chaves,2-1,1-1,Vizela
+Sat Dec 2 2023,Farense,1-2,0-1,Guimaraes
+Sat Dec 2 2023,Rio Ave,1-1,0-0,Estrela
+Sat Dec 2 2023,Famalicao,0-3,0-2,Porto
+Sat Dec 2 2023,Casa Pia,1-0,0-0,Portimonense
+Sun Dec 3 2023,Sp Braga,3-1,1-1,Estoril
+Sun Dec 3 2023,Moreirense,0-0,0-0,Benfica
+Sun Dec 3 2023,Boavista,0-4,0-3,Arouca
+Mon Dec 4 2023,Sp Lisbon,3-1,1-1,Gil Vicente
+Fri Dec 8 2023,Vizela,1-3,0-1,Sp Braga
+Fri Dec 8 2023,Benfica,1-1,0-0,Farense
+Sat Dec 9 2023,Portimonense,1-1,0-1,Famalicao
+Sat Dec 9 2023,Guimaraes,3-2,1-1,Sp Lisbon
+Sat Dec 9 2023,Porto,3-1,1-0,Casa Pia
+Sun Dec 10 2023,Estrela,3-1,0-0,Boavista
+Sun Dec 10 2023,Arouca,2-2,0-2,Rio Ave
+Sun Dec 10 2023,Estoril,4-0,1-0,Chaves
+Mon Dec 11 2023,Gil Vicente,1-1,1-0,Moreirense
+Fri Dec 15 2023,Farense,0-0,0-0,Estrela
+Sat Dec 16 2023,Rio Ave,1-1,0-0,Vizela
+Sat Dec 16 2023,Arouca,3-0,1-0,Gil Vicente
+Sat Dec 16 2023,Boavista,1-1,0-1,Guimaraes
+Sun Dec 17 2023,Chaves,1-3,1-2,Casa Pia
+Sun Dec 17 2023,Moreirense,5-2,2-1,Portimonense
+Sun Dec 17 2023,Famalicao,1-1,1-1,Estoril
+Sun Dec 17 2023,Sp Braga,0-1,0-1,Benfica
+Mon Dec 18 2023,Sp Lisbon,2-0,1-0,Porto
+Sat Dec 23 2023,Guimaraes,1-0,0-0,Rio Ave
+Sat Dec 23 2023,Vizela,0-0,0-0,Moreirense
+Thu Dec 28 2023,Estrela,1-4,1-0,Arouca
+Fri Dec 29 2023,Benfica,3-0,1-0,Famalicao
+Fri Dec 29 2023,Porto,1-0,0-0,Chaves
+Sat Dec 30 2023,Estoril,4-0,2-0,Farense
+Sat Dec 30 2023,Gil Vicente,1-0,0-0,Boavista
+Sat Dec 30 2023,Casa Pia,1-3,0-0,Sp Braga
+Sat Dec 30 2023,Portimonense,1-2,0-0,Sp Lisbon
+Fri Jan 5 2024,Sp Lisbon,5-1,2-0,Estoril
+Fri Jan 5 2024,Boavista,1-1,1-1,Porto
+Sat Jan 6 2024,Estrela,1-1,1-0,Vizela
+Sat Jan 6 2024,Farense,1-0,0-0,Gil Vicente
+Sat Jan 6 2024,Arouca,0-3,0-1,Benfica
+Sat Jan 6 2024,Sp Braga,1-1,0-0,Guimaraes
+Sun Jan 7 2024,Rio Ave,2-0,0-0,Portimonense
+Sun Jan 7 2024,Famalicao,2-2,2-1,Chaves
+Mon Jan 8 2024,Moreirense,1-4,1-3,Casa Pia
+Fri Jan 12 2024,Portimonense,1-0,0-0,Farense
+Sat Jan 13 2024,Casa Pia,0-2,0-1,Famalicao
+Sat Jan 13 2024,Chaves,0-3,0-1,Sp Lisbon
+Sat Jan 13 2024,Estoril,1-3,0-2,Moreirense
+Sun Jan 14 2024,Gil Vicente,1-1,1-0,Estrela
+Sun Jan 14 2024,Benfica,4-1,1-1,Rio Ave
+Sun Jan 14 2024,Vizela,1-4,0-2,Boavista
+Sun Jan 14 2024,Porto,2-0,1-0,Sp Braga
+Mon Jan 15 2024,Guimaraes,2-1,1-1,Arouca
+Thu Jan 18 2024,Famalicao,1-2,0-0,Sp Braga
+Thu Jan 18 2024,Vizela,2-5,1-1,Sp Lisbon
+Fri Jan 19 2024,Benfica,2-0,0-0,Boavista
+Sat Jan 20 2024,Estoril,1-2,1-2,Arouca
+Sat Jan 20 2024,Casa Pia,1-3,0-2,Farense
+Sat Jan 20 2024,Porto,5-0,1-0,Moreirense
+Sun Jan 21 2024,Portimonense,0-2,0-1,Gil Vicente
+Sun Jan 21 2024,Chaves,0-0,0-0,Rio Ave
+Sun Jan 21 2024,Guimaraes,3-0,1-0,Estrela
+Sun Jan 28 2024,Boavista,1-4,0-3,Portimonense
+Sun Jan 28 2024,Moreirense,1-0,0-0,Famalicao
+Sun Jan 28 2024,Farense,1-3,0-2,Porto
+Sun Jan 28 2024,Arouca,5-0,2-0,Vizela
+Sun Jan 28 2024,Gil Vicente,1-0,0-0,Guimaraes
+Mon Jan 29 2024,Estrela,1-4,1-2,Benfica
+Mon Jan 29 2024,Sp Lisbon,8-0,5-0,Casa Pia
+Wed Jan 31 2024,Rio Ave,1-1,0-0,Estoril
+Wed Jan 31 2024,Sp Braga,1-1,0-0,Chaves
+Sat Feb 3 2024,Portimonense,1-2,0-0,Arouca
+Sat Feb 3 2024,Porto,0-0,0-0,Rio Ave
+Sun Feb 4 2024,Chaves,1-1,0-1,Farense
+Sun Feb 4 2024,Vizela,0-1,0-0,Guimaraes
+Sun Feb 4 2024,Benfica,3-0,2-0,Gil Vicente
+Sun Feb 4 2024,Estoril,1-0,0-0,Estrela
+Sun Feb 4 2024,Sp Braga,1-0,1-0,Moreirense
+Mon Feb 5 2024,Casa Pia,0-0,0-0,Boavista
+Fri Feb 9 2024,Estrela,3-0,3-0,Portimonense
+Sat Feb 10 2024,Farense,1-1,0-1,Famalicao
+Sat Feb 10 2024,Moreirense,1-0,0-0,Chaves
+Sat Feb 10 2024,Boavista,2-1,2-0,Estoril
+Sun Feb 11 2024,Rio Ave,1-0,0-0,Casa Pia
+Sun Feb 11 2024,Sp Lisbon,5-0,2-0,Sp Braga
+Sun Feb 11 2024,Guimaraes,2-2,1-1,Benfica
+Mon Feb 12 2024,Arouca,3-2,2-1,Porto
+Tue Feb 13 2024,Gil Vicente,0-1,0-1,Vizela
+Fri Feb 16 2024,Famalicao,2-1,1-1,Rio Ave
+Sat Feb 17 2024,Chaves,2-1,1-1,Boavista
+Sat Feb 17 2024,Portimonense,1-1,0-1,Guimaraes
+Sat Feb 17 2024,Porto,2-0,1-0,Estrela
+Sun Feb 18 2024,Casa Pia,1-0,0-0,Arouca
+Sun Feb 18 2024,Benfica,6-1,5-0,Vizela
+Sun Feb 18 2024,Estoril,1-3,0-0,Gil Vicente
+Sun Feb 18 2024,Sp Braga,2-1,0-0,Farense
+Mon Feb 19 2024,Moreirense,0-2,0-2,Sp Lisbon
+Fri Feb 23 2024,Arouca,3-2,2-1,Famalicao
+Sat Feb 24 2024,Farense,0-1,0-1,Moreirense
+Sat Feb 24 2024,Estrela,1-1,1-1,Chaves
+Sat Feb 24 2024,Guimaraes,0-2,0-2,Casa Pia
+Sun Feb 25 2024,Vizela,3-3,2-0,Estoril
+Sun Feb 25 2024,Benfica,4-0,0-0,Portimonense
+Sun Feb 25 2024,Gil Vicente,1-1,0-0,Porto
+Sun Feb 25 2024,Rio Ave,3-3,2-2,Sp Lisbon
+Mon Feb 26 2024,Boavista,0-4,0-2,Sp Braga
+Fri Mar 1 2024,Chaves,1-5,1-2,Arouca
+Sat Mar 2 2024,Moreirense,0-0,0-0,Rio Ave
+Sat Mar 2 2024,Estoril,1-3,0-3,Guimaraes
+Sat Mar 2 2024,Sp Braga,3-0,0-0,Estrela
+Sun Mar 3 2024,Casa Pia,0-0,0-0,Gil Vicente
+Sun Mar 3 2024,Portimonense,0-0,0-0,Vizela
+Sun Mar 3 2024,Sp Lisbon,3-2,2-1,Farense
+Sun Mar 3 2024,Porto,5-0,2-0,Benfica
+Mon Mar 4 2024,Famalicao,1-1,1-0,Boavista
+Fri Mar 8 2024,Portimonense,0-3,0-1,Porto
+Fri Mar 8 2024,Estrela,3-1,0-0,Casa Pia
+Sat Mar 9 2024,Vizela,2-1,0-1,Farense
+Sat Mar 9 2024,Boavista,1-0,0-0,Moreirense
+Sat Mar 9 2024,Rio Ave,0-0,0-0,Sp Braga
+Sat Mar 9 2024,Guimaraes,1-0,1-0,Famalicao
+Sun Mar 10 2024,Arouca,0-3,0-1,Sp Lisbon
+Sun Mar 10 2024,Benfica,3-1,2-1,Estoril
+Mon Mar 11 2024,Gil Vicente,0-0,0-0,Chaves
+Fri Mar 15 2024,Estoril,1-0,0-0,Portimonense
+Sat Mar 16 2024,Famalicao,0-0,0-0,Estrela
+Sat Mar 16 2024,Farense,1-1,1-0,Rio Ave
+Sat Mar 16 2024,Sp Braga,2-1,1-0,Gil Vicente
+Sat Mar 16 2024,Porto,4-1,0-1,Vizela
+Sun Mar 17 2024,Chaves,1-2,1-1,Guimaraes
+Sun Mar 17 2024,Moreirense,1-0,1-0,Arouca
+Sun Mar 17 2024,Casa Pia,0-1,0-0,Benfica
+Sun Mar 17 2024,Sp Lisbon,6-1,1-1,Boavista
+Fri Mar 29 2024,Gil Vicente,1-2,0-1,Famalicao
+Fri Mar 29 2024,Benfica,1-0,0-0,Chaves
+Fri Mar 29 2024,Estrela,1-2,1-2,Sp Lisbon
+Sat Mar 30 2024,Arouca,2-1,1-0,Farense
+Sat Mar 30 2024,Guimaraes,1-0,0-0,Moreirense
+Sat Mar 30 2024,Boavista,0-0,0-0,Rio Ave
+Sat Mar 30 2024,Estoril,1-0,0-0,Porto
+Sun Mar 31 2024,Vizela,0-4,0-1,Casa Pia
+Mon Apr 1 2024,Portimonense,3-5,1-2,Sp Braga
+Fri Apr 5 2024,Farense,2-0,2-0,Boavista
+Sat Apr 6 2024,Famalicao,3-2,2-0,Vizela
+Sat Apr 6 2024,Rio Ave,3-0,2-0,Gil Vicente
+Sat Apr 6 2024,Sp Braga,0-3,0-2,Arouca
+Sat Apr 6 2024,Sp Lisbon,2-1,1-1,Benfica
+Sun Apr 7 2024,Chaves,2-3,1-0,Portimonense
+Sun Apr 7 2024,Moreirense,2-2,2-0,Estrela
+Sun Apr 7 2024,Porto,1-2,1-2,Guimaraes
+Mon Apr 8 2024,Casa Pia,0-0,0-0,Estoril
+Fri Apr 12 2024,Gil Vicente,0-4,0-4,Sp Lisbon
+Sat Apr 13 2024,Guimaraes,1-1,0-1,Farense
+Sat Apr 13 2024,Porto,2-2,1-2,Famalicao
+Sat Apr 13 2024,Estoril,0-1,0-0,Sp Braga
+Sun Apr 14 2024,Estrela,2-2,1-1,Rio Ave
+Sun Apr 14 2024,Arouca,2-1,2-0,Boavista
+Sun Apr 14 2024,Portimonense,2-2,2-1,Casa Pia
+Sun Apr 14 2024,Benfica,3-0,2-0,Moreirense
+Mon Apr 15 2024,Vizela,0-1,0-1,Chaves
+Tue Apr 16 2024,Famalicao,0-1,0-1,Sp Lisbon
+Fri Apr 19 2024,Rio Ave,1-1,1-0,Arouca
+Sat Apr 20 2024,Moreirense,0-1,0-1,Gil Vicente
+Sat Apr 20 2024,Boavista,1-1,0-0,Estrela
+Sat Apr 20 2024,Sp Braga,2-1,0-0,Vizela
+Sun Apr 21 2024,Chaves,2-2,1-0,Estoril
+Sun Apr 21 2024,Famalicao,2-2,0-1,Portimonense
+Sun Apr 21 2024,Casa Pia,1-2,1-1,Porto
+Sun Apr 21 2024,Sp Lisbon,3-0,2-0,Guimaraes
+Mon Apr 22 2024,Farense,1-3,1-2,Benfica
+Fri Apr 26 2024,Gil Vicente,2-2,0-0,Arouca
+Sat Apr 27 2024,Casa Pia,3-1,1-0,Chaves
+Sat Apr 27 2024,Vizela,1-1,1-1,Rio Ave
+Sat Apr 27 2024,Benfica,3-1,0-1,Sp Braga
+Sat Apr 27 2024,Guimaraes,1-0,1-0,Boavista
+Sun Apr 28 2024,Portimonense,0-2,0-0,Moreirense
+Sun Apr 28 2024,Estoril,1-0,1-0,Famalicao
+Sun Apr 28 2024,Porto,2-2,2-0,Sp Lisbon
+Mon Apr 29 2024,Estrela,0-3,0-1,Farense
+Fri May 3 2024,Moreirense,1-0,1-0,Vizela
+Sat May 4 2024,Boavista,1-1,1-1,Gil Vicente
+Sat May 4 2024,Rio Ave,2-1,1-0,Guimaraes
+Sat May 4 2024,Sp Lisbon,3-0,1-0,Portimonense
+Sat May 4 2024,Chaves,0-3,0-2,Porto
+Sun May 5 2024,Farense,3-2,2-1,Estoril
+Sun May 5 2024,Arouca,0-0,0-0,Estrela
+Sun May 5 2024,Sp Braga,4-3,1-1,Casa Pia
+Sun May 5 2024,Famalicao,2-0,0-0,Benfica
+Fri May 10 2024,Chaves,0-1,0-1,Famalicao
+Sat May 11 2024,Portimonense,2-2,0-1,Rio Ave
+Sat May 11 2024,Vizela,4-0,1-0,Estrela
+Sat May 11 2024,Estoril,0-1,0-0,Sp Lisbon
+Sat May 11 2024,Guimaraes,2-3,1-1,Sp Braga
+Sun May 12 2024,Gil Vicente,2-0,2-0,Farense
+Sun May 12 2024,Benfica,5-0,3-0,Arouca
+Sun May 12 2024,Casa Pia,0-1,0-1,Moreirense
+Sun May 12 2024,Porto,2-1,0-0,Boavista
+Fri May 17 2024,Famalicao,1-2,1-1,Casa Pia
+Fri May 17 2024,Rio Ave,1-1,0-1,Benfica
+Sat May 18 2024,Arouca,1-3,1-0,Guimaraes
+Sat May 18 2024,Boavista,2-2,0-1,Vizela
+Sat May 18 2024,Estrela,1-0,1-0,Gil Vicente
+Sat May 18 2024,Farense,1-3,0-2,Portimonense
+Sat May 18 2024,Moreirense,2-1,1-0,Estoril
+Sat May 18 2024,Sp Lisbon,3-0,2-0,Chaves
+Sat May 18 2024,Sp Braga,0-1,0-0,Porto

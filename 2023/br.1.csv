@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Apr 15 2023,America MG,0-3,?,Fluminense
+Sat Apr 15 2023,Palmeiras,2-1,?,Cuiaba
+Sat Apr 15 2023,Athletico-PR,2-0,?,Goias
+Sat Apr 15 2023,Botafogo RJ,2-1,?,Sao Paulo
+Sat Apr 15 2023,Bragantino,2-1,?,Bahia
+Sat Apr 15 2023,Fortaleza,1-1,?,Internacional
+Sat Apr 15 2023,Atletico-MG,1-2,?,Vasco
+Sun Apr 16 2023,Corinthians,2-1,?,Cruzeiro
+Sun Apr 16 2023,Flamengo RJ,3-0,?,Coritiba
+Sun Apr 16 2023,Gremio,1-0,?,Santos
+Sat Apr 22 2023,Fluminense,2-0,?,Athletico-PR
+Sat Apr 22 2023,Cuiaba,1-1,?,Bragantino
+Sat Apr 22 2023,Sao Paulo,3-0,?,America MG
+Sat Apr 22 2023,Cruzeiro,1-0,?,Gremio
+Sun Apr 23 2023,Internacional,2-1,?,Flamengo RJ
+Sun Apr 23 2023,Santos,0-0,?,Atletico-MG
+Sun Apr 23 2023,Vasco,2-2,?,Palmeiras
+Sun Apr 23 2023,Coritiba,0-3,?,Fortaleza
+Sun Apr 23 2023,Goias,3-1,?,Corinthians
+Mon Apr 24 2023,Bahia,1-2,?,Botafogo RJ
+Sat Apr 29 2023,Coritiba,1-1,?,Sao Paulo
+Sat Apr 29 2023,Fortaleza,4-2,?,Fluminense
+Sat Apr 29 2023,Bragantino,0-3,?,Cruzeiro
+Sat Apr 29 2023,Palmeiras,2-1,?,Corinthians
+Sat Apr 29 2023,Santos,3-2,?,America MG
+Sat Apr 29 2023,Atletico-MG,2-1,?,Athletico-PR
+Sun Apr 30 2023,Flamengo RJ,2-3,?,Botafogo RJ
+Sun Apr 30 2023,Cuiaba,1-2,?,Gremio
+Sun Apr 30 2023,Internacional,1-0,?,Goias
+Mon May 1 2023,Vasco,0-1,?,Bahia
+Sat May 6 2023,Cruzeiro,2-1,?,Santos
+Sat May 6 2023,Fluminense,1-1,?,Vasco
+Sun May 7 2023,America MG,1-2,?,Cuiaba
+Sun May 7 2023,Athletico-PR,2-1,?,Flamengo RJ
+Sun May 7 2023,Bahia,3-1,?,Coritiba
+Sun May 7 2023,Sao Paulo,2-0,?,Internacional
+Sun May 7 2023,Botafogo RJ,2-0,?,Atletico-MG
+Sun May 7 2023,Goias,0-5,?,Palmeiras
+Sun May 7 2023,Gremio,3-3,?,Bragantino
+Mon May 8 2023,Corinthians,1-1,?,Fortaleza
+Wed May 10 2023,Bragantino,2-2,?,America MG
+Wed May 10 2023,Internacional,0-2,?,Athletico-PR
+Wed May 10 2023,Santos,3-0,?,Bahia
+Wed May 10 2023,Cuiaba,0-4,?,Atletico-MG
+Wed May 10 2023,Flamengo RJ,2-0,?,Goias
+Wed May 10 2023,Cruzeiro,0-2,?,Fluminense
+Wed May 10 2023,Palmeiras,4-1,?,Gremio
+Thu May 11 2023,Coritiba,1-1,?,Vasco
+Thu May 11 2023,Botafogo RJ,3-0,?,Corinthians
+Thu May 11 2023,Fortaleza,0-0,?,Sao Paulo
+Sat May 13 2023,Bahia,2-3,?,Flamengo RJ
+Sat May 13 2023,Fluminense,2-0,?,Cuiaba
+Sat May 13 2023,Palmeiras,1-1,?,Bragantino
+Sat May 13 2023,Atletico-MG,2-0,?,Internacional
+Sun May 14 2023,Corinthians,1-1,?,Sao Paulo
+Sun May 14 2023,Gremio,0-0,?,Fortaleza
+Sun May 14 2023,Vasco,0-1,?,Santos
+Sun May 14 2023,America MG,0-4,?,Cruzeiro
+Sun May 14 2023,Athletico-PR,3-2,?,Coritiba
+Sun May 14 2023,Goias,2-1,?,Botafogo RJ
+Sat May 20 2023,Bahia,1-1,?,Goias
+Sat May 20 2023,America MG,2-1,?,Fortaleza
+Sat May 20 2023,Botafogo RJ,1-0,?,Fluminense
+Sat May 20 2023,Bragantino,2-0,?,Athletico-PR
+Sat May 20 2023,Coritiba,1-2,?,Atletico-MG
+Sat May 20 2023,Sao Paulo,4-2,?,Vasco
+Sat May 20 2023,Santos,0-0,?,Palmeiras
+Sun May 21 2023,Flamengo RJ,1-0,?,Corinthians
+Sun May 21 2023,Gremio,3-1,?,Internacional
+Mon May 22 2023,Cruzeiro,0-1,?,Cuiaba
+Sat May 27 2023,Athletico-PR,1-2,?,Gremio
+Sat May 27 2023,Fortaleza,2-0,?,Vasco
+Sat May 27 2023,Cuiaba,1-1,?,Coritiba
+Sat May 27 2023,Flamengo RJ,1-1,?,Cruzeiro
+Sat May 27 2023,Sao Paulo,2-1,?,Goias
+Sun May 28 2023,Corinthians,2-0,?,Fluminense
+Sun May 28 2023,Internacional,2-0,?,Bahia
+Sun May 28 2023,Atletico-MG,1-1,?,Palmeiras
+Sun May 28 2023,Bragantino,2-0,?,Santos
+Sun May 28 2023,Botafogo RJ,2-0,?,America MG
+Sat Jun 3 2023,Fortaleza,0-0,?,Bahia
+Sat Jun 3 2023,America MG,2-0,?,Corinthians
+Sat Jun 3 2023,Athletico-PR,1-0,?,Botafogo RJ
+Sat Jun 3 2023,Cruzeiro,0-1,?,Atletico-MG
+Sat Jun 3 2023,Santos,1-1,?,Internacional
+Sun Jun 4 2023,Fluminense,2-1,?,Bragantino
+Sun Jun 4 2023,Gremio,2-1,?,Sao Paulo
+Sun Jun 4 2023,Goias,0-1,?,Cuiaba
+Sun Jun 4 2023,Palmeiras,3-1,?,Coritiba
+Mon Jun 5 2023,Vasco,1-4,?,Flamengo RJ
+Sat Jun 10 2023,Coritiba,0-0,?,Santos
+Sat Jun 10 2023,Atletico-MG,1-1,?,Bragantino
+Sat Jun 10 2023,Bahia,2-2,?,Cruzeiro
+Sat Jun 10 2023,Corinthians,1-1,?,Cuiaba
+Sat Jun 10 2023,Botafogo RJ,2-0,?,Fortaleza
+Sun Jun 11 2023,America MG,2-2,?,Athletico-PR
+Sun Jun 11 2023,Internacional,2-1,?,Vasco
+Sun Jun 11 2023,Sao Paulo,0-2,?,Palmeiras
+Sun Jun 11 2023,Flamengo RJ,3-0,?,Gremio
+Sun Jun 11 2023,Goias,2-2,?,Fluminense
+Wed Jun 21 2023,Cruzeiro,0-1,?,Fortaleza
+Wed Jun 21 2023,Sao Paulo,2-1,?,Athletico-PR
+Wed Jun 21 2023,Santos,0-2,?,Corinthians
+Wed Jun 21 2023,Bahia,1-0,?,Palmeiras
+Wed Jun 21 2023,Fluminense,1-1,?,Atletico-MG
+Thu Jun 22 2023,Gremio,3-1,?,America MG
+Thu Jun 22 2023,Coritiba,0-1,?,Internacional
+Thu Jun 22 2023,Cuiaba,0-1,?,Botafogo RJ
+Thu Jun 22 2023,Vasco,0-1,?,Goias
+Thu Jun 22 2023,Bragantino,4-0,?,Flamengo RJ
+Sat Jun 24 2023,Athletico-PR,1-0,?,Corinthians
+Sat Jun 24 2023,Fluminense,2-1,?,Bahia
+Sat Jun 24 2023,Fortaleza,2-1,?,Atletico-MG
+Sat Jun 24 2023,Cruzeiro,1-0,?,Sao Paulo
+Sun Jun 25 2023,Gremio,5-1,?,Coritiba
+Sun Jun 25 2023,Palmeiras,0-1,?,Botafogo RJ
+Sun Jun 25 2023,America MG,1-2,?,Internacional
+Sun Jun 25 2023,Bragantino,2-0,?,Goias
+Sun Jun 25 2023,Santos,2-3,?,Flamengo RJ
+Mon Jun 26 2023,Vasco,1-0,?,Cuiaba
+Sat Jul 1 2023,Sao Paulo,1-0,?,Fluminense
+Sat Jul 1 2023,Bahia,1-2,?,Gremio
+Sat Jul 1 2023,Flamengo RJ,2-0,?,Fortaleza
+Sat Jul 1 2023,Internacional,0-0,?,Cruzeiro
+Sun Jul 2 2023,Corinthians,0-1,?,Bragantino
+Sun Jul 2 2023,Athletico-PR,2-2,?,Palmeiras
+Sun Jul 2 2023,Atletico-MG,2-2,?,America MG
+Sun Jul 2 2023,Botafogo RJ,2-0,?,Vasco
+Sun Jul 2 2023,Cuiaba,3-0,?,Santos
+Mon Jul 3 2023,Goias,1-2,?,Coritiba
+Sat Jul 8 2023,Cuiaba,1-1,?,Bahia
+Sat Jul 8 2023,Vasco,0-1,?,Cruzeiro
+Sat Jul 8 2023,Atletico-MG,0-1,?,Corinthians
+Sat Jul 8 2023,Coritiba,3-1,?,America MG
+Sat Jul 8 2023,Palmeiras,1-1,?,Flamengo RJ
+Sun Jul 9 2023,Santos,4-3,?,Goias
+Sun Jul 9 2023,Bragantino,0-0,?,Sao Paulo
+Sun Jul 9 2023,Fluminense,2-0,?,Internacional
+Sun Jul 9 2023,Fortaleza,1-0,?,Athletico-PR
+Sun Jul 9 2023,Gremio,0-2,?,Botafogo RJ
+Sat Jul 15 2023,Botafogo RJ,2-0,?,Bragantino
+Sun Jul 16 2023,Cruzeiro,0-0,?,Coritiba
+Sun Jul 16 2023,Fluminense,0-0,?,Flamengo RJ
+Sun Jul 16 2023,Fortaleza,0-1,?,Cuiaba
+Sun Jul 16 2023,Sao Paulo,4-1,?,Santos
+Sun Jul 16 2023,Athletico-PR,2-0,?,Bahia
+Sun Jul 16 2023,Internacional,0-0,?,Palmeiras
+Mon Jul 17 2023,Goias,0-0,?,Atletico-MG
+Sat Jul 22 2023,Flamengo RJ,1-1,?,America MG
+Sat Jul 22 2023,Palmeiras,3-1,?,Fortaleza
+Sat Jul 22 2023,Bahia,0-0,?,Corinthians
+Sat Jul 22 2023,Cuiaba,2-1,?,Sao Paulo
+Sat Jul 22 2023,Gremio,1-0,?,Atletico-MG
+Sun Jul 23 2023,Bragantino,0-0,?,Internacional
+Sun Jul 23 2023,Cruzeiro,0-1,?,Goias
+Sun Jul 23 2023,Santos,2-2,?,Botafogo RJ
+Sun Jul 23 2023,Vasco,0-2,?,Athletico-PR
+Mon Jul 24 2023,Coritiba,2-0,?,Fluminense
+Sat Jul 29 2023,Athletico-PR,3-3,?,Cruzeiro
+Sat Jul 29 2023,Fluminense,1-0,?,Santos
+Sat Jul 29 2023,Internacional,1-2,?,Cuiaba
+Sat Jul 29 2023,Corinthians,3-1,?,Vasco
+Sat Jul 29 2023,Fortaleza,0-3,?,Bragantino
+Sat Jul 29 2023,Atletico-MG,1-2,?,Flamengo RJ
+Sun Jul 30 2023,Sao Paulo,0-0,?,Bahia
+Sun Jul 30 2023,America MG,1-4,?,Palmeiras
+Sun Jul 30 2023,Botafogo RJ,4-1,?,Coritiba
+Sun Jul 30 2023,Goias,1-1,?,Gremio
+Sat Aug 5 2023,Santos,1-1,?,Athletico-PR
+Sat Aug 5 2023,Goias,1-0,?,Fortaleza
+Sat Aug 5 2023,Internacional,2-2,?,Corinthians
+Sat Aug 5 2023,Fluminense,2-1,?,Palmeiras
+Sun Aug 6 2023,Sao Paulo,0-2,?,Atletico-MG
+Sun Aug 6 2023,Vasco,1-0,?,Gremio
+Sun Aug 6 2023,Bahia,3-1,?,America MG
+Sun Aug 6 2023,Coritiba,0-1,?,Bragantino
+Sun Aug 6 2023,Cruzeiro,0-0,?,Botafogo RJ
+Sun Aug 6 2023,Cuiaba,3-0,?,Flamengo RJ
+Sat Aug 12 2023,Botafogo RJ,3-1,?,Internacional
+Sun Aug 13 2023,Atletico-MG,1-0,?,Bahia
+Sun Aug 13 2023,America MG,0-1,?,Goias
+Sun Aug 13 2023,Corinthians,3-1,?,Coritiba
+Sun Aug 13 2023,Gremio,2-1,?,Fluminense
+Sun Aug 13 2023,Flamengo RJ,1-1,?,Sao Paulo
+Sun Aug 13 2023,Fortaleza,4-0,?,Santos
+Mon Aug 14 2023,Palmeiras,1-0,?,Cruzeiro
+Mon Aug 14 2023,Bragantino,1-1,?,Vasco
+Tue Aug 15 2023,Athletico-PR,2-0,?,Cuiaba
+Sat Aug 19 2023,Internacional,0-1,?,Fortaleza
+Sat Aug 19 2023,Sao Paulo,0-0,?,Botafogo RJ
+Sat Aug 19 2023,Cuiaba,0-2,?,Palmeiras
+Sat Aug 19 2023,Fluminense,3-1,?,America MG
+Sat Aug 19 2023,Cruzeiro,1-1,?,Corinthians
+Sun Aug 20 2023,Vasco,1-0,?,Atletico-MG
+Sun Aug 20 2023,Bahia,4-0,?,Bragantino
+Sun Aug 20 2023,Coritiba,2-3,?,Flamengo RJ
+Sun Aug 20 2023,Santos,2-1,?,Gremio
+Mon Aug 21 2023,Goias,1-1,?,Athletico-PR
+Sat Aug 26 2023,Flamengo RJ,0-0,?,Internacional
+Sat Aug 26 2023,Corinthians,1-1,?,Goias
+Sun Aug 27 2023,Bragantino,2-0,?,Cuiaba
+Sun Aug 27 2023,America MG,2-1,?,Sao Paulo
+Sun Aug 27 2023,Atletico-MG,2-0,?,Santos
+Sun Aug 27 2023,Botafogo RJ,3-0,?,Bahia
+Sun Aug 27 2023,Athletico-PR,2-2,?,Fluminense
+Sun Aug 27 2023,Fortaleza,3-1,?,Coritiba
+Sun Aug 27 2023,Palmeiras,1-0,?,Vasco
+Sun Aug 27 2023,Gremio,3-0,?,Cruzeiro
+Sat Sep 2 2023,Athletico-PR,1-1,?,Atletico-MG
+Sat Sep 2 2023,Goias,0-0,?,Internacional
+Sat Sep 2 2023,Botafogo RJ,1-2,?,Flamengo RJ
+Sun Sep 3 2023,Gremio,2-0,?,Cuiaba
+Sun Sep 3 2023,Corinthians,0-0,?,Palmeiras
+Sun Sep 3 2023,Fluminense,1-0,?,Fortaleza
+Sun Sep 3 2023,America MG,2-0,?,Santos
+Sun Sep 3 2023,Bahia,1-1,?,Vasco
+Sun Sep 3 2023,Cruzeiro,0-0,?,Bragantino
+Wed Sep 13 2023,Flamengo RJ,0-3,?,Athletico-PR
+Wed Sep 13 2023,Internacional,2-1,?,Sao Paulo
+Thu Sep 14 2023,Fortaleza,2-1,?,Corinthians
+Thu Sep 14 2023,Santos,0-3,?,Cruzeiro
+Thu Sep 14 2023,Coritiba,2-4,?,Bahia
+Thu Sep 14 2023,Bragantino,2-0,?,Gremio
+Fri Sep 15 2023,Cuiaba,2-2,?,America MG
+Fri Sep 15 2023,Palmeiras,1-0,?,Goias
+Sat Sep 16 2023,Vasco,4-2,?,Fluminense
+Sat Sep 16 2023,Atletico-MG,1-0,?,Botafogo RJ
+Mon Sep 18 2023,Bahia,1-2,?,Santos
+Mon Sep 18 2023,Corinthians,4-4,?,Gremio
+Tue Sep 19 2023,America MG,0-2,?,Bragantino
+Wed Sep 20 2023,Goias,0-0,?,Flamengo RJ
+Wed Sep 20 2023,Fluminense,1-0,?,Cruzeiro
+Wed Sep 20 2023,Sao Paulo,1-2,?,Fortaleza
+Thu Sep 21 2023,Vasco,5-1,?,Coritiba
+Thu Sep 21 2023,Athletico-PR,2-1,?,Internacional
+Thu Sep 21 2023,Gremio,1-0,?,Palmeiras
+Fri Sep 22 2023,Corinthians,1-0,?,Botafogo RJ
+Sat Sep 23 2023,Atletico-MG,1-0,?,Cuiaba
+Mon Sep 25 2023,America MG,0-1,?,Vasco
+Wed Sep 27 2023,Sao Paulo,2-1,?,Coritiba
+Sat Sep 30 2023,Flamengo RJ,1-0,?,Bahia
+Sat Sep 30 2023,Fortaleza,1-1,?,Gremio
+Sat Sep 30 2023,Cuiaba,3-0,?,Fluminense
+Sat Sep 30 2023,Sao Paulo,2-1,?,Corinthians
+Sat Sep 30 2023,Internacional,0-2,?,Atletico-MG
+Sun Oct 1 2023,Coritiba,2-0,?,Athletico-PR
+Sun Oct 1 2023,Cruzeiro,1-1,?,America MG
+Sun Oct 1 2023,Santos,4-1,?,Vasco
+Sun Oct 1 2023,Bragantino,2-1,?,Palmeiras
+Mon Oct 2 2023,Botafogo RJ,1-1,?,Goias
+Sat Oct 7 2023,Goias,4-6,?,Bahia
+Sat Oct 7 2023,Vasco,0-0,?,Sao Paulo
+Sat Oct 7 2023,Corinthians,1-1,?,Flamengo RJ
+Sun Oct 8 2023,Fluminense,0-2,?,Botafogo RJ
+Sun Oct 8 2023,Internacional,3-2,?,Gremio
+Sun Oct 8 2023,Palmeiras,1-2,?,Santos
+Sun Oct 8 2023,Athletico-PR,1-1,?,Bragantino
+Sun Oct 8 2023,Atletico-MG,1-2,?,Coritiba
+Sun Oct 8 2023,Fortaleza,3-2,?,America MG
+Sat Oct 14 2023,Cuiaba,0-0,?,Cruzeiro
+Wed Oct 18 2023,Gremio,1-2,?,Athletico-PR
+Wed Oct 18 2023,America MG,1-2,?,Botafogo RJ
+Wed Oct 18 2023,Coritiba,0-3,?,Cuiaba
+Wed Oct 18 2023,Bahia,1-0,?,Internacional
+Wed Oct 18 2023,Goias,2-0,?,Sao Paulo
+Wed Oct 18 2023,Vasco,1-0,?,Fortaleza
+Thu Oct 19 2023,Cruzeiro,0-2,?,Flamengo RJ
+Thu Oct 19 2023,Palmeiras,0-2,?,Atletico-MG
+Thu Oct 19 2023,Santos,1-3,?,Bragantino
+Thu Oct 19 2023,Fluminense,3-3,?,Corinthians
+Sat Oct 21 2023,Bahia,2-0,?,Fortaleza
+Sat Oct 21 2023,Cuiaba,1-1,?,Goias
+Sat Oct 21 2023,Sao Paulo,3-0,?,Gremio
+Sun Oct 22 2023,Botafogo RJ,1-1,?,Athletico-PR
+Sun Oct 22 2023,Atletico-MG,0-1,?,Cruzeiro
+Sun Oct 22 2023,Flamengo RJ,1-0,?,Vasco
+Sun Oct 22 2023,Internacional,7-1,?,Santos
+Sun Oct 22 2023,Bragantino,1-0,?,Fluminense
+Sun Oct 22 2023,Corinthians,1-1,?,America MG
+Sun Oct 22 2023,Coritiba,0-2,?,Palmeiras
+Wed Oct 25 2023,Athletico-PR,3-2,?,America MG
+Wed Oct 25 2023,Bragantino,1-2,?,Atletico-MG
+Wed Oct 25 2023,Fluminense,5-3,?,Goias
+Wed Oct 25 2023,Cruzeiro,3-0,?,Bahia
+Wed Oct 25 2023,Palmeiras,5-0,?,Sao Paulo
+Wed Oct 25 2023,Cuiaba,0-1,?,Corinthians
+Wed Oct 25 2023,Gremio,3-2,?,Flamengo RJ
+Thu Oct 26 2023,Vasco,1-2,?,Internacional
+Thu Oct 26 2023,Santos,2-1,?,Coritiba
+Sat Oct 28 2023,America MG,3-4,?,Gremio
+Sat Oct 28 2023,Palmeiras,1-0,?,Bahia
+Sat Oct 28 2023,Atletico-MG,2-0,?,Fluminense
+Sun Oct 29 2023,Athletico-PR,1-1,?,Sao Paulo
+Sun Oct 29 2023,Goias,1-1,?,Vasco
+Sun Oct 29 2023,Corinthians,1-1,?,Santos
+Sun Oct 29 2023,Internacional,3-4,?,Coritiba
+Sun Oct 29 2023,Botafogo RJ,0-1,?,Cuiaba
+Tue Oct 31 2023,Bahia,1-0,?,Fluminense
+Wed Nov 1 2023,Corinthians,1-0,?,Athletico-PR
+Wed Nov 1 2023,Internacional,1-1,?,America MG
+Wed Nov 1 2023,Coritiba,1-2,?,Gremio
+Wed Nov 1 2023,Flamengo RJ,1-2,?,Santos
+Wed Nov 1 2023,Atletico-MG,3-1,?,Fortaleza
+Wed Nov 1 2023,Botafogo RJ,3-4,?,Palmeiras
+Thu Nov 2 2023,Cuiaba,0-2,?,Vasco
+Thu Nov 2 2023,Goias,0-2,?,Bragantino
+Thu Nov 2 2023,Sao Paulo,1-0,?,Cruzeiro
+Sat Nov 4 2023,America MG,1-1,?,Atletico-MG
+Sat Nov 4 2023,Gremio,1-0,?,Bahia
+Sat Nov 4 2023,Palmeiras,1-0,?,Athletico-PR
+Sun Nov 5 2023,Bragantino,1-0,?,Corinthians
+Sun Nov 5 2023,Cruzeiro,1-2,?,Internacional
+Sun Nov 5 2023,Fortaleza,0-2,?,Flamengo RJ
+Sun Nov 5 2023,Coritiba,0-1,?,Goias
+Mon Nov 6 2023,Vasco,1-0,?,Botafogo RJ
+Mon Nov 6 2023,Santos,0-0,?,Cuiaba
+Wed Nov 8 2023,America MG,0-3,?,Coritiba
+Wed Nov 8 2023,Internacional,0-0,?,Fluminense
+Wed Nov 8 2023,Athletico-PR,1-1,?,Fortaleza
+Wed Nov 8 2023,Sao Paulo,1-0,?,Bragantino
+Wed Nov 8 2023,Flamengo RJ,3-0,?,Palmeiras
+Thu Nov 9 2023,Corinthians,1-1,?,Atletico-MG
+Thu Nov 9 2023,Goias,0-1,?,Santos
+Thu Nov 9 2023,Bahia,0-3,?,Cuiaba
+Thu Nov 9 2023,Botafogo RJ,3-4,?,Gremio
+Sat Nov 11 2023,Coritiba,1-0,?,Cruzeiro
+Sat Nov 11 2023,Flamengo RJ,1-1,?,Fluminense
+Sat Nov 11 2023,Palmeiras,3-0,?,Internacional
+Sun Nov 12 2023,Bragantino,2-2,?,Botafogo RJ
+Sun Nov 12 2023,Gremio,0-1,?,Corinthians
+Sun Nov 12 2023,Atletico-MG,2-1,?,Goias
+Sun Nov 12 2023,Bahia,1-1,?,Athletico-PR
+Sun Nov 12 2023,Cuiaba,2-1,?,Fortaleza
+Sun Nov 12 2023,Santos,0-0,?,Sao Paulo
+Sun Nov 12 2023,Vasco,2-1,?,America MG
+Sat Nov 18 2023,Fortaleza,0-1,?,Cruzeiro
+Wed Nov 22 2023,Cruzeiro,2-2,?,Vasco
+Wed Nov 22 2023,Fluminense,1-0,?,Sao Paulo
+Thu Nov 23 2023,Fortaleza,2-2,?,Botafogo RJ
+Thu Nov 23 2023,Flamengo RJ,1-0,?,Bragantino
+Fri Nov 24 2023,Corinthians,1-5,?,Bahia
+Sat Nov 25 2023,Athletico-PR,0-0,?,Vasco
+Sat Nov 25 2023,Fluminense,2-1,?,Coritiba
+Sun Nov 26 2023,Atletico-MG,3-0,?,Gremio
+Sun Nov 26 2023,Botafogo RJ,1-1,?,Santos
+Sun Nov 26 2023,America MG,0-3,?,Flamengo RJ
+Sun Nov 26 2023,Fortaleza,2-2,?,Palmeiras
+Sun Nov 26 2023,Internacional,1-0,?,Bragantino
+Sun Nov 26 2023,Sao Paulo,0-0,?,Cuiaba
+Mon Nov 27 2023,Goias,0-1,?,Cruzeiro
+Tue Nov 28 2023,Vasco,2-4,?,Corinthians
+Wed Nov 29 2023,Santos,0-3,?,Fluminense
+Wed Nov 29 2023,Flamengo RJ,0-3,?,Atletico-MG
+Wed Nov 29 2023,Bahia,0-1,?,Sao Paulo
+Wed Nov 29 2023,Cuiaba,0-2,?,Internacional
+Wed Nov 29 2023,Coritiba,1-1,?,Botafogo RJ
+Wed Nov 29 2023,Palmeiras,4-0,?,America MG
+Thu Nov 30 2023,Gremio,2-1,?,Goias
+Thu Nov 30 2023,Cruzeiro,1-1,?,Athletico-PR
+Thu Nov 30 2023,Bragantino,1-2,?,Fortaleza
+Sat Dec 2 2023,Corinthians,1-2,?,Internacional
+Sat Dec 2 2023,Atletico-MG,2-1,?,Sao Paulo
+Sun Dec 3 2023,Flamengo RJ,2-1,?,Cuiaba
+Sun Dec 3 2023,Palmeiras,1-0,?,Fluminense
+Sun Dec 3 2023,America MG,3-2,?,Bahia
+Sun Dec 3 2023,Athletico-PR,3-0,?,Santos
+Sun Dec 3 2023,Botafogo RJ,0-0,?,Cruzeiro
+Sun Dec 3 2023,Bragantino,1-0,?,Coritiba
+Sun Dec 3 2023,Fortaleza,1-0,?,Goias
+Sun Dec 3 2023,Gremio,1-0,?,Vasco
+Wed Dec 6 2023,Goias,1-0,?,America MG
+Wed Dec 6 2023,Bahia,4-1,?,Atletico-MG
+Wed Dec 6 2023,Coritiba,0-2,?,Corinthians
+Wed Dec 6 2023,Cruzeiro,1-1,?,Palmeiras
+Wed Dec 6 2023,Cuiaba,3-0,?,Athletico-PR
+Wed Dec 6 2023,Fluminense,2-3,?,Gremio
+Wed Dec 6 2023,Internacional,3-1,?,Botafogo RJ
+Wed Dec 6 2023,Santos,1-2,?,Fortaleza
+Wed Dec 6 2023,Sao Paulo,1-0,?,Flamengo RJ
+Wed Dec 6 2023,Vasco,2-1,?,Bragantino

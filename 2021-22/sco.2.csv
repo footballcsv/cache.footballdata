@@ -1,0 +1,181 @@
+Date,Team 1,FT,HT,Team 2
+Sat Jul 31 2021,Arbroath,0-1,0-0,Inverness C
+Sat Jul 31 2021,Morton,2-2,1-0,Dunfermline
+Sat Jul 31 2021,Partick,3-2,2-1,Queen of Sth
+Sat Jul 31 2021,Raith Rvs,4-4,2-0,Hamilton
+Mon Aug 2 2021,Kilmarnock,2-0,0-0,Ayr
+Sat Aug 7 2021,Ayr,2-2,0-2,Arbroath
+Sat Aug 7 2021,Dunfermline,0-3,0-2,Partick
+Sat Aug 7 2021,Hamilton,0-1,0-1,Morton
+Sat Aug 7 2021,Inverness C,1-0,0-0,Raith Rvs
+Sat Aug 7 2021,Queen of Sth,0-1,0-0,Kilmarnock
+Sat Aug 21 2021,Arbroath,3-1,1-1,Partick
+Sat Aug 21 2021,Hamilton,0-2,0-0,Kilmarnock
+Sat Aug 21 2021,Inverness C,1-0,0-0,Ayr
+Sat Aug 21 2021,Morton,2-3,1-1,Queen of Sth
+Sat Aug 28 2021,Dunfermline,0-3,0-2,Arbroath
+Sat Aug 28 2021,Kilmarnock,0-1,0-1,Inverness C
+Sat Aug 28 2021,Partick,3-0,1-0,Morton
+Sat Aug 28 2021,Queen of Sth,1-2,0-0,Hamilton
+Tue Sep 7 2021,Ayr,0-2,0-2,Raith Rvs
+Sat Sep 11 2021,Arbroath,4-0,1-0,Hamilton
+Sat Sep 11 2021,Ayr,3-1,2-1,Dunfermline
+Sat Sep 11 2021,Inverness C,3-1,0-1,Partick
+Sat Sep 11 2021,Kilmarnock,1-0,0-0,Morton
+Sat Sep 11 2021,Raith Rvs,0-1,0-1,Queen of Sth
+Sat Sep 18 2021,Dunfermline,0-0,0-0,Inverness C
+Sat Sep 18 2021,Hamilton,0-2,0-0,Ayr
+Sat Sep 18 2021,Morton,0-1,0-1,Raith Rvs
+Sat Sep 18 2021,Partick,0-2,0-0,Kilmarnock
+Sat Sep 18 2021,Queen of Sth,0-2,0-1,Arbroath
+Fri Sep 24 2021,Arbroath,0-0,0-0,Kilmarnock
+Sat Sep 25 2021,Ayr,0-0,0-0,Morton
+Sat Sep 25 2021,Dunfermline,0-0,0-0,Hamilton
+Sat Sep 25 2021,Inverness C,2-1,1-0,Queen of Sth
+Sun Sep 26 2021,Raith Rvs,3-2,1-0,Partick
+Wed Sep 29 2021,Raith Rvs,1-1,1-0,Dunfermline
+Sat Oct 2 2021,Hamilton,2-1,2-0,Inverness C
+Sat Oct 2 2021,Kilmarnock,1-3,0-1,Raith Rvs
+Sat Oct 2 2021,Morton,2-2,0-1,Arbroath
+Sat Oct 2 2021,Partick,4-0,2-0,Ayr
+Sat Oct 2 2021,Queen of Sth,1-0,0-0,Dunfermline
+Fri Oct 15 2021,Hamilton,1-6,0-1,Partick
+Sat Oct 16 2021,Ayr,2-1,0-0,Queen of Sth
+Sat Oct 16 2021,Dunfermline,2-2,0-0,Kilmarnock
+Sat Oct 16 2021,Inverness C,2-0,1-0,Morton
+Sat Oct 16 2021,Raith Rvs,2-1,2-0,Arbroath
+Sat Oct 23 2021,Arbroath,1-1,0-0,Ayr
+Sat Oct 23 2021,Kilmarnock,2-1,1-1,Hamilton
+Sat Oct 23 2021,Partick,0-0,0-0,Dunfermline
+Sat Oct 23 2021,Queen of Sth,0-0,0-0,Morton
+Sat Oct 23 2021,Raith Rvs,1-1,0-0,Inverness C
+Tue Oct 26 2021,Morton,0-0,0-0,Partick
+Tue Oct 26 2021,Ayr,0-1,0-0,Kilmarnock
+Tue Oct 26 2021,Dunfermline,1-1,0-0,Raith Rvs
+Tue Oct 26 2021,Hamilton,1-0,0-0,Queen of Sth
+Tue Oct 26 2021,Inverness C,0-1,0-0,Arbroath
+Sat Oct 30 2021,Arbroath,4-2,2-2,Dunfermline
+Sat Oct 30 2021,Kilmarnock,4-0,1-0,Queen of Sth
+Sat Oct 30 2021,Morton,1-1,0-1,Hamilton
+Sat Oct 30 2021,Partick,0-0,0-0,Inverness C
+Sat Oct 30 2021,Raith Rvs,2-1,2-0,Ayr
+Sat Nov 6 2021,Ayr,2-2,1-2,Inverness C
+Sat Nov 6 2021,Dunfermline,1-3,1-1,Morton
+Sat Nov 6 2021,Hamilton,1-1,1-0,Arbroath
+Sat Nov 6 2021,Kilmarnock,0-1,0-1,Partick
+Sat Nov 6 2021,Queen of Sth,1-1,0-0,Raith Rvs
+Sat Nov 13 2021,Arbroath,1-1,0-0,Queen of Sth
+Sat Nov 13 2021,Ayr,0-4,0-2,Partick
+Sat Nov 13 2021,Hamilton,0-3,0-3,Raith Rvs
+Sat Nov 13 2021,Inverness C,1-2,1-0,Dunfermline
+Sat Nov 13 2021,Morton,0-2,0-2,Kilmarnock
+Fri Nov 19 2021,Queen of Sth,1-2,0-1,Inverness C
+Sat Nov 20 2021,Dunfermline,3-0,2-0,Ayr
+Sat Nov 20 2021,Kilmarnock,0-1,0-0,Arbroath
+Sat Nov 20 2021,Partick,1-0,0-0,Hamilton
+Sat Nov 20 2021,Raith Rvs,2-1,1-1,Morton
+Fri Dec 3 2021,Inverness C,1-0,0-0,Kilmarnock
+Sat Dec 4 2021,Arbroath,0-0,0-0,Raith Rvs
+Sat Dec 4 2021,Hamilton,1-0,0-0,Dunfermline
+Sat Dec 4 2021,Morton,2-2,1-0,Ayr
+Sat Dec 4 2021,Queen of Sth,0-0,0-0,Partick
+Fri Dec 10 2021,Ayr,1-1,0-1,Hamilton
+Sat Dec 11 2021,Dunfermline,3-3,1-1,Queen of Sth
+Sat Dec 11 2021,Morton,1-6,1-3,Inverness C
+Sat Dec 11 2021,Partick,0-2,0-1,Arbroath
+Sat Dec 11 2021,Raith Rvs,1-0,0-0,Kilmarnock
+Sat Dec 18 2021,Arbroath,2-1,0-0,Morton
+Sat Dec 18 2021,Inverness C,1-2,0-0,Hamilton
+Sat Dec 18 2021,Partick,1-0,0-0,Raith Rvs
+Sat Dec 18 2021,Queen of Sth,3-0,2-0,Ayr
+Sun Dec 26 2021,Ayr,2-0,1-0,Raith Rvs
+Sun Dec 26 2021,Dunfermline,0-3,0-2,Arbroath
+Sun Dec 26 2021,Hamilton,2-3,1-2,Kilmarnock
+Wed Dec 29 2021,Kilmarnock,1-1,1-0,Morton
+Sun Jan 2 2022,Arbroath,0-0,0-0,Inverness C
+Sun Jan 2 2022,Queen of Sth,0-3,0-1,Hamilton
+Sun Jan 2 2022,Raith Rvs,0-0,0-0,Dunfermline
+Sat Jan 8 2022,Ayr,1-0,1-0,Arbroath
+Sat Jan 8 2022,Hamilton,2-2,0-1,Partick
+Sat Jan 8 2022,Inverness C,1-1,0-1,Raith Rvs
+Sat Jan 8 2022,Morton,5-0,3-0,Dunfermline
+Sat Jan 8 2022,Queen of Sth,0-2,0-1,Kilmarnock
+Fri Jan 14 2022,Partick,1-1,0-0,Kilmarnock
+Sat Jan 15 2022,Ayr,0-2,0-1,Morton
+Sat Jan 15 2022,Dunfermline,1-0,1-0,Hamilton
+Sat Jan 15 2022,Inverness C,2-2,0-1,Queen of Sth
+Sat Jan 15 2022,Raith Rvs,1-2,1-0,Arbroath
+Sat Jan 22 2022,Dunfermline,1-1,0-1,Inverness C
+Fri Jan 28 2022,Morton,2-2,1-2,Raith Rvs
+Sat Jan 29 2022,Hamilton,1-1,1-0,Ayr
+Sat Jan 29 2022,Kilmarnock,1-0,1-0,Inverness C
+Sat Jan 29 2022,Queen of Sth,0-2,0-2,Dunfermline
+Tue Feb 1 2022,Partick,1-0,0-0,Ayr
+Tue Feb 1 2022,Raith Rvs,3-3,2-1,Queen of Sth
+Fri Feb 4 2022,Arbroath,1-0,0-0,Kilmarnock
+Sat Feb 5 2022,Ayr,1-1,1-1,Dunfermline
+Sat Feb 5 2022,Inverness C,0-1,0-1,Morton
+Sat Feb 5 2022,Raith Rvs,0-0,0-0,Hamilton
+Wed Feb 9 2022,Arbroath,2-2,1-2,Hamilton
+Wed Feb 9 2022,Inverness C,3-3,2-2,Partick
+Wed Feb 9 2022,Kilmarnock,1-2,1-1,Ayr
+Sat Feb 12 2022,Kilmarnock,2-1,0-0,Dunfermline
+Sat Feb 12 2022,Morton,2-1,0-0,Queen of Sth
+Sat Feb 19 2022,Hamilton,1-0,0-0,Morton
+Sat Feb 19 2022,Inverness C,1-2,0-1,Ayr
+Sat Feb 19 2022,Kilmarnock,3-0,2-0,Raith Rvs
+Sat Feb 19 2022,Queen of Sth,0-0,0-0,Arbroath
+Tue Feb 22 2022,Partick,0-1,0-0,Morton
+Fri Feb 25 2022,Hamilton,1-1,1-1,Inverness C
+Sat Feb 26 2022,Ayr,0-1,0-1,Queen of Sth
+Sat Feb 26 2022,Dunfermline,0-0,0-0,Kilmarnock
+Sat Feb 26 2022,Morton,0-0,0-0,Arbroath
+Sat Feb 26 2022,Raith Rvs,0-0,0-0,Partick
+Tue Mar 1 2022,Arbroath,1-1,1-0,Partick
+Fri Mar 4 2022,Partick,1-0,0-0,Inverness C
+Sat Mar 5 2022,Arbroath,1-0,1-0,Dunfermline
+Sat Mar 5 2022,Kilmarnock,2-0,1-0,Hamilton
+Sat Mar 5 2022,Queen of Sth,3-0,2-0,Morton
+Sat Mar 5 2022,Raith Rvs,0-4,0-3,Ayr
+Tue Mar 8 2022,Partick,1-0,0-0,Queen of Sth
+Fri Mar 11 2022,Ayr,1-3,1-3,Kilmarnock
+Sat Mar 12 2022,Hamilton,2-2,1-1,Dunfermline
+Sat Mar 12 2022,Inverness C,3-0,2-0,Arbroath
+Sat Mar 12 2022,Morton,2-1,0-1,Partick
+Sat Mar 12 2022,Queen of Sth,0-1,0-1,Raith Rvs
+Fri Mar 18 2022,Dunfermline,1-1,0-1,Morton
+Sat Mar 19 2022,Arbroath,1-0,0-0,Ayr
+Sat Mar 19 2022,Kilmarnock,2-1,1-0,Queen of Sth
+Sat Mar 19 2022,Partick,0-4,0-2,Hamilton
+Sat Mar 19 2022,Raith Rvs,2-3,2-1,Inverness C
+Tue Mar 22 2022,Dunfermline,4-1,3-1,Partick
+Sat Mar 26 2022,Arbroath,3-3,1-1,Raith Rvs
+Sat Mar 26 2022,Hamilton,1-0,0-0,Queen of Sth
+Sat Mar 26 2022,Inverness C,2-0,0-0,Dunfermline
+Sat Mar 26 2022,Kilmarnock,2-1,1-0,Partick
+Sat Mar 26 2022,Morton,1-1,1-0,Ayr
+Fri Apr 1 2022,Ayr,1-1,0-1,Hamilton
+Fri Apr 1 2022,Morton,1-1,0-0,Kilmarnock
+Sat Apr 2 2022,Partick,0-0,0-0,Arbroath
+Wed Apr 6 2022,Dunfermline,2-0,1-0,Raith Rvs
+Fri Apr 8 2022,Queen of Sth,0-1,0-0,Partick
+Sat Apr 9 2022,Ayr,2-2,0-2,Inverness C
+Sat Apr 9 2022,Hamilton,0-1,0-0,Arbroath
+Sat Apr 9 2022,Kilmarnock,2-0,1-0,Dunfermline
+Sat Apr 9 2022,Raith Rvs,0-1,0-0,Morton
+Fri Apr 15 2022,Inverness C,2-1,0-0,Kilmarnock
+Sat Apr 16 2022,Arbroath,5-1,2-1,Queen of Sth
+Sat Apr 16 2022,Dunfermline,2-1,0-1,Ayr
+Sat Apr 16 2022,Morton,0-1,0-1,Hamilton
+Sat Apr 16 2022,Partick,0-1,0-0,Raith Rvs
+Tue Apr 19 2022,Queen of Sth,2-1,2-1,Inverness C
+Fri Apr 22 2022,Kilmarnock,2-1,0-1,Arbroath
+Sat Apr 23 2022,Hamilton,0-2,0-1,Raith Rvs
+Sat Apr 23 2022,Morton,0-1,0-1,Inverness C
+Sat Apr 23 2022,Partick,1-0,1-0,Dunfermline
+Sat Apr 23 2022,Queen of Sth,1-1,0-0,Ayr
+Fri Apr 29 2022,Arbroath,3-0,1-0,Morton
+Fri Apr 29 2022,Ayr,3-1,2-0,Partick
+Fri Apr 29 2022,Dunfermline,1-2,1-0,Queen of Sth
+Fri Apr 29 2022,Inverness C,4-0,4-0,Hamilton
+Fri Apr 29 2022,Raith Rvs,1-1,1-0,Kilmarnock

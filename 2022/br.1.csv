@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat Apr 9 2022,Fluminense,0-0,?,Santos
+Sat Apr 9 2022,Atletico GO,1-1,?,Flamengo RJ
+Sat Apr 9 2022,Palmeiras,2-3,?,Ceara
+Sun Apr 10 2022,Coritiba,3-0,?,Goias
+Sun Apr 10 2022,Atletico-MG,2-0,?,Internacional
+Sun Apr 10 2022,Botafogo RJ,1-3,?,Corinthians
+Sun Apr 10 2022,Fortaleza,0-1,?,Cuiaba
+Sun Apr 10 2022,Avai,1-0,?,America MG
+Sun Apr 10 2022,Sao Paulo,4-0,?,Athletico-PR
+Mon Apr 11 2022,Juventude,2-2,?,Bragantino
+Sat Apr 16 2022,Goias,1-1,?,Palmeiras
+Sat Apr 16 2022,America MG,4-1,?,Juventude
+Sat Apr 16 2022,Corinthians,3-0,?,Avai
+Sat Apr 16 2022,Cuiaba,0-1,?,Fluminense
+Sun Apr 17 2022,Santos,2-1,?,Coritiba
+Sun Apr 17 2022,Flamengo RJ,3-1,?,Sao Paulo
+Sun Apr 17 2022,Athletico-PR,0-1,?,Atletico-MG
+Sun Apr 17 2022,Bragantino,4-0,?,Atletico GO
+Sun Apr 17 2022,Internacional,2-1,?,Fortaleza
+Sun Apr 17 2022,Ceara,1-3,?,Botafogo RJ
+Wed Apr 20 2022,Flamengo RJ,0-0,?,Palmeiras
+Sat Apr 23 2022,Athletico-PR,1-0,?,Flamengo RJ
+Sat Apr 23 2022,Bragantino,1-1,?,Sao Paulo
+Sat Apr 23 2022,Fluminense,0-1,?,Internacional
+Sat Apr 23 2022,Palmeiras,3-0,?,Corinthians
+Sat Apr 23 2022,Atletico-MG,2-2,?,Coritiba
+Sun Apr 24 2022,Santos,3-0,?,America MG
+Sun Apr 24 2022,Juventude,0-1,?,Cuiaba
+Sun Apr 24 2022,Atletico GO,1-1,?,Botafogo RJ
+Mon Apr 25 2022,Avai,3-2,?,Goias
+Sat Apr 30 2022,America MG,1-0,?,Athletico-PR
+Sat Apr 30 2022,Ceara,0-1,?,Bragantino
+Sat Apr 30 2022,Goias,2-2,?,Atletico-MG
+Sat Apr 30 2022,Cuiaba,1-1,?,Atletico GO
+Sun May 1 2022,Botafogo RJ,1-1,?,Juventude
+Sun May 1 2022,Corinthians,1-0,?,Fortaleza
+Sun May 1 2022,Coritiba,3-2,?,Fluminense
+Sun May 1 2022,Internacional,0-0,?,Avai
+Mon May 2 2022,Sao Paulo,2-1,?,Santos
+Sat May 7 2022,Atletico-MG,1-2,?,America MG
+Sat May 7 2022,Athletico-PR,1-0,?,Ceara
+Sun May 8 2022,Flamengo RJ,0-1,?,Botafogo RJ
+Sun May 8 2022,Atletico GO,0-1,?,Goias
+Sun May 8 2022,Palmeiras,1-1,?,Fluminense
+Sun May 8 2022,Bragantino,0-1,?,Corinthians
+Sun May 8 2022,Santos,4-1,?,Cuiaba
+Sun May 8 2022,Fortaleza,1-1,?,Sao Paulo
+Sun May 8 2022,Juventude,1-1,?,Internacional
+Mon May 9 2022,Avai,2-1,?,Coritiba
+Wed May 11 2022,Bragantino,1-1,?,Atletico-MG
+Sat May 14 2022,Ceara,2-2,?,Flamengo RJ
+Sat May 14 2022,Palmeiras,2-0,?,Bragantino
+Sat May 14 2022,Atletico-MG,2-0,?,Atletico GO
+Sat May 14 2022,Internacional,2-2,?,Corinthians
+Sat May 14 2022,Fluminense,2-1,?,Athletico-PR
+Sun May 15 2022,Sao Paulo,2-1,?,Cuiaba
+Sun May 15 2022,Coritiba,1-0,?,America MG
+Sun May 15 2022,Avai,1-2,?,Juventude
+Sun May 15 2022,Botafogo RJ,3-1,?,Fortaleza
+Sun May 15 2022,Goias,1-0,?,Santos
+Sat May 21 2022,Atletico GO,2-0,?,Coritiba
+Sat May 21 2022,Flamengo RJ,1-0,?,Goias
+Sat May 21 2022,Santos,0-0,?,Ceara
+Sat May 21 2022,Juventude,0-3,?,Palmeiras
+Sat May 21 2022,America MG,1-1,?,Botafogo RJ
+Sat May 21 2022,Cuiaba,1-1,?,Internacional
+Sun May 22 2022,Corinthians,1-1,?,Sao Paulo
+Sun May 22 2022,Fortaleza,0-1,?,Fluminense
+Sun May 22 2022,Athletico-PR,2-1,?,Avai
+Sat May 28 2022,Goias,1-1,?,Bragantino
+Sat May 28 2022,Sao Paulo,2-2,?,Ceara
+Sat May 28 2022,Fortaleza,1-1,?,Juventude
+Sun May 29 2022,Coritiba,1-0,?,Botafogo RJ
+Sun May 29 2022,Santos,0-1,?,Palmeiras
+Sun May 29 2022,Corinthians,1-1,?,America MG
+Sun May 29 2022,Cuiaba,0-1,?,Athletico-PR
+Sun May 29 2022,Fluminense,1-2,?,Flamengo RJ
+Sun May 29 2022,Atletico-MG,2-1,?,Avai
+Mon May 30 2022,Internacional,1-1,?,Atletico GO
+Wed Jun 1 2022,Fortaleza,0-1,?,Ceara
+Sat Jun 4 2022,America MG,2-1,?,Cuiaba
+Sat Jun 4 2022,Athletico-PR,2-2,?,Santos
+Sat Jun 4 2022,Avai,1-1,?,Sao Paulo
+Sat Jun 4 2022,Ceara,1-1,?,Coritiba
+Sat Jun 4 2022,Atletico GO,0-1,?,Corinthians
+Sun Jun 5 2022,Juventude,1-0,?,Fluminense
+Sun Jun 5 2022,Flamengo RJ,1-2,?,Fortaleza
+Sun Jun 5 2022,Palmeiras,0-0,?,Atletico-MG
+Sun Jun 5 2022,Bragantino,0-2,?,Internacional
+Mon Jun 6 2022,Botafogo RJ,1-2,?,Goias
+Tue Jun 7 2022,Cuiaba,1-0,?,Corinthians
+Wed Jun 8 2022,America MG,0-2,?,Ceara
+Wed Jun 8 2022,Juventude,1-3,?,Athletico-PR
+Wed Jun 8 2022,Atletico GO,2-1,?,Avai
+Wed Jun 8 2022,Bragantino,1-0,?,Flamengo RJ
+Wed Jun 8 2022,Fluminense,5-3,?,Atletico-MG
+Wed Jun 8 2022,Santos,1-1,?,Internacional
+Thu Jun 9 2022,Palmeiras,4-0,?,Botafogo RJ
+Thu Jun 9 2022,Coritiba,1-1,?,Sao Paulo
+Thu Jun 9 2022,Fortaleza,1-1,?,Goias
+Sat Jun 11 2022,Corinthians,2-0,?,Juventude
+Sat Jun 11 2022,Atletico-MG,1-1,?,Santos
+Sat Jun 11 2022,Cuiaba,1-1,?,Bragantino
+Sat Jun 11 2022,Fluminense,0-2,?,Atletico GO
+Sat Jun 11 2022,Internacional,3-1,?,Flamengo RJ
+Sun Jun 12 2022,Goias,1-1,?,Ceara
+Sun Jun 12 2022,Sao Paulo,1-0,?,America MG
+Sun Jun 12 2022,Coritiba,0-2,?,Palmeiras
+Sun Jun 12 2022,Fortaleza,0-0,?,Athletico-PR
+Mon Jun 13 2022,Botafogo RJ,0-1,?,Avai
+Tue Jun 14 2022,Juventude,1-2,?,Santos
+Wed Jun 15 2022,Bragantino,4-2,?,Coritiba
+Wed Jun 15 2022,Ceara,0-0,?,Atletico-MG
+Wed Jun 15 2022,Flamengo RJ,2-0,?,Cuiaba
+Wed Jun 15 2022,Goias,1-2,?,Internacional
+Wed Jun 15 2022,America MG,0-0,?,Fluminense
+Wed Jun 15 2022,Athletico-PR,1-1,?,Corinthians
+Thu Jun 16 2022,Botafogo RJ,1-0,?,Sao Paulo
+Thu Jun 16 2022,Palmeiras,4-2,?,Atletico GO
+Thu Jun 16 2022,Avai,3-2,?,Fortaleza
+Sat Jun 18 2022,Cuiaba,0-0,?,Ceara
+Sat Jun 18 2022,Santos,2-2,?,Bragantino
+Sun Jun 19 2022,Atletico-MG,2-0,?,Flamengo RJ
+Sun Jun 19 2022,Corinthians,1-0,?,Goias
+Sun Jun 19 2022,Coritiba,0-1,?,Athletico-PR
+Sun Jun 19 2022,Atletico GO,3-1,?,Juventude
+Sun Jun 19 2022,Fortaleza,1-0,?,America MG
+Sun Jun 19 2022,Internacional,2-3,?,Botafogo RJ
+Sun Jun 19 2022,Fluminense,2-0,?,Avai
+Mon Jun 20 2022,Sao Paulo,1-2,?,Palmeiras
+Fri Jun 24 2022,Internacional,3-0,?,Coritiba
+Sat Jun 25 2022,Athletico-PR,4-2,?,Bragantino
+Sat Jun 25 2022,Corinthians,0-0,?,Santos
+Sat Jun 25 2022,Flamengo RJ,3-0,?,America MG
+Sat Jun 25 2022,Atletico-MG,3-2,?,Fortaleza
+Sun Jun 26 2022,Avai,2-2,?,Palmeiras
+Sun Jun 26 2022,Botafogo RJ,0-1,?,Fluminense
+Sun Jun 26 2022,Ceara,1-1,?,Atletico GO
+Sun Jun 26 2022,Goias,1-0,?,Cuiaba
+Sun Jun 26 2022,Sao Paulo,0-0,?,Juventude
+Sat Jul 2 2022,Fluminense,4-0,?,Corinthians
+Sat Jul 2 2022,Juventude,1-2,?,Atletico-MG
+Sat Jul 2 2022,Ceara,1-1,?,Internacional
+Sat Jul 2 2022,Santos,1-2,?,Flamengo RJ
+Sat Jul 2 2022,Palmeiras,0-2,?,Athletico-PR
+Sun Jul 3 2022,Avai,1-2,?,Cuiaba
+Sun Jul 3 2022,Atletico GO,1-2,?,Sao Paulo
+Sun Jul 3 2022,America MG,1-0,?,Goias
+Sun Jul 3 2022,Coritiba,2-1,?,Fortaleza
+Mon Jul 4 2022,Bragantino,0-1,?,Botafogo RJ
+Sat Jul 9 2022,Bragantino,4-0,?,Avai
+Sat Jul 9 2022,Fluminense,2-1,?,Ceara
+Sat Jul 9 2022,Goias,2-1,?,Athletico-PR
+Sun Jul 10 2022,Coritiba,2-2,?,Juventude
+Sun Jul 10 2022,Corinthians,1-0,?,Flamengo RJ
+Sun Jul 10 2022,Atletico-MG,0-0,?,Sao Paulo
+Sun Jul 10 2022,Fortaleza,0-0,?,Palmeiras
+Sun Jul 10 2022,Santos,1-0,?,Atletico GO
+Sun Jul 10 2022,Cuiaba,2-0,?,Botafogo RJ
+Mon Jul 11 2022,Internacional,1-0,?,America MG
+Sat Jul 16 2022,Athletico-PR,0-0,?,Internacional
+Sat Jul 16 2022,Avai,1-0,?,Santos
+Sat Jul 16 2022,Flamengo RJ,2-0,?,Coritiba
+Sat Jul 16 2022,Ceara,3-1,?,Corinthians
+Sun Jul 17 2022,Juventude,0-0,?,Goias
+Sun Jul 17 2022,Sao Paulo,2-2,?,Fluminense
+Sun Jul 17 2022,Atletico GO,0-1,?,Fortaleza
+Sun Jul 17 2022,Botafogo RJ,0-1,?,Atletico-MG
+Sun Jul 17 2022,America MG,0-3,?,Bragantino
+Mon Jul 18 2022,Palmeiras,1-0,?,Cuiaba
+Tue Jul 19 2022,Ceara,1-0,?,Avai
+Wed Jul 20 2022,Bragantino,2-1,?,Fortaleza
+Wed Jul 20 2022,Goias,2-3,?,Fluminense
+Wed Jul 20 2022,Athletico-PR,4-1,?,Atletico GO
+Wed Jul 20 2022,Flamengo RJ,4-0,?,Juventude
+Wed Jul 20 2022,Internacional,3-3,?,Sao Paulo
+Wed Jul 20 2022,Corinthians,3-1,?,Coritiba
+Wed Jul 20 2022,Santos,2-0,?,Botafogo RJ
+Thu Jul 21 2022,Cuiaba,1-1,?,Atletico-MG
+Thu Jul 21 2022,America MG,0-1,?,Palmeiras
+Sat Jul 23 2022,Sao Paulo,3-3,?,Goias
+Sat Jul 23 2022,Botafogo RJ,2-0,?,Athletico-PR
+Sun Jul 24 2022,Avai,1-2,?,Flamengo RJ
+Sun Jul 24 2022,Fluminense,2-1,?,Bragantino
+Sun Jul 24 2022,Juventude,1-0,?,Ceara
+Sun Jul 24 2022,Palmeiras,2-1,?,Internacional
+Sun Jul 24 2022,Atletico GO,0-1,?,America MG
+Sun Jul 24 2022,Atletico-MG,1-2,?,Corinthians
+Sun Jul 24 2022,Fortaleza,0-0,?,Santos
+Mon Jul 25 2022,Coritiba,1-0,?,Cuiaba
+Sat Jul 30 2022,Ceara,1-2,?,Palmeiras
+Sat Jul 30 2022,Goias,1-0,?,Coritiba
+Sat Jul 30 2022,Corinthians,1-0,?,Botafogo RJ
+Sat Jul 30 2022,Flamengo RJ,4-1,?,Atletico GO
+Sun Jul 31 2022,Athletico-PR,1-0,?,Sao Paulo
+Sun Jul 31 2022,Internacional,3-0,?,Atletico-MG
+Sun Jul 31 2022,America MG,3-1,?,Avai
+Sun Jul 31 2022,Cuiaba,0-1,?,Fortaleza
+Sun Jul 31 2022,Bragantino,1-0,?,Juventude
+Mon Aug 1 2022,Santos,2-2,?,Fluminense
+Sat Aug 6 2022,Botafogo RJ,1-1,?,Ceara
+Sat Aug 6 2022,Juventude,0-1,?,America MG
+Sat Aug 6 2022,Atletico GO,2-1,?,Bragantino
+Sat Aug 6 2022,Avai,1-1,?,Corinthians
+Sat Aug 6 2022,Sao Paulo,0-2,?,Flamengo RJ
+Sun Aug 7 2022,Fluminense,1-0,?,Cuiaba
+Sun Aug 7 2022,Palmeiras,3-0,?,Goias
+Sun Aug 7 2022,Fortaleza,3-0,?,Internacional
+Sun Aug 7 2022,Atletico-MG,2-3,?,Athletico-PR
+Mon Aug 8 2022,Coritiba,1-2,?,Santos
+Sat Aug 13 2022,Goias,1-1,?,Avai
+Sat Aug 13 2022,Corinthians,0-1,?,Palmeiras
+Sat Aug 13 2022,Cuiaba,1-0,?,Juventude
+Sat Aug 13 2022,Botafogo RJ,0-0,?,Atletico GO
+Sun Aug 14 2022,Coritiba,0-1,?,Atletico-MG
+Sun Aug 14 2022,Ceara,0-1,?,Fortaleza
+Sun Aug 14 2022,Flamengo RJ,5-0,?,Athletico-PR
+Sun Aug 14 2022,Sao Paulo,3-0,?,Bragantino
+Sun Aug 14 2022,America MG,1-0,?,Santos
+Sun Aug 14 2022,Internacional,3-0,?,Fluminense
+Sat Aug 20 2022,Atletico-MG,0-1,?,Goias
+Sat Aug 20 2022,Fluminense,5-2,?,Coritiba
+Sun Aug 21 2022,Juventude,2-2,?,Botafogo RJ
+Sun Aug 21 2022,Palmeiras,1-1,?,Flamengo RJ
+Sun Aug 21 2022,Athletico-PR,1-1,?,America MG
+Sun Aug 21 2022,Atletico GO,1-1,?,Cuiaba
+Sun Aug 21 2022,Bragantino,1-1,?,Ceara
+Sun Aug 21 2022,Fortaleza,1-0,?,Corinthians
+Sun Aug 21 2022,Santos,1-0,?,Sao Paulo
+Mon Aug 22 2022,Avai,0-1,?,Internacional
+Sat Aug 27 2022,Coritiba,1-0,?,Avai
+Sat Aug 27 2022,Goias,2-1,?,Atletico GO
+Sat Aug 27 2022,Fluminense,1-1,?,Palmeiras
+Sat Aug 27 2022,Ceara,0-0,?,Athletico-PR
+Sun Aug 28 2022,America MG,1-1,?,Atletico-MG
+Sun Aug 28 2022,Sao Paulo,0-1,?,Fortaleza
+Sun Aug 28 2022,Botafogo RJ,0-1,?,Flamengo RJ
+Sun Aug 28 2022,Cuiaba,0-0,?,Santos
+Mon Aug 29 2022,Internacional,4-0,?,Juventude
+Mon Aug 29 2022,Corinthians,1-0,?,Bragantino
+Sat Sep 3 2022,Juventude,1-1,?,Avai
+Sat Sep 3 2022,Athletico-PR,1-0,?,Fluminense
+Sat Sep 3 2022,Bragantino,2-2,?,Palmeiras
+Sat Sep 3 2022,America MG,2-0,?,Coritiba
+Sun Sep 4 2022,Flamengo RJ,1-1,?,Ceara
+Sun Sep 4 2022,Corinthians,2-2,?,Internacional
+Sun Sep 4 2022,Fortaleza,1-3,?,Botafogo RJ
+Sun Sep 4 2022,Atletico GO,0-2,?,Atletico-MG
+Sun Sep 4 2022,Cuiaba,1-1,?,Sao Paulo
+Mon Sep 5 2022,Santos,1-2,?,Goias
+Wed Sep 7 2022,Atletico-MG,1-1,?,Bragantino
+Sat Sep 10 2022,Ceara,2-1,?,Santos
+Sat Sep 10 2022,Internacional,1-0,?,Cuiaba
+Sat Sep 10 2022,Fluminense,2-1,?,Fortaleza
+Sat Sep 10 2022,Palmeiras,2-1,?,Juventude
+Sun Sep 11 2022,Avai,1-1,?,Athletico-PR
+Sun Sep 11 2022,Botafogo RJ,0-0,?,America MG
+Sun Sep 11 2022,Coritiba,2-0,?,Atletico GO
+Sun Sep 11 2022,Sao Paulo,1-1,?,Corinthians
+Sun Sep 11 2022,Goias,1-1,?,Flamengo RJ
+Sat Sep 17 2022,Avai,1-0,?,Atletico-MG
+Sat Sep 17 2022,Botafogo RJ,2-0,?,Coritiba
+Sun Sep 18 2022,Bragantino,1-1,?,Goias
+Sun Sep 18 2022,Ceara,0-2,?,Sao Paulo
+Sun Sep 18 2022,Flamengo RJ,1-2,?,Fluminense
+Sun Sep 18 2022,America MG,1-0,?,Corinthians
+Sun Sep 18 2022,Juventude,1-1,?,Fortaleza
+Sun Sep 18 2022,Palmeiras,1-0,?,Santos
+Sun Sep 18 2022,Athletico-PR,2-2,?,Cuiaba
+Mon Sep 19 2022,Atletico GO,1-2,?,Internacional
+Sun Sep 25 2022,Sao Paulo,4-0,?,Avai
+Tue Sep 27 2022,Santos,2-0,?,Athletico-PR
+Wed Sep 28 2022,Corinthians,2-1,?,Atletico GO
+Wed Sep 28 2022,Coritiba,1-0,?,Ceara
+Wed Sep 28 2022,Fluminense,4-0,?,Juventude
+Wed Sep 28 2022,Fortaleza,3-2,?,Flamengo RJ
+Wed Sep 28 2022,Cuiaba,2-1,?,America MG
+Wed Sep 28 2022,Atletico-MG,0-1,?,Palmeiras
+Wed Sep 28 2022,Goias,0-1,?,Botafogo RJ
+Wed Sep 28 2022,Internacional,0-0,?,Bragantino
+Sat Oct 1 2022,Atletico-MG,2-0,?,Fluminense
+Sat Oct 1 2022,Ceara,1-2,?,America MG
+Sat Oct 1 2022,Internacional,1-0,?,Santos
+Sat Oct 1 2022,Athletico-PR,2-0,?,Juventude
+Sat Oct 1 2022,Avai,1-2,?,Atletico GO
+Sat Oct 1 2022,Flamengo RJ,4-1,?,Bragantino
+Sat Oct 1 2022,Goias,0-1,?,Fortaleza
+Sat Oct 1 2022,Corinthians,2-0,?,Cuiaba
+Mon Oct 3 2022,Botafogo RJ,1-3,?,Palmeiras
+Tue Oct 4 2022,Juventude,2-2,?,Corinthians
+Wed Oct 5 2022,Atletico GO,3-2,?,Fluminense
+Wed Oct 5 2022,Bragantino,2-1,?,Cuiaba
+Wed Oct 5 2022,Ceara,1-1,?,Goias
+Wed Oct 5 2022,Athletico-PR,1-1,?,Fortaleza
+Wed Oct 5 2022,Flamengo RJ,0-0,?,Internacional
+Wed Oct 5 2022,Santos,1-2,?,Atletico-MG
+Thu Oct 6 2022,Palmeiras,4-0,?,Coritiba
+Thu Oct 6 2022,America MG,1-2,?,Sao Paulo
+Thu Oct 6 2022,Avai,1-2,?,Botafogo RJ
+Sat Oct 8 2022,Cuiaba,1-2,?,Flamengo RJ
+Sat Oct 8 2022,Corinthians,2-1,?,Athletico-PR
+Sun Oct 9 2022,Internacional,4-2,?,Goias
+Sun Oct 9 2022,Fortaleza,2-0,?,Avai
+Sun Oct 9 2022,Sao Paulo,0-1,?,Botafogo RJ
+Sun Oct 9 2022,Atletico-MG,0-0,?,Ceara
+Sun Oct 9 2022,Coritiba,2-1,?,Bragantino
+Sun Oct 9 2022,Fluminense,0-2,?,America MG
+Mon Oct 10 2022,Atletico GO,1-1,?,Palmeiras
+Mon Oct 10 2022,Santos,4-1,?,Juventude
+Sat Oct 15 2022,Flamengo RJ,1-0,?,Atletico-MG
+Sat Oct 15 2022,America MG,1-2,?,Fortaleza
+Sun Oct 16 2022,Ceara,1-1,?,Cuiaba
+Sun Oct 16 2022,Palmeiras,0-0,?,Sao Paulo
+Sun Oct 16 2022,Juventude,1-1,?,Atletico GO
+Sun Oct 16 2022,Botafogo RJ,0-1,?,Internacional
+Sun Oct 16 2022,Athletico-PR,1-0,?,Coritiba
+Sun Oct 16 2022,Avai,0-3,?,Fluminense
+Mon Oct 17 2022,Bragantino,0-2,?,Santos
+Thu Oct 20 2022,Sao Paulo,3-1,?,Coritiba
+Sat Oct 22 2022,Bragantino,4-2,?,Athletico-PR
+Sat Oct 22 2022,America MG,1-2,?,Flamengo RJ
+Sat Oct 22 2022,Santos,0-1,?,Corinthians
+Sat Oct 22 2022,Palmeiras,3-0,?,Avai
+Sun Oct 23 2022,Fluminense,2-2,?,Botafogo RJ
+Sun Oct 23 2022,Juventude,1-2,?,Sao Paulo
+Sun Oct 23 2022,Atletico GO,1-0,?,Ceara
+Sun Oct 23 2022,Coritiba,1-1,?,Internacional
+Sun Oct 23 2022,Cuiaba,1-2,?,Goias
+Mon Oct 24 2022,Fortaleza,0-0,?,Atletico-MG
+Tue Oct 25 2022,Athletico-PR,1-3,?,Palmeiras
+Tue Oct 25 2022,Flamengo RJ,3-2,?,Santos
+Wed Oct 26 2022,Botafogo RJ,2-1,?,Bragantino
+Wed Oct 26 2022,Corinthians,0-2,?,Fluminense
+Wed Oct 26 2022,Goias,2-2,?,America MG
+Wed Oct 26 2022,Internacional,2-1,?,Ceara
+Thu Oct 27 2022,Fortaleza,3-1,?,Coritiba
+Thu Oct 27 2022,Sao Paulo,2-1,?,Atletico GO
+Thu Oct 27 2022,Atletico-MG,1-0,?,Juventude
+Thu Oct 27 2022,Cuiaba,1-0,?,Avai
+Sat Oct 29 2022,Goias,0-0,?,Corinthians
+Mon Oct 31 2022,Ceara,0-1,?,Fluminense
+Tue Nov 1 2022,Botafogo RJ,0-2,?,Cuiaba
+Tue Nov 1 2022,Sao Paulo,2-2,?,Atletico-MG
+Wed Nov 2 2022,America MG,1-0,?,Internacional
+Wed Nov 2 2022,Athletico-PR,3-2,?,Goias
+Wed Nov 2 2022,Atletico GO,2-3,?,Santos
+Wed Nov 2 2022,Avai,1-2,?,Bragantino
+Wed Nov 2 2022,Juventude,0-1,?,Coritiba
+Wed Nov 2 2022,Flamengo RJ,1-2,?,Corinthians
+Wed Nov 2 2022,Palmeiras,4-0,?,Fortaleza
+Sat Nov 5 2022,Fluminense,3-1,?,Sao Paulo
+Sat Nov 5 2022,Santos,1-1,?,Avai
+Sat Nov 5 2022,Bragantino,1-4,?,America MG
+Sat Nov 5 2022,Goias,1-0,?,Juventude
+Sat Nov 5 2022,Corinthians,1-0,?,Ceara
+Sat Nov 5 2022,Internacional,2-0,?,Athletico-PR
+Sun Nov 6 2022,Coritiba,1-0,?,Flamengo RJ
+Sun Nov 6 2022,Fortaleza,1-1,?,Atletico GO
+Sun Nov 6 2022,Cuiaba,1-1,?,Palmeiras
+Mon Nov 7 2022,Atletico-MG,0-2,?,Botafogo RJ
+Tue Nov 8 2022,Sao Paulo,0-1,?,Internacional
+Wed Nov 9 2022,Avai,2-0,?,Ceara
+Wed Nov 9 2022,Coritiba,2-2,?,Corinthians
+Wed Nov 9 2022,Fluminense,3-0,?,Goias
+Wed Nov 9 2022,Fortaleza,6-0,?,Bragantino
+Wed Nov 9 2022,Atletico GO,1-1,?,Athletico-PR
+Wed Nov 9 2022,Juventude,2-2,?,Flamengo RJ
+Wed Nov 9 2022,Palmeiras,2-1,?,America MG
+Thu Nov 10 2022,Atletico-MG,3-0,?,Cuiaba
+Thu Nov 10 2022,Botafogo RJ,3-0,?,Santos
+Sat Nov 12 2022,Flamengo RJ,1-2,?,Avai
+Sun Nov 13 2022,America MG,1-1,?,Atletico GO
+Sun Nov 13 2022,Athletico-PR,3-0,?,Botafogo RJ
+Sun Nov 13 2022,Bragantino,0-1,?,Fluminense
+Sun Nov 13 2022,Ceara,4-1,?,Juventude
+Sun Nov 13 2022,Corinthians,0-1,?,Atletico-MG
+Sun Nov 13 2022,Cuiaba,2-1,?,Coritiba
+Sun Nov 13 2022,Goias,0-4,?,Sao Paulo
+Sun Nov 13 2022,Internacional,3-0,?,Palmeiras
+Sun Nov 13 2022,Santos,0-2,?,Fortaleza

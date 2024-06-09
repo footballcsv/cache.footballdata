@@ -1,0 +1,241 @@
+Date,Team 1,FT,HT,Team 2
+Sat Apr 15 2023,Dalian Pro,2-1,?,Nantong Zhiyun
+Sat Apr 15 2023,Wuhan Three Towns,0-2,?,Shanghai Port
+Sat Apr 15 2023,Zhejiang Professional,0-2,?,Changchun Yatai
+Sat Apr 15 2023,Beijing Guoan,1-1,?,Meizhou Hakka
+Sun Apr 16 2023,Henan Songshan Longmen,1-1,?,Chengdu Rongcheng
+Sun Apr 16 2023,Shanghai Shenhua,1-0,?,Shandong Taishan
+Sun Apr 16 2023,Shenzhen,2-1,?,Qingdao Hainiu
+Sun Apr 16 2023,Tianjin Jinmen Tiger,1-1,?,Cangzhou
+Thu Apr 20 2023,Wuhan Three Towns,1-1,?,Beijing Guoan
+Fri Apr 21 2023,Meizhou Hakka,0-1,?,Shanghai Shenhua
+Fri Apr 21 2023,Tianjin Jinmen Tiger,2-1,?,Zhejiang Professional
+Fri Apr 21 2023,Chengdu Rongcheng,2-1,?,Cangzhou
+Fri Apr 21 2023,Henan Songshan Longmen,0-0,?,Qingdao Hainiu
+Fri Apr 21 2023,Shandong Taishan,1-1,?,Nantong Zhiyun
+Sat Apr 22 2023,Shanghai Port,3-2,?,Shenzhen
+Sat Apr 22 2023,Changchun Yatai,3-2,?,Dalian Pro
+Tue Apr 25 2023,Meizhou Hakka,1-2,?,Wuhan Three Towns
+Tue Apr 25 2023,Qingdao Hainiu,3-1,?,Beijing Guoan
+Tue Apr 25 2023,Shandong Taishan,2-1,?,Zhejiang Professional
+Wed Apr 26 2023,Cangzhou,0-1,?,Shanghai Port
+Wed Apr 26 2023,Dalian Pro,0-0,?,Chengdu Rongcheng
+Wed Apr 26 2023,Nantong Zhiyun,1-0,?,Henan Songshan Longmen
+Wed Apr 26 2023,Shanghai Shenhua,1-0,?,Changchun Yatai
+Wed Apr 26 2023,Shenzhen,0-2,?,Tianjin Jinmen Tiger
+Sat Apr 29 2023,Beijing Guoan,0-0,?,Shandong Taishan
+Sat Apr 29 2023,Qingdao Hainiu,0-3,?,Wuhan Three Towns
+Sun Apr 30 2023,Changchun Yatai,1-1,?,Tianjin Jinmen Tiger
+Sun Apr 30 2023,Zhejiang Professional,0-2,?,Chengdu Rongcheng
+Sun Apr 30 2023,Shenzhen,1-1,?,Henan Songshan Longmen
+Sun Apr 30 2023,Cangzhou,1-1,?,Nantong Zhiyun
+Sun Apr 30 2023,Shanghai Port,1-1,?,Shanghai Shenhua
+Mon May 1 2023,Dalian Pro,1-1,?,Meizhou Hakka
+Fri May 5 2023,Henan Songshan Longmen,0-1,?,Beijing Guoan
+Fri May 5 2023,Shanghai Shenhua,1-0,?,Dalian Pro
+Fri May 5 2023,Shenzhen,0-1,?,Cangzhou
+Fri May 5 2023,Wuhan Three Towns,0-0,?,Zhejiang Professional
+Sat May 6 2023,Meizhou Hakka,2-1,?,Shandong Taishan
+Sat May 6 2023,Chengdu Rongcheng,3-2,?,Qingdao Hainiu
+Sat May 6 2023,Nantong Zhiyun,0-1,?,Changchun Yatai
+Sat May 6 2023,Tianjin Jinmen Tiger,0-0,?,Shanghai Port
+Tue May 9 2023,Dalian Pro,1-1,?,Cangzhou
+Tue May 9 2023,Henan Songshan Longmen,1-1,?,Wuhan Three Towns
+Tue May 9 2023,Shenzhen,1-3,?,Shanghai Shenhua
+Wed May 10 2023,Beijing Guoan,1-1,?,Tianjin Jinmen Tiger
+Wed May 10 2023,Changchun Yatai,2-4,?,Meizhou Hakka
+Wed May 10 2023,Chengdu Rongcheng,2-2,?,Shandong Taishan
+Wed May 10 2023,Nantong Zhiyun,1-2,?,Zhejiang Professional
+Wed May 10 2023,Shanghai Port,2-1,?,Qingdao Hainiu
+Sat May 13 2023,Shanghai Shenhua,1-1,?,Wuhan Three Towns
+Sat May 13 2023,Shenzhen,2-1,?,Dalian Pro
+Sun May 14 2023,Qingdao Hainiu,2-0,?,Meizhou Hakka
+Sun May 14 2023,Chengdu Rongcheng,2-2,?,Changchun Yatai
+Sun May 14 2023,Cangzhou,1-1,?,Shandong Taishan
+Sun May 14 2023,Tianjin Jinmen Tiger,1-0,?,Henan Songshan Longmen
+Sun May 14 2023,Zhejiang Professional,1-2,?,Shanghai Port
+Mon May 15 2023,Beijing Guoan,1-0,?,Nantong Zhiyun
+Fri May 19 2023,Wuhan Three Towns,3-3,?,Chengdu Rongcheng
+Fri May 19 2023,Cangzhou,2-4,?,Changchun Yatai
+Fri May 19 2023,Nantong Zhiyun,1-1,?,Shenzhen
+Fri May 19 2023,Qingdao Hainiu,2-2,?,Zhejiang Professional
+Fri May 19 2023,Shanghai Shenhua,1-1,?,Beijing Guoan
+Sat May 20 2023,Henan Songshan Longmen,1-0,?,Dalian Pro
+Sat May 20 2023,Meizhou Hakka,0-2,?,Shanghai Port
+Sat May 20 2023,Tianjin Jinmen Tiger,3-3,?,Shandong Taishan
+Tue May 23 2023,Beijing Guoan,6-2,?,Cangzhou
+Tue May 23 2023,Changchun Yatai,1-0,?,Qingdao Hainiu
+Tue May 23 2023,Chengdu Rongcheng,2-1,?,Shanghai Shenhua
+Tue May 23 2023,Nantong Zhiyun,0-5,?,Wuhan Three Towns
+Wed May 24 2023,Dalian Pro,1-2,?,Zhejiang Professional
+Wed May 24 2023,Meizhou Hakka,1-1,?,Tianjin Jinmen Tiger
+Wed May 24 2023,Shandong Taishan,3-0,?,Shenzhen
+Wed May 24 2023,Shanghai Port,3-2,?,Henan Songshan Longmen
+Sat May 27 2023,Chengdu Rongcheng,1-0,?,Nantong Zhiyun
+Sat May 27 2023,Cangzhou,2-1,?,Wuhan Three Towns
+Sun May 28 2023,Qingdao Hainiu,0-1,?,Shandong Taishan
+Sun May 28 2023,Zhejiang Professional,3-2,?,Beijing Guoan
+Sun May 28 2023,Dalian Pro,0-1,?,Tianjin Jinmen Tiger
+Sun May 28 2023,Shanghai Shenhua,1-1,?,Henan Songshan Longmen
+Sun May 28 2023,Shenzhen,3-2,?,Meizhou Hakka
+Mon May 29 2023,Changchun Yatai,0-3,?,Shanghai Port
+Fri Jun 2 2023,Beijing Guoan,4-3,?,Changchun Yatai
+Fri Jun 2 2023,Zhejiang Professional,3-0,?,Shenzhen
+Sat Jun 3 2023,Shanghai Port,0-1,?,Chengdu Rongcheng
+Sat Jun 3 2023,Henan Songshan Longmen,2-1,?,Meizhou Hakka
+Sat Jun 3 2023,Shandong Taishan,2-0,?,Dalian Pro
+Sun Jun 4 2023,Cangzhou,0-1,?,Shanghai Shenhua
+Sun Jun 4 2023,Nantong Zhiyun,1-0,?,Qingdao Hainiu
+Sun Jun 4 2023,Tianjin Jinmen Tiger,1-1,?,Wuhan Three Towns
+Thu Jun 8 2023,Changchun Yatai,4-1,?,Shenzhen
+Thu Jun 8 2023,Chengdu Rongcheng,0-0,?,Tianjin Jinmen Tiger
+Thu Jun 8 2023,Qingdao Hainiu,0-1,?,Shanghai Shenhua
+Fri Jun 9 2023,Henan Songshan Longmen,2-2,?,Zhejiang Professional
+Fri Jun 9 2023,Dalian Pro,2-2,?,Beijing Guoan
+Fri Jun 9 2023,Meizhou Hakka,2-3,?,Cangzhou
+Fri Jun 9 2023,Shanghai Port,2-1,?,Nantong Zhiyun
+Fri Jun 9 2023,Wuhan Three Towns,1-1,?,Shandong Taishan
+Wed Jun 28 2023,Cangzhou,0-1,?,Henan Songshan Longmen
+Wed Jun 28 2023,Shanghai Shenhua,1-0,?,Nantong Zhiyun
+Wed Jun 28 2023,Tianjin Jinmen Tiger,3-2,?,Qingdao Hainiu
+Wed Jun 28 2023,Wuhan Three Towns,0-0,?,Dalian Pro
+Wed Jun 28 2023,Zhejiang Professional,3-0,?,Meizhou Hakka
+Thu Jun 29 2023,Beijing Guoan,1-2,?,Shanghai Port
+Thu Jun 29 2023,Shandong Taishan,4-1,?,Changchun Yatai
+Thu Jun 29 2023,Shenzhen,0-3,?,Chengdu Rongcheng
+Sun Jul 2 2023,Shanghai Shenhua,1-2,?,Tianjin Jinmen Tiger
+Sun Jul 2 2023,Cangzhou,2-1,?,Zhejiang Professional
+Sun Jul 2 2023,Dalian Pro,1-1,?,Qingdao Hainiu
+Sun Jul 2 2023,Nantong Zhiyun,2-2,?,Meizhou Hakka
+Mon Jul 3 2023,Changchun Yatai,3-1,?,Henan Songshan Longmen
+Mon Jul 3 2023,Chengdu Rongcheng,0-1,?,Beijing Guoan
+Mon Jul 3 2023,Shandong Taishan,1-1,?,Shanghai Port
+Mon Jul 3 2023,Shenzhen,1-3,?,Wuhan Three Towns
+Fri Jul 7 2023,Henan Songshan Longmen,0-1,?,Shandong Taishan
+Fri Jul 7 2023,Meizhou Hakka,3-1,?,Chengdu Rongcheng
+Fri Jul 7 2023,Qingdao Hainiu,1-1,?,Cangzhou
+Fri Jul 7 2023,Tianjin Jinmen Tiger,1-1,?,Nantong Zhiyun
+Fri Jul 7 2023,Zhejiang Professional,0-1,?,Shanghai Shenhua
+Sat Jul 8 2023,Beijing Guoan,5-0,?,Shenzhen
+Sat Jul 8 2023,Shanghai Port,1-1,?,Dalian Pro
+Sat Jul 8 2023,Wuhan Three Towns,2-1,?,Changchun Yatai
+Tue Jul 11 2023,Cangzhou,1-1,?,Tianjin Jinmen Tiger
+Tue Jul 11 2023,Chengdu Rongcheng,2-0,?,Henan Songshan Longmen
+Tue Jul 11 2023,Shandong Taishan,3-0,?,Shanghai Shenhua
+Wed Jul 12 2023,Changchun Yatai,2-2,?,Zhejiang Professional
+Wed Jul 12 2023,Meizhou Hakka,3-1,?,Beijing Guoan
+Wed Jul 12 2023,Nantong Zhiyun,1-1,?,Dalian Pro
+Wed Jul 12 2023,Qingdao Hainiu,5-0,?,Shenzhen
+Wed Jul 12 2023,Shanghai Port,3-1,?,Wuhan Three Towns
+Sun Jul 16 2023,Beijing Guoan,1-1,?,Wuhan Three Towns
+Sun Jul 16 2023,Dalian Pro,0-0,?,Changchun Yatai
+Sun Jul 16 2023,Nantong Zhiyun,1-1,?,Shandong Taishan
+Sun Jul 16 2023,Shenzhen,1-4,?,Shanghai Port
+Sun Jul 16 2023,Zhejiang Professional,2-1,?,Tianjin Jinmen Tiger
+Mon Jul 17 2023,Cangzhou,2-1,?,Chengdu Rongcheng
+Mon Jul 17 2023,Qingdao Hainiu,2-0,?,Henan Songshan Longmen
+Mon Jul 17 2023,Shanghai Shenhua,2-1,?,Meizhou Hakka
+Fri Jul 21 2023,Henan Songshan Longmen,1-1,?,Nantong Zhiyun
+Fri Jul 21 2023,Shanghai Port,3-0,?,Cangzhou
+Fri Jul 21 2023,Tianjin Jinmen Tiger,3-3,?,Shenzhen
+Sat Jul 22 2023,Beijing Guoan,2-0,?,Qingdao Hainiu
+Sat Jul 22 2023,Changchun Yatai,1-1,?,Shanghai Shenhua
+Sat Jul 22 2023,Chengdu Rongcheng,4-1,?,Dalian Pro
+Sat Jul 22 2023,Zhejiang Professional,2-1,?,Shandong Taishan
+Sun Jul 23 2023,Wuhan Three Towns,2-1,?,Meizhou Hakka
+Fri Jul 28 2023,Henan Songshan Longmen,3-1,?,Shenzhen
+Sat Jul 29 2023,Chengdu Rongcheng,1-2,?,Zhejiang Professional
+Sat Jul 29 2023,Meizhou Hakka,2-1,?,Dalian Pro
+Sat Jul 29 2023,Nantong Zhiyun,1-2,?,Cangzhou
+Sat Jul 29 2023,Shanghai Shenhua,0-5,?,Shanghai Port
+Sat Jul 29 2023,Tianjin Jinmen Tiger,0-0,?,Changchun Yatai
+Sun Jul 30 2023,Shandong Taishan,3-0,?,Beijing Guoan
+Sun Jul 30 2023,Wuhan Three Towns,1-0,?,Qingdao Hainiu
+Thu Aug 3 2023,Shanghai Port,2-1,?,Tianjin Jinmen Tiger
+Fri Aug 4 2023,Beijing Guoan,3-1,?,Henan Songshan Longmen
+Fri Aug 4 2023,Changchun Yatai,1-1,?,Nantong Zhiyun
+Fri Aug 4 2023,Qingdao Hainiu,3-2,?,Chengdu Rongcheng
+Fri Aug 4 2023,Shandong Taishan,6-1,?,Meizhou Hakka
+Fri Aug 4 2023,Zhejiang Professional,2-1,?,Wuhan Three Towns
+Sat Aug 5 2023,Cangzhou,1-0,?,Shenzhen
+Sat Aug 5 2023,Dalian Pro,2-1,?,Shanghai Shenhua
+Tue Aug 8 2023,Meizhou Hakka,4-2,?,Changchun Yatai
+Tue Aug 8 2023,Qingdao Hainiu,0-5,?,Shanghai Port
+Tue Aug 8 2023,Shandong Taishan,0-1,?,Chengdu Rongcheng
+Tue Aug 8 2023,Zhejiang Professional,1-1,?,Nantong Zhiyun
+Wed Aug 9 2023,Cangzhou,2-1,?,Dalian Pro
+Wed Aug 9 2023,Shanghai Shenhua,3-0,?,Shenzhen
+Wed Aug 9 2023,Tianjin Jinmen Tiger,0-0,?,Beijing Guoan
+Wed Aug 9 2023,Wuhan Three Towns,4-2,?,Henan Songshan Longmen
+Sat Aug 12 2023,Changchun Yatai,1-0,?,Chengdu Rongcheng
+Sat Aug 12 2023,Meizhou Hakka,1-0,?,Qingdao Hainiu
+Sat Aug 12 2023,Shanghai Port,3-4,?,Zhejiang Professional
+Sun Aug 13 2023,Dalian Pro,2-1,?,Shenzhen
+Sun Aug 13 2023,Henan Songshan Longmen,1-0,?,Tianjin Jinmen Tiger
+Sun Aug 13 2023,Nantong Zhiyun,0-1,?,Beijing Guoan
+Sun Aug 13 2023,Shandong Taishan,4-0,?,Cangzhou
+Sun Aug 13 2023,Wuhan Three Towns,1-2,?,Shanghai Shenhua
+Fri Aug 18 2023,Shandong Taishan,1-0,?,Tianjin Jinmen Tiger
+Fri Aug 18 2023,Shanghai Port,1-1,?,Meizhou Hakka
+Fri Aug 18 2023,Zhejiang Professional,0-0,?,Qingdao Hainiu
+Sat Aug 19 2023,Beijing Guoan,2-1,?,Shanghai Shenhua
+Sat Aug 19 2023,Chengdu Rongcheng,0-1,?,Wuhan Three Towns
+Sat Aug 19 2023,Dalian Pro,0-3,?,Henan Songshan Longmen
+Sat Aug 19 2023,Shenzhen,0-1,?,Nantong Zhiyun
+Sun Aug 20 2023,Changchun Yatai,3-1,?,Cangzhou
+Fri Aug 25 2023,Henan Songshan Longmen,3-1,?,Shanghai Port
+Fri Aug 25 2023,Shenzhen,1-2,?,Shandong Taishan
+Sat Aug 26 2023,Cangzhou,1-5,?,Beijing Guoan
+Sat Aug 26 2023,Qingdao Hainiu,1-0,?,Changchun Yatai
+Sat Aug 26 2023,Shanghai Shenhua,1-1,?,Chengdu Rongcheng
+Sat Aug 26 2023,Tianjin Jinmen Tiger,3-1,?,Meizhou Hakka
+Sat Aug 26 2023,Zhejiang Professional,3-0,?,Dalian Pro
+Sun Aug 27 2023,Wuhan Three Towns,4-2,?,Nantong Zhiyun
+Fri Sep 15 2023,Beijing Guoan,0-1,?,Zhejiang Professional
+Fri Sep 15 2023,Shandong Taishan,4-2,?,Qingdao Hainiu
+Fri Sep 15 2023,Shanghai Port,2-0,?,Changchun Yatai
+Fri Sep 15 2023,Wuhan Three Towns,2-0,?,Cangzhou
+Sat Sep 16 2023,Henan Songshan Longmen,3-0,?,Shanghai Shenhua
+Sat Sep 16 2023,Meizhou Hakka,5-1,?,Shenzhen
+Sun Sep 17 2023,Nantong Zhiyun,0-2,?,Chengdu Rongcheng
+Sun Sep 17 2023,Tianjin Jinmen Tiger,1-0,?,Dalian Pro
+Fri Sep 22 2023,Changchun Yatai,1-1,?,Beijing Guoan
+Fri Sep 22 2023,Shanghai Shenhua,2-0,?,Cangzhou
+Sat Sep 23 2023,Dalian Pro,0-0,?,Shandong Taishan
+Sat Sep 23 2023,Chengdu Rongcheng,2-1,?,Shanghai Port
+Sat Sep 23 2023,Meizhou Hakka,0-0,?,Henan Songshan Longmen
+Sat Sep 23 2023,Wuhan Three Towns,0-1,?,Tianjin Jinmen Tiger
+Sun Sep 24 2023,Qingdao Hainiu,3-1,?,Nantong Zhiyun
+Sun Sep 24 2023,Shenzhen,0-5,?,Zhejiang Professional
+Fri Sep 29 2023,Cangzhou,0-1,?,Meizhou Hakka
+Fri Sep 29 2023,Nantong Zhiyun,0-1,?,Shanghai Port
+Fri Sep 29 2023,Shandong Taishan,2-1,?,Wuhan Three Towns
+Fri Sep 29 2023,Shenzhen,0-1,?,Changchun Yatai
+Fri Sep 29 2023,Tianjin Jinmen Tiger,2-2,?,Chengdu Rongcheng
+Sat Sep 30 2023,Beijing Guoan,2-0,?,Dalian Pro
+Sat Sep 30 2023,Shanghai Shenhua,1-0,?,Qingdao Hainiu
+Sat Sep 30 2023,Zhejiang Professional,3-0,?,Henan Songshan Longmen
+Thu Oct 19 2023,Meizhou Hakka,1-1,?,Zhejiang Professional
+Fri Oct 20 2023,Changchun Yatai,0-3,?,Shandong Taishan
+Fri Oct 20 2023,Dalian Pro,1-3,?,Wuhan Three Towns
+Fri Oct 20 2023,Shanghai Port,1-2,?,Beijing Guoan
+Sat Oct 21 2023,Henan Songshan Longmen,6-0,?,Cangzhou
+Sat Oct 21 2023,Nantong Zhiyun,0-1,?,Shanghai Shenhua
+Sun Oct 22 2023,Qingdao Hainiu,1-4,?,Tianjin Jinmen Tiger
+Mon Oct 23 2023,Chengdu Rongcheng,4-0,?,Shenzhen
+Sun Oct 29 2023,Beijing Guoan,2-3,?,Chengdu Rongcheng
+Sun Oct 29 2023,Henan Songshan Longmen,1-1,?,Changchun Yatai
+Sun Oct 29 2023,Meizhou Hakka,0-4,?,Nantong Zhiyun
+Sun Oct 29 2023,Qingdao Hainiu,2-2,?,Dalian Pro
+Sun Oct 29 2023,Shanghai Port,1-1,?,Shandong Taishan
+Sun Oct 29 2023,Tianjin Jinmen Tiger,1-1,?,Shanghai Shenhua
+Sun Oct 29 2023,Wuhan Three Towns,1-0,?,Shenzhen
+Sun Oct 29 2023,Zhejiang Professional,6-1,?,Cangzhou
+Sat Nov 4 2023,Cangzhou,0-0,?,Qingdao Hainiu
+Sat Nov 4 2023,Changchun Yatai,3-4,?,Wuhan Three Towns
+Sat Nov 4 2023,Chengdu Rongcheng,3-0,?,Meizhou Hakka
+Sat Nov 4 2023,Dalian Pro,2-3,?,Shanghai Port
+Sat Nov 4 2023,Nantong Zhiyun,1-2,?,Tianjin Jinmen Tiger
+Sat Nov 4 2023,Shandong Taishan,5-1,?,Henan Songshan Longmen
+Sat Nov 4 2023,Shanghai Shenhua,1-2,?,Zhejiang Professional
+Sat Nov 4 2023,Shenzhen,0-3,?,Beijing Guoan

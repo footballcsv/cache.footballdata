@@ -1,0 +1,507 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 21 2021,Aldershot,0-2,0-0,Chesterfield
+Sat Aug 21 2021,Barnet,0-5,0-0,Notts County
+Sat Aug 21 2021,Halifax,1-2,1-0,Maidenhead
+Sat Aug 21 2021,King’s Lynn,0-1,0-1,Southend
+Sat Aug 21 2021,Solihull,2-2,1-2,Wrexham
+Sat Aug 21 2021,Stockport,1-3,1-1,Dag and Red
+Sat Aug 21 2021,Torquay,1-3,0-2,Altrincham
+Sat Aug 21 2021,Wealdstone,1-2,0-2,Woking
+Sat Aug 21 2021,Weymouth,0-2,0-2,Boreham Wood
+Sat Aug 28 2021,Boreham Wood,1-0,0-0,Aldershot
+Sat Aug 28 2021,Chesterfield,2-0,1-0,Wealdstone
+Sat Aug 28 2021,Dag and Red,4-2,1-1,Bromley
+Sat Aug 28 2021,Eastleigh,0-2,0-2,Wrexham
+Sat Aug 28 2021,Grimsby,1-0,0-0,Weymouth
+Sat Aug 28 2021,Maidenhead,2-0,2-0,Dover Athletic
+Sat Aug 28 2021,Notts County,1-1,0-1,Torquay
+Sat Aug 28 2021,Solihull,1-1,1-0,Barnet
+Sat Aug 28 2021,Woking,2-3,1-2,Halifax
+Sat Aug 28 2021,Yeovil,1-2,1-0,King’s Lynn
+Sat Aug 28 2021,Southend,0-1,0-1,Stockport
+Mon Aug 30 2021,Aldershot,1-2,0-1,Yeovil
+Mon Aug 30 2021,Barnet,0-2,0-2,Dag and Red
+Mon Aug 30 2021,Bromley,3-0,1-0,Eastleigh
+Mon Aug 30 2021,Dover Athletic,0-1,0-1,Boreham Wood
+Mon Aug 30 2021,Halifax,2-0,0-0,Altrincham
+Mon Aug 30 2021,King’s Lynn,0-2,0-1,Chesterfield
+Mon Aug 30 2021,Torquay,0-4,0-2,Woking
+Mon Aug 30 2021,Wealdstone,0-0,0-0,Southend
+Mon Aug 30 2021,Weymouth,3-1,2-0,Maidenhead
+Mon Aug 30 2021,Wrexham,1-1,0-1,Notts County
+Tue Aug 31 2021,Stockport,0-0,0-0,Grimsby
+Sat Sep 4 2021,Altrincham,3-2,1-1,Dover Athletic
+Sat Sep 4 2021,Boreham Wood,0-0,0-0,Stockport
+Sat Sep 4 2021,Chesterfield,2-2,1-1,Bromley
+Sat Sep 4 2021,Dag and Red,2-2,1-1,Wealdstone
+Sat Sep 4 2021,Eastleigh,3-3,2-0,King’s Lynn
+Sat Sep 4 2021,Grimsby,4-3,1-2,Barnet
+Sat Sep 4 2021,Maidenhead,3-4,0-4,Torquay
+Sat Sep 4 2021,Notts County,3-2,1-1,Aldershot
+Sat Sep 4 2021,Solihull,3-4,1-3,Weymouth
+Sat Sep 4 2021,Southend,2-2,1-0,Wrexham
+Sat Sep 4 2021,Yeovil,1-0,1-0,Halifax
+Sat Sep 11 2021,Aldershot,1-2,1-1,Solihull
+Sat Sep 11 2021,Barnet,1-1,1-0,Eastleigh
+Sat Sep 11 2021,Bromley,2-3,0-1,Boreham Wood
+Sat Sep 11 2021,Dover Athletic,0-0,0-0,Chesterfield
+Sat Sep 11 2021,Halifax,3-1,1-0,Southend
+Sat Sep 11 2021,Stockport,0-3,0-1,Yeovil
+Sat Sep 11 2021,Torquay,1-3,1-2,Grimsby
+Sat Sep 11 2021,Wealdstone,1-0,0-0,Altrincham
+Sat Sep 11 2021,Weymouth,1-1,0-0,Notts County
+Sat Sep 11 2021,Wrexham,1-0,1-0,Woking
+Sat Sep 11 2021,King’s Lynn,1-2,0-0,Dag and Red
+Tue Sep 14 2021,Boreham Wood,2-2,2-1,Halifax
+Tue Sep 14 2021,Chesterfield,4-2,2-2,Barnet
+Tue Sep 14 2021,Dag and Red,4-2,1-2,Weymouth
+Tue Sep 14 2021,Eastleigh,4-1,4-0,Dover Athletic
+Tue Sep 14 2021,Grimsby,3-1,2-1,Wrexham
+Tue Sep 14 2021,Maidenhead,0-2,0-1,Stockport
+Tue Sep 14 2021,Notts County,3-2,2-1,Wealdstone
+Tue Sep 14 2021,Solihull,2-1,1-0,Torquay
+Tue Sep 14 2021,Southend,2-3,1-1,Aldershot
+Sat Sep 18 2021,Bromley,2-0,1-0,Barnet
+Sat Sep 18 2021,Grimsby,2-0,1-0,Eastleigh
+Sat Sep 18 2021,Halifax,3-0,1-0,Stockport
+Sat Sep 18 2021,Notts County,1-0,0-0,Maidenhead
+Sat Sep 18 2021,Solihull,3-1,2-1,Boreham Wood
+Sat Sep 18 2021,Torquay,1-0,0-0,Southend
+Sat Sep 18 2021,Wealdstone,2-2,1-0,Aldershot
+Sat Sep 18 2021,Wrexham,1-0,1-0,Dag and Red
+Sat Sep 18 2021,Yeovil,0-2,0-2,Chesterfield
+Sat Sep 18 2021,Weymouth,1-1,1-1,Dover Athletic
+Tue Sep 21 2021,Dover Athletic,0-0,0-0,Solihull
+Sat Sep 25 2021,Aldershot,0-1,0-1,Halifax
+Sat Sep 25 2021,Altrincham,1-0,1-0,Notts County
+Sat Sep 25 2021,Barnet,3-1,1-0,Weymouth
+Sat Sep 25 2021,Boreham Wood,2-1,1-1,Yeovil
+Sat Sep 25 2021,Dag and Red,5-1,2-1,Solihull
+Sat Sep 25 2021,Dover Athletic,0-1,0-1,Bromley
+Sat Sep 25 2021,Eastleigh,3-2,1-2,Woking
+Sat Sep 25 2021,King’s Lynn,0-1,0-1,Wealdstone
+Sat Sep 25 2021,Maidenhead,1-1,0-0,Grimsby
+Sat Sep 25 2021,Stockport,2-1,0-1,Wrexham
+Sat Sep 25 2021,Chesterfield,2-2,0-0,Torquay
+Tue Sep 28 2021,Altrincham,4-1,1-0,King’s Lynn
+Tue Sep 28 2021,Bromley,3-1,0-1,Grimsby
+Tue Sep 28 2021,Woking,3-1,0-1,Chesterfield
+Sat Oct 2 2021,Barnet,0-0,0-0,Halifax
+Sat Oct 2 2021,Dag and Red,2-3,2-1,Altrincham
+Sat Oct 2 2021,Grimsby,6-0,5-0,Dover Athletic
+Sat Oct 2 2021,Maidenhead,2-3,1-0,King’s Lynn
+Sat Oct 2 2021,Notts County,1-4,1-0,Woking
+Sat Oct 2 2021,Solihull,2-0,1-0,Southend
+Sat Oct 2 2021,Torquay,5-0,4-0,Wealdstone
+Sat Oct 2 2021,Weymouth,1-2,1-0,Stockport
+Sat Oct 2 2021,Eastleigh,1-1,1-1,Boreham Wood
+Tue Oct 5 2021,Altrincham,2-3,0-1,Grimsby
+Tue Oct 5 2021,Boreham Wood,2-0,1-0,Torquay
+Tue Oct 5 2021,Bromley,3-0,2-0,Weymouth
+Tue Oct 5 2021,Dover Athletic,1-2,0-1,Aldershot
+Tue Oct 5 2021,Halifax,3-2,0-1,Notts County
+Tue Oct 5 2021,King’s Lynn,1-1,1-1,Barnet
+Tue Oct 5 2021,Southend,1-0,0-0,Eastleigh
+Tue Oct 5 2021,Wealdstone,0-0,0-0,Solihull
+Tue Oct 5 2021,Woking,1-0,1-0,Dag and Red
+Tue Oct 5 2021,Wrexham,1-1,0-1,Chesterfield
+Tue Oct 5 2021,Yeovil,0-0,0-0,Maidenhead
+Sat Oct 9 2021,Altrincham,2-0,0-0,Maidenhead
+Sat Oct 9 2021,Boreham Wood,2-0,0-0,Dag and Red
+Sat Oct 9 2021,Bromley,2-0,2-0,Torquay
+Sat Oct 9 2021,Dover Athletic,1-2,0-1,Barnet
+Sat Oct 9 2021,Halifax,2-0,1-0,Weymouth
+Sat Oct 9 2021,King’s Lynn,0-1,0-0,Solihull
+Sat Oct 9 2021,Southend,0-4,0-2,Chesterfield
+Sat Oct 9 2021,Stockport,1-0,1-0,Aldershot
+Sat Oct 9 2021,Wealdstone,1-2,0-1,Eastleigh
+Sat Oct 9 2021,Woking,0-1,0-0,Grimsby
+Sat Oct 9 2021,Yeovil,0-2,0-1,Notts County
+Tue Oct 12 2021,Yeovil,1-1,0-0,Altrincham
+Sat Oct 23 2021,Aldershot,2-3,2-2,Bromley
+Sat Oct 23 2021,Barnet,0-3,0-2,Wrexham
+Sat Oct 23 2021,Chesterfield,2-1,2-0,Boreham Wood
+Sat Oct 23 2021,Dag and Red,3-0,0-0,Southend
+Sat Oct 23 2021,Eastleigh,2-1,0-1,Altrincham
+Sat Oct 23 2021,Grimsby,2-0,1-0,Yeovil
+Sat Oct 23 2021,Notts County,2-1,0-0,Stockport
+Sat Oct 23 2021,Solihull,1-0,0-0,Halifax
+Sat Oct 23 2021,Torquay,2-0,1-0,King’s Lynn
+Sat Oct 23 2021,Weymouth,1-1,1-0,Wealdstone
+Sat Oct 23 2021,Maidenhead,3-2,1-1,Woking
+Tue Oct 26 2021,Aldershot,0-2,0-1,Weymouth
+Tue Oct 26 2021,Altrincham,1-2,1-0,Solihull
+Tue Oct 26 2021,Chesterfield,1-0,1-0,Eastleigh
+Tue Oct 26 2021,Halifax,1-0,1-0,Dag and Red
+Tue Oct 26 2021,King’s Lynn,0-1,0-1,Boreham Wood
+Tue Oct 26 2021,Maidenhead,3-2,2-1,Wrexham
+Tue Oct 26 2021,Notts County,1-1,0-0,Bromley
+Tue Oct 26 2021,Stockport,1-2,1-1,Barnet
+Tue Oct 26 2021,Wealdstone,1-0,1-0,Grimsby
+Tue Oct 26 2021,Yeovil,2-0,1-0,Woking
+Sat Oct 30 2021,Boreham Wood,1-0,0-0,Southend
+Sat Oct 30 2021,Bromley,0-0,0-0,Halifax
+Sat Oct 30 2021,Dag and Red,2-2,2-0,Chesterfield
+Sat Oct 30 2021,Dover Athletic,2-5,1-2,Stockport
+Sat Oct 30 2021,Eastleigh,1-0,1-0,Maidenhead
+Sat Oct 30 2021,Grimsby,0-1,0-0,Notts County
+Sat Oct 30 2021,Solihull,0-0,0-0,Yeovil
+Sat Oct 30 2021,Weymouth,1-0,0-0,King’s Lynn
+Sat Oct 30 2021,Woking,3-2,1-1,Altrincham
+Sat Oct 30 2021,Wrexham,1-1,1-0,Torquay
+Sat Oct 30 2021,Barnet,2-1,1-0,Aldershot
+Tue Nov 2 2021,Southend,4-1,2-0,Dover Athletic
+Tue Nov 2 2021,Woking,0-2,0-0,Bromley
+Tue Nov 9 2021,Aldershot,0-5,0-2,Wrexham
+Sat Nov 13 2021,Aldershot,2-1,1-1,Grimsby
+Sat Nov 13 2021,Altrincham,1-1,0-0,Boreham Wood
+Sat Nov 13 2021,Chesterfield,4-0,2-0,Weymouth
+Sat Nov 13 2021,King’s Lynn,2-6,1-1,Wrexham
+Sat Nov 13 2021,Maidenhead,1-4,0-2,Dag and Red
+Sat Nov 13 2021,Notts County,2-0,0-0,Solihull
+Sat Nov 13 2021,Southend,0-2,0-1,Woking
+Sat Nov 13 2021,Torquay,2-1,1-1,Dover Athletic
+Sat Nov 13 2021,Wealdstone,1-0,0-0,Barnet
+Sat Nov 13 2021,Yeovil,2-1,1-0,Eastleigh
+Sat Nov 13 2021,Stockport,1-1,0-0,Bromley
+Fri Nov 19 2021,Grimsby,1-0,1-0,Southend
+Sat Nov 20 2021,Barnet,2-1,1-0,Torquay
+Sat Nov 20 2021,Boreham Wood,4-0,2-0,Maidenhead
+Sat Nov 20 2021,Bromley,3-2,1-1,King’s Lynn
+Sat Nov 20 2021,Dag and Red,0-1,0-1,Yeovil
+Sat Nov 20 2021,Dover Athletic,1-3,0-1,Halifax
+Sat Nov 20 2021,Eastleigh,2-0,1-0,Notts County
+Sat Nov 20 2021,Solihull,0-2,0-2,Chesterfield
+Sat Nov 20 2021,Weymouth,1-4,0-1,Altrincham
+Sat Nov 20 2021,Woking,1-2,0-2,Stockport
+Sat Nov 20 2021,Wrexham,0-0,0-0,Wealdstone
+Tue Nov 23 2021,Aldershot,1-0,0-0,Torquay
+Tue Nov 23 2021,Boreham Wood,1-1,0-1,Notts County
+Tue Nov 23 2021,Bromley,1-2,1-2,Yeovil
+Tue Nov 23 2021,Chesterfield,2-2,2-0,Altrincham
+Tue Nov 23 2021,Dag and Red,0-1,0-0,Eastleigh
+Tue Nov 23 2021,Dover Athletic,2-3,1-2,Wealdstone
+Tue Nov 23 2021,Halifax,1-2,0-0,Wrexham
+Tue Nov 23 2021,Solihull,2-0,1-0,Grimsby
+Tue Nov 23 2021,Stockport,5-0,2-0,King’s Lynn
+Tue Nov 23 2021,Weymouth,2-3,0-1,Woking
+Sat Nov 27 2021,Altrincham,1-2,0-2,Southend
+Sat Nov 27 2021,King’s Lynn,0-1,0-0,Aldershot
+Sat Nov 27 2021,Torquay,2-3,0-1,Halifax
+Sat Nov 27 2021,Wealdstone,1-4,0-1,Stockport
+Sat Nov 27 2021,Woking,1-2,1-1,Barnet
+Sat Nov 27 2021,Wrexham,2-0,1-0,Bromley
+Sat Nov 27 2021,Yeovil,1-1,0-1,Dover Athletic
+Sat Nov 27 2021,Notts County,2-1,1-1,Dag and Red
+Tue Nov 30 2021,Wrexham,0-2,0-0,Yeovil
+Sat Dec 4 2021,Aldershot,2-2,2-1,Altrincham
+Sat Dec 4 2021,Barnet,3-0,1-0,Maidenhead
+Sat Dec 4 2021,Bromley,3-2,2-1,Wealdstone
+Sat Dec 4 2021,Dag and Red,3-2,1-1,Grimsby
+Sat Dec 4 2021,Dover Athletic,0-1,0-0,Wrexham
+Sat Dec 4 2021,Solihull,2-0,1-0,Woking
+Sat Dec 4 2021,Weymouth,1-2,0-0,Torquay
+Tue Dec 7 2021,Southend,1-1,1-0,Maidenhead
+Sat Dec 11 2021,Altrincham,0-1,0-1,Bromley
+Sat Dec 11 2021,Eastleigh,0-3,0-0,Aldershot
+Sat Dec 11 2021,Grimsby,0-1,0-0,Chesterfield
+Sat Dec 11 2021,King’s Lynn,2-1,1-1,Dover Athletic
+Sat Dec 11 2021,Maidenhead,0-4,0-3,Solihull
+Sat Dec 11 2021,Notts County,4-1,1-1,Southend
+Sat Dec 11 2021,Torquay,2-1,2-1,Stockport
+Sat Dec 11 2021,Wealdstone,0-1,0-1,Halifax
+Sat Dec 11 2021,Woking,0-2,0-2,Boreham Wood
+Sat Dec 11 2021,Yeovil,1-0,1-0,Barnet
+Sat Dec 11 2021,Wrexham,1-0,1-0,Weymouth
+Tue Dec 14 2021,Eastleigh,0-0,0-0,Solihull
+Tue Dec 14 2021,Halifax,2-0,0-0,King’s Lynn
+Sun Dec 26 2021,Aldershot,1-1,0-0,Woking
+Sun Dec 26 2021,Dover Athletic,0-2,0-2,Dag and Red
+Sun Dec 26 2021,Stockport,5-1,4-1,Altrincham
+Sun Dec 26 2021,Torquay,3-0,0-0,Yeovil
+Sun Dec 26 2021,Bromley,1-1,0-0,Southend
+Tue Dec 28 2021,Altrincham,0-2,0-2,Wrexham
+Tue Dec 28 2021,Chesterfield,1-1,0-1,Halifax
+Tue Dec 28 2021,Dag and Red,1-0,1-0,Aldershot
+Tue Dec 28 2021,Eastleigh,2-1,0-1,Torquay
+Tue Dec 28 2021,Maidenhead,1-0,0-0,Bromley
+Tue Dec 28 2021,Solihull,0-1,0-0,Stockport
+Tue Dec 28 2021,Woking,3-2,2-1,Dover Athletic
+Sat Jan 1 2022,Chesterfield,1-0,0-0,King’s Lynn
+Sun Jan 2 2022,Boreham Wood,0-0,0-0,Barnet
+Sun Jan 2 2022,Dag and Red,3-1,2-0,Dover Athletic
+Sun Jan 2 2022,Eastleigh,3-2,1-0,Weymouth
+Sun Jan 2 2022,Notts County,3-1,2-1,Wrexham
+Sun Jan 2 2022,Woking,2-3,1-0,Aldershot
+Sun Jan 2 2022,Yeovil,1-2,0-0,Torquay
+Mon Jan 3 2022,Grimsby,1-1,0-0,Halifax
+Sat Jan 8 2022,Aldershot,1-1,0-1,Maidenhead
+Sat Jan 8 2022,Barnet,1-1,0-0,Altrincham
+Sat Jan 8 2022,Bromley,2-1,2-0,Solihull
+Sat Jan 8 2022,Halifax,4-0,1-0,Eastleigh
+Sat Jan 8 2022,Torquay,2-2,2-1,Dag and Red
+Sat Jan 8 2022,Weymouth,0-1,0-1,Southend
+Tue Jan 11 2022,Altrincham,1-4,0-2,Stockport
+Tue Jan 11 2022,Boreham Wood,1-0,0-0,Wealdstone
+Tue Jan 11 2022,Halifax,1-0,0-0,Grimsby
+Tue Jan 11 2022,King’s Lynn,2-4,1-0,Notts County
+Tue Jan 11 2022,Southend,2-1,1-0,Yeovil
+Sat Jan 15 2022,Barnet,1-4,0-0,Chesterfield
+Sat Jan 15 2022,Grimsby,2-0,0-0,Altrincham
+Sat Jan 15 2022,Wealdstone,2-1,0-1,Dover Athletic
+Tue Jan 18 2022,Maidenhead,3-2,2-1,Chesterfield
+Tue Jan 18 2022,Stockport,3-0,2-0,Eastleigh
+Fri Jan 21 2022,Southend,2-1,0-1,King’s Lynn
+Sat Jan 22 2022,Altrincham,1-2,1-1,Torquay
+Sat Jan 22 2022,Boreham Wood,1-1,1-1,Weymouth
+Sat Jan 22 2022,Chesterfield,0-0,0-0,Aldershot
+Sat Jan 22 2022,Grimsby,1-2,1-1,Bromley
+Sat Jan 22 2022,Maidenhead,1-0,1-0,Halifax
+Sat Jan 22 2022,Solihull,5-0,4-0,Dover Athletic
+Sat Jan 22 2022,Woking,2-0,1-0,Wealdstone
+Sat Jan 22 2022,Yeovil,1-2,1-0,Wrexham
+Sat Jan 22 2022,Dag and Red,0-2,0-2,Stockport
+Tue Jan 25 2022,Aldershot,1-1,1-0,Southend
+Tue Jan 25 2022,Bromley,1-0,1-0,Woking
+Tue Jan 25 2022,Dover Athletic,1-0,0-0,Eastleigh
+Tue Jan 25 2022,Halifax,0-1,0-1,Boreham Wood
+Tue Jan 25 2022,Stockport,3-0,0-0,Maidenhead
+Tue Jan 25 2022,Torquay,0-2,0-0,Solihull
+Tue Jan 25 2022,Wealdstone,0-0,0-0,Notts County
+Tue Jan 25 2022,Weymouth,1-2,1-0,Dag and Red
+Tue Jan 25 2022,Wrexham,1-0,1-0,Grimsby
+Sat Jan 29 2022,Barnet,0-5,0-1,Stockport
+Sat Jan 29 2022,Boreham Wood,3-1,1-1,King’s Lynn
+Sat Jan 29 2022,Bromley,1-0,1-0,Notts County
+Sat Jan 29 2022,Dag and Red,1-3,0-2,Halifax
+Sat Jan 29 2022,Dover Athletic,0-1,0-0,Southend
+Sat Jan 29 2022,Grimsby,2-1,1-0,Wealdstone
+Sat Jan 29 2022,Solihull,5-0,4-0,Altrincham
+Sat Jan 29 2022,Weymouth,0-1,0-0,Aldershot
+Sat Jan 29 2022,Woking,0-1,0-1,Yeovil
+Sat Jan 29 2022,Wrexham,1-1,1-0,Maidenhead
+Sat Jan 29 2022,Eastleigh,0-1,0-0,Chesterfield
+Tue Feb 1 2022,Southend,2-1,2-1,Barnet
+Tue Feb 1 2022,Yeovil,1-1,0-1,Weymouth
+Sat Feb 5 2022,Aldershot,1-3,0-2,Barnet
+Sat Feb 5 2022,Altrincham,2-2,0-2,Woking
+Sat Feb 5 2022,Chesterfield,2-1,1-1,Dag and Red
+Sat Feb 5 2022,King’s Lynn,3-0,1-0,Weymouth
+Sat Feb 5 2022,Maidenhead,2-2,1-0,Eastleigh
+Sat Feb 5 2022,Notts County,1-2,1-0,Grimsby
+Sat Feb 5 2022,Stockport,1-0,0-0,Dover Athletic
+Sat Feb 5 2022,Torquay,1-0,1-0,Wrexham
+Sat Feb 5 2022,Yeovil,0-0,0-0,Solihull
+Tue Feb 8 2022,Grimsby,0-0,0-0,King’s Lynn
+Tue Feb 8 2022,Notts County,6-1,3-0,Barnet
+Tue Feb 8 2022,Southend,2-0,0-0,Bromley
+Tue Feb 8 2022,Stockport,2-2,0-2,Chesterfield
+Tue Feb 8 2022,Wealdstone,2-1,2-0,Yeovil
+Sat Feb 12 2022,Barnet,1-3,0-2,Wealdstone
+Sat Feb 12 2022,Dover Athletic,1-3,1-1,Torquay
+Sat Feb 12 2022,Eastleigh,0-0,0-0,Yeovil
+Sat Feb 12 2022,Grimsby,3-1,2-0,Aldershot
+Sat Feb 12 2022,King’s Lynn,0-1,0-1,Altrincham
+Sat Feb 12 2022,Weymouth,1-1,0-0,Chesterfield
+Sat Feb 12 2022,Woking,2-3,0-2,Southend
+Tue Feb 15 2022,Boreham Wood,2-0,1-0,Altrincham
+Tue Feb 15 2022,Bromley,1-3,0-0,Stockport
+Tue Feb 15 2022,Weymouth,1-0,0-0,Eastleigh
+Sat Feb 19 2022,Chesterfield,2-3,2-1,Solihull
+Sat Feb 19 2022,Notts County,2-0,2-0,Eastleigh
+Sat Feb 19 2022,Stockport,1-0,0-0,Woking
+Sat Feb 19 2022,Torquay,2-2,2-1,Barnet
+Sat Feb 19 2022,Wealdstone,1-2,0-0,Wrexham
+Sat Feb 19 2022,Maidenhead,2-0,1-0,Boreham Wood
+Tue Feb 22 2022,Aldershot,0-0,0-0,Dover Athletic
+Tue Feb 22 2022,Barnet,0-0,0-0,King’s Lynn
+Tue Feb 22 2022,Chesterfield,0-2,0-0,Wrexham
+Tue Feb 22 2022,Dag and Red,1-1,1-0,Woking
+Tue Feb 22 2022,Eastleigh,1-1,1-0,Southend
+Tue Feb 22 2022,Maidenhead,1-1,1-1,Yeovil
+Tue Feb 22 2022,Notts County,1-1,1-1,Halifax
+Tue Feb 22 2022,Solihull,2-1,1-1,Wealdstone
+Tue Feb 22 2022,Torquay,0-0,0-0,Boreham Wood
+Tue Feb 22 2022,Weymouth,2-2,1-0,Bromley
+Sat Feb 26 2022,Altrincham,3-0,2-0,Dag and Red
+Sat Feb 26 2022,Boreham Wood,1-0,1-0,Eastleigh
+Sat Feb 26 2022,Dover Athletic,1-3,1-2,Grimsby
+Sat Feb 26 2022,Halifax,1-0,1-0,Barnet
+Sat Feb 26 2022,King’s Lynn,1-4,1-1,Maidenhead
+Sat Feb 26 2022,Southend,1-1,1-1,Solihull
+Sat Feb 26 2022,Stockport,1-0,1-0,Weymouth
+Sat Feb 26 2022,Woking,0-2,0-1,Notts County
+Sat Feb 26 2022,Wrexham,4-1,1-0,Aldershot
+Sat Feb 26 2022,Wealdstone,1-1,0-0,Torquay
+Sat Feb 26 2022,Chesterfield,1-0,1-0,Yeovil
+Tue Mar 1 2022,Chesterfield,3-1,0-1,Notts County
+Tue Mar 1 2022,Dag and Red,3-0,3-0,Maidenhead
+Tue Mar 1 2022,Wrexham,2-0,2-0,King’s Lynn
+Sat Mar 5 2022,Barnet,6-0,1-0,Dover Athletic
+Sat Mar 5 2022,Chesterfield,2-2,1-0,Southend
+Sat Mar 5 2022,Eastleigh,4-1,1-0,Wealdstone
+Sat Mar 5 2022,Grimsby,1-0,0-0,Woking
+Sat Mar 5 2022,Maidenhead,0-0,0-0,Altrincham
+Sat Mar 5 2022,Notts County,1-1,0-0,Yeovil
+Sat Mar 5 2022,Solihull,2-2,0-1,King’s Lynn
+Sat Mar 5 2022,Torquay,0-0,0-0,Bromley
+Sat Mar 5 2022,Weymouth,0-2,0-0,Halifax
+Sat Mar 5 2022,Aldershot,0-2,0-2,Stockport
+Tue Mar 8 2022,Altrincham,5-0,4-0,Weymouth
+Tue Mar 8 2022,King’s Lynn,0-0,0-0,Woking
+Tue Mar 8 2022,Maidenhead,0-2,0-0,Wealdstone
+Tue Mar 8 2022,Solihull,3-3,1-1,Notts County
+Tue Mar 8 2022,Southend,1-0,0-0,Grimsby
+Tue Mar 8 2022,Wrexham,4-2,1-1,Boreham Wood
+Tue Mar 8 2022,Yeovil,0-3,0-2,Dag and Red
+Sat Mar 12 2022,Altrincham,4-0,2-0,Eastleigh
+Sat Mar 12 2022,Halifax,2-1,1-1,Dover Athletic
+Sat Mar 12 2022,King’s Lynn,2-3,1-2,Torquay
+Sat Mar 12 2022,Wealdstone,3-2,0-1,Weymouth
+Sat Mar 12 2022,Woking,1-0,0-0,Maidenhead
+Sat Mar 12 2022,Yeovil,0-2,0-1,Grimsby
+Sat Mar 12 2022,Boreham Wood,1-1,0-0,Chesterfield
+Tue Mar 15 2022,Barnet,1-0,1-0,Boreham Wood
+Tue Mar 15 2022,Halifax,1-0,0-0,Bromley
+Tue Mar 15 2022,Southend,0-3,0-2,Dag and Red
+Tue Mar 15 2022,Stockport,3-0,1-0,Notts County
+Sat Mar 19 2022,Aldershot,0-3,0-1,King’s Lynn
+Sat Mar 19 2022,Barnet,0-2,0-1,Woking
+Sat Mar 19 2022,Boreham Wood,0-0,0-0,Grimsby
+Sat Mar 19 2022,Bromley,0-0,0-0,Wrexham
+Sat Mar 19 2022,Chesterfield,1-0,0-0,Maidenhead
+Sat Mar 19 2022,Dag and Red,1-2,1-1,Notts County
+Sat Mar 19 2022,Dover Athletic,0-2,0-1,Yeovil
+Sat Mar 19 2022,Halifax,2-0,0-0,Torquay
+Sat Mar 19 2022,Solihull,5-3,3-1,Eastleigh
+Sat Mar 19 2022,Southend,2-0,2-0,Altrincham
+Sat Mar 19 2022,Stockport,4-2,0-2,Wealdstone
+Tue Mar 22 2022,Altrincham,1-0,0-0,Chesterfield
+Tue Mar 22 2022,Eastleigh,0-1,0-1,Dag and Red
+Tue Mar 22 2022,Grimsby,1-2,1-0,Solihull
+Tue Mar 22 2022,King’s Lynn,0-3,0-2,Stockport
+Tue Mar 22 2022,Maidenhead,2-1,0-0,Southend
+Tue Mar 22 2022,Notts County,1-0,1-0,Boreham Wood
+Tue Mar 22 2022,Torquay,4-0,3-0,Aldershot
+Tue Mar 22 2022,Woking,2-0,1-0,Weymouth
+Tue Mar 22 2022,Wrexham,3-1,2-0,Halifax
+Tue Mar 22 2022,Yeovil,2-1,1-1,Bromley
+Sat Mar 26 2022,Altrincham,1-0,0-0,Aldershot
+Sat Mar 26 2022,Eastleigh,0-2,0-0,Stockport
+Sat Mar 26 2022,Grimsby,2-1,2-0,Dag and Red
+Sat Mar 26 2022,King’s Lynn,2-0,0-0,Halifax
+Sat Mar 26 2022,Maidenhead,1-2,0-0,Barnet
+Sat Mar 26 2022,Notts County,1-1,1-1,Chesterfield
+Sat Mar 26 2022,Torquay,3-0,2-0,Weymouth
+Sat Mar 26 2022,Wealdstone,1-1,0-0,Bromley
+Sat Mar 26 2022,Woking,2-3,1-1,Solihull
+Sat Mar 26 2022,Wrexham,6-5,2-2,Dover Athletic
+Sat Mar 26 2022,Yeovil,2-0,2-0,Southend
+Sat Apr 2 2022,Aldershot,0-2,0-2,Eastleigh
+Sat Apr 2 2022,Barnet,2-2,1-1,Yeovil
+Sat Apr 2 2022,Chesterfield,1-4,1-2,Grimsby
+Sat Apr 2 2022,Dover Athletic,1-1,1-0,King’s Lynn
+Sat Apr 2 2022,Halifax,2-0,0-0,Wealdstone
+Sat Apr 2 2022,Solihull,3-1,2-0,Maidenhead
+Sat Apr 2 2022,Southend,0-3,0-1,Notts County
+Sat Apr 2 2022,Boreham Wood,0-1,0-0,Woking
+Tue Apr 5 2022,Dag and Red,0-0,0-0,Boreham Wood
+Tue Apr 5 2022,Halifax,0-0,0-0,Solihull
+Tue Apr 5 2022,King’s Lynn,1-0,0-0,Bromley
+Tue Apr 5 2022,Wealdstone,0-0,0-0,Maidenhead
+Tue Apr 5 2022,Wrexham,6-0,3-0,Barnet
+Sat Apr 9 2022,Aldershot,2-1,1-0,Boreham Wood
+Sat Apr 9 2022,Barnet,0-2,0-1,Solihull
+Sat Apr 9 2022,Bromley,0-2,0-0,Dag and Red
+Sat Apr 9 2022,Dover Athletic,0-1,0-0,Maidenhead
+Sat Apr 9 2022,Halifax,2-1,1-0,Woking
+Sat Apr 9 2022,King’s Lynn,2-2,2-1,Yeovil
+Sat Apr 9 2022,Torquay,5-1,2-0,Notts County
+Sat Apr 9 2022,Wealdstone,1-2,0-1,Chesterfield
+Sat Apr 9 2022,Weymouth,0-0,0-0,Grimsby
+Sat Apr 9 2022,Wrexham,3-2,1-1,Eastleigh
+Sat Apr 9 2022,Stockport,5-0,2-0,Southend
+Fri Apr 15 2022,Altrincham,1-1,0-1,Halifax
+Fri Apr 15 2022,Boreham Wood,1-2,1-2,Dover Athletic
+Fri Apr 15 2022,Dag and Red,7-3,5-0,Barnet
+Fri Apr 15 2022,Eastleigh,0-2,0-1,Bromley
+Fri Apr 15 2022,Grimsby,2-1,0-1,Stockport
+Fri Apr 15 2022,Maidenhead,2-0,0-0,Weymouth
+Fri Apr 15 2022,Notts County,4-1,2-1,King’s Lynn
+Fri Apr 15 2022,Southend,0-1,0-0,Wealdstone
+Fri Apr 15 2022,Woking,0-1,0-1,Torquay
+Fri Apr 15 2022,Wrexham,1-1,0-0,Solihull
+Fri Apr 15 2022,Yeovil,0-2,0-0,Aldershot
+Mon Apr 18 2022,Weymouth,0-0,0-0,Yeovil
+Mon Apr 18 2022,Aldershot,0-2,0-2,Dag and Red
+Mon Apr 18 2022,Barnet,1-3,0-2,Southend
+Mon Apr 18 2022,Bromley,0-0,0-0,Maidenhead
+Mon Apr 18 2022,Dover Athletic,1-4,0-2,Woking
+Mon Apr 18 2022,King’s Lynn,0-1,0-1,Grimsby
+Mon Apr 18 2022,Stockport,1-0,0-0,Solihull
+Mon Apr 18 2022,Torquay,0-0,0-0,Eastleigh
+Mon Apr 18 2022,Wealdstone,2-0,1-0,Boreham Wood
+Mon Apr 18 2022,Wrexham,4-0,4-0,Altrincham
+Mon Apr 18 2022,Halifax,2-0,0-0,Chesterfield
+Sat Apr 23 2022,Altrincham,4-2,1-0,Wealdstone
+Sat Apr 23 2022,Boreham Wood,2-0,1-0,Bromley
+Sat Apr 23 2022,Chesterfield,3-2,1-1,Dover Athletic
+Sat Apr 23 2022,Dag and Red,1-1,0-1,King’s Lynn
+Sat Apr 23 2022,Eastleigh,2-3,1-0,Barnet
+Sat Apr 23 2022,Grimsby,2-1,1-1,Torquay
+Sat Apr 23 2022,Notts County,3-1,2-0,Weymouth
+Sat Apr 23 2022,Solihull,2-1,1-0,Aldershot
+Sat Apr 23 2022,Southend,1-0,1-0,Halifax
+Sat Apr 23 2022,Yeovil,2-1,1-0,Stockport
+Sat Apr 23 2022,Woking,2-1,0-1,Wrexham
+Tue Apr 26 2022,Bromley,1-1,0-0,Aldershot
+Tue Apr 26 2022,Dover Athletic,0-3,0-0,Notts County
+Tue Apr 26 2022,Southend,1-0,0-0,Boreham Wood
+Tue Apr 26 2022,Weymouth,1-6,1-0,Wrexham
+Sat Apr 30 2022,Aldershot,3-1,2-1,Notts County
+Sat Apr 30 2022,Barnet,2-2,1-0,Grimsby
+Sat Apr 30 2022,Bromley,4-2,3-2,Chesterfield
+Sat Apr 30 2022,Dover Athletic,0-1,0-1,Altrincham
+Sat Apr 30 2022,Halifax,1-0,0-0,Yeovil
+Sat Apr 30 2022,King’s Lynn,3-3,1-0,Eastleigh
+Sat Apr 30 2022,Torquay,1-1,0-0,Maidenhead
+Sat Apr 30 2022,Wealdstone,1-2,0-1,Dag and Red
+Sat Apr 30 2022,Weymouth,2-4,0-2,Solihull
+Sat Apr 30 2022,Wrexham,1-0,0-0,Southend
+Sat Apr 30 2022,Stockport,1-2,0-1,Boreham Wood
+Mon May 2 2022,Altrincham,1-1,1-0,Barnet
+Mon May 2 2022,Boreham Wood,1-1,0-0,Wrexham
+Mon May 2 2022,Chesterfield,0-1,0-1,Stockport
+Mon May 2 2022,Dag and Red,0-0,0-0,Torquay
+Mon May 2 2022,Eastleigh,1-2,0-2,Halifax
+Mon May 2 2022,Maidenhead,2-2,2-1,Aldershot
+Mon May 2 2022,Notts County,1-0,1-0,Dover Athletic
+Mon May 2 2022,Solihull,3-0,1-0,Bromley
+Mon May 2 2022,Southend,1-1,0-1,Weymouth
+Mon May 2 2022,Woking,0-3,0-1,King’s Lynn
+Mon May 2 2022,Yeovil,0-0,0-0,Wealdstone
+Sat May 7 2022,Torquay,2-0,0-0,Chesterfield
+Sat May 7 2022,Bromley,2-2,1-0,Dover Athletic
+Sat May 7 2022,Grimsby,1-3,0-2,Maidenhead
+Sat May 7 2022,Halifax,1-1,0-0,Aldershot
+Sat May 7 2022,Notts County,3-0,0-0,Altrincham
+Sat May 7 2022,Solihull,3-1,3-0,Dag and Red
+Sat May 7 2022,Wealdstone,2-1,0-1,King’s Lynn
+Sat May 7 2022,Weymouth,1-2,0-1,Barnet
+Sat May 7 2022,Woking,1-2,0-0,Eastleigh
+Sat May 7 2022,Yeovil,2-2,0-2,Boreham Wood
+Sun May 8 2022,Wrexham,3-0,2-0,Stockport
+Tue May 10 2022,Bromley,1-1,1-0,Altrincham
+Tue May 10 2022,Grimsby,1-0,1-0,Boreham Wood
+Wed May 11 2022,Stockport,1-0,0-0,Torquay
+Sun May 15 2022,Aldershot,1-3,1-1,Wealdstone
+Sun May 15 2022,Altrincham,0-1,0-1,Yeovil
+Sun May 15 2022,Barnet,2-4,1-1,Bromley
+Sun May 15 2022,Boreham Wood,0-3,0-2,Solihull
+Sun May 15 2022,Chesterfield,0-0,0-0,Woking
+Sun May 15 2022,Dag and Red,3-0,0-0,Wrexham
+Sun May 15 2022,Dover Athletic,1-2,0-1,Weymouth
+Sun May 15 2022,Eastleigh,4-4,0-2,Grimsby
+Sun May 15 2022,Maidenhead,0-1,0-0,Notts County
+Sun May 15 2022,Southend,1-1,0-1,Torquay
+Sun May 15 2022,Stockport,2-0,1-0,Halifax

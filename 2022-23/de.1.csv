@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 5 2022,Ein Frankfurt,1-6,0-5,Bayern Munich
+Sat Aug 6 2022,Augsburg,0-4,0-0,Freiburg
+Sat Aug 6 2022,Bochum,1-2,1-1,Mainz
+Sat Aug 6 2022,M'gladbach,3-1,1-1,Hoffenheim
+Sat Aug 6 2022,Union Berlin,3-1,1-0,Hertha
+Sat Aug 6 2022,Wolfsburg,2-2,1-2,Werder Bremen
+Sat Aug 6 2022,Dortmund,1-0,1-0,Leverkusen
+Sun Aug 7 2022,Stuttgart,1-1,1-1,RB Leipzig
+Sun Aug 7 2022,FC Koln,3-1,0-0,Schalke 04
+Fri Aug 12 2022,Freiburg,1-3,1-0,Dortmund
+Sat Aug 13 2022,Hertha,1-1,1-0,Ein Frankfurt
+Sat Aug 13 2022,Hoffenheim,3-2,2-2,Bochum
+Sat Aug 13 2022,Leverkusen,1-2,1-1,Augsburg
+Sat Aug 13 2022,RB Leipzig,2-2,1-1,FC Koln
+Sat Aug 13 2022,Werder Bremen,2-2,1-1,Stuttgart
+Sat Aug 13 2022,Schalke 04,2-2,1-0,M'gladbach
+Sun Aug 14 2022,Mainz,0-0,0-0,Union Berlin
+Sun Aug 14 2022,Bayern Munich,2-0,2-0,Wolfsburg
+Fri Aug 19 2022,M'gladbach,1-0,1-0,Hertha
+Sat Aug 20 2022,Augsburg,1-2,1-1,Mainz
+Sat Aug 20 2022,Dortmund,2-3,1-0,Werder Bremen
+Sat Aug 20 2022,Leverkusen,0-3,0-2,Hoffenheim
+Sat Aug 20 2022,Stuttgart,0-1,0-1,Freiburg
+Sat Aug 20 2022,Wolfsburg,0-0,0-0,Schalke 04
+Sat Aug 20 2022,Union Berlin,2-1,2-0,RB Leipzig
+Sun Aug 21 2022,Ein Frankfurt,1-1,0-0,FC Koln
+Sun Aug 21 2022,Bochum,0-7,0-4,Bayern Munich
+Fri Aug 26 2022,Freiburg,1-0,0-0,Bochum
+Sat Aug 27 2022,Hertha,0-1,0-1,Dortmund
+Sat Aug 27 2022,Hoffenheim,1-0,1-0,Augsburg
+Sat Aug 27 2022,Mainz,0-3,0-3,Leverkusen
+Sat Aug 27 2022,RB Leipzig,2-0,1-0,Wolfsburg
+Sat Aug 27 2022,Schalke 04,1-6,1-3,Union Berlin
+Sat Aug 27 2022,Bayern Munich,1-1,0-1,M'gladbach
+Sun Aug 28 2022,FC Koln,0-0,0-0,Stuttgart
+Sun Aug 28 2022,Werder Bremen,3-4,2-3,Ein Frankfurt
+Fri Sep 2 2022,Dortmund,1-0,1-0,Hoffenheim
+Sat Sep 3 2022,Bochum,0-2,0-0,Werder Bremen
+Sat Sep 3 2022,Leverkusen,2-3,1-0,Freiburg
+Sat Sep 3 2022,Stuttgart,1-1,1-1,Schalke 04
+Sat Sep 3 2022,Union Berlin,1-1,1-1,Bayern Munich
+Sat Sep 3 2022,Wolfsburg,2-4,1-3,FC Koln
+Sat Sep 3 2022,Ein Frankfurt,4-0,2-0,RB Leipzig
+Sun Sep 4 2022,Augsburg,0-2,0-0,Hertha
+Sun Sep 4 2022,M'gladbach,0-1,0-0,Mainz
+Fri Sep 9 2022,Werder Bremen,0-1,0-0,Augsburg
+Sat Sep 10 2022,Bayern Munich,2-2,1-0,Stuttgart
+Sat Sep 10 2022,Ein Frankfurt,0-1,0-0,Wolfsburg
+Sat Sep 10 2022,Hertha,2-2,0-0,Leverkusen
+Sat Sep 10 2022,Hoffenheim,4-1,0-0,Mainz
+Sat Sep 10 2022,RB Leipzig,3-0,2-0,Dortmund
+Sat Sep 10 2022,Schalke 04,3-1,1-0,Bochum
+Sun Sep 11 2022,FC Koln,0-1,0-1,Union Berlin
+Sun Sep 11 2022,Freiburg,0-0,0-0,M'gladbach
+Fri Sep 16 2022,Mainz,1-1,0-1,Hertha
+Sat Sep 17 2022,Augsburg,1-0,0-0,Bayern Munich
+Sat Sep 17 2022,Dortmund,1-0,0-0,Schalke 04
+Sat Sep 17 2022,Leverkusen,1-1,0-0,Werder Bremen
+Sat Sep 17 2022,Stuttgart,1-3,0-1,Ein Frankfurt
+Sat Sep 17 2022,M'gladbach,3-0,2-0,RB Leipzig
+Sun Sep 18 2022,Union Berlin,2-0,0-0,Wolfsburg
+Sun Sep 18 2022,Bochum,1-1,1-0,FC Koln
+Sun Sep 18 2022,Hoffenheim,0-0,0-0,Freiburg
+Fri Sep 30 2022,Bayern Munich,4-0,3-0,Leverkusen
+Sat Oct 1 2022,Ein Frankfurt,2-0,2-0,Union Berlin
+Sat Oct 1 2022,FC Koln,3-2,0-1,Dortmund
+Sat Oct 1 2022,Freiburg,2-1,2-0,Mainz
+Sat Oct 1 2022,RB Leipzig,4-0,2-0,Bochum
+Sat Oct 1 2022,Wolfsburg,3-2,2-2,Stuttgart
+Sat Oct 1 2022,Werder Bremen,5-1,4-0,M'gladbach
+Sun Oct 2 2022,Hertha,1-1,1-1,Hoffenheim
+Sun Oct 2 2022,Schalke 04,2-3,1-2,Augsburg
+Fri Oct 7 2022,Hoffenheim,1-2,1-1,Werder Bremen
+Sat Oct 8 2022,Augsburg,1-1,0-1,Wolfsburg
+Sat Oct 8 2022,Bochum,3-0,0-0,Ein Frankfurt
+Sat Oct 8 2022,Leverkusen,4-0,2-0,Schalke 04
+Sat Oct 8 2022,Mainz,1-1,1-0,RB Leipzig
+Sat Oct 8 2022,Dortmund,2-2,0-1,Bayern Munich
+Sun Oct 9 2022,M'gladbach,5-2,2-1,FC Koln
+Sun Oct 9 2022,Hertha,2-2,1-1,Freiburg
+Sun Oct 9 2022,Stuttgart,0-1,0-0,Union Berlin
+Fri Oct 14 2022,Schalke 04,0-3,0-2,Hoffenheim
+Sat Oct 15 2022,Ein Frankfurt,5-1,1-0,Leverkusen
+Sat Oct 15 2022,Stuttgart,4-1,2-1,Bochum
+Sat Oct 15 2022,Werder Bremen,0-2,0-1,Mainz
+Sat Oct 15 2022,Wolfsburg,2-2,1-1,M'gladbach
+Sat Oct 15 2022,RB Leipzig,3-2,3-0,Hertha
+Sun Oct 16 2022,FC Koln,3-2,0-1,Augsburg
+Sun Oct 16 2022,Union Berlin,2-0,2-0,Dortmund
+Sun Oct 16 2022,Bayern Munich,5-0,2-0,Freiburg
+Fri Oct 21 2022,Mainz,5-0,3-0,FC Koln
+Sat Oct 22 2022,Augsburg,3-3,1-0,RB Leipzig
+Sat Oct 22 2022,Dortmund,5-0,3-0,Stuttgart
+Sat Oct 22 2022,Freiburg,2-0,0-0,Werder Bremen
+Sat Oct 22 2022,Hoffenheim,0-2,0-2,Bayern Munich
+Sat Oct 22 2022,Leverkusen,2-2,1-1,Wolfsburg
+Sat Oct 22 2022,M'gladbach,1-3,0-3,Ein Frankfurt
+Sun Oct 23 2022,Bochum,2-1,1-0,Union Berlin
+Sun Oct 23 2022,Hertha,2-1,0-0,Schalke 04
+Fri Oct 28 2022,Werder Bremen,1-0,0-0,Hertha
+Sat Oct 29 2022,Bayern Munich,6-2,3-1,Mainz
+Sat Oct 29 2022,RB Leipzig,2-0,1-0,Leverkusen
+Sat Oct 29 2022,Stuttgart,2-1,1-1,Augsburg
+Sat Oct 29 2022,Wolfsburg,4-0,2-0,Bochum
+Sat Oct 29 2022,Ein Frankfurt,1-2,1-1,Dortmund
+Sun Oct 30 2022,Union Berlin,2-1,0-1,M'gladbach
+Sun Oct 30 2022,Schalke 04,0-2,0-1,Freiburg
+Sun Oct 30 2022,FC Koln,1-1,1-1,Hoffenheim
+Fri Nov 4 2022,M'gladbach,3-1,2-1,Stuttgart
+Sat Nov 5 2022,Augsburg,1-2,1-1,Ein Frankfurt
+Sat Nov 5 2022,Dortmund,3-0,3-0,Bochum
+Sat Nov 5 2022,Hertha,2-3,2-3,Bayern Munich
+Sat Nov 5 2022,Hoffenheim,1-3,0-1,RB Leipzig
+Sat Nov 5 2022,Mainz,0-3,0-1,Wolfsburg
+Sat Nov 5 2022,Werder Bremen,2-1,1-0,Schalke 04
+Sun Nov 6 2022,Leverkusen,5-0,0-0,Union Berlin
+Sun Nov 6 2022,Freiburg,2-0,0-0,FC Koln
+Tue Nov 8 2022,Wolfsburg,2-0,1-0,Dortmund
+Tue Nov 8 2022,Bayern Munich,6-1,4-1,Werder Bremen
+Tue Nov 8 2022,Bochum,2-1,2-0,M'gladbach
+Tue Nov 8 2022,Stuttgart,2-1,1-1,Hertha
+Wed Nov 9 2022,FC Koln,1-2,1-0,Leverkusen
+Wed Nov 9 2022,Ein Frankfurt,4-2,3-1,Hoffenheim
+Wed Nov 9 2022,RB Leipzig,3-1,0-0,Freiburg
+Wed Nov 9 2022,Schalke 04,1-0,1-0,Mainz
+Wed Nov 9 2022,Union Berlin,2-2,2-2,Augsburg
+Fri Nov 11 2022,M'gladbach,4-2,3-2,Dortmund
+Sat Nov 12 2022,Augsburg,0-1,0-0,Bochum
+Sat Nov 12 2022,Hertha,2-0,1-0,FC Koln
+Sat Nov 12 2022,Hoffenheim,1-2,1-1,Wolfsburg
+Sat Nov 12 2022,Leverkusen,2-0,1-0,Stuttgart
+Sat Nov 12 2022,Werder Bremen,1-2,0-1,RB Leipzig
+Sat Nov 12 2022,Schalke 04,0-2,0-1,Bayern Munich
+Sun Nov 13 2022,Mainz,1-1,1-0,Ein Frankfurt
+Sun Nov 13 2022,Freiburg,4-1,4-0,Union Berlin
+Fri Jan 20 2023,RB Leipzig,1-1,0-1,Bayern Munich
+Sat Jan 21 2023,Bochum,3-1,2-0,Hertha
+Sat Jan 21 2023,Ein Frankfurt,3-0,1-0,Schalke 04
+Sat Jan 21 2023,Stuttgart,1-1,1-1,Mainz
+Sat Jan 21 2023,Union Berlin,3-1,0-1,Hoffenheim
+Sat Jan 21 2023,Wolfsburg,6-0,3-0,Freiburg
+Sat Jan 21 2023,FC Koln,7-1,5-1,Werder Bremen
+Sun Jan 22 2023,Dortmund,4-3,2-2,Augsburg
+Sun Jan 22 2023,M'gladbach,2-3,0-2,Leverkusen
+Tue Jan 24 2023,Schalke 04,1-6,0-4,RB Leipzig
+Tue Jan 24 2023,Bayern Munich,1-1,0-1,FC Koln
+Tue Jan 24 2023,Hertha,0-5,0-3,Wolfsburg
+Tue Jan 24 2023,Hoffenheim,2-2,1-1,Stuttgart
+Wed Jan 25 2023,Mainz,1-2,1-1,Dortmund
+Wed Jan 25 2023,Augsburg,1-0,0-0,M'gladbach
+Wed Jan 25 2023,Freiburg,1-1,0-1,Ein Frankfurt
+Wed Jan 25 2023,Leverkusen,2-0,1-0,Bochum
+Wed Jan 25 2023,Werder Bremen,1-2,1-1,Union Berlin
+Fri Jan 27 2023,RB Leipzig,2-1,1-0,Stuttgart
+Sat Jan 28 2023,Freiburg,3-1,2-1,Augsburg
+Sat Jan 28 2023,Hertha,0-2,0-1,Union Berlin
+Sat Jan 28 2023,Hoffenheim,1-4,0-2,M'gladbach
+Sat Jan 28 2023,Mainz,5-2,3-0,Bochum
+Sat Jan 28 2023,Werder Bremen,2-1,1-0,Wolfsburg
+Sat Jan 28 2023,Bayern Munich,1-1,1-0,Ein Frankfurt
+Sun Jan 29 2023,Schalke 04,0-0,0-0,FC Koln
+Sun Jan 29 2023,Leverkusen,0-2,0-1,Dortmund
+Fri Feb 3 2023,Augsburg,1-0,0-0,Leverkusen
+Sat Feb 4 2023,Bochum,5-2,3-0,Hoffenheim
+Sat Feb 4 2023,Dortmund,5-1,1-1,Freiburg
+Sat Feb 4 2023,Ein Frankfurt,3-0,2-0,Hertha
+Sat Feb 4 2023,FC Koln,0-0,0-0,RB Leipzig
+Sat Feb 4 2023,Union Berlin,2-1,1-0,Mainz
+Sat Feb 4 2023,M'gladbach,0-0,0-0,Schalke 04
+Sun Feb 5 2023,Stuttgart,0-2,0-0,Werder Bremen
+Sun Feb 5 2023,Wolfsburg,2-4,1-3,Bayern Munich
+Fri Feb 10 2023,Schalke 04,0-0,0-0,Wolfsburg
+Sat Feb 11 2023,Bayern Munich,3-0,1-0,Bochum
+Sat Feb 11 2023,Freiburg,2-1,0-1,Stuttgart
+Sat Feb 11 2023,Hoffenheim,1-3,0-1,Leverkusen
+Sat Feb 11 2023,Mainz,3-1,2-1,Augsburg
+Sat Feb 11 2023,Werder Bremen,0-2,0-0,Dortmund
+Sat Feb 11 2023,RB Leipzig,1-2,1-0,Union Berlin
+Sun Feb 12 2023,Hertha,4-1,1-1,M'gladbach
+Sun Feb 12 2023,FC Koln,3-0,0-0,Ein Frankfurt
+Fri Feb 17 2023,Augsburg,1-0,0-0,Hoffenheim
+Sat Feb 18 2023,Bochum,0-2,0-1,Freiburg
+Sat Feb 18 2023,M'gladbach,3-2,1-1,Bayern Munich
+Sat Feb 18 2023,Stuttgart,3-0,1-0,FC Koln
+Sat Feb 18 2023,Wolfsburg,0-3,0-1,RB Leipzig
+Sat Feb 18 2023,Ein Frankfurt,2-0,1-0,Werder Bremen
+Sun Feb 19 2023,Union Berlin,0-0,0-0,Schalke 04
+Sun Feb 19 2023,Dortmund,4-1,2-0,Hertha
+Sun Feb 19 2023,Leverkusen,2-3,1-2,Mainz
+Fri Feb 24 2023,Mainz,4-0,1-0,M'gladbach
+Sat Feb 25 2023,FC Koln,0-2,0-1,Wolfsburg
+Sat Feb 25 2023,Hertha,2-0,0-0,Augsburg
+Sat Feb 25 2023,Hoffenheim,0-1,0-1,Dortmund
+Sat Feb 25 2023,RB Leipzig,2-1,2-0,Ein Frankfurt
+Sat Feb 25 2023,Werder Bremen,3-0,2-0,Bochum
+Sat Feb 25 2023,Schalke 04,2-1,2-0,Stuttgart
+Sun Feb 26 2023,Freiburg,1-1,1-0,Leverkusen
+Sun Feb 26 2023,Bayern Munich,3-0,3-0,Union Berlin
+Fri Mar 3 2023,Dortmund,2-1,2-0,RB Leipzig
+Sat Mar 4 2023,Augsburg,2-1,1-1,Werder Bremen
+Sat Mar 4 2023,Bochum,0-2,0-1,Schalke 04
+Sat Mar 4 2023,Mainz,1-0,1-0,Hoffenheim
+Sat Mar 4 2023,M'gladbach,0-0,0-0,Freiburg
+Sat Mar 4 2023,Union Berlin,0-0,0-0,FC Koln
+Sat Mar 4 2023,Stuttgart,1-2,0-1,Bayern Munich
+Sun Mar 5 2023,Leverkusen,4-1,2-0,Hertha
+Sun Mar 5 2023,Wolfsburg,2-2,2-2,Ein Frankfurt
+Fri Mar 10 2023,FC Koln,0-2,0-1,Bochum
+Sat Mar 11 2023,Bayern Munich,5-3,4-1,Augsburg
+Sat Mar 11 2023,Ein Frankfurt,1-1,0-0,Stuttgart
+Sat Mar 11 2023,Hertha,1-1,1-0,Mainz
+Sat Mar 11 2023,RB Leipzig,3-0,0-0,M'gladbach
+Sat Mar 11 2023,Schalke 04,2-2,0-1,Dortmund
+Sun Mar 12 2023,Freiburg,2-1,1-0,Hoffenheim
+Sun Mar 12 2023,Werder Bremen,2-3,1-1,Leverkusen
+Sun Mar 12 2023,Wolfsburg,1-1,0-0,Union Berlin
+Fri Mar 17 2023,M'gladbach,2-2,0-0,Werder Bremen
+Sat Mar 18 2023,Augsburg,1-1,0-0,Schalke 04
+Sat Mar 18 2023,Bochum,1-0,0-0,RB Leipzig
+Sat Mar 18 2023,Hoffenheim,3-1,2-0,Hertha
+Sat Mar 18 2023,Stuttgart,0-1,0-0,Wolfsburg
+Sat Mar 18 2023,Dortmund,6-1,4-1,FC Koln
+Sun Mar 19 2023,Union Berlin,2-0,0-0,Ein Frankfurt
+Sun Mar 19 2023,Leverkusen,2-1,0-1,Bayern Munich
+Sun Mar 19 2023,Mainz,1-1,0-0,Freiburg
+Fri Mar 31 2023,Ein Frankfurt,1-1,1-1,Bochum
+Sat Apr 1 2023,Freiburg,1-1,0-0,Hertha
+Sat Apr 1 2023,RB Leipzig,0-3,0-1,Mainz
+Sat Apr 1 2023,Schalke 04,0-3,0-0,Leverkusen
+Sat Apr 1 2023,Union Berlin,3-0,0-0,Stuttgart
+Sat Apr 1 2023,Wolfsburg,2-2,0-2,Augsburg
+Sat Apr 1 2023,Bayern Munich,4-2,3-0,Dortmund
+Sun Apr 2 2023,FC Koln,0-0,0-0,M'gladbach
+Sun Apr 2 2023,Werder Bremen,1-2,0-0,Hoffenheim
+Sat Apr 8 2023,Augsburg,1-3,1-2,FC Koln
+Sat Apr 8 2023,Dortmund,2-1,1-0,Union Berlin
+Sat Apr 8 2023,Freiburg,0-1,0-0,Bayern Munich
+Sat Apr 8 2023,Leverkusen,3-1,2-0,Ein Frankfurt
+Sat Apr 8 2023,Mainz,2-2,0-0,Werder Bremen
+Sat Apr 8 2023,Hertha,0-1,0-1,RB Leipzig
+Sun Apr 9 2023,M'gladbach,2-0,1-0,Wolfsburg
+Sun Apr 9 2023,Bochum,2-3,0-1,Stuttgart
+Sun Apr 9 2023,Hoffenheim,2-0,1-0,Schalke 04
+Fri Apr 14 2023,Schalke 04,5-2,2-1,Hertha
+Sat Apr 15 2023,Bayern Munich,1-1,1-0,Hoffenheim
+Sat Apr 15 2023,FC Koln,1-1,0-1,Mainz
+Sat Apr 15 2023,RB Leipzig,3-2,3-1,Augsburg
+Sat Apr 15 2023,Stuttgart,3-3,0-2,Dortmund
+Sat Apr 15 2023,Ein Frankfurt,1-1,0-1,M'gladbach
+Sun Apr 16 2023,Werder Bremen,1-2,0-0,Freiburg
+Sun Apr 16 2023,Union Berlin,1-1,1-0,Bochum
+Sun Apr 16 2023,Wolfsburg,0-0,0-0,Leverkusen
+Fri Apr 21 2023,Augsburg,1-1,1-0,Stuttgart
+Sat Apr 22 2023,Bochum,1-5,0-3,Wolfsburg
+Sat Apr 22 2023,Hertha,2-4,0-2,Werder Bremen
+Sat Apr 22 2023,Hoffenheim,1-3,0-2,FC Koln
+Sat Apr 22 2023,Mainz,3-1,0-1,Bayern Munich
+Sat Apr 22 2023,Dortmund,4-0,3-0,Ein Frankfurt
+Sun Apr 23 2023,Freiburg,4-0,2-0,Schalke 04
+Sun Apr 23 2023,Leverkusen,2-0,1-0,RB Leipzig
+Sun Apr 23 2023,M'gladbach,0-1,0-0,Union Berlin
+Fri Apr 28 2023,Bochum,1-1,1-1,Dortmund
+Sat Apr 29 2023,Ein Frankfurt,1-1,1-0,Augsburg
+Sat Apr 29 2023,FC Koln,0-1,0-0,Freiburg
+Sat Apr 29 2023,RB Leipzig,1-0,1-0,Hoffenheim
+Sat Apr 29 2023,Stuttgart,2-1,1-0,M'gladbach
+Sat Apr 29 2023,Union Berlin,0-0,0-0,Leverkusen
+Sat Apr 29 2023,Schalke 04,2-1,0-1,Werder Bremen
+Sun Apr 30 2023,Bayern Munich,2-0,0-0,Hertha
+Sun Apr 30 2023,Wolfsburg,3-0,3-0,Mainz
+Fri May 5 2023,Leverkusen,1-2,1-2,FC Koln
+Fri May 5 2023,Mainz,2-3,0-1,Schalke 04
+Sat May 6 2023,Augsburg,1-0,0-0,Union Berlin
+Sat May 6 2023,Freiburg,0-1,0-0,RB Leipzig
+Sat May 6 2023,Hertha,2-1,2-1,Stuttgart
+Sat May 6 2023,Hoffenheim,3-1,3-0,Ein Frankfurt
+Sat May 6 2023,M'gladbach,2-0,1-0,Bochum
+Sat May 6 2023,Werder Bremen,1-2,0-0,Bayern Munich
+Sun May 7 2023,Dortmund,6-0,3-0,Wolfsburg
+Fri May 12 2023,FC Koln,5-2,3-2,Hertha
+Sat May 13 2023,Bayern Munich,6-0,2-0,Schalke 04
+Sat May 13 2023,Bochum,3-2,1-1,Augsburg
+Sat May 13 2023,Ein Frankfurt,3-0,2-0,Mainz
+Sat May 13 2023,Union Berlin,4-2,3-0,Freiburg
+Sat May 13 2023,Wolfsburg,2-1,1-0,Hoffenheim
+Sat May 13 2023,Dortmund,5-2,4-0,M'gladbach
+Sun May 14 2023,Stuttgart,1-1,0-0,Leverkusen
+Sun May 14 2023,RB Leipzig,2-1,0-0,Werder Bremen
+Fri May 19 2023,Freiburg,2-0,0-0,Wolfsburg
+Sat May 20 2023,Hertha,1-1,0-0,Bochum
+Sat May 20 2023,Hoffenheim,4-2,2-1,Union Berlin
+Sat May 20 2023,Schalke 04,2-2,1-1,Ein Frankfurt
+Sat May 20 2023,Werder Bremen,1-1,0-1,FC Koln
+Sat May 20 2023,Bayern Munich,1-3,1-0,RB Leipzig
+Sun May 21 2023,Mainz,1-4,1-1,Stuttgart
+Sun May 21 2023,Augsburg,0-3,0-0,Dortmund
+Sun May 21 2023,Leverkusen,2-2,2-0,M'gladbach
+Sat May 27 2023,Bochum,3-0,2-0,Leverkusen
+Sat May 27 2023,Dortmund,2-2,0-2,Mainz
+Sat May 27 2023,Ein Frankfurt,2-1,0-1,Freiburg
+Sat May 27 2023,FC Koln,1-2,0-1,Bayern Munich
+Sat May 27 2023,M'gladbach,2-0,2-0,Augsburg
+Sat May 27 2023,RB Leipzig,4-2,2-1,Schalke 04
+Sat May 27 2023,Stuttgart,1-1,0-0,Hoffenheim
+Sat May 27 2023,Union Berlin,1-0,0-0,Werder Bremen
+Sat May 27 2023,Wolfsburg,1-2,1-0,Hertha

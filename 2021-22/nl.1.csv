@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 13 2021,Go Ahead Eagles,0-1,0-1,Heerenveen
+Sat Aug 14 2021,Waalwijk,1-0,1-0,AZ Alkmaar
+Sat Aug 14 2021,Heracles,0-2,0-1,PSV Eindhoven
+Sat Aug 14 2021,For Sittard,2-1,0-1,Twente
+Sat Aug 14 2021,Ajax,5-0,5-0,Nijmegen
+Sun Aug 15 2021,Cambuur,1-2,0-1,Groningen
+Sun Aug 15 2021,Utrecht,4-0,1-0,Sparta Rotterdam
+Sun Aug 15 2021,Zwolle,0-1,0-1,Vitesse
+Sun Aug 15 2021,Willem II,0-4,0-2,Feyenoord
+Fri Aug 20 2021,Nijmegen,2-0,2-0,Zwolle
+Sat Aug 21 2021,Heerenveen,3-2,3-0,Waalwijk
+Sat Aug 21 2021,PSV Eindhoven,4-1,2-0,Cambuur
+Sat Aug 21 2021,Sparta Rotterdam,1-1,1-0,Heracles
+Sat Aug 21 2021,Groningen,0-0,0-0,Utrecht
+Sun Aug 22 2021,Twente,1-1,0-0,Ajax
+Sun Aug 22 2021,Feyenoord,2-0,0-0,Go Ahead Eagles
+Sun Aug 22 2021,Vitesse,0-3,0-2,Willem II
+Fri Aug 27 2021,For Sittard,2-2,1-1,Waalwijk
+Sat Aug 28 2021,Cambuur,2-0,0-0,Twente
+Sat Aug 28 2021,Go Ahead Eagles,2-0,1-0,Sparta Rotterdam
+Sat Aug 28 2021,PSV Eindhoven,5-2,3-2,Groningen
+Sat Aug 28 2021,Willem II,1-0,0-0,Zwolle
+Sun Aug 29 2021,Utrecht,3-1,1-1,Feyenoord
+Sun Aug 29 2021,Ajax,5-0,3-0,Vitesse
+Sun Aug 29 2021,Heracles,0-1,0-0,Nijmegen
+Sun Aug 29 2021,Heerenveen,1-3,1-1,AZ Alkmaar
+Sat Sep 11 2021,Twente,1-0,0-0,Utrecht
+Sat Sep 11 2021,Cambuur,5-2,1-1,Go Ahead Eagles
+Sat Sep 11 2021,Zwolle,0-2,0-1,Ajax
+Sat Sep 11 2021,AZ Alkmaar,0-3,0-1,PSV Eindhoven
+Sun Sep 12 2021,Nijmegen,0-0,0-0,Willem II
+Sun Sep 12 2021,Groningen,1-1,0-1,Heerenveen
+Sun Sep 12 2021,Sparta Rotterdam,3-1,2-0,For Sittard
+Sun Sep 12 2021,Waalwijk,1-2,1-1,Vitesse
+Fri Sep 17 2021,Sparta Rotterdam,1-1,1-1,Nijmegen
+Sat Sep 18 2021,Heerenveen,1-0,1-0,For Sittard
+Sat Sep 18 2021,Willem II,2-1,2-0,Groningen
+Sat Sep 18 2021,Ajax,9-0,4-0,Cambuur
+Sat Sep 18 2021,Utrecht,2-2,1-2,Waalwijk
+Sun Sep 19 2021,Go Ahead Eagles,1-0,0-0,Zwolle
+Sun Sep 19 2021,PSV Eindhoven,0-4,0-1,Feyenoord
+Sun Sep 19 2021,Heracles,3-2,1-1,AZ Alkmaar
+Sun Sep 19 2021,Vitesse,1-4,0-2,Twente
+Tue Sep 21 2021,For Sittard,0-5,0-3,Ajax
+Tue Sep 21 2021,Waalwijk,1-2,0-0,Willem II
+Wed Sep 22 2021,Go Ahead Eagles,1-2,0-1,PSV Eindhoven
+Wed Sep 22 2021,Nijmegen,0-3,0-1,Utrecht
+Wed Sep 22 2021,Groningen,0-1,0-1,Vitesse
+Wed Sep 22 2021,Feyenoord,3-1,1-0,Heerenveen
+Wed Sep 22 2021,Zwolle,1-1,1-1,Sparta Rotterdam
+Thu Sep 23 2021,Cambuur,2-1,1-0,Heracles
+Thu Sep 23 2021,Twente,3-1,2-1,AZ Alkmaar
+Sat Sep 25 2021,Willem II,2-1,1-1,PSV Eindhoven
+Sat Sep 25 2021,Ajax,3-0,1-0,Groningen
+Sat Sep 25 2021,Vitesse,1-1,0-1,For Sittard
+Sat Sep 25 2021,Feyenoord,5-3,2-2,Nijmegen
+Sat Sep 25 2021,Utrecht,5-1,1-0,Zwolle
+Sun Sep 26 2021,Sparta Rotterdam,0-4,0-1,Cambuur
+Sun Sep 26 2021,AZ Alkmaar,5-0,2-0,Go Ahead Eagles
+Sun Sep 26 2021,Heerenveen,2-3,0-2,Twente
+Sun Sep 26 2021,Heracles,1-0,0-0,Waalwijk
+Fri Oct 1 2021,Groningen,1-1,1-0,Twente
+Sat Oct 2 2021,Waalwijk,1-1,0-1,Go Ahead Eagles
+Sat Oct 2 2021,Heracles,3-2,1-0,Willem II
+Sat Oct 2 2021,Zwolle,0-1,0-0,Heerenveen
+Sat Oct 2 2021,For Sittard,1-3,1-2,Nijmegen
+Sun Oct 3 2021,Ajax,0-1,0-0,Utrecht
+Sun Oct 3 2021,Cambuur,1-3,0-2,AZ Alkmaar
+Sun Oct 3 2021,Vitesse,2-1,1-1,Feyenoord
+Sun Oct 3 2021,PSV Eindhoven,2-1,0-0,Sparta Rotterdam
+Sat Oct 16 2021,Feyenoord,2-2,1-2,Waalwijk
+Sat Oct 16 2021,Go Ahead Eagles,4-2,1-1,Heracles
+Sat Oct 16 2021,Heerenveen,0-2,0-1,Ajax
+Sat Oct 16 2021,For Sittard,1-0,0-0,Cambuur
+Sat Oct 16 2021,PSV Eindhoven,3-1,0-1,Zwolle
+Sun Oct 17 2021,AZ Alkmaar,5-1,3-0,Utrecht
+Sun Oct 17 2021,Nijmegen,0-1,0-1,Vitesse
+Sun Oct 17 2021,Sparta Rotterdam,1-1,1-1,Groningen
+Sun Oct 17 2021,Twente,1-1,1-1,Willem II
+Fri Oct 22 2021,Willem II,1-1,0-0,For Sittard
+Sat Oct 23 2021,Utrecht,2-1,1-1,Heerenveen
+Sat Oct 23 2021,Zwolle,1-0,0-0,Heracles
+Sat Oct 23 2021,Waalwijk,1-0,0-0,Sparta Rotterdam
+Sun Oct 24 2021,Twente,1-2,0-0,Nijmegen
+Sun Oct 24 2021,Cambuur,2-3,1-2,Feyenoord
+Sun Oct 24 2021,Vitesse,1-2,1-0,Go Ahead Eagles
+Sun Oct 24 2021,Ajax,5-0,1-0,PSV Eindhoven
+Sun Oct 24 2021,Groningen,2-0,1-0,AZ Alkmaar
+Sat Oct 30 2021,PSV Eindhoven,5-2,2-2,Twente
+Sat Oct 30 2021,Heracles,0-0,0-0,Ajax
+Sat Oct 30 2021,Heerenveen,1-2,1-0,Vitesse
+Sat Oct 30 2021,AZ Alkmaar,3-2,2-2,Zwolle
+Sun Oct 31 2021,Sparta Rotterdam,0-1,0-0,Feyenoord
+Sun Oct 31 2021,Nijmegen,3-0,1-0,Groningen
+Sun Oct 31 2021,Utrecht,5-1,2-1,Willem II
+Sun Oct 31 2021,Waalwijk,0-1,0-0,Cambuur
+Sun Oct 31 2021,Go Ahead Eagles,4-3,0-2,For Sittard
+Fri Nov 5 2021,Twente,1-0,1-0,Heracles
+Sat Nov 6 2021,Nijmegen,1-1,0-0,Heerenveen
+Sat Nov 6 2021,Willem II,0-3,0-2,Sparta Rotterdam
+Sat Nov 6 2021,Zwolle,1-2,0-1,Cambuur
+Sun Nov 7 2021,Groningen,1-1,0-1,Waalwijk
+Sun Nov 7 2021,For Sittard,1-4,0-1,PSV Eindhoven
+Sun Nov 7 2021,Feyenoord,1-0,0-0,AZ Alkmaar
+Sun Nov 7 2021,Vitesse,2-1,2-0,Utrecht
+Sun Nov 7 2021,Ajax,0-0,0-0,Go Ahead Eagles
+Sat Nov 20 2021,PSV Eindhoven,2-0,2-0,Vitesse
+Sat Nov 20 2021,Sparta Rotterdam,0-1,0-0,Twente
+Sat Nov 20 2021,AZ Alkmaar,1-1,0-1,Nijmegen
+Sat Nov 20 2021,Heracles,3-1,2-1,For Sittard
+Sun Nov 21 2021,Go Ahead Eagles,0-1,0-0,Groningen
+Sun Nov 21 2021,Feyenoord,4-0,4-0,Zwolle
+Sun Nov 21 2021,Heerenveen,2-1,0-0,Willem II
+Sun Nov 21 2021,Waalwijk,0-5,0-2,Ajax
+Sun Nov 21 2021,Cambuur,2-1,1-1,Utrecht
+Fri Nov 26 2021,Nijmegen,2-3,2-1,Cambuur
+Sat Nov 27 2021,For Sittard,1-4,1-2,Groningen
+Sat Nov 27 2021,Zwolle,0-0,0-0,Waalwijk
+Sat Nov 27 2021,Willem II,0-1,0-0,Go Ahead Eagles
+Sun Nov 28 2021,Sparta Rotterdam,0-1,0-1,Ajax
+Sun Nov 28 2021,Twente,0-0,0-0,Feyenoord
+Sun Nov 28 2021,Utrecht,1-0,0-0,Heracles
+Sun Nov 28 2021,Heerenveen,1-1,0-1,PSV Eindhoven
+Sun Nov 28 2021,Vitesse,0-0,0-0,AZ Alkmaar
+Wed Dec 1 2021,Feyenoord,2-1,1-1,Heracles
+Thu Dec 2 2021,AZ Alkmaar,2-1,1-1,For Sittard
+Thu Dec 2 2021,Ajax,5-0,3-0,Willem II
+Fri Dec 3 2021,Groningen,1-1,0-1,Zwolle
+Sat Dec 4 2021,PSV Eindhoven,4-1,2-1,Utrecht
+Sat Dec 4 2021,Cambuur,1-6,1-3,Vitesse
+Sat Dec 4 2021,Heracles,0-1,0-0,Heerenveen
+Sun Dec 5 2021,Waalwijk,2-1,1-1,Nijmegen
+Sun Dec 5 2021,AZ Alkmaar,3-1,2-1,Sparta Rotterdam
+Sun Dec 5 2021,Go Ahead Eagles,1-2,1-0,Twente
+Sun Dec 5 2021,Feyenoord,5-0,2-0,For Sittard
+Fri Dec 10 2021,Willem II,1-3,0-0,Cambuur
+Sat Dec 11 2021,Utrecht,0-0,0-0,Go Ahead Eagles
+Sat Dec 11 2021,Heerenveen,0-0,0-0,Sparta Rotterdam
+Sat Dec 11 2021,Zwolle,0-1,0-0,For Sittard
+Sun Dec 12 2021,Twente,2-1,2-1,Waalwijk
+Sun Dec 12 2021,Groningen,1-1,0-0,Feyenoord
+Sun Dec 12 2021,Vitesse,2-1,1-1,Heracles
+Sun Dec 12 2021,Ajax,1-2,0-0,AZ Alkmaar
+Sun Dec 12 2021,Nijmegen,1-2,1-0,PSV Eindhoven
+Sat Dec 18 2021,For Sittard,2-2,1-1,Utrecht
+Sat Dec 18 2021,Sparta Rotterdam,2-2,0-2,Vitesse
+Sat Dec 18 2021,AZ Alkmaar,4-1,1-1,Willem II
+Sat Dec 18 2021,Heracles,4-2,2-1,Groningen
+Sat Dec 18 2021,Zwolle,1-3,0-2,Twente
+Sun Dec 19 2021,Cambuur,1-2,1-1,Heerenveen
+Sun Dec 19 2021,Feyenoord,0-2,0-1,Ajax
+Sun Dec 19 2021,Go Ahead Eagles,0-2,0-2,Nijmegen
+Sun Dec 19 2021,Waalwijk,1-4,0-1,PSV Eindhoven
+Tue Dec 21 2021,Vitesse,1-0,0-0,Zwolle
+Tue Dec 21 2021,AZ Alkmaar,1-0,0-0,Groningen
+Wed Dec 22 2021,Heerenveen,0-3,0-2,Feyenoord
+Wed Dec 22 2021,Willem II,0-1,0-1,Nijmegen
+Wed Dec 22 2021,Heracles,1-1,0-0,Cambuur
+Wed Dec 22 2021,Ajax,5-0,2-0,For Sittard
+Wed Dec 22 2021,Utrecht,1-1,0-1,Twente
+Thu Dec 23 2021,PSV Eindhoven,2-0,1-0,Go Ahead Eagles
+Thu Dec 23 2021,Sparta Rotterdam,1-1,1-1,Waalwijk
+Fri Jan 14 2022,Zwolle,2-0,1-0,Willem II
+Sat Jan 15 2022,Nijmegen,0-0,0-0,Heracles
+Sat Jan 15 2022,Feyenoord,0-1,0-0,Vitesse
+Sat Jan 15 2022,Twente,2-0,0-0,Heerenveen
+Sat Jan 15 2022,Go Ahead Eagles,0-2,0-2,Waalwijk
+Sun Jan 16 2022,Utrecht,0-3,0-3,Ajax
+Sun Jan 16 2022,Cambuur,1-1,1-0,Sparta Rotterdam
+Sun Jan 16 2022,Groningen,0-1,0-1,PSV Eindhoven
+Sun Jan 16 2022,For Sittard,1-2,0-1,AZ Alkmaar
+Sat Jan 22 2022,Vitesse,1-3,0-1,Groningen
+Sat Jan 22 2022,AZ Alkmaar,0-0,0-0,Cambuur
+Sat Jan 22 2022,Heerenveen,0-1,0-1,Zwolle
+Sat Jan 22 2022,Willem II,0-1,0-1,Twente
+Sun Jan 23 2022,Nijmegen,1-4,1-1,Feyenoord
+Sun Jan 23 2022,Heracles,1-1,1-0,Go Ahead Eagles
+Sun Jan 23 2022,PSV Eindhoven,1-2,0-1,Ajax
+Sun Jan 23 2022,Sparta Rotterdam,0-3,0-1,Utrecht
+Sun Jan 23 2022,Waalwijk,2-1,2-0,For Sittard
+Sat Feb 5 2022,Utrecht,3-2,2-2,Cambuur
+Sat Feb 5 2022,For Sittard,2-0,1-0,Heerenveen
+Sat Feb 5 2022,PSV Eindhoven,1-2,1-1,AZ Alkmaar
+Sat Feb 5 2022,Zwolle,1-1,1-1,Nijmegen
+Sat Feb 5 2022,Twente,3-0,2-0,Vitesse
+Sun Feb 6 2022,Feyenoord,4-0,2-0,Sparta Rotterdam
+Sun Feb 6 2022,Groningen,2-1,1-0,Go Ahead Eagles
+Sun Feb 6 2022,Willem II,3-1,3-0,Waalwijk
+Sun Feb 6 2022,Ajax,3-0,1-0,Heracles
+Fri Feb 11 2022,Heracles,1-0,0-0,Utrecht
+Sat Feb 12 2022,Cambuur,3-4,2-2,Zwolle
+Sat Feb 12 2022,Groningen,0-1,0-0,For Sittard
+Sat Feb 12 2022,Vitesse,0-5,0-3,PSV Eindhoven
+Sun Feb 13 2022,Go Ahead Eagles,1-4,1-3,AZ Alkmaar
+Sun Feb 13 2022,Sparta Rotterdam,1-0,0-0,Willem II
+Sun Feb 13 2022,Heerenveen,0-1,0-1,Nijmegen
+Sun Feb 13 2022,Waalwijk,0-2,0-1,Feyenoord
+Sun Feb 13 2022,Ajax,5-0,1-0,Twente
+Sat Feb 19 2022,Nijmegen,1-1,0-1,Waalwijk
+Sat Feb 19 2022,Willem II,0-1,0-0,Ajax
+Sat Feb 19 2022,AZ Alkmaar,2-1,1-1,Heracles
+Sun Feb 20 2022,Zwolle,1-1,0-1,Groningen
+Sun Feb 20 2022,Feyenoord,3-1,2-1,Cambuur
+Sun Feb 20 2022,Twente,2-2,0-1,Go Ahead Eagles
+Sun Feb 20 2022,PSV Eindhoven,3-1,1-1,Heerenveen
+Sun Feb 20 2022,Utrecht,1-1,1-0,Vitesse
+Fri Feb 25 2022,Waalwijk,1-2,0-1,Twente
+Sat Feb 26 2022,Heracles,2-0,1-0,Zwolle
+Sat Feb 26 2022,Groningen,1-0,1-0,Willem II
+Sat Feb 26 2022,Cambuur,2-1,1-1,For Sittard
+Sun Feb 27 2022,AZ Alkmaar,2-1,2-0,Feyenoord
+Sun Feb 27 2022,Vitesse,4-1,0-0,Nijmegen
+Sun Feb 27 2022,Sparta Rotterdam,1-2,1-0,PSV Eindhoven
+Sun Feb 27 2022,Go Ahead Eagles,2-1,2-0,Ajax
+Sun Feb 27 2022,Heerenveen,1-2,0-0,Utrecht
+Sat Mar 5 2022,Willem II,0-0,0-0,Heerenveen
+Sat Mar 5 2022,Go Ahead Eagles,1-1,1-0,Utrecht
+Sat Mar 5 2022,Feyenoord,1-1,0-1,Groningen
+Sun Mar 6 2022,PSV Eindhoven,3-1,1-0,Heracles
+Sun Mar 6 2022,Twente,1-0,0-0,Cambuur
+Sun Mar 6 2022,Ajax,3-2,2-0,Waalwijk
+Sun Mar 6 2022,Nijmegen,1-3,1-1,AZ Alkmaar
+Sun Mar 6 2022,For Sittard,0-1,0-0,Zwolle
+Fri Mar 11 2022,Cambuur,2-3,0-2,Ajax
+Sat Mar 12 2022,Sparta Rotterdam,1-0,0-0,Go Ahead Eagles
+Sat Mar 12 2022,Groningen,4-3,2-3,Nijmegen
+Sat Mar 12 2022,Waalwijk,0-0,0-0,Heerenveen
+Sun Mar 13 2022,For Sittard,1-0,0-0,Willem II
+Sun Mar 13 2022,Heracles,0-0,0-0,Vitesse
+Sun Mar 13 2022,Utrecht,0-1,0-0,PSV Eindhoven
+Sun Mar 13 2022,Zwolle,1-2,1-0,Feyenoord
+Sun Mar 13 2022,AZ Alkmaar,0-1,0-0,Twente
+Fri Mar 18 2022,Heerenveen,2-0,0-0,Heracles
+Sat Mar 19 2022,Go Ahead Eagles,3-0,2-0,Cambuur
+Sat Mar 19 2022,Twente,1-0,1-0,Zwolle
+Sat Mar 19 2022,Nijmegen,0-0,0-0,Sparta Rotterdam
+Sun Mar 20 2022,Utrecht,1-3,0-2,Groningen
+Sun Mar 20 2022,Ajax,3-2,1-2,Feyenoord
+Sun Mar 20 2022,PSV Eindhoven,5-0,3-0,For Sittard
+Sun Mar 20 2022,Vitesse,1-2,1-1,Waalwijk
+Sun Mar 20 2022,Willem II,2-2,2-1,AZ Alkmaar
+Sat Apr 2 2022,Groningen,1-3,1-2,Ajax
+Sat Apr 2 2022,Twente,3-3,3-1,PSV Eindhoven
+Sat Apr 2 2022,AZ Alkmaar,3-1,1-0,Vitesse
+Sat Apr 2 2022,Waalwijk,1-1,0-1,Utrecht
+Sat Apr 2 2022,Feyenoord,2-0,0-0,Willem II
+Sun Apr 3 2022,Zwolle,0-1,0-0,Go Ahead Eagles
+Sun Apr 3 2022,For Sittard,0-2,0-0,Heracles
+Sun Apr 3 2022,Sparta Rotterdam,1-1,0-0,Heerenveen
+Sun Apr 3 2022,Cambuur,1-2,1-1,Nijmegen
+Fri Apr 8 2022,Go Ahead Eagles,4-0,2-0,Willem II
+Sat Apr 9 2022,Utrecht,1-1,1-0,For Sittard
+Sat Apr 9 2022,Ajax,2-1,0-1,Sparta Rotterdam
+Sat Apr 9 2022,Nijmegen,0-2,0-0,Twente
+Sun Apr 10 2022,Heerenveen,3-1,1-1,Groningen
+Sun Apr 10 2022,PSV Eindhoven,2-0,1-0,Waalwijk
+Sun Apr 10 2022,Vitesse,1-0,1-0,Cambuur
+Sun Apr 10 2022,Heracles,1-4,1-3,Feyenoord
+Sun Apr 10 2022,Zwolle,2-1,0-0,AZ Alkmaar
+Sat Apr 16 2022,For Sittard,3-0,2-0,Sparta Rotterdam
+Tue Apr 19 2022,Vitesse,0-1,0-1,Sparta Rotterdam
+Fri Apr 22 2022,Twente,2-0,1-0,Sparta Rotterdam
+Sat Apr 23 2022,Nijmegen,0-1,0-0,Ajax
+Sat Apr 23 2022,AZ Alkmaar,2-1,1-1,Heerenveen
+Sat Apr 23 2022,Waalwijk,0-2,0-1,Zwolle
+Sat Apr 23 2022,Cambuur,1-2,1-1,PSV Eindhoven
+Sun Apr 24 2022,Willem II,1-0,1-0,Vitesse
+Sun Apr 24 2022,Feyenoord,2-1,0-0,Utrecht
+Sun Apr 24 2022,Groningen,0-1,0-1,Heracles
+Sun Apr 24 2022,For Sittard,1-0,1-0,Go Ahead Eagles
+Fri Apr 29 2022,Utrecht,1-0,0-0,Nijmegen
+Sat Apr 30 2022,Ajax,3-0,1-0,Zwolle
+Sat Apr 30 2022,Heracles,1-1,1-1,Twente
+Sat Apr 30 2022,Sparta Rotterdam,1-1,0-0,AZ Alkmaar
+Sun May 1 2022,Heerenveen,3-3,2-1,Cambuur
+Sun May 1 2022,Go Ahead Eagles,1-2,1-1,Vitesse
+Sun May 1 2022,PSV Eindhoven,4-2,3-1,Willem II
+Sun May 1 2022,For Sittard,1-3,0-2,Feyenoord
+Sun May 1 2022,Waalwijk,3-1,3-0,Groningen
+Fri May 6 2022,Cambuur,1-1,0-0,Waalwijk
+Sat May 7 2022,Twente,1-2,1-2,For Sittard
+Sat May 7 2022,Willem II,2-0,2-0,Heracles
+Sat May 7 2022,Zwolle,1-1,0-1,Utrecht
+Sat May 7 2022,Groningen,1-2,0-1,Sparta Rotterdam
+Sun May 8 2022,Nijmegen,1-0,0-0,Go Ahead Eagles
+Sun May 8 2022,AZ Alkmaar,2-2,0-1,Ajax
+Sun May 8 2022,Vitesse,1-2,1-0,Heerenveen
+Sun May 8 2022,Feyenoord,2-2,0-2,PSV Eindhoven
+Wed May 11 2022,Ajax,5-0,3-0,Heerenveen
+Wed May 11 2022,Cambuur,1-1,1-0,Willem II
+Wed May 11 2022,For Sittard,1-2,1-1,Vitesse
+Wed May 11 2022,Go Ahead Eagles,0-1,0-0,Feyenoord
+Wed May 11 2022,PSV Eindhoven,3-2,2-0,Nijmegen
+Wed May 11 2022,Sparta Rotterdam,2-0,2-0,Zwolle
+Wed May 11 2022,Twente,3-0,1-0,Groningen
+Wed May 11 2022,Utrecht,2-2,1-2,AZ Alkmaar
+Wed May 11 2022,Waalwijk,2-0,1-0,Heracles
+Sun May 15 2022,AZ Alkmaar,1-3,1-1,Waalwijk
+Sun May 15 2022,Feyenoord,1-2,0-2,Twente
+Sun May 15 2022,Groningen,2-3,0-1,Cambuur
+Sun May 15 2022,Heerenveen,3-1,1-0,Go Ahead Eagles
+Sun May 15 2022,Heracles,1-3,0-1,Sparta Rotterdam
+Sun May 15 2022,Nijmegen,0-1,0-1,For Sittard
+Sun May 15 2022,Vitesse,2-2,0-1,Ajax
+Sun May 15 2022,Willem II,3-0,1-0,Utrecht
+Sun May 15 2022,Zwolle,1-2,1-1,PSV Eindhoven

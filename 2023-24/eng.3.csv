@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 5 2023,Barnsley,7-0,2-0,Port Vale
+Sat Aug 5 2023,Blackpool,2-0,2-0,Burton
+Sat Aug 5 2023,Bolton,3-0,1-0,Lincoln
+Sat Aug 5 2023,Cambridge,2-0,2-0,Oxford
+Sat Aug 5 2023,Carlisle,1-1,1-1,Fleetwood Town
+Sat Aug 5 2023,Charlton,1-0,1-0,Leyton Orient
+Sat Aug 5 2023,Derby,1-2,0-1,Wigan
+Sat Aug 5 2023,Northampton,0-1,0-0,Stevenage
+Sat Aug 5 2023,Portsmouth,1-1,0-1,Bristol Rvs
+Sat Aug 5 2023,Reading,0-1,0-1,Peterboro
+Sat Aug 5 2023,Shrewsbury,1-0,0-0,Cheltenham
+Sat Aug 5 2023,Wycombe,0-3,0-2,Exeter
+Sat Aug 12 2023,Bristol Rvs,1-1,0-1,Barnsley
+Sat Aug 12 2023,Burton,0-3,0-1,Derby
+Sat Aug 12 2023,Cheltenham,0-3,0-3,Bolton
+Sat Aug 12 2023,Exeter,0-0,0-0,Blackpool
+Sat Aug 12 2023,Fleetwood Town,0-2,0-1,Cambridge
+Sat Aug 12 2023,Leyton Orient,0-4,0-2,Portsmouth
+Sat Aug 12 2023,Lincoln,3-0,0-0,Wycombe
+Sat Aug 12 2023,Oxford,1-0,0-0,Carlisle
+Sat Aug 12 2023,Peterboro,1-0,1-0,Charlton
+Sat Aug 12 2023,Port Vale,1-0,0-0,Reading
+Sat Aug 12 2023,Stevenage,2-0,0-0,Shrewsbury
+Sat Aug 12 2023,Wigan,2-1,0-1,Northampton
+Tue Aug 15 2023,Barnsley,1-3,0-0,Peterboro
+Tue Aug 15 2023,Blackpool,0-0,0-0,Port Vale
+Tue Aug 15 2023,Bolton,3-1,3-0,Fleetwood Town
+Tue Aug 15 2023,Cambridge,1-2,0-1,Stevenage
+Tue Aug 15 2023,Carlisle,1-1,0-1,Wigan
+Tue Aug 15 2023,Charlton,1-2,0-0,Bristol Rvs
+Tue Aug 15 2023,Derby,1-2,0-1,Oxford
+Tue Aug 15 2023,Northampton,2-2,0-1,Lincoln
+Tue Aug 15 2023,Shrewsbury,2-1,2-0,Burton
+Tue Aug 15 2023,Wycombe,3-2,1-1,Leyton Orient
+Tue Aug 15 2023,Portsmouth,1-0,0-0,Exeter
+Tue Aug 15 2023,Reading,1-0,1-0,Cheltenham
+Sat Aug 19 2023,Bolton,0-4,0-3,Wigan
+Sat Aug 19 2023,Barnsley,1-3,0-1,Oxford
+Sat Aug 19 2023,Blackpool,0-0,0-0,Leyton Orient
+Sat Aug 19 2023,Cambridge,2-0,0-0,Bristol Rvs
+Sat Aug 19 2023,Carlisle,0-2,0-0,Exeter
+Sat Aug 19 2023,Charlton,2-3,1-0,Port Vale
+Sat Aug 19 2023,Derby,1-0,1-0,Fleetwood Town
+Sat Aug 19 2023,Northampton,1-0,0-0,Peterboro
+Sat Aug 19 2023,Portsmouth,0-0,0-0,Cheltenham
+Sat Aug 19 2023,Reading,2-0,1-0,Stevenage
+Sat Aug 19 2023,Shrewsbury,0-1,0-0,Lincoln
+Sat Aug 19 2023,Wycombe,0-0,0-0,Burton
+Sat Aug 26 2023,Bristol Rvs,1-2,0-1,Wycombe
+Sat Aug 26 2023,Burton,1-1,0-0,Bolton
+Sat Aug 26 2023,Cheltenham,0-1,0-0,Northampton
+Sat Aug 26 2023,Exeter,2-1,1-1,Reading
+Sat Aug 26 2023,Fleetwood Town,0-1,0-1,Shrewsbury
+Sat Aug 26 2023,Leyton Orient,2-0,1-0,Cambridge
+Sat Aug 26 2023,Lincoln,3-0,2-0,Blackpool
+Sat Aug 26 2023,Oxford,2-1,1-0,Charlton
+Sat Aug 26 2023,Peterboro,2-4,1-4,Derby
+Sat Aug 26 2023,Port Vale,1-0,0-0,Carlisle
+Sat Aug 26 2023,Stevenage,0-0,0-0,Portsmouth
+Sat Aug 26 2023,Wigan,0-2,0-1,Barnsley
+Sat Sep 2 2023,Blackpool,2-1,1-0,Wigan
+Sat Sep 2 2023,Bolton,2-1,1-1,Derby
+Sat Sep 2 2023,Bristol Rvs,1-1,0-0,Lincoln
+Sat Sep 2 2023,Burton,0-1,0-0,Exeter
+Sat Sep 2 2023,Carlisle,2-0,0-0,Shrewsbury
+Sat Sep 2 2023,Charlton,2-1,1-1,Fleetwood Town
+Sat Sep 2 2023,Cheltenham,0-2,0-0,Barnsley
+Sat Sep 2 2023,Leyton Orient,0-3,0-2,Stevenage
+Sat Sep 2 2023,Northampton,0-1,0-1,Wycombe
+Sat Sep 2 2023,Oxford,1-2,0-0,Port Vale
+Sat Sep 2 2023,Portsmouth,3-1,2-1,Peterboro
+Mon Sep 4 2023,Cambridge,1-0,0-0,Reading
+Sat Sep 9 2023,Exeter,1-2,0-0,Leyton Orient
+Sat Sep 9 2023,Stevenage,2-2,1-1,Carlisle
+Sat Sep 16 2023,Barnsley,2-0,1-0,Burton
+Sat Sep 16 2023,Derby,1-1,0-0,Portsmouth
+Sat Sep 16 2023,Exeter,1-0,0-0,Cheltenham
+Sat Sep 16 2023,Fleetwood Town,0-3,0-2,Oxford
+Sat Sep 16 2023,Lincoln,1-1,0-1,Carlisle
+Sat Sep 16 2023,Peterboro,1-1,1-1,Leyton Orient
+Sat Sep 16 2023,Port Vale,1-0,0-0,Northampton
+Sat Sep 16 2023,Reading,2-1,0-1,Bolton
+Sat Sep 16 2023,Shrewsbury,0-2,0-0,Bristol Rvs
+Sat Sep 16 2023,Stevenage,1-1,1-0,Charlton
+Sat Sep 16 2023,Wigan,2-1,0-0,Cambridge
+Sat Sep 16 2023,Wycombe,2-0,1-0,Blackpool
+Tue Sep 19 2023,Barnsley,2-3,0-3,Portsmouth
+Tue Sep 19 2023,Peterboro,3-0,0-0,Cheltenham
+Tue Sep 19 2023,Port Vale,2-3,1-1,Burton
+Sat Sep 23 2023,Blackpool,4-1,3-0,Reading
+Sat Sep 23 2023,Bolton,1-1,1-1,Peterboro
+Sat Sep 23 2023,Bristol Rvs,4-1,2-1,Wigan
+Sat Sep 23 2023,Burton,1-1,1-1,Fleetwood Town
+Sat Sep 23 2023,Cambridge,1-1,0-1,Port Vale
+Sat Sep 23 2023,Carlisle,0-2,0-1,Derby
+Sat Sep 23 2023,Charlton,3-1,1-0,Wycombe
+Sat Sep 23 2023,Cheltenham,0-3,0-1,Stevenage
+Sat Sep 23 2023,Leyton Orient,1-0,1-0,Shrewsbury
+Sat Sep 23 2023,Northampton,1-2,0-1,Barnsley
+Sat Sep 23 2023,Oxford,3-0,1-0,Exeter
+Sat Sep 23 2023,Portsmouth,2-1,2-1,Lincoln
+Sat Sep 30 2023,Barnsley,0-1,0-1,Blackpool
+Sat Sep 30 2023,Derby,0-0,0-0,Cambridge
+Sat Sep 30 2023,Exeter,0-2,0-1,Northampton
+Sat Sep 30 2023,Fleetwood Town,1-0,0-0,Leyton Orient
+Sat Sep 30 2023,Lincoln,2-0,2-0,Cheltenham
+Sat Sep 30 2023,Peterboro,2-0,1-0,Bristol Rvs
+Sat Sep 30 2023,Port Vale,0-1,0-1,Bolton
+Sat Sep 30 2023,Reading,0-0,0-0,Burton
+Sat Sep 30 2023,Shrewsbury,0-0,0-0,Charlton
+Sat Sep 30 2023,Stevenage,1-3,1-1,Oxford
+Sat Sep 30 2023,Wigan,1-2,1-2,Portsmouth
+Sat Sep 30 2023,Wycombe,2-0,1-0,Carlisle
+Tue Oct 3 2023,Blackpool,1-3,0-0,Derby
+Tue Oct 3 2023,Bolton,3-2,1-1,Stevenage
+Tue Oct 3 2023,Bristol Rvs,3-0,2-0,Port Vale
+Tue Oct 3 2023,Burton,2-1,0-1,Wigan
+Tue Oct 3 2023,Cambridge,0-4,0-2,Barnsley
+Tue Oct 3 2023,Carlisle,1-1,0-0,Peterboro
+Tue Oct 3 2023,Charlton,4-1,1-1,Exeter
+Tue Oct 3 2023,Cheltenham,0-2,0-1,Fleetwood Town
+Tue Oct 3 2023,Northampton,3-1,2-0,Reading
+Tue Oct 3 2023,Oxford,3-0,1-0,Shrewsbury
+Tue Oct 3 2023,Portsmouth,2-1,0-1,Wycombe
+Sat Oct 7 2023,Oxford,2-1,1-0,Bristol Rvs
+Sat Oct 7 2023,Bolton,1-3,1-1,Carlisle
+Sat Oct 7 2023,Charlton,2-2,0-1,Blackpool
+Sat Oct 7 2023,Cheltenham,1-1,1-1,Derby
+Sat Oct 7 2023,Exeter,0-1,0-0,Barnsley
+Sat Oct 7 2023,Fleetwood Town,1-4,0-3,Wycombe
+Sat Oct 7 2023,Leyton Orient,2-1,1-1,Reading
+Sat Oct 7 2023,Peterboro,2-0,0-0,Lincoln
+Sat Oct 7 2023,Portsmouth,2-0,0-0,Port Vale
+Sat Oct 7 2023,Shrewsbury,1-0,0-0,Northampton
+Sat Oct 7 2023,Stevenage,1-0,1-0,Wigan
+Mon Oct 9 2023,Burton,2-1,2-0,Cambridge
+Sat Oct 14 2023,Blackpool,3-0,1-0,Stevenage
+Sat Oct 14 2023,Cambridge,1-1,0-0,Shrewsbury
+Sat Oct 14 2023,Carlisle,0-1,0-1,Leyton Orient
+Sat Oct 14 2023,Lincoln,0-1,0-0,Burton
+Sat Oct 21 2023,Bolton,2-1,2-0,Northampton
+Sat Oct 21 2023,Burton,4-1,2-1,Bristol Rvs
+Sat Oct 21 2023,Charlton,4-0,0-0,Reading
+Sat Oct 21 2023,Cheltenham,1-0,1-0,Cambridge
+Sat Oct 21 2023,Exeter,0-2,0-1,Wigan
+Sat Oct 21 2023,Fleetwood Town,0-1,0-1,Lincoln
+Sat Oct 21 2023,Leyton Orient,1-1,1-0,Barnsley
+Sat Oct 21 2023,Oxford,1-1,1-0,Blackpool
+Sat Oct 21 2023,Peterboro,2-2,2-1,Wycombe
+Sat Oct 21 2023,Portsmouth,1-0,0-0,Carlisle
+Sat Oct 21 2023,Shrewsbury,1-0,0-0,Derby
+Sat Oct 21 2023,Stevenage,0-0,0-0,Port Vale
+Tue Oct 24 2023,Barnsley,3-0,2-0,Shrewsbury
+Tue Oct 24 2023,Blackpool,3-2,3-1,Cheltenham
+Tue Oct 24 2023,Bristol Rvs,1-1,0-1,Stevenage
+Tue Oct 24 2023,Cambridge,0-0,0-0,Portsmouth
+Tue Oct 24 2023,Carlisle,2-1,0-1,Burton
+Tue Oct 24 2023,Derby,2-0,1-0,Exeter
+Tue Oct 24 2023,Lincoln,3-1,1-1,Charlton
+Tue Oct 24 2023,Northampton,2-2,0-1,Leyton Orient
+Tue Oct 24 2023,Port Vale,0-1,0-1,Peterboro
+Tue Oct 24 2023,Wigan,2-0,1-0,Oxford
+Tue Oct 24 2023,Wycombe,2-4,0-2,Bolton
+Tue Oct 24 2023,Reading,1-2,0-1,Fleetwood Town
+Sat Oct 28 2023,Barnsley,2-2,1-2,Fleetwood Town
+Sat Oct 28 2023,Blackpool,2-4,0-1,Peterboro
+Sat Oct 28 2023,Bristol Rvs,2-1,2-0,Northampton
+Sat Oct 28 2023,Burton,0-0,0-0,Leyton Orient
+Sat Oct 28 2023,Cambridge,1-0,0-0,Carlisle
+Sat Oct 28 2023,Charlton,0-2,0-2,Bolton
+Sat Oct 28 2023,Exeter,1-1,0-1,Lincoln
+Sat Oct 28 2023,Oxford,2-2,1-0,Wycombe
+Sat Oct 28 2023,Port Vale,1-2,1-1,Cheltenham
+Sat Oct 28 2023,Reading,2-3,2-2,Portsmouth
+Sat Oct 28 2023,Stevenage,3-1,2-1,Derby
+Sat Oct 28 2023,Wigan,2-0,1-0,Shrewsbury
+Tue Oct 31 2023,Derby,4-0,3-0,Northampton
+Tue Oct 31 2023,Lincoln,0-2,0-1,Oxford
+Tue Oct 31 2023,Wigan,2-3,0-3,Charlton
+Tue Oct 31 2023,Wycombe,0-0,0-0,Cambridge
+Wed Nov 1 2023,Fleetwood Town,3-3,2-0,Blackpool
+Tue Nov 7 2023,Shrewsbury,0-2,0-0,Bolton
+Tue Nov 7 2023,Wigan,2-1,1-0,Peterboro
+Tue Nov 7 2023,Reading,1-1,1-0,Bristol Rvs
+Sat Nov 11 2023,Peterboro,5-0,3-0,Cambridge
+Sat Nov 11 2023,Bolton,1-0,0-0,Blackpool
+Sat Nov 11 2023,Carlisle,0-1,0-1,Bristol Rvs
+Sat Nov 11 2023,Cheltenham,1-1,1-1,Wigan
+Sat Nov 11 2023,Derby,3-0,1-0,Barnsley
+Sat Nov 11 2023,Fleetwood Town,3-0,3-0,Exeter
+Sat Nov 11 2023,Leyton Orient,2-3,0-2,Oxford
+Sat Nov 11 2023,Lincoln,1-1,0-1,Port Vale
+Sat Nov 11 2023,Northampton,2-0,0-0,Burton
+Sat Nov 11 2023,Portsmouth,2-2,1-0,Charlton
+Sat Nov 11 2023,Shrewsbury,3-2,1-2,Reading
+Sat Nov 11 2023,Wycombe,0-1,0-1,Stevenage
+Sat Nov 18 2023,Blackpool,4-0,2-0,Shrewsbury
+Sat Nov 18 2023,Stevenage,1-0,0-0,Lincoln
+Tue Nov 21 2023,Leyton Orient,0-1,0-0,Lincoln
+Sat Nov 25 2023,Bolton,7-0,2-0,Exeter
+Sat Nov 25 2023,Carlisle,1-1,0-0,Charlton
+Sat Nov 25 2023,Cheltenham,2-0,1-0,Oxford
+Sat Nov 25 2023,Derby,2-1,0-0,Bristol Rvs
+Sat Nov 25 2023,Fleetwood Town,0-3,0-1,Stevenage
+Sat Nov 25 2023,Leyton Orient,1-1,1-1,Wigan
+Sat Nov 25 2023,Lincoln,2-2,1-0,Barnsley
+Sat Nov 25 2023,Northampton,2-1,0-0,Cambridge
+Sat Nov 25 2023,Peterboro,4-0,2-0,Burton
+Sat Nov 25 2023,Portsmouth,0-4,0-1,Blackpool
+Sat Nov 25 2023,Shrewsbury,2-1,1-0,Port Vale
+Sat Nov 25 2023,Wycombe,1-2,1-2,Reading
+Tue Nov 28 2023,Barnsley,1-0,0-0,Wycombe
+Tue Nov 28 2023,Blackpool,1-2,0-1,Northampton
+Tue Nov 28 2023,Bristol Rvs,1-1,1-0,Leyton Orient
+Tue Nov 28 2023,Burton,0-2,0-1,Portsmouth
+Tue Nov 28 2023,Cambridge,0-3,0-2,Lincoln
+Tue Nov 28 2023,Charlton,2-1,1-1,Cheltenham
+Tue Nov 28 2023,Exeter,0-0,0-0,Shrewsbury
+Tue Nov 28 2023,Oxford,0-0,0-0,Bolton
+Tue Nov 28 2023,Port Vale,0-1,0-0,Derby
+Tue Nov 28 2023,Stevenage,2-2,2-0,Peterboro
+Tue Nov 28 2023,Wigan,3-0,2-0,Fleetwood Town
+Tue Nov 28 2023,Reading,5-1,3-1,Carlisle
+Sat Dec 2 2023,Northampton,0-3,0-2,Portsmouth
+Sat Dec 9 2023,Blackpool,3-0,1-0,Carlisle
+Sat Dec 9 2023,Bristol Rvs,1-1,0-1,Cheltenham
+Sat Dec 9 2023,Burton,1-2,1-1,Stevenage
+Sat Dec 9 2023,Charlton,2-2,0-0,Cambridge
+Sat Dec 9 2023,Exeter,0-1,0-1,Port Vale
+Sat Dec 9 2023,Leyton Orient,0-3,0-1,Derby
+Sat Dec 9 2023,Northampton,3-0,2-0,Fleetwood Town
+Sat Dec 9 2023,Peterboro,3-0,2-0,Oxford
+Sat Dec 9 2023,Reading,1-3,1-1,Barnsley
+Sat Dec 9 2023,Wigan,0-0,0-0,Lincoln
+Sat Dec 9 2023,Wycombe,0-1,0-1,Shrewsbury
+Mon Dec 11 2023,Portsmouth,2-0,1-0,Bolton
+Tue Dec 12 2023,Reading,1-1,1-1,Oxford
+Sat Dec 16 2023,Barnsley,1-1,1-0,Charlton
+Sat Dec 16 2023,Bolton,1-2,0-2,Bristol Rvs
+Sat Dec 16 2023,Cambridge,2-1,2-1,Blackpool
+Sat Dec 16 2023,Carlisle,2-2,0-1,Northampton
+Sat Dec 16 2023,Cheltenham,1-2,0-0,Leyton Orient
+Sat Dec 16 2023,Derby,1-1,0-0,Wycombe
+Sat Dec 16 2023,Fleetwood Town,0-1,0-1,Peterboro
+Sat Dec 16 2023,Lincoln,1-1,1-0,Reading
+Sat Dec 16 2023,Oxford,3-0,1-0,Burton
+Sat Dec 16 2023,Port Vale,3-2,2-0,Wigan
+Sat Dec 16 2023,Shrewsbury,0-3,0-1,Portsmouth
+Sat Dec 16 2023,Stevenage,1-1,1-0,Exeter
+Thu Dec 21 2023,Derby,3-1,1-1,Lincoln
+Fri Dec 22 2023,Cambridge,2-0,1-0,Exeter
+Sat Dec 23 2023,Barnsley,2-1,1-1,Stevenage
+Sat Dec 23 2023,Blackpool,3-1,1-1,Bristol Rvs
+Sat Dec 23 2023,Bolton,3-2,3-0,Leyton Orient
+Sat Dec 23 2023,Carlisle,0-1,0-1,Cheltenham
+Sat Dec 23 2023,Charlton,1-1,1-0,Burton
+Sat Dec 23 2023,Northampton,2-1,0-0,Oxford
+Sat Dec 23 2023,Portsmouth,1-1,1-0,Fleetwood Town
+Sat Dec 23 2023,Reading,2-0,1-0,Wigan
+Sat Dec 23 2023,Shrewsbury,1-2,0-0,Peterboro
+Sat Dec 23 2023,Wycombe,1-1,0-0,Port Vale
+Tue Dec 26 2023,Leyton Orient,1-0,0-0,Charlton
+Tue Dec 26 2023,Bristol Rvs,2-1,0-0,Portsmouth
+Tue Dec 26 2023,Burton,1-0,1-0,Blackpool
+Tue Dec 26 2023,Cheltenham,2-0,1-0,Shrewsbury
+Tue Dec 26 2023,Exeter,1-0,0-0,Wycombe
+Tue Dec 26 2023,Fleetwood Town,1-1,1-1,Carlisle
+Tue Dec 26 2023,Lincoln,0-1,0-0,Bolton
+Tue Dec 26 2023,Oxford,2-1,0-1,Cambridge
+Tue Dec 26 2023,Peterboro,2-2,1-0,Reading
+Tue Dec 26 2023,Port Vale,2-3,0-3,Barnsley
+Tue Dec 26 2023,Stevenage,3-0,2-0,Northampton
+Tue Dec 26 2023,Wigan,0-1,0-1,Derby
+Fri Dec 29 2023,Wigan,2-0,2-0,Carlisle
+Fri Dec 29 2023,Bristol Rvs,2-1,0-0,Charlton
+Fri Dec 29 2023,Burton,1-0,1-0,Shrewsbury
+Fri Dec 29 2023,Cheltenham,2-2,2-2,Reading
+Fri Dec 29 2023,Exeter,0-0,0-0,Portsmouth
+Fri Dec 29 2023,Fleetwood Town,0-2,0-0,Bolton
+Fri Dec 29 2023,Leyton Orient,0-0,0-0,Wycombe
+Fri Dec 29 2023,Lincoln,1-2,0-1,Northampton
+Fri Dec 29 2023,Oxford,2-3,2-1,Derby
+Fri Dec 29 2023,Peterboro,2-2,1-2,Barnsley
+Fri Dec 29 2023,Port Vale,3-0,1-0,Blackpool
+Mon Jan 1 2024,Barnsley,1-1,1-0,Wigan
+Mon Jan 1 2024,Blackpool,2-0,1-0,Lincoln
+Mon Jan 1 2024,Bolton,1-0,0-0,Burton
+Mon Jan 1 2024,Cambridge,0-2,0-0,Leyton Orient
+Mon Jan 1 2024,Carlisle,2-1,0-0,Port Vale
+Mon Jan 1 2024,Charlton,1-2,1-1,Oxford
+Mon Jan 1 2024,Derby,2-3,1-1,Peterboro
+Mon Jan 1 2024,Northampton,1-0,0-0,Cheltenham
+Mon Jan 1 2024,Portsmouth,2-1,2-1,Stevenage
+Mon Jan 1 2024,Reading,3-2,2-1,Exeter
+Mon Jan 1 2024,Shrewsbury,3-1,2-0,Fleetwood Town
+Mon Jan 1 2024,Wycombe,3-2,1-0,Bristol Rvs
+Sat Jan 6 2024,Fleetwood Town,1-3,0-2,Derby
+Sat Jan 6 2024,Burton,1-1,0-0,Wycombe
+Sat Jan 6 2024,Cheltenham,2-1,0-0,Portsmouth
+Sat Jan 6 2024,Exeter,2-1,0-0,Carlisle
+Sat Jan 6 2024,Port Vale,3-3,1-1,Charlton
+Sat Jan 13 2024,Barnsley,2-1,1-0,Bristol Rvs
+Sat Jan 13 2024,Blackpool,2-0,1-0,Exeter
+Sat Jan 13 2024,Cambridge,2-1,0-0,Fleetwood Town
+Sat Jan 13 2024,Carlisle,1-3,0-1,Oxford
+Sat Jan 13 2024,Charlton,1-2,0-1,Peterboro
+Sat Jan 13 2024,Northampton,1-1,1-0,Wigan
+Sat Jan 13 2024,Portsmouth,0-3,0-3,Leyton Orient
+Sat Jan 13 2024,Shrewsbury,0-1,0-0,Stevenage
+Sat Jan 13 2024,Wycombe,1-1,1-0,Lincoln
+Mon Jan 15 2024,Derby,3-2,1-0,Burton
+Tue Jan 16 2024,Barnsley,2-1,0-1,Carlisle
+Sat Jan 20 2024,Bristol Rvs,1-2,1-2,Blackpool
+Sat Jan 20 2024,Burton,2-0,1-0,Charlton
+Sat Jan 20 2024,Exeter,0-0,0-0,Cambridge
+Sat Jan 20 2024,Fleetwood Town,0-1,0-1,Portsmouth
+Sat Jan 20 2024,Leyton Orient,1-0,0-0,Bolton
+Sat Jan 20 2024,Lincoln,0-0,0-0,Derby
+Sat Jan 20 2024,Peterboro,2-1,0-1,Shrewsbury
+Sat Jan 20 2024,Wigan,1-0,1-0,Reading
+Tue Jan 23 2024,Bolton,1-0,1-0,Cheltenham
+Tue Jan 23 2024,Bristol Rvs,0-1,0-1,Exeter
+Tue Jan 23 2024,Charlton,2-3,2-2,Northampton
+Tue Jan 23 2024,Oxford,0-1,0-1,Barnsley
+Tue Jan 23 2024,Wigan,1-0,0-0,Wycombe
+Tue Jan 23 2024,Reading,1-0,0-0,Derby
+Sat Jan 27 2024,Barnsley,1-2,0-2,Exeter
+Sat Jan 27 2024,Blackpool,1-1,0-0,Charlton
+Sat Jan 27 2024,Bristol Rvs,3-1,2-0,Oxford
+Sat Jan 27 2024,Cambridge,0-0,0-0,Burton
+Sat Jan 27 2024,Carlisle,1-4,0-2,Bolton
+Sat Jan 27 2024,Derby,2-1,0-0,Cheltenham
+Sat Jan 27 2024,Lincoln,0-0,0-0,Peterboro
+Sat Jan 27 2024,Northampton,0-2,0-0,Shrewsbury
+Sat Jan 27 2024,Port Vale,0-1,0-0,Portsmouth
+Sat Jan 27 2024,Reading,1-1,1-1,Leyton Orient
+Sat Jan 27 2024,Wigan,2-3,2-1,Stevenage
+Sat Jan 27 2024,Wycombe,2-2,0-2,Fleetwood Town
+Tue Jan 30 2024,Oxford,2-2,1-0,Portsmouth
+Sat Feb 3 2024,Oxford,1-1,1-0,Reading
+Sat Feb 3 2024,Bolton,1-1,0-1,Barnsley
+Sat Feb 3 2024,Burton,0-1,0-0,Lincoln
+Sat Feb 3 2024,Charlton,0-1,0-1,Derby
+Sat Feb 3 2024,Cheltenham,1-3,0-2,Wycombe
+Sat Feb 3 2024,Exeter,0-1,0-1,Bristol Rvs
+Sat Feb 3 2024,Fleetwood Town,3-0,1-0,Port Vale
+Sat Feb 3 2024,Leyton Orient,3-2,2-1,Carlisle
+Sat Feb 3 2024,Peterboro,2-3,0-1,Wigan
+Sat Feb 3 2024,Portsmouth,4-1,2-0,Northampton
+Sat Feb 3 2024,Shrewsbury,1-2,1-1,Cambridge
+Sat Feb 3 2024,Stevenage,1-0,0-0,Blackpool
+Tue Feb 6 2024,Bristol Rvs,0-2,0-1,Fleetwood Town
+Tue Feb 6 2024,Exeter,2-1,0-1,Peterboro
+Tue Feb 6 2024,Port Vale,0-1,0-0,Leyton Orient
+Tue Feb 6 2024,Stevenage,0-1,0-1,Reading
+Sat Feb 10 2024,Barnsley,2-1,0-1,Leyton Orient
+Sat Feb 10 2024,Blackpool,1-1,1-1,Oxford
+Sat Feb 10 2024,Bristol Rvs,1-2,0-1,Burton
+Sat Feb 10 2024,Cambridge,0-1,0-0,Cheltenham
+Sat Feb 10 2024,Carlisle,0-1,0-0,Portsmouth
+Sat Feb 10 2024,Derby,1-1,0-0,Shrewsbury
+Sat Feb 10 2024,Lincoln,2-1,0-1,Fleetwood Town
+Sat Feb 10 2024,Northampton,1-1,1-0,Bolton
+Sat Feb 10 2024,Port Vale,2-2,1-0,Stevenage
+Sat Feb 10 2024,Reading,2-0,0-0,Charlton
+Sat Feb 10 2024,Wigan,1-2,0-1,Exeter
+Sat Feb 10 2024,Wycombe,5-2,2-0,Peterboro
+Tue Feb 13 2024,Bolton,2-1,1-0,Wycombe
+Tue Feb 13 2024,Charlton,1-1,0-1,Lincoln
+Tue Feb 13 2024,Cheltenham,2-0,1-0,Blackpool
+Tue Feb 13 2024,Exeter,0-3,0-1,Derby
+Tue Feb 13 2024,Fleetwood Town,1-1,0-0,Reading
+Tue Feb 13 2024,Leyton Orient,4-3,1-1,Northampton
+Tue Feb 13 2024,Oxford,4-2,1-1,Wigan
+Tue Feb 13 2024,Portsmouth,3-1,1-1,Cambridge
+Tue Feb 13 2024,Shrewsbury,1-1,1-0,Barnsley
+Tue Feb 13 2024,Stevenage,2-3,2-1,Bristol Rvs
+Sat Feb 17 2024,Bolton,3-3,1-2,Charlton
+Sat Feb 17 2024,Carlisle,0-4,0-1,Cambridge
+Sat Feb 17 2024,Cheltenham,3-2,1-1,Port Vale
+Sat Feb 17 2024,Derby,1-0,0-0,Stevenage
+Sat Feb 17 2024,Fleetwood Town,1-2,1-1,Barnsley
+Sat Feb 17 2024,Leyton Orient,1-2,1-0,Burton
+Sat Feb 17 2024,Lincoln,1-0,0-0,Exeter
+Sat Feb 17 2024,Northampton,3-1,2-0,Bristol Rvs
+Sat Feb 17 2024,Peterboro,1-2,1-0,Blackpool
+Sat Feb 17 2024,Portsmouth,4-1,1-0,Reading
+Sat Feb 17 2024,Shrewsbury,0-1,0-0,Wigan
+Sat Feb 17 2024,Wycombe,0-0,0-0,Oxford
+Tue Feb 20 2024,Cambridge,1-2,1-0,Bolton
+Tue Feb 20 2024,Oxford,2-2,1-1,Northampton
+Tue Feb 20 2024,Reading,2-0,0-0,Port Vale
+Fri Feb 23 2024,Wigan,1-1,0-1,Cheltenham
+Sat Feb 24 2024,Cambridge,0-1,0-0,Peterboro
+Sat Feb 24 2024,Barnsley,2-1,1-1,Derby
+Sat Feb 24 2024,Blackpool,4-1,2-1,Bolton
+Sat Feb 24 2024,Bristol Rvs,2-1,1-1,Carlisle
+Sat Feb 24 2024,Burton,0-2,0-2,Northampton
+Sat Feb 24 2024,Charlton,0-0,0-0,Portsmouth
+Sat Feb 24 2024,Exeter,1-1,1-0,Fleetwood Town
+Sat Feb 24 2024,Oxford,1-2,1-0,Leyton Orient
+Sat Feb 24 2024,Port Vale,0-2,0-1,Lincoln
+Sat Feb 24 2024,Reading,2-3,2-3,Shrewsbury
+Sat Feb 24 2024,Stevenage,1-0,1-0,Wycombe
+Tue Feb 27 2024,Burton,0-1,0-1,Carlisle
+Tue Feb 27 2024,Derby,1-2,1-0,Charlton
+Tue Feb 27 2024,Leyton Orient,1-0,0-0,Blackpool
+Tue Feb 27 2024,Lincoln,3-0,1-0,Shrewsbury
+Tue Feb 27 2024,Port Vale,2-2,2-0,Fleetwood Town
+Tue Feb 27 2024,Stevenage,1-0,1-0,Cambridge
+Tue Feb 27 2024,Wigan,1-0,0-0,Bolton
+Tue Feb 27 2024,Wycombe,2-0,0-0,Cheltenham
+Sat Mar 2 2024,Bolton,2-0,1-0,Cambridge
+Sat Mar 2 2024,Carlisle,1-3,0-2,Reading
+Sat Mar 2 2024,Cheltenham,0-0,0-0,Burton
+Sat Mar 2 2024,Derby,3-0,2-0,Port Vale
+Sat Mar 2 2024,Fleetwood Town,4-2,2-2,Wigan
+Sat Mar 2 2024,Leyton Orient,0-1,0-1,Bristol Rvs
+Sat Mar 2 2024,Lincoln,0-0,0-0,Stevenage
+Sat Mar 2 2024,Northampton,1-1,0-1,Charlton
+Sat Mar 2 2024,Peterboro,2-1,1-1,Exeter
+Sat Mar 2 2024,Portsmouth,2-1,1-1,Oxford
+Sat Mar 2 2024,Shrewsbury,0-2,0-1,Blackpool
+Sat Mar 2 2024,Wycombe,2-4,1-1,Barnsley
+Tue Mar 5 2024,Barnsley,2-2,1-0,Bolton
+Tue Mar 5 2024,Cheltenham,1-3,0-1,Charlton
+Tue Mar 5 2024,Peterboro,5-1,3-1,Northampton
+Sat Mar 9 2024,Barnsley,1-5,0-1,Lincoln
+Sat Mar 9 2024,Blackpool,0-0,0-0,Portsmouth
+Sat Mar 9 2024,Bristol Rvs,0-3,0-0,Derby
+Sat Mar 9 2024,Burton,1-3,0-0,Peterboro
+Sat Mar 9 2024,Cambridge,1-1,1-0,Northampton
+Sat Mar 9 2024,Charlton,3-2,1-1,Carlisle
+Sat Mar 9 2024,Exeter,2-2,0-1,Bolton
+Sat Mar 9 2024,Oxford,2-1,1-0,Cheltenham
+Sat Mar 9 2024,Port Vale,1-2,0-1,Shrewsbury
+Sat Mar 9 2024,Reading,1-2,0-1,Wycombe
+Sat Mar 9 2024,Stevenage,0-0,0-0,Fleetwood Town
+Sat Mar 9 2024,Wigan,1-0,0-0,Leyton Orient
+Tue Mar 12 2024,Carlisle,2-3,1-1,Barnsley
+Tue Mar 12 2024,Derby,2-1,0-0,Reading
+Tue Mar 12 2024,Fleetwood Town,0-0,0-0,Bristol Rvs
+Tue Mar 12 2024,Leyton Orient,0-0,0-0,Port Vale
+Tue Mar 12 2024,Lincoln,6-0,2-0,Cambridge
+Tue Mar 12 2024,Northampton,0-1,0-0,Blackpool
+Tue Mar 12 2024,Portsmouth,2-1,1-0,Burton
+Tue Mar 12 2024,Shrewsbury,0-3,0-3,Exeter
+Tue Mar 12 2024,Wycombe,1-0,1-0,Wigan
+Tue Mar 12 2024,Bolton,5-0,2-0,Oxford
+Wed Mar 13 2024,Peterboro,3-1,1-0,Stevenage
+Sat Mar 16 2024,Barnsley,0-0,0-0,Cheltenham
+Sat Mar 16 2024,Derby,1-0,0-0,Bolton
+Sat Mar 16 2024,Exeter,1-0,1-0,Burton
+Sat Mar 16 2024,Fleetwood Town,1-1,0-1,Charlton
+Sat Mar 16 2024,Lincoln,5-0,3-0,Bristol Rvs
+Sat Mar 16 2024,Peterboro,0-1,0-0,Portsmouth
+Sat Mar 16 2024,Port Vale,0-2,0-1,Oxford
+Sat Mar 16 2024,Reading,4-0,2-0,Cambridge
+Sat Mar 16 2024,Shrewsbury,1-0,1-0,Carlisle
+Sat Mar 16 2024,Stevenage,0-1,0-1,Leyton Orient
+Sat Mar 16 2024,Wigan,1-0,1-0,Blackpool
+Sat Mar 16 2024,Wycombe,2-0,0-0,Northampton
+Sat Mar 23 2024,Burton,0-1,0-0,Port Vale
+Sat Mar 23 2024,Carlisle,2-2,1-0,Stevenage
+Sat Mar 23 2024,Northampton,1-0,1-0,Derby
+Fri Mar 29 2024,Barnsley,0-2,0-1,Cambridge
+Fri Mar 29 2024,Derby,1-0,1-0,Blackpool
+Fri Mar 29 2024,Exeter,1-1,1-0,Charlton
+Fri Mar 29 2024,Fleetwood Town,1-2,0-1,Cheltenham
+Fri Mar 29 2024,Lincoln,1-0,0-0,Leyton Orient
+Fri Mar 29 2024,Peterboro,1-3,0-1,Carlisle
+Fri Mar 29 2024,Port Vale,2-0,1-0,Bristol Rvs
+Fri Mar 29 2024,Reading,1-0,0-0,Northampton
+Fri Mar 29 2024,Shrewsbury,1-1,0-0,Oxford
+Fri Mar 29 2024,Stevenage,0-0,0-0,Bolton
+Fri Mar 29 2024,Wigan,1-1,1-0,Burton
+Fri Mar 29 2024,Wycombe,1-3,1-2,Portsmouth
+Mon Apr 1 2024,Blackpool,0-0,0-0,Wycombe
+Mon Apr 1 2024,Bolton,5-2,2-1,Reading
+Mon Apr 1 2024,Bristol Rvs,0-0,0-0,Shrewsbury
+Mon Apr 1 2024,Burton,1-3,1-0,Barnsley
+Mon Apr 1 2024,Cambridge,3-1,1-0,Wigan
+Mon Apr 1 2024,Carlisle,1-3,0-1,Lincoln
+Mon Apr 1 2024,Charlton,0-0,0-0,Stevenage
+Mon Apr 1 2024,Cheltenham,1-2,0-0,Exeter
+Mon Apr 1 2024,Leyton Orient,1-2,0-2,Peterboro
+Mon Apr 1 2024,Northampton,2-0,1-0,Port Vale
+Mon Apr 1 2024,Oxford,4-0,3-0,Fleetwood Town
+Tue Apr 2 2024,Portsmouth,2-2,1-2,Derby
+Sat Apr 6 2024,Blackpool,1-0,1-0,Cambridge
+Sat Apr 6 2024,Bristol Rvs,0-2,0-0,Bolton
+Sat Apr 6 2024,Burton,0-4,0-1,Oxford
+Sat Apr 6 2024,Charlton,2-1,2-1,Barnsley
+Sat Apr 6 2024,Exeter,1-0,1-0,Stevenage
+Sat Apr 6 2024,Leyton Orient,3-1,2-0,Cheltenham
+Sat Apr 6 2024,Northampton,2-0,1-0,Carlisle
+Sat Apr 6 2024,Portsmouth,3-1,2-1,Shrewsbury
+Sat Apr 6 2024,Reading,1-1,0-0,Lincoln
+Sat Apr 6 2024,Wigan,0-0,0-0,Port Vale
+Tue Apr 9 2024,Blackpool,1-0,1-0,Fleetwood Town
+Tue Apr 9 2024,Bristol Rvs,0-2,0-2,Reading
+Tue Apr 9 2024,Charlton,2-2,1-0,Wigan
+Tue Apr 9 2024,Cheltenham,0-1,0-1,Carlisle
+Tue Apr 9 2024,Leyton Orient,2-2,1-0,Exeter
+Tue Apr 9 2024,Stevenage,2-1,1-1,Barnsley
+Wed Apr 10 2024,Peterboro,3-0,1-0,Port Vale
+Wed Apr 10 2024,Wycombe,0-0,0-0,Derby
+Sat Apr 13 2024,Barnsley,2-2,1-1,Reading
+Sat Apr 13 2024,Bolton,1-1,1-1,Portsmouth
+Sat Apr 13 2024,Cambridge,1-1,0-1,Charlton
+Sat Apr 13 2024,Carlisle,0-1,0-1,Blackpool
+Sat Apr 13 2024,Cheltenham,1-3,0-1,Bristol Rvs
+Sat Apr 13 2024,Derby,3-0,2-0,Leyton Orient
+Sat Apr 13 2024,Fleetwood Town,2-0,2-0,Northampton
+Sat Apr 13 2024,Lincoln,1-2,1-1,Wigan
+Sat Apr 13 2024,Oxford,5-0,3-0,Peterboro
+Sat Apr 13 2024,Port Vale,2-4,2-0,Exeter
+Sat Apr 13 2024,Shrewsbury,0-2,0-0,Wycombe
+Sat Apr 13 2024,Stevenage,1-2,0-1,Burton
+Tue Apr 16 2024,Bolton,2-2,1-2,Shrewsbury
+Tue Apr 16 2024,Bristol Rvs,1-0,0-0,Cambridge
+Tue Apr 16 2024,Burton,1-2,1-0,Cheltenham
+Tue Apr 16 2024,Oxford,0-1,0-0,Lincoln
+Tue Apr 16 2024,Peterboro,4-1,1-1,Fleetwood Town
+Tue Apr 16 2024,Port Vale,1-2,0-1,Wycombe
+Tue Apr 16 2024,Portsmouth,3-2,1-1,Barnsley
+Fri Apr 19 2024,Oxford,1-1,0-1,Stevenage
+Sat Apr 20 2024,Northampton,1-2,0-1,Exeter
+Sat Apr 20 2024,Blackpool,3-2,2-0,Barnsley
+Sat Apr 20 2024,Bolton,2-0,0-0,Port Vale
+Sat Apr 20 2024,Bristol Rvs,0-2,0-1,Peterboro
+Sat Apr 20 2024,Burton,3-2,3-1,Reading
+Sat Apr 20 2024,Cambridge,0-1,0-1,Derby
+Sat Apr 20 2024,Carlisle,1-3,1-1,Wycombe
+Sat Apr 20 2024,Charlton,1-1,0-1,Shrewsbury
+Sat Apr 20 2024,Cheltenham,1-2,1-1,Lincoln
+Sat Apr 20 2024,Leyton Orient,0-1,0-0,Fleetwood Town
+Sat Apr 20 2024,Portsmouth,1-2,0-1,Wigan
+Tue Apr 23 2024,Cambridge,1-1,0-0,Wycombe
+Tue Apr 23 2024,Cheltenham,2-0,2-0,Peterboro
+Sat Apr 27 2024,Barnsley,1-1,1-0,Northampton
+Sat Apr 27 2024,Derby,2-0,1-0,Carlisle
+Sat Apr 27 2024,Exeter,1-2,0-2,Oxford
+Sat Apr 27 2024,Fleetwood Town,3-0,2-0,Burton
+Sat Apr 27 2024,Lincoln,0-2,0-0,Portsmouth
+Sat Apr 27 2024,Peterboro,3-3,0-2,Bolton
+Sat Apr 27 2024,Port Vale,0-0,0-0,Cambridge
+Sat Apr 27 2024,Reading,3-2,1-1,Blackpool
+Sat Apr 27 2024,Shrewsbury,1-3,0-2,Leyton Orient
+Sat Apr 27 2024,Stevenage,2-1,1-0,Cheltenham
+Sat Apr 27 2024,Wigan,2-0,1-0,Bristol Rvs
+Sat Apr 27 2024,Wycombe,1-0,1-0,Charlton

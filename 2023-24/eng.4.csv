@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Aug 5 2023,Accrington,3-0,1-0,Newport County
+Sat Aug 5 2023,Crawley Town,1-0,1-0,Bradford
+Sat Aug 5 2023,Crewe,2-2,1-2,Mansfield
+Sat Aug 5 2023,Doncaster,0-1,0-0,Harrogate
+Sat Aug 5 2023,Forest Green,0-2,0-0,Salford
+Sat Aug 5 2023,Grimsby,0-0,0-0,AFC Wimbledon
+Sat Aug 5 2023,Morecambe,2-1,1-1,Walsall
+Sat Aug 5 2023,Stockport,0-1,0-0,Gillingham
+Sat Aug 5 2023,Sutton,5-1,2-0,Notts County
+Sat Aug 5 2023,Tranmere,1-2,0-1,Barrow
+Sat Aug 5 2023,Wrexham,3-5,1-2,Milton Keynes Dons
+Sat Aug 12 2023,AFC Wimbledon,1-1,0-1,Wrexham
+Sat Aug 12 2023,Barrow,2-1,0-1,Sutton
+Sat Aug 12 2023,Bradford,2-1,1-1,Colchester
+Sat Aug 12 2023,Gillingham,1-0,1-0,Accrington
+Sat Aug 12 2023,Harrogate,0-1,0-0,Forest Green
+Sat Aug 12 2023,Mansfield,3-0,1-0,Morecambe
+Sat Aug 12 2023,Milton Keynes Dons,1-0,1-0,Tranmere
+Sat Aug 12 2023,Newport County,4-0,3-0,Doncaster
+Sat Aug 12 2023,Notts County,3-2,1-2,Grimsby
+Sat Aug 12 2023,Salford,1-1,0-1,Crawley Town
+Sat Aug 12 2023,Swindon,2-2,1-0,Crewe
+Sat Aug 12 2023,Walsall,2-1,1-0,Stockport
+Tue Aug 15 2023,Accrington,1-1,1-0,Barrow
+Tue Aug 15 2023,Colchester,0-2,0-0,AFC Wimbledon
+Tue Aug 15 2023,Crawley Town,2-1,1-1,Milton Keynes Dons
+Tue Aug 15 2023,Crewe,4-2,1-1,Newport County
+Tue Aug 15 2023,Doncaster,2-2,1-1,Mansfield
+Tue Aug 15 2023,Forest Green,1-2,1-0,Swindon
+Tue Aug 15 2023,Grimsby,2-0,1-0,Salford
+Tue Aug 15 2023,Morecambe,0-0,0-0,Notts County
+Tue Aug 15 2023,Stockport,1-1,0-0,Bradford
+Tue Aug 15 2023,Sutton,0-1,0-1,Gillingham
+Tue Aug 15 2023,Tranmere,3-0,2-0,Harrogate
+Tue Aug 15 2023,Wrexham,4-2,2-1,Walsall
+Sat Aug 19 2023,Accrington,2-1,1-0,Harrogate
+Sat Aug 19 2023,Colchester,2-3,2-1,Milton Keynes Dons
+Sat Aug 19 2023,Crawley Town,0-1,0-1,Gillingham
+Sat Aug 19 2023,Crewe,2-2,0-2,Walsall
+Sat Aug 19 2023,Doncaster,1-3,0-1,Notts County
+Sat Aug 19 2023,Forest Green,0-3,0-2,Newport County
+Sat Aug 19 2023,Grimsby,1-1,1-0,Mansfield
+Sat Aug 19 2023,Morecambe,3-0,1-0,Bradford
+Sat Aug 19 2023,Stockport,1-0,0-0,Barrow
+Sat Aug 19 2023,Sutton,0-3,0-0,AFC Wimbledon
+Sat Aug 19 2023,Tranmere,3-4,2-1,Salford
+Sat Aug 19 2023,Wrexham,5-5,1-4,Swindon
+Sat Aug 26 2023,AFC Wimbledon,1-1,1-0,Forest Green
+Sat Aug 26 2023,Barrow,1-1,0-1,Wrexham
+Sat Aug 26 2023,Bradford,1-0,1-0,Crewe
+Sat Aug 26 2023,Gillingham,0-3,0-0,Colchester
+Sat Aug 26 2023,Harrogate,2-0,1-0,Morecambe
+Sat Aug 26 2023,Mansfield,3-2,1-2,Stockport
+Sat Aug 26 2023,Milton Keynes Dons,2-1,2-0,Doncaster
+Sat Aug 26 2023,Newport County,3-1,0-0,Sutton
+Sat Aug 26 2023,Notts County,2-1,1-0,Tranmere
+Sat Aug 26 2023,Salford,1-2,0-2,Accrington
+Sat Aug 26 2023,Swindon,6-0,1-0,Crawley Town
+Sat Aug 26 2023,Walsall,1-1,0-0,Grimsby
+Sat Sep 2 2023,Tranmere,0-1,0-0,Wrexham
+Sat Sep 2 2023,Crewe,3-1,0-1,Milton Keynes Dons
+Sat Sep 2 2023,Doncaster,0-0,0-0,Swindon
+Sat Sep 2 2023,Grimsby,2-0,2-0,Gillingham
+Sat Sep 2 2023,Harrogate,0-1,0-1,Barrow
+Sat Sep 2 2023,Mansfield,0-0,0-0,Bradford
+Sat Sep 2 2023,Morecambe,1-0,1-0,Salford
+Sat Sep 2 2023,Newport County,2-2,1-2,AFC Wimbledon
+Sat Sep 2 2023,Notts County,3-1,1-1,Accrington
+Sat Sep 2 2023,Stockport,3-3,2-1,Crawley Town
+Sat Sep 2 2023,Sutton,0-1,0-0,Forest Green
+Sat Sep 2 2023,Walsall,1-0,0-0,Colchester
+Sat Sep 9 2023,Bradford,1-1,0-1,Grimsby
+Sat Sep 9 2023,Accrington,0-3,0-2,Mansfield
+Sat Sep 9 2023,AFC Wimbledon,1-2,1-0,Stockport
+Sat Sep 9 2023,Colchester,2-0,1-0,Tranmere
+Sat Sep 9 2023,Crawley Town,4-1,1-1,Newport County
+Sat Sep 9 2023,Forest Green,1-4,1-0,Crewe
+Sat Sep 9 2023,Gillingham,1-0,0-0,Harrogate
+Sat Sep 9 2023,Milton Keynes Dons,1-1,0-0,Notts County
+Sat Sep 9 2023,Salford,1-2,1-0,Walsall
+Sat Sep 9 2023,Swindon,5-3,3-2,Sutton
+Sat Sep 9 2023,Wrexham,2-1,1-0,Doncaster
+Fri Sep 15 2023,Salford,0-2,0-1,Notts County
+Sat Sep 16 2023,Accrington,4-1,1-0,Sutton
+Sat Sep 16 2023,AFC Wimbledon,2-2,2-0,Crewe
+Sat Sep 16 2023,Bradford,1-1,0-0,Harrogate
+Sat Sep 16 2023,Colchester,1-1,1-0,Mansfield
+Sat Sep 16 2023,Crawley Town,3-2,0-1,Tranmere
+Sat Sep 16 2023,Forest Green,1-2,0-1,Doncaster
+Sat Sep 16 2023,Gillingham,2-1,2-1,Morecambe
+Sat Sep 16 2023,Milton Keynes Dons,1-2,1-2,Stockport
+Sat Sep 16 2023,Newport County,1-1,1-0,Barrow
+Sat Sep 16 2023,Swindon,2-0,1-0,Walsall
+Sat Sep 16 2023,Wrexham,3-0,2-0,Grimsby
+Sat Sep 23 2023,Crewe,2-1,2-0,Colchester
+Sat Sep 23 2023,Doncaster,2-1,1-1,Gillingham
+Sat Sep 23 2023,Grimsby,2-3,2-2,Crawley Town
+Sat Sep 23 2023,Harrogate,3-2,2-1,Salford
+Sat Sep 23 2023,Mansfield,1-0,0-0,Barrow
+Sat Sep 23 2023,Morecambe,2-2,1-1,Swindon
+Sat Sep 23 2023,Newport County,1-4,1-3,Bradford
+Sat Sep 23 2023,Notts County,4-3,2-0,Forest Green
+Sat Sep 23 2023,Stockport,5-0,3-0,Wrexham
+Sat Sep 23 2023,Sutton,1-1,1-0,Milton Keynes Dons
+Sat Sep 23 2023,Tranmere,2-0,1-0,Accrington
+Sat Sep 23 2023,Walsall,1-3,0-1,AFC Wimbledon
+Sat Sep 30 2023,Accrington,1-3,0-2,Stockport
+Sat Sep 30 2023,AFC Wimbledon,4-1,2-1,Tranmere
+Sat Sep 30 2023,Barrow,3-2,1-0,Doncaster
+Sat Sep 30 2023,Bradford,1-3,1-2,Walsall
+Sat Sep 30 2023,Colchester,5-4,3-1,Notts County
+Sat Sep 30 2023,Crawley Town,3-0,1-0,Sutton
+Sat Sep 30 2023,Forest Green,1-2,0-1,Morecambe
+Sat Sep 30 2023,Gillingham,1-1,1-1,Mansfield
+Sat Sep 30 2023,Milton Keynes Dons,0-1,0-1,Harrogate
+Sat Sep 30 2023,Salford,2-1,2-1,Newport County
+Sat Sep 30 2023,Swindon,2-1,1-0,Grimsby
+Sat Sep 30 2023,Wrexham,3-3,1-2,Crewe
+Tue Oct 3 2023,Crewe,2-0,1-0,Gillingham
+Tue Oct 3 2023,Doncaster,2-0,1-0,Crawley Town
+Tue Oct 3 2023,Grimsby,2-1,1-0,Barrow
+Tue Oct 3 2023,Harrogate,0-1,0-1,AFC Wimbledon
+Tue Oct 3 2023,Mansfield,0-0,0-0,Wrexham
+Tue Oct 3 2023,Morecambe,1-1,0-0,Accrington
+Tue Oct 3 2023,Newport County,2-1,1-1,Colchester
+Tue Oct 3 2023,Notts County,3-1,3-0,Swindon
+Tue Oct 3 2023,Stockport,2-0,2-0,Forest Green
+Tue Oct 3 2023,Sutton,0-2,0-0,Salford
+Tue Oct 3 2023,Tranmere,2-1,1-0,Bradford
+Tue Oct 3 2023,Walsall,0-0,0-0,Milton Keynes Dons
+Sat Oct 7 2023,Accrington,2-1,1-0,Forest Green
+Sat Oct 7 2023,Barrow,1-1,0-1,Notts County
+Sat Oct 7 2023,Bradford,1-0,0-0,Swindon
+Sat Oct 7 2023,Colchester,1-3,0-1,Morecambe
+Sat Oct 7 2023,Crawley Town,0-1,0-1,Wrexham
+Sat Oct 7 2023,Gillingham,2-1,1-0,Milton Keynes Dons
+Sat Oct 7 2023,Mansfield,0-0,0-0,AFC Wimbledon
+Sat Oct 7 2023,Newport County,1-2,0-1,Harrogate
+Sat Oct 7 2023,Salford,4-2,1-1,Crewe
+Sat Oct 7 2023,Stockport,1-0,0-0,Doncaster
+Sat Oct 7 2023,Sutton,4-0,4-0,Walsall
+Sat Oct 7 2023,Tranmere,2-2,1-2,Grimsby
+Sat Oct 14 2023,Notts County,1-4,1-1,Mansfield
+Sat Oct 14 2023,AFC Wimbledon,0-1,0-0,Bradford
+Sat Oct 14 2023,Crewe,2-0,1-0,Tranmere
+Sat Oct 14 2023,Doncaster,4-1,1-0,Sutton
+Sat Oct 14 2023,Forest Green,5-0,1-0,Colchester
+Sat Oct 14 2023,Grimsby,0-2,0-0,Accrington
+Sat Oct 14 2023,Harrogate,1-3,0-1,Stockport
+Sat Oct 14 2023,Milton Keynes Dons,2-2,2-0,Barrow
+Sat Oct 14 2023,Swindon,2-0,1-0,Newport County
+Sat Oct 14 2023,Walsall,4-1,2-0,Gillingham
+Sat Oct 14 2023,Wrexham,3-2,1-2,Salford
+Fri Oct 20 2023,Newport County,3-3,2-1,Walsall
+Fri Oct 20 2023,Tranmere,1-2,0-1,Doncaster
+Sat Oct 21 2023,Accrington,1-0,1-0,Milton Keynes Dons
+Sat Oct 21 2023,Barrow,0-0,0-0,AFC Wimbledon
+Sat Oct 21 2023,Bradford,1-1,0-0,Wrexham
+Sat Oct 21 2023,Colchester,1-2,0-0,Harrogate
+Sat Oct 21 2023,Crawley Town,2-4,2-1,Crewe
+Sat Oct 21 2023,Gillingham,1-2,0-1,Notts County
+Sat Oct 21 2023,Salford,2-2,1-1,Swindon
+Sat Oct 21 2023,Stockport,3-2,2-1,Grimsby
+Sat Oct 21 2023,Sutton,2-3,1-2,Morecambe
+Tue Oct 24 2023,AFC Wimbledon,2-4,0-2,Accrington
+Tue Oct 24 2023,Crewe,0-2,0-0,Stockport
+Tue Oct 24 2023,Doncaster,0-3,0-2,Salford
+Tue Oct 24 2023,Forest Green,0-2,0-2,Barrow
+Tue Oct 24 2023,Grimsby,2-3,1-2,Colchester
+Tue Oct 24 2023,Harrogate,1-4,0-3,Mansfield
+Tue Oct 24 2023,Milton Keynes Dons,4-1,2-1,Bradford
+Tue Oct 24 2023,Morecambe,1-0,0-0,Tranmere
+Tue Oct 24 2023,Notts County,3-0,2-0,Newport County
+Tue Oct 24 2023,Swindon,0-1,0-1,Gillingham
+Tue Oct 24 2023,Walsall,1-1,0-0,Crawley Town
+Tue Oct 24 2023,Wrexham,2-1,1-0,Sutton
+Sat Oct 28 2023,Accrington,0-1,0-0,Colchester
+Sat Oct 28 2023,Barrow,0-0,0-0,Salford
+Sat Oct 28 2023,Doncaster,1-0,0-0,Grimsby
+Sat Oct 28 2023,Forest Green,2-1,2-1,Crawley Town
+Sat Oct 28 2023,Gillingham,0-2,0-2,Newport County
+Sat Oct 28 2023,Harrogate,0-1,0-1,Crewe
+Sat Oct 28 2023,Mansfield,2-1,1-0,Walsall
+Sat Oct 28 2023,Milton Keynes Dons,3-2,1-0,Swindon
+Sat Oct 28 2023,Morecambe,4-1,0-0,AFC Wimbledon
+Sat Oct 28 2023,Notts County,0-2,0-0,Wrexham
+Sat Oct 28 2023,Stockport,2-0,1-0,Tranmere
+Sat Oct 28 2023,Sutton,2-1,1-0,Bradford
+Tue Oct 31 2023,Barrow,1-0,1-0,Morecambe
+Tue Nov 7 2023,Colchester,3-1,0-1,Swindon
+Sat Nov 11 2023,AFC Wimbledon,2-0,1-0,Doncaster
+Sat Nov 11 2023,Bradford,1-2,1-1,Barrow
+Sat Nov 11 2023,Colchester,1-1,0-0,Sutton
+Sat Nov 11 2023,Crawley Town,3-1,1-1,Accrington
+Sat Nov 11 2023,Crewe,1-0,0-0,Notts County
+Sat Nov 11 2023,Grimsby,3-2,0-1,Morecambe
+Sat Nov 11 2023,Newport County,0-0,0-0,Milton Keynes Dons
+Sat Nov 11 2023,Salford,1-2,1-2,Mansfield
+Sat Nov 11 2023,Swindon,2-4,1-0,Stockport
+Sat Nov 11 2023,Tranmere,3-0,1-0,Forest Green
+Sat Nov 11 2023,Walsall,0-1,0-0,Harrogate
+Sat Nov 11 2023,Wrexham,2-0,1-0,Gillingham
+Sat Nov 18 2023,Notts County,4-2,4-0,Bradford
+Sat Nov 18 2023,Accrington,2-0,0-0,Wrexham
+Sat Nov 18 2023,Barrow,1-0,0-0,Crawley Town
+Sat Nov 18 2023,Forest Green,2-2,2-0,Grimsby
+Sat Nov 18 2023,Gillingham,3-1,1-1,Salford
+Sat Nov 18 2023,Harrogate,1-1,0-1,Swindon
+Sat Nov 18 2023,Mansfield,2-0,1-0,Newport County
+Sat Nov 18 2023,Stockport,2-0,1-0,Colchester
+Sat Nov 18 2023,Sutton,1-1,0-1,Tranmere
+Sat Nov 25 2023,AFC Wimbledon,4-2,2-0,Notts County
+Sat Nov 25 2023,Bradford,1-0,0-0,Accrington
+Sat Nov 25 2023,Colchester,1-4,1-0,Barrow
+Sat Nov 25 2023,Crawley Town,2-1,1-1,Harrogate
+Sat Nov 25 2023,Crewe,3-2,2-1,Doncaster
+Sat Nov 25 2023,Grimsby,1-1,1-1,Sutton
+Sat Nov 25 2023,Newport County,2-1,1-0,Stockport
+Sat Nov 25 2023,Salford,2-4,2-1,Milton Keynes Dons
+Sat Nov 25 2023,Swindon,2-1,1-0,Mansfield
+Sat Nov 25 2023,Tranmere,3-1,1-0,Gillingham
+Sat Nov 25 2023,Walsall,0-0,0-0,Forest Green
+Sat Nov 25 2023,Wrexham,6-0,3-0,Morecambe
+Tue Nov 28 2023,Accrington,3-4,0-2,Swindon
+Tue Nov 28 2023,Barrow,2-0,1-0,Walsall
+Tue Nov 28 2023,Doncaster,3-1,1-1,Colchester
+Tue Nov 28 2023,Forest Green,0-3,0-2,Bradford
+Tue Nov 28 2023,Gillingham,1-0,0-0,AFC Wimbledon
+Tue Nov 28 2023,Harrogate,2-2,1-2,Wrexham
+Tue Nov 28 2023,Mansfield,2-2,1-1,Tranmere
+Tue Nov 28 2023,Milton Keynes Dons,1-1,0-1,Grimsby
+Tue Nov 28 2023,Morecambe,1-2,1-1,Newport County
+Tue Nov 28 2023,Notts County,3-1,1-1,Crawley Town
+Tue Nov 28 2023,Stockport,0-0,0-0,Salford
+Tue Nov 28 2023,Sutton,1-1,1-1,Crewe
+Sat Dec 9 2023,Accrington,0-0,0-0,Doncaster
+Sat Dec 9 2023,AFC Wimbledon,4-0,1-0,Swindon
+Sat Dec 9 2023,Colchester,1-2,0-1,Crawley Town
+Sat Dec 9 2023,Grimsby,2-1,2-0,Crewe
+Sat Dec 9 2023,Morecambe,1-1,0-0,Stockport
+Sat Dec 9 2023,Notts County,1-2,1-0,Walsall
+Sat Dec 9 2023,Tranmere,2-1,0-1,Newport County
+Sat Dec 16 2023,Crawley Town,1-3,1-1,Mansfield
+Sat Dec 16 2023,Crewe,3-3,2-1,Accrington
+Sat Dec 16 2023,Doncaster,0-5,0-2,Morecambe
+Sat Dec 16 2023,Gillingham,0-2,0-1,Bradford
+Sat Dec 16 2023,Harrogate,3-1,2-0,Notts County
+Sat Dec 16 2023,Milton Keynes Dons,2-0,2-0,Forest Green
+Sat Dec 16 2023,Newport County,1-1,0-0,Grimsby
+Sat Dec 16 2023,Salford,0-0,0-0,AFC Wimbledon
+Sat Dec 16 2023,Stockport,8-0,4-0,Sutton
+Sat Dec 16 2023,Swindon,0-3,0-1,Barrow
+Sat Dec 16 2023,Walsall,1-0,0-0,Tranmere
+Sat Dec 16 2023,Wrexham,2-1,1-0,Colchester
+Fri Dec 22 2023,Forest Green,0-0,0-0,Gillingham
+Fri Dec 22 2023,Colchester,2-1,1-0,Salford
+Fri Dec 22 2023,Crawley Town,1-2,0-2,AFC Wimbledon
+Fri Dec 22 2023,Crewe,1-3,0-1,Barrow
+Fri Dec 22 2023,Doncaster,1-3,1-2,Bradford
+Fri Dec 22 2023,Stockport,2-1,1-0,Notts County
+Sat Dec 23 2023,Accrington,2-1,1-1,Walsall
+Sat Dec 23 2023,Grimsby,1-2,0-1,Harrogate
+Sat Dec 23 2023,Morecambe,1-3,0-1,Milton Keynes Dons
+Sat Dec 23 2023,Sutton,0-2,0-1,Mansfield
+Sat Dec 23 2023,Tranmere,2-1,0-1,Swindon
+Sat Dec 23 2023,Wrexham,2-0,0-0,Newport County
+Tue Dec 26 2023,Mansfield,2-0,2-0,Grimsby
+Tue Dec 26 2023,Gillingham,0-2,0-1,Crawley Town
+Tue Dec 26 2023,AFC Wimbledon,0-1,0-0,Sutton
+Tue Dec 26 2023,Barrow,2-2,2-1,Stockport
+Tue Dec 26 2023,Bradford,2-2,0-2,Morecambe
+Tue Dec 26 2023,Harrogate,2-1,0-0,Accrington
+Tue Dec 26 2023,Milton Keynes Dons,1-0,0-0,Colchester
+Tue Dec 26 2023,Newport County,4-2,0-2,Forest Green
+Tue Dec 26 2023,Notts County,3-0,2-0,Doncaster
+Tue Dec 26 2023,Salford,1-5,0-2,Tranmere
+Tue Dec 26 2023,Swindon,0-1,0-1,Wrexham
+Tue Dec 26 2023,Walsall,2-0,1-0,Crewe
+Fri Dec 29 2023,AFC Wimbledon,5-3,2-2,Colchester
+Fri Dec 29 2023,Barrow,1-1,0-0,Accrington
+Fri Dec 29 2023,Bradford,0-0,0-0,Stockport
+Fri Dec 29 2023,Gillingham,1-0,0-0,Sutton
+Fri Dec 29 2023,Harrogate,0-2,0-0,Tranmere
+Fri Dec 29 2023,Mansfield,1-1,1-0,Doncaster
+Fri Dec 29 2023,Milton Keynes Dons,2-0,1-0,Crawley Town
+Fri Dec 29 2023,Newport County,1-1,0-0,Crewe
+Fri Dec 29 2023,Notts County,5-0,4-0,Morecambe
+Fri Dec 29 2023,Salford,0-3,0-1,Grimsby
+Fri Dec 29 2023,Swindon,2-1,0-0,Forest Green
+Fri Dec 29 2023,Walsall,3-1,1-1,Wrexham
+Mon Jan 1 2024,Accrington,3-0,3-0,Salford
+Mon Jan 1 2024,Colchester,0-1,0-0,Gillingham
+Mon Jan 1 2024,Crawley Town,3-1,2-0,Swindon
+Mon Jan 1 2024,Crewe,1-0,1-0,Bradford
+Mon Jan 1 2024,Doncaster,3-0,3-0,Milton Keynes Dons
+Mon Jan 1 2024,Forest Green,1-1,1-1,AFC Wimbledon
+Mon Jan 1 2024,Grimsby,1-6,1-2,Walsall
+Mon Jan 1 2024,Morecambe,2-2,0-1,Harrogate
+Mon Jan 1 2024,Stockport,0-2,0-0,Mansfield
+Mon Jan 1 2024,Sutton,1-1,0-0,Newport County
+Mon Jan 1 2024,Tranmere,4-2,2-2,Notts County
+Mon Jan 1 2024,Wrexham,4-1,3-1,Barrow
+Sat Jan 6 2024,Harrogate,3-1,1-1,Doncaster
+Sat Jan 6 2024,Barrow,1-0,0-0,Tranmere
+Sat Jan 6 2024,Bradford,2-4,0-1,Crawley Town
+Sat Jan 6 2024,Mansfield,0-1,0-1,Crewe
+Sat Jan 6 2024,Salford,2-2,1-1,Forest Green
+Sat Jan 6 2024,Swindon,2-2,2-1,Colchester
+Sat Jan 13 2024,Accrington,1-2,0-0,Gillingham
+Sat Jan 13 2024,Colchester,1-1,0-1,Bradford
+Sat Jan 13 2024,Crawley Town,0-1,0-0,Salford
+Sat Jan 13 2024,Crewe,2-1,1-1,Swindon
+Sat Jan 13 2024,Doncaster,0-1,0-0,Newport County
+Sat Jan 13 2024,Forest Green,0-2,0-0,Harrogate
+Sat Jan 13 2024,Grimsby,5-5,2-2,Notts County
+Sat Jan 13 2024,Morecambe,1-1,0-0,Mansfield
+Sat Jan 13 2024,Stockport,3-1,1-1,Walsall
+Sat Jan 13 2024,Sutton,2-2,1-1,Barrow
+Sat Jan 13 2024,Tranmere,1-2,1-1,Milton Keynes Dons
+Sat Jan 13 2024,Wrexham,2-0,0-0,AFC Wimbledon
+Sat Jan 20 2024,Barrow,1-3,1-1,Crewe
+Sat Jan 20 2024,Gillingham,1-1,0-0,Forest Green
+Sat Jan 20 2024,Milton Keynes Dons,1-2,1-0,Morecambe
+Sat Jan 20 2024,Newport County,1-0,1-0,Wrexham
+Tue Jan 23 2024,Bradford,1-1,1-1,Salford
+Tue Jan 23 2024,Mansfield,1-1,1-1,Sutton
+Tue Jan 23 2024,Milton Keynes Dons,3-1,3-0,AFC Wimbledon
+Sat Jan 27 2024,AFC Wimbledon,2-1,1-0,Mansfield
+Sat Jan 27 2024,Crewe,2-3,2-1,Salford
+Sat Jan 27 2024,Doncaster,1-5,0-3,Stockport
+Sat Jan 27 2024,Forest Green,0-1,0-1,Accrington
+Sat Jan 27 2024,Grimsby,1-2,1-1,Tranmere
+Sat Jan 27 2024,Milton Keynes Dons,2-1,0-0,Gillingham
+Sat Jan 27 2024,Morecambe,0-1,0-1,Colchester
+Sat Jan 27 2024,Notts County,1-1,1-1,Barrow
+Sat Jan 27 2024,Swindon,2-0,2-0,Bradford
+Sat Jan 27 2024,Walsall,1-1,1-1,Sutton
+Tue Jan 30 2024,Sutton,1-2,0-0,Harrogate
+Sat Feb 3 2024,Newport County,2-1,0-0,Swindon
+Sat Feb 3 2024,Accrington,0-0,0-0,Grimsby
+Sat Feb 3 2024,Barrow,1-0,0-0,Milton Keynes Dons
+Sat Feb 3 2024,Bradford,0-0,0-0,AFC Wimbledon
+Sat Feb 3 2024,Colchester,3-3,0-2,Forest Green
+Sat Feb 3 2024,Crawley Town,1-2,1-1,Morecambe
+Sat Feb 3 2024,Gillingham,1-1,0-0,Walsall
+Sat Feb 3 2024,Mansfield,1-0,1-0,Notts County
+Sat Feb 3 2024,Salford,3-1,2-1,Wrexham
+Sat Feb 3 2024,Stockport,1-1,1-1,Harrogate
+Sat Feb 3 2024,Sutton,1-1,0-0,Doncaster
+Sat Feb 3 2024,Tranmere,0-0,0-0,Crewe
+Fri Feb 9 2024,Notts County,1-3,1-2,Gillingham
+Sat Feb 10 2024,AFC Wimbledon,2-0,2-0,Barrow
+Sat Feb 10 2024,Crewe,1-0,0-0,Crawley Town
+Sat Feb 10 2024,Doncaster,2-1,1-0,Tranmere
+Sat Feb 10 2024,Forest Green,0-4,0-1,Mansfield
+Sat Feb 10 2024,Grimsby,1-3,0-3,Stockport
+Sat Feb 10 2024,Harrogate,1-0,0-0,Colchester
+Sat Feb 10 2024,Milton Keynes Dons,2-1,0-1,Accrington
+Sat Feb 10 2024,Morecambe,1-0,1-0,Sutton
+Sat Feb 10 2024,Swindon,1-1,0-0,Salford
+Sat Feb 10 2024,Walsall,0-3,0-3,Newport County
+Sat Feb 10 2024,Wrexham,0-1,0-0,Bradford
+Tue Feb 13 2024,Accrington,2-0,0-0,AFC Wimbledon
+Tue Feb 13 2024,Barrow,1-2,1-1,Forest Green
+Tue Feb 13 2024,Bradford,4-0,2-0,Milton Keynes Dons
+Tue Feb 13 2024,Crawley Town,1-1,0-1,Walsall
+Tue Feb 13 2024,Gillingham,2-2,0-1,Swindon
+Tue Feb 13 2024,Mansfield,9-2,5-0,Harrogate
+Tue Feb 13 2024,Newport County,1-3,0-2,Notts County
+Tue Feb 13 2024,Salford,2-2,1-1,Doncaster
+Tue Feb 13 2024,Stockport,1-3,1-2,Crewe
+Tue Feb 13 2024,Sutton,1-2,0-1,Wrexham
+Tue Feb 13 2024,Tranmere,2-3,2-1,Morecambe
+Sat Feb 17 2024,AFC Wimbledon,1-1,0-0,Morecambe
+Sat Feb 17 2024,Bradford,1-0,0-0,Sutton
+Sat Feb 17 2024,Colchester,1-1,1-0,Accrington
+Sat Feb 17 2024,Crawley Town,2-0,1-0,Forest Green
+Sat Feb 17 2024,Crewe,0-0,0-0,Harrogate
+Sat Feb 17 2024,Grimsby,1-5,1-2,Doncaster
+Sat Feb 17 2024,Newport County,1-0,0-0,Gillingham
+Sat Feb 17 2024,Salford,5-3,1-1,Barrow
+Sat Feb 17 2024,Swindon,1-2,0-2,Milton Keynes Dons
+Sat Feb 17 2024,Tranmere,4-0,1-0,Stockport
+Sat Feb 17 2024,Walsall,2-1,0-0,Mansfield
+Sat Feb 17 2024,Wrexham,1-0,1-0,Notts County
+Tue Feb 20 2024,AFC Wimbledon,0-1,0-0,Crawley Town
+Tue Feb 20 2024,Gillingham,0-0,0-0,Stockport
+Tue Feb 20 2024,Milton Keynes Dons,1-1,1-1,Wrexham
+Tue Feb 20 2024,Walsall,3-0,2-0,Morecambe
+Sat Feb 24 2024,Accrington,0-1,0-0,Crawley Town
+Sat Feb 24 2024,Doncaster,1-0,1-0,AFC Wimbledon
+Sat Feb 24 2024,Forest Green,1-0,1-0,Tranmere
+Sat Feb 24 2024,Gillingham,1-0,0-0,Wrexham
+Sat Feb 24 2024,Harrogate,0-2,0-0,Walsall
+Sat Feb 24 2024,Mansfield,5-1,2-1,Salford
+Sat Feb 24 2024,Milton Keynes Dons,3-0,3-0,Newport County
+Sat Feb 24 2024,Morecambe,1-1,0-1,Grimsby
+Sat Feb 24 2024,Notts County,1-3,0-2,Crewe
+Sat Feb 24 2024,Stockport,0-0,0-0,Swindon
+Sat Feb 24 2024,Sutton,1-1,1-1,Colchester
+Tue Feb 27 2024,Forest Green,1-1,1-0,Wrexham
+Tue Feb 27 2024,Harrogate,1-4,0-2,Newport County
+Tue Feb 27 2024,Notts County,3-4,2-2,Sutton
+Tue Feb 27 2024,Salford,1-1,1-0,Colchester
+Tue Feb 27 2024,Swindon,3-1,2-1,Tranmere
+Tue Feb 27 2024,Walsall,2-1,0-0,Accrington
+Sat Mar 2 2024,AFC Wimbledon,1-0,0-0,Milton Keynes Dons
+Sat Mar 2 2024,Crewe,2-3,1-0,Morecambe
+Sat Mar 2 2024,Grimsby,1-0,1-0,Forest Green
+Sat Mar 2 2024,Newport County,0-1,0-0,Mansfield
+Sat Mar 2 2024,Salford,0-2,0-1,Gillingham
+Sat Mar 2 2024,Swindon,1-1,0-0,Harrogate
+Sat Mar 2 2024,Tranmere,1-0,0-0,Sutton
+Sat Mar 2 2024,Walsall,3-1,1-0,Doncaster
+Sat Mar 2 2024,Wrexham,4-0,4-0,Accrington
+Tue Mar 5 2024,AFC Wimbledon,0-0,0-0,Grimsby
+Tue Mar 5 2024,Barrow,2-0,1-0,Gillingham
+Tue Mar 5 2024,Bradford,1-1,0-1,Doncaster
+Tue Mar 5 2024,Mansfield,1-2,1-1,Milton Keynes Dons
+Tue Mar 5 2024,Morecambe,1-0,0-0,Crawley Town
+Sat Mar 9 2024,Accrington,0-3,0-3,Bradford
+Sat Mar 9 2024,Barrow,2-0,1-0,Colchester
+Sat Mar 9 2024,Doncaster,2-0,1-0,Crewe
+Sat Mar 9 2024,Forest Green,2-0,0-0,Walsall
+Sat Mar 9 2024,Gillingham,1-1,0-1,Tranmere
+Sat Mar 9 2024,Harrogate,1-2,1-0,Crawley Town
+Sat Mar 9 2024,Mansfield,3-2,1-0,Swindon
+Sat Mar 9 2024,Milton Keynes Dons,3-1,3-1,Salford
+Sat Mar 9 2024,Morecambe,1-3,1-1,Wrexham
+Sat Mar 9 2024,Notts County,0-2,0-0,AFC Wimbledon
+Sat Mar 9 2024,Stockport,1-0,0-0,Newport County
+Sat Mar 9 2024,Sutton,1-1,0-1,Grimsby
+Tue Mar 12 2024,AFC Wimbledon,2-0,1-0,Gillingham
+Tue Mar 12 2024,Bradford,0-2,0-1,Forest Green
+Tue Mar 12 2024,Crawley Town,2-1,0-1,Notts County
+Tue Mar 12 2024,Crewe,1-0,0-0,Sutton
+Tue Mar 12 2024,Grimsby,1-0,1-0,Milton Keynes Dons
+Tue Mar 12 2024,Newport County,5-3,2-1,Morecambe
+Tue Mar 12 2024,Swindon,1-2,0-0,Accrington
+Tue Mar 12 2024,Tranmere,2-1,1-1,Mansfield
+Tue Mar 12 2024,Walsall,1-1,1-0,Barrow
+Tue Mar 12 2024,Wrexham,0-0,0-0,Harrogate
+Thu Mar 14 2024,Salford,2-2,2-0,Stockport
+Sat Mar 16 2024,Accrington,2-2,1-2,Notts County
+Sat Mar 16 2024,AFC Wimbledon,0-2,0-1,Newport County
+Sat Mar 16 2024,Barrow,0-0,0-0,Harrogate
+Sat Mar 16 2024,Bradford,1-5,0-4,Mansfield
+Sat Mar 16 2024,Colchester,1-1,0-1,Walsall
+Sat Mar 16 2024,Forest Green,0-1,0-1,Sutton
+Sat Mar 16 2024,Gillingham,1-1,1-1,Grimsby
+Sat Mar 16 2024,Milton Keynes Dons,3-1,3-1,Crewe
+Sat Mar 16 2024,Swindon,1-2,0-2,Doncaster
+Sat Mar 16 2024,Wrexham,0-1,0-1,Tranmere
+Sun Mar 17 2024,Salford,3-1,1-0,Morecambe
+Mon Mar 18 2024,Crawley Town,1-1,0-0,Stockport
+Tue Mar 19 2024,Bradford,0-3,0-1,Notts County
+Sat Mar 23 2024,Mansfield,1-1,0-1,Colchester
+Sat Mar 23 2024,Harrogate,3-0,1-0,Bradford
+Sat Mar 23 2024,Barrow,1-0,1-0,Newport County
+Sat Mar 23 2024,Crewe,1-1,1-1,AFC Wimbledon
+Sat Mar 23 2024,Doncaster,2-0,0-0,Forest Green
+Sat Mar 23 2024,Grimsby,1-3,0-3,Wrexham
+Sat Mar 23 2024,Morecambe,2-3,1-1,Gillingham
+Sat Mar 23 2024,Notts County,1-2,0-1,Salford
+Sat Mar 23 2024,Sutton,3-1,1-0,Accrington
+Sat Mar 23 2024,Tranmere,1-3,1-2,Crawley Town
+Sat Mar 23 2024,Stockport,5-0,3-0,Milton Keynes Dons
+Fri Mar 29 2024,Accrington,1-2,0-0,Morecambe
+Fri Mar 29 2024,AFC Wimbledon,1-1,0-1,Harrogate
+Fri Mar 29 2024,Barrow,3-1,2-0,Grimsby
+Fri Mar 29 2024,Bradford,2-0,0-0,Tranmere
+Fri Mar 29 2024,Colchester,2-1,0-1,Newport County
+Fri Mar 29 2024,Crawley Town,0-2,0-0,Doncaster
+Fri Mar 29 2024,Forest Green,0-3,0-2,Stockport
+Fri Mar 29 2024,Gillingham,0-0,0-0,Crewe
+Fri Mar 29 2024,Milton Keynes Dons,5-0,1-0,Walsall
+Fri Mar 29 2024,Salford,1-2,0-1,Sutton
+Fri Mar 29 2024,Swindon,2-1,1-0,Notts County
+Fri Mar 29 2024,Wrexham,2-0,1-0,Mansfield
+Mon Apr 1 2024,Grimsby,1-1,0-0,Bradford
+Mon Apr 1 2024,Crewe,0-3,0-3,Forest Green
+Mon Apr 1 2024,Harrogate,5-1,0-1,Gillingham
+Mon Apr 1 2024,Morecambe,2-1,2-0,Barrow
+Mon Apr 1 2024,Newport County,0-4,0-2,Crawley Town
+Mon Apr 1 2024,Notts County,3-3,1-1,Milton Keynes Dons
+Mon Apr 1 2024,Stockport,1-0,0-0,AFC Wimbledon
+Mon Apr 1 2024,Sutton,3-1,1-0,Swindon
+Mon Apr 1 2024,Tranmere,1-1,1-1,Colchester
+Mon Apr 1 2024,Walsall,2-1,1-0,Salford
+Tue Apr 2 2024,Doncaster,1-0,1-0,Wrexham
+Sat Apr 6 2024,Accrington,0-0,0-0,Crewe
+Sat Apr 6 2024,AFC Wimbledon,1-0,0-0,Salford
+Sat Apr 6 2024,Barrow,0-2,0-2,Swindon
+Sat Apr 6 2024,Bradford,1-0,1-0,Gillingham
+Sat Apr 6 2024,Colchester,1-2,0-0,Wrexham
+Sat Apr 6 2024,Forest Green,0-2,0-1,Milton Keynes Dons
+Sat Apr 6 2024,Grimsby,1-0,1-0,Newport County
+Sat Apr 6 2024,Mansfield,1-4,0-2,Crawley Town
+Sat Apr 6 2024,Morecambe,0-3,0-2,Doncaster
+Sat Apr 6 2024,Notts County,3-0,1-0,Harrogate
+Sat Apr 6 2024,Sutton,1-3,1-3,Stockport
+Sat Apr 6 2024,Tranmere,1-3,1-1,Walsall
+Tue Apr 9 2024,Colchester,1-2,1-1,Stockport
+Tue Apr 9 2024,Doncaster,2-1,1-0,Walsall
+Tue Apr 9 2024,Harrogate,1-0,0-0,Grimsby
+Tue Apr 9 2024,Mansfield,1-0,1-0,Forest Green
+Tue Apr 9 2024,Morecambe,0-1,0-0,Crewe
+Tue Apr 9 2024,Newport County,1-3,1-1,Accrington
+Tue Apr 9 2024,Wrexham,4-1,2-0,Crawley Town
+Sat Apr 13 2024,Crawley Town,2-3,1-2,Colchester
+Sat Apr 13 2024,Crewe,0-3,0-1,Grimsby
+Sat Apr 13 2024,Doncaster,4-0,2-0,Accrington
+Sat Apr 13 2024,Gillingham,3-0,1-0,Barrow
+Sat Apr 13 2024,Harrogate,2-2,0-1,Sutton
+Sat Apr 13 2024,Milton Keynes Dons,1-4,1-1,Mansfield
+Sat Apr 13 2024,Newport County,1-2,1-2,Tranmere
+Sat Apr 13 2024,Salford,1-2,1-1,Bradford
+Sat Apr 13 2024,Stockport,2-0,2-0,Morecambe
+Sat Apr 13 2024,Swindon,3-2,0-1,AFC Wimbledon
+Sat Apr 13 2024,Walsall,1-3,0-2,Notts County
+Sat Apr 13 2024,Wrexham,6-0,4-0,Forest Green
+Tue Apr 16 2024,Colchester,2-0,1-0,Grimsby
+Tue Apr 16 2024,Crawley Town,1-1,0-1,Barrow
+Tue Apr 16 2024,Mansfield,2-1,1-0,Accrington
+Tue Apr 16 2024,Notts County,2-5,0-3,Stockport
+Tue Apr 16 2024,Walsall,2-1,1-0,Swindon
+Sat Apr 20 2024,Crewe,0-3,0-2,Wrexham
+Sat Apr 20 2024,Doncaster,4-2,0-2,Barrow
+Sat Apr 20 2024,Grimsby,2-0,0-0,Swindon
+Sat Apr 20 2024,Harrogate,3-5,2-2,Milton Keynes Dons
+Sat Apr 20 2024,Mansfield,2-1,0-1,Gillingham
+Sat Apr 20 2024,Morecambe,1-2,1-2,Forest Green
+Sat Apr 20 2024,Newport County,0-1,0-0,Salford
+Sat Apr 20 2024,Notts County,1-0,0-0,Colchester
+Sat Apr 20 2024,Stockport,4-2,2-1,Accrington
+Sat Apr 20 2024,Sutton,2-2,0-1,Crawley Town
+Sat Apr 20 2024,Tranmere,3-2,2-0,AFC Wimbledon
+Sat Apr 20 2024,Walsall,2-3,2-2,Bradford
+Tue Apr 23 2024,Barrow,1-2,0-1,Bradford
+Tue Apr 23 2024,Colchester,1-4,1-2,Doncaster
+Sat Apr 27 2024,Accrington,4-1,1-1,Tranmere
+Sat Apr 27 2024,AFC Wimbledon,5-1,2-1,Walsall
+Sat Apr 27 2024,Barrow,1-1,0-1,Mansfield
+Sat Apr 27 2024,Bradford,4-1,2-0,Newport County
+Sat Apr 27 2024,Colchester,1-1,1-0,Crewe
+Sat Apr 27 2024,Crawley Town,2-0,2-0,Grimsby
+Sat Apr 27 2024,Forest Green,1-0,0-0,Notts County
+Sat Apr 27 2024,Gillingham,2-2,0-2,Doncaster
+Sat Apr 27 2024,Milton Keynes Dons,4-4,2-0,Sutton
+Sat Apr 27 2024,Salford,2-2,2-2,Harrogate
+Sat Apr 27 2024,Swindon,3-3,2-2,Morecambe
+Sat Apr 27 2024,Wrexham,2-1,0-1,Stockport

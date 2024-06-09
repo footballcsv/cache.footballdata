@@ -1,0 +1,463 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 13 2021,Huesca,2-0,1-0,Eibar
+Fri Aug 13 2021,Zaragoza,0-0,0-0,Ibiza
+Sat Aug 14 2021,Sociedad B,1-0,0-0,Leganes
+Sat Aug 14 2021,Girona,2-0,0-0,Amorebieta
+Sat Aug 14 2021,Ponferradina,1-0,0-0,Alcorcon
+Sun Aug 15 2021,Sp Gijon,1-0,0-0,Burgos
+Sun Aug 15 2021,Oviedo,2-2,2-0,Lugo
+Sun Aug 15 2021,Fuenlabrada,1-2,0-1,Tenerife
+Sun Aug 15 2021,Las Palmas,1-1,0-0,Valladolid
+Mon Aug 16 2021,Malaga,0-0,0-0,Mirandes
+Mon Aug 16 2021,Cartagena,1-3,0-2,Almeria
+Fri Aug 20 2021,Valladolid,2-0,1-0,Zaragoza
+Fri Aug 20 2021,Almeria,2-1,2-1,Oviedo
+Sat Aug 21 2021,Lugo,0-0,0-0,Sociedad B
+Sat Aug 21 2021,Tenerife,0-0,0-0,Sp Gijon
+Sat Aug 21 2021,Alcorcon,0-2,0-0,Fuenlabrada
+Sun Aug 22 2021,Ibiza,2-2,1-0,Malaga
+Sun Aug 22 2021,Eibar,0-1,0-0,Ponferradina
+Sun Aug 22 2021,Girona,0-0,0-0,Las Palmas
+Sun Aug 22 2021,Huesca,2-0,0-0,Cartagena
+Mon Aug 23 2021,Mirandes,2-0,0-0,Amorebieta
+Mon Aug 23 2021,Leganes,0-0,0-0,Burgos
+Fri Aug 27 2021,Las Palmas,2-1,2-0,Huesca
+Fri Aug 27 2021,Malaga,1-0,1-0,Alcorcon
+Sat Aug 28 2021,Sp Gijon,2-1,1-0,Mirandes
+Sat Aug 28 2021,Leganes,1-2,0-0,Ibiza
+Sat Aug 28 2021,Oviedo,0-0,0-0,Tenerife
+Sat Aug 28 2021,Ponferradina,2-1,1-0,Girona
+Sun Aug 29 2021,Amorebieta,2-1,1-1,Almeria
+Sun Aug 29 2021,Lugo,0-2,0-1,Valladolid
+Sun Aug 29 2021,Sociedad B,0-0,0-0,Fuenlabrada
+Sun Aug 29 2021,Burgos,0-1,0-0,Eibar
+Mon Aug 30 2021,Zaragoza,0-1,0-0,Cartagena
+Fri Sep 3 2021,Girona,1-2,0-1,Sp Gijon
+Sat Sep 4 2021,Eibar,1-1,1-1,Leganes
+Sat Sep 4 2021,Cartagena,1-0,0-0,Sociedad B
+Sat Sep 4 2021,Tenerife,2-0,0-0,Ponferradina
+Sat Sep 4 2021,Almeria,2-0,0-0,Malaga
+Sat Sep 4 2021,Fuenlabrada,1-1,1-1,Lugo
+Sun Sep 5 2021,Burgos,3-0,3-0,Valladolid
+Sun Sep 5 2021,Ibiza,1-1,0-1,Amorebieta
+Sun Sep 5 2021,Alcorcon,1-2,1-0,Zaragoza
+Sun Sep 5 2021,Mirandes,4-2,3-1,Las Palmas
+Mon Sep 6 2021,Huesca,1-2,0-1,Oviedo
+Fri Sep 10 2021,Sp Gijon,2-1,1-0,Leganes
+Sat Sep 11 2021,Amorebieta,2-2,1-1,Burgos
+Sat Sep 11 2021,Sociedad B,2-3,0-1,Eibar
+Sat Sep 11 2021,Las Palmas,1-1,0-1,Ibiza
+Sat Sep 11 2021,Mirandes,1-3,1-1,Alcorcon
+Sun Sep 12 2021,Oviedo,2-0,1-0,Cartagena
+Sun Sep 12 2021,Valladolid,0-2,0-2,Tenerife
+Sun Sep 12 2021,Ponferradina,1-0,0-0,Almeria
+Sun Sep 12 2021,Fuenlabrada,1-1,1-0,Zaragoza
+Sun Sep 12 2021,Malaga,2-0,1-0,Girona
+Mon Sep 13 2021,Lugo,3-2,1-2,Huesca
+Fri Sep 17 2021,Alcorcon,0-4,0-3,Almeria
+Sat Sep 18 2021,Ibiza,1-1,1-0,Oviedo
+Sat Sep 18 2021,Leganes,1-0,1-0,Amorebieta
+Sat Sep 18 2021,Zaragoza,1-1,1-1,Sociedad B
+Sat Sep 18 2021,Girona,1-0,0-0,Valladolid
+Sat Sep 18 2021,Cartagena,2-1,1-1,Lugo
+Sun Sep 19 2021,Huesca,0-0,0-0,Fuenlabrada
+Sun Sep 19 2021,Ponferradina,4-0,2-0,Malaga
+Sun Sep 19 2021,Eibar,3-2,1-1,Sp Gijon
+Sun Sep 19 2021,Tenerife,1-2,1-0,Mirandes
+Mon Sep 20 2021,Burgos,0-0,0-0,Las Palmas
+Fri Sep 24 2021,Sociedad B,0-2,0-1,Huesca
+Fri Sep 24 2021,Almeria,3-1,0-0,Tenerife
+Sat Sep 25 2021,Ibiza,2-0,1-0,Burgos
+Sat Sep 25 2021,Amorebieta,1-1,1-1,Eibar
+Sat Sep 25 2021,Las Palmas,2-1,2-0,Ponferradina
+Sun Sep 26 2021,Mirandes,1-2,1-1,Leganes
+Sun Sep 26 2021,Sp Gijon,2-1,0-1,Malaga
+Sun Sep 26 2021,Oviedo,0-0,0-0,Girona
+Sun Sep 26 2021,Lugo,1-1,1-1,Zaragoza
+Sun Sep 26 2021,Valladolid,2-0,1-0,Alcorcon
+Mon Sep 27 2021,Fuenlabrada,2-1,1-0,Cartagena
+Fri Oct 1 2021,Ponferradina,2-2,0-0,Valladolid
+Sat Oct 2 2021,Amorebieta,1-1,1-0,Sp Gijon
+Sat Oct 2 2021,Huesca,1-2,1-1,Tenerife
+Sat Oct 2 2021,Zaragoza,0-0,0-0,Oviedo
+Sat Oct 2 2021,Alcorcon,1-4,1-2,Sociedad B
+Sun Oct 3 2021,Eibar,3-1,1-1,Ibiza
+Sun Oct 3 2021,Malaga,1-0,1-0,Fuenlabrada
+Sun Oct 3 2021,Burgos,1-0,1-0,Mirandes
+Sun Oct 3 2021,Las Palmas,4-1,3-0,Cartagena
+Sun Oct 3 2021,Leganes,1-1,0-0,Lugo
+Mon Oct 4 2021,Girona,1-2,0-0,Almeria
+Fri Oct 8 2021,Valladolid,1-1,0-1,Malaga
+Sat Oct 9 2021,Lugo,1-0,0-0,Girona
+Sat Oct 9 2021,Mirandes,3-3,1-2,Eibar
+Sat Oct 9 2021,Almeria,1-1,1-0,Las Palmas
+Sat Oct 9 2021,Oviedo,1-1,1-0,Sp Gijon
+Sun Oct 10 2021,Sociedad B,1-1,0-0,Ponferradina
+Sun Oct 10 2021,Cartagena,5-1,3-0,Ibiza
+Sun Oct 10 2021,Alcorcon,1-0,0-0,Burgos
+Sun Oct 10 2021,Fuenlabrada,2-1,1-1,Leganes
+Sun Oct 10 2021,Tenerife,2-1,1-0,Amorebieta
+Mon Oct 11 2021,Zaragoza,0-0,0-0,Huesca
+Fri Oct 15 2021,Eibar,1-0,1-0,Almeria
+Sat Oct 16 2021,Amorebieta,2-3,1-1,Cartagena
+Sat Oct 16 2021,Girona,1-3,0-0,Huesca
+Sat Oct 16 2021,Las Palmas,2-1,1-0,Tenerife
+Sat Oct 16 2021,Malaga,1-1,1-1,Zaragoza
+Sat Oct 16 2021,Sp Gijon,1-0,0-0,Alcorcon
+Sun Oct 17 2021,Ibiza,0-2,0-1,Mirandes
+Sun Oct 17 2021,Leganes,0-2,0-1,Valladolid
+Sun Oct 17 2021,Burgos,1-1,1-1,Lugo
+Sun Oct 17 2021,Sociedad B,1-1,0-0,Oviedo
+Sun Oct 17 2021,Ponferradina,0-0,0-0,Fuenlabrada
+Tue Oct 19 2021,Cartagena,1-0,0-0,Sp Gijon
+Tue Oct 19 2021,Huesca,0-0,0-0,Malaga
+Tue Oct 19 2021,Tenerife,0-1,0-0,Eibar
+Wed Oct 20 2021,Fuenlabrada,0-0,0-0,Amorebieta
+Wed Oct 20 2021,Valladolid,1-1,0-0,Ibiza
+Wed Oct 20 2021,Alcorcon,3-3,2-2,Leganes
+Wed Oct 20 2021,Lugo,2-0,2-0,Las Palmas
+Thu Oct 21 2021,Almeria,3-1,1-1,Sociedad B
+Thu Oct 21 2021,Zaragoza,1-1,0-0,Ponferradina
+Thu Oct 21 2021,Mirandes,1-2,0-2,Girona
+Thu Oct 21 2021,Oviedo,1-3,0-1,Burgos
+Fri Oct 22 2021,Eibar,2-1,2-0,Cartagena
+Sat Oct 23 2021,Ibiza,3-1,1-1,Fuenlabrada
+Sat Oct 23 2021,Sp Gijon,1-2,0-1,Valladolid
+Sat Oct 23 2021,Malaga,1-0,1-0,Lugo
+Sat Oct 23 2021,Leganes,1-2,0-1,Tenerife
+Sun Oct 24 2021,Amorebieta,1-2,0-1,Sociedad B
+Sun Oct 24 2021,Mirandes,1-4,0-3,Almeria
+Sun Oct 24 2021,Burgos,3-1,1-1,Huesca
+Sun Oct 24 2021,Ponferradina,1-2,0-1,Oviedo
+Sun Oct 24 2021,Las Palmas,3-0,1-0,Alcorcon
+Mon Oct 25 2021,Girona,1-1,0-0,Zaragoza
+Fri Oct 29 2021,Almeria,1-0,1-0,Leganes
+Fri Oct 29 2021,Sociedad B,0-1,0-1,Las Palmas
+Sat Oct 30 2021,Huesca,1-1,1-0,Amorebieta
+Sat Oct 30 2021,Lugo,1-1,0-0,Sp Gijon
+Sat Oct 30 2021,Cartagena,0-1,0-1,Ponferradina
+Sun Oct 31 2021,Fuenlabrada,1-2,0-0,Girona
+Sun Oct 31 2021,Oviedo,2-1,1-0,Malaga
+Sun Oct 31 2021,Valladolid,2-0,0-0,Eibar
+Sun Oct 31 2021,Zaragoza,1-1,1-0,Mirandes
+Mon Nov 1 2021,Alcorcon,0-2,0-0,Ibiza
+Mon Nov 1 2021,Tenerife,4-0,2-0,Burgos
+Tue Nov 2 2021,Ponferradina,1-1,0-0,Huesca
+Tue Nov 2 2021,Sp Gijon,0-1,0-0,Almeria
+Tue Nov 2 2021,Leganes,1-1,1-1,Cartagena
+Wed Nov 3 2021,Amorebieta,4-1,3-1,Valladolid
+Wed Nov 3 2021,Mirandes,3-2,0-1,Lugo
+Wed Nov 3 2021,Eibar,1-0,0-0,Oviedo
+Wed Nov 3 2021,Las Palmas,2-1,2-0,Fuenlabrada
+Thu Nov 4 2021,Burgos,0-1,0-0,Zaragoza
+Thu Nov 4 2021,Girona,3-1,0-1,Alcorcon
+Thu Nov 4 2021,Ibiza,0-0,0-0,Tenerife
+Thu Nov 4 2021,Malaga,2-1,2-1,Sociedad B
+Fri Nov 5 2021,Huesca,0-2,0-0,Leganes
+Sat Nov 6 2021,Lugo,1-2,0-1,Ponferradina
+Sat Nov 6 2021,Oviedo,1-1,1-0,Las Palmas
+Sat Nov 6 2021,Valladolid,3-1,2-0,Mirandes
+Sat Nov 6 2021,Fuenlabrada,0-0,0-0,Eibar
+Sun Nov 7 2021,Alcorcon,2-2,0-1,Amorebieta
+Sun Nov 7 2021,Zaragoza,2-0,1-0,Sp Gijon
+Sun Nov 7 2021,Almeria,2-0,1-0,Burgos
+Sun Nov 7 2021,Cartagena,3-1,1-0,Malaga
+Sun Nov 7 2021,Sociedad B,0-1,0-0,Ibiza
+Mon Nov 8 2021,Tenerife,2-1,1-0,Girona
+Fri Nov 12 2021,Sp Gijon,0-1,0-0,Sociedad B
+Sat Nov 13 2021,Valladolid,3-0,1-0,Fuenlabrada
+Sat Nov 13 2021,Eibar,2-1,2-1,Alcorcon
+Sat Nov 13 2021,Mirandes,0-1,0-0,Huesca
+Sat Nov 13 2021,Las Palmas,2-3,1-1,Zaragoza
+Sun Nov 14 2021,Amorebieta,1-3,1-2,Lugo
+Sun Nov 14 2021,Girona,2-0,1-0,Cartagena
+Sun Nov 14 2021,Ibiza,0-1,0-1,Almeria
+Sun Nov 14 2021,Burgos,1-0,1-0,Ponferradina
+Sun Nov 14 2021,Leganes,0-0,0-0,Oviedo
+Mon Nov 15 2021,Malaga,1-0,1-0,Tenerife
+Fri Nov 19 2021,Fuenlabrada,1-1,1-0,Mirandes
+Sat Nov 20 2021,Oviedo,2-0,2-0,Amorebieta
+Sat Nov 20 2021,Malaga,2-1,1-0,Las Palmas
+Sat Nov 20 2021,Almeria,3-1,0-1,Valladolid
+Sun Nov 21 2021,Cartagena,1-0,0-0,Burgos
+Sun Nov 21 2021,Lugo,2-2,2-1,Eibar
+Sun Nov 21 2021,Huesca,0-0,0-0,Ibiza
+Sun Nov 21 2021,Tenerife,1-0,0-0,Alcorcon
+Sun Nov 21 2021,Ponferradina,4-1,3-0,Sp Gijon
+Mon Nov 22 2021,Sociedad B,1-2,0-1,Girona
+Mon Nov 22 2021,Zaragoza,0-2,0-1,Leganes
+Fri Nov 26 2021,Alcorcon,1-1,0-1,Lugo
+Fri Nov 26 2021,Mirandes,1-1,0-0,Oviedo
+Sat Nov 27 2021,Burgos,3-0,1-0,Malaga
+Sat Nov 27 2021,Almeria,0-0,0-0,Huesca
+Sat Nov 27 2021,Sp Gijon,1-1,1-0,Fuenlabrada
+Sat Nov 27 2021,Valladolid,2-0,2-0,Cartagena
+Sun Nov 28 2021,Leganes,4-1,2-0,Las Palmas
+Sun Nov 28 2021,Amorebieta,1-1,1-1,Zaragoza
+Sun Nov 28 2021,Ibiza,0-1,0-1,Ponferradina
+Sun Nov 28 2021,Tenerife,2-0,1-0,Sociedad B
+Mon Nov 29 2021,Eibar,4-2,2-1,Girona
+Fri Dec 3 2021,Huesca,3-2,2-0,Valladolid
+Sat Dec 4 2021,Fuenlabrada,1-1,0-0,Almeria
+Sun Dec 5 2021,Ponferradina,2-1,1-0,Mirandes
+Sun Dec 5 2021,Malaga,1-2,0-2,Amorebieta
+Sun Dec 5 2021,Lugo,0-0,0-0,Ibiza
+Sun Dec 5 2021,Oviedo,3-1,0-0,Alcorcon
+Sun Dec 5 2021,Sociedad B,0-1,0-1,Burgos
+Sun Dec 5 2021,Las Palmas,1-0,0-0,Sp Gijon
+Mon Dec 6 2021,Zaragoza,1-0,0-0,Eibar
+Mon Dec 6 2021,Cartagena,1-1,0-0,Tenerife
+Mon Dec 6 2021,Girona,3-0,2-0,Leganes
+Fri Dec 10 2021,Sp Gijon,1-1,0-0,Huesca
+Sat Dec 11 2021,Burgos,2-0,1-0,Fuenlabrada
+Sat Dec 11 2021,Ibiza,1-1,0-1,Girona
+Sat Dec 11 2021,Almeria,3-0,0-0,Zaragoza
+Sat Dec 11 2021,Eibar,2-2,2-1,Malaga
+Sat Dec 11 2021,Tenerife,1-1,1-0,Lugo
+Sun Dec 12 2021,Leganes,1-1,0-1,Ponferradina
+Sun Dec 12 2021,Valladolid,2-1,2-1,Oviedo
+Sun Dec 12 2021,Alcorcon,1-1,1-1,Cartagena
+Sun Dec 12 2021,Amorebieta,1-1,1-1,Las Palmas
+Mon Dec 13 2021,Mirandes,2-0,0-0,Sociedad B
+Fri Dec 17 2021,Girona,3-1,2-0,Burgos
+Sat Dec 18 2021,Ibiza,0-2,0-1,Sp Gijon
+Sat Dec 18 2021,Malaga,0-2,0-0,Leganes
+Sat Dec 18 2021,Las Palmas,0-1,0-1,Eibar
+Sun Dec 19 2021,Fuenlabrada,0-0,0-0,Oviedo
+Sun Dec 19 2021,Ponferradina,1-1,0-1,Amorebieta
+Sun Dec 19 2021,Zaragoza,0-2,0-2,Tenerife
+Sun Dec 19 2021,Cartagena,3-0,2-0,Mirandes
+Sun Dec 19 2021,Huesca,0-0,0-0,Alcorcon
+Sun Dec 19 2021,Sociedad B,0-2,0-0,Valladolid
+Fri Dec 31 2021,Oviedo,2-0,0-0,Ponferradina
+Fri Dec 31 2021,Burgos,2-2,2-1,Amorebieta
+Fri Dec 31 2021,Eibar,3-2,2-0,Sociedad B
+Sun Jan 2 2022,Almeria,0-1,0-1,Cartagena
+Sun Jan 2 2022,Valladolid,1-0,1-0,Leganes
+Sun Jan 2 2022,Sp Gijon,1-1,0-1,Lugo
+Sun Jan 2 2022,Huesca,0-1,0-0,Girona
+Sun Jan 2 2022,Mirandes,2-0,1-0,Zaragoza
+Sun Jan 2 2022,Fuenlabrada,1-2,1-1,Ibiza
+Sun Jan 2 2022,Tenerife,0-1,0-0,Las Palmas
+Mon Jan 3 2022,Alcorcon,0-1,0-0,Malaga
+Fri Jan 7 2022,Amorebieta,1-1,1-1,Tenerife
+Sat Jan 8 2022,Cartagena,0-3,0-1,Huesca
+Sat Jan 8 2022,Ibiza,6-2,2-2,Alcorcon
+Sat Jan 8 2022,Valladolid,1-0,0-0,Burgos
+Sat Jan 8 2022,Leganes,1-1,0-0,Sociedad B
+Sun Jan 9 2022,Girona,2-1,2-0,Fuenlabrada
+Sun Jan 9 2022,Lugo,2-1,1-0,Mirandes
+Sun Jan 9 2022,Malaga,2-2,1-2,Sp Gijon
+Sun Jan 9 2022,Ponferradina,0-0,0-0,Zaragoza
+Sun Jan 9 2022,Las Palmas,1-1,1-0,Almeria
+Mon Jan 10 2022,Oviedo,1-1,1-0,Eibar
+Wed Jan 19 2022,Lugo,2-1,2-0,Almeria
+Fri Jan 21 2022,Tenerife,4-0,2-0,Oviedo
+Sat Jan 22 2022,Zaragoza,0-0,0-0,Valladolid
+Sat Jan 22 2022,Fuenlabrada,3-2,1-1,Las Palmas
+Sat Jan 22 2022,Malaga,0-5,0-1,Ibiza
+Sun Jan 23 2022,Burgos,4-0,3-0,Leganes
+Sun Jan 23 2022,Sp Gijon,2-1,0-1,Amorebieta
+Sun Jan 23 2022,Girona,1-1,0-0,Lugo
+Sun Jan 23 2022,Huesca,1-2,0-1,Ponferradina
+Sun Jan 23 2022,Alcorcon,0-0,0-0,Mirandes
+Mon Jan 24 2022,Almeria,0-2,0-1,Eibar
+Mon Jan 24 2022,Sociedad B,1-2,0-0,Cartagena
+Fri Jan 28 2022,Valladolid,1-0,0-0,Sp Gijon
+Sat Jan 29 2022,Amorebieta,1-0,1-0,Girona
+Sat Jan 29 2022,Eibar,2-1,0-0,Huesca
+Sat Jan 29 2022,Lugo,1-0,0-0,Burgos
+Sat Jan 29 2022,Oviedo,2-0,1-0,Almeria
+Sun Jan 30 2022,Leganes,1-0,0-0,Alcorcon
+Sun Jan 30 2022,Cartagena,3-0,1-0,Fuenlabrada
+Sun Jan 30 2022,Las Palmas,0-0,0-0,Sociedad B
+Sun Jan 30 2022,Mirandes,3-0,2-0,Malaga
+Sun Jan 30 2022,Ponferradina,1-2,1-0,Tenerife
+Mon Jan 31 2022,Ibiza,2-2,0-2,Zaragoza
+Fri Feb 4 2022,Almeria,2-0,0-0,Ibiza
+Fri Feb 4 2022,Burgos,3-1,2-1,Alcorcon
+Sat Feb 5 2022,Sociedad B,1-1,0-1,Lugo
+Sat Feb 5 2022,Zaragoza,1-1,0-1,Malaga
+Sat Feb 5 2022,Girona,3-0,1-0,Ponferradina
+Sat Feb 5 2022,Sp Gijon,0-1,0-1,Eibar
+Sun Feb 6 2022,Amorebieta,1-1,1-1,Oviedo
+Sun Feb 6 2022,Fuenlabrada,0-0,0-0,Valladolid
+Sun Feb 6 2022,Cartagena,0-2,0-2,Las Palmas
+Sun Feb 6 2022,Huesca,4-0,0-0,Mirandes
+Sun Feb 6 2022,Tenerife,0-0,0-0,Leganes
+Fri Feb 11 2022,Leganes,2-1,0-0,Zaragoza
+Sat Feb 12 2022,Mirandes,0-3,0-1,Sp Gijon
+Sat Feb 12 2022,Ibiza,2-1,1-1,Cartagena
+Sat Feb 12 2022,Valladolid,2-2,0-1,Girona
+Sat Feb 12 2022,Malaga,0-1,0-0,Almeria
+Sun Feb 13 2022,Eibar,0-0,0-0,Fuenlabrada
+Sun Feb 13 2022,Oviedo,3-3,3-1,Huesca
+Sun Feb 13 2022,Alcorcon,0-2,0-1,Tenerife
+Sun Feb 13 2022,Lugo,1-1,1-0,Amorebieta
+Sun Feb 13 2022,Las Palmas,0-2,0-0,Burgos
+Mon Feb 14 2022,Ponferradina,3-2,1-0,Sociedad B
+Fri Feb 18 2022,Cartagena,2-3,1-2,Valladolid
+Sat Feb 19 2022,Zaragoza,2-1,1-0,Las Palmas
+Sat Feb 19 2022,Girona,0-1,0-1,Eibar
+Sat Feb 19 2022,Tenerife,2-0,2-0,Ibiza
+Sat Feb 19 2022,Sociedad B,2-0,1-0,Malaga
+Sun Feb 20 2022,Fuenlabrada,2-2,1-0,Alcorcon
+Sun Feb 20 2022,Burgos,0-1,0-0,Oviedo
+Sun Feb 20 2022,Huesca,1-0,0-0,Lugo
+Sun Feb 20 2022,Sp Gijon,2-3,0-2,Ponferradina
+Sun Feb 20 2022,Almeria,2-1,0-0,Mirandes
+Mon Feb 21 2022,Amorebieta,1-3,0-1,Leganes
+Fri Feb 25 2022,Almeria,3-1,1-1,Fuenlabrada
+Sat Feb 26 2022,Ibiza,2-1,1-1,Huesca
+Sat Feb 26 2022,Mirandes,2-1,2-1,Tenerife
+Sat Feb 26 2022,Oviedo,0-1,0-0,Sociedad B
+Sat Feb 26 2022,Las Palmas,2-2,2-1,Lugo
+Sun Feb 27 2022,Eibar,2-0,1-0,Burgos
+Sun Feb 27 2022,Sp Gijon,1-2,0-1,Zaragoza
+Sun Feb 27 2022,Leganes,1-1,1-1,Girona
+Sun Feb 27 2022,Valladolid,5-1,2-0,Amorebieta
+Sun Feb 27 2022,Alcorcon,2-2,0-2,Ponferradina
+Mon Feb 28 2022,Malaga,1-1,0-0,Cartagena
+Fri Mar 4 2022,Zaragoza,2-0,1-0,Almeria
+Sat Mar 5 2022,Fuenlabrada,1-2,0-1,Burgos
+Sat Mar 5 2022,Huesca,0-0,0-0,Las Palmas
+Sat Mar 5 2022,Tenerife,1-4,0-1,Valladolid
+Sun Mar 6 2022,Lugo,1-0,0-0,Alcorcon
+Sun Mar 6 2022,Ponferradina,1-1,1-0,Ibiza
+Sun Mar 6 2022,Amorebieta,1-2,0-1,Malaga
+Sun Mar 6 2022,Cartagena,4-1,1-1,Eibar
+Sun Mar 6 2022,Leganes,2-0,2-0,Mirandes
+Sun Mar 6 2022,Girona,2-1,1-0,Oviedo
+Mon Mar 7 2022,Sociedad B,2-1,1-0,Sp Gijon
+Fri Mar 11 2022,Zaragoza,2-1,0-1,Fuenlabrada
+Sat Mar 12 2022,Ibiza,1-1,0-0,Leganes
+Sat Mar 12 2022,Mirandes,2-1,1-0,Cartagena
+Sat Mar 12 2022,Almeria,3-3,1-1,Lugo
+Sat Mar 12 2022,Las Palmas,1-3,1-0,Girona
+Sat Mar 12 2022,Malaga,0-0,0-0,Ponferradina
+Sun Mar 13 2022,Burgos,0-0,0-0,Sociedad B
+Sun Mar 13 2022,Eibar,1-0,1-0,Amorebieta
+Sun Mar 13 2022,Sp Gijon,1-2,0-0,Tenerife
+Sun Mar 13 2022,Alcorcon,1-0,0-0,Huesca
+Sun Mar 13 2022,Oviedo,3-0,0-0,Valladolid
+Fri Mar 18 2022,Huesca,1-0,1-0,Burgos
+Sat Mar 19 2022,Sociedad B,1-3,1-0,Mirandes
+Sat Mar 19 2022,Cartagena,3-0,1-0,Zaragoza
+Sat Mar 19 2022,Fuenlabrada,1-0,0-0,Malaga
+Sat Mar 19 2022,Lugo,1-1,0-0,Oviedo
+Sat Mar 19 2022,Valladolid,0-1,0-0,Las Palmas
+Sat Mar 19 2022,Girona,5-1,3-0,Ibiza
+Sun Mar 20 2022,Amorebieta,0-0,0-0,Alcorcon
+Sun Mar 20 2022,Ponferradina,2-2,2-0,Eibar
+Sun Mar 20 2022,Leganes,1-1,0-1,Sp Gijon
+Mon Mar 21 2022,Tenerife,0-1,0-0,Almeria
+Fri Mar 25 2022,Zaragoza,1-1,0-0,Amorebieta
+Sat Mar 26 2022,Ibiza,2-2,1-1,Sociedad B
+Sat Mar 26 2022,Eibar,1-0,0-0,Lugo
+Sat Mar 26 2022,Sp Gijon,4-1,1-1,Cartagena
+Sat Mar 26 2022,Oviedo,3-0,1-0,Fuenlabrada
+Sun Mar 27 2022,Mirandes,3-1,2-0,Ponferradina
+Sun Mar 27 2022,Burgos,1-0,0-0,Tenerife
+Sun Mar 27 2022,Alcorcon,1-2,1-2,Valladolid
+Sun Mar 27 2022,Malaga,0-2,0-0,Huesca
+Sun Mar 27 2022,Almeria,0-1,0-1,Girona
+Mon Mar 28 2022,Las Palmas,4-2,3-1,Leganes
+Fri Apr 1 2022,Girona,1-0,0-0,Malaga
+Sat Apr 2 2022,Sociedad B,2-4,2-2,Alcorcon
+Sat Apr 2 2022,Valladolid,4-1,1-0,Lugo
+Sat Apr 2 2022,Amorebieta,3-1,0-0,Ibiza
+Sat Apr 2 2022,Tenerife,1-1,1-1,Zaragoza
+Sun Apr 3 2022,Cartagena,1-2,1-1,Oviedo
+Sun Apr 3 2022,Burgos,0-0,0-0,Sp Gijon
+Sun Apr 3 2022,Ponferradina,1-2,1-0,Las Palmas
+Sun Apr 3 2022,Eibar,1-1,0-0,Mirandes
+Sun Apr 3 2022,Huesca,1-1,1-1,Almeria
+Mon Apr 4 2022,Leganes,3-2,1-2,Fuenlabrada
+Fri Apr 8 2022,Lugo,1-0,1-0,Cartagena
+Sat Apr 9 2022,Sociedad B,1-2,0-1,Tenerife
+Sat Apr 9 2022,Alcorcon,1-1,1-0,Sp Gijon
+Sat Apr 9 2022,Malaga,2-2,1-0,Valladolid
+Sat Apr 9 2022,Las Palmas,1-0,0-0,Amorebieta
+Sun Apr 10 2022,Fuenlabrada,2-3,1-2,Huesca
+Sun Apr 10 2022,Zaragoza,1-0,1-0,Girona
+Sun Apr 10 2022,Ibiza,2-0,0-0,Eibar
+Sun Apr 10 2022,Mirandes,3-1,1-1,Burgos
+Sun Apr 10 2022,Oviedo,1-0,0-0,Leganes
+Mon Apr 11 2022,Almeria,3-0,1-0,Ponferradina
+Fri Apr 15 2022,Eibar,2-2,1-2,Las Palmas
+Fri Apr 15 2022,Amorebieta,1-0,0-0,Mirandes
+Sat Apr 16 2022,Leganes,0-3,0-0,Malaga
+Sat Apr 16 2022,Valladolid,2-2,1-1,Almeria
+Sat Apr 16 2022,Sp Gijon,0-1,0-0,Oviedo
+Sat Apr 16 2022,Cartagena,3-1,1-1,Alcorcon
+Sun Apr 17 2022,Ponferradina,3-1,1-0,Lugo
+Sun Apr 17 2022,Burgos,2-1,1-0,Ibiza
+Sun Apr 17 2022,Huesca,1-1,1-1,Zaragoza
+Sun Apr 17 2022,Tenerife,3-1,2-0,Fuenlabrada
+Mon Apr 18 2022,Girona,2-0,0-0,Sociedad B
+Fri Apr 22 2022,Tenerife,0-0,0-0,Huesca
+Sat Apr 23 2022,Sociedad B,2-1,2-0,Amorebieta
+Sat Apr 23 2022,Cartagena,3-0,2-0,Girona
+Sat Apr 23 2022,Fuenlabrada,2-3,2-0,Ponferradina
+Sat Apr 23 2022,Malaga,1-3,1-1,Eibar
+Sun Apr 24 2022,Alcorcon,1-2,0-0,Oviedo
+Sun Apr 24 2022,Ibiza,1-1,0-1,Las Palmas
+Sun Apr 24 2022,Mirandes,0-1,0-1,Valladolid
+Sun Apr 24 2022,Lugo,0-0,0-0,Leganes
+Sun Apr 24 2022,Zaragoza,0-0,0-0,Burgos
+Mon Apr 25 2022,Almeria,1-0,0-0,Sp Gijon
+Fri Apr 29 2022,Las Palmas,2-1,1-0,Malaga
+Sat Apr 30 2022,Oviedo,3-0,1-0,Mirandes
+Sat Apr 30 2022,Eibar,2-0,0-0,Zaragoza
+Sat Apr 30 2022,Burgos,0-2,0-2,Almeria
+Sun May 1 2022,Amorebieta,2-1,1-0,Fuenlabrada
+Sun May 1 2022,Alcorcon,0-1,0-1,Girona
+Sun May 1 2022,Sp Gijon,0-1,0-1,Ibiza
+Sun May 1 2022,Lugo,0-2,0-0,Tenerife
+Sun May 1 2022,Ponferradina,4-2,3-2,Cartagena
+Mon May 2 2022,Leganes,2-1,1-1,Huesca
+Mon May 2 2022,Valladolid,1-2,0-0,Sociedad B
+Fri May 6 2022,Las Palmas,1-0,1-0,Mirandes
+Sat May 7 2022,Fuenlabrada,1-2,1-0,Sociedad B
+Sat May 7 2022,Huesca,1-1,0-0,Sp Gijon
+Sat May 7 2022,Almeria,3-0,0-0,Amorebieta
+Sat May 7 2022,Malaga,0-0,0-0,Oviedo
+Sat May 7 2022,Ponferradina,3-1,2-0,Burgos
+Sun May 8 2022,Cartagena,0-0,0-0,Leganes
+Sun May 8 2022,Eibar,0-2,0-0,Valladolid
+Sun May 8 2022,Ibiza,1-1,0-1,Lugo
+Sun May 8 2022,Zaragoza,0-3,0-1,Alcorcon
+Mon May 9 2022,Girona,0-1,0-1,Tenerife
+Fri May 13 2022,Sociedad B,0-2,0-1,Almeria
+Sat May 14 2022,Amorebieta,1-0,0-0,Huesca
+Sat May 14 2022,Burgos,1-1,1-0,Cartagena
+Sat May 14 2022,Lugo,1-3,1-1,Fuenlabrada
+Sat May 14 2022,Valladolid,2-0,1-0,Ponferradina
+Sat May 14 2022,Leganes,2-3,1-2,Eibar
+Sun May 15 2022,Alcorcon,0-2,0-1,Las Palmas
+Sun May 15 2022,Mirandes,4-0,2-0,Ibiza
+Sun May 15 2022,Sp Gijon,2-1,2-1,Girona
+Sun May 15 2022,Tenerife,0-2,0-1,Malaga
+Mon May 16 2022,Oviedo,3-3,2-3,Zaragoza
+Fri May 20 2022,Zaragoza,1-0,0-0,Lugo
+Sat May 21 2022,Cartagena,5-0,2-0,Amorebieta
+Sat May 21 2022,Fuenlabrada,0-0,0-0,Sp Gijon
+Sat May 21 2022,Huesca,3-2,2-0,Sociedad B
+Sat May 21 2022,Malaga,0-1,0-1,Burgos
+Sat May 21 2022,Almeria,1-1,0-0,Alcorcon
+Sat May 21 2022,Eibar,2-0,1-0,Tenerife
+Sat May 21 2022,Girona,2-0,1-0,Mirandes
+Sat May 21 2022,Ibiza,1-2,0-1,Valladolid
+Sat May 21 2022,Las Palmas,2-1,1-1,Oviedo
+Sat May 21 2022,Ponferradina,0-3,0-2,Leganes
+Fri May 27 2022,Mirandes,5-1,2-0,Fuenlabrada
+Fri May 27 2022,Sociedad B,1-2,0-2,Zaragoza
+Sat May 28 2022,Amorebieta,1-0,0-0,Ponferradina
+Sat May 28 2022,Lugo,1-0,0-0,Malaga
+Sun May 29 2022,Alcorcon,1-0,0-0,Eibar
+Sun May 29 2022,Burgos,0-0,0-0,Girona
+Sun May 29 2022,Leganes,2-2,2-1,Almeria
+Sun May 29 2022,Oviedo,3-2,1-0,Ibiza
+Sun May 29 2022,Sp Gijon,0-1,0-1,Las Palmas
+Sun May 29 2022,Tenerife,1-2,0-2,Cartagena
+Sun May 29 2022,Valladolid,3-0,0-0,Huesca

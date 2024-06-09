@@ -1,0 +1,553 @@
+Date,Team 1,FT,HT,Team 2
+Sat Jul 30 2022,AFC Wimbledon,2-0,1-0,Gillingham
+Sat Jul 30 2022,Bradford,0-0,0-0,Doncaster
+Sat Jul 30 2022,Carlisle,1-0,1-0,Crawley Town
+Sat Jul 30 2022,Harrogate,3-0,1-0,Swindon
+Sat Jul 30 2022,Leyton Orient,2-0,0-0,Grimsby
+Sat Jul 30 2022,Northampton,3-2,1-1,Colchester
+Sat Jul 30 2022,Rochdale,1-2,0-2,Crewe
+Sat Jul 30 2022,Salford,2-0,2-0,Mansfield
+Sat Jul 30 2022,Stockport,2-3,0-3,Barrow
+Sat Jul 30 2022,Sutton,1-1,1-1,Newport County
+Sat Jul 30 2022,Tranmere,1-2,0-1,Stevenage
+Sat Jul 30 2022,Walsall,4-0,2-0,Hartlepool
+Sat Aug 6 2022,Barrow,3-2,0-0,Bradford
+Sat Aug 6 2022,Colchester,1-1,1-1,Carlisle
+Sat Aug 6 2022,Crawley Town,0-1,0-0,Leyton Orient
+Sat Aug 6 2022,Crewe,3-0,2-0,Harrogate
+Sat Aug 6 2022,Doncaster,2-1,0-1,Sutton
+Sat Aug 6 2022,Gillingham,1-0,1-0,Rochdale
+Sat Aug 6 2022,Grimsby,1-1,0-0,Northampton
+Sat Aug 6 2022,Hartlepool,0-0,0-0,AFC Wimbledon
+Sat Aug 6 2022,Mansfield,1-0,0-0,Tranmere
+Sat Aug 6 2022,Newport County,0-1,0-0,Walsall
+Sat Aug 6 2022,Stevenage,2-1,0-0,Stockport
+Sat Aug 6 2022,Swindon,0-0,0-0,Salford
+Sat Aug 13 2022,AFC Wimbledon,2-2,0-0,Doncaster
+Sat Aug 13 2022,Bradford,2-0,1-0,Newport County
+Sat Aug 13 2022,Carlisle,1-1,1-1,Swindon
+Sat Aug 13 2022,Harrogate,0-0,0-0,Crawley Town
+Sat Aug 13 2022,Leyton Orient,1-0,0-0,Mansfield
+Sat Aug 13 2022,Northampton,2-1,1-1,Hartlepool
+Sat Aug 13 2022,Rochdale,0-1,0-0,Grimsby
+Sat Aug 13 2022,Salford,3-0,1-0,Crewe
+Sat Aug 13 2022,Stockport,1-0,0-0,Colchester
+Sat Aug 13 2022,Sutton,1-0,0-0,Barrow
+Sat Aug 13 2022,Tranmere,3-0,1-0,Gillingham
+Sat Aug 13 2022,Walsall,1-1,1-0,Stevenage
+Tue Aug 16 2022,Barrow,2-1,2-0,Walsall
+Tue Aug 16 2022,Colchester,1-0,0-0,Bradford
+Tue Aug 16 2022,Crawley Town,2-3,1-2,Northampton
+Tue Aug 16 2022,Crewe,1-0,1-0,Sutton
+Tue Aug 16 2022,Doncaster,2-1,1-0,Stockport
+Tue Aug 16 2022,Gillingham,0-2,0-1,Harrogate
+Tue Aug 16 2022,Hartlepool,0-0,0-0,Tranmere
+Tue Aug 16 2022,Mansfield,5-2,2-2,AFC Wimbledon
+Tue Aug 16 2022,Newport County,2-3,0-0,Salford
+Tue Aug 16 2022,Stevenage,1-0,1-0,Rochdale
+Tue Aug 16 2022,Swindon,1-1,1-1,Leyton Orient
+Sat Aug 20 2022,Hartlepool,1-3,1-1,Bradford
+Sat Aug 20 2022,Barrow,1-0,1-0,Harrogate
+Sat Aug 20 2022,Colchester,1-3,0-1,Leyton Orient
+Sat Aug 20 2022,Crawley Town,0-2,0-2,AFC Wimbledon
+Sat Aug 20 2022,Crewe,2-2,2-1,Northampton
+Sat Aug 20 2022,Doncaster,2-1,1-1,Salford
+Sat Aug 20 2022,Gillingham,0-0,0-0,Walsall
+Sat Aug 20 2022,Grimsby,0-0,0-0,Sutton
+Sat Aug 20 2022,Mansfield,2-1,0-0,Stockport
+Sat Aug 20 2022,Newport County,2-1,2-1,Tranmere
+Sat Aug 20 2022,Stevenage,2-1,2-1,Carlisle
+Sat Aug 20 2022,Swindon,3-0,1-0,Rochdale
+Sat Aug 27 2022,AFC Wimbledon,0-1,0-1,Barrow
+Sat Aug 27 2022,Bradford,0-0,0-0,Crewe
+Sat Aug 27 2022,Carlisle,1-0,0-0,Gillingham
+Sat Aug 27 2022,Harrogate,0-4,0-4,Newport County
+Sat Aug 27 2022,Leyton Orient,4-2,2-1,Hartlepool
+Sat Aug 27 2022,Northampton,0-1,0-0,Doncaster
+Sat Aug 27 2022,Rochdale,1-1,0-1,Crawley Town
+Sat Aug 27 2022,Salford,1-0,0-0,Stevenage
+Sat Aug 27 2022,Stockport,1-1,0-0,Swindon
+Sat Aug 27 2022,Sutton,2-1,1-0,Mansfield
+Sat Aug 27 2022,Tranmere,2-0,1-0,Colchester
+Sat Aug 27 2022,Walsall,1-2,1-0,Grimsby
+Sat Sep 3 2022,Bradford,2-1,2-0,Walsall
+Sat Sep 3 2022,Carlisle,3-3,1-1,Rochdale
+Sat Sep 3 2022,Colchester,1-1,0-1,Hartlepool
+Sat Sep 3 2022,Crewe,1-2,1-0,Stevenage
+Sat Sep 3 2022,Doncaster,1-3,1-1,Mansfield
+Sat Sep 3 2022,Gillingham,0-0,0-0,Swindon
+Sat Sep 3 2022,Leyton Orient,2-0,1-0,Tranmere
+Sat Sep 3 2022,Newport County,0-2,0-0,Grimsby
+Sat Sep 3 2022,Northampton,3-1,1-1,Barrow
+Sat Sep 3 2022,Salford,2-2,1-1,Crawley Town
+Sat Sep 3 2022,Stockport,1-0,1-0,AFC Wimbledon
+Sat Sep 3 2022,Sutton,2-1,1-1,Harrogate
+Tue Sep 13 2022,AFC Wimbledon,0-2,0-1,Northampton
+Tue Sep 13 2022,Barrow,2-0,1-0,Doncaster
+Tue Sep 13 2022,Crawley Town,3-2,2-1,Stockport
+Tue Sep 13 2022,Grimsby,1-1,1-1,Gillingham
+Tue Sep 13 2022,Harrogate,0-1,0-0,Salford
+Tue Sep 13 2022,Hartlepool,1-1,1-0,Crewe
+Tue Sep 13 2022,Mansfield,0-0,0-0,Carlisle
+Tue Sep 13 2022,Rochdale,0-1,0-1,Leyton Orient
+Tue Sep 13 2022,Stevenage,1-0,0-0,Newport County
+Tue Sep 13 2022,Swindon,3-2,2-2,Sutton
+Tue Sep 13 2022,Tranmere,1-2,0-1,Bradford
+Tue Sep 13 2022,Walsall,1-1,0-1,Colchester
+Sat Sep 17 2022,Bradford,3-0,1-0,Stevenage
+Sat Sep 17 2022,Carlisle,2-1,1-0,AFC Wimbledon
+Sat Sep 17 2022,Colchester,0-1,0-0,Grimsby
+Sat Sep 17 2022,Crewe,1-0,0-0,Crawley Town
+Sat Sep 17 2022,Doncaster,0-1,0-0,Swindon
+Sat Sep 17 2022,Gillingham,0-2,0-2,Mansfield
+Sat Sep 17 2022,Leyton Orient,1-0,0-0,Walsall
+Sat Sep 17 2022,Newport County,0-2,0-1,Barrow
+Sat Sep 17 2022,Northampton,3-0,1-0,Rochdale
+Sat Sep 17 2022,Salford,0-1,0-1,Tranmere
+Sat Sep 17 2022,Stockport,0-0,0-0,Harrogate
+Sat Sep 17 2022,Sutton,2-0,0-0,Hartlepool
+Sat Sep 24 2022,Northampton,2-1,0-1,Stockport
+Sat Sep 24 2022,Barrow,0-2,0-1,Leyton Orient
+Sat Sep 24 2022,Bradford,2-2,1-0,AFC Wimbledon
+Sat Sep 24 2022,Colchester,0-1,0-1,Rochdale
+Sat Sep 24 2022,Crewe,1-2,0-0,Mansfield
+Sat Sep 24 2022,Doncaster,4-1,1-1,Crawley Town
+Sat Sep 24 2022,Grimsby,1-2,1-2,Swindon
+Sat Sep 24 2022,Hartlepool,0-0,0-0,Gillingham
+Sat Sep 24 2022,Newport County,1-1,1-0,Carlisle
+Sat Sep 24 2022,Stevenage,1-0,0-0,Harrogate
+Sat Sep 24 2022,Sutton,1-2,0-0,Salford
+Sat Sep 24 2022,Walsall,0-1,0-0,Tranmere
+Tue Sep 27 2022,Grimsby,1-2,0-2,Carlisle
+Fri Sep 30 2022,Mansfield,2-2,0-0,Hartlepool
+Sat Oct 1 2022,Harrogate,1-2,0-1,Bradford
+Sat Oct 1 2022,AFC Wimbledon,2-1,0-1,Colchester
+Sat Oct 1 2022,Carlisle,0-0,0-0,Crewe
+Sat Oct 1 2022,Crawley Town,1-2,0-1,Stevenage
+Sat Oct 1 2022,Gillingham,1-0,0-0,Sutton
+Sat Oct 1 2022,Leyton Orient,1-2,0-2,Newport County
+Sat Oct 1 2022,Rochdale,1-2,1-1,Doncaster
+Sat Oct 1 2022,Salford,1-1,1-1,Grimsby
+Sat Oct 1 2022,Stockport,1-1,1-0,Walsall
+Sat Oct 1 2022,Swindon,1-2,0-0,Northampton
+Sat Oct 1 2022,Tranmere,1-0,1-0,Barrow
+Tue Oct 4 2022,Hartlepool,2-1,1-0,Doncaster
+Tue Oct 4 2022,Stevenage,3-0,1-0,Sutton
+Tue Oct 4 2022,Swindon,1-0,0-0,Newport County
+Tue Oct 4 2022,Walsall,1-0,1-0,Northampton
+Sat Oct 8 2022,Barrow,0-1,0-0,Mansfield
+Sat Oct 8 2022,Bradford,0-1,0-1,Stockport
+Sat Oct 8 2022,Colchester,2-1,2-0,Harrogate
+Sat Oct 8 2022,Crewe,1-1,1-1,Gillingham
+Sat Oct 8 2022,Doncaster,1-1,0-1,Leyton Orient
+Sat Oct 8 2022,Grimsby,3-0,1-0,Crawley Town
+Sat Oct 8 2022,Hartlepool,1-3,1-0,Carlisle
+Sat Oct 8 2022,Newport County,0-1,0-1,Rochdale
+Sat Oct 8 2022,Northampton,0-1,0-1,Salford
+Sat Oct 8 2022,Stevenage,2-0,1-0,Swindon
+Sat Oct 8 2022,Sutton,0-2,0-2,Tranmere
+Sat Oct 8 2022,Walsall,3-1,1-1,AFC Wimbledon
+Fri Oct 14 2022,Tranmere,3-0,1-0,Crewe
+Sat Oct 15 2022,Harrogate,2-1,2-0,Hartlepool
+Sat Oct 15 2022,Mansfield,2-1,1-1,Walsall
+Sat Oct 15 2022,AFC Wimbledon,0-1,0-1,Sutton
+Sat Oct 15 2022,Carlisle,3-0,1-0,Doncaster
+Sat Oct 15 2022,Crawley Town,2-1,1-0,Newport County
+Sat Oct 15 2022,Gillingham,1-1,1-1,Stevenage
+Sat Oct 15 2022,Leyton Orient,0-0,0-0,Northampton
+Sat Oct 15 2022,Rochdale,2-1,1-0,Barrow
+Sat Oct 15 2022,Salford,0-1,0-1,Bradford
+Sat Oct 15 2022,Stockport,1-3,1-2,Grimsby
+Sat Oct 15 2022,Swindon,1-0,0-0,Colchester
+Sat Oct 22 2022,Carlisle,2-3,1-2,Leyton Orient
+Sat Oct 22 2022,Crawley Town,3-2,2-2,Mansfield
+Sat Oct 22 2022,Crewe,1-1,1-0,Doncaster
+Sat Oct 22 2022,Gillingham,1-1,0-1,Barrow
+Sat Oct 22 2022,Grimsby,0-0,0-0,Bradford
+Sat Oct 22 2022,Harrogate,1-1,1-0,Tranmere
+Sat Oct 22 2022,Newport County,1-0,1-0,Colchester
+Sat Oct 22 2022,Rochdale,1-2,0-1,AFC Wimbledon
+Sat Oct 22 2022,Salford,0-2,0-1,Stockport
+Sat Oct 22 2022,Stevenage,2-3,1-1,Northampton
+Sat Oct 22 2022,Sutton,1-1,0-0,Walsall
+Sat Oct 22 2022,Swindon,2-1,2-1,Hartlepool
+Tue Oct 25 2022,AFC Wimbledon,1-1,1-0,Crewe
+Tue Oct 25 2022,Barrow,1-0,0-0,Grimsby
+Tue Oct 25 2022,Bradford,1-1,1-0,Swindon
+Tue Oct 25 2022,Colchester,2-2,1-1,Crawley Town
+Tue Oct 25 2022,Doncaster,0-1,0-1,Stevenage
+Tue Oct 25 2022,Hartlepool,0-2,0-1,Salford
+Tue Oct 25 2022,Leyton Orient,2-0,0-0,Gillingham
+Tue Oct 25 2022,Mansfield,0-0,0-0,Newport County
+Tue Oct 25 2022,Northampton,2-2,2-0,Sutton
+Tue Oct 25 2022,Stockport,2-0,1-0,Carlisle
+Tue Oct 25 2022,Tranmere,1-1,1-1,Rochdale
+Tue Oct 25 2022,Walsall,3-1,3-0,Harrogate
+Sat Oct 29 2022,Northampton,1-1,0-1,Newport County
+Sat Oct 29 2022,AFC Wimbledon,3-2,1-0,Harrogate
+Sat Oct 29 2022,Barrow,3-0,2-0,Crewe
+Sat Oct 29 2022,Bradford,1-1,0-0,Crawley Town
+Sat Oct 29 2022,Colchester,1-1,1-1,Stevenage
+Sat Oct 29 2022,Doncaster,1-0,0-0,Gillingham
+Sat Oct 29 2022,Hartlepool,2-1,0-1,Grimsby
+Sat Oct 29 2022,Leyton Orient,1-0,1-0,Salford
+Sat Oct 29 2022,Mansfield,2-5,2-2,Swindon
+Sat Oct 29 2022,Stockport,3-0,1-0,Sutton
+Sat Oct 29 2022,Tranmere,0-2,0-1,Carlisle
+Sat Oct 29 2022,Walsall,1-0,1-0,Rochdale
+Tue Nov 1 2022,Barrow,3-1,2-0,Colchester
+Tue Nov 1 2022,Tranmere,0-0,0-0,Stockport
+Tue Nov 8 2022,AFC Wimbledon,2-0,2-0,Leyton Orient
+Tue Nov 8 2022,Harrogate,3-3,1-1,Carlisle
+Tue Nov 8 2022,Mansfield,1-2,0-1,Bradford
+Tue Nov 8 2022,Rochdale,1-0,0-0,Salford
+Sat Nov 12 2022,Carlisle,0-0,0-0,Walsall
+Sat Nov 12 2022,Crawley Town,1-0,1-0,Barrow
+Sat Nov 12 2022,Crewe,1-0,0-0,Colchester
+Sat Nov 12 2022,Gillingham,0-2,0-1,Northampton
+Sat Nov 12 2022,Grimsby,1-3,0-1,Doncaster
+Sat Nov 12 2022,Harrogate,0-2,0-2,Leyton Orient
+Sat Nov 12 2022,Newport County,1-2,1-0,Stockport
+Sat Nov 12 2022,Rochdale,0-1,0-0,Mansfield
+Sat Nov 12 2022,Salford,0-0,0-0,AFC Wimbledon
+Sat Nov 12 2022,Stevenage,1-0,0-0,Hartlepool
+Sat Nov 12 2022,Sutton,0-2,0-1,Bradford
+Sat Nov 12 2022,Swindon,1-1,1-1,Tranmere
+Sat Nov 19 2022,Barrow,3-1,3-0,Hartlepool
+Sat Nov 19 2022,Bradford,1-3,0-2,Northampton
+Sat Nov 19 2022,Colchester,3-0,1-0,Doncaster
+Sat Nov 19 2022,Grimsby,1-1,0-0,Stevenage
+Sat Nov 19 2022,Harrogate,3-0,3-0,Mansfield
+Sat Nov 19 2022,Newport County,2-0,1-0,Gillingham
+Sat Nov 19 2022,Salford,1-4,0-1,Carlisle
+Sat Nov 19 2022,Stockport,1-2,1-1,Leyton Orient
+Sat Nov 19 2022,Sutton,1-0,1-0,Rochdale
+Sat Nov 19 2022,Swindon,0-1,0-1,Crewe
+Sat Nov 19 2022,Tranmere,0-2,0-1,AFC Wimbledon
+Sat Nov 19 2022,Walsall,2-1,1-1,Crawley Town
+Tue Nov 22 2022,Crawley Town,0-0,0-0,Gillingham
+Fri Dec 2 2022,Crewe,1-2,1-0,Newport County
+Fri Dec 2 2022,Doncaster,0-2,0-0,Walsall
+Fri Dec 2 2022,Stevenage,5-0,1-0,Barrow
+Sat Dec 3 2022,AFC Wimbledon,1-0,0-0,Grimsby
+Sat Dec 3 2022,Gillingham,0-3,0-0,Salford
+Sat Dec 3 2022,Leyton Orient,3-0,2-0,Bradford
+Sat Dec 3 2022,Carlisle,1-1,1-1,Sutton
+Sat Dec 3 2022,Crawley Town,2-0,0-0,Swindon
+Sat Dec 3 2022,Hartlepool,0-5,0-2,Stockport
+Sat Dec 3 2022,Mansfield,2-1,1-1,Colchester
+Sat Dec 3 2022,Northampton,0-0,0-0,Tranmere
+Sat Dec 3 2022,Rochdale,1-4,1-1,Harrogate
+Fri Dec 9 2022,Crawley Town,0-2,0-0,Hartlepool
+Sat Dec 10 2022,Grimsby,2-1,1-0,Tranmere
+Sat Dec 10 2022,Newport County,0-1,0-0,Doncaster
+Sat Dec 10 2022,Stevenage,0-0,0-0,Mansfield
+Sat Dec 10 2022,Sutton,1-0,1-0,Colchester
+Sat Dec 10 2022,Swindon,0-0,0-0,AFC Wimbledon
+Sat Dec 17 2022,Barrow,0-1,0-1,Swindon
+Sat Dec 17 2022,Leyton Orient,2-0,0-0,Sutton
+Tue Dec 20 2022,Northampton,2-1,0-0,Carlisle
+Mon Dec 26 2022,AFC Wimbledon,1-1,0-0,Newport County
+Mon Dec 26 2022,Carlisle,1-0,1-0,Bradford
+Mon Dec 26 2022,Crawley Town,1-2,0-0,Sutton
+Mon Dec 26 2022,Gillingham,0-1,0-1,Colchester
+Mon Dec 26 2022,Harrogate,3-2,1-1,Grimsby
+Mon Dec 26 2022,Mansfield,1-1,0-0,Northampton
+Mon Dec 26 2022,Rochdale,1-2,0-1,Hartlepool
+Mon Dec 26 2022,Salford,1-1,1-0,Barrow
+Mon Dec 26 2022,Stockport,2-0,0-0,Crewe
+Mon Dec 26 2022,Swindon,1-2,1-1,Walsall
+Mon Dec 26 2022,Tranmere,3-0,1-0,Doncaster
+Tue Dec 27 2022,Leyton Orient,0-0,0-0,Stevenage
+Thu Dec 29 2022,Crewe,0-3,0-1,Carlisle
+Thu Dec 29 2022,Barrow,1-2,1-1,Tranmere
+Thu Dec 29 2022,Bradford,1-0,1-0,Harrogate
+Thu Dec 29 2022,Colchester,1-2,0-0,AFC Wimbledon
+Thu Dec 29 2022,Doncaster,4-3,3-2,Rochdale
+Thu Dec 29 2022,Grimsby,1-4,1-4,Salford
+Thu Dec 29 2022,Hartlepool,1-2,1-0,Mansfield
+Thu Dec 29 2022,Northampton,1-2,0-1,Swindon
+Thu Dec 29 2022,Sutton,2-1,1-0,Gillingham
+Thu Dec 29 2022,Walsall,0-2,0-1,Stockport
+Fri Dec 30 2022,Newport County,0-0,0-0,Leyton Orient
+Fri Dec 30 2022,Stevenage,3-1,2-0,Crawley Town
+Sun Jan 1 2023,Bradford,3-2,2-1,Salford
+Sun Jan 1 2023,Colchester,1-0,1-0,Swindon
+Sun Jan 1 2023,Crewe,1-0,1-0,Tranmere
+Sun Jan 1 2023,Doncaster,2-1,1-0,Carlisle
+Sun Jan 1 2023,Grimsby,1-0,0-0,Stockport
+Sun Jan 1 2023,Hartlepool,3-3,1-1,Harrogate
+Sun Jan 1 2023,Sutton,2-1,1-1,AFC Wimbledon
+Sun Jan 1 2023,Walsall,2-1,1-0,Mansfield
+Mon Jan 2 2023,Barrow,0-0,0-0,Rochdale
+Mon Jan 2 2023,Newport County,2-2,0-1,Crawley Town
+Mon Jan 2 2023,Northampton,1-0,0-0,Leyton Orient
+Mon Jan 2 2023,Stevenage,1-0,1-0,Gillingham
+Sat Jan 7 2023,Salford,2-1,2-1,Northampton
+Sat Jan 7 2023,Crewe,0-0,0-0,AFC Wimbledon
+Sat Jan 7 2023,Harrogate,1-3,0-2,Colchester
+Sat Jan 7 2023,Leyton Orient,1-0,0-0,Doncaster
+Sat Jan 7 2023,Mansfield,2-3,2-1,Barrow
+Sat Jan 7 2023,Rochdale,1-1,1-0,Newport County
+Sat Jan 7 2023,Tranmere,2-2,1-1,Sutton
+Tue Jan 10 2023,Bradford,1-2,1-0,Rochdale
+Sat Jan 14 2023,AFC Wimbledon,0-0,0-0,Bradford
+Sat Jan 14 2023,Carlisle,2-0,1-0,Newport County
+Sat Jan 14 2023,Gillingham,2-0,1-0,Hartlepool
+Sat Jan 14 2023,Harrogate,1-1,0-0,Stevenage
+Sat Jan 14 2023,Leyton Orient,0-0,0-0,Barrow
+Sat Jan 14 2023,Mansfield,1-1,1-0,Crewe
+Sat Jan 14 2023,Rochdale,1-2,1-1,Colchester
+Sat Jan 14 2023,Salford,2-0,2-0,Sutton
+Sat Jan 14 2023,Stockport,2-0,1-0,Northampton
+Sat Jan 14 2023,Swindon,5-0,1-0,Grimsby
+Sat Jan 14 2023,Tranmere,1-1,0-0,Walsall
+Sat Jan 21 2023,Colchester,0-2,0-2,Gillingham
+Sat Jan 21 2023,Hartlepool,2-0,0-0,Rochdale
+Sat Jan 21 2023,Stevenage,3-0,2-0,Leyton Orient
+Tue Jan 24 2023,Carlisle,3-1,2-1,Hartlepool
+Tue Jan 24 2023,Colchester,1-1,0-0,Salford
+Tue Jan 24 2023,Stockport,0-0,0-0,Bradford
+Sat Jan 28 2023,AFC Wimbledon,1-0,0-0,Stockport
+Sat Jan 28 2023,Barrow,0-2,0-0,Northampton
+Sat Jan 28 2023,Crawley Town,3-2,2-0,Salford
+Sat Jan 28 2023,Harrogate,0-1,0-1,Sutton
+Sat Jan 28 2023,Hartlepool,1-2,0-1,Colchester
+Sat Jan 28 2023,Mansfield,4-1,2-0,Doncaster
+Sat Jan 28 2023,Rochdale,0-1,0-1,Carlisle
+Sat Jan 28 2023,Swindon,3-3,1-3,Gillingham
+Sat Jan 28 2023,Tranmere,1-0,0-0,Leyton Orient
+Tue Jan 31 2023,Carlisle,5-1,1-0,Barrow
+Tue Jan 31 2023,Crewe,1-1,1-0,Stockport
+Tue Jan 31 2023,Salford,1-0,1-0,Walsall
+Sat Feb 4 2023,Newport County,2-1,0-0,Swindon
+Sat Feb 4 2023,Bradford,1-1,1-0,Mansfield
+Sat Feb 4 2023,Carlisle,0-1,0-0,Harrogate
+Sat Feb 4 2023,Colchester,1-1,0-0,Barrow
+Sat Feb 4 2023,Crewe,0-3,0-2,Grimsby
+Sat Feb 4 2023,Doncaster,0-1,0-0,Hartlepool
+Sat Feb 4 2023,Gillingham,1-0,0-0,Crawley Town
+Sat Feb 4 2023,Leyton Orient,1-0,0-0,AFC Wimbledon
+Sat Feb 4 2023,Northampton,0-0,0-0,Walsall
+Sat Feb 4 2023,Salford,2-1,1-0,Rochdale
+Sat Feb 4 2023,Stockport,3-2,2-1,Tranmere
+Sat Feb 4 2023,Sutton,0-0,0-0,Stevenage
+Tue Feb 7 2023,Crewe,0-2,0-1,Leyton Orient
+Tue Feb 7 2023,Doncaster,2-0,0-0,Tranmere
+Sat Feb 11 2023,AFC Wimbledon,0-0,0-0,Carlisle
+Sat Feb 11 2023,Barrow,0-1,0-0,Newport County
+Sat Feb 11 2023,Crawley Town,2-2,1-0,Crewe
+Sat Feb 11 2023,Grimsby,0-1,0-1,Colchester
+Sat Feb 11 2023,Harrogate,1-3,0-2,Stockport
+Sat Feb 11 2023,Hartlepool,2-2,2-2,Sutton
+Sat Feb 11 2023,Mansfield,2-0,2-0,Gillingham
+Sat Feb 11 2023,Rochdale,1-1,0-0,Northampton
+Sat Feb 11 2023,Stevenage,2-3,1-0,Bradford
+Sat Feb 11 2023,Swindon,0-2,0-0,Doncaster
+Sat Feb 11 2023,Tranmere,1-0,1-0,Salford
+Sat Feb 11 2023,Walsall,1-1,1-0,Leyton Orient
+Tue Feb 14 2023,Bradford,2-0,1-0,Tranmere
+Tue Feb 14 2023,Carlisle,0-4,0-4,Mansfield
+Tue Feb 14 2023,Colchester,0-0,0-0,Walsall
+Tue Feb 14 2023,Crewe,2-0,2-0,Hartlepool
+Tue Feb 14 2023,Doncaster,1-0,1-0,Barrow
+Tue Feb 14 2023,Gillingham,2-1,0-0,Grimsby
+Tue Feb 14 2023,Leyton Orient,2-1,2-0,Rochdale
+Tue Feb 14 2023,Newport County,2-2,1-1,Stevenage
+Tue Feb 14 2023,Northampton,0-0,0-0,AFC Wimbledon
+Tue Feb 14 2023,Salford,1-1,0-0,Harrogate
+Tue Feb 14 2023,Stockport,2-1,1-1,Crawley Town
+Tue Feb 14 2023,Sutton,2-1,0-1,Swindon
+Sat Feb 18 2023,Northampton,1-2,1-0,Grimsby
+Sat Feb 18 2023,AFC Wimbledon,2-2,1-0,Hartlepool
+Sat Feb 18 2023,Bradford,0-1,0-1,Barrow
+Sat Feb 18 2023,Carlisle,1-0,1-0,Colchester
+Sat Feb 18 2023,Harrogate,2-2,1-0,Crewe
+Sat Feb 18 2023,Leyton Orient,1-0,0-0,Crawley Town
+Sat Feb 18 2023,Rochdale,0-2,0-1,Gillingham
+Sat Feb 18 2023,Salford,1-2,1-1,Swindon
+Sat Feb 18 2023,Stockport,2-0,1-0,Stevenage
+Sat Feb 18 2023,Sutton,2-0,0-0,Doncaster
+Sat Feb 18 2023,Tranmere,0-2,0-1,Mansfield
+Sat Feb 18 2023,Walsall,1-1,1-0,Newport County
+Tue Feb 21 2023,Grimsby,0-0,0-0,Harrogate
+Tue Feb 21 2023,Hartlepool,0-1,0-0,Newport County
+Tue Feb 21 2023,Rochdale,1-2,0-0,Stockport
+Tue Feb 21 2023,Walsall,0-0,0-0,Crewe
+Sat Feb 25 2023,Barrow,1-0,0-0,Stockport
+Sat Feb 25 2023,Colchester,0-1,0-1,Northampton
+Sat Feb 25 2023,Crawley Town,2-5,0-4,Carlisle
+Sat Feb 25 2023,Crewe,1-1,0-0,Rochdale
+Sat Feb 25 2023,Doncaster,0-1,0-0,Bradford
+Sat Feb 25 2023,Gillingham,2-1,0-0,AFC Wimbledon
+Sat Feb 25 2023,Grimsby,2-2,0-1,Leyton Orient
+Sat Feb 25 2023,Hartlepool,3-3,0-1,Walsall
+Sat Feb 25 2023,Mansfield,2-5,1-2,Salford
+Sat Feb 25 2023,Newport County,0-2,0-1,Sutton
+Sat Feb 25 2023,Stevenage,0-1,0-0,Tranmere
+Sat Feb 25 2023,Swindon,3-0,2-0,Harrogate
+Tue Feb 28 2023,AFC Wimbledon,2-3,1-0,Stevenage
+Tue Feb 28 2023,Barrow,1-1,0-1,Salford
+Tue Feb 28 2023,Gillingham,0-2,0-1,Bradford
+Tue Feb 28 2023,Harrogate,1-1,0-0,Northampton
+Tue Feb 28 2023,Tranmere,1-0,0-0,Crawley Town
+Sat Mar 4 2023,AFC Wimbledon,1-3,1-1,Mansfield
+Sat Mar 4 2023,Bradford,2-0,0-0,Colchester
+Sat Mar 4 2023,Carlisle,2-0,2-0,Grimsby
+Sat Mar 4 2023,Harrogate,0-0,0-0,Gillingham
+Sat Mar 4 2023,Leyton Orient,1-1,1-0,Swindon
+Sat Mar 4 2023,Northampton,1-0,0-0,Crawley Town
+Sat Mar 4 2023,Rochdale,2-0,2-0,Stevenage
+Sat Mar 4 2023,Salford,3-1,1-1,Newport County
+Sat Mar 4 2023,Stockport,0-0,0-0,Doncaster
+Sat Mar 4 2023,Sutton,1-1,0-1,Crewe
+Sat Mar 4 2023,Tranmere,1-1,0-1,Hartlepool
+Sat Mar 4 2023,Walsall,0-1,0-1,Barrow
+Tue Mar 7 2023,Doncaster,0-2,0-0,Harrogate
+Tue Mar 7 2023,Grimsby,1-1,1-0,Newport County
+Tue Mar 7 2023,Stockport,0-0,0-0,Gillingham
+Tue Mar 7 2023,Sutton,3-0,1-0,Crawley Town
+Tue Mar 7 2023,Walsall,0-0,0-0,Bradford
+Fri Mar 10 2023,Crewe,4-3,2-2,Salford
+Sat Mar 11 2023,Barrow,0-0,0-0,Sutton
+Sat Mar 11 2023,Colchester,0-1,0-1,Stockport
+Sat Mar 11 2023,Crawley Town,3-1,2-0,Harrogate
+Sat Mar 11 2023,Doncaster,2-1,2-1,AFC Wimbledon
+Sat Mar 11 2023,Gillingham,2-0,1-0,Tranmere
+Sat Mar 11 2023,Grimsby,1-0,0-0,Rochdale
+Sat Mar 11 2023,Hartlepool,1-1,1-0,Northampton
+Sat Mar 11 2023,Newport County,1-1,0-1,Bradford
+Sat Mar 11 2023,Stevenage,3-1,3-1,Walsall
+Sat Mar 11 2023,Swindon,1-2,0-0,Carlisle
+Tue Mar 14 2023,Newport County,1-1,0-1,AFC Wimbledon
+Tue Mar 14 2023,Northampton,1-0,1-0,Mansfield
+Tue Mar 14 2023,Stevenage,1-0,0-0,Crewe
+Tue Mar 14 2023,Sutton,0-1,0-1,Grimsby
+Tue Mar 14 2023,Walsall,0-0,0-0,Swindon
+Sat Mar 18 2023,Bradford,2-2,0-1,Hartlepool
+Sat Mar 18 2023,AFC Wimbledon,0-1,0-1,Crawley Town
+Sat Mar 18 2023,Carlisle,0-0,0-0,Stevenage
+Sat Mar 18 2023,Harrogate,1-0,0-0,Barrow
+Sat Mar 18 2023,Leyton Orient,2-2,1-0,Colchester
+Sat Mar 18 2023,Northampton,1-0,1-0,Crewe
+Sat Mar 18 2023,Rochdale,4-4,2-2,Swindon
+Sat Mar 18 2023,Salford,3-1,2-1,Doncaster
+Sat Mar 18 2023,Stockport,1-1,1-0,Mansfield
+Sat Mar 18 2023,Tranmere,1-3,0-2,Newport County
+Sat Mar 18 2023,Walsall,2-0,0-0,Gillingham
+Tue Mar 21 2023,Bradford,0-0,0-0,Carlisle
+Tue Mar 21 2023,Crawley Town,1-1,0-1,Doncaster
+Tue Mar 21 2023,Gillingham,2-1,0-0,Crewe
+Wed Mar 22 2023,Mansfield,0-0,0-0,Grimsby
+Sat Mar 25 2023,Barrow,2-1,0-1,AFC Wimbledon
+Sat Mar 25 2023,Colchester,1-1,0-1,Tranmere
+Sat Mar 25 2023,Crawley Town,2-0,2-0,Rochdale
+Sat Mar 25 2023,Doncaster,0-2,0-1,Northampton
+Sat Mar 25 2023,Gillingham,1-0,0-0,Carlisle
+Sat Mar 25 2023,Grimsby,1-1,1-0,Walsall
+Sat Mar 25 2023,Hartlepool,1-1,0-0,Leyton Orient
+Sat Mar 25 2023,Mansfield,0-0,0-0,Sutton
+Sat Mar 25 2023,Stevenage,1-3,0-0,Salford
+Sat Mar 25 2023,Swindon,0-1,0-0,Stockport
+Tue Mar 28 2023,AFC Wimbledon,2-0,0-0,Walsall
+Tue Mar 28 2023,Crawley Town,1-1,0-1,Grimsby
+Fri Mar 31 2023,Stockport,1-1,1-0,Salford
+Fri Mar 31 2023,Tranmere,1-1,1-1,Harrogate
+Sat Apr 1 2023,Bradford,3-2,1-2,Grimsby
+Sat Apr 1 2023,AFC Wimbledon,0-1,0-0,Rochdale
+Sat Apr 1 2023,Barrow,2-1,1-0,Gillingham
+Sat Apr 1 2023,Colchester,0-0,0-0,Newport County
+Sat Apr 1 2023,Doncaster,0-2,0-2,Crewe
+Sat Apr 1 2023,Hartlepool,2-1,0-1,Swindon
+Sat Apr 1 2023,Leyton Orient,1-0,0-0,Carlisle
+Sat Apr 1 2023,Mansfield,4-1,1-0,Crawley Town
+Sat Apr 1 2023,Northampton,1-1,1-0,Stevenage
+Sat Apr 1 2023,Walsall,1-1,0-1,Sutton
+Fri Apr 7 2023,Carlisle,2-0,2-0,Tranmere
+Fri Apr 7 2023,Crawley Town,0-0,0-0,Bradford
+Fri Apr 7 2023,Crewe,3-0,2-0,Barrow
+Fri Apr 7 2023,Gillingham,1-0,1-0,Doncaster
+Fri Apr 7 2023,Grimsby,1-4,0-1,Hartlepool
+Fri Apr 7 2023,Harrogate,2-2,0-1,AFC Wimbledon
+Fri Apr 7 2023,Newport County,3-0,1-0,Northampton
+Fri Apr 7 2023,Rochdale,4-2,2-1,Walsall
+Fri Apr 7 2023,Salford,0-2,0-2,Leyton Orient
+Fri Apr 7 2023,Stevenage,1-1,0-1,Colchester
+Fri Apr 7 2023,Sutton,0-1,0-0,Stockport
+Fri Apr 7 2023,Swindon,2-4,1-3,Mansfield
+Mon Apr 10 2023,AFC Wimbledon,2-3,1-0,Salford
+Mon Apr 10 2023,Barrow,4-0,1-0,Crawley Town
+Mon Apr 10 2023,Bradford,3-1,1-0,Sutton
+Mon Apr 10 2023,Colchester,4-0,3-0,Crewe
+Mon Apr 10 2023,Doncaster,1-2,1-0,Grimsby
+Mon Apr 10 2023,Hartlepool,1-1,0-1,Stevenage
+Mon Apr 10 2023,Leyton Orient,2-2,2-0,Harrogate
+Mon Apr 10 2023,Mansfield,1-1,1-1,Rochdale
+Mon Apr 10 2023,Northampton,2-1,1-0,Gillingham
+Mon Apr 10 2023,Stockport,4-0,2-0,Newport County
+Mon Apr 10 2023,Tranmere,1-0,1-0,Swindon
+Mon Apr 10 2023,Walsall,0-0,0-0,Carlisle
+Sat Apr 15 2023,Carlisle,0-0,0-0,Northampton
+Sat Apr 15 2023,Crawley Town,2-1,2-1,Tranmere
+Sat Apr 15 2023,Crewe,2-0,2-0,Walsall
+Sat Apr 15 2023,Gillingham,1-1,0-0,Stockport
+Sat Apr 15 2023,Grimsby,1-1,0-1,Mansfield
+Sat Apr 15 2023,Harrogate,2-2,0-1,Doncaster
+Sat Apr 15 2023,Newport County,2-0,2-0,Hartlepool
+Sat Apr 15 2023,Rochdale,0-3,0-1,Bradford
+Sat Apr 15 2023,Salford,0-1,0-1,Colchester
+Sat Apr 15 2023,Stevenage,2-1,1-1,AFC Wimbledon
+Sat Apr 15 2023,Sutton,0-2,0-2,Leyton Orient
+Sat Apr 15 2023,Swindon,0-0,0-0,Barrow
+Tue Apr 18 2023,Carlisle,2-2,0-1,Stockport
+Tue Apr 18 2023,Crawley Town,0-0,0-0,Colchester
+Tue Apr 18 2023,Gillingham,2-0,1-0,Leyton Orient
+Tue Apr 18 2023,Grimsby,1-0,0-0,Barrow
+Tue Apr 18 2023,Harrogate,3-0,1-0,Walsall
+Tue Apr 18 2023,Newport County,1-2,0-1,Mansfield
+Tue Apr 18 2023,Rochdale,2-2,0-1,Tranmere
+Tue Apr 18 2023,Salford,2-0,2-0,Hartlepool
+Tue Apr 18 2023,Stevenage,1-0,1-0,Doncaster
+Tue Apr 18 2023,Sutton,1-2,1-1,Northampton
+Tue Apr 18 2023,Swindon,1-0,0-0,Bradford
+Sat Apr 22 2023,AFC Wimbledon,1-5,1-3,Swindon
+Sat Apr 22 2023,Barrow,0-1,0-1,Carlisle
+Sat Apr 22 2023,Bradford,2-2,0-1,Gillingham
+Sat Apr 22 2023,Colchester,4-1,3-1,Sutton
+Sat Apr 22 2023,Doncaster,1-3,1-0,Newport County
+Sat Apr 22 2023,Hartlepool,0-2,0-1,Crawley Town
+Sat Apr 22 2023,Leyton Orient,2-0,0-0,Crewe
+Sat Apr 22 2023,Mansfield,1-0,1-0,Stevenage
+Sat Apr 22 2023,Northampton,3-1,3-1,Harrogate
+Sat Apr 22 2023,Stockport,1-0,1-0,Rochdale
+Sat Apr 22 2023,Tranmere,2-0,1-0,Grimsby
+Sat Apr 22 2023,Walsall,2-3,0-1,Salford
+Tue Apr 25 2023,Grimsby,2-0,1-0,Crewe
+Tue Apr 25 2023,Mansfield,1-2,1-2,Leyton Orient
+Tue Apr 25 2023,Newport County,2-3,1-2,Harrogate
+Tue Apr 25 2023,Swindon,0-1,0-1,Stevenage
+Sat Apr 29 2023,AFC Wimbledon,1-1,0-0,Tranmere
+Sat Apr 29 2023,Carlisle,2-3,0-2,Salford
+Sat Apr 29 2023,Crawley Town,0-0,0-0,Walsall
+Sat Apr 29 2023,Crewe,2-1,0-1,Swindon
+Sat Apr 29 2023,Doncaster,1-0,1-0,Colchester
+Sat Apr 29 2023,Gillingham,1-2,1-1,Newport County
+Sat Apr 29 2023,Hartlepool,3-1,1-1,Barrow
+Sat Apr 29 2023,Leyton Orient,0-3,0-2,Stockport
+Sat Apr 29 2023,Mansfield,1-2,0-2,Harrogate
+Sat Apr 29 2023,Northampton,1-2,0-1,Bradford
+Sat Apr 29 2023,Rochdale,4-1,2-1,Sutton
+Sat Apr 29 2023,Stevenage,2-0,0-0,Grimsby
+Wed May 3 2023,Crewe,3-2,2-0,Bradford
+Mon May 8 2023,Barrow,0-1,0-1,Stevenage
+Mon May 8 2023,Bradford,1-1,1-1,Leyton Orient
+Mon May 8 2023,Colchester,0-2,0-1,Mansfield
+Mon May 8 2023,Grimsby,1-0,1-0,AFC Wimbledon
+Mon May 8 2023,Harrogate,1-1,0-1,Rochdale
+Mon May 8 2023,Newport County,2-2,0-0,Crewe
+Mon May 8 2023,Salford,0-1,0-0,Gillingham
+Mon May 8 2023,Stockport,1-1,1-0,Hartlepool
+Mon May 8 2023,Sutton,1-1,1-0,Carlisle
+Mon May 8 2023,Swindon,2-1,2-0,Crawley Town
+Mon May 8 2023,Tranmere,0-1,0-1,Northampton
+Mon May 8 2023,Walsall,2-1,0-0,Doncaster

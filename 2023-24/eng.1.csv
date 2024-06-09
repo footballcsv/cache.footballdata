@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 11 2023,Burnley,0-3,0-2,Man City
+Sat Aug 12 2023,Arsenal,2-1,2-0,Nott'm Forest
+Sat Aug 12 2023,Bournemouth,1-1,0-0,West Ham
+Sat Aug 12 2023,Brighton,4-1,1-0,Luton
+Sat Aug 12 2023,Everton,0-1,0-0,Fulham
+Sat Aug 12 2023,Sheffield United,0-1,0-0,Crystal Palace
+Sat Aug 12 2023,Newcastle,5-1,2-1,Aston Villa
+Sun Aug 13 2023,Brentford,2-2,2-2,Tottenham
+Sun Aug 13 2023,Chelsea,1-1,1-1,Liverpool
+Mon Aug 14 2023,Man United,1-0,0-0,Wolves
+Fri Aug 18 2023,Nott'm Forest,2-1,1-0,Sheffield United
+Sat Aug 19 2023,Fulham,0-3,0-1,Brentford
+Sat Aug 19 2023,Liverpool,3-1,2-1,Bournemouth
+Sat Aug 19 2023,Wolves,1-4,0-1,Brighton
+Sat Aug 19 2023,Tottenham,2-0,0-0,Man United
+Sat Aug 19 2023,Man City,1-0,1-0,Newcastle
+Sun Aug 20 2023,Aston Villa,4-0,2-0,Everton
+Sun Aug 20 2023,West Ham,3-1,1-1,Chelsea
+Mon Aug 21 2023,Crystal Palace,0-1,0-0,Arsenal
+Fri Aug 25 2023,Chelsea,3-0,1-0,Luton
+Sat Aug 26 2023,Bournemouth,0-2,0-1,Tottenham
+Sat Aug 26 2023,Arsenal,2-2,0-1,Fulham
+Sat Aug 26 2023,Brentford,1-1,1-0,Crystal Palace
+Sat Aug 26 2023,Everton,0-1,0-0,Wolves
+Sat Aug 26 2023,Man United,3-2,1-2,Nott'm Forest
+Sat Aug 26 2023,Brighton,1-3,0-1,West Ham
+Sun Aug 27 2023,Burnley,1-3,0-2,Aston Villa
+Sun Aug 27 2023,Sheffield United,1-2,0-0,Man City
+Sun Aug 27 2023,Newcastle,1-2,1-0,Liverpool
+Fri Sep 1 2023,Luton,1-2,0-1,West Ham
+Sat Sep 2 2023,Sheffield United,2-2,2-1,Everton
+Sat Sep 2 2023,Brentford,2-2,1-1,Bournemouth
+Sat Sep 2 2023,Burnley,2-5,1-2,Tottenham
+Sat Sep 2 2023,Chelsea,0-1,0-0,Nott'm Forest
+Sat Sep 2 2023,Man City,5-1,2-1,Fulham
+Sat Sep 2 2023,Brighton,3-1,1-0,Newcastle
+Sun Sep 3 2023,Crystal Palace,3-2,0-0,Wolves
+Sun Sep 3 2023,Liverpool,3-0,2-0,Aston Villa
+Sun Sep 3 2023,Arsenal,3-1,1-1,Man United
+Sat Sep 16 2023,Wolves,1-3,1-0,Liverpool
+Sat Sep 16 2023,Aston Villa,3-1,0-0,Crystal Palace
+Sat Sep 16 2023,Fulham,1-0,0-0,Luton
+Sat Sep 16 2023,Man United,1-3,0-1,Brighton
+Sat Sep 16 2023,Tottenham,2-1,0-0,Sheffield United
+Sat Sep 16 2023,West Ham,1-3,1-0,Man City
+Sat Sep 16 2023,Newcastle,1-0,0-0,Brentford
+Sun Sep 17 2023,Bournemouth,0-0,0-0,Chelsea
+Sun Sep 17 2023,Everton,0-1,0-0,Arsenal
+Mon Sep 18 2023,Nott'm Forest,1-1,0-1,Burnley
+Sat Sep 23 2023,Crystal Palace,0-0,0-0,Fulham
+Sat Sep 23 2023,Luton,1-1,0-0,Wolves
+Sat Sep 23 2023,Man City,2-0,2-0,Nott'm Forest
+Sat Sep 23 2023,Brentford,1-3,1-1,Everton
+Sat Sep 23 2023,Burnley,0-1,0-1,Man United
+Sun Sep 24 2023,Arsenal,2-2,1-1,Tottenham
+Sun Sep 24 2023,Brighton,3-1,1-1,Bournemouth
+Sun Sep 24 2023,Chelsea,0-1,0-0,Aston Villa
+Sun Sep 24 2023,Liverpool,3-1,1-1,West Ham
+Sun Sep 24 2023,Sheffield United,0-8,0-3,Newcastle
+Sat Sep 30 2023,Aston Villa,6-1,3-0,Brighton
+Sat Sep 30 2023,Bournemouth,0-4,0-2,Arsenal
+Sat Sep 30 2023,Everton,1-2,1-2,Luton
+Sat Sep 30 2023,Man United,0-1,0-1,Crystal Palace
+Sat Sep 30 2023,Newcastle,2-0,1-0,Burnley
+Sat Sep 30 2023,West Ham,2-0,2-0,Sheffield United
+Sat Sep 30 2023,Wolves,2-1,1-0,Man City
+Sat Sep 30 2023,Tottenham,2-1,1-1,Liverpool
+Sun Oct 1 2023,Nott'm Forest,1-1,0-0,Brentford
+Mon Oct 2 2023,Fulham,0-2,0-2,Chelsea
+Tue Oct 3 2023,Luton,1-2,0-1,Burnley
+Sat Oct 7 2023,Luton,0-1,0-0,Tottenham
+Sat Oct 7 2023,Burnley,1-4,1-1,Chelsea
+Sat Oct 7 2023,Everton,3-0,2-0,Bournemouth
+Sat Oct 7 2023,Fulham,3-1,0-0,Sheffield United
+Sat Oct 7 2023,Man United,2-1,0-1,Brentford
+Sat Oct 7 2023,Crystal Palace,0-0,0-0,Nott'm Forest
+Sun Oct 8 2023,Brighton,2-2,1-2,Liverpool
+Sun Oct 8 2023,West Ham,2-2,1-0,Newcastle
+Sun Oct 8 2023,Wolves,1-1,0-0,Aston Villa
+Sun Oct 8 2023,Arsenal,1-0,0-0,Man City
+Sat Oct 21 2023,Liverpool,2-0,0-0,Everton
+Sat Oct 21 2023,Bournemouth,1-2,1-0,Wolves
+Sat Oct 21 2023,Brentford,3-0,1-0,Burnley
+Sat Oct 21 2023,Man City,2-1,2-0,Brighton
+Sat Oct 21 2023,Newcastle,4-0,3-0,Crystal Palace
+Sat Oct 21 2023,Nott'm Forest,2-2,0-0,Luton
+Sat Oct 21 2023,Chelsea,2-2,1-0,Arsenal
+Sat Oct 21 2023,Sheffield United,1-2,1-1,Man United
+Sun Oct 22 2023,Aston Villa,4-1,1-0,West Ham
+Mon Oct 23 2023,Tottenham,2-0,1-0,Fulham
+Fri Oct 27 2023,Crystal Palace,1-2,0-0,Tottenham
+Sat Oct 28 2023,Chelsea,0-2,0-0,Brentford
+Sat Oct 28 2023,Arsenal,5-0,1-0,Sheffield United
+Sat Oct 28 2023,Bournemouth,2-1,1-1,Burnley
+Sat Oct 28 2023,Wolves,2-2,1-2,Newcastle
+Sun Oct 29 2023,West Ham,0-1,0-0,Everton
+Sun Oct 29 2023,Aston Villa,3-1,1-0,Luton
+Sun Oct 29 2023,Brighton,1-1,1-0,Fulham
+Sun Oct 29 2023,Liverpool,3-0,2-0,Nott'm Forest
+Sun Oct 29 2023,Man United,0-3,0-1,Man City
+Sat Nov 4 2023,Fulham,0-1,0-0,Man United
+Sat Nov 4 2023,Brentford,3-2,1-2,West Ham
+Sat Nov 4 2023,Burnley,0-2,0-1,Crystal Palace
+Sat Nov 4 2023,Everton,1-1,1-0,Brighton
+Sat Nov 4 2023,Man City,6-1,3-0,Bournemouth
+Sat Nov 4 2023,Sheffield United,2-1,0-0,Wolves
+Sat Nov 4 2023,Newcastle,1-0,0-0,Arsenal
+Sun Nov 5 2023,Nott'm Forest,2-0,1-0,Aston Villa
+Sun Nov 5 2023,Luton,1-1,0-0,Liverpool
+Mon Nov 6 2023,Tottenham,1-4,1-1,Chelsea
+Sat Nov 11 2023,Wolves,2-1,0-1,Tottenham
+Sat Nov 11 2023,Arsenal,3-1,1-0,Burnley
+Sat Nov 11 2023,Crystal Palace,2-3,1-1,Everton
+Sat Nov 11 2023,Man United,1-0,0-0,Luton
+Sat Nov 11 2023,Bournemouth,2-0,0-0,Newcastle
+Sun Nov 12 2023,Aston Villa,3-1,2-0,Fulham
+Sun Nov 12 2023,Brighton,1-1,1-0,Sheffield United
+Sun Nov 12 2023,Liverpool,3-0,1-0,Brentford
+Sun Nov 12 2023,West Ham,3-2,1-1,Nott'm Forest
+Sun Nov 12 2023,Chelsea,4-4,2-2,Man City
+Sat Nov 25 2023,Man City,1-1,1-0,Liverpool
+Sat Nov 25 2023,Burnley,1-2,0-0,West Ham
+Sat Nov 25 2023,Luton,2-1,0-0,Crystal Palace
+Sat Nov 25 2023,Newcastle,4-1,1-1,Chelsea
+Sat Nov 25 2023,Nott'm Forest,2-3,1-2,Brighton
+Sat Nov 25 2023,Sheffield United,1-3,0-2,Bournemouth
+Sat Nov 25 2023,Brentford,0-1,0-0,Arsenal
+Sun Nov 26 2023,Tottenham,1-2,1-1,Aston Villa
+Sun Nov 26 2023,Everton,0-3,0-1,Man United
+Mon Nov 27 2023,Fulham,3-2,1-1,Wolves
+Sat Dec 2 2023,Arsenal,2-1,2-0,Wolves
+Sat Dec 2 2023,Brentford,3-1,0-0,Luton
+Sat Dec 2 2023,Burnley,5-0,2-0,Sheffield United
+Sat Dec 2 2023,Nott'm Forest,0-1,0-0,Everton
+Sat Dec 2 2023,Newcastle,1-0,0-0,Man United
+Sun Dec 3 2023,Bournemouth,2-2,1-1,Aston Villa
+Sun Dec 3 2023,Chelsea,3-2,2-1,Brighton
+Sun Dec 3 2023,Liverpool,4-3,2-2,Fulham
+Sun Dec 3 2023,West Ham,1-1,1-0,Crystal Palace
+Sun Dec 3 2023,Man City,3-3,2-1,Tottenham
+Tue Dec 5 2023,Wolves,1-0,1-0,Burnley
+Tue Dec 5 2023,Luton,3-4,1-2,Arsenal
+Wed Dec 6 2023,Brighton,2-1,1-1,Brentford
+Wed Dec 6 2023,Crystal Palace,0-2,0-1,Bournemouth
+Wed Dec 6 2023,Fulham,5-0,2-0,Nott'm Forest
+Wed Dec 6 2023,Sheffield United,0-2,0-1,Liverpool
+Wed Dec 6 2023,Aston Villa,1-0,0-0,Man City
+Wed Dec 6 2023,Man United,2-1,1-1,Chelsea
+Thu Dec 7 2023,Everton,3-0,0-0,Newcastle
+Thu Dec 7 2023,Tottenham,1-2,1-0,West Ham
+Sat Dec 9 2023,Crystal Palace,1-2,0-0,Liverpool
+Sat Dec 9 2023,Brighton,1-1,0-1,Burnley
+Sat Dec 9 2023,Man United,0-3,0-1,Bournemouth
+Sat Dec 9 2023,Sheffield United,1-0,1-0,Brentford
+Sat Dec 9 2023,Wolves,1-1,1-1,Nott'm Forest
+Sat Dec 9 2023,Aston Villa,1-0,1-0,Arsenal
+Sun Dec 10 2023,Everton,2-0,0-0,Chelsea
+Sun Dec 10 2023,Fulham,5-0,3-0,West Ham
+Sun Dec 10 2023,Luton,1-2,1-0,Man City
+Sun Dec 10 2023,Tottenham,4-1,2-0,Newcastle
+Fri Dec 15 2023,Nott'm Forest,0-2,0-1,Tottenham
+Sat Dec 16 2023,Chelsea,2-0,0-0,Sheffield United
+Sat Dec 16 2023,Man City,2-2,1-0,Crystal Palace
+Sat Dec 16 2023,Newcastle,3-0,0-0,Fulham
+Sat Dec 16 2023,Burnley,0-2,0-2,Everton
+Sun Dec 17 2023,Arsenal,2-0,0-0,Brighton
+Sun Dec 17 2023,Brentford,1-2,1-0,Aston Villa
+Sun Dec 17 2023,West Ham,3-0,2-0,Wolves
+Sun Dec 17 2023,Liverpool,0-0,0-0,Man United
+Thu Dec 21 2023,Crystal Palace,1-1,1-0,Brighton
+Fri Dec 22 2023,Aston Villa,1-1,0-0,Sheffield United
+Sat Dec 23 2023,West Ham,2-0,0-0,Man United
+Sat Dec 23 2023,Fulham,0-2,0-0,Burnley
+Sat Dec 23 2023,Luton,1-0,1-0,Newcastle
+Sat Dec 23 2023,Nott'm Forest,2-3,0-0,Bournemouth
+Sat Dec 23 2023,Tottenham,2-1,2-0,Everton
+Sat Dec 23 2023,Liverpool,1-1,1-1,Arsenal
+Sun Dec 24 2023,Wolves,2-1,0-0,Chelsea
+Tue Dec 26 2023,Newcastle,1-3,1-1,Nott'm Forest
+Tue Dec 26 2023,Bournemouth,3-0,1-0,Fulham
+Tue Dec 26 2023,Sheffield United,2-3,0-1,Luton
+Tue Dec 26 2023,Burnley,0-2,0-1,Liverpool
+Tue Dec 26 2023,Man United,3-2,0-2,Aston Villa
+Wed Dec 27 2023,Brentford,1-4,1-3,Wolves
+Wed Dec 27 2023,Chelsea,2-1,1-1,Crystal Palace
+Wed Dec 27 2023,Everton,1-3,1-0,Man City
+Thu Dec 28 2023,Brighton,4-2,2-0,Tottenham
+Thu Dec 28 2023,Arsenal,0-2,0-1,West Ham
+Sat Dec 30 2023,Luton,2-3,0-2,Chelsea
+Sat Dec 30 2023,Aston Villa,3-2,2-1,Burnley
+Sat Dec 30 2023,Crystal Palace,3-1,2-1,Brentford
+Sat Dec 30 2023,Man City,2-0,1-0,Sheffield United
+Sat Dec 30 2023,Wolves,3-0,1-0,Everton
+Sat Dec 30 2023,Nott'm Forest,2-1,0-0,Man United
+Sun Dec 31 2023,Fulham,2-1,1-1,Arsenal
+Sun Dec 31 2023,Tottenham,3-1,1-0,Bournemouth
+Mon Jan 1 2024,Liverpool,4-2,0-0,Newcastle
+Tue Jan 2 2024,West Ham,0-0,0-0,Brighton
+Fri Jan 12 2024,Burnley,1-1,1-0,Luton
+Sat Jan 13 2024,Chelsea,1-0,1-0,Fulham
+Sat Jan 13 2024,Newcastle,2-3,2-1,Man City
+Sun Jan 14 2024,Everton,0-0,0-0,Aston Villa
+Sun Jan 14 2024,Man United,2-2,2-1,Tottenham
+Sat Jan 20 2024,Arsenal,5-0,2-0,Crystal Palace
+Sat Jan 20 2024,Brentford,3-2,1-1,Nott'm Forest
+Sun Jan 21 2024,Sheffield United,2-2,1-1,West Ham
+Sun Jan 21 2024,Bournemouth,0-4,0-0,Liverpool
+Mon Jan 22 2024,Brighton,0-0,0-0,Wolves
+Tue Jan 30 2024,Nott'm Forest,1-2,0-0,Arsenal
+Tue Jan 30 2024,Fulham,0-0,0-0,Everton
+Tue Jan 30 2024,Luton,4-0,3-0,Brighton
+Tue Jan 30 2024,Crystal Palace,3-2,2-2,Sheffield United
+Tue Jan 30 2024,Aston Villa,1-3,0-2,Newcastle
+Wed Jan 31 2024,Man City,3-1,2-0,Burnley
+Wed Jan 31 2024,Tottenham,3-2,0-1,Brentford
+Wed Jan 31 2024,Liverpool,4-1,2-0,Chelsea
+Thu Feb 1 2024,West Ham,1-1,0-1,Bournemouth
+Thu Feb 1 2024,Wolves,3-4,0-2,Man United
+Sat Feb 3 2024,Everton,2-2,1-2,Tottenham
+Sat Feb 3 2024,Brighton,4-1,3-0,Crystal Palace
+Sat Feb 3 2024,Burnley,2-2,0-2,Fulham
+Sat Feb 3 2024,Newcastle,4-4,2-2,Luton
+Sat Feb 3 2024,Sheffield United,0-5,0-4,Aston Villa
+Sun Feb 4 2024,Bournemouth,1-1,1-1,Nott'm Forest
+Sun Feb 4 2024,Chelsea,2-4,1-2,Wolves
+Sun Feb 4 2024,Man United,3-0,1-0,West Ham
+Sun Feb 4 2024,Arsenal,3-1,1-1,Liverpool
+Mon Feb 5 2024,Brentford,1-3,1-1,Man City
+Sat Feb 10 2024,Man City,2-0,0-0,Everton
+Sat Feb 10 2024,Fulham,3-1,2-0,Bournemouth
+Sat Feb 10 2024,Liverpool,3-1,1-1,Burnley
+Sat Feb 10 2024,Luton,1-3,0-2,Sheffield United
+Sat Feb 10 2024,Tottenham,2-1,0-1,Brighton
+Sat Feb 10 2024,Wolves,0-2,0-1,Brentford
+Sat Feb 10 2024,Nott'm Forest,2-3,2-2,Newcastle
+Sun Feb 11 2024,West Ham,0-6,0-4,Arsenal
+Sun Feb 11 2024,Aston Villa,1-2,0-1,Man United
+Mon Feb 12 2024,Crystal Palace,1-3,1-0,Chelsea
+Sat Feb 17 2024,Brentford,1-4,0-1,Liverpool
+Sat Feb 17 2024,Burnley,0-5,0-2,Arsenal
+Sat Feb 17 2024,Fulham,1-2,0-1,Aston Villa
+Sat Feb 17 2024,Newcastle,2-2,0-0,Bournemouth
+Sat Feb 17 2024,Nott'm Forest,2-0,1-0,West Ham
+Sat Feb 17 2024,Tottenham,1-2,0-1,Wolves
+Sat Feb 17 2024,Man City,1-1,0-1,Chelsea
+Sun Feb 18 2024,Sheffield United,0-5,0-2,Brighton
+Sun Feb 18 2024,Luton,1-2,1-2,Man United
+Mon Feb 19 2024,Everton,1-1,0-0,Crystal Palace
+Tue Feb 20 2024,Man City,1-0,0-0,Brentford
+Wed Feb 21 2024,Liverpool,4-1,0-1,Luton
+Sat Feb 24 2024,Aston Villa,4-2,3-1,Nott'm Forest
+Sat Feb 24 2024,Brighton,1-1,0-0,Everton
+Sat Feb 24 2024,Crystal Palace,3-0,0-0,Burnley
+Sat Feb 24 2024,Man United,1-2,0-0,Fulham
+Sat Feb 24 2024,Bournemouth,0-1,0-1,Man City
+Sat Feb 24 2024,Arsenal,4-1,2-0,Newcastle
+Sun Feb 25 2024,Wolves,1-0,1-0,Sheffield United
+Mon Feb 26 2024,West Ham,4-2,2-1,Brentford
+Sat Mar 2 2024,Brentford,2-2,0-1,Chelsea
+Sat Mar 2 2024,Everton,1-3,0-0,West Ham
+Sat Mar 2 2024,Fulham,3-0,2-0,Brighton
+Sat Mar 2 2024,Newcastle,3-0,2-0,Wolves
+Sat Mar 2 2024,Nott'm Forest,0-1,0-0,Liverpool
+Sat Mar 2 2024,Tottenham,3-1,0-0,Crystal Palace
+Sat Mar 2 2024,Luton,2-3,0-2,Aston Villa
+Sun Mar 3 2024,Burnley,0-2,0-1,Bournemouth
+Sun Mar 3 2024,Man City,3-1,0-1,Man United
+Mon Mar 4 2024,Sheffield United,0-6,0-5,Arsenal
+Sat Mar 9 2024,Man United,2-0,2-0,Everton
+Sat Mar 9 2024,Bournemouth,2-2,0-1,Sheffield United
+Sat Mar 9 2024,Crystal Palace,1-1,1-0,Luton
+Sat Mar 9 2024,Wolves,2-1,0-0,Fulham
+Sat Mar 9 2024,Arsenal,2-1,1-1,Brentford
+Sun Mar 10 2024,Aston Villa,0-4,0-0,Tottenham
+Sun Mar 10 2024,Brighton,1-0,1-0,Nott'm Forest
+Sun Mar 10 2024,West Ham,2-2,0-2,Burnley
+Sun Mar 10 2024,Liverpool,1-1,0-1,Man City
+Mon Mar 11 2024,Chelsea,3-2,1-1,Newcastle
+Wed Mar 13 2024,Bournemouth,4-3,0-3,Luton
+Sat Mar 16 2024,Burnley,2-1,1-0,Brentford
+Sat Mar 16 2024,Luton,1-1,0-1,Nott'm Forest
+Sat Mar 16 2024,Fulham,3-0,1-0,Tottenham
+Sun Mar 17 2024,West Ham,1-1,1-0,Aston Villa
+Sat Mar 30 2024,Newcastle,4-3,1-2,West Ham
+Sat Mar 30 2024,Bournemouth,2-1,0-0,Everton
+Sat Mar 30 2024,Chelsea,2-2,1-0,Burnley
+Sat Mar 30 2024,Nott'm Forest,1-1,0-1,Crystal Palace
+Sat Mar 30 2024,Sheffield United,3-3,0-0,Fulham
+Sat Mar 30 2024,Tottenham,2-1,0-1,Luton
+Sat Mar 30 2024,Aston Villa,2-0,1-0,Wolves
+Sat Mar 30 2024,Brentford,1-1,0-0,Man United
+Sun Mar 31 2024,Liverpool,2-1,1-1,Brighton
+Sun Mar 31 2024,Man City,0-0,0-0,Arsenal
+Tue Apr 2 2024,Newcastle,1-1,1-0,Everton
+Tue Apr 2 2024,Nott'm Forest,3-1,3-0,Fulham
+Tue Apr 2 2024,Bournemouth,1-0,0-0,Crystal Palace
+Tue Apr 2 2024,Burnley,1-1,1-1,Wolves
+Tue Apr 2 2024,West Ham,1-1,1-1,Tottenham
+Wed Apr 3 2024,Arsenal,2-0,2-0,Luton
+Wed Apr 3 2024,Brentford,0-0,0-0,Brighton
+Wed Apr 3 2024,Man City,4-1,2-1,Aston Villa
+Thu Apr 4 2024,Liverpool,3-1,1-0,Sheffield United
+Thu Apr 4 2024,Chelsea,4-3,2-2,Man United
+Sat Apr 6 2024,Crystal Palace,2-4,1-1,Man City
+Sat Apr 6 2024,Aston Villa,3-3,1-0,Brentford
+Sat Apr 6 2024,Everton,1-0,1-0,Burnley
+Sat Apr 6 2024,Fulham,0-1,0-0,Newcastle
+Sat Apr 6 2024,Luton,2-1,0-0,Bournemouth
+Sat Apr 6 2024,Wolves,1-2,1-0,West Ham
+Sat Apr 6 2024,Brighton,0-3,0-1,Arsenal
+Sun Apr 7 2024,Man United,2-2,0-1,Liverpool
+Sun Apr 7 2024,Sheffield United,2-2,1-1,Chelsea
+Sun Apr 7 2024,Tottenham,3-1,1-1,Nott'm Forest
+Sat Apr 13 2024,Newcastle,4-0,2-0,Tottenham
+Sat Apr 13 2024,Brentford,2-0,0-0,Sheffield United
+Sat Apr 13 2024,Burnley,1-1,0-0,Brighton
+Sat Apr 13 2024,Man City,5-1,1-0,Luton
+Sat Apr 13 2024,Nott'm Forest,2-2,1-1,Wolves
+Sat Apr 13 2024,Bournemouth,2-2,2-1,Man United
+Sun Apr 14 2024,Liverpool,0-1,0-1,Crystal Palace
+Sun Apr 14 2024,West Ham,0-2,0-1,Fulham
+Sun Apr 14 2024,Arsenal,0-2,0-0,Aston Villa
+Mon Apr 15 2024,Chelsea,6-0,4-0,Everton
+Sat Apr 20 2024,Luton,1-5,0-2,Brentford
+Sat Apr 20 2024,Sheffield United,1-4,0-2,Burnley
+Sat Apr 20 2024,Wolves,0-2,0-1,Arsenal
+Sun Apr 21 2024,Everton,2-0,1-0,Nott'm Forest
+Sun Apr 21 2024,Aston Villa,3-1,1-1,Bournemouth
+Sun Apr 21 2024,Crystal Palace,5-2,4-1,West Ham
+Sun Apr 21 2024,Fulham,1-3,1-1,Liverpool
+Tue Apr 23 2024,Arsenal,5-0,1-0,Chelsea
+Wed Apr 24 2024,Wolves,0-1,0-1,Bournemouth
+Wed Apr 24 2024,Crystal Palace,2-0,0-0,Newcastle
+Wed Apr 24 2024,Everton,2-0,1-0,Liverpool
+Wed Apr 24 2024,Man United,4-2,1-1,Sheffield United
+Thu Apr 25 2024,Brighton,0-4,0-3,Man City
+Sat Apr 27 2024,West Ham,2-2,1-0,Liverpool
+Sat Apr 27 2024,Fulham,1-1,0-0,Crystal Palace
+Sat Apr 27 2024,Man United,1-1,0-0,Burnley
+Sat Apr 27 2024,Newcastle,5-1,1-1,Sheffield United
+Sat Apr 27 2024,Wolves,2-1,1-0,Luton
+Sat Apr 27 2024,Everton,1-0,0-0,Brentford
+Sat Apr 27 2024,Aston Villa,2-2,2-0,Chelsea
+Sun Apr 28 2024,Bournemouth,3-0,1-0,Brighton
+Sun Apr 28 2024,Tottenham,2-3,0-3,Arsenal
+Sun Apr 28 2024,Nott'm Forest,0-2,0-1,Man City
+Thu May 2 2024,Chelsea,2-0,1-0,Tottenham
+Fri May 3 2024,Luton,1-1,1-1,Everton
+Sat May 4 2024,Arsenal,3-0,1-0,Bournemouth
+Sat May 4 2024,Brentford,0-0,0-0,Fulham
+Sat May 4 2024,Burnley,1-4,0-3,Newcastle
+Sat May 4 2024,Sheffield United,1-3,1-1,Nott'm Forest
+Sat May 4 2024,Man City,5-1,3-0,Wolves
+Sun May 5 2024,Brighton,1-0,0-0,Aston Villa
+Sun May 5 2024,Chelsea,5-0,3-0,West Ham
+Sun May 5 2024,Liverpool,4-2,2-0,Tottenham
+Mon May 6 2024,Crystal Palace,4-0,2-0,Man United
+Sat May 11 2024,Fulham,0-4,0-1,Man City
+Sat May 11 2024,Bournemouth,1-2,0-0,Brentford
+Sat May 11 2024,Everton,1-0,1-0,Sheffield United
+Sat May 11 2024,Newcastle,1-1,1-1,Brighton
+Sat May 11 2024,Tottenham,2-1,1-1,Burnley
+Sat May 11 2024,West Ham,3-1,0-1,Luton
+Sat May 11 2024,Wolves,1-3,0-2,Crystal Palace
+Sat May 11 2024,Nott'm Forest,2-3,1-1,Chelsea
+Sun May 12 2024,Man United,0-1,0-1,Arsenal
+Mon May 13 2024,Aston Villa,3-3,1-2,Liverpool
+Tue May 14 2024,Tottenham,0-2,0-0,Man City
+Wed May 15 2024,Brighton,1-2,0-1,Chelsea
+Wed May 15 2024,Man United,3-2,1-0,Newcastle
+Sun May 19 2024,Arsenal,2-1,1-1,Everton
+Sun May 19 2024,Brentford,2-4,0-3,Newcastle
+Sun May 19 2024,Brighton,0-2,0-0,Man United
+Sun May 19 2024,Burnley,1-2,0-2,Nott'm Forest
+Sun May 19 2024,Chelsea,2-1,1-0,Bournemouth
+Sun May 19 2024,Crystal Palace,5-0,2-0,Aston Villa
+Sun May 19 2024,Liverpool,2-0,2-0,Wolves
+Sun May 19 2024,Luton,2-4,1-2,Fulham
+Sun May 19 2024,Man City,3-1,2-1,West Ham
+Sun May 19 2024,Sheffield United,0-3,0-1,Tottenham

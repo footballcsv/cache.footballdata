@@ -1,0 +1,182 @@
+Date,Team 1,FT,HT,Team 2
+Fri Feb 18 2022,Dundalk,2-2,?,Derry City
+Fri Feb 18 2022,Shelbourne,0-3,?,St. Patricks
+Fri Feb 18 2022,Shamrock Rovers,3-0,?,UC Dublin
+Fri Feb 25 2022,Bohemians,2-2,?,Dundalk
+Fri Feb 25 2022,Derry City,2-1,?,Shamrock Rovers
+Fri Feb 25 2022,Drogheda,0-2,?,Shelbourne
+Fri Feb 25 2022,St. Patricks,1-2,?,Sligo Rovers
+Fri Feb 25 2022,UC Dublin,0-0,?,Finn Harps
+Mon Feb 28 2022,Bohemians,1-0,?,St. Patricks
+Mon Feb 28 2022,Derry City,0-0,?,Sligo Rovers
+Mon Feb 28 2022,Dundalk,3-0,?,Finn Harps
+Mon Feb 28 2022,UC Dublin,0-0,?,Shelbourne
+Mon Feb 28 2022,Shamrock Rovers,3-1,?,Drogheda
+Fri Mar 4 2022,Drogheda,4-2,?,UC Dublin
+Fri Mar 4 2022,Shelbourne,0-1,?,Derry City
+Fri Mar 4 2022,St. Patricks,1-0,?,Shamrock Rovers
+Fri Mar 4 2022,Finn Harps,1-1,?,Bohemians
+Sat Mar 5 2022,Sligo Rovers,0-0,?,Dundalk
+Fri Mar 11 2022,Drogheda,0-3,?,Sligo Rovers
+Fri Mar 11 2022,Shelbourne,1-1,?,Dundalk
+Fri Mar 11 2022,Finn Harps,0-2,?,St. Patricks
+Fri Mar 11 2022,Shamrock Rovers,1-0,?,Bohemians
+Mon Mar 14 2022,Bohemians,1-1,?,Shelbourne
+Mon Mar 14 2022,Derry City,2-0,?,Drogheda
+Mon Mar 14 2022,Dundalk,0-0,?,Shamrock Rovers
+Mon Mar 14 2022,Sligo Rovers,3-1,?,Finn Harps
+Mon Mar 14 2022,St. Patricks,2-0,?,UC Dublin
+Fri Mar 18 2022,UC Dublin,1-1,?,Bohemians
+Fri Mar 18 2022,Derry City,2-1,?,St. Patricks
+Fri Mar 18 2022,Drogheda,1-0,?,Dundalk
+Fri Mar 18 2022,Shelbourne,0-3,?,Finn Harps
+Fri Mar 18 2022,Shamrock Rovers,2-2,?,Sligo Rovers
+Fri Apr 1 2022,Bohemians,1-2,?,Derry City
+Fri Apr 1 2022,Dundalk,2-0,?,UC Dublin
+Fri Apr 1 2022,Sligo Rovers,0-1,?,Shelbourne
+Fri Apr 1 2022,St. Patricks,1-1,?,Drogheda
+Fri Apr 1 2022,Finn Harps,0-3,?,Shamrock Rovers
+Mon Apr 4 2022,UC Dublin,0-2,?,Derry City
+Mon Apr 4 2022,Finn Harps,2-2,?,Drogheda
+Tue Apr 5 2022,Sligo Rovers,0-1,?,Bohemians
+Fri Apr 8 2022,Drogheda,1-1,?,Bohemians
+Fri Apr 8 2022,Shelbourne,1-2,?,Shamrock Rovers
+Fri Apr 8 2022,St. Patricks,0-0,?,Dundalk
+Sat Apr 9 2022,Finn Harps,1-2,?,Derry City
+Sat Apr 9 2022,Sligo Rovers,2-2,?,UC Dublin
+Fri Apr 15 2022,Bohemians,2-2,?,Finn Harps
+Fri Apr 15 2022,Derry City,1-2,?,Shelbourne
+Fri Apr 15 2022,Dundalk,2-1,?,Sligo Rovers
+Fri Apr 15 2022,UC Dublin,0-2,?,Drogheda
+Fri Apr 15 2022,Shamrock Rovers,1-0,?,St. Patricks
+Mon Apr 18 2022,Shelbourne,1-4,?,Bohemians
+Mon Apr 18 2022,UC Dublin,1-2,?,St. Patricks
+Mon Apr 18 2022,Finn Harps,0-1,?,Sligo Rovers
+Mon Apr 18 2022,Shamrock Rovers,1-0,?,Dundalk
+Mon Apr 18 2022,Drogheda,1-1,?,Derry City
+Fri Apr 22 2022,Bohemians,1-3,?,Shamrock Rovers
+Fri Apr 22 2022,Derry City,7-1,?,UC Dublin
+Fri Apr 22 2022,Dundalk,2-1,?,Shelbourne
+Fri Apr 22 2022,St. Patricks,2-0,?,Finn Harps
+Sat Apr 23 2022,Sligo Rovers,3-2,?,Drogheda
+Fri Apr 29 2022,Bohemians,3-0,?,UC Dublin
+Fri Apr 29 2022,Dundalk,4-1,?,Drogheda
+Fri Apr 29 2022,Sligo Rovers,1-1,?,Shamrock Rovers
+Fri Apr 29 2022,St. Patricks,0-4,?,Derry City
+Fri Apr 29 2022,Finn Harps,1-0,?,Shelbourne
+Fri May 6 2022,Derry City,1-1,?,Bohemians
+Fri May 6 2022,Drogheda,0-4,?,St. Patricks
+Fri May 6 2022,Shelbourne,2-1,?,Sligo Rovers
+Fri May 6 2022,UC Dublin,2-2,?,Dundalk
+Fri May 6 2022,Shamrock Rovers,3-1,?,Finn Harps
+Mon May 9 2022,Derry City,0-0,?,St. Patricks
+Mon May 9 2022,Shamrock Rovers,3-1,?,Sligo Rovers
+Fri May 13 2022,Dundalk,3-1,?,Bohemians
+Fri May 13 2022,Shamrock Rovers,1-0,?,Derry City
+Fri May 13 2022,Shelbourne,1-0,?,Drogheda
+Fri May 13 2022,Finn Harps,0-1,?,UC Dublin
+Sat May 14 2022,Sligo Rovers,1-1,?,St. Patricks
+Thu May 19 2022,UC Dublin,0-3,?,Shamrock Rovers
+Fri May 20 2022,Bohemians,2-1,?,Sligo Rovers
+Fri May 20 2022,Derry City,1-2,?,Dundalk
+Fri May 20 2022,Drogheda,3-1,?,Finn Harps
+Fri May 20 2022,St. Patricks,1-2,?,Shelbourne
+Mon May 23 2022,Drogheda,1-0,?,Shamrock Rovers
+Mon May 23 2022,Shelbourne,2-0,?,UC Dublin
+Mon May 23 2022,Sligo Rovers,2-1,?,Derry City
+Mon May 23 2022,St. Patricks,3-0,?,Bohemians
+Mon May 23 2022,Finn Harps,0-1,?,Dundalk
+Fri May 27 2022,Bohemians,1-1,?,Drogheda
+Fri May 27 2022,Derry City,2-2,?,Finn Harps
+Fri May 27 2022,Dundalk,1-0,?,St. Patricks
+Fri May 27 2022,UC Dublin,1-1,?,Sligo Rovers
+Fri May 27 2022,Shamrock Rovers,2-0,?,Shelbourne
+Fri Jun 17 2022,Bohemians,1-0,?,Shelbourne
+Fri Jun 17 2022,Derry City,1-1,?,Drogheda
+Fri Jun 17 2022,Dundalk,1-0,?,Shamrock Rovers
+Fri Jun 17 2022,St. Patricks,2-1,?,UC Dublin
+Sat Jun 18 2022,Sligo Rovers,3-0,?,Finn Harps
+Fri Jun 24 2022,Drogheda,0-0,?,Sligo Rovers
+Fri Jun 24 2022,Shamrock Rovers,1-0,?,Bohemians
+Fri Jun 24 2022,Shelbourne,0-0,?,Dundalk
+Fri Jun 24 2022,UC Dublin,0-1,?,Derry City
+Fri Jun 24 2022,Finn Harps,2-2,?,St. Patricks
+Mon Jun 27 2022,St. Patricks,1-2,?,Shamrock Rovers
+Fri Jul 1 2022,Bohemians,2-3,?,Derry City
+Fri Jul 1 2022,Dundalk,3-0,?,UC Dublin
+Fri Jul 1 2022,St. Patricks,3-0,?,Drogheda
+Fri Jul 1 2022,Finn Harps,0-1,?,Shamrock Rovers
+Sat Jul 2 2022,Sligo Rovers,3-1,?,Shelbourne
+Thu Jul 7 2022,UC Dublin,1-3,?,Bohemians
+Fri Jul 8 2022,Drogheda,1-0,?,Dundalk
+Fri Jul 8 2022,Shelbourne,3-1,?,Finn Harps
+Fri Jul 15 2022,Drogheda,0-1,?,Bohemians
+Fri Jul 15 2022,St. Patricks,1-1,?,Dundalk
+Sun Jul 17 2022,Finn Harps,1-2,?,Derry City
+Sun Jul 17 2022,Sligo Rovers,0-2,?,UC Dublin
+Fri Jul 22 2022,Dundalk,3-0,?,Finn Harps
+Fri Jul 22 2022,UC Dublin,0-2,?,Shelbourne
+Sat Jul 23 2022,Shamrock Rovers,1-1,?,Drogheda
+Mon Aug 1 2022,Drogheda,1-1,?,UC Dublin
+Fri Aug 5 2022,Dundalk,1-1,?,Derry City
+Fri Aug 5 2022,Finn Harps,3-0,?,Drogheda
+Sun Aug 7 2022,Sligo Rovers,2-1,?,Bohemians
+Fri Aug 12 2022,Bohemians,0-1,?,Dundalk
+Fri Aug 12 2022,Derry City,0-0,?,Shamrock Rovers
+Fri Aug 12 2022,Drogheda,3-1,?,Shelbourne
+Fri Aug 12 2022,UC Dublin,2-1,?,Finn Harps
+Sun Aug 14 2022,St. Patricks,1-0,?,Sligo Rovers
+Fri Aug 19 2022,Drogheda,1-1,?,Derry City
+Fri Aug 19 2022,Shelbourne,1-1,?,Bohemians
+Fri Aug 19 2022,UC Dublin,1-2,?,St. Patricks
+Fri Aug 19 2022,Finn Harps,3-2,?,Sligo Rovers
+Sun Aug 21 2022,Shamrock Rovers,3-0,?,Dundalk
+Mon Aug 29 2022,Bohemians,1-3,?,St. Patricks
+Mon Aug 29 2022,Shelbourne,0-1,?,Derry City
+Mon Aug 29 2022,Sligo Rovers,2-0,?,Dundalk
+Fri Sep 2 2022,Bohemians,1-0,?,Shamrock Rovers
+Fri Sep 2 2022,Derry City,3-0,?,UC Dublin
+Fri Sep 2 2022,Dundalk,0-0,?,Shelbourne
+Fri Sep 2 2022,St. Patricks,2-1,?,Finn Harps
+Sat Sep 3 2022,Sligo Rovers,2-0,?,Drogheda
+Fri Sep 9 2022,Derry City,1-0,?,Bohemians
+Fri Sep 9 2022,Drogheda,0-2,?,St. Patricks
+Fri Sep 9 2022,Shelbourne,0-2,?,Sligo Rovers
+Fri Sep 9 2022,UC Dublin,3-2,?,Dundalk
+Sun Sep 11 2022,Shamrock Rovers,5-1,?,Finn Harps
+Tue Sep 13 2022,Derry City,1-0,?,Sligo Rovers
+Thu Sep 22 2022,Shelbourne,0-0,?,Shamrock Rovers
+Sat Sep 24 2022,Finn Harps,0-2,?,Bohemians
+Mon Sep 26 2022,Shamrock Rovers,1-0,?,UC Dublin
+Fri Sep 30 2022,Bohemians,1-0,?,UC Dublin
+Fri Sep 30 2022,Dundalk,2-0,?,Drogheda
+Fri Sep 30 2022,St. Patricks,0-1,?,Derry City
+Fri Sep 30 2022,Finn Harps,1-1,?,Shelbourne
+Sat Oct 1 2022,Sligo Rovers,1-3,?,Shamrock Rovers
+Mon Oct 3 2022,Shelbourne,4-4,?,St. Patricks
+Fri Oct 7 2022,Bohemians,0-1,?,Drogheda
+Fri Oct 7 2022,Derry City,3-0,?,Finn Harps
+Fri Oct 7 2022,Dundalk,1-2,?,St. Patricks
+Fri Oct 7 2022,UC Dublin,0-2,?,Sligo Rovers
+Sun Oct 9 2022,Shamrock Rovers,3-2,?,Shelbourne
+Fri Oct 14 2022,St. Patricks,3-1,?,Bohemians
+Fri Oct 14 2022,Finn Harps,1-2,?,Dundalk
+Sun Oct 16 2022,Drogheda,1-1,?,Shamrock Rovers
+Fri Oct 21 2022,Bohemians,2-2,?,Finn Harps
+Fri Oct 21 2022,Derry City,1-1,?,Shelbourne
+Fri Oct 21 2022,Dundalk,3-3,?,Sligo Rovers
+Fri Oct 21 2022,Shamrock Rovers,4-1,?,St. Patricks
+Fri Oct 21 2022,UC Dublin,2-1,?,Drogheda
+Mon Oct 24 2022,Shelbourne,1-1,?,UC Dublin
+Mon Oct 24 2022,Sligo Rovers,0-0,?,Derry City
+Fri Oct 28 2022,Dundalk,2-1,?,Bohemians
+Fri Oct 28 2022,Shelbourne,6-0,?,Drogheda
+Fri Oct 28 2022,Sligo Rovers,1-0,?,St. Patricks
+Fri Oct 28 2022,Finn Harps,1-3,?,UC Dublin
+Sun Oct 30 2022,Shamrock Rovers,1-0,?,Derry City
+Sun Nov 6 2022,Bohemians,3-1,?,Sligo Rovers
+Sun Nov 6 2022,Derry City,0-1,?,Dundalk
+Sun Nov 6 2022,Drogheda,2-0,?,Finn Harps
+Sun Nov 6 2022,St. Patricks,4-0,?,Shelbourne
+Sun Nov 6 2022,UC Dublin,0-2,?,Shamrock Rovers
+Fri Nov 11 2022,UC Dublin,1-0,?,Waterford

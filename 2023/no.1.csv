@@ -1,0 +1,243 @@
+Date,Team 1,FT,HT,Team 2
+Mon Apr 10 2023,Rosenborg,1-0,?,Viking
+Mon Apr 10 2023,Aalesund,0-1,?,Valerenga
+Mon Apr 10 2023,Ham-Kam,2-0,?,Sandefjord
+Mon Apr 10 2023,Sarpsborg 08,0-2,?,Bodo/Glimt
+Mon Apr 10 2023,Stabaek,0-0,?,Odd
+Mon Apr 10 2023,Tromso,1-0,?,Molde
+Mon Apr 10 2023,Brann,3-0,?,Haugesund
+Sat Apr 15 2023,Viking,2-0,?,Lillestrom
+Sun Apr 16 2023,Bodo/Glimt,4-0,?,Stabaek
+Sun Apr 16 2023,Haugesund,3-2,?,Ham-Kam
+Sun Apr 16 2023,Molde,1-1,?,Rosenborg
+Sun Apr 16 2023,Odd,2-0,?,Brann
+Sun Apr 16 2023,Sandefjord,0-0,?,Tromso
+Sun Apr 16 2023,Stromsgodset,1-0,?,Aalesund
+Sun Apr 16 2023,Valerenga,0-2,?,Sarpsborg 08
+Wed Apr 19 2023,Lillestrom,4-3,?,Stromsgodset
+Sat Apr 22 2023,Brann,3-1,?,Valerenga
+Sun Apr 23 2023,Aalesund,0-3,?,Bodo/Glimt
+Sun Apr 23 2023,Ham-Kam,2-0,?,Stromsgodset
+Sun Apr 23 2023,Rosenborg,1-1,?,Sandefjord
+Sun Apr 23 2023,Sarpsborg 08,0-0,?,Odd
+Sun Apr 23 2023,Stabaek,3-0,?,Haugesund
+Sun Apr 23 2023,Tromso,1-1,?,Viking
+Sun Apr 23 2023,Lillestrom,2-1,?,Molde
+Sat Apr 29 2023,Bodo/Glimt,2-2,?,Brann
+Sun Apr 30 2023,Haugesund,0-0,?,Sarpsborg 08
+Sun Apr 30 2023,Molde,2-3,?,Stabaek
+Sun Apr 30 2023,Sandefjord,4-0,?,Aalesund
+Sun Apr 30 2023,Stromsgodset,0-1,?,Tromso
+Sun Apr 30 2023,Viking,7-3,?,Ham-Kam
+Sun Apr 30 2023,Odd,0-0,?,Rosenborg
+Mon May 1 2023,Valerenga,3-4,?,Lillestrom
+Wed May 3 2023,Bodo/Glimt,2-0,?,Odd
+Wed May 3 2023,Molde,3-0,?,Aalesund
+Wed May 3 2023,Rosenborg,0-2,?,Brann
+Sat May 6 2023,Rosenborg,1-3,?,Valerenga
+Sun May 7 2023,Aalesund,0-0,?,Haugesund
+Sun May 7 2023,Ham-Kam,0-4,?,Molde
+Sun May 7 2023,Stabaek,1-1,?,Sarpsborg 08
+Sun May 7 2023,Tromso,0-1,?,Odd
+Sun May 7 2023,Viking,1-1,?,Stromsgodset
+Sun May 7 2023,Lillestrom,1-2,?,Bodo/Glimt
+Mon May 8 2023,Brann,0-0,?,Sandefjord
+Fri May 12 2023,Odd,0-1,?,Lillestrom
+Sat May 13 2023,Bodo/Glimt,3-2,?,Rosenborg
+Sat May 13 2023,Ham-Kam,1-2,?,Tromso
+Sat May 13 2023,Molde,3-2,?,Stromsgodset
+Sat May 13 2023,Sandefjord,1-2,?,Viking
+Sat May 13 2023,Sarpsborg 08,2-1,?,Brann
+Sat May 13 2023,Stabaek,1-0,?,Aalesund
+Sat May 13 2023,Haugesund,1-1,?,Valerenga
+Tue May 16 2023,Aalesund,3-1,?,Molde
+Tue May 16 2023,Brann,4-1,?,Stabaek
+Tue May 16 2023,Lillestrom,1-2,?,Sarpsborg 08
+Tue May 16 2023,Rosenborg,1-0,?,Haugesund
+Tue May 16 2023,Stromsgodset,1-0,?,Sandefjord
+Tue May 16 2023,Tromso,2-3,?,Bodo/Glimt
+Tue May 16 2023,Valerenga,3-0,?,Ham-Kam
+Tue May 16 2023,Viking,3-2,?,Odd
+Mon May 29 2023,Bodo/Glimt,5-1,?,Viking
+Mon May 29 2023,Brann,3-1,?,Rosenborg
+Mon May 29 2023,Haugesund,1-2,?,Tromso
+Mon May 29 2023,Molde,5-0,?,Sandefjord
+Mon May 29 2023,Odd,1-1,?,Stromsgodset
+Mon May 29 2023,Sarpsborg 08,3-1,?,Aalesund
+Mon May 29 2023,Stabaek,2-1,?,Valerenga
+Mon May 29 2023,Ham-Kam,0-0,?,Lillestrom
+Sun Jun 4 2023,Aalesund,1-3,?,Brann
+Sun Jun 4 2023,Lillestrom,3-1,?,Stabaek
+Sun Jun 4 2023,Rosenborg,4-0,?,Ham-Kam
+Sun Jun 4 2023,Sandefjord,4-1,?,Odd
+Sun Jun 4 2023,Stromsgodset,1-2,?,Haugesund
+Sun Jun 4 2023,Tromso,2-1,?,Sarpsborg 08
+Sun Jun 4 2023,Valerenga,1-3,?,Bodo/Glimt
+Sun Jun 4 2023,Viking,3-4,?,Molde
+Sun Jun 11 2023,Aalesund,2-3,?,Tromso
+Sun Jun 11 2023,Bodo/Glimt,3-0,?,Ham-Kam
+Sun Jun 11 2023,Haugesund,3-2,?,Sandefjord
+Sun Jun 11 2023,Odd,1-0,?,Molde
+Sun Jun 11 2023,Sarpsborg 08,1-3,?,Viking
+Sun Jun 11 2023,Stabaek,2-2,?,Rosenborg
+Sun Jun 11 2023,Valerenga,0-1,?,Stromsgodset
+Sun Jun 11 2023,Brann,2-2,?,Lillestrom
+Sat Jun 24 2023,Viking,3-1,?,Brann
+Sun Jun 25 2023,Ham-Kam,0-1,?,Odd
+Sun Jun 25 2023,Molde,1-0,?,Haugesund
+Sun Jun 25 2023,Rosenborg,0-3,?,Sarpsborg 08
+Sun Jun 25 2023,Tromso,2-1,?,Stabaek
+Sun Jun 25 2023,Stromsgodset,2-0,?,Bodo/Glimt
+Sat Jul 1 2023,Valerenga,1-2,?,Viking
+Sun Jul 2 2023,Aalesund,1-0,?,Rosenborg
+Sun Jul 2 2023,Brann,2-1,?,Ham-Kam
+Sun Jul 2 2023,Haugesund,2-1,?,Odd
+Sun Jul 2 2023,Lillestrom,0-1,?,Tromso
+Sun Jul 2 2023,Sarpsborg 08,6-1,?,Sandefjord
+Sun Jul 2 2023,Bodo/Glimt,2-2,?,Molde
+Mon Jul 3 2023,Stabaek,0-1,?,Stromsgodset
+Fri Jul 7 2023,Ham-Kam,2-1,?,Aalesund
+Sat Jul 8 2023,Viking,2-0,?,Haugesund
+Sun Jul 9 2023,Odd,0-2,?,Bodo/Glimt
+Sun Jul 9 2023,Rosenborg,1-2,?,Lillestrom
+Sun Jul 9 2023,Sandefjord,0-0,?,Stabaek
+Sun Jul 9 2023,Stromsgodset,5-2,?,Sarpsborg 08
+Sun Jul 9 2023,Tromso,0-0,?,Valerenga
+Sun Jul 9 2023,Molde,2-0,?,Brann
+Sat Jul 15 2023,Valerenga,0-4,?,Molde
+Sun Jul 16 2023,Aalesund,0-3,?,Odd
+Sun Jul 16 2023,Bodo/Glimt,2-1,?,Haugesund
+Sun Jul 16 2023,Lillestrom,4-2,?,Sandefjord
+Sun Jul 16 2023,Rosenborg,2-1,?,Tromso
+Sun Jul 16 2023,Sarpsborg 08,2-3,?,Ham-Kam
+Sun Jul 16 2023,Stabaek,0-1,?,Viking
+Sun Jul 16 2023,Brann,1-0,?,Stromsgodset
+Wed Jul 19 2023,Lillestrom,5-1,?,Aalesund
+Sat Jul 22 2023,Molde,5-1,?,Sarpsborg 08
+Sun Jul 23 2023,Ham-Kam,3-2,?,Stabaek
+Sun Jul 23 2023,Haugesund,1-0,?,Lillestrom
+Sun Jul 23 2023,Odd,2-1,?,Valerenga
+Sun Jul 23 2023,Sandefjord,2-5,?,Bodo/Glimt
+Sun Jul 23 2023,Tromso,3-1,?,Brann
+Sun Jul 23 2023,Stromsgodset,0-1,?,Rosenborg
+Mon Jul 24 2023,Viking,3-1,?,Aalesund
+Sat Jul 29 2023,Valerenga,2-3,?,Sandefjord
+Sat Jul 29 2023,Stabaek,0-1,?,Molde
+Sun Jul 30 2023,Aalesund,1-0,?,Stromsgodset
+Sun Jul 30 2023,Brann,0-2,?,Viking
+Sun Jul 30 2023,Lillestrom,3-1,?,Ham-Kam
+Sun Jul 30 2023,Rosenborg,3-2,?,Odd
+Sun Jul 30 2023,Sarpsborg 08,2-1,?,Haugesund
+Sun Jul 30 2023,Bodo/Glimt,0-2,?,Tromso
+Sat Aug 5 2023,Stromsgodset,1-3,?,Valerenga
+Sun Aug 6 2023,Ham-Kam,0-2,?,Brann
+Sun Aug 6 2023,Haugesund,1-2,?,Rosenborg
+Sun Aug 6 2023,Odd,4-0,?,Stabaek
+Sun Aug 6 2023,Sandefjord,5-1,?,Sarpsborg 08
+Sun Aug 6 2023,Tromso,3-1,?,Lillestrom
+Sun Aug 6 2023,Viking,3-2,?,Bodo/Glimt
+Sat Aug 12 2023,Sandefjord,2-2,?,Molde
+Sat Aug 12 2023,Sarpsborg 08,1-2,?,Stromsgodset
+Sun Aug 13 2023,Aalesund,0-2,?,Ham-Kam
+Sun Aug 13 2023,Lillestrom,1-3,?,Viking
+Sun Aug 13 2023,Valerenga,1-1,?,Haugesund
+Sat Aug 19 2023,Molde,0-0,?,Valerenga
+Sat Aug 19 2023,Odd,0-3,?,Sarpsborg 08
+Sun Aug 20 2023,Brann,5-1,?,Aalesund
+Sun Aug 20 2023,Ham-Kam,3-0,?,Rosenborg
+Sun Aug 20 2023,Haugesund,1-3,?,Bodo/Glimt
+Sun Aug 20 2023,Tromso,1-0,?,Sandefjord
+Sun Aug 20 2023,Viking,1-0,?,Stabaek
+Sun Aug 20 2023,Stromsgodset,1-2,?,Lillestrom
+Sat Aug 26 2023,Sarpsborg 08,4-0,?,Tromso
+Sun Aug 27 2023,Sandefjord,0-0,?,Haugesund
+Sun Aug 27 2023,Valerenga,2-2,?,Odd
+Sun Aug 27 2023,Rosenborg,4-0,?,Aalesund
+Sat Sep 2 2023,Viking,1-1,?,Valerenga
+Sun Sep 3 2023,Aalesund,1-1,?,Lillestrom
+Sun Sep 3 2023,Brann,1-0,?,Sarpsborg 08
+Sun Sep 3 2023,Haugesund,1-2,?,Molde
+Sun Sep 3 2023,Odd,3-2,?,Sandefjord
+Sun Sep 3 2023,Stromsgodset,2-1,?,Stabaek
+Sun Sep 3 2023,Tromso,3-1,?,Rosenborg
+Sun Sep 3 2023,Ham-Kam,4-4,?,Bodo/Glimt
+Sat Sep 16 2023,Haugesund,0-2,?,Viking
+Sat Sep 16 2023,Molde,4-1,?,Odd
+Sat Sep 16 2023,Sandefjord,2-0,?,Stromsgodset
+Sun Sep 17 2023,Rosenborg,1-1,?,Bodo/Glimt
+Sun Sep 17 2023,Sarpsborg 08,3-1,?,Lillestrom
+Sun Sep 17 2023,Stabaek,0-1,?,Brann
+Sun Sep 17 2023,Tromso,2-1,?,HamKam
+Sun Sep 17 2023,Valerenga,3-1,?,Aalesund
+Sat Sep 23 2023,Aalesund,1-1,?,Stabaek
+Sun Sep 24 2023,Bodo/Glimt,4-2,?,Valerenga
+Sun Sep 24 2023,HamKam,1-1,?,Sarpsborg 08
+Sun Sep 24 2023,Lillestrom,3-0,?,Rosenborg
+Sun Sep 24 2023,Odd,1-1,?,Haugesund
+Sun Sep 24 2023,Stromsgodset,1-1,?,Molde
+Sun Sep 24 2023,Viking,4-3,?,Sandefjord
+Sun Sep 24 2023,Brann,2-1,?,Tromso
+Sat Sep 30 2023,Stabaek,0-1,?,Tromso
+Sun Oct 1 2023,Lillestrom,0-2,?,Brann
+Sun Oct 1 2023,Molde,4-0,?,Viking
+Sun Oct 1 2023,Sandefjord,1-2,?,Valerenga
+Sun Oct 1 2023,Bodo/Glimt,2-0,?,Stromsgodset
+Wed Oct 4 2023,Stabaek,5-2,?,HamKam
+Sat Oct 7 2023,Odd,1-1,?,Viking
+Sun Oct 8 2023,Haugesund,1-0,?,Stromsgodset
+Sun Oct 8 2023,Molde,1-3,?,Bodo/Glimt
+Sun Oct 8 2023,Sandefjord,0-1,?,HamKam
+Sun Oct 8 2023,Sarpsborg 08,5-2,?,Rosenborg
+Sun Oct 8 2023,Stabaek,1-0,?,Lillestrom
+Sun Oct 8 2023,Tromso,1-2,?,Aalesund
+Sun Oct 8 2023,Valerenga,1-2,?,Brann
+Sat Oct 21 2023,Bodo/Glimt,4-3,?,Sandefjord
+Sat Oct 21 2023,Brann,3-2,?,Molde
+Sun Oct 22 2023,Lillestrom,2-0,?,Valerenga
+Sun Oct 22 2023,Aalesund,3-2,?,Sarpsborg 08
+Sun Oct 22 2023,HamKam,0-3,?,Haugesund
+Sun Oct 22 2023,Rosenborg,1-1,?,Stabaek
+Sun Oct 22 2023,Stromsgodset,3-1,?,Odd
+Sun Oct 22 2023,Viking,3-4,?,Tromso
+Sat Oct 28 2023,Haugesund,6-1,?,Aalesund
+Sun Oct 29 2023,Odd,2-0,?,HamKam
+Sun Oct 29 2023,Sandefjord,1-1,?,Brann
+Sun Oct 29 2023,Sarpsborg 08,2-2,?,Stabaek
+Sun Oct 29 2023,Stromsgodset,1-0,?,Viking
+Sun Oct 29 2023,Valerenga,1-3,?,Rosenborg
+Mon Oct 30 2023,Bodo/Glimt,3-1,?,Lillestrom
+Mon Oct 30 2023,Molde,1-4,?,Tromso
+Sat Nov 4 2023,HamKam,3-0,?,Viking
+Sun Nov 5 2023,Brann,2-1,?,Odd
+Sun Nov 5 2023,Lillestrom,1-0,?,Haugesund
+Sun Nov 5 2023,Rosenborg,3-1,?,Molde
+Sun Nov 5 2023,Sarpsborg 08,3-2,?,Valerenga
+Sun Nov 5 2023,Stabaek,0-4,?,Bodo/Glimt
+Sun Nov 5 2023,Tromso,0-1,?,Stromsgodset
+Mon Nov 6 2023,Aalesund,0-3,?,Sandefjord
+Sat Nov 11 2023,Haugesund,0-2,?,Brann
+Sun Nov 12 2023,Bodo/Glimt,1-0,?,Aalesund
+Sun Nov 12 2023,Odd,1-2,?,Tromso
+Sun Nov 12 2023,Sandefjord,3-2,?,Rosenborg
+Sun Nov 12 2023,Stromsgodset,0-1,?,HamKam
+Sun Nov 12 2023,Valerenga,0-0,?,Stabaek
+Sun Nov 12 2023,Viking,2-1,?,Sarpsborg 08
+Sun Nov 12 2023,Molde,4-0,?,Lillestrom
+Sun Nov 26 2023,Aalesund,0-4,?,Viking
+Sun Nov 26 2023,Brann,4-2,?,Bodo/Glimt
+Sun Nov 26 2023,HamKam,0-2,?,Valerenga
+Sun Nov 26 2023,Lillestrom,4-4,?,Odd
+Sun Nov 26 2023,Rosenborg,1-3,?,Stromsgodset
+Sun Nov 26 2023,Sarpsborg 08,1-3,?,Molde
+Sun Nov 26 2023,Stabaek,2-1,?,Sandefjord
+Sun Nov 26 2023,Tromso,2-1,?,Haugesund
+Sun Dec 3 2023,Bodo/Glimt,2-0,?,Sarpsborg 08
+Sun Dec 3 2023,Haugesund,3-0,?,Stabaek
+Sun Dec 3 2023,Molde,1-1,?,HamKam
+Sun Dec 3 2023,Odd,4-1,?,Aalesund
+Sun Dec 3 2023,Sandefjord,1-0,?,Lillestrom
+Sun Dec 3 2023,Stromsgodset,3-0,?,Brann
+Sun Dec 3 2023,Valerenga,1-1,?,Tromso
+Sun Dec 3 2023,Viking,1-5,?,Rosenborg
+Wed Dec 6 2023,Kristiansund,0-2,?,Valerenga
+Sun Dec 10 2023,Valerenga,0-2,?,Kristiansund

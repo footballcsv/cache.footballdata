@@ -1,0 +1,231 @@
+Date,Team 1,FT,HT,Team 2
+Sat Jul 22 2023,Grasshoppers,1-3,?,Servette
+Sat Jul 22 2023,St. Gallen,2-1,?,Basel
+Sat Jul 22 2023,Winterthur,0-0,?,Luzern
+Sun Jul 23 2023,Young Boys,2-1,?,Lausanne
+Sun Jul 23 2023,Zurich,2-0,?,Yverdon
+Wed Jul 26 2023,Lausanne Ouchy,0-3,?,Lugano
+Sat Jul 29 2023,Lausanne,1-1,?,Grasshoppers
+Sat Jul 29 2023,Lugano,1-0,?,St. Gallen
+Sat Jul 29 2023,Servette,2-2,?,Zurich
+Sun Jul 30 2023,Luzern,2-1,?,Lausanne Ouchy
+Sun Jul 30 2023,Basel,5-2,?,Winterthur
+Sun Jul 30 2023,Yverdon,2-2,?,Young Boys
+Sat Aug 5 2023,Lausanne Ouchy,1-1,?,Servette
+Sat Aug 5 2023,Young Boys,5-2,?,Winterthur
+Sat Aug 5 2023,Zurich,3-0,?,Lugano
+Sun Aug 6 2023,Lausanne,1-2,?,Yverdon
+Sun Aug 6 2023,Grasshoppers,3-1,?,Basel
+Sun Aug 6 2023,St. Gallen,2-1,?,Luzern
+Sat Aug 12 2023,Lausanne Ouchy,0-3,?,Zurich
+Sat Aug 12 2023,Winterthur,3-1,?,Grasshoppers
+Sat Aug 12 2023,Servette,1-1,?,St. Gallen
+Sun Aug 13 2023,Basel,1-2,?,Lausanne
+Sun Aug 13 2023,Lugano,6-1,?,Yverdon
+Sun Aug 13 2023,Luzern,1-1,?,Young Boys
+Sat Aug 26 2023,Yverdon,4-1,?,Servette
+Sat Aug 26 2023,Zurich,1-1,?,St. Gallen
+Sun Aug 27 2023,Grasshoppers,0-1,?,Luzern
+Sun Aug 27 2023,Lausanne,2-5,?,Winterthur
+Sat Sep 2 2023,Lausanne Ouchy,2-1,?,Grasshoppers
+Sat Sep 2 2023,St. Gallen,2-1,?,Lausanne
+Sat Sep 2 2023,Winterthur,1-1,?,Yverdon
+Sun Sep 3 2023,Servette,0-1,?,Young Boys
+Sun Sep 3 2023,Basel,2-2,?,Zurich
+Sun Sep 3 2023,Luzern,3-2,?,Lugano
+Sat Sep 23 2023,Lausanne,0-0,?,Zurich
+Sat Sep 23 2023,Winterthur,2-1,?,Lausanne Ouchy
+Sat Sep 23 2023,Grasshoppers,1-1,?,St. Gallen
+Sun Sep 24 2023,Yverdon,3-2,?,Basel
+Sun Sep 24 2023,Luzern,2-0,?,Servette
+Sun Sep 24 2023,Young Boys,4-1,?,Lugano
+Tue Sep 26 2023,Zurich,2-1,?,Grasshoppers
+Wed Sep 27 2023,Lugano,2-1,?,Lausanne
+Wed Sep 27 2023,Servette,2-2,?,Winterthur
+Wed Sep 27 2023,St. Gallen,2-1,?,Young Boys
+Thu Sep 28 2023,Basel,1-1,?,Luzern
+Thu Sep 28 2023,Lausanne Ouchy,1-1,?,Yverdon
+Sat Sep 30 2023,Servette,2-1,?,Lausanne
+Sat Sep 30 2023,Winterthur,2-3,?,Lugano
+Sat Sep 30 2023,Grasshoppers,0-1,?,Young Boys
+Sun Oct 1 2023,Yverdon,1-0,?,St. Gallen
+Sun Oct 1 2023,Basel,0-3,?,Lausanne Ouchy
+Sun Oct 1 2023,Luzern,1-4,?,Zurich
+Sat Oct 7 2023,Yverdon,0-3,?,Grasshoppers
+Sat Oct 7 2023,Zurich,3-2,?,Winterthur
+Sat Oct 7 2023,St. Gallen,4-0,?,Lausanne Ouchy
+Sun Oct 8 2023,Lugano,0-1,?,Servette
+Sun Oct 8 2023,Lausanne,3-1,?,Luzern
+Sun Oct 8 2023,Young Boys,3-0,?,Basel
+Sat Oct 21 2023,Lausanne Ouchy,2-2,?,Lausanne
+Sat Oct 21 2023,Young Boys,0-0,?,Zurich
+Sat Oct 21 2023,Basel,0-1,?,Servette
+Sun Oct 22 2023,Winterthur,2-1,?,St. Gallen
+Sun Oct 22 2023,Grasshoppers,2-1,?,Lugano
+Sun Oct 22 2023,Luzern,2-1,?,Yverdon
+Sat Oct 28 2023,St. Gallen,3-1,?,Grasshoppers
+Sat Oct 28 2023,Yverdon,1-1,?,Winterthur
+Sat Oct 28 2023,Zurich,1-1,?,Lausanne Ouchy
+Sun Oct 29 2023,Lausanne,3-0,?,Basel
+Sun Oct 29 2023,Lugano,1-1,?,Young Boys
+Sun Oct 29 2023,Servette,4-2,?,Luzern
+Sat Nov 4 2023,Lausanne,3-1,?,Lugano
+Sat Nov 4 2023,Winterthur,1-4,?,Young Boys
+Sat Nov 4 2023,Zurich,0-2,?,Servette
+Sun Nov 5 2023,Luzern,2-0,?,Grasshoppers
+Sun Nov 5 2023,Basel,2-1,?,Yverdon
+Sun Nov 5 2023,Lausanne Ouchy,2-5,?,St. Gallen
+Sat Nov 11 2023,St. Gallen,4-2,?,Winterthur
+Sat Nov 11 2023,Yverdon,2-2,?,Lausanne
+Sat Nov 11 2023,Young Boys,6-1,?,Luzern
+Sun Nov 12 2023,Grasshoppers,5-2,?,Lausanne Ouchy
+Sun Nov 12 2023,Lugano,0-3,?,Zurich
+Sun Nov 12 2023,Servette,4-1,?,Basel
+Sat Nov 25 2023,Luzern,3-1,?,Winterthur
+Sat Nov 25 2023,Zurich,3-1,?,Young Boys
+Sat Nov 25 2023,Yverdon,0-5,?,Lugano
+Sun Nov 26 2023,Lausanne,1-0,?,Lausanne Ouchy
+Sun Nov 26 2023,Basel,2-0,?,St. Gallen
+Sun Nov 26 2023,Servette,2-0,?,Grasshoppers
+Sat Dec 2 2023,Grasshoppers,5-0,?,Lausanne
+Sat Dec 2 2023,Lausanne Ouchy,1-1,?,Basel
+Sun Dec 3 2023,Lugano,1-0,?,Luzern
+Sun Dec 3 2023,Young Boys,1-1,?,Servette
+Wed Dec 6 2023,St. Gallen,4-0,?,Yverdon
+Wed Dec 6 2023,Lugano,1-3,?,Basel
+Wed Dec 6 2023,Young Boys,1-0,?,Lausanne Ouchy
+Sat Dec 9 2023,Basel,0-1,?,Grasshoppers
+Sat Dec 9 2023,Young Boys,3-0,?,St. Gallen
+Sat Dec 9 2023,Lausanne,1-1,?,Servette
+Sun Dec 10 2023,Lugano,2-1,?,Winterthur
+Sun Dec 10 2023,Yverdon,2-1,?,Lausanne Ouchy
+Sun Dec 10 2023,Zurich,1-1,?,Luzern
+Wed Dec 13 2023,Winterthur,2-1,?,Zurich
+Sat Dec 16 2023,Lausanne Ouchy,1-3,?,Young Boys
+Sat Dec 16 2023,St. Gallen,1-0,?,Zurich
+Sat Dec 16 2023,Grasshoppers,1-1,?,Yverdon
+Sun Dec 17 2023,Winterthur,1-0,?,Lausanne
+Sun Dec 17 2023,Luzern,0-1,?,Basel
+Sun Dec 17 2023,Servette,2-2,?,Lugano
+Sat Jan 20 2024,Young Boys,1-0,?,Grasshoppers
+Sat Jan 20 2024,Lausanne,0-1,?,St. Gallen
+Sun Jan 21 2024,Lugano,2-3,?,Lausanne Ouchy
+Sun Jan 21 2024,Zurich,0-0,?,Basel
+Tue Jan 23 2024,Winterthur,3-3,?,Servette
+Tue Jan 23 2024,Yverdon,2-1,?,Luzern
+Sat Jan 27 2024,Lausanne Ouchy,1-3,?,Winterthur
+Sat Jan 27 2024,Servette,1-0,?,Yverdon
+Sat Jan 27 2024,Basel,1-0,?,Young Boys
+Sun Jan 28 2024,St. Gallen,1-4,?,Lugano
+Sun Jan 28 2024,Grasshoppers,2-1,?,Zurich
+Sun Jan 28 2024,Luzern,2-1,?,Lausanne
+Tue Jan 30 2024,Winterthur,1-3,?,Basel
+Tue Jan 30 2024,Young Boys,5-1,?,Yverdon
+Wed Jan 31 2024,Lugano,0-0,?,Grasshoppers
+Wed Jan 31 2024,St. Gallen,0-2,?,Servette
+Wed Jan 31 2024,Zurich,2-2,?,Lausanne
+Thu Feb 1 2024,Lausanne Ouchy,0-3,?,Luzern
+Sat Feb 3 2024,Grasshoppers,0-1,?,Winterthur
+Sat Feb 3 2024,Lausanne,0-1,?,Young Boys
+Sat Feb 3 2024,Basel,0-1,?,Lugano
+Sun Feb 4 2024,Yverdon,3-0,?,Zurich
+Sun Feb 4 2024,Luzern,1-0,?,St. Gallen
+Sun Feb 4 2024,Servette,3-1,?,Lausanne Ouchy
+Sat Feb 10 2024,Lausanne Ouchy,1-1,?,Lausanne
+Sat Feb 10 2024,Zurich,1-0,?,Grasshoppers
+Sat Feb 10 2024,Lugano,3-3,?,Young Boys
+Sun Feb 11 2024,Winterthur,2-1,?,Luzern
+Sun Feb 11 2024,Basel,1-0,?,St. Gallen
+Sun Feb 11 2024,Yverdon,2-1,?,Servette
+Sat Feb 17 2024,Lausanne,3-1,?,Yverdon
+Sat Feb 17 2024,St. Gallen,2-2,?,Winterthur
+Sat Feb 17 2024,Grasshoppers,2-1,?,Basel
+Sun Feb 18 2024,Young Boys,1-0,?,Lausanne Ouchy
+Sun Feb 18 2024,Luzern,0-1,?,Zurich
+Sun Feb 18 2024,Servette,2-1,?,Lugano
+Sat Feb 24 2024,St. Gallen,1-0,?,Lausanne Ouchy
+Sat Feb 24 2024,Yverdon,0-2,?,Basel
+Sat Feb 24 2024,Grasshoppers,0-1,?,Luzern
+Sun Feb 25 2024,Lugano,2-0,?,Zurich
+Sun Feb 25 2024,Lausanne,1-1,?,Winterthur
+Sun Feb 25 2024,Young Boys,0-1,?,Servette
+Sat Mar 2 2024,Lausanne Ouchy,1-1,?,Grasshoppers
+Sat Mar 2 2024,Servette,2-0,?,St. Gallen
+Sat Mar 2 2024,Basel,1-2,?,Lausanne
+Sun Mar 3 2024,Luzern,0-1,?,Lugano
+Sun Mar 3 2024,Winterthur,2-1,?,Yverdon
+Sun Mar 3 2024,Zurich,1-0,?,Young Boys
+Sat Mar 9 2024,Winterthur,2-0,?,Grasshoppers
+Sat Mar 9 2024,Yverdon,3-2,?,Zurich
+Sat Mar 9 2024,St. Gallen,2-3,?,Lugano
+Sun Mar 10 2024,Servette,3-1,?,Lausanne
+Sun Mar 10 2024,Lausanne Ouchy,2-1,?,Luzern
+Sun Mar 10 2024,Young Boys,5-1,?,Basel
+Sat Mar 16 2024,Basel,1-1,?,Winterthur
+Sat Mar 16 2024,Grasshoppers,1-1,?,St. Gallen
+Sat Mar 16 2024,Lugano,2-0,?,Yverdon
+Sun Mar 17 2024,Zurich,2-2,?,Lausanne Ouchy
+Sun Mar 17 2024,Lausanne,2-0,?,Young Boys
+Sun Mar 17 2024,Luzern,2-2,?,Servette
+Sat Mar 30 2024,Lausanne Ouchy,1-3,?,Lugano
+Sat Mar 30 2024,Winterthur,1-0,?,Servette
+Sat Mar 30 2024,Basel,2-2,?,Zurich
+Mon Apr 1 2024,Yverdon,0-0,?,Young Boys
+Mon Apr 1 2024,Grasshoppers,0-1,?,Lausanne
+Mon Apr 1 2024,St. Gallen,1-1,?,Luzern
+Tue Apr 2 2024,Lugano,2-0,?,Basel
+Wed Apr 3 2024,Servette,1-2,?,Lausanne Ouchy
+Wed Apr 3 2024,Zurich,0-0,?,Winterthur
+Thu Apr 4 2024,Lausanne,3-3,?,St. Gallen
+Thu Apr 4 2024,Luzern,1-0,?,Yverdon
+Thu Apr 4 2024,Young Boys,3-0,?,Grasshoppers
+Sat Apr 6 2024,Lausanne Ouchy,0-2,?,Basel
+Sat Apr 6 2024,Winterthur,2-2,?,Lugano
+Sat Apr 6 2024,Servette,0-1,?,Zurich
+Sun Apr 7 2024,Luzern,0-0,?,Lausanne
+Sun Apr 7 2024,St. Gallen,2-2,?,Young Boys
+Sun Apr 7 2024,Yverdon,3-2,?,Grasshoppers
+Sat Apr 13 2024,Grasshoppers,0-1,?,Lugano
+Sat Apr 13 2024,Lausanne,1-0,?,Zurich
+Sat Apr 13 2024,St. Gallen,5-1,?,Yverdon
+Sun Apr 14 2024,Basel,2-1,?,Servette
+Sun Apr 14 2024,Lausanne Ouchy,0-1,?,Winterthur
+Sun Apr 14 2024,Young Boys,4-2,?,Luzern
+Sat Apr 20 2024,Servette,1-0,?,Grasshoppers
+Sat Apr 20 2024,Yverdon,3-0,?,Lausanne Ouchy
+Sat Apr 20 2024,Lugano,2-0,?,Lausanne
+Sun Apr 21 2024,Luzern,1-1,?,Basel
+Sun Apr 21 2024,Winterthur,1-2,?,Young Boys
+Sun Apr 21 2024,Zurich,0-1,?,St. Gallen
+Sat May 4 2024,Grasshoppers,3-2,?,Lausanne Ouchy
+Sat May 4 2024,Servette,2-1,?,Winterthur
+Sat May 4 2024,Lugano,0-1,?,St. Gallen
+Sun May 5 2024,Basel,1-1,?,Luzern
+Sun May 5 2024,Yverdon,3-1,?,Lausanne
+Sun May 5 2024,Zurich,0-2,?,Young Boys
+Fri May 10 2024,Lausanne,0-0,?,Basel
+Fri May 10 2024,Luzern,1-1,?,Grasshoppers
+Sat May 11 2024,Lausanne Ouchy,3-1,?,Yverdon
+Sat May 11 2024,Young Boys,0-1,?,Lugano
+Sun May 12 2024,Winterthur,1-3,?,Zurich
+Sun May 12 2024,St. Gallen,1-1,?,Servette
+Tue May 14 2024,Basel,2-0,?,Lausanne Ouchy
+Tue May 14 2024,Grasshoppers,2-0,?,Yverdon
+Wed May 15 2024,Lausanne,0-2,?,Luzern
+Wed May 15 2024,Zurich,2-1,?,Servette
+Thu May 16 2024,Lugano,4-2,?,Winterthur
+Thu May 16 2024,Young Boys,3-1,?,St. Gallen
+Sat May 18 2024,Grasshoppers,0-1,?,Basel
+Sat May 18 2024,Lausanne Ouchy,0-4,?,Lausanne
+Sat May 18 2024,Yverdon,3-1,?,Luzern
+Mon May 20 2024,Servette,0-1,?,Young Boys
+Mon May 20 2024,Winterthur,1-3,?,St. Gallen
+Mon May 20 2024,Zurich,2-1,?,Lugano
+Tue May 21 2024,Basel,0-0,?,Yverdon
+Tue May 21 2024,Lausanne,0-0,?,Grasshoppers
+Tue May 21 2024,Luzern,1-2,?,Lausanne Ouchy
+Sat May 25 2024,Lugano,0-2,?,Servette
+Sat May 25 2024,St. Gallen,1-2,?,Zurich
+Sat May 25 2024,Young Boys,3-0,?,Winterthur
+Sun May 26 2024,Grasshoppers,1-1,?,Thun
+Fri May 31 2024,Thun,1-2,?,Grasshoppers

@@ -1,0 +1,313 @@
+Date,Team 1,FT,HT,Team 2
+Fri Jul 28 2023,St. Gilloise,2-0,1-0,Anderlecht
+Sat Jul 29 2023,Eupen,2-2,1-0,Westerlo
+Sat Jul 29 2023,Charleroi,1-1,1-0,Oud-Heverlee Leuven
+Sat Jul 29 2023,RWD Molenbeek,0-4,0-3,Genk
+Sun Jul 30 2023,Antwerp,1-0,1-0,Cercle Brugge
+Sun Jul 30 2023,Gent,3-2,2-1,Kortrijk
+Sun Jul 30 2023,Club Brugge,1-1,0-1,Mechelen
+Sun Jul 30 2023,St Truiden,1-0,0-0,Standard
+Fri Aug 4 2023,Standard,0-1,0-1,St. Gilloise
+Sat Aug 5 2023,Genk,0-1,0-1,Eupen
+Sat Aug 5 2023,Cercle Brugge,2-0,2-0,Charleroi
+Sat Aug 5 2023,Oud-Heverlee Leuven,1-2,1-1,RWD Molenbeek
+Sun Aug 6 2023,Anderlecht,1-0,1-0,Antwerp
+Sun Aug 6 2023,Mechelen,0-1,0-0,Gent
+Sun Aug 6 2023,Westerlo,0-1,0-1,Club Brugge
+Sun Aug 6 2023,Kortrijk,0-1,0-0,St Truiden
+Fri Aug 11 2023,Antwerp,6-0,4-0,Kortrijk
+Sat Aug 12 2023,RWD Molenbeek,1-0,0-0,Mechelen
+Sat Aug 12 2023,St. Gilloise,5-1,2-1,Oud-Heverlee Leuven
+Sun Aug 13 2023,St Truiden,0-1,0-0,Anderlecht
+Sun Aug 13 2023,Cercle Brugge,0-1,0-0,Genk
+Sun Aug 13 2023,Eupen,0-5,0-3,Club Brugge
+Sun Aug 13 2023,Charleroi,1-1,0-1,Standard
+Sun Aug 13 2023,Westerlo,1-3,1-1,Gent
+Fri Aug 18 2023,Oud-Heverlee Leuven,1-1,0-1,Antwerp
+Sat Aug 19 2023,Standard,0-1,0-0,Cercle Brugge
+Sat Aug 19 2023,Mechelen,4-0,1-0,St. Gilloise
+Sun Aug 20 2023,Anderlecht,2-1,1-0,Westerlo
+Sun Aug 20 2023,Genk,0-0,0-0,Charleroi
+Sun Aug 20 2023,Gent,2-2,1-2,St Truiden
+Sun Aug 20 2023,Club Brugge,7-1,2-1,RWD Molenbeek
+Sun Aug 20 2023,Kortrijk,1-3,0-0,Eupen
+Sat Aug 26 2023,Westerlo,2-3,2-0,Mechelen
+Sat Aug 26 2023,Eupen,3-1,1-0,Oud-Heverlee Leuven
+Sat Aug 26 2023,Kortrijk,1-1,1-0,Standard
+Sun Aug 27 2023,St Truiden,0-2,0-0,Cercle Brugge
+Sun Aug 27 2023,Anderlecht,2-1,1-0,Charleroi
+Fri Sep 1 2023,Oud-Heverlee Leuven,3-0,1-0,Kortrijk
+Sat Sep 2 2023,Cercle Brugge,2-1,1-0,Westerlo
+Sat Sep 2 2023,Mechelen,1-0,0-0,Eupen
+Sat Sep 2 2023,Standard,1-1,1-1,RWD Molenbeek
+Sun Sep 3 2023,Gent,2-1,1-1,Club Brugge
+Sun Sep 3 2023,St. Gilloise,2-2,1-2,Antwerp
+Sun Sep 3 2023,Genk,1-1,0-0,Anderlecht
+Sun Sep 3 2023,Charleroi,1-1,0-0,St Truiden
+Fri Sep 15 2023,Westerlo,0-3,0-1,Antwerp
+Sat Sep 16 2023,RWD Molenbeek,2-1,1-1,Cercle Brugge
+Sat Sep 16 2023,St. Gilloise,0-2,0-1,Genk
+Sat Sep 16 2023,Club Brugge,4-2,2-2,Charleroi
+Sun Sep 17 2023,Eupen,1-3,0-2,Standard
+Sun Sep 17 2023,Kortrijk,2-2,1-1,Anderlecht
+Sun Sep 17 2023,Oud-Heverlee Leuven,1-1,1-1,Gent
+Sun Sep 17 2023,St Truiden,2-0,1-0,Mechelen
+Fri Sep 22 2023,Standard,0-0,0-0,Westerlo
+Sat Sep 23 2023,Charleroi,1-0,1-0,Kortrijk
+Sat Sep 23 2023,Mechelen,1-2,0-2,Oud-Heverlee Leuven
+Sat Sep 23 2023,Antwerp,0-0,0-0,RWD Molenbeek
+Sun Sep 24 2023,Genk,3-3,0-3,St Truiden
+Sun Sep 24 2023,Cercle Brugge,0-2,0-1,St. Gilloise
+Sun Sep 24 2023,Anderlecht,1-1,1-0,Club Brugge
+Sun Sep 24 2023,Gent,2-1,0-1,Eupen
+Wed Sep 27 2023,Antwerp,0-0,0-0,Gent
+Thu Sep 28 2023,RWD Molenbeek,2-3,2-2,St. Gilloise
+Thu Sep 28 2023,Club Brugge,1-1,0-1,Genk
+Fri Sep 29 2023,Kortrijk,2-1,0-0,Cercle Brugge
+Sat Sep 30 2023,Eupen,1-3,1-1,Anderlecht
+Sat Sep 30 2023,Oud-Heverlee Leuven,1-2,0-1,Standard
+Sat Sep 30 2023,Mechelen,0-0,0-0,Antwerp
+Sun Oct 1 2023,St. Gilloise,3-1,3-1,Charleroi
+Sun Oct 1 2023,Genk,3-3,2-1,Westerlo
+Sun Oct 1 2023,Club Brugge,1-1,0-0,St Truiden
+Sun Oct 1 2023,RWD Molenbeek,1-1,1-1,Gent
+Fri Oct 6 2023,Charleroi,2-1,0-0,RWD Molenbeek
+Sat Oct 7 2023,Cercle Brugge,3-2,2-2,Oud-Heverlee Leuven
+Sat Oct 7 2023,Westerlo,1-0,1-0,Kortrijk
+Sat Oct 7 2023,Anderlecht,3-1,1-0,Mechelen
+Sun Oct 8 2023,Standard,2-1,1-0,Club Brugge
+Sun Oct 8 2023,Antwerp,4-1,2-1,Eupen
+Sun Oct 8 2023,Gent,1-1,0-0,Genk
+Sun Oct 8 2023,St Truiden,0-4,0-2,St. Gilloise
+Fri Oct 20 2023,St. Gilloise,4-1,2-0,Eupen
+Sat Oct 21 2023,Kortrijk,1-0,1-0,Club Brugge
+Sat Oct 21 2023,RWD Molenbeek,1-1,0-0,Westerlo
+Sat Oct 21 2023,Charleroi,3-2,0-0,Antwerp
+Sun Oct 22 2023,Genk,4-0,2-0,Mechelen
+Sun Oct 22 2023,Cercle Brugge,2-0,0-0,Gent
+Sun Oct 22 2023,Standard,3-2,0-2,Anderlecht
+Sun Oct 22 2023,Oud-Heverlee Leuven,4-0,2-0,St Truiden
+Fri Oct 27 2023,St Truiden,2-1,0-0,RWD Molenbeek
+Sat Oct 28 2023,Mechelen,0-2,0-0,Cercle Brugge
+Sat Oct 28 2023,Eupen,2-0,1-0,Charleroi
+Sat Oct 28 2023,Anderlecht,5-1,2-1,Oud-Heverlee Leuven
+Sun Oct 29 2023,Club Brugge,2-1,1-0,Antwerp
+Sun Oct 29 2023,Westerlo,1-3,1-1,St. Gilloise
+Sun Oct 29 2023,Gent,3-1,3-0,Standard
+Sun Oct 29 2023,Kortrijk,0-3,0-0,Genk
+Fri Nov 3 2023,St Truiden,1-1,1-0,Eupen
+Sat Nov 4 2023,RWD Molenbeek,1-1,1-1,Kortrijk
+Sat Nov 4 2023,Oud-Heverlee Leuven,0-2,0-0,Westerlo
+Sat Nov 4 2023,Antwerp,3-2,3-1,Genk
+Sun Nov 5 2023,Cercle Brugge,0-3,0-2,Anderlecht
+Sun Nov 5 2023,Standard,1-1,1-0,Mechelen
+Sun Nov 5 2023,St. Gilloise,2-1,1-0,Club Brugge
+Sun Nov 5 2023,Charleroi,1-3,0-1,Gent
+Fri Nov 10 2023,Westerlo,3-3,2-1,St Truiden
+Sat Nov 11 2023,Antwerp,6-0,4-0,Standard
+Sat Nov 11 2023,Eupen,1-3,1-1,RWD Molenbeek
+Sat Nov 11 2023,Mechelen,1-0,0-0,Charleroi
+Sun Nov 12 2023,Club Brugge,0-0,0-0,Cercle Brugge
+Sun Nov 12 2023,Genk,3-1,1-0,Oud-Heverlee Leuven
+Sun Nov 12 2023,Gent,1-1,1-1,Anderlecht
+Sun Nov 12 2023,St. Gilloise,3-0,2-0,Kortrijk
+Fri Nov 24 2023,St Truiden,1-1,1-0,Antwerp
+Sat Nov 25 2023,Cercle Brugge,2-0,0-0,Eupen
+Sat Nov 25 2023,Charleroi,3-2,0-1,Westerlo
+Sat Nov 25 2023,Standard,1-0,0-0,Genk
+Sun Nov 26 2023,Gent,1-1,1-0,St. Gilloise
+Sun Nov 26 2023,Oud-Heverlee Leuven,0-1,0-1,Club Brugge
+Sun Nov 26 2023,Anderlecht,2-1,0-1,RWD Molenbeek
+Sun Nov 26 2023,Kortrijk,0-3,0-2,Mechelen
+Fri Dec 1 2023,Westerlo,1-3,0-1,Anderlecht
+Sat Dec 2 2023,RWD Molenbeek,0-0,0-0,Charleroi
+Sat Dec 2 2023,Eupen,1-1,0-0,Kortrijk
+Sat Dec 2 2023,Antwerp,1-0,1-0,Oud-Heverlee Leuven
+Sun Dec 3 2023,Genk,2-2,1-1,Gent
+Sun Dec 3 2023,Mechelen,0-2,0-2,St Truiden
+Sun Dec 3 2023,Club Brugge,2-0,1-0,Standard
+Sun Dec 3 2023,St. Gilloise,2-1,2-1,Cercle Brugge
+Fri Dec 8 2023,Kortrijk,1-2,0-1,Westerlo
+Sat Dec 9 2023,Cercle Brugge,1-3,0-1,Antwerp
+Sat Dec 9 2023,St Truiden,1-1,1-1,Oud-Heverlee Leuven
+Sat Dec 9 2023,Gent,4-0,2-0,RWD Molenbeek
+Sun Dec 10 2023,Mechelen,0-0,0-0,Club Brugge
+Sun Dec 10 2023,Eupen,1-3,0-1,Genk
+Sun Dec 10 2023,Anderlecht,2-2,1-1,Standard
+Sun Dec 10 2023,Charleroi,1-3,0-1,St. Gilloise
+Fri Dec 15 2023,Westerlo,2-0,0-0,Eupen
+Sat Dec 16 2023,Oud-Heverlee Leuven,1-2,1-0,Cercle Brugge
+Sat Dec 16 2023,RWD Molenbeek,3-0,1-0,St Truiden
+Sat Dec 16 2023,Standard,0-0,0-0,Charleroi
+Sun Dec 17 2023,Club Brugge,2-0,2-0,Gent
+Sun Dec 17 2023,St. Gilloise,1-0,0-0,Mechelen
+Sun Dec 17 2023,Antwerp,1-1,0-1,Anderlecht
+Sun Dec 17 2023,Genk,4-0,1-0,Kortrijk
+Wed Dec 20 2023,Cercle Brugge,3-0,1-0,Kortrijk
+Wed Dec 20 2023,Mechelen,3-0,1-0,Standard
+Thu Dec 21 2023,Gent,4-0,1-0,Oud-Heverlee Leuven
+Fri Dec 22 2023,RWD Molenbeek,1-6,0-3,Club Brugge
+Sat Dec 23 2023,Eupen,1-2,0-2,St. Gilloise
+Sat Dec 23 2023,Antwerp,2-2,1-0,Westerlo
+Sat Dec 23 2023,St Truiden,1-0,0-0,Charleroi
+Sat Dec 23 2023,Anderlecht,2-1,0-0,Genk
+Tue Dec 26 2023,Genk,3-0,1-0,Antwerp
+Tue Dec 26 2023,Kortrijk,0-2,0-1,Gent
+Tue Dec 26 2023,Oud-Heverlee Leuven,3-0,2-0,Eupen
+Tue Dec 26 2023,Westerlo,3-0,1-0,RWD Molenbeek
+Tue Dec 26 2023,Club Brugge,1-1,0-1,St. Gilloise
+Wed Dec 27 2023,Standard,1-1,0-0,St Truiden
+Wed Dec 27 2023,Anderlecht,2-0,1-0,Cercle Brugge
+Wed Dec 27 2023,Charleroi,3-1,2-0,Mechelen
+Fri Jan 19 2024,Gent,1-2,0-1,Mechelen
+Sat Jan 20 2024,Genk,1-1,0-1,Cercle Brugge
+Sat Jan 20 2024,Standard,0-1,0-1,Kortrijk
+Sat Jan 20 2024,Club Brugge,3-0,1-0,Westerlo
+Sun Jan 21 2024,Antwerp,4-1,2-0,Charleroi
+Sun Jan 21 2024,St. Gilloise,2-1,1-1,St Truiden
+Sun Jan 21 2024,Oud-Heverlee Leuven,1-1,1-0,Anderlecht
+Wed Jan 24 2024,RWD Molenbeek,0-1,0-0,Eupen
+Fri Jan 26 2024,Cercle Brugge,1-1,0-0,Standard
+Sat Jan 27 2024,Kortrijk,0-0,0-0,Oud-Heverlee Leuven
+Sat Jan 27 2024,Charleroi,1-4,0-3,Club Brugge
+Sat Jan 27 2024,Gent,2-2,1-1,Westerlo
+Sun Jan 28 2024,St Truiden,1-1,0-1,Genk
+Sun Jan 28 2024,Eupen,1-0,1-0,Antwerp
+Sun Jan 28 2024,Anderlecht,2-2,1-2,St. Gilloise
+Sun Jan 28 2024,Mechelen,3-1,0-0,RWD Molenbeek
+Tue Jan 30 2024,Club Brugge,3-3,1-0,Kortrijk
+Tue Jan 30 2024,Westerlo,4-2,4-1,Cercle Brugge
+Wed Jan 31 2024,Charleroi,1-0,0-0,Eupen
+Wed Jan 31 2024,Oud-Heverlee Leuven,2-1,0-0,Genk
+Wed Jan 31 2024,St. Gilloise,3-2,2-0,RWD Molenbeek
+Wed Jan 31 2024,Standard,0-1,0-0,Antwerp
+Thu Feb 1 2024,Mechelen,2-2,0-1,Anderlecht
+Thu Feb 1 2024,St Truiden,4-1,0-1,Gent
+Sat Feb 3 2024,RWD Molenbeek,2-2,1-1,Standard
+Sat Feb 3 2024,Kortrijk,1-0,1-0,Charleroi
+Sat Feb 3 2024,Westerlo,0-3,0-2,Oud-Heverlee Leuven
+Sat Feb 3 2024,Genk,0-1,0-0,St. Gilloise
+Sun Feb 4 2024,Antwerp,2-1,0-0,Club Brugge
+Sun Feb 4 2024,Eupen,0-1,0-0,Mechelen
+Sun Feb 4 2024,Anderlecht,1-0,1-0,Gent
+Sun Feb 4 2024,Cercle Brugge,4-1,2-0,St Truiden
+Fri Feb 9 2024,St Truiden,1-0,1-0,Kortrijk
+Sat Feb 10 2024,Standard,1-0,1-0,Oud-Heverlee Leuven
+Sat Feb 10 2024,St. Gilloise,2-2,1-1,Westerlo
+Sat Feb 10 2024,Club Brugge,4-0,2-0,Eupen
+Sun Feb 11 2024,RWD Molenbeek,0-4,0-3,Antwerp
+Sun Feb 11 2024,Mechelen,1-1,1-1,Genk
+Sun Feb 11 2024,Charleroi,1-3,1-2,Anderlecht
+Sun Feb 11 2024,Gent,1-2,0-1,Cercle Brugge
+Fri Feb 16 2024,Westerlo,2-1,1-1,Standard
+Sat Feb 17 2024,Genk,3-1,2-1,RWD Molenbeek
+Sat Feb 17 2024,Oud-Heverlee Leuven,0-0,0-0,Charleroi
+Sat Feb 17 2024,Antwerp,0-1,0-0,Mechelen
+Sun Feb 18 2024,Cercle Brugge,1-1,0-0,Club Brugge
+Sun Feb 18 2024,Kortrijk,1-3,0-2,St. Gilloise
+Sun Feb 18 2024,Anderlecht,4-1,0-1,St Truiden
+Sun Feb 18 2024,Eupen,0-2,0-1,Gent
+Fri Feb 23 2024,Charleroi,0-1,0-0,Genk
+Sat Feb 24 2024,RWD Molenbeek,1-1,1-1,Oud-Heverlee Leuven
+Sat Feb 24 2024,St Truiden,1-0,1-0,Westerlo
+Sat Feb 24 2024,Mechelen,3-0,1-0,Kortrijk
+Sun Feb 25 2024,Club Brugge,1-2,1-0,Anderlecht
+Sun Feb 25 2024,Gent,2-2,2-1,Antwerp
+Sun Feb 25 2024,St. Gilloise,2-1,2-0,Standard
+Sun Feb 25 2024,Eupen,0-2,0-0,Cercle Brugge
+Fri Mar 1 2024,Westerlo,0-1,0-0,Charleroi
+Sat Mar 2 2024,Cercle Brugge,2-3,2-2,Mechelen
+Sat Mar 2 2024,Oud-Heverlee Leuven,0-2,0-1,St. Gilloise
+Sat Mar 2 2024,Standard,4-2,1-1,Gent
+Sun Mar 3 2024,Genk,0-3,0-1,Club Brugge
+Sun Mar 3 2024,Antwerp,3-0,0-0,St Truiden
+Sun Mar 3 2024,Anderlecht,1-0,1-0,Eupen
+Sun Mar 3 2024,Kortrijk,3-2,1-1,RWD Molenbeek
+Fri Mar 8 2024,Mechelen,3-1,2-0,Westerlo
+Sat Mar 9 2024,Kortrijk,0-1,0-1,Antwerp
+Sat Mar 9 2024,Charleroi,0-0,0-0,Cercle Brugge
+Sat Mar 9 2024,RWD Molenbeek,0-3,0-3,Anderlecht
+Sun Mar 10 2024,Genk,1-0,0-0,Standard
+Sun Mar 10 2024,Club Brugge,3-1,1-1,Oud-Heverlee Leuven
+Sun Mar 10 2024,St. Gilloise,1-1,0-0,Gent
+Sun Mar 10 2024,Eupen,1-0,1-0,St Truiden
+Sat Mar 16 2024,Standard,4-0,2-0,Eupen
+Sat Mar 16 2024,Anderlecht,0-1,0-0,Kortrijk
+Sun Mar 17 2024,St Truiden,2-1,0-1,Club Brugge
+Sun Mar 17 2024,Antwerp,1-1,0-0,St. Gilloise
+Sun Mar 17 2024,Cercle Brugge,4-0,2-0,RWD Molenbeek
+Sun Mar 17 2024,Gent,5-0,2-0,Charleroi
+Sun Mar 17 2024,Oud-Heverlee Leuven,1-0,0-0,Mechelen
+Sun Mar 17 2024,Westerlo,1-1,0-0,Genk
+Fri Mar 29 2024,Gent,5-1,1-1,Standard
+Sat Mar 30 2024,Oud-Heverlee Leuven,2-3,0-1,Mechelen
+Sat Mar 30 2024,Anderlecht,1-0,0-0,Antwerp
+Sun Mar 31 2024,St Truiden,2-0,1-0,Westerlo
+Mon Apr 1 2024,Cercle Brugge,1-1,1-0,Club Brugge
+Mon Apr 1 2024,Genk,1-0,1-0,St. Gilloise
+Fri Apr 5 2024,Mechelen,2-3,1-0,St Truiden
+Sat Apr 6 2024,Charleroi,0-0,0-0,RWD Molenbeek
+Sat Apr 6 2024,Standard,0-0,0-0,Oud-Heverlee Leuven
+Sat Apr 6 2024,Antwerp,0-1,0-1,Genk
+Sun Apr 7 2024,St. Gilloise,2-3,1-2,Cercle Brugge
+Sun Apr 7 2024,Eupen,1-1,0-0,Kortrijk
+Sun Apr 7 2024,Club Brugge,3-1,1-0,Anderlecht
+Sun Apr 7 2024,Westerlo,0-3,0-2,Gent
+Fri Apr 12 2024,St Truiden,3-3,1-1,Standard
+Sat Apr 13 2024,RWD Molenbeek,3-1,1-1,Eupen
+Sat Apr 13 2024,Mechelen,3-2,0-2,Westerlo
+Sat Apr 13 2024,Genk,1-1,1-0,Cercle Brugge
+Sun Apr 14 2024,Club Brugge,3-0,1-0,Antwerp
+Sun Apr 14 2024,Kortrijk,1-2,1-0,Charleroi
+Sun Apr 14 2024,Anderlecht,2-1,1-0,St. Gilloise
+Sun Apr 14 2024,Oud-Heverlee Leuven,2-1,2-1,Gent
+Sat Apr 20 2024,Oud-Heverlee Leuven,1-0,0-0,St Truiden
+Sat Apr 20 2024,Westerlo,3-3,1-1,Standard
+Sat Apr 20 2024,Gent,3-1,1-0,Mechelen
+Sat Apr 20 2024,Genk,2-1,1-0,Anderlecht
+Sun Apr 21 2024,Cercle Brugge,0-1,0-0,Antwerp
+Sun Apr 21 2024,Kortrijk,2-4,1-3,RWD Molenbeek
+Sun Apr 21 2024,St. Gilloise,1-2,0-0,Club Brugge
+Sun Apr 21 2024,Charleroi,1-0,1-0,Eupen
+Tue Apr 23 2024,St Truiden,0-2,0-1,Gent
+Tue Apr 23 2024,Standard,0-0,0-0,Mechelen
+Tue Apr 23 2024,Westerlo,1-1,1-0,Oud-Heverlee Leuven
+Wed Apr 24 2024,Anderlecht,3-0,2-0,Cercle Brugge
+Wed Apr 24 2024,Club Brugge,4-0,1-0,Genk
+Thu Apr 25 2024,Antwerp,0-3,0-0,St. Gilloise
+Fri Apr 26 2024,Eupen,1-2,0-2,Charleroi
+Sat Apr 27 2024,Mechelen,3-0,0-0,Oud-Heverlee Leuven
+Sat Apr 27 2024,Standard,1-1,0-1,St Truiden
+Sat Apr 27 2024,Gent,3-2,2-2,Westerlo
+Sun Apr 28 2024,Genk,0-3,0-1,Club Brugge
+Sun Apr 28 2024,Cercle Brugge,1-1,0-1,Anderlecht
+Sun Apr 28 2024,St. Gilloise,4-1,2-1,Antwerp
+Sun Apr 28 2024,RWD Molenbeek,0-1,0-1,Kortrijk
+Fri May 3 2024,Westerlo,2-2,1-1,St Truiden
+Sat May 4 2024,RWD Molenbeek,1-3,0-3,Charleroi
+Sat May 4 2024,Mechelen,2-4,2-3,Gent
+Sat May 4 2024,Cercle Brugge,4-1,3-1,Genk
+Sun May 5 2024,Antwerp,1-2,0-0,Club Brugge
+Sun May 5 2024,Oud-Heverlee Leuven,3-1,0-1,Standard
+Sun May 5 2024,St. Gilloise,0-0,0-0,Anderlecht
+Sun May 5 2024,Kortrijk,1-0,1-0,Eupen
+Sat May 11 2024,Charleroi,3-1,2-0,Kortrijk
+Sat May 11 2024,Eupen,2-0,0-0,RWD Molenbeek
+Sat May 11 2024,Anderlecht,2-1,1-0,Genk
+Sun May 12 2024,Gent,0-1,0-1,Oud-Heverlee Leuven
+Sun May 12 2024,St Truiden,2-1,2-1,Mechelen
+Sun May 12 2024,Antwerp,1-2,0-2,Cercle Brugge
+Mon May 13 2024,Club Brugge,2-2,0-0,St. Gilloise
+Fri May 17 2024,St Truiden,1-1,0-0,Oud-Heverlee Leuven
+Sat May 18 2024,Westerlo,0-2,0-1,Mechelen
+Sat May 18 2024,Standard,1-4,1-1,Gent
+Sun May 19 2024,Cercle Brugge,1-2,1-1,St. Gilloise
+Sun May 19 2024,Anderlecht,0-1,0-1,Club Brugge
+Mon May 20 2024,Genk,1-0,1-0,Antwerp
+Sat May 25 2024,Gent,2-0,0-0,St Truiden
+Sat May 25 2024,Mechelen,3-2,2-0,Standard
+Sat May 25 2024,Oud-Heverlee Leuven,1-2,0-2,Westerlo
+Sun May 26 2024,Antwerp,3-1,0-1,Anderlecht
+Sun May 26 2024,Club Brugge,0-0,0-0,Cercle Brugge
+Sun May 26 2024,St. Gilloise,2-0,1-0,Genk
+Sun Jun 2 2024,Genk,0-1,0-0,Gent

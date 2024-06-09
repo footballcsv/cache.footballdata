@@ -1,0 +1,463 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 11 2023,Amorebieta,1-1,0-1,Levante
+Fri Aug 11 2023,Valladolid,2-0,1-0,Sp Gijon
+Sat Aug 12 2023,Santander,4-0,3-0,Eibar
+Sat Aug 12 2023,Zaragoza,2-0,0-0,Villarreal B
+Sat Aug 12 2023,Elche,0-1,0-0,Ferrol
+Sun Aug 13 2023,Burgos,1-1,1-1,Huesca
+Sun Aug 13 2023,Albacete,1-1,0-1,Espanol
+Sun Aug 13 2023,Cartagena,0-1,0-1,Eldense
+Sun Aug 13 2023,Leganes,0-1,0-1,Andorra
+Mon Aug 14 2023,Mirandes,4-0,2-0,Alcorcon
+Mon Aug 14 2023,Tenerife,1-0,1-0,Oviedo
+Fri Aug 18 2023,Andorra,3-2,0-0,Cartagena
+Fri Aug 18 2023,Zaragoza,1-0,1-0,Valladolid
+Sat Aug 19 2023,Eibar,2-1,1-0,Elche
+Sat Aug 19 2023,Espanol,2-0,1-0,Santander
+Sat Aug 19 2023,Levante,3-2,2-1,Burgos
+Sat Aug 19 2023,Alcorcon,0-2,0-0,Leganes
+Sun Aug 20 2023,Oviedo,1-1,0-1,Ferrol
+Sun Aug 20 2023,Sp Gijon,3-0,3-0,Mirandes
+Sun Aug 20 2023,Albacete,2-2,1-2,Amorebieta
+Mon Aug 21 2023,Villarreal B,3-1,2-1,Eldense
+Mon Aug 21 2023,Huesca,0-2,0-1,Tenerife
+Fri Aug 25 2023,Cartagena,0-1,0-1,Levante
+Sat Aug 26 2023,Burgos,1-0,1-0,Oviedo
+Sat Aug 26 2023,Tenerife,0-1,0-0,Zaragoza
+Sat Aug 26 2023,Elche,1-0,1-0,Villarreal B
+Sat Aug 26 2023,Valladolid,0-2,0-1,Alcorcon
+Sun Aug 27 2023,Ferrol,2-0,0-0,Sp Gijon
+Sun Aug 27 2023,Amorebieta,3-0,1-0,Andorra
+Sun Aug 27 2023,Mirandes,0-1,0-0,Espanol
+Sun Aug 27 2023,Leganes,2-0,1-0,Albacete
+Mon Aug 28 2023,Eldense,2-1,2-0,Eibar
+Mon Aug 28 2023,Santander,0-0,0-0,Huesca
+Fri Sep 1 2023,Alcorcon,1-1,0-0,Ferrol
+Fri Sep 1 2023,Albacete,2-0,1-0,Valladolid
+Sat Sep 2 2023,Sp Gijon,2-1,1-0,Burgos
+Sat Sep 2 2023,Levante,1-1,0-0,Oviedo
+Sat Sep 2 2023,Elche,1-1,1-0,Santander
+Sat Sep 2 2023,Villarreal B,1-2,1-0,Cartagena
+Sun Sep 3 2023,Andorra,0-1,0-0,Tenerife
+Sun Sep 3 2023,Eibar,0-1,0-1,Leganes
+Sun Sep 3 2023,Espanol,3-2,0-2,Amorebieta
+Sun Sep 3 2023,Zaragoza,2-0,1-0,Eldense
+Sun Sep 3 2023,Huesca,1-1,0-0,Mirandes
+Fri Sep 8 2023,Levante,1-4,1-2,Espanol
+Sat Sep 9 2023,Burgos,1-0,0-0,Eibar
+Sat Sep 9 2023,Oviedo,0-0,0-0,Sp Gijon
+Sat Sep 9 2023,Leganes,2-0,1-0,Huesca
+Sat Sep 9 2023,Tenerife,2-0,2-0,Albacete
+Sun Sep 10 2023,Ferrol,2-2,0-1,Villarreal B
+Sun Sep 10 2023,Santander,1-0,1-0,Amorebieta
+Sun Sep 10 2023,Cartagena,1-3,1-2,Zaragoza
+Sun Sep 10 2023,Mirandes,4-3,2-0,Andorra
+Sun Sep 10 2023,Valladolid,1-1,1-0,Elche
+Mon Sep 11 2023,Eldense,2-2,0-0,Alcorcon
+Fri Sep 15 2023,Zaragoza,1-1,1-1,Santander
+Sat Sep 16 2023,Huesca,2-2,0-2,Villarreal B
+Sat Sep 16 2023,Alcorcon,0-2,0-1,Levante
+Sat Sep 16 2023,Valladolid,1-0,0-0,Cartagena
+Sat Sep 16 2023,Albacete,2-1,1-0,Burgos
+Sun Sep 17 2023,Amorebieta,2-0,2-0,Mirandes
+Sun Sep 17 2023,Eibar,2-0,1-0,Ferrol
+Sun Sep 17 2023,Elche,1-0,1-0,Leganes
+Sun Sep 17 2023,Espanol,3-3,0-2,Eldense
+Sun Sep 17 2023,Sp Gijon,2-1,1-1,Tenerife
+Mon Sep 18 2023,Andorra,1-0,0-0,Oviedo
+Fri Sep 22 2023,Cartagena,1-2,0-1,Eibar
+Sat Sep 23 2023,Andorra,0-0,0-0,Sp Gijon
+Sat Sep 23 2023,Levante,2-0,1-0,Eldense
+Sat Sep 23 2023,Burgos,4-0,2-0,Elche
+Sat Sep 23 2023,Alcorcon,0-2,0-2,Huesca
+Sat Sep 23 2023,Santander,2-1,2-0,Albacete
+Sun Sep 24 2023,Villarreal B,3-1,1-0,Amorebieta
+Sun Sep 24 2023,Oviedo,0-1,0-0,Valladolid
+Sun Sep 24 2023,Mirandes,1-3,1-1,Leganes
+Mon Sep 25 2023,Ferrol,1-0,0-0,Zaragoza
+Mon Sep 25 2023,Tenerife,1-0,1-0,Espanol
+Fri Sep 29 2023,Leganes,2-1,1-0,Santander
+Sat Sep 30 2023,Eibar,3-0,0-0,Tenerife
+Sat Sep 30 2023,Elche,0-0,0-0,Levante
+Sat Sep 30 2023,Albacete,3-1,2-0,Andorra
+Sat Sep 30 2023,Villarreal B,2-2,1-2,Alcorcon
+Sun Oct 1 2023,Eldense,1-3,0-3,Oviedo
+Sun Oct 1 2023,Amorebieta,0-0,0-0,Cartagena
+Sun Oct 1 2023,Valladolid,3-0,2-0,Burgos
+Sun Oct 1 2023,Zaragoza,0-1,0-0,Mirandes
+Sun Oct 1 2023,Huesca,0-1,0-0,Sp Gijon
+Mon Oct 2 2023,Espanol,3-0,1-0,Ferrol
+Tue Oct 3 2023,Alcorcon,1-2,0-1,Albacete
+Tue Oct 3 2023,Levante,1-1,0-0,Villarreal B
+Tue Oct 3 2023,Tenerife,2-0,0-0,Santander
+Wed Oct 4 2023,Eldense,0-1,0-1,Valladolid
+Wed Oct 4 2023,Oviedo,1-0,0-0,Huesca
+Wed Oct 4 2023,Burgos,1-0,1-0,Leganes
+Wed Oct 4 2023,Sp Gijon,2-0,2-0,Elche
+Thu Oct 5 2023,Andorra,0-1,0-1,Zaragoza
+Thu Oct 5 2023,Mirandes,1-3,1-1,Eibar
+Thu Oct 5 2023,Cartagena,0-2,0-1,Espanol
+Thu Oct 5 2023,Ferrol,1-0,1-0,Amorebieta
+Fri Oct 6 2023,Albacete,0-2,0-1,Levante
+Sat Oct 7 2023,Huesca,0-1,0-0,Eldense
+Sat Oct 7 2023,Santander,3-2,1-1,Sp Gijon
+Sat Oct 7 2023,Leganes,0-0,0-0,Oviedo
+Sun Oct 8 2023,Amorebieta,1-2,1-1,Eibar
+Sun Oct 8 2023,Valladolid,3-2,0-0,Mirandes
+Sun Oct 8 2023,Ferrol,1-1,0-1,Cartagena
+Sun Oct 8 2023,Tenerife,2-1,0-0,Burgos
+Sun Oct 8 2023,Zaragoza,0-2,0-1,Alcorcon
+Mon Oct 9 2023,Elche,2-1,1-0,Andorra
+Mon Oct 9 2023,Villarreal B,3-1,2-1,Espanol
+Fri Oct 13 2023,Oviedo,3-0,0-0,Albacete
+Sat Oct 14 2023,Mirandes,1-1,1-1,Tenerife
+Sat Oct 14 2023,Cartagena,2-3,2-2,Santander
+Sat Oct 14 2023,Sp Gijon,2-2,0-1,Zaragoza
+Sat Oct 14 2023,Espanol,2-0,2-0,Valladolid
+Sun Oct 15 2023,Burgos,3-2,0-0,Villarreal B
+Sun Oct 15 2023,Andorra,2-0,0-0,Alcorcon
+Sun Oct 15 2023,Eldense,1-1,1-0,Elche
+Sun Oct 15 2023,Eibar,1-1,0-1,Huesca
+Sun Oct 15 2023,Leganes,6-0,2-0,Amorebieta
+Mon Oct 16 2023,Levante,1-0,0-0,Ferrol
+Fri Oct 20 2023,Espanol,0-1,0-0,Leganes
+Sat Oct 21 2023,Amorebieta,0-0,0-0,Oviedo
+Sat Oct 21 2023,Villarreal B,0-3,0-1,Mirandes
+Sat Oct 21 2023,Tenerife,0-0,0-0,Levante
+Sat Oct 21 2023,Zaragoza,2-3,2-0,Eibar
+Sun Oct 22 2023,Ferrol,1-1,0-0,Eldense
+Sun Oct 22 2023,Huesca,0-1,0-1,Elche
+Sun Oct 22 2023,Albacete,1-3,0-1,Sp Gijon
+Sun Oct 22 2023,Santander,3-0,1-0,Burgos
+Sun Oct 22 2023,Valladolid,2-0,2-0,Andorra
+Mon Oct 23 2023,Alcorcon,1-1,1-0,Cartagena
+Fri Oct 27 2023,Eibar,5-1,2-0,Valladolid
+Sat Oct 28 2023,Eldense,2-0,1-0,Amorebieta
+Sat Oct 28 2023,Andorra,2-0,0-0,Levante
+Sat Oct 28 2023,Sp Gijon,2-0,1-0,Espanol
+Sat Oct 28 2023,Elche,2-1,0-0,Tenerife
+Sun Oct 29 2023,Mirandes,2-1,0-0,Cartagena
+Sun Oct 29 2023,Huesca,0-0,0-0,Albacete
+Sun Oct 29 2023,Leganes,1-0,0-0,Villarreal B
+Sun Oct 29 2023,Oviedo,2-0,1-0,Alcorcon
+Sun Oct 29 2023,Santander,1-3,1-2,Ferrol
+Mon Oct 30 2023,Burgos,1-1,0-1,Zaragoza
+Fri Nov 3 2023,Espanol,2-2,1-1,Eibar
+Sat Nov 4 2023,Villarreal B,0-3,0-1,Sp Gijon
+Sat Nov 4 2023,Levante,2-2,1-1,Mirandes
+Sat Nov 4 2023,Valladolid,2-0,0-0,Tenerife
+Sat Nov 4 2023,Albacete,1-1,0-0,Elche
+Sun Nov 5 2023,Ferrol,1-0,1-0,Andorra
+Sun Nov 5 2023,Amorebieta,0-1,0-0,Huesca
+Sun Nov 5 2023,Alcorcon,3-1,1-0,Santander
+Sun Nov 5 2023,Cartagena,0-3,0-0,Leganes
+Sun Nov 5 2023,Eldense,2-0,1-0,Burgos
+Mon Nov 6 2023,Zaragoza,0-0,0-0,Oviedo
+Fri Nov 10 2023,Leganes,2-1,0-1,Levante
+Sat Nov 11 2023,Santander,2-3,0-1,Valladolid
+Sat Nov 11 2023,Elche,2-0,0-0,Zaragoza
+Sat Nov 11 2023,Mirandes,1-2,0-2,Ferrol
+Sat Nov 11 2023,Sp Gijon,1-1,0-0,Amorebieta
+Sun Nov 12 2023,Burgos,4-2,0-2,Alcorcon
+Sun Nov 12 2023,Andorra,1-3,1-1,Eldense
+Sun Nov 12 2023,Huesca,1-1,0-0,Espanol
+Sun Nov 12 2023,Tenerife,0-1,0-1,Villarreal B
+Sun Nov 12 2023,Eibar,1-1,1-0,Albacete
+Mon Nov 13 2023,Oviedo,1-1,0-1,Cartagena
+Fri Nov 17 2023,Valladolid,1-1,1-0,Leganes
+Sat Nov 18 2023,Alcorcon,0-0,0-0,Sp Gijon
+Sat Nov 18 2023,Amorebieta,2-0,1-0,Tenerife
+Sat Nov 18 2023,Zaragoza,0-2,0-1,Huesca
+Sat Nov 18 2023,Espanol,2-0,2-0,Elche
+Sun Nov 19 2023,Ferrol,1-1,0-0,Burgos
+Sun Nov 19 2023,Eldense,2-2,1-1,Mirandes
+Sun Nov 19 2023,Oviedo,2-1,0-1,Eibar
+Sun Nov 19 2023,Cartagena,1-1,1-0,Albacete
+Sun Nov 19 2023,Villarreal B,0-0,0-0,Andorra
+Mon Nov 20 2023,Levante,2-4,2-1,Santander
+Fri Nov 24 2023,Huesca,0-1,0-0,Valladolid
+Sat Nov 25 2023,Burgos,0-0,0-0,Andorra
+Sat Nov 25 2023,Santander,2-0,1-0,Villarreal B
+Sat Nov 25 2023,Albacete,1-0,0-0,Zaragoza
+Sat Nov 25 2023,Eibar,3-1,1-1,Levante
+Sun Nov 26 2023,Leganes,2-2,2-2,Ferrol
+Sun Nov 26 2023,Elche,2-0,0-0,Amorebieta
+Sun Nov 26 2023,Mirandes,2-1,1-0,Oviedo
+Sun Nov 26 2023,Tenerife,1-1,0-1,Cartagena
+Sun Nov 26 2023,Espanol,2-0,1-0,Alcorcon
+Mon Nov 27 2023,Sp Gijon,2-0,1-0,Eldense
+Fri Dec 1 2023,Oviedo,2-0,1-0,Espanol
+Sat Dec 2 2023,Cartagena,1-0,0-0,Sp Gijon
+Sat Dec 2 2023,Eldense,0-3,0-1,Tenerife
+Sat Dec 2 2023,Zaragoza,1-0,1-0,Leganes
+Sat Dec 2 2023,Levante,2-1,2-1,Valladolid
+Sun Dec 3 2023,Andorra,1-0,0-0,Huesca
+Sun Dec 3 2023,Alcorcon,0-2,0-1,Elche
+Sun Dec 3 2023,Ferrol,5-4,1-1,Albacete
+Sun Dec 3 2023,Mirandes,0-0,0-0,Santander
+Sun Dec 3 2023,Amorebieta,0-1,0-1,Burgos
+Mon Dec 4 2023,Villarreal B,1-0,0-0,Eibar
+Fri Dec 8 2023,Albacete,2-0,0-0,Villarreal B
+Fri Dec 8 2023,Espanol,1-1,0-0,Zaragoza
+Sat Dec 9 2023,Valladolid,2-1,0-1,Amorebieta
+Sat Dec 9 2023,Sp Gijon,0-0,0-0,Levante
+Sat Dec 9 2023,Burgos,0-0,0-0,Mirandes
+Sun Dec 10 2023,Elche,1-2,1-0,Cartagena
+Sun Dec 10 2023,Santander,2-2,1-2,Oviedo
+Sun Dec 10 2023,Eibar,2-2,2-1,Andorra
+Sun Dec 10 2023,Leganes,1-1,1-1,Eldense
+Sun Dec 10 2023,Huesca,1-0,1-0,Ferrol
+Mon Dec 11 2023,Tenerife,1-0,0-0,Alcorcon
+Fri Dec 15 2023,Oviedo,3-2,1-2,Elche
+Sat Dec 16 2023,Eldense,3-3,0-2,Santander
+Sat Dec 16 2023,Andorra,1-1,0-0,Espanol
+Sat Dec 16 2023,Cartagena,0-3,0-1,Burgos
+Sat Dec 16 2023,Sp Gijon,1-1,0-1,Leganes
+Sat Dec 16 2023,Mirandes,2-0,1-0,Albacete
+Sun Dec 17 2023,Alcorcon,1-0,1-0,Eibar
+Sun Dec 17 2023,Levante,2-1,2-0,Huesca
+Sun Dec 17 2023,Amorebieta,1-1,1-1,Zaragoza
+Sun Dec 17 2023,Ferrol,3-1,1-0,Tenerife
+Mon Dec 18 2023,Villarreal B,1-0,1-0,Valladolid
+Tue Dec 19 2023,Albacete,1-1,0-0,Eldense
+Tue Dec 19 2023,Santander,2-0,1-0,Andorra
+Tue Dec 19 2023,Elche,0-0,0-0,Mirandes
+Tue Dec 19 2023,Espanol,3-3,1-2,Burgos
+Wed Dec 20 2023,Zaragoza,2-2,2-0,Levante
+Wed Dec 20 2023,Eibar,1-1,0-1,Sp Gijon
+Wed Dec 20 2023,Leganes,1-1,0-0,Tenerife
+Thu Dec 21 2023,Huesca,3-0,3-0,Cartagena
+Thu Dec 21 2023,Villarreal B,1-1,1-0,Oviedo
+Thu Dec 21 2023,Amorebieta,1-2,1-1,Alcorcon
+Thu Dec 21 2023,Valladolid,0-1,0-1,Ferrol
+Fri Jan 12 2024,Eibar,2-0,1-0,Santander
+Sat Jan 13 2024,Alcorcon,0-0,0-0,Mirandes
+Sat Jan 13 2024,Levante,3-2,2-0,Albacete
+Sat Jan 13 2024,Oviedo,1-1,1-1,Amorebieta
+Sat Jan 13 2024,Tenerife,0-1,0-1,Elche
+Sat Jan 13 2024,Burgos,1-0,1-0,Valladolid
+Sat Jan 13 2024,Ferrol,0-0,0-0,Espanol
+Sun Jan 14 2024,Andorra,2-3,0-0,Leganes
+Sun Jan 14 2024,Cartagena,4-1,0-1,Villarreal B
+Sun Jan 14 2024,Sp Gijon,0-0,0-0,Huesca
+Mon Jan 15 2024,Eldense,1-1,1-1,Zaragoza
+Sat Jan 20 2024,Albacete,0-1,0-0,Alcorcon
+Sat Jan 20 2024,Amorebieta,0-2,0-1,Eldense
+Sat Jan 20 2024,Zaragoza,2-0,1-0,Andorra
+Sat Jan 20 2024,Espanol,2-1,2-1,Villarreal B
+Sat Jan 20 2024,Tenerife,1-2,1-1,Sp Gijon
+Sat Jan 20 2024,Ferrol,1-3,0-0,Oviedo
+Sun Jan 21 2024,Santander,0-2,0-1,Cartagena
+Sun Jan 21 2024,Mirandes,1-1,0-1,Levante
+Sun Jan 21 2024,Huesca,2-3,0-2,Eibar
+Sun Jan 21 2024,Elche,0-0,0-0,Valladolid
+Mon Jan 22 2024,Leganes,2-0,2-0,Burgos
+Fri Jan 26 2024,Eibar,1-0,0-0,Mirandes
+Sat Jan 27 2024,Alcorcon,0-0,0-0,Zaragoza
+Sat Jan 27 2024,Cartagena,1-0,0-0,Amorebieta
+Sat Jan 27 2024,Oviedo,1-0,0-0,Leganes
+Sat Jan 27 2024,Levante,0-0,0-0,Tenerife
+Sun Jan 28 2024,Eldense,3-2,2-2,Espanol
+Sun Jan 28 2024,Andorra,0-1,0-0,Elche
+Sun Jan 28 2024,Villarreal B,1-1,0-1,Huesca
+Sun Jan 28 2024,Burgos,2-1,1-1,Albacete
+Sun Jan 28 2024,Sp Gijon,1-2,0-0,Ferrol
+Mon Jan 29 2024,Valladolid,3-1,1-0,Santander
+Fri Feb 2 2024,Elche,2-0,0-0,Burgos
+Sat Feb 3 2024,Albacete,1-1,1-0,Cartagena
+Sat Feb 3 2024,Huesca,1-0,0-0,Alcorcon
+Sat Feb 3 2024,Mirandes,3-0,1-0,Villarreal B
+Sat Feb 3 2024,Leganes,0-0,0-0,Valladolid
+Sat Feb 3 2024,Tenerife,0-0,0-0,Andorra
+Sun Feb 4 2024,Ferrol,1-1,0-0,Eibar
+Sun Feb 4 2024,Amorebieta,0-1,0-1,Santander
+Sun Feb 4 2024,Oviedo,1-1,0-1,Eldense
+Sun Feb 4 2024,Espanol,2-1,1-0,Levante
+Mon Feb 5 2024,Zaragoza,3-0,1-0,Sp Gijon
+Fri Feb 9 2024,Levante,0-0,0-0,Leganes
+Sat Feb 10 2024,Amorebieta,1-0,0-0,Elche
+Sat Feb 10 2024,Eldense,0-0,0-0,Huesca
+Sat Feb 10 2024,Sp Gijon,1-0,1-0,Oviedo
+Sat Feb 10 2024,Santander,2-0,2-0,Espanol
+Sun Feb 11 2024,Villarreal B,1-0,0-0,Tenerife
+Sun Feb 11 2024,Alcorcon,1-0,1-0,Andorra
+Sun Feb 11 2024,Cartagena,1-0,1-0,Mirandes
+Sun Feb 11 2024,Eibar,1-0,1-0,Zaragoza
+Sun Feb 11 2024,Burgos,2-0,2-0,Ferrol
+Mon Feb 12 2024,Valladolid,0-0,0-0,Albacete
+Fri Feb 16 2024,Zaragoza,1-2,0-1,Cartagena
+Sat Feb 17 2024,Andorra,1-1,0-0,Villarreal B
+Sat Feb 17 2024,Oviedo,5-0,3-0,Burgos
+Sat Feb 17 2024,Sp Gijon,1-1,0-1,Valladolid
+Sat Feb 17 2024,Espanol,3-0,1-0,Mirandes
+Sun Feb 18 2024,Albacete,2-0,0-0,Santander
+Sun Feb 18 2024,Ferrol,0-0,0-0,Levante
+Sun Feb 18 2024,Leganes,3-0,1-0,Alcorcon
+Sun Feb 18 2024,Huesca,0-0,0-0,Amorebieta
+Sun Feb 18 2024,Elche,0-0,0-0,Eibar
+Mon Feb 19 2024,Tenerife,1-0,1-0,Eldense
+Fri Feb 23 2024,Valladolid,3-0,1-0,Oviedo
+Sat Feb 24 2024,Santander,2-1,1-1,Leganes
+Sat Feb 24 2024,Eibar,2-3,1-0,Espanol
+Sat Feb 24 2024,Villarreal B,0-0,0-0,Zaragoza
+Sun Feb 25 2024,Eldense,2-0,2-0,Ferrol
+Sun Feb 25 2024,Alcorcon,1-1,0-0,Tenerife
+Sun Feb 25 2024,Burgos,1-0,1-0,Sp Gijon
+Sun Feb 25 2024,Cartagena,0-1,0-0,Elche
+Sun Feb 25 2024,Amorebieta,1-1,0-1,Albacete
+Mon Feb 26 2024,Mirandes,0-3,0-0,Huesca
+Fri Mar 1 2024,Sp Gijon,2-1,1-1,Albacete
+Sat Mar 2 2024,Eldense,2-0,1-0,Villarreal B
+Sat Mar 2 2024,Espanol,0-0,0-0,Huesca
+Sat Mar 2 2024,Ferrol,2-2,1-1,Santander
+Sat Mar 2 2024,Oviedo,3-2,0-1,Levante
+Sat Mar 2 2024,Burgos,3-0,1-0,Cartagena
+Sun Mar 3 2024,Andorra,2-1,0-1,Valladolid
+Sun Mar 3 2024,Tenerife,2-1,2-0,Mirandes
+Sun Mar 3 2024,Zaragoza,0-1,0-0,Amorebieta
+Sun Mar 3 2024,Leganes,0-2,0-2,Eibar
+Mon Mar 4 2024,Elche,3-0,3-0,Alcorcon
+Fri Mar 8 2024,Huesca,2-0,1-0,Andorra
+Sat Mar 9 2024,Albacete,1-2,0-0,Oviedo
+Sat Mar 9 2024,Mirandes,3-1,1-0,Eldense
+Sat Mar 9 2024,Valladolid,2-0,1-0,Zaragoza
+Sat Mar 9 2024,Cartagena,2-1,1-1,Ferrol
+Sun Mar 10 2024,Santander,4-2,0-1,Tenerife
+Sun Mar 10 2024,Levante,1-0,0-0,Sp Gijon
+Sun Mar 10 2024,Villarreal B,0-1,0-1,Elche
+Sun Mar 10 2024,Eibar,0-1,0-0,Burgos
+Sun Mar 10 2024,Alcorcon,1-1,0-0,Espanol
+Mon Mar 11 2024,Amorebieta,0-1,0-0,Leganes
+Wed Mar 13 2024,Levante,0-0,0-0,Andorra
+Fri Mar 15 2024,Eldense,0-0,0-0,Cartagena
+Sat Mar 16 2024,Burgos,1-1,1-0,Levante
+Sat Mar 16 2024,Eibar,2-0,1-0,Villarreal B
+Sat Mar 16 2024,Oviedo,1-1,0-1,Santander
+Sat Mar 16 2024,Tenerife,0-0,0-0,Huesca
+Sat Mar 16 2024,Sp Gijon,1-0,1-0,Alcorcon
+Sun Mar 17 2024,Leganes,4-0,3-0,Mirandes
+Sun Mar 17 2024,Ferrol,2-0,1-0,Valladolid
+Sun Mar 17 2024,Elche,3-2,1-1,Albacete
+Sun Mar 17 2024,Zaragoza,0-1,0-1,Espanol
+Mon Mar 18 2024,Andorra,0-1,0-0,Amorebieta
+Sat Mar 23 2024,Alcorcon,1-0,0-0,Oviedo
+Sat Mar 23 2024,Cartagena,1-0,1-0,Andorra
+Sat Mar 23 2024,Villarreal B,1-2,1-0,Leganes
+Sat Mar 23 2024,Espanol,1-1,0-0,Tenerife
+Sun Mar 24 2024,Amorebieta,3-1,2-1,Sp Gijon
+Sun Mar 24 2024,Huesca,3-0,1-0,Burgos
+Sun Mar 24 2024,Valladolid,3-1,0-1,Eibar
+Sun Mar 24 2024,Levante,3-2,0-1,Elche
+Sun Mar 24 2024,Mirandes,0-0,0-0,Zaragoza
+Sun Mar 24 2024,Santander,2-1,1-0,Eldense
+Mon Mar 25 2024,Albacete,1-1,1-0,Ferrol
+Fri Mar 29 2024,Burgos,0-0,0-0,Espanol
+Sat Mar 30 2024,Valladolid,0-0,0-0,Levante
+Sat Mar 30 2024,Andorra,1-0,0-0,Mirandes
+Sat Mar 30 2024,Eibar,5-1,1-0,Eldense
+Sat Mar 30 2024,Leganes,0-0,0-0,Cartagena
+Sat Mar 30 2024,Albacete,1-1,0-0,Huesca
+Sat Mar 30 2024,Sp Gijon,2-3,1-0,Santander
+Sun Mar 31 2024,Alcorcon,1-1,1-1,Amorebieta
+Sun Mar 31 2024,Ferrol,1-0,0-0,Elche
+Sun Mar 31 2024,Zaragoza,3-1,2-1,Tenerife
+Sun Mar 31 2024,Oviedo,2-1,2-1,Villarreal B
+Fri Apr 5 2024,Amorebieta,3-1,2-0,Ferrol
+Fri Apr 5 2024,Elche,0-2,0-1,Oviedo
+Sat Apr 6 2024,Eldense,0-2,0-1,Andorra
+Sat Apr 6 2024,Levante,2-1,1-1,Zaragoza
+Sun Apr 7 2024,Huesca,0-0,0-0,Leganes
+Sun Apr 7 2024,Mirandes,1-3,1-1,Sp Gijon
+Sun Apr 7 2024,Villarreal B,2-1,2-0,Burgos
+Sun Apr 7 2024,Espanol,2-1,1-1,Albacete
+Sun Apr 7 2024,Tenerife,2-1,1-1,Eibar
+Sun Apr 7 2024,Cartagena,0-2,0-2,Valladolid
+Mon Apr 8 2024,Santander,0-1,0-0,Alcorcon
+Fri Apr 12 2024,Leganes,0-0,0-0,Espanol
+Sat Apr 13 2024,Sp Gijon,1-0,1-0,Cartagena
+Sat Apr 13 2024,Valladolid,1-0,0-0,Eldense
+Sat Apr 13 2024,Levante,1-2,0-0,Amorebieta
+Sun Apr 14 2024,Oviedo,1-1,1-0,Mirandes
+Sun Apr 14 2024,Albacete,1-0,0-0,Tenerife
+Sun Apr 14 2024,Andorra,0-2,0-0,Eibar
+Sun Apr 14 2024,Burgos,2-1,1-1,Santander
+Sun Apr 14 2024,Zaragoza,1-1,0-0,Elche
+Sun Apr 14 2024,Ferrol,2-1,0-1,Huesca
+Mon Apr 15 2024,Alcorcon,1-0,0-0,Villarreal B
+Fri Apr 19 2024,Tenerife,0-0,0-0,Leganes
+Sat Apr 20 2024,Amorebieta,0-3,0-0,Valladolid
+Sat Apr 20 2024,Santander,0-0,0-0,Levante
+Sat Apr 20 2024,Villarreal B,1-0,0-0,Ferrol
+Sat Apr 20 2024,Elche,2-1,2-0,Sp Gijon
+Sat Apr 20 2024,Huesca,1-2,1-2,Zaragoza
+Sun Apr 21 2024,Espanol,1-1,0-1,Andorra
+Sun Apr 21 2024,Eibar,2-0,1-0,Alcorcon
+Sun Apr 21 2024,Eldense,0-1,0-0,Albacete
+Sun Apr 21 2024,Mirandes,2-1,0-0,Burgos
+Mon Apr 22 2024,Cartagena,2-0,0-0,Oviedo
+Fri Apr 26 2024,Andorra,1-1,1-0,Santander
+Sat Apr 27 2024,Burgos,2-2,1-0,Amorebieta
+Sat Apr 27 2024,Leganes,1-1,0-0,Zaragoza
+Sat Apr 27 2024,Elche,2-2,1-1,Espanol
+Sun Apr 28 2024,Sp Gijon,0-3,0-2,Villarreal B
+Sun Apr 28 2024,Alcorcon,0-0,0-0,Eldense
+Sun Apr 28 2024,Oviedo,0-1,0-1,Tenerife
+Sun Apr 28 2024,Levante,0-1,0-0,Cartagena
+Sun Apr 28 2024,Valladolid,1-0,1-0,Huesca
+Sun Apr 28 2024,Albacete,2-1,1-1,Eibar
+Mon Apr 29 2024,Ferrol,0-2,0-1,Mirandes
+Fri May 3 2024,Villarreal B,0-3,0-2,Levante
+Sat May 4 2024,Mirandes,0-1,0-1,Valladolid
+Sat May 4 2024,Huesca,0-2,0-0,Oviedo
+Sat May 4 2024,Santander,3-1,1-0,Elche
+Sat May 4 2024,Cartagena,1-0,1-0,Alcorcon
+Sun May 5 2024,Eibar,5-0,2-0,Amorebieta
+Sun May 5 2024,Andorra,0-1,0-0,Albacete
+Sun May 5 2024,Espanol,0-0,0-0,Sp Gijon
+Sun May 5 2024,Eldense,1-2,1-0,Leganes
+Sun May 5 2024,Zaragoza,1-3,1-1,Burgos
+Sun May 5 2024,Tenerife,2-0,0-0,Ferrol
+Fri May 10 2024,Burgos,1-2,1-2,Eldense
+Sat May 11 2024,Santander,1-0,1-0,Mirandes
+Sat May 11 2024,Ferrol,2-1,0-0,Alcorcon
+Sat May 11 2024,Sp Gijon,5-2,2-1,Andorra
+Sat May 11 2024,Valladolid,0-0,0-0,Espanol
+Sat May 11 2024,Levante,2-2,1-1,Eibar
+Sun May 12 2024,Amorebieta,2-0,0-0,Villarreal B
+Sun May 12 2024,Oviedo,1-0,0-0,Zaragoza
+Sun May 12 2024,Albacete,1-0,1-0,Leganes
+Sun May 12 2024,Cartagena,2-0,2-0,Tenerife
+Sun May 12 2024,Elche,0-3,0-2,Huesca
+Fri May 17 2024,Mirandes,1-1,0-0,Elche
+Sat May 18 2024,Andorra,1-0,0-0,Burgos
+Sat May 18 2024,Huesca,0-3,0-1,Santander
+Sat May 18 2024,Leganes,2-1,1-0,Sp Gijon
+Sat May 18 2024,Eldense,0-0,0-0,Levante
+Sat May 18 2024,Tenerife,0-1,0-0,Amorebieta
+Sun May 19 2024,Eibar,1-0,1-0,Cartagena
+Sun May 19 2024,Alcorcon,1-1,1-0,Valladolid
+Sun May 19 2024,Zaragoza,2-2,1-0,Ferrol
+Mon May 20 2024,Espanol,2-1,1-1,Oviedo
+Mon May 20 2024,Villarreal B,2-2,1-2,Albacete
+Sun May 26 2024,Albacete,2-2,1-0,Mirandes
+Sun May 26 2024,Amorebieta,0-0,0-0,Espanol
+Sun May 26 2024,Burgos,1-1,0-1,Tenerife
+Sun May 26 2024,Cartagena,0-2,0-1,Huesca
+Sun May 26 2024,Elche,1-2,0-0,Eldense
+Sun May 26 2024,Ferrol,2-2,1-1,Leganes
+Sun May 26 2024,Levante,2-2,0-0,Alcorcon
+Sun May 26 2024,Oviedo,3-0,0-0,Andorra
+Sun May 26 2024,Santander,0-2,0-1,Zaragoza
+Sun May 26 2024,Sp Gijon,1-0,0-0,Eibar
+Sun May 26 2024,Valladolid,3-2,0-0,Villarreal B
+Sun Jun 2 2024,Alcorcon,1-1,0-0,Burgos
+Sun Jun 2 2024,Andorra,1-0,0-0,Ferrol
+Sun Jun 2 2024,Huesca,0-0,0-0,Levante
+Sun Jun 2 2024,Eibar,4-3,2-1,Oviedo
+Sun Jun 2 2024,Eldense,0-1,0-0,Sp Gijon
+Sun Jun 2 2024,Espanol,3-0,0-0,Cartagena
+Sun Jun 2 2024,Leganes,2-0,2-0,Elche
+Sun Jun 2 2024,Mirandes,1-0,0-0,Amorebieta
+Sun Jun 2 2024,Tenerife,2-1,0-0,Valladolid
+Sun Jun 2 2024,Villarreal B,1-0,0-0,Santander
+Sun Jun 2 2024,Zaragoza,1-1,0-0,Albacete

@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 6 2021,Sp Lisbon,3-0,0-0,Vizela
+Sat Aug 7 2021,Arouca,0-2,0-1,Estoril
+Sat Aug 7 2021,Moreirense,1-2,1-2,Benfica
+Sat Aug 7 2021,Maritimo,0-2,0-0,Sp Braga
+Sun Aug 8 2021,Guimaraes,0-1,0-0,Portimonense
+Sun Aug 8 2021,Tondela,3-0,1-0,Santa Clara
+Sun Aug 8 2021,Porto,2-0,1-0,Belenenses
+Sun Aug 8 2021,Pacos Ferreira,2-0,0-0,Famalicao
+Mon Aug 9 2021,Gil Vicente,3-0,2-0,Boavista
+Fri Aug 13 2021,Estoril,0-0,0-0,Guimaraes
+Sat Aug 14 2021,Vizela,2-1,0-1,Tondela
+Sat Aug 14 2021,Benfica,2-0,2-0,Arouca
+Sat Aug 14 2021,Sp Braga,1-2,0-1,Sp Lisbon
+Sun Aug 15 2021,Portimonense,0-1,0-0,Gil Vicente
+Sun Aug 15 2021,Famalicao,1-2,0-2,Porto
+Sun Aug 15 2021,Santa Clara,2-2,0-0,Moreirense
+Mon Aug 16 2021,Boavista,3-0,1-0,Pacos Ferreira
+Mon Aug 16 2021,Belenenses,1-2,1-2,Maritimo
+Fri Aug 20 2021,Arouca,2-1,0-1,Famalicao
+Fri Aug 20 2021,Moreirense,2-3,0-2,Sp Braga
+Sat Aug 21 2021,Gil Vicente,0-2,0-0,Benfica
+Sat Aug 21 2021,Sp Lisbon,2-0,1-0,Belenenses
+Sun Aug 22 2021,Tondela,0-3,0-2,Portimonense
+Sun Aug 22 2021,Maritimo,1-1,1-1,Porto
+Sun Aug 22 2021,Guimaraes,4-0,0-0,Vizela
+Mon Aug 23 2021,Pacos Ferreira,1-3,1-1,Estoril
+Mon Aug 23 2021,Boavista,2-0,1-0,Santa Clara
+Fri Aug 27 2021,Belenenses,1-1,1-0,Moreirense
+Fri Aug 27 2021,Estoril,2-1,1-1,Maritimo
+Sat Aug 28 2021,Vizela,1-1,0-0,Boavista
+Sat Aug 28 2021,Porto,3-0,2-0,Arouca
+Sat Aug 28 2021,Famalicao,1-1,0-0,Sp Lisbon
+Sun Aug 29 2021,Benfica,2-1,0-1,Tondela
+Sun Aug 29 2021,Sp Braga,0-0,0-0,Guimaraes
+Sun Aug 29 2021,Portimonense,0-1,0-1,Pacos Ferreira
+Sun Aug 29 2021,Santa Clara,1-0,1-0,Gil Vicente
+Sat Sep 11 2021,Pacos Ferreira,0-0,0-0,Sp Braga
+Sat Sep 11 2021,Santa Clara,0-5,0-1,Benfica
+Sat Sep 11 2021,Sp Lisbon,1-1,1-0,Porto
+Sun Sep 12 2021,Moreirense,2-2,1-1,Famalicao
+Sun Sep 12 2021,Boavista,1-1,0-1,Portimonense
+Sun Sep 12 2021,Gil Vicente,2-2,0-1,Vizela
+Sun Sep 12 2021,Guimaraes,0-0,0-0,Belenenses
+Mon Sep 13 2021,Maritimo,2-2,2-1,Arouca
+Mon Sep 13 2021,Tondela,1-2,0-2,Estoril
+Fri Sep 17 2021,Portimonense,2-1,2-1,Santa Clara
+Sat Sep 18 2021,Famalicao,0-0,0-0,Maritimo
+Sat Sep 18 2021,Belenenses,1-1,0-0,Gil Vicente
+Sat Sep 18 2021,Arouca,2-2,0-1,Guimaraes
+Sun Sep 19 2021,Vizela,1-1,1-0,Pacos Ferreira
+Sun Sep 19 2021,Porto,5-0,1-0,Moreirense
+Sun Sep 19 2021,Estoril,0-1,0-0,Sp Lisbon
+Mon Sep 20 2021,Benfica,3-1,2-1,Boavista
+Mon Sep 20 2021,Sp Braga,3-1,0-0,Tondela
+Fri Sep 24 2021,Sp Lisbon,1-0,0-0,Maritimo
+Fri Sep 24 2021,Gil Vicente,1-2,1-1,Porto
+Sat Sep 25 2021,Moreirense,2-1,1-0,Arouca
+Sat Sep 25 2021,Guimaraes,1-3,0-2,Benfica
+Sat Sep 25 2021,Tondela,3-2,1-1,Famalicao
+Sun Sep 26 2021,Santa Clara,1-1,0-0,Sp Braga
+Sun Sep 26 2021,Portimonense,0-0,0-0,Vizela
+Mon Sep 27 2021,Pacos Ferreira,2-2,2-0,Belenenses
+Mon Sep 27 2021,Boavista,1-1,1-0,Estoril
+Fri Oct 1 2021,Maritimo,0-0,0-0,Moreirense
+Fri Oct 1 2021,Famalicao,1-2,1-1,Guimaraes
+Sat Oct 2 2021,Vizela,1-1,0-0,Santa Clara
+Sat Oct 2 2021,Porto,2-1,1-1,Pacos Ferreira
+Sat Oct 2 2021,Arouca,1-2,0-1,Sp Lisbon
+Sun Oct 3 2021,Belenenses,0-2,0-1,Tondela
+Sun Oct 3 2021,Benfica,0-1,0-0,Portimonense
+Sun Oct 3 2021,Estoril,2-2,2-1,Gil Vicente
+Sun Oct 3 2021,Sp Braga,2-2,1-1,Boavista
+Fri Oct 22 2021,Guimaraes,2-1,0-0,Maritimo
+Sat Oct 23 2021,Santa Clara,0-2,0-1,Famalicao
+Sat Oct 23 2021,Tondela,1-3,1-2,Porto
+Sat Oct 23 2021,Sp Lisbon,1-0,1-0,Moreirense
+Sun Oct 24 2021,Pacos Ferreira,0-0,0-0,Arouca
+Sun Oct 24 2021,Vizela,0-1,0-0,Benfica
+Sun Oct 24 2021,Portimonense,0-2,0-0,Estoril
+Mon Oct 25 2021,Gil Vicente,0-1,0-1,Sp Braga
+Mon Oct 25 2021,Boavista,0-0,0-0,Belenenses
+Fri Oct 29 2021,Arouca,2-0,1-0,Tondela
+Sat Oct 30 2021,Porto,4-1,2-1,Boavista
+Sat Oct 30 2021,Estoril,1-1,0-1,Benfica
+Sat Oct 30 2021,Sp Lisbon,1-0,1-0,Guimaraes
+Sun Oct 31 2021,Maritimo,1-2,1-1,Gil Vicente
+Sun Oct 31 2021,Belenenses,2-1,1-0,Santa Clara
+Sun Oct 31 2021,Famalicao,1-1,0-0,Vizela
+Mon Nov 1 2021,Sp Braga,3-0,1-0,Portimonense
+Mon Nov 1 2021,Moreirense,1-1,0-0,Pacos Ferreira
+Fri Nov 5 2021,Gil Vicente,1-1,0-1,Arouca
+Fri Nov 5 2021,Boavista,2-5,1-3,Famalicao
+Sat Nov 6 2021,Vizela,1-1,0-0,Estoril
+Sat Nov 6 2021,Portimonense,2-0,1-0,Belenenses
+Sat Nov 6 2021,Guimaraes,2-1,1-0,Moreirense
+Sun Nov 7 2021,Tondela,4-2,3-0,Maritimo
+Sun Nov 7 2021,Santa Clara,0-3,0-1,Porto
+Sun Nov 7 2021,Pacos Ferreira,0-2,0-0,Sp Lisbon
+Sun Nov 7 2021,Benfica,6-1,4-1,Sp Braga
+Fri Nov 26 2021,Moreirense,2-2,0-0,Gil Vicente
+Sat Nov 27 2021,Famalicao,0-3,0-2,Portimonense
+Sat Nov 27 2021,Arouca,2-1,1-0,Boavista
+Sat Nov 27 2021,Belenenses,0-7,0-7,Benfica
+Sun Nov 28 2021,Maritimo,2-0,0-0,Pacos Ferreira
+Sun Nov 28 2021,Sp Lisbon,2-0,1-0,Tondela
+Sun Nov 28 2021,Porto,2-1,1-1,Guimaraes
+Mon Nov 29 2021,Estoril,2-2,1-1,Santa Clara
+Tue Nov 30 2021,Sp Braga,4-1,2-0,Vizela
+Fri Dec 3 2021,Portimonense,0-3,0-1,Porto
+Fri Dec 3 2021,Benfica,1-3,0-1,Sp Lisbon
+Sat Dec 4 2021,Boavista,1-1,1-0,Maritimo
+Sat Dec 4 2021,Pacos Ferreira,1-2,1-0,Guimaraes
+Sun Dec 5 2021,Santa Clara,2-1,2-1,Arouca
+Sun Dec 5 2021,Gil Vicente,4-0,3-0,Famalicao
+Sun Dec 5 2021,Sp Braga,2-0,2-0,Estoril
+Fri Dec 10 2021,Pacos Ferreira,0-1,0-0,Gil Vicente
+Sat Dec 11 2021,Maritimo,4-1,2-1,Santa Clara
+Sat Dec 11 2021,Guimaraes,5-2,2-2,Tondela
+Sat Dec 11 2021,Sp Lisbon,2-0,0-0,Boavista
+Sun Dec 12 2021,Belenenses,0-1,0-1,Estoril
+Sun Dec 12 2021,Moreirense,0-1,0-0,Portimonense
+Sun Dec 12 2021,Famalicao,1-4,1-2,Benfica
+Sun Dec 12 2021,Porto,1-0,1-0,Sp Braga
+Mon Dec 13 2021,Arouca,1-4,0-4,Vizela
+Fri Dec 17 2021,Santa Clara,1-0,1-0,Guimaraes
+Fri Dec 17 2021,Estoril,2-2,2-1,Famalicao
+Sat Dec 18 2021,Portimonense,1-1,0-0,Arouca
+Sat Dec 18 2021,Tondela,0-1,0-0,Pacos Ferreira
+Sat Dec 18 2021,Gil Vicente,0-3,0-0,Sp Lisbon
+Sun Dec 19 2021,Benfica,7-1,3-0,Maritimo
+Sun Dec 19 2021,Boavista,1-0,1-0,Moreirense
+Sun Dec 19 2021,Vizela,0-4,0-2,Porto
+Sun Dec 19 2021,Sp Braga,1-0,1-0,Belenenses
+Tue Dec 28 2021,Tondela,0-3,0-0,Gil Vicente
+Tue Dec 28 2021,Maritimo,2-0,0-0,Vizela
+Tue Dec 28 2021,Moreirense,1-0,1-0,Estoril
+Wed Dec 29 2021,Guimaraes,1-1,0-0,Boavista
+Wed Dec 29 2021,Sp Lisbon,3-2,0-1,Portimonense
+Thu Dec 30 2021,Pacos Ferreira,2-1,0-1,Santa Clara
+Thu Dec 30 2021,Arouca,0-6,0-3,Sp Braga
+Thu Dec 30 2021,Porto,3-1,2-0,Benfica
+Sun Jan 2 2022,Vizela,2-0,2-0,Belenenses
+Mon Jan 3 2022,Tondela,2-1,0-1,Moreirense
+Fri Jan 7 2022,Santa Clara,3-2,1-1,Sp Lisbon
+Sat Jan 8 2022,Vizela,0-1,0-0,Moreirense
+Sat Jan 8 2022,Estoril,2-3,2-0,Porto
+Sat Jan 8 2022,Boavista,1-1,0-0,Tondela
+Sun Jan 9 2022,Portimonense,1-2,0-1,Maritimo
+Sun Jan 9 2022,Benfica,2-0,1-0,Pacos Ferreira
+Sun Jan 9 2022,Sp Braga,2-2,1-1,Famalicao
+Sun Jan 9 2022,Belenenses,2-1,0-1,Arouca
+Mon Jan 10 2022,Gil Vicente,3-2,1-0,Guimaraes
+Thu Jan 13 2022,Famalicao,1-0,0-0,Belenenses
+Sat Jan 15 2022,Boavista,1-1,1-0,Gil Vicente
+Sat Jan 15 2022,Benfica,1-1,0-0,Moreirense
+Sat Jan 15 2022,Sp Braga,0-1,0-0,Maritimo
+Sun Jan 16 2022,Santa Clara,2-2,2-0,Tondela
+Sun Jan 16 2022,Vizela,0-2,0-2,Sp Lisbon
+Sun Jan 16 2022,Famalicao,0-0,0-0,Pacos Ferreira
+Sun Jan 16 2022,Belenenses,1-4,1-1,Porto
+Mon Jan 17 2022,Portimonense,1-1,0-1,Guimaraes
+Fri Jan 21 2022,Arouca,0-2,0-1,Benfica
+Fri Jan 21 2022,Pacos Ferreira,1-1,1-0,Boavista
+Sat Jan 22 2022,Moreirense,0-2,0-1,Santa Clara
+Sat Jan 22 2022,Tondela,2-3,2-1,Vizela
+Sat Jan 22 2022,Sp Lisbon,1-2,1-0,Sp Braga
+Sun Jan 23 2022,Guimaraes,3-1,0-1,Estoril
+Sun Jan 23 2022,Maritimo,1-1,1-1,Belenenses
+Sun Jan 23 2022,Gil Vicente,1-0,0-0,Portimonense
+Sun Jan 23 2022,Porto,3-1,2-0,Famalicao
+Thu Jan 27 2022,Estoril,1-2,1-0,Arouca
+Sun Jan 30 2022,Portimonense,1-2,1-0,Tondela
+Sun Jan 30 2022,Vizela,3-2,1-1,Guimaraes
+Sun Jan 30 2022,Sp Braga,2-0,0-0,Moreirense
+Sun Jan 30 2022,Porto,2-1,1-0,Maritimo
+Mon Jan 31 2022,Estoril,0-0,0-0,Pacos Ferreira
+Mon Jan 31 2022,Famalicao,0-0,0-0,Arouca
+Tue Feb 1 2022,Santa Clara,2-1,1-1,Boavista
+Wed Feb 2 2022,Benfica,1-2,0-1,Gil Vicente
+Wed Feb 2 2022,Belenenses,1-4,1-3,Sp Lisbon
+Sat Feb 5 2022,Maritimo,0-0,0-0,Estoril
+Sat Feb 5 2022,Pacos Ferreira,1-1,1-0,Portimonense
+Sat Feb 5 2022,Guimaraes,2-1,1-0,Sp Braga
+Sun Feb 6 2022,Boavista,2-2,0-1,Vizela
+Sun Feb 6 2022,Gil Vicente,2-2,1-1,Santa Clara
+Sun Feb 6 2022,Arouca,0-2,0-0,Porto
+Sun Feb 6 2022,Sp Lisbon,2-0,1-0,Famalicao
+Mon Feb 7 2022,Tondela,1-3,0-2,Benfica
+Mon Feb 7 2022,Moreirense,4-1,2-1,Belenenses
+Fri Feb 11 2022,Porto,2-2,1-2,Sp Lisbon
+Sat Feb 12 2022,Sp Braga,2-1,0-1,Pacos Ferreira
+Sat Feb 12 2022,Benfica,2-1,0-1,Santa Clara
+Sat Feb 12 2022,Portimonense,1-1,1-1,Boavista
+Sat Feb 12 2022,Estoril,1-0,0-0,Tondela
+Sun Feb 13 2022,Famalicao,5-0,4-0,Moreirense
+Sun Feb 13 2022,Belenenses,1-0,0-0,Guimaraes
+Sun Feb 13 2022,Vizela,0-1,0-1,Gil Vicente
+Mon Feb 14 2022,Arouca,0-3,0-2,Maritimo
+Fri Feb 18 2022,Boavista,2-2,0-2,Benfica
+Sat Feb 19 2022,Gil Vicente,2-0,0-0,Belenenses
+Sat Feb 19 2022,Pacos Ferreira,2-1,1-1,Vizela
+Sat Feb 19 2022,Guimaraes,1-3,1-3,Arouca
+Sun Feb 20 2022,Maritimo,0-1,0-1,Famalicao
+Sun Feb 20 2022,Sp Lisbon,3-0,1-0,Estoril
+Sun Feb 20 2022,Moreirense,0-1,0-1,Porto
+Sun Feb 20 2022,Tondela,0-1,0-0,Sp Braga
+Mon Feb 21 2022,Santa Clara,1-1,1-0,Portimonense
+Fri Feb 25 2022,Belenenses,0-2,0-1,Pacos Ferreira
+Sat Feb 26 2022,Famalicao,2-1,0-0,Tondela
+Sat Feb 26 2022,Maritimo,1-1,1-1,Sp Lisbon
+Sat Feb 26 2022,Arouca,1-1,0-1,Moreirense
+Sun Feb 27 2022,Vizela,1-1,1-1,Portimonense
+Sun Feb 27 2022,Benfica,3-0,2-0,Guimaraes
+Sun Feb 27 2022,Estoril,2-3,1-1,Boavista
+Sun Feb 27 2022,Porto,1-1,0-0,Gil Vicente
+Mon Feb 28 2022,Sp Braga,0-0,0-0,Santa Clara
+Fri Mar 4 2022,Gil Vicente,0-0,0-0,Estoril
+Sat Mar 5 2022,Boavista,1-1,0-1,Sp Braga
+Sat Mar 5 2022,Portimonense,1-2,1-1,Benfica
+Sat Mar 5 2022,Sp Lisbon,2-0,0-0,Arouca
+Sun Mar 6 2022,Moreirense,0-1,0-1,Maritimo
+Sun Mar 6 2022,Pacos Ferreira,2-4,1-2,Porto
+Sun Mar 6 2022,Guimaraes,2-1,1-1,Famalicao
+Sun Mar 6 2022,Santa Clara,3-1,0-0,Vizela
+Mon Mar 7 2022,Tondela,1-1,1-0,Belenenses
+Fri Mar 11 2022,Benfica,1-1,0-0,Vizela
+Sat Mar 12 2022,Estoril,2-0,1-0,Portimonense
+Sat Mar 12 2022,Famalicao,0-0,0-0,Santa Clara
+Sat Mar 12 2022,Arouca,0-1,0-1,Pacos Ferreira
+Sat Mar 12 2022,Belenenses,0-0,0-0,Boavista
+Sun Mar 13 2022,Maritimo,0-1,0-0,Guimaraes
+Sun Mar 13 2022,Porto,4-0,1-0,Tondela
+Sun Mar 13 2022,Sp Braga,0-1,0-0,Gil Vicente
+Mon Mar 14 2022,Moreirense,0-2,0-2,Sp Lisbon
+Fri Mar 18 2022,Vizela,1-1,0-1,Famalicao
+Sat Mar 19 2022,Tondela,2-2,2-1,Arouca
+Sat Mar 19 2022,Santa Clara,0-0,0-0,Belenenses
+Sat Mar 19 2022,Guimaraes,1-3,1-1,Sp Lisbon
+Sun Mar 20 2022,Gil Vicente,1-1,1-1,Maritimo
+Sun Mar 20 2022,Pacos Ferreira,2-1,1-0,Moreirense
+Sun Mar 20 2022,Benfica,2-1,1-0,Estoril
+Sun Mar 20 2022,Portimonense,1-2,0-2,Sp Braga
+Sun Mar 20 2022,Boavista,0-1,0-1,Porto
+Fri Apr 1 2022,Sp Braga,3-2,1-0,Benfica
+Sat Apr 2 2022,Belenenses,2-0,1-0,Portimonense
+Sat Apr 2 2022,Arouca,2-1,0-0,Gil Vicente
+Sat Apr 2 2022,Estoril,1-2,1-1,Vizela
+Sat Apr 2 2022,Famalicao,1-2,0-2,Boavista
+Sun Apr 3 2022,Maritimo,1-3,1-1,Tondela
+Sun Apr 3 2022,Moreirense,0-1,0-0,Guimaraes
+Sun Apr 3 2022,Sp Lisbon,2-0,1-0,Pacos Ferreira
+Mon Apr 4 2022,Porto,3-0,2-0,Santa Clara
+Fri Apr 8 2022,Gil Vicente,1-2,0-0,Moreirense
+Sat Apr 9 2022,Pacos Ferreira,2-0,2-0,Maritimo
+Sat Apr 9 2022,Benfica,3-1,1-1,Belenenses
+Sat Apr 9 2022,Boavista,1-0,1-0,Arouca
+Sat Apr 9 2022,Tondela,1-3,0-2,Sp Lisbon
+Sun Apr 10 2022,Portimonense,1-0,1-0,Famalicao
+Sun Apr 10 2022,Santa Clara,2-0,1-0,Estoril
+Sun Apr 10 2022,Guimaraes,0-1,0-1,Porto
+Sun Apr 10 2022,Vizela,0-1,0-1,Sp Braga
+Fri Apr 15 2022,Arouca,1-1,0-0,Santa Clara
+Fri Apr 15 2022,Famalicao,2-2,2-1,Gil Vicente
+Fri Apr 15 2022,Guimaraes,4-0,2-0,Pacos Ferreira
+Sat Apr 16 2022,Moreirense,2-0,2-0,Tondela
+Sat Apr 16 2022,Belenenses,1-0,1-0,Vizela
+Sat Apr 16 2022,Maritimo,4-0,2-0,Boavista
+Sat Apr 16 2022,Porto,7-0,4-0,Portimonense
+Sun Apr 17 2022,Sp Lisbon,0-2,0-1,Benfica
+Mon Apr 18 2022,Estoril,0-0,0-0,Sp Braga
+Fri Apr 22 2022,Vizela,2-1,1-0,Arouca
+Sat Apr 23 2022,Portimonense,1-0,1-0,Moreirense
+Sat Apr 23 2022,Benfica,0-0,0-0,Famalicao
+Sat Apr 23 2022,Santa Clara,2-2,2-0,Maritimo
+Sat Apr 23 2022,Gil Vicente,1-1,0-0,Pacos Ferreira
+Sun Apr 24 2022,Estoril,2-2,2-0,Belenenses
+Sun Apr 24 2022,Tondela,1-1,0-0,Guimaraes
+Mon Apr 25 2022,Sp Braga,1-0,0-0,Porto
+Mon Apr 25 2022,Boavista,0-3,0-1,Sp Lisbon
+Fri Apr 29 2022,Famalicao,3-1,1-0,Estoril
+Sat Apr 30 2022,Arouca,1-0,0-0,Portimonense
+Sat Apr 30 2022,Maritimo,0-1,0-1,Benfica
+Sat Apr 30 2022,Porto,4-2,2-1,Vizela
+Sat Apr 30 2022,Belenenses,0-1,0-0,Sp Braga
+Sun May 1 2022,Guimaraes,1-1,1-0,Santa Clara
+Sun May 1 2022,Moreirense,1-2,0-1,Boavista
+Sun May 1 2022,Sp Lisbon,4-1,2-1,Gil Vicente
+Mon May 2 2022,Pacos Ferreira,1-1,0-1,Tondela
+Fri May 6 2022,Boavista,1-1,0-1,Guimaraes
+Sat May 7 2022,Estoril,1-0,0-0,Moreirense
+Sat May 7 2022,Benfica,0-1,0-0,Porto
+Sat May 7 2022,Portimonense,2-3,2-1,Sp Lisbon
+Sun May 8 2022,Gil Vicente,3-0,0-0,Tondela
+Sun May 8 2022,Vizela,1-1,0-0,Maritimo
+Sun May 8 2022,Sp Braga,1-0,0-0,Arouca
+Sun May 8 2022,Santa Clara,2-0,1-0,Pacos Ferreira
+Mon May 9 2022,Belenenses,2-3,1-0,Famalicao
+Fri May 13 2022,Pacos Ferreira,0-2,0-2,Benfica
+Sat May 14 2022,Arouca,0-0,0-0,Belenenses
+Sat May 14 2022,Moreirense,4-1,3-0,Vizela
+Sat May 14 2022,Tondela,2-2,1-0,Boavista
+Sat May 14 2022,Maritimo,0-1,0-0,Portimonense
+Sat May 14 2022,Porto,2-0,0-0,Estoril
+Sat May 14 2022,Sp Lisbon,4-0,1-0,Santa Clara
+Sun May 15 2022,Famalicao,3-2,1-2,Sp Braga
+Sun May 15 2022,Guimaraes,5-0,1-0,Gil Vicente

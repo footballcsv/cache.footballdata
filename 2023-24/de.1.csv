@@ -1,0 +1,307 @@
+Date,Team 1,FT,HT,Team 2
+Fri Aug 18 2023,Werder Bremen,0-4,0-1,Bayern Munich
+Sat Aug 19 2023,Augsburg,4-4,3-3,M'gladbach
+Sat Aug 19 2023,Hoffenheim,1-2,0-2,Freiburg
+Sat Aug 19 2023,Leverkusen,3-2,2-1,RB Leipzig
+Sat Aug 19 2023,Stuttgart,5-0,2-0,Bochum
+Sat Aug 19 2023,Wolfsburg,2-0,2-0,Heidenheim
+Sat Aug 19 2023,Dortmund,1-0,0-0,FC Koln
+Sun Aug 20 2023,Union Berlin,4-1,2-0,Mainz
+Sun Aug 20 2023,Ein Frankfurt,1-0,1-0,Darmstadt
+Fri Aug 25 2023,RB Leipzig,5-1,0-1,Stuttgart
+Sat Aug 26 2023,Bochum,1-1,1-0,Dortmund
+Sat Aug 26 2023,Darmstadt,1-4,1-3,Union Berlin
+Sat Aug 26 2023,FC Koln,1-2,0-0,Wolfsburg
+Sat Aug 26 2023,Freiburg,1-0,0-0,Werder Bremen
+Sat Aug 26 2023,Heidenheim,2-3,1-0,Hoffenheim
+Sat Aug 26 2023,M'gladbach,0-3,0-2,Leverkusen
+Sun Aug 27 2023,Mainz,1-1,1-0,Ein Frankfurt
+Sun Aug 27 2023,Bayern Munich,3-1,2-0,Augsburg
+Fri Sep 1 2023,Dortmund,2-2,2-0,Heidenheim
+Sat Sep 2 2023,Augsburg,2-2,1-1,Bochum
+Sat Sep 2 2023,Hoffenheim,3-1,1-1,Wolfsburg
+Sat Sep 2 2023,Leverkusen,5-1,1-1,Darmstadt
+Sat Sep 2 2023,Stuttgart,5-0,3-0,Freiburg
+Sat Sep 2 2023,Werder Bremen,4-0,1-0,Mainz
+Sat Sep 2 2023,M'gladbach,1-2,1-0,Bayern Munich
+Sun Sep 3 2023,Ein Frankfurt,1-1,0-1,FC Koln
+Sun Sep 3 2023,Union Berlin,0-3,0-0,RB Leipzig
+Fri Sep 15 2023,Bayern Munich,2-2,1-1,Leverkusen
+Sat Sep 16 2023,FC Koln,1-3,0-2,Hoffenheim
+Sat Sep 16 2023,Freiburg,2-4,2-1,Dortmund
+Sat Sep 16 2023,Mainz,1-3,0-0,Stuttgart
+Sat Sep 16 2023,RB Leipzig,3-0,3-0,Augsburg
+Sat Sep 16 2023,Wolfsburg,2-1,2-1,Union Berlin
+Sat Sep 16 2023,Bochum,1-1,0-0,Ein Frankfurt
+Sun Sep 17 2023,Heidenheim,4-2,2-0,Werder Bremen
+Sun Sep 17 2023,Darmstadt,3-3,3-0,M'gladbach
+Fri Sep 22 2023,Stuttgart,3-1,2-1,Darmstadt
+Sat Sep 23 2023,Augsburg,2-1,2-1,Mainz
+Sat Sep 23 2023,Bayern Munich,7-0,4-0,Bochum
+Sat Sep 23 2023,Dortmund,1-0,0-0,Wolfsburg
+Sat Sep 23 2023,M'gladbach,0-1,0-0,RB Leipzig
+Sat Sep 23 2023,Union Berlin,0-2,0-2,Hoffenheim
+Sat Sep 23 2023,Werder Bremen,2-1,1-1,FC Koln
+Sun Sep 24 2023,Leverkusen,4-1,1-0,Heidenheim
+Sun Sep 24 2023,Ein Frankfurt,0-0,0-0,Freiburg
+Fri Sep 29 2023,Hoffenheim,1-3,1-2,Dortmund
+Sat Sep 30 2023,Bochum,1-3,0-3,M'gladbach
+Sat Sep 30 2023,FC Koln,0-2,0-0,Stuttgart
+Sat Sep 30 2023,Heidenheim,1-0,0-0,Union Berlin
+Sat Sep 30 2023,Mainz,0-3,0-1,Leverkusen
+Sat Sep 30 2023,Wolfsburg,2-0,1-0,Ein Frankfurt
+Sat Sep 30 2023,RB Leipzig,2-2,2-0,Bayern Munich
+Sun Oct 1 2023,Darmstadt,4-2,2-0,Werder Bremen
+Sun Oct 1 2023,Freiburg,2-0,1-0,Augsburg
+Fri Oct 6 2023,M'gladbach,2-2,1-1,Mainz
+Sat Oct 7 2023,Augsburg,1-2,0-0,Darmstadt
+Sat Oct 7 2023,Dortmund,4-2,1-2,Union Berlin
+Sat Oct 7 2023,RB Leipzig,0-0,0-0,Bochum
+Sat Oct 7 2023,Stuttgart,3-1,0-1,Wolfsburg
+Sat Oct 7 2023,Werder Bremen,2-3,1-2,Hoffenheim
+Sun Oct 8 2023,Leverkusen,3-0,2-0,FC Koln
+Sun Oct 8 2023,Bayern Munich,3-0,2-0,Freiburg
+Sun Oct 8 2023,Ein Frankfurt,2-0,1-0,Heidenheim
+Fri Oct 20 2023,Dortmund,1-0,0-0,Werder Bremen
+Sat Oct 21 2023,Darmstadt,1-3,1-2,RB Leipzig
+Sat Oct 21 2023,Freiburg,2-1,2-1,Bochum
+Sat Oct 21 2023,Hoffenheim,1-3,1-3,Ein Frankfurt
+Sat Oct 21 2023,Union Berlin,0-3,0-1,Stuttgart
+Sat Oct 21 2023,Wolfsburg,1-2,1-1,Leverkusen
+Sat Oct 21 2023,Mainz,1-3,1-2,Bayern Munich
+Sun Oct 22 2023,FC Koln,3-1,1-0,M'gladbach
+Sun Oct 22 2023,Heidenheim,2-5,2-3,Augsburg
+Fri Oct 27 2023,Bochum,2-2,1-0,Mainz
+Sat Oct 28 2023,Augsburg,3-2,1-2,Wolfsburg
+Sat Oct 28 2023,Bayern Munich,8-0,0-0,Darmstadt
+Sat Oct 28 2023,M'gladbach,2-1,1-1,Heidenheim
+Sat Oct 28 2023,Stuttgart,2-3,0-2,Hoffenheim
+Sat Oct 28 2023,Werder Bremen,2-0,1-0,Union Berlin
+Sat Oct 28 2023,RB Leipzig,6-0,4-0,FC Koln
+Sun Oct 29 2023,Ein Frankfurt,3-3,2-1,Dortmund
+Sun Oct 29 2023,Leverkusen,2-1,1-0,Freiburg
+Fri Nov 3 2023,Darmstadt,1-2,1-1,Bochum
+Sat Nov 4 2023,FC Koln,1-1,1-1,Augsburg
+Sat Nov 4 2023,Freiburg,3-3,1-3,M'gladbach
+Sat Nov 4 2023,Hoffenheim,2-3,0-2,Leverkusen
+Sat Nov 4 2023,Mainz,2-0,0-0,RB Leipzig
+Sat Nov 4 2023,Union Berlin,0-3,0-2,Ein Frankfurt
+Sat Nov 4 2023,Dortmund,0-4,0-2,Bayern Munich
+Sun Nov 5 2023,Wolfsburg,2-2,1-1,Werder Bremen
+Sun Nov 5 2023,Heidenheim,2-0,0-0,Stuttgart
+Fri Nov 10 2023,M'gladbach,4-0,2-0,Wolfsburg
+Sat Nov 11 2023,Augsburg,1-1,0-1,Hoffenheim
+Sat Nov 11 2023,Bayern Munich,4-2,2-0,Heidenheim
+Sat Nov 11 2023,Darmstadt,0-0,0-0,Mainz
+Sat Nov 11 2023,Stuttgart,2-1,1-1,Dortmund
+Sat Nov 11 2023,Bochum,1-1,1-0,FC Koln
+Sun Nov 12 2023,Leverkusen,4-0,1-0,Union Berlin
+Sun Nov 12 2023,Werder Bremen,2-2,1-0,Ein Frankfurt
+Sun Nov 12 2023,RB Leipzig,3-1,1-1,Freiburg
+Fri Nov 24 2023,FC Koln,0-1,0-1,Bayern Munich
+Sat Nov 25 2023,Dortmund,4-2,3-2,M'gladbach
+Sat Nov 25 2023,Freiburg,1-1,1-1,Darmstadt
+Sat Nov 25 2023,Union Berlin,1-1,0-1,Augsburg
+Sat Nov 25 2023,Werder Bremen,0-3,0-2,Leverkusen
+Sat Nov 25 2023,Wolfsburg,2-1,1-0,RB Leipzig
+Sat Nov 25 2023,Ein Frankfurt,1-2,1-2,Stuttgart
+Sun Nov 26 2023,Heidenheim,0-0,0-0,Bochum
+Sun Nov 26 2023,Hoffenheim,1-1,0-1,Mainz
+Fri Dec 1 2023,Darmstadt,0-1,0-0,FC Koln
+Sat Dec 2 2023,Bochum,3-1,2-1,Wolfsburg
+Sat Dec 2 2023,M'gladbach,2-1,0-0,Hoffenheim
+Sat Dec 2 2023,RB Leipzig,2-1,2-1,Heidenheim
+Sat Dec 2 2023,Stuttgart,2-0,1-0,Werder Bremen
+Sun Dec 3 2023,Mainz,0-1,0-0,Freiburg
+Sun Dec 3 2023,Leverkusen,1-1,0-1,Dortmund
+Sun Dec 3 2023,Augsburg,2-1,1-0,Ein Frankfurt
+Fri Dec 8 2023,Hoffenheim,3-1,2-0,Bochum
+Sat Dec 9 2023,Ein Frankfurt,5-1,3-1,Bayern Munich
+Sat Dec 9 2023,Heidenheim,3-2,1-0,Darmstadt
+Sat Dec 9 2023,Union Berlin,3-1,1-0,M'gladbach
+Sat Dec 9 2023,Werder Bremen,2-0,1-0,Augsburg
+Sat Dec 9 2023,Wolfsburg,0-1,0-0,Freiburg
+Sat Dec 9 2023,Dortmund,2-3,1-1,RB Leipzig
+Sun Dec 10 2023,Stuttgart,1-1,1-0,Leverkusen
+Sun Dec 10 2023,FC Koln,0-0,0-0,Mainz
+Fri Dec 15 2023,M'gladbach,2-2,1-1,Werder Bremen
+Sat Dec 16 2023,Augsburg,1-1,1-1,Dortmund
+Sat Dec 16 2023,Bochum,3-0,1-0,Union Berlin
+Sat Dec 16 2023,Darmstadt,0-1,0-0,Wolfsburg
+Sat Dec 16 2023,Mainz,0-1,0-1,Heidenheim
+Sat Dec 16 2023,RB Leipzig,3-1,1-1,Hoffenheim
+Sun Dec 17 2023,Freiburg,2-0,0-0,FC Koln
+Sun Dec 17 2023,Leverkusen,3-0,1-0,Ein Frankfurt
+Sun Dec 17 2023,Bayern Munich,3-0,1-0,Stuttgart
+Tue Dec 19 2023,Werder Bremen,1-1,0-0,RB Leipzig
+Tue Dec 19 2023,Dortmund,1-1,1-1,Mainz
+Tue Dec 19 2023,Hoffenheim,3-3,2-1,Darmstadt
+Wed Dec 20 2023,Union Berlin,2-0,0-0,FC Koln
+Wed Dec 20 2023,Ein Frankfurt,2-1,0-1,M'gladbach
+Wed Dec 20 2023,Heidenheim,3-2,0-1,Freiburg
+Wed Dec 20 2023,Leverkusen,4-0,3-0,Bochum
+Wed Dec 20 2023,Stuttgart,3-0,2-0,Augsburg
+Wed Dec 20 2023,Wolfsburg,1-2,1-2,Bayern Munich
+Fri Jan 12 2024,Bayern Munich,3-0,1-0,Hoffenheim
+Sat Jan 13 2024,Augsburg,0-1,0-0,Leverkusen
+Sat Jan 13 2024,FC Koln,1-1,1-0,Heidenheim
+Sat Jan 13 2024,Freiburg,0-0,0-0,Union Berlin
+Sat Jan 13 2024,Mainz,1-1,0-1,Wolfsburg
+Sat Jan 13 2024,RB Leipzig,0-1,0-1,Ein Frankfurt
+Sat Jan 13 2024,Darmstadt,0-3,0-1,Dortmund
+Sun Jan 14 2024,Bochum,1-1,0-0,Werder Bremen
+Sun Jan 14 2024,M'gladbach,3-1,2-0,Stuttgart
+Sat Jan 20 2024,Bochum,1-0,0-0,Stuttgart
+Sat Jan 20 2024,Darmstadt,2-2,0-1,Ein Frankfurt
+Sat Jan 20 2024,FC Koln,0-4,0-1,Dortmund
+Sat Jan 20 2024,Freiburg,3-2,1-0,Hoffenheim
+Sat Jan 20 2024,Heidenheim,1-1,1-1,Wolfsburg
+Sat Jan 20 2024,RB Leipzig,2-3,1-0,Leverkusen
+Sun Jan 21 2024,Bayern Munich,0-1,0-0,Werder Bremen
+Sun Jan 21 2024,M'gladbach,1-2,1-0,Augsburg
+Wed Jan 24 2024,Bayern Munich,1-0,0-0,Union Berlin
+Fri Jan 26 2024,Ein Frankfurt,1-0,0-0,Mainz
+Sat Jan 27 2024,Augsburg,2-3,0-2,Bayern Munich
+Sat Jan 27 2024,Hoffenheim,1-1,1-1,Heidenheim
+Sat Jan 27 2024,Stuttgart,5-2,2-1,RB Leipzig
+Sat Jan 27 2024,Werder Bremen,3-1,1-1,Freiburg
+Sat Jan 27 2024,Wolfsburg,1-1,1-1,FC Koln
+Sat Jan 27 2024,Leverkusen,0-0,0-0,M'gladbach
+Sun Jan 28 2024,Union Berlin,1-0,0-0,Darmstadt
+Sun Jan 28 2024,Dortmund,3-1,1-1,Bochum
+Fri Feb 2 2024,Heidenheim,0-0,0-0,Dortmund
+Sat Feb 3 2024,Bayern Munich,3-1,1-1,M'gladbach
+Sat Feb 3 2024,Bochum,1-1,1-0,Augsburg
+Sat Feb 3 2024,Darmstadt,0-2,0-1,Leverkusen
+Sat Feb 3 2024,Freiburg,1-3,1-2,Stuttgart
+Sat Feb 3 2024,Mainz,0-1,0-1,Werder Bremen
+Sat Feb 3 2024,FC Koln,2-0,0-0,Ein Frankfurt
+Sun Feb 4 2024,Wolfsburg,2-2,0-1,Hoffenheim
+Sun Feb 4 2024,RB Leipzig,2-0,1-0,Union Berlin
+Wed Feb 7 2024,Mainz,1-1,1-1,Union Berlin
+Fri Feb 9 2024,Dortmund,3-0,2-0,Freiburg
+Sat Feb 10 2024,Augsburg,2-2,1-1,RB Leipzig
+Sat Feb 10 2024,Ein Frankfurt,1-1,1-1,Bochum
+Sat Feb 10 2024,M'gladbach,0-0,0-0,Darmstadt
+Sat Feb 10 2024,Union Berlin,1-0,1-0,Wolfsburg
+Sat Feb 10 2024,Werder Bremen,1-2,1-2,Heidenheim
+Sat Feb 10 2024,Leverkusen,3-0,1-0,Bayern Munich
+Sun Feb 11 2024,Stuttgart,3-1,2-0,Mainz
+Sun Feb 11 2024,Hoffenheim,1-1,0-0,FC Koln
+Fri Feb 16 2024,FC Koln,0-1,0-0,Werder Bremen
+Sat Feb 17 2024,Darmstadt,1-2,0-1,Stuttgart
+Sat Feb 17 2024,Heidenheim,1-2,0-1,Leverkusen
+Sat Feb 17 2024,Hoffenheim,0-1,0-0,Union Berlin
+Sat Feb 17 2024,Mainz,1-0,1-0,Augsburg
+Sat Feb 17 2024,Wolfsburg,1-1,0-1,Dortmund
+Sat Feb 17 2024,RB Leipzig,2-0,1-0,M'gladbach
+Sun Feb 18 2024,Freiburg,3-3,2-2,Ein Frankfurt
+Sun Feb 18 2024,Bochum,3-2,2-1,Bayern Munich
+Fri Feb 23 2024,Leverkusen,2-1,1-1,Mainz
+Sat Feb 24 2024,M'gladbach,5-2,2-0,Bochum
+Sat Feb 24 2024,Stuttgart,1-1,0-0,FC Koln
+Sat Feb 24 2024,Union Berlin,2-2,2-1,Heidenheim
+Sat Feb 24 2024,Werder Bremen,1-1,1-1,Darmstadt
+Sat Feb 24 2024,Bayern Munich,2-1,0-0,RB Leipzig
+Sun Feb 25 2024,Ein Frankfurt,2-2,1-2,Wolfsburg
+Sun Feb 25 2024,Dortmund,2-3,2-1,Hoffenheim
+Sun Feb 25 2024,Augsburg,2-1,0-1,Freiburg
+Fri Mar 1 2024,Freiburg,2-2,1-1,Bayern Munich
+Sat Mar 2 2024,Bochum,1-4,1-1,RB Leipzig
+Sat Mar 2 2024,Darmstadt,0-6,0-5,Augsburg
+Sat Mar 2 2024,Heidenheim,1-2,0-1,Ein Frankfurt
+Sat Mar 2 2024,Mainz,1-1,1-0,M'gladbach
+Sat Mar 2 2024,Union Berlin,0-2,0-1,Dortmund
+Sat Mar 2 2024,Wolfsburg,2-3,0-1,Stuttgart
+Sun Mar 3 2024,FC Koln,0-2,0-1,Leverkusen
+Sun Mar 3 2024,Hoffenheim,2-1,2-0,Werder Bremen
+Fri Mar 8 2024,Stuttgart,2-0,1-0,Union Berlin
+Sat Mar 9 2024,Augsburg,1-0,1-0,Heidenheim
+Sat Mar 9 2024,Bayern Munich,8-1,3-1,Mainz
+Sat Mar 9 2024,M'gladbach,3-3,1-1,FC Koln
+Sat Mar 9 2024,RB Leipzig,2-0,1-0,Darmstadt
+Sat Mar 9 2024,Werder Bremen,1-2,0-2,Dortmund
+Sun Mar 10 2024,Bochum,1-2,0-1,Freiburg
+Sun Mar 10 2024,Ein Frankfurt,3-1,1-1,Hoffenheim
+Sun Mar 10 2024,Leverkusen,2-0,1-0,Wolfsburg
+Fri Mar 15 2024,FC Koln,1-5,1-1,RB Leipzig
+Sat Mar 16 2024,Darmstadt,2-5,1-2,Bayern Munich
+Sat Mar 16 2024,Heidenheim,1-1,0-1,M'gladbach
+Sat Mar 16 2024,Mainz,2-0,1-0,Bochum
+Sat Mar 16 2024,Union Berlin,2-1,0-0,Werder Bremen
+Sat Mar 16 2024,Wolfsburg,1-3,1-1,Augsburg
+Sat Mar 16 2024,Hoffenheim,0-3,0-2,Stuttgart
+Sun Mar 17 2024,Freiburg,2-3,1-2,Leverkusen
+Sun Mar 17 2024,Dortmund,3-1,1-1,Ein Frankfurt
+Sat Mar 30 2024,Ein Frankfurt,0-0,0-0,Union Berlin
+Sat Mar 30 2024,Leverkusen,2-1,0-1,Hoffenheim
+Sat Mar 30 2024,M'gladbach,0-3,0-1,Freiburg
+Sat Mar 30 2024,RB Leipzig,0-0,0-0,Mainz
+Sat Mar 30 2024,Werder Bremen,0-2,0-1,Wolfsburg
+Sat Mar 30 2024,Bayern Munich,0-2,0-1,Dortmund
+Sun Mar 31 2024,Augsburg,1-1,1-1,FC Koln
+Sun Mar 31 2024,Stuttgart,3-3,1-0,Heidenheim
+Sun Mar 31 2024,Bochum,2-2,1-0,Darmstadt
+Fri Apr 5 2024,Ein Frankfurt,1-1,0-0,Werder Bremen
+Sat Apr 6 2024,FC Koln,2-1,0-0,Bochum
+Sat Apr 6 2024,Freiburg,1-4,0-3,RB Leipzig
+Sat Apr 6 2024,Heidenheim,3-2,0-2,Bayern Munich
+Sat Apr 6 2024,Mainz,4-0,1-0,Darmstadt
+Sat Apr 6 2024,Union Berlin,0-1,0-1,Leverkusen
+Sat Apr 6 2024,Dortmund,0-1,0-0,Stuttgart
+Sun Apr 7 2024,Hoffenheim,3-1,2-0,Augsburg
+Sun Apr 7 2024,Wolfsburg,1-3,1-0,M'gladbach
+Fri Apr 12 2024,Augsburg,2-0,0-0,Union Berlin
+Sat Apr 13 2024,Bayern Munich,2-0,0-0,FC Koln
+Sat Apr 13 2024,Bochum,1-1,0-0,Heidenheim
+Sat Apr 13 2024,Mainz,4-1,0-1,Hoffenheim
+Sat Apr 13 2024,M'gladbach,1-2,1-2,Dortmund
+Sat Apr 13 2024,RB Leipzig,3-0,1-0,Wolfsburg
+Sat Apr 13 2024,Stuttgart,3-0,3-0,Ein Frankfurt
+Sun Apr 14 2024,Darmstadt,0-1,0-1,Freiburg
+Sun Apr 14 2024,Leverkusen,5-0,1-0,Werder Bremen
+Fri Apr 19 2024,Ein Frankfurt,3-1,0-1,Augsburg
+Sat Apr 20 2024,FC Koln,0-2,0-0,Darmstadt
+Sat Apr 20 2024,Heidenheim,1-2,0-1,RB Leipzig
+Sat Apr 20 2024,Hoffenheim,4-3,1-1,M'gladbach
+Sat Apr 20 2024,Wolfsburg,1-0,1-0,Bochum
+Sat Apr 20 2024,Union Berlin,1-5,0-2,Bayern Munich
+Sun Apr 21 2024,Werder Bremen,2-1,1-0,Stuttgart
+Sun Apr 21 2024,Dortmund,1-1,0-0,Leverkusen
+Sun Apr 21 2024,Freiburg,1-1,1-1,Mainz
+Fri Apr 26 2024,Bochum,3-2,2-0,Hoffenheim
+Sat Apr 27 2024,Augsburg,0-3,0-0,Werder Bremen
+Sat Apr 27 2024,Bayern Munich,2-1,1-1,Ein Frankfurt
+Sat Apr 27 2024,Freiburg,1-2,1-0,Wolfsburg
+Sat Apr 27 2024,RB Leipzig,4-1,2-1,Dortmund
+Sat Apr 27 2024,Leverkusen,2-2,0-0,Stuttgart
+Sun Apr 28 2024,M'gladbach,0-0,0-0,Union Berlin
+Sun Apr 28 2024,Mainz,1-1,1-0,FC Koln
+Sun Apr 28 2024,Darmstadt,0-1,0-0,Heidenheim
+Fri May 3 2024,Hoffenheim,1-1,0-1,RB Leipzig
+Sat May 4 2024,Dortmund,5-1,4-1,Augsburg
+Sat May 4 2024,Stuttgart,3-1,1-1,Bayern Munich
+Sat May 4 2024,Werder Bremen,2-2,1-1,M'gladbach
+Sat May 4 2024,Wolfsburg,3-0,2-0,Darmstadt
+Sat May 4 2024,FC Koln,0-0,0-0,Freiburg
+Sun May 5 2024,Union Berlin,3-4,0-3,Bochum
+Sun May 5 2024,Ein Frankfurt,1-5,1-2,Leverkusen
+Sun May 5 2024,Heidenheim,1-1,0-1,Mainz
+Fri May 10 2024,Augsburg,0-1,0-0,Stuttgart
+Sat May 11 2024,FC Koln,3-2,1-2,Union Berlin
+Sat May 11 2024,Freiburg,1-1,1-1,Heidenheim
+Sat May 11 2024,M'gladbach,1-1,1-1,Ein Frankfurt
+Sat May 11 2024,RB Leipzig,1-1,0-1,Werder Bremen
+Sat May 11 2024,Mainz,3-0,3-0,Dortmund
+Sun May 12 2024,Darmstadt,0-6,0-5,Hoffenheim
+Sun May 12 2024,Bayern Munich,2-0,2-0,Wolfsburg
+Sun May 12 2024,Bochum,0-5,0-2,Leverkusen
+Sat May 18 2024,Dortmund,4-0,2-0,Darmstadt
+Sat May 18 2024,Ein Frankfurt,2-2,0-1,RB Leipzig
+Sat May 18 2024,Heidenheim,4-1,3-0,FC Koln
+Sat May 18 2024,Hoffenheim,4-2,1-2,Bayern Munich
+Sat May 18 2024,Leverkusen,2-1,2-0,Augsburg
+Sat May 18 2024,Stuttgart,4-0,2-0,M'gladbach
+Sat May 18 2024,Union Berlin,2-1,0-0,Freiburg
+Sat May 18 2024,Werder Bremen,4-1,1-0,Bochum
+Sat May 18 2024,Wolfsburg,1-3,1-1,Mainz

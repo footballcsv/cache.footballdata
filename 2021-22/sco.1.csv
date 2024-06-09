@@ -1,0 +1,229 @@
+Date,Team 1,FT,HT,Team 2
+Sat Jul 31 2021,Rangers,3-0,1-0,Livingston
+Sat Jul 31 2021,Dundee,2-2,1-1,St Mirren
+Sat Jul 31 2021,Ross County,0-0,0-0,St Johnstone
+Sat Jul 31 2021,Hearts,2-1,1-0,Celtic
+Sun Aug 1 2021,Aberdeen,2-0,1-0,Dundee United
+Sun Aug 1 2021,Motherwell,2-3,2-1,Hibernian
+Sat Aug 7 2021,Dundee United,1-0,0-0,Rangers
+Sat Aug 7 2021,St Mirren,1-2,0-1,Hearts
+Sun Aug 8 2021,Celtic,6-0,2-0,Dundee
+Sun Aug 8 2021,Hibernian,3-0,3-0,Ross County
+Sun Aug 8 2021,Livingston,1-2,1-0,Aberdeen
+Sun Aug 8 2021,St Johnstone,1-1,1-0,Motherwell
+Sat Aug 21 2021,Celtic,6-0,4-0,St Mirren
+Sat Aug 21 2021,Livingston,1-2,1-0,Motherwell
+Sun Aug 22 2021,Dundee,2-2,1-1,Hibernian
+Sun Aug 22 2021,Hearts,1-1,0-0,Aberdeen
+Sun Aug 22 2021,Ross County,2-4,1-2,Rangers
+Sun Aug 22 2021,St Johnstone,0-1,0-0,Dundee United
+Sat Aug 28 2021,Dundee United,0-2,0-1,Hearts
+Sat Aug 28 2021,Hibernian,2-0,0-0,Livingston
+Sat Aug 28 2021,Motherwell,1-0,1-0,Dundee
+Sun Aug 29 2021,Rangers,1-0,0-0,Celtic
+Sun Aug 29 2021,Aberdeen,1-1,0-1,Ross County
+Sun Aug 29 2021,St Mirren,0-0,0-0,St Johnstone
+Sat Sep 11 2021,St Johnstone,1-2,0-0,Rangers
+Sat Sep 11 2021,Celtic,3-0,0-0,Ross County
+Sat Sep 11 2021,Dundee,0-0,0-0,Livingston
+Sat Sep 11 2021,Motherwell,2-0,1-0,Aberdeen
+Sat Sep 11 2021,St Mirren,0-0,0-0,Dundee United
+Sun Sep 12 2021,Hearts,0-0,0-0,Hibernian
+Sat Sep 18 2021,Aberdeen,0-1,0-0,St Johnstone
+Sat Sep 18 2021,Hibernian,2-2,0-1,St Mirren
+Sat Sep 18 2021,Ross County,2-2,2-1,Hearts
+Sun Sep 19 2021,Dundee United,1-0,0-0,Dundee
+Sun Sep 19 2021,Livingston,1-0,1-0,Celtic
+Sun Sep 19 2021,Rangers,1-1,1-0,Motherwell
+Sat Sep 25 2021,Dundee,0-1,0-1,Rangers
+Sat Sep 25 2021,Hearts,3-0,2-0,Livingston
+Sat Sep 25 2021,Motherwell,2-1,1-1,Ross County
+Sun Sep 26 2021,St Mirren,3-2,1-2,Aberdeen
+Sun Sep 26 2021,Celtic,1-1,1-1,Dundee United
+Sun Sep 26 2021,Hibernian,1-0,0-0,St Johnstone
+Sat Oct 2 2021,Dundee United,1-0,1-0,Ross County
+Sat Oct 2 2021,Hearts,2-0,2-0,Motherwell
+Sat Oct 2 2021,Livingston,0-1,0-1,St Mirren
+Sat Oct 2 2021,St Johnstone,3-1,2-0,Dundee
+Sun Oct 3 2021,Aberdeen,1-2,0-1,Celtic
+Sun Oct 3 2021,Rangers,2-1,0-1,Hibernian
+Sat Oct 16 2021,Hibernian,0-3,0-1,Dundee United
+Sat Oct 16 2021,Motherwell,0-2,0-1,Celtic
+Sat Oct 16 2021,Rangers,1-1,1-0,Hearts
+Sat Oct 16 2021,Ross County,2-3,1-3,St Mirren
+Sat Oct 16 2021,St Johnstone,0-3,0-2,Livingston
+Sat Oct 16 2021,Dundee,2-1,0-0,Aberdeen
+Sat Oct 23 2021,Aberdeen,1-0,1-0,Hibernian
+Sat Oct 23 2021,Celtic,2-0,1-0,St Johnstone
+Sat Oct 23 2021,Dundee United,2-1,1-0,Motherwell
+Sat Oct 23 2021,Hearts,1-1,1-0,Dundee
+Sat Oct 23 2021,Ross County,2-3,1-2,Livingston
+Sun Oct 24 2021,St Mirren,1-2,1-2,Rangers
+Wed Oct 27 2021,Dundee,0-5,0-4,Ross County
+Wed Oct 27 2021,Hibernian,1-3,1-3,Celtic
+Wed Oct 27 2021,Livingston,1-1,1-1,Dundee United
+Wed Oct 27 2021,Motherwell,2-2,0-0,St Mirren
+Wed Oct 27 2021,Rangers,2-2,1-2,Aberdeen
+Wed Oct 27 2021,St Johnstone,1-1,1-1,Hearts
+Sat Oct 30 2021,Aberdeen,2-1,0-1,Hearts
+Sat Oct 30 2021,Celtic,0-0,0-0,Livingston
+Sat Oct 30 2021,Dundee United,0-1,0-1,St Johnstone
+Sat Oct 30 2021,St Mirren,0-1,0-1,Dundee
+Sun Oct 31 2021,Motherwell,1-6,1-2,Rangers
+Sat Nov 6 2021,Aberdeen,0-2,0-0,Motherwell
+Sat Nov 6 2021,Hearts,5-2,2-1,Dundee United
+Sat Nov 6 2021,St Johnstone,0-0,0-0,St Mirren
+Sun Nov 7 2021,Dundee,2-4,1-2,Celtic
+Sun Nov 7 2021,Rangers,4-2,2-1,Ross County
+Sat Nov 20 2021,Dundee United,1-0,0-0,Aberdeen
+Sat Nov 20 2021,Motherwell,2-0,1-0,Hearts
+Sat Nov 20 2021,St Mirren,1-1,0-0,Livingston
+Wed Nov 24 2021,Ross County,1-0,0-0,Hibernian
+Sat Nov 27 2021,Dundee,3-0,2-0,Motherwell
+Sat Nov 27 2021,Hearts,2-0,0-0,St Mirren
+Sat Nov 27 2021,Ross County,1-1,0-0,Dundee United
+Sat Nov 27 2021,St Johnstone,1-2,1-0,Hibernian
+Sun Nov 28 2021,Livingston,1-3,1-2,Rangers
+Sun Nov 28 2021,Celtic,2-1,1-1,Aberdeen
+Tue Nov 30 2021,Motherwell,1-0,1-0,Dundee United
+Wed Dec 1 2021,Aberdeen,2-0,1-0,Livingston
+Wed Dec 1 2021,Dundee,1-0,1-0,St Johnstone
+Wed Dec 1 2021,Hibernian,0-1,0-0,Rangers
+Wed Dec 1 2021,St Mirren,0-0,0-0,Ross County
+Thu Dec 2 2021,Celtic,1-0,1-0,Hearts
+Sat Dec 4 2021,Aberdeen,4-1,3-1,St Mirren
+Sat Dec 4 2021,Hibernian,1-1,1-0,Motherwell
+Sat Dec 4 2021,Rangers,3-0,1-0,Dundee
+Sun Dec 5 2021,Dundee United,0-3,0-2,Celtic
+Sun Dec 5 2021,Livingston,0-1,0-0,Hearts
+Wed Dec 8 2021,Livingston,1-0,1-0,Hibernian
+Sat Dec 11 2021,Dundee United,0-1,0-0,Livingston
+Sat Dec 11 2021,Ross County,3-2,1-2,Dundee
+Sat Dec 11 2021,St Johnstone,0-1,0-0,Aberdeen
+Sat Dec 11 2021,St Mirren,1-1,0-0,Hibernian
+Sun Dec 12 2021,Hearts,0-2,0-2,Rangers
+Sun Dec 12 2021,Celtic,1-0,1-0,Motherwell
+Tue Dec 14 2021,Hibernian,1-0,1-0,Dundee
+Wed Dec 15 2021,Rangers,2-0,1-0,St Johnstone
+Wed Dec 15 2021,Ross County,1-2,0-1,Celtic
+Sat Dec 18 2021,Dundee,0-1,0-0,Hearts
+Sat Dec 18 2021,Livingston,1-1,0-1,Ross County
+Sat Dec 18 2021,Motherwell,2-0,1-0,St Johnstone
+Sat Dec 18 2021,Rangers,1-0,0-0,Dundee United
+Wed Dec 22 2021,Hibernian,1-0,0-0,Aberdeen
+Wed Dec 22 2021,St Johnstone,1-2,1-1,Ross County
+Wed Dec 22 2021,St Mirren,0-0,0-0,Celtic
+Sun Dec 26 2021,St Johnstone,1-3,0-2,Celtic
+Sun Dec 26 2021,Aberdeen,2-1,1-1,Dundee
+Sun Dec 26 2021,Dundee United,1-3,0-1,Hibernian
+Sun Dec 26 2021,Hearts,2-1,2-0,Ross County
+Sun Dec 26 2021,Motherwell,2-1,1-0,Livingston
+Sun Dec 26 2021,Rangers,2-0,2-0,St Mirren
+Mon Jan 17 2022,Celtic,2-0,2-0,Hibernian
+Tue Jan 18 2022,Aberdeen,1-1,0-1,Rangers
+Tue Jan 18 2022,Dundee United,1-2,0-1,St Mirren
+Tue Jan 18 2022,Hearts,2-0,0-0,St Johnstone
+Tue Jan 18 2022,Livingston,2-0,0-0,Dundee
+Tue Jan 18 2022,Ross County,3-1,1-0,Motherwell
+Tue Jan 25 2022,St Mirren,1-0,0-0,Aberdeen
+Wed Jan 26 2022,Dundee United,2-1,0-0,Ross County
+Wed Jan 26 2022,Hearts,1-2,0-2,Celtic
+Wed Jan 26 2022,Motherwell,0-0,0-0,Hibernian
+Wed Jan 26 2022,Rangers,1-0,0-0,Livingston
+Wed Jan 26 2022,St Johnstone,0-0,0-0,Dundee
+Sat Jan 29 2022,Ross County,3-3,2-1,Rangers
+Sat Jan 29 2022,Celtic,1-0,0-0,Dundee United
+Sat Jan 29 2022,Hearts,2-0,1-0,Motherwell
+Sat Jan 29 2022,Hibernian,2-3,2-1,Livingston
+Tue Feb 1 2022,Dundee,0-0,0-0,Dundee United
+Tue Feb 1 2022,Hibernian,0-0,0-0,Hearts
+Tue Feb 1 2022,Livingston,1-2,1-1,St Johnstone
+Tue Feb 1 2022,Ross County,1-1,0-0,Aberdeen
+Tue Feb 1 2022,St Mirren,1-1,0-0,Motherwell
+Wed Feb 2 2022,Celtic,3-0,3-0,Rangers
+Sat Feb 5 2022,Dundee,1-2,1-1,Ross County
+Sat Feb 5 2022,Hibernian,0-1,0-0,St Mirren
+Sat Feb 5 2022,Livingston,2-1,1-0,Aberdeen
+Sat Feb 5 2022,St Johnstone,0-0,0-0,Dundee United
+Sun Feb 6 2022,Motherwell,0-4,0-3,Celtic
+Sun Feb 6 2022,Rangers,5-0,1-0,Hearts
+Wed Feb 9 2022,Aberdeen,2-3,0-2,Celtic
+Wed Feb 9 2022,Dundee United,2-0,1-0,Motherwell
+Wed Feb 9 2022,Hearts,1-2,1-0,Dundee
+Wed Feb 9 2022,Rangers,2-0,1-0,Hibernian
+Wed Feb 9 2022,Ross County,1-1,0-0,Livingston
+Wed Feb 9 2022,St Mirren,2-1,1-1,St Johnstone
+Tue Feb 15 2022,Aberdeen,1-1,0-1,St Johnstone
+Sat Feb 19 2022,Hibernian,2-0,0-0,Ross County
+Sat Feb 19 2022,Livingston,1-1,0-0,St Mirren
+Sat Feb 19 2022,Motherwell,1-1,0-1,Aberdeen
+Sat Feb 19 2022,St Johnstone,2-1,1-1,Hearts
+Sun Feb 20 2022,Dundee United,1-1,1-0,Rangers
+Sun Feb 20 2022,Celtic,3-2,2-1,Dundee
+Sat Feb 26 2022,Aberdeen,1-1,1-1,Dundee United
+Sat Feb 26 2022,Dundee,0-4,0-3,Livingston
+Sat Feb 26 2022,Ross County,3-1,1-1,St Johnstone
+Sat Feb 26 2022,St Mirren,0-2,0-0,Hearts
+Sun Feb 27 2022,Hibernian,0-0,0-0,Celtic
+Sun Feb 27 2022,Rangers,2-2,2-0,Motherwell
+Wed Mar 2 2022,Celtic,2-0,0-0,St Mirren
+Wed Mar 2 2022,Dundee,0-0,0-0,Hibernian
+Wed Mar 2 2022,Hearts,2-0,1-0,Aberdeen
+Wed Mar 2 2022,Livingston,2-1,1-1,Dundee United
+Wed Mar 2 2022,Motherwell,0-1,0-1,Ross County
+Wed Mar 2 2022,St Johnstone,0-1,0-1,Rangers
+Sat Mar 5 2022,Dundee United,2-2,0-1,Hearts
+Sat Mar 5 2022,Hibernian,0-0,0-0,St Johnstone
+Sat Mar 5 2022,Motherwell,1-1,1-1,Dundee
+Sat Mar 5 2022,Rangers,1-0,0-0,Aberdeen
+Sat Mar 5 2022,Ross County,1-0,0-0,St Mirren
+Sun Mar 6 2022,Livingston,1-3,0-1,Celtic
+Wed Mar 9 2022,Dundee,0-1,0-0,St Mirren
+Sat Mar 19 2022,Aberdeen,3-1,1-1,Hibernian
+Sat Mar 19 2022,Celtic,4-0,3-0,Ross County
+Sat Mar 19 2022,Hearts,2-0,1-0,Livingston
+Sat Mar 19 2022,St Johnstone,2-1,1-1,Motherwell
+Sat Mar 19 2022,St Mirren,1-2,1-0,Dundee United
+Sun Mar 20 2022,Dundee,1-2,1-0,Rangers
+Sat Apr 2 2022,Dundee,2-2,0-1,Aberdeen
+Sat Apr 2 2022,Hibernian,1-1,1-1,Dundee United
+Sat Apr 2 2022,Motherwell,4-2,3-2,St Mirren
+Sat Apr 2 2022,Ross County,1-1,1-1,Hearts
+Sat Apr 2 2022,St Johnstone,1-0,1-0,Livingston
+Sun Apr 3 2022,Rangers,1-2,1-2,Celtic
+Sat Apr 9 2022,Aberdeen,0-1,0-0,Ross County
+Sat Apr 9 2022,Celtic,7-0,3-0,St Johnstone
+Sat Apr 9 2022,Dundee United,2-2,1-0,Dundee
+Sat Apr 9 2022,Hearts,3-1,1-1,Hibernian
+Sat Apr 9 2022,Livingston,2-2,1-0,Motherwell
+Sun Apr 10 2022,St Mirren,0-4,0-2,Rangers
+Sat Apr 23 2022,Motherwell,1-3,1-1,Rangers
+Sat Apr 23 2022,Aberdeen,1-2,0-1,Livingston
+Sat Apr 23 2022,Dundee,1-1,1-0,St Johnstone
+Sat Apr 23 2022,St Mirren,0-1,0-0,Hibernian
+Sun Apr 24 2022,Ross County,0-2,0-1,Celtic
+Sun Apr 24 2022,Dundee United,2-3,1-1,Hearts
+Sat Apr 30 2022,Aberdeen,1-0,0-0,Dundee
+Sat Apr 30 2022,Dundee United,1-0,1-0,Motherwell
+Sat Apr 30 2022,Hearts,0-0,0-0,Ross County
+Sat Apr 30 2022,Livingston,1-0,0-0,Hibernian
+Sat Apr 30 2022,St Johnstone,0-1,0-0,St Mirren
+Sun May 1 2022,Celtic,1-1,1-0,Rangers
+Sat May 7 2022,Celtic,4-1,2-1,Hearts
+Sat May 7 2022,Hibernian,1-1,0-0,Aberdeen
+Sat May 7 2022,Livingston,1-1,0-0,St Johnstone
+Sat May 7 2022,Ross County,0-1,0-0,Motherwell
+Sat May 7 2022,St Mirren,2-0,1-0,Dundee
+Sun May 8 2022,Rangers,2-0,0-0,Dundee United
+Tue May 10 2022,Dundee,3-1,1-1,Hibernian
+Wed May 11 2022,Dundee United,1-1,0-0,Celtic
+Wed May 11 2022,Motherwell,2-1,1-1,Hearts
+Wed May 11 2022,Rangers,4-1,2-0,Ross County
+Wed May 11 2022,St Johnstone,1-0,1-0,Aberdeen
+Wed May 11 2022,St Mirren,0-0,0-0,Livingston
+Sat May 14 2022,Celtic,6-0,3-0,Motherwell
+Sat May 14 2022,Hearts,1-3,1-2,Rangers
+Sat May 14 2022,Ross County,1-2,0-0,Dundee United
+Sun May 15 2022,Aberdeen,0-0,0-0,St Mirren
+Sun May 15 2022,Hibernian,4-0,1-0,St Johnstone
+Sun May 15 2022,Livingston,2-1,0-0,Dundee

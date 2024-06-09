@@ -1,0 +1,582 @@
+Date,Team 1,FT,HT,Team 2
+Thu Feb 10 2022,Patronato,0-1,?,Argentinos Jrs
+Thu Feb 10 2022,Sarmiento Junin,1-0,?,Atl. Tucuman
+Thu Feb 10 2022,Central Cordoba,3-1,?,Barracas Central
+Thu Feb 10 2022,Newells Old Boys,1-0,?,Defensa y Justicia
+Fri Feb 11 2022,Arsenal Sarandi,1-1,?,Rosario Central
+Fri Feb 11 2022,Godoy Cruz,1-1,?,Tigre
+Fri Feb 11 2022,Velez Sarsfield,2-0,?,Aldosivi
+Fri Feb 11 2022,Banfield,0-0,?,San Lorenzo
+Sat Feb 12 2022,Huracan,1-0,?,Lanus
+Sat Feb 12 2022,Union de Santa Fe,1-0,?,River Plate
+Sat Feb 12 2022,Estudiantes L.P.,2-1,?,Independiente
+Sun Feb 13 2022,Racing Club,0-0,?,Gimnasia L.P.
+Sun Feb 13 2022,Platense,1-0,?,Talleres Cordoba
+Sun Feb 13 2022,Boca Juniors,1-1,?,Colon Santa FE
+Tue Feb 15 2022,Argentinos Jrs,3-0,?,Newells Old Boys
+Tue Feb 15 2022,Independiente,1-0,?,Arsenal Sarandi
+Tue Feb 15 2022,Rosario Central,1-0,?,Velez Sarsfield
+Tue Feb 15 2022,Huracan,2-3,?,Estudiantes L.P.
+Tue Feb 15 2022,Lanus,2-0,?,Barracas Central
+Wed Feb 16 2022,Tigre,1-1,?,Central Cordoba
+Wed Feb 16 2022,Aldosivi,1-2,?,Boca Juniors
+Wed Feb 16 2022,River Plate,4-1,?,Patronato
+Thu Feb 17 2022,Colon Santa FE,3-1,?,Godoy Cruz
+Thu Feb 17 2022,Gimnasia L.P.,1-0,?,San Lorenzo
+Thu Feb 17 2022,Defensa y Justicia,2-2,?,Racing Club
+Thu Feb 17 2022,Sarmiento Junin,2-2,?,Banfield
+Thu Feb 17 2022,Atl. Tucuman,2-2,?,Platense
+Thu Feb 17 2022,Talleres Cordoba,0-0,?,Union de Santa Fe
+Sat Feb 19 2022,Arsenal Sarandi,2-1,?,Huracan
+Sat Feb 19 2022,Estudiantes L.P.,2-1,?,Lanus
+Sat Feb 19 2022,Velez Sarsfield,0-0,?,Independiente
+Sun Feb 20 2022,Platense,2-0,?,Sarmiento Junin
+Sun Feb 20 2022,Boca Juniors,2-1,?,Rosario Central
+Sun Feb 20 2022,Newells Old Boys,0-2,?,River Plate
+Mon Feb 21 2022,Barracas Central,0-2,?,Tigre
+Mon Feb 21 2022,Banfield,4-0,?,Gimnasia L.P.
+Mon Feb 21 2022,Godoy Cruz,0-2,?,Aldosivi
+Mon Feb 21 2022,San Lorenzo,3-4,?,Defensa y Justicia
+Tue Feb 22 2022,Patronato,0-0,?,Talleres Cordoba
+Tue Feb 22 2022,Union de Santa Fe,1-0,?,Atl. Tucuman
+Tue Feb 22 2022,Central Cordoba,0-2,?,Colon Santa FE
+Tue Feb 22 2022,Racing Club,3-0,?,Argentinos Jrs
+Thu Feb 24 2022,Huracan,2-0,?,Velez Sarsfield
+Fri Feb 25 2022,Defensa y Justicia,3-2,?,Gimnasia L.P.
+Fri Feb 25 2022,Platense,0-1,?,Banfield
+Sat Feb 26 2022,Colon Santa FE,2-1,?,Barracas Central
+Sat Feb 26 2022,Rosario Central,1-2,?,Godoy Cruz
+Sat Feb 26 2022,Aldosivi,0-0,?,Central Cordoba
+Sat Feb 26 2022,Independiente,2-2,?,Boca Juniors
+Sun Feb 27 2022,Estudiantes L.P.,3-2,?,Arsenal Sarandi
+Sun Feb 27 2022,Sarmiento Junin,2-1,?,Union de Santa Fe
+Sun Feb 27 2022,River Plate,2-2,?,Racing Club
+Sun Feb 27 2022,Argentinos Jrs,1-1,?,San Lorenzo
+Mon Feb 28 2022,Talleres Cordoba,1-2,?,Newells Old Boys
+Mon Feb 28 2022,Lanus,0-0,?,Tigre
+Tue Mar 1 2022,Atl. Tucuman,1-0,?,Patronato
+Thu Mar 3 2022,Central Cordoba,0-1,?,Rosario Central
+Fri Mar 4 2022,Union de Santa Fe,1-0,?,Platense
+Fri Mar 4 2022,Barracas Central,2-1,?,Aldosivi
+Fri Mar 4 2022,Gimnasia L.P.,2-2,?,Argentinos Jrs
+Sat Mar 5 2022,San Lorenzo,0-1,?,River Plate
+Sat Mar 5 2022,Patronato,0-1,?,Sarmiento Junin
+Sat Mar 5 2022,Racing Club,1-0,?,Talleres Cordoba
+Sun Mar 6 2022,Banfield,2-3,?,Defensa y Justicia
+Sun Mar 6 2022,Newells Old Boys,4-0,?,Atl. Tucuman
+Sun Mar 6 2022,Boca Juniors,0-1,?,Huracan
+Sun Mar 6 2022,Velez Sarsfield,1-1,?,Estudiantes L.P.
+Mon Mar 7 2022,Godoy Cruz,3-3,?,Independiente
+Mon Mar 7 2022,Arsenal Sarandi,2-2,?,Lanus
+Mon Mar 7 2022,Tigre,1-0,?,Colon Santa FE
+Fri Mar 11 2022,Arsenal Sarandi,0-0,?,Velez Sarsfield
+Fri Mar 11 2022,Platense,1-2,?,Patronato
+Sat Mar 12 2022,Aldosivi,1-0,?,Tigre
+Sat Mar 12 2022,Huracan,1-3,?,Godoy Cruz
+Sat Mar 12 2022,Rosario Central,1-3,?,Barracas Central
+Sat Mar 12 2022,Sarmiento Junin,2-2,?,Newells Old Boys
+Sat Mar 12 2022,Talleres Cordoba,0-1,?,San Lorenzo
+Sun Mar 13 2022,Lanus,1-1,?,Colon Santa FE
+Sun Mar 13 2022,Union de Santa Fe,2-1,?,Banfield
+Sun Mar 13 2022,River Plate,4-0,?,Gimnasia L.P.
+Sun Mar 13 2022,Estudiantes L.P.,0-1,?,Boca Juniors
+Mon Mar 14 2022,Atl. Tucuman,0-4,?,Racing Club
+Mon Mar 14 2022,Argentinos Jrs,0-1,?,Defensa y Justicia
+Mon Mar 14 2022,Independiente,1-1,?,Central Cordoba
+Fri Mar 18 2022,Aldosivi,3-1,?,Patronato
+Fri Mar 18 2022,Tigre,4-0,?,Platense
+Fri Mar 18 2022,Barracas Central,2-1,?,Sarmiento Junin
+Sat Mar 19 2022,Lanus,0-1,?,Banfield
+Sat Mar 19 2022,San Lorenzo,0-0,?,Huracan
+Sat Mar 19 2022,Colon Santa FE,0-0,?,Union de Santa Fe
+Sat Mar 19 2022,Independiente,1-2,?,Racing Club
+Sun Mar 20 2022,Rosario Central,0-1,?,Newells Old Boys
+Sun Mar 20 2022,Gimnasia L.P.,1-1,?,Estudiantes L.P.
+Sun Mar 20 2022,River Plate,0-1,?,Boca Juniors
+Tue Mar 22 2022,Talleres Cordoba,2-1,?,Godoy Cruz
+Mon Mar 21 2022,Defensa y Justicia,1-1,?,Arsenal Sarandi
+Tue Mar 22 2022,Atl. Tucuman,0-1,?,Central Cordoba
+Mon Mar 21 2022,Argentinos Jrs,1-0,?,Velez Sarsfield
+Thu Mar 31 2022,Colon Santa FE,1-3,?,Aldosivi
+Fri Apr 1 2022,Gimnasia L.P.,2-1,?,Talleres Cordoba
+Fri Apr 1 2022,Central Cordoba,2-2,?,Huracan
+Fri Apr 1 2022,Patronato,2-1,?,Union de Santa Fe
+Fri Apr 1 2022,Banfield,0-2,?,Argentinos Jrs
+Fri Apr 1 2022,Barracas Central,0-1,?,Independiente
+Sat Apr 2 2022,Racing Club,4-1,?,Sarmiento Junin
+Sat Apr 2 2022,Godoy Cruz,3-3,?,Estudiantes L.P.
+Sat Apr 2 2022,Velez Sarsfield,3-1,?,Lanus
+Sat Apr 2 2022,Defensa y Justicia,1-2,?,River Plate
+Sat Apr 2 2022,Boca Juniors,2-2,?,Arsenal Sarandi
+Sun Apr 3 2022,San Lorenzo,1-1,?,Atl. Tucuman
+Sun Apr 3 2022,Newells Old Boys,3-1,?,Platense
+Sun Apr 3 2022,Tigre,2-0,?,Rosario Central
+Fri Apr 8 2022,Arsenal Sarandi,3-3,?,Godoy Cruz
+Fri Apr 8 2022,Atl. Tucuman,1-2,?,Gimnasia L.P.
+Fri Apr 8 2022,Rosario Central,2-2,?,Colon Santa FE
+Fri Apr 8 2022,Sarmiento Junin,2-1,?,San Lorenzo
+Sat Apr 9 2022,Union de Santa Fe,1-0,?,Newells Old Boys
+Sat Apr 9 2022,Talleres Cordoba,1-5,?,Defensa y Justicia
+Sat Apr 9 2022,Independiente,1-1,?,Tigre
+Sat Apr 9 2022,Velez Sarsfield,0-0,?,Boca Juniors
+Sun Apr 10 2022,Estudiantes L.P.,5-0,?,Central Cordoba
+Sun Apr 10 2022,Patronato,0-1,?,Banfield
+Sun Apr 10 2022,Platense,0-1,?,Racing Club
+Sun Apr 10 2022,River Plate,4-2,?,Argentinos Jrs
+Mon Apr 11 2022,Huracan,1-2,?,Barracas Central
+Mon Apr 11 2022,Lanus,1-2,?,Aldosivi
+Thu Apr 14 2022,Gimnasia L.P.,1-3,?,Sarmiento Junin
+Fri Apr 15 2022,Tigre,2-1,?,Huracan
+Fri Apr 15 2022,Aldosivi,1-0,?,Rosario Central
+Fri Apr 15 2022,Central Cordoba,3-3,?,Arsenal Sarandi
+Fri Apr 15 2022,Newells Old Boys,1-0,?,Patronato
+Sat Apr 16 2022,San Lorenzo,2-2,?,Platense
+Sat Apr 16 2022,Colon Santa FE,2-2,?,Independiente
+Sat Apr 16 2022,Barracas Central,1-6,?,Estudiantes L.P.
+Sat Apr 16 2022,Racing Club,1-0,?,Union de Santa Fe
+Sun Apr 17 2022,Defensa y Justicia,1-1,?,Atl. Tucuman
+Sun Apr 17 2022,Godoy Cruz,0-0,?,Velez Sarsfield
+Sun Apr 17 2022,Argentinos Jrs,2-1,?,Talleres Cordoba
+Sun Apr 17 2022,Boca Juniors,1-1,?,Lanus
+Sun Apr 17 2022,Banfield,1-2,?,River Plate
+Tue Apr 19 2022,Arsenal Sarandi,0-1,?,Barracas Central
+Tue Apr 19 2022,Union de Santa Fe,1-2,?,San Lorenzo
+Tue Apr 19 2022,Estudiantes L.P.,2-1,?,Tigre
+Tue Apr 19 2022,Huracan,1-1,?,Colon Santa FE
+Tue Apr 19 2022,Independiente,1-1,?,Aldosivi
+Tue Apr 19 2022,Platense,0-3,?,Gimnasia L.P.
+Wed Apr 20 2022,Newells Old Boys,1-0,?,Banfield
+Wed Apr 20 2022,Patronato,2-3,?,Racing Club
+Wed Apr 20 2022,Velez Sarsfield,1-2,?,Central Cordoba
+Wed Apr 20 2022,Lanus,3-1,?,Rosario Central
+Wed Apr 20 2022,Talleres Cordoba,1-0,?,River Plate
+Wed Apr 20 2022,Boca Juniors,1-1,?,Godoy Cruz
+Thu Apr 21 2022,Sarmiento Junin,2-1,?,Defensa y Justicia
+Thu Apr 21 2022,Atl. Tucuman,2-4,?,Argentinos Jrs
+Fri Apr 22 2022,Colon Santa FE,2-2,?,Estudiantes L.P.
+Sat Apr 23 2022,Gimnasia L.P.,1-0,?,Union de Santa Fe
+Sat Apr 23 2022,San Lorenzo,1-2,?,Patronato
+Sat Apr 23 2022,Rosario Central,3-0,?,Independiente
+Sat Apr 23 2022,Central Cordoba,1-2,?,Boca Juniors
+Sat Apr 23 2022,Banfield,3-1,?,Talleres Cordoba
+Sat Apr 23 2022,Barracas Central,1-1,?,Velez Sarsfield
+Sun Apr 24 2022,Racing Club,0-0,?,Newells Old Boys
+Sun Apr 24 2022,River Plate,1-1,?,Atl. Tucuman
+Sun Apr 24 2022,Defensa y Justicia,1-1,?,Platense
+Sun Apr 24 2022,Godoy Cruz,1-1,?,Lanus
+Mon Apr 25 2022,Tigre,0-0,?,Arsenal Sarandi
+Mon Apr 25 2022,Aldosivi,0-2,?,Huracan
+Mon Apr 25 2022,Argentinos Jrs,0-0,?,Sarmiento Junin
+Wed Apr 27 2022,Newells Old Boys,1-2,?,San Lorenzo
+Fri Apr 29 2022,Estudiantes L.P.,2-1,?,Aldosivi
+Fri Apr 29 2022,Patronato,0-6,?,Gimnasia L.P.
+Sat Apr 30 2022,Atl. Tucuman,3-0,?,Talleres Cordoba
+Sat Apr 30 2022,Racing Club,1-1,?,Banfield
+Sat Apr 30 2022,Velez Sarsfield,3-2,?,Tigre
+Sat Apr 30 2022,Arsenal Sarandi,2-0,?,Colon Santa FE
+Sat Apr 30 2022,Boca Juniors,2-0,?,Barracas Central
+Sat Apr 30 2022,Lanus,1-0,?,Independiente
+Sat Apr 30 2022,Sarmiento Junin,0-7,?,River Plate
+Mon May 2 2022,Godoy Cruz,1-0,?,Central Cordoba
+Mon May 2 2022,Union de Santa Fe,1-2,?,Defensa y Justicia
+Mon May 2 2022,Huracan,2-1,?,Rosario Central
+Mon May 2 2022,Platense,1-1,?,Argentinos Jrs
+Fri May 6 2022,San Lorenzo,1-1,?,Racing Club
+Fri May 6 2022,Barracas Central,3-1,?,Godoy Cruz
+Sat May 7 2022,Aldosivi,1-2,?,Arsenal Sarandi
+Sat May 7 2022,Independiente,3-0,?,Huracan
+Sat May 7 2022,Tigre,0-2,?,Boca Juniors
+Sat May 7 2022,Rosario Central,3-1,?,Estudiantes L.P.
+Sun May 8 2022,Argentinos Jrs,2-1,?,Union de Santa Fe
+Sun May 8 2022,Defensa y Justicia,1-0,?,Patronato
+Sun May 8 2022,Gimnasia L.P.,3-1,?,Newells Old Boys
+Sun May 8 2022,Talleres Cordoba,1-0,?,Sarmiento Junin
+Sun May 8 2022,River Plate,2-1,?,Platense
+Mon May 9 2022,Central Cordoba,3-3,?,Lanus
+Mon May 9 2022,Colon Santa FE,1-2,?,Velez Sarsfield
+Mon May 9 2022,Banfield,1-1,?,Atl. Tucuman
+Tue May 10 2022,Racing Club,5-0,?,Aldosivi
+Tue May 10 2022,Boca Juniors,2-0,?,Defensa y Justicia
+Wed May 11 2022,Estudiantes L.P.,1-1,?,Argentinos Jrs
+Wed May 11 2022,River Plate,1-2,?,Tigre
+Sat May 14 2022,Boca Juniors,0-0,?,Racing Club
+Sun May 15 2022,Tigre,1-1,?,Argentinos Jrs
+Sun May 22 2022,Boca Juniors,3-0,?,Tigre
+Fri Jun 3 2022,Barracas Central,1-1,?,Central Cordoba
+Sat Jun 4 2022,Atl. Tucuman,1-1,?,Colon Santa FE
+Sat Jun 4 2022,San Lorenzo,1-1,?,Independiente
+Sat Jun 4 2022,Banfield,1-2,?,Newells Old Boys
+Sat Jun 4 2022,Patronato,1-1,?,Velez Sarsfield
+Sat Jun 4 2022,Platense,2-1,?,Godoy Cruz
+Sat Jun 4 2022,Racing Club,2-0,?,Huracan
+Sun Jun 5 2022,Talleres Cordoba,2-0,?,Sarmiento Junin
+Sun Jun 5 2022,Union de Santa Fe,1-2,?,Tigre
+Sun Jun 5 2022,Estudiantes L.P.,1-1,?,Gimnasia L.P.
+Sun Jun 5 2022,Boca Juniors,2-1,?,Arsenal Sarandi
+Sun Jun 5 2022,Defensa y Justicia,0-0,?,River Plate
+Mon Jun 6 2022,Rosario Central,0-0,?,Lanus
+Mon Jun 6 2022,Argentinos Jrs,2-1,?,Aldosivi
+Thu Jun 9 2022,Newells Old Boys,0-0,?,San Lorenzo
+Fri Jun 10 2022,Gimnasia L.P.,2-0,?,Patronato
+Fri Jun 10 2022,Aldosivi,0-1,?,Estudiantes L.P.
+Fri Jun 10 2022,Lanus,1-1,?,Defensa y Justicia
+Fri Jun 10 2022,Huracan,2-0,?,Rosario Central
+Fri Jun 10 2022,Independiente,1-0,?,Talleres Cordoba
+Sat Jun 11 2022,Arsenal Sarandi,0-0,?,Banfield
+Sat Jun 11 2022,Tigre,1-1,?,Barracas Central
+Sat Jun 11 2022,Sarmiento Junin,1-0,?,Argentinos Jrs
+Sat Jun 11 2022,River Plate,0-0,?,Atl. Tucuman
+Sun Jun 12 2022,Colon Santa FE,2-2,?,Union de Santa Fe
+Sun Jun 12 2022,Godoy Cruz,2-0,?,Racing Club
+Sun Jun 12 2022,Velez Sarsfield,0-1,?,Platense
+Sun Jun 12 2022,Central Cordoba,1-0,?,Boca Juniors
+Tue Jun 14 2022,San Lorenzo,3-3,?,Arsenal Sarandi
+Tue Jun 14 2022,Patronato,1-0,?,Aldosivi
+Tue Jun 14 2022,Talleres Cordoba,0-1,?,Newells Old Boys
+Tue Jun 14 2022,Defensa y Justicia,1-1,?,Huracan
+Tue Jun 14 2022,Estudiantes L.P.,2-1,?,Sarmiento Junin
+Wed Jun 15 2022,Barracas Central,1-2,?,Union de Santa Fe
+Wed Jun 15 2022,Atl. Tucuman,2-1,?,Lanus
+Wed Jun 15 2022,Banfield,2-1,?,Central Cordoba
+Wed Jun 15 2022,Colon Santa FE,1-0,?,River Plate
+Wed Jun 15 2022,Boca Juniors,5-3,?,Tigre
+Thu Jun 16 2022,Argentinos Jrs,2-1,?,Independiente
+Thu Jun 16 2022,Rosario Central,1-0,?,Godoy Cruz
+Thu Jun 16 2022,Platense,1-1,?,Gimnasia L.P.
+Thu Jun 16 2022,Racing Club,2-0,?,Velez Sarsfield
+Sat Jun 18 2022,Arsenal Sarandi,1-1,?,Talleres Cordoba
+Sat Jun 18 2022,Sarmiento Junin,3-1,?,Patronato
+Sun Jun 19 2022,Tigre,0-1,?,Banfield
+Sun Jun 19 2022,Huracan,0-0,?,Atl. Tucuman
+Sun Jun 19 2022,Lanus,1-0,?,Colon Santa Fe
+Sun Jun 19 2022,Union de Santa Fe,1-5,?,River Plate
+Sun Jun 19 2022,Barracas Central,1-3,?,Boca Juniors
+Mon Jun 20 2022,Godoy Cruz,2-1,?,Defensa y Justicia
+Mon Jun 20 2022,Gimnasia L.P.,3-1,?,Racing Club
+Mon Jun 20 2022,Velez Sarsfield,2-0,?,Rosario Central
+Mon Jun 20 2022,Independiente,2-1,?,Estudiantes L.P.
+Mon Jun 20 2022,Newells Old Boys,1-0,?,Argentinos Jrs
+Tue Jun 21 2022,Aldosivi,0-0,?,Platense
+Tue Jun 21 2022,Central Cordoba,0-2,?,San Lorenzo
+Fri Jun 24 2022,Banfield,1-1,?,Barracas Central
+Fri Jun 24 2022,Rosario Central,0-1,?,Gimnasia L.P.
+Fri Jun 24 2022,Boca Juniors,1-2,?,Union de Santa Fe
+Sat Jun 25 2022,Defensa y Justicia,1-1,?,Velez Sarsfield
+Sat Jun 25 2022,Talleres Cordoba,0-2,?,Central Cordoba
+Sat Jun 25 2022,Colon Santa Fe,0-1,?,Huracan
+Sat Jun 25 2022,Estudiantes L.P.,0-2,?,Newells Old Boys
+Sat Jun 25 2022,River Plate,2-1,?,Lanus
+Sun Jun 26 2022,San Lorenzo,1-1,?,Tigre
+Sun Jun 26 2022,Platense,0-0,?,Sarmiento Junin
+Sun Jun 26 2022,Racing Club,5-0,?,Aldosivi
+Sun Jun 26 2022,Argentinos Jrs,1-1,?,Arsenal Sarandi
+Mon Jun 27 2022,Patronato,3-1,?,Independiente
+Mon Jun 27 2022,Atl. Tucuman,1-1,?,Godoy Cruz
+Fri Jul 1 2022,Central Cordoba,1-2,?,Argentinos Jrs
+Fri Jul 1 2022,Boca Juniors,0-3,?,Banfield
+Sat Jul 2 2022,Tigre,1-1,?,Talleres Cordoba
+Sat Jul 2 2022,Godoy Cruz,1-0,?,Colon Santa Fe
+Sat Jul 2 2022,Velez Sarsfield,0-1,?,Atl. Tucuman
+Sat Jul 2 2022,Gimnasia L.P.,1-0,?,Defensa y Justicia
+Sun Jul 3 2022,Union de Santa Fe,3-0,?,Lanus
+Sun Jul 3 2022,Barracas Central,2-1,?,San Lorenzo
+Sun Jul 3 2022,Sarmiento Junin,1-1,?,Racing Club
+Sun Jul 3 2022,Huracan,3-2,?,River Plate
+Mon Jul 4 2022,Arsenal Sarandi,2-1,?,Estudiantes L.P.
+Mon Jul 4 2022,Aldosivi,2-1,?,Rosario Central
+Mon Jul 4 2022,Newells Old Boys,2-2,?,Patronato
+Mon Jul 4 2022,Independiente,1-3,?,Platense
+Fri Jul 8 2022,Rosario Central,1-0,?,Sarmiento Junin
+Sat Jul 9 2022,Patronato,0-1,?,Arsenal Sarandi
+Sat Jul 9 2022,San Lorenzo,2-1,?,Boca Juniors
+Sat Jul 9 2022,Banfield,2-3,?,Union de Santa Fe
+Sat Jul 9 2022,Platense,1-1,?,Newells Old Boys
+Sat Jul 9 2022,Talleres Cordoba,0-2,?,Barracas Central
+Sun Jul 10 2022,Estudiantes L.P.,2-2,?,Central Cordoba
+Sun Jul 10 2022,Racing Club,1-0,?,Independiente
+Sun Jul 10 2022,Atl. Tucuman,2-0,?,Gimnasia L.P.
+Sun Jul 10 2022,Lanus,2-3,?,Huracan
+Sun Jul 10 2022,River Plate,0-2,?,Godoy Cruz
+Mon Jul 11 2022,Colon Santa Fe,2-1,?,Velez Sarsfield
+Mon Jul 11 2022,Defensa y Justicia,3-2,?,Aldosivi
+Mon Jul 11 2022,Argentinos Jrs,2-1,?,Tigre
+Thu Jul 14 2022,Central Cordoba,1-3,?,Patronato
+Fri Jul 15 2022,Sarmiento Junin,2-0,?,Defensa y Justicia
+Fri Jul 15 2022,Aldosivi,0-1,?,Atl. Tucuman
+Fri Jul 15 2022,Arsenal Sarandi,1-1,?,Platense
+Sat Jul 16 2022,Barracas Central,1-3,?,Argentinos Jrs
+Sat Jul 16 2022,Gimnasia L.P.,0-0,?,Colon Santa Fe
+Sat Jul 16 2022,Independiente,0-0,?,Rosario Central
+Sat Jul 16 2022,Newells Old Boys,0-0,?,Racing Club
+Sat Jul 16 2022,Boca Juniors,1-0,?,Talleres Cordoba
+Sun Jul 17 2022,Godoy Cruz,2-1,?,Lanus
+Sun Jul 17 2022,Union de Santa Fe,0-0,?,Huracan
+Sun Jul 17 2022,Banfield,1-1,?,San Lorenzo
+Sun Jul 17 2022,Tigre,2-1,?,Estudiantes L.P.
+Sun Jul 17 2022,Velez Sarsfield,2-2,?,River Plate
+Tue Jul 19 2022,Colon Santa Fe,1-1,?,Aldosivi
+Tue Jul 19 2022,Platense,2-0,?,Central Cordoba
+Tue Jul 19 2022,Atl. Tucuman,1-0,?,Sarmiento Junin
+Tue Jul 19 2022,Racing Club,1-1,?,Arsenal Sarandi
+Tue Jul 19 2022,Argentinos Jrs,2-0,?,Boca Juniors
+Wed Jul 20 2022,San Lorenzo,2-2,?,Union de Santa Fe
+Wed Jul 20 2022,Patronato,1-0,?,Tigre
+Wed Jul 20 2022,Defensa y Justicia,2-1,?,Independiente
+Wed Jul 20 2022,Estudiantes L.P.,3-1,?,Barracas Central
+Wed Jul 20 2022,Huracan,0-0,?,Godoy Cruz
+Wed Jul 20 2022,Lanus,2-2,?,Velez Sarsfield
+Thu Jul 21 2022,Rosario Central,1-0,?,Newells Old Boys
+Thu Jul 21 2022,Talleres Cordoba,1-0,?,Banfield
+Thu Jul 21 2022,River Plate,1-0,?,Gimnasia L.P.
+Sat Jul 23 2022,Sarmiento Junin,1-3,?,Colon Santa Fe
+Sat Jul 23 2022,Central Cordoba,1-3,?,Racing Club
+Sun Jul 24 2022,Independiente,0-1,?,Atl. Tucuman
+Sun Jul 24 2022,Tigre,3-0,?,Platense
+Sun Jul 24 2022,Aldosivi,0-3,?,River Plate
+Sun Jul 24 2022,Gimnasia L.P.,1-0,?,Lanus
+Sun Jul 24 2022,Boca Juniors,3-1,?,Estudiantes L.P.
+Mon Jul 25 2022,San Lorenzo,1-1,?,Talleres Cordoba
+Mon Jul 25 2022,Banfield,1-1,?,Argentinos Jrs
+Mon Jul 25 2022,Newells Old Boys,1-2,?,Defensa y Justicia
+Mon Jul 25 2022,Union de Santa Fe,2-1,?,Godoy Cruz
+Mon Jul 25 2022,Velez Sarsfield,1-1,?,Huracan
+Tue Jul 26 2022,Arsenal Sarandi,0-3,?,Rosario Central
+Tue Jul 26 2022,Barracas Central,2-1,?,Patronato
+Fri Jul 29 2022,Godoy Cruz,1-1,?,Velez Sarsfield
+Sat Jul 30 2022,Argentinos Jrs,0-1,?,San Lorenzo
+Sat Jul 30 2022,Estudiantes L.P.,0-0,?,Banfield
+Sat Jul 30 2022,Atl. Tucuman,2-0,?,Newells Old Boys
+Sat Jul 30 2022,Huracan,0-1,?,Gimnasia L.P.
+Sun Jul 31 2022,Lanus,0-1,?,Aldosivi
+Sun Jul 31 2022,Platense,0-0,?,Barracas Central
+Sun Jul 31 2022,Racing Club,3-3,?,Tigre
+Sun Jul 31 2022,Patronato,3-0,?,Boca Juniors
+Sun Jul 31 2022,River Plate,1-2,?,Sarmiento Junin
+Mon Aug 1 2022,Defensa y Justicia,0-0,?,Arsenal Sarandi
+Mon Aug 1 2022,Rosario Central,0-3,?,Central Cordoba
+Mon Aug 1 2022,Colon Santa Fe,0-3,?,Independiente
+Fri Aug 5 2022,Gimnasia L.P.,2-0,?,Godoy Cruz
+Fri Aug 5 2022,Banfield,0-0,?,Patronato
+Fri Aug 5 2022,Sarmiento Junin,2-1,?,Lanus
+Sat Aug 6 2022,Arsenal Sarandi,3-1,?,Atl. Tucuman
+Sat Aug 6 2022,Barracas Central,0-0,?,Racing Club
+Sat Aug 6 2022,Talleres Cordoba,2-0,?,Argentinos Jrs
+Sat Aug 6 2022,Union de Santa Fe,2-1,?,Velez Sarsfield
+Sat Aug 6 2022,Boca Juniors,2-1,?,Platense
+Sun Aug 7 2022,Aldosivi,0-1,?,Huracan
+Sun Aug 7 2022,San Lorenzo,0-0,?,Estudiantes L.P.
+Sun Aug 7 2022,Independiente,0-1,?,River Plate
+Sun Aug 7 2022,Newells Old Boys,0-0,?,Colon Santa Fe
+Mon Aug 8 2022,Central Cordoba,1-0,?,Defensa y Justicia
+Mon Aug 8 2022,Tigre,3-1,?,Rosario Central
+Thu Aug 11 2022,Godoy Cruz,2-0,?,Aldosivi
+Thu Aug 11 2022,Atl. Tucuman,1-0,?,Central Cordoba
+Thu Aug 11 2022,Colon Santa Fe,1-1,?,Arsenal Sarandi
+Fri Aug 12 2022,Huracan,4-1,?,Sarmiento Junin
+Fri Aug 12 2022,Platense,3-1,?,Banfield
+Fri Aug 12 2022,Patronato,3-2,?,San Lorenzo
+Sat Aug 13 2022,Defensa y Justicia,0-0,?,Tigre
+Sat Aug 13 2022,Rosario Central,3-1,?,Barracas Central
+Sat Aug 13 2022,Lanus,1-1,?,Independiente
+Sat Aug 13 2022,River Plate,4-1,?,Newells Old Boys
+Sun Aug 14 2022,Velez Sarsfield,1-1,?,Gimnasia L.P.
+Sun Aug 14 2022,Argentinos Jrs,2-0,?,Union de Santa Fe
+Sun Aug 14 2022,Estudiantes L.P.,1-0,?,Talleres Cordoba
+Sun Aug 14 2022,Racing Club,0-0,?,Boca Juniors
+Tue Aug 16 2022,Central Cordoba,3-0,?,Colon Santa Fe
+Tue Aug 16 2022,Sarmiento Junin,1-2,?,Godoy Cruz
+Tue Aug 16 2022,San Lorenzo,2-0,?,Platense
+Tue Aug 16 2022,Independiente,1-1,?,Huracan
+Wed Aug 17 2022,Newells Old Boys,2-0,?,Lanus
+Wed Aug 17 2022,Tigre,0-0,?,Atl. Tucuman
+Wed Aug 17 2022,Arsenal Sarandi,0-0,?,River Plate
+Wed Aug 17 2022,Boca Juniors,0-0,?,Rosario Central
+Thu Aug 18 2022,Barracas Central,3-1,?,Defensa y Justicia
+Thu Aug 18 2022,Aldosivi,3-2,?,Velez Sarsfield
+Thu Aug 18 2022,Talleres Cordoba,3-3,?,Patronato
+Thu Aug 18 2022,Union de Santa Fe,0-2,?,Gimnasia L.P.
+Thu Aug 18 2022,Argentinos Jrs,1-0,?,Estudiantes L.P.
+Thu Aug 18 2022,Banfield,0-2,?,Racing Club
+Sat Aug 20 2022,Colon Santa Fe,2-1,?,Tigre
+Sat Aug 20 2022,Huracan,1-0,?,Newells Old Boys
+Sun Aug 21 2022,Lanus,1-0,?,Arsenal Sarandi
+Sun Aug 21 2022,Godoy Cruz,1-1,?,Independiente
+Sun Aug 21 2022,River Plate,3-0,?,Central Cordoba
+Sun Aug 21 2022,Defensa y Justicia,0-1,?,Boca Juniors
+Mon Aug 22 2022,Estudiantes L.P.,1-0,?,Union de Santa Fe
+Mon Aug 22 2022,Rosario Central,0-1,?,Banfield
+Mon Aug 22 2022,Racing Club,1-2,?,San Lorenzo
+Mon Aug 22 2022,Platense,0-0,?,Talleres Cordoba
+Mon Aug 22 2022,Velez Sarsfield,1-1,?,Sarmiento Junin
+Tue Aug 23 2022,Patronato,0-0,?,Argentinos Jrs
+Tue Aug 23 2022,Atl. Tucuman,4-0,?,Barracas Central
+Tue Aug 23 2022,Gimnasia L.P.,0-0,?,Aldosivi
+Fri Aug 26 2022,Central Cordoba,2-2,?,Lanus
+Fri Aug 26 2022,Arsenal Sarandi,1-1,?,Huracan
+Sat Aug 27 2022,San Lorenzo,1-1,?,Rosario Central
+Sat Aug 27 2022,Banfield,1-2,?,Defensa y Justicia
+Sat Aug 27 2022,Newells Old Boys,1-2,?,Godoy Cruz
+Sat Aug 27 2022,Argentinos Jrs,0-2,?,Platense
+Sat Aug 27 2022,Talleres Cordoba,1-1,?,Racing Club
+Sat Aug 27 2022,Tigre,1-1,?,River Plate
+Sun Aug 28 2022,Barracas Central,1-0,?,Colon Santa Fe
+Sun Aug 28 2022,Sarmiento Junin,0-0,?,Gimnasia L.P.
+Sun Aug 28 2022,Independiente,1-1,?,Velez Sarsfield
+Sun Aug 28 2022,Boca Juniors,2-1,?,Atl. Tucuman
+Sun Aug 28 2022,Estudiantes L.P.,1-0,?,Patronato
+Sun Aug 28 2022,Union de Santa Fe,0-0,?,Aldosivi
+Thu Sep 1 2022,Huracan,2-0,?,Central Cordoba
+Sat Sep 3 2022,Lanus,1-2,?,Tigre
+Sat Sep 3 2022,Rosario Central,1-0,?,Talleres Cordoba
+Sat Sep 3 2022,Aldosivi,1-2,?,Sarmiento Junin
+Sat Sep 3 2022,Velez Sarsfield,0-1,?,Newells Old Boys
+Sat Sep 3 2022,Racing Club,1-0,?,Argentinos Jrs
+Sat Sep 3 2022,Gimnasia L.P.,3-1,?,Independiente
+Sun Sep 4 2022,Patronato,0-0,?,Union de Santa Fe
+Sun Sep 4 2022,Platense,0-0,?,Estudiantes L.P.
+Sun Sep 4 2022,Colon Santa Fe,1-2,?,Boca Juniors
+Sun Sep 4 2022,River Plate,2-0,?,Barracas Central
+Mon Sep 5 2022,Defensa y Justicia,0-0,?,San Lorenzo
+Mon Sep 5 2022,Godoy Cruz,1-0,?,Arsenal Sarandi
+Mon Sep 5 2022,Atl. Tucuman,0-0,?,Banfield
+Thu Sep 8 2022,Independiente,3-0,?,Aldosivi
+Thu Sep 8 2022,Argentinos Jrs,2-1,?,Rosario Central
+Thu Sep 8 2022,Union de Santa Fe,1-0,?,Sarmiento Junin
+Fri Sep 9 2022,Barracas Central,2-0,?,Lanus
+Fri Sep 9 2022,Patronato,1-0,?,Platense
+Fri Sep 9 2022,Estudiantes L.P.,1-0,?,Racing Club
+Fri Sep 9 2022,Tigre,1-1,?,Huracan
+Sat Sep 10 2022,Central Cordoba,3-0,?,Godoy Cruz
+Sat Sep 10 2022,San Lorenzo,1-1,?,Atl. Tucuman
+Sat Sep 10 2022,Banfield,2-1,?,Colon Santa Fe
+Sun Sep 11 2022,Arsenal Sarandi,2-2,?,Velez Sarsfield
+Sun Sep 11 2022,Newells Old Boys,2-0,?,Gimnasia L.P.
+Sun Sep 11 2022,Boca Juniors,1-0,?,River Plate
+Sun Sep 11 2022,Talleres Cordoba,1-0,?,Defensa y Justicia
+Mon Sep 12 2022,Sarmiento Junin,1-2,?,Independiente
+Tue Sep 13 2022,Godoy Cruz,1-1,?,Tigre
+Tue Sep 13 2022,Huracan,1-1,?,Barracas Central
+Tue Sep 13 2022,Platense,1-0,?,Union de Santa Fe
+Tue Sep 13 2022,Racing Club,1-0,?,Patronato
+Wed Sep 14 2022,Aldosivi,1-2,?,Newells Old Boys
+Wed Sep 14 2022,Colon Santa Fe,0-0,?,San Lorenzo
+Wed Sep 14 2022,River Plate,1-2,?,Banfield
+Wed Sep 14 2022,Lanus,0-1,?,Boca Juniors
+Thu Sep 15 2022,Defensa y Justicia,2-1,?,Argentinos Jrs
+Thu Sep 15 2022,Rosario Central,1-1,?,Estudiantes L.P.
+Thu Sep 15 2022,Atl. Tucuman,1-1,?,Talleres Cordoba
+Thu Sep 15 2022,Gimnasia L.P.,2-0,?,Arsenal Sarandi
+Sat Sep 17 2022,Barracas Central,3-1,?,Godoy Cruz
+Sat Sep 17 2022,Newells Old Boys,0-1,?,Sarmiento Junin
+Sun Sep 18 2022,Tigre,2-0,?,Velez Sarsfield
+Sun Sep 18 2022,San Lorenzo,0-1,?,River Plate
+Sun Sep 18 2022,Banfield,1-2,?,Lanus
+Sun Sep 18 2022,Platense,0-1,?,Racing Club
+Sun Sep 18 2022,Talleres Cordoba,2-0,?,Colon Santa Fe
+Mon Sep 19 2022,Arsenal Sarandi,3-0,?,Aldosivi
+Mon Sep 19 2022,Boca Juniors,0-0,?,Huracan
+Mon Sep 19 2022,Union de Santa Fe,0-1,?,Independiente
+Mon Sep 19 2022,Argentinos Jrs,1-2,?,Atl. Tucuman
+Mon Sep 19 2022,Estudiantes L.P.,1-2,?,Defensa y Justicia
+Tue Sep 20 2022,Patronato,0-0,?,Rosario Central
+Tue Sep 20 2022,Central Cordoba,1-0,?,Gimnasia L.P.
+Fri Sep 23 2022,Godoy Cruz,0-1,?,Boca Juniors
+Fri Sep 23 2022,Huracan,3-1,?,Banfield
+Sat Sep 24 2022,Defensa y Justicia,2-1,?,Patronato
+Sat Sep 24 2022,Sarmiento Junin,2-0,?,Arsenal Sarandi
+Sat Sep 24 2022,Lanus,2-0,?,San Lorenzo
+Sat Sep 24 2022,River Plate,0-1,?,Talleres Cordoba
+Sat Sep 24 2022,Independiente,1-0,?,Newells Old Boys
+Sun Sep 25 2022,Gimnasia L.P.,0-1,?,Tigre
+Sun Sep 25 2022,Rosario Central,1-1,?,Platense
+Sun Sep 25 2022,Racing Club,2-1,?,Union de Santa Fe
+Sun Sep 25 2022,Atl. Tucuman,3-1,?,Estudiantes L.P.
+Sun Sep 25 2022,Velez Sarsfield,1-0,?,Barracas Central
+Mon Sep 26 2022,Aldosivi,0-3,?,Central Cordoba
+Mon Sep 26 2022,Colon Santa Fe,0-4,?,Argentinos Jrs
+Thu Sep 29 2022,Barracas Central,1-1,?,Gimnasia L.P.
+Fri Sep 30 2022,Estudiantes L.P.,2-4,?,Colon Santa Fe
+Fri Sep 30 2022,Tigre,3-0,?,Aldosivi
+Fri Sep 30 2022,Racing Club,4-3,?,Rosario Central
+Fri Sep 30 2022,Union de Santa Fe,0-1,?,Newells Old Boys
+Sat Oct 1 2022,Central Cordoba,0-0,?,Sarmiento Junin
+Sat Oct 1 2022,Platense,0-0,?,Defensa y Justicia
+Sat Oct 1 2022,San Lorenzo,1-0,?,Huracan
+Sat Oct 1 2022,Banfield,1-1,?,Godoy Cruz
+Sat Oct 1 2022,Arsenal Sarandi,0-1,?,Independiente
+Sun Oct 2 2022,Patronato,2-1,?,Atl. Tucuman
+Sun Oct 2 2022,Boca Juniors,1-0,?,Velez Sarsfield
+Sun Oct 2 2022,Talleres Cordoba,0-1,?,Lanus
+Sun Oct 2 2022,Argentinos Jrs,0-3,?,River Plate
+Mon Oct 3 2022,Rosario Central,1-1,?,Union de Santa Fe
+Tue Oct 4 2022,Aldosivi,2-0,?,Barracas Central
+Tue Oct 4 2022,Godoy Cruz,0-0,?,San Lorenzo
+Tue Oct 4 2022,Newells Old Boys,0-0,?,Arsenal Sarandi
+Tue Oct 4 2022,Sarmiento Junin,2-2,?,Tigre
+Tue Oct 4 2022,Velez Sarsfield,1-0,?,Banfield
+Wed Oct 5 2022,Colon Santa Fe,1-0,?,Patronato
+Wed Oct 5 2022,Atl. Tucuman,2-1,?,Platense
+Wed Oct 5 2022,Defensa y Justicia,3-3,?,Racing Club
+Wed Oct 5 2022,Independiente,1-2,?,Central Cordoba
+Wed Oct 5 2022,River Plate,5-0,?,Estudiantes L.P.
+Thu Oct 6 2022,Huracan,1-0,?,Talleres Cordoba
+Thu Oct 6 2022,Lanus,0-4,?,Argentinos Jrs
+Sat Oct 8 2022,Barracas Central,1-1,?,Sarmiento Junin
+Sat Oct 8 2022,San Lorenzo,1-0,?,Velez Sarsfield
+Sat Oct 8 2022,Union de Santa Fe,1-0,?,Arsenal Sarandi
+Sat Oct 8 2022,Platense,1-2,?,Colon Santa Fe
+Sun Oct 9 2022,Tigre,2-1,?,Independiente
+Sun Oct 9 2022,Banfield,0-2,?,Gimnasia L.P.
+Sun Oct 9 2022,Talleres Cordoba,3-1,?,Godoy Cruz
+Sun Oct 9 2022,Boca Juniors,2-1,?,Aldosivi
+Sun Oct 9 2022,Patronato,0-1,?,River Plate
+Mon Oct 10 2022,Argentinos Jrs,1-1,?,Huracan
+Mon Oct 10 2022,Rosario Central,0-0,?,Defensa y Justicia
+Mon Oct 10 2022,Estudiantes L.P.,3-1,?,Lanus
+Mon Oct 10 2022,Racing Club,2-0,?,Atl. Tucuman
+Mon Oct 10 2022,Central Cordoba,0-3,?,Newells Old Boys
+Wed Oct 12 2022,Aldosivi,0-1,?,Banfield
+Wed Oct 12 2022,Sarmiento Junin,0-1,?,Boca Juniors
+Wed Oct 12 2022,Gimnasia L.P.,0-1,?,San Lorenzo
+Wed Oct 12 2022,Independiente,2-2,?,Barracas Central
+Wed Oct 12 2022,River Plate,2-1,?,Platense
+Thu Oct 13 2022,Velez Sarsfield,2-1,?,Talleres Cordoba
+Thu Oct 13 2022,Godoy Cruz,0-0,?,Argentinos Jrs
+Thu Oct 13 2022,Lanus,0-1,?,Patronato
+Thu Oct 13 2022,Atl. Tucuman,1-1,?,Rosario Central
+Thu Oct 13 2022,Newells Old Boys,0-2,?,Tigre
+Fri Oct 14 2022,Colon Santa Fe,0-2,?,Racing Club
+Fri Oct 14 2022,Huracan,3-1,?,Estudiantes L.P.
+Fri Oct 14 2022,Defensa y Justicia,1-0,?,Union de Santa Fe
+Fri Oct 14 2022,Arsenal Sarandi,2-0,?,Central Cordoba
+Sun Oct 16 2022,Aldosivi,1-3,?,Talleres Cordoba
+Sun Oct 16 2022,Newells Old Boys,2-0,?,Boca Juniors
+Sun Oct 16 2022,Independiente,1-0,?,Banfield
+Sun Oct 16 2022,Godoy Cruz,0-1,?,Patronato
+Sun Oct 16 2022,River Plate,1-2,?,Rosario Central
+Mon Oct 17 2022,Arsenal Sarandi,1-2,?,Barracas Central
+Mon Oct 17 2022,Gimnasia L.P.,0-0,?,Argentinos Jrs
+Mon Oct 17 2022,Velez Sarsfield,4-0,?,Estudiantes L.P.
+Mon Oct 17 2022,Sarmiento Junin,2-4,?,San Lorenzo
+Mon Oct 17 2022,Atl. Tucuman,1-1,?,Union de Santa Fe
+Tue Oct 18 2022,Colon Santa Fe,1-2,?,Defensa y Justicia
+Tue Oct 18 2022,Lanus,0-1,?,Racing Club
+Tue Oct 18 2022,Huracan,2-0,?,Platense
+Tue Oct 18 2022,Central Cordoba,1-2,?,Tigre
+Wed Oct 19 2022,Talleres Cordoba,2-2,?,Union de Santa Fe
+Thu Oct 20 2022,Gimnasia L.P.,1-2,?,Boca Juniors
+Sat Oct 22 2022,Union de Santa Fe,1-4,?,Central Cordoba
+Sat Oct 22 2022,Defensa y Justicia,3-1,?,Atl. Tucuman
+Sat Oct 22 2022,Estudiantes L.P.,2-0,?,Godoy Cruz
+Sat Oct 22 2022,San Lorenzo,3-0,?,Aldosivi
+Sat Oct 22 2022,Argentinos Jrs,2-0,?,Velez Sarsfield
+Sun Oct 23 2022,Banfield,0-0,?,Sarmiento Junin
+Sun Oct 23 2022,Talleres Cordoba,2-1,?,Gimnasia L.P.
+Sun Oct 23 2022,Boca Juniors,2-2,?,Independiente
+Sun Oct 23 2022,Patronato,3-2,?,Huracan
+Sun Oct 23 2022,Racing Club,1-2,?,River Plate
+Mon Oct 24 2022,Barracas Central,1-1,?,Newells Old Boys
+Mon Oct 24 2022,Rosario Central,1-1,?,Colon Santa Fe
+Mon Oct 24 2022,Tigre,1-4,?,Arsenal Sarandi
+Tue Oct 25 2022,Velez Sarsfield,3-1,?,Central Cordoba
+Tue Oct 25 2022,Platense,1-1,?,Lanus
