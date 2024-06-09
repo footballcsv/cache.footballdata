@@ -1,0 +1,502 @@
+Date,Team 1,FT,HT,Team 2
+Fri Feb 12 2021,Banfield,2-0,?,Racing Club
+Fri Feb 12 2021,Central Cordoba,0-3,?,Colon Santa FE
+Fri Feb 12 2021,Union de Santa Fe,2-2,?,Atl. Tucuman
+Sat Feb 13 2021,Aldosivi,1-2,?,Godoy Cruz
+Sat Feb 13 2021,Talleres Cordoba,1-0,?,Patronato
+Sat Feb 13 2021,Velez Sarsfield,1-0,?,Newells Old Boys
+Sat Feb 13 2021,San Lorenzo,2-1,?,Arsenal Sarandi
+Sun Feb 14 2021,Defensa y Justicia,3-2,?,Huracan
+Sun Feb 14 2021,Boca Juniors,2-2,?,Gimnasia L.P.
+Sun Feb 14 2021,Estudiantes L.P.,2-1,?,River Plate
+Mon Feb 15 2021,Rosario Central,2-1,?,Argentinos Jrs
+Mon Feb 15 2021,Independiente,0-1,?,Lanus
+Fri Feb 19 2021,Gimnasia L.P.,3-0,?,Talleres Cordoba
+Fri Feb 19 2021,Arsenal Sarandi,0-2,?,Banfield
+Sat Feb 20 2021,Godoy Cruz,0-2,?,Estudiantes L.P.
+Sat Feb 20 2021,Lanus,2-1,?,Defensa y Justicia
+Sat Feb 20 2021,Racing Club,2-2,?,Aldosivi
+Sat Feb 20 2021,River Plate,3-0,?,Rosario Central
+Sun Feb 21 2021,Argentinos Jrs,0-1,?,Platense
+Sun Feb 21 2021,Sarmiento Junin,1-2,?,Velez Sarsfield
+Sun Feb 21 2021,Patronato,0-1,?,Independiente
+Sun Feb 21 2021,Newells Old Boys,0-1,?,Boca Juniors
+Mon Feb 22 2021,Atl. Tucuman,1-2,?,Central Cordoba
+Mon Feb 22 2021,Huracan,1-1,?,Union de Santa Fe
+Mon Feb 22 2021,Colon Santa FE,2-0,?,San Lorenzo
+Fri Feb 26 2021,Aldosivi,3-0,?,Arsenal Sarandi
+Fri Feb 26 2021,Defensa y Justicia,1-0,?,Patronato
+Fri Feb 26 2021,Argentinos Jrs,0-2,?,Velez Sarsfield
+Sat Feb 27 2021,Banfield,0-3,?,Colon Santa FE
+Sat Feb 27 2021,Talleres Cordoba,2-2,?,Newells Old Boys
+Sat Feb 27 2021,Independiente,1-0,?,Gimnasia L.P.
+Sat Feb 27 2021,San Lorenzo,0-4,?,Central Cordoba
+Sun Feb 28 2021,Platense,0-1,?,River Plate
+Sun Feb 28 2021,Estudiantes L.P.,0-0,?,Racing Club
+Sun Feb 28 2021,Boca Juniors,1-1,?,Sarmiento Junin
+Mon Mar 1 2021,Union de Santa Fe,3-2,?,Lanus
+Mon Mar 1 2021,Rosario Central,2-2,?,Godoy Cruz
+Fri Mar 5 2021,Newells Old Boys,1-2,?,Independiente
+Fri Mar 5 2021,Central Cordoba,1-1,?,Banfield
+Sat Mar 6 2021,Godoy Cruz,3-1,?,Platense
+Sat Mar 6 2021,Sarmiento Junin,1-1,?,Talleres Cordoba
+Sat Mar 6 2021,Colon Santa FE,2-1,?,Aldosivi
+Sat Mar 6 2021,Lanus,2-1,?,Atl. Tucuman
+Sat Mar 6 2021,San Lorenzo,1-1,?,Huracan
+Sun Mar 7 2021,Arsenal Sarandi,0-5,?,Estudiantes L.P.
+Sun Mar 7 2021,Gimnasia L.P.,1-1,?,Defensa y Justicia
+Sun Mar 7 2021,Patronato,0-1,?,Union de Santa Fe
+Sun Mar 7 2021,Velez Sarsfield,1-7,?,Boca Juniors
+Mon Mar 8 2021,Racing Club,1-0,?,Rosario Central
+Mon Mar 8 2021,River Plate,0-1,?,Argentinos Jrs
+Wed Mar 10 2021,Platense,1-1,?,Sarmiento Junin
+Fri Mar 12 2021,Aldosivi,1-2,?,Central Cordoba
+Fri Mar 12 2021,Huracan,0-0,?,Lanus
+Fri Mar 12 2021,Union de Santa Fe,1-1,?,Gimnasia L.P.
+Sat Mar 13 2021,Platense,0-2,?,Racing Club
+Sat Mar 13 2021,Talleres Cordoba,0-1,?,Velez Sarsfield
+Sat Mar 13 2021,Argentinos Jrs,2-0,?,Godoy Cruz
+Sat Mar 13 2021,Defensa y Justicia,4-0,?,Newells Old Boys
+Sat Mar 13 2021,Estudiantes L.P.,0-2,?,Colon Santa FE
+Sun Mar 14 2021,Boca Juniors,1-1,?,River Plate
+Sun Mar 14 2021,Banfield,0-0,?,San Lorenzo
+Mon Mar 15 2021,Atl. Tucuman,4-2,?,Patronato
+Mon Mar 15 2021,Rosario Central,2-1,?,Arsenal Sarandi
+Mon Mar 15 2021,Independiente,6-0,?,Sarmiento Junin
+Fri Mar 19 2021,Newells Old Boys,0-0,?,Union de Santa Fe
+Fri Mar 19 2021,Central Cordoba,1-1,?,Estudiantes L.P.
+Sat Mar 20 2021,Gimnasia L.P.,2-0,?,Atl. Tucuman
+Sat Mar 20 2021,Patronato,0-1,?,Huracan
+Sat Mar 20 2021,Banfield,2-0,?,Lanus
+Sat Mar 20 2021,Velez Sarsfield,1-0,?,Independiente
+Sat Mar 20 2021,Godoy Cruz,1-6,?,River Plate
+Sun Mar 21 2021,Sarmiento Junin,3-1,?,Defensa y Justicia
+Sun Mar 21 2021,Colon Santa FE,0-0,?,Rosario Central
+Sun Mar 21 2021,San Lorenzo,1-2,?,Aldosivi
+Sun Mar 21 2021,Boca Juniors,1-2,?,Talleres Cordoba
+Mon Mar 22 2021,Arsenal Sarandi,0-0,?,Platense
+Mon Mar 22 2021,Racing Club,1-0,?,Argentinos Jrs
+Wed Mar 24 2021,Atl. Tucuman,1-1,?,Huracan
+Fri Mar 26 2021,Lanus,4-2,?,Patronato
+Fri Mar 26 2021,Union de Santa Fe,0-0,?,Sarmiento Junin
+Sat Mar 27 2021,Platense,1-3,?,Colon Santa FE
+Sat Mar 27 2021,Aldosivi,1-1,?,Banfield
+Sat Mar 27 2021,Argentinos Jrs,3-2,?,Arsenal Sarandi
+Sat Mar 27 2021,Rosario Central,2-2,?,Central Cordoba
+Sun Mar 28 2021,Talleres Cordoba,1-1,?,Godoy Cruz
+Sun Mar 28 2021,Defensa y Justicia,1-1,?,Velez Sarsfield
+Sun Mar 28 2021,River Plate,0-0,?,Racing Club
+Sun Mar 28 2021,Independiente,1-1,?,Boca Juniors
+Mon Mar 29 2021,Estudiantes L.P.,0-2,?,San Lorenzo
+Mon Mar 29 2021,Atl. Tucuman,2-2,?,Newells Old Boys
+Mon Mar 29 2021,Huracan,1-1,?,Gimnasia L.P.
+Fri Apr 2 2021,Patronato,2-0,?,Aldosivi
+Fri Apr 2 2021,San Lorenzo,2-0,?,Rosario Central
+Fri Apr 2 2021,Central Cordoba,0-1,?,Platense
+Sat Apr 3 2021,Talleres Cordoba,3-1,?,Independiente
+Sat Apr 3 2021,Gimnasia L.P.,2-4,?,Lanus
+Sat Apr 3 2021,Sarmiento Junin,1-2,?,Atl. Tucuman
+Sat Apr 3 2021,Boca Juniors,2-1,?,Defensa y Justicia
+Sat Apr 3 2021,Arsenal Sarandi,0-0,?,River Plate
+Sun Apr 4 2021,Newells Old Boys,2-2,?,Huracan
+Sun Apr 4 2021,Colon Santa FE,0-0,?,Argentinos Jrs
+Sun Apr 4 2021,Velez Sarsfield,4-1,?,Union de Santa Fe
+Sun Apr 4 2021,Racing Club,2-4,?,Godoy Cruz
+Mon Apr 5 2021,Banfield,2-2,?,Estudiantes L.P.
+Fri Apr 9 2021,Platense,2-4,?,San Lorenzo
+Sat Apr 10 2021,Estudiantes L.P.,1-0,?,Aldosivi
+Sat Apr 10 2021,Defensa y Justicia,2-2,?,Talleres Cordoba
+Sat Apr 10 2021,Racing Club,1-0,?,Independiente
+Sun Apr 11 2021,Godoy Cruz,2-3,?,Arsenal Sarandi
+Sun Apr 11 2021,Argentinos Jrs,0-0,?,Central Cordoba
+Sun Apr 11 2021,Patronato,4-1,?,Gimnasia L.P.
+Sun Apr 11 2021,Rosario Central,3-1,?,Banfield
+Sun Apr 11 2021,Union de Santa Fe,1-0,?,Boca Juniors
+Sun Apr 11 2021,River Plate,3-2,?,Colon Santa FE
+Mon Apr 12 2021,Huracan,3-0,?,Sarmiento Junin
+Mon Apr 12 2021,Lanus,1-3,?,Newells Old Boys
+Mon Apr 12 2021,Atl. Tucuman,2-0,?,Velez Sarsfield
+Fri Apr 16 2021,Talleres Cordoba,3-0,?,Union de Santa Fe
+Fri Apr 16 2021,Aldosivi,0-1,?,Rosario Central
+Fri Apr 16 2021,Velez Sarsfield,2-0,?,Huracan
+Fri Apr 16 2021,Central Cordoba,0-5,?,River Plate
+Sat Apr 17 2021,Sarmiento Junin,1-0,?,Lanus
+Sat Apr 17 2021,San Lorenzo,1-1,?,Argentinos Jrs
+Sat Apr 17 2021,Boca Juniors,3-1,?,Atl. Tucuman
+Sat Apr 17 2021,Newells Old Boys,2-0,?,Patronato
+Sun Apr 18 2021,Arsenal Sarandi,2-1,?,Racing Club
+Sun Apr 18 2021,Estudiantes L.P.,0-0,?,Gimnasia L.P.
+Sun Apr 18 2021,Independiente,1-0,?,Defensa y Justicia
+Sun Apr 18 2021,Colon Santa FE,2-2,?,Godoy Cruz
+Mon Apr 19 2021,Banfield,0-1,?,Platense
+Fri Apr 23 2021,Godoy Cruz,1-0,?,Central Cordoba
+Sat Apr 24 2021,Patronato,1-0,?,Sarmiento Junin
+Sat Apr 24 2021,Argentinos Jrs,1-1,?,Banfield
+Sat Apr 24 2021,Huracan,0-2,?,Boca Juniors
+Sat Apr 24 2021,Union de Santa Fe,0-0,?,Independiente
+Sun Apr 25 2021,Lanus,1-2,?,Velez Sarsfield
+Sun Apr 25 2021,Defensa y Justicia,0-1,?,Arsenal Sarandi
+Sun Apr 25 2021,Racing Club,2-1,?,Colon Santa FE
+Sun Apr 25 2021,River Plate,1-2,?,San Lorenzo
+Sun Apr 25 2021,Atl. Tucuman,2-3,?,Talleres Cordoba
+Sun Apr 25 2021,Rosario Central,0-1,?,Estudiantes L.P.
+Mon Apr 26 2021,Platense,0-2,?,Aldosivi
+Mon Apr 26 2021,Gimnasia L.P.,2-1,?,Newells Old Boys
+Fri Apr 30 2021,Velez Sarsfield,1-0,?,Patronato
+Fri Apr 30 2021,Colon Santa FE,2-0,?,Arsenal Sarandi
+Sun May 2 2021,Boca Juniors,1-0,?,Lanus
+Sun May 2 2021,Defensa y Justicia,0-1,?,Union de Santa Fe
+Sun May 2 2021,Independiente,0-1,?,Atl. Tucuman
+Sun May 2 2021,San Lorenzo,1-0,?,Godoy Cruz
+Sun May 2 2021,Talleres Cordoba,1-1,?,Huracan
+Sun May 2 2021,Banfield,1-0,?,River Plate
+Sun May 2 2021,Aldosivi,1-3,?,Argentinos Jrs
+Sun May 2 2021,Central Cordoba,1-0,?,Racing Club
+Sun May 2 2021,Rosario Central,3-0,?,Newells Old Boys
+Mon May 3 2021,Sarmiento Junin,0-0,?,Gimnasia L.P.
+Mon May 3 2021,Estudiantes L.P.,2-0,?,Platense
+Sat May 8 2021,Godoy Cruz,0-1,?,Banfield
+Sat May 8 2021,Atl. Tucuman,5-0,?,Defensa y Justicia
+Sat May 8 2021,Gimnasia L.P.,0-5,?,Velez Sarsfield
+Sat May 8 2021,Patronato,1-0,?,Boca Juniors
+Sun May 9 2021,Arsenal Sarandi,1-1,?,Central Cordoba
+Sun May 9 2021,Argentinos Jrs,2-0,?,Estudiantes L.P.
+Sun May 9 2021,Platense,4-1,?,Rosario Central
+Sun May 9 2021,Racing Club,2-0,?,San Lorenzo
+Sun May 9 2021,River Plate,4-1,?,Aldosivi
+Sun May 9 2021,Colon Santa FE,1-1,?,Union de Santa Fe
+Sun May 9 2021,Huracan,1-3,?,Independiente
+Sun May 9 2021,Lanus,1-0,?,Talleres Cordoba
+Sun May 9 2021,Newells Old Boys,1-1,?,Sarmiento Junin
+Sat May 15 2021,Estudiantes L.P.,0-0,?,Independiente
+Sat May 15 2021,Colon Santa FE,1-1,?,Talleres Cordoba
+Sun May 16 2021,Velez Sarsfield,0-0,?,Racing Club
+Sun May 16 2021,Boca Juniors,1-1,?,River Plate
+Mon May 31 2021,Racing Club,0-0,?,Boca Juniors
+Mon May 31 2021,Independiente,0-2,?,Colon Santa FE
+Fri Jun 4 2021,Colon Santa FE,3-0,?,Racing Club
+Fri Jul 16 2021,Union de Santa Fe,1-1,?,Boca Juniors
+Fri Jul 16 2021,Sarmiento Junin,0-3,?,Estudiantes L.P.
+Sat Jul 17 2021,Aldosivi,0-2,?,Patronato
+Sat Jul 17 2021,Lanus,4-2,?,Atl. Tucuman
+Sat Jul 17 2021,Newells Old Boys,3-2,?,Talleres Cordoba
+Sat Jul 17 2021,Gimnasia L.P.,2-2,?,Platense
+Sat Jul 17 2021,Velez Sarsfield,0-0,?,Racing Club
+Sun Jul 18 2021,Huracan,2-1,?,Defensa y Justicia
+Sun Jul 18 2021,Arsenal Sarandi,1-1,?,San Lorenzo
+Sun Jul 18 2021,River Plate,1-2,?,Colon Santa FE
+Sun Jul 18 2021,Independiente,0-0,?,Argentinos Jrs
+Mon Jul 19 2021,Central Cordoba,1-1,?,Banfield
+Mon Jul 19 2021,Godoy Cruz,2-1,?,Rosario Central
+Fri Jul 23 2021,Atl. Tucuman,1-0,?,Huracan
+Fri Jul 23 2021,Platense,0-1,?,Aldosivi
+Sat Jul 24 2021,Colon Santa FE,1-4,?,Lanus
+Sat Jul 24 2021,San Lorenzo,1-0,?,Central Cordoba
+Sat Jul 24 2021,Racing Club,0-0,?,Gimnasia L.P.
+Sat Jul 24 2021,Banfield,0-0,?,Boca Juniors
+Sun Jul 25 2021,Defensa y Justicia,1-2,?,Godoy Cruz
+Sun Jul 25 2021,Patronato,2-0,?,Sarmiento Junin
+Sun Jul 25 2021,Rosario Central,1-0,?,Velez Sarsfield
+Sun Jul 25 2021,River Plate,4-0,?,Union de Santa Fe
+Sun Jul 25 2021,Estudiantes L.P.,0-1,?,Independiente
+Mon Jul 26 2021,Talleres Cordoba,2-0,?,Arsenal Sarandi
+Mon Jul 26 2021,Argentinos Jrs,1-0,?,Newells Old Boys
+Tue Jul 27 2021,Huracan,1-1,?,Colon Santa FE
+Tue Jul 27 2021,Aldosivi,0-2,?,Racing Club
+Tue Jul 27 2021,Boca Juniors,0-2,?,San Lorenzo
+Wed Jul 28 2021,Godoy Cruz,1-2,?,Atl. Tucuman
+Wed Jul 28 2021,Union de Santa Fe,0-1,?,Banfield
+Wed Jul 28 2021,Sarmiento Junin,1-0,?,Platense
+Wed Jul 28 2021,Velez Sarsfield,0-0,?,Defensa y Justicia
+Wed Jul 28 2021,Independiente,2-0,?,Patronato
+Wed Jul 28 2021,Lanus,0-3,?,River Plate
+Thu Jul 29 2021,Central Cordoba,2-1,?,Talleres Cordoba
+Thu Jul 29 2021,Arsenal Sarandi,1-0,?,Argentinos Jrs
+Thu Jul 29 2021,Gimnasia L.P.,1-0,?,Rosario Central
+Thu Jul 29 2021,Newells Old Boys,4-2,?,Estudiantes L.P.
+Sat Jul 31 2021,Colon Santa FE,1-0,?,Godoy Cruz
+Sat Jul 31 2021,Lanus,1-1,?,Union de Santa Fe
+Sat Jul 31 2021,Racing Club,1-0,?,Sarmiento Junin
+Sat Jul 31 2021,Platense,1-1,?,Independiente
+Sun Aug 1 2021,Defensa y Justicia,3-2,?,Gimnasia L.P.
+Sun Aug 1 2021,Talleres Cordoba,0-0,?,Boca Juniors
+Sun Aug 1 2021,River Plate,1-1,?,Huracan
+Sun Aug 1 2021,San Lorenzo,1-1,?,Banfield
+Mon Aug 2 2021,Argentinos Jrs,1-1,?,Central Cordoba
+Mon Aug 2 2021,Patronato,0-0,?,Newells Old Boys
+Mon Aug 2 2021,Estudiantes L.P.,4-0,?,Arsenal Sarandi
+Mon Aug 2 2021,Rosario Central,1-2,?,Aldosivi
+Mon Aug 2 2021,Atl. Tucuman,0-0,?,Velez Sarsfield
+Fri Aug 6 2021,Sarmiento Junin,1-0,?,Rosario Central
+Fri Aug 6 2021,Newells Old Boys,1-0,?,Platense
+Sat Aug 7 2021,Banfield,0-1,?,Talleres Cordoba
+Sat Aug 7 2021,Union de Santa Fe,4-0,?,San Lorenzo
+Sat Aug 7 2021,Huracan,0-1,?,Lanus
+Sat Aug 7 2021,Godoy Cruz,2-1,?,River Plate
+Sun Aug 8 2021,Gimnasia L.P.,1-0,?,Atl. Tucuman
+Sun Aug 8 2021,Velez Sarsfield,0-1,?,Colon Santa FE
+Sun Aug 8 2021,Boca Juniors,1-1,?,Argentinos Jrs
+Sun Aug 8 2021,Independiente,1-0,?,Racing Club
+Mon Aug 9 2021,Aldosivi,1-0,?,Defensa y Justicia
+Mon Aug 9 2021,Arsenal Sarandi,2-2,?,Patronato
+Mon Aug 9 2021,Central Cordoba,1-2,?,Estudiantes L.P.
+Fri Aug 13 2021,Colon Santa FE,1-0,?,Gimnasia L.P.
+Fri Aug 13 2021,Huracan,0-0,?,Union de Santa Fe
+Sat Aug 14 2021,Atl. Tucuman,2-2,?,Aldosivi
+Sat Aug 14 2021,Argentinos Jrs,2-0,?,Banfield
+Sat Aug 14 2021,River Plate,2-0,?,Velez Sarsfield
+Sat Aug 14 2021,Rosario Central,1-2,?,Independiente
+Sun Aug 15 2021,Patronato,1-0,?,Central Cordoba
+Sun Aug 15 2021,Platense,2-1,?,Arsenal Sarandi
+Sun Aug 15 2021,Estudiantes L.P.,1-0,?,Boca Juniors
+Sun Aug 15 2021,Racing Club,2-0,?,Newells Old Boys
+Mon Aug 16 2021,Talleres Cordoba,2-0,?,San Lorenzo
+Mon Aug 16 2021,Defensa y Justicia,4-2,?,Sarmiento Junin
+Mon Aug 16 2021,Lanus,3-1,?,Godoy Cruz
+Fri Aug 20 2021,Aldosivi,3-0,?,Colon Santa FE
+Fri Aug 20 2021,Banfield,1-1,?,Estudiantes L.P.
+Fri Aug 20 2021,Sarmiento Junin,3-0,?,Atl. Tucuman
+Fri Aug 20 2021,Independiente,0-0,?,Defensa y Justicia
+Sat Aug 21 2021,Central Cordoba,2-2,?,Platense
+Sat Aug 21 2021,Godoy Cruz,1-1,?,Huracan
+Sat Aug 21 2021,Velez Sarsfield,5-1,?,Lanus
+Sat Aug 21 2021,Arsenal Sarandi,0-3,?,Racing Club
+Sat Aug 21 2021,Boca Juniors,1-0,?,Patronato
+Sun Aug 22 2021,Union de Santa Fe,1-2,?,Talleres Cordoba
+Sun Aug 22 2021,Newells Old Boys,1-1,?,Rosario Central
+Sun Aug 22 2021,San Lorenzo,0-1,?,Argentinos Jrs
+Sun Aug 22 2021,Gimnasia L.P.,1-1,?,River Plate
+Tue Aug 24 2021,Patronato,1-1,?,Banfield
+Tue Aug 24 2021,Colon Santa FE,1-1,?,Sarmiento Junin
+Tue Aug 24 2021,Atl. Tucuman,2-0,?,Independiente
+Tue Aug 24 2021,Racing Club,0-0,?,Central Cordoba
+Wed Aug 25 2021,Rosario Central,4-0,?,Arsenal Sarandi
+Wed Aug 25 2021,Defensa y Justicia,2-0,?,Newells Old Boys
+Wed Aug 25 2021,Lanus,2-0,?,Gimnasia L.P.
+Wed Aug 25 2021,Huracan,1-1,?,Velez Sarsfield
+Wed Aug 25 2021,Platense,1-3,?,Boca Juniors
+Thu Aug 26 2021,Godoy Cruz,1-2,?,Union de Santa Fe
+Thu Aug 26 2021,Argentinos Jrs,1-2,?,Talleres Cordoba
+Thu Aug 26 2021,Estudiantes L.P.,2-0,?,San Lorenzo
+Thu Aug 26 2021,River Plate,2-0,?,Aldosivi
+Sat Aug 28 2021,Gimnasia L.P.,0-0,?,Huracan
+Sat Aug 28 2021,Banfield,2-4,?,Platense
+Sat Aug 28 2021,Independiente,3-0,?,Colon Santa FE
+Sun Aug 29 2021,Arsenal Sarandi,0-0,?,Defensa y Justicia
+Sun Aug 29 2021,Aldosivi,2-3,?,Lanus
+Sun Aug 29 2021,Central Cordoba,2-4,?,Rosario Central
+Sun Aug 29 2021,Velez Sarsfield,3-0,?,Godoy Cruz
+Sun Aug 29 2021,Boca Juniors,0-0,?,Racing Club
+Mon Aug 30 2021,Newells Old Boys,1-2,?,Atl. Tucuman
+Mon Aug 30 2021,Union de Santa Fe,1-0,?,Argentinos Jrs
+Mon Aug 30 2021,San Lorenzo,3-0,?,Patronato
+Mon Aug 30 2021,Sarmiento Junin,1-2,?,River Plate
+Mon Aug 30 2021,Talleres Cordoba,2-0,?,Estudiantes L.P.
+Fri Sep 3 2021,Defensa y Justicia,1-1,?,Central Cordoba
+Fri Sep 3 2021,Huracan,2-0,?,Aldosivi
+Sat Sep 4 2021,Atl. Tucuman,0-0,?,Arsenal Sarandi
+Sat Sep 4 2021,Colon Santa FE,1-1,?,Newells Old Boys
+Sat Sep 4 2021,Lanus,1-1,?,Sarmiento Junin
+Sat Sep 4 2021,Platense,1-1,?,San Lorenzo
+Sat Sep 4 2021,Rosario Central,1-2,?,Boca Juniors
+Sun Sep 5 2021,Godoy Cruz,4-0,?,Gimnasia L.P.
+Sun Sep 5 2021,Patronato,0-0,?,Talleres Cordoba
+Sun Sep 5 2021,Racing Club,0-0,?,Banfield
+Sun Sep 5 2021,River Plate,1-1,?,Independiente
+Mon Sep 6 2021,Estudiantes L.P.,1-1,?,Argentinos Jrs
+Mon Sep 6 2021,Velez Sarsfield,4-0,?,Union de Santa Fe
+Mon Sep 13 2021,Aldosivi,1-4,?,Godoy Cruz
+Mon Sep 13 2021,Sarmiento Junin,0-0,?,Huracan
+Mon Sep 13 2021,Independiente,0-1,?,Lanus
+Mon Sep 13 2021,San Lorenzo,1-1,?,Racing Club
+Mon Sep 13 2021,Gimnasia L.P.,0-0,?,Velez Sarsfield
+Tue Sep 14 2021,Talleres Cordoba,2-1,?,Platense
+Tue Sep 14 2021,Arsenal Sarandi,0-0,?,Colon Santa FE
+Tue Sep 14 2021,Central Cordoba,2-0,?,Atl. Tucuman
+Tue Sep 14 2021,Boca Juniors,0-0,?,Defensa y Justicia
+Wed Sep 15 2021,Union de Santa Fe,0-2,?,Estudiantes L.P.
+Wed Sep 15 2021,Argentinos Jrs,1-1,?,Patronato
+Wed Sep 15 2021,Banfield,1-2,?,Rosario Central
+Wed Sep 15 2021,Newells Old Boys,1-4,?,River Plate
+Sat Sep 18 2021,Godoy Cruz,1-1,?,Sarmiento Junin
+Sat Sep 18 2021,Velez Sarsfield,3-2,?,Aldosivi
+Sat Sep 18 2021,Racing Club,1-2,?,Talleres Cordoba
+Sat Sep 18 2021,Atl. Tucuman,1-2,?,Boca Juniors
+Sun Sep 19 2021,Patronato,1-2,?,Estudiantes L.P.
+Sun Sep 19 2021,Colon Santa FE,1-0,?,Central Cordoba
+Sun Sep 19 2021,Platense,0-0,?,Argentinos Jrs
+Sun Sep 19 2021,Huracan,0-1,?,Independiente
+Sun Sep 19 2021,River Plate,1-0,?,Arsenal Sarandi
+Mon Sep 20 2021,Gimnasia L.P.,1-0,?,Union de Santa Fe
+Mon Sep 20 2021,Lanus,1-2,?,Newells Old Boys
+Mon Sep 20 2021,Rosario Central,1-0,?,San Lorenzo
+Mon Sep 20 2021,Defensa y Justicia,0-0,?,Banfield
+Fri Sep 24 2021,Sarmiento Junin,0-1,?,Velez Sarsfield
+Fri Sep 24 2021,Estudiantes L.P.,1-1,?,Platense
+Sat Sep 25 2021,Aldosivi,1-3,?,Gimnasia L.P.
+Sat Sep 25 2021,Arsenal Sarandi,1-0,?,Lanus
+Sat Sep 25 2021,Talleres Cordoba,4-1,?,Rosario Central
+Sat Sep 25 2021,Banfield,2-0,?,Atl. Tucuman
+Sat Sep 25 2021,Central Cordoba,1-3,?,River Plate
+Sun Sep 26 2021,Union de Santa Fe,2-0,?,Patronato
+Sun Sep 26 2021,San Lorenzo,2-1,?,Defensa y Justicia
+Sun Sep 26 2021,Independiente,1-4,?,Godoy Cruz
+Sun Sep 26 2021,Boca Juniors,1-0,?,Colon Santa FE
+Mon Sep 27 2021,Argentinos Jrs,2-0,?,Racing Club
+Mon Sep 27 2021,Newells Old Boys,0-1,?,Huracan
+Fri Oct 1 2021,Aldosivi,1-2,?,Union de Santa Fe
+Fri Oct 1 2021,Lanus,2-1,?,Central Cordoba
+Sat Oct 2 2021,Godoy Cruz,2-2,?,Newells Old Boys
+Sat Oct 2 2021,Platense,0-0,?,Patronato
+Sat Oct 2 2021,Huracan,1-0,?,Arsenal Sarandi
+Sat Oct 2 2021,Atl. Tucuman,0-0,?,San Lorenzo
+Sat Oct 2 2021,Velez Sarsfield,3-3,?,Independiente
+Sun Oct 3 2021,Gimnasia L.P.,0-1,?,Sarmiento Junin
+Sun Oct 3 2021,Rosario Central,0-1,?,Argentinos Jrs
+Sun Oct 3 2021,River Plate,2-1,?,Boca Juniors
+Sun Oct 3 2021,Racing Club,1-1,?,Estudiantes L.P.
+Mon Oct 4 2021,Defensa y Justicia,3-0,?,Talleres Cordoba
+Mon Oct 4 2021,Colon Santa FE,0-0,?,Banfield
+Fri Oct 8 2021,Union de Santa Fe,1-2,?,Platense
+Fri Oct 8 2021,Central Cordoba,1-2,?,Huracan
+Fri Oct 8 2021,Estudiantes L.P.,2-2,?,Rosario Central
+Fri Oct 8 2021,Newells Old Boys,1-2,?,Velez Sarsfield
+Sat Oct 9 2021,Argentinos Jrs,0-2,?,Defensa y Justicia
+Sat Oct 9 2021,Sarmiento Junin,3-0,?,Aldosivi
+Sat Oct 9 2021,Patronato,1-2,?,Racing Club
+Sat Oct 9 2021,Banfield,0-1,?,River Plate
+Sat Oct 9 2021,Boca Juniors,4-2,?,Lanus
+Mon Oct 11 2021,Arsenal Sarandi,0-0,?,Godoy Cruz
+Mon Oct 11 2021,San Lorenzo,1-2,?,Colon Santa FE
+Mon Oct 11 2021,Independiente,1-1,?,Gimnasia L.P.
+Mon Oct 11 2021,Talleres Cordoba,2-0,?,Atl. Tucuman
+Fri Oct 15 2021,Godoy Cruz,0-0,?,Central Cordoba
+Fri Oct 15 2021,Rosario Central,3-2,?,Patronato
+Fri Oct 15 2021,Racing Club,0-1,?,Platense
+Fri Oct 15 2021,Defensa y Justicia,2-1,?,Estudiantes L.P.
+Fri Oct 15 2021,Velez Sarsfield,0-0,?,Arsenal Sarandi
+Sat Oct 16 2021,Sarmiento Junin,3-4,?,Union de Santa Fe
+Sat Oct 16 2021,Gimnasia L.P.,1-0,?,Newells Old Boys
+Sat Oct 16 2021,Lanus,1-1,?,Banfield
+Sat Oct 16 2021,Huracan,0-3,?,Boca Juniors
+Sun Oct 17 2021,Atl. Tucuman,4-3,?,Argentinos Jrs
+Sun Oct 17 2021,Colon Santa FE,1-0,?,Talleres Cordoba
+Sun Oct 17 2021,Aldosivi,1-0,?,Independiente
+Sun Oct 17 2021,River Plate,3-1,?,San Lorenzo
+Tue Oct 19 2021,Platense,1-1,?,Rosario Central
+Tue Oct 19 2021,Union de Santa Fe,1-1,?,Racing Club
+Tue Oct 19 2021,Patronato,3-3,?,Defensa y Justicia
+Tue Oct 19 2021,Central Cordoba,1-2,?,Velez Sarsfield
+Wed Oct 20 2021,Arsenal Sarandi,0-1,?,Gimnasia L.P.
+Wed Oct 20 2021,San Lorenzo,1-3,?,Lanus
+Wed Oct 20 2021,Banfield,1-4,?,Huracan
+Wed Oct 20 2021,Estudiantes L.P.,1-1,?,Atl. Tucuman
+Wed Oct 20 2021,Boca Juniors,2-1,?,Godoy Cruz
+Thu Oct 21 2021,Argentinos Jrs,3-1,?,Colon Santa FE
+Thu Oct 21 2021,Newells Old Boys,0-0,?,Aldosivi
+Thu Oct 21 2021,Independiente,1-1,?,Sarmiento Junin
+Thu Oct 21 2021,Talleres Cordoba,0-2,?,River Plate
+Sat Oct 23 2021,Gimnasia L.P.,2-2,?,Central Cordoba
+Sat Oct 23 2021,Defensa y Justicia,2-1,?,Platense
+Sat Oct 23 2021,Rosario Central,2-1,?,Racing Club
+Sun Oct 24 2021,Colon Santa FE,2-1,?,Estudiantes L.P.
+Sun Oct 24 2021,Godoy Cruz,2-1,?,Banfield
+Sun Oct 24 2021,Huracan,2-1,?,San Lorenzo
+Sun Oct 24 2021,Velez Sarsfield,2-0,?,Boca Juniors
+Mon Oct 25 2021,Aldosivi,2-1,?,Arsenal Sarandi
+Mon Oct 25 2021,Sarmiento Junin,2-1,?,Newells Old Boys
+Mon Oct 25 2021,Atl. Tucuman,2-2,?,Patronato
+Mon Oct 25 2021,Lanus,3-3,?,Talleres Cordoba
+Mon Oct 25 2021,River Plate,3-0,?,Argentinos Jrs
+Mon Oct 25 2021,Independiente,1-0,?,Union de Santa Fe
+Fri Oct 29 2021,Racing Club,1-2,?,Defensa y Justicia
+Fri Oct 29 2021,Argentinos Jrs,0-1,?,Lanus
+Sat Oct 30 2021,Arsenal Sarandi,1-0,?,Sarmiento Junin
+Sat Oct 30 2021,Platense,4-1,?,Atl. Tucuman
+Sat Oct 30 2021,Banfield,2-1,?,Velez Sarsfield
+Sat Oct 30 2021,Talleres Cordoba,1-0,?,Huracan
+Sat Oct 30 2021,Boca Juniors,0-1,?,Gimnasia L.P.
+Sun Oct 31 2021,San Lorenzo,1-0,?,Godoy Cruz
+Sun Oct 31 2021,Union de Santa Fe,3-1,?,Rosario Central
+Sun Oct 31 2021,Newells Old Boys,1-0,?,Independiente
+Sun Oct 31 2021,Estudiantes L.P.,1-1,?,River Plate
+Mon Nov 1 2021,Patronato,2-0,?,Colon Santa FE
+Mon Nov 1 2021,Central Cordoba,0-0,?,Aldosivi
+Fri Nov 5 2021,Defensa y Justicia,3-0,?,Rosario Central
+Fri Nov 5 2021,Lanus,1-1,?,Estudiantes L.P.
+Sat Nov 6 2021,Colon Santa FE,3-0,?,Platense
+Sat Nov 6 2021,Godoy Cruz,0-2,?,Talleres Cordoba
+Sat Nov 6 2021,Independiente,3-0,?,Arsenal Sarandi
+Sat Nov 6 2021,Atl. Tucuman,0-2,?,Racing Club
+Sun Nov 7 2021,Gimnasia L.P.,0-1,?,Banfield
+Sun Nov 7 2021,Sarmiento Junin,1-3,?,Central Cordoba
+Sun Nov 7 2021,Velez Sarsfield,2-1,?,San Lorenzo
+Sun Nov 7 2021,River Plate,5-0,?,Patronato
+Mon Nov 8 2021,Newells Old Boys,1-0,?,Union de Santa Fe
+Mon Nov 8 2021,Huracan,1-1,?,Argentinos Jrs
+Mon Nov 8 2021,Aldosivi,0-3,?,Boca Juniors
+Thu Nov 18 2021,Union de Santa Fe,2-3,?,Defensa y Justicia
+Thu Nov 18 2021,Patronato,3-2,?,Lanus
+Thu Nov 18 2021,Banfield,0-2,?,Aldosivi
+Fri Nov 19 2021,Estudiantes L.P.,4-1,?,Huracan
+Fri Nov 19 2021,San Lorenzo,0-1,?,Gimnasia L.P.
+Fri Nov 19 2021,Argentinos Jrs,0-0,?,Godoy Cruz
+Fri Nov 19 2021,Talleres Cordoba,1-1,?,Velez Sarsfield
+Sat Nov 20 2021,Rosario Central,3-1,?,Atl. Tucuman
+Sat Nov 20 2021,Boca Juniors,2-0,?,Sarmiento Junin
+Sat Nov 20 2021,Central Cordoba,1-0,?,Independiente
+Sun Nov 21 2021,Arsenal Sarandi,3-1,?,Newells Old Boys
+Sun Nov 21 2021,Racing Club,1-2,?,Colon Santa FE
+Sun Nov 21 2021,Platense,0-1,?,River Plate
+Tue Nov 23 2021,Gimnasia L.P.,5-2,?,Talleres Cordoba
+Tue Nov 23 2021,Huracan,1-0,?,Patronato
+Tue Nov 23 2021,Aldosivi,2-0,?,San Lorenzo
+Tue Nov 23 2021,Godoy Cruz,1-3,?,Estudiantes L.P.
+Tue Nov 23 2021,Velez Sarsfield,2-0,?,Argentinos Jrs
+Wed Nov 24 2021,Newells Old Boys,1-0,?,Central Cordoba
+Wed Nov 24 2021,Sarmiento Junin,0-0,?,Banfield
+Wed Nov 24 2021,Atl. Tucuman,0-4,?,Defensa y Justicia
+Wed Nov 24 2021,Independiente,1-0,?,Boca Juniors
+Thu Nov 25 2021,Arsenal Sarandi,0-1,?,Union de Santa Fe
+Thu Nov 25 2021,Colon Santa FE,1-4,?,Rosario Central
+Thu Nov 25 2021,Lanus,3-3,?,Platense
+Thu Nov 25 2021,River Plate,4-0,?,Racing Club
+Sat Nov 27 2021,Talleres Cordoba,2-0,?,Aldosivi
+Sat Nov 27 2021,Patronato,0-3,?,Godoy Cruz
+Sat Nov 27 2021,Estudiantes L.P.,1-0,?,Velez Sarsfield
+Sun Nov 28 2021,Rosario Central,2-2,?,River Plate
+Sun Nov 28 2021,Argentinos Jrs,3-0,?,Gimnasia L.P.
+Sun Nov 28 2021,Defensa y Justicia,1-1,?,Colon Santa FE
+Mon Nov 29 2021,Union de Santa Fe,3-0,?,Atl. Tucuman
+Mon Nov 29 2021,Racing Club,3-1,?,Lanus
+Mon Nov 29 2021,Central Cordoba,5-0,?,Arsenal Sarandi
+Mon Nov 29 2021,Platense,4-2,?,Huracan
+Tue Nov 30 2021,San Lorenzo,1-0,?,Sarmiento Junin
+Tue Nov 30 2021,Boca Juniors,0-0,?,Newells Old Boys
+Tue Nov 30 2021,Banfield,4-1,?,Independiente
+Fri Dec 3 2021,Central Cordoba,2-0,?,Union de Santa Fe
+Fri Dec 3 2021,Colon Santa FE,3-0,?,Atl. Tucuman
+Fri Dec 3 2021,Velez Sarsfield,0-0,?,Patronato
+Sat Dec 4 2021,Arsenal Sarandi,1-1,?,Boca Juniors
+Sat Dec 4 2021,Godoy Cruz,2-2,?,Platense
+Sat Dec 4 2021,Sarmiento Junin,1-2,?,Talleres Cordoba
+Sat Dec 4 2021,Huracan,1-0,?,Racing Club
+Sat Dec 4 2021,Lanus,2-2,?,Rosario Central
+Sun Dec 5 2021,Gimnasia L.P.,4-4,?,Estudiantes L.P.
+Sun Dec 5 2021,Independiente,1-1,?,San Lorenzo
+Sun Dec 5 2021,River Plate,2-3,?,Defensa y Justicia
+Mon Dec 6 2021,Aldosivi,3-2,?,Argentinos Jrs
+Mon Dec 6 2021,Newells Old Boys,0-0,?,Banfield
+Fri Dec 10 2021,Platense,3-2,?,Velez Sarsfield
+Fri Dec 10 2021,Estudiantes L.P.,2-3,?,Aldosivi
+Sat Dec 11 2021,Argentinos Jrs,2-0,?,Sarmiento Junin
+Sat Dec 11 2021,Patronato,0-0,?,Gimnasia L.P.
+Sat Dec 11 2021,Racing Club,2-1,?,Godoy Cruz
+Sat Dec 11 2021,Rosario Central,1-4,?,Huracan
+Sat Dec 11 2021,Union de Santa Fe,3-0,?,Colon Santa FE
+Sat Dec 11 2021,Atl. Tucuman,1-1,?,River Plate
+Sat Dec 11 2021,Boca Juniors,8-1,?,Central Cordoba
+Sun Dec 12 2021,San Lorenzo,3-2,?,Newells Old Boys
+Sun Dec 12 2021,Defensa y Justicia,2-1,?,Lanus
+Sun Dec 12 2021,Talleres Cordoba,1-2,?,Independiente
+Mon Dec 13 2021,Banfield,0-0,?,Arsenal Sarandi

@@ -7,31 +7,31 @@ Sat Mar 2 2019,Colorado Rapids,3-3,?,Portland Timbers
 Sat Mar 2 2019,Houston Dynamo,1-1,?,Real Salt Lake
 Sat Mar 2 2019,Vancouver Whitecaps,2-3,?,Minnesota United
 Sat Mar 2 2019,Los Angeles Galaxy,2-1,?,Chicago Fire
-Sat Mar 2 2019,San Jose Earthquakes,1-2,?,Montreal Impact
+Sat Mar 2 2019,San Jose Earthquakes,1-2,?,CF Montreal
 Sat Mar 2 2019,Seattle Sounders,4-1,?,FC Cincinnati
-Sun Mar 3 2019,DC United,2-0,?,Atlanta United
+Sun Mar 3 2019,DC United,2-0,?,Atlanta Utd
 Sun Mar 3 2019,Los Angeles FC,2-1,?,Sporting Kansas City
 Sat Mar 9 2019,Chicago Fire,1-1,?,Orlando City
 Sat Mar 9 2019,New England Revolution,0-2,?,Columbus Crew
 Sat Mar 9 2019,FC Dallas,2-0,?,Los Angeles Galaxy
-Sat Mar 9 2019,Houston Dynamo,2-1,?,Montreal Impact
+Sat Mar 9 2019,Houston Dynamo,2-1,?,CF Montreal
 Sat Mar 9 2019,Real Salt Lake,1-0,?,Vancouver Whitecaps
 Sat Mar 9 2019,San Jose Earthquakes,0-3,?,Minnesota United
 Sat Mar 9 2019,Seattle Sounders,2-0,?,Colorado Rapids
 Sun Mar 10 2019,New York City,0-0,?,DC United
 Sun Mar 10 2019,Sporting Kansas City,2-0,?,Philadelphia Union
-Sun Mar 10 2019,Atlanta United,1-1,?,FC Cincinnati
+Sun Mar 10 2019,Atlanta Utd,1-1,?,FC Cincinnati
 Sun Mar 10 2019,Los Angeles FC,4-1,?,Portland Timbers
 Sat Mar 16 2019,Chicago Fire,2-4,?,Seattle Sounders
 Sat Mar 16 2019,Columbus Crew,1-0,?,FC Dallas
 Sat Mar 16 2019,Houston Dynamo,3-2,?,Vancouver Whitecaps
 Sat Mar 16 2019,New York Red Bulls,4-1,?,San Jose Earthquakes
-Sat Mar 16 2019,Orlando City,1-3,?,Montreal Impact
+Sat Mar 16 2019,Orlando City,1-3,?,CF Montreal
 Sat Mar 16 2019,DC United,5-0,?,Real Salt Lake
 Sat Mar 16 2019,Los Angeles Galaxy,3-2,?,Minnesota United
 Sun Mar 17 2019,New York City,2-2,?,Los Angeles FC
 Sun Mar 17 2019,FC Cincinnati,3-0,?,Portland Timbers
-Sun Mar 17 2019,Atlanta United,1-1,?,Philadelphia Union
+Sun Mar 17 2019,Atlanta Utd,1-1,?,Philadelphia Union
 Sun Mar 17 2019,Toronto FC,3-2,?,New England Revolution
 Sun Mar 17 2019,Colorado Rapids,1-1,?,Sporting Kansas City
 Sat Mar 23 2019,FC Dallas,2-1,?,Colorado Rapids
@@ -42,17 +42,17 @@ Sun Mar 24 2019,New England Revolution,0-2,?,FC Cincinnati
 Fri Mar 29 2019,Toronto FC,4-0,?,New York City
 Sat Mar 30 2019,Chicago Fire,1-0,?,New York Red Bulls
 Sat Mar 30 2019,New England Revolution,2-1,?,Minnesota United
-Sat Mar 30 2019,Sporting Kansas City,7-1,?,Montreal Impact
+Sat Mar 30 2019,Sporting Kansas City,7-1,?,CF Montreal
 Sat Mar 30 2019,San Jose Earthquakes,0-5,?,Los Angeles FC
 Sat Mar 30 2019,FC Cincinnati,0-2,?,Philadelphia Union
-Sat Mar 30 2019,Columbus Crew,2-0,?,Atlanta United
+Sat Mar 30 2019,Columbus Crew,2-0,?,Atlanta Utd
 Sat Mar 30 2019,Colorado Rapids,1-4,?,Houston Dynamo
 Sat Mar 30 2019,Real Salt Lake,2-4,?,FC Dallas
 Sat Mar 30 2019,Vancouver Whitecaps,0-0,?,Seattle Sounders
 Sun Mar 31 2019,Orlando City,1-2,?,DC United
 Sun Mar 31 2019,Los Angeles Galaxy,2-1,?,Portland Timbers
 Fri Apr 5 2019,Vancouver Whitecaps,0-2,?,Los Angeles Galaxy
-Sat Apr 6 2019,New York City,0-0,?,Montreal Impact
+Sat Apr 6 2019,New York City,0-0,?,CF Montreal
 Sat Apr 6 2019,DC United,0-4,?,Los Angeles FC
 Sat Apr 6 2019,Toronto FC,2-2,?,Chicago Fire
 Sat Apr 6 2019,New York Red Bulls,1-2,?,Minnesota United
@@ -62,13 +62,13 @@ Sat Apr 6 2019,Philadelphia Union,2-1,?,FC Dallas
 Sat Apr 6 2019,San Jose Earthquakes,3-0,?,Portland Timbers
 Sat Apr 6 2019,Seattle Sounders,1-0,?,Real Salt Lake
 Sun Apr 7 2019,FC Cincinnati,1-1,?,Sporting Kansas City
-Tue Apr 9 2019,DC United,0-0,?,Montreal Impact
+Tue Apr 9 2019,DC United,0-0,?,CF Montreal
 Fri Apr 12 2019,Chicago Fire,1-1,?,Vancouver Whitecaps
-Sat Apr 13 2019,Montreal Impact,1-0,?,Columbus Crew
+Sat Apr 13 2019,CF Montreal,1-0,?,Columbus Crew
 Sat Apr 13 2019,Houston Dynamo,2-1,?,San Jose Earthquakes
 Sat Apr 13 2019,Seattle Sounders,3-2,?,Toronto FC
 Sat Apr 13 2019,Minnesota United,3-3,?,New York City
-Sat Apr 13 2019,New England Revolution,0-2,?,Atlanta United
+Sat Apr 13 2019,New England Revolution,0-2,?,Atlanta Utd
 Sat Apr 13 2019,FC Dallas,2-1,?,Portland Timbers
 Sat Apr 13 2019,Colorado Rapids,2-3,?,DC United
 Sat Apr 13 2019,Real Salt Lake,2-1,?,Orlando City
@@ -80,9 +80,9 @@ Fri Apr 19 2019,FC Cincinnati,0-3,?,Real Salt Lake
 Fri Apr 19 2019,Toronto FC,4-3,?,Minnesota United
 Fri Apr 19 2019,Los Angeles Galaxy,2-1,?,Houston Dynamo
 Sat Apr 20 2019,Chicago Fire,4-1,?,Colorado Rapids
-Sat Apr 20 2019,Philadelphia Union,3-0,?,Montreal Impact
+Sat Apr 20 2019,Philadelphia Union,3-0,?,CF Montreal
 Sat Apr 20 2019,Orlando City,1-0,?,Vancouver Whitecaps
-Sat Apr 20 2019,Atlanta United,1-2,?,FC Dallas
+Sat Apr 20 2019,Atlanta Utd,1-2,?,FC Dallas
 Sat Apr 20 2019,Columbus Crew,1-3,?,Portland Timbers
 Sat Apr 20 2019,New England Revolution,1-0,?,New York Red Bulls
 Sat Apr 20 2019,San Jose Earthquakes,4-1,?,Sporting Kansas City
@@ -90,18 +90,18 @@ Sun Apr 21 2019,DC United,0-2,?,New York City
 Sun Apr 21 2019,Los Angeles FC,4-1,?,Seattle Sounders
 Wed Apr 24 2019,New York City,1-0,?,Chicago Fire
 Wed Apr 24 2019,Columbus Crew,0-1,?,DC United
-Wed Apr 24 2019,New England Revolution,0-3,?,Montreal Impact
+Wed Apr 24 2019,New England Revolution,0-3,?,CF Montreal
 Wed Apr 24 2019,Minnesota United,0-0,?,Los Angeles Galaxy
 Wed Apr 24 2019,Seattle Sounders,2-2,?,San Jose Earthquakes
 Sat Apr 27 2019,New York City,1-1,?,Orlando City
 Sat Apr 27 2019,Toronto FC,1-2,?,Portland Timbers
 Sat Apr 27 2019,FC Dallas,0-0,?,San Jose Earthquakes
 Sat Apr 27 2019,Vancouver Whitecaps,1-1,?,Philadelphia Union
-Sat Apr 27 2019,Atlanta United,1-0,?,Colorado Rapids
+Sat Apr 27 2019,Atlanta Utd,1-0,?,Colorado Rapids
 Sat Apr 27 2019,New York Red Bulls,1-0,?,FC Cincinnati
 Sat Apr 27 2019,Houston Dynamo,2-0,?,Columbus Crew
 Sat Apr 27 2019,Sporting Kansas City,4-4,?,New England Revolution
-Sun Apr 28 2019,Montreal Impact,1-0,?,Chicago Fire
+Sun Apr 28 2019,CF Montreal,1-0,?,Chicago Fire
 Sun Apr 28 2019,Minnesota United,1-0,?,DC United
 Sun Apr 28 2019,Seattle Sounders,1-1,?,Los Angeles FC
 Sun Apr 28 2019,Los Angeles Galaxy,2-1,?,Real Salt Lake
@@ -110,20 +110,20 @@ Fri May 3 2019,Colorado Rapids,2-3,?,Vancouver Whitecaps
 Sat May 4 2019,New York Red Bulls,3-2,?,Los Angeles Galaxy
 Sat May 4 2019,Houston Dynamo,2-1,?,FC Dallas
 Sat May 4 2019,Orlando City,0-2,?,Toronto FC
-Sat May 4 2019,Montreal Impact,0-2,?,New York City
+Sat May 4 2019,CF Montreal,0-2,?,New York City
 Sat May 4 2019,Philadelphia Union,6-1,?,New England Revolution
 Sat May 4 2019,DC United,3-1,?,Columbus Crew
 Sat May 4 2019,Minnesota United,1-1,?,Seattle Sounders
 Sat May 4 2019,Real Salt Lake,1-2,?,Portland Timbers
 Sat May 4 2019,San Jose Earthquakes,1-0,?,FC Cincinnati
 Sat May 4 2019,Los Angeles FC,0-0,?,Chicago Fire
-Sun May 5 2019,Sporting Kansas City,0-3,?,Atlanta United
-Wed May 8 2019,Atlanta United,2-0,?,Toronto FC
+Sun May 5 2019,Sporting Kansas City,0-3,?,Atlanta Utd
+Wed May 8 2019,Atlanta Utd,2-0,?,Toronto FC
 Wed May 8 2019,Columbus Crew,3-1,?,Los Angeles Galaxy
 Wed May 8 2019,Chicago Fire,5-0,?,New England Revolution
-Wed May 8 2019,New York Red Bulls,1-2,?,Montreal Impact
+Wed May 8 2019,New York Red Bulls,1-2,?,CF Montreal
 Fri May 10 2019,Vancouver Whitecaps,1-0,?,Portland Timbers
-Sat May 11 2019,FC Cincinnati,2-1,?,Montreal Impact
+Sat May 11 2019,FC Cincinnati,2-1,?,CF Montreal
 Sat May 11 2019,FC Dallas,1-3,?,New York Red Bulls
 Sat May 11 2019,Toronto FC,1-2,?,Philadelphia Union
 Sat May 11 2019,Los Angeles Galaxy,0-2,?,New York City
@@ -132,14 +132,14 @@ Sat May 11 2019,New England Revolution,3-1,?,San Jose Earthquakes
 Sat May 11 2019,Chicago Fire,2-0,?,Minnesota United
 Sat May 11 2019,Colorado Rapids,2-3,?,Real Salt Lake
 Sat May 11 2019,Seattle Sounders,1-0,?,Houston Dynamo
-Sun May 12 2019,Atlanta United,1-0,?,Orlando City
+Sun May 12 2019,Atlanta Utd,1-0,?,Orlando City
 Sun May 12 2019,DC United,1-0,?,Sporting Kansas City
 Wed May 15 2019,Toronto FC,0-0,?,DC United
 Wed May 15 2019,Houston Dynamo,1-1,?,Portland Timbers
-Wed May 15 2019,Vancouver Whitecaps,0-1,?,Atlanta United
+Wed May 15 2019,Vancouver Whitecaps,0-1,?,Atlanta Utd
 Wed May 15 2019,Seattle Sounders,2-1,?,Orlando City
 Thu May 16 2019,Los Angeles FC,2-0,?,FC Dallas
-Sat May 18 2019,Montreal Impact,0-0,?,New England Revolution
+Sat May 18 2019,CF Montreal,0-0,?,New England Revolution
 Sat May 18 2019,Real Salt Lake,3-0,?,Toronto FC
 Sat May 18 2019,San Jose Earthquakes,4-1,?,Chicago Fire
 Sat May 18 2019,Philadelphia Union,0-0,?,Seattle Sounders
@@ -147,13 +147,13 @@ Sat May 18 2019,Minnesota United,1-0,?,Columbus Crew
 Sat May 18 2019,Houston Dynamo,2-1,?,DC United
 Sat May 18 2019,Sporting Kansas City,1-1,?,Vancouver Whitecaps
 Sun May 19 2019,Orlando City,5-1,?,FC Cincinnati
-Sun May 19 2019,New York Red Bulls,1-0,?,Atlanta United
+Sun May 19 2019,New York Red Bulls,1-0,?,Atlanta Utd
 Sun May 19 2019,FC Dallas,1-1,?,Los Angeles FC
 Sun May 19 2019,Los Angeles Galaxy,0-1,?,Colorado Rapids
 Wed May 22 2019,New York Red Bulls,2-2,?,Vancouver Whitecaps
 Fri May 24 2019,Orlando City,0-1,?,Los Angeles Galaxy
-Fri May 24 2019,Real Salt Lake,2-1,?,Atlanta United
-Fri May 24 2019,Los Angeles FC,4-2,?,Montreal Impact
+Fri May 24 2019,Real Salt Lake,2-1,?,Atlanta Utd
+Fri May 24 2019,Los Angeles FC,4-2,?,CF Montreal
 Sat May 25 2019,Chicago Fire,1-1,?,New York City
 Sat May 25 2019,Vancouver Whitecaps,2-1,?,FC Dallas
 Sat May 25 2019,FC Cincinnati,0-2,?,New York Red Bulls
@@ -163,14 +163,14 @@ Sat May 25 2019,Minnesota United,1-0,?,Houston Dynamo
 Sat May 25 2019,Colorado Rapids,3-2,?,Columbus Crew
 Sun May 26 2019,Sporting Kansas City,3-2,?,Seattle Sounders
 Sun May 26 2019,Toronto FC,1-2,?,San Jose Earthquakes
-Wed May 29 2019,Atlanta United,3-0,?,Minnesota United
-Wed May 29 2019,Montreal Impact,2-1,?,Real Salt Lake
+Wed May 29 2019,Atlanta Utd,3-0,?,Minnesota United
+Wed May 29 2019,CF Montreal,2-1,?,Real Salt Lake
 Wed May 29 2019,DC United,3-3,?,Chicago Fire
 Wed May 29 2019,Philadelphia Union,1-1,?,Colorado Rapids
 Wed May 29 2019,Sporting Kansas City,0-2,?,Los Angeles Galaxy
 Fri May 31 2019,Vancouver Whitecaps,1-1,?,Toronto FC
-Sat Jun 1 2019,Montreal Impact,0-3,?,Orlando City
-Sat Jun 1 2019,Atlanta United,2-0,?,Chicago Fire
+Sat Jun 1 2019,CF Montreal,0-3,?,Orlando City
+Sat Jun 1 2019,Atlanta Utd,2-0,?,Chicago Fire
 Sat Jun 1 2019,New York Red Bulls,4-0,?,Real Salt Lake
 Sat Jun 1 2019,Columbus Crew,2-2,?,New York City
 Sat Jun 1 2019,DC United,1-1,?,San Jose Earthquakes
@@ -180,7 +180,7 @@ Sat Jun 1 2019,Houston Dynamo,1-1,?,Sporting Kansas City
 Sat Jun 1 2019,Portland Timbers,2-3,?,Los Angeles FC
 Sun Jun 2 2019,Minnesota United,2-3,?,Philadelphia Union
 Sun Jun 2 2019,Los Angeles Galaxy,1-2,?,New England Revolution
-Wed Jun 5 2019,Montreal Impact,2-1,?,Seattle Sounders
+Wed Jun 5 2019,CF Montreal,2-1,?,Seattle Sounders
 Thu Jun 6 2019,New York City,5-2,?,FC Cincinnati
 Fri Jun 7 2019,Toronto FC,2-2,?,Sporting Kansas City
 Sat Jun 8 2019,San Jose Earthquakes,2-2,?,FC Dallas
@@ -193,15 +193,15 @@ Sat Jun 22 2019,Vancouver Whitecaps,2-2,?,Colorado Rapids
 Sat Jun 22 2019,Portland Timbers,4-0,?,Houston Dynamo
 Sun Jun 23 2019,Columbus Crew,0-1,?,Sporting Kansas City
 Wed Jun 26 2019,New England Revolution,1-1,?,Philadelphia Union
-Wed Jun 26 2019,Montreal Impact,2-1,?,Portland Timbers
+Wed Jun 26 2019,CF Montreal,2-1,?,Portland Timbers
 Wed Jun 26 2019,DC United,1-0,?,Orlando City
-Wed Jun 26 2019,Toronto FC,3-2,?,Atlanta United
+Wed Jun 26 2019,Toronto FC,3-2,?,Atlanta Utd
 Wed Jun 26 2019,FC Dallas,2-2,?,Vancouver Whitecaps
 Wed Jun 26 2019,San Jose Earthquakes,2-0,?,Houston Dynamo
 Fri Jun 28 2019,New York Red Bulls,3-1,?,Chicago Fire
 Fri Jun 28 2019,Colorado Rapids,1-0,?,Los Angeles FC
 Sat Jun 29 2019,Minnesota United,7-1,?,FC Cincinnati
-Sat Jun 29 2019,Atlanta United,2-1,?,Montreal Impact
+Sat Jun 29 2019,Atlanta Utd,2-1,?,CF Montreal
 Sat Jun 29 2019,New York City,4-2,?,Philadelphia Union
 Sat Jun 29 2019,Columbus Crew,0-2,?,Orlando City
 Sat Jun 29 2019,New England Revolution,2-1,?,Houston Dynamo
@@ -212,7 +212,7 @@ Sat Jun 29 2019,Seattle Sounders,1-0,?,Vancouver Whitecaps
 Sun Jun 30 2019,Portland Timbers,1-0,?,FC Dallas
 Wed Jul 3 2019,New York City,3-0,?,Seattle Sounders
 Wed Jul 3 2019,Orlando City,1-3,?,Philadelphia Union
-Wed Jul 3 2019,Chicago Fire,5-1,?,Atlanta United
+Wed Jul 3 2019,Chicago Fire,5-1,?,Atlanta Utd
 Wed Jul 3 2019,Minnesota United,3-1,?,San Jose Earthquakes
 Wed Jul 3 2019,Sporting Kansas City,1-5,?,Los Angeles FC
 Wed Jul 3 2019,Houston Dynamo,4-0,?,New York Red Bulls
@@ -222,61 +222,61 @@ Thu Jul 4 2019,FC Dallas,2-0,?,DC United
 Thu Jul 4 2019,Los Angeles Galaxy,2-0,?,Toronto FC
 Sat Jul 6 2019,Columbus Crew,1-2,?,Seattle Sounders
 Sat Jul 6 2019,FC Cincinnati,3-2,?,Houston Dynamo
-Sat Jul 6 2019,Montreal Impact,2-3,?,Minnesota United
+Sat Jul 6 2019,CF Montreal,2-3,?,Minnesota United
 Sat Jul 6 2019,Sporting Kansas City,1-0,?,Chicago Fire
 Sat Jul 6 2019,Los Angeles FC,6-1,?,Vancouver Whitecaps
 Sat Jul 6 2019,San Jose Earthquakes,1-0,?,Real Salt Lake
-Sun Jul 7 2019,Atlanta United,3-3,?,New York Red Bulls
+Sun Jul 7 2019,Atlanta Utd,3-3,?,New York Red Bulls
 Sun Jul 7 2019,Philadelphia Union,2-2,?,Orlando City
 Sun Jul 7 2019,New York City,0-1,?,Portland Timbers
 Fri Jul 12 2019,DC United,2-2,?,New England Revolution
 Fri Jul 12 2019,Houston Dynamo,1-3,?,Los Angeles FC
 Fri Jul 12 2019,Los Angeles Galaxy,1-3,?,San Jose Earthquakes
-Sat Jul 13 2019,Montreal Impact,0-2,?,Toronto FC
+Sat Jul 13 2019,CF Montreal,0-2,?,Toronto FC
 Sat Jul 13 2019,Orlando City,1-0,?,Columbus Crew
 Sat Jul 13 2019,Chicago Fire,1-2,?,FC Cincinnati
 Sat Jul 13 2019,Minnesota United,1-0,?,FC Dallas
 Sat Jul 13 2019,Real Salt Lake,4-0,?,Philadelphia Union
 Sat Jul 13 2019,Vancouver Whitecaps,0-3,?,Sporting Kansas City
 Sat Jul 13 2019,Portland Timbers,2-2,?,Colorado Rapids
-Sun Jul 14 2019,Seattle Sounders,2-1,?,Atlanta United
+Sun Jul 14 2019,Seattle Sounders,2-1,?,Atlanta Utd
 Sun Jul 14 2019,New York Red Bulls,2-1,?,New York City
-Wed Jul 17 2019,Atlanta United,5-0,?,Houston Dynamo
+Wed Jul 17 2019,Atlanta Utd,5-0,?,Houston Dynamo
 Wed Jul 17 2019,New England Revolution,4-0,?,Vancouver Whitecaps
 Wed Jul 17 2019,Chicago Fire,2-2,?,Columbus Crew
 Wed Jul 17 2019,Toronto FC,3-1,?,New York Red Bulls
 Thu Jul 18 2019,FC Cincinnati,1-4,?,DC United
 Thu Jul 18 2019,Portland Timbers,1-1,?,Orlando City
 Fri Jul 19 2019,Los Angeles Galaxy,3-2,?,Los Angeles FC
-Sat Jul 20 2019,Columbus Crew,2-1,?,Montreal Impact
+Sat Jul 20 2019,Columbus Crew,2-1,?,CF Montreal
 Sat Jul 20 2019,Philadelphia Union,2-0,?,Chicago Fire
 Sat Jul 20 2019,Toronto FC,1-3,?,Houston Dynamo
 Sat Jul 20 2019,Sporting Kansas City,0-2,?,FC Dallas
 Sat Jul 20 2019,Colorado Rapids,1-2,?,New York City
 Sat Jul 20 2019,Real Salt Lake,1-1,?,Minnesota United
 Sat Jul 20 2019,Vancouver Whitecaps,1-3,?,San Jose Earthquakes
-Sun Jul 21 2019,Atlanta United,2-0,?,DC United
+Sun Jul 21 2019,Atlanta Utd,2-0,?,DC United
 Sun Jul 21 2019,FC Cincinnati,0-2,?,New England Revolution
 Sun Jul 21 2019,Orlando City,0-1,?,New York Red Bulls
 Sun Jul 21 2019,Seattle Sounders,1-2,?,Portland Timbers
 Fri Jul 26 2019,New York City,3-1,?,Sporting Kansas City
-Fri Jul 26 2019,Los Angeles FC,4-3,?,Atlanta United
+Fri Jul 26 2019,Los Angeles FC,4-3,?,Atlanta Utd
 Sat Jul 27 2019,New England Revolution,4-1,?,Orlando City
 Sat Jul 27 2019,New York Red Bulls,2-3,?,Columbus Crew
 Sat Jul 27 2019,Chicago Fire,0-0,?,DC United
 Sat Jul 27 2019,FC Dallas,0-0,?,Real Salt Lake
 Sat Jul 27 2019,Houston Dynamo,0-1,?,Seattle Sounders
 Sat Jul 27 2019,Minnesota United,0-0,?,Vancouver Whitecaps
-Sat Jul 27 2019,Montreal Impact,4-0,?,Philadelphia Union
+Sat Jul 27 2019,CF Montreal,4-0,?,Philadelphia Union
 Sat Jul 27 2019,Toronto FC,2-1,?,FC Cincinnati
 Sat Jul 27 2019,San Jose Earthquakes,3-1,?,Colorado Rapids
 Sat Jul 27 2019,Portland Timbers,4-0,?,Los Angeles Galaxy
-Sat Aug 3 2019,Atlanta United,3-0,?,Los Angeles Galaxy
+Sat Aug 3 2019,Atlanta Utd,3-0,?,Los Angeles Galaxy
 Sat Aug 3 2019,New York Red Bulls,2-0,?,Toronto FC
 Sat Aug 3 2019,New England Revolution,0-2,?,Los Angeles FC
 Sat Aug 3 2019,Orlando City,2-0,?,FC Dallas
 Sat Aug 3 2019,FC Cincinnati,1-2,?,Vancouver Whitecaps
-Sat Aug 3 2019,Colorado Rapids,6-3,?,Montreal Impact
+Sat Aug 3 2019,Colorado Rapids,6-3,?,CF Montreal
 Sat Aug 3 2019,Houston Dynamo,0-1,?,Chicago Fire
 Sat Aug 3 2019,Real Salt Lake,3-1,?,New York City
 Sat Aug 3 2019,San Jose Earthquakes,1-1,?,Columbus Crew
@@ -289,10 +289,10 @@ Sat Aug 10 2019,Columbus Crew,2-2,?,FC Cincinnati
 Sat Aug 10 2019,Toronto FC,1-1,?,Orlando City
 Sat Aug 10 2019,FC Dallas,5-3,?,Minnesota United
 Sat Aug 10 2019,Sporting Kansas City,1-2,?,Real Salt Lake
-Sat Aug 10 2019,Chicago Fire,3-2,?,Montreal Impact
+Sat Aug 10 2019,Chicago Fire,3-2,?,CF Montreal
 Sat Aug 10 2019,Colorado Rapids,2-1,?,San Jose Earthquakes
 Sat Aug 10 2019,Portland Timbers,3-1,?,Vancouver Whitecaps
-Sun Aug 11 2019,Atlanta United,2-1,?,New York City
+Sun Aug 11 2019,Atlanta Utd,2-1,?,New York City
 Sun Aug 11 2019,Philadelphia Union,2-1,?,Houston Dynamo
 Sun Aug 11 2019,DC United,2-1,?,Los Angeles Galaxy
 Sun Aug 11 2019,Los Angeles FC,4-2,?,New York Red Bulls
@@ -304,7 +304,7 @@ Wed Aug 14 2019,Portland Timbers,3-2,?,Chicago Fire
 Sat Aug 17 2019,New York Red Bulls,1-1,?,New England Revolution
 Sat Aug 17 2019,Columbus Crew,2-2,?,Toronto FC
 Sat Aug 17 2019,FC Cincinnati,1-4,?,New York City
-Sat Aug 17 2019,Montreal Impact,3-3,?,FC Dallas
+Sat Aug 17 2019,CF Montreal,3-3,?,FC Dallas
 Sat Aug 17 2019,Chicago Fire,2-0,?,Philadelphia Union
 Sat Aug 17 2019,Minnesota United,1-1,?,Orlando City
 Sat Aug 17 2019,Sporting Kansas City,2-1,?,San Jose Earthquakes
@@ -312,28 +312,28 @@ Sat Aug 17 2019,Houston Dynamo,2-2,?,Colorado Rapids
 Sat Aug 17 2019,Los Angeles Galaxy,2-2,?,Seattle Sounders
 Sat Aug 17 2019,Real Salt Lake,0-2,?,Los Angeles FC
 Sat Aug 17 2019,Vancouver Whitecaps,1-0,?,DC United
-Sun Aug 18 2019,Portland Timbers,0-2,?,Atlanta United
+Sun Aug 18 2019,Portland Timbers,0-2,?,Atlanta Utd
 Wed Aug 21 2019,New York City,1-0,?,Columbus Crew
 Wed Aug 21 2019,DC United,1-2,?,New York Red Bulls
 Wed Aug 21 2019,Los Angeles FC,4-0,?,San Jose Earthquakes
 Thu Aug 22 2019,Sporting Kansas City,1-0,?,Minnesota United
-Fri Aug 23 2019,Orlando City,0-1,?,Atlanta United
+Fri Aug 23 2019,Orlando City,0-1,?,Atlanta Utd
 Fri Aug 23 2019,Portland Timbers,1-2,?,Seattle Sounders
 Sat Aug 24 2019,New York City,2-1,?,New York Red Bulls
 Sat Aug 24 2019,New England Revolution,2-1,?,Chicago Fire
 Sat Aug 24 2019,Philadelphia Union,3-1,?,DC United
-Sat Aug 24 2019,Toronto FC,2-1,?,Montreal Impact
+Sat Aug 24 2019,Toronto FC,2-1,?,CF Montreal
 Sat Aug 24 2019,Real Salt Lake,2-0,?,Colorado Rapids
 Sat Aug 24 2019,San Jose Earthquakes,3-1,?,Vancouver Whitecaps
 Sun Aug 25 2019,FC Cincinnati,1-3,?,Columbus Crew
 Sun Aug 25 2019,FC Dallas,5-1,?,Houston Dynamo
 Sun Aug 25 2019,Los Angeles FC,3-3,?,Los Angeles Galaxy
-Wed Aug 28 2019,Montreal Impact,2-1,?,Vancouver Whitecaps
+Wed Aug 28 2019,CF Montreal,2-1,?,Vancouver Whitecaps
 Sat Aug 31 2019,New York Red Bulls,0-2,?,Colorado Rapids
 Sat Aug 31 2019,Columbus Crew,1-1,?,Chicago Fire
-Sat Aug 31 2019,Montreal Impact,0-3,?,DC United
+Sat Aug 31 2019,CF Montreal,0-3,?,DC United
 Sat Aug 31 2019,New England Revolution,1-1,?,Toronto FC
-Sat Aug 31 2019,Philadelphia Union,3-1,?,Atlanta United
+Sat Aug 31 2019,Philadelphia Union,3-1,?,Atlanta Utd
 Sat Aug 31 2019,FC Dallas,3-1,?,FC Cincinnati
 Sat Aug 31 2019,Sporting Kansas City,1-0,?,Houston Dynamo
 Sat Aug 31 2019,Vancouver Whitecaps,1-3,?,New York City
@@ -352,8 +352,8 @@ Wed Sep 11 2019,Colorado Rapids,2-1,?,Los Angeles Galaxy
 Wed Sep 11 2019,Real Salt Lake,1-0,?,San Jose Earthquakes
 Sat Sep 14 2019,New York City,2-1,?,San Jose Earthquakes
 Sat Sep 14 2019,Chicago Fire,4-0,?,FC Dallas
-Sat Sep 14 2019,Atlanta United,1-3,?,Columbus Crew
-Sat Sep 14 2019,Montreal Impact,0-1,?,FC Cincinnati
+Sat Sep 14 2019,Atlanta Utd,1-3,?,Columbus Crew
+Sat Sep 14 2019,CF Montreal,0-1,?,FC Cincinnati
 Sat Sep 14 2019,Orlando City,3-3,?,New England Revolution
 Sat Sep 14 2019,Philadelphia Union,1-1,?,Los Angeles FC
 Sat Sep 14 2019,Vancouver Whitecaps,2-1,?,Houston Dynamo
@@ -362,22 +362,22 @@ Sun Sep 15 2019,Toronto FC,3-2,?,Colorado Rapids
 Sun Sep 15 2019,Minnesota United,3-1,?,Real Salt Lake
 Sun Sep 15 2019,Seattle Sounders,4-2,?,New York Red Bulls
 Sun Sep 15 2019,Los Angeles Galaxy,7-2,?,Sporting Kansas City
-Wed Sep 18 2019,FC Cincinnati,0-2,?,Atlanta United
+Wed Sep 18 2019,FC Cincinnati,0-2,?,Atlanta Utd
 Wed Sep 18 2019,Portland Timbers,0-2,?,New York Red Bulls
 Wed Sep 18 2019,Seattle Sounders,0-0,?,FC Dallas
-Sat Sep 21 2019,Atlanta United,3-1,?,San Jose Earthquakes
+Sat Sep 21 2019,Atlanta Utd,3-1,?,San Jose Earthquakes
 Sat Sep 21 2019,Vancouver Whitecaps,1-1,?,Columbus Crew
 Sat Sep 21 2019,FC Cincinnati,0-0,?,Chicago Fire
 Sat Sep 21 2019,New England Revolution,0-0,?,Real Salt Lake
 Sat Sep 21 2019,Houston Dynamo,2-1,?,Orlando City
 Sat Sep 21 2019,Sporting Kansas City,2-3,?,Colorado Rapids
 Sat Sep 21 2019,Los Angeles FC,1-1,?,Toronto FC
-Sat Sep 21 2019,Los Angeles Galaxy,2-1,?,Montreal Impact
+Sat Sep 21 2019,Los Angeles Galaxy,2-1,?,CF Montreal
 Sun Sep 22 2019,Portland Timbers,0-0,?,Minnesota United
 Sun Sep 22 2019,FC Dallas,1-1,?,New York City
 Sun Sep 22 2019,New York Red Bulls,2-0,?,Philadelphia Union
 Sun Sep 22 2019,DC United,2-0,?,Seattle Sounders
-Wed Sep 25 2019,New York City,4-1,?,Atlanta United
+Wed Sep 25 2019,New York City,4-1,?,Atlanta Utd
 Wed Sep 25 2019,Minnesota United,2-1,?,Sporting Kansas City
 Wed Sep 25 2019,Real Salt Lake,1-2,?,Los Angeles Galaxy
 Wed Sep 25 2019,Los Angeles FC,3-1,?,Houston Dynamo
@@ -386,7 +386,7 @@ Wed Sep 25 2019,San Jose Earthquakes,1-2,?,Philadelphia Union
 Sun Sep 29 2019,Chicago Fire,2-2,?,Toronto FC
 Sun Sep 29 2019,Columbus Crew,2-0,?,Philadelphia Union
 Sun Sep 29 2019,FC Cincinnati,1-1,?,Orlando City
-Sun Sep 29 2019,Montreal Impact,1-1,?,Atlanta United
+Sun Sep 29 2019,CF Montreal,1-1,?,Atlanta Utd
 Sun Sep 29 2019,New England Revolution,2-0,?,New York City
 Sun Sep 29 2019,New York Red Bulls,0-0,?,DC United
 Sun Sep 29 2019,Colorado Rapids,3-0,?,FC Dallas
@@ -395,19 +395,19 @@ Sun Sep 29 2019,Minnesota United,1-1,?,Los Angeles FC
 Sun Sep 29 2019,Real Salt Lake,2-1,?,Houston Dynamo
 Sun Sep 29 2019,San Jose Earthquakes,0-1,?,Seattle Sounders
 Sun Sep 29 2019,Sporting Kansas City,2-2,?,Portland Timbers
-Sun Oct 6 2019,Atlanta United,3-1,?,New England Revolution
+Sun Oct 6 2019,Atlanta Utd,3-1,?,New England Revolution
 Sun Oct 6 2019,DC United,0-0,?,FC Cincinnati
 Sun Oct 6 2019,FC Dallas,6-0,?,Sporting Kansas City
 Sun Oct 6 2019,Houston Dynamo,4-2,?,Los Angeles Galaxy
 Sun Oct 6 2019,Los Angeles FC,3-1,?,Colorado Rapids
-Sun Oct 6 2019,Montreal Impact,3-0,?,New York Red Bulls
+Sun Oct 6 2019,CF Montreal,3-0,?,New York Red Bulls
 Sun Oct 6 2019,Orlando City,2-5,?,Chicago Fire
 Sun Oct 6 2019,Philadelphia Union,1-2,?,New York City
 Sun Oct 6 2019,Portland Timbers,3-1,?,San Jose Earthquakes
 Sun Oct 6 2019,Seattle Sounders,1-0,?,Minnesota United
 Sun Oct 6 2019,Toronto FC,1-0,?,Columbus Crew
 Sun Oct 6 2019,Vancouver Whitecaps,0-1,?,Real Salt Lake
-Sat Oct 19 2019,Atlanta United,1-0,?,New England Revolution
+Sat Oct 19 2019,Atlanta Utd,1-0,?,New England Revolution
 Sat Oct 19 2019,Seattle Sounders,3-3,?,FC Dallas
 Sat Oct 19 2019,Toronto FC,1-1,?,DC United
 Sat Oct 19 2019,Real Salt Lake,2-1,?,Portland Timbers
@@ -415,7 +415,7 @@ Sun Oct 20 2019,Philadelphia Union,3-3,?,New York Red Bulls
 Sun Oct 20 2019,Minnesota United,1-2,?,Los Angeles Galaxy
 Wed Oct 23 2019,New York City,1-2,?,Toronto FC
 Wed Oct 23 2019,Seattle Sounders,2-0,?,Real Salt Lake
-Thu Oct 24 2019,Atlanta United,2-0,?,Philadelphia Union
+Thu Oct 24 2019,Atlanta Utd,2-0,?,Philadelphia Union
 Thu Oct 24 2019,Los Angeles FC,5-3,?,Los Angeles Galaxy
 Tue Oct 29 2019,Los Angeles FC,1-3,?,Seattle Sounders
 Wed Oct 30 2019,Atlanta Utd,1-2,?,Toronto FC

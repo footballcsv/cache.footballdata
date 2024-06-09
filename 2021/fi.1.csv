@@ -1,0 +1,165 @@
+Date,Team 1,FT,HT,Team 2
+Sat Apr 24 2021,HJK,4-2,?,Honka
+Sat Apr 24 2021,Inter Turku,1-0,?,KuPS
+Sun May 2 2021,KuPS,0-0,?,HJK
+Mon May 3 2021,AC Oulu,0-2,?,Ilves
+Mon May 3 2021,HIFK,2-0,?,Haka
+Mon May 3 2021,Honka,0-2,?,Mariehamn
+Mon May 3 2021,Lahti,2-1,?,Inter Turku
+Mon May 3 2021,SJK,1-1,?,KTP
+Fri May 7 2021,KTP,1-3,?,Honka
+Fri May 7 2021,SJK,1-1,?,HIFK
+Sun May 9 2021,Inter Turku,2-1,?,Haka
+Sun May 9 2021,Mariehamn,3-1,?,AC Oulu
+Tue May 11 2021,Ilves,0-3,?,HJK
+Tue May 11 2021,Lahti,2-4,?,KuPS
+Fri May 14 2021,Haka,0-3,?,KTP
+Fri May 14 2021,Honka,1-2,?,Inter Turku
+Fri May 14 2021,KuPS,2-0,?,Mariehamn
+Sat May 15 2021,AC Oulu,0-2,?,SJK
+Sat May 15 2021,HIFK,1-1,?,Ilves
+Mon May 17 2021,HJK,2-0,?,Lahti
+Sat May 22 2021,Inter Turku,2-1,?,KTP
+Sat May 22 2021,Lahti,1-0,?,Honka
+Sat May 22 2021,SJK,0-2,?,HJK
+Sat May 22 2021,Ilves,3-2,?,KuPS
+Sun May 23 2021,AC Oulu,1-2,?,HIFK
+Sun May 23 2021,Mariehamn,0-3,?,Haka
+Fri May 28 2021,HJK,3-1,?,AC Oulu
+Fri May 28 2021,Ilves,2-0,?,KTP
+Sat May 29 2021,Honka,0-1,?,SJK
+Sat May 29 2021,HIFK,1-4,?,Inter Turku
+Sat May 29 2021,KuPS,1-2,?,Haka
+Sun May 30 2021,Mariehamn,0-3,?,Lahti
+Thu Jun 10 2021,SJK,0-1,?,KuPS
+Thu Jun 10 2021,Lahti,3-1,?,Ilves
+Thu Jun 10 2021,KTP,0-2,?,HIFK
+Thu Jun 10 2021,Inter Turku,3-0,?,Mariehamn
+Thu Jun 10 2021,Haka,1-2,?,HJK
+Fri Jun 11 2021,AC Oulu,0-2,?,Honka
+Mon Jun 14 2021,KuPS,1-0,?,Inter Turku
+Mon Jun 14 2021,Mariehamn,0-1,?,HJK
+Mon Jun 14 2021,SJK,1-0,?,Ilves
+Tue Jun 15 2021,HIFK,1-0,?,Honka
+Tue Jun 15 2021,Haka,1-1,?,Lahti
+Tue Jun 15 2021,KTP,1-3,?,AC Oulu
+Fri Jun 18 2021,HJK,2-1,?,Ilves
+Fri Jun 18 2021,Inter Turku,2-0,?,SJK
+Sat Jun 19 2021,KuPS,2-1,?,Honka
+Wed Jun 23 2021,Ilves,2-1,?,Inter Turku
+Wed Jun 23 2021,Lahti,0-0,?,HIFK
+Thu Jun 24 2021,AC Oulu,0-2,?,KuPS
+Thu Jun 24 2021,HJK,2-0,?,KTP
+Thu Jun 24 2021,Honka,2-1,?,Haka
+Thu Jun 24 2021,Mariehamn,0-1,?,SJK
+Wed Jun 30 2021,Haka,1-1,?,Honka
+Wed Jun 30 2021,HIFK,0-1,?,HJK
+Wed Jun 30 2021,Inter Turku,1-1,?,Lahti
+Wed Jun 30 2021,KTP,1-1,?,Ilves
+Wed Jun 30 2021,KuPS,2-0,?,AC Oulu
+Wed Jun 30 2021,SJK,3-0,?,Mariehamn
+Sun Jul 4 2021,Lahti,2-1,?,SJK
+Sun Jul 4 2021,Mariehamn,0-0,?,HIFK
+Mon Jul 5 2021,AC Oulu,1-1,?,KTP
+Mon Jul 5 2021,Ilves,1-0,?,Haka
+Sun Jul 11 2021,Haka,0-1,?,KuPS
+Sun Jul 11 2021,Honka,1-0,?,AC Oulu
+Mon Jul 12 2021,HIFK,0-1,?,Lahti
+Mon Jul 12 2021,KTP,1-3,?,Mariehamn
+Fri Jul 16 2021,Ilves,0-1,?,SJK
+Fri Jul 16 2021,Lahti,1-1,?,Mariehamn
+Sat Jul 17 2021,AC Oulu,2-1,?,HJK
+Mon Jul 19 2021,Inter Turku,0-1,?,HIFK
+Mon Jul 19 2021,KTP,0-0,?,Haka
+Fri Jul 23 2021,HIFK,2-2,?,KTP
+Sat Jul 24 2021,HJK,2-0,?,Haka
+Sat Jul 24 2021,SJK,3-2,?,AC Oulu
+Sun Jul 25 2021,Mariehamn,0-2,?,Inter Turku
+Sun Jul 25 2021,Honka,1-1,?,Lahti
+Sun Jul 25 2021,KuPS,1-0,?,Ilves
+Fri Jul 30 2021,Ilves,1-0,?,AC Oulu
+Fri Jul 30 2021,Lahti,3-0,?,KTP
+Sat Jul 31 2021,HJK,0-0,?,SJK
+Mon Aug 2 2021,Inter Turku,2-2,?,Honka
+Sat Aug 7 2021,AC Oulu,1-0,?,Mariehamn
+Sat Aug 7 2021,KTP,0-1,?,HJK
+Sun Aug 8 2021,Haka,1-0,?,Inter Turku
+Sun Aug 8 2021,Honka,4-1,?,Ilves
+Sun Aug 8 2021,KuPS,2-2,?,Lahti
+Fri Aug 13 2021,Lahti,0-2,?,Haka
+Sat Aug 14 2021,AC Oulu,2-0,?,Inter Turku
+Sun Aug 15 2021,HJK,1-0,?,Mariehamn
+Sun Aug 15 2021,KuPS,4-0,?,KTP
+Mon Aug 16 2021,SJK,3-2,?,Honka
+Fri Aug 20 2021,Haka,0-1,?,AC Oulu
+Sat Aug 21 2021,Inter Turku,2-0,?,Ilves
+Sun Aug 22 2021,HIFK,1-5,?,KuPS
+Sun Aug 22 2021,Mariehamn,1-3,?,Honka
+Mon Aug 23 2021,Lahti,0-1,?,HJK
+Fri Aug 27 2021,SJK,4-0,?,Haka
+Sat Aug 28 2021,Honka,0-3,?,HIFK
+Sat Aug 28 2021,AC Oulu,1-1,?,Lahti
+Sun Aug 29 2021,HJK,1-1,?,KuPS
+Sun Aug 29 2021,Mariehamn,1-0,?,Ilves
+Tue Aug 31 2021,KTP,1-3,?,Inter Turku
+Sun Sep 5 2021,Mariehamn,0-1,?,KuPS
+Tue Sep 7 2021,HIFK,1-0,?,SJK
+Sat Sep 11 2021,Haka,1-2,?,Mariehamn
+Sat Sep 11 2021,HIFK,3-1,?,AC Oulu
+Sat Sep 11 2021,Honka,3-1,?,KTP
+Sat Sep 11 2021,Ilves,1-0,?,Lahti
+Sat Sep 11 2021,Inter Turku,1-3,?,HJK
+Sat Sep 11 2021,KuPS,3-0,?,SJK
+Tue Sep 14 2021,Ilves,1-0,?,HIFK
+Tue Sep 14 2021,KTP,0-1,?,SJK
+Sat Sep 18 2021,HIFK,0-3,?,Mariehamn
+Sat Sep 18 2021,Haka,0-1,?,Ilves
+Sat Sep 18 2021,KTP,1-2,?,KuPS
+Sat Sep 18 2021,Lahti,0-0,?,AC Oulu
+Sat Sep 18 2021,SJK,2-2,?,Inter Turku
+Sun Sep 19 2021,Honka,0-0,?,HJK
+Wed Sep 22 2021,Haka,4-0,?,SJK
+Wed Sep 22 2021,HJK,0-2,?,HIFK
+Wed Sep 22 2021,Honka,0-1,?,KuPS
+Wed Sep 22 2021,Ilves,2-0,?,Mariehamn
+Wed Sep 22 2021,Inter Turku,4-0,?,AC Oulu
+Wed Sep 22 2021,KTP,1-2,?,Lahti
+Sun Sep 26 2021,AC Oulu,0-1,?,Haka
+Sun Sep 26 2021,HJK,0-1,?,Inter Turku
+Sun Sep 26 2021,Ilves,0-0,?,Honka
+Sun Sep 26 2021,KuPS,0-0,?,HIFK
+Sun Sep 26 2021,Mariehamn,4-2,?,KTP
+Sun Sep 26 2021,SJK,4-1,?,Lahti
+Thu Sep 30 2021,Haka,2-0,?,HIFK
+Sat Oct 2 2021,Honka,1-1,?,Mariehamn
+Sat Oct 2 2021,KuPS,2-1,?,Ilves
+Sun Oct 3 2021,Lahti,2-1,?,KTP
+Sun Oct 3 2021,Haka,0-0,?,AC Oulu
+Sun Oct 3 2021,Inter Turku,2-0,?,HIFK
+Sun Oct 3 2021,HJK,2-3,?,SJK
+Sat Oct 16 2021,Ilves,2-3,?,HJK
+Sat Oct 16 2021,AC Oulu,1-2,?,Mariehamn
+Sat Oct 16 2021,Haka,1-1,?,Lahti
+Sat Oct 16 2021,HIFK,2-2,?,SJK
+Sat Oct 16 2021,Inter Turku,2-3,?,KuPS
+Sat Oct 16 2021,KTP,2-0,?,Honka
+Fri Oct 22 2021,Lahti,0-0,?,AC Oulu
+Fri Oct 22 2021,SJK,4-2,?,Ilves
+Sat Oct 23 2021,Honka,0-2,?,Haka
+Sat Oct 23 2021,KuPS,0-0,?,HIFK
+Sat Oct 23 2021,Mariehamn,5-1,?,KTP
+Sun Oct 24 2021,HJK,2-1,?,Inter Turku
+Wed Oct 27 2021,HJK,1-0,?,HIFK
+Wed Oct 27 2021,Honka,6-1,?,AC Oulu
+Wed Oct 27 2021,Ilves,0-2,?,Inter Turku
+Wed Oct 27 2021,KTP,2-4,?,Haka
+Wed Oct 27 2021,Mariehamn,0-3,?,Lahti
+Wed Oct 27 2021,SJK,2-2,?,KuPS
+Sun Oct 31 2021,AC Oulu,2-1,?,KTP
+Sun Oct 31 2021,Haka,2-0,?,Mariehamn
+Sun Oct 31 2021,Lahti,2-3,?,Honka
+Sun Oct 31 2021,HIFK,0-3,?,Ilves
+Sun Oct 31 2021,Inter Turku,2-5,?,SJK
+Sun Oct 31 2021,KuPS,1-1,?,HJK
+Wed Nov 3 2021,Rovaniemi,2-1,?,AC Oulu
+Sun Nov 7 2021,AC Oulu,2-0,?,Rovaniemi

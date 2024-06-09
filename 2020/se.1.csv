@@ -5,7 +5,7 @@ Sun Jun 14 2020,Norrkoping,2-1,?,Kalmar
 Sun Jun 14 2020,Hammarby,2-0,?,Ostersunds
 Sun Jun 14 2020,Orebro,0-2,?,AIK
 Mon Jun 15 2020,Falkenbergs,1-1,?,Hacken
-Mon Jun 15 2020,Helsingborg,0-3,?,Varbergs
+Mon Jun 15 2020,Helsingborg,0-3,?,Varberg
 Mon Jun 15 2020,Malmo FF,2-0,?,Mjallby
 Wed Jun 17 2020,AIK,1-4,?,Norrkoping
 Wed Jun 17 2020,Djurgarden,1-2,?,Orebro
@@ -14,9 +14,9 @@ Thu Jun 18 2020,Hacken,1-1,?,Malmo FF
 Thu Jun 18 2020,Kalmar,4-0,?,Helsingborg
 Thu Jun 18 2020,Mjallby,0-1,?,Falkenbergs
 Thu Jun 18 2020,Ostersunds,0-2,?,Sirius
-Thu Jun 18 2020,Varbergs,1-2,?,Goteborg
+Thu Jun 18 2020,Varberg,1-2,?,Goteborg
 Sun Jun 21 2020,Falkenbergs,0-2,?,Kalmar
-Sun Jun 21 2020,Malmo FF,2-2,?,Varbergs
+Sun Jun 21 2020,Malmo FF,2-2,?,Varberg
 Sun Jun 21 2020,Norrkoping,3-0,?,Djurgarden
 Sun Jun 21 2020,Hammarby,0-2,?,AIK
 Sun Jun 21 2020,Orebro,0-0,?,Ostersunds
@@ -30,13 +30,13 @@ Sun Jun 28 2020,Sirius,2-2,?,Goteborg
 Sun Jun 28 2020,AIK,2-2,?,Malmo FF
 Sun Jun 28 2020,Elfsborg,1-1,?,Orebro
 Mon Jun 29 2020,Hacken,1-0,?,Helsingborg
-Mon Jun 29 2020,Varbergs,3-1,?,Falkenbergs
+Mon Jun 29 2020,Varberg,3-1,?,Falkenbergs
 Wed Jul 1 2020,Kalmar,1-2,?,Ostersunds
 Wed Jul 1 2020,Malmo FF,1-0,?,Djurgarden
 Wed Jul 1 2020,Norrkoping,1-1,?,Elfsborg
 Thu Jul 2 2020,Falkenbergs,1-2,?,Sirius
 Thu Jul 2 2020,Goteborg,1-0,?,AIK
-Thu Jul 2 2020,Hammarby,1-0,?,Varbergs
+Thu Jul 2 2020,Hammarby,1-0,?,Varberg
 Thu Jul 2 2020,Helsingborg,0-1,?,Mjallby
 Thu Jul 2 2020,Orebro,0-0,?,Hacken
 Sun Jul 5 2020,AIK,1-1,?,Falkenbergs
@@ -46,11 +46,11 @@ Sun Jul 5 2020,Sirius,2-1,?,Orebro
 Mon Jul 6 2020,Djurgarden,2-2,?,Helsingborg
 Mon Jul 6 2020,Norrkoping,3-1,?,Goteborg
 Mon Jul 6 2020,Ostersunds,0-1,?,Mjallby
-Mon Jul 6 2020,Varbergs,1-0,?,Kalmar
+Mon Jul 6 2020,Varberg,1-0,?,Kalmar
 Sat Jul 11 2020,Falkenbergs,0-1,?,Ostersunds
 Sat Jul 11 2020,Hammarby,0-0,?,Sirius
 Sun Jul 12 2020,Helsingborg,2-0,?,AIK
-Sun Jul 12 2020,Orebro,1-0,?,Varbergs
+Sun Jul 12 2020,Orebro,1-0,?,Varberg
 Sun Jul 12 2020,Goteborg,1-2,?,Djurgarden
 Sun Jul 12 2020,Mjallby,3-1,?,Hacken
 Mon Jul 13 2020,Kalmar,1-2,?,Elfsborg
@@ -62,10 +62,10 @@ Thu Jul 16 2020,Hacken,6-0,?,Elfsborg
 Thu Jul 16 2020,Kalmar,1-2,?,Hammarby
 Thu Jul 16 2020,Norrkoping,2-0,?,Orebro
 Thu Jul 16 2020,Ostersunds,1-2,?,Malmo FF
-Thu Jul 16 2020,Varbergs,1-0,?,Mjallby
+Thu Jul 16 2020,Varberg,1-0,?,Mjallby
 Sun Jul 19 2020,Malmo FF,2-1,?,Kalmar
 Sun Jul 19 2020,Sirius,4-2,?,Norrkoping
-Sun Jul 19 2020,Varbergs,2-2,?,AIK
+Sun Jul 19 2020,Varberg,2-2,?,AIK
 Sun Jul 19 2020,Elfsborg,1-0,?,Djurgarden
 Sun Jul 19 2020,Falkenbergs,2-2,?,Helsingborg
 Sun Jul 19 2020,Ostersunds,2-2,?,Hacken
@@ -73,13 +73,13 @@ Mon Jul 20 2020,Hammarby,1-1,?,Goteborg
 Mon Jul 20 2020,Orebro,3-1,?,Mjallby
 Wed Jul 22 2020,Djurgarden,0-0,?,Ostersunds
 Wed Jul 22 2020,Hacken,4-0,?,AIK
-Wed Jul 22 2020,Norrkoping,2-0,?,Varbergs
+Wed Jul 22 2020,Norrkoping,2-0,?,Varberg
 Thu Jul 23 2020,Goteborg,2-2,?,Falkenbergs
 Thu Jul 23 2020,Helsingborg,1-1,?,Orebro
 Thu Jul 23 2020,Kalmar,1-1,?,Sirius
 Thu Jul 23 2020,Malmo FF,3-0,?,Hammarby
 Thu Jul 23 2020,Mjallby,0-5,?,Elfsborg
-Sun Jul 26 2020,Elfsborg,3-3,?,Varbergs
+Sun Jul 26 2020,Elfsborg,3-3,?,Varberg
 Sun Jul 26 2020,Falkenbergs,3-3,?,Norrkoping
 Sun Jul 26 2020,Hacken,0-0,?,Goteborg
 Sun Jul 26 2020,AIK,0-1,?,Djurgarden
@@ -91,13 +91,13 @@ Sat Aug 1 2020,Djurgarden,3-1,?,Hacken
 Sat Aug 1 2020,Orebro,1-2,?,Falkenbergs
 Sun Aug 2 2020,Helsingborg,1-1,?,Hammarby
 Sun Aug 2 2020,Goteborg,0-3,?,Malmo FF
-Sun Aug 2 2020,Varbergs,1-1,?,Ostersunds
+Sun Aug 2 2020,Varberg,1-1,?,Ostersunds
 Sun Aug 2 2020,Kalmar,0-0,?,AIK
 Mon Aug 3 2020,Elfsborg,3-3,?,Sirius
 Mon Aug 3 2020,Norrkoping,1-1,?,Mjallby
 Wed Aug 5 2020,Hammarby,1-1,?,Falkenbergs
 Wed Aug 5 2020,Malmo FF,4-1,?,Helsingborg
-Wed Aug 5 2020,Varbergs,1-2,?,Djurgarden
+Wed Aug 5 2020,Varberg,1-2,?,Djurgarden
 Thu Aug 6 2020,AIK,1-2,?,Elfsborg
 Thu Aug 6 2020,Goteborg,2-2,?,Ostersunds
 Thu Aug 6 2020,Hacken,2-1,?,Norrkoping
@@ -110,7 +110,7 @@ Sun Aug 9 2020,Djurgarden,1-2,?,Hammarby
 Sun Aug 9 2020,Mjallby,3-1,?,AIK
 Sun Aug 9 2020,Ostersunds,0-1,?,Elfsborg
 Mon Aug 10 2020,Helsingborg,3-2,?,Norrkoping
-Mon Aug 10 2020,Sirius,3-3,?,Varbergs
+Mon Aug 10 2020,Sirius,3-3,?,Varberg
 Wed Aug 12 2020,Djurgarden,2-1,?,Mjallby
 Wed Aug 12 2020,Malmo FF,2-1,?,Orebro
 Thu Aug 13 2020,AIK,0-1,?,Ostersunds
@@ -118,13 +118,13 @@ Thu Aug 13 2020,Elfsborg,4-2,?,Falkenbergs
 Thu Aug 13 2020,Kalmar,1-1,?,Goteborg
 Thu Aug 13 2020,Norrkoping,1-2,?,Hammarby
 Thu Aug 13 2020,Sirius,3-1,?,Helsingborg
-Thu Aug 13 2020,Varbergs,1-3,?,Hacken
+Thu Aug 13 2020,Varberg,1-3,?,Hacken
 Sat Aug 15 2020,Orebro,0-3,?,Djurgarden
 Sun Aug 16 2020,Falkenbergs,1-1,?,AIK
 Sun Aug 16 2020,Hammarby,2-2,?,Elfsborg
 Sun Aug 16 2020,Mjallby,2-2,?,Malmo FF
 Mon Aug 17 2020,Goteborg,1-3,?,Norrkoping
-Mon Aug 17 2020,Hacken,2-1,?,Varbergs
+Mon Aug 17 2020,Hacken,2-1,?,Varberg
 Mon Aug 17 2020,Helsingborg,1-2,?,Sirius
 Mon Aug 17 2020,Ostersunds,2-0,?,Kalmar
 Sat Aug 22 2020,Djurgarden,2-2,?,Goteborg
@@ -132,17 +132,18 @@ Sat Aug 22 2020,Sirius,3-1,?,Hammarby
 Sun Aug 23 2020,Elfsborg,0-1,?,Ostersunds
 Sun Aug 23 2020,Malmo FF,2-1,?,Falkenbergs
 Sun Aug 23 2020,AIK,2-0,?,Helsingborg
-Sun Aug 23 2020,Varbergs,2-1,?,Orebro
+Sun Aug 23 2020,Varberg,2-1,?,Orebro
 Mon Aug 24 2020,Kalmar,1-4,?,Mjallby
 Mon Aug 24 2020,Norrkoping,0-1,?,Hacken
 Sat Aug 29 2020,Ostersunds,2-1,?,Falkenbergs
-Sat Aug 29 2020,Varbergs,2-0,?,Sirius
+Sat Aug 29 2020,Varberg,2-0,?,Sirius
 Sun Aug 30 2020,AIK,0-1,?,Hacken
 Sun Aug 30 2020,Helsingborg,3-1,?,Djurgarden
 Sun Aug 30 2020,Mjallby,1-1,?,Goteborg
 Sun Aug 30 2020,Hammarby,3-3,?,Kalmar
 Sun Aug 30 2020,Malmo FF,1-1,?,Elfsborg
 Sun Aug 30 2020,Orebro,4-3,?,Norrkoping
+Wed Sep 9 2020,Helsingborg,1-1,?,Kalmar
 Thu Sep 10 2020,Goteborg,0-4,?,Hammarby
 Thu Sep 10 2020,Norrkoping,2-2,?,Ostersunds
 Thu Sep 10 2020,Orebro,3-2,?,Malmo FF
@@ -150,12 +151,12 @@ Sat Sep 12 2020,Djurgarden,1-1,?,Elfsborg
 Sun Sep 13 2020,Falkenbergs,0-3,?,Goteborg
 Sun Sep 13 2020,Hammarby,2-2,?,Helsingborg
 Sun Sep 13 2020,Malmo FF,0-0,?,AIK
-Sun Sep 13 2020,Mjallby,2-3,?,Varbergs
+Sun Sep 13 2020,Mjallby,2-3,?,Varberg
 Mon Sep 14 2020,Hacken,1-1,?,Sirius
 Mon Sep 14 2020,Kalmar,0-2,?,Norrkoping
 Mon Sep 14 2020,Ostersunds,0-0,?,Orebro
 Thu Sep 17 2020,Elfsborg,2-2,?,Mjallby
-Thu Sep 17 2020,Falkenbergs,2-0,?,Varbergs
+Thu Sep 17 2020,Falkenbergs,2-0,?,Varberg
 Sun Sep 20 2020,AIK,3-0,?,Hammarby
 Sun Sep 20 2020,Ostersunds,1-1,?,Djurgarden
 Sun Sep 20 2020,Goteborg,1-2,?,Kalmar
@@ -163,7 +164,7 @@ Sun Sep 20 2020,Norrkoping,1-1,?,Malmo FF
 Mon Sep 21 2020,Elfsborg,1-1,?,Hacken
 Mon Sep 21 2020,Mjallby,1-0,?,Orebro
 Mon Sep 21 2020,Sirius,2-1,?,Falkenbergs
-Mon Sep 21 2020,Varbergs,1-3,?,Helsingborg
+Mon Sep 21 2020,Varberg,1-3,?,Helsingborg
 Sat Sep 26 2020,Orebro,2-1,?,Sirius
 Sun Sep 27 2020,Falkenbergs,1-3,?,Hammarby
 Sun Sep 27 2020,Helsingborg,0-1,?,Ostersunds
@@ -171,13 +172,13 @@ Sun Sep 27 2020,Malmo FF,3-0,?,Hacken
 Sun Sep 27 2020,Djurgarden,1-2,?,Norrkoping
 Sun Sep 27 2020,Elfsborg,0-0,?,Goteborg
 Mon Sep 28 2020,AIK,1-0,?,Mjallby
-Mon Sep 28 2020,Kalmar,1-1,?,Varbergs
+Mon Sep 28 2020,Kalmar,1-1,?,Varberg
 Sat Oct 3 2020,Hacken,3-0,?,Falkenbergs
 Sat Oct 3 2020,Orebro,3-2,?,Elfsborg
 Sun Oct 4 2020,Hammarby,1-1,?,Djurgarden
 Sun Oct 4 2020,Mjallby,3-2,?,Helsingborg
 Sun Oct 4 2020,Ostersunds,1-2,?,AIK
-Sun Oct 4 2020,Goteborg,1-0,?,Varbergs
+Sun Oct 4 2020,Goteborg,1-0,?,Varberg
 Sun Oct 4 2020,Kalmar,0-4,?,Malmo FF
 Sun Oct 4 2020,Norrkoping,1-2,?,Sirius
 Sat Oct 17 2020,Falkenbergs,2-1,?,Orebro
@@ -185,7 +186,7 @@ Sun Oct 18 2020,Elfsborg,3-1,?,Kalmar
 Sun Oct 18 2020,Hammarby,4-2,?,Mjallby
 Sun Oct 18 2020,Sirius,2-3,?,Ostersunds
 Sun Oct 18 2020,AIK,2-0,?,Goteborg
-Sun Oct 18 2020,Varbergs,1-3,?,Norrkoping
+Sun Oct 18 2020,Varberg,1-3,?,Norrkoping
 Mon Oct 19 2020,Djurgarden,3-2,?,Malmo FF
 Mon Oct 19 2020,Helsingborg,0-0,?,Hacken
 Sat Oct 24 2020,Djurgarden,4-0,?,Sirius
@@ -195,7 +196,7 @@ Sun Oct 25 2020,Ostersunds,1-3,?,Hammarby
 Sun Oct 25 2020,Malmo FF,3-1,?,Goteborg
 Sun Oct 25 2020,Orebro,3-2,?,Helsingborg
 Mon Oct 26 2020,Norrkoping,2-2,?,AIK
-Mon Oct 26 2020,Varbergs,0-0,?,Elfsborg
+Mon Oct 26 2020,Varberg,0-0,?,Elfsborg
 Wed Oct 28 2020,Hacken,0-2,?,Djurgarden
 Thu Oct 29 2020,Sirius,0-0,?,AIK
 Sun Nov 1 2020,Elfsborg,2-1,?,Norrkoping
@@ -204,33 +205,33 @@ Sun Nov 1 2020,Sirius,2-2,?,Kalmar
 Sun Nov 1 2020,Falkenbergs,3-2,?,Djurgarden
 Sun Nov 1 2020,Goteborg,0-1,?,Orebro
 Sun Nov 1 2020,Hammarby,1-1,?,Hacken
-Mon Nov 2 2020,AIK,1-0,?,Varbergs
+Mon Nov 2 2020,AIK,1-0,?,Varberg
 Mon Nov 2 2020,Helsingborg,0-1,?,Malmo FF
 Sat Nov 7 2020,Falkenbergs,1-3,?,Elfsborg
 Sat Nov 7 2020,Hacken,2-1,?,Ostersunds
 Sat Nov 7 2020,Mjallby,2-0,?,Norrkoping
 Sun Nov 8 2020,Djurgarden,0-1,?,AIK
 Sun Nov 8 2020,Orebro,0-1,?,Kalmar
-Sun Nov 8 2020,Varbergs,5-2,?,Hammarby
+Sun Nov 8 2020,Varberg,5-2,?,Hammarby
 Sun Nov 8 2020,Helsingborg,0-1,?,Goteborg
 Sun Nov 8 2020,Malmo FF,4-0,?,Sirius
 Sun Nov 22 2020,AIK,0-2,?,Orebro
 Sun Nov 22 2020,Elfsborg,2-1,?,Helsingborg
 Sun Nov 22 2020,Kalmar,0-3,?,Djurgarden
 Sun Nov 22 2020,Hammarby,2-2,?,Malmo FF
-Sun Nov 22 2020,Ostersunds,0-4,?,Varbergs
+Sun Nov 22 2020,Ostersunds,0-4,?,Varberg
 Mon Nov 23 2020,Goteborg,1-1,?,Hacken
 Mon Nov 23 2020,Norrkoping,4-1,?,Falkenbergs
 Mon Nov 23 2020,Sirius,0-1,?,Mjallby
 Sun Nov 29 2020,Helsingborg,0-0,?,Falkenbergs
 Sun Nov 29 2020,Ostersunds,0-4,?,Goteborg
-Sun Nov 29 2020,Varbergs,3-2,?,Malmo FF
+Sun Nov 29 2020,Varberg,3-2,?,Malmo FF
 Sun Nov 29 2020,Hacken,3-0,?,Orebro
 Sun Nov 29 2020,Mjallby,2-1,?,Djurgarden
 Sun Nov 29 2020,Sirius,1-1,?,Elfsborg
 Mon Nov 30 2020,AIK,0-1,?,Kalmar
 Mon Nov 30 2020,Hammarby,0-1,?,Norrkoping
-Sun Dec 6 2020,Djurgarden,1-0,?,Varbergs
+Sun Dec 6 2020,Djurgarden,1-0,?,Varberg
 Sun Dec 6 2020,Elfsborg,2-2,?,AIK
 Sun Dec 6 2020,Falkenbergs,2-3,?,Mjallby
 Sun Dec 6 2020,Goteborg,2-0,?,Sirius

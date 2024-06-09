@@ -1,19 +1,19 @@
 Date,Team 1,FT,HT,Team 2
-Fri Sep 11 2020,Rapid Vienna,4-1,?,Admira
+Fri Sep 11 2020,SK Rapid,4-1,?,Admira
 Fri Sep 11 2020,LASK,1-0,?,Austria Vienna
 Sat Sep 12 2020,Altach,1-1,?,Hartberg
 Sun Sep 13 2020,Ried,3-2,?,Tirol
 Sun Sep 13 2020,St. Polten,0-0,?,Sturm Graz
 Sun Sep 13 2020,Wolfsberger AC,1-3,?,Salzburg
 Sat Sep 19 2020,Salzburg,4-1,?,Altach
-Sat Sep 19 2020,Sturm Graz,1-1,?,Rapid Vienna
+Sat Sep 19 2020,Sturm Graz,1-1,?,SK Rapid
 Sat Sep 19 2020,Tirol,1-1,?,LASK
 Sun Sep 20 2020,Admira,0-5,?,St. Polten
 Sun Sep 20 2020,Hartberg,0-2,?,Wolfsberger AC
 Sun Sep 20 2020,Austria Vienna,2-1,?,Ried
 Sat Sep 26 2020,Altach,0-2,?,Tirol
 Sat Sep 26 2020,Ried,1-3,?,Salzburg
-Sat Sep 26 2020,St. Polten,1-2,?,Rapid Vienna
+Sat Sep 26 2020,St. Polten,1-2,?,SK Rapid
 Sun Sep 27 2020,Austria Vienna,2-2,?,Admira
 Sun Sep 27 2020,Hartberg,1-1,?,Sturm Graz
 Sun Sep 27 2020,LASK,3-1,?,Wolfsberger AC
@@ -22,52 +22,177 @@ Sat Oct 3 2020,Tirol,0-2,?,Austria Vienna
 Sat Oct 3 2020,Wolfsberger AC,2-4,?,St. Polten
 Sun Oct 4 2020,Salzburg,7-1,?,Hartberg
 Sun Oct 4 2020,Sturm Graz,4-0,?,Altach
-Sun Oct 4 2020,Rapid Vienna,3-0,?,LASK
+Sun Oct 4 2020,SK Rapid,3-0,?,LASK
 Sat Oct 24 2020,Altach,4-2,?,Admira
 Sat Oct 24 2020,Austria Vienna,0-2,?,Salzburg
 Sat Oct 24 2020,Ried,0-2,?,Sturm Graz
 Sun Oct 25 2020,LASK,4-0,?,St. Polten
 Sun Oct 25 2020,Tirol,1-1,?,Hartberg
-Sun Oct 25 2020,Wolfsberger AC,3-4,?,Rapid Vienna
+Sun Oct 25 2020,Wolfsberger AC,3-4,?,SK Rapid
 Sat Oct 31 2020,Hartberg,2-1,?,Austria Vienna
 Sat Oct 31 2020,Salzburg,5-0,?,Tirol
 Sat Oct 31 2020,St. Polten,4-0,?,Ried
 Sun Nov 1 2020,Admira,1-3,?,Wolfsberger AC
-Sun Nov 1 2020,Rapid Vienna,3-1,?,Altach
+Sun Nov 1 2020,SK Rapid,3-1,?,Altach
 Sun Nov 1 2020,Sturm Graz,0-2,?,LASK
 Sat Nov 7 2020,Altach,0-0,?,Austria Vienna
 Sat Nov 7 2020,Ried,2-0,?,Hartberg
 Sat Nov 7 2020,St. Polten,0-1,?,Tirol
 Sun Nov 8 2020,LASK,4-0,?,Admira
-Sun Nov 8 2020,Rapid Vienna,1-1,?,Salzburg
+Sun Nov 8 2020,SK Rapid,1-1,?,Salzburg
 Sat Nov 21 2020,Altach,0-2,?,Wolfsberger AC
 Sat Nov 21 2020,Hartberg,1-1,?,LASK
 Sat Nov 21 2020,Salzburg,1-3,?,Sturm Graz
 Sun Nov 22 2020,Austria Vienna,1-1,?,St. Polten
 Sun Nov 22 2020,Tirol,3-0,?,Admira
-Sun Nov 22 2020,Ried,4-3,?,Rapid Vienna
+Sun Nov 22 2020,Ried,4-3,?,SK Rapid
 Sat Nov 28 2020,Admira,2-3,?,Hartberg
 Sat Nov 28 2020,St. Polten,2-8,?,Salzburg
 Sat Nov 28 2020,Sturm Graz,1-0,?,Tirol
 Sun Nov 29 2020,LASK,3-0,?,Altach
 Sun Nov 29 2020,Wolfsberger AC,1-1,?,Ried
-Sun Nov 29 2020,Rapid Vienna,1-1,?,Austria Vienna
+Sun Nov 29 2020,SK Rapid,1-1,?,Austria Vienna
 Sat Dec 5 2020,Admira,1-0,?,Salzburg
 Sat Dec 5 2020,Altach,0-4,?,St. Polten
 Sat Dec 5 2020,Austria Vienna,0-4,?,Sturm Graz
-Sun Dec 6 2020,Hartberg,1-3,?,Rapid Vienna
+Sun Dec 6 2020,Hartberg,1-3,?,SK Rapid
 Sun Dec 6 2020,Tirol,4-1,?,Wolfsberger AC
 Sun Dec 6 2020,LASK,3-0,?,Ried
 Sat Dec 12 2020,Ried,1-4,?,Altach
 Sat Dec 12 2020,St. Polten,2-2,?,Hartberg
 Sat Dec 12 2020,Sturm Graz,3-0,?,Admira
-Sun Dec 13 2020,Rapid Vienna,0-3,?,Tirol
+Sun Dec 13 2020,SK Rapid,0-3,?,Tirol
 Sun Dec 13 2020,Wolfsberger AC,3-2,?,Austria Vienna
 Sun Dec 13 2020,Salzburg,3-1,?,LASK
-Sat Dec 19 2020,Admira,0-1,?,Rapid Vienna
+Sat Dec 19 2020,Admira,0-1,?,SK Rapid
 Sat Dec 19 2020,Hartberg,1-0,?,Altach
 Sat Dec 19 2020,Sturm Graz,3-0,?,St. Polten
 Sun Dec 20 2020,Salzburg,2-3,?,Wolfsberger AC
 Sun Dec 20 2020,Tirol,1-3,?,Ried
 Sun Dec 20 2020,Austria Vienna,1-1,?,LASK
 Sun Jan 17 2021,Wolfsberger AC,0-0,?,Sturm Graz
+Fri Jan 22 2021,SK Rapid,4-1,?,Sturm Graz
+Sat Jan 23 2021,Ried,0-1,?,Austria Vienna
+Sat Jan 23 2021,St. Polten,2-2,?,Admira
+Sat Jan 23 2021,Wolfsberger AC,0-0,?,Hartberg
+Sun Jan 24 2021,Altach,0-2,?,Salzburg
+Sun Jan 24 2021,LASK,2-4,?,Tirol
+Tue Jan 26 2021,Admira,0-4,?,Austria Vienna
+Tue Jan 26 2021,Sturm Graz,2-1,?,Hartberg
+Wed Jan 27 2021,SK Rapid,2-1,?,St. Polten
+Wed Jan 27 2021,Salzburg,3-0,?,Ried
+Wed Jan 27 2021,Tirol,3-1,?,Altach
+Wed Jan 27 2021,Wolfsberger AC,0-3,?,LASK
+Sat Jan 30 2021,Altach,2-1,?,Sturm Graz
+Sat Jan 30 2021,Hartberg,0-3,?,Salzburg
+Sat Jan 30 2021,Ried,0-0,?,Admira
+Sun Jan 31 2021,Austria Vienna,2-2,?,Tirol
+Sun Jan 31 2021,St. Polten,0-2,?,Wolfsberger AC
+Sun Jan 31 2021,LASK,1-2,?,SK Rapid
+Tue Feb 9 2021,Sturm Graz,2-1,?,Ried
+Tue Feb 9 2021,SK Rapid,1-0,?,Wolfsberger AC
+Wed Feb 10 2021,Admira,3-1,?,Altach
+Wed Feb 10 2021,St. Polten,1-3,?,LASK
+Wed Feb 10 2021,Salzburg,3-1,?,Austria Vienna
+Sat Feb 13 2021,Altach,0-0,?,SK Rapid
+Sat Feb 13 2021,Tirol,2-4,?,Salzburg
+Sat Feb 13 2021,Wolfsberger AC,2-1,?,Admira
+Sun Feb 14 2021,Austria Vienna,0-1,?,Hartberg
+Sun Feb 14 2021,Ried,1-1,?,St. Polten
+Sun Feb 14 2021,LASK,2-0,?,Sturm Graz
+Sat Feb 20 2021,Austria Vienna,5-1,?,Altach
+Sat Feb 20 2021,Hartberg,1-1,?,Ried
+Sat Feb 20 2021,Tirol,0-1,?,St. Polten
+Sun Feb 21 2021,Admira,1-2,?,LASK
+Sun Feb 21 2021,Sturm Graz,1-2,?,Wolfsberger AC
+Sun Feb 21 2021,Salzburg,4-2,?,SK Rapid
+Tue Feb 23 2021,Hartberg,1-0,?,Tirol
+Sat Feb 27 2021,Admira,1-1,?,Tirol
+Sat Feb 27 2021,LASK,1-2,?,Hartberg
+Sat Feb 27 2021,SK Rapid,1-0,?,Ried
+Sun Feb 28 2021,St. Polten,0-2,?,Austria Vienna
+Sun Feb 28 2021,Wolfsberger AC,0-1,?,Altach
+Sun Feb 28 2021,Sturm Graz,2-1,?,Salzburg
+Sat Mar 6 2021,Altach,0-1,?,LASK
+Sat Mar 6 2021,Hartberg,2-1,?,Admira
+Sat Mar 6 2021,Tirol,1-1,?,Sturm Graz
+Sun Mar 7 2021,Ried,0-4,?,Wolfsberger AC
+Sun Mar 7 2021,Salzburg,4-1,?,St. Polten
+Sun Mar 7 2021,Austria Vienna,0-0,?,SK Rapid
+Sat Mar 13 2021,Salzburg,3-1,?,Admira
+Sun Mar 14 2021,SK Rapid,4-0,?,Hartberg
+Sun Mar 14 2021,Ried,0-3,?,LASK
+Sun Mar 14 2021,St. Polten,0-1,?,Altach
+Sun Mar 14 2021,Sturm Graz,2-1,?,Austria Vienna
+Sun Mar 14 2021,Wolfsberger AC,3-5,?,Tirol
+Sat Mar 20 2021,LASK,0-1,?,Salzburg
+Sun Mar 21 2021,Admira,0-0,?,Sturm Graz
+Sun Mar 21 2021,Altach,2-1,?,Ried
+Sun Mar 21 2021,Austria Vienna,3-5,?,Wolfsberger AC
+Sun Mar 21 2021,Hartberg,3-3,?,St. Polten
+Sun Mar 21 2021,Tirol,1-1,?,SK Rapid
+Sat Apr 3 2021,Austria Vienna,2-0,?,Altach
+Sat Apr 3 2021,Ried,3-2,?,Hartberg
+Sat Apr 3 2021,St. Polten,0-1,?,Admira
+Sun Apr 4 2021,Tirol,2-0,?,LASK
+Sun Apr 4 2021,Wolfsberger AC,1-8,?,SK Rapid
+Sun Apr 4 2021,Salzburg,3-1,?,Sturm Graz
+Sat Apr 10 2021,Admira,0-2,?,Ried
+Sat Apr 10 2021,Altach,1-0,?,St. Polten
+Sat Apr 10 2021,Hartberg,1-0,?,Austria Vienna
+Sun Apr 11 2021,LASK,2-1,?,Wolfsberger AC
+Sun Apr 11 2021,Sturm Graz,3-2,?,Tirol
+Sun Apr 11 2021,SK Rapid,0-3,?,Salzburg
+Sat Apr 17 2021,Admira,0-1,?,Hartberg
+Sat Apr 17 2021,Ried,0-0,?,Altach
+Sat Apr 17 2021,St. Polten,1-2,?,Austria Vienna
+Sun Apr 18 2021,Salzburg,2-0,?,LASK
+Sun Apr 18 2021,Wolfsberger AC,2-0,?,Tirol
+Sun Apr 18 2021,SK Rapid,0-0,?,Sturm Graz
+Tue Apr 20 2021,Altach,0-1,?,Admira
+Tue Apr 20 2021,Hartberg,0-0,?,St. Polten
+Tue Apr 20 2021,Austria Vienna,2-2,?,Ried
+Wed Apr 21 2021,Sturm Graz,0-1,?,Wolfsberger AC
+Wed Apr 21 2021,Tirol,3-2,?,Salzburg
+Wed Apr 21 2021,LASK,1-1,?,SK Rapid
+Sat Apr 24 2021,Admira,0-2,?,Austria Vienna
+Sat Apr 24 2021,Altach,2-2,?,Hartberg
+Sat Apr 24 2021,Ried,2-1,?,St. Polten
+Sun Apr 25 2021,SK Rapid,4-0,?,Tirol
+Sun Apr 25 2021,Wolfsberger AC,1-2,?,Salzburg
+Sun Apr 25 2021,Sturm Graz,3-1,?,LASK
+Tue Apr 27 2021,Austria Vienna,0-0,?,Admira
+Tue Apr 27 2021,Hartberg,2-1,?,Altach
+Tue Apr 27 2021,St. Polten,0-0,?,Ried
+Wed Apr 28 2021,LASK,0-0,?,Sturm Graz
+Wed Apr 28 2021,Salzburg,1-1,?,Wolfsberger AC
+Wed Apr 28 2021,Tirol,2-3,?,SK Rapid
+Sat May 8 2021,Admira,2-0,?,St. Polten
+Sat May 8 2021,Altach,2-1,?,Austria Vienna
+Sat May 8 2021,Hartberg,1-1,?,Ried
+Sun May 9 2021,LASK,3-3,?,Tirol
+Sun May 9 2021,Sturm Graz,1-3,?,Salzburg
+Sun May 9 2021,SK Rapid,1-2,?,Wolfsberger AC
+Tue May 11 2021,Ried,0-0,?,Admira
+Tue May 11 2021,St. Polten,3-3,?,Altach
+Tue May 11 2021,Austria Vienna,3-1,?,Hartberg
+Wed May 12 2021,Tirol,2-3,?,Sturm Graz
+Wed May 12 2021,Wolfsberger AC,0-4,?,LASK
+Wed May 12 2021,Salzburg,2-0,?,SK Rapid
+Sat May 15 2021,Altach,3-0,?,Ried
+Sat May 15 2021,Austria Vienna,2-1,?,St. Polten
+Sat May 15 2021,Hartberg,2-0,?,Admira
+Sun May 16 2021,LASK,2-5,?,Salzburg
+Sun May 16 2021,Sturm Graz,4-1,?,SK Rapid
+Sun May 16 2021,Tirol,2-2,?,Wolfsberger AC
+Fri May 21 2021,Admira,1-1,?,Altach
+Fri May 21 2021,Ried,3-2,?,Austria Vienna
+Fri May 21 2021,St. Polten,0-1,?,Hartberg
+Sat May 22 2021,SK Rapid,3-0,?,LASK
+Sat May 22 2021,Salzburg,4-0,?,Tirol
+Sat May 22 2021,Wolfsberger AC,1-3,?,Sturm Graz
+Mon May 24 2021,Hartberg,0-3,?,Austria Vienna
+Wed May 26 2021,A. Klagenfurt,4-0,?,St. Polten
+Thu May 27 2021,Austria Vienna,3-0,?,Wolfsberger AC
+Sat May 29 2021,St. Polten,0-1,?,A. Klagenfurt
+Sun May 30 2021,Wolfsberger AC,1-2,?,Austria Vienna

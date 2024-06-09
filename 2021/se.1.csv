@@ -1,0 +1,243 @@
+Date,Team 1,FT,HT,Team 2
+Sat Apr 10 2021,Malmo FF,3-2,?,Hammarby
+Sat Apr 10 2021,Orebro,0-0,?,Goteborg
+Sun Apr 11 2021,Halmstad,1-0,?,Hacken
+Sun Apr 11 2021,Mjallby,0-0,?,Varberg
+Sun Apr 11 2021,Elfsborg,0-2,?,Djurgarden
+Sun Apr 11 2021,Norrkoping,1-1,?,Sirius
+Mon Apr 12 2021,AIK,2-0,?,Degerfors
+Mon Apr 12 2021,Kalmar,0-0,?,Ostersunds
+Sat Apr 17 2021,Hammarby,2-0,?,Mjallby
+Sun Apr 18 2021,Degerfors,0-1,?,Kalmar
+Sun Apr 18 2021,Hacken,1-2,?,Malmo FF
+Sun Apr 18 2021,Ostersunds,5-0,?,Orebro
+Sun Apr 18 2021,Djurgarden,1-0,?,Norrkoping
+Sun Apr 18 2021,Sirius,1-0,?,Halmstad
+Mon Apr 19 2021,Goteborg,2-0,?,AIK
+Mon Apr 19 2021,Varberg,1-3,?,Elfsborg
+Sat Apr 24 2021,Hacken,1-2,?,Sirius
+Sun Apr 25 2021,Kalmar,1-0,?,Orebro
+Sun Apr 25 2021,Norrkoping,2-1,?,Halmstad
+Sun Apr 25 2021,Varberg,1-3,?,Djurgarden
+Sun Apr 25 2021,AIK,2-0,?,Hammarby
+Sun Apr 25 2021,Malmo FF,1-1,?,Ostersunds
+Mon Apr 26 2021,Elfsborg,1-0,?,Mjallby
+Mon Apr 26 2021,Goteborg,2-3,?,Degerfors
+Sat May 1 2021,Sirius,1-1,?,Kalmar
+Sat May 1 2021,Hammarby,1-1,?,Hacken
+Sun May 2 2021,Halmstad,1-1,?,Goteborg
+Sun May 2 2021,Orebro,0-3,?,Norrkoping
+Sun May 2 2021,Ostersunds,1-2,?,Varberg
+Sun May 2 2021,AIK,1-0,?,Elfsborg
+Mon May 3 2021,Djurgarden,3-1,?,Malmo FF
+Mon May 3 2021,Mjallby,1-0,?,Degerfors
+Sat May 8 2021,Goteborg,1-1,?,Hacken
+Sat May 8 2021,Hammarby,3-2,?,Sirius
+Sat May 8 2021,Elfsborg,2-2,?,Kalmar
+Sat May 8 2021,Orebro,1-0,?,Halmstad
+Sun May 9 2021,Degerfors,2-0,?,Djurgarden
+Sun May 9 2021,Mjallby,1-0,?,Ostersunds
+Sun May 9 2021,Malmo FF,3-2,?,Varberg
+Mon May 10 2021,Norrkoping,2-0,?,AIK
+Wed May 12 2021,Djurgarden,2-0,?,Ostersunds
+Wed May 12 2021,Hacken,2-3,?,Orebro
+Wed May 12 2021,Kalmar,0-0,?,Goteborg
+Wed May 12 2021,Sirius,0-2,?,Elfsborg
+Wed May 12 2021,Varberg,1-3,?,Hammarby
+Thu May 13 2021,Halmstad,1-1,?,Mjallby
+Thu May 13 2021,AIK,1-1,?,Malmo FF
+Thu May 13 2021,Norrkoping,1-1,?,Degerfors
+Sun May 16 2021,Hammarby,2-2,?,Djurgarden
+Mon May 17 2021,Elfsborg,2-3,?,Halmstad
+Mon May 17 2021,Goteborg,2-2,?,Sirius
+Mon May 17 2021,Malmo FF,3-1,?,Kalmar
+Mon May 17 2021,Mjallby,1-1,?,Hacken
+Mon May 17 2021,Ostersunds,1-2,?,AIK
+Mon May 17 2021,Varberg,2-1,?,Norrkoping
+Tue May 18 2021,Degerfors,3-0,?,Orebro
+Thu May 20 2021,Malmo FF,2-1,?,Elfsborg
+Sat May 22 2021,AIK,2-2,?,Mjallby
+Sat May 22 2021,Ostersunds,3-0,?,Sirius
+Sun May 23 2021,Halmstad,0-0,?,Degerfors
+Sun May 23 2021,Kalmar,2-1,?,Hammarby
+Sun May 23 2021,Djurgarden,0-0,?,Goteborg
+Sun May 23 2021,Hacken,3-1,?,Varberg
+Mon May 24 2021,Elfsborg,1-0,?,Norrkoping
+Mon May 24 2021,Orebro,1-2,?,Malmo FF
+Sat Jul 3 2021,Norrkoping,3-2,?,Malmo FF
+Sat Jul 3 2021,Degerfors,3-1,?,Ostersunds
+Sun Jul 4 2021,Hacken,2-1,?,AIK
+Sun Jul 4 2021,Varberg,1-1,?,Kalmar
+Sun Jul 4 2021,Hammarby,1-1,?,Halmstad
+Sun Jul 4 2021,Sirius,2-1,?,Mjallby
+Mon Jul 5 2021,Djurgarden,3-0,?,Orebro
+Mon Jul 5 2021,Goteborg,0-1,?,Elfsborg
+Sat Jul 10 2021,Malmo FF,4-0,?,Sirius
+Sat Jul 10 2021,AIK,2-1,?,Varberg
+Sun Jul 11 2021,Hammarby,5-1,?,Degerfors
+Sun Jul 11 2021,Mjallby,0-1,?,Norrkoping
+Sun Jul 11 2021,Elfsborg,2-1,?,Orebro
+Sun Jul 11 2021,Ostersunds,2-3,?,Goteborg
+Mon Jul 12 2021,Halmstad,0-0,?,Djurgarden
+Mon Jul 12 2021,Kalmar,2-3,?,Hacken
+Sat Jul 17 2021,Degerfors,0-5,?,Malmo FF
+Sat Jul 17 2021,Elfsborg,3-0,?,Ostersunds
+Sun Jul 18 2021,Norrkoping,0-1,?,Hacken
+Sun Jul 18 2021,Orebro,0-2,?,Hammarby
+Sun Jul 18 2021,AIK,2-0,?,Kalmar
+Sun Jul 18 2021,Goteborg,3-2,?,Mjallby
+Mon Jul 19 2021,Djurgarden,5-1,?,Sirius
+Mon Jul 19 2021,Halmstad,1-1,?,Varberg
+Sat Jul 24 2021,Mjallby,0-2,?,Malmo FF
+Sat Jul 24 2021,Sirius,2-0,?,Degerfors
+Sun Jul 25 2021,Kalmar,0-1,?,Djurgarden
+Sun Jul 25 2021,Hacken,1-1,?,Elfsborg
+Sun Jul 25 2021,Hammarby,2-1,?,Norrkoping
+Mon Jul 26 2021,Orebro,1-1,?,AIK
+Mon Jul 26 2021,Ostersunds,0-1,?,Halmstad
+Mon Jul 26 2021,Varberg,2-0,?,Goteborg
+Sat Jul 31 2021,Degerfors,1-1,?,Varberg
+Sun Aug 1 2021,Djurgarden,2-1,?,Hacken
+Sun Aug 1 2021,Kalmar,1-0,?,Mjallby
+Sun Aug 1 2021,Ostersunds,1-1,?,Hammarby
+Mon Aug 2 2021,AIK,1-0,?,Halmstad
+Mon Aug 2 2021,Goteborg,1-2,?,Norrkoping
+Mon Aug 2 2021,Sirius,1-2,?,Orebro
+Sat Aug 7 2021,Halmstad,0-0,?,Malmo FF
+Sat Aug 7 2021,Orebro,2-2,?,Mjallby
+Sun Aug 8 2021,Djurgarden,1-4,?,AIK
+Sun Aug 8 2021,Hacken,5-0,?,Ostersunds
+Sun Aug 8 2021,Elfsborg,3-0,?,Degerfors
+Sun Aug 8 2021,Goteborg,0-0,?,Hammarby
+Mon Aug 9 2021,Norrkoping,1-2,?,Kalmar
+Mon Aug 9 2021,Varberg,0-0,?,Sirius
+Sat Aug 14 2021,Malmo FF,2-3,?,Goteborg
+Sat Aug 14 2021,Kalmar,1-1,?,Halmstad
+Sun Aug 15 2021,Degerfors,3-0,?,Hacken
+Sun Aug 15 2021,Mjallby,0-1,?,Djurgarden
+Sun Aug 15 2021,Hammarby,0-2,?,Elfsborg
+Sun Aug 15 2021,Ostersunds,1-2,?,Norrkoping
+Mon Aug 16 2021,Sirius,0-1,?,AIK
+Mon Aug 16 2021,Varberg,1-0,?,Orebro
+Sat Aug 21 2021,Malmo FF,3-0,?,Degerfors
+Sun Aug 22 2021,Elfsborg,2-2,?,Hammarby
+Sun Aug 22 2021,Halmstad,2-1,?,Norrkoping
+Sun Aug 22 2021,AIK,2-1,?,Hacken
+Sun Aug 22 2021,Orebro,1-1,?,Sirius
+Mon Aug 23 2021,Djurgarden,0-0,?,Mjallby
+Mon Aug 23 2021,Goteborg,1-2,?,Varberg
+Mon Aug 23 2021,Ostersunds,0-1,?,Kalmar
+Sat Aug 28 2021,AIK,2-0,?,Orebro
+Sat Aug 28 2021,Degerfors,0-2,?,Mjallby
+Sat Aug 28 2021,Varberg,1-0,?,Halmstad
+Sun Aug 29 2021,Hacken,3-2,?,Goteborg
+Sun Aug 29 2021,Norrkoping,3-0,?,Ostersunds
+Sun Aug 29 2021,Sirius,1-0,?,Djurgarden
+Sun Aug 29 2021,Hammarby,2-1,?,Malmo FF
+Sun Aug 29 2021,Kalmar,0-3,?,Elfsborg
+Sat Sep 11 2021,Malmo FF,1-1,?,Norrkoping
+Sat Sep 11 2021,Sirius,1-0,?,Ostersunds
+Sun Sep 12 2021,Djurgarden,4-1,?,Hammarby
+Sun Sep 12 2021,Kalmar,4-1,?,Degerfors
+Sun Sep 12 2021,Goteborg,2-0,?,Halmstad
+Mon Sep 13 2021,Elfsborg,4-2,?,Hacken
+Mon Sep 13 2021,Mjallby,0-0,?,AIK
+Mon Sep 13 2021,Orebro,0-3,?,Varberg
+Sat Sep 18 2021,Degerfors,1-2,?,Sirius
+Sat Sep 18 2021,Malmo FF,1-1,?,Djurgarden
+Sat Sep 18 2021,Hacken,0-0,?,Mjallby
+Sun Sep 19 2021,Norrkoping,3-0,?,Orebro
+Sun Sep 19 2021,Ostersunds,3-1,?,Elfsborg
+Sun Sep 19 2021,Halmstad,0-1,?,Kalmar
+Mon Sep 20 2021,AIK,3-1,?,Goteborg
+Mon Sep 20 2021,Hammarby,1-0,?,Varberg
+Wed Sep 22 2021,Djurgarden,3-2,?,Degerfors
+Wed Sep 22 2021,Elfsborg,0-1,?,Malmo FF
+Wed Sep 22 2021,Orebro,2-0,?,Ostersunds
+Wed Sep 22 2021,Sirius,2-4,?,Norrkoping
+Thu Sep 23 2021,Hammarby,3-0,?,Goteborg
+Thu Sep 23 2021,Kalmar,1-1,?,AIK
+Thu Sep 23 2021,Mjallby,0-0,?,Halmstad
+Thu Sep 23 2021,Varberg,1-1,?,Hacken
+Sat Sep 25 2021,Malmo FF,5-1,?,Orebro
+Sun Sep 26 2021,Mjallby,4-0,?,Elfsborg
+Sun Sep 26 2021,Ostersunds,0-3,?,Djurgarden
+Sun Sep 26 2021,Hacken,1-1,?,Hammarby
+Sun Sep 26 2021,Norrkoping,2-1,?,Varberg
+Mon Sep 27 2021,Degerfors,2-1,?,AIK
+Mon Sep 27 2021,Goteborg,0-2,?,Kalmar
+Mon Sep 27 2021,Halmstad,1-1,?,Sirius
+Fri Oct 1 2021,Elfsborg,1-0,?,Goteborg
+Sat Oct 2 2021,Varberg,0-0,?,Degerfors
+Sat Oct 2 2021,Halmstad,1-1,?,Ostersunds
+Sun Oct 3 2021,AIK,1-0,?,Djurgarden
+Sun Oct 3 2021,Kalmar,3-1,?,Sirius
+Sun Oct 3 2021,Orebro,1-2,?,Hacken
+Sun Oct 3 2021,Malmo FF,0-1,?,Mjallby
+Sun Oct 3 2021,Norrkoping,3-1,?,Hammarby
+Sat Oct 16 2021,Degerfors,2-1,?,Halmstad
+Sat Oct 16 2021,Ostersunds,0-3,?,Malmo FF
+Sat Oct 16 2021,Sirius,2-1,?,Varberg
+Sun Oct 17 2021,Hammarby,1-0,?,AIK
+Sun Oct 17 2021,Mjallby,4-0,?,Kalmar
+Sun Oct 17 2021,Goteborg,2-0,?,Orebro
+Mon Oct 18 2021,Hacken,5-0,?,Norrkoping
+Mon Oct 18 2021,Djurgarden,0-3,?,Elfsborg
+Sat Oct 23 2021,Djurgarden,3-2,?,Kalmar
+Sat Oct 23 2021,Hacken,2-3,?,Halmstad
+Sun Oct 24 2021,Elfsborg,3-0,?,Sirius
+Sun Oct 24 2021,Hammarby,4-3,?,Ostersunds
+Sun Oct 24 2021,Mjallby,1-3,?,Goteborg
+Sun Oct 24 2021,AIK,1-0,?,Norrkoping
+Sun Oct 24 2021,Varberg,1-1,?,Malmo FF
+Mon Oct 25 2021,Orebro,1-2,?,Degerfors
+Wed Oct 27 2021,Kalmar,2-2,?,Varberg
+Wed Oct 27 2021,Malmo FF,1-0,?,AIK
+Wed Oct 27 2021,Ostersunds,1-1,?,Hacken
+Wed Oct 27 2021,Sirius,0-1,?,Hammarby
+Thu Oct 28 2021,Degerfors,1-2,?,Elfsborg
+Thu Oct 28 2021,Goteborg,3-0,?,Djurgarden
+Thu Oct 28 2021,Halmstad,1-1,?,Orebro
+Thu Oct 28 2021,Norrkoping,2-2,?,Mjallby
+Sat Oct 30 2021,Sirius,2-3,?,Malmo FF
+Sat Oct 30 2021,Varberg,3-0,?,Ostersunds
+Sat Oct 30 2021,Hacken,1-4,?,Kalmar
+Sun Oct 31 2021,Norrkoping,3-2,?,Elfsborg
+Sun Oct 31 2021,Orebro,0-1,?,Djurgarden
+Mon Nov 1 2021,Degerfors,0-1,?,Goteborg
+Mon Nov 1 2021,Halmstad,1-0,?,AIK
+Mon Nov 1 2021,Mjallby,2-0,?,Hammarby
+Sat Nov 6 2021,Elfsborg,0-0,?,Varberg
+Sat Nov 6 2021,Djurgarden,1-0,?,Halmstad
+Sat Nov 6 2021,Mjallby,2-3,?,Sirius
+Sun Nov 7 2021,AIK,3-0,?,Ostersunds
+Sun Nov 7 2021,Hacken,2-0,?,Degerfors
+Sun Nov 7 2021,Hammarby,3-2,?,Orebro
+Sun Nov 7 2021,Goteborg,0-2,?,Malmo FF
+Sun Nov 7 2021,Kalmar,1-0,?,Norrkoping
+Sat Nov 20 2021,Malmo FF,2-2,?,Hacken
+Sun Nov 21 2021,Degerfors,1-4,?,Hammarby
+Sun Nov 21 2021,Halmstad,0-1,?,Elfsborg
+Sun Nov 21 2021,Sirius,3-3,?,Goteborg
+Sun Nov 21 2021,Varberg,0-1,?,AIK
+Mon Nov 22 2021,Norrkoping,1-1,?,Djurgarden
+Mon Nov 22 2021,Orebro,1-2,?,Kalmar
+Mon Nov 22 2021,Ostersunds,0-2,?,Mjallby
+Sun Nov 28 2021,Degerfors,4-1,?,Norrkoping
+Sun Nov 28 2021,Djurgarden,2-3,?,Varberg
+Sun Nov 28 2021,Goteborg,4-0,?,Ostersunds
+Sun Nov 28 2021,Halmstad,0-0,?,Hammarby
+Sun Nov 28 2021,Kalmar,0-1,?,Malmo FF
+Mon Nov 29 2021,Elfsborg,2-4,?,AIK
+Mon Nov 29 2021,Mjallby,0-0,?,Orebro
+Mon Nov 29 2021,Sirius,3-0,?,Hacken
+Sat Dec 4 2021,AIK,4-2,?,Sirius
+Sat Dec 4 2021,Hacken,0-1,?,Djurgarden
+Sat Dec 4 2021,Hammarby,5-3,?,Kalmar
+Sat Dec 4 2021,Malmo FF,0-0,?,Halmstad
+Sat Dec 4 2021,Norrkoping,1-2,?,Goteborg
+Sat Dec 4 2021,Orebro,2-3,?,Elfsborg
+Sat Dec 4 2021,Ostersunds,0-1,?,Degerfors
+Sat Dec 4 2021,Varberg,0-3,?,Mjallby
+Sat Dec 11 2021,Helsingborg,0-1,?,Halmstad
+Tue Dec 14 2021,Halmstad,1-3,?,Helsingborg

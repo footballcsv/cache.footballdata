@@ -1,0 +1,381 @@
+Date,Team 1,FT,HT,Team 2
+Sat May 29 2021,Cuiaba,2-2,?,Juventude
+Sat May 29 2021,Bahia,3-0,?,Santos
+Sat May 29 2021,Sao Paulo,0-0,?,Fluminense
+Sun May 30 2021,Atletico-MG,1-2,?,Fortaleza
+Sun May 30 2021,Ceara,3-2,?,Gremio
+Sun May 30 2021,Flamengo RJ,1-0,?,Palmeiras
+Sun May 30 2021,Athletico-PR,1-0,?,America MG
+Sun May 30 2021,Chapecoense-SC,0-3,?,Bragantino
+Sun May 30 2021,Corinthians,0-1,?,Atletico GO
+Sun May 30 2021,Internacional,2-2,?,Sport Recife
+Sat Jun 5 2021,Atletico GO,2-0,?,Sao Paulo
+Sat Jun 5 2021,Bragantino,3-3,?,Bahia
+Sat Jun 5 2021,Santos,3-1,?,Ceara
+Sun Jun 6 2021,Fluminense,1-0,?,Cuiaba
+Sun Jun 6 2021,America MG,0-1,?,Corinthians
+Sun Jun 6 2021,Fortaleza,5-1,?,Internacional
+Sun Jun 6 2021,Juventude,0-3,?,Athletico-PR
+Sun Jun 6 2021,Palmeiras,3-1,?,Chapecoense-SC
+Sun Jun 6 2021,Sport Recife,0-1,?,Atletico-MG
+Sat Jun 12 2021,Palmeiras,1-1,?,Corinthians
+Sat Jun 12 2021,Santos,0-0,?,Juventude
+Sun Jun 13 2021,Atletico-MG,1-0,?,Sao Paulo
+Sun Jun 13 2021,Flamengo RJ,2-0,?,America MG
+Sun Jun 13 2021,Gremio,0-1,?,Athletico-PR
+Sun Jun 13 2021,Bahia,0-1,?,Internacional
+Sun Jun 13 2021,Bragantino,2-2,?,Fluminense
+Sun Jun 13 2021,Chapecoense-SC,0-0,?,Ceara
+Sun Jun 13 2021,Fortaleza,1-0,?,Sport Recife
+Wed Jun 16 2021,Internacional,0-1,?,Atletico-MG
+Wed Jun 16 2021,Sao Paulo,1-1,?,Chapecoense-SC
+Wed Jun 16 2021,Corinthians,1-2,?,Bragantino
+Wed Jun 16 2021,Juventude,0-3,?,Palmeiras
+Thu Jun 17 2021,America MG,0-0,?,Cuiaba
+Thu Jun 17 2021,Ceara,1-2,?,Bahia
+Thu Jun 17 2021,Atletico GO,0-0,?,Fortaleza
+Thu Jun 17 2021,Fluminense,1-0,?,Santos
+Thu Jun 17 2021,Sport Recife,1-0,?,Gremio
+Sat Jun 19 2021,Flamengo RJ,2-3,?,Bragantino
+Sun Jun 20 2021,Palmeiras,2-1,?,America MG
+Sun Jun 20 2021,Bahia,0-0,?,Corinthians
+Sun Jun 20 2021,Internacional,1-1,?,Ceara
+Sun Jun 20 2021,Athletico-PR,2-1,?,Atletico GO
+Sun Jun 20 2021,Fortaleza,1-1,?,Fluminense
+Sun Jun 20 2021,Santos,2-0,?,Sao Paulo
+Sun Jun 20 2021,Juventude,1-0,?,Sport Recife
+Mon Jun 21 2021,Atletico-MG,1-1,?,Chapecoense-SC
+Wed Jun 23 2021,Atletico GO,1-0,?,Fluminense
+Wed Jun 23 2021,Bragantino,3-1,?,Palmeiras
+Wed Jun 23 2021,Flamengo RJ,2-1,?,Fortaleza
+Wed Jun 23 2021,Sao Paulo,2-2,?,Cuiaba
+Thu Jun 24 2021,America MG,1-1,?,Juventude
+Thu Jun 24 2021,Ceara,2-1,?,Atletico-MG
+Thu Jun 24 2021,Chapecoense-SC,1-2,?,Internacional
+Thu Jun 24 2021,Corinthians,2-1,?,Sport Recife
+Thu Jun 24 2021,Bahia,2-1,?,Athletico-PR
+Thu Jun 24 2021,Gremio,2-2,?,Santos
+Sun Jun 27 2021,Juventude,1-0,?,Flamengo RJ
+Sun Jun 27 2021,Fluminense,1-1,?,Corinthians
+Sun Jun 27 2021,Athletico-PR,2-2,?,Chapecoense-SC
+Sun Jun 27 2021,Gremio,0-0,?,Fortaleza
+Sun Jun 27 2021,Palmeiras,3-2,?,Bahia
+Sun Jun 27 2021,America MG,1-1,?,Internacional
+Sun Jun 27 2021,Ceara,1-1,?,Sao Paulo
+Sun Jun 27 2021,Santos,2-0,?,Atletico-MG
+Sun Jun 27 2021,Sport Recife,0-0,?,Cuiaba
+Mon Jun 28 2021,Atletico GO,0-1,?,Bragantino
+Wed Jun 30 2021,Fluminense,1-4,?,Athletico-PR
+Wed Jun 30 2021,Fortaleza,3-2,?,Chapecoense-SC
+Wed Jun 30 2021,Bahia,3-4,?,America MG
+Wed Jun 30 2021,Internacional,1-2,?,Palmeiras
+Wed Jun 30 2021,Santos,0-0,?,Sport Recife
+Wed Jun 30 2021,Corinthians,0-0,?,Sao Paulo
+Wed Jun 30 2021,Juventude,2-0,?,Gremio
+Thu Jul 1 2021,Bragantino,0-0,?,Ceara
+Thu Jul 1 2021,Atletico-MG,4-1,?,Atletico GO
+Thu Jul 1 2021,Cuiaba,0-2,?,Flamengo RJ
+Sat Jul 3 2021,America MG,2-0,?,Santos
+Sat Jul 3 2021,Athletico-PR,2-1,?,Fortaleza
+Sat Jul 3 2021,Corinthians,1-1,?,Internacional
+Sun Jul 4 2021,Chapecoense-SC,0-2,?,Bahia
+Sun Jul 4 2021,Flamengo RJ,0-1,?,Fluminense
+Sun Jul 4 2021,Sport Recife,0-1,?,Palmeiras
+Sun Jul 4 2021,Ceara,2-0,?,Juventude
+Sun Jul 4 2021,Cuiaba,0-1,?,Atletico-MG
+Sun Jul 4 2021,Sao Paulo,1-2,?,Bragantino
+Sun Jul 4 2021,Gremio,0-1,?,Atletico GO
+Tue Jul 6 2021,Santos,2-1,?,Athletico-PR
+Wed Jul 7 2021,Bahia,1-0,?,Juventude
+Wed Jul 7 2021,Bragantino,1-1,?,Cuiaba
+Wed Jul 7 2021,Fortaleza,4-0,?,America MG
+Wed Jul 7 2021,Atletico-MG,2-1,?,Flamengo RJ
+Wed Jul 7 2021,Palmeiras,2-0,?,Gremio
+Wed Jul 7 2021,Atletico GO,1-1,?,Sport Recife
+Wed Jul 7 2021,Fluminense,0-0,?,Ceara
+Wed Jul 7 2021,Internacional,0-2,?,Sao Paulo
+Thu Jul 8 2021,Chapecoense-SC,0-1,?,Corinthians
+Sat Jul 10 2021,Gremio,0-0,?,Internacional
+Sat Jul 10 2021,Palmeiras,3-2,?,Santos
+Sat Jul 10 2021,Athletico-PR,2-2,?,Bragantino
+Sat Jul 10 2021,America MG,0-1,?,Atletico-MG
+Sat Jul 10 2021,Sao Paulo,1-0,?,Bahia
+Sat Jul 10 2021,Sport Recife,1-2,?,Fluminense
+Sun Jul 11 2021,Juventude,1-1,?,Atletico GO
+Sun Jul 11 2021,Cuiaba,2-2,?,Ceara
+Sun Jul 11 2021,Flamengo RJ,2-1,?,Chapecoense-SC
+Sun Jul 11 2021,Fortaleza,1-0,?,Corinthians
+Sat Jul 17 2021,Ceara,1-0,?,Athletico-PR
+Sat Jul 17 2021,Sao Paulo,0-1,?,Fortaleza
+Sat Jul 17 2021,Corinthians,1-2,?,Atletico-MG
+Sat Jul 17 2021,Fluminense,0-1,?,Gremio
+Sun Jul 18 2021,Chapecoense-SC,2-3,?,Cuiaba
+Sun Jul 18 2021,Atletico GO,0-3,?,Palmeiras
+Sun Jul 18 2021,Bahia,0-5,?,Flamengo RJ
+Sun Jul 18 2021,Bragantino,2-2,?,Santos
+Sun Jul 18 2021,Internacional,1-0,?,Juventude
+Mon Jul 19 2021,America MG,0-1,?,Sport Recife
+Wed Jul 21 2021,Cuiaba,2-1,?,Atletico GO
+Sat Jul 24 2021,Gremio,1-1,?,America MG
+Sat Jul 24 2021,Palmeiras,1-0,?,Fluminense
+Sun Jul 25 2021,Atletico-MG,3-0,?,Bahia
+Sun Jul 25 2021,Flamengo RJ,5-1,?,Sao Paulo
+Sun Jul 25 2021,Fortaleza,1-0,?,Bragantino
+Sun Jul 25 2021,Athletico-PR,2-1,?,Internacional
+Sun Jul 25 2021,Santos,0-1,?,Atletico GO
+Sun Jul 25 2021,Sport Recife,0-0,?,Ceara
+Mon Jul 26 2021,Juventude,1-0,?,Chapecoense-SC
+Mon Jul 26 2021,Cuiaba,1-2,?,Corinthians
+Sat Jul 31 2021,Sao Paulo,0-0,?,Palmeiras
+Sat Jul 31 2021,Internacional,0-0,?,Cuiaba
+Sat Jul 31 2021,Bragantino,1-0,?,Gremio
+Sun Aug 1 2021,Atletico-MG,2-0,?,Athletico-PR
+Sun Aug 1 2021,Corinthians,1-3,?,Flamengo RJ
+Sun Aug 1 2021,Bahia,0-1,?,Sport Recife
+Sun Aug 1 2021,Chapecoense-SC,0-1,?,Santos
+Sun Aug 1 2021,Atletico GO,1-1,?,America MG
+Sun Aug 1 2021,Ceara,3-1,?,Fortaleza
+Fri Aug 6 2021,Sport Recife,0-0,?,Bragantino
+Sat Aug 7 2021,Athletico-PR,1-2,?,Sao Paulo
+Sat Aug 7 2021,Cuiaba,1-1,?,Bahia
+Sat Aug 7 2021,Palmeiras,2-3,?,Fortaleza
+Sun Aug 8 2021,America MG,1-0,?,Fluminense
+Sun Aug 8 2021,Juventude,1-2,?,Atletico-MG
+Sun Aug 8 2021,Santos,0-0,?,Corinthians
+Sun Aug 8 2021,Ceara,0-0,?,Atletico GO
+Sun Aug 8 2021,Flamengo RJ,0-4,?,Internacional
+Mon Aug 9 2021,Gremio,2-1,?,Chapecoense-SC
+Sat Aug 14 2021,Bragantino,1-2,?,Juventude
+Sat Aug 14 2021,Atletico-MG,2-0,?,Palmeiras
+Sat Aug 14 2021,Sao Paulo,2-1,?,Gremio
+Sun Aug 15 2021,Corinthians,3-1,?,Ceara
+Sun Aug 15 2021,Flamengo RJ,2-0,?,Sport Recife
+Sun Aug 15 2021,Bahia,1-2,?,Atletico GO
+Sun Aug 15 2021,Cuiaba,1-0,?,Athletico-PR
+Sun Aug 15 2021,Fortaleza,1-1,?,Santos
+Sun Aug 15 2021,Internacional,4-2,?,Fluminense
+Mon Aug 16 2021,Chapecoense-SC,1-1,?,America MG
+Wed Aug 18 2021,Cuiaba,0-1,?,Gremio
+Sat Aug 21 2021,Atletico GO,1-1,?,Chapecoense-SC
+Sat Aug 21 2021,Gremio,2-0,?,Bahia
+Sat Aug 21 2021,Juventude,1-1,?,Fortaleza
+Sun Aug 22 2021,Palmeiras,0-2,?,Cuiaba
+Sun Aug 22 2021,Athletico-PR,0-1,?,Corinthians
+Sun Aug 22 2021,Ceara,1-1,?,Flamengo RJ
+Sun Aug 22 2021,Santos,2-2,?,Internacional
+Sun Aug 22 2021,Sport Recife,0-1,?,Sao Paulo
+Mon Aug 23 2021,America MG,0-2,?,Bragantino
+Mon Aug 23 2021,Fluminense,1-1,?,Atletico-MG
+Sat Aug 28 2021,Sport Recife,0-0,?,Chapecoense-SC
+Sat Aug 28 2021,Santos,0-4,?,Flamengo RJ
+Sat Aug 28 2021,Gremio,0-1,?,Corinthians
+Sat Aug 28 2021,Palmeiras,2-1,?,Athletico-PR
+Sun Aug 29 2021,America MG,2-0,?,Ceara
+Sun Aug 29 2021,Juventude,1-1,?,Sao Paulo
+Sun Aug 29 2021,Atletico GO,0-0,?,Internacional
+Sun Aug 29 2021,Bragantino,1-1,?,Atletico-MG
+Mon Aug 30 2021,Fluminense,2-0,?,Bahia
+Mon Aug 30 2021,Fortaleza,0-0,?,Cuiaba
+Thu Sep 2 2021,Fluminense,1-1,?,Juventude
+Sat Sep 4 2021,Bahia,4-2,?,Fortaleza
+Sat Sep 4 2021,Cuiaba,2-1,?,Santos
+Sun Sep 5 2021,Athletico-PR,0-0,?,Sport Recife
+Tue Sep 7 2021,Chapecoense-SC,1-2,?,Fluminense
+Tue Sep 7 2021,Corinthians,1-1,?,Juventude
+Sat Sep 11 2021,America MG,2-0,?,Athletico-PR
+Sat Sep 11 2021,Juventude,1-2,?,Cuiaba
+Sat Sep 11 2021,Bragantino,1-2,?,Chapecoense-SC
+Sat Sep 11 2021,Santos,0-0,?,Bahia
+Sun Sep 12 2021,Gremio,2-0,?,Ceara
+Sun Sep 12 2021,Fortaleza,0-2,?,Atletico-MG
+Sun Sep 12 2021,Palmeiras,1-3,?,Flamengo RJ
+Sun Sep 12 2021,Atletico GO,1-1,?,Corinthians
+Sun Sep 12 2021,Fluminense,2-1,?,Sao Paulo
+Mon Sep 13 2021,Sport Recife,0-1,?,Internacional
+Sat Sep 18 2021,Chapecoense-SC,0-2,?,Palmeiras
+Sat Sep 18 2021,Athletico-PR,2-1,?,Juventude
+Sat Sep 18 2021,Atletico-MG,3-0,?,Sport Recife
+Sat Sep 18 2021,Bahia,1-1,?,Bragantino
+Sat Sep 18 2021,Ceara,0-0,?,Santos
+Sun Sep 19 2021,Internacional,1-0,?,Fortaleza
+Sun Sep 19 2021,Sao Paulo,2-1,?,Atletico GO
+Sun Sep 19 2021,Corinthians,1-1,?,America MG
+Sun Sep 19 2021,Flamengo RJ,0-1,?,Gremio
+Mon Sep 20 2021,Cuiaba,2-2,?,Fluminense
+Wed Sep 22 2021,Sao Paulo,0-0,?,America MG
+Sat Sep 25 2021,Ceara,1-0,?,Chapecoense-SC
+Sat Sep 25 2021,Corinthians,2-1,?,Palmeiras
+Sat Sep 25 2021,Sao Paulo,0-0,?,Atletico-MG
+Sun Sep 26 2021,America MG,1-1,?,Flamengo RJ
+Sun Sep 26 2021,Fluminense,2-1,?,Bragantino
+Sun Sep 26 2021,Internacional,2-0,?,Bahia
+Sun Sep 26 2021,Juventude,3-0,?,Santos
+Sun Sep 26 2021,Athletico-PR,4-2,?,Gremio
+Sun Sep 26 2021,Sport Recife,0-1,?,Fortaleza
+Sun Sep 26 2021,Atletico GO,0-0,?,Cuiaba
+Sat Oct 2 2021,Cuiaba,0-2,?,America MG
+Sat Oct 2 2021,Fortaleza,0-3,?,Atletico GO
+Sat Oct 2 2021,Bragantino,2-2,?,Corinthians
+Sat Oct 2 2021,Atletico-MG,1-0,?,Internacional
+Sun Oct 3 2021,Chapecoense-SC,1-1,?,Sao Paulo
+Sun Oct 3 2021,Flamengo RJ,3-0,?,Athletico-PR
+Sun Oct 3 2021,Palmeiras,1-1,?,Juventude
+Sun Oct 3 2021,Gremio,1-2,?,Sport Recife
+Tue Oct 5 2021,Corinthians,3-1,?,Bahia
+Wed Oct 6 2021,Atletico GO,0-2,?,Athletico-PR
+Wed Oct 6 2021,Ceara,0-0,?,Internacional
+Wed Oct 6 2021,Chapecoense-SC,2-2,?,Atletico-MG
+Wed Oct 6 2021,Sport Recife,3-1,?,Juventude
+Wed Oct 6 2021,Bragantino,1-1,?,Flamengo RJ
+Wed Oct 6 2021,America MG,2-1,?,Palmeiras
+Wed Oct 6 2021,Fluminense,0-2,?,Fortaleza
+Wed Oct 6 2021,Gremio,2-2,?,Cuiaba
+Thu Oct 7 2021,Sao Paulo,1-1,?,Santos
+Sat Oct 9 2021,Atletico-MG,3-1,?,Ceara
+Sat Oct 9 2021,Fluminense,0-0,?,Atletico GO
+Sat Oct 9 2021,Sport Recife,1-0,?,Corinthians
+Sat Oct 9 2021,Athletico-PR,0-2,?,Bahia
+Sat Oct 9 2021,Fortaleza,0-3,?,Flamengo RJ
+Sat Oct 9 2021,Juventude,1-1,?,America MG
+Sat Oct 9 2021,Palmeiras,2-4,?,Bragantino
+Sun Oct 10 2021,Internacional,5-2,?,Chapecoense-SC
+Sun Oct 10 2021,Santos,1-0,?,Gremio
+Mon Oct 11 2021,Cuiaba,0-0,?,Sao Paulo
+Tue Oct 12 2021,Bragantino,1-0,?,Atletico GO
+Tue Oct 12 2021,Bahia,0-0,?,Palmeiras
+Wed Oct 13 2021,Atletico-MG,3-1,?,Santos
+Wed Oct 13 2021,Chapecoense-SC,1-1,?,Athletico-PR
+Wed Oct 13 2021,Flamengo RJ,3-1,?,Juventude
+Wed Oct 13 2021,Fortaleza,1-0,?,Gremio
+Wed Oct 13 2021,Corinthians,1-0,?,Fluminense
+Wed Oct 13 2021,Internacional,3-1,?,America MG
+Thu Oct 14 2021,Cuiaba,1-0,?,Sport Recife
+Thu Oct 14 2021,Sao Paulo,1-1,?,Ceara
+Sat Oct 16 2021,Chapecoense-SC,1-2,?,Fortaleza
+Sat Oct 16 2021,America MG,0-0,?,Bahia
+Sun Oct 17 2021,Athletico-PR,0-1,?,Fluminense
+Sun Oct 17 2021,Palmeiras,1-0,?,Internacional
+Sun Oct 17 2021,Atletico GO,2-1,?,Atletico-MG
+Sun Oct 17 2021,Ceara,2-2,?,Bragantino
+Sun Oct 17 2021,Gremio,3-2,?,Juventude
+Sun Oct 17 2021,Flamengo RJ,0-0,?,Cuiaba
+Sun Oct 17 2021,Sport Recife,0-0,?,Santos
+Mon Oct 18 2021,Sao Paulo,1-0,?,Corinthians
+Wed Oct 20 2021,Ceara,1-2,?,Palmeiras
+Thu Oct 21 2021,Internacional,1-1,?,Bragantino
+Sat Oct 23 2021,Juventude,0-0,?,Ceara
+Sat Oct 23 2021,Santos,0-2,?,America MG
+Sat Oct 23 2021,Fluminense,3-1,?,Flamengo RJ
+Sat Oct 23 2021,Fortaleza,3-0,?,Athletico-PR
+Sun Oct 24 2021,Atletico-MG,2-1,?,Cuiaba
+Sun Oct 24 2021,Internacional,2-2,?,Corinthians
+Sun Oct 24 2021,Bragantino,1-0,?,Sao Paulo
+Sun Oct 24 2021,Bahia,3-0,?,Chapecoense-SC
+Mon Oct 25 2021,Atletico GO,2-0,?,Gremio
+Mon Oct 25 2021,Palmeiras,2-1,?,Sport Recife
+Wed Oct 27 2021,Bahia,1-1,?,Ceara
+Wed Oct 27 2021,Santos,2-0,?,Fluminense
+Thu Oct 28 2021,Bragantino,3-0,?,Sport Recife
+Sat Oct 30 2021,Athletico-PR,0-1,?,Santos
+Sat Oct 30 2021,Flamengo RJ,1-0,?,Atletico-MG
+Sat Oct 30 2021,Juventude,0-0,?,Bahia
+Sat Oct 30 2021,America MG,2-1,?,Fortaleza
+Sun Oct 31 2021,Ceara,1-0,?,Fluminense
+Sun Oct 31 2021,Gremio,1-3,?,Palmeiras
+Sun Oct 31 2021,Sao Paulo,1-0,?,Internacional
+Sun Oct 31 2021,Sport Recife,2-0,?,Atletico GO
+Mon Nov 1 2021,Cuiaba,1-0,?,Bragantino
+Mon Nov 1 2021,Corinthians,1-0,?,Chapecoense-SC
+Tue Nov 2 2021,Athletico-PR,2-2,?,Flamengo RJ
+Wed Nov 3 2021,Atletico-MG,2-1,?,Gremio
+Thu Nov 4 2021,Cuiaba,0-0,?,Chapecoense-SC
+Fri Nov 5 2021,Flamengo RJ,2-0,?,Atletico GO
+Sat Nov 6 2021,Corinthians,1-0,?,Fortaleza
+Sat Nov 6 2021,Internacional,1-0,?,Gremio
+Sat Nov 6 2021,Fluminense,1-0,?,Sport Recife
+Sun Nov 7 2021,Atletico-MG,1-0,?,America MG
+Sun Nov 7 2021,Bragantino,0-2,?,Athletico-PR
+Sun Nov 7 2021,Santos,0-2,?,Palmeiras
+Sun Nov 7 2021,Bahia,1-0,?,Sao Paulo
+Sun Nov 7 2021,Ceara,1-0,?,Cuiaba
+Mon Nov 8 2021,Chapecoense-SC,2-2,?,Flamengo RJ
+Tue Nov 9 2021,Gremio,1-0,?,Fluminense
+Wed Nov 10 2021,Athletico-PR,2-1,?,Ceara
+Wed Nov 10 2021,Atletico-MG,3-0,?,Corinthians
+Wed Nov 10 2021,Santos,2-0,?,Bragantino
+Wed Nov 10 2021,Palmeiras,4-0,?,Atletico GO
+Wed Nov 10 2021,Fortaleza,1-1,?,Sao Paulo
+Wed Nov 10 2021,Juventude,2-1,?,Internacional
+Wed Nov 10 2021,Sport Recife,2-3,?,America MG
+Thu Nov 11 2021,Flamengo RJ,3-0,?,Bahia
+Sat Nov 13 2021,Atletico GO,0-0,?,Santos
+Sat Nov 13 2021,America MG,3-1,?,Gremio
+Sat Nov 13 2021,Bragantino,3-0,?,Fortaleza
+Sat Nov 13 2021,Internacional,2-1,?,Athletico-PR
+Sat Nov 13 2021,Corinthians,3-2,?,Cuiaba
+Sun Nov 14 2021,Sao Paulo,0-4,?,Flamengo RJ
+Sun Nov 14 2021,Fluminense,2-1,?,Palmeiras
+Sun Nov 14 2021,Ceara,2-1,?,Sport Recife
+Sun Nov 14 2021,Chapecoense-SC,0-2,?,Juventude
+Tue Nov 16 2021,Athletico-PR,0-1,?,Atletico-MG
+Tue Nov 16 2021,Gremio,3-0,?,Bragantino
+Wed Nov 17 2021,America MG,0-0,?,Atletico GO
+Wed Nov 17 2021,Cuiaba,1-0,?,Internacional
+Wed Nov 17 2021,Santos,2-0,?,Chapecoense-SC
+Wed Nov 17 2021,Fortaleza,0-4,?,Ceara
+Wed Nov 17 2021,Juventude,1-0,?,Fluminense
+Wed Nov 17 2021,Palmeiras,0-2,?,Sao Paulo
+Wed Nov 17 2021,Flamengo RJ,1-0,?,Corinthians
+Thu Nov 18 2021,Sport Recife,1-0,?,Bahia
+Sat Nov 20 2021,Atletico-MG,2-0,?,Juventude
+Sat Nov 20 2021,Chapecoense-SC,1-3,?,Gremio
+Sat Nov 20 2021,Fortaleza,1-0,?,Palmeiras
+Sat Nov 20 2021,Atletico GO,1-1,?,Ceara
+Sat Nov 20 2021,Internacional,1-2,?,Flamengo RJ
+Sun Nov 21 2021,Corinthians,2-0,?,Santos
+Sun Nov 21 2021,Fluminense,2-0,?,America MG
+Sun Nov 21 2021,Bahia,0-0,?,Cuiaba
+Tue Nov 23 2021,Atletico GO,1-1,?,Juventude
+Tue Nov 23 2021,Gremio,2-2,?,Flamengo RJ
+Tue Nov 23 2021,Palmeiras,2-2,?,Atletico-MG
+Wed Nov 24 2021,Fluminense,1-0,?,Internacional
+Wed Nov 24 2021,Sao Paulo,0-0,?,Athletico-PR
+Thu Nov 25 2021,Santos,2-0,?,Fortaleza
+Thu Nov 25 2021,Ceara,2-1,?,Corinthians
+Fri Nov 26 2021,Bahia,3-1,?,Gremio
+Sat Nov 27 2021,Bragantino,1-1,?,America MG
+Sat Nov 27 2021,Sao Paulo,2-0,?,Sport Recife
+Sun Nov 28 2021,Atletico-MG,2-1,?,Fluminense
+Sun Nov 28 2021,Corinthians,1-0,?,Athletico-PR
+Sun Nov 28 2021,Internacional,1-1,?,Santos
+Mon Nov 29 2021,Atletico GO,2-1,?,Bahia
+Tue Nov 30 2021,Juventude,1-0,?,Bragantino
+Tue Nov 30 2021,Flamengo RJ,2-1,?,Ceara
+Tue Nov 30 2021,America MG,3-0,?,Chapecoense-SC
+Tue Nov 30 2021,Cuiaba,1-3,?,Palmeiras
+Thu Dec 2 2021,Bahia,2-3,?,Atletico-MG
+Thu Dec 2 2021,Gremio,3-0,?,Sao Paulo
+Fri Dec 3 2021,Athletico-PR,1-0,?,Cuiaba
+Fri Dec 3 2021,Chapecoense-SC,0-1,?,Atletico GO
+Fri Dec 3 2021,Sport Recife,1-1,?,Flamengo RJ
+Fri Dec 3 2021,Fortaleza,1-0,?,Juventude
+Sun Dec 5 2021,Atletico-MG,4-3,?,Bragantino
+Sun Dec 5 2021,Bahia,2-0,?,Fluminense
+Sun Dec 5 2021,Corinthians,1-1,?,Gremio
+Sun Dec 5 2021,Ceara,0-0,?,America MG
+Mon Dec 6 2021,Athletico-PR,0-0,?,Palmeiras
+Mon Dec 6 2021,Sao Paulo,3-1,?,Juventude
+Mon Dec 6 2021,Cuiaba,1-0,?,Fortaleza
+Mon Dec 6 2021,Flamengo RJ,0-1,?,Santos
+Mon Dec 6 2021,Internacional,1-2,?,Atletico GO
+Mon Dec 6 2021,Chapecoense-SC,0-1,?,Sport Recife
+Thu Dec 9 2021,America MG,2-0,?,Sao Paulo
+Thu Dec 9 2021,Atletico GO,2-0,?,Flamengo RJ
+Thu Dec 9 2021,Bragantino,1-0,?,Internacional
+Thu Dec 9 2021,Fluminense,3-0,?,Chapecoense-SC
+Thu Dec 9 2021,Fortaleza,2-1,?,Bahia
+Thu Dec 9 2021,Gremio,4-3,?,Atletico-MG
+Thu Dec 9 2021,Juventude,1-0,?,Corinthians
+Thu Dec 9 2021,Palmeiras,1-0,?,Ceara
+Thu Dec 9 2021,Santos,1-1,?,Cuiaba
+Thu Dec 9 2021,Sport Recife,1-1,?,Athletico-PR
