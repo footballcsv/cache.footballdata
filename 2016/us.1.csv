@@ -6,12 +6,12 @@ Sun Mar 6 2016,FC Dallas,2-0,?,Philadelphia Union
 Sun Mar 6 2016,Houston Dynamo,3-3,?,New England Revolution
 Sun Mar 6 2016,San Jose Earthquakes,1-0,?,Colorado Rapids
 Sun Mar 6 2016,Portland Timbers,2-1,?,Columbus Crew
-Sun Mar 6 2016,Vancouver Whitecaps,2-3,?,Montreal Impact
+Sun Mar 6 2016,Vancouver Whitecaps,2-3,?,CF Montreal
 Sun Mar 6 2016,Seattle Sounders,0-1,?,Sporting Kansas City
 Sun Mar 6 2016,Los Angeles Galaxy,4-1,?,DC United
 Fri Mar 11 2016,Orlando City,1-1,?,Chicago Fire
 Sat Mar 12 2016,New England Revolution,0-0,?,DC United
-Sat Mar 12 2016,Montreal Impact,3-0,?,New York Red Bulls
+Sat Mar 12 2016,CF Montreal,3-0,?,New York Red Bulls
 Sat Mar 12 2016,Real Salt Lake,2-1,?,Seattle Sounders
 Sat Mar 12 2016,Colorado Rapids,1-0,?,Los Angeles Galaxy
 Sat Mar 12 2016,Columbus Crew,1-2,?,Philadelphia Union
@@ -22,7 +22,7 @@ Sun Mar 13 2016,San Jose Earthquakes,2-1,?,Portland Timbers
 Fri Mar 18 2016,New York City,0-1,?,Orlando City
 Sat Mar 19 2016,Chicago Fire,0-0,?,Columbus Crew
 Sat Mar 19 2016,New York Red Bulls,4-3,?,Houston Dynamo
-Sat Mar 19 2016,FC Dallas,2-0,?,Montreal Impact
+Sat Mar 19 2016,FC Dallas,2-0,?,CF Montreal
 Sat Mar 19 2016,Seattle Sounders,1-2,?,Vancouver Whitecaps
 Sat Mar 19 2016,Los Angeles Galaxy,3-1,?,San Jose Earthquakes
 Sat Mar 19 2016,Portland Timbers,2-2,?,Real Salt Lake
@@ -37,12 +37,12 @@ Sat Apr 2 2016,Chicago Fire,1-0,?,Philadelphia Union
 Sat Apr 2 2016,Colorado Rapids,1-0,?,Toronto FC
 Sat Apr 2 2016,Sporting Kansas City,1-2,?,Real Salt Lake
 Sat Apr 2 2016,FC Dallas,1-1,?,Columbus Crew
-Sat Apr 2 2016,Seattle Sounders,1-0,?,Montreal Impact
+Sat Apr 2 2016,Seattle Sounders,1-0,?,CF Montreal
 Sat Apr 2 2016,Vancouver Whitecaps,0-0,?,Los Angeles Galaxy
 Sat Apr 2 2016,San Jose Earthquakes,1-1,?,DC United
 Sun Apr 3 2016,Orlando City,4-1,?,Portland Timbers
 Fri Apr 8 2016,Philadelphia Union,2-1,?,Orlando City
-Sat Apr 9 2016,Montreal Impact,2-0,?,Columbus Crew
+Sat Apr 9 2016,CF Montreal,2-0,?,Columbus Crew
 Sat Apr 9 2016,New England Revolution,1-1,?,Toronto FC
 Sat Apr 9 2016,DC United,4-0,?,Vancouver Whitecaps
 Sat Apr 9 2016,New York Red Bulls,0-2,?,Sporting Kansas City
@@ -55,7 +55,7 @@ Wed Apr 13 2016,Sporting Kansas City,1-2,?,Colorado Rapids
 Wed Apr 13 2016,Portland Timbers,1-3,?,FC Dallas
 Wed Apr 13 2016,San Jose Earthquakes,2-0,?,New York Red Bulls
 Fri Apr 15 2016,Houston Dynamo,1-4,?,Los Angeles Galaxy
-Sat Apr 16 2016,Chicago Fire,1-2,?,Montreal Impact
+Sat Apr 16 2016,Chicago Fire,1-2,?,CF Montreal
 Sat Apr 16 2016,DC United,0-1,?,Toronto FC
 Sat Apr 16 2016,Columbus Crew,3-2,?,New York City
 Sat Apr 16 2016,Colorado Rapids,2-1,?,New York Red Bulls
@@ -64,7 +64,7 @@ Sat Apr 16 2016,Seattle Sounders,2-1,?,Philadelphia Union
 Sat Apr 16 2016,Portland Timbers,3-1,?,San Jose Earthquakes
 Sun Apr 17 2016,Orlando City,2-2,?,New England Revolution
 Sun Apr 17 2016,FC Dallas,2-1,?,Sporting Kansas City
-Sat Apr 23 2016,Montreal Impact,0-2,?,Toronto FC
+Sat Apr 23 2016,CF Montreal,0-2,?,Toronto FC
 Sat Apr 23 2016,Philadelphia Union,2-0,?,New York City
 Sat Apr 23 2016,DC United,3-0,?,New England Revolution
 Sat Apr 23 2016,Columbus Crew,1-0,?,Houston Dynamo
@@ -73,11 +73,11 @@ Sat Apr 23 2016,Los Angeles Galaxy,5-2,?,Real Salt Lake
 Sat Apr 23 2016,Vancouver Whitecaps,3-0,?,FC Dallas
 Sun Apr 24 2016,San Jose Earthquakes,1-0,?,Sporting Kansas City
 Sun Apr 24 2016,New York Red Bulls,3-2,?,Orlando City
-Wed Apr 27 2016,New York City,1-1,?,Montreal Impact
+Wed Apr 27 2016,New York City,1-1,?,CF Montreal
 Wed Apr 27 2016,New England Revolution,1-1,?,Portland Timbers
 Wed Apr 27 2016,Vancouver Whitecaps,1-1,?,Sporting Kansas City
 Fri Apr 29 2016,New York Red Bulls,4-0,?,FC Dallas
-Sat Apr 30 2016,Montreal Impact,2-2,?,Colorado Rapids
+Sat Apr 30 2016,CF Montreal,2-2,?,Colorado Rapids
 Sat Apr 30 2016,New York City,3-2,?,Vancouver Whitecaps
 Sat Apr 30 2016,Philadelphia Union,1-1,?,San Jose Earthquakes
 Sat Apr 30 2016,Seattle Sounders,1-0,?,Columbus Crew
@@ -88,7 +88,7 @@ Sun May 1 2016,Portland Timbers,2-1,?,Toronto FC
 Sun May 1 2016,Sporting Kansas City,1-1,?,Los Angeles Galaxy
 Fri May 6 2016,Orlando City,1-1,?,New York Red Bulls
 Sat May 7 2016,Vancouver Whitecaps,2-1,?,Portland Timbers
-Sat May 7 2016,Columbus Crew,4-4,?,Montreal Impact
+Sat May 7 2016,Columbus Crew,4-4,?,CF Montreal
 Sat May 7 2016,Toronto FC,1-0,?,FC Dallas
 Sat May 7 2016,Houston Dynamo,2-0,?,Sporting Kansas City
 Sat May 7 2016,Colorado Rapids,1-0,?,Real Salt Lake
@@ -101,7 +101,7 @@ Wed May 11 2016,FC Dallas,2-1,?,Portland Timbers
 Wed May 11 2016,Vancouver Whitecaps,2-1,?,Chicago Fire
 Wed May 11 2016,San Jose Earthquakes,3-1,?,Houston Dynamo
 Fri May 13 2016,DC United,2-0,?,New York Red Bulls
-Sat May 14 2016,Montreal Impact,1-1,?,Philadelphia Union
+Sat May 14 2016,CF Montreal,1-1,?,Philadelphia Union
 Sat May 14 2016,Columbus Crew,1-1,?,Colorado Rapids
 Sat May 14 2016,New England Revolution,2-0,?,Chicago Fire
 Sat May 14 2016,Toronto FC,3-4,?,Vancouver Whitecaps
@@ -116,7 +116,7 @@ Sat May 21 2016,New York City,0-7,?,New York Red Bulls
 Sat May 21 2016,Chicago Fire,1-0,?,Houston Dynamo
 Sat May 21 2016,Toronto FC,0-0,?,Columbus Crew
 Sat May 21 2016,New England Revolution,2-4,?,FC Dallas
-Sat May 21 2016,Orlando City,2-1,?,Montreal Impact
+Sat May 21 2016,Orlando City,2-1,?,CF Montreal
 Sat May 21 2016,Sporting Kansas City,1-3,?,Real Salt Lake
 Sat May 21 2016,Seattle Sounders,0-1,?,Colorado Rapids
 Sun May 22 2016,Portland Timbers,4-2,?,Vancouver Whitecaps
@@ -127,7 +127,7 @@ Sat May 28 2016,Vancouver Whitecaps,1-1,?,Houston Dynamo
 Sat May 28 2016,New York Red Bulls,3-0,?,Toronto FC
 Sat May 28 2016,Columbus Crew,4-3,?,Real Salt Lake
 Sat May 28 2016,New England Revolution,2-1,?,Seattle Sounders
-Sat May 28 2016,Montreal Impact,3-2,?,Los Angeles Galaxy
+Sat May 28 2016,CF Montreal,3-2,?,Los Angeles Galaxy
 Sat May 28 2016,Chicago Fire,1-1,?,Portland Timbers
 Sat May 28 2016,Colorado Rapids,1-1,?,Philadelphia Union
 Sat May 28 2016,San Jose Earthquakes,0-0,?,FC Dallas
@@ -140,7 +140,7 @@ Thu Jun 2 2016,FC Dallas,1-1,?,Houston Dynamo
 Thu Jun 2 2016,Los Angeles Galaxy,0-0,?,Sporting Kansas City
 Sat Jun 18 2016,New York City,3-2,?,Philadelphia Union
 Sat Jun 18 2016,Vancouver Whitecaps,1-2,?,New England Revolution
-Sat Jun 18 2016,Columbus Crew,0-0,?,Montreal Impact
+Sat Jun 18 2016,Columbus Crew,0-0,?,CF Montreal
 Sat Jun 18 2016,Orlando City,2-2,?,San Jose Earthquakes
 Sat Jun 18 2016,Toronto FC,1-0,?,Los Angeles Galaxy
 Sat Jun 18 2016,Colorado Rapids,2-1,?,Chicago Fire
@@ -155,14 +155,14 @@ Sat Jun 25 2016,Seattle Sounders,0-2,?,New York City
 Sat Jun 25 2016,DC United,2-0,?,New England Revolution
 Sat Jun 25 2016,Philadelphia Union,2-3,?,Vancouver Whitecaps
 Sat Jun 25 2016,Columbus Crew,1-1,?,New York Red Bulls
-Sat Jun 25 2016,Montreal Impact,2-2,?,Sporting Kansas City
+Sat Jun 25 2016,CF Montreal,2-2,?,Sporting Kansas City
 Sat Jun 25 2016,Orlando City,3-2,?,Toronto FC
 Sat Jun 25 2016,FC Dallas,2-0,?,Real Salt Lake
 Sat Jun 25 2016,San Jose Earthquakes,1-1,?,Los Angeles Galaxy
 Sun Jun 26 2016,Portland Timbers,3-2,?,Houston Dynamo
 Fri Jul 1 2016,Chicago Fire,1-0,?,San Jose Earthquakes
 Fri Jul 1 2016,Real Salt Lake,1-1,?,DC United
-Sat Jul 2 2016,Montreal Impact,3-2,?,New England Revolution
+Sat Jul 2 2016,CF Montreal,3-2,?,New England Revolution
 Sat Jul 2 2016,Toronto FC,1-1,?,Seattle Sounders
 Sat Jul 2 2016,Houston Dynamo,1-0,?,Philadelphia Union
 Sun Jul 3 2016,New York City,2-0,?,New York Red Bulls
@@ -177,14 +177,14 @@ Sat Jul 9 2016,Seattle Sounders,0-1,?,Los Angeles Galaxy
 Sat Jul 9 2016,Philadelphia Union,3-0,?,DC United
 Sat Jul 9 2016,New England Revolution,3-1,?,Columbus Crew
 Sat Jul 9 2016,Toronto FC,1-0,?,Chicago Fire
-Sat Jul 9 2016,Real Salt Lake,1-1,?,Montreal Impact
+Sat Jul 9 2016,Real Salt Lake,1-1,?,CF Montreal
 Sat Jul 9 2016,Vancouver Whitecaps,2-2,?,Colorado Rapids
 Sun Jul 10 2016,New York Red Bulls,0-0,?,Portland Timbers
 Sun Jul 10 2016,Sporting Kansas City,3-1,?,New York City
 Wed Jul 13 2016,Columbus Crew,1-1,?,Toronto FC
 Wed Jul 13 2016,New York Red Bulls,2-0,?,Orlando City
 Wed Jul 13 2016,Chicago Fire,1-0,?,Sporting Kansas City
-Wed Jul 13 2016,Portland Timbers,1-1,?,Montreal Impact
+Wed Jul 13 2016,Portland Timbers,1-1,?,CF Montreal
 Wed Jul 13 2016,Seattle Sounders,5-0,?,FC Dallas
 Wed Jul 13 2016,Vancouver Whitecaps,2-0,?,Real Salt Lake
 Fri Jul 15 2016,Los Angeles Galaxy,1-0,?,Houston Dynamo
@@ -195,12 +195,12 @@ Sat Jul 16 2016,Real Salt Lake,0-0,?,New England Revolution
 Sat Jul 16 2016,Vancouver Whitecaps,2-2,?,Orlando City
 Sat Jul 16 2016,San Jose Earthquakes,2-1,?,Toronto FC
 Sun Jul 17 2016,Portland Timbers,3-1,?,Seattle Sounders
-Sun Jul 17 2016,Montreal Impact,1-3,?,New York City
+Sun Jul 17 2016,CF Montreal,1-3,?,New York City
 Sun Jul 17 2016,Philadelphia Union,2-2,?,New York Red Bulls
 Fri Jul 22 2016,Real Salt Lake,1-1,?,San Jose Earthquakes
 Sat Jul 23 2016,Portland Timbers,1-2,?,Los Angeles Galaxy
 Sat Jul 23 2016,Columbus Crew,2-2,?,Orlando City
-Sat Jul 23 2016,Montreal Impact,5-1,?,Philadelphia Union
+Sat Jul 23 2016,CF Montreal,5-1,?,Philadelphia Union
 Sat Jul 23 2016,New England Revolution,1-0,?,Chicago Fire
 Sat Jul 23 2016,Toronto FC,4-1,?,DC United
 Sat Jul 23 2016,Colorado Rapids,1-1,?,FC Dallas
@@ -211,7 +211,7 @@ Sat Jul 30 2016,New York City,5-1,?,Colorado Rapids
 Sun Jul 31 2016,Sporting Kansas City,1-0,?,Portland Timbers
 Sun Jul 31 2016,Seattle Sounders,1-1,?,Los Angeles Galaxy
 Sun Jul 31 2016,FC Dallas,2-0,?,Vancouver Whitecaps
-Sun Jul 31 2016,DC United,1-1,?,Montreal Impact
+Sun Jul 31 2016,DC United,1-1,?,CF Montreal
 Sun Jul 31 2016,Chicago Fire,2-2,?,New York Red Bulls
 Sun Jul 31 2016,Philadelphia Union,1-2,?,Real Salt Lake
 Sun Jul 31 2016,Orlando City,3-1,?,New England Revolution
@@ -220,7 +220,7 @@ Sun Jul 31 2016,Houston Dynamo,1-1,?,San Jose Earthquakes
 Wed Aug 3 2016,Toronto FC,1-0,?,Real Salt Lake
 Fri Aug 5 2016,San Jose Earthquakes,0-0,?,New York City
 Sat Aug 6 2016,DC United,2-2,?,Philadelphia Union
-Sat Aug 6 2016,Montreal Impact,1-0,?,Houston Dynamo
+Sat Aug 6 2016,CF Montreal,1-0,?,Houston Dynamo
 Sat Aug 6 2016,Toronto FC,4-1,?,New England Revolution
 Sat Aug 6 2016,Colorado Rapids,2-0,?,Vancouver Whitecaps
 Sat Aug 6 2016,Real Salt Lake,3-1,?,Chicago Fire
@@ -228,7 +228,7 @@ Sun Aug 7 2016,Portland Timbers,3-0,?,Sporting Kansas City
 Sun Aug 7 2016,Orlando City,1-3,?,Seattle Sounders
 Sun Aug 7 2016,Los Angeles Galaxy,2-2,?,New York Red Bulls
 Fri Aug 12 2016,Vancouver Whitecaps,1-2,?,San Jose Earthquakes
-Sat Aug 13 2016,New York Red Bulls,3-1,?,Montreal Impact
+Sat Aug 13 2016,New York Red Bulls,3-1,?,CF Montreal
 Sat Aug 13 2016,Columbus Crew,3-3,?,New York City
 Sat Aug 13 2016,New England Revolution,0-4,?,Philadelphia Union
 Sat Aug 13 2016,DC United,2-0,?,Portland Timbers
@@ -240,7 +240,7 @@ Sun Aug 14 2016,Houston Dynamo,1-1,?,Toronto FC
 Fri Aug 19 2016,San Jose Earthquakes,1-2,?,Houston Dynamo
 Sat Aug 20 2016,New York City,1-0,?,Los Angeles Galaxy
 Sat Aug 20 2016,Philadelphia Union,1-3,?,Toronto FC
-Sat Aug 20 2016,Montreal Impact,0-3,?,Chicago Fire
+Sat Aug 20 2016,CF Montreal,0-3,?,Chicago Fire
 Sat Aug 20 2016,New England Revolution,0-2,?,Columbus Crew
 Sat Aug 20 2016,Colorado Rapids,0-0,?,Orlando City
 Sat Aug 20 2016,Real Salt Lake,1-0,?,FC Dallas
@@ -248,7 +248,7 @@ Sat Aug 20 2016,Sporting Kansas City,2-0,?,Vancouver Whitecaps
 Sun Aug 21 2016,DC United,2-2,?,New York Red Bulls
 Sun Aug 21 2016,Seattle Sounders,3-1,?,Portland Timbers
 Wed Aug 24 2016,Columbus Crew,1-2,?,Philadelphia Union
-Wed Aug 24 2016,Montreal Impact,1-1,?,DC United
+Wed Aug 24 2016,CF Montreal,1-1,?,DC United
 Wed Aug 24 2016,Orlando City,1-2,?,Toronto FC
 Wed Aug 24 2016,Chicago Fire,2-2,?,Los Angeles Galaxy
 Wed Aug 24 2016,Houston Dynamo,1-1,?,Seattle Sounders
@@ -257,7 +257,7 @@ Fri Aug 26 2016,Real Salt Lake,2-1,?,Colorado Rapids
 Sat Aug 27 2016,DC United,6-2,?,Chicago Fire
 Sat Aug 27 2016,Philadelphia Union,2-0,?,Sporting Kansas City
 Sat Aug 27 2016,Columbus Crew,2-0,?,San Jose Earthquakes
-Sat Aug 27 2016,Toronto FC,0-1,?,Montreal Impact
+Sat Aug 27 2016,Toronto FC,0-1,?,CF Montreal
 Sat Aug 27 2016,Houston Dynamo,1-3,?,FC Dallas
 Sat Aug 27 2016,Los Angeles Galaxy,0-0,?,Vancouver Whitecaps
 Sun Aug 28 2016,New York Red Bulls,1-0,?,New England Revolution
@@ -269,11 +269,11 @@ Sat Sep 3 2016,New England Revolution,2-0,?,Colorado Rapids
 Sat Sep 3 2016,Chicago Fire,3-0,?,Philadelphia Union
 Sat Sep 3 2016,FC Dallas,3-1,?,Portland Timbers
 Sat Sep 3 2016,Los Angeles Galaxy,2-1,?,Columbus Crew
-Wed Sep 7 2016,Montreal Impact,1-4,?,Orlando City
+Wed Sep 7 2016,CF Montreal,1-4,?,Orlando City
 Wed Sep 7 2016,Real Salt Lake,3-3,?,Los Angeles Galaxy
 Fri Sep 9 2016,Sporting Kansas City,3-3,?,Houston Dynamo
 Sat Sep 10 2016,Columbus Crew,1-3,?,Vancouver Whitecaps
-Sat Sep 10 2016,Philadelphia Union,1-1,?,Montreal Impact
+Sat Sep 10 2016,Philadelphia Union,1-1,?,CF Montreal
 Sat Sep 10 2016,New England Revolution,3-1,?,New York City
 Sat Sep 10 2016,Chicago Fire,1-2,?,Toronto FC
 Sat Sep 10 2016,FC Dallas,0-1,?,Colorado Rapids
@@ -285,7 +285,7 @@ Fri Sep 16 2016,Chicago Fire,2-2,?,DC United
 Sat Sep 17 2016,Seattle Sounders,1-0,?,Vancouver Whitecaps
 Sat Sep 17 2016,Portland Timbers,2-1,?,Philadelphia Union
 Sat Sep 17 2016,New York City,2-2,?,FC Dallas
-Sat Sep 17 2016,Montreal Impact,1-3,?,New England Revolution
+Sat Sep 17 2016,CF Montreal,1-3,?,New England Revolution
 Sat Sep 17 2016,Orlando City,1-4,?,Columbus Crew
 Sat Sep 17 2016,Colorado Rapids,0-0,?,San Jose Earthquakes
 Sat Sep 17 2016,Real Salt Lake,0-1,?,Houston Dynamo
@@ -294,7 +294,7 @@ Sun Sep 18 2016,Toronto FC,3-3,?,New York Red Bulls
 Fri Sep 23 2016,New York City,4-1,?,Chicago Fire
 Sat Sep 24 2016,Toronto FC,1-1,?,Philadelphia Union
 Sat Sep 24 2016,DC United,4-1,?,Orlando City
-Sat Sep 24 2016,New York Red Bulls,1-0,?,Montreal Impact
+Sat Sep 24 2016,New York Red Bulls,1-0,?,CF Montreal
 Sat Sep 24 2016,Vancouver Whitecaps,3-3,?,Colorado Rapids
 Sat Sep 24 2016,Houston Dynamo,3-1,?,Portland Timbers
 Sat Sep 24 2016,Real Salt Lake,0-0,?,FC Dallas
@@ -302,7 +302,7 @@ Sat Sep 24 2016,San Jose Earthquakes,1-2,?,Sporting Kansas City
 Sun Sep 25 2016,Los Angeles Galaxy,2-4,?,Seattle Sounders
 Sun Sep 25 2016,Columbus Crew,2-0,?,New England Revolution
 Wed Sep 28 2016,DC United,3-0,?,Columbus Crew
-Wed Sep 28 2016,Montreal Impact,3-1,?,San Jose Earthquakes
+Wed Sep 28 2016,CF Montreal,3-1,?,San Jose Earthquakes
 Wed Sep 28 2016,Toronto FC,0-0,?,Orlando City
 Wed Sep 28 2016,Seattle Sounders,1-0,?,Chicago Fire
 Fri Sep 30 2016,Houston Dynamo,0-2,?,New York City
@@ -313,7 +313,7 @@ Sat Oct 1 2016,Toronto FC,1-2,?,DC United
 Sat Oct 1 2016,Colorado Rapids,1-0,?,Portland Timbers
 Sat Oct 1 2016,FC Dallas,1-0,?,Los Angeles Galaxy
 Sat Oct 1 2016,San Jose Earthquakes,2-1,?,Real Salt Lake
-Sun Oct 2 2016,Orlando City,0-1,?,Montreal Impact
+Sun Oct 2 2016,Orlando City,0-1,?,CF Montreal
 Sun Oct 2 2016,Vancouver Whitecaps,1-2,?,Seattle Sounders
 Sat Oct 8 2016,Houston Dynamo,2-3,?,Colorado Rapids
 Wed Oct 12 2016,Seattle Sounders,0-0,?,Houston Dynamo
@@ -321,7 +321,7 @@ Thu Oct 13 2016,Chicago Fire,2-2,?,Columbus Crew
 Thu Oct 13 2016,Colorado Rapids,2-1,?,San Jose Earthquakes
 Sun Oct 16 2016,Chicago Fire,2-1,?,New England Revolution
 Sun Oct 16 2016,DC United,3-1,?,New York City
-Sun Oct 16 2016,Montreal Impact,2-2,?,Toronto FC
+Sun Oct 16 2016,CF Montreal,2-2,?,Toronto FC
 Sun Oct 16 2016,New York Red Bulls,3-2,?,Columbus Crew
 Sun Oct 16 2016,Philadelphia Union,0-2,?,Orlando City
 Sun Oct 16 2016,FC Dallas,2-1,?,Seattle Sounders
@@ -331,7 +331,7 @@ Sun Oct 16 2016,Real Salt Lake,0-0,?,Sporting Kansas City
 Sun Oct 16 2016,San Jose Earthquakes,0-0,?,Vancouver Whitecaps
 Sun Oct 23 2016,Colorado Rapids,1-1,?,Houston Dynamo
 Sun Oct 23 2016,Los Angeles Galaxy,0-0,?,FC Dallas
-Sun Oct 23 2016,New England Revolution,3-0,?,Montreal Impact
+Sun Oct 23 2016,New England Revolution,3-0,?,CF Montreal
 Sun Oct 23 2016,New York City,4-1,?,Columbus Crew
 Sun Oct 23 2016,Orlando City,4-2,?,DC United
 Sun Oct 23 2016,Philadelphia Union,0-2,?,New York Red Bulls
@@ -341,18 +341,18 @@ Sun Oct 23 2016,Toronto FC,3-2,?,Chicago Fire
 Sun Oct 23 2016,Vancouver Whitecaps,4-1,?,Portland Timbers
 Wed Oct 26 2016,Toronto FC,3-1,?,Philadelphia Union
 Wed Oct 26 2016,Los Angeles Galaxy,3-1,?,Real Salt Lake
-Thu Oct 27 2016,DC United,2-4,?,Montreal Impact
+Thu Oct 27 2016,DC United,2-4,?,CF Montreal
 Thu Oct 27 2016,Seattle Sounders,1-0,?,Sporting Kansas City
-Sun Oct 30 2016,Montreal Impact,1-0,?,New York Red Bulls
+Sun Oct 30 2016,CF Montreal,1-0,?,New York Red Bulls
 Sun Oct 30 2016,Los Angeles Galaxy,1-0,?,Colorado Rapids
 Sun Oct 30 2016,Toronto FC,2-0,?,New York City
 Sun Oct 30 2016,Seattle Sounders,3-0,?,FC Dallas
 Sun Nov 6 2016,Colorado Rapids,1-0,?,Los Angeles Galaxy
-Sun Nov 6 2016,New York Red Bulls,1-2,?,Montreal Impact
+Sun Nov 6 2016,New York Red Bulls,1-2,?,CF Montreal
 Sun Nov 6 2016,New York City,0-5,?,Toronto FC
 Sun Nov 6 2016,FC Dallas,2-1,?,Seattle Sounders
-Tue Nov 22 2016,Montreal Impact,3-2,?,Toronto FC
+Tue Nov 22 2016,CF Montreal,3-2,?,Toronto FC
 Tue Nov 22 2016,Seattle Sounders,2-1,?,Colorado Rapids
 Sun Nov 27 2016,Colorado Rapids,0-1,?,Seattle Sounders
-Wed Nov 30 2016,Toronto FC,3-2,?,Montreal Impact
+Wed Nov 30 2016,Toronto FC,3-2,?,CF Montreal
 Sat Dec 10 2016,Toronto FC,0-0,?,Seattle Sounders
