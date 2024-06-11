@@ -4,13 +4,13 @@ Sat Jul 21 2012,CSKA Moscow,1-0,?,FK Rostov
 Sat Jul 21 2012,Volga N. Novgorod,1-0,?,Dynamo Moscow
 Sat Jul 21 2012,Vladikavkaz,1-2,?,Spartak Moscow
 Sun Jul 22 2012,Zenit,2-0,?,Amkar
-Sun Jul 22 2012,FK Krylya Sovetov Samara,1-1,?,Akhmat Grozny
+Sun Jul 22 2012,Krylya Sovetov,1-1,?,Akhmat Grozny
 Sun Jul 22 2012,FK Anzi Makhackala,2-1,?,Kuban
 Mon Jul 23 2012,Krasnodar,2-1,?,Rubin Kazan
 Fri Jul 27 2012,Kuban,1-0,?,M. Saransk
 Sat Jul 28 2012,Zenit,2-0,?,Dynamo Moscow
 Sat Jul 28 2012,Amkar,3-1,?,CSKA Moscow
-Sat Jul 28 2012,Lokomotiv Moscow,2-0,?,FK Krylya Sovetov Samara
+Sat Jul 28 2012,Lokomotiv Moscow,2-0,?,Krylya Sovetov
 Sun Jul 29 2012,Rubin Kazan,3-1,?,Vladikavkaz
 Sun Jul 29 2012,Spartak Moscow,2-1,?,Volga N. Novgorod
 Sun Jul 29 2012,FK Rostov,2-2,?,FK Anzi Makhackala
@@ -19,7 +19,7 @@ Fri Aug 3 2012,M. Saransk,3-0,?,FK Rostov
 Sat Aug 4 2012,CSKA Moscow,1-3,?,Zenit
 Sat Aug 4 2012,Vladikavkaz,5-0,?,Akhmat Grozny
 Sat Aug 4 2012,Krasnodar,3-1,?,Lokomotiv Moscow
-Sun Aug 5 2012,FK Krylya Sovetov Samara,2-1,?,Kuban
+Sun Aug 5 2012,Krylya Sovetov,2-1,?,Kuban
 Sun Aug 5 2012,FK Anzi Makhackala,1-0,?,Amkar
 Sun Aug 5 2012,Dynamo Moscow,0-4,?,Spartak Moscow
 Mon Aug 6 2012,Volga N. Novgorod,1-2,?,Rubin Kazan
@@ -30,21 +30,21 @@ Sat Aug 11 2012,Akhmat Grozny,2-0,?,Volga N. Novgorod
 Sun Aug 12 2012,Amkar,0-0,?,M. Saransk
 Sun Aug 12 2012,CSKA Moscow,1-0,?,FK Anzi Makhackala
 Sun Aug 12 2012,Rubin Kazan,2-0,?,Dynamo Moscow
-Sun Aug 12 2012,FK Rostov,1-2,?,FK Krylya Sovetov Samara
+Sun Aug 12 2012,FK Rostov,1-2,?,Krylya Sovetov
 Sat Aug 18 2012,Spartak Moscow,2-1,?,Rubin Kazan
 Sat Aug 18 2012,Volga N. Novgorod,0-2,?,Lokomotiv Moscow
 Sat Aug 18 2012,Krasnodar,0-0,?,FK Rostov
 Sun Aug 19 2012,Dynamo Moscow,1-2,?,Akhmat Grozny
 Sun Aug 19 2012,M. Saransk,0-3,?,CSKA Moscow
 Sun Aug 19 2012,FK Anzi Makhackala,1-1,?,Zenit
-Mon Aug 20 2012,FK Krylya Sovetov Samara,0-2,?,Amkar
+Mon Aug 20 2012,Krylya Sovetov,0-2,?,Amkar
 Mon Aug 20 2012,Vladikavkaz,2-1,?,Kuban
 Sat Aug 25 2012,Lokomotiv Moscow,2-3,?,Dynamo Moscow
 Sat Aug 25 2012,Zenit,1-2,?,Rubin Kazan
 Sat Aug 25 2012,Akhmat Grozny,2-1,?,Spartak Moscow
 Sat Aug 25 2012,FK Rostov,3-1,?,Vladikavkaz
 Sun Aug 26 2012,Amkar,2-2,?,Krasnodar
-Sun Aug 26 2012,CSKA Moscow,3-0,?,FK Krylya Sovetov Samara
+Sun Aug 26 2012,CSKA Moscow,3-0,?,Krylya Sovetov
 Sun Aug 26 2012,FK Anzi Makhackala,4-2,?,M. Saransk
 Mon Aug 27 2012,Kuban,6-2,?,Volga N. Novgorod
 Fri Aug 31 2012,M. Saransk,0-3,?,Zenit
@@ -53,7 +53,7 @@ Sat Sep 1 2012,Volga N. Novgorod,1-1,?,FK Rostov
 Sat Sep 1 2012,Vladikavkaz,1-1,?,Amkar
 Sun Sep 2 2012,Krasnodar,0-1,?,CSKA Moscow
 Sun Sep 2 2012,Dynamo Moscow,1-2,?,Kuban
-Sun Sep 2 2012,FK Krylya Sovetov Samara,1-2,?,FK Anzi Makhackala
+Sun Sep 2 2012,Krylya Sovetov,1-2,?,FK Anzi Makhackala
 Sun Sep 2 2012,Lokomotiv Moscow,2-1,?,Spartak Moscow
 Fri Sep 14 2012,Zenit,0-2,?,Akhmat Grozny
 Sat Sep 15 2012,Lokomotiv Moscow,1-0,?,Rubin Kazan
@@ -62,11 +62,11 @@ Sun Sep 16 2012,CSKA Moscow,2-0,?,Vladikavkaz
 Sun Sep 16 2012,FK Anzi Makhackala,5-2,?,Krasnodar
 Sun Sep 16 2012,FK Rostov,1-0,?,Dynamo Moscow
 Mon Sep 17 2012,Amkar,3-2,?,Volga N. Novgorod
-Mon Sep 17 2012,M. Saransk,2-3,?,FK Krylya Sovetov Samara
+Mon Sep 17 2012,M. Saransk,2-3,?,Krylya Sovetov
 Fri Sep 21 2012,Krasnodar,6-1,?,M. Saransk
 Sat Sep 22 2012,Volga N. Novgorod,2-3,?,CSKA Moscow
 Sat Sep 22 2012,Dynamo Moscow,3-2,?,Amkar
-Sat Sep 22 2012,FK Krylya Sovetov Samara,2-2,?,Zenit
+Sat Sep 22 2012,Krylya Sovetov,2-2,?,Zenit
 Sat Sep 22 2012,Akhmat Grozny,0-3,?,Lokomotiv Moscow
 Sun Sep 23 2012,Spartak Moscow,3-1,?,FK Rostov
 Sun Sep 23 2012,Rubin Kazan,1-0,?,Kuban
@@ -77,12 +77,12 @@ Sat Sep 29 2012,Kuban,2-1,?,Akhmat Grozny
 Sun Sep 30 2012,CSKA Moscow,0-2,?,Dynamo Moscow
 Sun Sep 30 2012,FK Anzi Makhackala,2-1,?,Volga N. Novgorod
 Sun Sep 30 2012,FK Rostov,0-4,?,Rubin Kazan
-Mon Oct 1 2012,FK Krylya Sovetov Samara,2-2,?,Krasnodar
+Mon Oct 1 2012,Krylya Sovetov,2-2,?,Krasnodar
 Mon Oct 1 2012,M. Saransk,1-1,?,Vladikavkaz
 Fri Oct 5 2012,Akhmat Grozny,2-1,?,FK Rostov
 Sat Oct 6 2012,Lokomotiv Moscow,0-1,?,Kuban
 Sat Oct 6 2012,Volga N. Novgorod,0-2,?,M. Saransk
-Sat Oct 6 2012,Vladikavkaz,2-2,?,FK Krylya Sovetov Samara
+Sat Oct 6 2012,Vladikavkaz,2-2,?,Krylya Sovetov
 Sun Oct 7 2012,Dynamo Moscow,0-2,?,FK Anzi Makhackala
 Sun Oct 7 2012,Rubin Kazan,0-1,?,Amkar
 Sun Oct 7 2012,Spartak Moscow,0-2,?,CSKA Moscow
@@ -94,18 +94,18 @@ Sun Oct 21 2012,Amkar,0-1,?,Akhmat Grozny
 Sun Oct 21 2012,CSKA Moscow,2-0,?,Rubin Kazan
 Sun Oct 21 2012,M. Saransk,1-2,?,Dynamo Moscow
 Sun Oct 21 2012,FK Rostov,0-0,?,Lokomotiv Moscow
-Mon Oct 22 2012,FK Krylya Sovetov Samara,0-1,?,Volga N. Novgorod
+Mon Oct 22 2012,Krylya Sovetov,0-1,?,Volga N. Novgorod
 Fri Oct 26 2012,Lokomotiv Moscow,1-2,?,Amkar
 Fri Oct 26 2012,Kuban,1-0,?,FK Rostov
 Sat Oct 27 2012,Spartak Moscow,2-0,?,M. Saransk
 Sat Oct 27 2012,Volga N. Novgorod,1-1,?,Krasnodar
 Sat Oct 27 2012,Vladikavkaz,2-3,?,Zenit
-Sun Oct 28 2012,Dynamo Moscow,1-0,?,FK Krylya Sovetov Samara
+Sun Oct 28 2012,Dynamo Moscow,1-0,?,Krylya Sovetov
 Sun Oct 28 2012,Akhmat Grozny,1-2,?,CSKA Moscow
 Sun Oct 28 2012,Rubin Kazan,2-1,?,FK Anzi Makhackala
 Fri Nov 2 2012,Zenit,2-1,?,FK Rostov
 Sat Nov 3 2012,Amkar,0-3,?,Kuban
-Sat Nov 3 2012,FK Krylya Sovetov Samara,0-5,?,Spartak Moscow
+Sat Nov 3 2012,Krylya Sovetov,0-5,?,Spartak Moscow
 Sat Nov 3 2012,M. Saransk,1-3,?,Rubin Kazan
 Sun Nov 4 2012,CSKA Moscow,2-1,?,Lokomotiv Moscow
 Sun Nov 4 2012,FK Anzi Makhackala,3-1,?,Akhmat Grozny
@@ -116,7 +116,7 @@ Sat Nov 10 2012,Dynamo Moscow,2-0,?,Vladikavkaz
 Sat Nov 10 2012,Akhmat Grozny,2-1,?,M. Saransk
 Sat Nov 10 2012,Kuban,1-3,?,CSKA Moscow
 Sun Nov 11 2012,Lokomotiv Moscow,1-1,?,FK Anzi Makhackala
-Sun Nov 11 2012,Rubin Kazan,2-0,?,FK Krylya Sovetov Samara
+Sun Nov 11 2012,Rubin Kazan,2-0,?,Krylya Sovetov
 Sun Nov 11 2012,Volga N. Novgorod,1-2,?,Zenit
 Sun Nov 11 2012,Spartak Moscow,2-0,?,Krasnodar
 Sat Nov 17 2012,Volga N. Novgorod,1-1,?,Spartak Moscow
@@ -125,13 +125,13 @@ Sat Nov 17 2012,Vladikavkaz,0-2,?,Rubin Kazan
 Sun Nov 18 2012,CSKA Moscow,3-0,?,Amkar
 Sun Nov 18 2012,M. Saransk,0-3,?,Kuban
 Sun Nov 18 2012,FK Anzi Makhackala,0-0,?,FK Rostov
-Mon Nov 19 2012,FK Krylya Sovetov Samara,0-1,?,Lokomotiv Moscow
+Mon Nov 19 2012,Krylya Sovetov,0-1,?,Lokomotiv Moscow
 Mon Nov 19 2012,Krasnodar,3-0,?,Akhmat Grozny
 Fri Nov 23 2012,FK Rostov,2-0,?,M. Saransk
 Sat Nov 24 2012,Akhmat Grozny,1-0,?,Vladikavkaz
 Sat Nov 24 2012,Lokomotiv Moscow,3-2,?,Krasnodar
 Sun Nov 25 2012,Spartak Moscow,1-5,?,Dynamo Moscow
-Sun Nov 25 2012,Kuban,4-1,?,FK Krylya Sovetov Samara
+Sun Nov 25 2012,Kuban,4-1,?,Krylya Sovetov
 Mon Nov 26 2012,Amkar,1-2,?,FK Anzi Makhackala
 Mon Nov 26 2012,Rubin Kazan,0-0,?,Volga N. Novgorod
 Mon Nov 26 2012,Zenit,1-1,?,CSKA Moscow
@@ -141,10 +141,10 @@ Sat Dec 1 2012,Dynamo Moscow,3-0,?,Rubin Kazan
 Sat Dec 1 2012,Vladikavkaz,0-1,?,Lokomotiv Moscow
 Sat Dec 1 2012,Volga N. Novgorod,1-1,?,Akhmat Grozny
 Sun Dec 2 2012,FK Anzi Makhackala,2-0,?,CSKA Moscow
-Sun Dec 2 2012,FK Krylya Sovetov Samara,0-2,?,FK Rostov
+Sun Dec 2 2012,Krylya Sovetov,0-2,?,FK Rostov
 Mon Dec 3 2012,M. Saransk,1-1,?,Amkar
 Fri Dec 7 2012,FK Rostov,2-3,?,Krasnodar
-Sat Dec 8 2012,Amkar,0-2,?,FK Krylya Sovetov Samara
+Sat Dec 8 2012,Amkar,0-2,?,Krylya Sovetov
 Sat Dec 8 2012,Kuban,0-0,?,Vladikavkaz
 Sat Dec 8 2012,Lokomotiv Moscow,0-1,?,Volga N. Novgorod
 Sun Dec 9 2012,Akhmat Grozny,1-2,?,Dynamo Moscow
@@ -154,7 +154,7 @@ Mon Dec 10 2012,Zenit,1-1,?,FK Anzi Makhackala
 Fri Mar 8 2013,Volga N. Novgorod,0-2,?,Kuban
 Fri Mar 8 2013,Krasnodar,2-1,?,Amkar
 Sat Mar 9 2013,Dynamo Moscow,1-0,?,Lokomotiv Moscow
-Sat Mar 9 2013,FK Krylya Sovetov Samara,0-2,?,CSKA Moscow
+Sat Mar 9 2013,Krylya Sovetov,0-2,?,CSKA Moscow
 Sat Mar 9 2013,Vladikavkaz,0-0,?,FK Rostov
 Sun Mar 10 2013,Spartak Moscow,3-1,?,Akhmat Grozny
 Sun Mar 10 2013,Rubin Kazan,1-0,?,Zenit
@@ -164,11 +164,11 @@ Sat Mar 16 2013,Spartak Moscow,0-0,?,Lokomotiv Moscow
 Sat Mar 16 2013,Amkar,5-1,?,Vladikavkaz
 Sat Mar 16 2013,Kuban,1-1,?,Dynamo Moscow
 Sun Mar 17 2013,CSKA Moscow,1-0,?,Krasnodar
-Sun Mar 17 2013,FK Anzi Makhackala,1-1,?,FK Krylya Sovetov Samara
+Sun Mar 17 2013,FK Anzi Makhackala,1-1,?,Krylya Sovetov
 Sun Mar 17 2013,Akhmat Grozny,0-0,?,Rubin Kazan
 Sun Mar 17 2013,Zenit,1-0,?,M. Saransk
 Sat Mar 30 2013,Rubin Kazan,2-0,?,Lokomotiv Moscow
-Sat Mar 30 2013,FK Krylya Sovetov Samara,0-2,?,M. Saransk
+Sat Mar 30 2013,Krylya Sovetov,0-2,?,M. Saransk
 Sat Mar 30 2013,Dynamo Moscow,1-0,?,FK Rostov
 Sun Mar 31 2013,Volga N. Novgorod,1-1,?,Amkar
 Sun Mar 31 2013,Krasnodar,4-0,?,FK Anzi Makhackala
@@ -179,27 +179,27 @@ Fri Apr 5 2013,Amkar,1-1,?,Dynamo Moscow
 Sat Apr 6 2013,CSKA Moscow,2-0,?,Volga N. Novgorod
 Sat Apr 6 2013,FK Rostov,1-0,?,Spartak Moscow
 Sat Apr 6 2013,Lokomotiv Moscow,1-1,?,Akhmat Grozny
-Sun Apr 7 2013,Zenit,1-0,?,FK Krylya Sovetov Samara
+Sun Apr 7 2013,Zenit,1-0,?,Krylya Sovetov
 Sun Apr 7 2013,FK Anzi Makhackala,0-0,?,Vladikavkaz
 Sun Apr 7 2013,Kuban,0-0,?,Rubin Kazan
 Mon Apr 8 2013,M. Saransk,0-0,?,Krasnodar
 Fri Apr 12 2013,Dynamo Moscow,0-0,?,CSKA Moscow
 Sat Apr 13 2013,Lokomotiv Moscow,0-1,?,Zenit
 Sat Apr 13 2013,Akhmat Grozny,2-2,?,Kuban
-Sat Apr 13 2013,Krasnodar,0-3,?,FK Krylya Sovetov Samara
+Sat Apr 13 2013,Krasnodar,0-3,?,Krylya Sovetov
 Sun Apr 14 2013,Volga N. Novgorod,0-3,?,FK Anzi Makhackala
 Sun Apr 14 2013,Spartak Moscow,2-0,?,Amkar
 Sun Apr 14 2013,Rubin Kazan,1-1,?,FK Rostov
 Mon Apr 15 2013,Vladikavkaz,3-1,?,M. Saransk
 Fri Apr 19 2013,Amkar,1-1,?,Rubin Kazan
 Sat Apr 20 2013,M. Saransk,1-3,?,Volga N. Novgorod
-Sat Apr 20 2013,FK Krylya Sovetov Samara,2-1,?,Vladikavkaz
+Sat Apr 20 2013,Krylya Sovetov,2-1,?,Vladikavkaz
 Sat Apr 20 2013,Kuban,0-0,?,Lokomotiv Moscow
 Sun Apr 21 2013,CSKA Moscow,2-2,?,Spartak Moscow
 Sun Apr 21 2013,Zenit,1-0,?,Krasnodar
 Sun Apr 21 2013,FK Anzi Makhackala,3-3,?,Dynamo Moscow
 Mon Apr 22 2013,FK Rostov,0-3,?,Akhmat Grozny
-Fri Apr 26 2013,Volga N. Novgorod,1-1,?,FK Krylya Sovetov Samara
+Fri Apr 26 2013,Volga N. Novgorod,1-1,?,Krylya Sovetov
 Sat Apr 27 2013,Dynamo Moscow,3-1,?,M. Saransk
 Sat Apr 27 2013,Akhmat Grozny,2-1,?,Amkar
 Sat Apr 27 2013,Lokomotiv Moscow,3-1,?,FK Rostov
@@ -212,11 +212,11 @@ Sat May 4 2013,CSKA Moscow,1-0,?,Akhmat Grozny
 Sat May 4 2013,FK Rostov,0-2,?,Kuban
 Sat May 4 2013,FK Anzi Makhackala,2-1,?,Rubin Kazan
 Sat May 4 2013,Zenit,4-0,?,Vladikavkaz
-Sun May 5 2013,FK Krylya Sovetov Samara,1-2,?,Dynamo Moscow
+Sun May 5 2013,Krylya Sovetov,1-2,?,Dynamo Moscow
 Sun May 5 2013,Amkar,2-4,?,Lokomotiv Moscow
 Sun May 5 2013,Krasnodar,2-0,?,Volga N. Novgorod
 Fri May 10 2013,Rubin Kazan,2-1,?,M. Saransk
-Fri May 10 2013,Spartak Moscow,1-1,?,FK Krylya Sovetov Samara
+Fri May 10 2013,Spartak Moscow,1-1,?,Krylya Sovetov
 Sat May 11 2013,Dynamo Moscow,1-1,?,Krasnodar
 Sat May 11 2013,Volga N. Novgorod,1-0,?,Vladikavkaz
 Sat May 11 2013,Kuban,4-0,?,Amkar
@@ -228,10 +228,10 @@ Sat May 18 2013,CSKA Moscow,0-0,?,Kuban
 Sat May 18 2013,M. Saransk,1-1,?,Akhmat Grozny
 Sat May 18 2013,Krasnodar,0-1,?,Spartak Moscow
 Sun May 19 2013,Vladikavkaz,1-0,?,Dynamo Moscow
-Sun May 19 2013,FK Krylya Sovetov Samara,3-1,?,Rubin Kazan
+Sun May 19 2013,Krylya Sovetov,3-1,?,Rubin Kazan
 Sun May 19 2013,Zenit,3-1,?,Volga N. Novgorod
 Mon May 20 2013,FK Anzi Makhackala,2-1,?,Lokomotiv Moscow
-Sun May 26 2013,Akhmat Grozny,4-1,?,FK Krylya Sovetov Samara
+Sun May 26 2013,Akhmat Grozny,4-1,?,Krylya Sovetov
 Sun May 26 2013,Amkar,0-0,?,Zenit
 Sun May 26 2013,Dynamo Moscow,0-0,?,Volga N. Novgorod
 Sun May 26 2013,FK Rostov,3-0,?,CSKA Moscow
@@ -239,7 +239,7 @@ Sun May 26 2013,Kuban,1-0,?,FK Anzi Makhackala
 Sun May 26 2013,Lokomotiv Moscow,2-1,?,M. Saransk
 Sun May 26 2013,Rubin Kazan,2-0,?,Krasnodar
 Sun May 26 2013,Spartak Moscow,2-0,?,Vladikavkaz
-Thu May 30 2013,FK Krylya Sovetov Samara,2-0,?,Spartak Nalchik
+Thu May 30 2013,Krylya Sovetov,2-0,?,Spartak Nalchik
 Thu May 30 2013,FK Rostov,2-0,?,SKA Khabarovsk
 Mon Jun 3 2013,SKA Khabarovsk,0-1,?,FK Rostov
-Mon Jun 3 2013,Spartak Nalchik,2-5,?,FK Krylya Sovetov Samara
+Mon Jun 3 2013,Spartak Nalchik,2-5,?,Krylya Sovetov

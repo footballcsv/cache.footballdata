@@ -7,11 +7,11 @@ Sun Jul 22 2012,Bistrita,1-2,?,Astra
 Sun Jul 22 2012,Poli Iasi,1-2,?,Otelul
 Sun Jul 22 2012,FC Rapid Bucuresti,2-2,?,Vaslui
 Mon Jul 23 2012,Viitorul Constanta,2-2,?,FC Brasov
-Mon Jul 23 2012,FC Steaua Bucuresti,1-0,?,Concordia
+Mon Jul 23 2012,FCSB,1-0,?,Concordia
 Fri Jul 27 2012,FC Brasov,2-1,?,CS Turnu Severin
 Fri Jul 27 2012,Ceahlaul,2-2,?,CFR Cluj
 Sat Jul 28 2012,Gaz Metan Medias,0-2,?,Pandurii
-Sat Jul 28 2012,Astra,3-4,?,FC Steaua Bucuresti
+Sat Jul 28 2012,Astra,3-4,?,FCSB
 Sat Jul 28 2012,Vaslui,3-0,?,Petrolul
 Sun Jul 29 2012,U. Cluj,1-0,?,Bistrita
 Sun Jul 29 2012,Din. Bucuresti,5-2,?,Poli Iasi
@@ -23,14 +23,14 @@ Sat Aug 4 2012,CS Turnu Severin,0-1,?,Concordia
 Sat Aug 4 2012,Petrolul,2-1,?,Otelul
 Sat Aug 4 2012,CFR Cluj,3-0,?,Vaslui
 Sun Aug 5 2012,Viitorul Constanta,0-0,?,Astra
-Sun Aug 5 2012,FC Steaua Bucuresti,5-1,?,U. Cluj
+Sun Aug 5 2012,FCSB,5-1,?,U. Cluj
 Mon Aug 6 2012,FC Rapid Bucuresti,1-0,?,Poli Iasi
 Mon Aug 6 2012,FC Brasov,2-2,?,Din. Bucuresti
 Fri Aug 10 2012,Astra,1-1,?,CS Turnu Severin
 Fri Aug 10 2012,Poli Iasi,2-2,?,Petrolul
 Sun Aug 12 2012,U. Cluj,2-1,?,Viitorul Constanta
 Sun Aug 12 2012,Vaslui,0-0,?,Pandurii
-Sun Aug 12 2012,Gaz Metan Medias,1-1,?,FC Steaua Bucuresti
+Sun Aug 12 2012,Gaz Metan Medias,1-1,?,FCSB
 Mon Aug 13 2012,Ceahlaul,2-0,?,Bistrita
 Mon Aug 13 2012,Otelul,1-2,?,CFR Cluj
 Mon Aug 13 2012,Concordia,2-1,?,FC Brasov
@@ -39,7 +39,7 @@ Fri Aug 17 2012,CFR Cluj,2-2,?,Poli Iasi
 Fri Aug 17 2012,Concordia,0-0,?,Din. Bucuresti
 Sat Aug 18 2012,Bistrita,0-3,?,Vaslui
 Sat Aug 18 2012,Petrolul,0-0,?,FC Rapid Bucuresti
-Sun Aug 19 2012,FC Steaua Bucuresti,3-0,?,Ceahlaul
+Sun Aug 19 2012,FCSB,3-0,?,Ceahlaul
 Mon Aug 20 2012,Viitorul Constanta,0-1,?,Gaz Metan Medias
 Mon Aug 20 2012,Pandurii,3-2,?,Otelul
 Mon Aug 20 2012,FC Brasov,1-2,?,Astra
@@ -51,12 +51,12 @@ Sun Aug 26 2012,Poli Iasi,0-1,?,Pandurii
 Sun Aug 26 2012,Din. Bucuresti,2-1,?,Petrolul
 Mon Aug 27 2012,Ceahlaul,0-3,?,Viitorul Constanta
 Mon Aug 27 2012,U. Cluj,1-1,?,FC Brasov
-Mon Aug 27 2012,Vaslui,3-1,?,FC Steaua Bucuresti
+Mon Aug 27 2012,Vaslui,3-1,?,FCSB
 Fri Aug 31 2012,Bistrita,1-0,?,Poli Iasi
 Sat Sep 1 2012,FC Brasov,3-1,?,Gaz Metan Medias
 Sat Sep 1 2012,Pandurii,2-0,?,FC Rapid Bucuresti
 Sun Sep 2 2012,Astra,1-0,?,Din. Bucuresti
-Sun Sep 2 2012,FC Steaua Bucuresti,2-1,?,Otelul
+Sun Sep 2 2012,FCSB,2-1,?,Otelul
 Sun Sep 2 2012,CFR Cluj,2-2,?,Petrolul
 Sun Sep 2 2012,Concordia,0-2,?,U. Cluj
 Sun Sep 2 2012,Viitorul Constanta,2-2,?,Vaslui
@@ -67,7 +67,7 @@ Sat Sep 15 2012,Gaz Metan Medias,1-3,?,Concordia
 Sat Sep 15 2012,Otelul,1-1,?,Viitorul Constanta
 Sat Sep 15 2012,FC Rapid Bucuresti,3-1,?,Bistrita
 Sun Sep 16 2012,Petrolul,4-0,?,Pandurii
-Sun Sep 16 2012,Poli Iasi,0-3,?,FC Steaua Bucuresti
+Sun Sep 16 2012,Poli Iasi,0-3,?,FCSB
 Mon Sep 17 2012,U. Cluj,1-3,?,Astra
 Mon Sep 17 2012,Vaslui,2-1,?,CS Turnu Severin
 Fri Sep 21 2012,Concordia,2-1,?,Ceahlaul
@@ -78,14 +78,14 @@ Sun Sep 23 2012,Astra,4-0,?,Gaz Metan Medias
 Sun Sep 23 2012,FC Brasov,2-1,?,Vaslui
 Sun Sep 23 2012,Pandurii,2-1,?,CFR Cluj
 Mon Sep 24 2012,Viitorul Constanta,1-0,?,Poli Iasi
-Mon Sep 24 2012,FC Steaua Bucuresti,1-0,?,FC Rapid Bucuresti
+Mon Sep 24 2012,FCSB,1-0,?,FC Rapid Bucuresti
 Sat Sep 29 2012,Gaz Metan Medias,2-1,?,U. Cluj
 Sat Sep 29 2012,CFR Cluj,5-1,?,Bistrita
 Sat Sep 29 2012,Vaslui,3-0,?,Concordia
 Sun Sep 30 2012,Otelul,0-0,?,FC Brasov
 Sun Sep 30 2012,FC Rapid Bucuresti,2-1,?,Viitorul Constanta
 Sun Sep 30 2012,Poli Iasi,1-0,?,CS Turnu Severin
-Sun Sep 30 2012,Petrolul,1-2,?,FC Steaua Bucuresti
+Sun Sep 30 2012,Petrolul,1-2,?,FCSB
 Mon Oct 1 2012,Ceahlaul,3-2,?,Astra
 Mon Oct 1 2012,Din. Bucuresti,3-0,?,Pandurii
 Fri Oct 5 2012,U. Cluj,1-0,?,Ceahlaul
@@ -94,7 +94,7 @@ Sat Oct 6 2012,Viitorul Constanta,1-2,?,Petrolul
 Sat Oct 6 2012,CS Turnu Severin,0-1,?,FC Rapid Bucuresti
 Sat Oct 6 2012,Gaz Metan Medias,2-2,?,Din. Bucuresti
 Sun Oct 7 2012,Bistrita,1-3,?,Pandurii
-Sun Oct 7 2012,FC Steaua Bucuresti,1-0,?,CFR Cluj
+Sun Oct 7 2012,FCSB,1-0,?,CFR Cluj
 Mon Oct 8 2012,FC Brasov,1-0,?,Poli Iasi
 Mon Oct 8 2012,Concordia,0-0,?,Otelul
 Thu Oct 18 2012,CFR Cluj,0-1,?,Viitorul Constanta
@@ -104,7 +104,7 @@ Fri Oct 19 2012,FC Rapid Bucuresti,1-2,?,FC Brasov
 Sat Oct 20 2012,Otelul,2-1,?,Astra
 Sat Oct 20 2012,Petrolul,1-0,?,CS Turnu Severin
 Sun Oct 21 2012,Vaslui,1-0,?,U. Cluj
-Sun Oct 21 2012,Pandurii,0-0,?,FC Steaua Bucuresti
+Sun Oct 21 2012,Pandurii,0-0,?,FCSB
 Mon Oct 22 2012,Poli Iasi,0-1,?,Concordia
 Mon Oct 22 2012,Din. Bucuresti,2-1,?,FC Rapid Bucuresti
 Fri Oct 26 2012,U. Cluj,1-1,?,Otelul
@@ -114,14 +114,14 @@ Sat Oct 27 2012,CS Turnu Severin,1-3,?,CFR Cluj
 Sat Oct 27 2012,Concordia,0-0,?,FC Rapid Bucuresti
 Sat Oct 27 2012,Ceahlaul,0-0,?,Din. Bucuresti
 Sun Oct 28 2012,Gaz Metan Medias,1-0,?,Vaslui
-Sun Oct 28 2012,FC Steaua Bucuresti,4-0,?,Bistrita
+Sun Oct 28 2012,FCSB,4-0,?,Bistrita
 Mon Oct 29 2012,Viitorul Constanta,2-0,?,Pandurii
 Fri Nov 2 2012,Bistrita,1-1,?,Viitorul Constanta
 Fri Nov 2 2012,Poli Iasi,4-0,?,U. Cluj
 Sat Nov 3 2012,CFR Cluj,5-0,?,FC Brasov
 Sat Nov 3 2012,Vaslui,4-3,?,Ceahlaul
 Sun Nov 4 2012,Otelul,2-0,?,Gaz Metan Medias
-Sun Nov 4 2012,FC Steaua Bucuresti,3-1,?,Din. Bucuresti
+Sun Nov 4 2012,FCSB,3-1,?,Din. Bucuresti
 Mon Nov 5 2012,Pandurii,2-2,?,CS Turnu Severin
 Mon Nov 5 2012,Petrolul,0-0,?,Concordia
 Mon Nov 5 2012,FC Rapid Bucuresti,0-2,?,Astra
@@ -132,14 +132,14 @@ Sat Nov 10 2012,Astra,1-1,?,Petrolul
 Sat Nov 10 2012,Din. Bucuresti,0-1,?,Vaslui
 Sun Nov 11 2012,Concordia,1-2,?,CFR Cluj
 Sun Nov 11 2012,FC Brasov,0-1,?,Pandurii
-Sun Nov 11 2012,Viitorul Constanta,0-4,?,FC Steaua Bucuresti
+Sun Nov 11 2012,Viitorul Constanta,0-4,?,FCSB
 Mon Nov 12 2012,U. Cluj,1-2,?,FC Rapid Bucuresti
 Fri Nov 16 2012,CFR Cluj,0-2,?,Astra
 Fri Nov 16 2012,Bistrita,1-1,?,FC Brasov
 Fri Nov 16 2012,Petrolul,2-0,?,U. Cluj
 Sat Nov 17 2012,Poli Iasi,1-0,?,Ceahlaul
 Sat Nov 17 2012,Viitorul Constanta,1-1,?,Din. Bucuresti
-Sun Nov 18 2012,FC Steaua Bucuresti,2-1,?,CS Turnu Severin
+Sun Nov 18 2012,FCSB,2-1,?,CS Turnu Severin
 Mon Nov 19 2012,Pandurii,2-1,?,Concordia
 Mon Nov 19 2012,Otelul,2-0,?,Vaslui
 Mon Nov 19 2012,FC Rapid Bucuresti,2-1,?,Gaz Metan Medias
@@ -151,9 +151,9 @@ Sat Nov 24 2012,Ceahlaul,0-0,?,FC Rapid Bucuresti
 Sun Nov 25 2012,Astra,4-1,?,Pandurii
 Mon Nov 26 2012,CS Turnu Severin,2-2,?,Viitorul Constanta
 Mon Nov 26 2012,Vaslui,3-0,?,Poli Iasi
-Mon Nov 26 2012,FC Brasov,3-1,?,FC Steaua Bucuresti
+Mon Nov 26 2012,FC Brasov,3-1,?,FCSB
 Fri Nov 30 2012,U. Cluj,1-1,?,Pandurii
-Fri Nov 30 2012,Concordia,0-6,?,FC Steaua Bucuresti
+Fri Nov 30 2012,Concordia,0-6,?,FCSB
 Sat Dec 1 2012,FC Brasov,3-1,?,Viitorul Constanta
 Sat Dec 1 2012,Gaz Metan Medias,1-1,?,CFR Cluj
 Sun Dec 2 2012,Ceahlaul,0-2,?,Petrolul
@@ -169,7 +169,7 @@ Sun Dec 9 2012,CFR Cluj,3-2,?,Ceahlaul
 Sun Dec 9 2012,Poli Iasi,1-1,?,Din. Bucuresti
 Mon Dec 10 2012,Viitorul Constanta,1-1,?,Concordia
 Mon Dec 10 2012,CS Turnu Severin,2-1,?,FC Brasov
-Mon Dec 10 2012,FC Steaua Bucuresti,2-0,?,Astra
+Mon Dec 10 2012,FCSB,2-0,?,Astra
 Fri Feb 22 2013,Gaz Metan Medias,3-1,?,Bistrita
 Sat Feb 23 2013,Concordia,1-1,?,CS Turnu Severin
 Sat Feb 23 2013,Ceahlaul,0-1,?,Pandurii
@@ -177,10 +177,10 @@ Sat Feb 23 2013,Poli Iasi,0-1,?,FC Rapid Bucuresti
 Sun Feb 24 2013,Otelul,0-1,?,Petrolul
 Sun Feb 24 2013,Din. Bucuresti,2-1,?,FC Brasov
 Mon Feb 25 2013,Astra,2-0,?,Viitorul Constanta
-Mon Feb 25 2013,U. Cluj,0-1,?,FC Steaua Bucuresti
+Mon Feb 25 2013,U. Cluj,0-1,?,FCSB
 Mon Feb 25 2013,Vaslui,0-0,?,CFR Cluj
 Fri Mar 1 2013,Bistrita,0-0,?,Ceahlaul
-Sat Mar 2 2013,FC Steaua Bucuresti,3-0,?,Gaz Metan Medias
+Sat Mar 2 2013,FCSB,3-0,?,Gaz Metan Medias
 Sat Mar 2 2013,Viitorul Constanta,1-1,?,U. Cluj
 Sat Mar 2 2013,CFR Cluj,0-1,?,Otelul
 Sun Mar 3 2013,Petrolul,2-1,?,Poli Iasi
@@ -193,7 +193,7 @@ Sat Mar 9 2013,Astra,3-0,?,FC Brasov
 Sat Mar 9 2013,Poli Iasi,1-1,?,CFR Cluj
 Sat Mar 9 2013,FC Rapid Bucuresti,0-0,?,Petrolul
 Sun Mar 10 2013,Otelul,1-0,?,Pandurii
-Sun Mar 10 2013,Ceahlaul,3-4,?,FC Steaua Bucuresti
+Sun Mar 10 2013,Ceahlaul,3-4,?,FCSB
 Mon Mar 11 2013,U. Cluj,1-0,?,CS Turnu Severin
 Mon Mar 11 2013,Din. Bucuresti,2-0,?,Concordia
 Mon Mar 11 2013,Vaslui,1-1,?,Bistrita
@@ -203,7 +203,7 @@ Fri Mar 15 2013,Bistrita,2-1,?,Otelul
 Sat Mar 16 2013,Pandurii,3-1,?,Poli Iasi
 Sat Mar 16 2013,Petrolul,2-1,?,Din. Bucuresti
 Sun Mar 17 2013,Viitorul Constanta,2-2,?,Ceahlaul
-Sun Mar 17 2013,FC Steaua Bucuresti,1-0,?,Vaslui
+Sun Mar 17 2013,FCSB,1-0,?,Vaslui
 Mon Mar 18 2013,FC Brasov,0-0,?,U. Cluj
 Mon Mar 18 2013,CFR Cluj,0-0,?,FC Rapid Bucuresti
 Fri Mar 29 2013,U. Cluj,1-0,?,Concordia
@@ -214,14 +214,14 @@ Sun Mar 31 2013,Petrolul,1-1,?,CFR Cluj
 Sun Mar 31 2013,Din. Bucuresti,1-0,?,Astra
 Mon Apr 1 2013,Poli Iasi,2-1,?,Bistrita
 Mon Apr 1 2013,Vaslui,3-2,?,Viitorul Constanta
-Mon Apr 1 2013,Otelul,1-1,?,FC Steaua Bucuresti
+Mon Apr 1 2013,Otelul,1-1,?,FCSB
 Fri Apr 5 2013,Astra,1-2,?,U. Cluj
 Fri Apr 5 2013,FC Brasov,1-0,?,Ceahlaul
 Fri Apr 5 2013,CS Turnu Severin,2-0,?,Vaslui
 Sat Apr 6 2013,Pandurii,1-3,?,Petrolul
 Sat Apr 6 2013,CFR Cluj,0-1,?,Din. Bucuresti
 Sun Apr 7 2013,Bistrita,0-1,?,FC Rapid Bucuresti
-Sun Apr 7 2013,FC Steaua Bucuresti,3-1,?,Poli Iasi
+Sun Apr 7 2013,FCSB,3-1,?,Poli Iasi
 Mon Apr 8 2013,Concordia,0-1,?,Gaz Metan Medias
 Mon Apr 8 2013,Viitorul Constanta,0-0,?,Otelul
 Fri Apr 12 2013,Gaz Metan Medias,2-1,?,Astra
@@ -230,7 +230,7 @@ Sat Apr 13 2013,Otelul,2-0,?,CS Turnu Severin
 Sat Apr 13 2013,Ceahlaul,3-0,?,Concordia
 Sat Apr 13 2013,Petrolul,4-0,?,Bistrita
 Sat Apr 13 2013,Din. Bucuresti,1-1,?,U. Cluj
-Sun Apr 14 2013,FC Rapid Bucuresti,1-1,?,FC Steaua Bucuresti
+Sun Apr 14 2013,FC Rapid Bucuresti,1-1,?,FCSB
 Mon Apr 15 2013,Vaslui,1-1,?,FC Brasov
 Mon Apr 15 2013,Poli Iasi,1-2,?,Viitorul Constanta
 Fri Apr 19 2013,U. Cluj,3-4,?,Gaz Metan Medias
@@ -241,18 +241,18 @@ Sun Apr 21 2013,Bistrita,0-5,?,CFR Cluj
 Sun Apr 21 2013,Concordia,1-1,?,Vaslui
 Sun Apr 21 2013,Pandurii,2-0,?,Din. Bucuresti
 Mon Apr 22 2013,FC Brasov,3-2,?,Otelul
-Mon Apr 22 2013,FC Steaua Bucuresti,2-2,?,Petrolul
+Mon Apr 22 2013,FCSB,2-2,?,Petrolul
 Fri Apr 26 2013,Ceahlaul,2-1,?,U. Cluj
 Fri Apr 26 2013,FC Rapid Bucuresti,1-0,?,CS Turnu Severin
 Sat Apr 27 2013,Petrolul,3-0,?,Viitorul Constanta
 Sat Apr 27 2013,Vaslui,2-1,?,Astra
 Sun Apr 28 2013,Din. Bucuresti,2-0,?,Gaz Metan Medias
-Sun Apr 28 2013,CFR Cluj,0-0,?,FC Steaua Bucuresti
+Sun Apr 28 2013,CFR Cluj,0-0,?,FCSB
 Mon Apr 29 2013,Otelul,2-1,?,Concordia
 Mon Apr 29 2013,Pandurii,4-0,?,Bistrita
 Mon Apr 29 2013,Poli Iasi,1-2,?,FC Brasov
 Fri May 3 2013,Gaz Metan Medias,3-1,?,Ceahlaul
-Fri May 3 2013,FC Steaua Bucuresti,2-0,?,Pandurii
+Fri May 3 2013,FCSB,2-0,?,Pandurii
 Fri May 3 2013,Bistrita,1-2,?,Din. Bucuresti
 Sat May 4 2013,FC Brasov,2-0,?,FC Rapid Bucuresti
 Sat May 4 2013,Astra,0-0,?,Otelul
@@ -262,14 +262,14 @@ Sun May 5 2013,Viitorul Constanta,0-2,?,CFR Cluj
 Mon May 6 2013,Concordia,1-1,?,Poli Iasi
 Tue May 7 2013,Din. Bucuresti,1-1,?,Ceahlaul
 Tue May 7 2013,Vaslui,1-1,?,Gaz Metan Medias
-Tue May 7 2013,Bistrita,0-1,?,FC Steaua Bucuresti
+Tue May 7 2013,Bistrita,0-1,?,FCSB
 Wed May 8 2013,Otelul,0-2,?,U. Cluj
 Wed May 8 2013,Petrolul,6-4,?,FC Brasov
 Thu May 9 2013,CFR Cluj,1-3,?,CS Turnu Severin
 Thu May 9 2013,FC Rapid Bucuresti,0-0,?,Concordia
 Thu May 9 2013,Poli Iasi,0-2,?,Astra
 Thu May 9 2013,Pandurii,4-1,?,Viitorul Constanta
-Fri May 10 2013,Din. Bucuresti,0-2,?,FC Steaua Bucuresti
+Fri May 10 2013,Din. Bucuresti,0-2,?,FCSB
 Sat May 11 2013,Gaz Metan Medias,1-2,?,Otelul
 Sat May 11 2013,Ceahlaul,0-2,?,Vaslui
 Sun May 12 2013,Concordia,1-1,?,Petrolul
@@ -283,7 +283,7 @@ Fri May 17 2013,Otelul,3-2,?,Ceahlaul
 Sat May 18 2013,Pandurii,2-3,?,FC Brasov
 Sat May 18 2013,Petrolul,1-1,?,Astra
 Sat May 18 2013,Vaslui,4-1,?,Din. Bucuresti
-Sun May 19 2013,FC Steaua Bucuresti,2-5,?,Viitorul Constanta
+Sun May 19 2013,FCSB,2-5,?,Viitorul Constanta
 Mon May 20 2013,Bistrita,0-0,?,CS Turnu Severin
 Mon May 20 2013,FC Rapid Bucuresti,1-4,?,U. Cluj
 Mon May 20 2013,Poli Iasi,0-2,?,Gaz Metan Medias
@@ -292,11 +292,11 @@ Fri May 24 2013,Vaslui,1-0,?,Otelul
 Fri May 24 2013,Din. Bucuresti,2-3,?,Viitorul Constanta
 Fri May 24 2013,Gaz Metan Medias,1-1,?,FC Rapid Bucuresti
 Sun May 26 2013,U. Cluj,2-4,?,Petrolul
-Sun May 26 2013,CS Turnu Severin,1-1,?,FC Steaua Bucuresti
+Sun May 26 2013,CS Turnu Severin,1-1,?,FCSB
 Sun May 26 2013,Astra,3-3,?,CFR Cluj
 Mon May 27 2013,Concordia,0-1,?,Pandurii
 Mon May 27 2013,Ceahlaul,1-0,?,Poli Iasi
-Tue May 28 2013,FC Steaua Bucuresti,4-0,?,FC Brasov
+Tue May 28 2013,FCSB,4-0,?,FC Brasov
 Tue May 28 2013,Otelul,0-1,?,Din. Bucuresti
 Wed May 29 2013,CFR Cluj,3-1,?,U. Cluj
 Wed May 29 2013,Pandurii,1-1,?,Astra

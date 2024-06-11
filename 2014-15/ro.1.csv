@@ -2,7 +2,7 @@ Date,Team 1,FT,HT,Team 2
 Fri Jul 25 2014,Concordia,0-2,?,Astra
 Fri Jul 25 2014,U Craiova,1-1,?,Pandurii
 Sat Jul 26 2014,Targu Mures,0-0,?,U. Cluj
-Sat Jul 26 2014,FC Rapid Bucuresti,1-3,?,FC Steaua Bucuresti
+Sat Jul 26 2014,FC Rapid Bucuresti,1-3,?,FCSB
 Sun Jul 27 2014,FC Botosani,0-3,?,Gaz Metan Medias
 Sun Jul 27 2014,CFR Cluj,4-0,?,Ceahlaul
 Sun Jul 27 2014,FC Brasov,0-1,?,Petrolul
@@ -11,7 +11,7 @@ Mon Jul 28 2014,Din. Bucuresti,4-0,?,Otelul
 Fri Aug 1 2014,Ceahlaul,1-4,?,Targu Mures
 Fri Aug 1 2014,Viitorul Constanta,1-2,?,FC Rapid Bucuresti
 Sat Aug 2 2014,Otelul,1-2,?,Concordia
-Sat Aug 2 2014,FC Steaua Bucuresti,3-1,?,U Craiova
+Sat Aug 2 2014,FCSB,3-1,?,U Craiova
 Sun Aug 3 2014,Petrolul,4-1,?,FC Botosani
 Sun Aug 3 2014,Astra,5-0,?,FC Brasov
 Sun Aug 3 2014,Pandurii,0-0,?,CFR Cluj
@@ -23,11 +23,11 @@ Sat Aug 9 2014,Pandurii,0-1,?,Ceahlaul
 Sat Aug 9 2014,Din. Bucuresti,1-1,?,Targu Mures
 Sun Aug 10 2014,FC Botosani,1-0,?,Astra
 Sun Aug 10 2014,Poli Iasi,1-5,?,Petrolul
-Sun Aug 10 2014,CFR Cluj,0-1,?,FC Steaua Bucuresti
+Sun Aug 10 2014,CFR Cluj,0-1,?,FCSB
 Mon Aug 11 2014,Concordia,0-2,?,U. Cluj
 Mon Aug 11 2014,FC Brasov,1-1,?,Otelul
 Fri Aug 15 2014,Gaz Metan Medias,1-0,?,U Craiova
-Fri Aug 15 2014,FC Steaua Bucuresti,6-0,?,Pandurii
+Fri Aug 15 2014,FCSB,6-0,?,Pandurii
 Sat Aug 16 2014,Astra,2-1,?,Poli Iasi
 Sat Aug 16 2014,Petrolul,0-0,?,FC Rapid Bucuresti
 Sun Aug 17 2014,Targu Mures,2-0,?,Concordia
@@ -38,7 +38,7 @@ Mon Aug 18 2014,Viitorul Constanta,0-2,?,CFR Cluj
 Fri Aug 22 2014,FC Brasov,2-1,?,Targu Mures
 Fri Aug 22 2014,Concordia,0-0,?,Din. Bucuresti
 Sat Aug 23 2014,Pandurii,1-1,?,Viitorul Constanta
-Sat Aug 23 2014,FC Steaua Bucuresti,0-1,?,Ceahlaul
+Sat Aug 23 2014,FCSB,0-1,?,Ceahlaul
 Sun Aug 24 2014,FC Botosani,1-0,?,U. Cluj
 Sun Aug 24 2014,FC Rapid Bucuresti,0-2,?,Astra
 Sun Aug 24 2014,U Craiova,0-2,?,Petrolul
@@ -47,14 +47,14 @@ Mon Aug 25 2014,CFR Cluj,4-1,?,Gaz Metan Medias
 Fri Aug 29 2014,Gaz Metan Medias,0-2,?,Pandurii
 Fri Aug 29 2014,Ceahlaul,2-0,?,Concordia
 Sat Aug 30 2014,Din. Bucuresti,2-1,?,FC Brasov
-Sat Aug 30 2014,Viitorul Constanta,0-1,?,FC Steaua Bucuresti
+Sat Aug 30 2014,Viitorul Constanta,0-1,?,FCSB
 Sun Aug 31 2014,Targu Mures,2-1,?,FC Botosani
 Sun Aug 31 2014,Astra,5-0,?,U Craiova
 Sun Aug 31 2014,Petrolul,1-2,?,CFR Cluj
 Mon Sep 1 2014,Otelul,2-0,?,FC Rapid Bucuresti
 Mon Sep 1 2014,U. Cluj,2-0,?,Poli Iasi
 Fri Sep 12 2014,FC Brasov,4-1,?,Concordia
-Fri Sep 12 2014,FC Steaua Bucuresti,3-1,?,Gaz Metan Medias
+Fri Sep 12 2014,FCSB,3-1,?,Gaz Metan Medias
 Sat Sep 13 2014,Viitorul Constanta,2-0,?,Ceahlaul
 Sat Sep 13 2014,CFR Cluj,4-1,?,Astra
 Sun Sep 14 2014,Poli Iasi,2-2,?,Targu Mures
@@ -69,7 +69,7 @@ Sat Sep 20 2014,Otelul,0-1,?,CFR Cluj
 Sat Sep 20 2014,Din. Bucuresti,1-0,?,Poli Iasi
 Sun Sep 21 2014,Ceahlaul,2-2,?,FC Brasov
 Sun Sep 21 2014,Astra,2-1,?,Pandurii
-Sun Sep 21 2014,Petrolul,2-3,?,FC Steaua Bucuresti
+Sun Sep 21 2014,Petrolul,2-3,?,FCSB
 Mon Sep 22 2014,U. Cluj,0-2,?,U Craiova
 Fri Sep 26 2014,Poli Iasi,1-2,?,Concordia
 Sat Sep 27 2014,Gaz Metan Medias,2-2,?,Ceahlaul
@@ -77,7 +77,7 @@ Sat Sep 27 2014,FC Botosani,0-0,?,FC Brasov
 Sat Sep 27 2014,FC Rapid Bucuresti,0-3,?,Din. Bucuresti
 Sun Sep 28 2014,U Craiova,1-0,?,Targu Mures
 Sun Sep 28 2014,Viitorul Constanta,1-3,?,Petrolul
-Sun Sep 28 2014,FC Steaua Bucuresti,0-0,?,Astra
+Sun Sep 28 2014,FCSB,0-0,?,Astra
 Mon Sep 29 2014,Pandurii,4-0,?,Otelul
 Mon Sep 29 2014,CFR Cluj,1-0,?,U. Cluj
 Fri Oct 3 2014,FC Brasov,2-0,?,Poli Iasi
@@ -85,7 +85,7 @@ Fri Oct 3 2014,Concordia,0-0,?,FC Rapid Bucuresti
 Sat Oct 4 2014,Ceahlaul,0-1,?,FC Botosani
 Sat Oct 4 2014,U. Cluj,2-0,?,Pandurii
 Sat Oct 4 2014,Petrolul,1-0,?,Gaz Metan Medias
-Sun Oct 5 2014,Otelul,0-3,?,FC Steaua Bucuresti
+Sun Oct 5 2014,Otelul,0-3,?,FCSB
 Sun Oct 5 2014,Astra,0-1,?,Viitorul Constanta
 Sun Oct 5 2014,Din. Bucuresti,1-1,?,U Craiova
 Mon Oct 6 2014,Targu Mures,2-0,?,CFR Cluj
@@ -96,7 +96,7 @@ Sat Oct 18 2014,Pandurii,1-1,?,Targu Mures
 Sat Oct 18 2014,CFR Cluj,2-1,?,Din. Bucuresti
 Sun Oct 19 2014,U Craiova,1-1,?,Concordia
 Sun Oct 19 2014,Gaz Metan Medias,1-1,?,Astra
-Sun Oct 19 2014,FC Steaua Bucuresti,4-1,?,U. Cluj
+Sun Oct 19 2014,FCSB,4-1,?,U. Cluj
 Mon Oct 20 2014,Petrolul,2-0,?,Ceahlaul
 Fri Oct 24 2014,Otelul,1-1,?,Gaz Metan Medias
 Fri Oct 24 2014,FC Brasov,2-3,?,U Craiova
@@ -105,9 +105,9 @@ Sat Oct 25 2014,U. Cluj,2-2,?,Viitorul Constanta
 Sat Oct 25 2014,FC Botosani,3-0,?,FC Rapid Bucuresti
 Sun Oct 26 2014,Concordia,1-1,?,CFR Cluj
 Sun Oct 26 2014,Din. Bucuresti,3-2,?,Pandurii
-Sun Oct 26 2014,Targu Mures,1-0,?,FC Steaua Bucuresti
+Sun Oct 26 2014,Targu Mures,1-0,?,FCSB
 Mon Oct 27 2014,Astra,0-0,?,Petrolul
-Fri Oct 31 2014,FC Steaua Bucuresti,3-0,?,Din. Bucuresti
+Fri Oct 31 2014,FCSB,3-0,?,Din. Bucuresti
 Sat Nov 1 2014,Gaz Metan Medias,1-1,?,U. Cluj
 Sat Nov 1 2014,U Craiova,2-1,?,FC Botosani
 Sat Nov 1 2014,Astra,2-1,?,Ceahlaul
@@ -123,13 +123,13 @@ Sat Nov 8 2014,FC Botosani,0-1,?,CFR Cluj
 Sat Nov 8 2014,U. Cluj,0-3,?,Petrolul
 Sun Nov 9 2014,Poli Iasi,1-3,?,U Craiova
 Sun Nov 9 2014,Otelul,1-1,?,Astra
-Sun Nov 9 2014,Concordia,0-1,?,FC Steaua Bucuresti
+Sun Nov 9 2014,Concordia,0-1,?,FCSB
 Mon Nov 10 2014,FC Rapid Bucuresti,1-1,?,Ceahlaul
 Fri Nov 21 2014,Viitorul Constanta,2-2,?,Concordia
 Fri Nov 21 2014,Gaz Metan Medias,1-2,?,Din. Bucuresti
 Sat Nov 22 2014,Astra,1-1,?,U. Cluj
 Sat Nov 22 2014,Ceahlaul,0-1,?,Otelul
-Sat Nov 22 2014,FC Steaua Bucuresti,2-0,?,FC Brasov
+Sat Nov 22 2014,FCSB,2-0,?,FC Brasov
 Sun Nov 23 2014,Pandurii,1-2,?,FC Botosani
 Sun Nov 23 2014,CFR Cluj,4-0,?,Poli Iasi
 Sun Nov 23 2014,Petrolul,2-0,?,Targu Mures
@@ -142,14 +142,14 @@ Sat Nov 29 2014,FC Rapid Bucuresti,0-0,?,CFR Cluj
 Sun Nov 30 2014,FC Brasov,1-3,?,Viitorul Constanta
 Sun Nov 30 2014,Targu Mures,0-0,?,Astra
 Sun Nov 30 2014,Din. Bucuresti,0-0,?,Petrolul
-Mon Dec 1 2014,FC Botosani,0-2,?,FC Steaua Bucuresti
+Mon Dec 1 2014,FC Botosani,0-2,?,FCSB
 Fri Dec 5 2014,Gaz Metan Medias,2-1,?,FC Brasov
 Fri Dec 5 2014,Viitorul Constanta,1-2,?,FC Botosani
 Sat Dec 6 2014,Ceahlaul,0-6,?,U. Cluj
 Sat Dec 6 2014,Pandurii,2-0,?,FC Rapid Bucuresti
 Sat Dec 6 2014,Astra,6-1,?,Din. Bucuresti
 Sun Dec 7 2014,Otelul,0-2,?,Targu Mures
-Sun Dec 7 2014,FC Steaua Bucuresti,1-0,?,Poli Iasi
+Sun Dec 7 2014,FCSB,1-0,?,Poli Iasi
 Sun Dec 7 2014,CFR Cluj,0-0,?,U Craiova
 Mon Dec 8 2014,Petrolul,2-2,?,Concordia
 Fri Feb 20 2015,Viitorul Constanta,0-3,?,Poli Iasi
@@ -158,14 +158,14 @@ Sat Feb 21 2015,Gaz Metan Medias,1-1,?,FC Botosani
 Sat Feb 21 2015,Otelul,0-1,?,Din. Bucuresti
 Sun Feb 22 2015,Astra,2-2,?,Concordia
 Sun Feb 22 2015,U. Cluj,0-3,?,Targu Mures
-Sun Feb 22 2015,FC Steaua Bucuresti,0-1,?,FC Rapid Bucuresti
+Sun Feb 22 2015,FCSB,0-1,?,FC Rapid Bucuresti
 Mon Feb 23 2015,Ceahlaul,0-0,?,CFR Cluj
 Mon Feb 23 2015,Pandurii,0-1,?,U Craiova
 Fri Feb 27 2015,Concordia,3-0,?,Otelul
 Fri Feb 27 2015,FC Botosani,0-1,?,Petrolul
 Sat Feb 28 2015,Poli Iasi,1-0,?,Gaz Metan Medias
 Sat Feb 28 2015,Din. Bucuresti,3-0,?,U. Cluj
-Sun Mar 1 2015,U Craiova,0-0,?,FC Steaua Bucuresti
+Sun Mar 1 2015,U Craiova,0-0,?,FCSB
 Sun Mar 1 2015,CFR Cluj,0-4,?,Pandurii
 Sun Mar 1 2015,FC Brasov,1-1,?,Astra
 Mon Mar 2 2015,Targu Mures,3-0,?,Ceahlaul
@@ -176,7 +176,7 @@ Sat Mar 7 2015,Otelul,1-1,?,FC Brasov
 Sat Mar 7 2015,Astra,2-0,?,FC Botosani
 Sun Mar 8 2015,U. Cluj,0-0,?,Concordia
 Sun Mar 8 2015,Viitorul Constanta,1-1,?,U Craiova
-Sun Mar 8 2015,FC Steaua Bucuresti,1-0,?,CFR Cluj
+Sun Mar 8 2015,FCSB,1-0,?,CFR Cluj
 Mon Mar 9 2015,Petrolul,0-2,?,Poli Iasi
 Mon Mar 9 2015,Gaz Metan Medias,0-1,?,FC Rapid Bucuresti
 Fri Mar 13 2015,Concordia,0-0,?,Targu Mures
@@ -187,14 +187,14 @@ Sat Mar 14 2015,FC Botosani,1-1,?,Otelul
 Sat Mar 14 2015,Din. Bucuresti,3-1,?,Ceahlaul
 Sun Mar 15 2015,Poli Iasi,1-0,?,Astra
 Sun Mar 15 2015,CFR Cluj,1-2,?,Viitorul Constanta
-Sun Mar 15 2015,Pandurii,3-1,?,FC Steaua Bucuresti
+Sun Mar 15 2015,Pandurii,3-1,?,FCSB
 Mon Mar 16 2015,Targu Mures,1-0,?,FC Brasov
 Tue Mar 17 2015,U. Cluj,0-0,?,FC Botosani
 Tue Mar 17 2015,Din. Bucuresti,0-3,?,Concordia
 Tue Mar 17 2015,Petrolul,1-2,?,U Craiova
 Wed Mar 18 2015,Otelul,0-0,?,Poli Iasi
 Wed Mar 18 2015,Astra,2-0,?,FC Rapid Bucuresti
-Wed Mar 18 2015,Ceahlaul,0-1,?,FC Steaua Bucuresti
+Wed Mar 18 2015,Ceahlaul,0-1,?,FCSB
 Thu Mar 19 2015,Viitorul Constanta,4-0,?,Pandurii
 Thu Mar 19 2015,Gaz Metan Medias,0-0,?,CFR Cluj
 Fri Mar 20 2015,FC Botosani,1-2,?,Targu Mures
@@ -203,7 +203,7 @@ Sat Mar 21 2015,FC Rapid Bucuresti,2-0,?,Otelul
 Sat Mar 21 2015,FC Brasov,1-0,?,Din. Bucuresti
 Sun Mar 22 2015,Pandurii,0-1,?,Gaz Metan Medias
 Sun Mar 22 2015,CFR Cluj,0-1,?,Petrolul
-Sun Mar 22 2015,FC Steaua Bucuresti,4-1,?,Viitorul Constanta
+Sun Mar 22 2015,FCSB,4-1,?,Viitorul Constanta
 Mon Mar 23 2015,Concordia,0-1,?,Ceahlaul
 Mon Mar 23 2015,Poli Iasi,2-0,?,U. Cluj
 Fri Apr 3 2015,Targu Mures,1-0,?,Poli Iasi
@@ -213,7 +213,7 @@ Sat Apr 4 2015,Astra,0-1,?,CFR Cluj
 Sat Apr 4 2015,U. Cluj,1-0,?,FC Rapid Bucuresti
 Sun Apr 5 2015,Concordia,1-1,?,FC Brasov
 Sun Apr 5 2015,Ceahlaul,1-2,?,Viitorul Constanta
-Sun Apr 5 2015,Gaz Metan Medias,1-2,?,FC Steaua Bucuresti
+Sun Apr 5 2015,Gaz Metan Medias,1-2,?,FCSB
 Mon Apr 6 2015,Petrolul,0-1,?,Pandurii
 Tue Apr 7 2015,U Craiova,3-0,?,U. Cluj
 Tue Apr 7 2015,CFR Cluj,1-0,?,Otelul
@@ -223,13 +223,13 @@ Wed Apr 8 2015,Viitorul Constanta,1-0,?,Gaz Metan Medias
 Wed Apr 8 2015,FC Rapid Bucuresti,1-2,?,Targu Mures
 Thu Apr 9 2015,FC Brasov,0-2,?,Ceahlaul
 Thu Apr 9 2015,Pandurii,1-1,?,Astra
-Thu Apr 9 2015,FC Steaua Bucuresti,0-1,?,Petrolul
+Thu Apr 9 2015,FCSB,0-1,?,Petrolul
 Fri Apr 10 2015,U. Cluj,1-0,?,CFR Cluj
 Sat Apr 11 2015,Concordia,2-1,?,Poli Iasi
 Sat Apr 11 2015,Targu Mures,2-1,?,U Craiova
 Sat Apr 11 2015,Din. Bucuresti,2-0,?,FC Rapid Bucuresti
 Sun Apr 12 2015,FC Brasov,0-1,?,FC Botosani
-Sun Apr 12 2015,Astra,0-0,?,FC Steaua Bucuresti
+Sun Apr 12 2015,Astra,0-0,?,FCSB
 Mon Apr 13 2015,Otelul,0-2,?,Pandurii
 Mon Apr 13 2015,Ceahlaul,0-0,?,Gaz Metan Medias
 Mon Apr 13 2015,Petrolul,1-2,?,Viitorul Constanta
@@ -239,7 +239,7 @@ Sat Apr 18 2015,FC Botosani,2-0,?,Ceahlaul
 Sat Apr 18 2015,Viitorul Constanta,2-0,?,Astra
 Sat Apr 18 2015,Gaz Metan Medias,0-0,?,Petrolul
 Sun Apr 19 2015,U Craiova,0-0,?,Din. Bucuresti
-Sun Apr 19 2015,FC Steaua Bucuresti,1-2,?,Otelul
+Sun Apr 19 2015,FCSB,1-2,?,Otelul
 Mon Apr 20 2015,Pandurii,0-1,?,U. Cluj
 Mon Apr 20 2015,FC Rapid Bucuresti,1-0,?,Concordia
 Fri Apr 24 2015,Concordia,2-2,?,U Craiova
@@ -247,7 +247,7 @@ Fri Apr 24 2015,FC Brasov,1-2,?,FC Rapid Bucuresti
 Fri Apr 24 2015,Din. Bucuresti,1-1,?,CFR Cluj
 Sat Apr 25 2015,FC Botosani,0-0,?,Poli Iasi
 Sat Apr 25 2015,Targu Mures,2-1,?,Pandurii
-Sat Apr 25 2015,U. Cluj,0-3,?,FC Steaua Bucuresti
+Sat Apr 25 2015,U. Cluj,0-3,?,FCSB
 Sun Apr 26 2015,Otelul,3-0,?,Viitorul Constanta
 Sun Apr 26 2015,Astra,1-2,?,Gaz Metan Medias
 Mon Apr 27 2015,Ceahlaul,1-1,?,Petrolul
@@ -256,7 +256,7 @@ Tue Apr 28 2015,FC Rapid Bucuresti,2-2,?,FC Botosani
 Tue Apr 28 2015,Pandurii,3-2,?,Din. Bucuresti
 Wed Apr 29 2015,U Craiova,0-1,?,FC Brasov
 Wed Apr 29 2015,Viitorul Constanta,1-1,?,U. Cluj
-Wed Apr 29 2015,FC Steaua Bucuresti,0-1,?,Targu Mures
+Wed Apr 29 2015,FCSB,0-1,?,Targu Mures
 Thu Apr 30 2015,Gaz Metan Medias,0-0,?,Otelul
 Thu Apr 30 2015,Poli Iasi,2-0,?,Ceahlaul
 Thu Apr 30 2015,Petrolul,1-2,?,Astra
@@ -266,7 +266,7 @@ Sat May 2 2015,Targu Mures,6-1,?,Viitorul Constanta
 Sat May 2 2015,FC Botosani,2-0,?,U Craiova
 Sun May 3 2015,Ceahlaul,1-3,?,Astra
 Sun May 3 2015,U. Cluj,1-1,?,Gaz Metan Medias
-Sun May 3 2015,Din. Bucuresti,1-3,?,FC Steaua Bucuresti
+Sun May 3 2015,Din. Bucuresti,1-3,?,FCSB
 Mon May 4 2015,Otelul,1-1,?,Petrolul
 Mon May 4 2015,Poli Iasi,0-0,?,FC Rapid Bucuresti
 Fri May 8 2015,Pandurii,2-0,?,FC Brasov
@@ -275,13 +275,13 @@ Sat May 9 2015,U Craiova,0-1,?,Poli Iasi
 Sat May 9 2015,Petrolul,1-0,?,U. Cluj
 Sun May 10 2015,CFR Cluj,4-0,?,FC Botosani
 Sun May 10 2015,Gaz Metan Medias,1-0,?,Targu Mures
-Sun May 10 2015,FC Steaua Bucuresti,2-2,?,Concordia
+Sun May 10 2015,FCSB,2-2,?,Concordia
 Mon May 11 2015,Astra,4-1,?,Otelul
 Mon May 11 2015,Ceahlaul,0-1,?,FC Rapid Bucuresti
 Fri May 15 2015,FC Botosani,1-1,?,Pandurii
 Fri May 15 2015,Din. Bucuresti,1-1,?,Gaz Metan Medias
 Sat May 16 2015,Poli Iasi,0-3,?,CFR Cluj
-Sat May 16 2015,FC Brasov,2-3,?,FC Steaua Bucuresti
+Sat May 16 2015,FC Brasov,2-3,?,FCSB
 Sat May 16 2015,Targu Mures,1-0,?,Petrolul
 Sun May 17 2015,Concordia,2-0,?,Viitorul Constanta
 Sun May 17 2015,Otelul,4-1,?,Ceahlaul
@@ -295,12 +295,12 @@ Sat May 23 2015,CFR Cluj,2-1,?,FC Rapid Bucuresti
 Sun May 24 2015,Ceahlaul,2-1,?,U Craiova
 Sun May 24 2015,Pandurii,5-2,?,Poli Iasi
 Sun May 24 2015,Astra,3-1,?,Targu Mures
-Sun May 24 2015,FC Steaua Bucuresti,2-0,?,FC Botosani
+Sun May 24 2015,FCSB,2-0,?,FC Botosani
 Wed May 27 2015,FC Rapid Bucuresti,0-3,?,Pandurii
 Wed May 27 2015,U. Cluj,2-0,?,Ceahlaul
 Wed May 27 2015,Concordia,3-2,?,Petrolul
 Wed May 27 2015,FC Brasov,0-0,?,Gaz Metan Medias
-Thu May 28 2015,Poli Iasi,0-0,?,FC Steaua Bucuresti
+Thu May 28 2015,Poli Iasi,0-0,?,FCSB
 Thu May 28 2015,Targu Mures,1-2,?,Otelul
 Fri May 29 2015,FC Botosani,4-4,?,Viitorul Constanta
 Fri May 29 2015,Din. Bucuresti,0-2,?,Astra

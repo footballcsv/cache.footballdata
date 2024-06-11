@@ -1,25 +1,25 @@
 Date,Team 1,FT,HT,Team 2
-Sat Jul 19 2014,Salzburg,6-1,?,Rapid Vienna
+Sat Jul 19 2014,Salzburg,6-1,?,SK Rapid
 Sat Jul 19 2014,Admira,1-4,?,Wolfsberger AC
 Sat Jul 19 2014,Altach,1-0,?,Sturm Graz
 Sat Jul 19 2014,Ried,3-1,?,Neustadt
 Sun Jul 20 2014,Austria Vienna,1-1,?,Grodig
 Sat Jul 26 2014,Wolfsberger AC,4-0,?,Austria Vienna
 Sat Jul 26 2014,Neustadt,0-5,?,Salzburg
-Sat Jul 26 2014,Rapid Vienna,1-0,?,Ried
+Sat Jul 26 2014,SK Rapid,1-0,?,Ried
 Sun Jul 27 2014,Grodig,2-1,?,Sturm Graz
-Sat Aug 2 2014,Admira,1-1,?,Rapid Vienna
+Sat Aug 2 2014,Admira,1-1,?,SK Rapid
 Sat Aug 2 2014,Austria Vienna,0-0,?,Altach
 Sat Aug 2 2014,Ried,0-2,?,Salzburg
 Sat Aug 2 2014,Sturm Graz,4-2,?,Neustadt
 Sun Aug 3 2014,Grodig,0-2,?,Wolfsberger AC
 Sat Aug 9 2014,Neustadt,2-2,?,Austria Vienna
 Sat Aug 9 2014,Altach,1-2,?,Wolfsberger AC
-Sat Aug 9 2014,Rapid Vienna,1-1,?,Sturm Graz
+Sat Aug 9 2014,SK Rapid,1-1,?,Sturm Graz
 Sat Aug 9 2014,Ried,1-1,?,Admira
 Sun Aug 10 2014,Salzburg,8-0,?,Grodig
 Wed Aug 13 2014,Altach,0-2,?,Admira
-Sat Aug 16 2014,Rapid Vienna,0-1,?,Altach
+Sat Aug 16 2014,SK Rapid,0-1,?,Altach
 Sat Aug 16 2014,Wolfsberger AC,4-1,?,Ried
 Sat Aug 16 2014,Admira,0-3,?,Salzburg
 Sat Aug 16 2014,Grodig,3-0,?,Neustadt
@@ -28,18 +28,18 @@ Sat Aug 23 2014,Sturm Graz,1-2,?,Wolfsberger AC
 Sat Aug 23 2014,Neustadt,5-4,?,Admira
 Sat Aug 23 2014,Ried,2-2,?,Grodig
 Sat Aug 23 2014,Salzburg,5-0,?,Altach
-Sun Aug 24 2014,Austria Vienna,2-2,?,Rapid Vienna
+Sun Aug 24 2014,Austria Vienna,2-2,?,SK Rapid
 Sat Aug 30 2014,Salzburg,2-3,?,Sturm Graz
 Sat Aug 30 2014,Wolfsberger AC,0-1,?,Neustadt
 Sat Aug 30 2014,Admira,2-1,?,Austria Vienna
 Sat Aug 30 2014,Altach,2-2,?,Ried
-Sun Aug 31 2014,Rapid Vienna,2-0,?,Grodig
+Sun Aug 31 2014,SK Rapid,2-0,?,Grodig
 Sat Sep 13 2014,Austria Vienna,3-1,?,Ried
 Sat Sep 13 2014,Sturm Graz,0-2,?,Admira
 Sun Sep 14 2014,Wolfsberger AC,1-0,?,Salzburg
 Wed Sep 17 2014,Grodig,3-3,?,Altach
-Wed Sep 17 2014,Neustadt,1-5,?,Rapid Vienna
-Sat Sep 20 2014,Rapid Vienna,3-0,?,Wolfsberger AC
+Wed Sep 17 2014,Neustadt,1-5,?,SK Rapid
+Sat Sep 20 2014,SK Rapid,3-0,?,Wolfsberger AC
 Sat Sep 20 2014,Admira,0-0,?,Grodig
 Sat Sep 20 2014,Altach,2-0,?,Neustadt
 Sat Sep 20 2014,Ried,0-1,?,Sturm Graz
@@ -48,18 +48,18 @@ Sat Sep 27 2014,Sturm Graz,2-2,?,Altach
 Sat Sep 27 2014,Wolfsberger AC,2-1,?,Admira
 Sat Sep 27 2014,Grodig,0-0,?,Austria Vienna
 Sat Sep 27 2014,Neustadt,0-1,?,Ried
-Sun Sep 28 2014,Rapid Vienna,1-2,?,Salzburg
+Sun Sep 28 2014,SK Rapid,1-2,?,Salzburg
 Sat Oct 4 2014,Austria Vienna,0-2,?,Wolfsberger AC
 Sat Oct 4 2014,Admira,0-2,?,Altach
 Sat Oct 4 2014,Sturm Graz,1-0,?,Grodig
-Sun Oct 5 2014,Ried,1-2,?,Rapid Vienna
+Sun Oct 5 2014,Ried,1-2,?,SK Rapid
 Sun Oct 5 2014,Salzburg,4-1,?,Neustadt
 Sat Oct 18 2014,Salzburg,4-2,?,Ried
 Sat Oct 18 2014,Wolfsberger AC,1-2,?,Grodig
 Sat Oct 18 2014,Altach,1-1,?,Austria Vienna
-Sat Oct 18 2014,Rapid Vienna,0-0,?,Admira
+Sat Oct 18 2014,SK Rapid,0-0,?,Admira
 Sun Oct 19 2014,Neustadt,0-0,?,Sturm Graz
-Sat Oct 25 2014,Sturm Graz,1-3,?,Rapid Vienna
+Sat Oct 25 2014,Sturm Graz,1-3,?,SK Rapid
 Sat Oct 25 2014,Wolfsberger AC,0-0,?,Altach
 Sat Oct 25 2014,Admira,0-0,?,Ried
 Sat Oct 25 2014,Austria Vienna,2-0,?,Neustadt
@@ -67,14 +67,14 @@ Sun Oct 26 2014,Grodig,2-2,?,Salzburg
 Sat Nov 1 2014,Austria Vienna,0-3,?,Sturm Graz
 Sat Nov 1 2014,Ried,1-0,?,Wolfsberger AC
 Sat Nov 1 2014,Salzburg,2-0,?,Admira
-Sun Nov 2 2014,Altach,2-0,?,Rapid Vienna
+Sun Nov 2 2014,Altach,2-0,?,SK Rapid
 Wed Nov 5 2014,Neustadt,2-4,?,Grodig
 Sat Nov 8 2014,Wolfsberger AC,0-2,?,Sturm Graz
 Sat Nov 8 2014,Admira,1-1,?,Neustadt
 Sat Nov 8 2014,Grodig,0-1,?,Ried
-Sun Nov 9 2014,Rapid Vienna,2-3,?,Austria Vienna
+Sun Nov 9 2014,SK Rapid,2-3,?,Austria Vienna
 Sun Nov 9 2014,Altach,4-1,?,Salzburg
-Sat Nov 22 2014,Grodig,3-1,?,Rapid Vienna
+Sat Nov 22 2014,Grodig,3-1,?,SK Rapid
 Sat Nov 22 2014,Austria Vienna,4-0,?,Admira
 Sat Nov 22 2014,Neustadt,2-0,?,Wolfsberger AC
 Sat Nov 22 2014,Ried,2-1,?,Altach
@@ -82,64 +82,64 @@ Sun Nov 23 2014,Sturm Graz,1-2,?,Salzburg
 Sat Nov 29 2014,Ried,1-1,?,Austria Vienna
 Sat Nov 29 2014,Admira,0-2,?,Sturm Graz
 Sat Nov 29 2014,Altach,3-1,?,Grodig
-Sat Nov 29 2014,Rapid Vienna,3-0,?,Neustadt
+Sat Nov 29 2014,SK Rapid,3-0,?,Neustadt
 Sun Nov 30 2014,Salzburg,2-2,?,Wolfsberger AC
 Sat Dec 6 2014,Austria Vienna,2-4,?,Salzburg
 Sat Dec 6 2014,Grodig,5-0,?,Admira
 Sat Dec 6 2014,Neustadt,2-0,?,Altach
 Sat Dec 6 2014,Sturm Graz,3-1,?,Ried
-Sun Dec 7 2014,Wolfsberger AC,1-1,?,Rapid Vienna
+Sun Dec 7 2014,Wolfsberger AC,1-1,?,SK Rapid
 Sat Dec 13 2014,Altach,2-0,?,Sturm Graz
 Sat Dec 13 2014,Admira,2-1,?,Wolfsberger AC
 Sat Dec 13 2014,Austria Vienna,1-0,?,Grodig
 Sat Dec 13 2014,Ried,6-0,?,Neustadt
-Sun Dec 14 2014,Salzburg,1-2,?,Rapid Vienna
-Sat Feb 14 2015,Rapid Vienna,3-0,?,Ried
+Sun Dec 14 2014,Salzburg,1-2,?,SK Rapid
+Sat Feb 14 2015,SK Rapid,3-0,?,Ried
 Sat Feb 14 2015,Altach,2-0,?,Admira
 Sat Feb 14 2015,Neustadt,0-2,?,Salzburg
 Sun Feb 15 2015,Wolfsberger AC,1-0,?,Austria Vienna
 Sat Feb 21 2015,Austria Vienna,5-2,?,Altach
 Sat Feb 21 2015,Sturm Graz,3-3,?,Neustadt
 Sun Feb 22 2015,Ried,2-2,?,Salzburg
-Sun Feb 22 2015,Admira,1-1,?,Rapid Vienna
+Sun Feb 22 2015,Admira,1-1,?,SK Rapid
 Sat Feb 28 2015,Altach,1-0,?,Wolfsberger AC
 Sat Feb 28 2015,Neustadt,1-0,?,Austria Vienna
-Sat Feb 28 2015,Rapid Vienna,1-0,?,Sturm Graz
+Sat Feb 28 2015,SK Rapid,1-0,?,Sturm Graz
 Sat Feb 28 2015,Ried,2-2,?,Admira
 Sun Mar 1 2015,Salzburg,3-1,?,Grodig
 Tue Mar 3 2015,Sturm Graz,2-1,?,Austria Vienna
 Wed Mar 4 2015,Wolfsberger AC,1-2,?,Ried
 Wed Mar 4 2015,Admira,1-4,?,Salzburg
 Wed Mar 4 2015,Grodig,1-3,?,Neustadt
-Wed Mar 4 2015,Rapid Vienna,1-0,?,Altach
+Wed Mar 4 2015,SK Rapid,1-0,?,Altach
 Sat Mar 7 2015,Sturm Graz,2-0,?,Wolfsberger AC
 Sat Mar 7 2015,Neustadt,0-0,?,Admira
 Sat Mar 7 2015,Ried,2-1,?,Grodig
 Sat Mar 7 2015,Salzburg,0-1,?,Altach
-Sun Mar 8 2015,Austria Vienna,2-1,?,Rapid Vienna
+Sun Mar 8 2015,Austria Vienna,2-1,?,SK Rapid
 Wed Mar 11 2015,Grodig,0-2,?,Sturm Graz
 Sat Mar 14 2015,Admira,1-1,?,Austria Vienna
 Sat Mar 14 2015,Wolfsberger AC,2-0,?,Neustadt
 Sat Mar 14 2015,Altach,2-1,?,Ried
-Sat Mar 14 2015,Rapid Vienna,4-0,?,Grodig
+Sat Mar 14 2015,SK Rapid,4-0,?,Grodig
 Sun Mar 15 2015,Salzburg,2-1,?,Sturm Graz
 Wed Mar 18 2015,Grodig,2-0,?,Wolfsberger AC
 Sat Mar 21 2015,Austria Vienna,0-1,?,Ried
 Sat Mar 21 2015,Wolfsberger AC,3-2,?,Salzburg
 Sat Mar 21 2015,Grodig,0-1,?,Altach
 Sat Mar 21 2015,Sturm Graz,3-1,?,Admira
-Sun Mar 22 2015,Neustadt,0-1,?,Rapid Vienna
+Sun Mar 22 2015,Neustadt,0-1,?,SK Rapid
 Sat Apr 4 2015,Salzburg,3-1,?,Austria Vienna
 Sat Apr 4 2015,Admira,2-3,?,Grodig
-Sat Apr 4 2015,Rapid Vienna,4-1,?,Wolfsberger AC
+Sat Apr 4 2015,SK Rapid,4-1,?,Wolfsberger AC
 Sun Apr 5 2015,Ried,1-2,?,Sturm Graz
 Sat Apr 11 2015,Sturm Graz,5-0,?,Altach
 Sat Apr 11 2015,Wolfsberger AC,2-0,?,Admira
 Sat Apr 11 2015,Grodig,1-1,?,Austria Vienna
 Sat Apr 11 2015,Neustadt,0-1,?,Ried
-Sun Apr 12 2015,Rapid Vienna,3-3,?,Salzburg
+Sun Apr 12 2015,SK Rapid,3-3,?,Salzburg
 Wed Apr 15 2015,Altach,3-1,?,Neustadt
-Sat Apr 18 2015,Ried,0-1,?,Rapid Vienna
+Sat Apr 18 2015,Ried,0-1,?,SK Rapid
 Sat Apr 18 2015,Admira,2-2,?,Altach
 Sat Apr 18 2015,Salzburg,6-0,?,Neustadt
 Sat Apr 18 2015,Sturm Graz,2-1,?,Grodig
@@ -147,34 +147,34 @@ Sun Apr 19 2015,Austria Vienna,1-1,?,Wolfsberger AC
 Sat Apr 25 2015,Salzburg,2-1,?,Ried
 Sat Apr 25 2015,Wolfsberger AC,2-1,?,Grodig
 Sat Apr 25 2015,Neustadt,4-4,?,Sturm Graz
-Sat Apr 25 2015,Rapid Vienna,1-1,?,Admira
+Sat Apr 25 2015,SK Rapid,1-1,?,Admira
 Sun Apr 26 2015,Altach,2-0,?,Austria Vienna
 Sat May 2 2015,Wolfsberger AC,2-0,?,Altach
 Sat May 2 2015,Admira,1-0,?,Ried
 Sat May 2 2015,Austria Vienna,2-1,?,Neustadt
 Sat May 2 2015,Grodig,0-3,?,Salzburg
-Sun May 3 2015,Sturm Graz,2-2,?,Rapid Vienna
+Sun May 3 2015,Sturm Graz,2-2,?,SK Rapid
 Sat May 9 2015,Austria Vienna,0-0,?,Sturm Graz
 Sat May 9 2015,Neustadt,2-4,?,Grodig
 Sat May 9 2015,Ried,4-0,?,Wolfsberger AC
 Sat May 9 2015,Salzburg,4-0,?,Admira
-Sun May 10 2015,Altach,1-3,?,Rapid Vienna
+Sun May 10 2015,Altach,1-3,?,SK Rapid
 Sat May 16 2015,Altach,2-2,?,Salzburg
 Sat May 16 2015,Wolfsberger AC,1-0,?,Sturm Graz
 Sat May 16 2015,Admira,0-0,?,Neustadt
 Sat May 16 2015,Grodig,3-2,?,Ried
-Sun May 17 2015,Rapid Vienna,4-1,?,Austria Vienna
+Sun May 17 2015,SK Rapid,4-1,?,Austria Vienna
 Tue May 19 2015,Ried,4-1,?,Altach
 Wed May 20 2015,Austria Vienna,0-1,?,Admira
 Wed May 20 2015,Neustadt,2-0,?,Wolfsberger AC
 Wed May 20 2015,Sturm Graz,0-0,?,Salzburg
 Sun May 24 2015,Admira,1-2,?,Sturm Graz
 Sun May 24 2015,Altach,2-0,?,Grodig
-Sun May 24 2015,Rapid Vienna,0-0,?,Neustadt
+Sun May 24 2015,SK Rapid,0-0,?,Neustadt
 Sun May 24 2015,Ried,0-2,?,Austria Vienna
 Sun May 24 2015,Salzburg,3-0,?,Wolfsberger AC
-Wed May 27 2015,Grodig,0-2,?,Rapid Vienna
-Sun May 31 2015,Wolfsberger AC,0-5,?,Rapid Vienna
+Wed May 27 2015,Grodig,0-2,?,SK Rapid
+Sun May 31 2015,Wolfsberger AC,0-5,?,SK Rapid
 Sun May 31 2015,Austria Vienna,1-1,?,Salzburg
 Sun May 31 2015,Grodig,0-1,?,Admira
 Sun May 31 2015,Neustadt,0-1,?,Altach

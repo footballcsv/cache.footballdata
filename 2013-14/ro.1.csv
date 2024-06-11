@@ -2,7 +2,7 @@ Date,Team 1,FT,HT,Team 2
 Fri Jul 19 2013,Poli Timisoara,2-0,?,Din. Bucuresti
 Sat Jul 20 2013,Navodari,1-0,?,Gaz Metan Medias
 Sat Jul 20 2013,Pandurii,3-1,?,FC Brasov
-Sat Jul 20 2013,FC Steaua Bucuresti,2-1,?,Ceahlaul
+Sat Jul 20 2013,FCSB,2-1,?,Ceahlaul
 Sun Jul 21 2013,FC Botosani,0-0,?,CFR Cluj
 Sun Jul 21 2013,U. Cluj,0-1,?,Petrolul
 Sun Jul 21 2013,Viitorul Constanta,0-4,?,Astra
@@ -29,14 +29,14 @@ Sat Aug 10 2013,Navodari,1-2,?,Poli Timisoara
 Sun Aug 11 2013,Otelul,1-2,?,Petrolul
 Sun Aug 11 2013,Astra,3-1,?,U. Cluj
 Sun Aug 11 2013,Ceahlaul,1-0,?,Pandurii
-Sun Aug 11 2013,Din. Bucuresti,1-2,?,FC Steaua Bucuresti
+Sun Aug 11 2013,Din. Bucuresti,1-2,?,FCSB
 Mon Aug 12 2013,Gaz Metan Medias,1-1,?,Vaslui
 Fri Aug 16 2013,Otelul,1-0,?,FC Brasov
 Fri Aug 16 2013,Poli Timisoara,0-1,?,FC Botosani
 Fri Aug 16 2013,Corona Brasov,1-1,?,Din. Bucuresti
 Sat Aug 17 2013,Pandurii,1-3,?,Astra
 Sat Aug 17 2013,Petrolul,1-1,?,Ceahlaul
-Sat Aug 17 2013,FC Steaua Bucuresti,3-0,?,CFR Cluj
+Sat Aug 17 2013,FCSB,3-0,?,CFR Cluj
 Sun Aug 18 2013,Viitorul Constanta,0-0,?,Gaz Metan Medias
 Mon Aug 19 2013,U. Cluj,0-3,?,Concordia
 Mon Aug 19 2013,Vaslui,1-0,?,Navodari
@@ -44,13 +44,13 @@ Fri Aug 23 2013,Navodari,3-1,?,Viitorul Constanta
 Fri Aug 23 2013,FC Brasov,2-1,?,Poli Timisoara
 Fri Aug 23 2013,Din. Bucuresti,6-0,?,U. Cluj
 Sat Aug 24 2013,Ceahlaul,2-0,?,Otelul
-Sat Aug 24 2013,Gaz Metan Medias,2-2,?,FC Steaua Bucuresti
+Sat Aug 24 2013,Gaz Metan Medias,2-2,?,FCSB
 Sun Aug 25 2013,FC Botosani,1-0,?,Vaslui
 Sun Aug 25 2013,Concordia,1-5,?,Pandurii
 Sun Aug 25 2013,Astra,1-2,?,Petrolul
 Mon Aug 26 2013,CFR Cluj,1-0,?,Corona Brasov
 Fri Sep 13 2013,Pandurii,2-1,?,Din. Bucuresti
-Sat Sep 14 2013,FC Steaua Bucuresti,5-0,?,Navodari
+Sat Sep 14 2013,FCSB,5-0,?,Navodari
 Sun Sep 15 2013,Corona Brasov,1-2,?,Gaz Metan Medias
 Sun Sep 15 2013,Otelul,0-4,?,Astra
 Sun Sep 15 2013,Petrolul,2-0,?,Concordia
@@ -63,13 +63,13 @@ Fri Sep 20 2013,Navodari,1-0,?,Corona Brasov
 Fri Sep 20 2013,Poli Timisoara,0-0,?,Viitorul Constanta
 Sat Sep 21 2013,FC Brasov,1-1,?,Vaslui
 Sat Sep 21 2013,Din. Bucuresti,1-1,?,Petrolul
-Sun Sep 22 2013,FC Botosani,1-2,?,FC Steaua Bucuresti
+Sun Sep 22 2013,FC Botosani,1-2,?,FCSB
 Sun Sep 22 2013,CFR Cluj,1-1,?,Pandurii
 Mon Sep 23 2013,Concordia,1-1,?,Otelul
 Mon Sep 23 2013,Astra,0-0,?,Ceahlaul
 Fri Sep 27 2013,U. Cluj,1-1,?,Navodari
 Sat Sep 28 2013,Pandurii,1-2,?,Gaz Metan Medias
-Sat Sep 28 2013,FC Steaua Bucuresti,3-0,?,Poli Timisoara
+Sat Sep 28 2013,FCSB,3-0,?,Poli Timisoara
 Sun Sep 29 2013,Corona Brasov,1-2,?,FC Botosani
 Sun Sep 29 2013,Viitorul Constanta,2-0,?,Vaslui
 Sun Sep 29 2013,Otelul,1-2,?,Din. Bucuresti
@@ -79,14 +79,14 @@ Mon Sep 30 2013,Petrolul,3-2,?,CFR Cluj
 Fri Oct 4 2013,FC Brasov,4-0,?,Viitorul Constanta
 Fri Oct 4 2013,Poli Timisoara,0-0,?,Corona Brasov
 Sat Oct 5 2013,Concordia,3-1,?,Astra
-Sat Oct 5 2013,Vaslui,0-1,?,FC Steaua Bucuresti
+Sat Oct 5 2013,Vaslui,0-1,?,FCSB
 Sun Oct 6 2013,Din. Bucuresti,1-1,?,Ceahlaul
 Sun Oct 6 2013,Navodari,0-4,?,Pandurii
 Sun Oct 6 2013,Gaz Metan Medias,1-0,?,Petrolul
 Mon Oct 7 2013,FC Botosani,1-1,?,U. Cluj
 Mon Oct 7 2013,CFR Cluj,7-2,?,Otelul
 Fri Oct 18 2013,Corona Brasov,2-1,?,Vaslui
-Fri Oct 18 2013,FC Steaua Bucuresti,4-0,?,Viitorul Constanta
+Fri Oct 18 2013,FCSB,4-0,?,Viitorul Constanta
 Sat Oct 19 2013,Otelul,1-1,?,Gaz Metan Medias
 Sat Oct 19 2013,Petrolul,3-0,?,Navodari
 Sun Oct 20 2013,Pandurii,6-1,?,FC Botosani
@@ -100,12 +100,12 @@ Sat Oct 26 2013,FC Botosani,1-2,?,Petrolul
 Sat Oct 26 2013,Gaz Metan Medias,3-1,?,Ceahlaul
 Sat Oct 26 2013,CFR Cluj,0-0,?,Astra
 Sun Oct 27 2013,Poli Timisoara,2-3,?,Pandurii
-Sun Oct 27 2013,FC Brasov,1-2,?,FC Steaua Bucuresti
+Sun Oct 27 2013,FC Brasov,1-2,?,FCSB
 Mon Oct 28 2013,Din. Bucuresti,2-1,?,Concordia
 Mon Oct 28 2013,Navodari,2-1,?,Otelul
 Fri Nov 1 2013,Ceahlaul,2-1,?,Navodari
 Sat Nov 2 2013,Pandurii,1-2,?,Vaslui
-Sat Nov 2 2013,Corona Brasov,1-1,?,FC Steaua Bucuresti
+Sat Nov 2 2013,Corona Brasov,1-1,?,FCSB
 Sun Nov 3 2013,Concordia,0-0,?,CFR Cluj
 Sun Nov 3 2013,Astra,3-1,?,Gaz Metan Medias
 Sun Nov 3 2013,Din. Bucuresti,2-1,?,FC Brasov
@@ -123,7 +123,7 @@ Mon Nov 11 2013,Corona Brasov,1-2,?,FC Brasov
 Fri Nov 22 2013,Concordia,4-0,?,Navodari
 Fri Nov 22 2013,Ceahlaul,1-0,?,Poli Timisoara
 Fri Nov 22 2013,Otelul,1-2,?,Vaslui
-Sat Nov 23 2013,Pandurii,1-1,?,FC Steaua Bucuresti
+Sat Nov 23 2013,Pandurii,1-1,?,FCSB
 Sun Nov 24 2013,Astra,5-0,?,FC Botosani
 Sun Nov 24 2013,Din. Bucuresti,1-0,?,Gaz Metan Medias
 Mon Nov 25 2013,U. Cluj,3-2,?,Corona Brasov
@@ -137,7 +137,7 @@ Sat Nov 30 2013,Vaslui,3-0,?,Ceahlaul
 Sat Nov 30 2013,Navodari,0-1,?,Din. Bucuresti
 Sun Dec 1 2013,FC Botosani,0-2,?,Concordia
 Sun Dec 1 2013,Corona Brasov,1-1,?,Pandurii
-Sun Dec 1 2013,FC Steaua Bucuresti,1-1,?,Petrolul
+Sun Dec 1 2013,FCSB,1-1,?,Petrolul
 Mon Dec 2 2013,Gaz Metan Medias,2-0,?,CFR Cluj
 Fri Dec 6 2013,FC Brasov,0-0,?,Gaz Metan Medias
 Fri Dec 6 2013,Concordia,2-1,?,Poli Timisoara
@@ -145,14 +145,14 @@ Sat Dec 7 2013,Petrolul,3-0,?,Corona Brasov
 Sat Dec 7 2013,Din. Bucuresti,1-0,?,FC Botosani
 Sun Dec 8 2013,Pandurii,3-0,?,U. Cluj
 Sun Dec 8 2013,Ceahlaul,0-0,?,Viitorul Constanta
-Sun Dec 8 2013,Otelul,1-1,?,FC Steaua Bucuresti
+Sun Dec 8 2013,Otelul,1-1,?,FCSB
 Mon Dec 9 2013,CFR Cluj,6-1,?,Navodari
 Mon Dec 9 2013,Astra,1-0,?,Vaslui
 Fri Dec 13 2013,Concordia,0-1,?,Vaslui
 Fri Dec 13 2013,Otelul,2-1,?,Corona Brasov
 Fri Dec 13 2013,Din. Bucuresti,4-0,?,Poli Timisoara
 Sat Dec 14 2013,Astra,2-0,?,Viitorul Constanta
-Sat Dec 14 2013,Ceahlaul,0-2,?,FC Steaua Bucuresti
+Sat Dec 14 2013,Ceahlaul,0-2,?,FCSB
 Sun Dec 15 2013,CFR Cluj,3-1,?,FC Botosani
 Sun Dec 15 2013,Petrolul,2-0,?,U. Cluj
 Mon Dec 16 2013,Gaz Metan Medias,1-2,?,Navodari
@@ -161,15 +161,15 @@ Tue Dec 17 2013,Corona Brasov,1-0,?,Ceahlaul
 Tue Dec 17 2013,Viitorul Constanta,1-1,?,Concordia
 Tue Dec 17 2013,Vaslui,1-1,?,Din. Bucuresti
 Wed Dec 18 2013,Poli Timisoara,1-0,?,CFR Cluj
-Wed Dec 18 2013,FC Steaua Bucuresti,3-1,?,Astra
+Wed Dec 18 2013,FCSB,3-1,?,Astra
 Thu Dec 19 2013,FC Botosani,2-2,?,Gaz Metan Medias
 Thu Dec 19 2013,Navodari,0-0,?,FC Brasov
 Thu Dec 19 2013,U. Cluj,1-0,?,Otelul
 Thu Dec 19 2013,Pandurii,0-1,?,Petrolul
-Sat Dec 21 2013,Astra,1-1,?,FC Steaua Bucuresti
+Sat Dec 21 2013,Astra,1-1,?,FCSB
 Sat Dec 21 2013,Concordia,1-2,?,Viitorul Constanta
-Fri Feb 14 2014,FC Steaua Bucuresti,4-0,?,Concordia
-Tue Feb 18 2014,FC Steaua Bucuresti,2-0,?,U. Cluj
+Fri Feb 14 2014,FCSB,4-0,?,Concordia
+Tue Feb 18 2014,FCSB,2-0,?,U. Cluj
 Fri Feb 21 2014,Navodari,1-0,?,FC Botosani
 Fri Feb 21 2014,Astra,3-0,?,Corona Brasov
 Sat Feb 22 2014,Otelul,1-0,?,Pandurii
@@ -177,12 +177,12 @@ Sun Feb 23 2014,Din. Bucuresti,1-2,?,Viitorul Constanta
 Sun Feb 23 2014,CFR Cluj,0-0,?,Vaslui
 Sun Feb 23 2014,FC Brasov,1-1,?,Petrolul
 Mon Feb 24 2014,Ceahlaul,1-1,?,U. Cluj
-Mon Feb 24 2014,Concordia,1-4,?,FC Steaua Bucuresti
+Mon Feb 24 2014,Concordia,1-4,?,FCSB
 Mon Feb 24 2014,Gaz Metan Medias,0-1,?,Poli Timisoara
 Fri Feb 28 2014,Viitorul Constanta,1-1,?,CFR Cluj
 Fri Feb 28 2014,U. Cluj,1-0,?,Astra
 Sat Mar 1 2014,Poli Timisoara,1-1,?,Navodari
-Sat Mar 1 2014,FC Steaua Bucuresti,1-1,?,Din. Bucuresti
+Sat Mar 1 2014,FCSB,1-1,?,Din. Bucuresti
 Sun Mar 2 2014,FC Botosani,2-1,?,FC Brasov
 Sun Mar 2 2014,Petrolul,2-0,?,Otelul
 Sun Mar 2 2014,Pandurii,1-1,?,Ceahlaul
@@ -191,7 +191,7 @@ Mon Mar 3 2014,Vaslui,1-0,?,Gaz Metan Medias
 Fri Mar 7 2014,FC Brasov,1-3,?,Otelul
 Sat Mar 8 2014,FC Botosani,1-0,?,Poli Timisoara
 Sat Mar 8 2014,Concordia,1-1,?,U. Cluj
-Sat Mar 8 2014,CFR Cluj,0-1,?,FC Steaua Bucuresti
+Sat Mar 8 2014,CFR Cluj,0-1,?,FCSB
 Sun Mar 9 2014,Gaz Metan Medias,4-0,?,Viitorul Constanta
 Sun Mar 9 2014,Ceahlaul,0-0,?,Petrolul
 Mon Mar 10 2014,Navodari,0-1,?,Vaslui
@@ -201,7 +201,7 @@ Fri Mar 14 2014,Viitorul Constanta,0-0,?,Navodari
 Fri Mar 14 2014,Corona Brasov,2-2,?,CFR Cluj
 Fri Mar 14 2014,Poli Timisoara,0-1,?,FC Brasov
 Sat Mar 15 2014,U. Cluj,0-1,?,Din. Bucuresti
-Sat Mar 15 2014,FC Steaua Bucuresti,3-0,?,Gaz Metan Medias
+Sat Mar 15 2014,FCSB,3-0,?,Gaz Metan Medias
 Sun Mar 16 2014,Petrolul,1-1,?,Astra
 Mon Mar 17 2014,Vaslui,0-1,?,FC Botosani
 Mon Mar 17 2014,Otelul,0-1,?,Ceahlaul
@@ -211,7 +211,7 @@ Fri Mar 21 2014,Gaz Metan Medias,1-0,?,Corona Brasov
 Sat Mar 22 2014,Concordia,0-0,?,Petrolul
 Sat Mar 22 2014,Din. Bucuresti,2-3,?,Pandurii
 Sun Mar 23 2014,FC Botosani,3-1,?,Viitorul Constanta
-Sun Mar 23 2014,Navodari,1-2,?,FC Steaua Bucuresti
+Sun Mar 23 2014,Navodari,1-2,?,FCSB
 Mon Mar 24 2014,Poli Timisoara,0-2,?,Vaslui
 Mon Mar 24 2014,FC Brasov,1-0,?,Ceahlaul
 Mon Mar 24 2014,CFR Cluj,1-2,?,U. Cluj
@@ -223,18 +223,18 @@ Sun Mar 30 2014,Ceahlaul,0-2,?,Astra
 Sun Mar 30 2014,Petrolul,2-2,?,Din. Bucuresti
 Mon Mar 31 2014,U. Cluj,1-0,?,Gaz Metan Medias
 Mon Mar 31 2014,Vaslui,1-0,?,FC Brasov
-Mon Mar 31 2014,FC Steaua Bucuresti,4-0,?,FC Botosani
+Mon Mar 31 2014,FCSB,4-0,?,FC Botosani
 Fri Apr 4 2014,Concordia,2-0,?,Ceahlaul
 Fri Apr 4 2014,Vaslui,0-1,?,Viitorul Constanta
 Sat Apr 5 2014,FC Botosani,3-1,?,Corona Brasov
-Sat Apr 5 2014,Poli Timisoara,0-0,?,FC Steaua Bucuresti
+Sat Apr 5 2014,Poli Timisoara,0-0,?,FCSB
 Sun Apr 6 2014,FC Brasov,2-1,?,Astra
 Sun Apr 6 2014,CFR Cluj,1-1,?,Petrolul
 Mon Apr 7 2014,Gaz Metan Medias,0-1,?,Pandurii
 Mon Apr 7 2014,Navodari,1-0,?,U. Cluj
 Mon Apr 7 2014,Din. Bucuresti,3-1,?,Otelul
 Fri Apr 11 2014,Corona Brasov,0-0,?,Poli Timisoara
-Fri Apr 11 2014,FC Steaua Bucuresti,0-1,?,Vaslui
+Fri Apr 11 2014,FCSB,0-1,?,Vaslui
 Sat Apr 12 2014,Astra,1-0,?,Concordia
 Sat Apr 12 2014,Petrolul,2-0,?,Gaz Metan Medias
 Sun Apr 13 2014,Otelul,0-1,?,CFR Cluj
@@ -250,7 +250,7 @@ Sun Apr 20 2014,FC Botosani,3-2,?,Pandurii
 Sun Apr 20 2014,Navodari,2-3,?,Petrolul
 Mon Apr 21 2014,Poli Timisoara,1-2,?,U. Cluj
 Mon Apr 21 2014,FC Brasov,3-1,?,Concordia
-Mon Apr 21 2014,Viitorul Constanta,0-3,?,FC Steaua Bucuresti
+Mon Apr 21 2014,Viitorul Constanta,0-3,?,FCSB
 Fri Apr 25 2014,Ceahlaul,0-1,?,Gaz Metan Medias
 Sat Apr 26 2014,Otelul,0-1,?,Navodari
 Sat Apr 26 2014,U. Cluj,1-0,?,Vaslui
@@ -258,7 +258,7 @@ Sun Apr 27 2014,Astra,1-0,?,CFR Cluj
 Sun Apr 27 2014,Pandurii,0-1,?,Poli Timisoara
 Sun Apr 27 2014,Concordia,1-3,?,Din. Bucuresti
 Mon Apr 28 2014,Corona Brasov,0-4,?,Viitorul Constanta
-Mon Apr 28 2014,FC Steaua Bucuresti,3-0,?,FC Brasov
+Mon Apr 28 2014,FCSB,3-0,?,FC Brasov
 Mon Apr 28 2014,Petrolul,3-0,?,FC Botosani
 Fri May 2 2014,Navodari,0-2,?,Ceahlaul
 Fri May 2 2014,Gaz Metan Medias,0-0,?,Astra
@@ -268,7 +268,7 @@ Sat May 3 2014,Poli Timisoara,0-3,?,Petrolul
 Sat May 3 2014,FC Brasov,2-0,?,Din. Bucuresti
 Sun May 4 2014,FC Botosani,3-1,?,Otelul
 Sun May 4 2014,Viitorul Constanta,1-0,?,U. Cluj
-Mon May 5 2014,FC Steaua Bucuresti,3-0,?,Corona Brasov
+Mon May 5 2014,FCSB,3-0,?,Corona Brasov
 Tue May 6 2014,Concordia,1-0,?,Gaz Metan Medias
 Tue May 6 2014,Din. Bucuresti,0-3,?,CFR Cluj
 Wed May 7 2014,Ceahlaul,0-0,?,FC Botosani
@@ -277,7 +277,7 @@ Wed May 7 2014,Astra,2-0,?,Navodari
 Thu May 8 2014,FC Brasov,1-0,?,Corona Brasov
 Thu May 8 2014,Pandurii,1-1,?,Viitorul Constanta
 Thu May 8 2014,Otelul,1-0,?,Poli Timisoara
-Thu May 8 2014,U. Cluj,0-1,?,FC Steaua Bucuresti
+Thu May 8 2014,U. Cluj,0-1,?,FCSB
 Sat May 10 2014,Navodari,4-0,?,Concordia
 Sat May 10 2014,Gaz Metan Medias,1-1,?,Din. Bucuresti
 Sun May 11 2014,Vaslui,1-4,?,Otelul
@@ -286,7 +286,7 @@ Sun May 11 2014,FC Botosani,0-2,?,Astra
 Sun May 11 2014,Viitorul Constanta,2-0,?,Petrolul
 Mon May 12 2014,Corona Brasov,0-2,?,U. Cluj
 Mon May 12 2014,CFR Cluj,1-0,?,FC Brasov
-Mon May 12 2014,FC Steaua Bucuresti,2-2,?,Pandurii
+Mon May 12 2014,FCSB,2-2,?,Pandurii
 Thu May 15 2014,Pandurii,5-0,?,Corona Brasov
 Thu May 15 2014,CFR Cluj,3-1,?,Gaz Metan Medias
 Fri May 16 2014,Din. Bucuresti,4-1,?,Navodari
@@ -295,11 +295,11 @@ Fri May 16 2014,Otelul,4-1,?,Viitorul Constanta
 Fri May 16 2014,Astra,5-1,?,Poli Timisoara
 Sat May 17 2014,Ceahlaul,2-0,?,Vaslui
 Sat May 17 2014,Concordia,1-1,?,FC Botosani
-Sat May 17 2014,Petrolul,0-0,?,FC Steaua Bucuresti
+Sat May 17 2014,Petrolul,0-0,?,FCSB
 Mon May 19 2014,Vaslui,1-4,?,Astra
 Tue May 20 2014,U. Cluj,0-3,?,Pandurii
 Tue May 20 2014,Corona Brasov,0-3,?,Petrolul
-Tue May 20 2014,FC Steaua Bucuresti,2-2,?,Otelul
+Tue May 20 2014,FCSB,2-2,?,Otelul
 Wed May 21 2014,FC Botosani,1-2,?,Din. Bucuresti
 Wed May 21 2014,Viitorul Constanta,1-0,?,Ceahlaul
 Wed May 21 2014,Gaz Metan Medias,1-1,?,FC Brasov

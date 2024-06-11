@@ -1,10 +1,10 @@
 Date,Team 1,FT,HT,Team 2
 Sat Jul 25 2015,Mattersburg,2-1,?,Salzburg
 Sat Jul 25 2015,Grodig,2-1,?,Altach
-Sat Jul 25 2015,Rapid Vienna,3-0,?,Ried
+Sat Jul 25 2015,SK Rapid,3-0,?,Ried
 Sat Jul 25 2015,Sturm Graz,1-1,?,Admira
 Sun Jul 26 2015,Wolfsberger AC,0-2,?,Austria Vienna
-Sat Aug 1 2015,Salzburg,1-2,?,Rapid Vienna
+Sat Aug 1 2015,Salzburg,1-2,?,SK Rapid
 Sat Aug 1 2015,Admira,2-1,?,Mattersburg
 Sun Aug 2 2015,Austria Vienna,3-1,?,Altach
 Sun Aug 2 2015,Ried,0-0,?,Wolfsberger AC
@@ -13,28 +13,28 @@ Sat Aug 8 2015,Grodig,2-2,?,Austria Vienna
 Sat Aug 8 2015,Admira,2-2,?,Salzburg
 Sat Aug 8 2015,Mattersburg,4-1,?,Ried
 Sun Aug 9 2015,Altach,0-1,?,Sturm Graz
-Sun Aug 9 2015,Rapid Vienna,2-1,?,Wolfsberger AC
+Sun Aug 9 2015,SK Rapid,2-1,?,Wolfsberger AC
 Tue Aug 11 2015,Ried,1-4,?,Salzburg
 Wed Aug 12 2015,Wolfsberger AC,0-2,?,Sturm Graz
 Wed Aug 12 2015,Altach,3-1,?,Mattersburg
-Wed Aug 12 2015,Austria Vienna,2-5,?,Rapid Vienna
+Wed Aug 12 2015,Austria Vienna,2-5,?,SK Rapid
 Wed Aug 12 2015,Grodig,2-3,?,Admira
 Sat Aug 15 2015,Austria Vienna,5-1,?,Mattersburg
 Sat Aug 15 2015,Wolfsberger AC,3-2,?,Grodig
 Sat Aug 15 2015,Admira,3-1,?,Ried
 Sat Aug 15 2015,Salzburg,2-0,?,Altach
-Sun Aug 16 2015,Sturm Graz,2-2,?,Rapid Vienna
-Sat Aug 22 2015,Rapid Vienna,3-0,?,Grodig
+Sun Aug 16 2015,Sturm Graz,2-2,?,SK Rapid
+Sat Aug 22 2015,SK Rapid,3-0,?,Grodig
 Sat Aug 22 2015,Mattersburg,1-0,?,Wolfsberger AC
 Sat Aug 22 2015,Ried,1-0,?,Sturm Graz
 Sun Aug 23 2015,Salzburg,2-2,?,Austria Vienna
 Sun Aug 23 2015,Altach,1-2,?,Admira
 Sat Aug 29 2015,Admira,0-1,?,Austria Vienna
 Sat Aug 29 2015,Grodig,4-1,?,Ried
-Sat Aug 29 2015,Rapid Vienna,2-4,?,Mattersburg
+Sat Aug 29 2015,SK Rapid,2-4,?,Mattersburg
 Sun Aug 30 2015,Sturm Graz,2-3,?,Salzburg
 Sun Aug 30 2015,Wolfsberger AC,0-2,?,Altach
-Sat Sep 12 2015,Altach,2-0,?,Rapid Vienna
+Sat Sep 12 2015,Altach,2-0,?,SK Rapid
 Sat Sep 12 2015,Admira,1-0,?,Wolfsberger AC
 Sat Sep 12 2015,Austria Vienna,1-1,?,Ried
 Sat Sep 12 2015,Salzburg,4-2,?,Grodig
@@ -43,8 +43,8 @@ Sat Sep 19 2015,Sturm Graz,2-0,?,Austria Vienna
 Sat Sep 19 2015,Wolfsberger AC,1-1,?,Salzburg
 Sat Sep 19 2015,Grodig,1-1,?,Mattersburg
 Sat Sep 19 2015,Ried,2-0,?,Altach
-Sun Sep 20 2015,Rapid Vienna,2-0,?,Admira
-Sat Sep 26 2015,Ried,0-1,?,Rapid Vienna
+Sun Sep 20 2015,SK Rapid,2-0,?,Admira
+Sat Sep 26 2015,Ried,0-1,?,SK Rapid
 Sat Sep 26 2015,Altach,1-0,?,Grodig
 Sat Sep 26 2015,Austria Vienna,1-0,?,Wolfsberger AC
 Sat Sep 26 2015,Salzburg,4-2,?,Mattersburg
@@ -53,18 +53,18 @@ Sat Oct 3 2015,Grodig,3-0,?,Sturm Graz
 Sat Oct 3 2015,Wolfsberger AC,1-1,?,Ried
 Sat Oct 3 2015,Altach,1-2,?,Austria Vienna
 Sat Oct 3 2015,Mattersburg,0-4,?,Admira
-Sun Oct 4 2015,Rapid Vienna,1-2,?,Salzburg
+Sun Oct 4 2015,SK Rapid,1-2,?,Salzburg
 Sat Oct 17 2015,Salzburg,8-0,?,Admira
 Sat Oct 17 2015,Austria Vienna,2-1,?,Grodig
 Sat Oct 17 2015,Ried,0-1,?,Mattersburg
 Sat Oct 17 2015,Sturm Graz,3-1,?,Altach
-Sun Oct 18 2015,Wolfsberger AC,2-1,?,Rapid Vienna
+Sun Oct 18 2015,Wolfsberger AC,2-1,?,SK Rapid
 Sat Oct 24 2015,Mattersburg,2-1,?,Altach
 Sat Oct 24 2015,Admira,0-0,?,Grodig
 Sat Oct 24 2015,Salzburg,2-1,?,Ried
 Sat Oct 24 2015,Sturm Graz,2-0,?,Wolfsberger AC
-Sun Oct 25 2015,Rapid Vienna,1-2,?,Austria Vienna
-Sat Oct 31 2015,Rapid Vienna,2-1,?,Sturm Graz
+Sun Oct 25 2015,SK Rapid,1-2,?,Austria Vienna
+Sat Oct 31 2015,SK Rapid,2-1,?,Sturm Graz
 Sat Oct 31 2015,Altach,1-0,?,Salzburg
 Sat Oct 31 2015,Grodig,1-0,?,Wolfsberger AC
 Sat Oct 31 2015,Ried,1-1,?,Admira
@@ -73,79 +73,79 @@ Sat Nov 7 2015,Austria Vienna,1-1,?,Salzburg
 Sat Nov 7 2015,Wolfsberger AC,2-1,?,Mattersburg
 Sat Nov 7 2015,Admira,1-1,?,Altach
 Sat Nov 7 2015,Sturm Graz,3-2,?,Ried
-Sun Nov 8 2015,Grodig,2-1,?,Rapid Vienna
+Sun Nov 8 2015,Grodig,2-1,?,SK Rapid
 Sat Nov 21 2015,Austria Vienna,1-1,?,Admira
 Sat Nov 21 2015,Altach,2-1,?,Wolfsberger AC
-Sat Nov 21 2015,Mattersburg,1-6,?,Rapid Vienna
+Sat Nov 21 2015,Mattersburg,1-6,?,SK Rapid
 Sat Nov 21 2015,Ried,1-0,?,Grodig
 Sun Nov 22 2015,Salzburg,3-1,?,Sturm Graz
 Sat Nov 28 2015,Sturm Graz,0-0,?,Mattersburg
 Sat Nov 28 2015,Wolfsberger AC,4-0,?,Admira
 Sat Nov 28 2015,Grodig,1-1,?,Salzburg
 Sun Nov 29 2015,Ried,4-2,?,Austria Vienna
-Sun Nov 29 2015,Rapid Vienna,3-1,?,Altach
+Sun Nov 29 2015,SK Rapid,3-1,?,Altach
 Tue Dec 1 2015,Salzburg,1-1,?,Wolfsberger AC
-Wed Dec 2 2015,Admira,2-1,?,Rapid Vienna
+Wed Dec 2 2015,Admira,2-1,?,SK Rapid
 Wed Dec 2 2015,Altach,1-3,?,Ried
 Wed Dec 2 2015,Mattersburg,0-2,?,Grodig
 Wed Dec 2 2015,Austria Vienna,2-1,?,Sturm Graz
 Sat Dec 5 2015,Wolfsberger AC,2-0,?,Austria Vienna
 Sat Dec 5 2015,Grodig,0-3,?,Altach
-Sat Dec 5 2015,Rapid Vienna,2-1,?,Ried
+Sat Dec 5 2015,SK Rapid,2-1,?,Ried
 Sat Dec 5 2015,Sturm Graz,1-1,?,Admira
 Sun Dec 6 2015,Mattersburg,0-0,?,Salzburg
 Sat Dec 12 2015,Austria Vienna,1-2,?,Altach
 Sat Dec 12 2015,Admira,1-1,?,Mattersburg
 Sat Dec 12 2015,Ried,1-0,?,Wolfsberger AC
 Sat Dec 12 2015,Sturm Graz,2-0,?,Grodig
-Sun Dec 13 2015,Salzburg,2-0,?,Rapid Vienna
+Sun Dec 13 2015,Salzburg,2-0,?,SK Rapid
 Sat Feb 6 2016,Altach,2-2,?,Sturm Graz
 Sat Feb 6 2016,Grodig,0-1,?,Austria Vienna
 Sat Feb 6 2016,Mattersburg,3-3,?,Ried
-Sat Feb 6 2016,Rapid Vienna,3-0,?,Wolfsberger AC
+Sat Feb 6 2016,SK Rapid,3-0,?,Wolfsberger AC
 Sun Feb 7 2016,Admira,1-2,?,Salzburg
 Sat Feb 13 2016,Ried,1-0,?,Salzburg
 Sat Feb 13 2016,Wolfsberger AC,0-0,?,Sturm Graz
 Sat Feb 13 2016,Altach,1-2,?,Mattersburg
 Sat Feb 13 2016,Grodig,2-2,?,Admira
-Sun Feb 14 2016,Austria Vienna,0-3,?,Rapid Vienna
+Sun Feb 14 2016,Austria Vienna,0-3,?,SK Rapid
 Sat Feb 20 2016,Austria Vienna,2-2,?,Mattersburg
 Sat Feb 20 2016,Wolfsberger AC,2-0,?,Grodig
 Sat Feb 20 2016,Admira,0-0,?,Ried
 Sat Feb 20 2016,Salzburg,2-0,?,Altach
-Sun Feb 21 2016,Sturm Graz,0-2,?,Rapid Vienna
+Sun Feb 21 2016,Sturm Graz,0-2,?,SK Rapid
 Sat Feb 27 2016,Ried,0-1,?,Sturm Graz
 Sat Feb 27 2016,Altach,1-2,?,Admira
 Sat Feb 27 2016,Mattersburg,1-1,?,Wolfsberger AC
-Sun Feb 28 2016,Rapid Vienna,3-2,?,Grodig
+Sun Feb 28 2016,SK Rapid,3-2,?,Grodig
 Sun Feb 28 2016,Salzburg,4-1,?,Austria Vienna
 Tue Mar 1 2016,Wolfsberger AC,1-0,?,Altach
 Wed Mar 2 2016,Admira,0-3,?,Austria Vienna
 Wed Mar 2 2016,Grodig,2-2,?,Ried
-Wed Mar 2 2016,Rapid Vienna,3-0,?,Mattersburg
+Wed Mar 2 2016,SK Rapid,3-0,?,Mattersburg
 Wed Mar 2 2016,Sturm Graz,0-0,?,Salzburg
 Sat Mar 5 2016,Salzburg,3-0,?,Grodig
 Sat Mar 5 2016,Admira,0-2,?,Wolfsberger AC
 Sat Mar 5 2016,Austria Vienna,3-1,?,Ried
 Sat Mar 5 2016,Mattersburg,1-0,?,Sturm Graz
-Sun Mar 6 2016,Altach,0-0,?,Rapid Vienna
+Sun Mar 6 2016,Altach,0-0,?,SK Rapid
 Sat Mar 12 2016,Wolfsberger AC,1-1,?,Salzburg
 Sat Mar 12 2016,Grodig,0-1,?,Mattersburg
-Sat Mar 12 2016,Rapid Vienna,0-4,?,Admira
+Sat Mar 12 2016,SK Rapid,0-4,?,Admira
 Sat Mar 12 2016,Ried,0-2,?,Altach
 Sun Mar 13 2016,Sturm Graz,1-1,?,Austria Vienna
 Sat Mar 19 2016,Austria Vienna,0-0,?,Wolfsberger AC
 Sat Mar 19 2016,Admira,1-0,?,Sturm Graz
 Sat Mar 19 2016,Altach,1-0,?,Grodig
 Sat Mar 19 2016,Salzburg,2-1,?,Mattersburg
-Sun Mar 20 2016,Ried,1-0,?,Rapid Vienna
+Sun Mar 20 2016,Ried,1-0,?,SK Rapid
 Sat Apr 2 2016,Grodig,1-3,?,Sturm Graz
 Sat Apr 2 2016,Wolfsberger AC,1-0,?,Ried
 Sat Apr 2 2016,Altach,2-0,?,Austria Vienna
 Sat Apr 2 2016,Mattersburg,0-3,?,Admira
-Sun Apr 3 2016,Rapid Vienna,1-1,?,Salzburg
+Sun Apr 3 2016,SK Rapid,1-1,?,Salzburg
 Sat Apr 9 2016,Sturm Graz,4-1,?,Altach
-Sat Apr 9 2016,Wolfsberger AC,2-2,?,Rapid Vienna
+Sat Apr 9 2016,Wolfsberger AC,2-2,?,SK Rapid
 Sat Apr 9 2016,Austria Vienna,0-2,?,Grodig
 Sat Apr 9 2016,Ried,1-0,?,Mattersburg
 Sun Apr 10 2016,Salzburg,1-0,?,Admira
@@ -153,13 +153,13 @@ Sat Apr 16 2016,Salzburg,2-1,?,Ried
 Sat Apr 16 2016,Admira,1-1,?,Grodig
 Sat Apr 16 2016,Mattersburg,0-0,?,Altach
 Sat Apr 16 2016,Sturm Graz,1-0,?,Wolfsberger AC
-Sun Apr 17 2016,Rapid Vienna,1-0,?,Austria Vienna
+Sun Apr 17 2016,SK Rapid,1-0,?,Austria Vienna
 Sat Apr 23 2016,Mattersburg,0-9,?,Austria Vienna
 Sat Apr 23 2016,Altach,1-3,?,Salzburg
 Sat Apr 23 2016,Grodig,0-1,?,Wolfsberger AC
 Sat Apr 23 2016,Ried,1-0,?,Admira
-Sun Apr 24 2016,Rapid Vienna,2-0,?,Sturm Graz
-Sat Apr 30 2016,Grodig,2-0,?,Rapid Vienna
+Sun Apr 24 2016,SK Rapid,2-0,?,Sturm Graz
+Sat Apr 30 2016,Grodig,2-0,?,SK Rapid
 Sat Apr 30 2016,Wolfsberger AC,2-0,?,Mattersburg
 Sat Apr 30 2016,Admira,2-1,?,Altach
 Sat Apr 30 2016,Sturm Graz,0-0,?,Ried
@@ -168,13 +168,13 @@ Sat May 7 2016,Austria Vienna,3-1,?,Admira
 Sat May 7 2016,Altach,1-1,?,Wolfsberger AC
 Sat May 7 2016,Ried,2-0,?,Grodig
 Sat May 7 2016,Salzburg,1-1,?,Sturm Graz
-Sun May 8 2016,Mattersburg,0-2,?,Rapid Vienna
+Sun May 8 2016,Mattersburg,0-2,?,SK Rapid
 Wed May 11 2016,Wolfsberger AC,1-2,?,Admira
 Wed May 11 2016,Grodig,1-2,?,Salzburg
-Wed May 11 2016,Rapid Vienna,1-1,?,Altach
+Wed May 11 2016,SK Rapid,1-1,?,Altach
 Wed May 11 2016,Ried,0-5,?,Austria Vienna
 Wed May 11 2016,Sturm Graz,1-1,?,Mattersburg
-Sun May 15 2016,Admira,1-3,?,Rapid Vienna
+Sun May 15 2016,Admira,1-3,?,SK Rapid
 Sun May 15 2016,Altach,0-0,?,Ried
 Sun May 15 2016,Austria Vienna,3-0,?,Sturm Graz
 Sun May 15 2016,Mattersburg,2-3,?,Grodig

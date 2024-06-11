@@ -1,10 +1,10 @@
 Date,Team 1,FT,HT,Team 2
 Sat Jul 20 2013,Austria Vienna,2-0,?,Admira
-Sat Jul 20 2013,Wolfsberger AC,2-2,?,Rapid Vienna
+Sat Jul 20 2013,Wolfsberger AC,2-2,?,SK Rapid
 Sat Jul 20 2013,Grodig,0-0,?,Ried
 Sat Jul 20 2013,Neustadt,1-5,?,Salzburg
 Sun Jul 21 2013,Wacker Innsbruck,2-2,?,Sturm Graz
-Sat Jul 27 2013,Rapid Vienna,4-0,?,Neustadt
+Sat Jul 27 2013,SK Rapid,4-0,?,Neustadt
 Sat Jul 27 2013,Admira,1-2,?,Wacker Innsbruck
 Sat Jul 27 2013,Ried,1-0,?,Wolfsberger AC
 Sat Jul 27 2013,Salzburg,5-1,?,Austria Vienna
@@ -13,28 +13,28 @@ Sat Aug 3 2013,Neustadt,2-1,?,Wolfsberger AC
 Sat Aug 3 2013,Austria Vienna,3-3,?,Ried
 Sat Aug 3 2013,Grodig,7-1,?,Admira
 Sat Aug 3 2013,Wacker Innsbruck,1-1,?,Salzburg
-Sun Aug 4 2013,Sturm Graz,2-4,?,Rapid Vienna
+Sun Aug 4 2013,Sturm Graz,2-4,?,SK Rapid
 Sat Aug 10 2013,Wolfsberger AC,1-1,?,Wacker Innsbruck
 Sat Aug 10 2013,Admira,1-1,?,Sturm Graz
 Sat Aug 10 2013,Ried,1-1,?,Neustadt
 Sat Aug 10 2013,Salzburg,4-1,?,Grodig
-Sun Aug 11 2013,Rapid Vienna,0-0,?,Austria Vienna
+Sun Aug 11 2013,SK Rapid,0-0,?,Austria Vienna
 Sat Aug 17 2013,Sturm Graz,1-1,?,Salzburg
 Sat Aug 17 2013,Austria Vienna,5-0,?,Neustadt
 Sat Aug 17 2013,Grodig,4-3,?,Wolfsberger AC
 Sat Aug 17 2013,Wacker Innsbruck,2-3,?,Ried
-Sun Aug 18 2013,Admira,2-0,?,Rapid Vienna
+Sun Aug 18 2013,Admira,2-0,?,SK Rapid
 Sat Aug 24 2013,Ried,3-0,?,Sturm Graz
 Sat Aug 24 2013,Wolfsberger AC,1-4,?,Austria Vienna
 Sat Aug 24 2013,Neustadt,1-1,?,Wacker Innsbruck
-Sun Aug 25 2013,Rapid Vienna,0-1,?,Grodig
+Sun Aug 25 2013,SK Rapid,0-1,?,Grodig
 Sun Aug 25 2013,Salzburg,1-0,?,Admira
 Sat Aug 31 2013,Sturm Graz,4-1,?,Wolfsberger AC
 Sat Aug 31 2013,Admira,1-4,?,Ried
 Sat Aug 31 2013,Austria Vienna,1-1,?,Wacker Innsbruck
 Sat Aug 31 2013,Grodig,3-6,?,Neustadt
-Sun Sep 1 2013,Salzburg,1-1,?,Rapid Vienna
-Sat Sep 14 2013,Wacker Innsbruck,0-4,?,Rapid Vienna
+Sun Sep 1 2013,Salzburg,1-1,?,SK Rapid
+Sat Sep 14 2013,Wacker Innsbruck,0-4,?,SK Rapid
 Sat Sep 14 2013,Wolfsberger AC,3-1,?,Admira
 Sat Sep 14 2013,Austria Vienna,2-3,?,Grodig
 Sat Sep 14 2013,Neustadt,1-3,?,Sturm Graz
@@ -42,100 +42,100 @@ Sun Sep 15 2013,Ried,0-5,?,Salzburg
 Sat Sep 21 2013,Sturm Graz,1-2,?,Austria Vienna
 Sat Sep 21 2013,Admira,0-3,?,Neustadt
 Sat Sep 21 2013,Grodig,3-3,?,Wacker Innsbruck
-Sun Sep 22 2013,Rapid Vienna,2-0,?,Ried
+Sun Sep 22 2013,SK Rapid,2-0,?,Ried
 Sun Sep 22 2013,Salzburg,2-2,?,Wolfsberger AC
 Sat Sep 28 2013,Ried,4-2,?,Grodig
 Sat Sep 28 2013,Admira,1-0,?,Austria Vienna
-Sat Sep 28 2013,Rapid Vienna,2-4,?,Wolfsberger AC
+Sat Sep 28 2013,SK Rapid,2-4,?,Wolfsberger AC
 Sat Sep 28 2013,Sturm Graz,1-0,?,Wacker Innsbruck
 Sun Sep 29 2013,Salzburg,8-1,?,Neustadt
 Sat Oct 5 2013,Wolfsberger AC,1-1,?,Ried
 Sat Oct 5 2013,Grodig,0-1,?,Sturm Graz
 Sat Oct 5 2013,Wacker Innsbruck,3-3,?,Admira
 Sun Oct 6 2013,Austria Vienna,1-2,?,Salzburg
-Sun Oct 6 2013,Neustadt,0-0,?,Rapid Vienna
+Sun Oct 6 2013,Neustadt,0-0,?,SK Rapid
 Sat Oct 19 2013,Salzburg,6-0,?,Wacker Innsbruck
 Sat Oct 19 2013,Wolfsberger AC,1-1,?,Neustadt
 Sat Oct 19 2013,Admira,0-4,?,Grodig
 Sat Oct 19 2013,Ried,1-1,?,Austria Vienna
-Sun Oct 20 2013,Rapid Vienna,2-2,?,Sturm Graz
+Sun Oct 20 2013,SK Rapid,2-2,?,Sturm Graz
 Sat Oct 26 2013,Wacker Innsbruck,1-2,?,Wolfsberger AC
 Sat Oct 26 2013,Neustadt,3-3,?,Ried
 Sat Oct 26 2013,Sturm Graz,0-2,?,Admira
-Sun Oct 27 2013,Austria Vienna,0-1,?,Rapid Vienna
+Sun Oct 27 2013,Austria Vienna,0-1,?,SK Rapid
 Sun Oct 27 2013,Grodig,0-3,?,Salzburg
-Sat Nov 2 2013,Rapid Vienna,4-2,?,Admira
+Sat Nov 2 2013,SK Rapid,4-2,?,Admira
 Sat Nov 2 2013,Wolfsberger AC,1-1,?,Grodig
 Sat Nov 2 2013,Ried,4-0,?,Wacker Innsbruck
 Sat Nov 2 2013,Salzburg,1-0,?,Sturm Graz
 Sun Nov 3 2013,Neustadt,0-3,?,Austria Vienna
 Sat Nov 9 2013,Wacker Innsbruck,4-0,?,Neustadt
 Sat Nov 9 2013,Austria Vienna,1-0,?,Wolfsberger AC
-Sun Nov 10 2013,Grodig,2-2,?,Rapid Vienna
+Sun Nov 10 2013,Grodig,2-2,?,SK Rapid
 Sun Nov 10 2013,Admira,3-1,?,Salzburg
 Sat Nov 23 2013,Neustadt,0-2,?,Grodig
 Sat Nov 23 2013,Ried,2-2,?,Admira
 Sat Nov 23 2013,Wacker Innsbruck,0-5,?,Austria Vienna
-Sun Nov 24 2013,Rapid Vienna,2-1,?,Salzburg
+Sun Nov 24 2013,SK Rapid,2-1,?,Salzburg
 Wed Nov 27 2013,Sturm Graz,2-0,?,Ried
 Sat Nov 30 2013,Grodig,1-0,?,Austria Vienna
 Sat Nov 30 2013,Admira,3-0,?,Wolfsberger AC
 Sat Nov 30 2013,Sturm Graz,2-3,?,Neustadt
 Sun Dec 1 2013,Salzburg,4-0,?,Ried
-Sun Dec 1 2013,Rapid Vienna,3-0,?,Wacker Innsbruck
+Sun Dec 1 2013,SK Rapid,3-0,?,Wacker Innsbruck
 Tue Dec 3 2013,Austria Vienna,3-2,?,Sturm Graz
 Wed Dec 4 2013,Wolfsberger AC,1-2,?,Salzburg
 Wed Dec 4 2013,Neustadt,1-0,?,Admira
-Wed Dec 4 2013,Ried,2-0,?,Rapid Vienna
+Wed Dec 4 2013,Ried,2-0,?,SK Rapid
 Wed Dec 4 2013,Wacker Innsbruck,5-3,?,Grodig
 Sat Dec 7 2013,Austria Vienna,2-2,?,Admira
 Sat Dec 7 2013,Grodig,3-0,?,Ried
 Sat Dec 7 2013,Wacker Innsbruck,0-1,?,Sturm Graz
-Sun Dec 8 2013,Wolfsberger AC,2-1,?,Rapid Vienna
+Sun Dec 8 2013,Wolfsberger AC,2-1,?,SK Rapid
 Wed Dec 11 2013,Wolfsberger AC,2-1,?,Sturm Graz
 Sat Dec 14 2013,Admira,3-0,?,Wacker Innsbruck
 Sat Dec 14 2013,Ried,1-3,?,Wolfsberger AC
 Sat Dec 14 2013,Sturm Graz,2-2,?,Grodig
 Sun Dec 15 2013,Salzburg,4-0,?,Austria Vienna
-Sun Dec 15 2013,Rapid Vienna,0-0,?,Neustadt
+Sun Dec 15 2013,SK Rapid,0-0,?,Neustadt
 Tue Dec 17 2013,Grodig,2-1,?,Admira
 Wed Dec 18 2013,Austria Vienna,1-1,?,Ried
 Wed Dec 18 2013,Neustadt,1-1,?,Wolfsberger AC
-Wed Dec 18 2013,Sturm Graz,2-0,?,Rapid Vienna
+Wed Dec 18 2013,Sturm Graz,2-0,?,SK Rapid
 Wed Dec 18 2013,Wacker Innsbruck,0-1,?,Salzburg
 Sun Feb 2 2014,Neustadt,1-5,?,Salzburg
 Sat Feb 8 2014,Salzburg,6-0,?,Grodig
 Sat Feb 8 2014,Wolfsberger AC,3-2,?,Wacker Innsbruck
 Sat Feb 8 2014,Admira,1-1,?,Sturm Graz
 Sat Feb 8 2014,Ried,2-1,?,Neustadt
-Sun Feb 9 2014,Rapid Vienna,3-1,?,Austria Vienna
+Sun Feb 9 2014,SK Rapid,3-1,?,Austria Vienna
 Sat Feb 15 2014,Sturm Graz,1-4,?,Salzburg
 Sat Feb 15 2014,Austria Vienna,1-1,?,Neustadt
 Sat Feb 15 2014,Grodig,3-0,?,Wolfsberger AC
 Sat Feb 15 2014,Wacker Innsbruck,1-1,?,Ried
-Sun Feb 16 2014,Admira,2-1,?,Rapid Vienna
+Sun Feb 16 2014,Admira,2-1,?,SK Rapid
 Sat Feb 22 2014,Ried,2-2,?,Sturm Graz
 Sat Feb 22 2014,Wolfsberger AC,0-0,?,Austria Vienna
 Sat Feb 22 2014,Neustadt,1-0,?,Wacker Innsbruck
-Sat Feb 22 2014,Rapid Vienna,0-0,?,Grodig
+Sat Feb 22 2014,SK Rapid,0-0,?,Grodig
 Sun Feb 23 2014,Salzburg,6-1,?,Admira
 Sat Mar 1 2014,Austria Vienna,2-1,?,Wacker Innsbruck
 Sat Mar 1 2014,Admira,2-2,?,Ried
 Sat Mar 1 2014,Grodig,1-2,?,Neustadt
 Sat Mar 1 2014,Sturm Graz,1-4,?,Wolfsberger AC
-Sun Mar 2 2014,Salzburg,6-3,?,Rapid Vienna
+Sun Mar 2 2014,Salzburg,6-3,?,SK Rapid
 Sat Mar 8 2014,Wolfsberger AC,2-3,?,Admira
 Sat Mar 8 2014,Austria Vienna,2-0,?,Grodig
 Sat Mar 8 2014,Neustadt,2-1,?,Sturm Graz
 Sat Mar 8 2014,Ried,1-3,?,Salzburg
-Sun Mar 9 2014,Wacker Innsbruck,1-1,?,Rapid Vienna
+Sun Mar 9 2014,Wacker Innsbruck,1-1,?,SK Rapid
 Sat Mar 15 2014,Grodig,1-1,?,Wacker Innsbruck
 Sat Mar 15 2014,Admira,3-0,?,Neustadt
-Sat Mar 15 2014,Rapid Vienna,1-0,?,Ried
+Sat Mar 15 2014,SK Rapid,1-0,?,Ried
 Sat Mar 15 2014,Sturm Graz,1-1,?,Austria Vienna
 Sun Mar 16 2014,Salzburg,5-0,?,Wolfsberger AC
 Sat Mar 22 2014,Admira,0-1,?,Austria Vienna
-Sat Mar 22 2014,Rapid Vienna,3-0,?,Wolfsberger AC
+Sat Mar 22 2014,SK Rapid,3-0,?,Wolfsberger AC
 Sat Mar 22 2014,Ried,1-4,?,Grodig
 Sat Mar 22 2014,Sturm Graz,3-1,?,Wacker Innsbruck
 Sun Mar 23 2014,Salzburg,5-0,?,Neustadt
@@ -143,8 +143,8 @@ Tue Mar 25 2014,Wacker Innsbruck,0-0,?,Admira
 Wed Mar 26 2014,Wolfsberger AC,0-2,?,Ried
 Wed Mar 26 2014,Austria Vienna,3-0,?,Salzburg
 Wed Mar 26 2014,Grodig,0-6,?,Sturm Graz
-Wed Mar 26 2014,Neustadt,0-3,?,Rapid Vienna
-Sat Mar 29 2014,Rapid Vienna,2-0,?,Sturm Graz
+Wed Mar 26 2014,Neustadt,0-3,?,SK Rapid
+Sat Mar 29 2014,SK Rapid,2-0,?,Sturm Graz
 Sat Mar 29 2014,Wolfsberger AC,4-0,?,Neustadt
 Sat Mar 29 2014,Admira,4-0,?,Grodig
 Sat Mar 29 2014,Salzburg,0-0,?,Wacker Innsbruck
@@ -153,29 +153,29 @@ Sat Apr 5 2014,Grodig,1-3,?,Salzburg
 Sat Apr 5 2014,Neustadt,1-1,?,Ried
 Sat Apr 5 2014,Sturm Graz,1-1,?,Admira
 Sat Apr 5 2014,Wacker Innsbruck,0-1,?,Wolfsberger AC
-Sun Apr 6 2014,Austria Vienna,0-1,?,Rapid Vienna
+Sun Apr 6 2014,Austria Vienna,0-1,?,SK Rapid
 Sat Apr 12 2014,Salzburg,1-2,?,Sturm Graz
 Sat Apr 12 2014,Wolfsberger AC,1-2,?,Grodig
-Sat Apr 12 2014,Rapid Vienna,0-0,?,Admira
+Sat Apr 12 2014,SK Rapid,0-0,?,Admira
 Sat Apr 12 2014,Ried,1-2,?,Wacker Innsbruck
 Sun Apr 13 2014,Neustadt,0-2,?,Austria Vienna
 Sat Apr 19 2014,Austria Vienna,3-1,?,Wolfsberger AC
 Sat Apr 19 2014,Admira,2-3,?,Salzburg
 Sat Apr 19 2014,Sturm Graz,2-1,?,Ried
 Sat Apr 19 2014,Wacker Innsbruck,3-1,?,Neustadt
-Sun Apr 20 2014,Grodig,2-2,?,Rapid Vienna
+Sun Apr 20 2014,Grodig,2-2,?,SK Rapid
 Sat Apr 26 2014,Ried,3-0,?,Admira
 Sat Apr 26 2014,Neustadt,1-3,?,Grodig
-Sat Apr 26 2014,Rapid Vienna,2-1,?,Salzburg
+Sat Apr 26 2014,SK Rapid,2-1,?,Salzburg
 Sat Apr 26 2014,Wacker Innsbruck,1-1,?,Austria Vienna
 Sun Apr 27 2014,Wolfsberger AC,0-1,?,Sturm Graz
 Sun May 4 2014,Admira,1-0,?,Wolfsberger AC
 Sun May 4 2014,Grodig,2-1,?,Austria Vienna
-Sun May 4 2014,Rapid Vienna,2-0,?,Wacker Innsbruck
+Sun May 4 2014,SK Rapid,2-0,?,Wacker Innsbruck
 Sun May 4 2014,Salzburg,4-0,?,Ried
 Sun May 4 2014,Sturm Graz,1-2,?,Neustadt
 Sun May 11 2014,Wolfsberger AC,2-0,?,Salzburg
 Sun May 11 2014,Austria Vienna,1-2,?,Sturm Graz
-Sun May 11 2014,Ried,2-5,?,Rapid Vienna
+Sun May 11 2014,Ried,2-5,?,SK Rapid
 Sun May 11 2014,Wacker Innsbruck,3-3,?,Grodig
 Mon May 12 2014,Neustadt,5-2,?,Admira
