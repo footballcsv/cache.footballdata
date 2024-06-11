@@ -1,29 +1,29 @@
 Date,Team 1,FT,HT,Team 2
 Sat Mar 3 2018,Toronto FC,0-2,?,Columbus Crew
-Sat Mar 3 2018,Houston Dynamo,4-0,?,Atlanta United
+Sat Mar 3 2018,Houston Dynamo,4-0,?,Atlanta Utd
 Sat Mar 3 2018,Philadelphia Union,2-0,?,New England Revolution
 Sat Mar 3 2018,Orlando City,1-1,?,DC United
 Sat Mar 3 2018,FC Dallas,1-1,?,Real Salt Lake
 Sat Mar 3 2018,San Jose Earthquakes,3-2,?,Minnesota United
 Sun Mar 4 2018,Seattle Sounders,0-1,?,Los Angeles FC
-Sun Mar 4 2018,Vancouver Whitecaps,2-1,?,Montreal Impact
+Sun Mar 4 2018,Vancouver Whitecaps,2-1,?,CF Montreal
 Sun Mar 4 2018,Sporting Kansas City,0-2,?,New York City
 Sun Mar 4 2018,Los Angeles Galaxy,2-1,?,Portland Timbers
-Sat Mar 10 2018,Columbus Crew,3-2,?,Montreal Impact
+Sat Mar 10 2018,Columbus Crew,3-2,?,CF Montreal
 Sat Mar 10 2018,New England Revolution,2-1,?,Colorado Rapids
 Sat Mar 10 2018,Real Salt Lake,1-5,?,Los Angeles FC
 Sat Mar 10 2018,Chicago Fire,3-4,?,Sporting Kansas City
 Sat Mar 10 2018,Houston Dynamo,1-2,?,Vancouver Whitecaps
 Sat Mar 10 2018,New York Red Bulls,4-0,?,Portland Timbers
 Sat Mar 10 2018,Orlando City,1-2,?,Minnesota United
-Sun Mar 11 2018,Atlanta United,3-1,?,DC United
+Sun Mar 11 2018,Atlanta Utd,3-1,?,DC United
 Sun Mar 11 2018,New York City,2-1,?,Los Angeles Galaxy
 Sat Mar 17 2018,DC United,2-2,?,Houston Dynamo
 Sat Mar 17 2018,Minnesota United,2-1,?,Chicago Fire
 Sat Mar 17 2018,Philadelphia Union,0-0,?,Columbus Crew
-Sat Mar 17 2018,Montreal Impact,1-0,?,Toronto FC
+Sat Mar 17 2018,CF Montreal,1-0,?,Toronto FC
 Sat Mar 17 2018,New York City,2-0,?,Orlando City
-Sat Mar 17 2018,Atlanta United,4-1,?,Vancouver Whitecaps
+Sat Mar 17 2018,Atlanta Utd,4-1,?,Vancouver Whitecaps
 Sat Mar 17 2018,Sporting Kansas City,3-2,?,San Jose Earthquakes
 Sat Mar 17 2018,Real Salt Lake,1-0,?,New York Red Bulls
 Sun Mar 18 2018,FC Dallas,3-0,?,Seattle Sounders
@@ -38,14 +38,14 @@ Sat Mar 31 2018,Orlando City,4-3,?,New York Red Bulls
 Sat Mar 31 2018,Columbus Crew,1-2,?,Vancouver Whitecaps
 Sat Mar 31 2018,Los Angeles Galaxy,4-3,?,Los Angeles FC
 Sat Mar 31 2018,Chicago Fire,2-2,?,Portland Timbers
-Sat Mar 31 2018,Minnesota United,0-1,?,Atlanta United
+Sat Mar 31 2018,Minnesota United,0-1,?,Atlanta Utd
 Sat Mar 31 2018,San Jose Earthquakes,1-2,?,New York City
 Sat Mar 31 2018,Houston Dynamo,0-2,?,New England Revolution
 Sat Mar 31 2018,Sporting Kansas City,1-0,?,DC United
 Sat Mar 31 2018,Colorado Rapids,3-0,?,Philadelphia Union
-Sat Mar 31 2018,Seattle Sounders,0-1,?,Montreal Impact
-Fri Apr 6 2018,New England Revolution,4-0,?,Montreal Impact
-Sat Apr 7 2018,Atlanta United,5-0,?,Los Angeles FC
+Sat Mar 31 2018,Seattle Sounders,0-1,?,CF Montreal
+Fri Apr 6 2018,New England Revolution,4-0,?,CF Montreal
+Sat Apr 7 2018,Atlanta Utd,5-0,?,Los Angeles FC
 Sat Apr 7 2018,Philadelphia Union,1-1,?,San Jose Earthquakes
 Sat Apr 7 2018,FC Dallas,1-1,?,Colorado Rapids
 Sat Apr 7 2018,Chicago Fire,1-0,?,Columbus Crew
@@ -55,7 +55,7 @@ Sun Apr 8 2018,Los Angeles Galaxy,0-2,?,Sporting Kansas City
 Wed Apr 11 2018,New York City,4-0,?,Real Salt Lake
 Fri Apr 13 2018,Philadelphia Union,0-2,?,Orlando City
 Fri Apr 13 2018,Vancouver Whitecaps,0-2,?,Los Angeles FC
-Sat Apr 14 2018,New York Red Bulls,3-1,?,Montreal Impact
+Sat Apr 14 2018,New York Red Bulls,3-1,?,CF Montreal
 Sat Apr 14 2018,Colorado Rapids,2-0,?,Toronto FC
 Sat Apr 14 2018,Chicago Fire,0-1,?,Los Angeles Galaxy
 Sat Apr 14 2018,DC United,1-0,?,Columbus Crew
@@ -63,20 +63,20 @@ Sat Apr 14 2018,New England Revolution,0-1,?,FC Dallas
 Sat Apr 14 2018,Portland Timbers,3-2,?,Minnesota United
 Sat Apr 14 2018,San Jose Earthquakes,2-2,?,Houston Dynamo
 Sun Apr 15 2018,Sporting Kansas City,2-2,?,Seattle Sounders
-Sun Apr 15 2018,Atlanta United,2-2,?,New York City
+Sun Apr 15 2018,Atlanta Utd,2-2,?,New York City
 Fri Apr 20 2018,Sporting Kansas City,6-0,?,Vancouver Whitecaps
-Sat Apr 21 2018,Montreal Impact,3-5,?,Los Angeles FC
+Sat Apr 21 2018,CF Montreal,3-5,?,Los Angeles FC
 Sat Apr 21 2018,Houston Dynamo,5-1,?,Toronto FC
 Sat Apr 21 2018,New York Red Bulls,1-2,?,Chicago Fire
 Sat Apr 21 2018,Columbus Crew,2-2,?,New England Revolution
 Sat Apr 21 2018,Orlando City,3-2,?,San Jose Earthquakes
 Sat Apr 21 2018,FC Dallas,2-0,?,Philadelphia Union
 Sat Apr 21 2018,Real Salt Lake,3-0,?,Colorado Rapids
-Sat Apr 21 2018,Los Angeles Galaxy,0-2,?,Atlanta United
+Sat Apr 21 2018,Los Angeles Galaxy,0-2,?,Atlanta Utd
 Sun Apr 22 2018,Seattle Sounders,3-1,?,Minnesota United
 Sun Apr 22 2018,Portland Timbers,3-0,?,New York City
 Fri Apr 27 2018,Vancouver Whitecaps,2-0,?,Real Salt Lake
-Sat Apr 28 2018,Atlanta United,4-1,?,Montreal Impact
+Sat Apr 28 2018,Atlanta Utd,4-1,?,CF Montreal
 Sat Apr 28 2018,Toronto FC,2-2,?,Chicago Fire
 Sat Apr 28 2018,Philadelphia Union,3-2,?,DC United
 Sat Apr 28 2018,Columbus Crew,2-1,?,San Jose Earthquakes
@@ -87,31 +87,31 @@ Sun Apr 29 2018,Colorado Rapids,1-2,?,Orlando City
 Sun Apr 29 2018,New York City,3-1,?,FC Dallas
 Sun Apr 29 2018,Los Angeles FC,1-0,?,Seattle Sounders
 Fri May 4 2018,Toronto FC,3-0,?,Philadelphia Union
-Sat May 5 2018,Montreal Impact,4-2,?,New England Revolution
+Sat May 5 2018,CF Montreal,4-2,?,New England Revolution
 Sat May 5 2018,New York Red Bulls,4-0,?,New York City
 Sat May 5 2018,Minnesota United,1-0,?,Vancouver Whitecaps
 Sat May 5 2018,Los Angeles FC,1-1,?,FC Dallas
 Sat May 5 2018,Seattle Sounders,0-0,?,Columbus Crew
-Sat May 5 2018,Chicago Fire,1-2,?,Atlanta United
+Sat May 5 2018,Chicago Fire,1-2,?,Atlanta Utd
 Sat May 5 2018,Houston Dynamo,3-2,?,Los Angeles Galaxy
 Sat May 5 2018,Sporting Kansas City,1-0,?,Colorado Rapids
 Sat May 5 2018,San Jose Earthquakes,0-1,?,Portland Timbers
 Sun May 6 2018,Orlando City,3-1,?,Real Salt Lake
-Wed May 9 2018,Atlanta United,0-2,?,Sporting Kansas City
+Wed May 9 2018,Atlanta Utd,0-2,?,Sporting Kansas City
 Wed May 9 2018,Columbus Crew,1-0,?,Philadelphia Union
 Wed May 9 2018,Toronto FC,1-2,?,Seattle Sounders
-Wed May 9 2018,Chicago Fire,1-0,?,Montreal Impact
+Wed May 9 2018,Chicago Fire,1-0,?,CF Montreal
 Wed May 9 2018,Los Angeles FC,2-0,?,Minnesota United
 Fri May 11 2018,Vancouver Whitecaps,2-2,?,Houston Dynamo
 Sat May 12 2018,Minnesota United,1-3,?,San Jose Earthquakes
-Sat May 12 2018,Montreal Impact,0-2,?,Philadelphia Union
+Sat May 12 2018,CF Montreal,0-2,?,Philadelphia Union
 Sat May 12 2018,FC Dallas,3-2,?,Los Angeles Galaxy
 Sat May 12 2018,Columbus Crew,3-0,?,Chicago Fire
 Sat May 12 2018,New England Revolution,3-2,?,Toronto FC
 Sat May 12 2018,Colorado Rapids,1-2,?,New York Red Bulls
 Sat May 12 2018,Real Salt Lake,3-2,?,DC United
 Sun May 13 2018,Portland Timbers,1-0,?,Seattle Sounders
-Sun May 13 2018,Orlando City,1-2,?,Atlanta United
+Sun May 13 2018,Orlando City,1-2,?,Atlanta Utd
 Sun May 13 2018,Los Angeles FC,2-2,?,New York City
 Wed May 16 2018,Vancouver Whitecaps,2-2,?,San Jose Earthquakes
 Fri May 18 2018,Toronto FC,2-1,?,Orlando City
@@ -123,8 +123,8 @@ Sat May 19 2018,Philadelphia Union,4-1,?,Real Salt Lake
 Sat May 19 2018,San Jose Earthquakes,1-3,?,DC United
 Sun May 20 2018,Minnesota United,1-1,?,Sporting Kansas City
 Sun May 20 2018,Chicago Fire,2-3,?,Houston Dynamo
-Sun May 20 2018,Atlanta United,1-3,?,New York Red Bulls
-Mon May 21 2018,Montreal Impact,0-1,?,Los Angeles Galaxy
+Sun May 20 2018,Atlanta Utd,1-3,?,New York Red Bulls
+Mon May 21 2018,CF Montreal,0-1,?,Los Angeles Galaxy
 Fri May 25 2018,Toronto FC,0-1,?,FC Dallas
 Fri May 25 2018,Houston Dynamo,3-1,?,New York City
 Fri May 25 2018,Los Angeles Galaxy,1-0,?,San Jose Earthquakes
@@ -132,19 +132,19 @@ Sat May 26 2018,Seattle Sounders,0-1,?,Real Salt Lake
 Sat May 26 2018,Vancouver Whitecaps,3-3,?,New England Revolution
 Sat May 26 2018,New York Red Bulls,0-0,?,Philadelphia Union
 Sat May 26 2018,Orlando City,1-2,?,Chicago Fire
-Sat May 26 2018,Minnesota United,2-0,?,Montreal Impact
+Sat May 26 2018,Minnesota United,2-0,?,CF Montreal
 Sat May 26 2018,Colorado Rapids,2-3,?,Portland Timbers
 Sat May 26 2018,Los Angeles FC,1-1,?,DC United
 Sun May 27 2018,Sporting Kansas City,0-0,?,Columbus Crew
-Wed May 30 2018,New England Revolution,1-1,?,Atlanta United
+Wed May 30 2018,New England Revolution,1-1,?,Atlanta Utd
 Wed May 30 2018,Philadelphia Union,3-1,?,Chicago Fire
 Wed May 30 2018,Real Salt Lake,2-1,?,Houston Dynamo
 Wed May 30 2018,Los Angeles Galaxy,2-3,?,FC Dallas
 Fri Jun 1 2018,Colorado Rapids,1-2,?,Vancouver Whitecaps
 Sat Jun 2 2018,Portland Timbers,1-1,?,Los Angeles Galaxy
-Sat Jun 2 2018,Atlanta United,3-1,?,Philadelphia Union
+Sat Jun 2 2018,Atlanta Utd,3-1,?,Philadelphia Union
 Sat Jun 2 2018,Columbus Crew,3-3,?,Toronto FC
-Sat Jun 2 2018,Montreal Impact,1-0,?,Houston Dynamo
+Sat Jun 2 2018,CF Montreal,1-0,?,Houston Dynamo
 Sat Jun 2 2018,New England Revolution,2-1,?,New York Red Bulls
 Sat Jun 2 2018,New York City,3-0,?,Orlando City
 Sat Jun 2 2018,FC Dallas,2-1,?,Los Angeles FC
@@ -152,36 +152,36 @@ Sat Jun 2 2018,Chicago Fire,2-1,?,San Jose Earthquakes
 Sat Jun 2 2018,Real Salt Lake,2-0,?,Seattle Sounders
 Sun Jun 3 2018,Sporting Kansas City,4-1,?,Minnesota United
 Fri Jun 8 2018,Philadelphia Union,0-2,?,Toronto FC
-Sat Jun 9 2018,New York City,1-1,?,Atlanta United
+Sat Jun 9 2018,New York City,1-1,?,Atlanta Utd
 Sat Jun 9 2018,Columbus Crew,1-1,?,New York Red Bulls
 Sat Jun 9 2018,Vancouver Whitecaps,5-2,?,Orlando City
-Sat Jun 9 2018,FC Dallas,2-0,?,Montreal Impact
+Sat Jun 9 2018,FC Dallas,2-0,?,CF Montreal
 Sat Jun 9 2018,Chicago Fire,1-1,?,New England Revolution
 Sat Jun 9 2018,Houston Dynamo,2-0,?,Colorado Rapids
 Sat Jun 9 2018,Seattle Sounders,2-1,?,DC United
 Sat Jun 9 2018,Los Angeles Galaxy,3-0,?,Real Salt Lake
 Sat Jun 9 2018,Portland Timbers,0-0,?,Sporting Kansas City
 Sat Jun 9 2018,San Jose Earthquakes,3-4,?,Los Angeles FC
-Wed Jun 13 2018,Columbus Crew,0-2,?,Atlanta United
-Wed Jun 13 2018,Montreal Impact,3-0,?,Orlando City
+Wed Jun 13 2018,Columbus Crew,0-2,?,Atlanta Utd
+Wed Jun 13 2018,CF Montreal,3-0,?,Orlando City
 Wed Jun 13 2018,New York Red Bulls,2-1,?,Seattle Sounders
 Wed Jun 13 2018,Toronto FC,4-4,?,DC United
 Wed Jun 13 2018,Colorado Rapids,2-2,?,Chicago Fire
 Wed Jun 13 2018,San Jose Earthquakes,2-2,?,New England Revolution
 Sat Jun 23 2018,Philadelphia Union,4-0,?,Vancouver Whitecaps
 Sat Jun 23 2018,New York Red Bulls,3-0,?,FC Dallas
-Sat Jun 23 2018,Orlando City,0-2,?,Montreal Impact
+Sat Jun 23 2018,Orlando City,0-2,?,CF Montreal
 Sat Jun 23 2018,Sporting Kansas City,3-2,?,Houston Dynamo
 Sat Jun 23 2018,Colorado Rapids,3-2,?,Minnesota United
 Sat Jun 23 2018,Real Salt Lake,1-1,?,San Jose Earthquakes
 Sat Jun 23 2018,Seattle Sounders,1-1,?,Chicago Fire
 Sat Jun 23 2018,Los Angeles FC,2-0,?,Columbus Crew
-Sun Jun 24 2018,Atlanta United,1-1,?,Portland Timbers
+Sun Jun 24 2018,Atlanta Utd,1-1,?,Portland Timbers
 Sun Jun 24 2018,New York City,2-1,?,Toronto FC
 Fri Jun 29 2018,Minnesota United,0-1,?,FC Dallas
 Sat Jun 30 2018,Seattle Sounders,2-3,?,Portland Timbers
-Sat Jun 30 2018,Atlanta United,4-0,?,Orlando City
-Sat Jun 30 2018,Montreal Impact,2-0,?,Sporting Kansas City
+Sat Jun 30 2018,Atlanta Utd,4-0,?,Orlando City
+Sat Jun 30 2018,CF Montreal,2-0,?,Sporting Kansas City
 Sat Jun 30 2018,Columbus Crew,2-1,?,Real Salt Lake
 Sat Jun 30 2018,New England Revolution,3-2,?,DC United
 Sat Jun 30 2018,Chicago Fire,3-2,?,New York City
@@ -191,12 +191,12 @@ Sun Jul 1 2018,Toronto FC,0-1,?,New York Red Bulls
 Sun Jul 1 2018,Vancouver Whitecaps,0-1,?,Colorado Rapids
 Tue Jul 3 2018,Houston Dynamo,2-2,?,Los Angeles FC
 Wed Jul 4 2018,Minnesota United,4-3,?,Toronto FC
-Wed Jul 4 2018,FC Dallas,3-2,?,Atlanta United
+Wed Jul 4 2018,FC Dallas,3-2,?,Atlanta Utd
 Wed Jul 4 2018,Colorado Rapids,1-2,?,Seattle Sounders
 Wed Jul 4 2018,Real Salt Lake,4-2,?,Sporting Kansas City
 Wed Jul 4 2018,Los Angeles Galaxy,2-2,?,DC United
-Sat Jul 7 2018,Philadelphia Union,0-2,?,Atlanta United
-Sat Jul 7 2018,Montreal Impact,2-1,?,Colorado Rapids
+Sat Jul 7 2018,Philadelphia Union,0-2,?,Atlanta Utd
+Sat Jul 7 2018,CF Montreal,2-1,?,Colorado Rapids
 Sat Jul 7 2018,New England Revolution,0-0,?,Seattle Sounders
 Sat Jul 7 2018,Sporting Kansas City,2-2,?,Toronto FC
 Sat Jul 7 2018,Houston Dynamo,3-0,?,Minnesota United
@@ -206,21 +206,21 @@ Sat Jul 7 2018,Vancouver Whitecaps,3-2,?,Chicago Fire
 Sat Jul 7 2018,Los Angeles FC,4-1,?,Orlando City
 Sat Jul 7 2018,Portland Timbers,2-1,?,San Jose Earthquakes
 Sun Jul 8 2018,New York City,1-0,?,New York Red Bulls
-Wed Jul 11 2018,New York City,3-0,?,Montreal Impact
+Wed Jul 11 2018,New York City,3-0,?,CF Montreal
 Wed Jul 11 2018,Chicago Fire,3-4,?,Philadelphia Union
 Sat Jul 14 2018,New York City,2-0,?,Columbus Crew
 Sat Jul 14 2018,New York Red Bulls,3-2,?,Sporting Kansas City
-Sat Jul 14 2018,Montreal Impact,2-0,?,San Jose Earthquakes
+Sat Jul 14 2018,CF Montreal,2-0,?,San Jose Earthquakes
 Sat Jul 14 2018,New England Revolution,2-3,?,Los Angeles Galaxy
 Sat Jul 14 2018,DC United,3-1,?,Vancouver Whitecaps
 Sat Jul 14 2018,FC Dallas,3-1,?,Chicago Fire
 Sat Jul 14 2018,Minnesota United,3-2,?,Real Salt Lake
 Sat Jul 14 2018,Orlando City,2-1,?,Toronto FC
 Sat Jul 14 2018,Colorado Rapids,0-0,?,Houston Dynamo
-Sun Jul 15 2018,Atlanta United,1-1,?,Seattle Sounders
+Sun Jul 15 2018,Atlanta Utd,1-1,?,Seattle Sounders
 Sun Jul 15 2018,Los Angeles FC,0-0,?,Portland Timbers
 Wed Jul 18 2018,Minnesota United,2-1,?,New England Revolution
-Sat Jul 21 2018,Atlanta United,3-1,?,DC United
+Sat Jul 21 2018,Atlanta Utd,3-1,?,DC United
 Sat Jul 21 2018,Seattle Sounders,2-0,?,Vancouver Whitecaps
 Sat Jul 21 2018,Chicago Fire,1-2,?,Toronto FC
 Sat Jul 21 2018,New York Red Bulls,2-0,?,New England Revolution
@@ -228,14 +228,14 @@ Sat Jul 21 2018,Philadelphia Union,1-3,?,Los Angeles Galaxy
 Sat Jul 21 2018,Columbus Crew,3-2,?,Orlando City
 Sat Jul 21 2018,Houston Dynamo,1-1,?,FC Dallas
 Sat Jul 21 2018,Real Salt Lake,2-2,?,Colorado Rapids
-Sat Jul 21 2018,Portland Timbers,2-2,?,Montreal Impact
+Sat Jul 21 2018,Portland Timbers,2-2,?,CF Montreal
 Sun Jul 22 2018,Minnesota United,5-1,?,Los Angeles FC
 Wed Jul 25 2018,DC United,0-1,?,New York Red Bulls
 Wed Jul 25 2018,Houston Dynamo,1-3,?,Philadelphia Union
 Wed Jul 25 2018,San Jose Earthquakes,0-1,?,Seattle Sounders
 Thu Jul 26 2018,Orlando City,0-2,?,New York City
 Thu Jul 26 2018,Los Angeles FC,2-2,?,Los Angeles Galaxy
-Sat Jul 28 2018,Montreal Impact,1-2,?,Atlanta United
+Sat Jul 28 2018,CF Montreal,1-2,?,Atlanta Utd
 Sat Jul 28 2018,New York Red Bulls,2-3,?,Columbus Crew
 Sat Jul 28 2018,Toronto FC,3-0,?,Chicago Fire
 Sat Jul 28 2018,DC United,2-1,?,Colorado Rapids
@@ -245,8 +245,8 @@ Sat Jul 28 2018,San Jose Earthquakes,0-0,?,Real Salt Lake
 Sat Jul 28 2018,Portland Timbers,2-1,?,Houston Dynamo
 Sun Jul 29 2018,Seattle Sounders,3-1,?,New York City
 Sun Jul 29 2018,Los Angeles Galaxy,4-3,?,Orlando City
-Sat Aug 4 2018,Atlanta United,2-2,?,Toronto FC
-Sat Aug 4 2018,Montreal Impact,1-1,?,DC United
+Sat Aug 4 2018,Atlanta Utd,2-2,?,Toronto FC
+Sat Aug 4 2018,CF Montreal,1-1,?,DC United
 Sat Aug 4 2018,Orlando City,3-3,?,New England Revolution
 Sat Aug 4 2018,FC Dallas,1-3,?,San Jose Earthquakes
 Sat Aug 4 2018,Minnesota United,1-2,?,Seattle Sounders
@@ -260,7 +260,7 @@ Sat Aug 11 2018,Columbus Crew,1-0,?,Houston Dynamo
 Sat Aug 11 2018,New England Revolution,2-3,?,Philadelphia Union
 Sat Aug 11 2018,Chicago Fire,0-1,?,New York Red Bulls
 Sat Aug 11 2018,Colorado Rapids,2-1,?,San Jose Earthquakes
-Sat Aug 11 2018,Real Salt Lake,1-1,?,Montreal Impact
+Sat Aug 11 2018,Real Salt Lake,1-1,?,CF Montreal
 Sat Aug 11 2018,Los Angeles FC,0-2,?,Sporting Kansas City
 Sat Aug 11 2018,Los Angeles Galaxy,2-2,?,Minnesota United
 Sat Aug 11 2018,Portland Timbers,1-2,?,Vancouver Whitecaps
@@ -273,21 +273,21 @@ Wed Aug 15 2018,Los Angeles FC,2-0,?,Real Salt Lake
 Sat Aug 18 2018,Seattle Sounders,5-0,?,Los Angeles Galaxy
 Sat Aug 18 2018,Philadelphia Union,2-0,?,New York City
 Sat Aug 18 2018,Vancouver Whitecaps,2-2,?,New York Red Bulls
-Sat Aug 18 2018,Montreal Impact,2-1,?,Chicago Fire
+Sat Aug 18 2018,CF Montreal,2-1,?,Chicago Fire
 Sat Aug 18 2018,FC Dallas,2-0,?,Minnesota United
 Sat Aug 18 2018,Sporting Kansas City,3-0,?,Portland Timbers
 Sat Aug 18 2018,Houston Dynamo,1-2,?,Real Salt Lake
 Sat Aug 18 2018,San Jose Earthquakes,1-1,?,Toronto FC
-Sun Aug 19 2018,Atlanta United,3-1,?,Columbus Crew
+Sun Aug 19 2018,Atlanta Utd,3-1,?,Columbus Crew
 Sun Aug 19 2018,DC United,2-0,?,New England Revolution
 Sun Aug 19 2018,Los Angeles FC,2-0,?,Colorado Rapids
 Wed Aug 22 2018,New York City,1-1,?,New York Red Bulls
 Thu Aug 23 2018,Chicago Fire,1-1,?,Columbus Crew
 Thu Aug 23 2018,Houston Dynamo,1-1,?,FC Dallas
-Fri Aug 24 2018,Orlando City,1-2,?,Atlanta United
+Fri Aug 24 2018,Orlando City,1-2,?,Atlanta Utd
 Fri Aug 24 2018,Los Angeles Galaxy,1-1,?,Los Angeles FC
 Sat Aug 25 2018,Philadelphia Union,1-0,?,New England Revolution
-Sat Aug 25 2018,Toronto FC,3-1,?,Montreal Impact
+Sat Aug 25 2018,Toronto FC,3-1,?,CF Montreal
 Sat Aug 25 2018,Sporting Kansas City,2-0,?,Minnesota United
 Sat Aug 25 2018,Colorado Rapids,0-6,?,Real Salt Lake
 Sat Aug 25 2018,San Jose Earthquakes,2-3,?,Vancouver Whitecaps
@@ -298,7 +298,7 @@ Wed Aug 29 2018,New York Red Bulls,1-0,?,Houston Dynamo
 Wed Aug 29 2018,Portland Timbers,2-0,?,Toronto FC
 Wed Aug 29 2018,San Jose Earthquakes,4-3,?,FC Dallas
 Sat Sep 1 2018,Seattle Sounders,3-1,?,Sporting Kansas City
-Sat Sep 1 2018,Montreal Impact,3-0,?,New York Red Bulls
+Sat Sep 1 2018,CF Montreal,3-0,?,New York Red Bulls
 Sat Sep 1 2018,New England Revolution,1-1,?,Portland Timbers
 Sat Sep 1 2018,Orlando City,2-2,?,Philadelphia Union
 Sat Sep 1 2018,Columbus Crew,2-1,?,New York City
@@ -306,14 +306,14 @@ Sat Sep 1 2018,FC Dallas,4-2,?,Houston Dynamo
 Sat Sep 1 2018,Toronto FC,2-4,?,Los Angeles FC
 Sat Sep 1 2018,Real Salt Lake,6-2,?,Los Angeles Galaxy
 Sat Sep 1 2018,Vancouver Whitecaps,2-1,?,San Jose Earthquakes
-Sun Sep 2 2018,DC United,3-1,?,Atlanta United
+Sun Sep 2 2018,DC United,3-1,?,Atlanta Utd
 Wed Sep 5 2018,New York City,0-1,?,New England Revolution
 Sat Sep 8 2018,New York City,1-1,?,DC United
 Sat Sep 8 2018,Sporting Kansas City,1-0,?,Orlando City
 Sat Sep 8 2018,Portland Timbers,2-0,?,Colorado Rapids
 Wed Sep 12 2018,DC United,2-1,?,Minnesota United
-Sat Sep 15 2018,Colorado Rapids,0-3,?,Atlanta United
-Sat Sep 15 2018,Philadelphia Union,1-4,?,Montreal Impact
+Sat Sep 15 2018,Colorado Rapids,0-3,?,Atlanta Utd
+Sat Sep 15 2018,Philadelphia Union,1-4,?,CF Montreal
 Sat Sep 15 2018,Toronto FC,5-3,?,Los Angeles Galaxy
 Sat Sep 15 2018,FC Dallas,0-0,?,Columbus Crew
 Sat Sep 15 2018,Houston Dynamo,4-1,?,Portland Timbers
@@ -324,13 +324,13 @@ Sat Sep 15 2018,San Jose Earthquakes,1-5,?,Sporting Kansas City
 Sun Sep 16 2018,DC United,3-3,?,New York Red Bulls
 Sun Sep 16 2018,Chicago Fire,4-0,?,Orlando City
 Wed Sep 19 2018,Portland Timbers,3-2,?,Columbus Crew
-Wed Sep 19 2018,San Jose Earthquakes,3-4,?,Atlanta United
+Wed Sep 19 2018,San Jose Earthquakes,3-4,?,Atlanta Utd
 Wed Sep 19 2018,Seattle Sounders,0-1,?,Philadelphia Union
 Sat Sep 22 2018,Los Angeles FC,2-0,?,San Jose Earthquakes
 Sat Sep 22 2018,New York Red Bulls,2-0,?,Toronto FC
-Sat Sep 22 2018,Atlanta United,2-0,?,Real Salt Lake
+Sat Sep 22 2018,Atlanta Utd,2-0,?,Real Salt Lake
 Sat Sep 22 2018,Columbus Crew,2-1,?,Colorado Rapids
-Sat Sep 22 2018,Montreal Impact,1-1,?,New York City
+Sat Sep 22 2018,CF Montreal,1-1,?,New York City
 Sat Sep 22 2018,New England Revolution,2-2,?,Chicago Fire
 Sat Sep 22 2018,Orlando City,0-0,?,Houston Dynamo
 Sat Sep 22 2018,Minnesota United,3-2,?,Portland Timbers
@@ -340,17 +340,17 @@ Sun Sep 23 2018,Vancouver Whitecaps,1-2,?,FC Dallas
 Wed Sep 26 2018,New York City,2-0,?,Chicago Fire
 Sat Sep 29 2018,Chicago Fire,3-1,?,Los Angeles FC
 Sat Sep 29 2018,Seattle Sounders,4-0,?,Colorado Rapids
-Sat Sep 29 2018,DC United,5-0,?,Montreal Impact
+Sat Sep 29 2018,DC United,5-0,?,CF Montreal
 Sat Sep 29 2018,Columbus Crew,0-0,?,Philadelphia Union
 Sat Sep 29 2018,Toronto FC,4-1,?,New England Revolution
 Sat Sep 29 2018,Minnesota United,2-1,?,New York City
 Sat Sep 29 2018,Houston Dynamo,3-2,?,San Jose Earthquakes
 Sat Sep 29 2018,Los Angeles Galaxy,3-0,?,Vancouver Whitecaps
 Sat Sep 29 2018,Portland Timbers,0-0,?,FC Dallas
-Sun Sep 30 2018,New York Red Bulls,2-0,?,Atlanta United
+Sun Sep 30 2018,New York Red Bulls,2-0,?,Atlanta Utd
 Sun Sep 30 2018,Sporting Kansas City,1-1,?,Real Salt Lake
-Sat Oct 6 2018,Montreal Impact,3-0,?,Columbus Crew
-Sat Oct 6 2018,Atlanta United,2-1,?,New England Revolution
+Sat Oct 6 2018,CF Montreal,3-0,?,Columbus Crew
+Sat Oct 6 2018,Atlanta Utd,2-1,?,New England Revolution
 Sat Oct 6 2018,Toronto FC,1-2,?,Vancouver Whitecaps
 Sat Oct 6 2018,Philadelphia Union,5-1,?,Minnesota United
 Sat Oct 6 2018,FC Dallas,2-0,?,Orlando City
@@ -368,9 +368,9 @@ Wed Oct 17 2018,DC United,1-0,?,Toronto FC
 Wed Oct 17 2018,Orlando City,1-2,?,Seattle Sounders
 Wed Oct 17 2018,Vancouver Whitecaps,1-4,?,Sporting Kansas City
 Thu Oct 18 2018,Real Salt Lake,4-1,?,New England Revolution
-Sun Oct 21 2018,Atlanta United,2-1,?,Chicago Fire
+Sun Oct 21 2018,Atlanta Utd,2-1,?,Chicago Fire
 Sun Oct 21 2018,DC United,3-1,?,New York City
-Sun Oct 21 2018,Montreal Impact,2-0,?,Toronto FC
+Sun Oct 21 2018,CF Montreal,2-0,?,Toronto FC
 Sun Oct 21 2018,Orlando City,2-1,?,Columbus Crew
 Sun Oct 21 2018,Philadelphia Union,0-1,?,New York Red Bulls
 Sun Oct 21 2018,FC Dallas,0-3,?,Sporting Kansas City
@@ -383,12 +383,12 @@ Sun Oct 28 2018,Chicago Fire,0-0,?,DC United
 Sun Oct 28 2018,Colorado Rapids,2-1,?,FC Dallas
 Sun Oct 28 2018,Columbus Crew,3-2,?,Minnesota United
 Sun Oct 28 2018,Los Angeles Galaxy,2-3,?,Houston Dynamo
-Sun Oct 28 2018,New England Revolution,1-0,?,Montreal Impact
+Sun Oct 28 2018,New England Revolution,1-0,?,CF Montreal
 Sun Oct 28 2018,New York City,3-1,?,Philadelphia Union
 Sun Oct 28 2018,New York Red Bulls,1-0,?,Orlando City
 Sun Oct 28 2018,Seattle Sounders,2-1,?,San Jose Earthquakes
 Sun Oct 28 2018,Sporting Kansas City,2-1,?,Los Angeles FC
-Sun Oct 28 2018,Toronto FC,4-1,?,Atlanta United
+Sun Oct 28 2018,Toronto FC,4-1,?,Atlanta Utd
 Sun Oct 28 2018,Vancouver Whitecaps,2-1,?,Portland Timbers
 Wed Oct 31 2018,New York City,3-1,?,Philadelphia Union
 Wed Oct 31 2018,FC Dallas,1-2,?,Portland Timbers
@@ -396,14 +396,14 @@ Thu Nov 1 2018,DC United,1-1,?,Columbus Crew
 Thu Nov 1 2018,Los Angeles FC,2-3,?,Real Salt Lake
 Sun Nov 4 2018,Columbus Crew,1-0,?,New York Red Bulls
 Sun Nov 4 2018,Portland Timbers,2-1,?,Seattle Sounders
-Sun Nov 4 2018,New York City,0-1,?,Atlanta United
+Sun Nov 4 2018,New York City,0-1,?,Atlanta Utd
 Sun Nov 4 2018,Real Salt Lake,1-1,?,Sporting Kansas City
 Thu Nov 8 2018,Seattle Sounders,2-1,?,Portland Timbers
 Sun Nov 11 2018,Sporting Kansas City,4-2,?,Real Salt Lake
-Sun Nov 11 2018,Atlanta United,3-1,?,New York City
+Sun Nov 11 2018,Atlanta Utd,3-1,?,New York City
 Sun Nov 11 2018,New York Red Bulls,3-0,?,Columbus Crew
-Sun Nov 25 2018,Atlanta United,3-0,?,New York Red Bulls
+Sun Nov 25 2018,Atlanta Utd,3-0,?,New York Red Bulls
 Sun Nov 25 2018,Portland Timbers,0-0,?,Sporting Kansas City
-Thu Nov 29 2018,New York Red Bulls,1-0,?,Atlanta United
+Thu Nov 29 2018,New York Red Bulls,1-0,?,Atlanta Utd
 Thu Nov 29 2018,Sporting Kansas City,2-3,?,Portland Timbers
-Sat Dec 8 2018,Atlanta United,2-0,?,Portland Timbers
+Sat Dec 8 2018,Atlanta Utd,2-0,?,Portland Timbers

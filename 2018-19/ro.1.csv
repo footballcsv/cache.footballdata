@@ -1,7 +1,7 @@
 Date,Team 1,FT,HT,Team 2
 Fri Jul 20 2018,CFR Cluj,1-1,?,FC Botosani
 Sat Jul 21 2018,FC Hermannstadt,1-0,?,Sepsi Sf. Gheorghe
-Sat Jul 21 2018,Astra,1-0,?,FC Steaua Bucuresti
+Sat Jul 21 2018,Astra,1-0,?,FCSB
 Sun Jul 22 2018,Viitorul Constanta,0-1,?,Calarasi
 Sun Jul 22 2018,Din. Bucuresti,2-1,?,FC Voluntari
 Mon Jul 23 2018,Gaz Metan Medias,2-1,?,Concordia
@@ -10,14 +10,14 @@ Fri Jul 27 2018,FC Botosani,2-0,?,FC Hermannstadt
 Sat Jul 28 2018,Calarasi,0-0,?,CFR Cluj
 Sat Jul 28 2018,Poli Iasi,1-1,?,Astra
 Sun Jul 29 2018,Sepsi Sf. Gheorghe,1-0,?,U Craiova
-Sun Jul 29 2018,FC Steaua Bucuresti,3-3,?,Din. Bucuresti
+Sun Jul 29 2018,FCSB,3-3,?,Din. Bucuresti
 Mon Jul 30 2018,FC Voluntari,1-1,?,Gaz Metan Medias
 Mon Jul 30 2018,Concordia,1-1,?,Viitorul Constanta
 Fri Aug 3 2018,U Craiova,2-2,?,FC Botosani
 Sat Aug 4 2018,Astra,1-1,?,Sepsi Sf. Gheorghe
 Sat Aug 4 2018,CFR Cluj,2-1,?,Concordia
 Sun Aug 5 2018,FC Hermannstadt,1-1,?,Calarasi
-Sun Aug 5 2018,FC Steaua Bucuresti,4-0,?,Poli Iasi
+Sun Aug 5 2018,FCSB,4-0,?,Poli Iasi
 Mon Aug 6 2018,Viitorul Constanta,2-0,?,FC Voluntari
 Mon Aug 6 2018,Gaz Metan Medias,3-2,?,Din. Bucuresti
 Fri Aug 10 2018,FC Botosani,1-1,?,Astra
@@ -25,12 +25,12 @@ Sat Aug 11 2018,Concordia,2-0,?,FC Hermannstadt
 Sat Aug 11 2018,Sepsi Sf. Gheorghe,3-0,?,Poli Iasi
 Sun Aug 12 2018,Calarasi,1-3,?,U Craiova
 Sun Aug 12 2018,FC Voluntari,1-2,?,CFR Cluj
-Sun Aug 12 2018,Gaz Metan Medias,1-3,?,FC Steaua Bucuresti
+Sun Aug 12 2018,Gaz Metan Medias,1-3,?,FCSB
 Mon Aug 13 2018,Din. Bucuresti,1-0,?,Viitorul Constanta
 Fri Aug 17 2018,Poli Iasi,2-1,?,FC Botosani
 Sat Aug 18 2018,Astra,1-1,?,Calarasi
 Sat Aug 18 2018,Viitorul Constanta,2-0,?,Gaz Metan Medias
-Sun Aug 19 2018,FC Steaua Bucuresti,2-0,?,Sepsi Sf. Gheorghe
+Sun Aug 19 2018,FCSB,2-0,?,Sepsi Sf. Gheorghe
 Sun Aug 19 2018,CFR Cluj,3-1,?,Din. Bucuresti
 Mon Aug 20 2018,FC Hermannstadt,4-0,?,FC Voluntari
 Mon Aug 20 2018,U Craiova,0-1,?,Concordia
@@ -38,7 +38,7 @@ Fri Aug 24 2018,Concordia,0-3,?,Astra
 Sat Aug 25 2018,Calarasi,2-0,?,Poli Iasi
 Sat Aug 25 2018,Din. Bucuresti,2-1,?,FC Hermannstadt
 Sun Aug 26 2018,Gaz Metan Medias,0-0,?,CFR Cluj
-Sun Aug 26 2018,Viitorul Constanta,1-4,?,FC Steaua Bucuresti
+Sun Aug 26 2018,Viitorul Constanta,1-4,?,FCSB
 Mon Aug 27 2018,FC Botosani,0-0,?,Sepsi Sf. Gheorghe
 Mon Aug 27 2018,FC Voluntari,1-5,?,U Craiova
 Fri Aug 31 2018,Sepsi Sf. Gheorghe,1-0,?,Calarasi
@@ -46,27 +46,27 @@ Sat Sep 1 2018,FC Hermannstadt,0-1,?,Gaz Metan Medias
 Sat Sep 1 2018,Astra,0-0,?,FC Voluntari
 Sat Sep 1 2018,U Craiova,3-0,?,Din. Bucuresti
 Sun Sep 2 2018,CFR Cluj,1-2,?,Viitorul Constanta
-Sun Sep 2 2018,FC Steaua Bucuresti,2-2,?,FC Botosani
+Sun Sep 2 2018,FCSB,2-2,?,FC Botosani
 Mon Sep 3 2018,Poli Iasi,3-0,?,Concordia
 Fri Sep 14 2018,Concordia,0-3,?,Sepsi Sf. Gheorghe
 Fri Sep 14 2018,Din. Bucuresti,1-2,?,Astra
 Sat Sep 15 2018,Calarasi,3-2,?,FC Botosani
 Sat Sep 15 2018,Gaz Metan Medias,3-2,?,U Craiova
 Sun Sep 16 2018,FC Voluntari,2-3,?,Poli Iasi
-Sun Sep 16 2018,CFR Cluj,1-1,?,FC Steaua Bucuresti
+Sun Sep 16 2018,CFR Cluj,1-1,?,FCSB
 Mon Sep 17 2018,Viitorul Constanta,1-0,?,FC Hermannstadt
 Fri Sep 21 2018,Sepsi Sf. Gheorghe,1-1,?,FC Voluntari
 Fri Sep 21 2018,Poli Iasi,1-0,?,Din. Bucuresti
 Sat Sep 22 2018,FC Hermannstadt,0-1,?,CFR Cluj
 Sat Sep 22 2018,FC Botosani,0-2,?,Concordia
 Sat Sep 22 2018,U Craiova,2-0,?,Viitorul Constanta
-Sun Sep 23 2018,FC Steaua Bucuresti,2-0,?,Calarasi
+Sun Sep 23 2018,FCSB,2-0,?,Calarasi
 Mon Sep 24 2018,Astra,3-0,?,Gaz Metan Medias
 Fri Sep 28 2018,Din. Bucuresti,0-0,?,Sepsi Sf. Gheorghe
 Sat Sep 29 2018,FC Voluntari,1-1,?,FC Botosani
 Sun Sep 30 2018,Gaz Metan Medias,1-0,?,Poli Iasi
 Sun Sep 30 2018,Viitorul Constanta,1-0,?,Astra
-Sun Sep 30 2018,FC Hermannstadt,1-3,?,FC Steaua Bucuresti
+Sun Sep 30 2018,FC Hermannstadt,1-3,?,FCSB
 Mon Oct 1 2018,Concordia,1-1,?,Calarasi
 Mon Oct 1 2018,CFR Cluj,0-0,?,U Craiova
 Fri Oct 5 2018,Poli Iasi,1-2,?,Viitorul Constanta
@@ -74,19 +74,19 @@ Sat Oct 6 2018,U Craiova,1-1,?,FC Hermannstadt
 Sat Oct 6 2018,Astra,1-2,?,CFR Cluj
 Sun Oct 7 2018,Calarasi,1-1,?,FC Voluntari
 Sun Oct 7 2018,Sepsi Sf. Gheorghe,1-2,?,Gaz Metan Medias
-Sun Oct 7 2018,FC Steaua Bucuresti,0-1,?,Concordia
+Sun Oct 7 2018,FCSB,0-1,?,Concordia
 Mon Oct 8 2018,FC Botosani,2-0,?,Din. Bucuresti
 Fri Oct 19 2018,FC Voluntari,4-0,?,Concordia
 Fri Oct 19 2018,CFR Cluj,1-0,?,Poli Iasi
 Sat Oct 20 2018,FC Hermannstadt,0-2,?,Astra
 Sat Oct 20 2018,Viitorul Constanta,2-3,?,Sepsi Sf. Gheorghe
 Sun Oct 21 2018,Gaz Metan Medias,1-2,?,FC Botosani
-Sun Oct 21 2018,U Craiova,2-1,?,FC Steaua Bucuresti
+Sun Oct 21 2018,U Craiova,2-1,?,FCSB
 Mon Oct 22 2018,Din. Bucuresti,1-1,?,Calarasi
 Fri Oct 26 2018,Poli Iasi,0-2,?,FC Hermannstadt
 Fri Oct 26 2018,Astra,0-3,?,U Craiova
 Sat Oct 27 2018,FC Botosani,1-2,?,Viitorul Constanta
-Sat Oct 27 2018,FC Steaua Bucuresti,2-1,?,FC Voluntari
+Sat Oct 27 2018,FCSB,2-1,?,FC Voluntari
 Sun Oct 28 2018,Calarasi,0-0,?,Gaz Metan Medias
 Sun Oct 28 2018,Sepsi Sf. Gheorghe,1-2,?,CFR Cluj
 Mon Oct 29 2018,Concordia,0-0,?,Din. Bucuresti
@@ -94,14 +94,14 @@ Fri Nov 2 2018,Poli Iasi,0-3,?,U Craiova
 Sat Nov 3 2018,Sepsi Sf. Gheorghe,1-3,?,FC Hermannstadt
 Sat Nov 3 2018,FC Botosani,1-5,?,CFR Cluj
 Sun Nov 4 2018,Calarasi,0-1,?,Viitorul Constanta
-Sun Nov 4 2018,FC Steaua Bucuresti,1-0,?,Astra
+Sun Nov 4 2018,FCSB,1-0,?,Astra
 Mon Nov 5 2018,Concordia,0-0,?,Gaz Metan Medias
 Mon Nov 5 2018,FC Voluntari,0-1,?,Din. Bucuresti
 Fri Nov 9 2018,U Craiova,1-1,?,Sepsi Sf. Gheorghe
 Sat Nov 10 2018,Astra,1-2,?,Poli Iasi
 Sat Nov 10 2018,Viitorul Constanta,0-0,?,Concordia
 Sat Nov 10 2018,CFR Cluj,0-0,?,Calarasi
-Sun Nov 11 2018,Din. Bucuresti,1-1,?,FC Steaua Bucuresti
+Sun Nov 11 2018,Din. Bucuresti,1-1,?,FCSB
 Mon Nov 12 2018,FC Hermannstadt,1-1,?,FC Botosani
 Mon Nov 12 2018,Gaz Metan Medias,2-0,?,FC Voluntari
 Fri Nov 23 2018,Din. Bucuresti,1-1,?,Gaz Metan Medias
@@ -109,19 +109,19 @@ Sat Nov 24 2018,Sepsi Sf. Gheorghe,1-0,?,Astra
 Sat Nov 24 2018,Concordia,0-1,?,CFR Cluj
 Sun Nov 25 2018,Calarasi,0-1,?,FC Hermannstadt
 Sun Nov 25 2018,FC Voluntari,1-2,?,Viitorul Constanta
-Sun Nov 25 2018,Poli Iasi,1-2,?,FC Steaua Bucuresti
+Sun Nov 25 2018,Poli Iasi,1-2,?,FCSB
 Mon Nov 26 2018,FC Botosani,2-1,?,U Craiova
 Fri Nov 30 2018,Poli Iasi,1-1,?,Sepsi Sf. Gheorghe
 Fri Nov 30 2018,CFR Cluj,5-0,?,FC Voluntari
 Sat Dec 1 2018,FC Hermannstadt,2-1,?,Concordia
 Sat Dec 1 2018,Viitorul Constanta,4-1,?,Din. Bucuresti
 Sun Dec 2 2018,U Craiova,1-0,?,Calarasi
-Sun Dec 2 2018,FC Steaua Bucuresti,2-1,?,Gaz Metan Medias
+Sun Dec 2 2018,FCSB,2-1,?,Gaz Metan Medias
 Mon Dec 3 2018,Astra,1-1,?,FC Botosani
 Tue Dec 4 2018,FC Voluntari,2-0,?,FC Hermannstadt
 Tue Dec 4 2018,Din. Bucuresti,0-3,?,CFR Cluj
 Wed Dec 5 2018,Gaz Metan Medias,2-2,?,Viitorul Constanta
-Wed Dec 5 2018,Sepsi Sf. Gheorghe,4-2,?,FC Steaua Bucuresti
+Wed Dec 5 2018,Sepsi Sf. Gheorghe,4-2,?,FCSB
 Thu Dec 6 2018,Calarasi,1-2,?,Astra
 Thu Dec 6 2018,FC Botosani,1-2,?,Poli Iasi
 Thu Dec 6 2018,Concordia,1-3,?,U Craiova
@@ -130,14 +130,14 @@ Sat Dec 8 2018,CFR Cluj,2-2,?,Gaz Metan Medias
 Sun Dec 9 2018,Poli Iasi,1-0,?,Calarasi
 Sun Dec 9 2018,Astra,3-1,?,Concordia
 Mon Dec 10 2018,Sepsi Sf. Gheorghe,0-1,?,FC Botosani
-Mon Dec 10 2018,FC Steaua Bucuresti,2-0,?,Viitorul Constanta
+Mon Dec 10 2018,FCSB,2-0,?,Viitorul Constanta
 Mon Dec 10 2018,U Craiova,3-1,?,FC Voluntari
 Fri Dec 14 2018,Concordia,3-6,?,Poli Iasi
 Sat Dec 15 2018,FC Voluntari,1-1,?,Astra
 Sat Dec 15 2018,Gaz Metan Medias,0-2,?,FC Hermannstadt
 Sat Dec 15 2018,Din. Bucuresti,3-0,?,U Craiova
 Sun Dec 16 2018,Calarasi,0-3,?,Sepsi Sf. Gheorghe
-Sun Dec 16 2018,FC Botosani,1-3,?,FC Steaua Bucuresti
+Sun Dec 16 2018,FC Botosani,1-3,?,FCSB
 Mon Dec 17 2018,Viitorul Constanta,0-1,?,CFR Cluj
 Wed Dec 19 2018,U Craiova,2-0,?,Gaz Metan Medias
 Thu Dec 20 2018,FC Botosani,1-0,?,Calarasi
@@ -145,10 +145,10 @@ Thu Dec 20 2018,Astra,4-1,?,Din. Bucuresti
 Fri Dec 21 2018,Poli Iasi,2-2,?,FC Voluntari
 Fri Dec 21 2018,Sepsi Sf. Gheorghe,3-0,?,Concordia
 Sat Dec 22 2018,FC Hermannstadt,1-0,?,Viitorul Constanta
-Sat Dec 22 2018,FC Steaua Bucuresti,0-2,?,CFR Cluj
+Sat Dec 22 2018,FCSB,0-2,?,CFR Cluj
 Fri Feb 1 2019,Concordia,0-1,?,FC Botosani
 Fri Feb 1 2019,Gaz Metan Medias,1-1,?,Astra
-Sat Feb 2 2019,Calarasi,1-1,?,FC Steaua Bucuresti
+Sat Feb 2 2019,Calarasi,1-1,?,FCSB
 Sat Feb 2 2019,CFR Cluj,1-1,?,FC Hermannstadt
 Sun Feb 3 2019,FC Voluntari,4-2,?,Sepsi Sf. Gheorghe
 Sun Feb 3 2019,Viitorul Constanta,0-0,?,U Craiova
@@ -159,24 +159,24 @@ Sun Feb 10 2019,Calarasi,2-1,?,Concordia
 Sun Feb 10 2019,Poli Iasi,1-0,?,Gaz Metan Medias
 Sun Feb 10 2019,U Craiova,2-0,?,CFR Cluj
 Mon Feb 11 2019,FC Botosani,1-0,?,FC Voluntari
-Mon Feb 11 2019,FC Steaua Bucuresti,3-0,?,FC Hermannstadt
+Mon Feb 11 2019,FCSB,3-0,?,FC Hermannstadt
 Fri Feb 15 2019,Viitorul Constanta,0-1,?,Poli Iasi
 Sat Feb 16 2019,FC Hermannstadt,0-1,?,U Craiova
 Sat Feb 16 2019,CFR Cluj,1-1,?,Astra
 Sun Feb 17 2019,FC Voluntari,0-0,?,Calarasi
 Sun Feb 17 2019,Gaz Metan Medias,0-1,?,Sepsi Sf. Gheorghe
 Sun Feb 17 2019,Din. Bucuresti,1-2,?,FC Botosani
-Mon Feb 18 2019,Concordia,0-0,?,FC Steaua Bucuresti
+Mon Feb 18 2019,Concordia,0-0,?,FCSB
 Fri Feb 22 2019,Sepsi Sf. Gheorghe,0-0,?,Viitorul Constanta
 Sat Feb 23 2019,Astra,1-0,?,FC Hermannstadt
 Sat Feb 23 2019,Poli Iasi,0-1,?,CFR Cluj
 Sun Feb 24 2019,Calarasi,0-0,?,Din. Bucuresti
 Sun Feb 24 2019,FC Botosani,1-1,?,Gaz Metan Medias
-Sun Feb 24 2019,FC Steaua Bucuresti,3-2,?,U Craiova
+Sun Feb 24 2019,FCSB,3-2,?,U Craiova
 Mon Feb 25 2019,Concordia,1-3,?,FC Voluntari
 Fri Mar 1 2019,Din. Bucuresti,2-1,?,Concordia
 Sat Mar 2 2019,Gaz Metan Medias,0-0,?,Calarasi
-Sat Mar 2 2019,FC Voluntari,2-2,?,FC Steaua Bucuresti
+Sat Mar 2 2019,FC Voluntari,2-2,?,FCSB
 Sun Mar 3 2019,FC Hermannstadt,2-0,?,Poli Iasi
 Sun Mar 3 2019,Viitorul Constanta,1-0,?,FC Botosani
 Sun Mar 3 2019,CFR Cluj,1-0,?,Sepsi Sf. Gheorghe
@@ -187,19 +187,19 @@ Sat Mar 9 2019,CFR Cluj,3-1,?,Sepsi Sf. Gheorghe
 Sun Mar 10 2019,Poli Iasi,0-2,?,FC Voluntari
 Sun Mar 10 2019,U Craiova,1-0,?,Astra
 Mon Mar 11 2019,FC Botosani,0-0,?,Concordia
-Mon Mar 11 2019,FC Steaua Bucuresti,1-2,?,Viitorul Constanta
+Mon Mar 11 2019,FCSB,1-2,?,Viitorul Constanta
 Fri Mar 15 2019,Sepsi Sf. Gheorghe,0-1,?,U Craiova
 Sat Mar 16 2019,Calarasi,1-2,?,Poli Iasi
 Sat Mar 16 2019,Viitorul Constanta,0-1,?,CFR Cluj
 Sun Mar 17 2019,Gaz Metan Medias,2-1,?,Din. Bucuresti
-Sun Mar 17 2019,Astra,0-2,?,FC Steaua Bucuresti
+Sun Mar 17 2019,Astra,0-2,?,FCSB
 Mon Mar 18 2019,Concordia,2-2,?,FC Hermannstadt
 Mon Mar 18 2019,FC Voluntari,2-1,?,FC Botosani
 Fri Mar 29 2019,Din. Bucuresti,2-0,?,FC Hermannstadt
 Sat Mar 30 2019,CFR Cluj,1-0,?,Astra
 Sun Mar 31 2019,Concordia,1-2,?,FC Voluntari
 Sun Mar 31 2019,Poli Iasi,1-2,?,Gaz Metan Medias
-Sun Mar 31 2019,FC Steaua Bucuresti,3-2,?,U Craiova
+Sun Mar 31 2019,FCSB,3-2,?,U Craiova
 Mon Apr 1 2019,FC Botosani,1-2,?,Calarasi
 Mon Apr 1 2019,Sepsi Sf. Gheorghe,0-0,?,Viitorul Constanta
 Fri Apr 5 2019,Din. Bucuresti,3-2,?,Concordia
@@ -208,26 +208,26 @@ Sat Apr 6 2019,FC Hermannstadt,0-1,?,Poli Iasi
 Sun Apr 7 2019,Gaz Metan Medias,2-0,?,FC Botosani
 Sun Apr 7 2019,U Craiova,0-0,?,CFR Cluj
 Mon Apr 8 2019,Astra,1-4,?,Viitorul Constanta
-Mon Apr 8 2019,FC Steaua Bucuresti,2-0,?,Sepsi Sf. Gheorghe
+Mon Apr 8 2019,FCSB,2-0,?,Sepsi Sf. Gheorghe
 Fri Apr 12 2019,Concordia,3-0,?,Calarasi
 Fri Apr 12 2019,Poli Iasi,0-1,?,Din. Bucuresti
 Sat Apr 13 2019,FC Botosani,1-0,?,FC Hermannstadt
 Sat Apr 13 2019,Viitorul Constanta,2-1,?,U Craiova
 Sun Apr 14 2019,FC Voluntari,1-2,?,Gaz Metan Medias
-Sun Apr 14 2019,CFR Cluj,0-0,?,FC Steaua Bucuresti
+Sun Apr 14 2019,CFR Cluj,0-0,?,FCSB
 Mon Apr 15 2019,Sepsi Sf. Gheorghe,0-1,?,Astra
 Fri Apr 19 2019,FC Hermannstadt,1-1,?,FC Voluntari
 Fri Apr 19 2019,Astra,0-1,?,U Craiova
 Sat Apr 20 2019,Sepsi Sf. Gheorghe,0-1,?,CFR Cluj
 Sun Apr 21 2019,Gaz Metan Medias,0-0,?,Calarasi
-Sun Apr 21 2019,Viitorul Constanta,1-1,?,FC Steaua Bucuresti
+Sun Apr 21 2019,Viitorul Constanta,1-1,?,FCSB
 Mon Apr 22 2019,Poli Iasi,1-1,?,Concordia
 Mon Apr 22 2019,Din. Bucuresti,1-0,?,FC Botosani
 Fri Apr 26 2019,Concordia,0-2,?,Gaz Metan Medias
 Sat Apr 27 2019,Calarasi,0-0,?,FC Hermannstadt
 Sat Apr 27 2019,FC Voluntari,1-2,?,Din. Bucuresti
 Sun Apr 28 2019,FC Botosani,3-0,?,Poli Iasi
-Sun Apr 28 2019,FC Steaua Bucuresti,1-0,?,Astra
+Sun Apr 28 2019,FCSB,1-0,?,Astra
 Mon Apr 29 2019,U Craiova,1-0,?,Sepsi Sf. Gheorghe
 Mon Apr 29 2019,CFR Cluj,3-1,?,Viitorul Constanta
 Fri May 3 2019,Concordia,2-2,?,FC Botosani
@@ -235,13 +235,13 @@ Fri May 3 2019,Gaz Metan Medias,4-1,?,FC Hermannstadt
 Sat May 4 2019,Calarasi,1-0,?,Din. Bucuresti
 Sat May 4 2019,Viitorul Constanta,3-1,?,Sepsi Sf. Gheorghe
 Sun May 5 2019,FC Voluntari,0-0,?,Poli Iasi
-Sun May 5 2019,U Craiova,0-2,?,FC Steaua Bucuresti
+Sun May 5 2019,U Craiova,0-2,?,FCSB
 Mon May 6 2019,Astra,1-5,?,CFR Cluj
 Fri May 10 2019,FC Botosani,2-0,?,FC Voluntari
 Fri May 10 2019,Din. Bucuresti,2-0,?,Gaz Metan Medias
 Sat May 11 2019,FC Hermannstadt,1-0,?,Concordia
 Sat May 11 2019,Poli Iasi,4-0,?,Calarasi
-Sat May 11 2019,Sepsi Sf. Gheorghe,1-5,?,FC Steaua Bucuresti
+Sat May 11 2019,Sepsi Sf. Gheorghe,1-5,?,FCSB
 Sun May 12 2019,CFR Cluj,1-0,?,U Craiova
 Mon May 13 2019,Viitorul Constanta,3-0,?,Astra
 Tue May 14 2019,Calarasi,0-2,?,FC Botosani
@@ -253,7 +253,7 @@ Sat May 18 2019,Poli Iasi,1-1,?,FC Hermannstadt
 Sat May 18 2019,Concordia,0-2,?,Din. Bucuresti
 Sat May 18 2019,U Craiova,1-2,?,Viitorul Constanta
 Sun May 19 2019,FC Voluntari,0-0,?,Calarasi
-Sun May 19 2019,FC Steaua Bucuresti,1-0,?,CFR Cluj
+Sun May 19 2019,FCSB,1-0,?,CFR Cluj
 Mon May 20 2019,Astra,3-2,?,Sepsi Sf. Gheorghe
 Tue May 21 2019,FC Hermannstadt,0-2,?,FC Botosani
 Wed May 22 2019,Calarasi,2-0,?,Concordia
